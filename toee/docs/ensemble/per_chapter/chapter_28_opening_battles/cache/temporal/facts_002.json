@@ -1,0 +1,114 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs during the descent into the second level corridors and subsequent events, with no explicit calendar date provided.",
+    "source_quote": "",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "goblins count",
+    "fact": "Goblins are hauling bags of coin through a hidden door.",
+    "source_quote": "I saw the goblins. They were moving through a hidden door... hauling bags that clinked with the unmistakable weight of coin.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghouls count",
+    "fact": "Ghouls are dragging looted weapons through the same passage as the goblins.",
+    "source_quote": "Behind them, ghouls. Ghouls. Dragging looted weapons, threading the same passage with the same purposeful efficiency.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "fire snakes count",
+    "fact": "Fire snakes are engaged in combat with water gargoyles.",
+    "source_quote": "Fire snakes and a wounded salamander, locked in combat with four water gargoyles",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "water gargoyles count",
+    "fact": "Four water gargoyles are engaged in combat with fire snakes and a salamander.",
+    "source_quote": "Fire snakes and a wounded salamander, locked in combat with four water gargoyles",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "salamander count",
+    "fact": "One wounded salamander is engaged in combat with fire snakes and water gargoyles.",
+    "source_quote": "Fire snakes and a wounded salamander, locked in combat with four water gargoyles",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bag weight",
+    "fact": "Each bag carried by the goblins weighs approximately sixty pounds.",
+    "source_quote": "one bag, maybe sixty pounds of someone else's gold",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "prisoner count",
+    "fact": "Five prisoners are chained in the chamber, one of whom is freed.",
+    "source_quote": "They were huddled against the far wall, chained at the wrist... Four still chained.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "prisoner release sequence",
+    "fact": "The first prisoner is freed before the other four remain chained.",
+    "source_quote": "The chains hit the stone floor. That was when the others found their voices. Four still chained.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple hidden passage",
+    "fact": "A hidden passage inside the Air Temple leads to the Deep Temple.",
+    "source_quote": "Here's the secret door to the Greater Temple. A hidden passage inside the Air Temple itself",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "second level corridor air temperature",
+    "fact": "The air on the second level is cooler than the level above.",
+    "source_quote": "The second level hit different the moment we reached it. Cooler air.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Trophies dimensions",
+    "fact": "The Hall of Trophies has broad steps of dull black stone descending from the north wall into shadow.",
+    "source_quote": "Broad steps of dull black stone descended from the north wall into shadow",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "door movement sequence",
+    "fact": "The door opened and closed again while the party was distracted by the elemental battle.",
+    "source_quote": "This one opened on its own. Just: open, when it had been closed a moment before. Then closed again.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "trophies value",
+    "fact": "The trophies on the walls include mummified heads, torn battle standards, battered shields, and a broken broadsword, but no monetary value is stated.",
+    "source_quote": "The trophies on the walls said as much: mummified heads... Torn battle standards. Battered shields. A broken broadsword...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "escape sequence",
+    "fact": "The party slips away south during the elemental battle using steam for cover.",
+    "source_quote": "We moved between the billows, staying low, staying quiet, letting the heat swallow the sound of our passage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "summoning sequence",
+    "fact": "Hartsch summons the Obsidian Edge for a war council immediately after the prisoner's information is obtained.",
+    "source_quote": "Hartsch wanted them. Hartsch wanted his Obsidian Edge assembled, upstairs, immediately. War council. The summons had the texture of *now*.",
+    "quote_verified": true
+  }
+]

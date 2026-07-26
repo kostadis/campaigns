@@ -1,0 +1,149 @@
+[
+  {
+    "type": "location",
+    "subject": "passageway",
+    "fact": "The passageway goes east beyond the door.",
+    "source_quote": "Beyond the door is a passageway going east.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "hallway",
+    "fact": "Fresh air is wafting in from outside the hallway.",
+    "source_quote": "He walks down the hallway and realizes fresh air is wafting in from outside.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "barracks area",
+    "fact": "The barracks area has a door to the north.",
+    "source_quote": "Zinnia follows Zephyr and the guard down the hallway and arrive in a barracks area with a door to the north.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia says, 'We go through the doors. Remember, we are members of the cult of fire.'",
+    "source_quote": "Zinnia turns to him, \u201cWe go through the doors. Remember, we are members of the cult of fire.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr bluffs the guard by claiming they bring news and need reinforcements for Lareth the Beautiful.",
+    "source_quote": "\u201cWe have come here to see Lareth the Beautiful. We bring him news and need reinforcements.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful is the ruler of the abbey and was mentioned by Erin Darkmoon.",
+    "source_quote": "The brigand leader from the watch tower, Erin Darkmoon, told us there would be a man named Lareth the Beautiful who ran this place.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Erin Darkmoon",
+    "fact": "Erin Darkmoon told Zinnia's group that Lareth the Beautiful ran the abbey.",
+    "source_quote": "The brigand leader from the watch tower, Erin Darkmoon, told us there would be a man named Lareth the Beautiful who ran this place.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Snej",
+    "fact": "Snej worked for the water temple and provided information about the abbey before his death.",
+    "source_quote": "That information was given to us by the poor dead Snej. He worked for the water temple, mortal enemies of fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sergeant",
+    "fact": "The sergeant is present in the barracks and is not convinced by Zephyr\u2019s bluff.",
+    "source_quote": "\u201cWho are you?\u201d Zinnia stares at the man. *Their sergeant. We are close.* He watches as Zephyr bluffs them some more, explaining that he has information for Lareth and only Lareth. *He\u2019s not convinced.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bluff attempt on guard",
+    "fact": "Zephyr bluffs the guard into believing they are loyal cultists.",
+    "source_quote": "*The guard is convinced. Excellent.*",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lareth confirms identity",
+    "fact": "Lareth the Beautiful identifies himself to Zinnia and Zephyr.",
+    "source_quote": "\u201cI am Lareth. And who are you?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "claim of eliminating Snej",
+    "fact": "Zinnia and Zephyr claim they eliminated Snej to prove loyalty.",
+    "source_quote": "\u201cWe eliminated Snej. The abbey is ours to control, but we need reinforcements.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lareth accepts loyalty claim",
+    "fact": "Lareth accepts their claim of eliminating Snej and rewards them with the promise of reinforcements.",
+    "source_quote": "\u201cVery good. You, indeed, have proven your loyalty. And I will reward you. And yes, let\u2019s secure the abbey.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lareth changes mission",
+    "fact": "Lareth changes their mission from joining the abbey to retrieving a stolen chest.",
+    "source_quote": "\u201cNo, wait. I have a better idea. Something that your obvious skills and talents are better suited to. A particular piece of art I am very fond of, a chest, was stolen. I would like it back.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "Lareth the Beautiful owns a stolen chest he considers a piece of art.",
+    "source_quote": "A particular piece of art I am very fond of, a chest, was stolen.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The stolen chest is believed to be in the Kron Hills near Sheernob.",
+    "source_quote": "I don\u2019t know where they are besides the Kron Hills near Sheernob.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sheernob",
+    "fact": "Sheernob is a location near the Kron Hills where the stolen chest may be.",
+    "source_quote": "I don\u2019t know where they are besides the Kron Hills near Sheernob.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "cult of fire",
+    "fact": "Zinnia and Zephyr claim to be members of the cult of fire to gain access.",
+    "source_quote": "We go through the doors. Remember, we are members of the cult of fire.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "water temple",
+    "fact": "The water temple is a mortal enemy of the cult of fire and employed Snej.",
+    "source_quote": "He worked for the water temple, mortal enemies of fire.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "earth elemental cultists",
+    "fact": "Bandits posing as earth elemental cultists stole Lareth's chest.",
+    "source_quote": "Some bandits, marauders pretending to be earth elemental cultists, poseurs.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "promise to kill Lareth the Beautiful",
+    "fact": "Erin Darkmoon gave information about Lareth the Beautiful in exchange for a promise to kill him.",
+    "source_quote": "She gave us that information for the promise to kill him.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 15, 579.",
+    "source_quote": "Date: Planting 15, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia decides to gather information by talking to common folk in a tavern.",
+    "source_quote": "Zinia, always the master spy, decided that they needed information. The best way to get it was to talk to folks in a Tavern looking for someone to buy them a drink.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia observes that the tavern patrons are common folk, farmers, traders, and passers-by with no business or chores.",
+    "source_quote": "Looking around, he noticed that these were all common folk, farmers, traders, and passers-by. It was midday, and these people had no business or chores.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia learns from a patron that a Black Jay is a mysterious herdsman in league with local bandits who tips them off.",
+    "source_quote": "One talked about a Black Jay. He was a mysterious and forlorn herdsman in league with local bandits. This mysterious man would tip the bandits off.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia reflects that the locals do not know the relationship between the bandits and the Temple.",
+    "source_quote": "Zinia thinks, \u201cAh, so these folks don\u2019t know the relationship to the Temple. Good.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Y\u2019dey",
+    "fact": "Y\u2019dey, the head cleric of the village, has mysteriously disappeared.",
+    "source_quote": "the following person, a stout woman of indeterminate middle age, mutters that Y\u2019dey, the head cleric of the village, has mysteriously disappeared.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "Terjon, the priest, is closed-mouthed about Y\u2019dey\u2019s disappearance.",
+    "source_quote": "The priest, Terjon, is awfully closed-mouthed about the situation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "A patron suspects Terjon played a role in Y\u2019dey\u2019s disappearance because he is now in charge.",
+    "source_quote": "She best that he played no small role in her disappearance as he is in charge now.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia reflects that the locals distrust central authority and are prone to conspiratorial thinking.",
+    "source_quote": "Zinnia reflects, \u201cDistrust of central authority, and prone to conspiratorial thinking, Good.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "A patron claims Burne and Rufus are lackeys for the Crown of Verbobonc.",
+    "source_quote": "Burne and Rufus are nothing but lackeys for the Crown of Verbobonc.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "A patron refers to the castle being built as \u201cBurne\u2019s Folly.\u201d",
+    "source_quote": "Once they complete their castle (\u201cBurne\u2019s Folly\u201d is what I would call it), they will reveal their true motivations...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia connects the locals\u2019 fear of Verbobonc\u2019s assimilation to their allegiance to Beory and Verbobonc\u2019s theocracy.",
+    "source_quote": "Zinia connects the dots and explains to his companions, \u201cThe locals see the threat of being assimilated by Verbobonc as bigger than the temple. It\u2019s probably related to their allegiance to the god Beory and Verbobonc\u2019s theocracy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia explains that Verbobonc is committed to St. Cuthbert, who seeks to proselytize and eliminate non-believers through conversion.",
+    "source_quote": "Verbobonc is committed to St. Cuthbert, and that god is committed to proselytizing and eliminating through conversion anyone who doesn\u2019t at least acknowledge the importance of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia concludes the locals know nothing more of value.",
+    "source_quote": "Zinia tells the group that the locals know nothing more of value.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Jaroo's grove",
+    "fact": "Jaroo's grove is a place of worship with neatly pruned trees and well-tended grass.",
+    "source_quote": "The grove is a place of worship. The caretaker has neatly pruned the trees, and the grass is well-tended.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Jaroo's grove",
+    "fact": "A line of bluish stones sets off the path to a rock cairn in Jaroo's grove.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Jaroo's grove",
+    "fact": "Flowers, nuts, berries, and leaf garlands are placed at the rock cairn in Jaroo's grove.",
+    "source_quote": "...where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Jaroo's grove",
+    "fact": "A small path leads from the shrine to a low-roofed wooden building under the central oaks.",
+    "source_quote": "A small path leads beyond the shrine to a low-roofed wooden building placed under the great boughs of the central oaks of the thicket.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo is an older man in a hooded robe with a flowing beard who tends the grove.",
+    "source_quote": "an older man in a robe with a hood over his head and a flowing beard appears.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo asks visitors if they have come to contribute to a collection box.",
+    "source_quote": "\u201cHave you come to contribute?\u201d says the man, pointing to a collection box.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo introduces himself as the keeper of the blessed grove.",
+    "source_quote": "\u201cI am Jaroo, the keeper of this blessed grove.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo looks at Zephyr with unmistakable disgust.",
+    "source_quote": "but he notices that Jaroo looks at him with unmistakable disgust.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Zephyr realizes Jaroo believes Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Zephyr immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo was sent to observe events after the defeat of the Temple of Elemental Evil.",
+    "source_quote": "Jaroo was sent here to observe the events after the defeat of the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo is upset that Verbobonc seeks to absorb the faithful into its Church instead of just protecting Hommlet.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo distrusts the intentions of Burne, Rufus, and Terjon.",
+    "source_quote": "Jaroo distrusts the intentions of Burne and Rufus, and Terjon's goals.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo reveals the Moathouse",
+    "fact": "Jaroo tells Sequoia about the Moathouse as the former outpost of the Temple of Elemental Evil.",
+    "source_quote": "Jaroo tells them of the Moathoase. \u201cThe mouthouse was once the outpost of the Temple of Elemental Evil, its watchtower an advance base for raids, looting, and destruction.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo describes Temple's expansion",
+    "fact": "Jaroo explains that the Temple of Elemental Evil enslaved conquered folk to build another fortress westward, spreading evil in growing rings.",
+    "source_quote": "From this area, servants of the Temple were to bring the Village of Hommlet and all the lands around it into subjection. The temple enslaved the conquered folk, and then they were forced to construct yet another fortress further west, spreading the evil power of the Temple in ever-growing rings to encompass all of the lands around its base.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo references Battle of Emiry Meadows",
+    "fact": "Jaroo says the Temple\u2019s expansion ended with the Battle of Emiry Meadows.",
+    "source_quote": "This ended with the Battle of Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo identifies pattern similarity",
+    "fact": "Jaroo notes that the circles of outposts uncovered are too early and similar to the original Temple\u2019s plots to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo instructs group to investigate Moathouse",
+    "fact": "Jaroo tells the group they must investigate the Moathouse.",
+    "source_quote": "You must go and investigate the Moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo demands secrecy",
+    "fact": "Jaroo insists they tell him alone what they find in the Moathouse, not anyone else.",
+    "source_quote": "when you have found what you are looking for, you must tell me and me alone. Do not tell anyone else...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo warns against Burne and Rufus",
+    "fact": "Jaroo warns that Burne and Rufus may use any information gained to restrict the druids\u2019 freedoms.",
+    "source_quote": "As for Burne and Rufus, they may use whatever information they glean to restrict our freedoms.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower",
+    "fact": "The only part of the castle built is a 55-foot tower with a 35-foot inner tower.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built. This structure is some 55 feet tall, a smaller tower rising inside the greater at about 35 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower",
+    "fact": "The tower\u2019s entrance is accessible only by a curving stone stairway ending in a landing 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower",
+    "fact": "The tower has several arrow slits, a splay base 6 feet high, machicolated battlements, and pierced merlons.",
+    "source_quote": "There are several arrow slits around the tower, and it has a splay around the base to about 6 feet in height. The lower and upper battlements are machicolated, and the merlons are pierced for archers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne and Rufus's guard",
+    "fact": "Two men-at-arms watch from the roof of the tower.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne and Rufus's guard",
+    "fact": "The guard at the tower door asks the group for their business.",
+    "source_quote": "The guard at the door asks them for their business.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "guard lets group in",
+    "fact": "The guard lets the group in after they claim to have news about brigands from the Narwell caravan.",
+    "source_quote": "\u201cWe came in with the latest caravan from Narwell and have news about brigands.\u201d The guard coughs and lets them in.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "Shuttered arrow slits flank the inner door of the tower.",
+    "source_quote": "Shuttered arrow slits flank the door to the room...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "Two murder holes are in the ceiling of the tower\u2019s entry room.",
+    "source_quote": "...and two murder holes are in the ceiling.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "Two fireplaces flank the inner portal where servants cook.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "The lords sit in judgment at a table in the curved alcove or in the main room.",
+    "source_quote": "The lords of the place sit in judgment either here or at a table in the curved alcove.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "Trestle tables can be extended to accommodate 40 people during feasts.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "Comfortable chairs are placed along the walls of the tower\u2019s main room.",
+    "source_quote": "Several comfortable chairs are placed along the walls...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "The walls are hung with tapestries, shields, arms, and hunting trophies.",
+    "source_quote": "the walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "tower decorations",
+    "fact": "The tower\u2019s walls display 12 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "12 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne and Rufus's tower interior",
+    "fact": "Ramps curving upwards and downwards lead to other levels of the tower.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus is a powerfully built man of average height with blue eyes, a delicate nose, and golden blond hair.",
+    "source_quote": "Rufus is a powerfully built man of average height with blue eyes, a delicate nose, and golden blond hair.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus wears white linen pants and a dark blue blouse that shows much of his chest.",
+    "source_quote": "He is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne is a youngish man with long brown hair, green eyes, and an aquiline nose.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne wears a mage robe with scuff marks and scratches on it.",
+    "source_quote": "He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Burne and Rufus are revealed as romantic partners",
+    "fact": "Sequoia realizes Burne and Rufus are romantically involved.",
+    "source_quote": "Sequoia immediately understands that they are an item.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Burne expresses surprise at guests",
+    "fact": "Burne expresses surprise that Rufus didn\u2019t tell him about the guests and apologizes for his attire.",
+    "source_quote": "\u201cRufus, why didn\u2019t you tell me we had guests? I would have worn the proper attire.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rufus defends Burne's attire",
+    "fact": "Rufus tells Burne he looks fabulous and apologizes for interrupting his experiments.",
+    "source_quote": "\u201cIt\u2019s okay. You look fabulous. I am so sorry to tear you away from your experiments.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rufus hears of Temple resurgence",
+    "fact": "Rufus learns from Sequoia that there may be a resurgence of the Temple of Elemental Evil.",
+    "source_quote": "Rufus explains that the heroes have discovered that there may be a resurgence of the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne responds in horror to the idea of the Temple\u2019s resurgence.",
+    "source_quote": "Burne is horrified, \u201cThat\u2019s impossible.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rufus insists on reporting to Verbobonc",
+    "fact": "Rufus says that if the Temple has resurged, the information must be presented to their boss in Verbobonc.",
+    "source_quote": "My friends, if you were to find out that the temple was resurgent, that would be critical secret information. It would be essential that we present it to our boss in Verbobonc.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rufus deputizes group",
+    "fact": "Rufus deputizes the group, requiring them to report information to him first.",
+    "source_quote": "I am deputizing you. As my deputies, you are required to talk to me first. If you refuse my offer of being a deputy, I will have you arrested, or worse, if you explore the Moathouse. As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia accepts deputation",
+    "fact": "Sequoia smiles and nods in acceptance of Rufus\u2019s deputation.",
+    "source_quote": "Sequoia smiles and nods.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia resolves to control information",
+    "fact": "Sequoia decides that once he has information, he will decide what to share.",
+    "source_quote": "Once he has information, he will decide what to share.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia decides to retrieve their cleric, Calmer.",
+    "source_quote": "\u201cWe need to go get our cleric, Calmer.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "The Temple of St. Cuthbert is massive and imposing for the small village of Hommlet.",
+    "source_quote": "A massive, imposing structure that is ridiculously too large for such a small village with so few souls.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the cleric of the group who is found at the Temple of St. Cuthbert.",
+    "source_quote": "Inside, he finds Calmer...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "Terjon is introduced to Zinia by Calmer as the high priest.",
+    "source_quote": "excitedly introduces him to Terjon. The high priest Terjon is happy to talk to Zinia alone...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "Terjon recognizes Zinia as a recent convert.",
+    "source_quote": "Terjon... recognizes Zinia as a recent convert.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Terjon agrees to Calmer joining group",
+    "fact": "Terjon agrees that Calmer should join the group.",
+    "source_quote": "Terjon agrees with the idea that Calmer should join the group.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Terjon demands secrecy",
+    "fact": "Terjon requests that Zinia share any information only with him alone.",
+    "source_quote": "\u201cWhatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "Zinia and his companions secure accommodations at the Inn of the Welcome Wench.",
+    "source_quote": "Zinia heads to the Inn of the Welcome Wench, where he and his traveling companions secure reasonable accommodations for reasonable prices...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr demands the best room at the Inn of the Welcome Wench.",
+    "source_quote": "...except for Zephyr, who is a spendthrift and demands the best room.",
+    "quote_verified": false
+  }
+]

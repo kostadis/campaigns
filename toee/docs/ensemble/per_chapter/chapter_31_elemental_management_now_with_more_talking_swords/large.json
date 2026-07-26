@@ -1,0 +1,268 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a tiefling who understands infernal contracts, negotiates with fire creatures, and willingly endures pain to seal an alliance with a salamander, demonstrating both pragmatism and deep personal risk.",
+    "source_quote": "I will die sooner,\" he said, and closed his hand around the salamander.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a sharp-eyed rogue who sees through disguises and false piety, calling out Calmer\u2019s pretense as a cleric and recognizing the strategic value of leverage in alliances.",
+    "source_quote": "You're not a real cleric for the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a scholar of arcane artifacts who reads magical inscriptions, wields sentient weapons, and forms an unexpected bond with Frostbrand \u2014 a cold sword that recognizes him as neutral good despite his morally ambiguous past.",
+    "source_quote": "You, you are exactly what I was looking for.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a man pretending to be the Prophet of the Earth Temple, whose internal conflict between faith and performance grows visible as he clings to titles and rituals while betraying his true allegiance.",
+    "source_quote": "We should start calling him the Prophet, the Prophet Calmer, the Prophet of the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Salamander (Vorkal)",
+    "fact": "Vorkal is an ancient, intelligent fire salamander who surrendered not out of weakness but calculation, offering intelligence on the Greater Temple in exchange for continued autonomy \u2014 a prisoner-turned-retainer with deep history.",
+    "source_quote": "Old jailor, old prisoner. It demanded satisfaction.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Frostbrand",
+    "fact": "Frostbrand is a sentient, ancient magical sword forged in opposition to fire, trapped for centuries in the Fire Temple, and now awakened to recognize Sequoia as its true wielder \u2014 a weapon of vengeance with a voice and memory.",
+    "source_quote": "It announced that the two of us would sneak around and kill creatures, that we would defeat the evil of the Temple of Elemental Evil and have our vengeance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Frostbrand",
+    "fact": "Frostbrand is a cold, sentient sword that defies its environment \u2014 burning with chill in a fire pit \u2014 and carries the memory of its imprisonment by Vorkal, seeking justice and a worthy wielder.",
+    "source_quote": "It started talking \u2014 to Vorkal, in whatever language salamanders curse in \u2014 and the whole thing turned.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Infernal Contract",
+    "fact": "The infernal contract is a magical parchment that rearranges its text for the reader, containing clauses that demand soul or ownership \u2014 which Zephyr nullifies with his own hand, revealing his experience with such pacts.",
+    "source_quote": "He struck them out. Soul, ownership, whatever the thing was reaching for \u2014 gone, lines drawn through it in his own hand before he'd spent a drop of blood.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Salamander's Surrender",
+    "fact": "The salamander knelt and laid down its weapon, not in defeat but as a tactical negotiation \u2014 a moment that shifted the party from combatants to potential allies and triggered a chain of revelations about the deeper conflict beneath the temples.",
+    "source_quote": "It stopped. It knelt. It set its flaming spear down on the stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Frostbrand's Awakening",
+    "fact": "Frostbrand awoke from its prison, recognized Sequoia as its true wielder, confronted its jailor Vorkal, and declared its purpose \u2014 forcing the party to reckon with ancient grudges and moral alignments beyond their mission.",
+    "source_quote": "It pointed at Zephyr first. Zephyr is neutral. The sword said no... and then it came back to me.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's Revelation",
+    "fact": "Calmer\u2019s false identity as the Prophet of the Earth Temple was exposed by Zinnia, and his desperate clinging to titles during the chest-opening revealed his internal collapse \u2014 the cover had become his cage.",
+    "source_quote": "He wasn't asking whether the deal was sound. He was asking whether the prophet of the Earth Temple could be seen shaking hands with fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Greater Temple",
+    "fact": "The salamander holds secrets about what is truly happening beneath the elemental temples \u2014 a hidden power structure that the party must now pursue, making this alliance the first thread in a larger conspiracy.",
+    "source_quote": "It knows things. About the Greater Temple. About what is actually happening beneath all of this.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Alrrem's Fate",
+    "fact": "The name Alrrem is invoked as a lost figure \u2014 possibly a leader, a martyr, or a key to the temples\u2019 collapse \u2014 whose death triggered the current war and whose memory haunts both Frostbrand and the former Fire Temple commander.",
+    "source_quote": "The obsidian edge, the interlopers who killed Alrrem, destroyed my temple, massacred my forces.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "St. Cuthbert's Name",
+    "fact": "Frostbrand uttered the name St. Cuthbert\u2019s in a temple where it is a death sentence \u2014 hinting at a forgotten holy war, a corrupted faith, or a hidden connection between elemental evil and divine justice.",
+    "source_quote": "Named him for St. Cuthbert's, out loud, in a temple where that name is a death sentence.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple Throne Room",
+    "fact": "The throne room is a decadent, burning sanctuary of fire worship, now abandoned and littered with the relics of a fallen commander \u2014 a place of symbolic power where the last vestige of authority sits broken.",
+    "source_quote": "A huge wooden seat, red and gilt, with a gold skull leering off the back. A throne, in other words.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Pit Vault",
+    "fact": "The vault beneath the fire pit contains relics designed to oppose fire \u2014 a cold sword, frost-resistant gear \u2014 suggesting the temple was built to contain or imprison something that should never have been released.",
+    "source_quote": "A sword, cold to the touch, wrong in this room full of heat.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is a fractured network of rival elemental cults \u2014 Fire, Water, Earth \u2014 each with its own leaders, secrets, and ancient grudges, now in open war and manipulated by deeper, hidden forces.",
+    "source_quote": "Ran a three-way war and let it eat itself.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple Clerics",
+    "fact": "The Earth Temple clerics are a revered order whose authority is being usurped by Calmer\u2019s imposture \u2014 a sacred institution now under threat from within, its symbols weaponized for personal gain.",
+    "source_quote": "I am the new Earth Temple cleric, and I don't know whether that's appropriate.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Emridy Meadows",
+    "fact": "Frostbrand was taken as a trophy during the fall of Emridy Meadows \u2014 a historical event marking the beginning of its imprisonment and the rise of the Fire Temple\u2019s dominance.",
+    "source_quote": "Since Emridy Meadows. Picked up as a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Former Fire Temple Commander",
+    "fact": "The former commander is a broken man, haunted by the loss of his temple and the death of Alrrem, now sitting alone in his throne as the last witness to a fallen order.",
+    "source_quote": "My name. I need a name, hold on... Have you come here to finish the job?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the newly ascended leader of the Earth Temple, having coerced the surrender of the Fire Temple\u2019s commander through intimidation and the symbolic handing-over of two gold coins \u2014 a gesture that signified submission, not payment.",
+    "source_quote": "I will not forget this,\" Zephyr told him. \"Nor will I,\" said the commander.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the self-proclaimed supreme commander of the Upper Temple, having declared himself both Chief Cleric and head of the Earth Temple Forces, installing Dren Halveth as his subordinate commander and asserting absolute authority over all surviving temple factions.",
+    "source_quote": "the Obsidian Edge and the Chief Cleric is myself, Calmer.\" I gestured at my loyal henchmen. \"And these are my loyal henchmen, and you will, of course, be subordinate to Dren Halveth, who is the commander, supreme commander of the Earth Temple Forces.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth has been appointed by Calmer as the supreme commander of the Earth Temple Forces, a position of delegated authority meant to enforce Calmer\u2019s rule over the conquered temple hierarchy.",
+    "source_quote": "you will, of course, be subordinate to Dren Halveth, who is the commander, supreme commander of the Earth Temple Forces.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has absorbed the remnants of the Fire Temple and is now the dominant power within the temple complex, having seized control of its leadership, personnel, and sacred artifacts through force, psychological dominance, and the symbolic ritual of surrender.",
+    "source_quote": "We had ourselves another retainer \u2014 a captain now, wounded, sworn in by intimidation and the surrender of two gold pieces, marked in red so there would be no mistaking whose man he was.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple has been dismantled as an independent institution; its clerics are dead or subjugated, its sacred space occupied, and its last surviving leader has been forced to renounce her former allegiance and accept a subordinate role under the Earth Temple.",
+    "source_quote": "You know, I never really liked Alrrem.\" / \"The last one. Ours now.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Surrender of the Fire Commander",
+    "fact": "The Fire Temple\u2019s commander surrendered not through battle, but through the ritualized exchange of two gold coins \u2014 a transaction that functioned as a symbolic act of fealty, marking the end of the Fire Temple\u2019s autonomy and the beginning of Earth Temple dominance.",
+    "source_quote": "Two gold coins for sparing your life, please.\" / \"The coins meant nothing. The handing-over meant everything.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ascension of Calmer",
+    "fact": "Calmer formally declared himself Chief Cleric and supreme ruler of the Upper Temple, reorganizing the command structure by installing Dren Halveth as his subordinate and asserting absolute authority over all surviving temple forces, including former enemies.",
+    "source_quote": "I am the boss. Yes, I am.\" / \"I kept finding that, lately \u2014 Zephyr isn't wrong, the title fits, the chain holds, and the men keep handing me their swords hilt-first.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ambush at the Water Temple",
+    "fact": "The party triggered a defensive mechanism in the Water Temple by touching the bronze bas-relief, awakening stone gargoyles as guardians \u2014 leading to a violent confrontation in which Calmer summoned radiant spirits to annihilate three of the four constructs, demonstrating his mastery over divine forces.",
+    "source_quote": "I reached for the swirling spirits. They came the way they always come for me... the first gargoyle nearest the spirits simply ended \u2014 there one instant, gone the next.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Two Gold Coins",
+    "fact": "The two gold coins handed over by the Fire Commander were not ransom, but a ceremonial token of submission \u2014 a physical symbol of surrender that carried greater weight than any oath or treaty, marking the recipient as the new master.",
+    "source_quote": "The coins meant nothing. The handing-over meant everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the title Calmer uses to represent his absolute authority \u2014 a symbolic name tied to his self-declared supremacy over the Upper Temple, evoking sharpness, finality, and unyielding control.",
+    "source_quote": "the Obsidian Edge and the Chief Cleric is myself, Calmer.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple Chamber",
+    "fact": "The Fire Temple chamber, once a place of opulence and devotion to flame, has been transformed into a conquered space \u2014 its rugs, tapestries, and candelabra now signs of occupation, its throne and relics claimed by the Earth Temple\u2019s new rulers.",
+    "source_quote": "A wounded man on a throne in a chamber we had just walked into uninvited, in a temple we now ran.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a sacred, magically infused space of polished azurite and malachite, with a submerged fortune on its altar and guardian gargoyles that animate when the temple is disturbed \u2014 now a battleground for the party\u2019s assertion of dominion.",
+    "source_quote": "Slabs of polished azurite and malachite... a great sheet of bronze... coins. Gems. Seashells. A whole drowned fortune sitting there waiting.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who is the Real Boss?",
+    "fact": "A persistent thread runs through the party\u2019s actions: the question of who truly holds authority \u2014 Zephyr, Calmer, or the collective \u2014 as each claims leadership through different means: ritual surrender, divine proclamation, or tactical dominance.",
+    "source_quote": "I am the boss. Yes, I am.\" / \"We had ourselves another retainer...\" / \"Zephyr isn't wrong.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Titles vs. Power",
+    "fact": "The party is engaged in an ongoing ritual of title-building \u2014 Chief Cleric, Supreme Commander, Prophet Calmer \u2014 not for legitimacy, but to cement psychological control over conquered foes and allies alike, revealing that names now outweigh deeds.",
+    "source_quote": "Chief Cleric is a fine thing to say... Prophet would be finer still \u2014 I had been turning the word over all session, the weight of it, *Prophet Calmer*.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Water Temple Gargoyles",
+    "fact": "The four stone gargoyles of the Water Temple were awakened guardians, animated by ancient magic to defend the temple\u2019s sanctity \u2014 three were destroyed by Calmer\u2019s radiant spirits, one remains unengaged.",
+    "source_quote": "The gargoyles came off their pillars. Wings unfolding. Stone going from stone to *intent.*",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Salamanders (Historical)",
+    "fact": "Salamanders were previously summoned as a consequence of Calmer\u2019s misuse of water magic in a prior temple \u2014 a memory invoked to justify his current caution and to assign blame to Zephyr\u2019s recklessness.",
+    "source_quote": "Last time it was me with the water who got picked on, and the salamanders came, and everyone had opinions.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Timeline",
+    "fact": "The events described occurred within a single campaign session, marked by rapid conquests: Fire Temple subdued, Water Temple ambushed, and leadership structures reorganized \u2014 all within hours of each other.",
+    "source_quote": "I had been turning the word over all session...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Meaning of Surrender",
+    "fact": "A deeper thread emerges: surrender is no longer a battlefield outcome, but a psychological ritual \u2014 two coins, a name spoken, a title accepted \u2014 and those who perform it best now rule.",
+    "source_quote": "The coins meant nothing. The handing-over meant everything.\" / \"I will not forget this.\" / \"Nor will I.",
+    "quote_verified": false
+  }
+]

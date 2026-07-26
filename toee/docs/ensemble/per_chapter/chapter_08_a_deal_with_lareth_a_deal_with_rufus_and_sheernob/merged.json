@@ -1,0 +1,2602 @@
+[
+  {
+    "type": "date",
+    "subject": "Harvest Festival Date",
+    "fact": "The Harvest Festival is an imminent event, creating urgency for Quinna\u2019s quest and the town\u2019s collective hope.",
+    "source_quote": "I hope to see you soon and help our small town have its festival.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 20, 579",
+    "fact": "The events of the moathouse and Verbobonc report occur on Planting 20, 579 at midday.",
+    "source_quote": "### Planting 20, 579 Midday",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 20, 579 Midday",
+    "fact": "The day on which the investigation into the moathouse, the meeting with Rufus and Burne, and the revelation of the art chest\u2019s importance occurred.",
+    "source_quote": "Planting 20, 579 Midday",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 21, 579",
+    "fact": "The events in Sheernobb occur on Planting 21, 579 in the morning.",
+    "source_quote": "### Planting 21, 579 Morning",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Planting 21, 579 Morning",
+    "fact": "The day on which the party began their journey to Sheernobb, following the revelations at Hommlet.",
+    "source_quote": "Planting 21, 579 Morning",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 20 and Planting 21, 579.",
+    "source_quote": "Planting 20, 579 Midday\n\nPlanting 21, 579 Morning",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 21, 579 Morning.",
+    "source_quote": "### Planting 21, 579 Morning",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "time of arrival",
+    "fact": "Zephyr and his crew arrived in Sheernobb at a time when the village was bustling with daily activity, shortly after their previous visit weeks ago.",
+    "source_quote": "We were here a few weeks ago to return a dragon?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Hommlet",
+    "fact": "The group arrives at Hommlet.",
+    "source_quote": "A few hours later, the group arrives at Hommlet.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "art festival cycle",
+    "fact": "The Viscounty's art festival to gift art to the Kingdom of Celene has been ongoing for some time.",
+    "source_quote": "This has been going on for some time",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "art festival timing",
+    "fact": "The annual art festival competition occurred a few months ago.",
+    "source_quote": "A few months ago, the annual competition occurred",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "art festival tradition",
+    "fact": "The Viscounty holds an annual art festival to create a gift for the Kingdom of Celene, hoping to initiate diplomatic negotiations. The gift is left at the border, and its disappearance within a week is interpreted by the Viscounty as acceptance by the elves.",
+    "source_quote": "We hope the elves will see our efforts over time and choose to meet with a delegation. This has been going on for some time, and now the competition is viewed as an opportunity for the rich, powerful, and talented to showcase their talent.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "bard performance",
+    "fact": "Gurdy plays a song for the group at the Honey Haven Tavern.",
+    "source_quote": "The bard plays a song",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer ignores Zephyr\u2019s warning and drinks the mead anyway.",
+    "source_quote": "Calmer ignores him and drinks it anyway.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer drinks mead despite warning",
+    "fact": "Calmer ignores Zephyr\u2019s warning and drinks the glass of mead anyway.",
+    "source_quote": "Calmer ignores him and drinks it anyway.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "captain ordering mead",
+    "fact": "The captain shouts for Mari to give Zephyr and others more mead and offers to pay for it.",
+    "source_quote": "The captain shouts, \u201cMari, give them some more mead. I\u2019ll pay for it..\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "captain\u2019s departure",
+    "fact": "The captain finishes his instructions and departs, ending the interaction.",
+    "source_quote": "And with that, the captain goes.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Election",
+    "fact": "An upcoming political election that motivates Captain Gnonsbim to demand public credit for the bandit takedown, revealing his personal stakes beyond duty.",
+    "source_quote": "There\u2019s an election coming up.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gurdy invited to join party",
+    "fact": "Calmer says, 'I am sorry, there is no room in this quartet. You are not welcome.'",
+    "source_quote": "I am sorry, there is no room in this quartet. You are not welcome.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Harvest Festival",
+    "fact": "A local celebration that Quinna Pool is preparing for, requiring the rare boar\u2019s meat. The festival is a driving motivation for the quest and a symbol of community hope.",
+    "source_quote": "It turns out that I want to prepare a celebratory meal for the Harvest Festival.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Mari Clee\u2019s Financial Strategy",
+    "fact": "Mari Clee subtly manipulates the group\u2019s dynamics by encouraging expensive orders from non-leaders, ensuring Zephyr pays for everything under the guise of hospitality.",
+    "source_quote": "I assume the leader, here, will pay for everything?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "missing art chest",
+    "fact": "The annual Viscounty art festival gift \u2014 a chest \u2014 was stolen during its mission to the Celene border. Its disappearance has triggered a cover-up, as its return would expose the Viscounty\u2019s diplomatic failure.",
+    "source_quote": "A few months ago, the annual competition occurred, and a chest was selected. There was a mission to take the chest to Celene. The mission was attacked, and the chest went missing.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "quest offered for stolen mead",
+    "fact": "The inn owner offers a quest: 'Find out what happened [to the stolen mead], and you get free lodging at the Honey Haven Tavern for a week and a small keg of my enchanted meed.'",
+    "source_quote": "Find out what happened, and you get free lodging at the Honey Haven Tavern for a week and a small keg of my enchanted meed.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia accepts bandit quest",
+    "fact": "Sequoia accepts the quest to find and eliminate the bandits.",
+    "source_quote": "Zephyr nods.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia accepts boar quest",
+    "fact": "Sequoia accepts the quest to kill the gnarled boar.",
+    "source_quote": "Sequoia says yes.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia accepts mead quest",
+    "fact": "Sequoia accepts the quest to find the stolen mead.",
+    "source_quote": "Sequoia has already accepted the quest.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia accepts the gnarled boar hunt",
+    "fact": "Sequoia agrees to hunt the gnarled boar for Quinna Pool.",
+    "source_quote": "Sequoia says yes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia accepts the mead theft quest",
+    "fact": "Sequoia accepts the quest to find the stolen barrels of mead.",
+    "source_quote": "Sequoia has already accepted the quest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr notices that the cleric is already a bit drunk.",
+    "source_quote": "Zephyr notices that the cleric is already a bit drunk",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr shouts at Calmer to stop drinking.",
+    "source_quote": "shouts, \u201cThat\u2019s enough.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr accepts the bandit hunt",
+    "fact": "Zephyr accepts Captain Gnonsbim\u2019s offer to find the bandits.",
+    "source_quote": "Zephyr nods.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr and group entering Sheernobb",
+    "fact": "Zephyr is allowed into Sheernobb after showing Knarfallan\u2019s ring.",
+    "source_quote": "Once that ring is noticed, the guard\u2019s demeanor changes instantly and is much friendlier. \u201cVery well, you may enter,\u201d he says",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr\u2019s Entry into Sheernobb",
+    "fact": "Zephyr gains entry into Sheernobb after being recognized by a ring gifted by Knarfallan, which overrides initial suspicion from the gnome guards and establishes his status as a person of interest.",
+    "source_quote": "Once that ring is noticed, the guard\u2019s demeanor changes instantly and is much friendlier.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "agents of chaos",
+    "fact": "Agents of chaos are suspected of pretending to be cultists to destabilize Verbobonc.",
+    "source_quote": "Agents of chaos",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "fire temple",
+    "fact": "The cultists are operating as members of the fire temple.",
+    "source_quote": "They were operating as members of the fire temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gnome Guards of Sheernobb",
+    "fact": "The gnome guards of Sheernobb are a vigilant, authority-driven group who assess newcomers with suspicion but recognize tokens of trust \u2014 like Knarfallan\u2019s ring \u2014 that override initial judgment.",
+    "source_quote": "They are small in stature but carry an air of authority, their eyes sharp and watchful.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kingdom of Celene",
+    "fact": "The Kingdom of Celene rejects art it finds hideous.",
+    "source_quote": "The elves apparently will destroy any art they think is hideous",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kingdom of Celene",
+    "fact": "The Kingdom of Celene rejects non-elves and evaluates the Viscounty\u2019s annual art gifts with ruthless aesthetic judgment: they destroy art they deem hideous and leave behind art they believe has potential. The disappearance of the gift signals acceptance.",
+    "source_quote": "The elves apparently will destroy any art they think is hideous, whereas any art they believe has potential they will leave behind.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil's events destabilized the region.",
+    "source_quote": "The events of the Temple of Elemental Evil destabilized the entire region.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Bandits",
+    "fact": "A growing bandit threat that has become more organized than before, disrupting trade and endangering farms. They are the target of multiple quests from Gurdy, Captain Gnonsbim, and possibly others.",
+    "source_quote": "They are more organized. Everyone wants to protect their town and farms, and no one wants to find the bandits and deal with them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Viscounty",
+    "fact": "The Viscounty has expanded its military presence due to the Temple of Elemental Evil's destabilization.",
+    "source_quote": "the Viscounty has expanded its military presence in the area",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Viscounty of Verbobonc",
+    "fact": "The Viscounty of Verbobonc has expanded its military presence under the pretense of stabilizing the region after the Temple of Elemental Evil\u2019s collapse. It is actively concealing the failure of the annual art gift to Celene and promoting the myth that the elves accepted it.",
+    "source_quote": "Some would like to pretend that the Viscounty has not stabilized matters. To do so, they would like to pretend that the agents of chaos have returned.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "gnarly forest",
+    "fact": "The gnarly forest is where the rare gnarled boar roams.",
+    "source_quote": "a rare gnarled boar that roams the gnarly forest",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hommet",
+    "fact": "Hommet contains a tower where the agents of Verbobonc are located.",
+    "source_quote": "the group arrives at Hommlet. Sequoia sees Rufus\u2019 folly in the distance",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is the settlement where Verbobonc\u2019s agents, Burne and Rufus, are stationed. It serves as the administrative hub for monitoring cultist activity and managing the fallout of the missing art chest.",
+    "source_quote": "A few hours later, the group arrives at Hommlet. Sequoia sees Rufus\u2019 folly in the distance and sighs \u2014 'Let\u2019s report to the local chief of police.'",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Sequoia sees Rufus\u2019 folly in the distance.",
+    "source_quote": "Sequoia sees Rufus\u2019 folly in the distance",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern has Elm wood benches, tables, desks, and bar.",
+    "source_quote": "The benches, tables, desks, and bar have all been shaped out of Elm wood",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern has a hand-painted bee on its sign.",
+    "source_quote": "depicts a hand-painted bee perched on the edge of a flower",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern has a kitchen behind the bar and double doors leading to a patio.",
+    "source_quote": "the doorway to the kitchen opens behind them. A pair of double doors lead to the patio outback.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern has an oversized fireplace with glass globes containing fireflies.",
+    "source_quote": "Logs crackle in the oversized fireplace, lighting up the room with several dozen small glass globes hanging from chains, and close examination reveals that the light comes from numerous fireflies somehow coaxed within",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern has bright woven tapestries on its walls.",
+    "source_quote": "Bright woven tapestries hang along the walls",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern has green awnings and flowering ivy tendrils.",
+    "source_quote": "Green awnings and flowering ivy tendrils adorn the outside of the squat little inn",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern has horsehair cushions on its seats.",
+    "source_quote": "with horsehair cushions fastened to the seat",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern is a warmly maintained inn in Sheernobb, designed for gnomes but cramped for larger beings, featuring elm wood furnishings, horsehair cushions, firefly-lit glass globes, and a reputation for excellent honey mead and roasted potatoes.",
+    "source_quote": "The benches, tables, desks, and bar have all been shaped out of Elm wood, with horsehair cushions fastened to the seat.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern is located in Sheernobb and is recommended for accommodations.",
+    "source_quote": "we recommend the Honey Haven Tavern",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "moathouse",
+    "fact": "The moathouse contains a lower level with an abandoned torture chamber.",
+    "source_quote": "We went into the moat house. Made it to the lower level. We found an abandoned torture chamber",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "moathouse",
+    "fact": "The moathouse is a derelict structure housing an abandoned torture chamber with zombies, weapons, secret doors, and an ogre. It is a focal point of cultist activity and deception.",
+    "source_quote": "We went into the moat house. Made it to the lower level. We found an abandoned torture chamber with some zombies...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a charming gnome settlement nestled in the Kron Hills, characterized by burrow homes with intricately carved doors, winding roads through dense forest, and a strong cultural emphasis on hospitality and observation of newcomers.",
+    "source_quote": "Tiny burrow homes dot the hillsides, their doors intricately carved and inviting.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a gnome settlement nestled in the Kron Hills.",
+    "source_quote": "the charming village nestled within the lush greenery of the Kron Hills",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a gnome settlement nestled within the lush greenery of the Kron Hills.",
+    "source_quote": "a charming village nestled within the lush greenery of the Kron Hills",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is the location where bandits were last seen. It is the next destination of the party following the investigation into the missing chest and the moathouse events.",
+    "source_quote": "The journey to Sheernobb, where the bandits were last seen, is uneventful.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Zephyr approaches the verdant hills of Sheernobb.",
+    "source_quote": "As he approaches the verdant hills of Sheernobb",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb Moothall",
+    "fact": "Headgnome Glennddarc can be found at the Sheernobb Moothall.",
+    "source_quote": "Headgnome Glennddarc at the Sheernobb Moothall",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb Moothall",
+    "fact": "The Sheernobb Moothall is the largest mound in the village and serves as the seat of governance for Headgnome Glennddarc, where official matters and inquiries are addressed.",
+    "source_quote": "It\u2019s the largest mound in the village; you can\u2019t miss it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb Moothall",
+    "fact": "The Sheernobb Moothall is the largest mound in the village.",
+    "source_quote": "It\u2019s the largest mound in the village",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb village terrain",
+    "fact": "Sheernobb is nestled within the lush greenery of the Kron Hills.",
+    "source_quote": "the verdant hills of Sheernobb",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb village terrain",
+    "fact": "The road to Sheernobb winds through the dense forest.",
+    "source_quote": "The road narrows and winds through the dense forest",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Gnarly Forest",
+    "fact": "A dangerous, elusive forest where the rare gnarled boar roams and where bandit tracks lead \u2014 a key location for two separate quests.",
+    "source_quote": "I need the meat of a rare gnarled boar that roams the gnarly forest\u2026 Some tracks led to the forest.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Honey Haven Tavern",
+    "fact": "A tavern owned by an unnamed innkeeper who offers free lodging and a keg of enchanted mead as a reward for investigating stolen mead barrels and tracking them to the forest.",
+    "source_quote": "Someone stole some barrels of my mead. Some tracks led to the forest. Find out what happened, and you get free lodging at the Honey Haven Tavern for a week and a small keg of my enchanted meed.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Moot Hall",
+    "fact": "A gathering place referenced by Gurdy as where he intends to go to learn more about the bandits, suggesting it is a center of local governance or intelligence.",
+    "source_quote": "I would go to the moot hall and see what I could learn there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "unknown location",
+    "fact": "The scene takes place in a location where Mari serves mead and the captain is present.",
+    "source_quote": "The captain shouts, \u201cMari, give them some more mead. I\u2019ll pay for it..\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnarled Boar",
+    "fact": "A rare, elusive, and dangerous creature that roams the Gnarly Forest. It is the target of Quinna Pool\u2019s quest and described as notoriously hard to kill.",
+    "source_quote": "I need the meat of a rare gnarled boar that roams the gnarly forest. It's notoriously elusive and dangerous, and nobody has gotten it for me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre claimed to work for an all-powerful cult leader in the moathouse.",
+    "source_quote": "an ogre who claimed to work for some all-powerful cult leader",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre claiming to work for an all-powerful cult leader was encountered in the abandoned torture chamber of the moathouse. It is unclear whether the ogre is a cultist, a pawn, or a liar.",
+    "source_quote": "We found an abandoned torture chamber with some zombies\u2014an ogre who claimed to work for some all-powerful cult leader.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "the cleric",
+    "fact": "The cleric (Calmer) is observed to be slightly intoxicated and continues drinking despite warnings.",
+    "source_quote": "Zephyr notices that the cleric is already a bit drunk",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "zombie count",
+    "fact": "The group found zombies in the abandoned torture chamber.",
+    "source_quote": "We found an abandoned torture chamber with some zombies",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "zombies",
+    "fact": "Zombies were found in the abandoned torture chamber of the moathouse.",
+    "source_quote": "We found an abandoned torture chamber with some zombies",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "zombies",
+    "fact": "Zombies were found in the lower level of the moathouse\u2019s torture chamber, guarding or lingering near weapons. Their origin and purpose are unknown, but they are not recently animated.",
+    "source_quote": "We found an abandoned torture chamber with some zombies...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne is an agent of Verbobonc who wears a leisure suit and is actively covering up the Viscounty\u2019s failure to secure the art festival gift. He encourages plausible deniability and frames cultist activity as potential government sabotage.",
+    "source_quote": "The official position, of course, is that the Elves accepted the Chest. But the chest reappearing would embarrass the Viscount.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne points a fork at Zinnia and says, 'If you were to find the chest and the folks who stole it, that would be of great assistance.'",
+    "source_quote": "If you were to find the chest and the folks who stole it, that would be of great assistance.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne points a fork at Zinnia while speaking about the chest.",
+    "source_quote": "Burne picks up a fork, stares at it, points it at Zinnia",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne says finding the chest and the thieves would be of great assistance.",
+    "source_quote": "If you were to find the chest and the folks who stole it, that would be of great assistance.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne says the official position is that the Elves accepted the Chest.",
+    "source_quote": "The official position, of course, is that the Elves accepted the Chest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne says, 'Did you find the leader?'",
+    "source_quote": "Did you find the leader?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne says, 'If you were to find the chest and the folks who stole it, that would be of great assistance. The official position, of course, is that the Elves accepted the Chest. But the chest reappearing would embarrass the Viscount.'",
+    "source_quote": "If you were to find the chest and the folks who stole it, that would be of great assistance. The official position, of course, is that the Elves accepted the Chest. But the chest reappearing would embarrass the Viscount.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne wears a leisure suit.",
+    "source_quote": "Burne is wearing a leisure suit",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric who is emotionally volatile, feels excluded from the team, drinks excessively, and is scolded by Zephyr for drinking too much mead.",
+    "source_quote": "I thought I was part of the team!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a crew member who orders the expensive moonbeam pie, furthering Mari Clee\u2019s plan to maximize Zephyr\u2019s expenditures.",
+    "source_quote": "I will have the moonbeam pie.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is already a bit drunk when Zephyr tells him to stop drinking mead.",
+    "source_quote": "Calmer is about to drink another glass full of mead, but Zephyr notices that the cleric is already a bit drunk and shouts, \u201cThat\u2019s enough.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is already slightly drunk, ignores a warning to stop drinking, and consumes another glass of mead.",
+    "source_quote": "Calmer is about to drink another glass full of mead, but Zephyr notices that the cleric is already a bit drunk and shouts, \u201cThat\u2019s enough.\u201d Calmer ignores him and drinks it anyway.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer shouts that Gurdy is not welcome in the quartet.",
+    "source_quote": "I am sorry, there is no room in this quartet. You are not welcome.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer turns pale when Gurdy offers to join the group.",
+    "source_quote": "Zephyr notices how Calmer turns pale",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain",
+    "fact": "The captain demands that Zephyr let him give a speech, nod, and claim credit for the success due to his leadership before providing magical weaponry.",
+    "source_quote": "Great. And one more thing, when you bring back the evidence, you need to let me give a speech, nod, and agree that the success was because of my leadership. There\u2019s an election coming up. If you do all that, I suppose I could get you a custom-forged bit of magical weaponry.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Gnonsbim",
+    "fact": "Captain Gnonsbim is the captain of the gnome guard in Sheernobb.",
+    "source_quote": "The name is Captain Gnonsbim.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Gnonsbim",
+    "fact": "Captain Gnonsbim is the gnome captain of the guard who cannot risk sending patrols due to political vulnerability. He hires adventurers to eliminate bandits, offers coin for evidence, and demands public credit for his leadership ahead of an election.",
+    "source_quote": "Find me this bandit. And I know you want to be paid, so here\u2019s the deal \u2014 I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader. When you bring back the evidence, you need to let me give a speech, nod, and agree that the success was because of my leadership.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Gnonsbim",
+    "fact": "Captain Gnonsbim offers 25 gold for the camp location, 10 gold per dead bandit, and 25 gold for the leader.",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Gnonsbim",
+    "fact": "Captain Gnonsbim says, 'I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.'",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Gnonsbim",
+    "fact": "Captain Gnonsbim says, 'There are some bandits that are causing a mess and affecting trade.'",
+    "source_quote": "There are some bandits that are causing a mess and affecting trade.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duke",
+    "fact": "The Duke asks Sequoia if there was any evidence of the cult.",
+    "source_quote": "Any evidence of the cult?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duke",
+    "fact": "The Duke asks Sequoia, 'Any evidence of the cult?'",
+    "source_quote": "Any evidence of the cult?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duke",
+    "fact": "The Duke is described as very untrustworthy.",
+    "source_quote": "the very untrustworthy Duke",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Duke",
+    "fact": "The Duke shouts at Zephyr and Sequoia, 'You\u2019re alive?'",
+    "source_quote": "You\u2019re alive?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gnome guard",
+    "fact": "A gnome guard asks Zephyr, 'What business do you have in Sheernobb?'",
+    "source_quote": "What business do you have in Sheernobb?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gnome guard",
+    "fact": "The gnome guard says, 'If you have any questions or need to speak with someone in charge, you can find Headgnome Glennddarc at the Sheernobb Moothall.'",
+    "source_quote": "If you have any questions or need to speak with someone in charge, you can find Headgnome Glennddarc at the Sheernobb Moothall.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gnome guard",
+    "fact": "The gnome guard says, 'Very well, you may enter,' after seeing the ring Knarfallan gave Zephyr.",
+    "source_quote": "Very well, you may enter",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gnome guard",
+    "fact": "The gnome guard tells Zephyr, 'For accommodations, we recommend the Honey Haven Tavern.'",
+    "source_quote": "For accommodations, we recommend the Honey Haven Tavern.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "gnome guard count",
+    "fact": "A group of gnome guards halted Zephyr at the entrance to Sheernobb.",
+    "source_quote": "he is halted by a group of gnome guards",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy introduces himself as a bard and says, 'I would be happy to play a song for you. If you had some coin to spare.'",
+    "source_quote": "I would be happy to play a song for you. If you had some coin to spare.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy is a bard who runs the inn, seeks adventurers to solve bandit problems, and offers to inspire and fight alongside them. He is parched and asks Mari for mead. He wants to go to the moot hall to learn more.",
+    "source_quote": "We have had bandit attacks forever. But something is different now. They are more organized. Everyone wants to protect their town and farms, and no one wants to find the bandits and deal with them. But you folks seem to want to do just that.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy is a gnome bard who offers to play a song for coin.",
+    "source_quote": "My name is Gurdy. And I would be happy to play a song for you. If you had some coin to spare.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy is a well-traveled gnome bard who approaches the group at the Honey Haven Tavern offering musical entertainment in exchange for coin, exploiting the group\u2019s internal hierarchy.",
+    "source_quote": "My name is Gurdy. And I would be happy to play a song for you. If you had some coin to spare.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy says he can be convinced to help fight the bandits.",
+    "source_quote": "I could be convinced.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy says, 'I would go to the moot hall and see what I could learn there.'",
+    "source_quote": "I would go to the moot hall and see what I could learn there.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy says, 'If you need a Bard to inspire you and take those bandits down, I could be convinced.'",
+    "source_quote": "If you need a Bard to inspire you and take those bandits down, I could be convinced.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy says, 'We have had bandit attacks forever. But something is different now. They are more organized.'",
+    "source_quote": "We have had bandit attacks forever. But something is different now. They are more organized.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy suggests visiting the moot hall to learn about the bandits.",
+    "source_quote": "I would go to the moot hall and see what I could learn there.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Headgnome Glennddarc",
+    "fact": "Headgnome Glennddarc can be found at the Sheernobb Moothall.",
+    "source_quote": "you can find Headgnome Glennddarc at the Sheernobb Moothall",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Headgnome Glennddarc",
+    "fact": "Headgnome Glennddarc is the leader of Sheernobb, residing at the Sheernobb Moothall \u2014 the largest mound in the village \u2014 and is the official point of contact for matters of governance and authority.",
+    "source_quote": "You can find Headgnome Glennddarc at the Sheernobb Moothall. It\u2019s the largest mound in the village; you can\u2019t miss it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "inn patrons count",
+    "fact": "Several dour gnomes sit drinking at the Honey Haven Tavern.",
+    "source_quote": "Several dour gnomes sit here and there, drinking unknown concoctions from steaming mugs.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Knarfallan",
+    "fact": "Knarfallan gave Zephyr a ring that grants him entry to Sheernobb.",
+    "source_quote": "the ring on his pinky that Knarfallan gave him",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Knarfallan",
+    "fact": "Knarfallan is a gnomish adventurer who previously aided Zephyr\u2019s party and gifted him a distinctive ring that now serves as a token of trust among the gnome guards of Sheernobb.",
+    "source_quote": "We helped a gnomish adventurer, Knarfallan.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth is a leader of the moathouse who believes Zephyr and Sequoia work for him, and has tasked them with eliminating rivals under the guise of cultist warfare. He is calculating and aware of their disguise.",
+    "source_quote": "I wouldn\u2019t tell anyone about our deal.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth is referred to as the leader of the moathouse.",
+    "source_quote": "the leader of the moathouse",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth tells Zephyr, 'I wouldn\u2019t tell anyone about our deal.'",
+    "source_quote": "I wouldn\u2019t tell anyone about our deal.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth tells his sergeant, 'I don\u2019t think they need your help. They are professionals, after all.'",
+    "source_quote": "I don\u2019t think they need your help. They are professionals, after all.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth thinks Zephyr and the group work for him.",
+    "source_quote": "He thinks we work for him.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth wants Zephyr and the group to eliminate his rivals.",
+    "source_quote": "He seemed excited to use us as an agent to eliminate some of his rivals.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari",
+    "fact": "Mari is present and tasked by the captain to serve more mead.",
+    "source_quote": "Mari, give them some more mead. I\u2019ll pay for it..",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari",
+    "fact": "Mari is the inn server who refills mead on request, takes coin from Zephyr, and is ordered by Captain Gnonsbim to give more mead to the adventurers.",
+    "source_quote": "Mari takes some more coin from Zephyr, who sighs, and Gurdy explains\u2026 Mari, give them some more mead. I\u2019ll pay for it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee asks, 'So what will it be?'",
+    "source_quote": "So what will it be?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee expects Zephyr to pay for everyone\u2019s meals.",
+    "source_quote": "I assume the leader, here, will pay for everything?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee is the barkeep and owner of the Honey Haven Tavern, known for her sharp hospitality, mischievous wit, and ability to turn Zephyr\u2019s stubbornness into profit by encouraging others to order luxuries he must pay for.",
+    "source_quote": "I assume the leader, here, will pay for everything?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee is the owner of the Honey Haven Tavern.",
+    "source_quote": "the owner, Mari Clee",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee offers free lodging and a keg of enchanted mead if the stolen barrels are found.",
+    "source_quote": "Find out what happened, and you get free lodging at the Honey Haven Tavern for a week and a small keg of my enchanted meed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee says, 'An excellent choice. We are very famous for our meed. Good choice and I am sure your leader will be delighted to pay.'",
+    "source_quote": "An excellent choice. We are very famous for our meed. Good choice and I am sure your leader will be delighted to pay.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee says, 'I assume the leader, here, will pay for everything?'",
+    "source_quote": "I assume the leader, here, will pay for everything?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee serves moonbeam pie and honey meed at the Honey Haven Tavern.",
+    "source_quote": "I will have the moonbeam pie.\" and \"I\u2019ll have some of the fine Honey Meed.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "Pasmarie Clee is a mysterious figure mentioned by Captain Gnonsbim as having been persistent in bringing up the bandit issue \u2014 likely a key informant or concerned citizen.",
+    "source_quote": "You should talk to Pasmarie Clee. She\u2019s been bugging me about this.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "The captain tells Zephyr to talk to Pasmarie Clee because she has been bugging him about the matter.",
+    "source_quote": "You should talk to Pasmarie Clee. She\u2019s been bugging me about this.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool is a half-orc cook at the Honey Haven Tavern.",
+    "source_quote": "the cook, a half-orc named Quinna Pool",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool is a half-orc cook who needs a rare gnarled boar for the Harvest Festival and offers a powerful blessing meal as a reward to adventurers who succeed.",
+    "source_quote": "I\u2019ll make you a special meal that will bless you and make you stronger than ever!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool needs the meat of a rare gnarled boar for the Harvest Festival.",
+    "source_quote": "I need the meat of a rare gnarled boar that roams the gnarly forest.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool promises a special meal that will bless and strengthen those who eat it.",
+    "source_quote": "I\u2019ll make you a special meal that will bless you and make you stronger than ever!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool says, 'I need the meat of a rare gnarled boar that roams the gnarly forest.'",
+    "source_quote": "I need the meat of a rare gnarled boar that roams the gnarly forest.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool says, 'I\u2019ll make you a special meal that will bless you and make you stronger than ever!'",
+    "source_quote": "I\u2019ll make you a special meal that will bless you and make you stronger than ever!",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Quinna Pool",
+    "fact": "Quinna Pool, the half-orc cook, asks, 'So you are adventurers. And you have pointy sticks, and you are for hire?'",
+    "source_quote": "So you are adventurers. And you have pointy sticks, and you are for hire?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus asks Sequoia, 'So any evidence of the cult?'",
+    "source_quote": "So any evidence of the cult?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus asks if the cultists are poseurs.",
+    "source_quote": "Are you sure they aren\u2019t poseurs?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus explains that the Kingdom of Celene accepts the art gift if it disappears within a week.",
+    "source_quote": "We believe the Kingdom has accepted the gift if the artwork is gone in a week.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus explains, 'The Viscounty creates this art, which is then dropped near the borders. The elves apparently will destroy any art they think is hideous, whereas any art they believe has potential they will leave behind.'",
+    "source_quote": "The Viscounty creates this art, which is then dropped near the borders. The elves apparently will destroy any art they think is hideous, whereas any art they believe has potential they will leave behind.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus is a halfling rogue and agent of Verbobonc who is deeply invested in the political symbolism of the annual art festival gift to the Kingdom of Celene. He is aware the missing chest is the festival artifact and fears its recovery will expose official deception.",
+    "source_quote": "The chest must be the gift. Every so often, the Viscounty has an art festival, and the purpose of the art festival is to craft some piece of art as a gift to the Kingdom of Celene.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says the art competition is now viewed as an opportunity for the rich and talented to showcase talent.",
+    "source_quote": "the competition is viewed as an opportunity for the rich, powerful, and talented to showcase their talent.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says the chest was selected as the annual art gift for the Kingdom of Celene.",
+    "source_quote": "a chest was selected",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says the chest went missing after a mission was attacked.",
+    "source_quote": "The mission was attacked, and the chest went missing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says, 'A chest? That is fascinating.'",
+    "source_quote": "A chest? That is fascinating.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says, 'A few months ago, the annual competition occurred, and a chest was selected. There was a mission to take the chest to Celene. The mission was attacked, and the chest went missing.'",
+    "source_quote": "A few months ago, the annual competition occurred, and a chest was selected. There was a mission to take the chest to Celene. The mission was attacked, and the chest went missing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says, 'Although we don\u2019t know, we believe the Kingdom has accepted the gift if the artwork is gone in a week. If it is still there, the art is believed to have been rejected.'",
+    "source_quote": "Although we don\u2019t know, we believe the Kingdom has accepted the gift if the artwork is gone in a week. If it is still there, the art is believed to have been rejected.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says, 'Members of the cult?'",
+    "source_quote": "Members of the cult?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus says, 'Who would pretend to be members of the temple of elemental evil?'",
+    "source_quote": "Who would pretend to be members of the temple of elemental evil?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus wears a white blouse, green velvet pantaloons, and a red sash.",
+    "source_quote": "Rufus is wearing a white blouse, green velvet pantaloons, and a red sash.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia believes there is no need for the Duke to know they found the secret doors and that the torture chamber is not unused.",
+    "source_quote": "*There is no need for him to know we found the secret doors and that the torture chamber is not unused.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia claims they found weapons but no secret passageway.",
+    "source_quote": "We found weapons. That\u2019s it. We thought there might be some secret passageway but found nothing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia guesses that Mari is offended by Zephyr\u2019s frugality.",
+    "source_quote": "Sequoia notices that Mari seems taken aback. He guesses her sense of hospitality is offended.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a member of Zephyr\u2019s adventuring crew who resents Zephyr\u2019s domineering spending habits and observes the subtle social dynamics of the Honey Haven Tavern with amusement.",
+    "source_quote": "Good thing I am small.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is an agent of Verbobonc who has been sent to investigate cultist activity but is now entangled in a web of deception involving Lareth and the missing art chest. He is strategically feeding false narratives to his superiors.",
+    "source_quote": "As you said, Burne, we don\u2019t know who this leader worked for. His name is Lareth. He thinks we work for him.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is the eager quest-acceptor who immediately takes on every offer, from free lodging to boar hunts, often overriding Zephyr\u2019s hesitation.",
+    "source_quote": "Sequoia has already accepted the quest.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia says they found an abandoned torture chamber with zombies and an ogre.",
+    "source_quote": "We found an abandoned torture chamber with some zombies\u2014an ogre who claimed to work for some all-powerful cult leader.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia tells Rufus and Burne that Lareth\u2019s name is Lareth.",
+    "source_quote": "His name is Lareth.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia tells the Duke, 'We went into the moat house. Made it to the lower level. We found an abandoned torture chamber with some zombies\u2014an ogre who claimed to work for some all-powerful cult leader. We found weapons. That\u2019s it. We thought there might be some secret passageway but found nothing.'",
+    "source_quote": "We went into the moat house. Made it to the lower level. We found an abandoned torture chamber with some zombies\u2014an ogre who claimed to work for some all-powerful cult leader. We found weapons. That\u2019s it. We thought there might be some secret passageway but found nothing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia thinks Rufus is definitely trying to cover his ass.",
+    "source_quote": "*Definitely trying to cover his ass.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia thinks it\u2019s good that he is small, given the gnome-sized accommodations.",
+    "source_quote": "*Good thing I am small.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia thinks someone is trying to cover their ass.",
+    "source_quote": "*I think someone is trying to cover their ass.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia thinks the Duke is not convinced by their story.",
+    "source_quote": "*He\u2019s not convinced.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "the captain",
+    "fact": "The captain shouts for more mead, offers to pay for it, and instructs Zephyr to speak with Pasmarie Clee regarding an ongoing issue.",
+    "source_quote": "The captain shouts, \u201cMari, give them some more mead. I\u2019ll pay for it..\u201d He then turns to Zephyr and says, \u201cYou should talk to Pasmarie Clee. She\u2019s been bugging me about this.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr feels annoyed by the repeated assumption about his identity.",
+    "source_quote": "*This again.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a human cursed with an unremovable transformation, seeking work in Sheernobb and claiming to be a friend of Knarfallan; he insists on paying for others' accommodations and meals despite his own discomfort with expense.",
+    "source_quote": "I am a human. A victim of a curse that I have been unable to rid myself of.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is approached by Captain Gnonsbim about bandits.",
+    "source_quote": "The name is Captain Gnonsbim. I was told you are adventurers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the pragmatic party member who is overwhelmed by the town\u2019s endless quests, rolls his eyes at bureaucratic demands, and reluctantly agrees to missions despite his skepticism.",
+    "source_quote": "Okay.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is told to stay at the Honey Haven Tavern by the gnome guard.",
+    "source_quote": "For accommodations, we recommend the Honey Haven Tavern.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr nods when offered payment for finding the bandits.",
+    "source_quote": "Zephyr nods.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr pays for Gurdy\u2019s drink and music.",
+    "source_quote": "tossing some coin",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr realizes he is not leaving the inn without paying through the nose.",
+    "source_quote": "Zephyr stares at the bard and realizes he is not leaving this inn without paying through the nose.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr rolls his eyes and responds with indifference to the demand for a speech and agreement on leadership.",
+    "source_quote": "Zephyr rolls his eyes, \u201cOkay.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr rolls his eyes in response to the captain\u2019s demand.",
+    "source_quote": "Zephyr rolls his eyes, \u201cOkay.\u201d",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr says he has never worked with a bard.",
+    "source_quote": "I have never worked with a bard.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr tells the gnome guard he is a human cursed into his current form.",
+    "source_quote": "I am a human. A victim of a curse that I have been unable to rid myself of.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr thinks Lareth is calculating something, but he does not know what it is.",
+    "source_quote": "*This man is calculating something, but I do not know what it is.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr thinks everyone in the town will now want them to run fetch quests.",
+    "source_quote": "*Great, now everyone in this town will want us to run some fetch quest.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr thinks the argument with Calmer is happening again.",
+    "source_quote": "*Oh god, this again.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr wonders if Lareth has seen through their disguise.",
+    "source_quote": "Zephyr wonders if Lareth has seen through their disguise.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia believes the Viscounty officials probably select art that elves find most awful because they misunderstand why the art goes missing.",
+    "source_quote": "*These idiots probably select art that elves find most awful because they misunderstand entirely why the art that goes missing.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a member of Zephyr\u2019s crew who defies his authority by ordering expensive drinks and openly endorsing his role as the group\u2019s paymaster.",
+    "source_quote": "He is, after all, the boss.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the Masked One who understands the true nature of the Kingdom of Celene\u2019s interaction with the art gifts \u2014 that elves destroy art they find hideous, and leave only what they deem worthy. Zinnia recognizes Verbobonc\u2019s misunderstanding as deliberate sabotage.",
+    "source_quote": "The Kingdom of Celene believes the right place for any non-elf is outside the Kingdom of Celene.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia remembers that the Kingdom of Celene believes non-elves belong outside the Kingdom.",
+    "source_quote": "Zinnia knows that the Kingdom of Celene believes the right place for any non-elf is outside the Kingdom of Celene.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia remembers that the Kingdom of Celene believes the right place for any non-elf is outside the Kingdom of Celene.",
+    "source_quote": "Zinnia knows that the Kingdom of Celene believes the right place for any non-elf is outside the Kingdom of Celene.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia remembers that the Viscounty creates art to gift to the Kingdom of Celene, which is dropped near the border.",
+    "source_quote": "Zinnia knows that the Kingdom of Celene believes the right place for any non-elf is outside the Kingdom of Celene.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia thinks the Viscounty selects art the elves find awful.",
+    "source_quote": "These idiots probably select art that elves find most awful because they misunderstand entirely why the art that goes missing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bandit camp reward",
+    "fact": "Captain Gnonsbim offers 25 gold for the bandit camp location.",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bandit kill reward",
+    "fact": "Captain Gnonsbim offers 10 gold for every dead bandit.",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "bandit leader reward",
+    "fact": "Captain Gnonsbim offers 25 gold for the bandit leader.",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "The chest was selected as the annual art gift for the Kingdom of Celene.",
+    "source_quote": "a chest was selected",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "chest value context",
+    "fact": "The stolen chest was the art gift selected for the annual Viscounty art festival.",
+    "source_quote": "a chest was selected",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "custom-forged bit of magical weaponry",
+    "fact": "The captain offers to provide Zephyr with a custom-forged bit of magical weaponry in exchange for political credit.",
+    "source_quote": "I suppose I could get you a custom-forged bit of magical weaponry.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Custom-Forged Magical Weaponry",
+    "fact": "A promised reward from Captain Gnonsbim for completing the bandit mission and giving him public credit. It is the only tangible magical item explicitly offered as payment.",
+    "source_quote": "I suppose I could get you a custom-forged bit of magical weaponry.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Enchanted Mead",
+    "fact": "A magical beverage offered as a reward by the Honey Haven tavern owner and served at the inn. It is referenced multiple times as a symbol of hospitality and incentive.",
+    "source_quote": "a small keg of my enchanted meed",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "enchanted meed",
+    "fact": "Mari Clee offers a small keg of enchanted meed as a reward.",
+    "source_quote": "a small keg of my enchanted meed",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gnarled boar",
+    "fact": "The gnarled boar is a rare and dangerous creature sought for the Harvest Festival meal.",
+    "source_quote": "a rare gnarled boar that roams the gnarly forest",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gnarled boar reward",
+    "fact": "Quinna Pool promises a special meal that will bless and strengthen the adventurers for retrieving the rare gnarled boar.",
+    "source_quote": "I\u2019ll make you a special meal that will bless you and make you stronger than ever!",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Honey Meed",
+    "fact": "A famous alcoholic beverage served at the Honey Haven Tavern, renowned for its quality and frequently ordered by patrons to ensure Zephyr bears the cost.",
+    "source_quote": "I\u2019ll have some of the fine Honey Meed.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "honey meed",
+    "fact": "Honey meed is a famous drink served at the Honey Haven Tavern.",
+    "source_quote": "We are very famous for our meed.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Knarfallan\u2019s Ring",
+    "fact": "A distinctive ring given to Zephyr by Knarfallan, now recognized by the gnome guards as a token of trust that instantly changes their demeanor from wary to welcoming.",
+    "source_quote": "The gnome then notices a ring on his pinky that Knarfallan gave him.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "mead",
+    "fact": "Mead is being served repeatedly, paid for by the captain, and consumed by Calmer despite warnings.",
+    "source_quote": "Mari, give them some more mead. I\u2019ll pay for it..",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "mead theft reward",
+    "fact": "The inn owner offers free lodging for a week and a small keg of enchanted mead for recovering the stolen barrels of mead.",
+    "source_quote": "Find out what happened, and you get free lodging at the Honey Haven Tavern for a week and a small keg of my enchanted meed.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Moonbeam Pie",
+    "fact": "An expensive dessert offered at the Honey Haven Tavern, ordered by Calmer and used by Mari Clee to reinforce Zephyr\u2019s role as the group\u2019s paymaster.",
+    "source_quote": "I will have the moonbeam pie.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "moonbeam pie",
+    "fact": "Moonbeam pie is a menu item at the Honey Haven Tavern.",
+    "source_quote": "I will have the moonbeam pie.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "private room cost",
+    "fact": "A private room at the Honey Haven Tavern costs eight silver.",
+    "source_quote": "A private room costs eight silver; a shared bunk costs five copper.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "ring",
+    "fact": "Zephyr wears a ring given to him by Knarfallan.",
+    "source_quote": "a ring on his pinky that Knarfallan gave him",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "shared bunk cost",
+    "fact": "A shared bunk at the Honey Haven Tavern costs five copper.",
+    "source_quote": "A private room costs eight silver; a shared bunk costs five copper.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "the art chest",
+    "fact": "The art chest is the centerpiece of the Viscounty\u2019s annual diplomatic gift to the Kingdom of Celene. It was stolen during transit to the border and is now the subject of a covert investigation and official deception.",
+    "source_quote": "Someone stole some chest, and he wants us to get it back. He claims it\u2019s from a rival group of cultists.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Bandit Leader Identity",
+    "fact": "The bandit leader remains unidentified, though a reward is offered for their capture or death \u2014 their identity and motives are a mystery.",
+    "source_quote": "25 for the leader.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "bandits' increased organization",
+    "fact": "The bandits in Sheernobb are now more organized than before.",
+    "source_quote": "We have had bandit attacks forever. But something is different now. They are more organized.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "cover-up of Viscounty\u2019s instability",
+    "fact": "Rufus and Burne suspect the cultist reports are a cover-up to hide the Viscounty\u2019s failure to stabilize the region.",
+    "source_quote": "Some would like to pretend that the Viscounty has not stabilized matters. To do so, they would like to pretend that the agents of chaos have returned.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Gurdy\u2019s Song",
+    "fact": "Gurdy the bard has been paid to play a song, but the nature of the performance and its potential hidden meaning or magical effect remain unknown.",
+    "source_quote": "My name is Gurdy. And I would be happy to play a song for you. If you had some coin to spare.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the chest thieves",
+    "fact": "The chest stolen from the mission to Celene has not been recovered.",
+    "source_quote": "The mission was attacked, and the chest went missing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth\u2019s true allegiance",
+    "fact": "Lareth claims to be a cultist leader but may be a government agent or a pawn of another faction. His manipulation of Zephyr and Sequoia suggests a deeper political game involving Verbobonc\u2019s enemies.",
+    "source_quote": "He thinks we work for him. He seemed excited to use us as an agent to eliminate some of his rivals.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth's true intentions",
+    "fact": "Lareth thinks Zephyr and Sequoia work for him and wants them to eliminate his rivals.",
+    "source_quote": "He thinks we work for him. He seemed excited to use us as an agent to eliminate some of his rivals.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Mead Barrels",
+    "fact": "Barrels of mead have been stolen, with tracks leading to the forest \u2014 an unresolved mystery that triggers a quest from the Honey Haven tavern owner.",
+    "source_quote": "Someone stole some barrels of my mead. Some tracks led to the forest.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "misunderstanding of Celene\u2019s art rejection",
+    "fact": "The Viscounty misunderstands why the Kingdom of Celene rejects art, believing it to be about aesthetics rather than cultural exclusion.",
+    "source_quote": "These idiots probably select art that elves find most awful because they misunderstand entirely why the art that goes missing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Pasmarie Clee\u2019s concern",
+    "fact": "Pasmarie Clee has been persistently bothering the captain about an unresolved matter, implying an ongoing plot thread.",
+    "source_quote": "She\u2019s been bugging me about this.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Pasmarie Clee\u2019s Involvement",
+    "fact": "Pasmarie Clee has been persistently pressing Captain Gnonsbim about the bandits, suggesting she may hold key information or be a victim \u2014 her role is currently unknown.",
+    "source_quote": "You should talk to Pasmarie Clee. She\u2019s been bugging me about this.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Team Dynamics Conflict",
+    "fact": "Ongoing tension between Calmer (feeling excluded) and Zephyr (prioritizing backup plans), with Calmer\u2019s drinking and emotional outbursts escalating the conflict.",
+    "source_quote": "You are part of the team, but we need a backup plan, and he\u2019s part of the backup team.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "true nature of the chest",
+    "fact": "The Viscounty claims the elves accepted the chest, but its reappearance would embarrass the Viscount.",
+    "source_quote": "The official position, of course, is that the Elves accepted the Chest. But the chest reappearing would embarrass the Viscount.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "true nature of the chest\u2019s disappearance",
+    "fact": "The true reason the chest went missing is unknown \u2014 whether by bandits, cultists, or agents of a rival government. The Viscounty\u2019s official narrative masks the possibility that the chest was sabotaged to prevent diplomacy.",
+    "source_quote": "If you were to find the chest and the folks who stole it, that would be of great assistance.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr\u2019s curse",
+    "fact": "Zephyr claims to be a human cursed into his current appearance.",
+    "source_quote": "I am a human. A victim of a curse that I have been unable to rid myself of.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr\u2019s Curse",
+    "fact": "Zephyr claims to be a human cursed with an irreversible transformation, but the nature, origin, and potential cure of the curse remain unexplored.",
+    "source_quote": "I am a human. A victim of a curse that I have been unable to rid myself of.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr\u2019s Reluctant Heroism",
+    "fact": "Zephyr is being dragged into a town-wide web of quests despite his skepticism \u2014 a narrative thread about being forced into heroism by others\u2019 expectations.",
+    "source_quote": "*Great, now everyone in this town will want us to run some fetch quest.*",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  }
+]

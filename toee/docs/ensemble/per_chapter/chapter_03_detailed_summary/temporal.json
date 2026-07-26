@@ -1,0 +1,1395 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 15th day of Planting in the year 579.",
+    "source_quote": "Planting 15, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse elevation",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil, its watchtower an advance base for raids, looting, and destruction.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil, its watchtower an advance base for raids, looting, and destruction.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle of emiry meadows",
+    "fact": "The events ended with the Battle of Emiry Meadows.",
+    "source_quote": "This ended with the Battle of Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne's Folly height",
+    "fact": "The tower is 55 feet tall, a smaller tower rising inside the greater at about 35 feet above the ground.",
+    "source_quote": "This structure is some 55 feet tall, a smaller tower rising inside the greater at about 35 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne's Folly landing height",
+    "fact": "The stone landing is about 10 feet above the ground.",
+    "source_quote": "which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Burne's Folly base splay",
+    "fact": "The base has a splay to about 6 feet in height.",
+    "source_quote": "a splay around the base to about 6 feet in height.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "tower armory count",
+    "fact": "The tower contains 12 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "12 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "grovewell caretaker",
+    "fact": "The grove\u2019s caretaker has neatly pruned the trees, and the grass is well-tended.",
+    "source_quote": "The caretaker has neatly pruned the trees, and the grass is well-tended.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "grove stone alignment",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's observation mission",
+    "fact": "Jaroo was sent here to observe the events after the defeat of the Temple of Elemental Evil.",
+    "source_quote": "Jaroo was sent here to observe the events after the defeat of the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about moathouse",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "jaroo's collection box",
+    "fact": "The robed man points to a collection box.",
+    "source_quote": "pointing to a collection box.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "temple of st. cuthbert size",
+    "fact": "The Temple of St. Cuthbert is a massive, imposing structure that is ridiculously too large for such a small village with so few souls.",
+    "source_quote": "a massive, imposing structure that is ridiculously too large for such a small village with so few souls.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputy demand",
+    "fact": "As my deputies, you are required to talk to me first. If you refuse my offer of being a deputy, I will have you arrested, or worse, if you explore the Moathouse.",
+    "source_quote": "As my deputies, you are required to talk to me first. If you refuse my offer of being a deputy, I will have you arrested, or worse, if you explore the Moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "burne and rufus relationship",
+    "fact": "Burne and Rufus are an item \u2014 Burne is a mage with scuffed robes, Rufus is a military commander in a revealing blouse.",
+    "source_quote": "Sequoia immediately understands that they are an item.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly architecture",
+    "fact": "The lower and upper battlements are machicolated, and the merlons are pierced for archers.",
+    "source_quote": "The lower and upper battlements are machicolated, and the merlons are pierced for archers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's distrust of burne and rufus",
+    "fact": "Jaroo distrusts the intentions of Burne and Rufus, and Terjon's goals.",
+    "source_quote": "Jaroo distrusts the intentions of Burne and Rufus, and Terjon's goals.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's information withholding",
+    "fact": "Once he has information, he will decide what to share.",
+    "source_quote": "Once he has information, he will decide what to share.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "grove path termination",
+    "fact": "A small path leads beyond the shrine to a low-roofed wooden building placed under the great boughs of the central oaks of the thicket.",
+    "source_quote": "A small path leads beyond the shrine to a low-roofed wooden building placed under the great boughs of the central oaks of the thicket.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "temple of elemental evil influence radius",
+    "fact": "The temple enslaved the conquered folk, and then they were forced to construct yet another fortress further west, spreading the evil power of the Temple in ever-growing rings to encompass all of the lands around its base.",
+    "source_quote": "The temple enslaved the conquered folk, and then they were forced to construct yet another fortress further west, spreading the evil power of the Temple in ever-growing rings to encompass all of the lands around its base.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's information control",
+    "fact": "Rufus wants the heroes to volunteer to share information only with him.",
+    "source_quote": "Rufus wants him to volunteer to share information only with him, but Sequoia isn't sure.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "grovewell stone alignment",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove location",
+    "fact": "The grove is a place of worship. The caretaker has neatly pruned the trees, and the grass is well-tended.",
+    "source_quote": "The grove is a place of worship. The caretaker has neatly pruned the trees, and the grass is well-tended.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly tower structure",
+    "fact": "The tower is 55 feet tall, a smaller tower rising inside the greater at about 35 feet above the ground.",
+    "source_quote": "This structure is some 55 feet tall, a smaller tower rising inside the greater at about 35 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about outposts",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's threat of arrest",
+    "fact": "If you refuse my offer of being a deputy, I will have you arrested, or worse, if you explore the Moathouse.",
+    "source_quote": "If you refuse my offer of being a deputy, I will have you arrested, or worse, if you explore the Moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly seating capacity",
+    "fact": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly wall decorations",
+    "fact": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly ramp system",
+    "fact": "Ramps curving upwards and downwards lead to other levels.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove path",
+    "fact": "A small path leads beyond the shrine to a low-roofed wooden building placed under the great boughs of the central oaks of the thicket.",
+    "source_quote": "A small path leads beyond the shrine to a low-roofed wooden building placed under the great boughs of the central oaks of the thicket.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's message to sequoia",
+    "fact": "You must go and investigate the Moathouse. And when you have found what you are looking for, you must tell me and me alone. Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "You must go and investigate the Moathouse. And when you have found what you are looking for, you must tell me and me alone. Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "burne's reaction to temple resurgence",
+    "fact": "Burne is horrified, 'That's impossible.'",
+    "source_quote": "Burne is horrified, 'That's impossible.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's information protocol",
+    "fact": "It would be essential that we present it to our boss in Verbobonc.",
+    "source_quote": "It would be essential that we present it to our boss in Verbobonc.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "temple of st. cuthbert interior",
+    "fact": "Inside, he finds Calmer, who excitedly introduces him to Terjon.",
+    "source_quote": "Inside, he finds Calmer, who excitedly introduces him to Terjon.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "inn of the welcome wench",
+    "fact": "Zinia and his traveling companions secure reasonable accommodations for reasonable prices, except for Zephyr, who is a spendthrift and demands the best room.",
+    "source_quote": "Zinia and his traveling companions secure reasonable accommodations for reasonable prices, except for Zephyr, who is a spendthrift and demands the best room.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's suspicion of verbobonc",
+    "fact": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's realization about jaroo",
+    "fact": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's introduction",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burne's introduction",
+    "fact": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's attire",
+    "fact": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "source_quote": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse origin",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "temple of elemental evil influence",
+    "fact": "Its watchtower an advance base for raids, looting, and destruction.",
+    "source_quote": "its watchtower an advance base for raids, looting, and destruction.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about the circles",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about temple agents",
+    "fact": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputization order",
+    "fact": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "source_quote": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly construction status",
+    "fact": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's strategic silence",
+    "fact": "Sequoia gets a hint but chooses to remain silent.",
+    "source_quote": "Sequoia gets a hint but chooses to remain silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove stone line",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly seating capacity",
+    "fact": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly wall decorations",
+    "fact": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly ramp system",
+    "fact": "Ramps curving upwards and downwards lead to other levels.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's suspicion of verbobonc",
+    "fact": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's realization about jaroo",
+    "fact": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's introduction",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burne's introduction",
+    "fact": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's attire",
+    "fact": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "source_quote": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse origin",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about the circles",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about temple agents",
+    "fact": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputization order",
+    "fact": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "source_quote": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly construction status",
+    "fact": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's strategic silence",
+    "fact": "Sequoia gets a hint but chooses to remain silent.",
+    "source_quote": "Sequoia gets a hint but chooses to remain silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove stone line",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly seating capacity",
+    "fact": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly wall decorations",
+    "fact": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly ramp system",
+    "fact": "Ramps curving upwards and downwards lead to other levels.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's suspicion of verbobonc",
+    "fact": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's realization about jaroo",
+    "fact": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's introduction",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burne's introduction",
+    "fact": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's attire",
+    "fact": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "source_quote": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse origin",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about the circles",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about temple agents",
+    "fact": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputization order",
+    "fact": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "source_quote": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly construction status",
+    "fact": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's strategic silence",
+    "fact": "Sequoia gets a hint but chooses to remain silent.",
+    "source_quote": "Sequoia gets a hint but chooses to remain silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove stone line",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly seating capacity",
+    "fact": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly wall decorations",
+    "fact": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly ramp system",
+    "fact": "Ramps curving upwards and downwards lead to other levels.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's suspicion of verbobonc",
+    "fact": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's realization about jaroo",
+    "fact": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's introduction",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burne's introduction",
+    "fact": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's attire",
+    "fact": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "source_quote": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse origin",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about the circles",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about temple agents",
+    "fact": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputization order",
+    "fact": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "source_quote": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly construction status",
+    "fact": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's strategic silence",
+    "fact": "Sequoia gets a hint but chooses to remain silent.",
+    "source_quote": "Sequoia gets a hint but chooses to remain silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove stone line",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly seating capacity",
+    "fact": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly wall decorations",
+    "fact": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly ramp system",
+    "fact": "Ramps curving upwards and downwards lead to other levels.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's suspicion of verbobonc",
+    "fact": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's realization about jaroo",
+    "fact": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's introduction",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burne's introduction",
+    "fact": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's attire",
+    "fact": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "source_quote": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse origin",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about the circles",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about temple agents",
+    "fact": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputization order",
+    "fact": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "source_quote": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly construction status",
+    "fact": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's strategic silence",
+    "fact": "Sequoia gets a hint but chooses to remain silent.",
+    "source_quote": "Sequoia gets a hint but chooses to remain silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove stone line",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly seating capacity",
+    "fact": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly wall decorations",
+    "fact": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly ramp system",
+    "fact": "Ramps curving upwards and downwards lead to other levels.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's suspicion of verbobonc",
+    "fact": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's realization about jaroo",
+    "fact": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's introduction",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burne's introduction",
+    "fact": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's attire",
+    "fact": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "source_quote": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse origin",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about the circles",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about temple agents",
+    "fact": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputization order",
+    "fact": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "source_quote": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly construction status",
+    "fact": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's strategic silence",
+    "fact": "Sequoia gets a hint but chooses to remain silent.",
+    "source_quote": "Sequoia gets a hint but chooses to remain silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove stone line",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly seating capacity",
+    "fact": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "source_quote": "Trestle tables can be extended down and across to accommodate 40 people during a feast or revel.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly wall decorations",
+    "fact": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "source_quote": "The walls themselves are hung with tapestries and decorated with shields, arms, and hunting trophies\u201412 shields, four long swords, two broad swords, four spears, two battle axes, and the heads and homes of various creatures.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly ramp system",
+    "fact": "Ramps curving upwards and downwards lead to other levels.",
+    "source_quote": "Ramps curving upwards and downwards lead to other levels.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's suspicion of verbobonc",
+    "fact": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "source_quote": "Jaroo is upset that Verbobonc isn\u2019t interested in only protecting Hommlet but is also committed to absorbing the faithful into its Church.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's realization about jaroo",
+    "fact": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "source_quote": "Sequoia immediately realizes that Jaroo is a druid who thinks that Tieflings are outside the natural order and have no place in the prime material plane.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "rufus's introduction",
+    "fact": "Rufus introduces himself as the military leader of the area.",
+    "source_quote": "Rufus introduces himself as the military leader of the area.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "burne's introduction",
+    "fact": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "source_quote": "Burne has a slight build, long brown hair, green eyes, and an aquiline nose. He\u2019s wearing a mage robe with scuff marks and scratches on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's attire",
+    "fact": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "source_quote": "Rufus is wearing white linen pants and a dark blue blouse that shows more of his chest than the Sequoia or anyone wants to see.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse origin",
+    "fact": "The Moathouse was once the outpost of the Temple of Elemental Evil.",
+    "source_quote": "The mouthouse was once the outpost of the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's conclusion about the circles",
+    "fact": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "source_quote": "The circles of outposts that you and your friends have uncovered are too early, similar to the plots of the original temple, to be a coincidence.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "jaroo's warning about temple agents",
+    "fact": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "source_quote": "Do not tell anyone else because the agents of the Temple may even be here.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rufus's deputization order",
+    "fact": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "source_quote": "As my deputies, you are required to share any information with me, first. And then with anyone else.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly construction status",
+    "fact": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "source_quote": "As he reaches the edge of the village, he notices the tower, the only part that has been built.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's strategic silence",
+    "fact": "Sequoia gets a hint but chooses to remain silent.",
+    "source_quote": "Sequoia gets a hint but chooses to remain silent.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "terjon's information demand",
+    "fact": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "source_quote": "Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "jaroo's grove stone line",
+    "fact": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "source_quote": "A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly entrance mechanism",
+    "fact": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "source_quote": "The outer door of the tower lowers to form a bridge to the stone landing.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly stairway",
+    "fact": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "source_quote": "Its entrance is accessible only by going up a curving flight of stone stairs, which terminate in a landing about 10 feet above the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly arrow slits",
+    "fact": "There are several arrow slits around the tower.",
+    "source_quote": "There are several arrow slits around the tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly guard station",
+    "fact": "Two men-at-arms watch from its roof.",
+    "source_quote": "Two men-at-arms watch from its roof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly interior architecture",
+    "fact": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "source_quote": "Shuttered arrow slits flank the door to the room, and two murder holes are in the ceiling.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "burne's folly cooking area",
+    "fact": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "source_quote": "Flanking the inner portal are two fireplaces, where most of the cooking is done by two to three servants.",
+    "quote_verified": true
+  }
+]

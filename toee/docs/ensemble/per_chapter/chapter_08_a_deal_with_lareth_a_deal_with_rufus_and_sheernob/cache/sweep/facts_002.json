@@ -1,0 +1,65 @@
+[
+  {
+    "type": "npc",
+    "subject": "Captain",
+    "fact": "The captain demands that Zephyr let him give a speech, nod, and claim credit for the success due to his leadership before providing magical weaponry.",
+    "source_quote": "Great. And one more thing, when you bring back the evidence, you need to let me give a speech, nod, and agree that the success was because of my leadership. There\u2019s an election coming up. If you do all that, I suppose I could get you a custom-forged bit of magical weaponry.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr rolls his eyes in response to the captain\u2019s demand.",
+    "source_quote": "Zephyr rolls his eyes, \u201cOkay.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "captain ordering mead",
+    "fact": "The captain shouts for Mari to give Zephyr and others more mead and offers to pay for it.",
+    "source_quote": "The captain shouts, \u201cMari, give them some more mead. I\u2019ll pay for it..\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "The captain tells Zephyr to talk to Pasmarie Clee because she has been bugging him about the matter.",
+    "source_quote": "You should talk to Pasmarie Clee. She\u2019s been bugging me about this.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is already a bit drunk when Zephyr tells him to stop drinking mead.",
+    "source_quote": "Calmer is about to drink another glass full of mead, but Zephyr notices that the cleric is already a bit drunk and shouts, \u201cThat\u2019s enough.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer drinks mead despite warning",
+    "fact": "Calmer ignores Zephyr\u2019s warning and drinks the glass of mead anyway.",
+    "source_quote": "Calmer ignores him and drinks it anyway.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "custom-forged bit of magical weaponry",
+    "fact": "The captain offers to provide Zephyr with a custom-forged bit of magical weaponry in exchange for political credit.",
+    "source_quote": "I suppose I could get you a custom-forged bit of magical weaponry.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "unknown location",
+    "fact": "The scene takes place in a location where Mari serves mead and the captain is present.",
+    "source_quote": "The captain shouts, \u201cMari, give them some more mead. I\u2019ll pay for it..\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mari",
+    "fact": "Mari is present and tasked by the captain to serve more mead.",
+    "source_quote": "Mari, give them some more mead. I\u2019ll pay for it..",
+    "quote_verified": true
+  }
+]

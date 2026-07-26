@@ -1,0 +1,660 @@
+[
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia attacked Zephyr to break the harpy's charm, dealing six damage and allowing him to reroll his saving throw, which he passed with a twenty.",
+    "source_quote": "Zinnia attacks Zephyr to break the charm, dealing six damage and allowing him to reroll his saving throw, which he passes with a twenty.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia attacked Sequioa to break the harpy's charm, dealing eleven points of damage, allowing him to reroll and break free from the charm with a nineteen.",
+    "source_quote": "Zinnia attacks Sequioa, dealing eleven points of damage, allowing him to reroll and break free from the charm with a nineteen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia attacked Calmer to break the harpy's charm, dealing twelve points of damage to break his charm.",
+    "source_quote": "Zinnia attacks Calmer, dealing twelve points of damage to break his charm.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer used his reaction to strike the fleeing harpy with his mace of smiting, rolling a critical hit and dealing ten points of damage.",
+    "source_quote": "Calmer uses his reaction to strike the fleeing harpy with his mace, rolling a critical hit and dealing ten points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa attacked a harpy, hitting and dealing twenty-four points of damage, killing it instantly.",
+    "source_quote": "Sequioa attacks a harpy, hitting and dealing twenty-four points of damage, killing it instantly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa successfully pocketed extra treasure from the broken chest without Zephyr noticing, keeping a larger share for himself, Calmer, and Zinnia.",
+    "source_quote": "Sequioa rolled a twenty-six on stealth while Zephyr failed his insight check.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer healed Sequioa for nineteen hit points.",
+    "source_quote": "Calmer heals Sequioa for nineteen hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer healed Zephyr for twenty-three hit points.",
+    "source_quote": "Calmer heals Zephyr for twenty-three hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer used Sacred Flame on a ghoul, dealing nine points of damage.",
+    "source_quote": "Calmer uses Sacred Flame on a ghoul, dealing nine points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer used Sacred Flame on the last harpy, dealing five points of damage.",
+    "source_quote": "Calmer uses Sacred Flame on the harpy, dealing five points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr fired his pistol into the air to scare the last harpy, which snarled back in response.",
+    "source_quote": "Zephyr shoots his pistol into the air to scare the harpy, which snarls back.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr attacked the fleeing harpy with his dagger, dealing six points of damage.",
+    "source_quote": "Zephyr uses his reaction to attack the fleeing harpy with his dagger, dealing six points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia took an attack of opportunity against the fleeing last harpy, dealing eleven points of damage.",
+    "source_quote": "Zinnia takes an attack of opportunity, dealing eleven points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa took an attack of opportunity against the fleeing last harpy, dealing six points of damage, reducing it to four hit points.",
+    "source_quote": "Sequioa takes an attack of opportunity, dealing six points of damage, reducing the harpy to four hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa used a ranged weapon to attack the last harpy in the rafters, dealing ten points of damage and killing it.",
+    "source_quote": "Sequioa uses a ranged weapon to attack the harpy in the rafters, dealing ten points of damage and killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa attacked a ghoul, dealing twenty-one points of damage and killing it, then missed his second attack.",
+    "source_quote": "Sequioa attacks a ghoul, dealing twenty-one points of damage and killing it, then misses his second attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa attacked another ghoul, hitting and dealing fourteen points of damage, killing it.",
+    "source_quote": "Sequioa attacks a ghoul, hitting and dealing fourteen points of damage, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa attacked another ghoul, hitting and dealing fifteen points of damage.",
+    "source_quote": "Sequioa attacks another ghoul, hitting and dealing fifteen points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia attacked a ghoul, killing it with his strike.",
+    "source_quote": "Zinnia attacks a ghoul, killing it with his strike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia used a key point for a bonus attack, dealing twelve points of damage to another ghoul.",
+    "source_quote": "Zinnia uses a key point for a bonus attack, dealing twelve points of damage to another ghoul.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia attacked a ghoul, hitting and dealing ten points of damage, killing it.",
+    "source_quote": "Zinnia attacks a ghoul, hitting and dealing ten points of damage, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia attacked a ghoul, hitting and dealing seventeen points of damage.",
+    "source_quote": "Zinnia attacks a ghoul, hitting and dealing seventeen points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr attacked a ghoul with sneak attack, dealing seven damage plus additional dice damage, reducing it to three hit points.",
+    "source_quote": "Zephyr attacks a ghoul with sneak attack, dealing seven damage plus additional dice damage, reducing it to three hit points.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr made a third attack against the same ghoul, hitting and dealing seven damage, killing it.",
+    "source_quote": "Zephyr makes a third attack, hitting and dealing seven damage, killing the ghoul.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa attacked a harpy, hitting and dealing nineteen points of damage, killing it.",
+    "source_quote": "Sequioa attacks a harpy, hitting and dealing nineteen points of damage, killing it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa attacked another creature, hitting twice and dealing twelve points of damage total.",
+    "source_quote": "Sequioa attacks another creature, hitting twice and dealing twelve points of damage total.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr attacked a harpy, dealing nine damage with the first attack and eight damage with the second.",
+    "source_quote": "Zephyr attacks a harpy that had charmed Sequioa, dealing nine damage with the first attack and eight damage with the second.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia attacked the same harpy and killed it with eighteen points of damage, freeing Sequioa from the charm.",
+    "source_quote": "Zinnia attacks the same harpy and kills it with eighteen points of damage, freeing Sequioa from the charm.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ghasts",
+    "fact": "The ghasts immediately and enthusiastically declared allegiance to the Earth Temple when the party claimed to work for it.",
+    "source_quote": "The ghasts immediately and enthusiastically declare allegiance to the Earth Temple when the party claims to work for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The prisoners previously freed",
+    "fact": "The prisoners the party previously freed would be discovered missing, potentially disrupting Romag's plans and forcing them to blame the Fire Temple for the disappearance.",
+    "source_quote": "The party knew that the prisoners they had previously freed would be discovered missing, potentially disrupting Romag's plans and forcing them to blame the Fire Temple for the disappearance.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag complained that ever since his predecessor had gone to work for the Deep Temple, the undead refused to work for him.",
+    "source_quote": "Romag complained that ever since his predecessor had gone to work for the Deep Temple, the undead refused to work for him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer pulled Zephyr aside to express his growing discomfort with the situation after Zephyr nervously told him to be ready to die.",
+    "source_quote": "Zephyr nervously told Calmer to be ready to die, the cleric pulled him aside to express his growing discomfort with the situation.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa carefully examined a broken chest before opening it, after Zephyr tried to get Calmer to open it and the cleric said no.",
+    "source_quote": "Zephyr tried to get Calmer to open it, and the Cleric said no. Then he pushed Sequoia to open the chest, and the rogue agreed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr tried to get Calmer to open the broken chest, and the cleric said no.",
+    "source_quote": "Zephyr tried to get Calmer to open it, and the Cleric said no.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer said no when Zephyr tried to get him to open the broken chest.",
+    "source_quote": "Zephyr tried to get Calmer to open it, and the Cleric said no.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa agreed to open the broken chest after Zephyr pushed him to do so.",
+    "source_quote": "Then he pushed Sequoia to open the chest, and the rogue agreed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer became paralyzed after failing his constitution save against a ghoul's touch.",
+    "source_quote": "A ghoul attacks Calmer, hitting and dealing five points of damage, and Calmer fails his constitution save and becomes paralyzed.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer made his saving throw and was no longer paralyzed.",
+    "source_quote": "Calmer makes his saving throw and is no longer paralyzed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr was paralyzed after failing his constitution save against a ghoul's claw attack.",
+    "source_quote": "One ghoul attacks Zephyr with a claw, hitting for three points of slashing damage, but Zephyr resists paralysis with a seventeen on his constitution save. A second ghoul attacks Zephyr with another claw, hitting and paralyzing him after he fails his constitution save.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr remained paralyzed after failing another constitution saving throw.",
+    "source_quote": "Zephyr fails another constitution saving throw and remains paralyzed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr was no longer paralyzed and attacked a ghoul with sneak attack.",
+    "source_quote": "Zephyr is no longer paralyzed and attacks a ghoul with sneak attack, dealing seven damage plus additional dice damage, reducing it to three hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ghasts",
+    "fact": "One ghast even crunched on a human bone to emphasize their dominance when claiming the territory.",
+    "source_quote": "One even crunching on a human bone to emphasize their dominance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ghasts",
+    "fact": "The ghasts proposed negotiation instead of violence when threatened.",
+    "source_quote": "When threatened with violence, the ghasts proposed negotiation instead.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag instructed his subordinate Harch to prepare a ceremony involving ripping prisoners' bodies apart as an offering to the earthen god.",
+    "source_quote": "Romag clarified that the party members were too valuable to sacrifice\u2014instead, prisoners would be used for the ritual, which would involve ripping their bodies apart as an offering to the earthen god.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag explained that the party was to bring treasure to the temple and pay him a portion, not receive payment themselves.",
+    "source_quote": "Romag explained that the arrangement worked differently than they expected\u2014they were to bring treasure to the temple and pay him a portion, not receive payment themselves.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag agreed to grant the party official titles and higher ranks within the Earth Temple hierarchy, but stated that such advancement would require a demonstration of loyalty.",
+    "source_quote": "Romag considered this request and agreed, but stated that such advancement would require a demonstration of loyalty.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag postponed the ceremony until the following day.",
+    "source_quote": "Romag postponed the ceremony until the following day.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr fired his pistol into the air in an attempt to frighten the last harpy away.",
+    "source_quote": "Zephyr fired his pistol into the air in an attempt to frighten it away.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr attacked the escaping last harpy, dealing six points of damage.",
+    "source_quote": "Zephyr attacks the harpy, dealing six points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia struck the escaping last harpy with an attack of opportunity, dealing eleven points of damage.",
+    "source_quote": "Zinnia takes an attack of opportunity, dealing eleven points of damage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa struck the escaping last harpy with an attack of opportunity, dealing six points of damage, reducing it to four hit points.",
+    "source_quote": "Sequioa takes an attack of opportunity, dealing six points of damage, reducing the harpy to four hit points.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer called upon divine flame to scorch the last harpy, dealing five points of damage.",
+    "source_quote": "Calmer called upon divine flame to scorch it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer refused to check the chest, stating he is not a rogue.",
+    "source_quote": "Calmer refuses to check the chest, stating he is not a rogue",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa checked the chest for traps with a roll of twenty-eight and found none.",
+    "source_quote": "Sequioa checks the chest for traps with a roll of twenty-eight and finds none",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa attempted to use stealth to pocket extra treasure, rolling a twenty-six.",
+    "source_quote": "Sequioa opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr failed to notice Sequioa's deception with his insight check.",
+    "source_quote": "Zephyr fails to notice Sequioa's deception with his insight check",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa distributed the treasure, giving himself and Zinnia a slightly larger share than Zephyr.",
+    "source_quote": "Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party member",
+    "fact": "A party member asked the ghasts what they are doing, and the ghasts responded that this is their territory.",
+    "source_quote": "A party member asks the ghasts what they are doing, and the ghasts respond that this is their territory",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ghast",
+    "fact": "One ghast crunches on the bone and confirms it was human.",
+    "source_quote": "One ghast crunches on the bone and confirms it was human",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party member",
+    "fact": "A party member threatened to kill the ghasts for killing someone, asking for their last words.",
+    "source_quote": "A party member threatens to kill the ghasts for killing someone, asking for their last words",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ghasts",
+    "fact": "The ghasts propose arriving at a deal instead of fighting.",
+    "source_quote": "The ghasts propose arriving at a deal instead of fighting",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party member",
+    "fact": "A party member asked if the ghasts will work under them, and the ghasts asked who the party works for.",
+    "source_quote": "A party member asks if the ghasts will work under them, and the ghasts ask who the party works for",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party",
+    "fact": "The party claims to work for the Earth Temple.",
+    "source_quote": "The party claims to work for the Earth Temple",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ghasts",
+    "fact": "The ghasts immediately declare allegiance to the Earth Temple, shouting 'Hail the Earth Temple!'",
+    "source_quote": "The ghasts immediately declare allegiance to the Earth Temple, shouting 'Hail the Earth Temple!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Party",
+    "fact": "An insight check reveals the ghasts are willing to go along with the fiction of being members of the Earth Temple for the moment.",
+    "source_quote": "An insight check reveals the ghasts are willing to go along with the fiction of being members of the Earth Temple for the moment",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party",
+    "fact": "The party agrees to this arrangement, effectively claiming the ghasts' territory as a subsidiary of the Earth Temple.",
+    "source_quote": "The party agrees to this arrangement, effectively claiming the ghasts' territory as a subsidiary of the Earth Temple",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party",
+    "fact": "The party informs Romag that they have been expanding their territory to the southwest and want to put an official stamp on it.",
+    "source_quote": "The party informs Romag that they have been expanding their territory to the southwest and want to put an official stamp on it",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag delivers a five-minute tirade about the power of the earth and how it crushes everything down to dust.",
+    "source_quote": "Romag delivers a five-minute tirade about the power of the earth and how it crushes everything down to dust",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party",
+    "fact": "The party asks Romag how they get paid for their efforts.",
+    "source_quote": "The party asks Romag how they get paid for their efforts",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag explains that the party is expected to bring treasure to the temple and pay him a portion, not the other way around.",
+    "source_quote": "Romag explains that the party is expected to bring treasure to the temple and pay him a portion, not the other way around",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Party",
+    "fact": "The party expresses a desire for more power, official titles, and higher ranks within the Earth Temple.",
+    "source_quote": "The party expresses a desire for more power, official titles, and higher ranks within the Earth Temple",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag instructs Harch to prepare a ceremony.",
+    "source_quote": "Romag instructs Harch to prepare a ceremony",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr tells Calmer to be ready to die.",
+    "source_quote": "Zephyr tells Calmer to be ready to die",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer pulls Zephyr aside and expresses that he is getting tired of the situation and reminds Zephyr that he also has an opinion.",
+    "source_quote": "Calmer pulls Zephyr aside and expresses that he is getting tired of the situation and reminds Zephyr that he also has an opinion",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr suggests that if Calmer dies, they would resuscitate him.",
+    "source_quote": "Zephyr suggests that if Calmer dies, they would resuscitate him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag overhears and clarifies that the party members are too valuable to be killed, and that prisoners will be used for the ritual instead.",
+    "source_quote": "Romag overhears and clarifies that the party members are too valuable to be killed, and that prisoners will be used for the ritual instead",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag instructs Harch to prepare the prisoners for the ritual and expects the party to be active participants.",
+    "source_quote": "Romag instructs Harch to prepare the prisoners for the ritual and expects the party to be active participants",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer looks at the other party members, feeling nauseous, and asks if they are really going to go through with this.",
+    "source_quote": "Calmer looks at the other party members, feeling nauseous, and asks if they are really going to go through with this",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag describes the ritual as an Earth Temple ceremony where they will rip the prisoners' bodies apart.",
+    "source_quote": "Romag describes the ritual as an Earth Temple ceremony where they will rip the prisoners' bodies apart",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer expresses his discomfort to Zephyr, Sequioa, and Zinnia.",
+    "source_quote": "Calmer expresses his discomfort to Zephyr, Sequioa, and Zinnia",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag postpones the ceremony until tomorrow, instructing the party to rest.",
+    "source_quote": "Romag postpones the ceremony until tomorrow, instructing the party to rest",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Party's contingency plan",
+    "fact": "The party planned to blame the Fire Temple for the missing prisoners, but this plan is not yet executed or confirmed as successful.",
+    "source_quote": "The party confirms they planned to blame the Fire Temple for the missing prisoners",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer expresses discomfort and weariness with Zephyr's decisions and is deeply troubled by Romag's planned ritual involving prisoners.",
+    "source_quote": "Calmer expresses discomfort and weariness with Zephyr's decisions and is deeply troubled by Romag's planned ritual involving prisoners",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ghasts",
+    "fact": "The ghasts feign allegiance to the Earth Temple when confronted by the party, though an insight check reveals they are merely playing along for their own benefit.",
+    "source_quote": "The ghasts feign allegiance to the Earth Temple when confronted by the party, though an insight check reveals they are merely playing along for their own benefit",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag operates on a system where the party brings treasure to the temple and pays him a portion rather than being paid directly.",
+    "source_quote": "Romag operates on a system where the party brings treasure to the temple and pays him a portion rather than being paid directly",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer pulls Zephyr aside and expresses that he is getting tired of the situation and reminds Zephyr that he also has an opinion.",
+    "source_quote": "Calmer pulls Zephyr aside and expresses that he is getting tired of the situation and reminds Zephyr that he also has an opinion",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr tells Calmer to be ready to die.",
+    "source_quote": "Zephyr tells Calmer to be ready to die",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag overhears and clarifies that the party members are too valuable to be killed, and that prisoners will be used for the ritual instead.",
+    "source_quote": "Romag overhears and clarifies that the party members are too valuable to be killed, and that prisoners will be used for the ritual instead",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Harpy Hall",
+    "fact": "A large chamber with high ceilings and rafters thirty-four feet up, where the party fought harpies and ghouls. The harpies positioned themselves in the air to sing their charming songs.",
+    "source_quote": "A large chamber with high ceilings and rafters thirty-four feet up, where the party fought harpies and ghouls. The harpies positioned themselves in the air to sing their charming songs.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Southern Room (Harpy Nesting Area)",
+    "fact": "A foul-smelling room reeking of carrion and filth, with bones littering the floor and heaps of old cloth along the walls indicating where harpies once nested. Old garments hang from pegs on the wall, and elven chain mail was discovered here.",
+    "source_quote": "A foul-smelling room reeking of carrion and filth, with bones littering the floor and heaps of old cloth along the walls indicating where harpies once nested. Old garments hang from pegs on the wall, and elven chain mail was discovered here.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Abandoned Room with Broken Chest",
+    "fact": "A noisome place littered with rags and bones, featuring a broken chest in the northwest corner that contained treasure. A door to the west is located near the west corner.",
+    "source_quote": "A noisome place littered with rags and bones, featuring a broken chest in the northwest corner that contained treasure. A door to the west is located near the west corner.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Antechamber of a Minor Functionary",
+    "fact": "An inner room with plastered walls covered in obscene paintings, containing the remains of upholstered furnishings including a couch and four chairs. Battered pewter dishes are heaped upon a small table. This is where the party encountered two ghasts who claimed the territory as their own.",
+    "source_quote": "An inner room with plastered walls covered in obscene paintings, containing the remains of upholstered furnishings including a couch and four chairs. Battered pewter dishes are heaped upon a small table. This is where the party encountered two ghasts who claimed the territory as their own.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Romag's Office",
+    "fact": "The place where Romag conducts his business for the Earth Temple. The party reports their progress here and discusses their future within the temple hierarchy.",
+    "source_quote": "The place where Romag conducts his business for the Earth Temple. The party reports their progress here and discusses their future within the temple hierarchy.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Elven Chain Mail",
+    "fact": "A piece of magical armor discovered hanging from pegs on the wall in the harpy nesting area. It provides a plus one bonus to armor class and allows the wearer to be considered trained with the armor even without proficiency in medium or heavy armor. The party decided to keep it in their inventory for potential sale since Calmer already has superior plate armor.",
+    "source_quote": "A piece of magical armor discovered hanging from pegs on the wall in the harpy nesting area. It provides a plus one bonus to armor class and allows the wearer to be considered trained with the armor even without proficiency in medium or heavy armor. The party decided to keep it in their inventory for potential sale since Calmer already has superior plate armor.",
+    "quote_verified": true
+  }
+]

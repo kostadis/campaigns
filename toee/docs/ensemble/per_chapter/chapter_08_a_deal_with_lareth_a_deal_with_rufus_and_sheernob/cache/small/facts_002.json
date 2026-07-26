@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a human cursed with an unremovable transformation, seeking work in Sheernobb and claiming to be a friend of Knarfallan; he insists on paying for others' accommodations and meals despite his own discomfort with expense.",
+    "source_quote": "I am a human. A victim of a curse that I have been unable to rid myself of.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a member of Zephyr\u2019s adventuring crew who resents Zephyr\u2019s domineering spending habits and observes the subtle social dynamics of the Honey Haven Tavern with amusement.",
+    "source_quote": "Good thing I am small.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mari Clee",
+    "fact": "Mari Clee is the barkeep and owner of the Honey Haven Tavern, known for her sharp hospitality, mischievous wit, and ability to turn Zephyr\u2019s stubbornness into profit by encouraging others to order luxuries he must pay for.",
+    "source_quote": "I assume the leader, here, will pay for everything?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gurdy",
+    "fact": "Gurdy is a well-traveled gnome bard who approaches the group at the Honey Haven Tavern offering musical entertainment in exchange for coin, exploiting the group\u2019s internal hierarchy.",
+    "source_quote": "My name is Gurdy. And I would be happy to play a song for you. If you had some coin to spare.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a member of Zephyr\u2019s crew who defies his authority by ordering expensive drinks and openly endorsing his role as the group\u2019s paymaster.",
+    "source_quote": "He is, after all, the boss.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a crew member who orders the expensive moonbeam pie, furthering Mari Clee\u2019s plan to maximize Zephyr\u2019s expenditures.",
+    "source_quote": "I will have the moonbeam pie.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Headgnome Glennddarc",
+    "fact": "Headgnome Glennddarc is the leader of Sheernobb, residing at the Sheernobb Moothall \u2014 the largest mound in the village \u2014 and is the official point of contact for matters of governance and authority.",
+    "source_quote": "You can find Headgnome Glennddarc at the Sheernobb Moothall. It\u2019s the largest mound in the village; you can\u2019t miss it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Knarfallan",
+    "fact": "Knarfallan is a gnomish adventurer who previously aided Zephyr\u2019s party and gifted him a distinctive ring that now serves as a token of trust among the gnome guards of Sheernobb.",
+    "source_quote": "We helped a gnomish adventurer, Knarfallan.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a charming gnome settlement nestled in the Kron Hills, characterized by burrow homes with intricately carved doors, winding roads through dense forest, and a strong cultural emphasis on hospitality and observation of newcomers.",
+    "source_quote": "Tiny burrow homes dot the hillsides, their doors intricately carved and inviting.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Honey Haven Tavern",
+    "fact": "The Honey Haven Tavern is a warmly maintained inn in Sheernobb, designed for gnomes but cramped for larger beings, featuring elm wood furnishings, horsehair cushions, firefly-lit glass globes, and a reputation for excellent honey mead and roasted potatoes.",
+    "source_quote": "The benches, tables, desks, and bar have all been shaped out of Elm wood, with horsehair cushions fastened to the seat.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb Moothall",
+    "fact": "The Sheernobb Moothall is the largest mound in the village and serves as the seat of governance for Headgnome Glennddarc, where official matters and inquiries are addressed.",
+    "source_quote": "It\u2019s the largest mound in the village; you can\u2019t miss it.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Knarfallan\u2019s Ring",
+    "fact": "A distinctive ring given to Zephyr by Knarfallan, now recognized by the gnome guards as a token of trust that instantly changes their demeanor from wary to welcoming.",
+    "source_quote": "The gnome then notices a ring on his pinky that Knarfallan gave him.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Moonbeam Pie",
+    "fact": "An expensive dessert offered at the Honey Haven Tavern, ordered by Calmer and used by Mari Clee to reinforce Zephyr\u2019s role as the group\u2019s paymaster.",
+    "source_quote": "I will have the moonbeam pie.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Honey Meed",
+    "fact": "A famous alcoholic beverage served at the Honey Haven Tavern, renowned for its quality and frequently ordered by patrons to ensure Zephyr bears the cost.",
+    "source_quote": "I\u2019ll have some of the fine Honey Meed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr\u2019s Entry into Sheernobb",
+    "fact": "Zephyr gains entry into Sheernobb after being recognized by a ring gifted by Knarfallan, which overrides initial suspicion from the gnome guards and establishes his status as a person of interest.",
+    "source_quote": "Once that ring is noticed, the guard\u2019s demeanor changes instantly and is much friendlier.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mari Clee\u2019s Financial Strategy",
+    "fact": "Mari Clee subtly manipulates the group\u2019s dynamics by encouraging expensive orders from non-leaders, ensuring Zephyr pays for everything under the guise of hospitality.",
+    "source_quote": "I assume the leader, here, will pay for everything?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr\u2019s Curse",
+    "fact": "Zephyr claims to be a human cursed with an irreversible transformation, but the nature, origin, and potential cure of the curse remain unexplored.",
+    "source_quote": "I am a human. A victim of a curse that I have been unable to rid myself of.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Gurdy\u2019s Song",
+    "fact": "Gurdy the bard has been paid to play a song, but the nature of the performance and its potential hidden meaning or magical effect remain unknown.",
+    "source_quote": "My name is Gurdy. And I would be happy to play a song for you. If you had some coin to spare.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gnome Guards of Sheernobb",
+    "fact": "The gnome guards of Sheernobb are a vigilant, authority-driven group who assess newcomers with suspicion but recognize tokens of trust \u2014 like Knarfallan\u2019s ring \u2014 that override initial judgment.",
+    "source_quote": "They are small in stature but carry an air of authority, their eyes sharp and watchful.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "time of arrival",
+    "fact": "Zephyr and his crew arrived in Sheernobb at a time when the village was bustling with daily activity, shortly after their previous visit weeks ago.",
+    "source_quote": "We were here a few weeks ago to return a dragon?",
+    "quote_verified": true
+  }
+]

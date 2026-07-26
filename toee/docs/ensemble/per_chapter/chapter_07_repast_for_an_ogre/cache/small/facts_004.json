@@ -1,0 +1,142 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hestort Flintshine (Tort)",
+    "fact": "Hestort Flintshine is a five-foot-tall, thin man who works for Terjon and claims to be employed by the Duke, though he appears fearful and evasive. He was targeted for kidnapping but was shot by his own allies before being rescued. He is terrified of being killed and reveals fragmented, contradictory information under interrogation.",
+    "source_quote": "I work for Terjon... I just know the Duke is working with some shady people... I don\u2019t know who is in charge... I\u2019m leaving, and no one will ever see me again.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a sharp, intimidating Tiefling interrogator who uses psychological pressure, magical effects, and calculated fear to extract information. He is smug, observant, and adept at manipulating targets into revealing more than they intend. He suspects deception and uses his abilities to break resistance.",
+    "source_quote": "We need information. We\u2019re not your saviors. We wanted to kidnap you, but they got to you first... [mutters something]... I love it when the mouse realizes it\u2019s alive only because the cat wants to play.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a perceptive and analytical Tiefling who observes behavioral cues and suspects hidden agendas. She is skeptical of Tort\u2019s testimony and works in tandem with Zephyr to triangulate truth. She is calm, methodical, and emotionally detached during interrogations.",
+    "source_quote": "I don\u2019t think he\u2019s being entirely honest... There are so many groups with different agendas. Do the traders work for the Duke? Does the Duke work for the traders?",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a patient, stealthy Tiefling fighter who specializes in pursuit and protection. He moves quietly, observes from a distance, and acts decisively in combat to safeguard allies. He is physically strong, emotionally restrained, and deeply committed to the mission.",
+    "source_quote": "Sequoia is pursuing him from a distance... I need to stop that. I have to get really close to combat, stand over his body, and protect him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of St. Cuthbert who claims to be a simple guardian but exhibits an agenda and hidden competence. He is calm, deferential, and avoids direct action until forced, then reveals potent divine power. His reluctance to engage suggests he is more involved than he lets on.",
+    "source_quote": "I just guard your stuff. You guys are the heroes... [after casting] By the Power of St. Cuthbert, BEGONE ZOMBIES!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a sidelined member of the group who appears disappointed at not being chosen for the mission to the moathouse. He is quiet, observant, and possibly harbors resentment or unspoken motives tied to the group\u2019s objectives.",
+    "source_quote": "Spugnoir looks a bit disappointed... It must suck not to be picked for the team.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke is a shadowy, unnamed authority figure operating in the village, linked to traders, bandits, and secret plans. He is the central node of multiple conflicting agendas and is suspected of being a puppet or intermediary for a higher power within the village.",
+    "source_quote": "I just know the Duke is working with some shady people... The Duke is the guy the traders offered to help us take care of our stuff.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Traders",
+    "fact": "The Traders are a group in the village who offered to store the party\u2019s belongings, suggesting ties to the Duke. Their loyalty is ambiguous \u2014 they may serve the Duke, be independent, or be manipulated by another faction. They are a key variable in the village\u2019s web of conspiracies.",
+    "source_quote": "The Duke is the guy the traders offered to help us take care of our stuff.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Bandits",
+    "fact": "The Bandits are a group of five (one captain, four mooks) who ambushed and shot Hestort Flintshine. They appear to be acting independently but may be working for the Duke or another hidden power. Their sudden attack and subsequent flight suggest coordination or fear of exposure.",
+    "source_quote": "The mouse just got shot by his allies, who are now running away... If I kill the mooks, the captain will run. If I kill the captain, the mooks will run.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Tort\u2019s Ambush and Rescue",
+    "fact": "Hestort Flintshine was shot by his own allies \u2014 the bandits \u2014 while fleeing the encampment. He was then rescued by Sequoia, Zephyr, and Zinnia, who healed him and began interrogation. The event triggered a chain of revelations about the Duke and hidden agendas.",
+    "source_quote": "The mouse just got shot by his allies, who are now running away... Zephyr uncorks a potion of healing and feeds it to this mouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zombie Purge in the Moathouse",
+    "fact": "Calmer, the cleric of St. Cuthbert, used a divine command to purge zombies in the moathouse dungeon. All but one fled in terror, revealing his hidden power and suggesting he was deliberately withholding his abilities until necessary.",
+    "source_quote": "By the Power of St. Cuthbert, BEGONE ZOMBIES!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Duke\u2019s True Master",
+    "fact": "The identity of the Duke\u2019s superior \u2014 someone within the village \u2014 remains unknown. Tort\u2019s fear and fragmented testimony imply a deeper, hidden hierarchy. This is the central unresolved mystery driving the party\u2019s investigation.",
+    "source_quote": "I know it\u2019s someone in the village... I don\u2019t know who he works for.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Traders vs. Duke Allegiances",
+    "fact": "It is unclear whether the Traders serve the Duke, are independent, or are being manipulated by another faction. Their offer to store the party\u2019s belongings may be a cover for surveillance or a trap.",
+    "source_quote": "Do the traders work for the Duke? Does the Duke work for the traders?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer\u2019s Hidden Agenda",
+    "fact": "Calmer\u2019s reluctance to act, his sudden display of divine power, and his deferential demeanor suggest he is not merely a guardian. His true purpose and allegiance within the village\u2019s conspiracy remain unknown.",
+    "source_quote": "I just guard your stuff. You guys are the heroes... [then purges zombies with divine power].",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The River North of the Encampment",
+    "fact": "The river is a key transit point where Hestort was shot and where the party later dumped the bandits\u2019 bodies. It serves as a route for escape, concealment, and disposal, and is now a symbolic boundary between safety and danger.",
+    "source_quote": "He\u2019s heading towards the river north of the encampment... We dumped them into the river, and hopefully, they wash up downriver where nobody will notice.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Moathouse Dungeon",
+    "fact": "The moathouse dungeon is a site of previous zombie attacks and now serves as the next investigative target. It is a place of hidden threats and divine intervention, where Calmer\u2019s true power is revealed.",
+    "source_quote": "Alright, Calmer, do your thing... [then] BEGONE ZOMBIES!",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Healing",
+    "fact": "A potion of healing was used by Zephyr to revive Hestort Flintshine after he was shot. This act was strategic \u2014 not purely compassionate \u2014 and enabled the interrogation to continue. It symbolizes the party\u2019s utilitarian approach to rescue.",
+    "source_quote": "Zephyr uncorks a potion of healing and feeds it to this mouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spear Thrown by Zinnia",
+    "fact": "Zinnia attempted to kill the bandit captain with a spear, aiming to force him into submission. The weapon represents her direct, aggressive interrogation style and her willingness to use lethal force to extract truth.",
+    "source_quote": "Now Zinia is trying to kill the Captain by throwing a spear at him.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 18, 579",
+    "fact": "On Planting 18, 579, the ambush, rescue, interrogation, and killing of the bandits occurred. The same day, the party moved to the moathouse and began their investigation into the Duke\u2019s network.",
+    "source_quote": "Zephyr - Afternoon, Planting 18, 579... Zinnia - Evening, Planting 18, 579",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 19, 579",
+    "fact": "On Planting 19, 579, the party disposed of the bandits\u2019 bodies and entered the moathouse dungeon, where Calmer revealed his divine power. This marked the transition from investigation to confrontation.",
+    "source_quote": "Sequoia - Morning, Planting 19, 579",
+    "quote_verified": false
+  }
+]

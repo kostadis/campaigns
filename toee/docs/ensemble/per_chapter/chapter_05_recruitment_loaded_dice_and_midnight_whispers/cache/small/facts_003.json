@@ -1,0 +1,338 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a tiefling who uses his fierceness to silence teenagers and later appears confused while observing events at the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a girl who introduces herself to Zephyr and pleads for help from Zinia, claiming her parents oppose her relationship with Marek due to religious differences.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a boy who is in a relationship with Jira; his father, Tomlyn, is a tailor and member of the Church of St. Cuthbert, which opposes Jira's faith.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the old faith who forbids Jira from being with Marek due to religious conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is a tailor and member of the Church of St. Cuthbert, and the father of Marek.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia snarls at the teenagers and is later pleaded with by Jira to intervene with their parents; Zinia is also a participant in the moathouse exploration and identifies enemy trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is a participant in the moathouse exploration and identifies enemy trophies as the heads of dwarves, humans, and elves \u2014 'Enemies of the temple.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia points to the tower ignored last time during the moathouse exploration and enters the trophy room where she identifies enemy trophies.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a monk who notices a faint gleam of coins in the tower, enters the salon, identifies worthless treasures, and leads the group through the moathouse's passageways.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia leads the group into the final chamber with the giant poisonous snake and survives its attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a healer who is sought by Zephyr for the Moathouse mission; he gulps inside the courtyard and asks what to check out next.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a character who had expected to go on an adventure and was left behind; he has a crushed look of being overlooked and smiles reluctantly when asked to assist.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke sets up camp at the moathouse and expresses hope to see the heroes again; he is present as the group prepares for exploration.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler explains that the dragon's home is to the west through the Kron Hills and confirms the journey is safe.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Airgid",
+    "fact": "Airgid is a silver dragon who has strained the budget, shouts 'HOME!' as she flies west, and promises her mother will reward the heroes.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Wolf Spider",
+    "fact": "A giant wolf spider attempts to turn the rogues and monk into its next meal but is overmatched and killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Lizard",
+    "fact": "A giant lizard uses a chest as a lure in the barracks room but is killed by the group.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Swarm of Rats",
+    "fact": "A swarm of rats is encountered in the stairwell room and is quickly killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Giant Poisonous Snake",
+    "fact": "A giant poisonous snake attempts to strike in the final chamber but fails and is killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Old Faith",
+    "fact": "The Old Faith is a religious group to which Jakub belongs; it opposes the Church of St. Cuthbert and is the source of conflict preventing Jira and Marek's relationship.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Church of St. Cuthbert",
+    "fact": "The Church of St. Cuthbert is a religious institution to which Tomlyn and Marek belong; it opposes the Old Faith and is the reason Jakub forbids Jira from being with Marek.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "dragon's departure",
+    "fact": "Airgid the silver dragon takes off flying west after shouting 'HOME!' and promises her mother will reward the heroes.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "moathouse exploration",
+    "fact": "The group returns to the moathouse, explores its ruins, and clears multiple rooms of monsters and hidden treasures.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of ivory box",
+    "fact": "The group finds an ivory box the size of a large book among the treasures in the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "discovery of coins",
+    "fact": "Sequoia and Zephyr notice a faint gleam of coins in the collapsed tower and reach for them, triggering the wolf spider attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "identification of enemy trophies",
+    "fact": "Zinia identifies some trophies in the trophy room as the heads of dwarves, humans, and elves \u2014 'Enemies of the temple.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "salon of worthless treasures",
+    "fact": "Sequoia finds a room with seemingly valuable items that turn out to be worthless; he concludes it was a salon for meetings.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil mountains",
+    "fact": "The Lotrimil mountains are the location of the silver dragon Airgid's home, as explained by the dragon and confirmed by Ostler.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the route to the west that leads to the Lotrimil mountains, as explained by Ostler.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "The Greenway Valley is the destination reached by heading south and turning north, as the fastest route to the dragon's home.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse",
+    "fact": "The moathouse is a ruined castle with multiple chambers, including a tower, trophy room, barracks, salon, and great hall, explored by the heroes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moat house",
+    "fact": "The moat house is a location passed during the journey to the dragon's home; it calls to the group but they have another job.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Tulvar",
+    "fact": "Tulvar is the destination reached after a day of hard traveling, where Airgid shouts 'HOME!' and departs.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is the town where the group stays at the Inn of the Welcome Wench before returning to the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Spugnoir and Calmer stare at the heroes, having expected to join an adventure the previous day.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Great Hall",
+    "fact": "The Great Hall of the moathouse is crossed by Sequoia as he enters the southern passageway with three doors.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Southern Passageway",
+    "fact": "The southern passageway is a 70-foot-long hallway with three doors, running north-south, leading to the final chambers of the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Trophy Room",
+    "fact": "The trophy room is accessed through the first door on the left in the passageway; it contains mangy pelts, stuffed heads, and shattered antlers, including those of dwarves, humans, and elves.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Majordomo's Domicile",
+    "fact": "The majordomo's domicile is the next door on the southern wall; it is stripped of anything valuable.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Barracks Room",
+    "fact": "The barracks room is the westernmost room in the hallway; it contains remains of cots and plain wooden chests, indicating it was once used by human guards.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Stairwell Room",
+    "fact": "The stairwell room is accessed after the barracks; it contains a swarm of rats that are quickly killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Conference Room",
+    "fact": "The conference room is the first door in the southern passageway; it is sniffed and shut by the rogue as containing nothing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Bed Chamber",
+    "fact": "The bed chamber is the second door on the western wall of the southern passageway; it appears to have been for a lowly official.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Salon",
+    "fact": "The salon is the third door on the western wall of the southern passageway; it contains seemingly valuable items that turn out to be worthless.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Final Chamber",
+    "fact": "The final chamber is at the end of the southern passageway; it is empty except for a giant poisonous snake that attempts to strike and is killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "ivory box",
+    "fact": "An ivory box about the size of a large book is found among the treasures in the moathouse.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "coins",
+    "fact": "A faint gleam of coins is noticed on the floor of the collapsed tower; the group reaches for them, triggering the wolf spider attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "chest",
+    "fact": "An intact chest is found at the south end of the barracks room; it is used as a lure by the giant lizard.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 17, 579",
+    "fact": "On Planting 17, 579, the group decides to return the silver dragon to its home.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 18, 579",
+    "fact": "On Planting 18, 579, the heroes are in Hommlet and return to the moathouse for exploration.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session 5",
+    "fact": "Session 5 is the session in which the group returns to the moathouse and explores its ruins.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "dragon's reward",
+    "fact": "Airgid promises her mother will reward the heroes, suggesting a future encounter or boon from a higher power.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "enemy trophies",
+    "fact": "The presence of dwarven, elven, and human heads in the trophy room suggests a deeper history of persecution or war tied to the temple, warranting further investigation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "worthless salon",
+    "fact": "The salon filled with fake treasures suggests deliberate deception or a trap set by former occupants, hinting at hidden secrets or booby-trapped areas.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Jakub's opposition",
+    "fact": "Jakub's religious opposition to Jira and Marek's relationship may have deeper ties to the moathouse's past or the temple's ideology.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Spugnoir's exclusion",
+    "fact": "Spugnoir's crushed look and repeated exclusion suggest a pattern of being overlooked, potentially leading to a personal arc or betrayal.",
+    "quote_verified": false
+  }
+]

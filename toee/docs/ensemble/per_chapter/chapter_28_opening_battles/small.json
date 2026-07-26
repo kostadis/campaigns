@@ -1,0 +1,695 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr fired a precise arrow into the mist from the edge of the corridor, efficiently targeting the enemy and demonstrating rare tactical discipline.",
+    "source_quote": "Zephyr put an arrow into the mist from the edge of the corridor \u2014 precise, efficient, for once doing the sensible thing from distance.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia delivered a finishing blow on the second bugbear with a satisfying weight, contributing decisively to the collapse of the barricade.",
+    "source_quote": "Sequoia's finishing blow on the second had a certain satisfying weight to it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer unleashed a single pulse of guiding radiance that dissolved the double doors of the barricade, triggering the collapse of the enemy line and fulfilling the tactical objective.",
+    "source_quote": "A single pulse of guiding radiance, the kind of divine light that doesn't ask permission, and the double doors at the barricade simply *stopped existing as an obstacle*.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The Wraith resisted Calmer's holy light, which dissolved into the cold air without effect, demonstrating unnatural resilience to divine power.",
+    "source_quote": "The wraith looked at it. And did not flinch. The holy light dissolved into the cold air like breath in winter, leaving exactly nothing behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbears",
+    "fact": "Bugbears held a fortified barricade of pews and rubble against the Earth Temple advance, maintaining a choke point until the barricade was destroyed.",
+    "source_quote": "Bugbears behind an improvised barricade of pews and rubble, holding the stairway against an Earth Temple advance that had stalled somewhere in the haze ahead of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Cultists",
+    "fact": "Cultists formed the front line of the Fire Temple defense, positioned at the choke point and swiftly neutralized by direct assault.",
+    "source_quote": "The cultist at the front of their line didn't see me coming... The cultist dropped before the bugbears had finished processing that we were there.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple launched a stalled advance that was reinvigorated after the barricade was destroyed, flooding through the gap with tidal force.",
+    "source_quote": "The Earth Temple forces came through the gap like the tide deciding to try something different.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple maintained a defensive line that fractured into chaos after the barricade collapsed, exactly as the attackers had engineered.",
+    "source_quote": "The Fire Temple line fractured into the exact kind of chaotic mess that we had specifically engineered this situation to produce.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Passage",
+    "fact": "The Air Temple passage became the site of a confrontation with a wraith, marked by unnatural stillness and the failure of holy light.",
+    "source_quote": "I came around the bend into the Air Temple passage and there it was, drifting in the dark ahead of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Corridor (Scalding Battlefield)",
+    "fact": "The corridor was transformed into a steam-choked battlefield, littered with bodies and fortified by barricades, where tactical engagements unfolded in poor visibility.",
+    "source_quote": "A corridor that had turned itself into something between a battle and a sauna... Stone floor. Bodies in Earth Temple brown and Fire Temple red...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Barricade (pews and rubble)",
+    "fact": "The barricade, constructed from pews and rubble, served as a choke point that held the advance until it was destroyed by divine intervention.",
+    "source_quote": "Bugbears behind an improvised barricade of pews and rubble...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Barricade Destruction",
+    "fact": "The barricade was destroyed by Calmer\u2019s divine radiance, triggering the collapse of the Fire Temple\u2019s defensive line and enabling the Earth Temple advance.",
+    "source_quote": "The double doors at the barricade simply *stopped existing as an obstacle*. They flew open with the kind of finality that makes everyone on both sides pause for half a breath.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cultist Neutralization",
+    "fact": "A cultist at the front of the Fire Temple line was swiftly eliminated by direct assault, removing the hinge of the barricade and initiating the tactical collapse.",
+    "source_quote": "Through the steam, into the billowing white heat, and then just \u2014 strikes, a sequence of controlled impacts... The cultist dropped before the bugbears had finished processing that we were there.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Steam Phenomenon",
+    "fact": "An unexplained, escalating steam phenomenon persists after the battle, feeding on elemental violence and threatening to become indiscriminate.",
+    "source_quote": "The steam was still there, and it was getting worse. Elemental violence has a way of feeding itself...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Wraith Resilience",
+    "fact": "The wraith\u2019s immunity to holy light suggests an entity beyond conventional undead, raising questions about its origin and nature.",
+    "source_quote": "The holy light dissolved into the cold air like breath in winter, leaving exactly nothing behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "mission completion",
+    "fact": "The mission was accomplished in the narrowest operational sense: barricade broken, advance resumed, factions engaged in mutual destruction.",
+    "source_quote": "The mission was accomplished in the narrowest operational sense: the barricade broken, the advance resumed, the fire and earth factions in the process of tearing into each other exactly as intended.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "disengagement",
+    "fact": "The team initiated disengagement immediately after mission success, recognizing the kill zone had become indiscriminate.",
+    "source_quote": "Time to not be here anymore... You're exiting the kill zone you personally created before it becomes indiscriminate about its victims.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "St. Cuthbert",
+    "fact": "St. Cuthbert is the divine patron of orthodoxy and justice, invoked by the cleric in two failed attempts to banish the wraith, whose power is expected to work but did not.",
+    "source_quote": "The divine light of St. Cuthbert, Cudgel of Ortho, the Arbiter Eternal, dispersed twice into the air of a dank dungeon corridor.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a member of the party who fired a pistol at the wraith, landing the only wound it sustained before fleeing into a secret passage.",
+    "source_quote": "Zephyr raised his pistol. The shot caught the wraith across what might generously be called its torso \u2014 a wound that barely registered on something like this \u2014 the only wound anyone managed to land on the thing before he broke for the secret passage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a party member who attempted to set a trap at the corridor door during the ghoul ambush, but the mechanism failed prematurely.",
+    "source_quote": "Sequoia moved fast \u2014 bless him \u2014 already working to set something at the door. But the ghouls rolled forward like they had somewhere to be, and whatever trap he was laying, they hit it before it was ready.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a party member who fled down the corridor during the wraith\u2019s threat, joining the group\u2019s panicked retreat.",
+    "source_quote": "The party began dashing. One by one, boots loud on stone, the Air Temple corridor filling with the very specific sound of adventurers not fighting a tactical retreat but simply *running*. Sequoia. Zinnia. Zephyr already gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The wraith is an undead abomination that resisted two divine attacks, endured a pistol shot, and laughed hysterically after striking the cleric from behind, demonstrating immunity to conventional force and supernatural power.",
+    "source_quote": "The wraith remained exactly as present... dispersed twice into the air... stood untouched and completely unbothered... the wraith laughed at me. *Hysterically.*",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Four ghouls, formerly members of the Earth Temple, ambushed the party in a corridor, immune to premature traps and capable of paralyzing victims with their claws.",
+    "source_quote": "They came out of the dark in a shambling line \u2014 four of them... Earth Temple members... now raised by something with necromantic ambitions... the claws hit and your body just *stops*.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a faction within the temple war whose members have been raised as ghouls, indicating necromantic interference and a breach of battlefield boundaries.",
+    "source_quote": "Earth Temple members. People we'd seen in corridors, nodded to while maintaining cover, filed away as *useful* or *obstacle*... now raised by something with necromantic ambitions.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the faction whose corridor the party fled through during the wraith's attack, marked by stone passages and the sound of retreating adventurers.",
+    "source_quote": "The Air Temple corridor filling with the very specific sound of adventurers not fighting a tactical retreat but simply *running*.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Wraith's First Divine Attack",
+    "fact": "The cleric\u2019s first attempt to banish the wraith using divine power failed, with the light dispersing uselessly into the air.",
+    "source_quote": "The divine light of St. Cuthbert... dispersed twice into the air of a dank dungeon corridor while an undead abomination stood untouched...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Wraith's Second Divine Attack",
+    "fact": "The cleric\u2019s second attempt to banish the wraith using divine power also failed, reinforcing the creature\u2019s immunity and the party\u2019s desperation.",
+    "source_quote": "The divine light of St. Cuthbert... dispersed twice into the air of a dank dungeon corridor while an undead abomination stood untouched...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ghoul Ambush",
+    "fact": "A group of four ghoulized Earth Temple members ambushed the party in a corridor, bypassing a prematurely triggered trap and forcing the party into close combat.",
+    "source_quote": "They came out of the dark... hit it before it was ready. The mechanism failed at the worst possible moment... the ghouls kept coming.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cleric\u2019s Final Escape",
+    "fact": "The cleric was struck from behind by the wraith, received a secondary fire bolt injury, but escaped through the passage and survived.",
+    "source_quote": "The wraith reached out as I sprinted and caught me across the back... a stray bolt of fire from somewhere in the chaos added its own insult... I cleared the threshold. I made it through the passage. I was, technically, alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Plate Mail",
+    "fact": "The cleric wears blessed and magical plate mail, considered the finest protection available to a cleric of their station, which failed to prevent the wraith\u2019s strike.",
+    "source_quote": "plate mail, blessed and magical, the finest protection available to a cleric of my station and general level of being-placed-in-danger-repeatedly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dagger",
+    "fact": "Zephyr carries a dagger, drawn in anticipation of ghoul attack, as part of his prepared response to paralysis-inducing undead.",
+    "source_quote": "The dagger was already in my hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pistol",
+    "fact": "Zephyr\u2019s pistol is the only weapon to land a tangible wound on the wraith, though the damage was negligible.",
+    "source_quote": "Zephyr raised his pistol. The shot caught the wraith across what might generously be called its torso \u2014 a wound that barely registered...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Wraith\u2019s Laughter",
+    "fact": "The wraith\u2019s hysterical laughter after the cleric\u2019s escape is an unexplained supernatural taunt, suggesting the creature has intelligence beyond mere hunger.",
+    "source_quote": "came the sound of the wraith laughing at me. *Hysterically.* It laughed at me *hysterically.*",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Necromantic Interference",
+    "fact": "The raising of Earth Temple members as ghouls implies an unseen necromancer operating within the temple war, violating established battlefronts and tactics.",
+    "source_quote": "now raised by something with necromantic ambitions and sent wandering down here to scavenge whatever the temple war left behind.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a session of the temple war, following the cleric\u2019s prior death and resurrection, and before any resolution to the undead threat.",
+    "source_quote": "I have been killed once already in this gods-forsaken temple, revived at considerable cost...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Corridor",
+    "fact": "The Air Temple corridor is the location where the party fled from the wraith, marked by stone floors and the sound of panicked retreat.",
+    "source_quote": "The Air Temple corridor filling with the very specific sound of adventurers not fighting a tactical retreat but simply *running*.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple Ambush Site",
+    "fact": "The ambush site is a corridor within the temple complex where ghouls emerged from darkness, bypassing traps and confronting the party.",
+    "source_quote": "They came out of the dark in a shambling line... We'd pulled back to our own territory to wait out the temple war...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Secret Passage",
+    "fact": "A hidden exit used by Zephyr to flee the wraith, later used by the party to escape the corridor.",
+    "source_quote": "before he broke for the secret passage... I cleared the threshold. I made it through the passage.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a war cleric of St. Cuthbert who hates undead with theological certainty, but recently exhibited unnerving, escalating fervor during combat \u2014 including a vocal, repetitive 'yes yes yes' eruption, divine power release, and loss of self-control \u2014 raising questions about whether his actions stem from him or something wearing his voice.",
+    "source_quote": "Calmer was going \"yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes, yes!\" The cursing started. *This is how the power of\u2014* and then more cursing. The sentence never finished. He didn't need it to.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia has observed Calmer\u2019s behavioral shifts with quiet concern, noting his unnatural intensity and possible loss of self \u2014 particularly his tendency to 'go native' under pressure \u2014 and has filed these observations without voicing them aloud, treating them as operational anomalies rather than personal crises.",
+    "source_quote": "The concern Zinnia had put into words once, something about Calmer going native, which I am choosing not to look at directly.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is an assassin and scout who reads environmental traces with precision \u2014 foot traffic, bloodstain direction, armor placement \u2014 and acted decisively to end the final ghoul with a clean arrow shot through the back before it could escape the corridor.",
+    "source_quote": "Sequoia put an arrow in the back of the last one before it made it out the corridor. Clean finish. That's Sequoia.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno is an Air Temple cleric who appeared as background noise during prior interactions, but has now revealed himself as a covert operator exploiting the temple war \u2014 using the chaos to send his agents through hidden passages to loot corpses, weapons, and coin while others fight and die.",
+    "source_quote": "Kelno's people. The Air Temple cleric who had sat across from Romag's table like furniture, quiet enough that I'd filed him under *background noise* and moved on. That was a mistake.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a religious order whose recently deceased members have been necromantically raised as ghouls and deployed as looters and combatants within the dungeon, indicating active, coordinated necromantic interference during the ongoing temple war.",
+    "source_quote": "Because the ghouls had been Earth Temple members. Recently dead, recently raised.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kelno's Network",
+    "fact": "Kelno's Network is a covert faction operating within the Air Temple, using the chaos of the temple war to infiltrate and loot the dungeon through hidden passages, targeting corpses, weapons, and coin with disciplined efficiency \u2014 a strategic move to emerge stronger while others exhaust themselves.",
+    "source_quote": "Kelno had read the board and decided his move was to let the other temples destroy each other while his people walked the corridors with empty bags and filled them.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The wraith is a stationary, patient undead entity that occupies a corridor with hollow patience, neither attacking nor retreating as parties pass \u2014 its inaction is more unnerving than aggression, suggesting it waits for something specific to trigger its movement.",
+    "source_quote": "The wraith was where we'd left it. Same corridor. Same cold. Same hollow patience. The wraith didn't move as we cleared its territory. That was worse.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Ghouls are necromantically raised undead, originally members of the Earth Temple, now acting as organized looters and combatants \u2014 moving with purpose, not panic, dragging weapons and coin through hidden passages, indicating command and control beyond random undeath.",
+    "source_quote": "They weren't fleeing the battle. They were shopping in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's Divine Outburst",
+    "fact": "Calmer experienced an uncontrolled eruption of divine power \u2014 a visible, audible surge of holy wrath that overwhelmed three remaining ghouls, causing them to flee in terror \u2014 an event that broke the expected pattern of cleric combat and suggested a deeper, possibly corrupted, connection to his deity.",
+    "source_quote": "The holy wrath came out of him like something that had been stored under pressure for weeks. It hit the room \u2014 all three remaining ghouls unable to hold against it, every last one of them \u2014 and they *fled*.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Necromantic Interference",
+    "fact": "A necromancer is actively operating within the dungeon, raising recently deceased temple members \u2014 specifically Earth Temple corpses \u2014 and deploying them as looters and combatants during the ongoing war, indicating access to corpses, knowledge of temple structures, and strategic intent.",
+    "source_quote": "Someone with necromantic power was working in this dungeon right now, during our carefully engineered war, with access to our people's corpses and apparent interest in deploying them.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Second Level Corridors",
+    "fact": "The second level corridors are a war-torn labyrinth of blood trails, broken bottles, shoved armor, and hidden passages \u2014 showing signs of structural collapse, looting, and coordinated movement by non-player factions, indicating the battle has evolved beyond open combat into underground subversion.",
+    "source_quote": "Broken bottles scattered across the floor like someone had celebrated early and poorly. Armor shoved against the walls \u2014 not placed, shoved, the way you clear a path in a hurry.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a once-sacred space now reduced to a battleground littered with signs of recent violence and abandonment \u2014 the wraith still occupies its central corridor, and Kelno\u2019s agents use its hidden passages to move undetected.",
+    "source_quote": "When we moved back through the Air Temple, the wraith was where we'd left it. Same corridor. Same cold. Same hollow patience.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer's Identity",
+    "fact": "There is an unresolved thread concerning whether Calmer\u2019s recent divine outbursts and vocal mania are the result of his own faith intensifying under pressure \u2014 or whether he is being overwritten by an external, possibly infernal or celestial, entity using his body and voice as a vessel.",
+    "source_quote": "The second thought was quieter and I didn't linger on it. The second thought was: *is that him, or is that something else wearing his voice?*",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno's Endgame",
+    "fact": "Kelno\u2019s silent manipulation of the temple war raises the question of what his true objective is \u2014 whether he seeks to claim the dungeon for himself, to resurrect a lost power, or to eliminate all rivals and emerge as the sole surviving temple authority.",
+    "source_quote": "Kelno had read the board and decided his move was to let the other temples destroy each other while his people walked the corridors with empty bags and filled them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Necromancer's Identity",
+    "fact": "The identity and allegiance of the necromancer raising Earth Temple corpses remains unknown \u2014 whether they are a rogue agent, a traitor within the temples, or an external force exploiting the war to rebuild an undead army.",
+    "source_quote": "Someone with necromantic power was working in this dungeon right now, during our carefully engineered war, with access to our people's corpses and apparent interest in deploying them.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dropped Ghoul",
+    "fact": "The dropped ghoul \u2014 killed by Sequoia\u2019s arrow before it could act \u2014 is a physical artifact of necromantic interference, bearing the insignia of the Earth Temple and demonstrating the precision of its reanimation and deployment.",
+    "source_quote": "I looked at the dropped ghoul \u2014 my ghoul, killed before it could act, the assassin's precision Zinnia respects and won't say he respects \u2014 and then at the door where the others had fled.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "After the Second Level Descent",
+    "fact": "The events described occurred immediately after the party\u2019s descent into the second level corridors, following a failed short rest and the re-encounter with the wraith \u2014 marking a critical turning point in the war where chaos transitions from battlefield to subterranean conspiracy.",
+    "source_quote": "The second level hit different the moment we reached it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is actively engaged in elemental conflict, represented by fire snakes and a wounded salamander, and has no intention of yielding to opposing forces.",
+    "source_quote": "Fire versus Water. Neither faction was going to yield.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is engaged in sustained elemental warfare, represented by four water gargoyles, showing no signs of fatigue or retreat.",
+    "source_quote": "The gargoyles showed no sign of flagging.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge initiated the conflict by lighting the match and stepping back, allowing the elemental war to escalate without direct involvement.",
+    "source_quote": "The Obsidian Edge had lit the match and stepped back.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kelno",
+    "fact": "Kelno has entered the conflict on its own terms, absorbing the consequences of the war and now stands in the smoke with altered burns and a full treasury.",
+    "source_quote": "Kelno was standing in the smoke with a different set of burns and a full treasury.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr attempted to use Goblin as a diplomatic language to communicate with elemental entities, but recognized the futility of the attempt and abandoned the plan.",
+    "source_quote": "Speak goblin,\" Zephyr offered anyway. ... \"Alright,\" Zephyr said. \"This plan is done.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "fire snakes",
+    "fact": "Fire snakes are active combatants in the elemental conflict, engaging in violent collisions with water gargoyles and generating scalding steam.",
+    "source_quote": "Fire snakes and a wounded salamander, locked in combat with four water gargoyles \u2014 the collisions between them threw eruptions of scalding steam.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "wounded salamander",
+    "fact": "The wounded salamander continues to contribute to the chaos despite its injuries, indicating resilience and persistent aggression.",
+    "source_quote": "The salamander was wounded but still moving, still contributing to the chaos.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "water gargoyles",
+    "fact": "Water gargoyles are relentless combatants in the elemental conflict, showing no signs of fatigue or retreat despite sustained battle.",
+    "source_quote": "The gargoyles showed no sign of flagging.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hall of Trophies and Elemental Strife",
+    "fact": "The Hall of Trophies and Elemental Strife is a ruined chamber that once hosted conquest celebrations, now filled with the remnants of war and an ongoing elemental battle.",
+    "source_quote": "The hall had once hosted celebrations, if you could call them that. Great banquets of conquest, probably.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Prisoner's Bargain",
+    "fact": "The Prisoner's Bargain is a chamber saturated with the scent of fear and old stone, where chained captives have been left to await death without hope.",
+    "source_quote": "The chamber smelled like fear and old stone. ... They were huddled against the far wall, chained at the wrist.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "trophies on the walls",
+    "fact": "The trophies \u2014 mummified heads, torn battle standards, battered shields, and a broken broadsword \u2014 are relics of conquest, preserved as symbols of dominance.",
+    "source_quote": "mummified heads, their leather-dry mouths still twisted in the expressions of their dying moments. Torn battle standards. Battered shields. A broken broadsword that someone had kept as a trophy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "tapestry",
+    "fact": "The tapestries depict raiding figures in the act of taking, burning, and dragging, reinforcing the hall's history of violent acquisition.",
+    "source_quote": "The tapestries showed raiding \u2014 figures in the act of taking, burning, dragging.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "black stone steps",
+    "fact": "The broad steps of dull black stone descend from the north wall into shadow, serving as a physical pathway toward deeper, unknown regions of the ruin.",
+    "source_quote": "Broad steps of dull black stone descended from the north wall into shadow.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "the door",
+    "fact": "The door in the Hall of Trophies and Elemental Strife opens and closes on its own without mechanical or environmental cause, suggesting autonomous observation or surveillance.",
+    "source_quote": "This one opened on its own. ... Then closed again. ... Someone, or something, was tracking our position.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "language barrier with elementals",
+    "fact": "The elemental combatants communicate in Primordial, a language none of the party speaks, creating an unbridgeable gap to potential intelligence about the deep temple.",
+    "source_quote": "They were not men. They were elemental things, and whatever they spoke was Primordial \u2014 a tongue none of us carried.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the door's surveillance",
+    "fact": "The self-moving door implies an unseen observer tracking the party\u2019s movements, with intent unknown \u2014 asset or threat, TBD.",
+    "source_quote": "Someone, or something, was tracking our position. ... Still watching us, or already forgotten? I didn't know.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "prisoners' fate",
+    "fact": "The chained prisoners in the Chamber of the Prisoner's Bargain plead for rescue, but their survival and the party's obligation toward them remain unresolved.",
+    "source_quote": "\"Please, please don't leave us to die!\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a professional observer who catalogs everything without sentiment, noting patterns in ruins, objects, and behavior with clinical precision.",
+    "source_quote": "I catalogued them the way I catalogue everything, automatically, without sentiment.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "exit strategy \u2014 southern corridor",
+    "fact": "The southern corridor serves as the planned escape route, made viable by the obscuring steam from the elemental battle, requiring only patience and timing.",
+    "source_quote": "The elementals were generating enough obscuring haze on their own that slipping away south was simply a matter of patience and timing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a horned interrogator who extracts information through intimidation and bravado, later refining his approach with Calmer\u2019s presence. He has a sharp memory for spatial details and turns verbal directions into mental keys. He is driven by results, not elegance.",
+    "source_quote": "Zephyr leaned on the man harder than necessary, all bravado and borrowed threat, standing at the full height the horns gave him and hoping the prisoner would fill in the rest.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a priest who has survived death once, and carries an aura that shifts the atmosphere of a room when he steps forward. His presence lends gravity and credibility to persuasion, making previously ineffective approaches succeed.",
+    "source_quote": "There's something about a priest who's survived being killed once that reads differently than before. The prisoner felt it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Freed Prisoner",
+    "fact": "The freed prisoner is an Air Temple cultist, captured for faction politics. He is intelligent, observant, and strategically self-preserving. He traded information only after securing his freedom, and revealed a hidden passage to the Deep Temple sourced directly from Kelno \u2014 indicating insider knowledge.",
+    "source_quote": "He pointed it out on our map. Precise. A hidden passage inside the Air Temple itself, knowledge he'd gotten directly from Kelno \u2014 which meant it was the kind of information that doesn't circulate widely.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a perceptive observer skilled at reading micro-expressions and emotional truth. He noticed the freed prisoner\u2019s sincerity before any words were spoken and confirmed the man was telling the truth \u2014 a judgment that influenced the group\u2019s trust.",
+    "source_quote": "I saw him do that thing: the small stillness, the focused attention. He's good at reading people. Better than he lets on, and he already lets on plenty.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a cult faction engaged in political conflict with the Deep Temple. Its members are targeted for imprisonment by the Deep Temple\u2019s enforcers, indicating a rivalry rooted in ideology and control of sacred knowledge.",
+    "source_quote": "Air Temple cultist, which made him a prisoner here for reasons of faction politics as much as anything else.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Deep Temple",
+    "fact": "The Deep Temple is a feared, secretive organization that imprisons dissidents and rival cultists. It is associated with terror, hidden passages, and lethal secrecy. Access to it is not sought \u2014 only avoided.",
+    "source_quote": "Because nobody wants to get to the Deep Temple. Everybody wants to not \u2014 not ever be near the Deep Temple, but...",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Hidden Passage to the Deep Temple",
+    "fact": "The hidden passage is concealed within the Air Temple itself, accessible via a specific corridor junction and landmarked by counted stones from a bracket. It is known only to insiders or those who overheard secrets \u2014 such as Kelno\u2019s confidant.",
+    "source_quote": "He pointed it out on our map. Precise. A hidden passage inside the Air Temple itself, knowledge he'd gotten directly from Kelno.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Prison Cell",
+    "fact": "The prison cell is a stone dungeon where captives are shackled by iron chains. It is under the control of the Deep Temple and used to break prisoners through isolation and fear. Four individuals remain chained here as the freed man gives his testimony.",
+    "source_quote": "The other four were still chained to the wall. I had more work to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Iron Shackles",
+    "fact": "The iron shackles are heavy, rusted restraints designed to immobilize and degrade. They opened cleanly under precise lockpicking, suggesting they were poorly maintained or intentionally weakened \u2014 perhaps by prior escape attempts.",
+    "source_quote": "The shackles came apart like they'd been waiting for me.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Map with Hidden Passage Marked",
+    "fact": "The map, annotated by the freed prisoner, contains a precise notation of the hidden passage into the Deep Temple. Its accuracy is confirmed by Zephyr\u2019s mental verification, making it a critical tactical asset.",
+    "source_quote": "He pointed it out on our map. Precise.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Horns of Zephyr",
+    "fact": "The horns are a physical augmentation that grants Zephyr height and intimidation, functioning as a psychological weapon. They are not magical, but their presence amplifies threat perception \u2014 a tool of coercion, not combat.",
+    "source_quote": "standing at the full height the horns gave him and hoping the prisoner would fill in the rest.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Interrogation of the Air Temple Cultist",
+    "fact": "The interrogation began with Zephyr\u2019s aggressive posturing, failed to yield trust, and succeeded only after Calmer\u2019s intervention. The prisoner\u2019s cooperation was conditional on freedom, and his information proved accurate and actionable.",
+    "source_quote": "Zephyr had tried persuasion first \u2014 I caught the flat delivery, saw it land badly. But with Calmer at his shoulder, he tried again, and the second attempt found its footing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Lockpicking of the Shackles",
+    "fact": "The lockpicking of the prisoner\u2019s shackles was performed with surgical precision, resulting in clean, immediate release. It was an act of physical mastery that signaled competence and earned implicit trust from the captives.",
+    "source_quote": "The lock gave cleanly. The shackles came apart like they'd been waiting for me.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Four Remaining Prisoners",
+    "fact": "Four captives remain chained in the dungeon. Their release is pending, and their potential knowledge or loyalty is unassessed. Their survival may hinge on whether the party has time, resources, or will to free them before moving on.",
+    "source_quote": "The other four were still chained to the wall. I had more work to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno\u2019s Role and Knowledge",
+    "fact": "Kelno is an unnamed insider who possessed knowledge of the Deep Temple\u2019s hidden passage. His connection to the prisoner suggests he is a key figure in the Air Temple\u2019s resistance network \u2014 his whereabouts and current status are unknown.",
+    "source_quote": "knowledge he'd gotten directly from Kelno \u2014 which meant it was the kind of information that doesn't circulate widely, the kind you only know if you were close enough to matter or close enough to overhear.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Session Time \u2014 Before Morning",
+    "fact": "The events unfold under pressure of an impending deadline \u2014 'before morning' \u2014 which frames all decisions. Time is scarce, and the party must choose between completing tasks, freeing prisoners, and acquiring intelligence.",
+    "source_quote": "I thought about how many locks I still had to pick tonight, and what we still needed to do before morning.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is currently demanding the assembled Obsidian Edge be brought upstairs immediately, as per the urgent summons from the war council, and is regarded as useful enough to require maintenance.",
+    "source_quote": "Hartsch wanted his Obsidian Edge assembled, upstairs, immediately. War council. The summons had the texture of *now*.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is calmly receiving the runner\u2019s directions, filing them away with other planned obligations, and is choosing to act unhurriedly as a man who goes where he chooses, despite being entangled in obligations tied to Hartsch.",
+    "source_quote": "Zephyr looked at the runner, then at the corridor beyond him, then at nothing in particular. He filed the directions away... He let the runner see him receiving the message calmly. Unhurried.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Deep Temple",
+    "fact": "The Deep Temple is an enduring organization that is not going anywhere, and is referenced as a fixed point against which obligations and movements are measured.",
+    "source_quote": "The Deep Temple wasn't going anywhere. Presumably.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Alliance",
+    "fact": "The alliance with Hartsch is real and operational, maintained through mutual utility and a literal leash of control, with Hartsch's whistle triggering the Obsidian Edge\u2019s movement.",
+    "source_quote": "The alliance was real. The leash attached to it was also real. Because Hartsch whistled and the Obsidian Edge came running, because that was the arrangement they had made.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Obsidian Edge",
+    "fact": "The Obsidian Edge is a summoned or controlled artifact that responds to Hartsch\u2019s whistle, implying it is bound by an arrangement that makes it act as an extension of his will.",
+    "source_quote": "Because Hartsch whistled and the Obsidian Edge came running, because that was the arrangement they had made.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Rhennee debt",
+    "fact": "The Rhennee debt is a recorded obligation that Zephyr keeps mentally cataloged alongside other debts, favors, and schedules as part of his personal accounting.",
+    "source_quote": "He filed the directions away in the same place he kept everything he planned to collect later: the Rhennee debt, Captain Tolub's ship schedule, the exact weight of every favor he was owed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Captain Tolub's ship schedule",
+    "fact": "Captain Tolub's ship schedule is a tracked logistical detail that Zephyr maintains in his mental ledger of obligations and future actions.",
+    "source_quote": "He filed the directions away in the same place he kept everything he planned to collect later: the Rhennee debt, Captain Tolub's ship schedule, the exact weight of every favor he was owed.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "This again",
+    "fact": "The recurring indignity of being treated as someone else\u2019s asset while trying to build personal autonomy is a persistent, unspoken emotional thread that haunts Zephyr\u2019s experience.",
+    "source_quote": "*This again.* Not prejudice this time. Something else. The particular indignity of being someone else's asset while you were trying to build your own balance sheet.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The door",
+    "fact": "The door\u2019s location is mentally anchored in Zephyr\u2019s awareness as a point of potential movement or transition, symbolizing unspent agency or future action.",
+    "source_quote": "The door's location sat behind his eyes like money he hadn't spent yet.",
+    "quote_verified": true
+  }
+]

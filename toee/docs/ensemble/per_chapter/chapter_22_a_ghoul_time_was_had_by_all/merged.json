@@ -1,0 +1,2060 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the party\u2019s current expedition into the Earth Temple, following their awakening in newly granted quarters and preceding any return to Nulb.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The battle concluded with the party victorious, marking the end of this mission phase and positioning them as formidable agents within the enemy stronghold.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "battle fought in great hall",
+    "fact": "A major battle had been fought in the great hall, a skirmish in the greater war for control of the temple.",
+    "source_quote": "It was clear that a major battle had been fought here, a skirmish in the greater war for control of the temple.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "battle with ghouls in great hall",
+    "fact": "The party engaged multiple ghouls in the great hall. Zinnia, Sequioa, and Zephyr killed several; one ghoul fled. Calmer summoned spectral guardians that destroyed the remaining ghouls.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "battle with giant snake",
+    "fact": "The party fought a giant snake that erupted from the fireplace. Zephyr struck first, wounding it; Zinnia and Sequioa delivered further blows; Calmer\u2019s magic initially resisted but later proved effective; Zinnia delivered the killing blow.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer channeled healing magic into himself, restoring his strength.",
+    "source_quote": "Calmer, wounded but determined, channeled healing magic into himself, restoring his strength.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer channeled healing magic that brought Zephyr back from the brink of death.",
+    "source_quote": "Calmer, having learned from the previous encounter, invoked his spectral guardians once more, the divine magic tearing through the undead ranks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer confirmed that these creatures served no master but their own bellies.",
+    "source_quote": "Calmer confirmed what the party suspected: these creatures served no master but their own bellies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer invoked dark magic against the serpent, though it initially resisted his spell.",
+    "source_quote": "Calmer invoked dark magic against the serpent, though it initially resisted his spell.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer invoked his spectral guardians once more, the divine magic tearing through the undead ranks.",
+    "source_quote": "Calmer, having learned from the previous encounter, invoked his spectral guardians once more, the divine magic tearing through the undead ranks.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer invoked powerful magic, summoning spectral guardians that tore through the undead.",
+    "source_quote": "Calmer invoked powerful magic, summoning spectral guardians that tore through the undead.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer pre-cast his spectral guardians before engaging the ghasts.",
+    "source_quote": "Calmer suggested a tactical approach, pre-casting his spectral guardians before engaging the creatures.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer retorted that the last ghouls had said the same thing.",
+    "source_quote": "He invoked his spectral guardians, and the divine magic immediately began tearing into the ghasts. One of the creatures emitted a poisonous stench that overcame Calmer, weakening him, but the party pressed their advantage.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer's spectral guardians dissipated after a ghoul broke his concentration.",
+    "source_quote": "Another ghoul attacked Calmer directly, its claws and teeth finding purchase and breaking the cleric's concentration, causing his spectral guardians to dissipate.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer casts spell on giant snake",
+    "fact": "Calmer invoked dark magic against the giant snake, though it initially resisted his spell.",
+    "source_quote": "Calmer invoked dark magic against the serpent, though it initially resisted his spell.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer confirms ghouls serve no master",
+    "fact": "Calmer confirmed that the ghouls served no master but their own bellies.",
+    "source_quote": "Calmer confirmed what the party suspected: these creatures served no master but their own bellies.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer heals himself",
+    "fact": "Calmer, wounded but determined, channeled healing magic into himself, restoring his strength.",
+    "source_quote": "Calmer, wounded but determined, channeled healing magic into himself, restoring his strength.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer heals Zephyr",
+    "fact": "Calmer channeled healing magic that brought Zephyr back from the brink of death.",
+    "source_quote": "Calmer, having learned from the previous encounter, invoked his spectral guardians once more, the divine magic tearing through the undead ranks.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer invokes spectral guardians against ghasts",
+    "fact": "Calmer invoked his spectral guardians, and the divine magic immediately began tearing into the ghasts.",
+    "source_quote": "He invoked his spectral guardians, and the divine magic immediately began tearing into the ghasts.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer opens door to ghast chamber",
+    "fact": "Calmer opened the door to the ghast chamber.",
+    "source_quote": "He opened the door to the ghast chamber.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer pre-casts spectral guardians against ghasts",
+    "fact": "Calmer suggested pre-casting his spectral guardians before engaging the ghasts.",
+    "source_quote": "Calmer suggested a tactical approach, pre-casting his spectral guardians before engaging the creatures.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer retorts about ghouls",
+    "fact": "Calmer retorted that the last ghouls had said the same thing.",
+    "source_quote": "Calmer, emboldened by their recent victories over twenty ghouls, retorted that the last ghouls had said the same thing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's second spell hits giant snake",
+    "fact": "Calmer's second invocation proved more effective against the giant snake.",
+    "source_quote": "Calmer's second invocation proved more effective.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's spectral guardians dispelled",
+    "fact": "Calmer's spectral guardians were dissipated when a ghoul broke his concentration with a successful claw attack.",
+    "source_quote": "its claws and teeth finding purchase and breaking the cleric's concentration, causing his spectral guardians to dissipate",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer summons spectral guardians",
+    "fact": "Calmer invoked powerful magic, summoning spectral guardians that tore through the undead.",
+    "source_quote": "Calmer invoked powerful magic, summoning spectral guardians that tore through the undead.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer summons spectral guardians again",
+    "fact": "Calmer invoked his spectral guardians once more, the divine magic tearing through the undead ranks.",
+    "source_quote": "Calmer, having learned from the previous encounter, invoked his spectral guardians once more, the divine magic tearing through the undead ranks.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dungeon clearance",
+    "fact": "The party successfully cleared an entire dungeon section of undead threats, including over twenty ghouls, two ghasts, and a giant snake, establishing control under the guise of territorial expansion for the Earth Temple.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "final ghast slain",
+    "fact": "The final ghast was slain by Zephyr's pistol shot after Calmer's spectral guardians had weakened it.",
+    "source_quote": "Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghast attacks Calmer but misses",
+    "fact": "The surviving ghast attacked Calmer but missed.",
+    "source_quote": "The surviving ghast attacked Calmer but missed.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghast chamber engagement",
+    "fact": "The party engaged two ghasts in a chamber where one emitted a poisonous stench that weakened Calmer.",
+    "source_quote": "one of the creatures emitted a poisonous stench that overcame Calmer, weakening him",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghast emits poisonous stench",
+    "fact": "One of the ghasts emitted a poisonous stench that overcame Calmer, weakening him.",
+    "source_quote": "One of the creatures emitted a poisonous stench that overcame Calmer, weakening him.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghast retaliates against Zinnia",
+    "fact": "The movement provoked a retaliatory strike that wounded Zinnia.",
+    "source_quote": "though the movement provoked a retaliatory strike that wounded him.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghasts question party",
+    "fact": "The ghasts questioned whether the party were members of the Earth Temple and whether they had brought food or were food themselves.",
+    "source_quote": "The ghasts questioned whether the party were members of the Earth Temple and, more ominously, whether they had brought food or were food themselves.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghasts threaten party",
+    "fact": "The ghasts threatened the party, declaring they would be nothing but food.",
+    "source_quote": "and the undead threatened the party, declaring they would be nothing but food.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghoul attacks Calmer and breaks concentration",
+    "fact": "Another ghoul attacked Calmer directly, its claws and teeth finding purchase and breaking the cleric's concentration, causing his spectral guardians to dissipate.",
+    "source_quote": "Another ghoul attacked Calmer directly, its claws and teeth finding purchase and breaking the cleric's concentration, causing his spectral guardians to dissipate.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghoul attacks Calmer but fails",
+    "fact": "Another ghoul attempted to reach Calmer but failed to penetrate his defenses.",
+    "source_quote": "while another attempted to reach Calmer but failed to penetrate his defenses.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghoul flees to adjacent chamber",
+    "fact": "One ghoul disengaged and fled into an adjacent chamber.",
+    "source_quote": "One ghoul, sensing the tide turning against it, disengaged and fled into an adjacent chamber.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghouls attack party",
+    "fact": "The ghouls attacked without hesitation.",
+    "source_quote": "The ghouls attacked without hesitation.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghouls attack party in kitchen",
+    "fact": "The remaining ghouls pressed their attack, one charging Zephyr but missing, another striking Sequioa with claws and teeth, and a third lunging at Zinnia but failing to connect.",
+    "source_quote": "The remaining ghouls pressed their attack, one charging Zephyr but missing, another striking Sequioa with claws and teeth, and a third lunging at Zinnia but failing to connect.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghouls attack Zinnia and Sequioa",
+    "fact": "More ghouls attacked Zinnia and Sequioa, tearing into them with savage fury.",
+    "source_quote": "More ghouls attacked Zinnia and Sequioa, tearing into them with savage fury.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghouls overwhelm Zephyr",
+    "fact": "The ghouls swarmed Zephyr in a frenzy of claws and teeth, overwhelming his defenses and dragging him down into unconsciousness.",
+    "source_quote": "The ghouls swarmed him in a frenzy of claws and teeth, overwhelming his defenses and dragging him down into unconsciousness.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghoul trap in adjacent chamber",
+    "fact": "Zephyr opened a door into a chamber containing seven ghouls. He killed the fleeing ghoul but was overwhelmed and dragged unconscious. The ghouls attacked Zinnia and Sequioa. Calmer healed Zephyr and used spectral guardians to destroy the remaining ghouls.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ghoul wounds Zephyr",
+    "fact": "One ghoul managed to wound Zephyr again before retreating from Calmer's spectral guardians.",
+    "source_quote": "one managing to wound Zephyr again before retreating from Calmer's spectral guardians",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "giant snake attacks Sequioa",
+    "fact": "The giant snake continued its assault on Sequioa but failed to connect.",
+    "source_quote": "The snake, desperate and hungry, continued its assault on Sequioa but failed to connect.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "new wave of ghouls neutralized",
+    "fact": "A new wave of ghouls was neutralized by the prepared party using coordinated attacks and renewed spectral guardians.",
+    "source_quote": "The next wave of ghouls met a prepared and determined party",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party claims territory for Earth Temple",
+    "fact": "They had successfully cleared an entire section of the dungeon, claiming new territory for the Earth Temple\u2014or so it would appear to any observers.",
+    "source_quote": "They had successfully cleared an entire section of the dungeon, claiming new territory for the Earth Temple\u2014or so it would appear to any observers.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party clears dungeon section",
+    "fact": "The party stood victorious amid the corpses of a giant snake, over twenty ghouls, and two ghasts.",
+    "source_quote": "The party stood victorious amid the corpses of a giant snake, over twenty ghouls, and two ghasts.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party decides to explore dungeon",
+    "fact": "The party decided to explore the dungeon to better understand the labyrinthine complex they had infiltrated.",
+    "source_quote": "Ultimately, they decided to explore the dungeon to better understand the labyrinthine complex they had infiltrated.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party fights second wave of ghouls",
+    "fact": "The next wave of ghouls met a prepared and determined party.",
+    "source_quote": "The next wave of ghouls met a prepared and determined party.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa charged the other ghast, his attacks finding their mark repeatedly until the creature fell.",
+    "source_quote": "Sequioa charged the other ghast, his attacks finding their mark repeatedly until the creature fell.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa cut down multiple undead.",
+    "source_quote": "Sequioa followed suit, his attacks becoming more confident and deadly as he cut down multiple undead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa killed one creature outright and wounded another.",
+    "source_quote": "Sequioa killed one creature outright and wounded another.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa managed to wound the creature further.",
+    "source_quote": "Sequioa, despite some initial difficulty, managed to wound the creature further.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa quickly closed the door on the threatening ghasts.",
+    "source_quote": "Nick, playing Sequioa, quickly closed the door on the threatening creatures.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa struggled initially but eventually found his mark.",
+    "source_quote": "Sequioa struggled initially but eventually found his mark.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa closes door on ghasts",
+    "fact": "Nick, playing Sequioa, quickly closed the door on the threatening creatures.",
+    "source_quote": "Nick, playing Sequioa, quickly closed the door on the threatening creatures.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa disengages from remaining ghast",
+    "fact": "Sequioa disengaged, avoiding the remaining ghast's stench.",
+    "source_quote": "He then disengaged, avoiding the remaining ghast's stench.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa finds his mark against ghouls",
+    "fact": "Sequioa struggled initially but eventually found his mark against the ghouls.",
+    "source_quote": "Sequioa struggled initially but eventually found his mark.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa kills multiple ghouls",
+    "fact": "Sequioa followed suit, his attacks becoming more confident and deadly as he cut down multiple undead.",
+    "source_quote": "Sequioa followed suit, his attacks becoming more confident and deadly as he cut down multiple undead.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa kills one ghast",
+    "fact": "Sequioa charged the other ghast, his attacks finding their mark repeatedly until the creature fell.",
+    "source_quote": "Sequioa charged the other ghast, his attacks finding their mark repeatedly until the creature fell.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa kills one ghoul and wounds another",
+    "fact": "Sequioa killed one ghoul outright and wounded another.",
+    "source_quote": "Sequioa killed one creature outright and wounded another.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa wounds giant snake",
+    "fact": "Sequioa managed to wound the giant snake further.",
+    "source_quote": "Sequioa, despite some initial difficulty, managed to wound the creature further.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "spectral guardians deployment",
+    "fact": "Calmer invoked spectral guardians three times during the battle; each use tore through undead ranks, forced retreats, and ultimately proved decisive against ghasts despite personal cost.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "spectral guardians kill three ghouls",
+    "fact": "Calmer's spectral guardians killed all three nearby ghouls.",
+    "source_quote": "and all three nearby ghouls succumbed to the divine assault.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "territory claimed",
+    "fact": "Zephyr declared the territory conquered for the Earth Temple, positioning the party as covert agents within the enemy stronghold.",
+    "source_quote": "Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "trap triggered",
+    "fact": "Zephyr triggered a trap when he opened a door, revealing seven additional ghouls lying in wait.",
+    "source_quote": "seven more ghouls awaited within, their dead eyes gleaming with hunger",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr approached the fireplace to examine it more closely.",
+    "source_quote": "As Zephyr approached the fireplace to examine it more closely, a large giant snake suddenly erupted from within, hissing with hunger and fury.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr charged forward, killing the wounded ghoul that had fled.",
+    "source_quote": "Zephyr charged forward, killing the wounded ghoul that had fled.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple.",
+    "source_quote": "Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple, maintaining their cover while simultaneously clearing out the dungeon's threats.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr dispatched two ghouls in rapid succession.",
+    "source_quote": "Zephyr, utilizing his assassin's training, dispatched two ghouls in rapid succession.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.",
+    "source_quote": "Finally, Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr opened the door and immediately encountered several ghouls.",
+    "source_quote": "Sequioa opened a door and immediately encountered several ghouls\u2014mindless undead creatures with no allegiance to any temple, only to their insatiable hunger.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr opened the door and was met by seven more ghouls.",
+    "source_quote": "As he opened the door, seven more ghouls awaited within, their dead eyes gleaming with hunger.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr struck down another ghoul with devastating force.",
+    "source_quote": "Zephyr, revived and vengeful, struck down another ghoul with devastating force.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr struck first with his short sword, wounding the snake.",
+    "source_quote": "Zephyr struck first with his short sword, wounding the creature as it lunged at him with venomous fangs but missed.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr was overwhelmed by the ghouls and dragged down into unconsciousness.",
+    "source_quote": "The ghouls swarmed him in a frenzy of claws and teeth, overwhelming his defenses and dragging him down into unconsciousness.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr's daggers flashed in the dim light, dropping ghouls with precise strikes.",
+    "source_quote": "Zephyr's daggers flashed in the dim light, dropping ghouls with precise strikes.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr declares intent to conquer territory",
+    "fact": "Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple.",
+    "source_quote": "Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr drops ghouls with daggers",
+    "fact": "Zephyr's daggers flashed in the dim light, dropping ghouls with precise strikes.",
+    "source_quote": "Zephyr's daggers flashed in the dim light, dropping ghouls with precise strikes.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr enters ghoul trap",
+    "fact": "Zephyr opened the door to an adjacent chamber and was met by seven more ghouls.",
+    "source_quote": "As he opened the door, seven more ghouls awaited within, their dead eyes gleaming with hunger.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr incapacitated",
+    "fact": "Zephyr was overwhelmed and dragged unconscious by a swarm of ghouls after charging into a trapped chamber.",
+    "source_quote": "the ghouls swarmed him in a frenzy of claws and teeth, overwhelming his defenses and dragging him down into unconsciousness",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr kills fleeing ghoul",
+    "fact": "Zephyr charged forward and killed the wounded ghoul that had fled.",
+    "source_quote": "Zephyr charged forward, killing the wounded ghoul that had fled.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr kills remaining ghast with pistol",
+    "fact": "Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.",
+    "source_quote": "Finally, Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr kills two ghouls",
+    "fact": "Zephyr dispatched two ghouls in rapid succession.",
+    "source_quote": "Zephyr, utilizing his assassin's training, dispatched two ghouls in rapid succession.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr revived",
+    "fact": "Zephyr was brought back from unconsciousness by Calmer's healing magic after being overwhelmed by ghouls.",
+    "source_quote": "channeling healing magic that brought the rogue back from the brink of death",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr strikes down ghoul",
+    "fact": "Zephyr, revived and vengeful, struck down another ghoul with devastating force.",
+    "source_quote": "Zephyr, revived and vengeful, struck down another ghoul with devastating force.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr wounds giant snake",
+    "fact": "Zephyr struck first with his short sword, wounding the giant snake.",
+    "source_quote": "Zephyr struck first with his short sword, wounding the creature as it lunged at him with venomous fangs but missed.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia cut down multiple ghouls with her martial prowess.",
+    "source_quote": "Zinnia cut down multiple ghouls with her martial prowess, his attacks flowing from one target to the next with deadly efficiency.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia deduced that the Earth Temple forces and the ghasts were not allied.",
+    "source_quote": "Zinnia, observing the interaction, deduced that the Earth Temple forces and the ghasts were not allied, a valuable piece of intelligence about the fractured nature of the temple's inhabitants.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivered a killing blow that left the snake lifeless on the kitchen floor.",
+    "source_quote": "Finally, Zinnia delivered a killing blow that left the snake lifeless on the kitchen floor.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia detected the sound of more undead approaching from the north.",
+    "source_quote": "As the last ghoul fell, Zinnia's keen senses detected the sound of more undead approaching from the north.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia entered the chamber and struck one of the ghasts, then tactically withdrew from the poisonous aura.",
+    "source_quote": "Zinnia entered the chamber and struck one of the ghasts, then tactically withdrew from the poisonous aura, though the movement provoked a retaliatory strike that wounded him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia joined the fray, her attacks landing with devastating precision.",
+    "source_quote": "Zinnia joined the fray, her attacks landing with devastating precision.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia struck first, killing a ghoul before it could fully enter the fray.",
+    "source_quote": "Zinnia struck first, killing a ghoul before it could fully enter the fray.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia struck the first ghoul with brutal efficiency.",
+    "source_quote": "Zinnia struck the first ghoul with brutal efficiency.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia and Sequioa eliminate remaining ghouls",
+    "fact": "Zinnia and Sequioa worked in concert, eliminating the remaining ghouls with ruthless efficiency until the chamber fell silent.",
+    "source_quote": "Zinnia and Sequioa worked in concert, eliminating the remaining ghouls with ruthless efficiency until the chamber fell silent.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia and Sequioa kill remaining ghouls",
+    "fact": "Zinnia and Sequioa finished off the remaining ghouls in the chamber.",
+    "source_quote": "Zinnia and Sequioa finished off the remaining ghouls in the chamber, their weapons finding their marks with lethal precision.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia attacks giant snake",
+    "fact": "Zinnia joined the fray, her attacks landing with devastating precision against the giant snake.",
+    "source_quote": "Zinnia joined the fray, her attacks landing with devastating precision.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia cuts down multiple ghouls",
+    "fact": "Zinnia cut down multiple ghouls with her martial prowess.",
+    "source_quote": "Zinnia cut down multiple ghouls with her martial prowess, his attacks flowing from one target to the next with deadly efficiency.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia deduces ghasts not allied with Earth Temple",
+    "fact": "Zinnia deduced that the Earth Temple forces and the ghasts were not allied.",
+    "source_quote": "Zinnia, observing the interaction, deduced that the Earth Temple forces and the ghasts were not allied.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia detects approaching undead",
+    "fact": "Zinnia detected the sound of more undead approaching from the north after the last ghoul fell.",
+    "source_quote": "Zinnia's keen senses detected the sound of more undead approaching from the north",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia detects more undead approaching",
+    "fact": "Zinnia's keen senses detected the sound of more undead approaching from the north.",
+    "source_quote": "As the last ghoul fell, Zinnia's keen senses detected the sound of more undead approaching from the north.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia kills first ghoul",
+    "fact": "Zinnia struck the first ghoul with brutal efficiency.",
+    "source_quote": "Zinnia struck the first ghoul with brutal efficiency.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia kills ghoul entering chamber",
+    "fact": "Zinnia struck first, killing a ghoul before it could fully enter the fray.",
+    "source_quote": "Zinnia struck first, killing a ghoul before it could fully enter the fray.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia kills giant snake",
+    "fact": "Zinnia delivered a killing blow that left the giant snake lifeless on the kitchen floor.",
+    "source_quote": "Finally Zinnia delivered a killing blow that left the snake lifeless on the kitchen floor.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia resists ghast's paralyzing touch",
+    "fact": "Zinnia resisted the creature's paralyzing touch through sheer fortitude.",
+    "source_quote": "He resisted the creature's paralyzing touch through sheer fortitude.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia strikes ghast and withdraws",
+    "fact": "Zinnia entered the chamber and struck one of the ghasts, then tactically withdrew from the poisonous aura.",
+    "source_quote": "Zinnia entered the chamber and struck one of the ghasts, then tactically withdrew from the poisonous aura.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a covert organization claiming territory within enemy strongholds, using espionage and sabotage; the party acts as its agents, expanding influence under false pretenses.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a former stronghold of the traitor Lieutenant Krell, now fractured and contested. Its remaining forces include bloodstained remnants, ghouls, ghasts, and undead creatures with no unified allegiance.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Romag",
+    "fact": "Romag is an authority with whom the party must negotiate to officially claim newly cleared dungeon territory, indicating a hierarchy or governing body within the temple's structure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "abandoned kitchen",
+    "fact": "An abandoned kitchen twenty feet by thirty feet, dominated by a massive fireplace with side ovens. Littered with broken containers, dishes, trash, and skeletons\u2014including an ogre\u2019s bones. The giant snake emerged from within.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "abandoned kitchen",
+    "fact": "The abandoned kitchen is a vast chamber twenty feet by thirty feet, dominated by a massive fireplace large enough to roast an entire ox, with numerous side ovens built into its structure, littered with broken containers, dishes, unidentifiable trash, and scattered skeletons including the massive bones of an ogre.",
+    "source_quote": "Continuing their exploration northward, the party discovered an abandoned kitchen, a vast chamber twenty feet by thirty feet. A massive fireplace dominated the north wall, large enough to roast an entire ox, with numerous side ovens built into its structure. The room was in ruins, littered with broken containers, dishes, and unidentifiable trash. Skeletons lay scattered across the floor, including the massive bones of an ogre, testament to some past violence.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "abandoned kitchen",
+    "fact": "The kitchen has a massive fireplace large enough to roast an entire ox, with side ovens built into its structure.",
+    "source_quote": "A massive fireplace dominated the north wall, large enough to roast an entire ox, with numerous side ovens built into its structure.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "abandoned kitchen",
+    "fact": "The kitchen is littered with broken containers, dishes, and unidentifiable trash.",
+    "source_quote": "The room was in ruins, littered with broken containers, dishes, and unidentifiable trash.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "abandoned kitchen",
+    "fact": "The party discovered an abandoned kitchen, a vast chamber twenty feet by thirty feet.",
+    "source_quote": "Continuing their exploration northward, the party discovered an abandoned kitchen, a vast chamber twenty feet by thirty feet.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "dungeon section",
+    "fact": "The party cleared an entire section of the dungeon, defeating a giant snake, over twenty ghouls, and two ghasts, establishing themselves as formidable agents within the Earth Temple.",
+    "source_quote": "The battle was over. The party stood victorious amid the corpses of a giant snake, over twenty ghouls, and two ghasts. They had successfully cleared an entire section of the dungeon, claiming new territory for the Earth Temple\u2014or so it would appear to any observers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is an enemy stronghold the party has infiltrated, using espionage and sabotage from within; its interior contains multiple chambers, including quarters, kitchens, halls, and storage rooms, all littered with undead and remnants of violence.",
+    "source_quote": "They had established themselves as formidable agents within the temple, positioning themselves perfectly to continue their dangerous mission of espionage and sabotage from within the heart of the enemy stronghold.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple quarters",
+    "fact": "The Earth Temple quarters contain a secret door and strategic access points, marked by blood and remnants of recent battles with gnolls, now serving as the party's base of operations.",
+    "source_quote": "The party awoke in their newly granted quarters within the Earth Temple, the former chambers of the traitor Lieutenant Krell. The room, though marked by blood and the remnants of their recent battles with gnolls, now served as their base of operations. With a secret door and strategic access points, it was a foothold in the heart of enemy territory.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple quarters",
+    "fact": "The party awoke in their newly granted quarters within the Earth Temple, the former chambers of the traitor Lieutenant Krell.",
+    "source_quote": "The party awoke in their newly granted quarters within the Earth Temple, the former chambers of the traitor Lieutenant Krell.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple quarters",
+    "fact": "The party\u2019s newly granted quarters within the Earth Temple were the former chambers of Lieutenant Krell. Marked by blood and battle remnants, they contained a secret door and served as their base of operations.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple quarters",
+    "fact": "The room has a secret door and strategic access points.",
+    "source_quote": "With a secret door and strategic access points, it was a foothold in the heart of enemy territory.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "ghast chamber",
+    "fact": "The ghast chamber was a fortified area within the dungeon where the final confrontation occurred; it was entered after pre-casting defenses, and its doorway was the site of hostile declarations and lethal magic.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall",
+    "fact": "A vast hall over a hundred feet long and thirty feet wide, once used for grand revelries. Now littered with broken tables, benches, chairs, tattered tapestries, and bones. Evidence of a major battle for control of the temple.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall",
+    "fact": "Bones and skeletons litter the floor of the great hall.",
+    "source_quote": "Bones\u2014both individual and complete skeletons\u2014littered the floor beneath the broken furniture.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall",
+    "fact": "The great hall has broken tables, trestles, benches, and chairs scattered throughout.",
+    "source_quote": "Broken tables, trestles, benches, and chairs lay scattered and heaped throughout the space.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall",
+    "fact": "The great hall has tattered tapestries and drapes clinging to the walls.",
+    "source_quote": "Tattered tapestries and drapes still clung to the walls.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall",
+    "fact": "The great hall is a vast chamber over a hundred feet in length and thirty feet in width, littered with broken tables, trestles, benches, and chairs; tattered tapestries and drapes cling to the walls; bones and skeletons litter the floor beneath broken furniture; various weapons lie scattered, evidence of a major battle fought here.",
+    "source_quote": "Pressing onward, the party entered a vast hall that stretched over a hundred feet in length and thirty feet in width. The chamber told a story of past grandeur and recent violence. Broken tables, trestles, benches, and chairs lay scattered and heaped throughout the space, evidence of great revelries that had once been conducted in this evil place. Tattered tapestries and drapes still clung to the walls, and bones\u2014both individual and complete skeletons\u2014littered the floor beneath the broken furniture. It was clear that a major battle had been fought here, a skirmish in the greater war for control of the temple. Various weapons lay scattered throughout, remnants of that violent confrontation.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall",
+    "fact": "The party entered a vast hall that stretched over a hundred feet in length and thirty feet in width.",
+    "source_quote": "Pressing onward, the party entered a vast hall that stretched over a hundred feet in length and thirty feet in width.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall dimensions",
+    "fact": "A vast hall stretched over a hundred feet in length and thirty feet in width, littered with broken furniture and bones from a major battle.",
+    "source_quote": "a vast hall that stretched over a hundred feet in length and thirty feet in width",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "great hall ruin state",
+    "fact": "The great hall was in ruins, with broken tables, trestles, benches, and chairs heaped throughout, tattered tapestries clinging to walls, and bones littering the floor beneath the debris.",
+    "source_quote": "Broken tables, trestles, benches, and chairs lay scattered and heaped throughout the space... Tattered tapestries and drapes still clung to the walls, and bones\u2014both individual and complete skeletons\u2014littered the floor",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "kitchen dimensions",
+    "fact": "An abandoned kitchen was discovered, a vast chamber twenty feet by thirty feet, dominated by a massive fireplace and side ovens.",
+    "source_quote": "an abandoned kitchen, a vast chamber twenty feet by thirty feet",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "kitchen ruin state",
+    "fact": "The kitchen was in ruins, littered with broken containers, dishes, and unidentifiable trash, with skeletons\u2014including an ogre's massive bones\u2014scattered across the floor.",
+    "source_quote": "The room was in ruins, littered with broken containers, dishes, and unidentifiable trash. Skeletons lay scattered across the floor, including the massive bones of an ogre",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "storage room condition",
+    "fact": "Adjacent storage rooms were found filled with spoiled food and shattered crockery, evidence of decay and neglect.",
+    "source_quote": "finding only spoiled food and shattered crockery",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghast count",
+    "fact": "Two ghasts\u2014undead creatures with hollow eyes and an unsettling hunger\u2014were encountered and slain.",
+    "source_quote": "encountered two ghasts\u2014undead creatures with hollow eyes and an unsettling hunger",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghasts",
+    "fact": "Two ghasts were encountered and slain; they emitted poisonous stenches, used paralyzing touches, and threatened the party with declarations of consumption before being destroyed by spectral guardians and gunfire.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghasts",
+    "fact": "Two ghasts were encountered west of the party\u2019s quarters. They were undead creatures with hollow eyes and an unsettling hunger, questioning the party\u2019s identity and intent. They were repelled when Sequioa closed the door.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghasts",
+    "fact": "Two ghasts were encountered west of the quarters, undead creatures with hollow eyes and an unsettling hunger, who questioned whether the party were members of the Earth Temple and whether they had brought food or were food themselves.",
+    "source_quote": "Opening a door, they encountered two ghasts\u2014undead creatures with hollow eyes and an unsettling hunger. The ghasts questioned whether the party were members of the Earth Temple and, more ominously, whether they had brought food or were food themselves.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghasts",
+    "fact": "Two ghasts were engaged after the ghoul battle; one emitted a poisonous stench that weakened Calmer; one was killed by Sequioa; the other was slain by Zephyr's pistol shot after being weakened by Calmer's spectral guardians and Zinnia's strike.",
+    "source_quote": "The party turned their attention to the two ghasts they had encountered earlier. Calmer suggested a tactical approach, pre-casting his spectral guardians before engaging the creatures. He opened the door to the ghast chamber, and the undead threatened the party, declaring they would be nothing but food. Calmer, emboldened by their recent victories over twenty ghouls, retorted that the last ghouls had said the same thing. He invoked his spectral guardians, and the divine magic immediately began tearing into the ghasts. One of the creatures emitted a poisonous stench that overcame Calmer, weakening him, but the party pressed their advantage. Zinnia entered the chamber and struck one of the ghasts, then tactically withdrew from the poisonous aura, though the movement provoked a retaliatory strike that wounded him. He resisted the creature's paralyzing touch through sheer fortitude. Sequioa charged the other ghast, his attacks finding their mark repeatedly until the creature fell. He then disengaged, avoiding the remaining ghast's stench. The surviving ghast attacked Calmer but missed, and Calmer's spectral guardians continued their relentless assault. Finally, Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghoul count",
+    "fact": "Over twenty ghouls\u2014mindless undead creatures with insatiable hunger\u2014were encountered and slain across multiple chambers.",
+    "source_quote": "over twenty ghouls",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghouls",
+    "fact": "Multiple ghouls were encountered in the great hall and adjacent chamber. They were mindless undead with no allegiance, only insatiable hunger. They attacked the party, overwhelmed Zephyr, and were destroyed by Calmer\u2019s spectral guardians and Zinnia\u2019s strikes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghouls",
+    "fact": "Over twenty ghouls were slain in two engagements; they attacked with deadly efficiency, wounded key party members, and were ultimately eliminated by coordinated strikes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ghouls",
+    "fact": "Several ghouls\u2014mindless undead creatures with no allegiance to any temple, only to their insatiable hunger\u2014were encountered in a southern passageway; they attacked without hesitation; Zinnia struck first, killing one ghoul outright; Sequioa killed one and wounded another; Zephyr dispatched two in rapid succession; one ghoul fled into an adjacent chamber; the remaining ghouls pressed their attack; Calmer summoned spectral guardians that tore through the undead; the party pursued the fleeing ghoul into an adjacent chamber.",
+    "source_quote": "Following a passageway to the south, Sequioa opened a door and immediately encountered several ghouls\u2014mindless undead creatures with no allegiance to any temple, only to their insatiable hunger. Calmer confirmed what the party suspected: these creatures served no master but their own bellies. The ghouls attacked without hesitation, and the party responded in kind. Zinnia struck the first ghoul with brutal efficiency, while Sequioa killed one creature outright and wounded another. Zephyr, utilizing his assassin's training, dispatched two ghouls in rapid succession. One ghoul, sensing the tide turning against it, disengaged and fled into an adjacent chamber. The remaining ghouls pressed their attack, one charging Zephyr but missing, another striking Sequioa with claws and teeth, and a third lunging at Zinnia but failing to connect. Calmer invoked powerful magic, summoning spectral guardians that tore through the undead, and all three nearby ghouls succumbed to the divine assault.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant snake",
+    "fact": "A giant snake was slain during the dungeon clearance; its corpse was among the remains marking the party's victory, though its role in the battle was not detailed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant snake",
+    "fact": "A large giant snake erupted from the fireplace in the abandoned kitchen.",
+    "source_quote": "As Zephyr approached the fireplace to examine it more closely, a large giant snake suddenly erupted from within.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant snake",
+    "fact": "A large giant snake erupted from the fireplace in the abandoned kitchen. It hissed with hunger and fury, lunged at Zephyr with venomous fangs, and was killed by Zinnia after sustained attacks from the party and Calmer's magic.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant snake",
+    "fact": "A large giant snake erupted from the fireplace, hissing with hunger and fury, and was engaged in battle by the party; Zephyr struck first with his short sword, wounding it as it lunged with venomous fangs but missed; Zinnia and Sequioa landed devastating attacks; Calmer invoked dark magic that initially resisted; the snake was ultimately killed by Zinnia's killing blow.",
+    "source_quote": "As Zephyr approached the fireplace to examine it more closely, a large giant snake suddenly erupted from within, hissing with hunger and fury. The battle with the snake was swift but intense. Zephyr struck first with his short sword, wounding the creature as it lunged at him with venomous fangs but missed. Zinnia joined the fray, her attacks landing with devastating precision. Calmer invoked dark magic against the serpent, though it initially resisted his spell. Sequioa, despite some initial difficulty, managed to wound the creature further. The snake, desperate and hungry, continued its assault on Sequioa but failed to connect. Calmer's second invocation proved more effective, and finally Zinnia delivered a killing blow that left the snake lifeless on the kitchen floor.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "giant snake count",
+    "fact": "One large giant snake\u2014erupting from a fireplace with hunger and fury\u2014was slain after a swift but intense battle.",
+    "source_quote": "a large giant snake suddenly erupted from within, hissing with hunger and fury",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "scattered skeletons",
+    "fact": "Skeletons lie scattered across the kitchen floor, including the massive bones of an ogre.",
+    "source_quote": "Skeletons lay scattered across the floor, including the massive bones of an ogre.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "seven ghouls",
+    "fact": "Seven more ghouls awaited in an adjacent chamber, overwhelming Zephyr with a frenzy of claws and teeth, dragging him unconscious; they attacked Zinnia and Sequioa with savage fury; one attempted to reach Calmer but failed; Calmer's spectral guardians continued their work; Calmer then channeled healing magic to revive Zephyr.",
+    "source_quote": "The party pursued the fleeing ghoul into the adjacent chamber, but Zephyr's boldness led him into a trap. As he opened the door, seven more ghouls awaited within, their dead eyes gleaming with hunger. Zephyr charged forward, killing the wounded ghoul that had fled, but his aggressive positioning left him vulnerable. The ghouls swarmed him in a frenzy of claws and teeth, overwhelming his defenses and dragging him down into unconsciousness. More ghouls attacked Zinnia and Sequioa, tearing into them with savage fury, while another attempted to reach Calmer but failed to penetrate his defenses. Calmer's spectral guardians continued their work, devastating the ghouls that came within their reach. He then turned his attention to the fallen Zephyr, channeling healing magic that brought the rogue back from the brink of death.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "several ghouls",
+    "fact": "Sequioa encountered several ghouls\u2014mindless undead creatures with no allegiance to any temple.",
+    "source_quote": "Sequioa opened a door and immediately encountered several ghouls\u2014mindless undead creatures with no allegiance to any temple, only to their insatiable hunger.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "two ghasts",
+    "fact": "The party encountered two ghasts\u2014undead creatures with hollow eyes and an unsettling hunger.",
+    "source_quote": "Opening a door, they encountered two ghasts\u2014undead creatures with hollow eyes and an unsettling hunger.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer invoked dark magic against the giant snake that initially resisted; he summoned spectral guardians that tore through the ghouls; he channeled healing magic to revive Zephyr; he invoked spectral guardians again against the next wave of ghouls; he pre-cast spectral guardians before engaging the ghasts; he was weakened by a poisonous stench from one ghast; he retorted that the last ghouls had said the same thing; his spectral guardians tore into the ghasts; he was broken in concentration when a ghoul's claws and teeth found purchase.",
+    "source_quote": "Calmer invoked dark magic against the serpent, though it initially resisted his spell. Calmer invoked powerful magic, summoning spectral guardians that tore through the undead. He then turned his attention to the fallen Zephyr, channeling healing magic that brought the rogue back from the brink of death. Calmer, having learned from the previous encounter, invoked his spectral guardians once more, the divine magic tearing through the undead ranks. Calmer suggested a tactical approach, pre-casting his spectral guardians before engaging the creatures. He opened the door to the ghast chamber, and the undead threatened the party, declaring they would be nothing but food. Calmer, emboldened by their recent victories over twenty ghouls, retorted that the last ghouls had said the same thing. He invoked his spectral guardians, and the divine magic immediately began tearing into the ghasts. One of the creatures emitted a poisonous stench that overcame Calmer, weakening him. The loss of the powerful spell was a setback, but the party had already thinned the ghoul numbers significantly. Calmer, wounded but determined, channeled healing magic into himself, restoring his strength. Calmer's spectral guardians continued their relentless assault. A ghoul attacked Calmer directly, its claws and teeth finding purchase and breaking the cleric's concentration, causing his spectral guardians to dissipate.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a member of the party who invoked dark and divine magic against the giant snake and ghouls. They summoned spectral guardians that destroyed multiple undead and healed Zephyr from unconsciousness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a resilient cleric of the Earth Temple who restored his strength through healing, summoned spectral guardians repeatedly, endured poison and paralyzing touches, and led tactical engagements against undead.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Nick",
+    "fact": "Nick, playing Sequioa, quickly closed the door on the threatening ghasts.",
+    "source_quote": "Nick, playing Sequioa, quickly closed the door on the threatening creatures.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "The party learned they would need to negotiate with Romag to officially claim the territory they had cleared.",
+    "source_quote": "The party knew they would need to negotiate with Romag to officially claim this territory, and they learned that simply holding ground was not enough.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a determined warrior of the Earth Temple who improved in combat effectiveness, eliminated multiple undead, and worked in concert with allies to secure the dungeon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a member of the party who opened doors, engaged undead, and wielded weapons during battles in the Earth Temple. They wounded the giant snake and ghouls, and survived multiple attacks.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa struggled initially but eventually found his mark; his attacks became more confident and deadly as he cut down multiple undead; he disengaged to avoid the ghast's stench; he wounded the second ghast until it fell.",
+    "source_quote": "Sequioa struggled initially but eventually found his mark. Sequioa charged the other ghast, his attacks finding their mark repeatedly until the creature fell. He then disengaged, avoiding the remaining ghast's stench.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple, maintaining their cover while simultaneously clearing out the dungeon's threats.",
+    "source_quote": "Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple, maintaining their cover while simultaneously clearing out the dungeon's threats.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a member of the party trained as an assassin who engaged ghouls, charged into traps, and was overwhelmed and dragged unconscious by a swarm of ghouls before being healed by Calmer.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a vengeful operative of the Earth Temple who revived after near-death, delivered decisive kills with daggers and pistol, and declared territorial conquest to maintain cover.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr, revived and vengeful, struck down another ghoul with devastating force; later, he was wounded again by a ghoul before retreating from Calmer's spectral guardians; he declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple.",
+    "source_quote": "Zephyr, revived and vengeful, struck down another ghoul with devastating force. The remaining ghouls fought desperately, one managing to wound Zephyr again before retreating from Calmer's spectral guardians, provoking a retaliatory strike. Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple, maintaining their cover while simultaneously clearing out the dungeon's threats.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia cut down multiple ghouls with her martial prowess, his attacks flowing from one target to the next with deadly efficiency; she finished off the remaining ghouls in the chamber with lethal precision; her keen senses detected the sound of more undead approaching from the north.",
+    "source_quote": "Zinnia cut down multiple ghouls with her martial prowess, his attacks flowing from one target to the next with deadly efficiency. Zinnia and Sequioa finished off the remaining ghouls in the chamber, their weapons finding their marks with lethal precision. As the last ghoul fell, Zinnia's keen senses detected the sound of more undead approaching from the north.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a battle-hardened agent of the Earth Temple who led the assault on ghouls and ghasts, detected approaching undead, and maintained cover while clearing the dungeon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a member of the party who observed interactions with undead, deduced alliances, and delivered precise combat strikes. They killed the giant snake and multiple ghouls, and survived attacks.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia, observing the interaction, deduced that the Earth Temple forces and the ghasts were not allied, a valuable piece of intelligence about the fractured nature of the temple's inhabitants.",
+    "source_quote": "Zinnia, observing the interaction, deduced that the Earth Temple forces and the ghasts were not allied, a valuable piece of intelligence about the fractured nature of the temple's inhabitants.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "gold pieces found",
+    "fact": "Twenty gold pieces were discovered among the debris in the kitchen after the battle with the giant snake.",
+    "source_quote": "a short sword and twenty gold pieces among the debris",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "pistol",
+    "fact": "Zephyr used his pistol to fire a shot that ended the life of the final ghast.",
+    "source_quote": "Finally, Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "pistol",
+    "fact": "Zephyr\u2019s pistol was fired once, delivering the final blow to the last ghast; its echo marked the end of the battle and demonstrated the party\u2019s access to rare, non-magical weaponry.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "scattered weapons",
+    "fact": "Various weapons lie scattered throughout the great hall as remnants of the battle.",
+    "source_quote": "Various weapons lay scattered throughout, remnants of that violent confrontation.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "short sword",
+    "fact": "A short sword was discovered among the debris in the kitchen after the giant snake was slain.",
+    "source_quote": "Searching the area, the party discovered a short sword and twenty gold pieces among the debris.",
+    "quote_verified": true,
+    "passes": [
+      "small",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "object",
+    "subject": "short sword",
+    "fact": "The party discovered a short sword among the debris in the kitchen.",
+    "source_quote": "Searching the area, the party discovered a short sword and twenty gold pieces among the debris.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "short sword found",
+    "fact": "A short sword was recovered from the debris in the kitchen following the defeat of the giant snake.",
+    "source_quote": "a short sword and twenty gold pieces among the debris",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "twenty gold pieces",
+    "fact": "The party discovered twenty gold pieces among the debris in the kitchen.",
+    "source_quote": "Searching the area, the party discovered a short sword and twenty gold pieces among the debris.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "twenty gold pieces",
+    "fact": "Twenty gold pieces were discovered among the debris of the kitchen after the giant snake's defeat.",
+    "source_quote": "Searching the area, the party discovered a short sword and twenty gold pieces among the debris.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "twenty gold pieces",
+    "fact": "Twenty gold pieces were found among the debris in the kitchen after the giant snake was killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "weapons scattered",
+    "fact": "Various weapons were scattered throughout the great hall, remnants of a violent battle fought there.",
+    "source_quote": "Various weapons lay scattered throughout, remnants of that violent confrontation",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "espionage cover",
+    "fact": "The party maintains the appearance of serving the Earth Temple\u2019s expansion while likely operating under deeper, unspoken directives \u2014 their true allegiance and mission remain obscured.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "fate of Lieutenant Krell",
+    "fact": "Lieutenant Krell, the traitor who once commanded the Earth Temple, is confirmed dead. The party\u2019s mission includes reporting his death to agents in Nulb, though they chose to explore the dungeon first.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "monster recruitment",
+    "fact": "The party learned that holding ground is insufficient; they must recruit monsters to populate and defend their new domain, setting up a future mission objective.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "nature of the temple's factions",
+    "fact": "The Earth Temple\u2019s remaining forces are fractured. Ghasts and ghouls show no allegiance to any organized faction, suggesting internal collapse and a power vacuum.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "negotiate with Romag for territory claim",
+    "fact": "The party knew they would need to negotiate with Romag to officially claim this territory.",
+    "source_quote": "The party knew they would need to negotiate with Romag to officially claim this territory.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Recruiting monsters to populate the domain",
+    "fact": "They would need to recruit monsters to populate and defend their new domain, a task that would likely require future missions.",
+    "source_quote": "They would need to recruit monsters to populate and defend their new domain, a task that would likely require future missions.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "recruit monsters to defend territory",
+    "fact": "They learned that simply holding ground was not enough; they would need to recruit monsters to populate and defend their new domain.",
+    "source_quote": "They learned that simply holding ground was not enough. They would need to recruit monsters to populate and defend their new domain.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "territorial claim",
+    "fact": "The party must negotiate with Romag to officially claim the cleared dungeon territory, indicating an unresolved political requirement beneath their apparent success.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The party's claim to the territory",
+    "fact": "The party knew they would need to negotiate with Romag to officially claim this territory.",
+    "source_quote": "The party knew they would need to negotiate with Romag to officially claim this territory, and they learned that simply holding ground was not enough.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

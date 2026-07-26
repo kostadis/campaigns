@@ -1,0 +1,134 @@
+[
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a talkative, spell-hungry individual who fixates on powerful magic and seeks to expand his repertoire, often flattering others to gain attention. He recently acquired a wide array of spells from a dead cultist\u2019s spellbook and is eager to be useful to the party. He showed excitement over magical items and secret doors, and displayed knowledge of legendary mages like Bigby and Leomund.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is observant and perceptive, quickly recognizing when someone enjoys flattery. She noticed Spugnoir\u2019s tendency to embellish tales about the Circle of Eight and responded with strategic affirmation. She is pragmatic, taking the magical dagger after fair debate, and is focused on the mission, asking whether the party should rest or press on after arriving in Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is impulsive and prone to misjudging social cues\u2014he played a song that enraged mephits, leading to unintended violence. He is physically courageous, opening a secret door despite reluctance, and is detail-oriented, identifying a spider idol as Lolth and noting the cultist\u2019s human worship. He is weary of responsibility, groaning when forced to investigate secret doors, yet remains committed to the group\u2019s goals.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is silent but observant, sharing a knowing glance with Zephyr when the latter is reluctant to open a secret door. She does not volunteer for tasks but is clearly part of the decision-making dynamic, implying shared burden and mutual understanding within the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "A small, recently active cult devoted to Lolth, the Spider Queen, was operating in the area. The cultists were human, worshiped via a spider idol, and had a hidden lair containing a bedroom with gnome-scale furniture and three bedrolls. Their leader was slain by Zephyr, and their presence suggests Lolth may be trapped or weakened, as her absence has been noted in local rumors.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Smoke and Dust Mephit",
+    "fact": "A solitary smoke and dust mephit inhabited a tower chamber, claiming the space as its kingdom. It offered non-aggression in exchange for entertainment. It was killed after Zephyr played a sea-and-rain song that induced a blood-curdling rage in mephits\u2014an unexpected and fatal misjudgment.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Cultists",
+    "fact": "Two cultists of Lolth attacked Zephyr in a laboratory. They were swiftly killed. Their bodies were found with bloodied clothing and signs of recent activity. A third, higher-ranking cultist was later slain by Zephyr in a hidden chamber.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spellbook",
+    "fact": "A spellbook recovered from the dead cultist\u2019s lair contained the following spells: feather fall, fog cloud, mage armor, magic missile, protection from good and evil, silent image, Tenser\u2019s floating disk, unseen servant, gust of wind, misty step, rope trick, fly, gaseous form, magic circle, and sleet storm. Spugnoir claims this as a 'virtual cornucopia' and intends to use it to enhance his capabilities.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Magical Dagger",
+    "fact": "A magical dagger was found among the loot from the cultist\u2019s laboratory. After debate, Zinnia was awarded the dagger by fair consensus. It is one of the few combat-oriented magical items secured by the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Scrolls",
+    "fact": "A set of scrolls was recovered from the cultist\u2019s lair, containing: fog, silent image, gust of wind, and misty step. These were identified by Spugnoir as valuable additions to his spell repertoire and contribute to his growing utility to the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potions",
+    "fact": "Two potions of gaseous form and one potion of healing were found in the cultist\u2019s laboratory. These were taken by the party and are currently in their possession for tactical use.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Cultist\u2019s Lair",
+    "fact": "A hidden lair beneath a tower, accessed via secret doors, containing a filthy, mended fountain with greenish stains, a small door leading to a bedroom with gnome-scale furniture (bed, dresser, chest, coal bin, stove), three bedrolls, and the remains of a dead cultist leader. The lair showed signs of recent habitation and ritual activity.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Tower",
+    "fact": "A single building, not a grand tower as promised, located near the Battle of Emiry Meadows. It contained a summoning circle marked on the floor, a mural, and a mephit-occupied chamber. It served as the entry point to the cultist\u2019s hidden lair.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laboratory",
+    "fact": "A room adjacent to the tower, containing an alchemy lab, a book of magical formulae, shelves of moldering books, a forge in the corner, and the bodies of two slain cultists. It held the potions, dagger, and spellbook recovered by the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "The party arrived in Hommlet after their exploration. Spugnoir and Zinia expressed excitement. The town is now their base of operations, and the party is considering whether to rest or investigate the workers' encampment near the fortress to trace who copied the map.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Lolth's Cult",
+    "fact": "The party uncovered evidence of a recently active cult of Lolth, including a spider idol, human worshippers, a hidden lair, and a slain leader. This suggests Lolth is either trapped or weakened, contradicting her known status as a dormant deity. The cult\u2019s presence indicates a resurgence or desperation in her followers.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mephit Encounter",
+    "fact": "Zephyr\u2019s attempt to entertain a smoke and dust mephit with a sea-and-rain song backfired, triggering a rage response that led to the mephit\u2019s death. The party learned that certain songs are lethally provocative to mephits\u2014an unexpected hazard in magical environments.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Acquisition of Spellbook and Scrolls",
+    "fact": "Spugnoir gained access to a rich collection of spells from a dead cultist\u2019s spellbook and scrolls, including misty step, rope trick, fly, and protection from good and evil. This significantly increased his magical utility to the party and altered his perceived value.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Who Copied the Map?",
+    "fact": "The party has identified the workers' encampment near the fortress as the best starting point to discover who copied their map. Zephyr is seeking advice from Zinnia, who offers none\u2014leaving the investigation unresolved and a key plot thread dangling.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lolth\u2019s Whereabouts",
+    "fact": "The cult\u2019s existence and the spider idol suggest Lolth is not dead but trapped or banished. Local rumors confirm her absence, and her followers are acting in desperation. The nature of her imprisonment and how it connects to the party\u2019s journey remains unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Mended Fountain",
+    "fact": "The fountain in the secret room was recently repaired and water is flowing again, despite its age and decay. Someone has been active in the lair recently. The identity and purpose of this individual are unknown, suggesting an ongoing presence beyond the slain cultists.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "arrival in Hommlet",
+    "fact": "The party arrived in Hommlet after their exploration of the tower and cultist lair. This marks the end of one phase of the journey and the beginning of the next, as they consider whether to rest or pursue the map-copying lead.",
+    "quote_verified": false
+  }
+]

@@ -57,7 +57,7 @@ Upon arrival, they visited the Inn of the Welcome Wench, met Spugnoir Balkof and
 
 # Chapter 02 Detailed Summary 
 
-### Date: Planting 15, 579 
+## Date: Planting 15, 579 
 
 Zinia, always the master spy, decided that they needed information. The best way to get it was to talk to folks in a Tavern looking for someone to buy them a drink. 
 
@@ -164,7 +164,7 @@ From there, Zinia heads to the Inn of the Welcome Wench, where he and his travel
 
 # Chapter 03 A Smile and a Stone
 
-### Date: Planting 16, 579 
+## Date: Planting 16, 579 
 
 Zephyr
 
@@ -192,7 +192,7 @@ Zephyr takes stock of Thorne or Duke. He is a rugged man in his late 30s with a 
 
 Zephyr says, “Well, since we are all here, let’s go outside and wait for the rest of the crew.” 
 
-##  Zinia
+### Zinia
 
 The masked one had been watching Zephyr and their two new companions, trying to see if anything was off. He noticed nothing. 
 
@@ -236,7 +236,7 @@ As Sequioa almost kills another frog, Zinia rushes to Calmer, pulls him out of t
 
 When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian’s skull. 
 
-## Sequoia
+### Sequoia
 
 “So you guys going to die before you even make it through the door,” shouts Thrune.   
 Sequoia groans and drags Calmer to the campsite. Calmer mutters, “I just need a few moments.” 
@@ -841,7 +841,7 @@ I was already bored and terrified when Jaroo, with a twinkle in his eye, said, "
 
 Sequoia looks at me and Jaroo and says, “Gotta go\!” 
 
-###  Zephyr
+### Zephyr
 
 I’ve seen the abyss. And let me assure you, the Abyss is not appreciably worse than that meeting. 
 
@@ -1283,9 +1283,9 @@ But then Zinnia notices a peculiar gleam in Lareth’s eyes, and Lareth shouts, 
 
 # Chapter 07 A deal with Lareth, a deal with Rufus, and Sheernob
 
-### Planting 20, 579 Midday
+## Planting 20, 579 Midday
 
-#### Zephyr
+### Zephyr
 
 As Zephyr watches Lareth intently, the leader of the moathouse turns to his sergeant, “I don’t think they need your help. They are professionals, after all.” 
 
@@ -1303,7 +1303,7 @@ It’s Sequoia who shouts what Zephyr is thinking, “Sorry.”
 
 “Any evidence of the cult?” 
 
-#### Sequoia
+### Sequoia
 
 Sequoia shrugs, “None.” 
 
@@ -1355,7 +1355,7 @@ Burne looks at Sequoia and says, “Brilliant. I admire your deviousness. I imag
 
 Rufus stops, “A chest? That is fascinating.” There is a pause. “The chest must be the gift. Every so often, the Viscounty has an art festival, and the purpose of the art festival is to craft some piece of art as a gift to the Kingdom of Celene. The purpose is to convince the Kingdom of Celene to begin diplomatic negotiations. The art is taken to the border and left there. ” 
 
-#### Zinnia 
+### Zinnia 
 
 The Masked One stares at Rufus and remembers something he had been told. The Viscounty creates this art, which is then dropped near the borders. The elves apparently will destroy any art they think is hideous, whereas any art they believe has potential they will leave behind. 
 
@@ -1371,9 +1371,9 @@ Rufus stares at him. Zinnia stares back.
 
 Burne picks up a fork, stares at it, points it at Zinnia, and says, “If you were to find the chest and the folks who stole it, that would be of great assistance. The official position, of course, is that the Elves accepted the Chest. But the chest reappearing would embarrass the Viscount.” 
 
-### Planting 21, 579 Morning
+## Planting 21, 579 Morning
 
-#### Zephyr  
+### Zephyr  
 
 The journey to Sheernobb, where the bandits were last seen, is uneventful. 
 
@@ -1402,7 +1402,7 @@ The guard seems comfortable with the answer.
 “If you have any questions or need to speak with someone in charge, you can find Headgnome Glennddarc at the Sheernobb Moothall. It’s the largest mound in the village; you can’t miss it.”  
 With that, the guards step aside, allowing Zephyr to continue his journey into Sheernobb. As he proceeds, the bustling activity of the village begins to unfold before him. Tiny burrow homes dot the hillsides, their doors intricately carved and inviting. Gnomes go about their daily routines, casting curious glances his way.
 
-#### Sequoia  
+### Sequoia  
 
 “Let’s go to the tavern.” 
 
@@ -1452,7 +1452,7 @@ He is a well-traveled gnome and looks the part of the bard.
 
 “My name is Gurdy. And I would be happy to play a song for you. If you had some coin to spare.” 
 
-#### Zephyr 
+### Zephyr 
 
 Zephyr stares at the bard and realizes he is not leaving this inn without paying through the nose. “I like music, " he says, tossing some coin.
 
@@ -1514,9 +1514,9 @@ Calmer is about to drink another glass full of mead, but Zephyr notices that the
 
 # Chapter 08 Investigations, and quests in Sheernob. 
 
-### Planting 21, 579 Early Afternoon
+## Planting 21, 579 Early Afternoon
 
-#### Zephyr 
+### Zephyr 
 
 Well, that was expensive\!
 
@@ -1541,9 +1541,9 @@ The quaint exterior belies the wealth of knowledge contained within.
 
 This dimly-lit bookshop has been constructed to the owner's specifications, and the owner wants to read books when not helping customers. Behind the counter, a plush chair with a clever reclining mechanism lets them put their feet on an equally plush stool. Over the counter, two glass bulbs, tinted green to reduce eye strain, hold burning candles, perfectly positioned for comfortable reading. And there are books beyond counting, books crammed in every available shelf, and books stacked on tables and trolleys. Hundreds of books, maps, and scrolls fill solid oak shelves. Behind a desk-sized for a human, perched on a massive cushion-covered chair, sits the gnome Grindin Well-Read. 
 
-### Planting 21, 579 Early Afternoon 
+## Planting 21, 579 Early Afternoon 
 
-#### Zinnia \- 
+### Zinnia \- 
 
 “Bookstore owners either have a lot of information or none.” 
 
@@ -1571,7 +1571,7 @@ A book could be purchased later. Any knowledge we can acquire about the elementa
 
 Early Afternoon Planting 21, 579
 
-#### Sequoia 
+### Sequoia 
 
 The halfling leaves the bookstore and urges the group to go to the Moot Hall. “The mayor may have more information and a bigger reward.” 
 
@@ -1600,9 +1600,9 @@ Sequoia doesn’t have a chance to protest, as the headgnome is sleeping again.
 
 “Let’s go.” 
 
-###  Planting 21, 579 Late Afternoon 
+## Planting 21, 579 Late Afternoon 
 
-#### Zephyr 
+### Zephyr 
 
  A quarter mile southeast of Sheernobb, Zephyr and his fellow travelers arrive at Pasmarie’s Beehives. Verdant fields and wildflowers surround the farm. The hives are neatly arranged in rows, with the buzzing of bees creating a harmonious backdrop. The area is well-maintained, with paths leading to each hive and small benches for visitors to observe the bees at work.
 
@@ -1635,9 +1635,9 @@ Zephyr shows her the map he purchased, and she marks it.
 
 “We’ll find those bandits and save the honor of your bees\!” 
 
-### Planting 22, 579
+## Planting 22, 579
 
-#### Zephyr
+### Zephyr
 
 *A good night’s rest and a good breakfast are just what the doctor ordered.* 
 
@@ -1687,7 +1687,7 @@ At first, she snarls and threatens to eat them all. But when she realizes that p
 
 But Zephyr will have none of that and kills her. 
 
-#### Zinnia 
+### Zinnia 
 
 I have wanted to kill a hag since I heard the stories from my mother about hags that ate little children. 
 
@@ -1753,9 +1753,9 @@ Zinnia watches as the Dryad contemplates what Zephyr said and declares, “Well,
 
 # Chapter 09 The Black Earth Cult?
 
-### Planting 22, 579 
+## Planting 22, 579 
 
-#### Zinnia
+### Zinnia
 
 With the barrel over my shoulder I arrive at the Honey Tavern Inn. It’s after the dinner rush and only those who want to socialize or drink are left. 
 
@@ -1773,9 +1773,9 @@ He realizes his mistake, “No, I didn’t mean it that way. The magic in the me
 
 I thank him. 
 
-###  Planting 23, 579 
+## Planting 23, 579 
 
-#### Sequioa
+### Sequioa
 
 Quinna Poul comes rushing out of the kitchen as I saunter into the first floor dining area. 
 
@@ -1791,7 +1791,7 @@ It’s just bouncin, bouncin, bouncin on down the road, and it goes into the apo
 
 It's funny, you know? One minute we’re facing down bandits and cultists, the next we’re chasing rogue vegetables. It’s just the life, I guess. Never a dull moment.
 
-#### Zephyr
+### Zephyr
 
 “Bouncing potatoes,” I shout to Seqoia and run after them. 
 
@@ -1821,7 +1821,7 @@ This might be the clue and evidence we need. It certainly is who Lareth wants us
 
 I look at Zinnia, and although he is inscrutable, even his eyes reveal a momentary flash of pleasure. 
 
-#### Sequoia
+### Sequoia
 
 The wagon is precisely where she said. The site is littered with overturned wagons, broken barrels, and scattered honey jars. 
 
@@ -1849,7 +1849,7 @@ I whisper, “These are the guys.”
 
 Inside the walls is a temple to some god, a weird stone statue, as well the barrels that we are looking for. 
 
-#### Zephyr
+### Zephyr
 
 Right, okay. The frontal assault won’t work. So our plan is to send Calmer in while we climb over the wall and attack from the rear.  We've just gotten over the wall, me, Zenia, and Zephyr. Meanwhile, Calmer tries to bluff these bandits–or whatever they are–about being lost, but it’s backfiring something fierce. This Thalsor of the Stone fellow, some kind of druid, starts shouting about the earth mother and how we're trampling on sacred ground. He’s not buying what Calmer’s selling.
 
@@ -1877,9 +1877,9 @@ Sequoia’s still hacking away at Thalsor, getting some good hits in. I’m help
 
 # Chapter 10 A deadly battle
 
-### Planting 23, 579
+## Planting 23, 579
 
-#### Zephyr
+### Zephyr
 
 Shit. Shit. Shit. 
 
@@ -1895,7 +1895,7 @@ Shit.
 
 Shit. 
 
-#### Zinnia
+### Zinnia
 
 The operation was a disaster. Our initial attack was successful, as we overwhelmed with speed and stealth the enemy. 
 
@@ -1909,7 +1909,7 @@ The bastard will mutilate the body, making it impossible to raise him from the d
 
 But more importantly \- “If we let him live, our identities will be exposed to the cult. Someone will connect us to the village elders. Thalsor needs to die.” 
 
-#### Sequoia
+### Sequoia
 
 “We have to save Calmer.” 
 
@@ -1923,7 +1923,7 @@ Zephyr shouts, “We’ll negotiate tomorrow, Thalsor.”
 
 Thalsor screams his plans to kill and mutilate and destroy and promises the retribution of earth and evil, but he’s not coming out of his compound. He’s wounded too. And he doesn’t want to die. 
 
-### Planting 24, 579
+## Planting 24, 579
 
 All night Thalsor has described in detail what he intends to do the body if we don’t show up in the morning. 
 
@@ -1939,7 +1939,7 @@ Zephyr will take a position where he can attack with bows.
 
 Zinnia will take advantage of the chaos to strike. 
 
-#### Zinnia
+### Zinnia
 
 Thalsor stands in the middle of the yard screaming and promising all sorts of despicable acts against Calmer if we don’t show up. 
 
@@ -2106,7 +2106,7 @@ The session concluded with the local leadership of the Temple operation in **Hom
 
 The session began in the aftermath of the intense battle in **Hommlet**, with **Gremag** slain and **Zinnia** unconscious, requiring a death save. **Zinnia** successfully stabilized, rolling a 16 on her save, securing her survival.
 
-### **The Double Kill and the Cleanup**
+## **The Double Kill and the Cleanup**
 
 **Zephyr** opened the action, attempting to finish off **Rannos**, who was already severely wounded. While **Zephyr** landed a hit, it was **Calmer** who, for the second time this session, struck the killing blow using his Spiritual Weapon, dispatching **Rannos** (who was down to 2 hit points) with a dramatic flourish. **Calmer** then rushed to **Zinnia** and cast *Cure Light Wounds*, healing her for 24 points.
 
@@ -2114,7 +2114,7 @@ With both **Rannos** and **Gremag** dead, the party consulted the captured merce
 
 **Thorne** revealed his "cleaning" skills and offered his services to the party on a retainer basis (20 gold pieces per month plus 100 gold pieces per incident). The party agreed to pay him 100 gold pieces for this first cleanup and untied him. **Thorne** confirmed his cynical, money-driven nature and his lack of loyalty to the cult.
 
-### **Treasure and Misdirection**
+## **Treasure and Misdirection**
 
 The party searched the corpses and quarters, finding valuable treasure:
 
@@ -2127,7 +2127,7 @@ The party searched the corpses and quarters, finding valuable treasure:
 
 **Thorne** executed his cleanup, then instructed **Zinnia** and **Calmer** to take the victims' bloodied clothes and ride out of town to abandon them, simulating a struggle. **Zephyr** and **Sequoia** were told to return to the Inn of the Welcome Wench and spread the story that **Rannos** and **Gremag** had urgently left town after securing a magical chest.
 
-### **Elmo's Revelation and Verbobonc's Play**
+## **Elmo's Revelation and Verbobonc's Play**
 
 The party returned to the Inn of the Welcome Wench. **Calmer**, despite being inwardly shaken by the bloodshed, was reassured by **Zinnia**’s stoic presence. The tavern keeper, **Ostler Goodingoat**, questioned the party about the sudden departure of the merchants, and they successfully bluffed him with the story of the magical chest leaving town.
 
@@ -2135,7 +2135,7 @@ They were then joined by **Elmo**, a member of the town committee who often acte
 
 **Elmo** confirmed he was an agent for **Verbobonc** and was dismayed that the chest had supposedly left with **Rannos** and **Gremag**. He rushed off to contact the rangers to pursue the missing chest. Before leaving, he gave the party an urgent task: return to the **Moathouse** immediately to **"investigate what's going on and destroy whatever evil presence is there"**, concerned that the cultists, now possessing the chest, might enact unknown rituals. He emphasized the political sensitivity—**Verbobonc** could not send troops without risking conflict with the gnomes of the **Kron Hills**.
 
-### **Confrontation with Lareth the Beautiful**
+## **Confrontation with Lareth the Beautiful**
 
 The following morning, **Burne** and **Rufus** approached the party, confirming **Elmo** (now referred to simply as "Elmo") had sent the rangers after the missing chest. They, too, urged the party to deal with the **Moathouse**. The party decided to go directly to **Lareth the Beautiful**'s headquarters to confront him.
 
@@ -2147,7 +2147,7 @@ However, **Lareth** was extremely paranoid. Despite the party succeeding on thei
 
 The session resumed with the party positioned in **Lareth the Beautiful**'s inner sanctum in the **Moathouse**, moments after having executed their elaborate misdirection in **Hommlet** following the deaths of **Rannos** and **Gremag**. **Lareth** was furious, having seen through the party's lies that the **Deep Temple** stole the **Chest of Rao**. The room was a tense trap, with **Lareth** and his guards surrounding the adventurers.
 
-### **The Duel with Lareth**
+## **The Duel with Lareth**
 
 The fight began with **Zephyr** using a dose of **Dust of Disappearance** to become invisible, retreating to a corner to position himself for a later sneak attack. **Zinnia** and **Sequoia** immediately engaged the visible guards, quickly dispatching several of **Lareth**'s goons and carving a path through the room.
 
@@ -2155,7 +2155,7 @@ The fight began with **Zephyr** using a dose of **Dust of Disappearance** to bec
 
 The combat continued in brutal close quarters. **Sequoia** and **Zinnia** traded blows with **Lareth** and the remaining guards, while **Calmer** focused on healing himself under the relentless assault of **Lareth**'s sergeant, Sarge. **Lareth** used his magic to paralyze both **Zephyr** and **Zinnia** with *Hold Person*, immobilizing the two primary damage dealers. However, **Lareth** was down to a single hit point. Seeing his opportunity, **Sequoia**, who was not paralyzed, struck the killing blow, felling **Lareth the Beautiful** and ending the reign of the Fire Temple leader in the **Moathouse**.
 
-### **Loot and Level Up**
+## **Loot and Level Up**
 
 With **Lareth** dead, the remaining guards and Sarge were quickly dispatched. The party had successfully cleared out the Moathouse operation. They immediately looted **Lareth**'s body and quarters, finding substantial treasure:
 
@@ -2164,7 +2164,7 @@ With **Lareth** dead, the remaining guards and Sarge were quickly dispatched. Th
 
 Critically, following this major victory, all four adventurers **gained a level**, increasing their power and acquiring new abilities, such as **Sequoia**'s Uncanny Dodge.
 
-### **Clearing the Moathouse and the Call to Nulb**
+## **Clearing the Moathouse and the Call to Nulb**
 
 The party contacted **Thorne (Duke)**, agreeing to pay him a 50 GP fee for the clean-up job. To ensure the area was safe for **Thorne** to work, they explored the remaining Moathouse dungeon.
 

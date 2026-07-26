@@ -1,0 +1,366 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tharok",
+    "fact": "Tharok is the High Cultist standing before the altar in the ritual chamber, his skin mottled like cracked stone and eyes burning with fervent intensity, commanding three kneeling cultists and channeling elemental magic to complete a ritual tied to the Chest of Rao.",
+    "source_quote": "Tharok declared the intruders defilers of his sacred ritual and threatened that the earth itself would swallow them whole.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jerry",
+    "fact": "Jerry is a soldier of Verbabonc, imprisoned alongside Warda, who revealed knowledge of a secret passageway to the deeper temple passed down from his grandmother, and who charged bravely toward Tharok only to be struck down by elemental fury.",
+    "source_quote": "Jerry revealed crucial information about a secret passageway to the deeper temple, knowledge passed down from his grandmother who had once worshipped Beory in these halls.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Warda",
+    "fact": "Warda is a gnome nationalist imprisoned with Jerry, who opposed what she saw as Verbabonc\u2019s imperial expansion, and who continued fighting against Tharok despite witnessing Jerry\u2019s death, her hatred for imperial forces now focused on the cultist threat.",
+    "source_quote": "Warda continued fighting despite witnessing Jerry\u2019s death, her hatred for imperial forces now focused on the cultist threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a divine caster who blessed the party with divine magic to aid their efforts, but struggled to maintain his footing and his blessing as Tharok\u2019s earthquake disrupted the ritual chamber.",
+    "source_quote": "Calmer blessed the party with divine magic to aid their efforts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a combatant who pressed the attack with relentless strikes against Tharok, contributing to the party\u2019s effort to stop the ritual before its completion.",
+    "source_quote": "Zinnia pressed the attack with relentless strikes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a combatant who recognized that disrupting the ritual might weaken Tharok, rushed to the altar, and knocked the Chest of Rao from its resting place, causing the magical energies to dissipate.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy and rushed to the altar, knocking the Chest of Rao from its resting place.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a combatant who landed a critical blow against Tharok and was struck backward by a devastating elemental attack, but remained engaged in the battle despite being thrown off balance.",
+    "source_quote": "Zephyr struck with deadly precision, landing a critical blow against the high cultist.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Tharok's Stone Guardian",
+    "fact": "Tharok's Stone Guardian is an ancient construct encountered in the library, presenting a riddle about the eternal cycles of nature and becoming inanimate after Zephyr correctly identified the water cycle as the answer.",
+    "source_quote": "The guardian presented them with a riddle about the eternal cycles of nature, testing their understanding of Beory\u2019s old faith.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Cultist Guards",
+    "fact": "Cultist Guards are three robed cultists kneeling in reverence around Tharok, their whispered invocations weaving into the elemental hum, and were swiftly dispatched by Zinnia, Sequioa, and Zephyr.",
+    "source_quote": "Three robed cultists knelt around him in reverence, their whispered invocations weaving into the elemental hum that filled the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Temple Cultists",
+    "fact": "Earth Temple Cultists are a faction of cultists wearing brown robes marked with triangle symbols, who overheard Tharok\u2019s impending ritual and were silently eliminated by Sequioa and Zephyr.",
+    "source_quote": "The cultists wore brown robes marked with triangle symbols, indicating their allegiance to the earth temple faction.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is the overarching criminal organization pulling the strings behind all elemental temple factions, including Lareth\u2019s fire temple and the earth temple cultists aligned with Tharok.",
+    "source_quote": "All these factions ultimately answered to the Temple of Elemental Evil, the overarching criminal organization pulling the strings.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple Faction",
+    "fact": "The Earth Temple Faction is a subgroup under the Temple of Elemental Evil, led by Tharok, whose cultists wear brown robes with triangle symbols and are focused on ritualistic earth magic tied to the Chest of Rao.",
+    "source_quote": "The cultists wore brown robes marked with triangle symbols, indicating their allegiance to the earth temple faction.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Verbabonc",
+    "fact": "Verbabonc is a political power that constructed a strategic castle in Hommlet as force projection, viewed by the gnomes as imperialism, and whose soldier Jerry was imprisoned for opposing the cultists.",
+    "source_quote": "Verbabonc\u2019s construction of a strategic castle in Hommlet served as force projection, much like a medieval aircraft carrier, allowing them to control the valley roads and threaten gnomish territory.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gnome Nationalists",
+    "fact": "Gnome Nationalists are a resistance group opposing Verbabonc\u2019s territorial expansion, represented by Warda, who was imprisoned for her nationalist views and now fights the cultists as an extension of her resistance.",
+    "source_quote": "Warda, a gnome nationalist, were engaged in heated political arguments even while imprisoned... opposing what she saw as imperial expansion.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ritual Chamber",
+    "fact": "The Ritual Chamber is a vast, ancient space within the monastery, carved with intricate elemental motifs, towering pillars like colossal trees, and a massive cracked altar at the center where the Chest of Rao rests, radiating protective magic and creeping corruption.",
+    "source_quote": "They emerged into a vast ritual chamber that took their breath away \u2014 ancient stone carved with intricate elemental motifs, towering pillars like colossal trees, and a massive cracked altar at the center.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ancient Library",
+    "fact": "The Ancient Library is a chamber within the abandoned monastery where Brother Eldrin\u2019s stone guardian presented a riddle about the eternal cycles of nature and became inanimate after Zephyr solved it.",
+    "source_quote": "The party encountered Brother Eldrin\u2019s stone guardian in an ancient library.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Prison Chamber",
+    "fact": "The Prison Chamber is a locked room where Jerry and Warda were held for torture, unlocked by a key found among dead cultists, and where they continued their political arguments despite their captivity.",
+    "source_quote": "The key unlocked a prison chamber where two captives were being held for torture.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The Chest of Rao is a powerful magical battery capable of fueling devastating rituals, resting upon the altar in the ritual chamber, radiating both protective magic and creeping corruption, and was knocked from its place by Sequioa to disrupt the ritual.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption, while arcane symbols floated above it in eerie greenish-gold light.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Scimitars",
+    "fact": "Scimitars are weapons taken from fallen cultists and used by the party in combat against Tharok and his followers.",
+    "source_quote": "Armed with scimitars taken from the fallen cultists, the group followed the secret passage to the heart of the monastery.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Key",
+    "fact": "The Key is a physical object found among the possessions of slain cultists, used to unlock the prison chamber holding Jerry and Warda.",
+    "source_quote": "Sequioa and Zephyr eliminated the guards silently, finding a key among their possessions.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Disruption of Tharok's Ritual",
+    "fact": "The disruption of Tharok's Ritual occurred when Sequioa knocked the Chest of Rao from its altar, causing the magical energies of the chamber to dissipate and weakening the high cultist\u2019s power.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Death of Jerry",
+    "fact": "The death of Jerry occurred when he charged toward Tharok and was struck down by devastating elemental attacks, his body crumpling under the elemental fury.",
+    "source_quote": "Jerry charged bravely toward the high cultist but was struck down by Tharok\u2019s devastating attacks, his body crumpling under the elemental fury.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Earthquake in Ritual Chamber",
+    "fact": "The earthquake in the Ritual Chamber was triggered by Tharok\u2019s earth magic, causing the chamber to quake violently, dust and stones cascading from the ceiling, and disrupting Calmer\u2019s blessing.",
+    "source_quote": "Tharok\u2019s earth magic caused the entire chamber to quake violently, dust and stones cascading from the ceiling as tremors knocked several party members to the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Outcome of Tharok's Defeat",
+    "fact": "The outcome of Tharok's Defeat remains unresolved as the session concluded with the high cultist still standing, bloodied and battered, his elemental magic still making the chamber tremble, and the party\u2019s success uncertain.",
+    "source_quote": "Though bloodied and battered, the high cultist remained standing as the session concluded, the outcome of this crucial confrontation still hanging in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The session ended with the battle against Tharok unresolved, the Chest of Rao displaced, Jerry dead, and the ritual partially disrupted but not fully stopped.",
+    "source_quote": "Though bloodied and battered, the high cultist remained standing as the session concluded, the outcome of this crucial confrontation still hanging in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "High Cultist Tharok",
+    "fact": "High Cultist Tharok was the leader of the ritual cult beneath the Earth Temple, disrupted by the party and ultimately slain after a fierce battle. His death triggered the collapse of the ritual chamber.",
+    "source_quote": "Tharok lashed out, striking Warda with a devastating blow that dealt 29 damage, though his subsequent attacks missed their mark.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Warda",
+    "fact": "Warda, a gnome nationalist, initiated the party\u2019s assault on Tharok with two missed strikes before landing a successful hit. She was later struck with a devastating 29-damage blow from Tharok.",
+    "source_quote": "The gnome nationalist Warda opened the round, landing a single strike against the cultist after two initial misses.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr delivered a powerful Sneak Attack against Tharok, contributing significantly to his downfall. Later, Zephyr led the assault on Thorne and Rannos, landing multiple hits in combat.",
+    "source_quote": "Zephyr followed, landing a strong blow bolstered by a Sneak Attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer cast *Guiding Bolt* against Tharok, dealing 9 damage and granting Zinnia advantage. Later, Calmer purchased gnomish mead at the Inn of the Welcome Wench and delivered a critical blow that killed Gremag.",
+    "source_quote": "Calmer targeted the high cultist with a *Guiding Bolt*, dealing 9 damage and granting Zinnia advantage on her next strike.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia capitalized on Calmer\u2019s *Guiding Bolt* to land a flurry of attacks, felling Tharok. Later, she was targeted by Gremag, severely wounded, and knocked unconscious.",
+    "source_quote": "Zinnia capitalized on the opportunity, launching a flurry of attacks that struck true, dealing a total of 14 points of damage and finally felling the formidable High Cultist Tharok.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia delivered the final blow against Thorne, knocking him unconscious, and later landed a massive 26-point critical strike against Rannos, nearly killing him.",
+    "source_quote": "Sequoia delivered the final strike, knocking Thorne unconscious.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Eldin",
+    "fact": "Brother Eldin, a wounded but alive abbey brother, rewarded the party with wealth and magic items and delivered crucial lore about the Chest of Rao, warning them of its dangers and divine significance.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne (Duke)",
+    "fact": "Thorne was a hired man-at-arms employed by Rannos. He was ambushed, knocked unconscious, and interrogated, revealing he was a disposable pawn who feared the cult more than his employer.",
+    "source_quote": "Interrogating the mercenary, they confirmed he was a simple hired hand who would rather be left for dead than face the wrath of the cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rannos",
+    "fact": "Rannos was the Temple\u2019s local agent in Hommlet, suspicious and defiant. He refused the party\u2019s meeting request, demanded the Chest of Rao, mocked negotiations, and was nearly killed by Sequoia\u2019s final strike.",
+    "source_quote": "Rannos immediately dismissed Thorne as useless and demanded the Chest of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gremag",
+    "fact": "Gremag was Rannos\u2019s bodyguard and a ruthless Temple operative. He initiated combat against Zinnia, severely wounded her, and was killed by Calmer\u2019s critical hit.",
+    "source_quote": "Gremag immediately initiated combat, attacking Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil operated through agents Rannos and Gremag in Hommlet, using them to control trade and suppress dissent. Their leadership was eliminated by the party.",
+    "source_quote": "They knew were working for the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Archclericy of Veluna",
+    "fact": "The Archclericy of Veluna is the lawful good religious authority that seeks to reclaim the Chest of Rao from those who would misuse it, as warned by Brother Eldin.",
+    "source_quote": "The chest... would attract... the forces of good who would reclaim it for the Archclericy of Veluna.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Abbey of Beory",
+    "fact": "The Abbey of Beory is the neutral religious institution that sheltered the party, rewarded them for eliminating Tharok, and entrusted them with the lore of Rao.",
+    "source_quote": "They found Brother Eldin, who was alive but wounded. He declared the Abbey of Beory safe once more.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "collapse of the Earth Temple ritual chamber",
+    "fact": "The death of High Cultist Tharok triggered the violent collapse of the ritual chamber beneath the Earth Temple, forcing the party to flee immediately.",
+    "source_quote": "With Tharok dead, the entire cavern began to violently collapse, forcing the party to make a swift exit.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "assassination of Thorne",
+    "fact": "The party ambushed and subdued Thorne in a surprise attack, confirming his status as a low-level mercenary with no loyalty to the cult.",
+    "source_quote": "They instantly launched a surprise attack, quickly overwhelming the mercenary.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "destruction of Hommlet Temple leadership",
+    "fact": "The party eliminated the Temple\u2019s operational leadership in Hommlet by killing Gremag and nearly killing Rannos, effectively dismantling their local cell.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The Chest of Rao is a powerful artifact of great good, built by Rao\u2019s high priests to promote peace and harmony. It is dangerously magnetic, attracting both those who would weaponize it and those who would reclaim it for the Archclericy of Veluna.",
+    "source_quote": "He explained that Rao is the patron of peace and harmony, and the chest is an artifact of great good built by the high priests of Rao.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Scroll of Web",
+    "fact": "A magic item awarded to the party by Brother Eldin as a reward for eliminating Tharok.",
+    "source_quote": "He offered the adventurers a reward... A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Greater Healing",
+    "fact": "A magic item awarded to the party by Brother Eldin as a reward for eliminating Tharok.",
+    "source_quote": "He offered the adventurers a reward... A Scroll of Web and a Potion of Greater Healing.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple ritual chamber",
+    "fact": "A hidden ritual chamber beneath the abandoned monastery near Gallow's Corner, where High Cultist Tharok performed his rites before being slain and triggering the chamber\u2019s collapse.",
+    "source_quote": "The session began in a state of high tension and immediate action within the Earth Temple's ritual chamber, located deep beneath the abandoned monastery near Gallow's Corner.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Abbey of Beory",
+    "fact": "The neutral religious sanctuary where the party returned after defeating Tharok, received their reward, and learned the lore of the Chest of Rao.",
+    "source_quote": "The party arrived safely back in the main abbey, where the damage seemed miraculously contained to the ritual cavern.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The inn where the party waited and planned before confronting Rannos and Gremag. Calmer purchased expensive gnomish mead here.",
+    "source_quote": "The party retreated to the Inn of the Welcome Wench to wait and plan, where Calmer purchased an expensive gnomish mead.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Carpenter's field",
+    "fact": "The originally proposed meeting location behind which the party planned to confront Rannos\u2019s agents. Rannos refused this location.",
+    "source_quote": "They planned to eliminate the traders Rannos and Gremag... requesting a meeting behind the carpenter's field.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Rannos\u2019s establishment",
+    "fact": "The shop where Rannos and Gremag operated from in Hommlet. It was the site of the final confrontation where Thorne was killed and Rannos nearly slain.",
+    "source_quote": "Rannos... invited them to meet at his establishment after dark.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "fate of the Chest of Rao",
+    "fact": "The party now possesses the Chest of Rao, a divine artifact of great good that will attract powerful enemies and allies alike. Their decision to use it as leverage in Hommlet has set a dangerous course.",
+    "source_quote": "Despite the warnings, the party chose to use the Chest of Rao as powerful leverage in their ongoing conflict with the Temple's agents in Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Rannos\u2019s survival",
+    "fact": "Rannos was left severely wounded after the confrontation. His fate is uncertain, and his possible recovery or retaliation could reignite conflict with the Temple.",
+    "source_quote": "The session concluded... Rannos severely wounded, leaving the Chest of Rao in the hands of the victorious adventurers.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The session concluded after the elimination of Gremag and the near-death of Rannos, with the Chest of Rao secured by the party and the Temple\u2019s Hommlet cell destroyed.",
+    "source_quote": "The session concluded with the local leadership of the Temple operation in Hommlet annihilated: Gremag dead and Rannos severely wounded...",
+    "quote_verified": false
+  }
+]

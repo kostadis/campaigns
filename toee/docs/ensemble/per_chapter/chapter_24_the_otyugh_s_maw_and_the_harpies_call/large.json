@@ -1,0 +1,492 @@
+[
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "Dren and his Broken Blades mercenaries settled into newly claimed territory within the Earth Temple.",
+    "source_quote": "Dren and his Broken Blades mercenaries settling into their newly claimed territory within the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag suggests expansion",
+    "fact": "Romag suggested the party explore and clear areas to the south and east to expand his power base.",
+    "source_quote": "Romag, pleased with the party's previous successes, suggested they continue their expansion by exploring and clearing the areas to the south and east.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "old wine cellar",
+    "fact": "The party entered an old wine cellar filled with stale reek of spilled beer, wine, and ale.",
+    "source_quote": "their exploration led them through a passageway to an old wine cellar, where the stale reek of spilled beer, wine, and ale hung heavy in the air.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "old wine cellar",
+    "fact": "The floor of the old wine cellar was covered with dark residue and broken barrels, casks, and kegs.",
+    "source_quote": "The floor was covered with dark residue, and broken barrels, casks, and kegs lay strewn everywhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "small intact barrel",
+    "fact": "The party found one small intact barrel among the debris in the old wine cellar.",
+    "source_quote": "Among the debris, they discovered one small intact barrel.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "tasting poisoned wine",
+    "fact": "A party member smelled the contents of the small barrel, took a sip, and barely avoided poisoning.",
+    "source_quote": "When one of the party members smelled its contents and took a sip, they immediately regretted it, barely managing to spit out the disgusting liquid and avoid being poisoned.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "dry heaving after poisoning",
+    "fact": "The party member who tasted the liquid dry heaved for several minutes afterward.",
+    "source_quote": "though they dry heaved for several minutes afterward.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "disused storage chamber",
+    "fact": "The party found an adjacent storage chamber that had long fallen into disuse.",
+    "source_quote": "Moving on, they found an adjacent storage chamber that had long fallen into disuse.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "disused storage chamber",
+    "fact": "The disused storage chamber contained sacks of moldering grain and barrels of rotting flour.",
+    "source_quote": "Sacks of moldering grain and barrels of rotting flour sat among heaps of broken containers and spilled contents in a jumbled mess.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "prison chamber",
+    "fact": "The party discovered a door secured with a lock and a padlock holding a chain, leading to a filthy prison chamber.",
+    "source_quote": "They came upon a door secured with both a lock and a padlock holding a chain in place. Sequioa skillfully picked the lock, and the door swung open to reveal a filthy prison chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "prison chamber",
+    "fact": "The prison chamber contained seven prisoners\u2014two females and five males\u2014all scantily clad and impoverished.",
+    "source_quote": "Inside, they found seven prisoners\u2014two females and five males\u2014all scantily clad, impoverished, and clearly suffering.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoners chained",
+    "fact": "The five male prisoners were chained to the wall in the prison chamber.",
+    "source_quote": "The males were chained to the wall, and all of them looked terrified upon seeing the party's Earth Temple insignia.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jorin Pike Kale",
+    "fact": "Jorin Pike Kale was imprisoned by Dick Rentsch's men for making a pass at a woman named Dalia.",
+    "source_quote": "one stood out\u2014Jorin Pike Kale, a river sailor who had been imprisoned by Dick Rentsch's men as punishment for making a pass at a woman named Dalia.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Master Aldous Glimmerfield",
+    "fact": "Master Aldous Glimmerfield was among the prisoners in the chamber.",
+    "source_quote": "Among the captives were Master Aldous Glimmerfield and Mistress Lenora Glimmerfield, textile merchants from Divers, along with their household staff and four farm boys turned mercenaries\u2014Kalen, Brask, Horgus, and Davine\u2014who had surrendered almost immediately when captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mistress Lenora Glimmerfield",
+    "fact": "Mistress Lenora Glimmerfield was among the prisoners in the chamber.",
+    "source_quote": "Among the captives were Master Aldous Glimmerfield and Mistress Lenora Glimmerfield, textile merchants from Divers, along with their household staff and four farm boys turned mercenaries\u2014Kalen, Brask, Horgus, and Davine\u2014who had surrendered almost immediately when captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalen",
+    "fact": "Kalen was one of the four farm boys turned mercenaries imprisoned in the chamber.",
+    "source_quote": "Among the captives were Master Aldous Glimmerfield and Mistress Lenora Glimmerfield, textile merchants from Divers, along with their household staff and four farm boys turned mercenaries\u2014Kalen, Brask, Horgus, and Davine\u2014who had surrendered almost immediately when captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brask",
+    "fact": "Brask was one of the four farm boys turned mercenaries imprisoned in the chamber.",
+    "source_quote": "Among the captives were Master Aldous Glimmerfield and Mistress Lenora Glimmerfield, textile merchants from Divers, along with their household staff and four farm boys turned mercenaries\u2014Kalen, Brask, Horgus, and Davine\u2014who had surrendered almost immediately when captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Horgus",
+    "fact": "Horgus was one of the four farm boys turned mercenaries imprisoned in the chamber.",
+    "source_quote": "Among the captives were Master Aldous Glimmerfield and Mistress Lenora Glimmerfield, textile merchants from Divers, along with their household staff and four farm boys turned mercenaries\u2014Kalen, Brask, Horgus, and Davine\u2014who had surrendered almost immediately when captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Davine",
+    "fact": "Davine was one of the four farm boys turned mercenaries imprisoned in the chamber.",
+    "source_quote": "Among the captives were Master Aldous Glimmerfield and Mistress Lenora Glimmerfield, textile merchants from Divers, along with their household staff and four farm boys turned mercenaries\u2014Kalen, Brask, Horgus, and Davine\u2014who had surrendered almost immediately when captured.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoners reveal use as food or sacrifice",
+    "fact": "The prisoners revealed that Romag used them to feed his gnolls or as sacrifices to the Earth Temple.",
+    "source_quote": "They revealed the grim truth that Romag used them either to feed his gnolls or as sacrifices to the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "plan to frame Fire Temple",
+    "fact": "The party devised a plan to frame the Fire Temple for the prisoners' escape using insignia and robes from Larith the Beautiful.",
+    "source_quote": "They devised a clever plan to frame the Fire Temple for the escape, using insignia and robes they had previously collected from Larith the Beautiful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer stands guard",
+    "fact": "Calmer stood guard at the door of the prison chamber while the others freed the prisoners.",
+    "source_quote": "They decided to have Calmer stand guard at the door while the others freed the prisoners and scattered Fire Temple materials throughout the chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa unlocks prisoner chains",
+    "fact": "Sequioa unlocked the prisoners' chains in the prison chamber.",
+    "source_quote": "Sequioa unlocked the prisoners' chains while the others kept watch.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr discovers escape stairway",
+    "fact": "Zephyr discovered a stairway leading up to an escape route from the prison chamber.",
+    "source_quote": "Zephyr then explored further and discovered a stairway leading up to an escape route.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "prisoners freed",
+    "fact": "The party guided the seven prisoners to freedom through the escape route.",
+    "source_quote": "The party guided the grateful prisoners to freedom.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Jorin Pike Kale thanks party",
+    "fact": "Jorin Pike Kale thanked the party profusely after being freed.",
+    "source_quote": "Jorin Pike Kale thanked them profusely.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jorin shares pirate ship info",
+    "fact": "Jorin Pike Kale shared information about Captain Tolubb's pirate ship schedule at the docks in Nulb.",
+    "source_quote": "In gratitude, he shared valuable information about Captain Tolubb's pirate ship schedule at the docks in Nulb.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Glimmerfields promise reward",
+    "fact": "The Glimmerfields promised a reward of one hundred silver pieces for their rescue.",
+    "source_quote": "The Glimmerfields promised a reward of one hundred silver pieces for their rescue.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party delays reporting escape",
+    "fact": "The party decided to continue exploring before reporting the prisoner escape to Romag.",
+    "source_quote": "The party decided to continue exploring before reporting the prisoner escape to Romag, hoping to give the freed captives a significant head start.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "empty armories",
+    "fact": "The party discovered several empty armories filled with wooden racks, broken weapons, sundered shields, ruined mail, and scattered skeletons.",
+    "source_quote": "They discovered several empty armories filled with wooden racks, broken weapons, sundered shields, ruined mail, and scattered skeletons of both humans and gnolls.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "empty armories",
+    "fact": "Cobwebs hung in the corners of the empty armories, indicating they hadn't been visited frequently.",
+    "source_quote": "Cobwebs hung in the corners, suggesting these areas hadn't been visited frequently.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "five magical arrows",
+    "fact": "The party found five magical arrows that still retained their enchantment in one armory.",
+    "source_quote": "In one armory, they found five magical arrows that still retained their enchantment.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag's poor dungeon management",
+    "fact": "The party realized Romag had left large chunks of the dungeon empty and unused.",
+    "source_quote": "As they explored, they began to realize that Romag, for all his bluster and ambition, had left large chunks of the dungeon empty and unused\u2014a sign of either poor management or insufficient resources.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "passage to second level",
+    "fact": "The party found a passageway descending to the second level of the dungeon.",
+    "source_quote": "Their exploration led them to a passageway that descended to the second level of the dungeon.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "passage to second level",
+    "fact": "The passage to the second level connected near the mysterious door concealing an eldritch creature.",
+    "source_quote": "They recognized that this passage connected somewhere near the mysterious door that concealed an eldritch creature.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "party avoids descending to second level",
+    "fact": "The party chose not to venture down the passage to the second level at that time.",
+    "source_quote": "though they chose not to venture down at this time.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "filthy refuse chamber",
+    "fact": "The party entered a room that reeked of filth, filled with trash, waste, and bones.",
+    "source_quote": "They came upon a room that reeked of filth. The chamber was filled with trash, waste, and bones\u2014its former purpose impossible to determine beneath the accumulated refuse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr urges Calmer to investigate refuse",
+    "fact": "Zephyr attempted to convince Calmer to investigate the trash pile alone.",
+    "source_quote": "Zephyr attempted to convince Calmer to investigate the trash pile, arguing that the cleric had more health and could better withstand any dangers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer refuses to go alone",
+    "fact": "Calmer insisted they investigate the trash pile together.",
+    "source_quote": "Calmer, however, insisted they go together, pointing out that losing the party's healer would be far more catastrophic than Zephyr seemed to realize.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Otyugh",
+    "fact": "A massive tentacled creature emerged from the refuse pile and was recognized as an Otyugh.",
+    "source_quote": "As they approached the refuse pile, a massive tentacled creature suddenly emerged from the garbage. Zinnia and Sequioa immediately recognized it as an Otyugh, a disgusting aberration that fed on waste and carrion.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Otyugh",
+    "fact": "The Otyugh had been sustained by garbage generated by Romag's crew.",
+    "source_quote": "This particular specimen had clearly been sustained by the garbage generated by Romag's crew.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Otyugh",
+    "fact": "The Otyugh viewed the party as more appetizing than its usual fare.",
+    "source_quote": "but it viewed the party as far more appetizing than its usual fare.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Otyugh",
+    "fact": "The Otyugh telepathically muttered 'fresh meat' and 'rot, good, do eat'.",
+    "source_quote": "The creature's telepathic voice echoed in their minds, muttering \"fresh meat\" and \"rot, good, do eat\" as it prepared to attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia attacks Otyugh first",
+    "fact": "Zinnia struck first against the Otyugh, landing solid blows.",
+    "source_quote": "The battle erupted with Zinnia striking first, landing solid blows against the creature's grotesque form.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Otyugh grapples Zinnia and Zephyr",
+    "fact": "The Otyugh lashed out with its tentacles and grappled both Zinnia and Zephyr.",
+    "source_quote": "The Otyugh retaliated by lashing out with its tentacles, grappling both Zinnia and Zephyr in its powerful grip.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Otyugh bites Zinnia",
+    "fact": "The Otyugh dragged Zinnia toward its maw and bit down, injecting poison that sapped his strength.",
+    "source_quote": "It dragged Zinnia toward its gaping maw and bit down hard, injecting his with poison that sapped his strength and reduced his vitality.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa attacks Otyugh repeatedly",
+    "fact": "Sequioa unleashed a devastating series of attacks against the Otyugh.",
+    "source_quote": "Sequioa unleashed a devastating series of attacks, his weapons finding purchase in the creature's flesh again and again.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia escapes Otyugh's grasp",
+    "fact": "Despite being poisoned, Zinnia managed to wrench himself free from the Otyugh's grasp.",
+    "source_quote": "Despite being poisoned and weakened, Zinnia managed to wrench himself free from the Otyugh's grasp and attempted to retreat to safety.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Otyugh strikes Zinnia again",
+    "fact": "The Otyugh struck Zinnia one more time as he fled, causing him to collapse unconscious.",
+    "source_quote": "However, the creature struck him one more time as she fled, and she collapsed unconscious.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer heals Zinnia",
+    "fact": "Calmer channeled healing energy into Zinnia, bringing him back from the brink of death.",
+    "source_quote": "Calmer, clearly annoyed by the situation and Zephyr's earlier insistence that the healer should go first, nevertheless performed his duty and channeled healing energy into Zinnia, bringing him back from the brink of death.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Otyugh stuns Zephyr and Sequioa",
+    "fact": "The Otyugh slammed its tentacles against Zephyr and Sequioa, stunning both with the force of impact.",
+    "source_quote": "The Otyugh, frustrated by its prey's resilience, slammed its tentacles against both Zephyr and Sequioa, stunning them both with the force of the impact.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia kills Otyugh",
+    "fact": "Zinnia delivered a series of strikes that finally brought the Otyugh down.",
+    "source_quote": "Zinnia, recovered but still suffering from the poison coursing through his veins, delivered a series of strikes that finally brought the massive creature down.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer remarks on healer's role",
+    "fact": "Calmer remarked pointedly about the importance of the healer not being in the front lines.",
+    "source_quote": "As it died, Calmer remarked pointedly about the importance of the healer not being in the front lines.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer cuts Zephyr free",
+    "fact": "Calmer cut Zephyr free from the dead Otyugh's tentacles.",
+    "source_quote": "and cut Zephyr free from the dead creature's tentacles.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "searching Otyugh's refuse",
+    "fact": "The party searched through the refuse for anything of value after killing the Otyugh.",
+    "source_quote": "Following Calmer's suggestion, they searched through the disgusting refuse for anything of value.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "one hundred eighty silver pieces",
+    "fact": "The party found one hundred eighty silver pieces in the Otyugh's refuse.",
+    "source_quote": "Their efforts were rewarded with the discovery of one hundred eighty silver pieces,",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "fifteen gold pieces",
+    "fact": "The party found fifteen gold pieces in the Otyugh's refuse.",
+    "source_quote": "fifteen gold pieces,",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of greater healing",
+    "fact": "The party found a glass vial containing a potion of greater healing inside the Otyugh's body.",
+    "source_quote": "and a glass vial containing a potion of greater healing that had somehow survived intact inside the creature's body,",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "potion of greater healing",
+    "fact": "The potion of greater healing was sticky and smelled terrible.",
+    "source_quote": "though it was sticky and smelled terrible.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "rusted bent breastplate",
+    "fact": "The party found a rusted, bent breastplate bearing the symbol of the Fire Temple in the refuse.",
+    "source_quote": "More disturbing was their discovery of a rusted, bent breastplate bearing the symbol of the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag feeds rivals to Otyugh",
+    "fact": "The party realized Romag used the Otyugh as a living disposal system for his enemies.",
+    "source_quote": "The implication was clear and chilling\u2014Romag sometimes fed his rivals to this creature, using it as a living disposal system for his enemies.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party fears Romag's reaction to Otyugh's death",
+    "fact": "The party realized Romag might not be pleased they killed his pet monster.",
+    "source_quote": "The party realized that Romag might not be pleased to discover they had killed his pet monster.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "gate drops behind party",
+    "fact": "As the party entered a new chamber, a gate suddenly dropped behind them, sealing them in.",
+    "source_quote": "Undeterred, they pressed on with their exploration, entering a new chamber. As they stepped inside, they heard an ominous click, and a gate suddenly dropped behind them, sealing them in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "harpies emerge",
+    "fact": "Harpies emerged from the shadows after the gate sealed the party in.",
+    "source_quote": "Before they could react to this trap, they heard the sound of singing\u2014beautiful, haunting, and utterly compelling. Harpies emerged from the shadows,",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "harpies",
+    "fact": "The harpies had grotesque forms combining human-like features with talons and wings of avian scavengers.",
+    "source_quote": "their grotesque forms combining human-like features with the talons and wings of avian scavengers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "harpies sing magical song",
+    "fact": "The harpies' song filled the chamber with magical compulsion.",
+    "source_quote": "The creatures' notorious song filled the chamber, its magical compulsion washing over the party.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa succumbs to harpy song",
+    "fact": "Sequioa succumbed to the harpies' enchanting song.",
+    "source_quote": "Sequioa, succumbs to the enchantment, his minds clouded by the harpies' charm.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr identifies one singing harpy",
+    "fact": "Zephyr realized that only one of the harpies was singing.",
+    "source_quote": "Zephyr realizes that this is the song of only one of the harpies.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr recognizes threat from other harpies",
+    "fact": "Zephyr realized the other two harpies could charm the rest of the party despite his immunity.",
+    "source_quote": "And that although immune to it's song, the other two could charm him and the rest of the party.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "trapped by harpies",
+    "fact": "The party was trapped in a sealed chamber under threat from the harpies' magical influence.",
+    "source_quote": "The party realized desperate situation they now faced\u2014trapped in a sealed chamber under threat from the harpies' magical influence, that could compel them to follow the creatures heedless of any danger that might await their victims.",
+    "quote_verified": true
+  }
+]

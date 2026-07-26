@@ -1,0 +1,921 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session takes place on Planting 18, 579.",
+    "source_quote": "## Date: Planting 18, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session continues on Planting 19, 579.",
+    "source_quote": "## Date: Planting 19, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse lower level",
+    "fact": "The lower level of the moathouse contains a staircase next to the great hall.",
+    "source_quote": "A staircase is next to the great hall, where we faced brigands who may or may not have been aligned with the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse lower level",
+    "fact": "The lower level of the moathouse has a storage area with torn sacks, broken barrels, and shattered weapons racks.",
+    "source_quote": "There are a few torn sacks, broken barrels, and shattered weapons racks. This was once a storage place and armory for the fortress.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse eastern storeroom",
+    "fact": "The eastern room of the lower level has greased door hinges and an ogre's nest.",
+    "source_quote": "The door hinges are greased... I look inside the Ogre\u2019s nest and discover a magical cloak of elvenkind.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "moathouse southern hallway",
+    "fact": "The southern hallway is 50 feet long with three pillars 20 feet apart and a passageway leading east.",
+    "source_quote": "The hallway is 50 feet long and runs north-south. Three pillars are 20 feet apart, and a passageway leads east.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "moathouse western prison doors",
+    "fact": "Five prison-like doors on the western wall of the southern hallway are rotten and no longer functional.",
+    "source_quote": "Five doors are on the western wall. They look like they haven\u2019t been opened in a long time. Something like prison doors designed to keep people in. Well, those doors are so rotten that they won\u2019t keep anyone in anymore.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "The tower near Emiry Meadows contains a summoning circle and mural on its floor.",
+    "source_quote": "Looking inside, I see permanent markings on the floor for a summoning circle and mural.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Druid's grove",
+    "fact": "The Druid meets the party in his grove to discuss the brigands and Temple of Elemental Evil.",
+    "source_quote": "The Druid meets us in his grove, his greybeard flowing, and listens to me...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Village Elder's house",
+    "fact": "The Village Elder's house is the location of the meeting with Burne, Rufus, Jaroo, and Ostler.",
+    "source_quote": "I will be in the Village Elder's house\u2014the same room where we met with him last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Zinia meets Spugnoir and Ostler.",
+    "source_quote": "So when we walk into the Inn of the Welcome Wench, the magic user Spugnoir seems particularly pleased that the cleric is not with us.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "cloak of elvenkind",
+    "fact": "A magical cloak of elvenkind is found in the ogre's nest.",
+    "source_quote": "I look inside the Ogre\u2019s nest and discover a magical cloak of elvenkind.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "ring",
+    "fact": "The gnome Jarran gives the party a ring before leaving the moathouse.",
+    "source_quote": "The gnome is still sitting there and hands us a ring.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "magic circle formula",
+    "fact": "The tower contains the formula for a magic circle inscribed on the floor.",
+    "source_quote": "Spugnoir, peaking over my shoulder, says, \u201cIt contains the formula for a magic circle.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "green slime",
+    "fact": "A blob of green slime hangs over the arch at the bottom of the stairwell in the moathouse.",
+    "source_quote": "I noticed, just in time, the blob of green slime hanging over the arch at the bottom of the stairwell.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "green slime",
+    "fact": "The green slime lands on Calmer and eats through his armor.",
+    "source_quote": "a blob of green slime lands on him. And he starts squealing... the slime ate through it.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre named Lubash attacks the party at the eastern door of the moathouse.",
+    "source_quote": "Standing at the now-open eastern door is an ogre. \u201cYou are not members of the temple! You are food!\u201d And it swings it\u2019s club.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "The ogre Lubash is killed by the party in the eastern room of the moathouse.",
+    "source_quote": "With the dead carcass lying in the doorway, I enter carefully into the room beyond.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "Zombies emerge from the rotten prison doors in the southern hallway of the moathouse.",
+    "source_quote": "\u201cZombies!\u201d... they aren\u2019t saying anything. But what happens is the sound that escapes from their decaying vocal cords sounds like \u201cnsazsa,\u201d and everyone thinks they are saying Brains!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "zombie",
+    "fact": "Zombies are present in all five prison cells along the western wall of the southern hallway.",
+    "source_quote": "\u201cThe other three doors also have zombies!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "smoke mephit",
+    "fact": "A smoke mephit inhabits the tower near Emiry Meadows and demands entertainment.",
+    "source_quote": "I notice everyone is staring at me and at another door. I stare back. Finally, Zephyr gets the point and mutters, \u201cI will open the door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "smoke mephit",
+    "fact": "The smoke mephit is killed by the party after Zephyr sings a song that angers it.",
+    "source_quote": "Zephyr tries to entertain him with some song... that song is a song that immediately induces a blood-curdling rage in smoke and dust mephits... in a few moments, they are dead.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer insists on leading the group into the lower level of the moathouse.",
+    "source_quote": "I insist that I must lead. My experience and those innate attributes of wisdom and perception make me the right person to be in front.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is attacked by green slime and loses his armor.",
+    "source_quote": "a blob of green slime lands on him. And he starts squealing... the slime ate through it.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer whimpers after his armor is destroyed by the green slime.",
+    "source_quote": "Calmer is now whimpering at the fact that his beautiful, shiny armor has been destroyed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer almost dies during the fight with the ogre.",
+    "source_quote": "Zephyr and Squoia\u2019s blades cut him to size, but not before Calmer almost dies again.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer attempts to help the merchant Derrick when he cries about his companions' deaths.",
+    "source_quote": "\u201cI can help?\u201d shouts Calmer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer tries to derail the Village Elder meeting by demanding the Prefect's presence.",
+    "source_quote": "\u201cI would like to insist that the Prefect be present for these meetings.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr removes green slime from Calmer's armor using wood he was carrying.",
+    "source_quote": "Using some wood I happened to be carrying on me, I removed the slime from his armor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr tells Calmer to grow up after the green slime attack.",
+    "source_quote": "\u201cGrow up,\u201d I tell him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr opens the door to the tower near Emiry Meadows after the smoke mephit is killed.",
+    "source_quote": "Finally, Zephyr gets the point and mutters, \u201cI will open the door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr sings a song that enrages the smoke mephit.",
+    "source_quote": "Zephyr tries to entertain him with some song. Unfortunately, as we learn later, that song is a song that immediately induces a blood-curdling rage in smoke and dust mephits.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia pummels the ogre with her fists during the fight.",
+    "source_quote": "My fists pummel the creature.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia discovers the magical cloak of elvenkind in the ogre's nest.",
+    "source_quote": "I look inside the Ogre\u2019s nest and discover a magical cloak of elvenkind.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia enters the tower near Emiry Meadows first after straws are drawn.",
+    "source_quote": "Straws are drawn, and I am going to enter first.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia tells Calmer to go talk to the cleric and declines to accompany him.",
+    "source_quote": "Calmer desperately wants to talk to the Cleric, so I tell him to go. He\u2019s disappointed I won\u2019t follow...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia tells Spugnoir they will go to the tower tomorrow.",
+    "source_quote": "\u201cTomorrow,\u201d I tell him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices the greased hinges on the eastern door of the moathouse.",
+    "source_quote": "I then overhear a bang. I pull my swords, ready to strike, and realize it\u2019s the cleric. I want to kill him. If there is anything past the door to the east, it heard us.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia leads the group to investigate the southern hallway after the ogre is killed.",
+    "source_quote": "\u201cLet\u2019s check that hallway to the south we ignored last time, guys.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia recognizes the zombies' sounds as \u201cnsazsa,\u201d not \u201cBrains!\u201d",
+    "source_quote": "Everyone says they are saying \u201cBrains!\u201d but that\u2019s not true. They aren\u2019t saying anything. But what happens is the sound that escapes from their decaying vocal cords sounds like \u201cnsazsa,\u201d and everyone thinks they are saying Brains!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia urges the party to flee when more zombies emerge from the prison doors.",
+    "source_quote": "\u201cTime to get out of here,\u201d I shout.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia suggests visiting the Druid first after returning to Hommlet.",
+    "source_quote": "As I see the tower on the horizon, I turn to my friends, \u201cWe should go to the Druid first.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia interrupts Calmer to prevent him from derailing the Village Elder meeting.",
+    "source_quote": "\u201cI don\u2019t have time for this. Calmer, this is not the topic of the meeting. Perhaps you can do it some other time? If you have anything relevant to this topic, you can share it with him later.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia refuses to participate in the end-of-month festival planning and leaves the meeting.",
+    "source_quote": "Sequoia looks at me and Jaroo and says, \u201cGotta go!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jarran",
+    "fact": "Jarran is a gnome and a spy sent by the merchants of Lotrimil to investigate brigands.",
+    "source_quote": "He\u2019s a gnome and a spy. \u201cMy name is Jarran. I was sent out here by the merchants of Lotrimil to investigate the brigands attacking this area.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jarran",
+    "fact": "Jarran offers to join the party if promised continued exploration.",
+    "source_quote": "I have a mission. And I need to get back to it. Although, if you need another sword and promise to keep exploring, I could stick around.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jarran",
+    "fact": "Jarran gives the party a ring before leaving the moathouse.",
+    "source_quote": "The gnome is still sitting there and hands us a ring.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Derrick",
+    "fact": "Derrick is a merchant from Norwell who was captured by brigands and brought to the moathouse as food for the ogre.",
+    "source_quote": "My name is Derrick, and this is Florian. We\u2019re originally from Norwell. Brigands captured us along the road to Hommlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Derrick",
+    "fact": "Derrick cries while recounting the deaths of fellow prisoners Martin, Damien, and Eltograph the Elf.",
+    "source_quote": "First, there was Martin, Damien, Eltograph the Elf, and\u2026\u201d Damn it, he\u2019s crying.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Florian",
+    "fact": "Florian is a merchant from Norwell captured by brigands and imprisoned in the moathouse.",
+    "source_quote": "My name is Derrick, and this is Florian. We\u2019re originally from Norwell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lubash",
+    "fact": "Lubash is the ogre who eats prisoners in the moathouse.",
+    "source_quote": "\u201cI am Lubash!\u201d Standing at the now-open eastern door is an ogre. \u201cYou are not members of the temple! You are food!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke mocks Calmer while he stretches before descending into the moathouse.",
+    "source_quote": "The Duke is, predictably, less than friendly. He is a bit full of himself and mocks me as I stretch.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke offers to guard the rescued prisoners until the party returns.",
+    "source_quote": "\u201cDon\u2019t you worry, team. I\u2019ll make sure to guard them. When you come back, for good, we can all take them back to Hommlet.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo is the Druid who meets the party in his grove to discuss the brigands and Temple of Elemental Evil.",
+    "source_quote": "The Druid meets us in his grove, his greybeard flowing, and listens to me...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo agrees to present the evidence to the Village Elders the next day.",
+    "source_quote": "He agrees and seems flattered. \u201cTomorrow then. We will meet at the Village Elder,\u201d says Jaroo.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a magic user who asks the party about the tower near Emiry Meadows.",
+    "source_quote": "So, any interest in that tower?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir tells the party about the Circle of Eight and their involvement in the Battle of Emiry Meadows.",
+    "source_quote": "There was a great battle here some years ago. I must tell you one of the most intriguing elements of that battle. There are tales that the circle of eight appeared.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir identifies the magic circle formula in the tower.",
+    "source_quote": "Spugnoir, peaking over my shoulder, says, \u201cIt contains the formula for a magic circle.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler pays for Zinia's room at the Inn of the Welcome Wench until the 19th.",
+    "source_quote": "And your room has been paid for until the 19th.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler is pleased that Zinia went to Jaroo before speaking to outsiders.",
+    "source_quote": "And I am very pleased that you decided to go to Jaroo before going to those interloping outsiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne is a Village Elder who commends the party for their information.",
+    "source_quote": "Burne adds, \u201cI want to commend our heroes for their information. I am thrilled to see them working together and that our decision to deputize them has produced such excellent information.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus is the captain of the militia who dismisses the evidence as locally important but not nationally significant.",
+    "source_quote": "Rufus says, \u201cYou have brought strong evidence of Brigand's activity, and they must be dealt with. But we have no conclusive evidence of the re-emergence of the Temple of Elemental Evil.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Village Elder",
+    "fact": "The Village Elder calls the meeting to order and closes the topic after discussion.",
+    "source_quote": "the village elder finally calls the meeting to order... At that point, the Village Elder closes the topic and lets us go...",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "Brigands may be aligned with the Temple of Elemental Evil.",
+    "source_quote": "brigands who may or may not have been aligned with the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "Brigands are masquerading as members of the Temple of Elemental Evil.",
+    "source_quote": "Jaroo repeat what we told him. He pushes the narrative that brigands are masquerading as agents of the temple than they are agents of the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is believed to have been the site of a powerful binding spell cast by the Circle of Eight.",
+    "source_quote": "They showed up at the battle at a crucial juncture when some artifact was being used. When the battle was over, they went to the Temple of Elemental Evil and cast powerful spells to bind some evil presence within.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight consists of eight powerful mages: Moderkainenen, Bigby, Ottiluke, and Leomund.",
+    "source_quote": "The circle of eight consists of the eight most powerful mages in the world - Moderkainenen, Bigby, Ottiluke, and Leomund.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight intervened at the Battle of Emiry Meadows to bind an evil presence.",
+    "source_quote": "They showed up at the battle at a crucial juncture when some artifact was being used. When the battle was over, they went to the Temple of Elemental Evil and cast powerful spells to bind some evil presence within.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Circle of Eight",
+    "fact": "The Circle of Eight cares only about balance, not good or evil.",
+    "source_quote": "The Circle of Eight is neither good nor evil. They only care about the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Merchants of Lotrimil",
+    "fact": "The merchants of Lotrimil sent Jarran to investigate brigands in the area.",
+    "source_quote": "I was sent out here by the merchants of Lotrimil to investigate the brigands attacking this area.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Merchants of Norwell",
+    "fact": "Derrick and Florian are merchants from Norwell who were captured by brigands.",
+    "source_quote": "We\u2019re originally from Norwell. Brigands captured us along the road to Hommlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "rest before descending",
+    "fact": "The party takes a brief rest before descending into the lower level of the moathouse.",
+    "source_quote": "But first, a brief rest. It\u2019s essential to rest when facing monsters.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "green slime attack",
+    "fact": "A green slime drops from the arch and lands on Calmer.",
+    "source_quote": "a blob of green slime lands on him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "armor destroyed by slime",
+    "fact": "The green slime eats through Calmer's armor.",
+    "source_quote": "the slime ate through it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ogre attack",
+    "fact": "The ogre Lubash swings his club at the party upon encountering them.",
+    "source_quote": "And it swings it\u2019s club.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "ogre killed",
+    "fact": "The party kills the ogre Lubash in the eastern room of the moathouse.",
+    "source_quote": "With the dead carcass lying in the doorway, I enter carefully into the room beyond.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "zombies emerge",
+    "fact": "Zombies emerge from the rotten prison doors in the southern hallway of the moathouse.",
+    "source_quote": "\u201cZombies!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zombies turned",
+    "fact": "Calmer turns the zombies with his clerical power.",
+    "source_quote": "I wonder if Calmer has any power over the undead! And yes, he does! They are turned.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "zombies flee",
+    "fact": "The party flees the southern hallway after more zombies emerge from the other prison doors.",
+    "source_quote": "\u201cTime to get out of here,\u201d I shout. Zephyr\u2019s like, \u201cWe can take them!\u201d ... runs for the archway and the stairs that go up.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "prisoners freed",
+    "fact": "The party frees the two merchants and the gnome spy from the eastern storeroom.",
+    "source_quote": "\u201cWho are you?\u201d says a tired and frightened voice. ... \u201cLet\u2019s get you all outside.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "smoke mephit killed",
+    "fact": "The party kills the smoke mephit in the tower near Emiry Meadows.",
+    "source_quote": "in a few moments, they are dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "meeting with Druid",
+    "fact": "The party meets with Jaroo the Druid in his grove to discuss the brigands and Temple of Elemental Evil.",
+    "source_quote": "The Druid meets us in his grove, his greybeard flowing, and listens to me...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "meeting with Village Elders",
+    "fact": "The party attends a meeting with the Village Elder, Burne, Rufus, Jaroo, and Ostler to present evidence.",
+    "source_quote": "I will be in the Village Elder's house\u2014the same room where we met with him last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir joins party",
+    "fact": "Spugnoir joins the party as they leave the Village Elder's house and head to Emiry Meadows.",
+    "source_quote": "Calmer and I followed, but he was slightly disappointed when we told him we were taking Spugnoir with us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "entering tower",
+    "fact": "Zinia enters the tower near Emiry Meadows first.",
+    "source_quote": "Straws are drawn, and I am going to enter first.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mystery of the purple robe",
+    "fact": "The identity of the elf who lost the cloak of elvenkind is unknown.",
+    "source_quote": "Now that\u2019s even more interesting. Who is the elf that lost this?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of barred southern door",
+    "fact": "The reason the door to the south is heavily barred is unexplained.",
+    "source_quote": "And why is that door to the south so heavily barred?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the evil presence",
+    "fact": "The nature of the evil presence bound by the Circle of Eight at the Temple of Elemental Evil is unknown.",
+    "source_quote": "They went to the Temple of Elemental Evil and cast powerful spells to bind some evil presence within.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "fate of Eltograph the Elf",
+    "fact": "The fate of Eltograph the Elf, one of the prisoners eaten by the ogre, is unknown.",
+    "source_quote": "First, there was Martin, Damien, Eltograph the Elf, and\u2026\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "location of the artifact",
+    "fact": "The artifact used during the Battle of Emiry Meadows is unlocated.",
+    "source_quote": "They showed up at the battle at a crucial juncture when some artifact was being used.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the other prisoners",
+    "fact": "The identities of the other three prisoners who were eaten by the ogre are unknown.",
+    "source_quote": "There were six of us. Every day, the Ogre would come in and take one of us. First, there was Martin, Damien, Eltograph the Elf, and\u2026\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a fervent, excitable cultist who believes in the power of magical artifacts and is emotionally driven by their acquisition. He recently killed two cultists, claimed a magical dagger, and discovered a secret door in a laboratory. He now possesses a spellbook containing multiple high-level spells including Tenser\u2019s floating disk, unseen servant, and sleet storm, and is convinced his repertoire will make him indispensable. He is frustrated by being left out of key missions and perceives others as neglecting his contributions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a cold, calculating spy with exceptional observational skills and interrogation techniques. She identified a secret door via a blood trail, led the team through a crypt infested with ghouls, and is deeply suspicious of hidden agendas in Hommlet. She suspects the Duke and traders are entangled in a conspiracy, and she is unimpressed by emotional displays. She recently took possession of a black robe symbolizing the Fire Temple and intends to wear it for infiltration.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a pragmatic, ruthless Tiefling with a flair for psychological manipulation and tactical exploitation. He used fear to extract information from Hestort Flintshine ('Tort'), orchestrated the ambush of bandits, and forced Calmer to retrieve dangerous treasure from a giant crayfish. He is skeptical of alliances and believes everyone in Hommlet has an agenda. He is the one who suggested wearing the Fire Temple robes and is unbothered by moral ambiguity.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a patient, observant warrior with a quiet intensity and deep combat experience. He led the pursuit of Tort, protected him during the ambush, and explored the moathouse crypts and passageways with precision. He identified the ghouls, coordinated the team\u2019s response, and recognized the significance of new hinges and recently used torture devices. He is the one who suggested resting in the ghouls\u2019 nest and is methodical in his approach to exploration and treasure assessment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of St. Cuthbert who serves as the party\u2019s healer and holy authority. He successfully banished zombies with divine power, confronted ghouls with a religious talisman, and was coerced by Zephyr into retrieving treasure from a giant crayfish. He is anxious, often reluctant, but reliable in moments of crisis. He is viewed with suspicion by others \u2014 particularly Zinnia \u2014 and is treated as expendable by Zephyr, yet remains indispensable to the group\u2019s survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hestort Flintshine ('Tort')",
+    "fact": "Hestort is a five-foot-tall, gaunt worker employed by the Duke of Hommlet. He was targeted for kidnapping by the party, rescued by bandits, and then shot by them. He is terrified, emotionally broken, and claims ignorance of the Duke\u2019s true masters. He is a pawn in a larger conspiracy and serves as the first tangible link between the Duke and the hidden forces manipulating Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "The cult of Lolth, identified by a spider idol, was active in the laboratory where Spugnoir and the two cultists were slain. The cult\u2019s leader, a human worshipper of Lolth, was killed by the party. The cult appears to be a remnant faction, as Lolth herself is believed to be trapped somewhere. Their operations are centered around magical experimentation and hidden chambers, suggesting they are preparing for her return.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is a religious organization symbolized by black robes found in the moathouse dungeon. Its presence is ambiguous \u2014 either it is still active, or someone is impersonating it. The robes were taken by Zinnia for infiltration purposes, indicating the group is being used as a cover for clandestine operations, possibly linked to the Duke or the larger conspiracy in Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Duke\u2019s Network",
+    "fact": "The Duke is a central, shadowy figure in Hommlet, employing Hestort Flintshine and likely collaborating with traders, bandits, and possibly the Fire Temple. He is not the ultimate master but a middle agent working for someone within the village. His operations include smuggling, treasure hoarding, and possibly magical experimentation. His true allegiance and goals remain hidden, making him a key node in a complex web of conspiracies.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Bandits",
+    "fact": "The bandits are a small group led by a captain who ambushed and attempted to kill Hestort Flintshine. They appear to be working against the Duke\u2019s interests, possibly as mercenaries or rogue agents. Their sudden attack and subsequent flight suggest they are not independent but part of a larger conflict. All were killed by the party during the river ambush.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Traders",
+    "fact": "The traders of Hommlet offered to store the party\u2019s gear and are suspected of working with the Duke. Their true loyalty is unclear \u2014 they may be independent, under the Duke\u2019s control, or part of a third faction. Zephyr and Zinnia suspect they are entangled in the same conspiracy as the Duke, making them a potential front for smuggling or magical artifact trafficking.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Four ghouls were encountered in the moathouse crypt, identified by their withered, bloated bodies, tarry weeping eyes, and fanged mouths. They were drawn to the crypt by the remains of the dead and were partially driven off by Calmer\u2019s holy symbol. They are linked to the torture chamber, suggesting victims were left to be consumed. Their nest lies in an earthen tunnel beneath the crypt, indicating a sustained presence.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Crayfish",
+    "fact": "A giant crayfish inhabits a frigid pool in the moathouse dungeon, surrounded by bones and a hidden treasure ledge. It attacked Calmer when he attempted to retrieve a ruby pin and small tube. The creature is unusually cold-adapted, suggesting magical or planar influence. It was defeated after a coordinated assault by Sequoia and Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Zombies",
+    "fact": "A horde of zombies filled the moathouse hallway, likely former prisoners or victims of torture left to rot. They were banished by Calmer\u2019s divine power, with one remaining active. Their presence confirms the dungeon\u2019s use as a site of prolonged suffering, and their recent animation suggests dark magic or necromantic activity tied to the Fire Temple or Lolth cult.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laboratory with Alchemy Lab and Forge",
+    "fact": "A hidden laboratory containing an alchemy lab, forge, and shelf of moldering books served as the base for the Lolth cult. It housed magical formulae, a secret door, and the remains of two slain cultists. Spugnoir discovered two potions of gaseous form, a healing potion, and a magical dagger here. The forge and alchemical equipment suggest active magical experimentation, possibly to empower Lolth\u2019s return.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Dungeon",
+    "fact": "The moathouse dungeon is a multi-level underground complex used for torture, imprisonment, and necromantic rites. It contains zombie-infested halls, a torture chamber with a hidden secret door, a crypt with ghouls, a pool with a giant crayfish, and storage rooms filled with weapons, salted meat, and Fire Temple robes. Evidence of recent activity \u2014 oiled hinges, new rungs, and fresh blood \u2014 indicates an ongoing operation tied to the Duke and possibly the Fire Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is a deceptively small village teeming with hidden factions: the Duke, traders, bandits, the Fire Temple, remnants of the Lolth cult, and possibly other unknown entities. Each group has conflicting agendas, and no one is trustworthy. The village is a nexus of conspiracy, where every interaction is layered with deception. The party\u2019s arrival has exposed its fragile balance.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "River Encampment",
+    "fact": "The river encampment near the fortress is where Hestort Flintshine was employed and where the party first attempted to extract information. It became the site of a failed kidnapping, a bandit ambush, and the shooting of Tort. The area is now a focal point of suspicion, with Sequoia and Zinnia conducting a stakeout. Its proximity to the river and the fortress suggests it is a logistical hub for smuggling or communication.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Magical Dagger",
+    "fact": "A magical dagger was discovered in the laboratory after the death of two cultists. It was claimed by Zinnia after a brief debate. Its properties are unspecified, but its presence among alchemical tools suggests it was used in ritual magic or to channel Lolth\u2019s power. It is now in the possession of Zinnia and likely used for covert operations.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spellbook",
+    "fact": "A spellbook containing high-level arcane spells \u2014 including Tenser\u2019s floating disk, unseen servant, sleet storm, fly, gaseous form, magic circle, and rope trick \u2014 was found in the laboratory. It was claimed by Spugnoir, who now considers it the foundation of his new magical repertoire. The book\u2019s presence suggests the cult was attempting to replicate or steal powerful magic, possibly for Lolth\u2019s resurrection.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ruby Pin with Small Tube",
+    "fact": "A ruby pin with a small tube was found in a frigid pool in the moathouse dungeon, guarded by a giant crayfish. It was retrieved by Calmer under duress. The object\u2019s purpose is unknown, but its placement and the cold environment suggest it may be a magical focus, a containment device, or a relic tied to a planar entity.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Black Robes of the Fire Temple",
+    "fact": "Black robes bearing the symbol of the Fire Temple were found in a storage room of the moathouse. Zinnia took them, intending to wear them for infiltration. Their condition suggests recent use, and their presence implies either the temple is active or someone is impersonating it \u2014 possibly to mask necromantic or demonic activities.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lolth\u2019s Imprisonment",
+    "fact": "The cultists\u2019 worship of Lolth and their use of alchemy and magic suggest they are preparing for her return. However, it is believed Lolth herself is trapped somewhere \u2014 possibly in the Abyss, another plane, or a hidden chamber beneath Hommlet. The party\u2019s discovery of the laboratory and the spellbook hints at an attempt to break her seal. The secret shaft and crypt may lead to her prison.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Duke\u2019s Master",
+    "fact": "Hestort claims the Duke works for someone in the village, but does not know who. The traders, the Fire Temple, and the Lolth cult are all potential candidates. The party suspects the true master is manipulating events from the shadows \u2014 possibly a cultist, a noble, or even a demon in disguise. Uncovering this figure is the next critical objective.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Secret Shaft",
+    "fact": "A 30-foot secret shaft with new rungs, discovered beneath the torture chamber, leads to a hidden passageway and another secret door. The shaft\u2019s construction suggests recent use and deliberate concealment. It may lead to Lolth\u2019s prison, the Duke\u2019s private sanctum, or a planar rift. The party has not yet descended, but it is the most promising lead to the heart of the conspiracy.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Afternoon, Planting 18, 579",
+    "fact": "On this date, the party encountered Hestort Flintshine in the workers\u2019 encampment, initiated the stakeout, and witnessed the bandit ambush. Zephyr and Zinnia began their interrogation tactics, and Sequoia started tracking Tort\u2019s movements. This day marks the beginning of the conspiracy\u2019s unraveling.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Evening, Planting 18, 579",
+    "fact": "On this date, the party ambushed the bandits, killed the captain and mooks, and rescued Tort. Zephyr interrogated him, extracting fragments of information about the Duke. Sequoia and Zinnia coordinated the operation, establishing their roles as tactical leaders. The events of this evening confirmed the existence of multiple factions in conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Morning, Planting 19, 579",
+    "fact": "On this date, the party entered the moathouse dungeon and used Calmer to clear zombies. Zinnia discovered the secret door via blood trail, Sequoia identified the crypt, and Zephyr forced Calmer to retrieve treasure. The Fire Temple robes were taken, and the first major dungeon layer was secured. This day marked the transition from investigation to active exploration.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Morning, Planting 20, 579",
+    "fact": "On this date, the party explored the southern passageway of the moathouse, encountered the giant crayfish, and retrieved the ruby pin. Sequoia discovered the northern passageway leading to unknown chambers. The party\u2019s resources are depleted, and they are preparing to rest \u2014 but the secret shaft remains unexplored, and the identity of the Duke\u2019s master is still unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a member of the cult of fire who has traveled to the abbey to meet Lareth the Beautiful, having been recruited by the water temple but now seeking to defect by proving loyalty through the elimination of Snej. Her face has been disfigured by disease and violence.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a member of the cult of fire who leads the bluff to gain entry to Lareth\u2019s inner circle, using fabricated intelligence about Snej and the efficiency of Lareth\u2019s team. He is skilled at deception and is currently attempting to convince Lareth of their loyalty.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful is the evil leader of the abbey, exuding menace and authority. He is the target of a previous assassination contract by the brigands. He accepts Zinnia and Zephyr\u2019s defection after they claim to have killed Snej, but then redirects them to recover a stolen chest, revealing his cunning and manipulative nature.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Snej",
+    "fact": "Snej was a mortal worker for the water temple, the sworn enemy of the cult of fire. He was deemed sloppy and was eliminated by Zinnia and Zephyr. His death is the key proof of loyalty offered to Lareth.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Erin Darkmoon",
+    "fact": "Erin Darkmoon was the brigand leader from the watch tower who provided intelligence to Zinnia and Zephyr that Lareth the Beautiful ran the abbey, in exchange for a promise to kill him.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "cult of fire",
+    "fact": "The cult of fire is an organization whose members wear distinctive robes and operate the abbey under Lareth\u2019s command. Zinnia and Zephyr claim membership to gain access, though their true origins lie with the water temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "water temple",
+    "fact": "The water temple is the mortal enemy of the cult of fire. Zinnia and Zephyr were originally recruited by this faction, but they now seek to betray it by eliminating Snej and joining Lareth\u2019s side.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "brigands",
+    "fact": "The brigands are a group of marauders who gathered intelligence on Lareth and the abbey, including the location of the stolen chest. Erin Darkmoon was their leader, and they are referenced as the source of prior intelligence.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "marauders posing as earth elemental cultists",
+    "fact": "These marauders are bandits pretending to be earth elemental cultists. They stole a chest that Lareth is very fond of and are believed to be hiding in the Kron Hills near Sheernob.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the chest",
+    "fact": "The chest is a piece of art Lareth is very fond of. It was stolen by marauders posing as earth elemental cultists and is now the new mission objective he assigns to Zinnia and Zephyr in exchange for control of the abbey.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the abbey",
+    "fact": "The abbey is the stronghold controlled by Lareth the Beautiful and the cult of fire. It contains barracks, hallways, and a northern door leading to the barracks area. It is the target of Zinnia and Zephyr\u2019s infiltration and the proposed reward for their loyalty.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills near Sheernob",
+    "fact": "The Kron Hills near Sheernob are the only known location of the marauders who stole the chest. This is the destination Lareth assigns to Zinnia and Zephyr for their new mission.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "elimination of Snej",
+    "fact": "Zinnia and Zephyr killed Snej, a worker of the water temple, as proof of their loyalty to the cult of fire. This act convinced Lareth to accept their defection.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Lareth\u2019s new mission assignment",
+    "fact": "After accepting Zinnia and Zephyr\u2019s loyalty, Lareth assigns them a new task: retrieve the stolen chest from the marauders in the Kron Hills near Sheernob, promising them control of the abbey in return.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the chest\u2019s origin and true value",
+    "fact": "The chest\u2019s true nature and significance to Lareth remain unclear. Its theft and recovery are now the central mission, but its importance may be a ruse or tied to deeper secrets.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 20, 579",
+    "fact": "The date Planting 20, 579 is the temporal anchor for the events of the infiltration and meeting with Lareth the Beautiful.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth\u2019s hidden motive",
+    "fact": "Lareth\u2019s sudden shift from accepting their loyalty to assigning a dangerous retrieval mission suggests a hidden motive. The chest may be a trap, a test, or a key to something greater.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zinnia\u2019s disfigurement and its significance",
+    "fact": "Zinnia\u2019s disfigured face, caused by disease and violence, is repeatedly noted. It may be a sign of her past, a mark of the water temple\u2019s cruelty, or a clue to her true identity.",
+    "quote_verified": false
+  }
+]

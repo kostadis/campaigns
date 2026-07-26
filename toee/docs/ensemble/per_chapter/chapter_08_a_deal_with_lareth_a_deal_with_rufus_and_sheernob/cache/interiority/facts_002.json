@@ -1,0 +1,30 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr rolls his eyes in response to the captain's demand.",
+    "source_quote": "Zephyr rolls his eyes, \u201cOkay.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr notices that the cleric is already a bit drunk.",
+    "source_quote": "Zephyr notices that the cleric is already a bit drunk",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr shouts at Calmer to stop drinking.",
+    "source_quote": "shouts, \u201cThat\u2019s enough.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer ignores Zephyr\u2019s warning and drinks the mead anyway.",
+    "source_quote": "Calmer ignores him and drinks it anyway.",
+    "quote_verified": true
+  }
+]

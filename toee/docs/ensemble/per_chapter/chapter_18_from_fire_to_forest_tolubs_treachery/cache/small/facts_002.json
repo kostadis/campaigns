@@ -1,0 +1,65 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa delivered a devastating strike that literally cut one gnoll in half during the battle.",
+    "source_quote": "Sequioa delivered a devastating strike that literally cut one gnoll in half",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia moved with deadly precision through the chaos, overwhelming the remaining gnolls.",
+    "source_quote": "Zinnia moved with deadly precision through the chaos",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was cut in half by Sequioa; the remaining gnolls were overwhelmed and slain.",
+    "source_quote": "Sequioa delivered a devastating strike that literally cut one gnoll in half; the remaining gnolls... fought desperately but were overwhelmed",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "bandit",
+    "fact": "The last bandit, realizing his leader was dead, made a futile attack before being struck down.",
+    "source_quote": "The last bandit, realizing his leader was dead and contemplating his poor life choices, made a futile attack before being struck down",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch\u2019s test was successfully completed by the party, earning them entry into the Temple of Elemental Evil.",
+    "source_quote": "They had successfully completed Dick Rentsch\u2019s test and earned their entry into the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple required ruthless work, which the party proved capable of performing.",
+    "source_quote": "the ruthless work the Earth Temple required",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The party earned their entry into the Temple of Elemental Evil after completing Dick Rentsch\u2019s test.",
+    "source_quote": "earned their entry into the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle",
+    "fact": "The battle was brutal but efficient; the party emerged victorious over all enemies.",
+    "source_quote": "The battle was brutal but efficient... the party stood victorious over the bodies of their enemies",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "entry into the Temple",
+    "fact": "The party has successfully completed the prerequisite test and is now eligible for entry into the Temple of Elemental Evil.",
+    "source_quote": "They had successfully completed Dick Rentsch\u2019s test and earned their entry into the Temple of Elemental Evil",
+    "quote_verified": true
+  }
+]

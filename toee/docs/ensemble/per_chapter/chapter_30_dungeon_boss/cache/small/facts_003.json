@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren is the only loyal man in the temple \u2014 he follows only us, refuses mercenary deals, and acts on truth rather than coin. He is not a mercenary in the room\u2019s sense; he is the blade that points our direction and means it.",
+    "source_quote": "He didn't take orders, except from us, and that was the whole point of him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the injured cleric who cannot speak his god\u2019s name in this place \u2014 it comes out as complaint. He is helpless, unable to run, and the only man in the temple whose vulnerability is tied to sacred silence.",
+    "source_quote": "He just couldn't say his own god's name in here, so it came out sideways, as complaint.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the strategist who calculates corpse value, route efficiency, and tactical risk with grim precision. He is not a leader \u2014 he is the math behind the decision, and he knows it.",
+    "source_quote": "He's better at the math when there's more than one prize in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Fire Temple",
+    "fact": "The Fire Temple bribed us to defect, then burned inward \u2014 its leadership now on a pyre, its treasury looted by Belsornig\u2019s people.",
+    "source_quote": "We took bribes from the Fire Temple, sold a chimera, knifed Romag at his own table, and pointed three armies at each other until they marched.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Belsornig\u2019s People",
+    "fact": "Belsornig\u2019s faction has seized the Fire Temple\u2019s treasury, moved it southward, and now threatens the Water Temple\u2019s threshold. They are opportunists, not allies.",
+    "source_quote": "Belsornig pulling his treasury out the south route.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Water Temple",
+    "fact": "The Water Temple is active, ancient, and sacred \u2014 its halls submerged in salt-tinged air, its altar offering coins and shells, its idol a writhing mass of sea creatures. It is not passive; it is watching.",
+    "source_quote": "The whole chamber felt submerged. Like standing at the bottom of the sea.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Bronze Gargoyles",
+    "fact": "Four bronze gargoyles squat atop triangular plinths in each corner of the Water Temple hall, coated in verdigris. They are inert but ancient \u2014 their stillness is a warning, not a sign of weakness.",
+    "source_quote": "In each corner a triangular plinth ran up toward the vaulted dark, and atop each one a bronze gargoyle squatted under its coat of green.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Serpentine Idol",
+    "fact": "The idol in the alcove is a horrid knot of fish, eels, and octopi sculpted into one mass, taller than a man, draped in seaweed. It is not mere art \u2014 it is the temple\u2019s god, and it is aware.",
+    "source_quote": "An idol of serpentine stone: a writhing knot of fish and eels and octopi sculpted into one horrid mass... with a seaweed drapery hung across the wall behind.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple Hall",
+    "fact": "The Water Temple hall is a vast, submerged-feeling chamber with blue-green swirled stone walls, luminous mist, salt-tinged air, and a central altar holding an offering of coins and shells. It is ancient, sacred, and silent \u2014 and it remembers every step.",
+    "source_quote": "The ceiling arched and lost somewhere in the shadow high overhead... the whole chamber felt submerged.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Altar Basin",
+    "fact": "The altar basin holds a shallow pool of water, filled with scattered coins, gems, and seashells \u2014 an offering left by the faithful or the desperate. Touching it would be sacrilege.",
+    "source_quote": "Its concave top holding a shallow basin of water, and at the bottom of the basin \u2014 coins, a scatter of gems, seashells.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Infiltration of the Water Temple",
+    "fact": "Zephyr and the party moved silently through the Water Temple hall without triggering any defenses \u2014 the gargoyles, the idol, and the temple itself did not react. The infiltration was flawless.",
+    "source_quote": "We crossed the whole of it and nothing stirred. Clean. Gotcha.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Loyal Man\u2019s Burden",
+    "fact": "Dren\u2019s loyalty is a liability in a world of mercenaries. Protecting him means protecting Calmer. But if Calmer dies, Dren breaks. If Dren dies, the mission collapses. The temple\u2019s survival hinges on a man who cannot speak his god\u2019s name and the one who will not betray his captain.",
+    "source_quote": "Put Dren where the cleric was, and let the only loyal man in the temple guard the only man who couldn't run.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Session Anchor",
+    "fact": "The events occur immediately after the Fire Temple\u2019s collapse and the treasury\u2019s exodus. The Water Temple\u2019s infiltration is the next scheduled action \u2014 arriving on schedule, as predicted.",
+    "source_quote": "We did that. Not by accident. We took bribes... and pointed three armies at each other until they marched. One does not simply... end up the rightful lords of anything. We ended up here anyway.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ceiling Leak",
+    "fact": "A new drip has begun somewhere above the Water Temple hall \u2014 a change from the previous hour. It is not natural. It is a sign the temple is waking, or something is coming down.",
+    "source_quote": "The dripping had started somewhere above us, in a ceiling that hadn't been dripping an hour ago. That's not good.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is the silent observer who confirms decisions with minimal words. His 'Yep' ends debate. He is not a strategist \u2014 he is the anchor of consensus.",
+    "source_quote": "Sequoia agreed in a word \u2014 'Yep' \u2014 and that settled it.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Mercenary Corps",
+    "fact": "The temple is filled with mercenaries who would sell each other for a copper if the war tilted. Dren is the only exception \u2014 he does not negotiate, he does not defect, he does not change sides.",
+    "source_quote": "A temple full of mercenaries who would all sell us for a copper if the war tilted. He wouldn't.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Seaweed Drapery",
+    "fact": "The seaweed drapery behind the serpentine idol is not decorative \u2014 it is organic, damp, and possibly alive. It moves subtly in the salt air, like a breath.",
+    "source_quote": "with a seaweed drapery hung across the wall behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dren\u2019s Departure",
+    "fact": "Dren left with his two men, returning to Calmer\u2019s side \u2014 not because he was ordered, but because he chose to. His loyalty is his command.",
+    "source_quote": "He gathered his two men off the wall, gave me one last look \u2014 the look that still thought I was the reasonable one \u2014 and they headed out, back toward the stairs, back toward Calmer.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Name That Cannot Be Spoken",
+    "fact": "Calmer\u2019s inability to speak his god\u2019s name is not a flaw \u2014 it is a sacred wound. The temple\u2019s magic may be tied to it. To force him to speak it may awaken something \u2014 or kill him.",
+    "source_quote": "He just couldn't say his own god's name in here...",
+    "quote_verified": false
+  }
+]

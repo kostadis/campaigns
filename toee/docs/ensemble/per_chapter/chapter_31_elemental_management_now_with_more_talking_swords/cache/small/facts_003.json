@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the Chief Cleric and supreme leader of the Upper Temple, having assumed authority after a recent readjustment of command; he established a hierarchy placing Dren Halveth as commander of Earth Temple Forces and declared himself the new authority over the Fire Temple's ruins.",
+    "source_quote": "The Obsidian Edge and the Chief Cleric is myself, Calmer. And these are my loyal henchmen, and you will, of course, be subordinate to Dren Halveth, who is the commander, supreme commander of the Earth Temple Forces.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a loyal henchman of Calmer who initiated the confrontation with the fallen Fire Temple commander, falsely claimed intent to kill him, then reversed course to offer mercy \u2014 securing the commander\u2019s submission through psychological pressure and the symbolic surrender of two gold coins as a token of respect.",
+    "source_quote": "Yes,\" said Zephyr. ... \"No, I lied. It's okay. You can continue being a Fire Temple soldier. We will leave you be.\" ... \"Two gold coins for sparing your life, please.\" ... \"What I demand is not money, but respect.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Fallen Fire Temple Commander",
+    "fact": "The former commander of the Fire Temple forces is a wounded, defeated man who now serves under Calmer after surrendering two gold coins as a symbolic gesture of submission; he retains his equipment and position as a retainer, now marked as a subordinate in the new hierarchy.",
+    "source_quote": "My name. I need a name, hold on.\" ... \"I won't go down without a fight!\" ... \"I will not forget this.\" ... \"Nor will I.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth is the supreme commander of the Earth Temple Forces, placed in authority over the former Fire Temple commander by Calmer as part of the newly established chain of command within the Upper Temple.",
+    "source_quote": "you will, of course, be subordinate to Dren Halveth, who is the commander, supreme commander of the Earth Temple Forces.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Upper Temple",
+    "fact": "The Upper Temple has undergone a leadership transition: Calmer now holds the title of Chief Cleric and supreme authority, having absorbed the remnants of the Fire Temple into a unified hierarchy under Earth Temple command, with Dren Halveth as its military leader.",
+    "source_quote": "there had been a recent readjustment of the supreme leadership of the Upper Temple, and that I was now in charge.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple has been defeated and dismantled as an independent entity; its former commander now serves as a retainer under Calmer, its throne occupied by a broken man, its symbols of power repurposed under the new regime.",
+    "source_quote": "the ruin of his own authority with his equipment marking him for exactly what he was.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple Forces",
+    "fact": "The Earth Temple Forces are now the dominant military arm of the Upper Temple, commanded by Dren Halveth, who has been elevated above the remnants of the Fire Temple\u2019s hierarchy.",
+    "source_quote": "supreme commander of the Earth Temple Forces.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "takeover of the Fire Temple throne room",
+    "fact": "Calmer and Zephyr entered the Fire Temple\u2019s throne room, confronted its fallen commander, and through a staged reversal of intent and symbolic payment of two gold coins, secured his submission and integration into the new hierarchy.",
+    "source_quote": "The chamber beyond was a hot, bright thing \u2014 reds and oranges and yellows, torchlight on lacquered wood, tapestries celebrating the triumph of elemental fire across every wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "establishment of Calmer's authority",
+    "fact": "Calmer formally declared himself Chief Cleric of the Upper Temple and established a chain of command placing Dren Halveth above the defeated Fire Temple commander, asserting absolute authority through ritualized subordination.",
+    "source_quote": "I let it be known that there had been a recent readjustment of the supreme leadership of the Upper Temple, and that I was now in charge.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Salamander",
+    "fact": "A salamander appeared in the temple and began speaking in a language of curses to Vorkal, triggering a confrontation over past imprisonment and guard duties; it was calmed by Zephyr and the narrator\u2019s affirmation.",
+    "source_quote": "It started talking \u2014 to Vorkal, in whatever language salamanders curse in \u2014 and the whole thing turned. Old jailor, old prisoner.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Vorkal",
+    "fact": "Vorkal is a former guard who was bound to the salamander in a past imprisonment dynamic; he is now present as a spectral or remembered figure in the salamander\u2019s confrontation, and he later watches Calmer\u2019s speech with boredom.",
+    "source_quote": "It demanded satisfaction. It had been the one trapped in the box, with Vorkal as its guard, the whole time.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Frostbrand",
+    "fact": "Frostbrand is a sentient sword that claims to have been picked up as a trophy from Emridy Meadows and has a history of demanding recognition; it now resides in Calmer\u2019s possession, whispering its will and affirming its bond with him.",
+    "source_quote": "What's your name?\" Frostbrand. \"How long have you been in that box?\" A very long time, it said. Since Emridy Meadows. Picked up as a trophy.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Throne of the Fire Temple Commander",
+    "fact": "A massive red-and-gilt wooden throne with a gold skull leering from its back, once the seat of the Fire Temple\u2019s commander, now stands empty of its former authority and occupied only by the memory of defeat.",
+    "source_quote": "A huge wooden seat, red and gilt, with a gold skull leering off the back. A throne, in other words.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Prophet Calmer",
+    "fact": "Calmer has been turning the title 'Prophet' over in his mind all session, considering its weight and potential, but has deferred its use until after establishing his chain of command \u2014 suggesting an impending elevation of his status.",
+    "source_quote": "Chief Cleric is a fine thing to say ... and Prophet would be finer still \u2014 I had been turning the word over all session, the weight of it, Prophet Calmer.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session duration",
+    "fact": "The events described occurred over the course of a single campaign session, during which Calmer assumed leadership, subdued the Fire Temple commander, and integrated Frostbrand into his arsenal.",
+    "source_quote": "I had been turning the word over all session, the weight of it...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple Throne Room",
+    "fact": "The throne room of the Fire Temple is a chamber of reds, oranges, and yellows, adorned with tapestries celebrating elemental fire, lit by torches on lacquered wood, now occupied by the defeated commander and the new regime\u2019s agents.",
+    "source_quote": "The chamber beyond was a hot, bright thing \u2014 reds and oranges and yellows, torchlight on lacquered wood, tapestries celebrating the triumph of elemental fire across every wall.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Upper Temple",
+    "fact": "The Upper Temple is the newly unified domain under Calmer\u2019s rule, incorporating the remnants of the Fire Temple and the established power of the Earth Temple Forces under Dren Halveth.",
+    "source_quote": "there had been a recent readjustment of the supreme leadership of the Upper Temple",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a figure who provided Calmer with a vague cover story \u2014 'deep undercover, sneaking around' \u2014 which was accepted by Frostbrand as a satisfying justification for its new role.",
+    "source_quote": "Zinnia gave it the vague version \u2014 deep undercover, sneaking around \u2014 and it loved the idea like it had invented it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is Calmer\u2019s subordinate who initiated the psychological confrontation with the Fire Temple commander, used deception to break the commander\u2019s will, and secured his submission through the symbolic act of paying two gold coins as 'respect.'",
+    "source_quote": "I will not forget this,\" Zephyr told him. ... \"Two gold coins for sparing your life, please.",
+    "quote_verified": false
+  }
+]

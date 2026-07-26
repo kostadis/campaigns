@@ -1,0 +1,263 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer recovered from his near-fatal encounter and declared he was done being the face of the party, tired of looking like a fool and nearly getting killed, now advocating for infiltration and stealth over direct confrontation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr used magical dust to enable the party\u2019s escape from the fire temple and later methodically eliminated gnolls during the ambush, demonstrating precision and composure under pressure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia showed exceptional skill in stealth and track-obscuring, leading the party to a hidden cave and remaining vigilant during patrols; their concern for Calmer\u2019s wellbeing, though dismissed as annoyance, provided moments of levity.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa noticed the gnolls were on patrol, suspected they were hunting the party or dealing with bandit factions, and later identified the bandit chief\u2019s paranoia about Dick Rentsch\u2019s intentions during the ambush.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tolub",
+    "fact": "Tolub betrayed the party by sending them into a trap at the fire temple instead of connecting them with Romag of the Earth Temple, then falsely claimed to have disposed of them, working under the Fire Prophet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch, proprietor of the Waterside Hostel, initially suspicious, became excited upon learning the party had something of interest for the Earth Temple; he assigned them a mission to ambush gnoll recruits and was present with the bandit chief, suggesting neutral ground for factional dealings.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Skole",
+    "fact": "Skole, bartender at the Boatman\u2019s Tavern, was shocked to see the party alive and revealed Tolub had lied about killing them; he despised both Tolub and Lodriss, the tavern\u2019s owner, and directed them to Dick Rentsch for contact with the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Wat",
+    "fact": "Wat, bartender at the Waterside Hostel, attempted to extract information from the party, was relieved when they claimed it was personal, mentioned someone named Dala, and warned them not to drink the beer, serving gin instead.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bandit Chief",
+    "fact": "The bandit chief recruited gnolls for the Fire Temple, was paranoid about Dick Rentsch\u2019s motives, and was killed swiftly by Sequioa and Zinnia during the ambush in the forest.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is actively growing, recruiting forces through the Fire Prophet\u2019s cult; it consists of four cults led by prophets\u2014Romag of Earth, Belsornig of Water, and two unnamed leaders of Fire and Air\u2014ruled by a mysterious Deep Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Gnolls",
+    "fact": "Gnolls are being recruited by the Fire Prophet\u2019s cult and are patrolling the region, possibly hunting the party or dealing with bandit factions; they marched in fire temple garb and were targeted in the ambush.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bandit Factions",
+    "fact": "Bandit factions plague the region, with the bandit chief recruiting gnolls for the Fire Temple; they operate in the forest and are targeted by the Temple\u2019s growing influence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "fire temple betrayal",
+    "fact": "Captain Tolub betrayed the party by sending them into a trap at the fire temple instead of connecting them with Romag of the Earth Temple, resulting in devastating magical flames unleashed by Albreth and Ingulf, nearly killing Calmer.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ambush of gnoll recruits",
+    "fact": "The party ambushed a group of gnolls and their bandit chief in the forest, killing the chief with Sequioa and Zinnia, freezing the gnolls with Calmer\u2019s booming voice, and eliminating them one by one with Zephyr\u2019s precision.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "arrival in Nulb",
+    "fact": "The party arrived in Nulb, observed the hanging of Elfar Twell at Gallows Table, passed merchant stalls including Magda\u2019s Trove and Garik\u2019s Armory, and eventually reached the Waterside Hostel to meet Dick Rentsch.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "Nulb is a desperate, dangerous city where power dominates; it features the Boatman\u2019s Tavern, Gallows Table with executed prisoners, Magda\u2019s Trove with cursed ink, Garik\u2019s Armory with rusted weapons, and the dilapidated Waterside Hostel.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Waterside Hostel",
+    "fact": "The Waterside Hostel is a dilapidated building with sagging timbers and lopsided walls, serving as neutral ground for factional dealings; Dick Rentsch operates from its back office and shares space with the bandit chief.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Boatman\u2019s Tavern",
+    "fact": "The Boatman\u2019s Tavern is run by Lodriss, with Skole as bartender; it is a place where lies are spread about the party\u2019s demise, and Skole secretly aids them by directing them to Dick Rentsch.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical dust",
+    "fact": "Zephyr used magical dust to enable the party\u2019s escape from the fire temple, allowing them to vanish and flee into the darkness.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "cursed ink",
+    "fact": "Magda\u2019s Trove sells cursed ink among other strange magical curiosities, reflecting the pervasive magical corruption in Nulb.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "rusted weapons",
+    "fact": "Garik\u2019s Armory sells rusted weapons, symbolizing the decay and desperation of Nulb\u2019s infrastructure and economy.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "deep temple mystery",
+    "fact": "The existence of a mysterious Deep Temple ruling the four cults of the Temple of Elemental Evil remains unexplored, suggesting a hidden hierarchy that the party must uncover.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Dala\u2019s identity",
+    "fact": "Wat mentioned someone named Dala before warning the party about the beer; Dala\u2019s connection to the Waterside Hostel or the Earth Temple remains unknown and potentially significant.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lodriss\u2019s role",
+    "fact": "Skole despises Lodriss, the actual owner of the Boatman\u2019s Tavern; Lodriss\u2019s involvement with the Temple of Elemental Evil or Tolub\u2019s operations is unexplored.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "execution of Elfar Twell",
+    "fact": "Elfar Twell was executed on the orders of Madame Selentis, a powerful figure in Nulb; the timing of the execution is not specified but occurred during the party\u2019s arrival.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "poisonous snakes",
+    "fact": "A nest of angry poisonous snakes emerged from collapsed soft ground in the forest; the party carefully avoided them, demonstrating the environmental hazards of the region.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gnolls",
+    "fact": "Gnolls dressed in fire temple garb patrolled the forest and were later recruited as targets in the ambush; they were killed by Zephyr after being frozen by Calmer\u2019s voice.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag of Earth",
+    "fact": "Romag of the Earth Temple was the intended contact point that Tolub betrayed; he remains unmet but is referenced as the legitimate authority the party seeks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig of Water",
+    "fact": "Belsornig is one of the four prophets leading a cult of the Temple of Elemental Evil; their role and location are unknown but part of the larger hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Albreth and Ingulf",
+    "fact": "Albreth and Ingulf, fire priests of the fire temple, unleashed devastating magical flames upon the party during the betrayal, nearly killing Calmer.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Madame Selentis",
+    "fact": "Madame Selentis is a powerful figure in Nulb who ordered the execution of Elfar Twell, demonstrating her control over life and death in the city.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lodriss",
+    "fact": "Lodriss is the actual owner of the Boatman\u2019s Tavern, despised by Skole; his allegiance to the Temple of Elemental Evil or Tolub\u2019s operations is unexplored but likely significant.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch assigned the party a mission to kill gnoll recruits to earn trust and the prophet\u2019s favor, indicating he is a gatekeeper to the Earth Temple\u2019s inner circle.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa delivered a devastating strike that literally cut one gnoll in half during the battle.",
+    "source_quote": "Sequioa delivered a devastating strike that literally cut one gnoll in half",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia moved with deadly precision through the chaos, overwhelming the remaining gnolls.",
+    "source_quote": "Zinnia moved with deadly precision through the chaos",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was cut in half by Sequioa; the remaining gnolls were overwhelmed and slain.",
+    "source_quote": "Sequioa delivered a devastating strike that literally cut one gnoll in half; the remaining gnolls... fought desperately but were overwhelmed",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "bandit",
+    "fact": "The last bandit, realizing his leader was dead, made a futile attack before being struck down.",
+    "source_quote": "The last bandit, realizing his leader was dead and contemplating his poor life choices, made a futile attack before being struck down",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch\u2019s test was successfully completed by the party, earning them entry into the Temple of Elemental Evil.",
+    "source_quote": "They had successfully completed Dick Rentsch\u2019s test and earned their entry into the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple required ruthless work, which the party proved capable of performing.",
+    "source_quote": "the ruthless work the Earth Temple required",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The party earned their entry into the Temple of Elemental Evil after completing Dick Rentsch\u2019s test.",
+    "source_quote": "earned their entry into the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "battle",
+    "fact": "The battle was brutal but efficient; the party emerged victorious over all enemies.",
+    "source_quote": "The battle was brutal but efficient... the party stood victorious over the bodies of their enemies",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "entry into the Temple",
+    "fact": "The party has successfully completed the prerequisite test and is now eligible for entry into the Temple of Elemental Evil.",
+    "source_quote": "They had successfully completed Dick Rentsch\u2019s test and earned their entry into the Temple of Elemental Evil",
+    "quote_verified": true
+  }
+]

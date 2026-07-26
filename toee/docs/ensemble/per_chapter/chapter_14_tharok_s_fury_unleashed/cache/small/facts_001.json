@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tharok",
+    "fact": "Tharok is the High Cultist standing before the altar in the ritual chamber, his skin mottled like cracked stone and eyes burning with fervent intensity, commanding three kneeling cultists and channeling elemental magic to complete a ritual tied to the Chest of Rao.",
+    "source_quote": "Tharok declared the intruders defilers of his sacred ritual and threatened that the earth itself would swallow them whole.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jerry",
+    "fact": "Jerry is a soldier of Verbabonc, imprisoned alongside Warda, who revealed knowledge of a secret passageway to the deeper temple passed down from his grandmother, and who charged bravely toward Tharok only to be struck down by elemental fury.",
+    "source_quote": "Jerry revealed crucial information about a secret passageway to the deeper temple, knowledge passed down from his grandmother who had once worshipped Beory in these halls.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Warda",
+    "fact": "Warda is a gnome nationalist imprisoned with Jerry, who opposed what she saw as Verbabonc\u2019s imperial expansion, and who continued fighting against Tharok despite witnessing Jerry\u2019s death, her hatred for imperial forces now focused on the cultist threat.",
+    "source_quote": "Warda continued fighting despite witnessing Jerry\u2019s death, her hatred for imperial forces now focused on the cultist threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a divine caster who blessed the party with divine magic to aid their efforts, but struggled to maintain his footing and his blessing as Tharok\u2019s earthquake disrupted the ritual chamber.",
+    "source_quote": "Calmer blessed the party with divine magic to aid their efforts.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a combatant who pressed the attack with relentless strikes against Tharok, contributing to the party\u2019s effort to stop the ritual before its completion.",
+    "source_quote": "Zinnia pressed the attack with relentless strikes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a combatant who recognized that disrupting the ritual might weaken Tharok, rushed to the altar, and knocked the Chest of Rao from its resting place, causing the magical energies to dissipate.",
+    "source_quote": "Sequioa recognized that disrupting the ritual itself might weaken their enemy and rushed to the altar, knocking the Chest of Rao from its resting place.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a combatant who landed a critical blow against Tharok and was struck backward by a devastating elemental attack, but remained engaged in the battle despite being thrown off balance.",
+    "source_quote": "Zephyr struck with deadly precision, landing a critical blow against the high cultist.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Tharok's Stone Guardian",
+    "fact": "Tharok's Stone Guardian is an ancient construct encountered in the library, presenting a riddle about the eternal cycles of nature and becoming inanimate after Zephyr correctly identified the water cycle as the answer.",
+    "source_quote": "The guardian presented them with a riddle about the eternal cycles of nature, testing their understanding of Beory\u2019s old faith.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Cultist Guards",
+    "fact": "Cultist Guards are three robed cultists kneeling in reverence around Tharok, their whispered invocations weaving into the elemental hum, and were swiftly dispatched by Zinnia, Sequioa, and Zephyr.",
+    "source_quote": "Three robed cultists knelt around him in reverence, their whispered invocations weaving into the elemental hum that filled the air.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Earth Temple Cultists",
+    "fact": "Earth Temple Cultists are a faction of cultists wearing brown robes marked with triangle symbols, who overheard Tharok\u2019s impending ritual and were silently eliminated by Sequioa and Zephyr.",
+    "source_quote": "The cultists wore brown robes marked with triangle symbols, indicating their allegiance to the earth temple faction.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is the overarching criminal organization pulling the strings behind all elemental temple factions, including Lareth\u2019s fire temple and the earth temple cultists aligned with Tharok.",
+    "source_quote": "All these factions ultimately answered to the Temple of Elemental Evil, the overarching criminal organization pulling the strings.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple Faction",
+    "fact": "The Earth Temple Faction is a subgroup under the Temple of Elemental Evil, led by Tharok, whose cultists wear brown robes with triangle symbols and are focused on ritualistic earth magic tied to the Chest of Rao.",
+    "source_quote": "The cultists wore brown robes marked with triangle symbols, indicating their allegiance to the earth temple faction.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Verbabonc",
+    "fact": "Verbabonc is a political power that constructed a strategic castle in Hommlet as force projection, viewed by the gnomes as imperialism, and whose soldier Jerry was imprisoned for opposing the cultists.",
+    "source_quote": "Verbabonc\u2019s construction of a strategic castle in Hommlet served as force projection, much like a medieval aircraft carrier, allowing them to control the valley roads and threaten gnomish territory.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Gnome Nationalists",
+    "fact": "Gnome Nationalists are a resistance group opposing Verbabonc\u2019s territorial expansion, represented by Warda, who was imprisoned for her nationalist views and now fights the cultists as an extension of her resistance.",
+    "source_quote": "Warda, a gnome nationalist, were engaged in heated political arguments even while imprisoned... opposing what she saw as imperial expansion.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ritual Chamber",
+    "fact": "The Ritual Chamber is a vast, ancient space within the monastery, carved with intricate elemental motifs, towering pillars like colossal trees, and a massive cracked altar at the center where the Chest of Rao rests, radiating protective magic and creeping corruption.",
+    "source_quote": "They emerged into a vast ritual chamber that took their breath away \u2014 ancient stone carved with intricate elemental motifs, towering pillars like colossal trees, and a massive cracked altar at the center.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Ancient Library",
+    "fact": "The Ancient Library is a chamber within the abandoned monastery where Brother Eldrin\u2019s stone guardian presented a riddle about the eternal cycles of nature and became inanimate after Zephyr solved it.",
+    "source_quote": "The party encountered Brother Eldrin\u2019s stone guardian in an ancient library.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Prison Chamber",
+    "fact": "The Prison Chamber is a locked room where Jerry and Warda were held for torture, unlocked by a key found among dead cultists, and where they continued their political arguments despite their captivity.",
+    "source_quote": "The key unlocked a prison chamber where two captives were being held for torture.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The Chest of Rao is a powerful magical battery capable of fueling devastating rituals, resting upon the altar in the ritual chamber, radiating both protective magic and creeping corruption, and was knocked from its place by Sequioa to disrupt the ritual.",
+    "source_quote": "The Chest of Rao rested upon the altar, radiating both protective magic and creeping corruption, while arcane symbols floated above it in eerie greenish-gold light.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Scimitars",
+    "fact": "Scimitars are weapons taken from fallen cultists and used by the party in combat against Tharok and his followers.",
+    "source_quote": "Armed with scimitars taken from the fallen cultists, the group followed the secret passage to the heart of the monastery.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Key",
+    "fact": "The Key is a physical object found among the possessions of slain cultists, used to unlock the prison chamber holding Jerry and Warda.",
+    "source_quote": "Sequioa and Zephyr eliminated the guards silently, finding a key among their possessions.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Disruption of Tharok's Ritual",
+    "fact": "The disruption of Tharok's Ritual occurred when Sequioa knocked the Chest of Rao from its altar, causing the magical energies of the chamber to dissipate and weakening the high cultist\u2019s power.",
+    "source_quote": "The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Death of Jerry",
+    "fact": "The death of Jerry occurred when he charged toward Tharok and was struck down by devastating elemental attacks, his body crumpling under the elemental fury.",
+    "source_quote": "Jerry charged bravely toward the high cultist but was struck down by Tharok\u2019s devastating attacks, his body crumpling under the elemental fury.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Earthquake in Ritual Chamber",
+    "fact": "The earthquake in the Ritual Chamber was triggered by Tharok\u2019s earth magic, causing the chamber to quake violently, dust and stones cascading from the ceiling, and disrupting Calmer\u2019s blessing.",
+    "source_quote": "Tharok\u2019s earth magic caused the entire chamber to quake violently, dust and stones cascading from the ceiling as tremors knocked several party members to the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Outcome of Tharok's Defeat",
+    "fact": "The outcome of Tharok's Defeat remains unresolved as the session concluded with the high cultist still standing, bloodied and battered, his elemental magic still making the chamber tremble, and the party\u2019s success uncertain.",
+    "source_quote": "Though bloodied and battered, the high cultist remained standing as the session concluded, the outcome of this crucial confrontation still hanging in the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session end",
+    "fact": "The session ended with the battle against Tharok unresolved, the Chest of Rao displaced, Jerry dead, and the ritual partially disrupted but not fully stopped.",
+    "source_quote": "Though bloodied and battered, the high cultist remained standing as the session concluded, the outcome of this crucial confrontation still hanging in the balance.",
+    "quote_verified": true
+  }
+]

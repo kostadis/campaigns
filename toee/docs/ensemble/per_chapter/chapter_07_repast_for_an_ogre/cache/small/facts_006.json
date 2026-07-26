@@ -1,0 +1,93 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia has a face disfigured by disease and violence, and is currently attempting to infiltrate the cult of fire by bluffing Lareth the Beautiful. She believes the information gathered from Snej and Erin Darkmoon is invaluable.",
+    "source_quote": "The water temple recruited us. But we saw how sloppy Snej was. And we noticed how efficient your team was. And so we decided to join you.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful is the evil leader of the cult of fire's abbey, who appears charming but is manipulative and cruel. He tests Zinnia's loyalty, accepts their claim of eliminating Snej, and then assigns them a new task involving a stolen chest.",
+    "source_quote": "And why should I let you join me? What have you done for me? ... Very good. You, indeed, have proven your loyalty. ... I have a better idea. Something that your obvious skills and talents are better suited to. A particular piece of art I am very fond of, a chest, was stolen.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Snej",
+    "fact": "Snej was a mortal worker for the water temple, an enemy of the cult of fire. He provided information to Zinnia\u2019s group before being killed, and his death is now used as proof of loyalty to Lareth.",
+    "source_quote": "Let\u2019s see if Zephyr can pull this off. ... The information we have collected from the other Brigands is invaluable. ... He worked for the water temple, mortal enemies of fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Erin Darkmoon",
+    "fact": "Erin Darkmoon was the brigand leader at the watchtower who provided Zinnia\u2019s group with information about Lareth the Beautiful in exchange for a promise to kill him.",
+    "source_quote": "The brigand leader from the watch tower, Erin Darkmoon, told us there would be a man named Lareth the Beautiful who ran this place. She gave us that information for the promise to kill him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "cult of fire",
+    "fact": "The cult of fire is an organized religious faction that controls the abbey and employs guards in red robes. It is in conflict with the water temple and seeks to expand its influence through deception and violence.",
+    "source_quote": "guards wearing robes of the cult of fire ... We are members of the cult of fire.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "water temple",
+    "fact": "The water temple is the mortal enemy of the cult of fire. It employed Snej, whose incompetence led Zinnia\u2019s group to eliminate him and defect.",
+    "source_quote": "He worked for the water temple, mortal enemies of fire.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "earth elemental cultists",
+    "fact": "Earth elemental cultists are marauders posing as cultists who stole a chest that Lareth the Beautiful now wants recovered.",
+    "source_quote": "Some bandits, marauders pretending to be earth elemental cultists, poseurs.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Snej",
+    "fact": "Snej was a humanoid operative of the water temple who was killed by Zinnia\u2019s group as proof of loyalty to the cult of fire. He is now dead and used as a narrative tool.",
+    "source_quote": "We eliminated Snej. The abbey is ours to control, but we need reinforcements.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "the stolen chest",
+    "fact": "The stolen chest is a particular piece of art Lareth the Beautiful is very fond of. It was taken by marauders posing as earth elemental cultists and is now the new mission assigned to Zinnia\u2019s group.",
+    "source_quote": "A particular piece of art I am very fond of, a chest, was stolen. ... Bring me the chest, and the abbey will be yours.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "the abbey",
+    "fact": "The abbey is the stronghold controlled by Lareth the Beautiful and the cult of fire. It contains barracks, multiple doors, and passageways. Zinnia\u2019s group seeks to take control of it.",
+    "source_quote": "The abbey is ours to control, but we need reinforcements. ... And yes, let\u2019s secure the abbey.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills near Sheernob",
+    "fact": "The Kron Hills near Sheernob is the only known location where the bandits who stole the chest may be found, according to Lareth the Beautiful.",
+    "source_quote": "I don\u2019t know where they are besides the Kron Hills near Sheernob.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "bluff on Lareth",
+    "fact": "Zinnia\u2019s group is attempting to maintain a deception that they have defected from the water temple to join the cult of fire. Lareth has accepted their story, but the success of the long-term bluff remains uncertain.",
+    "source_quote": "Will the bluff work? ... Lareth does, 'And why should I let you join me?' ... 'We eliminated Snej.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "new mission: recover the chest",
+    "fact": "Lareth has assigned Zinnia\u2019s group a new, dangerous task: recover the stolen chest from the Kron Hills near Sheernob. Success may grant them control of the abbey, but failure or exposure could mean death.",
+    "source_quote": "Bring me the chest, and the abbey will be yours.",
+    "quote_verified": true
+  }
+]

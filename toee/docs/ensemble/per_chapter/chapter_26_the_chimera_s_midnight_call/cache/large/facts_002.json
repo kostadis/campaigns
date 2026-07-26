@@ -1,0 +1,114 @@
+[
+  {
+    "type": "object",
+    "subject": "heavy iron collar and dragging chains",
+    "fact": "The heavy iron collar and dragging chains were used by the Fire Temple warlock to control and goad the Chimera into battle. They were later found stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb was paid to deliver the monster.",
+    "source_quote": "Zephyr managed to rip the chain from the warlock's hands during the fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Warlock's Ledger",
+    "fact": "The Warlock's Ledger is a document found on the Fire Temple warlock, containing a heavy wax-sealed receipt bearing the crest of a crimson ship. It is a bill of sale from Captain Varsik of the Crimson Trader detailing the purchase of the chimera, paid in full by the Fire Temple. It also revealed a connection to Vesrek, an ally of the Water Temple's prophet Belsornig.",
+    "source_quote": "A document found on the Fire Temple warlock, containing a heavy wax-sealed receipt bearing the crest of a crimson ship.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Fire Temple Amulet",
+    "fact": "The Fire Temple Amulet is a heavy gold amulet and chain depicting the eight-pointed symbol of the Fire Temple, found on the warlock. Its craftsmanship and gold weight make it worth 100 gold pieces.",
+    "source_quote": "Found on the warlock.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potion of Fire Resistance",
+    "fact": "The Potion of Fire Resistance is a magical elixir found on the warlock, intended to protect the user from heat and flames. The warlock had it on his person but panicked and never reached for it during the chaos of the chimera's rampage.",
+    "source_quote": "Found on the warlock.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Masterwork Whip",
+    "fact": "The Masterwork Whip is a high-quality whip woven with alchemically treated red leather, found among the warlock's belongings. While not magical, it is of fine craftsmanship, features a ten-foot reach, and can slow an enemy's movement.",
+    "source_quote": "Found among the warlock's belongings.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Eldritch Blast",
+    "fact": "Eldritch Blast is beams of crackling energy fired by the Fire Temple warlock at Sequioa, dealing significant damage early in the fight.",
+    "source_quote": "Beams of crackling energy fired by the Fire Temple warlock at Sequioa, dealing significant damage early in the fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Healing Word",
+    "fact": "Healing Word is a quick divine incantation used by Calmer on two separate occasions during the battle \u2014 first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death.",
+    "source_quote": "A quick divine incantation used by Calmer on two separate occasions during the battle \u2014 first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death.",
+    "quote_verified": true
+  },
+  {
+    "type": "spell",
+    "subject": "Toll the Dead",
+    "fact": "Toll the Dead is a necrotic spell cast by Calmer that manifests as the sound of a melancholy tolling bell. It was used multiple times during the fight and ultimately delivered the final, fatal blow to the wounded Chimera.",
+    "source_quote": "A necrotic spell cast by Calmer that manifests as the sound of a melancholy tolling bell. It was used multiple times during the fight and ultimately delivered the final, fatal blow to the wounded Chimera.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a spellcaster who used Healing Word and Toll the Dead during the battle, restoring Sequioa and Zephyr to consciousness and delivering the final blow to the Chimera.",
+    "source_quote": "A quick divine incantation used by Calmer on two separate occasions during the battle \u2014 first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death. Toll the Dead... ultimately delivered the final, fatal blow to the wounded Chimera.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a combatant who managed to rip the chain from the Fire Temple warlock's hands during the fight.",
+    "source_quote": "Zephyr managed to rip the chain from the warlock's hands during the fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa is a target of the Fire Temple warlock's Eldritch Blast and was restored to consciousness by Calmer's Healing Word.",
+    "source_quote": "Beams of crackling energy fired by the Fire Temple warlock at Sequioa... Healing Word... first to restore Sequioa to consciousness.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is an organization that paid in full for the purchase of the Chimera, as documented in the Warlock's Ledger, and possesses the Fire Temple Amulet and other artifacts tied to its rituals.",
+    "source_quote": "A bill of sale from Captain Varsik of the Crimson Trader detailing the purchase of the chimera, paid in full by the Fire Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is an organization connected to Vesrek, an ally of its prophet Belsornig, who is linked to the Fire Temple's acquisition of the Chimera.",
+    "source_quote": "It also revealed a connection to Vesrek, an ally of the Water Temple's prophet Belsornig.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Nulb's River Pirates",
+    "fact": "Nulb's River Pirates are a criminal organization whose marks were stamped on the chains used to control the Chimera, indicating payment for the monster's delivery.",
+    "source_quote": "The chains were later found stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb was paid to deliver the monster.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Chimera",
+    "fact": "The Chimera is a monstrous creature controlled by the Fire Temple warlock using an iron collar and chains, and was ultimately killed by Calmer's Toll the Dead after being wounded in battle.",
+    "source_quote": "The Fire Temple warlock to control and goad the Chimera into battle... ultimately delivered the final, fatal blow to the wounded Chimera.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is the organization associated with the warlock, the amulet, the ledger, and the use of the Chimera as a weapon.",
+    "source_quote": "Found on the Fire Temple warlock... paid in full by the Fire Temple.",
+    "quote_verified": false
+  }
+]

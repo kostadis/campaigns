@@ -1,0 +1,429 @@
+[
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag woke the party after eight hours of rest with urgent news about Lieutenant Krell's betrayal.",
+    "source_quote": "Romag woke the party after eight hours of rest with urgent news.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell fled to the gnoll and bugbear territories, plotting rebellion against the Earth Temple.",
+    "source_quote": "The traitor had been discovered\u2014Lieutenant Krell had fled to the gnoll and bugbear territories, plotting rebellion against the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Earth Temple plan to trap Krell",
+    "fact": "Romag outlined a plan to trap Lieutenant Krell by having Earth Temple forces guard the entrance and exit while the party approached from behind through gnoll-infested territory.",
+    "source_quote": "Romag outlined a plan to trap the traitor: Earth Temple forces would guard the entrance and exit while the party approached from behind through the dangerous gnoll-infested area.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Rumors spread that Romag was a new and inexperienced leader trying to prove himself.",
+    "source_quote": "As the party prepared for their mission, they overheard rumors about Romag being a new and inexperienced leader trying to prove himself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was known for micromanaging and lacking the cleverness of his predecessor.",
+    "source_quote": "known for micromanaging and lacking the cleverness of his predecessor",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag's predecessor",
+    "fact": "Romag's predecessor had been promoted to the deep temple.",
+    "source_quote": "who had been promoted to the deep temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple's strategy relied on overwhelming enemies with masses of low-level troops.",
+    "source_quote": "The Earth Temple's strategy relied on overwhelming enemies with masses of low-level troops rather than the powerful monsters employed by the Fire, Water, and Air Temples.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party persuades guards to assault gnolls",
+    "fact": "The party devised a strategy to convince Earth Temple guards to mount a frontal assault on the gnolls as a distraction.",
+    "source_quote": "The party devised a clever strategy to convince the Earth Temple guards to mount a frontal assault on the gnolls as a distraction.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "guards' assault on gnolls fails",
+    "fact": "When the guards advanced into gnoll territory, they were ambushed and slaughtered.",
+    "source_quote": "disaster struck. Screams of \"It's a trap!\" echoed through the corridors as the gnolls sprang their ambush, catching the guards in nets and slaughtering them mercilessly.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gnolls",
+    "fact": "Gnolls fed on the fallen Earth Temple guards.",
+    "source_quote": "Zinnia and Zephyr crept forward to investigate and witnessed a horrifying scene of gnolls feeding on the fallen guards.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer summons spectral guardians",
+    "fact": "Calmer cast powerful magic that summoned spectral guardians to devastate the clustered gnolls.",
+    "source_quote": "Calmer casting powerful magic that summoned spectral guardians to devastate the clustered enemies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell encouraged the gnolls during the ambush, revealing his betrayal.",
+    "source_quote": "As they fought, they heard Lieutenant Krell's voice encouraging the gnolls, revealing his betrayal: \"I told you they would try to kill you. The Fire Temple protects its own.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Krell's hand crossbow contraption",
+    "fact": "Lieutenant Krell wielded a peculiar hand crossbow contraption\u2014a pistol of his own devising.",
+    "source_quote": "wielding a peculiar hand crossbow contraption\u2014a pistol of his own devising",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Krell knocks Calmer unconscious",
+    "fact": "Krell fired his hand crossbow twice at Calmer, knocking the cleric unconscious with devastating shots.",
+    "source_quote": "firing twice and knocking the cleric unconscious with devastating shots.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa revives Calmer",
+    "fact": "Sequioa revived Calmer with a healing potion.",
+    "source_quote": "Sequioa quickly revived Calmer with a healing potion",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer thanked Sequioa for his loyalty after being revived.",
+    "source_quote": "and the grateful cleric thanked him for his loyalty.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Krell offers alliance to party",
+    "fact": "Krell offered to join forces with the party to destroy the Earth Temple and be hailed as heroes by the Fire Temple under Alremm.",
+    "source_quote": "He argued that the Earth Temple used its followers as mere cannon fodder, while the Fire Temple under Alremm valued power and glory, offering to join forces to destroy the Earth Temple and be hailed as heroes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party rejects Krell's offer",
+    "fact": "The party rejected Krell's offer to join forces with the Fire Temple.",
+    "source_quote": "The party rejected his offer, choosing to remain loyal to Romag.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party subdues Krell non-lethally",
+    "fact": "The party attacked Krell carefully, using non-lethal strikes to subdue him rather than kill him, as Romag had demanded he be brought back alive.",
+    "source_quote": "They attacked Krell carefully, using non-lethal strikes to subdue him rather than kill him, as Romag had demanded he be brought back alive.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa knocks Krell unconscious",
+    "fact": "Sequioa delivered the final blow that knocked Krell unconscious.",
+    "source_quote": "Sequioa delivered the final blow that knocked Krell unconscious.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "platinum pieces",
+    "fact": "Platinum pieces were hidden in a brazier in Krell's quarters.",
+    "source_quote": "discovering considerable treasure including platinum pieces hidden in a brazier",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold",
+    "fact": "Gold was found among Krell's treasure.",
+    "source_quote": "discovering considerable treasure including platinum pieces hidden in a brazier, gold",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "three-dragon ante set",
+    "fact": "A three-dragon ante set was found among Krell's treasure.",
+    "source_quote": "discovering considerable treasure including platinum pieces hidden in a brazier, gold, a three-dragon ante set",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "flasks of oil",
+    "fact": "Flasks of oil were found among Krell's supplies.",
+    "source_quote": "discovering considerable treasure including platinum pieces hidden in a brazier, gold, a three-dragon ante set, and useful supplies like flasks of oil.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "secret door (Krell's area)",
+    "fact": "A secret door leading deeper into the complex was found in Krell's quarters.",
+    "source_quote": "They also found a secret door leading deeper into the complex.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party brings Krell to Romag",
+    "fact": "The party brought the bloodied and unconscious Krell before Romag.",
+    "source_quote": "With their prisoner secured, they brought the bloodied and unconscious Krell before Romag",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was immensely pleased with the party's success in capturing Krell.",
+    "source_quote": "who was immensely pleased with their success.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag orders ritual sacrifice",
+    "fact": "Romag ordered the party to attend a ritual sacrifice in the great chamber to witness the consequences of betrayal.",
+    "source_quote": "He declared that everyone must witness the consequences of betrayal and ordered the party to attend a ritual sacrifice in the great chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "ritual chamber",
+    "fact": "The ritual chamber had rough-hewn sandstone walls and a floor of dark brown earth.",
+    "source_quote": "They entered a vast ritual chamber with rough-hewn sandstone walls and a floor of dark brown earth",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "ritual chamber",
+    "fact": "The ritual chamber was dimly illuminated by phosphorescent lichen.",
+    "source_quote": "dimly illuminated by phosphorescent lichen.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "ritual chamber",
+    "fact": "At the center of the ritual chamber stood a twenty-foot pyramid of hard-packed dirt topped with a stone column bearing carved triangles and bronze knives.",
+    "source_quote": "At the center stood a twenty-foot pyramid of hard-packed dirt topped with a stone column bearing carved triangles and bronze knives.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag chants to earth god",
+    "fact": "Romag stood atop the pyramid and began chanting to the elder elemental earth god.",
+    "source_quote": "Romag stood atop the pyramid and began chanting to the elder elemental earth god",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag shoves dirt into Krell's mouth",
+    "fact": "Romag shoved dirt into Krell's mouth as the traitor screamed about being tricked.",
+    "source_quote": "shoving dirt into Krell's mouth as the traitor screamed about being tricked.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "earth elementals",
+    "fact": "Four massive earth elementals rose from the ground at Romag's command.",
+    "source_quote": "Four massive earth elementals rose from the ground at Romag's command",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "earth elementals kill Krell",
+    "fact": "The earth elementals tore Krell's body apart in a gruesome display of the Earth Temple's brutal justice.",
+    "source_quote": "the elementals tore Krell's body apart in a gruesome display of the Earth Temple's brutal justice",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "earth elementals return to earth",
+    "fact": "The earth elementals descended back into the earth after killing Krell.",
+    "source_quote": "before descending back into the earth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party feigns enthusiasm during ritual",
+    "fact": "The party carefully blended in with the cheering crowd, feigning enthusiasm for the ritual sacrifice to avoid suspicion.",
+    "source_quote": "The party carefully blended in with the cheering crowd, feigning enthusiasm for the horrific spectacle to avoid suspicion.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag and Hartsch discuss losses",
+    "fact": "Romag and Hartsch discussed how the defeat had cost valuable resources and weakened their plans to overwhelm the Fire Temple.",
+    "source_quote": "overhearing them discuss how the defeat had cost valuable resources and weakened their plans to overwhelm the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch suggested using the party as weapons against the Fire or Air Temple.",
+    "source_quote": "Hartsch suggested they could use their new allies\u2014the party\u2014as weapons against the Fire or Air Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag disappears through secret door",
+    "fact": "Romag disappeared through a secret door after the ritual.",
+    "source_quote": "The party noticed Romag disappearing through a secret door",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "charred library",
+    "fact": "The party found a charred library filled with burned books on evil philosophy, double-dealing, self-advancement, and treachery.",
+    "source_quote": "Their exploration led them to a charred library filled with the burned remains of books on evil philosophy, double-dealing, self-advancement, and treachery.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "sacred earth triangle",
+    "fact": "References to the sacred earth triangle were found among the burned books.",
+    "source_quote": "among the remnants, they found references to the sacred earth triangle",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "warnings about earthy terrors",
+    "fact": "Warnings about trials of earthy terrors awaiting the foolhardy in the depths below were found in the burned books.",
+    "source_quote": "and warnings about trials of earthy terrors awaiting the foolhardy in the depths below.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "secret door (library area)",
+    "fact": "Another secret door was discovered in the charred library area.",
+    "source_quote": "They discovered another secret door before continuing their investigation.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "four guards",
+    "fact": "Four guards challenged the party in the temple corridor.",
+    "source_quote": "Eventually, they encountered four guards who challenged them",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party identifies as new recruits",
+    "fact": "The party identified themselves as new Earth Temple recruits to the guards.",
+    "source_quote": "but the party identified themselves as new Earth Temple recruits.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "guards mention Krell's death and promotion opportunities",
+    "fact": "The guards mentioned that Krell's death had created opportunities for promotion within the temple.",
+    "source_quote": "The guards mentioned rumors about Krell's death creating opportunities for promotion",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Commander Joradin",
+    "fact": "Commander Joradin arrived and questioned the party's presence in his area.",
+    "source_quote": "Commander Joradin arrived and questioned the party's presence in his area.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Commander Joradin",
+    "fact": "Commander Joradin asserted his authority over his section of the temple and ordered the party to return to their quarters.",
+    "source_quote": "he asserted his authority over that section of the temple and ordered them to return to their quarters.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Commander Joradin",
+    "fact": "Commander Joradin was a new recruit brought in by Dick Rentsch.",
+    "source_quote": "Romag... explained that Joradin was a new recruit brought in by Dick Rentsch",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Commander Joradin",
+    "fact": "Commander Joradin didn't yet understand how things worked in the Earth Temple.",
+    "source_quote": "who didn't yet understand how things worked in the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Romag grants party territory",
+    "fact": "Romag granted the party the territory they had cleared of gnolls and bugbears as their own base within the Earth Temple.",
+    "source_quote": "Romag granted them the territory they had cleared of gnolls and bugbears as their own base within the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "written permission",
+    "fact": "Romag provided the party with written permission to explore freely.",
+    "source_quote": "He provided them with written permission to explore freely",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag warned the party sternly not to betray his trust.",
+    "source_quote": "and warned them sternly not to betray his trust.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple territory",
+    "fact": "The Earth Temple's territory extended throughout specific areas of the complex.",
+    "source_quote": "He explained that the Earth Temple's territory extended throughout specific areas of the complex",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party controls territory",
+    "fact": "The party now controlled a significant portion of the Earth Temple's territory.",
+    "source_quote": "and the party now controlled a significant portion of it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "promotion through rivalry",
+    "fact": "Romag cautioned that having territory made the party targets, as promotion within the temple often came by stepping over the bodies of rivals.",
+    "source_quote": "However, he also cautioned that having territory made them targets, as promotion within the temple often came by stepping over the bodies of rivals.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party infiltrates Earth Temple",
+    "fact": "The party successfully infiltrated the Temple of Elemental Evil.",
+    "source_quote": "The party had successfully infiltrated the Temple of Elemental Evil",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party earns Romag's trust",
+    "fact": "The party earned Romag's trust by capturing Lieutenant Krell alive.",
+    "source_quote": "earned Romag's trust",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party establishes base",
+    "fact": "The party established their own base of operations deep within the Earth Temple.",
+    "source_quote": "and established their own base of operations deep within the enemy stronghold",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "mission of espionage and sabotage",
+    "fact": "The party positioned themselves to continue their dangerous mission of espionage and sabotage.",
+    "source_quote": "positioning themselves perfectly to continue their dangerous mission of espionage and sabotage.",
+    "quote_verified": true
+  }
+]

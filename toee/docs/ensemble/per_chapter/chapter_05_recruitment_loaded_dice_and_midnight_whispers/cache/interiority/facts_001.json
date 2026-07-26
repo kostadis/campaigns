@@ -1,0 +1,1654 @@
+[
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer insists they must go to the Prefect and inform him of what has happened.",
+    "source_quote": "Calmer insists, \u201cWe must go to the Prefect and inform him of what has happened!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr asks why Terjon wants to keep a worthless rock.",
+    "source_quote": "Zephyr smiles sweetly, \u201cIf this rock is so worthless, why keep it?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Terjon",
+    "fact": "Terjon tosses the rock to Zephyr and admits it is worthless.",
+    "source_quote": "Terjon mutters as it flies through the air, \u201cYou\u2019re right. It is worthless.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realizes the militiamen have orders to bring the four to Burne and Refus.",
+    "source_quote": "They are local militia members and have orders to bring the four to Burne and Refus, who are currently drinking at the Inn of the Welcome Wench.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Burne",
+    "fact": "Burne mutters in disbelief upon seeing the rock.",
+    "source_quote": "Burne mutters, \u201cThis is it?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rufus",
+    "fact": "Rufus reveals the blueprints are missing and returned with charcoal dust.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you. I was recently examining the blueprints for the keep and found them missing. My architect had no idea where they went. When I rechecked them later, they had returned, but there were traces of charcoal dust on them. I suspect that someone has copied our blueprints.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr thinks other than half the village, the secret is already out.",
+    "source_quote": "Zephyr thinks, \u201cOther than half the village.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler asks if the Druid likes the adventurers.",
+    "source_quote": "\u201cI also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler informs the adventurers of the three-night minimum stay and sale policy for abandoned goods.",
+    "source_quote": "\u201cSo that you know; adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jaroo",
+    "fact": "Jaroo admonishes the adventurers to go deeper into the moathouse and find more evidence.",
+    "source_quote": "\u201cYou must go deeper into the moathouse and find more evidence,\u201d he admonishes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia tells Jaroo the truth about who they\u2019ve spoken to.",
+    "source_quote": "Zinia realizes this town has no secrets, and he tells the truth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter says the council members are Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter expects the adventurers to come to him first going forward.",
+    "source_quote": "Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler offers a job to prove Furnoc steals from guests, with free rooms as incentive.",
+    "source_quote": "he explains that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests. To sweeten the pot, he offers free rooms for three nights.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia discovers the dice are loaded and declares it proof.",
+    "source_quote": "As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elmo",
+    "fact": "Elmo declares himself the person to help find the monster in the Gnarley forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia overhears that Lysia wants to explore the ruined boathouse.",
+    "source_quote": "Overhearing one pair, he learns that a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia overhears about a secret passage under the inn leading to four lost chambers.",
+    "source_quote": "From another person, he hears, \u201cThere is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir offers to join the party and split treasures if he gets first crack at arcane scrolls.",
+    "source_quote": "I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir asks to join the quartet.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia says Spugnoir is very familiar.",
+    "source_quote": "Sequoia laughs, \u201cSomehow, you are very familiar.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mickey",
+    "fact": "Mickey reports seeing cloaked people behind the brewery at midnight.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Mickey",
+    "fact": "Mickey fears the temple isn't as dead as everyone thought and suspects spies.",
+    "source_quote": "the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr puts his sword to the throat of the smaller spy.",
+    "source_quote": "Zephyr quickly advances on them, his sword in his right hand, and puts the blade to the throat of the smaller of the two\u2014the spy shrieks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jira",
+    "fact": "Jira explains she and Marek are forbidden from being together due to religious conflict.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Jira",
+    "fact": "Jira pleads with Zinia to help them talk to their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Airgid",
+    "fact": "Airgid shouts \u201cHOME!\u201d as she recognizes her home near the Lotrimil mountains.",
+    "source_quote": "The dragon suddenly shouts, \u201cHOME!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Airgid",
+    "fact": "Airgid promises her mommy will reward the heroes.",
+    "source_quote": "Don\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir accepts being left behind and says \u201cVery well.\u201d",
+    "source_quote": "Spugnoir has that crushed look... He smiles, \u201cVery well.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia points to the tower they ignored last time.",
+    "source_quote": "Zinia points to the tower that they ignored last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia and Zephyr",
+    "fact": "Sequoia and Zephyr notice a faint gleam of coins on the tower floor.",
+    "source_quote": "Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia finds an ivory box among the treasures.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter's residence",
+    "fact": "The residence has an eight-foot-high stone wall and a heavy gate.",
+    "source_quote": "They open the gate and step inside. Looking around, Zinia quickly discovers that the compound has five families... It is the residence of some well-to-do folk and easily defensible in times of trouble.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Inn of the Welcome Wench",
+    "fact": "The inn has a secret passage below it leading to four lost chambers of a long-dead wizard.",
+    "source_quote": "From another person, he hears, \u201cThere is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows contains a lost wizard laboratory.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Moathouse",
+    "fact": "The moathouse contains a tower with collapsed upper portion and a courtyard with coins.",
+    "source_quote": "The upper portion of the tower has collapsed, and the interior is dark. Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The brewery",
+    "fact": "Cloaked people have been seen lurking behind the brewery at midnight.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Gnarley Forest",
+    "fact": "The Gnarley Forest is rumored to contain a monster.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The ruined boathouse",
+    "fact": "The ruined boathouse is a place Lysia wants to explore.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne is Elder Kenter\u2019s second son with natural curiosity about unusual behavior.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a drunk adventurer and ranger by profession.",
+    "source_quote": "Sequoia realizes that this is Elmo. He also smells the stench of booze on him: \u201cA drunk.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Furnoc",
+    "fact": "Furnoc is accused of stealing from the Inn\u2019s guests.",
+    "source_quote": "Ostler explains that his job offer is to prove that Furnoc is a crook who steals from the Inn\u2019s guests.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the old faith and opposes Jira\u2019s relationship with Marek.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is the tailor and a member of the Church of St. Cuthbert, and Marek\u2019s father.",
+    "source_quote": "...Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Zeb Fletcher",
+    "fact": "Captain Zeb Fletcher is on the council and father of Elmo and Mytch the Miller.",
+    "source_quote": "Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kenter",
+    "fact": "Kenter is the village elder with uncommon wisdom.",
+    "source_quote": "Standing in the middle of the room is an older man with white hair who looks reasonably fit and whose eyes show uncommon wisdom.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler is the innkeeper who enforces the three-night stay policy.",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a teenager who wants to be with Marek despite religious conflict.",
+    "source_quote": "The girl introduces herself as Jira...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a teenager whose father is Tomlyn and who is forbidden from being with Jira.",
+    "source_quote": "The boy introduces himself as Marek.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The blueprints' true origin",
+    "fact": "The blueprints returned with charcoal dust, but their true origin and the identity of the copier remain unknown.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you... I suspect that someone has copied our blueprints.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The cloaked figures' identity",
+    "fact": "The cloaked people behind the brewery are suspected to be spies, but their allegiance and purpose are unconfirmed.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight... maybe, those are, uh, spies.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The dragon's mommy",
+    "fact": "Airgid promises her mommy will reward the heroes, but her mommy's identity and whereabouts are unspecified.",
+    "source_quote": "Don\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The temple's true state",
+    "fact": "Rumors suggest the temple isn't as dead as believed, but its current condition and activity are unverified.",
+    "source_quote": "the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The lost wizard's identity",
+    "fact": "The wizard whose laboratory is under Emiry Meadows and whose chambers lie below the inn is unnamed and unknown.",
+    "source_quote": "an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The bandit-saboteur connection",
+    "fact": "Rufus suspects the thief worked with the bandits, but the exact identity and location of the saboteur remain hidden.",
+    "source_quote": "I am convinced it is one of the workers in the encampments.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Druid's opinion",
+    "fact": "Ostler questions whether the Druid likes the adventurers, but the Druid\u2019s actual feelings are never stated.",
+    "source_quote": "\u201cI also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The stone's true nature",
+    "fact": "The stone found on the bandit's body was dismissed as worthless, but its origin and potential magical properties remain unexamined.",
+    "source_quote": "Terjon says, \u201cI would like to keep this worthless rock.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The secret of the ivory box",
+    "fact": "The ivory box found in the tower is recovered, but its contents and significance are not yet revealed.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the cloaked figures",
+    "fact": "The two teenagers Jira and Marek were mistaken for spies, but their true identity as forbidden lovers was only revealed after confrontation.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The fate of the blueprints' original creator",
+    "fact": "The architect who lost the blueprints has no idea where they went, and their fate remains unknown.",
+    "source_quote": "My architect had no idea where they went.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter toasts, \u201cThe Blessings of Beory.\u201d",
+    "source_quote": "When the Elder gets his glass, he coughs and toasts, \u201cThe Blessings of Beory.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia mutters that they should talk to the village elder.",
+    "source_quote": "\u201cWe should go talk to the village elder,\u201d mutters Zinia.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia notices how two sons carefully groom the horses.",
+    "source_quote": "Sequoia notices how two sons carefully groom the horses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr smiles and says \u201cNo problem.\u201d when offered the job to catch Furnoc.",
+    "source_quote": "Zephyr smiles, \u201cNo problem.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr falls on the table to create a distraction.",
+    "source_quote": "So he falls on the table that Furnok is sitting on, causing the table to tip over.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia grabs the dice and declares them loaded.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elmo",
+    "fact": "Elmo shouts, \u201cGet out of here, Furnok, or I\u2019ll have to call the Captain.\u201d",
+    "source_quote": "A burly, muscular man sitting at another table shouts, \u201cGet out of here, Furnok, or I\u2019ll have to call the Captain, and he won\u2019t be as kindly as Ostler is.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir says, \u201cTomorrow then, as it is quite late!\u201d",
+    "source_quote": "\u201cTomorrow then, as it is quite late!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mickey",
+    "fact": "Mickey whispers, \u201cRumor has it that you are the right people to go to if there is a problem.\u201d",
+    "source_quote": "a young man walks up to them and whispers, \u201cRumor has it that you are the right people to go to if there is a problem.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr asks, \u201cWhat\u2019s going on?\u201d after capturing the spies.",
+    "source_quote": "And then he asks, \u201cWhat\u2019s going on?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia snarls, \u201cGo away.\u201d",
+    "source_quote": "Zinia snarls and tells them to go away.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia struggles to sleep thinking about Zephyr and the teenagers.",
+    "source_quote": "Sequoia struggles to sleep as he thinks about Zephyr looking confused and the two teenagers squealing.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer asks, \u201cWhat do we want to check out?\u201d",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Duke",
+    "fact": "The Duke says, \u201cI hope I see you again.\u201d",
+    "source_quote": "\u201cI hope I see you again.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr hands over the rock to Burne and Rufus.",
+    "source_quote": "Zephyr hands over the rock.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cOf course.\u201d",
+    "source_quote": "Zephyr thinks, \u201cOther than half the village.\u201d And then he says, \u201cOf course.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cIt is good that you came here.\u201d",
+    "source_quote": "he turns to the trio and says in a grandfatherly voice, \u201cIt is good that you came here.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cDon\u2019t worry,\u201d to Sequoia\u2019s silent protest.",
+    "source_quote": "Sequoia is tempted to protest, but Kenter continues, \u201cDon\u2019t worry, whenever anyone does something out of the ordinary...\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia mutters, \u201cWell, that was interesting.\u201d",
+    "source_quote": "\u201cWell, that was interesting,\u201d mutters Zinia.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler says, \u201cI\u2019ll believe it when he says so,\u201d about the Druid\u2019s opinion.",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rufus",
+    "fact": "Rufus says, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "source_quote": "I am convinced it is one of the workers in the encampments.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Burne",
+    "fact": "Burne says, \u201cAnd keep this quiet. We don\u2019t want to tell anyone.\u201d",
+    "source_quote": "Burne stretches and says, \u201cAnd keep this quiet. We don\u2019t want to tell anyone.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir says, \u201cI would like to go adventuring with you and complete your quartet.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cYou must be joking!\u201d about Spugnoir\u2019s offer.",
+    "source_quote": "\u201cYou must be joking!\u201d The trio stares at him, confused.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia says, \u201cSure.\u201d to Spugnoir\u2019s request.",
+    "source_quote": "Sequoia laughs, \u201cSomehow, you are very familiar.\u201d He then pauses, \u201cSure.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cNo problem.\u201d when offered free rooms.",
+    "source_quote": "Zephyr smiles, \u201cNo problem.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Ostler",
+    "fact": "Ostler says, \u201cSo that you know; adventurers have a minimum three-night stay at the Inn.\u201d",
+    "source_quote": "\u201cSo that you know; adventurers have a minimum three-night stay at the Inn.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cThe people you spoke to are on the council.\u201d",
+    "source_quote": "The people you spoke to are on the council.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cThe council members are Jaroo, Rufus, Burne, Ostler... and Captain Zeb Fletcher.\u201d",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cWe must address it with utmost urgency.\u201d",
+    "source_quote": "The bandit activity surge is alarming. It's not just an economic issue; it's a threat to the safety and stability of our village. We must address it with utmost urgency.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cBurne and Rufus have shown remarkable leadership.\u201d",
+    "source_quote": "Burne and Rufus have shown remarkable leadership and strategic acumen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cOur unified leadership is our greatest strength.\u201d",
+    "source_quote": "Our unified leadership is our greatest strength.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kenter",
+    "fact": "Kenter says, \u201cBy working together, Burne, Rufus, Captain Fletcher, and I can coordinate our efforts.\u201d",
+    "source_quote": "By working together, Burne, Rufus, Captain Fletcher, and I can coordinate our efforts and ensure a comprehensive response to the bandit menace.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cI also noticed that you didn\u2019t talk to the Druid.\u201d",
+    "source_quote": "\u201cI also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cYes, he does,\u201d about the Druid\u2019s opinion.",
+    "source_quote": "\u201cYes, he does,\u201d insists Zephyr.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia gets up and heads to the door after hearing Ostler\u2019s comment.",
+    "source_quote": "Zinia gets the point and gets up, heading to the door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cWe should go talk to the village elder.\u201d",
+    "source_quote": "\u201cWe should go talk to the village elder,\u201d mutters Zinia.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia says, \u201cOf course.\u201d",
+    "source_quote": "Zephyr thinks, \u201cOther than half the village.\u201d And then he says, \u201cOf course.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cYou\u2019re right. It is worthless.\u201d",
+    "source_quote": "Terjon mutters as it flies through the air, \u201cYou\u2019re right. It is worthless.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cThere is a monster in the Gnarley forest.\u201d",
+    "source_quote": "Zephyr smiles, \u201cThere is a monster in the Gnarley forest, and we will need someone to help us find it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cNo problem.\u201d",
+    "source_quote": "Zephyr smiles, \u201cNo problem.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cWhat\u2019s going on?\u201d",
+    "source_quote": "And then he asks, \u201cWhat\u2019s going on?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cYou must go deeper into the moathouse.\u201d",
+    "source_quote": "\u201cYou must go deeper into the moathouse and find more evidence,\u201d he admonishes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI\u2019ll believe it when he says so.\u201d",
+    "source_quote": "I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI hope she can swing a sword better than she can plow a field.\u201d",
+    "source_quote": "The person hearing the tale turns to his companion and replies, \u201c I hope she can swing a sword better than she can plow a field.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know the location of a lost wizard laboratory.\u201d",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI would like to go adventuring with you.\u201d",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI see Burne and Rufus like you.\u201d",
+    "source_quote": "Ostler, the innkeeper, sits at the table \u2014 \u201cI see Burne and Rufus like you.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am convinced.\u201d",
+    "source_quote": "Rufus whispers, \u201cI am convinced it is one of the workers in the encampments.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI am your person!\u201d",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr says, \u201cI know she will.\u201d",
+    "source_quote": "Airgid shouts, \u201cI KNOW SHE WILL!\u201d",
+    "quote_verified": false
+  }
+]

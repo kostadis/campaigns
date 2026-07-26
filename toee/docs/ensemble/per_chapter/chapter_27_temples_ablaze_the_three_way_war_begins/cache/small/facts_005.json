@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was the high priest of the Earth Temple, assassinated during the attack; his vestments were seized by Hartsch, who claimed authority as Supreme Prophet.",
+    "source_quote": "After the assassination, Hartsch seized them and held them aloft before the gathered cultists to symbolize his new authority as Supreme Prophet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch seized Romag's vestments after the assassination and declared himself Supreme Prophet of the Earth Temple.",
+    "source_quote": "After the assassination, Hartsch seized them and held them aloft before the gathered cultists to symbolize his new authority as Supreme Prophet.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer used Toll the Dead twice during the session: once to kill the Chimera during the night attack, and again to wither Romag's body and end his life during the assassination; he also cast Guidance to bolster the party's stealth and attempted Guiding Bolt against Romag before switching tactics.",
+    "source_quote": "Toll the Dead... used twice in this session: first to deliver the killing blow to the Chimera during the night attack, and again to wither Romag's body and end his life during the assassination. Guidance... cast by Calmer to bolster the party's competence... Guiding Bolt attempted by Calmer during the struggle against Romag before he switched to a different approach.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr cast Thaumaturgy to slam shut the unlocked doors of Romag's chamber, sealing the room and preventing guards from intervening during the assassination.",
+    "source_quote": "Thaumaturgy cast by Zephyr to cause the unlocked doors of Romag's chamber to slam shut, sealing the room and preventing guards from intervening during the assassination.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple purchased the Chimera from Captain Vesrek of the Crimson Traitor and used it in an attack; they are revealed to have been manipulated by the Water Temple's scheme.",
+    "source_quote": "A document bearing the crest of a crimson ship... detailed the purchase of the Chimera by the Fire Temple from Captain Vesrek of the Crimson Traitor, and crucially contained the name Belsornig\u2014an ally of the Water Temple\u2014revealing that the Water Temple had orchestrated the entire affair as a calculated win-win scheme.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple orchestrated the entire affair as a calculated win-win scheme, using the name Belsornig as an ally to manipulate events and frame the Fire Temple.",
+    "source_quote": "A document bearing the crest of a crimson ship... contained the name Belsornig\u2014an ally of the Water Temple\u2014revealing that the Water Temple had orchestrated the entire affair as a calculated win-win scheme.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple lost its high priest Romag to assassination; his vestments were seized by Hartsch, who claimed leadership.",
+    "source_quote": "Romag's Vestments... After the assassination, Hartsch seized them and held them aloft before the gathered cultists to symbolize his new authority as Supreme Prophet.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Chimera",
+    "fact": "The Chimera was a creature purchased by the Fire Temple and controlled via a masterwork red leather whip and iron collar stamped with Nulb's river pirate marks; it was killed twice: once by Calmer's Toll the Dead during the night attack, and its body was later withered again by the same spell during Romag's assassination.",
+    "source_quote": "It detailed the purchase of the Chimera by the Fire Temple... Heavy iron restraints used to lead and control the Chimera, stamped with the marks of Nulb's river pirates... Toll the Dead... first to deliver the killing blow to the Chimera during the night attack, and again to wither Romag's body and end his life during the assassination.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Wax-sealed ledger",
+    "fact": "A document found on the warlock's charred remains, bearing the crest of a crimson ship, detailing the purchase of the Chimera by the Fire Temple from Captain Vesrek of the Crimson Traitor and revealing Belsornig as a Water Temple ally.",
+    "source_quote": "A document bearing the crest of a crimson ship, found on the warlock's charred remains. It detailed the purchase of the Chimera by the Fire Temple from Captain Vesrek of the Crimson Traitor, and crucially contained the name Belsornig\u2014an ally of the Water Temple\u2014revealing that the Water Temple had orchestrated the entire affair as a calculated win-win scheme.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Eight-pointed Fire Temple amulet",
+    "fact": "A heavy gold amulet bearing the eight-pointed symbol of the Fire Temple, found on the dead warlock's remains, signifying his rank within the temple.",
+    "source_quote": "A heavy gold amulet bearing the eight-pointed symbol of the Fire Temple, found on the dead warlock's remains, signifying his rank within the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Masterwork red leather whip",
+    "fact": "An alchemically treated red leather whip found on the warlock's remains, used to control the Chimera during the attack.",
+    "source_quote": "An alchemically treated whip of red leather, found on the warlock's remains. It was used to control the Chimera during the attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Potion of fire resistance",
+    "fact": "A magical draught found on the warlock's charred remains that he never managed to reach for during the battle.",
+    "source_quote": "A magical draught found on the warlock's charred remains. He never managed to reach for it during the chaos of the battle.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Iron collar and chains",
+    "fact": "Heavy iron restraints stamped with the marks of Nulb's river pirates, used to lead and control the Chimera, revealing that someone in Nulb had been paid to deliver the monster to the temple.",
+    "source_quote": "Heavy iron restraints used to lead and control the Chimera, stamped with the marks of Nulb's river pirates, revealing that someone in Nulb had been paid to deliver the monster to the temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Romag's Vestments",
+    "fact": "The religious garments and symbols of the Earth Temple's high priest, seized by Hartsch after Romag's assassination to symbolize his claim as Supreme Prophet.",
+    "source_quote": "Romag's Vestments... After the assassination, Hartsch seized them and held them aloft before the gathered cultists to symbolize his new authority as Supreme Prophet.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Toll the Dead",
+    "fact": "A necrotic resonance used by Calmer twice: first to kill the Chimera during the night attack, and again to wither Romag's body and end his life during the assassination.",
+    "source_quote": "Toll the Dead... used twice in this session: first to deliver the killing blow to the Chimera during the night attack, and again to wither Romag's body and end his life during the assassination.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Guidance",
+    "fact": "A divine blessing cast by Calmer to bolster the party's competence during their stealthy infiltration, granting a bonus to skill checks such as Sequioa's eavesdropping attempt.",
+    "source_quote": "Guidance... cast by Calmer to bolster the party's competence during their stealthy infiltration, granting a bonus to skill checks such as Sequioa's eavesdropping attempt.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Thaumaturgy",
+    "fact": "Cast by Zephyr to cause the unlocked doors of Romag's chamber to slam shut, sealing the room and preventing guards from intervening during the assassination.",
+    "source_quote": "Thaumaturgy cast by Zephyr to cause the unlocked doors of Romag's chamber to slam shut, sealing the room and preventing guards from intervening during the assassination.",
+    "quote_verified": false
+  },
+  {
+    "type": "spell",
+    "subject": "Guiding Bolt",
+    "fact": "Attempted by Calmer during the struggle against Romag before he switched to a different approach.",
+    "source_quote": "Guiding Bolt attempted by Calmer during the struggle against Romag before he switched to a different approach.",
+    "quote_verified": false
+  }
+]

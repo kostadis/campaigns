@@ -1,0 +1,212 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne is the second son of the Elder who observed the trio's movements from the moathouse and followed them to Jaroo, Terjon, Burne, and Refus, driven by natural curiosity.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler is a council member whom the trio has already met, and who has offered a job to prove Furnoc is a crook who steals from the Inn\u2019s guests, with free rooms as incentive.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok the Fabulous",
+    "fact": "Furnok the Fabulous is a target of Ostler\u2019s accusation of theft from Inn guests; his pickpocketing attempt fails, and he is later confronted by Ostler, who discovers loaded dice.",
+    "source_quote": "his attempt at pick-pocketing Furnok the Fabulous fails... he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is the son of Zeb Fletcher, a drunk adventurer and ranger who is sitting at the Inn, and who volunteers to help the trio find the monster in the Gnarley Forest.",
+    "source_quote": "Sequoia realizes that this is Elmo. He also smells the stench of booze on him: 'A drunk.'... Elmo is an adventurer and a ranger by profession.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a mysterious figure who claims knowledge of a lost wizard laboratory under Emiry Meadows and offers to join the trio as a fourth member in exchange for first pick of arcane scrolls.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows... I would like to go adventuring with you and complete your quartet.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey is the son of Virgil Tamen, the Braumeister, who reports seeing cloaked figures near the brewery at midnight and fears the temple may not be dead, prompting the trio to investigate.",
+    "source_quote": "I'm the son of Virgil Tamen, the Braumeister... I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zeb Fletcher",
+    "fact": "Zeb Fletcher is the father of Elmo and Mytch the Miller, and a council member whose influence is referenced by a patron threatening to call him.",
+    "source_quote": "Captain Zeb Fletcher, father of Elmo and Mytch the Miller... 'I\u2019ll have to call the Captain, and he won\u2019t be as kindly as Ostler is.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora is Kenter\u2019s wife, who brings treats to the table during the Elder\u2019s gathering, symbolizing hospitality and community.",
+    "source_quote": "the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Council",
+    "fact": "The Council consists of Jaroo, Rufus, Burne, and Ostler, with Captain Zeb Fletcher as a key figure; they are the governing body of the village and the target of the Elder\u2019s influence.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler... Captain Zeb Fletcher... the people you spoke to are on the council.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Moathouse",
+    "fact": "The Moathouse is the location from which Hawthorne first observed the trio\u2019s arrival and began following them, suggesting it is a point of surveillance or transition.",
+    "source_quote": "Hawthorne, saw you come from the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Ostler greets the trio, Furnok is accused, Elmo is encountered, and the secret passage beneath the inn is rumored to exist.",
+    "source_quote": "the Inn of the Welcome Wench... greets the trio at the door... the secret passage below the inn...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Brewery",
+    "fact": "The Brewery is the site of suspicious activity reported by Mickey, where cloaked figures are seen at midnight, sparking the trio\u2019s investigation.",
+    "source_quote": "cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows is the rumored location of a lost wizard laboratory, as disclosed by Spugnoir, who offers to guide the trio there.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Gnarley Forest",
+    "fact": "The Gnarley Forest is the location of a rumored monster, which Elmo volunteers to help the trio find.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Ruined Boathouse",
+    "fact": "The Ruined Boathouse is the destination desired by Lysia, the farmer\u2019s daughter, who needs equipment and companions to explore it.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Castle Construction Site",
+    "fact": "The Castle Construction Site is noted by Sequoia for its unusually loud noise during the quiet night, suggesting ongoing hidden activity or magical interference.",
+    "source_quote": "Sequoia notices how much noise the castle construction makes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Furnok\u2019s Dice Discovery",
+    "fact": "Ostler\u2019s attempt to catch Furnok stealing fails, but the loaded dice found during the failed pickpocketing become proof of a deeper conspiracy.",
+    "source_quote": "he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elmo Joins the Group",
+    "fact": "Elmo, a drunken but capable ranger, volunteers to join the trio\u2019s quest to find the monster in the Gnarley Forest, becoming an informal ally.",
+    "source_quote": "I am your person!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir Joins the Quartet",
+    "fact": "Spugnoir offers to join the trio as a fourth adventurer, revealing knowledge of a lost wizard lab and demanding first pick of scrolls, surprising them with familiarity.",
+    "source_quote": "Somehow, you are very familiar... Sure.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mickey\u2019s Report",
+    "fact": "Mickey reports cloaked figures near the brewery at midnight, raising fears that the temple may be active again, prompting the trio to investigate under cover of night.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Night Surveillance at the Brewery",
+    "fact": "The trio sneaks out at midnight to observe the brewery, with Zephyr confronting two cloaked spies, one of whom is captured with a blade to the throat.",
+    "source_quote": "Zephyr quickly advances on them... puts the blade to the throat of the smaller of the two\u2014the spy shrieks.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "The Monster in the Gnarley Forest",
+    "fact": "A mysterious monster is rumored to inhabit the Gnarley Forest, and Elmo claims he is the person to help the trio find it.",
+    "source_quote": "There is a monster in the Gnarley forest...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Loaded Dice",
+    "fact": "The loaded dice found on Furnok are physical evidence of fraud or magical manipulation, and serve as the key proof Ostler seeks.",
+    "source_quote": "he realizes they are loaded\u2014'The proof I needed!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The Secret Passage Beneath the Inn",
+    "fact": "A secret passage beneath the Inn of the Welcome Wench is rumored to lead to four lost chambers of a long-dead wizard, suggesting hidden history and potential treasure.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Temple\u2019s Possible Resurgence",
+    "fact": "Rumors suggest the temple may not be dead, and the cloaked figures at the brewery may be spies, creating an unresolved mystery the trio must investigate.",
+    "source_quote": "the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Spugnoir\u2019s Familiarity",
+    "fact": "Spugnoir\u2019s uncanny familiarity with the trio raises an unresolved question about his past connection to them, hinting at forgotten memories or hidden ties.",
+    "source_quote": "Somehow, you are very familiar.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Wizard Laboratory Under Emiry Meadows",
+    "fact": "Spugnoir\u2019s claim of a lost wizard laboratory under Emiry Meadows introduces a new quest thread, pending verification and exploration.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Four Lost Chambers Beneath the Inn",
+    "fact": "The rumor of four lost chambers beneath the Inn introduces a potential dungeon crawl and historical mystery, awaiting discovery.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Lysia\u2019s Quest to the Ruined Boathouse",
+    "fact": "The farmer\u2019s daughter Lysia\u2019s desire to explore the ruined boathouse introduces a potential side quest involving equipment, companions, and possible dangers.",
+    "source_quote": "a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Tomorrow",
+    "fact": "The trio and Spugnoir agree to begin their joint adventure tomorrow, marking the next phase of their journey.",
+    "source_quote": "Tomorrow then, as it is quite late!",
+    "quote_verified": false
+  }
+]

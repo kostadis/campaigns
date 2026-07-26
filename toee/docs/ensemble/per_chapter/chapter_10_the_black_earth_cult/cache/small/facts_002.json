@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thalsor",
+    "fact": "Thalsor is a druid who wields a stone staff adorned with jagged crystals, commands mud men and a stone golem, and seeks to protect the honey of the Black Earth Temple. He is hostile, manipulative, and capable of conjuring storms of sharp stones and negotiating under duress.",
+    "source_quote": "Thalsor rumbles something about stone, and suddenly two muddy creatures appear... He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem... He conjures up a storm of sharp stones.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a combatant who uses a holy spell to damage the stone golem, leads intimidation attempts against Thalsor, and is actively engaged in the battle against the druid and his constructs.",
+    "source_quote": "Calmer hits it with some kind of holy spell, deals a ton of damage... Calmer leads the charge with that...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a rogue who initiates aggressive attacks on bandits and Thalsor, lands multiple critical hits, and is the primary combatant pressing the assault on Thalsor during the final stages of the battle.",
+    "source_quote": "Sequoia just goes to town on one of the bandits\u2014absolute flurry of attacks... Sequoia\u2019s still hacking away at Thalsor, getting some good hits in.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a combatant who delivers a flurry of blows against the bandits, contributing significantly to their rapid elimination during the battle.",
+    "source_quote": "Zinnia follows, just laying into the bandits with some serious force. Flurry of blows, he calls it, multiple attacks, and the bandits are dropping like flies.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "mud men",
+    "fact": "Two mud men appear beside Calmer during the battle. They are unnatural creatures that explode upon death, creating area-of-effect immobilization effects. They are defeated early in the conflict.",
+    "source_quote": "Suddenly two muddy creatures appear right beside Calmer. Mud men... When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "stone golem",
+    "fact": "A stone golem is summoned by Thalsor when he taps a stone object. It is large, highly resistant to non-magical damage, and remains a persistent threat throughout the battle despite taking heavy damage from Calmer\u2019s holy spell.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem, they call it. Big, tough, and resistant to everything but magical attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "A group of bandits are present at the start of the encounter and are swiftly eliminated by Sequoia and Zinnia with flurry attacks. They are wounded and killed in quick succession.",
+    "source_quote": "Sequoia just goes to town on one of the bandits... Zinnia follows, just laying into the bandits... the bandits are dropping like flies.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Temple",
+    "fact": "The Black Earth Temple is the religious organization to which Thalsor pledges allegiance. It claims the honey as tribute and is central to his motivations and rhetoric.",
+    "source_quote": "That honey now belongs to the Black Earth Temple, a tribute to her enduring might.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "stone staff",
+    "fact": "Thalsor wields a stone staff adorned with jagged crystals, which channels his magic and causes runes on the cavern walls to flare with ominous light.",
+    "source_quote": "his hands tightening around a stone staff adorned with jagged crystals... the runes on the walls flare with an ominous light.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "stone object",
+    "fact": "A mysterious stone object, possibly a focus or artifact, is tapped by Thalsor to summon the stone golem. It is integral to his ability to deploy powerful constructs.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "stone golem summoning",
+    "fact": "Thalsor summons a stone golem by activating a stone object, introducing a major new threat into the battle that requires magical damage to overcome.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive. Stone Golem...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "mud men explosion",
+    "fact": "Upon death, the mud men explode, creating an area-of-effect immobilization hazard that forces the party to dodge or suffer consequences.",
+    "source_quote": "When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "stone storm conjuration",
+    "fact": "Thalsor conjures two waves of sharp stones as offensive spells, each forcing the party to dodge and inflicting damage, wearing them down over time.",
+    "source_quote": "He conjures up a storm of sharp stones... Thalsor brings out another hail of stones.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the honey",
+    "fact": "The honey is the central object of Thalsor\u2019s obsession and the reason for his hostility. He refuses to surrender it and offers to trade instead, suggesting deeper lore or magical significance.",
+    "source_quote": "That honey now belongs to the Black Earth Temple... Offers to trade, anything but giving up the honey.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Thalsor\u2019s true identity",
+    "fact": "Thalsor\u2019s name and origins are uncertain \u2014 referred to as 'whatever his name is' \u2014 suggesting he may be an alias or a figure with hidden history.",
+    "source_quote": "This druid, Thalsor, whatever his name is...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the stone golem\u2019s origin",
+    "fact": "The stone golem\u2019s creation via a simple stone tap implies it may be bound, ancient, or magically linked to the location or Thalsor\u2019s power source \u2014 its true nature is unexplained.",
+    "source_quote": "He taps this stone thing and \u2013 bam! \u2013 it comes alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "cavern",
+    "fact": "The battle takes place in a cavern with runes inscribed on the walls that flare with light when Thalsor activates his staff, indicating magical resonance or ancient enchantments.",
+    "source_quote": "the runes on the walls flare with an ominous light.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occur during a single, continuous encounter with no temporal breaks, implying a single session or scene in play.",
+    "source_quote": "Then it gets properly nasty... Things are far from over.",
+    "quote_verified": false
+  }
+]

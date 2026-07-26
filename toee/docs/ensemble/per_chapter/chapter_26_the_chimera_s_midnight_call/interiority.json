@@ -1,0 +1,415 @@
+[
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia wakes the party after hearing the sound of dragging chains and animalistic roars outside their door.",
+    "source_quote": "Zinnia's sharp senses caught the unmistakable sound of dragging chains and a haunting, animalistic chorus echoing from beyond their southern door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr slips past the rampaging Chimera and rips the control chain from the Fire Temple warlock's hands.",
+    "source_quote": "Zephyr who turned the tide, slipping past the rampaging monster and ripping the control chain clean from the warlock's hands",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer mutters that he has only walking band-aids to offer while healing fallen party members.",
+    "source_quote": "\"I have walking band-aids. That's what I have.\" \u2014 Calmer",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivers a lethal blow to the Fire Temple warlock, silencing him permanently.",
+    "source_quote": "Zinnia silenced him permanently with a flurry of devastating blows",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer invokes necrotic power, ringing out like a funeral bell to slay the Chimera.",
+    "source_quote": "Calmer invoked the tolling resonance of necrotic power that rang out like a funeral bell, dropping the Chimera dead upon the cold stone floor",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa hides behind a chest and launches a precise ranged attack that leaves the Chimera on the brink of collapse.",
+    "source_quote": "Sequioa, having recovered and hidden himself behind a chest, loosed a precise shot that left the Chimera teetering on the very brink of collapse",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch",
+    "fact": "Hartsch implies he would consider himself worthy of leadership if a position were to suddenly open itself.",
+    "source_quote": "\"I would always, if a position were to suddenly have opened itself, I would absolutely like to think that my faith and my leadership qualities would be considered.\" \u2014 Hartsch",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch believes in the destructive, earthquake-like power of the earth and prefers it over Romag's slow erosion style of leadership.",
+    "source_quote": "Hartsch made clear that its elimination would be the true prize... Hartsch expressed his belief in the 'vengeance power of the earth' and a preference for a destructive, earthquake-like leadership style over Romag's slow erosion approach",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Vesrek's role",
+    "fact": "Vesrek is identified in the ledger as the one who arranged the purchase of the Chimera for the Fire Temple, but his full motive and connection to the Water Temple remain unverified.",
+    "source_quote": "the name Vesrek appeared in the document \u2014 an ally of Belsornig, the prophet of the Water Temple \u2014 suggesting the Water Temple had orchestrated the whole affair",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer's true allegiance",
+    "fact": "Zinnia observes Calmer's behavior and questions whether he is genuinely embracing his Earth Temple cover identity or simply acting, but his true loyalties remain unresolved.",
+    "source_quote": "Zinnia observes Calmer's behavior, questioning whether the cleric is genuinely embracing his Earth Temple cover identity or simply acting",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag prefers to lead from behind, viewing himself as a chess king who sends others to fight his battles.",
+    "source_quote": "Romag... prefers to lead from behind, viewing himself as a chess king who sends others to fight his battles",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alrrem",
+    "fact": "Alrrem's power has been waning since the catastrophic defeat at the Battle of Emridy Meadows a decade prior, and the loss of his werewolves and the chimera has left him nearly broken.",
+    "source_quote": "Alrrem's power had been waning since the catastrophic defeat at the Battle of Emridy Meadows a decade prior, and the loss of his werewolves, followed by the ruinous cost of the chimera, had left him nearly broken",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig, the Prophet of the Water Temple, is suspected of orchestrating the Chimera's purchase through his ally Vesrek as a calculated win-win against the Fire and Earth temples.",
+    "source_quote": "Vesrek... was the one who arranged the chimera purchase \u2014 suggesting the Water Temple manipulated the situation as a win-win",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno, the Prophet of the Air Temple, is dismissed by Hartsch as a joke with very little remaining power or territory, reduced to a handful of rooms.",
+    "source_quote": "The Air Temple under the prophet Kelno was dismissed outright as a farcical remnant, reduced to a handful of rooms and no meaningful power",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr manages to snatch up the fallen chain once more in a bold attempt to dominate the Chimera.",
+    "source_quote": "Zephyr managed to snatch up the fallen chain once more in a bold attempt to dominate the creature",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia darted in to deliver a series of precise strikes before retreating to safety.",
+    "source_quote": "Zinnia darted in to deliver a series of precise strikes before retreating to safety",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Chimera",
+    "fact": "The Chimera unleashes a devastating breath of fire upon both the warlock and a nearby bugbear who had tried to intervene.",
+    "source_quote": "The Chimera unleashed a devastating breath of fire upon both the warlock and a nearby bugbear who had tried to intervene, scorching them badly",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Chimera",
+    "fact": "The Chimera turns its full, unhinged fury upon those who remained after being freed from its handler.",
+    "source_quote": "The Chimera, however, was far from finished, and it turned its full, unhinged fury upon those who remained",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr bears the brunt of the Chimera's wrath, suffering a savage onslaught that leaves him crumpled and unconscious.",
+    "source_quote": "Zephyr bore the brunt of the beast's wrath, suffering a savage onslaught of bites and claws that left the rogue crumpled and unconscious",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "The Chimera charges Sequioa before he can finish it, knocking him unconscious with a series of brutal strikes.",
+    "source_quote": "the enraged beast charged him before he could finish it, knocking him unconscious with a series of brutal strikes",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer calls upon divine gifts once more to pull Zephyr back from the edge of death.",
+    "source_quote": "Calmer... called upon his divine gifts once more to pull Zephyr back from the edge of death",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr successfully rips the control chain from the warlock's hands, leaving the warlock screaming in terror at what he had unleashed.",
+    "source_quote": "Zephyr who turned the tide, slipping past the rampaging monster and ripping the control chain clean from the warlock's hands, leaving the man screaming in terror at what he had unleashed",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia uses carefully chosen words and a disarming manner to draw out Hartsch's true feelings about Romag's leadership.",
+    "source_quote": "Zinnia, using carefully chosen words and a disarming manner, drew out Hartsch's true feelings about Romag's passive, erosion-like style of leadership",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch",
+    "fact": "Hartsch makes no effort to hide his belief in the destructive, earthquake-like power of the earth and his desire to wield it.",
+    "source_quote": "Hartsch made no effort to hide his belief in the destructive, earthquake-like power of the earth, nor his desire to wield it",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The origin of the Chimera's chains",
+    "fact": "The heavy iron collar and chains used to control the Chimera are stamped with the marks of Nulb's River Pirates, but the identity of the person who paid them remains unspecified.",
+    "source_quote": "The heavy iron collar and chains used to control the beast were stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb had been paid to deliver the monster to the temple",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The fate of the Fire Temple's leadership",
+    "fact": "Romag orders the party to deal with Alrrem, but whether the party will succeed in assassinating him or merely destabilize his rule remains unresolved.",
+    "source_quote": "Romag ordered the party to deal with Alrrem, the leader of the Fire Temple, declaring that the moment to strike is now",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The party's plan to assassinate Romag",
+    "fact": "The party agrees to assassinate Romag and install Hartsch as the new Earth Temple leader, but whether Hartsch will fulfill their expectations or betray them remains unverified.",
+    "source_quote": "The party quietly agreed that the time for subtlety was nearly over",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia delivers a series of precise strikes before retreating to safety during the Chimera's rampage.",
+    "source_quote": "Zinnia darted in to deliver a series of precise strikes before retreating to safety",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer heals Sequioa after he is overwhelmed by the Chimera and the warlock's magic.",
+    "source_quote": "Calmer uses divine magic to harm the Chimera and heal the fallen Sequioa",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr attempts to use the chain to intimidate and dominate the Chimera, but the beast thwarts the effort.",
+    "source_quote": "Zephyr attempts to use the chain to intimidate and dominate the beast, but the Chimera thwarts the effort",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Chimera",
+    "fact": "The Chimera, now free of its handler, thrashes wildly as its chain whips through the air.",
+    "source_quote": "The Chimera, now free of its handler, thrashed wildly \u2014 its chain whipping through the air as the warlock scrambled desperately to reclaim it",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch",
+    "fact": "Hartsch reveals that Alrrem's power has been waning since the Battle of Emridy Meadows a decade prior.",
+    "source_quote": "Hartsch reveals the history of Alrrem and the Fire Temple's recent financial struggles following the loss of their werewolves and the chimera",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia silences the Fire Temple warlock permanently with a flurry of devastating blows.",
+    "source_quote": "Zinnia silenced him permanently with a flurry of devastating blows",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer invokes necrotic power to slay the Chimera as it stands over the fallen party members.",
+    "source_quote": "Calmer invoked the tolling resonance of necrotic power that rang out like a funeral bell, dropping the Chimera dead upon the cold stone floor",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr successfully snatches the dragging chain from the ground while remaining stealthy.",
+    "source_quote": "Zephyr successfully snatches the dragging chain from the ground while remaining stealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia observes Calmer's behavior and questions his true allegiance to the Earth Temple.",
+    "source_quote": "Zinnia observes Calmer's behavior, questioning whether the cleric is genuinely embracing his Earth Temple cover identity or simply acting",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch",
+    "fact": "Hartsch dismisses the Air Temple and its prophet Kelno as a joke with very little remaining power or territory.",
+    "source_quote": "Hartsch dismisses the Air Temple and its prophet Kelno as a joke with very little remaining power or territory, reduced to a few rooms within the temple",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia uses deception to suggest to Hartsch that he would be a superior leader to Romag.",
+    "source_quote": "The party proposes a plan to trigger a three-way war between the Earth, Fire, and Water temples to weaken all factions. Zinnia uses deception to suggest to Hartsch that he would be a superior leader to Romag",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr manages to snatch up the fallen chain once more in a bold attempt to dominate the Chimera.",
+    "source_quote": "Zephyr managed to snatch up the fallen chain once more in a bold attempt to dominate the creature",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Chimera",
+    "fact": "The Chimera, a horrifying amalgamation of a lion, a goat, and a dragon, is driven by its own savage instinct to hunt, hoard, and destroy.",
+    "source_quote": "The creature was a horrifying amalgamation \u2014 the hindquarters of a great goat, the powerful forequarters of a lion, and the leathery wings of a dragon, each head driven by its own savage instinct to hunt, hoard, and destroy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia hears the sound of dragging chains and animalistic roars outside the party's door.",
+    "source_quote": "Zinnia's sharp senses caught the unmistakable sound of dragging chains and a haunting, animalistic chorus echoing from beyond their southern door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer calls upon divine gifts to heal Zephyr after he is nearly killed by the Chimera.",
+    "source_quote": "Calmer... called upon his divine gifts once more to pull Zephyr back from the edge of death",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr rips the control chain from the warlock's hands, sending the beast into an uncontrolled frenzy.",
+    "source_quote": "Zephyr slips past the rampaging Chimera and rips the control chain from the Fire Temple warlock's hands, sending the beast into an uncontrolled frenzy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch",
+    "fact": "Hartsch implies he would be willing to take command if a position were to suddenly open itself.",
+    "source_quote": "\"I would always, if a position were to suddenly have opened itself, I would absolutely like to think that my faith and my leadership qualities would be considered.\" \u2014 Hartsch",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the person who paid Nulb's River Pirates",
+    "fact": "The chains used to control the Chimera are stamped with the marks of Nulb's River Pirates, but the identity of the person who paid them remains unspecified.",
+    "source_quote": "The heavy iron collar and chains used to control the beast were stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb had been paid to deliver the monster to the temple",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Water Temple's full involvement",
+    "fact": "Vesrek is identified as arranging the Chimera's purchase, but whether Belsornig personally authorized it or was merely complicit remains unverified.",
+    "source_quote": "the name Vesrek appeared in the document \u2014 an ally of Belsornig, the prophet of the Water Temple \u2014 suggesting the Water Temple had orchestrated the whole affair",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The party's ultimate goal",
+    "fact": "The party plans to assassinate Romag, install Hartsch, and engineer a three-way war between the temples, but whether this will succeed or backfire remains unresolved.",
+    "source_quote": "The party quietly agreed that the time for subtlety was nearly over",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr ripped the chain from the warlock's hands during the fight.",
+    "source_quote": "Zephyr managed to rip the chain from the warlock's hands during the fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Warlock",
+    "fact": "The warlock had the Potion of Fire Resistance on his person but panicked and never reached for it during the chaos of the chimera's rampage.",
+    "source_quote": "The warlock had it on his person but panicked and never reached for it during the chaos of the chimera's rampage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Warlock",
+    "fact": "The warlock used Eldritch Blast at Sequioa, dealing significant damage early in the fight.",
+    "source_quote": "Beams of crackling energy fired by the Fire Temple warlock at Sequioa, dealing significant damage early in the fight.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer used Healing Word to restore Sequioa to consciousness.",
+    "source_quote": "A quick divine incantation used by Calmer on two separate occasions during the battle \u2014 first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer used Healing Word to bring Zephyr back from the brink of death.",
+    "source_quote": "A quick divine incantation used by Calmer on two separate occasions during the battle \u2014 first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer cast Toll the Dead, which manifested as the sound of a melancholy tolling bell, and delivered the final, fatal blow to the wounded Chimera.",
+    "source_quote": "A necrotic spell cast by Calmer that manifests as the sound of a melancholy tolling bell. It was used multiple times during the fight and ultimately delivered the final, fatal blow to the wounded Chimera.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Nulb's River Pirates",
+    "fact": "The chains were stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb was paid to deliver the monster, but the identity of the payer is not specified in this session.",
+    "source_quote": "The chains were later found to be stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb was paid to deliver the monster.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Vesrek",
+    "fact": "The warlock's ledger revealed a connection to Vesrek, an ally of the Water Temple's prophet Belsornig, but the nature of that connection is not specified in this session.",
+    "source_quote": "It also revealed a connection to Vesrek, an ally of the Water Temple's prophet Belsornig.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Warlock",
+    "fact": "The warlock possessed a heavy gold amulet and chain depicting the eight-pointed symbol of the Fire Temple, worth 100 gold pieces.",
+    "source_quote": "A heavy gold amulet and chain depicting the eight-pointed symbol of the Fire Temple, found on the warlock. Its craftsmanship and gold weight make it worth 100 gold pieces.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Warlock",
+    "fact": "The warlock possessed a high-quality whip woven with alchemically treated red leather, featuring a ten-foot reach and capable of slowing an enemy's movement.",
+    "source_quote": "A high-quality whip woven with alchemically treated red leather, found among the warlock's belongings. While not magical, it is of fine craftsmanship, features a ten-foot reach, and can slow an enemy's movement.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Warlock",
+    "fact": "The warlock possessed a magical elixir intended to protect the user from heat and flames.",
+    "source_quote": "A magical elixir found on the warlock, intended to protect the user from heat and flames.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Warlock",
+    "fact": "The warlock held a heavy wax-sealed receipt bearing the crest of a crimson ship, a bill of sale from Captain Varsik of the Crimson Trader detailing the purchase of the chimera, paid in full by the Fire Temple.",
+    "source_quote": "A document found on the Fire Temple warlock, containing a heavy wax-sealed receipt bearing the crest of a crimson ship. It is a bill of sale from Captain Varsik of the Crimson Trader detailing the purchase of the chimera, paid in full by the Fire Temple.",
+    "quote_verified": true
+  }
+]

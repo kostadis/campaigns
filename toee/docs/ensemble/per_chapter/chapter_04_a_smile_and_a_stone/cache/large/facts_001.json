@@ -1,0 +1,415 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 16, 579.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr waits for Calmer and the man-at-arms promised by Ranos Davl.",
+    "source_quote": "The following day, the Zephyr sits for breakfast and waits for the arrival of Calmer and the man-at-arms that Ranos Davl has promised him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer arrives with polished armor and a cudgel dangling from his wrist as his holy symbol.",
+    "source_quote": "Calmer arrives first, his armor polished and his holy symbol, the cudgel dangling from his wrist.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is 5\u20192\u201d tall with copper-red hair, hazel eyes, and a flattish nose.",
+    "source_quote": "He is short, 5\u20192\u201d, has copper-red hair, hazel eyes, and a flattish nose.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer has the over-eager look of a religious zealot.",
+    "source_quote": "He also has that over-eager look that religious zealots have.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer orders boiled eggs, milk, and bread for breakfast.",
+    "source_quote": "Calmer orders some boiled eggs, milk and bread.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne introduces himself as a man-at-arms hired by Ranos Davl.",
+    "source_quote": "There\u2019s the Tiefling. My boss Ranos said you hired me?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne is called Duke by his friends because his name sounds like a throne.",
+    "source_quote": "My name is Thorne. My friends call me Duke because my name sounds like a throne.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne is a rugged man in his late 30s with a weathered face and scars from past skirmishes.",
+    "source_quote": "He is a rugged man in his late 30s with a weathered face marked by a few scars from past skirmishes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne has cropped short brown hair and piercing green eyes hidden beneath a weather-beaten leather cap.",
+    "source_quote": "His brown hair is cropped short, and his piercing green eyes are hidden beneath the brim of a weather-beaten leather cap.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia watches Zephyr and his companions to see if anything is off.",
+    "source_quote": "The masked one had been watching Zephyr and their two new companions, trying to see if anything was off.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is located east of the main road, reachable via a track overgrown with thorns, thistles, weeds, and shrubs.",
+    "source_quote": "he sees the track heading to the ruins. A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of the track leading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The track to the Moathouse is washed out in places and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees. Here and there, it is washed out, in other places a mire.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is surrounded by a boggy land with tall marsh plants, cattails, and tamaracks.",
+    "source_quote": "After two miles, as the track turns more northerly, the land begins to sink and become boggy. Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse has a jagged silhouette visible off to the left of the path.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse has a side path banked high to cross the wetland, leading to its entrance.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The track near the Moathouse entrance is 15 feet wide with crumbling embankments that make travel dangerous.",
+    "source_quote": "The track here is only about 15 feet wide or so, with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The vegetation around the Moathouse is dense, sickly, and unhealthy, with creepers and vines strangling dead and living plants.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy, creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse has a drawbridge leading into it.",
+    "source_quote": "The Duke sets up camp just past the drawbridge that leads into the moathouse",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "giant frogs attack on drawbridge",
+    "fact": "Four giant frogs jump out of the pool near the drawbridge and attack the party.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "drawbridge collapses",
+    "fact": "The drawbridge shatters under the weight of the frogs and the party, causing Sequoia and Calmer to fall in.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter. Zinia doesn\u2019t fall in, but Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant frog",
+    "fact": "One giant frog chomps at Calmer and is knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant frog",
+    "fact": "Zinia kills one injured giant frog in the water.",
+    "source_quote": "Zinia jumps into the water and strikes and kills one of the injured Frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant frog",
+    "fact": "Zephyr kills the last giant frog with a strike.",
+    "source_quote": "It\u2019s last. It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "giant frog",
+    "fact": "An arrow through the eye kills the final giant frog.",
+    "source_quote": "the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer leads onto drawbridge",
+    "fact": "Calmer marches onto the drawbridge, declaring it is time for clerics of St. Cuthbert to lead.",
+    "source_quote": "Calmer shouts, \u201cI think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia patches Calmer's wound",
+    "fact": "Zinia pulls Calmer out of the water and patches his wound.",
+    "source_quote": "Zinia rushes to Calmer, pulls him out of the water, and patches his wound.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne says he can cook frog legs that taste like chicken.",
+    "source_quote": "I can cook something nice with those legs. Tastes like chicken.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia glares at Thorne after he comments on cooking frog legs.",
+    "source_quote": "Zinia glares.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandits in moathouse room killed",
+    "fact": "Zephyr uses an illusion to make bandits inside the room open the door.",
+    "source_quote": "A sudden bang is heard in the room just outside the door. \u201cZephyr has used an illusion to get the folks inside to open the door for us,\u201d thinks Sequoia.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr kills first bandit",
+    "fact": "Zephyr enters the room and kills one bandit, then exits and signals seven more remain and the leader is dead.",
+    "source_quote": "He hears a body fall to the ground. As Zephyr exits, he indicates seven more left and that the leader is dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia kills second bandit",
+    "fact": "Zinia enters the room and kills another bandit quietly.",
+    "source_quote": "The satisfying sound of a body hitting the ground quietly precedes Zinia\u2019s return.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Voss",
+    "fact": "Voss is a bandit who explains he became a bandit due to gambling debts and drinking.",
+    "source_quote": "He explains, \u201cThe Moathouse was a good hideout because nobody wanted to come here anymore. The Temple was dead, and adventurers picked this place clean, so nobody came here.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Voss",
+    "fact": "Voss is the bandit who was given a flat river rock inscribed with an eye and a tear by his boss.",
+    "source_quote": "It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "flat river rock with eye and tear",
+    "fact": "A flat river rock inscribed with an eye and a tear is found in the bandit room.",
+    "source_quote": "Out of the corner of Sequoia\u2019s eye, he sees a flat river rock inscribed with an eye and a tear.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandits flee through arrow slit",
+    "fact": "Three bandits escape through an enlarged arrow slit to the south.",
+    "source_quote": "Three of the bandits escape to the south through an arrow slit that has been enlarged to allow easy retreat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia kills bandit and blocks exit",
+    "fact": "Sequoia kills one more bandit and stands in front of the exit to block it.",
+    "source_quote": "Sequoia kills one more of the bandits and then stands in front of the exit, blocking it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia knocks bandit unconscious",
+    "fact": "Zinia knocks the captured bandit unconscious with a flurry of blows.",
+    "source_quote": "Zinia knocks him out with a flurry of blows.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer enters the room and says, \u201cI think it\u2019s important that we call to calm down,\u201d with glee.",
+    "source_quote": "Calmer walks in and says, \u201cI think it\u2019s important that we call to calm down.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Voss is interrogated",
+    "fact": "Voss is woken up and questioned by Sequoia, Zinia, and Zephyr.",
+    "source_quote": "Sequoia then wakes up the bandit. The poor man wakes up, clears his eyes, and is shocked by a Tiefling, a cleric of St. Cuthbert, and Sequoia staring at him, their weapons covered in the blood of his gang.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Church of St. Cuthbert",
+    "fact": "Membership in the cult is punishable by death according to Calmer.",
+    "source_quote": "Calmer explains that membership in the cult is punishable by death.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse great hall",
+    "fact": "The Moathouse has a great hall that was once an audience chamber with tattered banners and destroyed furniture.",
+    "source_quote": "Past the door is a great hall. This was once a great audience chamber, as shown by the tattered banners and tapestries on the walls, destroyed furniture, and heaps of rotting cloth thrown into corners.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse great hall",
+    "fact": "The great hall floor is covered in leaves and dirt, and cobwebs hang from walls and ceiling.",
+    "source_quote": "Leaves and dirt cover the floor, and cobwebs hang from walls and the ceiling above.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse great hall",
+    "fact": "The upper stories of the Moathouse are totally destroyed and impassable to anything larger than a rat.",
+    "source_quote": "Looking up, he sees that pieces of beams and chunks of stone poke through, indicating that the upper stories of the place are totally destroyed and likely to be impassable to anything larger than a rat.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse door",
+    "fact": "The door to the Moathouse is hanging open on one hinge and wedged shut from the inside on the other.",
+    "source_quote": "The door to the moathouse is hanging open on one great hinge. The other is splintered and holed but still in position, wedged and shored closed from the inside.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia examines foot traffic",
+    "fact": "Sequoia examines the ground and whispers that foot traffic goes to the northeast door.",
+    "source_quote": "Sequoia examines the ground and whispers, \u201cThe foot traffic goes to the door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia and Zephyr coordinate entry",
+    "fact": "Sequoia, Zephyr, and Zinia coordinate hand gestures to sneak into the room one at a time.",
+    "source_quote": "The two rogues and the monk co-ordinate with hand gestures. They will sneak into the room one at a time, attack, and retreat.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr observes human and pack animal traffic near the Moathouse entrance.",
+    "source_quote": "Zephyr shouts, \u201cHm, this is interesting. Some human and pack animal traffic comes this way.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer volunteers to guard the rear while Zephyr and Zinia investigate ahead.",
+    "source_quote": "Calmer says, \u201cPerhaps the rogues would like to investigate and see what\u2019s ahead? Let us get a jump on the enemy. I can stay here and guard the rear.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne shouts that the group will die before making it through the door.",
+    "source_quote": "\u201cSo you guys going to die before you even make it through the door,\u201d shouts Thrune.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne",
+    "fact": "Thorne asks if they are calling it quits after Calmer is injured.",
+    "source_quote": "Thrune can\u2019t resist, \u201cSo are we calling it quits?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer declares they will complete their job despite injuries.",
+    "source_quote": "Calmer shouts, \u201cNo. We have come here to do a job and will do it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia leads into Moathouse",
+    "fact": "Sequoia decides he can lead the group into the Moathouse after Calmer\u2019s declaration.",
+    "source_quote": "Sequoia decides that he can lead, but Sequoia will observe.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bandit leader killed",
+    "fact": "The bandit leader is found dead on the ground, pooling in blood in the middle of the room.",
+    "source_quote": "Sequoia sees the bandit leader dead on the ground, pooling in blood in the middle of the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Voss",
+    "fact": "Voss cries hysterically when he sees the flat river rock with the eye and tear.",
+    "source_quote": "Voss then starts to cry hysterically and in panic.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer tries to calm Voss by explaining what the Church of St. Cuthbert does to its enemies.",
+    "source_quote": "Calmer offers to help, but apparently, Calmer\u2019s idea of calming a man terrified of being killed by an Evil Cult is to explain to him what the Church of St. Cuthbert does to its enemies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr groans that Voss is too low on the totem pole to know anything useful.",
+    "source_quote": "Zephyr groans, \u201cHe\u2019s too low down the totem pole to know anything useful.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "symbol on river rock",
+    "fact": "The meaning and origin of the flat river rock inscribed with an eye and a tear remain unknown.",
+    "source_quote": "What\u2019s this?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Temple's death",
+    "fact": "The Temple associated with the Moathouse is dead and abandoned.",
+    "source_quote": "The Temple was dead, and adventurers picked this place clean, so nobody came here.",
+    "quote_verified": true
+  }
+]

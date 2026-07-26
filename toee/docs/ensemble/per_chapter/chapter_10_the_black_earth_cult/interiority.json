@@ -1,0 +1,478 @@
+[
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia smiled after dropping the barrel.",
+    "source_quote": "I drop the barrel down, and smile.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glannon",
+    "fact": "Glannon looked at the barrel.",
+    "source_quote": "Glannon looks at the barrel.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia tried to figure out if Glannon was mocking her.",
+    "source_quote": "I look at him, and try to figure out if he is mocking me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Glannon",
+    "fact": "Glannon realized his mistake.",
+    "source_quote": "He realizes his mistake, \"No, I didn\u2019t mean it that way.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia thanked Glannon.",
+    "source_quote": "I thank him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed that Quinna was both smiling and worried.",
+    "source_quote": "I can\u2019t help but notice that she\u2019s both smiling and worried.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia mused that the animated broccoli sounded ridiculous but offered more adventure.",
+    "source_quote": "I muse \"Bouncing around the village, causing chaos? Sounded a bit ridiculous, but hey, more adventure, right?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia thought, \"Let it go, it's just a broccoli.\"",
+    "source_quote": "Part of me thought, \"Let it go, it's just a broccoli.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia wondered what to do when the broccoli went into the apothecary.",
+    "source_quote": "I\u2019m thinking now that what am I going to do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia considered firing a firebolt but feared setting the apothecary on fire.",
+    "source_quote": "Firebolt it? No, then the whole place might catch fire.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia rolled to hit the broccoli and it collapsed.",
+    "source_quote": "I roll, and I can\u2019t remember if I hit, but yes, I do and it just kind of collapses.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia heard voices but realized it was only the owner looking bewildered.",
+    "source_quote": "I think I hear a couple of voices, but no, just the owner looking bewildered.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia thought, \"It\u2019s just the life, I guess. Never a dull moment.\"",
+    "source_quote": "It\u2019s just the life, I guess. Never a dull moment.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr shouted, \"Bouncing potatoes,\" and ran after them.",
+    "source_quote": "\"Bouncing potatoes,\" I shout to Seqoia and run after them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the potatoes stared at him as if taunting.",
+    "source_quote": "The potatoes stare at me as if taunting me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr grabbed one potato while the other two paused as if angry.",
+    "source_quote": "I grab one, and the other two pause as if angry.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stabbed the potato in his hand.",
+    "source_quote": "So I take my knife and stab the one in my hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr wondered if animated potatoes can cry or feel anything.",
+    "source_quote": "I wonder if animated potatoes can cry, or feel anything, and decide that\u2019s not my problem.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stuffed the potatoes into a bag and they didn\u2019t move.",
+    "source_quote": "Taking advantage of horror, I grab them and stuff them into a bag. Terrified, they don\u2019t move around in the bag.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr ate the potato and felt blessed.",
+    "source_quote": "And a few hours later, the potato is in my belly. And I feel blessed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, \"You served me well, potato. And you were certainly more filling than that rat I caught in that prison.\"",
+    "source_quote": "\"You served me well, potato. And you were certainly more filling than that rat I caught in that prison.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee coughed.",
+    "source_quote": "Palsmarie Clee coughs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee asked if she had walked into the Inn or was always there.",
+    "source_quote": "Has she walked into the Inn, or was she always there?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee showed the map and said the caravan didn\u2019t take the standard road.",
+    "source_quote": "\"Let me show you on the map where the caravan was. They didn\u2019t take the standard road, the fools. Go there, follow the bandits, and get the honey.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee said she didn\u2019t know who did it.",
+    "source_quote": "\"I don\u2019t know.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee said the survivors said the attackers chanted 'Black Earth' and carried stone weapons.",
+    "source_quote": "The guards who survived said that the attackers chanted \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Palsmarie Clee",
+    "fact": "Palsmarie Clee said the guards had all left town.",
+    "source_quote": "They have all since left our town.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia\u2019s eyes revealed a momentary flash of pleasure.",
+    "source_quote": "even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia observed the wagon site littered with overturned wagons, broken barrels, and scattered honey jars.",
+    "source_quote": "The wagon is precisely where she said. The site is littered with overturned wagons, broken barrels, and scattered honey jars.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed the ground was churned up.",
+    "source_quote": "The ground is churned up.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer shouted, \"Magic was used here, or something very big. This isn\u2019t just a bunch of brigands.\"",
+    "source_quote": "Calmer shouts, \"Magic was used here, or something very big. This isn\u2019t just a bunch of brigands.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia found large footprints leading away from the road.",
+    "source_quote": "Soon found many valuable clues. Large footprints lead away from the road.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia wondered what could be so big and cause so much harm.",
+    "source_quote": "Looking at the footprints, I wonder what could be so big and cause so much harm; whatever it is, it isn\u2019t something good.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia shouted, \"Magic.\" and pointed at faintly glowing runes etched into the rocks.",
+    "source_quote": "I shout, \"Magic.\" Calmer rushes up to me, and I point at faintly glowing runes etched into the rocks.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia nodded to Sequoia and agreed the cultists were responsible.",
+    "source_quote": "Zinnia looks at me, and I nod, \"This is not bandits. This must be the cultists we are looking for.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia worried that falling rocks were not an accident.",
+    "source_quote": "I am worried that the stones were not an accident, but we find nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia said, \"Sometimes a rock is a falling rock.\"",
+    "source_quote": "\"Sometimes a rock is a falling rock,\" I say.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia whispered, \"These are the guys.\"",
+    "source_quote": "I whisper, \"These are the guys.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr observed Thalsor stepping forward with a stone staff adorned with jagged crystals.",
+    "source_quote": "I watch as he steps forward, his hands tightening around a stone staff adorned with jagged crystals.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"You think yourselves heroes?\"",
+    "source_quote": "\"You think yourselves heroes?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"The very stones you trample upon are older, stronger, and far wiser than any of you could ever hope to be.\"",
+    "source_quote": "\"The very stones you trample upon are older, stronger, and far wiser than any of you could ever hope to be.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"You call yourselves adventurers, but all I see are fools and thieves, unworthy of the honey you dare to steal back.\"",
+    "source_quote": "\"You call yourselves adventurers, but all I see are fools and thieves, unworthy of the honey you dare to steal back.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor laughed harshly and echoed through the cavern.",
+    "source_quote": "His laughter that echoes through the cavern, harsh and unyielding.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor said, \"Come then, insects. Let me show you the futility of your struggle. Let me show you what it means to face the unbreakable will of stone!\"",
+    "source_quote": "\"Come then, insects. Let me show you the futility of your struggle. Let me show you what it means to face the unbreakable will of stone!\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr thought, \"How the heck did he know that?\"",
+    "source_quote": "I think, \"How the heck did he know that?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr saw two muddy creatures appear beside Calmer.",
+    "source_quote": "suddenly two muddy creatures appear right beside Calmer. Mud men.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noted that when the mud men went down, they exploded and made it so you couldn\u2019t move.",
+    "source_quote": "When these mud men go down, they kind of explode, make it so you can\u2019t move.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor tapped a stone thing and it came alive as a Stone Golem.",
+    "source_quote": "He taps this stone thing and \u2013 bam \u2013 it comes alive. Stone Golem, they call it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor ranted about the honey and the earth.",
+    "source_quote": "He starts ranting again about the honey and the earth",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor tried to negotiate and offered to trade anything but giving up the honey.",
+    "source_quote": "then suddenly shifts gears and tries to negotiate. Weird guy. Offers to trade, anything but giving up the honey.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Thalsor",
+    "fact": "Thalsor conjured up a storm of sharp stones.",
+    "source_quote": "He conjures up a storm of sharp stones.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr managed to dodge most of the stone storm but it still stung.",
+    "source_quote": "I manage to dodge most of it, but it still stings like hell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noted that Thalsor was barely alive and the golem was still a threat.",
+    "source_quote": "Thalsor's barely alive, and the golem\u2019s still a threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr got an advantage because of his rogue training.",
+    "source_quote": "I get an advantage because of my rogue training",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia went to town on one of the bandits with a flurry of attacks.",
+    "source_quote": "Sequoia just goes to town on one of the bandits\u2014absolute flurry of attacks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr slashed at the wounded bandit and landed a solid hit.",
+    "source_quote": "I chip in where I can, finishing off the bandits when I get the chance.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia laid into the bandits with serious force and called it a flurry of blows.",
+    "source_quote": "Zinnia follows, just laying into the bandits with some serious force. Flurry of blows, he calls it, multiple attacks",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer hit the Stone Golem with a holy spell and dealt a ton of damage.",
+    "source_quote": "Calmer hits it with some kind of holy spell, deals a ton of damage",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Palsmarie Clee's presence",
+    "fact": "It is unclear whether Palsmarie Clee walked into the Inn or was always there.",
+    "source_quote": "Has she walked into the Inn, or was she always there?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The identity of the attackers",
+    "fact": "The identity of the attackers is unknown, though Palsmarie Clee suspects they are not bandits.",
+    "source_quote": "I don\u2019t know. Gnonsbim says they are bandits. I don\u2019t think so.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The location of the Black Earth Temple",
+    "fact": "The exact location of the Black Earth Temple is not yet known, though the encampment in the Kron Hills is suspected.",
+    "source_quote": "It\u2019s built into a shallow cave on a rocky outcrop in the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The origin of the animated vegetables",
+    "fact": "The origin of the animated broccoli and potatoes is unexplained.",
+    "source_quote": "some of the ingredients were animated and they rushed into the village.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The nature of the Stone Golem",
+    "fact": "The nature and origin of the Stone Golem conjured by Thalsor are unexplained.",
+    "source_quote": "He taps this stone thing and \u2013 bam \u2013 it comes alive. Stone Golem, they call it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stabbed the potato in his hand.",
+    "source_quote": "So I take my knife and stab the one in my hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stuffed the potatoes into a bag.",
+    "source_quote": "I grab them and stuff them into a bag.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr ate the potato.",
+    "source_quote": "the potato is in my belly.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, \"You served me well, potato.\"",
+    "source_quote": "\"You served me well, potato.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia\u2019s eyes revealed a momentary flash of pleasure.",
+    "source_quote": "even his eyes reveal a momentary flash of pleasure.",
+    "quote_verified": true
+  }
+]

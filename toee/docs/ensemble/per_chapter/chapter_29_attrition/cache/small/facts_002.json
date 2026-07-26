@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a member of the Obsidian Edge who has assumed tactical leadership after returning from an undisclosed operation, offering fragmented, improvised strategy to Hartsch while withholding critical intelligence about the faction's role in escalating the war.",
+    "source_quote": "We've been fighting. We opened the door for you.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the exhausted, battle-scarred leader of the Earth Temple who has lost faith in his own command, now deferring to the Obsidian Edge after realizing his faction was never meant to win this war quickly \u2014 and that his enemies have outmaneuvered him from the shadows.",
+    "source_quote": "What do we do next?",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was once a dominant force in the four-temple conflict, but has been bled dry by prolonged warfare, internal disarray, and strategic betrayal \u2014 now reduced to a remnant force watching its soldiers die while waiting for the Obsidian Edge to decide their fate.",
+    "source_quote": "Fewer than before. This was supposed to have been an easy win.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is a shadow faction that engineered the four-temple war from behind the scenes, manipulating events to exhaust the traditional powers \u2014 now returning to claim control by offering incomplete strategy while withholding their role in the conflict\u2019s escalation.",
+    "source_quote": "We built this; he inherited it.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the strongest remaining faction in the conflict, having maintained cohesion and resources while the others crumbled \u2014 its dominance is acknowledged with resignation by Hartsch and Zephyr alike.",
+    "source_quote": "Who's the strongest? The Water Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the weakest of the four, having collapsed under pressure and lost its territorial integrity \u2014 now seen as the most vulnerable target for exploitation by the Obsidian Edge.",
+    "source_quote": "The weakest is the Air Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is mid-tier in strength, having endured heavy losses but not yet broken \u2014 its position is a tactical pivot point in the Obsidian Edge\u2019s emerging plan to fracture the remaining alliances.",
+    "source_quote": "The next is the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "return to Earth Temple",
+    "fact": "The Obsidian Edge returned to the Earth Temple after an undisclosed operation, triggering a crisis of command as Hartsch realized his faction had been manipulated into a losing war \u2014 leading to a strategic handover from leader to shadow architects.",
+    "source_quote": "Things have not gone well. Hartsch needs you right now.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "strategic pivot to Air Temple",
+    "fact": "After assessing the relative strength of the four temples, the Obsidian Edge pivoted from defensive survival to offensive expansion \u2014 targeting the Air Temple as the weakest point to seize treasure and destabilize the remaining coalition.",
+    "source_quote": "We'll go after the Air Temple. Take all their treasure.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a once-proud bastion now littered with the bodies of fallen soldiers, its halls echoing with unaccounted sounds and the silence of broken morale \u2014 a symbol of how quickly power can collapse when leadership is usurped.",
+    "source_quote": "The gap between our departure and our return had been filled with sounds they couldn't account for and a body count they couldn't afford.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple stands as the most intact and formidable of the four, its defenses unbroken and its forces still cohesive \u2014 a looming threat that even the Obsidian Edge acknowledges as the next major obstacle.",
+    "source_quote": "We'll charge once more to the Water Temple!",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "specters",
+    "fact": "Specters haunt the corridors of the Earth Temple, remnants of those who died during the war\u2019s early phase \u2014 their presence signals unresolved death and the lingering consequences of failed leadership.",
+    "source_quote": "The seven specters were, as it turned out, a relevant consideration.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wraith",
+    "fact": "A wraith has claimed dominion over the lower levels of the Earth Temple, feeding on the fear and despair of the living \u2014 its presence confirms that the temple\u2019s collapse has invited supernatural predation.",
+    "source_quote": "The wraith had them and was not going to stop having them.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "who really started the war?",
+    "fact": "The Obsidian Edge engineered the four-temple conflict, but their role remains hidden from Hartsch and his soldiers \u2014 the unresolved question of who truly began the war is the central deception driving the current power vacuum.",
+    "source_quote": "We built this; he inherited it.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "will the Obsidian Edge disappear again?",
+    "fact": "The Earth Temple soldiers watch the Obsidian Edge with suspicion \u2014 fearing they will vanish once more, leaving the survivors to die, as they did before the return.",
+    "source_quote": "They were watching us, the Obsidian Edge, waiting to see if we were about to disappear on them again.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "is Hartsch\u2019s leadership is real or performative?",
+    "fact": "Hartsch has stopped pretending to lead \u2014 but whether he has truly surrendered command, or is waiting for the Obsidian Edge to fail so he can reclaim authority, remains unresolved.",
+    "source_quote": "The moment when a man who has been pretending to be in charge finally stops pretending.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a critical session following the Obsidian Edge\u2019s return to the Earth Temple, marking the turning point in the four-temple war from stalemate to strategic reckoning.",
+    "source_quote": "We went.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "door",
+    "fact": "The sealed door represents the boundary between the Obsidian Edge\u2019s hidden operations and the visible battlefield \u2014 its opening is tied to the end of the war, but its true nature remains unknown.",
+    "source_quote": "The door opens when the battle ends.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "arrowheads",
+    "fact": "The arrowheads are the first physical sign of the Earth Temple\u2019s defensive posture \u2014 now rusted, broken, and abandoned, they symbolize the futility of resistance without clear leadership.",
+    "source_quote": "The arrowheads were the first thing I saw.",
+    "quote_verified": true
+  }
+]

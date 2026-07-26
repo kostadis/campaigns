@@ -1,0 +1,646 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is referenced by the wraith as the authority who triggered the battle and supplied the bodies that became minions.",
+    "source_quote": "You provided me so much tasty food! Food!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The wraith is currently the only entity in the room willing to talk, having feasted on bodies we were responsible for and raised seven specters from them.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple is sealed until the battle is over, with something braced or barricaded on the other side preventing entry.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple door has burn marks on it, and it had tried to force an entry and failed, or stopped, or been stopped.",
+    "source_quote": "The Water Temple door had burn marks on it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "source_quote": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the weakest, with thin guard and thinner walls, and its treasure was targeted for looting.",
+    "source_quote": "Who's the strongest? The Water Temple. The weakest is the Air Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was the faction holding its own ground but had suffered disproportionate losses, with fewer soldiers than expected and a commander who had stopped pretending to be in charge.",
+    "source_quote": "The number was wrong. Not collapse-of-the-faction wrong, but wrong enough that I counted them twice.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the Earth Temple commander who inherited the war, lost confidence, and sent the Broken Blades to attack without consultation.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Voice Behind the Door",
+    "fact": "The Voice Behind the Door claims to represent the Greater Temple, stating that it is the deep temple and the people who are really in charge.",
+    "source_quote": "The Greater Temple is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Seven Specters",
+    "fact": "Seven specters were raised from bodies we were responsible for, mostly Earth Temple forces, with recognizable robes, insignia, and silhouettes.",
+    "source_quote": "Seven specters. Raised from bodies we were responsible for.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Note",
+    "fact": "The note left by Hartsch reads 'I couldn't wait! I sent the Broken Blades to attack!' and is written in his own hand.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are the men recruited by the Obsidian Edge whose lives are now in the hands of a panicking quartermaster who acted without consultation.",
+    "source_quote": "The men whose lives were now sitting in the hands of a panicking quartermaster who couldn't decide where to put a chair.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Romag's Room",
+    "fact": "Romag's Room is the special room in the Earth Temple where the Obsidian Edge slept, untouched by others, because it was the dead man's quarters.",
+    "source_quote": "Zephyr wanted the Romag room. The dead man's quarters, the one place in this building nobody would think to bother us.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is referenced by the narrator as having said 'Lucky me' in response to the wraith's actions, and later observed Hartsch's psychological collapse.",
+    "source_quote": "Sequoia said, 'Lucky me.'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Sealing of the Greater Temple",
+    "fact": "The Greater Temple sealed the lesser temples and waited for the battle to end, trapping everyone inside.",
+    "source_quote": "The Greater Temple seals the lesser temples and waits for the battle to end.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's Unauthorized Attack",
+    "fact": "Hartsch sent the Broken Blades to attack without consultation, abandoning his command post and leaving a note that read 'I couldn't wait!'",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Rise to Collegiality",
+    "fact": "The wraith shifted from menacing entity to peer-like conversationalist after being acknowledged by name and offered an audience.",
+    "source_quote": "I gave it that. I could feel the room tilt: the wraith no longer performing menace but something closer to collegial warmth.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The War Council at Earth Temple",
+    "fact": "The war council concluded that the Air Temple was weakest, the Water Temple strongest, and the Fire Temple next, leading to a plan to attack Air first.",
+    "source_quote": "Who's the strongest? The Water Temple. The weakest is the Air Temple. The next is the Fire Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the faction that engineered the war from beneath Hartsch and now holds the authority to decide its next moves.",
+    "source_quote": "The people who had engineered this situation from underneath him.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the former leader whose passive strategy is invoked by Hartsch as a point of shame and borrowed authority.",
+    "source_quote": "But that\u2026 but that is Romarg's passive strategy!",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Door",
+    "fact": "The door to the Greater Temple is held from the other side by something braced, barricaded, or committed to not opening, and it responds with a voice that speaks for the Greater Temple.",
+    "source_quote": "Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Specters' Materialization",
+    "fact": "Seven specters materialized one by one, counted aloud by the wraith, mostly from Earth Temple forces with recognizable insignia and robes.",
+    "source_quote": "One, two, three. Four, five. Mostly Earth Temple forces. I recognized the remnants of robes, the insignia, the general silhouette...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the individual who repeatedly declares 'I can kill him!' and attacks the door with hammering, achieving noise but no tactical elegance.",
+    "source_quote": "I can kill him! I can kill him, I can so totally kill him!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Laughter at Calmer's Hammering",
+    "fact": "The wraith found Calmer's hammering at the door very funny, reinforcing his perception of the group as 'poor little fools'.",
+    "source_quote": "The wraith found this very funny.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Decision to Camp",
+    "fact": "The group decided not to camp, instead resolving to leave and return later, after realizing they were trapped and the wraith had already won.",
+    "source_quote": "Why don't we camp out next door?\" I said. Nobody moved toward camping.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Stairwell",
+    "fact": "The stairwell leading to the second level of the Earth Temple is where the group emerged to find six guards reading their return as a threat.",
+    "source_quote": "The arrowheads were the first thing I saw. Two positions, six guards, all of them reading our emergence from the stairwell as a threat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Transfer of Authority to Zephyr",
+    "fact": "Hartsch transferred authority to Zephyr by asking 'What do we do next?' after failing to maintain command during the war.",
+    "source_quote": "What do we do next?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Tiefling",
+    "fact": "The tiefling kept walking after the wraith's final declaration, accepting the terms of survival and the promise of entry to the Greater Temple.",
+    "source_quote": "The tiefling kept walking.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Final Declaration",
+    "fact": "The wraith declared his confidence in the outcome, saying 'I can't wait till you come back here! I will be waiting!' with absolute warmth.",
+    "source_quote": "I can't wait till you come back here! I will be waiting!",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The War Room",
+    "fact": "The war room smells like men who hadn't slept, and is where Hartsch asked what to do next like a man who'd never answered that question.",
+    "source_quote": "The war room smelled like men who hadn't slept.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Note",
+    "fact": "The note left by Hartsch is written in his own hand and reads 'I couldn't wait! I sent the Broken Blades to attack!'",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Recognition of Hartsch's Psychological Collapse",
+    "fact": "The narrator recognized Hartsch's psychological collapse when he stopped pretending to be in charge and asked for guidance.",
+    "source_quote": "The moment when a man who has been pretending to be in charge finally stops pretending.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the narrator who counts soldiers, recognizes Hartsch's collapse, and identifies the note as something she has lived inside of.",
+    "source_quote": "I know that man. I've redistributed treasure when nobody was looking. I've taken quests without asking the others. I've decided, on my own, in the dark, that I knew better than the people standing next to me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is referenced as the nominal superior who sent the Blades to stage a raid on the Water Temple and falsely attributed the orders to the Obsidian Edge, making him a liability and a traitor to the faction's trust.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back, and now if we lost them we'd lose the guards too, and he'd told them the orders came from us.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr slapped Hartsch to dispel his panic and later ordered the retreat to the Earth Temple while recruiting the Broken Blades, demonstrating tactical pragmatism and leadership under crisis.",
+    "source_quote": "Zephyr slapped him. Walked up and slapped the panic right across his face. It didn't take. 'Okay, so we'll go straight to the Broken Blades,' Zephyr said. 'Use them as the distraction. Let Hartsch advance from the east, if Hartsch could find east. Go pull our men out of the water before the lie killed them.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia stepped into the slaughterhouse chamber and spoke the true thing \u2014 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.' \u2014 restoring the Broken Blades' will to fight through personal presence, not command.",
+    "source_quote": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say. I'd walked in personally, past the wraith, into the room nobody sane would enter. So I said the true thing. 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer, though wounded by the wraith\u2019s cold and near collapse, invoked the rite of turning for the third time, destroying the wraith and its specters with a blast of judgment, proving his faith in St. Cuthbert despite the cost.",
+    "source_quote": "I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one. And they could not hold. The Wraith could not hold. Specter after specter could not hold. They came apart in the radiance, all of them but one. 'It worked! It worked!' The words came out of me without permission, without dignity... 'Who's the man? Who is the man?' 'That's you,' Zephyr said.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia executed a defecting bugbear who took bribes from the Air Temple under false pretenses, then discovered the coins bore the Air Temple insignia, revealing a hidden conspiracy manipulating the faction\u2019s internal loyalties.",
+    "source_quote": "I said the rest of it before anyone had moved, before he'd even understood it was happening. 'One does not simply take bribes to defect.' ... I went through the sack: twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple was the target of Hartsch\u2019s unauthorized raid, resulting in the massacre of the Broken Blades and the deployment of undead guardians, including a wraith and seven specters, blocking access to the second level.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple... Then the door, and behind the door, the slaughterhouse... The wraith blocked the only exit, seven specters at its side, a choke point that would keep killing them.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was the original base of operations, abandoned after the failed raid, and later used as a fallback position to regroup the Broken Blades and contain the threat of the wraith and the Air Temple\u2019s infiltration.",
+    "source_quote": "We had abandoned the Air Temple assault to come back here... Fall back to the Earth Temple, rest there, but if they were true warriors, he told them, they could stay with us.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the true source of the bribe coins found on the defecting bugbear, revealing a covert operation to destabilize the Obsidian Edge from within, using Kelno as a decoy.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Twenty Gold Coins with Air Temple Insignia",
+    "fact": "The twenty gold coins, bearing the Air Temple insignia, were used to bribe a bugbear into defection, falsely implicating Kelno and exposing a deeper conspiracy within the Obsidian Edge\u2019s hierarchy.",
+    "source_quote": "I went through the sack: twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Wraith",
+    "fact": "The wraith was a sentient undead entity that guarded the choke point to the second level, demanded live bodies or intelligence, and had previously laughed at Calmer\u2019s failed turning rites, making it a personal nemesis.",
+    "source_quote": "The wraith, the one that had laughed at me twice, that had stood between us and the way down for too long, turned its empty face and said, almost delighted, 'Oh, you're back!'",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge was the faction whose authority Hartsch falsely invoked to send the Blades on a suicide raid, and whose internal loyalties were being manipulated by the Air Temple through bribes and deception.",
+    "source_quote": "he'd told them the orders came from us... so that when the Blades died in the water it would be the Obsidian Edge that sent them.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the hidden manipulator behind the bugbear\u2019s defection, using forged coins to frame Kelno and infiltrate the Obsidian Edge\u2019s defenses from within.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Failed Raid on the Water Temple",
+    "fact": "The failed raid on the Water Temple, orchestrated by Hartsch under false pretenses, resulted in the massacre of the Broken Blades, the emergence of a wraith and seven specters, and the exposure of an Air Temple conspiracy.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back... Then the door, and behind the door, the slaughterhouse... These were the Broken Blades. We had recruited them.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "The Turning of the Wraith",
+    "fact": "Calmer, wounded and nearly broken, successfully invoked the rite of turning for the third time, destroying the wraith and all its specters in a single blast of divine judgment, ending the choke point\u2019s threat.",
+    "source_quote": "I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one. And they could not hold. The Wraith could not hold. Specter after specter could not hold. They came apart in the radiance, all of them but one.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "The Execution of the Defecting Bugbear",
+    "fact": "Sequoia executed a bugbear who accepted bribes from the Air Temple, then discovered the coins bore the Air Temple insignia, revealing that the Obsidian Edge was being manipulated by an internal enemy.",
+    "source_quote": "I said the rest of it before anyone had moved... 'One does not simply take bribes to defect.' ... I went through the sack: twenty gold... Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia\u2019s Rally of the Broken Blades",
+    "fact": "Zinnia broke protocol by speaking the true thing \u2014 personal presence and solidarity \u2014 to the Broken Blades, restoring their morale and binding them to the Obsidian Edge through loyalty to the person who showed up, not the order that abandoned them.",
+    "source_quote": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say... 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Seven Specters",
+    "fact": "The seven specters were undead entities bound to the wraith, guarding the choke point to the second level, and were destroyed when Calmer invoked the rite of turning.",
+    "source_quote": "The wraith blocked the only exit, seven specters at its side, a choke point that would keep killing them... Specter after specter could not hold. They came apart in the radiance, all of them but one.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbear Defector",
+    "fact": "The bugbear defector was a traitor who accepted bribes from the Air Temple under false pretenses, was executed by Sequoia, and whose coins revealed the true manipulator behind the infiltration.",
+    "source_quote": "A bugbear stumbling toward us with a sack of coins... 'Where are you from?' The answer came out of the babbling. Earth Temple. ... 'One does not simply take bribes to defect.' He dies.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Conspiracy of the Air Temple",
+    "fact": "The Air Temple used forged coins and false narratives to manipulate the Obsidian Edge\u2019s internal loyalties, framing Kelno for bribery and exploiting the failed raid to destabilize the faction from within.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "The Night of the Failed Raid",
+    "fact": "The night of the failed raid on the Water Temple was when Hartsch issued false orders, the Broken Blades were slaughtered, the wraith emerged, and the Air Temple\u2019s conspiracy began to unravel.",
+    "source_quote": "An attack in the night, and it had cost us more than we could spare... Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a wall that Kelno reached over to recruit people from the Earth Temple.",
+    "source_quote": "Kelno had been recruiting, busily, badly, reaching over the Earth Temple's wall and peeling people off one frightened bugbear at a time.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple contains a secret door that coughed up three gnolls.",
+    "source_quote": "the secret door coughed up its replacements.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a corridor where the gnolls spilled out and the battle occurred.",
+    "source_quote": "spilling out into the corridor with the indignation of creditors.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a corridor with brown-and-black walls.",
+    "source_quote": "quiet in that ugly brown-and-black corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a secret door that hung open after the gnolls were killed.",
+    "source_quote": "the secret door hung open on whatever the gnolls had crawled out of.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has a wall that Kelno reached over to recruit from.",
+    "source_quote": "reaching over the Earth Temple's wall",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno was recruiting people from the Earth Temple by peeling off frightened bugbears.",
+    "source_quote": "Kelno had been recruiting, busily, badly, reaching over the Earth Temple's wall and peeling people off one frightened bugbear at a time.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia made the comment, 'Didn't know you guys liked eating while dead, but okay.'",
+    "source_quote": "Didn't know you guys liked eating while dead, but okay,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia has been getting funnier the deeper into the temple the group goes.",
+    "source_quote": "He has been getting funnier the deeper into this place we go.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren stepped up with his two mercenaries and put his hands on Calmer.",
+    "source_quote": "Then Dren stepped up with his two mercenaries and put his hands on Calmer.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric who bellowed, 'Unhand me, you creatures!'",
+    "source_quote": "\"Unhand me, you creatures!\" Bellowed, full-throated, the over-eager zealot's outrage at being denied a fight he had no business standing in.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer had three hit points and was drained of healing resources.",
+    "source_quote": "he could not patch himself past the thin margin he was running on.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was dragged back up the corridor by Dren.",
+    "source_quote": "Dren dragged him back up the corridor, all protest and no leverage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia drifted in and finished off the first gnoll after the initial dagger strike.",
+    "source_quote": "Zinnia drifted in and finished what I'd left twitching.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "bugbear",
+    "fact": "A bugbear was killed and had been a purchased defection from the gnolls.",
+    "source_quote": "The bugbear had been a purchased defection.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "Three gnolls emerged from the secret door, hunched and reeking.",
+    "source_quote": "Three gnolls, hunched and reeking, spilling out into the corridor",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll exclaimed, 'Tiefling flesh!' and expressed delight at the prospect of eating it.",
+    "source_quote": "\"Tiefling flesh!\" it howled, delighted, like a man discovering a delicacy he'd thought extinct.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll said, 'We paid good money for that!'",
+    "source_quote": "\"We paid good money for that!\" one of them snarled",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll said, 'Now we will get our money, and get food!'",
+    "source_quote": "\"Now we will get our money, and get food!\"",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was killed by a dagger strike under the ribs.",
+    "source_quote": "the dagger went where daggers go. Thud. Steel through the soft place under the ribs",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was killed by Sequoia after being tagged clean.",
+    "source_quote": "Sequoia took the second. Stepped in, tagged it clean, opened it up.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was killed by a third dagger strike from the blind side.",
+    "source_quote": "Dagger high, dagger low, then the third from the blind side with everything behind it. Thud.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "coins",
+    "fact": "The narrator pocketed coins that had the wrong stamp on them.",
+    "source_quote": "gold with the wrong stamp on it, in the hands of a man who used to guard our wall. I pocketed the coins.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "coins",
+    "fact": "The coins were considered both evidence and payment.",
+    "source_quote": "Evidence and payment both.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple gnolls",
+    "fact": "The Air Temple gnolls had paid money for the bugbear's defection.",
+    "source_quote": "We paid good money for that!",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple gnolls",
+    "fact": "The Air Temple gnolls viewed the bugbear as a purchased investment.",
+    "source_quote": "The bugbear had been a purchased defection.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "killing the bugbear",
+    "fact": "The bugbear was killed by Kelno's recruitment actions.",
+    "source_quote": "Kelno had been recruiting... peeling people off one frightened bugbear at a time.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "emergence of gnolls",
+    "fact": "Three gnolls emerged from the secret door of the Air Temple.",
+    "source_quote": "the secret door coughed up its replacements.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "killing first gnoll",
+    "fact": "The first gnoll was killed by a dagger strike under the ribs, followed by Zinnia finishing it.",
+    "source_quote": "the dagger went where daggers go. Thud. Steel through the soft place under the ribs, the full weight of the ambush behind it, and the thing folded most of the way to dead in a single beat. Zinnia drifted in and finished what I'd left twitching.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "second gnoll's attack",
+    "fact": "The second gnoll scratched the narrator across the side but did not land a lethal blow.",
+    "source_quote": "Caught me across the side, hard enough to register, not hard enough to mean anything.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "killing second gnoll",
+    "fact": "Sequoia killed the second gnoll by tagging it clean and opening it up.",
+    "source_quote": "Sequoia took the second. Stepped in, tagged it clean, opened it up.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "killing third gnoll",
+    "fact": "The third gnoll was killed by a third dagger strike from the blind side.",
+    "source_quote": "Dagger high, dagger low, then the third from the blind side with everything behind it. Thud.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "dragging Calmer away",
+    "fact": "Dren dragged Calmer back up the corridor against his protest.",
+    "source_quote": "Dren dragged him back up the corridor, all protest and no leverage.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "decision to recon",
+    "fact": "The group decided the next action would be a recon mission, not an assault.",
+    "source_quote": "Not an assault. Not yet. 'Recon mission.'",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "recruitment by purchase",
+    "fact": "Loyalty in the temple lasts only as long as the coin is warm.",
+    "source_quote": "everyone in this temple was buying everyone else, and the loyalty lasted exactly as long as the coin was warm.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "tiefling prejudice",
+    "fact": "The narrator has been threatened for being a tiefling by a dryad, a gnome guard, and now a gnoll.",
+    "source_quote": "A dryad once asked if I'd crawled out of the Abyss to torment her; a gnome guard once asked *or whatever you are*; and now a starving Air Temple dog wanted me on a spit.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "secret door to water temple",
+    "fact": "The narrator questioned whether the secret door led to the Water Temple.",
+    "source_quote": "\"This leads to the water temple?\" I said, already counting what might be behind it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "secret door",
+    "fact": "The secret door led from the Air Temple corridor to an unknown area.",
+    "source_quote": "the secret door hung open on whatever the gnolls had crawled out of.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "unknown",
+    "fact": "The events occurred during an unnamed current time period in the campaign.",
+    "source_quote": "",
+    "quote_verified": false
+  }
+]

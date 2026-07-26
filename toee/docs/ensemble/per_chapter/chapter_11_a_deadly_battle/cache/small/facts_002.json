@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Robert Deakin",
+    "fact": "Robert Deakin is a gnome tavern owner in Ostverk who dismisses rumors of 'big evil powers' as bandit cover stories, claims firsthand knowledge from the Battle of Emiry Meadows, and believes the Temple was truly destroyed. He is displeased by the theory that the lost chest was meant to secure a treaty with Celene to wage war on gnomes and seize their gem mines \u2014 and is secretly glad the alliance failed. He is related to the Clee family, honey purveyors in Sheernobb, and has honey mead from the Honey Tavern Inn.",
+    "source_quote": "He claimed to know because he had fought in the Battle of Emiry Meadows, implying the Temple was truly destroyed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rithelm Drake",
+    "fact": "Rithelm Drake is a human soldier with a square face and rough pink skin who initially demanded a drink but softened upon realizing the party were adventurers. He confessed he could have been an adventurer himself but chose family life. He recalled an abandoned monastery near Gallow's Corner \u2014 a direct hit on the party's primary objective.",
+    "source_quote": "He eventually recalled an abandoned monastery near Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gonnathrad Kevanarial",
+    "fact": "Gonnathrad Kevanarial is a High Elf Diplomat with long wavy black hair and grey eyes, dressed in a fancy red tunic, who is obsessed with adventure stories and desperately wants to be part of one. He offered to write a five-page backstory for the party and nearly divulged information about the monastery before remembering his actual duty: to recruit adventurers to hunt bandits. He issued the party a letter of permit officially hiring them to pursue the chest near a monastery by Gallow's Corner, promising 100 gold pieces upon presentation to Caer Ostverk.",
+    "source_quote": "He issued us a letter of permit, officially hiring us to pursue a lead regarding the chest near a monastery by Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Viscounty of Verbobonc",
+    "fact": "The Viscounty of Verbobonc intended to use the lost chest to secure a treaty with the Kingdom of Celene in order to wage war on the gnomes and seize their gem mines.",
+    "source_quote": "Deakin, being a gnome, was clearly displeased by this, and surprisingly, was glad the alliance hadn't formed.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kingdom of Celene",
+    "fact": "The Kingdom of Celene was the intended treaty partner of the Viscounty of Verbobonc, with the lost chest serving as the means to formalize an alliance aimed at waging war against the gnomes and seizing their gem mines.",
+    "source_quote": "He unveiled a fascinating theory: the chest's true purpose was to secure a treaty with the Kingdom of Celene.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Cultists",
+    "fact": "The Black Earth Cultists possessed notes explicitly mentioning a monastery in the mountains as the location of the lost chest, which became the party's guiding lead.",
+    "source_quote": "The notes we found with the Black Earth cultists explicitly mentioned a monastery in the mountains as its location.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Battle of Emiry Meadows",
+    "fact": "The Battle of Emiry Meadows was a past conflict in which Robert Deakin fought, giving him credibility in his assertion that the 'big evil power' rumors were merely bandits and that the Temple was destroyed.",
+    "source_quote": "He claimed to know because he had fought in the Battle of Emiry Meadows.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gallow's Corner",
+    "fact": "Gallow's Corner is a location near which an abandoned monastery was recalled by Rithelm Drake and referenced by Gonnathrad Kevanarial as the site of the lost chest's lead.",
+    "source_quote": "He eventually recalled an abandoned monastery near Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Caer Ostverk",
+    "fact": "Caer Ostverk is the administrative center where Gonnathrad Kevanarial's letter of permit must be presented to claim the 100 gold pieces reward for information on the chest.",
+    "source_quote": "He assured us, this letter would secure us 100 gold pieces upon presentation to Caer Ostverk.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Cheap Forester",
+    "fact": "The Cheap Forester is a tavern in Ostverk owned by Robert Deakin, known for its poor ambiance but rich in information, where the party gathered key leads and met Rithelm Drake and Gonnathrad Kevanarial.",
+    "source_quote": "We settled into 'The Cheap Forester' tavern in Ostverk, where a gnome named Robert Deakin owned the place.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "lost chest",
+    "fact": "The lost chest is a mysterious artifact whose true purpose was to secure a treaty between the Viscounty of Verbobonc and the Kingdom of Celene, intended to enable war against the gnomes and seizure of their gem mines. It is the central object of pursuit by multiple factions and individuals, including adventurers, diplomats, and bandits.",
+    "source_quote": "He unveiled a fascinating theory: the chest's true purpose was to secure a treaty with the Kingdom of Celene.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "letter of permit",
+    "fact": "The letter of permit is an official document issued by Gonnathrad Kevanarial, hiring the party to pursue the lost chest near a monastery by Gallow's Corner, and promising 100 gold pieces upon presentation to Caer Ostverk.",
+    "source_quote": "He issued us a letter of permit, officially hiring us to pursue a lead regarding the chest near a monastery by Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "monastery near Gallow's Corner",
+    "fact": "The abandoned monastery near Gallow's Corner is the primary lead regarding the lost chest's location, confirmed by Rithelm Drake and referenced in Gonnathrad's permit \u2014 yet its true purpose and current state remain unknown.",
+    "source_quote": "He eventually recalled an abandoned monastery near Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "true nature of the 'big evil power'",
+    "fact": "The true nature of the 'big evil power' remains contested: Robert Deakin insists it is merely bandits, while others suspect a greater threat \u2014 possibly tied to the chest's original purpose or the destruction of the Temple.",
+    "source_quote": "Deakin, however, was adamant that rumors of a 'big evil power' were lies, insisting they were merely bandits.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "after the chaos of the Moathouse and the Kron Hills",
+    "fact": "The journey to Ostverk occurred after the chaotic events at the Moathouse and the Kron Hills, marking a period of relative calm for the party.",
+    "source_quote": "The journey to Ostverk was uneventful, a welcome change after the chaos of the Moathouse and the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after collecting the honey reward in Sheernobb",
+    "fact": "The party's arrival in Ostverk followed their collection of the honey reward in Sheernobb and their encounter with religious zeal in Hommlet, where Zinnia surrendered a magical trident.",
+    "source_quote": "After collecting the honey reward in Sheernobb and enduring the religious zeal of Calmer in Hommlet, where Zinnia gave up a perfectly good magical trident...",
+    "quote_verified": false
+  }
+]

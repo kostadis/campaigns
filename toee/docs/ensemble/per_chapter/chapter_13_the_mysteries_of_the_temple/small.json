@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Nicholas",
+    "fact": "Nicholas was knocked unconscious during the combat trial against the monastery's martial monks but was swiftly revived by Calmer's healing magic.",
+    "source_quote": "Nicholas was knocked unconscious but was swiftly revived by Calmer's healing magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer used healing magic to revive Nicholas after he was knocked unconscious in the combat trial.",
+    "source_quote": "Nicholas was knocked unconscious but was swiftly revived by Calmer's healing magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr successfully used intimidation to shatter the monastery's peaceful facade during the interrogation of a captive monk.",
+    "source_quote": "Zephyr successfully using intimidation to shatter the monastery's peaceful facade.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Ziinnia",
+    "fact": "Ziinnia participated in the ruthless interrogation of a captive monk alongside Zephyr.",
+    "source_quote": "Zephyr and Ziinnia ruthlessly interrogated a captive monk.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Captive Monk",
+    "fact": "The captive monk confessed that the monastery was devoted to the Earth Cult, not the nature goddess Beory.",
+    "source_quote": "The captive confessed that the monastery was not devoted to the nature goddess Beory, but to the Earth Cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tharok Stevan (Tharok Stonevein)",
+    "fact": "Tharok Stevan (Tharok Stonevein) orchestrated a catastrophic ritual to summon a Titan.",
+    "source_quote": "a catastrophic ritual to summon a Titan was already underway, orchestrated by the High Templar Tharok Stevan (Tharok Stonevein).",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Eldren",
+    "fact": "Brother Eldren defected and formed a tactical alliance with the party to help infiltrate the monastery.",
+    "source_quote": "the party forged a tactical alliance with the defector Brother Eldren.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sister Alina",
+    "fact": "Sister Alina is the supposed cult leader whom Ziinnia and the GM's character would confront.",
+    "source_quote": "Ziinnia and the GM's character would confront the supposed cult leader Sister Alina.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "GM's Character",
+    "fact": "The GM's character partnered with Ziinnia to confront Sister Alina during the infiltration plan.",
+    "source_quote": "Ziinnia and the GM's character would confront the supposed cult leader Sister Alina.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Cult",
+    "fact": "The Earth Cult is the true deity worshipped by the monastery, replacing the supposed devotion to Beory.",
+    "source_quote": "The captive confessed that the monastery was not devoted to the nature goddess Beory, but to the Earth Cult.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Titan Summoning Ritual",
+    "fact": "A catastrophic ritual to summon a Titan was already underway, orchestrated by the High Templar Tharok Stevan.",
+    "source_quote": "a catastrophic ritual to summon a Titan was already underway, orchestrated by the High Templar Tharok Stevan (Tharok Stonevein).",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Restricted Library",
+    "fact": "The restricted library is the target location the party must access to stop the Titan summoning ritual.",
+    "source_quote": "learning they needed to access the restricted library to stop the ritual",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Labyrinthine Library",
+    "fact": "The Labyrinthine Library is a magical space filled with floating books, glowing runes, and earth magic, where Zephyr and Nicholas deciphered a clue about four stones and four passages.",
+    "source_quote": "Zephyr and Nicholas navigated a magical library filled with floating books, glowing runes, and earth magic.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bookshelf",
+    "fact": "A specific bookshelf was knocked three times to reveal a hidden door in the Labyrinthine Library.",
+    "source_quote": "ultimately revealing a hidden door by knocking three times on a specific bookshelf.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Book Swarm",
+    "fact": "A violent swarm of animated books emerged as a magical defense after the missing fourth tome was searched for in the Labyrinthine Library.",
+    "source_quote": "searching the shelves for the missing fourth tome triggered the library's magical defenses, surrounding them in a violent swarm of animated books.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Four Specific Books",
+    "fact": "Four specific books were required to solve the puzzle beyond the hidden door in the Labyrinthine Library.",
+    "source_quote": "beyond the hidden door, they encountered a puzzle requiring four specific books.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Book Swarm Defeated",
+    "fact": "Zephyr and Nicholas defeated the book swarm in combat, causing the remaining books to vanish and revealing the path forward.",
+    "source_quote": "Zephyr and Nicholas shredded the swarms in combat, causing the remaining books to vanish and revealing the path forward.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Elemental Riddle",
+    "fact": "The party deciphered a cryptic poem about the four elements, correctly deducing that the overarching answer was the Temple of Elemental Evil itself.",
+    "source_quote": "the session concluded with the party deciphering a cryptic poem about the four elements, correctly deducing that the overarching answer to the riddle was the Temple of Elemental Evil itself",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is the ultimate revelation of the elemental riddle, indicating its central role in the monastery's true purpose.",
+    "source_quote": "correctly deducing that the overarching answer to the riddle was the Temple of Elemental Evil itself",
+    "quote_verified": true
+  }
+]

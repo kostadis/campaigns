@@ -1,0 +1,135 @@
+[
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business, after expressing skepticism about the Water Temple's offers and being convinced by the Earth Temple's personal recruitment.",
+    "source_quote": "Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia countered brilliantly by arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "source_quote": "Sequoia countered brilliantly, arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "source_quote": "Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome, confirming their suspicion that he worked for the Water Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer questioned Dick Rentsch about keeping Wat on his payroll despite his apparent loyalty to other factions, and Dick responded that until they had secured complete power, everyone had to work together.",
+    "source_quote": "When Calmer questioned Dick Rentsch about keeping Wat on his payroll despite his apparent loyalty to other factions, Dick responded that until they had secured complete power, everyone had to work together.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Wat",
+    "fact": "Wat approached Dren and whispered something to him, but Dren shoved him away, suggesting covert communication and resistance.",
+    "source_quote": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch stated that until they had secured complete power, everyone had to work together, justifying his continued employment of Wat despite suspected allegiance to the Water Temple.",
+    "source_quote": "Dick responded that until they had secured complete power, everyone had to work together.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was extremely pleased with the party's success, announced the new territory would be given to the mercenaries who would report to the party, and claimed another portion of the cleared territory for himself.",
+    "source_quote": "Romag was extremely pleased with their success. He announced that the new territory would be given to the mercenaries, who would report to the party, though he claimed another portion of the cleared territory for himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia, Zephyr, Zinnia, Calmer",
+    "fact": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power, specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer for their contributions to increasing the Earth Temple's power, specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple successfully recruited the Broken Blades, expanded its territorial control, and deepened its internal hierarchy through espionage and sabotage, with key figures like Calmer converting from rival faiths.",
+    "source_quote": "The party successfully positioned themselves deeper within the temple's hierarchy, continuing their dangerous mission of espionage and sabotage from within the enemy stronghold.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is perceived as relying on propaganda and lies, employing operatives like Wat the barkeep, and attempting to undermine the Earth Temple\u2019s recruitment efforts through financial incentives.",
+    "source_quote": "Sequoia countered brilliantly, arguing that the Water Temple relied on propaganda and lies while the Earth Temple showed real commitment by coming to recruit them personally.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades were successfully recruited by the Earth Temple and are now assigned to govern newly claimed territory under the party\u2019s authority.",
+    "source_quote": "The party emphasized they had just claimed new territory and were willing to share it with the Broken Blades.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hostel",
+    "fact": "The party prepared to leave the hostel with the Broken Blades, where Zinnia observed Wat\u2019s distress and Calmer questioned Dick Rentsch.",
+    "source_quote": "As the party prepared to leave the hostel with the Broken Blades, Zinnia noticed that Wat, the barkeep, looked very unhappy about the outcome...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Temple Banquet Hall",
+    "fact": "The temple banquet hall was newly cleaned but still carried the stench of cadavers and dead creatures mixed with food, hosting a celebratory drinking party led by Romag.",
+    "source_quote": "That night, Romag hosted a celebratory drinking party in the newly cleaned banquet hall, which still carried the stench of cadavers and dead creatures mixed with food.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "one hundred gold pieces",
+    "fact": "One hundred gold pieces were granted to Dren to help set up the Earth Temple\u2019s new business as part of the recruitment agreement.",
+    "source_quote": "Dren agreed to join the Earth Temple in exchange for one hundred gold pieces to help set up their new business.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "recruitment of Broken Blades",
+    "fact": "The Earth Temple successfully recruited the Broken Blades, expanding its influence and territorial control through direct personal outreach.",
+    "source_quote": "The party successfully brought the Broken Blades back to the temple, where Romag was extremely pleased with their success.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer\u2019s conversion",
+    "fact": "Calmer converted from a cleric of St. Cuthbert to a follower of the elder elemental god, marking a significant ideological shift within the Earth Temple\u2019s inner circle.",
+    "source_quote": "Romag proposed a toast to Sequoia, Zephyr, Zinnia, and Calmer... specifically highlighting Calmer's conversion from a cleric of St. Cuthbert to a follower of the elder elemental god.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Wat\u2019s whispered message",
+    "fact": "Wat whispered something to Dren before being shoved away, suggesting an unresolved covert communication or hidden agenda tied to the Water Temple.",
+    "source_quote": "Wat approached Dren and whispered something to him, but Dren shoved him away.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "territorial division dispute",
+    "fact": "Romag claimed a portion of the cleared territory for himself despite assigning the main territory to the Broken Blades, indicating internal power struggles within the Earth Temple.",
+    "source_quote": "He announced that the new territory would be given to the mercenaries, who would report to the party, though he claimed another portion of the cleared territory for himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "espionage and sabotage within the temple",
+    "fact": "The party continues to operate as deep-cover agents within the Earth Temple, advancing their espionage and sabotage mission under the guise of loyalty and recruitment.",
+    "source_quote": "The party successfully positioned themselves deeper within the temple's hierarchy, continuing their dangerous mission of espionage and sabotage from within the enemy stronghold.",
+    "quote_verified": false
+  }
+]

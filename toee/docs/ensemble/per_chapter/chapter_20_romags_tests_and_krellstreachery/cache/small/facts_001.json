@@ -1,0 +1,158 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a divine caster who channeled holy energy to enchant Sequioa's short sword and Zinnia's spear, and wielded a mace of smiting during the battle against the werewolves.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr initially had his life essence drained by a wraith, and later offered only his short sword to the radiant figures; his dagger was already magically enchanted.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia gave a single dagger to the radiant figures, later discovered a secret entrance in the werewolf lair, landed a devastating blow with an enchanted spear, and found the hidden treasure beneath the flagstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa reluctantly parted with one dagger to the radiant figures, had their short sword enchanted by Calmer, and participated in the battle against the werewolves.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch provided the party with a map and misled them about the nature of the threat in the secret chamber; he admitted under Romag's questioning that Alremm had hired werewolves as a test for new recruits.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the high priest who wagered the party would not survive the trial; he was pleased they returned alive and confronted Dick Rentsch upon learning the truth about the werewolves.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Alremm",
+    "fact": "Alremm hired werewolves to occupy the secret chamber as a test for new recruits, a fact revealed by Dick Rentsch to Romag after the party's return.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is the cursed organization the party was tasked with defeating; its influence is reflected in the evil-themed architecture and the presence of hostile creatures aligned with its elemental forces.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is one of the warring elemental temples referenced in the chamber's inscriptions; the werewolves claimed to serve it and mocked the party for refusing the 'blessing'.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "wraith",
+    "fact": "A wraith drained Zephyr's life essence in the octagonal room; it remains active in the corridor, requiring the party to sneak past it during their return to Romag.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "werewolves",
+    "fact": "Two werewolves inhabited the secret lair, wearing rust-red cloaks and surrounded by nesting cloth, bones, and litter; they were vulnerable only to magical or silvered weapons and were slain by the party after Calmer's divine intervention.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "skeletal warriors",
+    "fact": "Skeletal warriors lie dormant in the bone-covered hallway, waiting to animate; the party moved silently to avoid triggering them during their return to Romag.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The octagonal room deep beneath the Temple of Elemental Evil glows with unnatural milky red light and is where the wraith that drained Zephyr's life essence resides.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "secret werewolf lair",
+    "fact": "The secret lair is a bare room permeated by a feral odor, with nesting heaps of cloth and pillows, bones and litter, rust-red cloaks on pegs, and a hidden treasure pile beneath a loose flagstone.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Romag's chamber",
+    "fact": "Romag's chamber is where the party reported their findings; Dick Rentsch was present and admitted to Alremm's deception regarding the werewolves.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical dagger",
+    "fact": "A magical dagger was discovered in the werewolf lair and distributed to a party member lacking an enchanted weapon.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical short sword",
+    "fact": "A magical short sword was found in the werewolf lair and given to a party member who needed an enchanted weapon.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver service",
+    "fact": "A silver service worth a considerable sum was found in the werewolf lair and divided among the party members.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "five silver daggers",
+    "fact": "Five silver daggers were hidden beneath a loose flagstone in the werewolf lair, providing the exact weapons needed to effectively combat the lycanthropes.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "nineteen silver-tipped arrows",
+    "fact": "Nineteen silver-tipped arrows were concealed beneath the flagstone in the werewolf lair, directly addressing the party's need for silvered ammunition to defeat the werewolves.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "holy symbols of Saint Cuthbert and Rao",
+    "fact": "Holy symbols of Saint Cuthbert and Rao were found in the hidden treasure pile beneath the flagstone in the werewolf lair.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver pieces",
+    "fact": "Silver pieces were discovered in the hidden treasure pile beneath the flagstone in the werewolf lair.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Alremm's hidden agenda",
+    "fact": "Alremm's hiring of werewolves as a test for new recruits suggests a deeper, unspoken agenda within the Temple of Elemental Evil's hierarchy, potentially targeting recruits for elimination or selection.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the crystal window's deception",
+    "fact": "The radiant figures' request to surrender weapons and step away under the pretense of blessing was clearly a trap; the true nature of the crystal window and its connection to the werewolves remains unexplained.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the radiant figures",
+    "fact": "The angelic figures with snowy feathers and radiant faces claimed to offer divine blessing but were clearly linked to the werewolves' lair; their true origin and allegiance are unknown.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the party's current mission, following their escape from the wraith and preceding their return to Romag.",
+    "quote_verified": false
+  }
+]

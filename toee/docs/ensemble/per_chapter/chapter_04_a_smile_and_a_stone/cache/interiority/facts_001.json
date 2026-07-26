@@ -1,0 +1,1871 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr wants to return home, but the location of his home is not specified in this session.",
+    "source_quote": "Zephyr just wanted to go home",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr begged Calmer to sit down.",
+    "source_quote": "Zephyr begs him to sit down",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr scrutinized Calmer.",
+    "source_quote": "Zephyr scrutinizes him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr stared at Calmer while waiting for his food.",
+    "source_quote": "While Calmer waits for his food, Zephyr stares at him",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr looked at Thorne carefully.",
+    "source_quote": "Zephyr looks at him carefully",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr took stock of Thorne or Duke.",
+    "source_quote": "Zephyr takes stock of Thorne or Duke",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr suggested going outside to wait for the rest of the crew.",
+    "source_quote": "Zephyr says, \u201cWell, since we are all here, let\u2019s go outside and wait for the rest of the crew.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia noticed nothing about Zephyr and his two new companions.",
+    "source_quote": "He noticed nothing.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Zinia's start with clerics",
+    "fact": "Zinia fears this is not the kind of start that will ingratiate him with the clerics of St. Cuthbert.",
+    "source_quote": "Zinia mutters to himself that this is not the kind of start that will ingratiate him with the clerics of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia glared at Thurne.",
+    "source_quote": "Zinia glares.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia watched Calmer march onto the drawbridge.",
+    "source_quote": "Zinia watches as Calmer marches onto the drawbridge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia jumped into the water and struck and killed one of the injured frogs.",
+    "source_quote": "Zinia jumps into the water and strikes and kills one of the injured Frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia rushed to Calmer, pulled him out of the water, and patched his wound.",
+    "source_quote": "Zinia rushes to Calmer, pulls him out of the water, and patches his wound.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia groaned and dragged Calmer to the campsite.",
+    "source_quote": "Sequoia groans and drags Calmer to the campsite.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia rolled his eyes at Calmer's fear.",
+    "source_quote": "Sequoia can see the cleric\u2019s fear and rolls his eyes",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia examined the ground and whispered that the foot traffic goes to the door.",
+    "source_quote": "Sequoia examines the ground and whispers, \u201cThe foot traffic goes to the door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia waved off Zephyr\u2019s suggestion to use a mage\u2019s hand to open the door.",
+    "source_quote": "Sequoia waves him off as the door is barricaded.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia thought Zephyr had used an illusion to get the folks inside to open the door.",
+    "source_quote": "\u201cZephyr has used an illusion to get the folks inside to open the door for us,\u201d thinks Sequoia.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia killed a bandit with his shortswords and then left the chamber.",
+    "source_quote": "Sequoia kills one with his shortswords and then leaves the chamber.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia stood in front of the exit, blocking it.",
+    "source_quote": "Sequoia kills one more of the bandits and then stands in front of the exit, blocking it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia told Zinia to keep the bandit alive for interrogation.",
+    "source_quote": "Sequoia says, \u201cKeep him alive. We want to interrogate him.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia stared at Calmer, wondering if his comment about calming down was intentional.",
+    "source_quote": "The rogue stares at the cleric, wondering if that was intentional",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia pushed Calmer away and sat down next to Voss.",
+    "source_quote": "Sequoia pushes the cleric away and sits down next to Voss.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia asked Voss what the symbol was.",
+    "source_quote": "I just need to know what this symbol is.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw a flat river rock inscribed with an eye and a tear.",
+    "source_quote": "Out of the corner of Sequoia\u2019s eye, he sees a flat river rock inscribed with an eye and a tear.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is insecure about this being his first adventure.",
+    "source_quote": "Calmer is a bit insecure about this being his first adventure",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer believes he must lead as great clerics of St. Cuthbert do.",
+    "source_quote": "I think it\u2019s time that I did what all great clerics of St. Cuthbert do, which is lead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is eager to guard the rear and let others investigate.",
+    "source_quote": "I can stay here and guard the rear.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer finds glee in explaining what the Church of St. Cuthbert does to its enemies.",
+    "source_quote": "Calmer explains that membership in the cult is punishable by death.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thurne",
+    "fact": "Thurne believes he can cook frog legs that taste like chicken.",
+    "source_quote": "I can cook something nice with those legs. Tastes like chicken.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thurne",
+    "fact": "Thurne is dismissive of the party's progress and suggests quitting.",
+    "source_quote": "So are we calling it quits?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thurne",
+    "fact": "Thurne is a rugged man in his late 30s with a weathered face marked by scars from past skirmishes.",
+    "source_quote": "He is a rugged man in his late 30s with a weathered face marked by a few scars from past skirmishes.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thurne",
+    "fact": "Thurne\u2019s friends call him Duke because his name sounds like a throne.",
+    "source_quote": "My friends call me Duke because my name sounds like a throne.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Voss",
+    "fact": "Voss is a desperate man who became a bandit due to gambling debts, drinking, and loss of property.",
+    "source_quote": "I didn\u2019t want to be a bandit, but there was this property that he had to sell, then there were the gambling debts and the drinking, and well, it just went downhill from there.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Voss",
+    "fact": "Voss believes the Moathouse was a good hideout because nobody wanted to come there anymore.",
+    "source_quote": "The Moathouse was a good hideout because nobody wanted to come here anymore.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Voss",
+    "fact": "Voss believes the symbol was a token of belonging given by the big boss.",
+    "source_quote": "It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr used an illusion to get the folks inside to open the door.",
+    "source_quote": "Zephyr has used an illusion to get the folks inside to open the door for us",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr killed the last frog.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noted human and pack animal traffic on the path.",
+    "source_quote": "Hm, this is interesting. Some human and pack animal traffic comes this way.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr asked if he should use a mage\u2019s hand to open the door.",
+    "source_quote": "When Zephyr asks if he should use a mage\u2019s hand to open the door",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr groaned that Voss is too low down the totem pole to know anything useful.",
+    "source_quote": "He\u2019s too low down the totem pole to know anything useful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia thought, \u201cThe last ribbit.\u201d",
+    "source_quote": "\u201cThe last ribbit,\u201d he thinks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that all the frogs missed.",
+    "source_quote": "he sees that all the frogs missed.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia noticed the bridge rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the last frog killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia shook his head when the muttering in the room was unintelligible.",
+    "source_quote": "he looks to Zinia and Zephyr, but they shake their heads as well.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia returned from the room after the satisfying sound of a body hitting the ground.",
+    "source_quote": "The satisfying sound of a body hitting the ground quietly precedes Zinia\u2019s return.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer shouted, \u201cNo. We have come here to do a job and will do it.\u201d",
+    "source_quote": "Calmer shouts, \u201cNo. We have come here to do a job and will do it.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer said, \u201cI think it\u2019s important that we call to calm down.\u201d",
+    "source_quote": "Calmer walks in and says, \u201cI think it\u2019s important that we call to calm down.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer muttered, \u201cI just need a few moments.\u201d",
+    "source_quote": "Calmer mutters, \u201cI just need a few moments.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia decided that he can lead, but will observe.",
+    "source_quote": "Sequoia decides that he can lead, but Sequoia will observe.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia whispered that the foot traffic goes to the door.",
+    "source_quote": "Sequoia examines the ground and whispers, \u201cThe foot traffic goes to the door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia said, \u201cZephyr, let\u2019s go.\u201d",
+    "source_quote": "\u201cZephyr, let\u2019s go.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia said, \u201cLook, I know you are just a desperate man caught up in something bigger than themselves.\u201d",
+    "source_quote": "Look, I know you are just a desperate man caught up in something bigger than themselves.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia asked, \u201cWhat\u2019s this?\u201d",
+    "source_quote": "\u201cWhat\u2019s this?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia groaned after Calmer\u2019s glee was made clear.",
+    "source_quote": "He groans.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the door to the moathouse was hanging open on one great hinge.",
+    "source_quote": "The door to the moathouse is hanging open on one great hinge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the great hall had been thoroughly searched, sacked, and despoiled.",
+    "source_quote": "Once richly appointed, it has been thoroughly searched, sacked, and despoiled.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the upper stories were totally destroyed and likely impassable.",
+    "source_quote": "Looking up, he sees that pieces of beams and chunks of stone poke through, indicating that the upper stories of the place are totally destroyed and likely to be impassable to anything larger than a rat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the bandit leader was dead on the ground, pooling in blood.",
+    "source_quote": "Sequoia sees the bandit leader dead on the ground, pooling in blood in the middle of the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that three bandits escaped to the south through an enlarged arrow slit.",
+    "source_quote": "Three of the bandits escape to the south through an arrow slit that has been enlarged to allow easy retreat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the bandit cried when confronted by weapons and blood.",
+    "source_quote": "It\u2019s too much, and the bandit cries.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that Voss cried hysterically and in panic when shown the symbol.",
+    "source_quote": "Voss then starts to cry hysterically and in panic.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the symbol was a token of belonging.",
+    "source_quote": "It meant we belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the Moathouse was picked clean by adventurers.",
+    "source_quote": "adventurers picked this place clean",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the Temple was dead.",
+    "source_quote": "The Temple was dead",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the door was barricaded.",
+    "source_quote": "as the door is barricaded",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the bandits screamed that they had to get out of there.",
+    "source_quote": "The bandits recover from the shock of the surprise attack and start screaming that they have to get out of there.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia saw that the bandit\u2019s name was Voss.",
+    "source_quote": "The Bandit, whose name is Voss",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge shattered under weight.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Sequoia and Calmer fell in.",
+    "source_quote": "Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Zephyr was still standing on the bridge.",
+    "source_quote": "he sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that two frogs were injured from the falling debris.",
+    "source_quote": "but so have two frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a frog chomped at Calmer and was knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was dead at Zephyr's hand.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs' weight caused the bridge to shatter.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs missed him.",
+    "source_quote": "although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was only about 15 feet wide.",
+    "source_quote": "The track here is only about 15 feet wide or so",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bogs stunk.",
+    "source_quote": "The bogs stink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the vegetation was dense and prolific but sickly and unhealthy.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that creepers and vines threw their strangling loops over dead and living plants.",
+    "source_quote": "creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the rushes and cattails rustled and bent to a slight zephyr.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that weird birdcalls and croakings came faintly across the fen.",
+    "source_quote": "weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the track leading to the ruins was mostly overgrown and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that some game still followed the pathway.",
+    "source_quote": "Some game evidently still follows the pathway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw faint traces of the path after a mile.",
+    "source_quote": "after a mile or so faint traces can be seen.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the land sank and became boggy.",
+    "source_quote": "the land begins to sink and become boggy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "source_quote": "Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the jagged silhouette of the moathouse.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw a side path banked high to cross over the wetland.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the embankments were crumbling.",
+    "source_quote": "with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the journey was uneventful.",
+    "source_quote": "The journey is uneventful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the track heading to the ruins.",
+    "source_quote": "he sees the track heading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a scrub of thorns, thistles, weeds, and shrubs grew thickly along the edge of the track.",
+    "source_quote": "A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of the track leading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the ground was drenched in the blood of giant frogs.",
+    "source_quote": "A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that four giant frogs jumped out of the pool and attacked.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog croaked.",
+    "source_quote": "From behind him, he hears another frog croak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs missed him.",
+    "source_quote": "although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs' weight caused the bridge to shatter.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Sequoia and Calmer fell in.",
+    "source_quote": "Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Zephyr was still standing on the bridge.",
+    "source_quote": "he sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that two frogs were injured from the falling debris.",
+    "source_quote": "but so have two frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a frog chomped at Calmer and was knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was dead at Zephyr's hand.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was only about 15 feet wide.",
+    "source_quote": "The track here is only about 15 feet wide or so",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bogs stunk.",
+    "source_quote": "The bogs stink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the vegetation was dense and prolific but sickly and unhealthy.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that creepers and vines threw their strangling loops over dead and living plants.",
+    "source_quote": "creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the rushes and cattails rustled and bent to a slight zephyr.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that weird birdcalls and croakings came faintly across the fen.",
+    "source_quote": "weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the track leading to the ruins was mostly overgrown and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that some game still followed the pathway.",
+    "source_quote": "Some game evidently still follows the pathway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw faint traces of the path after a mile.",
+    "source_quote": "after a mile or so faint traces can be seen.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the land sank and became boggy.",
+    "source_quote": "the land begins to sink and become boggy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "source_quote": "Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the jagged silhouette of the moathouse.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw a side path banked high to cross over the wetland.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the embankments were crumbling.",
+    "source_quote": "with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the journey was uneventful.",
+    "source_quote": "The journey is uneventful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the track heading to the ruins.",
+    "source_quote": "he sees the track heading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a scrub of thorns, thistles, weeds, and shrubs grew thickly along the edge of the track.",
+    "source_quote": "A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of the track leading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the ground was drenched in the blood of giant frogs.",
+    "source_quote": "A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that four giant frogs jumped out of the pool and attacked.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog croaked.",
+    "source_quote": "From behind him, he hears another frog croak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs missed him.",
+    "source_quote": "although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs' weight caused the bridge to shatter.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Sequoia and Calmer fell in.",
+    "source_quote": "Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Zephyr was still standing on the bridge.",
+    "source_quote": "he sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that two frogs were injured from the falling debris.",
+    "source_quote": "but so have two frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a frog chomped at Calmer and was knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was dead at Zephyr's hand.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was only about 15 feet wide.",
+    "source_quote": "The track here is only about 15 feet wide or so",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bogs stunk.",
+    "source_quote": "The bogs stink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the vegetation was dense and prolific but sickly and unhealthy.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that creepers and vines threw their strangling loops over dead and living plants.",
+    "source_quote": "creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the rushes and cattails rustled and bent to a slight zephyr.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that weird birdcalls and croakings came faintly across the fen.",
+    "source_quote": "weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the track leading to the ruins was mostly overgrown and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that some game still followed the pathway.",
+    "source_quote": "Some game evidently still follows the pathway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw faint traces of the path after a mile.",
+    "source_quote": "after a mile or so faint traces can be seen.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the land sank and became boggy.",
+    "source_quote": "the land begins to sink and become boggy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "source_quote": "Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the jagged silhouette of the moathouse.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw a side path banked high to cross over the wetland.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the embankments were crumbling.",
+    "source_quote": "with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the journey was uneventful.",
+    "source_quote": "The journey is uneventful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the track heading to the ruins.",
+    "source_quote": "he sees the track heading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a scrub of thorns, thistles, weeds, and shrubs grew thickly along the edge of the track.",
+    "source_quote": "A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of the track leading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the ground was drenched in the blood of giant frogs.",
+    "source_quote": "A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that four giant frogs jumped out of the pool and attacked.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog croaked.",
+    "source_quote": "From behind him, he hears another frog croak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs missed him.",
+    "source_quote": "although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs' weight caused the bridge to shatter.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Sequoia and Calmer fell in.",
+    "source_quote": "Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Zephyr was still standing on the bridge.",
+    "source_quote": "he sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that two frogs were injured from the falling debris.",
+    "source_quote": "but so have two frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a frog chomped at Calmer and was knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was dead at Zephyr's hand.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was only about 15 feet wide.",
+    "source_quote": "The track here is only about 15 feet wide or so",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bogs stunk.",
+    "source_quote": "The bogs stink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the vegetation was dense and prolific but sickly and unhealthy.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that creepers and vines threw their strangling loops over dead and living plants.",
+    "source_quote": "creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the rushes and cattails rustled and bent to a slight zephyr.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that weird birdcalls and croakings came faintly across the fen.",
+    "source_quote": "weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the track leading to the ruins was mostly overgrown and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that some game still followed the pathway.",
+    "source_quote": "Some game evidently still follows the pathway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw faint traces of the path after a mile.",
+    "source_quote": "after a mile or so faint traces can be seen.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the land sank and became boggy.",
+    "source_quote": "the land begins to sink and become boggy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "source_quote": "Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the jagged silhouette of the moathouse.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw a side path banked high to cross over the wetland.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the embankments were crumbling.",
+    "source_quote": "with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the journey was uneventful.",
+    "source_quote": "The journey is uneventful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the track heading to the ruins.",
+    "source_quote": "he sees the track heading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a scrub of thorns, thistles, weeds, and shrubs grew thickly along the edge of the track.",
+    "source_quote": "A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of the track leading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the ground was drenched in the blood of giant frogs.",
+    "source_quote": "A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that four giant frogs jumped out of the pool and attacked.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog croaked.",
+    "source_quote": "From behind him, he hears another frog croak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs missed him.",
+    "source_quote": "although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs' weight caused the bridge to shatter.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Sequoia and Calmer fell in.",
+    "source_quote": "Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Zephyr was still standing on the bridge.",
+    "source_quote": "he sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that two frogs were injured from the falling debris.",
+    "source_quote": "but so have two frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a frog chomped at Calmer and was knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was dead at Zephyr's hand.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was only about 15 feet wide.",
+    "source_quote": "The track here is only about 15 feet wide or so",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bogs stunk.",
+    "source_quote": "The bogs stink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the vegetation was dense and prolific but sickly and unhealthy.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that creepers and vines threw their strangling loops over dead and living plants.",
+    "source_quote": "creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the rushes and cattails rustled and bent to a slight zephyr.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that weird birdcalls and croakings came faintly across the fen.",
+    "source_quote": "weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the track leading to the ruins was mostly overgrown and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that some game still followed the pathway.",
+    "source_quote": "Some game evidently still follows the pathway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw faint traces of the path after a mile.",
+    "source_quote": "after a mile or so faint traces can be seen.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the land sank and became boggy.",
+    "source_quote": "the land begins to sink and become boggy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "source_quote": "Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the jagged silhouette of the moathouse.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw a side path banked high to cross over the wetland.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the embankments were crumbling.",
+    "source_quote": "with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the journey was uneventful.",
+    "source_quote": "The journey is uneventful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the track heading to the ruins.",
+    "source_quote": "he sees the track heading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a scrub of thorns, thistles, weeds, and shrubs grew thickly along the edge of the track.",
+    "source_quote": "A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of the track leading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the ground was drenched in the blood of giant frogs.",
+    "source_quote": "A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that four giant frogs jumped out of the pool and attacked.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog croaked.",
+    "source_quote": "From behind him, he hears another frog croak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs missed him.",
+    "source_quote": "although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs' weight caused the bridge to shatter.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Sequoia and Calmer fell in.",
+    "source_quote": "Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Zephyr was still standing on the bridge.",
+    "source_quote": "he sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that two frogs were injured from the falling debris.",
+    "source_quote": "but so have two frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a frog chomped at Calmer and was knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was dead at Zephyr's hand.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was only about 15 feet wide.",
+    "source_quote": "The track here is only about 15 feet wide or so",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bogs stunk.",
+    "source_quote": "The bogs stink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the vegetation was dense and prolific but sickly and unhealthy.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that creepers and vines threw their strangling loops over dead and living plants.",
+    "source_quote": "creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the rushes and cattails rustled and bent to a slight zephyr.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that weird birdcalls and croakings came faintly across the fen.",
+    "source_quote": "weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the track leading to the ruins was mostly overgrown and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that some game still followed the pathway.",
+    "source_quote": "Some game evidently still follows the pathway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw faint traces of the path after a mile.",
+    "source_quote": "after a mile or so faint traces can be seen.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the land sank and became boggy.",
+    "source_quote": "the land begins to sink and become boggy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "source_quote": "Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the jagged silhouette of the moathouse.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw a side path banked high to cross over the wetland.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the embankments were crumbling.",
+    "source_quote": "with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the journey was uneventful.",
+    "source_quote": "The journey is uneventful.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the track heading to the ruins.",
+    "source_quote": "he sees the track heading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a scrub of thorns, thistles, weeds, and shrubs grew thickly along the edge of the track.",
+    "source_quote": "A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of the track leading to the ruins.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the ground was drenched in the blood of giant frogs.",
+    "source_quote": "A few seconds later, the ground is drenched in the blood of giant frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that four giant frogs jumped out of the pool and attacked.",
+    "source_quote": "Four giant frogs jump out of the pool near the bridge and attack.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog croaked.",
+    "source_quote": "From behind him, he hears another frog croak.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs missed him.",
+    "source_quote": "although they catch the Zinia flatfooted, they miss him.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the frogs' weight caused the bridge to shatter.",
+    "source_quote": "The frogs' and the party's weight causes the bridge to shatter.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Sequoia and Calmer fell in.",
+    "source_quote": "Sequoia and Calmer do.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that Zephyr was still standing on the bridge.",
+    "source_quote": "he sees Zephyr still standing on the bridge.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that two frogs were injured from the falling debris.",
+    "source_quote": "but so have two frogs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that a frog chomped at Calmer and was knocked to death\u2019s door.",
+    "source_quote": "A frog chomps at Calmer and is knocked to death\u2019s door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was dead at Zephyr's hand.",
+    "source_quote": "It is dead at Zephyr's hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the last frog was killed by an arrow through the eye.",
+    "source_quote": "he sees the last frog is also dead from an arrow that went through the eye and into the amphibian\u2019s skull.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was rotting.",
+    "source_quote": "the masked spy notices the bridge rotting.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bridge was only about 15 feet wide.",
+    "source_quote": "The track here is only about 15 feet wide or so",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the bogs stunk.",
+    "source_quote": "The bogs stink.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the vegetation was dense and prolific but sickly and unhealthy.",
+    "source_quote": "The vegetation appears dense and prolific, but somehow sickly and unhealthy",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that creepers and vines threw their strangling loops over dead and living plants.",
+    "source_quote": "creepers and vines throwing their strangling loops over the skeletons of dead saplings and living bushes alike.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the rushes and cattails rustled and bent to a slight zephyr.",
+    "source_quote": "The rushes and cattails rustle and bend even to a slight zephyr",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that weird birdcalls and croakings came faintly across the fen.",
+    "source_quote": "weird birdcalls, croakings, and other unwholesome sounds come faintly across the fen.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the track leading to the ruins was mostly overgrown and cluttered with fallen branches and trees.",
+    "source_quote": "Even the track is mostly overgrown and cluttered with fallen branches and trees.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that some game still followed the pathway.",
+    "source_quote": "Some game evidently still follows the pathway",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw faint traces of the path after a mile.",
+    "source_quote": "after a mile or so faint traces can be seen.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the land sank and became boggy.",
+    "source_quote": "the land begins to sink and become boggy.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "source_quote": "Tall marsh plants grow thickly where cattails and tamaracks do not.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw the jagged silhouette of the moathouse.",
+    "source_quote": "Off to the left can be seen the jagged silhouette of the moathouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw a side path banked high to cross over the wetland.",
+    "source_quote": "A side path, banked high to cross over the wetland to either side, just north to the entrance of the ruin.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia saw that the embankments were crumbling.",
+    "source_quote": "with crumbling embankments making travel near the edge dangerous.",
+    "quote_verified": true
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 20, 579 Midday.",
+    "source_quote": "### Planting 20, 579 Midday",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on Planting 21, 579 Morning.",
+    "source_quote": "### Planting 21, 579 Morning",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "private room cost",
+    "fact": "A private room at the Honey Haven Tavern costs eight silver.",
+    "source_quote": "A private room costs eight silver; a shared bunk costs five copper.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "shared bunk cost",
+    "fact": "A shared bunk at the Honey Haven Tavern costs five copper.",
+    "source_quote": "A private room costs eight silver; a shared bunk costs five copper.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bandit camp reward",
+    "fact": "Captain Gnonsbim offers 25 gold for the bandit camp location.",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bandit kill reward",
+    "fact": "Captain Gnonsbim offers 10 gold for every dead bandit.",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "bandit leader reward",
+    "fact": "Captain Gnonsbim offers 25 gold for the bandit leader.",
+    "source_quote": "I\u2019ll give you 25 for the camp location, 10 for every dead bandit, and 25 for the leader.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mead theft reward",
+    "fact": "The inn owner offers free lodging for a week and a small keg of enchanted mead for recovering the stolen barrels of mead.",
+    "source_quote": "Find out what happened, and you get free lodging at the Honey Haven Tavern for a week and a small keg of my enchanted meed.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gnarled boar reward",
+    "fact": "Quinna Pool promises a special meal that will bless and strengthen the adventurers for retrieving the rare gnarled boar.",
+    "source_quote": "I\u2019ll make you a special meal that will bless you and make you stronger than ever!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb village terrain",
+    "fact": "Sheernobb is nestled within the lush greenery of the Kron Hills.",
+    "source_quote": "the verdant hills of Sheernobb",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb village terrain",
+    "fact": "The road to Sheernobb winds through the dense forest.",
+    "source_quote": "The road narrows and winds through the dense forest",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "art festival cycle",
+    "fact": "The Viscounty's art festival to gift art to the Kingdom of Celene has been ongoing for some time.",
+    "source_quote": "This has been going on for some time",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "chest value context",
+    "fact": "The stolen chest was the art gift selected for the annual Viscounty art festival.",
+    "source_quote": "a chest was selected",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "art festival timing",
+    "fact": "The annual art festival competition occurred a few months ago.",
+    "source_quote": "A few months ago, the annual competition occurred",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "zombie count",
+    "fact": "The group found zombies in the abandoned torture chamber.",
+    "source_quote": "We found an abandoned torture chamber with some zombies",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "gnome guard count",
+    "fact": "A group of gnome guards halted Zephyr at the entrance to Sheernobb.",
+    "source_quote": "he is halted by a group of gnome guards",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "inn patrons count",
+    "fact": "Several dour gnomes sit drinking at the Honey Haven Tavern.",
+    "source_quote": "Several dour gnomes sit here and there, drinking unknown concoctions from steaming mugs.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bard performance",
+    "fact": "Gurdy plays a song for the group at the Honey Haven Tavern.",
+    "source_quote": "The bard plays a song",
+    "quote_verified": true
+  }
+]

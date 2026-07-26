@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag agreed to advance the party within the Earth Temple hierarchy but required a demonstration of loyalty, and ultimately decided prisoners\u2014not party members\u2014would be used for the ritual, though he postponed the ceremony until the next day.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Harch",
+    "fact": "Harch was instructed by Romag to prepare a ceremony for the ritual involving the dismemberment of prisoners as an offering to the earthen god.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr nervously told Calmer to be ready to die, prompting the cleric to pull him aside out of discomfort, and later became paralyzed during combat after failing multiple Constitution saving throws against ghoul attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer expressed discomfort when Zephyr told him to be ready to die, healed multiple allies during combat, used his reaction to strike fleeing harpies with his mace of smiting, and was temporarily paralyzed after a ghoul\u2019s claw attack.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa became charmed by harpy song, was freed by Zinnia\u2019s attacks, dealt devastating damage to ghouls and harpies, and secretly pocketed extra treasure from a broken chest without Zephyr noticing.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia resisted harpy charm, attacked allies to break their enchantment, killed multiple harpies and ghouls, and delivered critical damage to turn the tide of battle despite being targeted by multiple ghouls.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is portrayed as a hierarchy that grants titles and ranks in exchange for loyalty, and employs ritualistic sacrifices of prisoners to an earthen god, though its ghast followers appear to be performing hollow allegiance.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is implied to be the scapegoat for the disappearance of prisoners previously freed by the party, potentially triggering political conflict with the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "harpy",
+    "fact": "Harpies charmed Sequioa, Calmer, and Zephyr with song from thirty-four feet in the air, attacked party members, and were killed or driven off by Zinnia and Calmer\u2019s mace of smiting.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "ghoul",
+    "fact": "Ghouls emerged from southern and northern doors, paralyzed Zephyr and Calmer with claw bites, dealt necrotic damage, and were systematically killed by Sequioa, Zinnia, and Calmer during escalating waves of combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ritual preparation",
+    "fact": "Romag ordered the preparation of a ritual involving the dismemberment of prisoners as an offering to the earthen god, but postponed it until the next day after realizing the freed prisoners were missing.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "charming song",
+    "fact": "Two harpies sang from thirty-four feet in the air, charming Sequioa, Calmer, and Zephyr, while Zinnia resisted the effect and attacked allies to break the enchantment.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "treasure concealment",
+    "fact": "Sequioa rolled a twenty-six on Stealth to pocket extra treasure from a broken chest while Zephyr failed his Insight check, keeping a larger share for himself, Calmer, and Zinnia.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "paralysis cascade",
+    "fact": "Zephyr and Calmer were both paralyzed by ghoul attacks, disrupting party coordination until Calmer succeeded on a Constitution saving throw to recover.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "southern door",
+    "fact": "Three ghouls entered combat from the southern door, initiating the second wave of the ambush during the harpy encounter.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "northern door",
+    "fact": "Four additional ghouls entered combat from the northern door, escalating the battle and overwhelming the party with reinforcements.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "mace of smiting",
+    "fact": "Calmer used his mace of smiting to strike fleeing harpies with reactions, landing a critical hit for ten damage and dealing nine damage in another instance.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "pistol",
+    "fact": "Zephyr attempted to attack a ghoul with his pistol but missed, contributing to his vulnerability during the combat.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "missing prisoners",
+    "fact": "The prisoners previously freed by the party are now missing, likely to be blamed on the Fire Temple, potentially triggering a political crisis with the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "ghast allegiance",
+    "fact": "The ghasts declared allegiance to the Earth Temple when the party claimed to serve it, but their enthusiasm suggests performative loyalty rather than genuine devotion.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "ceremony postponement",
+    "fact": "The ritual ceremony was postponed until the following day after Romag discovered the freed prisoners were missing.",
+    "quote_verified": false
+  }
+]

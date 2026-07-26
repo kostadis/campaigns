@@ -1,0 +1,86 @@
+[
+  {
+    "type": "npc",
+    "subject": "Voss",
+    "fact": "Voss is a former bandit who was coerced into service due to gambling debts, alcoholism, and the forced sale of his property; he is terrified of being executed by the Church of St. Cuthbert for alleged cult membership.",
+    "source_quote": "The Moathouse was a good hideout because nobody wanted to come here anymore. The Temple was dead, and adventurers picked this place clean, so nobody came here.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of St. Cuthbert who takes grim pleasure in explaining the Church\u2019s punitive doctrines, deliberately exacerbating Voss\u2019s terror under the guise of 'calming' him.",
+    "source_quote": "I think it\u2019s important that we call to calm down.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a rogue who shows reluctant empathy toward Voss, rejecting execution in favor of interrogation, and is the first to notice and investigate the mysterious symbol.",
+    "source_quote": "Look, I know you are just a desperate man caught up in something bigger than themselves. And I really don\u2019t need to hand you over to the authorities. I just need to know what this symbol is.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a monk who uses illusion magic to manipulate enemies and is dismissive of Voss\u2019s knowledge, believing him too low on the hierarchy to be useful.",
+    "source_quote": "He\u2019s too low down the totem pole to know anything useful.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia is a rogue who executes precise, silent takedowns and follows Sequoia\u2019s lead in interrogation, showing no overt emotion but contributing to the group\u2019s tactical cohesion.",
+    "source_quote": "Keep him alive. We want to interrogate him.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Church of St. Cuthbert",
+    "fact": "The Church of St. Cuthbert enforces brutal penalties for suspected membership in rival cults, treating affiliation as a capital offense; its reputation for zealous punishment has instilled terror in the region.",
+    "source_quote": "Membership in the cult is punishable by death.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Moathouse",
+    "fact": "The Moathouse was once a religious site tied to a now-dead temple, later used as a bandit hideout after being thoroughly looted and abandoned by adventurers; it is now a scene of recent violence and death.",
+    "source_quote": "The Moathouse was a good hideout because nobody wanted to come here anymore. The Temple was dead, and adventurers picked this place clean, so nobody came here.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Flat river rock with eye and tear",
+    "fact": "A small, inscribed river stone bearing the symbol of an eye and a tear; it was given by a higher authority to signify belonging to a hidden network, and its presence triggers extreme fear in Voss.",
+    "source_quote": "It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Bandits",
+    "fact": "A group of armed outlaws, formerly tied to the Moathouse\u2019s ruined temple; most were killed in a surprise attack by the party, three escaped through an enlarged arrow slit, and one remains alive for interrogation.",
+    "source_quote": "Three of the bandits escape to the south through an arrow slit that has been enlarged to allow easy retreat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Moathouse raid",
+    "fact": "The party launched a coordinated, stealthy assault on the Moathouse, killing nine bandits and capturing one; the attack began with illusion-based door manipulation and ended with the group securing the site for interrogation.",
+    "source_quote": "Zephyr has used an illusion to get the folks inside to open the door for us.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Eye and Tear Symbol",
+    "fact": "The origin and meaning of the eye-and-tear symbol remain unknown; it is linked to a higher authority within a hidden network, possibly tied to the dead temple or a secret cult, and its presence suggests a deeper conspiracy.",
+    "source_quote": "It\u2019s what the big boss gave the boss who gave it to us. It meant we belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a single session of play, marked by a sequence of combat, interrogation, and revelation, culminating in the discovery of the eye-and-tear symbol and the bandit\u2019s emotional breakdown.",
+    "source_quote": "Sequoia then wakes up the bandit.",
+    "quote_verified": true
+  }
+]

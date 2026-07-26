@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr fired a precise arrow into the mist from the edge of the corridor, efficiently targeting the enemy and demonstrating rare tactical discipline.",
+    "source_quote": "Zephyr put an arrow into the mist from the edge of the corridor \u2014 precise, efficient, for once doing the sensible thing from distance.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia delivered a finishing blow on the second bugbear with a satisfying weight, contributing decisively to the collapse of the barricade.",
+    "source_quote": "Sequoia's finishing blow on the second had a certain satisfying weight to it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer unleashed a single pulse of guiding radiance that dissolved the double doors of the barricade, triggering the collapse of the enemy line and fulfilling the tactical objective.",
+    "source_quote": "A single pulse of guiding radiance, the kind of divine light that doesn't ask permission, and the double doors at the barricade simply *stopped existing as an obstacle*.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The Wraith resisted Calmer's holy light, which dissolved into the cold air without effect, demonstrating unnatural resilience to divine power.",
+    "source_quote": "The wraith looked at it. And did not flinch. The holy light dissolved into the cold air like breath in winter, leaving exactly nothing behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbears",
+    "fact": "Bugbears held a fortified barricade of pews and rubble against the Earth Temple advance, maintaining a choke point until the barricade was destroyed.",
+    "source_quote": "Bugbears behind an improvised barricade of pews and rubble, holding the stairway against an Earth Temple advance that had stalled somewhere in the haze ahead of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Cultists",
+    "fact": "Cultists formed the front line of the Fire Temple defense, positioned at the choke point and swiftly neutralized by direct assault.",
+    "source_quote": "The cultist at the front of their line didn't see me coming... The cultist dropped before the bugbears had finished processing that we were there.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple launched a stalled advance that was reinvigorated after the barricade was destroyed, flooding through the gap with tidal force.",
+    "source_quote": "The Earth Temple forces came through the gap like the tide deciding to try something different.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple maintained a defensive line that fractured into chaos after the barricade collapsed, exactly as the attackers had engineered.",
+    "source_quote": "The Fire Temple line fractured into the exact kind of chaotic mess that we had specifically engineered this situation to produce.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Passage",
+    "fact": "The Air Temple passage became the site of a confrontation with a wraith, marked by unnatural stillness and the failure of holy light.",
+    "source_quote": "I came around the bend into the Air Temple passage and there it was, drifting in the dark ahead of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Corridor (Scalding Battlefield)",
+    "fact": "The corridor was transformed into a steam-choked battlefield, littered with bodies and fortified by barricades, where tactical engagements unfolded in poor visibility.",
+    "source_quote": "A corridor that had turned itself into something between a battle and a sauna... Stone floor. Bodies in Earth Temple brown and Fire Temple red...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Barricade (pews and rubble)",
+    "fact": "The barricade, constructed from pews and rubble, served as a choke point that held the advance until it was destroyed by divine intervention.",
+    "source_quote": "Bugbears behind an improvised barricade of pews and rubble...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Barricade Destruction",
+    "fact": "The barricade was destroyed by Calmer\u2019s divine radiance, triggering the collapse of the Fire Temple\u2019s defensive line and enabling the Earth Temple advance.",
+    "source_quote": "The double doors at the barricade simply *stopped existing as an obstacle*. They flew open with the kind of finality that makes everyone on both sides pause for half a breath.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cultist Neutralization",
+    "fact": "A cultist at the front of the Fire Temple line was swiftly eliminated by direct assault, removing the hinge of the barricade and initiating the tactical collapse.",
+    "source_quote": "Through the steam, into the billowing white heat, and then just \u2014 strikes, a sequence of controlled impacts... The cultist dropped before the bugbears had finished processing that we were there.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Steam Phenomenon",
+    "fact": "An unexplained, escalating steam phenomenon persists after the battle, feeding on elemental violence and threatening to become indiscriminate.",
+    "source_quote": "The steam was still there, and it was getting worse. Elemental violence has a way of feeding itself...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Wraith Resilience",
+    "fact": "The wraith\u2019s immunity to holy light suggests an entity beyond conventional undead, raising questions about its origin and nature.",
+    "source_quote": "The holy light dissolved into the cold air like breath in winter, leaving exactly nothing behind.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "mission completion",
+    "fact": "The mission was accomplished in the narrowest operational sense: barricade broken, advance resumed, factions engaged in mutual destruction.",
+    "source_quote": "The mission was accomplished in the narrowest operational sense: the barricade broken, the advance resumed, the fire and earth factions in the process of tearing into each other exactly as intended.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "disengagement",
+    "fact": "The team initiated disengagement immediately after mission success, recognizing the kill zone had become indiscriminate.",
+    "source_quote": "Time to not be here anymore... You're exiting the kill zone you personally created before it becomes indiscriminate about its victims.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,149 @@
+[
+  {
+    "type": "npc",
+    "subject": "St. Cuthbert",
+    "fact": "St. Cuthbert is the divine patron of orthodoxy and justice, invoked by the cleric in two failed attempts to banish the wraith, whose power is expected to work but did not.",
+    "source_quote": "The divine light of St. Cuthbert, Cudgel of Ortho, the Arbiter Eternal, dispersed twice into the air of a dank dungeon corridor.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a member of the party who fired a pistol at the wraith, landing the only wound it sustained before fleeing into a secret passage.",
+    "source_quote": "Zephyr raised his pistol. The shot caught the wraith across what might generously be called its torso \u2014 a wound that barely registered on something like this \u2014 the only wound anyone managed to land on the thing before he broke for the secret passage.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a party member who attempted to set a trap at the corridor door during the ghoul ambush, but the mechanism failed prematurely.",
+    "source_quote": "Sequoia moved fast \u2014 bless him \u2014 already working to set something at the door. But the ghouls rolled forward like they had somewhere to be, and whatever trap he was laying, they hit it before it was ready.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a party member who fled down the corridor during the wraith\u2019s threat, joining the group\u2019s panicked retreat.",
+    "source_quote": "The party began dashing. One by one, boots loud on stone, the Air Temple corridor filling with the very specific sound of adventurers not fighting a tactical retreat but simply *running*. Sequoia. Zinnia. Zephyr already gone.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The wraith is an undead abomination that resisted two divine attacks, endured a pistol shot, and laughed hysterically after striking the cleric from behind, demonstrating immunity to conventional force and supernatural power.",
+    "source_quote": "The wraith remained exactly as present... dispersed twice into the air... stood untouched and completely unbothered... the wraith laughed at me. *Hysterically.*",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Four ghouls, formerly members of the Earth Temple, ambushed the party in a corridor, immune to premature traps and capable of paralyzing victims with their claws.",
+    "source_quote": "They came out of the dark in a shambling line \u2014 four of them... Earth Temple members... now raised by something with necromantic ambitions... the claws hit and your body just *stops*.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a faction within the temple war whose members have been raised as ghouls, indicating necromantic interference and a breach of battlefield boundaries.",
+    "source_quote": "Earth Temple members. People we'd seen in corridors, nodded to while maintaining cover, filed away as *useful* or *obstacle*... now raised by something with necromantic ambitions.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the faction whose corridor the party fled through during the wraith's attack, marked by stone passages and the sound of retreating adventurers.",
+    "source_quote": "The Air Temple corridor filling with the very specific sound of adventurers not fighting a tactical retreat but simply *running*.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Wraith's First Divine Attack",
+    "fact": "The cleric\u2019s first attempt to banish the wraith using divine power failed, with the light dispersing uselessly into the air.",
+    "source_quote": "The divine light of St. Cuthbert... dispersed twice into the air of a dank dungeon corridor while an undead abomination stood untouched...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Wraith's Second Divine Attack",
+    "fact": "The cleric\u2019s second attempt to banish the wraith using divine power also failed, reinforcing the creature\u2019s immunity and the party\u2019s desperation.",
+    "source_quote": "The divine light of St. Cuthbert... dispersed twice into the air of a dank dungeon corridor while an undead abomination stood untouched...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Ghoul Ambush",
+    "fact": "A group of four ghoulized Earth Temple members ambushed the party in a corridor, bypassing a prematurely triggered trap and forcing the party into close combat.",
+    "source_quote": "They came out of the dark... hit it before it was ready. The mechanism failed at the worst possible moment... the ghouls kept coming.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Cleric\u2019s Final Escape",
+    "fact": "The cleric was struck from behind by the wraith, received a secondary fire bolt injury, but escaped through the passage and survived.",
+    "source_quote": "The wraith reached out as I sprinted and caught me across the back... a stray bolt of fire from somewhere in the chaos added its own insult... I cleared the threshold. I made it through the passage. I was, technically, alive.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Plate Mail",
+    "fact": "The cleric wears blessed and magical plate mail, considered the finest protection available to a cleric of their station, which failed to prevent the wraith\u2019s strike.",
+    "source_quote": "plate mail, blessed and magical, the finest protection available to a cleric of my station and general level of being-placed-in-danger-repeatedly.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dagger",
+    "fact": "Zephyr carries a dagger, drawn in anticipation of ghoul attack, as part of his prepared response to paralysis-inducing undead.",
+    "source_quote": "The dagger was already in my hand.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Pistol",
+    "fact": "Zephyr\u2019s pistol is the only weapon to land a tangible wound on the wraith, though the damage was negligible.",
+    "source_quote": "Zephyr raised his pistol. The shot caught the wraith across what might generously be called its torso \u2014 a wound that barely registered...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Wraith\u2019s Laughter",
+    "fact": "The wraith\u2019s hysterical laughter after the cleric\u2019s escape is an unexplained supernatural taunt, suggesting the creature has intelligence beyond mere hunger.",
+    "source_quote": "came the sound of the wraith laughing at me. *Hysterically.* It laughed at me *hysterically.*",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Necromantic Interference",
+    "fact": "The raising of Earth Temple members as ghouls implies an unseen necromancer operating within the temple war, violating established battlefronts and tactics.",
+    "source_quote": "now raised by something with necromantic ambitions and sent wandering down here to scavenge whatever the temple war left behind.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during a session of the temple war, following the cleric\u2019s prior death and resurrection, and before any resolution to the undead threat.",
+    "source_quote": "I have been killed once already in this gods-forsaken temple, revived at considerable cost...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Corridor",
+    "fact": "The Air Temple corridor is the location where the party fled from the wraith, marked by stone floors and the sound of panicked retreat.",
+    "source_quote": "The Air Temple corridor filling with the very specific sound of adventurers not fighting a tactical retreat but simply *running*.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple Ambush Site",
+    "fact": "The ambush site is a corridor within the temple complex where ghouls emerged from darkness, bypassing traps and confronting the party.",
+    "source_quote": "They came out of the dark in a shambling line... We'd pulled back to our own territory to wait out the temple war...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Secret Passage",
+    "fact": "A hidden exit used by Zephyr to flee the wraith, later used by the party to escape the corridor.",
+    "source_quote": "before he broke for the secret passage... I cleared the threshold. I made it through the passage.",
+    "quote_verified": false
+  }
+]

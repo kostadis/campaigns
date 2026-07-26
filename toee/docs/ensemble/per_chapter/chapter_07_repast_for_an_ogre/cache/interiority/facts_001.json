@@ -1,0 +1,191 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer experiences bouts of self-importance and is easily rattled by danger.",
+    "source_quote": "Calmer brags about how he can see everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer noticed the green slime hanging over the arch just in time.",
+    "source_quote": "I noticed, just in time, the blob of green slime hanging over the arch at the bottom of the stairwell.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr removed the green slime from Calmer's armor using wood he was carrying.",
+    "source_quote": "Using some wood I happened to be carrying on me, I removed the slime from his armor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is dismissive of Calmer's distress and finds his reactions excessive.",
+    "source_quote": "\u201cGrow up,\u201d I tell him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia noticed the greased door hinges in the eastern storeroom.",
+    "source_quote": "The door hinges are greased. For a place that should be abandoned, that\u2019s odd.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia pulled her swords upon hearing a bang, suspecting an ambush.",
+    "source_quote": "I then overhear a bang. I pull my swords, ready to strike, and realize it\u2019s the cleric.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia wants to kill the cleric because she believes he alerted the Ogre.",
+    "source_quote": "I want to kill him. If there is anything past the door to the east, it heard us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia discovered the magical cloak of elvenkind in the Ogre\u2019s nest.",
+    "source_quote": "I look inside the Ogre\u2019s nest and discover a magical cloak of elvenkind.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Ogre\u2019s food source",
+    "fact": "The origin of the Ogre\u2019s food supply is a grisly mystery, but not fully explained in this session.",
+    "source_quote": "An Ogre needs a lot of food. And so someone has been providing it with food.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia learned the names of the two merchant prisoners: Derrick and Florian.",
+    "source_quote": "My name is Derrick, and this is Florian.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia learned the identity of the gnome spy: Jarran.",
+    "source_quote": "My name is Jarran.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke is overconfident and believes he can control the situation from afar.",
+    "source_quote": "Don\u2019t you worry, team. I\u2019ll make sure to guard them.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia decided to meet with the Druid first before presenting evidence to the elders.",
+    "source_quote": "We should go to the Druid first.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo (the Druid)",
+    "fact": "Jaroo is cautious and believes evidence must be presented to the elders before action.",
+    "source_quote": "You have proof of brigands. And that is important... but we must go to the elders.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia declined to accompany Calmer to speak with the Cleric.",
+    "source_quote": "I tell him to go. He\u2019s disappointed I won\u2019t follow.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is suspiciously pleased when Calmer is absent and shows interest in the tower.",
+    "source_quote": "Spugnoir seems particularly pleased that the cleric is not with us.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia learned from Ostler that her room had been paid for until the 19th.",
+    "source_quote": "And your room has been paid for until the 19th.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia observed that Ostler was pleased she went to Jaroo before outsiders.",
+    "source_quote": "And I am very pleased that you decided to go to Jaroo before going to those interloping outsiders.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia witnessed Calmer attempt to derail the Village Elder meeting by demanding the Prefect\u2019s presence.",
+    "source_quote": "\u201cI would like to insist that the Prefect be present for these meetings.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Rufus",
+    "fact": "Rufus dismissed the evidence of the Temple\u2019s re-emergence as lacking national importance.",
+    "source_quote": "We have no conclusive evidence of the re-emergence of the Temple of Elemental Evil.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Burne",
+    "fact": "Burne commended the party for their information and deputation.",
+    "source_quote": "I want to commend our heroes for their information.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr learned from Spugnoir about the Circle of Eight and their involvement in the Battle of Emiry Meadows.",
+    "source_quote": "There are tales that the circle of eight appeared.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir reveres the Circle of Eight and believes they act only to preserve balance.",
+    "source_quote": "The Circle of Eight is neither good nor evil. They only care about the balance.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia entered the tower and discovered a summoning circle and mural.",
+    "source_quote": "I see permanent markings on the floor for a summoning circle and mural.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinia",
+    "fact": "Zinia encountered a smoke mephit who demanded entertainment to avoid attack.",
+    "source_quote": "The smoke mephit turns to us and says that if we entertain him, we won\u2019t be attacked for entering his kingdom.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr sang a song that enraged the smoke mephit.",
+    "source_quote": "Zephyr tries to entertain him with some song. Unfortunately, as we learn later, that song is a song that immediately induces a blood-curdling rage in smoke and dust mephits.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr opened the second door after Zinia noticed everyone staring at it.",
+    "source_quote": "Finally, Zephyr gets the point and mutters, \u201cI will open the door.\u201d",
+    "quote_verified": true
+  }
+]

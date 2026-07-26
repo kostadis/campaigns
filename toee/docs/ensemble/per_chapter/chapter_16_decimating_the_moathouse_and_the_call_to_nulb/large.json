@@ -1,0 +1,324 @@
+[
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The party was positioned in Lareth the Beautiful's inner sanctum in the Moathouse.",
+    "source_quote": "The session resumed with the party positioned in Lareth the Beautiful's inner sanctum in the Moathouse",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "The party executed an elaborate misdirection in Hommlet following the deaths of Rannos and Gremag.",
+    "source_quote": "moments after having executed their elaborate misdirection in Hommlet following the deaths of Rannos and Gremag",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful was furious after seeing through the party's lies that the Deep Temple stole the Chest of Rao.",
+    "source_quote": "Lareth was furious, having seen through the party's lies that the Deep Temple stole the Chest of Rao",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The Deep Temple was accused of stealing the Chest of Rao.",
+    "source_quote": "the Deep Temple stole the Chest of Rao",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr used a dose of Dust of Disappearance to become invisible.",
+    "source_quote": "Zephyr using a dose of Dust of Disappearance to become invisible",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr retreated to a corner to position himself for a later sneak attack.",
+    "source_quote": "retreating to a corner to position himself for a later sneak attack",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia engaged the visible guards.",
+    "source_quote": "Zinnia and Sequoia immediately engaged the visible guards",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia engaged the visible guards.",
+    "source_quote": "Zinnia and Sequoia immediately engaged the visible guards",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "guards dispatched",
+    "fact": "Zinnia and Sequoia quickly dispatched several of Lareth's goons.",
+    "source_quote": "quickly dispatching several of Lareth's goons",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "path carved",
+    "fact": "Zinnia and Sequoia carved a path through the room.",
+    "source_quote": "carving a path through the room",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful summoned a Mirror Image of himself.",
+    "source_quote": "Lareth retaliated by summoning a Mirror Image of himself",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Lareth the Beautiful severely wounded Calmer with Inflict Wounds.",
+    "source_quote": "severely wounding Calmer with Inflict Wounds",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer burns healing magic",
+    "fact": "Calmer burned his healing magic early to stay in the fight.",
+    "source_quote": "Calmer was forced to burn his healing magic early to stay in the fight",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr attacks illusion",
+    "fact": "Zephyr emerged from invisibility and attacked one of the illusory Lareth's.",
+    "source_quote": "Zephyr emerged from invisibility and attacked one of the illusory Lareth's",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr confirms illusion",
+    "fact": "Zephyr confirmed the illusory Lareth was a fake.",
+    "source_quote": "confirming it was a fake",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr retreated to hide again after confirming the illusion.",
+    "source_quote": "before retreating to hide again",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sarge",
+    "fact": "Calmer focused on healing himself under the relentless assault of Lareth's sergeant, Sarge.",
+    "source_quote": "Calmer focused on healing himself under the relentless assault of Lareth's sergeant, Sarge",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful paralyzed Zephyr with Hold Person.",
+    "source_quote": "Lareth used his magic to paralyze both Zephyr and Zinnia with Hold Person",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth the Beautiful",
+    "fact": "Lareth the Beautiful paralyzed Zinnia with Hold Person.",
+    "source_quote": "Lareth used his magic to paralyze both Zephyr and Zinnia with Hold Person",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Lareth the Beautiful defeated",
+    "fact": "Sequoia struck the killing blow, felling Lareth the Beautiful.",
+    "source_quote": "Sequoia, who was not paralyzed, struck the killing blow, felling Lareth the Beautiful",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Lareth the Beautiful's reign ended",
+    "fact": "The reign of Lareth the Beautiful in the Moathouse ended.",
+    "source_quote": "ending the reign of the Fire Temple leader in the Moathouse",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "remaining guards dispatched",
+    "fact": "The remaining guards and Sarge were quickly dispatched after Lareth's death.",
+    "source_quote": "With Lareth dead, the remaining guards and Sarge were quickly dispatched",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Mace of Smiting",
+    "fact": "The party found a Mace of Smiting among Lareth's loot.",
+    "source_quote": "A Mace of Smiting",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "magical Plate Mail",
+    "fact": "The party found magical Plate Mail among Lareth's loot.",
+    "source_quote": "magical Plate Mail",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Ring of Free Action",
+    "fact": "The party found a Ring of Free Action among Lareth's loot.",
+    "source_quote": "and a Ring of Free Action",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver service set",
+    "fact": "The party found a silver service set worth 2,000 GP among Lareth's loot.",
+    "source_quote": "a silver service set worth 2,000 GP",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "fire opal necklace",
+    "fact": "The party found a fire opal necklace worth 3,500 GP among Lareth's loot.",
+    "source_quote": "a fire opal necklace worth 3,500 GP",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gems",
+    "fact": "The party found various gems worth 800 GP among Lareth's loot.",
+    "source_quote": "and various gems (ungets) worth 800 GP",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "party gains level",
+    "fact": "All four adventurers gained a level after defeating Lareth the Beautiful.",
+    "source_quote": "all four adventurers gained a level",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia gains Uncanny Dodge",
+    "fact": "Sequoia acquired Uncanny Dodge as a new ability after leveling up.",
+    "source_quote": "increasing their power and acquiring new abilities, such as Sequoia's Uncanny Dodge",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorne (Duke)",
+    "fact": "The party contacted Thorne (Duke) to pay him a 50 GP fee for the clean-up job.",
+    "source_quote": "The party contacted Thorne (Duke), agreeing to pay him a 50 GP fee for the clean-up job",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Gnolls",
+    "fact": "The party encountered eight Gnolls who were allies of Lareth's via a local Gnoll King.",
+    "source_quote": "They encountered a large group of eight Gnolls who were allies of Lareth's via a local Gnoll King",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gnolls deceived",
+    "fact": "The party convinced the Gnolls that Lareth was merely 'busy' and that a pay raise was imminent.",
+    "source_quote": "they successfully convinced the Gnolls that Lareth was merely 'busy' and that a pay raise was imminent",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "iron grate mechanism triggered",
+    "fact": "The party discovered a secret mechanism that dropped an iron grate, blocking a passage.",
+    "source_quote": "found a secret mechanism that dropped an iron grate, blocking a passage",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "false wall trap discovered",
+    "fact": "The party found evidence that pulling a seemingly false wall triggered a trap related to the grate.",
+    "source_quote": "found evidence that pulling a seemingly false wall triggered a trap related to the grate",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbears",
+    "fact": "The party encountered six intelligent Bugbears in a chamber.",
+    "source_quote": "led them to a chamber guarded by six intelligent Bugbears",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Bugbears persuaded to fight Gnolls",
+    "fact": "The party persuaded the Bugbears to run off and fight the Gnolls for the plunder by claiming Lareth was dead and the Moathouse was ripe for pillaging.",
+    "source_quote": "they successfully persuaded the Bugbears to run off and fight the Gnolls for the plunder",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "The party returned to Hommlet to gather the local council members.",
+    "source_quote": "Finally, the party returned to Hommlet and gathered the local council members",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Osler Goodingut",
+    "fact": "Osler Goodingut was one of the local council members gathered in Hommlet.",
+    "source_quote": "Osler Goodingut, Burne, Rufus, and Jaroo",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne was one of the local council members gathered in Hommlet.",
+    "source_quote": "Osler Goodingut, Burne, Rufus, and Jaroo",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus was one of the local council members gathered in Hommlet.",
+    "source_quote": "Osler Goodingut, Burne, Rufus, and Jaroo",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo asserted that the party must travel to Nulb to infiltrate the Temple's operations.",
+    "source_quote": "Jaroo asserted that the next step was vital: the party must travel to the city of Nulb to infiltrate the Temple's operations there",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "infiltrate Nulb",
+    "fact": "The council agreed the party must travel to Nulb to disrupt the Temple's machinations and identify who was truly in charge.",
+    "source_quote": "the party must travel to the city of Nulb to infiltrate the Temple's operations there, disrupt their machinations, and identify who was truly in charge",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "militia preparation",
+    "fact": "The council members agreed to prepare the militia while the adventurers worked in secret.",
+    "source_quote": "the council members agreed that while they prepared the militia, the adventurers needed to continue their disruptive work in secret",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Nulb",
+    "fact": "The party was poised to head north to Nulb.",
+    "source_quote": "the session concluded with the adventurers poised to head north to Nulb",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The party was still in possession of the Chest of Rao.",
+    "source_quote": "still in possession of the invaluable Chest of Rao",
+    "quote_verified": false
+  }
+]

@@ -1,17 +1,17 @@
 version: 2
 ui:
   session_doc:
-    session: /home/kroussos/toee/toee/summaries/20260614/gm-assist.md
+    session: gm-assist.md
     extract_dir: null
     roleplay_dir: null
     output_dir: /home/kroussos/toee/toee/summaries/20260614
     summary_dir: null
-    session_summary: /home/kroussos/toee/toee/summaries/20260614/session-summary.md
-    scene_extractions_dir: /home/kroussos/toee/toee/summaries/20260614/scene_extractions_new
-    narration_dir: /home/kroussos/toee/toee/summaries/20260614/narration
-    party: /home/kroussos/toee/toee/docs/party.md
-    voice_dir: /home/kroussos/toee/toee/voice
-    examples_dir: /home/kroussos/toee/toee/examples
+    session_summary: session-summary.md
+    scene_extractions_dir: scene_extractions
+    narration_dir: narration
+    party: docs/party.md
+    voice_dir: voice
+    examples_dir: examples
     characters: sequioa, calmer, zinnia, zephyr
     gm_player: Kostadis
     narrate_tokens: 16000
@@ -186,7 +186,10 @@ ui:
       devotion as the one genuine thing in a campaign of deception)'
     batch: false
     session_name: null
-    context: []
+    context:
+    - /home/kroussos/toee/toee/docs/campaign_state.md
+    - /home/kroussos/toee/toee/docs/world_state.md
+    - /home/kroussos/toee/toee/docs/party.md
     backend: claude-code
     dgx_endpoint: null
     dgx_model: null
@@ -194,7 +197,7 @@ ui:
     scrub_tokens: 16000
     work_dir: /home/kroussos/toee/toee
   vtt_summary:
-    input: GMT20260524-153424_Recording.transcript.cleaned.vtt
+    input: GMT20260622-191310_Recording.transcript.vtt
     output: null
     context:
     - /home/kroussos/toee/toee/docs/campaign_state.md
@@ -212,15 +215,17 @@ ui:
     chapters_glob: docs/chapters/chapter_*.md
     chapters_selected: []
     extract:
-      backend: anthropic
-      endpoint: null
-      model: null
+      backend: dgx
+      endpoint: http://192.168.1.147:8001/v1
+      model: Qwen/Qwen3-Next-80B-A3B-Instruct-FP8
     synthesize:
-      backend: anthropic
+      backend: claude-code
       endpoint: null
-      model: null
-    known_names: []
-    aliases_path: null
+      model: claude-opus-4-8
+    known_names:
+    - docs/ensemble/known_names.md
+    - docs/npcs/.dedup_state.json
+    aliases_path: docs/ensemble/aliases.json
   profiles:
     profiles:
     - name: toee
@@ -408,7 +413,9 @@ ui:
     active: toee
   campaign_state: {}
   distill: {}
-  party: {}
+  party:
+    mode: config
+    config_path: docs/party/party.yaml
   planning: {}
   prep: {}
   npc: {}
@@ -418,6 +425,6 @@ ui:
   experimental: {}
 runtime:
   default_model: claude-opus-4-8
-  session_dir: /home/kroussos/toee/toee/summaries/20260524
+  session_dir: /home/kroussos/toee/toee/summaries/20260625
 legacy:
   unmigrated: {}

@@ -1,0 +1,1965 @@
+[
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "next morning",
+    "fact": "The next morning marks the time when Lieutenant Krell appeared with the mission to raid the Fire Temple, initiating the chain of events leading to the ogre's death and the party's betrayal.",
+    "source_quote": "The next morning, Lieutenant Krell appeared with a mission from Romag.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the party's current mission, following their escape from the wraith and preceding their return to Romag.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "angelic trap",
+    "fact": "The party avoided the angelic trap involving crystal windows, silvered items, and blessings.",
+    "source_quote": "avoided the angelic trap",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "betrayal by Lieutenant Krell",
+    "fact": "Lieutenant Krell betrayed the party by sending them to kill an Earth Temple ogre.",
+    "source_quote": "someone had set them up, and the most likely culprit was Lieutenant Krell himself",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer boldly claimed to be a former cleric of Saint Cuthbert who had converted to the Earth Temple\u2019s cause.",
+    "source_quote": "Calmer boldly claimed to be a former cleric of Saint Cuthbert who had converted to the Earth Temple\u2019s cause",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer called upon his divine power, channeling energy to temporarily enchant Sequioa\u2019s short sword and Zinnia\u2019s spear with magical properties.",
+    "source_quote": "Calmer called upon his divine power, channeling energy to temporarily enchant Sequioa\u2019s short sword and Zinnia\u2019s spear with magical properties",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer declared there had better be some magical items in the lair after such a difficult fight.",
+    "source_quote": "Calmer declared there had better be some magical items in the lair after such a difficult fight",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer muttered that Dick Rentsch hadn\u2019t told them everything about what awaited them in these depths.",
+    "source_quote": "Calmer muttered that Dick Rentsch hadn\u2019t told them everything about what awaited them in these depths",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer wielded his mace of smiting.",
+    "source_quote": "Calmer wielded his mace of smiting",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer enchants weapons",
+    "fact": "Calmer channeled divine energy to temporarily enchant Sequioa\u2019s short sword and Zinnia\u2019s spear with magical properties.",
+    "source_quote": "Calmer called upon his divine power, channeling energy to temporarily enchant Sequioa\u2019s short sword and Zinnia\u2019s spear with magical properties",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's guardians burn werewolves",
+    "fact": "Calmer\u2019s radiant guardians materialized around him and burned the werewolves with holy light.",
+    "source_quote": "Calmer\u2019s radiant guardians materialized around him, burning the creatures with holy light",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "convert to Earth Temple",
+    "fact": "Calmer declared himself a former cleric of Saint Cuthbert who had converted to the Earth Temple\u2019s cause.",
+    "source_quote": "a former cleric of Saint Cuthbert who had converted to the Earth Temple\u2019s cause",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "count to seventy-seven",
+    "fact": "The party must count to seventy-seven while the figures send a ray of just white through the room to bless their equipment.",
+    "source_quote": "count to seventy-seven",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch admitted that Alremm had hired werewolves in the secret chamber as a test of the new recruits.",
+    "source_quote": "Dick Rentsch admitted that Alremm had hired werewolves in the secret chamber as a test of the new recruits",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "enchanted weapons",
+    "fact": "Calmer enchanted Sequioa\u2019s short sword and Zinnia\u2019s spear with magical properties.",
+    "source_quote": "channeling energy to temporarily enchant Sequioa\u2019s short sword and Zinnia\u2019s spear",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Krell's exposure",
+    "fact": "Lieutenant Krell was exposed as a spy after the party discovered the ogre was Earth Temple-aligned and Romag confirmed he had been under surveillance. This led to a new mission to capture Krell alive.",
+    "source_quote": "Romag listened to their account, and his rage became palpable as he declared he had known the lieutenant was a spy.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell appeared with a mission from Romag: the party was to raid the Fire Temple, killing as many as they could without getting themselves killed.",
+    "source_quote": "Lieutenant Krell appeared with a mission from Romag. The Fire Temple had seized a portion of their level, and the party was to raid them, killing as many as they could without getting themselves killed",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ogre's death",
+    "fact": "The ogre's death was a false flag operation designed to turn the party against the Fire Temple. It exposed the betrayal and led to the party's confrontation with Romag and the hunt for Krell.",
+    "source_quote": "Someone had set them up, and the most likely culprit was Lieutenant Krell himself.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party kills both werewolves",
+    "fact": "The party brought down both werewolves in a fierce battle.",
+    "source_quote": "together the party brought down both werewolves",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party kills Earth Temple ogre",
+    "fact": "The party killed an ogre who turned out to be a member of the Earth Temple, not the Fire Temple.",
+    "source_quote": "they surprised the creature, making quick work of the creature. but as they examined its body, a terrible realization dawned on them\u2014the ogre was a member of the Earth Temple, not the Fire Temple",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party realizes betrayal",
+    "fact": "The party realized they had been set up, and Lieutenant Krell was the most likely culprit.",
+    "source_quote": "Someone had set them up, and the most likely culprit was Lieutenant Krell himself",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "party refuses to surrender weapons",
+    "fact": "The party refused to surrender more weapons despite the radiant figures' insistence.",
+    "source_quote": "the party stood firm in their refusal",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "radiant figures request weapons",
+    "fact": "The brighter radiant figure asked the party to place every weapon, holy symbol, magic item, and silvered item before the crystal window.",
+    "source_quote": "the party should place every weapon, holy symbol, magic item, and silvered item before the crystal window",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "radiant figures vanish",
+    "fact": "The radiant figures vanished after declaring they would reserve their blessing for someone else.",
+    "source_quote": "Disappointed, the angelic figures declared they would reserve their blessing for someone else and vanished",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "raid Fire Temple",
+    "fact": "The party was tasked with raiding the Fire Temple to tip the balance in the Earth Temple\u2019s favor.",
+    "source_quote": "raid them, killing as many as they could without getting themselves killed",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag commanded the party to bring the traitor to him alive so he could sacrifice him in the Temple of Earth as a warning to all who would dare betray them.",
+    "source_quote": "Romag commanded the party to bring the traitor to him alive so he could sacrifice him in the Temple of Earth as a warning to all who would dare betray them",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag declared he had known the lieutenant was a spy and had kept him under watch.",
+    "source_quote": "Romag listened to their account, and his rage became palpable as he declared he had known the lieutenant was a spy and had kept him under watch",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag expressed his approval that the party had not fallen for the angelic trap, recognizing their wisdom and caution.",
+    "source_quote": "Romag expressed his approval that the party had not fallen for the angelic trap, recognizing their wisdom and caution",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag handed them badges of the Earth Temple, declaring they had proven their worth and would have a place among his followers.",
+    "source_quote": "Romag handed them badges of the Earth Temple, declaring they had proven their worth and would have a place among his followers",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag",
+    "fact": "Romag was pleased to see them alive, as Dick Rentsch had apparently wagered they would not survive.",
+    "source_quote": "Romag was pleased to see them alive, as Dick Rentsch had apparently wagered they would not survive",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag awards Earth Temple badges",
+    "fact": "Romag handed the party badges of the Earth Temple, declaring they had proven their worth.",
+    "source_quote": "Romag handed them badges of the Earth Temple, declaring they had proven their worth",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Romag orders Krell captured alive",
+    "fact": "Romag commanded the party to bring Lieutenant Krell to him alive so he could sacrifice him in the Temple of Earth.",
+    "source_quote": "Romag commanded the party to bring the traitor to him alive so he could sacrifice him in the Temple of Earth as a warning to all who would dare betray them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sacrifice the traitor",
+    "fact": "Romag commanded the party to bring Lieutenant Krell to him alive to sacrifice him in the Temple of Earth as a warning.",
+    "source_quote": "bring the traitor to him alive so he could sacrifice him in the Temple of Earth",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequioa",
+    "fact": "Sequioa reluctantly parted with one dagger as well.",
+    "source_quote": "Sequioa reluctantly parted with one dagger as well",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "set up by Lieutenant Krell",
+    "fact": "The party was set up by Lieutenant Krell, who led them to kill an Earth Temple ogre disguised as a Fire Temple foe.",
+    "source_quote": "the ogre was a member of the Earth Temple, not the Fire Temple",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "A terrible realization dawned on them\u2014the ogre was a member of the Earth Temple, not the Fire Temple.",
+    "source_quote": "a terrible realization dawned on them\u2014the ogre was a member of the Earth Temple, not the Fire Temple",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party brought down both werewolves, standing victorious but battered.",
+    "source_quote": "together the party brought down both werewolves, standing victorious but battered",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party carefully navigated back through the dangerous corridors, sneaking past the wraith and moving silently through the bone-covered hallway.",
+    "source_quote": "They carefully navigated back through the dangerous corridors, sneaking past the wraith in the octagonal room and moving silently through the bone-covered hallway where skeletal warriors lay waiting to animate",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party decided to return to Romag and report what they had found.",
+    "source_quote": "The party decided to return to Romag and report what they had found",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered a silver service worth a considerable sum, which they divided among themselves.",
+    "source_quote": "they discovered a silver service worth a considerable sum, which they divided among themselves",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party discovered five silver daggers and nineteen silver-tipped arrows beneath a loose flagstone.",
+    "source_quote": "beneath it lay silver pieces, holy symbols of Saint Cuthbert and Rao, and most critically, five silver daggers and nineteen silver-tipped arrows",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party found a magical dagger and short sword, which they distributed to those who still lacked enchanted weapons.",
+    "source_quote": "they found a magical dagger and short sword, which they distributed to those who still lacked enchanted weapons",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party found two werewolves in a room with nesting heaps of cloth and pillows, bones and litter, and rust-red cloaks.",
+    "source_quote": "they discovered a bare room permeated by a feral odor, with nesting heaps of cloth and pillows, bones and litter covering the floor, and rust-red cloaks hanging on pegs. Inside were two werewolves",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party hesitated, their instincts warning them something was amiss.",
+    "source_quote": "The party hesitated, their instincts warning them something was amiss",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party moved stealthily to the designated location and entered a chamber that had once been a plush guest chamber but was now dirty and cluttered.",
+    "source_quote": "The party moved stealthily to the designated location and entered a chamber that had once been a plush guest chamber but was now dirty and cluttered",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party now faced a new mission: hunting down a cunning spy who had nearly gotten them killed.",
+    "source_quote": "The party now faced a new mission: hunting down a cunning spy who had nearly gotten them killed",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized the irony that the very equipment they had needed to fight the werewolves had been hidden in the werewolves\u2019 own lair.",
+    "source_quote": "The irony was not lost on them: the very equipment they had needed to fight the werewolves had been hidden in the werewolves\u2019 own lair",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party realized with growing concern that they stood in the Air Temple\u2019s power source\u2014deposited directly into enemy territory.",
+    "source_quote": "the party realized with growing concern that they stood in the Air Temple\u2019s power source\u2014deposited directly into enemy territory",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party rested in the bunk rooms with the other guards after their mission.",
+    "source_quote": "that night, the party rested in the bunk rooms with the other guards",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party returned to Romag to explain what had happened.",
+    "source_quote": "The party returned to Romag to explain what had happened",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party stood firm in their refusal to surrender more weapons.",
+    "source_quote": "the party stood firm in their refusal",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party surprised the creature, making quick work of the creature.",
+    "source_quote": "They surprised the creature, making quick work of the creature",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party understood this was where clerics would drag their sacrificial captives during religious ceremonies, leading them toward the various elemental temples that warred for dominance in this cursed place.",
+    "source_quote": "The party understood this was where clerics would drag their sacrificial captives during religious ceremonies, leading them toward the various elemental temples that warred for dominance in this cursed place",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The party",
+    "fact": "The party\u2019s weapons were ineffective against the lycanthropic creatures until enchanted by Calmer.",
+    "source_quote": "the party quickly realized their weapons were ineffective against the lycanthropic creatures, their blades seeming to pass through flesh without causing proper harm",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The radiant figures",
+    "fact": "The angelic figures declared they would reserve their blessing for someone else and vanished.",
+    "source_quote": "Disappointed, the angelic figures declared they would reserve their blessing for someone else and vanished",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The radiant figures",
+    "fact": "The brighter figure made an unusual request: the party should place every weapon, holy symbol, magic item, and silvered item before the crystal window, then step out and count to seventy-seven while the figures sent a ray of just white through the room to bless their equipment.",
+    "source_quote": "the brighter figure then made an unusual request: the party should place every weapon, holy symbol, magic item, and silvered item before the crystal window, then step out and count to seventy-seven while the figures sent a ray of just white through the room to bless their equipment, doubling its efficacy for seven hours",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The radiant figures",
+    "fact": "The brighter of the two radiant figures asked what fair and just folk were doing in this foul place of pain and base wickedness.",
+    "source_quote": "the brighter of the two radiant figures peered at the party and spoke in dulcet tones, asking what fair and just folk were doing in this foul place of pain and base wickedness",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The werewolves",
+    "fact": "One of them laughed darkly, saying this could have been much easier if they had just dropped all their weapons and come in unarmed\u2014they supposed they would have to do it the hard way for the Fire Temple.",
+    "source_quote": "One of them laughed darkly, saying this could have been much easier if they had just dropped all their weapons and come in unarmed\u2014they supposed they would have to do it the hard way for the Fire Temple",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wager on party survival",
+    "fact": "Dick Rentsch had wagered the party would not survive their mission.",
+    "source_quote": "Dick Rentsch had apparently wagered they would not survive",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "werewolf ambush",
+    "fact": "The party encountered werewolves in a room with nesting heaps of cloth and pillows, bones and litter, and rust-red cloaks.",
+    "source_quote": "werewolves who snarled at the intruders, their eyes gleaming with predatory intelligence",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "werewolves fight party",
+    "fact": "The werewolves fought with savage ferocity, their claws and fangs tearing into the party.",
+    "source_quote": "The werewolves fought with savage ferocity, their claws and fangs tearing into the party",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "werewolves reveal trap",
+    "fact": "One werewolf laughed and said the party could have been easier if they had dropped all their weapons.",
+    "source_quote": "one of them laughed darkly, saying this could have been much easier if they had just dropped all their weapons and come in unarmed",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr offered only his short sword.",
+    "source_quote": "Zephyr offered only his short sword",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia gave a single dagger.",
+    "source_quote": "Zinnia gave a single dagger",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia landed a devastating blow with his enchanted spear.",
+    "source_quote": "Zinnia landed a devastating blow with his enchanted spear",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia made the most crucial discovery\u2014a loose flagstone that concealed a hidden treasure pile.",
+    "source_quote": "Zinnia who made the most crucial discovery\u2014a loose flagstone that concealed a hidden treasure pile",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia\u2019s keen eyes spotted a secret entrance.",
+    "source_quote": "Zinnia\u2019s keen eyes spotted a secret entrance",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia discovers hidden treasure",
+    "fact": "Zinnia discovered a loose flagstone that concealed a hidden treasure pile.",
+    "source_quote": "Zinnia who made the most crucial discovery\u2014a loose flagstone that concealed a hidden treasure pile",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia kills werewolf",
+    "fact": "Zinnia landed a devastating blow with his enchanted spear, helping kill one of the werewolves.",
+    "source_quote": "Zinnia landed a devastating blow with his enchanted spear",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a faction led by Romag that opposes the Fire Temple, recruits converts like Calmer and the party, and is currently embroiled in violent territorial conflict with the Fire Temple. Its members include gnolls and an ogre who was betrayed.",
+    "source_quote": "Earth Temple gnolls occupied one area while Fire Temple gnolls held another, and the rivals periodically clashed in brutal combat.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is a rival faction to the Earth Temple, having seized part of their level and holding territory occupied by Fire Temple gnolls. They are the stated target of the party's raid, but were manipulated into being blamed for the ogre's death.",
+    "source_quote": "The Fire Temple had seized a portion of their level, and the party was to raid them, killing as many as they could.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is one of the warring elemental temples referenced in the chamber's inscriptions; the werewolves claimed to serve it and mocked the party for refusing the 'blessing'.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is the cursed organization the party was tasked with defeating; its influence is reflected in the evil-themed architecture and the presence of hostile creatures aligned with its elemental forces.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bone-covered hallway",
+    "fact": "The bone-covered hallway contains skeletal warriors lying in wait to animate.",
+    "source_quote": "moving silently through the bone-covered hallway where skeletal warriors lay waiting to animate.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "bone-covered hallway",
+    "fact": "The party moved silently through the bone-covered hallway where skeletal warriors lay waiting to animate.",
+    "source_quote": "the bone-covered hallway where skeletal warriors lay waiting to animate",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bronze doors",
+    "fact": "The bronze doors are lined along the southern walls, their polished surfaces carved with vile scenes and runes.",
+    "source_quote": "Bronze doors lined the southern walls, their polished surfaces carved with vile scenes and runes.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bronze doors in the processional hallway",
+    "fact": "Bronze doors lined the southern walls of the processional hallway, carved with vile scenes and runes.",
+    "source_quote": "Bronze doors lined the southern walls, their polished surfaces carved with vile scenes and runes.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bunk rooms",
+    "fact": "The bunk rooms are where the party rested alongside other guards, including Calmer, after receiving badges from Romag and before the mission to the Fire Temple.",
+    "source_quote": "That night, the party rested in the bunk rooms with the other guards.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bunk rooms",
+    "fact": "The party rested in the bunk rooms with the other guards after their mission.",
+    "source_quote": "the bunk rooms with the other guards",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "bunk rooms",
+    "fact": "The party rests in the bunk rooms with the other guards.",
+    "source_quote": "That night, the party rested in the bunk rooms with the other guards",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple gnoll territory",
+    "fact": "Fire Temple gnolls occupy one area while Earth Temple gnolls hold another, and the rivals periodically clash in brutal combat.",
+    "source_quote": "Earth Temple gnolls occupied one area while Fire Temple gnolls held another",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "guest chamber",
+    "fact": "The guest chamber was once a plush room but had become dirty and cluttered, serving as the site where the party surprised and killed the Earth Temple ogre, triggering the revelation of betrayal.",
+    "source_quote": "They entered a chamber that had once been a plush guest chamber but was now dirty and cluttered.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "hidden treasure pile",
+    "fact": "A loose flagstone concealed a hidden treasure pile containing silver pieces, holy symbols, silver daggers, and silver-tipped arrows.",
+    "source_quote": "a loose flagstone that concealed a hidden treasure pile",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The octagonal room contains a milky red light, swirling mist obscuring the polished gray floor shot through with glittering mica.",
+    "source_quote": "The chamber glowed with an unnatural milky red light, swirling mist obscuring the polished gray floor shot through with glittering mica.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The octagonal room deep beneath the Temple of Elemental Evil glows with unnatural milky red light and is where the wraith that drained Zephyr's life essence resides.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room",
+    "fact": "The party sneaked past the wraith in the octagonal room on their return to Romag.",
+    "source_quote": "the wraith in the octagonal room",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "octagonal room beneath the Temple of Elemental Evil",
+    "fact": "The octagonal room beneath the Temple of Elemental Evil glows with unnatural milky red light and is filled with swirling mist.",
+    "source_quote": "The chamber glowed with an unnatural milky red light, swirling mist obscuring the polished gray floor shot through with glittering mica.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "plush guest chamber",
+    "fact": "The party entered a chamber that had once been a plush guest chamber but was now dirty and cluttered.",
+    "source_quote": "a chamber that had once been a plush guest chamber but was now dirty and cluttered",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "plush guest chamber",
+    "fact": "The plush guest chamber is now dirty and cluttered.",
+    "source_quote": "entered a chamber that had once been a plush guest chamber but was now dirty and cluttered.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "processional hallway",
+    "fact": "The processional hallway is painted with scenes of gross evil, death, and destruction.",
+    "source_quote": "The party made their way through a processional hallway painted with scenes of gross evil, death, and destruction.",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "location",
+    "subject": "Romag's chamber",
+    "fact": "Romag's chamber is where the party reported their findings; Dick Rentsch was present and admitted to Alremm's deception regarding the werewolves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Romag\u2019s chamber",
+    "fact": "The party returned to Romag\u2019s chamber to report the betrayal and receive their new mission.",
+    "source_quote": "returned to Romag to explain what had happened",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "room with white marble floor",
+    "fact": "The room has a white marble floor, walls and vaulted ceiling sheathed in pearly alabaster, creating a right feel\u2014a place of safety in a storm of evil.",
+    "source_quote": "The floor was white marble, the walls and vaulted ceiling sheathed in pearly alabaster, creating a right feel\u2014a place of safety in a storm of evil.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret entrance",
+    "fact": "The secret entrance opens into a bare room permeated by a feral odor, with nesting heaps of cloth and pillows, bones and litter covering the floor, and rust-red cloaks hanging on pegs.",
+    "source_quote": "Opening it discreetly, they discovered a bare room permeated by a feral odor, with nesting heaps of cloth and pillows, bones and litter covering the floor, and rust-red cloaks hanging on pegs.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret entrance",
+    "fact": "Zinnia\u2019s keen eyes spotted a secret entrance leading to the werewolves\u2019 lair.",
+    "source_quote": "Zinnia\u2019s keen eyes spotted a secret entrance",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret room behind eastern door",
+    "fact": "The secret room behind the eastern door had nesting heaps of cloth and pillows, bones and litter on the floor, and rust-red cloaks on pegs.",
+    "source_quote": "a bare room permeated by a feral odor, with nesting heaps of cloth and pillows, bones and litter covering the floor, and rust-red cloaks hanging on pegs",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret werewolf lair",
+    "fact": "The secret lair is a bare room permeated by a feral odor, with nesting heaps of cloth and pillows, bones and litter, rust-red cloaks on pegs, and a hidden treasure pile beneath a loose flagstone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Earth",
+    "fact": "Romag commands the party to bring Lieutenant Krell alive to sacrifice him in the Temple of Earth.",
+    "source_quote": "Romag commanded the party to bring the traitor to him alive so he could sacrifice him in the Temple of Earth as a warning to all who would dare betray them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Earth",
+    "fact": "Romag declared the party would have a place among his followers in the Temple of Earth.",
+    "source_quote": "have a place among his followers",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "white marble chamber",
+    "fact": "The white marble chamber has walls and a vaulted ceiling sheathed in pearly alabaster.",
+    "source_quote": "The floor was white marble, the walls and vaulted ceiling sheathed in pearly alabaster",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "An ogre is slain, but its body reveals it is a member of the Earth Temple, not the Fire Temple.",
+    "source_quote": "the ogre was a member of the Earth Temple, not the Fire Temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "ogre",
+    "fact": "The ogre was a member of the Earth Temple, mistakenly killed by the party during a raid meant for the Fire Temple. Its death exposed the betrayal and revealed the setup orchestrated by Lieutenant Krell.",
+    "source_quote": "a terrible realization dawned on them\u2014the ogre was a member of the Earth Temple, not the Fire Temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "skeletal warriors",
+    "fact": "Skeletal warriors lie dormant in the bone-covered hallway, waiting to animate; the party moved silently to avoid triggering them during their return to Romag.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "werewolves",
+    "fact": "Two werewolves inhabited the secret lair, wearing rust-red cloaks and surrounded by nesting cloth, bones, and litter; they were vulnerable only to magical or silvered weapons and were slain by the party after Calmer's divine intervention.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "werewolves",
+    "fact": "Two werewolves snarl at the intruders, their eyes gleaming with predatory intelligence; one laughs darkly, saying this could have been much easier if they had dropped all their weapons and come in unarmed.",
+    "source_quote": "Inside were two werewolves who snarled at the intruders, their eyes gleaming with predatory intelligence. One of them laughed darkly, saying this could have been much easier if they had just dropped all their weapons and come in unarmed\u2014they supposed they would have to do it the hard way for the Fire Temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "werewolves",
+    "fact": "Two werewolves snarled at the party in the secret room.",
+    "source_quote": "Inside were two werewolves who snarled at the intruders",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "winged creatures",
+    "fact": "Two man-like creatures with wings of snowy feathers and radiant faces appear amidst glowing, cloud-tinted billows, robed in purest white with a pale blue sky visible between them.",
+    "source_quote": "Two man-like creatures with wings of snowy feathers and radiant faces appeared amidst glowing, cloud-tinted billows, robed in purest white with a pale blue sky visible between them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wraith",
+    "fact": "A wraith drained Zephyr's life essence in the octagonal room; it remains active in the corridor, requiring the party to sneak past it during their return to Romag.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Alremm",
+    "fact": "Alremm hired werewolves in the secret chamber as a test of the new recruits.",
+    "source_quote": "Alremm had hired werewolves in the secret chamber as a test of the new recruits.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Alremm",
+    "fact": "Alremm hired werewolves to occupy the secret chamber as a test for new recruits, a fact revealed by Dick Rentsch to Romag after the party's return.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer boldly claims to be a former cleric of Saint Cuthbert who converted to the Earth Temple\u2019s cause.",
+    "source_quote": "Calmer boldly claimed to be a former cleric of Saint Cuthbert who had converted to the Earth Temple\u2019s cause.",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "n_samples": 3
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a divine caster who channeled holy energy to enchant Sequioa's short sword and Zinnia's spear, and wielded a mace of smiting during the battle against the werewolves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a former cleric of Saint Cuthbert who converted to the Earth Temple and swayed other guards with his declaration, establishing credibility for the Temple's righteousness.",
+    "source_quote": "Calmer boldly claimed to be a former cleric of Saint Cuthbert who had converted to the Earth Temple\u2019s cause.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch admitted that Alremm had hired werewolves in the secret chamber as a test of the new recruits.",
+    "source_quote": "Dick Rentsch, who admitted that Alremm had hired werewolves in the secret chamber as a test of the new recruits.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch provided the party with a map and misled them about the nature of the threat in the secret chamber; he admitted under Romag's questioning that Alremm had hired werewolves as a test for new recruits.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell appeared with a mission from Romag to raid the Fire Temple.",
+    "source_quote": "Lieutenant Krell appeared with a mission from Romag. The Fire Temple had seized a portion of their level, and the party was to raid them",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell is a cunning spy who manipulated the party into attacking an ally, revealing his treachery.",
+    "source_quote": "Lieutenant Krell appeared with a mission... the ogre was a member of the Earth Temple... Romag declared he had known the lieutenant was a spy",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell is a traitor who falsely delivered a mission to raid the Fire Temple, manipulated the party into killing an Earth Temple ogre, and was subsequently revealed as a spy. He is now the target of a hunt ordered by Romag.",
+    "source_quote": "The party realized the most likely culprit was Lieutenant Krell himself.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell is revealed as a spy who set up the party to kill an Earth Temple ogre.",
+    "source_quote": "the most likely culprit was Lieutenant Krell himself.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Lieutenant Krell",
+    "fact": "Lieutenant Krell was conspicuously absent when the party returned to Romag to report the betrayal.",
+    "source_quote": "When they arrived, Lieutenant Krell was conspicuously absent",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "radiant figures",
+    "fact": "Two radiant figures with wings of snowy feathers and radiant faces appeared in the white marble chamber.",
+    "source_quote": "Two man-like creatures with wings of snowy feathers and radiant faces appeared amidst glowing, cloud-tinted billows",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag declared he had known Lieutenant Krell was a spy and had kept him under watch.",
+    "source_quote": "Romag listened to their account, and his rage became palpable as he declared he had known the lieutenant was a spy and had kept him under watch",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag declares he knew Lieutenant Krell was a spy and commands the party to bring him alive for sacrifice in the Temple of Earth.",
+    "source_quote": "Romag listened to their account, and his rage became palpable as he declared he had known the lieutenant was a spy and had kept him under watch. With fury burning in his eyes, Romag commanded the party to bring the traitor to him alive so he could sacrifice him in the Temple of Earth as a warning to all who would dare betray them.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is a shrewd, calculating leader who tests recruits through deception and punishes betrayal with ritual sacrifice.",
+    "source_quote": "Romag expressed his approval... declared he had known the lieutenant was a spy... commanded the party to bring the traitor to him alive so he could sacrifice him",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the high priest who wagered the party would not survive the trial; he was pleased they returned alive and confronted Dick Rentsch upon learning the truth about the werewolves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the leader of the Earth Temple who recognized the party's wisdom, bestowed badges of the Earth Temple, and later discovered Lieutenant Krell was a spy under surveillance. He commanded the party to capture Krell alive for sacrifice.",
+    "source_quote": "Romag declared he had known the lieutenant was a spy and had kept him under watch.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag was pleased to see the party alive after Dick Rentsch wagered they would not survive.",
+    "source_quote": "Romag was pleased to see them alive, as Dick Rentsch had apparently wagered they would not survive",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa reluctantly parted with one dagger to the radiant figures, had their short sword enchanted by Calmer, and participated in the battle against the werewolves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa reluctantly parted with one dagger when pressured to surrender weapons.",
+    "source_quote": "Sequioa reluctantly parted with one dagger as well.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr initially had his life essence drained by a wraith, and later offered only his short sword to the radiant figures; his dagger was already magically enchanted.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr offered only his short sword when pressured to surrender weapons.",
+    "source_quote": "Zephyr offered only his short sword",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia gave a single dagger to the radiant figures, later discovered a secret entrance in the werewolf lair, landed a devastating blow with an enchanted spear, and found the hidden treasure beneath the flagstone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia gave a single dagger when pressured to surrender weapons.",
+    "source_quote": "Zinnia gave a single dagger",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "badges of the Earth Temple",
+    "fact": "Badges of the Earth Temple were bestowed upon the party by Romag as proof of their worth and as symbols of their acceptance among his followers.",
+    "source_quote": "He handed them badges of the Earth Temple, declaring they had proven their worth.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "badges of the Earth Temple",
+    "fact": "Romag hands the party badges of the Earth Temple, declaring they have proven their worth.",
+    "source_quote": "He handed them badges of the Earth Temple, declaring they had proven their worth and would have a place among his followers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "cloudy crystal substance",
+    "fact": "A sheet of cloudy crystal substance is set into the northern portion of the east wall, brightening and radiating light.",
+    "source_quote": "a sheet of cloudy crystal substance set into the northern portion of the east wall began to brighten, its radiance lighting the chamber.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "five silver daggers",
+    "fact": "Beneath the loose flagstone, the party found five silver daggers.",
+    "source_quote": "beneath it lay ... five silver daggers",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "five silver daggers",
+    "fact": "Five silver daggers are found beneath the loose flagstone.",
+    "source_quote": "five silver daggers",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "five silver daggers",
+    "fact": "Five silver daggers were hidden beneath a loose flagstone in the werewolf lair, providing the exact weapons needed to effectively combat the lycanthropes.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbols of Saint Cuthbert and Rao",
+    "fact": "Beneath the loose flagstone, the party found holy symbols of Saint Cuthbert and Rao.",
+    "source_quote": "beneath it lay silver pieces, holy symbols of Saint Cuthbert and Rao",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbols of Saint Cuthbert and Rao",
+    "fact": "Holy symbols of Saint Cuthbert and Rao are found beneath the loose flagstone.",
+    "source_quote": "holy symbols of Saint Cuthbert and Rao",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbols of Saint Cuthbert and Rao",
+    "fact": "Holy symbols of Saint Cuthbert and Rao were found among the hidden treasure pile.",
+    "source_quote": "holy symbols of Saint Cuthbert and Rao",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "holy symbols of Saint Cuthbert and Rao",
+    "fact": "Holy symbols of Saint Cuthbert and Rao were found in the hidden treasure pile beneath the flagstone in the werewolf lair.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "loose flagstone",
+    "fact": "A loose flagstone conceals a hidden treasure pile beneath it.",
+    "source_quote": "a loose flagstone that concealed a hidden treasure pile.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "mace of smiting",
+    "fact": "Calmer wielded his mace of smiting during the battle against the werewolves.",
+    "source_quote": "Calmer wielded his mace of smiting",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical dagger",
+    "fact": "A magical dagger is found and distributed to a party member lacking an enchanted weapon.",
+    "source_quote": "they found a magical dagger and short sword, which they distributed to those who still lacked enchanted weapons.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical dagger",
+    "fact": "A magical dagger was discovered in the werewolf lair and distributed to a party member lacking an enchanted weapon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical dagger",
+    "fact": "The party found a magical dagger in the werewolves' lair.",
+    "source_quote": "they found a magical dagger and short sword",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical short sword",
+    "fact": "A magical short sword is found and distributed to a party member lacking an enchanted weapon.",
+    "source_quote": "they found a magical dagger and short sword, which they distributed to those who still lacked enchanted weapons.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical short sword",
+    "fact": "A magical short sword was found in the werewolf lair and given to a party member who needed an enchanted weapon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magical short sword",
+    "fact": "The party found a magical short sword in the werewolves' lair.",
+    "source_quote": "they found a magical dagger and short sword",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "magic dagger and short sword count",
+    "fact": "A magical dagger and short sword were discovered and distributed to those lacking enchanted weapons.",
+    "source_quote": "a magical dagger and short sword",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "nineteen silver-tipped arrows",
+    "fact": "Beneath the loose flagstone, the party found nineteen silver-tipped arrows.",
+    "source_quote": "beneath it lay ... nineteen silver-tipped arrows",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "nineteen silver-tipped arrows",
+    "fact": "Nineteen silver-tipped arrows are found beneath the loose flagstone.",
+    "source_quote": "nineteen silver-tipped arrows",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "nineteen silver-tipped arrows",
+    "fact": "Nineteen silver-tipped arrows were concealed beneath the flagstone in the werewolf lair, directly addressing the party's need for silvered ammunition to defeat the werewolves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver daggers count",
+    "fact": "Five silver daggers and nineteen silver-tipped arrows were found hidden beneath a loose flagstone.",
+    "source_quote": "five silver daggers and nineteen silver-tipped arrows",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver pieces",
+    "fact": "Beneath the loose flagstone, the party found silver pieces.",
+    "source_quote": "beneath it lay silver pieces",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver pieces",
+    "fact": "Silver pieces are found beneath the loose flagstone.",
+    "source_quote": "Beneath it lay silver pieces",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver pieces",
+    "fact": "Silver pieces were discovered in the hidden treasure pile beneath the flagstone in the werewolf lair.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver service",
+    "fact": "A silver service worth a considerable sum is discovered and divided among the party.",
+    "source_quote": "they discovered a silver service worth a considerable sum, which they divided among themselves.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver service",
+    "fact": "A silver service worth a considerable sum was found in the werewolf lair and divided among the party members.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver service",
+    "fact": "The party found a silver service worth a considerable sum in the werewolves' lair.",
+    "source_quote": "they discovered a silver service worth a considerable sum",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver service value",
+    "fact": "A silver service worth a considerable sum was discovered and divided among the party.",
+    "source_quote": "a silver service worth a considerable sum",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Alremm's hidden agenda",
+    "fact": "Alremm's hiring of werewolves as a test for new recruits suggests a deeper, unspoken agenda within the Temple of Elemental Evil's hierarchy, potentially targeting recruits for elimination or selection.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Alremm's identity",
+    "fact": "Alremm\u2019s connection to the werewolves and broader temple politics remains unspecified.",
+    "source_quote": "Alremm had hired werewolves in the secret chamber as a test of the new recruits",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Dick Rentsch's motives",
+    "fact": "Dick Rentsch\u2019s role as a wagering informant and possible double agent is not fully explained.",
+    "source_quote": "Dick Rentsch had apparently wagered they would not survive... admitted that Alremm had hired werewolves",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "hunt for Krell",
+    "fact": "The party now faces a new mission: hunting down Lieutenant Krell alive to deliver him to Romag for sacrifice. His betrayal and the treacherous politics of the Temple of Elemental Evil make trust a dangerous commodity.",
+    "source_quote": "The party now faced a new mission: hunting down a cunning spy who had nearly gotten them killed, knowing that the treacherous politics of the Temple of Elemental Evil made trust a dangerous commodity.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "hunt for Lieutenant Krell",
+    "fact": "The party now faces a mission to hunt down Lieutenant Krell, a treacherous spy.",
+    "source_quote": "The party now faced a new mission: hunting down a cunning spy who had nearly gotten them killed",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Krell's ultimate allegiance",
+    "fact": "Krell\u2019s true employer and whether he acts alone or under orders is not revealed.",
+    "source_quote": "Lieutenant Krell was conspicuously absent... Romag declared he had known the lieutenant was a spy",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the crystal window's deception",
+    "fact": "The radiant figures' request to surrender weapons and step away under the pretense of blessing was clearly a trap; the true nature of the crystal window and its connection to the werewolves remains unexplained.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "the identity of the radiant figures",
+    "fact": "The angelic figures with snowy feathers and radiant faces claimed to offer divine blessing but were clearly linked to the werewolves' lair; their true origin and allegiance are unknown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The true nature of the Earth Temple's internal politics",
+    "fact": "The extent of betrayal, espionage, and hidden agendas within the Earth Temple remains unexplored.",
+    "source_quote": "the treacherous politics of the Temple of Elemental Evil made trust a dangerous commodity",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  }
+]

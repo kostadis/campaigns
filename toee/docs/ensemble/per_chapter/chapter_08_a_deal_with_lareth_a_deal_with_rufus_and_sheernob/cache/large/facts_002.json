@@ -1,0 +1,51 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr rolls his eyes and responds with indifference to the demand for a speech and agreement on leadership.",
+    "source_quote": "Zephyr rolls his eyes, \u201cOkay.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "the captain",
+    "fact": "The captain shouts for more mead, offers to pay for it, and instructs Zephyr to speak with Pasmarie Clee regarding an ongoing issue.",
+    "source_quote": "The captain shouts, \u201cMari, give them some more mead. I\u2019ll pay for it..\u201d He then turns to Zephyr and says, \u201cYou should talk to Pasmarie Clee. She\u2019s been bugging me about this.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is already slightly drunk, ignores a warning to stop drinking, and consumes another glass of mead.",
+    "source_quote": "Calmer is about to drink another glass full of mead, but Zephyr notices that the cleric is already a bit drunk and shouts, \u201cThat\u2019s enough.\u201d Calmer ignores him and drinks it anyway.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "the cleric",
+    "fact": "The cleric (Calmer) is observed to be slightly intoxicated and continues drinking despite warnings.",
+    "source_quote": "Zephyr notices that the cleric is already a bit drunk",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "mead",
+    "fact": "Mead is being served repeatedly, paid for by the captain, and consumed by Calmer despite warnings.",
+    "source_quote": "Mari, give them some more mead. I\u2019ll pay for it..",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Pasmarie Clee\u2019s concern",
+    "fact": "Pasmarie Clee has been persistently bothering the captain about an unresolved matter, implying an ongoing plot thread.",
+    "source_quote": "She\u2019s been bugging me about this.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "captain\u2019s departure",
+    "fact": "The captain finishes his instructions and departs, ending the interaction.",
+    "source_quote": "And with that, the captain goes.",
+    "quote_verified": true
+  }
+]

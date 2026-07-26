@@ -1,0 +1,156 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a member of the party who wore shiny armor destroyed by green slime, and later recovered from near-fatal injuries inflicted by an ogre. He is prone to emotional outbursts and offers unhelpful 'help' that often backfires.",
+    "source_quote": "Calmer is now whimpering at the fact that his beautiful, shiny armor has been destroyed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a pragmatic party member who used a piece of wood to remove green slime from Calmer\u2019s armor, only for the slime to eat through it. He is dismissive of Calmer\u2019s behavior and leads the group through the moathouse with calm efficiency.",
+    "source_quote": "Grow up,\" I tell him. And then we walk through the archway.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a perceptive party member who noticed greased door hinges in an abandoned area, detected a bang revealing the cleric Lubash, and later led the group to investigate a southern hallway where zombies were encountered.",
+    "source_quote": "Zombies!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a sharp, observant party member who killed an ogre, discovered a magical cloak of elvenkind in its nest, and interrogated prisoners in the dungeon. She is skeptical of spies and takes charge of managing the group\u2019s discoveries.",
+    "source_quote": "Now that\u2019s even more interesting. Who is the elf that lost this?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lubash",
+    "fact": "Lubash is a cleric who startled Sequoia by making a loud noise, and later identified himself as non-hostile. He is not a member of the Temple of Elemental Evil and is present in the moathouse under unclear circumstances.",
+    "source_quote": "I am Lubash!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ogre",
+    "fact": "The Ogre is a hostile creature that lived in the moathouse and consumed prisoners as food. It attacked the party with a powerful club and was slain by Zinnia, Zephyr, and Sequoia.",
+    "source_quote": "You are not members of the temple! You are food!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Derrick",
+    "fact": "Derrick is a merchant prisoner from Norwell, captured by brigands and brought to the moathouse as a repast for the Ogre. He is emotionally broken and recounts the deaths of five other prisoners, including Eltograph the Elf.",
+    "source_quote": "My name is Derrick, and this is Florian. We\u2019re originally from Norwell.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Florian",
+    "fact": "Florian is a merchant prisoner from Norwell, captured alongside Derrick. He is covered in dirt, blood, and excrement, and has been held as food for the Ogre for an unknown period.",
+    "source_quote": "My name is Derrick, and this is Florian.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jarran",
+    "fact": "Jarran is a gnome spy sent by the merchants of Lotrimil to investigate brigands in the area. He was captured and imprisoned in the moathouse, and offers to join the party if they promise to keep exploring.",
+    "source_quote": "I was sent out here by the merchants of Lotrimil to investigate the brigands attacking this area.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "The Duke",
+    "fact": "The Duke is a self-important figure who claims to guard the rescued prisoners in Verbobonc. He is dismissive of the party\u2019s efforts and speaks condescendingly, yet offers to escort them back to Hommlet.",
+    "source_quote": "Don\u2019t you worry, team. I\u2019ll make sure to guard them.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Green Slime",
+    "fact": "A green slime encountered in the stairwell of the moathouse that consumed Calmer\u2019s armor. It is a hazardous ooze that dissolves organic and metallic materials upon contact.",
+    "source_quote": "the blob of green slime hanging over the arch at the bottom of the stairwell.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Zombies",
+    "fact": "Zombies were encountered in a southern hallway of the moathouse after the party opened a series of rotten prison doors. They are reanimated corpses, likely former prisoners or guards, and pose a direct threat to the party.",
+    "source_quote": "Zombies!",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Lower Levels",
+    "fact": "The lower levels of the moathouse contain a great hall, stairwell, storage rooms, prison doors, and a southern hallway with five rotten prison doors. It was once an armory and storage facility for a fortress, now overrun with monsters and the remains of victims.",
+    "source_quote": "This was once a storage place and armory for the fortress.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Eastern Storeroom",
+    "fact": "The eastern storeroom is where the Ogre lived and kept its nest. It contains a magical cloak of elvenkind and signs of recent habitation, contrasting with the rest of the abandoned moathouse.",
+    "source_quote": "This place looks lived in. And there in the corner is where the Ogre lived.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Southern Hallway",
+    "fact": "A 50-foot-long north-south hallway with three pillars and a passageway to the east. Five prison doors line the western wall, all rotten and broken, leading to the discovery of zombies.",
+    "source_quote": "Five doors are on the western wall. They look like they haven\u2019t been opened in a long time.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Cloak of Elvenkind",
+    "fact": "A magical cloak discovered in the Ogre\u2019s nest. It is of elven craftsmanship and likely belonged to Eltograph the Elf, one of the Ogre\u2019s victims.",
+    "source_quote": "I discover a magical cloak of elvenkind.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is suspected of involvement with the brigands and the moathouse\u2019s operations. However, no confirmed members of the Temple are present, and its direct role remains ambiguous.",
+    "source_quote": "brigands who may or may not have been aligned with the Temple of Elemental Evil.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Brigands",
+    "fact": "Brigands captured merchants Derrick and Florian on the road to Hommlet and delivered them to the moathouse as food for the Ogre. They are the original source of the prisoners and likely controlled access to the moathouse.",
+    "source_quote": "Brigands captured us along the road to Hommlet.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Southern Door",
+    "fact": "A heavily barred door to the south remains unopened and unexplored. Its purpose and what lies beyond are unknown, but its condition suggests it holds something of great significance or danger.",
+    "source_quote": "And why is that door to the south so heavily barred?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Identity of Eltograph the Elf",
+    "fact": "Eltograph the Elf, one of the Ogre\u2019s victims, is linked to the magical cloak of elvenkind found in the nest. His fate and possible connection to the Temple or the spies remain a mystery.",
+    "source_quote": "First, there was Martin, Damien, Eltograph the Elf, and\u2026",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Source of the Ogre\u2019s Food",
+    "fact": "The Ogre\u2019s food supply is revealed to be prisoners captured by brigands, but the deeper network\u2014how they were transported, who authorized the feeding, and who maintains the moathouse\u2014remains unexplored.",
+    "source_quote": "An Ogre needs a lot of food. And so someone has been providing it with food.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 18, 579",
+    "fact": "The date on which the party descended into the moathouse, encountered monsters, freed prisoners, and uncovered a grim history of captivity and consumption.",
+    "source_quote": "Date: Planting 18, 579",
+    "quote_verified": true
+  }
+]

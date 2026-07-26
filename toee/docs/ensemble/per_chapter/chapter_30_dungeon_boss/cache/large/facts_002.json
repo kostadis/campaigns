@@ -1,0 +1,164 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the infiltrator tasked with breaching barriers, but failed twice to break the west door of the Water Temple, revealing a critical vulnerability in their plan and drawing attention from the cultists inside.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is an assassin who shifted tactics from forced entry to deception, successfully bluffing the cultists into opening the west door by posing as messengers bearing news of Belsornig\u2019s assassination, then eliminating both guards with precision.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia provided quick-witted cover during the infiltration, offering the lie 'Housekeeping!' when the door was breached, and later participated in the takedown of Belsornig\u2019s guards, then killed the final cultist after Zephyr\u2019s strike.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig, Prophet of Water, was preoccupied with a scroll when the party infiltrated his sanctum; he was killed swiftly by Zephyr using Kelno\u2019s Dagger of Venom, unaware of the breach until it was too late.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Barkinar",
+    "fact": "Barkinar, representative of the Greater Temple, summoned the party after the fall of the Upper Temple, revealing he had observed their entire campaign from hidden vantage points and now demands they organize the conquered temple under his authority within a week.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer, the cleric, was presumed by Barkinar and the bugbears to be the leader of the party; Zephyr lied that he was injured but would recover, allowing the group to maintain the illusion of his authority while concealing their true command structure.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno, a prisoner of the Greater Temple, was brought before Barkinar; he had previously given Zephyr the Dagger of Venom to kill Belsornig, indicating a personal grudge and alignment with chaos \u2014 a bond Zephyr respected.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Senshock",
+    "fact": "Senshock, the Lord Wizard of the Greater Temple, is described by Barkinar as ambitious, paranoid, and useful \u2014 a dangerous figure the party must appease by letting him underestimate them.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Falrinth",
+    "fact": "Falrinth is a rogue wizard hiding from the Greater Temple for reasons unknown; Barkinar mentioned him as a potential future contact, hinting at deeper fractures within the temple hierarchy.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple operates covertly beneath the Upper Temple, having observed and manipulated the party\u2019s campaign from the shadows; it now claims control of the conquered temples and demands organizational compliance within a week.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Upper Temple",
+    "fact": "The Upper Temple, once divided into sects (Fire, Water, Air, Earth), has been dismantled by the party; now under their de facto control, it must be restructured into a unified hierarchy under Barkinar\u2019s oversight.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Bugbears of the Greater Temple",
+    "fact": "Bugbears clad in the deeper black of the Greater Temple appeared without warning, enforcing Barkinar\u2019s summons; they demonstrated surveillance capabilities and an ability to converge from multiple hidden entrances, indicating deep infiltration of the Upper Temple\u2019s infrastructure.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Hill Giant",
+    "fact": "A hill giant stood as a silent enforcer in Barkinar\u2019s chamber, part of a lethal deterrent designed to prevent escape and ensure compliance during the summons.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ogres",
+    "fact": "Ogres were stationed along the walls of Barkinar\u2019s chamber, forming a physical barrier and psychological intimidation tactic to reinforce the Greater Temple\u2019s dominance and the party\u2019s helplessness.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Dagger of Venom",
+    "fact": "The Dagger of Venom, gifted by Kelno to Zephyr, was used to kill Belsornig; it returned to Zephyr\u2019s hand after the act, symbolizing the completion of a personal contract and the cyclical nature of vengeance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Infiltration of the Water Temple",
+    "fact": "The party\u2019s forced breach of the west door failed, prompting a shift to deception; Zephyr\u2019s bluff as messengers bearing news of Belsornig\u2019s death succeeded, allowing them to enter unchallenged and eliminate the guards before they could react.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Assassination of Belsornig",
+    "fact": "Belsornig was killed mid-reading by Zephyr using Kelno\u2019s Dagger of Venom, while Sequoia and Zinnia eliminated his guards; the entire operation lasted less than ten seconds, executed with surgical silence.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Summoning by Barkinar",
+    "fact": "After the temple\u2019s fall, the party was summoned by Barkinar through a hidden network of bugbears; they were confronted with overwhelming force and forced to accept control of the Upper Temple under the Greater Temple\u2019s authority within one week.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Gong of the Temple",
+    "fact": "A deep gong rang after Belsornig\u2019s death, signaling a ritual acknowledgment by the temple that leadership had changed hands \u2014 a supernatural confirmation of the party\u2019s new status, whether they wanted it or not.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Falrinth\u2019s Hidden Agenda",
+    "fact": "Barkinar mentioned Falrinth, a rogue wizard hiding from the Greater Temple, as a potential future contact \u2014 hinting at a deeper conspiracy within the temple\u2019s ranks that the party may be drawn into.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Cleric\u2019s True Role",
+    "fact": "The party allowed Barkinar to believe Calmer was their leader; this deception may be exploited later, but also risks exposure if Calmer\u2019s true condition or authority is revealed.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Chest Delivered to Romag",
+    "fact": "Barkinar mentioned a chest delivered to Romag that the Greater Temple wants recovered \u2014 implying the party\u2019s earlier actions were part of a larger game, and that the chest may contain something of critical importance.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Zinnia\u2019s Failure to See",
+    "fact": "Zinnia, the party\u2019s observer, failed to detect the Greater Temple\u2019s hidden forces on the Upper Temple\u2019s level \u2014 a lapse that now haunts him and may indicate he is being manipulated or that the enemy\u2019s stealth exceeds his capabilities.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple, once a sanctum of Belsornig, is now a conquered ruin; its altar, gargoyle-plinths, and offering basin remain intact, but its cultists are dead and its leadership extinguished.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Barkinar\u2019s Chamber",
+    "fact": "A subterranean chamber beneath the Water Temple, fortified with ogres and a hill giant, designed to be inescapable; it is the seat of the Greater Temple\u2019s authority and the place where the party\u2019s fate was decided.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Stairs",
+    "fact": "The stairs leading up from the Water Temple to the Air Temple became the site of the Greater Temple\u2019s ambush; the bugbears\u2019 convergence from three directions revealed their prior occupation of the entire temple complex.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "One Week Deadline",
+    "fact": "Barkinar gave the party one week to organize the Upper Temple under their new command \u2014 a ticking clock that transforms their mission from destruction to administration.",
+    "quote_verified": false
+  }
+]

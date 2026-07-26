@@ -1,0 +1,114 @@
+[
+  {
+    "type": "npc",
+    "subject": "Glennddarc",
+    "fact": "Glennddarc is the Headgnome of Sheernobb, a village in the Kron Hills. He is weary of petty concerns like bandits and is focused on the threat of giants. He is currently asleep in an elegantly engraved oak chair, barefoot and crossed at the ankles over one arm. He is romantically intrigued by Pasmarie Clee and believes Gnonsbim is pursuing her for political gain.",
+    "source_quote": "If you ask me, Gnonsbim has gone sweet on her. If you want to help a young gnome looking for a wife, listen to Gnonsbim. When you want to help the town, I need help with some giants.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Gnonsbim",
+    "fact": "Gnonsbim is the Captain of the Guard of Sheernobb and is running for re-election. He has sent adventurers to investigate bandits to appear proactive, though the real threat is giants. He is romantically interested in Pasmarie Clee, and his actions are politically motivated.",
+    "source_quote": "He\u2019s running for re-election and wants to show he\u2019s a man of action.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "Pasmarie Clee is the keeper of Sheernobb\u2019s finest beehives. Her honey shipment bound for Verbobonc was stolen by raiders who speak of the 'Black Earth' and wield stone weapons. She cannot pursue them herself but offers enchanted honey as reward. She is practical, resilient, and deeply invested in her village\u2019s reputation.",
+    "source_quote": "This honey isn\u2019t just about trade. It carries Sheernobb\u2019s name and our reputation. If we lose the trust of the merchants, our village will suffer.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth",
+    "fact": "The Black Earth is a mysterious cult or faction responsible for raiding Pasmarie\u2019s honey caravans. They wield stone weapons and speak of ancient, earth-bound ideologies. Their presence suggests a deeper, possibly magical or heretical movement operating in the Kron Hills.",
+    "source_quote": "The attackers weren\u2019t bandits\u2014no, they spoke of the \u2018Black Earth\u2019 and carried weapons of stone.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "honey theft",
+    "fact": "A caravan carrying Pasmarie Clee\u2019s enchanted honey to Verbobonc was ambushed on the trade road north of Sheernobb. The attackers, linked to the Black Earth, stole the cargo and vanished into the Kron Hills, threatening the village\u2019s economic and cultural standing.",
+    "source_quote": "The caravan was ambushed on the trade road just north of the village.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a village in the Kron Hills, known for its beehives, enchanted honey, and political tensions between its Headgnome, Captain of the Guard, and local artisans. It is culturally significant as a crossroads of trade and tradition, with a moot hall where governance occurs.",
+    "source_quote": "You are in the moot hall of Sheernobb, one of my clan villages in this part of the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Pasmarie\u2019s Beehives",
+    "fact": "Pasmarie\u2019s Beehives are a well-maintained farmstead southeast of Sheernobb, surrounded by verdant fields and wildflowers. The hives are arranged in neat rows, and the area serves as both a productive asset and a symbol of Sheernobb\u2019s identity. A small building with a wooden doorway serves as her workshop and meeting space.",
+    "source_quote": "The hives are neatly arranged in rows, with the buzzing of bees creating a harmonious backdrop.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest is a vast, ecologically rich woodland spanning multiple regions including Verbobonc, Dyvers, the Domain of Greyhawk, and the Kron Hills. It is a cultural and magical crossroads, home to Sylvan Elves, treants, unicorns, and ancient secrets. Its glades and valleys conceal hidden paths and forgotten lore.",
+    "source_quote": "A sprawling woodland straddling the borders of Verbobonc, Viscounty, Dyvers, the Domain of Greyhawk, the Wild Coast, Celene, and the Kron Hills...",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "enchanted honey",
+    "fact": "The enchanted honey of Sheernobb is a rare magical substance produced by Pasmarie\u2019s bees. It possesses restorative properties capable of saving lives in peril. It is the village\u2019s most prized export and a symbol of its prestige, stolen by the Black Earth raiders.",
+    "source_quote": "You\u2019ll have my gratitude and a share of my finest enchanted honey\u2014a taste of Sheernobb\u2019s magic that might save your life in a pinch.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "map with annotations",
+    "fact": "A map purchased by Zephyr has been annotated by Pasmarie Clee to mark the location of the honey caravan ambush. It now includes a northeastward trail leading into the Gnarley Forest, where further clues may lie. Additional notes on the map describe the forest\u2019s ecological and mystical significance.",
+    "source_quote": "She marks it. 'It had happened a few miles to the north east.'",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "weasel",
+    "fact": "A weasel appeared suddenly in Glennddarc\u2019s lap, waking him with a grouchy yelp. It nuzzled his ear, flipped onto its back, and bared its soft underbelly. It is unusually tame and appears to have a strange, almost sentient bond with the Headgnome, suggesting possible magical influence or familiar status.",
+    "source_quote": "The weasel darts quickly to nuzzle the elder's ear, then flips on its back, baring its soft underbelly.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "old woman in Gnarley Forest",
+    "fact": "An old woman in a brown dress, green woolen shirt, and leather belt appears in a glade of the Gnarley Forest. She greets Zephyr with unnatural familiarity. Her appearance is subtly wrong \u2014 perhaps enchanted, disguised, or a manifestation of the forest\u2019s ancient magic. Her presence suggests a hidden guardian, spirit, or trap.",
+    "source_quote": "There is something off about her.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 21, 579 Late Afternoon",
+    "fact": "On this date, Zephyr and his companions arrive at Pasmarie\u2019s Beehives and learn of the honey theft. The event marks the beginning of their investigation into the Black Earth raiders.",
+    "source_quote": "Planting 21, 579 Late Afternoon",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "Planting 22, 579",
+    "fact": "The following day, Zephyr receives guidance from the half-orc cook Quinna Poul regarding the boar in the Gnarley Forest. He enters the forest and encounters the mysterious old woman, deepening the mystery.",
+    "source_quote": "Planting 22, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the chest",
+    "fact": "Zephyr believes that finding the stolen honey is linked to locating 'the chest' \u2014 an object of greater value or significance. The chest may contain more than just honey \u2014 perhaps relics, documents, or magical artifacts tied to the Black Earth or Sheernobb\u2019s hidden history.",
+    "source_quote": "Reward is added to the other reward. And we get to find the chest.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the old woman's identity",
+    "fact": "The old woman in the Gnarley Forest greets Zephyr with uncanny familiarity. Her attire, demeanor, and unnatural presence suggest she is not merely a hermit \u2014 she may be a spirit, a druid, a fey entity, or a magical construct tied to the forest\u2019s ancient magic.",
+    "source_quote": "There is something off about her.",
+    "quote_verified": true
+  }
+]

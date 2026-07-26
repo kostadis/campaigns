@@ -1,0 +1,387 @@
+[
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is super excited about the scene of the dead cultists.",
+    "source_quote": "Mon Dieu, this is amazing! This is incredible.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir shouts out the contents of the laboratory.",
+    "source_quote": "Two potions of gaseous form. A potion of healing. And yes, look at this, a magical dagger!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is frustrated that the secret door\u2019s location is unknown.",
+    "source_quote": "There is a secret door somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir looks at the narrator as if it's their job to find every secret door.",
+    "source_quote": "He looks at me as if it\u2019s my job to go through every secret door.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator looks at Sequoia, who looks right back.",
+    "source_quote": "I look at Sequoia, who looks right back at me.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator groans in resignation.",
+    "source_quote": "Fine.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator enters a room containing a filthy, cracked fountain that leaked onto the floor ages ago, leaving greenish stains.",
+    "source_quote": "I enter a room containing a filthy, cracked fountain that leaked onto the floor ages ago, leaving greenish stains.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator opens a small door in the corner of the room and finds the cultist\u2019s leader.",
+    "source_quote": "I walk quietly to it and open it. Inside is the cultist\u2019s leader.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator wonders if the cultist\u2019s reward from his infernal god will be everything he hoped for.",
+    "source_quote": "I wonder if his reward from his infernal god will be everything he hoped for.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator realizes the cultist is a worshipper of Lolth.",
+    "source_quote": "Looking it over closely, I realize it must be Lolth. A human worshipper of Lolth.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Lolth",
+    "fact": "Lolth has been gone for a while, and the scuttlebucket is that she\u2019s trapped somewhere.",
+    "source_quote": "Lolth has been gone for a while. The scuttlebucket is that she\u2019s trapped somewhere.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is super excited about the spell book and scroll found in the bedroom.",
+    "source_quote": "A scroll of fog, silent image, gust of wind, misty step! And look, a spell book with feather fall, fog cloud, mage armor, magic missile and protection from good and evil, silent image, Tenser\u2019s floating disk, unseen servant, gust of wind, misty step, rope trick, fly gaseous form, magic circle, and sleet storm! A virtual cornucopia of spells. With these in my repertoire, I will be much more useful to all of you!",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator is excited to arrive in Hommlet.",
+    "source_quote": "We arrived in Hommlet. Spugnoir is so excited. I am, too.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator suspects Spugnoir\u2019s spell list was useless but considers keeping him around.",
+    "source_quote": "His spell list was useless. Maybe we will keep him around.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator wants to find out who copied the map and starts at the workers' encampment near the fortress.",
+    "source_quote": "I want to find out who copied the map. A good place to start is the workers' encampment near the fortress.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr approaches the narrator, suspicious and unimpressed.",
+    "source_quote": "What the hells are you doing here?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is not easily intimidated and has opinions.",
+    "source_quote": "This guy isn\u2019t going to be easily intimidated. And worse, he has opinions.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is afraid, concerned, and intimidated at the sight of a Tiefling.",
+    "source_quote": "But like most people, he\u2019s afraid. And he\u2019s concerned. And he\u2019s intimidated at the sight of a Tiefling.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr believes Tieflings are thought to be hellspawn.",
+    "source_quote": "Because, well, folks here think we are all hellspawn.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr spooks the man, who runs to his house.",
+    "source_quote": "And I\u2019ve spooked him. And a spooked mouse will run to its house.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator performs a stakeout with Sequoia and Zephyr.",
+    "source_quote": "A stakeout. I guess it could be worse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator remembers a secret mission and chooses not to think about it.",
+    "source_quote": "This reminds me of the time I was. Well, that\u2019s a secret mission. And maybe I shouldn\u2019t think about it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr points out that the mouse is running.",
+    "source_quote": "Zephyr points out that the mouse is running.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia pursues the mouse from a distance as it heads toward the river.",
+    "source_quote": "Sequoia is pursuing him from a distance as he leaves the encampment.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The mouse is shot by his allies, who then run away.",
+    "source_quote": "The mouse just got shot by his allies, who are now running away.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator assesses the situation: captain and four mooks.",
+    "source_quote": "There is a captain and four mooks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia winces at the sound of Zephyr\u2019s fists landing on a body.",
+    "source_quote": "That has got to hurt. The sound of Zephyr\u2019s fists landing on a body always hurt. I know I shouldn\u2019t wince, and I don\u2019t but I want to.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia stands over the mouse\u2019s body to protect him from the mooks.",
+    "source_quote": "I need to stop that. I have to get really close to combat, stand over his body, and protect him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr feeds a potion of healing to the wounded mouse.",
+    "source_quote": "Zephyr uncorks a potion of healing and feeding it to this mouse.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia tries to kill the captain by throwing a spear at him.",
+    "source_quote": "Now Zinia is trying to kill the Captain by throwing a spear at him.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia asks the survivor his name.",
+    "source_quote": "What\u2019s your name?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr reveals their intent was to kidnap, not save, the survivor.",
+    "source_quote": "We need information. We\u2019re not your saviors. We wanted to kidnap you, but they got to you first.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr mutters something that causes Tort to panic and pee himself.",
+    "source_quote": "Zephyr looks into Tort\u2019s eyes and mutters something. Now, Tort is peeing himself.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator reflects on the complexity of agendas in the village.",
+    "source_quote": "There are so many groups with different agendas. Do the traders work for the Duke? Does the Duke work for the traders? Is the Duke an independent agent? The layers and complexities of these conspiracies are surprising for such a small town.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia and the group dump bodies into the river to hide evidence.",
+    "source_quote": "We dumped them into the river, and hopefully, they wash up downriver where nobody will notice.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer claims to just guard the group\u2019s stuff.",
+    "source_quote": "I just guard your stuff. You guys are the heroes.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia shouts, \u201cMoat house.\u201d",
+    "source_quote": "Moat house,\" I shout.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer uses his divine power to drive away zombies.",
+    "source_quote": "By the Power of St Cuthbert, BEGONE ZOMBIES!!!",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr observes the torture chamber and the undead that may have been prisoners for ten years.",
+    "source_quote": "These poor souls may have been left here for 10 years and turned into zombies. I\u2019ve heard of worse in the Abyss, but this is bad.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia notices the locks and hinges on a door are new and oiled.",
+    "source_quote": "The locks are new, and the hinges oiled. Someone has been here recently.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia announces the contents of the weapon room.",
+    "source_quote": "50 shields, 12 suits of leather armor, and several barrels of salted meat.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr declares the supplies could support an army or major brigand operation.",
+    "source_quote": "There are enough supplies for an army or a major brigand operation.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer mutters about the fire temple robes being authentic or faked.",
+    "source_quote": "Either the Temple is alive and well, or someone is doing a fantastic job of faking it.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia grabs the robe and says they will wear them.",
+    "source_quote": "We will wear these.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia suspects a secret door exists due to evidence of a commanding mind.",
+    "source_quote": "There must be a secret door somewhere here. There is too much evidence of a mind that is in charge.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia notices a trail of blood leading to a pillar.",
+    "source_quote": "A trail of blood catches his eye, disappearing in a pillar to the south.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia taps the pillar and discovers a secret door.",
+    "source_quote": "He taps the pillar, and a door opens, \u201cThe secret door.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia whispers about the shaft\u2019s depth and new rungs.",
+    "source_quote": "It\u2019s about 30 feet deep, and rungs have been placed into the shaft.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia observes a splintered coffin with gnawed and split bones.",
+    "source_quote": "The niche the secret door opened has a coffin that is splintered. Examining the coffin more carefully, he notices gnawed and split bones.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia describes the ghoul\u2019s appearance in detail.",
+    "source_quote": "Its withered body seems composed of little more than bruised skin stretched over sinew and bone, but its bulbous belly juts out and sloshes from side to side as it moves. Filth and gore stain its claw-like hands and wizened face. And eyes as black as pitch weep a tarry substance, which a black tongue\u2014slithering from its fanged mouth\u2014licks from its cracked lips.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia calls for Calmer because they have ghouls.",
+    "source_quote": "Calmer, get over here; we have ghouls.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia says they can rest in the earthen tunnel.",
+    "source_quote": "We can rest here and continue tomorrow.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr gives Calmer a mission to retrieve treasure from the pool.",
+    "source_quote": "Calmer, I have a mission for you. ... So go get that treasure; just be quiet about it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr chokes down a laugh when the cleric is attacked by the giant crayfish.",
+    "source_quote": "Zephyr chokes down a laugh and then shouts, \u201cDon\u2019t lose the treasure.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia marches down a north passage ending in a door.",
+    "source_quote": "Sequoia looks down the passage heading 100 or more feet north from the room with the crayfish, ending in a door, and marches down it.",
+    "quote_verified": true
+  }
+]

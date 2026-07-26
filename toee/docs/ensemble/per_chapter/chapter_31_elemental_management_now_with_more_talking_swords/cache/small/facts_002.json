@@ -1,0 +1,107 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a self-styled prophet of the Earth Temple who has begun to blur his identity with the role, despite not being a true cleric, and has made a blood pact with a salamander to gain knowledge of the Greater Temple.",
+    "source_quote": "I will die sooner,\" he said, and closed his hand around the salamander's.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the new Earth Temple cleric who insists on being called 'the Prophet of the Earth Temple,' revealing a growing disconnect between his official role and his personal ambition, and whose cover is speaking his objections for him.",
+    "source_quote": "Calmer chose the moment before the lock to demand we start calling him the Prophet, the Prophet Calmer, the Prophet of the Earth Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a thief who discovered Frostbrand in a fire pit, recognized its unnatural cold as a warning, and ultimately took possession of the sentient sword after it rejected others and chose to speak to him.",
+    "source_quote": "I'll take it,\" I said. I let it down into my actual hand, against my better judgment, and the cold sat there and did not kill me.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a sharp-eyed observer who has tracked Zephyr\u2019s descent into self-deception, calling out his false identity as an Earth Temple cleric and recognizing the danger of his alliances with fire-based entities.",
+    "source_quote": "You're not a real cleric for the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is an organization whose agents, including salamanders, operate through binding pacts, offer knowledge in exchange for loyalty, and maintain a hostile stance toward the Water Temple and the Greater Temple.",
+    "source_quote": "it keeps the Fire Temple, it kills any Water Temple stragglers still breathing, and \u2014 this was the part worth the whole exchange \u2014 it knows things. About the Greater Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a religious order whose clerics are expected to uphold neutrality and spiritual integrity, but whose recent appointees are being subverted by ambition and performative identity, creating internal tension.",
+    "source_quote": "After all, I am the new Earth Temple cleric, and I don't know whether that's appropriate.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple is a hidden, overarching entity whose true nature and operations beneath the surface are known only to those who have made pacts with fire-based entities, and whose secrets are the ultimate prize of the conflict.",
+    "source_quote": "it knows things. About the Greater Temple. About what is actually happening beneath all of this.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Frostbrand",
+    "fact": "Frostbrand is a sentient magical sword of unnatural cold, found in a fire pit, capable of speech, and which chose Zephyr as its first target before rejecting him and remaining unclaimed, suggesting a deeper alignment or test.",
+    "source_quote": "It said yes. I asked the only question that mattered. 'Are you gonna kill me if I touch you?' It seemed offended by the suggestion.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Salamander Pact",
+    "fact": "The Salamander Pact is a blood-bound agreement between Zephyr and a fire entity, granting knowledge of the Greater Temple in exchange for loyalty and the promise of mutual benefit, with the cost of Zephyr\u2019s own mortality.",
+    "source_quote": "Zephyr cut himself and signed. Then he put out his hand to shake \u2014 into a creature that would burn him for the contact.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Salamander",
+    "fact": "The salamander is a fire elemental bound to the Fire Temple, capable of speech, pact-making, and offering hidden knowledge, but its nature is hostile and requires blood to activate its services.",
+    "source_quote": "The salamander shrugged. No outrage, no second attempt. It wasn't running a con. It was offering exactly what it was...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of Frostbrand",
+    "fact": "Frostbrand was discovered in a fire pit by Sequoia, who recognized its unnatural cold as a danger, and after it coughed and spoke, it became a sentient object of potential power \u2014 but one that rejected Zephyr and remained unclaimed.",
+    "source_quote": "It said yes. I asked the only question that mattered. 'Are you gonna kill me if I touch you?' It seemed offended by the suggestion.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Identity Crisis of Zephyr",
+    "fact": "Zephyr\u2019s transformation from a pragmatic mercenary into a self-proclaimed prophet of the Earth Temple is a growing thread of self-deception, where his actions increasingly contradict his true nature, and others are beginning to notice.",
+    "source_quote": "You're not a real cleric for the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Frostbrand\u2019s True Alignment",
+    "fact": "Frostbrand, a cold blade in a fire pit, has chosen to speak \u2014 and it pointed at Zephyr first, then rejected him. Its intent, its origin, and its true allegiance remain unknown, but it clearly opposes the Fire Temple\u2019s dominance.",
+    "source_quote": "It pointed at Zephyr first. Zephyr is neutral. The sword said no.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Cover Speaking for Calmer",
+    "fact": "Calmer\u2019s insistence on being called 'the Prophet of the Earth Temple' reveals that his public persona is now speaking his inner doubts and objections \u2014 a sign his identity is collapsing under performative piety.",
+    "source_quote": "The cover was speaking again, and it was getting louder.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a single, continuous session of exploration and revelation in the temple complex, marked by escalating tension, identity shifts, and the discovery of a sentient weapon.",
+    "source_quote": "That was when Calmer turned. ... I noted it and kept moving.",
+    "quote_verified": false
+  }
+]

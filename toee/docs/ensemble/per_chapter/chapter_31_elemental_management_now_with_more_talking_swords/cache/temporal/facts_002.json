@@ -1,0 +1,121 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr's demand",
+    "fact": "Two gold coins are demanded for sparing the commander's life.",
+    "source_quote": "Two gold coins for sparing your life, please.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "gold coin value",
+    "fact": "Two gold pieces are handed over as a symbol of surrender, not payment.",
+    "source_quote": "The coins meant nothing. The handing-over meant everything.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr's declaration",
+    "fact": "Zephyr claims respect, not money, as the true currency of submission.",
+    "source_quote": "What I demand is not money, but respect.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's assertion",
+    "fact": "Calmer declares himself Chief Cleric and supreme authority of the Upper Temple.",
+    "source_quote": "the Obsidian Edge and the Chief Cleric is myself, Calmer.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple altar",
+    "fact": "The Water Temple altar holds a drowned fortune of coins, gems, and seashells.",
+    "source_quote": "And in that water, gentlemen, coins. Gems. Seashells. A whole drowned fortune sitting there waiting.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "gargoyle threat",
+    "fact": "Four stone gargoyles animate and attack when the bronze bas-relief is touched.",
+    "source_quote": "the gargoyles came off their pillars. Wings unfolding. Stone going from stone to intent.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's spirit invocation",
+    "fact": "Calmer summons radiant spirits that dismantle three gargoyles with ease.",
+    "source_quote": "I reached for the swirling spirits. They came the way they always come for me... the first gargoyle nearest the spirits simply ended.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia's warning",
+    "fact": "Zinnia warns Calmer not to overreach into a temple he does not yet own.",
+    "source_quote": "not to go too deep. To not overreach into a room I did not yet own.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr's leadership claim",
+    "fact": "Zephyr declares himself and his group the new bosses of the temple hierarchy.",
+    "source_quote": "We are the new bosses, so,",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "commander's surrender",
+    "fact": "The commander surrenders his position and allegiance after being overwhelmed by force and psychological pressure.",
+    "source_quote": "You know, I never really liked Alrrem.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Calmer's final authority",
+    "fact": "Calmer asserts control over the Fire Temple by naming the surrendered cleric as head Cleric.",
+    "source_quote": "Alright. You're head Cleric.",
+    "quote_verified": false
+  }
+]

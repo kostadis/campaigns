@@ -1,0 +1,176 @@
+[
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a fervent, excitable cultist who believes in the power of magical artifacts and is emotionally driven by their acquisition. He recently killed two cultists, claimed a magical dagger, and discovered a secret door in a laboratory. He now possesses a spellbook containing multiple high-level spells including Tenser\u2019s floating disk, unseen servant, and sleet storm, and is convinced his repertoire will make him indispensable. He is frustrated by being left out of key missions and perceives others as neglecting his contributions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a cold, calculating spy with exceptional observational skills and interrogation techniques. She identified a secret door via a blood trail, led the team through a crypt infested with ghouls, and is deeply suspicious of hidden agendas in Hommlet. She suspects the Duke and traders are entangled in a conspiracy, and she is unimpressed by emotional displays. She recently took possession of a black robe symbolizing the Fire Temple and intends to wear it for infiltration.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a pragmatic, ruthless Tiefling with a flair for psychological manipulation and tactical exploitation. He used fear to extract information from Hestort Flintshine ('Tort'), orchestrated the ambush of bandits, and forced Calmer to retrieve dangerous treasure from a giant crayfish. He is skeptical of alliances and believes everyone in Hommlet has an agenda. He is the one who suggested wearing the Fire Temple robes and is unbothered by moral ambiguity.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a patient, observant warrior with a quiet intensity and deep combat experience. He led the pursuit of Tort, protected him during the ambush, and explored the moathouse crypts and passageways with precision. He identified the ghouls, coordinated the team\u2019s response, and recognized the significance of new hinges and recently used torture devices. He is the one who suggested resting in the ghouls\u2019 nest and is methodical in his approach to exploration and treasure assessment.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of St. Cuthbert who serves as the party\u2019s healer and holy authority. He successfully banished zombies with divine power, confronted ghouls with a religious talisman, and was coerced by Zephyr into retrieving treasure from a giant crayfish. He is anxious, often reluctant, but reliable in moments of crisis. He is viewed with suspicion by others \u2014 particularly Zinnia \u2014 and is treated as expendable by Zephyr, yet remains indispensable to the group\u2019s survival.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Hestort Flintshine ('Tort')",
+    "fact": "Hestort is a five-foot-tall, gaunt worker employed by the Duke of Hommlet. He was targeted for kidnapping by the party, rescued by bandits, and then shot by them. He is terrified, emotionally broken, and claims ignorance of the Duke\u2019s true masters. He is a pawn in a larger conspiracy and serves as the first tangible link between the Duke and the hidden forces manipulating Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Cult of Lolth",
+    "fact": "The cult of Lolth, identified by a spider idol, was active in the laboratory where Spugnoir and the two cultists were slain. The cult\u2019s leader, a human worshipper of Lolth, was killed by the party. The cult appears to be a remnant faction, as Lolth herself is believed to be trapped somewhere. Their operations are centered around magical experimentation and hidden chambers, suggesting they are preparing for her return.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is a religious organization symbolized by black robes found in the moathouse dungeon. Its presence is ambiguous \u2014 either it is still active, or someone is impersonating it. The robes were taken by Zinnia for infiltration purposes, indicating the group is being used as a cover for clandestine operations, possibly linked to the Duke or the larger conspiracy in Hommlet.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Duke\u2019s Network",
+    "fact": "The Duke is a central, shadowy figure in Hommlet, employing Hestort Flintshine and likely collaborating with traders, bandits, and possibly the Fire Temple. He is not the ultimate master but a middle agent working for someone within the village. His operations include smuggling, treasure hoarding, and possibly magical experimentation. His true allegiance and goals remain hidden, making him a key node in a complex web of conspiracies.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Bandits",
+    "fact": "The bandits are a small group led by a captain who ambushed and attempted to kill Hestort Flintshine. They appear to be working against the Duke\u2019s interests, possibly as mercenaries or rogue agents. Their sudden attack and subsequent flight suggest they are not independent but part of a larger conflict. All were killed by the party during the river ambush.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "The Traders",
+    "fact": "The traders of Hommlet offered to store the party\u2019s gear and are suspected of working with the Duke. Their true loyalty is unclear \u2014 they may be independent, under the Duke\u2019s control, or part of a third faction. Zephyr and Zinnia suspect they are entangled in the same conspiracy as the Duke, making them a potential front for smuggling or magical artifact trafficking.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Ghouls",
+    "fact": "Four ghouls were encountered in the moathouse crypt, identified by their withered, bloated bodies, tarry weeping eyes, and fanged mouths. They were drawn to the crypt by the remains of the dead and were partially driven off by Calmer\u2019s holy symbol. They are linked to the torture chamber, suggesting victims were left to be consumed. Their nest lies in an earthen tunnel beneath the crypt, indicating a sustained presence.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Crayfish",
+    "fact": "A giant crayfish inhabits a frigid pool in the moathouse dungeon, surrounded by bones and a hidden treasure ledge. It attacked Calmer when he attempted to retrieve a ruby pin and small tube. The creature is unusually cold-adapted, suggesting magical or planar influence. It was defeated after a coordinated assault by Sequoia and Zephyr.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Zombies",
+    "fact": "A horde of zombies filled the moathouse hallway, likely former prisoners or victims of torture left to rot. They were banished by Calmer\u2019s divine power, with one remaining active. Their presence confirms the dungeon\u2019s use as a site of prolonged suffering, and their recent animation suggests dark magic or necromantic activity tied to the Fire Temple or Lolth cult.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Laboratory with Alchemy Lab and Forge",
+    "fact": "A hidden laboratory containing an alchemy lab, forge, and shelf of moldering books served as the base for the Lolth cult. It housed magical formulae, a secret door, and the remains of two slain cultists. Spugnoir discovered two potions of gaseous form, a healing potion, and a magical dagger here. The forge and alchemical equipment suggest active magical experimentation, possibly to empower Lolth\u2019s return.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Dungeon",
+    "fact": "The moathouse dungeon is a multi-level underground complex used for torture, imprisonment, and necromantic rites. It contains zombie-infested halls, a torture chamber with a hidden secret door, a crypt with ghouls, a pool with a giant crayfish, and storage rooms filled with weapons, salted meat, and Fire Temple robes. Evidence of recent activity \u2014 oiled hinges, new rungs, and fresh blood \u2014 indicates an ongoing operation tied to the Duke and possibly the Fire Temple.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is a deceptively small village teeming with hidden factions: the Duke, traders, bandits, the Fire Temple, remnants of the Lolth cult, and possibly other unknown entities. Each group has conflicting agendas, and no one is trustworthy. The village is a nexus of conspiracy, where every interaction is layered with deception. The party\u2019s arrival has exposed its fragile balance.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "River Encampment",
+    "fact": "The river encampment near the fortress is where Hestort Flintshine was employed and where the party first attempted to extract information. It became the site of a failed kidnapping, a bandit ambush, and the shooting of Tort. The area is now a focal point of suspicion, with Sequoia and Zinnia conducting a stakeout. Its proximity to the river and the fortress suggests it is a logistical hub for smuggling or communication.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Magical Dagger",
+    "fact": "A magical dagger was discovered in the laboratory after the death of two cultists. It was claimed by Zinnia after a brief debate. Its properties are unspecified, but its presence among alchemical tools suggests it was used in ritual magic or to channel Lolth\u2019s power. It is now in the possession of Zinnia and likely used for covert operations.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Spellbook",
+    "fact": "A spellbook containing high-level arcane spells \u2014 including Tenser\u2019s floating disk, unseen servant, sleet storm, fly, gaseous form, magic circle, and rope trick \u2014 was found in the laboratory. It was claimed by Spugnoir, who now considers it the foundation of his new magical repertoire. The book\u2019s presence suggests the cult was attempting to replicate or steal powerful magic, possibly for Lolth\u2019s resurrection.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ruby Pin with Small Tube",
+    "fact": "A ruby pin with a small tube was found in a frigid pool in the moathouse dungeon, guarded by a giant crayfish. It was retrieved by Calmer under duress. The object\u2019s purpose is unknown, but its placement and the cold environment suggest it may be a magical focus, a containment device, or a relic tied to a planar entity.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Black Robes of the Fire Temple",
+    "fact": "Black robes bearing the symbol of the Fire Temple were found in a storage room of the moathouse. Zinnia took them, intending to wear them for infiltration. Their condition suggests recent use, and their presence implies either the temple is active or someone is impersonating it \u2014 possibly to mask necromantic or demonic activities.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lolth\u2019s Imprisonment",
+    "fact": "The cultists\u2019 worship of Lolth and their use of alchemy and magic suggest they are preparing for her return. However, it is believed Lolth herself is trapped somewhere \u2014 possibly in the Abyss, another plane, or a hidden chamber beneath Hommlet. The party\u2019s discovery of the laboratory and the spellbook hints at an attempt to break her seal. The secret shaft and crypt may lead to her prison.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Duke\u2019s Master",
+    "fact": "Hestort claims the Duke works for someone in the village, but does not know who. The traders, the Fire Temple, and the Lolth cult are all potential candidates. The party suspects the true master is manipulating events from the shadows \u2014 possibly a cultist, a noble, or even a demon in disguise. Uncovering this figure is the next critical objective.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Secret Shaft",
+    "fact": "A 30-foot secret shaft with new rungs, discovered beneath the torture chamber, leads to a hidden passageway and another secret door. The shaft\u2019s construction suggests recent use and deliberate concealment. It may lead to Lolth\u2019s prison, the Duke\u2019s private sanctum, or a planar rift. The party has not yet descended, but it is the most promising lead to the heart of the conspiracy.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Afternoon, Planting 18, 579",
+    "fact": "On this date, the party encountered Hestort Flintshine in the workers\u2019 encampment, initiated the stakeout, and witnessed the bandit ambush. Zephyr and Zinnia began their interrogation tactics, and Sequoia started tracking Tort\u2019s movements. This day marks the beginning of the conspiracy\u2019s unraveling.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Evening, Planting 18, 579",
+    "fact": "On this date, the party ambushed the bandits, killed the captain and mooks, and rescued Tort. Zephyr interrogated him, extracting fragments of information about the Duke. Sequoia and Zinnia coordinated the operation, establishing their roles as tactical leaders. The events of this evening confirmed the existence of multiple factions in conflict.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Morning, Planting 19, 579",
+    "fact": "On this date, the party entered the moathouse dungeon and used Calmer to clear zombies. Zinnia discovered the secret door via blood trail, Sequoia identified the crypt, and Zephyr forced Calmer to retrieve treasure. The Fire Temple robes were taken, and the first major dungeon layer was secured. This day marked the transition from investigation to active exploration.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Morning, Planting 20, 579",
+    "fact": "On this date, the party explored the southern passageway of the moathouse, encountered the giant crayfish, and retrieved the ruby pin. Sequoia discovered the northern passageway leading to unknown chambers. The party\u2019s resources are depleted, and they are preparing to rest \u2014 but the secret shaft remains unexplored, and the identity of the Duke\u2019s master is still unknown.",
+    "quote_verified": false
+  }
+]

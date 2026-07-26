@@ -1,0 +1,177 @@
+[
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer presented a painted rock to Prefect Terjon as evidence, was shocked by the rejection, and later bowed out to return to the temple for prayers.",
+    "source_quote": "Calmer asked, \"Tomorrow at the same time?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr retrieved the painted rock from Prefect Terjon after questioning its worth, carried it to Burne and Rufus, and recognized the connection between the rock and the missing blueprints.",
+    "source_quote": "Zephyr said, \"If this rock is so worthless, why keep it?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinia",
+    "fact": "Zinia recognized the town\u2019s lack of secrets, truthfully disclosed their interactions to Jaroo, and led the group to Elder Kenter\u2019s compound to secure local political support.",
+    "source_quote": "Zinia muttered, \"We should go talk to the village elder.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia observed the two sons of Elder Kenter carefully grooming horses and inferred their pride in possessions.",
+    "source_quote": "Sequoia thought that they must be very proud of their possessions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Prefect Terjon",
+    "fact": "Prefect Terjon dismissed the rock as a painted trinket, refused to keep it initially, then changed his mind and retained it, later tossing it to Zephyr after being provoked.",
+    "source_quote": "Terjon muttered, \"You\u2019re right. It is worthless.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne and Rufus connected the painted rock to the missing blueprints, recognized sabotage, and commissioned the party to investigate the encampment workers.",
+    "source_quote": "Burne muttered, \"This is it?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus discovered charcoal dust on returned blueprints, suspected a saboteur working with bandits, and concluded the thief was among the encampment workers.",
+    "source_quote": "Rufus whispered, \"We may have a job for you.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler, the innkeeper, enforced a three-night minimum stay policy and noted that adventurers had not spoken to the Druid, hinting at unresolved tension.",
+    "source_quote": "Ostler said, \"I\u2019ll believe it when he says so.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo, the Druid, demanded deeper evidence from the moathouse, blessed the party with Beory\u2019s favor and a healing potion after learning they had spoken to Terjon, Burne, and Rufus.",
+    "source_quote": "Jaroo shouted, \"Who else have you spoken to?\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elder Kenter",
+    "fact": "Elder Kenter welcomed the party to his compound, acknowledged Beory\u2019s blessings, and presided over a household of five families and servants, representing the town\u2019s political core.",
+    "source_quote": "Kenter toasted, \"The Blessings of Beory.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Kenter's Household",
+    "fact": "The household of Elder Kenter consists of five families: the elder and his wife, four sons and their wives, with children and servants, forming a defensible and influential local power structure.",
+    "source_quote": "Zinia discovered that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children... servants here as well.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Local Militia",
+    "fact": "The local militia has orders to bring the party to Burne and Rufus at the Inn of the Welcome Wench, indicating structured coordination between town authority and enforcement.",
+    "source_quote": "They are local militia members and have orders to bring the four to Burne and Refus, who are currently drinking at the Inn of the Welcome Wench.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "painted rock",
+    "fact": "The painted rock, found on a bandit\u2019s body, was dismissed as worthless by Terjon, accepted by Zephyr, and later recognized by Burne and Rufus as a clue linked to charcoal dust on stolen blueprints.",
+    "source_quote": "Terjon said, \"You bring me a painted rock.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "blueprints for the keep",
+    "fact": "The blueprints for the keep were reported missing, later returned with traces of charcoal dust, suggesting an internal copy operation by a saboteur among the encampment workers.",
+    "source_quote": "Rufus said, \"I found them missing... traces of charcoal dust on them.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "blueprint theft investigation commissioned",
+    "fact": "Burne and Rufus, convinced by the rock\u2019s connection to the charcoal-dusted blueprints, formally commissioned the party to investigate the encampment workers for sabotage.",
+    "source_quote": "Rufus said, \"You must go and find the thief.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Druid\u2019s blessing granted",
+    "fact": "After learning the party had spoken to Terjon, Burne, and Rufus, Jaroo granted them Beory\u2019s blessing and a healing potion, signaling his approval and hidden knowledge of their actions.",
+    "source_quote": "Jaroo offered them the blessing of Beory and a healing potion.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "three-night inn stay enforced",
+    "fact": "Ostler enforced a policy that adventurers must stay at the Inn for a minimum of three nights, and any goods left behind are sold after three days.",
+    "source_quote": "Ostler said, \"adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "identity of the saboteur",
+    "fact": "The saboteur is suspected to be a worker in the encampment who collaborated with the bandits, but their identity remains unknown and must be uncovered.",
+    "source_quote": "Rufus said, \"I am convinced it is one of the workers in the encampments.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Druid\u2019s hidden agenda",
+    "fact": "The Druid\u2019s apparent approval and delayed blessing suggest he knew of the party\u2019s prior dealings and is waiting for them to engage him directly before revealing deeper truths.",
+    "source_quote": "Ostler said, \"I\u2019ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s Compound",
+    "fact": "Elder Kenter\u2019s compound is a defensible residence with an eight-foot-high stone wall and heavy gate, housing five families, children, and servants, serving as the political heart of the village.",
+    "source_quote": "It is the residence of some well-to-do folk and easily defensible in times of trouble.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Burne and Rufus are drinking and where the party receives their mission; it is a hub of local intelligence and social interaction.",
+    "source_quote": "Burne and Refus are sitting at the table, drinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "The Temple of St. Cuthbert is where Prefect Terjon resides and where the painted rock was first evaluated; it is a center of civic authority and religious influence.",
+    "source_quote": "Once inside the temple of St. Cuthbert, Calmer excitedly explains to Prefect Terjon...",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is the site of prior investigations and remains the target for deeper evidence, as repeatedly demanded by town leaders including Jaroo and Ostler.",
+    "source_quote": "Ostler admonished, \"You must go deeper into the moathouse and find more evidence.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "bandits",
+    "fact": "Bandits were defeated and one confessed, yielding the painted rock; they are suspected of colluding with a saboteur among the encampment workers.",
+    "source_quote": "The stone's strange markings suggest elemental evil, and after a confession from one of the bandits...",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 16, 579",
+    "fact": "The events of the chapter occur on Planting 16, 579, marking the timeline of the recruitment, loaded dice, and midnight whispers.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true
+  }
+]

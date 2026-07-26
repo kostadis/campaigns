@@ -1,0 +1,378 @@
+[
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is determined to recover Calmer's body and believes healing or revival must wait until tomorrow, showing emotional restraint and strategic patience.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr takes decisive action to save Sequoia and Zinnia, later negotiates with Thalsor to delay confrontation, and plans an infiltration using environmental cover and ranged attacks.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia analyzes the tactical failure that led to Calmer\u2019s death, identifies Thalsor as a cultist threat, and formulates a precise plan using gaseous form potions and coordinated strikes to eliminate him.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thalsor",
+    "fact": "Thalsor is a hardened cultist of earth, guarding Calmer\u2019s corpse to prevent resurrection, threatening mutilation, and refusing to leave his compound despite being wounded.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was a healer who was knocked out and later killed by Thalsor; his intact corpse can be raised, and his death is the catalyst for the party\u2019s retaliatory mission.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Golem",
+    "fact": "The golem is an enemy construct allied with Thalsor; it becomes immobile after Thalsor\u2019s death and poses no further threat.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Mud mephit",
+    "fact": "A minor elemental servant of Thalsor; it survives briefly after Thalsor\u2019s death but is quickly slain by the party.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Cult",
+    "fact": "The Black Earth Cult is an organized cult of earth-aligned evil; Thalsor is a member, and their actions indicate targeted hostility toward the party and a desire to prevent resurrection of their victims.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Elemental Factions",
+    "fact": "The elemental factions (earth, air, fire, water) are in active conflict; Lareth manipulated the party to eliminate Thalsor and his cult, thereby weakening earth\u2019s influence and strengthening his own position.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "The Temple of St. Cuthbert, represented by Terjon, requires tithes for resurrection magic; Zinnia offered a magical trident to secure Calmer\u2019s revival, revealing the temple\u2019s transactional approach to divine aid.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Hommlet Factions",
+    "fact": "Various Hommlet factions (Jaroo, Burne, Rufus) have conflicting priorities; some are politically motivated, others wary of non-followers, and all are invested in the stolen chest\u2019s recovery.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Calmer's corpse",
+    "fact": "Calmer\u2019s corpse is intact, undamaged by mutilation, and therefore eligible for resurrection spells; its recovery is the immediate objective of the party\u2019s infiltration.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Potions of gaseous form",
+    "fact": "Two potions of gaseous form were used by Sequoia and Zinnia to infiltrate Thalsor\u2019s compound undetected, enabling the surprise retrieval of Calmer\u2019s body and the assassination of Thalsor.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Magical trident",
+    "fact": "Zinnia sacrificed a magical trident as a tithe to Terjon to secure Calmer\u2019s resurrection, indicating its value and the temple\u2019s requirement of costly offerings for divine intervention.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Stolen honey",
+    "fact": "The honey belonging to Pasmarie Clee was recovered from Thalsor\u2019s compound and returned to her in Sheernobb, fulfilling a mission objective and earning a reward.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Notes from the monastery",
+    "fact": "Notes discovered after the battle indicate the lost chest is located in a mountain monastery, providing the next critical lead in the party\u2019s quest.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "The chest Lareth wanted",
+    "fact": "The chest, sought by Lareth, was not recovered in the battle but is now known to be hidden in a mountain monastery; its contents remain unknown but are politically significant.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Thalsor\u2019s compound",
+    "fact": "Thalsor\u2019s compound is a fortified position where Calmer was killed and his body guarded; it is surrounded by hostile terrain and defended by Thalsor and his elemental servants.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Cheap Forester",
+    "fact": "The Cheap Forester is a tavern in Ostverk where Zinnia gathered intelligence; the owner requires payment for information, reflecting local economic and social dynamics.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sheernobb",
+    "fact": "Sheernobb is a settlement where Pasmarie Clee resides; the party returned the stolen honey here, completing a reward-based mission and gaining local goodwill.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Hommlet",
+    "fact": "Hommlet is a town rife with competing factions and political tensions; the party navigated multiple obligations here, including temple tithes, chest recovery requests, and healing negotiations.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Mountain monastery",
+    "fact": "A hidden monastery in the mountains is the new target location for the stolen chest, identified through recovered notes; it is unexplored and likely heavily guarded.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Battle at Zephyr\u2019s compound",
+    "fact": "A deadly confrontation occurred where Thalsor killed Calmer, defeated healers, and held the body for ransom; the party\u2019s counterattack using gaseous form resulted in Thalsor\u2019s death and the retrieval of the corpse.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Resurrection of Calmer",
+    "fact": "Calmer\u2019s resurrection was made possible by offering a magical trident as a tithe to Terjon at the Temple of St. Cuthbert, despite the temple\u2019s prior reluctance to aid non-followers.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of monastery notes",
+    "fact": "After the battle, notes were found revealing the chest\u2019s location in a mountain monastery, shifting the party\u2019s focus from immediate survival to long-term strategic objectives.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Elimination of Black Earth Cult presence",
+    "fact": "The party eliminated Thalsor and his mud mephit servant, dismantling the Black Earth Cult\u2019s local presence and fulfilling Lareth\u2019s hidden agenda to weaken rival elemental factions.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The chest\u2019s contents",
+    "fact": "The contents of the chest Lareth requested remain unknown; its location in a mountain monastery introduces a new mystery and potential source of power or incriminating evidence.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Lareth\u2019s true motives",
+    "fact": "Lareth\u2019s manipulation of the party to kill Thalsor suggests he is exploiting factional conflict to consolidate power; his true goals and alliances remain ambiguous and potentially dangerous.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Terjon\u2019s bias",
+    "fact": "Terjon\u2019s requirement of a costly tithe for resurrection raises questions about the Temple of St. Cuthbert\u2019s neutrality; whether healing is withheld from non-followers remains a looming concern.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 23, 579",
+    "fact": "The battle against Thalsor and the death of Calmer occurred on Planting 23, 579, marking the start of the party\u2019s urgent mission to recover the body and plan retaliation.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "Planting 24, 579",
+    "fact": "On Planting 24, 579, the party executed their infiltration plan, killed Thalsor, retrieved Calmer\u2019s body, and discovered the monastery notes, shifting the campaign\u2019s direction.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Robert Deakin",
+    "fact": "Robert Deakin, a gnome tavern keeper in Ostverk, demands payment for information, reflecting local economic practices and the difficulty of gathering intelligence in hostile territories.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Pasmarie Clee",
+    "fact": "Pasmarie Clee is a client whose stolen honey was recovered; she rewarded the party and is a key figure in establishing local legitimacy and trust.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Lareth",
+    "fact": "Lareth is a manipulative figure who sent the party to eliminate Thalsor under the guise of recovering a stolen chest; his actions reveal a hidden agenda to weaken elemental rivals and increase his own power.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "Terjon is a representative of the Temple of St. Cuthbert who demands tithes for resurrection magic; his prior dismissiveness and transactional behavior suggest institutional bias against non-followers.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo emphasizes the importance of recovering the chest and warns that followers of St. Cuthbert may withhold healing, revealing political tensions between factions and religious institutions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne and Rufus",
+    "fact": "Burne and Rufus are local figures with political interests in the chest; their priorities appear self-serving and less aligned with moral or communal good.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Robert Deakin",
+    "fact": "Robert Deakin is a gnome tavern owner in Ostverk who dismisses rumors of 'big evil powers' as bandit cover stories, claims firsthand knowledge from the Battle of Emiry Meadows, and believes the Temple was truly destroyed. He is displeased by the theory that the lost chest was meant to secure a treaty with Celene to wage war on gnomes and seize their gem mines \u2014 and is secretly glad the alliance failed. He is related to the Clee family, honey purveyors in Sheernobb, and has honey mead from the Honey Tavern Inn.",
+    "source_quote": "He claimed to know because he had fought in the Battle of Emiry Meadows, implying the Temple was truly destroyed.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rithelm Drake",
+    "fact": "Rithelm Drake is a human soldier with a square face and rough pink skin who initially demanded a drink but softened upon realizing the party were adventurers. He confessed he could have been an adventurer himself but chose family life. He recalled an abandoned monastery near Gallow's Corner \u2014 a direct hit on the party's primary objective.",
+    "source_quote": "He eventually recalled an abandoned monastery near Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gonnathrad Kevanarial",
+    "fact": "Gonnathrad Kevanarial is a High Elf Diplomat with long wavy black hair and grey eyes, dressed in a fancy red tunic, who is obsessed with adventure stories and desperately wants to be part of one. He offered to write a five-page backstory for the party and nearly divulged information about the monastery before remembering his actual duty: to recruit adventurers to hunt bandits. He issued the party a letter of permit officially hiring them to pursue the chest near a monastery by Gallow's Corner, promising 100 gold pieces upon presentation to Caer Ostverk.",
+    "source_quote": "He issued us a letter of permit, officially hiring us to pursue a lead regarding the chest near a monastery by Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Viscounty of Verbobonc",
+    "fact": "The Viscounty of Verbobonc intended to use the lost chest to secure a treaty with the Kingdom of Celene in order to wage war on the gnomes and seize their gem mines.",
+    "source_quote": "Deakin, being a gnome, was clearly displeased by this, and surprisingly, was glad the alliance hadn't formed.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Kingdom of Celene",
+    "fact": "The Kingdom of Celene was the intended treaty partner of the Viscounty of Verbobonc, with the lost chest serving as the means to formalize an alliance aimed at waging war against the gnomes and seizing their gem mines.",
+    "source_quote": "He unveiled a fascinating theory: the chest's true purpose was to secure a treaty with the Kingdom of Celene.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Black Earth Cultists",
+    "fact": "The Black Earth Cultists possessed notes explicitly mentioning a monastery in the mountains as the location of the lost chest, which became the party's guiding lead.",
+    "source_quote": "The notes we found with the Black Earth cultists explicitly mentioned a monastery in the mountains as its location.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Battle of Emiry Meadows",
+    "fact": "The Battle of Emiry Meadows was a past conflict in which Robert Deakin fought, giving him credibility in his assertion that the 'big evil power' rumors were merely bandits and that the Temple was destroyed.",
+    "source_quote": "He claimed to know because he had fought in the Battle of Emiry Meadows.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gallow's Corner",
+    "fact": "Gallow's Corner is a location near which an abandoned monastery was recalled by Rithelm Drake and referenced by Gonnathrad Kevanarial as the site of the lost chest's lead.",
+    "source_quote": "He eventually recalled an abandoned monastery near Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Caer Ostverk",
+    "fact": "Caer Ostverk is the administrative center where Gonnathrad Kevanarial's letter of permit must be presented to claim the 100 gold pieces reward for information on the chest.",
+    "source_quote": "He assured us, this letter would secure us 100 gold pieces upon presentation to Caer Ostverk.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "The Cheap Forester",
+    "fact": "The Cheap Forester is a tavern in Ostverk owned by Robert Deakin, known for its poor ambiance but rich in information, where the party gathered key leads and met Rithelm Drake and Gonnathrad Kevanarial.",
+    "source_quote": "We settled into 'The Cheap Forester' tavern in Ostverk, where a gnome named Robert Deakin owned the place.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "lost chest",
+    "fact": "The lost chest is a mysterious artifact whose true purpose was to secure a treaty between the Viscounty of Verbobonc and the Kingdom of Celene, intended to enable war against the gnomes and seizure of their gem mines. It is the central object of pursuit by multiple factions and individuals, including adventurers, diplomats, and bandits.",
+    "source_quote": "He unveiled a fascinating theory: the chest's true purpose was to secure a treaty with the Kingdom of Celene.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "letter of permit",
+    "fact": "The letter of permit is an official document issued by Gonnathrad Kevanarial, hiring the party to pursue the lost chest near a monastery by Gallow's Corner, and promising 100 gold pieces upon presentation to Caer Ostverk.",
+    "source_quote": "He issued us a letter of permit, officially hiring us to pursue a lead regarding the chest near a monastery by Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "monastery near Gallow's Corner",
+    "fact": "The abandoned monastery near Gallow's Corner is the primary lead regarding the lost chest's location, confirmed by Rithelm Drake and referenced in Gonnathrad's permit \u2014 yet its true purpose and current state remain unknown.",
+    "source_quote": "He eventually recalled an abandoned monastery near Gallow's Corner.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "true nature of the 'big evil power'",
+    "fact": "The true nature of the 'big evil power' remains contested: Robert Deakin insists it is merely bandits, while others suspect a greater threat \u2014 possibly tied to the chest's original purpose or the destruction of the Temple.",
+    "source_quote": "Deakin, however, was adamant that rumors of a 'big evil power' were lies, insisting they were merely bandits.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "after the chaos of the Moathouse and the Kron Hills",
+    "fact": "The journey to Ostverk occurred after the chaotic events at the Moathouse and the Kron Hills, marking a period of relative calm for the party.",
+    "source_quote": "The journey to Ostverk was uneventful, a welcome change after the chaos of the Moathouse and the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "after collecting the honey reward in Sheernobb",
+    "fact": "The party's arrival in Ostverk followed their collection of the honey reward in Sheernobb and their encounter with religious zeal in Hommlet, where Zinnia surrendered a magical trident.",
+    "source_quote": "After collecting the honey reward in Sheernobb and enduring the religious zeal of Calmer in Hommlet, where Zinnia gave up a perfectly good magical trident...",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Rithelm Drake",
+    "fact": "Rithelm Drake is a burly human soldier who remembered an abandoned monastery near Gallow's Corner and offered to buy a drink after realizing the party were adventurers, lamenting he once considered being one himself before settling down with a wife and three kids.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Gonnathrad Kevanarial",
+    "fact": "Gonnathrad Kevanarial is a skinny High Elf Diplomat dressed in a fancy red tunic who became overly excited at the prospect of being a 'quest giver', offered to write a five-page backstory, and provided a letter of permit confirming he hired the party to pursue the chest near the monastery at Gallow's Corner, promising 100 gold pieces as a reward when presented to Caer Ostverk.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "letter of permit",
+    "fact": "The letter of permit confirms Gonnathrad Kevanarial hired the party to pursue the chest near the monastery at Gallow's Corner and promises a reward of 100 gold pieces when presented to Caer Ostverk.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "abandoned monastery near Gallow's Corner",
+    "fact": "The abandoned monastery near Gallow's Corner is the target location referenced by both Rithelm Drake and Gonnathrad Kevanarial, confirmed as the site of the chest the party was hired to pursue.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Caer Ostverk",
+    "fact": "Caer Ostverk is the destination where the letter of permit must be presented to claim the 100 gold piece reward, and the town from which the party made their exit to avoid drawing attention due to their appearance.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "party's exit from Ostverk",
+    "fact": "The party exited Ostverk as quickly as possible to minimize attention, having obtained the confirmed location of the abandoned monastery and the letter of permit, and now intent on following the lead.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "purpose of pursuing the chest",
+    "fact": "The reason the party wants to pursue the chest near the abandoned monastery at Gallow's Corner remains unexplained, despite the letter of permit and reward offer \u2014 the party's own motives are undisclosed.",
+    "quote_verified": false
+  }
+]

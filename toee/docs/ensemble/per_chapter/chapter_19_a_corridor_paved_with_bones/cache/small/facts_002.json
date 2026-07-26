@@ -1,0 +1,121 @@
+[
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the High Priest of the Earth Temple, who welcomed the party, requested the Chest of Rao, and revealed that the Earth Temple\u2019s true power lies in the deeper levels beneath the elemental temples, all locked in conflict. His mission is for them to destroy the other temples so the Earth Temple may seize ultimate power.",
+    "source_quote": "Romag laughed heartily at their ignorance, explaining that the surface temple was merely the beginning, and that the true power lay in the deeper levels descending into the very pit of evil itself.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Dick Rentsch",
+    "fact": "Dick Rentsch is the party\u2019s liaison who brought them to Romag, provided them with a map of gnoll territories, and failed to disclose that they were being sent into enemy elemental territory. His actions suggest either incompetence or deliberate deception.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found, explaining that they would need to navigate through territory controlled by multiple hostile factions.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a party member who engaged in combat with undead and wraiths, suffered life-draining wounds from the wraith that reduced their maximum vitality, and was the target of lighthearted banter about their tiefling horns.",
+    "source_quote": "The wraith\u2019s spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a party member who repeatedly calls upon the power of St. Cuthbert to damage undead, including destroying skeletons and repelling the wraith. He is the first to voice suspicion about Dick Rentsch\u2019s omissions.",
+    "source_quote": "Calmer moved away, stating grimly that he was beginning to think Dick hadn\u2019t told them everything about what awaited them here.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is one of four elemental temples locked in constant conflict with Fire, Water, and Air temples. It seeks ultimate dominance by destroying the others, operates from deep subterranean levels, and grants the badge of Earth to those who prove their loyalty and capability.",
+    "source_quote": "Romag\u2019s mission for them was clear: destroy the other temples so the Earth Temple could seize ultimate power. Romag promised that once they proved themselves capable of operating within the temple by completing this mission, they would earn the right to wear the badge of Earth.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is a rival elemental faction, hated by the Earth Temple. Its head, Alremm, is targeted for destruction by Earth Temple guards, and its influence extends into the deeper levels of the Temple of Elemental Evil.",
+    "source_quote": "The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple, boasting that once they killed enough gnolls, Alremm\u2014the head of the Fire Temple\u2014would be theirs.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a rival elemental faction whose power source is located in the octagonal chamber below the dungeon floor, marked by glowing mist, a bronze square, and crystal braziers. The party has inadvertently entered this enemy territory, unaware until confronted by the wraith.",
+    "source_quote": "The party regrouped, realizing with growing concern that they were standing in what was clearly the Air Temple\u2019s power source.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "arrival at Air Temple power source",
+    "fact": "The party descended into a hidden octagonal chamber fifteen feet below the dungeon floor, illuminated by milky radiance and filled with glowing mist, where they encountered a wraith\u2014confirming they had entered the Air Temple\u2019s sacred and hostile power core.",
+    "source_quote": "They arrived in a large octagonal room fifteen feet below the normal dungeon floor, illuminated by an eerie milky radiance emanating from the ceiling, walls, and floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "wraith",
+    "fact": "A wraith manifested in the Air Temple\u2019s power chamber, attacking the party with life-draining spectral touch that reduces maximum vitality. It was repelled by Calmer\u2019s divine power but remains a lethal threat capable of extended recovery.",
+    "source_quote": "Immediately a wraith materialized before them\u2014a terrifying undead spirit of malevolent power. Its spectral touch drained Zephyr\u2019s very life essence, not only wounding him but reducing his maximum vitality in a way that could only be restored through extended rest or powerful healing magic.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Chest of Rao",
+    "fact": "The Chest of Rao is a sacred artifact presented to Romag by the party, confirming their compliance with his initial demand and serving as proof of their usefulness to the Earth Temple.",
+    "source_quote": "He asked for the Chest of Rao, and the party presented it to him.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "map of gnoll territories",
+    "fact": "Dick Rentsch provided the party with a map showing gnoll locations and hostile faction-controlled territory, but omitted that the path led directly into the Air Temple\u2019s domain.",
+    "source_quote": "Dick Rentsch provided them with a map showing where the gnolls could be found, explaining that they would need to navigate through territory controlled by multiple hostile factions.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "alabaster block with two knives and a crystal bowl",
+    "fact": "An alabaster block bearing two knives and a crystal bowl is positioned south of the pit in the Air Temple\u2019s chamber, likely a ritual or symbolic artifact tied to its elemental power.",
+    "source_quote": "South of the pit sat an alabaster block bearing two knives and a crystal bowl, while crystal braziers suspended from silver chains emitted sickly sweet perfume smoke.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Temple of Elemental Evil",
+    "fact": "The Temple of Elemental Evil is a vast, multi-level subterranean complex divided among the Earth, Fire, Water, and Air temples, all locked in conflict. The deeper levels contain ancient evil, hidden secrets, and power sources guarded by undead and hostile factions.",
+    "source_quote": "They were now deep within the Temple of Elemental Evil, surrounded by ancient evil and warring factions, with only their wits and weapons to see them through the trials ahead.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple power chamber",
+    "fact": "The Air Temple\u2019s power chamber is an octagonal room fifteen feet below the dungeon floor, lit by eerie milky radiance, with a polished gray stone floor shot through with mica, swirling glowing mist, a pierced bronze square, and a circular shaft over a pit. It is a sacred and hostile site of elemental power.",
+    "source_quote": "The polished gray stone floor, shot through with glittering mica, was partially obscured by swirling, glowing mist. In the center stood a great pierced bronze square, and a circular shaft opened above a pit of the same diameter.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Dick Rentsch\u2019s deception",
+    "fact": "It remains unclear whether Dick Rentsch\u2019s failure to warn the party about the Air Temple\u2019s territory was due to negligence, ignorance, or deliberate sabotage. His actions have placed them in extreme danger and may be part of a larger test or betrayal.",
+    "source_quote": "Dick Rentsch had not simply sent them down a hallway\u2014he had deposited them directly into enemy territory belonging to a rival elemental faction. Whether this was a test of their abilities or something more sinister remained unclear.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the deeper secrets of the Temple",
+    "fact": "Romag hinted that beyond the four elemental temples lie deeper levels containing unknown secrets and the true source of the Temple of Elemental Evil\u2019s power. The party\u2019s mission has only just begun.",
+    "source_quote": "Below that lay the deeper temple and deeper secrets.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during the party\u2019s descent into the Temple of Elemental Evil, following their arrival at the Earth Temple and subsequent journey through the dungeon levels.",
+    "source_quote": "The party descended once more, running quickly past the skeleton-filled corridor to avoid another encounter.",
+    "quote_verified": true
+  }
+]

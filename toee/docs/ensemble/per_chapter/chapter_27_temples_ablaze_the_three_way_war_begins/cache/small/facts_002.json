@@ -1,0 +1,212 @@
+[
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch has seized power as Supreme Prophet of the Earth Temple after plunging his hands into Romag's corpse, covering them in blood, and declaring himself in a visceral, theatrical ritual. He is now summoning earth elementals and whipping his cultists into a frenzy.",
+    "source_quote": "For Saint Cuthbert\u2014 ...I have learnt that it is not erosion that is the power of Earth, but its destructive power.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer nearly invoked his holy patron, Saint Cuthbert, during the assassination of Romag but caught himself, realizing it would be the worst possible thing to say in an evil temple. He is now grimly amused by the ignorance of the Air Temple's leader, Kelno.",
+    "source_quote": "For Saint Cuthbert\u2014 ...I have learnt that it is not erosion that is the power of Earth, but its destructive power.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Alrrem",
+    "fact": "Alrrem, leader of the Fire Temple, was manipulated by the party into believing Belsornig of the Water Temple betrayed him. He responded with enraged fury, ordering his troops to attack the Water Temple immediately after receiving a note under his door.",
+    "source_quote": "Belsornig's name and ordered his troops to attack the Water Temple immediately.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Belsornig",
+    "fact": "Belsornig, leader of the Water Temple, is falsely accused by the party of orchestrating the Chimera incident and using the Fire Temple as a pawn to eliminate Hartsch's forces or drain Alrrem's resources.",
+    "source_quote": "Belsornig of the Water Temple had orchestrated the Chimera incident, using the Fire Temple as a pawn to eliminate the party or drain Alrrem's resources.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia led the party's assault on the Fire Temple bugbears at the second-level barricade, rushing through the mist with precise dagger strikes to kill the lead warrior and ignite the battle for the second level.",
+    "source_quote": "Zinnia moved first, rushing the lead Fire Temple warrior through the mist with a pair of precise dagger strikes \u2014 and the battle for the second level had begun in earnest.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr slipped the initial note under the Fire Temple door, manipulated Alrrem into declaring war on the Water Temple, and later seized control of the Chimera's chain during the night attack, turning the beast against its master.",
+    "source_quote": "Zephyr slipped past the rampaging monster and rips the control chain from the warlock's hands, causing the Chimera to turn its fire breath upon its former master and a nearby bugbear.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sequioa",
+    "fact": "Sequioa charged the Chimera during the night attack but was repeatedly knocked unconscious by its fury and magical blasts. He was revived twice by Calmer's healing and nearly killed the beast with a precise shot before being felled again.",
+    "source_quote": "Sequioa nearly collapses the beast with a precise shot before being knocked out again by the enraged Chimera.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren, commander of the Crimson Guard, was sent into battle by the party after a brief exchange, but his advance stalled when Fire Temple bugbears erected a barricade across the stairway.",
+    "source_quote": "They encountered Dren preparing his men for battle, and after a brief exchange, sent him and his Crimson Guard into the fray.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno, the leader of the Air Temple, is ignorant enough to believe the wraith haunting his halls is an air elemental \u2014 a symbol of the faction's irrelevance, noted with grim amusement by Calmer.",
+    "source_quote": "the Air Temple's leader Kelno was so ignorant he apparently believed the wraith to be an air elemental \u2014 a fitting symbol of the faction's irrelevance.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has been seized by Hartsch in a coup, now under his control as Supreme Prophet. Its forces are preparing for a full-scale charge against the Fire and Water Temples after being rallied by ritual and speechifying.",
+    "source_quote": "Hartsch erupted with triumphant fury and ordered a full-scale charge. The war had begun.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple, led by Alrrem, was manipulated into attacking the Water Temple after being fed false evidence of betrayal. Its bugbears now hold a barricade at the second-level stairway, bottlenecking the Earth Temple's advance.",
+    "source_quote": "Fire Temple bugbears had dragged heavy wooden pews and stone rubble across the stairway to the second level, creating a makeshift barricade that was bottlenecking the entire Earth Temple assault.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple, led by Belsornig, is falsely accused by the party of orchestrating the Chimera incident. It is now under full-scale assault by the Fire Temple and targeted for destruction.",
+    "source_quote": "Belsornig of the Water Temple had orchestrated the Chimera incident, using the Fire Temple as a pawn to eliminate the party or drain Alrrem's resources.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is eerily quiet and haunted by a wraith, which the party bypassed by fleeing its domain. Its leader, Kelno, is delusional, believing the wraith to be an air elemental \u2014 a symbol of the faction's irrelevance.",
+    "source_quote": "They knew a wraith haunted its halls, and sure enough, the spectral guardian began drifting toward them as they moved through the dim corridors.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Chimera",
+    "fact": "A Chimera \u2014 with the hindquarters of a goat, the forequarters of a lion, and the wings of a dragon \u2014 was unleashed by a Fire Temple warlock to destroy the party. It turned on its master after Zephyr seized its control chain, killing the warlock and a bugbear before being slain by Calmer's necrotic tolling resonance.",
+    "source_quote": "A Fire Temple warlock unleashes a Chimera\u2014a beast with the hindquarters of a goat, the forequarters of a lion, and the wings of a dragon\u2014proclaiming it a champion of Alrrem sent to destroy the party.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "A wraith haunts the Air Temple, drifting toward the party as they moved through its dim corridors. It turned back into the darkness after they fled, seemingly satisfied once they had left its domain.",
+    "source_quote": "The spectral guardian began drifting toward them as they moved through the dim corridors. Rather than engage it, the party ran, and the wraith, seemingly satisfied once they had fled its domain, turned back into the darkness.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Chimera's Night Attack",
+    "fact": "A Chimera, sent by the Fire Temple, attacked the party during their long rest. After a brutal battle involving charges, magical blasts, chain seizures, and necrotic resonance, the beast was slain by Calmer, ending the night attack.",
+    "source_quote": "Calmer ends the battle by invoking a necrotic tolling resonance that drops the Chimera dead on the cold stone floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Temple War Initiation",
+    "fact": "The party instigated a three-way war between the Earth, Fire, and Water Temples by manipulating Alrrem into believing Belsornig betrayed him \u2014 all through a single note under the Fire Temple door and tense negotiation, without drawing a weapon.",
+    "source_quote": "A masterclass in manipulation: the party instigates a three-way war between the temples without drawing a single weapon.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Coup of the Earth Temple",
+    "fact": "Hartsch assassinated Romag and seized control of the Earth Temple in a ritualistic display of power, covering his hands in blood and declaring himself Supreme Prophet, confirming the party's coup had succeeded.",
+    "source_quote": "Hartsch plunges his hands into Romag's body, covers them in blood, and marches into the main chamber to declare himself Supreme Prophet of the Earth Temple.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Battle for the Second Level",
+    "fact": "The party launched a coordinated assault on Fire Temple bugbears holding a barricade at the second level, with Zinnia killing the lead warrior and igniting a full-scale battle in a flooded, steam-choked battlefield littered with corpses.",
+    "source_quote": "Zinnia moved first, rushing the lead Fire Temple warrior through the mist with a pair of precise dagger strikes \u2014 and the battle for the second level had begun in earnest.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple's massive brass doors are covered in leering faces and horrible scenes. Its entrance is now the site of a war council, where Alrrem received a note under the door and declared war on the Water Temple. Its bugbears now hold a barricade of pews and rubble at the stairway to the second level.",
+    "source_quote": "Its massive brass doors covered in leering faces and horrible scenes.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is under full assault by the Fire Temple. It is falsely accused of orchestrating the Chimera incident and is now the target of Hartsch's wrath, with Alrrem's troops ordered to attack it immediately.",
+    "source_quote": "Belsornig of the Water Temple had orchestrated the Chimera incident, using the Fire Temple as a pawn to eliminate the party or drain Alrrem's resources.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is eerily, unsettlingly quiet and haunted by a wraith. The party bypassed it by fleeing, and its leader, Kelno, believes the wraith is an air elemental \u2014 a symbol of the faction's irrelevance.",
+    "source_quote": "They knew a wraith haunted its halls, and sure enough, the spectral guardian began drifting toward them as they moved through the dim corridors.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Second Level",
+    "fact": "The second level of the dungeon is a chaotic battlefield flooded with water and choked with zones of scalding steam, where Fire and Water Temple forces tear into each other. Dead bodies litter the ground, and a barricade of wooden pews and stone rubble blocks the stairway from the Earth Temple.",
+    "source_quote": "Emerging onto the second level, the party found a chaotic battlefield flooded with water and choked with zones of scalding steam, where Fire and Water Temple forces were already tearing into each other. Dead bodies from both factions littered the ground.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has been seized by Hartsch, who now leads it from the main chamber as Supreme Prophet. It is the origin of the assault on the Fire and Water Temples, with cultists whipped into a frenzy and earth elementals summoned.",
+    "source_quote": "Hartsch was deep in ritual and speechifying, summoning earth elementals and whipping his cultists into a frenzy.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Chimera's Control Chain",
+    "fact": "The control chain of the Chimera was seized by Zephyr during the night attack, allowing the party to turn the beast against its master, the Fire Temple warlock, and a nearby bugbear.",
+    "source_quote": "Zephyr slipped past the rampaging monster and rips the control chain from the warlock's hands, causing the Chimera to turn its fire breath upon its former master and a nearby bugbear.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Note under the Fire Temple Door",
+    "fact": "A note slipped under the Fire Temple door by Zephyr falsely accused Belsornig of the Water Temple of betrayal, triggering Alrrem\u2019s enraged declaration of war without the party ever speaking to him directly.",
+    "source_quote": "Zephyr slipped a note under the Fire Temple's door and, through tense negotiation, convinces Alrrem that Belsornig betrayed him\u2014triggering the temple war with a single conversation.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "The Obsidian Edge's Identity",
+    "fact": "The party is publicly hailed as the Obsidian Edge by Hartsch's assembled army, a title that now binds them to his regime \u2014 even as they manipulate, bypass, and betray the temples around them.",
+    "source_quote": "They were welcomed back as heroes, publicly hailed as the Obsidian Edge before the assembled army.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno's Delusion",
+    "fact": "Kelno\u2019s belief that the wraith is an air elemental is a symbol of the Air Temple\u2019s irrelevance \u2014 a quiet, ongoing thread of absurdity the party exploits by bypassing rather than confronting it.",
+    "source_quote": "the Air Temple's leader Kelno was so ignorant he apparently believed the wraith to be an air elemental \u2014 a fitting symbol of the faction's irrelevance.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Wraith's Purpose",
+    "fact": "The wraith of the Air Temple does not attack \u2014 it waits, and turns back when its domain is left. Its behavior suggests it is not hostile, but territorial \u2014 and the party has learned to avoid it rather than fight.",
+    "source_quote": "The spectral guardian began drifting toward them as they moved through the dim corridors. Rather than engage it, the party ran, and the wraith, seemingly satisfied once they had fled its domain, turned back into the darkness.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred immediately after the party's long rest was shattered by the Chimera's night attack, followed by a coup, temple war, and battle for the second level.",
+    "source_quote": "A recap of the previous night's brutal battle against a Chimera sent by the Fire Temple, which shattered the party's long rest.",
+    "quote_verified": true
+  }
+]

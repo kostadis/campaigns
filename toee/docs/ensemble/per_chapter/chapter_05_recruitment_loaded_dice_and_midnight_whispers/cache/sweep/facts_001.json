@@ -1,0 +1,863 @@
+[
+  {
+    "type": "date",
+    "subject": "Planting 16, 579",
+    "fact": "The date is Planting 16, 579, when the group decides to return to Hommlett after a confession from a bandit.",
+    "source_quote": "Date: Planting 16, 579",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Hommlett",
+    "fact": "Hommlett is the destination the group returns to after a bandit\u2019s confession, and it is the central hub of village politics and intrigue.",
+    "source_quote": "the group decides to return to Hommlett",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "The Tower",
+    "fact": "The Tower is visible in the distance and becomes a focal point of the group\u2019s investigation and the Prefect\u2019s frustration.",
+    "source_quote": "the heroes can see \u201cThe Tower\u201d in the distance",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer insists on informing the Prefect of what has happened and later presents the stone as proof, only to be shocked by the Prefect\u2019s reaction.",
+    "source_quote": "Calmer insists, \u201cWe must go to the Prefect and inform him of what has happened!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Terjon",
+    "fact": "Prefect Terjon examines the stone, dismisses it as a painted rock, refuses to keep it initially, then surprisingly changes his mind and keeps it.",
+    "source_quote": "Terjon surprisingly says, \u201cI would like to keep this worthless rock.\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr challenges Terjon\u2019s decision to keep the rock, causes Terjon to toss it to him, and later hands it to Burne and Rufus, triggering their realization of a conspiracy.",
+    "source_quote": "Zephyr smiles sweetly, \u201cIf this rock is so worthless, why keep it?\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Burne",
+    "fact": "Burne examines the rock, dismisses it as insufficient, then becomes thoughtful after Zephyr\u2019s account and connects it to missing blueprints and charcoal dust.",
+    "source_quote": "Burne mutters, \u201cThis is it?\u201d",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Rufus",
+    "fact": "Rufus reveals he recently rechecked the blueprints for the keep and found traces of charcoal dust, suspecting a saboteur who worked with the bandits.",
+    "source_quote": "Rufus whispers, \u201cWe may have a job for you. I was recently examining the blueprints for the keep and found them missing. My architect had no idea where they went. When I rechecked them later, they had returned, but there were traces of charcoal dust on them. I suspect that someone has copied our blueprints.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Ostler",
+    "fact": "Ostler, the innkeeper, informs the group of the three-night minimum stay policy and the sale of abandoned goods, then offers a job to expose Furnok\u2019s theft.",
+    "source_quote": "I also noticed that you didn\u2019t talk to the Druid. Does the Druid not like you? ... And as a matter of policy, any goods left behind are sold after three days.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jaroo",
+    "fact": "Jaroo, the Druid, blesses the group with Beory\u2019s blessing and a healing potion after learning they\u2019ve spoken to all other village leaders.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kenter",
+    "fact": "Elder Kenter reveals the council members, criticizes the lack of unified reporting, and demands the group report to him first before approaching others.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller. ... Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo, son of Captain Zeb Fletcher, is a drunk but skilled ranger who volunteers to help the group find the monster in the Gnarley Forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir offers to join the group as a fourth member, reveals knowledge of a lost wizard\u2019s laboratory under Emiry Meadows, and demands first crack at arcane scrolls.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows. I am offering to split the treasures as long as I get the first crack at any arcane scrolls we find.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey, son of Virgil Tamen the Braumeister, reports seeing cloaked figures near the brewery at midnight and fears the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought. And so maybe, those are, uh, spies.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira, a teenage girl, and Marek, a boy, are caught spying and reveal they are forbidden lovers due to religious divisions between the old faith and St. Cuthbert.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Temple of St. Cuthbert",
+    "fact": "The Temple of St. Cuthbert is where Calmer explains the findings to Prefect Terjon, and where the stone is first presented and rejected.",
+    "source_quote": "Once inside the temple of St. Cuthbert, Calmer excitedly explains to Prefect Terjon the proof that he and his companions have found.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Inn of the Welcome Wench",
+    "fact": "The Inn of the Welcome Wench is where Burne and Rufus are questioned, where Furnok is exposed, where Elmo is met, and where the group returns after multiple adventures.",
+    "source_quote": "At the Inn, in the main hall, Burne and Refus are sitting at the table, drinking.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Elder Kenter\u2019s Residence",
+    "fact": "The residence of Elder Kenter is a well-defended compound with five families, servants, and a central seating area where the council is revealed and the group is instructed to report to him first.",
+    "source_quote": "They open the gate and step inside. Looking around, Zinia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children of different ages is running around.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse",
+    "fact": "The Moathouse is the origin of the bandit activity, the source of the stone, and the site of the group\u2019s next objective after multiple village missions.",
+    "source_quote": "You must go deeper into the moathouse and find more evidence",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Stone",
+    "fact": "The stone is a small, painted rock found on a bandit\u2019s body, initially dismissed as worthless, but later becomes the key that unlocks the conspiracy of missing blueprints and charcoal dust.",
+    "source_quote": "Calmer has produced, rubs it between his fingers, weighs it, and finally says in disgust, \u201cYou bring me a painted rock.\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Ivory Box",
+    "fact": "The ivory box, found among coins in the collapsed tower of the Moathouse, is the size of a large book and contains unknown treasures.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Loaded Dice",
+    "fact": "The loaded dice are stolen from Furnok by Zinia after Zephyr\u2019s distraction, proving Furnok\u2019s fraud and satisfying Ostler\u2019s job request.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Council of Hommlet",
+    "fact": "The Council of Hommlet consists of Jaroo, Rufus, Burne, Ostler, and Captain Zeb Fletcher, who collectively govern the village but have failed to coordinate their responses to the bandit threat.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Church of St. Cuthbert",
+    "fact": "The Church of St. Cuthbert is represented by Tomlyn the tailor and his son Marek, and is in conflict with the Old Faith due to interfaith romance restrictions.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Old Faith",
+    "fact": "The Old Faith is represented by Jakub and his daughter Jira, and is in opposition to the Church of St. Cuthbert, creating social tension in the village.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Exposure of Furnok",
+    "fact": "Furnok the Fabulous is exposed as a cheat after Zinia discovers loaded dice, leading to a confrontation where Elmo threatens to call the Captain.",
+    "source_quote": "Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded\u2014\u201cThe proof I needed!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Secret Passage",
+    "fact": "A secret passage beneath the Inn of the Welcome Wench is rumored to lead to four lost chambers of a long-dead wizard, though no one has verified it.",
+    "source_quote": "There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Meeting Spugnoir",
+    "fact": "Spugnoir joins the group as a fourth member after offering to reveal the location of a lost wizard\u2019s laboratory under Emiry Meadows in exchange for first access to scrolls.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Confrontation with the Spies",
+    "fact": "Zephyr captures two teenagers, Jira and Marek, spying near the brewery at midnight, who reveal their forbidden romance and religious divide.",
+    "source_quote": "Zephyr quickly advances on them, his sword in his right hand, and puts the blade to the throat of the smaller of the two\u2014the spy shrieks.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Blessing of Beory",
+    "fact": "Jaroo, the Druid, blesses the group with Beory\u2019s blessing and a healing potion after they report having visited all other village leaders.",
+    "source_quote": "Jaroo is pleased and offers them the blessing of Beory and a healing potion.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Return to the Moathouse",
+    "fact": "The group returns to the Moathouse with Spugnoir and Calmer, investigates the collapsed tower, finds an ivory box and coins, and prepares to enter the great hall.",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d Zinia points to the tower that they ignored last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Giant Wolf Spider",
+    "fact": "A giant wolf spider attacks the group in the collapsed tower of the Moathouse but is swiftly defeated by the rogues and monk.",
+    "source_quote": "As they reach for the coin, a giant wolf spider attempts to turn them into its next meal. But it is overmatched by the two rogues and the monk.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Airgid the Silver Dragon",
+    "fact": "Airgid, a silver dragon, is transported by the group to her home near the Lotrimil mountains, and departs with promises of reward from her mother.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains. ... Airgid takes off and starts to fly west. As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows is the location of a lost wizard\u2019s laboratory, as revealed by Spugnoir, and is a potential future adventure site.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest is the rumored location of a monster, and Elmo volunteers to help the group find it.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Brewery",
+    "fact": "The brewery is the site of midnight spying by Jira and Marek, and the source of Mickey\u2019s fear that the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ruined Boathouse",
+    "fact": "The ruined boathouse is mentioned as a place Lysia, a farmer\u2019s daughter, wishes to explore with competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the route west to the Lotrimil mountains, as described by Ostler, and are part of the dragon\u2019s journey home.",
+    "source_quote": "Ostler explains that that\u2019s to the west through the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "The Greenway Valley is the fastest route to the dragon\u2019s home, passing gnomish mining towns, as described by Ostler.",
+    "source_quote": "The fastest way is to head south and turn north into the Greenway Valley. A reasonably well-traveled road passes small gnomish mining towns.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil Mountains",
+    "fact": "The Lotrimil Mountains are the dragon Airgid\u2019s home, and the destination of the group\u2019s journey after completing village missions.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora, Elder Kenter\u2019s wife, brings treats to the table after the group\u2019s meeting, demonstrating hospitality and familial structure.",
+    "source_quote": "They all nod and leave politely after sampling some of the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne, Elder Kenter\u2019s second son, is a natural observer who tracked the group\u2019s movements and reported them to his father.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Zeb Fletcher",
+    "fact": "Captain Zeb Fletcher is a council member and father of Elmo and Mytch the Miller, representing the village\u2019s military authority.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Virgil Tamen",
+    "fact": "Virgil Tamen is the Braumeister and father of Mickey, who reports suspicious activity near the brewery.",
+    "source_quote": "I am the son of Virgil Tamen, the Braumeister.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is the tailor and a member of the Church of St. Cuthbert, and father of Marek, who is forbidden from dating Jira.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the Old Faith and father of Jira, who opposes her relationship with Marek due to religious differences.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok the Fabulous",
+    "fact": "Furnok the Fabulous is an inn patron exposed as a cheat using loaded dice, and is confronted by Ostler and Elmo.",
+    "source_quote": "Ostler confronts Furnok, who rejects the accusations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a drunk but skilled ranger and son of Captain Zeb Fletcher, who volunteers to help the group find the monster in the Gnarley Forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mytch the Miller",
+    "fact": "Mytch the Miller is the son of Captain Zeb Fletcher and a resident of Hommlet, mentioned as part of the council\u2019s familial ties.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lysia",
+    "fact": "Lysia is a farmer\u2019s daughter who wishes to explore the ruined boathouse but lacks equipment and competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a mysterious figure who knows of a lost wizard\u2019s laboratory under Emiry Meadows and seeks to join the group as a fourth member.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey is the son of Virgil Tamen the Braumeister, who reports seeing cloaked figures near the brewery and fears the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a teenage girl and daughter of Jakub of the Old Faith, who is in love with Marek, son of a St. Cuthbert follower.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a teenage boy and son of Tomlyn the tailor, a member of the Church of St. Cuthbert, who is forbidden from dating Jira.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the Council",
+    "fact": "Elder Kenter reveals the full council of Hommlet, exposing the lack of unified communication among its members and demanding the group report to him first.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller. ... Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Ivory Box",
+    "fact": "The group discovers an ivory box in the collapsed tower of the Moathouse, suggesting deeper mysteries and potential magical artifacts.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Joining of Spugnoir",
+    "fact": "Spugnoir joins the group as a fourth member after revealing knowledge of a lost wizard\u2019s laboratory under Emiry Meadows and demanding first access to scrolls.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dragon\u2019s Departure",
+    "fact": "Airgid the Silver Dragon departs for the Lotrimil mountains, promising reward from her mother, marking the end of one mission and the return to Hommlet.",
+    "source_quote": "Airgid takes off and starts to fly west. As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Return to the Moathouse",
+    "fact": "The group returns to the Moathouse with Calmer and Spugnoir, investigates the collapsed tower, defeats a giant wolf spider, and finds an ivory box, preparing to enter the great hall.",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d Zinia points to the tower that they ignored last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Exposure of the Forbidden Romance",
+    "fact": "Jira and Marek are exposed as forbidden lovers due to religious conflict, and plead with the group to help them reconcile with their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mickey\u2019s Request",
+    "fact": "Mickey, the Braumeister\u2019s son, asks the group to investigate cloaked figures near the brewery, fearing the temple is not dead and spies are active.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows is the location of a lost wizard\u2019s laboratory, as revealed by Spugnoir, and is a potential future adventure site.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Courtyard",
+    "fact": "The Moathouse courtyard is where the group finds coins and the ivory box, and where the giant wolf spider attacks.",
+    "source_quote": "Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins. ... As they reach for the coin, a giant wolf spider attempts to turn them into its next meal.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Great Hall",
+    "fact": "The Moathouse great hall is the next destination after the courtyard, with a passageway ending at a door, indicating deeper exploration is imminent.",
+    "source_quote": "Sequoia crosses the courtyard, enters the great hall, and turns west into a passageway with two doors on the south and one to the north. The passageway ends at the door.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tulvar",
+    "fact": "Tulvar is the location near the Lotrimil mountains where Airgid the dragon recognizes her home and departs.",
+    "source_quote": "A little before they arrive at Tulvar, after a day of hard traveling, the dragon suddenly shouts, \u201cHOME!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest is the rumored location of a monster, and Elmo volunteers to help the group find it.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Brewery",
+    "fact": "The brewery is the site of midnight spying by Jira and Marek, and the source of Mickey\u2019s fear that the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ruined Boathouse",
+    "fact": "The ruined boathouse is mentioned as a place Lysia, a farmer\u2019s daughter, wishes to explore with competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the route west to the Lotrimil mountains, as described by Ostler, and are part of the dragon\u2019s journey home.",
+    "source_quote": "Ostler explains that that\u2019s to the west through the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "The Greenway Valley is the fastest route to the dragon\u2019s home, passing gnomish mining towns, as described by Ostler.",
+    "source_quote": "The fastest way is to head south and turn north into the Greenway Valley. A reasonably well-traveled road passes small gnomish mining towns.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil Mountains",
+    "fact": "The Lotrimil Mountains are the dragon Airgid\u2019s home, and the destination of the group\u2019s journey after completing village missions.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora, Elder Kenter\u2019s wife, brings treats to the table after the group\u2019s meeting, demonstrating hospitality and familial structure.",
+    "source_quote": "They all nod and leave politely after sampling some of the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne, Elder Kenter\u2019s second son, is a natural observer who tracked the group\u2019s movements and reported them to his father.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Zeb Fletcher",
+    "fact": "Captain Zeb Fletcher is a council member and father of Elmo and Mytch the Miller, representing the village\u2019s military authority.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Virgil Tamen",
+    "fact": "Virgil Tamen is the Braumeister and father of Mickey, who reports suspicious activity near the brewery.",
+    "source_quote": "I am the son of Virgil Tamen, the Braumeister.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is the tailor and a member of the Church of St. Cuthbert, and father of Marek, who is forbidden from dating Jira.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the Old Faith and father of Jira, who opposes her relationship with Marek due to religious differences.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok the Fabulous",
+    "fact": "Furnok the Fabulous is an inn patron exposed as a cheat using loaded dice, and is confronted by Ostler and Elmo.",
+    "source_quote": "Ostler confronts Furnok, who rejects the accusations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a drunk but skilled ranger and son of Captain Zeb Fletcher, who volunteers to help the group find the monster in the Gnarley Forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mytch the Miller",
+    "fact": "Mytch the Miller is the son of Captain Zeb Fletcher and a resident of Hommlet, mentioned as part of the council\u2019s familial ties.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lysia",
+    "fact": "Lysia is a farmer\u2019s daughter who wishes to explore the ruined boathouse but lacks equipment and competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a mysterious figure who knows of a lost wizard\u2019s laboratory under Emiry Meadows and seeks to join the group as a fourth member.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey is the son of Virgil Tamen the Braumeister, who reports seeing cloaked figures near the brewery and fears the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a teenage girl and daughter of Jakub of the Old Faith, who is in love with Marek, son of a St. Cuthbert follower.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a teenage boy and son of Tomlyn the tailor, a member of the Church of St. Cuthbert, who is forbidden from dating Jira.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the Council",
+    "fact": "Elder Kenter reveals the full council of Hommlet, exposing the lack of unified communication among its members and demanding the group report to him first.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller. ... Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Ivory Box",
+    "fact": "The group discovers an ivory box in the collapsed tower of the Moathouse, suggesting deeper mysteries and potential magical artifacts.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Joining of Spugnoir",
+    "fact": "Spugnoir joins the group as a fourth member after revealing knowledge of a lost wizard\u2019s laboratory under Emiry Meadows and demanding first access to scrolls.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dragon\u2019s Departure",
+    "fact": "Airgid the Silver Dragon departs for the Lotrimil mountains, promising reward from her mother, marking the end of one mission and the return to Hommlet.",
+    "source_quote": "Airgid takes off and starts to fly west. As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Return to the Moathouse",
+    "fact": "The group returns to the Moathouse with Calmer and Spugnoir, investigates the collapsed tower, defeats a giant wolf spider, and finds an ivory box, preparing to enter the great hall.",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d Zinia points to the tower that they ignored last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Exposure of the Forbidden Romance",
+    "fact": "Jira and Marek are exposed as forbidden lovers due to religious conflict, and plead with the group to help them reconcile with their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mickey\u2019s Request",
+    "fact": "Mickey, the Braumeister\u2019s son, asks the group to investigate cloaked figures near the brewery, fearing the temple is not dead and spies are active.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Emiry Meadows",
+    "fact": "Emiry Meadows is the location of a lost wizard\u2019s laboratory, as revealed by Spugnoir, and is a potential future adventure site.",
+    "source_quote": "I know the location of a lost wizard laboratory under Emiry Meadows.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Courtyard",
+    "fact": "The Moathouse courtyard is where the group finds coins and the ivory box, and where the giant wolf spider attacks.",
+    "source_quote": "Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins. ... As they reach for the coin, a giant wolf spider attempts to turn them into its next meal.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Moathouse Great Hall",
+    "fact": "The Moathouse great hall is the next destination after the courtyard, with a passageway ending at a door, indicating deeper exploration is imminent.",
+    "source_quote": "Sequoia crosses the courtyard, enters the great hall, and turns west into a passageway with two doors on the south and one to the north. The passageway ends at the door.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Tulvar",
+    "fact": "Tulvar is the location near the Lotrimil mountains where Airgid the dragon recognizes her home and departs.",
+    "source_quote": "A little before they arrive at Tulvar, after a day of hard traveling, the dragon suddenly shouts, \u201cHOME!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Gnarley Forest",
+    "fact": "The Gnarley Forest is the rumored location of a monster, and Elmo volunteers to help the group find it.",
+    "source_quote": "There is a monster in the Gnarley forest, and we will need someone to help us find it.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Brewery",
+    "fact": "The brewery is the site of midnight spying by Jira and Marek, and the source of Mickey\u2019s fear that the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Ruined Boathouse",
+    "fact": "The ruined boathouse is mentioned as a place Lysia, a farmer\u2019s daughter, wishes to explore with competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Kron Hills",
+    "fact": "The Kron Hills are the route west to the Lotrimil mountains, as described by Ostler, and are part of the dragon\u2019s journey home.",
+    "source_quote": "Ostler explains that that\u2019s to the west through the Kron Hills.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Greenway Valley",
+    "fact": "The Greenway Valley is the fastest route to the dragon\u2019s home, passing gnomish mining towns, as described by Ostler.",
+    "source_quote": "The fastest way is to head south and turn north into the Greenway Valley. A reasonably well-traveled road passes small gnomish mining towns.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Lotrimil Mountains",
+    "fact": "The Lotrimil Mountains are the dragon Airgid\u2019s home, and the destination of the group\u2019s journey after completing village missions.",
+    "source_quote": "The dragon explains that its home is near the Lotrimil mountains.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Valsenora",
+    "fact": "Valsenora, Elder Kenter\u2019s wife, brings treats to the table after the group\u2019s meeting, demonstrating hospitality and familial structure.",
+    "source_quote": "They all nod and leave politely after sampling some of the treats that Kenter\u2019s wife, Valsenora, brings to the table.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Hawthorne",
+    "fact": "Hawthorne, Elder Kenter\u2019s second son, is a natural observer who tracked the group\u2019s movements and reported them to his father.",
+    "source_quote": "My second son, Hawthorne, saw you come from the moathouse. He followed you and saw you visited Jaroo, Terjon, Burne, and Refus.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Captain Zeb Fletcher",
+    "fact": "Captain Zeb Fletcher is a council member and father of Elmo and Mytch the Miller, representing the village\u2019s military authority.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Virgil Tamen",
+    "fact": "Virgil Tamen is the Braumeister and father of Mickey, who reports suspicious activity near the brewery.",
+    "source_quote": "I am the son of Virgil Tamen, the Braumeister.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tomlyn",
+    "fact": "Tomlyn is the tailor and a member of the Church of St. Cuthbert, and father of Marek, who is forbidden from dating Jira.",
+    "source_quote": "Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Jakub",
+    "fact": "Jakub is a member of the Old Faith and father of Jira, who opposes her relationship with Marek due to religious differences.",
+    "source_quote": "Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Furnok the Fabulous",
+    "fact": "Furnok the Fabulous is an inn patron exposed as a cheat using loaded dice, and is confronted by Ostler and Elmo.",
+    "source_quote": "Ostler confronts Furnok, who rejects the accusations.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Elmo",
+    "fact": "Elmo is a drunk but skilled ranger and son of Captain Zeb Fletcher, who volunteers to help the group find the monster in the Gnarley Forest.",
+    "source_quote": "Elmo mutters, \u201cI am your person!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Mytch the Miller",
+    "fact": "Mytch the Miller is the son of Captain Zeb Fletcher and a resident of Hommlet, mentioned as part of the council\u2019s familial ties.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Lysia",
+    "fact": "Lysia is a farmer\u2019s daughter who wishes to explore the ruined boathouse but lacks equipment and competent companions.",
+    "source_quote": "A farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Spugnoir",
+    "fact": "Spugnoir is a mysterious figure who knows of a lost wizard\u2019s laboratory under Emiry Meadows and seeks to join the group as a fourth member.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Mickey",
+    "fact": "Mickey is the son of Virgil Tamen the Braumeister, who reports seeing cloaked figures near the brewery and fears the temple is not dead.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Jira",
+    "fact": "Jira is a teenage girl and daughter of Jakub of the Old Faith, who is in love with Marek, son of a St. Cuthbert follower.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Marek",
+    "fact": "Marek is a teenage boy and son of Tomlyn the tailor, a member of the Church of St. Cuthbert, who is forbidden from dating Jira.",
+    "source_quote": "The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won\u2019t let Jira be with Marek",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Revelation of the Council",
+    "fact": "Elder Kenter reveals the full council of Hommlet, exposing the lack of unified communication among its members and demanding the group report to him first.",
+    "source_quote": "The council members are Jaroo, Rufus, Burne, and Ostler, whom you have already met, as well as Captain Zeb Fletcher, father of Elmo and Mytch the Miller. ... Therefore, going forward, I expect you all to come here first.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Discovery of the Ivory Box",
+    "fact": "The group discovers an ivory box in the collapsed tower of the Moathouse, suggesting deeper mysteries and potential magical artifacts.",
+    "source_quote": "They find an ivory box about the size of a large book among the treasures.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Joining of Spugnoir",
+    "fact": "Spugnoir joins the group as a fourth member after revealing knowledge of a lost wizard\u2019s laboratory under Emiry Meadows and demanding first access to scrolls.",
+    "source_quote": "I would like to go adventuring with you and complete your quartet. If you would have me?",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Dragon\u2019s Departure",
+    "fact": "Airgid the Silver Dragon departs for the Lotrimil mountains, promising reward from her mother, marking the end of one mission and the return to Hommlet.",
+    "source_quote": "Airgid takes off and starts to fly west. As she leaves, she shouts, \u201cDon\u2019t worry, my mommy will reward you! I KNOW SHE WILL! THANK YOU!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Return to the Moathouse",
+    "fact": "The group returns to the Moathouse with Calmer and Spugnoir, investigates the collapsed tower, defeats a giant wolf spider, and finds an ivory box, preparing to enter the great hall.",
+    "source_quote": "Inside the courtyard, Calmer asks, \u201cWhat do we want to check out?\u201d Zinia points to the tower that they ignored last time.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Exposure of the Forbidden Romance",
+    "fact": "Jira and Marek are exposed as forbidden lovers due to religious conflict, and plead with the group to help them reconcile with their parents.",
+    "source_quote": "Jira pleads with Zinia to help them and talk to their parents \u2014 \u201cYou\u2019re heroes, and they\u2019ll listen!\u201d",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Mickey\u2019s Request",
+    "fact": "Mickey, the Braumeister\u2019s son, asks the group to investigate cloaked figures near the brewery, fearing the temple is not dead and spies are active.",
+    "source_quote": "I've seen a couple of cloaked people lurking behind the brewery at around midnight. ... the rumors around the village is going that the temple isn't as dead as everybody thought.",
+    "quote_verified": false
+  }
+]

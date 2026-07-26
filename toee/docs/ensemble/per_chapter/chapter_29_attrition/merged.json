@@ -1,0 +1,4370 @@
+[
+  {
+    "type": "date",
+    "subject": "after the ambush",
+    "fact": "The events occurred immediately after the gnoll ambush \u2014 no time has passed since the last combat, and the group is still in the same corridor, assessing their next move.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "After the war began",
+    "fact": "The events described occurred after the war\u2019s initiation, during its prolonged stalemate, and before the Greater Temple\u2019s authority reveals itself.",
+    "source_quote": "The wraith had been alone in this corridor for weeks, feasting on whatever the war left behind.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "after the Wraith's defeat",
+    "fact": "The defeat of the Wraith marks a turning point \u2014 the passage is now clear, but the faction\u2019s internal rot has been exposed, and the cost of victory is permanent.",
+    "source_quote": "Two roads to the second level now, and one of them open.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "An hour passes between two events in the session.",
+    "source_quote": "An hour later",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Four Nights",
+    "fact": "Four nights of carrying the specters\u2019 presence, of failing to turn them, of bearing the Wraith\u2019s curse \u2014 culminating in the moment of destruction that finally broke the cycle.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Night of Hartsch\u2019s Departure",
+    "fact": "The night Hartsch disappeared and sent the raid is the turning point of the campaign, marking the collapse of command cohesion and the beginning of the Obsidian Edge\u2019s descent into reactive survival.",
+    "source_quote": "In the morning he was gone.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Session Date",
+    "fact": "The Session Date is the moment when the Broken Blades pledged themselves, when Calmer opened the door to his own ruin, and when Hartsch\u2019s name became a silent death warrant \u2014 it is not recorded on any calendar, but etched into every soul present.",
+    "source_quote": "I knew it the moment it left me. The exact word. I could see it land.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events described occurred during a critical session following the Obsidian Edge\u2019s return to the Earth Temple, marking the turning point in the four-temple war from stalemate to strategic reckoning.",
+    "source_quote": "We went.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during a session in which the party engaged in stealth-based combat, eliminated three gnolls, and shifted their objective from assault to reconnaissance.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The session occurs on the 5th day of the 2nd Tenday of Taraskh 1493 DR.",
+    "source_quote": "On the 5th day of the 2nd Tenday of Taraskh 1493",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "The Night of the Failed Raid",
+    "fact": "The night of the failed raid on the Water Temple was when Hartsch issued false orders, the Broken Blades were slaughtered, the wraith emerged, and the Air Temple\u2019s conspiracy began to unravel.",
+    "source_quote": "An attack in the night, and it had cost us more than we could spare... Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Third Time",
+    "fact": "The third time the party reached for the turning rite \u2014 the first two attempts ended in death \u2014 this time, it worked. The ritual was not learned. It was remembered.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "unknown",
+    "fact": "The events occurred during an unnamed current time period in the campaign.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "date",
+    "subject": "Weeks of Feasting",
+    "fact": "The wraith has been alone in the temple corridors for weeks, sustained only by the dead left behind by the war. This duration underscores his isolation, his patience, and the scale of the violence that has occurred since his emergence.",
+    "source_quote": "It had been alone in this corridor for weeks, feasting on whatever the war left behind.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Abandonment of Air Temple Assault",
+    "fact": "The planned assault on the Air Temple was canceled to rescue the Broken Blades after Hartsch\u2019s deception exposed them to lethal consequences, forcing a strategic pivot and abandoning tactical momentum.",
+    "source_quote": "So the Air Temple was off. You don't run a two-pronged raid when one prong is already pinned and bleeding under the wrong banner.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Ambush at Air Temple",
+    "fact": "A three-way ambush erupted after Kelno\u2019s recruitment efforts provoked the gnolls, resulting in the deaths of three gnolls and the incapacitation of Calmer, shifting the balance of power in the temple.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "ambush of the Air Temple Gnolls",
+    "fact": "An ambush was executed in the corridor of the Air Temple, resulting in the elimination of three gnolls; the party exploited stealth and concealment to neutralize the threat with minimal damage to themselves.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Battle with the Wraith and Specters",
+    "fact": "In the Battle with the Wraith and Specters, Calmer unleashed divine light and summoned spirits to cleanse the chamber \u2014 the Wraith was wounded, the Specters were destroyed, but Calmer was permanently hollowed by its cold absence, a wound no magic can mend.",
+    "source_quote": "I felt the floor of myself drop out and knew, instantly and completely, that I was at the very bottom of what a man can hold and still stand.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Bugbear\u2019s Execution",
+    "fact": "The bugbear defector was slain by Ben in a single, silent strike \u2014 not as punishment, but as moral law: betrayal after taking the oath is not negotiable. The act was swift, clean, and final \u2014 reinforcing the Earth Temple\u2019s creed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer called the rite of turning, the call that breaks the dead. The third time.",
+    "source_quote": "I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer could not patch himself past the thin margin he was running on.",
+    "source_quote": "he could not patch himself past the thin margin he was running on.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer did not heal. I did not run.",
+    "source_quote": "I did not heal. I did not run.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer felt the floor of himself drop out and knew, instantly and completely, that he was at the very bottom of what a man can hold and still stand.",
+    "source_quote": "I felt the floor of myself drop out and knew, instantly and completely, that I was at the very bottom of what a man can hold and still stand.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer said, 'Don't mess with me, man! I just killed the Wraith!'",
+    "source_quote": "'Don't mess with me, man! I just killed the Wraith!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer said, 'I don't need any help to deal with the undead,' quieter, the hint pitched at us and not at them.",
+    "source_quote": "'I don't need any help to deal with the undead,' quieter, the hint pitched at us and not at them.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer said, 'It worked! It worked!'",
+    "source_quote": "'It worked! It worked!' The words came out of me without permission, without dignity",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer said, 'This is how the earth temple rules, with power and force!'",
+    "source_quote": "'This is how the earth temple rules, with power and force!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer said, 'Who's the man? Who is the man?'",
+    "source_quote": "'Who's the man? Who is the man?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Calmer",
+    "fact": "Calmer was at the very bottom of himself, one touch from gone, and I knew it. I want that recorded too.",
+    "source_quote": "I was at the very bottom of myself, one touch from gone, and I knew it. I want that recorded too.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "calmer's permanent wound",
+    "fact": "Calmer suffered an irreversible wound from the wraith\u2019s cold, leaving him with an open door in his chest that cannot be healed.",
+    "source_quote": "I felt the floor of myself drop out and knew, instantly and completely, that I was at the very bottom of what a man can hold and still stand. And worse, I knew this particular cold does not mend. No light I carry would fill that back in. I was going to walk the rest of this with the door open.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "calmer's third turning rite",
+    "fact": "Calmer successfully performed the rite of turning for the third time, destroying the wraith and all specters.",
+    "source_quote": "The third time. I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one. And they could not hold. The Wraith could not hold. Specter after specter could not hold. They came apart in the radiance, all of them but one.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "decision to recon",
+    "fact": "The group decided the next action would be a recon mission, not an assault.",
+    "source_quote": "Not an assault. Not yet. 'Recon mission.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "defection of bugbear",
+    "fact": "A bugbear from the Earth Temple defected with a sack of coins bearing the Air Temple insignia.",
+    "source_quote": "Air Temple insignia, pressed clean into every piece",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "dragging Calmer away",
+    "fact": "Dren dragged Calmer back up the corridor against his protest.",
+    "source_quote": "Dren dragged him back up the corridor, all protest and no leverage.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth asked, 'Do you need our help, boss?'",
+    "source_quote": "'Do you need our help, boss?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth said, 'Romag's replacement, Hartsch is a mad man! We're being fed to a meat grinder.'",
+    "source_quote": "'Romag's replacement, Hartsch is a mad man! We're being fed to a meat grinder.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth said, 'You didn't say it would be a slaughterhouse!'",
+    "source_quote": "'You didn't say it would be a slaughterhouse!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "emergence of gnolls",
+    "fact": "Three gnolls emerged from the secret door of the Air Temple.",
+    "source_quote": "the secret door coughed up its replacements.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Failed Raid on Water Temple",
+    "fact": "Hartsch launched an unauthorized raid on the Water Temple using the Broken Blades, falsely attributing the orders to the Obsidian Edge, resulting in the Blades being isolated, the temple\u2019s defenses alerted, and the Obsidian Edge\u2019s credibility compromised.",
+    "source_quote": "I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Fire Temple attempted entry",
+    "fact": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "source_quote": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Gnolls\u2019 Revelation",
+    "fact": "The gnolls emerged from a hidden door after the bugbear\u2019s death, revealing their presence and fury \u2014 proving the conspiracy had been watched and funded from within the walls, and that the party had been manipulated from the start.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Greater Temple sealing",
+    "fact": "The Greater Temple sealed the lesser temples and waits for the battle to end.",
+    "source_quote": "the Greater Temple seals the lesser temples and waits for the battle to end.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch",
+    "fact": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch",
+    "fact": "Hartsch had told them the orders came from us.",
+    "source_quote": "He'd told them the orders came from us.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's authority transfer",
+    "fact": "Hartsch stopped pretending to be in charge and asked us what to do next.",
+    "source_quote": "What do we do next?",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's blunder",
+    "fact": "Hartsch sent the Broken Blades to attack without authorization.",
+    "source_quote": "I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's deployment confusion",
+    "fact": "Hartsch couldn't decide where to put troops or whether to defend or charge.",
+    "source_quote": "Where should I put the troops? It's all gone to hell!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's Impulsive Attack",
+    "fact": "Hartsch, unable to cope with leadership pressure, secretly ordered the Broken Blades to attack without consultation, abandoning his post and triggering potential catastrophe.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Hartsch's Unauthorized Attack",
+    "fact": "Hartsch sent the Broken Blades to attack without consultation, abandoning his command post and leaving a note that read 'I couldn't wait!'",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "killing first gnoll",
+    "fact": "The first gnoll was killed by a dagger strike under the ribs, followed by Zinnia finishing it.",
+    "source_quote": "the dagger went where daggers go. Thud. Steel through the soft place under the ribs, the full weight of the ambush behind it, and the thing folded most of the way to dead in a single beat. Zinnia drifted in and finished what I'd left twitching.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "killing second gnoll",
+    "fact": "Sequoia killed the second gnoll by tagging it clean and opening it up.",
+    "source_quote": "Sequoia took the second. Stepped in, tagged it clean, opened it up.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "killing the bugbear",
+    "fact": "The bugbear was killed by Kelno's recruitment actions.",
+    "source_quote": "Kelno had been recruiting... peeling people off one frightened bugbear at a time.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "killing third gnoll",
+    "fact": "The third gnoll was killed by a third dagger strike from the blind side.",
+    "source_quote": "Dagger high, dagger low, then the third from the blind side with everything behind it. Thud.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Narrator",
+    "fact": "The narrator decided the next move was a recon mission, not an assault.",
+    "source_quote": "Recon mission.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Raising of the Specters",
+    "fact": "The Wraith used the corpses of fallen soldiers \u2014 many killed by the party \u2014 to raise seven specters, transforming himself from a passive feeder into an active force with minions.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "return to Earth Temple",
+    "fact": "The Obsidian Edge returned to the Earth Temple after an undisclosed operation, triggering a crisis of command as Hartsch realized his faction had been manipulated into a losing war \u2014 leading to a strategic handover from leader to shadow architects.",
+    "source_quote": "Things have not gone well. Hartsch needs you right now.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sealing of the Greater Temple",
+    "fact": "The Greater Temple sealed all lesser temples to isolate the war, trapping all combatants inside until the battle concludes, as dictated by the unseen authority behind the door.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sealing of the Lesser Temples",
+    "fact": "The Greater Temple has activated its ancient protocol, sealing all lesser temples \u2014 Air, Water, Fire, Earth \u2014 to contain the war and await its natural conclusion. The party is now trapped inside, unable to leave until the battle ends or they survive it.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "second gnoll's attack",
+    "fact": "The second gnoll scratched the narrator across the side but did not land a lethal blow.",
+    "source_quote": "Caught me across the side, hard enough to register, not hard enough to mean anything.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia has been getting funnier the deeper into this place we go.",
+    "source_quote": "He has been getting funnier the deeper into this place we go.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia killed the bugbear with one clean cut.",
+    "source_quote": "The first cut found exactly where it needed to go. Clean. He never even turned. It took most of him in the one exchange.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia knew Hartsch had sent the Broken Blades to attack without waiting for orders.",
+    "source_quote": "I read it twice. Not because it was hard to read. Because I recognized it. 'I couldn't wait! I sent the Broken Blades to attack!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia knew Hartsch\u2019s note \u2014 'I couldn't wait!' \u2014 was a confession of the same impulse he himself had once acted on.",
+    "source_quote": "I've decided, on my own, in the dark, that I knew better than the people standing next to me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia said, 'I think he's okay.'",
+    "source_quote": "'I think he's okay.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia said, 'One does not simply take bribes to defect.'",
+    "source_quote": "'One does not simply take bribes to defect.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia stood over the body and said, 'One does not simply take bribes to defect.'",
+    "source_quote": "I stood over the body. 'One does not simply take bribes to defect.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia suspected Hartsch had left because he couldn't wait to act \u2014 and he knew he had done the same thing himself.",
+    "source_quote": "I've decided, on my own, in the dark, that I knew better than the people standing next to me.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Sequoia",
+    "fact": "Sequoia turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia.",
+    "source_quote": "I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "sequoia's execution of defector",
+    "fact": "Sequoia executed the bugbear defector with a single clean cut, uttering: 'One does not simply take bribes to defect.'",
+    "source_quote": "The first cut found exactly where it needed to go. Clean. He never even turned. It took most of him in the one exchange. 'One does not simply take bribes to defect.'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "strategic pivot to Air Temple",
+    "fact": "After assessing the relative strength of the four temples, the Obsidian Edge pivoted from defensive survival to offensive expansion \u2014 targeting the Air Temple as the weakest point to seize treasure and destabilize the remaining coalition.",
+    "source_quote": "We'll go after the Air Temple. Take all their treasure.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Bugbear",
+    "fact": "The bugbear was babbling: 'Kelno had promised him safety. Kelno had promised him gold.'",
+    "source_quote": "Babbling. Kelno had promised him safety. Kelno had promised him gold.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Decision to Camp",
+    "fact": "The group decided not to camp, instead resolving to leave and return later, after realizing they were trapped and the wraith had already won.",
+    "source_quote": "Why don't we camp out next door?\" I said. Nobody moved toward camping.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Execution of the Defecting Bugbear",
+    "fact": "Sequoia executed a bugbear who accepted bribes from the Air Temple, then discovered the coins bore the Air Temple insignia, revealing that the Obsidian Edge was being manipulated by an internal enemy.",
+    "source_quote": "I said the rest of it before anyone had moved... 'One does not simply take bribes to defect.' ... I went through the sack: twenty gold... Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Failed Raid on the Water Temple",
+    "fact": "The failed raid on the Water Temple, orchestrated by Hartsch under false pretenses, resulted in the massacre of the Broken Blades, the emergence of a wraith and seven specters, and the exposure of an Air Temple conspiracy.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back... Then the door, and behind the door, the slaughterhouse... These were the Broken Blades. We had recruited them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Gnolls",
+    "fact": "The gnolls came out of the wall, talking about money: 'We paid good money for that! Now we will get our money, and get food!'",
+    "source_quote": "'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Recognition of Hartsch's Psychological Collapse",
+    "fact": "The narrator recognized Hartsch's psychological collapse when he stopped pretending to be in charge and asked for guidance.",
+    "source_quote": "The moment when a man who has been pretending to be in charge finally stops pretending.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Sealing of the Greater Temple",
+    "fact": "The Greater Temple sealed the lesser temples and waited for the battle to end, trapping everyone inside.",
+    "source_quote": "The Greater Temple seals the lesser temples and waits for the battle to end.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Specters' Materialization",
+    "fact": "Seven specters materialized one by one, counted aloud by the wraith, mostly from Earth Temple forces with recognizable insignia and robes.",
+    "source_quote": "One, two, three. Four, five. Mostly Earth Temple forces. I recognized the remnants of robes, the insignia, the general silhouette...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Transfer of Authority to Zephyr",
+    "fact": "Hartsch transferred authority to Zephyr by asking 'What do we do next?' after failing to maintain command during the war.",
+    "source_quote": "What do we do next?",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Turning of the Wraith",
+    "fact": "Calmer, wounded and nearly broken, successfully invoked the rite of turning for the third time, destroying the wraith and all its specters in a single blast of divine judgment, ending the choke point\u2019s threat.",
+    "source_quote": "I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one. And they could not hold. The Wraith could not hold. Specter after specter could not hold. They came apart in the radiance, all of them but one.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The War Council at Earth Temple",
+    "fact": "The war council concluded that the Air Temple was weakest, the Water Temple strongest, and the Fire Temple next, leading to a plan to attack Air first.",
+    "source_quote": "Who's the strongest? The Water Temple. The weakest is the Air Temple. The next is the Fire Temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith",
+    "fact": "The Wraith said, 'I was hoping for some Earth Temple blood.'",
+    "source_quote": "'I was hoping for some Earth Temple blood.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith",
+    "fact": "The Wraith said, 'Oh, you're back!'",
+    "source_quote": "'Oh, you're back!'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith",
+    "fact": "The Wraith said, 'What do I get in exchange?'",
+    "source_quote": "'What do I get in exchange?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith",
+    "fact": "The Wraith smiled, and it let us pass, and I watched it calculate the whole way through.",
+    "source_quote": "It smiled, and it let us pass, and I watched it calculate the whole way through.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Final Declaration",
+    "fact": "The wraith declared his confidence in the outcome, saying 'I can't wait till you come back here! I will be waiting!' with absolute warmth.",
+    "source_quote": "I can't wait till you come back here! I will be waiting!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Laughter at Calmer's Hammering",
+    "fact": "The wraith found Calmer's hammering at the door very funny, reinforcing his perception of the group as 'poor little fools'.",
+    "source_quote": "The wraith found this very funny.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "The Wraith's Rise to Collegiality",
+    "fact": "The wraith shifted from menacing entity to peer-like conversationalist after being acknowledged by name and offered an audience.",
+    "source_quote": "I gave it that. I could feel the room tilt: the wraith no longer performing menace but something closer to collegial warmth.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "travel to Sloobludop",
+    "fact": "Sloobludop is approximately eight days away via the Darklake.",
+    "source_quote": "the town of Sloopdopblop is just eight days away",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "voice from behind the Greater Temple door",
+    "fact": "The voice from behind the Greater Temple door declared it sealed until the battle was over.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "war council decision",
+    "fact": "The plan was to attack the Air Temple first, take their treasure, then assess the Water Temple.",
+    "source_quote": "Okay, here's the plan, guys. We'll go after the Air Temple. Take all their treasure. And from there, we'll see if we attack that water.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Wraith\u2019s Destruction",
+    "fact": "The Wraith was destroyed when Calmer unleashed the last of his draconic gift, triggering a chain reaction that obliterated all specters in the aura \u2014 a moment of divine retribution that marked the turning point in the battle for the lower levels.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wraith's satisfaction",
+    "fact": "The wraith was pleased with himself and counting on being waited for.",
+    "source_quote": "I can't wait till you come back here! I will be waiting!",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "wraith's specter count",
+    "fact": "Seven specters were raised from bodies we were responsible for.",
+    "source_quote": "Seven specters. Raised from bodies we were responsible for.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr asked the voice behind the door how to meet the people in charge, and was told to survive the fight.",
+    "source_quote": "Survive the fight, and maybe you'll get a chance.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr asked the wraith who the Greater Temple was, and learned it was the deep temple \u2014 the people who are really in charge.",
+    "source_quote": "The Greater Temple,\" the wraith said, \"is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr gave up Water Temple dead in exchange for passage.",
+    "source_quote": "Zephyr gave up Water Temple dead in exchange for passage.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed Hartsch handed the question of where the apostles slept off to him, and he handed deployment back to Hartsch.",
+    "source_quote": "I watched Hartsch hand the whole question of where the apostles slept off to Zephyr, and Zephyr hand the question of deployment back to Hartsch.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the wraith had become confident the outcome was already decided and was merely permitting time to catch up.",
+    "source_quote": "He meant it warmly. The absolute confidence of something that has already decided the outcome and is merely permitting time to catch up.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the wraith had raised seven specters from bodies the party was responsible for killing.",
+    "source_quote": "Seven specters. Raised from bodies we were responsible for.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the wraith had stopped being a monster and become a mirror \u2014 reflecting back the consequences of their own actions.",
+    "source_quote": "He counted them out. One, two, three. Four, five. Mostly Earth Temple forces. I recognized the remnants of robes, the insignia, the general silhouette of people we had, in one way or another, contributed to killing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the wraith had stopped being a threat and become a conversational partner after being acknowledged.",
+    "source_quote": "I'd given it an audience. The price of the audience was conversation, and conversation was exactly what I'd come for.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the wraith was feasting, not hunting, and that this distinction mattered to his continued good health.",
+    "source_quote": "The wraith was at the entrance to the Greater Temple when we arrived. Feasting. Not hunting. Feasting, which is a distinction that mattered to my continued good health.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr noticed the wraith\u2019s specters were mostly Earth Temple forces \u2014 the very ones they had helped kill.",
+    "source_quote": "I recognized the remnants of robes, the insignia, the general silhouette of people we had, in one way or another, contributed to killing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realized the wraith had become a repository of information and memory from the war \u2014 the only one willing to talk.",
+    "source_quote": "Information was information, and the wraith was currently the only entity in the room willing to talk.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realized the wraith had been alone in the corridor for weeks, feasting on war leftovers, with nobody willing to call it by name or ask what it knew.",
+    "source_quote": "It had been alone in this corridor for weeks, feasting on whatever the war left behind, with nobody willing to call it by name and ask it what it knew.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr realized the wraith was no longer performing menace but something closer to collegial warmth after being acknowledged and asked what it knew.",
+    "source_quote": "I could feel the room tilt: the wraith no longer performing menace but something closer to collegial warmth. Peer to peer. I'd given it an audience.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr recalled the last time he stood close to the wraith and came away with something missing \u2014 not a wound, but a portion of himself the cold reached into and found worth keeping.",
+    "source_quote": "The last time I'd stood this close to him, I'd come away with something missing: not a wound exactly, more like a portion of myself that the cold reached into and found worth keeping.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr recognized the wraith's laughter as a response to the door sealing them in \u2014 and understood the wraith was counting on their entrapment.",
+    "source_quote": "He said 'my servants' with obvious satisfaction. He was counting on it.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'Alright, we'll deal with this, Dren.'",
+    "source_quote": "'Alright, we'll deal with this, Dren,' Zephyr said.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'I don't have time for this one,' to the wraith.",
+    "source_quote": "'I don't have time for this one,' he told it.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'Let's go.'",
+    "source_quote": "'Alright, calm,' Zephyr said. 'Let's go.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'Okay, so we'll go straight to the Broken Blades.'",
+    "source_quote": "'Okay, so we'll go straight to the Broken Blades,' Zephyr said.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'Remember who's the most powerful temple, bugbear?'",
+    "source_quote": "'Okay. Remember who's the most powerful temple, bugbear?'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'That's you,' to Calmer after the rite succeeded.",
+    "source_quote": "'That's you,' Zephyr said.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'Water temple,' to the wraith, without hesitation.",
+    "source_quote": "'Water temple,' Zephyr said. No hesitation.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr said, 'We're gonna go kill him, Ben.'",
+    "source_quote": "'Uh, we're gonna go kill him, Ben.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr slapped him. Walked up and slapped the panic right across his face.",
+    "source_quote": "Zephyr slapped him. Walked up and slapped the panic right across his face.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr told the Blades, 'Come backwards, we'll hold the line for now.'",
+    "source_quote": "'Come backwards, we'll hold the line for now.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zephyr",
+    "fact": "Zephyr understood the wraith's promise \u2014 'I can't wait till you come back here!' \u2014 was not a threat but a declaration of inevitability.",
+    "source_quote": "He meant it warmly. The absolute confidence of something that has already decided the outcome and is merely permitting time to catch up.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "zephyr's recruitment of broken blades",
+    "fact": "Zephyr recruited the Broken Blades to stay with the party, offering them a half-retreat and half-recruitment path to the Earth Temple.",
+    "source_quote": "Fall back to the Earth Temple, rest there, but if they were true warriors, he told them, they could stay with us. Half a retreat, half a recruitment.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "zephyr's tactical pivot",
+    "fact": "Zephyr pivoted from assaulting the Air Temple to using the Broken Blades as a distraction and withdrawing from the Water Temple.",
+    "source_quote": "So the Air Temple was off. You don't run a two-pronged raid when one prong is already pinned and bleeding under the wrong banner. 'Okay, so we'll go straight to the Broken Blades,' Zephyr said. Use them as the distraction.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "I said the true thing: 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "source_quote": "I said the true thing. 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say.",
+    "source_quote": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "The men straightened. They looked at me and gave it back, the same words, a pledge: 'whatever your plans are, you are with us. We are with you.'",
+    "source_quote": "The men straightened. They looked at me and gave it back, the same words, a pledge: 'whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia counted the soldiers and found their number wrong \u2014 fewer than expected for a faction holding its own ground.",
+    "source_quote": "The number was wrong. Not collapse-of-the-faction wrong, but wrong enough that I counted them twice before I trusted what I was seeing.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia finished the last surviving specter: missed the first strike, took it on the second, and when it still refused, still clinging to the last of itself, he flowed into another and it was simply over.",
+    "source_quote": "Zinnia finished it before it could try again.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia looked at the map where he'd marked his glorious initiative, and looked at him, and got the rest of it.",
+    "source_quote": "Then Zinnia looked at the map where he'd marked his glorious initiative, and looked at him, and got the rest of it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia marked the wraith's knowledge: 'It remembers we came past. It remembers we paid in someone else's people.'",
+    "source_quote": "I noted what it now knew about us. ... It remembers we came past. It remembers we paid in someone else's people.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia noticed Hartsch preferred to lose aggressively rather than win the way Romag had.",
+    "source_quote": "Hartsch would rather lose aggressively than win the way that man had.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia noticed the leadership vacuum in the Earth Temple had become so acute that Hartsch was asking them \u2014 the architects of the war \u2014 what to do next.",
+    "source_quote": "Hartsch looked at us. 'What do we do next?' Four words. The authority transfer was complete.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia noticed the soldiers were watching the Obsidian Edge, waiting to see if they would disappear on them again.",
+    "source_quote": "They were watching us, the Obsidian Edge, waiting to see if we were about to disappear on them again.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia observed Hartsch listing the temple strengths and weaknesses without pride, like reading damage he'd already accepted.",
+    "source_quote": "He had listed it the way a man lists damage he's already accepted, in order, without argument, like reading something he already knew.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia observed Hartsch was exhausted, dirty, and bloodied in ways that suggested proximity to the fighting, not command distance from it.",
+    "source_quote": "He had been in it, or near enough.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia observed the soldiers had stopped looking to Hartsch and were instead looking to each other.",
+    "source_quote": "I could see it register: the soldiers' eyes going to each other instead of to him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia observed the war was running on its own momentum and didn't need them to keep burning.",
+    "source_quote": "The war was running on its own momentum. Good. It didn't need us to keep burning.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia recognized that Hartsch\u2019s final order \u2014 'We will make a final stand' \u2014 was a surrender to fatalism disguised as resolve.",
+    "source_quote": "We will make a final stand. It's time we got it to Temple.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia",
+    "fact": "Zinnia recognized the moment Hartsch stopped pretending to be in charge and asked them what to do next.",
+    "source_quote": "Hartsch looked at us. 'What do we do next?' Four words. The authority transfer was complete.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "zinnia's pledge to broken blades",
+    "fact": "Zinnia pledged loyalty to the Broken Blades with the words: 'Whatever your plans are, you are with us. We are with you.'",
+    "source_quote": "I said the true thing. 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "event",
+    "subject": "Zinnia\u2019s Rally of the Broken Blades",
+    "fact": "Zinnia broke protocol by speaking the true thing \u2014 personal presence and solidarity \u2014 to the Broken Blades, restoring their morale and binding them to the Obsidian Edge through loyalty to the person who showed up, not the order that abandoned them.",
+    "source_quote": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say... 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is a former ally or component of the Obsidian Edge, now abandoned after its association with Hartsch's reckless initiative rendered it politically toxic \u2014 its name is being used to mask true loyalties.",
+    "source_quote": "The Air Temple was off. You don't run a two-pronged raid when one prong is already pinned and bleeding under the wrong banner.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the hidden faction that bribed the bugbear defector, using forged coins stamped with its insignia to falsely implicate Kelno and the Water Temple \u2014 a covert operation designed to sow discord and draw attention away from its true influence.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the weakest of the four, having collapsed under pressure and lost its territorial integrity \u2014 now seen as the most vulnerable target for exploitation by the Obsidian Edge.",
+    "source_quote": "The weakest is the Air Temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the hidden manipulator behind the bugbear\u2019s defection, using forged coins to frame Kelno and infiltrate the Obsidian Edge\u2019s defenses from within.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple Gnolls",
+    "fact": "The Air Temple gnolls are a desperate, predatory faction who view recruitment and defections as financial investments \u2014 when their 'purchases' are killed, they seek revenge, refunds, and food.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple Gnolls",
+    "fact": "The Air Temple gnolls are a group acting collectively with predatory intent, having invested in purchased defections and now seeking reimbursement and sustenance after their investment was destroyed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple gnolls",
+    "fact": "The Air Temple gnolls had paid money for the bugbear's defection.",
+    "source_quote": "We paid good money for that!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Air Temple gnolls",
+    "fact": "The Air Temple gnolls viewed the bugbear as a purchased investment.",
+    "source_quote": "The bugbear had been a purchased defection.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are a mercenary force recruited by the Obsidian Edge, now deployed without authorization by Hartsch in a reckless attack that may have doomed them.",
+    "source_quote": "The men we'd recruited. The men whose lives were now sitting in the hands of a panicking quartermaster.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are a recruited mercenary force now stranded in the Water Temple, misled into believing they acted under the Obsidian Edge\u2019s orders, and now the only viable asset left to extract before they are annihilated.",
+    "source_quote": "The men we'd recruited. The men whose lives were now sitting in the hands of a panicking quartermaster who couldn't decide where to put a chair.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are a recruited unit of warriors, once loyal to a lost cause, now bound not by oath but by the presence of those who showed up when the order abandoned them \u2014 their hands are slick with gore, their eyes empty, but their pledge is whole.",
+    "source_quote": "These were the Broken Blades. We had recruited them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has been weakened by prolonged conflict, lost key personnel, and now relies on the Obsidian Edge for direction after Hartsch's leadership collapsed.",
+    "source_quote": "The number was wrong... These were men who had started this war expecting to win it quickly.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a contested stronghold within the Obsidian Edge's sphere, now infiltrated by traitors and secret doors \u2014 its defenders are being manipulated and murdered from within.",
+    "source_quote": "One of the bugbears who was supposed to be standing between us and the things that wanted us dead, and he was walking out with somebody else's money in his hands.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is being systematically raided by Kelno\u2019s recruitment efforts, with individuals being peeled off one at a time, suggesting internal instability or poor defense.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is the faction to which the defector bugbear originally belonged, and which Ben and Calmer claim allegiance to \u2014 a temple of discipline, walls, and unyielding loyalty, now compromised by internal betrayal and hidden manipulation from above.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was once a dominant force in the four-temple conflict, but has been bled dry by prolonged warfare, internal disarray, and strategic betrayal \u2014 now reduced to a remnant force watching its soldiers die while waiting for the Obsidian Edge to decide their fate.",
+    "source_quote": "Fewer than before. This was supposed to have been an easy win.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple is mid-tier in strength, having endured heavy losses but not yet broken \u2014 its position is a tactical pivot point in the Obsidian Edge\u2019s emerging plan to fracture the remaining alliances.",
+    "source_quote": "The next is the Fire Temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Gnolls",
+    "fact": "The gnolls are undead creatures who emerged from a secret door after the bugbear\u2019s death, furious that their bribe money was wasted \u2014 revealing they were the true power behind the defection, watching the entire exchange and now demanding restitution.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Kelno",
+    "fact": "Kelno is a figure believed by the party to be orchestrating defections from the Earth Temple, but in truth is a red herring \u2014 a scapegoat used by the Air Temple to mask its own infiltration and manipulation of the war council\u2019s lower ranks.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is a shadow faction that engineered the four-temple war from behind the scenes, manipulating events to exhaust the traditional powers \u2014 now returning to claim control by offering incomplete strategy while withholding their role in the conflict\u2019s escalation.",
+    "source_quote": "We built this; he inherited it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the faction falsely blamed by Hartsch for the failed Water Temple raid, now at risk of being perceived as the architect of its agents' deaths \u2014 its reputation is being weaponized by internal betrayal.",
+    "source_quote": "So that when the Blades died in the water it would be the Obsidian Edge that sent them.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the hidden architect of the war, manipulating events from behind the scenes, now operating as the de facto power in the temple complex after Hartsch's authority faded.",
+    "source_quote": "We built this; he inherited it.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the organization Hartsch falsely implicated in the raid on the Water Temple, risking its reputation and cohesion by having the Broken Blades believe orders came from its command.",
+    "source_quote": "He'd told them the orders came from us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge was the faction whose authority Hartsch falsely invoked to send the Blades on a suicide raid, and whose internal loyalties were being manipulated by the Air Temple through bribes and deception.",
+    "source_quote": "he'd told them the orders came from us... so that when the Blades died in the water it would be the Obsidian Edge that sent them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "The Greater Temple",
+    "fact": "The Greater Temple is the hidden authority overseeing the war, sealing the lesser temples and waiting for the conflict to resolve itself. It operates through silence, control, and selective revelation, and its agents are not directly seen but exert influence through the wraith and the sealed doors.",
+    "source_quote": "The Greater Temple is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the strongest remaining faction in the conflict, having maintained cohesion and resources while the others crumbled \u2014 its dominance is acknowledged with resignation by Hartsch and Zephyr alike.",
+    "source_quote": "Who's the strongest? The Water Temple.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "faction",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the target of Hartsch\u2019s unauthorized raid and the site of the Broken Blades\u2019 massacre \u2014 it is now a death trap controlled by undead forces and possibly a hostile faction using the chaos as cover.",
+    "source_quote": "We're being fed to a meat grinder.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple contains a secret door that coughed up three gnolls.",
+    "source_quote": "the secret door coughed up its replacements.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a corridor where the gnolls spilled out and the battle occurred.",
+    "source_quote": "spilling out into the corridor with the indignation of creditors.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a corridor with brown-and-black walls.",
+    "source_quote": "quiet in that ugly brown-and-black corridor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a secret door that hung open after the gnolls were killed.",
+    "source_quote": "the secret door hung open on whatever the gnolls had crawled out of.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple has a wall that Kelno reached over to recruit people from the Earth Temple.",
+    "source_quote": "Kelno had been recruiting, busily, badly, reaching over the Earth Temple's wall and peeling people off one frightened bugbear at a time.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple is the weakest of the four temples, lightly guarded and already looted, now targeted as the first offensive objective by the Obsidian Edge.",
+    "source_quote": "The weakest is the Air Temple.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the true source of the bribe coins found on the defecting bugbear, revealing a covert operation to destabilize the Obsidian Edge from within, using Kelno as a decoy.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple",
+    "fact": "The Air Temple was the weakest, with thin guard and thinner walls, and its treasure was targeted for looting.",
+    "source_quote": "Who's the strongest? The Water Temple. The weakest is the Air Temple.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Corridor",
+    "fact": "A narrow, foul-smelling corridor in the Air Temple where the ambush occurred \u2014 now littered with gnoll corpses and marked by the open secret door leading deeper into the temple.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple Corridor",
+    "fact": "The corridor is a narrow, ugly brown-and-black space where the ambush occurred; it leads to a secret door that opens into an unknown area, now controlled by the party.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Air Temple guard strength",
+    "fact": "The Air Temple was the weakest: thin guard, thinner walls.",
+    "source_quote": "Who's the strongest? The Water Temple. The weakest is the Air Temple.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Choke Point Corridor",
+    "fact": "The choke point corridor is a narrow passage between temple levels, guarded by the Wraith and Specters \u2014 it is a bottleneck of death that must be cleared to advance or retreat.",
+    "source_quote": "Seven specters in a line behind it.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "choke point location",
+    "fact": "The choke point leading to the second level was cleared of undead after the wraith's destruction.",
+    "source_quote": "The passage was clear. No more cold thing standing guard over the way down, no more creature that murders your friends and stands them back up as itself. Two roads to the second level now, and one of them open.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Choke Point with Wraith",
+    "fact": "The choke point is a necrotic corridor guarded by a wraith and seven specters, now a critical passage requiring sacrifice of intelligence to traverse, and a symbol of the cost of progress in this war.",
+    "source_quote": "The wraith was where it always was, at the choke point, seven specters in a line behind it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Cooling Gold",
+    "fact": "The cooling gold is the lingering residue of Calmer\u2019s draconic gift \u2014 a physical manifestation of power that cannot be healed, cannot be erased, and now clings to Ben as he stands, grinning, against all sense, alive in the ruins of victory.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Corridor of Brown Marble",
+    "fact": "The corridor of brown marble is where the bugbear defector was confronted and slain \u2014 a place of betrayal and revelation, now stained with blood and the weight of hidden truths.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple has a wall that Kelno reached over to recruit from.",
+    "source_quote": "reaching over the Earth Temple's wall",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a once-proud bastion now littered with the bodies of fallen soldiers, its halls echoing with unaccounted sounds and the silence of broken morale \u2014 a symbol of how quickly power can collapse when leadership is usurped.",
+    "source_quote": "The gap between our departure and our return had been filled with sounds they couldn't account for and a body count they couldn't afford.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a place of retreat and rest, the only viable fallback after the slaughterhouse \u2014 it is not a sanctuary of peace, but a refuge where loyalty can be rekindled and the broken can choose to stand again.",
+    "source_quote": "Fall back to the Earth Temple, rest there, but if they were true warriors, he told them, they could stay with us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple is a stronghold under siege from within \u2014 its walls have secret doors, its guards are being bribed or killed, and its loyalty is being systematically dismantled by an unseen enemy.",
+    "source_quote": "The gnolls came out of the wall to prove it, a secret door I hadn't found yet.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was the faction holding its own ground but had suffered disproportionate losses, with fewer soldiers than expected and a commander who had stopped pretending to be in charge.",
+    "source_quote": "The number was wrong. Not collapse-of-the-faction wrong, but wrong enough that I counted them twice.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple",
+    "fact": "The Earth Temple was the original base of operations, abandoned after the failed raid, and later used as a fallback position to regroup the Broken Blades and contain the threat of the wraith and the Air Temple\u2019s infiltration.",
+    "source_quote": "We had abandoned the Air Temple assault to come back here... Fall back to the Earth Temple, rest there, but if they were true warriors, he told them, they could stay with us.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "earth temple betrayal site",
+    "fact": "The Earth Temple was the origin of the bugbear defector, whose loyalty was compromised by external influence.",
+    "source_quote": "Earth Temple. *Our* wall. One of the bugbears who was supposed to be standing between us and the things that wanted us dead, and he was walking out with somebody else's money in his hands.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple troop count",
+    "fact": "The number of soldiers in the Earth Temple was wrong \u2014 fewer than before.",
+    "source_quote": "The number was wrong. Not collapse-of-the-faction wrong, but wrong enough that I counted them twice before I trusted what I was seeing.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Earth Temple war room condition",
+    "fact": "The war room smelled like men who hadn't slept.",
+    "source_quote": "The war room smelled like men who hadn't slept.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple attempted and failed to force entry into the Greater Temple, and now exists in a state of diminished strength, caught between the other factions.",
+    "source_quote": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Fire Temple",
+    "fact": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "source_quote": "The Fire Temple had tried to force an entry and failed, or stopped, or been stopped.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple is sealed until the battle is over, with something braced or barricaded on the other side preventing entry.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple",
+    "fact": "The Greater Temple is the sealed, central authority of the war, inhabited by the Wraith and the voice behind the door, representing the true power structure that waits for the battle to conclude before revealing itself.",
+    "source_quote": "The Greater Temple is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple door status",
+    "fact": "The Greater Temple door was braced, barricaded, or committed to not opening.",
+    "source_quote": "Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple entrance condition",
+    "fact": "The entrance to the Greater Temple was where the wraith was feasting when we arrived.",
+    "source_quote": "The wraith was at the entrance to the Greater Temple when we arrived.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Greater Temple's true nature",
+    "fact": "The Greater Temple is the deep temple \u2014 the people who are really in charge.",
+    "source_quote": "The Greater Temple... is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Obsidian Edge",
+    "fact": "The Obsidian Edge is the faction that engineered the war from beneath Hartsch and now holds the authority to decide its next moves.",
+    "source_quote": "The people who had engineered this situation from underneath him.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Obsidian Edge's hidden influence",
+    "fact": "The Obsidian Edge had engineered the situation from underneath Hartsch.",
+    "source_quote": "We built this; he inherited it.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Romag\u2019s Quarters",
+    "fact": "Romag\u2019s Quarters is the abandoned, psychologically significant room chosen as the apostles\u2019 sleeping quarters \u2014 a place no one would think to disturb, symbolizing the group\u2019s avoidance of responsibility and reverence for dead authority.",
+    "source_quote": "The dead man's quarters, the one place in this building nobody would think to bother us.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Romag's Room",
+    "fact": "Romag's Room is the special room in the Earth Temple where the Obsidian Edge slept, untouched by others, because it was the dead man's quarters.",
+    "source_quote": "Zephyr wanted the Romag room. The dead man's quarters, the one place in this building nobody would think to bother us.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Romag's room status",
+    "fact": "Romag's room was the one place in the building nobody would think to bother us.",
+    "source_quote": "The dead man's quarters, the one place in this building nobody would think to bother us.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Second Level Entrance",
+    "fact": "The second level entrance is now open \u2014 the path cleared of undead guardians and traitors \u2014 a hard-won victory, but one shadowed by the knowledge that the real war is not in the depths, but in the halls above.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Secret Door",
+    "fact": "A concealed entrance that coughed up gnoll reinforcements \u2014 now hanging open, it leads toward the Water Temple and is the only known passage out of the engagement zone.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Secret Door",
+    "fact": "The secret door coughed up replacements during the ambush and now hangs open, providing access to an unexplored route \u2014 possibly leading to the Water Temple, though officially it connects to the Air Temple.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret door",
+    "fact": "The secret door led from the Air Temple corridor to an unknown area.",
+    "source_quote": "the secret door hung open on whatever the gnolls had crawled out of.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Secret Door",
+    "fact": "The secret door, concealed in the corridor wall, was the exit for the gnolls \u2014 a hidden passage that allowed the Air Temple to monitor, manipulate, and strike at will, proving the enemy was never truly below \u2014 they were always inside.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "secret door location",
+    "fact": "A secret door in the wall revealed gnolls who had been watching the defection.",
+    "source_quote": "the gnolls came out of the wall to prove it, a secret door I hadn't found yet",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Slaughterhouse Chamber",
+    "fact": "The Slaughterhouse Chamber is a place of open flesh and stench, where survivors stand with hands slick to the wrist, staring at nothing \u2014 it is not a battlefield, but a butcher\u2019s room, and its air is thick with the memory of betrayal.",
+    "source_quote": "The stench of opened flesh filled the whole chamber.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Earth Temple Passage",
+    "fact": "The passage leading to the Greater Temple is littered with corpses, looted and abandoned, many bearing the insignia of Earth Temple forces. These bodies have been consumed by the wraith and now serve as the foundation for his spectral army.",
+    "source_quote": "The bodies along the passage didn't clarify matters. Looted already, by the time we got there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Greater Temple",
+    "fact": "The Greater Temple is a sealed, ancient structure at the heart of the temple complex, physically inaccessible and radiating authority. It has been the unseen command center of the war, and its door is now braced from within by an unknown force.",
+    "source_quote": "The door didn't cooperate. Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The Stairwell",
+    "fact": "The stairwell leading to the second level of the Earth Temple is where the group emerged to find six guards reading their return as a threat.",
+    "source_quote": "The arrowheads were the first thing I saw. Two positions, six guards, all of them reading our emergence from the stairwell as a threat.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "The War Room",
+    "fact": "The war room smells like men who hadn't slept, and is where Hartsch asked what to do next like a man who'd never answered that question.",
+    "source_quote": "The war room smelled like men who hadn't slept.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Velkynvelve elevation",
+    "fact": "Velkynvelve sits 100 feet above the cavern floor.",
+    "source_quote": "Drow outpost was 100' in the sky",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple door has burn marks on it, and it had tried to force an entry and failed, or stopped, or been stopped.",
+    "source_quote": "The Water Temple door had burn marks on it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is a death chamber now \u2014 saturated with blood, haunted by undead, and the site of the Broken Blades' massacre \u2014 it is a trap laid by forces that benefit from the Obsidian Edge's internal collapse.",
+    "source_quote": "Behind him the survivors stood, hands slick to the wrist, staring at nothing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the strongest faction, heavily defended and currently holding its ground, with minimal losses, making it a dangerous target for direct assault.",
+    "source_quote": "The strongest is the Water Temple.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple is the target of Hartsch\u2019s unauthorized raid, now heavily fortified and aware of the Obsidian Edge\u2019s intent, turning it from a tactical objective into a death trap for the Broken Blades.",
+    "source_quote": "He'd sent them down to stage a raid on the Water Temple, and heard nothing back.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple stands as the most intact and formidable of the four, its defenses unbroken and its forces still cohesive \u2014 a looming threat that even the Obsidian Edge acknowledges as the next major obstacle.",
+    "source_quote": "We'll charge once more to the Water Temple!",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple",
+    "fact": "The Water Temple was the target of Hartsch\u2019s unauthorized raid, resulting in the massacre of the Broken Blades and the deployment of undead guardians, including a wraith and seven specters, blocking access to the second level.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple... Then the door, and behind the door, the slaughterhouse... The wraith blocked the only exit, seven specters at its side, a choke point that would keep killing them.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "water temple ambush site",
+    "fact": "The Water Temple was the site of a deadly ambush that destroyed the Broken Blades and left survivors bloodied and traumatized.",
+    "source_quote": "Behind him the survivors stood, hands slick to the wrist, staring at nothing. The stench of opened flesh filled the whole chamber. These were the Broken Blades.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "location",
+    "subject": "Water Temple door condition",
+    "fact": "The Water Temple door had burn marks on it.",
+    "source_quote": "The Water Temple door had burn marks on it.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "bugbear",
+    "fact": "A bugbear was killed and had been a purchased defection from the gnolls.",
+    "source_quote": "The bugbear had been a purchased defection.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbear Defector",
+    "fact": "The bugbear defector was a former Earth Temple guard who accepted bribes to abandon his post \u2014 slain by Ben in a single, flawless strike \u2014 his corpse revealing the true nature of the conspiracy through the Air Temple\u2019s stamped coins.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbear Defector",
+    "fact": "The bugbear defector was a traitor who accepted bribes from the Air Temple under false pretenses, was executed by Sequoia, and whose coins revealed the true manipulator behind the infiltration.",
+    "source_quote": "A bugbear stumbling toward us with a sack of coins... 'Where are you from?' The answer came out of the babbling. Earth Temple. ... 'One does not simply take bribes to defect.' He dies.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Bugbears",
+    "fact": "The bugbears are former Earth Temple defenders, now corrupted or bribed \u2014 one defected with Air Temple coins, revealing an internal conspiracy within the Obsidian Edge\u2019s own hierarchy.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "chasme count",
+    "fact": "Four chasme demons are present in the cavern above the prisoners' tower.",
+    "source_quote": "four chasme and two vrock",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll exclaimed, 'Tiefling flesh!' and expressed delight at the prospect of eating it.",
+    "source_quote": "\"Tiefling flesh!\" it howled, delighted, like a man discovering a delicacy he'd thought extinct.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll said, 'Now we will get our money, and get food!'",
+    "source_quote": "\"Now we will get our money, and get food!\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll said, 'We paid good money for that!'",
+    "source_quote": "\"We paid good money for that!\" one of them snarled",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was killed by Sequoia after being tagged clean.",
+    "source_quote": "Sequoia took the second. Stepped in, tagged it clean, opened it up.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was killed by a dagger strike under the ribs.",
+    "source_quote": "the dagger went where daggers go. Thud. Steel through the soft place under the ribs",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "One gnoll was killed by a third dagger strike from the blind side.",
+    "source_quote": "Dagger high, dagger low, then the third from the blind side with everything behind it. Thud.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll",
+    "fact": "Three gnolls emerged from the secret door, hunched and reeking.",
+    "source_quote": "Three gnolls, hunched and reeking, spilling out into the corridor",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "gnoll count",
+    "fact": "A group of gnolls emerged from a secret door, enraged over the stolen bribe money.",
+    "source_quote": "the gnolls came out of the wall to prove it, a secret door I hadn't found yet, which meant they'd been close enough to watch the whole thing, furious, talking about money. 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll (first)",
+    "fact": "A gnoll was slain by a strike from concealment, the dagger finding the soft place under the ribs; it folded mostly to dead in a single beat, and Zinnia finished what remained.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll (killed first)",
+    "fact": "A gnoll was slain by the narrator in a surprise attack \u2014 struck under the ribs with a dagger, its death swift and silent, completed by Zinnia\u2019s finishing blow.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll (killed second)",
+    "fact": "A second gnoll was killed by Sequoia in a clean, decisive strike \u2014 it had nothing left to lose and died without resistance.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll (killed third)",
+    "fact": "The final gnoll was dispatched by the narrator after a coordinated flanking maneuver \u2014 struck from concealment with full force, it ceased rather than died, earning no eulogy but a tactical victory.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnolls",
+    "fact": "The gnolls are undead or hidden operatives emerging from a secret door in the Earth Temple, furious over the betrayal of their bribe payment \u2014 they are agents of a third, unknown faction manipulating the conflict.",
+    "source_quote": "We paid good money for that! Now we will get our money, and get food!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll (second)",
+    "fact": "A gnoll was killed by Sequoia after being tagged cleanly and opened up; it had nothing left to lose and died without resistance.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Gnoll (third)",
+    "fact": "The final gnoll was dispatched by the narrator with a high-low-blindsided dagger strike; it didn't so much die as stop, earning no eulogy beyond its role as an attacker.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Seven Specters",
+    "fact": "Seven Specters flank the Wraith as a choke point of death, each dissolving upon contact with Calmer\u2019s light or Zephyr\u2019s blade \u2014 they are numerous but fragile, a tide meant to exhaust, not defeat.",
+    "source_quote": "The wraith blocked the only exit, seven specters at its side, a choke point that would keep killing them.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Seven Specters",
+    "fact": "Seven specters were raised by the Wraith from the corpses of Earth Temple soldiers and other fallen fighters the party directly or indirectly killed, now serving as his personal army.",
+    "source_quote": "One, two, three. Four, five. Mostly Earth Temple forces.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Seven Specters",
+    "fact": "The seven specters were undead entities bound to the wraith, guarding the choke point to the second level, and were destroyed when Calmer invoked the rite of turning.",
+    "source_quote": "The wraith blocked the only exit, seven specters at its side, a choke point that would keep killing them... Specter after specter could not hold. They came apart in the radiance, all of them but one.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "specters",
+    "fact": "Specters haunt the corridors of the Earth Temple, remnants of those who died during the war\u2019s early phase \u2014 their presence signals unresolved death and the lingering consequences of failed leadership.",
+    "source_quote": "The seven specters were, as it turned out, a relevant consideration.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Specters",
+    "fact": "The seven Specters are lesser undead extensions of the Wraith, bound to its will and vulnerable to Calmer\u2019s divine radiance \u2014 they are not merely slain, but unmade by his power.",
+    "source_quote": "They came apart in the radiance, all of them but one.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Specters",
+    "fact": "The specters were lesser undead entities that swarmed the party, drawn to their light, only to be incinerated by Calmer\u2019s residual draconic power \u2014 four nights of carrying their presence ended in their collective disintegration.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "The Seven Specters",
+    "fact": "Seven spectral entities, raised from the corpses of Earth Temple forces killed by the party, now serve the wraith as minions. They are tangible manifestations of the party\u2019s past violence, bound to the wraith\u2019s will and positioned as tools of future conflict.",
+    "source_quote": "I now have minions. ... One, two, three. Four, five. Mostly Earth Temple forces.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wraith",
+    "fact": "A wraith has claimed dominion over the lower levels of the Earth Temple, feeding on the fear and despair of the living \u2014 its presence confirms that the temple\u2019s collapse has invited supernatural predation.",
+    "source_quote": "The wraith had them and was not going to stop having them.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "A wraith previously attacked Calmer, leaving him with lingering necrotic damage that drained his healing capacity and reduced him to an unusable state.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The Wraith is a sentient undead entity that guards the choke point between levels, feeds on the dead, negotiates in exchange for intelligence, and holds a grudge against the Obsidian Edge \u2014 it remembers who paid in others' blood.",
+    "source_quote": "It remembers we came past. It remembers we paid in someone else's people.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith",
+    "fact": "The Wraith was a powerful undead entity that mocked the party, stole their vitality, and was finally destroyed by Calmer\u2019s last breath \u2014 its death marked by a surge of draconic gift and the collapse of all lesser specters in its aura.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wraith and specters count",
+    "fact": "Seven specters are in a line behind the wraith at the choke point.",
+    "source_quote": "seven specters in a line behind it",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith at the Choke Point",
+    "fact": "The wraith is a necrotic entity with seven spectral followers that guards a critical corridor, trading passage for intelligence or live bodies, and has now learned the Obsidian Edge\u2019s next target is the Water Temple.",
+    "source_quote": "Tell me where the next attack is coming so I can feast on the dead.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wraith's attention",
+    "fact": "The wraith was currently the only entity in the room willing to talk.",
+    "source_quote": "Information was information, and the wraith was currently the only entity in the room willing to talk.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "wraith's minions",
+    "fact": "The wraith now has minions.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "monster",
+    "subject": "Wraith with a Grudge",
+    "fact": "The Wraith with a Grudge is a spectral entity that has laughed at Calmer twice, blocked the only exit, and drains warmth like an absence \u2014 it is not merely hostile, but existential, and its touch leaves permanent voids in those it strikes.",
+    "source_quote": "It reached me anyway. I felt the floor of myself drop out...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ben",
+    "fact": "Ben is a member of the party who, when asked to intimidate the defector, dismissed the threat as unnecessary \u2014 believing the situation was already resolved \u2014 and inadvertently triggered the group\u2019s violent response by underestimating the moral gravity of betrayal.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Ben",
+    "fact": "Ben is the one who killed the bugbear defector \u2014 not out of rage, but conviction \u2014 and who uttered the defining line: 'One does not simply take bribes to defect.' He is the moral anchor of the party, the one who understands the cost of loyalty.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer had three hit points and was drained of healing resources.",
+    "source_quote": "he could not patch himself past the thin margin he was running on.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric of St. Cuthbert who just killed the Wraith with the last of his strength, his body drained and his voice still echoing the elemental cult's performative rhetoric, though the costume beneath the armor has begun to speak for itself.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a cleric who bellowed, 'Unhand me, you creatures!'",
+    "source_quote": "\"Unhand me, you creatures!\" Bellowed, full-throated, the over-eager zealot's outrage at being denied a fight he had no business standing in.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a warrior of St. Cuthbert and we do not run from the dead.",
+    "source_quote": "I am a warrior of St. Cuthbert and we do not run from the dead.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a warrior of St. Cuthbert who wields divine radiance and the rite of turning, but carries a permanent wound from the Wraith's cold \u2014 he refuses to heal, choosing instead to stand broken and still fight.",
+    "source_quote": "I did not heal. I did not run.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a wielder of divine light and summoned spirits, deeply wounded by a wraith's cold absence that permanently opened a void within him \u2014 he walks now with a door left open, unable to be healed by any power he carries, yet still holds his ground with unshakable discipline.",
+    "source_quote": "I felt the floor of myself drop out and knew, instantly and completely, that I was at the very bottom of what a man can hold and still stand.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is a zealot who fixates on smiting powerful foes, especially the wraith, and misinterprets caution as encouragement. He attempted to force open the Greater Temple door with brute force, drawing the wraith\u2019s amusement.",
+    "source_quote": "I can kill him! I can kill him, I can so totally kill him!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer is the individual who repeatedly declares 'I can kill him!' and attacks the door with hammering, achieving noise but no tactical elegance.",
+    "source_quote": "I can kill him! I can kill him, I can so totally kill him!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was a cleric reduced to three hit points, his healing well scraped dry and his body still saturated with necrotic cold from a wraith; he could no longer sustain himself and was deemed an unusable resource in the skirmish.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was an over-eager zealot who resented being denied a fight he had no business standing in.",
+    "source_quote": "Bellowed, full-throated, the over-eager zealot's outrage at being denied a fight he had no business standing in.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer was dragged back up the corridor by Dren.",
+    "source_quote": "Dren dragged him back up the corridor, all protest and no leverage.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer, the cleric, was incapacitated by necrotic damage from a wraith, his healing wells scraped dry, and reduced to three hit points \u2014 no longer a viable asset in combat.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Calmer",
+    "fact": "Calmer, though wounded by the wraith\u2019s cold and near collapse, invoked the rite of turning for the third time, destroying the wraith and its specters with a blast of judgment, proving his faith in St. Cuthbert despite the cost.",
+    "source_quote": "I called it. The light went out of me in a single blast of judgment, and the room of dead things flinched as one. And they could not hold. The Wraith could not hold. Specter after specter could not hold. They came apart in the radiance, all of them but one. 'It worked! It worked!' The words came out of me without permission, without dignity... 'Who's the man? Who is the man?' 'That's you,' Zephyr said.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren dragged the wounded cleric Calmer back through the corridor after the cleric\u2019s healing resources were depleted and he could no longer contribute to the skirmish.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren stepped up with his two mercenaries and put his hands on Calmer.",
+    "source_quote": "Then Dren stepped up with his two mercenaries and put his hands on Calmer.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren",
+    "fact": "Dren stepped up with his two mercenaries and seized Calmer, dragging him back through the corridor after the cleric was rendered ineffective by necrotic damage and depleted healing capacity.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Dren Halveth",
+    "fact": "Dren Halveth is a broken commander of the Broken Blades, bloodied and hollow-eyed, having counted his dead twice and found them unchanged \u2014 he was recruited by Sequoia, and now sees in Calmer the same man who once gave him hope.",
+    "source_quote": "Battered, bloodied, his eyes those of a man who'd already counted his dead twice and gotten the same number.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is a commander overwhelmed by the war he inherited, unable to make decisive tactical choices, and ultimately abandons his post after impulsively sending the Broken Blades into battle.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is a nominal superior who made a unilateral decision to send the Blades to raid the Water Temple, falsely attributing the order to the Obsidian Edge, thereby risking the faction's reputation and the lives of its agents.",
+    "source_quote": "He'd told them the orders came from us.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is a pliable leader who acts unilaterally, pins his decisions to others' authority, and abandoned his post after sending the Broken Blades to attack the Water Temple under the Obsidian Edge's name.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is referenced as the nominal superior who sent the Blades to stage a raid on the Water Temple and falsely attributed the orders to the Obsidian Edge, making him a liability and a traitor to the faction's trust.",
+    "source_quote": "Hartsch confessed it in pieces: he'd sent the Blades down to stage a raid on the Water Temple, and heard nothing back, and now if we lost them we'd lose the guards too, and he'd told them the orders came from us.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the Earth Temple commander who inherited the war, lost confidence, and sent the Broken Blades to attack without consultation.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the exhausted, battle-scarred leader of the Earth Temple who has lost faith in his own command, now deferring to the Obsidian Edge after realizing his faction was never meant to win this war quickly \u2014 and that his enemies have outmaneuvered him from the shadows.",
+    "source_quote": "What do we do next?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch is the nominal superior of the party, a madman who has sent others into a slaughterhouse as if feeding them to a meat grinder \u2014 his actions are a liability, and his name is a silent promise of reckoning, never spoken aloud because saying it spends it.",
+    "source_quote": "He's our nominal superior and he's a liability and the day is coming when those two facts resolve.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Hartsch",
+    "fact": "Hartsch was the version of me with no eye for consequence and no patience and a war to play with.",
+    "source_quote": "Hartsch was the version of me with no eye for consequence and no patience and a war to play with.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno had been recruiting, busily, badly, reaching over the Earth Temple's wall and peeling people off one frightened bugbear at a time.",
+    "source_quote": "Kelno had been recruiting, busily, badly, reaching over the Earth Temple's wall and peeling people off one frightened bugbear at a time.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno was recruiting badly and aggressively, pulling individuals from the Earth Temple's side one frightened bugbear at a time, and his actions triggered a three-way war.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "small"
+    ],
+    "n_samples": 2
+  },
+  {
+    "type": "npc",
+    "subject": "Kelno",
+    "fact": "Kelno was recruiting people from the Earth Temple by peeling off frightened bugbears.",
+    "source_quote": "Kelno had been recruiting, busily, badly, reaching over the Earth Temple's wall and peeling people off one frightened bugbear at a time.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator believed the dagger strike from concealment is the only blow that matters.",
+    "source_quote": "The strike from concealment is the only blow that matters.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator believed the gnolls' attack was a repeat of the same threat they'd faced before.",
+    "source_quote": "The world charging me for existing again, except this one wanted to do it with its teeth.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator knew that at three hit points the cleric was a resource they couldn't use.",
+    "source_quote": "At three hit points the cleric was a resource I couldn't use;",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator never flinches when confronted with threats based on their appearance.",
+    "source_quote": "I didn't flinch. I never do, not for this.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Narrator",
+    "fact": "The narrator understood the whole situation before the second sentence arrived.",
+    "source_quote": "and I understood the whole situation before the second sentence arrived.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Romag",
+    "fact": "Romag is the former leader whose passive strategy is invoked by Hartsch as a point of shame and borrowed authority.",
+    "source_quote": "But that\u2026 but that is Romarg's passive strategy!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia executed a defecting bugbear who took bribes from the Air Temple under false pretenses, then discovered the coins bore the Air Temple insignia, revealing a hidden conspiracy manipulating the faction\u2019s internal loyalties.",
+    "source_quote": "I said the rest of it before anyone had moved, before he'd even understood it was happening. 'One does not simply take bribes to defect.' ... I went through the sack: twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia expresses resigned acceptance of fate, offering the dry remark 'Lucky me' in response to the wraith\u2019s ominous declaration. Their tone suggests a long-standing awareness of the absurdity and cyclical nature of the conflict.",
+    "source_quote": "Lucky me.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia has been getting funnier the deeper into the temple the group goes.",
+    "source_quote": "He has been getting funnier the deeper into this place we go.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a combatant whose wit has grown sharper as the party delves deeper into the temple; he made dry observations about the gnolls' motivations and later delivered lethal strikes against them.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a lethal tactician who reads situations with chilling clarity, executes decisive kills without hesitation, and uncovers hidden betrayals through attention to detail \u2014 he understands that loyalty is bought before the post, not after.",
+    "source_quote": "One does not simply take bribes to defect.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is a reflective operative who recognizes patterns of self-deception and impulsive leadership in others, and sees his own past in Hartsch's note.",
+    "source_quote": "I know that man. I've redistributed treasure when nobody was looking.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is growing increasingly witty and observant in the temple, making dry, unprovoked remarks that cut through tension, and has become a reliable combatant alongside the narrator.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia is referenced by the narrator as having said 'Lucky me' in response to the wraith's actions, and later observed Hartsch's psychological collapse.",
+    "source_quote": "Sequoia said, 'Lucky me.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia made the comment, 'Didn't know you guys liked eating while dead, but okay.'",
+    "source_quote": "Didn't know you guys liked eating while dead, but okay,",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Sequoia",
+    "fact": "Sequoia recognized the phrase 'I couldn't wait' as a sentence he had lived inside of himself.",
+    "source_quote": "'I couldn't wait' is a sentence I have lived inside of.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Narrator",
+    "fact": "The Narrator is a strategic observer who recognizes patterns of power, understands the value of dialogue over force, and deliberately engages the wraith not as a monster but as an entity with agency. They have learned to manipulate attention and audience to extract information.",
+    "source_quote": "I gave it that. I could feel the room tilt: the wraith no longer performing menace but something closer to collegial warmth.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Tiefling",
+    "fact": "The tiefling kept walking after the wraith's final declaration, accepting the terms of survival and the promise of entry to the Greater Temple.",
+    "source_quote": "The tiefling kept walking.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Voice Behind the Door",
+    "fact": "The Voice Behind the Door claims to represent the Greater Temple, stating that it is the deep temple and the people who are really in charge.",
+    "source_quote": "The Greater Temple is the deep temple. It's the people who are really in charge.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Voice Behind the Door",
+    "fact": "The Voice is an authoritative presence representing the Greater Temple, which has sealed itself and the lesser temples to await the conclusion of the war. It refuses entry or exit, implying the war is not yet over and survival is the prerequisite for meeting its masters.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out. ... Survive the fight, and maybe you'll get a chance.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The Wraith is an ancient entity feeding on the dead of the temple war, now empowered with seven specters raised from bodies the party killed, and has shifted from menacing presence to a calculating, almost collegial observer.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The Wraith is an ancient entity who has been feasting on the dead of the war for weeks, now has seven specter minions raised from bodies the party helped kill, and is willing to converse in exchange for acknowledgment and audience. He is no longer merely menacing but exhibits collegial warmth and a sense of shared purpose.",
+    "source_quote": "I now have minions. ... You provided me so much tasty food! Food! ... I want to thank you about something.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "The Wraith",
+    "fact": "The wraith is currently the only entity in the room willing to talk, having feasted on bodies we were responsible for and raised seven specters from them.",
+    "source_quote": "I now have minions.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr appreciated Calmer's energy but had learned not to rely on it as a tactical plan.",
+    "source_quote": "I appreciate the energy. I have learned not to rely on it as a tactical plan.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr believed the wraith was building something and wanted to make sure it built it for them.",
+    "source_quote": "Good, I thought. The wraith is building something. We need to make sure it builds it for us.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr had been wrong about who sat at the top before \u2014 Romag, then Hartsch, then them \u2014 and now understood the ceiling kept rising.",
+    "source_quote": "Every time I thought I'd found the ceiling, another one appeared above it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a leader who observes before acting, speaks only when necessary, and secures loyalty not through orders but through presence \u2014 he recruits by showing up where others abandon, and his words are chosen to land like stones in still water.",
+    "source_quote": "I don't rally people. I observe, I wait, I move.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a member of the Obsidian Edge who has assumed tactical leadership after returning from an undisclosed operation, offering fragmented, improvised strategy to Hartsch while withholding critical intelligence about the faction's role in escalating the war.",
+    "source_quote": "We've been fighting. We opened the door for you.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a pragmatic leader who responds to crises with decisive action, sacrifices strategic options to preserve lives, and recruits loyalty through presence rather than authority.",
+    "source_quote": "We are with you.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a pragmatic, decisive tactician who sacrifices information to the wraith to secure passage and physically confronts Hartsch\u2019s panic, but remains trapped in reactive leadership.",
+    "source_quote": "I don't have time for this one,\" \"What do you want me to do, what do you want me to do, what do you want me to do",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a strategist who prefers waiting out the war, allowing factions to exhaust each other, and has assumed de facto leadership despite not holding formal authority.",
+    "source_quote": "We wait it out.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is a warrior who misread the bugbear defector as seeking the Water Temple, then corrected himself upon realizing the true allegiance \u2014 Earth Temple \u2014 and pressed the defector for his intent, showing tactical awareness despite initial error.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is referenced by the wraith as the authority who triggered the battle and supplied the bodies that became minions.",
+    "source_quote": "You provided me so much tasty food! Food!",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr is the one who delivered the final line \u2014 'That's you' \u2014 confirming Ben as the hero of the moment, the one who stood against the undead and the traitors, and whose identity as the warrior of the earth temple was affirmed by others.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zephyr",
+    "fact": "Zephyr slapped Hartsch to dispel his panic and later ordered the retreat to the Earth Temple while recruiting the Broken Blades, demonstrating tactical pragmatism and leadership under crisis.",
+    "source_quote": "Zephyr slapped him. Walked up and slapped the panic right across his face. It didn't take. 'Okay, so we'll go straight to the Broken Blades,' Zephyr said. 'Use them as the distraction. Let Hartsch advance from the east, if Hartsch could find east. Go pull our men out of the water before the lie killed them.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia doesn't rally people. I observe, I wait, I move.",
+    "source_quote": "I don't rally people. I observe, I wait, I move.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia drifted in and finished off the first gnoll after the initial dagger strike.",
+    "source_quote": "Zinnia drifted in and finished what I'd left twitching.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is a companion who finished off the first slain gnoll after the initial strike from concealment, demonstrating coordinated lethality in ambush tactics.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is an observant strategist who uncovers Hartsch\u2019s deception by analyzing his map and body language, recognizing the lie beneath his initiative and the danger of misattributed authority.",
+    "source_quote": "I watched his face go still the way it does when the lie underneath finishes coming up.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is an observer who rarely speaks but when she does, her words carry irreversible weight \u2014 she anchors fractured groups not with promises, but with the simple, unflinching truth of shared presence.",
+    "source_quote": "I don't know what your plans are. But whatever your plans are, you are with us. We are with you.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the narrator who counts soldiers, recognizes Hartsch's collapse, and identifies the note as something she has lived inside of.",
+    "source_quote": "I know that man. I've redistributed treasure when nobody was looking. I've taken quests without asking the others. I've decided, on my own, in the dark, that I knew better than the people standing next to me.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia is the one who finished the last surviving specter after it refused to yield, flowing into another form and ending its clinging existence \u2014 a final act of decisive, almost ritualistic closure.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia stepped into the slaughterhouse chamber and spoke the true thing \u2014 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.' \u2014 restoring the Broken Blades' will to fight through personal presence, not command.",
+    "source_quote": "I stepped in front of them. Gore-soaked, hollow-eyed, finished men. I'd showed up. That mattered more than anything I could say. I'd walked in personally, past the wraith, into the room nobody sane would enter. So I said the true thing. 'I don't know what your plans are. But whatever your plans are, you are with us. We are with you.'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "npc",
+    "subject": "Zinnia",
+    "fact": "Zinnia understood Hartsch had inherited a war he didn't fully understand and was losing forces he couldn't replace.",
+    "source_quote": "Information he doesn't get to have. We built this; he inherited it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Air Temple Coins",
+    "fact": "Twenty gold coins stamped with the Air Temple insignia were found on the defected bugbear \u2014 they are not Kelno\u2019s, proving the betrayal is internal and orchestrated by a higher power within the Obsidian Edge.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "arrowheads",
+    "fact": "The arrowheads are the first physical sign of the Earth Temple\u2019s defensive posture \u2014 now rusted, broken, and abandoned, they symbolize the futility of resistance without clear leadership.",
+    "source_quote": "The arrowheads were the first thing I saw.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Broken Blades",
+    "fact": "The Broken Blades are the men recruited by the Obsidian Edge whose lives are now in the hands of a panicking quartermaster who acted without consultation.",
+    "source_quote": "The men whose lives were now sitting in the hands of a panicking quartermaster who couldn't decide where to put a chair.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Coins",
+    "fact": "Coins were pocketed as evidence and payment \u2014 originally left by the gnolls, they symbolize the transactional nature of the conflict and the narrator\u2019s pragmatic acceptance of its currency.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "coins",
+    "fact": "The coins were considered both evidence and payment.",
+    "source_quote": "Evidence and payment both.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Coins",
+    "fact": "The coins were pocketed as both evidence and payment; they were left behind by the gnolls and taken as spoils of the skirmish.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "coins",
+    "fact": "The narrator pocketed coins that had the wrong stamp on them.",
+    "source_quote": "gold with the wrong stamp on it, in the hands of a man who used to guard our wall. I pocketed the coins.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Conjured Light Weapon",
+    "fact": "The Conjured Light Weapon is a weapon of divine judgment, summoned and guided by Calmer\u2019s will \u2014 it does not burn, but purifies, and its glow is the only warmth he still trusts.",
+    "source_quote": "A weapon of conjured light hung at my shoulder, a thing of judgment that moved when I willed it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "defector's payment value",
+    "fact": "The sack contained twenty gold coins stamped with the Air Temple insignia.",
+    "source_quote": "twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "door",
+    "fact": "The sealed door represents the boundary between the Obsidian Edge\u2019s hidden operations and the visible battlefield \u2014 its opening is tied to the end of the war, but its true nature remains unknown.",
+    "source_quote": "The door opens when the battle ends.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Golden Aura of Summoned Spirits",
+    "fact": "The Golden Aura of Summoned Spirits is a field of divine radiance, drawn from a power Calmer has not named in this place in years \u2014 it is not merely light, but a declaration that some things still refuse to die.",
+    "source_quote": "A golden aura of summoned spirits, the radiance of a power I have not said aloud in this place in longer than I want to count...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Hartsch\u2019s Note",
+    "fact": "Hartsch\u2019s handwritten note \u2014 'I couldn't wait! I sent the Broken Blades to attack!' \u2014 is the physical proof of his betrayal, written in a voice the narrator recognizes as his own, revealing a shared moral rot.",
+    "source_quote": "I read it twice. Not because it was hard to read. Because I recognized it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Sack of Coins",
+    "fact": "The sack of coins contained twenty gold pieces stamped with the Air Temple insignia \u2014 not Kelno\u2019s, not Water Temple\u2019s \u2014 proving the defection was orchestrated by a hidden faction within the war council\u2019s upper echelons.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Seven Specters",
+    "fact": "Seven specters were raised from bodies we were responsible for, mostly Earth Temple forces, with recognizable robes, insignia, and silhouettes.",
+    "source_quote": "Seven specters. Raised from bodies we were responsible for.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "silver candlestick value",
+    "fact": "The silver candlesticks flanking the Lolth altar are worth 25 gp each.",
+    "source_quote": "a pair of heavy silver candlesticks worth 25 gp each",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Door",
+    "fact": "The door to the Greater Temple is held from the other side by something braced, barricaded, or committed to not opening, and it responds with a voice that speaks for the Greater Temple.",
+    "source_quote": "Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Note",
+    "fact": "The note left by Hartsch is written in his own hand and reads 'I couldn't wait! I sent the Broken Blades to attack!'",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Note",
+    "fact": "The note left by Hartsch reads 'I couldn't wait! I sent the Broken Blades to attack!' and is written in his own hand.",
+    "source_quote": "I couldn't wait! I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Sealed Door",
+    "fact": "The door to the Greater Temple is physically reinforced from the inside \u2014 braced, barricaded, or magically held shut \u2014 and resists all attempts to open it, including Calmer\u2019s hammering. It is the final barrier between the party and the true power behind the war.",
+    "source_quote": "Something held it from the other side: braced, or barricaded, or committed to not opening.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "The Wraith",
+    "fact": "The wraith was a sentient undead entity that guarded the choke point to the second level, demanded live bodies or intelligence, and had previously laughed at Calmer\u2019s failed turning rites, making it a personal nemesis.",
+    "source_quote": "The wraith, the one that had laughed at me twice, that had stood between us and the way down for too long, turned its empty face and said, almost delighted, 'Oh, you're back!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "object",
+    "subject": "Twenty Gold Coins with Air Temple Insignia",
+    "fact": "The twenty gold coins, bearing the Air Temple insignia, were used to bribe a bugbear into defection, falsely implicating Kelno and exposing a deeper conspiracy within the Obsidian Edge\u2019s hierarchy.",
+    "source_quote": "I went through the sack: twenty gold, and I turned a coin in the light because something was bugging me about the weight of it. The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Air Temple\u2019s Influence",
+    "fact": "The Air Temple\u2019s forged coins and hidden operatives suggest a deep infiltration of the war council \u2014 a faction that has been turning allies, framing rivals, and preparing for a coup beneath the surface of the Earth Temple\u2019s authority.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Are the Broken Blades Still Alive?",
+    "fact": "The fate of the Broken Blades is uncertain \u2014 they are isolated, misled, and surrounded by enemy forces, and their survival now depends entirely on the Obsidian Edge\u2019s ability to rescue them before the lie kills them.",
+    "source_quote": "Are we sure they're still alive? I meant the Broken Blades.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer's absence",
+    "fact": "The narrator knows they need Calmer out front for whatever is behind the door, but cannot afford to wait for him.",
+    "source_quote": "We needed him out front for whatever was in there. He absorbs what the rest of us can't afford to absorb. Without him that job doesn't get done.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer\u2019s Costume",
+    "fact": "Calmer\u2019s performance of elemental cult rhetoric during the confrontation suggests his clerical identity is slipping \u2014 is he truly devoted to St. Cuthbert, or has the cult\u2019s performance become his true self?",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Calmer\u2019s Permanent Wound",
+    "fact": "Calmer carries an unhealable cold wound from the Wraith \u2014 it is not physical, but existential \u2014 and he has chosen to remain broken, making him both vulnerable and terrifyingly potent.",
+    "source_quote": "I was going to walk the rest of this with the door open.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Fate of the Broken Blades",
+    "fact": "The fate of the Broken Blades is unknown after Hartsch\u2019s unauthorized attack \u2014 they may be dead, captured, or have turned the tide, but their loss will fracture trust in leadership.",
+    "source_quote": "The men whose lives were now sitting in the hands of a panicking quartermaster.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hartsch's loyalty",
+    "fact": "Hartsch is our nominal superior and he's a liability and the day is coming when those two facts resolve.",
+    "source_quote": "He'll be dealt with. That wasn't reassurance for them. It was a note to myself, the kind you don't say out loud because saying it spends it. He's our nominal superior and he's a liability and the day is coming when those two facts resolve.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hartsch\u2019s True Nature",
+    "fact": "Hartsch\u2019s actions reveal a pattern of self-deception and borrowed authority \u2014 he is not just reckless, but a mirror of the narrator\u2019s own hidden impulses, now amplified by consequence and leadership.",
+    "source_quote": "I couldn't wait is a sentence I have lived inside of.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hidden Betrayal in the Obsidian Edge",
+    "fact": "A high-ranking member of the Obsidian Edge (likely Air Temple-aligned) is manipulating the faction\u2019s conflicts \u2014 using Hartsch\u2019s recklessness and false attribution to fracture loyalty and sow chaos from within.",
+    "source_quote": "The real hand was a different one entirely.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Hidden Door",
+    "fact": "A secret door in the corridor, undetected until the gnolls burst through, reveals that the enemy had been observing the party\u2019s every move \u2014 a breach in security that threatens the integrity of the entire war council\u2019s defenses.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Identity of the Greater Temple's Authority",
+    "fact": "The true rulers of the Greater Temple remain hidden behind the door, offering only the condition of survival as a path to meeting them \u2014 suggesting a higher power controlling the war\u2019s outcome.",
+    "source_quote": "Survive the fight, and maybe you'll get a chance.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "is Hartsch\u2019s leadership is real or performative?",
+    "fact": "Hartsch has stopped pretending to lead \u2014 but whether he has truly surrendered command, or is waiting for the Obsidian Edge to fail so he can reclaim authority, remains unresolved.",
+    "source_quote": "The moment when a man who has been pretending to be in charge finally stops pretending.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Kelno\u2019s Recruitment Network",
+    "fact": "Kelno\u2019s pattern of poaching from other temples suggests a broader, organized, and deeply unethical recruitment operation \u2014 its scope and sponsors remain unknown.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Meeting the Masters of the Greater Temple",
+    "fact": "The party has been given a conditional invitation to meet the unseen rulers of the Greater Temple: survive the war. The path forward hinges on navigating the wraith\u2019s growing power, the sealed doors, and the unresolved conflict that continues to claim lives.",
+    "source_quote": "Survive the fight, and maybe you'll get a chance.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "missing healer",
+    "fact": "With Calmer incapacitated and unusable, the party lacks a healer; this creates a critical vulnerability for any further operations into the stronghold beyond the secret door.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Missing Healer",
+    "fact": "Without Calmer, the group lacks a healer \u2014 a critical vulnerability for any future incursion into the Water Temple, making their mission a reconnaissance-only operation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "recruitment by purchase",
+    "fact": "Loyalty in the temple lasts only as long as the coin is warm.",
+    "source_quote": "everyone in this temple was buying everyone else, and the loyalty lasted exactly as long as the coin was warm.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "secret door to water temple",
+    "fact": "The narrator questioned whether the secret door led to the Water Temple.",
+    "source_quote": "\"This leads to the water temple?\" I said, already counting what might be behind it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Sequoia's Moral Reflection",
+    "fact": "Sequoia recognizes his own past actions in Hartsch\u2019s note, forcing him to confront whether he is any different from the man who abandoned command.",
+    "source_quote": "I've decided, on my own, in the dark, that I knew better than the people standing next to me.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Temple-wide Loyalty Transactions",
+    "fact": "Loyalty across the temples is treated as a commodity \u2014 defections are bought, investments are killed, and revenge is demanded. The entire system is transactional, corrupt, and collapsing.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Broken Blades",
+    "fact": "The fate of the Broken Blades is unspecified after Hartsch sent them to attack without orders.",
+    "source_quote": "I sent the Broken Blades to attack!",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Cold That Cannot Mend",
+    "fact": "The Cold That Cannot Mend is the permanent void left in Calmer by the Wraith\u2019s touch \u2014 it is not a wound, but an absence, and its existence means he will never again be whole, nor will he ever speak of the power he used to fight it.",
+    "source_quote": "No light I carry would fill that back in. I was going to walk the rest of this with the door open.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Conspiracy of the Air Temple",
+    "fact": "The Air Temple used forged coins and false narratives to manipulate the Obsidian Edge\u2019s internal loyalties, framing Kelno for bribery and exploiting the failed raid to destabilize the faction from within.",
+    "source_quote": "The stamp wasn't Kelno's. Wasn't water at all. Air Temple insignia, pressed clean into every piece. ... 'We paid good money for that! Now we will get our money, and get food!'",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Greater Temple's true nature",
+    "fact": "The identity of the 'people who are really in charge' in the Greater Temple remains unspecified.",
+    "source_quote": "It's the people who are really in charge.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Name That Wasn't Spoken",
+    "fact": "The Name That Wasn't Spoken is Hartsch \u2014 his crimes are known, his punishment inevitable, but to say his name aloud is to spend the reckoning \u2014 so it remains a silent vow, a stone in the throat, a shadow behind every decision.",
+    "source_quote": "He's our nominal superior and he's a liability and the day is coming when those two facts resolve.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Narrator\u2019s Tiefling Identity",
+    "fact": "The narrator\u2019s tiefling nature has been recognized and targeted as prey \u2014 a recurring theme where others react to their existence with hunger or fear, and the narrator responds with lethal efficiency.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Pledge That Wasn't Given",
+    "fact": "The Pledge That Wasn't Given is the unspoken loyalty between Calmer and the Broken Blades \u2014 it was not sworn to a banner or a name, but to the man who walked into the slaughterhouse and said, 'You are with us.'",
+    "source_quote": "Not loyalty to an order. Loyalty to the person who showed up when the order left them there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Real Hand",
+    "fact": "The real hand behind the defection is not Kelno \u2014 it is the Air Temple, operating from within the war council\u2019s own ranks. The question is: who else has been bought? Who else is still standing on the wall \u2014 and watching?",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Rite of Turning",
+    "fact": "Calmer has failed the rite of turning twice before \u2014 its success now is not just tactical, but spiritual, breaking a cycle of shame and proving his resolve in the face of irreversible loss.",
+    "source_quote": "The third time. I called it.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Romag room",
+    "fact": "The significance of the Romag room \u2014 where the apostles slept \u2014 and its connection to legacy and authority is left unexplored.",
+    "source_quote": "Zephyr wanted the Romag room. The dead man's quarters, the one place in this building nobody would think to bother us.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The true architect of the betrayal",
+    "fact": "Kelno hadn't bought him. Somebody upstairs had let us believe Kelno was the one pulling at our bugbears, and the real hand was a different one entirely.",
+    "source_quote": "Kelno hadn't bought him. Somebody upstairs had let us believe Kelno was the one pulling at our bugbears, and the real hand was a different one entirely.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The voice behind the door",
+    "fact": "The identity of the voice behind the sealed Greater Temple door remains unknown.",
+    "source_quote": "The Greater Temple is sealed until the battle is over. No one gets in, no one gets out.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "The Wraith's Loyalty",
+    "fact": "The Wraith, though currently aligned with the party through gratitude, may turn against them once his power grows, or once he no longer needs their corpses to sustain his army.",
+    "source_quote": "I can't wait till you come back here! I will be waiting!",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "tiefling as prey",
+    "fact": "The gnoll recognized the narrator as a tiefling and expressed desire to consume their flesh; this reinforces a recurring theme: the narrator's existence is perceived as a resource to be exploited by hostile entities.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "tiefling prejudice",
+    "fact": "The narrator has been threatened for being a tiefling by a dryad, a gnome guard, and now a gnoll.",
+    "source_quote": "A dryad once asked if I'd crawled out of the Abyss to torment her; a gnome guard once asked *or whatever you are*; and now a starving Air Temple dog wanted me on a spit.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "unknown route beyond the door",
+    "fact": "The secret door opens into an unexplored path; its destination is uncertain, but the party must now decide whether to attempt a recon mission without a healer.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Water Temple Passage",
+    "fact": "The open secret door leads to the Water Temple \u2014 unexplored, potentially hostile, and now the group\u2019s only viable next objective, pending reconnaissance.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Who Holds the Authority?",
+    "fact": "No one in the group truly claims leadership; authority is passed like a burden, each person refusing to hold the responsibility they\u2019re given, creating a vacuum exploited by Hartsch\u2019s deception.",
+    "source_quote": "Nobody in this room wants to hold the thing they're holding.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "who really started the war?",
+    "fact": "The Obsidian Edge engineered the four-temple conflict, but their role remains hidden from Hartsch and his soldiers \u2014 the unresolved question of who truly began the war is the central deception driving the current power vacuum.",
+    "source_quote": "We built this; he inherited it.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "will the Obsidian Edge disappear again?",
+    "fact": "The Earth Temple soldiers watch the Obsidian Edge with suspicion \u2014 fearing they will vanish once more, leaving the survivors to die, as they did before the return.",
+    "source_quote": "They were watching us, the Obsidian Edge, waiting to see if we were about to disappear on them again.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zephyr's understanding of leadership",
+    "fact": "Zephyr recognized that leadership in this war was being passed around like a burden no one wanted to hold.",
+    "source_quote": "I thought: nobody in this room wants to hold the thing they're holding.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1
+  },
+  {
+    "type": "thread",
+    "subject": "Zinnia\u2019s Unspoken Loyalty",
+    "fact": "Zinnia\u2019s rare act of rallying the Broken Blades with a single phrase suggests a deeper, unrecorded bond with the faction \u2014 she does not lead with words, but with presence, and this moment may be the foundation of a new covenant.",
+    "source_quote": "I'd showed up. That mattered more than anything I could say.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1
+  }
+]
