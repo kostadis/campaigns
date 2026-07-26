@@ -158,7 +158,7 @@ Zalthir can see the feigned irritation in Daz’s eyes, “When I have it. To ke
 Zalthir is impressed and worried. Daz seems far too comfortable in this nest of scorpions. 
 
 
-She claps in her hands, “A fantastic idea. You must talk to Clan Ironhead or Clan Xardelva. Clan Ironhead is forbidden from taking weapons directly and may only take surplus orders from Clan Steelshadow. The Deepking has been sending all orders to his clan, Clan Steelshadow. Clan Ironhead is upset with the loss of business. As for Clan Xardelva, they are worried that their work will be seen as too similar to weaponsmithing, and Clan Steelshadow will take them over. Both of these clans are seen as opposing the Deepking. As the head of the Stone Guard, anyone who sees you talking to them will assume we cannot work together.”  
+She claps in her hands, “A fantastic idea. You must talk to Clan Ironhead or Clan Xardelvar. Clan Ironhead is forbidden from taking weapons directly and may only take surplus orders from Clan Steelshadow. The Deepking has been sending all orders to his clan, Clan Steelshadow. Clan Ironhead is upset with the loss of business. As for Clan Xardelvar, they are worried that their work will be seen as too similar to weaponsmithing, and Clan Steelshadow will take them over. Both of these clans are seen as opposing the Deepking. As the head of the Stone Guard, anyone who sees you talking to them will assume we cannot work together.”  
 
 
 Zalthir looks at Daz, Errde, and then walks through the door. A thousand times the darkness of his spells than the plots and fogs of the plots of the Drow and the Duergar. 

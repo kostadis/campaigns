@@ -147,7 +147,7 @@ So I cast Toll the Dead, and the deadly chimes echo throughout the caves, but on
 I look at Ulnara, who realizes that I am Drow. And that the Drow do not mess around. 
 
 
-“Thank you for this new supply! I know you will tell Plinki that I Ulnar,a did much to help the Ember Vanguard!” 
+“Thank you for this new supply! I know you will tell Plinki that I Ulnara did much to help the Ember Vanguard!” 
 
 
 “We shall, certainly,” says Grygum in his preacher’s voice. 

@@ -193,7 +193,7 @@ And if a Myconid could sob, Basidia would be crying.
 Limp in my arms, I drag them to the safety of the Circle of Explorers, where their allies are. Rasharoo, Loobamub, and the circle of hunters and explorers have gathered near one of the exit holes that Rasharoo had identified. I can tell they are in a deep mind meld. 
 
 
-As we leave the Neverlight Grove and its madness, Basidia turns to us and hands some potions of greater healing and what little treasure the Mykonids had accumulated over the years from passersby.  
+As we leave the Neverlight Grove and its madness, Basidia turns to us and hands some potions of greater healing and what little treasure the Myconids had accumulated over the years from passersby.  
 
 
 As we head into the Underdark, Rasharoo tells us that he can provide us with a guide for half the distance to Blingdenstone, but after that, we are on our own.
@@ -224,7 +224,7 @@ Zalthir tries to ask about the insanity of it all, and I look at him; he stares 
 Today, Rasharoo bids us farewell. 
 
 
-Before all the Mykonids depart, Rump-a-dump approaches Zalthir. They look at them and say that they have a list of ways in which they could improve. Before Zalthir can tell them that he is not interested in any of them, Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - “Listen to Stool, he knows what he is doing. Don’t assume you know everything; other people’s points of view are important. Or my favorite, - Eat more Zurkhwood, it's good for your digestion.” 
+Before all the Myconids depart, Rump-a-dump approaches Zalthir. They look at them and say that they have a list of ways in which they could improve. Before Zalthir can tell them that he is not interested in any of them, Rump-a-dump enumerates fifty or so specific things Zalthir could do to be better. Things like - “Listen to Stool, he knows what he is doing. Don’t assume you know everything; other people’s points of view are important. Or my favorite, - Eat more Zurkhwood, it's good for your digestion.” 
 
 
 Stool and Rump-a-dump look at me, and they say - “Goodbye!” and I think there is a hint of sadness, but they are with their people now. 

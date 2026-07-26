@@ -1,7 +1,7 @@
 # Chapter 54 The Candlekeep Murders
 
 
-## Daz — Reporting to Bookworm
+## Daz — Reporting to Bookwyrm
 
 Fembris Lancer practically vibrated. The adjutant had attached himself to us the way an acolyte attaches to anyone who might be doing something more interesting than copying manuscripts, and he was not going to let us forget the assignment. "I think it's important that we need to go," he said, "we need to go back to the great — the chapter house, and talk to a Bookwyrm, to give her a summary of what happens. After all, don't forget, that is exactly what she asked us to do, to provide a summary of the events."
 
