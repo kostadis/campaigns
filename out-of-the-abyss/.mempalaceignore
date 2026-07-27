@@ -47,12 +47,20 @@ notes/
 # come from exactly one place. v2/npcs/ was last updated 2026-06-29 and had
 # 124+ entities duplicated in merged_dossiers; leaving both mined meant a
 # ~4-week-stale dossier could outrank the current one on a query.
-# KNOWN GAP (accepted 2026-07-27): merged_dossiers is broader overall
-# (442 entities vs 221) but is NOT a strict superset. `brother_vareth`,
-# `asha_vandry` and `blind_monk` exist only in v2/npcs/ and are no longer
-# searchable. Others that look missing are just naming differences —
-# v2 `bookwyrm` is merged_dossiers `npc_bookwyrm_first_reader`, v2 `basidia`
-# is `npc_sovereign_basidia`. Re-check this list when ensemble is re-run.
+# COVERAGE: verified good (2026-07-27). An earlier version of this comment
+# claimed `brother_vareth`, `asha_vandry` and `blind_monk` were lost by this
+# exclusion. RETRACTED — all three are reachable:
+#   brother_vareth -> npc_vareth.md          (honorific dropped in the merge)
+#   asha_vandry    -> npc_asha_vandree.md    (spelling normalised)
+#   blind_monk     -> no dossier, but the scene is in the narrative wing
+#                     (chapter_55_...) which CLAUDE.md treats as authoritative
+# The bad claim came from grepping the FULL v2 filename against
+# merged_dossiers. Grep the distinctive component (`vareth`, not
+# `brother_vareth`) — the merge drops honorifics and normalises spelling.
+# Also note v2/npcs/ stores variants of one entity as separate files
+# (vareth.md AND brother_vareth.md; asha.md, asha_vandree.md AND
+# asha_vandry.md), so a raw name-set diff overstates any gap. Query the
+# palace before declaring something missing. See MEMPALACE_HORIZON.md.
 docs/v2/npcs/
 
 # Superseded by docs/ensemble/merged_dossiers/ as of the chapter 59 release.

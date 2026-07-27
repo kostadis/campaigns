@@ -189,13 +189,43 @@ back to onnxruntime embeddings without re-mining).
   59 only `merged_dossiers/` feeds the palace. `docs/v2/`'s *grounding*
   docs (world_state / party / planning / campaign_state / threads) are
   still mined — only its `npcs/` subdir is excluded.
-  **Accepted coverage gap:** merged_dossiers is broader but not a
-  strict superset. `brother_vareth`, `asha_vandry` and `blind_monk`
-  lived only in `docs/v2/npcs/` and are no longer searchable. Some
-  apparent gaps are only naming differences (v2 `bookwyrm` is
-  `npc_bookwyrm_first_reader`; v2 `basidia` is `npc_sovereign_basidia`),
-  so re-check against real filenames before concluding something is
-  missing. Re-run this comparison whenever ensemble is regenerated.
+  **Coverage: verified good. An earlier version of this file claimed a
+  three-entity gap — that claim was wrong and is retracted.** It said
+  `brother_vareth`, `asha_vandry` and `blind_monk` had become
+  unsearchable. Checked against the live palace:
+
+  | claimed missing | actually |
+  |---|---|
+  | `brother_vareth` | `npc_vareth.md` — full dossier, 15 facts, ch54–60 |
+  | `asha_vandry` | `npc_asha_vandree.md` — spelling variant |
+  | `blind_monk` | no entity dossier, but the scene is in `chapter_55_candlekeep_trials_truths_and_therapy.md` (narrative) and `session_doc_scene_05_zalthir_s_trial_of_the_broken_mirror.md` (summaries) |
+
+  **How the wrong claim was produced, so it isn't repeated:** the check
+  compared v2 filenames against merged_dossiers filenames with the
+  entity's *full* v2 name (`grep -i brother_vareth`). merged_dossiers
+  drops honorifics and normalises spelling, so the file is
+  `npc_vareth.md` and the grep found nothing. Grep the **distinctive
+  component** (`vareth`, `asha`), never the whole v2 filename.
+
+  This is the same naming trap already known for v2 `bookwyrm` →
+  `npc_bookwyrm_first_reader` and v2 `basidia` →
+  `npc_sovereign_basidia`. Note also that `docs/v2/npcs/` holds
+  *variants of the same entity as separate files* — `vareth.md` **and**
+  `brother_vareth.md`; `asha.md`, `asha_vandree.md` **and**
+  `asha_vandry.md` — which is precisely the fragmentation the ensemble
+  merge collapses. **Any raw name-set diff between v2 and
+  merged_dossiers is inflated by this and should not be quoted as a
+  coverage figure** (the "97 names missing" number from the chapter 59
+  run is unreliable for the same reason).
+
+  Before declaring anything missing, query the palace rather than
+  diffing filenames — and remember the narrative wing is authoritative
+  per `CLAUDE.md`, so an entity with no dossier can still be fully
+  reachable. Re-check whenever ensemble is regenerated.
+
+  > The `oota-chapter-59` tag message and commit `6e31649` still carry
+  > the retracted claim. Both are immutable and already fetched, so they
+  > were left alone; this file is the living record and wins.
 - **The palace indexes prose only.** `.mempalaceignore` now excludes
   `*.json`, `*.yaml`, `*.txt`, `*.pdf`, `*.log`, `*.sqlite3` and
   friends, plus `scratch/`. Before this, the root mine ingested 137
