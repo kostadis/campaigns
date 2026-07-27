@@ -1,0 +1,3 @@
+# New notes for Kalan Strongbranch (from dossier_extract_060.md)
+
+Strongbranch does not act in this chunk but his belongings and caution are central. A key that once hung around his neck came into Grygum's possession; Grygum handed it to Daz to make it his problem. The reason for Strongbranch's nerves became clear: the stolen sapphire carried a summoning working that could pull an item to you, but only an item not in anyone's possession — and a dead man possesses nothing, while an undead can. So the cleanest way to free a man's key from his possession was to make him a corpse. Strongbranch, having carried the key for years, handed it off rather than wear it — paranoid, but the caution of a man who understood the danger.
