@@ -29,7 +29,9 @@ party:
   extract_dir: docs/party_extract
   split_chapters: '# Chapter'
   chunk_size: 60000
-  context: []
+  context:
+  - docs/campaign_state_classic.md
+  - docs/world_state_classic.md
   no_log: false
   mode: config
   config_path: config/party.yaml
@@ -37,20 +39,20 @@ party:
   backstory: []
   arc_scores: []
 planning:
-  input: null
+  input: docs/TheUnderdark.md
   output: null
   extract_dir: null
   split_chapters: '# Chapter'
   chunk_size: 60000
   context: []
   no_log: false
-  synth_mode: config
+  synth_mode: flat
   config_path: null
   npc: []
   arc_scores: []
   dossiers:
-    summaries: null
+    summaries: docs/TheUnderdark.md
     dossier_dir: docs/npcs/
-    extract_dir: null
+    extract_dir: docs/planning_extractions
     split_chapters: '# Chapter'
     since: 0

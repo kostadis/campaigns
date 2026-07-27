@@ -10,31 +10,31 @@
       "id": "party_daz",
       "label": "Daz",
       "type": "party",
-      "summary": "A houseless drow exile wizard and tactical architect who is the unwitting bait in House T'sarran's operation to identify his anonymous Menzoberranzan patron."
+      "summary": "Drow evoker and ex-Menzoberranzan exile, lead investigator whose hidden origins drive the campaign."
     },
     {
       "id": "party_zalthir",
       "label": "Zalthir",
       "type": "party",
-      "summary": "A Shadow Monk dragonborn who serves as the party's primary grappler and controller, deeply bonded with Daz and serving as Glabbagool's informal mentor."
+      "summary": "Bronze dragonborn Shadow Monk, the party's silent tactical architect and moral anchor, bonded to Glabbagool."
     },
     {
       "id": "party_grygum",
       "label": "Grygum",
       "type": "party",
-      "summary": "A half-orc cleric of Bahamut with a heterodox theology believing dragons choose alignment freely, now sought after by Candlekeep scholars."
+      "summary": "Orc cleric of Bahamut, compulsive documentarian, healer, and founder of the Grygumite School."
     },
     {
       "id": "faction_the_ember_vanguard",
-      "label": "The Ember Vanguard",
+      "label": "the Ember Vanguard",
       "type": "faction",
-      "summary": "The player character party operating under this cover name, heroes of Blingdenstone and wanted criminals in Gracklstugh."
+      "summary": "The party's self-styled identity, now legend and misattributed for crimes across Gracklstugh."
     },
     {
       "id": "npc_glabbagool",
       "label": "Glabbagool",
       "type": "npc",
-      "summary": "A formerly mindless gelatinous cube that gained sentience, now traveling as a grey ooze in the party's bag of holding and guarding the captured T'sarran spy."
+      "summary": "Sentient grey ooze bonded to Zalthir's forearm, holding a captured House T'sarran spy inside."
     },
     {
       "id": "npc_eldeth",
@@ -46,49 +46,49 @@
       "id": "npc_spiderbait",
       "label": "Spiderbait",
       "type": "npc",
-      "summary": "A goblin former guide through the Silken Paths who is now at Candlekeep seeking surface-world employment."
+      "summary": "Goblin guide traveling with the party, traumatized by the murder of his friend Yuk Yuk."
     },
     {
       "id": "npc_asha_vandree",
       "label": "Asha Vandree",
       "type": "npc",
-      "summary": "A deceased drow cleric who allied with the party to kill Ilvara Mizzrym, then attempted to seize command and was killed by Zalthir."
+      "summary": "Lolth/Zuggtmoy syncretist cleric killed by Zalthir, author of a treatise equating the two goddesses."
     },
     {
       "id": "npc_nym_duskryn",
       "label": "Nym Duskryn",
       "type": "npc",
-      "summary": "A drow mercenary who fulfilled a contract to protect Daz from Houses Mizzrym and T'sarran but does not know the identity of the anonymous patron who hired her."
+      "summary": "House Duskryn mercenary contractually blocking other drow houses from killing Daz."
     },
     {
       "id": "npc_kaelira_duskryn",
-      "label": "Kaelira (Duskryn)",
+      "label": "Kaelira Duskryn",
       "type": "npc",
-      "summary": "Nym Duskryn's sister and professional partner who also fulfilled the protection contract for Daz and departed with slightly warmer regard for him."
+      "summary": "House Duskryn mercenary contracted to protect Daz, investigating his blank patron entry."
     },
     {
       "id": "npc_jorlan_duskryn",
       "label": "Jorlan Duskryn",
       "type": "npc",
-      "summary": "A scarred drow warrior and estranged sibling of the Duskryn sisters whose primary motivation was revenge against Ilvara Mizzrym, now of unknown status after the final battle."
+      "summary": "Daz's severely wounded brother, obsessed with the dead Ilvara Mizzrym."
     },
     {
       "id": "npc_ilvara_mizzrym",
       "label": "Ilvara Mizzrym",
       "type": "npc",
-      "summary": "The deceased drow High Priestess of Lolth who commanded Velkynvelve, secretly corrupted by Zuggtmoy, and killed by Grygum's Guiding Bolt in the final confrontation."
+      "summary": "Drow priestess of Lolth corrupted into Zuggtmoy's vessel and destroyed at her ritual site."
     },
     {
       "id": "npc_jimjar",
-      "label": "JimJar",
+      "label": "Jimjar",
       "type": "npc",
-      "summary": "A deep gnome companion revealed to possess celestial immunities who vanished with a wink from Blingdenstone, leaving behind an inert bone die and unresolved questions about his true nature."
+      "summary": "Gambling companion revealed as a celestial being who vanished from existence carrying a truth-telling bone die."
     },
     {
       "id": "npc_stool",
       "label": "Stool",
       "type": "npc",
-      "summary": "A myconid sprout companion safely evacuated from Neverlight Grove who departed with Basidia and Rusharoo into the Underdark."
+      "summary": "Young myconid companion who returned to the corrupted Neverlight Grove."
     },
     {
       "id": "npc_rump_a_dump",
@@ -166,7 +166,7 @@
       "id": "npc_buppido",
       "label": "Buppido",
       "type": "npc",
-      "summary": "A deceased derro serial killer who believed himself divinely chosen, murdered Yuk Yuk, and was killed by Daz's magic missiles in the Whorlstone Tunnels."
+      "summary": "Derro serial killer and false prophet slain by Daz in Gracklstugh."
     },
     {
       "id": "npc_derendil",
@@ -196,19 +196,19 @@
       "id": "npc_gartokkar_xundorn",
       "label": "Gartokkar Xundorn",
       "type": "npc",
-      "summary": "The Keeper of the Flame in Gracklstugh who received the demonic dragon egg believing it was a legitimate replacement for Themberchaud and does not know it contains a demon."
+      "summary": "Custodian of the Flame who secretly controls Themberchaud and holds the corrupted dragon egg."
     },
     {
       "id": "npc_errde_blackskull",
       "label": "Errde Blackskull",
       "type": "npc",
-      "summary": "The Stone Guard captain at Overlake Hold in Gracklstugh who hired the party and likely informed drow of their passage."
+      "summary": "Captain of the Stone Guard hunting Droki and the 'Empty Scabbard Killers'."
     },
     {
       "id": "npc_themberchaud",
       "label": "Themberchaud",
       "type": "npc",
-      "summary": "The obese red dragon Wyrmsmith of Gracklstugh who falsely believes the party are his agents and is unaware the dragon egg he received is a corrupted demonic artifact."
+      "summary": "Enslaved red dragon 'glorified lighter' for Gracklstugh's forges who believes himself sovereign."
     },
     {
       "id": "npc_werz_saltbaron",
@@ -220,13 +220,13 @@
       "id": "npc_dorbo_diggermattock",
       "label": "Dorbo Diggermattock",
       "type": "npc",
-      "summary": "The chief of Blingdenstone's mining faction who is reopening the city for surface trade but shows signs of residual Juiblex-linked greed and aggression."
+      "summary": "Deep gnome leader ruling the restored city of Blingdenstone."
     },
     {
       "id": "npc_senni_diggermattock",
       "label": "Senni Diggermattock",
       "type": "npc",
-      "summary": "Dorbo's more pragmatic partner in leading Blingdenstone, focused on stabilizing the civilian population and wererat integration."
+      "summary": "Deep gnome quartermaster helping rule the stabilized Blingdenstone."
     },
     {
       "id": "npc_chipgrin",
@@ -256,13 +256,13 @@
       "id": "npc_eldgrim",
       "label": "Eldgrim",
       "type": "npc",
-      "summary": "A leader of the Empty Scabbard Killers assassin group in Gracklstugh who made a deal with the party to eliminate the Demogorgon cult."
+      "summary": "Leader of the Soulblades assassin guild who demanded the party eliminate Demogorgon's cultists."
     },
     {
       "id": "npc_ploopploopeen",
       "label": "Ploopploopeen",
       "type": "npc",
-      "summary": "A kuo-toa archpriest of the Sea Mother whose betrayal of his daughter Bloppblippodd completed the ritual summoning Demogorgon; presumed dead after Sloobludop's destruction."
+      "summary": "Kuo-toa priest who died summoning Demogorgon at Sloobludop."
     },
     {
       "id": "npc_bloppblippodd_blopp",
@@ -280,13 +280,13 @@
       "id": "npc_narrak",
       "label": "Narrak",
       "type": "npc",
-      "summary": "A deceased derro savant and Demogorgon cultist whose ritual to curse stone giants with two-headedness was stopped when Thorin killed him."
+      "summary": "Demogorgon cult leader killed by Thorin in Gracklstugh."
     },
     {
       "id": "npc_plinki",
       "label": "Plinki",
       "type": "npc",
-      "summary": "Derro cultist who attempted to corrupt a stolen dragon egg into a two-headed demonic wyrmling and was killed by Zalthir's fire breath."
+      "summary": "Derro Demogorgon high priest who sought to transform the dragon egg into a mount, now dead."
     },
     {
       "id": "npc_xinaya",
@@ -302,15 +302,15 @@
     },
     {
       "id": "npc_yuk_yuk",
-      "label": "Yuk-Yuk",
+      "label": "Yuk Yuk",
       "type": "npc",
-      "summary": "A goblin guide through the Silken Paths who was murdered by Buppido during the party's journey."
+      "summary": "Goblin murdered on the Silken Paths, whose death traumatized Spiderbait."
     },
     {
       "id": "npc_dawnbringer",
       "label": "Dawnbringer",
       "type": "npc",
-      "summary": "A sentient sunblade carried by Thorin that deals double radiant damage against fungi and undead and has strong opinions about its purpose."
+      "summary": "Sentient Netherese sunblade wielded by Thorin, healing from millennia of darkness through therapy."
     },
     {
       "id": "npc_the_garden_shadow",
@@ -334,25 +334,25 @@
       "id": "npc_the_matron_mother_of_house_t_sarran",
       "label": "The Matron Mother of House T'sarran",
       "type": "npc",
-      "summary": "An unnamed drow matron who has ruled House T'sarran for 200 years and is using Daz as bait to identify his anonymous patron."
+      "summary": "Head of House T'sarran awaiting word from the Underdark events regarding Daz."
     },
     {
       "id": "faction_house_mizzrym",
       "label": "House Mizzrym",
       "type": "faction",
-      "summary": "A drow house whose high priestess Ilvara Mizzrym was killed by the party; the house is sending escalating unanswered correspondence and does not yet know she is dead."
+      "summary": "Drow noble house destabilized by Ilvara's death that still seeks Daz's death."
     },
     {
       "id": "faction_house_t_sarran",
       "label": "House T'sarran",
       "type": "faction",
-      "summary": "A 200-year-old Menzoberranzan drow house whose matron is using Daz as bait to identify his anonymous patron and has deployed multiple surface agents against the party."
+      "summary": "Drow noble house hunting Daz alive to identify his patron, using miniaturized spies."
     },
     {
       "id": "faction_house_duskryn",
       "label": "House Duskryn",
       "type": "faction",
-      "summary": "The drow house of the Duskryn mercenary sisters who fulfilled a contract to protect Daz from Houses Mizzrym and T'sarran."
+      "summary": "Drow mercenary house contracted through cutouts to protect Daz."
     },
     {
       "id": "faction_cult_of_lolth",
@@ -388,7 +388,7 @@
       "id": "faction_council_of_savants",
       "label": "Council of Savants",
       "type": "faction",
-      "summary": "Gracklstugh's derro governing body that was heavily infiltrated by the Demogorgon cult using 'Y' carvings to indoctrinate members."
+      "summary": "Derro scholarly body corrupted by collaboration with Plinki's Demogorgon ritual."
     },
     {
       "id": "faction_diggermattock_leadership",
@@ -418,31 +418,31 @@
       "id": "location_velkynvelve",
       "label": "Velkynvelve",
       "type": "location",
-      "summary": "The destroyed drow outpost where the party was originally imprisoned, now cleared with Ilvara Mizzrym dead and the Heart Fungus destroyed."
+      "summary": "Ilvara Mizzrym's drow outpost where the prisoners began their escape."
     },
     {
       "id": "location_gracklstugh",
       "label": "Gracklstugh",
       "type": "location",
-      "summary": "A duergar city-state in the Underdark experiencing political instability, mass executions, and wanted posters for the Ember Vanguard."
+      "summary": "Duergar metropolis destabilized by the party's actions and ruled by the paranoid Deepking."
     },
     {
       "id": "location_sloobludop",
       "label": "Sloobludop",
       "type": "location",
-      "summary": "A destroyed kuo-toa settlement on the Darklake shore where Demogorgon was summoned and rose to destroy the town."
+      "summary": "Kuo-toa town razed when Demogorgon was summoned during a cult schism."
     },
     {
       "id": "location_neverlight_grove",
       "label": "Neverlight Grove",
       "type": "location",
-      "summary": "A myconid settlement now largely under Zuggtmoy's control via Phylo, where the demon queen is preparing her wedding ritual with Araumycos."
+      "summary": "Myconid settlement corrupted by Zuggtmoy under Sovereign Phylo."
     },
     {
       "id": "location_blingdenstone",
       "label": "Blingdenstone",
       "type": "location",
-      "summary": "A deep gnome settlement saved from an ooze incursion by the party, now celebrating them as legendary heroes and reopening for surface trade."
+      "summary": "Deep gnome city restored and stabilized by the party after ending the ooze crisis."
     },
     {
       "id": "location_the_darklake",
@@ -466,19 +466,19 @@
       "id": "location_whorlstone_tunnels",
       "label": "Whorlstone Tunnels",
       "type": "location",
-      "summary": "A network of tunnels beneath Gracklstugh where Buppido's shrine, Narrak's ritual, the Demogorgon cult obelisk, and the Gray Ghost conspiracy were all discovered and cleared."
+      "summary": "Gracklstugh tunnel network where the Demogorgon cult's egg ritual took place."
     },
     {
       "id": "location_cairngorm_cavern",
       "label": "Cairngorm Cavern",
       "type": "location",
-      "summary": "The sealed home of the stone giant elder Hgraam near Gracklstugh, now closed after the party's second audience."
+      "summary": "Cavern home of the reclusive oracle Stonespeaker Hgraam."
     },
     {
       "id": "location_menzoberranzan",
       "label": "Menzoberranzan",
       "type": "location",
-      "summary": "The drow city where Daz originated, where his anonymous patron and House T'sarran are both based, and where House Mizzrym is headquartered."
+      "summary": "Drow city-state, source of Daz and the hidden patron who protects him."
     },
     {
       "id": "location_the_surface_the_overbright",
@@ -592,7 +592,7 @@
       "id": "party_thorin",
       "label": "Thorin",
       "type": "party",
-      "summary": "A dwarf fighter raised by hill giants, wielder of the sentient sunblade Dawnbringer, and honorary member of the Diggermattock Miners."
+      "summary": "Dwarf raised by hill giants, Battle Master fighter and wielder of the sentient sunblade Dawnbringer."
     },
     {
       "id": "npc_daz_s_anonymous_patron",
@@ -610,7 +610,7 @@
       "id": "npc_droki",
       "label": "Droki",
       "type": "npc",
-      "summary": "A hostile derro courier in Gracklstugh whose delivery routes exposed the underlying Whorlstone Tunnels conspiracy."
+      "summary": "Derro courier carrying messages between corrupt Gracklstugh factions, aiding the egg transformation."
     },
     {
       "id": "npc_topsy",
@@ -676,7 +676,7 @@
       "id": "npc_vareth",
       "label": "Vareth",
       "type": "npc",
-      "summary": "A Candlekeep avowed scholar assigned to interview Grygum about his Bahamut conversion and whose niche field expanded after Stroud defeated Protanther at chess."
+      "summary": "Senior Candlekeep librarian and Grygum's handler who appropriated his theology into a published thesis."
     },
     {
       "id": "npc_philemon",
@@ -688,7 +688,7 @@
       "id": "npc_khell_vire",
       "label": "Khell-Vire",
       "type": "npc",
-      "summary": "A Candlekeep avowed scholar with an existing specific interest relevant to the Jimjar inquiry, assigned to Zalthir's research question."
+      "summary": "Owner of a desk bearing the cryptic 'until the Bone King sings' note tied to Zalthir's lineage."
     },
     {
       "id": "npc_gorg_bahamut",
@@ -700,7 +700,7 @@
       "id": "npc_shal",
       "label": "Shal",
       "type": "npc",
-      "summary": "A mysterious advisor to Gracklstugh's Deepking of unknown identity whose arrival correlated with the Deepking becoming paranoid and refusing counsel."
+      "summary": "Mysterious advisor whose arrival corrupted the Deep King's judgment amid demonic incursions."
     },
     {
       "id": "npc_king_hekaton",
@@ -712,7 +712,7 @@
       "id": "npc_valimor_brightgem",
       "label": "Valimor Brightgem",
       "type": "npc",
-      "summary": "A Blingdenstone craftsperson who commissioned the Vaultmaster Locking Scabbard for Thorin and Dawnbringer."
+      "summary": "Source of the Vaultmaster Locking Scabbard that houses Dawnbringer."
     },
     {
       "id": "faction_ember_vanguard",
@@ -754,7 +754,7 @@
       "id": "faction_gray_ghosts",
       "label": "Gray Ghosts",
       "type": "faction",
-      "summary": "A Gracklstugh criminal faction that stole the replacement dragon egg for Themberchaud and had connections to the corrupted Council of Savants."
+      "summary": "Derro thieves' guild that stole the Missing Red Dragon Egg."
     },
     {
       "id": "faction_lords_alliance",
@@ -778,7 +778,7 @@
       "id": "location_candlekeep",
       "label": "Candlekeep",
       "type": "location",
-      "summary": "The world's most famous library where the party is currently recovering, conducting research, and housing a captured House T'sarran spy in their bag of holding."
+      "summary": "World's foremost library on a cliff above the Sea of Swords, governed by the Avowed."
     },
     {
       "id": "location_darklake",
@@ -808,7 +808,7 @@
       "id": "location_underdark",
       "label": "Underdark",
       "type": "location",
-      "summary": "The vast subterranean world beneath the surface where demon lords are confirmed to be loose and the main events of the campaign took place."
+      "summary": "Lightless subterranean realm dominated by Zuggtmoy's spreading fungi and creeping madness."
     },
     {
       "id": "location_fungal_cavern",
@@ -929,6 +929,360 @@
       "label": "Gracklstugh Instability Score",
       "type": "arc_score",
       "summary": "An ELEVATED threat score tracking Gracklstugh's political crisis including the Ember Vanguard wanted status, the demon egg, and Shal's influence on the Deepking."
+    },
+    {
+      "id": "npc_daral_yashenti",
+      "label": "Daral Yashenti",
+      "type": "npc",
+      "summary": "New Keeper of Tomes at Candlekeep, framed for Janussi's murder by A'lai Aivenmore."
+    },
+    {
+      "id": "npc_fembris_lancer",
+      "label": "Fembris Lancer",
+      "type": "npc",
+      "summary": "Avowed scholar held captive as the party's food taster and sole witness to the key handoff."
+    },
+    {
+      "id": "npc_eldeth_feldrun",
+      "label": "Eldeth Feldrun",
+      "type": "npc",
+      "summary": "Dwarven noble of Mithral Hall, sworn to adopt Thorin, carrying the Demogorgon warning to the surface."
+    },
+    {
+      "id": "npc_a_lai_aivenmore",
+      "label": "A'lai Aivenmore",
+      "type": "npc",
+      "summary": "Hostile drow scholar and architect of Janussi's murder, holding the first High Tower key."
+    },
+    {
+      "id": "npc_bookwyrm_first_reader",
+      "label": "Bookwyrm (First Reader)",
+      "type": "npc",
+      "summary": "Green dragonborn acting head of Candlekeep who concealed Janussi's heart to shield family."
+    },
+    {
+      "id": "npc_kalan_strongbranch",
+      "label": "Kalan Strongbranch",
+      "type": "npc",
+      "summary": "Reinstated Head of the Avowed seeking to depose Bookwyrm, last seen running for his life."
+    },
+    {
+      "id": "npc_sylvira_savikas",
+      "label": "Sylvira Savikas",
+      "type": "npc",
+      "summary": "Tiefling curator dying of the Abyssal Plague, framed for Janussi's murder and mother of Moziqodo."
+    },
+    {
+      "id": "npc_teles_ahvoste",
+      "label": "Teles Ahvoste",
+      "type": "npc",
+      "summary": "Great Reader with a two-decade grudge against Janussi, a suspect in the murder."
+    },
+    {
+      "id": "npc_fheminor_scrivenbark",
+      "label": "Fheminor Scrivenbark",
+      "type": "npc",
+      "summary": "Gnome scholar and murder suspect whose name was erased from the investigation records."
+    },
+    {
+      "id": "npc_sister_yvenne",
+      "label": "Sister Yvenne",
+      "type": "npc",
+      "summary": "Candlekeep record keeper and Daz's handler who holds sealed knowledge of his Menzoberranzan origins."
+    },
+    {
+      "id": "npc_tadric",
+      "label": "Tadric",
+      "type": "npc",
+      "summary": "Crime-scene guard who identified Moziqodo as Sylvira Savikas's son."
+    },
+    {
+      "id": "npc_queenie",
+      "label": "Queenie",
+      "type": "npc",
+      "summary": "Possibly supernatural Candlekeep tower cat who witnessed the false Sylvira Savikas."
+    },
+    {
+      "id": "npc_kazryn_nyantani",
+      "label": "Kazryn Nyantani",
+      "type": "npc",
+      "summary": "Council member and Janussi's former romantic partner, named as a suspect in the framing."
+    },
+    {
+      "id": "npc_moziqodo",
+      "label": "Moziqodo",
+      "type": "npc",
+      "summary": "Sylvira Savikas's son expected to arrive at Candlekeep's High Tower with the second key."
+    },
+    {
+      "id": "npc_miss_hollypocket",
+      "label": "Miss Hollypocket",
+      "type": "npc",
+      "summary": "Caretaker of Janussi's apartment and key witness to the shapeshifter impersonating Sylvira Savikas."
+    },
+    {
+      "id": "npc_leuwin",
+      "label": "Leuwin",
+      "type": "npc",
+      "summary": "Druid apothecary of the Oak Tree Apothecary who can identify the Midnight Tears poison."
+    },
+    {
+      "id": "npc_the_pudding_king",
+      "label": "The Pudding King",
+      "type": "npc",
+      "summary": "Avatar of Juiblex dissolved by Zalthir at Blingdenstone, ending the ooze crisis."
+    },
+    {
+      "id": "npc_sarith_kzekarit",
+      "label": "Sarith Kzekarit",
+      "type": "npc",
+      "summary": "Drow guide corrupted into a spore servant and killed at Neverlight Grove."
+    },
+    {
+      "id": "npc_alkrist",
+      "label": "Alkrist",
+      "type": "npc",
+      "summary": "Publicly accepted murderer of Janussi who confessed under Zone of Truth and later died."
+    },
+    {
+      "id": "npc_janussi",
+      "label": "Janussi",
+      "type": "npc",
+      "summary": "Murdered Keeper of Tomes whose heart was removed post-mortem to block resurrection."
+    },
+    {
+      "id": "npc_bloppblippodd",
+      "label": "Bloppblippodd",
+      "type": "npc",
+      "summary": "Kuo-toa leader who died alongside Ploopploopeen summoning Demogorgon."
+    },
+    {
+      "id": "npc_shuushar_the_awakened",
+      "label": "Shuushar the Awakened",
+      "type": "npc",
+      "summary": "Peaceful kuo-toa monk leading a reformist movement rejecting the Deep Father cult."
+    },
+    {
+      "id": "npc_stonespeaker_hgraam",
+      "label": "Stonespeaker Hgraam",
+      "type": "npc",
+      "summary": "Reclusive Stone Giant oracle in Cairngorm Cavern who gave Daz the Stonespeaker Crystal."
+    },
+    {
+      "id": "npc_chipgrin_goldwhisker",
+      "label": "Chipgrin Goldwhisker",
+      "type": "npc",
+      "summary": "Wererat clan chief allied with Blingdenstone's leadership."
+    },
+    {
+      "id": "npc_deepking_tarngardt",
+      "label": "Deepking Tarngardt",
+      "type": "npc",
+      "summary": "Paranoid duergar Deepking of Gracklstugh, corrupted by his advisor Shal."
+    },
+    {
+      "id": "npc_sovereign_basidia",
+      "label": "Sovereign Basidia",
+      "type": "npc",
+      "summary": "Exiled myconid sovereign protecting traditional Myconid ways from Zuggtmoy's corruption."
+    },
+    {
+      "id": "npc_sovereign_phylo",
+      "label": "Sovereign Phylo",
+      "type": "npc",
+      "summary": "Corrupted myconid sovereign ruling Neverlight Grove under Zuggtmoy's influence."
+    },
+    {
+      "id": "npc_rasharoo",
+      "label": "Rasharoo",
+      "type": "npc",
+      "summary": "Nomadic myconid explorer wandering the deeper Underdark."
+    },
+    {
+      "id": "npc_rumpadump",
+      "label": "Rumpadump",
+      "type": "npc",
+      "summary": "Myconid who returned home to Neverlight Grove with the collective."
+    },
+    {
+      "id": "npc_philemon_master_archivist",
+      "label": "Philemon (Master Archivist)",
+      "type": "npc",
+      "summary": "Candlekeep archivist guiding Dawnbringer's two-stage therapy with Thorin."
+    },
+    {
+      "id": "npc_fuurm_coppernose",
+      "label": "Fuurm Coppernose",
+      "type": "npc",
+      "summary": "Companion traveling with the party while searching for his lost sister."
+    },
+    {
+      "id": "npc_maerith_of_the_ford",
+      "label": "Maerith of the Ford",
+      "type": "npc",
+      "summary": "Surface woman seeking aid for her afflicted daughter Elin."
+    },
+    {
+      "id": "npc_elin",
+      "label": "Elin",
+      "type": "npc",
+      "summary": "Maerith's daughter, silently drawing six-pointed stars from a structural Underdark corruption."
+    },
+    {
+      "id": "npc_prince_derendil",
+      "label": "Prince Derendil",
+      "type": "npc",
+      "summary": "Prisoner who died during the Velkynvelve escape."
+    },
+    {
+      "id": "location_deneir_s_sanctum",
+      "label": "Deneir's Sanctum",
+      "type": "location",
+      "summary": "Candlekeep chamber repurposed as the party's holding cell and site of the helmed horror ambush."
+    },
+    {
+      "id": "location_candlekeep_s_high_tower",
+      "label": "Candlekeep's High Tower",
+      "type": "location",
+      "summary": "Candlekeep tower where A'lai Aivenmore retreated with the first key."
+    },
+    {
+      "id": "location_mithral_hall",
+      "label": "Mithral Hall",
+      "type": "location",
+      "summary": "Dwarven stronghold Eldeth Feldrun travels to with warnings of the Underdark threat."
+    },
+    {
+      "id": "location_the_oak_tree_apothecary",
+      "label": "The Oak Tree Apothecary",
+      "type": "location",
+      "summary": "Candlekeep apothecary from which the Midnight Tears poison was stolen."
+    },
+    {
+      "id": "location_khaem",
+      "label": "Khaem",
+      "type": "location",
+      "summary": "Lost Tomb setting of a resolved side thread involving Brysis of Khaem's prison."
+    },
+    {
+      "id": "location_faer_n",
+      "label": "Faer\u00fbn",
+      "type": "location",
+      "summary": "The surface world threatened by Demogorgon and the spreading Underdark corruption."
+    },
+    {
+      "id": "faction_the_avowed",
+      "label": "The Avowed",
+      "type": "faction",
+      "summary": "Candlekeep's senior scholars governing the library, currently in a leadership crisis."
+    },
+    {
+      "id": "faction_the_keepers_of_the_flame",
+      "label": "The Keepers of the Flame",
+      "type": "faction",
+      "summary": "Duergar psionic order controlling Themberchaud and seeking his replacement egg."
+    },
+    {
+      "id": "faction_cult_of_demogorgon",
+      "label": "Cult of Demogorgon",
+      "type": "faction",
+      "summary": "Plinki's network seeking to transform the dragon egg into a Prince's Gift for Demogorgon."
+    },
+    {
+      "id": "faction_the_stone_guard",
+      "label": "The Stone Guard",
+      "type": "faction",
+      "summary": "Gracklstugh's duergar military force led by Errde Blackskull."
+    },
+    {
+      "id": "faction_zuggtmoy",
+      "label": "Zuggtmoy",
+      "type": "faction",
+      "summary": "Ascendant Demon Queen of Fungi seeking union with Araumycos, who consumed Ilvara as her vessel."
+    },
+    {
+      "id": "faction_juiblex",
+      "label": "Juiblex",
+      "type": "faction",
+      "summary": "Receded Demon Lord of Oozes vowing rebirth by consuming Zuggtmoy's 'banquet'."
+    },
+    {
+      "id": "faction_demogorgon",
+      "label": "Demogorgon",
+      "type": "faction",
+      "summary": "Prince of Demons summoned into the Prime Material at Sloobludop, now an existential threat."
+    },
+    {
+      "id": "faction_lolth",
+      "label": "Lolth",
+      "type": "faction",
+      "summary": "Supreme drow deity whose doctrine is weaponized for social control, esoterically linked to Zuggtmoy."
+    },
+    {
+      "id": "faction_yeenoghu",
+      "label": "Yeenoghu",
+      "type": "faction",
+      "summary": "Demon lord and patron deity behind gnoll creation."
+    },
+    {
+      "id": "faction_bahamut",
+      "label": "Bahamut",
+      "type": "faction",
+      "summary": "Platinum dragon deity whose faith Grygum follows, centered on choice over determinism."
+    },
+    {
+      "id": "faction_araumycos",
+      "label": "Araumycos",
+      "type": "faction",
+      "summary": "The great Underdark fungal network Zuggtmoy seeks metaphysical union with."
+    },
+    {
+      "id": "npc_stonespeaker_crystal",
+      "label": "Stonespeaker Crystal",
+      "type": "npc",
+      "summary": "Attuned crystal given to Daz by Stonespeaker Hgraam."
+    },
+    {
+      "id": "npc_missing_red_dragon_egg",
+      "label": "Missing Red Dragon Egg",
+      "type": "npc",
+      "summary": "Corrupted, occult-marked red dragon egg entangled with Themberchaud's intended replacement."
+    },
+    {
+      "id": "plot_the_two_keys",
+      "label": "The Two Keys",
+      "type": "plot",
+      "summary": "A'lai Aivenmore holds the first High Tower key awaiting Moziqodo with the second \u2014 the most urgent crisis."
+    },
+    {
+      "id": "plot_the_janussi_murder",
+      "label": "The Janussi Murder",
+      "type": "plot",
+      "summary": "The reconstructed conspiracy behind Janussi's poisoning, framing, and cover-up."
+    },
+    {
+      "id": "plot_daz_s_origins",
+      "label": "Daz's Origins",
+      "type": "plot",
+      "summary": "The central mystery of Daz's struck 'Daz'issin' name and unknown Menzoberranzan patron."
+    },
+    {
+      "id": "plot_zuggtmoy_vs_juiblex",
+      "label": "Zuggtmoy vs. Juiblex",
+      "type": "plot",
+      "summary": "The looming demon-lord conflict over which will consume the other and ascend."
+    },
+    {
+      "id": "plot_until_the_bone_king_sings",
+      "label": "Until the Bone King Sings",
+      "type": "plot",
+      "summary": "A cryptic countdown prophecy tied to Zalthir's Shadow Monk lineage and spreading corruption."
+    },
+    {
+      "id": "plot_ent_moch_s_boon",
+      "label": "Ent\u00e9moch's Boon",
+      "type": "plot",
+      "summary": "A three-sacrifice quest with wealth and blood offerings still outstanding."
     }
   ],
   "edges": [
@@ -2431,6 +2785,521 @@
       "source": "npc_turvy",
       "target": "location_gracklstugh",
       "label": "last seen in"
+    },
+    {
+      "source": "party_zalthir",
+      "target": "party_thorin",
+      "label": "ally of"
+    },
+    {
+      "source": "party_zalthir",
+      "target": "party_grygum",
+      "label": "ally of"
+    },
+    {
+      "source": "party_thorin",
+      "target": "party_grygum",
+      "label": "ally of"
+    },
+    {
+      "source": "party_thorin",
+      "target": "party_daz",
+      "label": "ally of"
+    },
+    {
+      "source": "party_grygum",
+      "target": "party_daz",
+      "label": "ally of"
+    },
+    {
+      "source": "party_thorin",
+      "target": "faction_the_ember_vanguard",
+      "label": "member of"
+    },
+    {
+      "source": "npc_glabbagool",
+      "target": "party_zalthir",
+      "label": "bonded to"
+    },
+    {
+      "source": "npc_dawnbringer",
+      "target": "party_thorin",
+      "label": "bonded to"
+    },
+    {
+      "source": "party_grygum",
+      "target": "faction_bahamut",
+      "label": "worships"
+    },
+    {
+      "source": "npc_spiderbait",
+      "target": "party_zalthir",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_daral_yashenti",
+      "target": "party_zalthir",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_fembris_lancer",
+      "target": "party_zalthir",
+      "label": "captive of"
+    },
+    {
+      "source": "npc_eldeth_feldrun",
+      "target": "party_thorin",
+      "label": "seeks to adopt"
+    },
+    {
+      "source": "npc_eldeth_feldrun",
+      "target": "location_mithral_hall",
+      "label": "located in"
+    },
+    {
+      "source": "npc_a_lai_aivenmore",
+      "target": "party_daz",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_a_lai_aivenmore",
+      "target": "npc_janussi",
+      "label": "triggered by"
+    },
+    {
+      "source": "npc_a_lai_aivenmore",
+      "target": "npc_daral_yashenti",
+      "label": "hunts"
+    },
+    {
+      "source": "npc_a_lai_aivenmore",
+      "target": "location_candlekeep_s_high_tower",
+      "label": "located in"
+    },
+    {
+      "source": "npc_a_lai_aivenmore",
+      "target": "plot_the_two_keys",
+      "label": "seeks"
+    },
+    {
+      "source": "npc_a_lai_aivenmore",
+      "target": "npc_bookwyrm_first_reader",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_bookwyrm_first_reader",
+      "target": "faction_the_avowed",
+      "label": "member of"
+    },
+    {
+      "source": "npc_bookwyrm_first_reader",
+      "target": "npc_janussi",
+      "label": "concealed murder of"
+    },
+    {
+      "source": "npc_kalan_strongbranch",
+      "target": "faction_the_avowed",
+      "label": "member of"
+    },
+    {
+      "source": "npc_kalan_strongbranch",
+      "target": "npc_bookwyrm_first_reader",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_sylvira_savikas",
+      "target": "npc_moziqodo",
+      "label": "parent of"
+    },
+    {
+      "source": "npc_sylvira_savikas",
+      "target": "npc_janussi",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_sylvira_savikas",
+      "target": "npc_teles_ahvoste",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_teles_ahvoste",
+      "target": "npc_janussi",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_kazryn_nyantani",
+      "target": "npc_janussi",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_kazryn_nyantani",
+      "target": "npc_sylvira_savikas",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_vareth",
+      "target": "party_grygum",
+      "label": "handler of"
+    },
+    {
+      "source": "npc_sister_yvenne",
+      "target": "party_daz",
+      "label": "handler of"
+    },
+    {
+      "source": "npc_alkrist",
+      "target": "npc_janussi",
+      "label": "hunts"
+    },
+    {
+      "source": "npc_alkrist",
+      "target": "npc_a_lai_aivenmore",
+      "label": "member of"
+    },
+    {
+      "source": "npc_leuwin",
+      "target": "location_the_oak_tree_apothecary",
+      "label": "located in"
+    },
+    {
+      "source": "npc_kaelira_duskryn",
+      "target": "party_daz",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_kaelira_duskryn",
+      "target": "npc_a_lai_aivenmore",
+      "label": "hunts"
+    },
+    {
+      "source": "npc_nym_duskryn",
+      "target": "party_daz",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_jorlan_duskryn",
+      "target": "party_daz",
+      "label": "sibling of"
+    },
+    {
+      "source": "npc_jorlan_duskryn",
+      "target": "npc_ilvara_mizzrym",
+      "label": "seeks"
+    },
+    {
+      "source": "npc_moziqodo",
+      "target": "npc_a_lai_aivenmore",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_moziqodo",
+      "target": "plot_the_two_keys",
+      "label": "triggered by"
+    },
+    {
+      "source": "npc_ilvara_mizzrym",
+      "target": "faction_zuggtmoy",
+      "label": "vessel of"
+    },
+    {
+      "source": "npc_ilvara_mizzrym",
+      "target": "faction_lolth",
+      "label": "member of"
+    },
+    {
+      "source": "npc_ilvara_mizzrym",
+      "target": "location_velkynvelve",
+      "label": "controls"
+    },
+    {
+      "source": "npc_asha_vandree",
+      "target": "party_zalthir",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_the_pudding_king",
+      "target": "faction_juiblex",
+      "label": "avatar of"
+    },
+    {
+      "source": "npc_buppido",
+      "target": "party_daz",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_narrak",
+      "target": "party_thorin",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_plinki",
+      "target": "faction_cult_of_demogorgon",
+      "label": "member of"
+    },
+    {
+      "source": "npc_sarith_kzekarit",
+      "target": "location_neverlight_grove",
+      "label": "located in"
+    },
+    {
+      "source": "npc_ploopploopeen",
+      "target": "faction_demogorgon",
+      "label": "triggered by"
+    },
+    {
+      "source": "npc_bloppblippodd",
+      "target": "faction_demogorgon",
+      "label": "triggered by"
+    },
+    {
+      "source": "npc_shuushar_the_awakened",
+      "target": "location_sloobludop",
+      "label": "located in"
+    },
+    {
+      "source": "npc_stonespeaker_hgraam",
+      "target": "location_cairngorm_cavern",
+      "label": "located in"
+    },
+    {
+      "source": "npc_stonespeaker_hgraam",
+      "target": "npc_stonespeaker_crystal",
+      "label": "gave to daz"
+    },
+    {
+      "source": "npc_stonespeaker_hgraam",
+      "target": "npc_shal",
+      "label": "hunts"
+    },
+    {
+      "source": "npc_dorbo_diggermattock",
+      "target": "location_blingdenstone",
+      "label": "controls"
+    },
+    {
+      "source": "npc_senni_diggermattock",
+      "target": "location_blingdenstone",
+      "label": "located in"
+    },
+    {
+      "source": "npc_chipgrin_goldwhisker",
+      "target": "location_blingdenstone",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_gartokkar_xundorn",
+      "target": "npc_themberchaud",
+      "label": "controls"
+    },
+    {
+      "source": "npc_gartokkar_xundorn",
+      "target": "faction_the_keepers_of_the_flame",
+      "label": "member of"
+    },
+    {
+      "source": "npc_gartokkar_xundorn",
+      "target": "npc_missing_red_dragon_egg",
+      "label": "controls"
+    },
+    {
+      "source": "faction_the_keepers_of_the_flame",
+      "target": "location_gracklstugh",
+      "label": "located in"
+    },
+    {
+      "source": "npc_errde_blackskull",
+      "target": "faction_the_stone_guard",
+      "label": "member of"
+    },
+    {
+      "source": "npc_errde_blackskull",
+      "target": "npc_droki",
+      "label": "hunts"
+    },
+    {
+      "source": "npc_deepking_tarngardt",
+      "target": "location_gracklstugh",
+      "label": "controls"
+    },
+    {
+      "source": "npc_shal",
+      "target": "npc_deepking_tarngardt",
+      "label": "controls"
+    },
+    {
+      "source": "npc_droki",
+      "target": "faction_cult_of_demogorgon",
+      "label": "ally of"
+    },
+    {
+      "source": "faction_cult_of_demogorgon",
+      "target": "npc_missing_red_dragon_egg",
+      "label": "seeks"
+    },
+    {
+      "source": "faction_cult_of_demogorgon",
+      "target": "faction_demogorgon",
+      "label": "member of"
+    },
+    {
+      "source": "faction_council_of_savants",
+      "target": "faction_cult_of_demogorgon",
+      "label": "allied with"
+    },
+    {
+      "source": "faction_gray_ghosts",
+      "target": "npc_missing_red_dragon_egg",
+      "label": "seeks"
+    },
+    {
+      "source": "npc_sovereign_basidia",
+      "target": "location_neverlight_grove",
+      "label": "exiled from"
+    },
+    {
+      "source": "npc_sovereign_phylo",
+      "target": "location_neverlight_grove",
+      "label": "controls"
+    },
+    {
+      "source": "npc_sovereign_phylo",
+      "target": "faction_zuggtmoy",
+      "label": "corrupted by"
+    },
+    {
+      "source": "npc_stool",
+      "target": "location_neverlight_grove",
+      "label": "located in"
+    },
+    {
+      "source": "npc_rumpadump",
+      "target": "location_neverlight_grove",
+      "label": "located in"
+    },
+    {
+      "source": "npc_philemon_master_archivist",
+      "target": "npc_dawnbringer",
+      "label": "treats"
+    },
+    {
+      "source": "npc_philemon_master_archivist",
+      "target": "location_candlekeep",
+      "label": "member of"
+    },
+    {
+      "source": "npc_jimjar",
+      "target": "faction_house_t_sarran",
+      "label": "triggered by"
+    },
+    {
+      "source": "faction_house_t_sarran",
+      "target": "party_daz",
+      "label": "hunts"
+    },
+    {
+      "source": "faction_house_mizzrym",
+      "target": "party_daz",
+      "label": "hunts"
+    },
+    {
+      "source": "npc_maerith_of_the_ford",
+      "target": "npc_elin",
+      "label": "parent of"
+    },
+    {
+      "source": "npc_elin",
+      "target": "plot_until_the_bone_king_sings",
+      "label": "triggered by"
+    },
+    {
+      "source": "npc_khell_vire",
+      "target": "plot_until_the_bone_king_sings",
+      "label": "triggered by"
+    },
+    {
+      "source": "npc_valimor_brightgem",
+      "target": "npc_dawnbringer",
+      "label": "gave scabbard for"
+    },
+    {
+      "source": "npc_yuk_yuk",
+      "target": "npc_spiderbait",
+      "label": "ally of"
+    },
+    {
+      "source": "npc_prince_derendil",
+      "target": "location_velkynvelve",
+      "label": "located in"
+    },
+    {
+      "source": "faction_zuggtmoy",
+      "target": "faction_araumycos",
+      "label": "seeks"
+    },
+    {
+      "source": "faction_zuggtmoy",
+      "target": "faction_juiblex",
+      "label": "enemy of"
+    },
+    {
+      "source": "faction_juiblex",
+      "target": "faction_zuggtmoy",
+      "label": "hunts"
+    },
+    {
+      "source": "faction_zuggtmoy",
+      "target": "faction_lolth",
+      "label": "linked to"
+    },
+    {
+      "source": "faction_the_avowed",
+      "target": "location_candlekeep",
+      "label": "controls"
+    },
+    {
+      "source": "faction_the_avowed",
+      "target": "faction_house_t_sarran",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_eldgrim",
+      "target": "faction_cult_of_demogorgon",
+      "label": "enemy of"
+    },
+    {
+      "source": "npc_fuurm_coppernose",
+      "target": "party_zalthir",
+      "label": "ally of"
+    },
+    {
+      "source": "plot_the_two_keys",
+      "target": "location_candlekeep",
+      "label": "located in"
+    },
+    {
+      "source": "plot_the_janussi_murder",
+      "target": "location_candlekeep",
+      "label": "located in"
+    },
+    {
+      "source": "plot_daz_s_origins",
+      "target": "location_menzoberranzan",
+      "label": "located in"
+    },
+    {
+      "source": "party_daz",
+      "target": "plot_daz_s_origins",
+      "label": "triggered by"
+    },
+    {
+      "source": "npc_bookwyrm_first_reader",
+      "target": "plot_the_janussi_murder",
+      "label": "triggered by"
+    },
+    {
+      "source": "party_zalthir",
+      "target": "plot_until_the_bone_king_sings",
+      "label": "triggered by"
     }
   ]
 }
