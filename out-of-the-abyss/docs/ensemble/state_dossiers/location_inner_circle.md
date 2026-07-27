@@ -1,5 +1,5 @@
 ---
-name: Inner Circle
+name: Inner Circle of Neverlight Grove
 type: location
 n_facts: 4
 chapters: 31-33

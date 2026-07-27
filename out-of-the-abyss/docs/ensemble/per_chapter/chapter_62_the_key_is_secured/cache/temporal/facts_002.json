@@ -1,0 +1,100 @@
+[
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during the current in-world timeline, with no explicit calendar date provided.",
+    "source_quote": "",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend count",
+    "fact": "One pit fiend attacked Tadric in the domed rotunda.",
+    "source_quote": "the fiend, a pit fiend",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "rotunda dimensions",
+    "fact": "The dome is high and wide, with a curved stone ceiling that carries sound across forty-five feet of floor.",
+    "source_quote": "a real rotunda: curved stone overhead, high and wide... Forty-five feet of floor is nothing to me",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "travel duration to North Gallery",
+    "fact": "The group ran to the North Gallery after deciding to move quickly, with no specific time duration given.",
+    "source_quote": "We ran",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan's age",
+    "fact": "Kalan was carrying extra years, indicating he was older than the others.",
+    "source_quote": "the man was carrying extra stone and extra years",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "key value",
+    "fact": "The key Tadric carried was of high value, as its loss would have allowed A'lai Aivenmore to complete his plan.",
+    "source_quote": "the key would be in the air",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "combat sequence",
+    "fact": "Thorin struck the pit fiend three times in succession during the battle.",
+    "source_quote": "Two strikes landed. Then he found more inside himself and struck a third time",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "breath usage in combat",
+    "fact": "The narrator spent three controlled breaths during the fight against the pit fiend.",
+    "source_quote": "I spent a breath... I spent two more breaths",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "darts used by Daz",
+    "fact": "Daz fired three darts of plain force during the battle.",
+    "source_quote": "Three darts of plain force, first level, unerring",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "javelin type",
+    "fact": "Grygum used a lightning javelin he had been saving.",
+    "source_quote": "his javelin, the lightning one he'd been saving",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "This was the second time the narrator said 'We can argue about this later.'",
+    "source_quote": "Second time I'd said it",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep High Tower location",
+    "fact": "A'lai Aivenmore was waiting in Candlekeep's High Tower.",
+    "source_quote": "A'lai Aivenmore... was almost certainly sitting in Candlekeep's High Tower",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "key count",
+    "fact": "There was one real key and one fake key in possession of the party.",
+    "source_quote": "We've got one real key and one fake key",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "time since Kalan was last seen",
+    "fact": "Kalan was last seen falling behind during the run to the North Gallery, with his survival uncertain.",
+    "source_quote": "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there",
+    "quote_verified": true
+  }
+]

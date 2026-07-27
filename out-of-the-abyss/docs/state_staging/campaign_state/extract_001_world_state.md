@@ -1,197 +1,193 @@
 # WORLD STATE — Out of the Abyss (Modified)
-*Living canon reference. Current as of Chapter 61. Later chapters override earlier. Items flagged uncertain in source are carried as open threads, not asserted as fact.*
+
+*Living canon reference. Current state as of Chapter 62. Later chapters override earlier. "Open Threads" section holds unresolved questions; treat Uncertainty items there, not as settled fact.*
 
 ---
 
 ## 1. CURRENT SITUATION
 
-The party has emerged from the Underdark and is at **Candlekeep**, entangled in the murder investigation of **Janussi**, former Keeper of Tomes. They are presently confined (and guarded) in **Deneir's Sanctum**, a repurposed library-shrine now serving as their holding cell, following an ambush by **helmed horrors** that sought the inert High Tower key now carried by Daz. The murder case has been publicly "closed" with a scapegoat confession, but the true conspiracy is unresolved.
+The party has emerged from the Underdark and reached **Candlekeep**, where they were secretly summoned by acting-head **Bookwyrm** to investigate the murder of Keeper of Tomes **Janussi**. That investigation is functionally closed (Alkrist publicly blamed), but has detonated into a leadership crisis and an active betrayal:
 
-The Underdark behind them is dominated by **Zuggtmoy's** spreading fungal corruption; **Demogorgon** walks the Prime Material Plane; **Gracklstugh** is destabilized and hunting them; **Blingdenstone** is a stabilized ally.
+- **Most recent development (ch62):** **A'lai Aivenmore** has seized the **first Hightower key from Bookwyrm** and retreated to Candlekeep's **High Tower**, awaiting an unknown party, **Moziqodo**, who is bringing the **second key**. This is a live, unresolved crisis.
+- The party was ambushed by **helmed horrors** (drawn by the inert Hightower key Daz carries), which they destroyed in Deneir's Sanctum. They were then confined there under guard overnight; **Daral Yashenti** was healed by Dawnbringer during confinement.
+- **Kalan Strongbranch** was last seen running hard, breathless, carrying/pursuing the key situation; his survival is unknown.
+- A naming ceremony to replace Bookwyrm as head of Candlekeep is imminent.
 
----
-
-## 2. THE PARTY ("The Ember Vanguard")
-
-A name coined by Thorin, later mythologized by Daz. Now more legend than organization — Duergar/Drow wanted posters misattribute crimes (assassination of the Derro High Council, theft of "The Egg") to them. Daz is publicly "the feared mage of the Ember Vanguard."
-
-**Player Characters**
-- **Daz** — Drow evoker from Menzoberranzan (trained there). De facto tactical/investigative lead. Carries Stonespeaker Crystal, Voucher of the Varmint, faction badges, daily journal, and the **inert High Tower key** (invisible to detection; target of the helmed horrors). Subject of a multi-faction protection/hunt game (see §4). Likely last bearer of the erased name **"Daz'issin."** Brother to Jorlan Duskryn. Maintains a fabricated Lolth-follower persona.
-- **Zalthir** — Shadow monk; silent tactician and moral anchor. Eldritch Claw Tattoo (15-ft tentacle reach), Darkness, Shadow Step, Stunning Strike. **Glabbagool is bonded to his left forearm.** Assigned by Candlekeep to investigate the "Jimjar thread." Killed Asha Vandree. (Source has an unresolved dragonborn-vs-drow identity contradiction; treat species as unsettled — see Open Threads.)
-- **Thorin** — Dwarf raised by hill giants; front-line melee, darts/thrown weapons, contract-negotiation training. Bonded wielder of **Dawnbringer**. Carries a reclaimed tooth (trophy taken by Ilvara) and a necromantic pearl from Ilvara's ritual site. Seeks integration with dwarven roots; Eldeth swore to have her clan adopt him.
-- **Grygum** — Cleric of Bahamut; self-proclaimed founder of the "Grygumite School of Theology." Meticulous note-taker/investigator. His reinterpretation of "Stroud's Gambit" (a "fourth corner") ignited an academic frenzy that emptied Candlekeep's security. (Source occasionally spells "Gyrgum" — same person.)
-
-**Companions currently with the party**
-- **Glabbagool** — Sentient grey ooze (formerly a gelatinous cube), fused to Zalthir's arm. Absorbs liquids/magic, acid strikes, teleports in darkness, squeezes through gaps. Autonomously stole and "kept" a Potion of Flying. Trained by Zalthir in monastic discipline. **A miniaturized House T'sarran drow spy was held inside his mass as of ch56** (current status open).
-- **Dawnbringer** — Sentient Netherese sunblade (referred to as "she"), housed in a Vaultmaster Locking Scabbard. Radiant damage, 20-ft light, *lesser restoration*, movement-sap effect, and a healing/sickness-absorption ability (used on Daral). Carries deep trauma from ~2,000+ years of darkness; undergoing "therapy" to reconnect with daylight. Refuses ritual/symbolic use.
-- **Spiderbait** — Goblin guide (Silken Paths expert). Attached to the party for safety on the surface. Mourns Yukyuk.
-- **Daral Yashenti** — Framed for Janussi's murder, poisoned himself on the tainted book, restored by Dawnbringer. Now the new Keeper of Tomes, traveling with the party — tolerated, not trusted. Believes A'lai framed him.
-- **Fembris Lancer** — Avowed scholar, unwilling companion and de facto food-taster; likely next head of the Avowed. Sole witness to the key's transfer to Daz.
-- **Sprig** — Present with the investigative party (gave Sylvira honey at 1 a.m.; witness thread).
-
-**Departed:** **Eldeth Feldrun** (dwarven noble of Mithral Hall) — split off toward Mithral Hall and Gauntlgrym to warn the surface lords of Demogorgon and the Underdark threats, and to arrange Thorin's clan adoption.
+**Party owes / is owed answers on:** Dawnbringer's therapy, Janussi's murder truth, House T'sarran's pursuit of Daz, Jimjar's disappearance, Daz's hidden history/patron.
 
 ---
 
-## 3. CANDLEKEEP — THE MURDER & THE POLITICS (ACTIVE ARC)
+## 2. PLAYER CHARACTERS (the party — "The Ember Vanguard")
 
-**The institution:** World's foremost library, on a cliff above the Sea of Swords. Governed by the **Avowed**. Strict reciprocity: one book donated = one question/one scholar's access. Refuses to imprison or surrender guests to outside powers (policy: temporary detention, then exile). Culture is one of silent grudges, bureaucratic evasion, and controlled knowledge — murder has been reframed internally as "workforce restructuring." Its arcane, lead-lined protections were exploited to conceal the crime. Suppresses certain records (e.g., an erased "fourth seat" journal — relevant to Daz).
+The four PCs travel together and self-identify as **The Ember Vanguard** (name coined by Thorin, mythologized by Daz). Note: the Ember Vanguard is now more legend than unit — Duergar wanted posters across Gracklstugh misattribute crimes to them.
 
-**The murder of Janussi (Keeper of Tomes):** Poisoned via a Deadwinter gift-book coated in **Midnight Tears** (activated by saliva, triggered at midnight), followed by post-mortem **heart removal to prevent resurrection**, with Daral framed as gift-giver. A two-part scheme.
+### Zalthir — Bronze Dragonborn Shadow Monk
+Silent tactical architect and de facto investigator/moral anchor. **Glabbagool is bonded to his left forearm** (see below). Confirmed **bronze** dragonborn (Duergar misperceive him as red via magical distortion). Assigned by Candlekeep to investigate the "Jimjar thread." 
+- **Abilities:** Darkness, Shadow Step, Stunning Strike, Eldritch Claw Tattoo (15-ft tentacle reach), Minor Illusion, "Street Justice" grapple synergy with Daz's AoE.
+- **Key items:** Eldritch Claw Tattoo, Asha Vandree's spider-silk cloak, Potion of Flying (concealed in Glabbagool), fungi collection, ice mirror.
+- **Defining:** Killed Asha Vandree without justification ("I made it. That's all."); accepted the frightened condition against Ilvara as monastic discipline; offers Glabbagool monastic training. Driven to understand the architecture of power, deception, and silence — no longer seeks mere escape.
+- Backstory: Drow monastic training (The Garden Shadow) emphasizing control-through-proximity, not violence; haunted by having been treated as "furniture." Formerly held a vow of silence (now lapsed).
 
-**Key figures:**
-- **Bookwyrm (First Reader)** — Green dragonborn; acting head of Candlekeep/Avowed. **Concealed the crime**: moved Janussi's heart into a lead-lined Milil/statue chalice to shield **Alkrist**, whom she is protecting as family. Steered investigators toward Sylvira. Performs grief and cooperation while securing permanent leadership. Slated to be challenged/removed at the naming ceremony. (Whether she killed Janussi or only covered it up is unproven; evidence points to cover-up.)
-- **A'lai Aivenmore** — Drow scholar, deep Underdark/Menzoberranzan ties; **true architect** of the plot. Delivered the dismissive performance review that gave Alkrist motive, ran the apothecary diversion to enable the poison theft, and framed Daral (whose poetic idealism he sees as a threat). **Knows the identity of Daz's patron** — pays in intelligence, not coin. Politically toxic but shielded by his knowledge. Not expected to be named head.
-- **Alkrist (deceased)** — Bronze dragonborn former gate warden. Confessed under Zone of Truth to poisoning Janussi (and, per confession, a cleaver blow), unaware the heart had been removed. Publicly accepted culprit; almost certainly a manipulated scapegoat. Now dead (cause/timing unstated).
-- **Kalan Strongbranch** — Reinstated Head of the Avowed. His rejected "Threefold Proof" methodology is now the institutional investigative framework. Seeks to remove Bookwyrm via a **public Zone of Truth** demand (humiliation over conviction). Transferred a High Tower key to Grygum (fearing it could be summoned from a corpse); that key's chain led to Daz. Motivated by vindication, not justice.
-- **Sylvira Savikas** — Tiefling, Curator of the Infernal Fortress; Janussi's lover. Framed; dying of an **abyssal plague**, bedridden. Believes she was impersonated (a lookalike seen in two places within an impossible polymorph window). Names **Teles Ahvoste** as a likely framer.
-- **Teles Ahvoste** — Great Reader; two-decade grudge over being passed over for Keeper of Tomes; publicly called Janussi a "hypocrite" shortly before the death; suitor of Irony. Suspect with motive; suspected of fabricating post-plague sightings of Sylvira.
-- **Fheminor Scrivenbark** — Gnome scholar, suspect; her name was deliberately erased from investigation records. Whereabouts unknown.
-- **Vareth** — Grygum's handler; 41-year West Inner Ward librarian who formalized the "Grygum school" and published the thesis that diverted the whole Avowed from security.
-- **Sister Yvenne** — Daz's handler; public-record keeper who **knows more than she says** about Daz's origins and a sealed Menzoberranzan noble house.
-- **Queenie** — Janussi's cat; a preternaturally observant "witness" who noticed the Sylvira impersonator (wrong scent) and Daral removing the book. Cooperates only when tickled.
-- **Tadric** — Guard on crowd control; rattled, conscience-stricken.
-- **Miss Hollypocket** — Referenced attendant (whereabouts/allegiance unknown).
+### Daz — Drow Evoker (ex-Menzoberranzan)
+Lead investigator and de facto tactical leader; keeps a daily journal, treats information as finite currency. Carries the **inert Hightower key** (invisible to detection, true target of the helmed horrors). Maintains a fabricated **Lolth-follower persona** as "consistent characterization."
+- **Abilities:** Evoker (Fireball, Scorching Ray, Sculpt Spells), Fey Touched, Warcaster, Misty Step, Shape Water, Magic Missile, Maximilian's Earthen Grasp, Hypnotic Pattern, Telekinetic.
+- **Key items:** Stonespeaker Crystal, badge collection, Voucher of the Varmint, journal.
+- **Central mystery (his backstory drives the campaign):** Likely last bearer of the name **"Daz'issin"** ("small shadow," a diminutive drow mothers used for sons hoped to survive), deliberately struck from Menzoberranzan's heraldic records. An **unknown patron in Menzoberranzan** paid Menzoberranzan rates to protect him via the Duskryn sisters; **House T'sarran and House Mizzrym both hunt him** — T'sarran wants him alive as "bait" to reveal the patron's identity. He believes his value is as a "living indicator," not lineage. **Jorlan Duskryn is his brother.** A'lai reportedly knows the patron's identity.
 
-**Owed to the party (unresolved Candlekeep debts):** answers on Dawnbringer's therapy, Janussi's murder, House T'sarran, Jimjar's disappearance, and Daz's history.
+### Thorin — Dwarf raised by Hill Giants
+Blunt melee pragmatist and physical anchor; wielder and companion of **Dawnbringer** (see below). Survived the War of the Giants; carries giant-taught contract/negotiation skill and a belief that "the only thing that doesn't lie is terrain."
+- **Abilities:** Hill Strike, Sharpshooter (thrown darts), Tremor Sense (regrets it — useless on surface), melee/terrain control.
+- **Key items:** Dawnbringer + Vaultmaster Locking Scabbard, reclaimed tooth (taken by Ilvara as trophy), necromantic pearl (from Ilvara's ritual site).
+- **Defining:** Coined "Ember Vanguard"; embraces "Zhentarim tactics" (willing to do what others won't) as survival, not ideology. Seeks integration with his dwarven roots; **Eldeth Feldrun has sworn to adopt him into her Mithral Hall clan.**
 
----
-
-## 4. THE DAZ PATRON MYSTERY (CENTRAL LONG ARC)
-
-Someone in **Menzoberranzan** pays Menzoberranzan rates to keep Daz alive. The **Duskryn sisters** — **Nym** and **Kaelira** — were hired (through cutouts) to protect him from House Mizzrym, House T'sarran, and House Ilvara. The patron's identity has been **blank in their records for months**; Kaelira now treats uncovering it as her true obsession and is pursuing a "compromised drow scholar" as her first real lead (implicitly A'lai).
-
-- **House T'sarran** — Actively hunts Daz to smoke out the patron; deploys miniaturized spies (one captured, now inside Glabbagool). Two centuries stable; will send replacements.
-- **House Mizzrym** — Disrupted by Ilvara's death; frantically seeking her, unaware she was consumed by Zuggtmoy. Still a lethal threat to Daz.
-- Daz suspects his value is not lineage but that he is a "living indicator" — bait to reveal the patron. His name **"Daz'issin"** was struck from heraldic records. **A'lai and Sister Yvenne both hold pieces of this secret.**
+### Grygum — Cleric of Bahamut
+Compulsive documentarian and theologian; founder of the self-proclaimed **"Grygumite School"** (now being formally researched at Candlekeep by Vareth — see below). Primary support/healer.
+- **Abilities:** Revivify, Divine Healing, Guiding Bolt, Spirit Guardians, Inflict Wounds, Glyph of Warding, Dust of Suleiman, necrotic holy-symbol blasts. Deliberately withholds Lesser Restoration to let others choose mercy.
+- **Key items:** magical short sword, notes on all deals/events, Asha's wax pouch (contents unrevealed), Bahamut pamphlets.
+- **Theology:** Choice over determinism — dragons aren't good/evil by scale color; alignment is forged by decisions. Struck the Guiding Bolt that detonated Ilvara. Understands Bookwyrm protects family ("I have done it for a mushroom").
+- *Note: "Gyrgum" spelling variants are the same person.*
 
 ---
 
-## 5. DEMON-LORD THREATS
+## 3. PARTY COMPANIONS & ATTACHED NPCs
 
-- **Zuggtmoy (Demon Queen of Fungi, "Lady of Rot and Decay")** — **The dominant active threat.** Alive; spreading fungal corruption across the Underdark from the Festering Fissure, Garden of Stone, and Neverlight Grove, filling the vacuum left by the Pudding King. Operates covertly ("moves in while you're sleeping"). Manipulates the Myconids through the **"Great Seeder"** guise (almost certainly herself). Seeks literal fungal-metaphysical union with **Araumycos**. Her vessel **Ilvara Mizzrym is destroyed**, but her influence persists. Theologically equated with Lolth in captured marginalia.
-- **Juiblex (Demon Lord of Oozes)** — Receded but regenerating after the destruction of his avatar, the **Pudding King**. Vowed rebirth by consuming Zuggtmoy's power. Residual influence lingers in Blingdenstone's ooze residue. In implicit conflict with Zuggtmoy over territory.
-- **Demogorgon** — Summoned at Sloobludop's ritual; now loose on the Prime Material Plane. Corrupted the Darklake (demonic manta-ray predators) and the Derro. An existential threat Eldeth is carrying word of to the surface dwarves.
+### Glabbagool — sentient grey ooze (formerly gelatinous cube)
+**Bonded to Zalthir's left forearm**, functioning as a semi-autonomous extension of his body (acid secretion, liquid/energy absorption, teleport in darkness, squeezes through gaps, senses anomalies, googly eyes for social camouflage). Autonomously stole the Potion of Flying from Alkrist's safe and kept it ("a good skill"). Corroded a helmed horror's armor in the recent ambush. Undergoing monk-like training under Zalthir; seeks purpose, belonging, and "out." Grieves the loss of cheese.
+- *Reconciliation note:* One dossier places Glabbagool on Grygum's arm; the authoritative bond is **with Zalthir**. Both carry/command him at times operationally.
+
+### Dawnbringer — sentient Netherese sunblade (Thorin's)
+Radiant (not physical) damage, 20-ft light, casts *lesser restoration*, can "sap" enemy movement. Carries deep trauma from ~2,000+ years sealed in darkness; **heals through remembrance and re-exposure to daylight, not polishing.** Now referred to as "she." Housed in a **Vaultmaster Locking Scabbard** (from Valimor Brightgem) — accepts combat use but refuses ritual/religious-symbol use. Recently restored Daral from poison. **Insists on continuing "therapy" sessions** and has begun communicating telepathically with the narrator. Hunting a "sword whisperer."
+
+### Spiderbait — goblin guide
+Alive, traveling with the party toward integration on the surface. Expert on the Silken Paths and giant spiders. Deeply traumatized by the murder of his friend **Yuk Yuk** (throat cut; killer unconfirmed, he accused Shuushar). Seeks safety, not treasure.
+
+### Daral Yashenti — new Keeper of Tomes, Candlekeep
+Alive, restored by Dawnbringer, traveling with the party (tolerated, not trusted). Framed for Janussi's murder — the poisoned book *The Golden Ass* was re-wrapped to look like his gift, and he poisoned himself licking his finger reclaiming it. Believes **A'lai** framed him to eliminate his "poetic idealism." Panicked severely during the helmed horror ambush. Now occupies Janussi's former post.
+
+### Fembris Lancer — Avowed, party's captive "food taster"
+Alive, held in Deneir's Sanctum, unwilling companion serving as food taster. The **only witness** to Grygum handing the Hightower key to Daz. Likely successor to Bookwyrm as head of the Avowed (by default). Aspires to write a monograph (his notes ended up inside Glabbagool).
+
+### Eldeth Feldrun — Dwarven noble of Mithral Hall (departed)
+Alive, en route to Mithral Hall/Gauntlgrym to warn the surface dwarves of Demogorgon and the Underdark threat. **Sworn to adopt Thorin into her clan.** Revised her lifelong anti-drow prejudice through Daz. No longer travels with the party.
 
 ---
 
-## 6. FACTIONS
+## 4. CANDLEKEEP — CURRENT ARC
 
-| Faction | Status | Notes |
+**Candlekeep:** World's foremost library, on a cliff above the Sea of Swords. Governed by **the Avowed** (senior scholars). Strict reciprocity (one book donated = one question answered). Neutral, non-interventionist — **refuses to surrender prisoners to House T'sarran**, using detention-then-exile. Currently in political crisis: leadership in flux, murder concealed as "administrative restructuring," the Avowed distracted by the Grygumite theological debate. Suppresses certain records — including the sealed journal of a "struck" fourth seat (relevant to Daz's history).
+
+### The Janussi Murder — resolved (officially), corrupt (actually)
+**Janussi (deceased):** Former Keeper of Tomes. Poisoned via a book laced with **Midnight Tears** (ingested by licking fingers to turn pages), then his **heart removed post-mortem to block resurrection**. Body mutilated (caved rib cage, broken nose). Was romantically involved with Sylvira Savikas. Had fired Kalan and denounced Teles Ahvoste, making enemies of many.
+
+**The scheme (reconstructed):** **A'lai Aivenmore** engineered it — delivered a career-ending performance review to **Alkrist** to motivate him, created an apothecary diversion to enable the Midnight Tears theft, and framed **Daral**. Alkrist poisoned/killed Janussi (confessed under Zone of Truth to a cleaver blow). **Bookwyrm concealed the crime** by moving Janussi's heart into a lead-lined Milil/statue chalice to protect Alkrist (family). **Alkrist is now dead** (mechanism unstated); he is the publicly accepted culprit, unaware the heart had been removed.
+
+### Candlekeep NPCs (current)
+
+| NPC | Status | Role / Current State |
 |---|---|---|
-| **The Avowed / Candlekeep** | Governing, in leadership crisis | Naming ceremony pending; Bookwyrm to be challenged. See §3. |
-| **House T'sarran** | Active, stable | Hunting Daz for the patron. Agent captured. |
-| **House Mizzrym** | Active, disrupted | Ilvara dead; searching blindly for her. Threat to Daz. |
-| **House Duskryn** | Contracted allies (mercenary) | Nym & Kaelira protecting Daz; Kaelira chasing the patron. |
-| **Drow (general)** | Fragmented, Lolth-aligned majority | Non-Lolth drow (Daz, and Eldeth's revised view) challenge the monolith. One agent operating in Mithral Hall. |
-| **Duergar of Gracklstugh** | In crisis | Deepking mad; noble houses autonomous; paranoid Ember Vanguard hunt; complicit in anti-Derro genocide. |
-| **Keepers of the Flame** | Status uncertain post-party interference | Controlled Themberchaud; sought the dragon egg as insurance. Led by Gartokkar Xundorn. |
-| **Council of Savants** | Discredited, fractured | Derro scholar-body; entangled with Demogorgon cult; scapegoated. |
-| **Stone Guards** | Active | Errde Blackskull's paranoid conspiracy hunt destabilized the city. |
-| **Blingdenstone gnomes (Clan Diggermattock)** | Stable allies | Peace accord with wererats/miners; party honored. |
-| **Gold Whisker wererats** | Allied | Chipgrin Goldwhisker; control upper boroughs. |
+| **A'lai Aivenmore** | Alive, hostile | **Drow scholar** (ex-Council of Twelve), architect of the murder/frame. As of ch62 holds the first Hightower key in the High Tower, awaiting Moziqodo with the second. Knows Daz's patron's identity. Politically toxic but shielded by his knowledge. |
+| **Bookwyrm (First Reader)** | Alive | **Green dragonborn** acting head of Candlekeep. Concealed (did not commit) the murder. As of ch62 the first key has been taken from her by A'lai; her status post-seizure unconfirmed. Slated for removal at the naming ceremony. Manipulative, self-preserving. |
+| **Kalan Strongbranch** | Alive (survival now uncertain, ch62) | Reinstated Head of the Avowed. His rejected **"Threefold Proof"** is now the institution's investigative framework. Was fired by Janussi, reinstated after the case. Seeks to politically destroy Bookwyrm via public Zone of Truth. Last seen running, breathless — fate open. |
+| **Sylvira Savikas** | Alive, dying of abyssal plague | Curator of the Infernal Fortress (tiefling). Janussi's former lover; framed for his murder. Bedridden. Names **Teles Ahvoste** as framer. Suspects she was **impersonated** (a lookalike sighted in two places, defying polymorph limits). Has an abyssal-born son and a Mordenkainen's Mansion. |
+| **Teles Ahvoste** | Alive | Great Reader; two-decade grudge against Janussi (passed over for Keeper). Suitor of Irony. Suspected of fabricating Sylvira's post-plague sightings. Suspect with motive, no proven link. |
+| **Vareth** | Alive | Senior librarian (41 yrs), Grygum's handler. Appropriated Grygum's theology into a published thesis ("a fourth corner"), formalizing the "Grygum school" / "strong-weak hypothesis" and diverting the Avowed from the murder. |
+| **Fheminor Scrivenbark** | Alive | Gnome scholar, murder suspect; her name was **erased from investigation records** (tampering). Last seen leaving the apothecary. |
+| **Queenie** | Alive | The tower **cat** — a possibly-supernatural observer. Noted Janussi's never-removed locket, witnessed the false Sylvira (wrong scent), and that Daral removed the book. Only cooperates if tickled. |
+| **Sister Yvenne** | Alive | Public record keeper, Daz's handler. Knows sealed truths about Daz's origins and a sealed Menzoberranzan house she cannot speak of. |
+| **Tadric** | Alive | Crime-scene guard; witnessed the failed "speak with dead," psychologically rattled by Thorin. |
+
+**Locations:** **Deneir's Sanctum** — repurposed as the party's holding cell/investigation office; site of the helmed horror ambush (two ruined armor piles, one inert key remain). **High Tower / Hightower Library** — A'lai's current position (ch62).
 
 ---
 
-## 7. LOCATIONS
+## 5. DEMON LORDS & COSMIC THREATS (active)
 
-- **Candlekeep** — Current base of play. See §3.
-- **Deneir's Sanctum** — Repurposed shrine/library within Candlekeep; party's guarded holding cell; site of the helmed-horror ambush (two ruined suits of armor, one inert key remain).
-- **Blingdenstone** — Deep gnome city, **stabilized and allied**. Survived the Pudding King/ooze crisis via the party. Peace between miners, wererats, spiritual leaders. Banned enslaving summoned Earth Elementals ("We serve the stone, not enslave it"). Reopened to surface trade. Led by Dorbo & Senni Diggermattock. Contains Diggermattock Hall, Trader's Grotto (fortified), Burrow Warden ghost-order (revived under Jadgar).
-- **Gracklstugh** — Duergar metropolis; **destabilized, party wanted** (misrepresenting posters still active). Themberchaud enslaved as furnace-lighter. Party believes it may be inaccessible/ruined; systems still function.
-- **Neverlight Grove** — Myconid colony, **corrupted by Zuggtmoy**. Contains the mushroom artifact Yggmorgus and the Garden of Welcome ritual site. Sovereign Phylo (corrupted) rules; Basidia exiled.
-- **Menzoberranzan** — Sovereign drow city; origin of Daz, the patron mystery, and A'lai. Ruling house unnamed.
-- **Darklake** — Waterway between Gracklstugh and Blingdenstone; corrupted by Demogorgon.
-- **Velkynvelve** — **Destroyed** drow outpost; the party's original prison; guards corrupted into fungal spore-servants.
-- **Sloobludop** — **Destroyed** Kuo-toan village, razed by Demogorgon.
-- **Whorlstone Caverns** — Site of Plinki's cult, the dragon egg, and the Obelisk of Diirinka.
-- **The Underdark (general)** — Lightless, lethal, madness-inducing; now saturated with Zuggtmoy's fungi.
+### Zuggtmoy — Demon Queen of Fungi ("Lady of Rot and Decay")
+**Alive and ascendant.** The **dominant Underdark threat** — her fungi spread since the Pudding King's defeat filled the power vacuum. Corrupted and consumed Ilvara Mizzrym (vessel destroyed). Operates through the **"Great Seeder" deception** to manipulate Myconids, and via oozes that "soften the shell" of living hosts. Seeks metaphysical **union with Araumycos** (the great fungal network) to become supreme fungal sovereign. Theologically equated with **Lolth** in Ilvara's/Asha's marginalia. Insidious, slow, seductive — contrasted with Juiblex's overt chaos.
 
----
+### Juiblex — Demon Lord of Oozes ("Faceless Lord")
+**Alive but receded** after his avatar the **Pudding King** was dissolved. Vowed rebirth by **consuming Zuggtmoy's "banquet."** Latent influence lingers in Blingdenstone's ooze residue. Sets up a future **Juiblex vs. Zuggtmoy** conflict.
 
-## 8. NOTABLE LIVING NPCs (ELSEWHERE)
+### Demogorgon
+Summoned into the Prime Material at Sloobludop (see below); presence confirmed in the Darklake region. Eldeth carries this warning to the surface dwarves. An existential threat to Faerûn.
 
-- **Jimjar** — **Vanished** (winked out, leaving no trace). Revealed as a non-mortal/celestial being (immune to poison/psychic, resistant to radiant/nonmagical, uncharmable). Carried a saint's-bone truth die. Warned of Zuggtmoy. His disappearance is an active Candlekeep research thread.
-- **Jorlan Duskryn** — Alive but badly wounded; Daz's brother; obsessive, discarded ex-lover of Ilvara. Last seen staggering post-battle.
-- **Themberchaud** — Living red dragon, delusionally believes himself sovereign of Gracklstugh; manipulated by Gartokkar/Keepers of the Flame.
-- **Gartokkar Xundorn** — Custodian of the Flame; secretly controls Themberchaud; holds the dragon egg; seeks anti-Derro genocide.
-- **Errde Blackskull** — Stone Guard captain; paranoid conspiracy-hunter destabilizing Gracklstugh.
-- **Werz Saltbaron** — Duergar merchant/informant on the Deepking's hit-list.
-- **Dorbo & Senni Diggermattock** — Rulers of Blingdenstone (allies).
-- **Chipgrin Goldwhisker** — Gold Whisker wererat chief (ally).
-- **Jadgar** — Ghostly Burrow Warden reviving his order in Blingdenstone.
-- **Stonespeaker Hgraam** — Reclusive Stone Giant oracle; gave Daz the Stonespeaker Crystal; now closed off.
-- **Shuushar the Awakened** — Kuo-toan reformer; departed to lead enlightened Kuo-toans away from the Deep Father cult.
-- **Stool & Rumpadump** — Myconids; returned home to Neverlight Grove (a corrupted place).
-- **Sovereign Basidia** — Exiled Myconid co-sovereign; fugitive defender of traditional Myconid ways.
-- **Rasharoo** — Nomadic Myconid explorer; guided party toward Blingdenstone, then parted.
-- **Fargas Rumblefoot** — Rescued adventurer with knowledge of Brysis's tomb.
-- **Nym & Kaelira Duskryn** — Mercenary protectors of Daz (see §4).
-- **Dasco Pickshine** — Miners Guild representative (Blingdenstone).
+**Underdark general state:** Lightless, lethal, dominated by Zuggtmoy's fungi; Faerzress magic; creeping madness from the depths ("the rock cries in pain"). The party has emerged, but its corruption is spreading and "the wells are not wells anymore" (Elin's cryptic warning).
 
 ---
 
-## 9. THE DEAD (QUICK REFERENCE)
+## 6. UNDERDARK FACTIONS & POWERS (past arcs, may recur)
 
-- **Ilvara Mizzrym** — Former High Priestess of Lolth, corrupted into Zuggtmoy's vessel; detonated into spores. Prayer book (Zuggtmoy marginalia) delivered to Candlekeep.
-- **The Pudding King** — Juiblex's avatar; dissolved by Zalthir at Blingdenstone.
-- **Asha Vandree** — Lolth/Zuggtmoy syncretist cleric; killed by Zalthir. Her treatise (Lolth=Zuggtmoy) held by Grygum / archived at Candlekeep.
-- **Sarith Kzekarit** — Drow guide, corrupted into a spore servant; killed at Neverlight Grove.
-- **Buppido** — Derro serial killer / false prophet; killed by Daz.
-- **Plinki** — Demogorgon cultist; psychically killed by Zalthir. Journal recovered to Candlekeep.
-- **Narrak** — Demogorgon high priest; killed by Thorin.
-- **Imbros** — Drow overseer; killed in the Velkynvelve revolt (killed Prince Derendil first).
-- **Prince Derendil** — Polymorphed elf noble; killed by Imbros.
-- **Ront** — Redemption-seeking prisoner; killed by a vrock.
-- **Ploopploopeen & Bloppblippodd** — Rival Kuo-toan archpriests; both died in the ritual that summoned Demogorgon.
-- **Yuk Yuk** — Gentle goblin guide; murdered on the Silken Paths (killer unconfirmed).
-- **Xinaya** — Ilvara's agent, fungus-corrupted; begged for and received death.
-- **Pelek** — Svirfneblin merchant ghost; laid to rest in Blingdenstone.
-- **Janussi**, **Alkrist** — See §3.
+- **House T'sarran** — Active drow noble house hunting Daz to identify his patron; deploys miniaturized spies (one captured, held inside Glabbagool as of ch56). Willing to send replacements; considered a threat by Candlekeep but its demands refused.
+- **House Mizzrym** — Active but destabilized by Ilvara's death; still seeks Daz's death and frantically searches for the missing Ilvara. One agent bore a T'sarran signet (alliance/espionage unclear).
+- **House Duskryn (Nym & Kaelira)** — Mercenaries contracted (via cutouts) to protect Daz. **Kaelira** is independently investigating the blank "patron" entry — her most significant lead, last chasing a compromised drow scholar tied to A'lai. **Nym** last seen fighting alongside Daz vs. Ilvara. Both skeptical Daz has noble blood.
+- **Menzoberranzan** — Active drow city-state; source of Daz, the hidden patron behind A'lai, and the erasure of the "Daz'issin" name. Enforces total extermination of rivals and linguistic/record control.
+- **Gracklstugh** — Duergar metropolis, ruined/destabilized by the party's prior actions (Themberchaud exposé, Whorlstone infiltration, Ember Vanguard panic). Still functioning: wanted posters, mass hangings, propaganda. Ruled by the paranoid **Deepking**. Party believes it may be inaccessible to them now.
+  - **Keepers of the Flame** (Duergar psionic order under **Gartokkar Xundorn**) — control Themberchaud; sought the Red Dragon Egg as his replacement; pursued genocide against the Derro. Status post-party-interference unconfirmed.
+  - **Themberchaud** — enslaved red dragon "glorified lighter," believes himself sovereign. Alive, last in Gracklstugh.
+  - **Gartokkar Xundorn** — Custodian of the Flame; last held the occult-marked dragon egg (delivered by the party), consulted Grygum on its markings.
+  - **Errde Blackskull** — Captain of the Stone Guards, paranoid, hunting Droki and the "Empty Scabbard Killers."
+  - **Council of Savants** (Derro scholarly body) — corrupted, collaborated with Plinki's Demogorgon ritual; discredited among Derro.
+  - **Derro Territory** — fractured Demogorgon cultists, shattered after the "Egg" theft; on the brink of anti-Duergar uprising.
+- **Blingdenstone** — Deep gnome city, **restored and stabilized** under **Chief Dorbo Diggermattock** and **Senni Diggermattock** (Gold Whisker clan). Ooze threat ended, Pudding King defeated. New alliance of gnomes, wererats (**Chipgrin Goldwhisker**), and miners; banned enslaving Earth Elementals. Reopened for surface trade. **Burrow Warden ghosts (Jadger)** restored as a tradition. The party is celebrated here.
 
 ---
 
-## 10. OPEN THREADS & MYSTERIES
+## 7. KEY DEAD / DEPARTED NPCs
 
-**Candlekeep conspiracy (immediate)**
-- Who physically removed Janussi's heart? (Alkrist denies it; Bookwyrm suspected.)
-- Will Kalan's public Zone of Truth gambit against Bookwyrm succeed at the naming ceremony? Who becomes the new head (Fembris by default?)?
-- Who impersonated Sylvira, and how (two sightings beyond polymorph duration)? Is her plague natural or induced?
-- Fheminor Scrivenbark's erased record and current whereabouts. Teles Ahvoste's exact role.
-- A'lai remains free and knows Daz's patron; how will the party leverage/expose him?
-- The party is still owed five research answers (Dawnbringer, Janussi, T'sarran, Jimjar, Daz's history).
-
-**Daz's identity (long arc)**
-- Identity, motive, and affiliation of the Menzoberranzan patron (known to A'lai; hunted by Kaelira and House T'sarran).
-- The struck name "Daz'issin" and the sealed noble house Sister Yvenne won't name.
-- Is the T'sarran contract still active? Is A'lai the patron's link?
-- The drow spy inside Glabbagool — still there? Escaped? Dead?
-
-**Jimjar**
-- What was he (celestial/agent of truth)? Where did he go? What does the Candlekeep "Jimjar thread" uncover?
-
-**Demon lords**
-- Zuggtmoy's union with Araumycos — imminent or theoretical? Her physical locus?
-- Juiblex's rebirth timeline; whether he moves against Zuggtmoy.
-- Demogorgon's location and trajectory on the surface.
-
-**Dawnbringer**
-- Her therapeutic recovery; the "sword whisperer" she's been hunting since the road south; her unspoken trauma with her prior (dead) wielder.
-
-**Loose ends**
-- Yukyuk's true killer (Spiderbait blames Shuushar, unproven).
-- Fate of the dragon egg / Obelisk of Diirinka after Plinki's death.
-- Whether Gracklstugh still stands and what the mushroom-artifact "marker" on the party does.
-- Zalthir's disputed lineage (bronze dragonborn vs. drow experience) and whether his vow of silence still nominally holds.
+- **Ilvara Mizzrym** — DEAD. High Priestess of Lolth, corrupted into Zuggtmoy's vessel; detonated into poison spores. Her annotated prayer book (with Zuggtmoy marginalia) was delivered to Candlekeep.
+- **The Pudding King** — DEAD (dissolved by Zalthir). Juiblex's avatar.
+- **Asha Vandree** — DEAD (killed by Zalthir). Lolth/Zuggtmoy syncretist cleric; her theological treatise equating the two goddesses is now in Grygum's/Candlekeep's possession.
+- **Jorlan Duskryn** — Alive but severely wounded (lightning), last staggering post-battle. Daz's brother, obsessed with the late Ilvara.
+- **Jimjar** — VANISHED (ch48). Revealed non-mortal (immune to poison/psychic/charm/fear, resists radiant/nonmagical) — likely a **celestial/angelic being**. Winked out of existence. Holds the truth-telling **bone die** (saint's knucklebone). His disappearance is entangled with House T'sarran and Daz's history.
+- **Sarith Kzekarit** — DEAD. Drow guide, corrupted into a spore servant, killed by Jimjar.
+- **Buppido** — DEAD. Derro serial killer / false prophet, slain by Daz.
+- **Plinki/Pliinki** — DEAD. Derro Demogorgon high priest; her journal recovered to Candlekeep.
+- **Narrak** — DEAD. Demogorgon cult leader, killed by Thorin.
+- **Alkrist** — DEAD. Framed murderer of Janussi (see §4).
+- **Shuushar the Awakened** — Alive, departed to lead reformist Kuo-Toans.
+- **Prince Derendil, Imbros, Ront, Topsy, Yuk Yuk, Pelek, Ploopploopeen, Bloppblippodd, Xinaya** — dead/departed from earlier chapters.
+- **Stool & Rumpadump** — Alive, returned to (corrupted) Neverlight Grove with the Myconid collective.
+- **Sovereign Basidia** — Alive, exiled dissident Myconid; **Rasharoo** — Alive, nomadic Myconid explorer heading deeper. Grove itself ruled by corrupted **Sovereign Phylo** under Zuggtmoy's influence.
+- **Stonespeaker Hgraam** — Alive, reclusive Stone Giant oracle in Cairngorm Cavern (gave Daz the Stonespeaker Crystal).
 
 ---
 
-## 11. CANON EVENTS TIMELINE (CHRONOLOGICAL)
+## 8. OPEN THREADS & MYSTERIES
 
-1. **Velkynvelve (ch1–3):** Party imprisoned by Ilvara Mizzrym. Slave revolt; Imbros kills Prince Derendil, then is slain. Ront killed by a vrock. Escape into the Underdark.
-2. **Silken Paths → Sloobludop (ch5–12):** Yuk Yuk murdered. Kuo-toan cult schism; Ploopploopeen and Bloppblippodd die in a ritual that **summons Demogorgon**; Sloobludop razed. Shuushar departs to reform the Kuo-toans.
-3. **Gracklstugh (ch14–29):** Duergar city; Themberchaud enslaved; Keepers of the Flame, Council of Savants, and Demogorgon cult intrigue. Buppido exposed and killed. Whorlstone Caverns: Plinki's dragon-egg ritual and Narrak's grafting cult foiled (both killed). Party branded "Ember Vanguard." Dawnbringer recovered from a tomb by Thorin.
-4. **Neverlight Grove (ch27–33):** Myconid colony corrupted by Zuggtmoy via Sovereign Phylo/the Great Seeder. Sarith and Xinaya die. Basidia exiled; Stool, Rumpadump, Rasharoo diverge.
-5. **Blingdenstone (ch34–48):** Ooze crisis under the Pudding King (Juiblex's avatar). Party brokers peace among gnomes, wererats, and miners; abolishes elemental slavery. **Pudding King dissolved by Zalthir; Glabbagool bonds to Zalthir.** Jimjar's bone die pacifies the ooze horde. Party honored; Voucher of the Varmint gifted to Daz. **Jimjar vanishes** (revealed non-mortal). Eldeth departs for Mithral Hall.
-6. **Ilvara's last stand (ch49–54):** Ilvara, fully consumed by Zuggtmoy, builds a fungal ritual site. Party (with Asha Vandree) destroys the Heart Fungus (Dust of Suleiman) and kills Ilvara (spore detonation). Asha killed by Zalthir. House Mizzrym/T'sarran contracts on Daz surface; a T'sarran spy is captured. Party emerges to the surface, en route to Candlekeep.
-7. **Candlekeep (ch53–61):** Party arrives; donates rare books (Ilvara's prayer book, Plinki's journal, Asha's treatise) for access. **Janussi murdered** during the Avowed's mass debate over Grygum's thesis. Investigation implicates Alkrist (poison), Bookwyrm (heart concealment), and A'lai (architect); Daral framed then exonerated and restored by Dawnbringer. Alkrist confesses under Zone of Truth and dies; case publicly "closed." Kalan reinstated, plotting Bookwyrm's removal. **Helmed horrors ambush the party in Deneir's Sanctum** seeking Daz's inert key; party confined there. Kaelira begins hunting Daz's blank-record patron.
+### A. The Candlekeep Endgame (most urgent)
+1. **The two keys / A'lai's play (ch62):** A'lai holds the first Hightower key in the High Tower awaiting Moziqodo with the second. What do the keys unlock? The inert key attracts **helmed horrors** — someone built and aimed them "knowing exactly which pocket to reach for." **Who is Moziqodo?**
+2. **Kalan's fate (ch62):** Left running, breathless — alive?
+3. **Bookwyrm's fate:** Status after A'lai took the key; the naming ceremony outcome; whether the concealed heart is discovered.
+4. **The false Sylvira:** A shapeshifter impersonated Sylvira (wrong scent, two locations). Identity, motive, connection to the frame unknown.
+
+### B. Daz's Origins (central campaign mystery)
+5. **The patron:** Who in Menzoberranzan paid Menzoberranzan rates to protect Daz, and why? A'lai and possibly Yvenne know. Kaelira is closing in via the compromised drow scholar.
+6. **"Daz'issin" / the struck record:** Is Daz'issin his true name? Who erased it from heraldry, and what forbidden act does it conceal? The sealed "fourth seat" journal at Candlekeep may hold the answer.
+7. **Daz's headache:** Proximity to forbidden knowledge, Underdark madness, or something else?
+
+### C. Cosmic / Underdark
+8. **Zuggtmoy vs. Juiblex:** Juiblex's vowed rebirth by consuming Zuggtmoy's "banquet"; her drive to wed Araumycos. Which demon lord ascends?
+9. **"The wells are not wells anymore"** (Elin) and **"until the Bone King sings"** — cryptic prophecies tied to Zalthir's Shadow Monk lineage and the spreading corruption. Treated as a countdown of unknown nature.
+10. **Demogorgon loose on the Prime Material** — existential threat Eldeth carries to Mithral Hall/Gauntlgrym.
+
+### D. Companions
+11. **Dawnbringer's therapy** — she refuses to leave Candlekeep without continuing sessions; her telepathic bond with the narrator is deepening.
+12. **Glabbagool's future** — his monk training, the captured drow spy still (as of ch56) inside him, and the ambiguity of his fused-arm bond.
+
+### E. Loose ends
+13. Barrow Warden ghosts' unspecified quest (Blingdenstone); Entémoch's Boon (two of three sacrifices — wealth, blood — remain); Fheminor's erased record; the corrupted/mutated dragon egg's ultimate fate.
+
+---
+
+## 9. CANON TIMELINE (chronological reference)
+
+1. **Ch1–3 — Velkynvelve:** Prisoners (Daz, Thorin, Zalthir, Grygum + others) escape Ilvara's drow outpost. Derendil, Imbros, Ront die.
+2. **Ch5–8 — Silken Paths:** Yuk Yuk murdered. Zalthir studies Jimjar's gambling.
+3. **Ch9–12 — Sloobludop/Darklake:** Cult schism; Ploopploopeen & Bloppblippodd die summoning **Demogorgon**, who razes Sloobludop. Shuushar departs.
+4. **Ch15–29 — Gracklstugh:** Themberchaud's enslavement exposed; Buppido, Narrak, Plinki killed; Council of Savants/Derro Demogorgon plot foiled; **corrupted Red Dragon Egg** taken; party flees as the "Ember Vanguard."
+5. **Ch27–33 — Neverlight Grove:** Myconid corruption revealed; Sarith and Xinaya die; Zuggtmoy's influence exposed; Basidia exiled; Stool/Rumpadump return home.
+6. **Ch30–32 — Lost Tomb of Khaem** side thread.
+7. **Ch34–48 — Blingdenstone:** **Glabbagool** gains sentience/bonds to the party; Pudding King defeated (Juiblex avatar); city stabilized; Burrow Wardens restored; **Jimjar reveals divine nature and vanishes.** Eldeth begins journey to Mithral Hall.
+8. **Ch49–54 — Ilvara's ritual site:** Ilvara (Zuggtmoy's vessel) destroyed; **Asha Vandree killed**; House Mizzrym/T'sarran agents slain; House T'sarran spy captured. Party emerges to the surface with Dawnbringer.
+9. **Ch53–61 — Candlekeep:** Janussi murdered; investigation exposes A'lai's frame of Daral and Bookwyrm's cover-up; Alkrist confesses and dies; helmed horror ambush; party confined in Deneir's Sanctum; Grygumite theology debate consumes the Avowed.
+10. **Ch62 — Candlekeep (current):** **A'lai seizes the first key from Bookwyrm and retreats to the High Tower awaiting Moziqodo with the second.** Kalan's fate unknown.

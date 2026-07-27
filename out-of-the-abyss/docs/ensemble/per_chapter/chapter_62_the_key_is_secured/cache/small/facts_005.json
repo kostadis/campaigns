@@ -1,0 +1,92 @@
+[
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the speaker reflecting on the group's strategic shift after crossing an unnoticed threshold, and he initiated the deception around the keys by falsely accusing Zalthir of leveling without work.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir leveled up after doing half the killing, and Thorin falsely accused him of not earning it \u2014 a lie Zalthir knew was a lie, making the mockery funny.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recognized the tactical opportunity in the key situation, proposed using the fake key to deceive others, and declared his intent to ferret out whoever believes they have the real key.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz articulated the long-term strategy: that the target will eventually question how two keys exist, and he confirmed the group\u2019s plan to seize both keys at Candlekeep's High Tower to claim control.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is stationed in the High Tower, expecting a dead demon to deliver the second key, unaware that the group holds the real second key and a decoy.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan provided a decoy key that is indistinguishable from a real key to those who cannot tell the difference, and the group now holds it alongside the real second key.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep's High Tower",
+    "fact": "Candlekeep's High Tower is the location where the target resides, expecting a key delivery from a dead demon, and is the intended target of the group's planned confrontation to seize control.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "real key",
+    "fact": "The real key is held by the group, distinct from the decoy, and is the one the target in the High Tower expects to be delivered by the dead demon.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "decoy key",
+    "fact": "The decoy key, provided by Kalan, is not a true key but functions as one to those unable to discern its falsity, and is now in the group's possession alongside the real key.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "dead demon",
+    "fact": "The dead demon was expected to deliver the second key to the target in the High Tower, but is now confirmed deceased, and its courier role is unknown to the target.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's High Tower",
+    "fact": "Candlekeep's High Tower is the strategic objective where the group plans to confront the target, seize both keys, and claim control of the location.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "key deception",
+    "fact": "The group executed a deception by possessing both a real key and a convincing decoy, causing the target to believe only one key exists and that it will be delivered by a dead demon.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "unpaid fee",
+    "fact": "No fee was ever settled for the group's operations, and this omission is not merely sloppiness \u2014 it is a deliberate strategy to defer negotiation until the target fully understands their worth.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Every hour the target waits, the terrain grows more favorable to the group, indicating the passage of time since the deception began and the target's unawareness.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "High Tower",
+    "fact": "The High Tower is the destination the group intends to occupy, having already positioned themselves to challenge the target and claim both keys and control.",
+    "quote_verified": false
+  }
+]

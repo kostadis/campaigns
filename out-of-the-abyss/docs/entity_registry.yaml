@@ -1766,15 +1766,6 @@ entities:
 - name: Circle of Builders
   type: faction
   note: myconid craft circle led by Gasbide
-- name: Circle of Explorers
-  type: faction
-  note: myconid scout circle led by Rasharoo, loyal to Basidia
-- name: Circle of Growers
-  type: faction
-  note: myconid farmer circle led by Hebopbe
-- name: Circle of Hunters
-  type: faction
-  note: myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
 - name: Circle of Sporers
   type: faction
   aliases:
@@ -2033,9 +2024,6 @@ entities:
 - name: Iceshield tribe
   type: faction
   note: orc tribe Ront fled, at war with the dwarves and Eldeth's people
-- name: Inner Circle
-  type: faction
-  note: recently formed council of sovereigns and circle leaders
 - name: Kavalrachni
   type: faction
   aliases:
@@ -2052,9 +2040,6 @@ entities:
 - name: Keeper of the Present
   type: faction
   note: librarian title held by Urmas
-- name: Keepers of the Flame
-  type: faction
-  note: Gracklstugh order in conflict with the Gray Ghosts
 - name: Lords' Alliance
   type: faction
   note: political-economic coalition of cities, faction represented by Eravien Haund
@@ -2094,9 +2079,6 @@ entities:
 - name: Steelshadow clan
   type: faction
   note: royal duergar clan that holds the throne
-- name: Stone Guard
-  type: faction
-  note: five hundred veteran duergar bodyguards and secret police of the Deepking
 - name: Stoneheart Enclave
   type: faction
   note: svirfneblin earth-elemental spellcasters, ex-Emerald Enclave splinter
@@ -2734,8 +2716,6 @@ entities:
 - name: The Cryptogram
   type: event
 - name: The Echoes of Alaundo
-  type: event
-- name: Abyssal Plague
   type: event
 - name: The Lurkwood Campaign
   type: event
@@ -3862,6 +3842,7 @@ entities:
   type: faction
   aliases:
   - Stone Guards
+  - Stone Guard
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Duergar military corps of 500 serving the Deepking, patrolling Gracklstugh
@@ -3889,6 +3870,8 @@ entities:
     conflict could bring great losses given their territory's proximity.
 - name: The Keepers of the Flame
   type: faction
+  aliases:
+  - Keepers of the Flame
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Order loyal to Clan Steelshadow and the Deepking that keeps Themberchaud placated;
@@ -4011,6 +3994,32 @@ entities:
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Mysterious figure named in a Whorlstone note claiming the stolen dragon egg
     is meant for it, not Narrak; identity unrevealed in this chunk.
+- name: Inner Circle of Neverlight Grove
+  type: faction
+  aliases:
+  - Inner Circle
+  note: recently formed council of sovereigns and circle leaders
+- name: Circle of Hunters of Neverlight Grove
+  type: faction
+  aliases:
+  - Circle of Hunters
+  note: myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
+- name: Circle of Growers of Neverlight Grove
+  type: faction
+  aliases:
+  - Circle of Growers
+  note: myconid farmer circle led by Hebopbe
+- name: Circle of Explorers of Neverlight Grove
+  type: faction
+  aliases:
+  - Circle of Explorers
+  note: myconid scout circle led by Rasharoo, loyal to Basidia
+- name: Sylvira's Abyssal Plague
+  type: event
+  aliases:
+  - Abyssal Plague
+  note: Abyss-born plague afflicting Sylvira, given to her by her son; disclosed during
+    Daz's ch60 interview
 distinct:
 - - Topsy
   - Turvy

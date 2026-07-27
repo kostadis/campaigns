@@ -1,0 +1,152 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a seasoned investigator who recognizes patterns of Abyssal corruption and has personal experience with Candlekeep\u2019s wards. He recalled the line 'If I don't see you tomorrow, do not look for me at my post' and deduced Kalan\u2019s likely location.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an expert in information security with deep familiarity with Candlekeep\u2019s magical infrastructure. He tested the ward by using Thaumaturgy on a scrap of paper, confirming the ward's anomalous behavior and its confinement to a single room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is pragmatic and skeptical, often pushing for clarity in ambiguous situations. He questioned whether the murders were connected to the keys and insisted on verifying the absence of Bookwyrm\u2019s key before accepting Kalan\u2019s explanation.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a Candlekeep sage who initially dismissed the possibility of ward failure but later accepted Grygum\u2019s evidence. He identified the ward\u2019s physical location as the room locked by the two high tower keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is a Watcher of Candlekeep who possessed the second key. He revealed that Sylvira Savikas\u2019s son is the source of recent attacks, and he deputized the adventurers as new Watchers after learning Bookwyrm\u2019s key was taken.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling who was once in the Abyss and now keeps her Abyss-born son locked in a magical sanctuary to protect others from him\u2014or to protect herself from him. Her son is linked to the murders and the breach of Candlekeep\u2019s wards.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was a Watcher of Candlekeep who entered Janussi\u2019s chamber first, took his heart and key, and was later killed by a creature seeking the key. Her death initiated the chain of events leading to the deputization of the adventurers.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a Watcher of Candlekeep whose chamber was breached, his heart taken, and his key stolen. His death preceded Bookwyrm\u2019s and is tied to the same conspiracy involving the tower keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Watchers of Candlekeep",
+    "fact": "The Watchers of Candlekeep are an elite cadre responsible for safeguarding the library\u2019s secrets and its magical defenses. They hold the two high tower keys, and their ranks have been decimated by targeted killings linked to the keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the oldest library in the world, warded with magic so ancient it functions as infrastructure. Its teleportation ward is confined to a single room, locked by two high tower keys, and has been compromised by an external force.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sea Warden's Tower",
+    "fact": "The Sea Warden's Tower is one of the Watchers\u2019 outposts among the other Watchers, located down among the lesser towers. It is the likeliest location where Kalan was hiding or preparing to defend himself.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Janussi\u2019s Chamber",
+    "fact": "Janussi\u2019s Chamber is the site of the first murder, where his heart and key were taken. It is the origin point of the conspiracy and the reason Bookwyrm was later killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Sanctum of Sylvira Savikas\u2019s Son",
+    "fact": "The sanctum is a magically sealed room where Sylvira Savikas imprisons her Abyss-born son. It is the source of the Abyssal corruption that has breached Candlekeep\u2019s wards and enabled the animated armor to infiltrate.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "High Tower Keys",
+    "fact": "There are two high tower keys that lock the room containing Candlekeep\u2019s teleportation ward. Janussi\u2019s key was taken by Bookwyrm; Bookwyrm\u2019s key was taken by her killer; Kalan\u2019s key remains unaccounted for.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Fake Key",
+    "fact": "Grygum retains a fake key, likely a decoy or replica used for training or deception. Its existence suggests prior knowledge of key theft risks within Candlekeep\u2019s security protocols.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Sylvira Savikas\u2019s Son",
+    "fact": "Sylvira Savikas\u2019s son is an Abyss-born tiefling whose presence radiates madness. He is responsible for the violent attacks on Watchers and the breach of Candlekeep\u2019s wards, manifesting through animated armor that hunts for the keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "monster",
+    "subject": "Helmed Horrors (Animated Armor)",
+    "fact": "Three suits of animated armor were sent through Candlekeep\u2019s breached wards to hunt for the high tower keys. They are not autonomous but are directed by an external force tied to the Abyssal corruption.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Death of Janussi",
+    "fact": "Janussi was murdered in his chamber; his heart and key were taken. This triggered Bookwyrm\u2019s subsequent attempt to secure the key, leading to her own death.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Death of Bookwyrm",
+    "fact": "Bookwyrm was killed after taking Janussi\u2019s key. Her throat was torn out by a creature seeking the key, and her death exposed the conspiracy to seize both high tower keys.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Compromise of Candlekeep\u2019s Teleportation Ward",
+    "fact": "Candlekeep\u2019s teleportation ward, meant to prevent entry or exit, is not functioning uniformly. It is confined to a single room and has been hacked, allowing animated armor to enter through windows and breach internal security.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Deputization of the Adventurers",
+    "fact": "Kalan, recognizing the Watchers\u2019 decimation and the threat to Candlekeep, deputized Daz, Grygum, Thorin, and Daral as new Watchers to recover the keys and stop the Abyssal incursion.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Location of Kalan\u2019s Key",
+    "fact": "Kalan\u2019s key remains unaccounted for. Its whereabouts determine whether the conspiracy has succeeded or if a final defense remains. The adventurers must find Kalan before his key is taken\u2014or before he is killed.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of the Firewall Hack",
+    "fact": "The method by which the Abyssal force breached Candlekeep\u2019s magical firewall is unknown. It may involve ancient Abyssal magic, a traitor within the Watchers, or a forgotten ritual tied to the sanctum.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the current session, following the death of Bookwyrm and preceding the adventurers\u2019 arrival at the Sea Warden\u2019s Tower.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep\u2019s High Tower Room",
+    "fact": "The room containing Candlekeep\u2019s teleportation ward is locked by the two high tower keys. It is the only location where the ward is active, and its compromise is the root of all recent breaches.",
+    "quote_verified": false
+  }
+]

@@ -1,0 +1,38 @@
+chapters_selected:
+- docs/chapters/chapter_62_the_key_is_secured.md
+extract:
+  backend: dgx
+  model: 'Qwen/Qwen3-Next-80B-A3B-Instruct-FP8 '
+  endpoints:
+  - http://192.168.1.147:8001/v1
+  - http://192.168.1.121:8001/v1
+synthesize:
+  backend: claude-code
+  model: claude-opus-4-8
+  endpoints: []
+paths:
+  chapters_glob: docs/chapters/chapter_*.md
+  per_chapter_dir: docs/ensemble/per_chapter
+  corpus_glob: docs/ensemble/per_chapter/*/merged.json
+  merged_out: docs/ensemble/merged.json
+  state_dossiers_dir: docs/ensemble/state_dossiers
+  dossiers_glob: docs/ensemble/merged_dossiers/*.md
+  npc_dossiers_glob: docs/ensemble/merged_dossiers/npc_*.md
+  threads_out: docs/ensemble/threads.md
+  recent_events_out: docs/recent_events.md
+  inventory: ''
+tuning:
+  chapter_parallel: 3
+  chunk_parallel: 4
+  bundle_min_facts: 3
+  threads_min_facts: 2
+  dossier_min_facts: 10
+  entity_parallel: 0
+  recent_events_window: 0
+planning:
+  synth_mode: flat
+  npc: []
+  arc_scores: []
+  context: []
+  depth: scene
+  force_include: []

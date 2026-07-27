@@ -19,3 +19,24 @@ chapters: 17-19
 - The exact current condition of the derro smuggling routes (whether still usable, fully blocked, or repurposed) is unclear — fungal growths are noted as partial blockages, but no confirmation of active derro presence or recent use.
 - It is unknown which specific factions are monitoring the tunnels or what exact evidence they seek; only that “many different factions” are involved and hope to benefit.
 - Whether the ghostly echoes or magical mushrooms have changed in nature or intensity since chapter 17 is not updated in later chapters.
+
+---
+
+<!-- source: npc_whorlstone_tunnels.md -->
+
+---
+name: Whorlstone Tunnels
+type: npc
+n_facts: 1
+chapters: 25-25
+---
+
+### Whorlstone Tunnels
+
+- **Type:** Location  
+- **Current state:** Active source of magical energy; the origin point of the spirals referenced in ritual chant.  
+- **Significance:** Central to ritual magic; the spirals’ power is said to emanate from its depths.  
+- **Current condition:** Not described as damaged, occupied, or altered — remains the unchallenged source of the spirals’ magic.  
+
+## Uncertainty  
+None.

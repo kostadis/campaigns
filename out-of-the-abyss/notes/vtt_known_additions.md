@@ -122,3 +122,8 @@ Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin 
 - Dwarmij  — Candlekeep/D&D NPC reference; 'Dwarmij's, this is the closest spell that'  — 2026-06-08
 Elian  — 'Elian says, my boss, Kalan Strongbranch, was a big fan of this approach' (staffer under Gatewarden Kalan)  — 2026-06-27 (session 20260622)  — ✅ PROMOTED 2026-06-27: established canon; dossier at docs/npcs/elian.md; delivers the handout "The Threefold Proof" (notes/sessions/handouts/threefold_proof.md). Glossary: Eliana→Elian.
 Jezebel  — 'She turns to request a familiar, Jezebel! Organize the chamber's seats...' (a familiar)  — 2026-06-27 (session 20260622)
+
+## From summaries/20260720/GMT20260721-010038_Recording (Sea Warden's Tower / keys arc)
+
+- **North Gallery** / **North Galleries** — dungeon location near the Sea Warden's Tower and the Echoing Hall ("The Echoing Hall, then the North Galleries... key to the barred North Gallery door"); confirmed by the GM as referenced in the published Candlekeep Mysteries module, not a campaign coinage — 2026-07-20
+- ~~Moshiv~~ — RESOLVED 2026-07-20: not a name. GM confirmed "Moshiv" is a mis-hearing of "initiative" during an initiative-order callout ("Zalthir's, Moshiv, is a 16" → "Zalthir's initiative is a 16"). Recorded as a non-name fix in vtt_transcription_corrections.md; targeted-edited in the 20260720 cleaned VTT.

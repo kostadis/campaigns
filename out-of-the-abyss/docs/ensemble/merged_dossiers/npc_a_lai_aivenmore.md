@@ -32,3 +32,29 @@ chapters: 56-61
 - Unclear attribution: Was A'lai the sole instigator of the plot, or did he merely exploit Alkrist’s existing resentment? The text says he “set the plot in motion,” but does not confirm direct orchestration of the poisoning.  
 - Current status of Miss Hollypocket: Last seen with A'lai at the crime scene, but her current whereabouts or allegiance are unmentioned — is she still with him? Complicit? Dead? Unknown.  
 - Why is he “not expected to be named” as head of the Avowed? Is it due to suspicion, political maneuvering, or external pressure? The reason is implied but not stated.
+
+---
+
+<!-- source: faction_a_lai_aivenmore.md -->
+
+---
+name: A'lai Aivenmore
+type: faction
+n_facts: 1
+chapters: 62-62
+---
+
+### A'lai Aivenmore
+
+- **Current status:** Alive  
+- **Current location:** Candlekeep's High Tower  
+- **Faction allegiance:** A'lai Aivenmore (singular entity acting as factional anchor)  
+- **Current possessions:** First key (taken from Bookwyrm)  
+- **Current assignment / role:** Waiting for Moziqodo to arrive with the second key  
+- **Key relationship:** Actively awaiting Moziqodo; last known interaction involved extracting the key from Bookwyrm  
+- **Defining recent action:** Seized the first key from Bookwyrm and retreated to Candlekeep’s High Tower to await the second key  
+
+## Uncertainty
+- The current status of Bookwyrm (whether alive, dead, or incapacitated after the key was taken) is not stated.  
+- The current location or status of Moziqodo is unknown — only that A'lai is waiting for them.  
+- Whether A'lai Aivenmore is part of a larger faction or operates alone is not clarified beyond their singular actions.

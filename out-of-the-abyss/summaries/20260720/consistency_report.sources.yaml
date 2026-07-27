@@ -1,0 +1,32 @@
+consistency_check:
+  timestamp: "2026-07-25T22:43:24-07:00"
+  campaign: "out-of-the-abyss"
+  document_checked: "summaries/20260720/gm-assist.md"
+  report: "summaries/20260720/consistency_report.md"
+  config: "config/config.yaml"
+  model: "claude-sonnet-4-6"
+  backend: "claude-code"
+  issues_found: 10
+  session_prep_used: true
+  entity_registry_used: true
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/entity_registry.yaml,                                          role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/session_prep/20260712_candlekeep_nothing_under_detect_magic.md, role: "direct session prep — picks up mid-scene at the exact point gm-assist.md opens" }
+      - { path: notes/sessions/candlekeep_hightower_session.md,                       role: "next-scene GM prep (A'lai's Reckoning) that this session's ending sets up" }
+      - { path: notes/sessions/handouts/player_npc_tracker_candlekeep.md,             role: "player NPC/name tracker" }
+      - { path: notes/sessions/handouts/threefold_proof.md,                           role: "Kalan's investigation-methodology paper, referenced in gm-assist's NPC section" }
+      - { path: notes/threads/candlekeep_false_confidence_bookwyrm_lever.md,          role: "open thread this session's Bookwyrm murder advances" }
+  notes: |
+    Anthropic API key had insufficient credit balance; re-ran with
+    --backend claude-code (bills the Claude Code subscription instead of the
+    metered API) after the default run failed with a 400 BadRequestError.
+    Several of the script's raw findings were cross-checked against the
+    session VTT (GMT20260721-010038_Recording.transcript.retranscribed.cleaned.cleaned.vtt)
+    before triage, since the script only compares gm-assist.md against docs,
+    not the primary transcript. Two of its ten findings did not survive that
+    check (helmed horror count, "pit fiend" phrasing) — see the report handed
+    to the user for the full triage and reasoning.

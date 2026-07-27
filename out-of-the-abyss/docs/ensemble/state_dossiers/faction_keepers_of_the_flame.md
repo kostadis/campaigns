@@ -1,5 +1,5 @@
 ---
-name: Keepers of the Flame
+name: The Keepers of the Flame
 type: faction
 n_facts: 16
 chapters: 15-26

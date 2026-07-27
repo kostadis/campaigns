@@ -1,0 +1,94 @@
+consistency_check:
+  timestamp: "2026-07-25T23:15:00-07:00"
+  campaign: "out-of-the-abyss"
+  document_checked: "summaries/20260720/session-summary.md"
+  report: "summaries/20260720/consistency_report_session_summary.md"
+  config: "config/config.yaml"
+  model: "claude-sonnet-4-6"
+  backend: "claude-code"
+  issues_found: 10
+  session_prep_used: true
+  entity_registry_used: true
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,                                                       role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml,                                          role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/session_prep/20260712_candlekeep_nothing_under_detect_magic.md, role: "direct session prep for this session (helmed-horror aftermath through Moziqodo fight)" }
+      - { path: notes/sessions/handouts/player_npc_tracker_candlekeep.md,             role: "player NPC/name tracker" }
+      - { path: notes/sessions/handouts/threefold_proof.md,                          role: "Kalan's investigation-methodology paper, referenced in Memorable Moments" }
+      - { path: notes/npcs/candlekeep_avowed.md,                                     role: "Avowed NPC dossier (Kalan, Bookwyrm, Daral, Fembris, Tadric identities)" }
+  fixes_applied:
+    - "Bookwyrm's note: 'too...' -> 'to—' (cut off), 5 occurrences"
+    - "Frighten/stun attribution: Summary + Memorable Moments now credit
+       Thorin's Menacing Attack for the fear, Zalthir's Stunning Strike for
+       the stun (3 occurrences)"
+    - "'Bookwyrm's tower ... even brighter than usual' -> attributed to Daral
+       (residual shimmer from Dawnbringer's cure), 3 occurrences"
+  notes: |
+    All 10 automated findings plus one independently-discovered issue were
+    cross-checked against the session prep doc and the primary VTT
+    (GMT20260721-010038_Recording.transcript.retranscribed.cleaned.cleaned.vtt,
+    and the pre-retranscription raw GMT20260721-010038_Recording.transcript.vtt)
+    before triage, since the script only compares session-summary.md against
+    docs, not the primary transcript.
+
+    Confirmed real (recommended for fix):
+    - Bookwyrm's note text: prep + raw VTT both show the line was spoken as
+      "he is using the beast to [cut off]" (DM: "he is using the beast to
+      dot dot dot"); the recap's "too..." is a homophone transcription error
+      that changes the meaning (interrupted preposition vs. the word "also").
+      NOT one of the script's 10 findings -- found via independent session-prep
+      + VTT cross-check.
+    - Issue 3 (who frightened Moziqodo): VTT confirms Thorin's Menacing Attack
+      caused the frightened condition; Zalthir's ki point caused the stun.
+      Summary/Memorable Moments swap the attribution.
+    - Issue 8 ("Bookwyrm's tower"): traced to the raw transcript, which has
+      lowercase "bookworm" (not the proper noun) at this line -- the
+      retranscription pass "corrected" it to the NPC name Bookwyrm, and the
+      summary pass then invented "tower" to rationalize a dead NPC's glow.
+      GM confirmed it meant Daral (present, freshly cured by Dawnbringer,
+      bookish) -- rewritten in all three occurrences to attribute the glow
+      to Daral (residual shimmer from Dawnbringer's cure) instead of
+      "Bookwyrm's tower".
+    - Issue 9-adjacent, folded into the Document-Level Note: campaign_state.md
+      is stale post-Chapter 59 (Bookwyrm still shown alive, naming-ceremony
+      quest still active) -- already flagged by the script.
+
+    Rejected as false positives (verified against VTT / prep, not applied):
+    - Issue 1 (helmed horror count): session-summary.md is internally
+      consistent at "three" everywhere (Summary, both Scenes bullets, NPCs,
+      Locations) -- the report's claimed quote "two ruined suits of armor"
+      does not appear anywhere in session-summary.md; that phrase is from
+      campaign_state.md (a different, stale document also flagged by the
+      Document-Level Note). Prep doc's opening line and the DM's own explicit
+      mid-session statement ("you just got attacked by three Helmed Horrors")
+      both confirm three is correct.
+    - Issue 2 ("pit fiend"): VTT shows the DM and players calling Moziqodo
+      "the Pit Fiend" repeatedly and by name in actual play -- the recap
+      faithfully transcribes table usage, even though it conflicts with
+      Moziqodo's demonspawn/CR5 stat block. Same conclusion reached
+      independently in the prior gm-assist.md check today (see that report's
+      sources.yaml).
+    - Issue 4 (Daz's fire in the sanctum) and Issue 7 (Grygum's radiant AoE):
+      both phrases are drawn verbatim from the DM's own "previously on" recap
+      read aloud at the top of this session's VTT -- faithful transcription
+      of the DM's own words, not a recap invention.
+    - Issue 5 ("natural 1 rescued into a 26"): VTT confirms the sequence
+      (nat 1 -> Grygum's Help -> new roll of 26); the report's objection is a
+      phrasing/rules-pedantry nitpick, not a factual error.
+    - Issue 6 (Thaumaturgy producing fire): VTT shows the player explicitly
+      said "Thaumaturgy, fire play" and the DM ruled it worked at the table --
+      faithful to actual (if not RAW-accurate) play, not a recap error.
+    - Issue 9 (Moziqodo containment tense): DM said live at the table "she
+      keeps him locked in a magical sanctuary to protect him" (present tense)
+      -- matches the party's in-fiction knowledge state; the "already
+      escaped" fact is GM-only banked backstory the prep doc explicitly
+      says does not surface tonight.
+
+    Minor/optional, not recommended to change:
+    - Issue 10 (A'lai as "mastermind"): report itself concedes this is
+      accurate from the party's in-session perspective; a GM-note qualifier
+      is a nice-to-have for future prep, not a recap error.

@@ -1,0 +1,268 @@
+[
+  {
+    "type": "location",
+    "subject": "sanctum",
+    "fact": "Three suits of armor lay in pieces on the sanctum floor.",
+    "source_quote": "Three suits of armor lay in pieces on the sanctum floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was pounding on the door and shouting to be let out.",
+    "source_quote": "Daral Yashenti was pounding on the door and shouting to be let out.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "door smashed off hinges",
+    "fact": "The door had been smashed off its hinges by the first thing through it.",
+    "source_quote": "The door had been smashed off its hinges by the first thing through it",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti stopped pounding when he noticed the room's occupants.",
+    "source_quote": "When he noticed, he stopped.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti turned around after counting the people in the room.",
+    "source_quote": "He turned around.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti asked, \"What do we do next, gentlemen?\"",
+    "source_quote": "\"What do we do next, gentlemen?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suggested that Fembris Lancer might be involved in the attack.",
+    "source_quote": "\"So we now suspect Fembris Lancer?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key observed by constructs",
+    "fact": "Three constructs came through the windows knowing exactly which hand to look in.",
+    "source_quote": "three constructs with no minds of their own had come through the windows knowing exactly which hand to look in",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key detected as non-magical",
+    "fact": "The key came up empty when Detect Magic was cast on it days ago.",
+    "source_quote": "We had cast Detect Magic on it once, days ago, and it had come up empty.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled Kalan Strongbranch's phrasing: \"I have given it now to someone who is not me.\"",
+    "source_quote": "\"I have given it now to someone who is not me.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum said, \"Someone who is not me. Yeah, that's a weird phrasing.\"",
+    "source_quote": "\"Someone who is not me. Yeah, that's a weird phrasing,\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "key handed to Daral",
+    "fact": "Grygum held the key out to Daral.",
+    "source_quote": "Grygum held the key out to Daral.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti turned the key over and said he couldn't tell if it was the right key.",
+    "source_quote": "Daral turned it over, pensive. \"Well, I'm not a locksmith, so I couldn't tell you for sure.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti said the keys to Candlekeep's High Tower are completely magical.",
+    "source_quote": "\"Oh, absolutely. Completely magical. They're the two keys that open Candlekeep's High Tower.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "key",
+    "fact": "The key stayed dark when Detect Magic was cast and the room lit up.",
+    "source_quote": "The key sat in the middle of all that light and stayed dark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti declared, \"No. No. This is not the key. This is not the key.\"",
+    "source_quote": "\"No. No. This is not the key. This is not the key.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "bell tolling incorrectly",
+    "fact": "A bell began to toll somewhere above them in a flat, institutional pattern.",
+    "source_quote": "a bell began to toll somewhere above us, and it was tolling wrong. Not the hour. A pattern, flat and institutional",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asked, \"What does that mean?\"",
+    "source_quote": "\"What does that mean?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum joked, \"Anybody needs to change the battery?\"",
+    "source_quote": "\"Anybody needs to change the battery?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's death reported",
+    "fact": "Bookwyrm was dead.",
+    "source_quote": "Bookwyrm was dead.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz asked, \"Bookwyrm?\"",
+    "source_quote": "\"Bookwyrm?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Messenger",
+    "fact": "The messenger said, \"Bookwyrm is dead.\"",
+    "source_quote": "\"Bookwyrm is dead.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum asked, \"Who killed him?\" and was corrected to 'her.'",
+    "source_quote": "\"Who killed him?\" Grygum asked, and was corrected: her.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's throat torn",
+    "fact": "Bookwyrm's throat had been torn, not cut.",
+    "source_quote": "Her throat had been torn. Torn, not cut.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's heart intact",
+    "fact": "Bookwyrm's heart was present and intact, not beaten but in its proper place.",
+    "source_quote": "she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "murders separated by method",
+    "fact": "Daz sorted Bookwyrm's murder and Janussi's murder into separate columns.",
+    "source_quote": "I sorted the two murders into separate columns then and there",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Messenger",
+    "fact": "The messenger insisted that crimes like this don't happen in Candlekeep.",
+    "source_quote": "These crimes don't happen in Candlekeep, he kept insisting.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin said, \"Reality disagrees.\"",
+    "source_quote": "\"Reality disagrees,\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum said, \"I feel like we've done a poor job of serving and protecting here.\"",
+    "source_quote": "\"I feel like we've done a poor job of serving and protecting here,\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer brought Daz and others up to Bookwyrm's office.",
+    "source_quote": "Fembris Lancer and Daral Yashenti brought us up to her office.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's office",
+    "fact": "Bookwyrm's office was a ruin.",
+    "source_quote": "The room was a ruin, and the ruin was informative.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was an eighteenth-level magic user.",
+    "source_quote": "She was an eighteenth-level magic user at rest in her own tower",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm's ninth-level spell slots probably held Validate Citation and Identify False Citation.",
+    "source_quote": "a woman whose ninth-level slots probably held Validate Citation and Identify False Citation rather than anything that stops claws.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "killer knew Bookwyrm's weaknesses",
+    "fact": "The killer knew Bookwyrm would be relaxed, confident, and had little power pointed at the door.",
+    "source_quote": "whoever came for her knew she would be relaxed, knew she would be confident, and knew exactly how little of her power was pointed at the door.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "killer obtained information",
+    "fact": "The killer obtained information about Bookwyrm's habits, suggesting someone sold it.",
+    "source_quote": "You don't get that from luck. You get it from information, and information is a thing somebody sells you.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "note on desk",
+    "fact": "On Bookwyrm's desk was a note in her own hand that stopped mid-sentence: \"He is using the beast to\u2014\"",
+    "source_quote": "On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to\u2014*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum read the note aloud.",
+    "source_quote": "Grygum read it aloud",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti had no idea what the 'beast' was.",
+    "source_quote": "Daral had no idea what the beast was.",
+    "quote_verified": true
+  }
+]
