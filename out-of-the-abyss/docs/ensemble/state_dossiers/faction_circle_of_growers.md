@@ -1,5 +1,5 @@
 ---
-name: Circle of Growers
+name: Circle of Growers of Neverlight Grove
 type: faction
 n_facts: 1
 chapters: 32-32

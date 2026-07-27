@@ -11,17 +11,17 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier | **Zalthir** |
+| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier, Saltyr, Xalter | **Zalthir** |
 | Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham, Gurgham, Girgam, Girgum, Graghum, Greggum, Jorgum, Gargram, Ragum | **Grygum** |
 | Thorne, Thornton, Thurren, Or Torin, Thorian, Thorn | **Thorin** |
-| Adaz, Das, Dez, Dazz, Jazz, Doug | **Daz** |
+| Adaz, Das, Dez, Dazz, Jazz, Doug, Raz, Gaz, Dad | **Daz** |
 | Dazes | **Daz's** |
 
 ## NPCs and creatures
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel, Glabigold | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -47,14 +47,14 @@ First catalogued during the cleanup of
 | Strouds | **Stroud's** |
 | Elred | **Eldred** |
 | Dazzin, Dazanan | **Daz'issin** |
-| Bookworm, Bookform, Bookworn, Does Bookworm, Arum, Book Forum, Book Room, Bookroom | **Bookwyrm** |
+| Bookworm, Bookform, Bookworn, Does Bookworm, Arum, Book Forum, Book Room, Bookroom, Bookward, Brookworm, Brinkrum, workworm | **Bookwyrm** |
 | Miro Milo Glutbarrell | **Milo Goodbarrel** |
 | Philippine | **Philemon** |
-| Janusi, Janus, Janus's, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi, Genuzi, Genuisi, Janusa, Jedusi, Venusi, Vinusi, Matt Genusi, GenoC, Genucio, Genousi, Jaducu, Genuzzi | **Janussi** |
-| Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik, Tedrick, Tatrix | **Tadric** |
+| Janusi, Janus, Janus's, Genasi, Genusi, Janu, Genius, Genesee, Genuzia, Janice, Januzzi, Genesis Croix, Genosi, Genuzi, Genuisi, Janusa, Jedusi, Venusi, Vinusi, Matt Genusi, GenoC, Genucio, Genousi, Jaducu, Genuzzi, Genussi | **Janussi** |
+| Tadrick, Tadrik, Kadrick, Tabree, Cedric, Tardik, Tedrick, Tatrix, Cadric, Tadryk, Taldrik, Todrick | **Tadric** |
 | Callan Strongbranch, Callan Strongfeld, J- Kaelin, Kalen Strongbridge, Callan Strongbench, North Carolina Strong Brunch | **Kalan Strongbranch** |
 | Callan, Callum, Cullen, Kaelin, Colin, Cal, Collins, Talon, Talen, Kalen, Callen, Kalin, Kellen, Carolyn | **Kalan** |
-| Ally Avonmore, Alai Ivanmore, Ally Ivan Moore, Ally Avanmore, Alvin Moore, Ivan Moore, Ivanor | **A'lai Aivenmore** |
+| Ally Avonmore, Alai Ivanmore, Ally Ivan Moore, Ally Avanmore, Alvin Moore, Ivan Moore, Ivanor, A'lai Avonmore, A'lai Ivanmore, Alai Evanmore, Ivanmoor, Avonmoor | **A'lai Aivenmore** |
 | Avon Moore | **Aivenmore** |
 | Alay, L.A., Alei, Eli, Allay, Ally | **A'lai** |
 | Varath, Verith, Varith, Varetha | **Vareth** |
@@ -65,7 +65,7 @@ First catalogued during the cleanup of
 | Miss Molly Pocket, Miss Hollypock | **Miss Hollypocket** |
 | Ogma, Ogama | **Oghma** |
 | Bahamatians | **Bahamutians** |
-| Infirmus, Ephemeris, Fembrus, Fendris, Fembrance | **Fembris** |
+| Infirmus, Ephemeris, Fembrus, Fendris, Fembrance, Ephembris, Fembra | **Fembris** |
 | Keeper of Toads | **Keeper of Tomes** |
 | Janusi's Chambers | **Janussi's Chambers** |
 | Aluando, Alando, Alwando | **Alaundo** |
@@ -81,7 +81,7 @@ First catalogued during the cleanup of
 | Denier, Demonor | **Deneir** |
 | Kai Tigersteel | **Kei Tigersteel** |
 | Holley | **Ms. Hollypocket** |
-| Alchrist, Alcrest, Alcist, Alcrist, Alcris, Al Christ, Altres, Elkhrist, Alcres, Alprist, El Chris, Alcarus, Alagris, Alteris, Alterus, Caltrus, Elkris, Alcra, Alkra, Elkhurst, Elkrist, Hulkrist | **Alkrist** |
+| Alchrist, Alcrest, Alcist, Alcrist, Alcris, Al Christ, Altres, Elkhrist, Alcres, Alprist, El Chris, Alcarus, Alagris, Alteris, Alterus, Caltrus, Elkris, Alcra, Alkra, Elkhurst, Elkrist, Hulkrist, Alchris | **Alkrist** |
 | Dwarmages | **Dwarmij's** |
 | That Philemon | **That Philistine** |
 | Vushadi, vouchardier | **Vooshadi** (Vooshadi Moonriver) |
@@ -93,14 +93,16 @@ First catalogued during the cleanup of
 | Kellenvore | **Kelemvor** |
 | Char | **Shar** |
 | Seluni | **Selûne** |
-| Strongbench | **Strongbranch** |
+| Strongbench, Stormbranch | **Strongbranch** |
 | Firoon | **Faerûn** |
 | Menzo Baranzin | **Menzoberranzan** |
 | Gregor, Dragum | **Grygum** |
 | Eliana | **Elian** |
 | Helm Horror, Helm Torror, Helton Horror, Home Horror, Behound Horror, Hounded Horror, Caleb Sheet | **Helmed Horror** |
-| Helm Horrors | **Helmed Horrors** |
+| Helm Horrors, Helmed Aurors | **Helmed Horrors** |
 | Daryls | **Darals** |
+| Mosicoto, Mozikolo, Mosley Kodo, Ozi Kodl | **Moziqodo** |
+| Bolkut, Boldcut, bald cat, bowl cut, bolt cut | **Tadric** |
 
 ## Items / artifacts
 
@@ -113,6 +115,7 @@ First catalogued during the cleanup of
 | Resonance Blime | **Resonance Slime** |
 | Midnight Whisper, Midnight Terror | **midnight tears** |
 | Modocanan's nations | **Mordenkainen's Mansion** |
+| watcher's stare | **Watcher's Stair** (key) |
 
 ## Houses / factions
 
@@ -136,7 +139,7 @@ First catalogued during the cleanup of
 |---|---|
 | Vulking Valve, Velcan-developed | **Velkynvelve** |
 | Whirlstone | **Whorlstone** |
-| Candle Keep, Candleep, Candle Deep, Candleteep, Candle Key, Candle Keeper, Capital Keep, Castlegate | **Candlekeep** |
+| Candle Keep, Candleep, Candle Deep, Candleteep, Candle Key, Candle Keeper, Capital Keep, Castlegate, Kettlekeep, Scandal Keeps Call, Candidate keep | **Candlekeep** |
 | Mithril Hall | **Mithral Hall** |
 | Whirlstone Caverns | **Whorlstone Caverns** |
 | Castle Candlekeep | **Candlekeep Library** |
@@ -187,7 +190,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis, Christina | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
+| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis, Christina, Castanhas, Custodus, Gustavus, Kassadis, Kastatis, Christophers | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
 | Lit | **lit.** |
 | And Christadas | **And Kostadis** |
 | Torward | **toward** |
@@ -217,6 +220,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - "Marie" stray word in "Yeah, Marie, Glabbagool" — removed (transcription artifact, no NPC by that name).
 - "Melba" in "the Kostadis is Melba" — corrected to "mellow" (table-chatter mishearing).
 - "taught San to think" — corrected to "taught sand to think" (the "we taught sand to think" meme; not a campaign name).
+- "Moshiv" in "Zalthir's, Moshiv, is a 16" (20260720 session) — corrected to "initiative" (ASR mishearing during an initiative-order callout; confirmed by GM, not a campaign name).
 
 ## Notes for future passes
 
@@ -226,6 +230,8 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - Whisper-style transcribers tend to anglicize fantasy names into English/proper nouns (Thorin → Thorne/Thornton, Dawnbringer → Don Bringer, T'sarran → Terran). Grep for the anglicized forms before each cleanup.
 - Possessive `'s` can be lost in regex replacement when a variant is matched as `Name's` and replaced with bare `Name` — eyeball the diff after a sweep.
 - **Common-word wrong-forms are case-insensitive landmines.** `apply_replacements.py` matches `\bwrong\b` with `re.IGNORECASE`, so single-word entries that double as English words will over-replace if they ever appear lowercase. Current risk rows added during the 20260618 pass: `Char`→**Shar**, `Gal`→**Daral**, `Katherine`→**Kazryn Nyantani**, `Logan`/`Levin`/`Lobin`/`Saloon`→**Leuwin**, `Oren`→**Orrin**. In the 20260618 transcript these appeared only capitalized, so it was safe — but grep for lowercase occurrences before applying the glossary to any future VTT. Added during the 20260622 pass: `Cal`/`Colin`→**Kalan**, `Oven`→**Orrin**, `Of`-style stray leaders excluded. The 20260622 transcript had no lowercase `cal`/`colin`/`oven`, so it was safe — re-check before future applies.
+- **20260720 pass — deliberately kept OUT of the glossary as common-word landmines** (applied as targeted edits to that one transcript instead, not blanket rows): `Mosquito` → **Moziqodo** (the insect meaning is a live risk in an Underdark-heavy campaign); `Ale` → **A'lai** (drink name). If either resurfaces as a genuine NPC/PC mis-hearing in a future transcript, re-grep for lowercase collisions before deciding whether to promote it to a real row.
+- **`Bookworm`/`workworm` → Bookwyrm is a confirmed live landmine, not just a theoretical risk.** In the 20260721 transcript (`summaries/20260720/`), one instance of lowercase "bookworm" genuinely meant the common noun — describing Daral (bookish, freshly cured by Dawnbringer) glowing under Detect Magic, not the NPC Bookwyrm (who was dead and not in the room). The `/consistency-check` and `/session-summary-consistency` passes both had to catch and reverse this via context (Daral was present; Bookwyrm wasn't), not via the glossary. Keep the row for the many correct cases, but do not assume every "bookworm"/"workworm" hit is the NPC — check who's actually in the scene before accepting the glossary's replacement.
 
 ## Phrase fixes
 
@@ -239,6 +245,11 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 | Generals That Wage Them | **Generals That Waged Them** |
 | Talashian Nights | **Tashalian Nights** |
 | Fade from sugaring | **shuddering** |
+| overcrumbed | **overcome** |
+| BC 15 | **DC 15** |
+| Get zooks, Ged Zooks | **Gadzooks** |
+| Oregon Express | **Orient Express** |
+| Butts out there | **But Zalthir** |
 
 ## Calendar / lore
 

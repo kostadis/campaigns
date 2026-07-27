@@ -1,5 +1,5 @@
 ---
-name: Stone Guard
+name: The Stone Guard
 type: faction
 n_facts: 3
 chapters: 19-28

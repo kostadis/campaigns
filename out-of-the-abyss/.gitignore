@@ -43,3 +43,8 @@ docs/.triage_queue*.json
 docs/party/old/*.pdf
 docs/background/.module_inventory/
 docs/background/.spell_canon/
+
+# Raw Zoom session audio (tens of MB per session, past GitHub's comfortable
+# blob size and no LFS here). Same rule as the PDFs above: the transcript .vtt
+# is the versioned artifact, the recording it was made from is not.
+summaries/**/*.m4a

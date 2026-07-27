@@ -183,6 +183,14 @@
   > "A demonic voice, possibly Juiblex himself, declares: 'You haven't won. I will be reborn. I will consume the banquet of the queen of the fungi, and I will grow.'"
 - [ch47] Juiblex's voice declared he would be reborn by consuming Zuggtmoy, the Queen of Fungi. The twisted fungi in the area suggest this prophecy is already in motion, creating a new looming threat for the party.
 
+### Kalan's fate (domed rotunda)
+- [ch62] It is unknown whether Kalan survived after being left behind, out of breath.
+  > "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there."
+- [ch62] Kalan's survival is uncertain after he was left behind, breathless and exhausted.
+  > "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there."
+- [ch62] Kalan’s whereabouts and condition are unknown after he was last seen running hard with the key. His survival remains an open question, and his connection to Moziqodo and Sylvira Savikas may be pivotal.
+  > "Is Kalan alive?"
+
 ### Kuo-toan-fulness (Sloobludop)
 - [ch08] Kuo-toan-fulness is a mental technique proposed by Shuushar to create a cognitive gap between impulse and action, applied as a method of control on Buppido during his restraint.
   > "The goal is to create a space between the moment an impulse comes to your mind and the moment you take an action, and in that moment, wonder if that impulse is a reaction to the real world or just a response in your mind."
@@ -212,6 +220,10 @@
   > "Midnight Tears. I kept the name where I would not lose it."
 - [ch59] The name 'Midnight Tears' was retained as a lead, not to be lost.
   > "Midnight Tears. I kept the name where I would not lose it."
+
+### Missing Red Dragon Egg
+- [ch16] The egg is a key object that Gartokkar demands, but its location and nature are not specified in this session.
+  > "Gartokkar looks at him, 'Just find me the egg and the proof of the Gray Ghosts.'"
 
 ### nature of death and sleep (Buppido’s lair)
 - [ch25] A philosophical thread introduced by Pelek/Derro, who questions whether death is a form of sleep. The party does not resolve it, but it lingers as an existential undercurrent, especially as Pelek is bound and half-dead.

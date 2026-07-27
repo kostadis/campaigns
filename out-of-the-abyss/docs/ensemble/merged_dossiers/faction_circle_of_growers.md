@@ -1,5 +1,5 @@
 ---
-name: Circle of Growers
+name: Circle of Growers of Neverlight Grove
 type: faction
 n_facts: 1
 chapters: 32-32
@@ -26,7 +26,7 @@ chapters: 32-32
 <!-- source: location_circle_of_growers.md -->
 
 ---
-name: Circle of Growers
+name: Circle of Growers of Neverlight Grove
 type: location
 n_facts: 1
 chapters: 32-32

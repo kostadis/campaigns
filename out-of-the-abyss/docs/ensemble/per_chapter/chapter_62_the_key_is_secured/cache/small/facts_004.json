@@ -1,0 +1,128 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed the pit fiend's single-minded focus on killing Tadric and acted decisively to intercept it, delivering the final stunned blow after Thorin broke its posture. He later reflected on the tactical superiority of preemptive violence and chose not to comment on the team's unspoken cohesion.",
+    "source_quote": "I said nothing. I was watching the fiend, and the fiend was not watching us. It hadn't looked up. It was still busy with its kill, certain of its evening.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin struck first against the pit fiend, using Dawnbringer to shatter its confidence and lock it in place with radiant force, preventing its escape and saving Tadric. He had previously challenged Grygum\u2019s assertion that a pit fiend cannot be frightened \u2014 and proved it.",
+    "source_quote": "Thorin reached it first. The dwarf who never wins a footrace won this one: he closed the distance, planted himself between the fiend and the room, and Dawnbringer came down. Radiant, not fire.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum asserted that a pit fiend cannot be frightened, but was proven wrong by Thorin\u2019s actions. He later attempted to strike the fiend with a lightning javelin, missed, and expressed frustration, yet acknowledged the team\u2019s success in the aftermath.",
+    "source_quote": "Grygum had told him you can't frighten a pit fiend. Thorin had asked if he'd like to see him try. That question was now settled.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz refrained from expending precious resources on the fire-immune fiend, instead using three plain force darts to finish its collapse, demonstrating discipline and restraint in combat.",
+    "source_quote": "Daz declined to spend anything precious on a thing immune to fire. Three darts of plain force, first level, unerring, while he held the rest of himself in reserve.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric survived a near-fatal attack by the pit fiend while carrying the key, unaware of its value. His first question upon regaining consciousness was about Kalan\u2019s survival, revealing his loyalty and emotional stakes.",
+    "source_quote": "Moziqodo,\" he said. \"Sylvira Savikas's son.\" And then, quiet and cracked: \"Is Kalan alive?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan was last seen running hard, breathing heavily, after placing the key in Tadric\u2019s possession. His current status is unknown, but he is presumed alive as of the last observation.",
+    "source_quote": "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Moziqodo",
+    "fact": "Moziqodo is the son of Sylvira Savikas and the target of the pit fiend\u2019s attack. His identity was recognized by Tadric after the battle, revealing his significance in the broader conflict.",
+    "source_quote": "Moziqodo,\" he said. \"Sylvira Savikas's son.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore possesses the first key, torn from Bookwyrm, and is presumed to be waiting in Candlekeep\u2019s High Tower for Moziqodo to deliver the second key \u2014 a delivery that will never occur.",
+    "source_quote": "A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitting in Candlekeep's High Tower right now, waiting for Moziqodo to walk in with the second one.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Domed Rotunda",
+    "fact": "The Domed Rotunda was the site of a decisive battle where the party intercepted and destroyed a pit fiend before it could kill Tadric and extract the key. The room was secured, and the threat neutralized within its confines.",
+    "source_quote": "Battle in the Domed Rotunda",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a radiant weapon that requires an apology before use. It was wielded by Thorin to stun and disable the pit fiend, proving its power beyond mere fire damage.",
+    "source_quote": "Dawnbringer came down. Radiant, not fire. He had needed reminding of that, and the sword had required an apology before the fight, and got one.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "The Key",
+    "fact": "The key, torn from Bookwyrm, was carried by Tadric unaware of its value. It was the pit fiend\u2019s target and the reason for the attack. Its location is now secure with Tadric.",
+    "source_quote": "Tadric sat in the wreckage with the key in his fist...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "pit fiend engagement",
+    "fact": "The pit fiend\u2019s sole plan \u2014 kill Tadric, retrieve the key, disengage and fly \u2014 was rendered moot when the party struck first, overwhelmed it before it could act, and prevented its escape. The engagement lasted less than a full turn.",
+    "source_quote": "The fiend had come with exactly one plan: kill the boy, take the key, disengage, fly. One attack was all it needed, and it never got one.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tadric\u2019s survival",
+    "fact": "Tadric survived a lethal assault by the pit fiend due to the party\u2019s preemptive strike and coordinated defense. His injuries were healed by Grygum, and he regained consciousness with the key still in hand.",
+    "source_quote": "Grygum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan\u2019s fate",
+    "fact": "Kalan\u2019s whereabouts and condition are unknown after he was last seen running hard with the key. His survival remains an open question, and his connection to Moziqodo and Sylvira Savikas may be pivotal.",
+    "source_quote": "Is Kalan alive?",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "second key location",
+    "fact": "The second key \u2014 the one Moziqodo was meant to deliver \u2014 is now held by Tadric, and A'lai Aivenmore will never receive it. The location and security of this key are now central to the next phase of the conflict.",
+    "source_quote": "A'lai Aivenmore... was waiting for Moziqodo to walk in with the second one. He was going to be waiting a long time.",
+    "quote_verified": false
+  },
+  {
+    "type": "faction",
+    "subject": "Sylvira Savikas's circle",
+    "fact": "Sylvira Savikas is linked to Moziqodo as his mother, suggesting a hidden lineage or political network that the pit fiend sought to eliminate. The party\u2019s interference has disrupted a larger scheme.",
+    "source_quote": "Moziqodo,\" he said. \"Sylvira Savikas's son.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "The pit fiend was a single-minded predator with one plan: kill Tadric, retrieve the key, and escape. It was defeated not by superior power, but by preemptive, overwhelming force that denied it any action. It was stunned, then destroyed.",
+    "source_quote": "The fiend, a pit fiend, flinched. Recoiled. It could not bring itself to advance on him.",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the continuation of a session led by Zalthir, following the Battle in the Domed Rotunda. The timeline is anchored to the immediate aftermath of the fiend\u2019s defeat.",
+    "source_quote": "[Continuing \u2014 Speaker: Zalthir, Scene: Battle in the Domed Rotunda]",
+    "quote_verified": true
+  }
+]
