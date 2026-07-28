@@ -54,11 +54,6 @@ Defined in `config.yaml`, prompts live in `/home/kroussos/CampaignGenerator/conf
 - **encounter_architect** — combat and encounter design
 - **voice_keeper** — NPC voice and dialogue consistency
 
-## Scripts
-
-- `narrate_scene.sh` — narrate a scene (likely calls CampaignGenerator pipeline)
-- `ui.sh` — interactive UI, configured by `ui_config.yaml`
-
 ## Active Threats (from `planning.md`)
 
 | Threat | Tracker | Notes |
