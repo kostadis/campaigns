@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "5etools": {
+      "command": "python3",
+      "args": [
+        "/home/kroussos/src/CampaignGenerator/launch_5etools_mcp.py",
+        "--campaign-dir", "/home/kroussos/Phandalin/Phandalin"
+      ]
+    }
+  }
+}
