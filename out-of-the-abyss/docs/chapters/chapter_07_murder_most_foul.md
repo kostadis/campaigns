@@ -1,6 +1,6 @@
 # Chapter 08 Murder most foul 
 ## 9th day of the 2nd Tenday of Taraskh 1493
-The Silken Tunnels are behind them now, and the dark depths of the Underdark are ahead. Their group expanded to include two members, the curious goblins Yuk-Yuk and Spiderbait. They were promised 20 gold, and Jimjar convinced them to follow him into the dangerous tunnels. 
+The Silken Tunnels are behind them now, and the dark depths of the Underdark are ahead. Their group expanded to include two members, the curious goblins Yuk Yuk and Spiderbait. They were promised 20 gold, and Jimjar convinced them to follow him into the dangerous tunnels. 
 
 
 The tunnel journey is slowed as the group forages for food. They find some Ripplebark that, despite its rotten fresh appearance, is entirely edible in its raw state and could be roasted to improve its nutty flavor. Scorched or burnt ripplebark turned black but was still edible. It could also neutralize disease germs.

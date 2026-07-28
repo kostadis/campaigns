@@ -225,7 +225,7 @@ Their first stop is at the cave to the north, which they notice is a quaggoth ba
 The next stop is the tower of the high priestess. There, Daz notes that Thorin has a better job.
 
 
-Finally, he arrives at the winch. Goldur informs Daz that he will be down before they can run if they try any funny business. Daz notices Zalthir and thinks the monk will have some unpleasant fun cleaning up after he comes up. 
+Finally, he arrives at the winch. Guldor informs Daz that he will be down before they can run if they try any funny business. Daz notices Zalthir and thinks the monk will have some unpleasant fun cleaning up after he comes up. 
 
 
 Daz, Stool, and Sarith walk to the edge of the lake and notice that it is pretty clean, which is odd given the amount of filth being deposited. They look around and see nothing. 

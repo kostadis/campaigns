@@ -28,7 +28,7 @@ As we approach the gate, the Derro thin out until we find ourselves alone, some 
 Some thirty feet from the entrance, a Duergar guard materializes and asks, “Your business?” 
 
 
-I notice behind him a poster that says, “The Ember Vanguard, wanted dead as long as we can raise them or aliave.” 
+I notice behind him a poster that says, “The Ember Vanguard, wanted dead as long as we can raise them or alive.” 
 
 
 A spelling mistake and a grammar mistake, so typical of the Duergar. 

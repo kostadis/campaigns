@@ -22,7 +22,7 @@ Fortunately for them, the Giant Spiders are somewhat territorial. If they run ou
 The combination of swords and Daz’s magic missiles slows down the Spiders long enough to allow everyone to escape. 
 
 
-As folks sigh with relief, Yukyuk and Spiderbait offer suggestions for next time. Yukyuk says, “Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.”
+As folks sigh with relief, Yuk Yuk and Spiderbait offer suggestions for next time. Yuk Yuk says, “Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.”
 
 
 Spiderbait adds, “And like, using Magic is okay, but like, it’s kind of a cheat. I mean, I get why you did it, but next time, you should like stick to your skills.” 
@@ -97,7 +97,7 @@ Sethir glares.
 With that, the escapees continue their trudge through the Silken Paths. Zalthir asks hopefully if the Drow pursuers will be slowed down by what happened with the Giant Spiders.
 
 
-Spiderbait explains, “Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths. Yukyuk and I just happen to know the best way. If they have a good guide, no. A bad guide? Yes.” 
+Spiderbait explains, “Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths. Yuk Yuk and I just happen to know the best way. If they have a good guide, no. A bad guide? Yes.” 
 
 
 A few hours later, as they walk along a strand of web far removed from other strands, a floating sphere with a gaping maw and a single great eye, set within four eyestalks, floats up to meet them. 
@@ -169,7 +169,7 @@ A few curt words and a swift gesture are all it takes to unravel an arcane knot 
 The Spectator is dead. 
 
 
-With the danger gone, the two goblin guides slide into view. Yukyuk is very impressed with Zalthir, “That was some next-level spider walking. Like going underneath the spider web and attacking the creature.”
+With the danger gone, the two goblin guides slide into view. Yuk Yuk is very impressed with Zalthir, “That was some next-level spider walking. Like going underneath the spider web and attacking the creature.”
 
 
 Zalthir is still paralyzed and can only think of choice words to use. 
@@ -190,7 +190,7 @@ Jimjar wants to make a bet, but nobody wants to test the theory that it is.
 Once past the mimic, the group is on ston,e, and the endless tunnels of the Underdark beckon. 
 
 
-Yukyuk asks, “You guys got our money?” 
+Yuk Yuk asks, “You guys got our money?” 
 
 
 Jimjar smiles, “I am good for it, but not right now. I promise you’ll get your money.” 
@@ -202,7 +202,7 @@ Jimjar smiles, “I am good for it, but not right now. I promise you’ll get yo
 “The minute I get it.” 
 
 
-Yukyuk and Spiderbait are tempted to abandon the escapees, but Zalthir's slick, kick-ass move elevates them in the two guides' imaginations. And so they decide to stay with the escapees. Both of the goblins seem to be in awe of Zalthir. 
+Yuk Yuk and Spiderbait are tempted to abandon the escapees, but Zalthir's slick, kick-ass move elevates them in the two guides' imaginations. And so they decide to stay with the escapees. Both of the goblins seem to be in awe of Zalthir. 
 
 
 Zalthir privately wonders if they could convince the two guides to get the gold from the mimic. 

@@ -513,7 +513,7 @@ Their first stop is at the cave to the north, which they notice is a quaggoth ba
 The next stop is the tower of the high priestess. There, Daz notes that Thorin has a better job.
 
 
-Finally, he arrives at the winch. Goldur informs Daz that he will be down before they can run if they try any funny business. Daz notices Zalthir and thinks the monk will have some unpleasant fun cleaning up after he comes up. 
+Finally, he arrives at the winch. Guldor informs Daz that he will be down before they can run if they try any funny business. Daz notices Zalthir and thinks the monk will have some unpleasant fun cleaning up after he comes up. 
 
 
 Daz, Stool, and Sarith walk to the edge of the lake and notice that it is pretty clean, which is odd given the amount of filth being deposited. They look around and see nothing. 
@@ -1303,7 +1303,7 @@ Buppido asks, “Although I know what they are, what do you think they are, Sath
 Sathir is about to head out when two goblins appear. They are dressed in relaxed, comfortable shoes, baggy pants, and shirts whose button reaches just above their knees, whose sleeves are particularly wide, and their heads are covered with beanies. Their bodies are covered in tattoos written in draconic. The spelling is wrong. And it’s only through happenstance that Zalthir realizes they are writing goblin words using a draconic script. 
 
 
-The first one, whose color motif is orange, introduces himself, “My name is Yukyuk.” 
+The first one, whose color motif is orange, introduces himself, “My name is Yuk Yuk.” 
 
 
 The second jump, whose color motif is pink, speaks with an odd accent: the R’s are rolled, and the vowels are clipped oddly. “And I am Spiderbait. We can be your guides at a nominal price of 2 gold per day.” 
@@ -1351,7 +1351,7 @@ When the goblins return breathless and pleased, they turn to Jimjar.
 He nods his head and says, “You won.” Jimjar then looks into his pockets and mutters, “But I am a bit short of cash.” 
 
 
-Angered, Yukyuk tosses his beanie on the ground and starts marching to the web. Spiderbait, however, has an idea: “Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?” 
+Angered, Yuk Yuk tosses his beanie on the ground and starts marching to the web. Spiderbait, however, has an idea: “Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?” 
 
 
 Jimjar acts like this was the most awful idea he had ever heard, then pauses and sighs, “I suppose that will have to be the plan.” 
@@ -1360,7 +1360,7 @@ Jimjar acts like this was the most awful idea he had ever heard, then pauses and
 Just as they are about to follow them onto the strands, Zalthir tries to figure out if these two peculiar web-surfing goblins can be trusted. And although he is distrustful, he feels there is no subterfuge about them. 
 
 
-And with the deal closed, the stiff, formal nature of the two goblins dissolves. Yukyuk turns to Topsy, “  Oh, yeah, man. That was fun. Did you see me nail those tough strings? There was this one moment when I was taking a curve, and the strands broke, but I managed to do that twist and flip, and that's super cool.” 
+And with the deal closed, the stiff, formal nature of the two goblins dissolves. Yuk Yuk turns to Topsy, “  Oh, yeah, man. That was fun. Did you see me nail those tough strings? There was this one moment when I was taking a curve, and the strands broke, but I managed to do that twist and flip, and that's super cool.” 
 
 
 Topsy stares at him, confused. 
@@ -1369,7 +1369,7 @@ Topsy stares at him, confused.
 Grygum, always excited with new forms of speech, shouts, “That was an amazing triple spin!” 
 
 
-Spiderbait, seeing Grygum’s interest, mutters, “Yukyuk took the easy route. I went around the spider and through its legs.”
+Spiderbait, seeing Grygum’s interest, mutters, “Yuk Yuk took the easy route. I went around the spider and through its legs.”
 
 
 Zalthir takes note of the spider and asks, “Spiders?” 
@@ -1381,7 +1381,7 @@ Zalthir takes note of the spider and asks, “Spiders?”
 Zalthir is now, perhaps the word isn’t worried, but something in the environs of that sentiment, “That sounds fascinating, but given the complexity of your moves, how are we supposed to get across?” 
 
 
-Yukyuk looks at Zalthir confused and then laughs, “Oh man, you’re not surfing. You’re walking.”
+Yuk Yuk looks at Zalthir confused and then laughs, “Oh man, you’re not surfing. You’re walking.”
 
 
 Zalthir then stares at the web, “How attached are you to these webs? Can we burn the web down?” 
@@ -1390,13 +1390,13 @@ Zalthir then stares at the web, “How attached are you to these webs? Can we bu
 Spiderbait looks hurt and then laughs, “Do you remember that crazy Drow wizard who wanted to burn this place down? But the spiders kept rebuilding it faster than he could burn.” 
 
 
-Yukyuk slaps his forehead, “Oh yeah, man. And then, when the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs. No, man, the web is the way to go. Just gotta avoid the spiders.” 
+Yuk Yuk slaps his forehead, “Oh yeah, man. And then, when the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs. No, man, the web is the way to go. Just gotta avoid the spiders.” 
 
 
 Zalthir stares at them, “But when we walk on the web, the spiders will hear our vibrations. Won’t that attract them to us?” 
 
 
-Yukyuk says, “Yeah, dude. But there is so much stuff bouncing on the webs that they won’t notice your bouncing scales.” 
+Yuk Yuk says, “Yeah, dude. But there is so much stuff bouncing on the webs that they won’t notice your bouncing scales.” 
 
 
 Zalthir feels compelled to add, “If we don’t make it out alive, we won’t be able to pay.” 
@@ -1405,7 +1405,7 @@ Zalthir feels compelled to add, “If we don’t make it out alive, we won’t b
 “Yeah, man. We’re, like, the best guides, and, like, all our clients make it out.” 
 
 
-Spiderbait walks up to Yukyuk and high-fives him. He then turns to the group and says, “We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.” 
+Spiderbait walks up to Yuk Yuk and high-fives him. He then turns to the group and says, “We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.” 
 
 
 Buppido mutters, “I am not sure the divine plan had anything about relying on two semi-sentient goblins for our safety.” 
@@ -1541,7 +1541,7 @@ Fortunately for them, the Giant Spiders are somewhat territorial. If they run ou
 The combination of swords and Daz’s magic missiles slows down the Spiders long enough to allow everyone to escape. 
 
 
-As folks sigh with relief, Yukyuk and Spiderbait offer suggestions for next time. Yukyuk says, “Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.”
+As folks sigh with relief, Yuk Yuk and Spiderbait offer suggestions for next time. Yuk Yuk says, “Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.”
 
 
 Spiderbait adds, “And like, using Magic is okay, but like, it’s kind of a cheat. I mean, I get why you did it, but next time, you should like stick to your skills.” 
@@ -1616,7 +1616,7 @@ Sethir glares.
 With that, the escapees continue their trudge through the Silken Paths. Zalthir asks hopefully if the Drow pursuers will be slowed down by what happened with the Giant Spiders.
 
 
-Spiderbait explains, “Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths. Yukyuk and I just happen to know the best way. If they have a good guide, no. A bad guide? Yes.” 
+Spiderbait explains, “Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths. Yuk Yuk and I just happen to know the best way. If they have a good guide, no. A bad guide? Yes.” 
 
 
 A few hours later, as they walk along a strand of web far removed from other strands, a floating sphere with a gaping maw and a single great eye, set within four eyestalks, floats up to meet them. 
@@ -1688,7 +1688,7 @@ A few curt words and a swift gesture are all it takes to unravel an arcane knot 
 The Spectator is dead. 
 
 
-With the danger gone, the two goblin guides slide into view. Yukyuk is very impressed with Zalthir, “That was some next-level spider walking. Like going underneath the spider web and attacking the creature.”
+With the danger gone, the two goblin guides slide into view. Yuk Yuk is very impressed with Zalthir, “That was some next-level spider walking. Like going underneath the spider web and attacking the creature.”
 
 
 Zalthir is still paralyzed and can only think of choice words to use. 
@@ -1709,7 +1709,7 @@ Jimjar wants to make a bet, but nobody wants to test the theory that it is.
 Once past the mimic, the group is on ston,e, and the endless tunnels of the Underdark beckon. 
 
 
-Yukyuk asks, “You guys got our money?” 
+Yuk Yuk asks, “You guys got our money?” 
 
 
 Jimjar smiles, “I am good for it, but not right now. I promise you’ll get your money.” 
@@ -1721,7 +1721,7 @@ Jimjar smiles, “I am good for it, but not right now. I promise you’ll get yo
 “The minute I get it.” 
 
 
-Yukyuk and Spiderbait are tempted to abandon the escapees, but Zalthir's slick, kick-ass move elevates them in the two guides' imaginations. And so they decide to stay with the escapees. Both of the goblins seem to be in awe of Zalthir. 
+Yuk Yuk and Spiderbait are tempted to abandon the escapees, but Zalthir's slick, kick-ass move elevates them in the two guides' imaginations. And so they decide to stay with the escapees. Both of the goblins seem to be in awe of Zalthir. 
 
 
 Zalthir privately wonders if they could convince the two guides to get the gold from the mimic. 
@@ -1738,7 +1738,7 @@ Zalthir wonders whether the Spectator thought Buppido was the demon, but he push
 
 # Chapter 08 Murder most foul 
 ## 9th day of the 2nd Tenday of Taraskh 1493
-The Silken Tunnels are behind them now, and the dark depths of the Underdark are ahead. Their group expanded to include two members, the curious goblins Yuk-Yuk and Spiderbait. They were promised 20 gold, and Jimjar convinced them to follow him into the dangerous tunnels. 
+The Silken Tunnels are behind them now, and the dark depths of the Underdark are ahead. Their group expanded to include two members, the curious goblins Yuk Yuk and Spiderbait. They were promised 20 gold, and Jimjar convinced them to follow him into the dangerous tunnels. 
 
 
 The tunnel journey is slowed as the group forages for food. They find some Ripplebark that, despite its rotten fresh appearance, is entirely edible in its raw state and could be roasted to improve its nutty flavor. Scorched or burnt ripplebark turned black but was still edible. It could also neutralize disease germs.
@@ -1948,7 +1948,7 @@ Zalthir, whose pleasant dream about what Monks dream about was interrupted, look
 “Are we under attack?” 
 
 
-Shuushar whispers, “No. Yukyuk was murdered, and Spiderbait is very upset.” 
+Shuushar whispers, “No. Yuk Yuk was murdered, and Spiderbait is very upset.” 
 
 
 Grygum looks around and says, “Well, we have no other option but to continue and be alert.” 
@@ -1963,7 +1963,7 @@ First, he questions Spiderbait.
 “Would anyone want him dead?” 
 
 
-“Yukyuk was the kindest, gentlest goblin you could imagine. He and I were pals.”
+“Yuk Yuk was the kindest, gentlest goblin you could imagine. He and I were pals.”
 
 
 “Did he have anything of value?” 
@@ -1996,7 +1996,7 @@ But Daz knows something’s off.
 “Sounds like a non-answer.” 
 
 
-Buppido sweats, “Yukyuk’s death was necessary for the divine plan.” 
+Buppido sweats, “Yuk Yuk’s death was necessary for the divine plan.” 
 
 
 “Who was responsible for his death?” 
@@ -2926,10 +2926,10 @@ Daz remembers what Hemeth had said about the Blade Bazaar:
 
 
 ### Thorin
-But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannum Redmarch and Buppido and says, “What are we going to do about them?” 
+But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannam Redmarch and Buppido and says, “What are we going to do about them?” 
 
 
-Realizing that his time as a free person may be ending, Brannum pleads, “You wouldn’t turn me into the guard?” 
+Realizing that his time as a free person may be ending, Brannam pleads, “You wouldn’t turn me into the guard?” 
 
 
 Zalthir has been thinking about some magical items he wants and was disappointed when Hemeth said that magical goods could be purchased in Gracklstugh but not in the Darklake District. He asks, “Could you purchase some uncommon magical items?” 
@@ -3071,7 +3071,7 @@ Next to him, a cloth merchant suddenly stops mid-negotiating and starts talking 
 Grygum asks Dulgir, “I guess his brother is invisible.” 
 
 
-But Dulgiar answers, “His brother doesn’t exist.” 
+But Dulgir answers, “His brother doesn’t exist.” 
 
 
 The answer disturbs Grygum, who is convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans. 
@@ -6164,7 +6164,7 @@ A statue of a stone giant with a second head emerging from it.*
 
 Ah. 
 *
-I turn and whisper to the Ember Vanguard, “They are performing some kind of summoning ritual to make the Stone Giants sprout a second head. This probably explains what happened to the Stone Giant that fought us in the Dark Lake District.” 
+I turn and whisper to the Ember Vanguard, “They are performing some kind of summoning ritual to make the Stone Giants sprout a second head. This probably explains what happened to the Stone Giant that fought us in the Darklake District.” 
 
 Thorin wants to rush in, but I caution him, and he listens. Odd. 
 
@@ -6877,7 +6877,7 @@ As we approach the gate, the Derro thin out until we find ourselves alone, some 
 Some thirty feet from the entrance, a Duergar guard materializes and asks, “Your business?” 
 
 
-I notice behind him a poster that says, “The Ember Vanguard, wanted dead as long as we can raise them or aliave.” 
+I notice behind him a poster that says, “The Ember Vanguard, wanted dead as long as we can raise them or alive.” 
 
 
 A spelling mistake and a grammar mistake, so typical of the Duergar. 
@@ -7172,7 +7172,7 @@ He raises his head, and I can’t help but notice the second chin.
  He then declares to all, "The keepers in the flame and their short-sightedness would have you waste precious time navigating checkpoints and patrols." And then he surprises me when he offers his "express service to where you must go next". 
 
 
-I look at him, confused. And he shouts, playfully and authoritatively, "Climb aboard, unless you wish to question the will of your wormsmith". And I start to wonder. Themberchaud’s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter. I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous. 
+I look at him, confused. And he shouts, playfully and authoritatively, "Climb aboard, unless you wish to question the will of your Wyrmsmith". And I start to wonder. Themberchaud’s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter. I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous. 
 
 
 But enough about that. 
@@ -7220,7 +7220,7 @@ Grygum asks the dragon, “Where do you think we should go, oh Great Themberchau
 As I guessed, he has no idea what to do. He pouts, “Well, I have many agents, and they have many places to look. You're my most recent agents, and you've been out and about for a few days. Where do you think we should be looking for information?
 
 
-I again insist that we should go to the Dark Lake District, and again, he seems unconvinced. It’s his ego. 
+I again insist that we should go to the Darklake District, and again, he seems unconvinced. It’s his ego. 
 
 
 “Are you suggesting I am missing something important?” 
@@ -8831,10 +8831,10 @@ The party found themselves in Diggermattock Hall, where Chief Dorbo and Senni en
 Before embarking on their quest, the party decided to honor a promise they had made to Pelek, a ghost who had been traveling with them. Buppido had killed Pelek. Grygum had carried Pelek's bones in the hope of finding a proper resting place. A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller, the Svirfneblin god of deep earthen nature. At the temple, they met Glyphic Shroomlight, a priest who was initially hesitant to inter the bones of someone he didn't know. However, when Pelek's ghost materialized before him, Glyphic quickly reconsidered, not wishing to be haunted for the rest of his days. He directed the party to the catacombs below, asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents.
 
 
-In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity. As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing. Almost immediately, another ghost appeared—Borough Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats. Jadger explained that he was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose. He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.
+In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity. As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing. Almost immediately, another ghost appeared—Burrow Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats. Jadger explained that he was working to re-establish the Burrow Wardens and was secretly training young gnomes for this purpose. He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.
 
 
-The party discussed the strategic value of this offer and decided to ask Jadger for advice on dealing with the ooze problem. Jadger explained that oozes were typically solitary creatures, making a mass infestation highly unusual. When Zalthir mentioned a possible connection to Juiblex, Jadger grew thoughtful and offered a clarification in exchange for Zalthir demonstrating a monk technique he could teach to his young trainees. After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction. He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent. He also recommended they speak with a young gnome he was mentoring, who would soon lead the new Borough Wardens, once they had gathered more information.
+The party discussed the strategic value of this offer and decided to ask Jadger for advice on dealing with the ooze problem. Jadger explained that oozes were typically solitary creatures, making a mass infestation highly unusual. When Zalthir mentioned a possible connection to Juiblex, Jadger grew thoughtful and offered a clarification in exchange for Zalthir demonstrating a monk technique he could teach to his young trainees. After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction. He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent. He also recommended they speak with a young gnome he was mentoring, who would soon lead the new Burrow Wardens, once they had gathered more information.
 
 
 With Jadger's counsel in mind, the party made their way to the Trader's Grotto, Blingdenstone's bustling central market. A sergeant guided them through the cavern, proudly explaining that fungi had once grown there until a medusa's spell turned them to stone centuries ago. Merchants had set up makeshift stalls among the petrified fungi, hawking their wares and bartering with one another, while caravans delivered goods to warehouses carved beneath the grotto. As the party explored, they noticed the gnomes eyeing Glabbagool with suspicion, though he tried his best to explain he was not a threat.
@@ -8909,7 +8909,7 @@ Additional proposals followed. Kazook Pickshine expressed concern about acidic d
 The party discussed the various proposals and their benefits. They learned that completing these quests would reduce the number of encounters before facing the Pudding King and provide allies for the final battle. Thorin rolled a die to decide between caution and a direct approach, and the result favored taking the safer route. The party decided to pursue cleansing the Rock Blight to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had. They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.
 
 
-To maximize their efficiency, the party chose to divide their forces. They would send Glabbagool, Eldev, and Jimjar to assist the Burrow Warden ghosts with their quest while the main party handled the other tasks. They explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it. With their plans finalized and their forces divided, the party prepared to embark on their chosen quests, knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.
+To maximize their efficiency, the party chose to divide their forces. They would send Glabbagool, Eldeth, and Jimjar to assist the Burrow Warden ghosts with their quest while the main party handled the other tasks. They explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it. With their plans finalized and their forces divided, the party prepared to embark on their chosen quests, knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.
 
 
 # Chapter 36 Crystals, Ghosts, and Crazed Earth
@@ -8921,7 +8921,7 @@ The party gathered in Diggermattock Hall for a lengthy meeting where the communi
 That evening, the party rested at the Foaming Mug Tavern, a massive cave converted into an inn with rooms that actually fit normal-sized people. The owner, Tappy Foamstrap, was a bored deep gnome desperate for new stories after hearing everyone else's tales dozens of times. The party gathered valuable intelligence from various patrons, including a merchant from Gracklstugh who described the city's strange peace. He mentioned the paranoia about the Ember Vanguard and even had a wanted poster. He noticed that the  adventurers matched the description except that the dragonborn was red, and the drow mage, the orc cleric and the dwarven fighter looked far more fearsome. The merchant also noted that there had been some mass hangings and executions.  He also spoke of a peculiarly portly red dragon with a double chin and two bellies used as a matchlighter. The party was relieved to see that their goal to get out of the city without provoking an all out war and destruction of the city was achieved.  A deep gnome scout shared a bizarre tale of encountering dancing myconoids who spoke of attending a wedding celebration, which was highly unusual since myconoids don't typically marry or celebrate. As the evening wore on, Glabbagool became intoxicated from consuming spilled alcohol while cleaning the tavern floor, leading to the gelatinous cube singing sea shanties in a voice that made everyone question their life choices.
 
 
-The next morning, the party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze to use as weapons against oozes, with the condition that the tavern's reputation would be protected. They then traveled to the cultivation cave, where a member of the Stone Heart Enclave greeted them warmly and provided fresh fungi supplies for their quest. Glabbagool enthusiastically consumed mushrooms along the way, plowing through the cave like a gigantic transparent snowblower and clearing a path through dirt and gravel. After several hours of excavation, they successfully reached the entrance to the rock blight caverns.
+The next morning, the party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze to use as weapons against oozes, with the condition that the tavern's reputation would be protected. They then traveled to the cultivation cave, where a member of the Stoneheart Enclave greeted them warmly and provided fresh fungi supplies for their quest. Glabbagool enthusiastically consumed mushrooms along the way, plowing through the cave like a gigantic transparent snowblower and clearing a path through dirt and gravel. After several hours of excavation, they successfully reached the entrance to the rock blight caverns.
 
 
 The party entered a dark cavern illuminated by bioluminescent fungi that refracted through large crystal formations, creating a kaleidoscope of colors on the surrounding walls. They discovered a stone statue of a gnome cowering near a crystal outgrowth, holding a broken crystal to its face as if trying to look through it. With a brilliant flash of insight, Daz determined that the crystals provided protection against creatures with harmful gaze attacks when viewed through them, like magical sunglasses against a Medusa. The party collected several protective crystals of different colors for potential future use, though they learned the colors themselves didn't affect the magical properties.
