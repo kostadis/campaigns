@@ -79,7 +79,7 @@ See `~/CampaignGenerator/CLAUDE.md` for the full script reference including `ses
 ## Mempalace Commands
 
 ```bash
-MP=/home/kroussos/worldanvil_pipeline/venv/bin/mempalace
+MP=/home/kroussos/.venvs/main/bin/mempalace
 
 $MP init --yes <campaign_dir>          # generates entities.json (overwrites root mempalace.yaml!)
 $MP mine <campaign_dir>/docs/chapters  # mine subdirs BEFORE root
