@@ -190,7 +190,7 @@ Buppido asks, “Although I know what they are, what do you think they are, Sath
 Sathir is about to head out when two goblins appear. They are dressed in relaxed, comfortable shoes, baggy pants, and shirts whose button reaches just above their knees, whose sleeves are particularly wide, and their heads are covered with beanies. Their bodies are covered in tattoos written in draconic. The spelling is wrong. And it’s only through happenstance that Zalthir realizes they are writing goblin words using a draconic script. 
 
 
-The first one, whose color motif is orange, introduces himself, “My name is Yukyuk.” 
+The first one, whose color motif is orange, introduces himself, “My name is Yuk Yuk.” 
 
 
 The second jump, whose color motif is pink, speaks with an odd accent: the R’s are rolled, and the vowels are clipped oddly. “And I am Spiderbait. We can be your guides at a nominal price of 2 gold per day.” 
@@ -238,7 +238,7 @@ When the goblins return breathless and pleased, they turn to Jimjar.
 He nods his head and says, “You won.” Jimjar then looks into his pockets and mutters, “But I am a bit short of cash.” 
 
 
-Angered, Yukyuk tosses his beanie on the ground and starts marching to the web. Spiderbait, however, has an idea: “Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?” 
+Angered, Yuk Yuk tosses his beanie on the ground and starts marching to the web. Spiderbait, however, has an idea: “Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?” 
 
 
 Jimjar acts like this was the most awful idea he had ever heard, then pauses and sighs, “I suppose that will have to be the plan.” 
@@ -247,7 +247,7 @@ Jimjar acts like this was the most awful idea he had ever heard, then pauses and
 Just as they are about to follow them onto the strands, Zalthir tries to figure out if these two peculiar web-surfing goblins can be trusted. And although he is distrustful, he feels there is no subterfuge about them. 
 
 
-And with the deal closed, the stiff, formal nature of the two goblins dissolves. Yukyuk turns to Topsy, “  Oh, yeah, man. That was fun. Did you see me nail those tough strings? There was this one moment when I was taking a curve, and the strands broke, but I managed to do that twist and flip, and that's super cool.” 
+And with the deal closed, the stiff, formal nature of the two goblins dissolves. Yuk Yuk turns to Topsy, “  Oh, yeah, man. That was fun. Did you see me nail those tough strings? There was this one moment when I was taking a curve, and the strands broke, but I managed to do that twist and flip, and that's super cool.” 
 
 
 Topsy stares at him, confused. 
@@ -256,7 +256,7 @@ Topsy stares at him, confused.
 Grygum, always excited with new forms of speech, shouts, “That was an amazing triple spin!” 
 
 
-Spiderbait, seeing Grygum’s interest, mutters, “Yukyuk took the easy route. I went around the spider and through its legs.”
+Spiderbait, seeing Grygum’s interest, mutters, “Yuk Yuk took the easy route. I went around the spider and through its legs.”
 
 
 Zalthir takes note of the spider and asks, “Spiders?” 
@@ -268,7 +268,7 @@ Zalthir takes note of the spider and asks, “Spiders?”
 Zalthir is now, perhaps the word isn’t worried, but something in the environs of that sentiment, “That sounds fascinating, but given the complexity of your moves, how are we supposed to get across?” 
 
 
-Yukyuk looks at Zalthir confused and then laughs, “Oh man, you’re not surfing. You’re walking.”
+Yuk Yuk looks at Zalthir confused and then laughs, “Oh man, you’re not surfing. You’re walking.”
 
 
 Zalthir then stares at the web, “How attached are you to these webs? Can we burn the web down?” 
@@ -277,13 +277,13 @@ Zalthir then stares at the web, “How attached are you to these webs? Can we bu
 Spiderbait looks hurt and then laughs, “Do you remember that crazy Drow wizard who wanted to burn this place down? But the spiders kept rebuilding it faster than he could burn.” 
 
 
-Yukyuk slaps his forehead, “Oh yeah, man. And then, when the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs. No, man, the web is the way to go. Just gotta avoid the spiders.” 
+Yuk Yuk slaps his forehead, “Oh yeah, man. And then, when the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs. No, man, the web is the way to go. Just gotta avoid the spiders.” 
 
 
 Zalthir stares at them, “But when we walk on the web, the spiders will hear our vibrations. Won’t that attract them to us?” 
 
 
-Yukyuk says, “Yeah, dude. But there is so much stuff bouncing on the webs that they won’t notice your bouncing scales.” 
+Yuk Yuk says, “Yeah, dude. But there is so much stuff bouncing on the webs that they won’t notice your bouncing scales.” 
 
 
 Zalthir feels compelled to add, “If we don’t make it out alive, we won’t be able to pay.” 
@@ -292,7 +292,7 @@ Zalthir feels compelled to add, “If we don’t make it out alive, we won’t b
 “Yeah, man. We’re, like, the best guides, and, like, all our clients make it out.” 
 
 
-Spiderbait walks up to Yukyuk and high-fives him. He then turns to the group and says, “We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.” 
+Spiderbait walks up to Yuk Yuk and high-fives him. He then turns to the group and says, “We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.” 
 
 
 Buppido mutters, “I am not sure the divine plan had anything about relying on two semi-sentient goblins for our safety.” 

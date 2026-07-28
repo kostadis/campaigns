@@ -230,10 +230,10 @@ Daz remembers what Hemeth had said about the Blade Bazaar:
 
 
 ### Thorin
-But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannum Redmarch and Buppido and says, “What are we going to do about them?” 
+But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannam Redmarch and Buppido and says, “What are we going to do about them?” 
 
 
-Realizing that his time as a free person may be ending, Brannum pleads, “You wouldn’t turn me into the guard?” 
+Realizing that his time as a free person may be ending, Brannam pleads, “You wouldn’t turn me into the guard?” 
 
 
 Zalthir has been thinking about some magical items he wants and was disappointed when Hemeth said that magical goods could be purchased in Gracklstugh but not in the Darklake District. He asks, “Could you purchase some uncommon magical items?” 
@@ -375,7 +375,7 @@ Next to him, a cloth merchant suddenly stops mid-negotiating and starts talking 
 Grygum asks Dulgir, “I guess his brother is invisible.” 
 
 
-But Dulgiar answers, “His brother doesn’t exist.” 
+But Dulgir answers, “His brother doesn’t exist.” 
 
 
 The answer disturbs Grygum, who is convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans. 
