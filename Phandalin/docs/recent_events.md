@@ -1,0 +1,4087 @@
+# Recent Events — Phandalin (short-term world state)
+
+_Projection of `docs/ensemble/events.jsonl` (the event spine) rendered by
+`event_spine.py` — full-fidelity, chapter-ordered, **not** synthesised
+(synthesis drops low-persistence facts). The long-term, persistence-filtered
+view is `docs/world_state.md`; this is the "what happened in chapter N"
+companion. Update the store after each extraction; regenerate this render
+freely — edit neither by hand._
+
+_Window: all chapters (chapters 1–46)._
+
+## Chapter 1
+
+- The great sundering was completed.
+- Tiamat duped Severin and the Cult of the Dragon to attempt to bring her into the world, but Zariel found the loophole.
+- The All-Father fantasized about a north that the Giants ruled.
+- The Great Ancient Blue Dragon almost destroyed the kingdoms of the giants.
+- The sage KP found a piece of the artifact that he needed.
+- The plans of the gods were thwarted twice.
+- This time it was Lolth who attempted interference, using an elaborate multi-century plan.
+- Lolth was trapped in a demi-plane as part of an elaborate multi-century plan.
+- The spell twisted the magic of the Faerzess, an unknown magical substance that grows in the Underdark.
+- Gromph Baenre thought the spell would give the Drow control of the Faerzess.
+- The bonds between the Abyss and Toril weakened for a moment, and the demon lords entered the Underdark.
+- The demon lords entered the Underdark.
+- The Uthgardt Barbarians launched a devastating assault on the North, destroying numerous smaller communities.
+- The Northern Territories and the Lord's Alliance forces were recovering from their battle against the Cult of the Dragon after the War of the Dragons.
+- The Ordning was reinstated.
+- The alliance of the Silvery Marches was revived due to the efforts of several agents from Everlund.
+- The combined strength of the Giants and major cities successfully ended the barbarian invasion.
+- Lord Neverember decided to use adventurers, offering them tax-free no-questions-asked plunder.
+- Gromph Baenre's spell twisted the magic of the Faerzess and loosened the bonds between the Abyss and Toril for a moment.
+- The All-Father fantasized about a north ruled by giants.
+- The Giants did not initiate an assault on the cities because the Ordning was reinstated.
+- Zariel was tired of Tiamat's presence in Avernus and had other plans.
+
+## Chapter 2
+
+- Vukardin recalls a conversation with a Wintershield watchman who told him to clear monsters in Phandalin and keep the treasure.
+- Vukardin remembers a discussion with a Wintershield watchman about making money in Phandalin by clearing monsters and evildoers and keeping the treasure.
+- The guard told Vukardin that unclaimed treasure can be given to the Wintershield headquarters to hold for 60 days.
+- Wintershield will hold recovered treasure for 60 days.
+- Vukardin decides to quit playing at the First Flophouse.
+- Vukardin quits playing music at the First Flophouse after a client yells at him to play.
+- Vukardin says 'I quit' and walks out of the First Flophouse.
+- Vukardin stops performing at the First Flophouse and quits.
+- Brewbarry follows Vukardin out of the bar asking if he will play music elsewhere.
+- Vukardin invites Brewbarry to go on an adventure to make honest coin for music, avoiding Neverwinter's money laundering.
+- Vukardin tells Brewbarry they will go on an adventure to make honest coin, not part of Neverwinter's money laundering scheme.
+- Valphine follows Vukardin out of the bar and offers to go adventuring as a cleric of Lathander.
+- Valphine tells Vukardin she is a cleric of Lathander and wishes to adventure, and he nods agreement.
+- Vukardin, Brewbarry, Valphine, and Soma leave the outskirts of Neverwinter heading south toward Phandalin.
+- The journey to Phandalin from Neverwinter was uneventful and long.
+- The party arrives at the mining town of Phandalin.
+- The group arrives at Phandalin, a mining town in the Sword Mountains.
+- A bigger town where Phandalin now stands was destroyed centuries ago.
+- Vukardin convinces Toblen to let his music pay for their meals.
+- Vukardin plays music to pay for the group's meals at the Stonehill Inn.
+- Vukardin finishes the third or fourth song at the Stonehill Inn.
+- Toblen gives Vukardin a complimentary glass of beer after he plays.
+- Toblen gives Vukardin a complimentary glass of beer after requesting a specific song.
+- Toblen says orcs have come down from the mountains to prey on the lowlands.
+- Toblen says the biggest threat has been from the Barbarian hordes.
+- Brewbarry says he likes Vukardin's music and doesn't like drums.
+- Toblen says the wars of the past are the past.
+- Toblen warns of a rumor of a white dragon in the neighborhood.
+- Vukardin reads the first quest out loud about the Dwarven Excavation.
+- Vukardin chooses the Dwarven Excavation Quest because it has the highest payout.
+- The group hikes 15 miles through hilly terrain to reach the foothills of the Sword Mountains.
+- Vukardin marches past the broken doors into the settlement.
+- Soma follows Vukardin inside.
+- The rubble that once buried the settlement has been hauled away, leaving collapsed stone walls visible.
+- The settlement has been thoroughly ransacked.
+- Two dwarves appear in the settlement.
+- Vukardin tells Dazlyn and Norbus that they are in danger from a white dragon and should leave.
+- Vukardin tells the dwarf prospectors they are in danger of a white dragon and walks out without negotiating.
+- Vukardin tells the dwarves they are in danger of a white dragon and should leave.
+- Vukardin begins to walk out of the cave after giving the message.
+- Dazlyn Grayshard asks the group if they are interested in another job after Vukardin gives the warning.
+- Dazlyn asks if the party is interested in another job after Vukardin gives the message.
+- Dazlyn and Norbus explored a nearby canyon while looking for gold southwest of Phandalin and found an ancient dwarven settlement buried by an avalanche.
+- Dazlyn and Norbus spent several months clearing rubble and scouring the ruins for treasure but found nothing of value so far.
+- Dazlyn and Norbus have spent several months clearing rubble from the ruins.
+- During solar eclipses, Abbathor is appeased with sacrifices of blood and gemstones.
+- Dazlyn thinks Abbathor caused an earthquake and avalanche that collapsed parts of the temple and buried the settlement because the priests' sacrifices were lacking.
+- Abbathor caused an earthquake and avalanche that collapsed parts of the temple and buried the settlement.
+- Dazlyn and Norbus tried to go deeper into the temple but saw something that scared them.
+- The dwarves tried to go deeper but saw something that scared them.
+- Dazlyn offers to split what they find if the party goes in and deals with what scared them.
+- Vukardin agrees to enter the temple after being satisfied with Norbus's answer that they will return findings to rightful owners.
+- Vukardin heads into the temple, motivated by the musical opportunity with the sending stones.
+- Valphine mutters that there is a secret door to the south, leading to a passageway heading south.
+- Valphine mutters again that there is a secret door.
+- Vukardin wants to explore the other door instead of the secret door.
+- Vukardin sees a partially collapsed room beyond the other door.
+- Vukardin starts to clear out dirt in the collapsed room, but rocks shift and the sound worries him.
+- Vukardin says the room was cut in half and there may be a way to get around from the other side.
+- Vukradin attempts to parley with orcs, asking if they need help or are hungry.
+- Soma casts thorn whip to drag an orc 20 feet down to the ground.
+- The creature rolls down the hill and lands prone.
+- Vukradin falls to the ground, knocked to death's door by another orc that rushed him from the cliff.
+- Valphine heals Vukardin, muttering about fools.
+- Valphine heals the bard, muttering about fools.
+- Valphine unleashes a raw blast of coruscating divine energy at the prone orc, slightly singeing it.
+- Brewbarry charges with his halberd, striking the prone orc and the one right next to it.
+- The prone orc moves to attack Brewbarry and is cut in half by the backswing of the halberd.
+- Vukradin is attacked again and fights back ineffectually.
+- An orc strikes down Vukradin again.
+- Another orc drops dead from Soma's poisonous spray.
+- Valphine strikes with her blade at one of the orcs and misses.
+- Brewbarry rages when he sees Vukardin go down again and attacks the orcs in a frenzy of bloodlust.
+- The orcs throw a javelin at Brewbarry, hitting him, but his rage protects him.
+- Soma casts ice knife that flies towards Valphine.
+- Soma casts ice knife, and the blade flies towards Valphine, hitting her and ripping her skin apart with ice.
+- The ice hits Valphine's body, ripping the skin apart, and the blood flows out.
+- Brewbarry rushes to heal his musical mentor Vukradin.
+- Brewbarry strikes the two remaining orcs down with his halberd and rushes to heal Vukardin.
+- Soma heals Valphine after finding her with an ecstatic smile.
+- Soma rushes to help Valphine and decides to heal her despite the drow's ecstatic smile.
+- The party spends another night before heading out in the morning.
+- The march back to Phandalin through the hilly terrain between the Sword Mountains and Phandalin was easy.
+- The party hears an ogre up ahead whistling.
+- The ogre charges at Vukardin.
+- Vukradin points a finger at the creature, casts Starry Wisp, and a mote of light streaks from his hand, striking the ogre.
+- Vukardin points a finger at the ogre, casts Starry Wisp, and a mote of light strikes the ogre.
+- The ogre is startled and emits a dim light.
+- Vukradin runs away after the ogre growls.
+- Brewbarry charges at the ogre with his halberd and misses.
+- The ogre marches closer to strike with its club and exposes itself to another attack, which is devastating.
+- The ogre exposes himself to Brewbarry's attack and receives a devastating blow.
+- The blow is bloody but not a killing blow.
+- Vukradin hears the sound of the impacting club on Brewbarry’s flesh.
+- Soma casts poison spray, and the ogre chokes.
+- Valphine groans as the ogre dodges her divine fire.
+- The ogre dodges Valphine's divine fire.
+- Vukradin steps from hiding, unleashes another starry wisp, and hides again.
+- Vukardin steps away from his hiding hole, unleashes another starry wisp at the ogre, and hides again.
+- The ogre is killed in battle.
+- Brewbarry pulls his halberd from the corpse of the dead ogre after the battle ends.
+- Soma searches the ogre's corpse and picks up something.
+- Vukradin bangs on the locked door of the Townmaster's hall.
+- Vukradin demands payment from Townmaster Harbin for completing the quest.
+- The group goes to the local Lionshield Coster to sell broken axes and hide armor taken from orcs.
+- Toblen Stonehill convinces Vukradin to play music for the clientele at the Stonehill Inn.
+- Soma heads towards the gnomish outpost of Gnomengarde to get something that might be useful against dragons.
+- The journey to Gnomengarde goes through broken hilly terrain to the south of Phandalin before going up into the mountains.
+- The ogre is whistling cheerfully.
+- Soma is about to object to the drow's statement.
+- Vukradin offers the ogre some food.
+- Vukradin fails to intimidate the ogre and instead convinces it the group are easy pickings.
+- The ogre howls in response to Soma's claim.
+- Soma covers the ogre in poison and then rushes away.
+- The ogre charges at Brewbarry and misses.
+- The ogre charges at Brewbarry.
+- Brewbarry misses the ogre.
+- The ogre misses the large barbarian.
+- Valphine uses one of the magical bullets that Brewbarry found on the last ogre to knock the ogre prone.
+- After a 15-mile hike, the group camps near the foothills of the Sword Mountains for the night.
+- After a 15-mile hike, the group decides to camp out and head up the next day.
+- An orc swings an axe at Vukardin and misses him entirely.
+- Brewbarry is revealed to have tattoos of a barbarian tribe and says he likes Vukardin's music.
+- Linene Graywind heard a rumor that strange magic pervades Neverwinter Wood, confounding navigators and obscuring ancient ruins.
+- Soma casts Thorn Whip, dragging one of the orcs on the bluffs 20 feet above the party down to the ground.
+- Soma shouts "We killed your brother!"
+- Soma shouts at the ogre 'We killed your brother!'
+- Soma's mission is to go to Gnomengarde, get something useful against dragons, and if not useful sell it to the Townmaster for fifty gold.
+- The expedition to Gnomengard begins with a trek across broken terrain south of Phandalin.
+- The ogre points at Soma and says 'I want turtle!'
+- The ogre shouts 'I'm hungry! I eat Turtle! I eat you!'
+- The ogre shouts 'I'm hungry!'
+- The party goes to the Lionshield Coster to sell the broken axes and hide armor from the orcs.
+- The party spends another night and heads out towards Phandalin the next morning.
+- Townmaster Harbin responds by saying his lordship guarantees adventurers tax-free plunder.
+- Valphine's skin is ripped apart by the ice knife and blood flows out, knocking her out.
+- Vukardin falls to the ground, knocked to death's door by another orc that rushed him from the cliff.
+- Vukardin goes on a diatribe about how adventurers are glorified thugs and goons stealing without regard for right and wrong.
+- Vukardin hears an ogre up ahead whistling.
+- Vukardin hears the sound of the ogre's club impacting Brewbarry's flesh.
+- Vukardin is attacked again, and his first blade barely touches the orc while the other flies through the air.
+- Vukardin plays popular songs from Waterdeep or Neverwinter at Stonehill Inn to pay for meals.
+- Vukardin shouts at the ogre, 'Are you a musician?'
+- Vukardin tells Townmaster Harbin that Dazlyn and Norbus were digging in a ruin for artifacts and he doesn't think they intended to take them to a museum.
+- Vukardin tries to parley with the orcs, asking why they are there and if they need help.
+- Vukradin convinces the ogre that the group are easy pickings and the ogre shouts "I eat Turtle! I eat you!"
+
+## Chapter 3
+
+- Valphine swings her mace at the prone ogre but the blow glances off harmlessly.
+- Valphine's mace lands a glancing blow against the prone ogre that carries no force.
+- Soma sniggers and jibes at Valphine, saying 'A broad side of a barn would have been harder to miss.'
+- Valphine feels a flush of annoyance at Soma's mocking comment about her missed strike.
+- Brewbarry swings his halberd at the ogre but misses, striking the rocky ground instead.
+- A puff of green, acrid gas surrounds the ogre, causing it to cough in pain.
+- A puff of green, acrid, foul gas surrounds the ogre and hurts it.
+- The ogre stands up and scans its attackers.
+- The ogre stands up after being affected by the gas.
+- The ogre turns and runs away from the fight.
+- Vukradin performs the killing blow on the ogre.
+- Valphine feels quiet satisfaction as she watches the ogre breathe its last.
+- Vukradin wades through the water towards the mushrooms.
+- Vukradin examines the red, green, and purple mushrooms and describes their properties: red are oily, green can be turned into flour, purple can be fermented into mushroom wine.
+- Vukradin says they should forage as many mushrooms as they can.
+- Soma expresses desire to try mushroom wine.
+- Vukradin says mushroom wine tastes as bad as it sounds.
+- Behind the waterfall is nothing but a rock wall; Vukradin taps, touches, and pokes at the rock but it is just rock.
+- Soma and Vukradin find nothing behind the waterfall but a rock wall.
+- Vukradin searches for a secret room behind the waterfall but finds only rock.
+- Vukradin notices an entrance 20 feet above and climbs the cliff wall to it.
+- Vukradin notices a cliff entrance 20 feet above the waterfall.
+- Valphine and Brewbarry do not climb; they stand and watch.
+- Soma climbs down, takes a rope from Valphine, and climbs up again so the others can follow.
+- Soma senses that senseless violence is coming.
+- After identifying Brewbarry as a former Uthgardt, the gnomes let the party pass citing bureaucratic uncertainty about standing orders.
+- Vukradin plays a few notes of music, and the gnomes seem pleased.
+- Vukradin explains they seek a magical device to help fight against a dragon threat for the mayor.
+- Ulla tells Vukradin to cross the hanging bridge from where they entered to reach the inventor workshop.
+- Vukradin decides to disable the crossbow device rather than kill Facktore.
+- Facktore flees the scene of the battle after his device is disabled.
+- Facktore flees the scene of the battle.
+- Vukradin stops on the island of mushrooms to pick more mushrooms.
+- The gnome inventors brush off Vukradin's request for help to fight a dragon.
+- Fibblestib explains that two gnomes named Warren and Orrin went missing and King Korboz claims a shape-changing creature is responsible.
+- Vukradin notices Dabbledob rolling her eyes at Fiddlestib's boast about the rotating blades.
+- King Gnercli offers to give the party a device if they kill the shapeshifter terrorizing the cave system.
+- Vukradin asks where they are supposed to find the shapeshifter.
+- Vukradin asks what treasure they will be given.
+- Vukradin says the hat is not enough to terrorize a dragon.
+- Vukradin accepts the deal after counting 50 gold in his head.
+- Vukradin counts the 50 gold in his head before agreeing.
+- The bard and his friends go through the room with the spinning blades, this time disabling the blades.
+- The bard and his friends cross the bridge.
+- The bard and his friends arrive where Pog and Ulla are sitting.
+- Valphine follows the passage north and takes a right into a room full of barrels.
+- A barrel transforms into a mimic, with pseudopods and a mouth full of razor-sharp teeth.
+- Brewbarry charges at the mimic and strikes it with his halberd.
+- Brewbarry charges at the mimic, striking with his Halberd and wounding it, but the weapon gets stuck.
+- Valphine makes sure she is out of range of Soma's Ice Knife spell.
+- The mimic advances on Brewbarry and attacks with a pseudopod that misses.
+- The bard unleashes invectives, causing the mimic to flinch visibly under the enchantment.
+- Vukradin unleashes invectives that cause the mimic to flinch.
+- Valphine was initially confused by the bard's enchantment but then saw it.
+- Valphine smiles and repeats a rhyme from her youth: 'Sticks and stones may break my bones, and words can also hurt me.'
+- Brewbarry announces he is a killer of ogres and no shapeshifter.
+- Brewbarry says 'I am Brewbarry, killer of Ogres! I am no shapeshifter!'
+- Fibblestib offers to build a non-normal piano that will play music.
+- Soma shouts at Vukradin, saying 'He was running away! This was senseless.'
+- The bard and his friends disable the spinning blades and cross the bridge.
+- The female gnome says they have decided to let the party pass because the standing order to attack Uthgardtians may not have been renewed.
+- The ogre swings its massive axe at Brewbarry, landing a blow that does nothing due to the barbarian's rage.
+- The ogre's axe lands on Brewbarry but does nothing due to the legendary rage of the Uthgardt barbarian and his mystical powers.
+- Ulla and Pug argue, accusing each other of looking different.
+- Ulla decides to let the party pass because the standing order to attack Uthgardtians may not be renewed.
+- Ulla gives Vukradin an alternative route: go north past the first east passage, past a large room, exit east, cross the river, climb the cliff wall, go through gnome sleeping chambers, then south to the inventor workshop.
+- Valphine offers to help as a cleric, but the gnomes reject it saying gnomes invent their way out of illness.
+- Valphine puts an arrow in her handheld crossbow, aims at the fleeing ogre, and shoots, wounding it.
+- Valphine shouts 'We found it!' upon the barrel transforming into a mimic.
+- Valphine shouts that they found the mimic.
+- Valphine stares at gnomes Pog and Ulla and shouts that they are the shapeshifters.
+- Vukradin explains his reasoning for killing the fleeing ogre, saying 'He hated music. And he probably had some treasure he had stolen from someone else.'
+- Vukradin offers to try music therapy for King Korboz, and Dabbledob agrees music has helped in some circumstances.
+- Vukradin says 'Let's go find the secret treasure room behind the waterfall.'
+- Vukradin says they should find the secret treasure room behind the waterfall.
+- Vukradin sees the spinning blade turnstiles and retreats, calling it a death trap.
+
+## Chapter 4
+
+- Brewbarry struggles in vain to pull his halberd free, the weapon seemingly stuck fast.
+- Soma's puff of poison dissipates harmlessly around the creature, leaving it unaffected.
+- The mimic misses its strike at Brewbarry.
+- The mimic remains utterly unaffected by Vukradin's magical incantation.
+- Soma says "Unnatural magical creations that have no place in the material world."
+- Soma considered constructs and extra-planar creatures as abominations and disruptions to the natural order.
+- Soma says "Constructs, extra-planar creatures, are all abominations. Disruptions to the natural order."
+- Vukradin asks Soma what she thinks about Aasimar and Tieflings.
+- Soma asked what Aasimar and Tieflings are in genuine confusion.
+- Soma asks "What are those?" in response to Vukradin's question about Aasimar and Tieflings.
+- Vukradin asks Brewbarry "You have no ranged weapons."
+- Brewbarry pulls out a pair of gleaming handaxes from a hidden pouch.
+- Soma finishes off the unnatural creature with a final, decisive strike.
+- Vukradin asks Soma "You are going to steal gold?"
+- Soma thinks "I am not opposed to some gold of questionable provenance."
+- Valphine asks Vukradin "But I thought you were going to use them as part of your music?"
+- Vukradin says "No, they can only be used for a single short message."
+- Soma scoured the room with the chests and found nothing the gnomes forgot.
+- Soma hands over the proof of the monster's death to Fiddlestib and Dabblebob.
+- Fiddlestib and Dabblebob start discussing what kind of construct they could create from the creature's entrails.
+- Soma thinks "This is how the abominations that walk the north came to be. Inventors who showed no concern for the natural world."
+- Soma thought the inventors showing no concern for the natural world is how abominations come to be.
+- Soma kept her mouth shut about the inventors creating a construct from the creature's entrails.
+- Vukradin attempts to negotiate with the two Kings.
+- King Gnercli shouts "I am the king."
+- Vukradin asks "So how do you make decisions?"
+- King Gnercli says "This is a dual monarchy, not a single monarchy. So we argue until a decision is made."
+- Vukradin asks "How do you decide who wins?" and Gnercli says "The best argument wins."
+- King Korboz explains that they decide which argument is best together.
+- Valphine says "You need a clear approver structure."
+- Vukradin asks if having three kings would make things more difficult.
+- King Gnercli says "We have two kings because we do not believe in the despotic autocratic decision making of a single individual who could be rendered unfit for leadership because of a shapeshifter."
+- Vukradin asks "So if you need a new king to have two, what happens?"
+- Gnercli explains that if they need a new king to have two, they elect another.
+- King Gnercli says they elect another king.
+- Vukradin asks "So one is the younger king and the other is the older and wiser king?"
+- Vukradin says "So let me get this straight, if I have been King for a decade, and this new guy becomes King, I have to treat him as an equal and take orders from him?"
+- Vukradin claims he has been King for a decade in a rhetorical question.
+- Vukradin says "You said there was a magical hat for us?"
+- Soma leads Vukradin to the Townmaster in Phandalin.
+- The Townmaster insists Vukradin is a tasteless morsel for a dragon.
+- The party receives fifty gold, split four ways.
+- The party splits fifty gold four ways and heads to the Stonehill Tavern for the night.
+- Soma heads off to spend the night in the Stonehill Tavern.
+- The Bard performs well at the Stonehill Tavern.
+- A tavern patron tells the Bard about a play in Triboar starring an actor always dressed as a Demon named Bob, whose performances were legendary.
+- Vukradin has heard of the play with Bob.
+- A play in Triboar had a spectacular run several years ago.
+- The tavern keeper says to Vukradin "I am not sure where you would go to find the script, but Triboar is as good a place as any."
+- Vukradin says "I think we should ask for more than 25 gold. This seems like too little money."
+- Vukradin mutters "But my studio is going to take forever to build at this rate."
+- Soma says "Sometimes the reward is knowing you did the right thing."
+- Soma says that 25 gold is plenty.
+- The party makes their way to Umbrage Hill to save Adabra.
+- Some time passes while traveling to Umbrage Hill to save Adabra.
+- Valphine caught a shadow slipping behind a boulder and felt her heart hammer.
+- Valphine catches a flicker of a shadow slipping behind a boulder.
+- Valphine dismissed the shadow, telling herself she is not in the Dark Realms worried about every shadow.
+- Bandits are present near Umbrage Hill and are making noise, potentially ambushing the party.
+- Soma is shaped like a spider.
+- Soma found her new spider-shape strange but felt she could think and feel as herself while also being wholly spider.
+- Soma climbs up and strikes her enemy with spider-like ease.
+- Soma, as a spider, climbs up and strikes a bandit.
+- A bandit strikes at Valphine with a scimitar and misses.
+- The bandit strikes at Soma with a scimitar and misses.
+- Brewbarry slices off a bandit's head with a halberd.
+- The bandit's body falls towards Brewbarry, covering him in blood.
+- Soma's spider bite crushes a bandit's hand and her poison kills him.
+- A bandit bites Soma's hand and releases poison.
+- The bandit that bit Soma dies.
+- A bandit takes out his crossbow, misses, and starts to run.
+- Valphine reaches with her hand-held crossbow and strikes the fleeing bandit in the back.
+- Vukradin sprints and kills the fleeing bandit after he is shot.
+- Soma thinks "We are assholes."
+- Brewbarry, covered in blood, sprints to get next to the bandit afraid of spiders.
+- Brewbarry says to the bandit "I am so sorry that the Uthgardts hurt you. They were mean to me, too."
+- Vukradin wanted to learn more about the bandit's boss called the Carver.
+- Vukradin says to the bandit "You should join us at dinner and tell us about the Carver."
+- The bandit asks if he can be with the party.
+- The bandit asks "Can I be with you guys?"
+- Vukradin says "Of course" to the bandit asking to join.
+- Vukradin reminds Soma that the scroll should be returned to its rightful owner.
+- Soma decides to return the scroll to its rightful owner.
+- Soma stared at Vukradin in disbelief when he said the scroll should be returned, then realized he had a point.
+- Soma thinks Vukradin has a point about the scroll.
+- Soma wondered if she is any better than a bandit if she keeps the scroll.
+- A bandit aims at Valphine and hits her.
+- A bandit runs screaming "Spiders!!!!" upon seeing Soma's spider form.
+- Brewbarry climbs up to a bandit on a hill and swings his halberd, cutting off the bandit's head.
+- Brewbarry drops his halberd and shouts "Friends."
+- Dabblebob says "I prefer more kings! That way we could have a vote!"
+- Fiddlestib tells Vukradin "I am in favor of a bicameral legislature with a unitary executive!"
+- King Gnercli says "There is no seniority!"
+- King Gnercli shouts "Here! And go!" and gives them the magical hat.
+- King Korboz complains that King Gnercli doesn't listen to him and doesn't believe a single word he says.
+- King Korboz shouts "I told you as the senior king I should have preferential treatment!"
+- King Korboz shouts "That you didn't believe existed!"
+- Lathander's Cleric had cautioned Valphine about something.
+- Soma decided not to tell Vukradin about the bird that sings a single note because she hadn't been paid.
+- Soma finds a scroll with a druidic spell.
+- Soma identifies bandits by their noise, saying they would have gotten the jump on them if not for the noise.
+- Soma says "I don't want a new studio. Just a nice new teapot."
+- Soma says "I just have a kinship with life. I don't want anyone to die."
+- Soma says "Let's see what else is here."
+- Soma says "You're just another creature born into this world. There is no celestial touching here."
+- Soma shouts 'Let him go!' and realizes she is speaking like a Spider.
+- Soma told Vukradin he is just another creature born into the world with no celestial touching.
+- Soma wondered what she sounds like when speaking as a spider after shouting at Brewbarry.
+- Someone tells about a play in Triboar with a main actor always dressed as a Demon named Bob, whose performances were legendary.
+- The Bard shouts about possibly doing a revival of the play.
+- The bandit says "I had no money, nothing. I am not a bad person. I don't want to steal things. It's the Carver's fault."
+- The bandit says he has never met the Carver and worked with Jax instead.
+- The bandit says the Carver is big.
+- Valphine is annoyed at risking their lives to save a woman for only 25 gold.
+- Vukradin asks "I'm wondering if you had three kings, wouldn't it become more difficult?"
+- Vukradin asks Soma "Wait, you're a naturalist druid?"
+- Vukradin attempts another magical incantation but the mimic remains unaffected.
+- Vukradin says "Aasimar are touched by Celestials, Tieflings by the Abyss!"
+- Vukradin says "I am a poet, and I get to take whatever poetic license I want. And I will not have you deny my allusion."
+- Vukradin says "I am rich! I have sending stones!"
+- Vukradin says "I find it rude that you didn't believe your king."
+- Vukradin says "I think you should be king!" to Fiddlestib.
+- Vukradin says "We have it outnumbered! It's stunned! We shall kill it before it lays a hand on us!"
+- Vukradin screams "Catch him! He's taking stolen treasure!" about a fleeing bandit.
+- Vukradin shouts "Perhaps we can do a revival!"
+- Vukradin shouts that they are going to die.
+- Vukradin taunts the grotesque creature, claiming it is outnumbered and stunned.
+
+## Chapter 5
+
+- Vukradin knows from the look on Corbin's face that the armor was stolen.
+- Corbin explains he had no choice but to take the armor because he would otherwise die without protection.
+- Corbin doesn't want to die.
+- Corbin asks Brewbarry if he can keep his armor.
+- Vukradin is upset by the despair in the bandit's eyes and relents.
+- Corbin is relieved by Vukradin's offer of proper armor and sighs in relief.
+- Corbin sees the spider and freaks out.
+- The time passed and Soma is tortle again.
+- The party begins to climb the hill quietly to avoid drawing attention from the manticore.
+- The party begins to climb up the hill quietly, trying to avoid drawing attention.
+- The manticore perks its head and sees the party.
+- Vukradin shouts asking if they can pay the manticore.
+- The manticore fires a volley of tail spikes that hit Valphine.
+- Vukradin shouts a command spell at the manticore, but the spell doesn't work.
+- The manticore snaps its jaws shut on the familiar.
+- The manticore flies and rends Brewbarry with its claws.
+- Brewbarry strikes the manticore with his halberd as it flies in.
+- The manticore flies to the second floor howling in pain.
+- The manticore flies to the second floor of the windmill howling in pain.
+- Soma tells Vukradin she believes in him before he tries his spell again.
+- The manticore is unaffected by Vukradin's second spell attempt.
+- Valphine stares at Soma, who looks visibly hurt.
+- Brewbarry climbs to the second floor where the manticore is hiding and hits it twice.
+- The manticore attacks Brewbarry, but Brewbarry's rage protects him from the worst of the claws.
+- Vukradin and Soma strike the manticore with their spells.
+- Valphine stares in disbelief at her crossbow, frustrated by missing again.
+- Brewbarry kills the manticore.
+- Adabra refuses to leave her home and go to town with the party.
+- Adabra asks Soma whether she is on the naturalist or interventionist side in the great schism.
+- Soma senses that in her heart she would be with those who want to preserve, not intervene, and says so.
+- Adabra's aura and sense of being change when Soma says she is a naturalist.
+- Vukradin tries to convince Adabra to come with the party, explaining it would be safer for villagers if they didn't hike out in the open with a white dragon flying about.
+- Adabra says, 'The natural order requires that they come here.'
+- Adabra asks if the party is the help Townmaster Harbin asked for.
+- Adabra says, 'In that case I will stay here, safely protected by you.'
+- Vukradin plays a tune for Adabra, and Brewbarry appears delighted.
+- Vukradin plays a tune that delights Brewbarry.
+- Vukradin says he surveyed customers and only accepted money from those who gave his music a 10/10 rating, and Brewbarry was the only customer who ever paid him.
+- Vukradin says he surveyed his customers and would only accept money from those who gave his music a 10/10 rating.
+- Soma wonders if she had had Adabra's determination, she would still be back home with her family.
+- Adabra gives Vukradin a note that reads: Thank you, Townmaster Harbin, but I will not be leaving my home.
+- Adabra gives the party a note thanking Townmaster Harbin and asking him to reward the heroes.
+- The note contains a long description of how to take some medicine.
+- Brewbarry asks if the party can spend the night at the windmill.
+- Corbin arrives at the windmill, looking worse and smelling.
+- Vukradin interrogates Corbin about whether he robbed Adabra, even though Adabra insists no one has ever robbed her.
+- Corbin says he woke up with nothing after his family was killed, nobody in town wanted him, so he went into the forest and joined a crew.
+- Corbin says his family was killed and he woke up with nothing but the clothes on his back.
+- Vukradin tasks Corbin with helping Adabra.
+- Adabra stands up to show the party around, pointing out an old dwarven house outside.
+- Adabra says, 'Outside here is an old dwarven house.'
+- Meril's prompting led Soma to follow Vukradin.
+- Valphine sits and listens to Corbin's tale of woe.
+- The Ordning broke and chaos swept across the North.
+- The Ordning, which structured the giants' world, broke, causing chaos across the North.
+- The Ordning, which structured the giants' world, broke.
+- The Black Lion tribe destroyed Greenmeadow.
+- The Uthgardt barbarians of the Black Lion tribe descended on Greenmeadow.
+- Corbin watched his fields burn, his home collapse, and his family fall.
+- Corbin survived because he was knocked unconscious by a charging barbarian's shield and left for dead in a ditch, buried under his neighbor's body.
+- Corbin was knocked unconscious by a charging barbarian's shield and left for dead in a ditch.
+- Corbin drifted south for months after the destruction of Greenmeadow.
+- Adabra woke Soma in the morning.
+- Valphine is woken up by Adabra.
+- Soma said to Adabra, 'You were the real reward.'
+- Adabra says she will give Vukradin a piece of her mind if the patron doesn't pay.
+- Valphine notices how Vukradin feigns a tear.
+- Valphine sees the exact change on Adabra when she told her she was a naturalist.
+- Valphine notices that Vukradin has the look of a child who heard he was going to get his favorite food, but was unsure.
+- A woman's voice comes from the building calling for help.
+- Adabra brings out a vial and announces it is her special potion of healing with extra scent and taste.
+- Adabra explains the house was destroyed before she came, she has a deed to the land, and she tends the dwarf cairns.
+- Adabra is healing Townmaster Harbin.
+- Adabra says, 'I will make a fantastic meal! But I need help.'
+- Adara exclaims, 'This is truly blessed music! Aasamirs are truly touched by the Celestial planes.'
+- Brewbarry throws a hand axe that hits the manticore's wings.
+- Brewbarry throws hand axes and hits the manticore's wing, then the manticore flies and rends Brewbarry with its claws while Brewbarry strikes it with his halberd.
+- Corbin asks Vukradin to leave his musical instrument so it won't get damaged, and Vukradin refuses.
+- Soma casts a spell conjuring a familiar that she orders to fly into the mouth of the manticore, but it only enrages the creature further.
+- Soma encourages Vukradin to try his spell again, but the manticore is unaffected.
+- Soma is confused when the woman trapped in the windmill won't run out while the manticore is distracted.
+- The manticore flies away toward Corbin in the distance.
+- The manticore is not satisfied by the tasty morsel offered to it and becomes more enraged.
+- Valphine shoots a bolt from her hand crossbow at the manticore, but it is unaffected.
+- Valphine targets the manticore with a hand crossbow bolt, but it is unaffected.
+- Vukradin cuts off the manticore's head and marches to the windmill with it.
+- Vukradin is displeased and thinks the armor Corbin wears may be stolen.
+- Vukradin shouts a command spell but it doesn't work.
+
+## Chapter 6
+
+- Adabra says monsters like the manticore and displaced orcs are merely acting as nature intends.
+- Adabra says fighting every evil from the outer plane denies the very nature of existence.
+- Adabra assures Brewbarry he was not a barbarian but a nomad.
+- Vukradin decides to play music, and this time the music is good.
+- Vukradin plays music and this time the music is good.
+- Valphine wanted to play her musical instrument along with Vukradin.
+- Valphine's instrument added a particular color and texture that elevated Vukradin's composition to art.
+- The group arrives at the doorway of the Townmaster's home.
+- Adabra demands Harbin Wester pay Vukradin the money owed for rescuing her.
+- Adabra demands Harbin pay Vukradin the money owed him.
+- Vukradin coughs and explains the mission was more involved and Harbin could pay them more.
+- Vukradin says the mission was more involved than Harbin intimated and suggests he pay them more.
+- Harbin Wester asks why Vukradin didn't pay himself in Manticore treasure as per the lawful agreement with Lord Neverember.
+- Harbin says the town has been under siege by bandits in addition to monsters.
+- Harbin Wester offers the group free room and board at the Stonehill Inn.
+- Harbin offers the party free room and board at the Stonehill Inn.
+- Vukradin approaches the tavern keeper and offers to play some music.
+- Toblen got the nickname Spiderman because as a child he fell into a hatching spider's nest and walked calmly covered in spiders.
+- Valphine asks if she could join Vukradin in playing music.
+- Vukradin plays music and Valphine joins him, reminding her that her role is to support him.
+- Vukradin is first outraged by Valphine's addition but then sees the crowd enjoying the music and smiles.
+- Valphine sings using her contralto voice, weaving intricate lines that feel like a spell or invocation into the music.
+- Vukradin raises an eyebrow and builds on Valphine's vocals.
+- The crowd is silent and watches Vukradin and Valphine perform, then applauds.
+- When the performance is done, the crowd applauds.
+- Vukradin says to Valphine, 'Perhaps we should play together.'
+- Silverleaf is in shock and apologizes for offending Vukradin.
+- Vukradin insists they talk in public, not private.
+- Ser Kaelen Thorn introduces himself and says he has heard about Vukradin's unique perspective on treasure.
+- Vukradin suggests Soma might join the Order.
+- Ser Kaelen's face turns dark and he says Soma is a naturalist and their points of view would not align.
+- Vukradin is told he will receive a pin.
+- Ser Kaelen instructs Vukradin to continue being true to his mission and opposing senseless killing and plundering.
+- Valphine says 'Order is bullies. They bully barbarians.'
+- Valphine wants to hit Brewbarry after he says 'You stole.'
+- Brewbarry says 'Drink good.'
+- Brewbarry says 'Spiderman brings four.'
+- Vukradin says yes to joining the order.
+- Vukradin says yes to joining Ser Kaelen's order.
+- Soma says the lighthouse is meant to protect boats, not destroy them.
+- Valphine says the lighthouse is meant to protect boats, not destroy them.
+- Valphine tries to explain to Vukradin that a lighthouse is placed where there is danger to protect ships.
+- The shell-sprout does not listen to Soma's explanation.
+- The Townmaster, who has not yet reached his work, sees Vukradin rushing and stops.
+- Vukradin asks the Townmaster, "So how do I destroy it?"
+- Vukradin asks if Lord Nevermember would permit a cursed lighthouse to remain.
+- Vukradin decides removing the curse is less work than destroying the lighthouse.
+- Vukradin asks where Ser Kaelen is, suggesting he might be able to help.
+- Ser Kaelen mentions three possible explanations for the curse.
+- Ser Kaelen says the first explanation requires a cleric.
+- Ser Kaelen says the second explanation is that it's some monster haunting the place.
+- Ser Kaelen says the third and most common explanation is that it's just untrue rumors.
+- Adabra demands Harbin give more coin not just to Vukradin, but also to Soma and the nomad (Brewbarry).
+- Adabra demands Harbin give more coin to Vukradin, Soma, and the nomad, but skips over Valphine.
+- Brewbarry says 'Drink good' and Spiderman brings four drinks.
+- Brewbarry sighs and says he was a barbarian.
+- Ser Kaelen Thorn asks Valphine if she is a cleric of Lolth or other underdark deities, and she says no, that they are very dull.
+- Ser Kaelen Thorn offers Vukradin associate membership in his order, and also invites Valphine to join.
+- Ser Kaelen is delighted to see the party after hearing their story.
+- Ser Kaelen says there are three possible explanations for the curse: requires a cleric, a monster haunting the place, or just untrue rumors.
+- Ser Kaelen thinks the most likely explanation is that it's some monster haunting the lighthouse.
+- Silverleaf tells Vukradin about an old stone lighthouse west of Phandalin that draws ships to crash upon its rocks, with wrecks full of treasure.
+- Soma tries to explain to the shell-sprout that a lighthouse is placed where there is danger to protect ships.
+- The Townmaster describes the lighthouse as a bit of a distance away.
+- The Townmaster says Lord Nevermember would want his heroes to remove the curse, not destroy the lighthouse.
+- The Townmaster says the lighthouse is on the coast, he is familiar with the tower, and the rumors of it being evil are "blah, blah, blah and rumors".
+- The Townmaster shouts that Lord Nevermember would be appalled at the idea of destroying the lighthouse.
+- The Townmaster tells the party that Ser Kaelen is at Barthen's Provisions, getting ready to leave town.
+- The shell-sprout marches out from the Stonehill Inn and towards the Townmaster's place of work.
+- Valphine fuses Lathanderial Choral music and prayers to Lolth into a composition called Choralum Lux Maleficarum.
+- Valphine seems annoyed or mischievous and blurts out "Or dead drow."
+- Vukradin rejects the idea of looting treasure from shipwrecks, saying robbing from the dead is not treasure.
+- Vukradin says 'We need to destroy the evil tower!' and calls the lighthouse an evil tower.
+- Vukradin stops and asks, "Remove the curse? That's less work than destroying a lighthouse. How do we remove a curse?"
+- Vukradin stops and lets the mud fall out, reconsidering his plan to destroy the lighthouse.
+
+## Chapter 7
+
+- The group departs for the Tower of Storms on the 5th day of the 1st Tenday of Taraskh.
+- The group leaves for the Tower of Storms from Vukradin.
+- Vukradin's party leaves for the Tower of Storms.
+- The group spots a small, overturned trade cart partially obscured by thick undergrowth.
+- The party spots a small, overturned trade cart partially obscured by thick undergrowth.
+- Elara and Jarek are huddled nervously behind the overturned trade cart.
+- Vukradin approaches Elara and Jarek.
+- Elara and Jarek were attacked by orcs on the road.
+- Elara cries out 'Orcs attacked us.'
+- Elara tells the group that orcs attacked them.
+- Elara says her name is Elara, and this is Jarek, her groom, and they were heading towards Phandalin.
+- Soma offers to mend the broken cart, and Elara accepts.
+- Soma offers to mend the broken cart.
+- Elara asks if the party could rescue one of her horses that had run down into a field.
+- Brewbarry rushes off to retrieve the horse.
+- Jarek says 'I told you we should travel with some protection.'
+- Elara says the orcs moved with unnerving discipline and had odd markings like a swirl or an eye.
+- Jarek says 'I think... I heard something... a sort of hum, not really a sound, just... in my head, before they struck. Then it was gone.'
+- Valphine says it's mindflayers causing the attack.
+- Brewbarry returns with the horse.
+- Elara offers a reward to Valphine, saying 'For the Morninglord and whomever you feel is worthy.'
+- The group decides to escort Elara and Jarek back to Phandalin before continuing to the Tower of Storms.
+- The group escorts Elara and Jarek back to Phandalin.
+- Vukradin explains everything to Ser Kaelen Thorne.
+- Ser Kaelen Thorne says 'Bringing you into the fold was the right thing to do.'
+- Vukradin asks 'Can you share with me a cheer of the Gauntlet?'
+- Ser Kaelen Thorne recites the Order of the Gauntlet cheer: 'Steal and shield, Heart and band. We stand as one. A steadfast band.'
+- Ser Kaelen Thorne recites the chant: 'Steal and shield, Heart and band. We stand as one. A steadfast band.'
+- Adabra pulls Soma aside to speak privately.
+- Adabra tells Soma 'You know the old grove past Whisper Woods? Once vibrant, a true blessing of Chauntea. Now... it withers unnaturally.'
+- Adabra mutters something about interventionists and the Emerald Enclave.
+- Soma explains that she agrees to help figure out what is going on with the grove.
+- The party resumes the trek towards the Tower of Storms, a journey of a few days.
+- The party traveled for a few days on the Triboar Trail, which was curiously devoid of travelers or corpses.
+- The party travels for a few days on the Triboar Trail, finally reaching the high road.
+- The party spends the night at Wayside Inn.
+- In the morning, the party headed out to the coast through a trail pointed out by Martisha.
+- Vukradin mutters that the unnatural gullies would only be possible if a river flowed through here, and that this place is too dry for a river.
+- Valphine felt a familiar chill of impending ill at a particular tight juncture in the path.
+- Brewbarry confirmed the ambush, showing tracks and a glint of concealed armor.
+- Brewbarry confirms the tracks and glint of concealed armor that betrayed hidden figures.
+- The party decides to climb out of the gully, get to higher ground, and attack from the rear of the would-be ambushers.
+- The orcs planned an ambush where they would drop a rock blocking the party's exit and attack from above into a tight valley.
+- Orcs plan an ambush in a tight gully, intending to drop a rock to block exit and attack from above.
+- Valphine overhears the orcs say the party was to be an 'easy kill'.
+- Vukradin cast Sleep, incapacitating one orc and the shaman.
+- Vukradin's Sleep spell incapacitates one orc and the orc shaman.
+- Soma transformed into a brown bear and tore into two orcs.
+- Brewbarry engaged head-on, delivering powerful blows and shrugging off damage with barbarian resilience.
+- Brewbarry, embracing his rage, engages the orcs head-on, delivering powerful blows and shrugging off damage.
+- Valphine joined the fray with her hand crossbow and cast Faerie Fire to illuminate the orcs and grant advantage.
+- Valphine calls upon the light of Lathander, unleashing Fairy Fire to illuminate the orcs.
+- Valphine casts Fairy Fire to illuminate the orcs, granting advantage against them.
+- The orc shaman shape-shifts into a boar.
+- Adabra says 'Trees twist in impossible shapes, colors bleeding wrong, and the creatures... they're not right. Too many eyes, jerky movements, lost and broken.'
+- Soma says 'We aren't orcs.'
+- The group encounters an ambush set by a group of orcs, including an orc shaman who can shape-shift into a boar.
+- The orcs referred to the party as an 'easy kill' in their guttural chatter.
+- Valphine says 'He's painful!'
+- Valphine says 'He's painful!' regarding Lathander.
+- Valphine says it's mindflayers.
+- Valphine shouts 'Lathandar!'
+
+## Chapter 8
+
+- Three harpies descend on the party as they approach the Tower of Storms.
+- A male harpy dressed in grey rags charms Valphine and Brewbarry with its song.
+- Vukradin casts Silence, creating a 20-foot radius sphere of quiet that nullifies the harpies' charming melodies.
+- Vukradin casts Silence, creating a 20-foot radius sphere of silence that nullifies the charming melodies.
+- Vukradin casts a 20-foot radius sphere of Silence.
+- Vukradin's Silence spell breaks the charm on Valphine and Brewbarry.
+- Vukradin's Silence spell nullifies the harpies' charming melodies.
+- Vukradin is charmed by a female harpy's song.
+- Vukradin uses his Bardic Inspiration to turn his charm into a success.
+- Vukradin uses his Bardic Inspiration to turn his failure to resist charm into a success.
+- Vukradin strikes the female harpy with a spell, breaking its concentration and ending its song.
+- Vukradin engages the male harpy with grey rags with his daggers, landing one hit but missing a second.
+- Vukradin delivers the final blow to the male harpy in grey rags using Vicious Mockery.
+- The party takes a much-needed short rest after the harpy battle.
+- Brewbarry retrieves his thrown handaxes, which lay a few feet away.
+- Vukradin casts Cloud of Daggers, conjuring whirling blades that trap Moesko within a 5-foot cube, inflicting 9 initial damage.
+- Vukradin conjures a Cloud of Daggers that traps Moesko within a 5-foot cube.
+- Cloud of Daggers inflicts 9 initial damage on Moesko.
+- Moesko responds to the party's attacks with a devastating Lightning Bolt.
+- Soma transforms into a wolf spider to scale the tower walls during the harpy battle.
+- Soma, as a wolf spider, crawls towards a female harpy, attacking and dealing much damage.
+- Brewbarry swings his handaxes but struggles to land a blow, missing multiple times.
+- A female harpy in blue rags attacks Soma, causing some damage.
+- Soma resists the song of another singing female harpy.
+- Soma opens the battle against Moesko with a minor poison spray attack.
+- Soma transforms into a brown bear to fight Moesko.
+- Moesko casts Thunderwave, dealing more damage and pushing Soma back.
+- Soma delivers the final strike, killing the Orc Anchorite Moesko.
+- Valphine aimed her crossbow at the male harpy, critically wounding it for marginal damage.
+- The creature attacked Valphine, then disengaged.
+- Valphine missed her attack of opportunity against the disengaging harpy.
+- Valphine hit the female harpy once.
+- Valphine hits a female harpy once and then again to finally kill it.
+- Brewbarry's flailing handaxes consistently missed.
+- Valphine noticed the irony that the shipwrecks are a result of the tower's curse.
+- Soma, in her brown bear form, landed significant blows on Moesko.
+- Vukradin cleverly trapped Moesko in a Cloud of Daggers.
+- Moesko retaliated with a Lightning Bolt that scorched most of the party.
+- Moesko's Lightning Bolt scorches most of the party, reducing Valphine's hit points and leaving her battered.
+- The Lightning Bolt reduced Valphine's hit points, leaving her battered.
+- Brewbarry charged Moesko and landed a hit for some damage, bringing Moesko to a single hit point.
+- Soma, shedding her bear form to navigate the cramped space, delivers the final decisive strike, killing Moesko.
+- Soma, shedding her bear form, delivered the final, decisive strike, killing the Orc Anchorite.
+- The conch is now in the party's possession.
+- Brewbarry charges Moesko and hits him for some damage, bringing the anchorite to death's door.
+- Moesko casts Lightning Bolt, dealing staggering amounts of damage, reduced by half for most of the party as everyone but Brewbarry is struck.
+- Vukradin debated taking blood money.
+- Vukradin declares his intent to repatriate items from the shipwrecks or deliver them to successors.
+- Vukradin pondered the repatriation of sunken treasure.
+
+## Chapter 9
+
+- Moesko, the dark cleric, lay defeated.
+- Valphine recounted the strange, pulsating heart illuminating the beacon.
+- Soma decides to use giant toad form instead of octopus form.
+- Soma transforms into giant toad form, with 39 hit points, and plunges into the water.
+- Soma in giant toad form had 39 hit points.
+- Soma deals 18 points of damage to the Hunter Shark with its bite, but the shark evades its grapple.
+- Soma's powerful bite deals eighteen points of damage to the hunter shark.
+- Soma's powerful bite dealt eighteen points of damage to the Hunter Shark.
+- Soma's bite dealt eighteen points of damage to the first shark.
+- Another shark joined the fray.
+- A third shark joined the fray.
+- A shark landed a solid hit on Soma, dealing sixteen points of damage and dropping him to twenty-two hit points.
+- Soma bites the second shark, dealing 12 points of damage, and it goes limp and drifts in the water.
+- Soma strikes true against the second shark, dealing twelve points of damage and killing it.
+- Soma struck the second shark for twelve points of damage.
+- Soma grappled the dead shark for a moment.
+- Soma momentarily grapples the dead shark, treating it as an odd trophy.
+- The timber from the wrecks is waterlogged and unsuitable for immediate use as firewood.
+- Soma hauled the chests to shore for others to lock-pick.
+- Miral appeared to claim her conch.
+- Miral pointed to the halberd, claiming it as the treasure he was going to get for the party.
+- The party shared cooked shark meat.
+- The talisman was crudely etched with the stylized, jagged lightning bolt of Talos, the God of Storms.
+- Vukradin thought the octopus armor was splint mail and useless to the party.
+- At the top of the tower, the beacon pulsed green light over the sea.
+- Valphine stared directly into the green light and was momentarily blinded.
+- Vukradin descends to the lightning rod and smashes it before destroying the heart.
+- After the heart is destroyed, the light goes out.
+- Vukradin casts a light spell to temporarily illuminate the beacon.
+- Vicious Mockery dealt one point of damage to a shark.
+- Vukradin felt increasingly isolated in the party over the looting disagreements.
+- Miral the sea elf's ghost manifests when her conch is presented.
+- Miral vanishes after speaking her warning.
+- The party cooks and shares the shark meat they lawfully earned.
+- Valphine was intrigued by the talisman's unsettling psionic energy rather than backing away.
+- Valphine stares directly into the beacon's pulsating green light and is temporarily blinded.
+- Valphine stares directly into the beacon, is temporarily blinded, and sees the heart before the blindness.
+- The green light was emanating from a human heart, several sizes too large, still beating.
+- Valphine casts Sacred Flame on one of the sharks, dealing 5 points of radiant damage.
+- Sacred Flame dealt five points of radiant damage to one shark.
+- David's sleep spell sends two sharks into a magical slumber.
+- Valphine casts Faerie Fire on both sleeping sharks, giving attackers advantage against them.
+- Soma dropped out of Wild Shape and healed himself.
+- Soma found a +1 halberd clutched in the skeletal grip of what must have been the ship's captain in the Star Crossed Lover wreck.
+- Soma offered to become an octopus, then decided on giant toad form.
+- Soma transformed into a giant toad, with 39 hit points.
+- Valphine and Brewbarry combine to deal a total of 22 points of damage to one shark.
+- Valphine and Brewbarry coordinate an attack dealing a total of 22 points of damage to one shark.
+- Valphine casts Faerie Fire, coating both sleeping sharks in a shimmering, phosphorescent glow.
+- Valphine caught a glimpse that the green light was emanating from Moesko's heart, still beating.
+- Valphine opens the three locked chests retrieved by Soma from the water.
+- Vukradin casts Vicious Mockery at a shark, dealing one point of damage.
+- Vukradin casts sleep on the two remaining sharks, putting them to sleep.
+- Vukradin destroys the beating heart at the top of the lighthouse, and the light goes out.
+- Vukradin strikes the grotesque heart twice, destroying it.
+
+## Chapter 11
+
+- Soma feels something is different about the Whispering Wood.
+- A majestic stag with shimmering fur and constantly moving antlers materializes before the group, then teleports 15 feet.
+- The stag teleports 15 feet away.
+- Soma casts Speak with Animals to talk to the stag.
+- The stag insists the group leave its territory, saying 'Get out of my territory.'
+- The stag insists Soma is in its territory and demands she leave.
+- Soma asks the stag if something weird is going on.
+- The stag teleports again, leaving an afterimage.
+- The stag confirms things have not been normal for some time.
+- The stag says it used to walk, prance, and eat vegetables but now it can blink and its antlers are different every time it looks at them.
+- The stag says it all started in the center of the forest.
+- The party decides to head towards the center of the forest.
+- Soma keeps thinking about the stag as she leads the group.
+- Soma approaches the blighted growth within ten feet and the brambles lash out with thorny tendrils dealing piercing and necrotic damage.
+- Soma approaches the blighted growth within ten feet.
+- The brambles lash out at Soma when she approaches within ten feet, dealing piercing and necrotic damage.
+- Valphine observed Soma wince in pain from the brambles and found it wonderful.
+- The brambles lash out at anyone within ten feet.
+- Valphine casts Sacred Flame on the thicket and it glances off.
+- Valphine channels a Sacred Flame from Lathander against the brambles, but it merely glances off.
+- Valphine's Sacred Flame glances off the brambles.
+- Brewbarry moves within ten feet of the brambles.
+- Brewbarry moves within ten feet, the brambles miss him, and he attacks with his halberd, tearing the branches apart.
+- Soma transforms into a bear and strikes the bushes.
+- The thicket appears to regenerate.
+- Brewbarry and the bear render the bramble inert.
+- The bramble stops moving after Brewbarry and the bear render it inert.
+- The party moves through the brambles before they can reanimate.
+- The wolves are defeated and the party takes their pelts.
+- The wolves are quickly defeated and their pelts are taken.
+- The wolves are quickly defeated.
+- Vukradin takes the pelts of the wolves.
+- Vukradin realized it is about the fans after seeing them at Stonehill Tavern.
+- Valphine asks the pool, 'Will I see myself happy and content?'
+- Vukradin observed that Valphine avoided staring at the pool.
+- Vukradin looks into the pool and sees a version of himself clutching coins constantly.
+- Vukradin looks into the planar scar pool and sees a version of himself clutching coins.
+- Vukradin jumps into the planar scar pool.
+- Vukradin jumps into the pool.
+- Vukradin experiences a dizzying cacophony of 'people, scenes, faces looking at me all at the same time'.
+- Upon entering the pool, a dizzying cacophony of people, scenes, and faces assails Vukradin's mind all at the same time.
+- Through the visions, Vukradin sees a distorted creature pleading about seeing beyond but only seeing the numbers.
+- Vukradin saw a distorted creature in the pool saying 'He saw beyond, but only what he was meant to see. The numbers. Always the numbers.'
+- Vukradin stumbles out of the pool, feeling an immense drain on his energy, and falls unconscious.
+- Someone revives Vukradin with a slap on the cheek.
+- Brewbarry became terrified and started running away after seeing the pool vision.
+- Brewbarry becomes terrified and starts running away, screaming about 'both sides'.
+- Soma transforms into her bear form and subdues Brewbarry.
+- The party decides they must move on from the pool.
+- Vukradin decides the group must move on from the pool.
+- As they walk closer to the center, Vukradin thinks about the numbers poking at his mind like a splinter in his eye.
+- Brewbarry asks the pool 'What side of the bread should I butter?'
+- Brewbarry attacks the brambles with his halberd, tearing the branches apart.
+- Brewbarry looks into the pool and asks what side of the bread he should butter.
+- Brewbarry saw a version of himself in the pool that said 'butter both sides simultaneously.'
+- Brewbarry sees a version of himself that says to butter both sides simultaneously.
+- The stag asks the party for something to eat.
+- The stag finds it hard to avoid branches and brambles due to its constantly changing antlers.
+- The stag says things have not been normal for some time and that the whole forest has gotten weird.
+- Vukradin is assailed by a dizzying cacophony of fragmented visions, whispers, and fleeting emotions inside the pool.
+- Vukradin sees a distorted creature pleading about someone who saw beyond but only numbers.
+
+## Chapter 12
+
+- Soma, in bear form, pushes through dense trees into a sixty-foot-wide clearing.
+- Lyra and other Emerald Enclave members are trapped in thorny, blighted vines.
+- The corrupted Treant speaks in overlapping, arrogant whispers, claiming ownership of the grove and warning the party to stay out if they want to avoid attack.
+- Soma, in bear form, is struck by thorny tendrils from the blighted brambles, taking four points of damage.
+- Soma swings her bear paws in combat and accidentally hits herself, missing the Treant.
+- Soma, in bear form, attempts to strike a blighted vine but hits herself.
+- Soma lands a solid blow against a blighted vine, freeing Lyra and one other elf.
+- Soma lands a solid blow against the blighted vine.
+- Two ensnared elves, Lyra and another, are freed from the blighted vine.
+- Lyra produces four crude stones with a dramatic flourish.
+- Brewbarry grows in size, gaining a fifteen-foot reach.
+- Brewbarry attacks a blighted vine but misses.
+- Brewbarry swings his weapon at a blighted vine but misses.
+- Brewbarry steps into the Treant's aura of corrupting planar energy.
+- Brewbarry resists the madness of the doom zone.
+- Valphine casts Guiding Bolt on the blighted vines, scoring a solid hit and weakening them.
+- The ritual requires six successful actions and allows three failures before the overall attempt fails.
+- Vukradin attempts the ritual and fails.
+- After his ritual failure, the planar energies inflict a dull pain in Vukradin's mind.
+- The planar energies of the blight inflict a dull pain on Vukradin.
+- Lyra casts a Moonbeam spell.
+- Lyra unleashes a Moonbeam, but is re-ensnared by the Treant's vines.
+- Lyra is re-ensnared by the Treant's vines.
+- Brewbarry cleaves another vine and manages to hurt the Treant itself.
+- Brewbarry shrugs off the psychic caress of the doom zone.
+- Valphine casts Fairy Fire, illuminating the foe.
+- Valphine fires a crossbow bolt at a vine.
+- Soma drops her bear form.
+- After Soma's first attempt, they have one ritual success and no failures.
+- After her ritual success, the planar energies inflict more pain on Soma for lingering in the aura.
+- The planar energies extract a toll with more pain for Soma lingering in the aura.
+- Soma conjures a Moonbeam, bathing the Treant in pale ethereal light and inflicting pain.
+- Vukradin heals the second enclave warrior, restoring him from near death.
+- Vukradin moves to the second Enclave warrior and performs a quick burst of healing, restoring him.
+- Brewbarry attempts the ritual and achieves another success, bringing the total to three successes and one failure.
+- Brewbarry succeeds at the ritual.
+- After Brewbarry's attempt, they have three successes and one failure.
+- Soma attempts the ritual with a clumsy flourish and fails, giving two ritual failures.
+- Soma's later attempt results in the second ritual failure.
+- Soma and the first Enclave warrior kill the corrupted Treant.
+- Soma and the first enclave warrior deliver the final blows to the corrupted treant, killing it.
+- The staff glows and tells Soma that the treant, the pools, and the bushes are all unnatural, and the planar rift is not part of the natural world.
+- The War of the Dragons occurred in the past and involved Severin's plan to summon Tiamat into the Prime Material.
+- Severin and his followers concocted a plan to summon Tiamat into the Prime Material.
+- Soma remembers the days of the War of the Dragons when Dragons flew and burned.
+- A council in Waterdeep was formed, and the Emerald Enclave attended.
+- Many members of the Emerald Enclave answered and fought in the War of the Dragons.
+- The tree became poisoned ever since the planar scar emerged.
+- The tree was sustained by planar pools instead of natural sunlight.
+- Soma attempted to do the ritual successfully and succeeded once.
+- Soma succeeded on the first attempt at the ritual then failed on the next two.
+- Soma experiences a failure after the initial success.
+- Soma tries one last time to succeed and fails.
+- A screaming, searing pain ripped through Soma's head.
+- Soma experiences screaming, searing pain ripping through her head during the ritual failure.
+- Everyone else in the group was clutching their heads in pain.
+- Everyone else is clutching their heads after the pain.
+- The earth shuddered with a sickening internal tremor.
+- The iridescent pools and planar wells began to grow in size, pulsing with violent, sickly light.
+- The planar rift caused the Whispering Grove to be no longer merely withering but possessed.
+- The group left the Whispering Grove because the air felt poisoned and the fabric of existence stretched thin.
+- The party leaves the grove because the air feels poisoned.
+- A shadow detaches itself from the swirling chaos of the rift.
+- The creature collected ingredients from the corpse of the corrupted Treant.
+- The creature disappears into the well, vanishing back into the planar tear.
+- The wells remain disrupting the world.
+- Soma decided to go and talk to Adabra.
+- Lyra asks the party to fight the corrupted Treant, saying it was the Grove's Guardian that turned on them while they tried to cleanse it of a planar infection.
+- Lyra calls out to the party for help, stating that the Grove's Guardian Treant was corrupted by a planar infection and turned on the Enclave members.
+- Lyra produces four crude stones and states that a ritual must be completed on the stones to clear the rift, with six successes needed and three failures causing failure.
+- Lyra says they must complete a ritual on four stones to clear and seal the rift.
+- Soma attempts the ritual and succeeds, marking the first ritual success.
+- Soma declares that the tree ate people and that trees do not eat people.
+- Soma succeeds at the ritual for the first time.
+- Soma, dropping bear form, attempts the ritual and succeeds.
+- The Guiding Bolt weakens the blighted vines, leaving them glowed with Lathander's light to aid the next attacker.
+- The Moonbeam causes the Treant to reel.
+- The War of the Giants was inspired by Tiamat's defeat, which caused the Giant gods to shatter the Ordning.
+- The corrupted Treant attacks one of the Enclave's Warriors, leaving them alive with one hit point.
+- Tiamat's defeat inspired the Giant gods to shatter the Ordning.
+- Tiamat's defeat led to an uneasy truce and inspired the War of the Giants.
+- Valphine casts Fairy Fire on the Treant, illuminating it.
+- Vukradin's Starry Whip attacks the corrupted Treant and connects.
+- With help from Soma, Vukradin addresses the ritual again and succeeds, making two successes and one failure.
+
+## Chapter 13
+
+- Soma feels like a shell sprout, wet from the nest, a child that has been taken advantage of.
+- Soma trusted Adabra and believes Adabra took advantage of her trust.
+- Soma feels chastised by Adabra's words.
+- Soma tells Adabra that they interrupted the interventionists.
+- Soma explains that they saved Lyra and says 'They didn't deserve to die.'
+- Soma tries to lie and deceive Adabra.
+- Soma tries to lie but fails.
+- Vukradin manages to confuse Adabra enough for her to forget about any betrayal.
+- Vukradin says 'Let's calm down. Do you want a beer?'
+- The planar rift was not sealed and the interventionists survived.
+- Vukradin convinces Adabra and Lyra to no longer be about to come to blows.
+- Vukradin says 'Let's go listen to some music? Wouldn't that be nice?' to deflect Lyra's rant.
+- Lyra's agent says he can't stay now but will be back later if Vukradin is buying.
+- Vukradin explains 'There is music that is bad.'
+- Vukradin asks Adabra why he and his fellow adventurers were dragged into the internal feud between members of the Emerald Enclave.
+- Vukradin realizes he doesn’t want to be an interventionist because it would mean he has fewer fans.
+- Adabra says those who see the true harm of the interventionists have been reduced to begging for crumbs of resources and being treated like they are mad.
+- Adabra says the creature was likely drawn to the energy, a planar magpie.
+- Adabra asks 'Did you kill it too?'
+- Adabra hands Vukradin five conflict-free gold pieces.
+- Barthen offers a paltry sum for the goods.
+- Vukradin answers truthfully when Linene asks questions about the pelts.
+- Linene Graywind offers more than twice what Barthen offered.
+- Valphine recalls reading in Neverwinter that the merchants had an interplanar device that stopped working.
+- Linene says her bosses will be very interested in this particular planar effect.
+- The group sells the pelts from the treant to Linene Graywind at the Lionshield Coster.
+- Linene asks whether they will perform tonight, and Vukradin nods.
+- Linene asks if Valphine will play because she feels Valphine makes the ensemble shine.
+- Valphine wonders if Vukradin has lost his edge and become just another people pleaser.
+- The members of the Emerald Enclave arrive and sit with them at the table.
+- Soma thinks that power and title are not the way of nature.
+- Vukradin offers to go speak on Lyra's behalf to her superiors.
+- Soma thinks that this is why you must center yourself on nature, not your needs.
+- Soma is pleased and thinks her teachings must be taking root in Vukradin.
+- Soma thinks that Lyra and her allies failed without their help.
+- Valphine came up to the Overbright to escape a minor demon incursion threatening Menzoberanzan.
+- Soma wants to learn more about the Enclave.
+- Thomas says Lyra had a particular affection for the Whispering Grove and was frustrated that nobody was doing anything.
+- Lyra discovered a ritual.
+- Thomas says they did not succeed at the ritual and almost died.
+- Thomas and Marian get up and leave.
+- Vukradins asks if Thomas and Marian would like to join his group.
+- Vukradin says his music for the Order of the Gauntlet will be better than what Ser Kaelen shared.
+- Adabra accuses Lyra and Soma of being interventionists who fill heads with noise.
+- Adabra asks 'Is the treant still there?'
+- Adabra asks about the Treant, and Vukradin says 'He's in stable condition'.
+- Adabra compares music to the multiverse and says interventionists believe some music is bad just because they don't like it.
+- Adabra points at Lyra and asks 'Then why are they here?'
+- Adabra says she was forced to reach out to any ally she could find.
+- Adabra says there is hope for Vukradin and perhaps even Soma, but Soma shakes her head.
+- At the Stonehill Tavern, the music set is off, with Vukradin not getting his vibe right.
+- Lyra is furious and screams 'You are insane!'
+- Lyra shouts 'If you cannot see the evil this woman represents and her fanaticism and its danger, then you are all fools.'
+- Marian asks Valphine 'Do you harm yourself and then use healing spells as if it was some kind of ritual?'
+- Soma asks 'Why did she choose something so hard?'
+- Soma confronts Adabra with accusations: 'What the hell! What was that!'
+- Soma knows the Treant is dead but thinks 'in stable condition' means the condition of being dead.
+- Soma knows the treant is dead.
+- Soma remembers that they did not complete the ritual.
+- Soma says 'We didn't help them' and argues they interrupted the interventionists.
+- Soma says 'You failed without our help.'
+- Soma thinks Vukradin can convince anyone of anything.
+- Soma throws blind and broad accusations at Adabra, asking 'What the hell! What was that!'
+- Soma wants to chew Adabra out.
+- The group's music set at the Stonehill Tavern is off, and Vukradin is not getting his vibe right.
+- The oldest agent says Lyra was upset because her quest to save the tree and forest failed.
+- The party sells the pelts to Linene Graywind at the Lionshield Coster.
+- Thomas asks 'Do you do this to yourself or to other people?'
+- Thomas says they tried to explain to Lyra that the ritual was difficult, but she said the forest and gods would protect them, yet they failed and almost died.
+- Thomas turns to Valphine and asks 'Have you ever seen rituals as difficult as the one we tried?'
+- Valphine asks 'It's not a ritual? Is that not typical in the Overbright?'
+- Valphine jumps in, 'And there was that creature.'
+- Valphine says 'It's bad because it crosses planar boundaries!'
+- Valphine says 'Yes but they involve blood and death and torture.'
+- Valphine says she came to the Overbright to escape a minor demon incursion in Menzoberanzan and plans to stay.
+- Valphine says the sun burned her eyes and she said 'wow, this is great!'
+- Valphine stares into the sun with a look of pure pain and says 'The glorious painful brilliance of his light.'
+- Vukradin asks 'Was it for like a promotion?'
+- Vukradin asks Thomas and Marian if they would like to join the group, but they decline due to their oath.
+- Vukradin asks if they would like to join our group, but they say their oath binds them.
+- Vukradin asks the Emerald Enclave agents 'So are you sticking with Lyra?'
+- Vukradin invites Adabra to join him playing music.
+- Vukradin mutters 'If we sell these pelts, she'll know what we did, but we need the money.'
+- Vukradin realizes Adabra misunderstood what he meant.
+- Vukradin refuses Corbin's offer, saying the ex-bandit swears it won't be blood money but the bard is not convinced.
+- Vukradin says 'Let's calm down. Do you want a beer?' and defuses the situation.
+- Vukradin says 'We didn't intervene.'
+- Vukradin says the treant was in the middle of a massive planar tear.
+- Vukradin shouts 'Boooring' at Adabra.
+
+## Chapter 14
+
+- The group discussed their plans in private the night before.
+- The party discussed their plans in private the night before to avoid being ambushed again.
+- The group decided to go to Butterskull Ranch.
+- The party decided to go to Butterskull Ranch.
+- The reward is 100 gp for returning proof of Kalazorn's death to Harbin Wester if he is dead.
+- The party leaves Phandalin and heads east on the Triboar Trail.
+- The group leaves Phandalin and heads east on the Triboar Trail.
+- The group encounters a friendly and annoyed merchant along the way.
+- The merchant said Conyberry was ransacked and a wreck, with nothing there.
+- Vukradin proposes going to Conyberry to secure the property.
+- The merchant says Conyberry was destroyed years ago and is utterly looted.
+- Vukradin proposes finding whose property was stolen, finding the thieves, and returning it to next of kin.
+- Valphine noticed an unsettling silence hanging in the air as she entered Conyberry.
+- Valphine notes the devastation of Conyberry is nothing compared to what happened to noble houses marked for extinction in Menzoberranzan.
+- The group turns a corner and notices four brigands.
+- The party turned a corner and noticed four brigands in Conyberry.
+- The party turned a corner and noticed four brigands who were members of Carver's gang.
+- Vukradin encouraged Corbin to talk to his former gang mates.
+- Corbin explains that quitting a gang has consequences, so he cannot talk to his former gang mates.
+- Harbin posted a quest on his board to investigate Butterskull Ranch after orc attacks.
+
+## Chapter 15
+
+- Vukradin intends to parley with the brigands, which Soma considers foolish.
+- Soma transforms into a Brown Bear and runs forward to attack the brigands.
+- Soma kills the first bandit with claws, ripping blood and life from him.
+- Soma's claws connect with the first bandit, killing him immediately.
+- Brewbarry becomes big and dispatches a bandit instantly with primal fury.
+- Vukradin uses magic to put one bandit to sleep.
+- One bandit flees the combat and no one chases after him.
+- The last bandit flees and no one chases after him.
+- Skippy reveals that the Carver has an ambush prepared at the Butterskull Ranch.
+- Skippy is tempted to keep silent but reconsiders looking at the blood on Soma's claws.
+- Vukradin insists on returning the prisoner to Phandalin because he will not allow the prisoner to sit defenseless.
+- Vukradin says Corbin cannot take the armor and they have to face Borg.
+- Corbin promises to take care of Skippy while the others are away.
+- Vukradin sees dead orcs and humans scattered near the outbuildings, swarming with flies.
+- Vukradin decides not to scavenge the corpses, saying it is not who he is.
+- Vukradin notices fresh wounds on the orc bodies that look ripped and mangled, suggesting a larger creature.
+- Vukradin unties Big Al from the chair in the cellar and rescues him.
+- Big Al explains that orcs raided the farm first, then rot-tusk ogres led by Borg the Hammer killed the orcs and seized the property.
+- The party rescues Big Al Kalazorn from the farmhouse.
+- The party observes the farmhouse from a hill roughly 250 feet away.
+- Borg executes the fleeing bandit swiftly.
+- Borg the Hammer executes the fleeing bandit who escaped the Conyberry skirmish.
+- Borg the Hammer sets the farmhouse and cornfields on fire, burning Butterskull Ranch.
+- Borg sets fire to the farmhouse and cornfields.
+- Borg points the three Rot-Tusk Ogres in a direction opposite to the direction he takes, splitting his forces.
+- Vukradin speaks for the party, saying he thinks they should follow Borg.
+- Corbin offers to guard the prisoner and asks if taking the bandit's armor would be conflict-free armor.
+- Soma perceives the bandit Skippy is terrified and smells strongly of fear.
+- Soma uses Speak with Animals to find Petunia the cow.
+- The party finds Big Al's cow Petunia and whisks her off to safety.
+- Valphine observes that Borg executes the fleeing bandit swiftly.
+
+## Chapter 16
+
+- Harbin accused Vukradin of a crime.
+- Harbin proposes a town meeting with one resident, one vote.
+- Vukradin threatens Harbin with pitchforks if he does not convene a town meeting now.
+- Vukradin realizes he doesn't need Harbin to convene a meeting.
+- Valphine marches onto the town green and plays music to gather the townspeople.
+- Vukradin marches onto the town green and starts playing music to convene a town meeting.
+- Vukradin thought the dragon was a rumor, then sees it is real.
+- Vukradin casts phantasmal force on the dragon, creating an illusion of a peasant in its claws.
+- The dragon flies away, apparently convinced it has its prey.
+- The dragon flies away, convinced it has prey and feeling the spell's pain.
+- Harbin announces a new privy council consisting of himself, Tolbin, Elmer, Halia, Linene, Adabra, and Vukradin.
+- Vukradin considers seizing the Townmaster role but decides compromise is noble.
+- Valphine stays outside Phandalin with Corbin and Locutus while the others go into town.
+- Valphine plans to sneak into Phandalin at night to meet Sister Kayla.
+- Valphine gets rid of any sign of Lathander and dresses to look like a drow of the Underdark.
+- Sister Kayla strikes down Locutus with her rapier and offhand dagger.
+- Valphine is shocked when Sister Kayla knows her name.
+- Borg was ordered to kill Big Al and leave no witnesses.
+- Sister Kayla's plan to frame Valphine for stealing from a merchant failed because Borg did not kill Big Al.
+- Sister Kayla says she will provide information to Valphine to kill the Carver's last lieutenant.
+- Valphine decides the Carver's telepathic ability is a bridge too far and she is about to tell Sister Kayla she no longer cares to help.
+- Sister Kayla tosses a bag of money at Valphine's feet as a down payment.
+- Brewbarry asks Spiderman where Jenna is from.
+- Brewbarry is confused when Jenna asks if Vukradin received a letter she sent.
+- Brewbarry brings Vukradin to the table to meet Jenna.
+- Vukradin thanks Brewbarry for disarming Jenna.
+- Vukradin is enthusiastic about meeting the woman who loves his music.
+- Vukradin sits down, gets a beer from Spiderman, and introduces himself to Jenna.
+- Jenna remarks that she now understands why Vukradin did not abandon the Order of the Gauntlet upon receiving a missive about House Margaster funding them.
+- Jenna references a missive about House Margaster funding the Order of the Gauntlet.
+- Vukradin worries that he is on trial again.
+- Vukradin interrupts Jenna to ask what the Lord’s Alliance is.
+- Vukradin asks Jenna if the Lord’s Alliance is like the Zhentarim.
+- Vukradin says he has heard of the Zhentarim but has not met them yet.
+- Brewbarry grunts at Jenna and asks her about her weapons.
+- Jenna mispronounces Brewbarry's name as 'Blue beerrree'.
+- Brewbarry mispronounces Jenna's name as 'GEEENA'.
+- Vukradin realizes she wants to be his agent, and thinks he needs one.
+- Vukradin hears Valphine's Lathanderian Choral Death Chant mix.
+- Vukradin tries hard not to focus on Valphine's Lathanderian Choral Death Chant mix.
+- The crowd that demanded Valphine a few minutes ago now chants for Vukradin's name.
+- Vukradin tells Jenna he needs to get back on stage because his friend (Valphine) is bombing.
+- Jenna proposes that by purchasing goods with stolen treasure, the adventurer returns the gold to the people from whom it was stolen.
+- Jenna offers to be Vukradin's agent, but Vukradin declines due to differences over fair-trade gold.
+- Vukradin rejects Jenna's offer to be his agent due to moral differences over treasure.
+- Vukradin tells Jenna he is not interested in compromising his morals and insists on returning items to their rightful owners.
+- Jenna admires Vukradin but won't change her tune.
+- Jenna admires Vukradin for sticking to his morals despite rejecting her offer.
+- Harbin says 'This is what happens when adventurers talk instead of doing their job' as the dragon approaches.
+- Jenna offers to be Vukradin's agent.
+- Once you get past 20 or so attendees, there aren't that many more.
+- Ser Kaelen tells Vukradin that if they get rid of Harbin, Lord Neverember will send the army.
+- Sister Kayla tosses a bag containing the money Locutus would have earned for killing Borg at Valphine's feet.
+- Someone screams 'DRAGON!' during Vukradin's concert.
+- Someone screams 'DRAGON' and everyone runs and points behind Vukradin.
+- Valphine's Lathanderian Choral Death Chant mix is playing, and the crowd chants for Vukradin's name.
+- Vukradin declares that there is no democracy in Phandalin and calls for a revolution.
+- Vukradin interjects and says Jenna's name as 'JINA!'.
+
+## Chapter 17
+
+- Valphine explained that Sister Kella had offered to work with them against the Carver and provided information on how to find the Carver.
+- Vukradin adamantly refused to work with evil people or accept what he considered stolen goods.
+- Vukradin declared he needed air and a cigarette before storming out of the tavern.
+- Harbin offered to arrange the paperwork for a fee of fifty gold pieces.
+- Brin and Giles agreed to renovate the temple for twenty-five gold pieces to cover materials, providing their labor for free.
+- Harbin claimed the temple funds had been a community donation.
+- Jena explained that investing adventuring money back into the community cleaned blood money into legitimate community improvement.
+- Harbin offered to buy a round of beer for everyone at the tavern.
+- Vukradin spoke with Ser Kaelen about tracking down the rightful owners of the treasure they had found.
+- The party decided to take on the supply delivery quest that Harbin had requested for his brother.
+- Brewbarry noticed there was no wine among the supplies.
+- The party arrived at the fortified Falcon Hunting Lodge after a two-day journey.
+- The journey from Phandalin to the Falcon Hunting Lodge through Neverwinter Wood takes two days.
+- Falcon explained that orcs had left their mountain homes since a dragon appeared and descended into the valley.
+- Falcon noted that the orcs seemed more organized than usual and appeared to be working with evil half-orcs.
+- Falcon's adventuring group split the treasure from the dragon's hoard four ways.
+- Vukradin accused Falcon of stealing from the people killed by the dragon and continuing to take money from guests.
+- Vukradin stormed out again after the accusation.
+- Vukradin gave an insincere apology to Falcon, which Falcon accepted graciously.
+- Vukradin gave what appeared to be a sincere apology, though it was actually quite insincere.
+- When asked if she was a cleric of Lathander, Sridar seemed confused and asked if it was an elaborate ruse.
+- Sridar's fascination began after the blink in the Underdark when demons appeared.
+- Sridar offered to pay good money for any information or artifacts related to planar phenomena.
+- Valphine shared detailed information about events involving a creature collecting strange items, and Sridar offered thirty gold pieces for it.
+- Sridar offered thirty gold pieces for the information about planar events.
+- The party agreed to sell the Talisman of Moesko to Sridar.
+- The party sold the Talisman of Moesko to Sridar for one hundred gold pieces and three bottles of wine.
+- Sridar arranged for Falcon to provide three bottles of wine for Brewbarry as part of the talisman deal.
+- The transaction pleased Vukradin as it represented fair trade gold rather than blood money.
+- Brewbarry suggested the planar events might be intentional rather than coincidental.
+- Falcon offered a quest involving the half-orcs at the Woodland Mants, with a reward of boots of elvenkind.
+- Falcon emphasized he had purchased the boots legitimately with proceeds from his establishment, not with stolen gold.
+- Vukradin privately resolved to search for information about the dragon hoard and find its rightful owners.
+- Falcon offered the party lodging, meals, and access to his fine wine cellar in exchange for musical entertainment from the bard.
+- Falcon revealed he built his lodge with his share of treasure from a dragon's hoard that his adventuring group had killed and split four ways.
+- Harbin claimed that the temple funds had been a community donation when Vukradin returned.
+- Harbin framed the transaction as a private arrangement that didn't need to involve the entire council.
+- The group decided to convert Tresendar Manor into the Temple of Lathander's Searing Pain of Justice.
+
+## Chapter 18
+
+- The reconnaissance mission began late at night when Vukradin deliberately undertook the investigation alone.
+- Vukradin undertook the investigation alone late at night while his companions slept.
+- Vukradin deliberately undertook the investigation alone.
+- Brewbarry was generating thunderous snoring that rattled the guest house timbers.
+- Soma was safely ensconced and silent within her shell.
+- Vukradin successfully infiltrated the Main Lodge and ascended to Falcon's private bedroom.
+- Vukradin gained entry to a locked drawer by prying it open.
+- Vukradin recognized the maze as resembling the structure described in the libretto of 'The Undercity Chorale,' a forgotten Waterdeep opera.
+- Vukradin noted that the miniature dragon's head was anatomically correct, appearing as if a dragon's head had been expertly shrunk down in size.
+- The Falcon Hunter immediately confronted the party about the disturbed drawer the next morning during breakfast.
+- The investigation continued the next morning during breakfast.
+- Vukradin convincingly professed ignorance about the events and the ring's location.
+- Falcon confessed the real, less glamorous truth about his past to Vukradin.
+- Vukradin's conviction that Falcon was a 'fraud and an artist. And a thief.' was confirmed.
+- Vukradin secured permission to document the ring.
+- The party was rested and ready to proceed with delivering the goods.
+- Valphine was merely bemused (or perhaps pretending to be) in her state of sleep.
+- Vukradin concluded Falcon was a fraud, an artist, and a thief.
+- Vukradin ritualistically cast the spell Silence over Falcon's bedroom and the adjacent hallway.
+- Vukradin ritualistically cast the spell Silence over the area, covering both the room and the adjacent hallway.
+
+## Chapter 19
+
+- Brewbarry pulls the cart with supplies for Tribar Wester through Neverwinter Wood.
+- After the Falcon Hunter filled the cart with booze, Brewbarry insists nobody but him touch the cart.
+- Brewbarry insisted that nobody but him touch the cart after the Falcon Hunter filled it with booze.
+- Valphine marches right next to Brewbarry after letting him march ahead earlier.
+- A few hours pass between starting the hike and Valphine demanding a stop.
+- Valphine demands the group stop because she spotted a poorly concealed orc in the bushes ahead.
+- Valphine demands the party stop and points out a poorly concealed Orc in the bushes ahead.
+- Soma leaves the clutch, transforms into a bear, and heads out to get a closer look.
+- Soma transforms into a bear to get a closer look at the orc.
+- The orc scout sees Soma in bear form and decides to climb a tree.
+- While climbing the tree, the orc scout makes hand motions to the north, east, and west.
+- Soma realizes this was an ambush.
+- Soma realizes the orcs had set up an ambush.
+- Brewbarry stumbles through the woods, losing the element of surprise.
+- Brewbarry stumbles through the woods, making noise.
+- Soma climbs the tree and swipes at the orc with her claws but misses.
+- Soma in bear form climbs a tree, swipes at the orc and misses, but then bites his foot, causing him to howl in pain.
+- Soma bites the orc's foot.
+- The orc scout disengages despite his bleeding foot.
+- The orc scout disengages, turns from 10 feet out, and fires an arrow into Soma the bear, causing pain.
+- The orc scout turns and fires an arrow into Soma's flesh from 10 feet away.
+- Valphine advances, pulls out her crossbow, and fires an arrow but misses.
+- Brewbarry misses his swing.
+- The first orc throws a javelin at Brewbarry, which lands in front of his feet.
+- Brewbarry picks up the javelin, splits it in two, and snarls.
+- The second orc shouts at the scout, calling him the dumbest scout.
+- Brewbarry becomes enraged because he remembers being exiled from his village due to accusations of being dumb like the orc said.
+- The first orc attacks Brewbarry with a scimitar and then slips out of range.
+- The orc with the necklace of bones attacks Brewbarry with his scimitar and then slips out of range.
+- Vukradin casts a magic spell on the second orc, causing his eyes to glow.
+- Vukradin casts magic on the orc with the scar, causing his eyes to glow and then he moves to attack the scout.
+- The charmed second orc moves to attack the scout.
+- Soma in bear form jumps from the branch onto the ground and shoves the scout next to the two orcs.
+- Soma casts Moonbeam.
+- Valphine casts Moonbeam, which she abhors because it is a pale imitation of Lathander's sun and doesn't hurt the orcs.
+- Valphine casts Moonbeam.
+- Valphine finally hits one of the orcs with her crossbow.
+- Valphine's crossbow finally hits and hurts one of the orcs.
+- The orc scout starts to run away after his statement.
+- The orc that Vukradin charmed was charmed no more.
+- Vukradin casts Phantasmal Force on the freed orc, making him see another copy of the orc with the necklace in his head.
+- Vukradin casts phantasmal force on the formerly charmed orc, making him see a copy of the orc with the necklace, and the orc attacks the image.
+- Brewbarry becomes enraged and enlarged.
+- Brewbarry swings his halberd in a 20-foot arc.
+- Brewbarry's swing is true and his roar is good, but he misses.
+- Soma hits one of the orcs.
+- The fleeing orc scout stops running, turns, fires his bow at Valphine, and misses.
+- The scout stops running, turns, fires his bow at Valphine, and misses.
+- Valphine loads, aims, and shoots her crossbow bolt, and misses.
+- The scout flees after the attack.
+- Vukradin charms the orc with the scar with his music, causing the orc to strike air.
+- Vukradin advances to strike with his daggers and misses, but the music hurts the orc with a scar and he dies.
+- Vukradin advances to strike with his daggers but misses.
+- The music magic hurts the orc with a scar and he dies.
+- The orc with a scar dies from Vukradin's music magic.
+- Valphine is struck by another orc who sees her as the incarnate will of Lolth and then flees.
+- Soma's jaws clamp down on the orc with the necklace.
+- Valphine chases after the fleeing scout but the scout escapes.
+- Valphine races after the fleeing scout, but he escapes because this is not the Underdark.
+- The scout escapes because it is not the Underdark where Valphine can see and the quarry cannot.
+- Brewbarry and Vukradin have captured the orc with the necklace.
+- The captured orc shouts that the raiding party is independent.
+- The orc with the necklace shouts that they are an independent orc raiding party and do not work for anyone.
+- Brewbarry tells the orc he is now "barbecue orc."
+- The orc says they were thrown out of their mountain home by a white dragon and now live in the valley.
+- The orcs were displaced by the war of the dragons and the war of the giants.
+- The orc says their chief has fallen with some half-orc cultists of Talos and many of the tribe followed him.
+- Valphine tells the captured orc 'You work for us.'
+- Valphine tells the orc he works for the party.
+- The cowering orc asks if he will get paid.
+- Brewbarry snarls 'You will get paid with your life,' grabs the orc, and pulls him toward the cart.
+- Brewbarry grabs the orc and pulls him toward the cart, binding his hands on the cart so he will pull it.
+- Brewbarry names the captured orc Shrimpy.
+- Nobody is at the Logger's Camp and a grim silence hangs over the camp.
+- Nobody is at the Logger's Camp when Vukradin arrives.
+- Vukradin says if he doesn't find Triber, he doesn't get his money.
+- Valphine thinks if this were Menzoberranzan she would sacrifice the orc to Lolth now, but Lathander disapproves.
+- An orc near Brewbarry shouts at the scout, calling him a useless turd of a scout and saying he only took him because his mother is his mother's best friend.
+- An orc scout sees Valphine and, in horror, says 'A Drow who worships Lathander. A bear that casts Moonbeam!' and then starts to run.
+- An orc shouts at the scout, calling him a useless turd and saying he only took him because his mother is his mother's best friend.
+- Brewbarry asks Soma, 'This orc was getting ready to flee. I thought you didn't attack creatures that flee?'
+- Brewbarry becomes enraged and enlarged, swinging his halberd in a 20-foot arc and screaming "You will not touch my wine."
+- Brewbarry swings his halberd in a 20-foot arc and shouts 'You will not touch my wine.'
+- The freed orc attacks the image of the orc with the necklace, convinced his ally wants him dead.
+- The orc next to Brewbarry insults the scout for being distracted by a bear.
+- The orc says they were thrown out of their mountain home near the Ice Spire in the Sword Mountains by a white dragon during the war of the dragons and the war of the giants, and ended up in the valley.
+- The orc with the necklace of bones screams at the charmed orc, "You attack my brother's nephew? Are you mad? Who do you think you are!"
+- The orc's hands are bound on the cart and he will now pull it.
+- The real orc with the necklace screams "Foul DROW!" and attacks Valphine.
+- The second orc attacks the image of the orc with the necklace.
+
+## Chapter 20
+
+- Brewbarry and Valphine spotted an orc scout attempting to conceal himself ahead.
+- Soma quickly realized the scout was a lookout for an ambush further up the path.
+- Soma realized the orc scout was a lookout for an ambush further up the path.
+- Valphine transformed into a bear.
+- The scout panicked and scrambled up a tree while signaling to companions.
+- Valphine as a bear climbed the tree and bit into the scout savagely.
+- Valphine in bear form bit the orc scout savagely.
+- Brewbarry caught the javelin mid-air, snapped it in two, and growled menacingly at his attacker.
+- Vukradin wove enchantments that turned the orcs against each other.
+- Soma leaped from the cart onto a brigand, shoving him backward, then called down a beam of radiant moonlight that engulfed three orcs.
+- Soma called down a beam of radiant moonlight that engulfed three of the orcs.
+- The brigand screamed that this was the worst idea he'd ever had and fled into the forest.
+- Another raider charged at Brewbarry with his scimitar, landing blows before retreating.
+- Vukradin conjured an illusion that made one raider believe he was surrounded by duplicates of his companion, causing him to waste his efforts fighting phantoms until the illusory assault killed him.
+- The illusory assault killed one raider.
+- The orc scout managed to escape into the woods.
+- The scout managed to escape into the woods.
+- The party interrogated Shrimpy and bound him to their cart.
+- The party interrogated their prisoner, whom Brewbarry mockingly named Shrimpy, and bound him to their cart.
+- Shrimpy, under intimidation, revealed he belonged to an independent raiding party displaced from their home in the Ice Spire of the Sword Mountains by a white dragon.
+- Since their exile, the orcs descended into chaos in the valley below, with their chief going mad and various factions forming.
+- Since their exile, the orcs' chief went mad.
+- The orcs' shaman was killed.
+- Various orc factions formed—some joining the Cult of Talos after their shaman was killed, others becoming brigands.
+- Shrimpy asked if he would be paid for his service.
+- When Shrimpy asked if he would be paid for service, Brewbarry told him his life was payment enough.
+- The party arrived at the Logger's Camp along the river's south shore.
+- The party continued their journey with Shrimpy pulling the cart.
+- The Logger's Camp was found eerily silent and completely deserted despite the early morning hour.
+- With no one present to sign their delivery notice, the party realized they would need to investigate what happened to Tibor Wester and the camp's inhabitants before they could claim payment.
+- One raider found himself compelled to attack his own scout, screaming insults about the scout's mother while his companions accused him of treachery.
+- Orcs emerged from hiding—raiders and brigands who immediately began arguing among themselves about the scout's incompetence and family connections.
+- Shrimpy's group tried to remain independent.
+- The brigand, overwhelmed by the magical assault and the family drama, screamed that this was the worst idea he'd ever had and fled into the forest.
+- The remaining raider was put into a magical slumber and captured.
+
+## Chapter 21
+
+- The party gathered at the Loggers Camp to discuss their next move.
+- Vukradin learned of his reputation as a noble adventurer.
+- Vukradin protested that he simply wanted to open his own studio, but the public perception had taken hold.
+- The group devised a plan to rescue the missing Emerald Enclave patrol.
+- The group decided to credit the success of the rescue to Lyra to boost her standing within the Emerald Enclave.
+- The party decided to transport Shrimpy to Phandalin for imprisonment.
+- The party took a long rest after planning.
+- The party consulted Joe’s notebook for directions to the Emerald Enclave meeting point.
+- Brewbarry consumed some fermentable mushrooms along the way, entering an altered state of consciousness.
+- Teega the Smith stood rigidly with glassy, unfocused eyes and spoke in an eerie monotone about metal bending, minds being cleansed, and waves seeking uniformity.
+- Teega cryptically mentioned they were trying to fix a leak with a wooden plug and that the current had found them.
+- Teega the Smith drew a mysterious spiral symbol in the mud.
+- Teega's eyes briefly cleared when Vukradin persuaded her, only to glaze over again as she wandered into a nearby glade.
+- Vukradin persuaded Teega, causing her eyes to briefly clear before they glazed over again.
+- The party crossed the river and immediately felt a strange tingling in their minds, with sounds echoing oddly and light flickering through the shadows.
+- The party recognized the three figures as the missing Emerald Enclave patrol, now under mind control.
+- The Cult Fanatic offered the party a chance to submit, but they refused.
+- Combat erupted as the Cult Fanatic attempted to control Brewbarry’s mind, compelling him to flee, while his mind-controlled warriors attacked with devastating precision.
+- The Cult Fanatic attempted to control Brewbarry’s mind, compelling him to flee.
+- Soma transformed into a massive bear and charged the cult leader.
+- Valphine channeled healing energy to keep her companions standing.
+- Brewbarry broke free and delivered a crushing non-lethal strike that knocked the Cult Fanatic unconscious.
+- Brewbarry broke free from the mental compulsion.
+- The moment their leader fell, the mind-controlled warriors collapsed to the ground, screaming and clutching their heads in agony.
+- When the Cult Fanatic fell, the mind-controlled warriors collapsed to the ground, screaming and clutching their heads in agony.
+- The party quickly secured their new prisoners, tying up the unconscious Cult Fanatic and his warriors, who wore green cloaks with gold badges bearing the same spiral symbol.
+- The Cult Fanatic could still exert control over his minions even while unconscious, causing them to move robotically toward him.
+- The party discovered the Cult Fanatic could still exert control over his minions even while unconscious, causing them to move robotically toward him.
+- Soma pursued the possessed Teega the Smith who had wandered off, tracking her through the wilderness in bear form before subduing her and bringing her back.
+- The party attempted restorative magic, but nothing seemed to break the mind control as long as the Cult Fanatic lived.
+- The party experimented with separating the prisoners and attempting restorative magic, but nothing seemed to break the mind control as long as the Cult Fanatic lived.
+- The party decided to keep the Cult Fanatic sedated for the journey to Phandalin, with Brewbarry tasked with maintaining the sedation.
+- A large raiding party of Talosian orcs ambushed the party on the second day of their journey, demanding the Cult Fanatic and identifying him as their enemy.
+- On the second day of their journey, a raiding party of Talosian orcs ambushed them.
+- The party negotiated with the orcs, who said the cult leader must be killed, and the party agreed to hand him over in exchange for safe passage.
+- The party agreed to hand over the Cult Fanatic to the Talosian orcs in exchange for safe passage.
+- Valphine executed the Cult Fanatic swiftly.
+- The orcs took the Cult Fanatic's head as proof of their victory.
+- The anchorite half-orc declared the deceased cultist as one more obstacle crushed by Talos before warning the party to leave their forest.
+- With the Cult Fanatic dead, the mind-controlled Emerald Enclave members finally awoke, though their minds were still reeling.
+- The mind-controlled warriors revealed they had been forced to steal an inscription that spoke of a drowned gate beneath Yllyn, somewhere deep in the Underdark.
+- Brewbarry, having drunk all of his ale, wondered where he could get more booze.
+- Brewbarry insisted they return to the Falcon's Lodge to fetch more alcohol.
+- The party decides to make a short detour to Falcon’s Lodge for rest and wine.
+
+## Chapter 22
+
+- The party arrived at the Falcon Hunting Lodge with prisoners and rescued companions in tow.
+- Teega the Smith's last clear memory was working at the Wayside Inn.
+- Brewbarry determined that despite the psionic nature of the manipulation, this was not the work of Mind Flayers.
+- Valphine attempted to intimidate Teega about her poor life choices in following the Kraken cult.
+- Vukradin offered Teega the Smith a position as a blacksmith for the Church of Lathander.
+- Vukradin tried a gentler approach, offering Teega a position as a blacksmith for the Church of Lathander.
+- Teega the Smith declined the immediate offer but expressed interest in returning to the Wayside Inn first and said she might visit the church later.
+- Teega the Smith declined the immediate offer of a position as a blacksmith for the Church of Lathander.
+- Mountain Toe's Goldmine had suffered from poisoned waters that threatened to shut down operations.
+- Falcon's gold mine investment had strained his finances considerably, leaving him without ready cash.
+- Falcon proposed giving the party a share of the gold mine itself if they would investigate the poisoning and resolve the situation.
+- The Woodland Manse quest involves orcs and half-orcs occupying an old manor, with a reward of a pair of magical boots.
+- The reward for clearing the Woodland Manse of orcs and half-orcs would be a pair of magical boots.
+- The Emerald Enclave guards expressed urgency about reporting back to their order regarding the planar disruptions, mind-manipulating societies, and the cult of Talos.
+- Vukradin successfully convinced Falcon to provide free accommodation for everyone by reminding him of their future business partnership.
+- The party decided to pursue the Woodland Manse quest to obtain the magical boots.
+- The mysterious Drow woman who had been interested in artifacts departed from the lodge during the night.
+- The journey to the Woodland Manse covered ten miles through the forest.
+- The party traveled ten miles through the forest and successfully navigated the trail without incident.
+- Wild pumpkins grow in patches around the manor, and several wild boars were feeding among them.
+- Soma snorted back at the boars with equal disdain.
+- Vukradin observed that the boars around the manor seemed evenly distributed around the property.
+- Soma used her ability to communicate with animals to speak with the boars.
+- The talking boar explained there are real wild boars and orc wild boars.
+- The talking boar identified a third boar to the south as particularly rude and new, having appeared only a few days ago.
+- The party recalled that Anchorites of Talos possessed the ability to shapeshift into animals.
+- Brewbarry summoned a beam of radiant moonlight down upon the suspicious third boar.
+- The talking boar began to flee after witnessing the Anchorite's revelation, protesting about protocol and his pumpkin patch.
+- The talking boar began to flee while protesting that this was not proper protocol and expressing concern about his pumpkin patch.
+- The talking boar expressed concern about his pumpkin patch as he began to flee the combat.
+- Valphine hurled a bolt of radiant energy that struck the Anchorite with devastating accuracy, tearing through its defenses and marking it for the next attack.
+- Brewbarry entered a rage and charged forward with advantage, but his strikes went wide despite his fury.
+- Soma followed up with a successful attack that wounded the Anchorite further, bringing it close to defeat.
+- Vukradin attempted to silence the Anchorite to prevent it from calling for help or casting spells, but the cultist resisted the magical effect.
+- The Anchorite stepped out of the moonbeam’s radius and shouted loudly to alert others in the manor.
+- The Anchorite unleashed a bolt of lightning that struck Valphine, Soma, and Brewbarry in a devastating line of electrical energy.
+- The Anchorite retaliated, unleashing a bolt of lightning that struck Valphine, Soma, and Brewbarry in a line.
+- Brewbarry called upon his stone-like endurance to absorb much of the lightning impact but was left badly wounded.
+- Valphine managed to partially dodge the worst of the lightning blast.
+- Brewbarry took the full force of the lightning and was left badly wounded.
+- A boar complained about "new boars" that didn't speak proper boar language or respect etiquette.
+- A talking boar complained about 'new boars' that had arrived recently and didn't speak proper boar language or respect pumpkin patch etiquette.
+- Teega the Smith recalled that she had been called by something known as 'the Kraken,' which promised peace.
+- Teega the Smith was called by something known as 'the Kraken,' which promised peace after endless wars and chaos.
+- Teega's brain had been rewired, leaving gaps in her memory and making her susceptible to the cult's influence.
+- The Anchorite shouted loudly to alert others in the manor.
+- The Emerald Enclave guards agreed to remain at Falcon's Lodge for two nights to rest and recover before reporting back to their order.
+- The party determined that Teega the Smith's mind had been manipulated through psionic means rather than traditional magic.
+- The party determined that Teega's mind had been manipulated through psionic means rather than traditional magic.
+- The party set out for the Woodland Manse at five o'clock in the morning.
+- The talking boar explained there were real wild boars and orc wild boars, and he and another boar to the north hadn't spoken in years but respected each other's territories.
+
+## Chapter 23
+
+- The party was battered from the first attack at the Woodland Manse.
+- A shapeshifting cultist of Talos unleashed devastating lightning upon the party.
+- Valphine called upon her divine powers to heal her companions, restoring their strength.
+- Another Anchorite, disguised as a wild bull, struck Soma and Vukradin with crackling bolts of electricity.
+- More cultists emerged from within the house and the surrounding area.
+- Faced with overwhelming odds, the adventurers made the tactical decision to retreat.
+- The party made the tactical decision to retreat from the Woodland Manse.
+- The party retreated from the Woodland Manse after being outnumbered by cultists.
+- Brewbarry, in his giant form, carried Vukradin to safety.
+- Soma grabbed Valphine and put her on her back to carry her to safety.
+- The party successfully disengaged from the cultists.
+- The talking boars expressed disappointment that the strangers hadn't dealt with the impostors violating proper boar culture and etiquette.
+- Shrimpy was whining, trying to argue the party must be dead and that Corbin should let him go.
+- The party picked up the Emerald Enclave fighters and went south to the edge of the forest a few miles west of Conyberry.
+- The party traveled south to the edge of the forest west of Conyberry, then west along the Triboar Trail toward Phandalin for nearly thirty miles.
+- From the forest edge, they traveled west along the Triboar Trail toward Phandalin, covering nearly thirty miles before stopping to rest.
+- Upon arriving in Phandalin, Vukradin called a council meeting to report their findings.
+- The party delivered Shrimpy to Town Master Harbin Wester.
+- The party informed the council about the Cult of Talos at the Woodland Manse, describing the shapeshifting orcs who wielded powerful lightning magic.
+- Most council members were unfamiliar with the Cult of the Kraken.
+- Valphine sensed Jenna Roscoe knew more than she was revealing.
+- Adabra identified what the party had witnessed as a temporal violation and planar distortion.
+- Adabra stormed out of the meeting in righteous fury.
+- The party decided that Adabra's extreme positions were wrong.
+- Ser Kaelen revealed that research at Candlekeep had identified the original owners of one of the magical items the party had found on ships.
+- Ser Kaelen promised rewards for returning the items, though the process wouldn't be straightforward.
+- Valphine delivered a powerful sermon that led the congregation into religious ecstasy.
+- The worshippers misinterpreted her message, believing they must stare directly at the sun until blinded to prove their worthiness.
+- A new unintended sacrament was born—congregants would intentionally blind themselves and then be healed as proof of their devotion.
+- Valphine placed the severed head of a Kraken Society cultist on a pike outside the church as a warning.
+- Don-Jon shared a long story about attending a barbarian tribe's party, believing he had been accepted as a member, though the party realized he had been seen as an idiot.
+- Don-Jon revealed he was the new overseer for the Mountain's Toe Gold Mine, hired by a consortium in Neverwinter.
+- The party escorted Don-Jon toward the mine.
+- The party discovered six dead orcs scattered across the rocky ground within five miles of the mine.
+- Six dead orcs are found within five miles of the mine.
+- Examination revealed the orcs had been killed by extreme cold rather than violence, clear evidence of the white dragon's presence.
+- The party discovered six dead orcs within five miles of the mine, killed by extreme cold.
+- The orcs' deaths by cold indicated a white dragon's presence in the area.
+- At the mine entrance, two wererats in hybrid form confronted the party and claimed ownership of the mine.
+- The wererats reacted with hostility toward Valphine for being a drow.
+- The party met Zeleen Varnaster, leader of the Whiskered Gang, deeper in the mine.
+- The Whiskered Gang was displaced from the Shrine of Savras by approximately sixteen orcs and several ogres.
+- Zeleen proposed that if the party cleared the orcs from the shrine, the wererats would return there and vacate the mine.
+- Zeleen refused to help reclaim her own home, claiming she was too valuable to risk and offering only two warriors if pressed.
+- Valphine attempted to negotiate a cheese-for-labor arrangement with Zeleen.
+- Valphine sensed the wererats were lying about their intentions and would likely try to keep the mine regardless of any deal.
+- Don-Jon insisted the mine could not serve as both a living space and a working mine for safety reasons.
+- Vukradin's persuasive arguments convinced Don-Jon that the wererats could nest in one section while working another.
+- The party struck a deal: the wererats would work the mine and live in part of it in exchange for regular cheese shipments from Butterskull Ranch.
+- The party reported their findings to the council about the Cult of Talos at the Woodland Manse.
+- Worshippers misinterpreted Valphine's message, believing they must stare directly at the sun until blinded to prove their worthiness.
+
+## Chapter 24
+
+- The party returned to Phandalin after successfully negotiating a peace agreement at the gold mine.
+- Harbin Wester greeted the party warmly and expressed satisfaction with recent changes in the community.
+- Brewbarry inquired about the upcoming ale supply.
+- Harbin warned that the dragon occupying the mountains and orc incursions were preventing farmers from tending crops, threatening ale production.
+- Harbin presented the party with quests including investigating Dragon Barrow, securing Axeholm fortress, and exploring the Woodland Manse.
+- Vukradin questioned the safety of transporting gold from Neverwinter.
+- Harbin revealed Neverwinter's history of decades of catastrophes, corruption, and crime that Lord Neverember was attempting to remedy through progressive reforms.
+- Vukradin realized he had been so devoted to his musical studies that he had completely missed major events in Neverwinter's history.
+- Vukradin realized he had been so devoted to musical studies that he had missed major events unfolding around him.
+- The party sought out Petunia, Big Al's prized cow, to ensure a steady cheese supply for the wererats at the gold mine.
+- The party turned their attention to ensuring a steady cheese supply for the wererats at the gold mine.
+- Through magical communication, the party learned that Petunia missed the alfalfa fields of her former home at Butterskull Ranch.
+- Qelline Alderleaf offered to let Petunia graze on her land for one gold piece per week, though Big Al lacked the funds to pay.
+- The grazing fee for Petunia is 1 gold piece per week from Qelline Alderleaf.
+- The party approached Qelline to negotiate about the grazing fee.
+- Qelline recognized that Big Al had sent the party instead of coming himself and revealed her deep resentment toward him.
+- During his prosperous days at Butterskull Ranch, Big Al's competitive pricing severely impacted Qelline's farm income.
+- Qelline admitted the one gold piece price was deliberately high—a 'hurt price' meant to make Big Al suffer financially.
+- Qelline offered to reduce the fee to five silver pieces per week if Big Al came to apologize to her personally.
+- The party pressed Big Al about the nature of his relationship with Qelline.
+- Big Al broke down in tears and confessed that he and Qelline had once been engaged, but he had abandoned her the night before their wedding.
+- The party insisted Big Al tell Qelline the full truth, and he picked up Petunia and headed to her farm to make amends.
+- Big Al picked up Petunia and headed to Qelline's farm to make amends.
+- Lyra appeared in town, reunited with the two Emerald Enclave members the party had rescued.
+- Lyra was deeply discouraged about her leadership abilities, citing the treant incident and her men's capture.
+- Lyra cited the treant incident as evidence of her failures.
+- Vukradin offered encouragement to Lyra.
+- One of the rescued men revealed that the party had claimed it was Lyra's plan that led to their rescue.
+- Lyra agreed to let Vukradin help convince the Emerald Enclave of her competence.
+- The party must wait until the next day for the Emerald Enclave meeting.
+- Ser Kaelen approached the party with information about the statue recovered from the lighthouse.
+- The statue belongs to Elara Seasong Meliame, a wealthy art collector currently attending a gala in Neverwinter hosted by her cousin Lord Cassian Meliame.
+- Agents of House Maragaster intended to intercept the statue to embarrass the Meliames.
+- Ser Kaelen requested that the party make sure to mention the Order of the Gauntlet's assistance in hopes of securing future donations.
+- Vukradin considered thanking multiple organizations to maximize potential favors.
+- That evening, the party performed at the local tavern.
+- The party performed at the local tavern that evening.
+- Valphine struggled with her performance.
+- Vukradin's music energized the crowd.
+- Brewbarry created a new spectacle with impressive physical displays and dance moves that the audience began imitating.
+- Spider-Man rewarded the party with free drinks and the crowd showered them with applause and coin.
+- The crowd showered the party with applause and coin.
+- After a night of rest, the party prepared for their next adventure.
+- The following day, the party embarked on a journey to Axeholm, traveling across grassy lowlands skirting the rocky foothills of the Sword Mountains.
+- The following day, they embarked on a journey to Axeholm.
+- A rusted iron portcullis blocked the entrance to Axeholm.
+- A rusted iron portcullis blocked the party's way into Axeholm.
+- Brewbarry attempted to force the portcullis open with an incredible display of strength, but couldn't overcome the massive stone block jamming the mechanism.
+- Soma summoned a rat familiar to scout through the narrow arrow slits, establishing a telepathic link to explore what lay beyond.
+
+## Chapter 25
+
+- The party arrived at the ancient dwarven fortress of Axelholm, carved into the base of a mountain miles south of Phandalin.
+- The party's quest was to open the long-sealed fortress and make it safe for habitation.
+- Townmaster Harbin Wester warned that Phandalin's people might need to evacuate to Axelholm if dragon attacks become imminent.
+- Soma summoned a rat familiar to scout ahead in the fortress.
+- Soma summoned a rat familiar which discovered a winch mechanism inside the entrance that could lift the portcullis gate.
+- The rat discovered a winch mechanism inside the entrance that could lift the portcullis gate.
+- The party heard a constant low-frequency ticking like a clock speeding up and slowing down from within the fortress.
+- The party heard scratching of quills on parchment coming from inside the walls themselves.
+- The party attached a rope to the winch and raised the gate.
+- Brewbarry spent considerable effort to smash through an inner portcullis door.
+- The rat perceived strange spatial distortions in Axelholm where distances seemed curiously out of phase, as if moving twenty feet only covered a foot of actual distance.
+- The rat perceived strange spatial distortions where distances seemed out of phase, as if moving twenty feet only covered a foot of actual distance.
+- Ballistas are positioned to defend arrow slits in the main hall.
+- The light within the fortress appeared mathematically cold and unnatural, refusing to flicker as normal flames would.
+- Soma used her staff to sense the corruption, discovering a planar anomaly that had warped reality within the fortress and driven its inhabitants mad.
+- Combat erupted with the out-of-phase dwarves when Brewbarry smashed through the door.
+- When Brewbarry finally smashed through the door, combat erupted with the out-of-phase dwarves.
+- Valphine called upon the glory of Lathander, causing several creatures to flee in terror.
+- Valphine called upon the glory of Lathander, her divine power causing several of the creatures to flee in terror despite them not being truly undead.
+- Soma unleashed beams of radiant moonlight and thunderous waves of force that damaged multiple enemies and sent them crashing against the walls.
+- Vukradin provided magical encouragement to his allies while striking with his rapier, causing one dwarf to blink out of existence as space folded in on itself.
+- Vukradin caused one dwarf to blink out of existence as space folded in on itself.
+- Vukradin's rapier strike caused one dwarf to blink out of existence as space folded in on itself.
+- Brewbarry transformed into his enraged state, becoming Big Brewbarry, and cleaved through the out-of-phase creatures with devastating strikes from his halberd.
+- Big Brewbarry cleaved through out-of-phase creatures with devastating strikes from his halberd.
+- Even more of the warped dwarves materialized from the unnatural light, their forms phasing in and out of reality as they advanced on the party.
+- Even more warped dwarves materialized from the unnatural light as the battle progressed.
+- More warped dwarves materialized from the unnatural light, their forms phasing in and out of reality.
+- When one out-of-phase dwarf struck Soma, she became paralyzed.
+- Soma became paralyzed and experienced the terrifying sensation of being packaged in a box, sealed, and delivered like an object, and the other creatures swarmed her, landing critical blows that nearly killed her.
+- When Soma was paralyzed, she experienced the sensation of being packaged in a box, sealed, and delivered like an object.
+- Soma experienced the terrifying sensation of being packaged in a box, sealed, and delivered like an object rather than a living being.
+- Other out-of-phase dwarves swarmed Soma's paralyzed form, landing critical blows that nearly killed her.
+- Valphine spoke words of divine healing that restored Soma and broke the paralysis.
+- Soma transformed into a powerful bear and tore through her attackers.
+- Soma transformed into a powerful bear.
+- Brewbarry heard a voice in his head saying 'incorrect packaging' as he was momentarily knocked into cold storage before breaking free.
+- Brewbarry was momentarily knocked into some kind of cold storage before breaking free.
+- Soma caused the ground itself to shake and tremble, knocking several dwarves prone and making the terrain difficult to traverse.
+- The party cut down the out-of-phase creatures one by one.
+- Another dwarf successfully paralyzed Soma in her bear form, leaving her vulnerable as the session ended.
+- Another out-of-phase dwarf successfully paralyzed Soma in her bear form.
+- Brewbarry resisted a paralysis attempt, hearing a voice in his head saying "incorrect packaging" as he was momentarily knocked into cold storage before breaking free.
+
+## Chapter 26
+
+- Valphine fired her crossbow at one of the out-of-phase dwarves, bringing it to the brink of death.
+- Soma found herself paralyzed by a dwarf's unnatural touch, but her constitution proved strong enough to shake off the effect.
+- The party systematically eliminated the remaining dwarves in the mustering hall.
+- Brewbarry delivered crushing blows against the twisted dwarves.
+- Vukradin supported his allies with inspiring words during the combat.
+- After combat, Valphine channeled healing energy to restore the party's wounds.
+- Valphine channeled healing energy to restore the party's strength after combat.
+- Valphine led the party through the cramped passage to an upper level.
+- The party discovered the chimney led to the mountain face where they originally entered Axeholm, but the view offered nothing of interest.
+- The party debated whether the platinum amulet and potion should be surrendered to Townmaster Wester or held by the Privy Council for Phandalin.
+- Valphine picked the lock on a locked door using her thieves' tools.
+- Valphine picked the lock on a locked door, finding the room completely empty.
+- Soma, in bear form, surprised and mauled one of the dwarves to death instantly.
+- The party quickly dispatched the second dwarf in the pillared hall.
+- The air in the pillared hall rippled like heat haze, and the creatures screeched in pain before recovering.
+- The three-headed King paralyzed Soma with his claws.
+- The King's three mouths bit Soma, causing her to collapse unconscious and revert from bear form.
+- Valphine channeled divine energy, turning one of the lesser dwarves who fled up the fireplace in terror.
+- Brewbarry flew into a rage, his enlarged form squeezing through the doorway as he engaged the King.
+- Vukradin attempted to assault the King's mind with an illusion of Moradin himself, but the creature's will proved too strong.
+- The King advanced on Brewbarry, suffering grievous wounds from Brewbarry's defensive strikes but pressing forward and finding his mark.
+- The King's attacks found their mark on Brewbarry, though Brewbarry's rage allowed him to shrug off much of the damage.
+- Valphine rushed to Soma's side, channeling healing magic to revive her fallen companion.
+- Vukradin successfully conjured the image of a giant bear in the King's mind, dealing psychic damage and distracting him.
+- In his confusion, the King turned on Valphine, but every claw swipe and bite attack missed her completely.
+- The party wore down the three-headed King until it finally collapsed, defeated.
+- As the King fell, the party felt a surge of power—they had grown stronger from their harrowing experiences.
+- Valphine recognized the signet ring not only as a valuable artifact but also as a key of some kind.
+- The party wisely decided not to investigate the depths of the trash chute.
+- Brewbarry examined the hot water from the sink and determined it came from a natural hot spring.
+- A fluttering noise draws the party's attention to a fireplace, and Valphine investigates.
+- Valphine carefully subdued the mechanical construct without killing it.
+- Valphine carefully subdues the mechanical mosquito construct without killing it.
+- Vukradin examines the captured construct, his aesthetic sensibilities offended by its unnatural design.
+- Vukradin examined the captured construct and noted markings indicating it was some kind of sampling device.
+- Vukradin notes markings indicating the construct is some kind of sampling device.
+- With the mysterious discovery in hand, the party prepares to delve deeper into the secrets of Axeholm.
+
+## Chapter 27
+
+- The party finished their exploration of the first floor of the dwarven fortress.
+- The party ascended to the upper floor after thoroughly exploring the lower level.
+- The party ascended to the upper floor where temporal and spatial distortions seemed more pronounced.
+- The time and spatial distortions seemed more pronounced on the upper floor.
+- The party heard a curious scratching sound echoing from the north hallway, like a hand frantically scratching on paper.
+- While climbing stairs, the party heard a scratching sound echoing from the north hallway like a hand frantically scratching on paper.
+- The party encountered six out-of-phase dwarven figures who screamed about efficiency and processes.
+- The dwarves became even more agitated when Vukradin offered to increase efficiency, as if that concept caused their torment.
+- Vukradin attempted to convince the dwarves that the party had come to help improve their efficiency.
+- The battle with the spectral dwarves was fierce but brief.
+- Brewbarry charged in a rage and cut down spectral dwarves with his halberd.
+- Vukradin wove magic that slowed the remaining enemies, making them sluggish and vulnerable.
+- Valphine called upon radiant guardians that destroyed two dwarves instantly and wounded another.
+- Soma joined the fray in bear form, tearing through weakened enemies with her claws.
+- All six dwarves were dispatched by the party.
+- All six dwarves were dispatched within moments.
+- The Chief Accountant spoke of ledgers that wouldn't close and regulators dividing by zero, her voice blending a grandmother's warmth with screeching static.
+- Vukradin summoned a giant adding machine to attack the Chief Accountant.
+- The Chief Accountant unleashed a terrible wail that echoed through the chamber, collapsing Valphine and Vukradin unconscious.
+- Brewbarry and Soma were wounded by the Chief Accountant's attack but remained conscious.
+- After her outburst, the Chief Accountant became incorporeal and fled through a closed door into another room.
+- The Chief Accountant became incorporeal and fled through a closed door into another room.
+- After the party healed and rested, the Chief Accountant emerged and explained that Valphine's sister Aletra had made a deal with the king to improve the mine's efficiency.
+- The king was jealous of the Lionshield Coster's multi-dimensional merchant operations and incredible revenue.
+- Aletra promised that installing a special machine would solve everything, but instead the machine broke and unleashed chaos throughout the keep.
+- The Chief Accountant revealed that she had complained to Aletra about the books not balancing, and that Aletra laughed at her before likely killing her.
+- The Chief Accountant offered the party a deal: the override code in exchange for letting her go and not telling Aletra what happened.
+- The Chief Accountant offered the party the override code to shut down the machine in exchange for letting her go and not telling Aletra what happened.
+- The party descended to the lower level and went through a tunnel to reach the machine room.
+- The machine vibrated violently, venting jets of purple steam while a magical voice boomed about non-Euclidean geometry and purging protocols.
+- Aletra warned the party not to approach, explaining she was in a delicate equilibrium with the machine and its guardian constructs.
+- Aletra revealed she needed to extract something important from the device before they could use the override code to shut it down.
+- Aletra spoke to Valphine in Undercommon with condescension, telling her to go play in the mud with the other surface dwellers while the adults handled their deadline.
+- Aletra proposed that if the party killed the spectral spiders guarding the machine, she would extract her cargo and allow them to disable the device.
+- Aletra warned that if they refused, she might attempt the extraction anyway, which could cause the entire place to explode.
+- The Chief Accountant stared at Valphine's unconscious form with panic and frantically attempted to stabilize her with blue-white static energy while crying out about acid damage and depreciation.
+- The Chief Accountant was terrified that 'the auditor' would liquidate her for closing Valphine's account.
+
+## Chapter 28
+
+- The party found themselves in a tense standoff with Aletra.
+- Aletra was working to extract a mysterious package from a broken planar machine.
+- Aletra explained the machine had been a gift to her boss and was causing dangerous spatial anomalies throughout the area.
+- The machine was causing dangerous spatial anomalies throughout the area.
+- Aletra claims they are in a spatial equilibrium.
+- Aletra warned that if she couldn't retrieve her package, she would leave everyone to face the consequences of the machine's catastrophic failure.
+- Valphine successfully hampering three of the Rift Weavers with magic.
+- Brewbarry and Vukradin moved into position.
+- Soma summoned a sphere of roiling flames that scorched several Rift Weavers and began burning away the webs.
+- Aletra pointed her wand at Brewbarry, causing him to glow with an ominous red light.
+- Aletra revealed her true intention to use the party as pawns, pointing her wand at Brewbarry to make the machine detect him as a spatial anomaly.
+- The machine immediately detected Brewbarry as a spatial anomaly.
+- The machine immediately detected him as a spatial anomaly, and all the Rift Weavers turned their attention toward him.
+- All the Rift Weavers turned their attention toward Brewbarry, fixated on eliminating him.
+- The Rift Weavers attack Brewbarry relentlessly after he is marked as a spatial anomaly.
+- One of the Rift Weavers managed to ensnare Brewbarry in sticky webs, restraining him.
+- Valphine cast protective magic on Brewbarry, granting him resilience against the onslaught.
+- Rift Weavers used their cosmic abilities to free themselves from the slowing effects.
+- Aletra references a previous trap she and Valphine set together using a stuffed creature as bait.
+- Aletra shouted to Valphine, reminding her of a previous trap they had set together using a stuffed creature as bait.
+- Aletra cursed the dwarven creators of the machine for their inefficient design.
+- The party discovered that the Rift Weavers were deeply disturbed by magical fire.
+- Soma's flaming sphere burns through the webs restraining Brewbarry.
+- The flaming sphere burned through the webs restraining Brewbarry, preventing future attempts to ensnare him.
+- Valphine struck one of the spiders with radiant energy, causing it to recoil violently.
+- Aletra made a cutting remark about their mother saying Valphine wasn't the sharpest tool in the shed.
+- Aletra remarked she enjoyed being the target of pointy tools.
+- Brewbarry and Vukradin cut through the Rift Weavers with brutal precision, killing them one by one.
+- One by one, the Rift Weavers fell during the fight.
+- Rift Weavers fell, dissolving into crackling sparkles as they were destroyed.
+- The remaining Rift Weavers became confused, torn between attacking Brewbarry and the malfunctioning machine itself.
+- The machine emits warnings of catastrophic failure.
+- Aletra successfully extracted a box containing vials of interdimensional poison.
+- Aletra called out to Valphine, asking if she had the shutdown code and urging her to use it.
+- Aletra remarked she would hate to have to collect Valphine's body parts and bring them back to their mother.
+- Aletra pressed a small device, opening a shimmering portal before her.
+- Valphine struck Aletra with a blinding curse.
+- Aletra fumbled and dropped several of the precious vials onto the ground due to sudden blindness.
+- The blinding curse caused Aletra to fumble and drop several of the precious vials onto the ground.
+- Aletra dropped several of the precious vials onto the ground when blinded.
+- Aletra stepped through the portal despite her blindness and disappeared.
+- Valphine entered the shutdown code on the keypad, and the machine ceased its countdown and began to fold in on itself.
+- Valphine rushed to the keypad and entered the shutdown code for the machine.
+- The final remaining Rift Weaver, having nothing left to repair, winked out of existence.
+- The one remaining Rift Weaver winked out of existence after the planar device disappeared.
+- Aletra muttered that the boss wouldn't be happy with this development as she disappeared through the portal.
+- The machine folded in on itself, collapsed, and completely disappeared.
+
+## Chapter 29
+
+- The interdimensional device collapsed into the void after Aletra escaped.
+- The party searched the room where the machine had been.
+- Soma investigated a ledger on Aletra's desk and uncovered her forgeries.
+- Vukradin left the room.
+- Valphine discovered a hidden bag containing a small platinum coin, a square-cut malachite gem, a bottle of fine wine, and four vials of Midnight Tears poison.
+- Valphine discovered a hidden bag containing several valuable items.
+- The party took the forged ledger and Operator's Guide as evidence.
+- The party took the forged ledger and manual as evidence.
+- The Chief Accountant seemed relieved when informed that Aletra had fled and the machine had imploded.
+- The party informed the Chief Accountant that Aletra had fled and the machine had imploded.
+- The party presented the Chief Accountant with the interplanetary bill for forty-two thousand gold pieces.
+- The Chief Accountant screamed for about ten minutes about how outrageous and incorrect the bill was.
+- The Chief Accountant screamed for about ten minutes about the interplanetary bill.
+- The Chief Accountant screamed for about ten minutes.
+- Valphine discovered a secret door hidden in the back of the fireplace.
+- Four steampunk-like audit drones emerged and attacked when the secret door was opened.
+- One drone stuck its needle into Valphine, filling a vial halfway with her blood.
+- Vukradin killed two of the audit drones with powerful strikes.
+- Another drone attacked Vukradin.
+- Valphine managed to capture one of the audit drones for investigation.
+- Valphine managed to capture one of the drones by removing it from her body and holding onto it for investigation.
+- After multiple failed attempts to pick the lock, Brewbarry smashed the chest open with his strength.
+- Brewbarry smashed the iron chest open with his strength after multiple failed attempts to pick the lock.
+- Brewbarry immediately put on the dread helm, causing his eyes to glow an ominous red.
+- The party took a long rest before leaving.
+- The party returned to Phandalin after several days of travel.
+- Harbin Wester was ecstatic that Axeholm had been secured.
+- Townmaster Harbin Wester paid the party two hundred fifty gold pieces for securing Axeholm.
+- Harbin Wester paid them two hundred fifty gold pieces for securing Axeholm.
+- Harbin Wester clarified that Axeholm was meant as a last-resort backup plan, not a new home for the town.
+- When Brewbarry, still wearing the dread helm with glowing red eyes, approached him, Harbin Wester nervously asked if he had been possessed by a demon.
+- Harbin Wester asked Brewbarry if he had been possessed by a demon when he saw his glowing red eyes.
+- Harbin Wester nervously asked Brewbarry if he had been possessed by a demon.
+- Vukradin intimidated Harbin Wester by reminding him of his position as head of the Privy Council.
+- Vukradin intimidated the townmaster by reminding him of his position as head of the Privy Council.
+- Harbin Wester asked the party to deliver cheese to the gold mine for Qelline Alderleaf, as no one else wanted to make the delivery with dragons and orcs threatening the area.
+- Harbin Wester emphasized that until the dragon threat was dealt with, the orcs would continue to pressure the farming communities.
+- The party decided to prioritize the cheese delivery to get the gold mine operational.
+- Brewbarry persuaded Sir Kaelen that the gold mine was a higher priority, explaining his need for money to start a music studio.
+- Brewbarry declined Jenna Roscoe's suggestion to sell out, insisting on doing things his own way.
+- The party traveled fifteen miles to the Mountain's Toe Gold Mine.
+- Upon arrival at the west entrance of the gold mine, the party encountered two ogres and eight orcs.
+- The ogres were shouting in Common to a wererat leader, demanding the mine be given to them in exchange for sparing the wererats.
+- When the ogres recognized the party as those who had killed their tribesmen, they became enraged and sought revenge.
+- Combat erupted immediately as the orcs threw javelins at the party.
+- One javelin struck Brewbarry, though Valphine attempted to deflect it with her magic.
+- An ogre charged at Brewbarry, who landed a powerful strike as it approached.
+- Vukradin unleashed magic that slowed both ogres and two orcs.
+- Soma summoned a sphere of flame that engulfed multiple enemies, killing two orcs instantly.
+- Soma transformed into a bear after summoning the sphere of flame.
+- Soma transformed into a bear.
+- Valphine called forth spectral guardians that radiated divine energy in a wide area around her.
+- The guardians tore through the enemy ranks, killing three orcs and severely wounding an ogre.
+- The spectral guardians tore through enemy ranks, killing three orcs and severely wounding an ogre.
+- Brewbarry, filled with rage, struck down the wounded ogre with a devastating blow.
+- The remaining ogre fired a ranged weapon at Valphine before backing away.
+- An orc threw a javelin that missed its mark.
+- The party pressed their advantage against the remaining enemies.
+- Aletra had crossed out 'iron for 500 pounds' and written 'Midnight Tears - crate 4 - do not drop' in the ledger.
+- The Chief Accountant declared 'The book is closed' and disappeared.
+- The Chief Accountant sighed deeply, declared 'The book is closed,' and disappeared, finally at peace now that all accounts were settled.
+
+## Chapter 30
+
+- Valphine's divine guardians manifested as spectral protectors whose holy radiance devastated orcs who dared approach.
+- Orc after orc fell as they charged toward Valphine, their bodies consumed by celestial fire.
+- Orcs charging toward Valphine were consumed by celestial fire when they failed to resist the divine power.
+- Brewbarry's voice boomed with supernatural resonance and his eyes flashed red beneath his helmet, striking terror into his enemies.
+- Brewbarry stood imposing on the battlefield, his eyes flashing red beneath his helmet as he struck terror into enemies.
+- Brewbarry cleaved through enemies with his halberd.
+- A second wave of enemies emerged from around the hill.
+- Soma rolled a sphere of flames into the enemy ranks.
+- Soma used her claws and teeth to tear through enemies who survived the flaming sphere.
+- A devastating blow against Brewbarry barely fazed him.
+- Coordinated attacks from the entire party brought the ogres down, with Brewbarry's thrown axes delivering the final killing blows.
+- The party discovered alchemist's fire, a pouch of coins and gems, and a symbol of Talos among the fallen ogres.
+- The Carver's power apparently weakened after a disastrous incident with someone named Borg the Hammer.
+- The ogres shifted their allegiances after the Carver's weakening.
+- Zeleen's story about Don-jon Raskin's death by carrion crawler seemed suspicious.
+- Zeleen seemed suspicious when telling his story about Don-jon Raskin's death.
+- The party negotiated to receive Don-jon's share of the mine in exchange for dealing with the carrion crawler problem.
+- Valphine presented the wererats with Petunia's cheese, a local delicacy that delighted them.
+- Valphine discovered that Don-jon had not been killed by the carrion crawler but had died in combat with someone else; the creature merely feasted on his corpse afterward.
+- Dwarf footprints leading away from the death scene pointed to the true culprits of Don-jon's death.
+- Valphine found dwarf footprints leading away from the scene, pointing to the true culprits.
+- Soma convinced the carrion crawler to seek better hunting grounds elsewhere.
+- Horia produced a contract showing Don-jon had made an agreement with the dwarves to work the mine.
+- Horia produced a contract showing Don-jon made an agreement with the dwarves to work the mine and that their tribe had been working it long before the wererats arrived.
+- The argument between Don-jon and the dwarves about dismissing them turned deadly.
+- Horia warned that the wererats were incompetent at mining and would cause the entire operation to collapse within months.
+- The party proposed a compromise where the skilled dwarves would handle the actual mining while the wererats provided menial labor and security.
+- Horia agreed to consider the arrangement if the wererats apologized for killing dwarves in their initial conflicts.
+- Horia was deeply offended when Valphine bluntly stated that contracts existed only to cheat people.
+- Valphine bluntly stated that contracts existed only to cheat people, deeply offending Horia.
+- Horia questioned whether Valphine was truly a cleric of Lathander.
+- The party began renegotiating the dwarves' original contract, which had promised them a twenty percent share, hoping to reduce their cut.
+- A first wave of orcs and ogres attacked the party outside the mine.
+- A second wave of enemies emerged from around the hill the mine was dug into.
+- Brewbarry turned to his next victim with glowing red eyes and declared 'you're next' before cutting him down.
+- Don-jon had been 'conveniently lured to his death' by Zeleen.
+- Don-jon told the dwarves he found a sucker in a bard fellow who convinced the wererats to work for cheese and planned to dismiss the dwarves, leading to a deadly argument.
+- Waves of orcs and ogres descended upon the party outside the mine.
+- When pressed about whether he killed Don-jon, Zeleen evasively replied that 'kill is such a strong word.'
+
+## Chapter 31
+
+- The party recapped their recent adventures including encountering orcs and ogres allied with the Carver.
+- Don-Jon had been killed by dwarves before being eaten by a carrion crawler.
+- The party met with the Stonetallow clan of shield dwarves.
+- Zeleen Varnaster initially demanded an upfront payment of one thousand gold pieces for six months of protection.
+- Zeleen initially demanded an upfront payment of one thousand gold pieces for six months of protection.
+- Brewbarry counters by reminding the wererats they were chased from their homes and now get shelter, cheese, and protection without payment.
+- Brewbarry countered by reminding Zeleen that the wererats were getting shelter, cheese, and protection without being kicked out.
+- Zeleen Varnaster agreed to protect the mine for free, viewing it as protecting their home and family.
+- Zeleen agrees to protect the mine for free, viewing it as protecting their home and family.
+- Zeleen offers Vukradin a piece of Petunia's cheese, which is delicious and unique, almost like Gouda but better.
+- Zeleen warns that orcs, ogres, and a dragon are still causing chaos in the area.
+- Zeleen warns that the dragon's raids will prevent any beer brewing this year.
+- The party decided to head toward Neverwinter, planning to stop at Dragonbarrow along the way to obtain the dragon slayer sword.
+- The party takes a long rest in the mine, now protected by the wererats and worked by the dwarves.
+- The party takes a long rest in the mine.
+- Horia mentioned needing to figure out overhead and details, suggesting around one hundred gold pieces per week from the mine, possibly more with investment.
+- Horia suggests the mine might earn around 100 gold pieces per week, possibly more with investment.
+- The Falcon offers Vukradin a particular wood for his music studio if the party clears the lodge.
+- Xanth offers to guide the party to a circle of standing stones atop a cave-ridden hill where orcs and half-orc spellcasters perform dark rites.
+- The party decided the half-orc spellcasters were a priority after obtaining the sword.
+- Brewbarry insists on using his strength to open the entrance instead of magic.
+- Soma uses mold earth to help while letting Brewbarry think he's doing it alone, but Brewbarry's strength is more than sufficient.
+- Brewbarry uses his strength to open the secret entrance without assistance.
+- Brewbarry's strength was more than sufficient to open the entrance without assistance.
+- Soma summoned a rat familiar to scout ahead.
+- Soma established a connection to see through the rat's eyes and hear through its ears.
+- The rat explored the western hallway and discovered four sarcophagi in alcoves.
+- The northwest sarcophagus contained a musical instrument.
+- The southeast sarcophagus was sealed too tightly to enter.
+- A light in the area went off, then turned back on when the rat moved past it.
+- Soma had the rat dance back and forth, causing the light to turn on and off repeatedly.
+- Soma has the rat dance back and forth, causing a will-o'-wisp's light to turn on and off repeatedly.
+- A will-o'-wisp attacked the rat familiar with lightning, instantly killing it.
+- A will-o'-wisp kills Soma's rat familiar instantly with lightning.
+- The light attacked the rat with lightning, instantly killing it.
+- The party realized the lights were the will-o'-wisps and decided to avoid them.
+- The party proceeded east to avoid the dangerous lights.
+- The party arrived at an area with two sealed sarcophagi in alcoves and a small, two-foot-wide passageway.
+- Valphine suggested checking for traps first and found no sign of mechanical traps or anything suspicious on the outside or base of the sarcophagus.
+- Brewbarry opened the first sarcophagus.
+- When Brewbarry opened the first sarcophagus, a cloud of corrosive dust filled the area around him.
+- When Brewbarry opens the first sarcophagus, a cloud of corrosive dust burns his skin but he shrugs off most of the damage with his toughness.
+- Brewbarry's incredible toughness allowed him to shrug off most of the damage, taking only minor injury.
+- The first sarcophagus is completely empty, with no corpse or bones.
+- The first sarcophagus was found to be completely empty, with no corpse or bones.
+- Brewbarry used his long halberd to open the second sarcophagus from a safe distance.
+- Brewbarry uses his halberd to open the second sarcophagus from 10 feet away, and another cloud of dust emerges but falls harmlessly around the party.
+- Another cloud of dust emerged from the second sarcophagus but fell harmlessly around the party.
+- The second sarcophagus is also empty.
+- The second sarcophagus was also found to be empty.
+- Zeleen saw through Vukradin's deception about dragons polymorphing with a natural 20.
+- Brewbarry revealed his full name 'Brewbarry Root Smasher Ogalakadu' to Zeleen for the first time.
+- Brewbarry reduces 14 damage from a corrosive dust trap to just 3 using Stone Endurance.
+- Vukradin expressed confusion about the name 'Stonetallow,' questioning the oxymoron of stone and tallow.
+- Vukradin makes an insight check and realizes the wererats never wanted to mine and give off a gangster vibe, preferring muscle work over hard labor.
+- The party proposed to the wererats that the dwarves would do all the menial labor and mining while the wererats would act as muscle and protect the mine as their territory.
+- The party emphasizes that the dwarves will extract gold for the wererats and they will receive cheese from Petunia.
+- Zeleen is intrigued by the idea and initially demands an upfront payment of 1,000 gold pieces for the first six months.
+- Brewbarry counters Zeleen's demand, reminding him that the wererats were chased from their homes and are now getting shelter, cheese, and protection without being kicked out, questioning why they would demand payment.
+- Brewbarry uses his axe, still covered in orc and ogre blood, as an intimidating visual during the negotiation.
+- Zeleen, impressed by Brewbarry's argument and the implied threat, agrees to protect the mine without an upfront payment, stating they should protect their home and family.
+- Vukradin attempts to trick Zeleen by claiming dragons can polymorph into smaller forms to enter caves, but Zeleen rolls a natural 20 and sees through the deception, finding it a good joke.
+- Zeleen warns that the dragon's raids are affecting farming and there will be no brewing of beer this year, which greatly concerns Brewbarry.
+- The party reviews their outstanding quests: helping Lyra with the Emerald Enclave, returning a statue for Ser Kaelen in Neverwinter, dealing with the Carver, finding the Dragonblade, and investigating the dragon.
+- The party confirms they completed the quest to persuade Petunia about the cheese.
+- The party needs to return a statue from the lighthouse to an art collector before House Markaster attacks and inform them that the Order of the Gauntlet is to thank.
+- Vukradin votes to go to Neverwinter to see Elara ‘Seasong’ Meliamne and unlock some of their loot.
+- They take a long rest in the mine, now protected by the wererats and worked by the dwarves.
+- Horia and the wererats shake hands on their agreement, with contracts exchanged.
+- The dwarves look at the wererats' modifications with skepticism, while the wererats view the dwarves as suckers.
+- Vukradin asks about expected weekly earnings from the mine, and Horia mentions needing to figure out overhead and details, suggesting around 100 gold pieces per week, possibly more with investment.
+- The party crosses the Triboar Trail and encounters The Falcon, owner of the Falcon's Hunting Lodge.
+- The Falcon is distraught because the party never cleared the Woodland Manse.
+- Orcs and ogres have taken over the Falcon's Hunting Lodge.
+- The Falcon reveals that orcs and ogres have taken over his Falcon Lodge.
+- The Falcon is returning to Phandalin to settle debts and plan his next moves, refusing to return to the lodge.
+- The Falcon proposes turning the Falcon Lodge into a venue for musical performances by Vukradin and Fina.
+- Brewbarry enthusiastically agrees that everything tastes better with ale, including music.
+- The Falcon departs for Phandalin, leaving the party with the option to reclaim his lodge later.
+- The Falcon departs for Phandalin.
+- Vukradin, having never seen a centaur before, is freaked out and considers it an abomination.
+- Soma calms Vukradin, explaining that centaurs are woodland creatures and not a threat.
+- Xanth warns the party about strange will-o'-wisps over Dragonbarrow at night, stating the hill is haunted by restless spirits and he only goes there in daylight.
+- Soma makes a nature check and recognizes the description as potentially will-o'-wisps, evil lights that emerge in natural surroundings, which the druid Meryl had told her about.
+- Soma, as a druid, makes a nature check and recognizes the description as potentially will-o'-wisps.
+- Xanth mentions that Neverwinter Wood has been overrun by orcs allied with half-orc spellcasters.
+- Half-orc spellcasters perform dark rites at a circle of standing stones atop a cave-ridden hill in Neverwinter Wood.
+- Xanth offers to take the party to the half-orc spellcasters after they visit Dragonbarrow.
+- Brewbarry makes an insight check and connects the half-orc spellcasters to the orcs causing farmers to flee, which is affecting beer production, making it a priority after obtaining the sword.
+- Xanth confirms these are the Anchorites of Talos, the same group that tried to kill the party.
+- Valphine, with her high perception, finds a secret entrance at the base of the hill—a rock acting as a stone plug embedded in the earth.
+- Valphine is disappointed because the entrance is too obvious and not truly secret.
+- Brewbarry rolls a 22 on his strength check and easily opens the entrance without needing help.
+- Brewbarry's confidence is boosted by Soma's assistance, and he gains an inspiration point.
+- The party entered the passageway and saw yellow lights coming from different directions within the tomb.
+- Soma summons a rat familiar to scout ahead, establishing a telepathic connection to see through its eyes and hear through its ears.
+- Soma's rat familiar discovers four sarcophagi in alcoves in the western passage.
+- The southeast sarcophagus is sealed too tightly for the rat to enter.
+- The other two sarcophagi contained moldy bones of adventurers.
+- The light suddenly attacks the rat, dealing 9 points of lightning damage and instantly killing it.
+- The party realizes the lights are dangerous and decides to avoid them.
+- The party decides to explore the eastern passage to avoid the dangerous lights.
+- Valphine finds no sign of mechanical traps or anything suspicious on the outside or base of the sarcophagus.
+- Brewbarry opens the first sarcophagus, releasing a cloud of corrosive dust that fills a 10-foot area.
+- The cloud of corrosive dust from the sarcophagus fills a 10-foot area.
+- Brewbarry fails his dexterity saving throw and takes 14 points of acid damage.
+- Brewbarry uses his Stone Endurance racial ability, rolling 1d12+2 to reduce the damage by 11, taking only 3 points of damage total.
+- Valphine recalls something about tombs but gets distracted thinking about burying people alive.
+- The session ends at 10:30 PM.
+- The party negotiated an agreement where wererats protect the mine while dwarves perform the mining work, formalized with contracts.
+- The party discovered a secret entrance to Dragonbarrow, a rock acting as a stone plug.
+- Zeleen Varnaster and Horia Stonetallow finalized the mine agreement with a handshake.
+- The return of the object must give credit to the Order of the Gauntlet.
+- Horia explains that 'Stonetallow' comes from 'stone to allow,' referring to the clan's founder who knew how to build proper archways.
+- The party decides to visit Dragonbarrow to obtain the dragon slayer sword, which is on the way to Neverwinter.
+- The party explored Dragonbarrow interior, finding mysterious lights that attack intruders, empty sarcophagi that release corrosive dust, and a small two-foot-wide passageway.
+- Valphine suggests checking for traps on the sarcophagus and rolls a 20 perception check.
+- Vukradin questioned the oxymoronic name 'Stonetallow.'
+
+## Chapter 32
+
+- The party enters a narrow secret passageway to the west in the Dragonbarrow.
+- Vukradin steps on a hidden pressure plate in the tunnel.
+- The tunnel walls collapse inward, burying everyone except Soma in dirt and stone.
+- Soma excavates the entire blocked tunnel, allowing the party to continue.
+- The bones of a horse in a southern niche writhe together and rise as an undead skeletal horse.
+- The skeletal remains writhe together and rise as an undead horse.
+- Soma communicates with the horse through magical communication.
+- The party deceives the horse into believing Soma is Lady Alagondar through reincarnation, which the horse accepts.
+- The skeletal horse accepts the reincarnation explanation without question.
+- Brewbarry falls into a non-magical trap, taking injuries.
+- Vukradin creates a zone of absolute silence to protect against the wisps.
+- Soma tends to Brewbarry's wounds with healing magic.
+- Valphine turns the Will-o'-wisp when it reappears.
+- Vukradin charges ahead, running down a corridor and turning west into a tomb.
+- Brewbarry sighed as he realized that the Bard had misunderstood the directions that Boney had given.
+- Vukradin falls into yet another trap, breaking the magical silence.
+- Brewbarry discovered he could strike the creatures when they materialized to attack.
+- Brewbarry discovers he can strike the Will-o'-wisps when they materialize, landing a blow on one.
+- Vukradin opens a sarcophagus and discovers another Will-o'-wisp and a necklace of fire beads.
+- Soma's radiant Moonbeam finishes off the Will-o'-wisp that Vukradin attacked.
+- Brewbarry deliberately triggers a trap with his halberd before leaping over it.
+- Vukradin, running ahead, steps on a five-foot-long pressure plate hidden in the two-foot-wide tunnel.
+- Soma uses the Mould Earth cantrip to extract the party members from the collapsed debris.
+- Soma continues to use Mould Earth to excavate the entire tunnel, allowing the party to proceed.
+- Upon Soma's inspection, the horse's bones writhe together and rise as a skeletal horse.
+- Soma casts Speak with Animals to communicate with the skeletal horse.
+- The horse reveals it was brought to the dungeon to guard something for Lady Alagondar but was killed by Will-o'-wisps.
+- The party debates names for the horse, with suggestions including 'Mr. Ed', 'Butterscotch', and 'Boney'.
+- Boney vaguely indicates the sword might be buried 'across the way' from the chamber he is in, pointing north.
+- Soma casts Detect Magic as a ritual to help locate the sword and avoid magical traps.
+- Brewbarry, leading the way, falls into a non-magical trap, taking 12 points of damage.
+- Vukradin casts Silence in the corridor as a prophylactic measure against the Will-o'-wisps.
+- Valphine heals Brewbarry for 25 hit points.
+- Valphine readies an action to use Turn Undead when a Will-o'-wisp appears.
+- Valphine successfully uses Turn Undead on the Will-o'-wisp in the room with Boney, causing it to flee far away.
+- The Will-o-Wisp flees in terror.
+- Soma dashes towards Vukradin to provide aid.
+- With the Will-o-Wisp turned, Vukradin runs to get the sword.
+- Vukradin reaches the intersection, and turns west.
+- Brewbarry shouts, North, but the silence spell blocks it.
+- Vurkadin falls into a pit trap, taking 19 points of damage and losing concentration on Silence.
+- A Will-o'-wisp appears and attacks Vukradin, dealing 9 points of damage.
+- Vukradin uses a reaction to attack the fleeing Will-o'-wisp, hitting with a 21 and dealing 6 points of damage.
+- Vukradin hit a fleeing Will-o'-wisp with a 21 attack roll, dealing 6 points of damage.
+- Soma hears something, and realizes the bard is in danger and races after him.
+- Vukradin opens the sarcophagus, discovers and sees the Will-o'-Wisp.
+- As Vukradin moves away from the sarcophagus, the Will-o-Wisp misses by rolling a 1.
+- Vukradin casts Cloud of Daggers on the Will-o'-wisp, dealing a meager 4 points of damage after rolling four ones.
+- Vukradin's Cloud of Daggers dealt 4 points of damage to a Will-o'-wisp.
+- Vukradin retrieves a Necklace of Fireballs with seven beads from the sarcophagus to the south west.
+- Vukradin then runs to the northwest where he picks up a magical flute of illusions.
+- Soma's Moonbeam dealt 12 points of damage to a Will-o'-wisp.
+- Brewbarry moves north towards the sword, past the intersection and arrives at an archway that leads to a tomb.
+- Brewbarry uses Thaumaturgy to brighten the light, discovering it is a magical spell, not a Will-o'-wisp.
+- Brewbarry intentionally triggers a pressure plate trap using his halberd.
+- Brewbarry approaches the pit, sees the Will-o'-wisp, rages and attacks.
+- Brewbarry hits the Will-o'-wisp with a 23, dealing 10 points of damage.
+- Brewbarry hit a Will-o'-wisp with a 23 attack roll, dealing 10 points of damage.
+- Brewbarry makes a second attack while raging, destroying the Will-o'-wisp.
+- Valphine rushes towards Brewbarry.
+- Valphine jumps over the pit trap, and enters the room which has a pair of sarcophagi.
+- A long sword, identified as the Dragon Slayer Sword, is found resting atop the dragon's skull.
+- The party excavated the collapsed tunnel using Mould Earth to proceed.
+- Boney was brought back from the dead to aid Lady Alagondar on a quest.
+- Boney recalls being killed by Will-o'-wisps after being brought to the dungeon.
+- The party convinces Boney to accept the name 'Boney' after it states its original name was 'Barney'.
+- Soma used Mould Earth to clear collapsed tunnel walls after a trap was triggered, freeing party members buried in dirt and stone.
+- Soma used Mould Earth to excavate the entire blocked tunnel to allow passage.
+- Soma cast Speak with Animals to communicate with the newly reanimated skeletal horse Boney.
+- Through Speak with Animals, Soma learned about Boney's past service to Lady Alagondar and its death at the hands of Will-o'-wisps.
+- Soma cast Detect Magic as a ritual to sense magical effects within 30 feet for 10 minutes.
+- Soma's Detect Magic ritual lasts for 10 minutes.
+- Detect Magic helped the party locate the sword and avoid magical traps, though it requires concentration.
+- Soma cast Silence in the corridor as a prophylactic measure against the Will-o'-wisps, creating a 24-foot radius sphere where no sound can pass.
+- The Silence spell was lost when Vukradin fell into a trap and Soma failed the concentration save.
+- Valphine used Turn Undead as a readied action against a Will-o'-wisp, causing it to fail its wisdom save and flee.
+- Brewbarry used Thaumaturgy to manipulate a magical light source, making it brighter to expose an invisible Will-o'-wisp, though it only revealed the light was a magical spell.
+- Brewbarry's light manipulation only revealed the light was a magical spell.
+- Brewbarry cast Cloud of Daggers on a Will-o'-wisp in a sarcophagus, creating a swirling cloud of daggers that dealt 4 points of slashing damage after rolling four ones on 4d4.
+- Cloud of Daggers dealt 4 points of slashing damage.
+- The Cloud of Daggers dealt 4 points of damage after rolling four ones on 4d4.
+- Soma cast Moonbeam on a Will-o'-wisp that was already caught in Cloud of Daggers, dealing 12 points of radiant damage and destroying it.
+- Moonbeam dealt 12 points of radiant damage.
+- Moonbeam creates a beam of pale moonlight and can be moved as a bonus action.
+- Boney vaguely recalls the sword might be buried 'across the way' from where Lady Alagondar rests, pointing the party northward.
+- Soma uses the Mould Earth cantrip to extract her companions from the debris.
+- Valphine reaches the northern chamber and finds the Dragon Slayer Sword atop a dragon skull.
+- Vukradin, seeing the path open, runs to get the sword.
+
+## Chapter 34
+
+- Brewbarry remembers something about goodberries and thinks he likes them.
+- Brewbarry explains that after the artifact was stolen, he found a goodberry that healed him and made him not hungry for a whole day.
+- Brewbarry tells Vukradin that after the artifact was stolen, he found a goodberry, ate it, and was healed.
+- Brewbarry reveals that the tribe thought he was asleep on the job and didn't take care of things.
+- Brewbarry reveals he was sober, not drunk, when the artifact was stolen.
+- Brewbarry was sober when the artifact was stolen, not drunk as the Uthgartian tribe assumed.
+- Brewbarry describes having a full belly and a stillness from the goodberry — not drunk, not asleep, just settled.
+- Brewbarry acknowledges that while he sat with that feeling, something was stolen and the tribe made their judgement.
+- Brewbarry was banished from the Uthgartian tribe for failing his post when the artifact was stolen.
+- Brewbarry asserts that he didn't drink before the loss of the artifact in his banning from the Uthgartian tribe.
+- Brewbarry tells Vukradin he was sober when the artifact was stolen and did not drink before his banning from the Uthgartian tribe.
+- Brewbarry reflects that after being exiled for something he hadn't done, he might as well become the thing he was accused of being.
+- Brewbarry says that sobriety was wasted youth.
+- Brewbarry argues that since they are going to face dragons, they need fireballs.
+- Vukradin counters that the dragon is probably immune to fire.
+- The argument over the necklace collapses because they are going to face a dragon and Vukradin points out the dragon is probably immune to fire.
+- Soma places her hands on the centaur and heals him with a spell, and he rises.
+- Soma tells Xanth he's allowed to kiss her.
+- When Xanth says he could kiss Soma, Soma replies 'You're allowed.'
+- Xanth laughs, and the tension of battle disperses.
+- Xanth explains that a white dragon came to the Icespire Mountains, displaced the orcs living there, and the orcs moved into the valleys where people live.
+- Xanth recognizes the staff Soma carries as belonging to Meryl and states it is a powerful staff.
+- Soma says the staff is just an old stick that Meril left in his house, with one leaf on it.
+- Xanth says the staff is not a simple staff but a powerful staff that used to have more leaves.
+- Xanth offers to help Soma because Meryl must know her.
+- Xanth says he will help Soma because Meryl and Xanth were old friends.
+- Soma says she wants to keep the world a safer place and keep peace among the land.
+- Xanth tells Soma that dealing with the dragon is the most important thing.
+- Soma says the animals talk a lot, surprising Vukradin.
+- Xanth named the Carver's lieutenants as Borg, Sister Kaella, and Zax.
+- Vukradin noted with satisfaction that two out of three of the Carver's lieutenants were accounted for.
+- Valphine crouched over Sister Kaella's bound form and worked her fingers along her jaw, throat, and pulse points to return her to consciousness.
+- Valphine wakes Sister Kaella by manipulating her jaw, throat, and pulse points.
+- Valphine works her fingers along Sister Kaella's jaw and throat to return her to consciousness slowly.
+- Vukradin stepped in to correct Kaella's framing, saying she should be lucky Jax is alive.
+- Valphine offered to still torture Kaella to death if Kaella would like.
+- Valphine said 'or if I'd like' and the room reassessed her.
+- Valphine felt an insult land differently when Kaella said 'Or if I'd like.'
+- Valphine felt the room reassess her after her remark about sacraments.
+- Valphine pressed Kaella to tell them more about the dragon and more about the Carver's plan.
+- Sister Kaella told the party that the Carver had gone completely mad, heading for Icespire Hold to possess the dragon and visit vengeance on everyone and everything.
+- Soma pointed out that parties who assassinate an organization's muscle tend to make lists.
+- Kaella told Vukradin he has difficulty dealing with morally gray environments.
+- Vukradin said Kaella will do well in prison with morally gray people.
+- Kaella said 'As long as I'm alive, there's always hope.'
+- Vukradin said 'Keep hoping, babe.'
+- Kaella had been about to say something about drow clerics of Lathander and the importance of darkness and light before Vukradin cut her off.
+- Kaella said that she and Valphine had an arrangement.
+- Valphine confirmed that they have an arrangement.
+- Kaella gave directions to Icespire Hold without further persuasion, past the point of withholding information and negotiating which prison would be most convenient.
+- Kaella revealed the Carver was heading to Icespire Hold at roughly the same time.
+- Corbin was assigned to Kaella's keeping.
+- Kaella started screaming the moment they were clear of the tent.
+- Valphine said she has been teaching Corbin some of her sacraments.
+- Cutting directly to Ice Spire Hold costs 1 level of exhaustion.
+- Cutting directly to Icespire Hold would cost one level of exhaustion.
+- Swinging through Phandalin first would cost two levels of exhaustion.
+- Vukradin asked if anyone else was with the little one; the giants said 'No.'
+- Vukradin asked Xanth to carry him and Valphine as far as the area near the gold mine, sparing Xanth the mountains.
+- Vukradin proposed that Xanth carry the party to the foothills near the gold mine, sparing Xanth the mountains.
+- Xanth agreed to carry Vukradin and Valphine on his back as a pack animal.
+- Xanth would carry Vukradin and Valphine on his back, Soma in wild shape would carry another rider, and Boney the horse would handle the rest.
+- Soma transformed into a bear to carry another rider.
+- Corbin said 'That will be my pleasure' when told to watch Kaella.
+- Corbin was assigned to watch Kaella while the party travels to Ice Spire Hold.
+- Corbin asked 'Can I beat her?' as a procedural question about parameters.
+- The party took a long rest before departing.
+- Soma sensed wrongness in the air before finding the trail.
+- Soma found footprints that were human in shape, perfectly spaced, running straight through obstacles.
+- Soma found human-shaped footprints that ran straight through terrain over rocks and through obstacles, with a mechanical rhythm.
+- The giants pointed down the path as their version of help.
+- The rocks were displaced and shimmered faintly, as if reality had tried to put them back and couldn't.
+- Soma understood psychic residue when she pressed Meril's Staff against the displaced rocks.
+- Soma understood from the staff that the energy was psychic, not magical distortion from a spell.
+- When the staff made contact, Soma understood there was psychic energy, not magical distortion.
+- Soma said 'That guy is possessed' about the Carver.
+- Soma noted the rocks phased along the trail, there and not-there.
+- The rocks along the trail phased between there and not-there, like a wound that hadn't decided to close.
+- The rocks phased along the trail — there, not-there, there again.
+- The giants said: 'Hekaton has said, and the failure of the breaking of the sundering has shown, that giants must take care of giant things.'
+- The failure of the breaking of the sundering has shown giants must take care of giant things.
+- The giants gave two potions to the party before they left.
+- Vukradin asked if anyone had been with the Carver.
+- The Carver is a thing that warps rocks and walks through obstacles, traveling alone through mountain passes heading toward a dragon.
+- Soma asked 'Do we know anything about that?' regarding the obsidian sword.
+- Brewbarry and Soma answered together that the obsidian sword is level-draining.
+- Vukradin said he didn't want to come anywhere near the obsidian sword.
+- The Carver's footprints had a rhythm like a millstone — even, mechanical, relentless.
+- Brewbarry heard the rumbling of stone giants before he understood it and understood it before the others knew anyone was speaking.
+- Brewbarry understood the giants were troubled before others knew anyone was speaking.
+- The giant who spoke for them said: 'The little one with the obsidian sword came through this path.'
+- Vukradin asked the giants if they tried to stop the Carver.
+- The stone giants said the trail-maker is of no concern to them and they did not try to stop him.
+- The giant said of the Carver: 'He is a little one. Is of no concern of ours.'
+- Vukradin asked if the giants tried to stop the Carver; the giant replied 'He is a little one. Is of no concern of ours.'
+- Soma said quietly that she wouldn't be so sure about the Carver being no concern.
+- Vukradin asked if there was a way they could help; one giant pointed down the path.
+- Vukradin asked about the white dragon and whether it concerned the giants.
+- When Am broke the sundering, some thought it was time for giants to seize power over the little ones.
+- The war with the dragons is over according to Hekaton.
+- The war with the little ones is over according to Hekaton.
+- Valphine said dryly that the giants are not interested in fighting dragons.
+- A giant said the dragon can stay where it lives and does not bother the giants.
+- Valphine asked if the giants were not interested in fighting dragons; the giant said 'The dragon can stay where the dragon lives, and the dragon does not bother us.'
+- Soma and Brewbarry said simultaneously that the dragon will soon bother the giants.
+- Valphine said 'The corrupted one seeks to corrupt the dragon.'
+- Valphine asked the giants if they had any proof that the corrupted one seeks to corrupt the dragon.
+- Valphine asked for proof that the corrupted one seeks to corrupt the dragon.
+- Soma pressed Meril's staff against one of the phasing stones, revealing psychic residue.
+- The phasing stone surfaced the truth of what happened there — psychic residue warped into the rock following the Carver's path.
+- Psychic residue was warped into the rock, following the Carver's path.
+- The giants leaned in at the evidence from the staff.
+- The giants leaned in and acknowledged what they saw from the stone.
+- The giants acknowledged what they saw but said Hekaton said giants must take care of giant things.
+- Vukradin asked if there was anybody else with the little one.
+- The Carver had come through alone, carrying something made of obsidian, and the rocks had not recovered where his feet had touched.
+- The party ascended the mountain pass, and Brewbarry hauled himself up using Goliath blood, Gauntlets of Ogre Power, and a life of climbing.
+- Before the party left, one giant without ceremony pressed two potions into Brewbarry's hands: greater healing and hill giant strength.
+- The phasing rocks thinned, stopped, and the pass widened ahead of the party.
+- Valphine observed a saturated violet color in the ice of the Glacier of Whispers with faces pressed against the inner surface.
+- Dozens of faces were pressed against the inner surface of the glacier, mouths open, eyes wide, screaming in absolute silence.
+- Valphine recognized the trapped faces as akin to being trapped in darkness in the Underdark.
+- Whispers appeared in Valphine's mind without permission.
+- Whispers appeared in the space behind conscious thought, saying 'He walks without rest, without breath, without soul.'
+- The whispers said 'He walks without rest, without breath, without soul.'
+- Whispers arrived saying 'He walks without rest, without breath, without soul.'
+- Valphine recalled a doctrine about Lathander's light and its relationship to psychic resonance and whispers in the region.
+- The glacier projects a psychic impression of something soulless walking through everything that had ever lived there.
+- Valphine understood that her teachers had not been speaking in metaphor.
+- Valphine discovers that Lathander's light, specifically invoked as a ward, can hold the glacier's psychic pressure at bay for ten minutes.
+- Valphine invoked Lathander's light specifically directed as a ward, which held the psychic pressure at bay for ten minutes.
+- Lathander's light holds the psychic pressure at bay for ten minutes.
+- Valphine asked aloud whether this ability to use Lathander's light was new or something she had always been capable of.
+- The party crossed the glacier, each member enduring the whispers through their own resources.
+- The party crossed the glacier; Brewbarry endured through stubbornness and skull thickness, Vukradin through furious clarity from his principles, Soma through deep rootedness.
+- Valphine kept Lathander's blessing present but unused, watching for a crack in someone's resolve.
+- The party emerged on the other side of the glacier without the whispers breaking anyone's resolve.
+- The party holds together and crosses the glacier without breaking.
+- Vukradin knew before reaching the young drake what the Carver had done.
+- The young drake lies dead in the snow, with hollow eye sockets and black-stained snow from the Carver's actions.
+- Vukradin found a young drake dead in its lair, killed by the Carver.
+- The mother drake's cries came back off the stone as echoes, so the grief arrived twice, staggered.
+- Vukradin said mothers are resilient.
+- Vukradin decided they did not need to fight the mother drake.
+- Brewbarry nodded, understanding immediately.
+- Vukradin said to save the fight for the real guy.
+- Vukradin played the Moonlight Sonata for the grieving mother drake; it did not argue with grief but sat with the difficulty.
+- Brewbarry joined Vukradin in playing without being asked, contributing something Vukradin felt as a second voice.
+- Brewbarry joined Vukradin in playing music without being asked.
+- Brewbarry joins in on the music without being asked.
+- The mother drake landed some distance from them, looked at the young one, lowered herself to the snow beside it, and let them pass.
+- The mother drake lands some distance from the party, looks at the young one, and lowers herself to the snow beside it.
+- The mother drake lets the party pass.
+- Vukradin kept playing until they were well clear of the lair, then put the instrument away and walked on without saying anything, which is unusual for him.
+- Boulders the size of houses, seamed with packed ice, fill the path from cliff face to cliff face, stopping the party.
+- Soma encountered a wall of boulders and ice blocking the path.
+- Soma found a thin tongue of workable earth running beneath the largest boulder, deep enough that ice hadn't locked it completely.
+- Soma attempted to carve a structure using Mold Earth to pull things around and move stones aside.
+- The stone moved an inch, then another, then shifted another inch.
+- The stone moved grudgingly under Soma's hands, an inch then another, as she worked it.
+- The stone moves grudgingly an inch, then another as Soma works.
+- Vukradin called out about offering bardic inspiration.
+- Soma said he didn't need the bardic inspiration.
+- Soma refused Vukradin's bardic inspiration, stating she got the stone to move on its own.
+- The boulder shifts another inch as Soma works.
+- Soma waited with her hands flat against the stone, feeling the cold, for the mountain to answer.
+- Brewbarry and Soma said 'He will soon' about the Carver approaching the giants, almost at the same moment.
+- Brewbarry says Vukradin has nothing to fear and the necklace is his, but Vukradin argues the dragon is probably immune to fire.
+- Brewbarry tells Vukradin he has the necklace, and that Brewbarry's sword and halberd are also in Vukradin's possession.
+- Soma and Brewbarry both said 'He will soon' in response to the giants about the dragon.
+- Soma announces she will use Mold Earth to carve a structure and pull the stones aside.
+- Soma crouched down, pressing his awareness through the frozen surface looking for a seam or thread in the stone.
+- Soma said quietly that the mother drake's kid was the one that got attacked.
+- Soma said simply they are resilient.
+- Soma says he is just trying to keep the world safer and keep peace among the land, with no big aspirations.
+- Soma says the centaur is allowed to kiss him.
+- Soma thought 'Enough. Maybe.' about the thin tongue of workable earth.
+- The Carver's footprints crossed the glacier in a straight line, not a wandering path, maintaining the same inhuman geometry as before.
+- The Carver's path cut straight over everything, leaving footprints with a mechanical, relentless rhythm.
+- The giants said no one had been with the Carver.
+- The giants told the party to stop filling their valley with noise and go deal with the problem themselves.
+- The long rest was simple; they settled in for a cold night near the mountains.
+- The mother drake landed beside her dead young and allowed the party to pass.
+- The stone giants referred to the trail-maker as the little one with the obsidian sword.
+- Upon waking, Sister Kaella says 'Thank God you're alive!' referring to herself.
+- Valphine said to Sister Kaella 'We can still do that. If you'd like' and 'Or if I'd like,' referring to torture.
+- Vukradin called back that Corbin was a friend and former colleague and that the two of them would get along perfectly.
+- Vukradin decides not to fight the mother drake, saying 'We don't need to fight her' and 'Save it for the real guy'.
+- Vukradin plays the Moonlight Sonata on his instrument for the grieving mother drake.
+- Vukradin tried the diplomatic angle, asking the giants if there was a way to help them.
+- Xanth knows about Borg's death through the network of living things in the forest.
+
+## Chapter 35
+
+- The group begins the ascent to Icespire Hold.
+- The group settles into a rhythm on the path, each contributing their best skill.
+- The fortress Icespire Hold comes into view, two structures joined by a stone bridge.
+- Vukradin had a moment of the sort of feeling that does not translate well into words about the gap between seeing Icespire Hold from afar and seeing it close up.
+- A rock slide blocks the trail with boulders and rubble across a twenty-foot section.
+- The group climbs over or navigates around the rock slide.
+- Vukradin's mind was moving the information about the dragon from abstract knowledge to actual sight.
+- Vukradin, Soma, and Valphine stood on the edge of the approach looking up at the fortress and the sleeping dragon on its roof.
+- Valphine suggested taking the obvious path because watching others talk themselves out of efficiency is one of her minor pleasures.
+- The party decides to bypass the gatehouse and use a side entrance after Soma suggests it.
+- The party climbed the fifty-foot icy cliff using a rope dropped by Soma after she transformed into a spider.
+- Soma climbs a fifty-foot icy cliff in giant wolf spider form and drops a rope down.
+- Vukradin's proposal that Soma could understand spiders by believing she had seen one does not work.
+- Soma transformed from a tortle into a giant wolf spider, moving up the cliff face with confidence.
+- The others climb the rope that Soma dropped.
+- The party climbs the rope Soma dropped from the top of the cliff.
+- Vukradin sang 'Up the ice, fire climbing, we will go...' while climbing the rope.
+- The party reached the top and moved onto the bridge above the gatehouse.
+- The party reaches the top of the cliff and moves onto the bridge.
+- Vukradin predicts they will be surrounded on the bridge and attacked from both sides.
+- Valphine points out a path that would avoid getting trapped like duergar during a hunt in Menzoberranzan.
+- The rubble-strewn ground ahead bore marks of an earthquake, with old damage and corridors opened where walls had been.
+- Cryovain has moved through the area, smashing a hallway not by time but by something large and deliberate.
+- The rubble-strewn ground ahead bears marks of an earthquake with a hallway smashed by something large and deliberate.
+- Soma observed Cryovain and saw seething rage beneath the stillness.
+- Soma tells the others what she saw on the roof.
+- Soma worries that killing the Carver might cause the chains binding Cryovain to evaporate.
+- Vukradin says, 'Well, we're gonna have to kill the Carver regardless.'
+- Soma felt the meaning of her question about the chains had landed after a pause.
+- Valphine says, 'The enemy of my enemy is my friend,' suggesting releasing the dragon against the Carver.
+- Vukradin offers, 'Actually, after we save the dragon, the dragon may be very grateful.'
+- Soma thought about the thing behind Cryovain's eyes that wasn't waiting anymore.
+- Soma says there is a dragon down there 'just kind of being held down.'
+- Soma says, 'I guess I relay that to the team.'
+- The Carver has not simply chained a dragon; he has taken one.
+- It is revealed to the party that the Carver has not just chained Cryovain but has dominated him.
+- The dragon came and scared the orcs out of their fortress, forcing them to attack other people.
+- The dragon scared the orcs out of the hold, forcing them to attack the people of Phandalin.
+- The dragon came and scared the orcs out of Icespire Hold.
+- After being scared out, the orcs had to go attack all the people.
+- The party decides not to investigate the secret door and goes to the dragon.
+- Vukradin heard the ritual's sound as wrong in a way that made his spine know before his mind did.
+- Vukradin heard the Carver's ritual before seeing it — a wrong-frequency sound.
+- The Carver was in the middle of a dark, deliberate ritual involving Cryovain.
+- Vukradin felt the magical restraint on Cryovain vibrate at a frequency that set his teeth together.
+- Brewbarry charged into the room bellowing, red-eyed and enormous.
+- Brewbarry went in bellowing, red-eyed and enormous, without a cue.
+- Vukradin's hand was already at his voice and the spell was already forming before he cast Silence.
+- The Carver moved out of the silence zone in a single fluid action without drawing an attack.
+- Vukradin processed the realization about the sword in approximately the time it takes to resolve a fermata.
+- Soma cast Hold Person on the Carver, paralyzing him mid-motion.
+- Vukradin cast Hold Person on the Carver's body, paralyzing it completely.
+- Vukradin heard the sword speak in his skull in a voice that had no interest in being pleasant.
+- The black obsidian sword speaks into Vukradin's skull, calling his magic coward's magic and announcing it will have everything it always wanted.
+- The sword spoke inside Soma's skull, calling Soma's magic coward's magic and stating that it would have everything it always wanted.
+- The sword spoke inside Vukradin's skull, calling his magic cowardly and claiming it would have everything it wanted.
+- The Carver/skip skipped the full ritual and immediately dominated Cryovain.
+- A voice conveys that the party has three rounds before Cryovain becomes fully dominated.
+- The sword has three rounds to completely dominate Cryovain before his mind is gone.
+- Valphine put a bolt of radiant light into Cryovain that hit like a small sun, making the dragon flinch.
+- Soma shifted from spider form to bear form, burning both remaining wild shapes to get into close range.
+- Brewbarry lands two clean blows with the Dragon Slayer Sword on Cryovain.
+- Cryovain breathes a cone of frost at Brewbarry, pushing through armor and hurting her.
+- Cryovain breathed a cone of frost at Brewbarry, pushing through his armor and rage.
+- Cryovain beats its wings and lifts thirty feet straight up, out of Brewbarry's reach.
+- Cryovain lifts thirty feet straight up above battlements, out of melee reach.
+- Cryovain flies thirty feet straight up, above the battlements.
+- Brewbarry calculated the distance to the dragon at thirty feet and knew it was outside what he could do.
+- Vukradin cast a thorn whip against the dragon.
+- Vukradin decides to use a thorn whip against Cryovain.
+- Brewbarry's first reaction to Vukradin using a thorn whip against the dragon was doubt that the dragon was afraid of thorns.
+- Brewbarry recognized that the dragon was surprised by the hit.
+- Cryovain makes a sound indicating it was hurt and surprised.
+- Frost is settling in Brewbarry's chest.
+- The party has a limited window of time to act.
+- Brewbarry considered Vukradin's hit to be a good one.
+- Brewbarry perceives a limited window of time in the fight.
+- Soma cast Silence over the summoning circle, cutting off the Carver's ritual.
+- Soma clarifies that her spider form is specifically a giant wolf spider, not a rinky-dink spider.
+- Soma shifted into a giant wolf spider for the climb, specifically clarifying she is a giant wolf spider not a rinky-dink spider.
+- Soma shifted into the shape of a giant wolf spider, feeling it necessary to clarify with some dignity that it was a medium-sized beast and not a little rinky-dink spider.
+- Soma shifts into the shape of a giant wolf spider during the rock slide navigation.
+- Soma thought the obvious path is a trap.
+- The Carver moved out of the Silence zone into open air without drawing a single attack.
+- The chains binding Cryovain dissolved, freeing the dragon.
+- The sword seizes Cryovain through domination, giving the party three rounds before his mind is gone.
+- The sword skipped the ritual and seized domination of Cryovain immediately.
+- Valphine looked through the secret door, saw nothing of consequence, and said 'Let's go to the dragon.'
+- Vukradin cast a Silence spell over the summoning circle, swallowing the Carver's working.
+- Vukradin casts Silence on the summoning circle, interrupting the Carver's ritual.
+- Vukradin considers but declines to cast Fireball, acknowledging he has nothing else other than that spell.
+- Vukradin leans forward and says, 'Oh, he has chained the dragon and put it in a summoning circle.'
+- Vukradin proposes using an illusion spell to make Soma believe she saw a spider, so she can understand spiders better.
+- Vukradin realized the black obsidian sword was not a weapon — the sword was the Carver, and everything else was clothing.
+- Vukradin scored a critical hit on Cryovain with the whip.
+- Vukradin thought the ice wall was the only safe path.
+
+## Chapter 36
+
+- Cryovain is inside a summoning circle on the rooftop battlements — a great ring of burning light, geometric and wrong.
+- Cryovain's eyes have a film over them, a glaze like men after too many days without sleep or water.
+- Cryovain launched off the stone and climbed the air thirty feet up in one beat of his wings.
+- Brewbarry swung his halberd but hit nothing as Cryovain ascended.
+- Valphine sent a bolt of divine light up after Cryovain and missed.
+- Soma does something and a column of silver moonlight descends out of sky that didn't have a moon positioned for it, striking Cryovain.
+- The moonbeam found the dragon and the dragon made a sound that Brewbarry felt in his back teeth.
+- The moonbeam striking Cryovain causes him to make a sound that Brewbarry felt in his back teeth.
+- Brewbarry grew larger when the rage came properly.
+- Brewbarry brings the halberd up and down multiple times, striking the place where the neck joins the shoulder.
+- Brewbarry brought the halberd down on Cryovain several times.
+- Brewbarry struck Cryovain several times with the halberd, finding the places where scales meet scale and the neck joins the shoulder.
+- Cryovain's breath hit Brewbarry twice, the first time pushing him to the edge of what he could absorb, the second time past it.
+- Cryovain breathed ice through Brewbarry twice.
+- The Carver needed three more rounds to complete the ritual.
+- Cryovain came down and Brewbarry's halberd went into him.
+- The dragon came down and Brewbarry's halberd went in.
+- The summoning circle made a sound when it broke.
+- The burning geometry of the summoning circle guttered and went out when it broke.
+- The Carver's essence dissipated like breath in cold air when the circle broke.
+- Vukradin moved with real intent, bardic inspiration threading through the space between thought and action like a needle pulling silk.
+- Whatever Vukradin did landed, the crack of it finding Cryovain somewhere that matters.
+- Valphine called the radiance and the sacred flame came down.
+- Valphine's sacred flame killed Cryovain with 3 damage.
+- Valphine dealt 3 damage to Cryovain with sacred flame.
+- The dragon Cryovain collapses and dies from 3 radiant damage.
+- The Carver's essence dissipates and is gone.
+- Soma used bear claws to weaken the veteran, not to kill.
+- Soma uses bear claws on the paralyzed veteran, not to kill, just to weaken him further.
+- Valphine used bear claws to weaken the veteran without killing him.
+- Soma moved the moonbeam over the veteran to pressure him.
+- Soma moves the moonbeam over the paralyzed veteran to put more pressure and less life in him.
+- Valphine moved a moonbeam over the paralyzed veteran.
+- Brewbarry brings the halberd down on the paralyzed veteran, killing him, saying "I win, you lose — tradition upheld."
+- Brewbarry killed the paralyzed veteran with his halberd.
+- Brewbarry declares himself thirsty, there is no drink, but he remains thirsty and undeterred.
+- The plane of existence is safe and the Carver is stopped.
+- The treasure atop the tower is a block of fused ice, residium, gold, gems, and trade bars, melted and refrozen together.
+- 3,000 gold pieces are fused into a residium-ice block.
+- Soma identified that the ice was fused through some kind of planar trickery.
+- Vukradin names the obsidian sword the "Bluetooth sword" and says "It seems like this was sent by the devil to tempt me."
+- Valphine names the sword 'the Bluetooth sword.'
+- Vukradin declares the gem belongs to someone else and he cannot keep it without proper documentation establishing rightful owner or consent to transfer.
+- Vukradin tells the gem it was 'Handcrafted for my personal quest' while refusing to keep it without documentation.
+- Valphine declares the gold stolen goods that need documentation, comparing the ice to scratched-off serial numbers.
+- Vukradin says 'No, I don't trust him. He's as close as anybody.' correcting his earlier statement.
+- Vukradin realized the particular individual they wanted to return the blue quartz mermaid to was no longer available.
+- Vukradin says he ended up having to go save the world.
+- Sylvine told Vukradin they prayed to the gods that he would deal with the dragon and give their treasure back.
+- Vukradin tells Sylvine he does not believe her claim and says she is probably trying to steal the gold like everybody else.
+- Vukradin told Sylvine: 'You're probably gonna try to steal this, like everybody else steals. You're one of them. Why don't you just get out of here?'
+- Sylvine dropped her wounded act in under a second, revealing it was never real.
+- Brewbarry attacked the bandits after Sylvine declared the second plan.
+- Sylvine's bandit veterans were defeated by the party.
+- One bandit decided to flee, saying there was more money to be found elsewhere.
+- One of the bandit veterans decided to flee, saying there's more money elsewhere.
+- One veteran said 'Screw this shit. There's more money to be found elsewhere.' and fled.
+- Valphine's spirit guardians bloomed outward and injured bandits approaching through the fortress corridor.
+- A bandit got through Valphine's spirit guardians and struck her, breaking her concentration and ending the aura.
+- One bandit got through the guardians and stabbed Valphine, breaking her concentration and the aura.
+- Brewbarry noted that the concentration on Valphine's spirit guardians was broken.
+- Soma transformed into a bear during the fight.
+- A bandit tried to pull the hoard piece free from Vukradin while the fight had his attention split, but Vukradin held.
+- A bandit grabbed for the treasure hoard while Vukradin's attention was split during the fight.
+- A bandit tried to grab the treasure slag from Vukradin during the fight.
+- Vukradin sang or said something magical, and two of the veterans stopped moving, paralyzed.
+- Vukradin sang or spoke magic that paralyzed two of the veterans where they stood.
+- Vukradin used magic to paralyze two of the bandit veterans, freezing them in place.
+- Brewbarry cut down the two paralyzed veterans with his halberd.
+- Vukradin sent a Sending spell message to Ser Kaelen: 'The dragon is dead, so is the Carver. We're heading to Neverwinter. Spread the word.'
+- Vukradin sent a message of exactly 25 words to Ser Kaelen saying the dragon and Carver are dead and they're heading to Neverwinter.
+- The Sending spell allows exactly twenty-five words.
+- Vukradin reads a message from Ser Kaelen that contains the phrase 'conflict-free triumph.'
+- Vukradin hears himself say something before he has decided to say it.
+- Vukradin says Ser Kaelen is as close as someone they can actually trust as anybody, but then clarifies he does not trust him.
+- Vukradin corrects himself immediately after hearing what his words actually mean.
+- Someone mentions the copper wire is the material component for Sending, which Vukradin interprets as the world inventing the telephone.
+- Someone mentions the copper wire — the material component for Sending.
+- The world is now saved, provisionally.
+- Brewbarry, upon hearing the message said 'celebrate,' says 'I heard "celebrate," say no more. Let's go.'
+- Brewbarry says 'I heard 'celebrate,' say no more. Let's go.' to go to Phandalin.
+- Vukradin finds Brewbarry's clarity comforting.
+- The group is going to Phandalin.
+- Cryovain breathes ice through Brewbarry twice, and the first hit puts Brewbarry at the edge of what he can absorb, the second puts him past that edge.
+- One remaining bandit decided to leave, saying something about better opportunities elsewhere, and Brewbarry let him.
+- Ser Kaelen replied praising Torm and saying the gauntlet awaited their arrival in Phandalin for a 'conflict-free triumph.'
+- Soma said 'Don't kill, don't kill! He was just a victim!' about the veteran.
+- Soma says "I'm on the record as not being pro-killing, but that's okay."
+- Sylvine announced a second plan: 'We kill them all!'
+- Sylvine declared 'Second plan! We kill them all!' after Vukradin refused her claim.
+- Sylvine dropped her act and initiated combat against the party.
+- Sylvine pretended to be hurt by accusing Vukradin of being a thief.
+- The Carver's essence dissipates and is gone, unmade by the same stroke that unmade its vessel.
+- The dragon comes down and Brewbarry drives the halberd in, and the summoning circle breaks and the Carver's essence dissipates.
+- Valphine calls down the sacred flame, which deals 3 damage and kills Cryovain.
+- Vukradin declares the gold is stolen goods and begins the documentation process.
+- Vukradin moves with real intent, and bardic inspiration threads through the space between thought and action; whatever he does, it lands and finds Cryovain somewhere that matters.
+- Vukradin says 'yes, per phone' in response to the copper wire mention, reflecting that the world invented the telephone.
+- When Brewbarry's rage comes, he grows larger, his reach extended, the battlements shrank.
+
+## Chapter 37
+
+- The cold was still in Soma's bones from the rooftop when stillness settled after a fight.
+- Soma felt something shift within her after the fight, like another ring added to the heartwood.
+- Soma notices something has shifted in her, a quiet deepening like an added ring to heartwood.
+- Vukradin gave everything he had during the rooftop fight and has not reached the same place as Soma.
+- Valphine explores a new ability involving bonds to thread her presence between allies so courage can travel along the connection.
+- Valphine was exploring what she'd become, turning the new thing over in her mind.
+- Valphine discovered a way of threading her presence between allies so that courage could travel along the connection.
+- Someone raises the possibility of an ability that would let a protector teleport to a wounded ally and absorb what was meant for them.
+- Valphine discussed how she could have blessed the party before combat but didn't because the pain was purifying.
+- Valphine mumbles about whether an abjuration that would keep out planar creatures would help with emerging planar disturbances.
+- Valphine considered whether an abjuration that would keep out planar creatures would help her with emerging planar disturbances.
+- Soma thought about what she could now do with abjuration — a proper warding zone to seal off extra-planar creatures and protect her home.
+- Cryovain's body was still warm after death.
+- The dragon had a name, Cryovain.
+- Soma knelt beside Cryovain's carcass and harvested from it.
+- Soma extracted the breath pouch from Cryovain's throat — a strange, swollen thing heavier than it looked.
+- Soma and Brewbarry harvested Cryovain's scales from the hide.
+- Soma worked scales free from Cryovain's hide with methodical attention.
+- Soma works the scales free from the dragon hide with methodical attention.
+- Brewbarry held one of Cryovain's scales up and turned it; his reflection came back distorted and cold-colored.
+- The group talks about what to do with the dragon scales.
+- The party discussed making armor from Cryovain's scales — dragon scale mail.
+- The exile took most of what Brewbarry had.
+- Brewbarry became something he is not proud of after the exile.
+- The party went to the Mountain's Toe Mine on the way to Phandalin.
+- No picks, no cart-wheels grinding on stone, no vibration in the earth were heard at the mine.
+- Valphine asked Zeleen if he was working hard today.
+- Drow society disabused Valphine of the notion that assertion makes things true approximately eleven minutes into childhood.
+- Valphine called daylight, erupting from a point above her with the full searing brilliance of midday sun.
+- Valphine called daylight, erupting from a point above the mine — the full searing brilliance of midday sun compressed into an enclosed space.
+- Valphine called forth daylight to illuminate the mine.
+- Valphine cast Daylight in the Mountain's Toe Gold Mine, causing the were-rat guards to flinch.
+- The were-rat guards flinched as one from the daylight.
+- Valphine asked Zeleen if the dwarves were mining and pointed out the empty minecart.
+- Dwolin said the Earthstone Gem is needed before the gold can be gotten from the mine.
+- Zeleen said the Whiskered Gang are paid to protect the mine, not to go on fetch quests.
+- Brewbarry told Zeleen the only reason the gang protects the mine is because it produces gold, and if it's not productive, they're not doing their job.
+- Valphine told Zeleen that if the mine does not produce gold, he is a waste of cheese.
+- Zeleen gave in and agreed to go into the forest to find the gem.
+- Brewbarry tapped his halberd against his palm to visually communicate impatience.
+- Brewbarry tapped his halberd against his palm with methodical patience, which seemed to accelerate Zeleen's enthusiasm.
+- Valphine ordered Zeleen to go into the forest to find the Earthstone Gem and get the dwarves mining.
+- Zeleen's delegation departed into the forest to find the Earthstone Gem.
+- Zeleen's delegation departed into the forest.
+- Horia said she was going to propose giving her money to buy a fake gem, but thought the were-rats' solution was better.
+- Valphine co-signed the assessment with a small nod.
+- Brewbarry reacted immediately and genuinely to the funding request.
+- Horia proposed a signed addendum with thumbprints.
+- Brewbarry offered to draw blood from Horia to sign the addendum.
+- Horia assumed the addendum could be considered signed.
+- Horia suggested keeping the addendum between themselves, not telling Mr. Rukradin.
+- Valphine said nothing, which was her signature on the addendum.
+- Valphine silently agreed to the fake gem addendum.
+- Brewbarry entered Phandalin on the road and children ran out to meet him.
+- The road into Phandalin was traveled after returning from the mountain.
+- Children streamed out from between buildings and Brewbarry hit back every hand gently.
+- A murmur went through the crowd, then a shout, then something properly loud.
+- A festival came together quickly in Phandalin with a fiddle, warm bread, and the town green filling up.
+- The festival came together quickly and practically.
+- Brewbarry was handed a small cake, a ribbon from a child, and the corner position at the longest table.
+- The innkeeper has only two barrels of the very good stuff.
+- Brewbarry drank the innkeeper's very good stuff and found it measurably better than the usual good stuff.
+- Brewbarry thought about signing the addendum and pressing his thumb into wax for the town.
+- Ser Kaelen told Soma they must speak urgently.
+- Soma realized Adabra had found out about the Whispering Grove and was convening a gathering.
+- Adabra decided to convene a gathering and be loudly right about it in front of as many people as possible.
+- Adabra decided to attempt to convince the druids that the defenders' interventionism harmed the forests.
+- Kaelen describes Adabra as confused about the causes of the conflict.
+- Adabra never experienced the planar incursions that preceded the war.
+- Soma said Adabra is bringing her own war out here.
+- Soma concludes Adabra drew a conclusion from real evidence but missed what came before it, calling it a gap not stupidity.
+- Soma asked whether the Lords Alliance or the Order could do anything about Adabra.
+- Soma accepts that resolving the situation is all on the group.
+- Soma spent one year learning druidic skills with Meril.
+- Kaelen cautioned Soma that some at the conclave suggested they should evaluate whether Soma should retain the staff.
+- The staff has more leaves than it did when Meril left it.
+- Soma declares the staff is not being taken from him, citing sentimental value.
+- Kaelen agrees with Soma about keeping the staff, comparing it to his sword that no order can take.
+- Brewbarry tells Kaelen he doesn't want to have a conversation with the halberd.
+- Brewbarry drank the special reserve and judged it was genuinely, measurably better.
+- Brewbarry stands over the still-warm body of Cryovain the white dragon after the fight.
+- Brewbarry suggested the fake gem as Plan B in case the were-rats fail, which he expects they will.
+- Kaelen asked Brewbarry if that is a halberd, calling it a very fine halberd, and suggesting they should parry.
+- Kaelen compliments Brewbarry's halberd and offers to parry.
+- Kaelen finished his drink in a single long swallow.
+- Kaelen reported that Adabra went with her allies and is going to attempt to convince the druids that the party's reckless interventionism brought harm to the forests.
+- Ser Kaelen moved through the crowd without taking any of it in and found Soma first, saying 'Soma. We must speak urgently.'
+- Soma accepted that it's all on them, stating it as a fact the way you'd note that it's raining.
+- Soma reached into Cryovain's throat and recovered the breath pouch carefully.
+- Soma said they are not taking the staff from him, as it has at least sentimental value.
+- Soma says he is barely a druid himself, having trained only a year under Meril.
+- Soma thought about the last time he spoke to Adabra and how she looked at him with an expression meaning 'you understand,' and he let her think that.
+- The crowd cheered when they saw the dragon parts Brewbarry's group brought back.
+- The party killed Cryovain on the battlements.
+- Valphine told Zeleen to do whatever is necessary for the dwarves to be happy miners, or he is a waste of cheese.
+- Zeleen agreed to go into the forest to find the gem, after Valphine's threats.
+
+## Chapter 38
+
+- Adabra was ostracizing Lyra from the order.
+- Bryn and Giles were conducting a public religious parade through town as a fundraiser.
+- Valphine's cultists returned to Phandalin scarred and sunburnt from self-flagellation.
+- The cultists were smiling beatifically, as if they had proven something to themselves.
+- The town watched the cultists pass with varied expressions.
+- Valphine saw faint burn marks tracing Bryn's forearms.
+- Valphine folded her hands and watched Harbin's festival, waiting and filing everything away.
+- The last time Adabra and Vukradin spoke about the grove, she listened, accepted what he said, and paid him five gold pieces.
+- Thomas told the group that Adabra was moving to ostracize Lyra.
+- The group discussed reaching Reidoth and kept it as an option held in reserve, but did not send for him yet.
+- Vukradin concludes that Adabra's move was a scheduled event, not opportunism.
+- Vukradin made a private translation from 'Soma should say this' to 'I can make Adabra's case look weaker before Soma has to say it.'
+- Soma used Meril's Staff's power of Resonance to press it toward Adabra and asked the question in her mind: was she deceived, controlled, lying to herself, or being worn by something else.
+- The staff answered that Adabra was not deceived, not controlled, not lying to herself, and nothing was wearing her conviction like a coat.
+- Adabra walked to the sacred grove in the Whispering Wood three weeks ago.
+- Adabra walked to the sacred grove three weeks ago to investigate.
+- Adabra said the treant was not wounded or sleeping but dead.
+- The treant in the sacred grove is dead, not wounded or sleeping.
+- Soma noticed that the staff's leaves were more than before.
+- Adabra previously believed the ritual had failed and the tree had still lived, and was pleased when she heard a planar creature was collecting materials near the grove.
+- Adabra tells the council that she called the planar creature a 'planar magpie' and said it was the world working as it should, and gave the bard five gold pieces for his information.
+- Soma noticed Falcon sitting beside Adabra in the council circle.
+- The party killed the metastasized treant.
+- The party killed the metastasized treant, stopping a planar infestation from spreading farther.
+- Soma held the staff more tightly and said nothing when Thomas and Lyra spoke.
+- Vukradin decided the move was to make the council hear the weakness in Adabra's case, not to convince Adabra herself.
+- Falcon stood up to address the council.
+- Falcon pointed at Vukradin and accused him of causing trees to die.
+- Vukradin felt bewildered when Falcon pointed at him and said 'Trees are dead because of men like him.'
+- Vukradin pulled Falcon aside to ask what was going on and why Falcon was pointing him out.
+- Falcon told Vukradin that his intervention caused deaths.
+- Vukradin tells Falcon he could tell everybody about what Falcon did and how he intervened.
+- Falcon claimed to have learned the error of his ways since speaking with Adabra.
+- Falcon confessed his past adventures and failures to the council, weeping.
+- Falcon's lodge burned down while heroes stood by.
+- Vukradin wanted Falcon to confess his attack was hypocritical, but Falcon confessed his entire life was tragic instead.
+- The circle was watching Falcon with sympathy after his confession.
+- Vukradin noted that nobody tried to stop him from leaving, which he took as its own information.
+- Brewbarry asked 'Do we kill all these people, or do we leave?'
+- Brewbarry asked whether the party should kill all the people present or leave.
+- Vukradin cast sending to reach Reidoth and inform him about the schism, council, Adabra's faction, Falcon's confession, and the circle.
+- Vukradin decided to cast Sending to contact Reidoth and inform him of the schism at the council.
+- Vukradin used the Sending spell to contact Reidoth, telling him about the schism, the council, Adabra's faction, and Falcon's confession.
+- Vukradin walked back toward Phandalin after the sending.
+- Vukradin walks back toward Phandalin after the council.
+- Soma understood why Aldric had fastened himself to Adabra after someone finally listened to him.
+- Soma recalled the planar rift at Falcon's Cabin with soil gone grey and grass dying in rings.
+- The planar rift at Falcon's Cabin had grey soil and grass dying in rings.
+- Soma had the thought that Talosians put their hands in the earth like they were teaching it to rot.
+- Aldric sat down after Soma's statement.
+- Adabra noticed Aldric sitting down and something behind her face shifted, like a knot pulling tight.
+- Soma noticed that Adabra noticed something shift behind her face, like a knot pulling tight.
+- Soma realized Adabra had lost something, but not enough.
+- A centaur arrived at the druid council during the debate.
+- Soma felt her question 'It's just a staff, isn't it?' came out wrong with too much question in it.
+- Xanthopoulos told the council that Corbin is dead and Sister Kayla walked out to the wind.
+- Soma and Brewbarry left Corbin guarding Sister Kayla.
+- Soma realized that leaving Corbin guarding Sister Kaella was wrong because they were in a rush to intervene.
+- The party left Corbin guarded by Sister Kaella because they were moving fast.
+- The party left Corbin guarding Sister Kaella while they were in a rush to intervene.
+- Soma asks if Boney stood by and did nothing while Corbin died.
+- Soma decides not to sugarcoat the situation and to fess up instead.
+- Soma decided not to give Adabra excuses or something she could pull apart, and also not to give her Corbin's death as a trophy.
+- Soma says the interplanar treant would have brought more manifestation and horror if left unchecked.
+- The interplanar treant would have brought a lot more manifestation and horror.
+- The Talosians are starting to blight the land itself if left unchecked.
+- Soma recognized that Corbin is dead because they moved too fast, and that is true.
+- Soma recognized that the blight would have spread to three valleys if they hadn't moved at all, and that is also true.
+- Soma knows now, or near enough, that Meril was torn by the old fight between letting the wilds be and protecting the wilds.
+- Brewbarry calculates he could kill the entire circle in thirty seconds or less.
+- The ritual at the rift was failing and the planar damage was spreading through the forest.
+- A treant died when the intervention at the rift collapsed.
+- The dwarves found at the mines were not fully dwarves anymore.
+- The party made the case about the Talosian blight on the land and twisted bodies that used to be people.
+- Someone mentioned the Talosians had taken the Falcon's own lodge from him.
+- The council did not deliberate for long.
+- The council decided that Adabra's case does not hold.
+- The council stated Corbin was a criminal.
+- The council stated Soma made the right decision to save the forest from the dragon.
+- Aldric admits that if they listened to Adabra, what's going on with the orcs is perfectly normal.
+- The Falcon depends on money that the interventionists saved him.
+- The presiding druid stated the purpose of the Druids Enclave is to save the forest, not the multiverse.
+- The council voted against Adabra's position, siding with Soma and Lyra.
+- The moderates had sided with Soma and Lyra.
+- The council decided a thing without anyone bleeding for it.
+- Adabra left seething after the verdict.
+- Adabra left without saying anything, walking out with the posture of someone choosing a different battlefield.
+- Adabra left the council seething and without speaking.
+- Lyra was restored to full good standing within the Emerald Enclave.
+- Soma lifted her staff and brought it down once at the end of the proceedings.
+- Soma lifted her staff and brought it down once, deliberate, a punctuation mark in wood and magic.
+- The council's deepest disappointment was that Vukradin had left early.
+- Vukradin left the council early.
+- Soma told the council they would have to come see Vukradin in Phandalin or when his studio opens.
+- Soma asked what to do about Adabra, suggesting the council let her know if Adabra comes back 'in greater numbers'.
+- The druid said Adabra's behavior was absolutely disgraceful and her personal attacks on Vukradin crossed the line.
+- Brewbarry thought about the nights he stood outside while Vukradin played, just to hear it from a distance.
+- Brewbarry thought about following a bard into the mountains because he was the first person who looked at him like he was something worth following.
+- Brewbarry thought about what it costs to be the thing people aim their contempt at, and how Vukradin absorbed it and kept playing.
+- Brewbarry thought the personal attacks on Vukradin crossed the line.
+- A political victory was won with words, no blood, no thirty seconds, no Dragon Slayer.
+- The Emerald Enclave council verdict was a political victory won with words, no bloodshed.
+- The attack lasted no sixty seconds.
+- Valphine waited a short time after approaching Falcon.
+- Falcon asked Valphine how she became a cleric of Lathander, noting that she is a drow.
+- Demons invaded and rampaged Menzoberranzan.
+- Valphine understood Lathander when she experienced the sun's radiant, indifferent pain on the surface.
+- Valphine became a cleric of Lathander because the pain was worthy of worship and the light was power without apology.
+- Falcon said he didn't even know why he ever supported Adabra.
+- Falcon said they need to go deal with those orcs.
+- Falcon said he probably owed the bard an apology near the end of the conversation.
+- Falcon asked Valphine to convince Vukradin that he didn't mean harm.
+- Valphine told Falcon to get a little bit of thrill and sensation, and that the pain is a good way to get a kick in life.
+- Valphine advised Falcon to give a musical instrument of real value or a studio in his retreat as an apology.
+- Falcon asked Valphine to mediate the conversation with Vukradin.
+- Falcon asked Valphine to mediate the conversation with the bard when the time came because he lacked the language.
+- Soma let the shell-sprouts talk about orcs.
+- The council discussed orcs as a real problem, along with Phandalin's perimeter, duties, and roads.
+- The orcs were discussed as a real problem alongside council responsibilities in Phandalin.
+- Soma noticed the way Falcon had looked at Vukradin — not like a man with one clean grievance, but like a man who had been moved and only later noticed his feet were not where he remembered putting them.
+- A group of adventurers including Orsic is claimed by some to have saved the realms during the war.
+- Fairies were added to the Goodly races of Silverymoon, which some use as proof of fairy involvement in the saving of the realms.
+- Some believe the rulers of Silverymoon, elves, recognized the absurdity of excluding fairies as kin during the war.
+- The various powerful governments deployed necessary resources to stop a Giant invasion.
+- Hekaton felt a degree of responsibility for the war.
+- Hekaton destroyed the barbarians as an opportunity during the war.
+- Hekaton saw the War of the Giants as an opportunity to eliminate the barbarians who had stolen giant artifacts.
+- Hekaton capitalized on the war as a viable alternative to direct conflict with humanoids.
+- Falcon stood and addressed the council, telling them about his adventuring days, the dragons he failed to fight, the lodge that burned while heroes stood by, and the baubles and money that nature tore down regardless.
+- Neverwinter won as the plan, with the orcs possibly handled along the way.
+- People in Phandalin who made choices with Vukradin's influence are starting to resent those choices.
+- Soma heard Xanthopoulos say perhaps Meril made the right choice, and she kept those words somewhere careful.
+- Soma notes the Falconer is mad that they failed to intervene despite being an anti-interventionist.
+- Soma realizes her words about Boney came out sideways because she had nowhere useful to put the thought.
+- Soma told the council that one equilibrium could be the end of all life, and he is not here to protect that equilibrium.
+- Some claim a fairy was involved and point to the addition of Fairies to the Goodly races of Silverymoon as proof.
+- The Falcon's Cabin was overtaken by Talosians.
+- The council stated the party made the right decision to save the forest from the dragon.
+- The group decided to go to Neverwinter, possibly handling orcs along the way.
+- Vukradin made the transfer of unclaimed property to Valphine's church sound like moral hygiene rather than patronage.
+- Vukradin planned to make Adabra's case look weaker before Soma had to speak.
+- Vukradin says he is going back to Phandalin and that he is not interested in helping Lyra anymore.
+- Vukradin tells Falcon he should have no trouble repenting in front of the group and explaining the errors the other made.
+
+## Chapter 39
+
+- Adabra mentioned the five gold pieces in front of everyone and used them as a personal attack against Vukradin.
+- Adabra was hostile at the Enclave meeting and mentioned the five gold pieces as a personal grievance.
+- Vukradin did not expect Adabra to draw out five gold pieces during the Enclave meeting.
+- Adabra fumed when she left the Enclave meeting.
+- Vukradin counted out six gold pieces — five plus one for interest — and mailed them to Adabra via the postal system.
+- Vukradin walked to the postal system and dropped the envelope containing the six gold pieces in.
+- Vukradin used gold from the organic fair-trade gold for the repayment.
+- Vukradin said he was sending the money because now that Adabra had lost, she could have her money back.
+- Ser Kaelen said 'I see you were able to keep your staff.'
+- Lyra came through the door and was incandescent with good mood.
+- Lyra praised Vukradin for his actions at the Enclave meeting, saying 'Thanks to the heroism and the nobility, and the dignity of none other than Vukradin.'
+- Vukradin said 'Okay, I'll take two beers, that sounds good. How many for Brewbarry?'
+- Vukradin says he will take two beers and asks how many for Brewbarry.
+- Lyra said 'No, no, no — Brewbarry, two for you.'
+- Lyra says two beers are for Brewbarry.
+- Lyra ordered two beers for Brewbarry.
+- Brewbarry drinks both beers.
+- Soma declined a beer in two syllables: 'T. Just tea.'
+- Soma declines a beer, asking only for tea.
+- Soma says she does not drink.
+- Vukradin says Soma is like Gandalf saying 'just tea'.
+- Valphine notes the druids had been disappointed not to hear great music.
+- Vukradin said they could put on a show and it went decently.
+- Vukradin says they can put on a show.
+- Valphine sang with Vukradin in her hybrid Lathanderian/Lolthian register, which the room found interesting.
+- Vukradin says he did not spend his best on the performance and will not waste Bardic inspiration on it.
+- Soma said 'Revenge Corbin!' with weight that wasn't quite grief.
+- Vukradin explains 'Bob Saget the Musical Quest' is a reference to the previous campaign.
+- Vukradin says there had been a traveling theatrical troupe, a demon of dad jokes, and a zombie apocalypse averted in Silverymoon.
+- Vukradin put six gold in an envelope — five plus one for interest, fair-trade — and addressed it to Adabra, dropping it with the mail.
+- Vukradin explains he is returning Adabra's five gold plus interest after she made a speech about how he did her wrong.
+- Vukradin went to find Ser Kaelen and tell him about Sister Kaella and about Corbin.
+- Vukradin redirects Jenna Roscoe toward Valphine's church, asking if she knows Valphine has a church looking for donations.
+- Jenna Roscoe says Valphine's church is a torture cult.
+- Vukradin first objects then admits it is kind of a torture cult.
+- Vukradin corrects that it is more like a masochism cult.
+- Brewbarry let out a very loud burp when Jenna Roscoe started talking about how a barbarian joining the Lord's Alliance means accepting civilizing.
+- Brewbarry burped loudly to respond to Jenna Roscoe's pitch about joining the Lord's Alliance.
+- Brewbarry let out a loud burp that echoed and ended the conversation with Jenna.
+- When Jenna Roscoe started talking about how an Uthgardian barbarian should join the Lord's Alliance, Brewbarry let a very loud burp out that echoed.
+- After Brewbarry's burp, Jenna Roscoe got the point and walked away.
+- Jenna Roscoe walked away after Brewbarry's burp.
+- Jenna walked away after Brewbarry's burp.
+- Brewbarry felt that everything right now was still good.
+- Vukradin listed three orc quests: the Woodland Manse, Falcon's Hunting Lodge, and the lair of the half-orc spellcasters that Xanth offered to guide them to.
+- Orcs who previously occupied the Shrine of Savras came to find the party and lost that argument badly at Mountain's Toe Mine.
+- The party decided to go with Xanth's quest against the Circle of Thunder first.
+- The party decided to go to the Circle of Thunder first.
+- Soma and Vukradin previously got their asses whooped by the Talosian half-orc spellcasters.
+- The party last got their asses whooped by the Talosian spellcasting orcs.
+- Vukradin raised the lightning problem because someone needed to.
+- The group clarified that the threat was lightning, not thunder, and that the distinction matters.
+- Vukradin noted that they don't have the money for lightning resistance at the moment.
+- Soma flagged that Protection from Energy would compete with her Spirit Guardians for concentration.
+- Vukradin cast Sending to contact Xanth.
+- Xanth replied that they would meet at the bend of the Triboar Trail toward Phandalin.
+- Valphine had a question about the superior potion's contents, whether it was what it claimed to be.
+- Vukradin asked the group not to use the superior healing potion in front of him.
+- The group headed for the forest to find Xanth.
+- Soma took Xanth's praise quietly with a private suspicion that more work was on the way.
+- Soma tries not to think about the last leaf on the staff too directly.
+- The party travels thirty miles in a full day through the woods.
+- Soma read the ground during the journey through the forest.
+- The group made camp in the forest with a small fire, after Xanth scouted a site.
+- Xanth told stories about birds, flowers, old heroes, and the grievances of things older than Phandalin.
+- Cryovain's winter broke the quiet of the forest and scattered everything with sense enough to scatter.
+- Soma let Xanth's statement about the new orcs being fundamentally more evil sit while the fire burned down.
+- Valphine settled into the shadow at the edge of the firelight, which is where she prefers to think.
+- Vukradin asked Xanth how much further to the lair of the half-orc spellcasters.
+- The lair is another day's hike from the camp.
+- Xanth said the lair was another day's hike away.
+- Xanth said the forest had been balanced before the white dragon broke that balance.
+- Xanth said the white dragon Cryovain had broken the forest's balance, scattering creatures and making animals afraid.
+- The orcs had hoarded, crowded, and radicalized in the way that frightened creatures do.
+- Xanth said the orcs have become members of the cult of Talos.
+- Xanth said Talos is in the breast of all those who seek the power to destroy and revel in destruction.
+- Vukradin asked Xanth if something had recently caused Talos to gain more power.
+- Xanth said Vukradin's question demonstrated awareness and wisdom far beyond his age.
+- Xanth described the cult of Talos as historically small, unstable, and structurally incoherent.
+- Xanth said the cult of Talos was historically small, unstable, and structurally incoherent, outlawed by every civil society.
+- Xanth dismissed Adabra's view as nonsense, saying Talos is a lunatic god who empowers stupid people to destroy things.
+- Xanth and the party encounter arguing young druids and loggers near the Circle of Thunder.
+- Vukradin made a soft warning sound at the name Tibor Wester.
+- Vukradin makes a persuasive speech about the sanctity of the forest, balance, sustainable practices, and honest work.
+- The loggers set down their axes carefully after Vukradin's speech.
+- The loggers set their axes down carefully, not dropped.
+- A logger pressed the heel of his hand against his eye after Vukradin's speech.
+- The loggers apologize, say they will find honest work, and report Tibor Wester's operation to the city.
+- The loggers said they were sorry and said they would find honest work.
+- The loggers said they would report back to the city about what Tibor Wester had been running.
+- Vukradin destroyed the first doll in the cursed clearing.
+- Vukradin destroys the first doll, which contained a pig's heart that hit the ground still beating.
+- Vukradin destroyed the heart too.
+- Vukradin destroyed the pig's heart after it fell from the doll.
+- Roots arise from the ground and seize Soma's shins, trapping her.
+- Roots came up from the ground and seized Soma, Brewbarry, and Boney, trapping them.
+- The roots came up and grabbed Soma's legs, and she burned a wild shape into an elk to escape.
+- Soma burned a wild shape and transformed into an elk to escape the roots.
+- Vukradin said 'Alright' and 'Sounds good' after someone nearby flickered with disbelief at how the fight was to be conducted.
+- Soma pulled up the giant elk form from the well Meril taught them to reach into and the clearing reorganized around their new size.
+- The roots thought they had Soma but Soma came free and the bark fell away.
+- After freeing themselves, Soma moved to Boney because you do not leave your people in the dirt.
+- Soma in elk form moves to Boney to free him from the roots.
+- Vukradin kept working and declared he had twenty more spells to go and it would only take a couple of minutes.
+- One by one the hearts fell and Vukradin destroyed them, and the tree stopped being what it had been.
+- When the last heart was gone, the wrongness drained and the clearing went quiet; the tree was just a dead tree.
+- The moment Soma crossed the treeline, the staff communicated immediate recognition: not natural, not decay, intention.
+- The party crests a ridge and sees ten orcs with a humanoid figure with elongated claws at their center on the opposite ridge.
+- The party faces a ridge encounter with orcs across sixty feet of open air and a gully ten feet deep.
+- Initiative was called and a particular clarity settled when the situation became something to navigate.
+- Soma knew they had the first opening and the confirmation came: 'Yes, you do.'
+- Vukradin has the first opening in combat.
+- Vukradin casts Universal Speech targeting the leader and the three orcs nearest him.
+- Vukradin noticed the cleric did not receive the message well, was told it enraged him.
+- Vukradin's Universal Speech on the cleric did not work and enraged him.
+- The other three orcs had something shift — not conversion, not surrender — the slowing that happens when an idea enters a mind that wasn't expecting one.
+- The three orcs targeted by Universal Speech slow down after hearing something unexpected.
+- Vukradin observed that in the other three orcs, something shifted — not conversion, but the slowing that happens when an idea enters a mind that wasn't expecting one.
+- Three orcs who heard the Universal Speech slowed down after receiving the message.
+- Soma stated that once they have cast a spell they can use Universal Speech again and planned to do so for the others as they go.
+- Vukradin understood a gentle caution that proselytizing about Lathander would be less effective once combat started.
+- A gentle caution from left: proselytizing about Lathander would be less effective once combat started.
+- Valphine said she could cast Daylight in a tone that suggested both practical and doctrinal significance.
+- Vukradin described blinding the enemies as both a metaphor and a tactic: 'Blinded by Lathander's glory.'
+- Valphine casts Daylight, centering the light on her holy symbol.
+- Valphine settled on her holy symbol as the vessel and cast Daylight, flooding sixty feet in every direction with blazing light.
+- The Daylight spell illuminates sixty feet in every direction, flooding the opposite ridge and the orcs.
+- The Daylight spell spreads sixty feet in every direction.
+- Valphine casts Daylight, flooding the opposite ridge with bright light sixty feet in every direction.
+- The opposite ridge was flooded with the light, the orcs were flooded, and the Talosian cleric was caught in it.
+- The Talosian cleric screams upon being caught in the Daylight.
+- Vukradin witnessed the Talosian cleric screaming in rage at Valphine's Daylight.
+- The Talosian cleric commands his followers to kill Valphine, calling her an abomination and a false cleric.
+- Vukradin said they would have to focus all attacks only on the leader and try to convert the rest.
+- Lyra ordered two beers for Vukradin and two beers for Brewbarry.
+- Lyra said Vukradin focused all of Adabra's rage on himself and then walked out, rendering her arguments pointless.
+- Lyra said she has not seen such brilliant oratory in her entire life.
+- Soma confirms they used a wild shape and lost 10 hit points.
+- Soma enters a clearing with a forty-foot blackened pine tree, smelling of char and something older.
+- Soma said 'I'm going to use Universal Speech' and targeted the leader and the three nearest him.
+- Soma said 'We're not in a rush, are we?' when someone asked about pressing on.
+- The cleric did not receive Soma's Universal Speech well and it enraged him a little bit more.
+- The orcs let out battle cries as they charge across the gully toward the party.
+- The party has no potions of healing, one potion of greater healing, one potion of superior healing, and one scented potion of healing.
+- The young druids complain to the party that Tibor Wester is logging without permits.
+- Valphine filed Xanth's phrase 'fundamentally more evil' as theological language.
+- Valphine found Protection from Energy in her available spells.
+- Valphine looked up at Xanth's mention of Adabra calling Talos a necessary element of distraction in the cosmic balance.
+- Vukradin destroys all the dolls, and the tree stops being what it was, draining the wrongness from the clearing.
+- Vukradin proposes focusing all attacks only on the leader and trying to convert the rest.
+- Xanth said the new orcs were fundamentally more evil and fundamentally more dangerous than typical orcs.
+- Xanth tells Vukradin the new Chosen of Talos is not in the forest.
+
+## Chapter 40
+
+- Vukradin's speech moves three orcs — numbers 1, 5, and 6 — from hostile to neutral.
+- Valphine displayed radiant holy energy, which enraged the anchorite.
+- The DM confirmed that orcs all speak Common.
+- Vukradin settled an old debt with Adabra by paying 6 gold pieces: 5 owed plus 1 for interest.
+- Brewbarry made his feelings on the Lord's Alliance recruitment pitch unmistakably clear with a thunderous burp.
+- Brewbarry's thunderous burp interrupted Jenna Roscoe's recruitment pitch.
+- Vukradin delivered a speech that moved a group of illegal loggers to tears and convinced them to report their employer to Neverwinter.
+- Vukradin delivered an impassioned speech that moved a group of illegal loggers to tears.
+- The illegal loggers agreed to report their employer to Neverwinter.
+- The loggers were convinced to report their employer to Neverwinter.
+- Vukradin destroyed the dolls one by one with radiant energy.
+- Vukradin destroyed the twig dolls one by one with radiant energy; each doll released a still-beating pig's heart.
+- Each destroyed twig doll released a still, beating pig's heart.
+- Destroying the dolls caused the tree's roots to violently erupt from the earth.
+- The tree's roots violently erupted from the earth.
+- Boney, the horse, was ensnared by the tree's roots.
+- Soma transformed into a giant elk to break free, worked to rescue Boney, while Vukradin purged the hearts until the roots fell still.
+- Vukradin methodically purged every heart until the roots finally fell still.
+- Vukradin attempted to sway the orcs with a speech about Lathander, causing some to hesitate.
+- The Talosian cleric ordered an attack after Valphine's display of radiant holy energy.
+- The battle for the Circle of Thunder was about to begin.
+- Several orcs on the initiative tracker were unnumbered.
+- The party was at row 5 of the initiative tracker.
+- David Mendenhall made a point of speaking in orc to the orcs.
+- Gary Young speaks to the orcs in orc as well.
+- The GM says speaking orc works better than common for persuading orcs.
+- Wade Brown asks the GM to make Boney large before the battle starts.
+- Soma is going to be huge soon.
+- The Roll20 dice-roll extension is intermittently non-functional throughout the session.
+- Several players work around the extension failure by rolling physical dice, using the campaign log, or rolling manually in chat.
+- Orc 2's re-rolled attack is a 9, and misses Vukradin.
+- The anchorite cast Lightning Bolt targeting Vukradin, Xanth, and Brewbarry.
+- The anchorite of Talos unleashes a Lightning Bolt striking Vukradin, Brewbarry, and Xanth simultaneously.
+- The anchorite's Lightning Bolt deals 29 total damage.
+- Vukradin saved against the Lightning Bolt, taking half damage (14 points).
+- Xanth saved against the Lightning Bolt, taking half damage (14 points).
+- Vukradin and Xanth each take 14 damage from the Lightning Bolt after a successful save.
+- Xanth fired two longbow shots at the anchorite; both missed.
+- Xanth retaliates by firing his longbow twice at the anchorite; both shots miss.
+- The anchorite's HP total is 52 after Soma's ram attack.
+- Soma transforms into a massive giant elk (Large size).
+- Soma's elk charges the anchorite, dealing 6 piercing damage on the ram plus 6 additional damage (total 12).
+- Soma deals 6 piercing damage on the ram, plus an additional 6 damage from 2d6, totaling 12 damage.
+- The anchorite fails a DC 14 Strength save and is knocked prone by Soma's ram.
+- Orc 4 attacked the elk form of Soma, but missed.
+- Neutral orc 5 moves to a flanking position and throws a javelin at the elk, hitting for 6 points of damage.
+- Neutral orc 5 threw a javelin at the elk, rolling a 17 to hit, and dealt 6 damage, dropping Soma to 12 hit points.
+- Orc 11 deals 6 points of damage to Soma.
+- Orc 5 deals 6 points of damage to Soma.
+- Xanth deals 6 points of damage with his longbow.
+- Soma's elk hit points drop to 12 after the javelin hit.
+- Soma's hit points drop to 12 after taking 6 damage from orc 5's javelin.
+- Neutral orc 6 threw a javelin at the elk, rolling a 16, which was ruled a miss.
+- Orc 6 (neutral) tosses his javelin at the elk, rolling a 16 — ruled a miss at table (AC 17 was played).
+- Boney charges through the fray and strikes the prone anchorite with a longsword two-handed, dealing 13 points of damage.
+- Boney deals 13 points of damage to the prone anchorite.
+- The anchorite is reduced to approximately 39 hit points remaining after Boney's attack.
+- Orc 7 charges toward the party, triggering a reaction attack of opportunity from Brewbarry.
+- Brewbarry hits Orc 7 with advantage from Silvery Barbs, dealing 18 points of damage and killing it.
+- Brewbarry deals 18 points of damage to orc 7, including the Great Weapon Master +10, killing the orc.
+- Brewbarry hit Orc 7 with a reaction attack of opportunity, dealing 18 damage and killing it.
+- Vukradin quips that slaughtering orcs is inconvenient for conversion efforts.
+- Brewbarry raged and charged the prone anchorite, moving through two orcs who both missed their attacks of opportunity.
+- Brewbarry deals 24 points of damage to the anchorite with his first attack.
+- The anchorite is reduced to approximately 15 hit points after Brewbarry's first attack.
+- Brewbarry's second attack on the anchorite, made with advantage, hit and killed the anchorite.
+- Brewbarry attacks again with advantage (anchorite prone), rolls an 18 which hits, and kills the anchorite.
+- Orc 9 attacks Boney; Brewbarry uses his reaction to intercept, taking 9 points of damage (halved to 4 while raging).
+- Brewbarry takes 9 points of damage from orc 9's attack, halved to 4 while raging.
+- Soma takes 9 points of damage from orc 4's opportunity attack.
+- Vukradin takes 9 points of damage from orc 2.
+- Orc 2 demanded money from Vukradin, saying 'Give me money and I let you live.'
+- Vukradin declined to pay Orc 2, stating that followers of Lathander do not make such demands.
+- Vukradin declines the orc's demand, stating that followers of Lathander do not make such demands.
+- Orc 2 hit Vukradin with his axe for 9 points of damage.
+- The orc swings his axe at Vukradin, hitting for 9 points of damage.
+- Brewbarry takes 9 points of damage from the intercepted attack, halved to 4 while raging.
+- Orc 2 swings his greataxe at Vukradin and hits for 9 points of damage.
+- Soma moves away from orcs 4 and 8, triggering attacks of opportunity from her movement; one hits for 9 points.
+- Soma dropped her elk form as a bonus action and mounted Boney to ride away from the front lines.
+- Orc 9 took an attack of opportunity on Boney as he moved, which missed.
+- Orc 2 charges Vukradin with a great axe using a bonus action charge.
+- Silvery Barbs is confirmed at the table as a 1st-level spell, not a cantrip.
+- David Mendenhall casts Universal Speech, a first-level spell, on Brewbarry.
+- Brewbarry rolls a 9 on his attack and misses.
+- Orc 2's re-rolled attack was a 9, which missed.
+- Casting Silvery Barbs triggered Vukradin's class feature, giving him another use of Universal Speech on his next turn.
+- Casting a spell triggered Vukradin's class feature to regain a use of Universal Speech.
+- David Mendenhall notes that casting a spell grants him another use of Universal Speak on his next turn.
+- The anchorite casts Lightning Bolt at Vukradin, the Centaur, and Brewbarry.
+- The anchorite targets Vukradin, the Centaur (Xanth), and Brewbarry with a Lightning Bolt, dealing 29 damage if they fail a save.
+- The Lightning Bolt deals 29 damage on a failed save and the spell DC is 12.
+- The Lightning Bolt deals 29 points of damage if the save is failed.
+- The spell save DC for the Lightning Bolt is 12.
+- Vukradin takes 14 points of Lightning Bolt damage.
+- The Lightning Bolt deals 14 points of damage if the save is made.
+- The spellcaster did not need to roll a concentration check for the Lightning Bolt.
+- The Centaur takes 14 points of Lightning Bolt damage.
+- The Centaur says something profane in its local dialect after taking damage.
+- Xanth fires his longbow twice at the anchorite.
+- The anchorite has taken 52 total points of damage.
+- Soma transforms into a giant elk, which is Huge size with AC 17.
+- Soma charges the anchorite, dealing ram damage.
+- Soma's wrath of the storm ability takes no damage.
+- Soma's ram attack deals 12 total points of damage to the anchorite.
+- Soma's giant elk charge deals 12 total damage to the anchorite and requires a DC14 strength save or be knocked prone.
+- Soma's ram attack knocks the anchorite prone.
+- Both opportunity attacks from orcs as Brewbarry moves miss him.
+- Orcs take attacks of opportunity as Brewbarry moves toward the anchorite; both miss.
+- Orc 5 has no more javelins after throwing one.
+- Soma is reduced to 12 hit points after taking 6 damage.
+- The giant elk is now at 12 health.
+- Boney's attack on the prone anchorite hits because his AC is 13.
+- Boney deals 22 damage to the anchorite.
+- The anchorite is down to 18 health after Boney's attack.
+- Boney's actual damage to the anchorite is corrected to 13.
+- Boney is using a longsword two-handed.
+- Brewbarry's first attack of opportunity against orc 7 misses.
+- Brewbarry hits orc 7 on the re-roll with advantage from Silvery Barbs.
+- Brewbarry always uses Great Weapon Master by character type, needing to be convinced not to.
+- Orc 7 is killed by Brewbarry's attack of opportunity dealing 18 damage.
+- Brewbarry moves through two orcs to charge the prone anchorite.
+- Brewbarry rages.
+- Brewbarry's first attack against the prone anchorite hits for 24 points of damage.
+- The anchorite is down to 3 health after Brewbarry's first attack.
+- Brewbarry's second attack against the anchorite misses.
+- Brewbarry kills the anchorite with his third attack.
+- The anchorite is killed by Brewbarry.
+- The prone Anchorite is killed by Brewbarry's third attack with advantage.
+- Wade's character killed the prone anchorite.
+- Orc 9 attacks Boney with an 18 to hit.
+- Brewbarry uses his reaction to intercept the attack from orc 9.
+- Vukradin rolls a 17 on Persuasion; the orc fails its Wisdom save of 12 and puts down its greataxe.
+- Vukradin declines the demand on religious grounds.
+- Orc 2 wanted money and attacked only after his demand was refused.
+- A bandit swings his axe at a party member for 9 points of damage.
+- Soma disengages, takes opportunity attacks, and drops her Elk form.
+- Soma mounts Boney and rides away from the orcs.
+- Soma drops her giant elk form after taking the opportunity attack.
+- Soma hops on Boney and tries to ride him away.
+- Orc 9 takes an opportunity attack on Boney as Soma and Boney move away — a miss.
+- Soma loses her temporary hit points from the giant elk form when she drops the form.
+- Soma loses temporary hit points when she drops Elk form.
+- Brewbarry enters a rage and charges the prone anchorite of Talos.
+- Brewbarry delivers a lethal strike that kills the anchorite of Talos.
+- Vukradin rolls a 26 on persuasion, moving orcs 1, 2, 3, 4, 8, 10, and 11 toward neutrality or receptivity.
+- Valphine attempts to intimidate remaining hostile orcs in Orcish and rolls a 13.
+- The DM describes the party's presentation as 'not the best organized religious ceremony.'
+- Orc 1 throws a javelin at Boney, finding the skeletal horse an abomination.
+- Brewbarry swings at fleeing orc 1 as a reaction attack and misses.
+- Brewbarry strikes down orc 9 with a massive blow dealing 11 damage, killing the orc.
+- Brewbarry knocks orc 10 unconscious with a non-lethal strike rolling 18 to hit, dealing 15 damage.
+- Orc 10 is marked as unconscious.
+- Orcs 1, 4, 5, 8, 11, and 3 flee the battlefield.
+- Orc 3 strikes Vukradin once before fleeing.
+- Vukradin casts Silvery Barbs on orc 3's attack, forcing a re-roll that succeeds.
+- Orc 6 looks at fleeing companions, decides life is too short, and runs.
+- Brewbarry rages as a precursor to attacking the prone anchorite.
+- Brewbarry charges the prone anchorite of Talos.
+- Vukradin added orcs 3, 4, and 11 to his sphere of understanding.
+- Vukradin adds orcs 3, 4, and 11 to his Universal Speech targets.
+- Vukradin rolls a 26 on his persuasion check.
+- Vukradin's persuasion moved orcs 1, 2, 3, 4, 8, and 11 toward neutrality or receptivity.
+- Orcs 1, 2, 3, 4, 8, and 11 become receptive and are no longer interested in attacking.
+- Valphine attempted to intimidate the remaining hostile orcs in Orcish.
+- Valphine rolls a 13 on her intimidation check.
+- The DM cites Valphine's Drow heritage as a complicating factor in her intimidation attempt.
+- Orc 1 threw a javelin at Boney and then fled.
+- Brewbarry takes a reaction attack of opportunity against fleeing orc 1 and misses.
+- Brewbarry used his reaction to attack orc 1 as he fled, but missed.
+- The DM rules the non-lethal damage call for orc 9 was made too late and the kill stands.
+- Orc 10 is knocked unconscious by Brewbarry.
+- Brewbarry rolls a 17 to hit orc 10.
+- Brewbarry deals 15 base damage to orc 10, knocking him unconscious.
+- Orc 5 flees the battlefield.
+- Orc 3 flees the battlefield.
+- Orc 11 considers his situation and flees the battlefield.
+- Orc 6, receptive, watches his companions flee and decides to run.
+- Vukradin persuades Prutha to abandon Talos and follow Lathander.
+- Prutha concludes that Lathander offers more power than Talos.
+- Vukradin blesses Prutha, saying 'Lathander blesses you today, my child.'
+- Prutha kicks the fallen anchorite's body several times for emphasis after his conversion.
+- The party agrees to a 'Convert or die' policy toward Talos followers.
+- The party agrees to the principle 'Convert or die' regarding Talosian followers.
+- Valphine and Brewbarry string up the anchorite's corpse as a warning; Prutha approves enthusiastically; Vukradin disapproves but does not intervene.
+- The DM names the converted orc Prutha.
+- Talosians killed Prutha's great-uncle to break resistance and recruit everyone.
+- Prutha fought in skirmishes against the Talosians after his great-uncle's death.
+- Prutha never killed by choice across three skirmishes.
+- Prutha starts to cry after blowing the whistle.
+- Valphine rolls Insight 27 and learns Prutha is crying because he has not blown the whistle in a very long time.
+- Prutha blows the bone whistle for the first time in a very long time and begins to cry.
+- Prutha's great-uncle taught: 'Dawn comes from everyone, even those born in shadow.'
+- Vukradin tells Prutha he is his first friend.
+- The bone whistle produces only one note.
+- Valphine rolled a poor Religion check that boosted to approximately 12.
+- Valphine rolls a Religion check of approximately 12, boosted by Bardic Inspiration and Bless.
+- Valphine gains a religious insight that the whistle ritual could be incorporated into her evolving Lathandrian worship.
+- The party loots a potion of greater healing from the fallen anchorite's body.
+- The party obtains a potion of greater healing from the anchorite.
+- Valphine is stringing up a body.
+- Xanth gallops away after studying the staff.
+- Prutha proposes the party's next objective is to go kill other Talosian clerics.
+- Two ghastly figures dance within the henge, surrounded by capering creatures.
+- A smaller number of capering creatures surround the ghastly figures.
+- The session ends with the party at the treeline studying the ritual.
+- Xanth studies a staff one last time, making the table feel awkward, then gallops away.
+- Xanth the Centaur has offered to take the party to the lair of the evil half-orc spellcasters.
+- Xanth the Centaur ends his role after guiding the party, considering his job complete.
+- Wade notes Thunderwave could work well against the twig blights.
+- Wade notes Thunderwave could work well.
+- Gary Young proposes using Spirit Guardians.
+- Vukradin's player suggests Spirit Guardians plus Dash as a preferred combination.
+- Brewbarry intercepts the attack on Boney, taking the damage instead.
+- Brewbarry strikes down charging orc 9 with an 11-point blow, killing it.
+- Brewbarry's first attack with his halberd hit the anchorite for 24 damage, reducing him to approximately 15 hit points; his second attack missed.
+- Neutral orc 5 throws a javelin at Soma's elk form, hitting and dealing 6 damage.
+- Neutral orc 6 tosses his javelin at the elk form of Soma but rolls a 16, missing.
+- Orc 10 attacks Valphine with a javelin, missing spectacularly.
+- Orc 11 attacks the elk with a javelin, hitting for an unspecified amount.
+- Orc 3 charged and attacked Vukradin, but missed.
+- Orc 7 triggered a reaction attack from Brewbarry; Brewbarry hit with advantage and killed Orc 7 with 18 damage including Great Weapon Master.
+- Prutha decrees that followers of Talos who convert will be spared, but all others will be killed.
+- Prutha vows to help the party kill the remaining Talosian clerics, sparing only orcs who stop following Talos.
+- Soma charges the anchorite, dealing 12 damage total and knocking him prone.
+- Soma moved away from orcs 4 and 8, triggering one attack of opportunity that hit for 9 damage; she then dropped elk form and mounted Boney to ride away.
+- Soma's opportunity attack before dropping form deals 9 damage, which is absorbed by temporary hit points.
+- Soma, in giant elk form, charged the anchorite and dealt 12 damage with a ram attack, knocking the anchorite prone.
+- The DM confirms the bone whistle has one note.
+- The Lightning Bolt deals total 29 damage; Vukradin and Xanth save for 14 points each; Brewbarry takes the full 29.
+- The Lightning Bolt dealt 29 total damage with a spell DC of 12.
+- The anchorite of Talos cast Lightning Bolt targeting Vukradin, Brewbarry, and Xanth.
+- The orcs nearest the cleric changed from distracted to neutral.
+- The party discusses using the Necklace of Fireballs but decides the twig blights are not clustered enough.
+- Three orcs — numbers 1, 5, and 6 — were moved from hostile to neutral by Vukradin's speech.
+- Two orcs are unimpressed by Valphine's intimidation, and one neutral orc flips back to hostile.
+- Valphine does not feel further from Lathander; the god seems closer to her.
+- Vukradin made his saving throw against the Lightning Bolt and took 14 damage.
+- Vukradin's player notes that killing Orc 7 is inconvenient for conversion efforts, and quips 'How are we going to win them over if you're slaughtering them?'
+- Xanth fires his longbow twice at the anchorite, dealing 6 points of damage.
+- Xanth fires his longbow twice more in his second round; both miss.
+- Xanth says something profane in his local dialect after the Lightning Bolt.
+- Xanth's first longbow attack deals 6 points of damage to the anchorite.
+
+## Chapter 41
+
+- The party arrives at the Circle of Thunder and observes a group of anchorites performing a summoning ritual.
+- Valphine identifies the ritual as a summoning ritual with a 17 religion check.
+- Valphine rolls a 17 on a religion check and identifies the ritual as a summoning ritual.
+- Vukradin casts Vicious Mockery on the boar again, dealing 7 points of psychic damage.
+- The anchorites are dancing rather than chanting during the ritual.
+- The party debates whether to cast Silence to interrupt the ritual, but the DM determines the anchorites are dancing, not chanting, so there is no vocal component to disrupt.
+- Vukradin briefly considered whether the ritual can be terminated mechanically.
+- The ritual will only be stopped by disrupting the dancers themselves.
+- Initiative is rolled as the party prepares to engage, and Vukradin wins several tie-breaker rolls, going first among the party.
+- Valfinha recognized the activity as a summoning ritual.
+- Valphine Sotorra deals the killing blow to a creature.
+- Vukradin wondered who the anchorites are summoning.
+- Vukradin decided to cast Silence on whoever is chanting.
+- The anchorites are dancing rather than chanting, so the ritual has no vocal component to disrupt.
+- Vukradin pivoted to considering Hold Person after learning there is no vocal component.
+- Brewbarry observes that the dancing anchorites resemble a pantomime club given the eerie silence.
+- The GM and party roll initiative; GM notes that Vukradin rolls 19 beating the GM's 18 in a tie-breaker.
+- Vukradin won several tie-breaker initiative rolls against the party, going first among them.
+- Vukradin confirms he has not cast Silence because the party is following initiative order, and the GM confirms they are.
+- The ritual was a dark ritual involving Talos.
+- Twig blights activate first and dash toward the party.
+- An anchorite fires a lightning bolt, striking several party members who had lined up together.
+- The lightning bolt requires a DC 12 dexterity saving throw.
+- The lightning bolt deals 31 points of damage.
+- Valphine takes 31 points of damage from the lightning bolt, reduced to 15 on a successful save.
+- Vukradin casts Hold Person at third level (DC15 wisdom save), successfully paralyzing both anchorite spellcasters simultaneously.
+- Hold Person has a DC 15 wisdom saving throw.
+- Boney tears into one of the paralyzed anchorites with a bare-jawed bite, scoring an automatic critical hit for 5 points of damage, reducing that anchorite to 46 hit points.
+- Prutha throws a javelin at the second paralyzed anchorite and scores a natural 20, dealing 11 points of damage (no autocrit due to ranged).
+- Prutha's javelin dealt 11 points of damage.
+- Soma transforms into a giant elk.
+- Soma in giant elk form delivers a powerful charging ram against a paralyzed anchorite at 60 feet, scoring an automatic critical hit for 25 points of damage, reducing that anchorite to 10 hit points.
+- Soma charges at 60 feet in giant elk form.
+- Soma charges the anchorite and deals 25 points of damage with an automatic critical hit.
+- Soma's giant elk charge deals 25 points of damage to a paralyzed anchorite.
+- Valphine casts Spirit Guardians, obliterating twig blights in waves of radiant energy.
+- Valphine summons Spirit Guardians in a 15-foot radius, swirling spectral light that obliterates twig blights.
+- Spirit Guardians kills twig blights 3 and 4 outright in its first activation, and subsequently kills blights 6, 8, and others as Valphine moves.
+- Spirit Guardians subsequently kills blights 6, 8, and others as Valphine moves through the battlefield.
+- Vukradin's Eloquence-Bard feature extends the inspiration die to a saving throw.
+- Vukradin uses Starry Wisp at 60 feet to strike the remaining anchorite for 14 points of damage, moving 25 feet to get in range before retreating.
+- The anchorites continue to fail their wisdom saving throws each round to break free of Hold Person.
+- Brewbarry activates Rage.
+- Brewbarry rolls low on his initial attack but recovers with a bardic inspiration D4 and rolls a spectacular 8 on the die, producing a total to-hit of 19 and dealing 10 points of damage to kill one twig blight.
+- Brewbarry throws his handaxe, rolling with a bardic inspiration D4 for a total to-hit of 19, dealing 10 points of damage to kill one twig blight.
+- Brewbarry uses a bonus action from his barbarian ability (killing with a melee weapon — handaxe counts as melee even when thrown) to kill a second blight.
+- Brewbarry uses a bonus action from killing with a melee weapon to kill a second twig blight.
+- Brewbarry follows up with a second attack to threaten a third.
+- Prutha charges, killing twig 2 on his way in.
+- Prutha strikes the anchorite with his greataxe for 13 points of damage including an autocritical bonus, reducing the anchorite to 16 hit points.
+- Soma, in her elk form, smashes one of the standing stones of the henge rather than attacking.
+- Soma, still in giant elk form, delivers the killing blow — wheeling on the last paralyzed anchorite and trampling him under hoof for the auto-critical finisher.
+- After the anchorites are defeated, the storm clouds above the Circle of Thunder dissipate.
+- The storm above the henge slowly dissipated after the ritual was stopped.
+- The storm above the ritual site dissipates after the chant stops.
+- The storm clouds above dissipate: the clouds peel back from the hinge in a slow, reluctant spiral, the pressure drops, and the ozone smell fades.
+- The storm clouds peel back from the hinge in a slow, reluctant spiral.
+- The standing stones at the Circle of Thunder stop humming after the ritual is interrupted.
+- Valphine attempts to use her Cleric of Peace teleportation ability during combat to intercept an attack on Soma by teleporting adjacent to the attacker so Brewbarry would take the hit instead.
+- Valphine attempts to use her Peace Cleric teleport ability to intercept an attack on Soma, but the positioning prevents it.
+- The DM rules the mechanic requires the redirected attacker to be able to physically reach Brewbarry at the teleportation destination, which is not possible given the positioning, so the damage stays on Soma (3 points).
+- Valphine attempts to use her Cleric of Peace teleportation to intercept an attack on Soma, but the DM rules the mechanic requires the redirected attacker to be able to reach Brewbarry, which is not possible, so the 3 points of damage stay on Soma.
+- Soma takes 3 points of damage because Valphine's teleport intervention fails.
+- The twig blights activate first and dash toward the party.
+- Twig blights dash toward the party at the start of combat.
+- The party makes DC12 dexterity saving throws against the lightning bolt.
+- Vukradin rolls a 20 on his dexterity saving throw against the lightning bolt.
+- Vukradin cast third level Hold Person on two anchorites, requiring DC15 Wisdom saves.
+- Vukradin casts Hold Person at third level.
+- Both anchorites failed their Wisdom saves and are paralyzed.
+- After casting Hold Person, Vukradin used his remaining movement to retreat.
+- After Boney's attack, the anchorite is reduced to 46 hit points.
+- Valphine Sotorra cast Spirit Guardians with a 15-foot radius and DC15.
+- Spirit Guardians continues through the battle and kills multiple blights.
+- Anchorites continue to fail Hold Person saves at the top of a round.
+- An anchorite failed a Hold Person saving throw.
+- Brewbarry entered a rage.
+- Brewbarry enters rage before throwing his handaxe.
+- Stéphane Bourdeaud enters a Rage.
+- Brewbarry threw his handaxe at an anchorite.
+- Stéphane Bourdeaud throws his handaxe, which reappears magically to his hand.
+- Valphine Sotorra offers Bardic Inspiration to Stéphane Bourdeaud.
+- Valphine gave Bardic Inspiration to Brewbarry.
+- The boar takes 7 points of psychic damage from Vukradin's second Vicious Mockery.
+- Brewbarry killed anchorite 1 with his handaxe.
+- Stéphane Bourdeaud's handaxe hits for 8 damage, killing the target.
+- Brewbarry gets a bonus action when he kills with a melee weapon.
+- Cleave only applies to greataxe and halberd, not handaxe.
+- Stéphane Bourdeaud kills the enemies numbered 1 and 5.
+- Brewbarry has two attacks per turn.
+- Brewbarry's second attack roll was bad.
+- Stéphane Bourdeaud rolls poorly on his second attack roll.
+- Valphine offers Bardic Inspiration to Brewbarry once per round.
+- Vukradin cast Starry Wisp on the remaining anchorite.
+- Vukradin casts Starry Wisp at an anchorite, hitting for 14 damage.
+- Vukradin casts Starry Wisp on the remaining anchorite at 60 feet range.
+- Vukradin uses 25 feet of movement to get within range.
+- Prutha hit the anchorite with a greataxe for 13 damage.
+- Prutha runs up to an anchorite and hits her with a greataxe, doing 13 points of damage.
+- Soma pushed down one of the standing stones.
+- Soma pushes down one of the monoliths in the circle.
+- The henge is a repurposed druidic ritual site, not an anchorite hinge.
+- Valphine Sotorra reads her Peace Cleric ability and notes it triggers when damage is taken, which synergizes with rage damage reduction.
+- Valphine's Peace Cleric ability allows teleportation only if the attack hits and the teleport target is within five unoccupied feet.
+- Three points of damage were transferred to Soma, putting her at 48 HP.
+- Valphine killed the last anchorite with her mace and critical damage.
+- The storm above dissipates one or two heartbeats after the chant stops.
+- The ozone smell fades to wet leaves and old rain.
+- The party successfully stopped the ritual, preventing a summoning.
+- Valphine Sotorra asks whether the henge is an anchorite construction or a repurposed druidic site.
+- Vukradin argued the party should return the holy symbols to the anchorites' people.
+- Vukradin argues the party should return the holy symbols to their owners.
+- Brewbarry observes that Vukradin is trying to reason with an orc.
+- Vukradin asks Brewbarry if he is a racist.
+- Brewbarry says he said orcs are dumb, not evil, and compares himself and Prutha to dumb and dumber.
+- Prutha destroyed the holy symbols of Talos.
+- Prutha destroys the holy symbols during the argument.
+- Valphine placed a holy symbol on the skull of a fallen anchorite and smashed it with her mace.
+- Vukradin is dismayed by Valphine's actions and says they need to have a conversation about conflict-free goals.
+- Prutha says his great-uncle said dawn comes for everyone, even the dead priests, and that he did not think dawn would feel quiet.
+- Prutha quietly admits to Valphine that he did not think dawn would feel quiet.
+- Prutha acknowledged the power of Lathander's dawn by grunting and waving his axe in approval.
+- Meril's Staff went quiet for the first time since the cursed clearing.
+- Soma perceives the staff going quiet for the first time since the cursed clearing, a sign of progress earned by stopping the ritual.
+- The standing stones at the ritual site go inert.
+- The standing stones, which had been humming faintly, go inert after the ritual is stopped.
+- Vukradin attempts to claim the holy symbols of Talos, saying he will return them to their owners.
+- Vukradin moves to claim the holy symbols of Talos.
+- Prutha destroys the holy symbols of Talos while Vukradin and Valphine are arguing.
+- Prutha destroys the holy symbols of Talos while the party argues.
+- Vukradin attempts to persuade Prutha not to destroy the holy symbols.
+- Vukradin tries to persuade Prutha that the talismans need to be returned to their original owners.
+- Prutha points to the dead priests and says they have found the owners and given the talismans to them.
+- Prutha is very pleased with himself, believing he did exactly as Vukradin said.
+- Valphine places a holy symbol of Talos on the skull of the fallen anchorite and smashes it with her mace.
+- Prutha is very pleased to see Valphine smash the Talos symbol.
+- Vukradin is dismayed at Valphine for smashing the symbol.
+- Brewbarry says he was not saying orcs are evil, but that orcs are dumb.
+- Valphine tells Prutha that dawn is powerful.
+- Prutha acknowledges the power of Lathander by making grunts and waving his axe.
+- Brewbarry leads the party into tunnels in search of alcohol after the ritual is stopped.
+- Soma and Boney stand watch outside because Soma in elk form cannot fit in the tunnel.
+- Brewbarry rebukes Vukradin, saying "That wasn't very nice. Why would you insult the boar? The poor boar. That's mean."
+- Valphine finishes the boar with her Spirit Guardians for 15 points of radiant damage.
+- The group moves to a second cave where they find several boars penned up beneath a lintel stone carved with a boar chasing a humanoid figure.
+- Valphine destroys the wax sigil on the satchel before opening it.
+- A cult letter states: "The Chosen is pleased with the boy from the eastern clan. Continue feeding him with stories. Do not yet tell him about the leash."
+- The third fragment says 'The boar comes.'
+- The third fragment says 'The storm comes.'
+- Valphine silently pockets a potion of invulnerability and slips it into Vukradin's pack without his knowledge.
+- The party stopped the ritual at the henge.
+- Brewbarry leads the way into the tunnels to search for alcohol.
+- Vukradin casts Vicious Mockery on the boar, but it saves with a natural 20 and is unaffected.
+- Vukradin's first Vicious Mockery has no effect because the boar rolls a natural 20 on its wisdom save.
+- The boar is reduced to 4 hit points after Vukradin's second Vicious Mockery.
+- The party kills the boar during combat.
+- Valphine kills the boar with her Spirit Guardians.
+- The party moves to the next cave which has a carved lintel stone above its mouth.
+- Valphine destroys the wax sigil of Talos before opening the satchel.
+- Valphine breaks the wax seal and opens the satchel.
+- Valphine notices a slightly out-of-place square beneath the floor with her passive perception.
+- The party discovers a stack of Narux's crude vellum sketches of Gorthok in his quarters.
+- Brewbarry finds nothing to drink and says 'There's nothing in this cave. Let's beat it.'
+- The party realizes the henge they cleared was always meant to be sacrificed and the Manse is the live threat now, with the Lodge as the target.
+- Brewbarry says of the Lodge, "That's where they hide the drinks. Hidden in plain sight."
+- Valphine considers using persuasion to smooth things over with Falcon.
+- The session ends with the party planning their next moves toward the Woodland Manse and Falcon's Hunting Lodge.
+- The Circle of Thunder is marked with an X on the map because the anchorites expected to lose the henge.
+- Vukradin deletes the 'horse with no rain' quest from the tracker, marking the Circle of Thunder quest complete.
+- Valphine proposed a musical instrument to Falcon at the end of the druid conclave.
+- Falcon said yes to Valphine's musical instrument proposal.
+- Orcs attacked Falcon's establishment because the party did not deal with the Woodland Mans.
+- Orcs attacked Falcon's Hunting Lodge after the party failed to deal with the Woodland Manse.
+- Falcon felt betrayed that the party did not deal with the Woodland Manse before the orc attack on his lodge.
+- After Soma's charge, the anchorite is reduced to 10 hit points.
+- Boney scores an automatic critical hit on a paralyzed anchorite with a bite, dealing 5 points of damage.
+- Brewbarry kills two twig blights with his handaxe (using Elemental Cleaver) and threatens a third.
+- Brewbarry leads the party into the tunnel to search for drinks.
+- Brewbarry used a bonus action to kill anchorite 5.
+- Falcon previously offered boots of elvenkind as a reward for dealing with the threats.
+- Prutha charged through twig blights to reach an anchorite.
+- Prutha charges through twig blights, killing twig 2 on the way.
+- Prutha gestures at the dead priests and says 'We found owners. We give to them.'
+- Prutha threw a javelin that rolled a natural 20 but the autocrit rule does not apply to ranged attacks.
+- Soma delivers the killing blow on the last paralyzed anchorite, trampling him under hoof.
+- Soma transforms into a giant elk and charges a paralyzed anchorite.
+- Stéphane Bourdeaud uses his second attack per round against the enemy on the right.
+- The GM ruled that Brewbarry could not teleport via Soma's ability because no target adjacent to an enemy was reachable.
+- The boar takes 7 psychic damage from a second Vicious Mockery, dropping to 4 hit points.
+- The storm clouds above dissipate after the anchorite is killed.
+- Valphine rolls a 6 on her dexterity saving throw and takes 31 points of damage, halved to 15.
+- Vukradin attempts to kill the boar with Vicious Mockery (DC15 Wisdom save), but the boar rolls a natural twenty and is completely unaffected.
+- Vukradin considered casting Silence on the ritual, but it would not work because the anchorites are dancing, not chanting.
+- Vukradin deletes the 'horse with no rain' tracker entry, confirming the current quest is complete.
+- Vukradin moved 20 feet to get within range.
+- Vukradin quipped, 'Two twigs and an anchorite — the start of a joke.'
+
+## Chapter 42
+
+- Vukradin asserts the shield is not theirs and must be returned, telling them to mark it as blood.
+- Valphine says the shield is not hers and tucks it under her arm, saying she'll hold it until the owner turns up.
+- Vukradin recommends they do a better job hiding their crown merchandise, meaning the Talosian bolt.
+- Brewbarry claims he got the halberd from the shipwreck and says it is his.
+- When asked about the new halberd, Brewbarry says 'I got a divorce.'
+- Vukradin provided a cover story that the halberd is the same one Brewbarry has had all along, just sharpened.
+- Vukradin says the halberd Brewbarry has is the one he has always had, just sharpened.
+- Vukradin says the halberd is the one Brewbarry has had all along, just sharpened on a sharpening stone.
+- Valphine argues that Lathander's light is not tender; it burns twelve hours a day and people beg for its return out of fear of the dark, which is worship of power, not goodness.
+- Valphine says that people's fear of the dark is not worship of goodness but worship of power.
+- Vukradin says Valphine is changing the god instead of the god changing the cleric.
+- Vukradin says he likes that the cleric is changing the god instead of the god changing the cleric.
+- Brewbarry thinks about his Talos, the Uthgardt one of storms, and being sober when found guilty a long time ago.
+- Brewbarry was sober when they found him guilty, a long time ago.
+- Vukradin says he refuses to do anything more for Falcon unless he gets an apology from him.
+- Soma agrees with Vukradin, saying 'Yeah, fuck that guy' about Falcon.
+- Vukradin says that what Falcon did at the Druid Council — standing up and taking shots at him, making himself useful to Adabra — cost Vukradin something.
+- Vukradin sent a Sending to Falcon asking 'Are you finally ready to apologize for the way you treated me at the Druid Council?'
+- Vukradin adds to the Sending that the party needs to clear Falcon's hunting lodge problem.
+- Falcon responded to Vukradin's Sending with a categorical apology: 'I apologize.'
+- Falcon says he is on the road home and hopes to see the party there.
+- Falcon says he is on the road home and hopes to see them there.
+- The documents reveal a summoning ritual is underway at the manse, with a backup ritual waiting if the first fails, and a personal summoning attempt if both fail.
+- The enemies' plan included a summoning ritual confirmed underway at the manse, with a backup ritual waiting if the first failed.
+- Vukradin notes he has burned through his small workings and two of the heavy ones.
+- Vukradin asks for an item or spell to resist lightning, but neither Soma nor Valphine have one.
+- Valphine suggests using obscuring mist or darkness to complicate targeting against lightning.
+- Valphine defers to Vukradin on whether to rest before approaching the lodge.
+- Valphine decided they will approach the hunting lodge from the south.
+- The party heads to the hunting lodge to scope it out.
+- The palisade around Falcon's Hunting Lodge has been repaired with mismatched wood under pressure.
+- Prutha identified three banners from the Eastern Heart, Sun and Stone, and his uncle's clan march.
+- Prutha blew the dawn prayer into the cold air using his bone whistle.
+- The sentry on the walkway lowered her bow and returned Prutha's gesture.
+- The sentry on the walkway returns Prutha's gesture and shouts for the gate to bring all of them in.
+- Valphine agreed out loud that it was not the moment to press on a dead man's cloak.
+- Valphine agreed with Vukradin that this was not the moment to press on a dead man's cloak.
+- Valphine decided not to press on a dead man's cloak.
+- Valphine let the matter close after Vukradin said 'Not worthy' once more, satisfied.
+- Valphine saw the elder's hunger in his eyes, not hostility.
+- Valphine noticed Vorga's elder had been praying a long time and had not been answered.
+- Valphine could see the elder's need without him saying it.
+- Valphine's conversion started from the bodily place touched by the word 'Dawn' in Orcish.
+- Valphine's doctrine answered before the analysis did.
+- Valphine answered in Orcish because the elder deserved it and because it was the right instrument for the conversation.
+- Valphine answered in Orcish that she was the bringer of the dawn.
+- Valphine told Vorga in Orcish that she is the bringer of the dawn.
+- Valphine let Vorga see her holy symbol clearly.
+- Valphine let the elder see the holy symbol clearly.
+- Soma caught the slight tilt of Vorga's head and the flicker of calculation in her eyes as she looked from the drow to the orc.
+- Soma said nothing about what she saw because that's the kind of look you wait on.
+- Soma is old enough to be comfortable with standing in the lodge courtyard watching two people have a conversation she couldn't hear.
+- Brewbarry shifted his weight from foot to foot like a man who had misplaced his axe and only just noticed.
+- Vukradin tilted his head as if proximity to the sounds might eventually yield meaning.
+- Soma read Vorga's posture as not hostile, occupied, and tired.
+- The orcs around the courtyard were not a raiding force but people who had found an empty building and moved into it out of necessity.
+- Soma recalled seeing refugees with claws after Cryovain came down.
+- After Cryovain came down, every creature that could move had moved.
+- Valphine switched to Common and reported the orcs came from the southern mountains and she told them about the Talosian.
+- Valphine switched to Common during the conversation.
+- Valphine told Vorga about the Talosian nearby.
+- Vukradin asked if the orcs were displaced by the dragon.
+- Valphine referenced the dragon that the party killed.
+- Vukradin said loudly that 'We killed the dragon.'
+- Vukradin told the orcs that they killed the dragon.
+- Soma noted Vukradin put his chin up slightly when he said 'Yep.'
+- Soma found herself nodding at Valphine's statement that something worse than the dragon was in Icespire Hold because it was accurate.
+- Soma thought Vukradin's offer of escort was kind of him and potentially over-optimistic, which is also very much him.
+- Vorga chose to stay and fight the pursuing creature at the lodge instead of returning to Icespire Hold.
+- Soma watched Vorga walk through her calculation and saw that Vorga had made this calculation before, in other places, with other stakes.
+- Soma thought offering alternatives was worth it because the instinct to find another way is a good instinct.
+- Vorga's plan is to kill the creature at the hunting lodge, then walk safely to Icespire Hold.
+- Vorga's plan was to kill the creature here, then walk to Icespire in safety.
+- Soma noted a note surfaced briefly about a boy from the East recovered at the Circle of Thunder who had been called a good recruit.
+- Soma thought about the way Vorga's eyes had moved to Prutha when Valphine first spoke, but Soma didn't say anything.
+- Brewbarry screamed after finding a broken cask inside the lodge.
+- Brewbarry screamed and appeared holding a broken cask whose contents were wasted, not drunk.
+- Brewbarry announced: 'I will kill them all!'
+- Vukradin calmed Brewbarry by promising more alcohol would be found.
+- Soma watched Brewbarry and thought that the Talosians had not met Brewbarry yet and that was going to be a short conversation.
+- Valphine cast a bracing spell that makes a body harder to drop on Soma and others.
+- Valphine cast a bracing spell, not a healing, that made a body harder to drop.
+- Soma felt Valphine's bracing spell in her shell.
+- Vorga suggested someone stand on the wall so the Falcon sees a friendly face; Vukradin volunteered.
+- Vukradin volunteered to stand on the wall so the Falcon would see a friendly face, and the Falcon came out of the trees with war paint and a bow.
+- Falcon said to Vukradin: 'You have my sword.'
+- Soma thought the version of Falcon — with paint on his face, weapon ready, walking toward a fight with something like purpose — was different from the grieving man at the Enclave council; not healed, but aimed.
+- Valphine pointed at the map and said the gatehouse had fantastically defensible positions.
+- Valphine pointed out the gatehouse's defensible positions and three orc archers were placed at the arrow slits.
+- Three orc archers were placed at the arrow slits in the gatehouse.
+- The storm came wrong — a pressure behind Brewbarry's eyes and the sky went from afternoon to dark in a single breath.
+- The storm came wrong, with a pressure behind the eyes and the sky going dark in a single breath.
+- Brewbarry knew the storm came wrong before he understood it — a pressure behind his eyes, sudden and complete, like a fist closing around the inside of his skull.
+- Brewbarry heard the boars squealing in a register that made the hairs on his arms stand up.
+- The boars in Falcon's pens started throwing themselves against the walls of their enclosure, squealing in panic.
+- Brewbarry knew boars charge but knew this was panic — pure, animal, knowing — not that.
+- Drubbak notices there is no chant when there should be one.
+- Brewbarry didn't understand what Drubbak meant by 'It come wrong. There is no chant. Where is the chant?'
+- Brewbarry knew Drubbak knew storms the way Brewbarry knows a weapon's balance — by feel, by something that lived below words.
+- Drubbak holds himself with a particular stillness that is worse than shouting.
+- Lightning splits the tree line close enough that the light is white and absolute.
+- The river water jumped up in a white column and the sound rolled across the palisade like a boulder.
+- A third lightning bolt came down inside the compound and blew an empty barrel into kindling, smelling of ozone and charred wood.
+- A third bolt comes down inside the compound and blows an empty barrel into kindling.
+- Brewbarry felt the smell of ozone and charred wood hit him like a slap after the lightning bolt.
+- Soma held up her staff and a new leaf had pushed out from one of the buds, fresh and green.
+- Soma announces her staff is sprouting.
+- Soma says the sprouting means an angel got its wings.
+- Brewbarry found himself grinning despite everything after Soma's dry comment about an angel getting its wings.
+- Valphine moved through the party and cast something that settled in Brewbarry's chest as an extra layer.
+- Brewbarry felt something settle in his chest after Valphine moved through the party — an extra layer between him and whatever was coming through the gate.
+- Valphine moves through the group and does something that lands and settles in Brewbarry's chest.
+- Brewbarry knows he's not philosophical about magic the way Vukradin is; he just knows when something useful has been done.
+- The orc archers are placed in the gatehouse tower behind the arrow slits.
+- Boney goes inside the palisade near the stable house.
+- Boney went inside the palisade near the stable house, which Vukradin described as 'cannon fodder.'
+- Falcon takes position with his bow.
+- The party spreads through the courtyard.
+- Brewbarry knew his eyes were doing the red-glow thing from the Dread Helm, which tends to get a reaction.
+- Vukradin says Gorthok is there among the attacking forces already.
+- The answer was that the party had come to the lodge instead of dealing with the summoning, and the world had not waited.
+- Brewbarry thought about the Uthgardt stories of the Great Boar — a thing conjured out of storm and lightning, older than the gods that claimed to own it.
+- Brewbarry thinks you probably don't stop Gorthok, you just get in front of it.
+- Vukradin reads the enemy positions with narrowed eyes, already building the moment in his head.
+- Vukradin assesses that Falcon is slower off the mark with magnificent condescension.
+- Vukradin observes the enemy are nicely grouped.
+- Vukradin asks for a working that swallows a crowd whole, not the fire-burst.
+- Brewbarry said the obvious thing: 'They are savages. We kill them all.'
+- Brewbarry says they are savages and they will kill them all.
+- Vukradin agrees enthusiastically with Brewbarry, saying they will kill them.
+- A lightning bolt comes from beyond the palisade and hits the gate.
+- A lightning bolt from beyond the palisade hit the gate, destroying it completely — logs and iron fittings became debris.
+- The lightning destroys the gate, turning the logs and iron fittings into debris.
+- Brewbarry felt Gorthok's presence before he saw it — a mass, a wrongness, the air going wrong in front of him.
+- The Anchorites cluster behind Gorthok and the Talosian forces converge on the hole in the gate.
+- Vukradin mutters about a working that tangles a mind in its own visions.
+- Soma is watching her staff.
+- Drubbak has not moved from his place and is still listening for the chant that isn't there.
+- Brewbarry's sword is already in his hand.
+- Brewbarry's sword was already in his hand when Gorthok appeared.
+- A storm came suddenly, turning afternoon to dark and rattling the palisade logs.
+- Brewbarry thought about how you stop something like the Great Boar and concluded: 'probably you don't stop it. Probably you just get in front of it.'
+- Falcon replies to the Sending with a categorical apology, no qualifications.
+- Prutha blows the dawn prayer on his bone whistle after reaching the gate.
+- Soma said she hadn't expected Gorthok until the summoning was complete, and the tone she used was the tone she uses when she is trying very hard not to say 'you idiots.'
+- Soma settled Boney near the stables and told him to chill out there.
+- Ten years after the confirmation, Lady Verres Sent the war-mage demanding an apology for her husband's hearing testimony.
+- The party decides to approach the hunting lodge from the south.
+- The word 'Dawn' in the elder's mouth touched the bodily place Valphine's own conversion had started from.
+- Valphine calls the orc archers 'aerosluts'.
+- Valphine wiggles the Talos bolt on the shield and it pops free in her hand.
+- Vorga decided to stay at the hunting lodge instead of returning to Icespire Hold, citing her people's slow speed and the pursuing creature.
+- Vukradin describes Boney as 'cannon fodder' with great seriousness.
+- Vukradin said 'Not worthy' about Falcon's cloak worn by Vorga, and Valphine agreed.
+- Vukradin says he will not do anything more for Falcon unless he gets an apology for how Falcon treated him at the Druid Council.
+
+## Chapter 43
+
+- Vukradin cast a hypnosis spell on the enemy lines.
+- Vukradin's hypnosis spell charmed ten orcs and left six uncharmed including Gorthok.
+- Vukradin's hypnosis spread through the massed orcs, charming 10 of them.
+- 10 orcs were charmed by the hypnosis, 6 were not.
+- Vukradin warned allies not to attack the hypnotized orcs because they will remain hypnotized unless someone else wakes them.
+- Vukradin counted ten charmed and six uncharmed enemies, confirming the split twice.
+- The clarification counted six uncharmed and ten charmed, which Vukradin confirmed twice.
+- Gorthok's lightning attack is not a spell and silence will not suppress it.
+- Valphine plans to work a hush spell onto Boney and move him around to carry the silence zone over the anchorites.
+- Valphine measured that Boney could loop around the back and not incur attacks of opportunity if he pushed hard.
+- Boney could loop around the back wall without incurring attacks of opportunity using a full push.
+- An anchorite read the approaching silence and broke toward the edge of the zone.
+- Boney had reach and the right angle for an attack of opportunity against the fleeing anchorite.
+- An anchorite escaped Valphine's silence bubble by moving out of range before Boney's attack of opportunity could land.
+- Boney took an attack of opportunity on an anchorite who broke toward the edge of the silence zone but the blow swung wide.
+- Boney's attack of opportunity swung wide and the anchorite made it out of the silence zone.
+- The anchorite avoided Boney's bone swing.
+- The anchorite escaped the silence zone after Boney's missed attack of opportunity.
+- A silence bubble centered on Boney's saddle moved across the yard with the dead horse.
+- Valphine created a silence bubble centered on Boney.
+- Soma's pillar of light forced the nearest shapeshifters back into their own skin.
+- Soma's pillar of light, the moonbeam, forced shapeshifters back into their own skin as it dropped through the roof of the world.
+- Vukradin told allies not to touch the persuaded orcs or they would lose them.
+- The uncharmed orcs woke their charmed friends up by shaking them, losing 3 of them.
+- The uncharmed orcs woke the charmed orcs by shaking them, costing three charmed orcs.
+- Un-charmed orcs shook the persuaded orcs awake, breaking the charm on ten of them.
+- An Anchorite's lightning bolt hit Valphine and Falcon.
+- Falcon fired two arrows at the nearest Anchorite, one hitting and one missing.
+- Gorthok hit Soma with its tusks, folding her with the first strike and finishing with the second.
+- Soma reverted to tortle form and fell onto the mud of Falcon's yard.
+- Brewbarry raged after seeing Soma fall.
+- Brewbarry's first halberd swing hit an Anchorite across the collarbone, with acid hitting after the steel.
+- Valphine's first swing of the Elemental Cleaver hit an Anchorite across the collarbone, with acid burning after the steel.
+- Valphine's second swing of the halberd went wide.
+- Valphine's third swing of the halberd hit the Anchorite harder and killed him.
+- Soma, in elk form, maintained Moonbeam over Gorthok and Anchorite Number 2, who both flinched but shook off the radiance.
+- The Moonbeam struck both Gorthok and Anchorite Number 2, but neither was significantly affected.
+- Vukradin asked Valphine to translate Prutha's Orcish.
+- Soma asked Vukradin if he could use a barbed hex to turn luck against Gorthok, but no one was holding the required resource.
+- Soma charged Gorthok in elk form, hitting it hard with hooves.
+- Valphine took Anchorite Number 1's sight from him.
+- Anchorite Number 1 recovered his sight at the end of the blindness.
+- Anchorite Number 1's blindness shook loose, but he had lost his moment in the battle.
+- Gorthok hit Soma twice.
+- Soma's elk form stopped after the second strike from Gorthok.
+- Soma came back as herself, a tortle.
+- Soma's Moonbeam went out when she lost her elk form.
+- Soma's Moonbeam went out when she was knocked down.
+- Gorthok ended his advance just outside where the Moonbeam had been.
+- Gorthok stopped his advance just outside the area where the Moonbeam had been, a very narrow margin.
+- Two allied orcs went down to a concussive burst from outside the silence bubble.
+- Two allied orcs went down to a concussive burst thrown from outside the hush.
+- Two allied orcs were felled by a concussive burst thrown from an Anchorite outside the hush bubble.
+- A third allied orc was knocked back hard by the same burst.
+- An Anchorite positioned outside the silence bubble was able to cast spells.
+- The Anchorite outside the quiet zone could still cast spells.
+- Vukradin cast Command targeting the Anchorite near Prutha and Gorthok simultaneously, making them grovel.
+- Vukradin's Command spell covered both the Anchorite near Prutha and Gorthok simultaneously.
+- Gorthok and the Anchorite near Prutha both went down to Vukradin's Command.
+- Gorthok goes down, folding sideways into the earth.
+- The Anchorite closest to Prutha hits his knees.
+- Valphine sends a bolt in Lathander's name toward the most wounded cultist, dropping him to nearly nothing.
+- Valphine's bolt is aimed at the most wounded cultist.
+- Valphine's bolt hit the Anchorite, dropping him to nearly nothing with two shallow breaths from ending.
+- Boney was hit by a lightning bolt from the Anchorite with clear sightlines.
+- An Anchorite with clear sightlines sends a lightning bolt at Boney.
+- Boney flinched from the lightning bolt, the whole chassis stuttering.
+- Boney is hit by the lightning bolt and flinches, his whole chassis stuttering.
+- Soma repositioned the Moonbeam over Gorthok.
+- The Moonbeam is repositioned over Gorthok.
+- Soma rolls two tens and a nine.
+- Gorthok takes half damage from the Moonbeam, leaving him barely a breath of life.
+- The Moonbeam damage is twenty-nine, cut in half.
+- Gorthok is left with barely a breath of life.
+- Soma attacks Gorthok with her elk hooves and knocks him dead on the first blow.
+- Soma's elk kicked Gorthok for the killing blow.
+- Gorthok rose again after being knocked dead, using Revivify.
+- Gorthok died to the Moonbeam at the end of his turn.
+- Vorga, the Warchief of the allied orc contingent, entered the fight with a War Cry.
+- Vorga's War Cry gave advantage to Falcon, Soma, and Brewbarry.
+- Vorga, the Warchief of the allied orc contingent, lets out a War Cry that names Falcon, Soma, and Brewbarry, granting them advantage.
+- Prutha drives into the Anchorite.
+- One orc killed an Anchorite and shouted something in orcish about the gods and the sun.
+- The last orc goes down before Vukradin finishes a swing.
+- The last orc went down before Brewbarry finished a swing.
+- Brewbarry grew to twice his normal size during the fight.
+- Brewbarry has grown to twice his normal size.
+- There was one Anchorite left, almost nothing in him.
+- Vukradin put a vision of Lathander on the remaining Anchorite.
+- Vukradin put a vision of a god—the sun god—before the last Anchorite.
+- Vukradin's vision of a vast, blinding god-like figure of the sun god forms before the Anchorite.
+- The Anchorite screams about a drow and Talos, admitting he burned a shrine and broke the handles.
+- Falcon hits another anchorite three times in a row.
+- Prutha put two spear strikes into a prone Anchorite, both landing.
+- The thunder Gorthok carried follows him into death.
+- Two of the orcs broke from the yard at a run, heading for the treeline.
+- Two orcs break from the yard and run toward the treeline.
+- Falcon reached for his bow and shot at the fleeing orcs.
+- Falcon reached for his bow as the orcs fled, nocking and drawing and loosing with efficiency.
+- Soma called the standoff with the orcs a draw.
+- Prutha brought his axe down with finality on a downed orc.
+- Prutha brought an axe down with finality, killing someone.
+- Soma said 'such senseless violence' about Prutha's axe blow.
+- Vorga's warriors echoed back her gesture with cheers.
+- The party became honorary members of Vorga's orc tribe.
+- Vorga declared the party members of the tribe, honorary.
+- The orc warriors raised bloodlusty cheers.
+- Vukradin joined in singing The Hand Obould Offered.
+- Vukradin looked surprised at himself while singing.
+- Soma stood in the yard with blood on his shell and a staff in his hand listening to Valphine and Vukradin harmonize with the orc war party at dusk.
+- Falcon's enthusiasm would have embarrassed him a week ago.
+- Vukradin remarked about Falcon having no real core convictions.
+- Valphine proposed to three of the orcs that they stay, work, and be useful at the lodge, and they agreed.
+- Valphine was already talking to three of the orcs about staying and working.
+- Three orcs agreed to stay and work at the lodge.
+- Brewbarry came up from the cellar and found the wine casks staved and emptied into the earth.
+- The Anchorites staved and emptied the wine casks into the earth before any of this began.
+- The party discussed that the Woodland Manse is empty now, its residents having just attempted to unmake them.
+- Valphine raised the question of a working to recall Don Jon Raskin's soul from the far side of death entire, musing about some creative ritual that doesn't require a cooperative cleric.
+- Valphine muses about a creative ritual for Don Jon Raskin.
+- Soma felt a new depth and new reach from the staff, a readiness and potential that would need to be earned.
+- Soma felt new depth and new reach from his staff after the battle.
+- Soma sat down on a section of ruined fence and felt new depth and new reach in himself after the battle, a readiness and potential that would need to be earned before it was given.
+- Brewbarry was pleased about going first for once.
+- Vukradin listed his new workings with the quiet deliberation of a man shopping at a market.
+- Vukradin listed 'the art of becoming someone else's shadow' as one of his new workings.
+- Vukradin listed his new workings: the art of becoming someone else's shadow, the art of rewriting a body entire, the door that opens onto elsewhere.
+- Vukradin listed 'the art of rewriting a body entire' as one of his new workings.
+- Vukradin listed 'the door that opens onto elsewhere' as one of his new workings.
+- It was full dusk with the lodge lit from within.
+- It was full dusk.
+- The new stewards were presumably being lectured about collar starching or something of similar urgency inside the lodge.
+- An anchorite outside the silence bubble sent a lightning bolt across the yard that hit Brewbarry and Falcon.
+- Brewbarry killed the last Anchorite with a solid hit from his halberd.
+- Brewbarry raged, feeling himself get taller and the reach on the halberd double.
+- Brewbarry read something off a page and said 'going first — actually going first, for once, nice' in the voice of a man who has been given exactly the gift he wanted.
+- Brewbarry's first swing with the Elemental Cleaver hit an anchorite across the collarbone with acid, and a second swing folded him and finished him.
+- Brewbarry's second swing hit lower and harder, and the Anchorite folded and was put down.
+- Falcon hits the other Anchorite three times in a row with his longsword.
+- Falcon immediately pivoted from honorary tribesman to lord of the estate and told the orcs he would teach them how to dress properly.
+- Falcon shouted 'Huzzah!' with enthusiasm.
+- Gorthok rises back to life, a single thread of life reconstituted.
+- Gorthok struck Soma twice, the second hit causing Soma's elk form to collapse and forcing him back to his tortle form.
+- Prutha charged an Anchorite, screaming in orcish and Common: 'Die, you scum of scums!'
+- Prutha charged out and engaged an orc in combat, exchanging Orcish insults as they swung swords.
+- Prutha charges an Anchorite screaming in orcish and Common, invoking his uncle, the sun god, and Lathander.
+- Prutha drove into the Anchorite with both hands.
+- Prutha screamed 'for uncle, for my uncle, and the sun god, and Lathander' while charging.
+- Soma dragged the Moonbeam back over Gorthok and repositioned Boney to keep the silence bubble over the Anchorites.
+- Soma held the moonbeam on Gorthok and Anchorite Number 2, but both shook off the effect and Gorthok absorbed it like a wall.
+- Soma hit Gorthok with a follow-up hoof, a real hit that tore something serious out of the beast, but Gorthok remained standing and furious.
+- Soma landed a real hit on Gorthok with a follow-up hoof strike, causing damage but not bringing the beast down.
+- Soma's Moonbeam spell ended when he lost his elk form.
+- The Anchorite breaks, screaming and confessing.
+- The last Anchorite broke, screaming about Talos and that he burned a shrine and broke handles.
+- The last Anchorite has almost nothing left, two hits of anything would finish him.
+- The orcs charmed by Vukradin stood near the fence looking at nothing.
+- The silence hit first, centered on Boney's saddle, moving with the dead horse.
+- Valphine began singing an orc-reconciliation legend called The Hand Obould Offered.
+- Valphine planned to move Boney around to carry the hush across the area.
+- Valphine raged, increasing in size and reach.
+- Valphine started singing The Hand Obould Offered.
+- Valphine used Lathander's power to blind Anchorite Number 1, saying she felt Lathander's power as she did so.
+- Vukradin casts Command with the word 'Grovel' targeting the Anchorite closest to Prutha and Gorthok simultaneously.
+- Vukradin drifted toward the guest house to nap, saying he had a long day and threw everything he had at them and most of it bounced.
+- Vukradin lands a solid hit on the last Anchorite, killing him.
+- Vukradin tried a command on Gorthok that should have forced it to kneel, but Gorthok did not obey.
+- Vukradin tried a command word on Gorthok to kneel it, but Gorthok did not kneel, prompting Vukradin to call it an asshole.
+
+## Chapter 44
+
+- Rimardo announced himself as contracted for the eight o'clock show, though it was later than eight o'clock.
+- Rimardo intended to perform an eight o'clock show at the Falcon's Lodge.
+- Rimardo was contracted for the eight o'clock show.
+- It is considerably later than eight o'clock when Rimardo arrives.
+- Rimardo delivered a sweeping critique of the party's recent battle as though it had been a theatrical production with serious pacing problems.
+- Rimardo mocked the lodge's missing front door as a bold embrace of the open-air concept.
+- Rimardo declared that the true tragedy of the evening was the destruction of the wine cellar.
+- Rimardo paused for a moment of silence on behalf of the wine cellar.
+- Rimardo noted that the men had stopped mid-apocalypse to drink what remained, calling it terrible theology and flawless hospitality.
+- Rimardo ignored the Falcon entirely when he sputtered that he never hired anyone.
+- Corrin laid down cards that illustrated cryptic warnings about what lay ahead.
+- A card depicting a coastal town half-submerged in rising water appeared.
+- A drowned gate card appeared, weighted down with a chip of blackened coral.
+- A tiny suit of armor was produced from nowhere and turned its head to look at the assembled party.
+- Rimardo stated that multiple gods of fate were circling, each convinced they were the headliner, meaning none of them were.
+- Rimardo said six gods of fate meant six opening acts warming up a house that had not yet announced who they were warming up for.
+- Corrin produced a smooth gray stone that simply ceased to exist in his hand.
+- Corrin peeled back a card showing a green dragon like a sticker to reveal something older and colder beneath—a pale, lightning-touched creature of far greater age and menace.
+- The lamps guttered and when the light returned, the hall doors were shut and there was no one left to have shut them.
+- The hall doors shut and there was no one left to have shut them after the performance concluded.
+- Vukradin attempted to recruit the performers as investors in his music studio and played for them in hopes of impressing them.
+- Vukradin played for Rimardo and Corrin in hopes of impressing them as investors in his music studio.
+- Vukradin received a cryptic promise from Rimardo that they would perform together at the very end — the end of what, Rimardo did not say.
+- Rimardo gave Vukradin a single gold coin and a cryptic promise that they would perform together at the very end.
+- The party resolved to set aside the mystery for the morning and focus on retrieving the Boots of Elvenkind from the Woodland Manse and investigating a nearby shrine of Savras.
+- At the Woodland Manse, Vukradin used a rare gift of magical speech to communicate directly with the boars grazing outside.
+- The boars warned the party that while the grounds were peaceful, the interior of the manse was another matter entirely.
+- In a smashed cabinet in the parlor, Brewbarry discovered the sole surviving bottle of wine from the manse's stores and drank it.
+- Spotting a boar in the courtyard that Vukradin recognized as a shapeshifted anchorite of Talos, Brewbarry charged in with his great axe.
+- Brewbarry charged the anchorite with his great axe, motivated by righteous fury and a deep personal grievance over destroyed wine.
+- The anchorite shouted commands that caused vine blights to tear themselves free from the courtyard tree.
+- Vukradin unleashed a flourish of magical cards that shredded several of the blights where they stood.
+- Prutha hacked through a vine blight with his great axe.
+- Brewbarry smashed through the last of the twig blights, reducing them to a fine mist of sawdust.
+- Valphine conjured a sphere of inky, psychic darkness through the doorway that filled the chamber and obliterated every remaining creature within it in a single devastating surge.
+- The party spread out to explore the manse's interior after clearing the courtyard.
+- Soma, still in bear form, climbed through a hole in a collapsed ceiling to scout the upper hallway.
+- Valphine investigated a chamber filled with copper rods hammered into the ruined walls, boar tusks wrapped in copper wire, and blackened iron nails.
+- Talos prayers had been rewritten on parchment scraps tacked to lintels, their verbs changed to imperatives—timing instructions rather than devotions.
+- The lightning bolt symbols in the chamber were too precise and geometric, suggesting something calculated and deliberate.
+- The lightning bolt symbols were too precise and geometric, suggesting something calculated and deliberate rather than merely fanatical.
+- Prutha stood beside Valphine and said nothing, but his unease was plain on his face.
+- Brewbarry attempted to ascend the main staircase, which promptly collapsed under his weight and sent him crashing down onto spikes below, destroying the only staircase.
+- Soma, pushing deeper into the upper floor, stepped through a doorway and was immediately set upon by three blood-sucking stirges dropping from the darkness above.
+- Rimardo tells the party they will be 'a better' audience 'in Leilon,' where they will 'have context.'
+- Brewbarry drank the entire surviving bottle of wine immediately after finding it.
+- Brewbarry charged into combat against the anchorite who destroyed the rest of the wine.
+- Valphine conjured a sphere of inky psychic fog through the doorway, filling the chamber.
+- The psychic fog obliterated the remaining twig blights and the anchorite of Talos in a single devastating surge.
+- A decisive and overwhelming finish to the courtyard battle clears the room of every remaining enemy in one action.
+- Brewbarry confidently strides onto the weakened staircase, which immediately collapses under his weight, sending him crashing down onto spikes below.
+- The collapse completely destroys the only staircase in the manse.
+- Rimardo and Corrin stride into the dining hall uninvited.
+- Corrin makes eye contact with exactly one person and holds it a beat too long.
+- Rimardo opens his performance with 'A round for the survivors' and 'a smaller round for the ones who almost survived.'
+- Rimardo opens with 'A round for the survivors' and 'a smaller round for the ones who almost survived,' telling them to hold their applause because 'you'll need it' after 'a long day of not dying.'
+- Rimardo delivers a dramatic monologue critiquing the party's recent battle with a boar as if it were a theatrical production, mocking the pacing and blocking.
+- Rimardo mocks the party's 'hypnotism bit' pointing at Vukradin—'10 in the front row, out cold, before a sword's drawn'.
+- Vukradin is described as out cold for a hypnotism bit lasting 10 seconds.
+- The dice act lasts 4 seconds.
+- Rimardo mocks the boar dying 'to a good blocking' rather than as a hero.
+- Corrin runs a gloved finger along a scorched timber and examines it like a sommelier, saying 'Ozone, a confident ozone. Last week's headliner really left it on the stage.'
+- Rimardo mocks the destruction of the lodge, the 'open-air concept' where the front door used to be, and mourns the loss of the wine cellar.
+- Rimardo notes the cultists 'slaughtered every cask' before pausing mid-apocalypse for a glass.
+- Rimardo states 'The pay is exposure. The first lesson is which fork? The second lesson is that there's never a reason to need a second fork, and the man teaching you is lying about the cutlery the way he lies about dragons.'
+- Rimardo recites the 'House rules': (1) 'no requests. We are the request. You simply haven't been billed yet,' (2) 'non-refundable, academic, as no one has paid,' and (3)—which Corrin physically 'redacts' by pulling down a third finger—struck from the record.
+- Corrin physically 'redacts' Rimardo's third house rule by pulling down a third finger.
+- Rimardo says 'We've stopped asking, the lawyers have stopped asking, the gods have largely stopped asking.'
+- The Falcon confronts the intruders, insisting he never hired them and never signed any contract, which Rimardo ignores entirely.
+- Corrin uses a deck of cards to illustrate cryptic warnings: a card of a coastal town half underwater, a drowned gate weighted with a blackened coral chip, and a tiny suit of armor that turns its head to look at the party.
+- Corrin uses a deck of cards and magical props to illustrate cryptic warnings, including a card of a coastal town half underwater.
+- Corrin shows a drowned gate weighted with a blackened coral chip.
+- Corrin shows a tiny suit of armor that turns its head to look at the party.
+- Rimardo warns of 'the storm you've met,' saying 'They're touring, actually. Weather's a reliable draw.'
+- Rimardo reveals that multiple gods of fate are acting as opening acts for an unannounced headliner, with no single god being the true headliner.
+- Corrin turns over a blank card three times.
+- Corrin demonstrates a smooth gray stone that 'unhappens' things—'There's a prop in the third act that unhappens things. Audiences adore it! Terrible for continuity'—causing it to simply stop existing in his hand.
+- Rimardo speaks of the dragon: 'The understudy is playing the lead, and no one told the audience' — 'a far older and far worse actress than the part requires.'
+- A card showing a green dragon is peeled back like a sticker to reveal an older, colder, lightning-pale dragon underneath.
+- Vukradin attempts to recruit the performers for a music studio investment and performs for them, rolling a natural 20 for a 27 total.
+- Vukradin performs for Rimardo, rolling a natural 20 (27 total), and earns a single gold coin and a cryptic promise to perform together 'at the very end.'
+- Vukradin earns a single gold coin and a cryptic promise from Rimardo to perform together 'at the very end.'
+- Rimardo and Corrin vanish as the lamps gutter and the hall doors shut on their own, with no one present to have shut them.
+- Vukradin's natural 20 religion check fixates his mind on the impossibility of multiple gods of fate.
+- The party recognizes the performers are 'not sending you on a quest' but 'telling you what's already happening in the wrong genre'.
+- The performers ask for nothing, pay nothing, and charge nothing.
+- Vukradin concludes 'if multiple beings control fate simultaneously, there can be no true predetermined destiny'.
+- The Falcon asks 'were they any good?' and Vukradin responds 'I don't think so'.
+- Valphine declares 'We should cancel their late night show'.
+- The party discusses the state of Falcon's Lodge and the need to repair the brewery to restore the wine supply.
+- Brewbarry, motivated by the promise of future beer after a failed wisdom save of 5, agrees to help with the repairs.
+- The party decides to head to the Woodland Manse (an hour's walk) to collect the Boots of Elvenkind and then investigate a shrine of Savras.
+- Valphine decides that Prutha will accompany the party to the Manse rather than stay with his tribe.
+- Vukradin burns his universal speech ability on the boars, declaring 'The power of Talos has been defeated. We are here to bring the glory of Lathander. Join us now.'
+- Vukradin burns his universal speech ability on the boars.
+- Vukradin tells the boars 'The power of Talos has been defeated. We are here to bring the glory of Lathander. Join us now.'
+- The boars fixate on whether 'the unpleasant boars that were not obeying the rules about who got to eat what' are gone for good.
+- The boars ignore the theology entirely, fixating instead on whether 'the unpleasant boars that were not obeying the rules about who got to eat what' are gone for good.
+- Confirmed that the rule-breaking boars will not return, the relieved boars respond 'Wonderful! Wonderful!' and head off to eat more pumpkin.
+- A boar warns the party that 'just the other day, we went in there, and it was not as safe as it usually is' — the outside is secure, but the inside remains a 'hot mess.'
+- A second boar warns the party that 'just the other day, we went in there, and it was not as safe as it usually is'.
+- The stone balcony at the Woodland Manse portico is at a height of 10 feet.
+- Vukradin grants the party bardic inspiration and Valphine readies Bless before they push into the ruined interior.
+- Vukradin grants the party bardic inspiration before they push into the ruined interior.
+- Valphine readies Bless before they push into the ruined interior.
+- Brewbarry discovers a single surviving bottle of wine in the parlor and immediately chugs it.
+- Valphine, speaking Orcish, lures a boar and identifies it as a shapeshifted anchorite of Talos.
+- Brewbarry charges into the courtyard to attack the anchorite, told there is 'an anchorite over there who's responsible for the destruction of the wine'.
+- Brewbarry charges in and lands a powerful blow on the anchorite for 27 damage.
+- Valphine calls down Sacred Flame (DC 15 Dex save) for 8 points of damage on the anchorite.
+- The anchorite shifts from boar form into his true anchorite form.
+- Brewbarry strikes the anchorite again with an attack of opportunity as the creature attempts to reposition.
+- Vukradin unleashes a spray of magical cards (a 15-foot cone, DC 15 Dex save, 23 damage), shredding several of the vine blights where they stand.
+- Vukradin unleashes a spray of magical cards that is a 15-foot cone and deals 23 damage.
+- Prutha charges into the fray, hacking down vine blight number 4 with his great axe for 9 damage.
+- Soma transforms into a brown bear, squeezes into the cramped room, and bites and claws through the encroaching plant creatures.
+- Soma bites and claws through the encroaching plant creatures, killing vine blights 2 and 3.
+- Soma kills vine blights 2 and 3 using a bardic inspiration to land a hit.
+- A vine blight conjures grasping roots in a 15-foot radius (DC 12 Strength save), but the entire party breaks free.
+- A swarm of twig blights rushes into the room, surrounding Soma in bear form and clawing at her, landing only 3 damage against her temporary hit points.
+- Valphine conjures a Doom Sphere — a 20-foot radius of inky, magical darkness dealing 5d6 psychic damage — through the doorway, obliterating the remaining twig blights and the anchorite.
+- Valphine conjures a Doom Sphere — a 20-foot radius dealing 5d6 psychic damage.
+- The Doom Sphere damage roll is 7.
+- The Doom Sphere obliterates the remaining twig blights and the anchorite (who fails his Wisdom save).
+- Soma, still in brown bear form, opens a door to a ruined room that once served as a kitchen, dining room, and bedchamber, with four beds, four wardrobes, a dish cabinet, and a collapsed ceiling in the corner leaving a jagged hole to the room above.
+- Soma climbs through the hole in the collapsed ceiling (using a 30-foot climb speed) to reach the upper floor.
+- Soma finds the room on the upper floor once held by orcs of the Cult of Talos now empty.
+- Brewbarry attempts to climb the main staircase, whose upper half collapses under any weight over 50 pounds (DC 17 Dexterity check); he fails, falls onto three spikes for 14 damage (3d6), destroys the staircase entirely, and loses his rage.
+- Brewbarry fails a DC 17 Dexterity check to climb the main staircase, falls onto three spikes for 14 damage, destroys the staircase entirely, and loses his rage.
+- Valphine dismisses the lingering Doom fog after a listening perception check confirms nothing is still moving.
+- Valphine inspects a room filled with copper rods hammered into the ruined walls and foundations.
+- The party discovers Talos prayers rewritten as imperative timing instructions on parchment scraps tacked to the lintels, alongside boar tusks wrapped in copper wire and blackened iron nails arranged in a lightning bolt symbol that is "too geometric."
+- An Arcana check (9) confirms it is safe to enter the ritual chamber.
+- Prutha follows Valphine into the ritual chamber and says "I make things safe for Cleric of Lathander."
+- Soma enters a new room on the upper floor and is immediately ambushed by three blood-sucking stirges dropping from above, ending the session on a cliffhanger.
+- Brewbarry immediately chugged the bottle of wine, taking about a minute to finish.
+- Vukradin used Universal Speech to communicate with the local boars at the Woodland Manse to learn about the state of the manse.
+- Valphine called down Sacred Flame to strike the anchorite of Talos during the courtyard battle.
+- Vukradin unleashed Spray of Cards in a 15-foot cone, dealing 23 damage and shredding several vine blights manifesting near the courtyard tree.
+- Valphine conjured Doom Sphere in a 20-foot radius that deals 5d6 psychic damage to all creatures within it each turn and moves 10 feet away from her each turn, cast through the doorway into the courtyard chamber.
+- Valphine conjured a sphere of inky magical darkness that obliterated the remaining twig blights and the anchorite of Talos in a single surge.
+- Valphine's Doom Sphere obliterated the remaining twig blights and the anchorite of Talos in a single surge after the anchorite failed his Wisdom save.
+- Valphine cast Bless at the start of the manse incursion, granting the party bonuses on attack rolls.
+- Vukradin granted Bardic Inspiration to the party before entering the manse.
+- The Anchorite summoned vine blights and twig blights to defend the Woodland Manse.
+- The Anchorite shifted from boar form into his true anchorite form mid-battle.
+- The Anchorite met his end within Valphine's sphere of psychic darkness after failing his Wisdom save.
+- Vine blights can conjure grasping roots in a 15-foot radius (DC 12 Strength save to avoid being restrained).
+- The twig blights were destroyed by Brewbarry and reduced to a fine mist of sawdust.
+- Brewbarry drank the manse's last bottle of wine before the fight.
+- Brewbarry suffered a painful 14-damage fall onto spikes when the manse's staircase collapsed under his weight, ending his rage.
+- Brewbarry was persuaded to help rebuild the lodge with the promise of beer.
+- Corrin physically 'redacts' a third finger from Rimardo's count, pulling it down and striking it from the record.
+- Corrin physically 'redacts' the third house rule by pulling down a third finger.
+- Prutha breaks free of the grasping roots and stands beside Valphine in the ritual chamber.
+- Rimardo 'hires' the three confused orc stewards as fresh staff, telling them 'The pay is exposure.'
+- Rimardo recites the 'House rules,' including rule one: 'no requests. We are the request. You simply haven't been billed yet.'
+- Rimardo warns of a sealed door beneath the stage that management insists is 'structural,' lying as management always does.
+- The party clarifies the orcish tribe genuinely wants to return to their old home rather than settle at Falcon's Lodge.
+- Valphine rolls a 21 Insight and feels the entire performance is 'uncanny and constructed'.
+
+## Chapter 45
+
+- Brewbarry falls through the collapsed staircase and lands on splintered wood.
+- The staircase collapsed under weight and Brewbarry landed on splintered wood, some of which drove into him.
+- Brewbarry got up after lying in the rubble.
+- Soma hauls her bulk up to the higher level through a ragged hole in the floor.
+- Brewbarry said he would go into a rage and into his giant form, and the world got smaller around him as his hands grew big as anvils.
+- Brewbarry enters a rage and grows into his giant form.
+- Brewbarry offered to lift Vukradin up with him through the hole.
+- Brewbarry offers to lift Vukradin up through the hole, but Vukradin waves him off.
+- Vukradin tells Brewbarry to go kill stirges without him.
+- Brewbarry leapt and the whole broken run of staircase passed under him like a curb, landing up top in the middle of the swarm.
+- Brewbarry grabbed the first stirge bare-handed and broke it in two like a wineskin.
+- Brewbarry misses grabbing the second stirge.
+- Brewbarry swung for the second stirge and missed, his hand closing on air.
+- Brewbarry's swing came back around and he killed the second stirge, then cleaved straight into a third, splattering it.
+- Brewbarry kills the second stirge and then cleaves into a third, killing both.
+- Brewbarry opened the second stirge and the cleave carried him into a third, splattering both into blood and mud.
+- The bite got through Brewbarry but the heat took it and he felt nothing.
+- Vukradin sang cruel words at the stirge on Brewbarry and when it shrugged him off he doubled down and the stirge dropped dead in the air.
+- Soma's jaws close on a stirge and it bursts.
+- Soma kept a tally: she took two and Brewbarry took two.
+- The last stirge went up in a burst of bug juice.
+- Brewbarry stood in the spatter grinning under the helm and rejoiced in the blood.
+- Vukradin asked Brewbarry to pull him up and Brewbarry reached down for him.
+- Three more stirges drop onto Vukradin from the dark as he is being pulled up; one bites him.
+- Three stirges dropped onto Vukradin and he said 'Well, it's about time somebody hit me.'
+- Brewbarry told Vukradin to move a little for precision and then killed two more stirges on him with cleave.
+- Brewbarry cleaved through the two stirges clinging to Vukradin, killing them.
+- Soma squinted into the rafters and announced with great confidence that it was all clear.
+- Valphine stood under the hole and let the last stirges fall on her, then blazed and the orc bellowed about the power of the sun.
+- Prutha thumped his chest and roared 'behold the power of the sun.'
+- On the second mockery the stirge came apart and died.
+- Vukradin's mockery killed the stirge on Brewbarry on the second attempt.
+- Soma killed a stirge wearing her as a brooch by closing her jaws on it, bursting it into pieces.
+- Soma stepped to the stirge on Brewbarry, careful with her claws, and ended it.
+- Soma kept a count of the stirges she killed: two for her, two for Brewbarry.
+- Brewbarry found the last stirge he could see, missed him, then opened it when it came back.
+- The stirge exploded in a blast of bug juice when Brewbarry killed it.
+- Valphine observed Brewbarry rejoice in the blood, calling it one of the more honest prayers offered in the party.
+- Three stirges dropped onto Vukradin from the high dark and their needles went into him.
+- Brewbarry cleaved through the three stirges on Vukradin with his long reach.
+- Valphine saw the two stirges tucked where the light didn't reach, high up where the beams crossed.
+- Valphine used her old Menzoberranzan habit to see the two stirges hidden in the rafters.
+- Valphine decided not to call a word of holy light because the radiance would die in the air before touching the high stirges.
+- Valphine stands under the hidden stirges and lets them drop onto her.
+- Valphine went and stood beneath the two hidden stirges, holding the prayer behind her teeth, waiting to be found.
+- The two stirges dropped and their needles went into Valphine.
+- Valphine emanates holy light and the stirges attached to her turn to ash on her skin.
+- Valphine let the light out as she felt the stirges latch, emanating radiance that turned the stirges drinking her blood to ash on her skin.
+- The party went up onto the balcony, the long landing above the stairs.
+- Vukradin pushed at what he thought were doors and found them only paintings.
+- Brewbarry declared 'Cannonballed' before anyone could stop him.
+- Vukradin stood at a wall and announced he was searching right around there, that something seemed missing on the map, and he guessed correctly about a secret door.
+- Vukradin stood at the wall and announced he was searching for a secret door, guessing correctly because he compared the first and second floor plans.
+- Soma wanted the fireplace and asked if there was anything in there.
+- Vukradin realized Soma took the staff of bird calls without his knowledge.
+- Vukradin proposed returning the entire building to its rightful owner.
+- Vukradin suggested locking the door and leaving the items for the proper heirs.
+- Crude figures painted in blood on the wall showed stick-limbed humanoids and boars chasing them, the same brown-rust smear repeated across the plaster.
+- Vukradin recalled the cursed effigies in the forest that he had reached for before he knew better.
+- Vukradin references having encountered cursed effigies in the forest before.
+- Vukradin refused to let the question about touching the figures finish before answering no.
+- Soma recognized the twig figures as similar to cursed effigies the party encountered in the forest.
+- Vukradin recognizes that the twig figures on the mantel are effigies similar to cursed ones encountered in the forest.
+- Vukradin recalled that Brewbarry held because of the wise women of his village: never lay a hand on a cursed artifact.
+- Vukradin stated he learned his lesson and is not touching the effigies.
+- Valphine said 'I think I'll burn the Valphine one to ash.'
+- Valphine uses sacred fire to burn the twig figure representing herself.
+- Valphine burnt the twig-Valphine figure to ash with a finger of sacred fire from a distance.
+- After Valphine burns the effigy, the other three twig figures animate into twig blights.
+- The other three twig figures shuddered, unbent, and stood up on root-thin legs with eyes opening.
+- Soma said destroying the blights was necessary to make the place safe for innocent people.
+- Valphine said 'I was called by Lathander to do it.'
+- Vukradin sang a bright note, sending a mote of starlight that struck and destroyed the nearest twig blight.
+- Vukradin sang a single bright note, a mote of starlight, that struck the nearest blight.
+- Vukradin sang a single bright note and struck a twig blight with a mote of starlight, killing it instantly.
+- Vukradin sings a single bright note of starlight that strikes and destroys the first twig blight.
+- Brewbarry swatted at the remaining two twig blights as they gnawed at his shins.
+- Valphine speaks a Word that emits a hard ring of holy radiance, scorching the remaining two twig blights to nothing.
+- Valphine spoke a Word and light pulsed outward in a hard ring, destroying the remaining two twig blights.
+- Prutha stole the candelabra and gave it to Valphine, crossing a private line for her.
+- Vukradin gathered the party into a tight circle and cast a working that would not let a lie stand.
+- Prutha admitted he had taken something, then produced rocks from his pockets one after another, and eventually walked out of the circle.
+- Brewbarry confessed to taking a bathrobe, slippers, and sample shampoos from the Falcon's Nest.
+- Soma confesses to taking the Staff of Bird Calls.
+- Valphine admitted under Zone of Truth to taking the Dust of Disappearance tucked into the hollow of a book of Elven Idioms.
+- Brewbarry pointed out that Prutha also stole a bathrobe from the Falcon's Nest.
+- Brewbarry points out that Prutha also stole a bathrobe, and Prutha claims it is from the Falcon.
+- Vukradin says the party needs to return the entire building, not just the taken items, to its rightful owner before the Falcon takes it.
+- The Zone of Truth wears off and there is nothing left to lie about.
+- The party returns to Falcon's Lodge the day after the Woodland Manse clearing.
+- Soma folded herself down out of whatever shape she'd been wearing and went back to being a turtle.
+- Valphine tells Falcon that the party cleared the Woodland Manse of hostiles.
+- Vukradin refused to admit he knew the comedy act before that night.
+- There was a deadline pressing the party toward Neverwinter that they have blown through.
+- The group learns there has always been a path that avoids the stone giants.
+- Valphine drew Prutha aside from his kin to speak with him.
+- Lathander gave Valphine a vision that she has new instructions for Prutha.
+- Valphine had a vision from Lathander and received new instructions for Prutha.
+- Valphine instructed Prutha to convert any more of the orcs in the Ice Bear Mountains to Lathander's cause.
+- Valphine experienced a vision from Lathander that came down through her skull like a nail of light, painfully exquisite.
+- Valphine's eyes filled with a blinding, molten golden hue, burned in permanent, a brand worn from the inside out.
+- Valphine understood without being told that anyone who lied to her now would feel it crawl across the back of their neck.
+- Anyone who lied to Valphine would feel it crawl across the back of their neck.
+- Valphine felt two new gifts settle into her, warm and heavy, the way a key settles into a lock it was cut for.
+- Two new gifts settled into Valphine, warm and heavy, like a key settling into a lock.
+- Lathander wanted an arm, not a prayer, a body of true believers to enforce his will against aberration and evil.
+- Valphine named the divine arm 'Lathander's searing lights' and said their mission would be to enforce Lathander's will on the world.
+- Five more orcs left the tribe and came to stand at Prutha's shoulder, fervent and ready.
+- Five orcs from the tribe leave to stand with Prutha and convert other orc tribes.
+- The five new orc converts ask where they pillage.
+- Valphine decides the orcs should go with Prutha to convert the other orc tribes.
+- Vukradin decides they should return to Phandalin.
+- Vukradin said 'I think we should head back to Phandalin. Our work here is done' and began turning toward home.
+- The group plans to stop at the Mountain's Toe Gold Mine to pick up money.
+- Soma said 'Mountain's Toe Gold Mine' when Vukradin said to stop by the mine to pick up money.
+- When the party arrived at the gold mine, the wererats jumped to attention at the sight of them.
+- Horia Stonetallow arrived with the ledger and said after the cut to the Neverwinter Commission, the dividend was thirty gold pieces.
+- The good news from the gold mine is thirty gold pieces.
+- Vukradin learns the gold mine produces only 30 gold pieces per week after costs and the Neverwinter Commission's cut.
+- The gold mine yields 30 gold pieces after costs and Commission cut.
+- The gold mine produces 30 gold per week.
+- A special rock, a gem, was needed for a superstitious dwarf, and production had nearly stalled because of it.
+- Horia Stonetallow says once the new vein gets going they will be rolling in cash.
+- If the mine improves, the party could get 180 gold per month.
+- The wererats asked if the promised cheese from Petunia's happy cows was happening and whether they had to personally fetch it.
+- Vukradin had promised the mine workers cheese from Petunia's happy cows.
+- Vukradin had promised the wererats cheese from Petunia's happy cows, and they ask if it is still happening.
+- Valphine suggests escorting one wererat to town to show him how to secure the cheese, just this once.
+- Vukradin said 'Oh, we're gonna discuss that with them, don't worry' about the Neverwinter Commission's large cut.
+- Vukradin says they cannot take the Dragon Hoard.
+- A vision came down through the top of Valphine's skull like a nail of light, and was the most exquisite pain she had ever been given.
+- Brewbarry confesses to taking a bathrobe and slippers from the manse, including sample shampoos.
+- Brewbarry killed the last visible stirge and it exploded in a burst of bug juice.
+- Brewbarry kills the last stirge he can see, rejoicing in its blood.
+- Brewbarry reaches down and pulls Vukradin up from the bottom of the collapsed staircase.
+- Brewbarry said 'From a gold mine, thirty gold pieces, are you—' in disbelief.
+- Brewbarry's rage-heat shrugs off the stirge's bite, reducing it to a tickle.
+- In the library, Valphine finds the only undamaged book, Elvish Idioms, and a tiny leather packet of Dust of Disappearance falls loose from it.
+- Prutha is forced to admit he took something, produces rocks from his pockets, and eventually walks out of the Zone of Truth circle.
+- Prutha lifts a candelabra from the dining table and presses it into Valphine's palm, telling her not to say anything to Vukradin.
+- Prutha thumps his chest and roars 'behold the power of the sun' after Valphine's radiance kills the stirges.
+- Soma killed a stirge on Brewbarry, careful not to damage him.
+- Soma searched the beams and said 'Guys, it's all clear!' but missed two stirges.
+- Soma searches the beams and announces the area is all clear, missing two stirges still hidden.
+- Soma, in bear form, picked up the staff from the fireplace and jammed it into the thatch of her fur so it disappeared.
+- Soma, wearing the bear, found a staff tucked away and picked it up, jamming it into the thatch of her fur where it knotted against her shoulder and disappeared.
+- The mine had expenses for insurance for workers, salaries, food supplies, and hazard pay for the remoteness.
+- The mission was clarified to include fighting aberrations, and Valphine repeated the part about fighting aberrations.
+- The party agrees to escort Vorga and the orcs, but is still heading to Neverwinter despite having blown through a deadline.
+- Under the Zone of Truth, Brewbarry confessed to taking a bathrobe, slippers, and sample shampoos from Falcon's Lodge.
+- Under the Zone of Truth, Prutha squirmed and admitted he had taken something, then produced rocks from his pockets.
+- Valphine confesses that she picked up a book of Elven Idioms with a hole cut into it containing Dust of Disappearance.
+- Valphine considers being called the Bishop of Searing Light or A Searing Light.
+- Valphine wanted the desk, saying 'Dusk' then correcting to 'the desk.'
+- Valphine wanted to escort one wererat to town the first time to show him how to secure the cheese, but Vukradin refused.
+- Vukradin asks how long it has been since he had a warm bath, expressing longing for one.
+- Vukradin concluded the twig figures represented the party: 'Us.'
+- Vukradin gathers the party into a tight circle and casts a working that does not let a lie stand.
+- Vukradin says they have blown through the deadline pressing them toward Neverwinter.
+- Vukradin scolds the party for taking items from a house belonging to a known scholar with no next of kin.
+- Vukradin stands at a wall and announces he is searching for a secret door there, correctly guessing its location by comparing floor plans.
+- Vukradin stated 'we can't take the Dragon Hoard' and asked 'how many times do we have to say so?'
+- Vukradin thought 'There is no bathrobe to touch' when the wererat asked about touching Brewbarry's bathrobe.
+- Vukradin took the note from Falcon and tucked it away.
+- Vukradin's mockery kills the stirge attached to Brewbarry.
+
+## Chapter 46
+
+- Brewbarry counted his share of the gold twice and it came out to thirty gold.
+- The party splits 30 gold as their reward.
+- Brewbarry and the party split thirty gold from the mountain of trouble and left the dragon hoard at Icespire.
+- Brewbarry decides that every time they find treasure, there should be a find-us fee, and some of that gold should go toward building his bathrobe business.
+- Brewbarry made a mental note about the dragon's hoard, thinking someone will manage that pile and a finder's fee is the right and proper thing.
+- Brewbarry told Vukradin that if his music studio wants to sponsor the bathrobe business, Vukradin could have a little logo on the bathrobes.
+- Brewbarry admitted he stole a bathrobe from Falcon's Lodge and then gave it back.
+- Valphine dug up a legal word, 'sheetment', a way to force a real election so Harbin Wester stops being a fig leaf with a chain around his neck.
+- Vukradin wants to give Harbin Wester one more shot to abdicate.
+- The party drops Vorga and her tribe off at Icespire, completing their escort debt.
+- They dropped Vorga and her tribe at Icespire, completing the escort and paying the debt.
+- Prutha took his five bright-eyed orcs off to convert Vorga's lot to Valphine's morning god.
+- The party walks back into Phandalin and receives a muted welcome.
+- Valphine told the smith about the Talosians they destroyed, saying 'Because they were weak. You need to follow a stronger God.'
+- Valphine said the town has been protected by the strength of Lathander.
+- Vukradin asked Toblen 'How much to buy the bar a round?'
+- Toblen said if Vukradin was willing to play a song, the drinks would be free.
+- Vukradin offers to buy drinks for everyone.
+- Vukradin admits he has no money.
+- Brewbarry said 'We can sing, you know, achievements, glory.'
+- Brewbarry suggests singing tales of achievements and glory.
+- The group sings tales of the dragon, the henge, and the boar at the Stonehill Inn.
+- Elsa pours the dark beer she keeps for special nights.
+- Vukradin watched the room love their song and said 'Is that how it works? If the song had fallen flat, it would have been the swill.'
+- Ser Kaelen reports that the owners of the recovered treasure, more of them, have been located in Neverwinter.
+- The mermaid statue, dragged behind the party since the war, has been forgotten.
+- Vukradin said 'What statue?' when asked about the mermaid statue they had been dragging.
+- Ser Kaelen reports that an important woman of Neverwinter owns the statue, though her name cannot be recalled.
+- Harbin Wester refuses to convene the Privy Council immediately.
+- Vukradin's charm attempt glances off Harbin Wester.
+- Vukradin's attempt at menace lands flatly on Harbin Wester.
+- Vukradin decides to gather the people himself for a concert.
+- Vukradin and the others throw a concert.
+- Vukradin decided to gather the people himself by putting on a rock concert.
+- Vukradin proposed a rock concert to gather the crowd before his speech.
+- Vukradin threw a rock concert to gather the people of Phandalin.
+- Brewbarry cracked his knuckles and made his voice boom to announce there was a gathering.
+- Brewbarry made his voice boom to announce there was a gathering, the sound rolling down the lanes of Phandalin like weather.
+- All of Phandalin came to the concert: Petunia, Big Al Kalazorn, Qelline Alderleaf, Linene Graywind, Ser Kaelen, Toblen, Elsa, Barthen, the woodworker, Brin, Giles, and Harbin Wester.
+- Vukradin announced to the crowd 'Ladies and gentlemen, we are adventurers! We've killed the dragon! We drove out the orcs! We saved Phandalin! Yay!'
+- Vukradin told the crowd they were adventurers, killed the dragon, drove out the orcs, and saved Phandalin.
+- Vukradin stated that the government, led by Wester, believes adventurers should claim all treasure for themselves.
+- Vukradin proposed to give the treasure back to the people because it was stolen from them.
+- Vukradin told the crowd that their government believes adventurers should claim all the treasure for themselves, but that treasure came from the townspeople and he wants to give it back.
+- Vukradin declared a new universal basic treasure and promised to give the treasure back to the people of Phandalin.
+- Vukradin left three thousand pieces of Cryovain's frozen hoard in a hold because it was stolen wealth and he would not be made rich by a dragon's bookkeeping.
+- Vukradin swore a new universal basic treasure: if they cannot find the rightful owner of treasure, it needs to be returned to the town.
+- Vukradin vows a new universal basic treasure (UBT) for Phandalin.
+- Soma murmured 'UBT' like a benediction.
+- There was cheering: general, rising, real. Children jumping. Jenna looking appalled.
+- Vukradin asked the crowd 'What does Harbin Wester think about this plan? Is he in favor of it, or does he need to be replaced?'
+- Vukradin nearly tripped over himself getting to the front, excited to address the council.
+- Vukradin nearly tripped over himself getting to the front.
+- Harbin pauses and gropes through the dark for Vukradin's name before recalling it.
+- Harbin Wester stole Vukradin's idea in front of everyone, smiling.
+- Harbin Wester claimed the Privy Council had already declared Vukradin's adventuring income as Vukradin's UBT.
+- Harbin announces the Privy Council has already declared the income Vukradin produces from adventuring to be his UBT.
+- Harbin asks for the name of the adventuring group.
+- Vukradin suggests the group name 'Slayers of Cryovain'.
+- Soma declares herself the manager of the group.
+- Harbin Wester shouted 'All hail the adventuring group!'
+- Harbin waves his hand and shouts 'All hail the adventuring group!'.
+- Vukradin declared that all adventurers will distribute their treasure as universal basic treasure to the citizens of Phandalin unless the rightful owner is found.
+- Vukradin proposed writing into the town charter that all adventurers will distribute their treasure as UBT to citizens unless the rightful owner is found.
+- Vukradin proposes writing into the town charter that all adventurers will distribute their treasure as universal basic treasure to Phandalin citizens unless they find the rightful owner.
+- Harbin said 'I think that's a wonderful idea! Huzzah, huzzah, huzzah!'
+- Harbin calls the UBT charter a wonderful idea.
+- Vukradin noticed Jenna Roscoe looking appalled after the UBT was written into the charter.
+- Soma said 'Democracy sucks' comfortably.
+- Vukradin announces the melted hoard of dragon gold as the first contribution to the UBT fund.
+- The townspeople tell Vukradin the gold is fused inside a magical containment thing that the adventurers will have to extract.
+- The dragon gold is fused inside a magical containment that must be extracted.
+- Vukradin asked Ser Kaelen to take care of the magical containment.
+- Brewbarry decides a citizen must live within the boundary at least fifty-plus percent of the year.
+- Citizens must live within Phandalin boundaries at least fifty-plus percent of the year and pay taxes in Phandalin.
+- Vukradin suggests requiring attestation under oath with a working that strangles lies.
+- Brewbarry proposes that if they pay taxes in Phandalin, then they are Phandalin citizens.
+- Linene claimed she had been working on a UBT proposal for years.
+- Linene proposed a subcommittee of the Privy Council to provide a draft set of rules in time for next week or two weeks.
+- A subcommittee will provide a draft set of rules in time for next week, or maybe two weeks from now.
+- Brewbarry accepted being an honorary citizen.
+- Vukradin realized the clever solution to the eligibility problem meant the adventurers, now citizens, would receive five percent of their own donated treasure back tax-free.
+- The adventurers, as citizens, become eligible for UBT and receive five percent of the donated gold back tax-free.
+- The adventurers, as donors, were now also citizens, and citizens receive five percent of the UBT tax-free.
+- The adventurers, as citizens, receive five percent of the donated treasure back as UBT, tax-free.
+- Jenna Roscoe climbed onto her horse and rode off toward Neverwinter without a word.
+- Vukradin saw Jenna ride off toward Neverwinter and called out that he didn't care who she was.
+- The slag sits wrong in the eye, heavier than its weight, and is not conventional magic.
+- Brewbarry suggested finding an expert in Neverwinter.
+- Soma's staff read the cube, detecting leaves stirring without wind.
+- Soma felt a planar anomaly around the cube.
+- Soma thought the sorting of cheese by altitude was getting too technical for Brewbarry.
+- Brewbarry asks for a tasting and works through the range of cheeses slow and serious, settling on a bluish creamy thing as the finest.
+- Brewbarry chose a bluish, creamy cheese after a tasting.
+- Brewbarry wants a wealth consultant, an accountant, to manage his personal fortunes.
+- Brewbarry wants a wealth consultant to manage his personal fortunes for a bathrobe factory using Phandalin cotton blessed by Lathander's priests.
+- Brewbarry planned to start a bathrobe factory using Phandalin cotton blessed by Lathander's priests.
+- Brewbarry was sent to Linene for the business scheme.
+- Brewbarry was sent to Linene, who took the bathrobe scheme seriously.
+- Soma noticed that Vukradin's lie about Linene being trustworthy fell flat and didn't land.
+- Linene says the Lion Shield Coster used to move goods cheap and now they don't, and nobody knows why.
+- Linene wants the party to ask about the Lion Shield Coster's disappearance in Neverwinter.
+- Soma learned that Linene had been hungry for the planar hides from the Whispering Grove.
+- Linene is hungry for the hides from the Whispering Grove that phase in and out of the world.
+- A note arrives that the necklace of fireballs has been claimed by Perrin Alagondar, a quiet Alagondar branch.
+- Vukradin could finally put down the necklace and return it, calling it 'blood treasure.'
+- Soma offered that bathrobes were 'Pretty comfy' when someone asked where the dream came from.
+- The road to Neverwinter gave the party nothing to fight.
+- The group arrives in Neverwinter after an uneventful journey.
+- The journey to Neverwinter was uneventful and took the entire road.
+- Brewbarry spent the whole road describing bathrobes—the drape, the weave, how good he would look in one.
+- Soma offered that bathrobes were probably very comfy.
+- The party skipped the Hunting Lodge, Dragon Barrow, and Logger's Camp side-stops.
+- Vukradin says they are abandoning the Shrine of Savras quest.
+- Vukradin said the studio still wasn't built and that was the quest.
+- Soma believed Lord Neverember would let go of the free gold any day now.
+- At the gate, guards checked the party's faces against a writ because someone in Phandalin had sent word ahead that they were expected.
+- Guards at the Neverwinter gate checked the party's faces against a writ, because someone in Phandalin had sent word ahead that they were expected.
+- Three young fans in roughhide cloaks and charcoal markings stopped dead in the street upon seeing Brewbarry.
+- A guard came over starstruck and asked Brewbarry to sign a paper for his son.
+- Brewbarry offered to sign a paper for the guard's son in blood and asked the man for a drop of his own to do it with.
+- Brewbarry offered to sign the autograph in blood, asking the guard for a drop of his own blood to do it.
+- The guard declined Brewbarry's offer to sign in blood, awkwardly and repeatedly.
+- One of the kids recognized Vukradin but said he remembered when Vukradin was really good, before he got famous and commercial.
+- One fan said Mory has gone soft and is no longer authentic, calling Brewbarry more genuine.
+- One of the kids said Mory had gone soft and that Brewbarry was more authentic.
+- One of the kids, looking right at Vukradin, said that wasn't Vukradin because Vukradin was a legend who didn't care if anybody liked his music.
+- One fan argued that Mory is not the real Vukradin, because Vukradin was a legend who didn't care if anyone liked his music.
+- One of the kids said, looking at Vukradin, that Vukradin was a legend who played music without caring if anyone liked it, implying the man in front of them was not him.
+- Mory offered the guard an autograph.
+- Mory said he didn't know if he was welcome at the Common Chord anymore.
+- The Common Chord became impossible to get into after Mory got famous, with weeks of reservations and prices through the roof.
+- The guard told Vukradin that since Vukradin got famous, the Common Chord became impossible with weeks of reservations and prices through the roof, and that they want what his name does to the wine list.
+- Mory reached back and played an old hit from the vault to prove he was Vukradin.
+- Vukradin reached all the way back to the old, authentic music from the vault and let the musician at the window jam with him.
+- Vukradin reached back and played the old, authentic music from the vault.
+- A crowd of more cloaks, charcoal, and bare feet thickened at the gate — Brewbarry's people assembling around him and the song.
+- A crowd thickened at the gate as more cloaks, more charcoal, and more bare feet appeared, Brewbarry's people multiplying.
+- A crowd thickened at the gate: more cloaks, more charcoal, more bare feet, Brewbarry's people assembling around a barefoot legend and Mory's song.
+- The plaque honors the liberators of the Ordning, through whose courage and the combined strength of the Lord's Alliance, the giant kingdoms were restored to order in the north.
+- Vukradin read the plaque twice and asked if the others knew the Lord's Alliance saved the world.
+- Vukradin said he didn't know the Lord's Alliance controlled Phandalin.
+- Valphine started reaching for the Staff of Bird Calls as barter for the dragon scale armor.
+- Brewbarry proposed paying for the armor with the dragon scales themselves — enough for the armor and whatever's left to cover labor.
+- The armorer saw Valphine's golden eyes and nearly wept, calling her the drow Brother Aldric speaks of.
+- The armorer offered to craft for almost nothing if Valphine would say a blessing over his family.
+- Brewbarry wanted to push on to the Spire of the Morning Lord.
+- Soma decided they were done for the night and said the whole thing was hilarious.
+- Vukradin said they were done for the night and refused to push on to the Spire of the Morning Lord.
+- Valphine asked the armorer to craft the dragon scales into scale mail.
+- Valphine agreed to say a blessing for the armorer and his family.
+- Vukradin said 'free of charge' when the armorer offered to craft in exchange for a blessing.
+- The armorer said he could not do it for free and gratis; it takes time and money, and any little money would be helpful.
+- Valphine read out the cost — more gold than Brewbarry ever held at once.
+- Vukradin said they don't have that much gold and they have less than half of it.
+- The armorer said Valphine's offered amount was too generous and would take a fraction of that for the chosen of Lathander.
+- Valphine asked the armorer to make sure there's an emblem of Lathander on the back of the armor.
+- Vukradin said they were handing the man a small fortune.
+- The armorer asked if Brewbarry was a convert to the Temple of Lathander of the Morning Lord.
+- The armorer enumerated all the cruelties the sun was meant to cure out of drow.
+- Vukradin dryly remarked that the open-armed welcome to drow could go badly either way.
+- The dragon scale armor will take some time to craft.
+- The armor crafted from a dragon's scales will take time and be done by the time Brewbarry leaves town.
+- The armorer swore the armor would be done by the time the party left town.
+- Brewbarry asked for a cheese tasting and settled on a bluish, creamy thing he declared the finest.
+- Brewbarry discreetly made his muscles dance with a little pec bounce for the faithful.
+- Brewbarry requests a slice off the price for anyone who buys Vukradin's record, the Black Cylinder.
+- Brewbarry says mankind has been spreading violence and pain and he needs to turn that around and bring softness to people.
+- Brewbarry stole a bathrobe from Falcon's Lodge and later returned it.
+- Harbin declared the Privy Council had already heard the proposal and was waiting to announce it.
+- Harbin spread his hands to the crowd and shouted 'All hail the adventuring group!'
+- If they pay taxes in Phandalin, then they're Phandalin citizens.
+- Jenna Roscoe was outvoted.
+- Ser Kaelen asked whether the Order of the Gauntlet gets a share of the UBT.
+- Soma murmured 'UBT' as a benediction to Vukradin's speech.
+- The armorer asked Valphine to say a blessing for him and his family, and offered to take a fraction of the gold because she is the chosen of Lathander.
+- The armorer became very excited when he learned Brewbarry respects the Morning Lord.
+- The musician at the window went wide-eyed and started trying to find his way into the song, and Mory let him jam.
+- The party left the Shrine of Savras with no quests in that direction.
+- UBT recipients must attest under oath, with a working laid over the room that strangles every lie before it leaves the throat.
+- Valphine stated that the scale mail would be for Brewbarry.
+- Vukradin muttered 'Blood treasure' when the necklace of fireballs was claimed by Perrin Alagondar.
+- Vukradin mutters 'blood treasure' but writes the name Perrin Alagondar in his head.
+- Vukradin noticed nobody told him about the gold being stuck in a magical containment.
+- Vukradin offered the guard an autograph without blood.
+- Vukradin said he did not know if he was welcome at the Common Chord anymore.
+- Vukradin said they have to break the magic first to recoup the gold.
+- Vukradin swore a new universal basic treasure.
+- Vukradin throws the eligibility question to the crowd by saying 'Excellent idea, Valphine!'
+
