@@ -1,4 +1,8 @@
-# Chapter 17 Falcon's Hoard and Hidden Truths 
+---
+chapter: 18
+title: Falcon's Hoard and Hidden Truths
+---
+# Chapter 18 Falcon's Hoard and Hidden Truths 
 
 The party undertook a detailed, covert mission when the bard Vukradin decided to uncover the truth about their host, Falcon the Hunter, concerning his claimed past as a dragonslayer and the source of his lodge's funding. The reconnaissance mission began late at night when Vukradin deliberately undertook the investigation alone, knowing his companions were deep in slumber: **Brewbarry was generating the lodge's most consistent nocturnal sound—a thunderous snoring that rattled the guest house timbers** , **Soma was safely ensconced and silent within her shell** , and **Valphine was merely bemused** (or perhaps pretending to be) in her state of sleep.
 

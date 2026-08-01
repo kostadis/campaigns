@@ -1,4 +1,8 @@
-# Chapter 07 The Tower of Storms: Echoes, Art, and the Serpent's Coil
+---
+chapter: 8
+title: 'The Tower of Storms: Echoes, Art, and the Serpent''s Coil'
+---
+# Chapter 8 The Tower of Storms: Echoes, Art, and the Serpent's Coil
 
 ### Vukradin's Perspective
 

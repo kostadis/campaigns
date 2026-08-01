@@ -1,4 +1,8 @@
-# Chapter 20 The Spiral’s Grasp
+---
+chapter: 21
+title: The Spiral’s Grasp
+---
+# Chapter 21 The Spiral’s Grasp
 
 The party gathered at the Loggers Camp to discuss their next move, with Vukradin learning that he had inadvertently built a reputation as a noble adventurer after saving a town from a dragon and advocating for fair wages. Despite his protests that he simply wanted to open his own studio, the public perception had taken hold. The group recalled information about a missing Emerald Enclave patrol and devised a plan to rescue them, crediting the success to Lyra, a low-ranking member they had previously saved, in order to boost her standing within the faction and gain a valuable ally. After debating what to do with their prisoner Shrimpy, who desperately wanted to be released, they decided to transport him to Phandalin for imprisonment, as Tibor the loggers chief refused to take him to Neverwinter.
 

@@ -1,4 +1,8 @@
-# Chapter 29 A Cheesy Compromise in the Mine
+---
+chapter: 30
+title: A Cheesy Compromise in the Mine
+---
+# Chapter 30 A Cheesy Compromise in the Mine
 
 The area outside the mine erupted into chaos as waves of orcs and ogres descended upon the party. Valphine's divine guardians manifested as spectral protectors, their holy radiance devastating the attackers who dared approach. Orc after orc fell as they charged toward her, their bodies consumed by celestial fire when they failed to resist the overwhelming divine power. Brewbarry stood as an imposing figure on the battlefield, his voice booming with supernatural resonance as his eyes flashed red beneath his helmet, striking terror into his enemies before his halberd cleaved through them.
 

@@ -1,4 +1,8 @@
-# Chapter 33: The One Hit Point Principle
+---
+chapter: 34
+title: The One Hit Point Principle
+---
+# Chapter 34: The One Hit Point Principle
 
 ---
 

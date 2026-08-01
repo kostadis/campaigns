@@ -1,4 +1,8 @@
-# Chapter 16 Blood Money, Clean Gold, and Fine Wine
+---
+chapter: 17
+title: Blood Money, Clean Gold, and Fine Wine
+---
+# Chapter 17 Blood Money, Clean Gold, and Fine Wine
 
 The party gathered at the tavern to discuss their recent encounter with Sister Kella, an enemy who had offered to work with them against the Carver. Valphine explained that Kella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
 

@@ -1,4 +1,8 @@
-# Chapter 02 To find a shapeshifter
+---
+chapter: 3
+title: To find a shapeshifter
+---
+# Chapter 3 To find a shapeshifter
 
 ## 02-01 of Taraskh 1495 
 

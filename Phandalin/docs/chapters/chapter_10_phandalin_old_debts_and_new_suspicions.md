@@ -1,4 +1,8 @@
-# Chapter 09 Phandalin: Old Debts and New Suspicions. 
+---
+chapter: 10
+title: 'Phandalin: Old Debts and New Suspicions.'
+---
+# Chapter 10 Phandalin: Old Debts and New Suspicions. 
 
 ### 
 

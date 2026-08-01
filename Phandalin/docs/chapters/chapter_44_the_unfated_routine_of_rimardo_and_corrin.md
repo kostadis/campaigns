@@ -1,4 +1,8 @@
-# Chapter 43 The Unfated Routine of Rimardo and Corrin
+---
+chapter: 44
+title: The Unfated Routine of Rimardo and Corrin
+---
+# Chapter 44 The Unfated Routine of Rimardo and Corrin
 
 Date: Jun 2nd, 2026
 

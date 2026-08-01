@@ -1,4 +1,8 @@
-# Chapter 25 From Out-of-Phase Dwarves to Mechanical Mysteries
+---
+chapter: 26
+title: From Out-of-Phase Dwarves to Mechanical Mysteries
+---
+# Chapter 26 From Out-of-Phase Dwarves to Mechanical Mysteries
 
 The battle in the mustering hall of Axeholm raged on as the party fought against the twisted dwarves caught in an interdimensional nightmare. Valphine fired her crossbow at one of the out-of-phase creatures, bringing it to the brink of death. Soma, still in her powerful bear form, found herself paralyzed by a dwarf's unnatural touch, but her constitution proved strong enough to shake off the effect. Together, the party systematically eliminated the remaining dwarves, with Brewbarry delivering crushing blows and Vukradin supporting his allies with inspiring words.
 

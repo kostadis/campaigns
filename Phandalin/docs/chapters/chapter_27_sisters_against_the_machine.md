@@ -1,4 +1,8 @@
-# Chapter 26 Sisters Against the Machine
+---
+chapter: 27
+title: Sisters Against the Machine
+---
+# Chapter 27 Sisters Against the Machine
 
 The party continued their exploration of the ancient dwarven fortress, finishing their survey of the first floor. They discovered a storage room filled with serviceable armor and weaponsmith tools that would prove useful for the people of Phandalin, along with privies. The barracks held dozens of meager cots scattered about, with two cold fireplaces whose rubble-choked chimneys rose one hundred twenty feet through the mountain. An empty armory revealed that the dwarves had taken all their weapons when they departed, leaving behind only stone weapon racks, headless mannequins, and iron hooks on the walls.
 

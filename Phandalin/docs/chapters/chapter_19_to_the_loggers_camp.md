@@ -1,4 +1,8 @@
-# Chapter 18 To the Logger’s Camp
+---
+chapter: 19
+title: To the Logger’s Camp
+---
+# Chapter 19 To the Logger’s Camp
 
 ### 
 

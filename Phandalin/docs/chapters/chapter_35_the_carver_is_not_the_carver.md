@@ -1,4 +1,8 @@
-# Chapter 34 The Carver is not the Carver
+---
+chapter: 35
+title: The Carver is not the Carver
+---
+# Chapter 35 The Carver is not the Carver
 
 ---
 

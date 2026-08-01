@@ -1,4 +1,8 @@
-# Chapter 05 Vukradin, Rank Cheval 
+---
+chapter: 6
+title: Vukradin, Rank Cheval
+---
+# Chapter 6 Vukradin, Rank Cheval 
 
 ## 04-01 Taraskh 1495
 
