@@ -1,0 +1,5938 @@
+WEBVTT
+
+1
+00:09:09.140 --> 00:09:09.960
+Gary Young: Hey, Dave.
+
+2
+00:09:14.230 --> 00:09:16.270
+David Mendenhall: What's this about a plus one shield?
+
+3
+00:09:18.470 --> 00:09:19.150
+Gary Young: What?
+
+4
+00:09:19.430 --> 00:09:21.620
+David Mendenhall: What? Exactly.
+
+5
+00:09:24.860 --> 00:09:26.230
+Gary Young: I could use a plus one shield.
+
+6
+00:09:27.680 --> 00:09:29.150
+David Mendenhall: What plus 1 shield?
+
+7
+00:09:33.980 --> 00:09:39.620
+Gary Young: I don't see such a thing in… Our magic item list.
+
+8
+00:10:59.210 --> 00:11:00.700
+David Mendenhall: So, have you been traveling a lot?
+
+9
+00:11:02.760 --> 00:11:06.129
+Gary Young: Not lately, but the summer, lots of travel, yes.
+
+10
+00:11:06.710 --> 00:11:07.730
+David Mendenhall: Where are you going?
+
+11
+00:11:09.880 --> 00:11:22.450
+Gary Young: So, for our trip, so throughout the summer, I have, Huntsville, Alabama, Shanghai, Tokyo, Singapore,
+
+12
+00:11:29.400 --> 00:11:30.630
+Gary Young: I think something else.
+
+13
+00:11:35.150 --> 00:11:42.220
+Gary Young: So, maybe you were asking a question because I was asking about, like, VPNs and such, but that was for Shanghai.
+
+14
+00:11:42.940 --> 00:11:44.439
+David Mendenhall: That's pretty shame. Yeah, yeah.
+
+15
+00:11:44.970 --> 00:11:45.909
+David Mendenhall: But we… Yeah.
+
+16
+00:11:45.910 --> 00:11:51.879
+Gary Young: The thing that's really confusing me is my friends who are from China. They say that
+
+17
+00:11:52.060 --> 00:11:59.099
+Gary Young: If you have a… a non-China eSIM that they don't bother to filter your traffic.
+
+18
+00:11:59.990 --> 00:12:02.209
+Gary Young: And I was like, is that right?
+
+19
+00:12:02.850 --> 00:12:04.270
+David Mendenhall: That is true now.
+
+20
+00:12:04.600 --> 00:12:06.029
+Gary Young: That is true now, really?
+
+21
+00:12:06.030 --> 00:12:06.730
+David Mendenhall: Yeah.
+
+22
+00:12:08.120 --> 00:12:10.600
+Gary Young: Well, that makes things so much easier.
+
+23
+00:12:10.600 --> 00:12:15.980
+David Mendenhall: Well, yeah, it definitely helps, and it's better than when they didn't have that.
+
+24
+00:12:16.310 --> 00:12:20.480
+David Mendenhall: You just have to make sure you don't connect to the hotel Wi-Fi.
+
+25
+00:12:23.430 --> 00:12:26.520
+Gary Young: Okay, so if I do connect to the hotel Wi-Fi, I can just…
+
+26
+00:12:26.990 --> 00:12:30.389
+Gary Young: use whatever service I want, as long as I just expect that it's filtered.
+
+27
+00:12:32.390 --> 00:12:37.890
+David Mendenhall: No. I mean, if you connect to the hotel Wi-Fi, you won't be able to access any of the Western services.
+
+28
+00:12:37.890 --> 00:12:38.670
+Gary Young: Okay, yeah.
+
+29
+00:12:38.670 --> 00:12:39.260
+David Mendenhall: Okay, but…
+
+30
+00:12:39.260 --> 00:12:40.240
+Gary Young: We'll fireworks.
+
+31
+00:12:40.240 --> 00:12:44.639
+David Mendenhall: So if you go back to just cellular connection, then you'll be able to access.
+
+32
+00:12:45.280 --> 00:12:49.780
+Gary Young: They'll do their normal blocking, which I would expect from a…
+
+33
+00:12:50.150 --> 00:12:52.020
+Gary Young: Some random Wi-Fi access point, yeah.
+
+34
+00:12:52.020 --> 00:12:52.610
+David Mendenhall: Yeah.
+
+35
+00:12:57.310 --> 00:12:59.179
+Wade Brown: Just set up WireGuard.
+
+36
+00:13:00.550 --> 00:13:01.660
+Gary Young: Just as a backup.
+
+37
+00:13:02.480 --> 00:13:05.460
+Wade Brown: I mean, you give me a private key, I'll put it up for ya.
+
+38
+00:13:06.290 --> 00:13:06.870
+Gary Young: Okay.
+
+39
+00:13:08.460 --> 00:13:10.640
+David Mendenhall: It's also just, like, really slow.
+
+40
+00:13:11.780 --> 00:13:15.729
+Wade Brown: Well, I mean, there's… speed of light can't be beat, right? Like…
+
+41
+00:13:16.090 --> 00:13:19.229
+David Mendenhall: Yeah, that is not the only issue. It's a big part.
+
+42
+00:13:19.230 --> 00:13:20.329
+Wade Brown: of it.
+
+43
+00:13:25.110 --> 00:13:28.529
+David Mendenhall: I remember once I was like, oh, I'm just going to, like…
+
+44
+00:13:29.630 --> 00:13:36.940
+David Mendenhall: SSH to a NetHack server and play NetHack, and I was like, ugh, this is… Unusable.
+
+45
+00:13:37.670 --> 00:13:41.290
+David Mendenhall: You would think a terminal app would be fine, but no.
+
+46
+00:13:45.420 --> 00:13:51.889
+Gary Young: By the way, dave, your Vucrodan character sheet does not have a profile photo.
+
+47
+00:13:54.150 --> 00:13:54.910
+David Mendenhall: Okay.
+
+48
+00:13:57.360 --> 00:13:59.809
+Gary Young: Do you… do you have a photo that you use for it?
+
+49
+00:14:00.620 --> 00:14:06.149
+David Mendenhall: I do. I do. Where did that photo go? That was…
+
+50
+00:14:06.150 --> 00:14:07.650
+Wade Brown: And it's on your token, like…
+
+51
+00:14:07.930 --> 00:14:11.700
+David Mendenhall: That was many years ago. Yeah, the one from the token.
+
+52
+00:14:19.380 --> 00:14:20.290
+Wade Brown: Excuse me.
+
+53
+00:14:34.200 --> 00:14:35.060
+Wade Brown: Hmm.
+
+54
+00:14:36.970 --> 00:14:38.089
+Wade Brown: Excuse me.
+
+55
+00:14:39.670 --> 00:14:42.110
+David Mendenhall: Where is the MCP server?
+
+56
+00:14:44.650 --> 00:14:46.960
+David Mendenhall: Why do I have to do this myself?
+
+57
+00:14:46.960 --> 00:14:48.809
+Wade Brown: Yeah, sick open claw on it.
+
+58
+00:14:48.810 --> 00:14:50.799
+David Mendenhall: Yeah, that's ridiculous.
+
+59
+00:15:00.100 --> 00:15:02.090
+Gary Young: And Wade, do you have your,
+
+60
+00:15:02.790 --> 00:15:07.079
+Gary Young: Do you have, like, an original for your, Your elk.
+
+61
+00:15:09.490 --> 00:15:11.229
+Wade Brown: An original? What do you mean, like…
+
+62
+00:15:12.930 --> 00:15:17.139
+Wade Brown: Why do you ask? I just used the sidekick on the character sheet.
+
+63
+00:15:17.900 --> 00:15:19.210
+Gary Young: Psychic on the character sheet.
+
+64
+00:15:20.150 --> 00:15:25.369
+Gary Young: No, I mean, like, I was gonna do some, like, image generation stuff, and, like…
+
+65
+00:15:25.470 --> 00:15:28.949
+Gary Young: It was making up images from scratch, and I was like, well…
+
+66
+00:15:28.950 --> 00:15:30.259
+Wade Brown: Oh, there's the…
+
+67
+00:15:30.260 --> 00:15:32.740
+Gary Young: Reference images, and then it'll make it look more…
+
+68
+00:15:33.730 --> 00:15:39.379
+Wade Brown: I made, if you look at the Roll20 map.
+
+69
+00:15:40.630 --> 00:15:41.430
+Gary Young: Yep,
+
+70
+00:15:41.430 --> 00:15:43.669
+Wade Brown: There's the bony reference.
+
+71
+00:15:51.410 --> 00:15:52.850
+Wade Brown: Do you see him?
+
+72
+00:15:53.440 --> 00:15:55.899
+Gary Young: Sorry, clicking through here.
+
+73
+00:15:58.120 --> 00:16:00.769
+Wade Brown: Should be on the world map, wherever Christatis left us.
+
+74
+00:16:12.550 --> 00:16:13.200
+Gary Young: Huh.
+
+75
+00:16:15.310 --> 00:16:16.730
+Gary Young: And how do I download that?
+
+76
+00:16:17.060 --> 00:16:19.190
+Gary Young: I mean, I can just take a little screenshot.
+
+77
+00:16:19.190 --> 00:16:24.159
+Wade Brown: So… let me… you know, I might have the full image, one sec.
+
+78
+00:16:26.700 --> 00:16:32.469
+Wade Brown: Beauty… I mean, you don't have to stick with my references, they were…
+
+79
+00:16:33.010 --> 00:16:37.199
+Wade Brown: intentionally silly, but I like them, because they're stupid.
+
+80
+00:16:37.460 --> 00:16:39.620
+David Mendenhall: Found the original SOMA image.
+
+81
+00:16:40.510 --> 00:16:42.730
+David Mendenhall: Oh, I found it!
+
+82
+00:16:43.330 --> 00:16:44.410
+David Mendenhall: Well, there's a… there's…
+
+83
+00:16:44.410 --> 00:16:48.889
+Gary Young: Soma on the, D&D Beyond, profile photo.
+
+84
+00:16:48.890 --> 00:16:52.659
+Wade Brown: Yeah, that was just the stock, turtle picture, whatever.
+
+85
+00:16:53.070 --> 00:16:54.240
+Gary Young: Oh, that's the stock turtle.
+
+86
+00:16:54.640 --> 00:16:55.839
+Wade Brown: I think so, yeah.
+
+87
+00:16:56.030 --> 00:17:03.689
+Wade Brown: I think that was before I'd even… I think I just had to put something in. Where are we? We are D&D games…
+
+88
+00:17:04.619 --> 00:17:06.220
+Wade Brown: Blue and…
+
+89
+00:17:09.420 --> 00:17:11.380
+Wade Brown: There's a bigger bony reference.
+
+90
+00:17:11.990 --> 00:17:14.610
+Wade Brown: Many pixels died for this picture.
+
+91
+00:17:16.650 --> 00:17:18.489
+David Mendenhall: pixel stuff, jeez.
+
+92
+00:17:19.250 --> 00:17:23.560
+David Mendenhall: Your references, man, and I get them all, which makes it even sadder.
+
+93
+00:17:23.560 --> 00:17:26.720
+Wade Brown: I know. Which one of us is the bigger dork?
+
+94
+00:17:26.720 --> 00:17:29.410
+David Mendenhall: I know! I know.
+
+95
+00:17:30.500 --> 00:17:33.679
+Wade Brown: I'm performing for an audience of two now, not just myself.
+
+96
+00:17:34.540 --> 00:17:35.279
+Gary Young: Wait, what?
+
+97
+00:17:36.100 --> 00:17:39.730
+David Mendenhall: Many boffins died, many pixels died.
+
+98
+00:17:43.600 --> 00:17:44.570
+Wade Brown: It's okay.
+
+99
+00:17:47.270 --> 00:17:49.770
+Wade Brown: Go back to, you know, trying to quit your job.
+
+100
+00:17:49.770 --> 00:17:50.820
+David Mendenhall: Return of the Jedi.
+
+101
+00:17:51.990 --> 00:17:53.180
+Gary Young: Oh, okay.
+
+102
+00:17:53.820 --> 00:17:54.599
+David Mendenhall: Yeah, does that help?
+
+103
+00:17:54.600 --> 00:17:57.719
+Gary Young: Shubs and zools, who have died for this one.
+
+104
+00:17:59.280 --> 00:18:00.929
+Gary Young: Died in the belly to the floor.
+
+105
+00:18:01.900 --> 00:18:04.000
+Wade Brown: Do not… do not recognize.
+
+106
+00:18:04.000 --> 00:18:04.850
+David Mendenhall: That one, I don't know.
+
+107
+00:18:05.710 --> 00:18:08.010
+Gary Young: That's from, Ghostbusters.
+
+108
+00:18:08.480 --> 00:18:10.990
+Wade Brown: Well, I recognize Zul, yeah, that's right.
+
+109
+00:18:10.990 --> 00:18:15.490
+Gary Young: many, shrubs and zools died in the belly of the slower that day.
+
+110
+00:18:15.490 --> 00:18:17.979
+David Mendenhall: Oh, yes! Oh, yes.
+
+111
+00:18:18.450 --> 00:18:19.509
+David Mendenhall: Now I remember.
+
+112
+00:18:20.320 --> 00:18:23.959
+Gary Young: by the great Rick Moranis, I think?
+
+113
+00:18:24.740 --> 00:18:27.579
+Wade Brown: I don't know, I'm a little… I'm a little young for that movie.
+
+114
+00:18:31.630 --> 00:18:34.290
+Wade Brown: Just… just, like, a few years, not, like, a lot.
+
+115
+00:18:37.580 --> 00:18:41.469
+David Mendenhall: sitting there, approaching… No worries.
+
+116
+00:18:41.470 --> 00:18:44.129
+Gary Young: Creepiness, it's a classic, though.
+
+117
+00:18:48.530 --> 00:18:51.739
+Wade Brown: I love him in Zombieland. Do you have any regrets?
+
+118
+00:18:51.740 --> 00:18:52.970
+David Mendenhall: Garfield…
+
+119
+00:18:52.970 --> 00:18:53.780
+Wade Brown: baby.
+
+120
+00:18:55.100 --> 00:18:57.540
+David Mendenhall: Does not do a good job.
+
+121
+00:18:59.230 --> 00:19:00.610
+Wade Brown: What are you trying to accomplish.
+
+122
+00:19:01.520 --> 00:19:02.760
+Wade Brown: Who cryogen gens?
+
+123
+00:19:03.150 --> 00:19:05.469
+David Mendenhall: Yeah, it, like, cropped it.
+
+124
+00:19:05.800 --> 00:19:07.050
+David Mendenhall: Badly.
+
+125
+00:19:08.890 --> 00:19:11.740
+David Mendenhall: I guess I need to work on it some more.
+
+126
+00:19:12.770 --> 00:19:14.339
+Wade Brown: Hire a prompt engineer.
+
+127
+00:19:14.590 --> 00:19:15.510
+David Mendenhall: Yes.
+
+128
+00:19:17.020 --> 00:19:18.540
+David Mendenhall: Dude, that's my job.
+
+129
+00:19:20.000 --> 00:19:26.560
+Wade Brown: Hey, speaking of jobs… What's the, over-under on, our side project.
+
+130
+00:19:28.200 --> 00:19:33.450
+David Mendenhall: Well… Every factory has dropped us.
+
+131
+00:19:33.450 --> 00:19:34.240
+Wade Brown: Oh, okay.
+
+132
+00:19:34.640 --> 00:19:38.110
+David Mendenhall: So, I am still working on getting a factory.
+
+133
+00:19:39.860 --> 00:19:44.230
+David Mendenhall: Once I have a factory, I can get a budget. Once I have a budget…
+
+134
+00:19:46.120 --> 00:19:47.159
+Wade Brown: It's fine.
+
+135
+00:19:47.170 --> 00:19:47.670
+David Mendenhall: Or,
+
+136
+00:19:47.670 --> 00:19:50.469
+Wade Brown: Obviously, I'm planning my entire life around this.
+
+137
+00:19:50.470 --> 00:19:51.260
+David Mendenhall: Sorry.
+
+138
+00:19:51.260 --> 00:19:55.560
+Wade Brown: No, no, no, no, no. I… I think it'd be a fun little project, but, you know…
+
+139
+00:19:55.560 --> 00:19:56.629
+David Mendenhall: If it doesn't happen, it doesn't happen.
+
+140
+00:19:56.630 --> 00:19:57.540
+Wade Brown: happen.
+
+141
+00:19:59.790 --> 00:20:03.100
+Wade Brown: I'm joking, right? It's… it's no skin off my nose if,
+
+142
+00:20:03.440 --> 00:20:06.290
+Wade Brown: I'm out a few bucks here or there at some time.
+
+143
+00:20:06.520 --> 00:20:07.990
+Wade Brown: I'll go back to plumbing.
+
+144
+00:20:10.280 --> 00:20:10.760
+David Mendenhall: What's this one?
+
+145
+00:20:14.130 --> 00:20:18.790
+Wade Brown: Or, you know, recovering from super long COVID. Jesus Christ, man. I'm still, like…
+
+146
+00:20:18.790 --> 00:20:19.829
+David Mendenhall: hit long COVID.
+
+147
+00:20:19.830 --> 00:20:20.680
+Wade Brown: No, but I guess
+
+148
+00:20:21.000 --> 00:20:29.509
+Wade Brown: a week ago, and it's just awful. I'm still, like, going to bed. Like, this is extremely late for me. This is the latest I've been up in, like, a week.
+
+149
+00:20:31.750 --> 00:20:32.720
+Gary Young: Sorry to hear it.
+
+150
+00:20:32.930 --> 00:20:33.830
+Wade Brown: That's alright.
+
+151
+00:20:34.280 --> 00:20:35.870
+David Mendenhall: Alright, Gary, I did it.
+
+152
+00:20:37.240 --> 00:20:37.960
+Gary Young: You did what?
+
+153
+00:20:38.320 --> 00:20:40.170
+Wade Brown: He got a profile picture.
+
+154
+00:20:41.160 --> 00:20:42.220
+Gary Young: Oh, you put it in D&D Beyond.
+
+155
+00:20:42.510 --> 00:20:46.019
+David Mendenhall: Oh, much like the plus one shield. What plus one shield?
+
+156
+00:20:46.020 --> 00:20:47.820
+Wade Brown: What potion of invulnerability.
+
+157
+00:20:47.820 --> 00:20:49.730
+David Mendenhall: What? What?
+
+158
+00:20:50.500 --> 00:20:54.659
+David Mendenhall: I like that, I like Boney. Boney looks good.
+
+159
+00:20:55.050 --> 00:20:56.130
+Wade Brown: I love Boney.
+
+160
+00:20:57.380 --> 00:20:58.319
+Gary Young: That's great.
+
+161
+00:21:15.500 --> 00:21:17.050
+Wade Brown: Hey, there he is!
+
+162
+00:21:17.310 --> 00:21:19.280
+Wade Brown: And only 11 minutes late.
+
+163
+00:21:19.280 --> 00:21:20.430
+Kostadis Roussos: Oh, I'm sorry.
+
+164
+00:21:21.520 --> 00:21:23.150
+Wade Brown: One minute later than you promised.
+
+165
+00:21:23.320 --> 00:21:25.099
+Kostadis Roussos: I am a terrible human being.
+
+166
+00:21:25.100 --> 00:21:26.230
+Wade Brown: you are…
+
+167
+00:21:26.520 --> 00:21:27.920
+Kostadis Roussos: I'm awful.
+
+168
+00:21:27.920 --> 00:21:31.339
+Wade Brown: Fire you out of a cannon into the sun.
+
+169
+00:21:31.340 --> 00:21:32.060
+Kostadis Roussos: Really?
+
+170
+00:21:32.290 --> 00:21:33.080
+Wade Brown: Nope.
+
+171
+00:21:33.080 --> 00:21:33.610
+Kostadis Roussos: Huh.
+
+172
+00:21:34.370 --> 00:21:35.180
+Kostadis Roussos: Okay.
+
+173
+00:21:37.060 --> 00:21:39.410
+Kostadis Roussos: Just to hope, hopefully you guys still like me.
+
+174
+00:21:41.940 --> 00:21:42.870
+David Mendenhall: Bill…
+
+175
+00:21:46.100 --> 00:21:50.300
+Kostadis Roussos: You know, I'm kind of optimistically assuming that there was a, you did.
+
+176
+00:21:54.180 --> 00:21:54.840
+Gary Young: Nope, what?
+
+177
+00:21:54.840 --> 00:21:56.039
+David Mendenhall: I haven't said anything.
+
+178
+00:21:56.040 --> 00:21:59.989
+Kostadis Roussos: No, you don't. You didn't. That's what worries me. You didn't?
+
+179
+00:21:59.990 --> 00:22:01.530
+David Mendenhall: What plus 1 shield?
+
+180
+00:22:02.480 --> 00:22:04.430
+Kostadis Roussos: Hold on, let me go take care of things.
+
+181
+00:22:05.720 --> 00:22:15.670
+Wade Brown: Who actually gets the shield? Because I can't use shields, Brewery won't. Yeah, it makes most sense to Velphine. That's right, clerics can use, shields, can't they?
+
+182
+00:22:16.600 --> 00:22:21.050
+Wade Brown: I'm used to WoW clerics that are, you know, paper armor.
+
+183
+00:22:25.370 --> 00:22:25.920
+Kostadis Roussos: Just…
+
+184
+00:22:33.690 --> 00:22:35.659
+David Mendenhall: Did you have a shield before, Gary?
+
+185
+00:22:37.730 --> 00:22:41.949
+David Mendenhall: You went from no shield to shield, or it was a shield upgrade?
+
+186
+00:22:43.400 --> 00:22:44.369
+Kostadis Roussos: Alright, where are we?
+
+187
+00:22:45.260 --> 00:22:52.450
+Gary Young: Let me check. But I suspect I had the, you know, nearly free,
+
+188
+00:22:52.820 --> 00:22:56.500
+David Mendenhall: the standard… 2AC shield.
+
+189
+00:22:58.190 --> 00:23:03.030
+Wade Brown: That's your die roll from a… or your attack roll from a D8 to a D6 kind of shield.
+
+190
+00:23:03.660 --> 00:23:05.689
+David Mendenhall: I would like to ask the DM a question.
+
+191
+00:23:05.960 --> 00:23:06.700
+Kostadis Roussos: Okay.
+
+192
+00:23:07.070 --> 00:23:12.380
+David Mendenhall: How different does this shield look from a standard It's N-Shield.
+
+193
+00:23:12.380 --> 00:23:13.529
+Wade Brown: Wait, quick.
+
+194
+00:23:13.530 --> 00:23:14.160
+Kostadis Roussos: It painted…
+
+195
+00:23:14.430 --> 00:23:15.020
+Wade Brown: Sweet.
+
+196
+00:23:15.020 --> 00:23:18.310
+Kostadis Roussos: Wait, are we now doing detecting magical items?
+
+197
+00:23:18.310 --> 00:23:23.169
+David Mendenhall: This is out of… I'm asking you outside of my character, and then I will roleplay it.
+
+198
+00:23:23.390 --> 00:23:24.990
+Gary Young: I see the possible and shield now.
+
+199
+00:23:25.190 --> 00:23:26.150
+Gary Young: Thank you.
+
+200
+00:23:27.170 --> 00:23:29.500
+David Mendenhall: DM, can you advise?
+
+201
+00:23:29.500 --> 00:23:32.829
+Kostadis Roussos: Oh, we need to describe the shield, the plus one shield?
+
+202
+00:23:33.090 --> 00:23:33.710
+David Mendenhall: Yes.
+
+203
+00:23:36.750 --> 00:23:41.220
+Kostadis Roussos: I have… I have… I have… I have tables for that. You're going to have to give me a sec.
+
+204
+00:23:41.960 --> 00:23:42.830
+Gary Young: Alright.
+
+205
+00:23:43.790 --> 00:23:45.210
+Gary Young: Yes, I have.
+
+206
+00:23:45.320 --> 00:23:47.470
+Gary Young: Shield.
+
+207
+00:23:48.190 --> 00:23:48.960
+Kostadis Roussos: You do?
+
+208
+00:23:49.640 --> 00:23:51.770
+Wade Brown: Yeah, your shield polished up nicely.
+
+209
+00:23:52.670 --> 00:23:54.930
+David Mendenhall: That's basically what he would say, yes.
+
+210
+00:23:56.090 --> 00:23:56.670
+Kostadis Roussos: as possible.
+
+211
+00:23:56.670 --> 00:24:01.120
+Wade Brown: I see, the glorious light of the sun has put a brilliant shine on that thing.
+
+212
+00:24:04.100 --> 00:24:05.810
+Kostadis Roussos: Alright.
+
+213
+00:24:07.720 --> 00:24:08.250
+Kostadis Roussos: I mean…
+
+214
+00:24:08.250 --> 00:24:13.560
+David Mendenhall: We're doing a solo playthrough of Baldur's Gate 3 now, and I must say…
+
+215
+00:24:13.820 --> 00:24:17.339
+David Mendenhall: I really enjoyed not having to listen to all the lore.
+
+216
+00:24:20.140 --> 00:24:24.269
+David Mendenhall: You just go combat, combat, combat, combat…
+
+217
+00:24:24.270 --> 00:24:26.820
+Kostadis Roussos: You're missing the point… you're missing the point of the game.
+
+218
+00:24:26.820 --> 00:24:28.880
+David Mendenhall: The game is much better!
+
+219
+00:24:29.220 --> 00:24:33.530
+Wade Brown: You mean solo as in you're the only player, or there's only one character in the party?
+
+220
+00:24:33.950 --> 00:24:35.829
+David Mendenhall: Both, I've…
+
+221
+00:24:35.830 --> 00:24:36.310
+Wade Brown: Ow.
+
+222
+00:24:36.310 --> 00:24:40.120
+David Mendenhall: killed off all of the other companions. I think… I'm doing dark.
+
+223
+00:24:40.340 --> 00:24:45.130
+David Mendenhall: now is still alive, although I'm ignoring her, but I assume she will die soon.
+
+224
+00:24:46.790 --> 00:24:48.090
+Kostadis Roussos: Why will she die?
+
+225
+00:24:48.790 --> 00:24:49.790
+David Mendenhall: Well…
+
+226
+00:24:49.790 --> 00:24:50.610
+Wade Brown: Sadness.
+
+227
+00:24:50.610 --> 00:24:53.050
+David Mendenhall: The crash is not long for this world.
+
+228
+00:24:55.530 --> 00:24:58.259
+Wade Brown: Nothing is long for this world in the dark urge.
+
+229
+00:24:58.690 --> 00:24:59.880
+Wade Brown: So you, did you…
+
+230
+00:24:59.880 --> 00:25:00.890
+Kostadis Roussos: Dark Urge.
+
+231
+00:25:01.170 --> 00:25:02.120
+David Mendenhall: Oh, of course.
+
+232
+00:25:02.120 --> 00:25:04.410
+Wade Brown: So you chopped off Gail's hand in the portal.
+
+233
+00:25:04.410 --> 00:25:05.670
+David Mendenhall: Oh, yeah.
+
+234
+00:25:05.670 --> 00:25:09.610
+Kostadis Roussos: You're playing a Dark Urge in which you kill all of the characters.
+
+235
+00:25:09.610 --> 00:25:10.210
+David Mendenhall: Awesome, though.
+
+236
+00:25:10.210 --> 00:25:10.780
+Wade Brown: Lazelle.
+
+237
+00:25:10.780 --> 00:25:13.109
+David Mendenhall: Also known as Embrace Sturge.
+
+238
+00:25:15.230 --> 00:25:16.549
+Wade Brown: Fallen Paladin.
+
+239
+00:25:17.480 --> 00:25:18.869
+David Mendenhall: No, I'm playing…
+
+240
+00:25:18.870 --> 00:25:19.240
+Wade Brown: Ow.
+
+241
+00:25:20.030 --> 00:25:21.290
+David Mendenhall: Ranger Thief.
+
+242
+00:25:22.870 --> 00:25:23.900
+Wade Brown: Big archer.
+
+243
+00:25:23.900 --> 00:25:25.339
+David Mendenhall: Loomstalker? Yes.
+
+244
+00:25:26.380 --> 00:25:29.839
+Wade Brown: Always Sneak Archer. This time, I will not go Sneak Archer.
+
+245
+00:25:29.840 --> 00:25:30.180
+David Mendenhall: Sure.
+
+246
+00:25:30.180 --> 00:25:31.249
+Wade Brown: And I did it again.
+
+247
+00:25:31.250 --> 00:25:33.730
+David Mendenhall: That's the Skyrim trope, yes.
+
+248
+00:25:34.350 --> 00:25:36.060
+Wade Brown: And I did it again.
+
+249
+00:25:36.060 --> 00:25:36.580
+David Mendenhall: out.
+
+250
+00:25:37.990 --> 00:25:38.770
+Kostadis Roussos: Here we go.
+
+251
+00:25:39.410 --> 00:25:40.519
+David Mendenhall: Okay, I'm ready.
+
+252
+00:25:42.820 --> 00:25:47.760
+Kostadis Roussos: Well, it's a heater shield of dark, oiled, blackened oak, banded in iron.
+
+253
+00:25:48.320 --> 00:25:48.960
+David Mendenhall: Okay. The face?
+
+254
+00:25:48.960 --> 00:25:54.229
+Kostadis Roussos: This is carved with concentric rings of standing stones, old druid craft, the same geometry.
+
+255
+00:25:54.230 --> 00:25:55.250
+Wade Brown: Yeah, I recognize that.
+
+256
+00:25:55.750 --> 00:25:56.960
+Kostadis Roussos: The names above.
+
+257
+00:25:57.180 --> 00:26:05.289
+Kostadis Roussos: But, but the central boss has been chiseled out and replaced with a hammered iron disc bearing Talos' jagged bolt.
+
+258
+00:26:05.290 --> 00:26:07.829
+David Mendenhall: Oh… Oh, right.
+
+259
+00:26:08.050 --> 00:26:09.700
+David Mendenhall: That'll stand out like a sword.
+
+260
+00:26:09.700 --> 00:26:10.050
+Wade Brown: dog.
+
+261
+00:26:10.050 --> 00:26:10.770
+David Mendenhall: play.
+
+262
+00:26:10.930 --> 00:26:13.129
+David Mendenhall: Well, then I can't ignore that, then.
+
+263
+00:26:13.360 --> 00:26:14.340
+Wade Brown: Woof.
+
+264
+00:26:14.340 --> 00:26:15.739
+Kostadis Roussos: Well, no, but that looks…
+
+265
+00:26:15.740 --> 00:26:17.360
+David Mendenhall: And I want to be clear.
+
+266
+00:26:17.360 --> 00:26:17.810
+Kostadis Roussos: No, no.
+
+267
+00:26:17.810 --> 00:26:22.140
+David Mendenhall: The Cleric of Lathander is wielding a shield that has the image.
+
+268
+00:26:22.140 --> 00:26:25.370
+Kostadis Roussos: What you notice is that this was…
+
+269
+00:26:25.370 --> 00:26:25.890
+Gary Young: paste.
+
+270
+00:26:25.890 --> 00:26:32.489
+Kostadis Roussos: appropriated stuff, right? Because what happened, as you look at it more carefully, roll your investigation.
+
+271
+00:26:33.190 --> 00:26:34.500
+David Mendenhall: my investigation?
+
+272
+00:26:34.500 --> 00:26:35.290
+Kostadis Roussos: Yes, sir.
+
+273
+00:26:35.290 --> 00:26:36.710
+David Mendenhall: I don't notice anything.
+
+274
+00:26:36.710 --> 00:26:39.330
+Kostadis Roussos: Oh, perception. What's your perception? What's your passive perception?
+
+275
+00:26:40.450 --> 00:26:44.999
+David Mendenhall: Let's see, I got a… you would not believe this, but I actually got a 20 on my investigation.
+
+276
+00:26:45.100 --> 00:26:46.970
+Kostadis Roussos: Well, you, you…
+
+277
+00:26:46.970 --> 00:26:48.059
+David Mendenhall: Not a natural.
+
+278
+00:26:48.060 --> 00:27:02.040
+Kostadis Roussos: Just as you're about to say that, you overhear Soma's comments about druids, and your eyes go closely to the jagged bolt and realize that this, in fact, was stolen by the Telosians.
+
+279
+00:27:02.040 --> 00:27:05.129
+David Mendenhall: No doubt, well, of course it was stolen.
+
+280
+00:27:05.130 --> 00:27:05.630
+Kostadis Roussos: So, so you…
+
+281
+00:27:05.630 --> 00:27:06.699
+David Mendenhall: I already knew that.
+
+282
+00:27:06.700 --> 00:27:10.940
+Kostadis Roussos: You remove… you then wiggle the bolt, and it pops out.
+
+283
+00:27:12.230 --> 00:27:13.800
+Gary Young: Pops that, and what's underneath it?
+
+284
+00:27:14.370 --> 00:27:15.800
+Kostadis Roussos: Well, it just pops out. It was like…
+
+285
+00:27:16.210 --> 00:27:21.149
+Kostadis Roussos: Poorly… it was just… it was just a poorly, attached decoration.
+
+286
+00:27:21.470 --> 00:27:27.549
+Wade Brown: Oh, it kind of felt… it must have come off during one of the combats off of one of their armors and hit your shield.
+
+287
+00:27:27.550 --> 00:27:30.619
+Kostadis Roussos: The original carving was never sand smooth.
+
+288
+00:27:30.930 --> 00:27:36.599
+Kostadis Roussos: The bolt sat crookedly atop the older work, the way a brand sits on skin.
+
+289
+00:27:37.780 --> 00:27:38.450
+Kostadis Roussos: Oh my god.
+
+290
+00:27:39.150 --> 00:27:41.150
+Kostadis Roussos: The leather straps inside are newer than the.
+
+291
+00:27:41.150 --> 00:27:49.900
+David Mendenhall: It's not a Toloshian shield, which Delphina should be happy about, but it is still stolen.
+
+292
+00:27:49.900 --> 00:27:51.789
+Kostadis Roussos: Prutha… Prutha's going.
+
+293
+00:27:51.990 --> 00:27:55.030
+Kostadis Roussos: Pruda's very confused. This is a good shield.
+
+294
+00:27:56.010 --> 00:27:56.530
+David Mendenhall: Yeah.
+
+295
+00:27:57.010 --> 00:27:58.239
+David Mendenhall: But it's not his.
+
+296
+00:27:58.420 --> 00:28:02.020
+Kostadis Roussos: But I could use good shield. He goes…
+
+297
+00:28:02.020 --> 00:28:03.009
+David Mendenhall: Not yours either.
+
+298
+00:28:03.010 --> 00:28:08.010
+Kostadis Roussos: Then he, then he goes, Velphine, use good shield. Valfine, cleric of sun!
+
+299
+00:28:08.900 --> 00:28:09.700
+Gary Young: That's right.
+
+300
+00:28:09.900 --> 00:28:11.330
+Gary Young: You can use my shield.
+
+301
+00:28:12.960 --> 00:28:14.500
+Kostadis Roussos: See? Everyone benefits.
+
+302
+00:28:14.500 --> 00:28:18.170
+David Mendenhall: You can give them your shield, you can do whatever you want with your shield, but that shield…
+
+303
+00:28:18.170 --> 00:28:18.580
+Kostadis Roussos: Well then.
+
+304
+00:28:18.580 --> 00:28:18.909
+David Mendenhall: Not yours.
+
+305
+00:28:18.910 --> 00:28:20.450
+Kostadis Roussos: Call immediately, be quiet.
+
+306
+00:28:21.290 --> 00:28:23.269
+Gary Young: It's not mine. Be sure.
+
+307
+00:28:28.650 --> 00:28:31.800
+David Mendenhall: I recommend you guys do a better job hiding your…
+
+308
+00:28:33.250 --> 00:28:34.329
+Gary Young: I'm just gonna hold it.
+
+309
+00:28:34.330 --> 00:28:35.170
+David Mendenhall: Crown merchandise.
+
+310
+00:28:35.170 --> 00:28:36.640
+Gary Young: Until we find its owner.
+
+311
+00:28:37.650 --> 00:28:39.850
+Kostadis Roussos: By the way, there is precedent for that.
+
+312
+00:28:40.490 --> 00:28:44.519
+David Mendenhall: Yeah, you should… I guess we need to return it, but why… you can't use it.
+
+313
+00:28:44.710 --> 00:28:47.150
+David Mendenhall: It's not yours to use.
+
+314
+00:28:47.570 --> 00:28:48.100
+David Mendenhall: DJ.
+
+315
+00:28:48.100 --> 00:28:51.960
+Wade Brown: It's not expendable like the necklace of Fireball.
+
+316
+00:28:51.960 --> 00:28:55.989
+Kostadis Roussos: Plus, there's precedent. Blueberry goes, I got to keep the pahalberd.
+
+317
+00:28:57.010 --> 00:28:57.590
+David Mendenhall: What helper?
+
+318
+00:28:59.200 --> 00:29:01.410
+Kostadis Roussos: The halberd plus one.
+
+319
+00:29:03.610 --> 00:29:04.140
+Gary Young: Hold on.
+
+320
+00:29:07.240 --> 00:29:07.960
+Wade Brown: Isn't the one?
+
+321
+00:29:07.960 --> 00:29:09.459
+David Mendenhall: You got a new halberd?
+
+322
+00:29:09.890 --> 00:29:11.800
+David Mendenhall: Yo, what is going on here, guys?
+
+323
+00:29:11.980 --> 00:29:12.930
+Kostadis Roussos: go.
+
+324
+00:29:13.130 --> 00:29:14.220
+Wade Brown: I got a divorce.
+
+325
+00:29:14.220 --> 00:29:18.710
+Kostadis Roussos: We talked about this. You said, I can keep… no, we didn't talk about this.
+
+326
+00:29:18.710 --> 00:29:24.210
+David Mendenhall: No, I was not here for this conversation. I knew nothing about a plus one halberd.
+
+327
+00:29:25.460 --> 00:29:26.539
+Kostadis Roussos: Okay, I'm sorry.
+
+328
+00:29:28.440 --> 00:29:32.389
+Wade Brown: It's a little more subtle, though. It doesn't have a bunch of, like, fine filigree or anything, right?
+
+329
+00:29:32.390 --> 00:29:35.270
+David Mendenhall: It just looks a lot… Chirper.
+
+330
+00:29:35.270 --> 00:29:37.979
+Kostadis Roussos: Right, he goes, yeah.
+
+331
+00:29:37.980 --> 00:29:39.849
+David Mendenhall: I think it's sharpened it, on the sharpen.
+
+332
+00:29:39.850 --> 00:29:42.629
+Kostadis Roussos: You know, I haven't had enough alcohol.
+
+333
+00:29:43.990 --> 00:29:45.140
+David Mendenhall: You're mistaken.
+
+334
+00:29:45.140 --> 00:29:45.600
+Kostadis Roussos: Yeah.
+
+335
+00:29:45.600 --> 00:29:52.370
+David Mendenhall: This is the halberd you've had all along, you just sharpened it on a sharpening stone, and it just looks more lethal.
+
+336
+00:29:52.370 --> 00:29:53.110
+Kostadis Roussos: Yeah.
+
+337
+00:29:53.110 --> 00:29:57.779
+David Mendenhall: That's totally fine. You can just get your halberd as much as you want. No problem with that.
+
+338
+00:29:57.780 --> 00:29:59.369
+Gary Young: And it looks a little waterlogged.
+
+339
+00:29:59.380 --> 00:30:00.159
+Wade Brown: Excuse me.
+
+340
+00:30:00.460 --> 00:30:02.189
+Kostadis Roussos: Okay, don't you?
+
+341
+00:30:02.190 --> 00:30:03.870
+David Mendenhall: Is it rusted? No, it's not rusted.
+
+342
+00:30:03.870 --> 00:30:13.059
+Kostadis Roussos: No, no, no, he's making a comment. The leather straps inside are newer than the shield itself and smell faintly of pine tar and wet dog.
+
+343
+00:30:14.870 --> 00:30:20.219
+David Mendenhall: Okay, you want to wear the dog shield? I guess that is all up to you, Alfuna.
+
+344
+00:30:20.220 --> 00:30:27.620
+Kostadis Roussos: It's got, you know, and it's got a half-orc tally mark, 4 notches and a slash, 5 kills, or 5 storms weathered, or 5 somethings.
+
+345
+00:30:29.970 --> 00:30:31.009
+Wade Brown: 5 orc women.
+
+346
+00:30:31.010 --> 00:30:33.239
+David Mendenhall: Clearly, clearly not yours.
+
+347
+00:30:33.510 --> 00:30:34.869
+David Mendenhall: We need to return it.
+
+348
+00:30:35.760 --> 00:30:37.630
+David Mendenhall: Please mark it as blood.
+
+349
+00:30:38.300 --> 00:30:38.880
+Gary Young: Done.
+
+350
+00:30:39.480 --> 00:30:40.549
+Wade Brown: I tuned blood.
+
+351
+00:30:40.550 --> 00:30:46.400
+Kostadis Roussos: I mean, but, but, you know, someone could wear it, could be wearing it.
+
+352
+00:30:46.680 --> 00:30:49.899
+David Mendenhall: Yeah, someone can be an immoral asshole. Yeah, sure.
+
+353
+00:30:50.280 --> 00:30:53.550
+David Mendenhall: I prefer to live by an ethical code.
+
+354
+00:30:56.180 --> 00:30:57.640
+Gary Young: That's cool code.
+
+355
+00:30:57.880 --> 00:31:00.030
+Gary Young: It takes my things right.
+
+356
+00:31:00.400 --> 00:31:02.030
+David Mendenhall: Might makes for it.
+
+357
+00:31:02.340 --> 00:31:04.029
+David Mendenhall: Light makes right.
+
+358
+00:31:04.840 --> 00:31:09.830
+Kostadis Roussos: This is a common confusion amongst folks who follow the soap,
+
+359
+00:31:10.580 --> 00:31:18.640
+Kostadis Roussos: Balfina, they confuse… they think she's… she embraces the goodness of light. What she embraces is its absolute power.
+
+360
+00:31:19.880 --> 00:31:21.930
+Wade Brown: And the dark shadows it casts.
+
+361
+00:31:22.200 --> 00:31:36.330
+Kostadis Roussos: No, no, no, the fact that it just projects power, and people worship it. It's not like Loth, who's sneaking and doing things. I mean, this is, like, pure, total power causing harm 24 by 7, and people worship it as good. This is, like…
+
+362
+00:31:38.110 --> 00:31:44.810
+Kostadis Roussos: very different perspective on the sadness. It's kind of my… as the kind of… I see Valfining, but Gary, she is your character, so…
+
+363
+00:31:45.820 --> 00:31:47.029
+Gary Young: You hit it right up.
+
+364
+00:31:47.600 --> 00:31:51.090
+Kostadis Roussos: Like, it's 24x7 power, you know?
+
+365
+00:31:51.090 --> 00:31:51.680
+Gary Young: Well…
+
+366
+00:31:52.000 --> 00:31:54.859
+David Mendenhall: Well, no, more like 12 by 7.
+
+367
+00:31:55.530 --> 00:32:03.760
+Kostadis Roussos: Sorry, 12x7 power. And not, you know, the kind of power that's just tender, it's, like, hurting people 12 hours a day.
+
+368
+00:32:04.430 --> 00:32:05.280
+Gary Young: That's right.
+
+369
+00:32:07.810 --> 00:32:10.989
+Kostadis Roussos: And when it's not hurting them, they beg for it to come back.
+
+370
+00:32:11.340 --> 00:32:17.009
+Kostadis Roussos: And they're afraid of it not being around. I mean, like, this all fits Malfinay's personality perfectly.
+
+371
+00:32:17.500 --> 00:32:18.180
+Gary Young: Perfect.
+
+372
+00:32:19.250 --> 00:32:25.530
+Kostadis Roussos: Right. And now she feels… she feels closer to Lathander, who approves of her…
+
+373
+00:32:25.890 --> 00:32:28.710
+Kostadis Roussos: Curious new interpretation of his power.
+
+374
+00:32:29.890 --> 00:32:35.209
+David Mendenhall: I like that… I like that the cleric is changing the god instead of the god changing the cleric.
+
+375
+00:32:38.880 --> 00:32:40.000
+David Mendenhall: What's a new one?
+
+376
+00:32:43.000 --> 00:32:45.750
+Kostadis Roussos: That's how it always has been in Dungeons & Dragons.
+
+377
+00:32:49.160 --> 00:32:49.700
+David Mendenhall: Okay.
+
+378
+00:32:49.700 --> 00:32:50.270
+Gary Young: Well, you know.
+
+379
+00:32:50.270 --> 00:32:53.920
+Kostadis Roussos: The god… the gods are… the gods reflect the choices, not the other way around.
+
+380
+00:32:54.890 --> 00:32:58.989
+Gary Young: The gods have domains, and there's ways to, you know, look at each god through the
+
+381
+00:32:59.460 --> 00:33:01.059
+Gary Young: Any one of their domains.
+
+382
+00:33:01.620 --> 00:33:05.889
+Kostadis Roussos: Hold on, I just… I just… you rolled a natural… no, Gary rolled a natural for me.
+
+383
+00:33:06.130 --> 00:33:08.189
+Gary Young: I rolled a natural 20 on the shield, yeah.
+
+384
+00:33:08.190 --> 00:33:09.940
+Kostadis Roussos: Okay. Alright.
+
+385
+00:33:09.940 --> 00:33:11.819
+Wade Brown: You looked at it very well.
+
+386
+00:33:13.790 --> 00:33:15.589
+David Mendenhall: Well, what's next?
+
+387
+00:33:15.590 --> 00:33:16.370
+Kostadis Roussos: Wait.
+
+388
+00:33:16.370 --> 00:33:17.940
+David Mendenhall: Oh.
+
+389
+00:33:18.400 --> 00:33:28.649
+Kostadis Roussos: So you have two choices. You can either… well, you have many… you have infinite choices, but the two… the two of the most obvious ones are, you can either go to the Woodland Mance, where there is yet another attempt to summon something.
+
+390
+00:33:28.850 --> 00:33:31.579
+Kostadis Roussos: Or you can go to the Falcons Hunting Lodge, where there's the.
+
+391
+00:33:31.580 --> 00:33:40.249
+David Mendenhall: I decided what I was going to do. I refuse to do anything more for this guy unless I get an apology from him.
+
+392
+00:33:40.940 --> 00:33:43.190
+Wade Brown: The Falcon? Yeah, fuck that guy.
+
+393
+00:33:43.690 --> 00:33:44.759
+David Mendenhall: You want me to call him?
+
+394
+00:33:45.330 --> 00:33:48.339
+David Mendenhall: I mean, I can call him, but he better apologize.
+
+395
+00:33:48.340 --> 00:33:49.230
+Kostadis Roussos: Okay.
+
+396
+00:33:51.570 --> 00:33:52.810
+Wade Brown: descending Stones.
+
+397
+00:33:53.180 --> 00:33:54.259
+David Mendenhall: Oh, the funding as well.
+
+398
+00:33:54.260 --> 00:33:54.940
+Gary Young: We ask him…
+
+399
+00:33:54.940 --> 00:33:57.400
+Wade Brown: Is that right, you have to straight up spell for it, I forgot.
+
+400
+00:33:58.370 --> 00:33:59.010
+Wade Brown: I forgot.
+
+401
+00:33:59.010 --> 00:34:00.450
+David Mendenhall: I can call him!
+
+402
+00:34:00.930 --> 00:34:01.650
+Kostadis Roussos: Okay.
+
+403
+00:34:01.650 --> 00:34:02.990
+David Mendenhall: Alright, I'm gonna call him.
+
+404
+00:34:04.510 --> 00:34:05.819
+Wade Brown: Call his mother while you're at it.
+
+405
+00:34:05.820 --> 00:34:09.980
+Kostadis Roussos: Alright, so what do you say? I mean, he hears the ring.
+
+406
+00:34:11.469 --> 00:34:12.199
+Gary Young: I think…
+
+407
+00:34:12.780 --> 00:34:16.269
+Kostadis Roussos: You know, he… he… you don't know what he does, but he accepts the call, right?
+
+408
+00:34:16.270 --> 00:34:19.289
+David Mendenhall: What's, like, the fam… there's the famous, like,
+
+409
+00:34:19.650 --> 00:34:21.549
+David Mendenhall: Who… what was his name?
+
+410
+00:34:21.810 --> 00:34:29.540
+David Mendenhall: So Thomas… Justice Thomas. At some point, his wife… called…
+
+411
+00:34:29.980 --> 00:34:32.509
+David Mendenhall: Anita Hill, right? Do you remember this?
+
+412
+00:34:32.510 --> 00:34:33.999
+Wade Brown: Oh, God, sorry.
+
+413
+00:34:34.000 --> 00:34:45.980
+David Mendenhall: He said, like, are you, like, are you finally ready to apologize to my husband for what you did to him during his confirmation hearing? So I got that sort of… and, like, that was just ridiculous that she did that.
+
+414
+00:34:46.460 --> 00:34:54.359
+David Mendenhall: But, but she actually did. So that is the indignant tone that I take, just as Thomas's wife calling Anita Hill.
+
+415
+00:34:54.469 --> 00:35:01.130
+David Mendenhall: Are you finally ready to apologize for the way you treated me at the Druid Summit?
+
+416
+00:35:04.050 --> 00:35:04.549
+Kostadis Roussos: Yeah, he.
+
+417
+00:35:04.550 --> 00:35:12.839
+Gary Young: clarify the context. We're considering whether or not to go, clear out all the, you know, the unwanted guests at your hunting lodge.
+
+418
+00:35:13.450 --> 00:35:15.680
+Kostadis Roussos: Did you add any of that, or do you… is it…
+
+419
+00:35:15.680 --> 00:35:29.489
+David Mendenhall: Yeah, no, I'll add that. The party… my friends here tell me we need to go, like, take care of your problem at the hunting lodge. I only have 25 words, right? But, you know, are you ready to apologize for what you did at the Druid Summit?
+
+420
+00:35:31.150 --> 00:35:32.330
+Kostadis Roussos: Thank you, yes?
+
+421
+00:35:33.130 --> 00:35:33.780
+David Mendenhall: Alright.
+
+422
+00:35:37.700 --> 00:35:38.519
+Kostadis Roussos: Thank you.
+
+423
+00:35:38.520 --> 00:35:39.780
+Wade Brown: Yes.
+
+424
+00:35:40.610 --> 00:35:41.509
+David Mendenhall: Okay, we can go.
+
+425
+00:35:41.670 --> 00:35:43.870
+Gary Young: Does it even require a persuasion rule.
+
+426
+00:35:44.050 --> 00:35:48.599
+Kostadis Roussos: I don't know, like, if somebody's offering to go clear his problem.
+
+427
+00:35:48.990 --> 00:35:52.389
+Kostadis Roussos: He's feeling bad about, you know, what he did.
+
+428
+00:35:53.500 --> 00:35:55.590
+David Mendenhall: Okay, as long as I got the apology.
+
+429
+00:35:56.830 --> 00:36:04.740
+Wade Brown: If you actually get… if you don't get the apology, you can just, you know, we can take care of the infestation and not exactly, protect the hunting lodge.
+
+430
+00:36:05.620 --> 00:36:06.500
+David Mendenhall: Mmm…
+
+431
+00:36:07.210 --> 00:36:07.580
+Wade Brown: just…
+
+432
+00:36:07.580 --> 00:36:08.069
+Kostadis Roussos: Just to…
+
+433
+00:36:08.070 --> 00:36:11.970
+Wade Brown: Just throwing that out there as, you know, possible ways out of this mess.
+
+434
+00:36:11.970 --> 00:36:13.949
+David Mendenhall: Sounds like he did apologize, though.
+
+435
+00:36:13.950 --> 00:36:14.960
+Gary Young: They can torture it.
+
+436
+00:36:15.220 --> 00:36:17.380
+Kostadis Roussos: So actually, hold on, hold on, he said…
+
+437
+00:36:17.380 --> 00:36:18.380
+Wade Brown: The orcs, you know…
+
+438
+00:36:18.380 --> 00:36:24.199
+Kostadis Roussos: He says a few more things. He says that he's not in Fandelin, he's on the road home.
+
+439
+00:36:25.400 --> 00:36:27.490
+Kostadis Roussos: He hopes to see you there.
+
+440
+00:36:28.810 --> 00:36:31.800
+Kostadis Roussos: And.
+
+441
+00:36:36.880 --> 00:36:39.980
+Gary Young: So, so why do we think there's a summoning ritual at the Mance?
+
+442
+00:36:40.220 --> 00:36:41.320
+Kostadis Roussos: Because there's an.
+
+443
+00:36:41.320 --> 00:36:42.460
+Wade Brown: Standard notes.
+
+444
+00:36:42.460 --> 00:36:44.620
+Kostadis Roussos: There's a tattered note that kind of suggested.
+
+445
+00:36:45.740 --> 00:36:48.010
+Gary Young: And we also think there's a summoning… Well, so hold up.
+
+446
+00:36:48.010 --> 00:36:53.169
+Kostadis Roussos: Hold on, you actually have a bunch of evidence to know that. You've got… The tattered note, right?
+
+447
+00:36:53.290 --> 00:36:55.659
+Kostadis Roussos: Which you should… which is… which is marked.
+
+448
+00:36:55.840 --> 00:37:02.169
+Kostadis Roussos: You've got the comment from somebody saying, well, if the first ritual doesn't succeed, the second ritual will be used.
+
+449
+00:37:04.320 --> 00:37:15.659
+Kostadis Roussos: Right? The third thing, the second ritual, and the third ritual fails, whoever's in charge will summon the monster, whatever, will summon whatever himself.
+
+450
+00:37:15.660 --> 00:37:16.820
+Wade Brown: Or whatever, yeah.
+
+451
+00:37:16.820 --> 00:37:20.390
+Kostadis Roussos: Right? The third… so that… those are the things, those are the pieces of information, you know.
+
+452
+00:37:20.860 --> 00:37:22.540
+Kostadis Roussos: You also know…
+
+453
+00:37:22.770 --> 00:37:28.980
+Kostadis Roussos: the thing that's confusing to you is why would they want, like, wasn't the Falcons Hunting Lodge supposed to be…
+
+454
+00:37:29.990 --> 00:37:33.469
+Kostadis Roussos: Controlled by the Telosian, so why would they want to go destroy it?
+
+455
+00:37:35.220 --> 00:37:35.930
+Kostadis Roussos: Right?
+
+456
+00:37:36.680 --> 00:37:37.620
+Wade Brown: Why, indeed.
+
+457
+00:37:37.620 --> 00:37:38.210
+Gary Young: by the tools.
+
+458
+00:37:39.060 --> 00:37:39.680
+Kostadis Roussos: What?
+
+459
+00:37:40.280 --> 00:37:41.849
+Gary Young: It's controlled by the Telosians.
+
+460
+00:37:43.080 --> 00:37:45.880
+Wade Brown: Remember we went there and they kicked our asses?
+
+461
+00:37:45.880 --> 00:37:47.339
+Kostadis Roussos: Well, the Woodland Mance is where they were.
+
+462
+00:37:47.340 --> 00:37:48.980
+Wade Brown: Oh, sorry, the other… right, yeah.
+
+463
+00:37:49.270 --> 00:37:58.150
+Gary Young: Yeah, so I definitely remember them kicking their ass there. I would like to think that they probably have spread out their forces, and then we're not gonna be quite, so…
+
+464
+00:37:58.300 --> 00:37:59.670
+Gary Young: Overlook, over…
+
+465
+00:38:01.130 --> 00:38:08.860
+Kostadis Roussos: So, so, so, yeah, so, so there's apparently some kind of summoning ritual going on. So you know, you know that there's a summoning ritual going on.
+
+466
+00:38:09.660 --> 00:38:14.259
+Kostadis Roussos: You know that it's one of two summoning rituals that are being attempted.
+
+467
+00:38:15.620 --> 00:38:18.030
+Kostadis Roussos: And so you… and so if you're…
+
+468
+00:38:18.320 --> 00:38:22.610
+Kostadis Roussos: So that… and you do know that there is something at the Falcons Hunting Lodge?
+
+469
+00:38:22.960 --> 00:38:30.069
+Kostadis Roussos: So, but you do know there are orcs there, but you don't know whose orcs.
+
+470
+00:38:32.090 --> 00:38:38.579
+Kostadis Roussos: You do know… so, the other thing you know is that, from, from, from your own…
+
+471
+00:38:39.310 --> 00:38:43.670
+Kostadis Roussos: From the events that you've acquired, is that there are… there's, like, 3 factions of works.
+
+472
+00:38:43.790 --> 00:38:48.999
+Kostadis Roussos: Independent players, the former tribe, and the Telosians.
+
+473
+00:38:51.350 --> 00:38:52.520
+Wade Brown: Catello scenes.
+
+474
+00:38:52.520 --> 00:38:55.340
+Gary Young: Our… our friend is… What's his name again?
+
+475
+00:38:55.600 --> 00:38:56.620
+Kostadis Roussos: Proof of it.
+
+476
+00:38:57.170 --> 00:39:02.199
+Gary Young: Prutha. So, Prutha, do you know anything about the orcs that are at the hunting lodge?
+
+477
+00:39:03.370 --> 00:39:08.279
+Kostadis Roussos: Does he know.
+
+478
+00:39:12.300 --> 00:39:13.099
+Kostadis Roussos: Just think.
+
+479
+00:39:16.220 --> 00:39:17.669
+Kostadis Roussos: Let me check my notes.
+
+480
+00:39:27.130 --> 00:39:34.989
+Kostadis Roussos: Quite honestly, he… all he knows is the three things that you guys said, that I just said.
+
+481
+00:39:38.540 --> 00:39:39.220
+Gary Young: Okay.
+
+482
+00:39:45.990 --> 00:39:47.980
+Wade Brown: You're breaking my balls, Prutha.
+
+483
+00:39:48.550 --> 00:39:49.070
+Gary Young: Yeah.
+
+484
+00:39:49.880 --> 00:39:51.439
+Gary Young: How influential is Prusa?
+
+485
+00:39:55.500 --> 00:39:56.530
+Wade Brown: Guessing not.
+
+486
+00:39:56.530 --> 00:39:57.670
+Kostadis Roussos: I mean,
+
+487
+00:40:02.310 --> 00:40:14.789
+Kostadis Roussos: I don't know, so, I mean, actually, he does know… he doesn't know a couple more things. He knows that there was… that the orcs took it, he heard some songs about it, he heard that they, you know, killed some dogs, he doesn't know who's staying there.
+
+488
+00:40:15.110 --> 00:40:16.010
+Kostadis Roussos: Now.
+
+489
+00:40:17.880 --> 00:40:19.140
+Gary Young: Yeah, but the.
+
+490
+00:40:19.140 --> 00:40:22.619
+Kostadis Roussos: And he does know the Anchorites moved their own through.
+
+491
+00:40:25.110 --> 00:40:27.800
+Gary Young: the Tolusians did take it over at one point.
+
+492
+00:40:28.090 --> 00:40:30.620
+Kostadis Roussos: Yes, I'm sorry I would tell you if I knew.
+
+493
+00:40:35.310 --> 00:40:36.000
+Gary Young: Oh.
+
+494
+00:40:38.000 --> 00:40:41.739
+Gary Young: Scenario 1, they're Tallosians, and then we destroyed them.
+
+495
+00:40:41.940 --> 00:40:45.009
+Gary Young: Scenario 2 is that they're not Telosians, and we get some alloys.
+
+496
+00:40:47.170 --> 00:40:55.640
+Kostadis Roussos: And yeah, so you're… yeah, so you either go to the… so it's… either interrupt the ritual and go to Falcon's Lodge, or go to Falcon's Lodge right now.
+
+497
+00:40:55.800 --> 00:40:56.719
+Kostadis Roussos: Up to you.
+
+498
+00:40:57.250 --> 00:40:59.030
+Kostadis Roussos: Or do something completely different.
+
+499
+00:40:59.440 --> 00:41:03.040
+David Mendenhall: I'm okay heading over there. He said he's gonna meet us there?
+
+500
+00:41:04.590 --> 00:41:06.960
+Kostadis Roussos: You know, to the… the Falcon's Lodge.
+
+501
+00:41:06.960 --> 00:41:08.890
+David Mendenhall: Yeah, but I'm gonna need some better spells.
+
+502
+00:41:11.060 --> 00:41:12.419
+Kostadis Roussos: You're going to spend the night.
+
+503
+00:41:12.990 --> 00:41:18.180
+David Mendenhall: Well, we definitely need to camp at some point, right? It's more than a day's journey to the lodge, right?
+
+504
+00:41:18.370 --> 00:41:25.600
+Kostadis Roussos: No, it's like a… Two-hour walk.
+
+505
+00:41:26.210 --> 00:41:31.090
+David Mendenhall: Oh, well… I would like to have some spell slots.
+
+506
+00:41:31.910 --> 00:41:36.399
+David Mendenhall: Unless there's a way to go. I need some new spells, too.
+
+507
+00:41:37.670 --> 00:41:38.309
+Wade Brown: I assume.
+
+508
+00:41:38.560 --> 00:41:41.440
+Wade Brown: My wild shape is up-to-date from somebody using me.
+
+509
+00:41:41.440 --> 00:41:42.079
+Kostadis Roussos: Yes, you were…
+
+510
+00:41:42.080 --> 00:41:43.030
+David Mendenhall: released.
+
+511
+00:41:44.840 --> 00:41:49.199
+Gary Young: I can manage a REST DB. Manage without a REST with DB.
+
+512
+00:41:51.120 --> 00:41:54.220
+David Mendenhall: How long before, Falcon arrives at his lodge?
+
+513
+00:41:55.860 --> 00:42:01.729
+Kostadis Roussos: You could probably figure he's probably gonna ride today, kind of thing.
+
+514
+00:42:04.090 --> 00:42:05.570
+Kostadis Roussos: I mean, you can ask him again.
+
+515
+00:42:08.940 --> 00:42:11.520
+David Mendenhall: Yeah, I can burn another spell.
+
+516
+00:42:12.480 --> 00:42:15.809
+David Mendenhall: Probably not the best use of a third level spell slot.
+
+517
+00:42:16.360 --> 00:42:17.980
+Wade Brown: More sending!
+
+518
+00:42:20.100 --> 00:42:21.489
+Kostadis Roussos: That's a 3rd level spell?
+
+519
+00:42:21.780 --> 00:42:23.590
+David Mendenhall: Yeah, it is.
+
+520
+00:42:24.190 --> 00:42:27.140
+Wade Brown: Kyle, I figured you were just out of level 1s and were pushing it up.
+
+521
+00:42:27.140 --> 00:42:31.079
+David Mendenhall: You know, I've got… I've burned 2 level 1s and 2 level 3s.
+
+522
+00:42:32.420 --> 00:42:35.039
+Gary Young: I also have sending, but,
+
+523
+00:42:35.890 --> 00:42:37.950
+Gary Young: That would be my last third level spell.
+
+524
+00:42:38.200 --> 00:42:48.409
+David Mendenhall: It's nice that you have one. No, it's okay, we can just assume he's gonna arrive soon. I just need something to resist lightning. Do we have anything for resisting lightning?
+
+525
+00:42:48.410 --> 00:42:49.559
+Wade Brown: Oh my god.
+
+526
+00:42:49.560 --> 00:42:50.780
+Gary Young: and I couldn't find anything.
+
+527
+00:42:50.940 --> 00:42:52.999
+Wade Brown: I don't think I took resistance.
+
+528
+00:42:53.500 --> 00:42:55.450
+Wade Brown: I do not appear to have it, no.
+
+529
+00:42:56.080 --> 00:42:57.749
+David Mendenhall: I feel like that is…
+
+530
+00:42:57.750 --> 00:42:58.349
+Wade Brown: I can create.
+
+531
+00:42:58.350 --> 00:42:59.649
+David Mendenhall: It might be important.
+
+532
+00:43:02.240 --> 00:43:05.490
+Gary Young: You know, we could do something like,
+
+533
+00:43:05.960 --> 00:43:10.559
+Gary Young: Obscuring mist or darkness. Like, that would at least, make it harder.
+
+534
+00:43:10.570 --> 00:43:16.079
+David Mendenhall: Well, Darkness prevents targeting, but Lightning doesn't require targeting.
+
+535
+00:43:17.280 --> 00:43:19.479
+Gary Young: Yeah, it's just like, you know, like, they may not, like.
+
+536
+00:43:20.130 --> 00:43:27.830
+Kostadis Roussos: So, I mean, okay, so I have done all my, my… you can take whatever op… I have now recalibrated everything, you can do whatever you want.
+
+537
+00:43:28.480 --> 00:43:31.039
+Kostadis Roussos: Take you want to take a long rest, take a long rest.
+
+538
+00:43:31.730 --> 00:43:38.430
+David Mendenhall: Well, I mean, if the lodge is in danger, and they're gonna summon something, and it's urgent, then no, we shouldn't do that.
+
+539
+00:43:40.520 --> 00:43:41.040
+Gary Young: Yeah.
+
+540
+00:43:45.290 --> 00:43:48.080
+David Mendenhall: We'll just have to make do with… with fewer spells.
+
+541
+00:43:49.380 --> 00:43:54.800
+Kostadis Roussos: The… I mean, or… or… So, okay.
+
+542
+00:43:56.520 --> 00:43:58.369
+David Mendenhall: Gary, you can decide.
+
+543
+00:44:05.310 --> 00:44:11.790
+Kostadis Roussos: I want to be precise. You do know that the ritual will happen again. You don't know if it will happen today.
+
+544
+00:44:12.220 --> 00:44:15.929
+Kostadis Roussos: You can roll a religion check to see
+
+545
+00:44:16.840 --> 00:44:18.709
+Kostadis Roussos: To get any insight on that.
+
+546
+00:44:19.720 --> 00:44:21.389
+Gary Young: Or a nature trek, maybe?
+
+547
+00:44:22.070 --> 00:44:24.270
+Kostadis Roussos: Or a Soma can roll the nature check.
+
+548
+00:44:24.270 --> 00:44:25.260
+Wade Brown: Definitely.
+
+549
+00:44:26.260 --> 00:44:27.750
+Kostadis Roussos: Alright, Soma?
+
+550
+00:44:27.900 --> 00:44:29.000
+Wade Brown: Yeah, I gotcha.
+
+551
+00:44:29.500 --> 00:44:30.290
+Wade Brown: Gamma.
+
+552
+00:44:32.140 --> 00:44:33.180
+David Mendenhall: Oh, that's ugly.
+
+553
+00:44:33.640 --> 00:44:35.890
+Gary Young: And I have a 17 religion.
+
+554
+00:44:36.070 --> 00:44:36.660
+Kostadis Roussos: Alright.
+
+555
+00:44:36.660 --> 00:44:39.689
+Wade Brown: Anytime I roll Nature in the Woods, yes.
+
+556
+00:44:40.900 --> 00:44:42.000
+Kostadis Roussos: So…
+
+557
+00:44:42.000 --> 00:44:42.420
+David Mendenhall: Nice.
+
+558
+00:44:43.570 --> 00:44:46.059
+Kostadis Roussos: So the… so what you do know… so…
+
+559
+00:44:46.850 --> 00:44:56.329
+Kostadis Roussos: Given the complexity of the ritual, having both… the probability of somebody running both rituals at the same time in two locations probably would make no sense.
+
+560
+00:44:58.670 --> 00:44:59.490
+Kostadis Roussos: Right, so…
+
+561
+00:44:59.490 --> 00:45:00.290
+Gary Young: it is, then?
+
+562
+00:45:00.500 --> 00:45:01.809
+Kostadis Roussos: So, some…
+
+563
+00:45:01.960 --> 00:45:08.080
+Kostadis Roussos: So whoever's going to do it, then… the other option is to go to the other place. Okay, so to the lodge. All right.
+
+564
+00:45:08.080 --> 00:45:14.979
+David Mendenhall: Let's head to the lodge, you know, and we can scope it out, and we'll be there in 2 hours, and we can see what we see. That's fine.
+
+565
+00:45:20.640 --> 00:45:21.430
+Wade Brown: And we can get our ass.
+
+566
+00:45:21.430 --> 00:45:28.490
+David Mendenhall: And that's where the Falcon… that's where the Falcon's headed anyway, and we just talked to him, so… seems like that makes the most sense.
+
+567
+00:45:28.510 --> 00:45:29.050
+Kostadis Roussos: Alright.
+
+568
+00:45:29.050 --> 00:45:31.409
+Gary Young: We'll approach the honey lodge from the south, though.
+
+569
+00:45:31.750 --> 00:45:32.600
+Wade Brown: Hmm.
+
+570
+00:45:33.220 --> 00:45:34.329
+David Mendenhall: Sure, that's fine.
+
+571
+00:45:34.920 --> 00:45:40.860
+Wade Brown: Was it last time there was, like, the transformed boar or whatever? Or they were… they were hiding out as boars?
+
+572
+00:45:41.140 --> 00:45:42.139
+Kostadis Roussos: That was in the manse.
+
+573
+00:45:42.140 --> 00:45:45.700
+Wade Brown: Goddamn, why do I keep mixing up the Mance and the Lodge? The Mance, yeah.
+
+574
+00:45:45.700 --> 00:45:47.100
+David Mendenhall: We just cleared out the manse.
+
+575
+00:45:47.100 --> 00:45:50.209
+Kostadis Roussos: No, you cleared out the circle. The man says what you have not cleared out.
+
+576
+00:45:50.210 --> 00:45:51.840
+David Mendenhall: Oh, oh, I'm sorry.
+
+577
+00:45:51.840 --> 00:45:54.340
+Wade Brown: Yes, we have options for the mans and the lodge.
+
+578
+00:45:54.340 --> 00:45:54.940
+Kostadis Roussos: Okay, so…
+
+579
+00:45:54.940 --> 00:45:56.810
+David Mendenhall: We're at, we're at Circle of Thunder.
+
+580
+00:45:56.810 --> 00:45:59.240
+Kostadis Roussos: Yes, yes, the map is quite clear on that.
+
+581
+00:45:59.240 --> 00:46:02.110
+David Mendenhall: Red Circle of Thunder, and we're heading to the loft. Got it.
+
+582
+00:46:02.290 --> 00:46:02.790
+Kostadis Roussos: Yes.
+
+583
+00:46:03.100 --> 00:46:05.790
+David Mendenhall: But there were boars at the Circle of Thunder, which…
+
+584
+00:46:06.250 --> 00:46:07.470
+Wade Brown: There's boars everywhere.
+
+585
+00:46:07.770 --> 00:46:08.350
+Kostadis Roussos: Hmm.
+
+586
+00:46:10.420 --> 00:46:15.170
+Kostadis Roussos: Am I doing this to myself? Because, of course, I choose to do this to myself.
+
+587
+00:46:16.480 --> 00:46:17.320
+Kostadis Roussos: Because I…
+
+588
+00:46:17.320 --> 00:46:18.510
+Wade Brown: Hang out with us.
+
+589
+00:46:19.160 --> 00:46:24.679
+Kostadis Roussos: No, I'm talking about the user interface snafu that I just engaged in, which irritated me.
+
+590
+00:46:25.650 --> 00:46:41.359
+Kostadis Roussos: And whenever user interface things happen that irritate me, it just infuriates me, and I get more and more cranky, and, you know, the universe starts to suck in different and spectacular ways, and then before you know it, I'm screaming about, you know, something that is of absolutely no value, and, you know.
+
+591
+00:46:44.830 --> 00:46:46.510
+Wade Brown: Old man yells at Cloud.
+
+592
+00:46:46.510 --> 00:46:47.440
+Kostadis Roussos: Yeah, I know.
+
+593
+00:46:47.440 --> 00:46:48.420
+David Mendenhall: Basically.
+
+594
+00:46:51.390 --> 00:46:52.000
+Kostadis Roussos: either.
+
+595
+00:46:52.270 --> 00:46:53.170
+Kostadis Roussos: Fair enough.
+
+596
+00:46:53.750 --> 00:46:57.540
+Wade Brown: By the way, can you lower your webcam? Because we only see, like, you from nose up.
+
+597
+00:46:58.120 --> 00:46:58.750
+Kostadis Roussos: How's that?
+
+598
+00:46:58.750 --> 00:46:59.630
+Wade Brown: That's better.
+
+599
+00:47:00.050 --> 00:47:01.180
+Kostadis Roussos: Traders.
+
+600
+00:47:02.130 --> 00:47:04.129
+Wade Brown: Sort of, like, prairie dog in it.
+
+601
+00:47:04.130 --> 00:47:05.589
+Kostadis Roussos: I was prairie dogging it.
+
+602
+00:47:07.340 --> 00:47:09.019
+David Mendenhall: Are you at home, Castados?
+
+603
+00:47:09.810 --> 00:47:10.320
+Wade Brown: H.
+
+604
+00:47:10.320 --> 00:47:13.119
+Kostadis Roussos: No, I'm at home. Oh, yeah, I have my.
+
+605
+00:47:13.120 --> 00:47:14.590
+David Mendenhall: And out in Santorini.
+
+606
+00:47:15.020 --> 00:47:17.869
+Kostadis Roussos: I have my, I have my, my, background.
+
+607
+00:47:19.120 --> 00:47:20.520
+Wade Brown: It's very convincing.
+
+608
+00:47:20.680 --> 00:47:21.660
+Kostadis Roussos: I know.
+
+609
+00:47:24.050 --> 00:47:27.270
+Kostadis Roussos: There we go. Fixed that. Alrighty.
+
+610
+00:47:27.480 --> 00:47:31.239
+Kostadis Roussos: Okie dokie, I need to do some prep. Alright.
+
+611
+00:47:36.970 --> 00:47:38.450
+Kostadis Roussos: Alrighty…
+
+612
+00:47:40.170 --> 00:47:50.389
+Kostadis Roussos: Okay. Before… do not move your players around. I have to do some prep here. Sorry. This was not the action… I did not think you were going this path. That's okay.
+
+613
+00:47:50.580 --> 00:47:51.090
+Kostadis Roussos: Totally.
+
+614
+00:47:51.090 --> 00:47:52.240
+David Mendenhall: I got an apology.
+
+615
+00:47:52.650 --> 00:47:54.200
+Kostadis Roussos: I… I… yes, I know.
+
+616
+00:47:54.200 --> 00:47:58.460
+Wade Brown: Sort of. I mean, you got, like, two words. He has to apologize before we go charging in, right?
+
+617
+00:47:58.460 --> 00:47:59.529
+David Mendenhall: I'm okay with that.
+
+618
+00:47:59.530 --> 00:48:04.120
+Kostadis Roussos: This is not you, Wade, this is.
+
+619
+00:48:04.120 --> 00:48:04.580
+Wade Brown: Peace.
+
+620
+00:48:04.580 --> 00:48:06.220
+Kostadis Roussos: This is lucrative.
+
+621
+00:48:09.560 --> 00:48:16.509
+Wade Brown: Oh, I guess I'm just saying what I heard through the sending stones… their sending spell wasn't, it was just like a, yes, I will give you an apology.
+
+622
+00:48:16.510 --> 00:48:20.670
+Kostadis Roussos: No, it was a yes. It was a thank you and yes. Do you apologize? He said, I apologize.
+
+623
+00:48:20.670 --> 00:48:21.469
+Wade Brown: Oh, okay.
+
+624
+00:48:21.470 --> 00:48:24.759
+Kostadis Roussos: He's categorical, unambiguous about his apology.
+
+625
+00:48:25.390 --> 00:48:26.769
+David Mendenhall: Yep, I'm cool with that.
+
+626
+00:48:27.670 --> 00:48:29.379
+Kostadis Roussos: Oh, I need Boney.
+
+627
+00:48:29.560 --> 00:48:32.250
+Kostadis Roussos: Oh, you can bring Boney on, and I also need… alright.
+
+628
+00:48:32.630 --> 00:48:36.029
+Wade Brown: He's… I can't put him in the right directory, but he's in the…
+
+629
+00:48:36.030 --> 00:48:37.640
+David Mendenhall: I thought we were approaching from the south.
+
+630
+00:48:38.360 --> 00:48:38.810
+Wade Brown: Right.
+
+631
+00:48:38.810 --> 00:48:40.789
+Kostadis Roussos: solves wherever you guys are coming from, just so…
+
+632
+00:48:40.790 --> 00:48:41.909
+David Mendenhall: We're, yeah, we're in the south.
+
+633
+00:48:41.910 --> 00:48:42.620
+Wade Brown: Whoops.
+
+634
+00:48:43.420 --> 00:48:43.980
+Kostadis Roussos: Right.
+
+635
+00:48:44.750 --> 00:48:47.819
+Wade Brown: At the… at the bottom of the… the… There we go.
+
+636
+00:48:48.030 --> 00:48:53.839
+Wade Brown: the list. I can't put… I can't put guys directly into the party, so they're all the way at the bottom of, like, the templates thing.
+
+637
+00:48:53.840 --> 00:48:55.769
+Kostadis Roussos: Alright, let me just add them to the party.
+
+638
+00:48:56.460 --> 00:48:57.929
+Wade Brown: Yeah, just move them up.
+
+639
+00:48:59.090 --> 00:49:03.270
+Wade Brown: I can add arbitrary tokens, I just can't put them in the party tab.
+
+640
+00:49:04.410 --> 00:49:05.690
+Kostadis Roussos: Oh, okay.
+
+641
+00:49:05.690 --> 00:49:08.850
+Wade Brown: Yeah, I know, they love making this UI retarded.
+
+642
+00:49:08.850 --> 00:49:10.910
+Kostadis Roussos: Yeah, I know, it's just amazing, isn't it?
+
+643
+00:49:11.210 --> 00:49:15.129
+Wade Brown: That, that is the feature, you know. The party members can't add things to the party.
+
+644
+00:49:15.130 --> 00:49:16.730
+David Mendenhall: should use Report a Bug.
+
+645
+00:49:16.730 --> 00:49:17.070
+Wade Brown: Man.
+
+646
+00:49:18.520 --> 00:49:20.220
+Kostadis Roussos: I should just…
+
+647
+00:49:20.220 --> 00:49:20.830
+Wade Brown: fix that.
+
+648
+00:49:20.830 --> 00:49:27.910
+Kostadis Roussos: No, what you should do is you should submit as Claude to give you a markdown document and send it to them.
+
+649
+00:49:31.800 --> 00:49:35.599
+Kostadis Roussos: Alright, where was I? Da-da, alright.
+
+650
+00:49:38.630 --> 00:49:43.850
+Kostadis Roussos: Okay, let me just go… Standard.
+
+651
+00:49:46.500 --> 00:49:47.600
+Kostadis Roussos: CDs…
+
+652
+00:49:54.030 --> 00:49:54.900
+Kostadis Roussos: Right.
+
+653
+00:49:59.710 --> 00:50:03.229
+David Mendenhall: You guys do not have bardic Inspiration right now.
+
+654
+00:50:04.270 --> 00:50:06.049
+Wade Brown: I'm not particle-inspired.
+
+655
+00:50:06.050 --> 00:50:09.429
+David Mendenhall: No, we would have to short rest for that.
+
+656
+00:50:11.890 --> 00:50:18.880
+Wade Brown: Let's see… So, my… Do I still have Gary's Bless? I think that expires after 10 minutes, doesn't it?
+
+657
+00:50:21.960 --> 00:50:23.559
+David Mendenhall: Gary, how long does your bus last?
+
+658
+00:50:27.190 --> 00:50:28.300
+Wade Brown: Yeah, you're still muted.
+
+659
+00:50:28.300 --> 00:50:29.250
+David Mendenhall: You're muted, dude.
+
+660
+00:50:29.250 --> 00:50:30.799
+Gary Young: I will pull it up for you guys.
+
+661
+00:50:38.060 --> 00:50:40.409
+Kostadis Roussos: Has everybody done their thing?
+
+662
+00:50:42.010 --> 00:50:43.200
+Wade Brown: Oh, initiative.
+
+663
+00:50:43.200 --> 00:50:43.820
+Kostadis Roussos: Yeah.
+
+664
+00:50:44.440 --> 00:50:45.660
+David Mendenhall: Why are we rolling initiative?
+
+665
+00:50:45.660 --> 00:50:47.820
+Kostadis Roussos: Cause we're gonna need it.
+
+666
+00:50:50.080 --> 00:50:52.170
+David Mendenhall: We were just scouting…
+
+667
+00:50:52.490 --> 00:50:54.419
+Kostadis Roussos: Yeah, I didn't say that, I didn't say anything.
+
+668
+00:50:55.290 --> 00:50:57.870
+David Mendenhall: A role initiative when there's an actual combat.
+
+669
+00:50:59.620 --> 00:51:01.370
+Kostadis Roussos: Alright, da-da…
+
+670
+00:51:02.240 --> 00:51:03.569
+David Mendenhall: There is no bore.
+
+671
+00:51:08.080 --> 00:51:08.830
+Kostadis Roussos: Great.
+
+672
+00:51:11.070 --> 00:51:13.789
+David Mendenhall: There is no combat. I am not rolling initiative.
+
+673
+00:51:13.910 --> 00:51:15.110
+Kostadis Roussos: I know, I was just…
+
+674
+00:51:15.720 --> 00:51:24.339
+Kostadis Roussos: The lodge stands where it always was, a two-story timber and stone building, a guest off to the side, a stable house and smithy joined into structure.
+
+675
+00:51:24.540 --> 00:51:26.420
+Kostadis Roussos: With the outhouse and pens.
+
+676
+00:51:27.200 --> 00:51:32.169
+Kostadis Roussos: A wooden palisade 10 feet high encloses the compound.
+
+677
+00:51:33.520 --> 00:51:44.920
+Kostadis Roussos: The Palisade is intact, but it's been repaired in places with mismatched wood, newer planks, lashed in with rough cords. Whatever holds the lodge has been improving its defenses, not demolishing.
+
+678
+00:51:46.930 --> 00:52:00.459
+Kostadis Roussos: Demolishing them. Three fingers stand on the walkway behind the palisade, watching the treeline. Even from here, you can tell they've seen you. Two of them have bows drawn, but not raised. The third one is shouting something behind her into the courtyard.
+
+679
+00:52:03.050 --> 00:52:12.870
+Kostadis Roussos: Prutha shouts, Eastern Heart! Three banners on the wall! I see one! Sun and Stone! My uncle's clan march! They are family!
+
+680
+00:52:13.490 --> 00:52:14.050
+David Mendenhall: Oh.
+
+681
+00:52:14.480 --> 00:52:16.100
+David Mendenhall: Okay, so, okay.
+
+682
+00:52:16.280 --> 00:52:17.180
+David Mendenhall: Family.
+
+683
+00:52:17.430 --> 00:52:18.080
+Kostadis Roussos: Yes.
+
+684
+00:52:18.270 --> 00:52:25.069
+Kostadis Roussos: You immediately realize there was a note that was left behind in the, amongst all of the…
+
+685
+00:52:25.650 --> 00:52:31.500
+Kostadis Roussos: things that you found at the Circle of Thunder about somebody commenting about how the boy from the East
+
+686
+00:52:31.990 --> 00:52:33.150
+Kostadis Roussos: Dernhardt.
+
+687
+00:52:33.710 --> 00:52:36.679
+Kostadis Roussos: Was, was a good… was a good recruit.
+
+688
+00:52:38.430 --> 00:52:39.630
+Gary Young: As in Bertha.
+
+689
+00:52:40.000 --> 00:52:42.310
+Kostadis Roussos: And I don't know if it's Pruth or somebody else, right?
+
+690
+00:52:43.390 --> 00:52:43.950
+Gary Young: Ugh.
+
+691
+00:52:44.230 --> 00:52:49.609
+Kostadis Roussos: Alright. He approaches, he, he goes, I go talk. He approach… he starts.
+
+692
+00:52:49.610 --> 00:52:50.040
+David Mendenhall: Earth.
+
+693
+00:52:50.040 --> 00:52:52.110
+Kostadis Roussos: he goes to the Palisade, right?
+
+694
+00:52:54.060 --> 00:52:55.379
+Kostadis Roussos: He approaches the Palisade…
+
+695
+00:52:55.380 --> 00:52:57.090
+David Mendenhall: them about Lithander?
+
+696
+00:52:59.110 --> 00:52:59.790
+David Mendenhall: Shane?
+
+697
+00:52:59.950 --> 00:53:03.340
+Kostadis Roussos: Yes, big God! Power God! Sun God!
+
+698
+00:53:04.670 --> 00:53:05.889
+David Mendenhall: Son god!
+
+699
+00:53:08.230 --> 00:53:08.890
+Wade Brown: pick.
+
+700
+00:53:10.120 --> 00:53:11.606
+Kostadis Roussos: Yes.
+
+701
+00:53:13.500 --> 00:53:22.639
+Kostadis Roussos: He approaches the Palisade de Lone at a double root place, hands open, at 30 feet from the gate. Oh, so, actually, the palisade, I guess.
+
+702
+00:53:22.890 --> 00:53:24.990
+David Mendenhall: Yeah, we're not at the gate. We're in the south.
+
+703
+00:53:25.200 --> 00:53:27.490
+Kostadis Roussos: So he approaches this palace, this gate.
+
+704
+00:53:28.370 --> 00:53:29.620
+Gary Young: Alright, so…
+
+705
+00:53:30.460 --> 00:53:32.679
+Kostadis Roussos: I need… I need a orc.
+
+706
+00:53:34.180 --> 00:53:35.659
+Wade Brown: I'll prove to the icon?
+
+707
+00:53:36.040 --> 00:53:36.680
+Kostadis Roussos: What?
+
+708
+00:53:37.710 --> 00:53:38.330
+Wade Brown: Oh, yeah.
+
+709
+00:53:38.330 --> 00:53:41.200
+David Mendenhall: Yeah, we're coming in through the pen door there.
+
+710
+00:53:41.200 --> 00:53:41.650
+Kostadis Roussos: Yeah, that's.
+
+711
+00:53:41.650 --> 00:53:42.830
+David Mendenhall: door.
+
+712
+00:53:42.830 --> 00:53:46.169
+Kostadis Roussos: The Palisade is the Palisade, but let me just…
+
+713
+00:53:46.530 --> 00:53:51.100
+Kostadis Roussos: We just need to do, doo-do and make, like, give him a name.
+
+714
+00:53:56.180 --> 00:53:57.640
+Kostadis Roussos: Puthar.
+
+715
+00:54:04.650 --> 00:54:05.580
+Kostadis Roussos: Alright, yes.
+
+716
+00:54:05.580 --> 00:54:06.930
+David Mendenhall: 615.
+
+717
+00:54:08.580 --> 00:54:09.210
+Kostadis Roussos: What?
+
+718
+00:54:11.490 --> 00:54:13.939
+David Mendenhall: Oh, 15 out of 15, nice.
+
+719
+00:54:15.410 --> 00:54:20.330
+David Mendenhall: Thought this was, like, a… His numerical designation or something.
+
+720
+00:54:21.270 --> 00:54:23.359
+Wade Brown: I am not a number, I'm a free or a.
+
+721
+00:54:23.360 --> 00:54:26.069
+David Mendenhall: I am… I am PR1515.
+
+722
+00:54:26.540 --> 00:54:28.250
+David Mendenhall: I fight for the thunder.
+
+723
+00:54:31.300 --> 00:54:33.370
+Kostadis Roussos: Alright, alright, proof of, there we go.
+
+724
+00:54:33.730 --> 00:54:43.709
+Kostadis Roussos: Alright, you should even be able to move him. Let me just give me… I should probably give him something so that you guys can recognize him as. So, given that he's a follower of Lathanders.
+
+725
+00:54:43.710 --> 00:54:44.510
+David Mendenhall: Yeah.
+
+726
+00:54:44.510 --> 00:54:45.730
+Kostadis Roussos: Yellow it is.
+
+727
+00:54:46.050 --> 00:54:50.919
+David Mendenhall: Oh, he's glowing with the light of God.
+
+728
+00:54:50.920 --> 00:54:51.280
+Kostadis Roussos: Or…
+
+729
+00:54:51.280 --> 00:54:51.960
+Wade Brown: hilarious.
+
+730
+00:54:54.630 --> 00:55:06.269
+Kostadis Roussos: He approaches the Palisade alone at a deliberate pace, hands open. At 30 feet from the gate, he performs the Don Bow. Right fist to left shoulder, head down. He pulls…
+
+731
+00:55:06.410 --> 00:55:10.149
+Kostadis Roussos: The bone whistled from inside his armor and blows the dawn prayer.
+
+732
+00:55:10.740 --> 00:55:11.400
+David Mendenhall: Whoa.
+
+733
+00:55:12.830 --> 00:55:22.850
+Kostadis Roussos: the Palisade, whoever's there lowers her bow and retunes the bow. She shouts to him in orcish, he answers. Then she yells to the rest of the band, and yells back to him.
+
+734
+00:55:23.990 --> 00:55:31.019
+Kostadis Roussos: bring your drow, bring your Asimer, bring all of them. We are listening.
+
+735
+00:55:32.880 --> 00:55:33.810
+David Mendenhall: Sure, why not?
+
+736
+00:55:34.340 --> 00:55:34.870
+Gary Young: Yeah.
+
+737
+00:55:35.150 --> 00:55:36.339
+Wade Brown: It's a trap.
+
+738
+00:55:37.660 --> 00:55:39.530
+David Mendenhall: It's a trap, but I'll go anyway.
+
+739
+00:55:39.530 --> 00:55:40.440
+Kostadis Roussos: Okay.
+
+740
+00:55:40.440 --> 00:55:41.789
+Wade Brown: Don't forget, Bodie!
+
+741
+00:55:42.990 --> 00:55:43.420
+Kostadis Roussos: Doesn't go…
+
+742
+00:55:43.420 --> 00:55:43.969
+Gary Young: control pace.
+
+743
+00:55:43.970 --> 00:55:47.160
+David Mendenhall: I assume Boney has to stay at, like, the stables or something.
+
+744
+00:55:47.550 --> 00:55:49.159
+Wade Brown: Oh yeah, he can hang out in the pens.
+
+745
+00:55:49.450 --> 00:55:53.539
+David Mendenhall: And yeah, I don't… he's not in the pen… we haven't gone through the door yet.
+
+746
+00:55:53.540 --> 00:55:54.620
+Wade Brown: Oh, sorry, yeah.
+
+747
+00:55:54.620 --> 00:55:55.179
+David Mendenhall: Yeah, yeah.
+
+748
+00:55:55.650 --> 00:56:01.109
+Wade Brown: Oh, right, there's a stable house here, yeah, just kick them off in the stables, that's fine. Here you go, Boney. Chill out here.
+
+749
+00:56:01.110 --> 00:56:03.430
+David Mendenhall: No, the stable house is…
+
+750
+00:56:04.960 --> 00:56:05.550
+Kostadis Roussos: Hold on.
+
+751
+00:56:06.100 --> 00:56:06.860
+Wade Brown: Howdy.
+
+752
+00:56:07.380 --> 00:56:08.420
+David Mendenhall: Where is this table?
+
+753
+00:56:08.420 --> 00:56:09.500
+Wade Brown: No, that's the upper level, you're right.
+
+754
+00:56:09.500 --> 00:56:12.699
+Kostadis Roussos: No, no, this is… the stable house is… is past the pens, hold on.
+
+755
+00:56:12.820 --> 00:56:15.079
+David Mendenhall: Yeah, yeah, he's not in the stable house.
+
+756
+00:56:15.350 --> 00:56:17.040
+David Mendenhall: He's back, yeah, he's right there.
+
+757
+00:56:17.330 --> 00:56:18.699
+Kostadis Roussos: Alright, he's.
+
+758
+00:56:18.700 --> 00:56:19.909
+David Mendenhall: But we're not inside.
+
+759
+00:56:20.160 --> 00:56:21.149
+Kostadis Roussos: Well, you're inside now.
+
+760
+00:56:21.150 --> 00:56:22.590
+David Mendenhall: Oh, wait, oh, they let us in?
+
+761
+00:56:22.590 --> 00:56:23.289
+Kostadis Roussos: Yeah, yeah, yeah!
+
+762
+00:56:23.520 --> 00:56:27.410
+David Mendenhall: Oh, wow, okay, alright, we're in, okay, okay, cool.
+
+763
+00:56:27.410 --> 00:56:28.210
+Kostadis Roussos: The court…
+
+764
+00:56:28.210 --> 00:56:29.250
+David Mendenhall: We're walking.
+
+765
+00:56:29.370 --> 00:56:30.740
+Kostadis Roussos: Alright, fine.
+
+766
+00:56:31.450 --> 00:56:32.610
+David Mendenhall: A little anxious.
+
+767
+00:56:32.610 --> 00:56:41.270
+Kostadis Roussos: Alright, the courtyard is full of people, not warriors, people. Women with babies, old men around a cook fire, children playing a game with carved sticks near the wall, maybe a
+
+768
+00:56:42.250 --> 00:56:42.940
+Kostadis Roussos: What?
+
+769
+00:56:42.940 --> 00:56:43.840
+David Mendenhall: humans.
+
+770
+00:56:43.840 --> 00:56:54.479
+Kostadis Roussos: No, orcs. Maybe a dozen warriors among them. The rest non-combatants. They watch you the way refugees watch anyone who walks into their armed
+
+771
+00:56:55.500 --> 00:56:56.300
+Kostadis Roussos: Camp.
+
+772
+00:56:56.880 --> 00:57:03.599
+Kostadis Roussos: The person who drew you in, Prutha says, Vorgalong memory!
+
+773
+00:57:04.010 --> 00:57:08.109
+Kostadis Roussos: Comes down from the walkway. She's… okay, let me get an icon for her.
+
+774
+00:57:14.410 --> 00:57:15.970
+David Mendenhall: Shall we proselytize?
+
+775
+00:57:17.300 --> 00:57:19.200
+Wade Brown: Have you heard the good word?
+
+776
+00:57:20.070 --> 00:57:22.280
+David Mendenhall: I got a 22 on Persuasion!
+
+777
+00:57:24.090 --> 00:57:27.789
+Kostadis Roussos: I'm gonna let… I mean, so, I, I just wanna say that the… the…
+
+778
+00:57:29.440 --> 00:57:37.769
+Kostadis Roussos: person who should be making these comments is… is Gary. So, Gary, you are… you are the… you are the, chosen of Lathander.
+
+779
+00:57:39.240 --> 00:57:41.230
+Gary Young: Yeah, I'm not sure if they're worthy of.
+
+780
+00:57:42.620 --> 00:57:45.359
+Kostadis Roussos: Lathander approves.
+
+781
+00:57:45.880 --> 00:57:48.260
+David Mendenhall: I'm not sure if they're worthy,
+
+782
+00:57:48.390 --> 00:57:52.090
+David Mendenhall: Okay, so no proselytizing. Okay, okay, I'm good.
+
+783
+00:57:52.090 --> 00:57:52.680
+Gary Young: Yeah, yeah.
+
+784
+00:57:53.000 --> 00:57:53.780
+David Mendenhall: Alright.
+
+785
+00:57:56.070 --> 00:57:58.890
+Gary Young: We gotta, you know, like, scoop out the situation first.
+
+786
+00:58:00.610 --> 00:58:01.180
+Kostadis Roussos: Right.
+
+787
+00:58:02.740 --> 00:58:05.120
+Wade Brown: See if they're willing to take the sacrament first.
+
+788
+00:58:07.620 --> 00:58:08.390
+Kostadis Roussos: Where?
+
+789
+00:58:10.920 --> 00:58:12.210
+Kostadis Roussos: Let's see what I need to work out.
+
+790
+00:58:17.140 --> 00:58:18.310
+Kostadis Roussos: Alright.
+
+791
+00:58:19.630 --> 00:58:20.600
+Kostadis Roussos: Alright.
+
+792
+00:58:21.170 --> 00:58:33.679
+Kostadis Roussos: She's middle-aged, gray at the temples, broken nose, a scar across her jaw from something old. She wears Falcon's hunter cloak, taken from his closet, over orc-style leather.
+
+793
+00:58:34.050 --> 00:58:36.760
+Kostadis Roussos: Blueprin, do you say anything, or do you let it slide?
+
+794
+00:58:36.760 --> 00:58:39.639
+Wade Brown: Stolen clothing!
+
+795
+00:58:46.530 --> 00:58:47.550
+David Mendenhall: not worthy.
+
+796
+00:58:48.940 --> 00:58:49.720
+Gary Young: Not worthy.
+
+797
+00:58:51.280 --> 00:58:53.629
+David Mendenhall: You're right, Alfina. Not worthy.
+
+798
+00:58:55.030 --> 00:59:00.000
+Kostadis Roussos: Beside her stands a much older orc leaning on his spear like a walking stick.
+
+799
+00:59:01.400 --> 00:59:07.910
+Kostadis Roussos: So let's do… Gotta keep dropping these monsters.
+
+800
+00:59:09.310 --> 00:59:12.350
+Kostadis Roussos: And it's not the one that's at work, hearing it.
+
+801
+00:59:17.520 --> 00:59:18.640
+Kostadis Roussos: Alright.
+
+802
+00:59:19.450 --> 00:59:21.189
+Kostadis Roussos: Let's go to his name,
+
+803
+00:59:24.410 --> 00:59:27.360
+Kostadis Roussos: And it is an orc.
+
+804
+00:59:35.470 --> 00:59:38.110
+Kostadis Roussos: Oh, gold. Alright, so it's another orc over there.
+
+805
+00:59:38.690 --> 00:59:48.100
+Kostadis Roussos: And he looks at Valfine, and his eyes go directly to her holy symbol and stay there.
+
+806
+00:59:49.960 --> 00:59:53.810
+Kostadis Roussos: Says one word in orcish. Do you speak Orcish, Pelfina? I can't remember.
+
+807
+00:59:53.810 --> 00:59:54.170
+David Mendenhall: Absolutely.
+
+808
+00:59:54.170 --> 00:59:55.110
+Gary Young: Turkish, yeah.
+
+809
+00:59:55.400 --> 00:59:56.140
+David Mendenhall: Dogs.
+
+810
+00:59:56.350 --> 00:59:58.789
+Kostadis Roussos: And the word he says is dawn.
+
+811
+00:59:59.770 --> 01:00:02.060
+Gary Young: Yes, I'm the bringer of the dawn.
+
+812
+01:00:02.970 --> 01:00:04.509
+Gary Young: and painful dawn.
+
+813
+01:00:05.590 --> 01:00:09.560
+Kostadis Roussos: Alright.
+
+814
+01:00:10.110 --> 01:00:11.699
+Wade Brown: Good lord.
+
+815
+01:00:12.240 --> 01:00:18.500
+Kostadis Roussos: So… Let's see…
+
+816
+01:00:22.500 --> 01:00:26.370
+Kostadis Roussos: Okay. So, what do you want to negotiate? What do you want to tell her?
+
+817
+01:00:28.300 --> 01:00:30.940
+Gary Young: Tommy, why are you here in the… in the watch?
+
+818
+01:00:31.840 --> 01:00:32.559
+Kostadis Roussos: In the lodge?
+
+819
+01:00:32.560 --> 01:00:34.490
+David Mendenhall: Are you speaking ORC or common?
+
+820
+01:00:35.720 --> 01:00:36.340
+Gary Young: Torque.
+
+821
+01:00:36.850 --> 01:00:42.590
+David Mendenhall: Okay, so I… none of the rest of us understand. Okay. It's a private conversation.
+
+822
+01:00:43.040 --> 01:00:43.620
+David Mendenhall: Private company.
+
+823
+01:00:43.620 --> 01:00:46.809
+Kostadis Roussos: Hold on, alright, okay, so first of all, you know.
+
+824
+01:00:46.940 --> 01:00:55.789
+Kostadis Roussos: You've shown up in a bunch of these works, there's, like, you know, 12 armed guard-ish kind of people. I mean, it's not exactly a… there's lots of women and children kind of things.
+
+825
+01:00:57.110 --> 01:00:57.710
+Gary Young: Okay.
+
+826
+01:00:58.140 --> 01:01:04.779
+Kostadis Roussos: So, do you want to introduce yourselves? Like, do you want to just, you know, say who you are, or do you just want, like, what is it, like, how do you, like…
+
+827
+01:01:04.980 --> 01:01:12.790
+Kostadis Roussos: All you know is that Prutha got you into what is a war camp that probably getting out of is going to be dicey in the best of circumstances.
+
+828
+01:01:13.470 --> 01:01:15.860
+Gary Young: Well, I mean, we've got to figure out what their motives are first.
+
+829
+01:01:16.450 --> 01:01:20.490
+Kostadis Roussos: Right. Right. But do you want to tell them who you are? Like, why should they listen to you?
+
+830
+01:01:21.410 --> 01:01:23.209
+Gary Young: Well, I mean, we're here with Pritha.
+
+831
+01:01:24.060 --> 01:01:26.810
+Kostadis Roussos: Fair enough.
+
+832
+01:01:29.060 --> 01:01:39.730
+Kostadis Roussos: you do… so, Valfinay is a… is a very smart individual who's been involved in lots of societal politics, so role and insight.
+
+833
+01:01:39.880 --> 01:01:40.630
+David Mendenhall: Yes.
+
+834
+01:01:42.950 --> 01:01:43.690
+Gary Young: 28.
+
+835
+01:01:44.420 --> 01:01:45.480
+Kostadis Roussos: So…
+
+836
+01:01:45.790 --> 01:01:46.630
+Wade Brown: Good roll.
+
+837
+01:01:46.630 --> 01:01:47.810
+David Mendenhall: Plus 10?
+
+838
+01:01:48.130 --> 01:01:50.830
+David Mendenhall: Come on, man, you didn't get a 30, come on!
+
+839
+01:01:53.090 --> 01:02:05.690
+Kostadis Roussos: So… You immediately, intuit that they are the orcs that were displaced by Cryovane.
+
+840
+01:02:07.950 --> 01:02:10.130
+Wade Brown: I mean, was the dragon that.
+
+841
+01:02:10.130 --> 01:02:12.650
+Kostadis Roussos: So remember, just to remind you, just to remind you what happened.
+
+842
+01:02:12.650 --> 01:02:14.389
+Gary Young: From the… from the mountains in the south.
+
+843
+01:02:14.390 --> 01:02:14.900
+Kostadis Roussos: Right.
+
+844
+01:02:14.900 --> 01:02:17.199
+Wade Brown: The one that was the carver's vessel.
+
+845
+01:02:17.200 --> 01:02:20.560
+Kostadis Roussos: So they were… they used to live in, like, Icepire Castle.
+
+846
+01:02:21.390 --> 01:02:24.869
+Kostadis Roussos: The dragon came, they left it, they came down into the valley.
+
+847
+01:02:24.870 --> 01:02:26.520
+David Mendenhall: They are refugees.
+
+848
+01:02:26.940 --> 01:02:27.890
+Kostadis Roussos: Basically.
+
+849
+01:02:29.190 --> 01:02:33.230
+Kostadis Roussos: And so… so… so there, you know, so there, that's.
+
+850
+01:02:33.230 --> 01:02:36.079
+David Mendenhall: So, you have an opening, but you're speaking orc, so we don't… we can't.
+
+851
+01:02:36.080 --> 01:02:38.770
+Kostadis Roussos: I just wanted to know, so that you do, like, you do know that, right?
+
+852
+01:02:40.170 --> 01:02:40.720
+Gary Young: Okay.
+
+853
+01:02:41.760 --> 01:02:47.609
+Kostadis Roussos: You also know that the cult is coming, has a plan to attack them.
+
+854
+01:02:48.540 --> 01:02:49.630
+Gary Young: the… the…
+
+855
+01:02:49.630 --> 01:02:50.290
+Kostadis Roussos: The cult.
+
+856
+01:02:50.290 --> 01:02:51.450
+Wade Brown: Telosians?
+
+857
+01:02:51.600 --> 01:02:52.290
+Kostadis Roussos: Yes.
+
+858
+01:02:53.120 --> 01:02:53.740
+Gary Young: Okay.
+
+859
+01:02:54.060 --> 01:03:04.810
+Kostadis Roussos: Right? So these are things that you know, when you open your negotiation with them, right? Now, you're also a drow, so I have no idea which way this is gonna go, so let me get something to drink.
+
+860
+01:03:05.510 --> 01:03:08.090
+Kostadis Roussos: So I could… so I could prepare accordingly.
+
+861
+01:03:15.900 --> 01:03:17.740
+Gary Young: So… Yeah.
+
+862
+01:03:17.980 --> 01:03:22.139
+Gary Young: do they realize that they're in, in peril, I guess is the question.
+
+863
+01:03:22.630 --> 01:03:23.140
+Wade Brown: Awesome.
+
+864
+01:03:23.140 --> 01:03:25.619
+Kostadis Roussos: to drown, I've decided to get something with alcohol.
+
+865
+01:03:26.480 --> 01:03:27.110
+Gary Young: Perfect.
+
+866
+01:03:27.840 --> 01:03:31.709
+Wade Brown: I mean, do they also know that the… their home is now cleansed?
+
+867
+01:03:32.120 --> 01:03:33.269
+David Mendenhall: Not yet.
+
+868
+01:03:33.740 --> 01:03:35.710
+Wade Brown: Can we kill… we killed Krabein?
+
+869
+01:03:35.710 --> 01:03:40.020
+David Mendenhall: I don't know that. Velfina knows that, but they don't know it yet.
+
+870
+01:03:41.880 --> 01:03:49.040
+Kostadis Roussos: Yes, so I'm just saying, like, Velfina, you have some things that you could tell them that may or may make them happy or not.
+
+871
+01:03:50.300 --> 01:03:53.039
+Gary Young: Do they know the Tolusians are gonna come attack them?
+
+872
+01:03:53.840 --> 01:03:56.590
+Kostadis Roussos: Well, you can talk to them, right? I mean…
+
+873
+01:03:58.090 --> 01:04:02.090
+Gary Young: Hello, how did you get here, and what are your plans?
+
+874
+01:04:03.900 --> 01:04:08.340
+Kostadis Roussos: Okay, are you, are you…
+
+875
+01:04:08.630 --> 01:04:12.569
+Kostadis Roussos: Persuasion, intimidation, deception, like, how are you.
+
+876
+01:04:12.570 --> 01:04:14.619
+Gary Young: Probably closer to persuasion.
+
+877
+01:04:15.740 --> 01:04:20.090
+Kostadis Roussos: She… she looks at you funny.
+
+878
+01:04:20.380 --> 01:04:22.210
+Kostadis Roussos: She looks at Prutha funny.
+
+879
+01:04:22.330 --> 01:04:24.049
+Kostadis Roussos: And she says.
+
+880
+01:04:24.230 --> 01:04:34.599
+Kostadis Roussos: I… and she says in flawless orcish, so I don't have to do my dumb imitation, because apparently orcs are very intelligent, it's just that they have a really speech impediment when speaking common.
+
+881
+01:04:34.990 --> 01:04:35.690
+Gary Young: Yes, that's right.
+
+882
+01:04:35.690 --> 01:04:36.960
+Kostadis Roussos: I'm sorry.
+
+883
+01:04:36.960 --> 01:04:37.280
+Gary Young: clip.
+
+884
+01:04:37.280 --> 01:04:38.050
+Kostadis Roussos: Even though…
+
+885
+01:04:38.050 --> 01:04:40.999
+Gary Young: fluent orcish poetry is, you know? Perfect.
+
+886
+01:04:41.000 --> 01:04:42.040
+David Mendenhall: poetry.
+
+887
+01:04:42.550 --> 01:04:44.899
+Wade Brown: Blue Road, diverse yellow wood.
+
+888
+01:04:46.240 --> 01:04:51.069
+Kostadis Roussos: I mean, 800 years, I speak common. Still, propositions get wrong.
+
+889
+01:04:52.620 --> 01:04:53.350
+David Mendenhall: God.
+
+890
+01:04:56.110 --> 01:04:57.420
+David Mendenhall: propositions.
+
+891
+01:04:57.420 --> 01:04:58.050
+Kostadis Roussos: What?
+
+892
+01:04:58.260 --> 01:04:59.840
+David Mendenhall: propositions.
+
+893
+01:05:04.860 --> 01:05:06.180
+Kostadis Roussos: blah, blah, blah.
+
+894
+01:05:08.550 --> 01:05:09.580
+Kostadis Roussos: Alright.
+
+895
+01:05:10.450 --> 01:05:14.130
+Kostadis Roussos: Okay, so your first… okay, roll your persuasion.
+
+896
+01:05:17.110 --> 01:05:19.380
+David Mendenhall: Really? Gary's role in persuasion?
+
+897
+01:05:19.380 --> 01:05:20.019
+Kostadis Roussos: I'm in…
+
+898
+01:05:20.020 --> 01:05:21.570
+Wade Brown: He's in Orcish.
+
+899
+01:05:21.570 --> 01:05:23.660
+David Mendenhall: Well, at least it's above a 10.
+
+900
+01:05:23.660 --> 01:05:24.380
+Kostadis Roussos: What'd you roll?
+
+901
+01:05:24.540 --> 01:05:26.660
+Wade Brown: And 11.
+
+902
+01:05:29.260 --> 01:05:30.280
+Wade Brown: What's that?
+
+903
+01:05:30.280 --> 01:05:31.210
+David Mendenhall: And worse?
+
+904
+01:05:31.210 --> 01:05:31.729
+Gary Young: That's right, that'.
+
+905
+01:05:31.730 --> 01:05:33.109
+David Mendenhall: Could have been a 1.
+
+906
+01:05:33.940 --> 01:05:38.330
+Gary Young: If they're not particularly hostile, you know, like, they'd tell me, you know, what they're doing here.
+
+907
+01:05:39.490 --> 01:05:41.109
+David Mendenhall: He's so inquisitive.
+
+908
+01:05:41.610 --> 01:05:44.690
+Kostadis Roussos: So they, they, they, they look at you, and they say.
+
+909
+01:05:44.980 --> 01:05:53.239
+Kostadis Roussos: That… that she… she explains, that, her tribe has been… that the tribe has been looking for a new place to stay.
+
+910
+01:05:53.800 --> 01:05:56.000
+Kostadis Roussos: And they found this place abandoned.
+
+911
+01:05:56.650 --> 01:05:57.200
+David Mendenhall: Hmm.
+
+912
+01:05:58.130 --> 01:05:58.720
+Gary Young: You know, there's…
+
+913
+01:05:58.720 --> 01:06:00.120
+Wade Brown: Finders keepers!
+
+914
+01:06:00.750 --> 01:06:04.369
+Gary Young: there's some Telusian cultists, heading this way, and…
+
+915
+01:06:04.530 --> 01:06:07.509
+Gary Young: You know, starting a ritual that's pretty dangerous.
+
+916
+01:06:09.520 --> 01:06:13.780
+Kostadis Roussos: She, she looks at you and says, do you have proof?
+
+917
+01:06:15.570 --> 01:06:16.959
+Kostadis Roussos: You have the notes.
+
+918
+01:06:17.320 --> 01:06:17.990
+Gary Young: Yeah.
+
+919
+01:06:19.300 --> 01:06:22.800
+Gary Young: That's no… Can we talk?
+
+920
+01:06:22.800 --> 01:06:23.180
+Kostadis Roussos: Okay.
+
+921
+01:06:23.660 --> 01:06:28.099
+Gary Young: a local ranger named the Falcon, who,
+
+922
+01:06:28.420 --> 01:06:31.439
+Gary Young: You know, had, seen them, you know.
+
+923
+01:06:31.550 --> 01:06:34.830
+Gary Young: you know, staging an area east of here called the Woodland Mance.
+
+924
+01:06:36.210 --> 01:06:36.970
+Kostadis Roussos: Good to know.
+
+925
+01:06:36.970 --> 01:06:41.679
+Gary Young: One of their rituals, Got a couple hours to the north here, just a few hours ago.
+
+926
+01:06:42.590 --> 01:06:47.450
+Kostadis Roussos: Okay. She's, like, going, alright.
+
+927
+01:06:50.000 --> 01:06:56.430
+Kostadis Roussos: She looks at you very carefully and says, Mmm.
+
+928
+01:06:57.000 --> 01:06:59.140
+Kostadis Roussos: Well… We fight.
+
+929
+01:07:00.390 --> 01:07:02.599
+Gary Young: You want to help defend this location?
+
+930
+01:07:03.580 --> 01:07:13.769
+Kostadis Roussos: She looks around and says, if Tolosians come to kill, this best place to defend everyone here. She looks around and you realize there's, like, 20 or so non-combatants.
+
+931
+01:07:15.490 --> 01:07:17.330
+Gary Young: 20 out of 30.
+
+932
+01:07:17.330 --> 01:07:18.040
+Kostadis Roussos: Yes.
+
+933
+01:07:19.250 --> 01:07:28.269
+Kostadis Roussos: Right, and so you realize very quickly that if they were walking in the woods, they… and the fort… there was a bigger force, they would be overwhelmed by whatever tried to attack them.
+
+934
+01:07:30.240 --> 01:07:30.960
+Wade Brown: What are they?
+
+935
+01:07:31.290 --> 01:07:39.099
+Kostadis Roussos: Right? So, but she's definitely now positively predisposed to you, because you've told her about a credible threat, you've given her a warning.
+
+936
+01:07:39.480 --> 01:07:43.480
+Kostadis Roussos: So, if you want to move in to try to negotiate giving up the place.
+
+937
+01:07:43.690 --> 01:07:44.989
+Kostadis Roussos: This is a good time to try it.
+
+938
+01:07:44.990 --> 01:07:48.979
+David Mendenhall: How's it going? How's it going, Valfino? What are you guys talking about?
+
+939
+01:07:50.370 --> 01:07:54.220
+Gary Young: They say they came from, the southern.
+
+940
+01:07:54.220 --> 01:07:55.780
+David Mendenhall: Are you now talking in common?
+
+941
+01:07:56.460 --> 01:07:57.020
+Gary Young: Yeah.
+
+942
+01:07:57.180 --> 01:07:59.999
+David Mendenhall: Okay, well, they understand common, too, so…
+
+943
+01:08:00.000 --> 01:08:01.240
+Gary Young: I assume so, yeah.
+
+944
+01:08:01.240 --> 01:08:03.589
+David Mendenhall: So they will be understand… okay, go ahead.
+
+945
+01:08:04.150 --> 01:08:10.019
+Gary Young: I say they come from the southern mountains, and I told them about the Tolusians nearby.
+
+946
+01:08:10.430 --> 01:08:12.449
+David Mendenhall: Oh, were they displaced by the dragon?
+
+947
+01:08:13.960 --> 01:08:14.850
+Gary Young: Sounds like it.
+
+948
+01:08:15.940 --> 01:08:17.859
+Kostadis Roussos: Prutha says, yes.
+
+949
+01:08:19.109 --> 01:08:20.099
+Gary Young: dragon that you killed.
+
+950
+01:08:20.100 --> 01:08:21.260
+David Mendenhall: We killed the dragon.
+
+951
+01:08:23.200 --> 01:08:27.529
+Kostadis Roussos: They look… they… everybody stares at you in disbelief. You killed Dragon?
+
+952
+01:08:28.160 --> 01:08:29.889
+David Mendenhall: Yep, I got this.
+
+953
+01:08:29.899 --> 01:08:33.679
+Wade Brown: Does Frost, sack or whatever from him, right?
+
+954
+01:08:33.680 --> 01:08:36.180
+Kostadis Roussos: And you have proof, no less…
+
+955
+01:08:36.189 --> 01:08:37.349
+Gary Young: on, I mean, like.
+
+956
+01:08:38.350 --> 01:08:41.310
+David Mendenhall: Power of the Dawn defeats all enemies.
+
+957
+01:08:42.479 --> 01:08:49.459
+Kostadis Roussos: She looks at you, alright? She looks at you, goes, There's… Dragon is dead.
+
+958
+01:08:50.300 --> 01:08:51.390
+Wade Brown: Dragon dead.
+
+959
+01:08:51.399 --> 01:08:52.609
+David Mendenhall: Dragon's dead.
+
+960
+01:08:52.910 --> 01:08:54.890
+Kostadis Roussos: That home is now free to go back?
+
+961
+01:08:54.890 --> 01:08:55.999
+David Mendenhall: Yeah, you can go back.
+
+962
+01:08:56.000 --> 01:08:58.340
+Gary Young: Buy something worse than the dragon.
+
+963
+01:08:58.710 --> 01:09:00.870
+David Mendenhall: Did I… I… we could escort you.
+
+964
+01:09:02.550 --> 01:09:03.760
+Kostadis Roussos: No.
+
+965
+01:09:07.130 --> 01:09:20.930
+Kostadis Roussos: Alright… Okay, alright, so you've told them about the two cultists that are dead, right?
+
+966
+01:09:21.859 --> 01:09:28.530
+Kostadis Roussos: Yes, you told them about the fact the cult is coming, and you also told them,
+
+967
+01:09:29.000 --> 01:09:30.889
+Kostadis Roussos: about cryo and Vein.
+
+968
+01:09:31.630 --> 01:09:33.470
+Kostadis Roussos: So, she goes…
+
+969
+01:09:42.399 --> 01:09:44.010
+Kostadis Roussos: So she goes…
+
+970
+01:09:46.490 --> 01:09:54.410
+Kostadis Roussos: She's… she's now… she's now in a trustworthy moment, so what is it that she… she's, like… she looks at you and says.
+
+971
+01:09:54.810 --> 01:09:59.500
+Kostadis Roussos: What, what, what do you, what, you know, do you want to make an ask for something, or…
+
+972
+01:09:59.500 --> 01:10:05.309
+David Mendenhall: Well, I think we should, I mean, offer is to lead you back to your…
+
+973
+01:10:05.870 --> 01:10:08.009
+David Mendenhall: To the old… to your old home.
+
+974
+01:10:08.010 --> 01:10:09.889
+Wade Brown: Well, we can't escort her right now, right?
+
+975
+01:10:09.890 --> 01:10:10.290
+David Mendenhall: Definitely.
+
+976
+01:10:10.290 --> 01:10:12.670
+Wade Brown: this from the Telosians, they'll be here.
+
+977
+01:10:12.670 --> 01:10:13.969
+David Mendenhall: Why didn't leave now?
+
+978
+01:10:14.530 --> 01:10:15.150
+David Mendenhall: Who cares?
+
+979
+01:10:15.150 --> 01:10:18.370
+Wade Brown: We don't want to deal with the incoming cults, the ritual coming.
+
+980
+01:10:18.370 --> 01:10:21.299
+David Mendenhall: Why would you want to risk these 20 non-combatants?
+
+981
+01:10:21.300 --> 01:10:25.419
+Kostadis Roussos: She looks and goes, she goes, you cannot defend.
+
+982
+01:10:26.290 --> 01:10:29.499
+Kostadis Roussos: She, she, she's very fixated on… she, like.
+
+983
+01:10:30.270 --> 01:10:37.459
+Kostadis Roussos: Militarily speaking, 20 people in a forest being attacked by a group of… they don't have… you don't have enough people to come protect everyone.
+
+984
+01:10:37.460 --> 01:10:42.410
+David Mendenhall: Well, okay, I get that. Right. That's right.
+
+985
+01:10:42.410 --> 01:10:46.550
+Kostadis Roussos: Is it… she thinks… huh She thinks this is a highly defensible spot, I'm just trying to.
+
+986
+01:10:46.550 --> 01:11:04.320
+David Mendenhall: It's a highly defensible spot, sure. But you don't know, like, what threats are out there, right? Like, you could fight off these people, and then we leave, and there's somebody else that accosts you. Or you could leave now, when you know when these people are coming here, and if we leave, they'll come here and not follow us.
+
+987
+01:11:04.720 --> 01:11:07.570
+David Mendenhall: Like… You can get attacked at any time.
+
+988
+01:11:08.360 --> 01:11:10.529
+Gary Young: I mean, do we really need them to leave right now?
+
+989
+01:11:11.160 --> 01:11:11.950
+Gary Young: We don't.
+
+990
+01:11:12.110 --> 01:11:13.870
+Wade Brown: I don't think we need to leave right now.
+
+991
+01:11:15.230 --> 01:11:23.419
+David Mendenhall: I would say… The sooner you're back home, the better.
+
+992
+01:11:23.660 --> 01:11:29.009
+Kostadis Roussos: So she says, she says, you have proof cult operating today.
+
+993
+01:11:29.330 --> 01:11:36.869
+Kostadis Roussos: cult summon creature today. We kill creature today, we go… we safely go to Icepire.
+
+994
+01:11:37.790 --> 01:11:38.930
+David Mendenhall: Okay…
+
+995
+01:11:38.930 --> 01:11:44.719
+Kostadis Roussos: We… creature kill… we know where creature come. Creature come here. We prepare defenses.
+
+996
+01:11:44.900 --> 01:11:47.210
+Kostadis Roussos: We fight… we fight here.
+
+997
+01:11:47.360 --> 01:11:50.849
+Kostadis Roussos: We go out, creature attacks where creature wants.
+
+998
+01:11:51.630 --> 01:11:53.469
+David Mendenhall: Well, no, the creature's coming here.
+
+999
+01:11:54.050 --> 01:11:59.489
+Kostadis Roussos: Creature will catch up. She starts pointing at all the people around her. These… they don't move fast enough.
+
+1000
+01:11:59.790 --> 01:12:02.290
+Wade Brown: Yeah, Granny Smith is slow.
+
+1001
+01:12:02.290 --> 01:12:03.679
+David Mendenhall: You are slow.
+
+1002
+01:12:03.680 --> 01:12:08.700
+Kostadis Roussos: She, like, looks around… she looks at… she looks at, like, she… she points to old… the old guy.
+
+1003
+01:12:09.730 --> 01:12:12.209
+David Mendenhall: can carry the old… Brewberry can carry the old guy.
+
+1004
+01:12:12.210 --> 01:12:14.130
+Kostadis Roussos: Yeah, you can't carry it.
+
+1005
+01:12:14.540 --> 01:12:16.360
+Kostadis Roussos: So… Cheap points, by the way.
+
+1006
+01:12:16.440 --> 01:12:22.700
+David Mendenhall: Brewery can carry everybody. Put everybody on brewberry's back, and we'll go really… and we got Boney, too.
+
+1007
+01:12:22.700 --> 01:12:25.870
+Wade Brown: And you can ride the elk, I can carry a couple.
+
+1008
+01:12:26.480 --> 01:12:31.600
+Gary Young: There is a man called the Falcon who's coming here, Don't…
+
+1009
+01:12:32.510 --> 01:12:35.330
+David Mendenhall: He'll, he's, he'll, he'll help us defend.
+
+1010
+01:12:37.260 --> 01:12:37.880
+Kostadis Roussos: Hmm…
+
+1011
+01:12:38.820 --> 01:12:41.569
+David Mendenhall: We probably… you might want to let them know, Gary.
+
+1012
+01:12:41.570 --> 01:12:42.819
+Gary Young: We'll have to let him know.
+
+1013
+01:12:43.340 --> 01:12:44.000
+Kostadis Roussos: Holy crap.
+
+1014
+01:12:44.000 --> 01:12:46.160
+David Mendenhall: Ahead of time, so he's not surprised.
+
+1015
+01:12:46.160 --> 01:12:46.930
+Wade Brown: Shrishna.
+
+1016
+01:12:48.230 --> 01:12:55.350
+David Mendenhall: You want me to do it, or are you gonna do it? Somebody's gotta tell them. What?
+
+1017
+01:12:56.110 --> 01:12:56.610
+Gary Young: I'll do.
+
+1018
+01:12:56.610 --> 01:12:57.679
+David Mendenhall: I gotta call him?
+
+1019
+01:12:59.200 --> 01:13:00.300
+Gary Young: Okay, fine.
+
+1020
+01:13:00.300 --> 01:13:03.180
+David Mendenhall: I make all the calls. I think it's your turn to make a phone call.
+
+1021
+01:13:05.370 --> 01:13:06.929
+Wade Brown: Use your level 3 spots.
+
+1022
+01:13:06.930 --> 01:13:09.879
+Gary Young: Very long from now, so we could just, weed for a little bit.
+
+1023
+01:13:10.430 --> 01:13:11.659
+Gary Young: Let's do a short rest at me.
+
+1024
+01:13:11.660 --> 01:13:14.539
+David Mendenhall: Do you want to just, like, meet him outside the gates, and, like…
+
+1025
+01:13:14.650 --> 01:13:19.460
+David Mendenhall: calm him down before he comes in. We don't have to do magical notification.
+
+1026
+01:13:19.750 --> 01:13:22.930
+Kostadis Roussos: I mean, the worst possible thing is he might decide to attack.
+
+1027
+01:13:25.270 --> 01:13:26.500
+David Mendenhall: That would be bad.
+
+1028
+01:13:26.500 --> 01:13:27.390
+Kostadis Roussos: Yes, I've just…
+
+1029
+01:13:27.390 --> 01:13:32.610
+David Mendenhall: Although he is kind of washed up. He's never that great of a…
+
+1030
+01:13:32.610 --> 01:13:34.870
+Wade Brown: He's not a has-been, he's a never-was.
+
+1031
+01:13:37.420 --> 01:13:38.370
+Gary Young: Yeah, I don't know.
+
+1032
+01:13:38.370 --> 01:13:39.490
+David Mendenhall: So sad.
+
+1033
+01:13:40.030 --> 01:13:44.099
+Gary Young: I don't think we need to get them out right now. They can hang out here for a bit.
+
+1034
+01:13:44.100 --> 01:13:45.779
+David Mendenhall: Alright, so we're, we're short resting?
+
+1035
+01:13:46.360 --> 01:13:48.750
+David Mendenhall: Plan, is we're taking a one-hour break.
+
+1036
+01:13:50.320 --> 01:13:51.720
+David Mendenhall: Short rest is 1 hour, guys.
+
+1037
+01:13:51.720 --> 01:13:53.809
+Gary Young: Much out of a one-hour break, but .
+
+1038
+01:13:53.960 --> 01:13:56.330
+David Mendenhall: Short rest is 1 hour or 2 hours, Castadis?
+
+1039
+01:13:56.740 --> 01:13:58.180
+Kostadis Roussos: It's 1 hour.
+
+1040
+01:13:58.180 --> 01:13:59.849
+David Mendenhall: One hour. We can take a short rest.
+
+1041
+01:14:04.600 --> 01:14:06.629
+Gary Young: Yeah, I need… I need a short rest.
+
+1042
+01:14:06.930 --> 01:14:07.620
+David Mendenhall: Right.
+
+1043
+01:14:07.620 --> 01:14:09.299
+Gary Young: Crewberry could use a short rest, too.
+
+1044
+01:14:09.800 --> 01:14:10.480
+David Mendenhall: Huh.
+
+1045
+01:14:10.760 --> 01:14:15.450
+David Mendenhall: I need some… Yes, I need some recovery.
+
+1046
+01:14:22.220 --> 01:14:23.319
+Gary Young: How do we do…
+
+1047
+01:14:27.780 --> 01:14:29.090
+Gary Young: That's from that side.
+
+1048
+01:14:30.510 --> 01:14:36.339
+David Mendenhall: 1, 2, 3, 4… Take short rest. Confirm.
+
+1049
+01:14:38.240 --> 01:14:40.219
+Wade Brown: Down 3 hit points, what?
+
+1050
+01:14:42.490 --> 01:14:44.370
+Wade Brown: Definitely need that short rest.
+
+1051
+01:14:51.430 --> 01:14:54.459
+David Mendenhall: 4… 48 plus 4, alright.
+
+1052
+01:14:55.830 --> 01:14:57.870
+David Mendenhall: 48 plus 4…
+
+1053
+01:15:03.630 --> 01:15:05.579
+David Mendenhall: Wow, that's a lot. Okay.
+
+1054
+01:15:05.900 --> 01:15:06.870
+David Mendenhall: Is that right?
+
+1055
+01:15:07.180 --> 01:15:07.869
+David Mendenhall: Holy shit.
+
+1056
+01:15:08.660 --> 01:15:12.340
+Wade Brown: Can be. Oh, you rolled… yeah, you rolled 788.
+
+1057
+01:15:12.360 --> 01:15:15.309
+David Mendenhall: I didn't really need that many hit points. Okay, I guess.
+
+1058
+01:15:15.310 --> 01:15:17.359
+Wade Brown: Yeah, well, you could've rolled 1111.
+
+1059
+01:15:17.360 --> 01:15:18.090
+David Mendenhall: Yeah.
+
+1060
+01:15:18.090 --> 01:15:19.009
+Wade Brown: You never know.
+
+1061
+01:15:19.010 --> 01:15:20.120
+David Mendenhall: Yeah, that's true.
+
+1062
+01:15:23.640 --> 01:15:24.350
+Gary Young: I don't worry.
+
+1063
+01:15:25.110 --> 01:15:27.930
+Gary Young: What are broker's head dice? Are they D12 or D10?
+
+1064
+01:15:30.270 --> 01:15:30.980
+David Mendenhall: Who's?
+
+1065
+01:15:31.660 --> 01:15:32.260
+Gary Young: You're married?
+
+1066
+01:15:32.260 --> 01:15:33.280
+David Mendenhall: D10s.
+
+1067
+01:15:37.710 --> 01:15:38.770
+Gary Young: Alright.
+
+1068
+01:15:42.390 --> 01:15:44.909
+David Mendenhall: Alright, so after 2 hours, I will.
+
+1069
+01:15:44.910 --> 01:15:50.789
+Kostadis Roussos: Hold on, hold on, hold on. While this is going on… One of the…
+
+1070
+01:15:55.040 --> 01:15:58.669
+Kostadis Roussos: One, what's her name? Varuta says.
+
+1071
+01:15:58.840 --> 01:16:01.450
+Kostadis Roussos: You say one of your friends is out there?
+
+1072
+01:16:02.060 --> 01:16:02.740
+Gary Young: Yes.
+
+1073
+01:16:02.740 --> 01:16:03.670
+Wade Brown: friend.
+
+1074
+01:16:06.260 --> 01:16:07.710
+Wade Brown: Associate?
+
+1075
+01:16:07.710 --> 01:16:11.110
+Kostadis Roussos: She, she looks at, Soma… He apologized.
+
+1076
+01:16:11.110 --> 01:16:12.569
+David Mendenhall: Apologized. He's my friend.
+
+1077
+01:16:12.570 --> 01:16:18.370
+Kostadis Roussos: he looks at Soma, she looks at the… goes, all of you look different.
+
+1078
+01:16:18.600 --> 01:16:22.890
+Kostadis Roussos: One of you, stand on wall. Maybe he see you and come talk to us.
+
+1079
+01:16:24.070 --> 01:16:26.809
+David Mendenhall: Sure, I'll do it.
+
+1080
+01:16:26.810 --> 01:16:27.850
+Wade Brown: You'll do it? Alright.
+
+1081
+01:16:27.850 --> 01:16:30.150
+David Mendenhall: Yeah. We're friends now, he apologized.
+
+1082
+01:16:30.150 --> 01:16:34.930
+Kostadis Roussos: Brubberry asked at one point in time, what happened to the alcohol?
+
+1083
+01:16:36.160 --> 01:16:41.480
+Gary Young: Yeah, actually, probably Brewberry would, more quietly go off and look for the alcohol himself.
+
+1084
+01:16:41.480 --> 01:16:42.730
+Kostadis Roussos: Right, so…
+
+1085
+01:16:42.730 --> 01:16:44.100
+David Mendenhall: He's got an hour to kill, he's definitely.
+
+1086
+01:16:44.100 --> 01:16:49.249
+Kostadis Roussos: While this is going on, you hear Blueberry screaming in rage.
+
+1087
+01:16:49.410 --> 01:16:52.060
+Wade Brown: She's this.
+
+1088
+01:16:52.630 --> 01:16:56.040
+Kostadis Roussos: He shows up, and he shows you a broken cask.
+
+1089
+01:16:56.040 --> 01:16:57.530
+Wade Brown: Like…
+
+1090
+01:16:57.530 --> 01:17:00.690
+David Mendenhall: Like, broken, like, it's… like, it all leaked out.
+
+1091
+01:17:00.690 --> 01:17:01.440
+Kostadis Roussos: Like, it was way…
+
+1092
+01:17:01.440 --> 01:17:02.880
+David Mendenhall: tasted. Nobody drank it.
+
+1093
+01:17:02.880 --> 01:17:03.310
+Kostadis Roussos: Yes.
+
+1094
+01:17:03.310 --> 01:17:04.740
+David Mendenhall: Just went to ground.
+
+1095
+01:17:04.740 --> 01:17:05.450
+Kostadis Roussos: Yes.
+
+1096
+01:17:05.450 --> 01:17:06.700
+David Mendenhall: Oh, that is a waste.
+
+1097
+01:17:06.700 --> 01:17:11.649
+Kostadis Roussos: He's, like, furious. He's, like, saying, I will kill them all!
+
+1098
+01:17:12.050 --> 01:17:13.220
+Kostadis Roussos: Hold on.
+
+1099
+01:17:13.220 --> 01:17:15.060
+David Mendenhall: okay, okay, brewery.
+
+1100
+01:17:15.380 --> 01:17:17.569
+David Mendenhall: It's alright, calm down.
+
+1101
+01:17:17.570 --> 01:17:18.870
+Kostadis Roussos: The whole thing is, like, he's.
+
+1102
+01:17:18.870 --> 01:17:22.060
+David Mendenhall: We got a 21 persuasion. Calm down.
+
+1103
+01:17:22.060 --> 01:17:22.790
+Kostadis Roussos: He goes…
+
+1104
+01:17:22.790 --> 01:17:24.839
+David Mendenhall: So we're gonna get more… we're gonna get more alcohol.
+
+1105
+01:17:25.120 --> 01:17:29.359
+Kostadis Roussos: He goes, this… this is, you know, this is an outrage.
+
+1106
+01:17:30.620 --> 01:17:37.640
+David Mendenhall: Won't we have a… don't we have a spell for alcohol? Like, Hero's Feast or something like that? Comes with alcohol.
+
+1107
+01:17:37.640 --> 01:17:38.290
+Kostadis Roussos: No.
+
+1108
+01:17:38.690 --> 01:17:39.779
+David Mendenhall: I don't have that yet?
+
+1109
+01:17:41.050 --> 01:17:46.690
+Gary Young: By the way, the Falcon, does he have paintings of himself in his own house?
+
+1110
+01:17:47.460 --> 01:17:48.789
+David Mendenhall: Seems like something he would do.
+
+1111
+01:17:48.790 --> 01:17:53.530
+Wade Brown: Oh yeah, that's a good one. Except they can't tell us apart, we all look alike, but, you know.
+
+1112
+01:17:55.510 --> 01:17:57.790
+Gary Young: I'm like, the torrent of the SMS.
+
+1113
+01:17:57.790 --> 01:17:59.080
+David Mendenhall: Yeah.
+
+1114
+01:17:59.080 --> 01:18:00.869
+Wade Brown: She said it, we all look alike.
+
+1115
+01:18:00.870 --> 01:18:04.829
+Kostadis Roussos: Alright, so, so are you… so you're standing there, right?
+
+1116
+01:18:05.500 --> 01:18:07.479
+Kostadis Roussos: On the, on the Palisade?
+
+1117
+01:18:07.780 --> 01:18:09.490
+Kostadis Roussos: Lucas?
+
+1118
+01:18:09.490 --> 01:18:13.310
+David Mendenhall: I am, no, I am, yeah, where am I? Here, I got him, I got him.
+
+1119
+01:18:13.310 --> 01:18:15.590
+Kostadis Roussos: I'm just, like, you're standing on one of the Palisades, is what I'm saying.
+
+1120
+01:18:15.590 --> 01:18:16.700
+David Mendenhall: Yeah, like, right there.
+
+1121
+01:18:17.610 --> 01:18:30.300
+Kostadis Roussos: And, The Falcon tries to signal you, like, trying to say, You know, talked.
+
+1122
+01:18:30.300 --> 01:18:31.120
+David Mendenhall: Jay!
+
+1123
+01:18:34.190 --> 01:18:35.790
+Wade Brown: Hey, buddy!
+
+1124
+01:18:36.310 --> 01:18:37.429
+David Mendenhall: You made it!
+
+1125
+01:18:37.430 --> 01:18:40.240
+Kostadis Roussos: The Falcon pulls out his bow.
+
+1126
+01:18:40.240 --> 01:18:41.150
+Wade Brown: Oh.
+
+1127
+01:18:41.150 --> 01:18:45.390
+David Mendenhall: Oh, oh, oh, I'll come down, I'll come down, I'll come down. I'm coming, I'm coming!
+
+1128
+01:18:45.390 --> 01:18:46.400
+Wade Brown: Excuse me.
+
+1129
+01:18:46.570 --> 01:18:51.660
+Kostadis Roussos: He's like… He's, he's, like… you can see he's got, like, you know.
+
+1130
+01:18:52.340 --> 01:18:57.469
+Kostadis Roussos: A scene straight out of one of those, like, survival movies where, like, the…
+
+1131
+01:18:57.470 --> 01:18:59.179
+David Mendenhall: Became prepared for battle.
+
+1132
+01:18:59.180 --> 01:19:02.049
+Kostadis Roussos: Right, right. Face covered in war paint.
+
+1133
+01:19:02.050 --> 01:19:10.210
+David Mendenhall: We subdued all of the orcs that are here, they're gonna help us fight off the Telosians, and then we're gonna get them out of here.
+
+1134
+01:19:15.880 --> 01:19:17.730
+David Mendenhall: It's the best possible outcome.
+
+1135
+01:19:17.730 --> 01:19:21.070
+Kostadis Roussos: No, he's like… You have my sword.
+
+1136
+01:19:21.810 --> 01:19:22.610
+David Mendenhall: Huzzah.
+
+1137
+01:19:23.000 --> 01:19:25.939
+Kostadis Roussos: And he goes… he then says…
+
+1138
+01:19:25.940 --> 01:19:27.120
+Wade Brown: seen any use.
+
+1139
+01:19:29.360 --> 01:19:31.040
+David Mendenhall: Jesus Christ.
+
+1140
+01:19:31.470 --> 01:19:32.630
+David Mendenhall: I didn't say that.
+
+1141
+01:19:32.630 --> 01:19:38.369
+Wade Brown: I'm not there to say it. I'm not, I'm inside, sorry, sorry, I'm not…
+
+1142
+01:19:39.900 --> 01:19:40.780
+Kostadis Roussos: Ouch.
+
+1143
+01:19:42.470 --> 01:19:43.979
+Wade Brown: We know he's a fraud.
+
+1144
+01:19:43.980 --> 01:19:45.110
+David Mendenhall: She is a frog.
+
+1145
+01:19:46.430 --> 01:19:47.250
+Kostadis Roussos: Strikes me.
+
+1146
+01:19:47.250 --> 01:19:49.909
+David Mendenhall: You know what? Even frauds can be cannon fodder.
+
+1147
+01:19:50.950 --> 01:19:53.160
+Kostadis Roussos: It's not actually a fraud.
+
+1148
+01:19:54.340 --> 01:19:56.980
+Kostadis Roussos: He's actually a pretty powerful fighter, that Ranger.
+
+1149
+01:19:57.130 --> 01:19:59.529
+Kostadis Roussos: I mean, he's a Ranger, so of course, you know, that's…
+
+1150
+01:19:59.530 --> 01:20:00.810
+David Mendenhall: I never killed a dragon.
+
+1151
+01:20:01.770 --> 01:20:03.430
+David Mendenhall: Fair. Unlike me.
+
+1152
+01:20:10.690 --> 01:20:17.380
+Kostadis Roussos: You've now become… alright, so let's put Falcon the Falcons. The Falcon… Is over here.
+
+1153
+01:20:17.690 --> 01:20:19.129
+David Mendenhall: I'm here for the little people.
+
+1154
+01:20:19.630 --> 01:20:21.110
+Kostadis Roussos: You're here for the little people.
+
+1155
+01:20:21.630 --> 01:20:22.989
+Wade Brown: Like the Falcons.
+
+1156
+01:20:23.480 --> 01:20:24.530
+Kostadis Roussos: Alright.
+
+1157
+01:20:27.070 --> 01:20:28.410
+David Mendenhall: What is this picture?
+
+1158
+01:20:30.240 --> 01:20:30.990
+Gary Young: practice.
+
+1159
+01:20:30.990 --> 01:20:32.520
+David Mendenhall: Bowing Goblet?
+
+1160
+01:20:36.040 --> 01:20:41.110
+David Mendenhall: Oh, oh, okay, you wanted… oh, you wanted to make a party picture, I see. Okay, that's cool.
+
+1161
+01:20:41.560 --> 01:20:44.640
+David Mendenhall: The Soma has a little baby turtle, too?
+
+1162
+01:20:45.120 --> 01:20:47.890
+Gary Young: I couldn't get it to remove that internal.
+
+1163
+01:20:47.890 --> 01:20:49.019
+David Mendenhall: When I told the truth.
+
+1164
+01:20:49.020 --> 01:20:52.279
+Gary Young: the turtle and got rid of the Soma entirely.
+
+1165
+01:20:53.650 --> 01:20:55.180
+Wade Brown: I'm tiny!
+
+1166
+01:20:55.660 --> 01:20:57.040
+Gary Young: I don't know why.
+
+1167
+01:20:57.200 --> 01:20:58.560
+Wade Brown: It's fine.
+
+1168
+01:20:59.680 --> 01:21:02.839
+Wade Brown: I also love how I'm out of art style, it's great.
+
+1169
+01:21:04.240 --> 01:21:05.390
+Kostadis Roussos: Alright.
+
+1170
+01:21:05.640 --> 01:21:08.420
+Gary Young: Well, it is trying to interpolate art styles at least a little bit.
+
+1171
+01:21:08.590 --> 01:21:11.579
+Wade Brown: This is… yeah, this is more of a composition. It's good. It's good.
+
+1172
+01:21:11.580 --> 01:21:12.579
+David Mendenhall: Yeah, it's good.
+
+1173
+01:21:14.170 --> 01:21:18.229
+Wade Brown: I'm… I'm a… Nothing if not a clanker.
+
+1174
+01:21:19.140 --> 01:21:20.540
+Wade Brown: Love AI.
+
+1175
+01:21:22.700 --> 01:21:24.989
+Wade Brown: or ML, or whatever we're calling it.
+
+1176
+01:21:28.350 --> 01:21:31.600
+Kostadis Roussos: Hmm… Alright.
+
+1177
+01:21:42.050 --> 01:21:43.160
+Kostadis Roussos: Alright.
+
+1178
+01:21:45.040 --> 01:21:45.970
+Kostadis Roussos: Okay.
+
+1179
+01:22:02.650 --> 01:22:03.850
+Gary Young: Hmm, okay.
+
+1180
+01:22:04.120 --> 01:22:05.210
+Kostadis Roussos: So…
+
+1181
+01:22:06.020 --> 01:22:07.200
+Gary Young: Alrighty.
+
+1182
+01:22:08.410 --> 01:22:10.910
+Kostadis Roussos: Alrighty.
+
+1183
+01:22:11.960 --> 01:22:16.389
+Kostadis Roussos: Okay, I just needed to read the entire encounter that I set up. Okay.
+
+1184
+01:22:17.290 --> 01:22:20.029
+Kostadis Roussos: Excuse me? I have all the details, I think?
+
+1185
+01:22:20.710 --> 01:22:22.579
+Kostadis Roussos: Do you? What?
+
+1186
+01:22:24.910 --> 01:22:26.160
+Kostadis Roussos: Alright.
+
+1187
+01:22:27.320 --> 01:22:31.990
+Kostadis Roussos: The storm rolls in fast, not the slow gather of a henge.
+
+1188
+01:22:32.920 --> 01:22:35.099
+Kostadis Roussos: It's direct, impatient.
+
+1189
+01:22:35.750 --> 01:22:38.689
+Kostadis Roussos: The air pressure drops in your ears all at once.
+
+1190
+01:22:39.420 --> 01:22:56.750
+Kostadis Roussos: Outside the palisade, the sky goes from afternoon to evening in the span of one breath. Wind rises, the boars and the falcon's pens panic and crash against the walls of their enclosure. Old Drewback goes very still. He says, It come wrong. There is no chant. Where is the chant?
+
+1191
+01:23:00.560 --> 01:23:10.290
+Kostadis Roussos: The first lightning strike hits the tree line 100 yards out. The second strike hits the river. The third comes down inside the palisade and splits an empty barrel.
+
+1192
+01:23:10.590 --> 01:23:16.320
+Kostadis Roussos: This cult is here, but no anarchite called Anchorite called this storm.
+
+1193
+01:23:17.540 --> 01:23:21.850
+Kostadis Roussos: Alright.
+
+1194
+01:23:23.670 --> 01:23:25.050
+Kostadis Roussos: Okay.
+
+1195
+01:23:25.730 --> 01:23:32.350
+Kostadis Roussos: Soma notices that her, staff grows a leaf.
+
+1196
+01:23:33.440 --> 01:23:34.430
+Wade Brown: Oh, boy!
+
+1197
+01:23:34.760 --> 01:23:36.410
+Wade Brown: Guys, it's sprouting!
+
+1198
+01:23:36.410 --> 01:23:39.680
+Kostadis Roussos: It's sprouting, which is, you know, kind of interesting that it's sprouting.
+
+1199
+01:23:40.450 --> 01:23:44.030
+Wade Brown: I used to it sprouting, you know, in the middle of this kind of stuff, but…
+
+1200
+01:23:44.030 --> 01:23:44.830
+Kostadis Roussos: Yes, sir.
+
+1201
+01:23:45.260 --> 01:23:46.310
+Kostadis Roussos: Alright.
+
+1202
+01:23:50.950 --> 01:23:51.560
+Kostadis Roussos: Okay.
+
+1203
+01:23:51.560 --> 01:23:53.839
+Wade Brown: It means an angel got its wings, don't worry.
+
+1204
+01:23:57.010 --> 01:23:58.170
+David Mendenhall: Ding dong.
+
+1205
+01:23:58.630 --> 01:24:03.190
+Kostadis Roussos: Right. And so… Right.
+
+1206
+01:24:08.220 --> 01:24:09.960
+Kostadis Roussos: Okay, so,
+
+1207
+01:24:11.000 --> 01:24:18.989
+Kostadis Roussos: You, pruta shouts, and one of them… somebody else shouts, and you realize there is a lot of works coming.
+
+1208
+01:24:20.230 --> 01:24:20.600
+Gary Young: Love it.
+
+1209
+01:24:20.600 --> 01:24:22.210
+David Mendenhall: Only we have Fireball.
+
+1210
+01:24:22.940 --> 01:24:23.530
+Wade Brown: You do.
+
+1211
+01:24:23.530 --> 01:24:26.169
+Kostadis Roussos: If only you had a wand of fireballs.
+
+1212
+01:24:27.620 --> 01:24:28.750
+David Mendenhall: Yep.
+
+1213
+01:24:28.750 --> 01:24:29.640
+Wade Brown: Only.
+
+1214
+01:24:34.120 --> 01:24:36.349
+David Mendenhall: Do we need a wizard. Do we have any wizards?
+
+1215
+01:24:38.040 --> 01:24:40.379
+David Mendenhall: Can we check with the orcs? Any wizards?
+
+1216
+01:24:41.070 --> 01:24:42.170
+Kostadis Roussos: No.
+
+1217
+01:24:42.570 --> 01:24:44.810
+David Mendenhall: No Wizards, just warriors?
+
+1218
+01:24:44.810 --> 01:24:45.630
+Kostadis Roussos: Yeah, unfortunately.
+
+1219
+01:24:45.630 --> 01:24:47.450
+Wade Brown: Warriors and non-combatants.
+
+1220
+01:24:48.930 --> 01:24:51.809
+David Mendenhall: Why don't bards get Fireball? That's just not fair.
+
+1221
+01:24:52.110 --> 01:24:53.660
+Kostadis Roussos: Because they get lots of other things.
+
+1222
+01:24:53.660 --> 01:24:57.390
+David Mendenhall: You're supposed to be… Full spellcasters.
+
+1223
+01:24:58.150 --> 01:24:59.760
+Kostadis Roussos: Are you really whining?
+
+1224
+01:24:59.760 --> 01:25:00.450
+David Mendenhall: Yes.
+
+1225
+01:25:00.450 --> 01:25:01.649
+Kostadis Roussos: Okay, just want to make sure.
+
+1226
+01:25:04.020 --> 01:25:05.590
+Kostadis Roussos: Alright, so…
+
+1227
+01:25:13.770 --> 01:25:22.250
+David Mendenhall: I do need to retool here, though. Maybe we'll use, like, confusion, or… Beer, or something like that.
+
+1228
+01:25:26.700 --> 01:25:29.410
+Wade Brown: What about Phantasmal Force or whatever, the…
+
+1229
+01:25:30.170 --> 01:25:33.670
+David Mendenhall: Here, Hypnotic pattern is another good one.
+
+1230
+01:25:33.870 --> 01:25:35.069
+David Mendenhall: Maybe we could use that one.
+
+1231
+01:25:39.660 --> 01:25:42.740
+Gary Young: Are these, Telosian orcs, or are they…
+
+1232
+01:25:44.350 --> 01:25:45.540
+Kostadis Roussos: Oh, hold on, give me…
+
+1233
+01:25:52.170 --> 01:25:57.560
+David Mendenhall: 30 foot cube… Guess I'll use Hypnotic Pattern.
+
+1234
+01:26:00.390 --> 01:26:01.430
+Kostadis Roussos: Alright, here we go.
+
+1235
+01:26:01.790 --> 01:26:02.940
+Kostadis Roussos: Finally got him.
+
+1236
+01:26:05.150 --> 01:26:09.559
+Kostadis Roussos: I was just trying to find some creature, and I was, like, struggling with the search parameters.
+
+1237
+01:26:09.890 --> 01:26:11.100
+David Mendenhall: Drop sending…
+
+1238
+01:26:11.400 --> 01:26:12.200
+Kostadis Roussos: Good.
+
+1239
+01:26:18.360 --> 01:26:20.000
+Kostadis Roussos: Alright, let me just do that.
+
+1240
+01:26:30.910 --> 01:26:32.840
+Wade Brown: That's one angry-looking boar.
+
+1241
+01:26:46.160 --> 01:26:50.649
+Gary Young: I'm gonna use my special cleric, ability here, too.
+
+1242
+01:26:52.270 --> 01:26:53.210
+Kostadis Roussos: To do what?
+
+1243
+01:26:53.800 --> 01:26:55.570
+Gary Young: Regain spell slot.
+
+1244
+01:26:55.570 --> 01:26:57.310
+David Mendenhall: I'm gonna cast Aid.
+
+1245
+01:26:57.570 --> 01:26:59.920
+David Mendenhall: Everybody add 5 hit points.
+
+1246
+01:27:00.660 --> 01:27:02.029
+Wade Brown: 5 temporary.
+
+1247
+01:27:04.800 --> 01:27:09.499
+David Mendenhall: Nope, it's not temporary hit points. It's your maximum, your HP maximum.
+
+1248
+01:27:09.800 --> 01:27:11.830
+David Mendenhall: Or 8 hours, goes up by 5.
+
+1249
+01:27:13.940 --> 01:27:15.900
+Wade Brown: So, semi-temporary.
+
+1250
+01:27:15.900 --> 01:27:17.990
+David Mendenhall: Yeah, but it's better than temporary.
+
+1251
+01:27:17.990 --> 01:27:19.720
+Wade Brown: No, it is, because it can be healed.
+
+1252
+01:27:19.720 --> 01:27:20.350
+David Mendenhall: Yeah.
+
+1253
+01:27:32.540 --> 01:27:33.310
+Kostadis Roussos: Right.
+
+1254
+01:27:34.140 --> 01:27:36.070
+David Mendenhall: I will not do the third level, though.
+
+1255
+01:27:36.070 --> 01:27:36.830
+Kostadis Roussos: What?
+
+1256
+01:27:36.830 --> 01:27:39.500
+David Mendenhall: I'm not gonna… only second level aid.
+
+1257
+01:27:40.890 --> 01:27:41.510
+Gary Young: Wow.
+
+1258
+01:27:45.950 --> 01:27:50.869
+Kostadis Roussos: And… On the other side… Is the good guys.
+
+1259
+01:27:52.550 --> 01:27:53.460
+Kostadis Roussos: No.
+
+1260
+01:27:53.460 --> 01:27:54.060
+Gary Young: Guys?
+
+1261
+01:28:25.950 --> 01:28:26.760
+Kostadis Roussos: Right.
+
+1262
+01:28:27.250 --> 01:28:28.840
+Kostadis Roussos: Oh, we'll just use numbers.
+
+1263
+01:28:29.290 --> 01:28:30.020
+Kostadis Roussos: Good.
+
+1264
+01:28:34.800 --> 01:28:35.750
+Wade Brown: Jesus.
+
+1265
+01:28:37.310 --> 01:28:40.060
+Kostadis Roussos: We're not gonna be rolling for initiative, all of these guys.
+
+1266
+01:28:41.100 --> 01:28:44.379
+Kostadis Roussos: They mostly will be serving as background noise.
+
+1267
+01:28:45.370 --> 01:28:47.119
+Kostadis Roussos: But I do need to keep track of them.
+
+1268
+01:28:48.340 --> 01:28:53.570
+Kostadis Roussos: Alright, 1, 2, 3, 4, 5, 6, 7, 8, 9… 10, 11…
+
+1269
+01:28:54.910 --> 01:28:56.130
+Wade Brown: Ayyyo!
+
+1270
+01:28:56.130 --> 01:28:57.439
+Kostadis Roussos: Here we go. Alright.
+
+1271
+01:28:58.200 --> 01:29:03.240
+Kostadis Roussos: 1, 2, 3, 4, 5, 6, 1, 2, 3, 4, 5, 6, alright.
+
+1272
+01:29:05.080 --> 01:29:06.040
+Kostadis Roussos: Okay.
+
+1273
+01:29:07.450 --> 01:29:08.610
+David Mendenhall: How'd they get inside?
+
+1274
+01:29:08.840 --> 01:29:11.339
+Kostadis Roussos: What? These are your good… these are your guys.
+
+1275
+01:29:11.340 --> 01:29:12.189
+David Mendenhall: Oh, yeah, okay.
+
+1276
+01:29:12.190 --> 01:29:13.020
+Wade Brown: Oh.
+
+1277
+01:29:13.020 --> 01:29:13.560
+David Mendenhall: Cool.
+
+1278
+01:29:14.180 --> 01:29:18.350
+Kostadis Roussos: The ones with numbers are the bad guys, the ones without numbers are… good guys.
+
+1279
+01:29:19.050 --> 01:29:21.390
+David Mendenhall: These are warriors, or these are non-combatants?
+
+1280
+01:29:21.390 --> 01:29:22.429
+Kostadis Roussos: These are warriors.
+
+1281
+01:29:22.430 --> 01:29:27.250
+David Mendenhall: Okay, I assume we put all the non-compatants, like, inside, in the basement, something like that? Yes.
+
+1282
+01:29:27.250 --> 01:29:29.039
+Wade Brown: Dining room, whatever.
+
+1283
+01:29:29.600 --> 01:29:31.589
+David Mendenhall: Somewhere's more secure.
+
+1284
+01:29:31.590 --> 01:29:32.060
+Kostadis Roussos: Guys.
+
+1285
+01:29:32.060 --> 01:29:36.640
+Gary Young: We should put some of our good guys with bows on top of the gatehouse roof.
+
+1286
+01:29:40.540 --> 01:29:41.759
+Kostadis Roussos: Okay, put them wherever you want.
+
+1287
+01:29:41.760 --> 01:29:42.460
+Wade Brown: Oh.
+
+1288
+01:29:43.190 --> 01:29:44.839
+Kostadis Roussos: You mean, orcs?
+
+1289
+01:29:46.830 --> 01:29:47.810
+Kostadis Roussos: Right.
+
+1290
+01:29:48.780 --> 01:29:51.310
+Kostadis Roussos: I'm assuming this… they're on the second level, okay?
+
+1291
+01:29:52.150 --> 01:29:56.700
+Gary Young: here, where it says, Gatehouse,
+
+1292
+01:29:57.000 --> 01:29:59.520
+Kostadis Roussos: No, Gatehardt, this is, like, on the… this…
+
+1293
+01:29:59.780 --> 01:30:02.820
+Kostadis Roussos: Just… I'm assuming if you put them here, they're on the gatehouse roof.
+
+1294
+01:30:04.190 --> 01:30:05.560
+Gary Young: Isn't this the gatehouse?
+
+1295
+01:30:06.100 --> 01:30:09.319
+Kostadis Roussos: Oh, is that the gatehouse? No, that's, oh, yeah, that is a gatehouse.
+
+1296
+01:30:09.320 --> 01:30:10.660
+Gary Young: match this guy right here.
+
+1297
+01:30:10.660 --> 01:30:12.070
+Kostadis Roussos: Yep, yep, you're up, yep, you're right.
+
+1298
+01:30:14.030 --> 01:30:15.870
+Gary Young: Or is it… Tower.
+
+1299
+01:30:18.690 --> 01:30:20.370
+Gary Young: roof is the one I'm looking for here.
+
+1300
+01:30:20.540 --> 01:30:21.630
+Kostadis Roussos: Yeah, it's Tower Roof.
+
+1301
+01:30:22.150 --> 01:30:26.029
+Gary Young: This has, like, these fantastically defensible aerosluts.
+
+1302
+01:30:26.250 --> 01:30:26.940
+Kostadis Roussos: Yes.
+
+1303
+01:30:27.250 --> 01:30:28.369
+Wade Brown: Yeah.
+
+1304
+01:30:29.450 --> 01:30:30.130
+Kostadis Roussos: Right.
+
+1305
+01:30:32.110 --> 01:30:33.870
+Kostadis Roussos: Alright, let me just make a note.
+
+1306
+01:30:34.810 --> 01:30:36.500
+Kostadis Roussos: Behind arrow slits.
+
+1307
+01:30:38.250 --> 01:30:39.090
+Kostadis Roussos: Okay.
+
+1308
+01:30:39.380 --> 01:30:41.749
+Kostadis Roussos: Do you want to put only two of them, or do you want to put more of them?
+
+1309
+01:30:42.700 --> 01:30:45.350
+Gary Young: As many as can reasonably fight from Pyther.
+
+1310
+01:30:45.670 --> 01:30:46.420
+Kostadis Roussos: Alright.
+
+1311
+01:30:47.800 --> 01:30:50.969
+Kostadis Roussos: Mmm… You could put all of them there.
+
+1312
+01:30:51.680 --> 01:30:53.780
+Kostadis Roussos: But that would be a problem for other reasons.
+
+1313
+01:30:54.110 --> 01:30:56.089
+Gary Young: Yeah, maybe not all-all, but…
+
+1314
+01:30:56.090 --> 01:30:57.419
+Kostadis Roussos: Alright, so we'll put 3 there.
+
+1315
+01:30:59.260 --> 01:31:00.160
+Gary Young: Sure.
+
+1316
+01:31:01.870 --> 01:31:04.559
+David Mendenhall: Wow, a 30-foot cube is really big.
+
+1317
+01:31:04.870 --> 01:31:06.359
+Kostadis Roussos: What are you gonna cast?
+
+1318
+01:31:08.230 --> 01:31:11.590
+David Mendenhall: Something. Something that uses a 30-foot cube.
+
+1319
+01:31:11.590 --> 01:31:13.659
+Wade Brown: Throw a necklace of fireballs at him.
+
+1320
+01:31:13.660 --> 01:31:15.900
+David Mendenhall: And it's not Fireball, because I don't have that spell.
+
+1321
+01:31:17.370 --> 01:31:23.419
+Kostadis Roussos: Like, Blueberry… Blueberry's really going, you know, we could use the fireballs.
+
+1322
+01:31:24.270 --> 01:31:25.340
+David Mendenhall: 30 foot cube, man.
+
+1323
+01:31:25.340 --> 01:31:31.540
+Kostadis Roussos: Because he goes, save people isn't good. Save children. Save tribe.
+
+1324
+01:31:32.320 --> 01:31:34.240
+David Mendenhall: We are gonna save them, you're right.
+
+1325
+01:31:34.240 --> 01:31:35.129
+Wade Brown: Save alcohol.
+
+1326
+01:31:35.130 --> 01:31:35.950
+David Mendenhall: Ta!
+
+1327
+01:31:35.950 --> 01:31:40.540
+Kostadis Roussos: He goes, they are savages. We kill them all.
+
+1328
+01:31:41.450 --> 01:31:44.300
+David Mendenhall: You're right, we will kill them! Huzzah!
+
+1329
+01:31:44.740 --> 01:31:46.760
+David Mendenhall: We are agreeing on everything!
+
+1330
+01:31:46.760 --> 01:31:49.570
+Kostadis Roussos: Yes, yes, alright.
+
+1331
+01:31:57.730 --> 01:32:00.329
+David Mendenhall: Yes. Oh, they are nicely grouped, too.
+
+1332
+01:32:02.080 --> 01:32:03.350
+Wade Brown: Convenience.
+
+1333
+01:32:03.530 --> 01:32:06.040
+David Mendenhall: How convenient, indeed.
+
+1334
+01:32:08.670 --> 01:32:09.470
+Kostadis Roussos: Alright.
+
+1335
+01:32:10.500 --> 01:32:16.559
+Kostadis Roussos: To make my life somewhat less tedious, we will have 3 initiative rolls.
+
+1336
+01:32:17.920 --> 01:32:22.280
+Kostadis Roussos: Before, good guy orcs, bad guy orcs.
+
+1337
+01:32:23.910 --> 01:32:24.420
+Wade Brown: With a gun.
+
+1338
+01:32:24.420 --> 01:32:25.310
+David Mendenhall: be up here.
+
+1339
+01:32:25.310 --> 01:32:27.089
+Kostadis Roussos: What, so that we just have two…
+
+1340
+01:32:30.220 --> 01:32:33.690
+Kostadis Roussos: Right? Let me just go to the, drive.google.
+
+1341
+01:32:35.220 --> 01:32:36.730
+Gary Young: And Mr. Falcon.
+
+1342
+01:32:37.710 --> 01:32:40.949
+Kostadis Roussos: Alright, so let's go, let's… let's add, initiative rules here.
+
+1343
+01:32:43.020 --> 01:32:43.580
+Kostadis Roussos: Oh, boy.
+
+1344
+01:32:43.580 --> 01:32:44.250
+Wade Brown: Right?
+
+1345
+01:32:46.500 --> 01:32:48.130
+Kostadis Roussos: Initial track there.
+
+1346
+01:32:49.330 --> 01:32:52.240
+Wade Brown: Oh, boy. Fast today.
+
+1347
+01:32:52.290 --> 01:32:53.090
+Gary Young: What?
+
+1348
+01:32:53.520 --> 01:32:54.720
+Wade Brown: I got a 20.
+
+1349
+01:32:55.810 --> 01:32:58.870
+Kostadis Roussos: Right. What is the Falcon's armor class?
+
+1350
+01:33:01.170 --> 01:33:06.159
+Kostadis Roussos: Falcon's a ranger. He's actually a pretty high-level Ranger, so now I've got to go figure out what he can do.
+
+1351
+01:33:08.290 --> 01:33:10.500
+David Mendenhall: Definitely fit in a 30-foot cube.
+
+1352
+01:33:16.270 --> 01:33:19.020
+Wade Brown: Problem if there's an elk in the middle of that 30-foot cube.
+
+1353
+01:33:20.440 --> 01:33:24.640
+David Mendenhall: I have high initiative, so I'm probably going first.
+
+1354
+01:33:24.640 --> 01:33:26.239
+Wade Brown: I overralled a 20.
+
+1355
+01:33:26.240 --> 01:33:27.190
+David Mendenhall: I got a 22.
+
+1356
+01:33:27.190 --> 01:33:28.530
+Wade Brown: Oh, okay, then we're good.
+
+1357
+01:33:30.860 --> 01:33:32.670
+Kostadis Roussos: Got a Plus Studios initiative.
+
+1358
+01:33:33.940 --> 01:33:35.010
+Kostadis Roussos: Alright.
+
+1359
+01:33:35.800 --> 01:33:36.640
+Kostadis Roussos: orc.
+
+1360
+01:33:36.640 --> 01:33:37.369
+Wade Brown: how I'm boning.
+
+1361
+01:33:37.370 --> 01:33:38.320
+Kostadis Roussos: Talosians…
+
+1362
+01:33:38.320 --> 01:33:40.230
+Wade Brown: Bony, bony, bony…
+
+1363
+01:33:40.230 --> 01:33:44.990
+Kostadis Roussos: So, no, no, 13… The cervicals.
+
+1364
+01:33:51.500 --> 01:33:53.969
+Kostadis Roussos: Our class 13, hit points 15.
+
+1365
+01:33:59.150 --> 01:34:04.179
+Kostadis Roussos: So, I'm just gonna… okay, you guys are gonna… I know how you guys like to play, so let me just do that.
+
+1366
+01:34:07.940 --> 01:34:11.960
+Kostadis Roussos: 9 through… no, no. Let's roll for… we're gonna roll orc.
+
+1367
+01:34:12.620 --> 01:34:13.830
+Kostadis Roussos: Normal work.
+
+1368
+01:34:15.790 --> 01:34:19.220
+Kostadis Roussos: And we'll just give them an initiative. Alright, and then who else?
+
+1369
+01:34:20.290 --> 01:34:28.380
+Kostadis Roussos: Telosian? Anachorite? Anchorite… How do they pronounce themselves?
+
+1370
+01:34:28.380 --> 01:34:29.859
+David Mendenhall: Right. Anchor right.
+
+1371
+01:34:30.120 --> 01:34:31.780
+Wade Brown: Yeah, that word keeps tripping you up.
+
+1372
+01:34:32.170 --> 01:34:33.430
+Kostadis Roussos: Is that incorrect.
+
+1373
+01:34:33.780 --> 01:34:36.420
+Wade Brown: I got a friend who, every time he reads Adaptation.
+
+1374
+01:34:36.890 --> 01:34:39.229
+Wade Brown: He keeps saying adaption when he reads it.
+
+1375
+01:34:39.230 --> 01:34:40.310
+David Mendenhall: Oh, yeah.
+
+1376
+01:34:40.310 --> 01:34:43.019
+Wade Brown: Couple tough people to strip up over individual words.
+
+1377
+01:34:44.130 --> 01:34:47.869
+Kostadis Roussos: It's like one of those words, I just can't… 13 and 58?
+
+1378
+01:34:50.640 --> 01:34:54.670
+Kostadis Roussos: We'll give them individual initiatives, right, because they have spells and whatnot.
+
+1379
+01:34:55.150 --> 01:34:56.680
+Kostadis Roussos: And, Dorthok.
+
+1380
+01:34:58.220 --> 01:35:01.060
+Kostadis Roussos: That's not how many hit points he has, just so we're on the same page.
+
+1381
+01:35:04.460 --> 01:35:05.090
+Gary Young: Great.
+
+1382
+01:35:07.480 --> 01:35:09.970
+Kostadis Roussos: He's got 15 and 73.
+
+1383
+01:35:14.040 --> 01:35:15.500
+Kostadis Roussos: Alright…
+
+1384
+01:35:17.010 --> 01:35:19.309
+Wade Brown: I didn't think we'd see Gorthok till the,
+
+1385
+01:35:19.790 --> 01:35:23.219
+Wade Brown: Summoning was complete, or at least we were, you know, to the last one.
+
+1386
+01:35:23.540 --> 01:35:25.519
+Kostadis Roussos: Yeah, but the problem is that…
+
+1387
+01:35:26.340 --> 01:35:28.170
+Kostadis Roussos: You, you, what was the word?
+
+1388
+01:35:29.650 --> 01:35:30.310
+Wade Brown: Slept.
+
+1389
+01:35:30.670 --> 01:35:41.940
+Kostadis Roussos: Well, I mean, yes. You decided to not go deal with it. You decided to come to the lodge, and then negotiate with the lodge protector, so, you know, it's one of those…
+
+1390
+01:35:41.940 --> 01:35:43.120
+David Mendenhall: Made the right call.
+
+1391
+01:35:43.330 --> 01:35:44.740
+Kostadis Roussos: I didn't say you didn't.
+
+1392
+01:35:45.690 --> 01:35:47.899
+Kostadis Roussos: I'm just saying this is… this is… okay.
+
+1393
+01:35:48.600 --> 01:35:56.650
+Kostadis Roussos: Oh, and I forgot to put Falcon's Falcon's head points, which I believe are 114. Could you guys place Falcon… place yourselves, by the way?
+
+1394
+01:35:57.210 --> 01:35:58.409
+David Mendenhall: I am placed.
+
+1395
+01:35:58.690 --> 01:35:59.380
+Kostadis Roussos: Right.
+
+1396
+01:36:01.710 --> 01:36:03.679
+David Mendenhall: Falcon, come up here with me.
+
+1397
+01:36:06.000 --> 01:36:13.359
+Kostadis Roussos: Falcon, just so you know, is… is, make… can make 3 melee attacks, so he's going to do… and…
+
+1398
+01:36:13.360 --> 01:36:14.679
+David Mendenhall: not move the Falcon.
+
+1399
+01:36:14.840 --> 01:36:15.869
+Kostadis Roussos: You cannot.
+
+1400
+01:36:15.870 --> 01:36:16.640
+David Mendenhall: I cannot.
+
+1401
+01:36:16.950 --> 01:36:18.230
+Kostadis Roussos: Sucks.
+
+1402
+01:36:18.770 --> 01:36:19.330
+David Mendenhall: Nope.
+
+1403
+01:36:23.560 --> 01:36:26.519
+David Mendenhall: Boney's outside the gates? Oof.
+
+1404
+01:36:26.520 --> 01:36:28.559
+Wade Brown: Could I be hanging… well, I guess this is.
+
+1405
+01:36:28.560 --> 01:36:29.549
+Kostadis Roussos: Can you move now?
+
+1406
+01:36:30.200 --> 01:36:30.910
+David Mendenhall: Don't worry.
+
+1407
+01:36:30.910 --> 01:36:32.630
+Wade Brown: I guess this is a yard, yeah, sure.
+
+1408
+01:36:32.630 --> 01:36:33.390
+David Mendenhall: Damn, yeah.
+
+1409
+01:36:34.480 --> 01:36:35.740
+Kostadis Roussos: He's gone.
+
+1410
+01:36:35.740 --> 01:36:37.470
+David Mendenhall: Put him right at the door.
+
+1411
+01:36:41.780 --> 01:36:42.500
+Kostadis Roussos: Alright.
+
+1412
+01:36:43.480 --> 01:36:44.610
+David Mendenhall: cannon fodder.
+
+1413
+01:36:46.520 --> 01:36:49.230
+Kostadis Roussos: Did you guys put him as cannon fodder?
+
+1414
+01:36:49.230 --> 01:36:56.980
+David Mendenhall: Absolutely, that's… that is the entire role of NPCs in the game, is what you do in every campaign.
+
+1415
+01:36:58.270 --> 01:36:58.710
+Gary Young: Thumb.
+
+1416
+01:36:59.260 --> 01:37:02.300
+Kostadis Roussos: Some people like their NPCs.
+
+1417
+01:37:02.770 --> 01:37:03.889
+Wade Brown: I like Boney.
+
+1418
+01:37:05.060 --> 01:37:09.540
+David Mendenhall: Some people like to play Baldur's Gate 3 solo so they don't have to listen to all the lore.
+
+1419
+01:37:10.540 --> 01:37:13.120
+Wade Brown: Oh, does Boney get ate as well, or not?
+
+1420
+01:37:13.740 --> 01:37:17.609
+Kostadis Roussos: Somebody who says he doesn't like all the lore, you engage with it surprisingly much.
+
+1421
+01:37:19.190 --> 01:37:20.620
+David Mendenhall: Just part of the bourbon.
+
+1422
+01:37:20.930 --> 01:37:22.470
+Gary Young: I know, I know. Last.
+
+1423
+01:37:24.210 --> 01:37:25.020
+Kostadis Roussos: What?
+
+1424
+01:37:25.480 --> 01:37:30.659
+Gary Young: If you keep using the bonus action, how long can Barbarian Rage last? Indefinitely?
+
+1425
+01:37:31.840 --> 01:37:32.450
+Kostadis Roussos: What?
+
+1426
+01:37:33.290 --> 01:37:33.950
+David Mendenhall: Rage?
+
+1427
+01:37:34.480 --> 01:37:38.530
+David Mendenhall: Rage goes the duration of the combat as long as you keep attacking.
+
+1428
+01:37:40.350 --> 01:37:45.269
+Gary Young: I think you can also use a bonus action if you're not making an attack action.
+
+1429
+01:37:46.920 --> 01:37:48.340
+Kostadis Roussos: You'd have to do an attack.
+
+1430
+01:37:49.200 --> 01:37:55.229
+David Mendenhall: an attack to keep it going, or you'd have to use another Rage app. You'd have to restart your Rage.
+
+1431
+01:37:56.280 --> 01:37:57.429
+Gary Young: I see.
+
+1432
+01:37:58.040 --> 01:38:01.050
+Kostadis Roussos: As long as you're attacking, you're… you got rage.
+
+1433
+01:38:01.350 --> 01:38:02.850
+David Mendenhall: Yes, exactly.
+
+1434
+01:38:03.760 --> 01:38:06.410
+Kostadis Roussos: Alright, so it's 10.30, so we will start…
+
+1435
+01:38:08.170 --> 01:38:10.049
+David Mendenhall: You don't wanna know what I'm gonna do?
+
+1436
+01:38:10.050 --> 01:38:10.540
+Wade Brown: Yay!
+
+1437
+01:38:10.540 --> 01:38:16.630
+Kostadis Roussos: I mean, so just to be clear, what happens is, from about 120 feet out, A bolt of light.
+
+1438
+01:38:16.630 --> 01:38:18.719
+David Mendenhall: Range of my spell! Perfect!
+
+1439
+01:38:18.920 --> 01:38:23.150
+Kostadis Roussos: Hold on. He… he blasts… the door.
+
+1440
+01:38:23.940 --> 01:38:25.490
+Kostadis Roussos: With a bolt of lightning.
+
+1441
+01:38:25.870 --> 01:38:26.550
+David Mendenhall: Nice.
+
+1442
+01:38:26.920 --> 01:38:34.870
+Kostadis Roussos: Alright, so the door… this door collapses. Now, the good news is none of you guys are hurt, but the gate here… I'm just gonna draw this…
+
+1443
+01:38:36.940 --> 01:38:38.489
+Kostadis Roussos: Has been broken.
+
+1444
+01:38:39.680 --> 01:38:40.320
+David Mendenhall: Nice.
+
+1445
+01:38:40.550 --> 01:38:43.850
+Kostadis Roussos: And so everybody's converging on that to attack.
+
+1446
+01:38:43.850 --> 01:38:44.710
+David Mendenhall: Visible.
+
+1447
+01:38:45.240 --> 01:38:47.680
+Kostadis Roussos: Alright, and so we will start combat…
+
+1448
+01:38:49.440 --> 01:38:52.250
+David Mendenhall: You'll have to wait until next week to find out what happens on…
+
+1449
+01:38:52.250 --> 01:38:54.210
+Wade Brown: Oh, the suspense!
+
+1450
+01:38:55.830 --> 01:38:56.480
+Kostadis Roussos: Yes.
+
+1451
+01:38:56.850 --> 01:39:01.469
+Kostadis Roussos: And just to be clear, the anarchites are sort of, like, not in front this time.
+
+1452
+01:39:01.470 --> 01:39:02.370
+Wade Brown: Anchor, right.
+
+1453
+01:39:02.680 --> 01:39:03.410
+Kostadis Roussos: That's there.
+
+1454
+01:39:03.410 --> 01:39:05.780
+David Mendenhall: What are… do you have initiative roles for all of these characters?
+
+1455
+01:39:05.780 --> 01:39:10.369
+Kostadis Roussos: I said, we're gonna roll… I said I'm gonna roll once, I'm not gonna keep track of them, like, are the Anarchites…
+
+1456
+01:39:11.300 --> 01:39:14.720
+Kostadis Roussos: No, I'm just gonna give an initial rule for each, is that okay?
+
+1457
+01:39:15.100 --> 01:39:18.850
+David Mendenhall: That's fine. Yeah, I just want to know if I'm going first in this list.
+
+1458
+01:39:18.850 --> 01:39:20.260
+Kostadis Roussos: God, yes.
+
+1459
+01:39:27.660 --> 01:39:29.580
+David Mendenhall: I know what Falcon gets. I can roll for him.
+
+1460
+01:39:35.590 --> 01:39:36.670
+David Mendenhall: Seven!
+
+1461
+01:39:36.800 --> 01:39:38.300
+David Mendenhall: Good job, Falcon.
+
+1462
+01:39:38.300 --> 01:39:41.199
+Kostadis Roussos: Alright, so I rolled for all of the NPCs.
+
+1463
+01:39:41.200 --> 01:39:43.190
+David Mendenhall: Okay, so I will go first. Awesome.
+
+1464
+01:39:43.190 --> 01:39:50.209
+Kostadis Roussos: Alright, oops. Why does he get an initial… why does proof of the orc get an initiative bonus of 7? He should get an initiative bonus of 1.
+
+1465
+01:39:51.820 --> 01:39:53.999
+Kostadis Roussos: Unless somebody did something to give him…
+
+1466
+01:39:54.310 --> 01:39:55.789
+David Mendenhall: No, it's 1.
+
+1467
+01:39:56.780 --> 01:40:00.559
+Gary Young: But I assume he gets the same initiative as his, pork friends?
+
+1468
+01:40:00.560 --> 01:40:04.870
+Kostadis Roussos: No, I see as NPC, since he's on your part, I'm just saying, like, all of the…
+
+1469
+01:40:06.310 --> 01:40:11.350
+Kostadis Roussos: All of the non… all of the masses of combat get the same initiative roll.
+
+1470
+01:40:13.430 --> 01:40:14.090
+Gary Young: Okay.
+
+1471
+01:40:14.410 --> 01:40:14.990
+David Mendenhall: Okay.
+
+1472
+01:40:14.990 --> 01:40:15.660
+Wade Brown: Okay.
+
+1473
+01:40:16.100 --> 01:40:16.760
+Kostadis Roussos: Alright.
+
+1474
+01:40:17.060 --> 01:40:18.359
+Wade Brown: I'll see you guys next week.
+
+1475
+01:40:18.360 --> 01:40:19.150
+Kostadis Roussos: See you next week.
+
+1476
+01:40:19.960 --> 01:40:20.950
+Kostadis Roussos: Gonna be fun.
+
+1477
+01:40:21.140 --> 01:40:21.730
+David Mendenhall: Oh, yeah.
+
+1478
+01:40:23.530 --> 01:40:25.280
+David Mendenhall: It will get over quickly.
+
+1479
+01:40:25.280 --> 01:40:26.220
+Kostadis Roussos: What?
+
+1480
+01:40:26.220 --> 01:40:27.160
+David Mendenhall: over quickly.
+
+1481
+01:40:29.130 --> 01:40:32.799
+Wade Brown: Just look at barred third level spells, you'll find something interesting.
+
+1482
+01:40:32.800 --> 01:40:36.779
+Kostadis Roussos: I'm sure… I'm sure there is lots of things that… that will happen.
+
+1483
+01:40:37.060 --> 01:40:39.050
+David Mendenhall: Yes. Alright, bye-bye. Bye-bye, guys.
+
+1484
+01:40:39.050 --> 01:40:39.630
+Wade Brown: S.
+
