@@ -1,7 +1,3 @@
-# Planning (draft)
-
-_Assembled per-section from the state stores by `grounding_sections.py` (#213 Phase 4). Each section carries an `inputs-sha` stamp of the exact bytes it was rendered from; unchanged inputs mean the section was not re-rendered. Review per section, then promote via the usual draft -> diff -> copy gate._
-
 <!-- section: threads | inputs-sha: 333d66fee7f0725b -->
 ## Threads (GM-ratified registry)
 
@@ -10,4 +6,3 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - **Aletra Sotorra, agent of KP** (opened ch27; tracker: Planar Distortion)
 - **The Carver's march on Icespire Hold** (opened ch4)
 - **The Kraken Society and the illithid-tech beacon** (opened ch8; tracker: Echoes Score)
-
