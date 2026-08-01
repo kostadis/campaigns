@@ -1,4 +1,8 @@
-# Chapter 31 A Grave New Friend and a Glimmering Blade
+---
+chapter: 32
+title: A Grave New Friend and a Glimmering Blade
+---
+# Chapter 32 A Grave New Friend and a Glimmering Blade
 
 ## Summary
 

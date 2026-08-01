@@ -1,4 +1,8 @@
-# Chapter 11 Naturalists and Interventionists
+---
+chapter: 12
+title: Naturalists and Interventionists
+---
+# Chapter 12 Naturalists and Interventionists
 
 ### Soma
 

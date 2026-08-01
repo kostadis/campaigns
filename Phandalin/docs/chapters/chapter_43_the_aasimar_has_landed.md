@@ -1,4 +1,8 @@
-# Chapter 42 The Aasimar has Landed. 
+---
+chapter: 43
+title: The Aasimar has Landed.
+---
+# Chapter 43 The Aasimar has Landed. 
 
 
 ---

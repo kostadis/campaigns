@@ -1,4 +1,8 @@
-# Chapter 35 A dragon defeated, a bard tempted, a barbarian's vengeance.
+---
+chapter: 36
+title: A dragon defeated, a bard tempted, a barbarian's vengeance.
+---
+# Chapter 36 A dragon defeated, a bard tempted, a barbarian's vengeance.
 
 # 
 

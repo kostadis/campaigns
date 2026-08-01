@@ -1,4 +1,8 @@
-# Chapter 32 Silencing the Siren's Warning
+---
+chapter: 33
+title: Silencing the Siren's Warning
+---
+# Chapter 33 Silencing the Siren's Warning
 
 ## Summary
 

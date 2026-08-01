@@ -1,4 +1,8 @@
-# Chapter 14 Freeing Big Al, Petunia and watching a ranch burn
+---
+chapter: 15
+title: Freeing Big Al, Petunia and watching a ranch burn
+---
+# Chapter 15 Freeing Big Al, Petunia and watching a ranch burn
 
 ## 4-02 Taraskh 1495 
 

@@ -1,4 +1,8 @@
-# Chapter 22 From Retreat to Redemption (and Cheese)
+---
+chapter: 23
+title: From Retreat to Redemption (and Cheese)
+---
+# Chapter 23 From Retreat to Redemption (and Cheese)
 
 ## 
 

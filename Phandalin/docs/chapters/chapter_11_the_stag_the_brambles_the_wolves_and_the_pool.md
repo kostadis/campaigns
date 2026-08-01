@@ -1,4 +1,8 @@
-# Chapter 10 The stag, the brambles, the wolves, and the pool.  
+---
+chapter: 11
+title: The stag, the brambles, the wolves, and the pool.
+---
+# Chapter 11 The stag, the brambles, the wolves, and the pool.  
 
 ### Soma
 

@@ -1,4 +1,8 @@
-# Chapter 27 When the Machine Screams: A Family Affair
+---
+chapter: 28
+title: 'When the Machine Screams: A Family Affair'
+---
+# Chapter 28 When the Machine Screams: A Family Affair
 
 The party found themselves in a tense standoff with Valphine's sister, Aletra, who was working to extract a mysterious package from a broken planar machine. The room was covered in interplanar spider webs, and six Rift Weavers—spider-like creatures bound to the ceiling—stood guard over the malfunctioning device. Aletra explained that the machine had been a gift to her boss and was causing dangerous spatial anomalies throughout the area. She claimed they were in a "spatial equilibrium" and warned that if she couldn't retrieve her package, she had no reason to destroy the machine, leaving everyone to face the consequences of its catastrophic failure.
 

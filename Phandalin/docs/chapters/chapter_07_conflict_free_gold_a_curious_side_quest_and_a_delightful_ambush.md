@@ -1,4 +1,8 @@
-# Chapter 06 Conflict-free gold, a curious side quest, and a delightful ambush. 
+---
+chapter: 7
+title: Conflict-free gold, a curious side quest, and a delightful ambush.
+---
+# Chapter 7 Conflict-free gold, a curious side quest, and a delightful ambush. 
 
 ## 05-01-Taraskh 
 

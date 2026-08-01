@@ -1,4 +1,8 @@
-# Chapter 13 The Butterskull Quest 
+---
+chapter: 14
+title: The Butterskull Quest
+---
+# Chapter 14 The Butterskull Quest 
 
 ## 1-02 Taraskh 1495
 

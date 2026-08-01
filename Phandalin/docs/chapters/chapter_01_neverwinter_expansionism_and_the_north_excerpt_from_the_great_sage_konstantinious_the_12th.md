@@ -1,4 +1,9 @@
-# Chapter 00 Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious the 12th
+---
+chapter: 1
+title: Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious
+  the 12th
+---
+# Chapter 1 Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious the 12th
 
 With the great sundering complete, the people of the Realms hoped that the era of mischief from the gods walking the world would end. 
 

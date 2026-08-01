@@ -1,4 +1,8 @@
-# Chapter 39 Through the valley to the top of the hill
+---
+chapter: 40
+title: Through the valley to the top of the hill
+---
+# Chapter 40 Through the valley to the top of the hill
 
 
 ---

@@ -1,4 +1,8 @@
-# Chapter 15 Deals with Harbin, and Sister Kayla, and no deal with Jenna
+---
+chapter: 16
+title: Deals with Harbin, and Sister Kayla, and no deal with Jenna
+---
+# Chapter 16 Deals with Harbin, and Sister Kayla, and no deal with Jenna
 
 ## 7-02 Taraskh 1495 
 
