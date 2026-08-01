@@ -13,7 +13,7 @@ They disguised themselves in the scarlet cloaks of the Redbrands and burst throu
 
 A heavy knock came at the bugbears' door almost immediately — a husky voice demanding to know if everything was alright. Without missing a beat, Zenvon pitched his voice low and gruff, calling back that all was well. The bugbear, apparently satisfied, shuffled away. The party wasted no time stacking ale barrels against the bugbears' door to buy themselves time, then turned their attention to a door to the north.
 
-Beyond it lay a wizard's workshop — a cluttered, bubbling space filled with alchemical devices, distillation coils, and shelves crowded with strange tomes and parchment. Veyra's eyes lit up as she moved through the room, identifying three bottles of rare reagents: Mercury, Dragon Bile, and Powdered Nightshade, each of considerable value. Sister Maela, meanwhile, pulled a dusty journal from the shelves — the account of an adventurer named Urman, written in Dwarvish. It described the history of the Lost Mine of Phandelver, the Forge of Spells, and a legendary magic mace called Lightbringer, commissioned by the priests of Lathander and lost when the Wave Echo Cave vanished from history.
+Beyond it lay a wizard's workshop — a cluttered, bubbling space filled with alchemical devices, distillation coils, and shelves crowded with strange tomes and parchment. Veyra's eyes lit up as she moved through the room, identifying three bottles of rare reagents: Mercury, Dragon Bile, and Powdered Nightshade, each of considerable value. Sister Maela, meanwhile, pulled a dusty journal from the shelves — the account of an adventurer named Urmon, written in Dwarvish. It described the history of the Lost Mine of Phandelver, the Forge of Spells, and a legendary magic mace called Lightbringer, commissioned by the priests of Lathander and lost when the Wave Echo Cave vanished from history.
 
 Pressing further east, the party entered what was clearly a personal chamber — draped in scarlet cloth, furnished with a writing desk, a comfortable bed, and a wooden chest. More importantly, a secret door in the wall had been left ajar, as if someone had fled through it in a hurry. The party gave chase immediately, pouring through the hidden passage in pursuit of whoever had just escaped. Veyra spotted the figure first — a wizard moving fast through the dark — and struck him with a bolt of fire on Zenvon's orders to stop him without killing him. Pip hurled a javelin that found its mark, and the wounded wizard stumbled but did not fall. Zenvon called out a demand to surrender, but the man was already too far ahead. With a shout directed at the Nothic to guard the entrance, the wizard — whom the party recognized from Sildar's description as Iarno Albrek — vanished in an instant, teleporting himself to safety and leaving the party grasping at empty air.
 
@@ -99,7 +99,7 @@ The moment Zenvon moved toward the northeast door, the skeletons stirred. One by
 - Pip Thistlewick suggests barricading the bugbears' door with ale barrels to prevent them from interfering.
 - The party enters a wizard's workshop filled with bubbling alchemical equipment and strange books.
 - Veyra identifies rare reagents including Mercury, Dragon Bile, and Powdered Nightshade, each worth 25 gold pieces.
-- Sister Maela discovers the journal of an adventurer named Urman, which details the history of the Lost Mine of Phandelver, the Forge of Spells, and a lost magic mace called Lightbringer.
+- Sister Maela discovers the journal of an adventurer named Urmon, which details the history of the Lost Mine of Phandelver, the Forge of Spells, and a lost magic mace called Lightbringer.
 - The party finds a letter sealed with a wax spider symbol, addressed to Iarno, revealing a plot to capture the party and secure dwarven maps.
 
 ### The Pursuit of Iarno
@@ -185,7 +185,7 @@ A strange, dark fragment that Pip once won in a dice game near Neverwinter, then
 ### Scarlet Cloaks
 The signature red garments worn by the Redbrand ruffians. The party collected them from the fallen bandits and the armory to use as disguises while moving through the hideout.
 
-### Urman's Journal
+### Urmon's Journal
 An old book written in Dwarvish, discovered by Sister Maela in the wizard's workshop. It details the history of the Lost Mine of Phandelver, the Forge of Spells, and a legendary magic mace called Lightbringer that was commissioned by the priests of Lathander and lost when the Wave Echo Cave vanished.
 
 ### Rare Alchemical Reagents
