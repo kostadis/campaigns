@@ -38,15 +38,15 @@ With the threat over and the elimination of the Barbarians from the hinterland, 
 
 In particular, the town of Phandalin. He needed the area cleared of monsters, cults, and evildoers to encourage settlement and growth. 
 
-Because of the costs of the wars, he decided to use adventurers, offering them tax-free no no-questions-asked plunder. One of those adventurers was an avant-garde[^3] musician whose music was underappreciated – Vukardin. 
+Because of the costs of the wars, he decided to use adventurers, offering them tax-free no no-questions-asked plunder. One of those adventurers was an avant-garde[^3] musician whose music was underappreciated – Vukradin. 
 
 # Chapter 2 Arrival in Phandalin 
 
 ## 
 
-## 1/1 of Taraksh 1495
+## 1/1 of Taraskh 1495
 
-### Vukardin 
+### Vukradin 
 
 Vukradin’s music was once again not earning coin. An artist is never appreciated in his time, and yet an artist must eat. 
 
@@ -60,7 +60,7 @@ He tries not to stare at the customers with a reputation for making darker deals
 
 “I need some money,” and he remembers his discussion with the Wintershield watchman. The meeting had left him unsettled. 
 
-“I can make money by going to Phandelin?” 
+“I can make money by going to Phandalin?” 
 
 “Yes,” had said the guard. “Clear the area of monsters and evildoers, and keep the treasure you find.”
 
@@ -70,7 +70,7 @@ The guard had stared at him, exasperated \- “Look, I don’t make the rules, I
 
 “But if these monsters or brigands stole stuff, aren’t we stealing it back?” 
 
-“Are you some kind of Paladin of Torm?” the guard spat out. Vukardin is shocked, “But that makes us complicit in banditry\! Surely the guards of Neverwinter would never condone such a thing?” 
+“Are you some kind of Paladin of Torm?” the guard spat out. Vukradin is shocked, “But that makes us complicit in banditry\! Surely the guards of Neverwinter would never condone such a thing?” 
 
 The guard sighs, “You aren’t going to make a lot of money doing this adventuring thing with that attitude.” But the comment insulted his professional pride, so he explains, “Lord Neverember has decided to establish the law of Neverwinter in the hinterland. But to do that, those opposing him must be dealt with. He's decided to use adventurers because he can’t bring a real army. Once the adventurers have pacified the area, we will arrive and establish order and the proper laws. It’s a process.” 
 
@@ -78,19 +78,19 @@ Vukradin muttered, “That seems very dangerous.”
 
 The guard’s eyes sparkled, ““If you are so concerned, bring it to the Wintershield headquarters. There you can give it to the Wintershield guards, and we will hold it for 60 days, and after the 60 days, if nobody claims it, we will take a portion for our retirement fund and you can keep the rest, secure in your knowledge that the real owners are no longer around to claim it.” 
 
-His thoughts are disrupted when a client screams, “PLAY MUSIC BARD\!” Vukardin sighs, and begins playing a song that he was told might make him a penny. 
+His thoughts are disrupted when a client screams, “PLAY MUSIC BARD\!” Vukradin sighs, and begins playing a song that he was told might make him a penny. 
 
 But he’s had enough, “I quit.” 
 
 As he walks out, Brewbarry follows him, “You go and play music elsewhere?” 
 
-Vukardin stares at Brewbarry, “I am going on an adventure to make some money to make music. You can help me. We won’t be part of this egregious money laundering scheme that the city of Neverwinter seems to be encouraging. Our goal is to make honest coin.” 
+Vukradin stares at Brewbarry, “I am going on an adventure to make some money to make music. You can help me. We won’t be part of this egregious money laundering scheme that the city of Neverwinter seems to be encouraging. Our goal is to make honest coin.” 
 
 “You play music?”
 
-Vukardin smiles, “Yes.” 
+Vukradin smiles, “Yes.” 
 
-### Valphine Sortorra 
+### Valphine Sotorra 
 
 Valphine saw the Aasimar walk out of the bar and decided to follow him. She is a drow and a follower of Lathander. She is a paradox. 
 
@@ -108,7 +108,7 @@ She thought it was just a subterfuge, a scheme encouraging her to take action an
 
 She smiled, “Monsters are what we call things we are allowed to kill.” And she remembered how many in Neverwinter thought she was a monster. 
 
-As she drank in the First Flophouse, the bizarre combination of her clerical symbol and her race created space, and she could not stop staring at the Aasimar Vukardin. “A symbol of good. A symbol of the celestials.”
+As she drank in the First Flophouse, the bizarre combination of her clerical symbol and her race created space, and she could not stop staring at the Aasimar Vukradin. “A symbol of good. A symbol of the celestials.”
 
 His music made no sense, but she could sense something about him. And when he stopped playing and told the barbarian that they would adventure, she had to follow. 
 
@@ -120,7 +120,7 @@ Just outside the city limits, as they headed south, they encountered a tortle na
 
 “I know this land very well, and we will not go hungry.”  
 
-## 8/1 of Taraksh 1495
+## 8/1 of Taraskh 1495
 
 ### Soma 
 
@@ -132,7 +132,7 @@ And soon they arrived at the mining town of Phandalin nestled in the snow-capped
 
 Soma turns to her companions, “This town consists of forty or fifty simple log buildings. Crumbling stone ruins surround the newer houses and shops.” 
 
-Vukardin looks at it: " Are there no natural defenses for this town? No walls, rivers, anything?”
+Vukradin looks at it: " Are there no natural defenses for this town? No walls, rivers, anything?”
 
 Soma shrugs, “There was a bigger town here that was destroyed centuries ago.” 
 
@@ -144,39 +144,39 @@ She pauses, “ Visitors are welcome here, particularly if they have coin to spe
 
 Soma pulls out a map and says, " Here’s a map of the town with all the important stores marked.” 
 
-Vukardin asks if the local Lionshield Coster has all the goods they once had. Soma shakes her head and repeats the rumors that the interdimensional supply chain has been disrupted somehow. 
+Vukradin asks if the local Lionshield Coster has all the goods they once had. Soma shakes her head and repeats the rumors that the interdimensional supply chain has been disrupted somehow. 
 
 “They are now forced to rely on the same kind of suppliers that the rest of the market has to.” 
 
-### Vukardin
+### Vukradin
 
 “Let’s get some food.” 
 
-Vukardin leads the group to the Stonehill Inn, a modest, two-story roadhouse. 
+Vukradin leads the group to the Stonehill Inn, a modest, two-story roadhouse. 
 
 Once inside, he meets the proprietor, a short, friendly male human named Toblen Stonehill. Toblen is a native of Triboar to the east who came to Phandalin to prospect, but soon realized that he knew much more about running an inn than he did about mining.
 
-Vukardin has no coin, so the Bard convinces him to let his music pay for their meals. 
+Vukradin has no coin, so the Bard convinces him to let his music pay for their meals. 
 
 “As long as it's something popular from Waterdeep or Neverwinter.” 
 
-Vukardin sighs, and plays.
+Vukradin sighs, and plays.
 
-As he finishes the third or fourth song, Toblen approaches Vukardin and asks him to play a song that the bard wants to. 
+As he finishes the third or fourth song, Toblen approaches Vukradin and asks him to play a song that the bard wants to. 
 
-Vukardin is delighted, and the innkeeper seems pleased, so he gives him a complimentary glass of beer. 
+Vukradin is delighted, and the innkeeper seems pleased, so he gives him a complimentary glass of beer. 
 
 And then mutters, “Once again, the Orcs have come down from the mountains to prey on the lowlands\! If Neverwinter doesn’t send help soon, the Orcs will overrun Phandalin and destroy everything we’ve worked so hard to rebuild. I am so pleased that you have come to help us.” 
 
-Vukardin sputters, “So we get paid?”
+Vukradin sputters, “So we get paid?”
 
 Toblen looks at him, “Oh no. You go adventuring and take what you can from the monsters.” 
 
 “But when did these Orcs raid?” 
 
-“Years ago. The biggest threat we have had is from the Barbarian hordes.” And then Vukardin realizes the uncomfortable truth that Brewbarry is wearing the distinct tattoos of one of the tribes. He is momentarily worried, but Brewbarry mutters, “I like Vukardin music. My tribe goes boom, boom, boom with a drum. I don’t like drums. I like Vukardin.” 
+“Years ago. The biggest threat we have had is from the Barbarian hordes.” And then Vukradin realizes the uncomfortable truth that Brewbarry is wearing the distinct tattoos of one of the tribes. He is momentarily worried, but Brewbarry mutters, “I like Vukradin music. My tribe goes boom, boom, boom with a drum. I don’t like drums. I like Vukradin.” 
 
-To Vukardin’s relief, Toblen smiles, “Well, my friend, the wars of the past are the past.”   
+To Vukradin’s relief, Toblen smiles, “Well, my friend, the wars of the past are the past.”   
 
 “So will you be staying the night?” asks the innkeeper. 
 
@@ -184,15 +184,15 @@ To Vukardin’s relief, Toblen smiles, “Well, my friend, the wars of the past 
 
 “No, it’s not. So you should check out the quest board. That’s where the  townmaster has posted the jobs that pay.” 
 
-Vukardin gets up, and as he packs his musical instruments, the Innkeeper says quietly, “Be careful, there is a rumor of a white dragon in the neighborhood.” 
+Vukradin gets up, and as he packs his musical instruments, the Innkeeper says quietly, “Be careful, there is a rumor of a white dragon in the neighborhood.” 
 
 “A WHITE DRAGON?” 
 
 The Dwarven Prospectors
 
-## 8/1 of Taraksh 1495
+## 8/1 of Taraskh 1495
 
-### Valphine Sortorra
+### Valphine Sotorra
 
 The townmaster’s hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. The job board next to the front door features a sparse number of notices, all written in Common and in the same hand.
 
@@ -200,21 +200,21 @@ Valphine knocks on the door, and a tremulous voice shouts, “If you’re a drag
 
 She looks at the house and thinks that the townmaster is a fool if he thinks this building will protect him. 
 
-Vukardin reads the first quest out loud, “Dwarven Excavation Quest: Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp.” 
+Vukradin reads the first quest out loud, “Dwarven Excavation Quest: Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp.” 
 
 Valphine asks the man in the building, “Are you Townmaster Harbin Wester? And do these quests pay as you said?” 
 
 The voice clears its throat, “Yes\!” 
 
-Vukardin shouts, “50 gold? To just deliver a message? I am so up for that\!” 
+Vukradin shouts, “50 gold? To just deliver a message? I am so up for that\!” 
 
 Soma mutters, “What about the next one?” 
 
-“Gnomengard Quest: A clan of reclusive rock gnomes resides in a small network of caves in the mountains to the southeast. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50 gp for it” 
+“Gnomengarde Quest: A clan of reclusive rock gnomes resides in a small network of caves in the mountains to the southeast. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50 gp for it” 
 
-Vukardin then reads the last one out loud, “Umbrage Hill Quest. “The local midwife, an acolyte of Chauntea named Adabra Gwynn, lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it’s not safe for her to be alone. Urge Adabra to return to Phandalin. Once she’s safe, visit Townmaster Harbin Wester to claim a reward of 25 gp.”
+Vukradin then reads the last one out loud, “Umbrage Hill Quest. “The local midwife, an acolyte of Chauntea named Adabra Gwynn, lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it’s not safe for her to be alone. Urge Adabra to return to Phandalin. Once she’s safe, visit Townmaster Harbin Wester to claim a reward of 25 gp.”
 
-Valphine is most interested in the Gnomengard Quest for the opportunity of plunder, and hopes that the Bard will pick that one. But his conviction that plunder is somehow wrong leads him to choose the Dwarven quest because it has the highest payout. She is tempted to argue, but remembers that the clerics of the Morninglord have told her that plundering is not the way.  
+Valphine is most interested in the Gnomengarde Quest for the opportunity of plunder, and hopes that the Bard will pick that one. But his conviction that plunder is somehow wrong leads him to choose the Dwarven quest because it has the highest payout. She is tempted to argue, but remembers that the clerics of the Morninglord have told her that plundering is not the way.  
 
 And so they travel to where some ancient ruins can be found. “Ancient ruins have treasure,” she thinks and smiles. 
 
@@ -232,7 +232,7 @@ Valphine mutters, “Nobody is here. We can claim to give the message and return
 
 Soma looks at her, uncertain if she is serious.
 
-But before she can make up her mind to object or not, Vukardin declares that that would be wrong. 
+But before she can make up her mind to object or not, Vukradin declares that that would be wrong. 
 
 And he marches past the broken doors. 
 
@@ -254,9 +254,9 @@ Further into the settlement, she notices a partially collapsed, ten-foot-high wa
 
 And as she mutters to herself, two dwarves appear. 
 
-Vukardin steps forward, “You are in danger of a white dragon; you should leave.” 
+Vukradin steps forward, “You are in danger of a white dragon; you should leave.” 
 
-Before Soma can react, Vukardin begins to walk out of the cave. 
+Before Soma can react, Vukradin begins to walk out of the cave. 
 
 He looks at her, “I gave the message, let’s go collect.” 
 
@@ -270,15 +270,15 @@ Soma looks at him curiously.
 
 Until now.  Behind the settlement, carved into the back wall of the canyon, is an old temple of Abbathor, the evil dwarven god of greed. During solar eclipses, Abbathor is appeased with sacrifices of blood and gemstones. We think that on one occasion, the god found the sacrifices of this temple’s priests lacking, so he caused an earthquake and avalanche that collapsed parts of the temple and buried the settlement. We tried to go deeper but saw something that scared us. If you are willing to go in and deal with it, we could split what we find.”
 
-Vukardin seems concerned, “Are you grave robbers? Are you stealing stuff that rightfully belongs to someone else?” 
+Vukradin seems concerned, “Are you grave robbers? Are you stealing stuff that rightfully belongs to someone else?” 
 
 Soma interrupts him, “Let’s hear them out, there may be money here.” 
 
 Dazlyn, seeing an opening, says, “We don’t have money, but we could give you these sending stones. They are worth a lot of money to the right person. “
 
-Vukardin appears hesitant, and Soma wonders how to convince him, when Valphine steps in, “Sending stones would allow you to send your music between two locations.”
+Vukradin appears hesitant, and Soma wonders how to convince him, when Valphine steps in, “Sending stones would allow you to send your music between two locations.”
 
-### Vukardin 
+### Vukradin 
 
 “The use of the sending stones would allow for some fascinating musical effects”, thinks the Bard. He wonders how he could use the effect in some of his more recent compositions to add a layer of depth he has found lacking. 
 
@@ -286,16 +286,16 @@ But then something bothers him: “I just want to be clear. Everything you find 
 
 “Of course\!” says the dwarf named Norbus. 
 
-Vurkadin is satisfied with the answer. The opportunity to create musical pieces with the sending stones is too tempting. “And when you are starving, you take risks for your art,” he argues with the inner voice screaming run away. 
+Vukradin is satisfied with the answer. The opportunity to create musical pieces with the sending stones is too tempting. “And when you are starving, you take risks for your art,” he argues with the inner voice screaming run away. 
 
 As he heads into the temple, Dazlyn mutters, “I think we saw some oozes in there, but I could be wrong.” 
 
 
-Vurkardin steps through the temple entrance. Spikes hammered into the floor hold open two sets of double doors. A once-secret door to the north stands open, with a room beyond it having only rubble.
+Vukradin steps through the temple entrance. Spikes hammered into the floor hold open two sets of double doors. A once-secret door to the north stands open, with a room beyond it having only rubble.
 
 He inwardly gulps and mutters about the need for risks for the art, and is about to march into the temple itself. Valphine mutters, “There’s a secret door here.” 
 
-Vukardin coughs, “Excellent\!” 
+Vukradin coughs, “Excellent\!” 
 
 The secret door to the south leads to a passageway heading south. Like all the ceilings here, the ceiling is 10 feet high, and the floor is dust and dirt. There is no light besides the light sources they are bringing with them. 
 
@@ -303,16 +303,16 @@ The passageway continues for 10 feet, heads southeast for 40 feet, and ends in a
 
 Valphine mutters again, “A secret door.” 
 
-But Vukardin wants to explore the other door.  Once past the door, he sees a partially collapsed room.  
+But Vukradin wants to explore the other door.  Once past the door, he sees a partially collapsed room.  
 
 Soma mutters, “This is a bizarre layout.” 
 
-Vukardin agrees and starts to clear out the dirt, but as he does, rocks shift, and the sound worries him. 
+Vukradin agrees and starts to clear out the dirt, but as he does, rocks shift, and the sound worries him. 
 
 Stepping back, he looks around the room. His eyes now catch a feature he had missed. There are several protruding blocks. The blocks act as defensive positions for someone to defend the hallway from someone coming from the direction of the rubble. 
 
-Vukadrin, “This room was cut in half. There may be a way to get around here from the other side.”   
-Valphine Sortorra 
+Vukradin, “This room was cut in half. There may be a way to get around here from the other side.”   
+Valphine Sotorra 
 
 Valphine wasn’t evil. No, that’s not what she was. She was a product of Drow society. And in Drow society, niceties like good and evil were a privilege. She was a survivor, and more importantly, she was alive.
 
@@ -378,7 +378,7 @@ Soma rushes to help Valphine. The Drow has an ecstatic smile on her face. Soma i
 
 “We should spend another night here and head out in the morning.” 
 
-The next morning, Soma and the party head out towards Phandelin. She looks at Brewbarry, who is carrying the Orcs’ axes, and smiles. 
+The next morning, Soma and the party head out towards Phandalin. She looks at Brewbarry, who is carrying the Orcs’ axes, and smiles. 
 
 She also thinks back on last night. Dazlyn and Norbus were very happy to see the Orcs dead. So delighted that they cooked a fine meal. She also remembers the weird music played by Vukradin. Music that the bard claims was his own. 
 
@@ -432,7 +432,7 @@ And then the battle is over. Vukradin emerges from his hiding hole and sees Brew
 
 He watches as Soma searches the corpse and picks up something. He chooses to ignore what he sees. 
 
-### Valphine Sortorra 
+### Valphine Sotorra 
 
 “Once again in Phandalin,” she thinks. 
 
@@ -498,11 +498,11 @@ Valphine looks around at the locals and decides that they have nothing of intere
 
 The next morning, Soma once again heads out into the wilderness, towards the gnomish outpost of Gnomengarde. “The job is simple enough”, she thinks, “go there, get something that might be useful against dragons. And if we don’t think it's useful, but the gnomes do, sell it to the Townmaster for fifty gold.” 
 
-The journey towards Gnomengard in the Sword Mountains goes through broken hilly terrain to the south of Phandalin before going up into the mountains themselves. 
+The journey towards Gnomengarde in the Sword Mountains goes through broken hilly terrain to the south of Phandalin before going up into the mountains themselves. 
 
-Journey to Gnomengard
+Journey to Gnomengarde
 
-The expedition destined for the subterranean halls of Gnomengard, nestled deep within the rugged Sword Mountains, commences with a trek across the fractured, undulating landscape situated to the south of the burgeoning settlement of Phandalin. This initial phase of the journey involves navigating a labyrinth of broken hilly terrain, characterized by uneven ground, scattered rocks, and sparse vegetation, a stark contrast to the more settled lands surrounding Phandalin. Travelers must exercise caution and maintain a sure footing as they traverse this transitional zone, which serves as a prelude to the more challenging ascent into the imposing peaks of the Sword Mountains themselves. The air here may carry the scent of pine and damp earth, and the sounds of scurrying wildlife and perhaps the distant calls of mountain birds might accompany the passage. This lower region, while not as precipitous as the higher elevations, presents its own set of obstacles, demanding resilience and careful navigation before the true ascent towards Gnomengard begins.
+The expedition destined for the subterranean halls of Gnomengarde, nestled deep within the rugged Sword Mountains, commences with a trek across the fractured, undulating landscape situated to the south of the burgeoning settlement of Phandalin. This initial phase of the journey involves navigating a labyrinth of broken hilly terrain, characterized by uneven ground, scattered rocks, and sparse vegetation, a stark contrast to the more settled lands surrounding Phandalin. Travelers must exercise caution and maintain a sure footing as they traverse this transitional zone, which serves as a prelude to the more challenging ascent into the imposing peaks of the Sword Mountains themselves. The air here may carry the scent of pine and damp earth, and the sounds of scurrying wildlife and perhaps the distant calls of mountain birds might accompany the passage. This lower region, while not as precipitous as the higher elevations, presents its own set of obstacles, demanding resilience and careful navigation before the true ascent towards Gnomengarde begins.
 
 The climb up is slow, but Soma has a sense for this kind of journey and leads her group through a series of mountain paths. As she turns, the path emerges into a narrow valley with a 5-foot-wide path, surrounded by steep walls to either side. Ahead in the middle of the valley is an ogre. 
 
@@ -526,7 +526,7 @@ Soma smiles, covers him in poison, and then rushes away.
 
 The Ogre charges at Brewbarry, who misses. The Ogre, in turn, misses the large barbarian. 
 
-Valphine then uses one of the magical bullets Brewberry found on the last Ogre to knock it prone. 
+Valphine then uses one of the magical bullets Brewbarry found on the last Ogre to knock it prone. 
 
 # 
 
@@ -740,7 +740,7 @@ The co-King sighs, “I am King Gnercli. Are you adventurers?”
 
 King Gnercli sighs, “You sound like adventurers. How about this, kill the shapeshifter, and I will give you a device.” 
 
-Vurkadin mutters, “I am a musician.” 
+Vukradin mutters, “I am a musician.” 
 
 And he laughs when Soma adds, “More of a tour guide.” 
 
@@ -802,7 +802,7 @@ She smiles and repeats a rhyme she remembers from her youth, “Sticks and stone
 
 # Chapter 4 The Bard, the Kings, and the Carver
 
-## 02-01  of Tarkash 1495 
+## 02-01  of Taraskh 1495 
 
 ###  Vukradin 
 
@@ -1508,7 +1508,7 @@ Vukradin, whose presence fills a room, approaches the tavern keeper and offers t
 
 As Vukradin prepares to play he shouts, “Toblen, what do your friends call you?”
 
-Tolbien laughs, “Spiderman.”
+Toblen laughs, “Spiderman.”
 
 I look at the man, wondering if he is one of us. I do so like spiders. But no. He explains that as a child, he fell into a spider’s nest where spiders were hatching and was covered in baby spiders. He wasn’t afraid, and the sight of him walking calmly covered in Spiders earned him the nickname. 
 
@@ -1662,7 +1662,7 @@ But he has already said yes.
 
 Ser Kaelen responds, “Know this, you are a brother. And when we reach out for help, you must come to us as a brother. And as your brothers, we will come to your help\!” 
 
-## 05-01 Taraksh 1495
+## 05-01 Taraskh 1495
 
 ### Soma
 
@@ -1750,9 +1750,9 @@ Upon Brewbarry's return with the horse, Elara is relieved. She thanks me for our
 
 I point out to Valphine, “This\! This is Fair Trade and Conflict Free gold." 
 
-The rest of the group wants to press on, but I insist that we return Elara and Jarke to Phandalin. Although there is grumbling, we do just that. 
+The rest of the group wants to press on, but I insist that we return Elara and Jarek to Phandalin. Although there is grumbling, we do just that. 
 
-Upon arrival, we see Ser Kaelen Thorne, who is still in Phandalin and I explain everything to him. He seems pleased that I am not just focused on the big picture, but also doing good deeds, and how that aligns with the broader values of the Order of the Gauntlent. He ends with, “Bringing you into the fold was the right thing to do."
+Upon arrival, we see Ser Kaelen Thorn, who is still in Phandalin and I explain everything to him. He seems pleased that I am not just focused on the big picture, but also doing good deeds, and how that aligns with the broader values of the Order of the Gauntlet. He ends with, “Bringing you into the fold was the right thing to do."
 
 Compliments are always good. 
 
@@ -2065,7 +2065,7 @@ After our bizarre exchange with Adabra, we head to the Lionshield Coster, where 
 
 The idea that we should spend time and money to return goods that others were incapable of holding onto tires me. 
 
-But Vukradin has opinions. None more ridiculous than his conviction that it was Ser Kaelen Thorne who revealed his position. 
+But Vukradin has opinions. None more ridiculous than his conviction that it was Ser Kaelen Thorn who revealed his position. 
 
 He sat in the middle of the square, screaming about how he intended to visit the Tower of the Storms and destroy it. 
 
@@ -2850,7 +2850,7 @@ Vukradin demands to know how the Carver knew. He always thinks there are spies.
 
 “It’s boringly predictable,” Skippy whimpers, explaining that the Carver knew that knocking out the ranch would generate a quest, causing adventurers like us to walk right into his trap. He knows that Harbin uses the quest board to hire out adventurers. He further reveals that the ambush is led by Borg the Hammer, a half-orc enforcer. 
 
-Vukradin wants to know how the Carver is so well informed. Skippy is tempted to keep silent, but he looks at the blood on my claws and reconsiders. He tells us that one of Carver’s henchmen is Sister Kayla. She is the Spymaster and runs their spy network in Phandalin.
+Vukradin wants to know how the Carver is so well informed. Skippy is tempted to keep silent, but he looks at the blood on my claws and reconsiders. He tells us that one of Carver’s henchmen is Sister Kaella. She is the Spymaster and runs their spy network in Phandalin.
 
 We need to go quickly. But Vukradins wants to return the prisoner to Phandalin. 
 
@@ -2948,7 +2948,7 @@ Vukradin speaks for the party: "I think we follow Borg.".
 
 Yes. The trail of the furious Borg is the trail to the true center of the intrigue. The raw scent of rage and the heat of the burning farmhouse are a fine reward for patience. The pursuit of the schemer is always more rewarding than the simple destruction of his tools.
 
-# Chapter 16 Deals with Harbin, and Sister Kayla, and no deal with Jenna
+# Chapter 16 Deals with Harbin, and Sister Kaella, and no deal with Jenna
 
 ## 7-02 Taraskh 1495 
 
@@ -3008,7 +3008,7 @@ Ser Kaelen looks at me and mutters, “A privy council that made the decisions f
 
 “No, we are going to have a town meeting. I will not have you shut me down,” I declare. 
 
-I march onto the town green and start playing my music. Soon, all of the local notables have arrived: Elmer, the owner of Barthen’s provisions, and his two clerks, Ander and Thistle, and  Halia Thornton, owner of the Miner’s Exchange, Linene, the manager of Lionshield Coster, Spider-Man, and  Adabra. 
+I march onto the town green and start playing my music. Soon, all of the local notables have arrived: Elmer, the owner of Barthen’s provisions, and his two clerks, Ander and Thistle, and  Halia Thornton, owner of the Miner’s Exchange, Linene, the manager of Lionshield Coster, Spiderman, and  Adabra. 
 
 There are also many farmers and miners that we haven’t met. But the town isn’t that big, and once you get past 20 or so, there aren’t that many more. 
 
@@ -3048,7 +3048,7 @@ I hear a voice shout, “I wish to make an announcement.”
 
 Harbin is about to speak, and so help me. 
 
-But Harbin surprises me as he says, “The recent actions of Vukradin demonstrate the need for a more active and engaged community in our decision-making. Although it is not within my power to make him Townmaster, I do believe that after reviewing our charter, a new privy council consisting of myself, Tolbin, Elmer, Halia, Linene, and Adabra, with our new hero Vukradin, will be just what we need in these perilous times\!” 
+But Harbin surprises me as he says, “The recent actions of Vukradin demonstrate the need for a more active and engaged community in our decision-making. Although it is not within my power to make him Townmaster, I do believe that after reviewing our charter, a new privy council consisting of myself, Toblen, Elmer, Halia, Linene, and Adabra, with our new hero Vukradin, will be just what we need in these perilous times\!” 
 
 I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can see that. He explains that if we were to do that, then Lord Neverember would see this as an attack on his authority and send troops to deal with us. Even if we were able to stop the troops, the harm to the town would be considerable. 
 
@@ -3058,7 +3058,7 @@ For a moment, the nobility of the revolution calls, but then I realize that comp
 
 It’s been a long day, waiting for the sun to settle. While Vukradin, Soma, and Brewbarry went into town, I had a different plan. I would stay outside of town with Corbin and Locutus. 
 
-At night, I plan to sneak into town, meet with Sister Kayla, and learn what I can. 
+At night, I plan to sneak into town, meet with Sister Kaella, and learn what I can. 
 
 I almost had to change my plans when I heard the roar of a white dragon. I told Corbin to watch Locutus while I ran towards Phandalin. But before I got too far, the Dragon flew away. 
 
@@ -3086,7 +3086,7 @@ But then something happens that shocks me, “Now, Valphine, we can have a priva
 
 I mumble, “Sure?” 
 
-Sister Kayla removes her hood. I stare at her features. She has cold grey eyes, her hair is cut short, and there is a scar near her neck. Under her cloak, she is wearing some armor, and in her hands are the rapier and the bloodied dagger, which are pointed at me, as a reminder of what the consequences of not agreeing with her might be. 
+Sister Kaella removes her hood. I stare at her features. She has cold grey eyes, her hair is cut short, and there is a scar near her neck. Under her cloak, she is wearing some armor, and in her hands are the rapier and the bloodied dagger, which are pointed at me, as a reminder of what the consequences of not agreeing with her might be. 
 
 “I have more important business than working for the Carver,” she begins, and then continues after a pause, “The Borg had one job: kill Big Al. Leave no witnesses. If he had done that, my carefully laid plan would have worked. But he didn’t. And so the plot to blame you for the crime of stealing goods from a merchant has failed.” 
 
@@ -3106,7 +3106,7 @@ How droll.
 
 She continues, oblivious to my reaction, “I will provide you with information in a few days to kill the Carver’s last lieutenant. I know you are wondering why we don’t kill the Carver. Because he has a very unique ability to communicate with his people, he can communicate with us telepathically. I don’t know how. So we have to weaken him sufficiently so that he comes out of hiding.” 
 
-I recall the stories of mind flayers, aboleths, and eldritch monsters that could do this, and I decide that this is a bridge too far. I am about to tell Sister Kayla that I no longer care to help her in her war with the Carver. 
+I recall the stories of mind flayers, aboleths, and eldritch monsters that could do this, and I decide that this is a bridge too far. I am about to tell Sister Kaella that I no longer care to help her in her war with the Carver. 
 
 She again doesn’t sense my misgivings and asks, “Do we have an arrangement?” 
 
@@ -3116,11 +3116,11 @@ She notes, “If you kill his lieutenants, then the Carver will come out of hidi
 
 I smile, “They are my assistants.” 
 
-Sister Kayla believes me, “Interesting. This whole Lathander thing is a front, right? You are clearly a cleric of Lolth.” 
+Sister Kaella believes me, “Interesting. This whole Lathander thing is a front, right? You are clearly a cleric of Lolth.” 
 
 I glare at her, and she smiles as if she knows something.
 
- “No need to say anything,” Sister Kayla purrs and then, with more steel in her voice, says, “I know I could get a deal with you. Vukradin was too naive and too simple-minded, Brewbarry was in the bard’s pocket, and as for Soma, she is too full of nature.” She points the bloody dagger at me, “But you? I knew you and I could make a deal.” 
+ “No need to say anything,” Sister Kaella purrs and then, with more steel in her voice, says, “I know I could get a deal with you. Vukradin was too naive and too simple-minded, Brewbarry was in the bard’s pocket, and as for Soma, she is too full of nature.” She points the bloody dagger at me, “But you? I knew you and I could make a deal.” 
 
 I again glare, impassively. 
 
@@ -3296,7 +3296,7 @@ She looks at me, and I can see her consider it for a moment, but then the mask s
 
 # Chapter 17 Blood Money, Clean Gold, and Fine Wine
 
-The party gathered at the tavern to discuss their recent encounter with Sister Kella, an enemy who had offered to work with them against the Carver. Valphine explained that Kella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
+The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an enemy who had offered to work with them against the Carver. Valphine explained that Kaella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
 
 While Vukradin was outside, two pale-skinned, sunburned villagers named Brin Bundlewine and Giles Slipper-Shine approached Valphine with great excitement. They had heard rumors of a drow who worshiped Lathander and believed in the purifying pain of the sun, and they were eager to establish a chapel dedicated to this interpretation of the sun god’s glory. Valphine agreed that founding a temple was a good idea, and the group decided to convert the dilapidated Tresendar Manor into the Temple of Lathander’s Searing Pain of Justice. Harbin Wester, the townmaster and leader of the Privy Council, conveniently appeared and offered to arrange the paperwork for a modest fee of fifty gold pieces. He framed the transaction as a private arrangement that didn’t need to involve the entire council, describing it as simply how things were done in the Overbright. The deal was struck, and Brin and Giles agreed to renovate the temple for twenty-five gold pieces to cover materials, providing their labor for free.
 
@@ -3304,7 +3304,7 @@ When Vukradin returned from his walk, Harbin quickly claimed that the temple fun
 
 The next morning, Vukradin spoke with Ser Kaelen about tracking down the rightful owners of the treasure they had found. Ser Kaelen explained that he was waiting for information from Neverwinter and should have answers in a few days. He suggested the party could check out Mountain’s Toe or deliver supplies to the Logger’s Camp while they waited. The party decided to take on the supply delivery quest, which Harbin had requested for his brother. At Barthen’s Provisions, they picked up two heavy crates filled with dried meats, cheese, bread, ale, and oil, all loaded onto a cart pulled by an ox named Vincent. When Brewbarry noticed there was no wine among the supplies, Barthen suggested they stop at the Falcon Hunting Lodge along the way, which was known for its fine wine.
 
-##  9-02-Taraksh 1495
+##  9-02-Taraskh 1495
 
 After a peaceful two-day journey through Neverwinter Wood, the party arrived at the fortified Falcon Hunting Lodge. The compound was surrounded by a ten-foot-high log palisade and featured a two-story main building, a stone tower, stable house, and guest quarters. They rang the bell at the gate and were greeted by Corwin, who introduced himself as the chef and retainer. After seeing Barthen’s letter of introduction, Corwin welcomed them inside and fetched Falcon the Hunter, the lodge’s proprietor. Falcon was a man with impressive mutton chops who expressed great delight at having guests, especially friends of Barthen. He immediately offered them hospitality, including lodging, meals, and access to his fine wine cellar in exchange for musical entertainment from the party’s bard.
 
@@ -3625,17 +3625,17 @@ Later, Lyra appeared in town, reunited with the two Emerald Enclave members the 
 
 Ser Kaelen approached the party with important information about the statue they had recovered from the lighthouse. His contacts had identified it as belonging to Elara Seasong Meliame, a wealthy art collector currently attending an extravagant gala in Neverwinter hosted by her eccentric cousin, Lord Cassian Meliame. However, he warned that agents of House Maragaster—a family notorious for demonic alliances—intended to intercept the statue to embarrass the Meliames. Ser Kaelen requested that the party escort the statue to Neverwinter and present it to Elara personally, making sure to mention the Order of the Gauntlet's assistance in hopes of securing future donations. Vukradin, ever the opportunist, considered thanking multiple organizations to maximize potential favors.
 
-That evening, the party performed at the local tavern. While Valphine struggled with her performance, Vukradin's music energized the crowd, and Brewbarry created an entirely new spectacle with impressive physical displays and dance moves that the audience began imitating. Spider-Man, the tavern owner, rewarded them with free drinks and the crowd showered them with applause and coin. After a night of rest, the party prepared for their next adventure.
+That evening, the party performed at the local tavern. While Valphine struggled with her performance, Vukradin's music energized the crowd, and Brewbarry created an entirely new spectacle with impressive physical displays and dance moves that the audience began imitating. Spiderman, the tavern owner, rewarded them with free drinks and the crowd showered them with applause and coin. After a night of rest, the party prepared for their next adventure.
 
 The following day, they embarked on a journey to Axeholm, traveling across grassy lowlands that skirted the rocky foothills of the Sword Mountains. Cool winds and rain from the Sword Coast made the trek unpleasant, but they pressed on. Upon arrival, they found the entrance to the ancient dwarven fortress—a dark passageway carved into a gray mountain, flanked by towering bulwarks of seamless stone. A rusted iron portcullis blocked their way, and the arrow slits carved into the walls showed no signs of occupation.
 
 Brewbarry attempted to force the portcullis open with an incredible display of strength, but even his mighty effort couldn't overcome the massive stone block jamming the mechanism. The party realized they would need an alternative approach. Soma summoned a rat familiar to scout through the narrow arrow slits, establishing a telepathic link to explore what lay beyond. As the tiny creature prepared to venture into the darkness of Axeholm, the party stood ready to discover what secrets the abandoned fortress held.
 
-# Chapter 25 Where Reality Unravels: Breaching Axelholm
+# Chapter 25 Where Reality Unravels: Breaching Axeholm
 
-The party arrived at the ancient dwarven fortress of Axelholm, carved into the base of a mountain miles south of Phandalin. Their quest was to open the long-sealed fortress and make it safe for habitation, as Townmaster Harbin Wester had warned that the people of Phandalin might need to evacuate there if the dragon attacks became imminent. Soma summoned a rat familiar to scout ahead, and the creature discovered a winch mechanism inside the entrance that could lift the portcullis gate. As the rat explored, the party heard unsettling sounds emanating from within: a constant low-frequency ticking like a clock speeding up and slowing down, and the scratching of quills on parchment coming from inside the walls themselves. Working together, they attached a rope to the winch and raised the gate, with Brewbarry then spending considerable effort to smash through an inner portcullis door.
+The party arrived at the ancient dwarven fortress of Axeholm, carved into the base of a mountain miles south of Phandalin. Their quest was to open the long-sealed fortress and make it safe for habitation, as Townmaster Harbin Wester had warned that the people of Phandalin might need to evacuate there if the dragon attacks became imminent. Soma summoned a rat familiar to scout ahead, and the creature discovered a winch mechanism inside the entrance that could lift the portcullis gate. As the rat explored, the party heard unsettling sounds emanating from within: a constant low-frequency ticking like a clock speeding up and slowing down, and the scratching of quills on parchment coming from inside the walls themselves. Working together, they attached a rope to the winch and raised the gate, with Brewbarry then spending considerable effort to smash through an inner portcullis door.
 
-Once inside the main hall, Soma's rat familiar revealed a chamber with a forty-foot-high ceiling supported by thick stone pillars, all covered in a layer of dust. The rat perceived strange spatial distortions where distances seemed curiously out of phase, as if moving twenty feet only covered a foot of actual distance. Ballistas were positioned to defend arrow slits, and the light within the fortress appeared mathematically cold and unnatural, refusing to flicker as normal flames would. When several doors opened, grotesque creatures emerged that had once been the dwarven inhabitants of Axelholm. These out-of-phase beings had parchment-like skin covered in shifting ink, gold coins embedded in their flesh, and mouths sewn shut with golden wire or red tape. Their limbs appeared to multiply and move out of phase with reality, giving the impression of six hands and six legs. Soma used her staff to sense the corruption, discovering a planar anomaly that had warped reality within the fortress and driven its inhabitants mad. The creatures muttered constantly about efficiency, their minds clearly broken by whatever had transformed them.
+Once inside the main hall, Soma's rat familiar revealed a chamber with a forty-foot-high ceiling supported by thick stone pillars, all covered in a layer of dust. The rat perceived strange spatial distortions where distances seemed curiously out of phase, as if moving twenty feet only covered a foot of actual distance. Ballistas were positioned to defend arrow slits, and the light within the fortress appeared mathematically cold and unnatural, refusing to flicker as normal flames would. When several doors opened, grotesque creatures emerged that had once been the dwarven inhabitants of Axeholm. These out-of-phase beings had parchment-like skin covered in shifting ink, gold coins embedded in their flesh, and mouths sewn shut with golden wire or red tape. Their limbs appeared to multiply and move out of phase with reality, giving the impression of six hands and six legs. Soma used her staff to sense the corruption, discovering a planar anomaly that had warped reality within the fortress and driven its inhabitants mad. The creatures muttered constantly about efficiency, their minds clearly broken by whatever had transformed them.
 
 When Brewbarry finally smashed through the door, combat erupted with the out-of-phase dwarves. Valphine called upon the glory of Lathander, her divine power causing several of the creatures to flee in terror despite them not being truly undead. Soma unleashed beams of radiant moonlight and thunderous waves of force that damaged multiple enemies and sent them crashing against the walls. Vukradin provided magical encouragement to his allies while striking with his rapier, causing one dwarf to blink out of existence as space folded in on itself. Brewbarry transformed into his enraged state, becoming Big Brewbarry, and cleaved through the out-of-phase creatures with devastating strikes from his halberd. As the battle progressed, even more of the warped dwarves materialized from the unnatural light, their forms phasing in and out of reality as they advanced on the party.
 
@@ -3681,11 +3681,11 @@ As the last dwarf fell, a new threat emerged from deeper within the chamber. The
 
 The Chief Accountant's retaliation was devastating. She unleashed a terrible wail that echoed through the chamber, and both Valphine and Vukradin collapsed unconscious from the supernatural assault. Brewbarry and Soma weathered the attack, though they were wounded. As Soma moved to stabilize their fallen companions, the Chief Accountant's demeanor suddenly changed. She stared at Valphine's unconscious form with what seemed like panic, frantically attempting to stabilize her with blue-white static energy while crying out about acid damage and depreciation, terrified that "the auditor" would liquidate her for closing Valphine's account. After this outburst, she became incorporeal and fled through a closed door into another room.
 
-After the party had healed their wounds and rested, the Chief Accountant cautiously emerged and began to explain what had happened to the fortress. She revealed that Valphine's sister Aletra, the fourth daughter of the Satora family, had made a deal with the king to improve the mine's efficiency and profit margins. The king had been jealous of the Lionshield Coster's multi-dimensional merchant operations and their incredible revenue. Aletra had promised that installing a special machine would solve everything, but instead the machine had broken and unleashed chaos throughout the keep. The Chief Accountant admitted that when she had complained to Aletra about the books not balancing, Aletra had laughed at her—and then likely killed her. She offered the party a deal: she would give them the override code to shut down the machine if they would let her go and not tell Aletra what had transpired.
+After the party had healed their wounds and rested, the Chief Accountant cautiously emerged and began to explain what had happened to the fortress. She revealed that Valphine's sister Aletra, the fourth daughter of the Sotorra family, had made a deal with the king to improve the mine's efficiency and profit margins. The king had been jealous of the Lionshield Coster's multi-dimensional merchant operations and their incredible revenue. Aletra had promised that installing a special machine would solve everything, but instead the machine had broken and unleashed chaos throughout the keep. The Chief Accountant admitted that when she had complained to Aletra about the books not balancing, Aletra had laughed at her—and then likely killed her. She offered the party a deal: she would give them the override code to shut down the machine if they would let her go and not tell Aletra what had transpired.
 
 The party debated whether to trust the undead accountant, but ultimately decided to follow her directions to the machine. They descended back to the lower level and made their way through a tunnel to reach the machine room. What they found was extraordinary—a massive contraption of brass, orange organ pipes, spinning copper centrifuges, and twisting mechanical arms bolted to the floor. The device vibrated violently, venting jets of purple steam while a magical voice boomed from its brass horn about non-Euclidean geometry and purging protocols. The air was thick with static electricity that made their hair stand on end.
 
-Standing calmly beside this chaotic machine was a drow woman in a high-collared uniform, typing on a glowing keypad with one hand while holding a rapier in the other. Valphine recognized her immediately—not by sight, but by scent. The faint, sickly sweet mixture of lavender perfume and chemical bleach from the Satora family poison labs could only belong to one person: Aletra. Above her, four spectral spiders made of flickering static clung to the ceiling, hissing like white noise. When Aletra turned to face them, Valphine saw the sharp cheekbones and cold violet eyes of the sister who had exposed traitors not for honor, but for profit.
+Standing calmly beside this chaotic machine was a drow woman in a high-collared uniform, typing on a glowing keypad with one hand while holding a rapier in the other. Valphine recognized her immediately—not by sight, but by scent. The faint, sickly sweet mixture of lavender perfume and chemical bleach from the Sotorra family poison labs could only belong to one person: Aletra. Above her, four spectral spiders made of flickering static clung to the ceiling, hissing like white noise. When Aletra turned to face them, Valphine saw the sharp cheekbones and cold violet eyes of the sister who had exposed traitors not for honor, but for profit.
 
 Aletra warned them not to approach, explaining that she was in a delicate equilibrium with the machine and its guardian constructs. She revealed that she needed to extract something important from the device before they could use the override code to shut it down. Through careful observation, Valphine realized what her sister was truly after—drow poison that Aletra had been smuggling through the multiverse using the machine. Aletra spoke to Valphine in Undercommon with her characteristic condescension, telling her to go play in the mud with the other surface dwellers while the adults handled their deadline. She then made her proposal: if the party would kill the spectral spiders that guarded the machine, she would extract her cargo and allow them to disable the device. If they refused, she warned, she might be forced to attempt the extraction anyway—which could cause the entire place to explode. The party stood at a crossroads, weighing their options as they faced Valphine's dangerous and unpredictable sister.
 
@@ -3701,7 +3701,7 @@ Soma's flaming sphere proved crucial in the fight, as the party discovered that 
 
 Brewbarry and Vukradin fought with devastating efficiency once the webs were cleared, their weapons cutting through the Rift Weavers with brutal precision. The creatures chittered in frustration as their attempts to restrain the party failed repeatedly, their webs burning away in the magical flames. One by one, the spiders fell, dissolving into crackling sparkles as they were destroyed. The remaining Rift Weavers became confused, torn between attacking Brewbarry and the malfunctioning machine itself, which was beginning to emit warnings of catastrophic failure.
 
-As the last of the Rift Weavers fell, Aletra successfully extracted a box containing vials of interdimensional poison—part of House Sartorra's illegal drug trade. She called out to Valphine, asking if she had the shutdown code and urging her to use it. With dark humor, Aletra remarked that she would hate to have to collect Valphine's body parts and bring them back to their mother, then admitted she unfortunately couldn't leave any evidence behind. She pressed a small device, opening a shimmering portal before her.
+As the last of the Rift Weavers fell, Aletra successfully extracted a box containing vials of interdimensional poison—part of House Sotorra's illegal drug trade. She called out to Valphine, asking if she had the shutdown code and urging her to use it. With dark humor, Aletra remarked that she would hate to have to collect Valphine's body parts and bring them back to their mother, then admitted she unfortunately couldn't leave any evidence behind. She pressed a small device, opening a shimmering portal before her.
 
 In a desperate attempt to stop her sister's escape, Valphine struck Aletra with a blinding curse. Though Aletra had positioned the portal directly in front of herself and managed to step through despite her sudden blindness, the spell caused her to fumble and drop several of the precious vials onto the ground. As she disappeared through the portal, she muttered something about "the boss" not being happy with this development. Aletra's final words acknowledged that Valphine had at least tried to stop her, which was better than simpering and crying like the last time, though she couldn't quite remember if Valphine had been moaning in pain or pleasure during that previous encounter.
 
@@ -3713,7 +3713,7 @@ The party stood in the now-quiet room, surrounded by the aftermath of battle and
 
 After the interdimensional device collapsed into the void and Aletra escaped, the party searched the room where the machine had been. Nothing remained of the device itself, but they discovered strange strands of interdimensional spider silk left behind by the Riftweavers. Valphine, a former devotee of Lolth, considered collecting the unusual silk for her temple. The party debated the nature of these creatures—whether they were a natural phenomenon, a defense mechanism against planar damage, or summoned beings sent by some unknown deity.
 
-The party opened a door to the west and discovered Aletra's makeshift quarters in what had once been a barracks. A high-quality silk bedroll and a folding desk made of black Zurkhwood cluttered with modern parchment revealed where she had been working. The lingering scent of lavender mixed with perfume identified the space as belonging to House Xorlarrin's poison operations. Soma investigated a ledger on the desk and uncovered Aletra's forgeries—she had crossed out "iron for 500 pounds" and written "Midnight Tears \- crate 4 \-  do not drop," providing clear evidence of her tampering with the books.
+The party opened a door to the west and discovered Aletra's makeshift quarters in what had once been a barracks. A high-quality silk bedroll and a folding desk made of black Zurkhwood cluttered with modern parchment revealed where she had been working. The lingering scent of lavender mixed with perfume identified the space as belonging to House Sotorra's poison operations. Soma investigated a ledger on the desk and uncovered Aletra's forgeries—she had crossed out "iron for 500 pounds" and written "Midnight Tears \- crate 4 \-  do not drop," providing clear evidence of her tampering with the books.
 
 After Vukradin left the room, Valphine discovered a hidden bag containing a small platinum coin worth only seven gold pieces, a square-cut malachite gem worth eight gold pieces, a bottle of fine wine, and four vials of Midnight Tears poison worth two thousand gold pieces total. The party also found the Operator's Guide to the Model 1489 Spatial Rectification Calliope, which contained Aletra's personal notes including "use only if KP isn't watching." They took the forged ledger and manual as evidence.
 
@@ -3739,13 +3739,13 @@ The area outside the mine erupted into chaos as waves of orcs and ogres descende
 
 The battle intensified when a second wave of enemies emerged from around the hill the mine was dug into. Soma transformed the battlefield into a deadly gauntlet, rolling a sphere of flames into the enemy ranks while her claws and teeth tore through those who survived the initial assault. Despite landing a devastating blow against Brewbarry, one orc discovered that even a perfect strike barely fazed the raging warrior. Brewbarry turned to his next victim with glowing red eyes and declared "you're next" before cutting him down. The ogres proved more resilient, but coordinated attacks from the entire party eventually brought them low, with Brewbarry's thrown axes delivering the final killing blows.
 
-After securing the mine, the party searched the fallen and discovered alchemist's fire, a pouch of coins and gems, and a symbol of Talos, the evil god of weather. They recognized these ogres as members of a tribe previously allied with a figure called the Carver, whose power had apparently weakened after a disastrous incident with someone named Borg the Hammer, causing the ogres to shift their allegiances.  Zeleen Varnaster, one of the wererat miners, appeared and expressed relief at their timely arrival, though his story about Don-jon Raskin's death by carrion crawler seemed suspicious. When pressed about whether he killed Don-jon,  Zeleen evasively replied that "kill is such a strong word," revealing that Don-jon had been "conveniently lured to his death." The party negotiated to receive Don-jon's share of the mine in exchange for dealing with the carrion crawler problem, and Valphine presented the wererats with Petunia's cheese, a local delicacy that delighted them.
+After securing the mine, the party searched the fallen and discovered alchemist's fire, a pouch of coins and gems, and a symbol of Talos, the evil god of weather. They recognized these ogres as members of a tribe previously allied with a figure called the Carver, whose power had apparently weakened after a disastrous incident with someone named Borg the Hammer, causing the ogres to shift their allegiances.  Zeleen Varnaster, one of the wererat miners, appeared and expressed relief at their timely arrival, though her story about Don-Jon Raskin's death by carrion crawler seemed suspicious. When pressed about whether she killed Don-Jon,  Zeleen evasively replied that "kill is such a strong word," revealing that Don-Jon had been "conveniently lured to her death." The party negotiated to receive Don-Jon's share of the mine in exchange for dealing with the carrion crawler problem, and Valphine presented the wererats with Petunia's cheese, a local delicacy that delighted them.
 
-After a brief rest, Valphine investigated the scene where Don-jon supposedly died and made a disturbing discovery. The evidence clearly showed that Don-jon had not been killed by the carrion crawler at all, but had died in combat with someone else. The creature had merely feasted on his corpse afterward. Dwarf footprints leading away from the scene pointed to the true culprits. Despite this revelation, the party still needed to deal with the carrion crawler blocking mining operations.
+After a brief rest, Valphine investigated the scene where Don-Jon supposedly died and made a disturbing discovery. The evidence clearly showed that Don-Jon had not been killed by the carrion crawler at all, but had died in combat with someone else. The creature had merely feasted on his corpse afterward. Dwarf footprints leading away from the scene pointed to the true culprits. Despite this revelation, the party still needed to deal with the carrion crawler blocking mining operations.
 
-Soma communicated with the creature using magic, and it spoke in rapid wet clicks about how it had been feasting on the bodies of "deep stone folk" who smelled of iron and sweat and "false rats" who smelled of musk and bad blood. The carrion crawler explained that it simply waited for the dwarves and wererats to fight each other, then enjoyed the resulting meals. Soma warned the creature that the war would soon end, leaving the mine noisy and devoid of easy food. Remarkably persuasive in her arguments, Soma convinced the carrion crawler to seek better hunting grounds elsewhere. Before it departed, the party searched its lair and found magical goggles that granted vision in darkness and a chain belonging to Don-jon.
+Soma communicated with the creature using magic, and it spoke in rapid wet clicks about how it had been feasting on the bodies of "deep stone folk" who smelled of iron and sweat and "false rats" who smelled of musk and bad blood. The carrion crawler explained that it simply waited for the dwarves and wererats to fight each other, then enjoyed the resulting meals. Soma warned the creature that the war would soon end, leaving the mine noisy and devoid of easy food. Remarkably persuasive in her arguments, Soma convinced the carrion crawler to seek better hunting grounds elsewhere. Before it departed, the party searched its lair and found magical goggles that granted vision in darkness and a chain belonging to Don-Jon.
 
-Following the dwarf tracks deeper into the mine, the party encountered five dwarves led by Horia. When the party asserted their legal ownership of the mine, Horia produced a contract showing that Don-jon had made an agreement with the dwarves to work the mine, and that their tribe had been working it long before the wererats arrived. The truth about Don-jon's death finally emerged: he had told the dwarves he found "a sucker in some bard fellow" who convinced the wererats to work for mere cheese, and that he planned to use this cheap labor while dismissing the dwarves as no longer necessary. The resulting argument had turned deadly.
+Following the dwarf tracks deeper into the mine, the party encountered five dwarves led by Horia. When the party asserted their legal ownership of the mine, Horia produced a contract showing that Don-Jon had made an agreement with the dwarves to work the mine, and that their tribe had been working it long before the wererats arrived. The truth about Don-Jon's death finally emerged: he had told the dwarves he found "a sucker in some bard fellow" who convinced the wererats to work for mere cheese, and that he planned to use this cheap labor while dismissing the dwarves as no longer necessary. The resulting argument had turned deadly.
 
 Horia warned that the wererats were completely incompetent at mining and would cause the entire operation to collapse within months through improper techniques and safety violations. The party proposed a compromise where the skilled dwarves would handle the actual mining while the wererats provided menial labor and security. Horia agreed to consider this arrangement if the wererats apologized for killing dwarves in their initial conflicts. When Valphine bluntly stated that contracts existed only to cheat people, she deeply offended Horia, who questioned whether she was truly a cleric of Lathander. The party began renegotiating the dwarves' original contract, which had promised them a twenty percent share, hoping to reduce their cut while maintaining the mine's operational integrity.
 
@@ -3757,7 +3757,7 @@ Date: Feb 18th, 2026
 
 The party began by recapping their recent adventures, including their encounter with orcs and ogres allied with the Carver, the discovery that Don-Jon had been killed by dwarves before being eaten by a carrion crawler, and their meeting with the Stonetallow clan of shield dwarves. These intensely proud dwarves traced their ancestry to a disgruntled engineer from Gauntlgrym who was the only one who knew how to build a proper archway. When Vukradin questioned the oxymoronic name "Stonetallow," Horia launched into an etymological explanation, revealing that the name came from "stone to allow," referring to allowing arches to pass, reflecting the clan's fixation on doing things properly.
 
-The party then approached the wererats to present their proposal. Vukradin had gained insight that the wererats never truly wanted to mine and preferred acting as muscle rather than engaging in hard labor. They met with Zeleen Varnaster, the wererat leader, and explained their plan: the dwarves would do all the menial labor and mining while the wererats would act as muscle and protect the mine as their territory. Zeleen initially demanded an upfront payment of one thousand gold pieces for six months of protection, but Brewbarry countered by reminding him that the wererats had been chased from their homes and were now getting shelter, cheese, and protection without being kicked out. With his axe still covered in orc and ogre blood as an intimidating visual, Brewbarry questioned why they would demand payment for such a good deal. Zeleen, impressed by the argument and the implied threat, agreed to protect the mine for free, viewing it as protecting their home and family. He offered Vukradin a piece of Petunia's cheese, which was delicious and unique, almost like Gouda but better.
+The party then approached the wererats to present their proposal. Vukradin had gained insight that the wererats never truly wanted to mine and preferred acting as muscle rather than engaging in hard labor. They met with Zeleen Varnaster, the wererat leader, and explained their plan: the dwarves would do all the menial labor and mining while the wererats would act as muscle and protect the mine as their territory. Zeleen initially demanded an upfront payment of one thousand gold pieces for six months of protection, but Brewbarry countered by reminding her that the wererats had been chased from their homes and were now getting shelter, cheese, and protection without being kicked out. With his axe still covered in orc and ogre blood as an intimidating visual, Brewbarry questioned why they would demand payment for such a good deal. Zeleen, impressed by the argument and the implied threat, agreed to protect the mine for free, viewing it as protecting their home and family. She offered Vukradin a piece of Petunia's cheese, which was delicious and unique, almost like Gouda but better.
 
 During the conversation, Zeleen warned that orcs, ogres, and a dragon were still causing chaos in the area, and suggested the Shrine of Savras as a place to find information about the dragon. When Vukradin tried to trick Zeleen by claiming dragons could polymorph into smaller forms to enter caves, Zeleen saw through the deception completely and found it a good joke, cementing their relationship. Brewbarry then revealed his full name as "Brewbarry Root Smasher Ogalakadu," explaining he had a family name, nickname, and clan name. Most alarmingly, Zeleen warned that the dragon's raids were affecting farming so severely that there would be no brewing of beer this year, which greatly concerned Brewbarry.
 
@@ -3787,7 +3787,7 @@ Brewbarry then used his long halberd to open the second sarcophagus from a safe 
 
 — Zeleen Varnaster
 
-*After Vukradin tried to trick him about dragons polymorphing and Zeleen saw through it with a natural 20, turning a failed deception into a bonding moment*
+*After Vukradin tried to trick her about dragons polymorphing and Zeleen saw through it with a natural 20, turning a failed deception into a bonding moment*
 
 "My family name, my nickname, and my clan name. I don't know what this is. Surprise\! It's like you don't know me."
 
@@ -3826,7 +3826,7 @@ Brewbarry then used his long halberd to open the second sarcophagus from a safe 
 * The party explains their plan for the dwarves to do the menial labor while the wererats act as muscle and protect the mine as their territory.  
 * The party emphasizes that the dwarves will extract gold for the wererats and they will receive cheese from Petunia.  
 * Zeleen is intrigued by the idea and initially demands an upfront payment of 1,000 gold pieces for the first six months.  
-* Brewbarry counters Zeleen's demand, reminding him that the wererats were chased from their homes and are now getting shelter, cheese, and protection without being kicked out, questioning why they would demand payment for such a good deal.  
+* Brewbarry counters Zeleen's demand, reminding her that the wererats were chased from their homes and are now getting shelter, cheese, and protection without being kicked out, questioning why they would demand payment for such a good deal.  
 * Brewbarry uses his axe, still covered in orc and ogre blood, as an intimidating visual during the negotiation.  
 * Zeleen, impressed by Brewbarry's argument and the implied threat, agrees to protect the mine without an upfront payment, stating they should protect their home and family.  
 * Zeleen offers Vukradin a piece of 'Petunia's cheese,' which is described as delicious, unique, and textured, almost like Gouda but better.  
@@ -3843,7 +3843,7 @@ Brewbarry then used his long halberd to open the second sarcophagus from a safe 
 * The party confirms they completed the quest to persuade Petunia about the cheese.  
 * Ser Kaelen has information about one of the magical objects the party found.  
 * The party needs to return a statue from the lighthouse to an art collector before House Markaster attacks and inform them that the Order of the Gauntlet is to thank.  
-* Sister Kella was supposed to contact the party about the Carver's situation but never has.  
+* Sister Kaella was supposed to contact the party about the Carver's situation but never has.  
 * Vukradin votes to go to Neverwinter to see Elara ‘Seasong’ Meliamne and unlock some of their loot.  
 * Brewbarry believes the dragon is a worthy challenge and anything else is beneath them.  
 * The party decides to visit Dragonbarrow to obtain the dragon slayer sword, which is on the way to Neverwinter.  
@@ -3995,7 +3995,7 @@ A character in Neverwinter that the party plans to visit, potentially to unlock 
 
 A character who has information about one of the magical objects the party found and wants them to return a statue from the lighthouse to an art collector.
 
-### **Sister Kella**
+### **Sister Kaella**
 
 A character who was supposed to contact the party about the Carver's situation but never has.
 
@@ -4153,7 +4153,7 @@ With the Will-o'-wisps defeated, Valphine carefully navigated past the remaining
 #### Vukradin runs into a room with sarcophagi, is attacked by a Will-o-Wisp, kills the creature, and gets some magical treasure. Soma helps with healing and magical moon beams.
 
 - Vukradin rushes past the entrance of the room where Soma's rat died earlier.  
-- Vurkadin falls into a pit trap, taking 19 points of damage and losing concentration on Silence.  
+- Vukradin falls into a pit trap, taking 19 points of damage and losing concentration on Silence.  
 - A Will-o'-wisp appears and attacks Vukradin, dealing 9 points of damage.  
 - Vukradin uses a reaction to attack the fleeing Will-o'-wisp, hitting with a 21 and dealing 6 points of damage.  
 - Soma hears something, and realizes the bard is in danger and races after him.  
@@ -4680,7 +4680,7 @@ She came up slowly. Eyes first. Then breath. Then the particular stillness of so
 
 I appreciate that quality in a prisoner.
 
-"Hello, Sister Kayla."
+"Hello, Sister Kaella."
 
 She looked at me — at the party, at the tent walls, at the very specific fact of her continued existence — and the first thing she said was: "Thank God you're alive\!"
 
@@ -5464,7 +5464,7 @@ It had gotten what it wanted.
 
 The sword was already in my hand before Vukradin said it.
 
-"Brewberry, kill the dragon."
+"Brewbarry, kill the dragon."
 
 I didn't correct the name. There wasn't time, and also — he could call me whatever he wanted. He always could.
 
@@ -5950,7 +5950,7 @@ The mine sat quiet at the mouth of the mountain, which was itself the problem.
 
 I noticed it before we were through the gate — that particular absence of sound that means something has gone wrong with money. No picks. No cart-wheels grinding on stone. No vibration in the earth under my feet, the deep percussion of work. Just wind, and the nervous shuffling of the Whiskered Gang, who were arranged outside the entrance in a way that suggested they had been standing there for some time doing precisely nothing.
 
-Zeleen Varnaster saw us coming and rearranged his face into something optimistic.
+Zeleen Varnaster saw us coming and rearranged her face into something optimistic.
 
 "Hey, boss\! What's up?"
 
@@ -5958,7 +5958,7 @@ I looked at him for a moment. I let the silence sit.
 
 "Are you working hard today?"
 
-It was a simple question. I delivered it the way you might read an inventory list — flat, procedural, without particular feeling. Zeleen's expression crumpled into something resembling a man watching his house burn down.
+It was a simple question. I delivered it the way you might read an inventory list — flat, procedural, without particular feeling. Zeleen's expression crumpled into something resembling a person watching their house burn down.
 
 "They've been working really hard. I promise you, boss, they've been working really, really hard."
 
@@ -6018,7 +6018,7 @@ Admirably direct. I followed through.
 
 "It means… pull your fingers out of your rat's ass, and do whatever is necessary for the dwarves to be happy miners. We want to hear picks."
 
-Zeleen looked between the two of us with the expression of a man searching for a loophole in a contract that contains no loopholes.
+Zeleen looked between the two of us with the expression of someone searching for a loophole in a contract that contains no loopholes.
 
 "Okay, so what does that mean? Like, so we can stay here then, right? Because you don't need the mine, right?"
 
@@ -6036,7 +6036,7 @@ He swallowed.
 
 "A waste of cheese," I said. "That's what you are. Unless you go into the forest, find the gem, get the bloody dwarves to mine. Is that how you want to be remembered?"
 
-There is a particular moment in any negotiation when the other person's will simply gives way. You can feel it — the shoulders drop a fraction, the eyes stop calculating. Zeleen reached that moment. He reached it loudly.
+There is a particular moment in any negotiation when the other person's will simply gives way. You can feel it — the shoulders drop a fraction, the eyes stop calculating. Zeleen reached that moment. She reached it loudly.
 
 "I think we could… we could make that happen, Mr. Boss. Mr. Right."
 
@@ -6078,7 +6078,7 @@ Brewbarry stared at her.
 
 Horia elected to propose a solution before that negotiating point was developed further.
 
-"I'm perfectly happy to have an addendum signed by Mr. Brewberry. Thumbprints."
+"I'm perfectly happy to have an addendum signed by Mr. Brewbarry. Thumbprints."
 
 "Alright, I'm out of ink. How about I draw a little blood from you, so we can sign that addendum?"
 
@@ -6212,7 +6212,7 @@ I held the staff a little tighter and said nothing more about it.
 
 Kaelen's attention had already shifted to Brewbarry, who had his halberd out in that way large people sometimes carry weapons — not threateningly, just present.
 
-"Is that a halberd?" Kaelen said, with the expression of a man who has opinions about polearms. "Because that is a very fine halberd, Brewberry. We should parry."
+"Is that a halberd?" Kaelen said, with the expression of a man who has opinions about polearms. "Because that is a very fine halberd, Brewbarry. We should parry."
 
 Brewbarry looked at him with the patience of someone who has had this offer before. "You don't want to have a conversation with it, trust me."
 
@@ -6624,7 +6624,7 @@ No one answered. That was its own kind of answer.
 
 Then Xanthopoulos told us about Corbin.
 
-"I have news. Corbin is dead. Sister Kayla walked out. She's gone to the wind."
+"I have news. Corbin is dead. Sister Kaella walked out. She's gone to the wind."
 
 The circle went quiet in a different way.
 
@@ -6706,7 +6706,7 @@ So I stood at the edge of the glade and watched words do the work instead.
 
 Lyra spoke first. She stood before the council and explained what had happened at the rift — the failing ritual, the planar damage spreading through the forest like a sickness in wood, the treant that died when the intervention collapsed. She spoke carefully. She had prepared this. You could tell.
 
-I hadn't been there for all of it, but I had been in enough places like that — Axelholm, the mines, the sites where the corruption sat in the ground and twisted everything it touched — to know what she was describing was real. The dwarves we found there weren't dwarves anymore. Not fully. Whatever had gotten into the stone had gotten into them too.
+I hadn't been there for all of it, but I had been in enough places like that — Axeholm, the mines, the sites where the corruption sat in the ground and twisted everything it touched — to know what she was describing was real. The dwarves we found there weren't dwarves anymore. Not fully. Whatever had gotten into the stone had gotten into them too.
 
 We said as much. The party made the case — the Talosian blight on the land, the things we'd seen, the twisted bodies that used to be people. The forest didn't know the difference between natural rot and this. The forest just died.
 
@@ -7071,7 +7071,7 @@ I watched Vukradin receive this the way he always receives praise — sideways, 
 
 "Principle!" someone supplied.
 
-She turned to Spider-Man — that is truly his name, I have asked twice — and said: "Get this man at least two beers."
+She turned to Spiderman — that is truly his name, I have asked twice — and said: "Get this man at least two beers."
 
 Vukradin, because he is Vukradin, immediately said: "Okay, I'll take two beers, that sounds good. How many for Brewbarry?"
 
