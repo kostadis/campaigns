@@ -32,7 +32,7 @@ Additionally, the alliance of the Silvery Marches was revived due to the efforts
 
 The combined strength of the Giants and major cities successfully ended the barbarian invasion. 
 
-With the threat over and the elimination of the Barbarians from the hinterland, Lord Nevermember has turned his eye to the hinterland of his city-state. 
+With the threat over and the elimination of the Barbarians from the hinterland, Lord Neverember has turned his eye to the hinterland of his city-state. 
 
 In particular, the town of Phandalin. He needed the area cleared of monsters, cults, and evildoers to encourage settlement and growth. 
 

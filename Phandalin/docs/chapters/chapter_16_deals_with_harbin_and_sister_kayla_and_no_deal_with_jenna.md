@@ -16,7 +16,7 @@ Ser Kaelen didn’t or chose not to hear me \- “I insisted we must have a tria
 
 “Very,” I sneer. 
 
-He then turns to me, “I am very frustrated with the leadership of this town. Harbin has been a terrible representative of Lord Nevermember. He has made scandalous accusations against members of our order. I believe a town meeting is essential to resolve this\!”
+He then turns to me, “I am very frustrated with the leadership of this town. Harbin has been a terrible representative of Lord Neverember. He has made scandalous accusations against members of our order. I believe a town meeting is essential to resolve this\!”
 
 I nod.
 
@@ -50,7 +50,7 @@ I can convene my own meeting.
 
 As I prepare to call for a meeting to end the Townmaster, Ser Kaelen pulls me aside. 
 
-He whispers, “Your dedication to participatory democracy, power to the people, opposition to authoritarianism is commendable. But we do live in the real world. And in the real world, Lord Nevermember put Harbin in this position. And if we get rid of Harbin, Lord Nevermember will send the army here. So let’s have our democracy but leave the Townmaster as a puppet.” 
+He whispers, “Your dedication to participatory democracy, power to the people, opposition to authoritarianism is commendable. But we do live in the real world. And in the real world, Lord Neverember put Harbin in this position. And if we get rid of Harbin, Lord Neverember will send the army here. So let’s have our democracy but leave the Townmaster as a puppet.” 
 
 I wanted this so badly, and all I can think to say is, “But he’s corrupt\!” 
 
@@ -100,7 +100,7 @@ Harbin is about to speak, and so help me.
 
 But Harbin surprises me as he says, “The recent actions of Vukradin demonstrate the need for a more active and engaged community in our decision-making. Although it is not within my power to make him Townmaster, I do believe that after reviewing our charter, a new privy council consisting of myself, Tolbin, Elmer, Halia, Linene, and Adabra, with our new hero Vukradin, will be just what we need in these perilous times\!” 
 
-I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can see that. He explains that if we were to do that, then Lord Nevermember would see this as an attack on his authority and send troops to deal with us. Even if we were able to stop the troops, the harm to the town would be considerable. 
+I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can see that. He explains that if we were to do that, then Lord Neverember would see this as an attack on his authority and send troops to deal with us. Even if we were able to stop the troops, the harm to the town would be considerable. 
 
 For a moment, the nobility of the revolution calls, but then I realize that compromise is also noble. 
 
@@ -322,7 +322,7 @@ I stare at her, confused, “Why would you want your name to be confused?”
 
 Now it hits me, “You want to be my agent.” And then I think for a moment, “I do need an agent.” 
 
-She smiles with her whole face and says, “Exactly. What can I offer you? I  can get you plugged in to all of the top places in Waterdeep and Neverwinter.  I can have you performing in front of the nobility. I’m sure I could even get you an audience to play for a set for Lord Nevermember Himself.”
+She smiles with her whole face and says, “Exactly. What can I offer you? I  can get you plugged in to all of the top places in Waterdeep and Neverwinter.  I can have you performing in front of the nobility. I’m sure I could even get you an audience to play for a set for Lord Neverember Himself.”
 
 I nod, showing a hint of excitement, but not too much. 
 
