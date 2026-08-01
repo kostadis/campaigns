@@ -2527,11 +2527,11 @@ entities:
 - name: Dendrar family
   type: faction
   aliases:
-  - Dendar
   - the Dendrars
   provenance: on_the_fly
-  note: Thel, Mirna, Nars, and Nilsa Dendrar; 'Dendar' is a VTT mishearing seen in
-    session 1
+  note: Thel, Mirna, Nars, and Nilsa Dendrar. The VTT mishearing 'Dendar' (session
+    1) is handled in notes/vtt_transcription_corrections.md, not as an alias here —
+    garbles are transcription errors, not identity variants.
 - name: Tuck Stonehill
   type: npc
   provenance: module
@@ -2540,3 +2540,28 @@ entities:
     into the hills and got trapped watching a dwarven ruin's hole. [ch2, ch6] Campaign
     rename of module's Pip Stonehill (per name_glossary.md 2026-06-12) -- collides
     with sidekick Pip Thistlewick.
+- name: Dosa Rook
+  type: npc
+  provenance: on_the_fly
+  source: summaries/007/session_2026_07_18_chapter_07_deception.md
+  note: 'Redbrand bandit killed by the party in the upper-cellar brawl beneath Tresendar
+    Manor. Name confirmed on tape (GM: "the bandit, whose name is Dosa Rook"). ASR
+    garbles "Dessa"/"Desa" are handled in notes/vtt_transcription_corrections.md,
+    not as aliases here. [ch7]'
+- name: Wick
+  type: npc
+  provenance: on_the_fly
+  source: summaries/007/session_2026_07_18_chapter_07_deception.md
+  note: Low-level Redbrand thug. Surrendered in the upper cellar after his allies
+    fell, killed his own wounded comrade to curry favor, revealed that Glasstaff is
+    a wizard who takes orders from someone in Phandalin and that the Redbrands had
+    "handled" the Dendrar family, flinched at the name Black Spider, then was executed
+    by Zenvon. Dead. [ch7]
+- name: Orryn Voss
+  type: npc
+  aliases:
+  - Professor Orryn Voss
+  provenance: on_the_fly
+  note: Veyra's mentor; missing from Phandalin, an open plot thread. Only the title
+    variant "Professor Orryn Voss" is registered as an alias — the ASR garble "Oren
+    Voss" is handled in notes/vtt_transcription_corrections.md, not here.

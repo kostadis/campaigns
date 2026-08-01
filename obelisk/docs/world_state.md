@@ -60,7 +60,7 @@
 - **The bugbears (R9)** — **Still alive, still in the hideout**, sealed behind a door the party barricaded with ale barrels in Ch. 6. Per GM prep they are the **Spider's** muscle, not Glasstaff's, and they **know the way to Cragmaw Castle and Wave Echo Cave**. Their goblin servant **Droop** is with them.
 - **Wick** — Redbrand thug. Surrendered, talked, then was executed by Zenvon in the cellar. **Dead.**
 - **Rondar** — Redbrand lieutenant. Captured, used as a guide, then fed to the nothic. **Dead.**
-- **Desa Rook** — Redbrand bandit killed in the upper-cellar brawl. **Dead.**
+- **Dosa Rook** — Redbrand bandit killed in the upper-cellar brawl. **Dead.**
 - **Klarg**, **Yimek** — Dead (Ch. 2–3).
 
 ---
@@ -207,7 +207,7 @@
 - Cries from the northeast. Maela: *"We're the good guys, remember?"* The **slave pens** — two women and a boy behind iron bars — and a failed Redbrand ambush. All the guards die; one flees.
 - Zenvon picks the locks; the captives are freed. **Pip chases the runner into a 20-ft pit trap**, is hauled out on a rope and healed.
 - **The cellar:** cistern, kegs, stairs to a landing. Submerged in the cistern, a **waterproof satchel** — potion of healing, potion of invisibility. *(Glasstaff's escape kit. He never came back for it.)*
-- **The deception:** Zenvon walks into the upper barracks in a red cloak and denounces the fleeing ruffian as the traitor. The bandits turn on their own. One is lured to the stairs and killed; the ruse collapses; **Desa Rook** and another die; **Wick** kills his own wounded comrade and begs for mercy.
+- **The deception:** Zenvon walks into the upper barracks in a red cloak and denounces the fleeing ruffian as the traitor. The bandits turn on their own. One is lured to the stairs and killed; the ruse collapses; **Dosa Rook** and another die; **Wick** kills his own wounded comrade and begs for mercy.
 - **Wick talks:** Glasstaff is a real wizard who drops men with a word; **he answers to someone in Phandalin**; the dungeon has **multiple levels** and the subterranean part is "wrong"; he flinches at **"Black Spider"**; the Redbrands "handled" the **Dendrar** family — the people in the cells. Zenvon reads him as a man who'd take gold and vanish, and **executes him**.
 - Loot: gold, silver, electrum, two **garnets** (10 gp each).
 - Back at the cells the skeletons stand aside for the cloaks; the barricaded captives open the door; **the Dendrars walk out**. Tresendar's upper works are clear of Redbrands — **except the bugbears, the crevasse floor, and everything below.**

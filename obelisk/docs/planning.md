@@ -92,7 +92,7 @@ Unchanged from `docs/planning.md`. Two notes: **Daran's** Old Owl Well job is st
 ## Faction States
 
 ### The Redbrands
-- **Status: destroyed as a street power.** Body count across Ch. 4–7: three in the street ambush plus one prisoner, four in the barracks, the cell guards, the upper-cellar crew, Rondar, Desa Rook, Wick. Glasstaff fled.
+- **Status: destroyed as a street power.** Body count across Ch. 4–7: three in the street ambush plus one prisoner, four in the barracks, the cell guards, the upper-cellar crew, Rondar, Dosa Rook, Wick. Glasstaff fled.
 - **What's left:** the bugbear contingent (who never really belonged to them), and Glasstaff's ability to rebuild from outside.
 - **The unanswered question:** the **armory**. Racks of spears, swords, crossbows, bolts, and a dozen spare cloaks — far more than a dozen thugs needed. They were arming up for something. Nobody has asked what.
 

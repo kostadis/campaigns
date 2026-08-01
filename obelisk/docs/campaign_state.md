@@ -14,7 +14,7 @@
 - **The pursuit of Iarno Albrek (Ch. 6)** — Caught fleeing through his own secret door, wounded by *Firebolt* and javelin. *Consequence:* **he teleported away and escaped**, leaving behind the Spider's letter, his treasure chest, and his cistern escape kit.
 - **The Tresendar crypts (Ch. 6–7)** — Six skeletons; Maela turned several, the rest destroyed. *Consequence:* jeweled gold bracelet (140 gp); two surviving skeletons now stand down for red-cloak wearers.
 - **The slave pens (Ch. 7)** — Guard ambush defeated; locks picked. *Consequence:* **the Dendrar family freed** — Mirna and her two children.
-- **The cellar deception (Ch. 7)** — Zenvon, in a red cloak, convinced a room of Redbrands their own man was the traitor. *Consequence:* the remaining upper-cellar Redbrands dead including **Desa Rook**; **Wick** captured, interrogated, and executed; gold/silver/electrum and two garnets recovered; potion of healing and **potion of invisibility** recovered from the cistern.
+- **The cellar deception (Ch. 7)** — Zenvon, in a red cloak, convinced a room of Redbrands their own man was the traitor. *Consequence:* the remaining upper-cellar Redbrands dead including **Dosa Rook**; **Wick** captured, interrogated, and executed; gold/silver/electrum and two garnets recovered; potion of healing and **potion of invisibility** recovered from the cistern.
 
 ## Resolved Plot Threads
 
@@ -48,7 +48,7 @@
 | Orryn Voss | Missing | Phandalin (vanished) | Ally (Veyra's mentor) |
 | Rondar | **Dead** | Eaten by the nothic (Ch. 6) | — |
 | Wick | **Dead** | Executed by Zenvon in the cellar (Ch. 7) | — |
-| Desa Rook | **Dead** | Upper cellar (Ch. 7) | — |
+| Dosa Rook | **Dead** | Upper cellar (Ch. 7) | — |
 | Captured Redbrand ruffian | Alive, imprisoned | Harbin Wester's custody | Broken; already talked |
 | The Black Spider | Unknown | Unknown | Hostile — has issued a standing kill/capture order on the party |
 | Klarg / Yimek | Dead | Cragmaw Hideout | — |

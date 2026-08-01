@@ -24,6 +24,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Zenoan | **Zenvon** (session 5: more ASR variant of the PC "Zenvon") |
 | Zanabon, Zenimon, Xenob | **Zenvon** (session 7: more ASR variants of the PC "Zenvon") |
 | Vera, Azvera, Rivera, Maya, Maia, Zerabira | **Veyra** |
+| Sister Vera | **Veyra** (session 5: ASR gave Veyra the cleric's title. The applier sorts longest-first, so this beats the bare "Vera" row and yields "Veyra", not "Sister Veyra") |
 | Sister Mela, Mela, Mila, Myla, Mil, Myra, Nela, Mele, Sister Bela, Sister Meela, Sturmela, Sister Mele, Tell Sister Meila | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
 
 ## NPCs and creatures
@@ -55,12 +56,14 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Melavera | **Veyra** (session 4: fused "Maela"+"Veyra" garble of the tiefling) |
 | Xinavan | **Zenvon** (session 4: more ASR variant of the PC "Zenvon") |
 | Dendars, The Ten Doves | **Dendrars** (session 7: variant of the Dendrar family, cf. session 1 "Dendar") |
+| Dendar | **Dendrar** (session 1: ASR mishearing of the family name. Moved here from `docs/entity_registry.yaml` on 2026-08-01 — garbles are transcription errors, not identity aliases, so they belong in this glossary and never in the registry) |
+| Tell Dendar | **Thel Dendrar** (early session: ASR heard "Thel" as "Tell", cf. the "Tell Sister Meila" row. Evidenced by a `docs/ensemble/merged.json` source_quote; that session's VTT is not retained. Longest-first ordering makes this beat the bare "Dendar" row) |
 | Dessa | **Dosa Rook** (session 7: Redbrand-handled bandit, full name confirmed from retranscription) |
 | Black Sparta | **Black Spider** (Nezznar's known alias) |
 | Karimi, Redbrand Moravian, Redbrand Muffian, Redbrand muffin | **Redbrand Ruffian** |
 | Rhondar, Prandar, Rudar, Randar, Rondor, Brandar, Randa, Randor, Rhonda, Rondart, Rundar, Gundrid, Arnold, Brandor | **Rondar** |
 | Gnothic | **Nothic** |
-| Orman, Bormann, Ormon | **Urmon** |
+| Orman, Bormann, Ormon, Urman | **Urmon** (session 6: "Urman" added 2026-08-01 — journal-author NPC) |
 | Dvarvish | **Dwarvish** |
 | Carbon Wester,Harbren Wester,Pardman Wester | **Harbin Wester** (session 5: ASR garbles of the townmaster's first name, correct surname retained) |
 | Iarno Ulbrecht,Larno Albrek,Giano Albrand | **Iarno Albrek** (session 5: ASR garbles of Glasstaff's real name) |
