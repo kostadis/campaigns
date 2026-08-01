@@ -136,7 +136,7 @@ Harbin seems relieved, “Oh, excellent.”
 
 “We must go and repair the light, immediately.” 
 
-But Harbin seems uninterested, “I think Lord Neverwinter will be delighted to discover that you managed to cleanse the lighthouse of evildoers. I will make sure to send him a note.” 
+But Harbin seems uninterested, “I think Lord Neverember will be delighted to discover that you managed to cleanse the lighthouse of evildoers. I will make sure to send him a note.” 
 
 Knowing the importance of creating alliances with the powerful, I add, “And put a good word in for us.” 
 
