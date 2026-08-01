@@ -1,0 +1,45 @@
+version: 1
+threads:
+- id: carver-march
+  title: The Carver's march on Icespire Hold
+  status: open
+  opened: 4
+  resolved: null
+  tracker: null
+  aliases:
+  - the Carver's path
+  - Carver's dark influence
+  notes: 'Urgent threat: bind Cryovain, then burn Phandalin.'
+  log: []
+- id: adabra-gwynn
+  title: Adabra Gwynn's path toward Tiamat
+  status: open
+  opened: 5
+  resolved: null
+  tracker: Fury of the Wild
+  aliases:
+  - Adabra's future actions
+  - Adabra's agenda
+  notes: ''
+  log: []
+- id: kraken-society
+  title: The Kraken Society and the illithid-tech beacon
+  status: open
+  opened: 8
+  resolved: null
+  tracker: Echoes Score
+  aliases:
+  - Kraken Society influence
+  notes: ''
+  log: []
+- id: aletra-kp
+  title: Aletra Sotorra, agent of KP
+  status: open
+  opened: 27
+  resolved: null
+  tracker: Planar Distortion
+  aliases:
+  - Aletra's boss
+  - Aletra's mysterious boss
+  notes: ''
+  log: []
