@@ -238,7 +238,7 @@
 **Location:** Mountain's Toe Gold Mine.
 **Active plans:** Overseeing mine protection per the party alliance. Tasked with retrieving the Earthstone Gem from orc-occupied forest — claimed it was "completely taken care of" while simultaneously admitting it hadn't been done yet.
 **What party knows:** Wererat gang leader. Agreed to protect the mine in exchange for the alliance. Evasive about Don-Jon Raskin's death.
-**Hidden:** Don-Jon was lured to his death by Zeleen and killed by dwarves (not a carrion crawler as claimed). The party finds this story suspicious but hasn't pressed it. Valphine previously sensed the wererats would keep the mine regardless of any deal. Zeleen's pronouns are inconsistent in the record (he/him in later sources, she/her in earlier ones) — GM should settle this.
+**Hidden:** Don-Jon was lured to his death by Zeleen and killed by dwarves (not a carrion crawler as claimed). The party finds this story suspicious but hasn't pressed it. Valphine previously sensed the wererats would keep the mine regardless of any deal. Zeleen is she/her (settled per the published module — "Essentials Kit: Dragon of Icespire Peak" names Zeleen as a female wererat, the Whiskered Gang's leader); narrative sources have been corrected to match.
 
 ---
 
