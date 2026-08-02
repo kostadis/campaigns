@@ -27,11 +27,11 @@
 ## Characters
 
 ### Zenvon Foreput
-- **Halfling Rogue, Level 2** — Player: Nikhil Reddy.
+- **Class/Level:** Rogue 2 | **Species:** Halfling | **Player:** Nikhil Reddy
 - **Traits & motivation:** Started as the scout. Has become the party's face. Two of the last three sessions were won by his mouth rather than his blades — talking down a Redbrand ambush he'd walked into alone, mimicking a bandit's voice through a door to send a bugbear away, and, in Ch. 7, striding into a room of hostile bandits in a red cloak and convincing them their own man was the traitor. He is also the party's executioner: he read Wick as a man who'd take gold and vanish, and killed him rather than let him go.
-- **Relationships:** Leads. Pip backs his plays with violence when the talking stops (the knife to Rondar's throat); Maela pushes back when he'd rather not stop for the helpless, and he relents. Pulled Pip out of a twenty-foot pit on a rope.
-- **Items of significance:** **Ornate short sword** from the Redbrand armory (semi-precious stones — he traded up on looks, and Maela rolled her eyes); Scimitar (Nick), Dagger, Javelin; thieves' tools, used to free the captives; a length of rope that has now saved a party member. **And the black stone he pocketed on the road — which he still has not told anyone about.**
-- **Recent notable actions:** Negotiated Sildar up to 100 gp upfront after refusing an appeal to loyalty; tailed the Redbrand spotter into the ambush and opened with *"Are you not going to introduce me to your friends?"*; wounded Iarno in the escape passage; dropped to **4 HP** against a skeleton and was healed; ran the barracks deception; executed Wick.
+- **Relationships:** Leads. Pip backs his plays with violence when the talking stops (the knife to Rondar's throat); Maela pushes back when he'd rather not stop for the helpless, and he relents. Pulled Pip out of a twenty-foot pit on his whip.
+- **Items of significance:** **Ornate short sword** from the Redbrand armory (semi-precious stones — he traded up on looks, and Maela rolled her eyes); Scimitar (Nick), Dagger, Javelin, **handaxe**; thieves' tools, used to free the captives; a **whip**, pressed into service as a rope and used to haul Pip out of the pit trap (the GM offered rope; Zenvon's player corrected him — Zenvon carries no rope). **And the black stone he pocketed on the road — which he still has not told anyone about.**
+- **Recent notable actions:** Negotiated Sildar up to 100 gp upfront after refusing an appeal to loyalty; tailed the Redbrand spotter into the ambush and opened with *"Are you not going to introduce me to your friends?"*; wounded Iarno in the escape passage; dropped to **4 HP** against a skeleton and **was never healed** — he withdrew and finished the crypt fight there; ran the barracks deception; executed Wick.
 
 ### Veyra of the Blue Candle
 - **Tiefling mage sidekick, Level 1** (level-up long overdue).
@@ -46,8 +46,8 @@
 - **Traits & motivation:** Healer, front-line hammer, and the party's stated conscience — *"Boss, I think we should help the helpless. We're the good guys, remember?"* She is also the one who executed a bound, begging prisoner with a mace and said *"It's nothing personal, you see."* Both of those are her. Nobody at the table has picked at the seam yet.
 - **Relationships:** Overrules Zenvon on moral questions and gets away with it. Heals everyone. Reads people — her Insight caught Rondar lying before Pip's knife got the truth out.
 - **Items of significance:** Warhammer/mace; holy symbol (reacts to the supernatural); darkvision 60 ft. Casts *Sacred Flame* and *Cure Wounds*; Animal Handling.
-- **Mechanical note:** **Turn Undead was added to her stat block by DM ruling mid-Ch. 7** ("clerics that can't turn undead are kind of pointless"). She used it immediately, routing several skeletons. **This should be written into `characters/maela.md`.**
-- **Recent notable actions:** Turned the crypt skeletons; healed Zenvon off 4 HP and Pip out of the pit; incinerated a ruffian with *Sacred Flame*; found **Urmon's journal** on the workshop shelves; killed Rondar.
+- **Mechanical note:** **Turn Undead was added to her stat block by DM ruling mid-Ch. 7** ("clerics that can't turn undead are kind of pointless"). She used it immediately, routing two of the six crypt skeletons. **This should be written into `characters/maela.md`.**
+- **Recent notable actions:** Turned the crypt skeletons; healed **Pip twice** — 10 HP in the crypts and 6 HP out of the pit (she never healed Zenvon, who ended the crypt fight at 4 HP); incinerated a ruffian with *Sacred Flame*; found **Urmon's journal** on the workshop shelves; killed Rondar.
 
 ### Pip Thistlewick
 - **Human fighter sidekick, Level 1** (level-up long overdue).
@@ -55,7 +55,7 @@
 - **The thread he carries:** the nothic pulled his secret out of his head and told the whole party — **he won a blackstone shard in a dice game near Neverwinter's docks and sold it to a peddler heading for Phandalin, and has dreamed of broken black stone beneath the earth and heard whispers saying his name ever since.** He went pale and told the party to kill the thing. **Nobody has raised it since.**
 - **Relationships:** Zenvon's enforcer and his financial adviser. Supports Maela in the line. Sees the tactical picture — he's the one who warned about being caught between the bugbears and the barracks, and who suggested the ale-barrel barricade.
 - **Items of significance:** **Ornate crossbow** from the armory; javelins (one of them hit Iarno mid-flight); a sword he uses decisively.
-- **Recent notable actions:** Negotiated the Wyvern Tor fee; wounded the fleeing Iarno; killed Redbrands in both the slave pens and the upper cellar; **fell twenty feet into a pit trap** chasing a runner and was hauled out on Zenvon's rope.
+- **Recent notable actions:** Negotiated the Wyvern Tor fee; wounded the fleeing Iarno; killed Redbrands in both the slave pens and the upper cellar; **fell twenty feet into a pit trap** chasing a runner and was hauled out on Zenvon's whip.
 
 ## Party Dynamics
 

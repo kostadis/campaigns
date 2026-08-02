@@ -26,6 +26,8 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Vera, Azvera, Rivera, Maya, Maia, Zerabira | **Veyra** |
 | Sister Vera | **Veyra** (session 5: ASR gave Veyra the cleric's title. The applier sorts longest-first, so this beats the bare "Vera" row and yields "Veyra", not "Sister Veyra") |
 | Sister Mela, Mela, Mila, Myla, Mil, Myra, Nela, Mele, Sister Bela, Sister Meela, Sturmela, Sister Mele, Tell Sister Meila | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
+| sister male | **Sister Maela** (session 7: ASR split the name into two real words — safe because the two-word sequence never occurs legitimately) |
+| veera | **Veyra** (session 7: doubled-vowel variant, cf. the "Vera" row) |
 
 ## NPCs and creatures
 
@@ -102,3 +104,9 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | frock-seeker, frock seeker | **Rockseeker** (session 4: "old frock-seeker" = old Rockseeker) |
 | Shub | **shove** |
 | Thwax | **thwacks** |
+| slids | **lids** (session 7: sarcophagus lids — "slids" is not a word, safe to substitute) |
+| Curley wounds | **Cure Wounds** (session 7: the spell, two-word garble) |
+| red blank | **red cloak** (session 7: the Redbrand cloaks the party wears as disguise) |
+| help bar | **health bar** (session 7: the VTT token HP bar) |
+| points of denture | **points of damage** (session 7: phrase-scoped — bare "denture" is a real word and must NOT be substituted alone) |
+| D10 during | **D10 damage** (session 7: phrase-scoped — bare "during" is a real word and must NOT be substituted alone) |
