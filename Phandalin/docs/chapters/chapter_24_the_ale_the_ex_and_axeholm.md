@@ -1,4 +1,8 @@
-# Chapter 23 The Ale, the Ex, and Axeholm
+---
+chapter: 24
+title: The Ale, the Ex, and Axeholm
+---
+# Chapter 24 The Ale, the Ex, and Axeholm
 
 The party returned to Phandalin after successfully negotiating a peace agreement at the gold mine. Harbin Wester, the Lord Mayor, greeted them warmly and expressed satisfaction with the recent changes in the community. However, his mood turned serious when Brewbarry inquired about the upcoming ale supply. Harbin warned that the dragon occupying the mountains and the resulting orc incursions were preventing farmers from tending their crops, threatening the town's precious ale production for the season.
 

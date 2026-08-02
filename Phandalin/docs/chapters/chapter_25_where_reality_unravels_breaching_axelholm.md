@@ -1,4 +1,8 @@
-# Chapter 24 Where Reality Unravels: Breaching Axelholm
+---
+chapter: 25
+title: 'Where Reality Unravels: Breaching Axelholm'
+---
+# Chapter 25 Where Reality Unravels: Breaching Axelholm
 
 The party arrived at the ancient dwarven fortress of Axelholm, carved into the base of a mountain miles south of Phandalin. Their quest was to open the long-sealed fortress and make it safe for habitation, as Townmaster Harbin Wester had warned that the people of Phandalin might need to evacuate there if the dragon attacks became imminent. Soma summoned a rat familiar to scout ahead, and the creature discovered a winch mechanism inside the entrance that could lift the portcullis gate. As the rat explored, the party heard unsettling sounds emanating from within: a constant low-frequency ticking like a clock speeding up and slowing down, and the scratching of quills on parchment coming from inside the walls themselves. Working together, they attached a rope to the winch and raised the gate, with Brewbarry then spending considerable effort to smash through an inner portcullis door.
 

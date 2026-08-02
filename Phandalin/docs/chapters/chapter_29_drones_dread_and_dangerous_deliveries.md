@@ -1,4 +1,8 @@
-# Chapter 28 Drones, Dread, and Dangerous Deliveries
+---
+chapter: 29
+title: Drones, Dread, and Dangerous Deliveries
+---
+# Chapter 29 Drones, Dread, and Dangerous Deliveries
 
 After the interdimensional device collapsed into the void and Aletra escaped, the party searched the room where the machine had been. Nothing remained of the device itself, but they discovered strange strands of interdimensional spider silk left behind by the Riftweavers. Valphine, a former devotee of Lolth, considered collecting the unusual silk for her temple. The party debated the nature of these creatures—whether they were a natural phenomenon, a defense mechanism against planar damage, or summoned beings sent by some unknown deity.
 

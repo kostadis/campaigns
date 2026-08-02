@@ -25,6 +25,8 @@ This makes him the opposite pole from the **CounterForce** (see `CounterForce.md
 
 KP's life's work is not a spell or a device. It is a **book**: the **Optimization Codex** — the encoded method for making the entire multiverse legible, predictable, and managed. The librarian who began by making a shelf searchable ends by writing the volume that closes the catalogue on everyone inside it. The Codex is his theory made portable and executable. It is also — unread by him — the **source code of a prison.**
 
+**Elevated spine (canon 2026-05-31):** the section immediately below supersedes any earlier reading of KP as a mere "optimizer." It introduces the **Optimization Codex** (the thing he is building), distinguishes it from the **Planar Energy Conduit** (a component the Codex demands), and establishes the Ravenloft cage, the Darklord path, and the **Dark-Lords-versus-gods-of-fate** axis (see `CounterForce.md`). The older sections remain accurate as backstory.
+
 ### The Conduit is a requirement, not the prize
 
 The **Planar Energy Conduit** (in Iymrith's hoard, Ascore) is *not* the Codex. It is a **component the Codex demands** — worked through, the method outputs the Conduit as a necessary piece of infrastructure. The Conduit is the errand; the Codex is the work. The Codex stays with KP. (See the Iymrith Hook below and `Aletra.md`: Aletra is dispatched for the *Conduit* but covets the *Codex*.)
@@ -41,7 +43,23 @@ Completing the Codex does not make KP a god. It makes him a **Darklord** — and
 
 ### The Dark Lords are the enemy of the gods of fate
 
-There are *many* gods of fate across the multiverse (Istus on Oerth, Savras on Toril, others). That plurality is impossible if fate means *destiny* — a single fixed weave admits one weaver. So **fate is not destiny, and the gods of fate are not as all-powerful as they believe**; each governs a partial, provincial weave. The **Dark Lords** want what the gods of fate cannot be: the single, total, closed system — the perfected Domain, fate sealed into one escape-proof cage. They are therefore the **enemy of the gods of fate**, and KP — building exactly that closed system — is objectively their instrument and an enemy of open fate, even Savras's enemy, though he believes he is a neutral optimizer. The principle that keeps fate plural and open — and so the only real counterweight to the cage — is the **CounterForce** (see `CounterForce.md`).
+There are *many* gods of fate across the multiverse (Istus on Oerth, Savras on Toril, others). That plurality is impossible if fate means *destiny* — a single fixed weave admits one weaver. So **fate is not destiny, and the gods of fate are not as all-powerful as they believe**; each governs a partial, provincial weave. The **Dark Lords** want what the gods of fate cannot be: the single, total, closed system — the perfected Domain, fate sealed into one escape-proof cage. They are therefore the **enemy of the gods of fate**, and KP — building exactly that closed system — is objectively their instrument and an enemy of open fate, even Savras's enemy, though he believes he is a neutral optimizer.
+
+### The CounterForce is the reason there is no single god of fate
+
+The CounterForce — Rimardo and Corrin — is not merely a character or a joke. It is the *cosmological counterweight* to KP's Optimization Codex. It is the manifestation of Istus's surprised laughter, leaking from Oerth into the Forgotten Realms because KP's work has cracked the barriers between worlds. Savras catches this echo because it is the only thing that can resist KP's totalizing logic: **absurdity that reveals the limits of control**.
+
+KP treats prophecy as infrastructure. The CounterForce treats prophecy as a comedy routine where the punchline is the truth.
+
+KP wants information control. The CounterForce broadcasts the mechanism — and the reveal is more astonishing, not less.
+
+KP seeks to optimize fate into a controllable system. The CounterForce proves that fate is funnier, stranger, and less totalizing than any system can contain.
+
+The CounterForce is not an enemy of fate. It is the proof that fate is not a single, closed system — and that is why KP cannot optimize it. He is not fighting a god. He is fighting the *principle* that makes gods of fate possible: the irreducible, anarchic refusal of mortals to be variables.
+
+Rimardo and Corrin are not NPCs. They are the *pattern* that breaks the model. They are the laugh that cracks the cage.
+
+They are the reason KP's Codex can never be finished — because the moment he thinks he has closed the system, the CounterForce shows up to perform the joke that proves he never understood the audience.
 
 ---
 

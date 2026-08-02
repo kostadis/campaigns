@@ -1,4 +1,8 @@
-# Chapter 38 The Charge of the Light Brigade
+---
+chapter: 39
+title: The Charge of the Light Brigade
+---
+# Chapter 39 The Charge of the Light Brigade
 
 
 ---

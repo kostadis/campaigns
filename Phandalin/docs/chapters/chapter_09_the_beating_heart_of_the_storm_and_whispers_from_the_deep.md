@@ -1,4 +1,8 @@
-# Chapter 08 The Beating Heart of the Storm and Whispers from the Deep
+---
+chapter: 9
+title: The Beating Heart of the Storm and Whispers from the Deep
+---
+# Chapter 9 The Beating Heart of the Storm and Whispers from the Deep
 
 The salty tang of the sea still clung to our gear as we descended deeper into the Tower of Storms, leaving the broken sirens and the eerie calm of the upper levels behind us. Moesko, the dark cleric, lay defeated, but there was still a sense of unease that settled over us.
 

@@ -1,4 +1,8 @@
-# Chapter 30 Brewbarry's Bloody Axe and the Beer Blight
+---
+chapter: 31
+title: Brewbarry's Bloody Axe and the Beer Blight
+---
+# Chapter 31 Brewbarry's Bloody Axe and the Beer Blight
 
 Date: Feb 18th, 2026
 

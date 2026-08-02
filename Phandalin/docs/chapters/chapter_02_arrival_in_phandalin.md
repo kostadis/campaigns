@@ -1,4 +1,8 @@
-# Chapter 01 Arrival in Phandalin 
+---
+chapter: 2
+title: Arrival in Phandalin
+---
+# Chapter 2 Arrival in Phandalin 
 
 ## 
 

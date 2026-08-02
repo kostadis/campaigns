@@ -1,4 +1,8 @@
-# Chapter 03 The Bard, the Kings, and the Carver
+---
+chapter: 4
+title: The Bard, the Kings, and the Carver
+---
+# Chapter 4 The Bard, the Kings, and the Carver
 
 ## 02-01  of Tarkash 1495 
 

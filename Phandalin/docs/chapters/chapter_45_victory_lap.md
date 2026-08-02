@@ -1,4 +1,8 @@
-# Chapter 44 Victory Lap
+---
+chapter: 45
+title: Victory Lap
+---
+# Chapter 45 Victory Lap
 
 
 ## Brewbarry — The Battle of the Collapsed Staircase

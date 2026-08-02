@@ -1,4 +1,8 @@
-# Chapter 36 A Gem of a Problem, A Rat of a Solution
+---
+chapter: 37
+title: A Gem of a Problem, A Rat of a Solution
+---
+# Chapter 37 A Gem of a Problem, A Rat of a Solution
 
 ---
 

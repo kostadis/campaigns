@@ -1,4 +1,4 @@
-# Chapter 00 Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious the 12th
+# Chapter 1 Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious the 12th
 
 With the great sundering complete, the people of the Realms hoped that the era of mischief from the gods walking the world would end. 
 
@@ -37,7 +37,7 @@ With the threat over and the elimination of the Barbarians from the hinterland, 
 In particular, the town of Phandalin. He needed the area cleared of monsters, cults, and evildoers to encourage settlement and growth. 
 
 Because of the costs of the wars, he decided to use adventurers, offering them tax-free no no-questions-asked plunder. One of those adventurers was an avant-garde[^3] musician whose music was underappreciated – Vukardin.
-# Chapter 01 Arrival in Phandalin 
+# Chapter 2 Arrival in Phandalin 
 
 ## 
 
@@ -526,7 +526,7 @@ The Ogre charges at Brewbarry, who misses. The Ogre, in turn, misses the large b
 Valphine then uses one of the magical bullets Brewberry found on the last Ogre to knock it prone. 
 
 #
-# Chapter 02 To find a shapeshifter
+# Chapter 3 To find a shapeshifter
 
 ## 02-01 of Taraskh 1495 
 
@@ -795,7 +795,7 @@ The mimic advances on Brewbarry, attacks with a pseudo that misses the barbarian
 The bard unleashes invectives, and at first, Valphine is confused but sees the underlying enchantment that causes the mimic to flinch visibly. 
 
 She smiles and repeats a rhyme she remembers from her youth, “Sticks and stones may break my bones, and words can also hurt me.”
-# Chapter 03 The Bard, the Kings, and the Carver
+# Chapter 4 The Bard, the Kings, and the Carver
 
 ## 02-01  of Tarkash 1495 
 
@@ -1068,7 +1068,7 @@ And then I hear the annoying voice of Vukradin reminding me that this really sho
 I stare at him in disbelief, and then realize he has a point. 
 
 Am I any better than a bandit if I keep this?
-# Chapter 04 Saving Adabra
+# Chapter 5 Saving Adabra
 
 ## 04-01 Taraskh 1495
 
@@ -1437,7 +1437,7 @@ Her voice then becomes shrill, as if a deep passion stirs, “The word barbarian
 I notice that Vukradin has the look of a child who heard he was going to get his favorite food, but was unsure, and in that tone he asks, “I heard you were going to come with us?” 
 
 “Well, yes. You are fellow naturalists\!”
-# Chapter 05 Vukradin, Rank Cheval 
+# Chapter 6 Vukradin, Rank Cheval 
 
 ## 04-01 Taraskh 1495
 
@@ -1696,7 +1696,7 @@ Vukradin stops. I can see him let the mud fall out, “Remove the curse? That’
 The Townmaster tellsChC us that he’s at Barthen’s Provisions, getting ready to leave town. 
 
 Ser Kaelen is delighted to see us. He hears our story and says, “I am delighted to see you take this kind of initiative, Vukradin. But we don’t have very much intelligence about the curse. There are three possible explanations. The first requires a cleric. The second is that it’s some monster that is haunting the place. And the third, the most common, is that it’s just untrue rumors. From what you have said, I think it’s the second.”
-# Chapter 06 Conflict-free gold, a curious side quest, and a delightful ambush. 
+# Chapter 7 Conflict-free gold, a curious side quest, and a delightful ambush. 
 
 ## 05-01-Taraskh 
 
@@ -1826,7 +1826,7 @@ The combat continues, a chaotic dance of blades and spells, blood and light. Thi
 It was in the midst of this enjoyable chaos that the orc shaman revealed a singular power, shape-shifting into a boar. A familiar trick, often employed by the less intelligent shapeshifters of the Underdark, but still a moment of delightful surprise. 
 
 How beautiful this battle had become.  A moment of joy, yet also pain. An ambush, with unexpected tactical depth\! This battle is like finding a rare, exquisitely bitter spice in an otherwise bland dish. It elevates the experience, offering a controlled dose of the delightful pain that truly holds my interest as a connoisseur of such sensation.
-# Chapter 07 The Tower of Storms: Echoes, Art, and the Serpent's Coil
+# Chapter 8 The Tower of Storms: Echoes, Art, and the Serpent's Coil
 
 ### Vukradin's Perspective
 
@@ -1877,7 +1877,7 @@ We proceed upstairs and discover the Orc Anchorite, Moesko. He sits in a barnacl
 The battle is fierce. Soma, in her impressive brown bear form, lands significant blows, and Vukradin cleverly traps Moesko in a Cloud of Daggers. But Moesko retaliates with a Lightning Bolt that scorches most of us, reducing my hit points and leaving me battered. It's a sharp, glorious pain, a reminder of Lathander's raw power.
 
 Brewbarry, to my surprise, manages to charge Moesko and lands a hit for some damage, bringing the anchorite to a single hit point. Finally, Soma, shedding her large bear form to navigate the cramped space, delivers the final, decisive strike, bringing the Orc Anchorite down. The conch is ours. The pain of battle has been invigorating, and the reward, tangible.
-# Chapter 08 The Beating Heart of the Storm and Whispers from the Deep
+# Chapter 9 The Beating Heart of the Storm and Whispers from the Deep
 
 The salty tang of the sea still clung to our gear as we descended deeper into the Tower of Storms, leaving the broken sirens and the eerie calm of the upper levels behind us. Moesko, the dark cleric, lay defeated, but there was still a sense of unease that settled over us.
 
@@ -1934,7 +1934,7 @@ Later, from the safety of the shore, I spotted the sharks attacking Soma, who wa
 I then made a calculated decision. I unleashed a coordinated attac,k combining with Brewbarry, dealing a total of 22 points of damage to one of the sharks.
 
 Back on shore, with the immediate threats neutralized, I turned my attention to the chests Soma had retrieved. They were locked, but not overly challenging for my nimble fingers. Ignoring David's protests about "other people's chests," I deftly opened them. The first revealed a delicate, nine-inch-tall blue quartz statue of a mermaid. The second held a spellbook, an interesting find, though none of us were wizards. And the third, a Wand of Secrets, with an uncanny ability for secret door detection. These were truly valuable discoveries, no matter their origin.
-# Chapter 09 Phandalin: Old Debts and New Suspicions. 
+# Chapter 10 Phandalin: Old Debts and New Suspicions. 
 
 ### 
 
@@ -2264,7 +2264,7 @@ Vukradin seems satisfied, but I am not.
 ### Soma
 
 As we head out to the whispering grove, the staff that Merill gave me suddenly feels alive. Some magic inside it was unlocked.
-# Chapter 10 The stag, the brambles, the wolves, and the pool.  
+# Chapter 11 The stag, the brambles, the wolves, and the pool.  
 
 ### Soma
 
@@ -2361,7 +2361,7 @@ I shake my head.
 The image of me counting money, and the distorted visions in the pool, tell me we have to move on. This place is too dangerous for abstract contemplation or the pursuit of forbidden knowledge. We have a mission, and this pool, while fascinating, is a distraction that threatens to unravel our minds. 
 
 As we walk closer to the center, the whisper about numbers keeps poking at my mind like a splinter in my eye.
-# Chapter 11 Naturalists and Interventionists
+# Chapter 12 Naturalists and Interventionists
 
 ### Soma
 
@@ -2524,7 +2524,7 @@ My gaze tracks it as it moves, collecting ingredients from the corpse of the cor
 The wells remain disrupting the world. This isn't random. It can't be. My internal struggle intensifies. Adabra, my wise friend and philosophical guide, taught me that naturalists accept these planar shifts as normal. She warned me against interventionists, calling them the blight, the ones who meddle. But what I've just witnessed, what I've felt in this grove, screams otherwise.
 
 I must go and talk to her.
-# Chapter 12 Confronting Adabra and learning of the Interventionists.  
+# Chapter 13 Confronting Adabra and learning of the Interventionists.  
 
 ### Soma
 
@@ -2759,7 +2759,7 @@ We talk about my music for the Order of the Gauntlet, and I try and explain to h
 And that anything I come up with will be better than what he shared. 
 
 ##
-# Chapter 13 The Butterskull Quest 
+# Chapter 14 The Butterskull Quest 
 
 ## 1-02 Taraskh 1495
 
@@ -2802,7 +2802,7 @@ Vukradin encourages him to talk to his former gang mates.
 Corbin tries to explain the folly of such an action: “You don’t exactly quit a gang without there being consequences.” 
 
 But Vukradin will have none of that and insists he go.
-# Chapter 14 Freeing Big Al, Petunia and watching a ranch burn
+# Chapter 15 Freeing Big Al, Petunia and watching a ranch burn
 
 ## 4-02 Taraskh 1495 
 
@@ -2931,7 +2931,7 @@ He points the ogres in a direction entirely opposite to the direction he takes .
 Vukradin speaks for the party: "I think we follow Borg.".
 
 Yes. The trail of the furious Borg is the trail to the true center of the intrigue. The raw scent of rage and the heat of the burning farmhouse are a fine reward for patience. The pursuit of the schemer is always more rewarding than the simple destruction of his tools.
-# Chapter 15 Deals with Harbin, and Sister Kayla, and no deal with Jenna
+# Chapter 16 Deals with Harbin, and Sister Kayla, and no deal with Jenna
 
 ## 7-02 Taraskh 1495 
 
@@ -3276,7 +3276,7 @@ She protests, “I could have done so much for you.”
 I turn on the charm and tell her, “ Why don't you reconsider this, because I think this is a good arrangement for you. I could really entertain your nobles, and they'd really think highly of you as my agent.”
 
 She looks at me, and I can see her consider it for a moment, but then the mask she wears goes back on. But there is a softening in her glare. She admires me. She won’t change her tune, but she does admire me.
-# Chapter 16 Blood Money, Clean Gold, and Fine Wine
+# Chapter 17 Blood Money, Clean Gold, and Fine Wine
 
 The party gathered at the tavern to discuss their recent encounter with Sister Kella, an enemy who had offered to work with them against the Carver. Valphine explained that Kella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
 
@@ -3301,7 +3301,7 @@ Valphine shared detailed information about events they had witnessed involving a
 The conversation turned to theories about why the planar incursions were happening. Sridar speculated it could be magic users, planar entities, or fools meddling with things they didn’t understand, though she admitted she had originally thought it was a natural phenomenon like the Faerzress in the Underdark. When Brewbarry suggested the events might be intentional rather than coincidental, Sridar found the idea intriguing and worth investigating. Both Sridar and Falcon identified themselves as interventionists who believed in actively stopping planar incursions, in contrast to the naturalists in the Emerald Enclave who believed in non-interference even if it meant letting the world burn. Sridar offered to help the party piece together clues if they found more information about the planar events in the future.
 
 Before the evening ended, Falcon mentioned a potential quest involving the half-orcs at the Woodland Mants, offering a pair of boots of elvenkind as a reward. He emphasized that he had purchased the boots legitimately with proceeds from his establishment, not with stolen gold, clearly trying to avoid another confrontation with Vukradin. However, he suggested the party might need more experience before tackling that particular challenge. As the party settled in for the night, Vukradin privately resolved to search for information about the dragon hoard and find its rightful owners, determined to make Falcon understand what he had done by keeping the treasure instead of returning it to those it had been stolen from.
-# Chapter 17 Falcon's Hoard and Hidden Truths 
+# Chapter 18 Falcon's Hoard and Hidden Truths 
 
 The party undertook a detailed, covert mission when the bard Vukradin decided to uncover the truth about their host, Falcon the Hunter, concerning his claimed past as a dragonslayer and the source of his lodge's funding. The reconnaissance mission began late at night when Vukradin deliberately undertook the investigation alone, knowing his companions were deep in slumber: **Brewbarry was generating the lodge's most consistent nocturnal sound—a thunderous snoring that rattled the guest house timbers** , **Soma was safely ensconced and silent within her shell** , and **Valphine was merely bemused** (or perhaps pretending to be) in her state of sleep.
 
@@ -3314,7 +3314,7 @@ The investigation continued the next morning during breakfast, where the Falcon 
 Cornered by the implication that the cult almost stole his treasure, Falcon was compelled to confess the real, less glamorous truth about his past to Vukradin: he was **not a dragon slayer**. He revealed that he was the only member of his adventuring party to escape Iymrith's wrath, and he only arrived at her hoard after it had been plundered by others. He found residual gold scraps and the ring, which he used as "seed capital" to buy land and build his lodge. He maintained the lie that he was a great slayer because the "fantasy of dining with a dragon slayer" was "good for business" and attracted paying clientele who "want to believe the story." This revelation confirmed Vukradin's conviction that the man was a "fraud and an artist. And a thief."
 
 The outcome was a tactical success for the party. Vukradin secured permission to document the ring, reinforcing his principled stance against taking stolen goods. Valphine was impressed, seeing the lie as "perfectly normal" and a display of genius. Soma agreed that the fantasy made guests feel safe and that non-intervention was necessary in this context. The party gathered crucial intelligence linking the ring to Iymrith's hoard, which also involved lightning and the god Talos, providing context for the recurring threats they face in the region. The party was now rested and ready to proceed with their next objective: delivering the goods.
-# Chapter 18 To the Logger’s Camp
+# Chapter 19 To the Logger’s Camp
 
 ### 
 
@@ -3506,7 +3506,7 @@ The orc is tied up. And he will cost us supplies, worry, and care. If this were 
 Pity. 
 
 It saves so much time and effort.
-# Chapter 19 The Orc Ambush
+# Chapter 20 The Orc Ambush
 
 **10-02 Taraskh 1495**
 
@@ -3515,7 +3515,7 @@ As the party traveled through the dense forest, Brewbarry and Valphine spotted a
 The battle descended into chaos as Vukradin wove enchantments that turned the orcs against each other. One raider found himself compelled to attack his own scout, screaming insults about the scout’s mother while his companions accused him of treachery. Soma leaped from the cart onto a brigand, shoving him backward before calling down a beam of radiant moonlight that engulfed three of the orcs. The brigand, overwhelmed by the magical assault and the family drama erupting around him, screamed that this was the worst idea he’d ever had and fled into the forest. Another raider charged at Brewbarry with his scimitar, landing blows before retreating, while Valphine fired crossbow bolts that mostly went wide of their marks. Vukradin conjured an illusion that made one raider believe he was surrounded by duplicates of his companion, causing him to waste his efforts fighting phantoms until the illusory assault killed him. The remaining raider, confused and terrified by what he called “drow trickery,” attempted to flee but was put into a magical slumber and captured, while the scout managed to escape into the woods.
 
 The party interrogated their prisoner, whom Brewbarry mockingly named Shrimpy, and bound him to their cart. Under intimidation, the orc revealed he belonged to an independent raiding party displaced from their home in the Ice Spire of the Sword Mountains by a white dragon. Since their exile, the orcs had descended into chaos in the valley below, with their chief going mad and various factions forming—some joining the Cult of Talos after their shaman was killed, others becoming brigands, and Shrimpy’s group trying to remain independent. When he asked if he would be paid for his service, Brewbarry coldly informed him that his life was payment enough. The party continued their journey with Shrimpy pulling the cart, eventually arriving at the Logger’s Camp along the river’s south shore. They found the camp eerily silent and completely deserted despite the early morning hour, with tents on the sandy beach, a cabin with stacked logs, and old stone foundations the only signs of habitation. With no one present to sign their delivery notice, the party realized they would need to investigate what had happened to Tibor Wester and the camp’s inhabitants before they could claim their payment.
-# Chapter 20 The Spiral’s Grasp
+# Chapter 21 The Spiral’s Grasp
 
 The party gathered at the Loggers Camp to discuss their next move, with Vukradin learning that he had inadvertently built a reputation as a noble adventurer after saving a town from a dragon and advocating for fair wages. Despite his protests that he simply wanted to open his own studio, the public perception had taken hold. The group recalled information about a missing Emerald Enclave patrol and devised a plan to rescue them, crediting the success to Lyra, a low-ranking member they had previously saved, in order to boost her standing within the faction and gain a valuable ally. After debating what to do with their prisoner Shrimpy, who desperately wanted to be released, they decided to transport him to Phandalin for imprisonment, as Tibor the loggers chief refused to take him to Neverwinter.
 
@@ -3534,7 +3534,7 @@ On the second day of their journey, a large raiding party of Talosian orcs ambus
 With the Cult Fanatic dead, the mind-controlled Emerald Enclave members finally awoke, though their minds were still reeling from the experience. One of them, a member of Lyra’s old crew, expressed relief that she had sent the party to rescue them. The warriors described the horrifying sensation of having their thoughts invaded, feeling orders that weren’t their own dripping like poisoned water into their skulls. They revealed they had been forced to steal an inscription that spoke of a drowned gate beneath Yllyn, somewhere deep in the Underdark. The party realized this was connected to the Kraken Society and represented a significant threat.
 
 As the rescued patrol members recovered, Brewbarry, having drunk all of his ale, wondered where he could get more booze. Realizing they were only five miles from the Falcon’s Lodge, he insisted they return to fetch more alcohol. Despite some reservations about the lodge’s atmosphere, the party decided to make the short detour for rest and wine. The rescued Enclave members would need time to recover fully, and the party would need to decide how to present their success to Lyra and the Emerald Enclave, while also investigating the mysterious drowned gate and the rising threat of the Kraken Society’s influence in the region.
-# Chapter 21 When Boars Are More Than Just Boars
+# Chapter 22 When Boars Are More Than Just Boars
 
 The party arrived at the Falcon Hunting Lodge with their collection of prisoners and rescued companions in tow. Among them was a disoriented Teega the Smith, two Emerald Enclave guards who had been freed from captivity, and a criminal named Shrimpy. Falcon greeted them with surprise, particularly pleased to see his friend Vukradin had returned safely. The party presented their prisoners, and Falcon was impressed by their success in the field.
 
@@ -3557,7 +3557,7 @@ Valphine briefly objected to attacking without attempting to parley with the man
 Combat erupted immediately. Valphine struck first, hurling a bolt of radiant energy that struck the Anchorite with devastating accuracy, tearing through its defenses and marking it for the next attack. Brewbarry entered a rage and charged forward with advantage, but his strikes went wide despite his fury. Soma followed up with a successful attack that wounded the creature further, bringing it close to defeat. Vukradin attempted to silence the Anchorite to prevent it from calling for help or casting spells, but the cultist resisted the magical effect.
 
 The Anchorite stepped out of the moonbeam’s radius and shouted loudly to alert others in the manor. Then it retaliated with terrible force, unleashing a bolt of lightning that struck Valphine, Soma, and Brewbarry in a devastating line of electrical energy. Brewbarry called upon his stone-like endurance to absorb much of the impact, while Valphine managed to partially dodge the worst of the blast. Brewbarry, however, took the full force of the lightning and was left badly wounded. As the session ended, the party found themselves in the midst of a fierce battle, with the sounds of the Anchorite’s shout likely bringing reinforcements from within the crumbling manor.
-# Chapter 22 From Retreat to Redemption (and Cheese)
+# Chapter 23 From Retreat to Redemption (and Cheese)
 
 ## 
 
@@ -3584,7 +3584,7 @@ Don-Jon’s friendly demeanor helped defuse initial tensions, especially after t
 Zeleen proposed that if the party cleared the orcs from the shrine, the wererats would return there and vacate the mine. However, she refused to help reclaim her own home, claiming she was too valuable to risk and offering only two warriors if pressed. When Valphine attempted to negotiate a cheese-for-labor arrangement, Zeleen found the suggestion stereotypical and offensive, though she eventually admitted interest in cheese from the special cow at Butterskull Ranch. Valphine sensed the wererats were lying about their intentions and would likely try to keep the mine regardless of any deal.
 
 Don-Jon initially insisted the mine could not serve as both a living space and a working mine for safety reasons, but Vukradin’s persuasive arguments convinced him that the wererats could nest in one section while working another. The party struck a deal: the wererats would work the mine and live in part of it in exchange for regular cheese shipments from Butterskull Ranch. This arrangement secured the mine’s operation without requiring a dangerous confrontation with sixteen orcs and several ogres, leaving those enemies undisturbed at the Shrine of Savras for another day. The party had successfully turned a potential disaster into a profitable arrangement, though the long-term consequences of their creative solution remained to be seen.
-# Chapter 23 The Ale, the Ex, and Axeholm
+# Chapter 24 The Ale, the Ex, and Axeholm
 
 The party returned to Phandalin after successfully negotiating a peace agreement at the gold mine. Harbin Wester, the Lord Mayor, greeted them warmly and expressed satisfaction with the recent changes in the community. However, his mood turned serious when Brewbarry inquired about the upcoming ale supply. Harbin warned that the dragon occupying the mountains and the resulting orc incursions were preventing farmers from tending their crops, threatening the town's precious ale production for the season.
 
@@ -3605,7 +3605,7 @@ That evening, the party performed at the local tavern. While Valphine struggled 
 The following day, they embarked on a journey to Axeholm, traveling across grassy lowlands that skirted the rocky foothills of the Sword Mountains. Cool winds and rain from the Sword Coast made the trek unpleasant, but they pressed on. Upon arrival, they found the entrance to the ancient dwarven fortress—a dark passageway carved into a gray mountain, flanked by towering bulwarks of seamless stone. A rusted iron portcullis blocked their way, and the arrow slits carved into the walls showed no signs of occupation.
 
 Brewbarry attempted to force the portcullis open with an incredible display of strength, but even his mighty effort couldn't overcome the massive stone block jamming the mechanism. The party realized they would need an alternative approach. Soma summoned a rat familiar to scout through the narrow arrow slits, establishing a telepathic link to explore what lay beyond. As the tiny creature prepared to venture into the darkness of Axeholm, the party stood ready to discover what secrets the abandoned fortress held.
-# Chapter 24 Where Reality Unravels: Breaching Axelholm
+# Chapter 25 Where Reality Unravels: Breaching Axelholm
 
 The party arrived at the ancient dwarven fortress of Axelholm, carved into the base of a mountain miles south of Phandalin. Their quest was to open the long-sealed fortress and make it safe for habitation, as Townmaster Harbin Wester had warned that the people of Phandalin might need to evacuate there if the dragon attacks became imminent. Soma summoned a rat familiar to scout ahead, and the creature discovered a winch mechanism inside the entrance that could lift the portcullis gate. As the rat explored, the party heard unsettling sounds emanating from within: a constant low-frequency ticking like a clock speeding up and slowing down, and the scratching of quills on parchment coming from inside the walls themselves. Working together, they attached a rope to the winch and raised the gate, with Brewbarry then spending considerable effort to smash through an inner portcullis door.
 
@@ -3614,7 +3614,7 @@ Once inside the main hall, Soma's rat familiar revealed a chamber with a forty-f
 When Brewbarry finally smashed through the door, combat erupted with the out-of-phase dwarves. Valphine called upon the glory of Lathander, her divine power causing several of the creatures to flee in terror despite them not being truly undead. Soma unleashed beams of radiant moonlight and thunderous waves of force that damaged multiple enemies and sent them crashing against the walls. Vukradin provided magical encouragement to his allies while striking with his rapier, causing one dwarf to blink out of existence as space folded in on itself. Brewbarry transformed into his enraged state, becoming Big Brewbarry, and cleaved through the out-of-phase creatures with devastating strikes from his halberd. As the battle progressed, even more of the warped dwarves materialized from the unnatural light, their forms phasing in and out of reality as they advanced on the party.
 
 The combat grew more desperate as the out-of-phase dwarves revealed their most horrifying ability. When one struck Soma, she became paralyzed and experienced the terrifying sensation of being packaged in a box, sealed, and delivered like an object rather than a living being. The other creatures swarmed her paralyzed form, landing critical blows that nearly killed her. Valphine spoke words of divine healing that restored Soma and broke the paralysis, allowing her to transform into a powerful bear and tear through her attackers. Brewbarry also resisted one of these paralysis attempts, hearing a voice in his head saying "incorrect packaging" as he was momentarily knocked into some kind of cold storage before breaking free. Soma caused the ground itself to shake and tremble, knocking several dwarves prone and making the terrain difficult to traverse. The party fought valiantly, cutting down the out-of-phase creatures one by one, but just as they seemed to gain the upper hand, another dwarf successfully paralyzed Soma in her bear form, leaving her vulnerable as the session ended on a dramatic cliffhanger.
-# Chapter 25 From Out-of-Phase Dwarves to Mechanical Mysteries
+# Chapter 26 From Out-of-Phase Dwarves to Mechanical Mysteries
 
 The battle in the mustering hall of Axeholm raged on as the party fought against the twisted dwarves caught in an interdimensional nightmare. Valphine fired her crossbow at one of the out-of-phase creatures, bringing it to the brink of death. Soma, still in her powerful bear form, found herself paralyzed by a dwarf's unnatural touch, but her constitution proved strong enough to shake off the effect. Together, the party systematically eliminated the remaining dwarves, with Brewbarry delivering crushing blows and Vukradin supporting his allies with inspiring words.
 
@@ -3641,7 +3641,7 @@ The party continued exploring, discovering a grand dining room with a massive st
 In the adjacent kitchen, they found typical dwarven implements—metal dishware, utensils, and drinking mugs. Most remarkably, a stone sink still functioned, its faucet spouting hot water. Brewbarry examined the water carefully and determined it came from a natural hot spring, a testament to the dwarves' engineering prowess.
 
 Finally, the party entered the smithy, where rusty anvils stood before blackened hearths. A fluttering noise drew their attention to one of the fireplaces, and Valphine investigated. A strange creature emerged—a tiny, mechanical mosquito-like construct with a steampunk aesthetic, complete with a small glass jar containing blood. Valphine carefully subdued the creature without killing it. Vukradin examined the captured construct, his aesthetic sensibilities offended by its unnatural design. He noted markings indicating it was some kind of sampling device, raising troubling questions about who had created it and for what purpose. With this mysterious discovery in hand, the party prepared to delve deeper into the secrets of Axeholm.
-# Chapter 26 Sisters Against the Machine
+# Chapter 27 Sisters Against the Machine
 
 The party continued their exploration of the ancient dwarven fortress, finishing their survey of the first floor. They discovered a storage room filled with serviceable armor and weaponsmith tools that would prove useful for the people of Phandalin, along with privies. The barracks held dozens of meager cots scattered about, with two cold fireplaces whose rubble-choked chimneys rose one hundred twenty feet through the mountain. An empty armory revealed that the dwarves had taken all their weapons when they departed, leaving behind only stone weapon racks, headless mannequins, and iron hooks on the walls.
 
@@ -3660,7 +3660,7 @@ The party debated whether to trust the undead accountant, but ultimately decided
 Standing calmly beside this chaotic machine was a drow woman in a high-collared uniform, typing on a glowing keypad with one hand while holding a rapier in the other. Valphine recognized her immediately—not by sight, but by scent. The faint, sickly sweet mixture of lavender perfume and chemical bleach from the Satora family poison labs could only belong to one person: Aletra. Above her, four spectral spiders made of flickering static clung to the ceiling, hissing like white noise. When Aletra turned to face them, Valphine saw the sharp cheekbones and cold violet eyes of the sister who had exposed traitors not for honor, but for profit.
 
 Aletra warned them not to approach, explaining that she was in a delicate equilibrium with the machine and its guardian constructs. She revealed that she needed to extract something important from the device before they could use the override code to shut it down. Through careful observation, Valphine realized what her sister was truly after—drow poison that Aletra had been smuggling through the multiverse using the machine. Aletra spoke to Valphine in Undercommon with her characteristic condescension, telling her to go play in the mud with the other surface dwellers while the adults handled their deadline. She then made her proposal: if the party would kill the spectral spiders that guarded the machine, she would extract her cargo and allow them to disable the device. If they refused, she warned, she might be forced to attempt the extraction anyway—which could cause the entire place to explode. The party stood at a crossroads, weighing their options as they faced Valphine's dangerous and unpredictable sister.
-# Chapter 27 When the Machine Screams: A Family Affair
+# Chapter 28 When the Machine Screams: A Family Affair
 
 The party found themselves in a tense standoff with Valphine's sister, Aletra, who was working to extract a mysterious package from a broken planar machine. The room was covered in interplanar spider webs, and six Rift Weavers—spider-like creatures bound to the ceiling—stood guard over the malfunctioning device. Aletra explained that the machine had been a gift to her boss and was causing dangerous spatial anomalies throughout the area. She claimed they were in a "spatial equilibrium" and warned that if she couldn't retrieve her package, she had no reason to destroy the machine, leaving everyone to face the consequences of its catastrophic failure.
 
@@ -3679,7 +3679,7 @@ In a desperate attempt to stop her sister's escape, Valphine struck Aletra with 
 With Aletra gone and the machine screaming warnings of imminent catastrophic failure, Valphine rushed to the keypad and entered the shutdown code. The machine immediately ceased its alarming countdown and began to fold in on itself, collapsing and shrinking as it prepared to return to whatever dimension it had come from. The party watched as the device completely disappeared, leaving behind only a small piece of paper—a bill from "Interplanar Trade Consultants Incorporated" detailing payments for services rendered. The remaining Rift Weaver, having nothing left to repair with the planar device gone, simply winked out of existence.
 
 The party stood in the now-quiet room, surrounded by the aftermath of battle and the dropped vials of poison that Aletra had left behind. The spatial anomalies that had plagued the area were finally resolved, though questions remained about the true nature of the machine, Aletra's mysterious boss, and what other schemes the drow sister might be involved in. The bill from the interplanar trade consultants suggested that the machine's presence had been part of a much larger operation, one that extended far beyond the immediate conflict they had just resolved.
-# Chapter 28 Drones, Dread, and Dangerous Deliveries
+# Chapter 29 Drones, Dread, and Dangerous Deliveries
 
 After the interdimensional device collapsed into the void and Aletra escaped, the party searched the room where the machine had been. Nothing remained of the device itself, but they discovered strange strands of interdimensional spider silk left behind by the Riftweavers. Valphine, a former devotee of Lolth, considered collecting the unusual silk for her temple. The party debated the nature of these creatures—whether they were a natural phenomenon, a defense mechanism against planar damage, or summoned beings sent by some unknown deity.
 
@@ -3702,7 +3702,7 @@ The party traveled fifteen miles to the Mountain's Toe Gold Mine, moving quickly
 Combat erupted immediately as the orcs threw javelins at the party. One struck Brewbarry, though Valphine attempted to deflect it with her magic. An ogre charged at Brewbarry, who landed a powerful strike as it approached. Vukradin unleashed magic that slowed both ogres and two orcs, significantly hindering their movements and attacks. Soma summoned a sphere of flame that engulfed multiple enemies, killing two orcs instantly, then transformed into a bear.
 
 Valphine called forth spectral guardians that radiated divine energy in a wide area around her. The guardians tore through the enemy ranks, killing three orcs and severely wounding an ogre. Brewbarry, filled with rage, struck down the wounded ogre with a devastating blow. The remaining ogre fired a ranged weapon at Valphine before backing away, while another orc threw a javelin that missed its mark. The battle continued as the party pressed their advantage against the remaining enemies.
-# Chapter 29 A Cheesy Compromise in the Mine
+# Chapter 30 A Cheesy Compromise in the Mine
 
 The area outside the mine erupted into chaos as waves of orcs and ogres descended upon the party. Valphine's divine guardians manifested as spectral protectors, their holy radiance devastating the attackers who dared approach. Orc after orc fell as they charged toward her, their bodies consumed by celestial fire when they failed to resist the overwhelming divine power. Brewbarry stood as an imposing figure on the battlefield, his voice booming with supernatural resonance as his eyes flashed red beneath his helmet, striking terror into his enemies before his halberd cleaved through them.
 
@@ -3717,7 +3717,7 @@ Soma communicated with the creature using magic, and it spoke in rapid wet click
 Following the dwarf tracks deeper into the mine, the party encountered five dwarves led by Horia. When the party asserted their legal ownership of the mine, Horia produced a contract showing that Don-jon had made an agreement with the dwarves to work the mine, and that their tribe had been working it long before the wererats arrived. The truth about Don-jon's death finally emerged: he had told the dwarves he found "a sucker in some bard fellow" who convinced the wererats to work for mere cheese, and that he planned to use this cheap labor while dismissing the dwarves as no longer necessary. The resulting argument had turned deadly.
 
 Horia warned that the wererats were completely incompetent at mining and would cause the entire operation to collapse within months through improper techniques and safety violations. The party proposed a compromise where the skilled dwarves would handle the actual mining while the wererats provided menial labor and security. Horia agreed to consider this arrangement if the wererats apologized for killing dwarves in their initial conflicts. When Valphine bluntly stated that contracts existed only to cheat people, she deeply offended Horia, who questioned whether she was truly a cleric of Lathander. The party began renegotiating the dwarves' original contract, which had promised them a twenty percent share, hoping to reduce their cut while maintaining the mine's operational integrity.
-# Chapter 30 Brewbarry's Bloody Axe and the Beer Blight
+# Chapter 31 Brewbarry's Bloody Axe and the Beer Blight
 
 Date: Feb 18th, 2026
 
@@ -4022,7 +4022,7 @@ A spell mentioned as a potential way to find traps on the sarcophagi in Dragonba
 ### **Resistance**
 
 A cantrip mentioned as potentially helpful for gaining resistance to environmental effects like lightning damage from will-o'-wisps, though Soma did not learn this cantrip.
-# Chapter 31 A Grave New Friend and a Glimmering Blade
+# Chapter 32 A Grave New Friend and a Glimmering Blade
 
 ## Summary
 
@@ -4235,7 +4235,7 @@ Cast by Brewbarry on a Will-o'-wisp in a sarcophagus, creating a swirling cloud 
 ### Moonbeam
 
 Cast by Soma on a Will-o'-wisp that was already caught in Cloud of Daggers, dealing 12 points of radiant damage and destroying it. The spell creates a beam of pale moonlight and can be moved as a bonus action.
-# Chapter 32 Silencing the Siren's Warning
+# Chapter 33 Silencing the Siren's Warning
 
 ## Summary
 
@@ -4441,7 +4441,7 @@ A reaction spell cast by Vukradin to force an attacker to re-roll a successful a
 ### Array of Cards
 
 A spell used by Vukradin in a 15-foot cone while restrained by a net, dealing significant damage to multiple thugs surrounding him and defeating several of them at once.
-# Chapter 33: The One Hit Point Principle
+# Chapter 34: The One Hit Point Principle
 
 ---
 
@@ -5118,7 +5118,7 @@ My hands stayed flat against the stone. The cold moved up through my fingers and
 The mountain had not answered yet.
 
 I waited.
-# Chapter 34 The Carver is not the Carver
+# Chapter 35 The Carver is not the Carver
 
 ---
 
@@ -5479,7 +5479,7 @@ He said it the way you say something when you didn't quite believe it was possib
 I looked up at the dragon. I looked back at Vukradin. I still had the Dragon Slayer Sword. The frost was still settling somewhere in my chest. We had time — not much time, the window was counting down, the Carver was threading something dark into the edges of this fight, but we had *some* time — and Vukradin had just put a thorn through a white dragon's pride with a piece of vine.
 
 I have seen a lot of things. That was a good one.
-# Chapter 35 A dragon defeated, a bard tempted, a barbarian's vengeance.
+# Chapter 36 A dragon defeated, a bard tempted, a barbarian's vengeance.
 
 # 
 
@@ -5832,7 +5832,7 @@ Brewbarry's voice cuts through all of it with the efficiency of a man who has no
 I look at him. He is covered in dragon blood and is already thinking about the drink he does not have. His face is completely at peace. The reply said *celebrate* and that is all the information he required. I find, against all expectation, that this is the most comforting thing anyone has said to me since the battle ended.
 
 We are going to Phandalin. Ser Kaelen will be there, ceremonial and over-composed, and I will smile and shake hands and let him have his celebration, and I will listen for what he does not say. That is fine. I have twenty-five words too, and I know how to use them.
-# Chapter 36 A Gem of a Problem, A Rat of a Solution
+# Chapter 37 A Gem of a Problem, A Rat of a Solution
 
 ---
 
@@ -6183,7 +6183,7 @@ I looked at the two of them — a knight admiring a weapon that had very recentl
 The conclave was coming. The druids might try to take the staff. Adabra had already decided we were the problem.
 
 I am old. I have seen much. I am not going to give anyone my staff.
-# Chapter 37 The Intervention
+# Chapter 38 The Intervention
 
 ---
 
@@ -6964,7 +6964,7 @@ That was enough for one night.
 [^2]:  It is purported that Hekaton felt a degree of responsibility for the events, as some less reputable scholars suggest because of the actions of the true heroes of the War of the Giants. I think that is wishful thinking on the part of the cult of Orsic. Instead, as a realist who understands that power, not people, matter, destroying the barbarians was an opportunity. Enraged with their theft of giant artifacts and their presence in the giant hinterland, Hekaton saw this as an opportunity to eliminate a nuisance. Now allied with the humanoids, direct conflict was unfeasible. The war presented a viable alternative, which he capitalized on. 
 
 [^3]:   Vukradin’s music was very controversial in Neverwinter. He was admired for his skill and talent, but his compositions reflected his obsession with re-ordering music from focused on harmony to that focused on what his fans called Vukradian Scales.
-# Chapter 38 The Charge of the Light Brigade
+# Chapter 39 The Charge of the Light Brigade
 
 
 ---
@@ -7626,7 +7626,7 @@ He's evil. That is the verdict. The orcs are not. Two different problems.
 A pause from someone nearby. Some flicker of disbelief at how this fight was apparently going to be conducted.
 
 "Alright," I said. "Sounds good."
-# Chapter 39 Through the valley to the top of the hill
+# Chapter 40 Through the valley to the top of the hill
 
 
 ---
@@ -7936,7 +7936,7 @@ The hill was still there. The storm was still building. The figures in the henge
 I held the staff and looked up at the standing stones and thought three leaves. At least there wasn't a fourth. 
 
 We stayed at the treeline and studied what we were walking into.
-# Chapter 40 — Unraveling the Storm God's Secrets
+# Chapter 41 — Unraveling the Storm God's Secrets
 
 ## Vukradin — Pre Battle Observations At The Circle Of Thunder
 
@@ -8259,7 +8259,7 @@ I set the map fragment down on the vellum sketches, the torn edge lined up with 
 There was only so much we could do. I knew that was true. I had said it aloud and I believed it.
 
 I just kept finding, when I looked at the red markers, that believing it didn't move them.
-# Chapter 41 A Storm is Coming
+# Chapter 42 A Storm is Coming
 
 ## Brewbarry — The Spoils of War
 
@@ -8614,7 +8614,7 @@ Gorthok first. You feel something like that before you see it. A mass. A wrongne
 Vukradin was muttering something about the working that tangles a mind in its own visions. Soma was watching her staff. Drubbak had not moved from his place, still listening for the chant that wasn't there.
 
 My sword was already in my hand.
-# Chapter 42 The Aasimar has Landed. 
+# Chapter 43 The Aasimar has Landed. 
 
 
 ---
@@ -9024,7 +9024,7 @@ Vukradin listed his new workings with the quiet deliberation of a man shopping a
 It was full dusk now. The lodge behind us was lit from within, the new stewards presumably being lectured about collar starching or something of similar urgency. Somewhere across the yard, Boney stood patient and skeletal and unbothered by any of it, as was his custom.
 
 I stayed where I was for a while. The staff was warm in my hand. The night was coming in.
-# Chapter 43 The Unfated Routine of Rimardo and Corrin
+# Chapter 44 The Unfated Routine of Rimardo and Corrin
 
 Date: Jun 2nd, 2026
 
@@ -9290,7 +9290,7 @@ Three blood-sucking creatures (2 hit points each) that dropped from the darkness
 
 ### Brewbarry
 A large Goliath barbarian and companion of the party who gains advantage on initiative. He is deeply motivated by wine and beer, charges headlong into combat, drank the manse's last bottle of wine before the fight, and suffered a painful 14-damage fall onto spikes when the manse's staircase collapsed under his weight, ending his rage. Persuaded to help rebuild the lodge with the promise of beer, he noted "I'm a big guy, I need to eat a lot."
-# Chapter 44 Victory Lap
+# Chapter 45 Victory Lap
 
 
 ## Brewbarry — The Battle of the Collapsed Staircase

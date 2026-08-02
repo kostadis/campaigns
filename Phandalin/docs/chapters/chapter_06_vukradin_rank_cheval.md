@@ -1,4 +1,8 @@
-# Chapter 05 Vukradin, Rank Cheval 
+---
+chapter: 6
+title: Vukradin, Rank Cheval
+---
+# Chapter 6 Vukradin, Rank Cheval 
 
 ## 04-01 Taraskh 1495
 
@@ -242,9 +246,9 @@ At first, the Townmaster is confused and then mutters, “It’s a bit of a dist
 
 Vukradin holds on to his solution like a tortling clinging to mud to avoid falling, “So how do I destroy it?” 
 
-The townmaster shouts, “Lord Nevermember would be appalled\!” 
+The townmaster shouts, “Lord Neverember would be appalled\!” 
 
-Vukradin clings to the mud in his fingers and continues, “Are you saying that Lord Nevermember would permit a cursed lighthouse to remain?” 
+Vukradin clings to the mud in his fingers and continues, “Are you saying that Lord Neverember would permit a cursed lighthouse to remain?” 
 
 “No\! He would want his heroes to remove the curse\!” 
 

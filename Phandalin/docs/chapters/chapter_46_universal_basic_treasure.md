@@ -1,4 +1,8 @@
-# Chapter 45 Universal Basic Treasure
+---
+chapter: 46
+title: Universal Basic Treasure
+---
+# Chapter 46 Universal Basic Treasure
 
 
 ## Brewbarry — Return to Phandalin
@@ -335,7 +339,7 @@ That's not the problem, he told me. Ever since you got famous the place is impos
 
 Not exactly. They want what the name does to a wine list. One of the kids said it was all part of the same thing: the common man pushed off the docks as the Protector's Enclave swells out to swallow them. Brewbarry put it plainer: they're making money off your good name. "Yeah," I said, "they became more popular after I left? That's weird." It is weird. You leave a room and the room gets more expensive precisely because you're not in it.
 
-Brewbarry offered me an image consultant. His wealth management could advise me, he said. "That's interesting," I told him. "I'm gonna write that down on my running list of things to chase. I'll have to look into that one."
+Brewbarry offered me an image consultant. His wealth management advisor could advise me, he said. "That's interesting," I told him. "I'm gonna write that down on my running list of things to chase. I'll have to look into that one."
 
 But the kid in front of me still didn't believe I was me, and that I couldn't write down. So I asked him: "You want me to play you one of the old hits?" Not the polished thing. Not the commercial Vukerton he'd already buried. The old, authentic stuff. From the vault.
 
@@ -351,7 +355,7 @@ We needed dragon scale armor crafted, and there was the question of how to pay. 
 
 The craftsman turned out to be a follower of the Morning Lord, and the moment he saw Valphine's golden eyes he nearly wept — *the blessing, the sign, the drow Brother Aldric speaks of* — and offered to craft for almost nothing if she'd say a blessing over his family. Then he learned Brewbarry "works for no one, but has much respect for the thunder," decided this meant a convert, and launched into a warm, glowing series of stereotypes about drow that the embrace of one drow had apparently cured him of.
 
-"Well," I said, "nothing bad could ever come of this." I could already see it. "You see an upcoming drow invasion into Neverwinter, and the people just throw open the doors — come in! — or they just slaughter them all. This'll go really well, guys."
+"Well," I said, "nothing bad could ever come of this." I could already see it. "You see an upcoming drow invasion into Neverwinter, and the people just throw open the doors — come in! And then the drow just slaughter them all. This'll go really well, guys."
 
 And then the last thing, the thing Ser Kaelen left me before we rode out: the necklace of fireballs belongs to the Alagondars. A quiet branch, no title, no army — just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking. *You can actually do the thing you keep saying you want to do.*
 

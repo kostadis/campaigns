@@ -1,4 +1,8 @@
-# Chapter 12 Confronting Adabra and learning of the Interventionists.  
+---
+chapter: 13
+title: Confronting Adabra and learning of the Interventionists.
+---
+# Chapter 13 Confronting Adabra and learning of the Interventionists.  
 
 ### Soma
 

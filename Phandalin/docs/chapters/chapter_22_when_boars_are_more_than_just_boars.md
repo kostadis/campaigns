@@ -1,4 +1,8 @@
-# Chapter 21 When Boars Are More Than Just Boars
+---
+chapter: 22
+title: When Boars Are More Than Just Boars
+---
+# Chapter 22 When Boars Are More Than Just Boars
 
 The party arrived at the Falcon Hunting Lodge with their collection of prisoners and rescued companions in tow. Among them was a disoriented Teega the Smith, two Emerald Enclave guards who had been freed from captivity, and a criminal named Shrimpy. Falcon greeted them with surprise, particularly pleased to see his friend Vukradin had returned safely. The party presented their prisoners, and Falcon was impressed by their success in the field.
 
