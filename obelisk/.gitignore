@@ -7,3 +7,14 @@ docs/.triage_queue.json
 
 # Operational / local
 .claude/
+
+# Session audio — recordings stay local; the repo tracks transcripts, not media.
+*.m4a
+*.mp3
+*.wav
+
+# Narration snapshot tarballs (regenerable build artifacts)
+summaries/*/session-nar.tar
+
+# CampaignGenerator activity telemetry (transient, local)
+summaries/*/.cg/
