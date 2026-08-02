@@ -1,0 +1,286 @@
+consistency_check:
+  timestamp: "2026-08-01T12:37:33-07:00"
+  campaign: "obelisk (Phandelver and Below: The Shattered Obelisk)"
+  document_checked: "summaries/007/session-summary.md"
+  report: "summaries/007/consistency_report_ch07_enhanced.md"
+  config: "config.yaml (workspace root; run with CWD=/home/kroussos/obelisk/obelisk)"
+  model: "claude-sonnet-4-6"
+  backend: "claude-code"
+  issues_found: 12          # counted from the report body (## 1..12), NOT the banner
+  session_prep_used: true
+  entity_registry_used: true
+
+  document_provenance: |
+    session-summary.md is the ENHANCED recap, produced by enhance_summary at
+    2026-08-01 12:22 (logs/2026-08-01_122213_enhance_summary.md) from
+    summaries/007/gm-assist.md plus the session VTT.
+
+    gm-assist.md is BYTE-IDENTICAL to summaries/007/session_2026_07_18_chapter_07_deception.md
+    (md5 68686a174f951ea8ab1f2564cb09f7dc) — i.e. it is the already-reviewed,
+    already-corrected recap from the previous consistency run
+    (consistency_report_ch07.sources.yaml, GM-reviewed 2026-08-01).
+
+    So this run checks what the ENHANCEMENT PASS added on top of human-reviewed
+    text: ~190 new lines of dice results, verbatim quotes, mechanics and DM
+    asides. Last run's applied fixes (Foreput, Dosa Rook, Dendrars, whip,
+    Cunning Action) are all correctly inherited.
+
+  sources:
+    auto_loaded:                     # from config documents[] _DEFAULT_CONFIG_DOCS
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:                         # every --context file, with why it was chosen
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "names confirmed in /vtt-spell-pass, unpromoted (Dosa Rook, Wick, Urmon)" }
+      - { path: notes/redbrand_hideout.md, role: "session prep (authoritative) — 'The House That Glasstaff Built', co-GM staging doc" }
+      - { path: summaries/007/gm-assist.md, role: "UPSTREAM SOURCE — the corrected recap this document was enhanced FROM; lets the check see what the enhancement invented" }
+    context_set_chosen: "Focused + gm-assist (GM selection, explicit)"
+
+  command: |
+    cd /home/kroussos/obelisk/obelisk && \
+    CLAUDE_CODE_MAX_OUTPUT_TOKENS=32000 python \
+      /home/kroussos/src/CampaignGenerator/session_doc/check_consistency.py \
+      summaries/007/session-summary.md \
+      --backend claude-code \
+      --context docs/party.md docs/entity_registry.yaml \
+                notes/vtt_transcription_corrections.md notes/vtt_known_additions.md \
+                notes/redbrand_hideout.md summaries/007/gm-assist.md \
+      --output summaries/007/consistency_report_ch07_enhanced.md
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-01"
+
+    gm_rulings_this_run:
+      - "Sister Maela, Pip and Veyra are ALL 2nd level. This is a direct GM statement and it
+         supersedes docs/party.md, docs/campaign_state.md and docs/world_state.md, which all
+         still describe the three sidekicks as Level 1 with a 'long-overdue level-up'.
+         Consequence: report findings 3 (Action Surge) and 10 (three 1st-level slots) are NOT
+         errors — both are legal at 2nd level."
+      - "Cure Wounds rolled as 2d8+2 was a one-time misreading of the spell by the GM at the
+         table. Ruling: leave it as played, record it as a one-off, do not treat it as precedent."
+      - "The 'three' in the Magic Missile discussion refers to the spell's THREE DARTS, not
+         three castings. Recap now says 'three unerring darts'."
+      - "SKELETON COUNT SETTLED (2026-08-01): six skeletons, four killed, two left. This
+         RESOLVES the open question recorded under resolution.rejected finding 1. The tape's
+         arithmetic (which implied five) and the recap's 'four' are both superseded by the GM's
+         ruling. The grounding docs were ALREADY correct at six/two; it was the RECAP that was
+         wrong, and the recap has been corrected to match."
+
+    applied:
+      - { finding: "NEW-A", fix: "Cure Wounds recipient corrected Zenvon -> Pip in 4 places (Summary, Scenes, NPC Maela, Spells). Added that Zenvon was never healed and ended the crypt fight at 4 HP." }
+      - { finding: "NEW-B2", fix: "Added Zenvon's previously-omitted scimitar/Nick kill for 12 points (Summary + Scenes)." }
+      - { finding: "NEW-C", fix: "Removed the invented 'investigation roll of 28' (Summary + Scenes); left the cellar-door 19, which IS on tape." }
+      - { finding: "NEW-C2", fix: "Removed the invented '(a 7)' on Zenvon's first crypt swing; replaced with the DM's actual 'not very good, but better than nothing'." }
+      - { finding: 5, fix: "INVERTED the report's suggestion. Moved the 'less damage than the sound effects' quote OFF the 8-pt slave-pens Firebolt and onto the 2-pt crypt Firebolt, where the tape puts it. Slave-pens line now reflects the DM's actual opposite remark." }
+      - { finding: 6, fix: "Relocated (not deleted) the 3-point Firebolt from 'the barracks skirmish' to the slave-pens rescue. Added the missing crypts Firebolt to the Spells list; Veyra now correctly does not act in the barracks." }
+      - { finding: 7, fix: "Summary 'Pip killed two of the bandits' -> Pip finished the bandit he had struck (1 kill). Scenes reordered to match." }
+      - { finding: "8 + 9", fix: "Both dissolved by NEW-A. Spells now records exactly TWO Cure Wounds, both on Pip (10 in the crypts, 6 after the pit fall)." }
+      - { finding: "NEW-D", fix: "CHRONOLOGY: moved the cistern-satchel discovery from before the barracks deception to after Wick's interrogation and execution (Summary, Scenes, Items). The cellar pass now only notes the cistern." }
+      - { finding: "NEW-F", fix: "Restored Pip's truncated quote to the full VTT line and removed the literal '*(truncated)*' marker." }
+      - { finding: "GM ruling", fix: "Magic Missile description -> 'three unerring darts'; removed the unsupported claim that it killed a skeleton outright." }
+      - { finding: 1, fix: "REOPENED AND SETTLED BY GM RULING. Recap 'four skeletons' -> 'six' in 5 places (Summary, Memorable Moments, Scenes, Spells/Turn Undead, NPCs/Skeletons), with 'the other four were destroyed' stated explicitly. campaign_state.md:15 'Maela turned several, the rest destroyed' -> 'turned two, the other four destroyed'. party.md:49 'routing several skeletons' -> 'routing two of the six crypt skeletons'." }
+      - { finding: "NEW-A (grounding docs)", fix: "Propagated the heal correction into the GROUNDING DOCS: world_state.md:205 no longer says Zenvon was healed (now records Cure Wounds going to Pip and Zenvon finishing at 4 HP); party.md:34 'was healed' -> 'was never healed'; party.md:50 'healed Zenvon off 4 HP and Pip out of the pit' -> 'healed Pip twice (10 HP crypts, 6 HP pit)'." }
+      - { finding: "carry-forward (whip)", fix: "Closed the previous run's OPEN rope-vs-whip carry-forward in the grounding docs: world_state.md:208, party.md:32, party.md:33, party.md:58 all now say whip. party.md:33's item entry records WHY (the GM offered rope; the player corrected him — Zenvon carries no rope)." }
+
+    rejected:
+      - finding: 1
+        ruling: "No recap change. Skeleton count is UNRESOLVED and is a GM question, not an error."
+        rationale: >
+          The report wanted 4 -> 6. The tape does not support either cleanly. GM's own count was
+          muddled ("let's see, one, two, three, four, that's three", L313). Reconstructing by
+          events: 2 fled + Pip kills 1 (L389) + Zenvon's scimitar kill (L437) -> "there's only
+          one skeleton left" (L449) -> that one dies (L545) = 3 destroyed + 2 fled = FIVE.
+          So recap says 4, tape arithmetic implies 5, grounding docs say 6. Left untouched
+          pending a GM ruling. See carry_forward.
+      - finding: 2
+        ruling: "Recap is correct; it records the table."
+        rationale: >
+          GM on tape L313: "what's their spell DC, what's their wisdom, their wisdom is plus two,
+          plus four, twelve". The +2 WIS and DC 12 are what was actually used.
+      - finding: 3
+        ruling: "Not an error — sidekicks are 2nd level (GM ruling this run)."
+        rationale: 'GM declared it on tape at L389: "He will use an action surge to attack the next one over here."'
+      - finding: 4
+        ruling: "Recap is correct; keep 2d8+2 as played."
+        rationale: >
+          GM on tape L481/L485: "Alright, 2d8 plus 2" / "She casted a 2d8. You get 10 more hit
+          points, Pip." GM ruling: a one-time rules misread, recorded as such in the Spells entry.
+      - finding: 10
+        ruling: "Not an error — Veyra is 2nd level, so three 1st-level slots is legal."
+        rationale: 'GM on tape L397: "Veyra has cast Magic Missile twice, but if ever there was a time to cast her last Magic Missile, this would be it."'
+      - finding: 11
+        ruling: "Recap is correct. No 50 gp, no travel clothing."
+        rationale: >
+          notes/redbrand_hideout.md (prep) specifies 50 gp + clean travel clothing in Glasstaff's
+          escape satchel. The GM did not give them at the table — VTT L2157 enumerates exactly
+          "a potion of healing and a potion of invisibility". This is play divergence from prep,
+          not a recap error. Do NOT add 50 gp to the loot ledger.
+      - finding: 12
+        ruling: "Recap is correct. 'false columns' is the GM's own table wording."
+        rationale: >
+          VTT L589: "there are three large stone sarcophagi um and there's these false columns".
+          "oak-tree columns" is MODULE/prep vocabulary inherited by world_state.md and
+          redbrand_hideout.md. Same module-vs-table vocabulary class as the scarlet/red cloaks
+          ruling from the previous run — both descriptions are valid, the recap keeps the
+          table's, the reference layer keeps the module's.
+      - finding: "report closing note"
+        ruling: "Do NOT act on it."
+        rationale: >
+          The report's 'no issues found' footer asserts "the Dendrar family composition (two
+          women + young boy = Mirna, Nilsa, Nars)" as verified. That equation is MODULE
+          knowledge. The captives are never named at the table. The recap correctly leaves them
+          unnamed and must stay that way — the previous run's "keep captives anonymous" ruling
+          still stands.
+
+  vtt_adjudicated: |
+    The grounding docs could not settle most of this run's findings — the disputed material is
+    dice results, attribution and ordering, none of which any grounding doc records. Adjudicated
+    by hand against
+    summaries/007/GMT20260718-212700_Recording.transcript.retranscribed.cleaned.vtt.
+    This VTT was NOT a --context input to the check; it is provenance for the rulings.
+
+    HEADLINE: 8 of the 12 report findings were wrong. Seven real errors were found that the
+    check could not see, because the facts in question (who was healed, which weapon, which
+    numbers, what order) appear in NO grounding document — the check is structurally blind
+    where there is nothing to contradict.
+
+    - NEW-A (the run's biggest catch) — the crypt Cure Wounds healed PIP, not Zenvon.
+      L473: "No, Pip, because Pip's the closest. So Pip takes 6 points of damage. Alright,
+             Sister Maela, I will cast Healing on you."
+      L485: "She casted a 2d8. You get 10 more hit points, Pip."
+      Zenvon had withdrawn at 4 HP, so the skeleton hit Pip instead. Zenvon was NEVER healed in
+      the crypts. The recap asserted the heal on Zenvon in four separate sections. Same
+      misattribution class as the previous run's Veyra/Maela GM slip.
+
+    - NEW-B — INITIALLY MISREAD BY THE REVIEWER, THEN CORRECTED AGAINST THE TAPE.
+      First pass concluded the killing blow was the scimitar/12 hit and that the recap's
+      "dagger, 24 to hit, 8 damage" was invented. Reading further showed TWO Zenvon kills:
+        L417-437 scimitar via Nick: "Nick is possible with the scimitar" / "It's a 10" (miss) /
+                 "damage 4 plus 5 12 points" / "Ooh, nice! You killed it!"
+        L533-545 dagger, the actual last skeleton: "I'll come here, I'll use the dagger" /
+                 "Nineteen? Twenty-four percent?" / "For eight points of damage" /
+                 "All right, it dies."
+      So the recap's dagger/24/8 killing blow is CORRECT (the 24 traces to L557), and the real
+      defect was the OMISSION of the earlier scimitar kill. Fix applied accordingly.
+
+    - NEW-C — "an investigation roll of 28" appears nowhere on tape; grep for 28 / twenty-eight
+      returns only WebVTT timestamps. The player rolled Investigation (L701) but no value was
+      ever spoken. By contrast the cellar-door 19 IS real (L1565: "19. You hear some noises,
+      some discussions, some murmuring behind the door"). Invented-number class — same family as
+      the previous run's "Desa Rook", a value matching neither garble nor truth.
+
+    - Finding 5 INVERTED — the DM's "less damage than the sound effects" belongs to Veyra's
+      2-point Firebolt in the CRYPTS:
+        L513 "What did she do? She cast Firebolt." / L517 "Two points of damage." /
+        L521 "to be fair it does a lot less damage than the sound effects"
+      In the slave pens the 8-point hit drew the OPPOSITE remark:
+        L1081 "D10, sorry, and D10, for 8 points of damage, and the guy's down to 1 hit point,
+               this time it did sound that way"
+      The recap's Spells section had it right and its Summary/Scenes had it wrong; the report
+      recommended fixing the correct one. Applied in reverse.
+
+    - Finding 6 — the 3-point Firebolt is real but is in the slave-pens RESCUE, not the barracks
+      (L1205-1209: "she casts her fire spell one more time a firebolt leaves her hands and hits
+      four" / "Three points of damage"), immediately before the GM's Veyra/Maela slip that the
+      previous run adjudicated. Veyra genuinely never attacks in the barracks.
+
+    - Finding 7 — Pip killed ONE in the barracks. He struck the skeptical bandit for 6, then
+      "pip hits the guy he met the guy he's hitting and kills him"; Zenvon killed one with
+      12 damage; Wick killed the fleeing ruffian. Three bodies, matching the three-corpse loot.
+
+    - NEW-D (chronology) — the satchel was found AFTER Wick's interrogation and execution.
+      Tape order: cellar read-aloud L1421 -> cistern noted L1477-1485 -> listen at door L1565 ->
+      deception L1625 -> brawl -> interrogation L1993-2137 -> "Shove his face into the cistern"
+      L2125 -> satchel L2157 -> coin L2161.
+      NOTE FOR FUTURE RUNS: the PREVIOUS run's applied finding 8 moved the cistern/satchel
+      bullets EARLIER, into "The Pit Trap and the Cellar". That fix was wrong and this run
+      reverses it. A consistency report's suggested restructure is not evidence of chronology.
+
+    - NEW-E — the Dendrar linkage IS on tape and was kept:
+        L2133 Nikhil: "Dendrars? Okay."
+        L2137 GM:     "Yes, that's the family you guys rescued."
+      This CORRECTS the previous run's manifest, which recorded "no on-tape link" and cut the
+      inference. That conclusion came from grepping only "Dendrar" (L2129) and stopping two
+      lines short of the GM's confirmation. The enhanced recap restored a true fact.
+      The captives remain correctly UNNAMED, so "keep captives anonymous" is unaffected.
+
+    - NEW-F — Pip's quote was truncated by the enhancement pass and left with a literal
+      "*(truncated)*" marker, even though gm-assist.md carried it complete.
+      L1145: "You're the guy with the fingers who knows how to open the locks. I'm the guy with
+      the sword that knows how to kill people." Restored.
+
+    - NEW-G — Veyra's "4 hit points" is CORRECT (L909: "she doesn't want to be with her four hit
+      points killed by..."), not a bleed-through from Zenvon's 4 HP. No change.
+
+  carry_forward:
+    - status: OPEN
+      priority: HIGH
+      item: >
+        SIDEKICK LEVELS ARE WRONG IN THREE GROUNDING DOCS. GM stated this run that Sister Maela,
+        Pip and Veyra are ALL 2nd level. docs/party.md, docs/campaign_state.md and
+        docs/world_state.md all still say "Level 1" with a "long-overdue level-up" pending, and
+        world_state.md calls the level question "an open GM decision". It is no longer open.
+        Update all three, plus characters/ sheets. Until then this exact false-positive class
+        (Action Surge at L1, three 1st-level slots at L1) will re-trigger on every future check.
+    - status: DONE
+      item: >
+        SKELETON COUNT SETTLED by GM ruling 2026-08-01: SIX skeletons, FOUR killed, TWO left.
+        Recap corrected from "four" to "six" in 5 places; campaign_state.md and party.md made
+        precise ("turned two, the other four destroyed"). world_state.md:94,202 already said six
+        and needed no change. NOTE for the record: the VTT's own arithmetic implied five
+        (2 fled + 3 on-tape kills) and the GM's live count was audibly muddled at L313 — the
+        tape could not settle this, which is exactly why it went to the GM rather than being
+        guessed.
+    - status: OPEN
+      item: >
+        Maela's Turn Undead still needs writing into characters/maela.md per the Ch.7 DM ruling
+        ("clerics that can't turn undead are kind of pointless", VTT L305). Carried from the
+        previous run, still not done.
+    - status: OPEN
+      item: >
+        Still true from the previous run: NEITHER "Dosa Rook" NOR "Wick" is in
+        docs/entity_registry.yaml. Both remain staged in notes/vtt_known_additions.md.
+        Promote via /entity-triage.
+    - status: CORRECTION
+      item: >
+        consistency_report_ch07.sources.yaml's vtt_adjudicated section states the captives have
+        "no on-tape link" to the Dendrars. That is WRONG — VTT L2137 has the GM confirming it
+        outright. The prior cut of the inference clause was based on an incomplete grep. The
+        identification is legitimate; only the NAMES (Mirna/Nars/Nilsa) must stay out.
+    - status: CORRECTION
+      item: >
+        consistency_report_ch07.sources.yaml's applied finding 8 moved the cistern/satchel
+        bullets EARLIER in the document. That was a chronology regression; reversed this run.
+    - status: NOTE
+      item: >
+        Cure Wounds was rolled 2d8+2 at the table (GM-confirmed one-time rules misread). Recorded
+        in the recap as a one-off so it is not mistaken for a house rule later.
+    - status: NOTE
+      item: >
+        ENHANCEMENT-PASS FAILURE MODES observed, worth watching on every future enhance_summary
+        output: (1) invented precise dice values where the tape has none (28, "a 7");
+        (2) attribution drift onto the most prominent character (Zenvon absorbed Pip's heal);
+        (3) event duplication (one Zenvon hit split into two, while a real kill was dropped);
+        (4) quote truncation with a literal "*(truncated)*" marker left in the prose;
+        (5) DM asides relocated onto the wrong mechanical result.
+        None of these are catchable from grounding docs. The VTT is mandatory for this document class.
+
+  notes: |
+    Report integrity verified: 12 contiguous, correctly-numbered "## N." sections,
+    complete tail, no auto-continuation seam. CLAUDE_CODE_MAX_OUTPUT_TOKENS was
+    raised to 32000 pre-emptively because last run hit the output ceiling on a
+    smaller document.
+
+    Config resolution: run from the workspace root so base_dir resolves docs/*.
+    The workspace holds BOTH config.yaml (root) and config/config.yaml with
+    identical relative paths; only the root one resolves correctly.
+
+    CHARACTER OF THIS RUN — this is NOT the name/transcription-error run that
+    the previous Ch.7 check was. Those were already fixed upstream and inherited
+    cleanly. Every finding here is either (a) a NUMBER or ATTRIBUTION the
+    enhancement pass invented or misplaced, or (b) the check mistaking a
+    TABLE RULING for a rules error. The grounding docs could not settle most of
+    it, so the VTT did the real work: see resolution.vtt_adjudicated.

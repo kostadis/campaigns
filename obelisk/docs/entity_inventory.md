@@ -57,7 +57,7 @@
 - **the Talhund** / **Talhund** — Honorific title for generations of Dumathoin's priests buried in the crypt named for them; Dumathoin gives them new secret names in death. [ch6]
 - **Weavers** / **The Weavers** — Mysterious group who created powerful reality-rewriting obelisks to undo great calamities; their secrets were stolen and erased by Vecna. [ch8]
 - **Zhentarim** — Faction Halia Thornton recruits characters into; she approaches Zhentarim-recruited characters first when seeking help finding her missing miners. [ch2, ch4, ch6]
-- **Dendrar family** / **Dendar** / **the Dendrars** — Thel, Mirna, Nars, and Nilsa Dendrar; 'Dendar' is a VTT mishearing seen in session 1
+- **Dendrar family** / **the Dendrars** — Thel, Mirna, Nars, and Nilsa Dendrar. The VTT mishearing 'Dendar' (session 1) is handled in notes/vtt_transcription_corrections.md, not as an alias here — garbles are transcription errors, not identity variants.
 
 ## Items
 
@@ -394,3 +394,6 @@
 - **Vundru** — Grell psychic leader of the grells in Illithinoch's Scavengers' Nook, infused with minor psychic power from proximity to Illithinoch. [ch7]
 - **Zeond** — Glasstaff's invisible quasit familiar, watching over his workshop and warning him telepathically of intruders. [ch2]
 - **Tuck Stonehill** — Ten-year-old son of the Stonehills who followed a trio of encephalon gemmules into the hills and got trapped watching a dwarven ruin's hole. [ch2, ch6] Campaign rename of module's Pip Stonehill (per name_glossary.md 2026-06-12) -- collides with sidekick Pip Thistlewick.
+- **Dosa Rook** — Redbrand bandit killed by the party in the upper-cellar brawl beneath Tresendar Manor. Name confirmed on tape (GM: "the bandit, whose name is Dosa Rook"). ASR garbles "Dessa"/"Desa" are handled in notes/vtt_transcription_corrections.md, not as aliases here. [ch7]
+- **Wick** — Low-level Redbrand thug. Surrendered in the upper cellar after his allies fell, killed his own wounded comrade to curry favor, revealed that Glasstaff is a wizard who takes orders from someone in Phandalin and that the Redbrands had "handled" the Dendrar family, flinched at the name Black Spider, then was executed by Zenvon. Dead. [ch7]
+- **Orryn Voss** / **Professor Orryn Voss** — Veyra's mentor; missing from Phandalin, an open plot thread. Only the title variant "Professor Orryn Voss" is registered as an alias — the ASR garble "Oren Voss" is handled in notes/vtt_transcription_corrections.md, not here.

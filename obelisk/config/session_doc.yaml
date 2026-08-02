@@ -1,0 +1,53 @@
+paths:
+  session_recap: gm-assist.md
+  session_summary: session-summary.md
+  scene_extractions_dir: scene_extractions
+  narration_dir: narration
+  output_dir: null
+  party: docs/party.md
+  voice_dir: voice
+  examples_dir: examples
+narrate:
+  tokens: 31000
+  prose_mode: true
+  reflections: true
+  genre: null
+  context: []
+scrub:
+  enabled: false
+  tokens: 16000
+roster:
+  characters: Zenvon
+  gm_player: Kostadis Roussos
+backends:
+  active: claude-code
+  anthropic:
+    backend: anthropic
+    model: null
+    batch: null
+    endpoint: null
+  claude-code:
+    backend: anthropic
+    model: null
+    batch: null
+    endpoint: null
+  dgx:
+    backend: anthropic
+    model: deepseek-ai/DeepSeek-V4-Flash-DSpark
+    batch: null
+    endpoint: http://192.168.1.147:8001
+  openrouter:
+    backend: anthropic
+    model: null
+    batch: null
+    endpoint: null
+session_name: null
+profiles:
+- name: '007'
+  knobs:
+    narrate_tokens: 31000
+    prose_mode: true
+    reflections: true
+    narration_genre: ''
+    backend: dgx
+active_profile: '007'

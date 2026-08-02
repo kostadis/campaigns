@@ -1,0 +1,5 @@
+runtime:
+  default_model: claude-fable-5
+  default_backend: claude-code
+  session_dir: /home/kroussos/obelisk/obelisk/summaries/007
+  default_batch: false
