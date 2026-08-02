@@ -136,7 +136,7 @@ Valphine finds the destruction a "glorious, fleeting display." The party decides
 
 **(DM tactical note):** The party's choice to observe rather than intervene was tactically sound — a frontal assault against Borg + three ogres in open ground would have been dangerous. Following Borg to his base of operations may yield larger strategic gains than a single battle.
 
-**Valphine's perspective:** The fire is "glorious, fleeting display" — she finds aesthetic value in the destruction. Her dark fascination with pain and transformation colors her reaction to violence in a way that's increasingly concerning to the rest of the party.
+**Valphine's perspective:** The fire is "glorious, fleeting display" — she finds aesthetic value in the destruction. Her dark fascination with pain and transformation colors her reaction to violence.
 
 ## NPCs
 

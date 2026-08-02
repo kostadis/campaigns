@@ -14,7 +14,7 @@ Silverleaf (Daran Edermath), a retired adventurer, tells Vukradin about the Towe
 
 Ser Kaelen Thorn of the Order of the Gauntlet enters the inn. He seeks out Vukradin personally, having heard of his principled stance on plunder. Despite some awkward moments (he hasn't heard about Vukradin's music studio), Ser Kaelen offers Vukradin associate membership — Rank Cheval — in the Order of the Gauntlet. Vukradin accepts. Valphine is offered but politely demurs. Brewbarry is hostile (the Order fought against his tribe in the war). Ser Kaelen handles it diplomatically. Soma is pointedly excluded: "She's a naturalist, and I don't think that our points of view would align."
 
-The party also encounters a wererat ambush on the road — a brief fight highlighting their lack of silvered weapons. **(Note:** This encounter is referenced in the chapter summary but is not fully detailed in the narrative.) The party resolves to investigate the Tower of Storms, with Ser Kaelen suggesting the curse could be a monster rather than a supernatural affliction.
+The party resolves to investigate the Tower of Storms, with Ser Kaelen suggesting the curse could be a monster rather than a supernatural affliction.
 
 ## Memorable Moments
 
@@ -103,8 +103,6 @@ The party also encounters a wererat ambush on the road — a brief fight highlig
 - The crowd is silent, watches, then applauds.
 - Vukradin: "Perhaps we should play together." A partnership is born.
 
-### Wererat Ambush
-- **(Briefly described in the chapter — minimal detail):** The party encounters wererat-infested bandits on the road. The fight highlights the party's lack of silvered weapons and the difficulty of type change. Brief combat, party prevails. **(DM note):** This encounter deserves more detail if expanded. Wererats present an interesting challenge for parties without magic weapons — it tests resource management and creative problem-solving.
 
 ### Silverleaf's Lighthouse Tale
 - Daran Edermath ("Silverleaf"), a retired half-elf adventurer turned orchard-keeper, approaches Vukradin.
@@ -147,5 +145,4 @@ The party also encounters a wererat ambush on the road — a brief fight highlig
 
 ## Spells
 - **Choralum Lux Maleficarum** — Valphine's original musical composition blending Lathanderian choral harmony with Lolth-influenced dissonance. Used during the duet with Vukradin. Not a combat spell, but establishes Valphine's character through art.
-- **Fairy Fire** — Valphine. Used in the road ambush (if the wererat encounter had more detail). Provides advantage against illuminated enemies.
 - **Starry Wisp / Bardic Performance** — Vukradin. Used during the inn performance to build rapport and earn room and board.
