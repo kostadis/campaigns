@@ -39,11 +39,6 @@ Vukradin persuades Don-Jon that wererats can nest in one section while working a
 
 **Revisionist History.** Vukradin retroactively claims the retreat was his plan all along, with maximal dramatic flair.
 
-> "You should learn from your daughter. She's incredibly successful."
-> — Adabra, to Valphine, about Aletra
-
-**Sister Reveal.** Adabra's venomous comment reveals she knows about Aletra — and that Valphine's sister is somehow involved in the planar disturbances.
-
 > "THAT WOULD BE A VIOLATION! A PLANAR DISTORTION YOU HAVE CAUSED!"
 > — Adabra
 
@@ -89,7 +84,7 @@ Vukradin persuades Don-Jon that wererats can nest in one section while working a
 - Ser Kaelen expresses concern about psionic creatures.
 - Jenna Roscoe dismisses the Kraken Society — Valphine senses deception.
 - Adabra learns the party intervened against the Kraken cult — she goes ballistic.
-- Adabra: "You have no idea what you've done" — identifies the intervention as a temporal/planar violation.
+- Adabra identifies the intervention as a temporal/planar violation — storms out of the council.
 - She storms out. Brewbarry is confused. Soma is done with her.
 - Council is divided. The party agrees Adabra's extreme positions are wrong.
 
@@ -134,7 +129,7 @@ Vukradin persuades Don-Jon that wererats can nest in one section while working a
 
 ## NPCs
 
-- **Adabra** — Patron of the party, now openly hostile after learning of their Kraken cult intervention. Believes temporal/planar violations cascade catastrophically. Stormed out of council. **(GM note):** Adabra knows about Aletra. Her connection to events runs deeper than she's revealed.
+- **Adabra** — Patron of the party, now openly hostile after learning of their Kraken cult intervention. Believes temporal/planar violations cascade catastrophically. Stormed out of council.
 
 - **Don-Jon Raskin** — New Mountain's Toe Gold Mine overseer. Boastful, easily manipulated, seen as an idiot by everyone including the barbarians he claims as friends. Hired by Neverwinter consortium with at least one Kraken Society member. **(GM note):** Don-Jon is a pawn. His "consortium" almost certainly has ulterior motives for the mine.
 

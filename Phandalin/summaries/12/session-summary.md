@@ -10,7 +10,7 @@ Nearby, members of the Emerald Enclave are trapped in blighted brambles. Their l
 
 The fight begins. Soma (bear) attacks the brambles but accidentally hits herself — the treant finds this amusing. Brewbarry grows to 15-foot reach. Valphine's Guiding Bolt scorches a vine. Vukradin's Starry Whip connects with the treant.
 
-Lyra produces four crude stones — the ritual to seal the planar rift requires 6 successes, with only 3 failures allowed. The party must fight the treant while simultaneously performing a delicate ritual. The failures pile up: Vukradin fails (1/3), then a success from Soma, then Brewbarry succeeds (3/1), then Soma fails again (3/2). The tide swings back and forth.
+Lyra produces four crude stones — the ritual to seal the planar rift requires 6 successes, with only 3 failures allowed. The party must fight the treant while simultaneously performing a delicate ritual. The attempts swing back and forth: Vukradin fails (1/3), Soma succeeds, Vukradin succeeds, Brewbarry succeeds (3/1), then Soma fails twice (3/3). The tide swings back and forth.
 
 Soma's staff glows — confirming the unnatural planar origin of the corruption. She hesitates: is helping Lyra the right thing? Is Adabra's naturalism correct? The staff provides the answer: the treant, the pools, the brambles — all are unnatural. This planar rift is not part of the natural order. Lyra explains the schism in the Emerald Enclave: the War of the Dragons split them into naturalists (who see all multiversal existence as natural) and interventionists (who believe planar intrusions must be fought).
 

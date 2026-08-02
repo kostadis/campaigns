@@ -8,7 +8,7 @@ The party arrives at Falcon's Lodge with their collection of prisoners: a disori
 
 Teega the Smith, suffering from memory gaps, asks who the party is and why she's there. She last remembers working at the Wayside Inn. She reveals she's been experiencing blackouts for some time, called by something known as "the Kraken," which promised peace after the endless wars along the Sword Coast. Through observation, the party determines her mind was manipulated through psionic means — not traditional magic, and not Mind Flayers. Brewbarry's instincts confirm it. Valphine attempts intimidation; Vukradin offers her a job at the Church of Lathander. She declines but says she might visit later.
 
-Falcon shares news: Mountain Toe Gold Mine has poisoned waters threatening to shut down operations. He's part of a Neverwinter mining consortium, having received a discounted share in exchange for scouting. The investment has strained his finances — he can't offer cash but proposes giving the party a share of the mine itself if they investigate. The party debates priorities. The Woodland Manse quest (boots of elvenkind) wins. They'll do that first.
+Falcon shares news: Mountain Toe Gold Mine has poisoned waters threatening to shut down operations. He's part of a Neverwinter mining consortium, having received a discounted share in exchange for scouting. The investment has strained his finances — he can't offer cash but proposes giving the party a share of the mine itself if they investigate. The party debates priorities. The Woodland Manse quest (magical boots) wins. They'll do that first.
 
 Early the next morning, the party sets out for the Woodland Manse. They note the mysterious drow Sridar departed during the night. After a 10-mile journey through the forest, they arrive at a foggy clearing. A crumbling two-story manor stands, covered in thorny ivy, atop a six-foot stone foundation. Wild pumpkins grow everywhere. Several wild boars feed among them.
 
@@ -60,7 +60,7 @@ Brewbarry casts *Moonbeam* on the suspicious boar. The disguise fails — it rev
 
 - Mountain Toe Gold Mine: 15 miles northeast of Phandalin. Water poisoned. Shutdown imminent. Falcon's consortium investment has strained his finances — no cash reward possible.
 - Offer: a share of the mine itself in exchange for investigating and resolving the poisoning.
-- Party debates: Woodland Manse or Gold Mine first? They choose Woodland Manse (boots of elvenkind as immediate reward). The Emerald Enclave guards will rest at Falcon's Lodge for two nights then report to their order.
+- Party debates: Woodland Manse or Gold Mine first? They choose Woodland Manse (magical boots as immediate reward). The Emerald Enclave guards will rest at Falcon's Lodge for two nights then report to their order.
 
 ### Travel to Woodland Manse
 

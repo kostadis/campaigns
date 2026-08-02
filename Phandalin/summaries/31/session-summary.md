@@ -6,7 +6,7 @@
 
 The party began by recapping their tangled web of alliances and feuds. Having recently discovered that Don-Jon met his end at dwarven hands before being consumed by a carrion crawler, and having forged an uneasy truce between the Stonetallow shield dwarves and the wererats who both claimed the mine, they now faced the delicate work of making that truce stick. Vukradin, questioning the oxymoronic clan name "Stonetallow," inadvertently triggered a thorough dwarven etymology lesson from Horia: the name derived from "stone to allow," a reference to the clan's founder—a disgruntled Gauntlgrym engineer who was the only dwarf who knew how to build a proper archway. The revelation crystallized everything about the Stonetallow clan: they were obsessed with doing things correctly, and they viewed the wererats' slapdash modifications to the mine as a personal affront to the craft.
 
-Negotiations with the wererats proved the session's dramatic centerpiece. Vukradin's insight revealed what the party had suspected—the wererats had never wanted to mine; they were muscle, not laborers. Brewbarry, still caked in orc and ogre blood from the previous battle, approached the negotiation with an elegant brutality. When Zeleen Varnaster demanded an upfront payment of one thousand gold for six months of protection, Brewbarry countered by reframing the entire arrangement: the wererats had been chased from their homes, and now they were being offered shelter, Petunia's legendary cheese, and protection from eviction—why would they demand payment for a deal this good? The implied threat, underscored by the blood-drenched axe, landed perfectly. Zeleen, impressed, agreed to protect the mine for free, viewing it as defending their home and family. He offered Vukradin a piece of Petunia's cheese—described as a gouda-adjacent delicacy unlike anything else in the region.
+Negotiations with the wererats proved the session's dramatic centerpiece. Vukradin's insight revealed what the party had suspected—the wererats had never wanted to mine; they were muscle, not laborers. Brewbarry, still caked in orc and ogre blood from the previous battle, approached the negotiation with an elegant brutality. When Zeleen Varnaster demanded an upfront payment of one thousand gold for six months of protection, Brewbarry countered by reframing the entire arrangement: the wererats had been chased from their homes, and now they were being offered shelter, Petunia's legendary cheese, and protection from eviction—why would they demand payment for a deal this good? The implied threat, underscored by the blood-drenched axe, landed perfectly. Zeleen, impressed, agreed to protect the mine for free, viewing it as defending their home and family. She offered Vukradin a piece of Petunia's cheese—described as a gouda-adjacent delicacy unlike anything else in the region.
 
 The party then charted their next course. Zeleen warned them that orcs, ogres, and a dragon were ravaging the countryside, and suggested the Shrine of Savras for intelligence on the dragon's whereabouts. More alarmingly for Brewbarry, the dragon's raids were disrupting farming so severely that there would be no beer brewed this year—a crisis that elevated dragon-hunting to the highest priority. After weighing their many outstanding quests, the party decided to head toward Neverwinter, stopping at Dragonbarrow en route to retrieve the legendary dragon-slaying sword known as the Dragonblade.
 
@@ -22,7 +22,7 @@ Within Dragonbarrow's tomb, the party encountered the will-o'-wisps directly. So
 
 - **The Bloody Axe Negotiation** — "You know what the guy's a kidder. He's the best boss we're ever going to have."
   > — Zeleen Varnaster
-  > *After Vukradin tried to trick him about dragons polymorphing and Zeleen rolled a natural 20, turning a failed deception into a bonding moment*
+  > *After Vukradin tried to trick her about dragons polymorphing and Zeleen rolled a natural 20, turning a failed deception into a bonding moment*
 
 - **The Etymology of Stonetallow** — "Stone to allow the arch to pass. That's where it comes from."
   > — Horia
@@ -78,7 +78,7 @@ Within Dragonbarrow's tomb, the party encountered the will-o'-wisps directly. So
 - Vukradin attempts to trick Zeleen about dragons polymorphing; Zeleen rolls a natural 20, sees through it entirely, and laughs it off as a good joke.
 - Brewbarry reveals his full name: Brewbarry Root Smasher Ogalakadu (family name, nickname, clan name).
 
-**(DM note):** Zeleen's natural 20 insight here cements him as a shrewd leader, not easily fooled—his agreement to the deal was genuine, not gullible.
+**(DM note):** Zeleen's natural 20 insight here cements her as a shrewd leader, not easily fooled—her agreement to the deal was genuine, not gullible.
 
 ### Planning the Next Adventure and Mine Logistics
 

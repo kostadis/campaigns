@@ -10,7 +10,7 @@ Vukradin's quick thinking with a Silence spell neutralizes the harpies' magical 
 
 Within the tower, they discover frescoes depicting stormy seas and a dark god, a stone altar carved with lightning bolts, and a lightning rod — confirming Talos's presence. A harpy nest yields a potion of water breathing, sparking Vukradin's first objection to "blood money."
 
-Upstairs, they confront Moesko, an Orc Anchorite of Talos clad in octopus-hide armor, seated in a barnacle-encrusted chair clutching an opalescent conch — the artifact belonging to Miral the Sea Elf. The fight is brutal: Moesko opens with Call Lightning and Thunderwave, devastating the party. Soma (brown bear) absorbs damage and deals heavy hits. Vukradin traps Moesko in Cloud of Daggers. Brewbarry lands a decisive charge. Soma, forced to revert from bear form in the cramped tower, delivers the final blow.
+Upstairs, they confront Moesko, an Orc Anchorite of Talos clad in octopus-hide armor, seated in a barnacle-encrusted chair clutching an opalescent conch — the artifact belonging to Miral the Sea Elf. The fight is brutal: Moesko opens with Lightning Bolt and Thunderwave, devastating the party. Soma (brown bear) absorbs damage and deals heavy hits. Vukradin traps Moesko in Cloud of Daggers. Brewbarry lands a decisive charge. Soma, forced to revert from bear form in the cramped tower, delivers the final blow.
 
 Valphine, fascinated by pain and Lathander's light, thrives in the combat's intensity. The conch is recovered, and the tower's corrupt beacon is identified: Moesko's own heart, still beating, radiating a sickly green light from the lighthouse top.
 
@@ -100,6 +100,6 @@ Valphine, fascinated by pain and Lathander's light, thrives in the combat's inte
 - **Silence** — Vukradin. Nullified harpy charm songs; decisive tactical use.
 - **Cloud of Daggers** — Vukradin. Trapped Moesko; ongoing damage in a 5-ft cube.
 - **Vicious Mockery** — Vukradin. Killed the male harpy; low damage but comedic value high.
-- **Call Lightning** — Moesko. Devastating AoE that nearly TPK'd the party indoors.
+- **Lightning Bolt** — Moesko. Devastating line spell that nearly TPK'd the party indoors.
 - **Thunderwave** — Moesko. Pushed Soma back; additional AoE damage.
 - **Bardic Inspiration** — Vukradin. Used to retroactively succeed on a failed charm save.
