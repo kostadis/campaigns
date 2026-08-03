@@ -73,3 +73,8 @@ Istus  — Greyhawk goddess of fate and destiny; referenced as avatar context in
 - **Cure Wounds** — wave 2, 2026-08-02
 - **Giant Strength** — wave 2, 2026-08-02
 - **Hunter Shark** — wave 3 tail, 2026-08-02
+
+## 2026-08-03 — from `summaries/20260729/GMT20260729-035411_Recording.transcript.vtt` (Neverwinter, ch47)
+
+- Protector of the Glades  — Title used for Soma; "And Soma, the Protector of the Glades." Both transcriptions render it identically, so it is genuine in-canon vocabulary, not an ASR artifact.  — 2026-08-03
+- Buckwick District  — Neverwinter district; "Let's do Buckwick District." GM confirms it is real and should be added to docs/entity_inventory.md.  — 2026-08-03
