@@ -31,7 +31,7 @@ source: gmassist
 - The GM confirms a secret door exists there; the party decides to investigate.
 - Valphine is nominated to go in first.
 
-**[Dave Mendenhall / Vukradin]** — *scouting the unexplored area*
+**[Vukradin]** — *scouting the unexplored area*
 > "We haven't gone behind the altar"
 > "Is there anything in this space behind the altar?"
 
@@ -39,10 +39,10 @@ source: gmassist
 > "There's a portal. Well, yeah, but like, hold on, hold on, hold on."
 > "So who goes in first? Uh, looks like Luc- uh, Valphine."
 
-**[Dave Mendenhall / Vukradin]** — *Valphine volunteers*
+**[Vukradin]** — *Valphine volunteers*
 > "Yeah, I can go in. I'm eager. All right, you're eager. I've got nine hit points."
 
-**[Wade Brown / Soma]** — *reacting*
+**[Soma]** — *reacting*
 > "Oh, boy. There it is. All right."
 
 ---
@@ -50,98 +50,43 @@ source: gmassist
 **[The Ochre Jelly Appears — Initiative]**
 
 **[GM]** — *the jelly emerges*
-> "Okay. The ochre jelly, uh, slithers up to you and attempts to attack. Roll for initiative."
-> "Okay, that's a minus one for initiative"
+> "Okay. The ochre jelly, uh, slithers up to you and attempts to attack."
 
-**[Dave Mendenhall]** — *Valphine's roll*
-> "Rod M18"
-
-**[GM]**
-> "When you did a roll-off at 18?"
-
-**[Dave Mendenhall]**
-> "Uh, the Crown of Valphine?"
-
-**[GM]**
-> "Mm-hmm."
-
-**[Dave Mendenhall]**
-> "What'd the ogre get?"
-
-**[GM]**
-> "Minus one."
-
-**[Wade Brown / Soma]** — *drily*
-> "Like full on minus one."
-
-**[Dave Mendenhall]**
-> "Well, we'll give him a one. We'll give him a one."
-
-**[Wade Brown / Soma]**
-> "No,"
-
-**[Dave Mendenhall]**
-> "it's a minus one. Minus"
-
-**[Wade Brown / Soma]**
-> "one. Just in case an actual one or zero shows up when they- Uh,"
-
-**[Dave Mendenhall]**
-> "you wanna do a roll off? Sure, we can do a roll off."
-
-**[Wade Brown / Soma]**
-> "Yeah,"
-
-**[GM]** — *wins the roll-off*
-> "my roll off is 20."
-
-**[Dave Mendenhall]**
-> "You win."
-
----
 
 **[Round 1 — Soma: Ice Knife]**
 
-**[Wade Brown / Soma]** — *unable to enter the cramped space, attacks from range*
+**[Soma]** — *unable to enter the cramped space, attacks from range*
 > "Eh, it's all right. All right. I can ice- no, I can ice knife from back there. It's fine."
 > "And that's exactly what I'll do. We'll cast ice knife on it."
 > "That looks like a hit It's a hit Oh. Whoa He has to roll a save, a dex save"
 
-**[Dave Mendenhall]**
+**[Vukradin]**
 > "Dex save. What's the 22 though?"
 
-**[Wade Brown / Soma]**
+**[Soma]**
 > "The 22 is the hit roll"
 
-**[Dave Mendenhall]**
+**[Vukradin]**
 > "He has to do a hit roll and a dex save?"
 
-**[Wade Brown / Soma]**
+**[ Soma]**
 > "Yes,"
 
 **[GM]**
 > "because I think the dex save is for the cold damage."
 
-**[Wade Brown / Soma]** — *explaining the spell mechanics*
+**[Soma]** — *explaining the spell mechanics*
 > "It's so- A hit and- Well, ice knife is two sh- two parts, right? So the, um, the first one is 1D 10, and then it has to do the dex save for that damage, and then o- even on a miss, the, the thing explodes for 2D six"
 
 **[GM]**
 > "the saving throw is for the cold damage"
 
-**[Wade Brown / Soma]**
+**[Soma]**
 > "Uh, for the piercing damage"
-
-**[GM]**
-> "No, no."
 > "The hit, on a hit, the target takes 1d10 of piercing damage Oh, right, right, right If hit or miss, the shard explodes. The target- That's right, I had"
-
-**[Wade Brown / Soma]**
 > "it"
 
-**[GM]**
-> "backward, yes So it, it's the same- But he takes the"
-
-**[Wade Brown / Soma]**
+> "So it, it's the same- But he takes the"
 > "full brunt, so he takes the hit and the save, so he takes nine damage Yeah, so"
 
 **[GM]**
@@ -154,14 +99,11 @@ source: gmassist
 > "43?"
 > "Yeah, it started with 52"
 
-**[Wade Brown / Soma]**
+**[Soma]**
 > "Oh, it says 45 in the sheet"
 
 **[GM]**
 > "There, I fixed it"
-
-**[Dave Mendenhall]**
-> "All right. Nicely done"
 
 ---
 
@@ -170,7 +112,7 @@ source: gmassist
 **[GM]**
 > "Valefar He'll just do the Sacred Flame again. Uh, dex save DC 13 It makes the same throw"
 
-**[Wade Brown / Soma]**
+**[Soma]**
 > "Oh, that's... Sorry, that's the wrong way."
 
 **[GM]**
@@ -185,7 +127,7 @@ source: gmassist
 > "Does he, does Valphine want to move out of the way so he can fit in? All right. Uh, is it her turn to hit? Any notch here Yeah, he can go there. I just, I guess, well, yeah, he can go there. All right. Punchy, punchy He's fine here. Um"
 > "Jeez That's a- Man ... my second natural one tonight."
 
-**[Dave Mendenhall]**
+**[Valphine]**
 > "Wow. Uh-huh. Rough."
 
 **[GM]**
@@ -194,18 +136,6 @@ source: gmassist
 ---
 
 **[Round 1 — Vukradin: Dagger, Six Damage]**
-
-**[Dave Mendenhall]**
-> "All right. Oh- Oh, sorry. Uh, Vukradin"
-
-**[GM]**
-> "didn't get to go Vukradin. Uh, Vukradin, you were supposed to have gone before Brewbarry. I was supposed to"
-
-**[Dave Mendenhall]**
-> "have gone,"
-
-**[GM]**
-> "yeah"
 
 **[Dave Mendenhall]**
 > "Hmm. So do the daggers?"
@@ -217,7 +147,7 @@ source: gmassist
 **[GM]**
 > "How much damage?"
 
-**[Dave Mendenhall]**
+**[Vukradin]**
 > "Six damage. Down to 37. Correct."
 
 ---

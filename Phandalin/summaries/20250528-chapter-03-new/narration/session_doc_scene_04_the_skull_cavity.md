@@ -8,135 +8,117 @@ session: 20250528-chapter-03-new
 
 ### Soma
 
-I couldn't wait.
+The small door called to me. I couldn't explain it — something about the way it was tucked behind the pillar, like it had been waiting for us to finish the serious business before it let itself be noticed.
 
-The ochre jelly fight had been messy — the kind of messy where melting things leave marks on stone you can't scrub out — and we'd taken our long rest, but the small secret door near the pillar kept pulling at me. A seam in the rock that didn't match the others, a hairline crack that wanted to be opened.
-
-"Oh, I wanna see the little one for sure," I said, already moving toward it.
-
-Vukradin was doing his thing, drawn to the altar statue, muttering something about touching it to see if it was real. But I wasn't interested in statues right now. I had a door to open.
+"Oh, I wanna see the little one for sure," I said, and Brewbarry was already moving toward the altar, and Valphine was doing her careful scan of the floor, and Vukradin was — somewhere. Probably touching a statue.
 
 "I can't wait for the little one."
 
-The others were settling in, preparing to sleep, but I was already running my fingers along the seam. I just had to know. One peek. That was all.
+I heard Vukradin say something about needing to touch the statue, but I was already at the door, my fingers tracing its edges. *Just a peek.* That was all I needed. One look, then we could rest.
 
-"I, I just gotta know what this opens up to."
+"I just gotta know what this opens up to."
 
-I didn't wait for permission. I just reached out and pulled.
+I pulled the door open.
 
-The door swung open and the skulls came tumbling out — a cascade of bone and empty eye sockets, clattering across the floor in a dusty landslide. Dwarf skulls, by the look of them. Dozens of them, piled deep in the cavity, rolling to a stop at my feet.
+The skulls came out like they'd been waiting their whole lives to be free. A cascade of bone — dwarf skulls, every one of them, tumbling onto the floor in a clatter that echoed through the chamber. They rolled and settled, empty eye sockets staring up at nothing.
 
-"That's disgusting," I said, stepping back from the spill.
+"That's disgusting," I said, but I was already reaching in to clear them, pushing the bones aside with a careful hand. There was something underneath. I could feel it.
 
-But my eyes followed the skulls back to the cavity they'd come from, and at the bottom of it, sitting untouched among the bone-fall, was a stone coffer. Unlocked.
+At the bottom of the cavity sat an unlocked stone coffer. Simple. Unadorned. The kind of box that didn't need locks because nobody was supposed to find it.
 
 "Ooh."
 
-I cleared the skulls aside — careful, respectful, the kind of care you give the dead even when they're scattered across the floor — and lifted the coffer out. The lid opened easily. Inside, fifteen gemstones caught the torchlight, each one a clean cut, worth ten gold pieces each. I counted them once, twice, my mind already running the arithmetic.
+I lifted the lid. Inside, fifteen gemstones caught the torchlight, each one worth ten gold pieces — I could tell from the cut, the clarity. Nothing spectacular. But clean. Unspent. Untouched by whatever curse had killed the dwarves whose skulls now lay scattered at my feet.
 
-Fifteen gems. One hundred and fifty gold pieces. For delivering a message.
+I heard Vukradin's voice before I saw him. "Oh, oh, oh. We'll have to tell the dwarves that we found some treasure."
 
-Vukradin's voice cut through my calculations like a blade.
+"No we don't," I said, but he was already committed — I could hear it in his tone, that bright moral certainty that made him impossible to live with and impossible to dislike.
 
-"Oh, oh, oh. We'll have to tell the dwarves that we found some treasure."
+"We found the 15, we found 15 gemstones."
 
-I stared at him. The table went quiet.
-
-"Do you say that out loud?" I asked, hoping — *hoping* — that I'd misheard.
+I stared at him. "Do you say that out loud?"
 
 "Yep."
 
-"Goddamn your moral streak." The words came out flat, stunned, because what else was there to say? He was standing there, fifteen gemstones in plain view, and he was *telling me* he was going to hand them over.
+"Goddamn your moral streak."
 
-He pivoted toward the door, already gesturing toward the treasure he was about to give away. "We're gonna leave these behind for your archeological ex-"
+He was already pivoting, telling Brewbarry something about leaving them behind for archaeological purposes. I cut in, trying a smaller number — maybe if I started lower, he'd meet me in the middle and I'd still come out ahead.
 
-"We found 10," I cut in, the number dropping out of my mouth before I'd fully thought it through. "We found 10."
+"We found 10. We found 10."
 
-Vukradin was already walking toward the door.
+He kept talking. The number didn't stick. I sighed and let my hand fall from the coffer. "Really? We're not taking them? Apparently we're not."
 
-"Really? We're not taking them? Apparently we're not."
+Valphine was watching, her expression unreadable in the half-light. Vukradin turned to her.
 
-I looked at the gemstones in my hands. Fifteen of them. One hundred and fifty gold pieces. And Vukradin was about to announce it to the dwarves like it was a civic duty.
-
-He turned to Valphine. "Did you wanna rob the grave, Valphine?"
+"Did you wanna rob the grave, Valphine?"
 
 "Of course."
 
-"Just dwarves," I said, because that was the truth of it. Dwarf graves. Dwarf skulls. Dwarf treasure in a dwarf tomb. We were the ones who'd cleared the ochre jelly, who'd fought through the tunnels, who'd nearly died twice in this place. And Vukradin wanted to hand the payout to Norbert and Dazlyn because it was *archaeologically interesting.*
+*Just dwarves.* That's what I wanted to say. That's what I was thinking — these weren't our ancestors, this wasn't our temple, the dead who owned these gems were dust and bone and nobody would know the difference. But I heard myself rationalize instead, the words coming out before I could stop them.
 
-"Well, I'm, I'm, I'm not gonna be a part of that. Look,"
+"Norbert or whatever is withholding payment. I'm here for the sending stones and for the hard-earned 50 gold pieces for delivering the message."
 
-"Norbert or whatever is withholding payment," I said, trying to find the leverage. "I'm here for the—"
+Vukradin shook his head. "Well, I'm not gonna be a part of that."
 
-"Sending stones and for the, the hard-earned 50 gold pieces for delivering the message."
+*No. Of course you're not.*
 
-I looked at Valphine. She looked at me. We both understood what the other was thinking.
+Valphine caught my eye. She had that look — the one that meant she was already three steps ahead, that she knew the game and was playing it differently than Vukradin was.
 
-Valphine spoke first — casual, deliberate, the voice of someone who knew exactly what she was doing. "Okay. Well- Oh ... you go ahead to the next room, and I'll be right behind you."
+"Okay. Well — you go ahead to the next room, and I'll be right behind you."
 
-I caught the signal.
+I understood. "I'll just go set the stones on the altar for, or the gemstones in their coffer on the altar."
 
-"I'll just go set the stones on the altar for, or the gemstones in their coffer on the altar."
+Vukradin's voice came from across the chamber, half-amused, half-warning. "If you guys are gonna, you know, put them away somewhere while I'm busy over here, uh, ratting you out — well, I guess you can do that. I guess I wouldn't see that if that happened."
 
-Vukradin's voice came from behind me, dry and knowing. "If you guys are gonna, if you guys are gonna, you know, put them away somewhere while I'm busy over here, uh, ratting you out, you know, well, you, I guess you can do that."
+"No, we heard you. We know what you're gonna do."
 
-I felt my shoulders tighten.
+And we did. We knew exactly what he was going to do. He was going to tell the dwarves about every single gem, and then he was going to watch us hand them over, and then he was going to sleep perfectly well tonight while the rest of us wondered what we could have bought with that gold.
 
-"I guess I wouldn't see that if that happened."
+Norbus appeared in the doorway, Dazlyn at his shoulder. "So is it safe for us to come in?"
 
-"No, we heard you," I said, and the words came out flat. "We know what you, we know what you're gonna do."
+The party ushered them in, and they rushed past us, their eyes wide at the chamber's splendor. The mosaic. The pillars. The skulls.
 
-He was going to tell them. He was going to walk straight up to Norbus and Dazlyn and deliver a full inventory of our find, and there was nothing I could do to stop him without making myself the villain.
+"Oh, it is as dazzling as we thought it would be." Norbus's gaze landed on the coffer in my hands. "Oh, is that where you found the treasure?"
 
-The door swung open and Norbus's voice came through. "So is it safe for us to come in?"
+Vukradin stepped forward. "Yeah. I'd like to clarify — this is not treasure. Okay. These are archeological artifacts."
 
-They rushed in — both of them, eyes wide, darting around the chamber. "Oh, it is as dazzling as we thought it would be." Then their eyes fell on the skulls, the coffer, the gemstones still sitting in my hands.
+Norbus's eyes widened. "Oh, no, no, no. These are cursed archeological artifacts."
 
-"Oh, is, is that where you found the treasure?"
+"Well," Vukradin said, "you will be handling them with the utmost care, I assume, and taking them to a museum and to a wizard to be uncursed."
 
-"Yeah," Vukradin said, stepping forward. "I, I'd like to clarify, these, these, this is not treasure. Okay. These are archeological artifacts that I—"
+The dwarves exchanged a look. A whisper passed between them. Then Norbus looked at the rest of us — at Brewbarry's bulk, at Valphine's drawn weapons, at my shell and the staff in my hand — and his voice went thin.
 
-"Oh, no, no, no." The voice came from the doorway — the GM's, but I didn't catch who'd spoken. "These are cursed archeological artifacts."
+"Uh, is everybody okay with this?"
 
-Vukradin didn't miss a beat. "Well, you will be handling them with the utmost care, I assume, and taking them to a museum and to a wizard to be uncursed and—"
+"Don't really know him," I said, and that wasn't a lie.
 
-I watched Norbus turn to Dazlyn. They whispered to each other, quick and low, and I could see them doing the math. Counting weapons. Counting the drow, the barbarian, the tortle who'd just opened a grave full of skulls.
+He turned back to Vukradin. "So, we could go and take these gems, and it would be okay with you?"
 
-"Uh, i- is he serious?" Norbus asked, his voice high and nervous.
+Valphine didn't answer. She just pulled out her dagger and started sharpening it, the slow scrape of steel on stone filling the silence.
 
-"Don't really know him," I said, and let the statement hang.
+I saw Norbus's eyes flick to her. To the drow. To the barbarian with Uthgardt tattoos. The room had gotten very small all of a sudden.
 
-Norbus's voice got smaller. "So, so we could go and take this?"
+Dazlyn thumped Norbus on the shoulder. "Hey, you know, I think the museum only needs half of it. Would that be okay?"
 
-I didn't answer.
+I watched Vukradin's face. The calculation happening behind his eyes. *Half.*
 
-"So we could go and take these gems, and it would be okay with you?"
+"What's gonna happen with the other half?"
 
-I watched Valphine reach for her dagger. The sound of metal on stone — a slow, deliberate sharpening — filled the room. Norbus seemed to shrink. The room was very small suddenly, and the dwarves were very aware of the armed, intimidating people standing around them.
+Dazlyn shrugged. "It's really — they're not of any archaeological interest."
 
-Dazlyn stepped forward. "Hey, you know, I think the museum only needs half of it. Would that be okay?"
+I turned to Vukradin, my voice dry. "So now you have gotten them, you know, free and clear of your conscience."
 
-"What's gonna happen with the other half?" Vukradin asked.
+He didn't answer. Brewbarry was pushing a rock with a stick in the corner, and Valphine was still sharpening her dagger, and Dazlyn was looking at her like she might evaporate if he blinked.
 
-"I, it's really, they're not of any a- a- archaeological interest. Would that be okay with, with everybody?"
+Brewbarry stopped pushing the rock. He looked at Valphine. "So, we're going to split the gems, right?"
 
-I looked at Vukradin. The compromise was landing — half for the museum, half for us — and it was landing because one of the dwarves had read the room better than Norbus had.
+Vukradin's head snapped up. "Guys, I'm getting the impression that they're not going to take these to a museum. I think they might just plan on keeping them for themselves."
 
-"So now you have gotten them, you know, free and clear of your conscience," I said, and the words came out dry, flat, a statement of fact rather than praise.
+Valphine's voice was calm, measured — the voice of someone who had seen this a hundred times before. "I think this is the normal way of these surface dwellers. Splitting things is just the normal way. Strange, but fine."
 
-Brewbarry was pushing a rock with a stick. The absurdity of it — the giant barbarian, heir to the Uthgardt tradition, poking at a piece of rubble while treasure was being divided — almost made me laugh. Dazlyn looked at Valphine, at the dagger still in her hand, at the Morning Lord's symbols she wore. The ethnic fear was there — you didn't need insight to see it. A drow in a dwarf crypt, surrounded by the bones of their ancestors, and no one was buying the Anchorites of Talos story.
+Vukradin muttered under his breath. "Daylords."
 
-"So, so we're going to split the gems, right?" Dazlyn asked Valphine.
-
-"Guys," Vukradin said, and his voice had that tone — the one that said he was about to state the obvious for the third time. "I'm, I'm getting the impression that, that they're not going to take these to a museum. I think they might just plan on keeping them for themselves."
-
-Valphine's voice cut through, smooth and rational. "I, I think this is the normal... Splitting things is just the normal way of these, like, surface dwellers. I mean, this is strange, but fine. Overbrighters."
-
-"Daylords," Vukradin said.
-
-Insight rolls went around the table. Mine came up equal to the number — a seven, which was nothing, which was I could not read these dwarves at all. The GM shook his head. "No, my insight was a seven as well."
-
-"So, so they take, so you get—"
+The negotiating went back and forth — eight and seven, then seven and eight, then someone corrected the math and it was eight and seven again with the party on the short end.
 
 "We get eight, they get seven?" I asked.
 
@@ -144,20 +126,16 @@ Insight rolls went around the table. Mine came up equal to the number — a seve
 
 "Aw, it would be nice. We need to get two gems and then, you know."
 
-The GM paused. "Actually make it eight."
+The number shifted again. Eight for us. Something. Not enough.
 
-"Like, fine. I mean, they can- There's four of us, two of them. We all get two."
+"Like, fine. I mean, there's four of us, two of them. We all get two."
 
-It was not what I wanted. But it was what we got.
+The dwarves took their share and headed for the door, Norbus calling back over his shoulder. "Well, if you find any other archeological finds, just —"
 
-Norbus and Dazlyn gathered their share quickly, eyes still darting around the room, and as they shuffled toward the door Norbus called back, "Well, uh, if you find any other archeological finds, uh, just, just—"
+"We found some skulls I'll let you know," I said. "Lots of skulls. I'll let you know."
 
-"We found some skulls I'll let you know," I said, watching them retreat. "Lots of skulls. I'll let you know."
+The door closed behind them. I looked at the seven gemstones in my hand, then at Vukradin, then at the scattered dwarf skulls still littering the floor.
 
-The door swung shut behind them.
+*Goddamn your moral streak.*
 
-I looked at the seven gemstones in my palm. Seventy gold pieces, divided four ways. Seventeen and a half each, if we split evenly. Not nothing. But not fifteen gemstones, either.
-
-*Goddamn your moral streak, Vukradin.*
-
-I pocketed the stones and said nothing.
+But I put the gems in my pouch anyway, and didn't say another word about it.
