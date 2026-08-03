@@ -7,8 +7,33 @@ docs/planning_extractions/
 docs/campaign_state_extracts/
 docs/party_extract/
 
+# Ensemble: docs/ensemble/merged_dossiers/ is THE entity source of record
+# as of the chapter 59 release. Everything else under docs/ensemble/ is the
+# machinery that produces it, and must stay out of the palace:
+#   per_chapter/    1071 per-chapter JSON extraction intermediates
+#   state_dossiers/  553 pre-merge, per-(type,subject) extractions that the
+#                        merged_dossiers/ files supersede
+#   *.json           merged.json alone is 7.7 MB of machine-readable facts
+# Mining these once took the abyss wing from 136 to 13,577 drawers in the
+# `general` room and pushed pipeline JSON above NPC dossiers on canon
+# queries. Do not remove these four rules without re-running the sanity
+# check in MEMPALACE_HORIZON.md.
+docs/ensemble/per_chapter/
+docs/ensemble/state_dossiers/
+docs/ensemble/*.json
+docs/ensemble/cleanup_worklist.md
+
 # Full module (too large — use 5etools MCP)
 docs/background/
+
+# Byte-identical duplicate of docs/background/out-of-the-abyss-inventory.md,
+# which the rule above already excludes. The copy defeated that exclusion and
+# ranked #1 on "Zuggtmoy wedding" during the chapter 59 rebuild, above the
+# actual entity dossiers. OOTA is in 5etools; query it there.
+# NOTE: docs/inventory/candlekeep_murders_module_inventory.md is deliberately
+# NOT excluded — Candlekeep Murders is a DMs Guild title (see config/refs.yaml)
+# that 5etools cannot serve, so its inventory earns its place in the palace.
+docs/inventory/out-of-the-abyss-inventory.md
 
 # Unsplit bible (chapters mined separately in narrative wing)
 docs/TheUnderdark.md
@@ -16,11 +41,43 @@ docs/TheUnderdark.md
 # Working/staging area (not canon yet)
 notes/
 
-# Party PC files (PCs, not NPCs)
-docs/npcs/daz.md
-docs/npcs/grygum.md
-docs/npcs/thorin.md
-docs/npcs/zalthir.md
+# Third NPC source, also superseded as of the chapter 59 release. docs/v2/
+# keeps its grounding docs (world_state / party / planning / campaign_state /
+# threads) in the palace — only its npcs/ subdir is excluded, so entities
+# come from exactly one place. v2/npcs/ was last updated 2026-06-29 and had
+# 124+ entities duplicated in merged_dossiers; leaving both mined meant a
+# ~4-week-stale dossier could outrank the current one on a query.
+# COVERAGE: verified good (2026-07-27). An earlier version of this comment
+# claimed `brother_vareth`, `asha_vandry` and `blind_monk` were lost by this
+# exclusion. RETRACTED — all three are reachable:
+#   brother_vareth -> npc_vareth.md          (honorific dropped in the merge)
+#   asha_vandry    -> npc_asha_vandree.md    (spelling normalised)
+#   blind_monk     -> no dossier, but the scene is in the narrative wing
+#                     (chapter_55_...) which CLAUDE.md treats as authoritative
+# The bad claim came from grepping the FULL v2 filename against
+# merged_dossiers. Grep the distinctive component (`vareth`, not
+# `brother_vareth`) — the merge drops honorifics and normalises spelling.
+# Also note v2/npcs/ stores variants of one entity as separate files
+# (vareth.md AND brother_vareth.md; asha.md, asha_vandree.md AND
+# asha_vandry.md), so a raw name-set diff overstates any gap. Query the
+# palace before declaring something missing. See MEMPALACE_HORIZON.md.
+docs/v2/npcs/
+
+# Superseded by docs/ensemble/merged_dossiers/ as of the chapter 59 release.
+# merged_dossiers/ carries 456 entities (npc/object/location/monster/faction)
+# against 214 here, so it is a superset, not a swap. The files stay in git as
+# working reference for the GM; they just no longer feed the palace.
+docs/npcs/
+
+# Party PC files (PCs, not NPCs). These moved with the source switch — the
+# same four PCs appear under merged_dossiers/, so the exclusion has to be
+# restated there or the source change silently readmits them.
+# Daz'issin is Daz's full drow name, not a separate NPC.
+docs/ensemble/merged_dossiers/npc_daz.md
+docs/ensemble/merged_dossiers/npc_daz_issin.md
+docs/ensemble/merged_dossiers/npc_grygum.md
+docs/ensemble/merged_dossiers/npc_thorin.md
+docs/ensemble/merged_dossiers/npc_zalthir.md
 
 # PC backstory/sheet files
 docs/daz.md
@@ -46,6 +103,33 @@ ui_config.yaml
 lib/
 entities.json
 mempalace.yaml
+
+# Non-prose formats. The palace exists for semantic search over prose;
+# machine-readable data should never compete with a dossier for a canon
+# query. Mining these put `aliases.json` — a bare alias map — above every
+# NPC dossier for "Zuggtmoy wedding" during the chapter 59 rebuild. A scan
+# of what the root mine actually ingested found 137 such files, 7.3 MB,
+# including 4 D&D Beyond PDFs and the 305 KB entity-triage state blob.
+# Query registry data through the `registry` MCP server, not the palace.
+*.json
+*.jsonl
+*.yaml
+*.yml
+*.txt
+*.csv
+*.log
+*.lock
+*.sqlite3
+*.sqlite3-shm
+*.sqlite3-wal
+*.pdf
+*.old
+*.v1
+
+# Experiment scratch. Already in .gitignore, but .mempalaceignore is a
+# separate list and does not inherit from it — the scratch/exp-*/ dirs were
+# being mined the whole time.
+scratch/
 
 # Operational
 logs/

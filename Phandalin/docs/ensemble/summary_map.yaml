@@ -1,0 +1,929 @@
+generated_at: '2026-08-02T14:15:43Z'
+chapters_glob: docs/chapters/chapter_*.md
+summaries_dir: summaries
+min_confidence: 0.75
+stats:
+  chapters_found: 46
+  summaries_found: 53
+  summaries_structured: 46
+  summaries_unstructured: 7
+  chapters_proposed: 9
+  chapters_unmatched: 37
+  chapters_preserved_approved: 0
+summaries:
+- id: summaries/old/20260318
+  date: 2026-03-18
+  structured: false
+  scene_count: 0
+- id: summaries/old/20260324
+  date: 2026-03-24
+  structured: false
+  scene_count: 0
+- id: summaries/old/20260325
+  date: 2026-03-25
+  structured: false
+  scene_count: 0
+- id: summaries/old/20260407
+  date: 2026-04-07
+  structured: false
+  scene_count: 0
+- id: summaries/old/20260414
+  date: 2026-04-14
+  structured: false
+  scene_count: 0
+- id: summaries/old/20260422
+  date: 2026-04-22
+  structured: false
+  scene_count: 0
+- id: summaries/old/20260429
+  date: &id001 2026-04-29
+  structured: true
+  scene_count: 8
+- id: summaries/old/20260505
+  date: &id002 2026-05-05
+  structured: true
+  scene_count: 5
+- id: summaries/old/20260512
+  date: &id003 2026-05-12
+  structured: true
+  scene_count: 5
+- id: summaries/old/20260519
+  date: &id004 2026-05-19
+  structured: true
+  scene_count: 5
+- id: summaries/old/20260526
+  date: &id005 2026-05-26
+  structured: true
+  scene_count: 6
+- id: summaries/20260602
+  date: 2026-06-02
+  structured: true
+  scene_count: 6
+- id: summaries/20260609
+  date: &id006 2026-06-09
+  structured: true
+  scene_count: 8
+- id: summaries/20260623
+  date: &id007 2026-06-23
+  structured: true
+  scene_count: 6
+- id: summaries/1
+  date: null
+  structured: true
+  scene_count: 1
+- id: summaries/10
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/11
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/12
+  date: null
+  structured: true
+  scene_count: 5
+- id: summaries/13
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/14
+  date: null
+  structured: true
+  scene_count: 4
+- id: summaries/15
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/16
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/17
+  date: null
+  structured: true
+  scene_count: 8
+- id: summaries/18
+  date: null
+  structured: true
+  scene_count: 5
+- id: summaries/19
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/2
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/20
+  date: null
+  structured: true
+  scene_count: 3
+- id: summaries/21
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/22
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/23
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/24
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/25
+  date: null
+  structured: true
+  scene_count: 2
+- id: summaries/26
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/27
+  date: null
+  structured: true
+  scene_count: 5
+- id: summaries/28
+  date: null
+  structured: true
+  scene_count: 3
+- id: summaries/29
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/3
+  date: null
+  structured: true
+  scene_count: 9
+- id: summaries/30
+  date: null
+  structured: true
+  scene_count: 5
+- id: summaries/31
+  date: null
+  structured: true
+  scene_count: 8
+- id: summaries/32
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/33
+  date: null
+  structured: true
+  scene_count: 10
+- id: summaries/34
+  date: null
+  structured: true
+  scene_count: 11
+- id: summaries/35
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/36
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/37
+  date: null
+  structured: false
+  scene_count: 0
+- id: summaries/38
+  date: null
+  structured: true
+  scene_count: 8
+- id: summaries/39
+  date: null
+  structured: true
+  scene_count: 9
+- id: summaries/4
+  date: null
+  structured: true
+  scene_count: 7
+- id: summaries/5
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/6
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/7
+  date: null
+  structured: true
+  scene_count: 6
+- id: summaries/8
+  date: null
+  structured: true
+  scene_count: 4
+- id: summaries/9
+  date: null
+  structured: true
+  scene_count: 5
+entries:
+- chapter: chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th.md
+  chapter_index: 1
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260318
+- chapter: chapter_02_arrival_in_phandalin.md
+  chapter_index: 2
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (6 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/old/20260505
+      score: 0.407
+    nearest_by_position: summaries/old/20260318
+- chapter: chapter_03_to_find_a_shapeshifter.md
+  chapter_index: 3
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (1 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/old/20260505
+      score: 0.391
+    nearest_by_position: summaries/old/20260324
+- chapter: chapter_04_the_bard_the_kings_and_the_carver.md
+  chapter_index: 4
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (3 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/12
+      score: 0.357
+    nearest_by_position: summaries/old/20260324
+- chapter: chapter_05_saving_adabra.md
+  chapter_index: 5
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (2 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/11
+      score: 0.33
+    nearest_by_position: summaries/old/20260324
+- chapter: chapter_06_vukradin_rank_cheval.md
+  chapter_index: 6
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (2 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/10
+      score: 0.342
+    nearest_by_position: summaries/old/20260324
+- chapter: chapter_07_conflict_free_gold_a_curious_side_quest_and_a_delightful_ambush.md
+  chapter_index: 7
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (2 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/11
+      score: 0.378
+    nearest_by_position: summaries/old/20260325
+- chapter: chapter_08_the_tower_of_storms_echoes_art_and_the_serpent_s_coil.md
+  chapter_index: 8
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260325
+- chapter: chapter_09_the_beating_heart_of_the_storm_and_whispers_from_the_deep.md
+  chapter_index: 9
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260325
+- chapter: chapter_10_phandalin_old_debts_and_new_suspicions.md
+  chapter_index: 10
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (2 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/11
+      score: 0.333
+    nearest_by_position: summaries/old/20260407
+- chapter: chapter_11_the_stag_the_brambles_the_wolves_and_the_pool.md
+  chapter_index: 11
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260407
+- chapter: chapter_12_naturalists_and_interventionists.md
+  chapter_index: 12
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260407
+- chapter: chapter_13_confronting_adabra_and_learning_of_the_interventionists.md
+  chapter_index: 13
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260407
+- chapter: chapter_14_the_butterskull_quest.md
+  chapter_index: 14
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (2 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/33
+      score: 0.341
+    nearest_by_position: summaries/old/20260414
+- chapter: chapter_15_freeing_big_al_petunia_and_watching_a_ranch_burn.md
+  chapter_index: 15
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (1 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/33
+      score: 0.341
+    nearest_by_position: summaries/old/20260414
+- chapter: chapter_16_deals_with_harbin_and_sister_kayla_and_no_deal_with_jenna.md
+  chapter_index: 16
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (1 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/33
+      score: 0.341
+    nearest_by_position: summaries/old/20260414
+- chapter: chapter_17_blood_money_clean_gold_and_fine_wine.md
+  chapter_index: 17
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (1 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/10
+      score: 0.378
+    nearest_by_position: summaries/old/20260422
+- chapter: chapter_18_falcon_s_hoard_and_hidden_truths.md
+  chapter_index: 18
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260422
+- chapter: chapter_19_to_the_loggers_camp.md
+  chapter_index: 19
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (1 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/33
+      score: 0.333
+    nearest_by_position: summaries/old/20260422
+- chapter: chapter_20_the_orc_ambush.md
+  chapter_index: 20
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260422
+- chapter: chapter_21_the_spirals_grasp.md
+  chapter_index: 21
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260429
+- chapter: chapter_22_when_boars_are_more_than_just_boars.md
+  chapter_index: 22
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260429
+- chapter: chapter_23_from_retreat_to_redemption_and_cheese.md
+  chapter_index: 23
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (1 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/1
+      score: 0.15
+    nearest_by_position: summaries/old/20260429
+- chapter: chapter_24_the_ale_the_ex_and_axeholm.md
+  chapter_index: 24
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260505
+- chapter: chapter_25_where_reality_unravels_breaching_axelholm.md
+  chapter_index: 25
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260505
+- chapter: chapter_26_from_out_of_phase_dwarves_to_mechanical_mysteries.md
+  chapter_index: 26
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260505
+- chapter: chapter_27_sisters_against_the_machine.md
+  chapter_index: 27
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260512
+- chapter: chapter_28_when_the_machine_screams_a_family_affair.md
+  chapter_index: 28
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260512
+- chapter: chapter_29_drones_dread_and_dangerous_deliveries.md
+  chapter_index: 29
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260512
+- chapter: chapter_30_a_cheesy_compromise_in_the_mine.md
+  chapter_index: 30
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (0 chapter heading(s)
+      found)
+    best_scored_candidate: null
+    nearest_by_position: summaries/old/20260512
+- chapter: chapter_31_brewbarry_s_bloody_axe_and_the_beer_blight.md
+  chapter_index: 31
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (7 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/13
+      score: 0.376
+    nearest_by_position: summaries/old/20260519
+- chapter: chapter_32_a_grave_new_friend_and_a_glimmering_blade.md
+  chapter_index: 32
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (7 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/13
+      score: 0.376
+    nearest_by_position: summaries/old/20260519
+- chapter: chapter_33_silencing_the_siren_s_warning.md
+  chapter_index: 33
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (6 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/13
+      score: 0.37
+    nearest_by_position: summaries/old/20260519
+- chapter: chapter_34_the_one_hit_point_principle.md
+  chapter_index: 34
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (9 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/34
+      score: 0.646
+    nearest_by_position: summaries/old/20260526
+- chapter: chapter_35_the_carver_is_not_the_carver.md
+  chapter_index: 35
+  summary: summaries/35
+  summary_date: null
+  confidence: 0.953
+  approved: false
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: The Ascent to Icespire Hold
+      summary_scene: 1. Ascent to Icespire Hold
+      score: 0.923
+    - chapter_heading: Bypassing the Gatehouse
+      summary_scene: 2. Bypassing the Gatehouse
+      score: 0.958
+    - chapter_heading: Soma Scouts the Roof
+      summary_scene: 3. Soma Scouts the Roof
+      score: 0.952
+    - chapter_heading: Confrontation at the Summoning Circle
+      summary_scene: 4. Confrontation at the Summoning Circle
+      score: 0.974
+    - chapter_heading: Battle Against Cryovain
+      summary_scene: 6. Battle Against Cryovain
+      score: 0.958
+    coverage: 5/5 heading(s) scored >= 0.6
+- chapter: chapter_36_a_dragon_defeated_a_bard_tempted_a_barbarian_s_vengeance.md
+  chapter_index: 36
+  summary: summaries/36
+  summary_date: null
+  confidence: 1.0
+  approved: false
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: The Dragon's Mountain Fortress**
+      summary_scene: The Dragon's Mountain Fortress
+      score: 1.0
+    - chapter_heading: The Fall of Cryovain**
+      summary_scene: The Fall of Cryovain
+      score: 1.0
+    - chapter_heading: The Spoils of Victory**
+      summary_scene: The Spoils of Victory
+      score: 1.0
+    - chapter_heading: Unwelcome Claimants**
+      summary_scene: Unwelcome Claimants
+      score: 1.0
+    - chapter_heading: Skirmish in the Fortress**
+      summary_scene: Skirmish in the Fortress
+      score: 1.0
+    - chapter_heading: A Message from the Gauntlet**
+      summary_scene: A Message from the Gauntlet
+      score: 1.0
+    coverage: 6/6 heading(s) scored >= 0.6
+- chapter: chapter_37_a_gem_of_a_problem_a_rat_of_a_solution.md
+  chapter_index: 37
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (5 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/old/20260505
+      score: 0.465
+    nearest_by_position: summaries/old/20260526
+- chapter: chapter_38_the_intervention.md
+  chapter_index: 38
+  summary: null
+  confidence: 0.0
+  approved: false
+  evidence:
+    method: none
+    reason: no summary scored >= 0.75 on scene-heading overlap (8 chapter heading(s)
+      found)
+    best_scored_candidate:
+      summary: summaries/38
+      score: 0.652
+    nearest_by_position: summaries/20260602
+- chapter: chapter_39_the_charge_of_the_light_brigade.md
+  chapter_index: 39
+  summary: summaries/old/20260429
+  summary_date: *id001
+  confidence: 1.0
+  approved: true
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: A Petty Repayment
+      summary_scene: A Petty Repayment
+      score: 1.0
+    - chapter_heading: Return to Phandalin
+      summary_scene: Return to Phandalin
+      score: 1.0
+    - chapter_heading: Planning the Next Quest
+      summary_scene: Planning the Next Quest
+      score: 1.0
+    - chapter_heading: Journey into the Woods
+      summary_scene: Journey into the Woods
+      score: 1.0
+    - chapter_heading: Lore of the Storm God
+      summary_scene: Lore of the Storm God
+      score: 1.0
+    - chapter_heading: The Wildcat Loggers
+      summary_scene: The Wildcat Loggers
+      score: 1.0
+    - chapter_heading: The Cursed Clearing
+      summary_scene: The Cursed Clearing
+      score: 1.0
+    - chapter_heading: The Ridge Encounter
+      summary_scene: The Ridge Encounter
+      score: 1.0
+    coverage: 8/8 heading(s) scored >= 0.6
+- chapter: chapter_40_through_the_valley_to_the_top_of_the_hill.md
+  chapter_index: 40
+  summary: summaries/old/20260505
+  summary_date: *id002
+  confidence: 1.0
+  approved: true
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: Recap And Battle Setup
+      summary_scene: Recap and Battle Setup
+      score: 1.0
+    - chapter_heading: The Battle For The Circle Of Thunder
+      summary_scene: The Battle for the Circle of Thunder
+      score: 1.0
+    - chapter_heading: The Rout Of The Talosians
+      summary_scene: The Rout of the Talosians
+      score: 1.0
+    - chapter_heading: The Conversion Of Prutha
+      summary_scene: The Conversion of Prutha
+      score: 1.0
+    - chapter_heading: Arrival At The Circle Of Thunder
+      summary_scene: Arrival at the Circle of Thunder
+      score: 1.0
+    coverage: 5/5 heading(s) scored >= 0.6
+- chapter: chapter_41_unraveling_the_storm_god_s_secrets.md
+  chapter_index: 41
+  summary: summaries/old/20260512
+  summary_date: *id003
+  confidence: 1.0
+  approved: true
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: Pre Battle Observations At The Circle Of Thunder
+      summary_scene: Pre-Battle Observations at the Circle of Thunder
+      score: 1.0
+    - chapter_heading: The Battle At The Circle Of Thunder
+      summary_scene: The Battle at the Circle of Thunder
+      score: 1.0
+    - chapter_heading: Aftermath And Ideological Clashes
+      summary_scene: Aftermath and Ideological Clashes
+      score: 1.0
+    - chapter_heading: Exploring The Caves Of The Circle Of Thunder
+      summary_scene: Exploring the Caves of the Circle of Thunder
+      score: 1.0
+    - chapter_heading: The Final Cave And The Map Fragment
+      summary_scene: The Final Cave and the Map Fragment
+      score: 1.0
+    coverage: 5/5 heading(s) scored >= 0.6
+- chapter: chapter_42_a_storm_is_coming.md
+  chapter_index: 42
+  summary: summaries/old/20260519
+  summary_date: *id004
+  confidence: 1.0
+  approved: true
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: The Spoils of War
+      summary_scene: The Spoils of War
+      score: 1.0
+    - chapter_heading: Planning the Next Move
+      summary_scene: Planning the Next Move
+      score: 1.0
+    - chapter_heading: Arrival at Falcon's Hunting Lodge
+      summary_scene: Arrival at Falcon's Hunting Lodge
+      score: 1.0
+    - chapter_heading: Negotiations at the Hunting Lodge
+      summary_scene: Negotiations at the Hunting Lodge
+      score: 1.0
+    - chapter_heading: The Siege of Falcon's Hunting Lodge
+      summary_scene: The Siege of Falcon's Hunting Lodge
+      score: 1.0
+    coverage: 5/5 heading(s) scored >= 0.6
+- chapter: chapter_43_the_aasimar_has_landed.md
+  chapter_index: 43
+  summary: summaries/old/20260526
+  summary_date: *id005
+  confidence: 1.0
+  approved: true
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: The Battle Begins — Charms and Positioning
+      summary_scene: The Battle Begins — Charms and Positioning
+      score: 1.0
+    - chapter_heading: The Battle at the Lodge — Silence and Lightning
+      summary_scene: The Battle at the Lodge — Silence and Lightning
+      score: 1.0
+    - chapter_heading: The Chaotic Melee — Allies and Enemies Clash
+      summary_scene: The Chaotic Melee — Allies and Enemies Clash
+      score: 1.0
+    - chapter_heading: Vorga's War Cry and the Tide Turns
+      summary_scene: Vorga's War Cry and the Tide Turns
+      score: 1.0
+    - chapter_heading: The Fall of Gorthok and the Last Anchorite
+      summary_scene: The Fall of Gorthok and the Last Anchorite
+      score: 1.0
+    - chapter_heading: The Battle's End and the Orcish Alliance
+      summary_scene: The Battle's End and the Orcish Alliance
+      score: 1.0
+    coverage: 6/6 heading(s) scored >= 0.6
+- chapter: chapter_44_the_unfated_routine_of_rimardo_and_corrin.md
+  chapter_index: 44
+  summary: summaries/20260602
+  summary_date: 2026-06-02
+  confidence: 0.0
+  approved: true
+  evidence:
+    method: h1_identity
+    reason: |
+      Summary H1 'Chapter 44 The Unfated Routine of Rimardo and Corrin' names
+      this chapter explicitly. Scene-heading overlap is unusable here: this
+      chapter file's '## ' headings are the summary section schema (Summary /
+      Memorable Moments / Scenes / Locations / Items / Spells / NPCs), not
+      scene titles, so the scorer ranked noise (summaries/13 at 0.376).
+      Session workspace holds the VTT and 6/6 reviewed scene extractions, so
+      the ladder resolves this join to kind=scenes, not summary.
+    ruled_by: GM 2026-08-02
+- chapter: chapter_45_victory_lap.md
+  chapter_index: 45
+  summary: summaries/20260609
+  summary_date: *id006
+  confidence: 1.0
+  approved: true
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: The Battle of the Collapsed Staircase
+      summary_scene: The Battle of the Collapsed Staircase
+      score: 1.0
+    - chapter_heading: Clearing the Rafters
+      summary_scene: Clearing the Rafters
+      score: 1.0
+    - chapter_heading: Secrets of the Scholar's House
+      summary_scene: Secrets of the Scholar's House
+      score: 1.0
+    - chapter_heading: The Twig Blight Ambush
+      summary_scene: The Twig Blight Ambush
+      score: 1.0
+    - chapter_heading: Looting and the Zone of Truth
+      summary_scene: Looting and the Zone of Truth
+      score: 1.0
+    - chapter_heading: Return to Falcon's Lodge
+      summary_scene: Return to Falcon's Lodge
+      score: 1.0
+    - chapter_heading: The Missionary Mission at Icepire Hold
+      summary_scene: The Missionary Mission at Icepire Hold
+      score: 1.0
+    - chapter_heading: The Gold Mine Dividend
+      summary_scene: The Gold Mine Dividend
+      score: 1.0
+    coverage: 8/8 heading(s) scored >= 0.6
+- chapter: chapter_46_universal_basic_treasure.md
+  chapter_index: 46
+  summary: summaries/20260623
+  summary_date: *id007
+  confidence: 1.0
+  approved: true
+  evidence:
+    method: scene_heading_overlap
+    matched:
+    - chapter_heading: Return to Phandalin
+      summary_scene: Return to Phandalin
+      score: 1.0
+    - chapter_heading: A Hero's Welcome at Stonehill Inn
+      summary_scene: A Hero's Welcome at Stonehill Inn
+      score: 1.0
+    - chapter_heading: The Universal Basic Treasure Proclamation
+      summary_scene: The Universal Basic Treasure Proclamation
+      score: 1.0
+    - chapter_heading: Cheese, Business Plans, and Departure Preparations
+      summary_scene: Cheese, Business Plans, and Departure Preparations
+      score: 1.0
+    - chapter_heading: Arrival in Neverwinter
+      summary_scene: Arrival in Neverwinter
+      score: 1.0
+    - chapter_heading: The Exotic Armorer of Neverwinter
+      summary_scene: The Exotic Armorer of Neverwinter
+      score: 1.0
+    coverage: 6/6 heading(s) scored >= 0.6

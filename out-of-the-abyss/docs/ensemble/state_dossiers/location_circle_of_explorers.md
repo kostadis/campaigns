@@ -1,5 +1,5 @@
 ---
-name: Circle of Explorers
+name: Circle of Explorers of Neverlight Grove
 type: location
 n_facts: 2
 chapters: 33-33

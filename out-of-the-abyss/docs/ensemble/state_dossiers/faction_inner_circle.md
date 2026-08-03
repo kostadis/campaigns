@@ -1,5 +1,5 @@
 ---
-name: Inner Circle
+name: Inner Circle of Neverlight Grove
 type: faction
 n_facts: 2
 chapters: 31-31

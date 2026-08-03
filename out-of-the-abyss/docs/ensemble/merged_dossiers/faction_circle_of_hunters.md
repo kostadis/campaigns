@@ -1,5 +1,5 @@
 ---
-name: Circle of Hunters
+name: Circle of Hunters of Neverlight Grove
 type: faction
 n_facts: 3
 chapters: 31-31
@@ -25,7 +25,7 @@ chapters: 31-31
 <!-- source: location_circle_of_hunters.md -->
 
 ---
-name: Circle of Hunters
+name: Circle of Hunters of Neverlight Grove
 type: location
 n_facts: 1
 chapters: 31-31

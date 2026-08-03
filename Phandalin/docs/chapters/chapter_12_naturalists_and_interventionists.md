@@ -1,6 +1,10 @@
-# Chapter 11 Naturalists and Interventionists
+---
+chapter: 12
+title: Naturalists and Interventionists
+---
+# Chapter 12 Naturalists and Interventionists
 
-### Soma
+## 12.01 Soma 10-02-Taraskh 1495
 
 The air itself tastes wrong as we push through the last line of dense trees and step into the clearing. It’s perhaps sixty feet across, but something here is fundamentally off. My fur, thick and protective in this bear form, prickles with an unease that goes beyond simple predator instinct. The woods surrounding us don’t lean; they *twist*, their bark gleaming like polished obsidian under the faint, sickly light filtering through a canopy that looks less broken and more *fractured*.
 
@@ -28,7 +32,7 @@ Adabra said that there was a blight and that the interventionist had to be stopp
 
 Is this strange magic the blight? Where are those who are intervening? Are they the Emerald Enclave?
 
-### Valphine
+## 12.02 Valphine 10-02-Taraskh 1495
 
 My drow eyes, ever keen to the subtle distortions of reality, watch Soma – still in her bulky bear form – lumber towards the blighted brambles. Her brute force approach is, at least, direct, a refreshing change from Vukradin's performative posturing. The thorny tendrils lash out, predictably. I see them strike her, and though she is a sturdy creature, I note the faint wince, the minor disruption to her composure as four points of damage are inflicted. It is a taste of pain, perhaps not gloriously searing, but present nonetheless.
 
@@ -48,7 +52,7 @@ I unleash a Guiding Bolt, a focused spear of pure light, directly at the still-r
 
 A tactical advantage. A demonstration of focused, directed pain. This is the beauty of Lathander's power as I perceive it: not a gentle warmth, but a potent, purifying fire that cuts through corruption and illuminates the path to victory. It is gloriously painful in the lights, a sensation that still thrills me to my core. The surface dwellers may not understand my devotion, but its efficacy in battle is undeniable.
 
-###  Vukradin
+## 12.03 Vukradin 10-02-Tarksh 1495
 
 The grotesque dance continues, a discordant movement in this wretched grove. My *Starry Whip*, a personal composition of biting starlight, lashes out at the corrupted Treant. A satisfying, if not exactly operatic, blow. It connects, which is always preferable to a mere command performance.
 
@@ -64,7 +68,7 @@ It's my turn again. The second enclave warrior, poor soul, is at death's door. P
 
 Brewbarry follows, who, for all of his behavior, seems to have a deep wellspring of wisdom, attempts a ritual... Another success. Three successes, one failure. We're practically proficient\! But then Soma, with a clumsy flourish, tries and fails. Our second ritual failure. Before I can even process the dramatic irony, Soma and the first Enclave Warrior deliver the final, unceremonious blows to the Treant. The corrupted guardian falls, not with a bang, but with a whimper of poison and arrows—a rather inelegant final cadenza.
 
-### Soma 
+## 12.04 Soma 10-02-Taraskh 1495
 
 The tree dies. And the ritual is not yet finished. I see one of the stones. I will do the ritual.
 

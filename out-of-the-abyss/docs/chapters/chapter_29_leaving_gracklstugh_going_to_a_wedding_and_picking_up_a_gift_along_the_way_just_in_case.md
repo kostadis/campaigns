@@ -38,7 +38,7 @@ He raises his head, and I can’t help but notice the second chin.
  He then declares to all, "The keepers in the flame and their short-sightedness would have you waste precious time navigating checkpoints and patrols." And then he surprises me when he offers his "express service to where you must go next". 
 
 
-I look at him, confused. And he shouts, playfully and authoritatively, "Climb aboard, unless you wish to question the will of your wormsmith". And I start to wonder. Themberchaud’s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter. I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous. 
+I look at him, confused. And he shouts, playfully and authoritatively, "Climb aboard, unless you wish to question the will of your Wyrmsmith". And I start to wonder. Themberchaud’s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter. I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous. 
 
 
 But enough about that. 
@@ -86,7 +86,7 @@ Grygum asks the dragon, “Where do you think we should go, oh Great Themberchau
 As I guessed, he has no idea what to do. He pouts, “Well, I have many agents, and they have many places to look. You're my most recent agents, and you've been out and about for a few days. Where do you think we should be looking for information?
 
 
-I again insist that we should go to the Dark Lake District, and again, he seems unconvinced. It’s his ego. 
+I again insist that we should go to the Darklake District, and again, he seems unconvinced. It’s his ego. 
 
 
 “Are you suggesting I am missing something important?” 

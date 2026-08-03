@@ -1,5 +1,5 @@
 ---
-name: Circle of Hunters
+name: Circle of Hunters of Neverlight Grove
 type: location
 n_facts: 1
 chapters: 31-31

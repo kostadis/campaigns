@@ -1,8 +1,10 @@
-# Chapter 06 Conflict-free gold, a curious side quest, and a delightful ambush. 
+---
+chapter: 7
+title: Conflict-free gold, a curious side quest, and a delightful ambush.
+---
+# Chapter 7 Conflict-free gold, a curious side quest, and a delightful ambush. 
 
-## 05-01-Taraskh 
-
-### Vukradin
+## 07.01 Vukradin 03-02-Taraskh 1495
 
 And so we leave for the Tower of Storms. As we round a bend, we spot a small, overturned trade cart, partially obscured by thick undergrowth. Huddled nervously behind it are two figures – a middle-aged human merchant, Elara, and her groom, Jarek. They look visibly shaken and disheveled, their pack horses nowhere in sight.
 
@@ -44,9 +46,9 @@ Upon Brewbarry's return with the horse, Elara is relieved. She thanks me for our
 
 I point out to Valphine, “This\! This is Fair Trade and Conflict Free gold." 
 
-The rest of the group wants to press on, but I insist that we return Elara and Jarke to Phandalin. Although there is grumbling, we do just that. 
+The rest of the group wants to press on, but I insist that we return Elara and Jarek to Phandalin. Although there is grumbling, we do just that. 
 
-Upon arrival, we see Ser Kaelen Thorne, who is still in Phandalin and I explain everything to him. He seems pleased that I am not just focused on the big picture, but also doing good deeds, and how that aligns with the broader values of the Order of the Gauntlent. He ends with, “Bringing you into the fold was the right thing to do."
+Upon arrival, we see Ser Kaelen Thorn, who is still in Phandalin and I explain everything to him. He seems pleased that I am not just focused on the big picture, but also doing good deeds, and how that aligns with the broader values of the Order of the Gauntlet. He ends with, “Bringing you into the fold was the right thing to do."
 
 Compliments are always good. 
 
@@ -78,9 +80,7 @@ Adabra mutters something about interventionists and the Emerald Enclave. Soma li
 
 I hope she asked for money. 
 
-##  08-01 Taraskh 
-
-###  Valphine 
+## 07.02 Valphine 07-02-Taraskh
 
 The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our trek towards the Tower of Storms. It was a journey of a few days, each one a test of my patience for surface world banalities.
 

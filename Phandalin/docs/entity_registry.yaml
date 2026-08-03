@@ -48,7 +48,6 @@ entities:
   aliases:
   - King Gnerkli
   - king_gnercli
-  - Gnercli
   note: Rock gnome king of Gnomengarde, married co-ruler, held prisoner by Korboz
 - name: Halia Thornton
   type: npc
@@ -67,8 +66,6 @@ entities:
   type: npc
   aliases:
   - Kaella
-  - Sister Kayla
-  - Sister Kella
   note: Recurring NPC; appears across many locations including Neverwinter, Icespire
     Hold, Glacier of Whispers, Falcon's Hunting Lodge, Phandalin, and Woodland Manse
     (ch 16–44)
@@ -78,7 +75,6 @@ entities:
   - Townmaster Harbin Wester
   - Townmaster Wester
   - Harbin
-  - Harbin Townmaster
   - Townmaster
   - Townmaster Harbin
   note: Townmaster of Phandalin, half-brother of Tibor Wester, arranges supply deliveries
@@ -104,7 +100,6 @@ entities:
   type: npc
   aliases:
   - Spider Man
-  - Toblen Stonehill Spiderman
   - Toblen
   note: Proprietor of the Stonehill Inn; native of Triboar who came to Phandalin to
     prospect
@@ -221,8 +216,6 @@ entities:
   note: Elderly, world-weary cook and retainer at Falcon's Hunting Lodge
 - name: Dabbledob
   type: npc
-  aliases:
-  - Dabblebob
   note: Female rock gnome recluse, one of Gnomengarde's foremost inventors, holds
     treasury key
 - name: Dazlyn Grayshard
@@ -240,8 +233,6 @@ entities:
   note: Named sidekick character available to join the party
 - name: Fibblestib
   type: npc
-  aliases:
-  - Fiddlestib
   note: Male rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury
     key
 - name: Galandro Luna
@@ -306,7 +297,6 @@ entities:
   type: npc
   aliases:
   - Tibor
-  - Tribar Wester
   note: Human commoner, craven opportunist running the loggers' camp, half-brother
     of Phandalin's townmaster Harbin Wester
 - name: Ulla
@@ -621,8 +611,6 @@ entities:
     owned by Alfonse Kalazorn
 - name: Conyberry
   type: location
-  aliases:
-  - Coneyberry
   note: Location of the old shrine the wererats previously used as a lair before being
     displaced by orcs
 - name: Crags
@@ -698,8 +686,6 @@ entities:
     of the Apocalypse
 - name: Axeholm
   type: location
-  aliases:
-  - Axelholm
   note: Abandoned dwarven fortress carved into a mountain fifteen miles south of Phandalin,
     now haunted by a banshee and infested with ghouls
 - name: Dwarven Excavation
@@ -1121,8 +1107,6 @@ entities:
     1451 DR cataclysm
 - name: Rsolk
   type: npc
-  aliases:
-  - Rsalk
   note: One-eyed wererat leader of the Dead Rats thieves' guild, uses Neverwinter
     as a Sword Coast criminal hub
 - name: Soman Galt
@@ -1146,7 +1130,6 @@ entities:
 - name: Vukradin
   type: npc
   aliases:
-  - Vukardin
   - Bard
   note: Bard (Phandalin party); Exile Aesthetic's unwilling authentic center; structural
     receiver for the Counterforce; subject of Commission studio offer
@@ -1291,8 +1274,6 @@ entities:
   note: Half-orc paladin of Tyr; Order of the Gauntlet contact for the Masonry quest
 - name: Elara Seasong Meliamne
   type: npc
-  aliases:
-  - Elara Seasong Meliame
   note: Killed by House Margaster approximately 8 days before the party arrives in
     Neverwinter (session Ch. 46); date to be confirmed
 - name: Aganazzar
@@ -1624,8 +1605,6 @@ entities:
     and the carved stone plaque commemorating the giant-mortal alliance
 - name: River District
   type: location
-  aliases:
-  - River's District
   note: District that declined, causing older merchants to relocate to the Seven Suns
     Coster Market
 - name: School of Wizardry
@@ -1887,8 +1866,6 @@ entities:
     Rosene; meet in the Driftwood Tavern basement
 - name: House Margaster
   type: faction
-  aliases:
-  - House Maragaster
   note: Noble house that stepped in to fill the distribution gap after the Manifold
     went dark; has relationship with the Commission's Harbor authority; killed Elara
     Seasong Meliamne
@@ -2107,15 +2084,12 @@ entities:
 - name: Ser Kaelen
   type: npc
   aliases:
-  - Ser Kaelen Thorn
   - Ser Kaelen Thorne
-  - Sir Kaelen
   - Kaelen
 - name: Jenna
   type: npc
   aliases:
   - Jenna Roscoe
-  - Jena Roscoe
   - woman
   - the woman in green
 - name: The Chief Accountant
@@ -2136,14 +2110,8 @@ entities:
   aliases:
   - The Orc With The Necklace Of Bones Shrimpy
   - The Orc with the Necklace of Bones
-- name: Miral
-  type: npc
-  aliases:
-  - Miral The Self
 - name: Meril
   type: npc
-  aliases:
-  - Meryl
 - name: Valphine
   type: npc
   aliases:
@@ -2153,81 +2121,76 @@ entities:
     sunlight, and became a devoted follower of Lathander [Campaign Canon character]
 - name: Aldric Stone Path
   type: npc
-- name: aletra
+- name: Backes Dunfield
   type: npc
-- name: backes_dunfield
-  type: npc
-- name: borg_the_hammer
+- name: Borg the Hammer
   type: npc
   aliases:
   - Borg
-- name: cooragh_struckt
+- name: Cooragh Struckt
   type: npc
-- name: corbin
+- name: Corbin
   type: npc
-- name: daran_edermath_silverleaf
+- name: Daran Edermath
   type: npc
-- name: delaan_winterhound
+  aliases:
+  - Silverleaf
+  note: >-
+    Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling
+    confirmed against docs/NeverwinterExpansionismandtheNorth.md ("Later, I would
+    learn his name, Daran Edermath, but he's known as Silverleaf"); renamed from the
+    slug canonical daran_edermath_silverleaf 2026-08-03.
+- name: Delaan Winterhound
   type: npc
 - name: Drubbak
   type: npc
 - name: Dwolin the Grout
   type: npc
-- name: elara
+- name: Jarek
   type: npc
-- name: jarek
+- name: Jax
   type: npc
-- name: jax
-  type: npc
-- name: locutus
+- name: Locutus
   type: npc
 - name: Lord Cassian Meliamne
   type: npc
-  aliases:
-  - Lord Cassian Meliame
-- name: lord_halueth_verres
+- name: Lord Halueth Verres
   type: npc
-- name: lyra
+- name: Lyra
   type: npc
-- name: marian
+- name: Marian
   type: npc
-- name: martisha_vinetalker
+- name: Martisha Vinetalker
   type: npc
-- name: out_of_phase_dwarves_axelholm_inhabitants
+- name: Out-of-Phase Dwarves (Axeholm)
   type: npc
-- name: qelline_alderleaf
+- name: Qelline Alderleaf
   type: npc
 - name: Reidoth
   type: npc
-- name: rot_tusk_ogre
+- name: Rot-Tusk Ogre
   type: npc
   aliases:
   - Rot-Tusk Ogres
-- name: runa
-  type: npc
-- name: skippy
+- name: Skippy
   type: npc
 - name: Soma
   type: npc
-- name: sridar
+- name: Sridar
   type: npc
-- name: sylvine_wintermoon
+- name: Teega the Smith
   type: npc
-  aliases:
-  - Sylvine
-- name: teega_the_smith
+- name: The Anchorite Half-Orc
   type: npc
-- name: the_anchorite_half_orc
+- name: The Cult Fanatic
   type: npc
-- name: the_cult_fanatic
+- name: The Dwarven King
   type: npc
-- name: the_dwarven_king
+- name: The Orc Scout
   type: npc
-- name: the_orc_scout
+- name: The Stag
   type: npc
-- name: the_stag
-  type: npc
-- name: thomas
+- name: Thomas
   type: npc
 - name: Vorga
   type: npc
@@ -2237,14 +2200,28 @@ entities:
   - mentor's staff
   note: Soma's mentor Meril's sentient staff; grows leaves; contests Druid Council
     custody. Distinct from the ch45 Staff of Bird Calls.
+- name: Netheril
+  type: concept
+  source: summaries/20250805-chapter-07/Chapter 07.md
+  note: Ancient Faerunian empire; referenced when describing the origin of a god later
+    identified as an aspect of Gruumsh (Ch.7)
+- name: Tortle
+  type: concept
+  source: summaries/20250805-chapter-07/Chapter 07.md
+  note: Playable race; Soma is a Tortle druid
+- name: Crabby
+  type: npc
+  source: summaries/20250805-chapter-07/Chapter 07.md
+  note: Name the party gave the giant intelligent crab at the Tower of Storms; speaks
+    Common, was gifted intelligence by the sea elf Miraal and remains loyal to her;
+    offers to salvage wrecks (incl. the Star-Crossed Lover) in exchange for laying
+    Miraal's spirit to rest
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls
 rejected_aliases:
 - - Corbin
   - Corwin
-- - Elara
-  - Elara Seasong Meliamne
 - - Meril
   - Miral
 - - Ser Kaelen
@@ -2267,18 +2244,17 @@ rejected_aliases:
   - The narrator
 - - lyra
   - Ilvara
-  - elara
   - Elara Seasong Meliamne
 - - corbin
   - Harbin Wester
   - Corrin
 - - Vorga
   - Horia Stonetallow
-  - borg_the_hammer
+  - Borg the Hammer
   - Vukradin
   - Vorga's elder
 - - ogre
-  - rot_tusk_ogre
+  - Rot-Tusk Ogre
 - - orcs
   - six dead orcs
 - - Cryovain

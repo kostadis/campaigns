@@ -1,6 +1,10 @@
-# Chapter 12 Confronting Adabra and learning of the Interventionists.  
+---
+chapter: 13
+title: Confronting Adabra and learning of the Interventionists.
+---
+# Chapter 13 Confronting Adabra and learning of the Interventionists.  
 
-### Soma
+## 13.01 Soma 01-02 Taraskh 1495
 
 I feel like a shell sprout, wet from the nest, a child that has been taken advantage of. I trusted Adabra. And she took advantage of my trust to get me to stop the people who were trying to save our plane. 
 
@@ -44,9 +48,7 @@ When Lyra is about to go on some long-winded rant, Vukradin again manages to def
 
 But this time, Lyra is fed up and shouts, “If you cannot see the evil this woman represents and her fanaticism and its danger, then you are all fools.” 
 
-### Vukradin
-
-### 
+## 13.02 Vukradin 01-03 Taraskh 1495
 
 I just want to be friends with everyone. I don’t understand why people are so full of hate. I mean, I used to think that the key to everything was to play music that was better than my audience, but now I realize that playing popular music is the way to their hearts. And I just want them to love me. 
 
@@ -114,7 +116,7 @@ Adabra is pleased and hands me five conflict-free gold pieces.
 
 She continues for some time in some kind of ecstasy, saying words that mean nothing, about planes, and designs, and universalism, and I am bored. Soma later on tells me that she was spouting nonsens that was meaningless. I try hard not to say, “Well, I already knew that.” 
 
-### Valphine 
+## 13.03 Valphine 01-03 Taraskh 1495
 
 Adabra is a zealot. I have seen her kind and how they worship Lolth, convinced that there is some greater purpose to the universe, that the demonic powers they worship will grant them power, or that by serving them, they are serving some enduring power. 
 
@@ -152,7 +154,7 @@ They sit at our table after Vukradin invites them. And then he starts with the q
 
 The oldest among them drinks from the beer that Spiderman has brought to us and says, “ We've sworn our lives and our honor to the Emerald Enclave, and Lyra was just upset. The quest… her goal was to save the tree and to save the forest, and all that happened was… and that all failed, and she is very …” 
 
-###  Soma 
+## 13.04 Soma 01-03-Taraskh 1495
 
 The agents of the Emerald Enclave are next to me. These are the paragons that Meril told me protected the forests and the swamps.  
 
@@ -220,7 +222,7 @@ He drinks, “but we didn’t and almost died.”
 And with that, Thomas turns to Marian and they get up and leave. As they leave, Vukradins ask if they would like to join our group. For a moment, they consider it and then say, “Our oath binds us.”
 
 
-### Vukradin
+## 13.05 Vukradin 01-03-Taraskh 1495
 
 Ser Kaelen approaches. And he asks me about my work and my plans. And I don’t trust him. I ask him about any information he might have about the rightful owner of our treasures from the ship, and he sighs and mutters something about how hard it is. 
 
@@ -230,6 +232,4 @@ He does praise my goal, and I am pleased. It’s essential for everyone to like 
 
 We talk about my music for the Order of the Gauntlet, and I try and explain to him that these things cannot be rushed. 
 
-And that anything I come up with will be better than what he shared. 
-
-##
+And that anything I come up with will be better than what he shared.

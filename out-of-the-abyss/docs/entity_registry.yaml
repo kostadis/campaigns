@@ -28,13 +28,11 @@ entities:
   - the Great Seeder
   - Dark Lady
   - The Dark Lady
-  - Zuggtomy
   note: demon queen plotting to wed Araumycos to dominate the Underdark
 - name: Asha Vandree
   type: npc
   aliases:
   - Asha
-  - Asha Vandry
   note: junior drow priestess at Velkynvelve, Shoor's distant cousin
 - name: Balok
   type: npc
@@ -82,7 +80,6 @@ entities:
   aliases:
   - Ilvara
   - Mistress Ilvara
-  - Elvara
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
@@ -116,7 +113,6 @@ entities:
   type: npc
   aliases:
   - Khalessa
-  - Khelessa Draga
   - khaless
   note: high elf Lords' Alliance deep-cover spy from Silverymoon
 - name: Kinyel Druu'giir
@@ -238,7 +234,6 @@ entities:
   aliases:
   - Errde
   - Errde Blackstaff
-  - Erdde Blackskull
   - Errde Captain Errde
   - Captain Errde
   - Captain Blackskull
@@ -250,7 +245,6 @@ entities:
   type: npc
   aliases:
   - Gartokkar
-  - Gartokkar Xundom
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: male duergar Keeper of the Flame, leader of the order
@@ -269,8 +263,6 @@ entities:
   note: female shield dwarf captive from the Silver Marches
 - name: Hemeth
   type: npc
-  aliases:
-  - Hemath
   note: duergar arms smuggler captured for sacrifice, willing to cooperate
 - name: Krimgol Muzgardt
   type: npc
@@ -312,8 +304,6 @@ entities:
   note: renegade derro savant twin sister, co-leader of the Gray Ghosts
 - name: Buppido
   type: npc
-  aliases:
-  - Bupido
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: derro prisoner who knows the route to Gracklstugh; secretly intends to murder
@@ -342,8 +332,6 @@ entities:
   note: leader of the Goldwhisker wererat clan
 - name: Dasco Pickshine
   type: npc
-  aliases:
-  - Dazco Pickshine
   note: deep gnome overseer of Pickshine Mines operations
 - name: Dorbo Diggermattock
   type: npc
@@ -385,8 +373,6 @@ entities:
   note: nervous young novice overseeing the Ruby in the Rough temple
 - name: Gurnik Tapfinger
   type: npc
-  aliases:
-  - Grunik Tapfinger
   note: head priest of Callarduran Smoothhands with a task
 - name: Jimjar
   type: npc
@@ -479,8 +465,6 @@ entities:
   note: myconid adult councilor of the Inner Circle
 - name: Rasharoo
   type: npc
-  aliases:
-  - Rusharoo
   note: leader of the Circle of Explorers, knows routes to the surface
 - name: Rumpadump
   type: npc
@@ -542,7 +526,6 @@ entities:
   - Shuushar Also Suushar
   - Shuushar Shuushar The Awakened
   - Suushar
-  - Suushar The Awakened
   note: pacifist kuo-toa hermit and mystic familiar with the Darklake
 - name: Sloopidoop
   type: npc
@@ -640,10 +623,6 @@ entities:
   note: green hag sister of Nanny Plunk
 - name: Glabbagool
   type: npc
-  aliases:
-  - Glabagool
-  - Globagool
-  - Globul
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: sentient ooze companion who prefers to remain in the Underdark
@@ -680,9 +659,6 @@ entities:
   aliases:
   - Ebonmire Princess Ebonmire
   - Ebonmire
-  - Princess Ebonheir
-  - Ebonheir
-  - Ebonir
   note: intelligent black pudding, the Pudding King's 'child'
 - name: Spider King
   type: npc
@@ -702,11 +678,6 @@ entities:
   - the Foundry's Heart
   - the Wyrmsmith
   - Themberchaude
-  - Thermbechaud
-  - Thermbachaude
-  - Thermbachaud
-  - Thermebechaude
-  - Thermbechaude
   - Wyrmsmith
   - Thembersham
   - His Arrogance
@@ -1106,8 +1077,6 @@ entities:
     and Themberchaud's Lair, where the missing dragon egg's secret is known.
 - name: Halls of Sacred Spells
   type: location
-  aliases:
-  - Halls of Sacred Stones
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: A derro worship site accessed via magic or a hidden entrance tunnel in the
@@ -1162,6 +1131,7 @@ entities:
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Undercity tunnel system beneath Gracklstugh, split between Cult of Demogorgon
     and Gray Ghost territory with hazardous unclaimed zones between the two hubs.
+    Source of several unique books including Plinky's Journal.
 - name: Buppido's Lair
   type: location
 - name: Cultist Hideout
@@ -1274,9 +1244,6 @@ entities:
   type: location
 - name: Spiral of the Horned King
   type: location
-  aliases:
-  - Spiral of the Great Horned King
-  - Spiral of the Horned Lord
 - name: Araurilcaurak
   type: location
 - name: Claw Rift
@@ -1338,9 +1305,6 @@ entities:
   type: location
 - name: Blingdenstone
   type: location
-  aliases:
-  - Blinddenstone
-  - Blindstone
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Deep gnome city sending the party as trade emissaries to Gracklstugh, preparing
@@ -1410,8 +1374,6 @@ entities:
     a few days before reaching Gracklstugh.
 - name: Entémoch's Boon
   type: location
-  aliases:
-  - EntemochBoon
 - name: Faerûn
   type: location
   aliases:
@@ -1718,7 +1680,6 @@ entities:
   type: item
   aliases:
   - Zurkhwoods
-  - zurkwhood
   note: mushroom material used to build Underdark boats and rafts
 - name: Arcane Brotherhood
   type: faction
@@ -1766,19 +1727,8 @@ entities:
 - name: Circle of Builders
   type: faction
   note: myconid craft circle led by Gasbide
-- name: Circle of Explorers
+- name: Circle of Sowers
   type: faction
-  note: myconid scout circle led by Rasharoo, loyal to Basidia
-- name: Circle of Growers
-  type: faction
-  note: myconid farmer circle led by Hebopbe
-- name: Circle of Hunters
-  type: faction
-  note: myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
-- name: Circle of Sporers
-  type: faction
-  aliases:
-  - Circle of Sowers
   note: myconid breeding circle led by Yrberop
 - name: Clan Anvilthew
   type: faction
@@ -2033,13 +1983,8 @@ entities:
 - name: Iceshield tribe
   type: faction
   note: orc tribe Ront fled, at war with the dwarves and Eldeth's people
-- name: Inner Circle
-  type: faction
-  note: recently formed council of sovereigns and circle leaders
 - name: Kavalrachni
   type: faction
-  aliases:
-  - Kavalrahcni
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: duergar steeder-riding cavalry, mostly from Clan Xundom
@@ -2052,9 +1997,6 @@ entities:
 - name: Keeper of the Present
   type: faction
   note: librarian title held by Urmas
-- name: Keepers of the Flame
-  type: faction
-  note: Gracklstugh order in conflict with the Gray Ghosts
 - name: Lords' Alliance
   type: faction
   note: political-economic coalition of cities, faction represented by Eravien Haund
@@ -2094,9 +2036,6 @@ entities:
 - name: Steelshadow clan
   type: faction
   note: royal duergar clan that holds the throne
-- name: Stone Guard
-  type: faction
-  note: five hundred veteran duergar bodyguards and secret police of the Deepking
 - name: Stoneheart Enclave
   type: faction
   note: svirfneblin earth-elemental spellcasters, ex-Emerald Enclave splinter
@@ -2323,10 +2262,7 @@ entities:
   type: npc
   aliases:
   - Strongbranch
-  - Callan
-  - Strongbench
   - Kalan
-  - Gate Warden
   note: Gatewarden; archmage
 - name: Kei Tigersteel
   type: npc
@@ -2706,7 +2642,6 @@ entities:
   aliases:
   - Zhentarim
   - Black Network
-  - Zentarim
   note: shadowy mercenary network, faction represented by Davra Jassur
 - name: House of Binder
   type: faction
@@ -2735,36 +2670,28 @@ entities:
   type: event
 - name: The Echoes of Alaundo
   type: event
-- name: Abyssal Plague
-  type: event
 - name: The Lurkwood Campaign
   type: event
 - name: Plinki
   type: npc
-  aliases:
-  - Pliinki
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
-  note: mad derro savant guarding the obelisk
+  note: mad derro savant guarding the obelisk; author of Plinky's Journal, a demonological
+    text sourced from the Whorlstone Caverns
 - name: Brysis Of Khaem
   type: npc
   aliases:
   - Brysis
 - name: Fargas Rumblefoot
   type: npc
-  aliases:
-  - Fargus Rumblefoot
 - name: Naomi Pathshutter
   type: npc
-  aliases:
-  - Nomi Pathshutter
   note: earth elemental wrangler, Yantha's apprentice
 - name: Jadger
   type: npc
   aliases:
   - Uth Jadgar
   - Burrow Warden Jadger
-  - Jadgar
   - Borough Warden Jadger
   - Uth-Jadger
   note: ghost veteran leading the new burrow wardens; confirmed via 5etools module
@@ -2785,14 +2712,11 @@ entities:
   type: npc
   aliases:
   - Hepbobe Also Referred To As Hepbode
-  - Hepbode
-  - Hebopbe
   note: Circle of Growers leader, infected but not yet under control
 - name: Gorg Bahamut
   type: npc
   aliases:
   - Gorg Bahamut Grog Bahamut
-  - Grog'Bahamut
 - name: Fuurm Coppernose
   type: npc
   aliases:
@@ -2839,9 +2763,6 @@ entities:
     Killers under Qualux; distributes charity while scouting recruits for the illithid.
 - name: Elian
   type: npc
-  aliases:
-  - Eliana
-  - Ilian
 - name: Flumph
   type: npc
   aliases:
@@ -2866,15 +2787,12 @@ entities:
   type: npc
 - name: Grygum
   type: npc
-  aliases:
-  - Gyrgum
 - name: Khaem
   type: npc
 - name: Khell-Vire
   type: npc
   aliases:
   - Khell
-  - Kelvir
 - name: King Hekaton
   type: npc
 - name: Korrh Erann
@@ -2895,8 +2813,6 @@ entities:
   - Philemon
 - name: Protanther
   type: npc
-  aliases:
-  - Protenthor
 - name: Rihaud
   type: npc
 - name: Runc
@@ -2957,9 +2873,7 @@ entities:
 - name: Vareth
   type: npc
   aliases:
-  - Varith
   - Brother Vareth
-  - Varath
 - name: Welnaste Mizzrym
   type: npc
 - name: Whisperwind
@@ -2972,8 +2886,6 @@ entities:
   type: location
 - name: Bahamut
   type: deity
-  aliases:
-  - Buhammad
 - name: Daggerford
   type: location
 - name: Triboar
@@ -3004,8 +2916,6 @@ entities:
     Cult of the Dragon there
 - name: Malfire
   type: npc
-  aliases:
-  - Melfire
   note: Figure depicted alongside Stroud, Milo, and Whistler in Milo Goodbarrel's
     painting at Rishaal's Pageturners (Waterdeep); fan debate attributes him an 'operational
     expenses, cost of living' philosophy
@@ -3019,8 +2929,6 @@ entities:
     bag of holding)
 - name: Eldred
   type: npc
-  aliases:
-  - Elred
   note: One of several people driven mad by the false-syncopation chant error, linked
     to the Endless Chant/Deadwinter Prophecy thread and Daz's headaches
 - name: Janussi's locket
@@ -3037,8 +2945,6 @@ entities:
     was the registry's error, now demoted to alias.
 - name: Maerith of the Ford
   type: npc
-  aliases:
-  - Meredith of the Ford
   note: Weaver at the River Shining Tavern near Daggerford; Elin's mother. Confirmed
     'Maerith' — matches notes/sessions/ and docs/chapters/chapter_55; 'Meredith' only
     appears in the superseded summaries/old/20260511/ first-pass output.
@@ -3047,7 +2953,6 @@ entities:
   aliases:
   - Stroudite
   - Stroud School
-  - Stroudian
   note: Philosophical/religious movement preaching 'mortal agency' (Grygum's 'Stroud's
     Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc
     and current Candlekeep play
@@ -3081,8 +2986,6 @@ entities:
     note.
 - name: Kestler
   type: npc
-  aliases:
-  - Kessler
   note: Half-orc at the Mountain's Mouth inn (Triboar area) who keeps a small Bahamut
     shrine; asked the party to carry a note to his brother at a temple that stopped
     writing 5 years ago
@@ -3092,8 +2995,6 @@ entities:
     only what was needed from her horde'
 - name: Netherese
   type: faction
-  aliases:
-  - Netherrese
   note: Ancient magical civilization/empire; Dawnbringer sun-sword identified as late
     Netherese-era recovery, ~3000-4000 years old
 - name: the Grygumite triangle
@@ -3145,15 +3046,9 @@ entities:
 - name: Vooshadi Moonriver
   type: npc
   note: Candlekeep attendant assigned by Bookwyrm to guard the Sanctum door
-- name: Plinky
-  type: npc
-  note: Author of Plinky's Journal, a demonological text from the Whirlstone Caverns
 - name: Dust of Suleiman
   type: item
   note: Grygum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
-- name: House Turan
-  type: faction
-  note: Drow house; matron mother has ruled 200 years; sent the spy tailing Daz
 - name: Bookwyrm's Brownnosers
   type: faction
   note: Party's own nickname at Candlekeep, per Daral Yashenti - distinct from the
@@ -3163,24 +3058,19 @@ entities:
   note: Milo Goodbarrel fan faction (companion to the Whistlerites)
 - name: Protanthians
   type: faction
-  aliases:
-  - Protantherians
   note: Followers of the already-registered NPC Protanther; third named position in
     the Question of the Age debate alongside Bahamutians/Stroudites. Verbatim quote
     spells Protanthians; the scaffold pass drifted to Protantherians.
-- name: Lothheism
+- name: Lolthism
   type: concept
-  aliases:
-  - Lolthism
   note: Asha Vandree's term for Daz's presumed conversion to Lolth-worship; distinct
-    from the already-registered Church of Lolth and The Way of Lolth
+    from the already-registered Church of Lolth and The Way of Lolth. Spelling confirmed
+    against docs/TheUnderdark.md ("converted to Lolthism"); the former canonical
+    "Lothheism" was a garbling and was dropped 2026-08-03.
 - name: Kelemvor
   type: deity
   note: 'God of Death; followers cited re: undead-vs-dead possession rules for the
     summoning-spell theft mechanism'
-- name: Whirlstone Caverns
-  type: location
-  note: Source of several unique books including Plinky's Journal
 - name: the Dragonstelle
   type: faction
   aliases:
@@ -3193,8 +3083,6 @@ entities:
     fire and lightning, breathing lizards
 - name: the Zagotami Marginalia
   type: item
-  aliases:
-  - Zugatami Marginalia
   note: Annotations in Ilvara's/Elvara's prayer book, considered useful for questions
     about Jimjar; possible connection to 'Asha Vandri's Loth Zagotomy Theological
     Argument' unconfirmed
@@ -3217,9 +3105,6 @@ entities:
   note: gnome innkeeper, Burning Wizard Inn, Candlekeep arc (ch.55)
 - name: Myrkul
   type: deity
-  aliases:
-  - Myrtul
-  - Myrkhul
   note: FR god of the dead, Lord of Bones
 - name: Corellon Larethian
   type: deity
@@ -3286,8 +3171,6 @@ entities:
     plus followers
 - name: timmask
   type: item
-  aliases:
-  - Tinmmasks
   note: OotA fear-gas fungus ('devil's mushroom'); uprooting causes confusion/madness;
     Ch.16 dark-heart talisman ingredient
 - name: Vof Klownits
@@ -3310,7 +3193,6 @@ entities:
   type: location
   aliases:
   - The High Tower
-  - Hightower
   note: guarded entrance to a cache of super-magical artifacts; site of the High Tower
     Library, where Janussi-murder research was conducted (ch58)
 - name: Circle of Masters of Neverlight Grove
@@ -3862,6 +3744,7 @@ entities:
   type: faction
   aliases:
   - Stone Guards
+  - Stone Guard
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Duergar military corps of 500 serving the Deepking, patrolling Gracklstugh
@@ -3889,6 +3772,8 @@ entities:
     conflict could bring great losses given their territory's proximity.
 - name: The Keepers of the Flame
   type: faction
+  aliases:
+  - Keepers of the Flame
   provenance: supplement
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Order loyal to Clan Steelshadow and the Deepking that keeps Themberchaud placated;
@@ -4011,6 +3896,32 @@ entities:
   source: Gracklstugh Revised - Turmoil in the City of Blades
   note: Mysterious figure named in a Whorlstone note claiming the stolen dragon egg
     is meant for it, not Narrak; identity unrevealed in this chunk.
+- name: Inner Circle of Neverlight Grove
+  type: faction
+  aliases:
+  - Inner Circle
+  note: recently formed council of sovereigns and circle leaders
+- name: Circle of Hunters of Neverlight Grove
+  type: faction
+  aliases:
+  - Circle of Hunters
+  note: myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
+- name: Circle of Growers of Neverlight Grove
+  type: faction
+  aliases:
+  - Circle of Growers
+  note: myconid farmer circle led by Hebopbe
+- name: Circle of Explorers of Neverlight Grove
+  type: faction
+  aliases:
+  - Circle of Explorers
+  note: myconid scout circle led by Rasharoo, loyal to Basidia
+- name: Sylvira's Abyssal Plague
+  type: event
+  aliases:
+  - Abyssal Plague
+  note: Abyss-born plague afflicting Sylvira, given to her by her son; disclosed during
+    Daz's ch60 interview
 distinct:
 - - Topsy
   - Turvy

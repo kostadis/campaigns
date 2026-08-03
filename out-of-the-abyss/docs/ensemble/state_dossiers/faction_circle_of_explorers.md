@@ -1,5 +1,5 @@
 ---
-name: Circle of Explorers
+name: Circle of Explorers of Neverlight Grove
 type: faction
 n_facts: 1
 chapters: 32-32

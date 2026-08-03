@@ -1,8 +1,10 @@
-# Chapter 14 Freeing Big Al, Petunia and watching a ranch burn
+---
+chapter: 15
+title: Freeing Big Al, Petunia and watching a ranch burn
+---
+# Chapter 15 Freeing Big Al, Petunia and watching a ranch burn
 
-## 4-02 Taraskh 1495 
-
-Soma
+## 15.01 Soma 04-03-Taraskh 1495
 
 Vukradin halts us when we spot four brigands, easily recognizable as Carver’s disposable crew. My sigh is internal, a slow puff of air against the inside of my shell.
 
@@ -30,7 +32,7 @@ Vukradin demands to know how the Carver knew. He always thinks there are spies.
 
 “It’s boringly predictable,” Skippy whimpers, explaining that the Carver knew that knocking out the ranch would generate a quest, causing adventurers like us to walk right into his trap. He knows that Harbin uses the quest board to hire out adventurers. He further reveals that the ambush is led by Borg the Hammer, a half-orc enforcer. 
 
-Vukradin wants to know how the Carver is so well informed. Skippy is tempted to keep silent, but he looks at the blood on my claws and reconsiders. He tells us that one of Carver’s henchmen is Sister Kayla. She is the Spymaster and runs their spy network in Phandalin.
+Vukradin wants to know how the Carver is so well informed. Skippy is tempted to keep silent, but he looks at the blood on my claws and reconsiders. He tells us that one of Carver’s henchmen is Sister Kaella. She is the Spymaster and runs their spy network in Phandalin.
 
 We need to go quickly. But Vukradins wants to return the prisoner to Phandalin. 
 
@@ -48,7 +50,7 @@ But then, perhaps because he has no shell, he comes up with a good idea, “What
 
 Vukradin is dubious. But Corbin is insistent. The former bandit promises to take care of Skuppy. He promises to take care of him. I can see that Corbin wants revenge. Vukradin notices it as well and tells him that Skippy better not be dead by the time he returns. 
 
-### Vukradin
+## 15.02 Vukradin 04-03-Taraskh 1495
 
 The air here, near Butterskull Ranch, feels heavy, not with mist but with malice. We bypass the main trail completely, electing for a stealthy approach from the north. I keep my movements precise, channeling my focus—not on the combat I dread, but on the certainty that this is an opportunity for honest coin. This path, guided by information bought with minimal violence, is the artistic path.
 
@@ -96,7 +98,7 @@ Now, the true objective begins. We retreat to a nearby hill where we can observe
 
 “I don't think we need to be near… that near the farmhouse, right? Like, we can watch it from…” I mutter, selecting a spot roughly 250 feet away . We wait patiently, prioritizing the hunt for Borg over a direct frontal assault . We are here to track the villain back to his source, not merely crash his party. This caution, this patience, is the price of honest adventuring.
 
-###   Valphine
+## 15.03 Valphine 04-03-Taraskh 1495
 
 The wind at Butterskull Ranch chills my skin, a minor irritation that only enhances the strange, glorious discomfort of the Overbright. We have accomplished the mundane task: rescuing Big Al Kalazorn and recovering his absurd, prized cow, Petunia. Now, we settle into the vantage point we chose on the hill, waiting for the true action to begin .
 

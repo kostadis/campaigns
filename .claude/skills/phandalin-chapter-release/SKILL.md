@@ -19,15 +19,19 @@ Trigger phrases:
 - "tag chapter N"
 - "/phandalin-chapter-release N"
 
-The argument is the **campaign chapter number** (e.g. `40`). For
-Phandalin this is the play-session chapter number, which may not
-match the bible-file numbering — the chapters dir currently has two
-overlapping splits (75 files for 39 played chapters as of horizon
-2026-05-04). Confirm with the user which numbering scheme is
-canonical at release time; until the splitter is re-run cleanly,
-prefer the play-session numbering (`chapter_NN_<session-title>.md`)
-over the bible-split numbering
-(`chapter_NN_neverwinter_expansionism_…`).
+The argument is the **campaign chapter number** (e.g. `40`). As of
+the #213 Phase 0 renumbering, this is one unified count: filename
+`chapter_NN_<slug>.md` == the file's `# Chapter NN` heading == its
+frontmatter `chapter: NN` == the bible heading. The historical
+zero-indexed bible headings (bible "Chapter N" = file N+1) were fixed
+one-time with `renumber_chapters.py`; any new disagreement is a bug
+and `split_chapters.py` refuses to split until it is fixed.
+
+Two bible copies exist: `docs/NeverwinterExpansionismandtheNorth.md`
+(the live bible this skill appends to) and
+`docs/ensemble/chapters.md` (the ensemble's copy, which may lag by
+the newest chapter). Appends go to the live bible; sync the ensemble
+copy when the ensemble is next run.
 
 Operate from `/home/kroussos/campaigns/Phandalin/`. Refuse if the
 working directory is anywhere else, or if the current branch already
@@ -51,11 +55,11 @@ Use `AskUserQuestion` (one at a time) for anything ambiguous:
    returns a hit) AND the corresponding chapter file is missing or
    stale. Skip the split if the bible doesn't have chapter N yet, but
    record this in the horizon doc as "bible not yet updated".
-4. **Whether to also clean up the dual-numbering pollution.** If the
-   user wants this release to also collapse the two overlapping
-   splits in `docs/chapters/` into one canonical convention, that's a
-   bigger operation than a normal release — do it as a separate
-   discussion, not silently inside the release flow.
+4. **Whether the session doc carries identity frontmatter.** New
+   session docs assembled with `assemble.py --chapter N` open with
+   YAML frontmatter (`chapter`/`session`/`title`). If this session's
+   doc predates that, ask the user for the session date so the append
+   marker (step 3) can carry it.
 
 ## Steps
 
@@ -68,7 +72,7 @@ pwd  # must be /home/kroussos/campaigns/Phandalin
 git rev-parse --abbrev-ref HEAD  # remember current branch
 grep -cE "^# Chapter" docs/NeverwinterExpansionismandtheNorth.md  # current bible heading count
 ls docs/chapters/*.md | wc -l  # current chapter file count
-/home/kroussos/worldanvil_pipeline/venv/bin/mempalace --palace phandalin status
+/home/kroussos/.venvs/main/bin/mempalace --palace phandalin status
 ```
 
 Capture the *before* drawer counts — they go into the commit message
@@ -85,14 +89,32 @@ git checkout -b phandalin-chapter-N-release  # N substituted
 If the branch already exists, ask whether to reuse or pick a new
 name.
 
-### 3. Re-split the bible (conditional)
+### 3. Append to the bible, then re-split (conditional)
 
-Only run if step 1 found chapter N in the bible AND the existing
-`docs/chapters/` numbering is stale.
+If chapter N is not yet in the bible, append the session doc to
+`docs/NeverwinterExpansionismandtheNorth.md` **converting its
+frontmatter to an identity marker**: the appended chunk must open
+
+```markdown
+# Chapter N <Title>
+<!-- chapter: N | session: YYYYMMDD -->
+```
+
+(`assemble.py --chapter N` mints the frontmatter; the marker is its
+inline form, since YAML frontmatter cannot repeat mid-file. The
+split consumes the marker back into the chapter file's frontmatter.)
+
+Then split:
 
 ```bash
-python ~/src/CampaignGenerator/split_chapters.py docs/NeverwinterExpansionismandtheNorth.md --output-dir docs/chapters
+python ~/src/CampaignGenerator/pipelines/ensemble/split_chapters.py \
+  docs/NeverwinterExpansionismandtheNorth.md --output-dir docs/chapters
 ```
+
+The splitter refuses to write anything if any heading number
+disagrees with its file position — if it fails, run
+`renumber_chapters.py` (dry-run first) rather than hand-editing
+around it.
 
 After split:
 
@@ -128,7 +150,7 @@ Record the backup path; it goes into `MEMPALACE_HORIZON.md` under
 Always: distill_extractions → narrative → phandalin (subdirs before root).
 
 ```bash
-mp="/home/kroussos/worldanvil_pipeline/venv/bin/mempalace --palace phandalin"
+mp="/home/kroussos/.venvs/main/bin/mempalace --palace phandalin"
 $mp mine docs/distill_extractions
 $mp mine docs/chapters
 $mp mine .
@@ -259,9 +281,10 @@ auto-merge.
   has fetched the tag. Confirm with the user first.
 - **Branch already exists** — ask the user whether to reuse, pick a
   new name (e.g. `phandalin-chapter-N-release-v2`), or abort.
-- **Dual-numbering pollution gets worse** — if the splitter produced
-  yet another numbering convention, **stop** and surface this to the
-  user; do not tag a release with three overlapping splits.
+- **Splitter refuses: numbering disagrees with position** — do not
+  bypass with `--no-check`. Run
+  `renumber_chapters.py --bible … --chapters-dir …` (dry-run, review,
+  then `--apply`) so all counters agree again, then re-split.
 
 ## Why this is a "release" and not a commit
 

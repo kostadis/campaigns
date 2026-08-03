@@ -1,5 +1,5 @@
 ---
-name: Inner Circle
+name: Inner Circle of Neverlight Grove
 type: location
 n_facts: 4
 chapters: 31-33
@@ -19,7 +19,7 @@ The Inner Circle is the sacred heart of the Myconid society within the Neverligh
 <!-- source: faction_inner_circle.md -->
 
 ---
-name: Inner Circle
+name: Inner Circle of Neverlight Grove
 type: faction
 n_facts: 2
 chapters: 31-31

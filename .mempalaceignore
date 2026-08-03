@@ -1,0 +1,16 @@
+# mneme-rendered; source-sha256: 2fe24e743967600f9cdd0540129eb80dff5f17dca7420f89d4746afb756e6cb2; do-not-edit
+logs/
+voice/
+examples/
+.claude/
+.mneme/
+.mcp.json
+MEMPALACE.md
+*.sh
+config.yaml
+ui_config.yaml
+ui_state.yaml
+entities.json
+refs.yaml
+refs.local.yaml
+.dedup_state.json

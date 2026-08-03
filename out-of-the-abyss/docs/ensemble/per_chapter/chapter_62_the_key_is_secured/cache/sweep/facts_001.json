@@ -1,0 +1,289 @@
+[
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir distrusts a fight where nothing dies because no blood was shed.",
+    "source_quote": "Three suits of armor lay in pieces on the sanctum floor. No blood. Nothing had bled in this fight, which meant nothing had died in it either, and I distrust a fight where nothing dies.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was pounding on the smashed door and shouting to be let out.",
+    "source_quote": "Daral Yashenti was pounding on the door and shouting to be let out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suspects Fembris Lancer of informing the constructs about the key.",
+    "source_quote": "Fembris had watched the key pass from Grygum's hand to Daz's, and three constructs with no minds of their own had come through the windows knowing exactly which hand to look in.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalls that Detect Magic previously failed to register the key as magical.",
+    "source_quote": "We had cast Detect Magic on it once, days ago, and it had come up empty.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum remembers Kalan Strongbranch\u2019s phrasing: 'I have given it now to someone who is not me.'",
+    "source_quote": "Then he remembered how Kalan Strongbranch had phrased the handoff. *I have given it now to someone who is not me.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum holds out the key to Daral Yashenti and asks if it looks like the real key.",
+    "source_quote": "Grygum held the key out to Daral. \"Does this look like the key? Does anything about it look off? The key to the tower?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti produces a scroll to cast Detect Magic on the key.",
+    "source_quote": "Daral produced a scroll from a pocket. Every scholar in this keep apparently carries one, the way a sailor carries a knife. He read it, and the room answered.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Detect Magic scroll",
+    "fact": "Daral Yashenti uses a scroll to cast Detect Magic on the key.",
+    "source_quote": "Daral produced a scroll from a pocket. Every scholar in this keep apparently carries one, the way a sailor carries a knife. He read it, and the room answered.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "key",
+    "fact": "The key remains dark when Detect Magic is cast, despite glowing effects in the room.",
+    "source_quote": "The key sat in the middle of all that light and stayed dark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Vashek",
+    "fact": "Brother Vashek taught a class on reading a false thing set among true ones.",
+    "source_quote": "There was a class for this at the monastery: reading a false thing set among true ones. Brother Vashek taught it, or possibly the quiet one with the ink-stained hands;",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm, the First Reader, was found dead with her throat torn.",
+    "source_quote": "Bookwyrm was dead. \"Bookwyrm is dead.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm\u2019s heart was intact and not removed.",
+    "source_quote": "And when Grygum asked whether she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi\u2019s heart was removed with instruments and intent, distinguishing his death from Bookwyrm\u2019s.",
+    "source_quote": "Janussi's heart had been removed with instruments and intent.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin corrects Grygum\u2019s use of 'him' when referring to Bookwyrm, specifying 'her'.",
+    "source_quote": "\"Who killed him?\" Grygum asked, and was corrected: her.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin suggests renegotiating the fee due to the expanded scope of the investigation.",
+    "source_quote": "Thorin wanted the scope stated plainly. \"Let's just be clear. We were hired to solve one murder. This is really not ours to solve.\" He suggested renegotiating our fee,",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's office",
+    "fact": "Bookwyrm's office desk contains a note stopped mid-sentence: 'He is using the beast to\u2014'.",
+    "source_quote": "On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to\u2014*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling who has an Abyss-born son locked in a magical sanctuary.",
+    "source_quote": "Sylvira Savikas has a son. Abyss-born. She is a tiefling; she was in the Abyss; bad things happen there. She keeps him locked in a magical sanctuary.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas\u2019s son is suspected of killing Bookwyrm.",
+    "source_quote": "Just a maddening attack by Sylvira Savikas's son. I told Bookwyrm that creature would be the death of us.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep has a great shield that prevents teleportation in or out.",
+    "source_quote": "Daral explained the keep's defenses then: a great shield that keeps anyone from teleporting in or out.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "The ward protecting Candlekeep\u2019s teleportation shield resides in the room locked by the two high tower keys.",
+    "source_quote": "And the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Thaumaturgy scrap of paper",
+    "fact": "Grygum uses Thaumaturgy on a scrap of paper to test fire magic in Candlekeep.",
+    "source_quote": "Grygum put Thaumaturgy to a scrap of paper: the flame erupted, touched, and evaporated in the same instant.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch told the group, 'If I don't see you tomorrow, do not look for me at my post.'",
+    "source_quote": "*If I don't see you tomorrow, do not look for me at my post.* He had said it to us like a man leaving himself an exit.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Sea Warden's Tower",
+    "fact": "Daral Yashenti identifies the Sea Warden's Tower as Kalan Strongbranch\u2019s likely location.",
+    "source_quote": "Daral named the likeliest place: the Sea Warden's Tower, lost among the other Watchers.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is found buckling armor and approaching the group at the Sea Warden's Tower.",
+    "source_quote": "Kalan was buckling on his armor as we arrived, already coming toward us at a half-run.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch asks if Bookwyrm had the key upon hearing the alarm.",
+    "source_quote": "He stopped. Then, ahead of grief, ahead of who and how: \"Does she have the key?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch reveals that Tadric has the real key.",
+    "source_quote": "Then he told us where the real key was, and the whole knot came apart in my hands. \"Tadric has the key.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young Watcher posted in the North Galleries guarding the real key.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door. Kalan had posted the genuine article on a boy in the North Galleries,",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer was present when Tadric reported the key to Bookwyrm.",
+    "source_quote": "A'lai Aivenmore had been in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore was in the room when Tadric reported the key to Bookwyrm.",
+    "source_quote": "A'lai Aivenmore had been in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch deputizes Grygum, Daz, Thorin, and Daral as Watchers of Candlekeep.",
+    "source_quote": "I hereby deputize you as Watchers of Candlekeep.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch mentions a small honorarium for the deputized Watchers.",
+    "source_quote": "Kalan sputtered something about a small honorarium, truly an honorarium,",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "North Galleries",
+    "fact": "Tadric was posted in the North Galleries away from the barracks on purpose.",
+    "source_quote": "I posted him away from the barracks on purpose.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Stair key",
+    "fact": "Kalan Strongbranch gives Thorin a Watcher's Stair key to access the shortcut to the North Galleries.",
+    "source_quote": "He pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "bell tolling",
+    "fact": "A bell begins tolling in a flat, institutional pattern, signaling an alarm in Candlekeep.",
+    "source_quote": "Then a bell began to toll somewhere above us, and it was tolling wrong. Not the hour. A pattern, flat and institutional, the keep itself raising its voice.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "three suits of armor destroyed",
+    "fact": "Three suits of armor were destroyed in the sanctum attack.",
+    "source_quote": "Three suits of armor lay in pieces on the sanctum floor.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horrors",
+    "fact": "Three helmed horrors came through the windows of the sanctum hunting for the key.",
+    "source_quote": "three constructs with no minds of their own had come through the windows knowing exactly which hand to look in.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "beast",
+    "fact": "A beast, identified as Sylvira Savikas\u2019s Abyss-born son, killed Bookwyrm by tearing her throat.",
+    "source_quote": "Just a maddening attack by Sylvira Savikas's son.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "false key",
+    "fact": "The key given to Grygum and passed to Daz was a decoy from the beginning.",
+    "source_quote": "the key he'd pressed on me with that strange phrasing, the one I'd handed to Daz, the one that nearly got Daz killed, had been a decoy from the first hour.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "thrice-fold proof",
+    "fact": "The thrice-fold proof involves Bookwyrm\u2019s death, the decoy key, and A'lai Aivenmore\u2019s presence.",
+    "source_quote": "You've captured two of the pillars of the thrice-fold proof.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Echoing Hall",
+    "fact": "The route to the North Galleries passes through the Echoing Hall.",
+    "source_quote": "The Echoing Hall, then the North Galleries.",
+    "quote_verified": true
+  },
+  {
+    "type": "date",
+    "subject": "unknown",
+    "fact": "The events occur in the same quarter hour: the false key is revealed, the alarm sounds, and Bookwyrm is killed.",
+    "source_quote": "A false key in Grygum's hand, an alarm in the air, and the First Reader's throat opened somewhere above us, all in the same quarter hour.",
+    "quote_verified": true
+  }
+]

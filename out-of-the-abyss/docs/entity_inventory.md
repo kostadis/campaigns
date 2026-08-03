@@ -12,14 +12,17 @@
 - **the Astral Plane** / **Astral Plane** — plane where Araumycos's dreaming mind resides; site of the rapport battle
 - **the Material Plane** / **Material Plane** — physical plane where the party's bodies remain during rapport
 - **The Feywild**
-- **Nine Hells**
+- **Nine Hells** — Plane where Brimtongue can hurl a struck foe for a minute; fiends may stay indefinitely, others appear before Asmodeus if it completes.
 - **Avernus**
 - **The Great Wheel** / **Great Wheel** — cosmological model the Maze Engine resembles
 - **Far Realm**
 - **the Grygumite triangle** — Brother Vareth's academic framework/theory (now expanded to 'a quadrangle'); appears to be the same named-positions framework referenced in the Bahamutians note re: Grygum's answer to the Question of the Age ('the triangle, three options,' later a fourth by Fembris)
 - **the Ordning** — Restored giant social hierarchy after the War of the Giants: Storm Giants at top, through Cloud/Stone/Fire/Frost, down to Hill Giants
-- **Lothheism** / **Lolthism** — Asha Vandree's term for Daz's presumed conversion to Lolth-worship; distinct from the already-registered Church of Lolth and The Way of Lolth
+- **Lolthism** — Asha Vandree's term for Daz's presumed conversion to Lolth-worship; distinct from the already-registered Church of Lolth and The Way of Lolth. Spelling confirmed against docs/TheUnderdark.md ("converted to Lolthism"); the former canonical "Lothheism" was a garbling and was dropped 2026-08-03.
 - **the Dreamlands** / **Dreamlands** — stone-giant term for the surface world (OotA Ch.4)
+- **Appendix B** / **Duergar Clans, Military, and Other Factions** — Book appendix with bare-bones details on each of the nineteen duergar clans, their numbers, industries, and feelings toward key events.
+- **Demogorgonic Abomination** — New creature race introduced in this supplement's Appendix E; only its title appears in this front-matter chunk, with no further description given here.
+- **One Who Watches** — Mysterious figure named in a Whorlstone note claiming the stolen dragon egg is meant for it, not Narrak; identity unrevealed in this chunk.
 
 ## Deities
 
@@ -48,12 +51,13 @@
 - **Oghma**
 - **Deneir**
 - **Milil**
-- **Bahamut** / **Buhammad**
+- **Bahamut**
 - **Tempus** — God of war
 - **Tiamat** — Dragon queen deity, Bahamut's counterpart; referenced re: Whistler stealing only what was needed from her horde
 - **Kelemvor** — God of Death; followers cited re: undead-vs-dead possession rules for the summoning-spell theft mechanism
-- **Myrkul** / **Myrtul** / **Myrkhul** — FR god of the dead, Lord of Bones
+- **Myrkul** — FR god of the dead, Lord of Bones
 - **Corellon Larethian** / **Correlon** — elven creator deity
+- **Asmodeus** — Ruler of the Nine Hells; tortured a lesser devil into eternal servitude, binding its spirit to Brimtongue, which urges wielders to contact him.
 
 ## Events
 
@@ -115,9 +119,21 @@
 - **Casketball Tournament**
 - **The Cryptogram**
 - **The Echoes of Alaundo**
-- **Abyssal Plague**
 - **The Lurkwood Campaign**
 - **the Sundering** / **Sundering** — FR cosmological event; NPCs invoke re faerzress instability
+- **Assassins Interrupted** — Encounter (OOTA 62) at the Darklake Docks, triggered when characters arrive unescorted; begins as the party spots Werz.
+- **Bar Fight** — Named encounter at the Shattered Spire, referenced only as "See 'Bar Fight' (OOTA 63)."
+- **Chapter 4 - Insurrection!(?)** / **Insurrection** — A future chapter referenced as a forward pointer; the Keepers of the Flame's and Gray Ghosts' reactions to the party's discoveries carry into it.
+- **Deep Gnome Merchant** — Named encounter suggested to highlight Gracklstugh's booming trade and the duergar's slaving practices.
+- **Duergar Patrol** — Random patrol of 1d4+2 duergar, all but two invisible; badges of rank from Gartokkar or Errde end encounters peaceably.
+- **Merchant Madness** — Named encounter referenced from the original book (OOTA 61); no further detail is given in this supplement.
+- **Orc Mercenaries** — Named encounter suggested to highlight Gracklstugh's booming trade and the duergar's slaving practices.
+- **Pliinki's Experiments** — Appendix A section detailing the stolen red dragon egg's fate: if not destroyed it hatches into Gorgthrax, a two-headed wyrmling drawn to Demogorgon.
+- **Rampaging Giant Encounter** / **Rampaging Giant** — Encounter with the mutated, rampaging Rihuud that draws Keeper-of-the-Flame Gartokkar's attention to the party during their time in Gracklstugh.
+- **Rumor Mill** — Named rumor-gathering encounter at the Ghohlbrorn's Lair referenced from the original book (OOTA 64).
+- **Slave Caravan** — Recurring named encounter suggested to highlight that Gracklstugh's duergar are slavers.
+- **The Downward Spiral** — Prior campaign-book chapter (OOTA 55) describing the madness and corruption spreading through Gracklstugh, expanded here via the Council of Savants' cult infiltration.
+- **Sylvira's Abyssal Plague** / **Abyssal Plague** — Abyss-born plague afflicting Sylvira, given to her by her son; disclosed during Daz's ch60 interview
 
 ## Factions
 
@@ -134,33 +150,30 @@
 - **chief negotiators council** — informal four-enclave governing council, recently dissolved
 - **Church of Lolth** — Lolth's priesthood based in Arach-Tinilith
 - **Circle of Builders** — myconid craft circle led by Gasbide
-- **Circle of Explorers** — myconid scout circle led by Rasharoo, loyal to Basidia
-- **Circle of Growers** — myconid farmer circle led by Hebopbe
-- **Circle of Hunters** — myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
-- **Circle of Sporers** / **Circle of Sowers** — myconid breeding circle led by Yrberop
-- **Clan Anvilthew** — duergar toolmaker clan
-- **Clan Blackskull** — duergar stonemason clan
-- **Clan Bukbukken** — duergar farming clan
-- **Clan Burakrinwurn** — duergar dock-operator clan
+- **Circle of Sowers** — myconid breeding circle led by Yrberop
+- **Clan Anvilthew** / **Clan Anvilthew (Toolmakers)** — duergar toolmaker clan
+- **Clan Blackskull** / **Clan Blackskull (Stonemasons)** — duergar stonemason clan
+- **Clan Bukbukken** / **Clan Bukbukken (Farming)** — duergar farming clan
+- **Clan Burakrinwurn** / **Clan Burakrinwurn (Dock Operators)** — duergar dock-operator clan
 - **Clan Cairngorm** — stone giant clan sworn to the Steelshadow line
-- **Clan Coalhewer** — duergar coal-miner clan
-- **Clan Firehand** — duergar smelter clan
+- **Clan Coalhewer** / **Clan Coalhewer (Coal Miners)** — duergar coal-miner clan
+- **Clan Firehand** / **Clan Firehand (Smelters)** — duergar smelter clan
 - **Clan Goldwhisker** — svirfneblin wererat clan holding part of the ruins
-- **Clan Hammercane** — duergar construction-engineer clan
-- **Clan Henstak** — duergar food merchant clan
-- **Clan Ironhead** — duergar weaponsmith clan
-- **Clan Muzgardt** — duergar brewer clan making Darklake Stout
-- **Clan Parlynsurk** — duergar clothing-manufacturer clan
-- **Clan Saltbaron** — duergar salt-miner clan
-- **Clan Steelshadow** / **Ironshadow** — duergar weaponsmith and royal clan
-- **Clan Thordensonn** — duergar jeweler clan
-- **Clan Thrazgad** / **Tharzgad** — duergar armorsmith clan
-- **Clan Thuldark** — duergar metalworks and jewels clan
-- **Clan Xardelvar** — duergar gas-miner clan supplying flame lances
-- **Clan Xornbane** — duergar scout and prospector clan
-- **Clan Xundom** — duergar steeder-breeder clan
+- **Clan Hammercane** / **Clan Hammercane (Construction Engineers)** — duergar construction-engineer clan
+- **Clan Henstak** / **Clan Henstak (Food)** — duergar food merchant clan
+- **Clan Ironhead** / **Clan Ironhead (Weaponsmiths)** / **Clan Ironhead's Compound** / **Ironhead** / **Ironheads** — duergar weaponsmith clan
+- **Clan Muzgardt** / **Clan Muzgardt (Brewers)** — duergar brewer clan making Darklake Stout
+- **Clan Parlynsurk** / **Clan Parlynsurk (Clothing Manufacturers)** — duergar clothing-manufacturer clan
+- **Clan Saltbaron** / **Clan Saltbaron (Salt Miners)** — duergar salt-miner clan
+- **Clan Steelshadow** / **Ironshadow** / **Clan Steelshadow (Weaponsmiths)** / **Steelshadow** / **Steelshadows** / **the Steelshadows** — duergar weaponsmith and royal clan
+- **Clan Thordensonn** / **Clan Thordensonn (Jewelers)** — duergar jeweler clan
+- **Clan Thrazgad** / **Tharzgad** / **Clan Thrazgad (Armorsmiths)** / **Clan Thrazgad's Compound** / **Thrazgad** / **Thrazgad Clan** — duergar armorsmith clan
+- **Clan Thuldark** / **Clan Thuldark (Metalworks and Jewels)** — duergar metalworks and jewels clan
+- **Clan Xardelvar** / **Clan Xardelvar (Gas Miners)** — duergar gas-miner clan supplying flame lances
+- **Clan Xornbane** / **Clan Xornbane (Scouts and Prospectors)** — duergar scout and prospector clan
+- **Clan Xundom** / **Clan Xundom (Steeder Breeders)** — duergar steeder-breeder clan
 - **Council of Lairds** — advisory body of clan lairds under the Deepking
-- **Council of Savants** / **Savants** — Gracklstugh faction plotting against Themberchaud
+- **Council of Savants** / **Savants** / **The Council** — Gracklstugh faction plotting against Themberchaud
 - **Council of Spiders** — secret cabal of drow wizards seeking representation on the Ruling Council
 - **Cult of "Y"** — drow driven mad by Demogorgon, carving his Y-symbol and worshiping the Prince of Demons
 - **Cult of the Deep Father** — kuo-toa faction worshiping Leemooggoogoon, led by Bloppblippodd
@@ -174,7 +187,7 @@
 - **Emerald Enclave** — wilderness defenders of natural balance, faction represented by Morista Malkin
 - **Empty-Scabbard Killers** — order of psionic duergar soulblade assassins; Forak-Erach-Naek in Dwarvish
 - **Feldrun clan** — clan of dwarves who joined the forces retaking Gauntlgrym
-- **Gray Ghosts** — the only thieves' guild in Gracklstugh, duergar and derro outcasts
+- **Gray Ghosts** / **The Gray Ghosts** — the only thieves' guild in Gracklstugh, duergar and derro outcasts
 - **Harpers** — covert good-aligned network; Rystia Zav is a spy
 - **House Barrison Del'Armgo** — second-ranked house with the most wizards and mercenaries
 - **House DeVir** — Vizeran's drow house, wiped out by House Do'Urden
@@ -188,12 +201,10 @@
 - **House Vandree** — drow house surname shared by Asha and Shoor
 - **House Xorlarrin** — drow house that seized Gauntlgrym and founded Q'Xorlarrin
 - **Iceshield tribe** — orc tribe Ront fled, at war with the dwarves and Eldeth's people
-- **Inner Circle** — recently formed council of sovereigns and circle leaders
 - **Kavalrachni** — duergar steeder-riding cavalry, mostly from Clan Xundom
 - **Keeper of the Future** — librarian title held by Ustova
 - **Keeper of the Past** — librarian title held by Ulthar
 - **Keeper of the Present** — librarian title held by Urmas
-- **Keepers of the Flame** — Gracklstugh order in conflict with the Gray Ghosts
 - **Lords' Alliance** — political-economic coalition of cities, faction represented by Eravien Haund
 - **Matron Mother** / **matron mothers** — ruling rank of a drow house, held by Quenthel Baenre
 - **Merchant Council** — lairds and merchants overseeing trade and commerce
@@ -206,12 +217,11 @@
 - **Society of Brilliance** — sect of highly intelligent monsters banded together to solve the Underdark's problems
 - **Sovereign** — title for the largest myconid who rules a colony
 - **Steelshadow clan** — royal duergar clan that holds the throne
-- **Stone Guard** — five hundred veteran duergar bodyguards and secret police of the Deepking
 - **Stoneheart Enclave** — svirfneblin earth-elemental spellcasters, ex-Emerald Enclave splinter
 - **The Academy** — Menzoberranzan's three training branches at Tier Breche
 - **The Harpers** — clandestine network of spellcasters and spies, faction represented by Zelraun
 - **thuldar** — caste of duergar priests who officiate rituals and record lore
-- **Xarrorn** — duergar specialists wielding flame lances, mostly from Clan Xardelvar
+- **Xarrorn** / **Xarrorns** — duergar specialists wielding flame lances, mostly from Clan Xardelvar
 - **The Avowed** / **Avowed**
 - **The Watchers**
 - **Great Readers**
@@ -222,25 +232,33 @@
 - **Acolytes**
 - **Seekers**
 - **Order of the Immortal Lotus**
-- **The Zhentarim** / **Zhentarim** / **Black Network** / **Zentarim** — shadowy mercenary network, faction represented by Davra Jassur
+- **The Zhentarim** / **Zhentarim** / **Black Network** — shadowy mercenary network, faction represented by Davra Jassur
 - **House of Binder** — a reward perk)
 - **House T'sarran** / **T'sarran** / **T'sarrans** — Antagonist drow house hunting Daz as bait for his unknown Menzoberranzan patron; matron mother rules 200 years; one surface spy captured (miniaturized in the party's bag of holding)
-- **Stroudites** / **Stroudite** / **Stroud School** / **Stroudian** — Philosophical/religious movement preaching 'mortal agency' (Grygum's 'Stroud's Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc and current Candlekeep play
+- **Stroudites** / **Stroudite** / **Stroud School** — Philosophical/religious movement preaching 'mortal agency' (Grygum's 'Stroud's Gambit'), opposed to Bahamutian orthodoxy; recurring across the Sword Coast arc and current Candlekeep play
 - **the Ember Vanguard** / **Ember Vanguard** / **Vanguard** — The party's own public reputation/nickname, earned after the Grey Ghosts alley ambush; feared in Gracklstugh
 - **Uthgardt** — Barbarian raiding culture; post-giant-war Uthgardt hordes raided Mirabar and the region, Daggerford spared by distance
 - **Bahamutians** / **Bahamutian** — One of the named positions in the 'Question of the Age' / Great Question philosophical debate (dragons/gods rule fate), opposed to the Stroudites' mortal-agency position; a Daggerford priest declared himself 'a pure Bahamutian.' Grygum's own answer to the Question of the Age was 'the triangle, three options,' later expanded to a fourth by Fembris — the full framework of named positions may be worth its own note.
-- **Netherese** / **Netherrese** — Ancient magical civilization/empire; Dawnbringer sun-sword identified as late Netherese-era recovery, ~3000-4000 years old
+- **Netherese** — Ancient magical civilization/empire; Dawnbringer sun-sword identified as late Netherese-era recovery, ~3000-4000 years old
 - **the Whistlerites** / **Whistlerites** — Fan faction devoted to Whistler, per GM: there's the Whistlerites and the Miloites (fanboyism factionalism at Rishaal's Pageturners)
-- **House Turan** — Drow house; matron mother has ruled 200 years; sent the spy tailing Daz
 - **Bookwyrm's Brownnosers** — Party's own nickname at Candlekeep, per Daral Yashenti - distinct from the Ember Vanguard reputation earned in Gracklstugh
 - **the Miloites** — Milo Goodbarrel fan faction (companion to the Whistlerites)
-- **Protanthians** / **Protantherians** — Followers of the already-registered NPC Protanther; third named position in the Question of the Age debate alongside Bahamutians/Stroudites. Verbatim quote spells Protanthians; the scaffold pass drifted to Protantherians.
+- **Protanthians** — Followers of the already-registered NPC Protanther; third named position in the Question of the Age debate alongside Bahamutians/Stroudites. Verbatim quote spells Protanthians; the scaffold pass drifted to Protantherians.
 - **the Dragonstelle** / **Dragonstelle** — Cult that recruited in Daggerford; broken by the paladin Travis Houlin three years prior, per the memorial inscription
 - **the Ember Grapple** / **Endergrapple** — Party nickname, per the GM: 'You are the Ember... what is it? The Ember Grapple' during the bird-call signal scene in the woods; Daz's transcript line renders it as 'The Endergrapple' (VTT drift). Relationship to the separately-registered 'the Ember Vanguard' (earned after the Grey Ghosts alley ambush) is unconfirmed - may be the same reputation restated, or a distinct nickname.
 - **The Grygumite School** — school Grygum (PC) claims to have founded as a Candlekeep bluff
 - **the Diggermattocks** / **Diggermattocks** — Blingdenstone deep-gnome clan/family led by Dorbo and Senni Diggermattock plus followers
 - **Miners' Guild of Blingdenstone** / **Miners' Guild** — powerful mining guild led by the Pickshine family; represented Kazook Pickshine at the Blingdenstone grand moot (ch38-39)
 - **Circle of Masters of Neverlight Grove** / **Circle of Masters** — newest circle of Zuggtmoy-touched myconids led by Yestabrod; takes carcasses the Circle of Hunters bring in, sends myconids outside the grove unannounced (ch31)
+- **The Stone Guard** / **Stone Guards** / **Stone Guard** — Duergar military corps of 500 serving the Deepking, patrolling Gracklstugh and guarding the Hold and Overlake Hold under Errde Blackskull.
+- **Cult of Demogorgon** / **Narrak's cult** / **the cult** — Derro-led cult worshiping Demogorgon that has infiltrated the Council of Savants and the Gray Ghosts, hoping to summon the demon prince to Gracklstugh.
+- **Cult of Orcus** — Necromantic cult foretold to arise from Whorlstone corpses stuffed there if Horgar's derro purge succeeds, fueled by the fallen dead as fodder.
+- **Cairngorm Clan** — Clan led by Stonespeaker Hgraam, sworn to the Steelshadows; worried a derro conflict could bring great losses given their territory's proximity.
+- **The Keepers of the Flame** / **Keepers of the Flame** — Order loyal to Clan Steelshadow and the Deepking that keeps Themberchaud placated; at war with the Gray Ghosts over the stolen dragon egg.
+- **Inner Circle of Neverlight Grove** / **Inner Circle** — recently formed council of sovereigns and circle leaders
+- **Circle of Hunters of Neverlight Grove** / **Circle of Hunters** — myconid circle that retrieves carcasses, led by Loobamub, loyal to Basidia
+- **Circle of Growers of Neverlight Grove** / **Circle of Growers** — myconid farmer circle led by Hebopbe
+- **Circle of Explorers of Neverlight Grove** / **Circle of Explorers** — myconid scout circle led by Rasharoo, loyal to Basidia
 
 ## Items
 
@@ -302,7 +320,7 @@
 - **Yeenoghu's blood** — demon lord's black blood, ritual component found on goristro's horns
 - **Zhaun'ol'leal** — Elvish title of Gromph's grimoire, 'The Book of the Eight'
 - **Zuggtmoy's spores** — fungal affliction from Neverlight Grove / Zuggtmoy
-- **zurkhwood** / **Zurkhwoods** / **zurkwhood** — mushroom material used to build Underdark boats and rafts
+- **zurkhwood** / **Zurkhwoods** — mushroom material used to build Underdark boats and rafts
 - **The Golden Ass** — Daral's Deadwinter gift to Janussi)
 - **Iron Bands of Bilarro**
 - **Book of Vile Darkness**
@@ -324,11 +342,25 @@
 - **Account of the War of the Dragons** — Milo Goodbarrel's multi-volume book (Volumes 1-3), sold at Rishaal's Pageturners; features Stroud, Milo, Malfire, and Whistler
 - **1001 Tashalian Nights** / **Tashalan** — Book found in Alkrist's chambers, bookmarked to the Midnight Tears poison passage - the murder weapon's method. Verbatim quote spells it Tashalian; a scaffold/summary pass drifted to Tashalan (documented in 07_the_interrogation_of_alkrist_consistency_report.md); verbatim wins per trust hierarchy.
 - **Dust of Suleiman** — Grygum's AoE damage effect/spell - 120ft range, 20ft sphere, 20 damage/turn
-- **the Zagotami Marginalia** / **Zugatami Marginalia** — Annotations in Ilvara's/Elvara's prayer book, considered useful for questions about Jimjar; possible connection to 'Asha Vandri's Loth Zagotomy Theological Argument' unconfirmed
+- **the Zagotami Marginalia** — Annotations in Ilvara's/Elvara's prayer book, considered useful for questions about Jimjar; possible connection to 'Asha Vandri's Loth Zagotomy Theological Argument' unconfirmed
 - **Nilhogg's Nose** / **Nilhogg** — OotA named fungus (Ch.2)
 - **Pygmywort** — OotA faerzress mushroom, size-reduction (Ch.4 Whorlstone Tunnels)
 - **Waterorb** / **waterorbs** — OotA named fungus (Ch.2 Into Darkness)
-- **timmask** / **Tinmmasks** — OotA fear-gas fungus ('devil's mushroom'); uprooting causes confusion/madness; Ch.16 dark-heart talisman ingredient
+- **timmask** — OotA fear-gas fungus ('devil's mushroom'); uprooting causes confusion/madness; Ch.16 dark-heart talisman ingredient
+- **Brimtongue** — Sentient legendary warhammer loyal to Asmodeus; can hurl a struck creature through the Nine Hells, wielded here by Deepking Horgar.
+- **Council of Savants Letters** — Correspondence recovered in the Whorlstone Tunnels linking instructions from Narrak and Pliinki to the theft of the dragon egg and other disruptions.
+- **Darklake Stout** — Beer brewed at the Darklake Brewery; can be purchased at the Blade Bazaar.
+- **Dwarven Thrower** — A thrown warhammer Horgar wields, dealing bonus damage and extra damage against giants, that flies back to his hand after a ranged attack.
+- **Eldgrim's Shield of Far Sight** / **shield of far sight** — Magical shield gifted to Eldgrim by Qualux, bearing an embedded derro eyeball through which Qualux can see and cast Mind Blast.
+- **Empty-Scabbard Killers Hit List** / **Hit List** — Sealed parchment signed by Deepking Horgar found in Eldgrim's Whorlstone lair, naming assassination targets and proving the Deepking's direct ties to the killers.
+- **Horgar's Cape of the Mountebank** / **Cape of the Mountebank** — Enhanced cape of the mountebank that gains bonus charges to cast dimension door when worn by a creature attuned to Brimtongue.
+- **Horgar's Hit List** / **The Deepking's Hit List** — List of assassination targets written and signed by Deepking Horgar, found on Eldgrim's desk in Area 7.
+- **Missing Red Dragon Egg** / **Missing Dragon Egg** / **Red Dragon Egg** / **Stolen Egg** / **the egg** / **the missing dragon egg** / **the missing red dragon egg** — Red dragon egg stolen from the Keepers of the Flame by the Gray Ghosts, held in Whorlstone Area 14 as insurance against Themberchaud's future replacement.
+- **Potion of Dragon's Breath** — Potion from Themberchaud's treasure hoard, given to the party to help deliver the killing blow against Horgar's daughter Olga.
+- **The Binding of the Obelisk** — Open book in Narrak's Whorlstone lair detailing rituals to awaken the stolen dragon egg using Clan Thrazgad's acid-resistant ore.
+- **Thrazgad Clan's Missing Ore** / **the ore** — Acid-resistant ore stolen from Clan Thrazgad by the Gray Ghosts, found useless for repairing the Whorlstone obelisk despite the cult's efforts.
+- **Thrazgad Ore** / **Missing Ore** / **Missing Thrazgad Ore** — Stolen acid-resistant ore of the Thrazgad Clan, found in crates near the Obelisk where Pliinki failed to incorporate it.
+- **Trident of the Lake** — +2 trident found in Vault 2 of the Royal Vault, granting water breathing and the ability to speak Aquan while attuned.
 
 ## Locations
 
@@ -351,25 +383,25 @@
 - **Docks**
 - **Gate**
 - **Shrine of the Sea Mother**
-- **Blade Bazaar**
-- **Cairngorm Cavern**
-- **Darklake Brewery**
-- **Darklake District**
-- **Darklake Docks**
+- **Blade Bazaar** — Darklake District marketplace selling weapons, armor, shields, and Darklake Stout; hub for smithing-order clan politics and Droki sightings.
+- **Cairngorm Cavern** — Duergar clan compound named in this supplement's table of contents as part of the Spoils of War appendix; no further description appears in this chunk.
+- **Darklake Brewery** — Location within the Darklake District named in this supplement's table of contents; no further description appears in this chunk.
+- **Darklake District** — A district of Gracklstugh beyond which the party's patron-issued badges grant free roam; also the boundary beyond which Droki is not yet found.
+- **Darklake Docks** — Docks where Werz Saltbaron is attacked by the Empty-Scabbard Killers and rescued by the party; garbage collectors and laborers gather here.
 - **Dunglorrin Torune**
 - **East Cleft District**
-- **Flowstone District**
-- **Halls of Sacred Spells**
+- **Flowstone District** — A district of Gracklstugh containing the Keepers of the Flame Headquarters and Themberchaud's Lair, where the missing dragon egg's secret is known.
+- **Halls of Sacred Spells** — A derro worship site accessed via magic or a hidden entrance tunnel in the West Cleft District; hostile derro and neutral derro savants dwell within.
 - **Hold of the Deepking**
-- **Laduguer's Furrow**
-- **Northfurrow District**
-- **Overlake Hold**
-- **Southfurrow District**
-- **The Ghohlbrorn's Lair**
-- **The Shattered Spire**
+- **Laduguer's Furrow** — District the party is sent or summoned into after their initial arrival, where badges grant free reign to meet the major smithing clans.
+- **Northfurrow District** — A district of Gracklstugh containing Clan Ironhead's Compound, where the party can meet laird Thangus Ironhead and his granddaughter Grinta.
+- **Overlake Hold** — Large prison-and-guard-station, mistakenly described in the book as the Deepking's temple home; Captain Errde Blackskull meets the party here.
+- **Southfurrow District** — District named among Gracklstugh's places of interest in this supplement's table of contents; no further description appears in this chunk.
+- **The Ghohlbrorn's Lair** — Location within the Darklake District named in this supplement's table of contents; no further description appears in this chunk.
+- **The Shattered Spire** — Location where Werz Saltbaron later meets the party, thanks them, and opens Kazook Pickshine's bag of holding to extract trade gems.
 - **Themberchaud's Lair**
 - **West Cleft District**
-- **Whorlstone Tunnels**
+- **Whorlstone Tunnels** / **Whorlstone** — Undercity tunnel system beneath Gracklstugh, split between Cult of Demogorgon and Gray Ghost territory with hazardous unclaimed zones between the two hubs. Source of several unique books including Plinky's Journal.
 - **Buppido's Lair**
 - **Cultist Hideout**
 - **Dire Den**
@@ -425,7 +457,7 @@
 - **Adamantine Tower**
 - **Filthriddens**
 - **Gallery of Angels**
-- **Spiral of the Horned King** / **Spiral of the Great Horned King** / **Spiral of the Horned Lord**
+- **Spiral of the Horned King**
 - **Araurilcaurak**
 - **Claw Rift**
 - **Dark Dominion**
@@ -455,29 +487,29 @@
 - **Vizeran's sanctum**
 - **Karazikar's Maw**
 - **Araj**
-- **Blingdenstone** / **Blinddenstone** / **Blindstone**
+- **Blingdenstone** — Deep gnome city sending the party as trade emissaries to Gracklstugh, preparing for the Battle of Blingdenstone against the Pudding King.
 - **Darklake**
 - **Gauntlgrym**
-- **Gracklstugh**
+- **Gracklstugh** / **the city** — City whose rumors include the Deepking's crackdowns, murders, rats, Stone Guard corruption, and the Whorlstone Tunnels; home to the Gray Ghosts guild.
 - **Gravenhollow**
-- **Mantol-Derith**
+- **Mantol-Derith** — Trading post where Kazook Pickshine has been illicitly trading with the duergar smuggler Werz Saltbaron.
 - **Menzoberranzan** / **The City of Spiders** / **City of Spiders** / **Menzo** — chapter 15; where Velkynvelve drow may reappear
 - **Neverlight Grove**
 - **Sloobludop**
-- **the Darklake**
+- **the Darklake** — The underground lake by which the party can enter Gracklstugh, an alternative to entering the city by land.
 - **The Labyrinth** / **Labyrinth**
 - **the Silken Paths**
 - **the Vast Oblivium** / **Vast Oblivium**
-- **The Wormwrithings** / **Wormwrithings**
-- **Velkynvelve** / **Valkenvylve**
-- **Entémoch's Boon** / **EntemochBoon**
+- **The Wormwrithings** / **Wormwrithings** — Region the party has no need of a route to, since Ylsa's task reward is changed to Clan Henstak's favor.
+- **Velkynvelve** / **Valkenvylve** — Drow outpost the author's party escaped from, slaying Ilvara and others only a few days before reaching Gracklstugh.
+- **Entémoch's Boon**
 - **Faerûn** / **Faerun** — surface realm whose fate rests on the final battle
 - **Lurkwood**
-- **Pickshine Mines**
+- **Pickshine Mines** — Mines belonging to Kazook Pickshine, source of the spell gems entrusted to the party's bag of holding.
 - **Spine of the World**
 - **Stoneheart Quarry**
 - **Underdark** / **The Underdark** — vast subterranean realm of caverns and tunnels where the chapter takes place
-- **Whiteshell Mine**
+- **Whiteshell Mine** — Source of the Whiteshell Salt the party is transporting to trade in Gracklstugh, prized as the Underdark's fancy sea salt.
 - **Evermoors**
 - **High Forest**
 - **Illusk**
@@ -576,22 +608,55 @@
 - **Beregost** — Sword Coast town, last waystop before Candlekeep; site of the Burning Wizard Inn
 - **the Overbright** / **Overbright** / **Overbrighters** — Name for the surface world as opposed to the Underdark (whatever was going on in the Underdark seems to be bleeding through into the Overbright)
 - **the Flora Theca** — Herbarium/archive room where the party researched the poison used on Janussi
-- **Whirlstone Caverns** — Source of several unique books including Plinky's Journal
 - **Tednimar** — Wing of the Drakonoikos (built from ancient dragon scales/bones) devoted to fire and lightning, breathing lizards
 - **Netheril** — ancient Faerunian magocratic empire
 - **Cormyr** — FR kingdom
 - **Toril** — the Forgotten Realms planet
 - **Raucous Mesa** / **Raucus** — OotA Ch.4 Gracklstugh area 5
-- **Candlekeep's High Tower** / **The High Tower** / **Hightower** — guarded entrance to a cache of super-magical artifacts; site of the High Tower Library, where Janussi-murder research was conducted (ch58)
+- **Candlekeep's High Tower** / **The High Tower** — guarded entrance to a cache of super-magical artifacts; site of the High Tower Library, where Janussi-murder research was conducted (ch58)
+- **Assassins' Tunnel** / **Area 5b** — Tunnel used by Empty-Scabbard Killers soulblades to reach the Raucous Mesa.
+- **Cranium Rat Den** / **Area 6c** — Chamber housing a swarm of cranium rats plus additional cranium rats within the Assassins' Den.
+- **Cultist Chasm** / **Area 5a** — Chasm used by Cult of Demogorgon derro to reach the Raucous Mesa.
+- **Mindwitness Chamber** / **Area 6e** — Chamber housing two soulblades and a mindwitness created from a captured spectator, Qualux's greatest triumph.
+- **Northeast Barracks** / **Area 6b** — Chamber housing four soulblades and two intellect devourers within the Assassins' Den.
+- **Northwest Barracks** / **Area 6a** — Chamber housing five soulblades and 2d4 cranium rats within the Assassins' Den.
+- **Qualux's Quarters** / **Area 8** / **Tunnel with Spikes** / **Whorlstone Area 8** — Table of contents lists Area 8 as Qualux's Quarters; the Whorlstone quickref instead describes it as a hazardous spiked tunnel reactivated by cultists.
+- **Small Den** / **Area 6d** — Chamber housing two soulblades and an intellect devourer within the Assassins' Den.
+- **Whorlstone Area 1 (Entrance)** / **Area 1** / **Entrance** — Entrance to the Whorlstone Tunnels named in this supplement's table of contents; no further description appears in this chunk.
+- **Whorlstone Area 10** / **Area 10** / **Cultist Outpost** / **Cultist Pens** — Table of contents lists Area 10 as Cultist Pens; the Whorlstone quickref describes it as Narrak's forward Cultist Outpost with Demogorgon sigils and black ichor.
+- **Whorlstone Area 11** / **Area 11** / **Cultist Barracks** / **Quasit Playground** — Table of contents lists Area 11 as Quasit Playground; the Whorlstone quickref describes it as a Cultist Barracks hiding a letter from Zubriska to Uskvil.
+- **Whorlstone Area 12** / **Area 12** / **Narrak's Headquarters** — Table of contents lists Area 12 as Cultist Hideout; the Whorlstone quickref describes it as Narrak's Headquarters, with a Demogorgon altar and severed heads.
+- **Whorlstone Area 13 (Dumping Pit)** / **Area 13** / **Dumping Pit** — Whorlstone chamber of reanimated multi-headed zombies made from Empty-Scabbard Killer corpses, where Uskvil performs necromantic rituals.
+- **Whorlstone Area 14 (The Obelisk)** / **Area 14** / **Obelisk** / **The Obelisk** — Gray Ghosts' Whorlstone headquarters holding the pulsating obelisk and the chained red dragon egg Pliinki and Uskvil are trying to channel into it.
+- **Whorlstone Area 14a (Doors)** / **Area 14a** / **Doors** — Whorlstone corridor of magically sealed doors keyed to ritual components (egg, ore, blood, shadow, mind); only the egg sigil is active.
+- **Whorlstone Area 14b (Zubriska's Barracks / Hideout)** / **Area 14b** / **Thieves' Hideout** / **Whorlstone Area 14b (Zubriska's Barracks)** / **Zubriska's Barracks** / **Zubriska's Hideout** — Zubriska's Whorlstone hideout, holding thieves' tools, a scroll of teleport, and her journal plotting to betray the cult and claim the obelisk.
+- **Whorlstone Area 14c (Thief Barracks)** / **Area 14c** / **Thief Barracks** — Gray Ghosts dormitory in Whorlstone holding sabotage target lists and a note referencing the mysterious 'One Who Watches.'
+- **Whorlstone Area 1a (Pool Bypass)** / **Area 1a** / **Pool Bypass** — Whorlstone sub-area named in this supplement's table of contents; no further description appears in this chunk.
+- **Whorlstone Area 1b (Buppido's Lair)** / **Area 1b** — Chamber cursed by Orcus after Buppido's failed sacrifice, raising the dead here as undead; Pelek's ghost appears here.
+- **Whorlstone Area 2 (Diseased Pool)** / **Area 2** / **Diseased Pool** — Whorlstone area named in this supplement's table of contents; no further description appears in this chunk.
+- **Whorlstone Area 3** / **Area 3** / **Tunnel Junction** / **Zombie Hall** — This document's table of contents lists Area 3 as Zombie Hall; its Whorlstone quickref instead describes Area 3 as Tunnel Junction, a transit point.
+- **Whorlstone Area 4** / **Area 4** / **Collapsed Passage** / **Fungi Thicket** — Table of contents lists Area 4 as Fungi Thicket; the Whorlstone quickref describes it as a Collapsed Passage the Gray Ghosts are trying to clear.
+- **Whorlstone Area 5** / **Area 5** / **Storage Cache** / **The Raucous Mesa** — Table of contents lists Area 5 as Raucous Mesa; the Whorlstone quickref describes it as a Storage Cache hiding a letter from Uskvil to Pliinki.
+- **Whorlstone Area 6** / **Area 6** / **Assassins' Den** / **Assassins' Dens** — Table of contents lists Area 6 as Assassins' Den; the Whorlstone quickref describes it as a Barracks occupied by derro savants running sleep experiments.
+- **Whorlstone Area 7 (Assassins' Headquarters)** / **Area 7** / **Assassins' Headquarters** — Eldgrim's Whorlstone lair holding Deepking Horgar's sealed hit list naming local nobles, a drow priestess, and the derro savant Pliinki as targets.
+- **Whorlstone Area 9** / **Area 9** / **Hydra's Nest** — Table of contents lists Area 9 as Fountain of Evil; the Whorlstone quickref describes it as the hydra's territory, littered with corpses from Area 13.
+- **Derro Territory** — A region referenced for background and encounter rules on derro hostility toward non-derro visitors entering the Halls of Sacred Spells.
+- **West Cleft and East Cleft Districts** / **East Cleft** / **East Clefts** / **West Cleft** / **West Clefts** — Districts where Uskvil formerly resided and where Droki can be sought as a lead into the Whorlstone Tunnels; also a target of Horgar's derro purge.
+- **City Gates** — Gracklstugh's main land entrance, where the Stone Guard question and inspect the goods of arriving traders.
+- **Furrow Gates** — Location within the Darklake District named in this supplement's table of contents; no further description appears in this chunk.
+- **Keepers of the Flame Headquarters** / **Keepers of the Flame Barracks** — Base of the Keepers of the Flame faction in Flowstone District, where Gartokkar Xundom and Themberchaud the Wyrmsmith can be met.
+- **The Hold of the Deepking** — Location further within the city where the book alternately places the Deepking's temple home, contradicting Overlake Hold's description.
+- **The Royal Vault** / **Royal Vault** — Deepking's five-chambered vault beneath his throne, guarded by locks, symbol spells, and mass suggestion compelling intruders to surrender.
+- **Cyrog's Chamber** — Chamber where Orcus appeared, scattering the few surviving illithids who fled, one of whom later became Qualux.
 
 ## NPCs
 
-- **Demogorgon** / **Prince of Demons** — Prince of Demons who rampaged through Menzoberranzan's Claw Rift
+- **Demogorgon** / **Prince of Demons** / **the Prince** — Prince of Demons who rampaged through Menzoberranzan's Claw Rift
 - **Fraz-Urb'luu** — demon lord imprisoned in the black gem, sowed chaos in Mantol-Derith
 - **Juiblex** / **the Faceless Lord** — ooze demon lord and Zuggtmoy's rival who crashes the wedding
 - **Yeenoghu** — demon lord whose presence drives gnolls into a frenzy
-- **Zuggtmoy** / **Demon Queen of Fungi** / **Lady of Decay** / **the Great Seeder** / **Dark Lady** / **The Dark Lady** / **Zuggtomy** — demon queen plotting to wed Araumycos to dominate the Underdark
-- **Asha Vandree** / **Asha** / **Asha Vandry** — junior drow priestess at Velkynvelve, Shoor's distant cousin
+- **Zuggtmoy** / **Demon Queen of Fungi** / **Lady of Decay** / **the Great Seeder** / **Dark Lady** / **The Dark Lady** — demon queen plotting to wed Araumycos to dominate the Underdark
+- **Asha Vandree** / **Asha** — junior drow priestess at Velkynvelve, Shoor's distant cousin
 - **Balok** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Bemeril** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Byrtyn Fey** — Matron Mother of House Fey-Branche, skilled at forging alliances
@@ -603,7 +668,7 @@
 - **Guldor** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Hanne Hallen** / **Hanne** — young drow mage-in-training allied with House Mizzrym, separated from her mother's egg-run
 - **Honemmeth** — rank-and-file drow warrior of the Velkynvelve garrison
-- **Ilvara Mizzrym** / **Ilvara** / **Mistress Ilvara** / **Elvara** — senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
+- **Ilvara Mizzrym** / **Ilvara** / **Mistress Ilvara** — senior drow priestess of Lolth, commander of Velkynvelve, House Mizzrym
 - **Imbros** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Jaezred** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Jalynfein Oblodra** — blind young drow echo cast out of Menzoberranzan
@@ -611,7 +676,7 @@
 - **Jevan** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Jorlan Duskryn** / **Jorlan** — maimed drow elite warrior, Ilvara's discarded former lover
 - **Kalannar** — rank-and-file drow warrior of the Velkynvelve garrison
-- **Khalessa Draga** / **Khalessa** / **Khelessa Draga** / **khaless** — high elf Lords' Alliance deep-cover spy from Silverymoon
+- **Khalessa Draga** / **Khalessa** / **khaless** — high elf Lords' Alliance deep-cover spy from Silverymoon
 - **Kinyel Druu'giir** / **Druu'giir** — drow assassin afflicted by gem-madness, seeks to kill Lorthuun
 - **Krilelyn H'Kar** — male drow elite warrior and Bregan D'aerthe operative who escorts the party
 - **Malagar** — rank-and-file drow warrior of the Velkynvelve garrison
@@ -639,13 +704,12 @@
 - **Zhora Hallen** / **Zhora** — drow elite warrior, Hanne's mother, leader of the Dark Hunters
 - **Zilchyn Q'Leptin** / **Zilch** — drow mage and kleptomaniac, ex-Menzoberranzan wizard
 - **Dauthorn Brightmantle** — male shield dwarf captive from the Silver Marches
-- **Errde Blackskull** / **Errde** / **Errde Blackstaff** / **Erdde Blackskull** / **Errde Captain Errde** / **Captain Errde** / **Captain Blackskull** — female duergar captain commanding the Stone Guard
+- **Errde Blackskull** / **Errde** / **Errde Blackstaff** / **Errde Captain Errde** / **Captain Errde** / **Captain Blackskull** / **Captain Errde Blackskull** — female duergar captain commanding the Stone Guard
 - **Gartokkar Xundorn** / **Gartokkar** — male duergar Keeper of the Flame, leader of the order
 - **Ghuldur Flagonfist** / **Flagonfist** — duergar in Mantol-Derith who may point party to Stonespeaker Hgraam
 - **Gorglak** — corrupt duergar Stone Guard at the gate, obsessed with rare weapons
 - **Hargritt Hammerhome** — female shield dwarf captive from the Silver Marches
-- **Hemeth** / **Hemath** — duergar arms smuggler captured for sacrifice, willing to cooperate
-- **Horgar Steelshadow V** / **Deepking Horgar V** / **King Horgar Steelshadow V** — Deepking of Gracklstugh, touched by demon-lord madness
+- **Hemeth** — duergar arms smuggler captured for sacrifice, willing to cooperate
 - **Krimgol Muzgardt** — duergar ale merchant who found Fraz-Urb'luu's gem
 - **Lorthio** / **Lorthio Bukbukken** — duergar alchemist of the Gray Ghosts in the Whorlstone Tunnels
 - **The Pudding King** / **Pudding King** — ooze-corrupted figure who retreats to Blingdenstone if alive
@@ -654,13 +718,13 @@
 - **Ylsa Henstak** — female duergar Merchant Council caravan master
 - **Zulia Stonewhisper** — female shield dwarf captive from the Silver Marches
 - **Aliinka** — renegade derro savant twin sister, co-leader of the Gray Ghosts
-- **Buppido** / **Bupido** — derro prisoner who knows the route to Gracklstugh; secretly intends to murder companions as divine offerings
+- **Buppido** — derro prisoner who knows the route to Gracklstugh; secretly intends to murder companions as divine offerings
 - **Uskvil** — renegade derro savant, co-leader of the Gray Ghosts
 - **Y** — derro savant, member of the Society of Brilliance
 - **Zubriska** — renegade derro savant twin sister, co-leader of the Gray Ghosts
 - **Ariana** — deep gnome merchant delivering gemstones, with an earth elemental bodyguard
 - **Chipgrin Goldwhisker** / **Chipgrin** / **Chief Chipgrin** — leader of the Goldwhisker wererat clan
-- **Dasco Pickshine** / **Dazco Pickshine** — deep gnome overseer of Pickshine Mines operations
+- **Dasco Pickshine** — deep gnome overseer of Pickshine Mines operations
 - **Dorbo Diggermattock** / **Chief Dorbo** / **Chief Dorbo Diggermattock** / **Chief Diggermattock** / **Dorbo** — chief and de facto co-ruler, leader of mining expeditions
 - **Droki** — scatterbrained derro courier for the Gray Ghosts and Council of Savants
 - **Eldeth Feldrun** / **Eldeth** / **Eldev** / **Elspeth** — shield dwarf prisoner with +5 Survival, unfamiliar with this region
@@ -668,9 +732,9 @@
 - **Gabble Dripskillet** — svirfneblin chief negotiator
 - **Garra Songstone** — deep gnome stone-singer playing the Singing Stones
 - **Glyphic Shroomlight** / **Glyphic** — nervous young novice overseeing the Ruby in the Rough temple
-- **Gurnik Tapfinger** / **Grunik Tapfinger** — head priest of Callarduran Smoothhands with a task
+- **Gurnik Tapfinger** — head priest of Callarduran Smoothhands with a task
 - **Jimjar** / **Jimjar Also Jim Jar** / **Jimjar Jim Jir** / **Jim Jir** — deep gnome prisoner who can guide the party to Blingdenstone
-- **Kazook Pickshine** — deep gnome alchemist and miner from Blingdenstone
+- **Kazook Pickshine** / **Kazook** — deep gnome alchemist and miner from Blingdenstone
 - **Mev Flintknapper** / **Mev** — svirfneblin trapped by gelatinous cube in Traders' Grotto
 - **Peebles** — deranged svirfneblin surgeon serving Xazax the Eyemonger
 - **Pelek** — spirit whose severed hand from Gracklstugh can be laid to rest
@@ -691,7 +755,7 @@
 - **Gasbide** — Circle of Builders leader, mad would-be architect supporting Phylo
 - **Loobamub** — leader of the Circle of Hunters, loyal to Basidia
 - **Posbara** — myconid adult councilor of the Inner Circle
-- **Rasharoo** / **Rusharoo** — leader of the Circle of Explorers, knows routes to the surface
+- **Rasharoo** — leader of the Circle of Explorers, knows routes to the surface
 - **Rumpadump** / **Rump A Dump Rumpadump** — uninfected myconid sprout who can guide party to the grove
 - **Sovereign Basidia** / **Basidia** — myconid sovereign loyal allies warn the party off Neverlight Grove
 - **Sovereign Phylo** / **Phylo** / **Phyllo** — myconid sovereign who poisons visitors at Neverlight Grove
@@ -703,7 +767,7 @@
 - **Klibdoloogut** / **Klib** — kuo-toa whip and keeper of the altar of the Deep Father
 - **Ougalop** — happy-go-lucky kuo-toa from Sloobludop catching giant crickets
 - **Ploopploopeen** / **Ploop** / **Ploopploopeen Ploop** / **Ploopploo** — kuo-toa archpriest of Blibdoolpoolp the Sea Mother, displaced by his daughter
-- **Shuushar the Awakened** / **Shuushar** / **Shuushar Also Suushar** / **Shuushar Shuushar The Awakened** / **Suushar** / **Suushar The Awakened** — pacifist kuo-toa hermit and mystic familiar with the Darklake
+- **Shuushar the Awakened** / **Shuushar** / **Shuushar Also Suushar** / **Shuushar Shuushar The Awakened** / **Suushar** — pacifist kuo-toa hermit and mystic familiar with the Darklake
 - **Sloopidoop** — kuo-toa archpriest member of the Society of Brilliance
 - **Dorhun** — stone giant apprentice to Stonespeaker Hgraam
 - **Jaal** — stone giant guide who communes with rock to find the route
@@ -729,7 +793,7 @@
 - **Skriss** — troglodyte member of the Society of Brilliance
 - **Cyrog** — ancient elder brain commanding a distant mind flayer settlement
 - **Dame Spiderwort** — green hag sister of Nanny Plunk
-- **Glabbagool** / **Glabagool** / **Globagool** / **Globul** — sentient ooze companion who prefers to remain in the Underdark
+- **Glabbagool** — sentient ooze companion who prefers to remain in the Underdark
 - **Grazilaxx** — mind flayer member of the Society of Brilliance who prefers telepathy
 - **Grula-Munga** — female ettin bodyguard of Narrak
 - **Hourm** — friendly galeb duhr greeter inside Gravenhollow
@@ -738,11 +802,11 @@
 - **Maven Delve** — green hag sister of Nanny Plunk
 - **Nanny Plunk** — green hag who taunts and misleads travelers on the Darklake
 - **Prince Livid** — psychic gray ooze, the Pudding King's 'child'
-- **Princess Ebonmire** / **Ebonmire Princess Ebonmire** / **Ebonmire** / **Princess Ebonheir** / **Ebonheir** / **Ebonir** — intelligent black pudding, the Pudding King's 'child'
+- **Princess Ebonmire** / **Ebonmire Princess Ebonmire** / **Ebonmire** — intelligent black pudding, the Pudding King's 'child'
 - **Spider King** — two-headed giant spider warped into humanoid shape
 - **Stronk** — brutish fomorian caretaker of the purple worm eggs
 - **Szashune** — four-armed obsidian drow warrior statue guarding Gromph's outer sanctum
-- **Themberchaud** / **Father of Flame** / **Themberchaud the Wyrmsmith** / **the Everburning** / **the Foundry's Heart** / **the Wyrmsmith** / **Themberchaude** / **Thermbechaud** / **Thermbachaude** / **Thermbachaud** / **Thermebechaude** / **Thermbechaude** / **Wyrmsmith** / **Thembersham** — red dragon Wyrmsmith of Gracklstugh, plots against the Keepers
+- **Themberchaud** / **Father of Flame** / **Themberchaud the Wyrmsmith** / **the Everburning** / **the Foundry's Heart** / **the Wyrmsmith** / **Themberchaude** / **Wyrmsmith** / **Thembersham** / **His Arrogance** / **His Rotundity** / **the Pampered** / **the Portly** / **the Scheming Red** — red dragon Wyrmsmith of Gracklstugh, plots against the Keepers
 - **Veldyskar** — intelligent basilisk guardian who guides party to the gates
 - **Xazax the Eyemonger** / **Xazax** / **Xazaz** — beholder that hunts beholders and grafts their eyestalks
 - **Xetzirbor** — mind flayer echo seeking to save dying elder brain Cyrog
@@ -799,7 +863,7 @@
 - **Andarin Zarith** — future echo, human Red Wizard of Thay
 - **Cattie-brie** — companion of Bruenor in retaking Gauntlgrym
 - **Chris Perkins** / **Christopher Perkins** — designer who wrote the Afterword
-- **Deepking Tarngardt** / **Deepking** — grandfather of Horgar V who freed the derro slaves
+- **Deepking Tarngardt** / **Deepking** / **Horgar Steelshadow V** / **Deepking Horgar V** / **King Horgar Steelshadow V** / **Deepking Horgar Steelshadow V** / **Deepking Horgar** / **Horgar** / **Steelshadow V** / **the Deepking** — grandfather of Horgar V who freed the derro slaves
 - **Elminster** — future echo, human archmage seeking a forgotten spell
 - **Lesla Carrowil** — svirfneblin archmage who authored the recovered spellbooks
 - **Primus** — modron ruler invoked by rogue monodrone ('Down with Primus!')
@@ -815,7 +879,7 @@
 - **Fheminor Scrivenbark** / **Scrivenbark** / **Fheminor** — Great Reader; halfling; Janussi's intended successor
 - **Teles Ahvoste** / **Ahvoste** / **Teles** — Great Reader; archmage
 - **Kazryn Nyantani** / **Nyantani** / **Ntantani** / **Kazryn** — Great Reader; A'lai's lover
-- **Kalan Strongbranch** / **Strongbranch** / **Callan** / **Strongbench** / **Kalan** / **Gate Warden** — Gatewarden; archmage
+- **Kalan Strongbranch** / **Strongbranch** / **Kalan** — Gatewarden; archmage
 - **Kei Tigersteel** / **Tigersteel** — Lorekeeper
 - **V'ziir-Ag** — 8th Great Reader, gith master sage, off-screen (away on a Far Realm research trip; explicit "ambitious DMs use him as the big bad in lieu of Manshoon" note)
 - **Fembris Lancer** / **Lancer** / **Fembris** — acolyte adjutant
@@ -859,16 +923,16 @@
 - **Miirym, the Sentinel Wyrm** — translucent ghost-dragon guardian of Candlekeep (encountered "Underneath Candlekeep")
 - **Batbayar** — legendary halfling bard whose statue dominates the School of Drama
 - **Fyrentennimar** — the ancient red dragon whose preserved carcass is Drakonoikos
-- **Plinki** / **Pliinki** — mad derro savant guarding the obelisk
+- **Plinki** — mad derro savant guarding the obelisk; author of Plinky's Journal, a demonological text sourced from the Whorlstone Caverns
 - **Brysis Of Khaem** / **Brysis**
-- **Fargas Rumblefoot** / **Fargus Rumblefoot**
-- **Naomi Pathshutter** / **Nomi Pathshutter** — earth elemental wrangler, Yantha's apprentice
-- **Jadger** / **Uth Jadgar** / **Burrow Warden Jadger** / **Jadgar** / **Borough Warden Jadger** / **Uth-Jadger** — ghost veteran leading the new burrow wardens; confirmed via 5etools module search as "Jadger" (Jadgar has zero hits in the published OotA text)
+- **Fargas Rumblefoot**
+- **Naomi Pathshutter** — earth elemental wrangler, Yantha's apprentice
+- **Jadger** / **Uth Jadgar** / **Burrow Warden Jadger** / **Borough Warden Jadger** / **Uth-Jadger** — ghost veteran leading the new burrow wardens; confirmed via 5etools module search as "Jadger" (Jadgar has zero hits in the published OotA text)
 - **Kaelira Duskryn** / **Kaelira** / **Kaelen**
 - **Nym Duskryn** / **Nym** — rank-and-file drow warrior of the Velkynvelve garrison
 - **Yuk Yuk**
-- **Hepbobe** / **Hepbobe Also Referred To As Hepbode** / **Hepbode** / **Hebopbe** — Circle of Growers leader, infected but not yet under control
-- **Gorg Bahamut** / **Gorg Bahamut Grog Bahamut** / **Grog'Bahamut**
+- **Hepbobe** / **Hepbobe Also Referred To As Hepbode** — Circle of Growers leader, infected but not yet under control
+- **Gorg Bahamut** / **Gorg Bahamut Grog Bahamut**
 - **Fuurm Coppernose** / **Fuurm Coppernose Copper** / **Copper** / **Fuurm "Copper" Coppernose**
 - **Brannum Redmarch** / **Brannam**
 - **Aliza Argot**
@@ -881,24 +945,24 @@
 - **Diirdeklin**
 - **Dulgir**
 - **Elbeth**
-- **Eldgrim**
-- **Elian** / **Eliana** / **Ilian**
+- **Eldgrim** / **Eldgrim, Master Assassin** — Duergar soulblade, master assassin and second-in-command of the Empty-Scabbard Killers under Qualux; distributes charity while scouting recruits for the illithid.
+- **Elian**
 - **Flumph** / **The Flumph**
 - **Gerdig Katfinger**
 - **Grimgrim**
 - **Grimholl Forgebrand**
-- **Grinta Ironhead**
+- **Grinta Ironhead** / **Grinta** — Hot-tempered granddaughter of Clan Ironhead's laird Thangus who strives for change; might be pushed toward insurrection if shown the hit list.
 - **Grogluk**
 - **Gru Manga**
-- **Grygum** / **Gyrgum**
+- **Grygum**
 - **Khaem**
-- **Khell-Vire** / **Khell** / **Kelvir**
+- **Khell-Vire** / **Khell**
 - **King Hekaton**
 - **Korrh Erann**
-- **Lingrick Xardelvar**
+- **Lingrick Xardelvar** — Named sarcastically as Deepking Horgar's 'most gaseous ally' at the end of his hit list of targets.
 - **Milo Goodbarrel** / **Goodbarrel**
 - **Philemon (Master Archivist)** / **Philemon**
-- **Protanther** / **Protenthor**
+- **Protanther**
 - **Rihaud**
 - **Runc**
 - **Rust**
@@ -909,31 +973,30 @@
 - **Stroud**
 - **Tarngardt**
 - **Tarvis Ulain**
-- **Thangus Ironhead**
+- **Thangus Ironhead** / **Thangus** — Laird of Clan Ironhead in Northfurrow District; tells the party of the Deepking's edict barring the Ironheads from accepting new work orders.
 - **The Blind Monk (Candlekeep)**
 - **The Garden Shadow**
 - **The House T'sarran Spy (Princess Ebonmire)**
 - **The Matron Mother of House T'sarran**
 - **Thorin** / **Thorin Giantfriend**
 - **Topsy and Turvy**
-- **Ulnara**
+- **Ulnara** — Derro savant occupying the Dumping Pit (Area 13) with an ogre zombie, zombies, and a crawling claw; goes invisible to cast lightning bolt.
 - **Valen**
 - **Valimor Brightgem** / **Valimor**
-- **Vareth** / **Varith** / **Brother Vareth** / **Varath**
+- **Vareth** / **Brother Vareth**
 - **Welnaste Mizzrym**
 - **Whisperwind**
 - **Zalthir**
 - **Whistler** / **Ardragon** — Kenku, legendary/mythologized figure connected to a party member per in-world telling; depicted in Milo Goodbarrel's published books alongside Stroud and Malfire; memorial sign at Rishaal's Pageturners claims he 'fell at Glaziel's lair'; as 'the Ardragon,' a masked ex-Zhentarim route-flyer turned unpaid vigilante on the caravan trails north of Yartar
 - **Rishaal** — Owner of Rishaal's Pageturners, a bookshop in Waterdeep
 - **Travis Houlin** / **Travis** — Deceased paladin of Bahamut memorialized in Daggerford, died fighting the Cult of the Dragon there
-- **Malfire** / **Melfire** — Figure depicted alongside Stroud, Milo, and Whistler in Milo Goodbarrel's painting at Rishaal's Pageturners (Waterdeep); fan debate attributes him an 'operational expenses, cost of living' philosophy
-- **Eldred** / **Elred** — One of several people driven mad by the false-syncopation chant error, linked to the Endless Chant/Deadwinter Prophecy thread and Daz's headaches
+- **Malfire** — Figure depicted alongside Stroud, Milo, and Whistler in Milo Goodbarrel's painting at Rishaal's Pageturners (Waterdeep); fan debate attributes him an 'operational expenses, cost of living' philosophy
+- **Eldred** — One of several people driven mad by the false-syncopation chant error, linked to the Endless Chant/Deadwinter Prophecy thread and Daz's headaches
 - **Elin** / **Ellen** — Silent child of Meredith of the Ford, near Daggerford; afflicted by the surface-bleeding Underdark/chant madness, tenuously linked to Daz's headaches. Confirmed 'Elin' — matches docs/campaign_state.md and 7x usage in docs/TheUnderdark.md; 'Ellen' was the registry's error, now demoted to alias.
-- **Maerith of the Ford** / **Meredith of the Ford** — Weaver at the River Shining Tavern near Daggerford; Elin's mother. Confirmed 'Maerith' — matches notes/sessions/ and docs/chapters/chapter_55; 'Meredith' only appears in the superseded summaries/old/20260511/ first-pass output.
-- **Kestler** / **Kessler** — Half-orc at the Mountain's Mouth inn (Triboar area) who keeps a small Bahamut shrine; asked the party to carry a note to his brother at a temple that stopped writing 5 years ago
+- **Maerith of the Ford** — Weaver at the River Shining Tavern near Daggerford; Elin's mother. Confirmed 'Maerith' — matches notes/sessions/ and docs/chapters/chapter_55; 'Meredith' only appears in the superseded summaries/old/20260511/ first-pass output.
+- **Kestler** — Half-orc at the Mountain's Mouth inn (Triboar area) who keeps a small Bahamut shrine; asked the party to carry a note to his brother at a temple that stopped writing 5 years ago
 - **Glaziel** — Referenced only as Glaziel's lair on Whistler's memorial sign at Rishaal's Pageturners - where Whistler is said to have fallen
 - **Vooshadi Moonriver** — Candlekeep attendant assigned by Bookwyrm to guard the Sanctum door
-- **Plinky** — Author of Plinky's Journal, a demonological text from the Whirlstone Caverns
 - **Daz'issin** — Drow name/epithet meaning 'small shadow' - identity unclear (Daz's own? an NPC's?); a softening name mothers used for boys they wanted to live. Found in a footnote in Daz's heraldry book with the appendix razored out.
 - **Festrum** — gnome innkeeper, Burning Wizard Inn, Candlekeep arc (ch.55)
 - **Brother Heslin** / **Tervin** / **Tharusk** — Candlekeep monk, trainer of Zalthir
@@ -941,3 +1004,29 @@
 - **Brother Aldas** — Candlekeep monastery instructor (name doubted in-fiction)
 - **Vof Klownits** / **Klownits** — off-screen sage cited for the maxim 'no plan survives encounter with the enemy' (homebrew name ~ Clausewitz)
 - **Brother Quellin** — Candlekeep monastery brother; doubted-attribution flashback source (matches Brother Harren/Aldas/Heslin pattern)
+- **Adrik Blackskull** — 553-year-old male duergar leader of Clan Blackskull (Stonemasons); a blustering blowhard who believes in claiming power through station.
+- **Amber Thrazgad** — Laird of Clan Thrazgad in Southfurrow District; reports stolen ore, suspects the Gray Ghosts, and offers a 20% armorsmithing discount for its recovery.
+- **Audhild Xornbane** — 308-year-old female duergar leader of Clan Xornbane (Scouts and Prospectors); highly intelligent, flowery, believes in suffering to prove worth.
+- **Baern Xundom** — 392-year-old male duergar leader of Clan Xundom (Steeder Breeders); stern, believes in responsibility and obedience; Gartokkar's brother.
+- **Bruenor Burakrinwurn** — 639-year-old male duergar leader of Clan Burakrinwurn (Dock Operators); blind and nearly deaf, suspicious of everyone, values rooting out lies.
+- **Dagnal Thordensonn** — 585-year-old male duergar leader of Clan Thordensonn (Jewelers); curious and honorable.
+- **Delg Coalhewer** — 262-year-old male duergar leader of Clan Coalhewer (Coal Miners); ponderous and believes in charity where possible.
+- **Einkil Anvilthew** — 329-year-old male duergar leader of Clan Anvilthew (Toolmakers); curious about everyone he meets and believes strongly in redemption.
+- **Flint Thuldark** — 257-year-old male duergar leader of Clan Thuldark (Metalworks and Jewels); nervous and sullen, believes in respecting others' work.
+- **Gunnloda Firehand** — 489-year-old female duergar leader of Clan Firehand (Smelters); irritable and agitated, believes in speaking plainly and fairly.
+- **Gurdis Bukbukken** — 484-year-old female duergar leader of Clan Bukbukken; argumentative about fungi-farming practices and prone to whimsy after drinking.
+- **Helja Henstak** — 354-year-old female duergar leader of Clan Henstak (Food); very anxious about food stores, believes in moderation and rationing.
+- **Kathra Muzgardt** — 574-year-old female duergar leader of Clan Muzgardt (Brewers); arrogant and extremely greedy, believes money is key to power.
+- **Mardred Parlynsurk** — 360-year-old female duergar leader of Clan Parlynsurk (Clothing Manufacturers); friendly, believes in neutrality and focusing on her work.
+- **Orsik Saltbaron** — 363-year-old male duergar leader of Clan Saltbaron (Salt Miners); honest, believes in independence and letting others find their paths.
+- **Riswynn Hammercane** — 451-year-old female duergar leader of Clan Hammercane (Construction Engineers); friendly, believes logic is key to life's satisfaction.
+- **Vondal Xardelvar** — 317-year-old male duergar leader of Clan Xardelvar (Gas Miners); hot-tempered and believes in honor.
+- **Olga** — Horgar's daughter and heir to the Steelshadow throne; Themberchaud urges the party to assassinate her as poetic justice for his stolen egg.
+- **Ivar** — One of three soulblade guards (36 hit points) protecting Eldgrim at Area 7, wielding a mind blade alongside Ulara and Shari.
+- **Qualux** — Mind flayer occupying Area 8, secretly directing Eldgrim and the Empty-Scabbard Killers while cultivating a fledgling elder brain colony born from Lorthio.
+- **Shari** — One of three soulblade guards (36 hit points) protecting Eldgrim at Area 7, wielding a mind blade alongside Ulara and Ivar.
+- **Ulara** — One of three soulblade guards (36 hit points) protecting Eldgrim at Area 7, wielding a mind blade alongside Ivar and Shari.
+- **Ylsa** — Merchant whose task reward is changed to Clan Henstak's favor, usable for advantage in one clan negotiation.
+- **Gorgthrax** — Name the stolen red dragon egg assumes on hatching; a demonically-influenced, two-headed wyrmling drawn to serve Demogorgon as a mount.
+- **Hydra** / **Area 9 Hydra** — Multi-headed guardian of Whorlstone Area 9's travel routes, listed among the tunnels' primary actors; hunts and attacks any group passing through, regardless of faction.
+- **Zombies with Multiple Heads** — Multi-headed zombies reanimated from slain Empty-Scabbard Killers in Whorlstone Area 13, product of cult experiments to create hybrid warriors; mindless but aggressive.

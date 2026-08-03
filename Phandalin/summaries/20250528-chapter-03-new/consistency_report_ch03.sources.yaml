@@ -1,0 +1,241 @@
+consistency_check:
+  timestamp: "2026-08-02T19:23:01-07:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20250528-chapter-03-new/session_2025_05_28_new_chapter_3.md"
+  document_class: "first-pass GMAssistant-exported recap (no enhance_summary layer, no prior manifest)"
+  report: "summaries/20250528-chapter-03-new/consistency_report_ch03.md"
+  config: "/tmp/.../scratchpad/phandalin_abs_config.yaml (throwaway, absolute paths)"
+  model: "claude-code backend (subscription, headless `claude -p`)"
+  backend: "claude-code"
+  issues_found: 13
+  session_prep_used: false
+  entity_registry_used: true
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted confirmed names (campaign-standard)" }
+
+  notes: |
+    CONFIG WORKAROUND. This workspace has no root config.yaml — the real config is
+    at Phandalin/config/config.yaml, and load_config sets base_dir =
+    config_path.parent, so its `docs/campaign_state.md` entries would resolve to
+    Phandalin/config/docs/... and fail. Ran with a throwaway absolute-path config
+    in the scratchpad (only campaign_state + world_state are auto-loaded, so those
+    are all that had to be correct).
+
+    NO SESSION PREP EXISTS. Confirmed by the GM. This session is 2025-05-28, but
+    every file in notes/session_prep/ is 2026 material (chapters ~30-40). A grep of
+    the whole notes/ tree for this session's beats (abbathor, hall of greed, ochre
+    jelly, dazlyn) matched only the two VTT glossaries. The check therefore ran
+    WITHOUT the source that normally catches transcription errors — but in this case
+    the glossaries covered that gap almost completely, because four of the recap's
+    PC-name errors are literal rows in vtt_transcription_corrections.md.
+
+    TEMPORAL MISMATCH IS THE DOMINANT FALSE-POSITIVE SOURCE FOR THIS DOCUMENT.
+    This is a backfilled early chapter: the party is LEVEL 1 on tape ("Bards don't
+    do much at level one" — kostadis), while docs/party.md and docs/world_state.md
+    describe the level-6, chapter-~45 party. Every finding that argues from a
+    documented spell list, item loadout, or character level is arguing from state
+    that postdates this session by roughly forty chapters. Three of the 13 findings
+    (Thunderwave, Starry Wisp, daggers) are exactly this class and all three were
+    rejected against the tape.
+
+    SPEAKER-ATTRIBUTED TRANSCRIPT AVAILABLE. Unusually, this session dir holds a
+    Zoom .md transcript with per-speaker labels (kostadis / dave / wade / gary) in
+    addition to the unlabelled .vtt. The .md was the primary adjudication source
+    because attribution questions dominated this run; the .vtt has no speaker
+    labels at all. Speaker labels in the .md are imperfect (the GM's block often
+    absorbs other voices), so rulings were made on content, not labels alone.
+
+    STEPHANE WAS ABSENT. Only four speakers on tape. Per Phandalin/CLAUDE.md,
+    Gary covers Brewbarry when Stephane is absent — but on this tape the GM
+    (kostadis) is visibly running Brewbarry himself ("Then I will rage", "I think
+    I'm punching this guy", "All right, Brewbarry"), while gary plays Valphine.
+    This matters because it is *why* the summarizer's character attribution
+    collapsed: Brewbarry's actions come out of the GM's mouth.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-02"
+    gm_rulings_this_run:
+      - "'Felkur is a mistake caused by an LLM error' — GM confirmed the name is a
+         summarizer invention, not a transcription garble. It appears 0x in either
+         transcript and 0x in entity_registry.yaml. Do NOT add it to the glossary."
+      - "There is no session prep for 2025-05-28 — confirmed by the GM. Chapter-3
+         backfill runs have no prep layer; the VTT glossaries carry that load."
+      - "Chapter numbering (Ch3 vs campaign_state.md's Ch2) is being sorted
+         separately as part of a wider renumbering effort. Not decided from this
+         recap; recap title left as 'New Chapter 3'."
+      - "Hall of Greed statue trap never fired — the party did not trigger it. The
+         recap is accurate in not describing one; the trap remains live."
+
+    applied:
+      - { finding: 1,  fix: "Sema -> Soma, 6 instances that were genuinely Soma, plus he/him -> she/her throughout; 'tortle barbarian' -> 'tortle druid'" }
+      - { finding: 2,  fix: "Dazzleglim -> Dazlyn, 14 instances" }
+      - { finding: 3,  fix: "Felkur -> Valphine on the 'We found 10.' Memorable Moment (1 instance)" }
+      - { finding: 7,  fix: "Vukadin -> Vukradin (14), Valfine -> Valphine (14), Brewberry -> Brewbarry (2)" }
+      - { finding: 8,  fix: "'Brewberry swung her halberd' -> 'Brewbarry swung his halberd'" }
+      - { finding: 9,  fix: "Soma pronouns corrected to she/her in Summary, Scenes, Memorable Moments, Spells" }
+      - finding: "not-in-report (VTT-only)"
+        fix: "Sema -> Brewbarry on the two Summary clauses that describe barbarian
+              actions (the 1-HP pseudopod hit; the rage/fists kill). The check saw
+              only the spelling error, not that 'Sema' was TWO different characters."
+      - finding: "not-in-report (VTT-only)"
+        fix: "Healing re-attributed from 'the barbarian' to Soma in both the Scenes
+              and Spells sections. Every heal on tape went to Soma."
+      - finding: "not-in-report (VTT-only)"
+        fix: "Gem-split negotiation moved from Norbus's NPC entry to Dazlyn's."
+
+    rejected:
+      - finding: 4
+        ruling: "Deferred by GM — numbering handled separately, not from this recap."
+        rationale: "campaign_state.md tags the Dwarven Excavation ch2 while the doc
+          and its directory say chapter 3. Real discrepancy, wrong venue to settle it."
+      - finding: 5
+        ruling: "REJECTED — recap is correct, world_state.md is incomplete."
+        rationale: "Report wanted Thunderwave re-attributed to Valphine because
+          world_state.md lists it under her spells. Tape is unambiguous that it is
+          Vukradin's: GM says 'Vukradin, we weren't talking to you right now. We were
+          talking to Dave.'; dave then says 'They fail. They fail. So they each take
+          eight damage and are pushed back 10 feet' and 'I would've been angling it
+          up, right? So I think he goes diagonally' — which is exactly the recap's
+          'one being pushed diagonally into a corner.' Arguing from a chapter-45
+          spell list against a chapter-2/3 session."
+      - finding: 6
+        ruling: "REJECTED — table ruling, not a rules error."
+        rationale: "Report called Dissonant Whispers 'mechanically impossible'
+          because ochre jellies are immune to frightened. The GM adjudicated this
+          live and ruled the other way: 'Yep, it is suscep- Is it immune to- It's
+          not immune to, it's not immune to it ... it's immune to frightened, but-'
+          and allowed the forced move. Textbook GM-outranks-the-PHB case."
+      - finding: 10
+        ruling: "REJECTED — not a contradiction; both dwarves shouted."
+        rationale: "Report saw the preservation warning credited to Norbus in
+          Memorable Moments and to Dazlyn in the NPCs section and called it an
+          internal contradiction. Tape has BOTH, seconds apart. Norbus, verbatim:
+          'Could you not use such damaging spells? It might damage some of the
+          interior that we're trying to preserve.' Dazlyn, separately: 'again, to
+          the extent possible, please don't damage any of the artwork. This is an
+          important archeological find.' The Memorable Moment quote and its
+          attribution are correct as written."
+      - finding: 11
+        ruling: "REJECTED — confirmed verbatim on tape."
+        rationale: "Starry Wisp flagged as 'not in Vukradin's documented kit'.
+          Transcript: dave, 'Starry wisp.' then 'Okay, Vukradin, Starry Wisp'."
+      - finding: 12
+        ruling: "REJECTED — confirmed verbatim on tape."
+        rationale: "Daggers flagged as 'not listed among his items'. Transcript:
+          dave, 'I should be able to do two attacks. Um, so I've got two daggers,
+          so I should be able to do a main attack and an off-hand attack, right?'
+          The double kill is real: 'Did you kill him? Yeah. Double death. Go bard
+          go.' / 'Two, killed two creatures in one round.'"
+      - finding: 13
+        ruling: "REJECTED per GM — trap never fired, recap correctly silent."
+        rationale: "entity_registry.yaml calls the Hall of Greed statue 'trapped'
+          and campaign_state.md notes 'Hall of Greed trap NOT FOUND IN SUMMARIES'.
+          The party never triggered it. Trap remains live for a future session."
+
+  vtt_adjudicated: |
+    VTT/transcript consulted BY HAND — it was NOT a --context input to the check.
+
+    SOURCE CHOICE. Two transcripts exist here and they are not equivalent:
+      - session_20250528_transcript.cleaned.vtt — no speaker labels at all
+      - GMT20250528-035553_Recording (1).cleaned.dedup.md — per-speaker labels
+        (kostadis / dave / wade / gary)
+    Because this run was dominated by attribution questions, the speaker-labelled
+    .md was the primary source. Its labels are imperfect (the GM's block often
+    absorbs other people's lines), so every ruling below was made on CONTENT, with
+    labels as corroboration only.
+
+    SPEAKER -> CHARACTER MAP (derived, not assumed):
+      kostadis = GM, and also running Brewbarry ('All right, Brewbarry So an 11
+                 hits maybe?', 'Then I will rage', 'I think I'm punching this guy')
+      dave     = Vukradin      wade = Soma      gary = Valphine
+    Stephane was absent. Phandalin/CLAUDE.md says Gary covers Brewbarry when
+    Stephane is out, but on THIS tape the GM ran him. That is the root cause of the
+    recap's character collapse: Brewbarry's actions come out of the GM's mouth, so
+    the summarizer had no clean speaker signal for him.
+
+    THE CENTRAL FINDING — 'Sema' was TWO characters, not a misspelling of one.
+    The check caught the spelling (glossary row: Sema -> Soma) but could not see
+    that six instances were Soma and two were Brewbarry. Line 10 of the recap
+    proves the summarizer thought they were separate people: it names Soma for
+    Earth Tremor and 'Sema' for the rage-kill in the SAME paragraph.
+      Brewbarry: 'Number one advances on the barbarian... Are you dead? Maybe...
+                  No, I'm not dead. I have one hit point.'
+                 'Then I will rage.' / 'I think I'm punching this guy... Rage
+                  damage plus two.' / '14 points of damage. Dead.'
+      Soma:      'Withdraw is, uh, pull into the turtle shell.' (wade)
+                 'Oh, another hit. Oh, you're, you're knocked out.' -> 'Roll the
+                  death save.' -> wade: 'Oh, it's just one D20, right?'
+                 'I guess I could use another healing word- Oh ... on the turtle.'
+                 -> wade: 'All right, guys. Or just leave me to bleed out.'
+                 dave: 'Soma got healed? When did Soma get healed?'
+    Soma is the tortle DRUID (she/her per party.md); Brewbarry is the goliath
+    BARBARIAN (he/him). The recap had 'Sema, the tortle barbarian' — a phrase that
+    fuses both PCs into one nonexistent third character.
+
+    HEALING. Grepped every healing event on tape before asserting the negative
+    (healing word|heal you|healed|cure wounds|hit points back|you get .* back).
+    Exactly two heals, both Healing Word 2d4+3, both on Soma: 3 HP -> 11 HP
+    ('So Wade, you get eight back Hey, I'm back to 11'), and the later revive.
+    Brewbarry was NEVER healed — he finished on 1 hit point. The recap credited
+    both heals to 'the barbarian'.
+
+    GEM SPLIT. 'So Dazlyn goes over here... looks at Valphine and says, "So, so
+    we're going to split the gems, right?"' Dazlyn opened it, not Norbus. Numbers
+    verified and CORRECT as written: 'It contains 15 gem stones worth 10 gold
+    pieces each' and 'they get eight, you get seven'.
+
+    'DAZZLEGLIM' IS A GM SLIP, NOT A SUMMARIZER INVENTION. Unlike Felkur, this
+    form DOES occur on tape — once, at cleaned.vtt:1443, 'one of the two dwarves
+    shouts, Dazzleglim goes, Is everybody okay there?' Every other mention (9x) is
+    'Dazlyn'. The summarizer latched onto the single slip. This makes it a
+    legitimate glossary row (wrong form verified present in a VTT), unlike Felkur.
+
+    ALSO VERIFIED CORRECT (no action): the 50gp holy symbol and its 'Greed is good'
+    inscription; four orcs over the hill; Valphine speaking Orc; Vukradin running
+    off to tell the dwarves about the body ('Oh, a body. Let me go tell the
+    dwarves.' / wade: 'Just spots watching your icon zoom off.'); the Sacred Flame
+    that dealt exactly 1 damage ('Really, one? Yeah, one damage'); Valphine's
+    sleight of hand on the holy symbol ('Do you palm it or announce to the world
+    that you found it?' -> 'I guess I'll do my sleight of hand then').
+
+  carry_forward:
+    - status: OPEN
+      item: "docs/world_state.md lists Thunderwave under Valphine's key spells but
+        NOT under Vukradin's. Tape proves Vukradin cast it (ch2/3). This will
+        re-trigger the same false-positive on every future check of an early
+        chapter until Vukradin's spell list is corrected or the doc is scoped by
+        chapter. GM did not authorise a grounding-doc edit this run."
+    - status: OPEN
+      item: "Add 'Dazzleglim -> Dazlyn' to notes/vtt_transcription_corrections.md.
+        Wrong-form verified present in a VTT (session_20250528_transcript.cleaned
+        .vtt:1443), so it meets the bar for a glossary row. NOT done this run —
+        adding a row is a behaviour change and was not put to the GM."
+    - status: NOTE
+      item: "Do NOT add 'Felkur' to the glossary. GM ruled it an LLM invention; it
+        occurs in no transcript, so a glossary row would achieve nothing (the spell
+        pass only ever sees VTTs) and would wrongly imply a real garble."
+    - status: NOTE
+      item: "STRUCTURAL, affects every backfilled-chapter check: docs/party.md,
+        docs/world_state.md and docs/campaign_state.md describe the level-6,
+        chapter-~45 party. This session is LEVEL 1 ('Bards don't do much at level
+        one' — kostadis). Findings 5, 11 and 12 were all this class and all three
+        were rejected. Future early-chapter checks should expect ~25% of findings
+        to be anachronistic-loadout false positives."
+    - status: OPEN
+      item: "Chapter numbering unresolved: doc title and directory say chapter 3;
+        campaign_state.md tags the Dwarven Excavation ch2 and assigns Ch03 to
+        Gnomengarde/King Korboz. GM is handling renumbering separately."
+    - status: NOTE
+      item: "This workspace has NO root config.yaml — check_consistency.py's
+        CWD-only lookup cannot find config/config.yaml, and that config's relative
+        documents[].path entries resolve against config/ and fail. Any future run
+        needs --config with absolute paths (throwaway config works)."

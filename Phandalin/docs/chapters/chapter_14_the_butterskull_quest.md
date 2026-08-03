@@ -1,10 +1,10 @@
-# Chapter 13 The Butterskull Quest 
+---
+chapter: 14
+title: The Butterskull Quest
+---
+# Chapter 14 The Butterskull Quest 
 
-## 1-02 Taraskh 1495
-
-### 
-
-### Valphine  
+## 14.01 Valphine 02-02-Taraskh 1495
 
 The night before, we discussed our plans in private. We had no intention of being ambushed again. 
 
@@ -28,7 +28,7 @@ The merchant stares bug-eyed and mutters, “That’s very hard.”
 
 And Vukradin, with a theatrical flourish, declares, “Just because something is hard, doesn’t mean we don’t do it\!” 
 
-## 4-02 Taraskh 1495 
+## 14.02 Valphine 04-03-Taraskh 1495
 
 As I enter Conyberry, I notice an unsettling silence that hangs in the air, broken only by the whisper of the wind through the hollowed-out homes.  The homes are now little more than skeletal remains. Their roofs have long since collapsed inward, their wooden frames rotted and blackened by fire and time. The wattle-and-daub walls have crumbled to dust, and the streets are overgrown with thorny vines and tenacious weeds. 
 

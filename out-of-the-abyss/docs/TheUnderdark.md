@@ -513,7 +513,7 @@ Their first stop is at the cave to the north, which they notice is a quaggoth ba
 The next stop is the tower of the high priestess. There, Daz notes that Thorin has a better job.
 
 
-Finally, he arrives at the winch. Goldur informs Daz that he will be down before they can run if they try any funny business. Daz notices Zalthir and thinks the monk will have some unpleasant fun cleaning up after he comes up. 
+Finally, he arrives at the winch. Guldor informs Daz that he will be down before they can run if they try any funny business. Daz notices Zalthir and thinks the monk will have some unpleasant fun cleaning up after he comes up. 
 
 
 Daz, Stool, and Sarith walk to the edge of the lake and notice that it is pretty clean, which is odd given the amount of filth being deposited. They look around and see nothing. 
@@ -1303,7 +1303,7 @@ Buppido asks, “Although I know what they are, what do you think they are, Sath
 Sathir is about to head out when two goblins appear. They are dressed in relaxed, comfortable shoes, baggy pants, and shirts whose button reaches just above their knees, whose sleeves are particularly wide, and their heads are covered with beanies. Their bodies are covered in tattoos written in draconic. The spelling is wrong. And it’s only through happenstance that Zalthir realizes they are writing goblin words using a draconic script. 
 
 
-The first one, whose color motif is orange, introduces himself, “My name is Yukyuk.” 
+The first one, whose color motif is orange, introduces himself, “My name is Yuk Yuk.” 
 
 
 The second jump, whose color motif is pink, speaks with an odd accent: the R’s are rolled, and the vowels are clipped oddly. “And I am Spiderbait. We can be your guides at a nominal price of 2 gold per day.” 
@@ -1351,7 +1351,7 @@ When the goblins return breathless and pleased, they turn to Jimjar.
 He nods his head and says, “You won.” Jimjar then looks into his pockets and mutters, “But I am a bit short of cash.” 
 
 
-Angered, Yukyuk tosses his beanie on the ground and starts marching to the web. Spiderbait, however, has an idea: “Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?” 
+Angered, Yuk Yuk tosses his beanie on the ground and starts marching to the web. Spiderbait, however, has an idea: “Jimjar, how about we be your guides and hang around until you have the 20 gold you owe?” 
 
 
 Jimjar acts like this was the most awful idea he had ever heard, then pauses and sighs, “I suppose that will have to be the plan.” 
@@ -1360,7 +1360,7 @@ Jimjar acts like this was the most awful idea he had ever heard, then pauses and
 Just as they are about to follow them onto the strands, Zalthir tries to figure out if these two peculiar web-surfing goblins can be trusted. And although he is distrustful, he feels there is no subterfuge about them. 
 
 
-And with the deal closed, the stiff, formal nature of the two goblins dissolves. Yukyuk turns to Topsy, “  Oh, yeah, man. That was fun. Did you see me nail those tough strings? There was this one moment when I was taking a curve, and the strands broke, but I managed to do that twist and flip, and that's super cool.” 
+And with the deal closed, the stiff, formal nature of the two goblins dissolves. Yuk Yuk turns to Topsy, “  Oh, yeah, man. That was fun. Did you see me nail those tough strings? There was this one moment when I was taking a curve, and the strands broke, but I managed to do that twist and flip, and that's super cool.” 
 
 
 Topsy stares at him, confused. 
@@ -1369,7 +1369,7 @@ Topsy stares at him, confused.
 Grygum, always excited with new forms of speech, shouts, “That was an amazing triple spin!” 
 
 
-Spiderbait, seeing Grygum’s interest, mutters, “Yukyuk took the easy route. I went around the spider and through its legs.”
+Spiderbait, seeing Grygum’s interest, mutters, “Yuk Yuk took the easy route. I went around the spider and through its legs.”
 
 
 Zalthir takes note of the spider and asks, “Spiders?” 
@@ -1381,7 +1381,7 @@ Zalthir takes note of the spider and asks, “Spiders?”
 Zalthir is now, perhaps the word isn’t worried, but something in the environs of that sentiment, “That sounds fascinating, but given the complexity of your moves, how are we supposed to get across?” 
 
 
-Yukyuk looks at Zalthir confused and then laughs, “Oh man, you’re not surfing. You’re walking.”
+Yuk Yuk looks at Zalthir confused and then laughs, “Oh man, you’re not surfing. You’re walking.”
 
 
 Zalthir then stares at the web, “How attached are you to these webs? Can we burn the web down?” 
@@ -1390,13 +1390,13 @@ Zalthir then stares at the web, “How attached are you to these webs? Can we bu
 Spiderbait looks hurt and then laughs, “Do you remember that crazy Drow wizard who wanted to burn this place down? But the spiders kept rebuilding it faster than he could burn.” 
 
 
-Yukyuk slaps his forehead, “Oh yeah, man. And then, when the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs. No, man, the web is the way to go. Just gotta avoid the spiders.” 
+Yuk Yuk slaps his forehead, “Oh yeah, man. And then, when the webs were burned, you had to climb down these gnarly cliffs. And then climb up some other cliffs. No, man, the web is the way to go. Just gotta avoid the spiders.” 
 
 
 Zalthir stares at them, “But when we walk on the web, the spiders will hear our vibrations. Won’t that attract them to us?” 
 
 
-Yukyuk says, “Yeah, dude. But there is so much stuff bouncing on the webs that they won’t notice your bouncing scales.” 
+Yuk Yuk says, “Yeah, dude. But there is so much stuff bouncing on the webs that they won’t notice your bouncing scales.” 
 
 
 Zalthir feels compelled to add, “If we don’t make it out alive, we won’t be able to pay.” 
@@ -1405,7 +1405,7 @@ Zalthir feels compelled to add, “If we don’t make it out alive, we won’t b
 “Yeah, man. We’re, like, the best guides, and, like, all our clients make it out.” 
 
 
-Spiderbait walks up to Yukyuk and high-fives him. He then turns to the group and says, “We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.” 
+Spiderbait walks up to Yuk Yuk and high-fives him. He then turns to the group and says, “We are the best. We are going to have so much fun going through the web with you. And you are an awesome group.” 
 
 
 Buppido mutters, “I am not sure the divine plan had anything about relying on two semi-sentient goblins for our safety.” 
@@ -1541,7 +1541,7 @@ Fortunately for them, the Giant Spiders are somewhat territorial. If they run ou
 The combination of swords and Daz’s magic missiles slows down the Spiders long enough to allow everyone to escape. 
 
 
-As folks sigh with relief, Yukyuk and Spiderbait offer suggestions for next time. Yukyuk says, “Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.”
+As folks sigh with relief, Yuk Yuk and Spiderbait offer suggestions for next time. Yuk Yuk says, “Like dudes, that was cool. But you might want to have thought about sliding -under- the spiders and cutting the web from the other side. That would have been so much cooler.”
 
 
 Spiderbait adds, “And like, using Magic is okay, but like, it’s kind of a cheat. I mean, I get why you did it, but next time, you should like stick to your skills.” 
@@ -1616,7 +1616,7 @@ Sethir glares.
 With that, the escapees continue their trudge through the Silken Paths. Zalthir asks hopefully if the Drow pursuers will be slowed down by what happened with the Giant Spiders.
 
 
-Spiderbait explains, “Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths. Yukyuk and I just happen to know the best way. If they have a good guide, no. A bad guide? Yes.” 
+Spiderbait explains, “Depends if they have good guides. And there are hundreds of ways of going through the Silken Paths. Yuk Yuk and I just happen to know the best way. If they have a good guide, no. A bad guide? Yes.” 
 
 
 A few hours later, as they walk along a strand of web far removed from other strands, a floating sphere with a gaping maw and a single great eye, set within four eyestalks, floats up to meet them. 
@@ -1688,7 +1688,7 @@ A few curt words and a swift gesture are all it takes to unravel an arcane knot 
 The Spectator is dead. 
 
 
-With the danger gone, the two goblin guides slide into view. Yukyuk is very impressed with Zalthir, “That was some next-level spider walking. Like going underneath the spider web and attacking the creature.”
+With the danger gone, the two goblin guides slide into view. Yuk Yuk is very impressed with Zalthir, “That was some next-level spider walking. Like going underneath the spider web and attacking the creature.”
 
 
 Zalthir is still paralyzed and can only think of choice words to use. 
@@ -1709,7 +1709,7 @@ Jimjar wants to make a bet, but nobody wants to test the theory that it is.
 Once past the mimic, the group is on ston,e, and the endless tunnels of the Underdark beckon. 
 
 
-Yukyuk asks, “You guys got our money?” 
+Yuk Yuk asks, “You guys got our money?” 
 
 
 Jimjar smiles, “I am good for it, but not right now. I promise you’ll get your money.” 
@@ -1721,7 +1721,7 @@ Jimjar smiles, “I am good for it, but not right now. I promise you’ll get yo
 “The minute I get it.” 
 
 
-Yukyuk and Spiderbait are tempted to abandon the escapees, but Zalthir's slick, kick-ass move elevates them in the two guides' imaginations. And so they decide to stay with the escapees. Both of the goblins seem to be in awe of Zalthir. 
+Yuk Yuk and Spiderbait are tempted to abandon the escapees, but Zalthir's slick, kick-ass move elevates them in the two guides' imaginations. And so they decide to stay with the escapees. Both of the goblins seem to be in awe of Zalthir. 
 
 
 Zalthir privately wonders if they could convince the two guides to get the gold from the mimic. 
@@ -1738,7 +1738,7 @@ Zalthir wonders whether the Spectator thought Buppido was the demon, but he push
 
 # Chapter 08 Murder most foul 
 ## 9th day of the 2nd Tenday of Taraskh 1493
-The Silken Tunnels are behind them now, and the dark depths of the Underdark are ahead. Their group expanded to include two members, the curious goblins Yuk-Yuk and Spiderbait. They were promised 20 gold, and Jimjar convinced them to follow him into the dangerous tunnels. 
+The Silken Tunnels are behind them now, and the dark depths of the Underdark are ahead. Their group expanded to include two members, the curious goblins Yuk Yuk and Spiderbait. They were promised 20 gold, and Jimjar convinced them to follow him into the dangerous tunnels. 
 
 
 The tunnel journey is slowed as the group forages for food. They find some Ripplebark that, despite its rotten fresh appearance, is entirely edible in its raw state and could be roasted to improve its nutty flavor. Scorched or burnt ripplebark turned black but was still edible. It could also neutralize disease germs.
@@ -1948,7 +1948,7 @@ Zalthir, whose pleasant dream about what Monks dream about was interrupted, look
 “Are we under attack?” 
 
 
-Shuushar whispers, “No. Yukyuk was murdered, and Spiderbait is very upset.” 
+Shuushar whispers, “No. Yuk Yuk was murdered, and Spiderbait is very upset.” 
 
 
 Grygum looks around and says, “Well, we have no other option but to continue and be alert.” 
@@ -1963,7 +1963,7 @@ First, he questions Spiderbait.
 “Would anyone want him dead?” 
 
 
-“Yukyuk was the kindest, gentlest goblin you could imagine. He and I were pals.”
+“Yuk Yuk was the kindest, gentlest goblin you could imagine. He and I were pals.”
 
 
 “Did he have anything of value?” 
@@ -1996,7 +1996,7 @@ But Daz knows something’s off.
 “Sounds like a non-answer.” 
 
 
-Buppido sweats, “Yukyuk’s death was necessary for the divine plan.” 
+Buppido sweats, “Yuk Yuk’s death was necessary for the divine plan.” 
 
 
 “Who was responsible for his death?” 
@@ -2926,10 +2926,10 @@ Daz remembers what Hemeth had said about the Blade Bazaar:
 
 
 ### Thorin
-But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannum Redmarch and Buppido and says, “What are we going to do about them?” 
+But before they can get to the bazaar, they must reach the docks. And before they reach the docks, Thorin remembers some castaways. He looks at Brannam Redmarch and Buppido and says, “What are we going to do about them?” 
 
 
-Realizing that his time as a free person may be ending, Brannum pleads, “You wouldn’t turn me into the guard?” 
+Realizing that his time as a free person may be ending, Brannam pleads, “You wouldn’t turn me into the guard?” 
 
 
 Zalthir has been thinking about some magical items he wants and was disappointed when Hemeth said that magical goods could be purchased in Gracklstugh but not in the Darklake District. He asks, “Could you purchase some uncommon magical items?” 
@@ -3071,7 +3071,7 @@ Next to him, a cloth merchant suddenly stops mid-negotiating and starts talking 
 Grygum asks Dulgir, “I guess his brother is invisible.” 
 
 
-But Dulgiar answers, “His brother doesn’t exist.” 
+But Dulgir answers, “His brother doesn’t exist.” 
 
 
 The answer disturbs Grygum, who is convinced that some madness afflicts the city, perhaps the same madness that consumed the Kuotoans. 
@@ -6164,7 +6164,7 @@ A statue of a stone giant with a second head emerging from it.*
 
 Ah. 
 *
-I turn and whisper to the Ember Vanguard, “They are performing some kind of summoning ritual to make the Stone Giants sprout a second head. This probably explains what happened to the Stone Giant that fought us in the Dark Lake District.” 
+I turn and whisper to the Ember Vanguard, “They are performing some kind of summoning ritual to make the Stone Giants sprout a second head. This probably explains what happened to the Stone Giant that fought us in the Darklake District.” 
 
 Thorin wants to rush in, but I caution him, and he listens. Odd. 
 
@@ -6877,7 +6877,7 @@ As we approach the gate, the Derro thin out until we find ourselves alone, some 
 Some thirty feet from the entrance, a Duergar guard materializes and asks, “Your business?” 
 
 
-I notice behind him a poster that says, “The Ember Vanguard, wanted dead as long as we can raise them or aliave.” 
+I notice behind him a poster that says, “The Ember Vanguard, wanted dead as long as we can raise them or alive.” 
 
 
 A spelling mistake and a grammar mistake, so typical of the Duergar. 
@@ -7172,7 +7172,7 @@ He raises his head, and I can’t help but notice the second chin.
  He then declares to all, "The keepers in the flame and their short-sightedness would have you waste precious time navigating checkpoints and patrols." And then he surprises me when he offers his "express service to where you must go next". 
 
 
-I look at him, confused. And he shouts, playfully and authoritatively, "Climb aboard, unless you wish to question the will of your wormsmith". And I start to wonder. Themberchaud’s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter. I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous. 
+I look at him, confused. And he shouts, playfully and authoritatively, "Climb aboard, unless you wish to question the will of your Wyrmsmith". And I start to wonder. Themberchaud’s maturity has been adversely affected by the peculiar role he serves in Gracklstugh as a glorified lighter. I wonder why the Duergar chose a Red Dragon? Surely magic would be cheaper and less dangerous. 
 
 
 But enough about that. 
@@ -7220,7 +7220,7 @@ Grygum asks the dragon, “Where do you think we should go, oh Great Themberchau
 As I guessed, he has no idea what to do. He pouts, “Well, I have many agents, and they have many places to look. You're my most recent agents, and you've been out and about for a few days. Where do you think we should be looking for information?
 
 
-I again insist that we should go to the Dark Lake District, and again, he seems unconvinced. It’s his ego. 
+I again insist that we should go to the Darklake District, and again, he seems unconvinced. It’s his ego. 
 
 
 “Are you suggesting I am missing something important?” 
@@ -8831,10 +8831,10 @@ The party found themselves in Diggermattock Hall, where Chief Dorbo and Senni en
 Before embarking on their quest, the party decided to honor a promise they had made to Pelek, a ghost who had been traveling with them. Buppido had killed Pelek. Grygum had carried Pelek's bones in the hope of finding a proper resting place. A guard directed them to the cemetery adjacent to the Temple of the Ruby in the Rough, dedicated to Segojan Earthcaller, the Svirfneblin god of deep earthen nature. At the temple, they met Glyphic Shroomlight, a priest who was initially hesitant to inter the bones of someone he didn't know. However, when Pelek's ghost materialized before him, Glyphic quickly reconsidered, not wishing to be haunted for the rest of his days. He directed the party to the catacombs below, asking only that Glabbagool, their intelligent gelatinous cube companion, remain upstairs to avoid any accidents.
 
 
-In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity. As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing. Almost immediately, another ghost appeared—Borough Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats. Jadger explained that he was working to re-establish the Borough Wardens and was secretly training young gnomes for this purpose. He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.
+In the catacombs, Grygum found a quiet corner and carefully interred Pelek's bones, performing a dragon-themed ritual and planting a gold coin as a symbolic foundation. Pelek expressed profound relief and gratitude, having feared he would be lost forever, tormenting people for eternity. As the party said their goodbyes, Pelek's spirit faded away, leaving them with a warm, comforting feeling of having done the right thing. Almost immediately, another ghost appeared—Burrow Warden Jadger, a three-foot-tall spirit who had once defended Blingdenstone against the Drow and countless other threats. Jadger explained that he was working to re-establish the Burrow Wardens and was secretly training young gnomes for this purpose. He offered the party a deal: for every ghost they helped put to rest, he would answer one question about the Underdark and its dangers.
 
 
-The party discussed the strategic value of this offer and decided to ask Jadger for advice on dealing with the ooze problem. Jadger explained that oozes were typically solitary creatures, making a mass infestation highly unusual. When Zalthir mentioned a possible connection to Juiblex, Jadger grew thoughtful and offered a clarification in exchange for Zalthir demonstrating a monk technique he could teach to his young trainees. After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction. He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent. He also recommended they speak with a young gnome he was mentoring, who would soon lead the new Borough Wardens, once they had gathered more information.
+The party discussed the strategic value of this offer and decided to ask Jadger for advice on dealing with the ooze problem. Jadger explained that oozes were typically solitary creatures, making a mass infestation highly unusual. When Zalthir mentioned a possible connection to Juiblex, Jadger grew thoughtful and offered a clarification in exchange for Zalthir demonstrating a monk technique he could teach to his young trainees. After Zalthir performed an impressive martial display, Jadger explained the difference between devils and demons: devils corrupt individuals through personal deals, while demons empower proxies to cause widespread carnage and destruction. He advised the party to search for someone or something that was motivating the oozes, suggesting that a demon had likely granted power to an intermediate agent. He also recommended they speak with a young gnome he was mentoring, who would soon lead the new Burrow Wardens, once they had gathered more information.
 
 
 With Jadger's counsel in mind, the party made their way to the Trader's Grotto, Blingdenstone's bustling central market. A sergeant guided them through the cavern, proudly explaining that fungi had once grown there until a medusa's spell turned them to stone centuries ago. Merchants had set up makeshift stalls among the petrified fungi, hawking their wares and bartering with one another, while caravans delivered goods to warehouses carved beneath the grotto. As the party explored, they noticed the gnomes eyeing Glabbagool with suspicion, though he tried his best to explain he was not a threat.
@@ -8909,7 +8909,7 @@ Additional proposals followed. Kazook Pickshine expressed concern about acidic d
 The party discussed the various proposals and their benefits. They learned that completing these quests would reduce the number of encounters before facing the Pudding King and provide allies for the final battle. Thorin rolled a die to decide between caution and a direct approach, and the result favored taking the safer route. The party decided to pursue cleansing the Rock Blight to gain an Earth Elemental ally, expressing interest in befriending the elemental rather than controlling it, hoping it might join them permanently like Glabbagool had. They also decided to obtain acid resistance by traveling to Neverlight Grove for the necessary ingredients.
 
 
-To maximize their efficiency, the party chose to divide their forces. They would send Glabbagool, Eldev, and Jimjar to assist the Burrow Warden ghosts with their quest while the main party handled the other tasks. They explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it. With their plans finalized and their forces divided, the party prepared to embark on their chosen quests, knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.
+To maximize their efficiency, the party chose to divide their forces. They would send Glabbagool, Eldeth, and Jimjar to assist the Burrow Warden ghosts with their quest while the main party handled the other tasks. They explicitly decided against sending anyone to Gracklstugh, given the uncertain state of that city and their less-than-ideal departure from it. With their plans finalized and their forces divided, the party prepared to embark on their chosen quests, knowing that each success would strengthen their position for the final confrontation with the Pudding King and his army of oozes.
 
 
 # Chapter 36 Crystals, Ghosts, and Crazed Earth
@@ -8921,7 +8921,7 @@ The party gathered in Diggermattock Hall for a lengthy meeting where the communi
 That evening, the party rested at the Foaming Mug Tavern, a massive cave converted into an inn with rooms that actually fit normal-sized people. The owner, Tappy Foamstrap, was a bored deep gnome desperate for new stories after hearing everyone else's tales dozens of times. The party gathered valuable intelligence from various patrons, including a merchant from Gracklstugh who described the city's strange peace. He mentioned the paranoia about the Ember Vanguard and even had a wanted poster. He noticed that the  adventurers matched the description except that the dragonborn was red, and the drow mage, the orc cleric and the dwarven fighter looked far more fearsome. The merchant also noted that there had been some mass hangings and executions.  He also spoke of a peculiarly portly red dragon with a double chin and two bellies used as a matchlighter. The party was relieved to see that their goal to get out of the city without provoking an all out war and destruction of the city was achieved.  A deep gnome scout shared a bizarre tale of encountering dancing myconoids who spoke of attending a wedding celebration, which was highly unusual since myconoids don't typically marry or celebrate. As the evening wore on, Glabbagool became intoxicated from consuming spilled alcohol while cleaning the tavern floor, leading to the gelatinous cube singing sea shanties in a voice that made everyone question their life choices.
 
 
-The next morning, the party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze to use as weapons against oozes, with the condition that the tavern's reputation would be protected. They then traveled to the cultivation cave, where a member of the Stone Heart Enclave greeted them warmly and provided fresh fungi supplies for their quest. Glabbagool enthusiastically consumed mushrooms along the way, plowing through the cave like a gigantic transparent snowblower and clearing a path through dirt and gravel. After several hours of excavation, they successfully reached the entrance to the rock blight caverns.
+The next morning, the party negotiated with Tappy Foamstrap to acquire barrels of spoiled booze to use as weapons against oozes, with the condition that the tavern's reputation would be protected. They then traveled to the cultivation cave, where a member of the Stoneheart Enclave greeted them warmly and provided fresh fungi supplies for their quest. Glabbagool enthusiastically consumed mushrooms along the way, plowing through the cave like a gigantic transparent snowblower and clearing a path through dirt and gravel. After several hours of excavation, they successfully reached the entrance to the rock blight caverns.
 
 
 The party entered a dark cavern illuminated by bioluminescent fungi that refracted through large crystal formations, creating a kaleidoscope of colors on the surrounding walls. They discovered a stone statue of a gnome cowering near a crystal outgrowth, holding a broken crystal to its face as if trying to look through it. With a brilliant flash of insight, Daz determined that the crystals provided protection against creatures with harmful gaze attacks when viewed through them, like magical sunglasses against a Medusa. The party collected several protective crystals of different colors for potential future use, though they learned the colors themselves didn't affect the magical properties.
@@ -15084,3 +15084,321 @@ Zalthir was already working it backward. When Grygum handed the key to Daz — w
 I looked at the two heaps of dead metal and had one more idea, because a tool's a tool even when it's broken.
 
 "Can we grab one of them and use it to detect who else has the key?" I said. "Turn it into a sort of divining rod, as it were."
+# Chapter 59 The Key is Secured
+
+
+---
+
+## Zalthir — The Aftermath of the Sanctum Attack
+
+Three suits of armor lay in pieces on the sanctum floor. No blood. Nothing had bled in this fight, which meant nothing had died in it either, and I distrust a fight where nothing dies. Empty steel doesn't answer questions.
+
+Daral Yashenti was pounding on the door and shouting to be let out. The door had been smashed off its hinges by the first thing through it and stood open behind his fists. When he noticed, he stopped. I watched him count the room: four people in Candlekeep who did not appear to want him dead, all standing in it. He turned around.
+
+"What do we do next, gentlemen?"
+
+"So we now suspect Fembris Lancer?" Grygum said.
+
+We did. Fembris had watched the key pass from Grygum's hand to Daz's, and three constructs with no minds of their own had come through the windows knowing exactly which hand to look in. Mindless things don't know that. Somebody told them.
+
+But the key had been bothering me longer than Fembris had. We had cast Detect Magic on it once, days ago, and it had come up empty. Grygum was pulling the same thread out loud.
+
+"So we tried to detect magic on it, and it didn't read as magical? Makes me wonder if it's actually the right key."
+
+Then he remembered how Kalan Strongbranch had phrased the handoff. *I have given it now to someone who is not me.*
+
+"Someone who is not me. Yeah, that's a weird phrasing," Grygum said. "And I guess it could be a hot-potato thing. Bad things come to whoever's holding the key when something happens."
+
+He said it lightly. It wasn't light. A man who hands you a thing and describes the transaction instead of the thing has already thought about who gets blamed for it.
+
+Grygum held the key out to Daral. "Does this look like the key? Does anything about it look off? The key to the tower?"
+
+Daral turned it over, pensive. "Well, I'm not a locksmith, so I couldn't tell you for sure."
+
+"I was given to understand these keys were supposed to be magical."
+
+"Oh, absolutely. Completely magical. They're the two keys that open Candlekeep's High Tower. They're not some lowly, cheap-ass keys you pick up at a locksmith's. Why?"
+
+"But this key isn't magical. Go ahead and examine it. Try detect magic on it. We didn't succeed."
+
+Daral produced a scroll from a pocket. Every scholar in this keep apparently carries one, the way a sailor carries a knife. He read it, and the room answered. Dawnbringer lit. Grygum's armor blinked awake. Daral himself glowed brightest of all, still carrying whatever the sword had poured into him with the cure.
+
+The key sat in the middle of all that light and stayed dark.
+
+There was a class for this at the monastery: reading a false thing set among true ones. Brother Vashek taught it, or possibly the quiet one with the ink-stained hands; I was watching the light through the shutters instead of the lesson. It turned out I didn't need the lesson. The dead metal made the argument by itself.
+
+"No. No." Daral was staring at it now, and the academic flourish had gone out of his voice, which is how I knew he was certain. "This is not the key. This is not the key."
+
+Then a bell began to toll somewhere above us, and it was tolling wrong. Not the hour. A pattern, flat and institutional, the keep itself raising its voice.
+
+"What does that mean?" Thorin asked.
+
+"Anybody needs to change the battery?" Grygum said.
+
+Nobody laughed. Somebody came through the ruined doorway at a run instead.
+
+Bookwyrm was dead.
+
+"Who?" Daz said. "Bookwyrm?"
+
+"Bookwyrm is dead."
+
+A false key in Grygum's hand, an alarm in the air, and the First Reader's throat opened somewhere above us, all in the same quarter hour. I have never once seen three things arrive together and turn out to be three things.
+
+I watched the door and waited to see what came through it next.
+
+---
+
+## Daz — The Death of Bookwyrm
+
+The messenger got the name out between breaths: Bookwyrm. The First Reader. The woman we had proven guilty and left unaccused, on Kalan's patient schedule, because the thrice-fold proof was not yet complete. I had been treating her as an asset to collect from later. Someone else had moved up the collection date.
+
+"How did it happen?" I asked.
+
+"Who killed him?" Grygum asked, and was corrected: her. "Who killed her?"
+
+Her throat had been torn. Torn, not cut. That distinction did most of the work for me before we ever reached the office. And when Grygum asked whether she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged. Janussi's heart had been removed with instruments and intent. Bookwyrm's killer hadn't wanted her heart. Different hands. Different purposes. I sorted the two murders into separate columns then and there, and nothing I saw afterward moved them back together.
+
+The messenger was close to hysterics. These crimes don't happen in Candlekeep, he kept insisting.
+
+"Well, reality disagrees," Thorin said.
+
+"I feel like we've done a poor job of serving and protecting here," Grygum said.
+
+Fembris Lancer and Daral Yashenti brought us up to her office. The room was a ruin, and the ruin was informative. She was an eighteenth-level magic user at rest in her own tower, a woman whose ninth-level slots probably held Validate Citation and Identify False Citation rather than anything that stops claws. Whoever came for her knew she would be relaxed, knew she would be confident, and knew exactly how little of her power was pointed at the door. You don't get that from luck. You get it from information, and information is a thing somebody sells you.
+
+On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to—*
+
+Grygum read it aloud and asked Daral what the beast was. Daral had no idea what the beast was.
+
+I reached for what I know. I reach the way I was trained to, top of the mind, no ceremony. Nothing came. Worse than nothing: the fog behind my eyes, the pressure that has been building for days, sat on the reach and smothered it. *Are you fucking kidding me.*
+
+Grygum offered a hand. I took it, and on the second pass everything came up clean at once. The wards over Candlekeep were wrong. The pressure of them, the weight that is supposed to sit evenly over the whole keep, wasn't sitting evenly. Something was broken.
+
+"Oh," I said. "Like somebody hacked the firewall and opened another port."
+
+Yes. Exactly like that.
+
+"And they snuck in some animated armor to attack us through it, maybe?" Thorin said.
+
+"Thank you." Somebody had opened a hole in the perimeter and sent the helmed horrors through it. At me.
+
+Thorin wanted the scope stated plainly. "Let's just be clear. We were hired to solve one murder. This is really not ours to solve." He suggested renegotiating our fee, then conceded the difficulty: the person we would renegotiate with was the one on the floor.
+
+I let him have the point and made mine. The two killings were not the same hand. One surgical, one animal. A beast. And while I stood over that word on her desk, a stray fact, months old, slid forward and presented itself. Sylvira Savikas has a son. Abyss-born. She is a tiefling; she was in the Abyss; bad things happen there. She keeps him locked in a magical sanctuary. To protect him, or to protect everyone else from him; the fact declined to specify.
+
+"Interesting," I said. That is the word I use when a thing has rearranged more than I intend to show.
+
+The madness of the Abyss. The same madness we have been wading through since Velkynvelve, and here it was ahead of us again, wearing somebody's son.
+
+Daral explained the keep's defenses then: a great shield that keeps anyone from teleporting in or out. I already knew something was wrong with it. "Are we sure the teleport protection is working? Something feels off to me." Daral found the question inconceivable. Grygum, who has spent as many years in information security as I have, explained that inconceivable things happen several times a day, and asked him, politely, to check.
+
+The check turned out to cost a candle's worth of magic. Fire doesn't work in Candlekeep. Grygum put Thaumaturgy to a scrap of paper: the flame erupted, touched, and evaporated in the same instant. A burning bush, Daral called it. Same ward, same effect. And the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys.
+
+So the accounting finally closed. The room the keys open protects everything else. Bookwyrm had been first into Janussi's chamber; she took his heart and she took his key. Whoever wanted the keys tore her throat out for hers, and sent three suits of empty armor after mine, which was never real. That left Kalan's, and Kalan's key was wherever Kalan was.
+
+*If I don't see you tomorrow, do not look for me at my post.* He had said it to us like a man leaving himself an exit. Not the gatehouse, then. Daral named the likeliest place: the Sea Warden's Tower, lost among the other Watchers.
+
+"Go interview him and or protect him and or see if he's already dead," Thorin said.
+
+All three, I thought. In whatever order we find him.
+
+---
+
+## Grygum — Racing to the Sea Warden's Tower
+
+The second key was Kalan's problem, and Kalan was not at his post. He had told us he wouldn't be. *If I don't see you tomorrow, do not look for me at my post.* Daz remembered the line, and Daral supplied the destination: the Sea Warden's Tower, down among the other Watchers, rallying them, probably with drink.
+
+I stopped him there.
+
+"There's troops here? I thought this was some kind of academic tower."
+
+"Well, there's some. We are not completely defenseless."
+
+"Well, you have plenty of magic, but I guess swords still have their place, huh?"
+
+"Yes, we have some swordsmen. It's always important to have one."
+
+I noted that one for the column marked *things the wise don't put on the brochure*. The oldest library in the world, warded past all understanding, and they still keep men with swords by the doors. It's always important to have one. That is the kind of plain civic truth I was raised on, and hearing it from a Candlekeep sage was strangely reassuring.
+
+"I still have the fake key, right?" I asked, mostly to hear the state of things said out loud. I did. And Bookwyrm's key was gone, taken by whatever tore her throat out. Some sociopathic creature, we were told.
+
+"Anybody that would tear out somebody's throat is sociopathic," Thorin said. "They may be well-adjusted with good methods and claws. I'm just saying."
+
+We ran. The halls of Candlekeep went by faster than legs should carry anyone, walls smearing past, and I chose not to interrogate it. In this place, magic is infrastructure. You use the road; you don't ask who laid the stones.
+
+Kalan was buckling on his armor as we arrived, already coming toward us at a half-run. "Grygum, Daz, I heard the bell. Is everything okay?"
+
+"Uh, no. Bookwyrm is dead."
+
+He stopped. Then, ahead of grief, ahead of who and how: "Does she have the key?"
+
+"We did not find a key," I told him, once Thorin had made sure we could say it with confidence. We had been to the site. We had seen the body. There was no key.
+
+Kalan took a breath and tried to make the news smaller. "Well, that's fortunate, in a way. They only have one of the two keys. It was an accident, nothing to do with the keys. Just a maddening attack by Sylvira Savikas's son. I told Bookwyrm that creature would be the death of us."
+
+Then we told him about the sanctum, and the three suits of armor that had come through the windows hunting a key, and watched the comfort drain out of him.
+
+"Gadzooks. Someone is definitely after the keys."
+
+He straightened up and looked at the four of us like a man counting what he had left. "You are adventurers. I hereby deputize you as Watchers of Candlekeep."
+
+"Aye, aye," I said, because when a frightened man hands you a badge, you take the badge.
+
+Daz asked whether it came with a stipend. Kalan sputtered something about a small honorarium, truly an honorarium, and why in the world were we discussing honorariums with Bookwyrm dead and the second key at risk. A fair question. I had a fairer one underneath it.
+
+"So far we've done badly," I said. We were hired to protect exactly one investigation, and the body count had doubled on our watch. A deputization is not a performance review, but it was hard not to hear it as one.
+
+Then he told us where the real key was, and the whole knot came apart in my hands. "Tadric has the key." Tadric. The young Watcher who had guarded Janussi's door. Kalan had posted the genuine article on a boy in the North Galleries, and the key he'd pressed on me with that strange phrasing, the one I'd handed to Daz, the one that nearly got Daz killed, had been a decoy from the first hour.
+
+"Okay, I'm confused now about where everyone thinks the keys are," I said, working it through out loud. "Didn't people think one was given to us?" And then, when it lined up: "Does Kalan know that we know it was fake?"
+
+He didn't, and he didn't care, and that told me the rest. "Okay, he's basically admitting he gave us a fake."
+
+Thorin summed the boy up in a sentence. Short human, young, Tadric. His role is Tadric.
+
+"My job is a beach," I said. Nobody needed the reference. The point stood: some men are posted to a place, and the place is the whole job.
+
+Then came Fembris. Thorin put the screws to him, courteously but with the screws visible, and the boy admitted that when he reported the key to Bookwyrm, A'lai Aivenmore had been in the room.
+
+There it was. One man with knowledge nobody else had. Two attacks, two keys, one buyer. Thorin assembled the case out loud, fast, and it held together.
+
+"I mean, there's other theories you could come up with," I said, "but that seems like a good start for sure." A good witness doesn't fall in love with the first story that fits. But I wasn't going to pretend it didn't fit.
+
+Kalan beamed at us. "Well done! You've captured two of the pillars of the thrice-fold proof."
+
+"You're making it sound harder than it is," Thorin said. "I mean, why don't we just say three strikes, you're out."
+
+"Three slashes, perhaps?"
+
+Two pillars, then. A dead woman, a confessed decoy, and somewhere north of us a boy holding the only real key, not knowing what he held or what was already coming for it.
+
+---
+
+## Thorin — The Shortcut to the North Gallery
+
+"Tadric. He's loyal, and he's alone, and he doesn't know what he carries or what's coming for it." Kalan was talking fast and buckling armor at the same time, and doing neither well. "The Echoing Hall, then the North Galleries. I posted him away from the barracks on purpose. Run!"
+
+He pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery. A shortcut.
+
+Now, I like a shortcut. A shortcut is terrain somebody already solved for you. But the man offering this one had already handed us one fake key, and a tunnel is only as honest as the fellow holding the map. So I asked him straight, because that's the only way I ask anything.
+
+"Is this key for real this time, or are you just fucking with us again?"
+
+He stopped. Put a hand over his chest. "On my honor."
+
+"And the other one wasn't?"
+
+Grygum went off like a rockslide behind me, laughing his whole chest out. I'll say this for the line: it was true, it was fair, and it was funny, and you don't often get all three in one swing. But Tadric was somewhere ahead with something coming for him, and being right is not the same as being there.
+
+"Okay, wait, never mind. Let's go. We run. We can argue about this later."
+
+We ran. Kalan tried to come with us. He gave it real effort, I'll grant him that, but the man was carrying extra stone and extra years, and the gap between him and us opened the way gaps do, slow and then all at once.
+
+"Little Rotund," I said, mostly to myself.
+
+He spent breath he didn't have explaining himself as he fell behind. Just for the record, he'd figured that if they saw us with a fake key, we'd be safer. He couldn't trust us with the real one, given...
+
+"All right. Yeah. It's like, have you seen our weapons? Dawnbringer here can take anybody on."
+
+He kept explaining. That's why he gave us the fake key, because he wanted...
+
+"Alright, alright. We can argue about this later." Second time I'd said it, and I meant it both times. Later is a real place. We'd get there, and Kalan and I would have words in it. Right now the only place that mattered was the North Gallery.
+
+Behind us he finally planted, hands on knees, done.
+
+"Carry on!" I called back.
+
+"A little out of breath," Daz observed, dry as gravel.
+
+The stair put us out at the top of a dome. A real rotunda: curved stone overhead, high and wide, the first ceiling in months that didn't make me feel like cargo. And a curve like that does a thing with sound. Stand in the right spot under a dome and a whisper from the far side walks the whole ceiling and lands in your ear like the speaker's beside you. I clocked the spot on the way in. A room that carries sound is a room that works for whoever knows it does.
+
+Then I saw what the room was actually holding, and the acoustics stopped mattering.
+
+The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.
+
+"Alright, so we gotta save Tadric."
+
+---
+
+## Zalthir — Battle in the Domed Rotunda
+
+The dome opened above us and the fiend was under it, already at work. Massive. Abyssal. It had Tadric grappled flat and was opening him with its claws, patient about it, the way something works when it believes it has all the time it needs.
+
+"So if we have to prioritize the man or Tadric, we're going to have to make a choice," Grygum said. That is Grygum saying the hard thing plainly so no one can pretend later that it went unsaid.
+
+I said nothing. I was watching the fiend, and the fiend was not watching us. It hadn't looked up. It was still busy with its kill, certain of its evening. The Garden Shadow used to say, or possibly Brother Ollun did, that the most dangerous thing in a room is not the one with the blade drawn; it is the one that has already decided it has won. The saying works in the other direction too. A thing that has already decided it has won has stopped watching the door.
+
+We were the door.
+
+Thorin reached it first. The dwarf who never wins a footrace won this one: he closed the distance, planted himself between the fiend and the room, and Dawnbringer came down. Radiant, not fire. He had needed reminding of that, and the sword had required an apology before the fight, and got one. "You are Radiant Sword!" I have seen strange partnerships underground. This one works, so I don't comment on it.
+
+Two strikes landed. Then he found more inside himself and struck a third time, and I watched him sap something out of the fiend's balance as it hit. Then he did the thing I have stopped being surprised by: he made himself the problem. A display of focused violence, aimed straight into the creature's attention, and the fiend, a pit fiend, flinched. Recoiled. It could not bring itself to advance on him.
+
+Grygum had told him you can't frighten a pit fiend. Thorin had asked if he'd like to see him try. That question was now settled.
+
+Frightened, staggered, and facing the wrong way. I don't get better openings than that, and I don't waste the ones I get.
+
+Forty-five feet of floor is nothing to me. I crossed it before the fiend registered movement and put my fist into it, deep, and again. Then I spent a breath. The controlled kind, the kind the monastery drills into you until spending it is no longer a decision: one strike, placed exactly, meant to seize the nervous system and hold it shut. The fiend locked. Rigid. Stunned.
+
+"Nice," Daz said behind me.
+
+"Even better than frightened," Thorin said.
+
+"He's not just stunned, he's stunning," Grygum said. I let that one go by.
+
+It was better than frightened. A frightened thing still thinks. A stunned thing is done thinking until further notice. I spent two more breaths and struck it twice while it stood there, unable to guard, unable to answer, and both landed heavy enough that I felt the fight go out of the meat of it. The combat drills were the one curriculum I attended in full. This is what they were for.
+
+I stepped back and let the others work.
+
+Grygum swung wide so the bolt wouldn't catch any of us and hurled his javelin, the lightning one he'd been saving. It hummed past the fiend's shoulder and hit nothing. "That missed. Fuck."
+
+Daz declined to spend anything precious on a thing immune to fire. Three darts of plain force, first level, unerring, while he held the rest of himself in reserve. He does not decorate a finished fight.
+
+Thorin finished it. One clean strike, and then a second that arrived as a killing thing, and the fiend stopped being a creature and became weight. It went down and stayed down.
+
+"Really?" Grygum said. "I expected this guy to be a lot tougher."
+
+He hadn't seen it from close in. The fiend had come with exactly one plan: kill the boy, take the key, disengage, fly. One attack was all it needed, and it never got one. We took its entire turn away before it could spend it. That is not the fight being easy. That is the fight being over before the other side arrives at it.
+
+Grygum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands. The boy came around grabbing for the key before his eyes had finished focusing. Then he saw what was lying next to him and went still.
+
+"Moziqodo," he said. "Sylvira Savikas's son." And then, quiet and cracked: "Is Kalan alive?"
+
+I said nothing. He had nearly been torn apart holding a thing he was never told the value of, and his first question was about the man who put it in his pocket.
+
+---
+
+## Thorin — Aftermath and Strategy
+
+The fiend was on the floor and Dawnbringer was still humming in my grip, and nobody said the job was done, because it wasn't. We'd won the room. The problem had left the room a while ago.
+
+A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitting in Candlekeep's High Tower right now, waiting for Moziqodo to walk in with the second one. He was going to be waiting a long time. That was the good news. The bad news was everything else.
+
+I looked down at the thing we'd stopped. If it had gotten its one swing in, Tadric would be dead and the key would be in the air. Disengage and fly: cut the thread, lift off, gone through the dark before any of us crossed the floor. That was its whole plan, and the plan was good. We didn't beat it because we were smarter. We beat it because we hit first, all four of us, and didn't stop until there was nothing left to hit. Not only did we keep him from fleeing, we saved Tadric. Held the position and kept the prize on the board. Giants would call that a full day's work.
+
+Tadric sat in the wreckage with the key in his fist and the color coming back into him where Grygum's healing had closed the gashes. He asked what had happened here, and the others looked at me to do the telling. Fine by me. "He seems like a bit player in this drama, so I figure we might as well tell him what's going on." The kid nearly died carrying a thing nobody named for him. He'd earned the naming. Radical transparency's cheaper than managing a man's ignorance anyway.
+
+He took it about as well as you'd take it. Then: "Is Kalan alive?"
+
+"When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there." That was the honest answer, so that's the one he got.
+
+And somewhere in there it came, the quiet knock inside the chest that means you've crossed some threshold you didn't notice crossing. Not a blow. Worth specifying, given the evening. Just the other kind of arrival, the one that settles into your arms and shoulders and says you're more than you were this morning. I gave Zalthir grief about leveling up without doing the work, which was a lie, since he'd done half the killing, and he knew I knew it, which is what made it funny. Nobody marked the moment beyond that. We don't.
+
+Then Grygum found the fun in the situation, the way he does once the bleeding stops.
+
+"What fun. We've got one real key and one fake key. Anybody who doesn't know we have a fake key, we can fake them out with it somehow."
+
+"And eventually, whoever has the real key is going to wonder how we're claiming to have two," Daz said.
+
+"I'm going to ferret him out," Grygum said. "Him, or her. Or they. Or it."
+
+So I laid the ground out where I could see it. A'lai in the High Tower with one real key, expecting a dead demon to deliver the other. Us with the real second key, plus Kalan's decoy, which isn't the key but is one to anybody who can't tell the difference. He doesn't know his courier is dead. He doesn't know what we're holding. Every hour he waits, the terrain gets better for us, and he's the only one in the keep who doesn't know it.
+
+Daz walked it forward. "So we show up at Candlekeep's High Tower, challenge him, get both keys, and then we own Candlekeep? That's how this works?"
+
+That's how it works. "Yeah. And then we can extract whatever boon we like, since we deferred negotiation."
+
+We never did settle a fee for any of this. That wasn't sloppiness, or not only sloppiness. A price named early is a price named small. You wait until the other side knows exactly what you're worth, and then you stand where you stand and let the ground do the talking.
+
+The High Tower was ahead of us. We'd go stand in it.

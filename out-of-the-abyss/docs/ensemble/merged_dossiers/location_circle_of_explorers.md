@@ -1,5 +1,5 @@
 ---
-name: Circle of Explorers
+name: Circle of Explorers of Neverlight Grove
 type: location
 n_facts: 2
 chapters: 33-33
@@ -25,7 +25,7 @@ chapters: 33-33
 <!-- source: faction_circle_of_explorers.md -->
 
 ---
-name: Circle of Explorers
+name: Circle of Explorers of Neverlight Grove
 type: faction
 n_facts: 1
 chapters: 32-32

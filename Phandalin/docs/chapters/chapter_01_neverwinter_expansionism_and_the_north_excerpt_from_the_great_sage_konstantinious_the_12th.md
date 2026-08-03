@@ -1,4 +1,9 @@
-# Chapter 00 Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious the 12th
+---
+chapter: 1
+title: Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious
+  the 12th
+---
+# Chapter 1 Neverwinter Expansionism and the North, Excerpt from the Great Sage Konstantinious the 12th
 
 With the great sundering complete, the people of the Realms hoped that the era of mischief from the gods walking the world would end. 
 
@@ -10,7 +15,7 @@ Then it was the All-Father, god of the giants, who fantasized about a north that
 
 The sage KP found a piece of the artifact that he needed. The Kraken society was revealed and survived. The Lord’s Alliance grew in strength. The Storm Giant King Hekaton created an alliance between giants and the people of the realms. 
 
-As for Ilymrith, she escaped. 
+As for Iymrith, she escaped. 
 
 But twice, the plans of the gods had been thwarted[^1]. Twice, the gods had interfered. 
 
@@ -32,8 +37,8 @@ Additionally, the alliance of the Silvery Marches was revived due to the efforts
 
 The combined strength of the Giants and major cities successfully ended the barbarian invasion. 
 
-With the threat over and the elimination of the Barbarians from the hinterland, Lord Nevermember has turned his eye to the hinterland of his city-state. 
+With the threat over and the elimination of the Barbarians from the hinterland, Lord Neverember has turned his eye to the hinterland of his city-state. 
 
 In particular, the town of Phandalin. He needed the area cleared of monsters, cults, and evildoers to encourage settlement and growth. 
 
-Because of the costs of the wars, he decided to use adventurers, offering them tax-free no no-questions-asked plunder. One of those adventurers was an avant-garde[^3] musician whose music was underappreciated – Vukardin.
+Because of the costs of the wars, he decided to use adventurers, offering them tax-free no no-questions-asked plunder. One of those adventurers was an avant-garde[^3] musician whose music was underappreciated – Vukradin.

@@ -17,7 +17,7 @@ Zalthir, whose pleasant dream about what Monks dream about was interrupted, look
 “Are we under attack?” 
 
 
-Shuushar whispers, “No. Yukyuk was murdered, and Spiderbait is very upset.” 
+Shuushar whispers, “No. Yuk Yuk was murdered, and Spiderbait is very upset.” 
 
 
 Grygum looks around and says, “Well, we have no other option but to continue and be alert.” 
@@ -32,7 +32,7 @@ First, he questions Spiderbait.
 “Would anyone want him dead?” 
 
 
-“Yukyuk was the kindest, gentlest goblin you could imagine. He and I were pals.”
+“Yuk Yuk was the kindest, gentlest goblin you could imagine. He and I were pals.”
 
 
 “Did he have anything of value?” 
@@ -65,7 +65,7 @@ But Daz knows something’s off.
 “Sounds like a non-answer.” 
 
 
-Buppido sweats, “Yukyuk’s death was necessary for the divine plan.” 
+Buppido sweats, “Yuk Yuk’s death was necessary for the divine plan.” 
 
 
 “Who was responsible for his death?” 

@@ -1,0 +1,247 @@
+[
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was pounding on the sanctum door and shouting to be let out.",
+    "source_quote": "Daral Yashenti was pounding on the door and shouting to be let out.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti stopped pounding when he noticed the four people in the sanctum who did not appear to want him dead.",
+    "source_quote": "When he noticed, he stopped. I watched him count the room: four people in Candlekeep who did not appear to want him dead, all standing in it.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suspected Fembris Lancer of betraying the key's location.",
+    "source_quote": "So we now suspect Fembris Lancer?",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that Detect Magic had previously failed to register the key as magical.",
+    "source_quote": "We had cast Detect Magic on it once, days ago, and it had come up empty.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum questioned whether the key was the real one due to its lack of magic.",
+    "source_quote": "So we tried to detect magic on it, and it didn't read as magical? Makes me wonder if it's actually the right key.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum remembered Kalan Strongbranch\u2019s phrasing: 'I have given it now to someone who is not me.'",
+    "source_quote": "Then he remembered how Kalan Strongbranch had phrased the handoff. *I have given it now to someone who is not me.*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum held the key out to Daral and asked if it looked like the true key to the High Tower.",
+    "source_quote": "Grygum held the key out to Daral. \"Does this look like the key? Does anything about it look off? The key to the tower?\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti admitted he was not a locksmith and could not confirm the key's authenticity.",
+    "source_quote": "Well, I'm not a locksmith, so I couldn't tell you for sure.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti used a scroll to cast Detect Magic on the key.",
+    "source_quote": "Daral produced a scroll from a pocket... He read it, and the room answered.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "The key remained dark and unresponsive when Detect Magic was cast in the sanctum.",
+    "source_quote": "The key sat in the middle of all that light and stayed dark.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti declared the key was not the true key to the High Tower.",
+    "source_quote": "\"No. No.\" Daral was staring at it now... \"This is not the key. This is not the key.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "alarm bell tolling",
+    "fact": "A bell began to toll above the sanctum in a flat, institutional pattern.",
+    "source_quote": "Then a bell began to toll somewhere above us, and it was tolling wrong. Not the hour. A pattern, flat and institutional, the keep itself raising its voice.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm, the First Reader, was found dead with her throat torn.",
+    "source_quote": "Bookwyrm was dead. \"Bookwyrm is dead.\"",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm\u2019s heart was intact and in place, indicating her killer did not want her heart.",
+    "source_quote": "And when Grygum asked whether she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's death",
+    "fact": "Bookwyrm's throat was torn, not cut, distinguishing her death from Janussi's.",
+    "source_quote": "Her throat had been torn. Torn, not cut.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Bookwyrm's note",
+    "fact": "Bookwyrm left a note mid-sentence: 'He is using the beast to\u2014'",
+    "source_quote": "On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to\u2014*",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz felt mental pressure and fog when trying to recall information about Candlekeep\u2019s wards.",
+    "source_quote": "I reached for what I know... Nothing came. Worse than nothing: the fog behind my eyes, the pressure that has been building for days, sat on the reach and smothered it.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "ward detection",
+    "fact": "Daz realized the wards over Candlekeep were uneven and broken.",
+    "source_quote": "The wards over Candlekeep were wrong. The pressure of them, the weight that is supposed to sit evenly over the whole keep, wasn't sitting evenly. Something was broken.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz compared the ward breach to hacking a firewall and opening another port.",
+    "source_quote": "\"Oh,\" I said. \"Like somebody hacked the firewall and opened another port.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "fire test in Candlekeep",
+    "fact": "Grygum used Thaumaturgy on a scrap of paper, and the flame erupted and evaporated instantly.",
+    "source_quote": "Grygum put Thaumaturgy to a scrap of paper: the flame erupted, touched, and evaporated in the same instant.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the room protected by the High Tower keys",
+    "fact": "The ward that prevents fire and teleportation in Candlekeep resides in the room locked by the two High Tower keys.",
+    "source_quote": "And the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm taking Janussi's key",
+    "fact": "Bookwyrm took Janussi's heart and his key before her death.",
+    "source_quote": "Bookwyrm had been first into Janussi's chamber; she took his heart and she took his key.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch told the group he would not be at his post tomorrow.",
+    "source_quote": "*If I don't see you tomorrow, do not look for me at my post.*",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the Sea Warden's Tower",
+    "fact": "Daral identified the Sea Warden's Tower as the most likely location where Kalan had gone.",
+    "source_quote": "Daral named the likeliest place: the Sea Warden's Tower, lost among the other Watchers.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Kalan being deputized as Watcher",
+    "fact": "Kalan Strongbranch deputized Grygum, Daz, Thorin, and Daral as Watchers of Candlekeep.",
+    "source_quote": "You are adventurers. I hereby deputize you as Watchers of Candlekeep.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch revealed that Tadric had the real key.",
+    "source_quote": "\"Tadric has the key.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch admitted he had given the group a decoy key.",
+    "source_quote": "\"Okay, he's basically admitting he gave us a fake.\"",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric, a young Watcher, was guarding the real key in the North Galleries.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer was present when Tadric reported the key to Bookwyrm.",
+    "source_quote": "when he reported the key to Bookwyrm, A'lai Aivenmore had been in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore was in the room when Tadric reported the key to Bookwyrm.",
+    "source_quote": "when he reported the key to Bookwyrm, A'lai Aivenmore had been in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "the North Galleries",
+    "fact": "Kalan posted Tadric in the North Galleries away from the barracks on purpose.",
+    "source_quote": "I posted him away from the barracks on purpose.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Stair key",
+    "fact": "Kalan gave Thorin a key to the Watcher's Stair for a shortcut to the North Galleries.",
+    "source_quote": "He pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the beast",
+    "fact": "The beast referenced in Bookwyrm\u2019s note is Sylvira Savikas\u2019s Abyss-born son.",
+    "source_quote": "Sylvira Savikas has a son. Abyss-born. She is a tiefling; she was in the Abyss; bad things happen there. She keeps him locked in a magical sanctuary.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "the true key's location",
+    "fact": "The true key is with Tadric in the North Galleries, and he is unaware of its significance.",
+    "source_quote": "Tadric has the key... the key he'd pressed on me... had been a decoy from the first hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "the attacker's identity",
+    "fact": "The attacker who killed Bookwyrm is likely Sylvira Savikas\u2019s Abyss-born son.",
+    "source_quote": "Just a maddening attack by Sylvira Savikas's son. I told Bookwyrm that creature would be the death of us.",
+    "quote_verified": true
+  }
+]

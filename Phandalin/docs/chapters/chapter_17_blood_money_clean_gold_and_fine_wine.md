@@ -1,6 +1,12 @@
-# Chapter 16 Blood Money, Clean Gold, and Fine Wine
+---
+chapter: 17
+title: Blood Money, Clean Gold, and Fine Wine
+---
+# Chapter 17 Blood Money, Clean Gold, and Fine Wine
 
-The party gathered at the tavern to discuss their recent encounter with Sister Kella, an enemy who had offered to work with them against the Carver. Valphine explained that Kella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
+## 17.01 08-03-Taraskh 1495
+
+The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an enemy who had offered to work with them against the Carver. Valphine explained that Kaella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
 
 While Vukradin was outside, two pale-skinned, sunburned villagers named Brin Bundlewine and Giles Slipper-Shine approached Valphine with great excitement. They had heard rumors of a drow who worshiped Lathander and believed in the purifying pain of the sun, and they were eager to establish a chapel dedicated to this interpretation of the sun god’s glory. Valphine agreed that founding a temple was a good idea, and the group decided to convert the dilapidated Tresendar Manor into the Temple of Lathander’s Searing Pain of Justice. Harbin Wester, the townmaster and leader of the Privy Council, conveniently appeared and offered to arrange the paperwork for a modest fee of fifty gold pieces. He framed the transaction as a private arrangement that didn’t need to involve the entire council, describing it as simply how things were done in the Overbright. The deal was struck, and Brin and Giles agreed to renovate the temple for twenty-five gold pieces to cover materials, providing their labor for free.
 
@@ -8,7 +14,7 @@ When Vukradin returned from his walk, Harbin quickly claimed that the temple fun
 
 The next morning, Vukradin spoke with Ser Kaelen about tracking down the rightful owners of the treasure they had found. Ser Kaelen explained that he was waiting for information from Neverwinter and should have answers in a few days. He suggested the party could check out Mountain’s Toe or deliver supplies to the Logger’s Camp while they waited. The party decided to take on the supply delivery quest, which Harbin had requested for his brother. At Barthen’s Provisions, they picked up two heavy crates filled with dried meats, cheese, bread, ale, and oil, all loaded onto a cart pulled by an ox named Vincent. When Brewbarry noticed there was no wine among the supplies, Barthen suggested they stop at the Falcon Hunting Lodge along the way, which was known for its fine wine.
 
-##  9-02-Taraksh 1495
+## 17.02 09-03-Taraskh 1495
 
 After a peaceful two-day journey through Neverwinter Wood, the party arrived at the fortified Falcon Hunting Lodge. The compound was surrounded by a ten-foot-high log palisade and featured a two-story main building, a stone tower, stable house, and guest quarters. They rang the bell at the gate and were greeted by Corwin, who introduced himself as the chef and retainer. After seeing Barthen’s letter of introduction, Corwin welcomed them inside and fetched Falcon the Hunter, the lodge’s proprietor. Falcon was a man with impressive mutton chops who expressed great delight at having guests, especially friends of Barthen. He immediately offered them hospitality, including lodging, meals, and access to his fine wine cellar in exchange for musical entertainment from the party’s bard.
 

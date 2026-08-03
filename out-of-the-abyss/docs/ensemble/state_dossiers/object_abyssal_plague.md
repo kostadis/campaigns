@@ -1,5 +1,5 @@
 ---
-name: Abyssal Plague
+name: Sylvira's Abyssal Plague
 type: object
 n_facts: 1
 chapters: 60-60

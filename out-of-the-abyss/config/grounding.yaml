@@ -1,0 +1,58 @@
+summaries: null
+selection:
+  backend: null
+  model: null
+campaign_state:
+  input: docs/TheUnderdark.md
+  output: docs/campaign_state_classic.md
+  extract_dir: docs/campaign_state_extracts
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context: []
+  no_log: false
+  track_files:
+  - docs/tracking/tracking.txt
+  - docs/tracking/tracking_blingdenstone_travelogue.txt
+  - docs/tracking/tracking_candlekeep_murders.txt
+  track_items: []
+distill:
+  input: docs/TheUnderdark.md
+  output: docs/world_state_classic
+  extract_dir: docs/distill_extractions
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context: []
+  no_log: false
+party:
+  input: docs/TheUnderdark.md
+  output: docs/party_classic.md
+  extract_dir: docs/party_extract
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context:
+  - docs/campaign_state_classic.md
+  - docs/world_state_classic.md
+  no_log: false
+  mode: config
+  config_path: config/party.yaml
+  characters: []
+  backstory: []
+  arc_scores: []
+planning:
+  input: docs/TheUnderdark.md
+  output: null
+  extract_dir: null
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context: []
+  no_log: false
+  synth_mode: flat
+  config_path: null
+  npc: []
+  arc_scores: []
+  dossiers:
+    summaries: docs/TheUnderdark.md
+    dossier_dir: docs/npcs/
+    extract_dir: docs/planning_extractions
+    split_chapters: '# Chapter'
+    since: 0

@@ -181519,5 +181519,4363 @@
     ],
     "n_samples": 1,
     "source_chapter": "chapter_61_this_is_not_possible"
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time",
+    "fact": "Every hour the target waits, the terrain grows more favorable to the group, indicating the passage of time since the deception began and the target's unawareness.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time since Bookwyrm's death",
+    "fact": "The events unfolded after Bookwyrm’s death, with the fiend’s attack occurring before the party could respond, indicating a tight temporal window.",
+    "source_quote": "Bookwyrm dead and the second key at risk.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur during the current in-world timeline, with no explicit calendar date provided.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occur on the day the bell tolled incorrectly and Bookwyrm was killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the continuation of a session led by Zalthir, following the Battle in the Domed Rotunda. The timeline is anchored to the immediate aftermath of the fiend’s defeat.",
+    "source_quote": "[Continuing — Speaker: Zalthir, Scene: Battle in the Domed Rotunda]",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "session date",
+    "fact": "The events occurred during the current session, following the death of Bookwyrm and preceding the adventurers’ arrival at the Sea Warden’s Tower.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "session time",
+    "fact": "The events occurred after a long journey underground with no ceiling for months.",
+    "source_quote": "the first ceiling in months that didn't make me feel like cargo.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "the day of the battle",
+    "fact": "The party crosses a threshold of personal change during the battle in the domed rotunda.",
+    "source_quote": "And somewhere in there it came, the quiet knock inside the chest that means you've crossed some threshold you didn't notice crossing. Not a blow. Worth specifying, given the evening. Just the other kind of arrival, the one that settles into your arms and shoulders and says you're more than you were this morning.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "date",
+    "subject": "unknown",
+    "fact": "The events occur in the same quarter hour: the false key is revealed, the alarm sounds, and Bookwyrm is killed.",
+    "source_quote": "A false key in Grygum's hand, an alarm in the air, and the First Reader's throat opened somewhere above us, all in the same quarter hour.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "alarm bell tolling",
+    "fact": "A bell began to toll above the sanctum in a flat, institutional pattern.",
+    "source_quote": "Then a bell began to toll somewhere above us, and it was tolling wrong. Not the hour. A pattern, flat and institutional, the keep itself raising its voice.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "arrival at the domed rotunda",
+    "fact": "The party emerges from a stair at the top of a domed rotunda.",
+    "source_quote": "The stair put us out at the top of a dome.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "bell tolling",
+    "fact": "A bell begins tolling in a flat, institutional pattern, signaling an alarm in Candlekeep.",
+    "source_quote": "Then a bell began to toll somewhere above us, and it was tolling wrong. Not the hour. A pattern, flat and institutional, the keep itself raising its voice.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "bell tolling incorrectly",
+    "fact": "A bell began to toll somewhere above them in a flat, institutional pattern.",
+    "source_quote": "a bell began to toll somewhere above us, and it was tolling wrong. Not the hour. A pattern, flat and institutional",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's death",
+    "fact": "Bookwyrm's throat was torn, not cut, distinguishing her death from Janussi's.",
+    "source_quote": "Her throat had been torn. Torn, not cut.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's Death",
+    "fact": "The death of Bookwyrm created a knowledge vacuum exploited by A'lai Aivenmore, enabling the second key’s concealment and the fiend’s advance.",
+    "source_quote": "Bookwyrm dead and the second key at risk.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's death reported",
+    "fact": "Bookwyrm was dead.",
+    "source_quote": "Bookwyrm was dead.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's heart intact",
+    "fact": "Bookwyrm's heart was present and intact, not beaten but in its proper place.",
+    "source_quote": "she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's throat torn",
+    "fact": "Bookwyrm's throat had been torn, not cut.",
+    "source_quote": "Her throat had been torn. Torn, not cut.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm taking Janussi's key",
+    "fact": "Bookwyrm took Janussi's heart and his key before her death.",
+    "source_quote": "Bookwyrm had been first into Janussi's chamber; she took his heart and she took his key.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "breath usage in combat",
+    "fact": "The narrator spent three controlled breaths during the fight against the pit fiend.",
+    "source_quote": "I spent a breath... I spent two more breaths",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "combat sequence",
+    "fact": "Thorin struck the pit fiend three times in succession during the battle.",
+    "source_quote": "Two strikes landed. Then he found more inside himself and struck a third time",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Compromise of Candlekeep’s Teleportation Ward",
+    "fact": "Candlekeep’s teleportation ward, meant to prevent entry or exit, is not functioning uniformly. It is confined to a single room and has been hacked, allowing animated armor to enter through windows and breach internal security.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz declined to spend anything precious on a thing immune to fire.",
+    "source_quote": "Daz declined to spend anything precious on a thing immune to fire.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the distinction between torn and cut throat in Bookwyrm's death.",
+    "source_quote": "Her throat had been torn. Torn, not cut. That distinction did most of the work for me before we ever reached the office.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz noticed the wards over Candlekeep were wrong.",
+    "source_quote": "The wards over Candlekeep were wrong.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz realized Bookwyrm's killer hadn't wanted her heart.",
+    "source_quote": "Bookwyrm's killer hadn't wanted her heart.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz realized the pressure of the wards wasn't sitting evenly.",
+    "source_quote": "The pressure of them, the weight that is supposed to sit evenly over the whole keep, wasn't sitting evenly.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz sorted the two murders into separate columns.",
+    "source_quote": "I sorted the two murders into separate columns then and there, and nothing I saw afterward moved them back together.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz threw three darts of plain force while holding the rest of himself in reserve.",
+    "source_quote": "Three darts of plain force, first level, unerring, while he held the rest of himself in reserve.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz",
+    "fact": "Daz took Grygum's hand and on the second pass everything came up clean.",
+    "source_quote": "Grygum offered a hand. I took it, and on the second pass everything came up clean at once.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Daz fires darts at pit fiend",
+    "fact": "Daz fired three plain force darts at the pit fiend, conserving his stronger abilities.",
+    "source_quote": "Three darts of plain force, first level, unerring, while he held the rest of himself in reserve.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Death of Bookwyrm",
+    "fact": "Bookwyrm was killed after taking Janussi’s key. Her throat was torn out by a creature seeking the key, and her death exposed the conspiracy to seize both high tower keys.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Death of Janussi",
+    "fact": "Janussi was murdered in his chamber; his heart and key were taken. This triggered Bookwyrm’s subsequent attempt to secure the key, leading to her own death.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "decision to confront A'lai Aivenmore",
+    "fact": "The party decides to go to Candlekeep's High Tower to challenge A'lai Aivenmore and claim both keys.",
+    "source_quote": "So we show up at Candlekeep's High Tower, challenge him, get both keys, and then we own Candlekeep? ... Yeah.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "departure from the domed rotunda",
+    "fact": "The party leaves the domed rotunda after defeating the pit fiend and tending to Tadric.",
+    "source_quote": "The High Tower was ahead of us. We'd go stand in it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Deputization of the Adventurers",
+    "fact": "Kalan, recognizing the Watchers’ decimation and the threat to Candlekeep, deputized Daz, Grygum, Thorin, and Daral as new Watchers to recover the keys and stop the Abyssal incursion.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "door smashed off hinges",
+    "fact": "The door had been smashed off its hinges by the first thing through it.",
+    "source_quote": "The door had been smashed off its hinges by the first thing through it",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "fire test in Candlekeep",
+    "fact": "Grygum used Thaumaturgy on a scrap of paper, and the flame erupted and evaporated instantly.",
+    "source_quote": "Grygum put Thaumaturgy to a scrap of paper: the flame erupted, touched, and evaporated in the same instant.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "First Key Deception",
+    "fact": "Kalan issued a decoy key to the party, believing it would protect them, but it resulted in Daz nearly dying and confirmed a pattern of betrayal.",
+    "source_quote": "The key he'd pressed on me with that strange phrasing, the one I'd handed to Daz, the one that nearly got Daz killed, had been a decoy from the first hour.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "group reveals truth to Tadric",
+    "fact": "Thorin told Tadric the full truth about the keys and the mission after the battle.",
+    "source_quote": "I figure we might as well tell him what's going on. ... Radical transparency's cheaper than managing a man's ignorance anyway.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "group wins domed rotunda",
+    "fact": "The group won control of the domed rotunda by defeating the pit fiend and saving Tadric.",
+    "source_quote": "We'd won the room. The problem had left the room a while ago.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum realized Kalan had given them a decoy key from the first hour.",
+    "source_quote": "the key he'd pressed on me with that strange phrasing, the one I'd handed to Daz, the one that nearly got Daz killed, had been a decoy from the first hour.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Grygum",
+    "fact": "Grygum said the hard thing plainly about prioritizing Tadric or the man.",
+    "source_quote": "\"So if we have to prioritize the man or Tadric, we're going to have to make a choice,\" Grygum said. That is Grygum saying the hard thing plainly so no one can pretend later that it went unsaid.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Grygum heals Tadric",
+    "fact": "Grygum knelt over Tadric and closed his wounds with healing, stopping the bleeding.",
+    "source_quote": "Grygum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Grygum throws lightning javelin",
+    "fact": "Grygum hurled his lightning javelin at the pit fiend, but it missed.",
+    "source_quote": "Grygum swung wide so the bolt wouldn't catch any of us and hurled his javelin, the lightning one he'd been saving. It hummed past the fiend's shoulder and hit nothing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Kalan being deputized as Watcher",
+    "fact": "Kalan Strongbranch deputized Grygum, Daz, Thorin, and Daral as Watchers of Candlekeep.",
+    "source_quote": "You are adventurers. I hereby deputize you as Watchers of Candlekeep.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Kalan's abandonment",
+    "fact": "Kalan is left behind at the stair as the party runs ahead to the rotunda.",
+    "source_quote": "We ran. Kalan tried to come with us. ... He finally planted, hands on knees, done.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "key deception",
+    "fact": "The group executed a deception by possessing both a real key and a convincing decoy, causing the target to believe only one key exists and that it will be delivered by a dead demon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "key detected as non-magical",
+    "fact": "The key came up empty when Detect Magic was cast on it days ago.",
+    "source_quote": "We had cast Detect Magic on it once, days ago, and it had come up empty.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "key handed to Daral",
+    "fact": "Grygum held the key out to Daral.",
+    "source_quote": "Grygum held the key out to Daral.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "key observed by constructs",
+    "fact": "Three constructs came through the windows knowing exactly which hand to look in.",
+    "source_quote": "three constructs with no minds of their own had come through the windows knowing exactly which hand to look in",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "killer knew Bookwyrm's weaknesses",
+    "fact": "The killer knew Bookwyrm would be relaxed, confident, and had little power pointed at the door.",
+    "source_quote": "whoever came for her knew she would be relaxed, knew she would be confident, and knew exactly how little of her power was pointed at the door.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "killer obtained information",
+    "fact": "The killer obtained information about Bookwyrm's habits, suggesting someone sold it.",
+    "source_quote": "You don't get that from luck. You get it from information, and information is a thing somebody sells you.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "murders separated by method",
+    "fact": "Daz sorted Bookwyrm's murder and Janussi's murder into separate columns.",
+    "source_quote": "I sorted the two murders into separate columns then and there",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "pit fiend engagement",
+    "fact": "The pit fiend’s sole plan — kill Tadric, retrieve the key, disengage and fly — was rendered moot when the party struck first, overwhelmed it before it could act, and prevented its escape. The engagement lasted less than a full turn.",
+    "source_quote": "The fiend had come with exactly one plan: kill the boy, take the key, disengage, fly. One attack was all it needed, and it never got one.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "pit fiend's defeat",
+    "fact": "The pit fiend is killed by the combined attacks of Zalthir, Thorin, Daz, and Grygum.",
+    "source_quote": "Thorin finished it. One clean strike, and then a second that arrived as a killing thing, and the fiend stopped being a creature and became weight.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "The bell tolling was a pattern, not the hour.",
+    "source_quote": "a pattern, flat and institutional",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "The three events — false key, alarm bell, Bookwyrm's death — arrived together in the same quarter hour.",
+    "source_quote": "all in the same quarter hour",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "sequence of events",
+    "fact": "This was the second time the narrator said 'We can argue about this later.'",
+    "source_quote": "Second time I'd said it",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "sequence of key handoffs",
+    "fact": "Kalan had given the decoy key to Grygum before it was passed to Daz.",
+    "source_quote": "the key he'd pressed on me with that strange phrasing",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "sequence of key handoffs",
+    "fact": "The key was passed from Grygum's hand to Daz's.",
+    "source_quote": "Fembris had watched the key pass from Grygum's hand to Daz's",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Tadric's Attack",
+    "fact": "The abyssal fiend overtook the party and attacked Tadric in the rotunda, revealing the true stakes of the key’s possession.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Tadric's near-death",
+    "fact": "Tadric is nearly torn apart by the pit fiend before the party intervenes.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Tadric's recovery",
+    "fact": "Tadric regains consciousness and grabs for the key after being healed by Grygum.",
+    "source_quote": "The boy came around grabbing for the key before his eyes had finished focusing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Tadric’s survival",
+    "fact": "Tadric survived a lethal assault by the pit fiend due to the party’s preemptive strike and coordinated defense. His injuries were healed by Grygum, and he regained consciousness with the key still in hand.",
+    "source_quote": "Grygum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin made himself the problem by focusing violence into the fiend's attention.",
+    "source_quote": "A display of focused violence, aimed straight into the creature's attention, and the fiend, a pit fiend, flinched. Recoiled.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Thorin",
+    "fact": "Thorin planted himself between the fiend and the room and struck with Dawnbringer.",
+    "source_quote": "Thorin reached it first. The dwarf who never wins a footrace won this one: he closed the distance, planted himself between the fiend and the room, and Dawnbringer came down.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Thorin apologizes to Dawnbringer",
+    "fact": "Thorin apologized to Dawnbringer before fighting the pit fiend because the sword needed reminding it was radiant.",
+    "source_quote": "He had needed reminding of that, and the sword had required an apology before the fight, and got one.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Thorin defeats pit fiend",
+    "fact": "Thorin killed the pit fiend with two clean strikes after it was stunned.",
+    "source_quote": "Thorin finished it. One clean strike, and then a second that arrived as a killing thing",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Thorin strikes pit fiend with Dawnbringer",
+    "fact": "Thorin struck the pit fiend three times with Dawnbringer, radiating light, not fire.",
+    "source_quote": "Dawnbringer came down. Radiant, not fire. ... Two strikes landed. Then he found more inside himself and struck a third time",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "three suits of armor destroyed",
+    "fact": "Three suits of armor were destroyed in the sanctum attack.",
+    "source_quote": "Three suits of armor lay in pieces on the sanctum floor.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "time since Kalan was last seen",
+    "fact": "Kalan was last seen falling behind during the run to the North Gallery, with his survival uncertain.",
+    "source_quote": "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "travel duration to North Gallery",
+    "fact": "The group ran to the North Gallery after deciding to move quickly, with no specific time duration given.",
+    "source_quote": "We ran",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "ward detection",
+    "fact": "Daz realized the wards over Candlekeep were uneven and broken.",
+    "source_quote": "The wards over Candlekeep were wrong. The pressure of them, the weight that is supposed to sit evenly over the whole keep, wasn't sitting evenly. Something was broken.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir crossed forty-five feet of floor before the fiend registered movement.",
+    "source_quote": "Forty-five feet of floor is nothing to me. I crossed it before the fiend registered movement",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir realized they were the door.",
+    "source_quote": "We were the door.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembered the saying that the most dangerous thing in a room is the one that has already decided it has won.",
+    "source_quote": "The Garden Shadow used to say, or possibly Brother Ollun did, that the most dangerous thing in a room is not the one with the blade drawn; it is the one that has already decided it has won.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir stepped back and let the others work.",
+    "source_quote": "I stepped back and let the others work.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir struck the fiend twice more while it was stunned.",
+    "source_quote": "I spent two more breaths and struck it twice while it stood there, unable to guard, unable to answer, and both landed heavy enough that I felt the fight go out of the meat of it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir struck the fiend with a controlled breath to seize its nervous system.",
+    "source_quote": "I spent a breath. The controlled kind, the kind the monastery drills into you until spending it is no longer a decision: one strike, placed exactly, meant to seize the nervous system and hold it shut.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir",
+    "fact": "Zalthir watched the fiend and realized it had stopped watching the door.",
+    "source_quote": "I was watching the fiend, and the fiend was not watching us. It hadn't looked up.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir strikes stunned pit fiend",
+    "fact": "Zalthir struck the stunned pit fiend twice more while it could not guard or respond.",
+    "source_quote": "I spent two more breaths and struck it twice while it stood there, unable to guard, unable to answer",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "event",
+    "subject": "Zalthir stuns pit fiend",
+    "fact": "Zalthir used a controlled breath to strike the pit fiend and stun it, seizing its nervous system.",
+    "source_quote": "I spent a breath. The controlled kind, the kind the monastery drills into you until spending it is no longer a decision: one strike, placed exactly, meant to seize the nervous system and hold it shut.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "faction",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore has the first key, taken from Bookwyrm, and waits in Candlekeep's High Tower.",
+    "source_quote": "A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitting in Candlekeep's High Tower right now, waiting for Moziqodo to walk in with the second one.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep's High Tower is the location where A'lai Aivenmore is waiting with the first key.",
+    "source_quote": "A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitting in Candlekeep's High Tower right now",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "faction",
+    "subject": "Candlekeep's High Tower",
+    "fact": "Candlekeep's High Tower is the location where the target resides, expecting a key delivery from a dead demon, and is the intended target of the group's planned confrontation to seize control.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "faction",
+    "subject": "Sylvira Savikas's circle",
+    "fact": "Sylvira Savikas is linked to Moziqodo as his mother, suggesting a hidden lineage or political network that the pit fiend sought to eliminate. The party’s interference has disrupted a larger scheme.",
+    "source_quote": "Moziqodo,\" he said. \"Sylvira Savikas's son.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "faction",
+    "subject": "The Shadow Network",
+    "fact": "An unnamed faction or individual orchestrating the attacks and deception around the keys, likely linked to A'lai Aivenmore and the hidden buyer.",
+    "source_quote": "Two attacks, two keys, one buyer.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "faction",
+    "subject": "Watcher Corps",
+    "fact": "The organization responsible for guarding key locations, including Janussi’s door and the North Galleries, now compromised by internal deception.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "faction",
+    "subject": "Watchers of Candlekeep",
+    "fact": "The Watchers of Candlekeep are an elite cadre responsible for safeguarding the library’s secrets and its magical defenses. They hold the two high tower keys, and their ranks have been decimated by targeted killings linked to the keys.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's office",
+    "fact": "Bookwyrm's office desk contains a note stopped mid-sentence: 'He is using the beast to—'.",
+    "source_quote": "On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to—*",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Bookwyrm's office",
+    "fact": "Bookwyrm's office was a ruin.",
+    "source_quote": "The room was a ruin, and the ruin was informative.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep has a great shield that prevents teleportation in or out.",
+    "source_quote": "Daral explained the keep's defenses then: a great shield that keeps anyone from teleporting in or out.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "Candlekeep is the oldest library in the world, warded with magic so ancient it functions as infrastructure. Its teleportation ward is confined to a single room, locked by two high tower keys, and has been compromised by an external force.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep",
+    "fact": "The ward protecting Candlekeep’s teleportation shield resides in the room locked by the two high tower keys.",
+    "source_quote": "And the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep High Tower key description",
+    "fact": "The keys to Candlekeep's High Tower are completely magical.",
+    "source_quote": "They're the two keys that open Candlekeep's High Tower. They're not some lowly, cheap-ass keys you pick up at a locksmith's.",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep High Tower location",
+    "fact": "A'lai Aivenmore was waiting in Candlekeep's High Tower.",
+    "source_quote": "A'lai Aivenmore... was almost certainly sitting in Candlekeep's High Tower",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's High Tower",
+    "fact": "A'lai Aivenmore is waiting in Candlekeep's High Tower for Moziqodo to deliver the second key.",
+    "source_quote": "A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitting in Candlekeep's High Tower right now, waiting for Moziqodo to walk in with the second one.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep's High Tower",
+    "fact": "Candlekeep's High Tower is the strategic objective where the group plans to confront the target, seize both keys, and claim control of the location.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep’s High Tower Room",
+    "fact": "The room containing Candlekeep’s teleportation ward is locked by the two high tower keys. It is the only location where the ward is active, and its compromise is the root of all recent breaches.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Candlekeep teleportation ward location",
+    "fact": "The ward that protects against teleportation lives in one room, the room locked by the two high tower keys.",
+    "source_quote": "the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Domed Rotunda",
+    "fact": "A circular chamber with perfect acoustics, where the fiend attacked Tadric and the party arrived too late to prevent the assault.",
+    "source_quote": "The stair put us out at the top of a dome. A real rotunda: curved stone overhead...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Domed Rotunda",
+    "fact": "The Domed Rotunda was the site of a decisive battle where the party intercepted and destroyed a pit fiend before it could kill Tadric and extract the key. The room was secured, and the threat neutralized within its confines.",
+    "source_quote": "Battle in the Domed Rotunda",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "domed rotunda",
+    "fact": "The domed rotunda contains the corpse of the pit fiend and the wounded Tadric.",
+    "source_quote": "The fiend stopped being a creature and became weight. It went down and stayed down. Tadric sat in the wreckage with the key in his fist...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "domed rotunda",
+    "fact": "The domed rotunda has a curved stone ceiling that carries sound clearly across its span.",
+    "source_quote": "A real rotunda: curved stone overhead, high and wide, ... And a curve like that does a thing with sound. Stand in the right spot under a dome and a whisper from the far side walks the whole ceiling and lands in your ear like the speaker's beside you.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "domed rotunda",
+    "fact": "The domed rotunda has a curved stone ceiling that carries sound, allowing whispers to travel clearly across the room.",
+    "source_quote": "A real rotunda: curved stone overhead, high and wide, the first ceiling in months that didn't make me feel like cargo. And a curve like that does a thing with sound. Stand in the right spot under a dome and a whisper from the far side walks the whole ceiling and lands in your ear like the speaker's beside you.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "domed rotunda",
+    "fact": "The group emerged from a stair into the domed rotunda.",
+    "source_quote": "The stair put us out at the top of a dome.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Echoing Hall",
+    "fact": "The route to the North Galleries passes through the Echoing Hall.",
+    "source_quote": "The Echoing Hall, then the North Galleries.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "High Tower",
+    "fact": "The High Tower is the destination the group intends to occupy, having already positioned themselves to challenge the target and claim both keys and control.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Janussi’s Chamber",
+    "fact": "Janussi’s Chamber is the site of the first murder, where his heart and key were taken. It is the origin point of the conspiracy and the reason Bookwyrm was later killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Kalan's likely location",
+    "fact": "Kalan was likely at the Sea Warden's Tower, down among the other Watchers.",
+    "source_quote": "Daral named the likeliest place: the Sea Warden's Tower, down among the other Watchers",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "North Galleries",
+    "fact": "Tadric was posted in the North Galleries away from the barracks on purpose.",
+    "source_quote": "I posted him away from the barracks on purpose.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "North Gallery",
+    "fact": "A corridor leading from the Watcher's Stair, where Tadric was posted and where the final confrontation with the fiend occurs.",
+    "source_quote": "The Echoing Hall, then the North Galleries. I posted him away from the barracks on purpose.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "rotunda dimensions",
+    "fact": "The dome is high and wide, with a curved stone ceiling that carries sound across forty-five feet of floor.",
+    "source_quote": "a real rotunda: curved stone overhead, high and wide... Forty-five feet of floor is nothing to me",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "sanctum",
+    "fact": "Three suits of armor lay in pieces on the sanctum floor.",
+    "source_quote": "Three suits of armor lay in pieces on the sanctum floor.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Sanctum of Sylvira Savikas’s Son",
+    "fact": "The sanctum is a magically sealed room where Sylvira Savikas imprisons her Abyss-born son. It is the source of the Abyssal corruption that has breached Candlekeep’s wards and enabled the animated armor to infiltrate.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Sea Warden's Tower",
+    "fact": "Daral Yashenti identifies the Sea Warden's Tower as Kalan Strongbranch’s likely location.",
+    "source_quote": "Daral named the likeliest place: the Sea Warden's Tower, lost among the other Watchers.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Sea Warden's Tower",
+    "fact": "The Sea Warden's Tower is one of the Watchers’ outposts among the other Watchers, located down among the lesser towers. It is the likeliest location where Kalan was hiding or preparing to defend himself.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "Tadric's location",
+    "fact": "Tadric was posted in the North Galleries.",
+    "source_quote": "I posted him away from the barracks on purpose. Run! He pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery.",
+    "quote_verified": false,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "the North Galleries",
+    "fact": "Kalan posted Tadric in the North Galleries away from the barracks on purpose.",
+    "source_quote": "I posted him away from the barracks on purpose.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "the room protected by the High Tower keys",
+    "fact": "The ward that prevents fire and teleportation in Candlekeep resides in the room locked by the two High Tower keys.",
+    "source_quote": "And the ward, Daral realized as he said it, lives in one room. The room locked by the two high tower keys.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "location",
+    "subject": "the Sea Warden's Tower",
+    "fact": "Daral identified the Sea Warden's Tower as the most likely location where Kalan had gone.",
+    "source_quote": "Daral named the likeliest place: the Sea Warden's Tower, lost among the other Watchers.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "Abyssal Fiend",
+    "fact": "An immense, patient abyssal creature that attacked Tadric in the domed rotunda, tearing him apart with claws as if it had all the time in the world.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "beast",
+    "fact": "A beast, identified as Sylvira Savikas’s Abyss-born son, killed Bookwyrm by tearing her throat.",
+    "source_quote": "Just a maddening attack by Sylvira Savikas's son.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "darts used by Daz",
+    "fact": "Daz fired three darts of plain force during the battle.",
+    "source_quote": "Three darts of plain force, first level, unerring",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "dead demon",
+    "fact": "The dead demon was expected to deliver the second key to the target in the High Tower, but is now confirmed deceased, and its courier role is unknown to the target.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horrors",
+    "fact": "Three helmed horrors came through the windows of the sanctum hunting for the key.",
+    "source_quote": "three constructs with no minds of their own had come through the windows knowing exactly which hand to look in.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "Helmed Horrors (Animated Armor)",
+    "fact": "Three suits of animated armor were sent through Candlekeep’s breached wards to hunt for the high tower keys. They are not autonomous but are directed by an external force tied to the Abyssal corruption.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horrors count",
+    "fact": "Three suits of armor came through the windows hunting a key.",
+    "source_quote": "three constructs with no minds of their own had come through the windows",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "helmed horrors count",
+    "fact": "Three suits of armor lay in pieces on the sanctum floor.",
+    "source_quote": "Three suits of armor lay in pieces on the sanctum floor",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "A pit fiend attacks Tadric in the domed rotunda and is killed by the party.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "A pit fiend was grappling and tearing apart Tadric in the domed rotunda.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "The pit fiend did not notice Thorin and the others entering the room because it was focused on killing Tadric.",
+    "source_quote": "It hadn't looked up. It was still busy with its kill, certain of its evening.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "The pit fiend flinched and recoiled when Thorin struck it with Dawnbringer.",
+    "source_quote": "the fiend, a pit fiend, flinched. Recoiled.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "The pit fiend had only one plan: kill Tadric, take the key, disengage, and fly away.",
+    "source_quote": "The fiend had come with exactly one plan: kill the boy, take the key, disengage, fly.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "The pit fiend was a single-minded predator with one plan: kill Tadric, retrieve the key, and escape. It was defeated not by superior power, but by preemptive, overwhelming force that denied it any action. It was stunned, then destroyed.",
+    "source_quote": "The fiend, a pit fiend, flinched. Recoiled. It could not bring itself to advance on him.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "The pit fiend was killed by Thorin's two clean strikes.",
+    "source_quote": "Thorin finished it. One clean strike, and then a second that arrived as a killing thing, and the fiend stopped being a creature and became weight.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend",
+    "fact": "The pit fiend was stunned by Zalthir's precise strike and could not guard or respond.",
+    "source_quote": "The fiend locked. Rigid. Stunned.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "pit fiend count",
+    "fact": "One pit fiend attacked Tadric in the domed rotunda.",
+    "source_quote": "the fiend, a pit fiend",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "monster",
+    "subject": "Sylvira Savikas’s Son",
+    "fact": "Sylvira Savikas’s son is an Abyss-born tiefling whose presence radiates madness. He is responsible for the violent attacks on Watchers and the breach of Candlekeep’s wards, manifesting through animated armor that hunts for the keys.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai",
+    "fact": "A'lai is stationed in the High Tower, expecting a dead demon to deliver the second key, unaware that the group holds the real second key and a decoy.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore has the key torn off Bookwyrm and is waiting in Candlekeep's High Tower.",
+    "source_quote": "A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitting in Candlekeep's High Tower right now, waiting for Moziqodo to walk in with the second one.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is a hidden figure present during the key’s reporting to Bookwyrm, the only person with knowledge of the key’s true nature.",
+    "source_quote": "A'lai Aivenmore had been in the room.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore possesses the first key, torn from Bookwyrm, and is presumed to be waiting in Candlekeep’s High Tower for Moziqodo to deliver the second key — a delivery that will never occur.",
+    "source_quote": "A'lai Aivenmore had the key torn off Bookwyrm, and he was almost certainly sitting in Candlekeep's High Tower right now, waiting for Moziqodo to walk in with the second one.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore was in the room when Tadric reported the key to Bookwyrm.",
+    "source_quote": "when he reported the key to Bookwyrm, A'lai Aivenmore had been in the room.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a deceased figure whose knowledge of the key was exploited, making their death a pivotal moment in the unfolding deception.",
+    "source_quote": "Bookwyrm dead and the second key at risk.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was a Watcher of Candlekeep who entered Janussi’s chamber first, took his heart and key, and was later killed by a creature seeking the key. Her death initiated the chain of events leading to the deputization of the adventurers.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm was an eighteenth-level magic user.",
+    "source_quote": "She was an eighteenth-level magic user at rest in her own tower",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm's ninth-level spell slots probably held Validate Citation and Identify False Citation.",
+    "source_quote": "a woman whose ninth-level slots probably held Validate Citation and Identify False Citation rather than anything that stops claws.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm, the First Reader, was found dead with her throat torn.",
+    "source_quote": "Bookwyrm was dead. \"Bookwyrm is dead.\"",
+    "quote_verified": false,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm’s heart was intact and in place, indicating her killer did not want her heart.",
+    "source_quote": "And when Grygum asked whether she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm’s heart was intact and not removed.",
+    "source_quote": "And when Grygum asked whether she still had her heart, the answer came back yes. Present. Intact. Not beating, but exactly where it belonged.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm's spell level",
+    "fact": "Bookwyrm was an eighteenth-level magic user.",
+    "source_quote": "She was an eighteenth-level magic user at rest in her own tower",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm's spell slots",
+    "fact": "Bookwyrm's ninth-level slots probably held Validate Citation and Identify False Citation.",
+    "source_quote": "a woman whose ninth-level slots probably held Validate Citation and Identify False Citation",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Brother Vashek",
+    "fact": "Brother Vashek taught a class on reading a false thing set among true ones.",
+    "source_quote": "There was a class for this at the monastery: reading a false thing set among true ones. Brother Vashek taught it, or possibly the quiet one with the ink-stained hands;",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Candlekeep scholars present",
+    "fact": "Four people in Candlekeep did not appear to want Daral Yashenti dead.",
+    "source_quote": "four people in Candlekeep who did not appear to want him dead",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral",
+    "fact": "Daral is a Candlekeep sage who initially dismissed the possibility of ward failure but later accepted Grygum’s evidence. He identified the ward’s physical location as the room locked by the two high tower keys.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti admitted he was not a locksmith and could not confirm the key's authenticity.",
+    "source_quote": "Well, I'm not a locksmith, so I couldn't tell you for sure.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti asked, \"What do we do next, gentlemen?\"",
+    "source_quote": "\"What do we do next, gentlemen?\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti declared the key was not the true key to the High Tower.",
+    "source_quote": "\"No. No.\" Daral was staring at it now... \"This is not the key. This is not the key.\"",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti declared, \"No. No. This is not the key. This is not the key.\"",
+    "source_quote": "\"No. No. This is not the key. This is not the key.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti had no idea what the 'beast' was.",
+    "source_quote": "Daral had no idea what the beast was.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti produces a scroll to cast Detect Magic on the key.",
+    "source_quote": "Daral produced a scroll from a pocket. Every scholar in this keep apparently carries one, the way a sailor carries a knife. He read it, and the room answered.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti said the keys to Candlekeep's High Tower are completely magical.",
+    "source_quote": "\"Oh, absolutely. Completely magical. They're the two keys that open Candlekeep's High Tower.\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti stopped pounding when he noticed the four people in the sanctum who did not appear to want him dead.",
+    "source_quote": "When he noticed, he stopped. I watched him count the room: four people in Candlekeep who did not appear to want him dead, all standing in it.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti stopped pounding when he noticed the room's occupants.",
+    "source_quote": "When he noticed, he stopped.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti turned around after counting the people in the room.",
+    "source_quote": "He turned around.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti turned the key over and said he couldn't tell if it was the right key.",
+    "source_quote": "Daral turned it over, pensive. \"Well, I'm not a locksmith, so I couldn't tell you for sure.\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daral Yashenti",
+    "fact": "Daral Yashenti was pounding on the sanctum door and shouting to be let out.",
+    "source_quote": "Daral Yashenti was pounding on the door and shouting to be let out.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 3,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz articulated the long-term strategy: that the target will eventually question how two keys exist, and he confirmed the group’s plan to seize both keys at Candlekeep's High Tower to claim control.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz asked, \"Bookwyrm?\"",
+    "source_quote": "\"Bookwyrm?\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz believes the madness of the Abyss is following them since Velkynvelve.",
+    "source_quote": "The madness of the Abyss. The same madness we have been wading through since Velkynvelve, and here it was ahead of us again, wearing somebody's son.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz compared the ward breach to hacking a firewall and opening another port.",
+    "source_quote": "\"Oh,\" I said. \"Like somebody hacked the firewall and opened another port.\"",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz felt mental pressure and fog when trying to recall information about Candlekeep’s wards.",
+    "source_quote": "I reached for what I know... Nothing came. Worse than nothing: the fog behind my eyes, the pressure that has been building for days, sat on the reach and smothered it.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz felt the fog behind his eyes and pressure building for days smother his mental reach.",
+    "source_quote": "the fog behind my eyes, the pressure that has been building for days, sat on the reach and smothered it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz internally cursed, 'Are you fucking kidding me.'",
+    "source_quote": "*Are you fucking kidding me.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a seasoned investigator who recognizes patterns of Abyssal corruption and has personal experience with Candlekeep’s wards. He recalled the line 'If I don't see you tomorrow, do not look for me at my post' and deduced Kalan’s likely location.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a sharp, dry-witted party member who nearly died from the decoy key and now observes the group’s dynamics with detached clarity.",
+    "source_quote": "A little out of breath,\" Daz observed, dry as gravel.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz observes that Kalan is out of breath after falling behind.",
+    "source_quote": "\"A little out of breath,\" Daz observed, dry as gravel.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz recalled that Sylvira Savikas has an abyss-born son kept in a magical sanctuary.",
+    "source_quote": "Sylvira Savikas has a son. Abyss-born. She is a tiefling; she was in the Abyss; bad things happen there. She keeps him locked in a magical sanctuary.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz refrained from expending precious resources on the fire-immune fiend, instead using three plain force darts to finish its collapse, demonstrating discipline and restraint in combat.",
+    "source_quote": "Daz declined to spend anything precious on a thing immune to fire. Three darts of plain force, first level, unerring, while he held the rest of himself in reserve.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz throws three darts of plain force at the pit fiend without spending anything precious.",
+    "source_quote": "Three darts of plain force, first level, unerring, while he held the rest of himself in reserve.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz understood the situation as a firewall hack with an opened port.",
+    "source_quote": "Oh, I said. Like somebody hacked the firewall and opened another port.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz used the word 'interesting' when a thing had rearranged more than he intended to show.",
+    "source_quote": "Interesting,' I said. That is the word I use when a thing has rearranged more than I intend to show.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the boy who reported the key to Bookwyrm and later admitted A'lai Aivenmore was present in the room during the report.",
+    "source_quote": "Fembris... admitted that when he reported the key to Bookwyrm, A'lai Aivenmore had been in the room.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer brought Daz and others up to Bookwyrm's office.",
+    "source_quote": "Fembris Lancer and Daral Yashenti brought us up to her office.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris Lancer",
+    "fact": "Fembris Lancer was present when Tadric reported the key to Bookwyrm.",
+    "source_quote": "when he reported the key to Bookwyrm, A'lai Aivenmore had been in the room.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum asked, \"Who killed him?\" and was corrected to 'her.'",
+    "source_quote": "\"Who killed him?\" Grygum asked, and was corrected: her.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum asserted that a pit fiend cannot be frightened, but was proven wrong by Thorin’s actions. He later attempted to strike the fiend with a lightning javelin, missed, and expressed frustration, yet acknowledged the team’s success in the aftermath.",
+    "source_quote": "Grygum had told him you can't frighten a pit fiend. Thorin had asked if he'd like to see him try. That question was now settled.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believed the phrasing 'someone who is not me' suggested the giver had thought about who gets blamed.",
+    "source_quote": "A man who hands you a thing and describes the transaction instead of the thing has already thought about who gets blamed for it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum believes inconceivable things happen several times a day.",
+    "source_quote": "Grygum, who has spent as many years in information security as I have, explained that inconceivable things happen several times a day,",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum felt the deputization was not a performance review but heard it as one.",
+    "source_quote": "A deputization is not a performance review, but it was hard not to hear it as one.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum felt the situation was not light, despite speaking lightly.",
+    "source_quote": "He said it lightly. It wasn't light.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum held the key out to Daral and asked if it looked like the true key to the High Tower.",
+    "source_quote": "Grygum held the key out to Daral. \"Does this look like the key? Does anything about it look off? The key to the tower?\"",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum holds out the key to Daral Yashenti and asks if it looks like the real key.",
+    "source_quote": "Grygum held the key out to Daral. \"Does this look like the key? Does anything about it look off? The key to the tower?\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is an expert in information security with deep familiarity with Candlekeep’s magical infrastructure. He tested the ward by using Thaumaturgy on a scrap of paper, confirming the ward's anomalous behavior and its confinement to a single room.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the speaker who recognized the pattern of deception, questioned Kalan’s motives, and pushed the party to confront the truth about the keys.",
+    "source_quote": "Aye, aye,\" I said, because when a frightened man hands you a badge, you take the badge.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum joked, \"Anybody needs to change the battery?\"",
+    "source_quote": "\"Anybody needs to change the battery?\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum kneels over Tadric and closes his wounds with healing.",
+    "source_quote": "Grygum knelt over Tadric and closed him back up, the blood slowing and then stopping under his hands.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum laughs loudly when Thorin questions the key's authenticity.",
+    "source_quote": "Grygum went off like a rockslide behind me, laughing his whole chest out.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum noted that keeping men with swords by the doors is a plain civic truth he was raised on.",
+    "source_quote": "It's always important to have one. That is the kind of plain civic truth I was raised on,",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum questioned whether the key was the real one due to its lack of magic.",
+    "source_quote": "So we tried to detect magic on it, and it didn't read as magical? Makes me wonder if it's actually the right key.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum read the note aloud.",
+    "source_quote": "Grygum read it aloud",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recalled that Detect Magic had previously failed to register the key as magical.",
+    "source_quote": "We had cast Detect Magic on it once, days ago, and it had come up empty.",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum recognized the tactical opportunity in the key situation, proposed using the fake key to deceive others, and declared his intent to ferret out whoever believes they have the real key.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum remembered Kalan Strongbranch’s phrasing: 'I have given it now to someone who is not me.'",
+    "source_quote": "Then he remembered how Kalan Strongbranch had phrased the handoff. *I have given it now to someone who is not me.*",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "small",
+      "sweep"
+    ],
+    "n_samples": 4,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum said, \"I feel like we've done a poor job of serving and protecting here.\"",
+    "source_quote": "\"I feel like we've done a poor job of serving and protecting here,\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum said, \"Someone who is not me. Yeah, that's a weird phrasing.\"",
+    "source_quote": "\"Someone who is not me. Yeah, that's a weird phrasing,\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suggested that Fembris Lancer might be involved in the attack.",
+    "source_quote": "\"So we now suspect Fembris Lancer?\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suspected Fembris Lancer of betraying the key's location.",
+    "source_quote": "So we now suspect Fembris Lancer?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum suspects Fembris Lancer of informing the constructs about the key.",
+    "source_quote": "Fembris had watched the key pass from Grygum's hand to Daz's, and three constructs with no minds of their own had come through the windows knowing exactly which hand to look in.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum throws his lightning javelin at the pit fiend and misses.",
+    "source_quote": "He hurled his javelin, the lightning one he'd been saving. It hummed past the fiend's shoulder and hit nothing.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum understood that Kalan knew they knew it was fake and didn't care.",
+    "source_quote": "He didn't, and he didn't care, and that told me the rest.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum wanted to hear the state of things said out loud by asking if he still had the fake key.",
+    "source_quote": "I still have the fake key, right?\" I asked, mostly to hear the state of things said out loud.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum wondered if the key was a hot potato that brings bad things to whoever holds it.",
+    "source_quote": "And I guess it could be a hot-potato thing. Bad things come to whoever's holding the key when something happens.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi was a Watcher of Candlekeep whose chamber was breached, his heart taken, and his key stolen. His death preceded Bookwyrm’s and is tied to the same conspiracy involving the tower keys.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Janussi",
+    "fact": "Janussi’s heart was removed with instruments and intent, distinguishing his death from Bookwyrm’s.",
+    "source_quote": "Janussi's heart had been removed with instruments and intent.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan asked if Tadric was alive after the battle.",
+    "source_quote": "Is Kalan alive?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan could not trust the group with the real key.",
+    "source_quote": "He couldn't trust us with the real one, given...",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan falls behind during the run to the North Gallery due to exhaustion and age.",
+    "source_quote": "the man was carrying extra stone and extra years, and the gap between him and us opened the way gaps do, slow and then all at once.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan gave the group a fake key because he thought they would be safer with it.",
+    "source_quote": "he'd figured that if they saw us with a fake key, we'd be safer.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan gives the group a fake key because he believes they'll be safer with it.",
+    "source_quote": "He couldn't trust us with the real one, given...",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is a Watcher of Candlekeep who possessed the second key. He revealed that Sylvira Savikas’s son is the source of recent attacks, and he deputized the adventurers as new Watchers after learning Bookwyrm’s key was taken.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is a weary, overcautious figure who issued a decoy key to the party, believing it would make them safer, and now denies knowing the key was fake despite evidence.",
+    "source_quote": "Kalan had posted the genuine article on a boy in the North Galleries, and the key he'd pressed on me with that strange phrasing... had been a decoy from the first hour.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is left behind and plants himself on the floor, hands on knees, done.",
+    "source_quote": "He finally planted, hands on knees, done.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan provided a decoy key that is indistinguishable from a real key to those who cannot tell the difference, and the group now holds it alongside the real second key.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan was last seen running hard, breathing heavily, after placing the key in Tadric’s possession. His current status is unknown, but he is presumed alive as of the last observation.",
+    "source_quote": "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan was left behind, panting and out of breath, after failing to keep up with the group.",
+    "source_quote": "He finally planted, hands on knees, done.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Tadric asks if Kalan is alive after surviving the fiend's attack.",
+    "source_quote": "\"Is Kalan alive?\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan's age",
+    "fact": "Kalan was carrying extra years, indicating he was older than the others.",
+    "source_quote": "the man was carrying extra stone and extra years",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch admitted he had given the group a decoy key.",
+    "source_quote": "\"Okay, he's basically admitting he gave us a fake.\"",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch asks if Bookwyrm had the key upon hearing the alarm.",
+    "source_quote": "He stopped. Then, ahead of grief, ahead of who and how: \"Does she have the key?\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch deputizes Grygum, Daz, Thorin, and Daral as Watchers of Candlekeep.",
+    "source_quote": "I hereby deputize you as Watchers of Candlekeep.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch is found buckling armor and approaching the group at the Sea Warden's Tower.",
+    "source_quote": "Kalan was buckling on his armor as we arrived, already coming toward us at a half-run.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch mentions a small honorarium for the deputized Watchers.",
+    "source_quote": "Kalan sputtered something about a small honorarium, truly an honorarium,",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch revealed that Tadric had the real key.",
+    "source_quote": "Then he told us where the real key was, and the whole knot came apart in my hands. \"Tadric has the key.\"",
+    "quote_verified": true,
+    "passes": [
+      "large",
+      "sweep"
+    ],
+    "n_samples": 2,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch told the group he would not be at his post tomorrow.",
+    "source_quote": "*If I don't see you tomorrow, do not look for me at my post.*",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan Strongbranch",
+    "fact": "Kalan Strongbranch told the group, 'If I don't see you tomorrow, do not look for me at my post.'",
+    "source_quote": "*If I don't see you tomorrow, do not look for me at my post.* He had said it to us like a man leaving himself an exit.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Messenger",
+    "fact": "The messenger insisted that crimes like this don't happen in Candlekeep.",
+    "source_quote": "These crimes don't happen in Candlekeep, he kept insisting.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Messenger",
+    "fact": "The messenger said, \"Bookwyrm is dead.\"",
+    "source_quote": "\"Bookwyrm is dead.\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Moziqodo",
+    "fact": "Moziqodo is the son of Sylvira Savikas and the target of the pit fiend’s attack. His identity was recognized by Tadric after the battle, revealing his significance in the broader conflict.",
+    "source_quote": "Moziqodo,\" he said. \"Sylvira Savikas's son.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling who has an Abyss-born son locked in a magical sanctuary.",
+    "source_quote": "Sylvira Savikas has a son. Abyss-born. She is a tiefling; she was in the Abyss; bad things happen there. She keeps him locked in a magical sanctuary.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is a tiefling who was once in the Abyss and now keeps her Abyss-born son locked in a magical sanctuary to protect others from him—or to protect herself from him. Her son is linked to the murders and the breach of Candlekeep’s wards.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas is the mother of Moziqodo, the dead pit fiend.",
+    "source_quote": "\"Moziqodo,\" he said. \"Sylvira Savikas's son.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Sylvira Savikas",
+    "fact": "Sylvira Savikas’s son is suspected of killing Bookwyrm.",
+    "source_quote": "Just a maddening attack by Sylvira Savikas's son. I told Bookwyrm that creature would be the death of us.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric grabs for the key before his eyes have finished focusing after being healed.",
+    "source_quote": "The boy came around grabbing for the key before his eyes had finished focusing.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric identifies the dead fiend as Moziqodo, Sylvira Savikas's son.",
+    "source_quote": "\"Moziqodo,\" he said. \"Sylvira Savikas's son.\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority",
+      "large",
+      "sweep"
+    ],
+    "n_samples": 3,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young Watcher posted in the North Galleries guarding the real key.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door. Kalan had posted the genuine article on a boy in the North Galleries,",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young, loyal Watcher who guards Janussi's door and now holds the only real key, unaware of what he carries or what is coming for him.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is grappled to the floor and being torn apart by a fiend in the domed rotunda.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric regained consciousness and grabbed for the key before recognizing the dead fiend.",
+    "source_quote": "The boy came around grabbing for the key before his eyes had finished focusing.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric survived a near-fatal attack by the pit fiend while carrying the key, unaware of its value. His first question upon regaining consciousness was about Kalan’s survival, revealing his loyalty and emotional stakes.",
+    "source_quote": "Moziqodo,\" he said. \"Sylvira Savikas's son.\" And then, quiet and cracked: \"Is Kalan alive?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric wants to know if Kalan is alive.",
+    "source_quote": "\"Is Kalan alive?\"",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric was grappled and torn apart by a pit fiend in the domed rotunda.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric, a young Watcher, was guarding the real key in the North Galleries.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Tadric's role",
+    "fact": "Tadric, a young Watcher, was posted to guard Janussi's door and held the real key.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asked, \"What does that mean?\"",
+    "source_quote": "\"What does that mean?\"",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asks if the key is real this time or if the man is just fucking with them again.",
+    "source_quote": "\"Is this key for real this time, or are you just fucking with us again?\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin asks the map provider if the key is real this time or if he is being fooled again.",
+    "source_quote": "\"Is this key for real this time, or are you just fucking with us again?\"",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believed the theory implicating A'lai Aivenmore was a good start.",
+    "source_quote": "I mean, there's other theories you could come up with,' I said, 'but that seems like a good start for sure.'",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes Dawnbringer needed an apology before the fight, and he gave it.",
+    "source_quote": "He had needed reminding of that, and the sword had required an apology before the fight, and got one.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes Tadric earned the naming of what he carried.",
+    "source_quote": "The kid nearly died carrying a thing nobody named for him. He'd earned the naming.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes a price named early is a price named small.",
+    "source_quote": "A price named early is a price named small.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes a shortcut is terrain somebody already solved for you.",
+    "source_quote": "Now, I like a shortcut. A shortcut is terrain somebody already solved for you.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes anyone who tears out a throat is sociopathic, even if well-adjusted.",
+    "source_quote": "Anybody that would tear out somebody's throat is sociopathic,\" Thorin said. \"They may be well-adjusted with good methods and claws. I'm just saying.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes radical transparency is cheaper than managing ignorance.",
+    "source_quote": "Radical transparency's cheaper than managing a man's ignorance anyway.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes the only place that mattered was the North Gallery.",
+    "source_quote": "Right now the only place that mattered was the North Gallery.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin believes they beat the fiend because they hit first and didn't stop.",
+    "source_quote": "We didn't beat it because we were smarter. We beat it because we hit first, all four of us, and didn't stop until there was nothing left to hit.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin calls Kalan 'Little Rotund' as Kalan falls behind.",
+    "source_quote": "\"Little Rotund,\" I said, mostly to myself.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin considers being right not the same as being there.",
+    "source_quote": "But Tadric was somewhere ahead with something coming for him, and being right is not the same as being there.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin corrects Grygum’s use of 'him' when referring to Bookwyrm, specifying 'her'.",
+    "source_quote": "\"Who killed him?\" Grygum asked, and was corrected: her.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin finishes the pit fiend with one clean strike and a second killing blow.",
+    "source_quote": "Thorin finished it. One clean strike, and then a second that arrived as a killing thing, and the fiend stopped being a creature and became weight.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin intends to go stand in Candlekeep's High Tower.",
+    "source_quote": "The High Tower was ahead of us. We'd go stand in it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin intends to have words with Kalan later.",
+    "source_quote": "Later is a real place. We'd get there, and Kalan and I would have words in it.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is not surprised when he makes himself the problem in combat.",
+    "source_quote": "Then he did the thing I have stopped being surprised by: he made himself the problem.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is pragmatic and skeptical, often pushing for clarity in ambiguous situations. He questioned whether the murders were connected to the keys and insisted on verifying the absence of Bookwyrm’s key before accepting Kalan’s explanation.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the investigator who assembled the case from fragments, identified the deception, and confirmed the existence of a single buyer behind two attacks.",
+    "source_quote": "Thorin assembled the case out loud, fast, and it held together.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the speaker reflecting on the group's strategic shift after crossing an unnoticed threshold, and he initiated the deception around the keys by falsely accusing Zalthir of leveling without work.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin knows he gave Zalthir grief about leveling up, and it was a lie.",
+    "source_quote": "I gave Zalthir grief about leveling up without doing the work, which was a lie, since he'd done half the killing.",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin makes himself the problem by standing between the fiend and the room, drawing its attention.",
+    "source_quote": "he closed the distance, planted himself between the fiend and the room, and Dawnbringer came down.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin mutters 'Little Rotund' to himself about Kalan.",
+    "source_quote": "\"Little Rotund,\" I said, mostly to myself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin noticed the acoustics of the dome and clocked the optimal spot.",
+    "source_quote": "I clocked the spot on the way in. A room that carries sound is a room that works for whoever knows it does.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin realizes the fiend had beaten them to the room and was killing Tadric.",
+    "source_quote": "Then I saw what the room was actually holding, and the acoustics stopped mattering.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin said, \"Reality disagrees.\"",
+    "source_quote": "\"Reality disagrees,\"",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin says he will argue with Kalan later about the fake key.",
+    "source_quote": "Later is a real place. We'd get there, and Kalan and I would have words in it.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin strikes the pit fiend three times with Dawnbringer, sapping its balance.",
+    "source_quote": "Two strikes landed. Then he found more inside himself and struck a third time, and I watched him sap something out of the fiend's balance as it hit.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin struck first against the pit fiend, using Dawnbringer to shatter its confidence and lock it in place with radiant force, preventing its escape and saving Tadric. He had previously challenged Grygum’s assertion that a pit fiend cannot be frightened — and proved it.",
+    "source_quote": "Thorin reached it first. The dwarf who never wins a footrace won this one: he closed the distance, planted himself between the fiend and the room, and Dawnbringer came down. Radiant, not fire.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin suggests renegotiating the fee due to the expanded scope of the investigation.",
+    "source_quote": "Thorin wanted the scope stated plainly. \"Let's just be clear. We were hired to solve one murder. This is really not ours to solve.\" He suggested renegotiating our fee,",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin summed up Tadric's role in one sentence: 'Short human, young, Tadric. His role is Tadric.'",
+    "source_quote": "Thorin summed the boy up in a sentence. Short human, young, Tadric. His role is Tadric.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin tells Tadric that Kalan was alive when they left him, but his breathing was bad.",
+    "source_quote": "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin thinks the only way to ask anything is straight.",
+    "source_quote": "So I asked him straight, because that's the only way I ask anything.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin wanted to renegotiate their fee because the case had expanded beyond their original hire.",
+    "source_quote": "Thorin wanted the scope stated plainly. 'Let's just be clear. We were hired to solve one murder. This is really not ours to solve.' He suggested renegotiating our fee,",
+    "quote_verified": false,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir believes three things arriving together never turn out to be three separate things.",
+    "source_quote": "I have never once seen three things arrive together and turn out to be three things.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir delivers a stunning strike to the pit fiend, locking its nervous system.",
+    "source_quote": "I crossed it before the fiend registered movement and put my fist into it, deep, and again. Then I spent a breath. The controlled kind, the kind the monastery drills into you until spending it is no longer a decision: one strike, placed exactly, meant to seize the nervous system and hold it shut.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir distrusts a fight where nothing dies because no blood was shed.",
+    "source_quote": "Three suits of armor lay in pieces on the sanctum floor. No blood. Nothing had bled in this fight, which meant nothing had died in it either, and I distrust a fight where nothing dies.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir distrusts a fight where nothing dies.",
+    "source_quote": "No blood. Nothing had bled in this fight, which meant nothing had died in it either, and I distrust a fight where nothing dies.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir is waiting to see what comes through the door next.",
+    "source_quote": "I watched the door and waited to see what came through it next.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir knows the dead metal of the false key made the argument by itself.",
+    "source_quote": "The dead metal made the argument by itself.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir leveled up after doing half the killing, and Thorin falsely accused him of not earning it — a lie Zalthir knew was a lie, making the mockery funny.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir observed the pit fiend's single-minded focus on killing Tadric and acted decisively to intercept it, delivering the final stunned blow after Thorin broke its posture. He later reflected on the tactical superiority of preemptive violence and chose not to comment on the team's unspoken cohesion.",
+    "source_quote": "I said nothing. I was watching the fiend, and the fiend was not watching us. It hadn't looked up. It was still busy with its kill, certain of its evening.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir remembers a class on reading false things set among true ones taught by Brother Vashek or the quiet one with ink-stained hands.",
+    "source_quote": "There was a class for this at the monastery: reading a false thing set among true ones. Brother Vashek taught it, or possibly the quiet one with the ink-stained hands;",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir strikes the stunned pit fiend twice more while it cannot guard or answer.",
+    "source_quote": "I spent two more breaths and struck it twice while it stood there, unable to guard, unable to answer, and both landed heavy enough that I felt the fight go out of the meat of it.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir tells Tadric the full story of what happened after the battle.",
+    "source_quote": "\"He seems like a bit player in this drama, so I figure we might as well tell him what's going on.\"",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "npc",
+    "subject": "Zalthir",
+    "fact": "Zalthir was watching the light through the shutters instead of paying attention to the lesson.",
+    "source_quote": "I was watching the light through the shutters instead of the lesson.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Bookwyrm",
+    "fact": "The key was torn off Bookwyrm by A'lai Aivenmore.",
+    "source_quote": "A'lai Aivenmore had the key torn off Bookwyrm...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Bookwyrm's note",
+    "fact": "Bookwyrm left a note mid-sentence: 'He is using the beast to—'",
+    "source_quote": "On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to—*",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer hummed after Thorin killed the pit fiend.",
+    "source_quote": "The fiend was on the floor and Dawnbringer was still humming in my grip",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a radiant sword that requires an apology before combat.",
+    "source_quote": "Dawnbringer came down. Radiant, not fire. He had needed reminding of that, and the sword had required an apology before the fight, and got one.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a radiant sword that requires an apology before use and hums after striking the pit fiend.",
+    "source_quote": "Dawnbringer came down. Radiant, not fire. He had needed reminding of that, and the sword had required an apology before the fight, and got one. ... The fiend was on the floor and Dawnbringer was still humming in my grip",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Dawnbringer",
+    "fact": "Dawnbringer is a radiant weapon that requires an apology before use. It was wielded by Thorin to stun and disable the pit fiend, proving its power beyond mere fire damage.",
+    "source_quote": "Dawnbringer came down. Radiant, not fire. He had needed reminding of that, and the sword had required an apology before the fight, and got one.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Decoy Key",
+    "fact": "A false key passed to the party by Kalan, intended to mislead enemies; it nearly got Daz killed and was revealed as fake from the first hour.",
+    "source_quote": "The key he'd pressed on me with that strange phrasing... had been a decoy from the first hour.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "decoy key",
+    "fact": "The decoy key, provided by Kalan, is not a true key but functions as one to those unable to discern its falsity, and is now in the group's possession alongside the real key.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "decoy key origin",
+    "fact": "The key given to Grygum and passed to Daz was a decoy from the first hour.",
+    "source_quote": "the key he'd pressed on me with that strange phrasing, the one I'd handed to Daz, the one that nearly got Daz killed, had been a decoy from the first hour",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Detect Magic scroll",
+    "fact": "Daral Yashenti uses a scroll to cast Detect Magic on the key.",
+    "source_quote": "Daral produced a scroll from a pocket. Every scholar in this keep apparently carries one, the way a sailor carries a knife. He read it, and the room answered.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Fake Key",
+    "fact": "Grygum retains a fake key, likely a decoy or replica used for training or deception. Its existence suggests prior knowledge of key theft risks within Candlekeep’s security protocols.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "High Tower Keys",
+    "fact": "There are two high tower keys that lock the room containing Candlekeep’s teleportation ward. Janussi’s key was taken by Bookwyrm; Bookwyrm’s key was taken by her killer; Kalan’s key remains unaccounted for.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "javelin type",
+    "fact": "Grygum used a lightning javelin he had been saving.",
+    "source_quote": "his javelin, the lightning one he'd been saving",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Kalan's decoy key",
+    "fact": "Kalan provided a fake key that the group now possesses.",
+    "source_quote": "we've got one real key and one fake key.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "key",
+    "fact": "The key remains dark when Detect Magic is cast, despite glowing effects in the room.",
+    "source_quote": "The key sat in the middle of all that light and stayed dark.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "key",
+    "fact": "The key stayed dark when Detect Magic was cast and the room lit up.",
+    "source_quote": "The key sat in the middle of all that light and stayed dark.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "key count",
+    "fact": "There was one real key and one fake key in possession of the party.",
+    "source_quote": "We've got one real key and one fake key",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "key magical status",
+    "fact": "The key in Grygum's hand was not magical.",
+    "source_quote": "The key sat in the middle of all that light and stayed dark",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "key value",
+    "fact": "The key Tadric carried was of high value, as its loss would have allowed A'lai Aivenmore to complete his plan.",
+    "source_quote": "the key would be in the air",
+    "quote_verified": true,
+    "passes": [
+      "temporal"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "lightning javelin",
+    "fact": "Grygum carried a lightning javelin that he saved for the right moment.",
+    "source_quote": "hurled his javelin, the lightning one he'd been saving.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "note on desk",
+    "fact": "On Bookwyrm's desk was a note in her own hand that stopped mid-sentence: \"He is using the beast to—\"",
+    "source_quote": "On the desk, in her own hand, a note stopped mid-sentence. *He is using the beast to—*",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Real Key",
+    "fact": "The only genuine key, now held by Tadric, unknown to him; it is the target of two attacks and the sole object of a hidden buyer’s interest.",
+    "source_quote": "Tadric has the key... the only real key, not knowing what he held or what was already coming for it.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "real key",
+    "fact": "The real key is held by the group, distinct from the decoy, and is the one the target in the High Tower expects to be delivered by the dead demon.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Thaumaturgy scrap of paper",
+    "fact": "Grygum uses Thaumaturgy on a scrap of paper to test fire magic in Candlekeep.",
+    "source_quote": "Grygum put Thaumaturgy to a scrap of paper: the flame erupted, touched, and evaporated in the same instant.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "the fake key",
+    "fact": "Kalan gave the group a fake key because he couldn't trust them with the real one.",
+    "source_quote": "He couldn't trust us with the real one, given...",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "Tadric held the real key after the pit fiend was killed.",
+    "source_quote": "Tadric sat in the wreckage with the key in his fist",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "Tadric holds the real key after surviving the pit fiend's attack.",
+    "source_quote": "Tadric sat in the wreckage with the key in his fist...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "the key",
+    "fact": "The key remained dark and unresponsive when Detect Magic was cast in the sanctum.",
+    "source_quote": "The key sat in the middle of all that light and stayed dark.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "The Key",
+    "fact": "The key, torn from Bookwyrm, was carried by Tadric unaware of its value. It was the pit fiend’s target and the reason for the attack. Its location is now secure with Tadric.",
+    "source_quote": "Tadric sat in the wreckage with the key in his fist...",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "the lightning javelin",
+    "fact": "Grygum throws a lightning javelin he had been saving at the pit fiend.",
+    "source_quote": "He hurled his javelin, the lightning one he'd been saving.",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Stair Key",
+    "fact": "A physical key given by Kalan to Thorin as a shortcut to the North Gallery; the party doubts its authenticity after previous deception.",
+    "source_quote": "Kalan pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Stair key",
+    "fact": "Kalan Strongbranch gives Thorin a Watcher's Stair key to access the shortcut to the North Galleries.",
+    "source_quote": "He pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Stair key",
+    "fact": "Kalan gave Thorin a key to the Watcher's Stair for a shortcut to the North Galleries.",
+    "source_quote": "He pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "A'lai Aivenmore's Role",
+    "fact": "A'lai Aivenmore was present during the key’s reporting to Bookwyrm — the only person with knowledge of its authenticity — and remains unaccounted for.",
+    "source_quote": "A'lai Aivenmore had been in the room.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "confrontation with A'lai Aivenmore",
+    "fact": "The group intends to confront A'lai Aivenmore in Candlekeep's High Tower to claim both keys.",
+    "source_quote": "So we show up at Candlekeep's High Tower, challenge him, get both keys, and then we own Candlekeep?",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "deception with fake key",
+    "fact": "The group plans to use the fake key to deceive whoever holds the real key.",
+    "source_quote": "Anybody who doesn't know we have a fake key, we can fake them out with it somehow.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "false key",
+    "fact": "The key given to Grygum and passed to Daz was a decoy from the beginning.",
+    "source_quote": "the key he'd pressed on me with that strange phrasing, the one I'd handed to Daz, the one that nearly got Daz killed, had been a decoy from the first hour.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "Grygum's role",
+    "fact": "Grygum feels his job is a beach — where the place is the whole job.",
+    "source_quote": "My job is a beach,\" I said. Nobody needed the reference. The point stood: some men are posted to a place, and the place is the whole job.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's fate",
+    "fact": "It is unknown whether Kalan survived after being left behind, out of breath.",
+    "source_quote": "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's fate",
+    "fact": "Kalan's survival is uncertain after he was left behind, breathless and exhausted.",
+    "source_quote": "When we left him, yeah. But he was breathing really hard because he was running, so who knows how things ended there.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan’s fate",
+    "fact": "Kalan’s whereabouts and condition are unknown after he was last seen running hard with the key. His survival remains an open question, and his connection to Moziqodo and Sylvira Savikas may be pivotal.",
+    "source_quote": "Is Kalan alive?",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's True Motive",
+    "fact": "Kalan claims he gave the decoy key to protect the party, but his actions suggest deeper distrust or hidden allegiance.",
+    "source_quote": "He couldn't trust us with the real one, given... All right. Yeah. It's like, have you seen our weapons?",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "Location of Kalan’s Key",
+    "fact": "Kalan’s key remains unaccounted for. Its whereabouts determine whether the conspiracy has succeeded or if a final defense remains. The adventurers must find Kalan before his key is taken—or before he is killed.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "negotiation for boon",
+    "fact": "The group plans to defer negotiation for a boon until after they have secured both keys.",
+    "source_quote": "You wait until the other side knows exactly what you're worth, and then you stand where you stand and let the ground do the talking.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "Origin of the Firewall Hack",
+    "fact": "The method by which the Abyssal force breached Candlekeep’s magical firewall is unknown. It may involve ancient Abyssal magic, a traitor within the Watchers, or a forgotten ritual tied to the sanctum.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "second key location",
+    "fact": "The second key — the one Moziqodo was meant to deliver — is now held by Tadric, and A'lai Aivenmore will never receive it. The location and security of this key are now central to the next phase of the conflict.",
+    "source_quote": "A'lai Aivenmore... was waiting for Moziqodo to walk in with the second one. He was going to be waiting a long time.",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "the attacker's identity",
+    "fact": "The attacker who killed Bookwyrm is likely Sylvira Savikas’s Abyss-born son.",
+    "source_quote": "Just a maddening attack by Sylvira Savikas's son. I told Bookwyrm that creature would be the death of us.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "the beast",
+    "fact": "The beast referenced in Bookwyrm’s note is Sylvira Savikas’s Abyss-born son.",
+    "source_quote": "Sylvira Savikas has a son. Abyss-born. She is a tiefling; she was in the Abyss; bad things happen there. She keeps him locked in a magical sanctuary.",
+    "quote_verified": true,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "The fee for their services",
+    "fact": "The party never settled a fee for their services, waiting to negotiate after proving their worth.",
+    "source_quote": "We never did settle a fee for any of this. That wasn't sloppiness, or not only sloppiness.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "The Hidden Buyer",
+    "fact": "Two attacks, two keys, one buyer — the identity and motive of the buyer behind the fiend’s actions remain unknown.",
+    "source_quote": "Two attacks, two keys, one buyer.",
+    "quote_verified": true,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "the key deception",
+    "fact": "The party plans to use the fake key to deceive whoever possesses the real key.",
+    "source_quote": "What fun. We've got one real key and one fake key. Anybody who doesn't know we have a fake key, we can fake them out with it somehow.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "the plan to claim Candlekeep",
+    "fact": "The party intends to challenge A'lai Aivenmore at Candlekeep's High Tower to obtain both keys and claim Candlekeep.",
+    "source_quote": "So we show up at Candlekeep's High Tower, challenge him, get both keys, and then we own Candlekeep? That's how this works? ... Yeah. And then we can extract whatever boon we like...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "the silence on leveling up",
+    "fact": "Zalthir levels up after the battle, but no one acknowledges the moment.",
+    "source_quote": "I gave Zalthir grief about leveling up without doing the work, which was a lie, since he'd done half the killing, and he knew I knew it, which is what made it funny. Nobody marked the moment beyond that.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "the true key's location",
+    "fact": "The true key is with Tadric in the North Galleries, and he is unaware of its significance.",
+    "source_quote": "Tadric has the key... the key he'd pressed on me... had been a decoy from the first hour.",
+    "quote_verified": false,
+    "passes": [
+      "large"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "The true value of the key",
+    "fact": "Tadric carried the key without knowing its value, and no one named it for him.",
+    "source_quote": "The kid nearly died carrying a thing nobody named for him.",
+    "quote_verified": true,
+    "passes": [
+      "interiority"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "the unspoken agreement on pricing",
+    "fact": "The party never settled a fee for their services, waiting until the other side knows their worth.",
+    "source_quote": "We never did settle a fee for any of this. That wasn't sloppiness, or not only sloppiness. A price named early is a price named small. You wait until the other side knows exactly what you're worth...",
+    "quote_verified": false,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "thrice-fold proof",
+    "fact": "The thrice-fold proof involves Bookwyrm’s death, the decoy key, and A'lai Aivenmore’s presence.",
+    "source_quote": "You've captured two of the pillars of the thrice-fold proof.",
+    "quote_verified": true,
+    "passes": [
+      "sweep"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
+  },
+  {
+    "type": "thread",
+    "subject": "unpaid fee",
+    "fact": "No fee was ever settled for the group's operations, and this omission is not merely sloppiness — it is a deliberate strategy to defer negotiation until the target fully understands their worth.",
+    "source_quote": "",
+    "quote_verified": false,
+    "passes": [
+      "small"
+    ],
+    "n_samples": 1,
+    "source_chapter": "chapter_62_the_key_is_secured"
   }
 ]

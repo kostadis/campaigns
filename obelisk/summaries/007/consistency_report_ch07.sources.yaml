@@ -1,0 +1,163 @@
+consistency_check:
+  timestamp: "2026-07-31T18:12:29-07:00"
+  campaign: "obelisk (Phandelver / obelisk arc)"
+  document_checked: "summaries/007/session_2026_07_18_chapter_07_deception.md"
+  report: "summaries/007/consistency_report_ch07.md"
+  config: "config.yaml"
+  model: "claude-sonnet-4-6"
+  backend: "claude-code"
+  issues_found: 12
+  session_prep_used: true
+  entity_registry_used: true
+  sources:
+    auto_loaded:                     # from config _DEFAULT_CONFIG_DOCS
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:                         # every --context file, with why it was chosen
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/redbrand_hideout.md, role: "session prep (authoritative) — co-GM working doc for the Redbrand Hideout / Tresendar Manor dungeon" }
+      - { path: notes/vtt_transcription_corrections.md, role: "VTT garble glossary (wrong→right proper nouns) — catches ASR transcription errors" }
+      - { path: notes/vtt_known_additions.md, role: "names confirmed real during /vtt-spell-pass, not yet promoted to registry (Dosa Rook, Wick)" }
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-01"
+    applied:
+      - { finding: 1,  fix: "Zenvon Forepot -> Foreput (2x)" }
+      - { finding: 4,  fix: "Scenes: comrade-kill re-attributed from Rook to Wick" }
+      - { finding: 5,  fix: "Nick -> Cunning Action (Nick grants an attack, not Disengage)" }
+      - { finding: 6,  fix: "Dendars / Dendar family -> Dendrars (3x); confirmed verbatim in VTT L2129" }
+      - { finding: 7,  fix: "Desa Rook -> Dosa Rook (4x)" }
+      - { finding: 8,  fix: "cistern/satchel bullets moved into 'The Pit Trap and the Cellar'; trailing scene renamed 'The Return to the Cells'" }
+      - { finding: 9,  fix: "Glasstaff 'higher power' -> 'takes orders from someone in Phandalin' (2x)" }
+      - { finding: 11, fix: "shortbow 'bolt' -> 'arrow'" }
+      - { finding: "2+3", fix: "Summary chase/rescue pairing was reversed AND the Scenes bullet credited Veyra; resolved from VTT (see vtt_adjudicated)" }
+      - { finding: "NEW-A", fix: "rope -> whip (3x, incl. Items heading); see vtt_adjudicated" }
+    partially_applied:
+      - finding: 10
+        ruling: "keep captives anonymous"
+        fix: "removed the Summary's unearned inference clause ('the very same family the party had already rescued'); left 'Human Boy' and the women UNNAMED"
+        rationale: >
+          The report suggested naming them Nars/Mirna/Nilsa Dendrar from
+          campaign_state.md. VTT shows the captives are never named at the table
+          and the party never connects them to Wick's 'Dendrars' reveal. Naming
+          them in the recap would burn a live hook (Mirna asking about Thel).
+          Module truth != party knowledge.
+    rejected:
+      - finding: 12
+        ruling: "recap is correct; NOTHING is corrected anywhere — 'scarlet' and 'red' legitimately coexist"
+        rationale: >
+          GM ruling 2026-08-01: "the cloaks are red, not scarlet — they are the
+          Redbrands and they wear red cloaks." Corroborating: "scarlet" appears
+          NOWHERE in docs/entity_registry.yaml, so there is no canonical-entity
+          basis for the change.
+
+          CORRECTION (2026-08-01, after a follow-up sweep): an earlier version
+          of this manifest called the grounding docs' "scarlet" a drift to be
+          cleaned up. That was WRONG. "Scarlet cloaks" is the PUBLISHED MODULE'S
+          OWN WORDING — docs/background/obelisk.md:800 "criminals who wear
+          scarlet cloaks", :935 "a creature wearing the scarlet cloak of the
+          Redbrands". campaign_state.md / world_state.md / party.md /
+          planning.md / notes/redbrand_hideout.md inherited it from the source
+          material, they did not drift into it.
+
+          Correct framing: MODULE vocabulary ("scarlet") and TABLE vocabulary
+          ("red") are both valid and describe the same garment. The recap should
+          use what the table says. The reference layer should keep what the
+          module says. GM ruling: leave every occurrence untouched and teach the
+          consistency-check skill not to raise it again.
+
+          A blanket replace would also have corrupted three unrelated uses:
+          world_state.md:92 "Scarlet drapes" (Iarno's room decor),
+          name_glossary.md:44 Oshundo's "scarlet robe" (a mind flayer), and the
+          faction names "the Scarlet Fist" / "the Scarlet Company".
+
+  vtt_adjudicated: |
+    Three items could not be settled from grounding docs and were resolved
+    against the transcript
+    (summaries/007/GMT20260718-212700_Recording.transcript.retranscribed.cleaned.vtt).
+    This VTT was NOT a --context input to the check; it was consulted by hand
+    during GM review.
+
+    - Findings 2+3 (who chased / who freed the women) — L1205-1215. The GM
+      misspoke "Veyra", was corrected by the player, and said "Oh, I pulled a
+      different character. You're right. I MEANT SISTER MAELA." The recap
+      generator transcribed the UNCORRECTED slip into the Scenes section.
+      Truth: Pip chased alone; Zenvon picked the boy's lock; Sister Maela
+      unlocked the women's cell; Veyra was casting firebolt. Player confirms:
+      "me and Maela have freed both the..."
+
+    - NEW-A (rope vs whip) — the check could not catch this: neither item
+      appears in any grounding doc. GM offered rope, the player corrected him:
+      "I HAVE A WHIP okay so I'm gonna use the whip as a rope." The recap had
+      invented a 'Rope' item entry. This is an equipment fact, not phrasing —
+      it would have propagated into inventory and future descent rulings.
+
+    - Finding 10 (captive names) — captives appear only as "a pair of human
+      women" / "a human boy" (L757). "Dendrars" is spoken exactly once (L2129,
+      Wick's interrogation) with no on-tape link to the freed captives.
+
+  carry_forward:
+    - status: DONE
+      item: >
+        'Desa Rook' -> 'Dosa Rook' in the grounding docs. Fixed 2026-08-01, all
+        5 occurrences: world_state.md:63,210; campaign_state.md:17,51;
+        planning.md:95. Confirmed against the tape — the retranscribed VTT has
+        the GM saying "the bandit, whose name is Dosa Rook" (L1737). NOTE: the
+        raw VTT garbles it to "Dessa" and the glossary maps Dessa->Dosa, so
+        "Desa" appears in NO transcript at all — the summarizer invented a third
+        spelling between the garble and the truth, and it propagated unchallenged.
+    - status: OPEN
+      item: >
+        NEITHER 'Dosa Rook' NOR 'Wick' IS IN docs/entity_registry.yaml AT ALL —
+        verified 2026-08-01: grep -ciE "rook|dosa|desa|dessa" returns 0 across
+        all 374 entities, and the only "wick" hits are substrings of Tumblewick
+        Rollins / Pip Thistlewick. Both are still staged in
+        notes/vtt_known_additions.md as unpromoted. This absence is WHY the bad
+        spelling survived: the registry had no entry to contradict it. Promote
+        both via /entity-triage, or `python -m entity_registry.registry add`
+        from the CampaignGenerator repo root (invoking registry.py directly
+        fails on a relative import). The registry MCP (entity_registry/
+        registry_mcp.py) exists but is NOT in this campaign's .mcp.json, which
+        registers only `campaign` and `5etools`.
+    - status: WONTFIX
+      item: >
+        'scarlet cloaks' across the docs — see resolution.rejected finding 12.
+        This is inherited module vocabulary, NOT drift. Deliberately left
+        untouched everywhere. Handled by teaching the consistency-check skill
+        to recognise module-vs-table vocabulary instead of correcting the docs.
+    - status: OPEN
+      item: >
+        Zenvon carries a whip, not rope (established from the VTT this run).
+        Worth reflecting in the character sheet / party doc if inventory is tracked.
+
+  notes: |
+    Context set = "Focused (recommended)" per explicit GM selection.
+
+    This campaign keeps notes/ FLAT — there is no notes/session_prep/ or
+    notes/sessions/ tree. The session prep for this dungeon is
+    notes/redbrand_hideout.md ("The House That Glasstaff Built"), explicitly
+    marked "Co-GM working doc. Not canon yet."
+
+    Config resolution: check_consistency.py's find_default_config() only looks at
+    CWD/config.yaml, then falls back to the CampaignGenerator repo's own
+    config/config.yaml. The workspace has BOTH config.yaml (root) and
+    config/config.yaml with identical relative paths — running from the workspace
+    root (/home/kroussos/obelisk/obelisk) is required so base_dir resolves docs/*
+    correctly. Verified: "Context : 7 document(s)", no context-file-not-found
+    warnings.
+
+    Two script quirks observed, neither affecting the report body:
+      - The "No issues found." banner is a false negative. The counter matches
+        the literal "**Location**", but the model emitted "**Location:**"
+        (colon inside the bold), so issue_count came back 0 while the body
+        listed 12 issues. Trust the body.
+      - claude -p hit its output ceiling and AUTO-CONTINUED across 2 assistant
+        turns. The saved report was inspected for a continuation seam: 12
+        well-formed, correctly numbered sections, clean tail — no damage.
+
+    Notable finding class: findings 1, 6, 7 are exactly the transcription-error
+    class that only prep/glossary context can catch (Forepot→Foreput,
+    Dendars→Dendrars, Desa Rook→Dosa Rook). Finding 7 also implicates the
+    GROUNDING DOCS themselves — campaign_state.md and world_state.md carry the
+    same "Desa Rook" garble and need the same correction.

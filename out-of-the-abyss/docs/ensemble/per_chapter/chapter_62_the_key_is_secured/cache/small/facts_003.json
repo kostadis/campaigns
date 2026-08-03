@@ -1,0 +1,163 @@
+[
+  {
+    "type": "npc",
+    "subject": "Tadric",
+    "fact": "Tadric is a young, loyal Watcher who guards Janussi's door and now holds the only real key, unaware of what he carries or what is coming for him.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Kalan",
+    "fact": "Kalan is a weary, overcautious figure who issued a decoy key to the party, believing it would make them safer, and now denies knowing the key was fake despite evidence.",
+    "source_quote": "Kalan had posted the genuine article on a boy in the North Galleries, and the key he'd pressed on me with that strange phrasing... had been a decoy from the first hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "Grygum",
+    "fact": "Grygum is the speaker who recognized the pattern of deception, questioned Kalan\u2019s motives, and pushed the party to confront the truth about the keys.",
+    "source_quote": "Aye, aye,\" I said, because when a frightened man hands you a badge, you take the badge.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Thorin",
+    "fact": "Thorin is the investigator who assembled the case from fragments, identified the deception, and confirmed the existence of a single buyer behind two attacks.",
+    "source_quote": "Thorin assembled the case out loud, fast, and it held together.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Daz",
+    "fact": "Daz is a sharp, dry-witted party member who nearly died from the decoy key and now observes the group\u2019s dynamics with detached clarity.",
+    "source_quote": "A little out of breath,\" Daz observed, dry as gravel.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Fembris",
+    "fact": "Fembris is the boy who reported the key to Bookwyrm and later admitted A'lai Aivenmore was present in the room during the report.",
+    "source_quote": "Fembris... admitted that when he reported the key to Bookwyrm, A'lai Aivenmore had been in the room.",
+    "quote_verified": false
+  },
+  {
+    "type": "npc",
+    "subject": "A'lai Aivenmore",
+    "fact": "A'lai Aivenmore is a hidden figure present during the key\u2019s reporting to Bookwyrm, the only person with knowledge of the key\u2019s true nature.",
+    "source_quote": "A'lai Aivenmore had been in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "npc",
+    "subject": "Bookwyrm",
+    "fact": "Bookwyrm is a deceased figure whose knowledge of the key was exploited, making their death a pivotal moment in the unfolding deception.",
+    "source_quote": "Bookwyrm dead and the second key at risk.",
+    "quote_verified": true
+  },
+  {
+    "type": "monster",
+    "subject": "Abyssal Fiend",
+    "fact": "An immense, patient abyssal creature that attacked Tadric in the domed rotunda, tearing him apart with claws as if it had all the time in the world.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart the way you'd tear bread.",
+    "quote_verified": true
+  },
+  {
+    "type": "object",
+    "subject": "Watcher's Stair Key",
+    "fact": "A physical key given by Kalan to Thorin as a shortcut to the North Gallery; the party doubts its authenticity after previous deception.",
+    "source_quote": "Kalan pushed a key into my hand. A Watcher's Stair key, for the barred door that cuts straight through to the North Gallery.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Decoy Key",
+    "fact": "A false key passed to the party by Kalan, intended to mislead enemies; it nearly got Daz killed and was revealed as fake from the first hour.",
+    "source_quote": "The key he'd pressed on me with that strange phrasing... had been a decoy from the first hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "object",
+    "subject": "Real Key",
+    "fact": "The only genuine key, now held by Tadric, unknown to him; it is the target of two attacks and the sole object of a hidden buyer\u2019s interest.",
+    "source_quote": "Tadric has the key... the only real key, not knowing what he held or what was already coming for it.",
+    "quote_verified": false
+  },
+  {
+    "type": "location",
+    "subject": "North Gallery",
+    "fact": "A corridor leading from the Watcher's Stair, where Tadric was posted and where the final confrontation with the fiend occurs.",
+    "source_quote": "The Echoing Hall, then the North Galleries. I posted him away from the barracks on purpose.",
+    "quote_verified": true
+  },
+  {
+    "type": "location",
+    "subject": "Domed Rotunda",
+    "fact": "A circular chamber with perfect acoustics, where the fiend attacked Tadric and the party arrived too late to prevent the assault.",
+    "source_quote": "The stair put us out at the top of a dome. A real rotunda: curved stone overhead...",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "First Key Deception",
+    "fact": "Kalan issued a decoy key to the party, believing it would protect them, but it resulted in Daz nearly dying and confirmed a pattern of betrayal.",
+    "source_quote": "The key he'd pressed on me with that strange phrasing, the one I'd handed to Daz, the one that nearly got Daz killed, had been a decoy from the first hour.",
+    "quote_verified": false
+  },
+  {
+    "type": "event",
+    "subject": "Bookwyrm's Death",
+    "fact": "The death of Bookwyrm created a knowledge vacuum exploited by A'lai Aivenmore, enabling the second key\u2019s concealment and the fiend\u2019s advance.",
+    "source_quote": "Bookwyrm dead and the second key at risk.",
+    "quote_verified": true
+  },
+  {
+    "type": "event",
+    "subject": "Tadric's Attack",
+    "fact": "The abyssal fiend overtook the party and attacked Tadric in the rotunda, revealing the true stakes of the key\u2019s possession.",
+    "source_quote": "The creature had beaten us here. It was on Tadric, had him grappled to the floor, and it was tearing him apart...",
+    "quote_verified": false
+  },
+  {
+    "type": "thread",
+    "subject": "A'lai Aivenmore's Role",
+    "fact": "A'lai Aivenmore was present during the key\u2019s reporting to Bookwyrm \u2014 the only person with knowledge of its authenticity \u2014 and remains unaccounted for.",
+    "source_quote": "A'lai Aivenmore had been in the room.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "The Hidden Buyer",
+    "fact": "Two attacks, two keys, one buyer \u2014 the identity and motive of the buyer behind the fiend\u2019s actions remain unknown.",
+    "source_quote": "Two attacks, two keys, one buyer.",
+    "quote_verified": true
+  },
+  {
+    "type": "thread",
+    "subject": "Kalan's True Motive",
+    "fact": "Kalan claims he gave the decoy key to protect the party, but his actions suggest deeper distrust or hidden allegiance.",
+    "source_quote": "He couldn't trust us with the real one, given... All right. Yeah. It's like, have you seen our weapons?",
+    "quote_verified": false
+  },
+  {
+    "type": "date",
+    "subject": "elapsed time since Bookwyrm's death",
+    "fact": "The events unfolded after Bookwyrm\u2019s death, with the fiend\u2019s attack occurring before the party could respond, indicating a tight temporal window.",
+    "source_quote": "Bookwyrm dead and the second key at risk.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "Watcher Corps",
+    "fact": "The organization responsible for guarding key locations, including Janussi\u2019s door and the North Galleries, now compromised by internal deception.",
+    "source_quote": "Tadric. The young Watcher who had guarded Janussi's door.",
+    "quote_verified": true
+  },
+  {
+    "type": "faction",
+    "subject": "The Shadow Network",
+    "fact": "An unnamed faction or individual orchestrating the attacks and deception around the keys, likely linked to A'lai Aivenmore and the hidden buyer.",
+    "source_quote": "Two attacks, two keys, one buyer.",
+    "quote_verified": true
+  }
+]
