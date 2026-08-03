@@ -10,9 +10,9 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 
 | Wrong | Right |
 |---|---|
-| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin | **Vukradin** |
+| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin | **Vukradin** |
 | Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk | **Soma** |
-| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Or Valfinier, Valthina, Valvina | **Valphine** |
+| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Or Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia | **Valphine** |
 | Brewberry, Frewbury, Blueberry, Brewery, Barry, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 | An Asimer, Asimar | **Aasimar** |
@@ -23,19 +23,17 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 |---|---|
 | Adabra Gwynn, Dabra, Dobra, Abra, Vadabra, Madabra, Adabro, Adara, Aldabra, Adhabra, Adobra | **Adabra** |
 | Alphonse | **Alfonse** |
-| Brin, Brynn Bundlein | **Brin Bundlewine** |
+| Brynn Bundlein | **Brin Bundlewine** |
 | Dabblebob | **Dabbledob** |
-| Meliame | **Meliamne** |
+| Meliame, Miliami, Milliamne | **Meliamne** |
 | Fiddlestib | **Fibblestib** |
-| Giles | **Giles Slipper-Shine** |
 | Harbin Townmaster, Town Master Harbin Wester, Harib and Wester, Harib Wester, Weston (when referring to Harbin), Carbon Wester | **Harbin Wester** |
-| Horia, But Horia, Horio | **Horia Stonetallow** |
+| But Horia, Horio | **Horia Stonetallow** |
 | Jena Roscoe, Jenna Roscoe, Alliance Representative Jen Orozco, Jen Orozco | **Jenna** |
 | Lady Alagondar's Ghost | **Lady Alagondar** |
 | meryl, Merrill, Mariel | **Meril** |
 | Ser Kaelen Thorn, Ser Kaelen Thorne, Sir Kaelen, Sir Kaelin, Sir Kalen, Sir Karen, Sir Caron, Sir Karan, Sir Caelin, Sir Caitlin, Sir Caleb, Sir Kaylin, Sir Kalin | **Ser Kaelen** |
 | Sister Kayla, Sister Kella, Sister Keela, Sir Kayla | **Sister Kaella** |
-| Chief Accountant | **The Chief Accountant** |
 | Tribar Wester, Tiber Wester, Tybore | **Tibor Wester** |
 | Toblen Stonehill Spiderman | **Toblen Stonehill** |
 | Toblin | **Toblen** |
@@ -43,7 +41,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | So Bob, So Bob Saget | **Bob Saget** |
 | Lira, Lara, Lera, Myra | **Lyra** |
 | Bonies, Bony, Stable Boney, Bodie, Barney, Bony Euro, Bean, And Bonies | **Boney** |
-| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders, Lathender, Lithandr | **Lathander** |
+| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders, Lathender, Lithandr, Thander | **Lathander** |
 | Telosian, Telosians, Telusian, Telusians, Tolusians, Tallosians, Toloshian, Tolosians, Talos season | **Talosian** |
 | Torb | **Torbin** |
 | Corbyn, Corben, Corbett | **Corbin** |
@@ -82,7 +80,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Norbas, Dorbus | **Norbus** |
 | Abathor | **Abbathor** |
 | Oker, Ocher, Okre | **Ochre** |
-| Mord Lord, Morninglord | **Morning Lord** |
+| Mord Lord, Morning Lord | **Morninglord** |
 | Orsic, Orsick, Orcic, Orcig | **Orsik** |
 | Cassadorium | **Kazneporium** |
 | Masko, Moesco, Molesko, Mosco, Mosko, Mirsko, Muesco | **Moesko** |
@@ -93,6 +91,19 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Darwin,Dwall,Dwallinn,Dwelin | **Dwolin** |
 | Ragath,Raigeth,Rigoth,Rydoth,Ryga | **Reidoth** |
 | Zelene | **Zeleen** |
+| Ellara,Alara,Olara,Ilara | **Elara** |
+| Cassia,Cassin | **Cassian** |
+| Colin Sharp,Colin Summer,Cullen Sharp | **Cullen Sharpe** |
+| Helen | **Cullen** |
+| Daggart,Dago,Dagot,Daguten,Dangolt | **Dagult** |
+| Laurel Silverhand | **Laeral Silverhand** |
+| Terne | **Taern** |
+| Aldousia | **Alducia** |
+| Aldous | **Aldus** |
+| Morning Ford | **Morninglord** |
+| Gnercli | **Gnerkli** |
+| Vukardin | **Vukradin** |
+| Rsalk | **Rsolk** |
 
 ## Items / artifacts
 | Pushions | **Potions** |
@@ -124,18 +135,20 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Lothian | **Lolthian** |
 | Overbriders | **Overbrighters** |
 | Overbrite | **Overbright** |
-| Zhintarin,Zintarim | **Zhentarim** |
+| Zhintarin, Zintarim, Zhintarim, Zendarim | **Zhentarim** |
+| Magaster, Marcaster, Mergaster, Maragaster | **Margaster** |
+| Housemarghaster, Hasma Gaster, Hausmergaster, Haasmark, Haasmarkaster | **House Margaster** |
 
 | Wrong | Right |
 |---|---|
 
 ## Locations
-| Fandelin, Handelin, Phandalone, Fendel, Fandalin, Fanderlin, Pendleton, Finland, Vandalin, Pandolin, Mandolin, Feneden, Fenden, Fendalin, Pantilen, Bandolin, Candelin, Endelin, Phanalyn, Fambalyn, Fandel, Fenderland | **Phandalin** |
+| Fandelin, Handelin, Phandalone, Fendel, Fandalin, Fanderlin, Pendleton, Finland, Vandalin, Pandolin, Mandolin, Feneden, Fenden, Fendalin, Pantilen, Bandolin, Candelin, Endelin, Phanalyn, Fambalyn, Fandel, Fenderland, Fandelwood | **Phandalin** |
 | Mountain Toes Gold Mine, Mountain Toe, Mountain Toes Gold Mind | **Mountain's Toe Gold Mine** |
 | Silvery Moon | **Silverymoon** |
 | Woodland Mance, Woodland Mence, Woodland Mass, Woodland Mans, Woodland Mounds | **Woodland Manse** |
 | Shrine of Serva,Shrine of Servos | **Shrine of Savras** |
-| Lenzo Baranzin, Metzler-Bronzon | **Menzoberranzan** |
+| Lenzo Baranzin, Metzler-Bronzon, Menzo Baronzen, Menzo Baranzin | **Menzoberranzan** |
 | Neverwinting, Denver Winter | **Neverwinter** |
 | Mance, Mintz | **Manse** |
 | Icepire | **Icespire** |
@@ -147,17 +160,22 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Shaun | **Shrine** |
 | Falcon's Lunge | **Falcon's Lodge** |
 | Icepire Hold, Ice Per Hold, Icefire Hold | **Icespire Hold** |
-| Nevermember, Lord Nevember, Castle Nevermember | **Neverember / Lord Neverember** |
+| Nevermember, Lord Nevember, Nevermber | **Neverember** |
 | Ice Spires Peak | **Icespire Peak** |
-| Axhome, Axel Home, Axel Holm | **Axeholm** |
+| Axhome, Axel Home, Axel Holm, Axelholm | **Axeholm** |
 | Stone Hill Inn | **Stonehill Inn** |
 | Tone Hill | **Stonehill** |
 | Town Masters Hall | **Townmaster's Hall** |
 | Gnomon Garde, Groam garden | **Gnomengarde** |
-| Leinschnitz Kolster | **Lionshield Coster** |
+| Leinschnitz Kolster, Einshield coaster, The Lion Shield Coaster, Lion Shield Coaster | **Lionshield Coster** |
 | Sword Ghost | **Sword Coast** |
 | Umbridge Hill | **Umbrage Hill** |
 | Whisper Woods, Whispering Moods, Whispering Wiz, Whispering Wood, Whispering Woods, Whisperwood, Whisperwoods, Whisper Road | **Whispering Grove** |
+| Common Cord,Common Court | **Common Chord** |
+| Moonstone Mass,Moon Mask | **Moonstone Mask** |
+| Pirate Skybolt | **Pirates' Skyhold** |
+| Parnest | **Parnast** |
+| Coneyberry | **Conyberry** |
 
 | Wrong | Right |
 |---|---|

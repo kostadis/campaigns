@@ -26,3 +26,20 @@ docs/ensemble/*.log
 
 # Archived/retired session intermediates
 summaries/old/
+
+# Raw session recordings. Zoom drops these into summaries/YYYYMMDD/ next to the
+# transcripts, and they are large (a single .m4a runs ~50MB) with no diffable
+# content — a stray `git add -A` would commit them irreversibly. The transcripts
+# ARE the version-controlled record; the audio is a local input to the
+# audio-to-vtt / retranscription step. Campaign-scoped rather than root-scoped,
+# matching the per-campaign policy note in the root .gitignore.
+*.m4a
+*.mp4
+*.mov
+*.wav
+
+# Pre-edit safety copies (registry-cleanup, chapter renumbering, config bumps).
+# Canonical content lives in the tracked file; the .bak is scratch for one run.
+*.bak
+*.bak-*
+*.pre*.bak
