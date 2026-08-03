@@ -37,7 +37,7 @@ source: gmassist
 **Vukradin** — *establishing his position in the room*
 > "I'm way back here. I haven't seen it yet, Valphine."
 
-**GM** — *as Gary/Valphine decides*
+**Valphine* — *
 > "I guess I'll do my sleight of hand then. Yes. All right."
 > "You have to beat a five."
 
@@ -52,7 +52,7 @@ source: gmassist
 - GM narrates Valphine's cover story aloud as Valphine: "Hey, there's a body in here. Did you see this?"
 - Vukradin takes the bait immediately.
 
-**GM** — *as Valphine, announcing the body to redirect Vukradin*
+**Valphine**, announcing the body to redirect Vukradin*
 > "Hey, there's a body in here. Did you see this?"
 
 **Vukradin** — *taking the bait, heading out*

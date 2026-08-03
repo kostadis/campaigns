@@ -105,7 +105,7 @@ roster:
   characters: Brewbarry, Soma, Valphine, Vukradin
   gm_player: Kostadis
 backends:
-  active: dgx
+  active: claude-code
   anthropic:
     backend: anthropic
     model: null

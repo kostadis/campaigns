@@ -14,7 +14,7 @@ source: gmassist
 - Soma attempts to quietly underreport: *"We found 10. We found 10."*
 - Valphine states plainly she would have robbed the grave. Vukradin: *"I'm not gonna be a part of that."*
 - Norbus and Dazlyn rush in, visibly excited. Norbus: *"Oh, is that where you found the treasure?"* Vukradin cautions them the items might be cursed. Valphine pointedly sharpens her dagger while the negotiation proceeds.
-- The DM notes the dwarves are visibly nervous — weapons, a drow cleric nobody fully trusts, and an Uthgard barbarian make the room feel very small. Norbus: *"Is, is, is everybody okay with this?"* and later: *"So we could go and take these gems, and it would be okay with you?"*
+- The dwarves are visibly nervous — weapons, a drow cleric nobody fully trusts, and an Uthgard barbarian make the room feel very small. Norbus: *"Is, is, is everybody okay with this?"* and later: *"So we could go and take these gems, and it would be okay with you?"*
 - Dazlyn suggests the museum only needs half. Vukradin: *"What's gonna happen with the other half?"* Dazlyn: *"It's really, they're not of any archaeological interest."*
 - Final split: eight gems to the dwarves, seven to the party. Nobody is fully satisfied.
 
@@ -60,7 +60,7 @@ source: gmassist
 **[Vukradin]** — *immediately, out loud, to everyone*
 > "Oh, oh, oh. We'll have to tell the dwarves that we found some treasure."
 
-**[GM]** — *incredulous*
+**[Soma]** — *incredulous*
 > "No we don't."
 
 **[Vukradin]** — *confirming, aloud*
@@ -127,21 +127,8 @@ source: gmassist
 **[Soma]**
 > "No, we heard you. We know what you, we know what you're gonna do."
 
----
 
-**[OOC — the table reacts to Vukradin]**
 
-**[GM]** — *meta, to the table*
-> "the part, the part is that you might be, we might need a new character."
-
-**[Vukradin]** — *Dave, OOC*
-> "Might ask the Vukradin to go sing himself off a cliff at some point. Is that, is that gonna happen?"
-
-**[Soma]** — *Wade, OOC*
-> "The Vukradin is always the most annoying character, right, Nick?"
-
-**[Vukradin]** — *Dave, OOC*
-> "Yeah. The annoying Vukradin, exactly."
 
 ---
 
@@ -175,33 +162,33 @@ source: gmassist
 > "Norbus turns to Dazlyn, like they're, they're, they're whispering to each other."
 > "they, they notice that the rest of you have weapons, so one of them goes, 'Uh, is, is, is, is everybody okay with this? I mean, we, we don't wanna...'"
 
-**[GM]** — *as Norbus, nervously addressing the party*
+**[Norbus]** — *nervously addressing the party*
 > "Uh, i- is he serious?"
 
 **[Soma]** — *unhelpfully*
 > "Don't really know him"
 
-**[GM]** — *as Norbus, looking at the drow and the barbarian*
+**[Norbus]** — *looking at the drow and the barbarian*
 > "So, so we could go and take this?"
 > "So we could go and take these gems, and it would be okay with you?"
 
-**[GM]** — *narrating Valphine's response*
+**[Valphine]** —
 > "I'll just pull out my dagger and sharpen it a little bit"
 
-**[GM]** — *noting the ethnic fear subtext*
+**[GM]** — *noting Norbus' the ethnic fear subtext*
 > "Like, he's looking at the drow, you know, there's a little bit of paranoia about the drow, and the barbarian who's got, you know, Uthgard. So there's a little bit of, like, fear here."
 
 ---
 
 **[Dazlyn's Museum Compromise]**
 
-**[GM]** — *as Dazlyn, after thumping Norbus*
+**[Dazlyn]** — * after thumping Norbus*
 > "Hey, you know, I think the museum only needs half of it. Would that be okay?"
 
 **[Vukradin]**
 > "What's gonna happen with the other half?"
 
-**[GM]** — *as Dazlyn*
+**[Dazlyn]** — *as Dazlyn*
 > "I, it's really, they're not of any a- a- archaeological interest. Would that be okay with, with everybody?"
 
 **[Soma]** — *dryly, to Vukradin*
@@ -219,7 +206,7 @@ source: gmassist
 **[Vukradin]** — *registering the obvious*
 > "Guys, I'm, I'm getting the impression that, that they're not going to take these to a museum. I think they might just plan on keeping them for themselves."
 
-**[GM]** — *in-character as a drow rationalisation*
+**[Valphine]** — *in-character as a drow rationalisation*
 > "I, I think this is the normal... Splitting things is just the normal way of these, like, surface dwellers. I mean, this is strange, but fine. Overbrighters."
 
 **[Vukradin]**

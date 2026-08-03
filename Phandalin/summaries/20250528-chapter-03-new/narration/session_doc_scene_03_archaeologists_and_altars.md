@@ -8,76 +8,72 @@ session: 20250528-chapter-03-new
 
 ### Valphine
 
-The ochre jellies had stopped moving, their translucent bodies collapsed into inert pools on the stone floor. The smell was unpleasant — acidic, with an undertone of something that had been digesting too long.
+The ochre jellies were dead. I had watched them collapse into quivering, useless piles—no more threat than spilled custard. The smell of them, acrid and faintly metallic, lingered in the air like a bad memory.
 
-I heard Norbus before I saw him.
+Norbus's face appeared at the doorway, pale and hesitant. He peered in as though expecting the jellies to rise again and demand his lunch money.
 
-"A- are they dead? Is it safe to go in there?"
+"Ah, you, you dealt with the oozes. Or jellies? Was it jellies or, or whatever the… A- are they dead? Is it safe to go in there?"
 
-His voice came from the doorway, thin and reedy. A prospector who peered around corners while others did his killing. I did not turn to look at him.
+Vukradin's response was flat, almost bored. "It's absolutely dead. Stick your head in and find out."
 
-Vukradin answered flatly: "It's absolutely dead. Stick your head in and find out."
+I watched Norbus's expression cycle through several emotions—relief, embarrassment, something that might have been gratitude—and settled on none of them. The dwarf had approximately four hit points. I could see it in the way he moved: the tentative steps, the hands that never strayed far from his chest, the constant deferral to Dazlyn at his side. He was a man who had decided, long ago, that survival meant letting others fight and claiming the aftermath.
 
-I appreciated the edge in his voice. It meant he had noticed what I had noticed.
+Vukradin confronted him about it, of course. My companion's moral compass never rested.
 
-*Four hit points.* The dwarves had told us as much, protesting their helplessness before the fight, and now I could see the truth of it in the way Norbus hovered at the threshold, unwilling to cross into a room that had stopped being dangerous. Dazlyn was somewhere behind him, equally useless.
+"We are, I just, you know, we could've used some help, and you just sort of just—"
 
-Vukradin confronted them about it — the sitting out, the watching, the convenient cowardice that left us to do the bleeding while they cowered behind overturned furniture.
+Norbus deflected with the practiced ease of someone who had done it a thousand times. "Uh, w- we're, we're prospectors… were there when you're doing our— We, we, we're, they're, they're four hit point. They're useless."
 
-"Uh, w- we're, we're prospectors…" Norbus deflected. "They're four hit point. They're useless."
+_Four hit points._ I filed the information away. Not worth considering as allies. Not worth considering as threats. They existed in that interesting middle space where incompetence met opportunity—the kind of people who would sell information for safety and call it friendship.
 
-"It's a good thing I'm such a moral individual," Vukradin said, and the dryness in his voice was almost a blade. "You take those sending stones now."
+"It's a good thing I'm such a moral individual," Vukradin said dryly. "You take those sending stones now."
 
-Norbus did not take the sending stones. He had one more card to play.
+But Norbus held back. Of course he did. "Um, there might be other ones in the back there, so could you just finish clearing everything out?"
 
-"There might be other ones in the back there," he said. "Could you just finish clearing everything out?"
+Soma pushed back—she had learned something about negotiation from watching me, I think. "Give us one sending stone now and we'll talk."
 
-Soma pushed back immediately — "Give us one sending stone now and we'll talk" — and I watched the negotiation unfold without participating. The dwarves were haggling with depleted adventurers over payment they had already promised. It would have been amusing if it weren't so tedious.
+I barely listened to the rest of the haggling. My eyes were already moving across the chamber, across the blood-stained altar, across the walls where the stonework shifted subtly in the torchlight. The temple's architecture was crude—surface construction, utilitarian—but whoever had built it had included secrets.
 
-I let my attention wander to the altar. Blood-stained. Old stains, layered, the kind that had soaked into stone over years rather than hours. The Talosians had been active here, and their god rewarded sacrifice with storms.
+_Fifteen._ My passive perception caught them the way my fingers caught a thread pulled loose from a weave. A series of doorways, hidden behind stone panels that sat just slightly wrong, their edges catching the light at angles that natural erosion would never produce.
 
-The stonework near the altar caught my eye. A hairline seam where no seam should be.
+I said nothing. Not yet. The dwarves did not need to know what I had found. The Anchorites of Talos, had they still lived, would have known these passages intimately—they had built this temple, after all, and every temple deserves its hidden paths. But the dwarves? They were prospectors. They saw ore and stone and the promise of payment. They did not see the geometry of sanctuary and escape.
 
-*Interesting.*
-
-I filed it away. The negotiation was still grinding on — Norbus offering a hot meal and stories, Vukradin accepting with a condition: "I'll agree if there are no stories."
+The negotiation concluded. Norbus offered a hot meal and stories in exchange for the night's work. Vukradin accepted on one condition: "Free food. All right. Long rest. Uh, I'll agree if there are no stories."
 
 Soma laughed. "Well, aren't you the one who's supposed to be telling stories?"
 
-And then Dazlyn, who had been silent until now, punched Norbus in the arm and said: "Norbus, we have a Vukradin, and we're going to tell stories. The Vukradin will tell us stories."
+Dazlyn punched Norbus in the arm—hard enough that I heard the thud from across the room. "Norbus, we have a Vukradin, and we're going to tell stories. The Vukradin will tell us stories."
 
-Soma needled him further. "Tell stories of your amazing double da- or, you know, double stabbing action, right? Stabby, stabby. Your guide lays dead on the floor, and, you know, you're up there stabbing jellies."
+_Interesting._ Dazlyn had assessed Vukradin faster than his companion had. He recognized the type: someone who wanted to perform but needed permission to admit it.
 
-*Stabby, stabby.* I did not laugh, but I filed the phrase away. Soma had a mother's touch with the teasing — affectionate, disarming, the kind of ribbing that made Vukradin preen rather than bristle.
+"Exactly," Soma said. "Nice. Tell stories of your amazing double da- or, you know, double stabbing action, right? That was, that was pretty cool. All right."
 
-The deal was struck. Long rest. Hot meal. Stories.
+She was needling him. I could hear it in her voice—the fondness beneath the mockery.
 
-I did not care about the stories. I cared about the doors I had found.
+"Stabby, stabby. Your guide lays dead on the floor, and, you know, you're up there stabbing jellies."
 
-During the rest, while the dwarves cooked and Vukradin sang and everyone settled into the warm illusion of safety, I examined the temple's deeper structure. The first secret door was near the altar, its mechanism cleverly concealed behind what appeared to be solid stone. The second was farther in, along a corridor that led toward the back of the complex — the direction Norbus had pointed when he mentioned "other ones."
+I let the conversation wash over me. My mind was on the secret doors, on what lay behind them, on whether the Anchorites had left anything worth finding before they died. The dwarves would be useless for the search. The party would follow Vukradin's lead. I would wait, and when the moment came, I would open those doors and see what the temple's architects had chosen to hide.
 
-The Anchorites of Talos had built this place. They had hidden things. And now, thanks to my eyes and the Morning Lord's light, those hidden things were no longer hidden.
+The long rest passed. Songs were sung. Stories were told—mostly by Vukradin, exactly as Dazlyn had predicted. I sat apart, watching, learning, noting which walls shifted when pressure was applied and which held still.
 
-I did not tell the dwarves what I had found. They were useful only as cooks and informants, and they had already given me everything I needed.
+In the morning, Norbus turned to us nervously, eyeing the weapons we carried as though we might decide to collect payment in blood.
 
-The next morning, Norbus turned to us, nervous, and said: "I understand that the, the, the, the, the, the… What was, what was your name again?"
+"Uh, is, is, is, is everybody okay with this? I mean, we, we don't wanna… I mean, I understand that the, the, the, the, the, the… What was, what was your name again?"
 
 "Vukradin."
 
 "Vukradin, yeah."
 
-"You don't know my name?"
+My companion's face went still. "You don't know my name?"
 
-"I can't remember it."
+"I can't remember it. Uh, Vukradin? I spent all night—"
 
-Vukradin's voice went flat: "I spent all night singing songs, and I told you stories, and you don't remember my name?"
+"Singing songs, and I told you stories, and you don't remember my name?"
 
 "Vukradin, uh, yeah."
 
-"You're just like those patrons in the bar."
+Vukradin's voice went flat and bitter. "You're just like those patrons in the bar."
 
-I watched the exchange and felt something close to satisfaction. The dwarves were not our allies. They were our employers, and poor ones at that — cowards who paid in hot meals and forgot the names of the people who cleared their death traps. Their kind was everywhere in the Overbright, and their kind would never change.
+I almost smiled. The dwarves had their uses, then—even if only as specimens of the Overbright's relentless, cheerful incompetence. I filed the exchange away alongside the secret doors, the four hit points, the way Dazlyn had corrected his companion without hesitation.
 
-But the secret doors were still there. And beyond them, whatever the Anchorites had hidden.
-
-*That* was worth knowing.
+The temple had more to show us. And I would be the one to find it.
