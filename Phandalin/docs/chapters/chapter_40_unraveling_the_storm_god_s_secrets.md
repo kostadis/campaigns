@@ -1,8 +1,8 @@
 ---
-chapter: 41
+chapter: 40
 title: Unraveling the Storm God's Secrets
 ---
-# Chapter 41 — Unraveling the Storm God's Secrets
+# Chapter 40 — Unraveling the Storm God's Secrets
 
 ## Vukradin — Pre Battle Observations At The Circle Of Thunder
 

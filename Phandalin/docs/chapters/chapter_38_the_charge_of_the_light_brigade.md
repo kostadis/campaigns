@@ -1,8 +1,8 @@
 ---
-chapter: 39
+chapter: 38
 title: The Charge of the Light Brigade
 ---
-# Chapter 39 The Charge of the Light Brigade
+# Chapter 38 The Charge of the Light Brigade
 
 
 ---
@@ -69,7 +69,7 @@ I watched Vukradin receive this the way he always receives praise — sideways, 
 
 "Principle!" someone supplied.
 
-She turned to Spider-Man — that is truly his name, I have asked twice — and said: "Get this man at least two beers."
+She turned to Spiderman — that is truly his name, I have asked twice — and said: "Get this man at least two beers."
 
 Vukradin, because he is Vukradin, immediately said: "Okay, I'll take two beers, that sounds good. How many for Brewbarry?"
 

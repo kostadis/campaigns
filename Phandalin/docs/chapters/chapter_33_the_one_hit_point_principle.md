@@ -1,8 +1,8 @@
 ---
-chapter: 34
+chapter: 33
 title: The One Hit Point Principle
 ---
-# Chapter 34: The One Hit Point Principle
+# Chapter 33: The One Hit Point Principle
 
 ---
 
@@ -206,7 +206,7 @@ She came up slowly. Eyes first. Then breath. Then the particular stillness of so
 
 I appreciate that quality in a prisoner.
 
-"Hello, Sister Kayla."
+"Hello, Sister Kaella."
 
 She looked at me — at the party, at the tent walls, at the very specific fact of her continued existence — and the first thing she said was: "Thank God you're alive\!"
 

@@ -1,0 +1,5 @@
+runtime:
+  default_model: claude-sonnet-4-6
+  default_backend: dgx
+  session_dir: /home/kroussos/Phandalin/Phandalin/summaries/20250528-chapter-03-new
+  default_batch: false

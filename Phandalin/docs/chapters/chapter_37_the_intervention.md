@@ -1,8 +1,8 @@
 ---
-chapter: 38
+chapter: 37
 title: The Intervention
 ---
-# Chapter 38 The Intervention
+# Chapter 37 The Intervention
 
 ---
 
@@ -404,7 +404,7 @@ No one answered. That was its own kind of answer.
 
 Then Xanthopoulos told us about Corbin.
 
-"I have news. Corbin is dead. Sister Kayla walked out. She's gone to the wind."
+"I have news. Corbin is dead. Sister Kaella walked out. She's gone to the wind."
 
 The circle went quiet in a different way.
 
@@ -486,7 +486,7 @@ So I stood at the edge of the glade and watched words do the work instead.
 
 Lyra spoke first. She stood before the council and explained what had happened at the rift — the failing ritual, the planar damage spreading through the forest like a sickness in wood, the treant that died when the intervention collapsed. She spoke carefully. She had prepared this. You could tell.
 
-I hadn't been there for all of it, but I had been in enough places like that — Axelholm, the mines, the sites where the corruption sat in the ground and twisted everything it touched — to know what she was describing was real. The dwarves we found there weren't dwarves anymore. Not fully. Whatever had gotten into the stone had gotten into them too.
+I hadn't been there for all of it, but I had been in enough places like that — Axeholm, the mines, the sites where the corruption sat in the ground and twisted everything it touched — to know what she was describing was real. The dwarves we found there weren't dwarves anymore. Not fully. Whatever had gotten into the stone had gotten into them too.
 
 We said as much. The party made the case — the Talosian blight on the land, the things we'd seen, the twisted bodies that used to be people. The forest didn't know the difference between natural rot and this. The forest just died.
 

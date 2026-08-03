@@ -1,8 +1,8 @@
 ---
-chapter: 46
+chapter: 45
 title: Universal Basic Treasure
 ---
-# Chapter 46 Universal Basic Treasure
+# Chapter 45 Universal Basic Treasure
 
 
 ## Brewbarry — Return to Phandalin
@@ -264,8 +264,6 @@ But it wasn't conventional magic — we could all feel that, the way the slag sa
 ---
 
 ## Soma — Cheese, Business Plans, and Departure Preparations
-
-### Soma
 
 The cheese came out the way good news always comes out in Phandalin: sideways, on the back of money. With the UBT putting coin in hands that had never held much, Qelline Alderleaf and Alphonse "Big Al" Kalazorn and Linene had all arrived at the same arithmetic at the same time: more coin meant more cheese. Petunia the cow stood placid in the yard while they laid out a whole round of choices for us. Did we want the fancy cheese, the not-so-fancy, the expensive. Did we want it from when Petunia ate the grass off the upper part of the field, or the lower. *Shell-sprouts*, I thought, *they have sorted milk by altitude.*
 

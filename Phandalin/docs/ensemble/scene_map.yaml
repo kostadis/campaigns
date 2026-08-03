@@ -1,0 +1,1151 @@
+chapters_glob: docs/chapters/chapter_*.md
+summaries_dir: summaries/haiku
+stats:
+  chapters: 29
+  scenes: 148
+  anchored: 147
+  review_flags: 13
+  preserved_approved: 0
+chapters:
+- chapter: chapter_02_arrival_in_phandalin.md
+  chapter_index: 2
+  summary: summaries/haiku/002-arrival_in_phandalin
+  approved: false
+  scenes_proposed: 9
+  chunks_if_applied: 10
+  review_flags:
+  - '''Music Earns No Coin'' span 124'
+  scenes:
+  - title: Music Earns No Coin
+    offset: 126
+    span: 124
+    hits: 11
+    context: Vukradin’s music was once again not earning coin. An artist is never appreciated in his time,
+      and yet an artist must eat. He stared at his audience in the First Flophouse in the
+    flag: span 124 chars — likely a mis-anchor
+  - title: The Wintershield Recruitment
+    offset: 250
+    span: 1148
+    hits: 21
+    context: He stared at his audience in the First Flophouse in the Heapside. Other than the Brewbarry,
+      the Uthgardian barbarian, no one was listening. “How did I end up here? The only peopl
+  - title: Gathering the Party
+    offset: 1398
+    span: 3951
+    hits: 14
+    context: The guard sighs, “You aren’t going to make a lot of money doing this adventuring thing with
+      that attitude.” But the comment insulted his professional pride, so he explains, “Lord N
+  - title: Arrival and Orientation
+    offset: 5349
+    span: 8412
+    hits: 17
+    context: Soma had made this journey several times and knew how to pull that off. The road to Phandalin
+      was the only dangerous part of the journey. But she had heard rumors of a white dragon
+  - title: The Dwarven Excavation
+    offset: 13761
+    span: 3989
+    hits: 40
+    context: And as she mutters to herself, two dwarves appear. Vukradin steps forward, “You are in danger
+      of a white dragon; you should leave.” Before Soma can react, Vukradin begins to wa
+  - title: Combat with Orcs
+    offset: 17750
+    span: 3866
+    hits: 32
+    context: Vukradin, “This room was cut in half. There may be a way to get around here from the other
+      side.” Valphine Sotorra Valphine wasn’t evil. No, that’s not what she was. She was a
+  - title: The First Ogre Encounter
+    offset: 21616
+    span: 4552
+    hits: 29
+    context: The next morning, Soma and the party head out towards Phandalin. She looks at Brewbarry,
+      who is carrying the Orcs’ axes, and smiles. She also thinks back on last night. Dazlyn an
+  - title: Settlement and Trade
+    offset: 26168
+    span: 2575
+    hits: 21
+    context: The bard nods his head and demands payment for completing the quest. The Townmaster smiles,
+      “Well done\! They are very charming people.” “Seemed like grave robbers.” “What? W
+  - title: Departure for Gnomengarde
+    offset: 28743
+    span: 2411
+    hits: 14
+    context: The journey towards Gnomengarde in the Sword Mountains goes through broken hilly terrain
+      to the south of Phandalin before going up into the mountains themselves. Journey to Gnome
+- chapter: chapter_03_to_find_a_shapeshifter.md
+  chapter_index: 3
+  summary: summaries/haiku/003-to_find_a_shapeshifter
+  approved: false
+  scenes_proposed: 7
+  chunks_if_applied: 7
+  review_flags:
+  - '''Navigating the Deadly Workshop'' span 194'
+  scenes:
+  - title: Ogre Ambush
+    offset: 575
+    span: 2888
+    hits: 27
+    context: With a grunt of exertion, her mace swings through the air, a metallic arc against the backdrop
+      of the rugged mountain peaks. The weighty weapon descends, intended to crush, to obli
+  - title: Journey to Gnomengarde
+    offset: 3463
+    span: 2867
+    hits: 67
+    context: Valphine, her mind still reeling from the unexpected turn of events, swiftly puts an arrow
+      in her handheld crossbow. Her movements are practiced, instinctual. She aims at the fleei
+  - title: Negotiating with the Guards
+    offset: 6330
+    span: 3024
+    hits: 34
+    context: Soma stares at him. He announces, “There is always a secret treasure room behind the waterfall.”
+      She follows him and stands under the waterfall, getting soaked. And behind the wat
+  - title: Navigating the Deadly Workshop
+    offset: 9354
+    span: 194
+    hits: 39
+    context: Ulla scratches her head and says, “You should go to the inventor workshop.” She tells Vukradin
+      that the best way to get there is to cross the hanging bridge from where they entered
+    flag: span 194 chars — likely a mis-anchor
+  - title: Meeting the Inventors
+    offset: 9548
+    span: 1958
+    hits: 43
+    context: Vukradin thanks them and marches towards the inventor’s workshop. After crossing the bridge,
+      he enters a room that is lightly obscured by the mist of the waterfall. But he notices,
+  - title: Audience with the Kings
+    offset: 11506
+    span: 2449
+    hits: 43
+    context: The Drow cleric stares at the two gnomes arguing. She is familiar with these debates among
+      inventors, arguing over details that don’t matter. Vukradin explains that they are ther
+  - title: The Mimic in the Cellar
+    offset: 13955
+    span: 3638
+    hits: 67
+    context: Vukradin explains what happened with the rotating blades and the rotating crossbow assault
+      system. Fiddelstib laughs. The gnome inventor adds, “My invention, the rotating blades
+- chapter: chapter_04_the_bard_the_kings_and_the_carver.md
+  chapter_index: 4
+  summary: summaries/haiku/004-the_bard_the_kings_and_the_carver
+  approved: false
+  scenes_proposed: 6
+  chunks_if_applied: 6
+  review_flags: null
+  scenes:
+  - title: Battle with the Creature
+    offset: 419
+    span: 3831
+    hits: 31
+    context: But the battle is not going as planned. Brewbarry, the stalwart warrior, struggles in vain
+      to pull his halberd free, the weapon seemingly stuck fast in some unseen impediment. Soma
+  - title: The Kings' Chamber
+    offset: 4250
+    span: 2605
+    hits: 51
+    context: I remembered a particular bird in the forest that would sing a single note all season, and
+      how everyone would wait for this note, and wondered whether I should tell Vukradin this.
+  - title: The Tavern Performance
+    offset: 6855
+    span: 2477
+    hits: 30
+    context: “Well, we elect another.” “So one is the younger king and the other is the older and wiser
+      king?” King Gnercli, obviously annoyed, says, “There is no seniority\!” “So let me get
+  - title: The Quest for Adabra
+    offset: 9332
+    span: 1247
+    hits: 6
+    context: I was annoyed. We were going to save a woman’s life, at our risk, for a mere 25 gold. It
+      seemed absurd. But Lathander’s Cleric had cautioned me about this. But then Vukradin, once
+  - title: Ambush on the Trail
+    offset: 10579
+    span: 502
+    hits: 37
+    context: The chill wind bites at my face as I pick my way carefully along the narrow trail winding
+      through the rocky hills. The fading light casts long shadows over the jagged stones and sc
+  - title: Discovery of the Scroll
+    offset: 11081
+    span: 3576
+    hits: 11
+    context: Bandits. Yes, the noise is bandits. Valphine had this tense look on her face, but said nothing.
+      Maybe she sensed something? Perhaps she didn’t. But these bandits would have gotten
+- chapter: chapter_05_saving_adabra.md
+  chapter_index: 5
+  summary: summaries/haiku/005-saving_adabra
+  approved: false
+  scenes_proposed: 7
+  chunks_if_applied: 7
+  review_flags: null
+  scenes:
+  - title: Armoring the Recruit
+    offset: 658
+    span: 1055
+    hits: 17
+    context: Vukradin thinks for a moment and is displeased, “Is that stolen armor?” The look on Corbin’s
+      face is enough for Vukradin. He knows. Brewbarry pushes, “Vukradin asked you\!” V
+  - title: Discovering the Windmill Siege
+    offset: 1713
+    span: 2737
+    hits: 19
+    context: The bandit is relieved, sighs, and says,” Well, until then I will wear this to protect myself.”
+      A spider suddenly squeaks, moves its arms frantically and points at Corbin as if i
+  - title: The Manticore's Hunger
+    offset: 4450
+    span: 3415
+    hits: 42
+    context: 'I missed my chance to talk to it. ### Valphine The creature roars. I put one of the bolts
+      in my hand crossbow, and target the creature. And of course Vukradin has to offer an'
+  - title: Meeting Adabra
+    offset: 7865
+    span: 2154
+    hits: 53
+    context: I notice how the creature seems to be flying away, and I wonder where and there in the distance,
+      I can see Corbin. The beast has decided to eat Corbin. Vukradin and Soma strike he
+  - title: The Emerald Enclave Revealed
+    offset: 10019
+    span: 3834
+    hits: 74
+    context: Soma tries to find out something about how long she has been here under the siege of the
+      manticore, and we discover it’s only been a short time. I try to get her to come with us,
+  - title: Corbin's Tragedy and Trust Questioned
+    offset: 13853
+    span: 2344
+    hits: 133
+    context: Corbin arrives at the windmill. He looks even worse than he did before. And now he smells.
+      Vukradin again begins the interrogations asking if he robbed Adabra. Even when Adabra i
+  - title: The Naturalist's Change of Heart
+    offset: 16197
+    span: 4325
+    hits: 61
+    context: 'After dinner,I sit and listen to Corbin’s tale of woe as he recounts it to me: “I wasn''t
+      born into this life. I was a farmer from a small, forgettable village called Greenmeadow, n'
+- chapter: chapter_06_vukradin_rank_cheval.md
+  chapter_index: 6
+  summary: summaries/haiku/006-vukradin_rank_cheval
+  approved: false
+  scenes_proposed: 7
+  chunks_if_applied: 7
+  review_flags:
+  - '''Journey and Philosophical Discussion'' span 262'
+  scenes:
+  - title: Journey and Philosophical Discussion
+    offset: 117
+    span: 262
+    hits: 24
+    context: The sun shines, the walk is long and Adabra feels the need to talk. “Harbin, bless his heart,
+      wants this area cleared of monsters. And what is a monster to him?” I want to answe
+    flag: span 262 chars — likely a mis-anchor
+  - title: Negotiating Payment
+    offset: 379
+    span: 3957
+    hits: 24
+    context: “Anything that disrupts his idea of peace. The manticore, the orcs driven from their homes,
+      they are merely acting as nature intends.” She looks at me, as if she wants me to unde
+  - title: Music Performance at the Inn
+    offset: 4336
+    span: 2308
+    hits: 24
+    context: As Vukradin prepares to play he shouts, “Toblen, what do your friends call you?” Toblen laughs,
+      “Spiderman.” I look at the man, wondering if he is one of us. I do so like spiders
+  - title: Silverleaf's Lighthouse Pitch
+    offset: 6644
+    span: 1640
+    hits: 24
+    context: Later, I would learn his name, Daran Edermath, but he’s known as Silverleaf. He is a tall,
+      lean half-elf with a weathered but noble appearance that speaks of years spent both in th
+  - title: Recruitment by Ser Kaelen Thorn
+    offset: 8284
+    span: 1848
+    hits: 25
+    context: But before I can give my speech, I notice someone new that I had missed earlier. He’s in
+      his early thirties, with a steady and capable presence. He’s carrying himself with some con
+  - title: Brewbarry's Reaction
+    offset: 10132
+    span: 4580
+    hits: 10
+    context: Spiderman brings us drinks, and he takes a sip, stretches back and says, “It’s rare to find
+      one who grapples so earnestly with questions of right and wrong. Where sentients just ta
+  - title: The Lighthouse Obsession
+    offset: 14712
+    span: 2001
+    hits: 27
+    context: “We need to destroy the evil tower\!” Vukradin is acting like loose-pebble, always rushing
+      into things. “The lighthouse is meant to protect the boats, not destroy them.” Vukr
+- chapter: chapter_07_conflict_free_gold_a_curious_side_quest_and_a_delightful_ambush.md
+  chapter_index: 7
+  summary: summaries/haiku/007-conflict_free_gold_a_curious_side_quest_and_a_delightful_ambush
+  approved: false
+  scenes_proposed: 6
+  chunks_if_applied: 6
+  review_flags: null
+  scenes:
+  - title: The overturned cart and rescue of Elara and Jarek
+    offset: 207
+    span: 2756
+    hits: 23
+    context: And so we leave for the Tower of Storms. As we round a bend, we spot a small, overturned
+      trade cart, partially obscured by thick undergrowth. Huddled nervously behind it are two fi
+  - title: Vukradin's meeting with Ser Kaelen Thorn
+    offset: 2963
+    span: 2064
+    hits: 29
+    context: Upon Brewbarry's return with the horse, Elara is relieved. She thanks me for our timely assistance
+      and offers a reward. I hold out my outstretched hand, but she reaches out to Valp
+  - title: Adabra's warning about Whisper Woods
+    offset: 5027
+    span: 714
+    hits: 27
+    context: As we pass Barthen’s Provisions on the road to the Triboar Trail, Adabra approaches us. She
+      smiles at me and pulls Soma aside. I approach her, but she seems put off this time. I
+  - title: Journey to the coast
+    offset: 5741
+    span: 1489
+    hits: 24
+    context: The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our
+      trek towards the Tower of Storms. It was a journey of a few days, each one a test of my p
+  - title: The coastal gully and orc ambush
+    offset: 5741
+    span: 1489
+    hits: 40
+    context: The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our
+      trek towards the Tower of Storms. It was a journey of a few days, each one a test of my p
+  - title: The battle in the gully
+    offset: 7230
+    span: 4166
+    hits: 29
+    context: I wonder how these overbrighters survive without the Faerzess protecting them from assaults.
+      Magic transforms the land to help the attackers and defenders. Whatever made these crac
+- chapter: chapter_08_the_tower_of_storms_echoes_art_and_the_serpent_s_coil.md
+  chapter_index: 8
+  summary: summaries/haiku/008-the_tower_of_storms_echoes_art_and_the_serpent_s_coil
+  approved: false
+  scenes_proposed: 3
+  chunks_if_applied: 3
+  review_flags: null
+  scenes:
+  - title: Arrival and Harpy Assault
+    offset: 184
+    span: 825
+    hits: 59
+    context: 'The wind whips around us as we approach the Tower of Storms, a grim sentinel on its rocky
+      perch. The air immediately fills with discord: three harpies descend, their songs a cacoph'
+  - title: Tower Exploration
+    offset: 1009
+    span: 3297
+    hits: 44
+    context: Later, as a female attempts to sing, I find myself charmed. Annoying\! But I have an idea.
+      I use my Bardic Inspiration, turning my failure into a success. It feels like failing upw
+  - title: The Orc Anchorite
+    offset: 4306
+    span: 3615
+    hits: 61
+    context: We move through a room with frescoes depicting stormy seas and a "dark and terrible god",
+      then find a stone altar with lightning bolts carved into it and a metal lightning rod. On
+- chapter: chapter_09_the_beating_heart_of_the_storm_and_whispers_from_the_deep.md
+  chapter_index: 9
+  summary: summaries/haiku/009-the_beating_heart_of_the_storm_and_whispers_from_the_deep
+  approved: false
+  scenes_proposed: 6
+  chunks_if_applied: 7
+  review_flags:
+  - '"Miral''s Manifestation and Warning" unanchored'
+  scenes:
+  - title: Moesko's Defeat and Discovery
+    offset: 7963
+    span: 680
+    hits: 25
+    context: From my vantage point on the shore, the murky water offered little visibility. I heard the
+      commotion as Soma engaged the shark. Trying to assist, I focused my bardic magic. "I can
+  - title: The Corrupted Beacon
+    offset: 8643
+    span: 1177
+    hits: 14
+    context: 'As Soma brought the chests ashore, I immediately questioned Valphine: "Why are we opening
+      other people''s chests? Those aren''t yours." This constant urge to loot grated on me. We ha'
+  - title: Soma's Underwater Quest
+    offset: 9820
+    span: 1400
+    hits: 4
+    context: The giant crab appeared, offering his gratitude for the sharks we'd dispatched. He then noticed
+      Brewbarry's new halberd. "My, yes, you did in fact find the treasure I was going to
+  - title: Treasure Recovered from the Depths
+    offset: 11220
+    span: 830
+    hits: 20
+    context: My gaze, however, was drawn to the subtle details in Moesko's chamber. Poking around, my
+      enhanced senses quickly located a small, concealed compartment between a loose floorboard.
+  - title: Combat with the Remaining Sharks
+    offset: 11220
+    span: 830
+    hits: 22
+    context: My gaze, however, was drawn to the subtle details in Moesko's chamber. Poking around, my
+      enhanced senses quickly located a small, concealed compartment between a loose floorboard.
+  - title: Miral's Manifestation and Warning
+    offset: null
+    note: unanchored — merges into the previous scene
+  - title: Moral Division Over the Recovered Treasures
+    offset: 12050
+    span: 2328
+    hits: 6
+    context: As we ascended the lighthouse, the beacon's pulsating green light immediately captivated
+      me. My fascination with bright light is an intrinsic part of my new devotion to Lathander.
+- chapter: chapter_10_phandalin_old_debts_and_new_suspicions.md
+  chapter_index: 10
+  summary: summaries/haiku/010-phandalin_old_debts_and_new_suspicions
+  approved: false
+  scenes_proposed: 8
+  chunks_if_applied: 8
+  review_flags:
+  - '''Heading to the Grove'' span 127'
+  scenes:
+  - title: The Argument Over Priorities
+    offset: 253
+    span: 1925
+    hits: 40
+    context: “Well, there is the small matter of the Whispering Wood.” I look at her, perplexed. I pull
+      out my notebook and return her gaze, “There is no quest or reference to any Whispering
+  - title: Adabra's Philosophy and Warning
+    offset: 2178
+    span: 2178
+    hits: 51
+    context: Then I pause, and remember that this is Adabra, the midwife. “Yeah, she and I had a connection.
+      She saw what I was trying to do, and she got me more money. And she doesn’t want to
+  - title: Lionshield Coster and Townmaster
+    offset: 4356
+    span: 2364
+    hits: 49
+    context: Adabra looks at me, “No, I do not believe it is them. I believe it is the result of the actions
+      of the interventionists meddling in affairs they shouldn’t be.” She pauses, “The ord
+  - title: Ser Kaelen and the Betting Pool
+    offset: 6720
+    span: 4838
+    hits: 56
+    context: But now we have more important things to do. To find a new keeper of the light at the lighthouse.
+      What a majestic and important role. Surely this will be an easy job to fill. And t
+  - title: The Carver Investigation and Whispering Woods
+    offset: 11558
+    span: 2912
+    hits: 45
+    context: He then looks at Vukradin, but stares at me, “We believe that if you do not strive for good,
+      then the power of evil will crush everything beautiful. The Emerald Enclave thinks that
+  - title: The Factions and Funding Discussion
+    offset: 14470
+    span: 1500
+    hits: 18
+    context: Ser Kaelen is shocked, “We are not the Harpers. We do not hire. We find true believers.”
+      Poor Ser Kaelen, he doesn’t realize that Vukradin is a coin clinger. “They will hire me
+  - title: Music and the Anonymous Letter
+    offset: 15970
+    span: 3726
+    hits: 55
+    context: And so we spend the next few hours playing music. At first, Vukradin plays alone. And when
+      he stops, waiting to see if anyone will pay, two silver pieces are dropped at his table.
+  - title: Heading to the Grove
+    offset: 19696
+    span: 127
+    hits: 8
+    context: As we head out to the whispering grove, the staff that Merill gave me suddenly feels alive.
+      Some magic inside it was unlocked.
+    flag: span 127 chars — likely a mis-anchor
+- chapter: chapter_11_the_stag_the_brambles_the_wolves_and_the_pool.md
+  chapter_index: 11
+  summary: summaries/haiku/011-the_stag_the_brambles_the_wolves_and_the_pool
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags: null
+  scenes:
+  - title: The Enchanted Stag
+    offset: 294
+    span: 463
+    hits: 33
+    context: Suddenly, a majestic stag materializes before us. Its fur shimmers and flickers. This creature
+      is caught between here and some other place. Its antlers are constantly moving and ch
+  - title: The Corrupted Brambles
+    offset: 757
+    span: 545
+    hits: 30
+    context: The stag pauses, then replies with a surprising territoriality. "I was okay... Until you
+      walked into my territory. Why are you in my territory? Get out of my territory," it insists
+  - title: The Wolves and Descent
+    offset: 1302
+    span: 4290
+    hits: 23
+    context: '"Brewbarry, can you back off a little?" I ask, then turn to Vukradin, "Could you back up
+      a little? Just give the stag some privacy". Once they''ve retreated, I continue, "We''ve clea'
+  - title: The Mysterious Pool
+    offset: 5592
+    span: 4125
+    hits: 60
+    context: And then we stumble into a clearing, and there in front of us is a pool of water. I look
+      carefully and realize that this is something different. The surface reflects a distorted
+- chapter: chapter_12_naturalists_and_interventionists.md
+  chapter_index: 12
+  summary: summaries/haiku/012-naturalists_and_interventionists
+  approved: false
+  scenes_proposed: 6
+  chunks_if_applied: 6
+  review_flags:
+  - '''The Ritual Fails'' span 80'
+  scenes:
+  - title: The Corrupted Grove
+    offset: 117
+    span: 3790
+    hits: 45
+    context: The air itself tastes wrong as we push through the last line of dense trees and step into
+      the clearing. It’s perhaps sixty feet across, but something here is fundamentally off. My
+  - title: The Battle Against the Treant
+    offset: 3907
+    span: 4566
+    hits: 45
+    context: My drow eyes, ever keen to the subtle distortions of reality, watch Soma – still in her bulky
+      bear form – lumber towards the blighted brambles. Her brute force approach is, at leas
+  - title: The Ritual Begins
+    offset: 8473
+    span: 4673
+    hits: 38
+    context: The grotesque dance continues, a discordant movement in this wretched grove. My *Starry Whip*,
+      a personal composition of biting starlight, lashes out at the corrupted Treant. A sat
+  - title: The Interrogation and Revelation
+    offset: 13146
+    span: 3840
+    hits: 55
+    context: Lyra turns to them both, “I don’t think I thought this through very carefully.” Vukradin
+      rolls his eyes, “Understatement of the year.” But the druid continues, “There was talk
+  - title: The Ritual Fails
+    offset: 16986
+    span: 80
+    hits: 26
+    context: Valphine adds, “Sunlight is not natural.” Both Vukradin and I glare at her. And this is where
+      the choice looms, stark and unsettling. Adabra believes the interventionists are t
+    flag: span 80 chars — likely a mis-anchor
+  - title: The Puppet Emerges
+    offset: 17066
+    span: 3430
+    hits: 34
+    context: And this is where the choice looms, stark and unsettling. Adabra believes the interventionists
+      are the blight, the ones who disrupt. Lyra, the interventionist, was fighting what sh
+- chapter: chapter_13_confronting_adabra_and_learning_of_the_interventionists.md
+  chapter_index: 13
+  summary: summaries/haiku/013-confronting_adabra_and_learning_of_the_interventionists
+  approved: false
+  scenes_proposed: 6
+  chunks_if_applied: 6
+  review_flags:
+  - '''Selling the Furs'' span 65'
+  scenes:
+  - title: Confrontation in the Main Square
+    offset: 0
+    span: 3408
+    hits: 35
+    context: '--- chapter: 13 title: Confronting Adabra and learning of the Interventionists. --- # Chapter
+      13 Confronting Adabra and learning of the Interventionists. ### Soma I feel like a'
+  - title: Music and Philosophy
+    offset: 3408
+    span: 3618
+    hits: 32
+    context: The Zhentarim don’t quite fit with my personal goals of only making money from conflict-free
+      treasure. As I watch Lyra leave, and her agent follow her, I grab one and ask if he c
+  - title: Selling the Furs
+    offset: 7026
+    span: 65
+    hits: 49
+    context: Adabra is pleased and hands me five conflict-free gold pieces. She continues for some time
+      in some kind of ecstasy, saying words that mean nothing, about planes, and designs, and
+    flag: span 65 chars — likely a mis-anchor
+  - title: Performance at the Stonehill Tavern
+    offset: 7091
+    span: 2984
+    hits: 13
+    context: She continues for some time in some kind of ecstasy, saying words that mean nothing, about
+      planes, and designs, and universalism, and I am bored. Soma later on tells me that she wa
+  - title: Conversation with Emerald Enclave Agents
+    offset: 10075
+    span: 1871
+    hits: 75
+    context: The oldest among them drinks from the beer that Spiderman has brought to us and says, “ We've
+      sworn our lives and our honor to the Emerald Enclave, and Lyra was just upset. The que
+  - title: Ser Kaelen's Inquiry
+    offset: 11946
+    span: 2934
+    hits: 19
+    context: Then Thomas turns to Valphine, “Have you ever seen rituals as difficult as the one we tried?”
+      This is not a good thing to ask the Drow. And she answers, “ Yes but they involve b
+- chapter: chapter_14_the_butterskull_quest.md
+  chapter_index: 14
+  summary: summaries/haiku/014-the_butterskull_quest
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags:
+  - '''The Quest for Butterskull Ranch'' span 230'
+  scenes:
+  - title: The Quest for Butterskull Ranch
+    offset: 0
+    span: 230
+    hits: 21
+    context: '--- chapter: 14 title: The Butterskull Quest --- # Chapter 14 The Butterskull Quest ## 1-02
+      Taraskh 1495 ### ### Valphine The night before, we discussed our plans in privat'
+    flag: span 230 chars — likely a mis-anchor
+  - title: Encounter with the Merchant
+    offset: 230
+    span: 954
+    hits: 30
+    context: We decided to go to Butterskull Ranch. Harbin had posted this quest on his quest board, “Orcs
+      have attacked Butterskull Ranch, five miles east of Conyberry along the Triboar Trail\
+  - title: Conyberry in Ruins
+    offset: 230
+    span: 954
+    hits: 24
+    context: We decided to go to Butterskull Ranch. Harbin had posted this quest on his quest board, “Orcs
+      have attacked Butterskull Ranch, five miles east of Conyberry along the Triboar Trail\
+  - title: Corbin's Refusal
+    offset: 1184
+    span: 1547
+    hits: 18
+    context: The story of ransacked buildings excites Vukradin who sees yet another opportunity to go
+      on a quest, “We must go there and quickly secure the property.” The merchant tries hard n
+- chapter: chapter_15_freeing_big_al_petunia_and_watching_a_ranch_burn.md
+  chapter_index: 15
+  summary: summaries/haiku/015-freeing_big_al_petunia_and_watching_a_ranch_burn
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags:
+  - '''Finding Petunia'' span 133'
+  scenes:
+  - title: Ambush on the Road
+    offset: 164
+    span: 4111
+    hits: 46
+    context: Soma Vukradin halts us when we spot four brigands, easily recognizable as Carver’s disposable
+      crew. My sigh is internal, a slow puff of air against the inside of my shell. “I int
+  - title: Rescue in the Cellar
+    offset: 4275
+    span: 2337
+    hits: 58
+    context: 'We creep past the charred remains of the barn and smithy. Then, scattered near the outbuildings,
+      I see them: dead bodies. Orcs and humans both. They are already swarming with flies'
+  - title: Finding Petunia
+    offset: 6612
+    span: 133
+    hits: 15
+    context: The reward is astonishing. “I got this suit of mithril chainmail that I'm willing to exchange
+      for… You finding my cow,” he offers . This is substantial, legitimate coin. I must ve
+    flag: span 133 chars — likely a mis-anchor
+  - title: Borg's Destruction and Pursuit
+    offset: 6745
+    span: 4190
+    hits: 33
+    context: This is substantial, legitimate coin. I must verify its source. “How did you come by Mithril
+      Chain Mail, Big Al?” I press . “I bought it,” he insists. He explains that he’s a reti
+- chapter: chapter_16_deals_with_harbin_and_sister_kaella_and_no_deal_with_jenna.md
+  chapter_index: 16
+  summary: summaries/haiku/016-deals_with_harbin_and_sister_kaella_and_no_deal_with_jenna
+  approved: false
+  scenes_proposed: 3
+  chunks_if_applied: 5
+  review_flags: null
+  scenes:
+  - title: Town Green Politics and the Dragon
+    offset: 3200
+    span: 4644
+    hits: 27
+    context: Ser Kaelen looks at me and mutters, “A privy council that made the decisions for Harbin would
+      be sufficient, I think.” “No, we are going to have a town meeting. I will not have y
+  - title: Confronting Sister Kaella
+    offset: 7844
+    span: 10466
+    hits: 18
+    context: But now it’s nighttime. Before I go, I get rid of any sign of Lathander and look as much
+      the part of a drow of the Underdark as I can. The old skin feels uncomfortable and comfor
+  - title: The Lord's Alliance Proposal
+    offset: 18310
+    span: 3183
+    hits: 30
+    context: She continues, “I am a member of the Lord’s Alliance, and“ I interrupt her, “What is the
+      Lord’s Alliance?” Her jaw drops at my honest question. I ask her, “Is it like the Zhent
+- chapter: chapter_17_blood_money_clean_gold_and_fine_wine.md
+  chapter_index: 17
+  summary: summaries/haiku/017-blood_money_clean_gold_and_fine_wine
+  approved: false
+  scenes_proposed: 7
+  chunks_if_applied: 7
+  review_flags: null
+  scenes:
+  - title: Tavern Dispute Over Sister Kaella
+    offset: 119
+    span: 897
+    hits: 14
+    context: The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an
+      enemy who had offered to work with them against the Carver. Valphine explained that Kaella
+  - title: Temple Arrangement
+    offset: 119
+    span: 897
+    hits: 31
+    context: The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an
+      enemy who had offered to work with them against the Carver. Valphine explained that Kaella
+  - title: Supplies and Journey
+    offset: 1016
+    span: 1679
+    hits: 16
+    context: While Vukradin was outside, two pale-skinned, sunburned villagers named Brin Bundlewine and
+      Giles Slipper-Shine approached Valphine with great excitement. They had heard rumors of
+  - title: Arrival at the Lodge
+    offset: 2695
+    span: 2293
+    hits: 16
+    context: The next morning, Vukradin spoke with Ser Kaelen about tracking down the rightful owners
+      of the treasure they had found. Ser Kaelen explained that he was waiting for information fr
+  - title: The Dragon Hoard Revelation
+    offset: 4988
+    span: 921
+    hits: 15
+    context: During dinner that evening, Falcon casually revealed that he had built his lodge with his
+      share of treasure from a dragon’s hoard that his adventuring group had killed and split fo
+  - title: Meeting Sridar
+    offset: 5909
+    span: 2921
+    hits: 18
+    context: The party was also joined at dinner by Sridar, another drow who was staying as a guest at
+      the lodge. When Valphine asked if she was a cleric of Lathander, Sridar seemed confused an
+  - title: Discussion of Planar Incursions
+    offset: 5909
+    span: 2921
+    hits: 16
+    context: The party was also joined at dinner by Sridar, another drow who was staying as a guest at
+      the lodge. When Valphine asked if she was a cleric of Lathander, Sridar seemed confused an
+- chapter: chapter_18_falcon_s_hoard_and_hidden_truths.md
+  chapter_index: 18
+  summary: summaries/haiku/018-falcon_s_hoard_and_hidden_truths
+  approved: false
+  scenes_proposed: 3
+  chunks_if_applied: 3
+  review_flags: null
+  scenes:
+  - title: Nocturnal Investigation
+    offset: 108
+    span: 942
+    hits: 28
+    context: The party undertook a detailed, covert mission when the bard Vukradin decided to uncover
+      the truth about their host, Falcon the Hunter, concerning his claimed past as a dragonslaye
+  - title: Breakfast Confrontation
+    offset: 1050
+    span: 2915
+    hits: 27
+    context: Within the room and the unlocked drawer, Vukradin discovered several curious and significant
+      items. These included a pair of wooden elven ears attached to a chain inscribed with "m
+  - title: Party's Assessment
+    offset: 1050
+    span: 2915
+    hits: 12
+    context: Within the room and the unlocked drawer, Vukradin discovered several curious and significant
+      items. These included a pair of wooden elven ears attached to a chain inscribed with "m
+- chapter: chapter_19_to_the_loggers_camp.md
+  chapter_index: 19
+  summary: summaries/haiku/019-to_the_loggers_camp
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags:
+  - '''Interrogation and Capture'' span 88'
+  scenes:
+  - title: Discovery in the Forest
+    offset: 0
+    span: 1027
+    hits: 34
+    context: '--- chapter: 19 title: To the Logger’s Camp --- # Chapter 19 To the Logger’s Camp ### ##
+      09-02- Taraskh 1495 ### Vukradin The Falcon Hunter was a fraud and an artist. And a t'
+  - title: Ambush and Combat
+    offset: 1027
+    span: 5838
+    hits: 36
+    context: Soma looks at me and mutters, “You are wet-behind-the-shell Vukradin. The orc is a scout
+      for a raiding party. Don’t make any noise. And don’t try to talk to them.” Valphine turns
+  - title: Interrogation and Capture
+    offset: 6865
+    span: 88
+    hits: 31
+    context: When I return, I see Brewbarry and Vukradin have captured the orc with the necklace. The
+      orc shouts, “We don’t work for anyone. We are independent. We are an independent orc rai
+    flag: span 88 chars — likely a mis-anchor
+  - title: Arrival at the Logger's Camp
+    offset: 6953
+    span: 2109
+    hits: 35
+    context: The orc shouts, “We don’t work for anyone. We are independent. We are an independent orc
+      raiding party.” Brewbarry growls, “You are now barbecue orc.” The orc cowers, and I thin
+- chapter: chapter_20_the_orc_ambush.md
+  chapter_index: 20
+  summary: summaries/haiku/020-the_orc_ambush
+  approved: false
+  scenes_proposed: 2
+  chunks_if_applied: 2
+  review_flags: null
+  scenes:
+  - title: Forest Battle
+    offset: 95
+    span: 3035
+    hits: 40
+    context: As the party traveled through the dense forest, Brewbarry and Valphine spotted an orc scout
+      attempting to conceal himself ahead. Soma quickly realized the scout was a lookout for a
+  - title: Interrogation and Destination
+    offset: 95
+    span: 3035
+    hits: 37
+    context: As the party traveled through the dense forest, Brewbarry and Valphine spotted an orc scout
+      attempting to conceal himself ahead. Soma quickly realized the scout was a lookout for a
+- chapter: chapter_21_the_spirals_grasp.md
+  chapter_index: 21
+  summary: summaries/haiku/021-the_spirals_grasp
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags: null
+  scenes:
+  - title: The Riverbank
+    offset: 79
+    span: 1725
+    hits: 42
+    context: The party gathered at the Loggers Camp to discuss their next move, with Vukradin learning
+      that he had inadvertently built a reputation as a noble adventurer after saving a town fro
+  - title: Combat in the Glade
+    offset: 79
+    span: 1725
+    hits: 43
+    context: The party gathered at the Loggers Camp to discuss their next move, with Vukradin learning
+      that he had inadvertently built a reputation as a noble adventurer after saving a town fro
+  - title: Orc Ambush and Execution
+    offset: 1804
+    span: 782
+    hits: 38
+    context: The party crossed the river and immediately felt a strange tingling in their minds, with
+      sounds echoing oddly and light flickering through the shadows in a way that reminded them o
+  - title: Awakening and Revelation
+    offset: 2586
+    span: 4068
+    hits: 41
+    context: Combat erupted as the Cult Fanatic attempted to control Brewbarry’s mind, compelling him
+      to flee, while his mind-controlled warriors attacked with devastating precision. Soma trans
+- chapter: chapter_22_when_boars_are_more_than_just_boars.md
+  chapter_index: 22
+  summary: summaries/haiku/022-when_boars_are_more_than_just_boars
+  approved: false
+  scenes_proposed: 5
+  chunks_if_applied: 5
+  review_flags: null
+  scenes:
+  - title: Reunion and New Quests
+    offset: 113
+    span: 448
+    hits: 47
+    context: The party arrived at the Falcon Hunting Lodge with their collection of prisoners and rescued
+      companions in tow. Among them was a disoriented Teega the Smith, two Emerald Enclave gu
+  - title: Falcon's Investment Problem
+    offset: 561
+    span: 1412
+    hits: 36
+    context: Teega the Smith, still confused and suffering from memory gaps, asked who the party was and
+      why she was there. She explained that the last thing she remembered was working at the W
+  - title: Journey to the Woodland Manse
+    offset: 1973
+    span: 630
+    hits: 24
+    context: Falcon then shared troubling news about one of his investments. Mountain Toe’s Goldmine,
+      located fifteen miles northeast of Phandalin, had suffered from poisoned waters that threat
+  - title: The Boar's Warning
+    offset: 2603
+    span: 1237
+    hits: 28
+    context: The party also discussed the Woodland Manse quest that Falcon had mentioned previously, where
+      orcs and half-orcs had occupied an old manor. The reward for clearing it would be a pa
+  - title: Battle at the Manor
+    offset: 3840
+    span: 3129
+    hits: 38
+    context: The party arrived at a foggy clearing where a crumbling two-story manor stood, nearly hidden
+      beneath thorny ivy. The structure sat atop a six-foot-high stone foundation, with a bal
+- chapter: chapter_23_from_retreat_to_redemption_and_cheese.md
+  chapter_index: 23
+  summary: summaries/haiku/023-from_retreat_to_redemption_and_cheese
+  approved: false
+  scenes_proposed: 6
+  chunks_if_applied: 6
+  review_flags:
+  - '''Battle and Retreat'' span 126'
+  scenes:
+  - title: Battle and Retreat
+    offset: 0
+    span: 126
+    hits: 28
+    context: '--- chapter: 23 title: From Retreat to Redemption (and Cheese) --- # Chapter 23 From Retreat
+      to Redemption (and Cheese) ## The party found themselves in a desperate situation at'
+    flag: span 126 chars — likely a mis-anchor
+  - title: Journey to Phandalin
+    offset: 126
+    span: 1988
+    hits: 24
+    context: The party found themselves in a desperate situation at the Woodland Manse, battered from
+      the first attack, a shapeshifting cultist of Talos unleashed devastating lightning upon the
+  - title: Council Meeting
+    offset: 126
+    span: 1988
+    hits: 39
+    context: The party found themselves in a desperate situation at the Woodland Manse, battered from
+      the first attack, a shapeshifting cultist of Talos unleashed devastating lightning upon the
+  - title: Church Events
+    offset: 2114
+    span: 3620
+    hits: 21
+    context: Upon arriving in Phandalin, Vukradin called a council meeting to report their findings. They
+      delivered Shrimpy to Town Master Harbin Wester and informed the council about the Cult
+  - title: Mine Escort
+    offset: 2114
+    span: 3620
+    hits: 21
+    context: Upon arriving in Phandalin, Vukradin called a council meeting to report their findings. They
+      delivered Shrimpy to Town Master Harbin Wester and informed the council about the Cult
+  - title: Negotiation with Zeleen
+    offset: 5734
+    span: 2411
+    hits: 21
+    context: As the party escorted Don-Jon toward the mine, they discovered six dead orcs scattered across
+      the rocky ground within five miles of their destination. Examination revealed the orcs
+- chapter: chapter_24_the_ale_the_ex_and_axeholm.md
+  chapter_index: 24
+  summary: summaries/haiku/024-the_ale_the_ex_and_axeholm
+  approved: false
+  scenes_proposed: 7
+  chunks_if_applied: 7
+  review_flags: null
+  scenes:
+  - title: New Quests and Threats
+    offset: 99
+    span: 1209
+    hits: 13
+    context: The party returned to Phandalin after successfully negotiating a peace agreement at the gold
+      mine. Harbin Wester, the Lord Mayor, greeted them warmly and expressed satisfaction wit
+  - title: Grazing Negotiation
+    offset: 1308
+    span: 439
+    hits: 8
+    context: The party then turned their attention to ensuring a steady cheese supply for the wererats
+      at the gold mine. They sought out Petunia, Big Al's prized cow, and through magical commun
+  - title: Big Al's Past
+    offset: 1747
+    span: 1183
+    hits: 8
+    context: When the party approached Qelline to negotiate, they immediately sensed tension. She recognized
+      that Big Al had sent them instead of coming himself and revealed her deep resentment
+  - title: Lyra's Recovery
+    offset: 2930
+    span: 1379
+    hits: 9
+    context: Later, Lyra appeared in town, reunited with the two Emerald Enclave members the party had
+      rescued. Despite this success, she was deeply discouraged about her leadership abilities,
+  - title: Statue Commission
+    offset: 2930
+    span: 1379
+    hits: 18
+    context: Later, Lyra appeared in town, reunited with the two Emerald Enclave members the party had
+      rescued. Despite this success, she was deeply discouraged about her leadership abilities,
+  - title: Tavern Performance
+    offset: 4309
+    span: 1490
+    hits: 11
+    context: That evening, the party performed at the local tavern. While Valphine struggled with her
+      performance, Vukradin's music energized the crowd, and Brewbarry created an entirely new sp
+  - title: Axeholm Approach
+    offset: 4309
+    span: 1490
+    hits: 16
+    context: That evening, the party performed at the local tavern. While Valphine struggled with her
+      performance, Vukradin's music energized the crowd, and Brewbarry created an entirely new sp
+- chapter: chapter_25_where_reality_unravels_breaching_axeholm.md
+  chapter_index: 25
+  summary: summaries/haiku/025-where_reality_unravels_breaching_axeholm
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags:
+  - '''Entering Axeholm'' span 127'
+  - '''The Corrupted Hall'' span 127'
+  scenes:
+  - title: Entering Axeholm
+    offset: 0
+    span: 127
+    hits: 43
+    context: '--- chapter: 25 title: ''Where Reality Unravels: Breaching Axeholm'' --- # Chapter 25 Where
+      Reality Unravels: Breaching Axeholm The party arrived at the ancient dwarven fortress of'
+    flag: span 127 chars — likely a mis-anchor
+  - title: The Corrupted Hall
+    offset: 0
+    span: 127
+    hits: 58
+    context: '--- chapter: 25 title: ''Where Reality Unravels: Breaching Axeholm'' --- # Chapter 25 Where
+      Reality Unravels: Breaching Axeholm The party arrived at the ancient dwarven fortress of'
+    flag: span 127 chars — likely a mis-anchor
+  - title: Combat
+    offset: 127
+    span: 4036
+    hits: 38
+    context: The party arrived at the ancient dwarven fortress of Axeholm, carved into the base of a mountain
+      miles south of Phandalin. Their quest was to open the long-sealed fortress and make
+  - title: The Paralysis Horror
+    offset: 127
+    span: 4036
+    hits: 47
+    context: The party arrived at the ancient dwarven fortress of Axeholm, carved into the base of a mountain
+      miles south of Phandalin. Their quest was to open the long-sealed fortress and make
+- chapter: chapter_26_from_out_of_phase_dwarves_to_mechanical_mysteries.md
+  chapter_index: 26
+  summary: summaries/haiku/026-from_out_of_phase_dwarves_to_mechanical_mysteries
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags: null
+  scenes:
+  - title: Battle's End and Early Exploration
+    offset: 141
+    span: 1084
+    hits: 47
+    context: The battle in the mustering hall of Axeholm raged on as the party fought against the twisted
+      dwarves caught in an interdimensional nightmare. Valphine fired her crossbow at one of
+  - title: The Enigma of the Locked Room
+    offset: 1225
+    span: 1109
+    hits: 13
+    context: Valphine led the party through the cramped passage to an upper level, where they found a
+      ransacked room filled with broken furniture and debris. A blackened fireplace dominated one
+  - title: The Three-Headed King
+    offset: 1225
+    span: 1109
+    hits: 63
+    context: Valphine led the party through the cramped passage to an upper level, where they found a
+      ransacked room filled with broken furniture and debris. A blackened fireplace dominated one
+  - title: Fortress Exploration and Mystery
+    offset: 2334
+    span: 4208
+    hits: 45
+    context: Continuing their methodical exploration, the party encountered a locked door. Valphine skillfully
+      picked the lock using her thieves' tools, only to find the room completely empty.
+- chapter: chapter_27_sisters_against_the_machine.md
+  chapter_index: 27
+  summary: summaries/haiku/027-sisters_against_the_machine
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags: null
+  scenes:
+  - title: First Floor Exploration
+    offset: 97
+    span: 613
+    hits: 26
+    context: The party continued their exploration of the ancient dwarven fortress, finishing their survey
+      of the first floor. They discovered a storage room filled with serviceable armor and w
+  - title: Battle with Spectral Dwarves and the Chief Accountant
+    offset: 710
+    span: 3539
+    hits: 20
+    context: Having thoroughly explored the lower level, the party ascended to the upper floor, where
+      the time and spatial distortions seemed more pronounced. As they climbed the stairs, they h
+  - title: Truth and Descent
+    offset: 710
+    span: 3539
+    hits: 15
+    context: Having thoroughly explored the lower level, the party ascended to the upper floor, where
+      the time and spatial distortions seemed more pronounced. As they climbed the stairs, they h
+  - title: Confrontation with Aletra
+    offset: 4249
+    span: 2300
+    hits: 35
+    context: The party debated whether to trust the undead accountant, but ultimately decided to follow
+      her directions to the machine. They descended back to the lower level and made their way
+- chapter: chapter_28_when_the_machine_screams_a_family_affair.md
+  chapter_index: 28
+  summary: summaries/haiku/028-when_the_machine_screams_a_family_affair
+  approved: false
+  scenes_proposed: 3
+  chunks_if_applied: 3
+  review_flags: null
+  scenes:
+  - title: The Standoff
+    offset: 127
+    span: 2760
+    hits: 22
+    context: The party found themselves in a tense standoff with Valphine's sister, Aletra, who was working
+      to extract a mysterious package from a broken planar machine. The room was covered in
+  - title: Manipulation and Battle
+    offset: 127
+    span: 2760
+    hits: 23
+    context: The party found themselves in a tense standoff with Valphine's sister, Aletra, who was working
+      to extract a mysterious package from a broken planar machine. The room was covered in
+  - title: Escape and Shutdown
+    offset: 2887
+    span: 2983
+    hits: 34
+    context: Brewbarry and Vukradin fought with devastating efficiency once the webs were cleared, their
+      weapons cutting through the Rift Weavers with brutal precision. The creatures chittered
+- chapter: chapter_29_drones_dread_and_dangerous_deliveries.md
+  chapter_index: 29
+  summary: summaries/haiku/029-drones_dread_and_dangerous_deliveries
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags: null
+  scenes:
+  - title: Aletra's Quarters
+    offset: 665
+    span: 606
+    hits: 30
+    context: The party opened a door to the west and discovered Aletra's makeshift quarters in what had
+      once been a barracks. A high-quality silk bedroll and a folding desk made of black Zurkhw
+  - title: The Chief Accountant's Peace
+    offset: 1271
+    span: 1045
+    hits: 13
+    context: After Vukradin left the room, Valphine discovered a hidden bag containing a small platinum
+      coin worth only seven gold pieces, a square-cut malachite gem worth eight gold pieces, a
+  - title: Drones and Treasures
+    offset: 2316
+    span: 3838
+    hits: 22
+    context: The party explored the accountant's old room, finding a dusty bedroom with moldy mattresses
+      and a soot-stained fireplace. Valphine discovered a secret door hidden in the back of th
+  - title: The Gold Mine Battle
+    offset: 2316
+    span: 3838
+    hits: 23
+    context: The party explored the accountant's old room, finding a dusty bedroom with moldy mattresses
+      and a soot-stained fireplace. Valphine discovered a secret door hidden in the back of th
+- chapter: chapter_30_a_cheesy_compromise_in_the_mine.md
+  chapter_index: 30
+  summary: summaries/haiku/030-a_cheesy_compromise_in_the_mine
+  approved: false
+  scenes_proposed: 4
+  chunks_if_applied: 4
+  review_flags: null
+  scenes:
+  - title: Battle Outside the Mine
+    offset: 105
+    span: 595
+    hits: 33
+    context: The area outside the mine erupted into chaos as waves of orcs and ogres descended upon the
+      party. Valphine's divine guardians manifested as spectral protectors, their holy radiance
+  - title: Uncovering the Truth
+    offset: 700
+    span: 1692
+    hits: 26
+    context: The battle intensified when a second wave of enemies emerged from around the hill the mine
+      was dug into. Soma transformed the battlefield into a deadly gauntlet, rolling a sphere o
+  - title: The Carrion Crawler
+    offset: 2392
+    span: 1217
+    hits: 18
+    context: After a brief rest, Valphine investigated the scene where Don-Jon supposedly died and made
+      a disturbing discovery. The evidence clearly showed that Don-Jon had not been killed by t
+  - title: Dwarven Contract
+    offset: 3609
+    span: 1435
+    hits: 15
+    context: Following the dwarf tracks deeper into the mine, the party encountered five dwarves led by
+      Horia. When the party asserted their legal ownership of the mine, Horia produced a contra

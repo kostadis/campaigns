@@ -1,12 +1,8 @@
 ---
-chapter: 36
+chapter: 35
 title: A dragon defeated, a bard tempted, a barbarian's vengeance.
 ---
-# Chapter 36 A dragon defeated, a bard tempted, a barbarian's vengeance.
-
-# 
-
----
+# Chapter 35 A dragon defeated, a bard tempted, a barbarian's vengeance.
 
 ## **Brewbarry — The Dragon's Mountain Fortress**
 

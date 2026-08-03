@@ -1,12 +1,12 @@
 ---
-chapter: 29
+chapter: 28
 title: Drones, Dread, and Dangerous Deliveries
 ---
-# Chapter 29 Drones, Dread, and Dangerous Deliveries
+# Chapter 28 Drones, Dread, and Dangerous Deliveries
 
 After the interdimensional device collapsed into the void and Aletra escaped, the party searched the room where the machine had been. Nothing remained of the device itself, but they discovered strange strands of interdimensional spider silk left behind by the Riftweavers. Valphine, a former devotee of Lolth, considered collecting the unusual silk for her temple. The party debated the nature of these creatures—whether they were a natural phenomenon, a defense mechanism against planar damage, or summoned beings sent by some unknown deity.
 
-The party opened a door to the west and discovered Aletra's makeshift quarters in what had once been a barracks. A high-quality silk bedroll and a folding desk made of black Zurkhwood cluttered with modern parchment revealed where she had been working. The lingering scent of lavender mixed with perfume identified the space as belonging to House Xorlarrin's poison operations. Soma investigated a ledger on the desk and uncovered Aletra's forgeries—she had crossed out "iron for 500 pounds" and written "Midnight Tears \- crate 4 \-  do not drop," providing clear evidence of her tampering with the books.
+The party opened a door to the west and discovered Aletra's makeshift quarters in what had once been a barracks. A high-quality silk bedroll and a folding desk made of black Zurkhwood cluttered with modern parchment revealed where she had been working. The lingering scent of lavender mixed with perfume identified the space as belonging to House Sotorra's poison operations. Soma investigated a ledger on the desk and uncovered Aletra's forgeries—she had crossed out "iron for 500 pounds" and written "Midnight Tears \- crate 4 \-  do not drop," providing clear evidence of her tampering with the books.
 
 After Vukradin left the room, Valphine discovered a hidden bag containing a small platinum coin worth only seven gold pieces, a square-cut malachite gem worth eight gold pieces, a bottle of fine wine, and four vials of Midnight Tears poison worth two thousand gold pieces total. The party also found the Operator's Guide to the Model 1489 Spatial Rectification Calliope, which contained Aletra's personal notes including "use only if KP isn't watching." They took the forged ledger and manual as evidence.
 

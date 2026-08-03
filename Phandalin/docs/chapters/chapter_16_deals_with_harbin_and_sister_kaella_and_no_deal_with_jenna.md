@@ -1,14 +1,10 @@
 ---
 chapter: 16
-title: Deals with Harbin, and Sister Kayla, and no deal with Jenna
+title: Deals with Harbin, and Sister Kaella, and no deal with Jenna
 ---
-# Chapter 16 Deals with Harbin, and Sister Kayla, and no deal with Jenna
+# Chapter 16 Deals with Harbin, and Sister Kaella, and no deal with Jenna
 
-## 7-02 Taraskh 1495 
-
-### 
-
-### Vukradin 
+## 16.01 Vukradin 07-03-Taraskh 1495
 
 Harbin’s accusations are too much. He has crossed the line. 
 
@@ -62,7 +58,7 @@ Ser Kaelen looks at me and mutters, “A privy council that made the decisions f
 
 “No, we are going to have a town meeting. I will not have you shut me down,” I declare. 
 
-I march onto the town green and start playing my music. Soon, all of the local notables have arrived: Elmer, the owner of Barthen’s provisions, and his two clerks, Ander and Thistle, and  Halia Thornton, owner of the Miner’s Exchange, Linene, the manager of Lionshield Coster, Spider-Man, and  Adabra. 
+I march onto the town green and start playing my music. Soon, all of the local notables have arrived: Elmer, the owner of Barthen’s provisions, and his two clerks, Ander and Thistle, and  Halia Thornton, owner of the Miner’s Exchange, Linene, the manager of Lionshield Coster, Spiderman, and  Adabra. 
 
 There are also many farmers and miners that we haven’t met. But the town isn’t that big, and once you get past 20 or so, there aren’t that many more. 
 
@@ -102,17 +98,17 @@ I hear a voice shout, “I wish to make an announcement.”
 
 Harbin is about to speak, and so help me. 
 
-But Harbin surprises me as he says, “The recent actions of Vukradin demonstrate the need for a more active and engaged community in our decision-making. Although it is not within my power to make him Townmaster, I do believe that after reviewing our charter, a new privy council consisting of myself, Tolbin, Elmer, Halia, Linene, and Adabra, with our new hero Vukradin, will be just what we need in these perilous times\!” 
+But Harbin surprises me as he says, “The recent actions of Vukradin demonstrate the need for a more active and engaged community in our decision-making. Although it is not within my power to make him Townmaster, I do believe that after reviewing our charter, a new privy council consisting of myself, Toblen, Elmer, Halia, Linene, and Adabra, with our new hero Vukradin, will be just what we need in these perilous times\!” 
 
 I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can see that. He explains that if we were to do that, then Lord Neverember would see this as an attack on his authority and send troops to deal with us. Even if we were able to stop the troops, the harm to the town would be considerable. 
 
 For a moment, the nobility of the revolution calls, but then I realize that compromise is also noble. 
 
-### Valphine 
+## 16.02 Valphine 07-03-Taraskh 1495
 
 It’s been a long day, waiting for the sun to settle. While Vukradin, Soma, and Brewbarry went into town, I had a different plan. I would stay outside of town with Corbin and Locutus. 
 
-At night, I plan to sneak into town, meet with Sister Kayla, and learn what I can. 
+At night, I plan to sneak into town, meet with Sister Kaella, and learn what I can. 
 
 I almost had to change my plans when I heard the roar of a white dragon. I told Corbin to watch Locutus while I ran towards Phandalin. But before I got too far, the Dragon flew away. 
 
@@ -140,7 +136,7 @@ But then something happens that shocks me, “Now, Valphine, we can have a priva
 
 I mumble, “Sure?” 
 
-Sister Kayla removes her hood. I stare at her features. She has cold grey eyes, her hair is cut short, and there is a scar near her neck. Under her cloak, she is wearing some armor, and in her hands are the rapier and the bloodied dagger, which are pointed at me, as a reminder of what the consequences of not agreeing with her might be. 
+Sister Kaella removes her hood. I stare at her features. She has cold grey eyes, her hair is cut short, and there is a scar near her neck. Under her cloak, she is wearing some armor, and in her hands are the rapier and the bloodied dagger, which are pointed at me, as a reminder of what the consequences of not agreeing with her might be. 
 
 “I have more important business than working for the Carver,” she begins, and then continues after a pause, “The Borg had one job: kill Big Al. Leave no witnesses. If he had done that, my carefully laid plan would have worked. But he didn’t. And so the plot to blame you for the crime of stealing goods from a merchant has failed.” 
 
@@ -160,7 +156,7 @@ How droll.
 
 She continues, oblivious to my reaction, “I will provide you with information in a few days to kill the Carver’s last lieutenant. I know you are wondering why we don’t kill the Carver. Because he has a very unique ability to communicate with his people, he can communicate with us telepathically. I don’t know how. So we have to weaken him sufficiently so that he comes out of hiding.” 
 
-I recall the stories of mind flayers, aboleths, and eldritch monsters that could do this, and I decide that this is a bridge too far. I am about to tell Sister Kayla that I no longer care to help her in her war with the Carver. 
+I recall the stories of mind flayers, aboleths, and eldritch monsters that could do this, and I decide that this is a bridge too far. I am about to tell Sister Kaella that I no longer care to help her in her war with the Carver. 
 
 She again doesn’t sense my misgivings and asks, “Do we have an arrangement?” 
 
@@ -170,11 +166,11 @@ She notes, “If you kill his lieutenants, then the Carver will come out of hidi
 
 I smile, “They are my assistants.” 
 
-Sister Kayla believes me, “Interesting. This whole Lathander thing is a front, right? You are clearly a cleric of Lolth.” 
+Sister Kaella believes me, “Interesting. This whole Lathander thing is a front, right? You are clearly a cleric of Lolth.” 
 
 I glare at her, and she smiles as if she knows something.
 
- “No need to say anything,” Sister Kayla purrs and then, with more steel in her voice, says, “I know I could get a deal with you. Vukradin was too naive and too simple-minded, Brewbarry was in the bard’s pocket, and as for Soma, she is too full of nature.” She points the bloody dagger at me, “But you? I knew you and I could make a deal.” 
+ “No need to say anything,” Sister Kaella purrs and then, with more steel in her voice, says, “I know I could get a deal with you. Vukradin was too naive and too simple-minded, Brewbarry was in the bard’s pocket, and as for Soma, she is too full of nature.” She points the bloody dagger at me, “But you? I knew you and I could make a deal.” 
 
 I again glare, impassively. 
 
@@ -182,7 +178,7 @@ She smiles, as if she knows something, a secret we share, and then tosses a bag 
 
 And before I can react, she disappears. 
 
-### Brewbarry 
+## 16.03 Brewbarry 07-03-Taraskh 1495
 
 The tavern is a happening place. And the beer tastes good, but the woman who smirked on the green during the dragon attack is still smirking and staring at Vukradin.
 
@@ -255,7 +251,7 @@ Vukradin is doubtful at first, but when he hears that he wrote the mysterious le
 
 Before he reaches the table, I tell him that I disarmed her. 
 
-### Vukradin 
+## 16.04 Vukradin 07-03-Taraskh 1495
 
 I thank Brewbarry for his actions and remind him that a tavern is an unlikely place for violence. He seems unconvinced and says, “I like your confidence.” 
 

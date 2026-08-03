@@ -1,8 +1,8 @@
 ---
-chapter: 42
+chapter: 41
 title: A Storm is Coming
 ---
-# Chapter 42 A Storm is Coming
+# Chapter 41 A Storm is Coming
 
 ## Brewbarry — The Spoils of War
 

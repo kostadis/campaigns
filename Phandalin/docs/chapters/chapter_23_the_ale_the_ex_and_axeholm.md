@@ -1,8 +1,8 @@
 ---
-chapter: 24
+chapter: 23
 title: The Ale, the Ex, and Axeholm
 ---
-# Chapter 24 The Ale, the Ex, and Axeholm
+# Chapter 23 The Ale, the Ex, and Axeholm
 
 The party returned to Phandalin after successfully negotiating a peace agreement at the gold mine. Harbin Wester, the Lord Mayor, greeted them warmly and expressed satisfaction with the recent changes in the community. However, his mood turned serious when Brewbarry inquired about the upcoming ale supply. Harbin warned that the dragon occupying the mountains and the resulting orc incursions were preventing farmers from tending their crops, threatening the town's precious ale production for the season.
 
@@ -18,7 +18,7 @@ Later, Lyra appeared in town, reunited with the two Emerald Enclave members the 
 
 Ser Kaelen approached the party with important information about the statue they had recovered from the lighthouse. His contacts had identified it as belonging to Elara Seasong Meliame, a wealthy art collector currently attending an extravagant gala in Neverwinter hosted by her eccentric cousin, Lord Cassian Meliame. However, he warned that agents of House Maragaster—a family notorious for demonic alliances—intended to intercept the statue to embarrass the Meliames. Ser Kaelen requested that the party escort the statue to Neverwinter and present it to Elara personally, making sure to mention the Order of the Gauntlet's assistance in hopes of securing future donations. Vukradin, ever the opportunist, considered thanking multiple organizations to maximize potential favors.
 
-That evening, the party performed at the local tavern. While Valphine struggled with her performance, Vukradin's music energized the crowd, and Brewbarry created an entirely new spectacle with impressive physical displays and dance moves that the audience began imitating. Spider-Man, the tavern owner, rewarded them with free drinks and the crowd showered them with applause and coin. After a night of rest, the party prepared for their next adventure.
+That evening, the party performed at the local tavern. While Valphine struggled with her performance, Vukradin's music energized the crowd, and Brewbarry created an entirely new spectacle with impressive physical displays and dance moves that the audience began imitating. Spiderman, the tavern owner, rewarded them with free drinks and the crowd showered them with applause and coin. After a night of rest, the party prepared for their next adventure.
 
 The following day, they embarked on a journey to Axeholm, traveling across grassy lowlands that skirted the rocky foothills of the Sword Mountains. Cool winds and rain from the Sword Coast made the trek unpleasant, but they pressed on. Upon arrival, they found the entrance to the ancient dwarven fortress—a dark passageway carved into a gray mountain, flanked by towering bulwarks of seamless stone. A rusted iron portcullis blocked their way, and the arrow slits carved into the walls showed no signs of occupation.
 

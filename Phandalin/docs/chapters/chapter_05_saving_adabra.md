@@ -4,9 +4,7 @@ title: Saving Adabra
 ---
 # Chapter 5 Saving Adabra
 
-## 04-01 Taraskh 1495
-
-### Vukradin 
+## 05.01 Vukradin 03-02-Taraskh 1495
 
 Corbin stands before Vukradin. Corbin is a gaunt man in his late twenties, with the haunted, hollowed-out look of someone who has stared into the abyss and found it staring back. His hair is a matted, dirt-brown tangle, and a patchy, uncared-for beard clings to his jaw. His eyes, a pale blue, are often distant and unfocused, but can sharpen with a desperate, feral intensity when threatened. He wears ill-fitting leather armor scavenged from a dead man, and his movements are tinged with a weary resignation, punctuated by moments of nervous energy.
 
@@ -44,7 +42,7 @@ Corbin sees the spider and freaks out.
 
 Vukradin laughs, “That’s Soma, our tortle.’ 
 
-### Soma  
+## 05.02 Soma 03-02-Taraskh 1495
 
 This spider's body is fun. But I can’t communicate. I mean, I can, but only with other spiders. But seeing the world from this angle, with these eyes, teaches you so much about the natural world and the natural order. I smell things and see things and taste things that I didn’t know existed. It’s an explosion of senses. 
 
@@ -106,7 +104,7 @@ The manticore perks its head at us and can see us all.
 
 I missed my chance to talk to it.  
 
-### Valphine
+## 05.03 Valphine 03-02-Taraskh 1495
 
 The creature roars. I put one of the bolts in my hand crossbow, and target the creature. 
 
@@ -192,7 +190,7 @@ I stare in disbelief at my crossbow, frustrated.
 
 “YES\!\!\!” screams Brewbarry. He has killed the Manticore. 
 
-### Vukradin
+## 05.04 Vukradin 03-02-Taraskh 1495
 
 I cut off the creature’s head and then march to the windmill, the bloody head in tow. 
 
@@ -224,7 +222,7 @@ That doesn’t help us get her to come to town. She’s very determined to stay 
 
 There is a deeper agenda at play here—an agenda I don’t quite understand. 
 
-### Soma
+## 05.05 Soma 03-02-Taraskh 1495
 
 I am trying to make up lost time as a druid, and this woman has something about her. She looks at me. 
 
@@ -274,7 +272,7 @@ With the note in hand, I shrug and begin the long trek back, when of all people 
 
 Adabra squeals in delight, “Yes\! I will make a fantastic meal\! But I need help.” 
 
-### Valphine
+## 05.06 Valphine 03-02-Taraskh 1495
 
 Corbin arrives at the windmill. He looks even worse than he did before. And now he smells. 
 
@@ -308,7 +306,7 @@ The room is silent while Adabra makes a meal of hearty, fresh-baked bread, a veg
 
 Overbrighters make the best meals. It’s all because of Lathander’s glory\! The sun-god fuels the ground and the food, and it is \-just- tastier. 
 
-### Soma
+## 05.07 Soma 03-02-Taraskh 1495
 
 Soma was annoyed with Adabra. Her druidic master, Meril, had tried his best in his one year near her home. And it was his prompting that led her to follow Vukradin. Yes, there were gaps, but she didn’t have the time to train because she had so little time left. And to be reminded.
 
@@ -324,9 +322,7 @@ This man's journey through life was changed by visitors. He saw death and horror
 
 I think. And then I sleep. 
 
-## 04-01 Taraskah 1495 
-
-### Soma
+## 05.08 Soma 03-02-Taraskh 1495
 
 And am woken up by Adabra. 
 

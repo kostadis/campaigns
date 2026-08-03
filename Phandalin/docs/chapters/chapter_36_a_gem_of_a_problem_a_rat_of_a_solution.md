@@ -1,8 +1,8 @@
 ---
-chapter: 37
+chapter: 36
 title: A Gem of a Problem, A Rat of a Solution
 ---
-# Chapter 37 A Gem of a Problem, A Rat of a Solution
+# Chapter 36 A Gem of a Problem, A Rat of a Solution
 
 ---
 
@@ -82,7 +82,7 @@ The mine sat quiet at the mouth of the mountain, which was itself the problem.
 
 I noticed it before we were through the gate — that particular absence of sound that means something has gone wrong with money. No picks. No cart-wheels grinding on stone. No vibration in the earth under my feet, the deep percussion of work. Just wind, and the nervous shuffling of the Whiskered Gang, who were arranged outside the entrance in a way that suggested they had been standing there for some time doing precisely nothing.
 
-Zeleen Varnaster saw us coming and rearranged his face into something optimistic.
+Zeleen Varnaster saw us coming and rearranged her face into something optimistic.
 
 "Hey, boss\! What's up?"
 
@@ -90,7 +90,7 @@ I looked at him for a moment. I let the silence sit.
 
 "Are you working hard today?"
 
-It was a simple question. I delivered it the way you might read an inventory list — flat, procedural, without particular feeling. Zeleen's expression crumpled into something resembling a man watching his house burn down.
+It was a simple question. I delivered it the way you might read an inventory list — flat, procedural, without particular feeling. Zeleen's expression crumpled into something resembling a person watching their house burn down.
 
 "They've been working really hard. I promise you, boss, they've been working really, really hard."
 
@@ -150,7 +150,7 @@ Admirably direct. I followed through.
 
 "It means… pull your fingers out of your rat's ass, and do whatever is necessary for the dwarves to be happy miners. We want to hear picks."
 
-Zeleen looked between the two of us with the expression of a man searching for a loophole in a contract that contains no loopholes.
+Zeleen looked between the two of us with the expression of someone searching for a loophole in a contract that contains no loopholes.
 
 "Okay, so what does that mean? Like, so we can stay here then, right? Because you don't need the mine, right?"
 
@@ -168,7 +168,7 @@ He swallowed.
 
 "A waste of cheese," I said. "That's what you are. Unless you go into the forest, find the gem, get the bloody dwarves to mine. Is that how you want to be remembered?"
 
-There is a particular moment in any negotiation when the other person's will simply gives way. You can feel it — the shoulders drop a fraction, the eyes stop calculating. Zeleen reached that moment. He reached it loudly.
+There is a particular moment in any negotiation when the other person's will simply gives way. You can feel it — the shoulders drop a fraction, the eyes stop calculating. Zeleen reached that moment. She reached it loudly.
 
 "I think we could… we could make that happen, Mr. Boss. Mr. Right."
 
@@ -210,7 +210,7 @@ Brewbarry stared at her.
 
 Horia elected to propose a solution before that negotiating point was developed further.
 
-"I'm perfectly happy to have an addendum signed by Mr. Brewberry. Thumbprints."
+"I'm perfectly happy to have an addendum signed by Mr. Brewbarry. Thumbprints."
 
 "Alright, I'm out of ink. How about I draw a little blood from you, so we can sign that addendum?"
 
@@ -344,7 +344,7 @@ I held the staff a little tighter and said nothing more about it.
 
 Kaelen's attention had already shifted to Brewbarry, who had his halberd out in that way large people sometimes carry weapons — not threateningly, just present.
 
-"Is that a halberd?" Kaelen said, with the expression of a man who has opinions about polearms. "Because that is a very fine halberd, Brewberry. We should parry."
+"Is that a halberd?" Kaelen said, with the expression of a man who has opinions about polearms. "Because that is a very fine halberd, Brewbarry. We should parry."
 
 Brewbarry looked at him with the patience of someone who has had this offer before. "You don't want to have a conversation with it, trust me."
 

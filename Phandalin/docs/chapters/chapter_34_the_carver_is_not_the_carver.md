@@ -1,8 +1,8 @@
 ---
-chapter: 35
+chapter: 34
 title: The Carver is not the Carver
 ---
-# Chapter 35 The Carver is not the Carver
+# Chapter 34 The Carver is not the Carver
 
 ---
 
@@ -312,7 +312,7 @@ It had gotten what it wanted.
 
 The sword was already in my hand before Vukradin said it.
 
-"Brewberry, kill the dragon."
+"Brewbarry, kill the dragon."
 
 I didn't correct the name. There wasn't time, and also — he could call me whatever he wanted. He always could.
 

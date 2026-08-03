@@ -1,10 +1,8 @@
 ---
-chapter: 23
+chapter: 22
 title: From Retreat to Redemption (and Cheese)
 ---
-# Chapter 23 From Retreat to Redemption (and Cheese)
-
-## 
+# Chapter 22 From Retreat to Redemption (and Cheese)
 
 The party found themselves in a desperate situation at the Woodland Manse, battered from the first attack, a shapeshifting cultist of Talos unleashed devastating lightning upon them. Valphine called upon her divine powers to heal her companions, restoring their strength just as another Anchorite, disguised as a wild bull, struck Soma and Vukradin with crackling bolts of electricity. As more cultists emerged from within the house and the surrounding area, the party realized they were dangerously outnumbered.
 

@@ -1,8 +1,8 @@
 ---
-chapter: 28
+chapter: 27
 title: 'When the Machine Screams: A Family Affair'
 ---
-# Chapter 28 When the Machine Screams: A Family Affair
+# Chapter 27 When the Machine Screams: A Family Affair
 
 The party found themselves in a tense standoff with Valphine's sister, Aletra, who was working to extract a mysterious package from a broken planar machine. The room was covered in interplanar spider webs, and six Rift Weavers—spider-like creatures bound to the ceiling—stood guard over the malfunctioning device. Aletra explained that the machine had been a gift to her boss and was causing dangerous spatial anomalies throughout the area. She claimed they were in a "spatial equilibrium" and warned that if she couldn't retrieve her package, she had no reason to destroy the machine, leaving everyone to face the consequences of its catastrophic failure.
 
@@ -14,7 +14,7 @@ Soma's flaming sphere proved crucial in the fight, as the party discovered that 
 
 Brewbarry and Vukradin fought with devastating efficiency once the webs were cleared, their weapons cutting through the Rift Weavers with brutal precision. The creatures chittered in frustration as their attempts to restrain the party failed repeatedly, their webs burning away in the magical flames. One by one, the spiders fell, dissolving into crackling sparkles as they were destroyed. The remaining Rift Weavers became confused, torn between attacking Brewbarry and the malfunctioning machine itself, which was beginning to emit warnings of catastrophic failure.
 
-As the last of the Rift Weavers fell, Aletra successfully extracted a box containing vials of interdimensional poison—part of House Sartorra's illegal drug trade. She called out to Valphine, asking if she had the shutdown code and urging her to use it. With dark humor, Aletra remarked that she would hate to have to collect Valphine's body parts and bring them back to their mother, then admitted she unfortunately couldn't leave any evidence behind. She pressed a small device, opening a shimmering portal before her.
+As the last of the Rift Weavers fell, Aletra successfully extracted a box containing vials of interdimensional poison—part of House Sotorra's illegal drug trade. She called out to Valphine, asking if she had the shutdown code and urging her to use it. With dark humor, Aletra remarked that she would hate to have to collect Valphine's body parts and bring them back to their mother, then admitted she unfortunately couldn't leave any evidence behind. She pressed a small device, opening a shimmering portal before her.
 
 In a desperate attempt to stop her sister's escape, Valphine struck Aletra with a blinding curse. Though Aletra had positioned the portal directly in front of herself and managed to step through despite her sudden blindness, the spell caused her to fumble and drop several of the precious vials onto the ground. As she disappeared through the portal, she muttered something about "the boss" not being happy with this development. Aletra's final words acknowledged that Valphine had at least tried to stop her, which was better than simpering and crying like the last time, though she couldn't quite remember if Valphine had been moaning in pain or pleasure during that previous encounter.
 
