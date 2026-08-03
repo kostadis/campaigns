@@ -1,6 +1,6 @@
 ---
 name: gm-quest-log
-description: Build a player-facing quest log for the active campaign — every open promise, contract, errand, and personal thread the party currently knows about, reconstructed from session summaries rather than the grounding docs. Written in the voice of a party member who keeps notes, so it can be handed straight to players. Invoke when the user says "what quests do the players have open", "make a quest list", "player-facing quest log", "what are the party's open threads", "/gm-quest-log". Output goes to notes/handouts/quest_log.md. Player-knowledge only — never module trackers, dossiers, or GM secrets.
+description: Build a player-facing quest log for the active campaign — every open promise, contract, errand, and personal thread the party currently knows about, reconstructed from session summaries rather than the grounding docs. Written in the voice of a party member who keeps notes, so it can be handed straight to players. Invoke when the user says "what quests do the players have open", "make a quest list", "player-facing quest log", "what are the party's open threads", "/gm-quest-log". Output goes next to the campaign's existing player handouts. Player-knowledge only — never module trackers, dossiers, or GM secrets.
 ---
 
 # gm-quest-log
@@ -33,11 +33,34 @@ So:
 
 ## Required context (read in this order)
 
-1. `ls summaries/*/` — enumerate every session directory. Sessions are numbered dirs; the session doc inside is titled, not named `session-summary.md`, so glob for `summaries/*/*.md` rather than guessing a filename.
-2. Every session doc, **oldest first**. The `## Scenes` and `## NPCs` sections carry quest offers; `## Summary` carries the outcome.
-3. Any session dir with no session doc — check for `gm-assist.md` instead. A missing summary does not mean a missing session, and quests get handed out in exactly those gaps. (obelisk session 004 had no summary and contained two of the campaign's four paid contracts.)
-4. The campaign's opening doc if present (`notes/open.md`, `notes/session1_*.md`) — the founding job usually lives there and nowhere else.
-5. The four grounding docs, last, as a cross-check.
+1. `ls -d summaries/*/` — enumerate every session directory. **Directory naming varies by campaign**: obelisk uses numbered dirs (`004/`), Out of the Abyss uses dated ones (`20260727/`). The doc inside may be titled or may be literally `session-summary.md`. Glob `summaries/*/*.md` and look, rather than guessing either convention.
+2. **Check for an archive subdir** — `summaries/old/`, and watch for duplicate dirs with a `.old` or similar suffix holding a superseded cut of the same session. Enumerate before reading so you don't read a session twice or mistake a duplicate for an extra session. A fast `head -4` over every candidate file maps chapter numbers to dirs in one call.
+3. Every session doc, **oldest first**. The `## Scenes` and `## NPCs` sections carry quest offers; `## Summary` carries the outcome.
+4. Any session dir with no session doc — check for `gm-assist.md` instead. A missing summary does not mean a missing session, and quests get handed out in exactly those gaps. (obelisk session 004 had no summary and contained two of the campaign's four paid contracts.)
+5. The campaign's opening doc if present (`notes/open.md`, `notes/session1_*.md`) — the founding job usually lives there and nowhere else.
+6. The four grounding docs, last, as a cross-check.
+
+### Establish the summary coverage window first
+
+**`summaries/` may not go back to session one.** Out of the Abyss had 60 played chapters and summaries for only 46–60; everything before that lived exclusively in the narrative wing (`docs/chapters/`). Three genuinely open promises — two unclaimed truthful-answer boons from a ghost, an unpaid reward, a completed ritual the grounding docs still listed as unfinished — were all outside the window.
+
+So, after step 3: **note the earliest chapter the summaries cover.** If the campaign started before it, the pre-window history is in `docs/chapters/` (or whatever the campaign's authoritative narrative split is — check its `CLAUDE.md`).
+
+Do **not** read 45 chapter files. Grep them for promise-shaped language and read only the hits:
+
+```bash
+grep -rniE "boon|reward|promised|in exchange|owes|agreed to|asked (them|us|the party) to" docs/chapters/ | head -40
+```
+
+Then grep the specific proper nouns the later summaries or grounding docs mention as unresolved. Anything you cannot confirm from a chapter file does not go in the handout.
+
+## Match the campaign's existing handout format
+
+**Before writing, look for a player-facing handout this table has already seen.** Check the handouts dir, and ask the GM if one isn't obvious. If the players liked a prior format, that format wins over the template in this file.
+
+The template below is a *default*, not a house style. Out of the Abyss had an established player tracker built from dense tables with a "Your read" column, ⭐ markers on load-bearing facts, and per-part "where you're picking up next" blocks. The quest log was far more useful matching that than following this skill's prose-block shape — the players already knew how to read it.
+
+What to carry over from an existing handout: table-vs-prose density, how suspicion is marked, emphasis conventions, whether it addresses the party as *you* or is written as *we*. A GM-authored tracker addressed to the players says "you"; a quest log kept by a named party member says "we" — adapt rather than copy.
 
 ## Method: walk the timeline, log offers, then close them
 
@@ -85,7 +108,13 @@ If no character plausibly keeps notes, use a plain neutral log and say why in th
 
 ## Output shape
 
-Write to `notes/handouts/quest_log.md`. Create `notes/handouts/` if absent.
+**Resolve the location — do not assume `notes/handouts/`.** Campaigns differ, and a handout filed somewhere the GM doesn't look is a handout that doesn't exist.
+
+```bash
+find . -path ./.git -prune -o -type d -name handouts -print
+```
+
+Write next to the campaign's existing player handouts if that dir exists (Out of the Abyss keeps them in `notes/sessions/handouts/`). Only fall back to creating `notes/handouts/` when the campaign has no handouts dir at all. Name the file to match its neighbours — where siblings are `player_*.md`, use `player_quest_log.md`.
 
 ```
 # Quest Log
@@ -136,19 +165,20 @@ Section names should bend to the campaign. The shape is: **the spine, the paid w
 
 ## Steps
 
-1. Enumerate `summaries/*/` and read every session doc oldest-first. Check gap sessions for `gm-assist.md`.
-2. Read the opening doc for the founding job.
-3. Build the offer/closure ledger. Note every disagreement with the grounding docs.
-4. Run the leak checklist over the candidate list.
-5. Pick the narrator; read their voice file.
-6. Write `notes/handouts/quest_log.md`.
-7. **Report back to the GM separately** — see below. This part does not go in the file.
+1. Enumerate `summaries/*/` (including any archive subdir) and read every session doc oldest-first. Check gap sessions for `gm-assist.md`.
+2. Note the earliest chapter covered. If the campaign predates it, grep `docs/chapters/` for promise-shaped language and read only the hits.
+3. Read the opening doc for the founding job.
+4. Build the offer/closure ledger. Note every disagreement with the grounding docs.
+5. Run the leak checklist over the candidate list.
+6. Pick the narrator; read their voice file. Find and read any existing player handout, and match its format.
+7. Resolve the output location; write the file.
+8. **Report back to the GM separately** — see below. This part does not go in the file.
 
 ## The report-back is not optional
 
 The handout is a rendering of state; the GM is the only one who can confirm the state is right. End every run with a short list, in chat and not in the file, covering:
 
-- **Contradictions found** — where a grounding doc disagreed with a summary, and which one the log followed.
+- **Contradictions found** — where a grounding doc disagreed with a summary, and which one the log followed. **Report the same error once, at source, naming every doc carrying it.** Pipeline docs copy from each other: the Out of the Abyss run found "Jorlan is Daz's brother" in `world_state.md` and `party.md` when every summary made him the Duskryn *sisters'* brother — one error in three places, not three findings. Also flag when the grounding docs are pinned to a chapter the summaries have already moved past; that reframes every other disagreement.
 - **Genuine uncertainties** — things the summaries left ambiguous. The obelisk run surfaced barricaded bugbears that session 006 shut behind a door and session 007 never mentioned again; the log listed them as alive, flagged for the GM to overrule. State the assumption, don't silently pick.
 - **Anything omitted as a GM secret** that the GM might have intended the players to have.
 - **Continuity noise** — names spelled two ways across summaries ("Forepot" / "Foreput"), NPCs merged or split by transcription error. These belong in the spell-pass glossary.
