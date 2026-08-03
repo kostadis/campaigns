@@ -14,7 +14,6 @@ chapters_selected:
 - docs/chapters/chapter_13_confronting_adabra_and_learning_of_the_interventionists.md
 - docs/chapters/chapter_14_the_butterskull_quest.md
 - docs/chapters/chapter_15_freeing_big_al_petunia_and_watching_a_ranch_burn.md
-- docs/chapters/chapter_16_deals_with_harbin_and_sister_kayla_and_no_deal_with_jenna.md
 - docs/chapters/chapter_17_blood_money_clean_gold_and_fine_wine.md
 - docs/chapters/chapter_18_falcon_s_hoard_and_hidden_truths.md
 - docs/chapters/chapter_19_to_the_loggers_camp.md
@@ -65,7 +64,7 @@ paths:
   dossiers_glob: docs/ensemble/merged_dossiers/*.md
   npc_dossiers_glob: docs/ensemble/merged_dossiers/npc_*.md
   threads_out: docs/ensemble/threads.md
-  recent_events_out: docs/recent_events.md
+  drafts_dir: docs/ensemble/drafts
   inventory: ''
 tuning:
   chapter_parallel: 3
@@ -75,7 +74,6 @@ tuning:
   background_min_facts: 10
   dossier_recent_window: 4
   entity_parallel: 0
-  recent_events_window: 0
 merge:
   method: null
   embed_endpoint: http://192.168.1.147:11434/v1

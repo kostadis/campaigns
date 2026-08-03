@@ -15,7 +15,7 @@ Then it was the All-Father, god of the giants, who fantasized about a north that
 
 The sage KP found a piece of the artifact that he needed. The Kraken society was revealed and survived. The Lord’s Alliance grew in strength. The Storm Giant King Hekaton created an alliance between giants and the people of the realms. 
 
-As for Ilymrith, she escaped. 
+As for Iymrith, she escaped. 
 
 But twice, the plans of the gods had been thwarted[^1]. Twice, the gods had interfered. 
 
@@ -41,4 +41,4 @@ With the threat over and the elimination of the Barbarians from the hinterland, 
 
 In particular, the town of Phandalin. He needed the area cleared of monsters, cults, and evildoers to encourage settlement and growth. 
 
-Because of the costs of the wars, he decided to use adventurers, offering them tax-free no no-questions-asked plunder. One of those adventurers was an avant-garde[^3] musician whose music was underappreciated – Vukardin.
+Because of the costs of the wars, he decided to use adventurers, offering them tax-free no no-questions-asked plunder. One of those adventurers was an avant-garde[^3] musician whose music was underappreciated – Vukradin.

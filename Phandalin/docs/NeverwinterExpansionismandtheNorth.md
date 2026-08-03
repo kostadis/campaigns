@@ -12,7 +12,7 @@ Then it was the All-Father, god of the giants, who fantasized about a north that
 
 The sage KP found a piece of the artifact that he needed. The Kraken society was revealed and survived. The Lord’s Alliance grew in strength. The Storm Giant King Hekaton created an alliance between giants and the people of the realms. 
 
-As for Ilymrith, she escaped. 
+As for Iymrith, she escaped. 
 
 But twice, the plans of the gods had been thwarted[^1]. Twice, the gods had interfered. 
 
@@ -42,11 +42,7 @@ Because of the costs of the wars, he decided to use adventurers, offering them t
 
 # Chapter 2 Arrival in Phandalin 
 
-## 
-
-## 1/1 of Taraskh 1495
-
-### Vukradin 
+## 02.01 Vukradin 01-01-Taraskh 1495
 
 Vukradin’s music was once again not earning coin. An artist is never appreciated in his time, and yet an artist must eat. 
 
@@ -90,7 +86,7 @@ Vukradin stares at Brewbarry, “I am going on an adventure to make some money t
 
 Vukradin smiles, “Yes.” 
 
-### Valphine Sotorra 
+## 02.02 Valphine Sotorra 01-01-Taraskh 1495
 
 Valphine saw the Aasimar walk out of the bar and decided to follow him. She is a drow and a follower of Lathander. She is a paradox. 
 
@@ -120,9 +116,7 @@ Just outside the city limits, as they headed south, they encountered a tortle na
 
 “I know this land very well, and we will not go hungry.”  
 
-## 8/1 of Taraskh 1495
-
-### Soma 
+## 02.03 Soma 08-01-Taraskh 1495
 
 The journey to Phandalin was uneventful, if long. Since the end of the barbarian incursion, the High Road was safe. And the Triboar Trail was less secure, but if you looked tough, or broke, or a bit of both, one could avoid trouble. 
 
@@ -148,7 +142,7 @@ Vukradin asks if the local Lionshield Coster has all the goods they once had. So
 
 “They are now forced to rely on the same kind of suppliers that the rest of the market has to.” 
 
-### Vukradin
+## 02.04 Vukradin 08-01-Taraskh 1495
 
 “Let’s get some food.” 
 
@@ -190,9 +184,7 @@ Vukradin gets up, and as he packs his musical instruments, the Innkeeper says qu
 
 The Dwarven Prospectors
 
-## 8/1 of Taraskh 1495
-
-### Valphine Sotorra
+## 02.05 Valphine Sotorra 08-01-Taraskh 1495
 
 The townmaster’s hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. The job board next to the front door features a sparse number of notices, all written in Common and in the same hand.
 
@@ -222,9 +214,7 @@ After a long 15-mile hike through the hilly terrain surrounding the town of Phan
 
 “I see no dragon,” she mutters. 
 
-## 9/1 of Taraskh 1495
-
-### Soma
+## 02.06 Soma 09-01-Taraskh 1495
 
 After a long night’s sleep in her shell, Soma starts the journey to the canyon. Once there, she admires its rocky walls that rise to a height of eighty feet. At the canyon's end, a twenty-foot-high black stone wall has a broken gate carved into it, with one stone door hanging precariously by a hinge and the other door missing. Beyond this open gate, a ruined settlement lies in the shadow of a great mountain to the east. 
 
@@ -278,7 +268,7 @@ Dazlyn, seeing an opening, says, “We don’t have money, but we could give you
 
 Vukradin appears hesitant, and Soma wonders how to convince him, when Valphine steps in, “Sending stones would allow you to send your music between two locations.”
 
-### Vukradin 
+## 02.07 Vukradin 09-01-Taraskh 1495
 
 “The use of the sending stones would allow for some fascinating musical effects”, thinks the Bard. He wonders how he could use the effect in some of his more recent compositions to add a layer of depth he has found lacking. 
 
@@ -312,7 +302,8 @@ Vukradin agrees and starts to clear out the dirt, but as he does, rocks shift, a
 Stepping back, he looks around the room. His eyes now catch a feature he had missed. There are several protruding blocks. The blocks act as defensive positions for someone to defend the hallway from someone coming from the direction of the rubble. 
 
 Vukradin, “This room was cut in half. There may be a way to get around here from the other side.”   
-Valphine Sotorra 
+
+## 02.08 Valphine Sotorra 09-01-Taraskh 1495
 
 Valphine wasn’t evil. No, that’s not what she was. She was a product of Drow society. And in Drow society, niceties like good and evil were a privilege. She was a survivor, and more importantly, she was alive.
 
@@ -362,7 +353,7 @@ The Orcs, seeing the halberd, choose to throw a javelin rather than get closer, 
 
 Valphine is surrounded, and she can feel this battle slipping away. From the corner of her eye, she sees Soma cast ice knife, and the blade flies towards her. The last thing she remembers is the pleasure of the ice hitting her body, ripping the skin apart, and the blood flowing out. 
 
-### Soma
+## 02.09 Soma 09-01-Taraskh 1495
 
 “Shit.” 
 
@@ -386,9 +377,7 @@ Soma, used to the sounds of the swamps near Neverwinter, didn’t know what to m
 
 But she had a shell she could retreat into, and when she did that, she could block out any sound she didn’t like. 
 
-## 10/1 of Taraskh 1495
-
-### Vukradin 
+## 02.10 Vukradin 10-01-Taraskh 1495
 
 The march back to Phandalin through the hilly terrain between the Sword Mountains and Phandalin was easy enough, giving him time to think. 
 
@@ -432,7 +421,7 @@ And then the battle is over. Vukradin emerges from his hiding hole and sees Brew
 
 He watches as Soma searches the corpse and picks up something. He chooses to ignore what he sees. 
 
-### Valphine Sotorra 
+## 02.11 Valphine Sotorra 10-01-Taraskh 1495
 
 “Once again in Phandalin,” she thinks. 
 
@@ -460,7 +449,7 @@ Harbin pauses, “His lordship guarantees every adventurer tax-free plunder\!”
 
 And Valphine sighs as he listens to Vukradin’s diatribe about how adventurers are glorified thugs and goons stealing without regard to what is right and what is wrong.
 
-###  Valphine 
+## 02.12 Valphine 10-01-Taraskh 1495
 
 “The townmaster is very upset.” She wants to ask, but Vukradin has already left. 
 
@@ -492,9 +481,7 @@ Toblen Stonehill, the proprietor, once again convinces Vukradin to play some mus
 
 Valphine looks around at the locals and decides that they have nothing of interest to share with her. And just sits and enjoys the music. 
 
-## 1/2 of Taraskh 1495
-
-### Soma 
+## 02.13 Soma 01-02-Taraskh 1495
 
 The next morning, Soma once again heads out into the wilderness, towards the gnomish outpost of Gnomengarde. “The job is simple enough”, she thinks, “go there, get something that might be useful against dragons. And if we don’t think it's useful, but the gnomes do, sell it to the Townmaster for fifty gold.” 
 
@@ -528,13 +515,9 @@ The Ogre charges at Brewbarry, who misses. The Ogre, in turn, misses the large b
 
 Valphine then uses one of the magical bullets Brewbarry found on the last Ogre to knock it prone. 
 
-# 
-
 # Chapter 3 To find a shapeshifter
 
-## 02-01 of Taraskh 1495 
-
-### Valphine
+## 03.01 Valphine 01-02-Taraskh 1495
 
 “The ogre is prone on the ground under the sun. Like Lathander obliterates the darkness with his light, I will smash his body,” Valphine thinks, her muscles tensing, a grim determination set on her face. The morning sun, usually a source of warmth and comfort, now illuminates the brutish form of their downed foe, a testament to the battle that has raged through the early hours. She sees an opportunity, a chance to end this struggle decisively.
 
@@ -562,7 +545,7 @@ Valphine is surprised by Vukradin’s answer, a calm, almost philosophical respo
 
 Valphine looks over the body and finds a whistle, some coins, and a key. 
 
-### Soma
+## 03.02 Soma 01-02-Taraskh 1495
 
 The rest of the journey to Gnomengarde is uneventful. Soma finds the river that leads to the gnomish hold. At the end of the river is a waterfall whose erosion of the rock has created a natural concavity. The roaring waterfall creates a cloud of mist as it plunges into a shallow pool of water, within which rise two small islands covered with two-foot-tall red, green, and purple mushrooms. Several cave openings overlook the pool from rocky ledges twenty to thirty feet above. The mountain blocks any sunlight from reaching this place. 
 
@@ -638,7 +621,7 @@ At that, the female gnome smiles, “Oh, that’s so much better. There used to 
 
 Soma stares in disbelief, “Bureaucracy saved us.” 
 
-### Vukradin
+## 03.03 Vukradin 01-02-Taraskh 1495
 
 “I want to learn more about our new friends. Tell me, friends, who are you? Do you like music? I am a bard.”
 
@@ -672,7 +655,7 @@ Once he’s climbed the walls, he enters a large cave that is strewn with the re
 
 To the south is the entrance to the laboratory of the gnomes. 
 
-### Valphine
+## 03.04 Valphine 01-02-Taraskh 1495
 
 The Drow cleric stares at the two gnomes arguing. She is familiar with these debates among inventors, arguing over details that don’t matter. 
 
@@ -712,7 +695,7 @@ Dabbledob sighs, “Music has helped in some circumstances.”
 
 Vukradin asks if they have a piano, and Fiddelstib regretfully says no, but offers to build one. “It won’t be a normal piano\! But it will play music.” 
 
-### Vukradin
+## 03.05 Vukradin 01-02-Taraskh 1495
 
 “Let’s go talk to the king.” 
 
@@ -766,7 +749,7 @@ Vukradin ponders the distasteful nature of such a deal, counts the 50 gold in hi
 
 The bard and his friends go through the room with the spinning blades, this time disabling the blades , then cross the bridge, and arrive where Pog and Ulla are sitting. 
 
-###  Valphine
+## 03.06 Valphine 01-02-Taraskh 1495
 
 Valphine, who knows about more dangerous shapeshifters in the Dark Realms, stares at the two gnomes, convinced they must be the shapeshifters. 
 
@@ -802,9 +785,7 @@ She smiles and repeats a rhyme she remembers from her youth, “Sticks and stone
 
 # Chapter 4 The Bard, the Kings, and the Carver
 
-## 02-01  of Taraskh 1495 
-
-###  Vukradin 
+## 04.01 Vukradin 01-02-Taraskh 1495
 
 Vukradin, ever the theatrical one, taunts the grotesque creature before them. “We have it outnumbered\! It’s stunned\! We shall kill it before it lays a hand on us\!” His voice booms, filled with an almost reckless confidence that, at times, borders on delusion.
 
@@ -834,7 +815,7 @@ Brewbarry, realizing his oversight, thumps his head with a meaty hand, a moment 
 
 And then, with a final, decisive strike, Soma finishes it off, her earlier philosophical musings giving way to efficient, deadly action. The unnatural creature, a temporary blight on the material world, is no more.
 
-## Soma 
+## 04.02 Soma 01-02-Taraskh 1495
 
 “Let’s see what else is here,” I muttered.
 
@@ -862,7 +843,7 @@ But I kept my mouth shut.
 
 And followed Vukradin to the King’s room, where we were to receive our prize.
 
-### Valphine
+## 04.03 Valphine 01-02-Taraskh 1495
 
 I watch as Vukradin attempts to negotiate with the two Kings. And I sigh.
 
@@ -938,7 +919,7 @@ Vukradin tries to create more chaos, like a good Drow, and says, “I think you 
 
 But the two inventors are more interested in building a tamper-proof voting box. Or rather, arguing over whether such a thing is possible.
 
-### Soma
+## 04.04 Soma 01-02-Taraskh 1495
 
 The tortle is pleased that she is a guide for Vukradin. His tab continues to grow, and at some point, she will want to be paid, but she is fine for now. 
 
@@ -954,9 +935,7 @@ The Bard perks up, for he, too, had heard of this play. It had had a spectacular
 
 The tavern keeper looks at him, “I am not sure where you would go to find the script, but Triboar is as good a place as any.” 
 
-## 03-01  of Taraskh 1495 
-
-### Valphine
+## 04.05 Valphine 02-02-Taraskh 1495
 
 I was annoyed. We were going to save a woman’s life, at our risk, for a mere 25 gold. It seemed absurd. But Lathander’s Cleric had cautioned me about this.
 
@@ -990,7 +969,7 @@ But I dismiss this.
 
 I am not in the Dark Realms, worried about every shadow. 
 
-### Soma 
+## 04.06 Soma 02-02-Taraskh 1495
 
 Bandits. Yes, the noise is bandits. Valphine had this tense look on her face, but said nothing. Maybe she sensed something? Perhaps she didn’t. But these bandits would have gotten the jump on us if they had not made so much noise. 
 
@@ -1034,7 +1013,7 @@ And so I turn my head to that poor bandit who was afraid of spiders. And there i
 
 I sit down. 
 
-### Brewbarry 
+## 04.07 Brewbarry 02-02-Taraskh 1495
 
 My rage consumes me. And yet, there is something about this man’s fear. And I think that he has lost his tribe. And I feel sadness. 
 
@@ -1050,7 +1029,7 @@ The man stares at me, a look of confusion on his face. He was expecting to die, 
 
 The man stares and says, “They pillaged my village, destroyed everything.” He looks at me and sobs, “I had no money, nothing. I am not a bad person. I don’t want to steal things. It’s the Carver’s fault.”
 
-### Vukradin 
+## 04.08 Vukradin 02-02-Taraskh 1495
 
 The bandit has a boss. I must learn more. 
 
@@ -1064,7 +1043,7 @@ He looks at me like a puppy who has found its momma. I smile. And then he asks, 
 
 I smile, “Of course.” 
 
-### Soma
+## 04.09 Soma 02-02-Taraskh 1495
 
 There’s a scroll. I pick it up. It has a druidic spell. 
 
@@ -1076,9 +1055,7 @@ Am I any better than a bandit if I keep this?
 
 # Chapter 5 Saving Adabra
 
-## 04-01 Taraskh 1495
-
-### Vukradin 
+## 05.01 Vukradin 03-02-Taraskh 1495
 
 Corbin stands before Vukradin. Corbin is a gaunt man in his late twenties, with the haunted, hollowed-out look of someone who has stared into the abyss and found it staring back. His hair is a matted, dirt-brown tangle, and a patchy, uncared-for beard clings to his jaw. His eyes, a pale blue, are often distant and unfocused, but can sharpen with a desperate, feral intensity when threatened. He wears ill-fitting leather armor scavenged from a dead man, and his movements are tinged with a weary resignation, punctuated by moments of nervous energy.
 
@@ -1116,7 +1093,7 @@ Corbin sees the spider and freaks out.
 
 Vukradin laughs, “That’s Soma, our tortle.’ 
 
-### Soma  
+## 05.02 Soma 03-02-Taraskh 1495
 
 This spider's body is fun. But I can’t communicate. I mean, I can, but only with other spiders. But seeing the world from this angle, with these eyes, teaches you so much about the natural world and the natural order. I smell things and see things and taste things that I didn’t know existed. It’s an explosion of senses. 
 
@@ -1178,7 +1155,7 @@ The manticore perks its head at us and can see us all.
 
 I missed my chance to talk to it.  
 
-### Valphine
+## 05.03 Valphine 03-02-Taraskh 1495
 
 The creature roars. I put one of the bolts in my hand crossbow, and target the creature. 
 
@@ -1264,7 +1241,7 @@ I stare in disbelief at my crossbow, frustrated.
 
 “YES\!\!\!” screams Brewbarry. He has killed the Manticore. 
 
-### Vukradin
+## 05.04 Vukradin 03-02-Taraskh 1495
 
 I cut off the creature’s head and then march to the windmill, the bloody head in tow. 
 
@@ -1296,7 +1273,7 @@ That doesn’t help us get her to come to town. She’s very determined to stay 
 
 There is a deeper agenda at play here—an agenda I don’t quite understand. 
 
-### Soma
+## 05.05 Soma 03-02-Taraskh 1495
 
 I am trying to make up lost time as a druid, and this woman has something about her. She looks at me. 
 
@@ -1346,7 +1323,7 @@ With the note in hand, I shrug and begin the long trek back, when of all people 
 
 Adabra squeals in delight, “Yes\! I will make a fantastic meal\! But I need help.” 
 
-### Valphine
+## 05.06 Valphine 03-02-Taraskh 1495
 
 Corbin arrives at the windmill. He looks even worse than he did before. And now he smells. 
 
@@ -1380,7 +1357,7 @@ The room is silent while Adabra makes a meal of hearty, fresh-baked bread, a veg
 
 Overbrighters make the best meals. It’s all because of Lathander’s glory\! The sun-god fuels the ground and the food, and it is \-just- tastier. 
 
-### Soma
+## 05.07 Soma 03-02-Taraskh 1495
 
 Soma was annoyed with Adabra. Her druidic master, Meril, had tried his best in his one year near her home. And it was his prompting that led her to follow Vukradin. Yes, there were gaps, but she didn’t have the time to train because she had so little time left. And to be reminded.
 
@@ -1396,9 +1373,7 @@ This man's journey through life was changed by visitors. He saw death and horror
 
 I think. And then I sleep. 
 
-## 04-01 Taraskah 1495 
-
-### Soma
+## 05.08 Soma 03-02-Taraskh 1495
 
 And am woken up by Adabra. 
 
@@ -1446,9 +1421,7 @@ I notice that Vukradin has the look of a child who heard he was going to get his
 
 # Chapter 6 Vukradin, Rank Cheval 
 
-## 04-01 Taraskh 1495
-
-### Soma
+## 06.01 Soma 03-02-Taraskh 1495
 
 The sun shines, the walk is long and Adabra feels the need to talk. 
 
@@ -1470,7 +1443,7 @@ But Adabra assures him he was never a barbarian; he was a nomad.
 
 I am worried that this will continue for hours, so thankfully, Vukradin decides to play some music, and this time the music is good.  
 
-### Vukradin
+## 06.02 Vukradin 03-02-Taraskh 1495
 
 Valphine wanted to play her musical instrument along with me. That may not work for me. Although this time, it added a particular color and texture that elevated my composition to art. Perhaps, we can find a way to collaborate as long as she recognizes her role in our duo. 
 
@@ -1492,7 +1465,7 @@ She takes a deep breath and continues, “Those who protect us must do so with a
 
 I notice how she just skips over Valphine, as if she doesn’t exist. Or is it that something about Valphine annoys her? Is it because she is a Drow? 
 
-### Valphine
+## 06.03 Valphine 03-02-Taraskh 1495
 
 Lathander’s light will guide me even if this woman chooses to ignore me. If I were a cleric of Lolth, or if I were in my noble house, she would be dead. But I have moved past that world.  
 
@@ -1534,7 +1507,7 @@ When we are done, there is applause.
 
 Vukradin looks at me and says, “Perhaps we should play together.” 
 
-### Soma
+## 06.04 Soma 03-02-Taraskh 1495
 
 As I sit and watch the child Vukradin and Valphine, the oddest of pairings, play music, I think about the forest and my children. 
 
@@ -1552,7 +1525,7 @@ Poor Silverleaf, his pitch was wonderful, but he didn’t realize that Vukradin 
 
 Silverleaf is in shock and apologizes for offending. Vukradin is on a roll, and I feel for the old elf, but at the same time, lessons need to be learned. 
 
-### Vukradin
+## 06.05 Vukradin 03-02-Taraskh 1495
 
 This is why adventuring is wrong. When is it a monster? And when is it a poor farmer that you plundered? It’s plunder, and there is no blurry line that makes it right under some circumstances. 
 
@@ -1614,7 +1587,7 @@ Maybe if I tell him what I want, “It would be better if I had a music studio?�
 
 “I am offering something else. What? Imagine what your voice and story would accomplish with the backing of our order. Yes, you can motivate hundreds, but with our backing, you would be known to tens of thousands.” 
 
-### Valphine 
+## 06.06 Valphine 03-02-Taraskh 1495
 
 I know this kind. And he quickly explains that his order was instrumental in the War of the Dragon. He brags that one of their order, Milo Goodbarrel, was the leader of the strike force that made it to the inner sanctum and stopped the ritual. 
 
@@ -1634,7 +1607,7 @@ I wonder about that.
 
 Vukradin is then told he will receive a pin, and I know the Aasimar will try to sell it, but it’s worth nothing. He's then instructed to continue being true to his mission and opposing the senseless killing and plundering. 
 
-### Brewbarry
+## 06.07 Brewbarry 03-02-Taraskh 1495
 
 Order of Gauntlet. I know them. They fought against my tribe. They killed many. They were proud, dangerous, and ferocious warriors. 
 
@@ -1652,7 +1625,7 @@ I want to hit him.
 
 “Spiderman brings four.”  
 
-### Soma
+## 06.08 Soma 03-02-Taraskh 1495
 
 Vukradin is waiting for a tiny pebble to push him over the edge, and Ser Kaelen provides him with the stone. “Being a member of the order of the gauntlet will get your music out to more people and your message to more people. The combination of your personal story and your celestial origins will be tremendous.”  
 
@@ -1662,9 +1635,7 @@ But he has already said yes.
 
 Ser Kaelen responds, “Know this, you are a brother. And when we reach out for help, you must come to us as a brother. And as your brothers, we will come to your help\!” 
 
-## 05-01 Taraskh 1495
-
-### Soma
+## 06.09 Soma 03-02-Taraskh 1495
 
 The shell-sprout is happy. He is part of a family. A family he doesn’t know that wants things he can’t imagine. But now he wants to go on an adventure. 
 
@@ -1706,9 +1677,7 @@ Ser Kaelen is delighted to see us. He hears our story and says, “I am delighte
 
 # Chapter 7 Conflict-free gold, a curious side quest, and a delightful ambush. 
 
-## 05-01-Taraskh 
-
-### Vukradin
+## 07.01 Vukradin 03-02-Taraskh 1495
 
 And so we leave for the Tower of Storms. As we round a bend, we spot a small, overturned trade cart, partially obscured by thick undergrowth. Huddled nervously behind it are two figures – a middle-aged human merchant, Elara, and her groom, Jarek. They look visibly shaken and disheveled, their pack horses nowhere in sight.
 
@@ -1784,9 +1753,7 @@ Adabra mutters something about interventionists and the Emerald Enclave. Soma li
 
 I hope she asked for money. 
 
-##  08-01 Taraskh 
-
-###  Valphine 
+## 07.02 Valphine 07-02-Taraskh
 
 The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our trek towards the Tower of Storms. It was a journey of a few days, each one a test of my patience for surface world banalities.
 
@@ -1837,7 +1804,7 @@ How beautiful this battle had become.  A moment of joy, yet also pain. An ambush
 
 # Chapter 8 The Tower of Storms: Echoes, Art, and the Serpent's Coil
 
-### Vukradin's Perspective
+## 08.01 Vukradin's Perspective 07-02-Taraskh 1495
 
 The wind whips around us as we approach the Tower of Storms, a grim sentinel on its rocky perch. The air immediately fills with discord: three harpies descend, their songs a cacophony that grates on my ears. Before I can process their screeching, one of them, a male harpy dressed in grey rags, begins to sing, and I see Valphine and Brewbarry succumb, a vacant look in their eyes as they become charmed.
 
@@ -1853,7 +1820,7 @@ Our exploration leads us to a 15-foot-high empty room. Through a dirty window, I
 
 Deeper within the tower, a battle against Moesko, the Orc Anchorite, begins. After Soma transforms into a brown bear and lands some hits, I seize the opportunity to cast Cloud of Daggers, conjuring whirling blades that trap Moesko within a 5-foot cube, inflicting 9 initial damage. He'll take more damage if he stays there. This combat is certainly more dramatic than the harpies, an actual test of our combined talents, if not our sanity, as Moesko responds with a devastating Lightning Bolt and Thunderwave.
 
-### Soma's Perspective
+## 08.02 Soma's Perspective 07-02 Taraskh 1495
 
 The harpies are a nuisance, their songs a crude manipulation of emotions. As Vukradin's Silence spell takes effect, I see the charm break on Valphine and Brewbarry. This is effective, but these creatures are not bright, so they'll likely continue trying if we leave the sphere of silence.
 
@@ -1871,7 +1838,7 @@ The battle begins. I open with a minor poison spray attack, then, sensing the ne
 
 Brewbarry, finally finding his footing, charges Moesko and hits him for some damage, bringing the anchorite down to death’s door. The tight corridor of the tower makes my bear form cumbersome, so I revert. I deliver the final strike, ending the Orc Anchorite's threat.
 
-### Valphine's Perspective
+## 08.03 Valphine's Perspective 07-02-Taraskh 1495
 
 Upon arriving at the Tower of Storms, the air is thick with the cloying, clashing melodies of three harpies. My instincts, honed in the subtle cruelties of the Underdark, scream danger. Immediately, I am charmed by the male harpie’s song, a disorienting, unpleasant sensation. Thankfully, Vukradin's Silence spell descends, cutting off the offending music and freeing me from its influence.
 
@@ -1889,9 +1856,11 @@ Brewbarry, to my surprise, manages to charge Moesko and lands a hit for some dam
 
 # Chapter 9 The Beating Heart of the Storm and Whispers from the Deep
 
+## 09.01 Soma 07-02-Taraskh 1495
+
 The salty tang of the sea still clung to our gear as we descended deeper into the Tower of Storms, leaving the broken sirens and the eerie calm of the upper levels behind us. Moesko, the dark cleric, lay defeated, but there was still a sense of unease that settled over us.
 
-### Soma
+## 09.02 Soma 07-02-Taraskh 1495
 
 My eyes scanned Moesko’s lifeless form. He had been a formidable foe, but now he was just a collection of secrets waiting to be uncovered. There was a strange hole in his chest, a peculiar detail that reminded me of some macabre tale, perhaps from a fever dream or a whispered legend. My gaze then fell upon an opalescent conch resting nearby, its subtle shimmer hinting at its significance. This, I knew, was what Miral sought.
 
@@ -1909,7 +1878,7 @@ After the struggle, I realized the waterlogged timber from the wrecks was unsuit
 
 When Miraal appeared to claim her conch, it was quick, almost too quick. "We didn't die\! Yeah, and check out this cool cloak we found\! You know who owns it?" I asked the giant crab, proud of our finds. He then pointed to the halberd, claiming it as the treasure he was going to get for us. It was a bit rich, but I'm not one to look a gift crab in the mouth. Later, as we shared the cooked shark meat, I reflected on the day. I might not be a purist, but I was definitely a survivor, and I had quite the story (and a shark tooth necklace, soon enough) to show for it.
 
-### Vukradin
+## 09.03 Vukradin 07-02-Taraskh 1495
 
 The grim truth of Moesko's defeated form settled heavily upon me. I believe, fundamentally, in the sanctity of earned possessions. All this treasure feels like stolen merchandise, and I’m determined to find its rightful owners. I am a musician, after all, not a common thief, and I just wanna make a music studio, and I want to do it without stealing something\! My companions, especially Soma, seem less bothered by such ethical quandaries, but to me, the integrity of our actions is paramount.
 
@@ -1931,7 +1900,7 @@ Miral, the sea elf's ghost, finally manifested as we presented her conch. "Thank
 
 The giant crab appeared, offering his gratitude for the sharks we'd dispatched. He then noticed Brewbarry's new halberd. "My, yes, you did in fact find the treasure I was going to get for you," he said. "What the hell is that?" I exclaimed, turning to Brewbarry. "He just said it was a treasure that he was gonna go get for you. Where'd you get it?" I tried to persuade him: "What are you doing? You can't use that." It was frustrating, but Brewbarry, as ever, seemed unmoved. I also noted that the shark meat we had was lawfully earned, which allowed us to enjoy it. The magical cloak Soma tried to foist on me, even though it was fashionable and changed colors, I politely but firmly refused. It was not mine to take, no matter how much it tempted me.
 
-### Valphine
+## 09.04 Valphine 07-02-Taraskh 1495
 
 Moesko was dead. A moderately successful priestess of Lolth in my former life, I had a keen eye for power dynamics and intrigue, even if my sisters thought me soft for lacking their glee in mayhem. Here, among these surface dwellers, the concept of "loot splitting" was still a subject of contention. "The way I look at it is the party is going to have a four-way treasure split three ways most of the time," I observed, an internal calculation honed by years of drow politics. Personally, I am not a loot whore or a gold digger; I’m just a simple pleasure kind of gal, so the squabbling over gold was amusing, if a bit tiresome.
 
@@ -1947,9 +1916,7 @@ Back on shore, with the immediate threats neutralized, I turned my attention to 
 
 # Chapter 10 Phandalin: Old Debts and New Suspicions. 
 
-### 
-
-### Vukradin 
+## 10.01 Vukradin 07-02-Taraskh 1495 
 
 “I need to go back to Phandalin to take care of some unfinished business.” 
 
@@ -1999,11 +1966,7 @@ Valphine rolls her eyes, “When you put on the pin of the Order of the Gauntlet
 
 “And neither does she.” 
 
-### 
-
-## 09-01 Taraskh 1495
-
-Soma
+## 10.02 Soma 08-02-Taraskh 1495
 
 We arrive in Phandalin and stand in front of the Town Master’s house. The Shell Sprout is upset. As for me, I am here to guide him wherever he wants to go. And I know that this unrooted sprout will never grow the kind of roots he needs. 
 
@@ -2057,7 +2020,7 @@ Vukradin is annoyed, “Well maybe we won’t deal with the whispering woods.”
 
 I look at him and think echo-ignorer. 
 
-### Valphine 
+## 10.03 Valphine 08-02-Taraskh 1495
 
 After our bizarre exchange with Adabra, we head to the Lionshield Coster, where the proprietor Linene Graywind explains to Vukradin that, unfortunately, due to events that he can’t get into, the Lionshield Coster cannot offer the same rich services it used to provide. 
 
@@ -2099,7 +2062,7 @@ A warning if there ever was one. A warning that even Vukradin figures out.
 
 “Let’s go talk to Ser Kaelen.”
 
-### Vukradin
+## 10.04 Vukradin 08-02-Taraskh 1495
 
 When we walk into the Stonehill Tavern, Ser Kaelen is delighted to see us. 
 
@@ -2156,7 +2119,7 @@ I stare at her.
 
 “Fine.” 
 
-### Soma 
+## 10.05 Soma 08-02-Taraskh 1495
 
 The shell-sprout is not done talking. 
 
@@ -2223,9 +2186,7 @@ Valphine mutters, “And please make sure to ask them about the secret code in t
 
 I look at her and realize she knows what I know, that Ser Kaelen can’t be trusted. 
 
-## 10-01-1495 Taraskh
-
-### Valphine  
+## 10.06 Valphine 09-02-Taraskh 1495
 
 And so we spend the next few hours playing music. At first, Vukradin plays alone. And when he stops, waiting to see if anyone will pay, two silver pieces are dropped at his table. He seems pleased. I ask if I can join him, and he says yes. 
 
@@ -2272,13 +2233,13 @@ Vukradin seems satisfied, but I am not.
 
 “Let’s go make Soma happy.” 
 
-### Soma
+## 10.07 Soma 09-02-Taraskh 1495
 
 As we head out to the whispering grove, the staff that Merill gave me suddenly feels alive. Some magic inside it was unlocked. 
 
 # Chapter 11 The stag, the brambles, the wolves, and the pool.  
 
-### Soma
+## 11.01 Soma 10-02-Taraskh 1495
 
 There are no signs of rotting trees or obvious blight in the Whispering Wood. And yet, I can feel something is different about this place. 
 
@@ -2304,7 +2265,7 @@ Then, with an abrupt change of subject, the stag asks if we have "anything to ea
 
 With this new lead, we decide to head towards the center of the forest. As I lead the group, I keep thinking about the stag. Something unnatural festers here.
 
-### Valphine  
+## 11.02 Valphine10-02-Taraskh 1495
 
 My drow senses, accustomed to the subtle currents of intrigue and the raw, often terrifying, distortions of the Underdark, hummed with an uncomfortable awareness. Soma seemed unconcerned. I felt at home. 
 
@@ -2322,7 +2283,7 @@ Soma transforms into a bear and strikes the bushes. Vukradin follows with a biti
 
 And then the bramble stops moving. Brewbarry and the Bear have rendered it inert. We move through it before it can reanimate. 
 
-###  Vukradin   
+## 11.03 Vukradin 10-02-Taraskh 1495
 
 We faced some wolves. They had an unnatural howl that rooted me to the spot. And their eyes glowed. Others may say it is fear. I say it was magic. The creatures were quickly defeated, and then we took their pelts. 
 
@@ -2376,7 +2337,7 @@ As we walk closer to the center, the whisper about numbers keeps poking at my mi
 
 # Chapter 12 Naturalists and Interventionists
 
-### Soma
+## 12.01 Soma 10-02-Taraskh 1495
 
 The air itself tastes wrong as we push through the last line of dense trees and step into the clearing. It’s perhaps sixty feet across, but something here is fundamentally off. My fur, thick and protective in this bear form, prickles with an unease that goes beyond simple predator instinct. The woods surrounding us don’t lean; they *twist*, their bark gleaming like polished obsidian under the faint, sickly light filtering through a canopy that looks less broken and more *fractured*.
 
@@ -2404,7 +2365,7 @@ Adabra said that there was a blight and that the interventionist had to be stopp
 
 Is this strange magic the blight? Where are those who are intervening? Are they the Emerald Enclave?
 
-### Valphine
+## 12.02 Valphine 10-02-Taraskh 1495
 
 My drow eyes, ever keen to the subtle distortions of reality, watch Soma – still in her bulky bear form – lumber towards the blighted brambles. Her brute force approach is, at least, direct, a refreshing change from Vukradin's performative posturing. The thorny tendrils lash out, predictably. I see them strike her, and though she is a sturdy creature, I note the faint wince, the minor disruption to her composure as four points of damage are inflicted. It is a taste of pain, perhaps not gloriously searing, but present nonetheless.
 
@@ -2424,7 +2385,7 @@ I unleash a Guiding Bolt, a focused spear of pure light, directly at the still-r
 
 A tactical advantage. A demonstration of focused, directed pain. This is the beauty of Lathander's power as I perceive it: not a gentle warmth, but a potent, purifying fire that cuts through corruption and illuminates the path to victory. It is gloriously painful in the lights, a sensation that still thrills me to my core. The surface dwellers may not understand my devotion, but its efficacy in battle is undeniable.
 
-###  Vukradin
+## 12.03 Vukradin 10-02-Tarksh 1495
 
 The grotesque dance continues, a discordant movement in this wretched grove. My *Starry Whip*, a personal composition of biting starlight, lashes out at the corrupted Treant. A satisfying, if not exactly operatic, blow. It connects, which is always preferable to a mere command performance.
 
@@ -2440,7 +2401,7 @@ It's my turn again. The second enclave warrior, poor soul, is at death's door. P
 
 Brewbarry follows, who, for all of his behavior, seems to have a deep wellspring of wisdom, attempts a ritual... Another success. Three successes, one failure. We're practically proficient\! But then Soma, with a clumsy flourish, tries and fails. Our second ritual failure. Before I can even process the dramatic irony, Soma and the first Enclave Warrior deliver the final, unceremonious blows to the Treant. The corrupted guardian falls, not with a bang, but with a whimper of poison and arrows—a rather inelegant final cadenza.
 
-### Soma 
+## 12.04 Soma 10-02-Taraskh 1495
 
 The tree dies. And the ritual is not yet finished. I see one of the stones. I will do the ritual.
 
@@ -2540,7 +2501,7 @@ I must go and talk to her.
 
 # Chapter 13 Confronting Adabra and learning of the Interventionists.  
 
-### Soma
+## 13.01 Soma 01-03 Taraskh 1495
 
 I feel like a shell sprout, wet from the nest, a child that has been taken advantage of. I trusted Adabra. And she took advantage of my trust to get me to stop the people who were trying to save our plane. 
 
@@ -2584,9 +2545,7 @@ When Lyra is about to go on some long-winded rant, Vukradin again manages to def
 
 But this time, Lyra is fed up and shouts, “If you cannot see the evil this woman represents and her fanaticism and its danger, then you are all fools.” 
 
-### Vukradin
-
-### 
+## 13.02 Vukradin 01-03 Taraskh 1495
 
 I just want to be friends with everyone. I don’t understand why people are so full of hate. I mean, I used to think that the key to everything was to play music that was better than my audience, but now I realize that playing popular music is the way to their hearts. And I just want them to love me. 
 
@@ -2654,7 +2613,7 @@ Adabra is pleased and hands me five conflict-free gold pieces.
 
 She continues for some time in some kind of ecstasy, saying words that mean nothing, about planes, and designs, and universalism, and I am bored. Soma later on tells me that she was spouting nonsens that was meaningless. I try hard not to say, “Well, I already knew that.” 
 
-### Valphine 
+## 13.03 Valphine 01-03 Taraskh 1495
 
 Adabra is a zealot. I have seen her kind and how they worship Lolth, convinced that there is some greater purpose to the universe, that the demonic powers they worship will grant them power, or that by serving them, they are serving some enduring power. 
 
@@ -2692,7 +2651,7 @@ They sit at our table after Vukradin invites them. And then he starts with the q
 
 The oldest among them drinks from the beer that Spiderman has brought to us and says, “ We've sworn our lives and our honor to the Emerald Enclave, and Lyra was just upset. The quest… her goal was to save the tree and to save the forest, and all that happened was… and that all failed, and she is very …” 
 
-###  Soma 
+## 13.04 Soma 01-03-Taraskh 1495
 
 The agents of the Emerald Enclave are next to me. These are the paragons that Meril told me protected the forests and the swamps.  
 
@@ -2760,7 +2719,7 @@ He drinks, “but we didn’t and almost died.”
 And with that, Thomas turns to Marian and they get up and leave. As they leave, Vukradins ask if they would like to join our group. For a moment, they consider it and then say, “Our oath binds us.”
 
 
-### Vukradin
+## 13.05 Vukradin 01-03-Taraskh 1495
 
 Ser Kaelen approaches. And he asks me about my work and my plans. And I don’t trust him. I ask him about any information he might have about the rightful owner of our treasures from the ship, and he sighs and mutters something about how hard it is. 
 
@@ -2772,15 +2731,11 @@ We talk about my music for the Order of the Gauntlet, and I try and explain to h
 
 And that anything I come up with will be better than what he shared. 
 
-## 
+
 
 # Chapter 14 The Butterskull Quest 
 
-## 1-02 Taraskh 1495
-
-### 
-
-### Valphine  
+## 14.01 Valphine 02-03-Taraskh 1495
 
 The night before, we discussed our plans in private. We had no intention of being ambushed again. 
 
@@ -2804,7 +2759,7 @@ The merchant stares bug-eyed and mutters, “That’s very hard.”
 
 And Vukradin, with a theatrical flourish, declares, “Just because something is hard, doesn’t mean we don’t do it\!” 
 
-## 4-02 Taraskh 1495 
+## 14.02 Valphine 04-03-Taraskh 1495
 
 As I enter Conyberry, I notice an unsettling silence that hangs in the air, broken only by the whisper of the wind through the hollowed-out homes.  The homes are now little more than skeletal remains. Their roofs have long since collapsed inward, their wooden frames rotted and blackened by fire and time. The wattle-and-daub walls have crumbled to dust, and the streets are overgrown with thorny vines and tenacious weeds. 
 
@@ -2820,9 +2775,7 @@ But Vukradin will have none of that and insists he go.
 
 # Chapter 15 Freeing Big Al, Petunia and watching a ranch burn
 
-## 4-02 Taraskh 1495 
-
-Soma
+## 15.01 Soma 04-03-Taraskh 1495
 
 Vukradin halts us when we spot four brigands, easily recognizable as Carver’s disposable crew. My sigh is internal, a slow puff of air against the inside of my shell.
 
@@ -2868,7 +2821,7 @@ But then, perhaps because he has no shell, he comes up with a good idea, “What
 
 Vukradin is dubious. But Corbin is insistent. The former bandit promises to take care of Skuppy. He promises to take care of him. I can see that Corbin wants revenge. Vukradin notices it as well and tells him that Skippy better not be dead by the time he returns. 
 
-### Vukradin
+## 15.02 Vukradin 04-03-Taraskh 1495
 
 The air here, near Butterskull Ranch, feels heavy, not with mist but with malice. We bypass the main trail completely, electing for a stealthy approach from the north. I keep my movements precise, channeling my focus—not on the combat I dread, but on the certainty that this is an opportunity for honest coin. This path, guided by information bought with minimal violence, is the artistic path.
 
@@ -2916,7 +2869,7 @@ Now, the true objective begins. We retreat to a nearby hill where we can observe
 
 “I don't think we need to be near… that near the farmhouse, right? Like, we can watch it from…” I mutter, selecting a spot roughly 250 feet away . We wait patiently, prioritizing the hunt for Borg over a direct frontal assault . We are here to track the villain back to his source, not merely crash his party. This caution, this patience, is the price of honest adventuring.
 
-###   Valphine
+## 15.03 Valphine 04-03-Taraskh 1495
 
 The wind at Butterskull Ranch chills my skin, a minor irritation that only enhances the strange, glorious discomfort of the Overbright. We have accomplished the mundane task: rescuing Big Al Kalazorn and recovering his absurd, prized cow, Petunia. Now, we settle into the vantage point we chose on the hill, waiting for the true action to begin .
 
@@ -2950,11 +2903,7 @@ Yes. The trail of the furious Borg is the trail to the true center of the intrig
 
 # Chapter 16 Deals with Harbin, and Sister Kaella, and no deal with Jenna
 
-## 7-02 Taraskh 1495 
-
-### 
-
-### Vukradin 
+## 16.01 Vukradin 07-03-Taraskh 1495
 
 Harbin’s accusations are too much. He has crossed the line. 
 
@@ -3054,7 +3003,7 @@ I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can 
 
 For a moment, the nobility of the revolution calls, but then I realize that compromise is also noble. 
 
-### Valphine 
+## 16.02 Valphine 07-03-Taraskh 1495
 
 It’s been a long day, waiting for the sun to settle. While Vukradin, Soma, and Brewbarry went into town, I had a different plan. I would stay outside of town with Corbin and Locutus. 
 
@@ -3128,7 +3077,7 @@ She smiles, as if she knows something, a secret we share, and then tosses a bag 
 
 And before I can react, she disappears. 
 
-### Brewbarry 
+## 16.03 Brewbarry 07-03-Taraskh 1495
 
 The tavern is a happening place. And the beer tastes good, but the woman who smirked on the green during the dragon attack is still smirking and staring at Vukradin.
 
@@ -3201,7 +3150,7 @@ Vukradin is doubtful at first, but when he hears that he wrote the mysterious le
 
 Before he reaches the table, I tell him that I disarmed her. 
 
-### Vukradin 
+## 16.04 Vukradin 07-03-Taraskh 1495
 
 I thank Brewbarry for his actions and remind him that a tavern is an unlikely place for violence. He seems unconvinced and says, “I like your confidence.” 
 
@@ -3296,6 +3245,8 @@ She looks at me, and I can see her consider it for a moment, but then the mask s
 
 # Chapter 17 Blood Money, Clean Gold, and Fine Wine
 
+## 17.01 08-03-Taraskh 1495
+
 The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an enemy who had offered to work with them against the Carver. Valphine explained that Kaella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
 
 While Vukradin was outside, two pale-skinned, sunburned villagers named Brin Bundlewine and Giles Slipper-Shine approached Valphine with great excitement. They had heard rumors of a drow who worshiped Lathander and believed in the purifying pain of the sun, and they were eager to establish a chapel dedicated to this interpretation of the sun god’s glory. Valphine agreed that founding a temple was a good idea, and the group decided to convert the dilapidated Tresendar Manor into the Temple of Lathander’s Searing Pain of Justice. Harbin Wester, the townmaster and leader of the Privy Council, conveniently appeared and offered to arrange the paperwork for a modest fee of fifty gold pieces. He framed the transaction as a private arrangement that didn’t need to involve the entire council, describing it as simply how things were done in the Overbright. The deal was struck, and Brin and Giles agreed to renovate the temple for twenty-five gold pieces to cover materials, providing their labor for free.
@@ -3304,7 +3255,7 @@ When Vukradin returned from his walk, Harbin quickly claimed that the temple fun
 
 The next morning, Vukradin spoke with Ser Kaelen about tracking down the rightful owners of the treasure they had found. Ser Kaelen explained that he was waiting for information from Neverwinter and should have answers in a few days. He suggested the party could check out Mountain’s Toe or deliver supplies to the Logger’s Camp while they waited. The party decided to take on the supply delivery quest, which Harbin had requested for his brother. At Barthen’s Provisions, they picked up two heavy crates filled with dried meats, cheese, bread, ale, and oil, all loaded onto a cart pulled by an ox named Vincent. When Brewbarry noticed there was no wine among the supplies, Barthen suggested they stop at the Falcon Hunting Lodge along the way, which was known for its fine wine.
 
-##  9-02-Taraskh 1495
+## 17.02 09-03-Taraskh 1495
 
 After a peaceful two-day journey through Neverwinter Wood, the party arrived at the fortified Falcon Hunting Lodge. The compound was surrounded by a ten-foot-high log palisade and featured a two-story main building, a stone tower, stable house, and guest quarters. They rang the bell at the gate and were greeted by Corwin, who introduced himself as the chef and retainer. After seeing Barthen’s letter of introduction, Corwin welcomed them inside and fetched Falcon the Hunter, the lodge’s proprietor. Falcon was a man with impressive mutton chops who expressed great delight at having guests, especially friends of Barthen. He immediately offered them hospitality, including lodging, meals, and access to his fine wine cellar in exchange for musical entertainment from the party’s bard.
 
@@ -3322,6 +3273,8 @@ Before the evening ended, Falcon mentioned a potential quest involving the half-
 
 # Chapter 18 Falcon's Hoard and Hidden Truths 
 
+## 18.01 09-03-Taraskh 1495
+
 The party undertook a detailed, covert mission when the bard Vukradin decided to uncover the truth about their host, Falcon the Hunter, concerning his claimed past as a dragonslayer and the source of his lodge's funding. The reconnaissance mission began late at night when Vukradin deliberately undertook the investigation alone, knowing his companions were deep in slumber: **Brewbarry was generating the lodge's most consistent nocturnal sound—a thunderous snoring that rattled the guest house timbers** , **Soma was safely ensconced and silent within her shell** , and **Valphine was merely bemused** (or perhaps pretending to be) in her state of sleep.
 
 Vukradin successfully infiltrated the Main Lodge and ascended to Falcon's private bedroom. To prevent being overheard, he ritualistically cast the spell **Silence** over the area, covering both the room and the adjacent hallway. He gained entry to a locked drawer by prying it open.
@@ -3336,11 +3289,7 @@ The outcome was a tactical success for the party. Vukradin secured permission to
 
 # Chapter 19 To the Logger’s Camp
 
-### 
-
-## 09-02- Taraskh 1495
-
-### Vukradin 
+## 19.01 Vukradin 09-03-Taraskh 1495
 
 The Falcon Hunter was a fraud and an artist. And a thief, I must never forget that he is a thief. He has a ring in his possession that belonged to someone. 
 
@@ -3364,7 +3313,7 @@ Soma looks at me and mutters, “You are wet-behind-the-shell Vukradin. The orc 
 
 Valphine turns to Brewbarry, “Orcs do make such fine slaves.” 
 
-### Soma 
+## 19.02 Soma 09-03-Taraskh 1495
 
 Leaving my clutch behind, I head out and transform into a bear to get a closer look. Hopefully, the orc won’t think I am a threat. 
 
@@ -3374,7 +3323,9 @@ We could still have the advantage if we approach quietly.
 
 And then I hear Brewbarry stumble through the woods. 
 
-I want to stuff my head in my shell and mutter, but I can’t. The orcs are here, and now whatever element of surprise we have has been lost. 
+I want to stuff my head in my shell and mutter, but I can’t. The orcs are S
+
+here, and now whatever element of surprise we have has been lost. 
 
 But perhaps not, the orc next to Brewbarry shouts, “You are a useless turd of a scout. Of all the scouts, I got one who got distracted by a bear\! I only took you because your mother is my mother’s best friend\! Why if it had been up to me…” 
 
@@ -3386,11 +3337,11 @@ I scream Coward, but it sounds more like “ROWARHHHH\!”
 
 From 10 feet out, he turns and fires an arrow into my flesh, and I feel the sting of pain.  
 
-### Valphine
+## 19.03 Valphine 09-03-Taraskh 1495
 
 I advance. I pull out my crossbow. I fire an arrow. I miss. 
 
-### Brewbarry  
+## 19.04 Brewbarry 09-03-Taraskh 1495
 
 The first orc, who wears a necklace of bones,  moves towards me. I have seen such creatures in the north. They are not harmless, and they are dangerous. The first one throws a javelin at me. It lands in front of my feet, I pick it up and split in two, snarling. 
 
@@ -3407,7 +3358,7 @@ The orc with the necklace of bones screams, “You attack my brother’s nephew?
 I am pleased that this Orc Scout will not die thinking he was banished from his clan. If only my clan showed as much compassion as this Orc.   
 From where Soma is, I hear a roar and a crash. The bear has jumped from the branch onto the ground and shoved the scout next to the two orcs. 
 
-###  Valphine
+## 19.05 Valphine 09-03-Taraskh 1495
 
 Moonbeam. I abhor that light. It is but a pale imitation of the searing pain of Lathander. In fact, it doesn’t hurt at all. It is not sunlight. Even though Soma says it is. 
 
@@ -3421,7 +3372,7 @@ I smile, as an orc scout looks at me, in horror \- “A Drow who worships Lathan
 
 I think, “Run, little slave. Run.” 
 
-### Vukradin
+## 19.06 Vukradin 09-03-Taraskh 1495
 
 I am curious to see what the orc I have not charmed will do. Will he attack one of us? Or will he attack the orc attacking his family member? 
 
@@ -3451,7 +3402,7 @@ And then I hear some branches break, and Brewbarry has finally become enraged.
 
 He has decided to protect Valphine. 
 
-### Brewbarry 
+## 19.07 Brewbarry 09-03-Taraskh 1495
 
 Enraged and enlarged, I swing my halberd in a 20’ arc, and scream, “You will not touch my wine.” 
 
@@ -3461,7 +3412,7 @@ Meanwhile, Soma has hit one of the orcs.
 
 And from the clearing, I can hear the scout stop running, turn, and fire his bow at Valphine. The scout misses. 
 
-### Valphine 
+## 19.08 Valphine 09-03-Taraskh 1495
 
 I load my crossbow bolt. I aim. I shoot. I miss. 
 
@@ -3507,7 +3458,7 @@ Vukradin asks, “What’s his name?”
 
 And Brewbarry snarls, “Shrimpy.”  
 
-###  Vukradin 
+## 19.09 Vukradin 09-03-Taraskh 1495
 
 Just a little bit longer until I arrive at the Logger’s Camp and collect my conflict free reward. 
 
@@ -3519,7 +3470,7 @@ I want to scream. Nobody is here. Worse, a grim silence hangs over the camp.
 
 Brewbarry turns to me, “Don’t worry, Vukradin. We will find him.”  
 
-### Valphine 
+## 19.10 Valphine 09-03-Taraskh 1495
 
 The orc is tied up. And he will cost us supplies, worry, and care. If this were Menzoberanzaan, I would sacrifice him to Lolth now. But Lathander disapproves of such sacrifice. 
 
@@ -3527,17 +3478,9 @@ Pity.
 
 It saves so much time and effort. 
 
-# Chapter 20 The Orc Ambush
 
-**10-02 Taraskh 1495**
 
-As the party traveled through the dense forest, Brewbarry and Valphine spotted an orc scout attempting to conceal himself ahead. Soma quickly realized the scout was a lookout for an ambush further up the path. Soma transformed into a bear and approached the incompetent scout, who panicked and scrambled up a tree while signaling to his companions to the north. The bear climbed after him and bit into him savagely. At the same time, other orcs emerged from hiding—raiders and brigands who immediately began arguing among themselves about the scout’s incompetence and family connections. One raider threw a javelin at Brewbarry, who caught it mid-air, snapped it in two, and growled menacingly at his attacker.
-
-The battle descended into chaos as Vukradin wove enchantments that turned the orcs against each other. One raider found himself compelled to attack his own scout, screaming insults about the scout’s mother while his companions accused him of treachery. Soma leaped from the cart onto a brigand, shoving him backward before calling down a beam of radiant moonlight that engulfed three of the orcs. The brigand, overwhelmed by the magical assault and the family drama erupting around him, screamed that this was the worst idea he’d ever had and fled into the forest. Another raider charged at Brewbarry with his scimitar, landing blows before retreating, while Valphine fired crossbow bolts that mostly went wide of their marks. Vukradin conjured an illusion that made one raider believe he was surrounded by duplicates of his companion, causing him to waste his efforts fighting phantoms until the illusory assault killed him. The remaining raider, confused and terrified by what he called “drow trickery,” attempted to flee but was put into a magical slumber and captured, while the scout managed to escape into the woods.
-
-The party interrogated their prisoner, whom Brewbarry mockingly named Shrimpy, and bound him to their cart. Under intimidation, the orc revealed he belonged to an independent raiding party displaced from their home in the Ice Spire of the Sword Mountains by a white dragon. Since their exile, the orcs had descended into chaos in the valley below, with their chief going mad and various factions forming—some joining the Cult of Talos after their shaman was killed, others becoming brigands, and Shrimpy’s group trying to remain independent. When he asked if he would be paid for his service, Brewbarry coldly informed him that his life was payment enough. The party continued their journey with Shrimpy pulling the cart, eventually arriving at the Logger’s Camp along the river’s south shore. They found the camp eerily silent and completely deserted despite the early morning hour, with tents on the sandy beach, a cabin with stacked logs, and old stone foundations the only signs of habitation. With no one present to sign their delivery notice, the party realized they would need to investigate what had happened to Tibor Wester and the camp’s inhabitants before they could claim their payment.
-
-# Chapter 21 The Spiral’s Grasp
+# Chapter 20 The Spiral’s Grasp
 
 The party gathered at the Loggers Camp to discuss their next move, with Vukradin learning that he had inadvertently built a reputation as a noble adventurer after saving a town from a dragon and advocating for fair wages. Despite his protests that he simply wanted to open his own studio, the public perception had taken hold. The group recalled information about a missing Emerald Enclave patrol and devised a plan to rescue them, crediting the success to Lyra, a low-ranking member they had previously saved, in order to boost her standing within the faction and gain a valuable ally. After debating what to do with their prisoner Shrimpy, who desperately wanted to be released, they decided to transport him to Phandalin for imprisonment, as Tibor the loggers chief refused to take him to Neverwinter.
 
@@ -3557,7 +3500,7 @@ With the Cult Fanatic dead, the mind-controlled Emerald Enclave members finally 
 
 As the rescued patrol members recovered, Brewbarry, having drunk all of his ale, wondered where he could get more booze. Realizing they were only five miles from the Falcon’s Lodge, he insisted they return to fetch more alcohol. Despite some reservations about the lodge’s atmosphere, the party decided to make the short detour for rest and wine. The rescued Enclave members would need time to recover fully, and the party would need to decide how to present their success to Lyra and the Emerald Enclave, while also investigating the mysterious drowned gate and the rising threat of the Kraken Society’s influence in the region.
 
-# Chapter 22 When Boars Are More Than Just Boars
+# Chapter 21 When Boars Are More Than Just Boars
 
 The party arrived at the Falcon Hunting Lodge with their collection of prisoners and rescued companions in tow. Among them was a disoriented Teega the Smith, two Emerald Enclave guards who had been freed from captivity, and a criminal named Shrimpy. Falcon greeted them with surprise, particularly pleased to see his friend Vukradin had returned safely. The party presented their prisoners, and Falcon was impressed by their success in the field.
 
@@ -3581,9 +3524,7 @@ Combat erupted immediately. Valphine struck first, hurling a bolt of radiant ene
 
 The Anchorite stepped out of the moonbeam’s radius and shouted loudly to alert others in the manor. Then it retaliated with terrible force, unleashing a bolt of lightning that struck Valphine, Soma, and Brewbarry in a devastating line of electrical energy. Brewbarry called upon his stone-like endurance to absorb much of the impact, while Valphine managed to partially dodge the worst of the blast. Brewbarry, however, took the full force of the lightning and was left badly wounded. As the session ended, the party found themselves in the midst of a fierce battle, with the sounds of the Anchorite’s shout likely bringing reinforcements from within the crumbling manor.
 
-# Chapter 23 From Retreat to Redemption (and Cheese)
-
-## 
+# Chapter 22 From Retreat to Redemption (and Cheese)
 
 The party found themselves in a desperate situation at the Woodland Manse, battered from the first attack, a shapeshifting cultist of Talos unleashed devastating lightning upon them. Valphine called upon her divine powers to heal her companions, restoring their strength just as another Anchorite, disguised as a wild bull, struck Soma and Vukradin with crackling bolts of electricity. As more cultists emerged from within the house and the surrounding area, the party realized they were dangerously outnumbered.
 
@@ -3609,7 +3550,7 @@ Zeleen proposed that if the party cleared the orcs from the shrine, the wererats
 
 Don-Jon initially insisted the mine could not serve as both a living space and a working mine for safety reasons, but Vukradin’s persuasive arguments convinced him that the wererats could nest in one section while working another. The party struck a deal: the wererats would work the mine and live in part of it in exchange for regular cheese shipments from Butterskull Ranch. This arrangement secured the mine’s operation without requiring a dangerous confrontation with sixteen orcs and several ogres, leaving those enemies undisturbed at the Shrine of Savras for another day. The party had successfully turned a potential disaster into a profitable arrangement, though the long-term consequences of their creative solution remained to be seen.
 
-# Chapter 24 The Ale, the Ex, and Axeholm
+# Chapter 23 The Ale, the Ex, and Axeholm
 
 The party returned to Phandalin after successfully negotiating a peace agreement at the gold mine. Harbin Wester, the Lord Mayor, greeted them warmly and expressed satisfaction with the recent changes in the community. However, his mood turned serious when Brewbarry inquired about the upcoming ale supply. Harbin warned that the dragon occupying the mountains and the resulting orc incursions were preventing farmers from tending their crops, threatening the town's precious ale production for the season.
 
@@ -3631,7 +3572,7 @@ The following day, they embarked on a journey to Axeholm, traveling across grass
 
 Brewbarry attempted to force the portcullis open with an incredible display of strength, but even his mighty effort couldn't overcome the massive stone block jamming the mechanism. The party realized they would need an alternative approach. Soma summoned a rat familiar to scout through the narrow arrow slits, establishing a telepathic link to explore what lay beyond. As the tiny creature prepared to venture into the darkness of Axeholm, the party stood ready to discover what secrets the abandoned fortress held.
 
-# Chapter 25 Where Reality Unravels: Breaching Axeholm
+# Chapter 24 Where Reality Unravels: Breaching Axeholm
 
 The party arrived at the ancient dwarven fortress of Axeholm, carved into the base of a mountain miles south of Phandalin. Their quest was to open the long-sealed fortress and make it safe for habitation, as Townmaster Harbin Wester had warned that the people of Phandalin might need to evacuate there if the dragon attacks became imminent. Soma summoned a rat familiar to scout ahead, and the creature discovered a winch mechanism inside the entrance that could lift the portcullis gate. As the rat explored, the party heard unsettling sounds emanating from within: a constant low-frequency ticking like a clock speeding up and slowing down, and the scratching of quills on parchment coming from inside the walls themselves. Working together, they attached a rope to the winch and raised the gate, with Brewbarry then spending considerable effort to smash through an inner portcullis door.
 
@@ -3641,7 +3582,7 @@ When Brewbarry finally smashed through the door, combat erupted with the out-of-
 
 The combat grew more desperate as the out-of-phase dwarves revealed their most horrifying ability. When one struck Soma, she became paralyzed and experienced the terrifying sensation of being packaged in a box, sealed, and delivered like an object rather than a living being. The other creatures swarmed her paralyzed form, landing critical blows that nearly killed her. Valphine spoke words of divine healing that restored Soma and broke the paralysis, allowing her to transform into a powerful bear and tear through her attackers. Brewbarry also resisted one of these paralysis attempts, hearing a voice in his head saying "incorrect packaging" as he was momentarily knocked into some kind of cold storage before breaking free. Soma caused the ground itself to shake and tremble, knocking several dwarves prone and making the terrain difficult to traverse. The party fought valiantly, cutting down the out-of-phase creatures one by one, but just as they seemed to gain the upper hand, another dwarf successfully paralyzed Soma in her bear form, leaving her vulnerable as the session ended on a dramatic cliffhanger.
 
-# Chapter 26 From Out-of-Phase Dwarves to Mechanical Mysteries
+# Chapter 25 From Out-of-Phase Dwarves to Mechanical Mysteries
 
 The battle in the mustering hall of Axeholm raged on as the party fought against the twisted dwarves caught in an interdimensional nightmare. Valphine fired her crossbow at one of the out-of-phase creatures, bringing it to the brink of death. Soma, still in her powerful bear form, found herself paralyzed by a dwarf's unnatural touch, but her constitution proved strong enough to shake off the effect. Together, the party systematically eliminated the remaining dwarves, with Brewbarry delivering crushing blows and Vukradin supporting his allies with inspiring words.
 
@@ -3669,7 +3610,7 @@ In the adjacent kitchen, they found typical dwarven implements—metal dishware,
 
 Finally, the party entered the smithy, where rusty anvils stood before blackened hearths. A fluttering noise drew their attention to one of the fireplaces, and Valphine investigated. A strange creature emerged—a tiny, mechanical mosquito-like construct with a steampunk aesthetic, complete with a small glass jar containing blood. Valphine carefully subdued the creature without killing it. Vukradin examined the captured construct, his aesthetic sensibilities offended by its unnatural design. He noted markings indicating it was some kind of sampling device, raising troubling questions about who had created it and for what purpose. With this mysterious discovery in hand, the party prepared to delve deeper into the secrets of Axeholm.
 
-# Chapter 27 Sisters Against the Machine
+# Chapter 26 Sisters Against the Machine
 
 The party continued their exploration of the ancient dwarven fortress, finishing their survey of the first floor. They discovered a storage room filled with serviceable armor and weaponsmith tools that would prove useful for the people of Phandalin, along with privies. The barracks held dozens of meager cots scattered about, with two cold fireplaces whose rubble-choked chimneys rose one hundred twenty feet through the mountain. An empty armory revealed that the dwarves had taken all their weapons when they departed, leaving behind only stone weapon racks, headless mannequins, and iron hooks on the walls.
 
@@ -3689,7 +3630,7 @@ Standing calmly beside this chaotic machine was a drow woman in a high-collared 
 
 Aletra warned them not to approach, explaining that she was in a delicate equilibrium with the machine and its guardian constructs. She revealed that she needed to extract something important from the device before they could use the override code to shut it down. Through careful observation, Valphine realized what her sister was truly after—drow poison that Aletra had been smuggling through the multiverse using the machine. Aletra spoke to Valphine in Undercommon with her characteristic condescension, telling her to go play in the mud with the other surface dwellers while the adults handled their deadline. She then made her proposal: if the party would kill the spectral spiders that guarded the machine, she would extract her cargo and allow them to disable the device. If they refused, she warned, she might be forced to attempt the extraction anyway—which could cause the entire place to explode. The party stood at a crossroads, weighing their options as they faced Valphine's dangerous and unpredictable sister.
 
-# Chapter 28 When the Machine Screams: A Family Affair
+# Chapter 27 When the Machine Screams: A Family Affair
 
 The party found themselves in a tense standoff with Valphine's sister, Aletra, who was working to extract a mysterious package from a broken planar machine. The room was covered in interplanar spider webs, and six Rift Weavers—spider-like creatures bound to the ceiling—stood guard over the malfunctioning device. Aletra explained that the machine had been a gift to her boss and was causing dangerous spatial anomalies throughout the area. She claimed they were in a "spatial equilibrium" and warned that if she couldn't retrieve her package, she had no reason to destroy the machine, leaving everyone to face the consequences of its catastrophic failure.
 
@@ -3709,7 +3650,7 @@ With Aletra gone and the machine screaming warnings of imminent catastrophic fai
 
 The party stood in the now-quiet room, surrounded by the aftermath of battle and the dropped vials of poison that Aletra had left behind. The spatial anomalies that had plagued the area were finally resolved, though questions remained about the true nature of the machine, Aletra's mysterious boss, and what other schemes the drow sister might be involved in. The bill from the interplanar trade consultants suggested that the machine's presence had been part of a much larger operation, one that extended far beyond the immediate conflict they had just resolved.
 
-# Chapter 29 Drones, Dread, and Dangerous Deliveries
+# Chapter 28 Drones, Dread, and Dangerous Deliveries
 
 After the interdimensional device collapsed into the void and Aletra escaped, the party searched the room where the machine had been. Nothing remained of the device itself, but they discovered strange strands of interdimensional spider silk left behind by the Riftweavers. Valphine, a former devotee of Lolth, considered collecting the unusual silk for her temple. The party debated the nature of these creatures—whether they were a natural phenomenon, a defense mechanism against planar damage, or summoned beings sent by some unknown deity.
 
@@ -3733,7 +3674,7 @@ Combat erupted immediately as the orcs threw javelins at the party. One struck B
 
 Valphine called forth spectral guardians that radiated divine energy in a wide area around her. The guardians tore through the enemy ranks, killing three orcs and severely wounding an ogre. Brewbarry, filled with rage, struck down the wounded ogre with a devastating blow. The remaining ogre fired a ranged weapon at Valphine before backing away, while another orc threw a javelin that missed its mark. The battle continued as the party pressed their advantage against the remaining enemies.
 
-# Chapter 30 A Cheesy Compromise in the Mine
+# Chapter 29 A Cheesy Compromise in the Mine
 
 The area outside the mine erupted into chaos as waves of orcs and ogres descended upon the party. Valphine's divine guardians manifested as spectral protectors, their holy radiance devastating the attackers who dared approach. Orc after orc fell as they charged toward her, their bodies consumed by celestial fire when they failed to resist the overwhelming divine power. Brewbarry stood as an imposing figure on the battlefield, his voice booming with supernatural resonance as his eyes flashed red beneath his helmet, striking terror into his enemies before his halberd cleaved through them.
 
@@ -3749,59 +3690,9 @@ Following the dwarf tracks deeper into the mine, the party encountered five dwar
 
 Horia warned that the wererats were completely incompetent at mining and would cause the entire operation to collapse within months through improper techniques and safety violations. The party proposed a compromise where the skilled dwarves would handle the actual mining while the wererats provided menial labor and security. Horia agreed to consider this arrangement if the wererats apologized for killing dwarves in their initial conflicts. When Valphine bluntly stated that contracts existed only to cheat people, she deeply offended Horia, who questioned whether she was truly a cleric of Lathander. The party began renegotiating the dwarves' original contract, which had promised them a twenty percent share, hoping to reduce their cut while maintaining the mine's operational integrity.
 
-# Chapter 31 Brewbarry's Bloody Axe and the Beer Blight
+# Chapter 30 Brewbarry's Bloody Axe and the Beer Blight
 
 Date: Feb 18th, 2026
-
-## **Summary**
-
-The party began by recapping their recent adventures, including their encounter with orcs and ogres allied with the Carver, the discovery that Don-Jon had been killed by dwarves before being eaten by a carrion crawler, and their meeting with the Stonetallow clan of shield dwarves. These intensely proud dwarves traced their ancestry to a disgruntled engineer from Gauntlgrym who was the only one who knew how to build a proper archway. When Vukradin questioned the oxymoronic name "Stonetallow," Horia launched into an etymological explanation, revealing that the name came from "stone to allow," referring to allowing arches to pass, reflecting the clan's fixation on doing things properly.
-
-The party then approached the wererats to present their proposal. Vukradin had gained insight that the wererats never truly wanted to mine and preferred acting as muscle rather than engaging in hard labor. They met with Zeleen Varnaster, the wererat leader, and explained their plan: the dwarves would do all the menial labor and mining while the wererats would act as muscle and protect the mine as their territory. Zeleen initially demanded an upfront payment of one thousand gold pieces for six months of protection, but Brewbarry countered by reminding her that the wererats had been chased from their homes and were now getting shelter, cheese, and protection without being kicked out. With his axe still covered in orc and ogre blood as an intimidating visual, Brewbarry questioned why they would demand payment for such a good deal. Zeleen, impressed by the argument and the implied threat, agreed to protect the mine for free, viewing it as protecting their home and family. She offered Vukradin a piece of Petunia's cheese, which was delicious and unique, almost like Gouda but better.
-
-During the conversation, Zeleen warned that orcs, ogres, and a dragon were still causing chaos in the area, and suggested the Shrine of Savras as a place to find information about the dragon. When Vukradin tried to trick Zeleen by claiming dragons could polymorph into smaller forms to enter caves, Zeleen saw through the deception completely and found it a good joke, cementing their relationship. Brewbarry then revealed his full name as "Brewbarry Root Smasher Ogalakadu," explaining he had a family name, nickname, and clan name. Most alarmingly, Zeleen warned that the dragon's raids were affecting farming so severely that there would be no brewing of beer this year, which greatly concerned Brewbarry.
-
-The party reviewed their outstanding quests and decided to head toward Neverwinter, planning to stop at Dragonbarrow along the way to obtain the dragon slayer sword. They took a long rest in the mine, now protected by the wererats and worked by the dwarves. Horia and the wererats shook hands on their agreement with contracts exchanged, though the dwarves looked skeptically at the wererats' modifications while the wererats viewed the dwarves as suckers. Vukradin asked about expected weekly earnings from the mine, and Horia mentioned needing to figure out overhead and details, suggesting around one hundred gold pieces per week, possibly more with investment.
-
-While traveling to Dragonbarrow, the party encountered The Falcon on the Triboar Trail. He was distraught because the party had never cleared the Woodland Manse, which had fireballs and lightning that drove them away. The Falcon revealed that orcs and ogres had taken over his Falcon Lodge and were trying to muscle everyone out of Neverwinter Wood. He was returning to Phandalin to settle debts and plan his next moves, refusing to return to the lodge. The Falcon offered Vukradin a particular wood for his music studio if the party cleared the lodge, and proposed turning it into a venue for musical performances by Vukradin and Valfine, with ale, to raise rents and attract people. Brewbarry enthusiastically agreed that everything tastes better with ale, including music.
-
-The party arrived at Dragonbarrow, a thirty-foot-high hill with a flat top and bone-white rocks jutting from it like outstretched talons. A centaur named Xanth approached peacefully and warned them about strange will-o'-wisps over Dragonbarrow at night, stating the hill was haunted by restless spirits and he only went there in daylight. Vukradin, having never seen a centaur before, was freaked out and considered it an abomination, becoming gun-shy after previous brutal encounters. Soma calmed him, explaining that centaurs were woodland creatures and not a threat. Xanth also mentioned that Neverwinter Wood had been overrun by orcs allied with half-orc spellcasters who performed dark rites at a circle of standing stones atop a cave-ridden hill, and offered to guide the party there after they visited Dragonbarrow. Brewbarry connected the half-orc spellcasters to the orcs causing farmers to flee, which was affecting beer production, making it a priority after obtaining the sword.
-
-Valphine, with her keen perception, found a secret entrance at the base of the hill—a rock acting as a stone plug embedded in the earth. She was disappointed because the entrance was too obvious and not truly secret. The party considered using magic to open the entrance, but Brewbarry insisted on using his strength. Soma used mold earth to help while letting Brewbarry think he was doing it alone, but Brewbarry's strength was more than sufficient to open the entrance without assistance. His confidence boosted by the success, the party entered the passageway and saw yellow lights coming from different directions within the tomb. They immediately suspect that the lights were will-o'-wisps.
-
-Soma summoned a rat familiar to scout ahead, establishing a connection to see through its eyes and hear through its ears. The rat explored the western hallway and discovered four sarcophagi in alcoves. The northwest sarcophagus contained a musical instrument, the southeast was sealed too tightly to enter, and the other two contained moldy bones of adventurers. As the rat investigated, a light in the area went off, then turned back on when the rat moved past it. Soma had the rat dance back and forth, causing the light to turn on and off repeatedly. Suddenly, the light attacked the rat with lightning, instantly killing it. The party realized the lights were the will-o'-wisps and decided to avoid them.
-
-The party proceeded east to avoid the dangerous lights and arrived at an area with two sealed sarcophagi in alcoves and a small, two-foot-wide passageway. Brewbarry prepared to open a sarcophagus, but Valphine suggested checking for traps first. She found no sign of mechanical traps or anything suspicious on the outside or base of the sarcophagus. When Brewbarry opened the first sarcophagus, a cloud of corrosive dust filled the area around him. Despite the acid burning his skin, Brewbarry's incredible toughness allowed him to shrug off most of the damage, taking only minor injury. The first sarcophagus was found to be completely empty, with no corpse or bones.
-
-Brewbarry then used his long halberd to open the second sarcophagus from a safe distance. Another cloud of dust emerged but fell harmlessly around the party. The second sarcophagus was also found to be empty. The party stood in the tomb, having explored two empty, trapped sarcophagi, with the mysterious lights still lurking in other passages and the secrets of Dragonbarrow yet to be fully revealed.
-
-## **Memorable Moments**
-
-"Stone to allow the arch to pass. That's where it comes from."
-
-— Horia
-
-*Proudly explaining the etymology of 'Stonetallow' after Vukradin questioned the oxymoronic clan name, launching into a detailed dwarven history lesson*
-
-"You know what the guy's a kidder. He's the best boss we're ever going to have."
-
-— Zeleen Varnaster
-
-*After Vukradin tried to trick her about dragons polymorphing and Zeleen saw through it with a natural 20, turning a failed deception into a bonding moment*
-
-"My family name, my nickname, and my clan name. I don't know what this is. Surprise\! It's like you don't know me."
-
-— Brewbarry
-
-*Revealing his full name 'Brewbarry Root Smasher Ogalakadu' for the first time to Zeleen's surprise, claiming he has three names*
-
-**A mysterious light attacks and instantly kills Soma's rat familiar with lightning damage as it scouts the Dragonbarrow tomb.**
-
-*The party's first encounter with the dangerous will-o'-wisps haunting the burial mound, revealing the deadly nature of the lights*
-
-**Brewbarry shrugs off a cloud of corrosive acid dust, reducing 14 damage to just 3 with his Stone Endurance, barely flinching.**
-
-*After opening a trapped sarcophagus in Dragonbarrow, demonstrating his incredible toughness and resilience*
 
 ## **Scenes**
 
@@ -3927,173 +3818,7 @@ Brewbarry then used his long halberd to open the second sarcophagus from a safe 
 * The second sarcophagus is also found to be empty.  
 * The session ends at 10:30 PM with the party having explored two empty, trapped sarcophagi and the GM noting that will-o'-wisps are intelligent creatures.
 
-## **Locations**
-
-### **The Mine**
-
-A mining operation currently inhabited by the Stonetallow dwarves and wererats. The party negotiated an agreement where the wererats protect the mine while the dwarves perform the mining work. The mine belongs to a committee in Neverwinter and is expected to generate around 100 gold pieces per week. The dwarves and wererats have formalized their agreement with contracts.
-
-### **Neverwinter**
-
-A city where the party has several quests, including returning a statue to an art collector before House Markaster attacks, informing them that the Order of the Gauntlet is to thank, and seeing Elara ‘Seasong’ Meliamne to unlock some of their loot.
-
-### **Shrine of Savras**
-
-A location where, according to the wererats, the party can find information about the dragon's whereabouts.
-
-### **Phandalin**
-
-A town where The Falcon plans to settle debts and plan his next moves after losing his lodge. Harbin Wester is associated with this town.
-
-### **Triboar Trail**
-
-A road where the party encountered The Falcon while traveling to Dragonbarrow.
-
-### **Falcon's Hunting Lodge**
-
-A hunting lodge previously owned by The Falcon that has been overrun by orcs and ogres, specifically the Anchorites of Talos. The Falcon offered to turn it into a music venue featuring Vukradin and Fina with ale if the party reclaims it.
-
-### **Woodland Manse**
-
-A location the party previously attempted to clear but were driven away by fireballs and lightning. The Falcon mentioned this as a past failure.
-
-### **Neverwinter Wood**
-
-A forest that has been overrun by orcs allied with half-orc spellcasters (Anchorites of Talos) who perform dark rites at a circle of standing stones atop a cave-ridden hill. Their activities are causing farmers to flee and affecting beer production.
-
-### **Dragonbarrow**
-
-A 30-foot-high hill with a flat top and bone-white rocks jutting from it like outstretched talons, serving as a burial mound for a dragon. Inside, it contains passages, alcoves, and sarcophagi. The hill is haunted by will-o'-wisps at night that are restless spirits of the dead. The party discovered a secret entrance (a rock acting as a stone plug) and explored the interior, finding mysterious lights that attack intruders, empty sarcophagi that release corrosive dust, and a small two-foot-wide passageway.
-
-## **NPCs**
-
-### **Horia Stonetallow**
-
-A proud shield dwarf from the Stonetallow clan, an ancient lineage of shield dwarves who trace their ancestry to a disgraced engineer from Gauntlgrym who was the only one who knew how to build a proper archway. She values the perfection of mining and collecting gold at the appropriate rate, seeing the protection of the mine as a distraction from the true purpose of perfecting the art of mining. She is knowledgeable about dwarven etymology and provided a detailed explanation of how 'Stonetallow' comes from 'stone to allow,' referring to allowing arches to pass. She sees value in the wererats protecting the mine so the dwarves can focus on mining. She is involved in finalizing the mine agreement and discusses potential weekly earnings.
-
-### **Don-Jon**
-
-A character who was killed by dwarves and subsequently eaten by a carrion crawler, his death being a point of discovery for the party in previous sessions.
-
-### **Zeleen Varnaster**
-
-The leader of the wererats who gives off a gangster vibe and prefers to act as muscle rather than engage in hard labor like mining. He initially demanded 1,000 gold pieces for six months of protection but was persuaded by Brewbarry's argument and intimidation to protect the mine for free, viewing it as protecting their home and family. He is pleased with the arrangement and offers Petunia's cheese to Vukradin. He provides information about the dragon's impact on farming and beer production, and suggests the Shrine of Savras as a place to find information about the dragon. He sees through Vukradin's deception about dragons polymorphing. He shakes hands with Horia to finalize the mine agreement.
-
-### **The Falcon**
-
-Owner of the Falcon's Hunting Lodge, encountered on the Triboar Trail. He is distraught because his lodge has been taken over by orcs and ogres (Anchorites of Talos) and he is unwilling to return to it. He previously bragged about being able to handle anything but was revealed to have stolen valor by showing up after someone else fought a dragon. He offers Vukradin a particular wood for his music studio if the party clears the lodge and proposes turning it into a music venue featuring Vukradin and Fina with ale. He is returning to Phandalin to settle debts and plan his next moves.
-
-### **Xanth**
-
-A centaur encountered near Dragonbarrow who warns the party about will-o'-wisps haunting the barrow at night, describing them as restless spirits of the dead that he avoids by only visiting during daylight. He also informs the party about half-orc spellcasters (Anchorites of Talos) in Neverwinter Wood who perform dark rites at a circle of standing stones and are causing farmers to flee. He offers to guide the party to the half-orc spellcasters after they visit Dragonbarrow. He recognizes Valphine as the famous cleric of Lathander and praises her courage and the idea of pain purifying.
-
-### **Elara ‘Seasong’ Meliamne**
-
-A character in Neverwinter that the party plans to visit, potentially to unlock some of their loot.
-
-### **Ser Kaelen**
-
-A character who has information about one of the magical objects the party found and wants them to return a statue from the lighthouse to an art collector.
-
-### **Sister Kaella**
-
-A character who was supposed to contact the party about the Carver's situation but never has.
-
-### **Meryl**
-
-A druid who previously told Soma about will-o'-wisps, evil lights that emerge in natural surroundings.
-
-## **Items**
-
-### **Petunia's Cheese**
-
-A unique and delicious cheese described as the best cheese in the entire area, with a texture almost like Gouda but better. It is organic, fair trade cheese from the happiest cows. Zeleen offers it to Vukradin as a gesture of goodwill after their negotiation, and Vukradin finds it as delicious as claimed.
-
-### **Dragonblade**
-
-A dragon slayer sword that the party seeks to acquire before confronting the dragon. It is rumored to be located in Dragonbarrow, and the party decides to travel there to obtain it.
-
-### **Particular Wood**
-
-A special type of wood that The Falcon offers to craft for Vukradin's music studio if the party clears his Hunting Lodge of orcs and ogres.
-
-### **Loot (Musical Instrument)**
-
-A musical instrument discovered by Soma's rat familiar inside the northwest sarcophagus in the western passage of the Dragonbarrow tomb.
-
-### **Brewbarry's Axe**
-
-Brewbarry's weapon, still covered with orc and ogre blood from previous battles, which he uses as an intimidating visual during negotiations with Zeleen.
-
-### **Halberd**
-
-A long polearm weapon used by Brewbarry to safely open a sarcophagus from 10 feet away, avoiding potential traps or environmental hazards in the Dragonbarrow tomb.
-
-### **Statue from the Lighthouse**
-
-A magical object the party found that needs to be returned to an art collector in Neverwinter before House Markaster attacks, with credit given to the Order of the Gauntlet.
-
-## **Spells**
-
-### **Mold Earth**
-
-A cantrip considered by Soma to help open the rock blocking the tomb entrance at Dragonbarrow by causing it to topple. Soma offered to cast it to help Brewbarry while letting him think he was doing it alone, though Brewbarry's strength was sufficient without magical assistance.
-
-### **Find Familiar**
-
-A spell cast by Soma to summon a rat familiar, which was used to scout the dangerous passages of the Dragonbarrow tomb. The spell provides a telepathic connection allowing Soma to see through the familiar's eyes and hear through its ears as a bonus action. The rat familiar was killed by a will-o'-wisp's lightning attack.
-
-### **Stone Endurance**
-
-A racial ability used by Brewbarry to reduce acid damage taken from a cloud of corrosive dust released from a sarcophagus in Dragonbarrow. He rolled 1d12+2 to reduce the damage by 11 points, taking only 3 damage instead of 14\.
-
-### **Detect Magic**
-
-A spell mentioned as a potential way to find traps on the sarcophagi in Dragonbarrow, though no one in the party had it prepared.
-
-### **Resistance**
-
-A cantrip mentioned as potentially helpful for gaining resistance to environmental effects like lightning damage from will-o'-wisps, though Soma did not learn this cantrip.
-
-# Chapter 32 A Grave New Friend and a Glimmering Blade
-
-## Summary
-
-The party ventured into a narrow secret passageway within the Dragonbarrow, eager to find the legendary dragon slayer sword. Vukradin, driven by excitement, rushed ahead through the two-foot-wide tunnel. His haste proved costly when he stepped on a hidden pressure plate, causing the tunnel walls to collapse inward and bury everyone except Soma in dirt and stone. Using her connection to the earth, Soma carefully extracted her companions from the debris and then painstakingly excavated the entire blocked passage, allowing them to continue their quest.
-
-As they emerged from the cleared tunnel, Soma discovered the bones and rotting saddle of a horse resting in a southern niche. When she approached to investigate, the skeletal remains writhed together and rose as an undead horse. Through magical communication, Soma learned that the creature believed it had been brought back to serve Lady Alagondar on an important quest. The party cleverly convinced the horse that Soma was Lady Alagondar reincarnated, which the loyal steed accepted without question. After some debate over names, the skeletal horse embraced the name Boney, though it lamented the loss of its mane and other features. Boney revealed that it had been brought to the dungeon to guard something for Lady Alagondar but had been killed by malevolent Will-o'-wisps. The horse vaguely recalled that the sword might be buried "across the way" from where Lady Alagondar rested, pointing the party northward.
-
-The party pressed forward with Soma attempting to sense magical auras to avoid traps and locate their prize. Brewbarry took the lead but fell into a non-magical trap, suffering injuries before being attacked by an invisible Will-o'-wisp that shocked him with crackling energy. Boney confirmed the danger, recalling how these evil spirits had ended his previous life.
-
-Vukradin created a zone of absolute silence to protect against the wisps, while Soma tended to Brewbarry's wounds with healing magic.
-
-Valphine prepared to turn undead, and when the creature reappeared, turned it. Vukradin saw the path way open and runs.
-
-Vukradin charges ahead, running down a corridor and turning west into a tomb. Brewbarry sighed as he realized that the Bard had misunderstood the directions that Boney had given. Vukradin, as he raced to the tomb, fell into yet another trap, and as a result, the magical silence was broken. Worse, another  Will-o'-wisp emerged from the shadows.
-
-The battle intensified as the ethereal creatures phased through walls and attacked from unexpected angles. Valphine channeled divine power to turn one of the undead wisps, forcing it to flee in terror.
-
-Brewbarry discovered he could strike the creatures when they materialized to attack, landing a solid blow on one as it attempted to escape. Meanwhile, Soma and Vukradin worked together to corner and destroy the wisps, with Soma calling down a beam of pale moonlight that incinerated one of the creatures caught in Vukradin's magical trap.
-
-As the combat continued, Vukradin opened a sarcophagus and discovered not only another Will-o'-wisp but also a powerful necklace containing multiple magical beads of fire. Despite his attack barely scratching the wisp, Soma's radiant moonbeam finished it off. The party also found a magical flute in a dead bard's tomb.
-
-Brewbarry, entering a battle rage, deliberately triggered a trap with his halberd before leaping over it to destroy another wisp with brutal efficiency.
-
-With the Will-o'-wisps defeated, Valphine carefully navigated past the remaining traps and reached the northern chamber. There, among the ancient bones of a dragon, she found the dragon's skull resting on the floor. Atop this grim pedestal lay their prize: the Dragon Slayer Sword, exactly where Boney had suggested it would be, across from where Lady Alagondar had been laid to rest. The party had successfully completed their quest, though questions remained about the sword's history and whether it would satisfy their requirements for fair trade.
-
-## Memorable Moments
-
-**Soma convinces the skeletal horse that they are Lady Alagondar reincarnated, and the horse accepts this explanation, ready to serve once more.**
-
-*After the skeletal horse rises and questions why Soma is not Lady Alagondar*
-
-**Brewbarry casts Cloud of Daggers and rolls four ones on 4d4, dealing only 4 damage to the Will-o'-wisp.**
-
-*After opening a sarcophagus and attempting to damage a Will-o'-wisp with magic, resulting in embarrassingly low damage*
-
-**The party discovers the Dragon Slayer Sword resting atop a dragon skull, completing their quest.**
-
-*After navigating traps and defeating Will-o'-wisps, Valphine reaches the northern chamber*
+# Chapter 31 A Grave New Friend and a Glimmering Blade
 
 ## Scenes
 
@@ -4189,125 +3914,7 @@ With the Will-o'-wisps defeated, Valphine carefully navigated past the remaining
 - A long sword, identified as the Dragon Slayer Sword, is found resting atop the dragon's skull.  
 - The session ends with the party having successfully located the Dragon Slayer Sword, along with the Flute of Illusions and Necklace of Fireballs.
 
-## Locations
-
-### Dragonbarrow
-
-The dungeon where the party is searching for the dragon slayer sword. It contains narrow tunnels, hidden traps, sarcophagi, and the bones of a dragon.
-
-### Secret Passageway
-
-A narrow, two-foot-wide tunnel to the west containing hidden pressure plates that cause the walls to collapse inward when triggered. The party had to excavate it using Mould Earth to proceed.
-
-### Southern Niche
-
-An area within the tunnel where the bones and rotting saddle of a horse were discovered, which reanimated into the skeletal horse Boney when Soma approached.
-
-### Sepulcher Chamber
-
-A chamber containing multiple sarcophagi where the party encountered Will-o'-wisps and discovered magical items including a Necklace of Fireballs and a Flute of Illusions.
-
-### Northern Area
-
-The area north of the Souther Nicher where the bones of a dragon lie, with the Dragon Slayer Sword resting atop the dragon's skull on the floor.
-
-## NPCs
-
-### Boney
-
-A skeletal horse that rises from bones found in a tunnel niche. It was brought back from the dead to aid Lady Alagondar on a quest and believes it was guarding her sword. The horse is sentient and can communicate via Speak with Animals. It recalls being killed by Will-o'-wisps after being brought to the dungeon. The party convinces it to accept the name 'Boney' after it states its original name was 'Barney'. It is missing its mane and other features, being fully skeletal.
-
-### Lady Alagondar
-
-A figure from the past whom the skeletal horse Boney was brought back to help. Boney believes it was guarding her sword and that she was buried 'across the way' from where it was left.
-
-## Items
-
-### Dragon Slayer Sword
-
-A long sword found resting atop a dragon skull in the northern area of the dungeon. It is the object of the party's quest and was buried across from Lady Alagondar.
-
-### Necklace of Fireballs
-
-A magical necklace found in a sarcophagus in the southeast corner, sealed with a dead wizard. It contains seven beads that can be thrown individually or all at once to cast the Fireball spell, with all beads together dealing 8d6 plus 1d6 per bead.
-
-### Flute of Illusions
-
-A magical flute found with the remains of a dead bard in a sarcophagus in the northwest corner of the chamber.
-
-## Spells
-
-### Mould Earth
-
-Used by Soma to clear collapsed tunnel walls after a trap was triggered, freeing the party members buried in dirt and stone, and then to excavate the entire blocked tunnel to allow passage.
-
-### Speak with Animals
-
-Cast by Soma to communicate with the newly reanimated skeletal horse Boney, learning about its past service to Lady Alagondar and its death at the hands of Will-o'-wisps.
-
-### Detect Magic
-
-Cast as a ritual by Soma to sense magical effects within 30 feet for 10 minutes, helping the party locate the sword and avoid magical traps, though it requires concentration.
-
-### Silence
-
-Cast by Soma in the corridor as a prophylactic measure against the Will-o'-wisps, creating a 24-foot radius sphere where no sound can pass. The spell was later lost when Vukradin fell into a trap and Soma failed the concentration save.
-
-### Turn Undead
-
-Used by Valphine as a readied action against a Will-o'-wisp, causing it to fail its wisdom save and flee as far away as possible for the duration.
-
-### Thaumaturgy
-
-Used by Brewbarry to manipulate a magical light source, making it brighter in an attempt to expose an invisible Will-o'-wisp, though it only revealed the light was a magical spell.
-
-### Cloud of Daggers
-
-Cast by Brewbarry on a Will-o'-wisp in a sarcophagus, creating a swirling cloud of daggers that dealt 4 points of slashing damage after rolling four ones on 4d4.
-
-### Moonbeam
-
-Cast by Soma on a Will-o'-wisp that was already caught in Cloud of Daggers, dealing 12 points of radiant damage and destroying it. The spell creates a beam of pale moonlight and can be moved as a bonus action.
-
-# Chapter 33 Silencing the Siren's Warning
-
-## Summary
-
-Deep within the northern chamber, surrounded by the ancient bones of a dragon, Valphine claimed the Dragon Slayer Sword from its grim resting place atop a dragon skull — exactly where Boney had said it would be. The party gathered around the glowing blade, debating who should carry it. Boney, the sentient bone horse who had bonded with Valphine, watched on with quiet amusement, remarking that irregularity was no longer a problem for him in his partially-alive state. The mood was triumphant, but it would not last long.
-
-Valphine, who had picked up the sword, was about to give it to Brewbarry when an invisible stalker launched itself from the shadows, slamming into Valphine with brutal force. The creature was a summoned elemental, the kind wizards send to guard precious objects or eliminate those who dare take them. Valphine was unimpressed; this kind of monster, an invisible stalker, was the pet of wizards that children were threatened with.
-
-Vukradin was in the Sepulcher chamber with Soma. Hearing the commotion in the northern chamber, he rushed to help. Soma called down a beam of pale moonlight that tore through the stalker, revealing its shimmering form and dealing devastating damage. Brewbarry swung blindly into the air and missed.
-
-Valphine, sensing that the stalker wanted the sword, dropped it.  She then attempted to outline the stalker in a shimmering faerie light to keep it visible, and failed.  Vukradin finally arrived and saw the stalker. He placed the cloud of daggers directly onto the creature.  Valphine dropped the sword, hoping that the Stalker would not attack her anymore.
-
-Brewbarry was about to pick it up, but Vukradin's silver tongue convinced him to leave it be.
-
-And what a wise decision that was. The stalker stopped attacking. It moved over the dropped sword, daring anyone to attack it.
-
-Vukradin and Soma saw the opportunity.  The moonbeam scorched the elemental with radiant fire, and the cloud of daggers sliced relentlessly through its form.
-
-The stalker was furious and lashed out, landing a punishing blow on Brewbarry, who absorbed much of the impact through sheer stony resilience, but it was not enough to turn the tide. The invisible stalker was destroyed, and Brewbarry reached down and claimed the Dragon Slayer Sword once more.
-
-The party took a moment to rest and recover in the aftermath. As they sat admiring their hard-won prize, a ghost materialized in the chamber — the sorrowful specter of Lady Alagondar. She did not speak. She simply stared, with hollow, mournful eyes, in the direction of the Ice Spire Mountains, before fading away.
-
-Vukradin wondered why, and then remembered that that's where the White Dragon lived. He thought for a moment and then turned to the group and reminded them of the need to go to Neverwinter to return the stolen goods. And then there was the Centaur who would lead them to a group of orcs that worshiped Thalos with the promise of conflict-free treasure.
-
-But things were not as they had hoped.
-
-Outside, the centaur Xanth stood bloodied in the fading light, and the sun had begun to dip toward the horizon. Then, stumbling into the clearing came Sister Kaella — her cloak gone, her armor slashed, gasping for breath. She fell to her knees and raised her empty hands toward the glowing sword, crying out that the Carver was no longer a man. He had become a hollow shell, speaking to his blade in a tongue that made ears bleed, and he was marching on Icespire Hold that very night to bind the white worm. If they did not stop him before he completed his dark chant, he would wear the dragon like a suit of armor — and then burn Phandalin to the ground just to test his terrible new power.
-
-Vukradin, however, had long viewed Sister Kaella as a threat. She was an agent of the Carver, and though she had played the role of an ally, he had never trusted her. Now she was weakened and vulnerable, and he moved with quiet, deadly intent. Before she could say another word, he paralyzed her with a powerful enchantment, silencing her mid-warning. Soma and Valphine persuaded him to hold back from killing her outright and struck her with non-lethal blows until she crumpled unconscious to the ground. Only then did the party realize what they had done — Sister Kaella was the only one among them who knew the location of Icespire Hold.
-
-They had little time to dwell on the mistake. From the tree line emerged Jax, the last of the Carver's agents, flanked by thugs and a hulking Rot-Tusk Ogre — the same clan the party had made enemies of during their early days hunting through the forest. Jax smiled coldly and thanked Vukradin for dealing with "that little bit of business," before the ambush erupted into chaos. A net was hurled over Vukradin, pinning him in place, while Valphine was momentarily blinded by a flash of dark magic. But Vukradin, even restrained, was far from helpless — he reached out with his magic and seized both Jax and the ogre in a paralyzing hold, leaving them frozen and exposed. Soma shifted into the form of a great bear and tore into the immobilized Jax, while Valphine summoned a radiant aura of spectral guardians that burned through their enemies like holy fire. Brewbarry raged through the battlefield, delivering crushing blows to the paralyzed ogre and the helpless Jax alike.
-
-The thugs realized that unless they broke Vukradin's concentration, all would be lost, surrounded and attacked him. Despite their blows, he did not lose his focus.
-
-Surrounded by thugs and unable to move, Vukradin unleashed a devastating cone of magical force that tore through the men encircling him, dropping several of them in a single blazing instant.
-
-Jax and the Rot-Tusk Ogre were not so lucky — both fell under the relentless assault of the party's combined might.
-
-The remaining thug turned and fled into the darkness. Brewbarry lunged after him and felled him.  When the dust settled, the clearing was littered with the Carver's fallen agents. Sister Kaella lay unconscious nearby, her warning half-spoken, her knowledge of Icespire Hold locked away behind closed eyes. The party stood victorious, the Dragon Slayer Sword gleaming in Brewbarry's grip — but the road ahead had just become far more uncertain.
+# Chapter 32 Silencing the Siren's Warning
 
 ## Scenes
 
@@ -4384,99 +3991,7 @@ The remaining thug turned and fled into the darkness. Brewbarry lunged after him
 - The last remaining thug attempts to flee; Brewbarry gets an attack of opportunity but the thug escapes.  
 - The party stands victorious, with Sister Kaella unconscious and the Carver's agents defeated.
 
-## NPCs
-
-### Boney
-
-A sentient bone horse that bonded with Valphine during a previous encounter. He is partially alive — or 'unalived' as he prefers — and can now join the party in combat. He humorously noted that irregularity is no longer a problem for him.
-
-### Invisible Stalker
-
-A summoned elemental creature, typically used by wizards to eliminate targets or guard objects. It ambushed the party after they acquired the Dragon Slayer Sword, attacking Valphine and hovering over the sword in a guarding posture. It was eventually revealed by Moonbeam and defeated.
-
-### Lady Alagondar's Ghost
-
-A spectral figure that appeared after the party secured the Dragon Slayer Sword. She looked at the party sadly and then stared in the direction of the Ice Spire Mountains, hinting at the dragon's location, but did not speak.
-
-### Xanth
-
-A wounded and bloodied centaur who was present outside the chamber. He had previously offered to take the party to the lair of evil half-orc spellcasters.
-
-### Sister Kaella
-
-An agent of the Carver who stumbled into the clearing disheveled and injured, warning the party that the Carver is marching on Icespire Hold to bind the white worm and plans to burn Phandalin. She was attacked and knocked unconscious by the party before she could finish delivering her warning, leaving her knowledge of Icespire Hold's location inaccessible.
-
-### The Carver
-
-A powerful antagonist described by Sister Kaella as no longer fully human — a hollow shell talking to his sword in a tongue that makes ears bleed. He is marching on Icespire Hold to bind the white worm and plans to burn Phandalin.
-
-### Jax
-
-Described as the last of the Carver's agents, he ambushed the party with thugs and a Rot-Tusk Ogre immediately after Sister Kaella was knocked unconscious. He was a formidable opponent with high hit points and armor, and was defeated by the party.
-
-### Rot-Tusk Ogre
-
-A large, brutish creature that fought alongside Jax and his thugs. The party has a blood feud with Rot-Tusk Ogres from earlier encounters in the forest. It was paralyzed by Vukradin's spell and ultimately defeated by Brewbarry.
-
-### Thugs
-
-Several henchmen accompanying Jax. One successfully restrained Vukradin with a net. All were defeated by the party's spells and attacks, with one surviving thug fleeing the combat.
-
-## Locations
-
-### Northern Chamber
-
-An ancient chamber containing the bones of a dragon, where the Dragon Slayer Sword was found resting on a dragon skull. It was also the site of an ambush by an invisible stalker.
-
-### Ice Spire Mountains / Icespire Hold
-
-A mountain range where the dragon is reputed to dwell. Lady Alagondar's ghost stared sadly in this direction, and Sister Kaella warned that the Carver is marching on Icespire Hold to bind the white worm.
-
-### Phandalin
-
-A town that Sister Kaella warned the Carver intends to burn to the ground to test his new power after binding the white dragon.
-
-### Neverwinter
-
-A city the party intends to travel to in order to find an art collector, though their plans were interrupted by new developments.
-
-## Items
-
-### Dragon Slayer Sword
-
-A powerful \+1 sword found resting atop a dragon skull in the northern chamber, exactly where Boney had suggested it would be. Its presence appeared to be the reason an invisible stalker was summoned to guard the location. After the stalker was defeated, Brewbarry took possession of the sword, which is central to the party's quest to confront the dragon.
-
-## Spells
-
-### Cloud of Daggers
-
-A concentration spell used by Vukradin to create a swirling cloud of magical daggers in a fixed area. During the invisible stalker encounter, Vukradin moved it as a magic action to target the stalker's last known position and later directly onto the creature, dealing consistent damage.
-
-### Moonbeam
-
-A concentration spell used by Valphine to create a beam of pale moonlight that deals radiant damage. It was instrumental in revealing and damaging the invisible stalker, and was moved as a magic action to track the creature during combat.
-
-### Fairy Fire
-
-A spell cast by Valphine that outlines enemies in a shimmering light, making them visible and easier to target. It was used against the invisible stalker to help the party locate and hit it.
-
-### Hold Person
-
-A spell cast by Vukradin on multiple occasions during the session. It was first used to paralyze Sister Kaella, preventing her from speaking or acting. It was later cast again to simultaneously immobilize Jax and the Rot-Tusk Ogre, making them vulnerable to automatic critical hits from the party.
-
-### Spirit Guardians
-
-A spell cast by Valphine that summons spectral guardians in a 15-foot radius around her, dealing radiant damage to enemies who enter or begin their turn within the area and halving their speed. It was used effectively against Jax and the Rot-Tusk Ogre during the ambush.
-
-### Silvery Barbs
-
-A reaction spell cast by Vukradin to force an attacker to re-roll a successful attack against him, turning a hit into a miss during the fight against Jax and the thugs.
-
-### Array of Cards
-
-A spell used by Vukradin in a 15-foot cone while restrained by a net, dealing significant damage to multiple thugs surrounding him and defeating several of them at once.
-
-# Chapter 34: The One Hit Point Principle
+# Chapter 33: The One Hit Point Principle
 
 ---
 
@@ -5154,7 +4669,7 @@ The mountain had not answered yet.
 
 I waited.
 
-# Chapter 35 The Carver is not the Carver
+# Chapter 34 The Carver is not the Carver
 
 ---
 
@@ -5516,11 +5031,7 @@ I looked up at the dragon. I looked back at Vukradin. I still had the Dragon Sla
 
 I have seen a lot of things. That was a good one.
 
-# Chapter 36 A dragon defeated, a bard tempted, a barbarian's vengeance.
-
-# 
-
----
+# Chapter 35 A dragon defeated, a bard tempted, a barbarian's vengeance.
 
 ## **Brewbarry — The Dragon's Mountain Fortress**
 
@@ -5870,7 +5381,7 @@ I look at him. He is covered in dragon blood and is already thinking about the d
 
 We are going to Phandalin. Ser Kaelen will be there, ceremonial and over-composed, and I will smile and shake hands and let him have his celebration, and I will listen for what he does not say. That is fine. I have twenty-five words too, and I know how to use them.
 
-# Chapter 37 A Gem of a Problem, A Rat of a Solution
+# Chapter 36 A Gem of a Problem, A Rat of a Solution
 
 ---
 
@@ -6222,7 +5733,7 @@ The conclave was coming. The druids might try to take the staff. Adabra had alre
 
 I am old. I have seen much. I am not going to give anyone my staff.
 
-# Chapter 38 The Intervention
+# Chapter 37 The Intervention
 
 ---
 
@@ -7004,7 +6515,7 @@ That was enough for one night.
 
 [^3]:   Vukradin’s music was very controversial in Neverwinter. He was admired for his skill and talent, but his compositions reflected his obsession with re-ordering music from focused on harmony to that focused on what his fans called Vukradian Scales. 
 
-# Chapter 39 The Charge of the Light Brigade
+# Chapter 38 The Charge of the Light Brigade
 
 
 ---
@@ -7666,7 +7177,7 @@ He's evil. That is the verdict. The orcs are not. Two different problems.
 A pause from someone nearby. Some flicker of disbelief at how this fight was apparently going to be conducted.
 
 "Alright," I said. "Sounds good."
-# Chapter 40 Through the valley to the top of the hill
+# Chapter 39 Through the valley to the top of the hill
 
 
 ---
@@ -7977,7 +7488,7 @@ I held the staff and looked up at the standing stones and thought three leaves. 
 
 We stayed at the treeline and studied what we were walking into.
 
-# Chapter 41 — Unraveling the Storm God's Secrets
+# Chapter 40 — Unraveling the Storm God's Secrets
 
 ## Vukradin — Pre Battle Observations At The Circle Of Thunder
 
@@ -8301,7 +7812,7 @@ There was only so much we could do. I knew that was true. I had said it aloud an
 
 I just kept finding, when I looked at the red markers, that believing it didn't move them.
 
-# Chapter 42 A Storm is Coming
+# Chapter 41 A Storm is Coming
 
 ## Brewbarry — The Spoils of War
 
@@ -8656,7 +8167,7 @@ Gorthok first. You feel something like that before you see it. A mass. A wrongne
 Vukradin was muttering something about the working that tangles a mind in its own visions. Soma was watching her staff. Drubbak had not moved from his place, still listening for the chant that wasn't there.
 
 My sword was already in my hand.
-# Chapter 43 The Aasimar has Landed. 
+# Chapter 42 The Aasimar has Landed. 
 
 
 ---
@@ -9067,275 +8578,329 @@ It was full dusk now. The lodge behind us was lit from within, the new stewards 
 
 I stayed where I was for a while. The staff was warm in my hand. The night was coming in.
 
-# Chapter 44 The Unfated Routine of Rimardo and Corrin
+# Chapter 43: The Unfated Routine of Rimardo and Corrin
 
-Date: Jun 2nd, 2026
 
-## Summary
-The evening at Falcon's Lodge had barely settled into a comfortable rhythm when the hall doors swung open and a tall man in a coat that was just a little too fine strode in as though he owned the place. He was already talking before anyone could object, his voice carrying the practiced ease of a performer who had never once doubted his welcome. A pace behind him came a short, silent companion named Corrin, carrying a small case and a deck of cards, who made eye contact with exactly one member of the party and held it a beat too long. The tall man, Rimardo, announced himself as contracted for the eight o'clock show, noted with theatrical regret that it was considerably later than eight o'clock, and observed that no one in the room remembered signing anything — which he described as the beauty of a really good contract.
+---
 
-Rimardo proceeded to deliver a sweeping critique of the party's recent battle as though it had been a theatrical production with serious pacing problems. He mocked the lodge's missing front door as a bold embrace of the open-air concept, mourned the scorched timbers as a confident design choice, and declared that the true tragedy of the evening was not the battle at all, but the destruction of the wine cellar — pausing for a moment of silence on its behalf. He noted that the men had apparently stopped mid-apocalypse to drink what remained, which he called terrible theology and flawless hospitality in the same breath. The Falcon sputtered that he had never hired anyone, never signed anything, and Rimardo ignored him entirely, which Rimardo himself described as the single most heroic act of the evening.
+## Vukradin — The Late Curtain Call
 
-Throughout the performance, Corrin worked in silence beside him, laying down cards that illustrated cryptic warnings about what lay ahead. A card depicting a coastal town appeared, half-submerged in rising water. A drowned gate followed, weighted down with a chip of blackened coral. A tiny suit of armor was produced from nowhere and turned its head to look at the assembled party. Then Rimardo leaned in and delivered his most unsettling observation: that multiple gods of fate were circling, each one convinced they were the headliner of whatever was coming — and that was precisely how you knew none of them were. Six gods of fate, he said, meant six opening acts warming up a house that had not yet announced who they were warming up for. Corrin then produced a smooth gray stone that simply ceased to exist in his hand, a demonstration of something that could unhappen things entirely. Finally, he peeled back a card showing a green dragon like a sticker to reveal something older and colder beneath — a pale, lightning-touched creature of far greater age and menace. When the performance concluded, Corrin pinned a small knife through the words "balance outstanding" on an itemized invoice left on the table, and the lamps guttered. When the light returned, the hall doors were shut and there was no one left to have shut them.
+I was mid-set when they came in. I'd told myself the dinner crowd was worth playing for — potential, you know, investors, the kind of people who might one day put honest coin behind a studio — and I had them, the survivors of Falcon's lodge leaning into the chorus, when a tall man in a coat too good for the room walked in talking before anyone could object. A pace behind him came a short, silent fellow with a small case and a deck of cards. He found my eyes across the hall and held them a beat too long. Just mine. I smiled at him the way I smile at a man who hasn't paid yet but might.
 
-Vukradin, who had attempted to recruit the performers as investors in his music studio and had played for them in hopes of impressing them, received a single gold coin and a cryptic promise from Rimardo that they would perform together at the very end — the end of what, Rimardo did not say before vanishing. In the quiet that followed, Vukradin turned over the theological impossibility the performers had raised: if multiple beings controlled fate simultaneously, then fate could not be predetermined, and destiny as a concept simply collapsed. Valphine recalled that by all traditional understanding, there was exactly one god of fate in Faerûn — Savras — which made the convergence of multiple such figures all the more troubling. The party resolved to set aside the mystery for the morning and focus on what could be done: retrieving the Boots of Elvenkind from the Woodland Manse and investigating a nearby shrine of Savras.
+"Apologies for the late curtain," the tall one said. "The Boar engagement ran long. Well — ran short, really. He was booked elsewhere." A pause, exact as a rest in a measure. "Permanently."
 
-When morning came, the party made their way to the Woodland Manse, where Vukradin used a rare gift of magical speech to communicate directly with the boars grazing outside. The boars expressed profound relief that the unruly boars who had refused to follow the rules about communal eating were gone for good, and warned the party that while the grounds were peaceful, the interior of the manse was another matter entirely. The party pressed on through the portico, past the double doors carved with a giant boar's head, and into the ruined interior. In a smashed cabinet in the parlor, Brewbarry discovered the sole surviving bottle of wine from the manse's stores, and he drank it without hesitation or apology. Moments later, spotting a boar in the courtyard that Vukradin recognized as a shapeshifted anchorite of Talos, Brewbarry charged in with his great axe, motivated in roughly equal measure by righteous fury and a deep personal grievance over destroyed wine.
+"The boar engagement?" Soma said.
 
-The battle that followed was chaotic and relentless. The anchorite shouted commands that caused vine blights to tear themselves free from the courtyard tree, and the party was quickly surrounded by grasping, thorned plant creatures. Vukradin unleashed a flourish of magical cards that shredded several of the blights where they stood, while Prutha hacked through another with his great axe. Soma transformed into a brown bear and tore through the encroaching plant creatures with tooth and claw, and a wave of small twig blights rushed in to swarm her, clawing uselessly at her thick fur. Brewbarry smashed through the last of them, reducing the twig blights to a fine mist of sawdust, and then Valphine conjured a sphere of inky, psychic darkness through the doorway that filled the chamber and obliterated every remaining creature within it — vine blights, twig blights, and the anchorite of Talos alike — in a single devastating surge.
+"Thank you! Thank you, please hold your applause, you'll need it." He produced a ledger from somewhere. "A round for the survivors. And a smaller round for the ones who almost survived. We're contracted for the eight o'clock. I realize no one in this room remembers signing anything — that's the beauty of a really good contract. You don't remember signing it. You just look up one evening and there's a man in a coat doing material about your boar." He swept a hand at the scorched beams, the gap where the doors had been. "Lovely room. A bit of a fixer-upper. The management's embraced an open-air concept where the front door used to be — the kind of venue where you tell yourself the screaming improves the acoustics."
 
-With the courtyard cleared, the party spread out to explore the manse's interior. Soma, still in bear form, climbed through a hole in a collapsed ceiling to scout the upper hallway, while Valphine investigated a chamber filled with copper rods hammered into the ruined walls, boar tusks wrapped in copper wire, and blackened iron nails. Talos prayers had been rewritten on parchment scraps tacked to the lintels, but their verbs had been changed to imperatives — timing instructions rather than devotions — and the lightning bolt symbols were too precise, too geometric, suggesting something calculated and deliberate rather than merely fanatical. Prutha stood beside Valphine and said nothing, but his unease was plain on his face. Brewbarry, meanwhile, attempted to ascend the main staircase, which promptly collapsed under his considerable weight and sent him crashing down onto the spikes below, destroying the only staircase in the manse entirely. The session came to an abrupt halt when Soma, pushing deeper into the upper floor, stepped through a doorway and was immediately set upon by three blood-sucking stirges dropping from the darkness above — leaving the party's druid surrounded, the staircase in ruins, and the manse's secrets still very much unresolved.
+The short one — Corrin, I'd learn — drew a gloved finger down a burnt timber and tasted the soot off it like a vintage. "Ozone," he murmured. "A confident ozone. Last week's headliner really left it on the stage."
 
-## Memorable Moments
-> "Apologies for the late curtain. The Boar engagement rang long. Well, ran short, really. He was booked elsewhere. Permanently."
-> — Rimardo
+Then the tall man's finger came straight to me. "You open on a hypnotism bit. A whole front row, out cold, before a sword's drawn. Courageous. Brave. And then an act about dice that's over before anyone can blink." He turned to Brewbarry. "The real tragedy — everyone keeps saying the lodge held, the people were saved, and nobody is talking about the cellar. They slaughtered every cask, and the order of operations matters for the claim. They destroyed some and drank the rest, which means, mid-apocalypse, those men stopped to have a glass. Terrible theology. Flawless hospitality instincts."
 
-*Rimardo's opening line as he strode uninvited into the dining hall, reframing the party's deadly boar battle as a botched theatrical booking.*
+Falcon was on his feet by then — *I never ordered anything, what are you doing here* — and the man ignored him completely, which he called the single most heroic thing anyone in the story had managed. He hired the three confused orc stewards on the spot. *The pay is exposure. The first lesson is which fork. The second is that there's never a reason for a second fork, and the man teaching you is lying about the cutlery the way he lies about dragons.*
 
-> "That's the beauty of a really good contract. You don't remember signing it. You just look up one evening, and there's a man in a coat doing material about your boar."
-> — Rimardo
+He recited his house rules — no requests, we *are* the request; non-refundable, academic, as no one had paid — and on the third, Corrin lifted three fingers and pulled one down himself, slow. *Mr. Corrin has struck number three from the record. We've stopped asking. The lawyers have stopped asking. The gods have largely stopped asking.*
 
-*Rimardo casually explaining to the confused Falcon why no one remembers agreeing to hire him for the evening's performance.*
+Then he looked at me again. "Aasimar bard, of course. The genre requires one. Someone has to be beautiful and concerned." To Valphine: "A faith that discovers that light hurts. Took the rest of us millennia to be that honest." And to Boney, of all things: "Committed horse. Doesn't let a little thing like being dead affect his work ethic."
 
-> "The kind of venue where you tell yourself the screaming improves the acoustics."
-> — Rimardo
+"I don't remember Rimardo being quite such an asshole, by the way," I said, to no one.
 
-*Rimardo surveying the ruined, gate-blasted lodge and praising its newly redecorated, open-air aesthetic.*
+It only got stranger. A card of a coastal town half drowned. The storm, he said, was touring — *weather's a reliable draw, encore after encore* — and Corrin spun a thunderhead on the tabletop that spun a breath too long, then tipped a glass that overflowed and kept overflowing onto the floor. A sealed door beneath the stage that management swore was structural. *Management is lying. Management always is.* A blackened coral chip pinning down a card of a drowned gate. A tiny perfect suit of armor that turned its head to look at us. Then the part I couldn't shake: six gods of fate, he said, each certain he was the headliner — *that's precisely how you know none of them are.* Corrin turned a blank card, turned it again, turned it a third time, still blank, then held up a smooth gray stone and made it not have been in his hand. A green dragon peeled back like a sticker to show a colder, older, lightning-pale thing underneath. And last, an itemized invoice — *emotional damages, Brewbarry's wine, one cask, sentimental value, assessed at zero* — with *balance outstanding* written at the bottom in a hand that was not Corrin's, pinned to the table by a small knife he left standing in the wood.
 
-> "Now, the real tragedy — everyone keeps saying the lodge held, the people were saved, and nobody is talking about the cellar. A moment of silence for the wine."
-> — Rimardo
+"You've been a wonderful audience," Rimardo said. "You'll be a better one in Leilon. You'll have context."
 
-*Rimardo delivering his theatrical critique of the party's recent battle, treating the destruction of the wine cellar as the true catastrophe of the evening.*
+I got up before they could go. Because there was a thing I needed to know first. "You seem like one of those treasure hunters," I said. "Aren't ya?"
 
-> "They destroyed some of the wine and drank the rest, which means, mid-apocalypse, those men stopped to have a glass. Terrible theology, flawless hospitality, instincts."
-> — Rimardo
+"No," the tall one said. "Actors. Comedians. We're here for the show. Top billing."
 
-*Removing his hat in tribute to the cultists who paused their slaughter to enjoy a vintage.*
+And I believed him — I'm naive enough for that, and proud of it. No grave-robbing, no stolen goods, just a man in a coat. The trouble was, watching them, something turned over clean and certain in the back of my head: the whole performance was constructed, *uncanny*, and they weren't sending us anywhere. They were telling us what was already happening — only in the wrong genre. I can't imagine Rimardo and Corrin give two shits about any of this, I thought.
 
-> "I never ordered anything! What are you doing here!"
-> — The Falcon
+So I did the only thing I know how to do with a man who might have money. "Have you ever thought about investing in a music studio? I'm quite a performer — would you like to hear me play?"
 
-*The Falcon's outburst at the intruders — which Rimardo ignored entirely, calling that act of ignoring "the single most heroic thing anyone in this story has actually done."*
+Corrin cracked some joke at that. I didn't care. "It's always served you well in the past," Soma said, dry as bark, and I took it as encouragement.
 
-> "Lovely horse. Committed horse. Doesn't let a little thing like being dead affect his work ethic. You've been declared honorary members of an orc tribe. Sit with that. You came to save these people, and you've been absorbed by them. That's not a victory. That's a merger."
-> — Rimardo
+I got up and I played. And it was one of those nights — the rare ones — where every note landed exactly where I'd reached for it, where my hands were ahead of my thinking and the survivors at the back tables had been mid-grumble when I started and they weren't mid-grumble anymore. The tall man watched the whole thing through, and when I finished he was, for once, not performing. "Kid," he said, "if you stick with it — at the very end, you'll find out, and we'll perform together."
 
-*Rimardo turning his critique on Boney and the party's standing among the orcs.*
+"Very end," I said. "The end of *what?* We're at the end!"
 
-> "I don't remember Rimardo being quite such an asshole, by the way."
-> — Vukradin (Dave)
+"Gotta go." And he left, and the lamps guttered low, and when they came back the hall doors were shut, with no one in the room to have shut them.
 
-*Vukradin's aside after enduring the full barrage of the performer's mockery.*
+He hadn't even paid me, I thought — until I found the coin. One. Gold.
 
-> "Every god of fate believes he's the headliner. That's precisely how you know none of them are. You don't get six headliners — you get six opening acts in a house that hasn't announced who they're warming up for."
-> — Rimardo
+"One whole coin?" Soma said. "Gold coin?"
 
-*Rimardo delivering his most cryptic warning of the evening, hinting that multiple gods of fate are converging but none of them is the true power behind events.*
+"Not blood money," I said, turning it. Honest coin, earned with my own hands in front of witnesses. "We'll add it to the tally." The tally grows. Slowly, but it grows, and every piece of it clean.
 
-> "You've been a wonderful audience. You'll be a better one in Leilon. You'll have context."
-> — Rimardo
+It was only sitting back down that the other thing finished landing — the soppy musicals I'd always hated, the ones that wouldn't shut up about fate and destiny. *Whatever happened to free will, anyway.* If there's more than one god of fate, then there's no destiny at all. And something was dragging all of them here, at once, to the wrong stage.
 
-*The parting promise as the lamps guttered and the doors shut on their own.*
+"Valphine," I said, "you're a priest. How many gods of fate are there?"
 
-> "No. Actors. Actors. Comedians. We're here for the show. Top Billing."
-> — Rimardo
+"I don't think I care," she said. But the answer I half-remembered surfaced anyway — that the Lathandrian clerics will tell you there is exactly one, and his name is Savras.
 
-*Rimardo's flat denial when Vukradin accused him of being "one of those treasure hunters."*
+"There's only one God of Fate," Valphine allowed. "But it doesn't matter, because Lathander is more powerful."
 
-> "Kid, if you stick with it at the very end, you'll find out, and we'll perform together."
-> — Rimardo (to Vukradin)
+I went to Falcon, who was still vibrating with it. "Did you know those people? Did you invite them? Did you sign a contract?"
 
-*The cryptic promise after Vukradin's stellar performance (a natural 20, 27 total) — to which Vukradin replied, "The end of what? We're at the end!"*
+"I signed no contract!" he said. "Did you hear what they said about — they made fun of me."
 
-> "If there is more than one God of fate, that means there isn't any destiny."
-> — Vukradin's realization
+"They made fun of all of us," Valphine said.
 
-*Wade's Soma framed the same paradox: "How can multiple people control fate if fate is predetermined?"*
+"Well, yes — but *me!* This is my house." He stopped. Considered. "But — were they any good?"
 
-> "The sooner things are repaired, the sooner there will be beer."
-> — Brewbarry
+"I don't think so," I said.
 
-*Brewbarry, persuaded (with a failed wisdom save of 5) to help rebuild the lodge, before standing up, grabbing food off the table, and walking out eating it: "I'm a big guy, I need to eat a lot."*
+"We should cancel their late-night show," said Valphine.
 
-**Corrin peels back a card showing a green dragon like a sticker to reveal an older, colder, lightning-pale dragon underneath, then leaves a knife pinned through the words 'balance outstanding' on the table before vanishing with the lamps.**
+It's a good thing, I told myself, that they're not in it for the money. Somewhere on his way out the door, I was fairly sure, Corrin would have winked at that — *there are other ways to make money* — and meant something.
 
-*The climax of the performers' cryptic act, leaving the party with an ominous warning about a far more dangerous dragon and an unpaid debt.*
+---
 
-**Brewbarry finds the one surviving bottle of wine in the ruined manse, immediately drinks the entire thing, and then moments later charges into combat against the anchorite who destroyed the rest of the wine.**
+## Valphine — Reflections on Fate and Morning Plans
 
-*Brewbarry's priorities perfectly on display — wine first, vengeance second, everything else a distant third.*
+The stage where they had stood was empty now, and the wrongness of it sat on my tongue like a bad vintage. I have spent enough of my life reading rooms — in Menzoberranzan you learned the angle of a smile or you died of it — and so I looked hard at the place where the performers had been, at the memory of their faces, and I asked the only question worth asking. *Who are these people, and what are they trying to achieve?* The answer arrived whole and certain, the way truth arrives when you finally stop flinching from it: the performance had been uncanny and constructed. Not a troupe. A device. Something assembled to look like joy, the seams hidden but present, the way a corpse can be arranged to look asleep.
 
-**Valphine conjures a sphere of inky psychic fog through the doorway, filling the chamber and obliterating the remaining twig blights and the anchorite of Talos in a single devastating surge of magical darkness.**
+They wanted me to turn my mind toward religion, toward the names that had been dropped — Rimardo, Corrin — and I will admit I did so without much faith. I don't know why I'd know anything about religion that has anything to do with Rimardo. The thought passed over me and left no residue. Whatever doctrine those two belonged to, it was none of mine.
 
-*A decisive and overwhelming finish to the courtyard battle, clearing the room of every remaining enemy in one action.*
-
-**Brewbarry confidently strides onto the weakened staircase, which immediately collapses under his weight, sending him crashing down onto spikes below and completely destroying the only staircase in the manse.**
-
-*A moment of hubris immediately after a victorious battle, leaving the party's heaviest member stuck on the ground floor. Dave's verdict: "It was the wine. It was the wine. He was drunk. He walked up the stairs, he stumbled..."*
-
-## Scenes
-### The Late Curtain Call
-#### A mysterious duo of performers interrupts the party's dinner at the lodge to deliver a cryptic and theatrical recap of recent events and ominous warnings about the future.
-- A tall man in an elegant coat named Rimardo and his silent companion Corrin, carrying a small case and a deck of cards, stride into the dining hall uninvited; Corrin makes eye contact with exactly one person and holds it a beat too long.
-- Rimardo opens with "A round for the survivors" and "a smaller round for the ones who almost survived," telling them to hold their applause because "you'll need it" after "a long day of not dying."
-- Rimardo delivers a dramatic monologue critiquing the party's recent battle with a boar as if it were a theatrical production, mocking the pacing and blocking: a "hypnotism bit" (pointing at Vukradin — "10 in the front row, out cold, before a sword's drawn"), "a 4-second act about dice," and the boar dying "to a good blocking" rather than as a hero.
-- Corrin runs a gloved finger along a scorched timber and examines it like a sommelier: "Ozone, a confident ozone. Last week's headliner really left it on the stage."
-- Rimardo mocks the destruction of the lodge, the 'open-air concept' where the front door used to be, and mourns the loss of the wine cellar, noting the cultists "slaughtered every cask" before pausing mid-apocalypse for a glass.
-- Rimardo addresses the Falcon as "our gracious host of the Dragon Slayer," "a man who looked at a dead dragon's leftovers and built a hospitality empire."
-- Rimardo "hires" the three confused orc stewards as fresh staff — "The pay is exposure. The first lesson is which fork? The second lesson is that there's never a reason to need a second fork, and the man teaching you is lying about the cutlery the way he lies about dragons."
-- Rimardo recites the "House rules": (1) "no requests. We are the request. You simply haven't been billed yet," (2) "non-refundable, academic, as no one has paid," and (3) — which Corrin physically "redacts" by pulling down a third finger — struck from the record. "We've stopped asking, the lawyers have stopped asking, the gods have largely stopped asking."
-- Rimardo addresses each party member in turn: Vukradin is an "Aasimar bard, of course. The genre requires one. Someone has to be beautiful and concerned"; Valphine's faith is one "that discovers that light hurts"; Boney is praised as a "committed horse" who doesn't let being dead affect his work ethic.
-- The Falcon confronts the intruders, insisting he never hired them and never signed any contract, which Rimardo ignores entirely.
-- Corrin uses a deck of cards and magical props to illustrate cryptic warnings: a card of a coastal town half underwater, a drowned gate weighted with a blackened coral chip, and a tiny suit of armor that turns its head to look at the party.
-- Rimardo warns of "the storm you've met" — "They're touring, actually. Weather's a reliable draw" — and of a sealed door beneath the stage that management insists is "structural," lying as management always does.
-- Rimardo reveals that multiple gods of fate are acting as opening acts for an unannounced headliner, with no single god being the true headliner.
-- Corrin turns over a blank card three times, then demonstrates a smooth gray stone that 'unhappens' things — "There's a prop in the third act that unhappens things. Audiences adore it! Terrible for continuity" — causing it to simply stop existing in his hand.
-- Rimardo speaks of the dragon: "The understudy is playing the lead, and no one told the audience" — "a far older and far worse actress than the part requires." A card showing a green dragon is peeled back like a sticker to reveal an older, colder, lightning-pale dragon underneath.
-- Corrin presents an itemized invoice for 'emotional damages, Brewbarry's wine, one cask, sentimental value, assessed at zero,' with 'balance outstanding' written in a hand that is not Corrin's and pinned to the table by a small knife.
-- Vukradin attempts to recruit the performers for a music studio investment ("Have you ever thought about investing in a music studio? I'm quite a performer, would you like to hear me play?") and performs for them (rolling a natural 20, 27 total), earning a single gold coin and a cryptic promise from Rimardo to perform together 'at the very end.'
-- Rimardo tells the party they will be "a better" audience "in Leilon," where they will "have context."
-- Rimardo and Corrin vanish as the lamps gutter and the hall doors shut on their own, with no one present to have shut them.
-
-### Reflections on Fate and Morning Plans
-#### After the performers vanish, the party processes the cryptic visit and makes plans for the morning.
-- Valphine rolls a 21 Insight and feels the entire performance is "uncanny and constructed"; Vukradin's natural 20 religion check fixates his mind on the impossibility of multiple gods of fate.
-- The party recognizes that the performers are "not sending you on a quest" but "telling you what's already happening in the wrong genre," and that they ask for nothing, pay nothing, and charge nothing.
-- Vukradin realizes the theological impossibility of multiple gods of fate, recalling how he always hated soppy musicals about fate and destiny, and concluding that if multiple beings control fate simultaneously, there can be no true predetermined destiny.
-- Valphine recalls (per the Lathandrian clerics' teaching) that Savras is traditionally the sole god of fate in Faerûn, making the performers' claims even more unusual and troubling — though Valphine concludes "it doesn't matter, because Lathander is more powerful."
-- The Falcon asks "were they any good?" — Vukradin: "I don't think so" — and Valphine declares "We should cancel their late night show."
-- The party discusses the state of Falcon's Lodge and the need to repair the brewery to restore the wine supply, raising the idea of spells like create food and water or a Grand Feast.
-- Brewbarry, motivated by the promise of future beer (after a failed wisdom save of 5), agrees to help with the repairs and walks off eating food from the table, noting he is a big guy who needs to eat a lot.
-- The party decides to head to the Woodland Manse (an hour's walk) to collect the Boots of Elvenkind and then investigate a shrine of Savras.
-- The party notes that Jenna Roscoe of the Lord's Alliance offered to gather information on the missing Sister Kaella, though Vukradin remains deeply distrustful of her, convinced she lied to him and is "a nasty, no-good treasure hunter."
-- Valphine decides that Prutha will accompany the party to the Manse rather than stay with his tribe, framing it as part of a broader mission to spread the Church of the Searing Light — Valphine's own true sect of Lathander — across Faerûn. Prutha declares his loyalty: "I follow the true prophet! ... ALWAYS!"
-- The party clarifies the orcish tribe genuinely wants to return to their old home rather than settle at Falcon's Lodge, which would not work for the Falcon or for them.
-
-### Negotiations with the Boars
-#### Vukradin uses magical speech to communicate with the local boars outside the Woodland Manse to assess the situation.
-- Vukradin burns his universal speech ability (once per long rest, up to four creatures, any language for one hour) on the boars, declaring "The power of Talos has been defeated. We are here to bring the glory of Lathander. Join us now."
-- The boars ignore the theology entirely, fixating instead on "the most important question, and the only question": whether "the unpleasant boars that were not obeying the rules about who got to eat what" are gone for good.
-- Confirmed that the rule-breaking boars will not be returning, the relieved boars respond "Wonderful! Wonderful!" and head off to eat more pumpkin.
-- A second boar warns the party that "just the other day, we went in there, and it was not as safe as it usually is" — the outside is secure, but the inside remains a "hot mess."
-
-### Incursion into the Woodland Manse
-#### The party enters the ruined manse, discovering a lone bottle of wine and spotting a threat in the courtyard.
-- The party enters the Woodland Manse through the portico, noting the stone balcony at a height of 10 feet, vines wrapping the support pillars, and the giant boar's head crudely carved into the double doors.
-- Vukradin grants the party bardic inspiration and Valphine readies Bless before they push into the ruined interior.
-- The parlor is found strewn with broken furniture and a smashed wine cabinet; Brewbarry discovers a single surviving bottle of wine and immediately chugs it.
-- Vukradin spots a boar in the flagstone courtyard (which features a 5-foot stone well with thick vines erupting from it) and Valphine, speaking Orcish, lures it — identifying it as a shapeshifted anchorite of Talos.
-- Brewbarry charges into the courtyard to attack the anchorite, told there is "an anchorite over there who's responsible for the destruction of the wine."
-
-### Battle in the Courtyard
-#### A chaotic skirmish breaks out as an anchorite of Talos summons vine blights and twig blights to defend the manse against the party.
-- Brewbarry, gaining advantage on initiative from a barbarian ability, charges in and lands a powerful blow on the anchorite for 27 damage.
-- Valphine calls down Sacred Flame (DC 15 Dex save) for 8 points of damage on the anchorite.
-- The anchorite shouts a command, causing five vine blights to materialize from the courtyard tree, then shifts from boar form into his true anchorite form.
-- Brewbarry strikes the anchorite again with an attack of opportunity as the creature attempts to reposition.
-- Vukradin unleashes a spray of magical cards (a 15-foot cone, DC 15 Dex save, 23 damage), shredding several of the vine blights where they stand.
-- Prutha charges into the fray, hacking down vine blight number 4 with his great axe for 9 damage.
-- Soma transforms into a brown bear, squeezes into the cramped room, and bites and claws through the encroaching plant creatures, killing vine blights 2 and 3 (using a bardic inspiration to land a hit).
-- A vine blight conjures grasping roots in a 15-foot radius (DC 12 Strength save), but the entire party — including Prutha — breaks free; Vukradin notes a Strength save of 17 unusual for his character.
-- A swarm of twig blights (each with only a few hit points) rushes into the room, surrounding Soma in bear form and clawing at her thick fur, landing only 3 damage against her temporary hit points while most attacks whiff against her AC 17.
-- Brewbarry smashes through the remaining twig blights, reducing them to a fine mist of sawdust.
-- Valphine conjures a Doom Sphere — a 20-foot radius of inky, magical darkness dealing 5d6 psychic damage — through the doorway; a roll of 7 means even on a save the creatures take enough to die, obliterating the remaining twig blights and the anchorite (who fails his Wisdom save).
-
-### Exploring the Ruined Manse
-#### After clearing the courtyard, the party investigates the interior of the manse, discovering dark rituals and suffering a structural mishap.
-- Soma, still in brown bear form, opens a door to a ruined room that once served as a kitchen, dining room, and bedchamber, with four beds, four wardrobes, a dish cabinet, and a collapsed ceiling in the corner leaving a jagged hole to the room above.
-- Soma climbs through the hole in the collapsed ceiling (using a 30-foot climb speed) to reach the upper floor, finds the room once held by orcs of the Cult of Talos now empty, and continues scouting an upper corridor lined with ivy-choked windows.
-- Brewbarry attempts to climb the main staircase, whose upper half collapses under any weight over 50 pounds (DC 17 Dexterity check); he fails, falls onto three spikes for 14 damage (3d6), destroys the staircase entirely, and loses his rage.
-- Valphine dismisses the lingering Doom fog after a listening perception check confirms nothing is still moving, then inspects a room filled with copper rods hammered into the ruined walls and foundations.
-- The party discovers Talos prayers rewritten as imperative timing instructions on parchment scraps tacked to the lintels, alongside boar tusks wrapped in copper wire and blackened iron nails arranged in a lightning bolt symbol that is "too geometric" — too precise for a mere anchorite's ritual.
-- An Arcana check (9) confirms it is safe to enter the ritual chamber; Prutha follows Valphine in, sensing something is "off" but unable to articulate it, and declaring "I make things safe for Cleric of Lathander."
-- Soma enters a new room on the upper floor and is immediately ambushed by three blood-sucking stirges (2 hit points each) dropping from above, ending the session on a cliffhanger.
-
-## Locations
-### Falcon's Lodge
-A hospitality empire built on the remains of a dead dragon, currently featuring an 'open-air concept' due to a missing front door and scorched timbers from a recent battle. The gate has been "redecorated by lightning," and the wine cellar was devastated during the conflict — "every cask" slaughtered. The Falcon hosts under the name "the Dragon Slayer."
-
-### Woodland Manse
-A crumbling stone manor overgrown with vines and ivy, an hour's walk from the lodge, featuring a portico with a stone balcony 10 feet up, a flagstone courtyard with a pillared arcade and a 5-foot stone well sprouting thick vines, and upper floors with collapsed ceilings. The ground-floor double doors bear a crudely carved giant boar's head. It was occupied by orcs and anchorites of Talos and contains rooms repurposed for dark rituals. The main staircase, weakened to collapse under any weight over 50 pounds, is now destroyed. The party recalls getting badly beaten here on a previous visit.
-
-## Items
-### Deck of Cards
-A deck carried by the silent performer Corrin, used as part of their mysterious theatrical act to illustrate cryptic warnings about future events, including a coastal town half underwater, a drowned gate weighted with blackened coral, a card turned blank three times, and a dragon whose card peeled back like a sticker to reveal an older, colder creature beneath.
-
-### Smooth Gray Stone
-A magical prop produced by Corrin that 'unhappens' things — described as "a prop in the third act that unhappens things" — it simply stops being in his hand, ceasing to exist as a demonstration of a force that can undo events.
-
-### Itemized Invoice
-A bill for the evening's performance presented by Rimardo, listing a charge for "emotional damages, Brewbarry's wine, one cask, sentimental value, assessed at zero." At the bottom, in a hand that is not Corrin's, are the words "balance outstanding," pinned to the table by a small knife left behind when the performers vanished.
-
-### Gold Coin
-A single gold piece (1 GP) given to Vukradin by the performers as a token after his impressive performance. Added to the party tally, which now stands at 731 gold pieces.
-
-### Boots of Elvenkind
-The treasure the party seeks to recover from the Woodland Manse, which motivated their return to the location.
-
-### Bottle of Wine
-A solitary bottle found in a ruined cabinet within the manse's parlor, the lone survivor of the wine stores. It was claimed and immediately chugged by Brewbarry, taking about a minute to finish.
-
-### Copper Rods
-Rods hammered into the ruined walls and foundations of the Woodland Manse, part of a strangely precise and geometric ritual setup dedicated to Talos.
-
-### Boar Tusks
-Tusks wrapped in copper wire, found alongside blackened iron nails arranged in a lightning bolt symbol as part of the ritualistic decorations in the manse.
-
-### Talos Prayers
-Parchment scraps tacked to lintels containing prayers to the god of storms, rewritten specifically with imperative verbs as timing instructions, suggesting a calculated and deliberate ritual purpose rather than mere fanaticism.
-
-## Spells
-### Universal Speech
-A magical ability used by Vukradin that allows any creatures — including the local boars at the Woodland Manse — to understand his words regardless of language, for up to one hour, affecting up to four creatures, usable once per long rest. He chose to burn it on the boars to learn about the state of the manse.
-
-### Sacred Flame
-A pillar of divine radiance called down by Valphine to strike the anchorite of Talos during the courtyard battle, forcing a DC 15 Dexterity saving throw and dealing 8 radiant damage on a failed save.
-
-### Spray of Cards
-A flourish of magical cards unleashed by Vukradin in a 15-foot cone (DC 15 Dexterity save), dealing 23 damage and shredding several vine blights manifesting near the courtyard tree.
-
-### Doom Sphere
-A sphere of inky magical darkness conjured by Valphine in a 20-foot radius that deals 5d6 psychic damage to all creatures within it each turn and moves 10 feet away from the caster each turn. Cast through the doorway into the courtyard chamber, it obliterated the remaining twig blights and the anchorite of Talos (who failed his Wisdom save) in a single surge.
-
-### Bless
-Cast by Valphine at the start of the manse incursion, granting the party bonuses on attack rolls (used by Soma to convert a whiffed bear attack into a hit).
-
-### Bardic Inspiration
-Granted by Vukradin to the party before entering the manse, used by Soma to land a key bear attack during the courtyard battle.
-
-## NPCs
-### Rimardo
-A tall man in a slightly too-fine coat who speaks with the flair of a seasoned actor. He treats real-life battles and tragedies as theatrical performances, critiquing pacing and blocking. He claims to be an actor and comedian rather than a treasure hunter ("We're here for the show. Top Billing") and says he has "been in the acting biz for eons" and can't remember where it started or ended. He promises Vukradin they will perform together "at the very end."
-
-### Corrin
-A short, silent performer and partner to Rimardo who communicates through a deck of cards, magical props, and deliberate hand gestures. Referred to by Rimardo as "Mr. Corrin," he has the uncanny ability to "redact clauses" with his hands — physically striking the third house rule by lowering a finger — and produces magical items such as a stone that unhappens things, a spinning thunderhead, an overflowing glass, and a tiny self-animating suit of armor.
-
-### The Falcon
-The host of the lodge, referred to as the host of the Dragon Slayer who "built a hospitality empire" from a dead dragon's leftovers. He is confused and defensive when the mysterious performers arrive, throwing a temper tantrum and insisting "I never ordered anything!" and "I signed no contract!" He later asks the party whether the performers were "any good" and is reassured by the party that they were not.
-
-### Prutha
-An orc true believer and follower of Valphine's Church of the Searing Light, torn between his tribe and his new faith. He accompanies the party to the Woodland Manse and assists in combat with his great axe, breaks free of the grasping roots, and stands beside Valphine in the ritual chamber, sensing something is "off" but unable to articulate it. He declares his loyalty: "I follow the true prophet! ... ALWAYS!" and "I make things safe for Cleric of Lathander."
-
-### Jenna Roscoe
-A member of the Lord's Alliance who previously offered to gather information regarding the missing Sister Kaella. Briefly mentioned by the party when discussing leads on Sister Kaella's whereabouts. Sister Kaella herself is said to have "gone to the wind."
-
-### Anchorite of Talos
-A shapeshifting cultist capable of taking the form of a boar. He serves the god of storms and summoned vine blights and twig blights to defend the Woodland Manse, shifting from boar form into his true anchorite form mid-battle, ultimately meeting his end within Valphine's sphere of psychic darkness after failing his Wisdom save.
-
-### Vine Blights
-Malevolent plant creatures (five of them) summoned from the vines of the courtyard tree by the anchorite to entangle and attack the party, capable of conjuring grasping roots in a 15-foot radius (DC 12 Strength save to avoid being restrained).
-
-### Twig Blights
-Small, fast plant creatures with very few hit points that rushed into the manse to swarm Soma in bear form, squeezing through doorways diagonally before being destroyed by Brewbarry and reduced to a fine mist of sawdust.
-
-### Stirges
-Three blood-sucking creatures (2 hit points each) that dropped from the darkness of the upper floor onto Soma, ending the session on a cliffhanger.
-
-### Brewbarry
-A large Goliath barbarian and companion of the party who gains advantage on initiative. He is deeply motivated by wine and beer, charges headlong into combat, drank the manse's last bottle of wine before the fight, and suffered a painful 14-damage fall onto spikes when the manse's staircase collapsed under his weight, ending his rage. Persuaded to help rebuild the lodge with the promise of beer, he noted "I'm a big guy, I need to eat a lot."
-
-# Chapter 45 Victory Lap
+But Vukradin caught something I had let fall. I watched his face go still — that particular stillness of a man who has just stepped on a stair that isn't there — and I knew the thing had hold of him the way Lathander had hold of me, before I understood what kind of hand it was. The whole texture of it settled for me then, what these two actually were. They asked us for nothing. They interfered with nothing. They paid us nothing and charged us nothing.
 
+"Therefore," I said, "I don't think I have any interest in them."
+
+That should have been the end of it. Instead Vukradin got up — of course he did — and made the dead air into a market. He turned to Falcon, who was working himself toward a tantrum about whether anyone had *invited* these people, and pitched a music studio at him like a man selling tonic. *Have you ever thought about investing? Would you like to hear me play?* And then he played, and I have heard enough of him by now to know when he is merely competent and when he has reached down into the deeper thing — this was the thing that sits under competence — the kind that moves rooms without appearing to; I noted the shift in Rimardo's stance and filed it. The one who called himself Rimardo was impressed. He told the shell sprout that if he stuck with it, at the very end, he'd find out, and they'd perform together. Then he pressed a single gold coin into Vukradin's palm and the act simply was not there anymore.
+
+"Not blood money," Vukradin said, already counting. "We'll add it to the tally."
+
+The fate thing kept eating at him. I could see it in the way he tried to settle himself at the table and couldn't. He turned to me at last with the desperation of a man who has discovered theology in his soup. "Valphine, you're a priest. How many gods of fate are there?"
+
+"I don't think I care," I told him, and I meant it. But the doctrine surfaced anyway, the way the catechism does whether you want it or not — and here was the part where I knew more than any of them, where my training as a Lathandrian came up clean and certain. There is exactly one god of fate in Faerûn, and his name is Savras.
+
+"There's only one God of Fate," I said.
+
+"Who?" said Vukradin.
+
+I did not bother to explain him. The arithmetic was simple and it was not mine to solve. If two beings stand on a stage and both lay claim to fate, then either one of them is lying, or fate is not what fate is supposed to be — and that is Savras's problem, not mine. "But anyway," I said, "it doesn't matter, because Lathander is more powerful."
+
+Falcon was still wounded, circling back to it with a child's persistence — they'd made fun of him, in his own house, that he'd *paid* for. He paused, mid-grievance. *But were they any good?*
+
+"I don't think so," Vukradin said.
+
+"We should cancel their late night show," I said.
+
+After that it was wine, and the lack of it, which moved Brewbarry where philosophy never could. They reached for magic — the working that calls bread and water out of empty air, a whole feast conjured from nothing — but the truth was the brewery needed rebuilding before there'd be anything worth drinking again. I told them so: for them to brew more wine here, we'd have to repair his beer hall and his brewery. The work of persuading Brewbarry to lift a hand fell flat — words are cheap with him — but the promise of future beer slid past whatever guard a Goliath keeps. *The sooner things are repaired, the sooner there will be beer.* He stood, considered the table, took an armful of food, and walked out eating it, announcing that he was a big guy and needed to eat a lot.
+
+Morning, then. The Woodland Manse first — an hour's walk, the Boots of Elvenkind waiting in it. "Yeah, and it's like an hour walk or something," I said. And after, the Shrine of Savras. The god of fate again, circling back like he wanted noticing. "Sounds like the right stop," I said.
+
+Vukradin worried at the loose thread of Sister Kaella, gone to the wind, and bristled when he heard that Jenna Roscoe of the Lord's Alliance had offered to find her. He's sure she lied to him. He's sure she's a nasty, no-good treasure hunter. I did not argue. Both things can be true and neither one is mine to carry.
+
+That left Prutha, torn between the new prophet and his own people. The orcs want their old home back — not Falcon's Lodge, which would suit neither them nor him. I had meant to place them here as new settlers. The ground, it turned out, had not been prepared for what I had in mind.
+
+"Think of it as missions across all of Faerûn," Vukradin said.
+
+"So we have the Falcon mission," I said, "and then we also have the Orcish mission?"
+
+"You've gotta spread Lathander throughout the land."
+
+Not Lathander. *My* Lathander. "The true sect of Lathander, that's right," I said. "The Church of the Searing Light." The bright agony of him, the dawn that burns to bless — that is the doctrine I am carrying out across this drab green world, one convert at a time.
+
+Prutha could come or stay; it was mine to decide. "I think he should come with us to the Manse," I said, "but we will be back to see his people."
+
+He told me, plainly, that he follows the true prophet.
+
+"But I have a new mission for you," I said. "Soon."
+
+"ALWAYS!" he said.
+
+One god of fate, and a stage full of liars claiming his office. Let Savras sort his own house. I had a church to grow, and the dawn does not wait on anyone's destiny.
+
+---
+
+## Soma — Negotiations with the Boars
+
+Vukradin had the ability, it turned out, that I have had since the first day Meril put the staff in my hand — only his cost him something. Once, and then he was spent until rest took him; a few creatures only; a single borrowed hour of understanding before the gift went out of him. I have the beasts' tongue the way I have breath; he had to reach for it like a man checking his coin purse to be sure he could afford the bread.
+
+"No, I have that ability that allows me to speak orc," he said, and then, correcting himself with that little upward lift in the voice he gets when he is pleased with a rule, "or any language, when I want to use it. Once — and then not again until I've rested." He kept reading it off the inside of his own head. "It doesn't say humanoids, it says — a whole handful of them! The creatures can magically understand you. *Any* creatures. They can magically understand you regardless of the language you speak, for a good long while."
+
+*Any creatures.* I held my staff a little tighter and said nothing. Five leaves now, the newest one still tender from the storm. I have spent more hours than I can count crouched in mud asking a stag what it remembers, asking a carrion crawler to please go somewhere else, and I will tell you the one thing I have learned about animals that the shell sprout was about to learn the hard way: they do not care what you came to say. They care what you came to take, and whether you intend to take their food.
+
+He walked up to the two boars there in the trampled pumpkin patch outside the manse, squared his shoulders, and gave them the sermon. *The* sermon. "The power of Talos has been defeated," he announced, in orc, to two pigs. "We are here to bring the glory of Lathander. Join us now."
+
+I have watched Vukradin move a town council. I have watched him take a furious druid enclave and turn it. And I watched two boars look up from their pumpkin, look at him, look at each other, and skip every word of it.
+
+"The most important question," the nearer one said — and I could hear it plain, the way I always do, the flat practical grunt of it under the magic — "and the only question, is: are the unpleasant boars that were not obeying the rules about who got to eat what gone?"
+
+I bit down on the inside of my beak. *There it is.* Talos and Lathander and the whole burning theology of the surface, and what they wanted to know was whether the bullies who cut in line at supper had cleared off.
+
+"Yes," Vukradin said.
+
+"That's good." A pause. Then the rising delight of a creature whose entire world had just been set right. "Wonderful! Wonderful, wonderful! Wonderful! So — will they be coming back?"
+
+And here Vukradin, bless him, tried to *negotiate*. "I think no, right? They won't — do you want them to come back?"
+
+"Only if they obey the rules about who gets to eat what."
+
+"Would you rather they don't come back if they can't obey the — can't obey the rules?"
+
+"Well, if they can't obey the rules, yes, I would rather they don't come back."
+
+"Then they won't be coming back."
+
+A whole treaty, conducted over pumpkin rinds, every clause about the dinner order. The boars just had the honesty to say it plainly. Every grievance I have ever heard from a creature who can talk is this one.
+
+The second one came trotting over, anxious to confirm the good news for itself. "Did I hear correctly — the irritating boars will not be coming back?"
+
+"Sounds like they will not be coming back," Vukradin said.
+
+"Wonderful! Wonderful." And off it went, satisfied, to eat more pumpkin. The matter, for them, was closed. The gods could rise and fall in the next valley and these two would weigh it against the supper line and find the supper line heavier.
+
+Vukradin straightened, terribly proud. "Well, my work here is done, gentlemen. I think we can let the — to know that the Woodland Manse is secure."
+
+"Hold on, however." The first boar lifted its head again. The other one took it up — they do that, finish each other. "And just because the outside doesn't have any unpleasantness, the inside does. Why, just the other day, we went in there, and it was not as safe as it usually is."
+
+That stilled me. Out here was clear — the rule-breakers gone, the patch quiet, the leaves on my staff not so much as trembling. But inside. A boar's *not as safe as it usually is* is worth more than most people's screaming, because a boar does not exaggerate about danger; it eats and it flees and it tells you which one it did.
+
+"Oh, okay, well, that's good to know," Vukradin said. "Thank you."
+
+"Yes, yes — just wanted to make sure you appreciate that there's — this inside is still a hot mess."
+
+"Alright," Vukradin said. "Well then."
+
+*Well then,* I thought. The outside obeys the rules now. The inside does not.
+
+---
+
+## Brewbarry — Incursion into the Woodland Manse
+
+The boar-orcs told us the inside was still a hot mess. They said it like a warning. I heard it like a promise.
+
+Stone steps up to the portico. A balcony, high as two men. Half the railing gone. Vines on the pillars. The double doors had a boar's head hacked into them. Crude work. Whoever carved it had no love in their hands. We pushed the doors and they swung.
+
+Vukradin didn't wait. "I'm going inside, the rest of you can do whatever you want." Then, quieter, the thing that is always under everything he says: "I want my fair trade boots." I like Vukradin. I like that even kicking into a ruin he is thinking about whether the boots are honest.
+
+"And we are fully recovered, right? Rested all the way back?" Valphine asked.
+
+Soma scratched her shell. "I mean, we've grown stronger since the last fight, I'd assume, though."
+
+Vukradin's hand came up and the song started in him, the way it does, a hum I feel in my back teeth. "Everybody, carry a little of my song." The song started in my spine and spread. Warmth. Ready. "Can you call a blessing down too, Valphine?"
+
+"Yeah, now seems like a good time for that," Valphine said. Her prayer came over us. Light and cold at once. I don't understand her god. But I trust her hand.
+
+"Yeah, likewise — I'll give you all what I can carry into you now."
+
+We went in.
+
+The parlor door had been smashed to pieces. Inside, everything was broken. Chairs in splinters. Side tables on their backs. And against the wall, ruined, gutted, a wine cabinet. My feet were already moving toward it before I decided to move.
+
+"Nooooo!" Soma called out. "Don't look, Brewbarry."
+
+"Wine?" said Vukradin.
+
+I looked. I had to look. A man does not turn away from the bodies of the fallen.
+
+And they were fallen. Every bottle smashed. The smell of it soaked into the broken wood, red gone to brown, a whole cabinet's worth poured out onto the floorboards and wasted, never drunk, never raised, never shared between two men who had bled together. I have seen battlefields that hurt me less.
+
+But there. One. One bottle, standing.
+
+"Not a barrel?" Vukradin asked.
+
+"How will that help me," said Valphine.
+
+"Just a bottle. Brewbarry, you've waited so long. Go ahead."
+
+I picked it up. It was light in my hand, which is a sad thing, a bottle should be heavier with what it holds. I dropped where I stood, sat down right there among the splinters, and I drank. For this one. For all the ones that didn't make it. Chug, chug, chug. There is no fast way to honor the dead. It takes about a minute and it should take a minute. A moldy circular rug under me, half-rotted, and I drank the last good thing in this ruined house.
+
+I heard Valphine moving off while I worked. "I will stealthily poke at my — my eyes into this next room." Let her scout. I had a duty.
+
+Then her voice came back through the haze, low. A flagstone courtyard out there, she said. Pillars to one side, windows watching down, a stone well in the middle choked with thick vines spilling out of it like something dead had been left to bloat.
+
+"A boar orc?" Soma asked.
+
+"Yes, there's a boar," came the answer. "Boar. He's a bore."
+
+Valphine had spoken Orcish at it. *Over here.* And the thing had answered wrong — too smooth, too clever, no orc and no boar at all under that hide. She read it the way she reads everything, the cold drow eye that misses nothing. An anchorite. Wearing a borrowed shape. A liar in a ruin he had wrecked.
+
+She came back for me. I was just finishing, the empty bottle warm in my fist.
+
+"There's an anchorite over there," she said.
+
+Who's responsible for the destruction of the wine.
+
+"That's right."
+
+Responsible.
+
+The word landed in me like a thrown axe. Every smashed bottle. Every drop soaked into the boards. A whole cabinet of fellowship poured out by a coward hiding in a hog's skin in a courtyard with the dead vines.
+
+Something in my chest went very simple and very loud. The rage came up clean — no thinking in it, only knowing, my hands already certain where they would go. Valphine didn't even have to push. "Don't waste time. Don't speculate. Charge."
+
+I was already up. I was already moving. The empty bottle hit the floor behind me and I went through the parlor and out toward the courtyard, the well, the vines, the boar that was not a boar.
+
+For the wine.
+
+---
+
+## Valphine — Battle in the Courtyard
+
+I saw the boar before it saw me — a fat, deliberate thing pacing the pillared courtyard like it owned the stone, and something in the set of its shoulders was wrong, too purposeful for an animal. I did not call out. In Menzoberranzan you learn early that the creature you greet is the creature that kills you; the creature you ambush is the one you outlive. So I turned back for the Goliath. *There's an anchorite over there*, I would tell him. The one who'd ruined Falcon's wine — yes, that's right, the very same. Brewbarry would not need more reason than that.
+
+The fight was already over before I had finished deciding to start it. Brewbarry, somehow, was already moving before any of us — his Uthgardt blood gives him a hunter's jump on these things; I have never fully understood why and I have stopped asking. *We need to make him big*, I thought, feeding the giant-magic into him. *And bigger.* He swelled and crossed the courtyard and his sword came down on the boar with a sound like a tree splitting — a blow that did not merely hurt the thing, it rearranged what hurting meant.
+
+I urged Vukradin to follow, no speculation, just go — and of course he didn't. *I've got a great line of sight, I don't need to get any closer.* Always the perfect angle, that one. Always watching from the place where his hands stay clean.
+
+I called Lathander's light down on the boar. A column of it, white and exacting, and the thing was too slow, too earthbound, to twist away from it. *How level one of you*, Vukradin murmured, which is the kind of thing he says when he is impressed and would rather die than admit it. The flame found the seam in the thing's hide and burned. Not deep. Enough.
+
+Then it screamed a word I felt in my teeth, and the courtyard tree shuddered and birthed five vine blights out of its own bark, and the boar shucked its disguise like wet clothes and stood up an anchorite, gaunt and green-veined. *Oh, great.* As it shifted into the room it turned its back on the Goliath for half a heartbeat, and Brewbarry made it pay — an opening, a swing, the anchorite folding lower over its own ribs. *How much was left in him?* Little. Little enough to taste it.
+
+Vukradin finally committed, after his fashion — a spray of magical cards out of his sleeve, a fan of them snapping into a cone of force that caught every blight clinging to the tree at once. *I've got a spell, it's called I Can't Believe It's Not Fireball.* Not from the beads, he insisted, when Soma asked — he wears seven sleeping fireballs around his neck and will not spend a single one, because that would make the glory dirty somehow. The cards shredded the blights where they stood; one twisted aside and took only half, the rest came apart in green ribbons.
+
+Prutha came roaring through with his great axe and split the fourth blight clean. The next reached for me with a long, grasping lash of vine — and missed, the constriction closing on air where I had already moved. Then Soma poured herself into a brown bear, too much animal for too small a room, and bit and clawed her way through two more. *If it's worth doing*, she muttered later, but even now she fought with that patient ferocity, the bardic blessing landing the killing snap on the second. Gone, both of them.
+
+The last blight conjured a snarl of roots across the whole floor and we all tore free of it — even Vukradin, whose feet are rarely so cooperative; he sounded genuinely startled at his own strength. Then the twig blights came skittering in, a brittle little flood of them, swarming Soma's flanks and breaking their claws against her fur. They could not even mark her. Brewbarry waded in and smashed two to a fine mist of sawdust, and a third that tried to slip past him simply ceased to be.
+
+And here was the thing left standing — the anchorite, bleeding green, hemmed by the dregs of his own swarm — and here was the choice. *I'm going to fill the room with the killing dark.*
+
+*Really?* Vukradin asked. *Seems like overkill.*
+
+*Sure, why not?*
+
+It is a strange grace I carry, that the Dawnbringer's gift in my hands comes out as darkness — a sphere of absolute dark, dense and pressing, wide enough to swallow the room entire. People think light and suffering are opposites. They are the same thing. I have known it on my own skin. The dark rolled through the doorway and every creature inside it felt the same searing pressure I had already sorted and filed the first time I felt it, and there was nowhere in that room to stand where it did not reach. The twig blights came apart. The anchorite's will buckled against it and broke, and the dark took him too — all of it, all at once, deliciously, finally still.
+
+---
+
+## Soma — Exploring the Ruined Manse
+
+The door gave under my shoulder — I am all shoulder, in this shape, all weight and old strength — and I nosed it open into a room that had been three rooms at once before the roof gave up on it. Four beds along the south wall, their shutters hanging crooked. Four wardrobes, a cabinet of plain dishes and dull cutlery, a dining table with its four chairs still gathered as if the people who sat there had only just stood up. A trestle table near a blackened hearth, scattered with pots. All of it wood. All of it gone soft with damp and neglect. And in the southeast corner the ceiling had come down, filling the floor with debris and leaving a jagged mouth open to the room above.
+
+*A hole in the ceiling, not the floor.* I heard one of my shell-sprouts say it behind me, somewhere back in the courtyard murk — Vukradin, naming the obvious the way he likes to. A hole that went up. Good. I have claws. A single story is nothing to a bear who wants the ground before her feet decide to find it, and I wanted to see what was over our heads before any of them blundered into it.
+
+So I climbed. Old timber takes a claw the way river mud takes a footprint, and I went up through the broken edge of the floor and hauled the rest of me after.
+
+The room above had been claimed once. I could smell it — the rancid tallow-and-iron stink of orcs who serve the storm, layered over with something staler. But the smell was old. The orcs themselves were gone. We had seen to that down in the courtyard, my bale and I, and what was left of them was no longer here to object. *Empty.* I stood a moment in the quiet of it.
+
+I could have gone back down. Could have roared something at the others to tell them the upstairs was clear. But a roar is a roar — they would have heard a bear being a bear and learned nothing useful from it, and I was not about to climb down and shift back and climb up again just to say so. I kept moving instead, down a corridor closed off by two double doors and pierced by four open windows, ivy spilling through each one in green ropes I could shoulder aside without thinking. To the east the ivy came off a tree that had decided the manse belonged to it now. Patient thing. I approved of it.
+
+That was when the floor below me came apart.
+
+Not under me — beneath, in the great hall, where the main staircase ran up toward where I stood. A crack, then a long splintering groan, then the whole upper flight letting go at once, and over the noise of it a bellow I knew in my bones. Brewbarry. Too heavy by far for stairs that old, and gone down through them onto whatever waited in the dark below, his rage cutting out mid-roar — one note, then nothing.
+
+"It was the wine," Vukradin was saying, the voice floating up thin through the broken floor. "It was the wine. He was drunk. He walked up the stairs, he stumbled —"
+
+"Aretha would have died," somebody added, which made no sense to me and I let it go.
+
+Then Valphine, lower and careful, asking after her fog — whether the grey murk she had laid down was safe to lift now, whether anything still moved in it. Nothing moved. I could have told her that from up here; the manse held nothing breathing but us. Her voice drifted on, picking through some chamber below — *too precise for an anchorite, timing instructions, boar tusks in copper wire, the lightning bolt too geometric* — words that meant little to a bear and would have meant more to me if I had a hand free for my staff. Prutha's voice came up after hers, slow and certain through the floorboards. "I make things safe for Cleric of Lathander."
+
+*Make it safe.* I would have laughed if my throat had been shaped for laughing. Nothing in this place was safe. The staff had gone still in a particular way. Not rest. The kind of quiet a living thing makes before something finds it.
+
+I came to the next door and put my weight on it.
+
+Then the dark above the lintel let go of three small shadows, and they fell.
+
+Stirges — leathery, blood-hungry, dropping straight onto my back and shoulders with their needle-mouths already working for a vein. Little things. The kind of little that doesn't matter one at a time. But there were three of them, and there were more of them than I had paws to answer in a single motion — and they knew it better than I did.
+
+*How bad?* I had time to think. *That bad.* I planted my feet on the rotten boards and bared my teeth at the swarming dark, alone, one story up, my bale a broken staircase away below me —
+
+# Chapter 44 Victory Lap
+
+
+---
 
 ## Brewbarry — The Battle of the Collapsed Staircase
 
@@ -9740,7 +9305,9 @@ The Commission's cut, that enormous Commission's cut, was the one thing worth fi
 Brewbarry wanted a steady, legal revenue stream besides the mine. He still wanted that bathrobe, and he had nothing to show for all the killing he'd done. "Yes," I said, "and I'm not making very much progress on funding my music studio." There was, of course, the lump of fused dragon's gold sitting untransformed in our packs, the one piece of treasure that would solve everything. "Yeah, we can't take the Dragon Hoard," I said. "How many times do we have to say so?"
 
 
-# Chapter 46 Universal Basic Treasure
+
+
+# Chapter 45 Universal Basic Treasure
 
 
 ## Brewbarry — Return to Phandalin
@@ -10002,8 +9569,6 @@ But it wasn't conventional magic — we could all feel that, the way the slag sa
 ---
 
 ## Soma — Cheese, Business Plans, and Departure Preparations
-
-### Soma
 
 The cheese came out the way good news always comes out in Phandalin: sideways, on the back of money. With the UBT putting coin in hands that had never held much, Qelline Alderleaf and Alphonse "Big Al" Kalazorn and Linene had all arrived at the same arithmetic at the same time: more coin meant more cheese. Petunia the cow stood placid in the yard while they laid out a whole round of choices for us. Did we want the fancy cheese, the not-so-fancy, the expensive. Did we want it from when Petunia ate the grass off the upper part of the field, or the lower. *Shell-sprouts*, I thought, *they have sorted milk by altitude.*
 

@@ -4,9 +4,7 @@ title: The Bard, the Kings, and the Carver
 ---
 # Chapter 4 The Bard, the Kings, and the Carver
 
-## 02-01  of Tarkash 1495 
-
-###  Vukradin 
+## 04.01 Vukradin 01-02-Taraskh 1495
 
 Vukradin, ever the theatrical one, taunts the grotesque creature before them. “We have it outnumbered\! It’s stunned\! We shall kill it before it lays a hand on us\!” His voice booms, filled with an almost reckless confidence that, at times, borders on delusion.
 
@@ -36,7 +34,7 @@ Brewbarry, realizing his oversight, thumps his head with a meaty hand, a moment 
 
 And then, with a final, decisive strike, Soma finishes it off, her earlier philosophical musings giving way to efficient, deadly action. The unnatural creature, a temporary blight on the material world, is no more.
 
-## Soma 
+## 04.02 Soma 01-02-Taraskh 1495
 
 “Let’s see what else is here,” I muttered.
 
@@ -64,7 +62,7 @@ But I kept my mouth shut.
 
 And followed Vukradin to the King’s room, where we were to receive our prize.
 
-### Valphine
+## 04.03 Valphine 01-02-Taraskh 1495
 
 I watch as Vukradin attempts to negotiate with the two Kings. And I sigh.
 
@@ -140,7 +138,7 @@ Vukradin tries to create more chaos, like a good Drow, and says, “I think you 
 
 But the two inventors are more interested in building a tamper-proof voting box. Or rather, arguing over whether such a thing is possible.
 
-### Soma
+## 04.04 Soma 01-02-Taraskh 1495
 
 The tortle is pleased that she is a guide for Vukradin. His tab continues to grow, and at some point, she will want to be paid, but she is fine for now. 
 
@@ -156,9 +154,7 @@ The Bard perks up, for he, too, had heard of this play. It had had a spectacular
 
 The tavern keeper looks at him, “I am not sure where you would go to find the script, but Triboar is as good a place as any.” 
 
-## 03-01  of Taraskh 1495 
-
-### Valphine
+## 04.05 Valphine 02-02-Taraskh 1495
 
 I was annoyed. We were going to save a woman’s life, at our risk, for a mere 25 gold. It seemed absurd. But Lathander’s Cleric had cautioned me about this.
 
@@ -192,7 +188,7 @@ But I dismiss this.
 
 I am not in the Dark Realms, worried about every shadow. 
 
-### Soma 
+## 04.06 Soma 02-02-Taraskh 1495
 
 Bandits. Yes, the noise is bandits. Valphine had this tense look on her face, but said nothing. Maybe she sensed something? Perhaps she didn’t. But these bandits would have gotten the jump on us if they had not made so much noise. 
 
@@ -236,7 +232,7 @@ And so I turn my head to that poor bandit who was afraid of spiders. And there i
 
 I sit down. 
 
-### Brewbarry 
+## 04.07 Brewbarry 02-02-Taraskh 1495
 
 My rage consumes me. And yet, there is something about this man’s fear. And I think that he has lost his tribe. And I feel sadness. 
 
@@ -252,7 +248,7 @@ The man stares at me, a look of confusion on his face. He was expecting to die, 
 
 The man stares and says, “They pillaged my village, destroyed everything.” He looks at me and sobs, “I had no money, nothing. I am not a bad person. I don’t want to steal things. It’s the Carver’s fault.”
 
-### Vukradin 
+## 04.08 Vukradin 02-02-Taraskh 1495
 
 The bandit has a boss. I must learn more. 
 
@@ -266,7 +262,7 @@ He looks at me like a puppy who has found its momma. I smile. And then he asks, 
 
 I smile, “Of course.” 
 
-### Soma
+## 04.09 Soma 02-02-Taraskh 1495
 
 There’s a scroll. I pick it up. It has a druidic spell. 
 

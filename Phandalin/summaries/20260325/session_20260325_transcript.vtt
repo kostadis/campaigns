@@ -1,0 +1,5411 @@
+WEBVTT
+
+00:07:45.120 --> 00:07:46.480
+Hello, folks.
+
+00:07:48.080 --> 00:07:48.800
+Hello.
+
+00:07:49.120 --> 00:07:49.920
+Hello.
+
+00:07:52.159 --> 00:07:52.639
+All right.
+
+00:07:52.800 --> 00:07:54.319
+Let me get things ready.
+
+00:08:01.600 --> 00:08:02.800
+Hi, what is everybody?
+
+00:08:04.240 --> 00:08:05.200
+I'm doing good.
+
+00:08:05.759 --> 00:08:06.879
+Superman does good.
+
+00:08:07.039 --> 00:08:08.240
+You're doing well.
+
+00:08:09.200 --> 00:08:14.480
+By the way, I had way too much fun with my tooling the other day.
+
+00:08:14.800 --> 00:08:15.920
+I noticed.
+
+00:08:17.200 --> 00:08:19.200
+Oh, but you don't even know the half part.
+
+00:08:19.360 --> 00:08:24.080
+Like, I went completely like, once I started, I was like, I got to do more.
+
+00:08:26.000 --> 00:08:27.600
+That's what tooling does.
+
+00:08:29.519 --> 00:08:30.560
+What did you say?
+
+00:08:31.519 --> 00:08:33.360
+I said, why are we not surprised?
+
+00:08:34.000 --> 00:08:34.720
+Oh, yeah.
+
+00:08:36.559 --> 00:08:41.600
+So after I finished with your campaign, I said I tried it on another one.
+
+00:08:41.920 --> 00:08:49.519
+And I was very happy with the results, but I realized I could do better in terms of training the LLM to speak like my characters.
+
+00:08:52.080 --> 00:08:53.680
+Which LLM is this?
+
+00:08:55.279 --> 00:08:56.399
+Claude Sonnet.
+
+00:08:57.039 --> 00:08:57.360
+Okay.
+
+00:08:58.960 --> 00:09:00.240
+Sonnet's fine.
+
+00:09:00.799 --> 00:09:02.799
+Opus is where it's at, though.
+
+00:09:03.120 --> 00:09:03.759
+Opus?
+
+00:09:04.240 --> 00:09:05.039
+Oh, yeah.
+
+00:09:06.319 --> 00:09:06.639
+Why?
+
+00:09:06.879 --> 00:09:07.759
+Okay, talk to me.
+
+00:09:09.200 --> 00:09:12.399
+It's just their most advanced model with most tokens and everything.
+
+00:09:13.039 --> 00:09:13.519
+Huh.
+
+00:09:14.399 --> 00:09:17.440
+I thought Sonnet 4-6 and Opus 4-6 are different.
+
+00:09:17.600 --> 00:09:17.759
+Okay.
+
+00:09:19.360 --> 00:09:20.000
+I'll have to try this out.
+
+00:09:20.079 --> 00:09:20.480
+I'll have to try it.
+
+00:09:20.639 --> 00:09:20.879
+Opus.
+
+00:09:20.960 --> 00:09:22.319
+Opus is the extended reasoning one.
+
+00:09:22.399 --> 00:09:24.480
+It probably doesn't make sense for, you know.
+
+00:09:25.200 --> 00:09:27.200
+It's really good for coding and other stuff.
+
+00:09:28.160 --> 00:09:28.319
+Okay.
+
+00:09:28.639 --> 00:09:33.200
+Might kind of be overkill for, you know, write in the style of these characters.
+
+00:09:34.639 --> 00:09:36.480
+But yeah, no, it's quite fascinating.
+
+00:09:36.639 --> 00:09:37.440
+Like, I've gotten.
+
+00:09:38.639 --> 00:09:45.200
+I've been so I've also been posting on LinkedIn, right?
+
+00:09:46.160 --> 00:09:48.000
+Okay, well, don't do that, but go on.
+
+00:09:48.319 --> 00:09:55.120
+Well, okay, so the reason I post on LinkedIn is because part of my job is to get people excited about the Nutanix platform and talk about Nutanix.
+
+00:09:55.200 --> 00:09:57.600
+And I'm one of the few technical people at our company that do that.
+
+00:09:58.000 --> 00:09:59.840
+I don't know anybody who reads LinkedIn like.
+
+00:10:00.240 --> 00:10:02.320
+Facebook, but yeah, no, right.
+
+00:10:02.480 --> 00:10:07.919
+And because you don't talk to salespeople, salespeople are, you know, not people, even though it's in the name.
+
+00:10:08.240 --> 00:10:08.799
+Yeah, I know.
+
+00:10:09.120 --> 00:10:15.200
+So let me just say, so let me just say, but unfortunately, all these things are true statements, but you are still missing yourself.
+
+00:10:15.519 --> 00:10:16.879
+I know you have to do it for other.
+
+00:10:17.200 --> 00:10:18.639
+Yeah, you have to play the game.
+
+00:10:18.960 --> 00:10:19.279
+Yes.
+
+00:10:19.519 --> 00:10:28.000
+And I'm one of the few people who can play the game because apparently the rest of my technical team believes that communicating with mere mortals is beneath them.
+
+00:10:28.639 --> 00:10:32.240
+Communication involves communications protocols, right?
+
+00:10:32.559 --> 00:10:33.600
+Yes, yes.
+
+00:10:35.120 --> 00:10:42.320
+Our CTO basically is on a plane three weeks out of the month, and the only other person who can communicate to customers is me.
+
+00:10:42.559 --> 00:10:45.440
+So they're like, you should get on a plane for one week a month.
+
+00:10:45.519 --> 00:10:46.399
+And I said, no.
+
+00:10:47.279 --> 00:10:51.039
+See, I have this really great book for communications protocols.
+
+00:10:53.600 --> 00:10:54.559
+Oh, geez.
+
+00:10:54.960 --> 00:10:55.759
+I missed it.
+
+00:10:55.840 --> 00:10:56.399
+What was it?
+
+00:10:56.559 --> 00:10:58.399
+Unix network programming.
+
+00:10:58.960 --> 00:11:08.559
+For some reason, I think this is the book I studied in the early 90s for learning socket programming.
+
+00:11:08.879 --> 00:11:10.399
+Yeah, that's the one.
+
+00:11:10.720 --> 00:11:11.200
+Yep.
+
+00:11:12.399 --> 00:11:13.600
+Yep, me too.
+
+00:11:15.279 --> 00:11:15.600
+Do you know?
+
+00:11:15.840 --> 00:11:21.600
+I have the book, the TCPIP network, like a big three-tone volume, right?
+
+00:11:22.799 --> 00:11:27.600
+And it's got one of the books, the third book, is Applications Built on Top of TCPIP, right?
+
+00:11:28.480 --> 00:11:33.440
+And it has literally, so imagine one of those books, right?
+
+00:11:33.680 --> 00:11:35.279
+Big, big book like this.
+
+00:11:35.919 --> 00:11:39.039
+And it covers Telnet, right?
+
+00:11:39.600 --> 00:11:40.399
+And exclusion.
+
+00:11:41.440 --> 00:11:41.680
+Yes.
+
+00:11:42.159 --> 00:11:48.960
+And then it has, I kid you not, two paragraphs on a thing called the web.
+
+00:11:49.279 --> 00:11:49.680
+Yep.
+
+00:11:49.919 --> 00:11:54.559
+Back when Gopher was believed to be the no, no, it was the gopher didn't even have a reference.
+
+00:11:54.720 --> 00:11:55.200
+I mean, that was.
+
+00:11:55.440 --> 00:11:56.320
+Oh, wow.
+
+00:11:57.919 --> 00:12:05.519
+And the funny thing was that I was reading it at a company where I had joined as a to work on a web cache.
+
+00:12:08.480 --> 00:12:10.480
+And the book was not that old.
+
+00:12:11.279 --> 00:12:12.879
+That's the fun of the seven-layer burritos.
+
+00:12:13.120 --> 00:12:15.440
+You know, you don't have to worry about what's underneath.
+
+00:12:15.519 --> 00:12:15.759
+You just.
+
+00:12:16.080 --> 00:12:16.639
+Oh, dude.
+
+00:12:16.960 --> 00:12:20.480
+Dude, so the funny thing is, so I go into the hardware networking space, right?
+
+00:12:20.559 --> 00:12:26.879
+So I joined Truven and I asked them, and while I'm sitting there, I asked them, yeah, isn't TCP awesome?
+
+00:12:27.039 --> 00:12:28.639
+Like, you know, the whole layered protocol.
+
+00:12:28.879 --> 00:12:31.200
+And they start screaming at me.
+
+00:12:32.080 --> 00:12:39.680
+Like, TCPIP is the worst idea that ever befell that networking space and the whole, who is the idiots?
+
+00:12:40.399 --> 00:12:42.080
+Like, this is going on for about 10 minutes, right?
+
+00:12:42.240 --> 00:12:48.319
+I'm like going, okay, my motecastis, hardware networking company, never bring up how great TCP IP TCP is.
+
+00:12:48.399 --> 00:12:48.559
+Yeah.
+
+00:12:48.799 --> 00:12:51.680
+Because as soon as you tell a DNS, you're like, oh, never mind.
+
+00:12:51.840 --> 00:12:52.240
+No, I didn't even care.
+
+00:12:53.200 --> 00:12:53.840
+DHCP.
+
+00:12:54.000 --> 00:12:56.159
+DHCP is the one that was everything.
+
+00:12:56.399 --> 00:12:58.960
+I think DHCP was invented later.
+
+00:12:59.279 --> 00:12:59.680
+No, no.
+
+00:12:59.759 --> 00:13:00.799
+So here's what happens.
+
+00:13:00.960 --> 00:13:01.680
+The reason is.
+
+00:13:02.000 --> 00:13:09.840
+So the reason is that, yes, back off does happen in TCP, but when it happens, it causes the network performance to go to shit.
+
+00:13:10.799 --> 00:13:24.240
+So there's this huge amount of silicon in these like super high-end routers whose only job is to collect all the flows, split them out into thousands of flows, and then guarantee that the packets come out the other end in the same order.
+
+00:13:25.200 --> 00:13:25.759
+Wow.
+
+00:13:25.920 --> 00:13:26.080
+Okay.
+
+00:13:26.319 --> 00:13:33.920
+So there's like a staggering amount of silicon whose only purpose in life is to make sure TCP never goes through a retry.
+
+00:13:35.200 --> 00:13:41.680
+And they're like, if they didn't do this, our systems could be so much more efficient and faster and powerful.
+
+00:13:43.600 --> 00:13:47.519
+Apparently we banned the importation of all consumer routers.
+
+00:13:48.080 --> 00:13:48.399
+Yes.
+
+00:13:48.639 --> 00:13:55.840
+So that we wanted to make sure that we wanted to make sure that Starlink had a business.
+
+00:13:57.120 --> 00:13:58.399
+They still need a router.
+
+00:13:58.960 --> 00:14:01.600
+No, but it's the only networking gear you could buy today.
+
+00:14:02.799 --> 00:14:03.120
+Why?
+
+00:14:03.279 --> 00:14:05.279
+Is it manufactured in the United States?
+
+00:14:05.840 --> 00:14:08.720
+Well, it was very specifically not included in the list.
+
+00:14:09.039 --> 00:14:10.639
+Starlink sells routers.
+
+00:14:11.279 --> 00:14:14.319
+Well, I mean, if you're not, I don't know.
+
+00:14:14.879 --> 00:14:17.360
+It's not important for import restrictions.
+
+00:14:17.680 --> 00:14:18.000
+Yeah.
+
+00:14:21.360 --> 00:14:25.920
+I mean, if you need a router, go buy it now because you're not going to be able to get one.
+
+00:14:26.240 --> 00:14:28.399
+My router's just been a Linux box forever.
+
+00:14:29.039 --> 00:14:30.000
+Yeah, you know what?
+
+00:14:30.720 --> 00:14:31.680
+I'm like, I'm cool.
+
+00:14:31.920 --> 00:14:34.079
+Hey, Wade, let's go into consumer electronics.
+
+00:14:34.240 --> 00:14:35.920
+You and me, routers.
+
+00:14:44.879 --> 00:14:46.240
+Like, I have this whole crazy idea.
+
+00:14:46.639 --> 00:14:51.120
+I'm slightly offended that you decided to go into consumer electronics and you asked Wade and not me.
+
+00:14:51.920 --> 00:14:52.799
+I need the engineer.
+
+00:14:53.200 --> 00:14:55.200
+You, I would need for the management.
+
+00:14:57.120 --> 00:14:58.400
+Jesus Christ.
+
+00:14:59.039 --> 00:14:59.759
+Dave, do you want?
+
+00:15:00.240 --> 00:15:01.279
+You didn't jump at the opportunity.
+
+00:15:01.519 --> 00:15:03.200
+That's the assembly code I've written, man.
+
+00:15:03.759 --> 00:15:04.559
+More than you.
+
+00:15:05.120 --> 00:15:06.159
+Okay, I could be the face.
+
+00:15:06.559 --> 00:15:08.559
+You may as well brag about writing COBOL now.
+
+00:15:09.679 --> 00:15:10.080
+Hold on.
+
+00:15:10.159 --> 00:15:10.799
+I just realized something.
+
+00:15:11.120 --> 00:15:11.600
+Screw this.
+
+00:15:11.840 --> 00:15:12.559
+I'll have Dave.
+
+00:15:12.720 --> 00:15:15.120
+Dave could be, you guys be the technical team.
+
+00:15:15.440 --> 00:15:18.559
+I'll have Gary be our privacy person, talk about how we're very weak.
+
+00:15:18.639 --> 00:15:21.440
+We protect people's data while I become the face of the company.
+
+00:15:21.600 --> 00:15:24.559
+I mean, you're the face of the company.
+
+00:15:24.720 --> 00:15:25.360
+All right, forget it.
+
+00:15:25.440 --> 00:15:26.320
+I'm not interested.
+
+00:15:28.240 --> 00:15:29.440
+I'm the face.
+
+00:15:32.000 --> 00:15:32.639
+You're weird, man.
+
+00:15:32.879 --> 00:15:34.799
+You're the prod in of the company.
+
+00:15:35.120 --> 00:15:35.279
+Okay.
+
+00:15:35.919 --> 00:15:36.879
+Good to know.
+
+00:15:38.720 --> 00:15:39.840
+Play a song.
+
+00:15:40.159 --> 00:15:40.399
+What?
+
+00:15:41.360 --> 00:15:43.679
+Keep them entertained until they buy.
+
+00:15:44.000 --> 00:15:46.080
+Yeah, that's kind of how I look at my life, man.
+
+00:15:47.919 --> 00:15:48.559
+All right.
+
+00:15:50.559 --> 00:15:51.919
+Stefan joining today?
+
+00:15:52.639 --> 00:16:01.120
+You know, I think I recall him saying that he would not because of his VMware Nutanix thing.
+
+00:16:01.840 --> 00:16:02.480
+Oh, yeah.
+
+00:16:03.440 --> 00:16:06.559
+I think I recall him saying, yeah, I said Nestle.
+
+00:16:07.039 --> 00:16:09.120
+Nestle was going to be there.
+
+00:16:12.320 --> 00:16:14.960
+We have a big account, Nestle.
+
+00:16:18.240 --> 00:16:20.720
+And so my understanding was.
+
+00:16:21.519 --> 00:16:23.279
+Do they give you free water?
+
+00:16:32.799 --> 00:16:34.480
+Did you really just say that?
+
+00:16:36.639 --> 00:16:37.279
+He did.
+
+00:16:38.320 --> 00:16:38.879
+All right.
+
+00:16:40.320 --> 00:16:40.639
+Okay.
+
+00:16:41.600 --> 00:16:45.759
+So, anyway, so Costatis was Costadas was having too much fun.
+
+00:16:46.879 --> 00:16:47.519
+But now he's.
+
+00:16:47.919 --> 00:16:48.080
+Okay.
+
+00:16:48.159 --> 00:16:51.840
+So the other fun thing about it is he's discovered AI is truly like an intern.
+
+00:16:52.159 --> 00:16:52.720
+Oh, yeah.
+
+00:16:53.759 --> 00:16:55.919
+It's almost junior engineer level now.
+
+00:16:57.200 --> 00:16:57.440
+Okay.
+
+00:16:58.639 --> 00:17:00.320
+Maybe I'm old enough to not know the disdiff.
+
+00:17:02.159 --> 00:17:04.720
+The difference between the difference was there.
+
+00:17:06.079 --> 00:17:07.680
+A junior engineer has potential.
+
+00:17:07.839 --> 00:17:12.640
+The intern is, you know, you put on stuff that, you know, a project that doesn't matter.
+
+00:17:13.200 --> 00:17:16.160
+Wait, I have to say, like, what is your dog doing?
+
+00:17:17.759 --> 00:17:18.799
+He's chewing his foot.
+
+00:17:18.960 --> 00:17:19.920
+He's got some allergies.
+
+00:17:20.000 --> 00:17:21.759
+He's actually at Claritin right now.
+
+00:17:23.360 --> 00:17:24.559
+We're really munching on that.
+
+00:17:24.880 --> 00:17:26.079
+Yeah, he's itchy.
+
+00:17:26.720 --> 00:17:28.720
+He's got seasonal allergies.
+
+00:17:31.119 --> 00:17:32.319
+Poor dog gold.
+
+00:17:32.640 --> 00:17:32.960
+Yeah.
+
+00:17:34.559 --> 00:17:43.680
+Anyway, so yeah, so I just found it very funny to see, you know, like to see that.
+
+00:17:44.000 --> 00:17:44.799
+Oh, that's great.
+
+00:17:46.319 --> 00:17:53.039
+And like, yeah, so I'm like going, Claude, Claude, no, Claude, Claude, Claude, no, why did why are you Claude?
+
+00:17:53.119 --> 00:17:56.960
+I just told you to waste tokens by Claude's name.
+
+00:17:57.599 --> 00:17:58.559
+Why shouldn't I?
+
+00:17:59.440 --> 00:18:01.279
+You have to pay by the token, man.
+
+00:18:01.599 --> 00:18:02.799
+That's $15 a month.
+
+00:18:02.880 --> 00:18:04.319
+It's $20 a month.
+
+00:18:04.799 --> 00:18:06.160
+Get unlimited tokens?
+
+00:18:06.400 --> 00:18:06.559
+No.
+
+00:18:07.119 --> 00:18:08.000
+Dude, I'm not.
+
+00:18:08.079 --> 00:18:08.400
+I'm not.
+
+00:18:08.480 --> 00:18:09.200
+This is not my day job.
+
+00:18:09.360 --> 00:18:10.799
+This is what I do at night for a couple of hours.
+
+00:18:11.279 --> 00:18:14.319
+Yeah, Opus will burn through $20 in about an hour.
+
+00:18:16.960 --> 00:18:20.960
+No, I mean, it's like if you use it at night, so if you use it.
+
+00:18:21.039 --> 00:18:23.920
+You've got the extended after-hours usage right now.
+
+00:18:25.360 --> 00:18:28.880
+If I use it between 9 and 12, I burn through my tokens in like 15 minutes.
+
+00:18:29.200 --> 00:18:29.759
+Absolutely.
+
+00:18:30.079 --> 00:18:34.559
+But if I use it after 5 o'clock, I can go until midnight.
+
+00:18:34.880 --> 00:18:35.680
+That's funny.
+
+00:18:36.000 --> 00:18:36.240
+Right.
+
+00:18:36.480 --> 00:18:40.240
+So, so, yeah, no, it's, I hear what you're saying, but it's just not an issue.
+
+00:18:40.559 --> 00:18:41.440
+Not been an issue for me.
+
+00:18:41.680 --> 00:18:44.480
+Yeah, I hit the limit so fast that I just pay him $100.
+
+00:18:45.119 --> 00:18:46.000
+Whatever.
+
+00:18:46.960 --> 00:18:48.000
+They're max planning.
+
+00:18:48.400 --> 00:18:48.720
+You, Mr.
+
+00:18:48.799 --> 00:18:49.599
+Moneybags.
+
+00:18:49.920 --> 00:18:52.559
+Oh, yeah, I can afford $100 a month.
+
+00:18:54.480 --> 00:19:01.839
+You know, that sounds, you know, he wisely invested his money after his, you know, his dot, his Roku IPO.
+
+00:19:01.920 --> 00:19:02.640
+And he's.
+
+00:19:03.039 --> 00:19:04.400
+Put it all in Bitcoin.
+
+00:19:04.720 --> 00:19:05.599
+Oh, yeah.
+
+00:19:07.200 --> 00:19:08.559
+That sounds like me.
+
+00:19:09.440 --> 00:19:10.000
+It doesn't.
+
+00:19:10.160 --> 00:19:11.039
+I hope it doesn't.
+
+00:19:11.200 --> 00:19:16.480
+Like, okay, I need to share with you awkward moment of the day.
+
+00:19:16.799 --> 00:19:22.319
+One of my co-workers goes, Yeah, well, I have a relative in the White House.
+
+00:19:22.639 --> 00:19:23.519
+I go, okay.
+
+00:19:24.799 --> 00:19:26.319
+I go, who?
+
+00:19:26.639 --> 00:19:32.160
+Well, she's a cousin of mine.
+
+00:19:32.240 --> 00:19:32.960
+I go, great.
+
+00:19:33.519 --> 00:19:34.160
+Oh, God.
+
+00:19:36.160 --> 00:19:37.119
+Who is this?
+
+00:19:37.440 --> 00:19:38.559
+Well, she's J.D.
+
+00:19:38.799 --> 00:19:40.160
+Vance's wife.
+
+00:19:40.480 --> 00:19:41.360
+Oh, my God.
+
+00:19:44.079 --> 00:19:45.440
+She's not in the White House.
+
+00:19:46.400 --> 00:19:48.079
+I felt awful for him.
+
+00:19:49.200 --> 00:19:51.119
+Regardless of what I think about J.D.
+
+00:19:51.200 --> 00:19:59.119
+Vance, and regardless, to have a relative of yours being that public in the news is just awful.
+
+00:20:00.240 --> 00:20:02.240
+Um, but yes, it was very, it was very awkward.
+
+00:20:02.799 --> 00:20:11.599
+Not that much in the news if none of us can name her she's enough in the news, and especially because of her husband's.
+
+00:20:11.920 --> 00:20:16.880
+Oh, yeah, but she's more in the news than I'll ever be, but you know, none of us actually know her name, yeah.
+
+00:20:17.039 --> 00:20:30.960
+But if you're in the family, like it's kind of one of those things, it's kind of like even if she's a little bit in the news, everybody knows it's named in name, yeah, yeah, Nasha, Nasha, yeah, something like that, yeah, sounds plausible.
+
+00:20:32.480 --> 00:20:38.559
+I just you know, remember now, I have to remember to not crack my JD Vance, Eric, Charlie Kirk, Erica Kirk jokes.
+
+00:20:39.039 --> 00:20:39.519
+What are you doing?
+
+00:20:39.599 --> 00:20:43.279
+You're doing you're doing political jokes at work?
+
+00:20:43.599 --> 00:20:44.640
+No, I'm joking.
+
+00:20:44.799 --> 00:20:49.119
+I'm just like, I don't do political jokes at work because it's like good call.
+
+00:20:49.599 --> 00:20:51.279
+All right, let's kill some things.
+
+00:20:52.160 --> 00:20:54.160
+All right, hold on, let me uh let me see.
+
+00:20:55.279 --> 00:21:00.319
+All right, we're not, you know, we can always talk our way out of everything, any combat, right?
+
+00:21:00.880 --> 00:21:06.880
+No, not every combat, no, not every combat.
+
+00:21:06.960 --> 00:21:15.680
+Some combats you can't talk yourself out of, some villains have objectives that cannot be negotiated with all right.
+
+00:21:16.720 --> 00:21:24.960
+Just need to find the right angle for that win-win.
+
+00:21:25.039 --> 00:21:25.599
+That's important.
+
+00:21:25.920 --> 00:21:27.359
+It's win-win-win.
+
+00:21:27.680 --> 00:21:30.640
+You also need the moderator to win or the mediator to win, you know.
+
+00:21:35.680 --> 00:21:36.960
+The DM has to win too.
+
+00:21:39.279 --> 00:21:39.440
+Okay.
+
+00:21:46.400 --> 00:21:47.039
+All right.
+
+00:21:48.319 --> 00:21:48.960
+All right.
+
+00:21:55.119 --> 00:21:55.359
+Okay.
+
+00:22:01.440 --> 00:22:01.599
+Okay.
+
+00:22:03.200 --> 00:22:03.759
+All right.
+
+00:22:04.400 --> 00:22:07.359
+You're, I'm just looking at some stuff.
+
+00:22:08.400 --> 00:22:14.559
+One of the fun things, though, is, I have to be honest, is that now that I've gotten all this stuff generated, I like can create a lot more content.
+
+00:22:14.720 --> 00:22:16.000
+So I'm having a lot of fun doing that.
+
+00:22:16.240 --> 00:22:18.480
+So hopefully, you guys are the beneficiaries.
+
+00:22:21.599 --> 00:22:28.319
+If we go back to the written adventures, as long as it's not slop.
+
+00:22:28.799 --> 00:22:28.880
+What?
+
+00:22:30.799 --> 00:22:31.839
+No slop.
+
+00:22:33.519 --> 00:22:36.160
+Dude, I don't create slop.
+
+00:22:36.880 --> 00:22:39.119
+You're not the one creating AI creates slop.
+
+00:22:39.519 --> 00:22:40.559
+I don't share slop.
+
+00:22:40.640 --> 00:22:46.400
+If I use AI-generated stuff, I make sure that it's of high quality and valuable, and I tweak it during the meeting.
+
+00:22:46.640 --> 00:23:01.119
+Well, you've concluded that the chief conflict for Vukradin is his desire to be liked versus his moral principles of no treasure.
+
+00:23:01.440 --> 00:23:01.920
+Yes.
+
+00:23:02.559 --> 00:23:03.200
+That is essentially.
+
+00:23:03.519 --> 00:23:05.279
+I don't understand how that's a conflict.
+
+00:23:05.839 --> 00:23:07.519
+Those two things are not at odds with each other.
+
+00:23:07.680 --> 00:23:08.799
+I do have to agree with Dave on this.
+
+00:23:11.279 --> 00:23:11.759
+That's fine.
+
+00:23:11.920 --> 00:23:12.960
+We can do both of those things.
+
+00:23:13.279 --> 00:23:14.880
+We have both of them.
+
+00:23:15.200 --> 00:23:18.240
+Yes, I know, but some people might find that objectionable.
+
+00:23:18.400 --> 00:23:22.720
+Like some of your, for example, they just need to be persuaded.
+
+00:23:23.039 --> 00:23:23.360
+Yeah, I know.
+
+00:23:23.519 --> 00:23:24.079
+Jana Ross.
+
+00:23:24.240 --> 00:23:25.360
+Haven't been convinced yet.
+
+00:23:27.279 --> 00:23:30.079
+The Lord's Alliance views you with great suspicion.
+
+00:23:30.400 --> 00:23:33.360
+The Zhentarim think you're an abject fool.
+
+00:23:33.519 --> 00:23:37.759
+The Emerald Enclave think your lack of interest in wealth is a positive thing.
+
+00:23:38.079 --> 00:23:43.440
+The Order of the Gauntlet is very upset with the fact that you want to be liked by everybody.
+
+00:23:45.279 --> 00:23:47.759
+But the real question is, why do we care about either?
+
+00:23:49.039 --> 00:23:51.599
+Well, I mean, that would be what Valphine would ask.
+
+00:23:52.160 --> 00:23:55.279
+Because they all need to come listen to me play.
+
+00:23:56.160 --> 00:23:56.400
+Right.
+
+00:23:56.480 --> 00:24:00.960
+So, so one of the things that I think is their money is green, and I need it.
+
+00:24:01.440 --> 00:24:07.200
+So, just to be clear, I have a young man in Centurini whom is a musician.
+
+00:24:07.279 --> 00:24:10.079
+He's a violinist, very accomplished violinist.
+
+00:24:10.400 --> 00:24:14.000
+And he got himself involved with the local politics.
+
+00:24:14.160 --> 00:24:15.200
+I said, dude, you're a musician.
+
+00:24:15.279 --> 00:24:18.720
+Your job is not to get involved in politics, but to play music for everyone.
+
+00:24:20.799 --> 00:24:21.680
+So I just want to say that.
+
+00:24:22.160 --> 00:24:24.079
+Oh, but getting involved in politics, huh?
+
+00:24:24.160 --> 00:24:25.039
+That's a good point.
+
+00:24:25.360 --> 00:24:26.079
+I'm just saying.
+
+00:24:26.240 --> 00:24:32.400
+I'm just saying that he stopped getting involved in politics and now is friends with everybody.
+
+00:24:32.480 --> 00:24:35.920
+He shows up at all the parties at all the functions.
+
+00:24:37.360 --> 00:24:40.240
+There's no group that wants to exclude him from the music.
+
+00:24:40.559 --> 00:24:42.000
+Oh, I see what you're saying.
+
+00:24:42.319 --> 00:24:42.880
+I'm just saying.
+
+00:24:43.039 --> 00:24:43.519
+I'm just saying.
+
+00:24:44.559 --> 00:24:45.759
+That's the advice I gave him.
+
+00:24:46.000 --> 00:24:46.880
+Yeah, that's true.
+
+00:24:47.200 --> 00:24:49.519
+What were his thoughts on Woodstock?
+
+00:24:51.119 --> 00:24:59.840
+I think at 30 years old, I think Woodstock would sound like not to get political with his music.
+
+00:25:00.559 --> 00:25:00.799
+Yeah.
+
+00:25:02.000 --> 00:25:03.839
+He's not exactly a left-wing musician.
+
+00:25:03.920 --> 00:25:04.640
+Let me put it that way.
+
+00:25:04.960 --> 00:25:08.000
+He's a Greek young man who's on the right wing of politics.
+
+00:25:08.160 --> 00:25:09.200
+Let's leave it at that.
+
+00:25:09.519 --> 00:25:10.160
+All right.
+
+00:25:12.960 --> 00:25:13.279
+Okay.
+
+00:25:13.920 --> 00:25:15.200
+So let me see.
+
+00:25:15.359 --> 00:25:17.599
+I have to bring up the notes for the next part.
+
+00:25:17.759 --> 00:25:18.000
+Okay.
+
+00:25:18.640 --> 00:25:22.720
+So you were about to climb up the hill.
+
+00:25:23.440 --> 00:25:27.359
+Did you roll the roll to see if you made it?
+
+00:25:28.640 --> 00:25:29.519
+Yeah, we made it.
+
+00:25:29.759 --> 00:25:30.960
+Yeah, I successfully left.
+
+00:25:31.839 --> 00:25:33.440
+You made that roll because I can't remember.
+
+00:25:33.680 --> 00:25:34.000
+For sure.
+
+00:25:36.079 --> 00:25:36.960
+Sure, I made it.
+
+00:25:40.160 --> 00:25:40.960
+You're persuaded.
+
+00:25:41.119 --> 00:25:41.839
+20.
+
+00:25:48.559 --> 00:25:49.200
+All right.
+
+00:25:52.319 --> 00:25:52.640
+Okay.
+
+00:25:56.799 --> 00:25:57.599
+Let me see.
+
+00:25:57.839 --> 00:25:58.480
+Just make sure.
+
+00:26:04.799 --> 00:26:05.359
+All right.
+
+00:26:08.559 --> 00:26:09.200
+All right.
+
+00:26:12.079 --> 00:26:12.559
+All right.
+
+00:26:12.799 --> 00:26:28.880
+So you climb up the finally, you finally make it up the thanks to your clever navigation and your use of your skill checks, you finally make it to the to the ice spire peak.
+
+00:26:29.839 --> 00:26:31.759
+All right, let me see where that is.
+
+00:26:34.000 --> 00:26:35.680
+Were we exhausted on this trip?
+
+00:26:35.759 --> 00:26:36.240
+I forget.
+
+00:26:36.480 --> 00:26:37.119
+No, we are not.
+
+00:26:37.839 --> 00:26:48.559
+No, thanks to your very successful die rolls, you managed to not be managed to not be okay.
+
+00:26:50.799 --> 00:26:51.440
+All right.
+
+00:26:57.440 --> 00:26:57.920
+All right.
+
+00:26:59.599 --> 00:27:00.480
+Should work.
+
+00:27:03.759 --> 00:27:04.000
+Okay.
+
+00:27:05.440 --> 00:27:06.079
+All right.
+
+00:27:08.240 --> 00:27:09.599
+No kidoki.
+
+00:27:16.400 --> 00:27:17.839
+Okay, let me just find out.
+
+00:27:18.000 --> 00:27:19.119
+Let me just get this.
+
+00:27:22.880 --> 00:27:23.599
+Where are we?
+
+00:27:23.839 --> 00:27:24.559
+Good grief.
+
+00:27:25.440 --> 00:27:27.440
+I just need a damn description.
+
+00:27:29.680 --> 00:27:30.240
+All right, there we go.
+
+00:27:31.039 --> 00:27:31.519
+All right.
+
+00:27:40.559 --> 00:27:41.119
+Right.
+
+00:27:43.039 --> 00:27:44.559
+No, that's the wrong one.
+
+00:27:55.839 --> 00:28:12.799
+As you approach the ice spire hold, clouds partly obscure a stone fortress situated atop the icy spur of a jagged snow-covered mountain that you recognize as Ice Spire Peak, a landmark so enormous as to be visible from Phandalin on a clear day.
+
+00:28:13.119 --> 00:28:14.480
+Oh, so we've seen it before.
+
+00:28:14.799 --> 00:28:15.759
+Oh, interesting.
+
+00:28:16.319 --> 00:28:17.519
+I see it from Phandalin.
+
+00:28:18.160 --> 00:28:19.200
+The peak.
+
+00:28:20.480 --> 00:28:21.839
+It's like Mount Fuji.
+
+00:28:22.240 --> 00:28:22.720
+Yes.
+
+00:28:23.039 --> 00:28:23.680
+Yes.
+
+00:28:24.319 --> 00:28:26.400
+The mountain dwarfs the fortress.
+
+00:28:26.640 --> 00:28:28.799
+So the fortress is basically invisible on it.
+
+00:28:29.119 --> 00:28:29.279
+Okay.
+
+00:28:30.160 --> 00:28:34.000
+Which consists of two separate structures joined together by a stone bridge.
+
+00:28:34.319 --> 00:28:42.640
+A narrow winding path corkscrews up the mountainsides to the smaller of the two structures and appears to be the only safe way to reach it by land.
+
+00:28:42.960 --> 00:28:44.400
+It's an unwelcome path.
+
+00:28:44.640 --> 00:28:45.759
+Hold on, Rosa.
+
+00:28:46.240 --> 00:28:48.240
+It's an unwelcome path.
+
+00:28:49.759 --> 00:28:51.440
+That appears to be the only safe path.
+
+00:28:51.599 --> 00:28:53.519
+What are the unsafe paths?
+
+00:29:00.559 --> 00:29:05.920
+Well, I was just going to say it's an unwelcome path, but not as unwelcome as the cold, howling wind that buffets you.
+
+00:29:08.160 --> 00:29:09.759
+Yes, so it's kind of cold.
+
+00:29:10.960 --> 00:29:11.200
+Okay.
+
+00:29:12.640 --> 00:29:14.400
+Are there other paths?
+
+00:29:18.240 --> 00:29:19.840
+What do you mean, like other paths?
+
+00:29:20.079 --> 00:29:20.319
+Yes.
+
+00:29:20.400 --> 00:29:25.759
+I mean, you can definitely, absolutely, attempt to climb the mountain pass.
+
+00:29:25.920 --> 00:29:28.799
+I even have a whole mechanic for it, so feel free.
+
+00:29:29.119 --> 00:29:35.119
+Does the mechanic include, you know, wild behind the climbable races or animals, whatever?
+
+00:29:35.680 --> 00:29:37.279
+I mean, there's lots of stratagems.
+
+00:29:37.360 --> 00:29:40.799
+I'm not saying all of them can be made to work.
+
+00:29:43.279 --> 00:29:44.559
+But yes, there is a path.
+
+00:29:44.720 --> 00:29:47.360
+That is, there is a path that leads through it.
+
+00:29:47.599 --> 00:29:50.639
+You can ignore the path and start climbing up the rocks.
+
+00:29:52.880 --> 00:29:55.840
+Do we have a fly spell or anything like that?
+
+00:29:56.799 --> 00:29:57.360
+That does.
+
+00:29:57.599 --> 00:29:58.880
+I don't have anything like that.
+
+00:29:59.200 --> 00:29:59.840
+I don't have.
+
+00:30:02.319 --> 00:30:03.599
+Let me check.
+
+00:30:06.160 --> 00:30:06.720
+All right.
+
+00:30:07.039 --> 00:30:15.759
+As you look around, the natural path winds treacherously, but the unnatural lawn looks like it would require climbing a 20-foot sheer ice wall.
+
+00:30:16.960 --> 00:30:17.519
+200 feet.
+
+00:30:18.240 --> 00:30:20.319
+Well, that should not be a problem for Brewbarry.
+
+00:30:20.480 --> 00:30:21.279
+He'll be fine.
+
+00:30:21.519 --> 00:30:21.680
+Yeah.
+
+00:30:22.240 --> 00:30:25.519
+And Soma, I can just go storm into some.
+
+00:30:26.720 --> 00:30:30.160
+Really, just me and Valphine who are going to be stuck.
+
+00:30:31.759 --> 00:30:33.279
+You said 20 feet or 200 feet?
+
+00:30:33.519 --> 00:30:34.079
+200 feet.
+
+00:30:35.440 --> 00:30:36.400
+Oh, 200.
+
+00:30:36.640 --> 00:30:37.039
+Yeah, 20 feet.
+
+00:30:37.759 --> 00:30:40.640
+I didn't say, sorry, I misspoke 200 feet.
+
+00:30:40.880 --> 00:30:41.279
+That's okay.
+
+00:30:41.680 --> 00:30:43.039
+200 is more.
+
+00:30:43.359 --> 00:30:43.519
+Yeah.
+
+00:30:43.759 --> 00:30:44.559
+That's more.
+
+00:30:46.000 --> 00:30:49.119
+That makes it, you know, an actual impediment.
+
+00:30:49.440 --> 00:30:51.119
+Yeah, that's that's tough.
+
+00:30:51.440 --> 00:30:52.880
+I do not have fly.
+
+00:30:54.720 --> 00:30:55.680
+Do I have Levitate?
+
+00:30:56.079 --> 00:30:59.599
+I do not have to low level to do anything flying, but I do have climbable creatures.
+
+00:30:59.759 --> 00:31:01.839
+But again, that just covers me.
+
+00:31:02.160 --> 00:31:04.319
+Maybe we should just take the obvious path.
+
+00:31:05.039 --> 00:31:06.880
+The obvious path is a trap.
+
+00:31:08.400 --> 00:31:15.279
+Also, was there any signs of like the natural disturbance of the dude walking through here?
+
+00:31:17.039 --> 00:31:19.440
+He follows the path, curiously enough.
+
+00:31:19.759 --> 00:31:21.440
+Oh, yeah, I believe that.
+
+00:31:21.680 --> 00:31:22.079
+All right, all right.
+
+00:31:22.160 --> 00:31:24.319
+I'm actually nothing standing in his way.
+
+00:31:24.480 --> 00:31:28.000
+He was like, you know, climbing over rocks rather than going around them.
+
+00:31:28.559 --> 00:31:32.000
+Yeah, I just assumed he'd like arm a path through the mountain or something.
+
+00:31:32.559 --> 00:31:37.279
+No, apparently climbing up 200 feet of straight ice was not, you know, not in the plan.
+
+00:31:37.440 --> 00:31:38.400
+Oh, is it ice?
+
+00:31:38.960 --> 00:31:42.240
+Yes, we could use like crampons and an ice pick.
+
+00:31:43.519 --> 00:31:44.960
+If you have them, yes.
+
+00:31:45.599 --> 00:31:45.759
+Yeah.
+
+00:31:47.519 --> 00:31:49.359
+Did we buy crampons before leaving?
+
+00:31:49.759 --> 00:31:50.400
+No, we did.
+
+00:31:53.359 --> 00:31:54.480
+That would have been useful, though.
+
+00:31:54.799 --> 00:31:55.279
+Yes.
+
+00:31:55.920 --> 00:31:56.640
+Shit.
+
+00:31:57.279 --> 00:32:00.240
+We were so eager, we couldn't go to Phandalin.
+
+00:32:00.400 --> 00:32:02.079
+We had to go straight.
+
+00:32:02.720 --> 00:32:04.079
+We wouldn't have gotten crampons.
+
+00:32:04.480 --> 00:32:05.440
+No, we wouldn't have.
+
+00:32:06.000 --> 00:32:07.519
+All right, let's take the path.
+
+00:32:10.480 --> 00:32:12.319
+Where does this train head?
+
+00:32:16.480 --> 00:32:16.960
+So do you want?
+
+00:32:17.200 --> 00:32:19.839
+Are you going to follow the trail or are you going to climb up the ice wall?
+
+00:32:20.079 --> 00:32:21.759
+I think we're stuck going on the path, right?
+
+00:32:22.640 --> 00:32:23.920
+Who's going first?
+
+00:32:24.880 --> 00:32:26.000
+Brewbarry.
+
+00:32:26.960 --> 00:32:28.079
+Perfect.
+
+00:32:29.039 --> 00:32:31.200
+Actually, no, shouldn't it be highest perception?
+
+00:32:31.360 --> 00:32:31.839
+I forget.
+
+00:32:32.480 --> 00:32:33.599
+No, Brewbarry.
+
+00:32:38.640 --> 00:32:39.360
+Brewbarry?
+
+00:32:42.720 --> 00:32:46.960
+Well, I mean, the wise thing to do is to send Valphine, but that is up to her.
+
+00:32:47.920 --> 00:32:49.200
+Sure, I can go first.
+
+00:32:49.519 --> 00:32:49.759
+Okay.
+
+00:32:53.279 --> 00:32:54.160
+So it turns out.
+
+00:32:54.880 --> 00:32:55.039
+Okay.
+
+00:32:55.680 --> 00:33:00.559
+So there are ways to climb up this thing using your abilities.
+
+00:33:01.200 --> 00:33:01.440
+Yeah.
+
+00:33:02.079 --> 00:33:03.839
+We're not smart enough to come up with any of them.
+
+00:33:03.920 --> 00:33:05.279
+We're not going to take the path, apparently.
+
+00:33:05.599 --> 00:33:07.599
+I don't know how we're going to get like Vukradin up.
+
+00:33:08.240 --> 00:33:08.480
+Yeah.
+
+00:33:10.160 --> 00:33:10.400
+Okay.
+
+00:33:10.640 --> 00:33:12.480
+Well, I know how you could get him up, but that's.
+
+00:33:12.799 --> 00:33:13.360
+Mold ice.
+
+00:33:13.519 --> 00:33:14.640
+We needed mold ice.
+
+00:33:16.480 --> 00:33:18.400
+Throw some fireball beads up.
+
+00:33:18.720 --> 00:33:19.119
+Oh, yeah.
+
+00:33:19.200 --> 00:33:20.799
+Fire, but we're not using that thing.
+
+00:33:22.079 --> 00:33:23.759
+Stop asking me about it.
+
+00:33:24.400 --> 00:33:26.000
+I mean, you saw what Brewbarry had to say.
+
+00:33:26.160 --> 00:33:28.559
+He says, you have my sword, you have my halberd.
+
+00:33:28.720 --> 00:33:30.319
+The beads are yours.
+
+00:33:32.160 --> 00:33:32.319
+Yeah.
+
+00:33:34.240 --> 00:33:34.880
+I'm not seeing.
+
+00:33:35.440 --> 00:33:36.319
+That's what he thinks.
+
+00:33:36.559 --> 00:33:36.720
+What?
+
+00:33:37.039 --> 00:33:37.599
+Bless him.
+
+00:33:37.839 --> 00:33:38.799
+Bless his heart.
+
+00:33:43.759 --> 00:33:46.240
+Should we keep moving our people up the path?
+
+00:33:54.319 --> 00:33:54.960
+The path.
+
+00:33:55.119 --> 00:33:55.680
+All right.
+
+00:33:56.319 --> 00:33:58.240
+And so let's just, I will just move you.
+
+00:33:58.400 --> 00:34:00.480
+So you keep climbing up.
+
+00:34:02.319 --> 00:34:02.880
+All right.
+
+00:34:04.960 --> 00:34:06.640
+And clining up.
+
+00:34:09.519 --> 00:34:11.119
+And climbing up.
+
+00:34:12.639 --> 00:34:14.400
+We need a good climbing song.
+
+00:34:14.719 --> 00:34:15.119
+Oh, yeah.
+
+00:34:15.199 --> 00:34:16.239
+And what I also need is.
+
+00:34:19.039 --> 00:34:20.960
+Why isn't it just default to explore mode?
+
+00:34:21.280 --> 00:34:23.199
+Up the ice spire climbing.
+
+00:34:23.280 --> 00:34:23.840
+We will go.
+
+00:34:24.239 --> 00:34:25.360
+There's a rock slide.
+
+00:34:25.920 --> 00:34:26.159
+What?
+
+00:34:27.039 --> 00:34:28.400
+There's a rock slide.
+
+00:34:29.039 --> 00:34:29.440
+Hold on.
+
+00:34:29.519 --> 00:34:32.960
+Let me just make sure that we have the all right.
+
+00:34:33.280 --> 00:34:35.039
+And you arrive at this rock slide.
+
+00:34:35.119 --> 00:34:35.280
+Yes.
+
+00:34:35.519 --> 00:34:36.079
+All right.
+
+00:34:37.440 --> 00:34:37.760
+Okay.
+
+00:34:45.840 --> 00:34:46.079
+Okay.
+
+00:34:46.400 --> 00:34:52.960
+The trail is safe, though a 20-foot long stretch of it is buried under rubble that is difficult to rain.
+
+00:34:54.079 --> 00:34:54.320
+So.
+
+00:34:54.960 --> 00:34:55.760
+Well, there's a trail.
+
+00:34:56.639 --> 00:34:57.920
+Yeah, you just can walk over.
+
+00:34:58.480 --> 00:34:59.679
+You can come and move up one.
+
+00:35:00.239 --> 00:35:01.760
+At a time, that's the only thing.
+
+00:35:05.599 --> 00:35:06.559
+My miniature has.
+
+00:35:06.719 --> 00:35:07.599
+Oh, there it is.
+
+00:35:07.840 --> 00:35:08.079
+Okay.
+
+00:35:08.239 --> 00:35:09.039
+Never mind.
+
+00:35:11.199 --> 00:35:15.920
+No, I don't think we need to have Soma's names and clutter up my icons.
+
+00:35:18.559 --> 00:35:19.199
+All right.
+
+00:35:21.440 --> 00:35:23.519
+So, something about a bridge above us?
+
+00:35:24.400 --> 00:35:24.639
+Yes.
+
+00:35:24.960 --> 00:35:26.880
+Let me just see about the bridge.
+
+00:35:30.559 --> 00:35:32.400
+Let me just see about the bridge.
+
+00:35:43.840 --> 00:35:44.639
+Okay, just a thought.
+
+00:35:44.880 --> 00:35:55.679
+Okay, just a thought. Clouds partly, as you arrive at the Icespire Hold, clouds partly obscure a stand fortress sitting atop, sitting situated atop of the icy spur of Icespire Peaks.
+
+00:35:56.320 --> 00:36:00.480
+The Carver's Trail directly leads to the smaller gatehouse structure.
+
+00:36:00.639 --> 00:36:08.559
+From the rooftop of the main fortress, you can see the massive form of Cryovain sleeping, its white scales blending with the snow.
+
+00:36:08.880 --> 00:36:10.320
+Oh, you can see the dragon.
+
+00:36:10.719 --> 00:36:11.519
+The dragon has a name?
+
+00:36:11.599 --> 00:36:12.400
+Cryovain?
+
+00:36:12.480 --> 00:36:13.679
+Yeah, it's the first I've heard of it.
+
+00:36:14.000 --> 00:36:16.159
+Oh, it does have a name.
+
+00:36:16.239 --> 00:36:17.119
+Sorry, I didn't know that.
+
+00:36:17.199 --> 00:36:17.760
+You didn't know the names.
+
+00:36:17.920 --> 00:36:19.920
+Yes, wait, you told it to us and I forgot.
+
+00:36:20.000 --> 00:36:24.000
+But you know, it's above us to the west or above us to the east.
+
+00:36:27.519 --> 00:36:30.400
+We never went to the evil half-work spellcasters.
+
+00:36:31.280 --> 00:36:33.599
+Hill Cryovain, the dragon.
+
+00:36:38.559 --> 00:36:44.800
+I will put I will just here's what I will do.
+
+00:36:49.920 --> 00:36:55.679
+Should I uh, I guess I will close the Sister Kaella Spy Master quest.
+
+00:36:56.639 --> 00:36:59.840
+I guess we're kind of that one's kind of over.
+
+00:37:00.800 --> 00:37:07.840
+Um, explore the shrine of Savras to learn Cryovain the dragon's location.
+
+00:37:08.719 --> 00:37:09.360
+Yep, so you did now.
+
+00:37:10.000 --> 00:37:10.960
+We now know where he is.
+
+00:37:11.199 --> 00:37:12.800
+We did not do that.
+
+00:37:13.760 --> 00:37:17.280
+Um, we could still explore the shrine.
+
+00:37:17.840 --> 00:37:20.480
+Reclaim all blood money from the Carver.
+
+00:37:20.639 --> 00:37:22.559
+Ooh, that'll be a good one.
+
+00:37:24.639 --> 00:37:25.440
+Let's see.
+
+00:37:27.599 --> 00:37:28.159
+Hold on.
+
+00:37:28.239 --> 00:37:29.199
+Let me just see this.
+
+00:37:29.360 --> 00:37:31.599
+I just need to make a different color.
+
+00:37:31.920 --> 00:37:32.480
+Right.
+
+00:37:34.079 --> 00:37:36.559
+So that's not the real dragon, but you asked where he was.
+
+00:37:36.639 --> 00:37:40.159
+Sorry, he's on the second floor of the building to the left.
+
+00:37:43.440 --> 00:37:44.480
+Let me just draw this.
+
+00:37:44.719 --> 00:37:46.000
+Okay, so let me just here.
+
+00:37:46.400 --> 00:37:47.840
+I don't see anything.
+
+00:37:49.440 --> 00:37:49.840
+Do you not?
+
+00:37:50.159 --> 00:37:50.559
+Does it not?
+
+00:37:51.280 --> 00:37:52.320
+Now I'm seeing more.
+
+00:37:52.960 --> 00:37:53.519
+Hold on.
+
+00:37:53.840 --> 00:37:54.480
+Do you not see?
+
+00:37:54.639 --> 00:37:55.679
+Let me see what Casey is.
+
+00:37:57.039 --> 00:37:58.159
+It's just all foggy.
+
+00:37:58.320 --> 00:37:59.840
+No, but do you see the dragon?
+
+00:38:00.320 --> 00:38:00.800
+I see a dragon.
+
+00:38:00.960 --> 00:38:01.840
+I see a dragon, yeah.
+
+00:38:02.079 --> 00:38:08.320
+Yeah, so what I'm trying to say is that if you if I'm kind of giving you the view of the fortress, right?
+
+00:38:11.440 --> 00:38:11.679
+Yeah.
+
+00:38:12.639 --> 00:38:14.719
+Now I want to climb up the wall.
+
+00:38:15.679 --> 00:38:16.320
+I see.
+
+00:38:16.559 --> 00:38:19.199
+And then the uh the right side is the other building.
+
+00:38:19.519 --> 00:38:19.920
+Yes.
+
+00:38:20.159 --> 00:38:22.480
+So the Carver went in through here.
+
+00:38:22.960 --> 00:38:23.840
+Sorry, went in through.
+
+00:38:23.920 --> 00:38:25.519
+Let me just write that down.
+
+00:38:26.159 --> 00:38:28.400
+He went to the small building and then across the bridge.
+
+00:38:28.719 --> 00:38:29.679
+Yes, Carver.
+
+00:38:29.840 --> 00:38:30.000
+Yeah.
+
+00:38:30.159 --> 00:38:33.760
+So when we cross under the bridge, how high above us is the bridge?
+
+00:38:33.920 --> 00:38:35.519
+How far below are we?
+
+00:38:40.639 --> 00:38:41.840
+I don't know.
+
+00:38:43.440 --> 00:38:46.480
+I would like to climb up this wall here, I believe.
+
+00:38:46.800 --> 00:38:49.039
+These are all icy cliffs, just so you know.
+
+00:38:49.280 --> 00:38:50.320
+Yeah, go for it, man.
+
+00:38:50.559 --> 00:38:52.480
+But how high is that?
+
+00:38:52.800 --> 00:38:57.519
+I will need to throw the rope down when you get to the top.
+
+00:39:00.800 --> 00:39:01.599
+It's a great question.
+
+00:39:01.760 --> 00:39:02.559
+I don't know the answer.
+
+00:39:02.639 --> 00:39:05.039
+And let me just figure out whether they say something.
+
+00:39:09.039 --> 00:39:09.599
+All right.
+
+00:39:17.840 --> 00:39:18.559
+It's a good question.
+
+00:39:18.720 --> 00:39:20.880
+I just do not know off the top of my head.
+
+00:39:25.039 --> 00:39:26.800
+It's 50 feet.
+
+00:39:27.440 --> 00:39:28.079
+50?
+
+00:39:28.400 --> 00:39:28.559
+Yeah.
+
+00:39:28.800 --> 00:39:32.800
+Oh, I've just been climbing for a spider or whatever.
+
+00:39:34.720 --> 00:39:35.920
+I could scamper up there.
+
+00:39:36.239 --> 00:39:37.199
+50 feet.
+
+00:39:37.519 --> 00:39:38.800
+Yeah, if you want to.
+
+00:39:39.119 --> 00:39:40.639
+You guys want to toss me a rope?
+
+00:39:41.920 --> 00:39:42.400
+Sure.
+
+00:39:42.720 --> 00:39:44.320
+Oh, you're going to throw a rope down?
+
+00:39:44.639 --> 00:39:46.720
+Well, I mean, unless you want to.
+
+00:39:46.880 --> 00:39:52.559
+So your plan is to turn into giant wolf spider, yeah.
+
+00:39:53.039 --> 00:39:54.559
+And climb up, climb it up.
+
+00:39:54.880 --> 00:39:56.639
+Skitter up the wall, drop a rope.
+
+00:39:56.800 --> 00:39:59.440
+Is there some ice spider or anything?
+
+00:40:00.639 --> 00:40:02.159
+Not that I've seen.
+
+00:40:02.880 --> 00:40:04.320
+Yeah, he needs to have seen it.
+
+00:40:04.639 --> 00:40:08.480
+Yeah, I can't just turn into things willy-nilly according to the rules.
+
+00:40:09.119 --> 00:40:13.599
+I have to have a reasonable encounter with it.
+
+00:40:14.800 --> 00:40:16.880
+So, yes, he's not seen a spider.
+
+00:40:17.119 --> 00:40:20.880
+What if, what if, and stick with me for this a minute.
+
+00:40:21.199 --> 00:40:21.519
+Yes.
+
+00:40:21.840 --> 00:40:26.800
+I have that spell that can make you see whatever I decide.
+
+00:40:27.440 --> 00:40:27.599
+No.
+
+00:40:27.840 --> 00:40:28.880
+And you think it's real?
+
+00:40:29.199 --> 00:40:29.760
+No, no, no.
+
+00:40:30.079 --> 00:40:33.119
+We can just have you experience that, and then you will have seen it.
+
+00:40:33.440 --> 00:40:34.400
+No, it doesn't work that way.
+
+00:40:36.079 --> 00:40:36.400
+Good.
+
+00:40:39.119 --> 00:40:41.039
+I can't do anything in this campaign.
+
+00:40:41.280 --> 00:40:43.360
+I'm not here to piss off the GM.
+
+00:40:44.639 --> 00:40:45.119
+All right.
+
+00:40:45.280 --> 00:40:47.119
+So Wolf Spider is going to be able to.
+
+00:40:48.159 --> 00:40:48.639
+Wait, hold on.
+
+00:40:48.800 --> 00:40:52.000
+I could allow it, but it would be interesting to see what the outcome would be.
+
+00:40:52.320 --> 00:40:55.119
+I mean, it would be a phantasmal owl bear or something, right?
+
+00:40:59.679 --> 00:41:06.000
+Like, you know, something that, like, isn't, it has no, like, real physics.
+
+00:41:06.400 --> 00:41:06.480
+Yeah.
+
+00:41:06.960 --> 00:41:10.239
+Like, you end up with, like, cartoon physics or something like that.
+
+00:41:12.400 --> 00:41:12.719
+Yes.
+
+00:41:13.039 --> 00:41:13.360
+You can't.
+
+00:41:13.760 --> 00:41:13.920
+Yeah.
+
+00:41:14.079 --> 00:41:15.039
+So, to, you know.
+
+00:41:16.000 --> 00:41:16.559
+All right.
+
+00:41:19.039 --> 00:41:19.360
+So.
+
+00:41:22.320 --> 00:41:23.840
+So, what's your plan?
+
+00:41:25.039 --> 00:41:26.800
+Like I said, my plan is to get up there.
+
+00:41:27.519 --> 00:41:34.159
+Why, guys, can I just ask, why don't we just go to the right and into the small building and across the bridge?
+
+00:41:35.440 --> 00:41:36.800
+That's what they'll be expecting.
+
+00:41:37.039 --> 00:41:38.719
+Aren't we trying to catch up with the Carver too?
+
+00:41:38.800 --> 00:41:40.639
+Like, isn't there a time schedule here?
+
+00:41:41.119 --> 00:41:42.000
+About time.
+
+00:41:43.920 --> 00:41:44.400
+I don't know.
+
+00:41:44.559 --> 00:41:46.880
+The gatehouse just seems so obvious.
+
+00:41:49.119 --> 00:41:54.079
+Yeah, if we come in from the side entrance, we might actually avoid an encounter or two.
+
+00:41:54.400 --> 00:41:54.960
+All right.
+
+00:41:55.280 --> 00:41:55.679
+Sold.
+
+00:41:56.079 --> 00:41:56.559
+Do it.
+
+00:41:56.719 --> 00:41:57.119
+Go for it.
+
+00:41:57.280 --> 00:41:57.519
+All right.
+
+00:41:57.599 --> 00:42:00.880
+So, yeah, wolf me, wolf spider me up to here and throw down a rope.
+
+00:42:01.199 --> 00:42:01.679
+All right.
+
+00:42:02.559 --> 00:42:05.519
+You will spider you up to there and you throw a rope.
+
+00:42:07.679 --> 00:42:08.239
+All right.
+
+00:42:08.400 --> 00:42:15.679
+I just roll DC seven athletics or acrobatics checks to see if you guys make it up to the top.
+
+00:42:16.480 --> 00:42:17.119
+Oh, those guys.
+
+00:42:17.199 --> 00:42:17.360
+Yeah.
+
+00:42:17.599 --> 00:42:17.760
+Okay.
+
+00:42:17.840 --> 00:42:18.559
+Yeah, let's see.
+
+00:42:18.800 --> 00:42:21.599
+Everybody gets spardic inspiration.
+
+00:42:22.079 --> 00:42:23.280
+I don't need to do it, obviously, right?
+
+00:42:23.599 --> 00:42:23.920
+No, no, no.
+
+00:42:25.119 --> 00:42:26.639
+Are you in spider form or human form?
+
+00:42:26.880 --> 00:42:29.119
+I'm going to be in human, spider.
+
+00:42:29.440 --> 00:42:29.599
+Okay.
+
+00:42:29.760 --> 00:42:31.360
+I only get so many wild shape charges.
+
+00:42:31.599 --> 00:42:32.159
+I'm going to save.
+
+00:42:33.119 --> 00:42:33.599
+Give me a second.
+
+00:42:33.679 --> 00:42:34.559
+I need to go get some drink.
+
+00:42:34.800 --> 00:42:34.960
+All right.
+
+00:42:35.119 --> 00:42:37.920
+Everybody has if you need it.
+
+00:42:39.440 --> 00:42:44.800
+Well, Brewbarry succeeded on the DC7 with a plus seven.
+
+00:42:46.880 --> 00:42:49.599
+So you have a 5% chance of failing, yeah.
+
+00:42:59.119 --> 00:43:00.639
+Athletics or acrobatics?
+
+00:43:00.800 --> 00:43:01.440
+Acrobatics.
+
+00:43:01.599 --> 00:43:02.639
+Here we go.
+
+00:43:03.280 --> 00:43:04.480
+I did it.
+
+00:43:08.000 --> 00:43:10.079
+Everybody, look at these rolls.
+
+00:43:12.880 --> 00:43:15.440
+Valphine, with your plus one.
+
+00:43:16.320 --> 00:43:17.119
+My plus one.
+
+00:43:17.360 --> 00:43:17.599
+Yeah.
+
+00:43:17.920 --> 00:43:18.559
+Very nice.
+
+00:43:18.800 --> 00:43:19.840
+Did you all make it?
+
+00:43:20.159 --> 00:43:21.119
+Yeah, we all made it.
+
+00:43:21.599 --> 00:43:23.039
+Valphine's at 19.
+
+00:43:31.119 --> 00:43:31.519
+Let me see.
+
+00:43:31.599 --> 00:43:32.400
+There's one more thing.
+
+00:43:32.639 --> 00:43:34.960
+There's one more faction I need to deal with.
+
+00:43:37.599 --> 00:43:41.360
+Now we will be surrounded on the bridge and attacked from both sides.
+
+00:43:41.599 --> 00:43:43.280
+This is a possibility.
+
+00:43:46.320 --> 00:43:46.960
+Down the rope.
+
+00:43:47.119 --> 00:43:48.239
+Down the rope, everybody.
+
+00:43:48.400 --> 00:43:49.360
+Down the rope.
+
+00:43:50.159 --> 00:43:52.239
+You'll just talk him out of it.
+
+00:43:53.119 --> 00:43:55.199
+We're going up here, right?
+
+00:43:56.719 --> 00:43:57.840
+Going to the west.
+
+00:43:58.320 --> 00:43:59.599
+Going west to the drawing.
+
+00:44:00.239 --> 00:44:01.679
+To this rubble thing here.
+
+00:44:03.039 --> 00:44:03.519
+Yes.
+
+00:44:03.840 --> 00:44:04.159
+All right.
+
+00:44:04.239 --> 00:44:05.440
+So as you're right.
+
+00:44:06.800 --> 00:44:07.280
+Right there?
+
+00:44:07.519 --> 00:44:08.159
+I think Believe.
+
+00:44:09.599 --> 00:44:11.039
+No, not on the bridge.
+
+00:44:11.360 --> 00:44:11.840
+We already know.
+
+00:44:11.920 --> 00:44:12.800
+We all went on the bridge.
+
+00:44:12.960 --> 00:44:13.039
+Yeah.
+
+00:44:13.840 --> 00:44:15.599
+We're going up here to this rubble.
+
+00:44:15.920 --> 00:44:16.880
+No, we all, we all.
+
+00:44:17.039 --> 00:44:17.440
+Sorry, dude.
+
+00:44:17.519 --> 00:44:18.320
+We all went to the bridge.
+
+00:44:18.559 --> 00:44:19.280
+Oh, do you want me to?
+
+00:44:19.440 --> 00:44:21.280
+I mean, I can just go make the climb elsewhere.
+
+00:44:21.920 --> 00:44:23.440
+For some reason, I thought we were going up the bridge.
+
+00:44:23.840 --> 00:44:24.559
+Okay, so you're going up here.
+
+00:44:24.800 --> 00:44:26.079
+You want to go to this rubble field?
+
+00:44:26.800 --> 00:44:27.760
+I think I agree with that.
+
+00:44:27.840 --> 00:44:29.280
+Yeah, somehow I missed it.
+
+00:44:29.760 --> 00:44:31.679
+Bypass the gatehouse entirely.
+
+00:44:32.880 --> 00:44:35.760
+Well, there's still got to be a door somewhere, I guess.
+
+00:44:36.320 --> 00:44:39.199
+Looks like, but it's not like a big freaking gate.
+
+00:44:40.079 --> 00:44:40.800
+All right, hold on.
+
+00:44:40.960 --> 00:44:42.000
+Hold on, hold on, hold on.
+
+00:44:42.159 --> 00:44:44.400
+Holding on, holding on, holding on, holding on.
+
+00:44:45.599 --> 00:44:45.840
+Okay.
+
+00:44:48.960 --> 00:44:54.079
+Years ago, an earthquake caused two corners of the fortress to collapse into great piles of rubble.
+
+00:44:54.239 --> 00:44:56.079
+This area is difficult terrain.
+
+00:44:56.720 --> 00:44:57.519
+No worries.
+
+00:44:57.760 --> 00:44:58.400
+We got it.
+
+00:44:58.639 --> 00:44:59.199
+All right.
+
+00:44:59.519 --> 00:44:59.840
+It feels.
+
+00:45:00.159 --> 00:45:01.119
+Very difficult.
+
+00:45:01.440 --> 00:45:01.679
+Okay.
+
+00:45:03.119 --> 00:45:04.800
+Skidder, Skidder, Skidder.
+
+00:45:05.440 --> 00:45:05.760
+Okay.
+
+00:45:06.400 --> 00:45:09.199
+So let's loop around the back, maybe.
+
+00:45:10.159 --> 00:45:12.880
+Go in west.
+
+00:45:13.519 --> 00:45:14.480
+Yeah, like this way.
+
+00:45:14.719 --> 00:45:16.480
+Can I scale the wall at all?
+
+00:45:21.280 --> 00:45:22.480
+Yes, you can.
+
+00:45:23.119 --> 00:45:24.639
+I mean, to start scouting?
+
+00:45:25.360 --> 00:45:25.840
+Sure.
+
+00:45:26.719 --> 00:45:30.159
+I have, you know, profound climbing in spider form.
+
+00:45:30.239 --> 00:45:33.039
+So, like, I don't know how to get anything revealed up here, but.
+
+00:45:33.360 --> 00:45:34.239
+Yeah, hold on, hold on.
+
+00:45:34.320 --> 00:45:35.679
+I just realized I'm missing something.
+
+00:45:36.000 --> 00:45:36.559
+Yeah, sure.
+
+00:45:38.559 --> 00:45:39.840
+This door won't open either.
+
+00:45:40.239 --> 00:45:42.320
+Oh, I see you're trying to go in the back.
+
+00:45:44.719 --> 00:45:46.320
+If he's used back door.
+
+00:45:48.159 --> 00:45:49.119
+Back door, eh?
+
+00:45:49.199 --> 00:45:50.079
+Good idea.
+
+00:45:56.719 --> 00:45:57.440
+Hold on.
+
+00:46:25.840 --> 00:46:27.119
+Just give me one second.
+
+00:46:27.440 --> 00:46:28.320
+I'm missing something.
+
+00:46:28.559 --> 00:46:30.400
+Forgot to draw my carb arc on.
+
+00:46:32.000 --> 00:46:34.000
+Are we getting a stick figure at the last minute?
+
+00:46:34.320 --> 00:46:35.760
+No, I'm not going to do a stick figure.
+
+00:46:35.840 --> 00:46:42.320
+I'm going to use AI-generated slop because actually not.
+
+00:46:55.199 --> 00:46:58.400
+I've discovered ever since I became like, you know.
+
+00:46:59.280 --> 00:47:00.000
+So what is it?
+
+00:47:00.079 --> 00:47:07.760
+My, ever since my job became Nutanix's AI guy, I've become one with the AI.
+
+00:47:09.280 --> 00:47:12.079
+And I've become very disappointed with the technology.
+
+00:47:13.039 --> 00:47:13.679
+Oh, man.
+
+00:47:13.840 --> 00:47:15.840
+I'm more impressed with it than ever.
+
+00:47:16.159 --> 00:47:16.559
+What do you mean?
+
+00:47:16.800 --> 00:47:19.039
+You're saying you'd like to improve it.
+
+00:47:23.280 --> 00:47:23.599
+Okay.
+
+00:47:27.360 --> 00:47:28.320
+Let me just see.
+
+00:47:28.480 --> 00:47:29.599
+Okay, go be advantage.
+
+00:47:31.599 --> 00:47:32.079
+All right.
+
+00:47:33.840 --> 00:47:35.119
+All right, roll 20.
+
+00:47:51.920 --> 00:47:55.440
+So, because it'll be easier if I just show you the picture.
+
+00:48:02.960 --> 00:48:03.760
+Where is it?
+
+00:48:13.760 --> 00:48:14.239
+What happened?
+
+00:48:14.480 --> 00:48:15.280
+I don't see anything.
+
+00:48:15.599 --> 00:48:16.320
+No, no, no, no.
+
+00:48:16.880 --> 00:48:23.679
+Yes, you didn't see anything because there's nothing to see.
+
+00:48:24.000 --> 00:48:24.559
+Yes.
+
+00:48:31.360 --> 00:48:32.719
+No, that's not what I wanted.
+
+00:48:33.039 --> 00:48:35.519
+Oh, come on, you damn bastards.
+
+00:48:40.719 --> 00:48:41.840
+Ignore that.
+
+00:48:43.039 --> 00:48:43.519
+Let's see.
+
+00:48:43.679 --> 00:48:44.159
+I'm sorry.
+
+00:48:49.760 --> 00:48:50.079
+All right.
+
+00:48:50.239 --> 00:48:52.079
+I put it in the Discord chat.
+
+00:48:52.400 --> 00:48:53.280
+Discord chat.
+
+00:48:53.360 --> 00:48:53.920
+Oh, look at this.
+
+00:48:54.880 --> 00:48:57.039
+Except, did it go into the discharge chat?
+
+00:48:57.199 --> 00:49:02.239
+No, it turned into a red dot because the universe just effing hates me because that's what the universe does.
+
+00:49:02.320 --> 00:49:04.000
+It's just having a bad day, dude.
+
+00:49:04.559 --> 00:49:05.840
+Yes, I'm having a bad day.
+
+00:49:06.159 --> 00:49:06.320
+Wow.
+
+00:49:06.800 --> 00:49:07.840
+That is some pretty good gen.
+
+00:49:08.719 --> 00:49:11.199
+When I zoomed in on the red dot, it's still a red dot.
+
+00:49:12.639 --> 00:49:16.239
+I think there's a sniper on the Carver, and he's sneaking around at night.
+
+00:49:16.800 --> 00:49:17.280
+Me too.
+
+00:49:17.599 --> 00:49:19.679
+It's not like a uniform red dot.
+
+00:49:19.840 --> 00:49:21.920
+It's like a little bit misshapen, actually.
+
+00:49:22.400 --> 00:49:22.880
+Yeah, I know.
+
+00:49:22.960 --> 00:49:24.000
+It's kind of fascinating.
+
+00:49:24.320 --> 00:49:24.559
+Yeah.
+
+00:49:24.960 --> 00:49:25.199
+Something.
+
+00:49:25.679 --> 00:49:26.960
+I need to analyze this red dot.
+
+00:49:28.000 --> 00:49:29.440
+I need to keep working on that one.
+
+00:49:29.760 --> 00:49:30.639
+Yeah, I know what you mean.
+
+00:49:31.039 --> 00:49:31.840
+Or slop.
+
+00:49:32.480 --> 00:49:34.000
+Yeah, that one is slop, Bran.
+
+00:49:34.239 --> 00:49:34.480
+All right.
+
+00:49:34.559 --> 00:49:35.199
+So you're.
+
+00:49:35.760 --> 00:49:36.079
+Okay.
+
+00:49:46.720 --> 00:49:47.039
+All right.
+
+00:49:47.199 --> 00:49:48.400
+This is close enough.
+
+00:49:48.720 --> 00:49:49.360
+All right.
+
+00:49:54.159 --> 00:49:54.800
+Excuse me.
+
+00:49:55.119 --> 00:49:55.599
+All right.
+
+00:50:13.280 --> 00:50:25.360
+All right, you climb over and you see this is the scene you see on the uh roof.
+
+00:50:25.519 --> 00:50:27.360
+Do you guys see a change layer?
+
+00:50:32.480 --> 00:50:33.360
+This is what you guys see.
+
+00:50:33.519 --> 00:50:34.400
+This is what you see on the roof.
+
+00:50:35.119 --> 00:50:36.239
+Where am I looking?
+
+00:50:36.800 --> 00:50:39.599
+Do you not see it on the top right-hand corner?
+
+00:50:40.480 --> 00:50:41.360
+I see it.
+
+00:50:41.679 --> 00:50:42.639
+You should see an image.
+
+00:50:42.960 --> 00:50:43.760
+Oh, oh, oh.
+
+00:50:44.079 --> 00:50:46.400
+Yeah, yeah.
+
+00:50:47.199 --> 00:50:47.519
+Okay.
+
+00:50:49.119 --> 00:50:49.360
+Yeah.
+
+00:50:51.360 --> 00:50:52.960
+That's a small dragon.
+
+00:50:53.679 --> 00:50:54.000
+Yeah.
+
+00:50:54.639 --> 00:50:55.599
+Pay no attention to the size.
+
+00:50:55.679 --> 00:50:56.320
+It's supposed to be.
+
+00:50:57.199 --> 00:50:58.719
+I don't see anything.
+
+00:50:59.360 --> 00:50:59.840
+You don't see it?
+
+00:51:00.159 --> 00:51:00.719
+It's on the map.
+
+00:51:00.880 --> 00:51:03.360
+It's on the game map.
+
+00:51:03.679 --> 00:51:04.880
+I see it on the game map.
+
+00:51:04.960 --> 00:51:06.159
+I see the dragon.
+
+00:51:06.480 --> 00:51:07.280
+It's the same dragon.
+
+00:51:08.480 --> 00:51:09.119
+Go up into the right.
+
+00:51:09.519 --> 00:51:10.960
+Oh, you put it over here.
+
+00:51:11.280 --> 00:51:11.599
+Yeah.
+
+00:51:14.400 --> 00:51:20.320
+Oh, he has chained the dragon and put it in a summoning circle.
+
+00:51:21.440 --> 00:51:22.079
+Nice.
+
+00:51:22.400 --> 00:51:24.880
+He's looking very, very zombified.
+
+00:51:24.960 --> 00:51:26.320
+Like, where's his nose?
+
+00:51:26.639 --> 00:51:27.360
+Whoa.
+
+00:51:28.880 --> 00:51:29.599
+Cool.
+
+00:51:29.920 --> 00:51:30.639
+All right, there.
+
+00:51:30.880 --> 00:51:31.199
+All right.
+
+00:51:31.440 --> 00:51:32.480
+So this is what I see from the.
+
+00:51:32.639 --> 00:51:33.119
+Oh, there we go.
+
+00:51:33.199 --> 00:51:33.679
+That's better.
+
+00:51:34.000 --> 00:51:39.119
+What I see is the dragon is immobilized until we deal with the Carver.
+
+00:51:40.800 --> 00:51:41.199
+Yes.
+
+00:51:41.840 --> 00:51:42.239
+Yes.
+
+00:51:42.480 --> 00:51:45.039
+And Kaella, as you said, is like very.
+
+00:51:45.840 --> 00:51:54.719
+The last words you got from Sister Kaella are about how she Carver's gotten mad.
+
+00:51:55.039 --> 00:51:57.599
+Yeah, he doesn't look like a sane fella.
+
+00:51:58.159 --> 00:52:03.440
+Actually, after we save the dragon, the dragon may be very grateful.
+
+00:52:04.079 --> 00:52:05.679
+Yeah, I can get bony and a dragon.
+
+00:52:07.119 --> 00:52:08.400
+Yes, that is a possibility.
+
+00:52:08.719 --> 00:52:12.480
+It's a possibility breaking the dragon's chains.
+
+00:52:14.079 --> 00:52:15.280
+So that's what you see.
+
+00:52:15.599 --> 00:52:15.840
+All right.
+
+00:52:15.920 --> 00:52:16.719
+So we're going.
+
+00:52:17.920 --> 00:52:18.719
+We're going this way.
+
+00:52:18.880 --> 00:52:19.519
+I can't go this way.
+
+00:52:19.599 --> 00:52:20.239
+It won't let me move.
+
+00:52:20.480 --> 00:52:22.400
+Well, I'm climbing up the wall to peek in.
+
+00:52:24.000 --> 00:52:24.639
+So hold on.
+
+00:52:25.119 --> 00:52:28.480
+So roll your stealth to see if he notices you.
+
+00:52:28.800 --> 00:52:29.360
+Me, I assume.
+
+00:52:29.519 --> 00:52:30.000
+You can see me.
+
+00:52:30.960 --> 00:52:31.679
+No, because you're not.
+
+00:52:31.840 --> 00:52:33.119
+I wasn't talking to you, Dave.
+
+00:52:33.440 --> 00:52:33.920
+Oh, okay.
+
+00:52:34.159 --> 00:52:34.880
+Vukradin.
+
+00:52:35.199 --> 00:52:35.920
+We were talking about that.
+
+00:52:36.000 --> 00:52:36.719
+Vukradin.
+
+00:52:37.519 --> 00:52:38.559
+This is not about you right now.
+
+00:52:38.719 --> 00:52:39.440
+This is about Soma.
+
+00:52:40.000 --> 00:52:43.039
+Yes, this giant spider climbing up the wall.
+
+00:52:43.679 --> 00:52:44.800
+I think he saw me.
+
+00:52:45.679 --> 00:52:47.679
+You should get like a plus 18 on your stealth.
+
+00:52:47.760 --> 00:52:48.480
+You're a spider.
+
+00:52:48.800 --> 00:52:50.239
+I'm a giant wolf spider.
+
+00:52:50.639 --> 00:52:55.760
+It's a medium-sized beast, not a little ringy-dink spider.
+
+00:52:56.000 --> 00:52:56.719
+What did you get?
+
+00:52:57.039 --> 00:52:58.480
+I got a seven.
+
+00:52:59.039 --> 00:53:00.159
+Oh, dude.
+
+00:53:00.480 --> 00:53:01.440
+With a plus four.
+
+00:53:02.719 --> 00:53:02.880
+Yeah.
+
+00:53:03.039 --> 00:53:05.199
+No, I'm well aware that my role was shit.
+
+00:53:07.119 --> 00:53:10.880
+Why doesn't your stealth stat change when you're a spider?
+
+00:53:11.760 --> 00:53:12.880
+I don't have anything.
+
+00:53:13.199 --> 00:53:13.599
+Oh, it is.
+
+00:53:13.760 --> 00:53:14.239
+Oh, you're right.
+
+00:53:14.320 --> 00:53:19.440
+It is stealth plus seven, which is also, also, you have bardic inspiration.
+
+00:53:19.760 --> 00:53:22.719
+Yeah, so I can roll plus one d6 on use it.
+
+00:53:23.039 --> 00:53:23.920
+Yeah, yeah.
+
+00:53:29.280 --> 00:53:30.400
+Roll 1d.
+
+00:53:31.519 --> 00:53:32.559
+You can roll a d8.
+
+00:53:33.199 --> 00:53:34.239
+Oh, is that a d8?
+
+00:53:34.480 --> 00:53:36.079
+I think it's a d it's a d8.
+
+00:53:36.639 --> 00:53:36.960
+Oh.
+
+00:53:38.480 --> 00:53:38.719
+All right.
+
+00:53:38.800 --> 00:53:39.280
+So you had us.
+
+00:53:39.519 --> 00:53:39.760
+Hold on.
+
+00:53:39.840 --> 00:53:40.239
+You had us.
+
+00:53:40.880 --> 00:53:44.880
+I had a natural three plus seven plus six.
+
+00:53:46.159 --> 00:53:47.599
+So yeah, it should be 16.
+
+00:53:47.840 --> 00:53:48.960
+So 16.
+
+00:53:50.159 --> 00:53:50.559
+All right, right.
+
+00:53:50.800 --> 00:53:50.880
+Okay.
+
+00:53:51.039 --> 00:53:52.320
+I forgot to check that he had.
+
+00:53:52.559 --> 00:53:57.679
+Not all of the skills are overridden, but yeah, the spider has plus three perception plus seven stealth.
+
+00:53:57.920 --> 00:53:58.159
+All right.
+
+00:53:58.320 --> 00:54:00.639
+So you got a you got a 16 on stealth.
+
+00:54:00.960 --> 00:54:01.280
+All right.
+
+00:54:01.440 --> 00:54:03.280
+That's less terrible.
+
+00:54:08.159 --> 00:54:08.480
+Okay.
+
+00:54:09.039 --> 00:54:14.800
+So, yes.
+
+00:54:15.039 --> 00:54:16.400
+So he does not notice you.
+
+00:54:16.559 --> 00:54:18.720
+That is actually sufficiently high for him not to notice you.
+
+00:54:18.960 --> 00:54:19.760
+Hallelujah.
+
+00:54:20.079 --> 00:54:22.480
+Yeah, that would have been embarrassing.
+
+00:54:22.800 --> 00:54:24.480
+That wouldn't have been a spider for long.
+
+00:54:25.119 --> 00:54:30.239
+But you do notice that the dragon is in a seething, angry state.
+
+00:54:30.559 --> 00:54:32.400
+I mean, he's in chains.
+
+00:54:32.559 --> 00:54:33.519
+Are they real chains?
+
+00:54:33.599 --> 00:54:34.639
+Are they like spectral chains?
+
+00:54:34.720 --> 00:54:39.280
+Like, I worry that killing the Carver or something would make the chains evaporate.
+
+00:54:39.920 --> 00:54:41.840
+Well, we're going to have to kill the Carver regardless.
+
+00:54:42.079 --> 00:54:42.480
+I understand.
+
+00:54:42.559 --> 00:54:44.000
+We're going to have to talk him down.
+
+00:54:44.320 --> 00:54:49.199
+I would like to understand, like, you know, is he load-bearing on the dragon kind of thing?
+
+00:54:50.239 --> 00:54:51.039
+That's a good question.
+
+00:54:52.480 --> 00:54:54.480
+The enemy of my enemy is my friend.
+
+00:54:54.960 --> 00:54:57.360
+I don't think the dragon's going to see it that way.
+
+00:54:59.280 --> 00:54:59.599
+Or.
+
+00:55:00.559 --> 00:55:06.000
+When the enemy of my enemy is released, then my enemy does not have the resource he's looking for.
+
+00:55:07.519 --> 00:55:09.199
+Something like that, yes.
+
+00:55:09.519 --> 00:55:09.840
+All right.
+
+00:55:10.719 --> 00:55:12.960
+I have gone to the end of this corridor.
+
+00:55:13.280 --> 00:55:16.400
+So, just to be clear, let me answer Soma's question.
+
+00:55:16.559 --> 00:55:18.159
+Roll an arcana chuck.
+
+00:55:19.440 --> 00:55:22.239
+Then I don't have an override for that one for sure on the spiders.
+
+00:55:22.400 --> 00:55:24.559
+So, oh, yay, I suck at this.
+
+00:55:27.119 --> 00:55:28.400
+Yeah, you got nothing.
+
+00:55:28.719 --> 00:55:33.199
+Other than your other, sorry, other than whatever you think as a player, you got nothing.
+
+00:55:33.840 --> 00:55:36.239
+I mean, it doesn't matter what I think as a player.
+
+00:55:38.079 --> 00:55:38.719
+Oh, boy.
+
+00:55:39.039 --> 00:55:40.800
+So, there's a dragon down there.
+
+00:55:40.880 --> 00:55:42.559
+This is kind of being held down.
+
+00:55:42.880 --> 00:55:43.440
+All right.
+
+00:55:44.239 --> 00:55:46.639
+I guess I relay that to the team.
+
+00:55:46.960 --> 00:55:47.440
+All right.
+
+00:55:48.000 --> 00:55:50.719
+Can you open the door next to us?
+
+00:55:51.119 --> 00:55:56.480
+Actually, yeah, can I get around and cast this?
+
+00:55:56.559 --> 00:55:57.360
+Can you open this door?
+
+00:55:57.760 --> 00:55:58.719
+I just opened it.
+
+00:55:59.039 --> 00:55:59.679
+Oh, great.
+
+00:56:00.960 --> 00:56:02.800
+And as you go down this hall, hallway, hold it.
+
+00:56:02.880 --> 00:56:07.119
+Before you guys jump, like, move your character so quickly that I don't have time to like one.
+
+00:56:08.719 --> 00:56:09.440
+Sorry, man.
+
+00:56:09.760 --> 00:56:10.000
+Okay.
+
+00:56:14.000 --> 00:56:14.400
+All right.
+
+00:56:14.559 --> 00:56:20.400
+Between piles of rubble stands an empty hall with arrow slits lining the outer wall.
+
+00:56:20.719 --> 00:56:28.559
+This clearly looks like Cryovain smashed through this doorway looking for stuff, found nothing, and went away.
+
+00:56:29.519 --> 00:56:30.079
+All right.
+
+00:56:33.840 --> 00:56:34.079
+Okay.
+
+00:56:34.639 --> 00:56:35.679
+Can I move now?
+
+00:56:36.000 --> 00:56:36.639
+Yes, of course.
+
+00:56:42.159 --> 00:56:43.280
+Or you want to go?
+
+00:56:45.519 --> 00:56:46.800
+Oh, you just moved me.
+
+00:56:47.039 --> 00:56:47.920
+I'm going this way.
+
+00:56:48.159 --> 00:56:48.800
+Everything okay?
+
+00:56:49.280 --> 00:56:50.239
+Yep, yep, yep.
+
+00:56:50.480 --> 00:56:51.360
+This is more rubble.
+
+00:56:51.760 --> 00:56:52.800
+Yeah, it's vulnerable.
+
+00:56:54.239 --> 00:56:54.800
+This way.
+
+00:56:55.039 --> 00:56:57.679
+I don't see anything up from above to scout out.
+
+00:57:00.159 --> 00:57:00.639
+All right.
+
+00:57:00.880 --> 00:57:01.519
+We're going over here.
+
+00:57:01.840 --> 00:57:02.000
+Right.
+
+00:57:02.159 --> 00:57:02.400
+Into there.
+
+00:57:02.800 --> 00:57:03.199
+Hold on.
+
+00:57:03.280 --> 00:57:03.679
+Hold on.
+
+00:57:04.000 --> 00:57:04.719
+That's the location.
+
+00:57:04.960 --> 00:57:05.840
+Stopped moving.
+
+00:57:06.159 --> 00:57:07.039
+Thank you.
+
+00:57:19.920 --> 00:57:20.320
+All right.
+
+00:57:20.880 --> 00:57:24.800
+Orcs have long layered here, as evidenced by the filth of the room.
+
+00:57:24.960 --> 00:57:28.559
+The furnishings that were once here have all been burned in the fireplace.
+
+00:57:32.400 --> 00:57:32.719
+Okay.
+
+00:57:33.599 --> 00:57:34.639
+There were orcs?
+
+00:57:34.960 --> 00:57:35.199
+Yes.
+
+00:57:35.280 --> 00:57:37.440
+Well, remember, this is where the orcs were?
+
+00:57:39.039 --> 00:57:39.760
+Oh, right.
+
+00:57:39.920 --> 00:57:45.440
+And then the dragon came and scared them all out, and then they had to go attack all the people.
+
+00:57:46.159 --> 00:57:46.320
+Yeah.
+
+00:57:46.559 --> 00:57:46.719
+Right.
+
+00:57:47.679 --> 00:57:52.239
+We need to secure Ice Spire so the orcs can return safely.
+
+00:57:52.880 --> 00:57:53.199
+Right.
+
+00:57:54.239 --> 00:57:56.159
+A lot of ancestral homeland reclaiming.
+
+00:57:56.480 --> 00:57:56.719
+Yes.
+
+00:57:56.800 --> 00:57:59.599
+I mean, you're all about the decolonization.
+
+00:57:59.920 --> 00:58:01.519
+Decolonization.
+
+00:58:02.079 --> 00:58:02.960
+Sorry.
+
+00:58:05.519 --> 00:58:07.440
+I see a door to the east.
+
+00:58:07.760 --> 00:58:08.000
+All right.
+
+00:58:10.800 --> 00:58:11.280
+Stop.
+
+00:58:12.320 --> 00:58:15.119
+Before Valphine, roll your insight.
+
+00:58:16.079 --> 00:58:16.800
+Insight.
+
+00:58:17.039 --> 00:58:17.519
+All right.
+
+00:58:19.679 --> 00:58:20.880
+It's only plus 10.
+
+00:58:22.000 --> 00:58:22.480
+I know.
+
+00:58:22.800 --> 00:58:23.280
+29.
+
+00:58:23.920 --> 00:58:24.159
+Okay.
+
+00:58:25.360 --> 00:58:27.840
+I want you to have the joy of rolling a good die, man.
+
+00:58:28.639 --> 00:58:29.280
+Got it.
+
+00:58:31.360 --> 00:58:32.800
+Sadly, it was a DC-30.
+
+00:58:32.880 --> 00:58:34.079
+You missed it.
+
+00:58:36.639 --> 00:58:40.320
+Dude, I am a bad man, but I'm not that bad.
+
+00:58:44.639 --> 00:58:44.960
+All right.
+
+00:58:45.119 --> 00:58:46.719
+You found a secret door.
+
+00:58:47.039 --> 00:58:47.920
+Over there.
+
+00:58:48.239 --> 00:58:48.639
+Yes.
+
+00:58:48.880 --> 00:58:50.400
+Why would we want to go over there?
+
+00:58:52.320 --> 00:58:53.920
+I'm just telling you, you found a secret door.
+
+00:58:54.079 --> 00:58:56.719
+You can choose to ignore said secret door.
+
+00:58:56.800 --> 00:58:58.559
+That is not my problem, as they say.
+
+00:58:59.519 --> 00:59:02.079
+Okay, well, let's at least go peek through the door.
+
+00:59:02.239 --> 00:59:03.119
+You're going to peek?
+
+00:59:03.679 --> 00:59:05.760
+Stealthily peek through the door.
+
+00:59:08.320 --> 00:59:08.639
+Okay.
+
+00:59:10.079 --> 00:59:10.639
+Let me just.
+
+00:59:15.679 --> 00:59:17.440
+I'll roll good on that one, too.
+
+00:59:19.039 --> 00:59:20.159
+We're going to the dragon.
+
+00:59:20.480 --> 00:59:21.039
+It's right there.
+
+00:59:21.119 --> 00:59:22.000
+You just open the door.
+
+00:59:22.079 --> 00:59:23.280
+It's right there.
+
+00:59:23.920 --> 00:59:25.199
+Okay, it's just a corridor.
+
+00:59:25.360 --> 00:59:25.519
+Yeah.
+
+00:59:25.840 --> 00:59:27.280
+Let's go to the dragon.
+
+00:59:27.920 --> 00:59:28.159
+Okay.
+
+00:59:28.480 --> 00:59:29.360
+You want to go to the dragon?
+
+00:59:29.440 --> 00:59:30.239
+Is that what I'm hearing?
+
+00:59:30.559 --> 00:59:30.880
+Yeah.
+
+00:59:31.440 --> 00:59:31.760
+All right.
+
+00:59:32.079 --> 00:59:33.519
+We're not fucking around.
+
+00:59:34.800 --> 00:59:35.039
+Okay.
+
+00:59:35.360 --> 00:59:36.880
+So the dragon is upstairs.
+
+00:59:36.960 --> 00:59:38.800
+So I guess you're going upstairs.
+
+00:59:39.920 --> 00:59:40.400
+Oh, no.
+
+00:59:40.480 --> 00:59:42.000
+We were going to go to the east.
+
+00:59:43.199 --> 00:59:43.440
+Okay.
+
+00:59:43.519 --> 00:59:44.720
+The dragon is up here.
+
+00:59:45.280 --> 00:59:45.599
+Yes.
+
+00:59:46.079 --> 00:59:46.880
+Let's go up then.
+
+00:59:47.679 --> 00:59:49.039
+Up the staircase, I think.
+
+00:59:49.360 --> 00:59:49.920
+All right, hold on.
+
+00:59:50.000 --> 00:59:52.720
+Before you go up, hold on.
+
+00:59:54.320 --> 00:59:57.920
+Before you go up, there's like one more thing that needs to happen.
+
+01:00:27.920 --> 01:00:30.079
+Okay, these are all this is all in a different room.
+
+01:00:30.320 --> 01:00:30.800
+This goes down.
+
+01:00:30.960 --> 01:00:38.320
+All right, so as okay, so you're gonna go up.
+
+01:00:38.400 --> 01:00:38.960
+That's fine.
+
+01:00:39.119 --> 01:00:39.599
+All right.
+
+01:00:41.599 --> 01:00:43.360
+We will place the party here.
+
+01:00:45.280 --> 01:00:45.920
+All right.
+
+01:00:47.920 --> 01:00:48.239
+Okay.
+
+01:00:53.679 --> 01:00:55.760
+You have arrived.
+
+01:00:57.599 --> 01:00:58.239
+All right.
+
+01:01:01.440 --> 01:01:02.800
+And you have arrived.
+
+01:01:02.960 --> 01:01:14.079
+And so we are standing on the front of the carver and is engaged in a ritual silence.
+
+01:01:16.800 --> 01:01:18.800
+You're going to cast silence.
+
+01:01:19.039 --> 01:01:20.880
+Yes, I anticipated this.
+
+01:01:25.280 --> 01:01:27.199
+But did the carver anticipate this?
+
+01:01:28.239 --> 01:01:29.360
+That's the real question.
+
+01:01:38.320 --> 01:01:39.039
+Hold on.
+
+01:01:39.679 --> 01:01:40.960
+I just hold on.
+
+01:01:47.599 --> 01:01:49.599
+I can cast from over here.
+
+01:01:53.760 --> 01:01:55.280
+The 120-foot range.
+
+01:01:55.440 --> 01:01:56.639
+I'll be fine.
+
+01:02:05.039 --> 01:02:05.360
+Okay.
+
+01:02:05.679 --> 01:02:07.280
+So that's what you do?
+
+01:02:08.559 --> 01:02:08.800
+Yeah.
+
+01:02:09.280 --> 01:02:09.920
+You cast.
+
+01:02:10.079 --> 01:02:10.239
+All right.
+
+01:02:10.400 --> 01:02:10.719
+You cast.
+
+01:02:11.119 --> 01:02:12.000
+Interrupting the ritual.
+
+01:02:12.159 --> 01:02:13.440
+I am saving the world.
+
+01:02:13.760 --> 01:02:14.159
+Huzzah.
+
+01:02:14.400 --> 01:02:14.559
+Yes.
+
+01:02:15.760 --> 01:02:16.239
+Yes.
+
+01:02:17.119 --> 01:02:17.760
+Right.
+
+01:02:18.559 --> 01:02:20.639
+You are intervening, you interventionist.
+
+01:02:21.760 --> 01:02:22.800
+You are saving the ritual.
+
+01:02:24.000 --> 01:02:24.960
+Let me just put.
+
+01:02:25.760 --> 01:02:26.559
+Give me one second.
+
+01:02:26.639 --> 01:02:28.480
+I need to put an icon for the carver.
+
+01:02:29.119 --> 01:02:29.840
+I will just.
+
+01:02:30.880 --> 01:02:31.760
+Oh, veteran.
+
+01:02:32.000 --> 01:02:33.280
+That'll be fine.
+
+01:02:33.920 --> 01:02:34.320
+All right.
+
+01:02:34.960 --> 01:02:36.320
+Just drop him here.
+
+01:02:39.039 --> 01:02:40.159
+Call on a carver.
+
+01:02:42.400 --> 01:02:42.880
+All right.
+
+01:02:44.400 --> 01:02:44.559
+Okay.
+
+01:02:45.840 --> 01:02:48.159
+So what is a 20-foot radius, you said?
+
+01:02:48.480 --> 01:02:50.000
+20-foot radius.
+
+01:02:50.719 --> 01:02:52.320
+And where are you centering it?
+
+01:02:52.960 --> 01:02:53.440
+Yes.
+
+01:02:54.400 --> 01:02:57.039
+What's the centering of your radius?
+
+01:02:57.360 --> 01:02:57.599
+Yeah.
+
+01:02:58.559 --> 01:03:01.119
+Well, it would be the summoning circle.
+
+01:03:02.639 --> 01:03:05.039
+So 20-foot radius here.
+
+01:03:07.599 --> 01:03:09.440
+Yeah, where I don't know where the summoning circle is.
+
+01:03:09.760 --> 01:03:10.480
+It's where he is.
+
+01:03:10.719 --> 01:03:11.280
+All right.
+
+01:03:15.920 --> 01:03:18.880
+Worst case, he will have to make a new summoning circle.
+
+01:03:19.039 --> 01:03:20.400
+It will take some time.
+
+01:03:24.400 --> 01:03:30.079
+I will draw a summoning circle here so that we know where it is.
+
+01:03:30.239 --> 01:03:30.719
+All right.
+
+01:03:32.400 --> 01:03:32.639
+Okay.
+
+01:03:43.679 --> 01:03:44.719
+Good job, team.
+
+01:03:45.039 --> 01:03:45.679
+You did it.
+
+01:03:46.000 --> 01:03:46.800
+Right, hold on.
+
+01:03:47.039 --> 01:03:48.239
+We don't do it.
+
+01:03:52.320 --> 01:03:53.199
+Whoops.
+
+01:03:54.320 --> 01:03:56.159
+Ritual silence.
+
+01:03:58.079 --> 01:03:59.679
+Okay, roll for initiative, everybody.
+
+01:04:00.000 --> 01:04:00.559
+Sure.
+
+01:04:08.320 --> 01:04:11.679
+Well, well, I'll be going someday.
+
+01:04:17.360 --> 01:04:26.720
+Bottom of the initiative has more advantages than oh no, I do actually prefer going later, but it's just well Berberi is definitely happy to go first.
+
+01:04:27.039 --> 01:04:28.480
+Well done, Brewbarry.
+
+01:04:28.960 --> 01:04:30.000
+Good job.
+
+01:05:03.280 --> 01:05:06.320
+Okay, so just roll for him.
+
+01:05:06.880 --> 01:05:20.639
+Tokens here.
+
+01:05:31.519 --> 01:05:32.559
+What am I looking for?
+
+01:05:41.679 --> 01:05:42.000
+Okay.
+
+01:05:42.559 --> 01:05:45.360
+Oh, I can't find the spreadsheet.
+
+01:05:47.599 --> 01:05:48.159
+There we go.
+
+01:05:48.480 --> 01:05:48.880
+All right.
+
+01:05:49.199 --> 01:05:49.840
+I found him.
+
+01:05:49.920 --> 01:05:50.079
+All right.
+
+01:05:50.880 --> 01:05:51.119
+Okay.
+
+01:05:51.679 --> 01:05:52.320
+Carver.
+
+01:05:52.880 --> 01:05:58.400
+So let's put a veteran, NPC veteran, and white dragon.
+
+01:06:02.159 --> 01:06:02.960
+Let me see what kind of white.
+
+01:06:03.119 --> 01:06:06.559
+By the way, guys, I cannot do both hold person and silence at the same time.
+
+01:06:09.760 --> 01:06:18.960
+Change their dragon is so.
+
+01:06:19.119 --> 01:06:21.360
+Could someone put young white dragon?
+
+01:06:21.679 --> 01:06:23.199
+Yeah, I can do it.
+
+01:06:35.519 --> 01:06:36.719
+It did not work.
+
+01:06:38.159 --> 01:06:38.480
+Did not?
+
+01:06:39.039 --> 01:06:39.760
+I'm on it.
+
+01:06:39.840 --> 01:06:40.320
+I'm working on it.
+
+01:06:40.400 --> 01:06:40.960
+I'm working on it.
+
+01:06:41.039 --> 01:06:41.519
+I'm working on it.
+
+01:06:41.679 --> 01:06:42.880
+Okay, sorry.
+
+01:06:47.360 --> 01:06:48.159
+Here it is.
+
+01:06:49.039 --> 01:06:50.000
+Oh, you got it.
+
+01:06:50.159 --> 01:06:50.639
+All right.
+
+01:06:50.960 --> 01:06:52.559
+Dragon chromatic white.
+
+01:06:53.199 --> 01:06:53.840
+Young.
+
+01:07:01.199 --> 01:07:01.760
+Yep.
+
+01:07:06.559 --> 01:07:07.199
+All right.
+
+01:07:08.719 --> 01:07:11.199
+NPC veteran is the carver.
+
+01:07:11.360 --> 01:07:11.440
+Yeah.
+
+01:07:12.559 --> 01:07:13.039
+Oh, he is.
+
+01:07:13.119 --> 01:07:13.599
+Doesn't.
+
+01:07:14.079 --> 01:07:14.239
+Okay.
+
+01:07:14.719 --> 01:07:17.679
+Doesn't look so threatening.
+
+01:07:22.880 --> 01:07:23.199
+Okay.
+
+01:07:27.039 --> 01:07:27.679
+All right.
+
+01:07:33.760 --> 01:07:35.679
+Okay, so what's the initiatives?
+
+01:07:36.960 --> 01:07:37.199
+No.
+
+01:07:38.079 --> 01:07:38.800
+No white dragon.
+
+01:07:38.880 --> 01:07:39.039
+We didn't.
+
+01:07:39.199 --> 01:07:40.800
+We don't still have a young white dragon.
+
+01:07:41.119 --> 01:07:41.920
+No, it was there.
+
+01:07:42.159 --> 01:07:47.599
+You nuked it, but I saved one just in case because I knew this would happen.
+
+01:07:47.920 --> 01:07:48.960
+Here it is.
+
+01:07:51.840 --> 01:07:52.400
+All right.
+
+01:08:02.239 --> 01:08:02.719
+Do this right.
+
+01:08:03.360 --> 01:08:03.840
+All right.
+
+01:08:07.360 --> 01:08:07.599
+Okay.
+
+01:08:08.079 --> 01:08:09.039
+So we're going to have a roll.
+
+01:08:09.360 --> 01:08:11.920
+Me and the carver get to have a roll-off.
+
+01:08:14.079 --> 01:08:14.400
+Okay.
+
+01:08:16.079 --> 01:08:17.279
+I got a 16.
+
+01:08:18.159 --> 01:08:18.720
+What'd you get?
+
+01:08:18.960 --> 01:08:21.039
+I got 11 and I don't have plus 5 on dexterity.
+
+01:08:21.600 --> 01:08:22.319
+Screw you.
+
+01:08:22.479 --> 01:08:23.039
+I win.
+
+01:08:26.720 --> 01:08:27.199
+Oh, hold on.
+
+01:08:27.359 --> 01:08:30.560
+Just need to make a few adjustments to his hit points.
+
+01:08:32.159 --> 01:08:33.119
+Oh, okay.
+
+01:08:33.359 --> 01:08:35.039
+Yeah, because he's injured.
+
+01:08:35.680 --> 01:08:38.560
+No, because he's not just a veteran.
+
+01:08:38.880 --> 01:08:40.319
+Oh, well, that was silly.
+
+01:08:40.479 --> 01:08:40.720
+All right.
+
+01:08:40.960 --> 01:08:41.199
+What?
+
+01:08:42.079 --> 01:08:44.079
+Well, now he looks more powerful.
+
+01:08:44.399 --> 01:08:44.720
+Yes.
+
+01:08:45.039 --> 01:08:46.000
+I was feeling good.
+
+01:08:46.159 --> 01:08:47.359
+Now I'm feeling less good.
+
+01:08:48.960 --> 01:08:49.279
+All right.
+
+01:08:49.520 --> 01:08:50.479
+Brewbarry.
+
+01:08:51.039 --> 01:08:52.479
+Let's do it, man.
+
+01:08:55.680 --> 01:08:56.560
+Brewbarry.
+
+01:08:57.119 --> 01:08:58.159
+Fight the NPC.
+
+01:08:58.239 --> 01:08:59.520
+The dragon is okay.
+
+01:08:59.680 --> 01:09:00.800
+We don't need to fight him right now.
+
+01:09:01.039 --> 01:09:02.079
+One, two, three.
+
+01:09:02.479 --> 01:09:02.800
+Hold on.
+
+01:09:02.880 --> 01:09:05.039
+Just want to remind you of something.
+
+01:09:05.359 --> 01:09:05.600
+Yeah.
+
+01:09:08.640 --> 01:09:22.079
+Just before you just the last thing, you do remember what Sister Kaella said: chop off the head and the monster will fall.
+
+01:09:22.960 --> 01:09:23.840
+Ooh.
+
+01:09:25.119 --> 01:09:26.560
+Chop off the head.
+
+01:09:26.880 --> 01:09:27.840
+She never said that.
+
+01:09:28.960 --> 01:09:29.520
+Yeah, she did.
+
+01:09:29.680 --> 01:09:31.680
+Let me just remind her before she said it.
+
+01:09:32.000 --> 01:09:33.119
+No, no, no, she didn't.
+
+01:09:33.279 --> 01:09:34.159
+She did not kill her.
+
+01:09:34.319 --> 01:09:35.680
+She actually did tell you this.
+
+01:09:36.000 --> 01:09:36.720
+No, no, no.
+
+01:09:36.800 --> 01:09:40.239
+She was in the middle of telling us something, and I casted whole.
+
+01:09:40.399 --> 01:09:44.720
+I cast up and told that you didn't get it out.
+
+01:09:46.239 --> 01:09:49.199
+No, then you remember, then you let you guys.
+
+01:09:49.840 --> 01:09:52.880
+Oh, we like let her, we interrogated her.
+
+01:09:53.119 --> 01:09:54.800
+We incapacitated her, right?
+
+01:09:54.880 --> 01:09:55.279
+We didn't actually.
+
+01:09:55.520 --> 01:09:55.920
+That's true.
+
+01:09:56.000 --> 01:09:56.880
+We take her out.
+
+01:09:57.199 --> 01:09:57.439
+Yes.
+
+01:09:57.760 --> 01:09:59.359
+I wasn't really a fan of killing her.
+
+01:09:59.600 --> 01:09:59.680
+Yeah.
+
+01:10:00.239 --> 01:10:02.319
+And you're all on one hit point.
+
+01:10:02.640 --> 01:10:02.720
+Yeah.
+
+01:10:02.880 --> 01:10:03.119
+Yes.
+
+01:10:03.359 --> 01:10:03.520
+Yes.
+
+01:10:03.600 --> 01:10:04.800
+And Corbin is back in the corner.
+
+01:10:05.119 --> 01:10:09.520
+And what you did was you made a compromise with your values.
+
+01:10:09.840 --> 01:10:10.800
+How's that?
+
+01:10:11.600 --> 01:10:12.000
+Did you?
+
+01:10:13.119 --> 01:10:14.399
+By allowing her with hit point?
+
+01:10:14.800 --> 01:10:15.039
+Yes.
+
+01:10:15.279 --> 01:10:17.840
+No, not everybody's going to like it now.
+
+01:10:21.520 --> 01:10:29.039
+Dude, you have to understand, I am too naive to understand that Corbin is at camp torturing Sister Kaella.
+
+01:10:29.199 --> 01:10:31.119
+I don't know that that is happening.
+
+01:10:31.439 --> 01:10:32.000
+Oh, really?
+
+01:10:33.199 --> 01:10:34.960
+Okay, I did not gather that.
+
+01:10:36.560 --> 01:10:38.159
+I thought you were like, this is.
+
+01:10:38.640 --> 01:10:41.520
+Oh, you've not figured my character out yet.
+
+01:10:41.680 --> 01:10:42.159
+Okay, no.
+
+01:10:42.319 --> 01:10:45.520
+Too naive to understand that I know that's happening.
+
+01:10:46.159 --> 01:10:47.279
+I do not know that.
+
+01:10:47.600 --> 01:10:48.640
+This is fine.
+
+01:10:48.960 --> 01:10:51.520
+Okay, I just need to adjust your personality.
+
+01:10:53.520 --> 01:10:57.199
+I kind of assumed you were kind of like going, this is not worth my time.
+
+01:10:58.239 --> 01:10:59.039
+No, I saw that.
+
+01:10:59.119 --> 01:11:00.960
+I saw that and I was like, that is not right.
+
+01:11:01.760 --> 01:11:03.359
+Okay, okay.
+
+01:11:04.560 --> 01:11:06.399
+I will adjust appropriately.
+
+01:11:08.560 --> 01:11:08.960
+All right.
+
+01:11:09.600 --> 01:11:11.119
+You're trying to reform Corbin.
+
+01:11:11.279 --> 01:11:11.680
+Remember?
+
+01:11:11.920 --> 01:11:13.840
+Turn him away from a life of crime.
+
+01:11:14.079 --> 01:11:16.960
+That was several months ago, but that was the goal.
+
+01:11:23.119 --> 01:11:24.800
+Okay, can Brewbarry keep going?
+
+01:11:25.039 --> 01:11:25.760
+Yeah, yeah, you can.
+
+01:11:25.840 --> 01:11:26.880
+So you do recall that.
+
+01:11:27.760 --> 01:11:32.640
+So Kaella suggests that the thing you need to do is to kill the Carver and all will be well.
+
+01:11:33.920 --> 01:11:34.159
+Okay.
+
+01:11:34.479 --> 01:11:36.479
+Just that easy, folks.
+
+01:11:37.439 --> 01:11:42.159
+Well, I can't quite get all the way there.
+
+01:11:42.239 --> 01:11:43.600
+It's one, two, three.
+
+01:11:44.800 --> 01:11:46.319
+Are you raging or not?
+
+01:11:46.640 --> 01:11:47.119
+Yes.
+
+01:11:47.439 --> 01:11:48.800
+Can you embiggle me?
+
+01:11:49.119 --> 01:11:50.319
+Yes, I can.
+
+01:11:51.600 --> 01:11:51.920
+Okay.
+
+01:11:53.760 --> 01:11:57.279
+Yeah, he can come get me.
+
+01:12:01.119 --> 01:12:01.600
+You're ready.
+
+01:12:02.239 --> 01:12:02.800
+You're in rage.
+
+01:12:02.880 --> 01:12:04.560
+You've got mega, are you readying?
+
+01:12:06.079 --> 01:12:08.800
+No, I didn't have enough movement.
+
+01:12:09.439 --> 01:12:09.680
+Okay.
+
+01:12:09.840 --> 01:12:11.520
+Oh, you had to dash to get there?
+
+01:12:11.840 --> 01:12:14.239
+I had to dash because we were here with the Ceres, right?
+
+01:12:14.800 --> 01:12:15.520
+I used dash.
+
+01:12:15.840 --> 01:12:18.239
+Yeah, but what's your speed?
+
+01:12:18.880 --> 01:12:19.600
+45.
+
+01:12:21.760 --> 01:12:22.720
+Yeah, 35.
+
+01:12:23.119 --> 01:12:25.199
+No, I had to go around here.
+
+01:12:27.119 --> 01:12:28.640
+Why did you have to go around?
+
+01:12:28.960 --> 01:12:29.840
+Oh, that's a wall.
+
+01:12:30.000 --> 01:12:32.079
+Valphine is covering a wall.
+
+01:12:33.600 --> 01:12:34.479
+Oh, okay.
+
+01:12:34.800 --> 01:12:36.239
+Yeah, we have to go the long way.
+
+01:12:36.399 --> 01:12:36.880
+Well, you guys.
+
+01:12:37.119 --> 01:12:39.439
+I mean, I can use the arrow slits to cast spells.
+
+01:12:39.760 --> 01:12:41.039
+Like, I don't have to go around.
+
+01:12:41.439 --> 01:12:43.279
+And I assume I can climb over.
+
+01:12:45.680 --> 01:12:46.159
+Right.
+
+01:12:46.800 --> 01:12:47.680
+Probably.
+
+01:12:48.640 --> 01:12:48.960
+Okay.
+
+01:12:49.520 --> 01:12:53.119
+So what happens?
+
+01:12:54.960 --> 01:12:55.199
+Okay.
+
+01:12:55.760 --> 01:13:04.560
+So the carver next.
+
+01:13:05.680 --> 01:13:06.319
+Hold on.
+
+01:13:07.279 --> 01:13:08.079
+The dragon is next.
+
+01:13:08.319 --> 01:13:08.720
+Dragon is next.
+
+01:13:12.720 --> 01:13:14.079
+Dragon does nothing.
+
+01:13:14.640 --> 01:13:16.079
+I mean, it's chained up, right?
+
+01:13:16.800 --> 01:13:16.960
+Yes.
+
+01:13:17.840 --> 01:13:18.319
+It's chained up.
+
+01:13:18.560 --> 01:13:19.520
+Crowdin is next.
+
+01:13:19.760 --> 01:13:21.760
+It doesn't even try to talk or anything, huh?
+
+01:13:22.399 --> 01:13:23.439
+No, it's you.
+
+01:13:23.600 --> 01:13:25.520
+You get it is definitely trapped.
+
+01:13:25.840 --> 01:13:29.520
+But, Soma, if you roll an animal handling, I will tell you in what state it is.
+
+01:13:29.840 --> 01:13:30.720
+Hell yeah.
+
+01:13:32.000 --> 01:13:33.840
+Finally, this pays off.
+
+01:13:34.399 --> 01:13:35.520
+Watch me roll one.
+
+01:13:36.720 --> 01:13:37.520
+That's pretty good.
+
+01:13:37.840 --> 01:13:38.560
+What'd you roll?
+
+01:13:39.039 --> 01:13:39.680
+24.
+
+01:13:40.319 --> 01:13:46.239
+Yeah, it's in seeding psychotic rage that you definitely know, no, no.
+
+01:13:46.399 --> 01:13:54.560
+And you do get the impression that if you were to release it.
+
+01:13:54.880 --> 01:13:55.520
+Yes.
+
+01:13:56.479 --> 01:13:57.119
+Yes.
+
+01:13:59.039 --> 01:14:01.119
+If we were to release it, then what?
+
+01:14:01.760 --> 01:14:02.720
+It would go crazy.
+
+01:14:04.560 --> 01:14:08.239
+It's in a state of such enragement that it will just attack everything around.
+
+01:14:08.399 --> 01:14:09.840
+So whatever you do.
+
+01:14:10.479 --> 01:14:11.119
+Go, guys.
+
+01:14:11.199 --> 01:14:12.159
+Don't unlock it.
+
+01:14:12.640 --> 01:14:13.680
+We're going to talk to it.
+
+01:14:14.000 --> 01:14:14.239
+Yes.
+
+01:14:14.560 --> 01:14:16.640
+I'm telling Soma what she knows.
+
+01:14:17.119 --> 01:14:18.399
+You can interpret Soma's.
+
+01:14:18.640 --> 01:14:19.600
+I'm just giving Soma.
+
+01:14:19.840 --> 01:14:21.920
+I want to give Soma her knowledge.
+
+01:14:22.800 --> 01:14:23.359
+All right.
+
+01:14:25.840 --> 01:14:26.239
+All right.
+
+01:14:26.560 --> 01:14:28.079
+Or draggy waggy.
+
+01:14:32.319 --> 01:14:34.560
+After the dragon is forgotten.
+
+01:14:36.159 --> 01:14:36.800
+All right.
+
+01:14:39.279 --> 01:14:44.479
+I'm looking at vicious mockery.
+
+01:14:44.720 --> 01:14:45.199
+Hold on, hold on.
+
+01:14:45.279 --> 01:14:45.600
+Hold on.
+
+01:14:45.680 --> 01:14:46.000
+Hold on.
+
+01:14:46.479 --> 01:14:46.560
+Why?
+
+01:14:47.199 --> 01:14:50.079
+Because he has a legendary action.
+
+01:14:50.399 --> 01:14:51.279
+Oh, okay.
+
+01:14:51.680 --> 01:14:52.560
+Go for it.
+
+01:14:56.960 --> 01:14:57.279
+Cheat.
+
+01:14:57.600 --> 01:14:58.239
+I asked her.
+
+01:14:59.359 --> 01:14:59.600
+What?
+
+01:15:00.399 --> 01:15:01.600
+I'm just kidding.
+
+01:15:02.239 --> 01:15:02.960
+I see.
+
+01:15:04.159 --> 01:15:05.359
+Do you say cheat bastard?
+
+01:15:05.600 --> 01:15:07.600
+Cheating bastard, yay, with his legendary actions.
+
+01:15:07.840 --> 01:15:08.159
+Not you.
+
+01:15:11.840 --> 01:15:12.800
+It's not cheating, man.
+
+01:15:13.279 --> 01:15:14.880
+The way you deal with the action economy.
+
+01:15:15.199 --> 01:15:15.600
+I know.
+
+01:15:16.399 --> 01:15:22.720
+But you keep making, like, every time I say legendary actions, you make me feel terrible that I'm somehow breaking the rules.
+
+01:15:23.039 --> 01:15:23.680
+No, you're not.
+
+01:15:24.159 --> 01:15:25.039
+No, I'm not talking about you.
+
+01:15:25.119 --> 01:15:25.760
+I'm talking about Dave.
+
+01:15:25.920 --> 01:15:27.199
+He'll be dead soon.
+
+01:15:32.079 --> 01:15:33.039
+All righty.
+
+01:15:36.800 --> 01:15:37.359
+All right.
+
+01:15:39.199 --> 01:15:40.079
+Okay, okay.
+
+01:15:42.800 --> 01:15:45.520
+All right, so with the carpet, you just need to check one thing.
+
+01:15:45.840 --> 01:15:47.439
+It's the range of the spell, 60 feet.
+
+01:15:47.600 --> 01:15:48.000
+All right.
+
+01:15:48.319 --> 01:15:55.760
+So, what the carver does is he uses his movement.
+
+01:15:59.279 --> 01:16:01.600
+He uses his legendary action to.
+
+01:16:02.399 --> 01:16:04.560
+Oh, he wants me to have an attack against him.
+
+01:16:04.720 --> 01:16:06.720
+Hang on, let Cassadas go.
+
+01:16:07.359 --> 01:16:08.319
+No, he's able to do that.
+
+01:16:09.039 --> 01:16:11.760
+His legendary action allows him to move without being attacked.
+
+01:16:12.960 --> 01:16:13.359
+Yes.
+
+01:16:15.039 --> 01:16:17.520
+It is a very common legendary action.
+
+01:16:17.840 --> 01:16:18.079
+What?
+
+01:16:18.560 --> 01:16:19.680
+Like a free disengage.
+
+01:16:20.000 --> 01:16:21.119
+He is disengaged.
+
+01:16:22.960 --> 01:16:29.119
+It's a legendary action where you're allowed to move to 30 feet and you don't suffer attacks of opportunity.
+
+01:16:31.199 --> 01:16:33.600
+It is a very common legendary action.
+
+01:16:33.920 --> 01:16:34.079
+Okay.
+
+01:16:34.560 --> 01:16:36.479
+It's not very legendary, then, is it?
+
+01:16:39.600 --> 01:16:40.399
+It is legendary.
+
+01:16:40.640 --> 01:16:44.159
+Actually, now that you mention it, it is because it's common.
+
+01:16:45.119 --> 01:16:45.439
+You know what?
+
+01:16:45.520 --> 01:16:45.760
+You're right.
+
+01:16:46.000 --> 01:16:48.479
+It is kind of a lame legendary action.
+
+01:16:49.279 --> 01:16:50.000
+It's a lame.
+
+01:16:50.079 --> 01:16:54.000
+It's just, you know, the common is not, you know, on the scale of loot.
+
+01:16:54.079 --> 01:16:56.239
+It's the opposite end of legendary.
+
+01:16:59.760 --> 01:17:00.399
+All right.
+
+01:17:01.359 --> 01:17:02.960
+Is Vukradin up now?
+
+01:17:06.000 --> 01:17:07.119
+Excellent.
+
+01:17:09.039 --> 01:17:12.000
+So the ritual has been disrupted, correct?
+
+01:17:12.159 --> 01:17:12.560
+Yes.
+
+01:17:12.880 --> 01:17:13.920
+Excellent.
+
+01:17:15.520 --> 01:17:18.399
+And I can see him through this slit here, correct?
+
+01:17:18.720 --> 01:17:19.119
+Yes.
+
+01:17:19.359 --> 01:17:20.479
+Excellent.
+
+01:17:31.520 --> 01:17:32.239
+Hold person.
+
+01:17:33.840 --> 01:17:34.479
+Oh, hold on.
+
+01:17:34.800 --> 01:17:35.359
+Silence drops.
+
+01:17:35.520 --> 01:17:36.560
+Silence drops.
+
+01:17:36.880 --> 01:17:37.199
+All right.
+
+01:17:37.279 --> 01:17:38.960
+Wisdom plus six.
+
+01:17:41.840 --> 01:17:47.199
+And oh, no, I'm out of article inscriptions, so I will not use that.
+
+01:17:48.800 --> 01:17:49.199
+All right.
+
+01:17:49.760 --> 01:17:51.039
+He is paralyzed.
+
+01:17:51.279 --> 01:17:52.399
+He is paralyzed.
+
+01:17:52.640 --> 01:17:53.359
+Excellent.
+
+01:17:53.680 --> 01:17:55.279
+Well done, team.
+
+01:17:56.159 --> 01:17:56.640
+Yes.
+
+01:17:57.199 --> 01:17:58.399
+Who is next?
+
+01:17:59.039 --> 01:17:59.279
+Mr.
+
+01:17:59.520 --> 01:18:00.000
+Paralympic.
+
+01:18:01.279 --> 01:18:03.760
+Yes, he casts dominate person.
+
+01:18:04.239 --> 01:18:05.119
+He's paralyzed.
+
+01:18:05.439 --> 01:18:05.920
+Yeah, he is.
+
+01:18:06.079 --> 01:18:07.279
+The sword isn't.
+
+01:18:09.199 --> 01:18:11.359
+I don't see the sword on the tracker.
+
+01:18:12.319 --> 01:18:12.560
+Okay.
+
+01:18:18.800 --> 01:18:19.199
+Hold on.
+
+01:18:19.279 --> 01:18:22.239
+I need to roll to figure this out.
+
+01:18:23.199 --> 01:18:23.840
+Sword.
+
+01:18:25.039 --> 01:18:25.439
+Do not.
+
+01:18:28.079 --> 01:18:28.560
+Sorry, guys.
+
+01:18:29.119 --> 01:18:29.359
+What?
+
+01:18:30.720 --> 01:18:33.439
+So this ritual is ended, right?
+
+01:18:33.760 --> 01:18:34.640
+Ritual is done.
+
+01:18:34.720 --> 01:18:36.319
+Silence is dropped.
+
+01:18:36.640 --> 01:18:36.960
+Okay.
+
+01:18:39.520 --> 01:18:40.159
+All right.
+
+01:19:06.479 --> 01:19:08.880
+The dragon has been dominated.
+
+01:19:10.159 --> 01:19:11.119
+The dragon is dominated.
+
+01:19:11.359 --> 01:19:11.600
+Oh.
+
+01:19:12.479 --> 01:19:13.840
+You can dominate a person.
+
+01:19:14.159 --> 01:19:14.319
+Right.
+
+01:19:14.640 --> 01:19:14.960
+Dragon.
+
+01:19:15.359 --> 01:19:30.159
+And the last things you hear as the dragon is dominated is neither the sword nor you hear a voice.
+
+01:19:33.279 --> 01:19:42.560
+He goes, he screams at you, cowards, magic, you mute the ritual because you lack the strength to shatter the vessel.
+
+01:19:43.520 --> 01:19:47.439
+And now, now I shall have everything I always wanted.
+
+01:19:50.960 --> 01:19:52.239
+The dragon says that?
+
+01:19:52.560 --> 01:19:53.039
+No, no.
+
+01:19:53.439 --> 01:19:57.199
+You hear that in your heads, you hear that in your heads.
+
+01:20:00.159 --> 01:20:02.239
+And the dragon is still shackled, right?
+
+01:20:02.880 --> 01:20:04.319
+No, it's no longer shackled.
+
+01:20:04.640 --> 01:20:06.640
+Oh, what released it?
+
+01:20:06.800 --> 01:20:08.720
+Oh, they were magic chains, but we didn't know.
+
+01:20:10.000 --> 01:20:12.720
+Yeah, sorry, I'm blind in spider form.
+
+01:20:12.800 --> 01:20:14.159
+I've got eight eyes and none of them work.
+
+01:20:14.399 --> 01:20:14.880
+Okay, right.
+
+01:20:14.960 --> 01:20:16.640
+So, so, so, what's so so?
+
+01:20:16.720 --> 01:20:22.399
+Roll an arcana check, and I'll uh, depending on what you've got, group arcana check, and I'll tell you what you guys infer is going on.
+
+01:20:25.359 --> 01:20:29.119
+All right, a little better this time.
+
+01:20:30.319 --> 01:20:42.560
+I guess I can do Brewbarry that it's gonna get aww, this is better than Valphine's Dave.
+
+01:20:42.880 --> 01:20:43.680
+I did a 13.
+
+01:20:44.000 --> 01:20:44.880
+What am I rolling?
+
+01:20:45.359 --> 01:20:47.359
+Arcana, Arcana.
+
+01:20:50.479 --> 01:20:55.039
+Oh, God, sorry, nobody understands these chains.
+
+01:20:55.199 --> 01:20:57.520
+No, actually, Soma's figured out just enough.
+
+01:20:58.159 --> 01:21:05.520
+Yeah, Soma's 13 gives you enough insight to know that the real carver was the sword.
+
+01:21:06.479 --> 01:21:09.760
+The carver, the sword, the carver is the sword.
+
+01:21:10.000 --> 01:21:11.600
+Yeah, the human is just a vessel.
+
+01:21:12.159 --> 01:21:19.119
+The human and the sword were the vessel, and the carver was engaged in a ritual to consume the dragon.
+
+01:21:19.439 --> 01:21:21.520
+Oh, I figured it was going to try to transfer the dragon.
+
+01:21:21.680 --> 01:21:22.000
+All right.
+
+01:21:22.640 --> 01:21:30.800
+And so now it's now it's consumed the dragon by casting the spell, but because it casts the spell, it's not in complete control of the dragon.
+
+01:21:30.880 --> 01:21:36.239
+So you have three rounds to kill the dragon, but the dragon is in a homicidal state.
+
+01:21:37.920 --> 01:21:45.600
+Wait, so we did not arrive early enough to for the six seconds of dominate dragon?
+
+01:21:46.479 --> 01:21:49.920
+No, he didn't want to do the dominate because the dragon could always make the saving throw.
+
+01:21:50.000 --> 01:21:51.840
+So he had to come up with a separate ritual.
+
+01:21:52.720 --> 01:21:54.000
+And we interrupted.
+
+01:21:54.319 --> 01:21:54.560
+Right.
+
+01:21:54.800 --> 01:21:56.720
+So then he then he interrupted it.
+
+01:21:56.880 --> 01:21:58.880
+He saw you all there, so he took a roll of the dice.
+
+01:21:59.039 --> 01:22:01.760
+There was a possibility the dragon would have rolled well.
+
+01:22:02.720 --> 01:22:03.039
+Okay.
+
+01:22:03.359 --> 01:22:03.680
+Okay.
+
+01:22:04.880 --> 01:22:05.359
+He didn't.
+
+01:22:05.520 --> 01:22:06.720
+He didn't want to roll.
+
+01:22:06.880 --> 01:22:12.640
+He didn't want to use the spell because if the spell blew up, then he'd be using a ritual spell.
+
+01:22:12.960 --> 01:22:16.000
+He was using a magical ritual to seize control of the dragon.
+
+01:22:16.560 --> 01:22:19.760
+The other problem is so the dragon goes insane for three rounds.
+
+01:22:19.920 --> 01:22:22.079
+Who knows what happens with insane?
+
+01:22:22.319 --> 01:22:26.880
+The safe play was to try to do the ritual, but you guys arrived just in time to interrupt the ritual.
+
+01:22:28.960 --> 01:22:29.199
+All right.
+
+01:22:29.279 --> 01:22:34.560
+So we have three rounds to kill the dragon before the dragon is fully under the control of the Carver.
+
+01:22:34.960 --> 01:22:35.439
+Now, wait a minute.
+
+01:22:35.520 --> 01:22:37.119
+Can we go whale on the sword?
+
+01:22:37.760 --> 01:22:45.039
+Oh, the sword's no the sword, which was looking all purpley and whatnot, is just now looking like a black obsidian sword.
+
+01:22:45.359 --> 01:22:48.239
+The thing that made it look if you saw the image I shared with you.
+
+01:22:48.560 --> 01:22:48.800
+Yeah.
+
+01:22:52.880 --> 01:22:53.119
+Right.
+
+01:22:53.520 --> 01:22:55.840
+It's now just a black obsidian sword.
+
+01:22:56.159 --> 01:22:56.960
+All right, that's fine.
+
+01:22:57.039 --> 01:22:57.760
+Let's kill a dragon.
+
+01:22:57.840 --> 01:22:58.399
+It'll be fine.
+
+01:22:58.720 --> 01:23:00.560
+So the purple joins the dragon.
+
+01:23:02.079 --> 01:23:06.159
+The chains come off.
+
+01:23:06.800 --> 01:23:15.920
+And the dragon now is being kind of like caught between its own madness and the attempt by the sword to completely control the dragon.
+
+01:23:16.239 --> 01:23:16.479
+Okay.
+
+01:23:17.520 --> 01:23:23.439
+The veteran gets a chance to break out of his paralysis.
+
+01:23:23.760 --> 01:23:24.000
+All right.
+
+01:23:24.079 --> 01:23:24.880
+Is that what he does?
+
+01:23:25.760 --> 01:23:28.960
+So he's now just armed with he's just armed with a sword.
+
+01:23:29.279 --> 01:23:29.600
+Yes.
+
+01:23:29.760 --> 01:23:30.000
+Okay.
+
+01:23:30.239 --> 01:23:31.840
+But he is currently paralyzed.
+
+01:23:32.159 --> 01:23:32.800
+And he remains so.
+
+01:23:33.279 --> 01:23:34.479
+He remains paralyzed.
+
+01:23:34.560 --> 01:23:34.960
+Excellent.
+
+01:23:35.600 --> 01:23:35.840
+Okay.
+
+01:23:36.000 --> 01:23:37.600
+Valphine, you are up.
+
+01:23:42.880 --> 01:23:43.199
+Well.
+
+01:23:55.680 --> 01:23:57.359
+Didn't you always want to kill a dragon?
+
+01:23:59.199 --> 01:23:59.439
+Yeah.
+
+01:24:00.000 --> 01:24:02.239
+Isn't this like a rite of passage for the dragon?
+
+01:24:02.560 --> 01:24:05.199
+Now that I've seen a dragon, I can wild shape into a dragon.
+
+01:24:06.720 --> 01:24:11.680
+We're using guiding bolt 15 radiant on the dragon.
+
+01:24:12.000 --> 01:24:19.279
+Needs a yeah, that's just a ranged attack roll.
+
+01:24:19.520 --> 01:24:20.560
+Yes, and that's a hit.
+
+01:24:20.880 --> 01:24:21.920
+25 points.
+
+01:24:22.640 --> 01:24:23.920
+15 points, 25 points?
+
+01:24:24.319 --> 01:24:25.119
+15 points of damage, right?
+
+01:24:25.359 --> 01:24:29.039
+15 points of damage and advantage on the next attack.
+
+01:24:29.359 --> 01:24:30.560
+Which will be mine.
+
+01:24:30.800 --> 01:24:31.760
+Which is Soma.
+
+01:24:32.000 --> 01:24:34.479
+I'm not going to make good use of it, but all right.
+
+01:24:36.960 --> 01:24:38.560
+You want to go into bear form?
+
+01:24:39.520 --> 01:24:41.279
+That's going to consume my turn.
+
+01:24:42.239 --> 01:24:46.239
+It's better to, well, actually, no, because the rules are now, I die when I die.
+
+01:24:46.319 --> 01:24:47.840
+I think I'm just going to go in.
+
+01:24:49.199 --> 01:24:49.760
+No, you're right.
+
+01:24:50.000 --> 01:24:50.479
+I'll waste the time.
+
+01:24:50.720 --> 01:24:52.079
+Okay, don't burn the attack.
+
+01:24:53.920 --> 01:24:54.399
+Yeah, exactly.
+
+01:24:54.479 --> 01:24:57.359
+So I'll use spider form to climb over and get into range.
+
+01:24:57.600 --> 01:24:58.800
+And turn into a bear.
+
+01:24:59.039 --> 01:24:59.840
+And then, yeah, from here, I'll.
+
+01:25:00.720 --> 01:25:03.600
+I'll get, I don't know, just outside of his range.
+
+01:25:04.800 --> 01:25:06.560
+And then, yeah, we'll swap to bear form.
+
+01:25:06.960 --> 01:25:09.119
+It'll eat the safe charges, but whatever.
+
+01:25:17.680 --> 01:25:18.720
+Yeah, all right.
+
+01:25:21.920 --> 01:25:22.479
+All right.
+
+01:25:23.439 --> 01:25:26.640
+So that's my turn, and let me mark the other wild-shaped charge.
+
+01:25:26.720 --> 01:25:27.920
+That's two of them gone.
+
+01:25:28.079 --> 01:25:31.359
+That's all I get without burning spells.
+
+01:25:31.600 --> 01:25:31.920
+All right.
+
+01:25:32.560 --> 01:25:34.319
+So I believe next is Brewbarry's turn.
+
+01:25:34.560 --> 01:25:35.279
+Brewbarry.
+
+01:25:35.680 --> 01:25:37.119
+Kill the dragon.
+
+01:25:39.520 --> 01:25:42.239
+Oh, I need the dragon slaying sword.
+
+01:25:42.560 --> 01:25:42.960
+You have that.
+
+01:25:43.199 --> 01:25:44.319
+Now, James, you have it.
+
+01:25:44.640 --> 01:25:45.199
+You have it.
+
+01:25:46.319 --> 01:25:50.239
+It needs to be on the character sheet for me to roll it easily, though.
+
+01:25:50.560 --> 01:25:51.279
+Okay, well.
+
+01:25:52.239 --> 01:26:02.640
+If you go to the partner, if you go to the cool.
+
+01:26:26.880 --> 01:26:27.520
+Inventory.
+
+01:26:33.760 --> 01:26:35.279
+Dragon slaying sword, right?
+
+01:26:37.119 --> 01:26:37.600
+Right.
+
+01:26:37.920 --> 01:26:40.560
+Yeah, long sword, dragon slayer property.
+
+01:26:41.199 --> 01:26:42.560
+Long sword.
+
+01:26:44.159 --> 01:26:45.439
+Dragon and dragon slayer.
+
+01:26:45.520 --> 01:26:46.319
+That's it.
+
+01:26:59.520 --> 01:27:00.479
+Come on.
+
+01:27:02.720 --> 01:27:03.279
+All right.
+
+01:27:04.800 --> 01:27:05.359
+Right?
+
+01:27:07.760 --> 01:27:08.479
+Why did they do this?
+
+01:27:08.720 --> 01:27:09.039
+All right.
+
+01:27:09.279 --> 01:27:10.560
+Add to equipment.
+
+01:27:10.720 --> 01:27:11.199
+Alright.
+
+01:27:12.159 --> 01:27:14.479
+You are now armed with it.
+
+01:27:15.680 --> 01:27:18.000
+And can you make sure to hit the red check mark on it?
+
+01:27:18.239 --> 01:27:20.319
+Yes, no, I equipped you.
+
+01:27:20.880 --> 01:27:21.119
+Okay.
+
+01:27:21.600 --> 01:27:23.359
+If you reload, you should see it.
+
+01:27:24.239 --> 01:27:24.560
+Let's see.
+
+01:27:26.079 --> 01:27:36.479
+If you're wielding with two hands, it'll be a 1d10 plus 1 and then 3d6 extra damage for dragons.
+
+01:27:38.399 --> 01:27:39.279
+And it's guaranteed.
+
+01:27:39.680 --> 01:27:41.039
+Oh, no, the dragon is not paralyzed.
+
+01:27:41.199 --> 01:27:42.319
+It's not guaranteed to hit, no.
+
+01:27:42.479 --> 01:27:45.279
+No, if you went after what we thought was the Carver, then yeah.
+
+01:27:46.720 --> 01:27:48.000
+Don't go after that.
+
+01:27:48.239 --> 01:27:51.439
+And that damage is wrong, I believe.
+
+01:27:51.760 --> 01:27:53.199
+So that's using the.
+
+01:27:56.000 --> 01:27:56.720
+That's a miss.
+
+01:27:57.760 --> 01:27:59.760
+They need speed with advantage anyway.
+
+01:28:00.239 --> 01:28:03.199
+Okay, so you have advantage.
+
+01:28:03.680 --> 01:28:04.560
+That is a hit.
+
+01:28:05.199 --> 01:28:05.520
+Okay.
+
+01:28:06.399 --> 01:28:10.079
+And the damage roll should be with a d10, right?
+
+01:28:10.640 --> 01:28:13.359
+1d10 plus 1 plus your.
+
+01:28:14.159 --> 01:28:15.520
+So what it did is rolled a bonus.
+
+01:28:16.000 --> 01:28:19.600
+Yeah, so it rolled d10 plus 5 is a 3 plus 5 is 8.
+
+01:28:21.439 --> 01:28:22.560
+Plus 3d6.
+
+01:28:23.279 --> 01:28:26.000
+Plus 3d6 for the dragon damage.
+
+01:28:26.319 --> 01:28:29.119
+Okay, so 21 on the first hit.
+
+01:28:29.439 --> 01:28:32.239
+And the second hit is not advantage, correct?
+
+01:28:32.560 --> 01:28:33.920
+Yep, correct.
+
+01:28:36.239 --> 01:28:36.800
+Nice.
+
+01:28:38.399 --> 01:28:41.359
+So a 13 plus 3d6.
+
+01:28:43.920 --> 01:28:45.279
+So 22.
+
+01:28:46.479 --> 01:28:46.880
+Right.
+
+01:28:47.439 --> 01:28:48.800
+21 and 22?
+
+01:28:50.960 --> 01:28:52.079
+Pretty good.
+
+01:28:52.720 --> 01:28:55.039
+Yeah, that was worth me sacking around for.
+
+01:28:56.880 --> 01:28:57.439
+Yeah, it was.
+
+01:28:57.600 --> 01:28:57.840
+I think so.
+
+01:28:58.159 --> 01:29:00.239
+I'm not upset about it at all.
+
+01:29:00.800 --> 01:29:00.960
+Yep.
+
+01:29:01.840 --> 01:29:03.359
+All right, dragon is up.
+
+01:29:06.880 --> 01:29:09.279
+Yeah, I'm trying to think what the dragon is going to do.
+
+01:29:11.359 --> 01:29:12.560
+Is it cone bread?
+
+01:29:13.760 --> 01:29:17.439
+Yeah, breath weapon is the yeah, no, I know I know.
+
+01:29:17.520 --> 01:29:18.239
+I'm just trying to figure it out.
+
+01:29:18.239 --> 01:29:21.840
+I just want to remember what it's breath weapon cone Mercedes size.
+
+01:29:24.319 --> 01:29:25.600
+Hold on, wrong.
+
+01:29:25.840 --> 01:29:27.039
+I used to look at this.
+
+01:29:27.359 --> 01:29:28.800
+You can't hit all of us.
+
+01:29:29.520 --> 01:29:31.039
+No, I can't hit all of you, though.
+
+01:29:32.560 --> 01:29:39.119
+I would like to think if we're on battlements that we get at least like advantage on the state control.
+
+01:29:44.800 --> 01:29:51.760
+Okay, now you do have bark inspiration if you need it.
+
+01:29:53.279 --> 01:29:57.760
+So that is a how big is the 30-foot cone, actually?
+
+01:29:59.039 --> 01:29:59.920
+It's not a cone.
+
+01:30:00.319 --> 01:30:01.680
+Yeah, that's a 30-foot cone.
+
+01:30:01.840 --> 01:30:02.560
+Yeah, let's okay.
+
+01:30:02.640 --> 01:30:05.279
+No, no, I just wanted to see, like, it's not 30-feet cone.
+
+01:30:05.520 --> 01:30:12.960
+Okay, so I'm just starting to see, like, okay, so well, he's targeting Brewbarry.
+
+01:30:15.359 --> 01:30:21.680
+Brewbarry, roll, roll your saving throw against the breath weapon.
+
+01:30:22.479 --> 01:30:23.199
+Tech safe.
+
+01:30:23.359 --> 01:30:23.760
+Dex.
+
+01:30:25.760 --> 01:30:26.399
+Brewbarry.
+
+01:30:28.399 --> 01:30:30.479
+I don't think Bardic Inspiration will save you there.
+
+01:30:30.960 --> 01:30:31.600
+I don't think it will.
+
+01:30:31.760 --> 01:30:33.439
+You'd need an 8 to get to 13.
+
+01:30:33.680 --> 01:30:37.520
+But I could help.
+
+01:30:37.680 --> 01:30:38.880
+I could still help.
+
+01:30:39.199 --> 01:30:40.159
+Hang on.
+
+01:30:45.840 --> 01:30:47.760
+Do we want to save that?
+
+01:30:49.680 --> 01:30:51.039
+No, it's not an attack.
+
+01:30:52.239 --> 01:30:55.680
+Attack, roll, ability check, or saving throw.
+
+01:30:56.000 --> 01:30:56.159
+Yeah.
+
+01:30:58.399 --> 01:31:00.000
+And you use the lower roll.
+
+01:31:00.640 --> 01:31:02.000
+Oh, yeah, I don't want to use that.
+
+01:31:02.159 --> 01:31:02.640
+You're right.
+
+01:31:02.960 --> 01:31:03.119
+Yeah.
+
+01:31:03.359 --> 01:31:05.840
+So it's not, it's not re-roll in general.
+
+01:31:05.920 --> 01:31:06.560
+It's not a luck.
+
+01:31:06.960 --> 01:31:08.399
+It's not something you use on an ally.
+
+01:31:09.520 --> 01:31:14.399
+Well, I mean, it could be used on an ally if the ally is currently possessed by something and you want him to fail.
+
+01:31:14.880 --> 01:31:15.279
+Sure, sure.
+
+01:31:15.359 --> 01:31:15.760
+I get it.
+
+01:31:15.920 --> 01:31:19.600
+But that turns the ally into an enemy and back to you don't use it on an ally.
+
+01:31:20.239 --> 01:31:20.640
+All right.
+
+01:31:21.279 --> 01:31:22.239
+Suck it up, dude.
+
+01:31:22.560 --> 01:31:23.680
+40 points of damage.
+
+01:31:23.920 --> 01:31:25.439
+Rage it off, whatever.
+
+01:31:26.079 --> 01:31:31.680
+You don't, it's 40 points of damage, but because it's not slashing, etc., you don't get to use your half-damage.
+
+01:31:32.640 --> 01:31:34.800
+The rage defense applies only to that.
+
+01:31:35.119 --> 01:31:37.920
+The dragon's endurance.
+
+01:31:38.239 --> 01:31:38.399
+Yes.
+
+01:31:38.880 --> 01:31:40.880
+That you can apply, but the rage endurance.
+
+01:31:40.960 --> 01:31:44.640
+Okay, so the dragon flies up 30 feet.
+
+01:31:44.800 --> 01:31:46.000
+So I just make a note.
+
+01:31:47.920 --> 01:31:49.119
+Okay, so I take 30.
+
+01:31:49.359 --> 01:31:49.920
+30.
+
+01:31:51.199 --> 01:31:51.520
+Yeah.
+
+01:31:53.359 --> 01:31:53.680
+All right.
+
+01:31:53.760 --> 01:31:54.640
+So I'm doing Q2.
+
+01:31:55.439 --> 01:31:59.520
+The sword is not going to be very useful if the dragon is in the air.
+
+01:32:03.039 --> 01:32:03.359
+Okay.
+
+01:32:03.600 --> 01:32:06.079
+Is Vukradin up or is there a legendary action?
+
+01:32:06.399 --> 01:32:15.920
+No, the dragon does not have as long as for the first three rounds, the dragon is currently just a mat and enraged dragon flashing out of everything.
+
+01:32:16.239 --> 01:32:23.840
+After the three rounds, the dragon turns into he could go attack the NPC veteran, for example.
+
+01:32:25.680 --> 01:32:27.920
+He's going to attack the person who just attacked him.
+
+01:32:28.239 --> 01:32:29.359
+Oh, he's that smart.
+
+01:32:29.600 --> 01:32:29.840
+Okay.
+
+01:32:30.079 --> 01:32:31.279
+No, he's not that smart.
+
+01:32:31.439 --> 01:32:32.880
+He's that stupid.
+
+01:32:34.159 --> 01:32:34.399
+Yeah.
+
+01:32:34.960 --> 01:32:35.199
+Okay.
+
+01:32:37.199 --> 01:32:38.800
+Okay, so Vukradin is up.
+
+01:32:38.960 --> 01:32:39.119
+Yeah.
+
+01:32:39.840 --> 01:32:42.319
+No counter still on my prepared list.
+
+01:32:45.359 --> 01:32:47.199
+He's 30 feet up, you said?
+
+01:32:51.359 --> 01:32:52.399
+That's what he said.
+
+01:32:54.640 --> 01:32:56.239
+How tall is this wall?
+
+01:32:57.119 --> 01:32:59.520
+He's yeah, he's 30 feet tall.
+
+01:32:59.680 --> 01:33:02.239
+He doesn't, he notices no longbows and crossbows.
+
+01:33:02.319 --> 01:33:05.199
+So he wants to be within range to breathe and to fly down and to hurt you.
+
+01:33:06.159 --> 01:33:07.119
+So he has 30 feet.
+
+01:33:07.840 --> 01:33:10.079
+He does a lot of thinking in his enraged state.
+
+01:33:10.399 --> 01:33:11.039
+Yes, he does.
+
+01:33:11.279 --> 01:33:13.680
+This wall in front of me, how tall is it?
+
+01:33:14.640 --> 01:33:15.520
+This one here?
+
+01:33:16.000 --> 01:33:16.239
+Where you are?
+
+01:33:16.880 --> 01:33:17.600
+Standing next to.
+
+01:33:17.760 --> 01:33:18.079
+Yeah.
+
+01:33:21.600 --> 01:33:22.720
+Tall in which direction?
+
+01:33:22.880 --> 01:33:25.039
+The one you're behind or looking down?
+
+01:33:28.720 --> 01:33:36.479
+I think his question is: does the wall actually still protect us from the that one that I put myself on?
+
+01:33:36.800 --> 01:33:37.359
+Yes.
+
+01:33:38.399 --> 01:33:40.640
+It is six feet tall.
+
+01:33:40.960 --> 01:33:42.399
+It is six feet tall.
+
+01:33:43.039 --> 01:33:48.079
+Otherwise, it wouldn't be very good, useful as an archer's defense position.
+
+01:33:50.560 --> 01:33:51.840
+The arrow slits wouldn't be useful.
+
+01:33:52.159 --> 01:33:53.279
+30 feet up.
+
+01:33:53.600 --> 01:33:53.920
+Okay.
+
+01:33:59.680 --> 01:34:03.680
+Because I don't do math, because this is Dungeons and Dragons.
+
+01:34:05.199 --> 01:34:10.960
+If, you know, I will ignore the trigonometry of like, can you see over the wall?
+
+01:34:11.279 --> 01:34:11.600
+Okay.
+
+01:34:16.399 --> 01:34:19.439
+I mean, I'm assuming that you can climb up.
+
+01:34:19.520 --> 01:34:20.319
+There's like, yes.
+
+01:34:20.720 --> 01:34:23.199
+Unless it's obviously like 25 feet, right?
+
+01:34:26.640 --> 01:34:26.960
+Yeah.
+
+01:34:31.520 --> 01:34:32.880
+I got nothing, guys.
+
+01:34:36.640 --> 01:34:38.079
+Other than fireball.
+
+01:34:39.039 --> 01:34:40.479
+You actually going to use it?
+
+01:34:40.800 --> 01:34:41.439
+Nope.
+
+01:34:46.079 --> 01:34:52.399
+I just want to remind you that a swooping creature, that's when you want to prepare an action to attack if it swoops to attack you.
+
+01:34:54.399 --> 01:34:56.880
+Or swoop to grapple it or things like that.
+
+01:34:58.720 --> 01:34:59.279
+Oh, yeah.
+
+01:34:59.439 --> 01:34:59.840
+You know, like.
+
+01:35:00.079 --> 01:35:02.479
+Brewbarry should really just climb on its back.
+
+01:35:03.439 --> 01:35:04.479
+No, or Brewbarry should.
+
+01:35:04.960 --> 01:35:05.279
+I hit.
+
+01:35:05.520 --> 01:35:06.960
+I even got a critical.
+
+01:35:07.520 --> 01:35:08.880
+You got to be joking.
+
+01:35:09.520 --> 01:35:12.159
+I'm sorry, 26.2.
+
+01:35:12.399 --> 01:35:13.680
+26 damage.
+
+01:35:14.560 --> 01:35:16.000
+Way to go, face.
+
+01:35:18.239 --> 01:35:18.960
+Frust it.
+
+01:35:21.439 --> 01:35:25.199
+Wait, did I just have him go like to his full, like, you know, I'm doomed?
+
+01:35:25.439 --> 01:35:26.479
+This is lame.
+
+01:35:26.800 --> 01:35:31.600
+Like, this is kind of like, this is why I hate dwarf 26 damage.
+
+01:35:31.920 --> 01:35:32.560
+Clutch row.
+
+01:35:32.800 --> 01:35:33.920
+All right, guys, it's .
+
+01:35:34.000 --> 01:35:35.359
+We will continue next week.
+
+01:35:35.680 --> 01:35:36.399
+Next week.
+
+01:35:37.039 --> 01:35:37.439
+All right.
+
+01:35:38.560 --> 01:35:39.680
+Mark the initiative.
+
+01:35:40.159 --> 01:35:40.560
+Yes.
+
+01:35:42.159 --> 01:35:44.000
+I hate when we forget that because it's like, oh, where were we?
+
+01:35:44.399 --> 01:35:44.560
+Yeah.
+
+01:35:45.119 --> 01:35:45.439
+Yep.
+
+01:35:45.600 --> 01:35:46.000
+All right.
+
+01:35:46.479 --> 01:35:48.720
+I hope you're finding this interesting and different.
+
+01:35:49.279 --> 01:35:51.840
+It seems like this is challenging.
+
+01:35:52.479 --> 01:35:53.920
+It's challenging for sure.
+
+01:35:54.239 --> 01:35:54.479
+Okay.
+
+01:35:56.239 --> 01:35:57.279
+I'm glad they're enjoying it.
+
+01:35:57.439 --> 01:35:57.600
+All right.
+
+01:35:57.760 --> 01:35:58.079
+Oh, yeah.
+
+01:35:58.239 --> 01:35:58.720
+Thank you.
+
+01:35:59.039 --> 01:35:59.520
+Yep.
+
+01:35:59.840 --> 01:36:00.479
+Okay, wait.
+
+01:36:00.640 --> 01:36:03.199
+So I'm just trying to think.
+
+01:36:04.079 --> 01:36:04.640
+Think about why.
+
+01:36:05.039 --> 01:36:06.000
+This is the first round.
+
+01:36:06.239 --> 01:36:10.000
+Can we just put a round number in there so that we know which round it is?
+
+01:36:12.000 --> 01:36:15.840
+Like, put next to the dragon, put round one, two, or three, whatever.
+
+01:36:16.479 --> 01:36:18.399
+Let's put a status on the dragon, right?
+
+01:36:18.560 --> 01:36:21.119
+Like, one-third dominated, two-thirds dominated.
+
+01:36:21.439 --> 01:36:21.680
+Yep.
+
+01:36:21.920 --> 01:36:23.520
+Because that's all you're really tracking.
+
+01:36:23.840 --> 01:36:24.000
+Right.
+
+01:36:24.319 --> 01:36:25.520
+Why abstract it?
+
+01:36:26.079 --> 01:36:26.640
+Yep.
+
+01:36:27.279 --> 01:36:27.520
+Okay.
+
+01:36:29.039 --> 01:36:29.760
+All right, folks.
+
+01:36:29.840 --> 01:36:30.720
+It was a lot of fun.
+
+01:36:31.119 --> 01:36:31.920
+Bye-bye.
+
+01:36:32.239 --> 01:36:33.039
+See you guys in a week.
+

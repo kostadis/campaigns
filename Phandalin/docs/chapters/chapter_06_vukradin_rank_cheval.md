@@ -4,9 +4,7 @@ title: Vukradin, Rank Cheval
 ---
 # Chapter 6 Vukradin, Rank Cheval 
 
-## 04-01 Taraskh 1495
-
-### Soma
+## 06.01 Soma 03-02-Taraskh 1495
 
 The sun shines, the walk is long and Adabra feels the need to talk. 
 
@@ -28,7 +26,7 @@ But Adabra assures him he was never a barbarian; he was a nomad.
 
 I am worried that this will continue for hours, so thankfully, Vukradin decides to play some music, and this time the music is good.  
 
-### Vukradin
+## 06.02 Vukradin 03-02-Taraskh 1495
 
 Valphine wanted to play her musical instrument along with me. That may not work for me. Although this time, it added a particular color and texture that elevated my composition to art. Perhaps, we can find a way to collaborate as long as she recognizes her role in our duo. 
 
@@ -50,7 +48,7 @@ She takes a deep breath and continues, “Those who protect us must do so with a
 
 I notice how she just skips over Valphine, as if she doesn’t exist. Or is it that something about Valphine annoys her? Is it because she is a Drow? 
 
-### Valphine
+## 06.03 Valphine 03-02-Taraskh 1495
 
 Lathander’s light will guide me even if this woman chooses to ignore me. If I were a cleric of Lolth, or if I were in my noble house, she would be dead. But I have moved past that world.  
 
@@ -66,7 +64,7 @@ Vukradin, whose presence fills a room, approaches the tavern keeper and offers t
 
 As Vukradin prepares to play he shouts, “Toblen, what do your friends call you?”
 
-Tolbien laughs, “Spiderman.”
+Toblen laughs, “Spiderman.”
 
 I look at the man, wondering if he is one of us. I do so like spiders. But no. He explains that as a child, he fell into a spider’s nest where spiders were hatching and was covered in baby spiders. He wasn’t afraid, and the sight of him walking calmly covered in Spiders earned him the nickname. 
 
@@ -92,7 +90,7 @@ When we are done, there is applause.
 
 Vukradin looks at me and says, “Perhaps we should play together.” 
 
-### Soma
+## 06.04 Soma 03-02-Taraskh 1495
 
 As I sit and watch the child Vukradin and Valphine, the oddest of pairings, play music, I think about the forest and my children. 
 
@@ -110,7 +108,7 @@ Poor Silverleaf, his pitch was wonderful, but he didn’t realize that Vukradin 
 
 Silverleaf is in shock and apologizes for offending. Vukradin is on a roll, and I feel for the old elf, but at the same time, lessons need to be learned. 
 
-### Vukradin
+## 06.05 Vukradin 03-02-Taraskh 1495
 
 This is why adventuring is wrong. When is it a monster? And when is it a poor farmer that you plundered? It’s plunder, and there is no blurry line that makes it right under some circumstances. 
 
@@ -172,7 +170,7 @@ Maybe if I tell him what I want, “It would be better if I had a music studio?�
 
 “I am offering something else. What? Imagine what your voice and story would accomplish with the backing of our order. Yes, you can motivate hundreds, but with our backing, you would be known to tens of thousands.” 
 
-### Valphine 
+## 06.06 Valphine 03-02-Taraskh 1495
 
 I know this kind. And he quickly explains that his order was instrumental in the War of the Dragon. He brags that one of their order, Milo Goodbarrel, was the leader of the strike force that made it to the inner sanctum and stopped the ritual. 
 
@@ -192,7 +190,7 @@ I wonder about that.
 
 Vukradin is then told he will receive a pin, and I know the Aasimar will try to sell it, but it’s worth nothing. He's then instructed to continue being true to his mission and opposing the senseless killing and plundering. 
 
-### Brewbarry
+## 06.07 Brewbarry 03-02-Taraskh 1495
 
 Order of Gauntlet. I know them. They fought against my tribe. They killed many. They were proud, dangerous, and ferocious warriors. 
 
@@ -210,7 +208,7 @@ I want to hit him.
 
 “Spiderman brings four.”  
 
-### Soma
+## 06.08 Soma 03-02-Taraskh 1495
 
 Vukradin is waiting for a tiny pebble to push him over the edge, and Ser Kaelen provides him with the stone. “Being a member of the order of the gauntlet will get your music out to more people and your message to more people. The combination of your personal story and your celestial origins will be tremendous.”  
 
@@ -220,9 +218,7 @@ But he has already said yes.
 
 Ser Kaelen responds, “Know this, you are a brother. And when we reach out for help, you must come to us as a brother. And as your brothers, we will come to your help\!” 
 
-## 05-01 Taraksh 1495
-
-### Soma
+## 06.09 Soma 03-02-Taraskh 1495
 
 The shell-sprout is happy. He is part of a family. A family he doesn’t know that wants things he can’t imagine. But now he wants to go on an adventure. 
 
