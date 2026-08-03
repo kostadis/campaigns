@@ -1,0 +1,6202 @@
+WEBVTT
+
+00:01:09.839 --> 00:01:10.879
+Hey, Eco Stadis.
+
+00:01:11.359 --> 00:01:12.239
+Hello.
+
+00:01:13.759 --> 00:01:14.719
+How are you?
+
+00:01:15.280 --> 00:01:16.159
+I'm good.
+
+00:01:16.799 --> 00:01:17.439
+I'm good.
+
+00:01:19.280 --> 00:01:21.679
+Just see if everybody else is joining us.
+
+00:02:07.599 --> 00:02:12.799
+I've become quite addicted to LLMs.
+
+00:02:13.839 --> 00:02:15.039
+I noticed.
+
+00:02:18.799 --> 00:02:20.639
+It's a rabbit hole, isn't it?
+
+00:02:22.639 --> 00:02:28.879
+Well, I mean, I think this is important technology and understanding how to use it is important.
+
+00:02:30.239 --> 00:02:35.919
+What's really pissing me off is how badly, what's his name?
+
+00:02:39.119 --> 00:02:41.039
+Zoom is using it.
+
+00:02:41.679 --> 00:02:42.159
+Wow.
+
+00:02:42.399 --> 00:02:44.879
+Well, I mean, come on, guys.
+
+00:02:45.039 --> 00:02:46.319
+It's not that hard.
+
+00:02:46.959 --> 00:02:48.719
+But you don't like the notes that they...
+
+00:02:49.439 --> 00:02:51.439
+No, not perfect, but...
+
+00:02:51.679 --> 00:02:54.719
+No, I mean, literally, you know how I make the notes better?
+
+00:02:55.039 --> 00:02:55.439
+Yep.
+
+00:02:55.759 --> 00:02:59.599
+I take their notes and I tell it, enrich it with a transcript.
+
+00:02:59.919 --> 00:03:00.239
+Right.
+
+00:03:00.799 --> 00:03:01.279
+That's it.
+
+00:03:01.439 --> 00:03:02.560
+I don't do anything better.
+
+00:03:02.879 --> 00:03:04.319
+I mean, it's two passes.
+
+00:03:04.799 --> 00:03:19.229
+It's really that stupid easy.
+
+00:03:19.549 --> 00:03:22.989
+So what did you end up using to convert your PDFs, by the way?
+
+00:03:23.549 --> 00:03:30.029
+Oh, I ended up, I mean, go check out the code, but I used your tool, your technology.
+
+00:03:30.429 --> 00:03:30.750
+I must have.
+
+00:03:31.069 --> 00:03:34.189
+Well, it's not mine, but I know what you mean.
+
+00:03:35.389 --> 00:03:40.989
+I must have used like five different, I went through four different iterations of the tool chain until I landed on yours.
+
+00:03:41.310 --> 00:03:41.629
+Right.
+
+00:03:42.269 --> 00:03:44.829
+The first tool chain was really broken.
+
+00:03:45.149 --> 00:03:47.789
+It relied on the IBM thing.
+
+00:03:48.349 --> 00:03:48.589
+Right.
+
+00:03:49.229 --> 00:03:55.310
+And then there were other variants that were for MS.
+
+00:03:56.269 --> 00:03:57.149
+Hey, Dave.
+
+00:03:57.469 --> 00:03:58.029
+Hi.
+
+00:03:58.669 --> 00:03:59.469
+And so, yeah.
+
+00:04:00.109 --> 00:04:15.549
+So I, yeah, no, I, yeah, no, the PDF one, the PDF one was what finally got me to realize something very important about these stupid systems.
+
+00:04:18.029 --> 00:04:24.669
+They're very good at going from, here's a general proposal that I refine for you.
+
+00:04:24.909 --> 00:04:28.029
+And then let me iterate on a subproposal and a subproposal.
+
+00:04:28.429 --> 00:04:28.509
+Right.
+
+00:04:28.750 --> 00:04:29.789
+Yeah, summarizing, yeah.
+
+00:04:30.029 --> 00:04:34.269
+No, no, creating new content, but on a narrower field.
+
+00:04:34.589 --> 00:04:34.990
+Right.
+
+00:04:35.629 --> 00:04:37.870
+Summarizing, they're actually terrible at summarizing.
+
+00:04:38.110 --> 00:04:42.509
+The only reason we say they're good at summarizing is because in summaries, we expect to have mistakes.
+
+00:04:43.069 --> 00:04:43.389
+Right.
+
+00:04:44.669 --> 00:04:45.470
+I guess.
+
+00:04:46.029 --> 00:04:47.470
+But they're very good at creating new content.
+
+00:04:47.709 --> 00:04:50.269
+You just have to be careful with what content they create.
+
+00:04:50.589 --> 00:04:50.829
+Right.
+
+00:04:51.389 --> 00:04:51.549
+Right.
+
+00:04:51.789 --> 00:04:57.389
+And so the trick is to decide what is it that is okay if it's wrong.
+
+00:04:58.269 --> 00:05:05.069
+And so what we've decided as an industry is that non-deterministic determinism is the way to write code.
+
+00:05:07.139 --> 00:05:08.339
+Have you heard that, Dave?
+
+00:05:09.219 --> 00:05:10.259
+Sorry, I wasn't listening.
+
+00:05:10.499 --> 00:05:17.939
+Oh, so there's a guy who described how he programs as non-deterministic determinism.
+
+00:05:19.779 --> 00:05:28.099
+He says, he goes, if I know what the output is, right, of the program, but I have no idea how it was implemented.
+
+00:05:28.179 --> 00:05:32.899
+And every time I implement it with these tools, I get a different program.
+
+00:05:33.219 --> 00:05:36.509
+Does it matter?
+
+00:05:37.949 --> 00:05:40.909
+There's a non-deterministic way to get the same answer.
+
+00:05:42.269 --> 00:05:47.949
+I told my wife, who is a PhD in computer science, this, and she still hasn't forgiven me for saying such an abomination.
+
+00:05:51.789 --> 00:05:55.069
+All right, let me just see if Gary's joining us.
+
+00:05:55.389 --> 00:05:55.709
+Yeah.
+
+00:05:58.509 --> 00:05:59.389
+Let me just ping him.
+
+00:06:06.609 --> 00:06:08.129
+Good morning, Stefan.
+
+00:06:08.769 --> 00:06:09.809
+How are you doing, Dave?
+
+00:06:10.769 --> 00:06:11.809
+I'm tired.
+
+00:06:12.129 --> 00:06:13.089
+Ready to go to bed.
+
+00:06:13.409 --> 00:06:14.369
+You're looking, man.
+
+00:06:16.209 --> 00:06:17.649
+Yeah, I know the feeling.
+
+00:06:17.809 --> 00:06:19.249
+And I got to get up at six.
+
+00:06:19.889 --> 00:06:22.529
+I got to do an all-engineering meeting tomorrow.
+
+00:06:23.649 --> 00:06:24.449
+At 6 a.m.
+
+00:06:24.929 --> 00:06:25.329
+Wow.
+
+00:06:25.889 --> 00:06:28.449
+No, the all-engineering's at 8.30.
+
+00:06:29.249 --> 00:06:29.569
+Okay.
+
+00:06:30.129 --> 00:06:32.129
+Well, my first meeting is at 6.
+
+00:06:33.809 --> 00:06:36.449
+I was going to say, 6 o'clock all engineering meeting.
+
+00:06:37.249 --> 00:06:38.049
+You don't have to attend that.
+
+00:06:38.129 --> 00:06:39.409
+No one's going to be there.
+
+00:06:42.209 --> 00:06:43.809
+I had that yesterday.
+
+00:06:44.129 --> 00:06:49.249
+I was connecting with a client in Australia.
+
+00:06:49.569 --> 00:06:51.649
+It's a difficult time zone to work with.
+
+00:06:52.289 --> 00:06:52.689
+Oh, God.
+
+00:06:53.649 --> 00:06:54.129
+Australia.
+
+00:06:54.369 --> 00:06:55.969
+Oh, for France, it's difficult.
+
+00:06:56.129 --> 00:06:59.649
+Yeah, actually, it's convenient for California, actually, because there's overlap.
+
+00:07:01.089 --> 00:07:02.449
+Yeah, France, no.
+
+00:07:03.969 --> 00:07:04.289
+Hey.
+
+00:07:04.609 --> 00:07:05.809
+Hey, Gary's here.
+
+00:07:05.889 --> 00:07:06.449
+We can play.
+
+00:07:06.689 --> 00:07:07.169
+Yes, we can play.
+
+00:07:18.300 --> 00:07:23.740
+I think it's funny that this module is called Ice Spire because we already finished the Ice Spire stuff.
+
+00:07:24.220 --> 00:07:25.580
+That was minor.
+
+00:07:29.340 --> 00:07:30.780
+That is not what this is.
+
+00:07:33.260 --> 00:07:36.060
+That was like an echo.
+
+00:07:36.860 --> 00:07:38.700
+Is anything truly what it is?
+
+00:07:39.340 --> 00:07:46.460
+And I mean, I'm really happy to hear that because this is, if you go read the module, you'll wonder where the hell this half this module comes from.
+
+00:07:47.100 --> 00:07:48.700
+I did go and look at the module.
+
+00:07:49.020 --> 00:07:52.540
+I was like, yeah, we are not, this is not what we're playing.
+
+00:07:54.780 --> 00:07:57.180
+Well, I started to play it and got bored.
+
+00:07:58.140 --> 00:07:59.980
+Yeah, it's too simple.
+
+00:08:00.300 --> 00:08:00.460
+Right.
+
+00:08:00.620 --> 00:08:01.580
+And I said, this is boring.
+
+00:08:01.740 --> 00:08:02.780
+I'm going to get bored of this.
+
+00:08:02.940 --> 00:08:05.100
+And I started coming up with ideas.
+
+00:08:05.420 --> 00:08:10.060
+And then I discovered how could come up with more ideas and then more ideas and even more ideas.
+
+00:08:10.940 --> 00:08:14.140
+And then I had to create a whole system for keeping track of all of those ideas.
+
+00:08:14.620 --> 00:08:16.220
+It's basically a homebrew module.
+
+00:08:16.300 --> 00:08:16.540
+Yeah.
+
+00:08:16.860 --> 00:08:20.940
+At this point in time, at this point in time, it's a completely homebrew module.
+
+00:08:23.180 --> 00:08:26.700
+With occasional, you know, homages to the original.
+
+00:08:27.020 --> 00:08:29.580
+Yeah, that's a good way to put it: homages.
+
+00:08:34.410 --> 00:08:36.890
+Because I was like, where did he come up with all this druid stuff?
+
+00:08:37.050 --> 00:08:38.170
+Is that like, where's that going?
+
+00:08:38.330 --> 00:08:38.810
+I went around.
+
+00:08:38.890 --> 00:08:40.970
+I'm like, this is not in the module.
+
+00:08:41.290 --> 00:08:41.850
+This is not.
+
+00:08:42.009 --> 00:08:43.530
+There's nothing in here.
+
+00:08:44.730 --> 00:08:47.210
+This is not what this character is.
+
+00:08:50.279 --> 00:08:52.039
+It's who you inspired it to be.
+
+00:08:52.359 --> 00:08:53.719
+Yes, that's right.
+
+00:08:54.679 --> 00:08:55.879
+No, it's not all of the best ideas.
+
+00:08:56.199 --> 00:08:57.240
+I think I went and read.
+
+00:08:57.639 --> 00:09:00.839
+I wanted to know more about Adabra, so I went and read about her.
+
+00:09:00.919 --> 00:09:04.199
+And I'm like, yeah, this is not the character.
+
+00:09:04.919 --> 00:09:05.799
+This is not the character.
+
+00:09:06.120 --> 00:09:08.919
+She has the same name, but this is not the character.
+
+00:09:10.039 --> 00:09:10.439
+Good.
+
+00:09:11.000 --> 00:09:11.719
+Yeah, good job.
+
+00:09:12.199 --> 00:09:12.679
+Thank you.
+
+00:09:12.839 --> 00:09:17.159
+I mean, the fact that you wanted to look into her makes me feel like I made her interesting enough.
+
+00:09:19.399 --> 00:09:20.199
+Yeah, well.
+
+00:09:20.839 --> 00:09:25.159
+Or you wanted to read her stat block to decide if you were going to kill her the next time you saw her.
+
+00:09:27.319 --> 00:09:29.879
+There's no way she has a strong stat block.
+
+00:09:30.039 --> 00:09:31.240
+There's just no way.
+
+00:09:33.229 --> 00:09:33.789
+Why did we?
+
+00:09:33.869 --> 00:09:34.829
+We had to go save her.
+
+00:09:35.149 --> 00:09:36.909
+Oh, but she didn't want to be saved.
+
+00:09:37.229 --> 00:09:38.909
+She didn't think that she needed to be saved.
+
+00:09:39.149 --> 00:09:41.469
+No, maybe she didn't need to be saved.
+
+00:09:41.949 --> 00:09:51.149
+You always assumed she needed assumed she needed to be saved.
+
+00:09:51.469 --> 00:09:54.589
+She was very clear that she did not need to be saved.
+
+00:09:54.909 --> 00:09:56.029
+Exactly.
+
+00:09:59.229 --> 00:10:02.109
+And in that ambiguity, everything was created.
+
+00:10:02.429 --> 00:10:05.069
+Yes, she was very clear on that one.
+
+00:10:08.189 --> 00:10:08.509
+All right.
+
+00:10:08.589 --> 00:10:08.829
+Hold on.
+
+00:10:08.909 --> 00:10:10.029
+I need to go to.
+
+00:10:11.629 --> 00:10:16.349
+I see a lot of potential recruits to Gary's church.
+
+00:10:17.309 --> 00:10:22.269
+Can we agree that not everything is, you know, oh, God.
+
+00:10:23.549 --> 00:10:24.029
+Exactly.
+
+00:10:24.429 --> 00:10:24.750
+Oh, God.
+
+00:10:25.069 --> 00:10:26.109
+It is about gods.
+
+00:10:26.429 --> 00:10:26.989
+Oh, God.
+
+00:10:27.389 --> 00:10:30.029
+I just realized what I have just created.
+
+00:10:34.669 --> 00:10:37.709
+A Levander and his prophet.
+
+00:10:44.669 --> 00:10:48.429
+Wait, so let me ask you a question just to probe this a little bit.
+
+00:10:49.469 --> 00:10:59.309
+Is Bukerdin sensing that one way to get people to see the path of goodness is to convert them to Lothander, to the Balfine's version of Lafayette?
+
+00:10:59.389 --> 00:11:18.349
+No, no, I think what he's learning is like we need to, it's becoming very hard to return all of these items to their rightful owners, and that we need to have some charities that we believe in that can take the items whose owners cannot be found.
+
+00:11:18.669 --> 00:11:31.069
+And all of the charities run by, you know, the various factions all seem suspect and they can't be trusted and they all seem to have secret agendas and they're not really charities.
+
+00:11:31.709 --> 00:11:41.869
+Whereas Balfina's charity is clearly valid and like no issues there and like definitely a real charity.
+
+00:11:43.469 --> 00:11:43.709
+Right.
+
+00:11:43.949 --> 00:11:46.429
+I think that actually works because it fits into your naive tape.
+
+00:11:46.829 --> 00:11:47.789
+Exactly.
+
+00:11:50.189 --> 00:11:53.469
+And I'm sure he has stereotyped Lefender already, right?
+
+00:11:54.749 --> 00:11:56.029
+And Lothander's a good guy.
+
+00:11:56.109 --> 00:11:58.269
+Like, I don't have any problems with Lathander, you know?
+
+00:11:58.589 --> 00:12:00.029
+He's pro-asimer.
+
+00:12:00.189 --> 00:12:01.869
+Like, that's nothing wrong with that.
+
+00:12:02.189 --> 00:12:03.869
+No, no, he's a good guy.
+
+00:12:09.399 --> 00:12:16.840
+And you know, I want to support my fellow band member and party member, and you know, yeah, no, I'm with you.
+
+00:12:17.080 --> 00:12:19.639
+I want everybody to like me, so right.
+
+00:12:21.399 --> 00:12:24.759
+I am tempted to memorize the animate dead spell.
+
+00:12:30.039 --> 00:12:31.399
+Yeah, how'd that go?
+
+00:12:31.879 --> 00:12:33.960
+No, I'm just tempted.
+
+00:12:34.600 --> 00:12:37.639
+Sure, you should uh, you should try that sometime.
+
+00:12:40.279 --> 00:12:40.600
+Right.
+
+00:12:41.000 --> 00:12:42.919
+How am I going to respond to that one?
+
+00:12:46.600 --> 00:13:00.759
+Well, you know, maybe I should just kind of like take that as the undead are kind of like antithesis to light and life is power, and therefore, you know, the undead are just weak.
+
+00:13:01.080 --> 00:13:03.320
+What's the duration of that spell?
+
+00:13:03.639 --> 00:13:04.279
+Anime?
+
+00:13:04.759 --> 00:13:06.519
+Yeah, it's got a pretty good duration.
+
+00:13:06.600 --> 00:13:07.320
+Let's see.
+
+00:13:07.639 --> 00:13:12.360
+I mean, I don't mean to be rude, but Lathander's kind of got an issue with that.
+
+00:13:12.440 --> 00:13:13.879
+I just wanted to make sure.
+
+00:13:19.879 --> 00:13:21.960
+Duration instantaneous.
+
+00:13:24.040 --> 00:13:25.720
+How long does the animation last?
+
+00:13:26.040 --> 00:13:26.920
+24 hours.
+
+00:13:27.480 --> 00:13:28.120
+24 hours.
+
+00:13:29.000 --> 00:13:31.879
+But I think Falfina's position is going to be a little bit more moderate.
+
+00:13:31.960 --> 00:13:36.120
+It's going to be creating, you know, undead are just weak.
+
+00:13:38.040 --> 00:13:39.400
+And Lothander's power.
+
+00:13:40.840 --> 00:13:43.400
+I'm really terrified about that comment.
+
+00:13:44.680 --> 00:13:45.800
+Undead or weak?
+
+00:13:47.400 --> 00:13:47.720
+Yeah.
+
+00:13:47.960 --> 00:13:51.800
+I mean, you know, just like undead, like her, like her.
+
+00:13:52.279 --> 00:13:57.000
+You know, lots of people come to lots of different conclusions about it, dead, but that is not one of them.
+
+00:13:57.960 --> 00:13:58.200
+No.
+
+00:14:00.600 --> 00:14:00.840
+Okay.
+
+00:14:01.720 --> 00:14:02.040
+All right.
+
+00:14:02.120 --> 00:14:03.879
+Are we in the middle of combat here?
+
+00:14:04.040 --> 00:14:04.279
+Usually.
+
+00:14:04.680 --> 00:14:05.639
+Give me one second.
+
+00:14:06.360 --> 00:14:07.639
+I need to get something out.
+
+00:14:08.759 --> 00:14:10.600
+They're usually afraid of the light.
+
+00:14:11.800 --> 00:14:13.080
+Especially the shadows.
+
+00:14:14.440 --> 00:14:16.279
+There were how many lights?
+
+00:14:16.519 --> 00:14:17.080
+Seven?
+
+00:14:18.360 --> 00:14:19.160
+No, 12.
+
+00:14:19.400 --> 00:14:19.720
+Wow.
+
+00:14:19.879 --> 00:14:20.200
+All right.
+
+00:14:20.360 --> 00:14:20.840
+Wow.
+
+00:14:23.080 --> 00:14:24.279
+Many little minions.
+
+00:14:26.840 --> 00:14:27.480
+All right.
+
+00:14:30.710 --> 00:14:31.909
+Let's see.
+
+00:14:32.629 --> 00:14:32.950
+Okay.
+
+00:14:35.259 --> 00:14:35.899
+Where is it?
+
+00:14:36.139 --> 00:14:38.299
+Ah, Circle of Thunder locations.
+
+00:14:38.539 --> 00:14:38.859
+All right.
+
+00:14:42.089 --> 00:14:49.849
+And I believe there were two Half Orc spellcasters, two lightning bolt casters.
+
+00:14:56.949 --> 00:14:57.989
+Let's see what David.
+
+00:15:02.879 --> 00:15:04.559
+Okay, I guess this is when you meet him.
+
+00:15:04.719 --> 00:15:04.879
+All right.
+
+00:15:04.959 --> 00:15:05.119
+Okay.
+
+00:15:05.199 --> 00:15:07.199
+That's what I just needed to check something.
+
+00:15:07.439 --> 00:15:07.919
+All right.
+
+00:15:09.199 --> 00:15:09.759
+All right.
+
+00:15:12.709 --> 00:15:13.029
+All right.
+
+00:15:13.189 --> 00:15:18.069
+So they're performing some kind of role, a religion check.
+
+00:15:18.389 --> 00:15:19.109
+Oh, yeah.
+
+00:15:19.349 --> 00:15:19.669
+Yeah.
+
+00:15:21.269 --> 00:15:21.669
+Do it.
+
+00:15:22.149 --> 00:15:22.389
+Yeah.
+
+00:15:22.549 --> 00:15:23.029
+Religion.
+
+00:15:23.269 --> 00:15:23.909
+Religion.
+
+00:15:24.069 --> 00:15:24.709
+Religion.
+
+00:15:25.429 --> 00:15:25.909
+I think that's what.
+
+00:15:26.389 --> 00:15:27.189
+I got a nine.
+
+00:15:27.349 --> 00:15:28.309
+I got a nine.
+
+00:15:31.589 --> 00:15:32.789
+I got a 10.
+
+00:15:34.389 --> 00:15:35.509
+All right, Valfina.
+
+00:15:35.589 --> 00:15:36.309
+Oh, we got somebody's.
+
+00:15:36.469 --> 00:15:39.029
+Can you, Gary, you want to play Wade?
+
+00:15:45.539 --> 00:15:46.819
+Yeah, neither have I.
+
+00:15:47.219 --> 00:15:47.539
+I can do it.
+
+00:15:48.339 --> 00:15:48.979
+I can do it.
+
+00:15:49.299 --> 00:15:49.939
+I can do it.
+
+00:15:50.099 --> 00:15:50.499
+I'll do it.
+
+00:15:50.739 --> 00:15:57.139
+The whole like shape-shifting thing and temporary hit points and the rules changed in 5.5.
+
+00:15:58.019 --> 00:15:59.699
+It's very confusing.
+
+00:16:00.819 --> 00:16:02.339
+You guys are all oops.
+
+00:16:04.579 --> 00:16:05.299
+But I can do this.
+
+00:16:05.459 --> 00:16:06.819
+This is not a problem.
+
+00:16:08.099 --> 00:16:08.819
+Where is it?
+
+00:16:09.539 --> 00:16:10.099
+Sword ghost.
+
+00:16:10.259 --> 00:16:10.579
+All right.
+
+00:16:12.179 --> 00:16:14.099
+So, guys, just to give you some context.
+
+00:16:14.259 --> 00:16:17.699
+So I was using my tools to finish the adventure.
+
+00:16:18.019 --> 00:16:25.379
+And I discovered that we literally had 270 different NPCs in the Storm Giants Adventure.
+
+00:16:26.659 --> 00:16:27.539
+In the Storm Group.
+
+00:16:27.699 --> 00:16:28.259
+I believe that.
+
+00:16:28.659 --> 00:16:32.339
+270 named NPCs.
+
+00:16:32.979 --> 00:16:34.499
+Yeah, it was too many.
+
+00:16:35.379 --> 00:16:37.859
+I was sprawling on an epic scale.
+
+00:16:38.179 --> 00:16:38.339
+Yeah.
+
+00:16:38.659 --> 00:16:42.179
+And we didn't do like 90% of what was available.
+
+00:16:43.459 --> 00:16:44.419
+Actually, we did quite a bit.
+
+00:16:44.499 --> 00:16:48.259
+We did a lot more than what we didn't do was we didn't do the giant quests.
+
+00:16:49.219 --> 00:16:50.019
+Actually, we did one.
+
+00:16:50.099 --> 00:16:50.739
+We did one of the four.
+
+00:16:50.979 --> 00:16:52.099
+You're only one of them.
+
+00:16:52.499 --> 00:16:53.619
+Which is what you're supposed to do.
+
+00:16:53.779 --> 00:16:57.779
+Like the module only calls for one of the four to be done.
+
+00:16:58.979 --> 00:17:00.579
+So you don't have to do all four.
+
+00:17:00.899 --> 00:17:01.139
+Okay.
+
+00:17:01.299 --> 00:17:04.339
+Well, there were all those locations on the map that we never went to.
+
+00:17:04.659 --> 00:17:07.699
+Yeah, but they were not particularly interesting locations.
+
+00:17:08.019 --> 00:17:08.179
+Yeah.
+
+00:17:08.339 --> 00:17:11.859
+Someone said, skip to the end, the wing, please.
+
+00:17:12.899 --> 00:17:14.179
+Somebody said, I'm bored.
+
+00:17:14.579 --> 00:17:15.619
+Man and wife.
+
+00:17:15.859 --> 00:17:17.939
+Same man and wife.
+
+00:17:19.459 --> 00:17:20.019
+Yes.
+
+00:17:20.899 --> 00:17:21.379
+All right.
+
+00:17:21.859 --> 00:17:26.179
+Well, now I'm looking at Valfina's character sheet instead of Soma's.
+
+00:17:38.900 --> 00:17:39.380
+Right.
+
+00:17:42.909 --> 00:17:45.309
+Soma has a minus one on religion.
+
+00:17:45.950 --> 00:17:47.389
+I'm going to roll Soma.
+
+00:17:47.710 --> 00:17:48.990
+Soma gets
+
+00:17:57.319 --> 00:17:59.080
+Soma got a zero.
+
+00:18:01.080 --> 00:18:02.680
+Soma got a natural one.
+
+00:18:05.969 --> 00:18:07.009
+On religion.
+
+00:18:07.329 --> 00:18:07.809
+Yes.
+
+00:18:12.999 --> 00:18:13.639
+All right.
+
+00:18:14.279 --> 00:18:14.759
+So, okay.
+
+00:18:14.919 --> 00:18:17.559
+So, did anybody get you all get really bad rolls?
+
+00:18:17.639 --> 00:18:19.239
+That's what Ilfina got a 17.
+
+00:18:19.559 --> 00:18:22.919
+Oh, Valfina recognized it as a summoning ritual.
+
+00:18:24.119 --> 00:18:27.319
+Oh, yeah, you would recognize that in this animate dead.
+
+00:18:30.839 --> 00:18:31.879
+Just in case you're wondering.
+
+00:18:32.359 --> 00:18:34.759
+No, I've decided to cast the animate dead.
+
+00:18:35.559 --> 00:18:37.399
+I wonder who they're summoning.
+
+00:18:37.719 --> 00:18:39.399
+I mean, you'll find out.
+
+00:18:39.719 --> 00:18:41.239
+No, we won't.
+
+00:18:41.559 --> 00:18:42.839
+Oh, you may or may not.
+
+00:18:43.079 --> 00:18:45.959
+You see, you never know how these rituals work, really.
+
+00:18:48.279 --> 00:18:50.279
+All right, I'm going to cast silence.
+
+00:18:50.599 --> 00:18:59.159
+And I once again have no connection to the board, so but I'm casting silence on whoever it is is chanting.
+
+00:19:01.879 --> 00:19:05.159
+And if that is unknown, then the two spellcasters.
+
+00:19:05.479 --> 00:19:05.879
+Good.
+
+00:19:09.609 --> 00:19:10.329
+Hold on.
+
+00:19:10.970 --> 00:19:11.769
+Just make sure.
+
+00:19:12.009 --> 00:19:22.949
+I think you can actually interrupt the ritual.
+Definitely.
+No, actually, mechanically, I don't think that's how it works.
+
+00:19:23.919 --> 00:19:28.239
+Actually, I was just looking through the instructions and just trying to confirm it.
+
+00:19:29.519 --> 00:19:32.719
+Is there no vocal component to the ritual?
+
+00:19:36.949 --> 00:19:38.710
+Oh, I know why it doesn't happen.
+
+00:19:44.039 --> 00:19:45.000
+It's interesting.
+
+00:19:45.319 --> 00:19:46.679
+Can the ritual be terminated?
+
+00:19:46.839 --> 00:19:48.039
+No, it doesn't appear to be.
+
+00:19:48.359 --> 00:19:48.919
+All right.
+
+00:19:50.119 --> 00:19:51.879
+They're each dancing.
+
+00:19:54.069 --> 00:19:56.229
+Oh, they're dancing.
+
+00:19:56.549 --> 00:19:59.749
+I mean, if there's no vocal component, there's whole person.
+
+00:20:00.229 --> 00:20:01.349
+That's also an option.
+
+00:20:01.829 --> 00:20:03.509
+I'm just preferring to whole person.
+
+00:20:04.149 --> 00:20:05.829
+I have, give me a second.
+
+00:20:05.989 --> 00:20:08.069
+I'd like they literally do not account for that.
+
+00:20:40.500 --> 00:20:42.259
+Okay, so all right.
+
+00:20:42.740 --> 00:20:44.179
+I now know how the ritual works.
+
+00:20:44.419 --> 00:20:44.659
+Okay.
+
+00:20:47.769 --> 00:20:49.449
+I now know what triggers the summoning.
+
+00:20:49.689 --> 00:20:50.009
+Okay.
+
+00:20:50.249 --> 00:20:50.649
+All right.
+
+00:20:51.209 --> 00:20:53.689
+Okay, guys, do you want me to go with silence or whole person?
+
+00:20:53.929 --> 00:20:54.249
+Hold on.
+
+00:20:54.329 --> 00:20:57.289
+Before you do anything, can someone tell me what the did we roll initiatives?
+
+00:20:57.369 --> 00:20:58.489
+No, we did not roll initiatives.
+
+00:20:58.569 --> 00:20:58.809
+We're doing.
+
+00:20:59.929 --> 00:21:02.009
+Yeah, so why don't we roll initiatives?
+
+00:21:07.839 --> 00:21:09.279
+Okay, that didn't work.
+
+00:21:11.690 --> 00:21:12.009
+20.
+
+00:21:14.329 --> 00:21:18.970
+I officially reached that point where I have too many sheets of too many browsers open.
+
+00:21:21.129 --> 00:21:21.930
+Same here.
+
+00:21:23.210 --> 00:21:23.450
+Okay.
+
+00:21:24.649 --> 00:21:33.309
+Okay, we'll create initiative
+
+00:21:33.549 --> 00:21:34.269
+tracker.
+
+00:21:36.679 --> 00:21:37.239
+All right.
+
+00:21:37.799 --> 00:21:38.039
+Okay.
+
+00:21:38.199 --> 00:21:39.239
+And Korite.
+
+00:21:45.429 --> 00:21:47.109
+Soma needs an initiative roll.
+
+00:21:47.189 --> 00:21:47.669
+Here we go.
+
+00:21:50.309 --> 00:21:51.829
+Soma gets a 13.
+
+00:21:54.869 --> 00:21:56.389
+Sudan and Ankara Tona.
+
+00:21:57.029 --> 00:21:59.269
+Krutha has a plus seven.
+
+00:21:59.429 --> 00:21:59.750
+Wow.
+
+00:21:59.909 --> 00:22:00.069
+Okay.
+
+00:22:00.149 --> 00:22:01.349
+We can do that one.
+
+00:22:01.669 --> 00:22:02.149
+Is he?
+
+00:22:02.309 --> 00:22:02.629
+Really?
+
+00:22:03.189 --> 00:22:04.230
+That's what it says.
+
+00:22:04.469 --> 00:22:05.269
+I don't know.
+
+00:22:06.149 --> 00:22:07.509
+I'm just following what it says.
+
+00:22:07.829 --> 00:22:08.549
+He's only got 13.
+
+00:22:08.949 --> 00:22:09.990
+You're going to let him get killed?
+
+00:22:10.389 --> 00:22:14.469
+Like, just as you getting killed?
+
+00:22:14.789 --> 00:22:15.429
+I'm just saying.
+
+00:22:15.829 --> 00:22:16.710
+We're saving him.
+
+00:22:17.750 --> 00:22:20.710
+Boney has a zero, so you can roll Bony.
+
+00:22:21.429 --> 00:22:22.629
+Pruta is a campfolder.
+
+00:22:23.109 --> 00:22:23.750
+19.
+
+00:22:24.069 --> 00:22:25.109
+What would you say?
+
+00:22:25.429 --> 00:22:27.349
+Krutha is a campfolder.
+
+00:22:29.189 --> 00:22:31.429
+No, no, he's a ruthless warrior of.
+
+00:22:31.990 --> 00:22:33.750
+Rutha, he's not hanging out in camp.
+
+00:22:33.909 --> 00:22:35.029
+He wants to fight.
+
+00:22:35.669 --> 00:22:37.189
+I'll protect him.
+
+00:22:40.710 --> 00:22:41.029
+Okay.
+
+00:22:41.509 --> 00:22:43.029
+For the glory of Alexander.
+
+00:22:43.269 --> 00:22:43.509
+Yes.
+
+00:22:43.669 --> 00:22:45.509
+I mean, don't forget, he's very much committed.
+
+00:22:45.750 --> 00:22:47.349
+To the Order of the Gauntlet.
+
+00:22:50.419 --> 00:23:13.590
+I don't know whether you want to keep saying that in front of Brewberry.
+Well, there was a whole awkward war between the Order of the Gauntlet and the Barbarians and the Lords Alliance, where, you know, after the tragic events involving a certain group of adventurers who stole Sir Karen said it was all a big misunderstanding.
+
+00:23:13.910 --> 00:23:17.590
+Well, I don't think Brewberry cares about politics anyway.
+
+00:23:17.910 --> 00:23:23.269
+All that is in his fuzzy mind is, you know, what is he going to drink next and when?
+
+00:23:24.150 --> 00:23:28.230
+Especially since he drinking does have an effect on your long-term memory.
+
+00:23:29.430 --> 00:23:40.230
+Most importantly of all, we've established that Brewberry used to discover, didn't start drinking until after he entered civilization, and he discovered that there is actually tastier alcohol.
+
+00:23:41.830 --> 00:23:42.550
+Sorry.
+
+00:23:44.789 --> 00:23:48.470
+We just hear the camp was not very good.
+
+00:23:49.750 --> 00:23:50.789
+What would you say?
+
+00:23:53.300 --> 00:23:54.900
+I think we have to roll each other.
+
+00:23:55.220 --> 00:23:56.980
+I think we have to roll, my friend.
+
+00:23:57.300 --> 00:23:59.140
+Yes, yes, yes, yes, yes.
+
+00:23:59.460 --> 00:24:00.740
+So, silence old person.
+
+00:24:00.980 --> 00:24:02.340
+Do we hear any chinting?
+
+00:24:02.820 --> 00:24:03.460
+No, no, you don't.
+
+00:24:03.620 --> 00:24:04.420
+No, you don't.
+
+00:24:04.740 --> 00:24:05.060
+Okay.
+
+00:24:05.940 --> 00:24:09.380
+So they're like, what, a pentamine club?
+
+00:24:11.620 --> 00:24:12.180
+18.
+
+00:24:19.150 --> 00:24:19.790
+18.
+
+00:24:22.600 --> 00:24:23.000
+Ruth.
+
+00:24:24.120 --> 00:24:24.440
+All right.
+
+00:24:24.520 --> 00:24:25.320
+You rolled an 18.
+
+00:24:25.400 --> 00:24:26.760
+I have to roll it again, right?
+
+00:24:30.869 --> 00:24:31.589
+Oops.
+
+00:24:31.910 --> 00:24:33.110
+10.4.
+
+00:24:34.630 --> 00:24:35.589
+Ah, 19.
+
+00:24:36.069 --> 00:24:36.869
+I win.
+
+00:24:37.190 --> 00:24:37.509
+Okay.
+
+00:24:37.990 --> 00:24:39.029
+20.19.
+
+00:24:39.190 --> 00:24:40.069
+Look at you.
+
+00:24:41.029 --> 00:24:41.589
+All right.
+
+00:24:41.910 --> 00:24:42.710
+Anybody else need to roll?
+
+00:24:42.950 --> 00:24:43.829
+Roll the twig, too?
+
+00:24:43.990 --> 00:24:45.110
+You want to roll the twig?
+
+00:24:45.990 --> 00:24:47.110
+No, he can be last.
+
+00:24:49.099 --> 00:24:51.499
+All right, Brewberry, you have a roll-off as well.
+
+00:24:52.139 --> 00:24:53.019
+Roll of what?
+
+00:24:53.179 --> 00:24:53.499
+Sorry.
+
+00:24:53.899 --> 00:24:55.259
+You have to roll initiative again.
+
+00:24:55.499 --> 00:24:55.819
+Yes.
+
+00:24:56.059 --> 00:24:56.379
+Again.
+
+00:24:56.619 --> 00:24:58.219
+Yes, because roll-off.
+
+00:24:59.419 --> 00:25:00.299
+We do that.
+
+00:25:00.859 --> 00:25:02.139
+When there's a tie.
+
+00:25:02.459 --> 00:25:03.339
+10.10.
+
+00:25:03.739 --> 00:25:04.459
+I got 11.1.
+
+00:25:04.539 --> 00:25:05.419
+11.10.
+
+00:25:05.659 --> 00:25:06.699
+11.12.
+
+00:25:09.359 --> 00:25:10.240
+All righty.
+
+00:25:11.119 --> 00:25:12.480
+You want all the ties.
+
+00:25:12.799 --> 00:25:14.079
+Happens every so often.
+
+00:25:14.319 --> 00:25:14.799
+All right.
+
+00:25:16.319 --> 00:25:16.960
+All right.
+
+00:25:18.240 --> 00:25:18.799
+All right.
+
+00:25:19.440 --> 00:25:19.680
+All right.
+
+00:25:19.759 --> 00:25:22.720
+So I've not cast silence because we're following initiative order.
+
+00:25:22.879 --> 00:25:23.200
+All right.
+
+00:25:23.519 --> 00:25:23.839
+Yes.
+
+00:25:25.119 --> 00:25:30.399
+Is Rakwaden like in the tanking position?
+
+00:25:31.039 --> 00:25:31.599
+Always.
+
+00:25:32.559 --> 00:25:33.919
+Where else would I be?
+
+00:25:35.839 --> 00:25:37.599
+Isn't that the logical move?
+
+00:25:41.200 --> 00:25:51.200
+Does Rakradin see musicians and think to himself, musical performance, and then he needs to either stop the musical performance because it's grating on his nerves or people dancing?
+
+00:25:51.359 --> 00:25:53.119
+It's like an audience.
+
+00:25:54.720 --> 00:26:02.159
+Is he seeing this dancing as offensive, problematic, or does he view it simply as a ritual that needs to be stopped?
+
+00:26:02.799 --> 00:26:08.799
+Dude, I'm just thinking about the 50 GP I'm going to get for killing off the half orcs.
+
+00:26:12.559 --> 00:26:13.119
+All right.
+
+00:26:13.359 --> 00:26:13.679
+Okay.
+
+00:26:14.240 --> 00:26:14.639
+All right.
+
+00:26:14.879 --> 00:26:15.200
+All right.
+
+00:26:15.359 --> 00:26:16.960
+So twig delight one.
+
+00:26:21.119 --> 00:26:27.599
+I think we should play the chomk out and you know, you should try to give them some music while they're dancing.
+
+00:26:27.759 --> 00:26:28.879
+See how they might.
+
+00:26:29.039 --> 00:26:29.359
+I might.
+
+00:26:29.519 --> 00:26:29.679
+Yeah.
+
+00:26:29.839 --> 00:26:33.119
+We'll see what happens when we get to dash.
+
+00:26:33.279 --> 00:26:34.399
+It dashes over here.
+
+00:26:34.720 --> 00:26:35.039
+Right.
+
+00:26:35.279 --> 00:26:36.399
+Who is next?
+
+00:26:38.799 --> 00:26:40.079
+Two twigs and an anchorite.
+
+00:26:40.720 --> 00:26:42.399
+Like the startup of a joke.
+
+00:26:42.480 --> 00:26:45.200
+Two twigs and an anchorite walk into a circle.
+
+00:26:45.519 --> 00:26:46.319
+Oh, God.
+
+00:26:47.920 --> 00:26:49.119
+That you had to go there.
+
+00:26:49.440 --> 00:26:50.399
+It's funny enough.
+
+00:26:51.039 --> 00:26:51.519
+All right.
+
+00:26:52.159 --> 00:26:52.799
+And then number two.
+
+00:26:52.960 --> 00:26:54.319
+That's our job to go there.
+
+00:26:55.599 --> 00:26:57.359
+It's our job to go there.
+
+00:27:01.279 --> 00:27:03.039
+They're all dashing towards you.
+
+00:27:04.240 --> 00:27:04.879
+All right.
+
+00:27:06.159 --> 00:27:06.480
+All right.
+
+00:27:06.559 --> 00:27:13.039
+So now one of the anchorites notices you because the twigs noticed you.
+
+00:27:14.559 --> 00:27:15.200
+Right.
+
+00:27:21.319 --> 00:27:21.720
+Right.
+
+00:27:22.039 --> 00:27:23.559
+So we have rolled stealth.
+
+00:27:29.569 --> 00:27:30.049
+Valfin.
+
+00:27:31.089 --> 00:27:31.250
+Okay.
+
+00:27:31.490 --> 00:27:33.089
+The half-work is charging.
+
+00:27:33.569 --> 00:27:40.289
+The orc putha is charging because he hates the anchorites for killing his blah, blah, blah.
+
+00:27:40.450 --> 00:27:40.849
+Now he feels...
+
+00:27:41.410 --> 00:27:42.289
+Well, he's not up yet.
+
+00:27:42.690 --> 00:27:43.650
+He's in the middle of the initial.
+
+00:27:44.130 --> 00:27:46.289
+I was trying to answer the stealth thing.
+
+00:27:47.170 --> 00:27:48.610
+Oh, he's not going to do stealth.
+
+00:27:48.690 --> 00:27:49.089
+I got it.
+
+00:27:49.329 --> 00:27:52.690
+Unless you like roll a persuasion or an intimidation.
+
+00:27:52.930 --> 00:27:53.730
+No, no, no.
+
+00:27:55.089 --> 00:27:56.690
+We're here to kill the half-works.
+
+00:27:57.170 --> 00:28:00.529
+We were sent by the centaur to do a job.
+
+00:28:00.849 --> 00:28:03.569
+And there's honest gold at the end of it.
+
+00:28:04.210 --> 00:28:05.730
+Indeed, there is.
+
+00:28:06.690 --> 00:28:07.170
+All right.
+
+00:28:07.490 --> 00:28:07.730
+Okay.
+
+00:28:07.970 --> 00:28:10.289
+I just want to make sure that we're all on the same page.
+
+00:28:10.610 --> 00:28:10.930
+Okay.
+
+00:28:12.210 --> 00:28:12.769
+Hold on.
+
+00:28:12.849 --> 00:28:13.809
+This guy needs a number.
+
+00:28:13.970 --> 00:28:15.650
+Would this guy call this guy number one?
+
+00:28:25.079 --> 00:28:25.640
+All right.
+
+00:28:27.769 --> 00:28:28.089
+All right.
+
+00:28:28.170 --> 00:28:28.889
+How does this work?
+
+00:28:29.130 --> 00:28:29.369
+Okay.
+
+00:28:31.529 --> 00:28:32.889
+Did I incorrect number two?
+
+00:28:33.849 --> 00:28:34.009
+Great.
+
+00:28:34.250 --> 00:28:35.369
+Number two was good.
+
+00:28:42.059 --> 00:28:45.180
+And, you know, he does that lightning bolt thing that they do.
+
+00:28:51.509 --> 00:28:53.109
+I got a 20 on my savings, bro.
+
+00:28:53.509 --> 00:28:53.750
+Okay.
+
+00:28:55.029 --> 00:28:56.869
+He still got hit by lightning bolt.
+
+00:28:56.949 --> 00:28:57.509
+All right.
+
+00:28:58.149 --> 00:28:59.509
+That's what the hit points are for.
+
+00:28:59.750 --> 00:29:00.309
+Yeah, I know.
+
+00:29:00.469 --> 00:29:04.789
+I'm just hopefully I have enough of them.
+
+00:29:05.750 --> 00:29:06.629
+Hopefully, man.
+
+00:29:07.909 --> 00:29:08.309
+All right.
+
+00:29:08.629 --> 00:29:11.829
+It's nice that we're all lined up, you know, in a perfect line there.
+
+00:29:12.789 --> 00:29:14.229
+That's convenient for him.
+
+00:29:14.549 --> 00:29:14.869
+No.
+
+00:29:16.469 --> 00:29:19.269
+I was kind of like going, is this really what you guys are doing?
+
+00:29:24.779 --> 00:29:25.259
+That's okay.
+
+00:29:25.339 --> 00:29:27.739
+You're going to be making some wisdom saves real soon now.
+
+00:29:28.379 --> 00:29:29.339
+Hold on.
+
+00:29:31.019 --> 00:29:32.219
+He's going to go this way.
+
+00:29:36.480 --> 00:29:38.720
+Okay, yes, so he will hit the three of you.
+
+00:29:38.960 --> 00:29:40.799
+All right, the three of you need to make saving throws.
+
+00:29:41.360 --> 00:29:43.360
+Belfina, how much damage?
+
+00:29:44.160 --> 00:29:45.600
+Well, let me get to that.
+
+00:29:45.920 --> 00:29:47.920
+Other people have to make saving throws.
+
+00:29:48.240 --> 00:29:49.920
+Is it wisdom saving throws?
+
+00:29:50.000 --> 00:29:50.640
+No, dexterity.
+
+00:29:50.880 --> 00:29:51.120
+Dex.
+
+00:29:51.360 --> 00:29:51.840
+Dexterity.
+
+00:29:52.160 --> 00:29:52.400
+Okay.
+
+00:29:53.039 --> 00:29:54.720
+31 points of damage.
+
+00:29:55.039 --> 00:29:55.360
+All right.
+
+00:29:55.440 --> 00:29:56.240
+So 15.
+
+00:29:56.559 --> 00:29:58.160
+Yeah, Balfina takes 31.
+
+00:29:59.120 --> 00:30:00.960
+DC 13, I believe.
+
+00:30:02.400 --> 00:30:02.720
+Okay.
+
+00:30:02.880 --> 00:30:04.480
+So how many points of damage?
+
+00:30:04.880 --> 00:30:06.240
+Actually, 31.12.
+
+00:30:06.640 --> 00:30:07.279
+DC 12.
+
+00:30:07.360 --> 00:30:08.400
+Sorry, take it back.
+
+00:30:09.039 --> 00:30:09.200
+Okay.
+
+00:30:09.279 --> 00:30:13.200
+So can I add my bless?
+
+00:30:14.240 --> 00:30:15.200
+Yes, you can.
+
+00:30:15.519 --> 00:30:17.120
+If you missed it, go ahead and add it.
+
+00:30:17.200 --> 00:30:17.360
+Yeah.
+
+00:30:17.600 --> 00:30:17.759
+Okay.
+
+00:30:18.160 --> 00:30:19.200
+You can definitely add it.
+
+00:30:19.519 --> 00:30:21.680
+Do we round up or down on the damage?
+
+00:30:22.000 --> 00:30:22.400
+That's not enough.
+
+00:30:22.960 --> 00:30:24.400
+You round down on damage.
+
+00:30:24.720 --> 00:30:24.880
+Okay.
+
+00:30:25.120 --> 00:30:25.680
+Thank you.
+
+00:30:26.000 --> 00:30:26.160
+Okay.
+
+00:30:26.559 --> 00:30:28.880
+Well, I had 10 plus two ones.
+
+00:30:29.120 --> 00:30:30.400
+What's the two ones from?
+
+00:30:31.360 --> 00:30:35.519
+One is from my thing and one is from the Varticans version.
+
+00:30:36.080 --> 00:30:36.960
+You made it.
+
+00:30:37.279 --> 00:30:38.160
+Oh, wow.
+
+00:30:39.680 --> 00:30:42.160
+You rolled one twice out of two out of 12.
+
+00:30:44.480 --> 00:30:47.519
+It's a one in 400 chance, but you nailed it.
+
+00:30:47.759 --> 00:30:49.200
+No, no, it's not one in 400 chance.
+
+00:30:49.279 --> 00:30:52.000
+It's one in 400.
+
+00:30:52.960 --> 00:30:54.720
+Is it D4 and plus a D8?
+
+00:30:55.039 --> 00:30:57.360
+Oh, it's not D20s.
+
+00:30:57.440 --> 00:30:58.000
+I'm sorry.
+
+00:30:58.320 --> 00:31:00.000
+Yeah, it's D820s.
+
+00:31:00.160 --> 00:31:00.400
+All right.
+
+00:31:00.559 --> 00:31:00.720
+Okay.
+
+00:31:01.039 --> 00:31:02.720
+So the Anchorite does that.
+
+00:31:03.039 --> 00:31:04.559
+Let's see if he does anything else.
+
+00:31:05.120 --> 00:31:06.079
+One in 32.
+
+00:31:08.240 --> 00:31:09.360
+Anything else?
+
+00:31:10.000 --> 00:31:11.920
+Well, yeah, I need to stack just because.
+
+00:31:15.890 --> 00:31:19.730
+Am I the only one thinking we're going to get a bit kit here?
+
+00:31:21.090 --> 00:31:21.970
+Yes, you are.
+
+00:31:22.130 --> 00:31:27.330
+Because you have forgotten all the things at our disposal.
+
+00:31:27.650 --> 00:31:28.850
+60 feet.
+
+00:31:29.410 --> 00:31:29.970
+All right.
+
+00:31:32.450 --> 00:31:32.610
+Okay.
+
+00:31:36.059 --> 00:31:36.380
+Okay.
+
+00:31:37.019 --> 00:31:38.059
+Ukran's up.
+
+00:31:38.299 --> 00:31:39.420
+Yes, Ukraden's up.
+
+00:31:39.900 --> 00:31:41.180
+Cradden is up.
+
+00:31:41.500 --> 00:31:42.059
+He is.
+
+00:31:42.380 --> 00:31:48.539
+And we will cost third-level old person on the two anchorites.
+
+00:31:49.500 --> 00:31:53.339
+Make two wisdom saves DC15.
+
+00:31:54.860 --> 00:31:56.460
+Let's see what this guy's saying with those.
+
+00:32:01.470 --> 00:32:01.710
+Okay.
+
+00:32:01.870 --> 00:32:02.990
+They're both paralyzed.
+
+00:32:03.150 --> 00:32:04.910
+They are both paralyzed.
+
+00:32:05.230 --> 00:32:06.270
+Awesome.
+
+00:32:07.870 --> 00:32:08.510
+All right.
+
+00:32:11.390 --> 00:32:16.510
+And then once I've done that, I will use my remaining movement to retreat.
+
+00:32:17.230 --> 00:32:17.550
+Okay.
+
+00:32:33.980 --> 00:32:34.940
+Twig four.
+
+00:32:37.180 --> 00:32:38.700
+The twigs are charging.
+
+00:32:40.890 --> 00:32:41.690
+Twig four.
+
+00:32:50.600 --> 00:32:52.600
+So the twig charges.
+
+00:32:54.890 --> 00:32:55.370
+All right.
+
+00:32:57.130 --> 00:33:01.370
+Next is Boney.
+
+00:33:02.890 --> 00:33:06.490
+Boney, can you go beat up Frozen Anchorite?
+
+00:33:06.810 --> 00:33:11.770
+One, I guess, let's say he can rush up to the frozen anchorite.
+
+00:33:11.850 --> 00:33:12.330
+I don't know if he can.
+
+00:33:12.570 --> 00:33:13.530
+He cannot attack.
+
+00:33:15.050 --> 00:33:16.650
+Yeah, I don't think he can attack.
+
+00:33:17.450 --> 00:33:19.050
+Scotland movement is 60.
+
+00:33:19.770 --> 00:33:20.410
+Does he?
+
+00:33:21.050 --> 00:33:21.850
+I think so.
+
+00:33:22.170 --> 00:33:23.850
+Yeah, so you shouldn't have to dash.
+
+00:33:24.410 --> 00:33:24.570
+Okay.
+
+00:33:26.250 --> 00:33:28.730
+Did he create a character sheet for this guy?
+
+00:33:29.690 --> 00:33:29.930
+No.
+
+00:33:30.650 --> 00:33:33.370
+He did, actually, but he hasn't shared it with me.
+
+00:33:34.010 --> 00:33:35.450
+I'll tell him to share it with me.
+
+00:33:35.690 --> 00:33:37.850
+Shall I pester him and say, share me the character sheet?
+
+00:33:37.930 --> 00:33:38.010
+Yes.
+
+00:33:38.330 --> 00:33:39.770
+No, he said he's going to sleep.
+
+00:33:40.090 --> 00:33:40.330
+Oh.
+
+00:33:41.610 --> 00:33:42.410
+Maybe he's awake.
+
+00:33:42.650 --> 00:33:52.730
+Maybe he wants to play DD, but he's like feeling guilty that if he does, we might all catch COVID because he was traumatized by the great COVID scare of 2035.
+
+00:33:53.050 --> 00:33:55.370
+Well, he said he was going to sleep, but I know.
+
+00:33:55.530 --> 00:33:55.690
+I know.
+
+00:33:56.250 --> 00:33:57.050
+I'm not going to text him.
+
+00:33:57.370 --> 00:33:58.250
+I'm being silly here.
+
+00:33:58.330 --> 00:33:58.570
+All right.
+
+00:34:16.410 --> 00:34:16.970
+All right.
+
+00:34:18.250 --> 00:34:18.570
+Yeah.
+
+00:34:18.890 --> 00:34:19.450
+D6.
+
+00:34:19.850 --> 00:34:20.170
+What is it?
+
+00:34:20.250 --> 00:34:21.210
+The long sword two-handed.
+
+00:34:21.290 --> 00:34:22.090
+That's what he attacks with.
+
+00:34:22.170 --> 00:34:23.370
+So let's see what we can.
+
+00:34:24.090 --> 00:34:24.410
+All right.
+
+00:34:24.810 --> 00:34:27.210
+What is two-handed attack with one sword?
+
+00:34:42.790 --> 00:34:43.750
+One D10.
+
+00:34:46.800 --> 00:34:49.039
+He strikes with a 1D10.
+
+00:34:50.960 --> 00:34:52.000
+Well, did you hit?
+
+00:34:52.639 --> 00:34:53.920
+Sorry, I should have rolled to hit.
+
+00:34:54.160 --> 00:34:55.119
+You got to roll to hit.
+
+00:34:55.519 --> 00:34:56.160
+He misses.
+
+00:34:56.639 --> 00:34:57.119
+He hits.
+
+00:34:57.840 --> 00:34:58.400
+He misses.
+
+00:34:58.880 --> 00:34:59.440
+He hits once.
+
+00:34:59.920 --> 00:35:01.200
+He should have advantage, right?
+
+00:35:01.360 --> 00:35:03.200
+Yes, I'm assuming that he has enough.
+
+00:35:03.360 --> 00:35:04.880
+He has more than a plus two to hit.
+
+00:35:05.920 --> 00:35:06.320
+All right.
+
+00:35:06.880 --> 00:35:08.079
+So auto crit.
+
+00:35:08.400 --> 00:35:10.400
+Yeah, so two points of damage.
+
+00:35:11.039 --> 00:35:12.720
+That's with auto-crit?
+
+00:35:12.960 --> 00:35:13.119
+Yeah.
+
+00:35:13.280 --> 00:35:14.800
+Well, I mean, I doubled it.
+
+00:35:14.960 --> 00:35:15.680
+I didn't roll twice.
+
+00:35:15.840 --> 00:35:17.200
+Five points of damage.
+
+00:35:17.519 --> 00:35:17.920
+All right.
+
+00:35:18.160 --> 00:35:21.280
+Five on the on anchorite two.
+
+00:35:22.320 --> 00:35:23.920
+All right, down to 46.
+
+00:35:25.200 --> 00:35:25.760
+All right.
+
+00:35:26.320 --> 00:35:28.160
+Twigs 10 and 11.
+
+00:35:29.280 --> 00:35:30.800
+It's 10, 11.
+
+00:35:37.829 --> 00:35:38.710
+Twig gun.
+
+00:35:46.469 --> 00:35:46.789
+Okay.
+
+00:35:48.629 --> 00:35:49.349
+Pruta?
+
+00:35:50.069 --> 00:35:50.869
+Pruta.
+
+00:35:52.469 --> 00:35:54.309
+He's, I guess, gonna go charge the anchorite.
+
+00:35:55.269 --> 00:35:58.230
+Yeah, he should definitely attack anchorite two.
+
+00:35:59.589 --> 00:35:59.909
+Okay.
+
+00:36:01.029 --> 00:36:01.750
+Anchorite two?
+
+00:36:02.549 --> 00:36:04.149
+That's a double move.
+
+00:36:04.469 --> 00:36:08.549
+Okay, well, he seems angry enough at them.
+
+00:36:08.629 --> 00:36:09.669
+That would be in character.
+
+00:36:09.989 --> 00:36:11.750
+Yes, he charges at them.
+
+00:36:12.069 --> 00:36:12.309
+Okay.
+
+00:36:14.069 --> 00:36:14.469
+Hold on.
+
+00:36:14.549 --> 00:36:16.069
+I think he may have a ranged weapon.
+
+00:36:16.230 --> 00:36:18.069
+He might actually throw his ranged weapon and walk.
+
+00:36:18.230 --> 00:36:20.469
+Yeah, he has a javelin, so he throws a javelin.
+
+00:36:22.149 --> 00:36:22.710
+Let me just see.
+
+00:36:22.869 --> 00:36:24.230
+Does he hit with the javelin?
+
+00:36:27.739 --> 00:36:28.139
+Five.
+
+00:36:29.419 --> 00:36:31.739
+Hits for me to do that twice.
+
+00:36:31.899 --> 00:36:34.219
+Oh, for double damage.
+
+00:36:35.819 --> 00:36:38.299
+Oh, but it's a melee attack, not a range attack, right?
+
+00:36:41.499 --> 00:36:43.739
+Yeah, but I mean, you rolled a 20 anyway.
+
+00:36:44.059 --> 00:36:44.859
+Yes, that is true.
+
+00:36:45.099 --> 00:36:47.259
+No, no, but I don't get advantage then.
+
+00:36:50.139 --> 00:36:52.379
+Don't think that's how it works.
+
+00:36:52.779 --> 00:36:53.819
+Have it over here.
+
+00:36:54.139 --> 00:36:55.099
+Conditions.
+
+00:36:55.419 --> 00:36:56.939
+I think it applies either way.
+
+00:36:57.419 --> 00:36:58.459
+I'm checking.
+
+00:37:02.489 --> 00:37:03.289
+Attack rolls.
+
+00:37:03.449 --> 00:37:04.809
+Attack rolls have advantage.
+
+00:37:05.049 --> 00:37:05.929
+All attack rolls.
+
+00:37:06.169 --> 00:37:07.129
+Yeah, all attack rolls.
+
+00:37:07.210 --> 00:37:07.369
+Okay.
+
+00:37:07.609 --> 00:37:09.609
+So, right, could be six plus three.
+
+00:37:09.849 --> 00:37:11.289
+11 points of damage.
+
+00:37:12.250 --> 00:37:13.449
+Okay, I got it.
+
+00:37:16.280 --> 00:37:20.039
+But it's not an auto, it's not an auto crit unless it's melee.
+
+00:37:20.360 --> 00:37:20.680
+All right.
+
+00:37:20.840 --> 00:37:21.000
+Okay.
+
+00:37:22.039 --> 00:37:24.120
+Ranged attacks don't have auto-crit.
+
+00:37:24.360 --> 00:37:25.320
+That's what I was remembering.
+
+00:37:25.480 --> 00:37:25.560
+Yeah.
+
+00:37:25.720 --> 00:37:27.400
+Ranged attacks don't have auto-crit.
+
+00:37:27.640 --> 00:37:27.800
+All right.
+
+00:37:27.880 --> 00:37:29.560
+So he kind of moves over there.
+
+00:37:29.880 --> 00:37:30.120
+Okay.
+
+00:37:30.600 --> 00:37:31.240
+Awesome.
+
+00:37:32.039 --> 00:37:32.519
+What's next?
+
+00:37:33.640 --> 00:37:34.360
+Twig three.
+
+00:37:35.240 --> 00:37:36.200
+Twig three.
+
+00:37:38.440 --> 00:37:39.960
+Well, twig three.
+
+00:37:44.049 --> 00:37:45.409
+Three shows up over here.
+
+00:37:45.649 --> 00:37:46.210
+All right.
+
+00:37:49.199 --> 00:37:49.839
+Next.
+
+00:37:52.429 --> 00:37:53.149
+Soma.
+
+00:37:53.710 --> 00:37:54.589
+Oh, Soma.
+
+00:37:54.909 --> 00:37:56.269
+Soma does her thing.
+
+00:37:56.589 --> 00:38:01.069
+Soma does her bear thing and goes and something.
+
+00:38:01.389 --> 00:38:02.589
+No, she doesn't do bear anymore.
+
+00:38:02.670 --> 00:38:03.069
+She does elk.
+
+00:38:05.149 --> 00:38:08.029
+Oh, don't do elks greater than bear.
+
+00:38:08.269 --> 00:38:08.509
+Yeah.
+
+00:38:09.549 --> 00:38:10.109
+She does.
+
+00:38:11.549 --> 00:38:12.670
+Soma elk.
+
+00:38:17.239 --> 00:38:19.239
+So she is now Soma Elk.
+
+00:38:20.519 --> 00:38:23.000
+And now I have to find out what a giant elk does.
+
+00:38:25.079 --> 00:38:27.159
+Charges a paralyzed anchorite.
+
+00:38:27.960 --> 00:38:31.079
+Well, yes, but I have to know how much damage it actually does, right?
+
+00:38:33.159 --> 00:38:34.279
+Giant elk.
+
+00:38:41.730 --> 00:38:41.969
+Okay.
+
+00:38:47.859 --> 00:38:49.139
+Attack roll d6.
+
+00:38:49.699 --> 00:38:50.259
+All right.
+
+00:38:50.899 --> 00:38:52.099
+Melee attack.
+
+00:38:58.209 --> 00:38:58.529
+Okay.
+
+00:38:58.769 --> 00:39:02.209
+So she charges at it.
+
+00:39:02.289 --> 00:39:03.169
+What's her movement rate?
+
+00:39:03.249 --> 00:39:03.809
+60 feet?
+
+00:39:03.969 --> 00:39:04.209
+Okay.
+
+00:39:04.689 --> 00:39:11.169
+So she goes, she goes over here, 10 feet, and she charges straight at it.
+
+00:39:11.489 --> 00:39:11.969
+All right.
+
+00:39:12.449 --> 00:39:15.089
+So because she charged, she does.
+
+00:39:19.489 --> 00:39:20.289
+She does.
+
+00:39:24.129 --> 00:39:25.249
+She's shoot 11.
+
+00:39:25.329 --> 00:39:26.449
+Oh, this is a melee, right?
+
+00:39:26.609 --> 00:39:27.009
+This is it.
+
+00:39:27.089 --> 00:39:28.289
+So I have to roll twice with it.
+
+00:39:28.369 --> 00:39:30.449
+It counts as melee, so it'll auto-crit, yeah.
+
+00:39:32.209 --> 00:39:33.009
+Do d20.
+
+00:39:33.089 --> 00:39:33.329
+Let's see.
+
+00:39:33.409 --> 00:39:34.049
+Do I need to check?
+
+00:39:34.129 --> 00:39:34.929
+Okay, she hits.
+
+00:39:35.249 --> 00:39:36.369
+So it does.
+
+00:39:45.279 --> 00:39:45.679
+All right.
+
+00:39:46.239 --> 00:39:47.519
+It's a lot of damage here.
+
+00:39:48.159 --> 00:39:50.719
+So 2d6.
+
+00:39:51.119 --> 00:39:52.079
+More than 35.
+
+00:39:52.399 --> 00:39:53.999
+4d6 plus 4.
+
+00:39:54.639 --> 00:39:54.879
+Nice.
+
+00:39:55.519 --> 00:39:56.159
+44.
+
+00:39:56.319 --> 00:39:57.359
+No, that's 2d4.
+
+00:39:57.439 --> 00:39:59.679
+That's not Patrick's Radiant damage.
+
+00:40:00.319 --> 00:40:01.999
+And then there's one more thing.
+
+00:40:09.420 --> 00:40:10.779
+That's the attack notes that those are.
+
+00:40:11.019 --> 00:40:14.219
+This is not part of the attack, so it takes another 2d4.
+
+00:40:14.779 --> 00:40:15.579
+You want me to roll it?
+
+00:40:15.659 --> 00:40:16.139
+4d6?
+
+00:40:16.940 --> 00:40:20.779
+I think I so it's sorry 4d6.
+
+00:40:21.019 --> 00:40:21.339
+I got it.
+
+00:40:21.420 --> 00:40:24.460
+4d6 plus 3 plus 4d4.
+
+00:40:26.059 --> 00:40:27.179
+25 points of damage.
+
+00:40:27.420 --> 00:40:30.779
+25 down to 10 hit points.
+
+00:40:32.619 --> 00:40:33.179
+Who's next?
+
+00:40:33.739 --> 00:40:35.819
+Belfina, you want to finish it off?
+
+00:40:38.940 --> 00:40:42.619
+I'm going to move as far as I can.
+
+00:40:44.460 --> 00:40:44.779
+And
+
+00:40:47.309 --> 00:40:48.749
+just, I think, here.
+
+00:40:49.709 --> 00:40:52.669
+And then is that right?
+
+00:40:57.699 --> 00:40:59.779
+Yeah, I can't make it any further to the right.
+
+00:41:00.019 --> 00:41:00.339
+Okay.
+
+00:41:01.699 --> 00:41:03.219
+And spirit grades.
+
+00:41:05.059 --> 00:41:06.179
+Excellent.
+
+00:41:10.649 --> 00:41:11.529
+What's the range on that?
+
+00:41:11.609 --> 00:41:12.489
+20 feet?
+
+00:41:13.129 --> 00:41:14.729
+15-foot radius.
+
+00:41:15.049 --> 00:41:15.529
+15.
+
+00:41:15.689 --> 00:41:15.929
+All right.
+
+00:41:16.009 --> 00:41:17.689
+So you get the two twigs.
+
+00:41:18.329 --> 00:41:18.569
+Yeah.
+
+00:41:20.489 --> 00:41:21.049
+Nice.
+
+00:41:23.049 --> 00:41:26.809
+And it looks like they're dead, even if they made their saving throws.
+
+00:41:32.980 --> 00:41:34.980
+So that, which twigs are those?
+
+00:41:35.299 --> 00:41:35.619
+Yeah.
+
+00:41:36.579 --> 00:41:37.699
+Perfect.
+
+00:41:38.659 --> 00:41:38.980
+Okay.
+
+00:41:39.139 --> 00:41:39.859
+Who's next?
+
+00:41:40.179 --> 00:41:41.379
+Which ones were those?
+
+00:41:46.369 --> 00:41:47.489
+One, it's one, two.
+
+00:41:49.009 --> 00:41:49.730
+Let me just see.
+
+00:41:50.369 --> 00:41:52.289
+Three was three is one of them.
+
+00:41:55.140 --> 00:41:57.700
+This is the ones with the highest initiative.
+
+00:41:58.019 --> 00:41:58.260
+Yeah.
+
+00:42:01.410 --> 00:42:02.369
+Just remove
+
+00:42:08.180 --> 00:42:09.940
+three is definitely one of them.
+
+00:42:11.510 --> 00:42:11.990
+Three.
+
+00:42:12.150 --> 00:42:12.390
+Okay.
+
+00:42:12.630 --> 00:42:12.950
+Yeah.
+
+00:42:13.910 --> 00:42:14.550
+And 12.
+
+00:42:14.630 --> 00:42:15.590
+Oh, 12's not gone.
+
+00:42:15.910 --> 00:42:16.870
+Three and twelve.
+
+00:42:17.830 --> 00:42:21.270
+No, three and
+
+00:42:27.000 --> 00:42:28.120
+maybe I could get them back on the board.
+
+00:42:28.280 --> 00:42:29.240
+Yes, three and four.
+
+00:42:29.400 --> 00:42:29.720
+There you go.
+
+00:42:30.200 --> 00:42:30.520
+Four.
+
+00:42:30.760 --> 00:42:31.000
+Okay.
+
+00:42:31.480 --> 00:42:31.800
+Okay.
+
+00:42:35.480 --> 00:42:35.960
+Nice.
+
+00:42:36.200 --> 00:42:38.120
+I set their points to zero, but.
+
+00:42:41.639 --> 00:42:43.000
+All right, who's up next?
+
+00:42:43.880 --> 00:42:49.800
+I think right one gets a saving throw to free himself.
+
+00:42:53.079 --> 00:42:54.920
+BC15 now, if I remember correctly.
+
+00:42:55.079 --> 00:42:55.240
+Yep.
+
+00:42:55.639 --> 00:42:56.360
+And he blows it again.
+
+00:42:56.680 --> 00:42:58.360
+He blows it and he is still held.
+
+00:42:58.680 --> 00:42:59.880
+No, why is she over here?
+
+00:42:59.960 --> 00:43:01.400
+She should still be over here.
+
+00:43:03.960 --> 00:43:07.000
+So I'm going to go into rage.
+
+00:43:07.559 --> 00:43:08.039
+Nice.
+
+00:43:10.440 --> 00:43:18.680
+I'm going to move within the range for me to throw my elemental cleaver.
+
+00:43:19.559 --> 00:43:19.960
+Whoa.
+
+00:43:20.519 --> 00:43:20.840
+What is that?
+
+00:43:21.400 --> 00:43:21.559
+Here?
+
+00:43:22.599 --> 00:43:24.280
+Is that a new ability of yours?
+
+00:43:24.599 --> 00:43:25.400
+Whoa, I don't know.
+
+00:43:25.480 --> 00:43:27.240
+It's on my character sheet.
+
+00:43:27.880 --> 00:43:28.280
+Nice.
+
+00:43:29.880 --> 00:43:30.280
+All right.
+
+00:43:32.360 --> 00:43:39.000
+I can throw my end axe with a 1d6 damage bonus.
+
+00:43:39.639 --> 00:43:44.119
+And if I miss or if it hits, it reappears magically to my hand.
+
+00:43:46.280 --> 00:43:46.920
+Nice.
+
+00:43:48.360 --> 00:43:48.840
+What is this?
+
+00:43:49.639 --> 00:43:50.840
+Sorry, that's just the sorry.
+
+00:43:51.000 --> 00:43:51.320
+I messed up.
+
+00:43:51.559 --> 00:43:52.680
+You have advantage on the extra.
+
+00:43:53.320 --> 00:43:54.599
+That's just the extra damage.
+
+00:43:54.840 --> 00:43:55.559
+I have advantage.
+
+00:43:55.720 --> 00:43:55.880
+Okay.
+
+00:43:56.039 --> 00:43:56.840
+How do I remember that?
+
+00:43:57.240 --> 00:43:58.360
+It's shift, yes.
+
+00:43:58.519 --> 00:43:59.079
+Yeah, hold shift.
+
+00:43:59.960 --> 00:44:01.960
+It's the end hacks.
+
+00:44:02.840 --> 00:44:03.240
+What the?
+
+00:44:03.720 --> 00:44:04.039
+Okay.
+
+00:44:05.000 --> 00:44:07.480
+Why did you roll two d20s?
+
+00:44:08.680 --> 00:44:12.039
+Okay, so you hit with and did 10 damage?
+
+00:44:13.000 --> 00:44:14.920
+Plus the yeah, 8 plus 2.
+
+00:44:15.000 --> 00:44:15.639
+That's 10.
+
+00:44:15.720 --> 00:44:18.440
+Plus, does this have the rage damage?
+
+00:44:18.599 --> 00:44:19.079
+No, right?
+
+00:44:19.320 --> 00:44:20.920
+No, but we only needed 10 damage.
+
+00:44:21.079 --> 00:44:21.640
+He's dead.
+
+00:44:21.880 --> 00:44:22.039
+Okay.
+
+00:44:22.280 --> 00:44:22.440
+Okay.
+
+00:44:22.680 --> 00:44:23.720
+Good job.
+
+00:44:25.960 --> 00:44:26.440
+Dead.
+
+00:44:26.680 --> 00:44:29.079
+Wow, this elemental cleaver is pretty good.
+
+00:44:29.960 --> 00:44:30.280
+All right.
+
+00:44:30.440 --> 00:44:34.360
+So you've got twigs six, five, seven, two, nine, and eight.
+
+00:44:35.880 --> 00:44:36.360
+What is it?
+
+00:44:36.599 --> 00:44:37.079
+Six.
+
+00:44:37.880 --> 00:44:40.119
+Six, five, seven, two, nine, eight.
+
+00:44:43.079 --> 00:44:44.760
+We'll attack Soma.
+
+00:44:45.640 --> 00:44:47.480
+She's about the only thing they can attack.
+
+00:44:47.800 --> 00:44:50.200
+Ooh, and what's their armor cost?
+
+00:44:51.640 --> 00:44:52.440
+17.
+
+00:44:53.720 --> 00:44:54.280
+No, no.
+
+00:44:54.680 --> 00:44:55.159
+That's a hit.
+
+00:44:56.680 --> 00:45:04.519
+If you want to teleport next to Soma, you can do that now, too.
+
+00:45:05.480 --> 00:45:05.960
+I can.
+
+00:45:06.599 --> 00:45:06.920
+Okay.
+
+00:45:07.480 --> 00:45:07.800
+Why?
+
+00:45:08.440 --> 00:45:09.559
+To block a hit.
+
+00:45:10.760 --> 00:45:11.960
+I mean, how can I teleport?
+
+00:45:12.360 --> 00:45:15.480
+Because that's what the clerics of peace can do.
+
+00:45:15.800 --> 00:45:16.360
+Ah, okay.
+
+00:45:16.599 --> 00:45:18.039
+He's teleporting you.
+
+00:45:18.680 --> 00:45:19.400
+Yeah, sure.
+
+00:45:23.480 --> 00:45:26.519
+Okay, so I guess you teleport.
+
+00:45:26.680 --> 00:45:28.440
+I don't know where you can teleport to, though.
+
+00:45:28.519 --> 00:45:30.440
+There's no place for you to teleport.
+
+00:45:31.079 --> 00:45:35.159
+To teleport to an unoccupied space within five feet of the creature.
+
+00:45:35.480 --> 00:45:35.800
+Yeah.
+
+00:45:36.760 --> 00:45:38.760
+Of the creature defending, that would be over here.
+
+00:45:39.240 --> 00:45:40.119
+Creature defending.
+
+00:45:40.519 --> 00:45:44.519
+Yeah, the creature attacking couldn't hit Brewberry from there.
+
+00:45:46.039 --> 00:45:46.920
+What if I come here?
+
+00:45:47.240 --> 00:45:48.360
+It didn't say.
+
+00:45:49.400 --> 00:45:50.039
+Dude.
+
+00:45:51.320 --> 00:45:52.119
+I'm sorry, man.
+
+00:45:53.159 --> 00:45:54.920
+There has to be some physics here, right?
+
+00:45:55.559 --> 00:45:56.119
+Okay, sure.
+
+00:45:56.680 --> 00:45:57.079
+All right.
+
+00:45:57.400 --> 00:45:58.680
+So I just like to get a little bit of a damage.
+
+00:45:59.000 --> 00:46:01.960
+What if I teleport on top of the skeletal holes?
+
+00:46:02.200 --> 00:46:02.920
+That'd be cool.
+
+00:46:03.079 --> 00:46:03.240
+No.
+
+00:46:03.640 --> 00:46:03.800
+No.
+
+00:46:04.440 --> 00:46:05.960
+Onto the horse, like you're riding it.
+
+00:46:06.119 --> 00:46:06.680
+Yeah, onto the.
+
+00:46:06.840 --> 00:46:07.079
+Yeah, exactly.
+
+00:46:07.159 --> 00:46:08.760
+No, dude, you might like, hold on.
+
+00:46:09.000 --> 00:46:11.079
+Just be they're going to attack from other angles.
+
+00:46:11.240 --> 00:46:12.280
+There will be other opportunities.
+
+00:46:12.360 --> 00:46:14.440
+This particular attack didn't work out.
+
+00:46:16.039 --> 00:46:18.599
+It's just like, okay, that's a mess.
+
+00:46:19.159 --> 00:46:20.840
+So that's five.
+
+00:46:24.519 --> 00:46:25.000
+Five.
+
+00:46:25.159 --> 00:46:28.760
+This is seven.
+
+00:46:33.369 --> 00:46:33.929
+Seven.
+
+00:46:36.339 --> 00:46:36.900
+Seven.
+
+00:46:37.219 --> 00:46:39.699
+This is two do.
+
+00:46:48.130 --> 00:46:49.970
+How much damage do they do?
+
+00:46:50.290 --> 00:46:51.010
+They do very little.
+
+00:46:51.170 --> 00:46:53.010
+They do three points of damage.
+
+00:46:53.330 --> 00:46:53.730
+Right.
+
+00:46:54.050 --> 00:46:55.890
+I'm not going to worry too much about it, though.
+
+00:46:56.130 --> 00:46:56.530
+Nine.
+
+00:47:02.360 --> 00:47:02.920
+Nine.
+
+00:47:07.150 --> 00:47:07.790
+Eight.
+
+00:47:09.710 --> 00:47:19.870
+By Reathus, literally, it implies that the attack has to hit and be doing damage to actually trigger.
+
+00:47:20.190 --> 00:47:21.150
+Ah, okay.
+
+00:47:22.750 --> 00:47:23.310
+All right.
+
+00:47:25.070 --> 00:47:26.190
+Okie dokie.
+
+00:47:26.430 --> 00:47:26.830
+Oh, wow.
+
+00:47:26.990 --> 00:47:28.270
+That's cool.
+
+00:47:28.910 --> 00:47:29.470
+All right.
+
+00:47:34.099 --> 00:47:35.619
+You take all the damage,
+
+00:47:37.590 --> 00:47:40.150
+which is good for rage with damage reduction.
+
+00:47:40.470 --> 00:47:40.789
+Yeah.
+
+00:47:53.820 --> 00:47:54.140
+Okay.
+
+00:47:55.659 --> 00:47:56.059
+All right.
+
+00:47:59.029 --> 00:47:59.349
+Okay.
+
+00:48:01.620 --> 00:48:03.700
+All right, so did anybody take damage?
+
+00:48:04.019 --> 00:48:04.340
+No.
+
+00:48:05.140 --> 00:48:07.300
+Soma took two points of damage.
+
+00:48:07.620 --> 00:48:10.740
+Which then went to Brewberry instead?
+
+00:48:10.980 --> 00:48:15.780
+No, because there was no way for Brewberry to teleport in such a way that the other creature could hit him.
+
+00:48:16.260 --> 00:48:17.700
+That's not what it says, though.
+
+00:48:21.610 --> 00:48:21.770
+Okay.
+
+00:48:21.930 --> 00:48:25.210
+And unoccupied of the fire.
+
+00:48:25.770 --> 00:48:29.050
+So the problem is the only places he can appear is there and there.
+
+00:48:29.370 --> 00:48:29.930
+And there.
+
+00:48:30.250 --> 00:48:33.210
+This guy cannot physically attack those creatures.
+
+00:48:33.850 --> 00:48:38.890
+So the ruling I'm saying is that, yes, the attack can go to the guy if the other guy can actually attack the other one.
+
+00:48:39.930 --> 00:48:41.290
+Okay, you're modifying the rule.
+
+00:48:41.610 --> 00:48:41.930
+Okay.
+
+00:48:42.890 --> 00:48:43.450
+All right.
+
+00:48:44.650 --> 00:48:46.410
+So three on Soma.
+
+00:48:47.690 --> 00:48:51.530
+It's like using a bonus action to get a free 30 front move.
+
+00:48:51.610 --> 00:48:55.930
+So it's kind of so Soma's at 48.
+
+00:48:57.530 --> 00:48:57.770
+Yeah.
+
+00:48:58.010 --> 00:48:58.250
+Okay.
+
+00:48:58.970 --> 00:49:00.410
+Twigs one and 12.
+
+00:49:01.050 --> 00:49:02.970
+Twigs one and twelve.
+
+00:49:05.530 --> 00:49:06.170
+All right.
+
+00:49:06.410 --> 00:49:07.610
+Comes this way.
+
+00:49:08.170 --> 00:49:13.770
+And Tig 12 just attacks Soma.
+
+00:49:13.850 --> 00:49:17.450
+But this is when you can use your thing if the creature attacks.
+
+00:49:18.410 --> 00:49:19.610
+So misses.
+
+00:49:19.770 --> 00:49:23.690
+But if it had hit, you could have used your teleportation and it would have hit Brewberry.
+
+00:49:24.730 --> 00:49:24.970
+Okay.
+
+00:49:25.130 --> 00:49:27.130
+Should we move Brewberry back where he was originally?
+
+00:49:27.450 --> 00:49:27.610
+Yes.
+
+00:49:27.770 --> 00:49:28.330
+No, he's good.
+
+00:49:28.410 --> 00:49:29.130
+No, leave him there.
+
+00:49:31.370 --> 00:49:32.010
+Well, he wasn't there.
+
+00:49:32.490 --> 00:49:35.690
+That was a teleportation that didn't happen.
+
+00:49:36.890 --> 00:49:37.210
+Yes.
+
+00:49:37.370 --> 00:49:37.770
+All right.
+
+00:49:38.810 --> 00:49:39.290
+All right.
+
+00:49:39.930 --> 00:49:42.010
+This was when we were fussing around with teleportations.
+
+00:49:42.170 --> 00:49:42.730
+All right.
+
+00:49:43.530 --> 00:49:44.970
+Twig number one.
+
+00:49:45.930 --> 00:49:47.370
+Well, since attacking.
+
+00:49:49.900 --> 00:49:51.179
+No, he doesn't like the spirit card.
+
+00:49:51.900 --> 00:49:54.539
+No, funny you should mention that, right?
+
+00:49:58.780 --> 00:49:59.659
+12 attacks.
+
+00:49:59.820 --> 00:50:00.539
+Soma
+
+00:50:02.530 --> 00:50:03.010
+misses.
+
+00:50:03.170 --> 00:50:03.570
+All right.
+
+00:50:04.450 --> 00:50:05.250
+Vukradin.
+
+00:50:09.120 --> 00:50:10.400
+Vukradin, you're up.
+
+00:50:10.640 --> 00:50:11.520
+Yeah, I'm up.
+
+00:50:11.760 --> 00:50:13.120
+I don't even know what to do.
+
+00:50:15.760 --> 00:50:20.800
+I guess I will not stack up on the line.
+
+00:50:23.040 --> 00:50:27.360
+Yes, I will starry wisp the other anchorite at 60 feet.
+
+00:50:30.730 --> 00:51:21.490
+I need to get 10 feet closer.
+I need to get another five feet closer.
+Where am I going to go?
+I'm going to have to go here.
+Now I've used 20 feet of movement.
+So then I can starry wisp him, which is plus seven to hit.
+That's 25.
+Plus, I would have had advantage anyway.
+And how much damage do I do?
+14 damage on Anchorite.
+He is hit for 14.
+Okay.
+
+00:51:21.490 --> 00:51:21.810
+Okay.
+
+00:51:21.970 --> 00:51:23.410
+And do I have any movement left?
+
+00:51:23.490 --> 00:51:24.130
+What's my movement?
+
+00:51:24.290 --> 00:51:24.930
+30.
+
+00:51:25.570 --> 00:51:26.690
+I've used 25.
+
+00:51:26.850 --> 00:51:28.130
+I guess I'll move there.
+
+00:51:31.730 --> 00:51:34.130
+And Twig 4 is up.
+
+00:51:34.450 --> 00:51:35.570
+Twig 4.
+
+00:51:37.170 --> 00:51:38.370
+Where is Twig 4?
+
+00:51:38.530 --> 00:51:40.690
+No, Twig 4 was one of the ones that died.
+
+00:51:41.970 --> 00:51:42.530
+Yep.
+
+00:51:42.770 --> 00:51:44.610
+I'm going to delete him this time.
+
+00:51:45.410 --> 00:51:46.610
+Boney is up.
+
+00:51:46.930 --> 00:51:47.410
+Boney.
+
+00:51:48.290 --> 00:51:49.970
+Boney attacks Twig 1.
+
+00:51:53.380 --> 00:51:53.700
+Boney.
+
+00:51:54.580 --> 00:51:55.300
+It's the Twig.
+
+00:51:56.340 --> 00:51:56.580
+Yeah.
+
+00:52:04.950 --> 00:52:07.270
+Does 8 points of damage and kills the Twig.
+
+00:52:07.590 --> 00:52:08.390
+Which one?
+
+00:52:09.670 --> 00:52:09.910
+One.
+
+00:52:10.150 --> 00:52:10.950
+Twig 1?
+
+00:52:11.270 --> 00:52:11.750
+Yes.
+
+00:52:12.070 --> 00:52:12.550
+All right.
+
+00:52:13.910 --> 00:52:15.510
+Twigs 10 and 11.
+
+00:52:15.830 --> 00:52:16.310
+Yep.
+
+00:52:21.420 --> 00:52:23.660
+11's really hanging out there in the back.
+
+00:52:24.300 --> 00:52:24.860
+Yeah, I know.
+
+00:52:35.930 --> 00:52:36.250
+Twig.
+
+00:52:36.570 --> 00:52:37.770
+Okay, then 11.
+
+00:52:41.060 --> 00:52:42.820
+I don't know why we forgot him last time.
+
+00:52:42.980 --> 00:52:44.100
+It doesn't matter.
+
+00:52:55.320 --> 00:52:55.800
+40.
+
+00:52:56.039 --> 00:52:57.000
+We don't do that last time.
+
+00:52:57.159 --> 00:52:57.559
+I don't know.
+
+00:52:57.720 --> 00:52:58.119
+Not important.
+
+00:52:58.760 --> 00:52:59.159
+Right.
+
+00:53:00.200 --> 00:53:00.680
+40.
+
+00:53:00.840 --> 00:53:01.639
+All right, 40 feet.
+
+00:53:01.720 --> 00:53:02.360
+He runs over there.
+
+00:53:02.599 --> 00:53:02.920
+Okay.
+
+00:53:05.449 --> 00:53:06.889
+Only we had Lightning Bolt.
+
+00:53:07.449 --> 00:53:08.649
+Prutha the Orc.
+
+00:53:08.889 --> 00:53:10.009
+Prutha the Orc.
+
+00:53:10.569 --> 00:53:12.409
+Want to go fight that Anchorite, Prutha?
+
+00:53:13.049 --> 00:53:17.049
+Well, he'd have to go through the Twig Blight, but yes, he will go through the Twigs.
+
+00:53:17.130 --> 00:53:19.049
+He charges there, I presume.
+
+00:53:19.690 --> 00:53:20.730
+That seems pretty good.
+
+00:53:21.049 --> 00:53:21.369
+All right.
+
+00:53:21.529 --> 00:53:21.769
+All right.
+
+00:53:21.929 --> 00:53:23.369
+He rolls to hit.
+
+00:53:33.000 --> 00:53:34.599
+And kills a twig.
+
+00:53:35.880 --> 00:53:36.679
+Twig two.
+
+00:53:38.360 --> 00:53:39.079
+I might keep doing it.
+
+00:53:39.159 --> 00:53:40.199
+Twig two, yes.
+
+00:53:40.759 --> 00:53:41.079
+Okay.
+
+00:53:42.360 --> 00:53:43.000
+All right.
+
+00:53:44.599 --> 00:53:45.079
+Soma.
+
+00:53:45.559 --> 00:53:46.279
+Soma.
+
+00:53:50.519 --> 00:53:53.000
+Okay, so now she's sort of surrounded by all these creatures.
+
+00:53:53.239 --> 00:53:58.920
+When you kill the twigs on the left, kill twigs on the left, and Belfina can go to the right.
+
+00:53:59.799 --> 00:54:02.279
+I'm going to use my spirit guardians and kill all of them.
+
+00:54:02.599 --> 00:54:05.319
+Are you going to be able to have enough movement to hit all of them?
+
+00:54:05.960 --> 00:54:07.559
+I can do double move.
+
+00:54:08.199 --> 00:54:08.839
+Oh, yeah.
+
+00:54:09.079 --> 00:54:09.639
+Right.
+
+00:54:10.599 --> 00:54:12.599
+So soon they will all be dead.
+
+00:54:14.360 --> 00:54:15.000
+Right.
+
+00:54:17.960 --> 00:54:18.199
+Okay.
+
+00:54:18.679 --> 00:54:22.759
+So she only gets one attack, but it's a big one.
+
+00:54:26.440 --> 00:54:26.759
+All right.
+
+00:54:27.000 --> 00:54:28.599
+She hits, she kills.
+
+00:54:29.880 --> 00:54:30.599
+Which one?
+
+00:54:31.639 --> 00:54:33.400
+I have to first roll to see if she hit.
+
+00:54:35.210 --> 00:54:36.329
+She killed one.
+
+00:54:39.000 --> 00:54:39.720
+Number 11?
+
+00:54:40.119 --> 00:54:40.920
+Number one, I think.
+
+00:54:41.000 --> 00:54:41.400
+Number one.
+
+00:54:41.720 --> 00:54:42.280
+Number one.
+
+00:54:43.079 --> 00:54:44.039
+There is no number one.
+
+00:54:44.200 --> 00:54:45.160
+One's dead.
+
+00:54:45.800 --> 00:54:46.599
+Number 11.
+
+00:54:46.840 --> 00:54:48.119
+No, number 12.
+
+00:54:48.760 --> 00:54:49.880
+Number 12.
+
+00:54:51.690 --> 00:54:51.930
+All right.
+
+00:54:52.090 --> 00:54:53.930
+Velfina, you want to kill the rest?
+
+00:54:54.570 --> 00:54:55.050
+All right.
+
+00:54:55.370 --> 00:54:57.050
+So 15.
+
+00:54:57.370 --> 00:54:59.610
+Assuming you do roll enough damage.
+
+00:55:00.810 --> 00:55:03.690
+I mean, nominally, you only have to do like four points of damage.
+
+00:55:03.770 --> 00:55:07.930
+So could you roll damage so we can like do nine to automatically kill them
+
+00:55:09.920 --> 00:55:11.600
+or eight eight or nine?
+
+00:55:12.240 --> 00:55:12.720
+That's fair.
+
+00:55:12.880 --> 00:55:13.840
+Eight or nine.
+
+00:55:19.090 --> 00:55:20.130
+Apparently, you did not.
+
+00:55:20.450 --> 00:55:21.650
+Minimum damage.
+
+00:55:22.290 --> 00:55:25.090
+Classic, classic clutch move there.
+
+00:55:25.250 --> 00:55:26.930
+Now we get to roll save.
+
+00:55:27.810 --> 00:55:29.890
+Yeah, he rolled eight.
+
+00:55:29.970 --> 00:55:31.170
+Number one, eight.
+
+00:55:31.410 --> 00:55:32.690
+Jesus Christ, dude.
+
+00:55:32.850 --> 00:55:33.250
+He's down.
+
+00:55:34.850 --> 00:55:35.170
+He's down.
+
+00:55:36.850 --> 00:55:37.970
+So number eight.
+
+00:55:38.530 --> 00:55:38.930
+That's why.
+
+00:55:39.650 --> 00:55:40.130
+Yep.
+
+00:55:40.770 --> 00:55:41.090
+Okay.
+
+00:55:41.730 --> 00:55:50.610
+So then that's 20 feet of movement, 25, 30.
+
+00:55:53.000 --> 00:55:57.320
+So then 11, 5, and 6 have to roll saving throws.
+
+00:56:01.089 --> 00:56:02.049
+What's your saving?
+
+00:56:02.129 --> 00:56:03.250
+What's your save, DC?
+
+00:56:04.929 --> 00:56:06.529
+Yeah, good question.
+
+00:56:07.089 --> 00:56:08.210
+They all saved.
+
+00:56:11.009 --> 00:56:13.089
+No, I mean, two of them saved.
+
+00:56:14.369 --> 00:56:14.929
+15.
+
+00:56:15.489 --> 00:56:16.689
+All right, two of them saved.
+
+00:56:17.169 --> 00:56:18.529
+So 11 and 5 saved.
+
+00:56:18.609 --> 00:56:19.969
+6 is dead.
+
+00:56:20.609 --> 00:56:20.929
+Okay.
+
+00:56:23.089 --> 00:56:26.849
+So then I'll come this way.
+
+00:56:27.809 --> 00:56:28.689
+20.
+
+00:56:33.719 --> 00:56:34.599
+25.
+
+00:56:38.029 --> 00:56:38.829
+Okay, they all died.
+
+00:56:39.070 --> 00:56:39.630
+They all died.
+
+00:56:40.429 --> 00:56:42.590
+Dude, if you got them, they all died.
+
+00:56:42.750 --> 00:56:43.550
+Yeah, those ones died.
+
+00:56:43.710 --> 00:56:44.829
+So three are left.
+
+00:56:45.150 --> 00:56:46.269
+Three are left.
+
+00:56:46.590 --> 00:56:46.989
+All right.
+
+00:56:47.630 --> 00:56:48.190
+Brewberry.
+
+00:56:48.909 --> 00:56:52.429
+Brewberry now does not have a direct line to the anchorite.
+
+00:56:53.389 --> 00:56:55.630
+No, but I do have a.
+
+00:56:56.190 --> 00:56:57.550
+And again, blows are saving throw.
+
+00:56:57.949 --> 00:57:00.110
+These saving throws are not very good with the anchor.
+
+00:57:00.429 --> 00:57:01.949
+No, they're not good with the wisdom saves.
+
+00:57:02.349 --> 00:57:04.429
+Let me just make sure I didn't screw this one in.
+
+00:57:04.989 --> 00:57:05.309
+Nope.
+
+00:57:05.469 --> 00:57:06.110
+They did here.
+
+00:57:06.349 --> 00:57:08.989
+Definitely not very good with the whole saving throws.
+
+00:57:09.309 --> 00:57:09.630
+Yeah.
+
+00:57:09.949 --> 00:57:10.349
+Right.
+
+00:57:11.309 --> 00:57:13.949
+Old person is a very powerful spell.
+
+00:57:14.509 --> 00:57:15.550
+Yes, it is.
+
+00:57:17.859 --> 00:57:18.419
+All right.
+
+00:57:19.379 --> 00:57:20.739
+Brewberry, you're up.
+
+00:57:22.609 --> 00:57:26.529
+Yeah, I'm wondering where I can move to do some damage.
+
+00:57:28.129 --> 00:57:31.809
+There's a twig on the right there, and there are two twigs straight in front of you.
+
+00:57:32.129 --> 00:57:33.809
+For the ones that you can at least.
+
+00:57:34.369 --> 00:57:37.889
+I'm in large foam, so I can't really fit in that space, can I?
+
+00:57:38.769 --> 00:57:39.089
+Let's see.
+
+00:57:40.049 --> 00:57:42.529
+But you also have an extra reach, right?
+
+00:57:43.329 --> 00:57:43.649
+Yeah.
+
+00:57:44.129 --> 00:57:46.289
+I'm in the only place where I could fit is here.
+
+00:57:46.529 --> 00:57:48.049
+Don't you have a 20-foot reach?
+
+00:57:48.849 --> 00:57:49.969
+15 or you have range.
+
+00:57:51.729 --> 00:57:52.049
+Yeah.
+
+00:57:52.289 --> 00:57:53.489
+Yeah, I can cleave them.
+
+00:57:53.729 --> 00:57:54.449
+Probably.
+
+00:57:55.409 --> 00:57:57.089
+Okay, so let's do that.
+
+00:57:58.849 --> 00:57:59.329
+Over here.
+
+00:58:04.320 --> 00:58:06.080
+And they are within range.
+
+00:58:06.400 --> 00:58:06.640
+Okay.
+
+00:58:07.280 --> 00:58:09.840
+So I still have my elemental cleaver.
+
+00:58:09.920 --> 00:58:10.800
+I don't have to throw it.
+
+00:58:11.039 --> 00:58:12.560
+I can just hit with it.
+
+00:58:12.880 --> 00:58:15.600
+And it does acid damage.
+
+00:58:15.840 --> 00:58:17.600
+It's extra damage.
+
+00:58:17.920 --> 00:58:20.160
+So let me roll my first attack.
+
+00:58:20.640 --> 00:58:22.480
+Ooh, that's bad.
+
+00:58:24.720 --> 00:58:26.000
+That's horrible.
+
+00:58:27.519 --> 00:58:27.920
+Hang on.
+
+00:58:28.080 --> 00:58:28.880
+Hang on.
+
+00:58:29.200 --> 00:58:30.720
+Barticon's pressure.
+
+00:58:31.360 --> 00:58:32.160
+And plus.
+
+00:58:33.200 --> 00:58:35.120
+Yeah, add a d4.
+
+00:58:35.200 --> 00:58:36.960
+And if that's not enough, add a d8.
+
+00:58:37.840 --> 00:58:38.480
+So three.
+
+00:58:39.440 --> 00:58:40.720
+Let me roll d4.
+
+00:58:43.920 --> 00:58:44.240
+Okay.
+
+00:58:44.640 --> 00:58:45.039
+Now add a test.
+
+00:58:45.280 --> 00:58:46.560
+Jesus Christ.
+
+00:58:47.200 --> 00:58:48.000
+And a d8.
+
+00:58:49.760 --> 00:58:51.280
+See, it worked.
+
+00:58:52.160 --> 00:58:52.640
+So did you.
+
+00:58:52.880 --> 00:58:53.760
+So it's eight.
+
+00:58:54.080 --> 00:58:54.720
+Eight plus.
+
+00:58:55.039 --> 00:58:56.240
+No, that was 10.
+
+00:58:56.480 --> 00:58:58.720
+I rolled a 10, right, on the attack.
+
+00:58:59.360 --> 00:58:59.920
+7, 19.
+
+00:59:00.240 --> 00:59:00.720
+Yes.
+
+00:59:01.280 --> 00:59:02.480
+1119.
+
+00:59:02.560 --> 00:59:02.640
+Yes.
+
+00:59:03.039 --> 00:59:03.840
+19 to hit.
+
+00:59:03.920 --> 00:59:04.320
+You hit.
+
+00:59:04.560 --> 00:59:05.600
+So that hits.
+
+00:59:06.800 --> 00:59:07.840
+It's 8 damage.
+
+00:59:07.920 --> 00:59:08.560
+Yeah, it's a kill.
+
+00:59:08.640 --> 00:59:13.440
+So if I get a bonus action, because I kill automatic cleave.
+
+00:59:15.200 --> 00:59:16.480
+Well, not even with that.
+
+00:59:17.200 --> 00:59:21.440
+With you, I get a bonus action when I kill with a meta weapon.
+
+00:59:23.280 --> 00:59:25.280
+So you don't even have to use bonus action.
+
+00:59:25.440 --> 00:59:28.240
+Cleave will let you do as a free action.
+
+00:59:29.200 --> 00:59:29.519
+Okay.
+
+00:59:29.840 --> 00:59:30.240
+All right.
+
+00:59:30.320 --> 00:59:31.760
+So let's do cleave then.
+
+00:59:33.600 --> 00:59:37.920
+Yeah, but cleave is with great axe and Halbert, and I just hit with my hand axe.
+
+00:59:38.080 --> 00:59:38.800
+So that doesn't work.
+
+00:59:39.039 --> 00:59:39.680
+Oh, sorry.
+
+00:59:39.760 --> 00:59:40.000
+Sorry.
+
+00:59:40.160 --> 00:59:40.560
+Sorry.
+
+00:59:40.880 --> 00:59:44.080
+So I've got my other, I get the bonus action.
+
+00:59:44.160 --> 00:59:46.160
+So let's roll that on the other one.
+
+00:59:48.849 --> 00:59:49.570
+There you go.
+
+00:59:49.809 --> 00:59:50.289
+Gone.
+
+00:59:51.809 --> 00:59:52.450
+Gone.
+
+00:59:53.410 --> 00:59:55.090
+So which two did you kill?
+
+00:59:56.130 --> 00:59:58.530
+One and five, it says on the board.
+
+00:59:58.769 --> 01:00:04.769
+And I still have another attack because I get two attacks per one is what?
+
+01:00:05.170 --> 01:00:05.490
+11.
+
+01:00:05.730 --> 01:00:08.289
+So I can reach 11 and I can reach the one on the right.
+
+01:00:08.450 --> 01:00:09.970
+Okay, so let's do that.
+
+01:00:15.280 --> 01:00:16.320
+Bad roll.
+
+01:00:17.840 --> 01:00:20.240
+With my last breath, I spit on.
+
+01:00:20.960 --> 01:00:22.559
+Add the D4, add the D4.
+
+01:00:22.720 --> 01:00:23.599
+Don't forget.
+
+01:00:25.360 --> 01:00:26.000
+Multiple times.
+
+01:00:26.240 --> 01:00:27.760
+Oh, you can only do it once per round?
+
+01:00:28.079 --> 01:00:28.400
+Yeah.
+
+01:00:29.039 --> 01:00:29.920
+Oh, okay.
+
+01:00:30.480 --> 01:00:30.720
+All right.
+
+01:00:30.800 --> 01:00:32.800
+So the only one that's left is which number?
+
+01:00:33.360 --> 01:00:33.760
+Eight.
+
+01:00:34.000 --> 01:00:34.240
+Eight.
+
+01:00:34.880 --> 01:00:35.039
+Okay.
+
+01:00:35.200 --> 01:00:36.800
+I will remove the others.
+
+01:00:39.369 --> 01:00:39.689
+All right.
+
+01:00:39.849 --> 01:00:41.529
+Lukraden is up.
+
+01:00:44.009 --> 01:00:45.849
+Crotten will move here.
+
+01:00:51.619 --> 01:00:53.699
+Roll to hit with advantage.
+
+01:00:58.690 --> 01:00:59.889
+That's a hit.
+
+01:01:07.380 --> 01:01:09.219
+Only eight damage this time.
+
+01:01:12.230 --> 01:01:13.670
+Down to 29.
+
+01:01:15.980 --> 01:01:16.460
+Boney.
+
+01:01:17.099 --> 01:01:19.420
+Boney, you could smoke him if you got him.
+
+01:01:20.300 --> 01:01:21.019
+What did you say?
+
+01:01:21.260 --> 01:01:21.579
+Boney?
+
+01:01:21.980 --> 01:01:23.420
+Boney can take a chill.
+
+01:01:23.659 --> 01:01:24.460
+Prutha?
+
+01:01:25.019 --> 01:01:27.500
+Bony says I can't fit through any of these openings.
+
+01:01:27.740 --> 01:01:28.139
+Yeah, yeah.
+
+01:01:28.300 --> 01:01:29.659
+Why don't you retreat, Boney?
+
+01:01:31.579 --> 01:01:32.220
+But Soma.
+
+01:01:33.820 --> 01:01:34.780
+Soma's not up yet.
+
+01:01:35.420 --> 01:01:38.780
+No, but Soma might get injured if I'm not there to protect her.
+
+01:01:39.099 --> 01:01:40.220
+Oh, funny.
+
+01:01:40.460 --> 01:01:40.780
+Okay.
+
+01:01:42.699 --> 01:01:43.179
+Can you make it?
+
+01:01:43.420 --> 01:01:43.740
+No, Bony.
+
+01:01:45.099 --> 01:01:46.460
+Bony kills the other one.
+
+01:01:46.780 --> 01:01:47.099
+Oh.
+
+01:01:47.659 --> 01:01:48.940
+Oh, I forgot about that guy.
+
+01:01:49.099 --> 01:01:49.340
+Sure.
+
+01:01:49.420 --> 01:01:50.059
+Yeah, why not?
+
+01:01:50.300 --> 01:01:51.019
+Kill him.
+
+01:01:51.340 --> 01:01:51.820
+Yes.
+
+01:01:53.980 --> 01:01:55.500
+Boney says, I do not.
+
+01:01:56.220 --> 01:01:57.340
+He did your one point of damage.
+
+01:01:57.420 --> 01:01:58.059
+Thank you, Boney.
+
+01:01:58.460 --> 01:01:59.500
+I did seven.
+
+01:02:00.139 --> 01:02:01.740
+You only had to do one, though.
+
+01:02:02.059 --> 01:02:03.099
+No, but it did seven.
+
+01:02:03.340 --> 01:02:04.460
+He did seven.
+
+01:02:04.780 --> 01:02:05.340
+Good job.
+
+01:02:06.220 --> 01:02:08.860
+I'd be very surprised if Bony can count.
+
+01:02:12.940 --> 01:02:13.420
+Prutha.
+
+01:02:14.460 --> 01:02:17.179
+Did you just question Bony's counting skills?
+
+01:02:17.500 --> 01:02:18.220
+Yes, I did.
+
+01:02:18.539 --> 01:02:21.340
+I'll have you note that Boney is a talking horse.
+
+01:02:21.659 --> 01:02:21.980
+Yes.
+
+01:02:22.139 --> 01:02:23.179
+It's not a counting hole.
+
+01:02:23.420 --> 01:02:23.500
+Mr.
+
+01:02:23.659 --> 01:02:23.820
+Ad.
+
+01:02:24.059 --> 01:02:25.179
+That's two different things.
+
+01:02:25.500 --> 01:02:25.740
+Mr.
+
+01:02:25.900 --> 01:02:25.980
+Ad.
+
+01:02:26.220 --> 01:02:27.900
+Does he know the number of the counting?
+
+01:02:29.019 --> 01:02:30.780
+The counting of the number is one.
+
+01:02:32.860 --> 01:02:33.260
+Right.
+
+01:02:37.869 --> 01:02:38.349
+All right.
+
+01:02:44.299 --> 01:02:45.259
+All right, Prutha.
+
+01:02:45.739 --> 01:02:47.340
+Two charges.
+
+01:02:49.259 --> 01:02:50.699
+Okay, I stand corrected.
+
+01:02:50.860 --> 01:02:52.779
+We did not get oped kicked.
+
+01:02:53.659 --> 01:02:54.539
+I told you, man.
+
+01:02:55.179 --> 01:02:55.980
+Why is the opposite?
+
+01:02:56.299 --> 01:02:58.779
+Hold person for the win.
+
+01:02:59.420 --> 01:03:00.059
+OP.
+
+01:03:01.259 --> 01:03:01.900
+Not OP.
+
+01:03:02.539 --> 01:03:04.059
+And Spirit Guardians for the event.
+
+01:03:04.219 --> 01:03:04.940
+And Spirit Guardian.
+
+01:03:05.980 --> 01:03:08.219
+Even when you roll minimum damage.
+
+01:03:12.380 --> 01:03:12.699
+Nope.
+
+01:03:12.940 --> 01:03:14.059
+As a bonus action, yeah.
+
+01:03:14.139 --> 01:03:19.579
+So he runs up to it and hits the creature with the great axe, doing nine points of damage.
+
+01:03:20.139 --> 01:03:21.739
+Plus critical damage.
+
+01:03:22.699 --> 01:03:27.340
+Bring about eight.
+
+01:03:29.650 --> 01:03:30.769
+Plus another D12.
+
+01:03:34.019 --> 01:03:35.699
+Or 13 points of damage.
+
+01:03:35.939 --> 01:03:36.579
+13 total?
+
+01:03:36.819 --> 01:03:37.299
+Yes, sir.
+
+01:03:37.619 --> 01:03:39.139
+So down to 16.
+
+01:03:41.299 --> 01:03:42.019
+Soma?
+
+01:03:46.449 --> 01:03:47.329
+Oh, Suma.
+
+01:03:47.489 --> 01:03:48.209
+Suma's like, I can't.
+
+01:03:48.369 --> 01:03:50.049
+How are you going to get in the circle, Soma?
+
+01:03:53.719 --> 01:03:54.839
+She prowls.
+
+01:03:55.159 --> 01:03:57.239
+Oh, she could cast Moonbeam.
+
+01:03:58.119 --> 01:03:59.719
+Well, she could.
+
+01:04:01.239 --> 01:04:02.119
+She prowls around.
+
+01:04:02.679 --> 01:04:04.439
+She requires a spell slot, yes.
+
+01:04:04.679 --> 01:04:06.199
+So she's going to just prowl around.
+
+01:04:06.439 --> 01:04:06.759
+All right.
+
+01:04:06.919 --> 01:04:07.879
+Belfina?
+
+01:04:08.839 --> 01:04:09.399
+Actually, you know what?
+
+01:04:09.479 --> 01:04:10.119
+Soma does?
+
+01:04:10.599 --> 01:04:14.759
+She pushes down one of these Stonehenge tablets, these Stonehenge thingies.
+
+01:04:15.079 --> 01:04:15.399
+Oh.
+
+01:04:16.199 --> 01:04:18.119
+Oh, maybe that's cards as well.
+
+01:04:18.359 --> 01:04:18.919
+That's a good idea.
+
+01:04:20.519 --> 01:04:26.519
+Is this an Anchorite hinge, or is it a Druid hinge that has been repurposed by the Anchorites?
+
+01:04:26.839 --> 01:04:28.919
+Well, if you spoke Elk, you would know.
+
+01:04:32.329 --> 01:04:32.649
+All right.
+
+01:04:32.729 --> 01:04:33.209
+I like the idea.
+
+01:04:34.089 --> 01:04:36.009
+That's a very technical question, Gary.
+
+01:04:37.689 --> 01:04:38.809
+That's very drunk to me.
+
+01:04:39.129 --> 01:04:39.529
+Oh, wait.
+
+01:04:40.249 --> 01:04:41.129
+So hold on.
+
+01:04:41.689 --> 01:04:45.529
+Gary, are you asking, or is Valfina asking?
+
+01:04:47.689 --> 01:04:50.009
+Like, are you asking in character or just asking me because you're curious?
+
+01:04:50.409 --> 01:04:51.529
+Valfina cares.
+
+01:04:51.849 --> 01:04:52.009
+Okay.
+
+01:04:53.049 --> 01:04:53.289
+Okay.
+
+01:04:53.929 --> 01:04:55.769
+So I just okay.
+
+01:04:55.929 --> 01:05:00.089
+In that case, no, it's a repurposed druidic ritual.
+
+01:05:01.049 --> 01:05:01.289
+Okay.
+
+01:05:02.329 --> 01:05:07.369
+So she smashes this down and advances.
+
+01:05:07.689 --> 01:05:08.969
+No, she actually doesn't advance.
+
+01:05:09.049 --> 01:05:11.929
+She's like preparing to ram it the next round.
+
+01:05:12.569 --> 01:05:12.889
+Okay.
+
+01:05:13.049 --> 01:05:13.929
+So it's my turn.
+
+01:05:14.169 --> 01:05:14.809
+Yes.
+
+01:05:16.409 --> 01:05:19.849
+Valfina, can you do 16 points of damage?
+
+01:05:21.129 --> 01:05:22.889
+Valfina, you know, you can also do an attack.
+
+01:05:23.049 --> 01:05:23.369
+You don't.
+
+01:05:23.689 --> 01:05:24.089
+Ooh.
+
+01:05:24.809 --> 01:05:25.609
+Yeah, okay, that works.
+
+01:05:25.769 --> 01:05:26.809
+I can go spirit guardians.
+
+01:05:26.969 --> 01:05:27.929
+Hold on, hold on, hold on, hold on.
+
+01:05:28.489 --> 01:05:29.609
+You don't have to get so close.
+
+01:05:29.929 --> 01:05:30.489
+Hold on.
+
+01:05:30.729 --> 01:05:30.889
+Okay.
+
+01:05:31.209 --> 01:05:32.169
+Don't get too close.
+
+01:05:32.489 --> 01:05:32.889
+Hold on.
+
+01:05:33.129 --> 01:05:35.049
+I just realized something just is an FYI.
+
+01:05:35.689 --> 01:05:41.849
+He can only name up to a certain number of characters for spirit guardians.
+
+01:05:41.929 --> 01:05:45.369
+We didn't do it this term, but spirit guardians, he can't protect.
+
+01:05:46.249 --> 01:05:48.969
+You can only protect up to a number of people, I believe.
+
+01:05:49.289 --> 01:05:52.409
+Or is a limit to how many you can choose not to injure?
+
+01:05:52.729 --> 01:05:53.289
+Yes.
+
+01:05:57.519 --> 01:06:00.559
+We didn't do it this time and it didn't matter, but I'm just saying, just keep that.
+
+01:06:00.639 --> 01:06:01.999
+I think there's limit.
+
+01:06:03.839 --> 01:06:05.279
+Oh, no, no, you can designate.
+
+01:06:05.359 --> 01:06:07.279
+It doesn't say you can designate up to.
+
+01:06:11.349 --> 01:06:12.469
+I misread it.
+
+01:06:13.109 --> 01:06:14.389
+Any number of creatures.
+
+01:06:14.629 --> 01:06:17.189
+Yeah, as long as you can see them.
+
+01:06:17.829 --> 01:06:18.469
+Yes.
+
+01:06:20.869 --> 01:06:22.629
+That is the important detail.
+
+01:06:23.269 --> 01:06:27.349
+And so, how much damage did you do with Spirit Guardians?
+
+01:06:32.949 --> 01:06:33.509
+11?
+
+01:06:33.829 --> 01:06:34.069
+Yes.
+
+01:06:34.309 --> 01:06:35.589
+Yeah, it's going to auto-fail.
+
+01:06:35.669 --> 01:06:36.869
+So he's down to five.
+
+01:06:37.189 --> 01:06:38.789
+And do you want to do an attack, too?
+
+01:06:39.029 --> 01:06:40.309
+That's a wisdom save.
+
+01:06:41.109 --> 01:06:43.269
+While held, that's not necessarily a fail.
+
+01:06:45.829 --> 01:06:47.349
+I still rolled a 10, so it doesn't matter.
+
+01:06:47.589 --> 01:06:47.750
+Okay.
+
+01:06:48.069 --> 01:06:52.229
+So I thought with Spirit Guardians, I mean, I'm reading the description.
+
+01:06:52.549 --> 01:06:57.509
+It doesn't systematically deal damage when you move the area to them.
+
+01:06:57.750 --> 01:07:01.029
+They have to move into it or start their turn into it.
+
+01:07:01.269 --> 01:07:03.750
+It depends which reversion of the rules you're reading.
+
+01:07:04.069 --> 01:07:04.389
+Okay.
+
+01:07:07.669 --> 01:07:09.909
+Oh, they only fail strength and decks.
+
+01:07:09.989 --> 01:07:10.469
+I see.
+
+01:07:12.379 --> 01:07:20.379
+I'll roll my mace and four plus critical damage will be enough.
+
+01:07:22.269 --> 01:07:23.069
+Dead.
+
+01:07:26.299 --> 01:07:27.499
+Plus one strength.
+
+01:07:30.320 --> 01:07:31.599
+Good job, team.
+
+01:07:32.800 --> 01:07:33.440
+All right.
+
+01:07:33.760 --> 01:07:34.320
+Good job.
+
+01:07:34.639 --> 01:07:35.280
+Yay.
+
+01:07:35.920 --> 01:07:36.320
+All right.
+
+01:07:36.480 --> 01:07:37.039
+Hold on, I have some.
+
+01:07:37.519 --> 01:07:38.960
+Old person FTW.
+
+01:07:41.039 --> 01:07:45.039
+I believe my battle cry is die heathen.
+
+01:07:47.519 --> 01:07:48.000
+It goes.
+
+01:07:48.159 --> 01:07:54.800
+The chant that had been going on for a while now has stopped, but the storm above doesn't know that yet.
+
+01:07:55.119 --> 01:07:58.880
+It keeps gathering for one or more heartbeat, two, and then comes apart.
+
+01:07:59.199 --> 01:08:05.039
+The clouds peel back from the henge in a slow, reluctant spiral, like something exhaling.
+
+01:08:05.360 --> 01:08:07.119
+Their pressure in your ears drops.
+
+01:08:07.280 --> 01:08:10.880
+The ozone smell fades to wet leaves and old rain.
+
+01:08:11.199 --> 01:08:19.119
+The standing stones, which had been humming faintly, go inert, but there's no thunder clap.
+
+01:08:25.279 --> 01:08:28.000
+The two boarhead masks have rolled free of the bodies.
+
+01:08:28.159 --> 01:08:31.119
+Beneath them are half-orc faces, younger than you expected.
+
+01:08:31.279 --> 01:08:38.399
+One of them has tattoos running up his necks, storm clouds and coiling spirals, each one with an open eye.
+
+01:08:38.720 --> 01:08:46.479
+The other has different boar tusks crossed, repeated down both forearms, different markings, same hand, ink them.
+
+01:08:47.119 --> 01:08:50.640
+You notice a deer at the center that has been split open from throat to belly.
+
+01:08:50.880 --> 01:08:51.680
+Its heart is gone.
+
+01:08:51.840 --> 01:08:56.479
+Where the heart should be is a hand-sized hollow of black, glassy material.
+
+01:08:56.800 --> 01:09:02.800
+Not stone, not metal, cool to the touch, faintly humming the way stones were humming a minute ago.
+
+01:09:05.119 --> 01:09:06.239
+You said a deer?
+
+01:09:06.800 --> 01:09:07.439
+Yes.
+
+01:09:08.399 --> 01:09:08.560
+Okay.
+
+01:09:09.199 --> 01:09:09.680
+Corpse.
+
+01:09:09.840 --> 01:09:11.039
+Deer corpse.
+
+01:09:11.920 --> 01:09:13.920
+Here's a Victory quote from Bouberry.
+
+01:09:14.319 --> 01:09:14.560
+Deers.
+
+01:09:14.880 --> 01:09:16.640
+Deer as in deer, not as an ear, right?
+
+01:09:16.720 --> 01:09:18.399
+The deer, the animal with antlers.
+
+01:09:18.720 --> 01:09:19.600
+Okay, just want to make sure.
+
+01:09:20.399 --> 01:09:20.880
+All right.
+
+01:09:21.680 --> 01:09:27.439
+You find on the anchorite clubs, hide armor, and holy symbols of Talos.
+
+01:09:28.800 --> 01:09:28.960
+Okay.
+
+01:09:29.119 --> 01:09:29.520
+I'll take it.
+
+01:09:29.600 --> 01:09:31.359
+We will smash the holy symbols of Talos.
+
+01:09:32.960 --> 01:09:33.279
+Okay.
+
+01:09:34.239 --> 01:09:35.039
+You were going to say something.
+
+01:09:35.439 --> 01:09:37.039
+Oh, what are you doing?
+
+01:09:38.560 --> 01:09:38.800
+What?
+
+01:09:39.840 --> 01:09:40.319
+Talos.
+
+01:09:40.960 --> 01:09:46.640
+I mean, I just, before while you are arguing with him, those aren't yours to destroy.
+
+01:09:46.960 --> 01:09:49.279
+Well, it's a gun of destruction, anyway.
+
+01:09:49.600 --> 01:09:50.079
+It's destroying.
+
+01:09:50.720 --> 01:09:51.439
+Let me just be clear.
+
+01:09:51.680 --> 01:09:54.800
+While you're arguing with Valfine, Prutha destroys them.
+
+01:09:59.119 --> 01:09:59.439
+God.
+
+01:10:00.560 --> 01:10:06.560
+Prutha, we need to have a conversation about conflict-free goal.
+
+01:10:09.039 --> 01:10:10.479
+Are you trying to reason with an oak?
+
+01:10:11.819 --> 01:10:12.939
+I'm very persuasive.
+
+01:10:13.099 --> 01:10:15.099
+Let's see how persuasive I am.
+
+01:10:16.220 --> 01:10:17.899
+I don't care how persuasive you are, man.
+
+01:10:18.460 --> 01:10:21.019
+I got a 17.
+
+01:10:21.500 --> 01:10:23.099
+Yeah, I don't think you will even get it.
+
+01:10:23.420 --> 01:10:25.099
+Is it more of a performance, actually?
+
+01:10:25.340 --> 01:10:26.460
+You could say it's a performance.
+
+01:10:26.619 --> 01:10:27.819
+17, either way.
+
+01:10:28.380 --> 01:10:30.779
+You assume you would understand the concept.
+
+01:10:31.340 --> 01:10:34.220
+You know, that's what you would need to do first to get convinced.
+
+01:10:34.539 --> 01:10:36.139
+Why wouldn't he understand the concept?
+
+01:10:36.460 --> 01:10:37.500
+Isn't Orc.
+
+01:10:39.340 --> 01:10:40.939
+Are you a racist?
+
+01:10:41.819 --> 01:10:42.460
+Sorry.
+
+01:10:47.420 --> 01:10:47.979
+All right.
+
+01:10:50.779 --> 01:10:51.579
+What did you roll?
+
+01:10:51.659 --> 01:10:52.699
+Just what do I have to beat?
+
+01:10:53.500 --> 01:10:54.699
+I rolled a 17.
+
+01:10:57.659 --> 01:10:58.139
+All right.
+
+01:10:59.659 --> 01:11:01.579
+So, what are you trying to tell him?
+
+01:11:02.220 --> 01:11:15.179
+Trying to explain to him that this is not, we need to return these to the people who own them.
+
+01:11:16.380 --> 01:11:18.539
+It's a way to find, we need to find the.
+
+01:11:18.699 --> 01:11:19.099
+I'm sorry.
+
+01:11:19.260 --> 01:11:21.420
+We need to find the owners of these talent.
+
+01:11:22.460 --> 01:11:24.779
+He looks at you, points to the dead priests.
+
+01:11:25.019 --> 01:11:25.899
+We found owners.
+
+01:11:26.139 --> 01:11:27.179
+We give to them.
+
+01:11:27.819 --> 01:11:28.619
+Exactly.
+
+01:11:29.579 --> 01:11:32.699
+You're trying to explain the theory of religion to a donkey.
+
+01:11:33.019 --> 01:11:33.659
+Oh, no, no, no, no.
+
+01:11:33.739 --> 01:11:34.460
+You need to roll the 20.
+
+01:11:34.779 --> 01:11:36.380
+Pruth is very pleased with himself.
+
+01:11:36.539 --> 01:11:38.699
+He feels that he has done exactly as you said.
+
+01:11:38.859 --> 01:11:39.579
+I need to find the owners.
+
+01:11:39.819 --> 01:11:40.460
+They're right here.
+
+01:11:40.619 --> 01:11:41.500
+I found them.
+
+01:11:43.979 --> 01:11:44.220
+Okay.
+
+01:11:44.460 --> 01:11:45.099
+I'll let it go.
+
+01:11:45.420 --> 01:11:45.979
+We'll work on it.
+
+01:11:46.139 --> 01:11:46.859
+We'll work on it.
+
+01:11:47.179 --> 01:11:48.699
+At least he accepted that one.
+
+01:11:49.099 --> 01:11:51.260
+Then we'll go the indirection comes next.
+
+01:11:51.899 --> 01:11:52.139
+The problem.
+
+01:11:53.099 --> 01:11:57.659
+Put the holy symbol on the skull of the anchorite and with my mace.
+
+01:11:58.220 --> 01:11:58.699
+Smash.
+
+01:12:02.460 --> 01:12:06.139
+Pruth is very pleased to see you smash the Talosian.
+
+01:12:08.059 --> 01:12:09.899
+Selfina, you know better.
+
+01:12:13.579 --> 01:12:13.819
+Okay.
+
+01:12:20.460 --> 01:12:20.939
+Well, yeah.
+
+01:12:21.899 --> 01:12:24.059
+Well, at least you're not trying to sell them.
+
+01:12:26.059 --> 01:12:27.260
+We got past that.
+
+01:12:28.220 --> 01:12:35.099
+Should sell holy symbols of the come from the charity.
+
+01:12:35.340 --> 01:12:36.300
+All right, hold on, hold on.
+
+01:12:37.019 --> 01:12:38.619
+What were you going to do with them anyway?
+
+01:12:38.859 --> 01:12:39.099
+Yeah.
+
+01:12:40.699 --> 01:12:43.179
+Okay, so put a Talos gift shop.
+
+01:12:43.420 --> 01:12:44.859
+Yeah, hold on, hold on.
+
+01:12:48.380 --> 01:12:49.579
+It's entrapment.
+
+01:12:59.649 --> 01:13:00.289
+All right.
+
+01:13:01.809 --> 01:13:03.569
+Oh, you do also find a leather.
+
+01:13:03.889 --> 01:13:14.529
+You find on the other anchorite a leather thong with a single boar tusk inscribed with a glyph.
+
+01:13:15.170 --> 01:13:16.849
+Sorry, a leather thong?
+
+01:13:17.329 --> 01:13:18.769
+Yes, with a binding glyph.
+
+01:13:18.849 --> 01:13:22.609
+Valfine, roll the religion check to see if you're able to recognize it.
+
+01:13:25.479 --> 01:13:27.239
+Maybe I want to roll a religion check.
+
+01:13:29.399 --> 01:13:32.520
+It's a binding glyph called a leash.
+
+01:13:34.760 --> 01:13:36.439
+They leash binding glyph.
+
+01:13:37.479 --> 01:13:38.760
+Sounds very SNM.
+
+01:13:39.319 --> 01:13:40.520
+It does, very.
+
+01:13:42.439 --> 01:13:44.600
+The thong, it's a leash.
+
+01:13:44.920 --> 01:13:46.279
+It binds you.
+
+01:13:47.479 --> 01:13:47.720
+Yeah.
+
+01:13:48.680 --> 01:13:50.199
+That sounds very useful.
+
+01:13:50.520 --> 01:13:52.760
+I can put that in my sacraments.
+
+01:13:57.319 --> 01:14:05.479
+Then Pruta then turns to you, Valfine, and says, My uncle, say Don comes for everyone.
+
+01:14:06.039 --> 01:14:07.079
+He looks at them.
+
+01:14:08.680 --> 01:14:09.960
+Even these ones.
+
+01:14:10.600 --> 01:14:11.800
+He pauses.
+
+01:14:12.439 --> 01:14:13.159
+I did not.
+
+01:14:13.319 --> 01:14:13.880
+I do.
+
+01:14:14.199 --> 01:14:15.640
+Dawn feels good.
+
+01:14:16.600 --> 01:14:18.119
+Dawn feels very good.
+
+01:14:18.760 --> 01:14:20.359
+Dawn is powerful.
+
+01:14:22.039 --> 01:14:27.399
+He acknowledges the power by making suitable grunts and waving his axe.
+
+01:14:28.359 --> 01:14:33.079
+And then I thought the ritual was still going.
+
+01:14:33.399 --> 01:14:34.520
+No, the ritual's over.
+
+01:14:34.840 --> 01:14:35.560
+Ritual's over?
+
+01:14:35.720 --> 01:14:35.880
+Okay.
+
+01:14:35.960 --> 01:14:37.399
+Nobody got summoned.
+
+01:14:37.720 --> 01:14:41.560
+No, no, I did the research.
+
+01:14:43.960 --> 01:14:45.239
+I've read everything.
+
+01:14:45.479 --> 01:14:48.199
+I mean, you guys successfully stopped the ritual.
+
+01:14:51.960 --> 01:14:52.520
+Huzzah.
+
+01:14:53.079 --> 01:14:54.439
+You want to go look around here?
+
+01:14:55.720 --> 01:14:55.960
+Yeah.
+
+01:14:56.600 --> 01:14:57.720
+Why are we looking around?
+
+01:14:57.960 --> 01:14:59.319
+Let's go get the money.
+
+01:15:00.279 --> 01:15:03.319
+Is there any hint that there might be something to drink in this area?
+
+01:15:03.560 --> 01:15:05.079
+Otherwise, I'm not interested.
+
+01:15:07.319 --> 01:15:08.760
+You know, I mean, you might want to.
+
+01:15:08.920 --> 01:15:09.640
+Okay, it's up to you.
+
+01:15:09.720 --> 01:15:10.840
+If you want to go see what's going around.
+
+01:15:11.000 --> 01:15:12.359
+Oh, they were having a big party.
+
+01:15:12.680 --> 01:15:15.000
+I mean, you know, party, drink.
+
+01:15:15.640 --> 01:15:15.800
+Yeah.
+
+01:15:16.039 --> 01:15:16.840
+Yeah, that's right.
+
+01:15:17.000 --> 01:15:17.159
+Yeah.
+
+01:15:17.399 --> 01:15:18.439
+That's a good clue.
+
+01:15:18.760 --> 01:15:19.560
+I'll look around.
+
+01:15:19.720 --> 01:15:22.199
+I'll search for drinks.
+
+01:15:22.840 --> 01:15:25.239
+A good wine, a brew, whatever.
+
+01:15:28.279 --> 01:15:30.840
+Anything that smells fermented?
+
+01:15:33.880 --> 01:15:38.439
+Okay, so, okay, so let me just tell you what happens.
+
+01:15:38.600 --> 01:15:39.880
+Okay, over here.
+
+01:15:40.680 --> 01:15:42.439
+Ready to roll investigation or something?
+
+01:15:42.520 --> 01:15:43.880
+No, no, no, hold on, hold on, hold on.
+
+01:15:44.039 --> 01:15:44.840
+I'm going to.
+
+01:15:46.680 --> 01:15:49.960
+Okay, so you find a secret door over there.
+
+01:15:50.520 --> 01:15:51.399
+There goes a door.
+
+01:15:51.560 --> 01:15:53.560
+Yes, well, a secret sort of passageway.
+
+01:15:53.800 --> 01:15:55.880
+There's also these entries to these tunnels over here.
+
+01:15:56.119 --> 01:15:56.760
+There's one over here.
+
+01:15:57.960 --> 01:15:58.520
+Ah.
+
+01:15:58.840 --> 01:16:00.680
+I'm sorry, yeah, that wasn't obvious.
+
+01:16:00.840 --> 01:16:01.720
+These are tunnels.
+
+01:16:02.359 --> 01:16:04.039
+I thought that was the gents.
+
+01:16:04.600 --> 01:16:12.520
+You know, doing the ritual, you may have a right.
+
+01:16:12.600 --> 01:16:13.479
+So these are entrance.
+
+01:16:13.720 --> 01:16:17.479
+These are essentially entrances into caves.
+
+01:16:18.920 --> 01:16:21.319
+I mean, we came here to kill the spellcasters.
+
+01:16:21.399 --> 01:16:22.840
+The spellcasters are dead.
+
+01:16:23.159 --> 01:16:26.600
+I'm, you know, it's Miller time.
+
+01:16:27.239 --> 01:16:27.479
+Yeah.
+
+01:16:27.960 --> 01:16:29.079
+Well, I mean, that's what he.
+
+01:16:30.359 --> 01:16:31.560
+That's what Bukhraden says.
+
+01:16:31.720 --> 01:16:33.079
+Bukraden says.
+
+01:16:33.640 --> 01:16:34.600
+Yeah, I'm curious.
+
+01:16:35.000 --> 01:16:37.159
+I'm tempted to do the cave.
+
+01:16:38.119 --> 01:16:38.840
+Okay, that's that.
+
+01:16:39.720 --> 01:16:41.000
+There's got to be drinks around here.
+
+01:16:41.079 --> 01:16:42.359
+I mean, they were having a party.
+
+01:16:44.279 --> 01:16:46.680
+Maybe they weren't chanting because their throats were dry.
+
+01:16:47.000 --> 01:16:47.159
+Yeah.
+
+01:16:47.800 --> 01:16:49.239
+Because the drinks are underneath.
+
+01:16:49.720 --> 01:16:51.399
+Anybody else going with him or not?
+
+01:16:51.720 --> 01:16:52.520
+Yeah, I am.
+
+01:16:52.760 --> 01:16:54.680
+But I got stuck somehow.
+
+01:16:55.319 --> 01:16:55.880
+There we go.
+
+01:16:56.039 --> 01:16:56.199
+There.
+
+01:16:56.359 --> 01:16:56.760
+There you go.
+
+01:16:57.000 --> 01:16:58.359
+Anybody else going with him?
+
+01:16:58.680 --> 01:17:00.920
+Well, I mean, I'm not going to abandon my friend.
+
+01:17:01.079 --> 01:17:03.000
+I just don't understand the point of this.
+
+01:17:03.319 --> 01:17:03.640
+All right.
+
+01:17:03.960 --> 01:17:05.720
+Pruta is, of course, following you.
+
+01:17:05.960 --> 01:17:07.000
+Like a puppy.
+
+01:17:07.560 --> 01:17:08.760
+Soma and Valfier.
+
+01:17:09.399 --> 01:17:13.880
+Soma and sorry, and Bony sort of look outside and says, well, a stand watcher.
+
+01:17:18.719 --> 01:17:20.719
+Because she really doesn't fit into that tunnel.
+
+01:17:20.879 --> 01:17:21.359
+All right.
+
+01:17:21.920 --> 01:17:23.599
+Brewberry, you're going inside.
+
+01:17:24.159 --> 01:17:24.719
+Yes.
+
+01:17:26.159 --> 01:17:26.879
+I'm thirsty.
+
+01:17:27.199 --> 01:17:28.000
+Yeah, thirsty.
+
+01:17:28.319 --> 01:17:29.519
+I'm sort of careful, though.
+
+01:17:30.000 --> 01:17:32.879
+I think it's more dungeon than refrigerator.
+
+01:17:33.119 --> 01:17:34.639
+Just, you know, FYI.
+
+01:17:36.639 --> 01:17:37.439
+Dungeon is fresh.
+
+01:17:38.559 --> 01:17:39.199
+Yeah, exactly.
+
+01:17:39.439 --> 01:17:40.719
+So it's possible.
+
+01:17:40.960 --> 01:17:42.079
+We're still drinking here.
+
+01:17:42.319 --> 01:17:44.719
+More gank than fresh, I would say.
+
+01:17:45.039 --> 01:17:45.279
+Yeah.
+
+01:17:46.799 --> 01:17:47.359
+But I'm with you, man.
+
+01:17:48.319 --> 01:17:50.079
+I got to protect my fan.
+
+01:17:50.719 --> 01:17:51.920
+And he's your number one fan.
+
+01:17:52.239 --> 01:17:53.519
+He's my only fan.
+
+01:17:53.839 --> 01:17:54.079
+No.
+
+01:17:54.239 --> 01:17:55.279
+No, you actually got less fans.
+
+01:17:55.519 --> 01:17:56.559
+Oh, I have more fans now.
+
+01:17:58.079 --> 01:18:00.319
+Did you hear what happened at the Druid Convention?
+
+01:18:00.479 --> 01:18:01.759
+Everybody was upset you left it in.
+
+01:18:02.479 --> 01:18:02.799
+That's right.
+
+01:18:02.960 --> 01:18:03.279
+That's right.
+
+01:18:05.039 --> 01:18:06.479
+Those are good acoustics.
+
+01:18:07.199 --> 01:18:08.159
+Every single time for a song.
+
+01:18:09.119 --> 01:18:13.920
+Ever since you changed your music style to be more cloud-based.
+
+01:18:14.079 --> 01:18:14.639
+Oh, right.
+
+01:18:14.719 --> 01:18:15.599
+Thanks for the reminder.
+
+01:18:15.759 --> 01:18:18.319
+Now, once I sold out, yeah.
+
+01:18:18.799 --> 01:18:19.519
+I went mainstream.
+
+01:18:20.399 --> 01:18:21.039
+You didn't sell out.
+
+01:18:21.199 --> 01:18:21.920
+You realized that.
+
+01:18:22.159 --> 01:18:25.279
+What's the point of making music that people don't love?
+
+01:18:27.439 --> 01:18:28.239
+Something like that.
+
+01:18:28.799 --> 01:18:30.079
+Actually, I do have it in my notes.
+
+01:18:30.239 --> 01:18:31.039
+It was actually that.
+
+01:18:32.319 --> 01:18:33.679
+The meat is over here.
+
+01:18:34.239 --> 01:18:35.839
+They were preparing for a barbecue.
+
+01:18:35.920 --> 01:18:36.319
+I can tell.
+
+01:18:36.399 --> 01:18:37.119
+There's a bull.
+
+01:18:37.279 --> 01:18:38.000
+Look at this.
+
+01:18:39.279 --> 01:18:40.000
+It's got to be beer.
+
+01:18:40.239 --> 01:18:42.159
+If you want me to kill it, I can mock it for you.
+
+01:18:42.960 --> 01:18:44.000
+Shall I mock it?
+
+01:18:44.319 --> 01:18:45.439
+Is it alive?
+
+01:18:48.399 --> 01:18:49.599
+Yeah, there's a boar.
+
+01:18:49.679 --> 01:18:50.159
+It's sort of.
+
+01:18:53.279 --> 01:18:54.960
+What was it doing in the corner of the cave?
+
+01:18:55.439 --> 01:18:56.960
+Wisdom save for the boar.
+
+01:19:00.949 --> 01:19:02.309
+Why are you doing the wisdom save?
+
+01:19:02.630 --> 01:19:03.989
+Vicious mockery.
+
+01:19:04.869 --> 01:19:06.069
+I'm mocking the boar.
+
+01:19:06.229 --> 01:19:07.429
+You're trying to kill the boar?
+
+01:19:07.750 --> 01:19:07.909
+Yeah.
+
+01:19:08.389 --> 01:19:09.189
+Mock the boar.
+
+01:19:09.429 --> 01:19:10.550
+I'm mocking it.
+
+01:19:10.869 --> 01:19:12.710
+Mocking or mocking?
+
+01:19:13.670 --> 01:19:14.630
+Mocking, mocking.
+
+01:19:14.949 --> 01:19:15.750
+Mocking.
+
+01:19:16.069 --> 01:19:16.710
+All right.
+
+01:19:17.349 --> 01:19:17.750
+All right.
+
+01:19:17.989 --> 01:19:21.109
+So, all right.
+
+01:19:24.389 --> 01:19:25.829
+The boar has an armor.
+
+01:19:26.309 --> 01:19:28.869
+I mean, Soma is going to be really upset over this, but okay.
+
+01:19:29.109 --> 01:19:30.229
+So it's not here.
+
+01:19:30.389 --> 01:19:30.470
+Yeah.
+
+01:19:31.029 --> 01:19:32.309
+So vicious mockery.
+
+01:19:32.389 --> 01:19:32.630
+How much time?
+
+01:19:32.949 --> 01:19:33.429
+What is that?
+
+01:19:33.590 --> 01:19:34.069
+What do you do?
+
+01:19:34.389 --> 01:19:37.349
+It's a DC 15 wisdom save.
+
+01:19:37.989 --> 01:19:38.550
+All right.
+
+01:19:40.679 --> 01:19:41.559
+Natural 20.
+
+01:19:41.719 --> 01:19:42.599
+Finally, I roll a hot.
+
+01:19:43.079 --> 01:19:43.479
+Oh, okay.
+
+01:19:43.639 --> 01:19:46.519
+Well, my insult has no effect.
+
+01:19:47.079 --> 01:19:54.279
+Can you actually, you know, is, I guess we roll for initiative.
+
+01:19:55.559 --> 01:19:56.199
+All right.
+
+01:19:57.159 --> 01:19:58.119
+Some action.
+
+01:19:58.439 --> 01:19:58.839
+Sure.
+
+01:19:59.159 --> 01:19:59.719
+Yes.
+
+01:20:00.039 --> 01:20:01.159
+The poor boar.
+
+01:20:02.999 --> 01:20:03.879
+23.
+
+01:20:05.399 --> 01:20:05.719
+All right.
+
+01:20:05.879 --> 01:20:06.679
+23.
+
+01:20:11.239 --> 01:20:11.479
+Okay.
+
+01:20:12.679 --> 01:20:13.639
+One boar.
+
+01:20:18.089 --> 01:20:18.649
+All right.
+
+01:20:22.499 --> 01:20:25.699
+Soma is kind of like wondering, should I like stop being an elk?
+
+01:20:25.939 --> 01:20:28.659
+But then she's like, no, you know, there doesn't seem to be anything going on.
+
+01:20:28.899 --> 01:20:30.979
+She hears Valfu Bukrit didn't do his thing.
+
+01:20:31.139 --> 01:20:35.859
+She's kind of assuming that it's, you know, Bukra didn't do me Buker didn't, you know, nothing too bad.
+
+01:20:36.019 --> 01:20:37.459
+Nothing's going on.
+
+01:20:40.019 --> 01:20:40.339
+All right.
+
+01:20:40.419 --> 01:20:41.619
+You rolled a 20.
+
+01:20:43.619 --> 01:20:45.379
+Roll off with Balfina then.
+
+01:20:46.179 --> 01:20:46.499
+Okay.
+
+01:20:53.149 --> 01:20:53.389
+Okay.
+
+01:20:53.469 --> 01:20:54.429
+I rolled a 20 again.
+
+01:20:54.669 --> 01:20:55.229
+No, did I?
+
+01:20:55.389 --> 01:20:55.629
+No.
+
+01:20:59.539 --> 01:21:00.819
+I rolled a seven.
+
+01:21:00.979 --> 01:21:01.939
+So what did you roll?
+
+01:21:02.179 --> 01:21:02.899
+Belfina?
+
+01:21:03.859 --> 01:21:04.499
+18.
+
+01:21:06.339 --> 01:21:08.259
+No, Balfina needs to re-roll.
+
+01:21:08.579 --> 01:21:09.299
+Yeah, she did.
+
+01:21:09.859 --> 01:21:10.899
+20.18.
+
+01:21:11.219 --> 01:21:12.499
+All right, I rolled 20.7.
+
+01:21:12.579 --> 01:21:12.819
+All right.
+
+01:21:12.979 --> 01:21:14.499
+Bukradin, you're up again.
+
+01:21:17.289 --> 01:21:20.089
+Another DC15 wisdom save, I guess.
+
+01:21:21.859 --> 01:21:22.499
+All right.
+
+01:21:25.629 --> 01:21:27.629
+15 wisdom.
+
+01:21:27.789 --> 01:21:29.709
+This thing is minus four, minus one.
+
+01:21:29.949 --> 01:21:31.069
+So yes, it takes damage.
+
+01:21:31.229 --> 01:21:31.869
+How much damage?
+
+01:21:36.219 --> 01:21:36.619
+Seven.
+
+01:21:36.939 --> 01:21:37.899
+Luna Mosadosh.
+
+01:21:37.979 --> 01:21:39.819
+All right, it's down to four hit points.
+
+01:21:40.699 --> 01:21:41.500
+Balfine.
+
+01:21:42.539 --> 01:21:43.500
+And Balfine.
+
+01:21:45.819 --> 01:21:47.099
+Balfina, you can walk in here.
+
+01:21:47.259 --> 01:21:47.899
+It's up to you.
+
+01:21:48.219 --> 01:21:48.619
+Oh, okay.
+
+01:21:48.859 --> 01:21:50.379
+Concentration up to 10 minutes.
+
+01:21:50.460 --> 01:21:53.739
+So I think Spirit Guardians is actually still in effect, right?
+
+01:21:54.299 --> 01:21:54.939
+Yes.
+
+01:21:55.899 --> 01:21:57.179
+Do you kill it?
+
+01:21:57.819 --> 01:21:58.379
+Yes.
+
+01:21:59.979 --> 01:22:04.219
+No, actually, actually, you would, you know, I mean, you want to kill it, but do you kill it?
+
+01:22:04.379 --> 01:22:06.619
+You need to do at least eight points of damage.
+
+01:22:08.379 --> 01:22:10.379
+You're doubting the power of my radiance.
+
+01:22:11.739 --> 01:22:12.059
+Okay.
+
+01:22:13.659 --> 01:22:14.139
+There we go.
+
+01:22:15.019 --> 01:22:15.179
+Okay.
+
+01:22:15.739 --> 01:22:19.420
+You now have a radiated pork meat.
+
+01:22:20.379 --> 01:22:20.619
+Yeah.
+
+01:22:21.259 --> 01:22:22.619
+Perfect for barbecue.
+
+01:22:22.779 --> 01:22:24.539
+Now, are we missing all the drinks?
+
+01:22:25.339 --> 01:22:25.579
+Let me.
+
+01:22:25.739 --> 01:22:27.659
+I'll resume my search for drinks.
+
+01:22:29.179 --> 01:22:31.259
+Was that boar a threat to us?
+
+01:22:32.460 --> 01:22:33.099
+It was.
+
+01:22:34.219 --> 01:22:36.059
+It was coming right for us.
+
+01:22:37.019 --> 01:22:37.339
+Was it?
+
+01:22:37.420 --> 01:22:37.739
+Yes.
+
+01:22:37.979 --> 01:22:40.539
+Well, I mean, after you did the vicious mockery, it was.
+
+01:22:42.139 --> 01:22:42.379
+Okay.
+
+01:22:43.579 --> 01:22:44.859
+Yeah, that wasn't very nice.
+
+01:22:45.659 --> 01:22:47.019
+Just hold the record.
+
+01:22:48.460 --> 01:22:49.819
+Why would you insult the bull?
+
+01:22:52.539 --> 01:22:53.420
+That's me.
+
+01:22:53.739 --> 01:22:54.139
+All right.
+
+01:22:54.460 --> 01:22:57.899
+You're okay with boars, but orcs are just inherently evil.
+
+01:22:59.979 --> 01:23:01.339
+You have an orc with you right now.
+
+01:23:01.659 --> 01:23:03.339
+No, it's not what I'm saying.
+
+01:23:03.579 --> 01:23:05.179
+This is why Brewberry said.
+
+01:23:05.659 --> 01:23:08.379
+No, I wasn't saying the orcs are evil.
+
+01:23:08.539 --> 01:23:09.979
+I was saying the orcs are dumb.
+
+01:23:10.299 --> 01:23:11.019
+Oh, dumb.
+
+01:23:11.339 --> 01:23:11.819
+Sorry, right.
+
+01:23:13.819 --> 01:23:14.219
+All right.
+
+01:23:15.739 --> 01:23:17.339
+I'm dumb, but he's dumber.
+
+01:23:17.420 --> 01:23:18.859
+It's like dumb and dumber.
+
+01:23:19.819 --> 01:23:21.339
+Okay, there's nothing in this cave.
+
+01:23:21.420 --> 01:23:22.219
+Let's beat it.
+
+01:23:22.539 --> 01:23:25.339
+All right, there's a few more other caves if you want to check them out.
+
+01:23:26.219 --> 01:23:27.099
+We did the whole cave.
+
+01:23:27.579 --> 01:23:28.299
+It's going to be what?
+
+01:23:28.379 --> 01:23:29.339
+More barbecue?
+
+01:23:29.899 --> 01:23:30.299
+Screw this.
+
+01:23:31.420 --> 01:23:32.299
+There might be meat.
+
+01:23:32.379 --> 01:23:32.859
+You never know.
+
+01:23:32.939 --> 01:23:38.059
+There might be stuff they left behind that Valfina Bukerten doesn't have to see.
+
+01:23:39.019 --> 01:23:45.819
+I feel like there could be donations to the local charity, Valfina?
+
+01:23:46.299 --> 01:23:47.899
+Only if we can't find the right flow owner.
+
+01:23:48.059 --> 01:23:48.139
+Right.
+
+01:23:48.539 --> 01:23:58.139
+You know, and who's who, you know, finding the right flow owner, maybe when the church uses it, it's not so much as taking possession of it, but stewardship.
+
+01:23:59.420 --> 01:24:00.539
+Yeah, stewardship.
+
+01:24:00.699 --> 01:24:00.939
+Yeah.
+
+01:24:01.259 --> 01:24:01.420
+Right.
+
+01:24:01.819 --> 01:24:02.460
+It's not like you're.
+
+01:24:02.779 --> 01:24:04.859
+No, it's more like a museum, right?
+
+01:24:05.099 --> 01:24:08.460
+Like you can put it in a display case and you can look at it.
+
+01:24:09.099 --> 01:24:10.939
+You cannot exploit it.
+
+01:24:11.899 --> 01:24:15.019
+Well, a sword that's not swung.
+
+01:24:15.899 --> 01:24:18.379
+Is it being treated with the respect that it deserves?
+
+01:24:19.099 --> 01:24:21.339
+You sound like the Lord's Alliance.
+
+01:24:22.859 --> 01:24:24.859
+Does anyone play Ultimate 7?
+
+01:24:26.139 --> 01:24:26.379
+No.
+
+01:24:26.939 --> 01:24:29.259
+I'm no longer motivated to search the caves.
+
+01:24:29.339 --> 01:24:32.619
+I feel like the shortest path to a drink is probably just going back to the village.
+
+01:24:33.099 --> 01:24:34.139
+Yeah, let's go to the village.
+
+01:24:34.299 --> 01:24:37.099
+That's where the money is, and we can use the money to buy drinks.
+
+01:24:37.420 --> 01:24:38.219
+There's more caves.
+
+01:24:38.299 --> 01:24:39.420
+Let's look at more caves.
+
+01:24:40.059 --> 01:24:40.299
+All right.
+
+01:24:40.539 --> 01:24:42.299
+Valfina, would you like to look at the caves?
+
+01:24:42.379 --> 01:24:43.899
+The rest of them can sort of like.
+
+01:24:44.539 --> 01:24:47.019
+Soma's happy to come with you to look at the caves.
+
+01:24:47.659 --> 01:24:48.779
+Oh, Soma is?
+
+01:24:48.939 --> 01:24:49.899
+How about Brewberry?
+
+01:24:51.420 --> 01:24:52.379
+I'll follow.
+
+01:24:53.659 --> 01:24:57.420
+Again, I won't abandon my friends, but Soma's?
+
+01:24:58.779 --> 01:25:01.739
+I mean, all right.
+
+01:25:01.819 --> 01:25:02.939
+So you want to look at the other caves?
+
+01:25:03.019 --> 01:25:03.179
+All right.
+
+01:25:03.259 --> 01:25:04.539
+We will go to the next cave.
+
+01:25:04.619 --> 01:25:04.939
+All right.
+
+01:25:05.259 --> 01:25:06.460
+This cave over here.
+
+01:25:07.739 --> 01:25:08.619
+I'll follow.
+
+01:25:08.939 --> 01:25:09.339
+Right.
+
+01:25:19.109 --> 01:25:19.670
+All right.
+
+01:25:20.949 --> 01:25:22.949
+Looks like there's more bulls.
+
+01:25:23.589 --> 01:25:27.509
+Yes, but these ones are tied up, so you don't have to actually kill them if you don't want to.
+
+01:25:28.149 --> 01:25:28.309
+Okay.
+
+01:25:29.589 --> 01:25:30.869
+Can we insult them?
+
+01:25:31.750 --> 01:25:35.109
+Well, that's going to start again causing the whole chaos and mayhem thing.
+
+01:25:36.469 --> 01:25:37.829
+So are we up here now?
+
+01:25:38.069 --> 01:25:42.229
+So you're saying we find more boars in here and they're like penned up.
+
+01:25:42.549 --> 01:25:43.189
+Yes.
+
+01:25:43.829 --> 01:25:44.069
+Okay.
+
+01:25:44.549 --> 01:25:44.869
+Yes.
+
+01:25:45.029 --> 01:25:47.429
+Hold on, but you also find something else here.
+
+01:25:47.750 --> 01:25:48.789
+We could see the bull.
+
+01:25:50.309 --> 01:25:50.629
+What?
+
+01:25:51.589 --> 01:25:53.269
+Han did not shoot first, you're saying.
+
+01:25:53.589 --> 01:25:53.750
+Yeah.
+
+01:25:53.829 --> 01:25:53.989
+Yeah.
+
+01:25:54.069 --> 01:25:54.389
+Hold on.
+
+01:25:54.469 --> 01:25:55.589
+Give me one second.
+
+01:25:57.750 --> 01:25:58.149
+Right.
+
+01:25:58.869 --> 01:26:00.789
+Just to bring up my notes.
+
+01:26:10.949 --> 01:26:11.189
+Okay.
+
+01:26:11.829 --> 01:26:13.269
+No, it's the wrong one again.
+
+01:26:17.159 --> 01:26:26.759
+Carved into the lintel stone above the mouth is a picture of a boar chasing after a stick figure humanoid.
+
+01:26:30.019 --> 01:26:32.179
+These bores are dangerous.
+
+01:26:33.220 --> 01:26:35.779
+I'm tempted to say this is boring.
+
+01:26:38.579 --> 01:26:41.539
+Yes, you also find a satchel.
+
+01:26:42.739 --> 01:26:43.779
+A satchel.
+
+01:26:44.099 --> 01:26:44.979
+A folding.
+
+01:26:45.539 --> 01:26:46.099
+Nice.
+
+01:26:46.899 --> 01:26:48.099
+It's not a satchel that you want to look.
+
+01:26:48.420 --> 01:26:54.819
+And it has a it's sealed with a wax sigil, a circle with a single vertical bore through it.
+
+01:26:56.099 --> 01:26:56.340
+Okay.
+
+01:26:56.739 --> 01:26:57.059
+Sealed.
+
+01:26:57.300 --> 01:26:57.779
+With wax.
+
+01:26:57.859 --> 01:26:59.779
+I mean, let's study the sigil.
+
+01:27:00.739 --> 01:27:01.220
+Yes.
+
+01:27:01.539 --> 01:27:02.500
+Oh, you study the sigil.
+
+01:27:03.220 --> 01:27:04.500
+Let's be careful here.
+
+01:27:06.659 --> 01:27:07.539
+Let me see.
+
+01:27:09.059 --> 01:27:10.099
+Who studied the sigil?
+
+01:27:10.179 --> 01:27:10.819
+Arcana?
+
+01:27:12.260 --> 01:27:15.380
+It's a word I'm looking for.
+
+01:27:15.699 --> 01:27:17.139
+It's the symbol of Talos.
+
+01:27:18.099 --> 01:27:18.899
+Oh, okay.
+
+01:27:20.500 --> 01:27:22.260
+Which destroyed the symbol.
+
+01:27:22.579 --> 01:27:27.460
+Well, do you want to see what's inside before you destroy it or just destroy the symbol and then open the satchel?
+
+01:27:27.779 --> 01:27:28.099
+Okay.
+
+01:27:28.819 --> 01:27:30.899
+Well, since it's a wax, it's pretty simple.
+
+01:27:31.059 --> 01:27:33.699
+You break the wax, you know, it takes a few seconds.
+
+01:27:35.300 --> 01:27:39.220
+I mean, but with your die rolls, Valfine, maybe we need to roll for that.
+
+01:27:40.179 --> 01:27:41.220
+Light of hand.
+
+01:27:42.819 --> 01:27:43.699
+Here you go.
+
+01:27:46.019 --> 01:27:46.819
+I have an idea.
+
+01:27:47.939 --> 01:27:48.420
+It doesn't.
+
+01:27:48.739 --> 01:27:49.460
+1D1.
+
+01:27:49.779 --> 01:27:50.739
+1D1.
+
+01:27:51.619 --> 01:27:54.260
+You broke a nail while cracking the wax.
+
+01:27:56.019 --> 01:27:56.579
+All right.
+
+01:27:57.139 --> 01:27:57.380
+Okay.
+
+01:27:57.619 --> 01:28:02.099
+And you find a notes.
+
+01:28:02.420 --> 01:28:06.260
+And amongst all of the notes, you find three interesting sentences.
+
+01:28:06.420 --> 01:28:09.300
+The first one is: your storm holds Grano.
+
+01:28:09.699 --> 01:28:11.859
+I'll just cut and paste it so you have it.
+
+01:28:16.169 --> 01:28:19.769
+The first one, the first fragment that remains is this.
+
+01:28:21.689 --> 01:28:22.249
+All right.
+
+01:28:26.119 --> 01:28:27.239
+There's another sag fragment.
+
+01:28:27.399 --> 01:28:30.199
+The chosen is pleased with the boy from the Eastern clan.
+
+01:28:30.599 --> 01:28:32.359
+Continue feeding him with the stories.
+
+01:28:32.599 --> 01:28:34.599
+Do not get tell him about the leash.
+
+01:28:36.989 --> 01:28:38.109
+The leash.
+
+01:28:38.750 --> 01:28:39.309
+All right.
+
+01:28:41.309 --> 01:28:42.349
+Let me just see what's that.
+
+01:28:44.750 --> 01:28:45.149
+All right.
+
+01:28:45.309 --> 01:28:49.469
+And if the last one is, if the henge falls, the mantse summons in its place.
+
+01:28:49.789 --> 01:28:52.349
+If the mantse falls, I summon myself.
+
+01:28:52.670 --> 01:28:54.670
+The bear comes, the store comes.
+
+01:28:54.829 --> 01:28:56.750
+You are not to fail twice.
+
+01:29:02.719 --> 01:29:03.999
+That was the second clue.
+
+01:29:04.159 --> 01:29:08.239
+And I forgot to give you another thing that you saw in the first thing.
+
+01:29:08.559 --> 01:29:09.679
+That was my mistake.
+
+01:29:09.999 --> 01:29:12.399
+I'm just watching over his shoulder and making a mention.
+
+01:29:12.479 --> 01:29:14.719
+You know, there's no mention of drinks in here.
+
+01:29:15.199 --> 01:29:16.079
+Those notes.
+
+01:29:16.399 --> 01:29:16.559
+Well.
+
+01:29:17.119 --> 01:29:20.959
+You find in the previous one, you found another note that said this.
+
+01:29:24.369 --> 01:29:25.009
+All right.
+
+01:29:26.849 --> 01:29:30.689
+A cannot rise where the storm or vegetables.
+
+01:29:30.929 --> 01:29:31.089
+Okay.
+
+01:29:31.649 --> 01:29:31.969
+All right.
+
+01:29:32.129 --> 01:29:34.609
+Do you want to go look at the last cave?
+
+01:29:35.249 --> 01:29:35.569
+Yeah.
+
+01:29:38.849 --> 01:29:39.249
+Who's it?
+
+01:29:39.569 --> 01:29:40.129
+Valfine.
+
+01:29:41.729 --> 01:29:42.289
+You also
+
+01:29:48.719 --> 01:29:50.719
+find, you notice a
+
+01:29:53.249 --> 01:29:54.769
+Vukridin's in a rush to get out.
+
+01:29:54.929 --> 01:30:03.009
+And as he's walking out, you notice him, you notice a random square beneath the floor that looks slightly out of place.
+
+01:30:06.699 --> 01:30:09.019
+This is with my passive perception.
+
+01:30:09.339 --> 01:30:12.219
+Yes, I'm assuming your passive perception is insane.
+
+01:30:13.259 --> 01:30:13.899
+It is.
+
+01:30:14.539 --> 01:30:14.779
+Right.
+
+01:30:16.859 --> 01:30:18.299
+Oh, it's only 17.
+
+01:30:18.619 --> 01:30:19.819
+Passive is minus 20.
+
+01:30:20.219 --> 01:30:20.460
+All right.
+
+01:30:20.539 --> 01:30:23.019
+So your passive perception with your.
+
+01:30:24.859 --> 01:30:26.059
+You're like a spy.
+
+01:30:26.379 --> 01:30:31.420
+Dude, all of Gary's characters have passive perception.
+
+01:30:32.460 --> 01:30:33.179
+It's useful.
+
+01:30:33.659 --> 01:30:35.979
+I don't know how you get it so high, actually.
+
+01:30:38.379 --> 01:30:39.899
+There's careful paths you can take.
+
+01:30:40.059 --> 01:30:40.460
+All right.
+
+01:30:40.779 --> 01:30:51.659
+So do you go and do you try to discreetly open the thing or do you do it in a perfunctory way so that Vukuda notices what you're going to look by there?
+
+01:30:52.219 --> 01:30:54.139
+Is Vukrida even with me?
+
+01:30:54.460 --> 01:30:56.859
+I feel like I should roll on this one.
+
+01:30:57.420 --> 01:30:58.539
+Well, he should roll a stock.
+
+01:30:58.859 --> 01:31:01.259
+I'm going to roll my perception and your stop.
+
+01:31:04.379 --> 01:31:04.939
+Nine.
+
+01:31:07.339 --> 01:31:07.739
+All right.
+
+01:31:09.579 --> 01:31:09.899
+All right.
+
+01:31:10.059 --> 01:31:11.339
+I guess I didn't notice.
+
+01:31:12.219 --> 01:31:12.459
+Yeah.
+
+01:31:12.779 --> 01:31:14.459
+She could fault you wouldn't notice.
+
+01:31:17.819 --> 01:31:21.899
+Add a potion of invulnerability into the black list.
+
+01:31:23.179 --> 01:31:25.019
+The blood money list.
+
+01:31:30.059 --> 01:31:31.099
+And now the last cake.
+
+01:31:31.339 --> 01:31:33.659
+Do you guys want to look at the last cave or are you done?
+
+01:31:33.979 --> 01:31:34.219
+Yeah.
+
+01:31:35.019 --> 01:31:35.819
+A potion.
+
+01:31:36.779 --> 01:31:38.619
+That's a drinkable item, isn't it?
+
+01:31:38.939 --> 01:31:39.099
+Yeah.
+
+01:31:39.659 --> 01:31:41.099
+You found your drink.
+
+01:31:41.739 --> 01:31:41.899
+Yeah.
+
+01:31:44.619 --> 01:31:49.500
+Okay, so of course, with Brewberry's kind of like feeling that he's got, you know.
+
+01:31:54.560 --> 01:31:54.880
+Okay.
+
+01:31:55.439 --> 01:31:58.560
+So this is yet another one of these curious caves.
+
+01:32:00.079 --> 01:32:02.319
+And very weird caves.
+
+01:32:02.399 --> 01:32:04.560
+You guys don't understand this part of the module.
+
+01:32:10.490 --> 01:32:10.730
+All right.
+
+01:32:11.050 --> 01:32:12.410
+Can you teleport me over there?
+
+01:32:12.730 --> 01:32:13.930
+Oh, did I not?
+
+01:32:15.130 --> 01:32:17.290
+I'm still in the Northwest for some reason.
+
+01:32:19.050 --> 01:32:20.570
+Oh, let's see what I have.
+
+01:32:21.850 --> 01:32:22.170
+All right.
+
+01:32:22.250 --> 01:32:23.050
+There we go.
+
+01:32:23.370 --> 01:32:23.850
+All right.
+
+01:32:24.410 --> 01:32:26.730
+I presume you start looking around there.
+
+01:32:27.370 --> 01:32:27.690
+And
+
+01:32:35.920 --> 01:32:36.560
+all right.
+
+01:32:36.880 --> 01:32:43.120
+You find a torn map fragment showing the Never Winter Wood with three marked sites.
+
+01:32:47.930 --> 01:32:49.450
+I'll show you where they are.
+
+01:32:50.410 --> 01:32:52.490
+Is the lodge one of those sites?
+
+01:32:52.810 --> 01:32:55.610
+Yes, the lodge is in fact one of those sites.
+
+01:32:59.850 --> 01:33:01.530
+What's at the lodge again?
+
+01:33:02.090 --> 01:33:04.890
+Well, lots and lots of alcohol.
+
+01:33:06.330 --> 01:33:06.970
+Yes.
+
+01:33:07.290 --> 01:33:07.690
+All right.
+
+01:33:08.330 --> 01:33:13.210
+So there's an X marks the spot kind of thing on the Falcon Lodge.
+
+01:33:13.770 --> 01:33:15.450
+That's where they hide the drinks.
+
+01:33:15.770 --> 01:33:16.170
+That's right.
+
+01:33:16.410 --> 01:33:18.090
+At the lodge, in bad sight.
+
+01:33:18.410 --> 01:33:18.810
+Right.
+
+01:33:20.090 --> 01:33:24.890
+And this, there's double circles around this location here.
+
+01:33:26.250 --> 01:33:27.050
+Are you showing anything?
+
+01:33:27.770 --> 01:33:29.450
+Oh, sorry, I'm not showing the right map.
+
+01:33:29.530 --> 01:33:29.690
+Right.
+
+01:33:29.850 --> 01:33:30.090
+Sorry.
+
+01:33:30.970 --> 01:33:31.690
+My bad.
+
+01:33:36.989 --> 01:33:37.470
+All right.
+
+01:33:38.989 --> 01:33:39.630
+All right.
+
+01:33:40.670 --> 01:33:45.710
+So you guys are at the Woodland Mance, Falcon's Lodge, and Circle of Thunder.
+
+01:33:46.350 --> 01:33:53.550
+Yeah, so you're at the Circle of Thunder, and you see double circle over here and then X marked on the Falcon's Hunting Lodge.
+
+01:33:53.869 --> 01:33:54.190
+Okay.
+
+01:33:54.350 --> 01:33:56.510
+Well, we knew that we wanted to go to those places anyway.
+
+01:33:56.590 --> 01:33:57.789
+Those are the next quests.
+
+01:33:58.110 --> 01:33:59.550
+So those are summoning sites.
+
+01:33:59.789 --> 01:34:02.350
+The question is: what are they trying to summon?
+
+01:34:04.670 --> 01:34:05.550
+We don't know.
+
+01:34:05.869 --> 01:34:06.750
+You don't know.
+
+01:34:07.070 --> 01:34:07.630
+Well, it is.
+
+01:34:08.029 --> 01:34:09.869
+I hope it's lots of barrels of Drew.
+
+01:34:10.909 --> 01:34:11.949
+It must be stopped.
+
+01:34:13.230 --> 01:34:14.029
+It's not good.
+
+01:34:15.310 --> 01:34:18.350
+It's not by Lefender, so it must be stopped.
+
+01:34:18.670 --> 01:34:19.230
+Yes.
+
+01:34:20.750 --> 01:34:21.150
+All right.
+
+01:34:21.390 --> 01:34:25.230
+So I am going to delete a horse with no rain from the tracker.
+
+01:34:25.310 --> 01:34:26.430
+We've completed it.
+
+01:34:28.350 --> 01:34:30.350
+And amazingly enough,
+
+01:34:32.320 --> 01:34:36.080
+the map leads us to the next two quest locations.
+
+01:34:36.400 --> 01:34:38.640
+Yes, before you leave, let me just make sure there's no thing.
+
+01:34:39.120 --> 01:34:44.160
+But they are marked in red because I have not yet gotten an apology.
+
+01:34:46.690 --> 01:34:49.490
+Yeah, but like Falcon is ready to give you the apology.
+
+01:34:49.650 --> 01:34:52.770
+I mean, like, this is where Valfide can smooth, try to smooth things over.
+
+01:34:55.200 --> 01:34:57.680
+With my persuasion skill.
+
+01:35:00.160 --> 01:35:00.720
+Okay, this is.
+
+01:35:02.800 --> 01:35:03.600
+Okay, guys.
+
+01:35:03.760 --> 01:35:04.480
+So you, you.
+
+01:35:05.280 --> 01:35:18.000
+Yes, I know that the Falcon, the hunter, wants us to go to these places, but you know, he was pretty mean to us at the, you know, at the ruin council.
+
+01:35:18.160 --> 01:35:20.240
+He doesn't really like us very much.
+
+01:35:20.880 --> 01:35:22.480
+Remember the musical instrument, Gary?
+
+01:35:22.800 --> 01:35:26.640
+You did propose the musical instrument, and he did say yes to it.
+
+01:35:26.800 --> 01:35:28.960
+Did he offer us like boots of stealth or something?
+
+01:35:29.280 --> 01:35:29.680
+He did.
+
+01:35:29.760 --> 01:35:33.200
+Yeah, it says on the we are boots of elven kind.
+
+01:35:33.680 --> 01:35:42.160
+Right, if you deal with the woodland manse or the falcon lodge, which was attacked by orcs, which is why he ended up, you know, you guys were supposed to go deal with the woodland manse.
+
+01:35:42.240 --> 01:35:43.440
+He didn't deal with the woodland mans.
+
+01:35:43.520 --> 01:35:46.640
+Then the orcs attacked his establishment.
+
+01:35:47.200 --> 01:35:48.240
+They didn't deal with that.
+
+01:35:48.560 --> 01:35:49.360
+He didn't deal with that.
+
+01:35:49.600 --> 01:35:51.760
+He can't be in five places at once, you know.
+
+01:35:51.920 --> 01:35:53.360
+There's only so much we can do.
+
+01:35:53.680 --> 01:35:57.040
+Yeah, I'm just, I'm just telling you that, you know, he felt a little bit betrayed.
+
+01:35:57.200 --> 01:36:00.640
+You know, like he once again put his faith in interventionists.
+
+01:36:00.720 --> 01:36:03.360
+And they, you know, what happened was bigger blowback.
+
+01:36:03.440 --> 01:36:05.200
+His girlfriend died.
+
+01:36:06.480 --> 01:36:07.520
+His girlfriend died?
+
+01:36:07.760 --> 01:36:07.920
+Yes.
+
+01:36:08.160 --> 01:36:08.480
+Excuses.
+
+01:36:08.720 --> 01:36:09.360
+Excuses.
+
+01:36:10.080 --> 01:36:11.680
+Well, you know, that's what he realized.
+
+01:36:11.920 --> 01:36:14.080
+That's what Valfide helped him realize that those were just.
+
+01:36:14.480 --> 01:36:15.120
+Oh, right, right.
+
+01:36:15.200 --> 01:36:15.920
+That was in the past.
+
+01:36:16.800 --> 01:36:17.040
+All right.
+
+01:36:17.120 --> 01:36:17.760
+I got to stop.
+
+01:36:18.720 --> 01:36:19.520
+I got an early morning.
+
+01:36:20.800 --> 01:36:21.440
+It was great.
+
+01:36:21.760 --> 01:36:22.160
+I had fun.
+
+01:36:22.320 --> 01:36:22.880
+I had fun.
+
+01:36:23.840 --> 01:36:24.160
+Just.
+

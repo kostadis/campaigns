@@ -1,0 +1,4923 @@
+WEBVTT
+
+NOTE Converted from the speaker-labelled Zoom transcript GMT20250528-035553_Recording (1).cleaned.dedup.md.
+
+NOTE Speaker labels and utterance text are verbatim from that source.
+
+NOTE Timestamps are SYNTHETIC. The source markdown carries no timing, so cue
+
+NOTE times are monotonic and proportional to utterance length only; they do
+
+NOTE not correspond to real recording offsets.
+
+1
+00:00:00.000 --> 00:00:01.000
+Dave Mendenhall: Bye Dave
+
+2
+00:00:01.200 --> 00:00:02.200
+Dave Mendenhall: Good morning
+
+3
+00:00:02.400 --> 00:00:03.933
+Kostadis: Yes, it is morning here
+
+4
+00:00:04.133 --> 00:00:06.467
+Dave Mendenhall: Then it's, uh, 9:30 in the morning?
+
+5
+00:00:06.667 --> 00:00:10.000
+Kostadis: Uh, it is 9:30. Wow, yeah. Good job. Mm-hmm. Yeah.
+
+6
+00:00:10.200 --> 00:00:12.733
+Dave Mendenhall: Yeah, I have to work with Indians too.
+
+7
+00:00:12.933 --> 00:00:17.600
+Dave Mendenhall: Yeah. That's nice of you to take some time out of your workday for us.
+
+8
+00:00:17.800 --> 00:00:34.600
+Kostadis: Uh, yeah, you know, like, um, I have a pretty, uh, open schedule today 'cause I did most of my, uh, my, my summiting and planning and architecting stuff, uh, last week. I am- Mm-hmm ... this week is, like, putting the bow on things and communicating it
+
+9
+00:00:34.800 --> 00:00:38.867
+Dave Mendenhall: Well, it was quite a backstory you wrote. Very impressive Oh.
+
+10
+00:00:39.067 --> 00:00:40.200
+Kostadis: Something useful?
+
+11
+00:00:40.400 --> 00:00:41.467
+Dave Mendenhall: Kostadis. Hello,
+
+12
+00:00:41.667 --> 00:00:43.133
+Kostadis: Gary. Hi. Hello, Dave.
+
+13
+00:00:43.333 --> 00:00:44.333
+Dave Mendenhall: Hello
+
+14
+00:00:44.533 --> 00:00:46.067
+Kostadis: I did bring the bourbon
+
+15
+00:00:46.267 --> 00:00:47.667
+Dave Mendenhall: Okay. Some ice cream?
+
+16
+00:00:47.867 --> 00:00:55.067
+Kostadis: It's like crackers. Yeah, I can't imagine it's ice cream in India. I guess they do have ice cream, but like-
+
+17
+00:00:55.267 --> 00:00:57.933
+Dave Mendenhall: How long did you live in India, Stathis?
+
+18
+00:00:58.133 --> 00:00:59.133
+Kostadis: What? You
+
+19
+00:00:59.333 --> 00:01:01.067
+Dave Mendenhall: lived in India for a year?
+
+20
+00:01:01.267 --> 00:01:02.800
+Kostadis: Two months, two months.
+
+21
+00:01:03.000 --> 00:01:05.333
+Dave Mendenhall: Only two months. But I was- Only...
+
+22
+00:01:05.533 --> 00:01:10.267
+Kostadis: No, it was- But I was there, I was there every six weeks for two years.
+
+23
+00:01:10.467 --> 00:01:13.467
+Dave Mendenhall: Oh, hmm. What was your favorite travel route?
+
+24
+00:01:13.667 --> 00:01:15.933
+Kostadis: I only did one, the Frankfurt one.
+
+25
+00:01:16.133 --> 00:01:17.933
+Dave Mendenhall: Oh, you did Frankfurt every
+
+26
+00:01:18.133 --> 00:01:22.000
+Kostadis: time? The, the, the best one though was through Abu Dhabi.
+
+27
+00:01:22.200 --> 00:01:26.067
+Kostadis: I did, later on in life I did the Abu, A- Abu Dhabi route.
+
+28
+00:01:26.267 --> 00:01:27.267
+Dave Mendenhall: Yeah. Yeah.
+
+29
+00:01:27.467 --> 00:01:34.800
+Kostadis: I, and I don't know what it was like when I was doing it in 2004, but in 2019 I recommend the Abu Dhabi route.
+
+30
+00:01:35.000 --> 00:01:36.000
+Dave Mendenhall: Yeah.
+
+31
+00:01:36.200 --> 00:01:37.200
+Kostadis: Hands down.
+
+32
+00:01:37.400 --> 00:01:41.533
+Dave Mendenhall: Singapore Airlines is pretty nice too. Goes through Singapore.
+
+33
+00:01:41.733 --> 00:01:47.667
+Kostadis: I did Air France through Paris, uh- Never ... and it took up to eight hours and 10 hours.
+
+34
+00:01:47.867 --> 00:01:51.467
+Kostadis: You, you didn't like that? No, it's Charles de Gaulle.
+
+35
+00:01:51.667 --> 00:02:00.267
+Dave Mendenhall: Yeah. Yeah. Well- That airport does kind of suck. Yeah, Charles de Gaulle. Frankfurt, Frankfurt Airport sucks too. They all suck.
+
+36
+00:02:00.467 --> 00:02:03.533
+Kostadis: No, no, the Frankfurt airport though is small.
+
+37
+00:02:03.733 --> 00:02:07.133
+Dave Mendenhall: Um, well, I've had to run through it several times.
+
+38
+00:02:07.333 --> 00:02:08.333
+Kostadis: Uh,
+
+39
+00:02:08.533 --> 00:02:19.133
+Kostadis: dude, I've had to run through it with a five-year-old after I finished, the two days after I finished a marathon with a five-year-old on my back while carrying
+
+40
+00:02:19.333 --> 00:02:20.333
+Kostadis: my bag.
+
+41
+00:02:20.533 --> 00:02:23.600
+Dave Mendenhall: Yeah, but you were well-trained at that point.
+
+42
+00:02:23.800 --> 00:02:42.467
+Kostadis: No, what I'm trying to say is I'm very familiar with the shortest paths in that airport- Yeah ... which is why I like it. But I agree that if I hadn't been trained about, like, what to do, how to do it, which turn to take- Yeah ... and how to do it- No ... I could agree with you.
+
+43
+00:02:42.667 --> 00:02:43.667
+Dave Mendenhall: Hey, Wade. He-
+
+44
+00:02:43.867 --> 00:02:44.867
+Kostadis: hello.
+
+45
+00:02:45.067 --> 00:02:48.667
+Wade Brown: Wade, your video's not on. Ugh. Neither are my lights.
+
+46
+00:02:48.867 --> 00:02:49.867
+Dave Mendenhall: There we go Oh,
+
+47
+00:02:50.067 --> 00:02:51.333
+Wade Brown: let me blind myself
+
+48
+00:02:51.533 --> 00:02:53.133
+Dave Mendenhall: Your dog is so chill now
+
+49
+00:02:53.333 --> 00:02:59.067
+Wade Brown: Yeah, it's an act. Uh, hold on. I'm gonna disappear. Okay My lights are not turning on
+
+50
+00:02:59.267 --> 00:03:01.133
+Dave Mendenhall: Oh, we can see you just fine
+
+51
+00:03:01.333 --> 00:03:06.133
+Wade Brown: Mm, yeah, but I look stupid. Why are they- Why are these not turning on?
+
+52
+00:03:06.333 --> 00:03:07.333
+Wade Brown: Mm That's weird
+
+53
+00:03:07.533 --> 00:03:08.533
+Gary Young: Uh, the
+
+54
+00:03:08.733 --> 00:03:10.267
+Dave Mendenhall: fuck? Oh, there you go.
+
+55
+00:03:10.467 --> 00:03:16.733
+Wade Brown: Huh. Well, still off. I guess I'll have to figure that out tonight or tomorrow. Somewhere over
+
+56
+00:03:16.933 --> 00:03:17.933
+Wade Brown: the rainbow,
+
+57
+00:03:18.133 --> 00:03:19.133
+Wade Brown: skies
+
+58
+00:03:19.333 --> 00:03:20.333
+Kostadis: are blue. Oh.
+
+59
+00:03:20.533 --> 00:03:23.267
+Wade Brown: Lathis, listen to you sing one more time.
+
+60
+00:03:23.467 --> 00:03:28.400
+Kostadis: There's a simple solution to your problem, Lathis. You can leave the room.
+
+61
+00:03:28.600 --> 00:03:29.600
+Wade Brown: Oh, snizzap.
+
+62
+00:03:29.800 --> 00:03:33.600
+Wade Brown: Hey, there we go. All right, and then outlet number eight
+
+63
+00:03:33.800 --> 00:03:37.333
+Wade Brown: There we go. There. Now I show up. I'm not a vampire.
+
+64
+00:03:37.533 --> 00:03:38.533
+Gary Young: Oh, yeah
+
+65
+00:03:38.733 --> 00:03:40.267
+Wade Brown: I just live in the dark
+
+66
+00:03:40.467 --> 00:03:43.067
+Dave Mendenhall: How's your new, uh, bring up job going?
+
+67
+00:03:43.267 --> 00:04:00.600
+Wade Brown: Uh, so I... Everything I thought I was getting away from has come to roost so far. I'm in pre-meeting hell because they... Last week they had, like, the pre-kickoff or whatever, and I... Part of the discussion seemed to involve we have to ask for the hardware.
+
+68
+00:04:00.800 --> 00:04:06.733
+Wade Brown: Um, I don't know how they expected us to do this. Um Are you working for a company again?
+
+69
+00:04:06.933 --> 00:04:09.200
+Dave Mendenhall: Just based on the data sheets. Uh-
+
+70
+00:04:09.400 --> 00:04:12.867
+Kostadis: Are you working at... Are you working in tech again?
+
+71
+00:04:13.067 --> 00:04:33.000
+Wade Brown: Yes. I, uh, I, I took a contract job, uh, because I figured I wouldn't have to deal with the endless bullshit of, you know, interminably supporting everything I write, uh, you know, dealing with meetings and mentoring and just all the other piddling crap that just really sucks the life out of tech.
+
+72
+00:04:33.200 --> 00:04:34.467
+Wade Brown: Uh, my first job is
+
+73
+00:04:34.667 --> 00:04:35.667
+Kostadis: to-
+
+74
+00:04:35.867 --> 00:04:43.733
+Kostadis: Like, let's just be clear, your definition of the things that suck in tech don't, are not uniform across the industry.
+
+75
+00:04:43.933 --> 00:04:48.867
+Wade Brown: Yes, they are. You're not in the industry. You're in a different industry.
+
+76
+00:04:49.067 --> 00:04:52.200
+Kostadis: I, I was like, wow, those are the better parts.
+
+77
+00:04:52.400 --> 00:05:06.867
+Wade Brown: No, I'm act- I am excited because they're gonna send me, uh, two AMD Versal boards that are about $10,000 each, and the, the goal is to basically establish a PCIe link between them and then switch out a bunch of MFDs.
+
+78
+00:05:07.067 --> 00:05:14.200
+Wade Brown: Uh, so there's a lot of fun stuff to work on, um- That's very cool ... as soon as I get the hardware. Yeah.
+
+79
+00:05:14.400 --> 00:05:16.133
+Wade Brown: But so you do get to enjoy
+
+80
+00:05:16.333 --> 00:05:23.067
+Kostadis: the total chaos of the purchasing, shipping- payments processing parts of working at a large company.
+
+81
+00:05:23.267 --> 00:05:29.333
+Wade Brown: Well, I mean- Or small ... the, in theory, the customer should be sending me these shortly.
+
+82
+00:05:29.533 --> 00:05:52.067
+Wade Brown: Um- Oh, I see. I don't know. I have a meeting tomorrow to help discuss all that, but I'm just, I'm surprised at how much I have to, to just get started for, you know... They've got this... It's funny, 'cause it's a government contract and, um, so they've got, like, this, I don't know, like, 700-page statement of work and all that stuff.
+
+83
+00:05:52.267 --> 00:06:02.667
+Wade Brown: It's got, like, you know, this whole plan schedule and all that and, and, you know, meeting one was like- I, I'm ask- "So are you gonna give us a hardware?"
+
+84
+00:06:02.867 --> 00:06:11.067
+Kostadis: Like... Let me ask you a question. Had, has Elon, is Elon aware of this project, and does it include the word... Did, like-
+
+85
+00:06:11.267 --> 00:06:16.467
+Dave Mendenhall: Yeah. I, I- Yeah ... there's no guarantee that you're actually gonna get paid.
+
+86
+00:06:16.667 --> 00:06:36.133
+Wade Brown: Well, so I'm paid by my subcontractor or whatever, so those guys'll pay me. Yes, that's what- And the company, the company is, uh, Anduril. They are not small fish. Uh, they're a government contractor. This is actually an ITAR project, so they're, they're pretty big. Oh, Anduril. The Anduril
+
+87
+00:06:36.333 --> 00:06:38.467
+Kostadis: is actually... Yes, I know them.
+
+88
+00:06:38.667 --> 00:06:45.800
+Wade Brown: Uh, what- Yeah, so they're the customer for the subcontractor I'm working for, so. Oh, I see. Okay. Anyway.
+
+89
+00:06:46.000 --> 00:06:47.600
+Dave Mendenhall: Uh- Right. Well, that is
+
+90
+00:06:47.800 --> 00:06:55.467
+Wade Brown: interesting. I could ramble all day about things I hate in, in, you know, that aren't tech, but we should play D&D.
+
+91
+00:06:55.667 --> 00:07:00.600
+Dave Mendenhall: I used to get paid to listen to you ramble about things you hated in tech.
+
+92
+00:07:00.800 --> 00:07:05.133
+Wade Brown: I used to get paid to ramble at you about things I hated in tech.
+
+93
+00:07:05.333 --> 00:07:10.600
+Dave Mendenhall: No, you still get paid for that. I just don't get paid to listen to it anymore.
+
+94
+00:07:10.800 --> 00:07:21.867
+Wade Brown: Well, you can mute me anytime you want. Actually, can you mute an individual user in Zoom? You can do it in most others, but not... I don't think Zoom lets you do it.
+
+95
+00:07:22.067 --> 00:07:23.067
+Wade Brown: Is that right?
+
+96
+00:07:23.267 --> 00:07:27.533
+Dave Mendenhall: You can mute an individual user? I didn't know that. That's fun.
+
+97
+00:07:27.733 --> 00:07:31.200
+Wade Brown: In Discord you definitely can. It's super- Oh, yeah.
+
+98
+00:07:31.400 --> 00:07:33.200
+Dave Mendenhall: In, in Discord, definitely.
+
+99
+00:07:33.400 --> 00:07:41.600
+Wade Brown: It's super useful because you can also adjust the volume level of a single user, so, like, if somebody's too quiet or loud-
+
+100
+00:07:41.800 --> 00:07:44.000
+Dave Mendenhall: Like do your own volume leveling.
+
+101
+00:07:44.200 --> 00:07:50.067
+Wade Brown: Yeah, instead of yelling, like, "Hey, hey, you're muted. Hey, you're too quiet." Anyway.
+
+102
+00:07:50.267 --> 00:07:53.400
+Wade Brown: It's not hard to get me ranting. I'm an old man
+
+103
+00:07:53.600 --> 00:07:54.667
+Dave Mendenhall: Are we starting?
+
+104
+00:07:54.867 --> 00:08:21.067
+Kostadis: Yeah, yeah. Hold on. I'm trying to figure something out. Ah, there we go. Names only. There we go. I was, like, get very irritated with the... So, oh, um, what did I wanna say? Yes, about your background. Jet, I, I'm sorry, I just got really excited after I used my, my happy tools- tool set to create a background by, you know, pulling out random things, and then I had to create a narrative.
+
+105
+00:08:21.267 --> 00:08:35.600
+Kostadis: Feel free to have whatever background you want. Uh, where do you want it? S- you can drop it as a text file, you can drop it in chat, you can- All right ... send, send it whatever chair we want. All right. I want to
+
+106
+00:08:35.800 --> 00:08:37.867
+Wade Brown: w- I want to make the GM happy.
+
+107
+00:08:38.067 --> 00:08:40.000
+Kostadis: I put it in the drive folder.
+
+108
+00:08:40.200 --> 00:08:43.333
+Wade Brown: Yeah I'll, I'll fill the whole thing in shortly
+
+109
+00:08:43.533 --> 00:08:44.533
+Gary Young: That's fine.
+
+110
+00:08:44.733 --> 00:08:45.733
+Gary Young: Doesn't
+
+111
+00:08:45.933 --> 00:08:52.067
+Wade Brown: have to have very much. I know. It's, it's a, it's just a jumping off point for in campaign.
+
+112
+00:08:52.267 --> 00:09:01.467
+Kostadis: Yeah. I mean, sufficiently is I was a turtle near Neverwinter, and I liked, and I became a cl- a druid of Mielikki An, an old turtle. Yes.
+
+113
+00:09:01.667 --> 00:09:08.000
+Wade Brown: Anything beyond- Turtles o- turtles only live 50 years. I was kinda surprised when I read that.
+
+114
+00:09:08.200 --> 00:09:13.600
+Wade Brown: I'm like, "Well, then she's like 45. Let's go with that." Oh, wow. She's ancient.
+
+115
+00:09:13.800 --> 00:09:17.667
+Dave Mendenhall: You could actually, like, die of old age in this campaign.
+
+116
+00:09:17.867 --> 00:09:21.533
+Wade Brown: That, I actually would not be upset to see that happen.
+
+117
+00:09:21.733 --> 00:09:35.467
+Kostadis: One, but they don't have those spells anymore. Which spells? Like reverse aging or something or? No, the ones that destroy you if you don't... The, the aging ones. The, the, the monsters that would age you.
+
+118
+00:09:35.667 --> 00:09:43.267
+Wade Brown: Oh, but I mean, like, we had what's his, uh, Orsik, you know, the young Orsik the Wise. Didn't I know Orsik, like,
+
+119
+00:09:43.467 --> 00:09:46.333
+Dave Mendenhall: yeah, aged 40 years or something like that?
+
+120
+00:09:46.533 --> 00:09:49.400
+Dave Mendenhall: Oh, yeah, the ghost. Yeah, the ghost. Yeah.
+
+121
+00:09:49.600 --> 00:10:02.067
+Wade Brown: You, you had, what was it? It was a random effect of something, right? Like, it was a... I don't wanna say it was the wand of wonder, but it was something just about as random, I thought.
+
+122
+00:10:02.267 --> 00:10:07.267
+Dave Mendenhall: No, it was a ghost. It was a ghost. It was a ghost. It was a ghost. It was,
+
+123
+00:10:07.467 --> 00:10:10.800
+Wade Brown: it was a spell that had random effects, I thought.
+
+124
+00:10:11.000 --> 00:10:12.000
+Wade Brown: Anyway
+
+125
+00:10:12.200 --> 00:10:18.067
+Dave Mendenhall: I think the, uh, Wand of Wonder also had, like, you age 10 years or something like that.
+
+126
+00:10:18.267 --> 00:10:32.200
+Wade Brown: Yes. Yeah, I, I don't, I don't think it was unlucky blasting it- Oh, okay ... with the Wand of Wonder, but I do think it was... I'm sure we could go through the summaries and find it. Yes. All right. But- Yes.
+
+127
+00:10:32.400 --> 00:10:38.267
+Dave Mendenhall: All right, so this, this seems to be a dead end, so let's head back this way, gentlemen.
+
+128
+00:10:38.467 --> 00:10:41.933
+Kostadis: Uh, there's the secret door here. And will it? Well-
+
+129
+00:10:42.133 --> 00:10:46.467
+Dave Mendenhall: Yeah, by the way, w- I mean, we could go through that secret door
+
+130
+00:10:46.667 --> 00:10:57.800
+Kostadis: I'm just saying, you've got both of those op- options. I mean, this, this- Vukradin, Vukradin, which way do you wanna go? Sure. Through here? Is that your final offer?
+
+131
+00:10:58.000 --> 00:10:59.000
+Dave Mendenhall: Sure.
+
+132
+00:10:59.200 --> 00:11:02.800
+Kostadis: I mean, there's nothing in this little hallway, right?
+
+133
+00:11:03.000 --> 00:11:06.267
+Kostadis: Like- All right, let me just read the description
+
+134
+00:11:06.467 --> 00:11:11.400
+Kostadis: All right. Well, a bli- a bloodstoned, a bloodstained... Here, let me just
+
+135
+00:11:11.600 --> 00:11:14.667
+Dave Mendenhall: put this here Bloodstained. Okay Let's do this
+
+136
+00:11:14.867 --> 00:11:16.067
+Kostadis: right there Buddy,
+
+137
+00:11:16.267 --> 00:11:17.333
+Wade Brown: get out of there
+
+138
+00:11:17.533 --> 00:11:18.533
+Wade Brown: Sorry
+
+139
+00:11:18.733 --> 00:11:26.733
+Kostadis: There's a blood-stained altar over there. All right, there's a blood-stained altar over there. Um, and right next to you
+
+140
+00:11:26.933 --> 00:11:27.933
+Kostadis: Jose
+
+141
+00:11:28.133 --> 00:11:29.133
+Wade Brown: Ochre jelly
+
+142
+00:11:29.333 --> 00:11:30.333
+Dave Mendenhall: Excellent.
+
+143
+00:11:30.533 --> 00:11:34.533
+Wade Brown: Found it That Yeah Big old pile of mustard. All right. Okay.
+
+144
+00:11:34.733 --> 00:11:38.333
+Kostadis: So, and all right, uh, need to do the initiative thing
+
+145
+00:11:38.533 --> 00:11:39.533
+Dave Mendenhall: Ugh
+
+146
+00:11:39.733 --> 00:11:47.267
+Kostadis: Where is it? What was your character's... You didn't put your chara- Did I misspell your character? I don't know.
+
+147
+00:11:47.467 --> 00:11:50.667
+Dave Mendenhall: Oof. AC8. There's an AC you don't see every day.
+
+148
+00:11:50.867 --> 00:11:59.400
+Wade Brown: Mm-hmm. I mean, it's a slow gelatinous blob. You're gonna hit it. Well- You might not get your weapon back ... still roll a one.
+
+149
+00:11:59.600 --> 00:12:04.067
+Dave Mendenhall: Still roll a one. Possible This is when you use your attack spells.
+
+150
+00:12:04.267 --> 00:12:05.800
+Dave Mendenhall: Uh, attack roll spells.
+
+151
+00:12:06.000 --> 00:12:10.333
+Kostadis: Does it even have an initiative? It's a jelly, it just sits there
+
+152
+00:12:10.533 --> 00:12:12.800
+Dave Mendenhall: Takes no actions, just waits till-
+
+153
+00:12:13.000 --> 00:12:14.000
+Dave Mendenhall: I'll buff.
+
+154
+00:12:14.200 --> 00:12:15.200
+Dave Mendenhall: Yeah, this one
+
+155
+00:12:15.400 --> 00:12:16.400
+Wade Brown: Oh.
+
+156
+00:12:16.600 --> 00:12:18.667
+Kostadis: Uh, minus two on its initiative
+
+157
+00:12:18.867 --> 00:12:19.867
+Wade Brown: Minus two
+
+158
+00:12:20.067 --> 00:12:28.800
+Kostadis: So hold on, I need to make some adjustments. All right, it takes a minus two to its adj- to its 10, it has 52 hit points. All right
+
+159
+00:12:29.000 --> 00:12:32.067
+Gary Young: I'm sorry Where's the init thing? There you go
+
+160
+00:12:32.267 --> 00:12:36.333
+Gary Young: All right, run script All right, fine. Screw it. Ugh. Hold on
+
+161
+00:12:36.533 --> 00:12:47.333
+Kostadis: Ah, okay. Well, all right, I'll figure it out later. All right. It doesn't let me roll the, uh, automatic thing, so I'll figure this out later. All right, 17. You
+
+162
+00:12:47.533 --> 00:12:48.533
+Dave Mendenhall: rolled a 17?
+
+163
+00:12:48.733 --> 00:12:49.733
+Kostadis: I rolled a 19.
+
+164
+00:12:49.933 --> 00:12:51.400
+Wade Brown: Yeah, minus two. Okay.
+
+165
+00:12:51.600 --> 00:12:52.600
+Dave Mendenhall: What?
+
+166
+00:12:52.800 --> 00:12:56.267
+Kostadis: Devar, are you- No, I was waiting for it. I don't, I
+
+167
+00:12:56.467 --> 00:13:00.133
+Dave Mendenhall: think it's- We got outranked by a fricking ochre jelly.
+
+168
+00:13:00.333 --> 00:13:01.333
+Kostadis: It's,
+
+169
+00:13:01.533 --> 00:13:06.867
+Wade Brown: no, but, um- You get used to these things with time So, all right It's been like
+
+170
+00:13:07.067 --> 00:13:09.467
+Dave Mendenhall: eight years. I'm not used to it yet.
+
+171
+00:13:09.667 --> 00:13:17.000
+Kostadis: All right. Mm. All right, Brewbarry So an 11 hits maybe? Definitely. Yes, definitely. Excellent. Uh, and then-
+
+172
+00:13:17.200 --> 00:13:21.733
+Dave Mendenhall: But you have to move to get, uh... Do you need to move closer first?
+
+173
+00:13:21.933 --> 00:13:40.733
+Kostadis: I don't think I do. I'm- Oh, okay. Oh, I guess you have to Okay. Uh, uh, uh, hold on. What, what did, what weapon did you use? A halberd. Is it a slashing weapon? It is a Uh, I guess Flashing, yes All right. Or so it is immune to the slashing damage All right And it splits into two
+
+174
+00:13:40.933 --> 00:13:42.600
+Wade Brown: Well, that's crap Perfect
+
+175
+00:13:42.800 --> 00:13:43.800
+Dave Mendenhall: Oh,
+
+176
+00:13:44.000 --> 00:13:53.200
+Wade Brown: I'm sorry. I was using Varas' character sheet. I'm an eight with a plus one bonus, so I'm still at the bottom, just even slower All right.
+
+177
+00:13:53.400 --> 00:13:57.133
+Kostadis: So, um, I think maybe I should also... Should I move in?
+
+178
+00:13:57.333 --> 00:13:58.400
+Dave Mendenhall: Okay. Yeah, sure
+
+179
+00:13:58.600 --> 00:14:00.400
+Kostadis: I'll move up here All right
+
+180
+00:14:00.600 --> 00:14:03.933
+Kostadis: Okay. Ooze ochre jelly. How does this thing works?
+
+181
+00:14:04.133 --> 00:14:08.533
+Dave Mendenhall: You're gonna have to do it. Oh, now they're half size. Even better
+
+182
+00:14:08.733 --> 00:14:10.000
+Gary Young: All right. Okay, so
+
+183
+00:14:10.200 --> 00:14:13.333
+Dave Mendenhall: Okay. All right. Uh- I have nine hit points. Do
+
+184
+00:14:13.533 --> 00:14:14.533
+Gary Young: you?
+
+185
+00:14:14.733 --> 00:14:19.133
+Dave Mendenhall: What about- For the moment, for the moment I have nine hit points.
+
+186
+00:14:19.333 --> 00:14:20.333
+Dave Mendenhall: Let's see.
+
+187
+00:14:20.533 --> 00:14:25.200
+Kostadis: Uh, oh wow, these are pretty fre- pretty bad. What's your armor class?
+
+188
+00:14:25.400 --> 00:14:29.200
+Dave Mendenhall: It's on the, it's on the tracker. You can look All right.
+
+189
+00:14:29.400 --> 00:14:42.467
+Kostadis: All right. Let's see. Okay, the one takes, uh, uh, unloads a pseudopod on you. Please don't tell me I killed you in the first round. Looks like you did. No, no. Uh, is that Dor- Oh, no, you missed
+
+190
+00:14:42.667 --> 00:14:43.667
+Kostadis: uh, AC.
+
+191
+00:14:43.867 --> 00:14:44.933
+Dave Mendenhall: You missed. Yes.
+
+192
+00:14:45.133 --> 00:14:46.133
+Kostadis: All right.
+
+193
+00:14:46.333 --> 00:14:49.067
+Dave Mendenhall: Plus f- you have a plus four to hit, too.
+
+194
+00:14:49.267 --> 00:14:50.267
+Kostadis: Yes.
+
+195
+00:14:50.467 --> 00:14:53.333
+Dave Mendenhall: All right. All right. All right, he missed.
+
+196
+00:14:53.533 --> 00:14:59.267
+Kostadis: All right. Yeah, that was number two. Number one advances on the barbarian. Oh, right.
+
+197
+00:14:59.467 --> 00:15:10.333
+Kostadis: And that does... Are you dead? Maybe. Uh, no, no. Uh, wait, no. No, I'm not dead. I have one hit point. All right. All right, they are done with their round. Next?
+
+198
+00:15:10.533 --> 00:15:12.133
+Dave Mendenhall: Uh, Valphine, you're up.
+
+199
+00:15:12.333 --> 00:15:14.733
+Kostadis: All right. Um, Healing for everyone?
+
+200
+00:15:14.933 --> 00:15:15.933
+Dave Mendenhall: Nah.
+
+201
+00:15:16.133 --> 00:15:17.133
+Kostadis: Not for
+
+202
+00:15:17.333 --> 00:15:18.667
+Wade Brown: me, I'm full health.
+
+203
+00:15:18.867 --> 00:15:29.733
+Kostadis: Uh, you know, like, um, we'll do it- The last time... By the way, just for the record, the last time we had a party with a bard, three of the four characters died.
+
+204
+00:15:29.933 --> 00:15:37.600
+Wade Brown: Bards don't do much at level one. I just want everybody to be aware of that, there's a precedent for this disaster.
+
+205
+00:15:37.800 --> 00:15:41.133
+Kostadis: Uh, we're gonna do, um, Sacred Flame. All right. I
+
+206
+00:15:41.333 --> 00:15:42.667
+Dave Mendenhall: have lots of spells.
+
+207
+00:15:42.867 --> 00:15:44.800
+Kostadis: So this is a death save DC 13
+
+208
+00:15:45.000 --> 00:15:52.200
+Kostadis: And that would be six radiant Okay. Uh, which one are you doing the damage to? The one that's closest to me.
+
+209
+00:15:52.400 --> 00:15:53.400
+Dave Mendenhall: All right,
+
+210
+00:15:53.600 --> 00:16:04.333
+Kostadis: it's got a minus two, so this would be... This is the one that's closest to you. So number two takes six points of damage I will mark it. Sacred flame. All right
+
+211
+00:16:04.533 --> 00:16:05.800
+Kostadis: Uh, Soma That's me.
+
+212
+00:16:06.000 --> 00:16:07.000
+Wade Brown: All right
+
+213
+00:16:07.200 --> 00:16:09.867
+Dave Mendenhall: Vukradin. Vukradin is up. Vukradin is up
+
+214
+00:16:10.067 --> 00:16:14.067
+Wade Brown: Oh, right. I'm at the bottom. Yeah. Vukradin first. Vukradin
+
+215
+00:16:14.267 --> 00:16:16.333
+Dave Mendenhall: DC 13 con saves for both ochres
+
+216
+00:16:16.533 --> 00:16:20.267
+Kostadis: Uh, what's the range? It's a 15 cubic feet, right? Yeah,
+
+217
+00:16:20.467 --> 00:16:22.933
+Dave Mendenhall: 15 cu- 15 in a cone shape, I believe.
+
+218
+00:16:23.133 --> 00:16:24.133
+Kostadis: Cube, actually.
+
+219
+00:16:24.333 --> 00:16:25.933
+Dave Mendenhall: It's a cube? Okay. Yeah.
+
+220
+00:16:26.133 --> 00:16:29.133
+Kostadis: All right, so, uh, what is Thunderwave again?
+
+221
+00:16:29.333 --> 00:16:30.667
+Kostadis: Oh, yeah, it is cube
+
+222
+00:16:30.867 --> 00:16:31.867
+Dave Mendenhall: Time saves
+
+223
+00:16:32.067 --> 00:16:40.333
+Kostadis: Ah, so, um, I, I, I now, I, I've, I read the ru- I ... There was a ruling on lightning bolt, so that we all know it. Oh, no.
+
+224
+00:16:40.533 --> 00:16:42.467
+Dave Mendenhall: I'm not using lightning bolt.
+
+225
+00:16:42.667 --> 00:16:52.267
+Kostadis: I know, but I just ... Because it, we, we, we had this debate, I wanna make the point now so later on when we both use it, we don't get annoyed.
+
+226
+00:16:52.467 --> 00:16:59.267
+Kostadis: All right. Um- What's the ruling? So the ruling is... Ah, fiddlesticks, I'm going through it this way.
+
+227
+00:16:59.467 --> 00:17:00.467
+Wade Brown: Language.
+
+228
+00:17:00.667 --> 00:17:05.800
+Kostadis: Right. So- This affects everybody in those squares if they are of size medium
+
+229
+00:17:06.000 --> 00:17:25.533
+Kostadis: So it- Okay. That, that goes down the line, and then it's the squares on each of the side of the line Yeah. So it- as long as it hits half of the square- Mm-hmm ... it affects it. So all of these... So if you were to use lightning bolt from here, you could target all of these, everybody here.
+
+230
+00:17:25.733 --> 00:17:28.733
+Dave Mendenhall: Okay. Why would I wanna target the barbarian?
+
+231
+00:17:28.933 --> 00:17:30.067
+Kostadis: I, I'm... Imagine
+
+232
+00:17:30.267 --> 00:17:39.467
+Wade Brown: they were enemies. But you could also shift it left so that it only hits one column instead of two, right? I don't, I don't think it would
+
+233
+00:17:39.667 --> 00:17:41.867
+Dave Mendenhall: be appropriate to attack my ally.
+
+234
+00:17:42.067 --> 00:17:48.867
+Kostadis: Vukradin, we weren't talking to you right now. We were talking to Dave. Dave is an alter ego of yours.
+
+235
+00:17:49.067 --> 00:17:51.867
+Dave Mendenhall: All right. Can you do your damn con saves?
+
+236
+00:17:52.067 --> 00:17:54.267
+Dave Mendenhall: I wanna know if I did any damage.
+
+237
+00:17:54.467 --> 00:17:55.800
+Kostadis: All right. Two, two.
+
+238
+00:17:56.000 --> 00:17:57.000
+Kostadis: Six and 10.
+
+239
+00:17:57.200 --> 00:17:58.200
+Kostadis: Six and 10
+
+240
+00:17:58.400 --> 00:18:03.400
+Kostadis: Grug, Gilly. Uh, uh, constaves of plus two. No, unless it's, uh, eight and-
+
+241
+00:18:03.600 --> 00:18:09.000
+Dave Mendenhall: They fail. They fail. So they each take eight damage and are pushed back 10 feet.
+
+242
+00:18:09.200 --> 00:18:14.400
+Kostadis: All right. This guy goes, pushed back five feet, 'cause there's nowhere to go.
+
+243
+00:18:14.600 --> 00:18:20.200
+Dave Mendenhall: Uh, no. I mean, I would've been angling it up, right? So I think he goes diagonally.
+
+244
+00:18:20.400 --> 00:18:21.733
+Kostadis: All right. This way.
+
+245
+00:18:21.933 --> 00:18:31.467
+Dave Mendenhall: Yeah, something like that. And then similarly- All right ... yes. And now I believe I have some movement. How much movement do I have? Hold on,
+
+246
+00:18:31.667 --> 00:18:34.667
+Kostadis: hold on. Can someone mark the damage, please?
+
+247
+00:18:34.867 --> 00:18:37.600
+Dave Mendenhall: Uh, eight damage. Eight. Yes, I am on it.
+
+248
+00:18:37.800 --> 00:18:44.333
+Kostadis: All right. All right. Meanwhile, the two dwar- one of the two dwarves shouts, "Uh," Dazlyn goes, "
+
+249
+00:18:44.533 --> 00:18:46.200
+Kostadis: Is everybody okay there?"
+
+250
+00:18:46.400 --> 00:18:57.333
+Kostadis: Okay, I'm going to use my- And Nor- and Norbus shouts, "Could you not use such damaging spells? It might damage some of the interior that we're trying to preserve."
+
+251
+00:18:57.533 --> 00:19:00.200
+Dave Mendenhall: Wait till later. Oh, I'm looking forward
+
+252
+00:19:00.400 --> 00:19:05.200
+Dave Mendenhall: to combat with him. Okay. And, uh, I will run and hide behind the altar.
+
+253
+00:19:05.400 --> 00:19:09.600
+Kostadis: Do I get an attack of opportunity at the, um- You do All right.
+
+254
+00:19:09.800 --> 00:19:15.133
+Kostadis: With my slashing weapon. Or I guess I should punch then. Yeah. Okay. I'll punch.
+
+255
+00:19:15.333 --> 00:19:18.467
+Dave Mendenhall: That only does strength bonus damage, I believe
+
+256
+00:19:18.667 --> 00:19:19.800
+Kostadis: Yeah, four damage
+
+257
+00:19:20.000 --> 00:19:23.467
+Dave Mendenhall: Oh, you have a good strength bonus I do Four on one?
+
+258
+00:19:23.667 --> 00:19:28.867
+Kostadis: Um, what does it say? It says four damage, but my strength bonus is, uh- It's,
+
+259
+00:19:29.067 --> 00:19:30.067
+Dave Mendenhall: I think
+
+260
+00:19:30.267 --> 00:19:34.200
+Kostadis: it's- Plus three ... there's a minimum one plus your- Oh, I
+
+261
+00:19:34.400 --> 00:19:37.733
+Dave Mendenhall: think it's one plus, one plus your strength damage
+
+262
+00:19:37.933 --> 00:19:38.933
+Kostadis: One plus three.
+
+263
+00:19:39.133 --> 00:19:41.333
+Kostadis: All right. So four damage on, um-
+
+264
+00:19:41.533 --> 00:19:42.533
+Dave Mendenhall: Number one ...
+
+265
+00:19:42.733 --> 00:19:45.600
+Kostadis: the other one All right. Did someone reply?
+
+266
+00:19:45.800 --> 00:19:47.067
+Dave Mendenhall: No. Go ahead, Gary.
+
+267
+00:19:47.267 --> 00:19:55.800
+Kostadis: Hold on. Hold on. Okay. Gary, hold on. Hold on, Gary. Okay. Okay. Another great... The, the, the startled. What am I doing here?
+
+268
+00:19:56.000 --> 00:19:57.000
+Dave Mendenhall: Looks good
+
+269
+00:19:57.200 --> 00:19:58.200
+Kostadis: The
+
+270
+00:19:58.400 --> 00:20:01.133
+Kostadis: Another gray ooze drops from the ceiling.
+
+271
+00:20:01.333 --> 00:20:02.800
+Wade Brown: Guys, we're done here.
+
+272
+00:20:03.000 --> 00:20:04.067
+Dave Mendenhall: Nah, we're good.
+
+273
+00:20:04.267 --> 00:20:08.400
+Wade Brown: Look, I got a few years left. I'd like to spend them not dead.
+
+274
+00:20:08.600 --> 00:20:11.533
+Kostadis: Another ochre jelly, or a what? Ochre jelly.
+
+275
+00:20:11.733 --> 00:20:12.733
+Dave Mendenhall: Gray ooze?
+
+276
+00:20:12.933 --> 00:20:13.933
+Kostadis: Ochre jelly. O-
+
+277
+00:20:14.133 --> 00:20:16.600
+Dave Mendenhall: ochre jelly. Oh, another ochre jelly.
+
+278
+00:20:16.800 --> 00:20:17.800
+Kostadis: Yeah.
+
+279
+00:20:18.000 --> 00:20:21.267
+Wade Brown: I'm not sure how this is gonna work. It just- Why
+
+280
+00:20:21.467 --> 00:20:23.933
+Dave Mendenhall: are you dropping it right next to me?
+
+281
+00:20:24.133 --> 00:20:26.333
+Wade Brown: Guys, this is fleeing time. Well,
+
+282
+00:20:26.533 --> 00:20:27.533
+Kostadis: I mean, you
+
+283
+00:20:27.733 --> 00:20:29.333
+Dave Mendenhall: don't- Right next to me,
+
+284
+00:20:29.533 --> 00:20:38.333
+Kostadis: really? I mean, you don't have to fight them like mono. You can step back. You can... They're, they... You can kill them, you- I ran
+
+285
+00:20:38.533 --> 00:20:39.533
+Dave Mendenhall: away.
+
+286
+00:20:39.733 --> 00:20:46.600
+Kostadis: It, well, it, it, strictly speaking, it is... Let's see. They, they have... Are they immune to stunned?
+
+287
+00:20:46.800 --> 00:20:49.067
+Wade Brown: They're immune to a lot of things.
+
+288
+00:20:49.267 --> 00:20:56.333
+Kostadis: Yes, but they are not immune to stunned, so I'm going to declare that they fell down stunned at the sound.
+
+289
+00:20:56.533 --> 00:20:59.067
+Dave Mendenhall: Okay. You wanna do an initiative roll?
+
+290
+00:20:59.267 --> 00:21:01.733
+Kostadis: I, I did. He's got initiative of two.
+
+291
+00:21:01.933 --> 00:21:02.933
+Dave Mendenhall: Hey,
+
+292
+00:21:03.133 --> 00:21:05.000
+Wade Brown: that's something I can beat.
+
+293
+00:21:05.200 --> 00:21:09.400
+Dave Mendenhall: Okay. We'll roll him in next round. All right, Soma, you're up.
+
+294
+00:21:09.600 --> 00:21:11.733
+Wade Brown: All right. We're coming up here.
+
+295
+00:21:11.933 --> 00:21:16.800
+Wade Brown: What was that request about not doing damaging spells to the environment?
+
+296
+00:21:17.000 --> 00:21:18.133
+Dave Mendenhall: I love it. Do it.
+
+297
+00:21:18.333 --> 00:21:26.800
+Wade Brown: Yeah, no, we're doing, uh... We're dropping an earth tremor right here. Uh, five damage to both, unless they can do a DC13 dex.
+
+298
+00:21:27.000 --> 00:21:31.133
+Kostadis: Oh, five damage. Uh, you're- One of them makes it. Oh, my God.
+
+299
+00:21:31.333 --> 00:21:34.467
+Wade Brown: The other doesn't. They have, like, negative...
+
+300
+00:21:34.667 --> 00:21:39.933
+Wade Brown: No, they have a massive dex penalty, don't they? Yes, yes, but- They still make
+
+301
+00:21:40.133 --> 00:21:43.733
+Kostadis: it ... yes, so number two takes five points of damage.
+
+302
+00:21:43.933 --> 00:21:48.067
+Dave Mendenhall: Is it, um, half damage? Uh, I think- Is it a cantrip or spell?
+
+303
+00:21:48.267 --> 00:21:59.867
+Wade Brown: Uh, it's a spell. Each creature takes a... On a failed save, they take 1D6- And the terrain becomes difficult if it is stone or loose earth, and I think it's stone, isn't it?
+
+304
+00:22:00.067 --> 00:22:04.733
+Wade Brown: Yeah. So this whole area around me is, uh, now difficult. All right. I
+
+305
+00:22:04.933 --> 00:22:10.467
+Dave Mendenhall: applied five damage to- Oh, it's no... Oh, no damage on fail, on a successful save.
+
+306
+00:22:10.667 --> 00:22:23.400
+Wade Brown: Yeah, it's a bummer. I mean, I hit both of them. So what's- But yeah, one save on the- Has it... What, what, what is the area of effect? It's 10, 10 feet around me, so five feet and whatever.
+
+307
+00:22:23.600 --> 00:22:25.933
+Dave Mendenhall: Do you wanna go- I guess I would've
+
+308
+00:22:26.133 --> 00:22:28.933
+Wade Brown: gone here so I wouldn't hit the barbarian.
+
+309
+00:22:29.133 --> 00:22:33.267
+Dave Mendenhall: That's- Wow, that's nice of you. Are you sure? All right. Huh?
+
+310
+00:22:33.467 --> 00:22:45.667
+Wade Brown: Well, which I- Rage. Uh, actually no, it's... Yeah, put it, put it back in the back one space. All right. I just didn't wanna hit our, our barbarian, but I wanted to hit both of them.
+
+311
+00:22:45.867 --> 00:22:55.333
+Wade Brown: Yeah, that's fine. So that's all difficult now. You should be able to sort of see it. Yeah, I see a little yellow tri- or square triangle. All
+
+312
+00:22:55.533 --> 00:22:56.533
+Kostadis: right.
+
+313
+00:22:56.733 --> 00:23:01.733
+Wade Brown: Um. I could make that rolls off pretty easy. All right. All right, Gryumary
+
+314
+00:23:01.933 --> 00:23:02.933
+Dave Mendenhall: is up. I'm
+
+315
+00:23:03.133 --> 00:23:07.733
+Wade Brown: up again? Yep. They kind of like a minus two dex, don't they? Like...
+
+316
+00:23:07.933 --> 00:23:11.000
+Kostadis: How, how does this, um, rage thing work again?
+
+317
+00:23:11.200 --> 00:23:13.200
+Kostadis: You take it as a bonus action.
+
+318
+00:23:13.400 --> 00:23:17.467
+Kostadis: Uh, it takes the bonus action, and then do I get extra damage
+
+319
+00:23:17.667 --> 00:23:18.667
+Gary Young: from it?
+
+320
+00:23:18.867 --> 00:23:40.400
+Kostadis: Yes. Okay. Then I will rage. Hold on. Cool. Let me just... Um, yeah, I'm like... Yeah, I think it, yeah, I, I, like, I think you get extra damage, but, uh, I don't, I, I can't imagine they b- broke that. Then again, everything is possible. And on the, when I took 12 damage before, I should have run Stone's Endurance- Okay
+
+321
+00:23:40.600 --> 00:23:42.933
+Kostadis: and the damage by, roll 1d12 plus 2
+
+322
+00:23:43.133 --> 00:23:47.800
+Kostadis: Oh, I just resisted 11 points of the, of that damage. That's great. O-
+
+323
+00:23:48.000 --> 00:23:49.000
+Dave Mendenhall: okay
+
+324
+00:23:49.200 --> 00:24:10.067
+Kostadis: All right. Okay. So now that I'm- Your resistance to blooded- resistance to bludgeoning, piercing, and slashing damage. When you make an attack with either weapon or, and deal damage, you gain a bonus to the damage that increases... Uh, okay, so what is the rage bonus? Uh, it gets you add your proficiency Gain a
+
+325
+00:24:10.267 --> 00:24:24.400
+Kostadis: So in the ranged damage column of the b- ranged damage column All right, so somebody, somebody screwed up their, uh, transliteration from the, the doc- the tech. The team putting to the website together got their
+
+326
+00:24:24.600 --> 00:24:45.533
+Kostadis: Well, at the very least, I think I'm punching this guy and I don't know how much extra damage I do, but I hope it's plus two at least Get him Rage damage plus two. It's your proficiency bonus. Actually it's- Oh, right ... not, not quite your proficiency bonus Yes. So that's plus two. Great. Ooh, there's critical.
+
+327
+00:24:45.733 --> 00:24:47.800
+Dave Mendenhall: Ooh, critical. Nice. All right.
+
+328
+00:24:48.000 --> 00:24:49.000
+Kostadis: Okay.
+
+329
+00:24:49.200 --> 00:24:50.200
+Dave Mendenhall: I'm gonna
+
+330
+00:24:50.400 --> 00:24:56.600
+Kostadis: count them. So I assume that's number two. I mean, I'll figure out how much it- They only had
+
+331
+00:24:56.800 --> 00:25:00.333
+Wade Brown: 26 to start, and they've all taken some damage, so...
+
+332
+00:25:00.533 --> 00:25:04.067
+Kostadis: So ochre jelly number two has seven points of damage.
+
+333
+00:25:04.267 --> 00:25:05.467
+Dave Mendenhall: I think he's dead.
+
+334
+00:25:05.667 --> 00:25:11.533
+Kostadis: So he was dead. So he took 25 or whatever, or- So you would've done- Or no, that's a hit
+
+335
+00:25:11.733 --> 00:25:21.067
+Kostadis: uh, let's just, just for the, for the purposes of this- Yeah ... you have done one plus four plus two, seven, 14 points of damage. Dead. Oh.
+
+336
+00:25:21.267 --> 00:25:22.467
+Dave Mendenhall: Okay. Nicely done.
+
+337
+00:25:22.667 --> 00:25:28.200
+Kostadis: All right. Not sure if it'll be enough to save us, but yeah. One down, three to go.
+
+338
+00:25:28.400 --> 00:25:32.067
+Dave Mendenhall: All right. Ochre jelly one is up. Ochre jelly one is up
+
+339
+00:25:32.267 --> 00:25:33.867
+Kostadis: What's your armor class?
+
+340
+00:25:34.067 --> 00:25:35.067
+Wade Brown: Me? 17.
+
+341
+00:25:35.267 --> 00:25:36.333
+Kostadis: You've been hit.
+
+342
+00:25:36.533 --> 00:25:43.533
+Wade Brown: Are you shitting me? No. You're just, like, saving all your good rolls for me. All right, uh- Lucky roll.
+
+343
+00:25:43.733 --> 00:25:44.867
+Dave Mendenhall: What? Lucky roll.
+
+344
+00:25:45.067 --> 00:25:50.733
+Wade Brown: Yeah, that's all right Uh, how much damage are we hitting? I don't know. Let me check
+
+345
+00:25:50.933 --> 00:25:51.933
+Dave Mendenhall: Can
+
+346
+00:25:52.133 --> 00:25:53.200
+Wade Brown: Is it really 10?
+
+347
+00:25:53.400 --> 00:25:58.200
+Kostadis: I don't know. I don't, I, I literally don't know off the top of my head.
+
+348
+00:25:58.400 --> 00:25:59.867
+Wade Brown: 10 would be hilarious.
+
+349
+00:26:00.067 --> 00:26:01.933
+Kostadis: No, it is, it is a pseudopod
+
+350
+00:26:02.133 --> 00:26:04.133
+Kostadis: Eight. Eight. Ouch. All right.
+
+351
+00:26:04.333 --> 00:26:05.667
+Dave Mendenhall: All right, Valphine.
+
+352
+00:26:05.867 --> 00:26:14.200
+Kostadis: Can I have vision for Valphine? What? Can you give me vision for Valphine? Oh, I don't, she doesn't have vision. Heck Uh-huh.
+
+353
+00:26:14.400 --> 00:26:16.800
+Dave Mendenhall: Vision I don't see her on the board.
+
+354
+00:26:17.000 --> 00:26:19.533
+Kostadis: There she is. She doesn't have vision.
+
+355
+00:26:19.733 --> 00:26:20.800
+Dave Mendenhall: I don't see her.
+
+356
+00:26:21.000 --> 00:26:24.600
+Kostadis: I haven't finished, I haven't finished setting her up.
+
+357
+00:26:24.800 --> 00:26:25.800
+Kostadis: Oh,
+
+358
+00:26:26.000 --> 00:26:27.733
+Dave Mendenhall: there she is. There we go.
+
+359
+00:26:27.933 --> 00:26:31.533
+Wade Brown: You can just barely see the Grygum. There we go. There
+
+360
+00:26:31.733 --> 00:26:33.467
+Wade Brown: we go. All right. Save me.
+
+361
+00:26:33.667 --> 00:26:34.667
+Wade Brown: Something
+
+362
+00:26:34.867 --> 00:26:36.933
+Kostadis: useful, but someone needs to be
+
+363
+00:26:37.133 --> 00:26:39.467
+Wade Brown: saved. I'm at three hit points. Eh,
+
+364
+00:26:39.667 --> 00:26:40.667
+Gary Young: you
+
+365
+00:26:40.867 --> 00:26:45.200
+Kostadis: know, you're probably okay. But the ally needs one. That's smart.
+
+366
+00:26:45.400 --> 00:26:49.067
+Kostadis: Let's see. Um, yeah, I mean, okay, sure. I can heal you
+
+367
+00:26:49.267 --> 00:26:51.867
+Wade Brown: You can also kill the jelly. It's fine.
+
+368
+00:26:52.067 --> 00:26:55.467
+Dave Mendenhall: Kill the jelly. There'll be time for healing later.
+
+369
+00:26:55.667 --> 00:27:11.467
+Kostadis: Wait, I, I can only cast one spell per round, so I can't do Healing Word and another spell? You can do one spell and one cantrip. One spell and one cantrip. Okay. So you can do, for example, Healing Word and a cantrip that causes damage.
+
+370
+00:27:11.667 --> 00:27:14.533
+Kostadis: Okay. So I'm doing Healing Word, 2D4 plus 3
+
+371
+00:27:14.733 --> 00:27:19.733
+Wade Brown: So Wade, you get eight back Hey, I'm back to 11. Thank you Uh, and then you
+
+372
+00:27:19.933 --> 00:27:31.533
+Kostadis: Where are all my other actions? Spells? Oh, on character sheet. All right, so one, one spell, and then we'll do sacred flame again for 1D eight, and we'll do it on number one
+
+373
+00:27:31.733 --> 00:27:32.733
+Gary Young: And
+
+374
+00:27:32.933 --> 00:27:41.867
+Kostadis: what's, what's the saving throw? A 13 dex. All right. He blows it, 'cause they have a minus two. You guys can see my die rolls, right?
+
+375
+00:27:42.067 --> 00:27:43.067
+Dave Mendenhall: Yeah.
+
+376
+00:27:43.267 --> 00:27:44.267
+Kostadis: This time we
+
+377
+00:27:44.467 --> 00:27:45.867
+Wade Brown: can. Not always, but-
+
+378
+00:27:46.067 --> 00:27:50.867
+Dave Mendenhall: Really, one? Yeah, one damage Gilly Gary, really? Hey, he healed me very
+
+379
+00:27:51.067 --> 00:27:53.000
+Wade Brown: well, though. Minimum damage.
+
+380
+00:27:53.200 --> 00:27:55.667
+Dave Mendenhall: All right. Did you subtract it, Gary?
+
+381
+00:27:55.867 --> 00:27:56.867
+Kostadis: Mm-hmm.
+
+382
+00:27:57.067 --> 00:27:58.200
+Gary Young: I'll do it, yeah.
+
+383
+00:27:58.400 --> 00:27:59.733
+Kostadis: All right. Vukradin.
+
+384
+00:27:59.933 --> 00:28:00.933
+Dave Mendenhall: Okay
+
+385
+00:28:01.133 --> 00:28:02.133
+Wade Brown: Play him a song
+
+386
+00:28:02.333 --> 00:28:06.467
+Dave Mendenhall: Um, yeah, my song-- the songs are not as useful as you'd think
+
+387
+00:28:06.667 --> 00:28:09.933
+Wade Brown: No, I think they're exactly as useful as I think.
+
+388
+00:28:10.133 --> 00:28:11.133
+Dave Mendenhall: Ah.
+
+389
+00:28:11.333 --> 00:28:15.200
+Dave Mendenhall: All right. Um, oh, where are you? Oh, did I lose the game?
+
+390
+00:28:15.400 --> 00:28:19.200
+Kostadis: No. I don't know. You are no longer logged into the game.
+
+391
+00:28:19.400 --> 00:28:21.067
+Dave Mendenhall: Yeah, I did lose the game
+
+392
+00:28:21.267 --> 00:28:25.333
+Dave Mendenhall: All right, DC3 wisdoms, DC13 wisdom save on number three Okay
+
+393
+00:28:25.533 --> 00:28:32.267
+Kostadis: What, uh, s- wisdom saving throw? Uh, it was, uh, blown. I'm assuming they have a significant penalty
+
+394
+00:28:32.467 --> 00:28:34.467
+Dave Mendenhall: All right, so 10 da- Yes, they
+
+395
+00:28:34.667 --> 00:28:35.667
+Kostadis: are minus two.
+
+396
+00:28:35.867 --> 00:28:37.333
+Dave Mendenhall: So he takes 10 damage.
+
+397
+00:28:37.533 --> 00:28:38.867
+Kostadis: Da- what did you do?
+
+398
+00:28:39.067 --> 00:28:47.400
+Dave Mendenhall: Dissonant Whispers. Dissonant Whispers. And, and must immediately use its reaction to move as far away from me as it can. Oh,
+
+399
+00:28:47.600 --> 00:28:49.667
+Kostadis: then what, what condition is...
+
+400
+00:28:49.867 --> 00:28:52.467
+Kostadis: Does it, is it affected by a condition?
+
+401
+00:28:52.667 --> 00:28:53.667
+Dave Mendenhall: No.
+
+402
+00:28:53.867 --> 00:28:56.067
+Kostadis: What kind of damage is the spell?
+
+403
+00:28:56.267 --> 00:28:57.267
+Dave Mendenhall: Psychic damage.
+
+404
+00:28:57.467 --> 00:28:58.467
+Kostadis: Hold on.
+
+405
+00:28:58.667 --> 00:29:01.533
+Dave Mendenhall: Should be n- I think should be susceptible.
+
+406
+00:29:01.733 --> 00:29:09.267
+Kostadis: Yep, it is suscep- Is it immune to- It's not immune to, it's not immune to it ... it's immune to frightened, but-
+
+407
+00:29:09.467 --> 00:29:20.267
+Dave Mendenhall: On a failed save, it takes 3 D6 psychic damage, and must immediately use its reaction, if available, to move as far away from me as it can using the safest route.
+
+408
+00:29:20.467 --> 00:29:26.600
+Dave Mendenhall: So goodbye, you are not gonna attack me next round. There you go. As far away. Yay. I get a,
+
+409
+00:29:26.800 --> 00:29:30.067
+Kostadis: I get a reaction now. Yes, you do get a reaction.
+
+410
+00:29:30.267 --> 00:29:32.467
+Dave Mendenhall: Yes, and Valphine gets to attack.
+
+411
+00:29:32.667 --> 00:29:38.200
+Kostadis: What are you attacking with? A mace. All right, that is a good thing to attack with
+
+412
+00:29:38.400 --> 00:29:42.600
+Kostadis: Three points of damage from the mace. I will require it 30. All
+
+413
+00:29:42.800 --> 00:29:48.667
+Dave Mendenhall: right, 32. All right, and then I will use my movement to move over here into the corner.
+
+414
+00:29:48.867 --> 00:29:50.667
+Kostadis: Very bravely. I can play my
+
+415
+00:29:50.867 --> 00:29:56.667
+Dave Mendenhall: music from across the room. You'll be able to hear it. Trained musician, I play loudly.
+
+416
+00:29:56.867 --> 00:29:58.600
+Kostadis: Loudly or with big volume?
+
+417
+00:29:58.800 --> 00:30:05.333
+Kostadis: There's a difference? Yes. Anybody can play loudly. A good musician plays with appropriate volume.
+
+418
+00:30:05.533 --> 00:30:07.733
+Dave Mendenhall: All right. Ogre Jelly three is up
+
+419
+00:30:07.933 --> 00:30:11.667
+Kostadis: No, ochre jelly three is up. All right. Doot, doot, doot
+
+420
+00:30:11.867 --> 00:30:12.867
+Dave Mendenhall: Oh, sorry, Wade
+
+421
+00:30:13.067 --> 00:30:14.067
+Wade Brown: I had it coming
+
+422
+00:30:14.267 --> 00:30:24.400
+Kostadis: All right And where was I? Right, so this guy attacks, um, he- that's the extent of his movement, so he u- he rolls his pseudopod. He misses. All right.
+
+423
+00:30:24.600 --> 00:30:25.600
+Dave Mendenhall: Nice.
+
+424
+00:30:25.800 --> 00:30:33.133
+Wade Brown: All right. Uh, we're going to, uh, tank for you guys, and I'm gonna use my action to withdraw, which gives me-
+
+425
+00:30:33.333 --> 00:30:34.600
+Dave Mendenhall: You mean disengage?
+
+426
+00:30:34.800 --> 00:30:38.267
+Wade Brown: No, no. Withdraw is, uh, pull into the turtle shell.
+
+427
+00:30:38.467 --> 00:30:39.467
+Wade Brown: Oh.
+
+428
+00:30:39.667 --> 00:30:40.667
+Dave Mendenhall: So
+
+429
+00:30:40.867 --> 00:30:44.067
+Wade Brown: I'm here to get whaled on with an, a bonus 4 AC.
+
+430
+00:30:44.267 --> 00:30:56.133
+Kostadis: Uh, but, but remember, uh, you, uh, uh, uh, yeah, only rogues get the sneak attack bonus. All right, keep going. That's it. That's my action. Like- Y- you are just sitting there.
+
+431
+00:30:56.333 --> 00:30:58.733
+Dave Mendenhall: You're gonna sit there at AC 21 now.
+
+432
+00:30:58.933 --> 00:30:59.933
+Kostadis: Yes.
+
+433
+00:31:00.133 --> 00:31:02.867
+Dave Mendenhall: Interesting tactic. All right. Brewbarry,
+
+434
+00:31:03.067 --> 00:31:04.067
+Wade Brown: you're
+
+435
+00:31:04.267 --> 00:31:05.267
+Dave Mendenhall: up.
+
+436
+00:31:05.467 --> 00:31:08.133
+Wade Brown: Hey, look, I'm blocking for you guys. I,
+
+437
+00:31:08.333 --> 00:31:15.267
+Dave Mendenhall: I... Yeah, it's, it's viable. We'll see how it goes. We'll see how... The ochre jellies are pretty dumb.
+
+438
+00:31:15.467 --> 00:31:17.133
+Wade Brown: They are. They, you know-
+
+439
+00:31:17.333 --> 00:31:22.733
+Dave Mendenhall: They could just sit there, continue to try to bang on your shell for a while and-
+
+440
+00:31:22.933 --> 00:31:26.267
+Kostadis: No, they, they can smell something tasty in there.
+
+441
+00:31:26.467 --> 00:31:28.667
+Dave Mendenhall: Yeah, they, they are pretty dumb.
+
+442
+00:31:28.867 --> 00:31:30.000
+Dave Mendenhall: All right, Brynn.
+
+443
+00:31:30.200 --> 00:31:35.000
+Wade Brown: You're up. I'm 21, and as a bonus action I can pop out, so there's that.
+
+444
+00:31:35.200 --> 00:31:36.933
+Dave Mendenhall: All right. Nice. Okay, so-
+
+445
+00:31:37.133 --> 00:31:41.667
+Wade Brown: It sucks that it takes the action to enter the state, but, you know-
+
+446
+00:31:41.867 --> 00:31:42.867
+Dave Mendenhall: Mm-hmm ...
+
+447
+00:31:43.067 --> 00:31:44.467
+Wade Brown: keep you guys around.
+
+448
+00:31:44.667 --> 00:31:46.200
+Dave Mendenhall: Could work, could work.
+
+449
+00:31:46.400 --> 00:31:53.667
+Wade Brown: Oh, for what it's worth, this was difficult terrain. I don't know if that affected the large osier moving in.
+
+450
+00:31:53.867 --> 00:31:58.933
+Kostadis: No, it didn't, 'cause he had 20 feet of movement- Ah ... so it was spot and-
+
+451
+00:31:59.133 --> 00:32:06.200
+Wade Brown: Sure. I'm tr- trying to keep him in place so that you guys can, like, hit and run or do whatever you need.
+
+452
+00:32:06.400 --> 00:32:15.600
+Kostadis: All right. I can move over here. Yep. And then I assume that, uh, the tur- the turtle is not, um, provoking it, um, you know, like, uh- No
+
+453
+00:32:15.800 --> 00:32:24.400
+Kostadis: like advantage or anything? No. Well, we'd have to be on opposite sides. No, we don't do advantage anymore. Okay. All right. Bye.
+
+454
+00:32:24.600 --> 00:32:29.800
+Kostadis: You've got all these other weapon mastery things that give you also- End of an
+
+455
+00:32:30.000 --> 00:32:31.267
+Dave Mendenhall: era. End of an era.
+
+456
+00:32:31.467 --> 00:32:37.133
+Kostadis: Well, I've got cleave, uh, but the thing is that doesn't help with a slashing weapon.
+
+457
+00:32:37.333 --> 00:32:38.333
+Dave Mendenhall: Okay. Oh.
+
+458
+00:32:38.533 --> 00:32:45.933
+Kostadis: How much damage did you do? Uh, another, I guess six bludgeoning, six punching. All right, six bludgeoning. All
+
+459
+00:32:46.133 --> 00:32:47.133
+Dave Mendenhall: right,
+
+460
+00:32:47.333 --> 00:32:48.333
+Kostadis: I'll-
+
+461
+00:32:48.533 --> 00:32:49.800
+Dave Mendenhall: He's down to seven.
+
+462
+00:32:50.000 --> 00:32:52.467
+Dave Mendenhall: All right. All right, I'm marking it.
+
+463
+00:32:52.667 --> 00:32:53.667
+Kostadis: Good.
+
+464
+00:32:53.867 --> 00:32:54.867
+Gary Young: Okay.
+
+465
+00:32:55.067 --> 00:33:01.933
+Wade Brown: All right. I wasn't expecting... I guess I should've known you'd have come in melee range. Oh, well. O-
+
+466
+00:33:02.133 --> 00:33:03.200
+Dave Mendenhall: ochre jelly one.
+
+467
+00:33:03.400 --> 00:33:04.467
+Wade Brown: Ochre jelly one.
+
+468
+00:33:04.667 --> 00:33:12.333
+Kostadis: Hey, bud Odds or evens, Gary? Odds. Evens. Never tell me the odds. All right. It's me. I missed. I had rolled a 14.
+
+469
+00:33:12.533 --> 00:33:13.600
+Dave Mendenhall: Right. Valphine.
+
+470
+00:33:13.800 --> 00:33:20.333
+Kostadis: Okay. Um, hmm I guess maybe I will do, um, uh, the Sacred Flame on the far one that's almost dead.
+
+471
+00:33:20.533 --> 00:33:21.533
+Dave Mendenhall: Number one.
+
+472
+00:33:21.733 --> 00:33:23.133
+Kostadis: Got seven hit points.
+
+473
+00:33:23.333 --> 00:33:27.067
+Gary Young: Okay, fine. I'll, I'll come in and attack with the mace.
+
+474
+00:33:27.267 --> 00:33:28.267
+Gary Young: Okay.
+
+475
+00:33:28.467 --> 00:33:33.267
+Dave Mendenhall: Um- Uh, you're gonna go all the way around or you're gonna attack three?
+
+476
+00:33:33.467 --> 00:33:36.667
+Gary Young: Uh, yeah, I think I will come all the way around
+
+477
+00:33:36.867 --> 00:33:42.667
+Dave Mendenhall: You can go right through the tortle, right? You can pass through him, so you can- Yeah,
+
+478
+00:33:42.867 --> 00:33:49.067
+Wade Brown: I'm friendly. I'll allow it in my, you know, shelly state. Yeah. You know, at, at some point,
+
+479
+00:33:49.267 --> 00:33:53.133
+Kostadis: um, maybe I'll get... Okay, no advantage here. Never mind.
+
+480
+00:33:53.333 --> 00:33:58.267
+Wade Brown: Bye. You can also kick me around if you want to put me in better position.
+
+481
+00:33:58.467 --> 00:33:59.467
+Kostadis: Okay
+
+482
+00:33:59.667 --> 00:34:02.867
+Gary Young: Nice. Natural one. Well done, Gary. What did you
+
+483
+00:34:03.067 --> 00:34:05.067
+Kostadis: do? Yeah. Natural one. Natural
+
+484
+00:34:05.267 --> 00:34:15.733
+Kostadis: one. Okay. Brewbarry, Brewbarry, uh, you know, Brewbarry's now having one of those flashbacks to the half-pints. This is Valphine. Oh, Valphine. Sorry. Yeah.
+
+485
+00:34:15.933 --> 00:34:19.733
+Dave Mendenhall: All right. Lucrotten will use a cantrip. All right. Hits.
+
+486
+00:34:19.933 --> 00:34:20.933
+Kostadis: What is that?
+
+487
+00:34:21.133 --> 00:34:22.133
+Dave Mendenhall: Starry wisp.
+
+488
+00:34:22.333 --> 00:34:23.867
+Dave Mendenhall: That's my cantrip. What
+
+489
+00:34:24.067 --> 00:34:26.800
+Kostadis: kind of damage is that? Radiant. Radiant.
+
+490
+00:34:27.000 --> 00:34:30.267
+Dave Mendenhall: Okay. Four damage. Wow. Okay, four damage on one.
+
+491
+00:34:30.467 --> 00:34:31.733
+Kostadis: Four damage on one.
+
+492
+00:34:31.933 --> 00:34:34.467
+Dave Mendenhall: Down to three hit points. Ochre three.
+
+493
+00:34:34.667 --> 00:34:36.333
+Kostadis: Ochre three. Ochre three.
+
+494
+00:34:36.533 --> 00:34:37.533
+Dave Mendenhall: All right.
+
+495
+00:34:37.733 --> 00:34:39.933
+Kostadis: V- uh, Valphine it missed, right?
+
+496
+00:34:40.133 --> 00:34:41.200
+Dave Mendenhall: Valphine missed.
+
+497
+00:34:41.400 --> 00:34:46.733
+Kostadis: All right. So then he's attacking, um, the thing in front of him, and he misses.
+
+498
+00:34:46.933 --> 00:34:49.467
+Wade Brown: Didn't need plus four AC for that. The
+
+499
+00:34:49.667 --> 00:34:54.933
+Kostadis: pseudopod kind of- ... gets up, pauses, reflects, looks around, bounces. Right?
+
+500
+00:34:55.133 --> 00:34:56.200
+Dave Mendenhall: All right. Soma?
+
+501
+00:34:56.400 --> 00:34:57.400
+Dave Mendenhall: Wade, you're up
+
+502
+00:34:57.600 --> 00:35:16.333
+Wade Brown: Oh, I'm sorry. Yeah, duh. Uh, so I guess bonus action, I will un-withdraw and try to kill the little dude since we can probably get down to one guy. Yeah. Uh, and it's probably just cantrip territory. What do we got? We got poison spray. They're not immune to poison damage, right?
+
+503
+00:35:16.533 --> 00:35:17.933
+Dave Mendenhall: Guess we'll find out.
+
+504
+00:35:18.133 --> 00:35:28.000
+Wade Brown: Yeah. Well, we're poison spraying at number one. All right. And I'll roll a natural one just for you. There we go. Seven damage. Okay, that's a hit.
+
+505
+00:35:28.200 --> 00:35:34.533
+Kostadis: Dead. All right. All right. Who's up next? Brewbarry Right, Brewbarry. More punching, punching.
+
+506
+00:35:34.733 --> 00:35:36.400
+Wade Brown: Punchy punch. Move closer
+
+507
+00:35:36.600 --> 00:35:37.600
+Gary Young: All right then
+
+508
+00:35:37.800 --> 00:35:38.800
+Gary Young: 22 it hit, and
+
+509
+00:35:39.000 --> 00:35:40.000
+Kostadis: so six damage
+
+510
+00:35:40.200 --> 00:35:41.200
+Dave Mendenhall: Six
+
+511
+00:35:41.400 --> 00:35:44.133
+Kostadis: Six Oh yeah How many points does it have?
+
+512
+00:35:44.333 --> 00:35:47.200
+Dave Mendenhall: 26 It has 26 left Down to 26 Right Valphine
+
+513
+00:35:47.400 --> 00:35:48.400
+Kostadis: Valphine
+
+514
+00:35:48.600 --> 00:35:49.600
+Gary Young: Okay. We'll do
+
+515
+00:35:49.800 --> 00:35:52.867
+Kostadis: Another mace attack, which will hit this time.
+
+516
+00:35:53.067 --> 00:35:54.067
+Gary Young: For five
+
+517
+00:35:54.267 --> 00:35:55.267
+Gary Young: Okay.
+
+518
+00:35:55.467 --> 00:35:57.267
+Dave Mendenhall: Okay, Vukradin, Starry Wisp
+
+519
+00:35:57.467 --> 00:35:59.000
+Dave Mendenhall: That's For eight damage
+
+520
+00:35:59.200 --> 00:36:00.200
+Gary Young: Pretty good
+
+521
+00:36:00.400 --> 00:36:04.867
+Dave Mendenhall: Yeah, that is pretty good. Down to 13. All right, Ochre, Ochre's up
+
+522
+00:36:05.067 --> 00:36:08.267
+Kostadis: Oh, wait, hold on. How many points did he go to?
+
+523
+00:36:08.467 --> 00:36:10.000
+Dave Mendenhall: He's down to 13 now All
+
+524
+00:36:10.200 --> 00:36:14.200
+Kostadis: right, so- He's probably split by now Yeah, he splits in two
+
+525
+00:36:14.400 --> 00:36:15.400
+Dave Mendenhall: Okay
+
+526
+00:36:15.600 --> 00:36:18.600
+Wade Brown: Heck. Your plus one mace is heavily corroded.
+
+527
+00:36:18.800 --> 00:36:21.000
+Dave Mendenhall: How many hit points for each one?
+
+528
+00:36:21.200 --> 00:36:22.200
+Wade Brown: Uh, half.
+
+529
+00:36:22.400 --> 00:36:23.867
+Dave Mendenhall: So seven and six? Yeah
+
+530
+00:36:24.067 --> 00:36:28.467
+Kostadis: All right. All right All righty. So they're not that much smarter.
+
+531
+00:36:28.667 --> 00:36:31.800
+Wade Brown: Well, I'm no longer in defense or anything, so.
+
+532
+00:36:32.000 --> 00:36:33.733
+Kostadis: All right, so they attack-
+
+533
+00:36:33.933 --> 00:36:36.267
+Dave Mendenhall: They're, they're, they're up, yeah.
+
+534
+00:36:36.467 --> 00:36:40.533
+Kostadis: All right, so the first one attacks you and hits for 17 hits.
+
+535
+00:36:40.733 --> 00:36:44.400
+Kostadis: Define you. Uh, wait, hold on. What's your armor class?
+
+536
+00:36:44.600 --> 00:36:45.600
+Wade Brown: Me? 17.
+
+537
+00:36:45.800 --> 00:36:49.933
+Kostadis: Yes, that hits. I rolled a 13, and you add four, so that's 17.
+
+538
+00:36:50.133 --> 00:36:51.133
+Wade Brown: Yeesh.
+
+539
+00:36:51.333 --> 00:36:52.333
+Kostadis: And the damage-
+
+540
+00:36:52.533 --> 00:36:53.533
+Wade Brown: You'll live ...
+
+541
+00:36:53.733 --> 00:36:55.800
+Kostadis: is 10 points of damage. Thanks.
+
+542
+00:36:56.000 --> 00:36:59.000
+Wade Brown: Only need one hit point. Told you you'd live.
+
+543
+00:36:59.200 --> 00:37:03.400
+Kostadis: All right. All right, well, the second guy attacks you as well.
+
+544
+00:37:03.600 --> 00:37:05.667
+Dave Mendenhall: This I can't guarantee as much.
+
+545
+00:37:05.867 --> 00:37:09.067
+Kostadis: Oh, another hit. Oh, you're, you're knocked out.
+
+546
+00:37:09.267 --> 00:37:10.267
+Wade Brown: All
+
+547
+00:37:10.467 --> 00:37:11.667
+Dave Mendenhall: right. Sorry, man.
+
+548
+00:37:11.867 --> 00:37:13.000
+Wade Brown: That's all right.
+
+549
+00:37:13.200 --> 00:37:14.533
+Kostadis: Roll the death save.
+
+550
+00:37:14.733 --> 00:37:18.200
+Wade Brown: Oh, it's just one D20, right? Yeah. Yes. Roll a D20.
+
+551
+00:37:18.400 --> 00:37:25.800
+Kostadis: We did this already? You s- yes, the first time you die, you roll a death save, and then every subsequent turn.
+
+552
+00:37:26.000 --> 00:37:29.333
+Dave Mendenhall: Uh, that's a plus. That's a plus. Fact. All right,
+
+553
+00:37:29.533 --> 00:37:31.133
+Kostadis: well- Um, Norbus goes, "
+
+554
+00:37:31.333 --> 00:37:34.000
+Kostadis: D- did somebody, did somebody get hurt?"
+
+555
+00:37:34.200 --> 00:37:43.333
+Kostadis: Shut the hell up. Oh my God. Dazlyn goes, Dazlyn goes, "A- again, to the extent possible, please don't damage any of the artwork. This is
+
+556
+00:37:43.533 --> 00:37:54.000
+Kostadis: an important- Art? "This is an important- Take no mind of the destroyed floor ... I see a blood-stained altar. "It, this is an important archeological find."
+
+557
+00:37:54.200 --> 00:37:55.200
+Dave Mendenhall: Oh
+
+558
+00:37:55.400 --> 00:37:56.400
+Kostadis: my God.
+
+559
+00:37:56.600 --> 00:37:58.333
+Dave Mendenhall: All right, Brewbarry. Okay
+
+560
+00:37:58.533 --> 00:38:11.467
+Kostadis: Yeah. Okay, I miss By the way, I have a lot of... I have two- a cousin who's an archeologist, so if, you know, I feel a empathy with these archeologists. Okay. And then I guess Valphine is next.
+
+561
+00:38:11.667 --> 00:38:12.667
+Gary Young: Yes.
+
+562
+00:38:12.867 --> 00:38:14.800
+Dave Mendenhall: Yeah. A Brewbarry mist, okay.
+
+563
+00:38:15.000 --> 00:38:16.000
+Gary Young: Yeah And 10
+
+564
+00:38:16.200 --> 00:38:18.000
+Dave Mendenhall: hits Does she need to move?
+
+565
+00:38:18.200 --> 00:38:22.800
+Gary Young: Yes. She does. She can go here, yeah. Five. So you do 10 damage to, I
+
+566
+00:38:23.000 --> 00:38:24.667
+Kostadis: guess the one with seven.
+
+567
+00:38:24.867 --> 00:38:28.400
+Kostadis: All right. All right, this one should be number four.
+
+568
+00:38:28.600 --> 00:38:30.800
+Dave Mendenhall: Do I have an area of effect o- uh
+
+569
+00:38:31.000 --> 00:38:35.733
+Kostadis: I mean, I guess I could use another healing word- Oh ... on the turtle.
+
+570
+00:38:35.933 --> 00:38:39.067
+Wade Brown: All right, guys. Or just leave me to bleed out.
+
+571
+00:38:39.267 --> 00:38:42.667
+Kostadis: No, I'll heal you for 2D4 plus three. The, the, the
+
+572
+00:38:42.867 --> 00:38:47.533
+Kostadis: clerics of Lathander w- the, the, uh, th- that was the older drow era.
+
+573
+00:38:47.733 --> 00:38:49.267
+Dave Mendenhall: Are they immune to, uh-
+
+574
+00:38:49.467 --> 00:38:53.933
+Wade Brown: Keep bouncing between one and 10 hit points. Up and down and up and
+
+575
+00:38:54.133 --> 00:38:55.133
+Dave Mendenhall: down.
+
+576
+00:38:55.333 --> 00:38:57.667
+Dave Mendenhall: Are they immune to piercing damage?
+
+577
+00:38:57.867 --> 00:38:59.267
+Wade Brown: Uh, I don't think so.
+
+578
+00:38:59.467 --> 00:39:00.867
+Kostadis: I, I- you don't know.
+
+579
+00:39:01.067 --> 00:39:02.067
+Dave Mendenhall: Okay.
+
+580
+00:39:02.267 --> 00:39:05.867
+Kostadis: Um, but if you roll an arcana check, I might tell you.
+
+581
+00:39:06.067 --> 00:39:08.133
+Dave Mendenhall: Okay. I guess I could try that.
+
+582
+00:39:08.333 --> 00:39:09.333
+Dave Mendenhall: 13
+
+583
+00:39:09.533 --> 00:39:18.400
+Kostadis: You do recall the last time you played with oozes as a child, piercing them did not seem to split them in half like the slashing did.
+
+584
+00:39:18.600 --> 00:39:30.733
+Dave Mendenhall: Okay. All right. Well, let's give this a shot. I should be able to do two attacks. Um, so I've got two daggers, so I should be able to do a main attack and an off-hand attack, right?
+
+585
+00:39:30.933 --> 00:39:31.933
+Dave Mendenhall: Yes,
+
+586
+00:39:32.133 --> 00:39:40.067
+Dave Mendenhall: yes. All right, I'm gonna give that a shot Okay. I need to move in here And let's see The tanks Let's see if this works
+
+587
+00:39:40.267 --> 00:39:43.533
+Dave Mendenhall: Well, that, that's an eight. Eight hits Holy cow.
+
+588
+00:39:43.733 --> 00:39:45.000
+Kostadis: You hit both times.
+
+589
+00:39:45.200 --> 00:39:58.733
+Dave Mendenhall: Four damage. No, that's just one. That's the first attack. Four damage, we'll do that one on number three, so he's down to zero. All right. All right. And now I get my second attack with the other dagger
+
+590
+00:39:58.933 --> 00:40:00.933
+Dave Mendenhall: Also a hit Oh. For six damage.
+
+591
+00:40:01.133 --> 00:40:04.400
+Wade Brown: Did you kill him? Yeah. Double death. Go bard go.
+
+592
+00:40:04.600 --> 00:40:07.000
+Dave Mendenhall: Like a fucking barbarian, I love it.
+
+593
+00:40:07.200 --> 00:40:08.200
+Wade Brown: Bard-barian.
+
+594
+00:40:08.400 --> 00:40:13.267
+Dave Mendenhall: Two, killed two creatures in one round. There's a bard for you, Kostadis.
+
+595
+00:40:13.467 --> 00:40:21.200
+Kostadis: Yeah, I, I'm just, I'm just saying the bard you know. Norbus hears the end of the, the battle, uh, and peeks, sorry-
+
+596
+00:40:21.400 --> 00:40:25.133
+Dave Mendenhall: All right, we'll, uh- Norbus hears the end of the battle
+
+597
+00:40:25.333 --> 00:40:28.133
+Dave Mendenhall: Soma got healed? When did Soma get healed?
+
+598
+00:40:28.333 --> 00:40:29.333
+Kostadis: Uh, very- I did
+
+599
+00:40:29.533 --> 00:40:30.533
+Dave Mendenhall: Nice.
+
+600
+00:40:30.733 --> 00:40:31.733
+Kostadis: Norbus,
+
+601
+00:40:31.933 --> 00:40:33.400
+Kostadis: Norbus- Yeah, Gary got
+
+602
+00:40:33.600 --> 00:40:34.600
+Wade Brown: me ...
+
+603
+00:40:34.800 --> 00:40:49.867
+Kostadis: Norbus, uh, peers in and says, "Ah, you, you dealt with the oozes. Or jellies? Was it jellies or, or whatever the... A- are they dead? Is it safe to go in there?" It's absolutely dead. Stick your head in and find out. The way-
+
+604
+00:40:50.067 --> 00:40:51.067
+Dave Mendenhall: What,
+
+605
+00:40:51.267 --> 00:40:52.267
+Kostadis: what level are
+
+606
+00:40:52.467 --> 00:40:53.467
+Dave Mendenhall: you?
+
+607
+00:40:53.667 --> 00:40:57.467
+Kostadis: We're, we're just, w- we have a deal here. We're partners
+
+608
+00:40:57.667 --> 00:41:05.400
+Dave Mendenhall: We are, I just, you know, we could've used some help, and you just sort of just- Uh, w- we're, we're prospectors ...
+
+609
+00:41:05.600 --> 00:41:12.133
+Kostadis: were there when you're doing our- We, we, we're, they're, they're four hit point. They're useless.
+
+610
+00:41:12.333 --> 00:41:17.733
+Dave Mendenhall: It's a good thing I'm such a moral individual. You take those sending stones now.
+
+611
+00:41:17.933 --> 00:41:26.067
+Kostadis: Well, I, uh, he goes, "Um, there might be other ones in the back there, so could you just finish clearing everything out?"
+
+612
+00:41:26.267 --> 00:41:28.200
+Wade Brown: Give us one sending stone now
+
+613
+00:41:28.400 --> 00:41:29.933
+Wade Brown: and we'll talk. I don't
+
+614
+00:41:30.133 --> 00:41:31.800
+Dave Mendenhall: have any spell slots left
+
+615
+00:41:32.000 --> 00:41:34.667
+Kostadis: and- Well, we could... So you know what?
+
+616
+00:41:34.867 --> 00:41:47.333
+Kostadis: The, the, Norbus says, "That's great. We can all chill out. I can make an excellent meal. I can tell you all sorts of wonderful stories, and you could go next morning." Will you say that?
+
+617
+00:41:47.533 --> 00:41:48.533
+Dave Mendenhall: Free
+
+618
+00:41:48.733 --> 00:41:49.733
+Kostadis: food. All
+
+619
+00:41:49.933 --> 00:41:53.733
+Dave Mendenhall: right. Long rest. Uh, I'll agree if there are no stories.
+
+620
+00:41:53.933 --> 00:41:58.067
+Wade Brown: Well, aren't you the one who's supposed to be telling stories?
+
+621
+00:41:58.267 --> 00:41:59.600
+Wade Brown: Well, actually, the,
+
+622
+00:41:59.800 --> 00:42:08.333
+Kostadis: uh, D- D- Dazlyn, Dazlyn punches Norbus. Norbus, we have a bard, and we're going to tell stories. The bard will tell us stories.
+
+623
+00:42:08.533 --> 00:42:15.467
+Wade Brown: Exactly. Nice. Tell stories of your amazing double da- or, you know, double stabbing action, right? That
+
+624
+00:42:15.667 --> 00:42:18.133
+Dave Mendenhall: was, that was pretty cool. All right.
+
+625
+00:42:18.333 --> 00:42:24.933
+Wade Brown: Stabby, stabby. Your guide lays dead on the floor, and, you know, you're up there stabbing jellies.
+
+626
+00:42:25.133 --> 00:42:26.533
+Wade Brown: All right. So Dazlyn.
+
+627
+00:42:26.733 --> 00:42:28.533
+Kostadis: All right, so next morning.
+
+628
+00:42:28.733 --> 00:42:31.467
+Dave Mendenhall: Um, is there anything in this room, like-
+
+629
+00:42:31.667 --> 00:42:32.667
+Kostadis: Ah,
+
+630
+00:42:32.867 --> 00:42:36.000
+Wade Brown: okay. So, yes ... There's a bloodstained altar.
+
+631
+00:42:36.200 --> 00:42:37.200
+Dave Mendenhall: Yeah.
+
+632
+00:42:37.400 --> 00:42:40.467
+Wade Brown: I turned up some loose dirt. Sorry about that.
+
+633
+00:42:40.667 --> 00:42:44.800
+Kostadis: Okay. So what you do find is you find a bunch of secret doors.
+
+634
+00:42:45.000 --> 00:42:47.267
+Kostadis: Okay. 16 perception, if that helps
+
+635
+00:42:47.467 --> 00:42:50.067
+Wade Brown: By perception. I can't see past my nose
+
+636
+00:42:50.267 --> 00:42:52.800
+Gary Young: Okay. So we're doing the next bit now?
+
+637
+00:42:53.000 --> 00:42:54.000
+Kostadis: Hold on
+
+638
+00:42:54.200 --> 00:42:55.333
+Dave Mendenhall: I can match that.
+
+639
+00:42:55.533 --> 00:43:15.800
+Kostadis: All right. You find a set of secret doors. Actually, to be precise, the cleric finds a set of secret doors. I'm assuming the cleric, having learnt from her, from the Morning Lord who shared that information, is not keeping it secret for her advantage. I don't know what advantage it would have, but sure.
+
+640
+00:43:16.000 --> 00:43:17.000
+Kostadis: Isn't,
+
+641
+00:43:17.200 --> 00:43:18.667
+Kostadis: isn't that what, like,
+
+642
+00:43:18.867 --> 00:43:22.400
+Kostadis: drow, that's like information is power kind of thing?
+
+643
+00:43:22.600 --> 00:43:25.667
+Gary Young: Mm, okay. Maybe. I don't know. We'll figure it
+
+644
+00:43:25.867 --> 00:43:32.933
+Kostadis: out. Yeah, we'll figure it out. All right. So you find a bunch of secret doors. So is this before or after
+
+645
+00:43:33.133 --> 00:43:34.133
+Wade Brown: the
+
+646
+00:43:34.333 --> 00:43:37.867
+Kostadis: long rest? This is before the long rest. There's a...
+
+647
+00:43:38.067 --> 00:43:43.533
+Dave Mendenhall: Wait, there's a secret door into the pillar? Yeah, apparently. That's interesting.
+
+648
+00:43:43.733 --> 00:43:46.933
+Kostadis: Oh, that I definitely wouldn't have- We are long
+
+649
+00:43:47.133 --> 00:43:49.400
+Dave Mendenhall: rested, is that what I just heard?
+
+650
+00:43:49.600 --> 00:43:51.733
+Dave Mendenhall: No, we're not. I was asking. Uh,
+
+651
+00:43:51.933 --> 00:43:58.733
+Kostadis: I- you can, we can say you're long rested, but we... I, I need to tell me, do you long rest or do you-
+
+652
+00:43:58.933 --> 00:44:01.667
+Wade Brown: Do you, have you shared your stories yet?
+
+653
+00:44:01.867 --> 00:44:10.600
+Dave Mendenhall: Um, I mean, I'm, I, I'm out of spell slots, but otherwise we're healed, so if you guys wanna do some other stuff first, that's fine
+
+654
+00:44:10.800 --> 00:44:17.133
+Kostadis: Uh, Brewbarry can keep going, but Valphine is out as well. All right. I have the one slot left,
+
+655
+00:44:17.333 --> 00:44:18.333
+Wade Brown: but- So do
+
+656
+00:44:18.533 --> 00:44:21.867
+Kostadis: you open any of these secret doors is my question.
+
+657
+00:44:22.067 --> 00:44:25.000
+Wade Brown: I mean, I wanna see the little one for sure.
+
+658
+00:44:25.200 --> 00:44:31.800
+Dave Mendenhall: I think we can wait until the morning for that. But that- All right ... that's the most interesting
+
+659
+00:44:32.000 --> 00:44:34.467
+Wade Brown: one. I can't wait for the little one.
+
+660
+00:44:34.667 --> 00:44:40.400
+Wade Brown: I, I just gotta know what this opens up to. So do you go now or later? Okay, um, okay,
+
+661
+00:44:40.600 --> 00:44:41.600
+Dave Mendenhall: Jarek.
+
+662
+00:44:41.800 --> 00:44:49.333
+Wade Brown: I just peek. I j- look, we're not descending. I just have to know what's going on- I just wanna touch it. I just,
+
+663
+00:44:49.533 --> 00:44:54.600
+Dave Mendenhall: I just wanna touch the statue and see if, you know, if it's a real statue. I
+
+664
+00:44:54.800 --> 00:44:56.867
+Wade Brown: just wanna touch it. Yep. Okay.
+
+665
+00:44:57.067 --> 00:44:58.600
+Wade Brown: Stop me. Um, yeah, you-
+
+666
+00:44:58.800 --> 00:45:02.733
+Dave Mendenhall: Why am I moving? I'm not moving over there, I am over here.
+
+667
+00:45:02.933 --> 00:45:13.200
+Gary Young: Oh, okay. Sure. Like there- You're next to the other secret door. Okay, great. It's not like there's a dragon hiding in there. I'm right next to the other
+
+668
+00:45:13.400 --> 00:45:19.733
+Dave Mendenhall: door that's gonna, like, open up, Scooby-Doo style and, like, pull me in- ... and close behind.
+
+669
+00:45:19.933 --> 00:45:23.467
+Wade Brown: All right. Okay. I have a feeling about these things.
+
+670
+00:45:23.667 --> 00:45:44.067
+Kostadis: All right. The secret door contained, conceals a cavity packed with dwarf skulls that tumble out when the door is opened. All right, well that's- That's disgusting ... awesome. Do you look at the bo- Do you look inside? I mean, we clear out the skulls, right? I assume they just all spill out on the floor.
+
+671
+00:45:44.267 --> 00:45:55.667
+Kostadis: Yes. Yeah. And at the bottom of the cavity is an unlocked stone coffer. Ooh. Do you pick it up? Of course. All right. It contains 15 gem- stones worth 10 gold pieces each.
+
+672
+00:45:55.867 --> 00:46:00.600
+Dave Mendenhall: Oh, oh, oh. We'll have to tell the dwarves that we found some treasure.
+
+673
+00:46:00.800 --> 00:46:01.800
+Kostadis: No we don't.
+
+674
+00:46:02.000 --> 00:46:04.600
+Dave Mendenhall: We found the 15, we found 15 gemstones.
+
+675
+00:46:04.800 --> 00:46:06.467
+Wade Brown: Do you say that out loud?
+
+676
+00:46:06.667 --> 00:46:07.667
+Dave Mendenhall: Yep.
+
+677
+00:46:07.867 --> 00:46:09.600
+Wade Brown: Goddamn your moral streak.
+
+678
+00:46:09.800 --> 00:46:14.200
+Dave Mendenhall: We're gonna leave these behind for your archeological ex- We found
+
+679
+00:46:14.400 --> 00:46:15.400
+Wade Brown: 10. We found 10
+
+680
+00:46:15.600 --> 00:46:19.667
+Wade Brown: Really? We're not taking them? Apparently we're not. I would,
+
+681
+00:46:19.867 --> 00:46:23.400
+Dave Mendenhall: uh, did you wanna rob the grave, Valphine? Of course.
+
+682
+00:46:23.600 --> 00:46:24.600
+Wade Brown: Just dwarves.
+
+683
+00:46:24.800 --> 00:46:28.400
+Dave Mendenhall: Well, I'm, I'm, I'm not gonna be a part of that. Look,
+
+684
+00:46:28.600 --> 00:46:32.600
+Wade Brown: Norbert or whatever is withholding payment. I'm here for the
+
+685
+00:46:32.800 --> 00:46:38.533
+Dave Mendenhall: sending stones and for the, the hard-earned 50 gold pieces for delivering the message.
+
+686
+00:46:38.733 --> 00:46:44.000
+Gary Young: Okay. Well- Oh ... you go ahead to the next room, and I'll be right behind you.
+
+687
+00:46:44.200 --> 00:46:50.533
+Wade Brown: I'll just go set the stones on the altar for, or the gemstones in their coffer on the altar. If
+
+688
+00:46:50.733 --> 00:46:52.200
+Dave Mendenhall: you guys are gonna, if
+
+689
+00:46:52.400 --> 00:47:02.133
+Dave Mendenhall: you guys are gonna, you know, put them away somewhere while I'm busy over here, uh, ratting you out, you know, well, you, I guess you can do that.
+
+690
+00:47:02.333 --> 00:47:05.333
+Dave Mendenhall: I guess I wouldn't see that if that happened.
+
+691
+00:47:05.533 --> 00:47:11.067
+Wade Brown: No, we heard you. We know what you, we know what you're gonna do. There's... Uh, I,
+
+692
+00:47:11.267 --> 00:47:12.267
+Kostadis: you
+
+693
+00:47:12.467 --> 00:47:13.467
+Kostadis: know,
+
+694
+00:47:13.667 --> 00:47:14.667
+Kostadis: it's
+
+695
+00:47:14.867 --> 00:47:20.267
+Kostadis: like the, the part, the part is that you might be, we might need a new character.
+
+696
+00:47:20.467 --> 00:47:21.467
+Kostadis: This is what I
+
+697
+00:47:21.667 --> 00:47:23.733
+Wade Brown: get for just hanging, you know-
+
+698
+00:47:23.933 --> 00:47:30.267
+Dave Mendenhall: Might ask the bard to go sing himself off a cliff at some point. Is that, is that gonna happen?
+
+699
+00:47:30.467 --> 00:47:34.467
+Wade Brown: The bard is always the most annoying character, right, Nick?
+
+700
+00:47:34.667 --> 00:47:36.867
+Dave Mendenhall: Yeah. The annoying bard, exactly.
+
+701
+00:47:37.067 --> 00:47:42.933
+Wade Brown: It's almost like a stereotype. Okay That is, does Norbert come back to see his treasure?
+
+702
+00:47:43.133 --> 00:47:52.133
+Wade Brown: What's his name? I keep forgetting, uh Uh, um, all right. So Norbus. Norbus, sorry. I don't know why I have Norbert. All right, hold on
+
+703
+00:47:52.333 --> 00:48:12.000
+Kostadis: All right. So Norbus comes over here and is, uh, very excited, and says, "So is it safe for us to come in?" Of course. Yes. Sure. "Here, look what we found." Oh, they rush in and go, "Oh, it is as dazzling as we thought it would be." They look at the collapsed, uh, the skulls and the... Goes, "
+
+704
+00:48:12.200 --> 00:48:15.267
+Kostadis: Oh, is, is that where you found the treasure?"
+
+705
+00:48:15.467 --> 00:48:23.000
+Dave Mendenhall: Yeah. I, I'd like to clarify, these, these, this is not treasure. Okay. These are archeological artifacts that I-
+
+706
+00:48:23.200 --> 00:48:27.000
+Kostadis: Oh, no, no, no. These are cursed archeological artifacts.
+
+707
+00:48:27.200 --> 00:48:35.600
+Dave Mendenhall: Well, you will be handling them with the utmost care, I assume, and taking them to a museum and to a wizard to be uncursed and
+
+708
+00:48:35.800 --> 00:48:37.600
+Dave Mendenhall: They're kinda like... Yeah,
+
+709
+00:48:37.800 --> 00:48:43.133
+Kostadis: Norbus turns to Dazlyn, like they're, they're, they're whispering to each other.
+
+710
+00:48:43.333 --> 00:48:59.333
+Kostadis: Uh, they, they turn to... I- it's, it's they, they notice that the rest of you have weapons, so one of them goes, "Uh, is, is, is, is everybody okay with this? I mean, we, we don't wanna... I mean, I understand that the, the, the, the, the,
+
+711
+00:48:59.533 --> 00:49:00.533
+Kostadis: the...
+
+712
+00:49:00.733 --> 00:49:01.733
+Kostadis: What
+
+713
+00:49:01.933 --> 00:49:09.400
+Kostadis: was, what was your name again?" Valphine. No, no, uh, the, the druid, the bard's name. Vukradin. Vukradin, yeah.
+
+714
+00:49:09.600 --> 00:49:11.133
+Dave Mendenhall: You don't know my name?
+
+715
+00:49:11.333 --> 00:49:14.800
+Kostadis: I can't remember it. Uh, Vukradin? I spent all night
+
+716
+00:49:15.000 --> 00:49:19.667
+Dave Mendenhall: singing songs, and I told you stories, and you don't remember my name?
+
+717
+00:49:19.867 --> 00:49:20.867
+Kostadis: Vukradin, uh,
+
+718
+00:49:21.067 --> 00:49:24.267
+Dave Mendenhall: yeah. You're just like those patrons in the bar.
+
+719
+00:49:24.467 --> 00:49:28.533
+Kostadis: Okay. Vukradin, I think you, you need to not be so upset. Um,
+
+720
+00:49:28.733 --> 00:49:43.933
+Kostadis: No, sorry, hold on. I'm, uh, uh, let me just do something here. I, uh, that's not what I want. Okay. So, um, Vukradin, Norbus, Norbus, uh, turns to Soma, Valphine, and Brewbarry and asks the three of you, "Uh, i- is he serious?"
+
+721
+00:49:44.133 --> 00:49:45.533
+Wade Brown: Don't really know him
+
+722
+00:49:45.733 --> 00:49:47.267
+Kostadis: Think so Uh, so, so, so
+
+723
+00:49:47.467 --> 00:49:51.733
+Kostadis: if he turns and Norbus goes, "So, so we could go and take this?"
+
+724
+00:49:51.933 --> 00:50:06.200
+Kostadis: Like, he's looking at the drow, you know, there's a little bit of paranoia about the drow, and the barbarian who's got, you know, Uthgard. So there's a little bit of, like, fear here. "So we could go and take these
+
+725
+00:50:06.400 --> 00:50:15.867
+Kostadis: gems, and it would be okay with you?" I'll just pull out my dagger and sharpen it a little bit Uh, Dazlyn thumps Norbus, Norbus thumps Dazlyn,
+
+726
+00:50:16.067 --> 00:50:20.267
+Kostadis: goes, "Hey, you know, I think the museum only needs half of it.
+
+727
+00:50:20.467 --> 00:50:21.800
+Kostadis: Would that be okay?"
+
+728
+00:50:22.000 --> 00:50:24.933
+Dave Mendenhall: What's gonna happen with the other half? Uh,
+
+729
+00:50:25.133 --> 00:50:32.200
+Kostadis: I, it's really, they're not of any a- a- archaeological interest. Would that be okay with, with everybody?
+
+730
+00:50:32.400 --> 00:50:37.267
+Wade Brown: So now you have gotten them, you know, free and clear of your conscience.
+
+731
+00:50:37.467 --> 00:50:43.467
+Kostadis: Uh, I, I can assure you he's looking at Brewbarry, like, you know, doing this and going...
+
+732
+00:50:43.667 --> 00:51:03.533
+Kostadis: He's just very confused. Like, I mean like he's wondering, they're wondering, "Is this a trap? Is this some kind of game?" I mean, is this some like- Brewbarry- ... sick twist, sick twisted thing- Brewbarry- ... the drow is gonna do, and like, you're gonna take them and then accuse you of stealing
+
+733
+00:51:03.733 --> 00:51:09.667
+Dave Mendenhall: I like that like, I like that the drow is there, like making it a very awkward situation.
+
+734
+00:51:09.867 --> 00:51:19.533
+Kostadis: Brewbarry is- There's like als- there's all sorts of ethnic stereotyping about drow , and then she's a Morning Lord cleric. Nobody's buying that.
+
+735
+00:51:19.733 --> 00:51:25.467
+Kostadis: Brewbarry is busy pushing a rock with a stick. What? He's pushing a rock with a stick.
+
+736
+00:51:25.667 --> 00:51:26.867
+Dave Mendenhall: Oh, oh, Brewbarry.
+
+737
+00:51:27.067 --> 00:51:28.067
+Kostadis: All right.
+
+738
+00:51:28.267 --> 00:51:39.000
+Kostadis: So- Valphine is just watching. All right. So Dazlyn goes over here- Brewbarry ... looks at Valphine and says, "So, so we're going to split the gems, right?" Hmm.
+
+739
+00:51:39.200 --> 00:51:49.467
+Dave Mendenhall: Guys, I'm, I'm getting the impression that, that they're not going to take these to a museum. I think they might just plan on keeping them for themselves.
+
+740
+00:51:49.667 --> 00:52:03.733
+Kostadis: I think so. I roll, I rolled very poorly on my insight check for them, so, uh- You can roll on yours ... I, I think this is the normal... Splitting things is just the normal way of these, like, surface dwellers.
+
+741
+00:52:03.933 --> 00:52:07.200
+Kostadis: I mean, this is strange, but fine. Overbrighters.
+
+742
+00:52:07.400 --> 00:52:08.400
+Kostadis: Overbrighters.
+
+743
+00:52:08.600 --> 00:52:13.533
+Dave Mendenhall: Daylords. All right. Let me... Let's see. My, what should I roll? Insight?
+
+744
+00:52:13.733 --> 00:52:18.000
+Kostadis: Insight. Uh, well, no, your insight, so the way it would work is
+
+745
+00:52:18.200 --> 00:52:29.533
+Dave Mendenhall: you're- Yeah ... perc- I guess I don't ha- I gu- I guess I would be diluted into thinking that they- All right. So- ... actually were going to- So Valphine, are you gonna
+
+746
+00:52:29.733 --> 00:52:32.733
+Kostadis: try to intimidate them to not split it 50/50?
+
+747
+00:52:32.933 --> 00:52:38.000
+Kostadis: No, my insight was a seven as well. All right. So, so they take, so you get-
+
+748
+00:52:38.200 --> 00:52:42.733
+Wade Brown: We get eight, they get seven? Uh, no, they get eight, you get seven.
+
+749
+00:52:42.933 --> 00:52:47.267
+Wade Brown: Aw, it would be nice. We need to get two gems and then, you know.
+
+750
+00:52:47.467 --> 00:52:48.467
+Wade Brown: Actually, okay,
+
+751
+00:52:48.667 --> 00:52:50.200
+Kostadis: actually make it eight.
+
+752
+00:52:50.400 --> 00:52:53.400
+Wade Brown: Like, fine. I mean, they can- There's four of
+
+753
+00:52:53.600 --> 00:52:55.133
+Wade Brown: us, two of them. We all
+
+754
+00:52:55.333 --> 00:52:56.333
+Wade Brown: get two.
+
+755
+00:52:56.533 --> 00:53:01.533
+Wade Brown: Yeah. All right. Uh, they, uh, walk out and say, "Well, uh, if you find any
+
+756
+00:53:01.733 --> 00:53:04.533
+Wade Brown: other archeological finds, uh, just, just-
+
+757
+00:53:04.733 --> 00:53:10.200
+Wade Brown: We found some skulls I'll let you know ... lots of skulls. I'll let you know. Okay
+
+758
+00:53:10.400 --> 00:53:13.933
+Kostadis: All right. Okay. Um, I'm assuming, you know, morning,
+
+759
+00:53:14.133 --> 00:53:26.400
+Dave Mendenhall: et cetera- At some point in this campaign, I'm going to be so poor and s- have so few nice items that I'm gonna be, like, three levels below where I'm supposed to be. It'll be awesome.
+
+760
+00:53:26.600 --> 00:53:33.667
+Kostadis: L- like, Dave, are, are you sure you wanna live, like, a... broke? I mean, this is supposed to be- There's
+
+761
+00:53:33.867 --> 00:53:35.133
+Dave Mendenhall: a reason I'm broke.
+
+762
+00:53:35.333 --> 00:53:37.600
+Dave Mendenhall: Have you figured that out yet? You
+
+763
+00:53:37.800 --> 00:53:39.400
+Kostadis: haven't quite figured it
+
+764
+00:53:39.600 --> 00:53:47.200
+Dave Mendenhall: out yet. He's a starving artist. There's a reason. He's incredibly naive. It's not, it's not that my music is bad.
+
+765
+00:53:47.400 --> 00:53:50.133
+Kostadis: He's, he's gonna be an underpowered bard.
+
+766
+00:53:50.333 --> 00:53:53.933
+Wade Brown: And I am so taking you on as, like, my late stage son.
+
+767
+00:53:54.133 --> 00:53:58.667
+Dave Mendenhall: You thought the bard was bad. Okay. Check out the underpowered bard.
+
+768
+00:53:58.867 --> 00:53:59.867
+Dave Mendenhall: Even better.
+
+769
+00:54:00.067 --> 00:54:07.267
+Kostadis: What is an under- All right. All right, so that's north s- We're gonna go to the, uh, keep toward the north.
+
+770
+00:54:07.467 --> 00:54:12.533
+Dave Mendenhall: All right. Okay. All right. That's fine. I'm up for that. We'll go that way.
+
+771
+00:54:12.733 --> 00:54:18.000
+Wade Brown: All right. So we said morning pass. Are we long rested now, or what's the deal?
+
+772
+00:54:18.200 --> 00:54:19.200
+Wade Brown: Yeah, yeah.
+
+773
+00:54:19.400 --> 00:54:20.400
+Dave Mendenhall: All right. Long
+
+774
+00:54:20.600 --> 00:54:25.667
+Wade Brown: rest. All right. So let me just reset my character sheet. One more hip back.
+
+775
+00:54:25.867 --> 00:54:39.533
+Kostadis: All right. All right. It opens up into a hallway. To the left is some rubble. To the right, to the west is some rubble. Um, to the east is a door. Yeah. We'll go open the door. Go open the door. Well done.
+
+776
+00:54:39.733 --> 00:54:46.867
+Kostadis: All right. Hold on, hold on, hold on Uh, three stone bed fram- frames stand against the west, the east wall
+
+777
+00:54:47.067 --> 00:54:48.933
+Wade Brown: Oh, we could have slept here
+
+778
+00:54:49.133 --> 00:54:51.867
+Dave Mendenhall: Right. No mattresses, just fr- bed frames
+
+779
+00:54:52.067 --> 00:55:00.133
+Kostadis: Right. And what is your perception? Yours being- Yeah, the, the, the great, the great man who, with his... 16 perception?
+
+780
+00:55:00.333 --> 00:55:01.333
+Dave Mendenhall: 15.
+
+781
+00:55:01.533 --> 00:55:02.533
+Kostadis: 15.
+
+782
+00:55:02.733 --> 00:55:05.733
+Dave Mendenhall: 13. Highest, highest passive perception's 15.
+
+783
+00:55:05.933 --> 00:55:12.933
+Kostadis: Uh, passive? Yeah. Passive is 15. All right. You have found another secret door. Hm. All right. I'll, uh-
+
+784
+00:55:13.133 --> 00:55:17.267
+Wade Brown: Do they not believe in just having normal doors in this place?
+
+785
+00:55:17.467 --> 00:55:20.933
+Dave Mendenhall: There was a normal door. We just walked through one.
+
+786
+00:55:21.133 --> 00:55:22.133
+Wade Brown: Right.
+
+787
+00:55:22.333 --> 00:55:24.533
+Kostadis: All right. There's a secret door.
+
+788
+00:55:24.733 --> 00:55:25.733
+Dave Mendenhall: All
+
+789
+00:55:25.933 --> 00:55:26.933
+Kostadis: right.
+
+790
+00:55:27.133 --> 00:55:28.133
+Dave Mendenhall: Um-
+
+791
+00:55:28.333 --> 00:55:32.467
+Wade Brown: There are- The wisdom of youth So are you gonna go through it?
+
+792
+00:55:32.667 --> 00:55:34.867
+Dave Mendenhall: Whatever, old man. The bed frames
+
+793
+00:55:35.067 --> 00:55:38.533
+Wade Brown: don't have- Old man. Old woman. Old maid. All right.
+
+794
+00:55:38.733 --> 00:55:39.733
+Kostadis: The
+
+795
+00:55:39.933 --> 00:55:41.000
+Wade Brown: bed frames don't
+
+796
+00:55:41.200 --> 00:55:56.067
+Kostadis: have any beds in them. They're but, uh, stone. The- they what? I'm sorry, what did you say? The bed frames are stone. They- Yes, they are, they are stone ... are they in decent repair? Uh, what do you mean in decent repair?
+
+797
+00:55:56.267 --> 00:56:01.000
+Kostadis: They're not destroyed or in rubble. They're, they're fine beds. They're
+
+798
+00:56:01.200 --> 00:56:04.000
+Wade Brown: stone. They'll last forever. That's great.
+
+799
+00:56:04.200 --> 00:56:08.600
+Kostadis: All right, we'll open this door. You'll open this door? All right.
+
+800
+00:56:08.800 --> 00:56:10.000
+Dave Mendenhall: I'll come with you
+
+801
+00:56:10.200 --> 00:56:12.133
+Dave Mendenhall: Okay. Through the secret door
+
+802
+00:56:12.333 --> 00:56:28.933
+Kostadis: I said perception is still 15 in the- An empty stone jaunt. An empty stone font juts out of the southwest wall. A stone wardrobe against the east walls holds the rotted remains of two suits of red leather armor, armor. Roll a religion check. Oh. Go,
+
+803
+00:56:29.133 --> 00:56:30.133
+Wade Brown: cleric,
+
+804
+00:56:30.333 --> 00:56:31.333
+Kostadis: go.
+
+805
+00:56:31.533 --> 00:56:32.533
+Dave Mendenhall: And religion.
+
+806
+00:56:32.733 --> 00:56:33.733
+Kostadis: Uh- I mean, you
+
+807
+00:56:33.933 --> 00:56:34.933
+Wade Brown: can
+
+808
+00:56:35.133 --> 00:56:36.133
+Kostadis: get
+
+809
+00:56:36.333 --> 00:56:37.333
+Wade Brown: my jank roll,
+
+810
+00:56:37.533 --> 00:56:38.533
+Kostadis: but, eh.
+
+811
+00:56:38.733 --> 00:56:48.400
+Kostadis: All right. Soma and re- and Soma discover, re- recalls that this, recalls or Vukradin. No, not Vucri... What about Valphine? Yeah, so the actual-
+
+812
+00:56:48.600 --> 00:56:49.600
+Dave Mendenhall: 17.
+
+813
+00:56:49.800 --> 00:57:04.000
+Kostadis: Oh, that was a religion. All right. All right, sorry. Okay. So those who rolled above four- above 15 discovered that this is vestments, these are vestments worn by the priest of Abbathor, now ruined and worthless.
+
+814
+00:57:04.200 --> 00:57:05.200
+Kostadis: Okay.
+
+815
+00:57:05.400 --> 00:57:08.800
+Dave Mendenhall: All right? So I do not know that they're worthless?
+
+816
+00:57:09.000 --> 00:57:12.733
+Wade Brown: Okay. But you wouldn't take them, right? So I would like
+
+817
+00:57:12.933 --> 00:57:18.133
+Dave Mendenhall: run back, tell the dwarves- ... we found these, these vestments, and they- All
+
+818
+00:57:18.333 --> 00:57:19.867
+Kostadis: right. Would you, would
+
+819
+00:57:20.067 --> 00:57:21.067
+Dave Mendenhall: you- I'm just
+
+820
+00:57:21.267 --> 00:57:24.400
+Kostadis: gonna- Would... Or would you take a note of it?
+
+821
+00:57:24.600 --> 00:57:27.733
+Dave Mendenhall: Is that, would that be easier if I took a note?
+
+822
+00:57:27.933 --> 00:57:29.667
+Dave Mendenhall: Okay. No, I'm just saying,
+
+823
+00:57:29.867 --> 00:57:32.200
+Wade Brown: like, I mean, like- I think it'd be
+
+824
+00:57:32.400 --> 00:57:34.200
+Wade Brown: funnier if you ran back and
+
+825
+00:57:34.400 --> 00:57:35.733
+Wade Brown: forth every time. I,
+
+826
+00:57:35.933 --> 00:57:37.867
+Dave Mendenhall: I kind of wanted to run back.
+
+827
+00:57:38.067 --> 00:57:39.600
+Wade Brown: I just wanna know if...
+
+828
+00:57:39.800 --> 00:57:50.467
+Kostadis: Okay. All right, so you run back here. Okay, while he's running back- Then the rest of you- I look for more treasure. What? While he's running back, I look for-
+
+829
+00:57:50.667 --> 00:57:55.000
+Dave Mendenhall: So you guys can scrape up the treasure while I'm out of the room.
+
+830
+00:57:55.200 --> 00:58:05.800
+Kostadis: 22 perception. What? 22 perception. Do I find anything else? No, you do not find anything else. Okay. All right. Does Du go through the door? To the south? Uh,
+
+831
+00:58:06.000 --> 00:58:11.267
+Dave Mendenhall: sure. All right. Yeah. I've, I've informed them of the vestments when I'm back.
+
+832
+00:58:11.467 --> 00:58:14.333
+Kostadis: All right. All right, so you now enter this
+
+833
+00:58:14.533 --> 00:58:18.667
+Wade Brown: ho- horde- Getting tired just watching you run back and forth.
+
+834
+00:58:18.867 --> 00:58:40.400
+Kostadis: Now, there's this passageway that goes east, west. Okay. Well, there's an obvious door, so we'll go with that. Go through that. Yeah, so just so you know, there's... You, you've... The, the, the thing about these passageways is you've noticed that these rubbles are the ends, beginnings and ends of tunnels. Uh-huh. Uh-huh.
+
+835
+00:58:40.600 --> 00:58:41.600
+Kostadis: Right. Okay.
+
+836
+00:58:41.800 --> 00:58:44.000
+Wade Brown: Like mining tunnels or something?
+
+837
+00:58:44.200 --> 00:58:56.267
+Kostadis: No, that they were tunnels that collapsed. Oh, I see. So if you wanted to, if you wanted to go past them, you'd have to dig through them. Mm-hmm. It is possible to dig through them.
+
+838
+00:58:56.467 --> 00:58:59.333
+Wade Brown: Yeah. All right. Time-consuming, I imagine.
+
+839
+00:58:59.533 --> 00:59:00.533
+Kostadis: Yeah.
+
+840
+00:59:00.733 --> 00:59:02.333
+Wade Brown: All right. We're opening
+
+841
+00:59:02.533 --> 00:59:05.067
+Kostadis: the door. Are you gonna open the door?
+
+842
+00:59:05.267 --> 00:59:06.800
+Kostadis: We already spent, like,
+
+843
+00:59:07.000 --> 00:59:12.200
+Wade Brown: a whole day here. I don't know how much longer we wanna, you know, faff about.
+
+844
+00:59:12.400 --> 00:59:28.200
+Kostadis: Okay. Half-buried in the rubble here is... Okay, so this opens into this door. Okay. Half-buried in the rubble here is the skeleton of a dwarf priest wearing rotted red leather armor. The dwarf was killed when part of the room collapsed.
+
+845
+00:59:28.400 --> 00:59:30.133
+Kostadis: Uh, around- Ooh. Okay. So-
+
+846
+00:59:30.333 --> 00:59:33.933
+Dave Mendenhall: How old? It's, it's, like, a skeleton, or it's like a-
+
+847
+00:59:34.133 --> 00:59:40.333
+Kostadis: Yeah, it's a skeleton. Okay. Um, so, uh, Valphine, you are standing over the body. Do I learn
+
+848
+00:59:40.533 --> 00:59:50.800
+Kostadis: from the skeleton? You are standing over the body. Around the skeleton's neck hangs a sym- holy symbol of Abbathor, a tiny jewel dagger on a silver chain.
+
+849
+00:59:51.000 --> 01:00:02.333
+Kostadis: The symbol is inscribed with dwarvish runes that translate to, "Greed is good," and it is worth 50 gold pieces. Do you palm it or announce to the world that you found it?
+
+850
+01:00:02.533 --> 01:00:04.400
+Wade Brown: We know what's gonna happen.
+
+851
+01:00:04.600 --> 01:00:08.267
+Dave Mendenhall: I'm way back here. I haven't seen it yet, Valphine. All
+
+852
+01:00:08.467 --> 01:00:12.667
+Kostadis: right. I guess I'll do my sleight of hand then. Yes. All right.
+
+853
+01:00:12.867 --> 01:00:14.400
+Kostadis: You have to beat a five
+
+854
+01:00:14.600 --> 01:00:17.200
+Dave Mendenhall: All right. Okay. Surrounded by thieves.
+
+855
+01:00:17.400 --> 01:00:22.733
+Kostadis: I'm not it. I've, I've never actually done this in an adventure. This is g- this
+
+856
+01:00:22.933 --> 01:00:23.933
+Kostadis: is like a
+
+857
+01:00:24.133 --> 01:00:25.133
+Kostadis: first
+
+858
+01:00:25.333 --> 01:00:30.533
+Kostadis: for me in my role play. Then, "Hey, there's a body in here. Did you see this?"
+
+859
+01:00:30.733 --> 01:00:33.333
+Dave Mendenhall: Oh, a body. Let me go tell the dwarves.
+
+860
+01:00:33.533 --> 01:00:36.133
+Wade Brown: Just spots watching your icon zoom off.
+
+861
+01:00:36.333 --> 01:00:43.800
+Kostadis: Okay, three rounds elapse. All right. You good? Okay. So there's a passageway to the east you could dig through,
+
+862
+01:00:44.000 --> 01:00:45.000
+Wade Brown: and you
+
+863
+01:00:45.200 --> 01:00:47.533
+Kostadis: also notice a secret door over here
+
+864
+01:00:47.733 --> 01:00:49.133
+Wade Brown: Well, it's a sort of-
+
+865
+01:00:49.333 --> 01:00:55.667
+Dave Mendenhall: We haven't gone behind the altar No, that's a- This, um, this area over here This, this sort of
+
+866
+01:00:55.867 --> 01:00:56.933
+Kostadis: channel, yeah We
+
+867
+01:00:57.133 --> 01:00:58.600
+Dave Mendenhall: haven't done this yet.
+
+868
+01:00:58.800 --> 01:01:01.400
+Dave Mendenhall: We could go look, check that out first.
+
+869
+01:01:01.600 --> 01:01:08.400
+Kostadis: Right. You find a secret door there. It looks like we'll be checking it out from here. Oh, okay. Oh, I
+
+870
+01:01:08.600 --> 01:01:13.133
+Dave Mendenhall: see. Oh, we can go through it through there. Okay, it's all- I don't
+
+871
+01:01:13.333 --> 01:01:19.267
+Wade Brown: know how good your, your in-character spatial relations are Is there anything in this, in
+
+872
+01:01:19.467 --> 01:01:20.467
+Dave Mendenhall: this space?
+
+873
+01:01:20.667 --> 01:01:21.667
+Wade Brown: What?
+
+874
+01:01:21.867 --> 01:01:25.133
+Dave Mendenhall: Is there anything in this space behind the altar?
+
+875
+01:01:25.333 --> 01:01:29.733
+Kostadis: There's a portal. Well, yeah, but like, hold on, hold on, hold on.
+
+876
+01:01:29.933 --> 01:01:30.933
+Dave Mendenhall: Okay.
+
+877
+01:01:31.133 --> 01:01:34.800
+Kostadis: So who goes in first? Uh, looks like Luc- uh, Valphine.
+
+878
+01:01:35.000 --> 01:01:40.333
+Dave Mendenhall: Yeah, I can go in. I'm eager. All right, you're eager. I've got nine hit points.
+
+879
+01:01:40.533 --> 01:01:41.933
+Dave Mendenhall: All right. Excellent.
+
+880
+01:01:42.133 --> 01:01:44.267
+Wade Brown: Oh, boy. There it is. All right.
+
+881
+01:01:44.467 --> 01:01:50.467
+Kostadis: Okay. The ochre jelly, uh, slithers up to you and attempts to attack. Roll for initiative.
+
+882
+01:01:50.667 --> 01:01:53.267
+Kostadis: Okay, that's a minus one for initiative
+
+883
+01:01:53.467 --> 01:01:54.467
+Dave Mendenhall: Rod M18
+
+884
+01:01:54.667 --> 01:01:56.667
+Kostadis: When you did a roll-off at 18?
+
+885
+01:01:56.867 --> 01:01:58.600
+Dave Mendenhall: Uh, the Crown of Valphine?
+
+886
+01:01:58.800 --> 01:01:59.800
+Kostadis: Mm-hmm.
+
+887
+01:02:00.000 --> 01:02:01.333
+Dave Mendenhall: What'd the ogre get?
+
+888
+01:02:01.533 --> 01:02:02.533
+Kostadis: Minus one.
+
+889
+01:02:02.733 --> 01:02:04.267
+Wade Brown: Like full on minus one.
+
+890
+01:02:04.467 --> 01:02:07.733
+Dave Mendenhall: Well, we'll give him a one. We'll give him a one.
+
+891
+01:02:07.933 --> 01:02:08.933
+Wade Brown: No,
+
+892
+01:02:09.133 --> 01:02:10.667
+Dave Mendenhall: it's a minus one. Minus
+
+893
+01:02:10.867 --> 01:02:15.067
+Wade Brown: one. Just in case an actual one or zero shows up when they- Uh,
+
+894
+01:02:15.267 --> 01:02:18.733
+Dave Mendenhall: you wanna do a roll off? Sure, we can do a roll off.
+
+895
+01:02:18.933 --> 01:02:19.933
+Wade Brown: Yeah,
+
+896
+01:02:20.133 --> 01:02:21.333
+Kostadis: my roll off is 20.
+
+897
+01:02:21.533 --> 01:02:22.533
+Dave Mendenhall: You win.
+
+898
+01:02:22.733 --> 01:02:23.733
+Gary Young: Okay.
+
+899
+01:02:23.933 --> 01:02:26.200
+Gary Young: Fine. All right. You okay? Summer?
+
+900
+01:02:26.400 --> 01:02:33.000
+Wade Brown: Huh? All right. Oh yeah, it's me. Summer, all right. Uh, I don't know that I can get in anywhere. I
+
+901
+01:02:33.200 --> 01:02:35.933
+Kostadis: mean, if you can go over here, you can...
+
+902
+01:02:36.133 --> 01:02:42.067
+Wade Brown: Eh, it's all right. All right. I can ice- no, I can ice knife from back there. It's fine.
+
+903
+01:02:42.267 --> 01:02:43.267
+Gary Young: All right.
+
+904
+01:02:43.467 --> 01:02:47.467
+Wade Brown: And that's exactly what I'll do. We'll cast ice knife on it.
+
+905
+01:02:47.667 --> 01:02:48.667
+Wade Brown: All
+
+906
+01:02:48.867 --> 01:02:49.867
+Gary Young: right.
+
+907
+01:02:50.067 --> 01:02:51.067
+Wade Brown: That looks
+
+908
+01:02:51.267 --> 01:02:55.533
+Wade Brown: like a hit It's a hit Oh. Whoa He has to roll a save, a dex save
+
+909
+01:02:55.733 --> 01:02:57.800
+Dave Mendenhall: Dex save. What's the 22 though?
+
+910
+01:02:58.000 --> 01:02:59.467
+Wade Brown: The 22 is the hit roll
+
+911
+01:02:59.667 --> 01:03:02.267
+Dave Mendenhall: He has to do a hit roll and a dex save?
+
+912
+01:03:02.467 --> 01:03:03.467
+Wade Brown: Yes,
+
+913
+01:03:03.667 --> 01:03:07.133
+Kostadis: because I think the dex save is for the cold damage.
+
+914
+01:03:07.333 --> 01:03:08.733
+Dave Mendenhall: What, what, what, why
+
+915
+01:03:08.933 --> 01:03:11.133
+Kostadis: is it a hit and a... That's weird
+
+916
+01:03:11.333 --> 01:03:15.600
+Wade Brown: It's so- A hit and- Well, ice knife is two sh- two parts, right?
+
+917
+01:03:15.800 --> 01:03:25.800
+Wade Brown: So the, um, the first one is 1D 10, and then it has to do the dex save for that damage, and then o- even on a miss, the, the thing explodes for 2D six
+
+918
+01:03:26.000 --> 01:03:27.000
+Gary Young: All right
+
+919
+01:03:27.200 --> 01:03:33.533
+Wade Brown: So he fails the dex save, I assume, because I think that's a 20 or a 10 minus- Okay, so the sa-
+
+920
+01:03:33.733 --> 01:03:36.333
+Kostadis: the saving throw is for the cold damage
+
+921
+01:03:36.533 --> 01:03:38.333
+Wade Brown: Uh, for the piercing damage
+
+922
+01:03:38.533 --> 01:03:39.533
+Kostadis: No, no.
+
+923
+01:03:39.733 --> 01:03:49.800
+Kostadis: The hit, on a hit, the target takes 1d10 of piercing damage Oh, right, right, right If hit or miss, the shard explodes. The target- That's right, I had
+
+924
+01:03:50.000 --> 01:03:51.000
+Wade Brown: it
+
+925
+01:03:51.200 --> 01:03:54.667
+Kostadis: backward, yes So it, it's the same- But he takes the
+
+926
+01:03:54.867 --> 01:04:00.067
+Wade Brown: full brunt, so he takes the hit and the save, so he takes nine damage Yeah, so
+
+927
+01:04:00.267 --> 01:04:02.200
+Kostadis: it should be at 43 hit points
+
+928
+01:04:02.400 --> 01:04:03.400
+Wade Brown: Uh,
+
+929
+01:04:03.600 --> 01:04:04.600
+Kostadis: 43?
+
+930
+01:04:04.800 --> 01:04:06.400
+Kostadis: Yeah, it started with 52
+
+931
+01:04:06.600 --> 01:04:08.400
+Wade Brown: Oh, it says 45 in the sheet
+
+932
+01:04:08.600 --> 01:04:09.733
+Kostadis: There, I fixed it
+
+933
+01:04:09.933 --> 01:04:10.933
+Wade Brown: All right.
+
+934
+01:04:11.133 --> 01:04:12.133
+Kostadis: Okay.
+
+935
+01:04:12.333 --> 01:04:13.333
+Wade Brown: That's me
+
+936
+01:04:13.533 --> 01:04:15.000
+Dave Mendenhall: All right. Nicely done
+
+937
+01:04:15.200 --> 01:04:21.067
+Kostadis: Valefar He'll just do the Sacred Flame again. Uh, dex save DC 13 It makes the same throw
+
+938
+01:04:21.267 --> 01:04:24.067
+Wade Brown: Oh, that's... Sorry, that's the wrong way.
+
+939
+01:04:24.267 --> 01:04:30.733
+Kostadis: Wow. Okay. All right, and then Brewbarry's next, uh, so he'll move in and he'll go punchy punchy.
+
+940
+01:04:30.933 --> 01:04:31.933
+Wade Brown: Right.
+
+941
+01:04:32.133 --> 01:04:47.800
+Kostadis: Does he, does Valphine want to move out of the way so he can fit in? All right. Uh, is it her turn to hit? Any notch here Yeah, he can go there. I just, I guess, well, yeah, he can go there. All right. Punchy, punchy He's fine here. Um
+
+942
+01:04:48.000 --> 01:04:51.533
+Kostadis: Jeez That's a- Man ... my second natural one tonight.
+
+943
+01:04:51.733 --> 01:04:53.000
+Dave Mendenhall: Wow. Uh-huh. Rough.
+
+944
+01:04:53.200 --> 01:04:54.200
+Kostadis: Rough. Okay.
+
+945
+01:04:54.400 --> 01:04:56.933
+Dave Mendenhall: All right. Oh- Oh, sorry. Uh, Vukradin
+
+946
+01:04:57.133 --> 01:05:04.267
+Kostadis: didn't get to go Vukradin. Uh, Vukradin, you were supposed to have gone before Brewbarry. I was supposed to
+
+947
+01:05:04.467 --> 01:05:05.467
+Dave Mendenhall: have gone,
+
+948
+01:05:05.667 --> 01:05:06.667
+Kostadis: yeah
+
+949
+01:05:06.867 --> 01:05:08.400
+Dave Mendenhall: Hmm. So do the daggers?
+
+950
+01:05:08.600 --> 01:05:10.267
+Dave Mendenhall: What should I do to spell
+
+951
+01:05:10.467 --> 01:05:14.667
+Dave Mendenhall: Well, let's try the daggers. That worked well last time. Mm-hmm
+
+952
+01:05:14.867 --> 01:05:15.867
+Dave Mendenhall: You're six?
+
+953
+01:05:16.067 --> 01:05:17.067
+Dave Mendenhall: And a miss. Six
+
+954
+01:05:17.267 --> 01:05:18.333
+Kostadis: How much damage?
+
+955
+01:05:18.533 --> 01:05:20.667
+Dave Mendenhall: Six damage. Down to 37. Correct.
+
+956
+01:05:20.867 --> 01:05:28.400
+Kostadis: All right. Ochre is up. Okay, the Ochre is up. I guess he will very ... 19, 20. Uh, Vukradin, odds or evens? Odds
+
+957
+01:05:28.600 --> 01:05:39.467
+Kostadis: Right. That is a hit Or three D6 worth of damage Ooh. Is that- That just dropped me. No, that's on, uh, that's on, uh ... You said odds, so it's on, uh, Brewbarry.
+
+958
+01:05:39.667 --> 01:05:41.067
+Dave Mendenhall: Oh, okay. Sorry, man.
+
+959
+01:05:41.267 --> 01:05:43.400
+Kostadis: No, that's fine. He's got- What,
+
+960
+01:05:43.600 --> 01:05:45.067
+Gary Young: um, what's the damage?
+
+961
+01:05:45.267 --> 01:05:46.267
+Dave Mendenhall: Okay,
+
+962
+01:05:46.467 --> 01:05:47.467
+Wade Brown: hold on
+
+963
+01:05:47.667 --> 01:05:49.600
+Gary Young: I'm gonna run this nine event
+
+964
+01:05:49.800 --> 01:05:51.067
+Kostadis: 17 points of damage
+
+965
+01:05:51.267 --> 01:05:52.333
+Dave Mendenhall: Oof. Max damage?
+
+966
+01:05:52.533 --> 01:05:53.667
+Kostadis: Close to it. Wow.
+
+967
+01:05:53.867 --> 01:05:54.867
+Dave Mendenhall: Yeesh.
+
+968
+01:05:55.067 --> 01:06:12.600
+Kostadis: Good thing I resisted. Um, you're gonna deflect it. I resisted, um, uh... What was it, nine? Yeah, nine. Did you rage before you entered combat or not? I did. So then you take half damage. I take half damage anyway, and then I res- resist nine? Yeah Yeah. Hold on
+
+969
+01:06:12.800 --> 01:06:35.800
+Kostadis: No, no. Hold on, hold on, hold on. No, no, no. No, you don't, 'cause it's acid damage. It's not... It's only acid damage. So no, the, the, the magical call doesn't help, but you do... can- So whatever you absorb, you can absorb Yeah, that's my stone's endurance. Whenever I take damage, I can take a reaction to reduce the damage by 1d12 plus 2.
+
+970
+01:06:36.000 --> 01:06:43.067
+Kostadis: All right. Oh, wow. Uh, you can do that a certain number of times per day, I presume? Twice per long rest.
+
+971
+01:06:43.267 --> 01:06:46.200
+Dave Mendenhall: Okay. Nice. All right. Soma. Soma, you're up
+
+972
+01:06:46.400 --> 01:06:47.867
+Gary Young: It's almost like I'm a
+
+973
+01:06:48.067 --> 01:06:56.667
+Wade Brown: tank Wade, you're up Oh, sorry. I'm still stuck in the back. Yeah, I'm not getting to the other side, so just one more ice knife.
+
+974
+01:06:56.867 --> 01:06:57.867
+Gary Young: All right.
+
+975
+01:06:58.067 --> 01:07:00.867
+Wade Brown: Sorry, I'm still not used to hearing Soma.
+
+976
+01:07:01.067 --> 01:07:03.467
+Kostadis: I made my saving throw, so just- You
+
+977
+01:07:03.667 --> 01:07:09.000
+Wade Brown: suck. Uh, so you missed the 2D six, but you do take the piercing damage of nine.
+
+978
+01:07:09.200 --> 01:07:21.400
+Wade Brown: Nine, nine damage. Oh, no, that's a double miss, isn't that? That's- No, no, no ... no, it's not. It's an eight. It's an eight. Yeah, it's an eight. Yeah. So it's good, barely. I take
+
+979
+01:07:21.600 --> 01:07:23.533
+Kostadis: 11 points of damage. Exactly.
+
+980
+01:07:23.733 --> 01:07:24.733
+Wade Brown: Uh-
+
+981
+01:07:24.933 --> 01:07:26.067
+Dave Mendenhall: Oh, plus half ...
+
+982
+01:07:26.267 --> 01:07:33.533
+Wade Brown: yeah, half of the 2D six. Yeah, you're right, 11. 11. So 26. All right. Nice. And now I'm out of spell slots.
+
+983
+01:07:33.733 --> 01:07:35.533
+Kostadis: Okay. Who's next? Valphine.
+
+984
+01:07:35.733 --> 01:07:39.800
+Wade Brown: Valphine. All right. I will, I will learn my name, I promise.
+
+985
+01:07:40.000 --> 01:07:41.000
+Kostadis: That's fine.
+
+986
+01:07:41.200 --> 01:07:42.200
+Wade Brown: All right,
+
+987
+01:07:42.400 --> 01:07:45.800
+Gary Young: I think I will just do the, um, the mace this time.
+
+988
+01:07:46.000 --> 01:07:47.000
+Dave Mendenhall: Okay.
+
+989
+01:07:47.200 --> 01:07:49.200
+Gary Young: Hit. And this is six budgeting
+
+990
+01:07:49.400 --> 01:07:51.067
+Dave Mendenhall: Nice. All right. Under 20
+
+991
+01:07:51.267 --> 01:07:52.467
+Kostadis: Okay. Um, Vukradin
+
+992
+01:07:52.667 --> 01:07:53.667
+Dave Mendenhall: Vukradin.
+
+993
+01:07:53.867 --> 01:07:57.000
+Kostadis: How many hit points does the creature have? 20.
+
+994
+01:07:57.200 --> 01:07:58.200
+Wade Brown: 20 out of 52.
+
+995
+01:07:58.400 --> 01:07:59.400
+Dave Mendenhall: Okay
+
+996
+01:07:59.600 --> 01:08:01.667
+Dave Mendenhall: Yeah. And A hit, two hits Four.
+
+997
+01:08:01.867 --> 01:08:04.467
+Kostadis: 10 damage 10 damage. It splits into two
+
+998
+01:08:04.667 --> 01:08:05.667
+Dave Mendenhall: The
+
+999
+01:08:05.867 --> 01:08:08.067
+Dave Mendenhall: two oozes of five hit points each
+
+1000
+01:08:08.267 --> 01:08:18.000
+Kostadis: Was it two before or after I attack? Well, whoever did the la- whoever got it, whoever got it below 20 points of damage Ah, okay. All right. Yeah.
+
+1001
+01:08:18.200 --> 01:08:23.800
+Dave Mendenhall: Would it split in between my two attacks? All right. The status? Would it split- Uh-
+
+1002
+01:08:24.000 --> 01:08:28.133
+Kostadis: In the- I'm gonna just declare at the end of your two attacks.
+
+1003
+01:08:28.333 --> 01:08:29.333
+Kostadis: Okay.
+
+1004
+01:08:29.533 --> 01:08:35.200
+Dave Mendenhall: All right. Okay. All right, so I've got two ogres at 10 hit points each. Right. Okay.
+
+1005
+01:08:35.400 --> 01:08:43.267
+Kostadis: Okay. There. All right, Brewbarry is up. So that, that five hit points each, right? Because you've got- Oh, it's five.
+
+1006
+01:08:43.467 --> 01:08:46.333
+Dave Mendenhall: At five each. Yes, you're right, five each.
+
+1007
+01:08:46.533 --> 01:08:51.533
+Kostadis: Great. Let me just put a number next to them so you know which one is what.
+
+1008
+01:08:51.733 --> 01:08:58.000
+Kostadis: Okay. Well, I crit one of them, so we can just cleave that guy out. Hmm. All right, he's dead.
+
+1009
+01:08:58.200 --> 01:08:59.200
+Wade Brown: He's dead, Jim
+
+1010
+01:08:59.400 --> 01:09:14.667
+Kostadis: All right. I, I just delete one of the two. There should be one with five hit points left. Okay. All right. And this guy attacks a Brewbarry, 'cause why? 'Cause Brewbarry's staring at him right in the face, and misses. All right.
+
+1011
+01:09:14.867 --> 01:09:15.867
+Dave Mendenhall: All
+
+1012
+01:09:16.067 --> 01:09:17.133
+Wade Brown: right, you're up
+
+1013
+01:09:17.333 --> 01:09:18.333
+Dave Mendenhall: Wade.
+
+1014
+01:09:18.533 --> 01:09:24.200
+Wade Brown: Finish him off. Yeah, okay. I'll- Five hit points ... uh, can I squeeze in over here?
+
+1015
+01:09:24.400 --> 01:09:25.400
+Wade Brown: Yep. Huh?
+
+1016
+01:09:25.600 --> 01:09:26.600
+Kostadis: You
+
+1017
+01:09:26.800 --> 01:09:28.000
+Wade Brown: can do what I was.
+
+1018
+01:09:28.200 --> 01:09:32.533
+Kostadis: All right, yeah. Actually, but you can't really squeeze in there.
+
+1019
+01:09:32.733 --> 01:09:42.800
+Wade Brown: Yeah, uh, it's just cantrip time. We're gonna- Yeah, just cantrip him. Yeah, we're just gonna- Five hit points ... poison spray at it. Let's go. I left
+
+1020
+01:09:43.000 --> 01:09:44.200
+Gary Young: a little space for
+
+1021
+01:09:44.400 --> 01:09:45.400
+Kostadis: them for you.
+
+1022
+01:09:45.600 --> 01:09:47.800
+Wade Brown: Well, I do one damage. Excellent.
+
+1023
+01:09:48.000 --> 01:09:49.000
+Kostadis: All
+
+1024
+01:09:49.200 --> 01:09:50.200
+Wade Brown: right.
+
+1025
+01:09:50.400 --> 01:09:53.067
+Wade Brown: Hey, that's 20% of its hit points, guys.
+
+1026
+01:09:53.267 --> 01:09:54.267
+Kostadis: Wow. Thanks.
+
+1027
+01:09:54.467 --> 01:09:55.467
+Wade Brown: I
+
+1028
+01:09:55.667 --> 01:09:56.667
+Kostadis: marked it.
+
+1029
+01:09:56.867 --> 01:09:59.933
+Wade Brown: Now, Valphine. Everybody rush to mark the one.
+
+1030
+01:10:00.133 --> 01:10:01.133
+Gary Young: Okay. Uh,
+
+1031
+01:10:01.333 --> 01:10:03.200
+Kostadis: I'll do the, the mace again.
+
+1032
+01:10:03.400 --> 01:10:04.400
+Dave Mendenhall: Mm-hmm. Nope.
+
+1033
+01:10:04.600 --> 01:10:06.867
+Kostadis: Nope. That's my third natural one.
+
+1034
+01:10:07.067 --> 01:10:08.267
+Dave Mendenhall: Once again- Uh, is
+
+1035
+01:10:08.467 --> 01:10:15.733
+Kostadis: Valphine feeling a bit of moral q- guilt about- Geez ... perhaps that the stealing of the treasure was wrong?
+
+1036
+01:10:15.933 --> 01:10:27.733
+Kostadis: Moral guilt? No. In a drow? Nah. A very confused drow She's not confused. You know, like, she's enjoying the pain and the light Hold on. To the rest of the world, she's confused
+
+1037
+01:10:27.933 --> 01:10:28.933
+Dave Mendenhall: Two hits
+
+1038
+01:10:29.133 --> 01:10:30.667
+Kostadis: Um, Vukradin too Eight,
+
+1039
+01:10:30.867 --> 01:10:34.267
+Dave Mendenhall: eight, eight hit points of damage. Dead. All right.
+
+1040
+01:10:34.467 --> 01:10:35.533
+Kostadis: Dead. All right.
+
+1041
+01:10:35.733 --> 01:10:39.000
+Dave Mendenhall: I'm kind of done with those daggers. That's nice.
+
+1042
+01:10:39.200 --> 01:10:48.000
+Kostadis: All right. So- Make a perception. Searchin' around. All right. There's- 18 ... no, there's nothing else of any value here. Aw. Okay.
+
+1043
+01:10:48.200 --> 01:10:54.733
+Dave Mendenhall: We're doing our job in clearing out these ogres for the dwarves so we can earn our sending stones.
+
+1044
+01:10:54.933 --> 01:11:02.200
+Wade Brown: You gonna go tell that guy? I mean, go, go s- go send the message. We got one more ogre to jelly off. Oh, no,
+
+1045
+01:11:02.400 --> 01:11:05.600
+Dave Mendenhall: no, it's okay. All right. He can find out later.
+
+1046
+01:11:05.800 --> 01:11:06.800
+Kostadis: All right.
+
+1047
+01:11:07.000 --> 01:11:10.867
+Dave Mendenhall: Next time we, next time we find an archeological artifact.
+
+1048
+01:11:11.067 --> 01:11:13.800
+Kostadis: So the only area you haven't explored is-
+
+1049
+01:11:14.000 --> 01:11:15.267
+Dave Mendenhall: To the east, right?
+
+1050
+01:11:15.467 --> 01:11:16.667
+Kostadis: Yes, this one here
+
+1051
+01:11:16.867 --> 01:11:20.867
+Dave Mendenhall: Is anybody mold- Keep encouraging us that we can do anything
+
+1052
+01:11:21.067 --> 01:11:22.533
+Dave Mendenhall: is anybody mold earth?
+
+1053
+01:11:22.733 --> 01:11:28.400
+Wade Brown: I actually do. All right. Let's clear it out. You do not. I do. Look at my character.
+
+1054
+01:11:28.600 --> 01:11:31.200
+Dave Mendenhall: It's a very valuable spell, mold earth.
+
+1055
+01:11:31.400 --> 01:11:35.667
+Wade Brown: It's, it's there. I have it as a, it's a, it's a cantrip for me.
+
+1056
+01:11:35.867 --> 01:11:36.867
+Dave Mendenhall: Excellent
+
+1057
+01:11:37.067 --> 01:11:38.067
+Wade Brown: Let's go
+
+1058
+01:11:38.267 --> 01:11:41.067
+Dave Mendenhall: It's loose earth. Yeah, it is loose earth.
+
+1059
+01:11:41.267 --> 01:11:42.267
+Kostadis: Yep.
+
+1060
+01:11:42.467 --> 01:11:43.467
+Kostadis: All right. Okay
+
+1061
+01:11:43.667 --> 01:11:51.467
+Wade Brown: Oh, wow In fact, maybe we should go check some of these other things, like down here Well, that connects to the other
+
+1062
+01:11:51.667 --> 01:11:57.733
+Dave Mendenhall: area Well, we were, we were warned that one over there could collapse if we fiddled with it
+
+1063
+01:11:57.933 --> 01:11:59.867
+Kostadis: Yeah, that's right All right.
+
+1064
+01:12:00.067 --> 01:12:05.000
+Kostadis: You arrive in this area here. All right, what do you see here? Perception,
+
+1065
+01:12:05.200 --> 01:12:06.200
+Gary Young: a natural 20.
+
+1066
+01:12:06.400 --> 01:12:10.467
+Wade Brown: Beautiful. You save those for the out of combat rolls, I see.
+
+1067
+01:12:10.667 --> 01:12:11.667
+Gary Young: That's
+
+1068
+01:12:11.867 --> 01:12:12.867
+Kostadis: right. Okay.
+
+1069
+01:12:13.067 --> 01:12:14.067
+Dave Mendenhall: Uh,
+
+1070
+01:12:14.267 --> 01:12:20.133
+Kostadis: Grym? I, I think I got three natural 20s and three natural ones. All right. This, um- No
+
+1071
+01:12:20.333 --> 01:12:22.467
+Wade Brown: middle numbers, just ones or 20s
+
+1072
+01:12:22.667 --> 01:12:31.600
+Kostadis: Walking into this area, you get the sense of it being some kind of sacred religious, uh, location important to the clerics of Abbathor
+
+1073
+01:12:31.800 --> 01:12:32.800
+Wade Brown: Who's Abbathor?
+
+1074
+01:12:33.000 --> 01:12:34.000
+Kostadis: He's the, uh-
+
+1075
+01:12:34.200 --> 01:12:39.400
+Wade Brown: No, I'm just kidding you. Okay. Sorry. I just rolled like garbage, that's all.
+
+1076
+01:12:39.600 --> 01:12:55.267
+Kostadis: All right. Um, so you look at the, the, on to the south, you see, right over here you see a sta- a rubble. You see rubble. Uh, and it holds a statue of a dwarf with storm, with horns, which stares greedily at a glowing gem in its eyes.
+
+1077
+01:12:55.467 --> 01:12:57.800
+Wade Brown: Hmm. Hey Vukradin, look over there.
+
+1078
+01:12:58.000 --> 01:12:59.000
+Kostadis: So,
+
+1079
+01:12:59.200 --> 01:13:00.933
+Kostadis: what would you like to do?
+
+1080
+01:13:01.133 --> 01:13:12.400
+Wade Brown: Should we mold earth away some of the rubble and see if there's anything else at his feet? Sure, sure. Yeah. Let's clear away that rubble and mold earth- Can I sign over
+
+1081
+01:13:12.600 --> 01:13:14.133
+Dave Mendenhall: here while you do that?
+
+1082
+01:13:14.333 --> 01:13:20.200
+Wade Brown: Yeah. Well, we're just gonna spread the stones around so, like, so we can see the- Right
+
+1083
+01:13:20.400 --> 01:13:22.467
+Wade Brown: you know, statue and the floor.
+
+1084
+01:13:22.667 --> 01:13:24.533
+Kostadis: So, all right. The statue Uh
+
+1085
+01:13:24.733 --> 01:13:32.067
+Kostadis: Actually, as you look... Okay, so what you realize is that the rubble is actually of the shattered statue, so-
+
+1086
+01:13:32.267 --> 01:13:34.667
+Wade Brown: Oh, it's pieces of the statue. Okay.
+
+1087
+01:13:34.867 --> 01:13:41.533
+Kostadis: Okay. The- I'm sorry, the alcove to the north holds the statue of a dwarf with horns. Sorry, my bad.
+
+1088
+01:13:41.733 --> 01:13:42.733
+Wade Brown: Oh, so- Oh
+
+1089
+01:13:42.933 --> 01:13:46.333
+Dave Mendenhall: I'm in the- Yes. Oh, okay. I should move over here.
+
+1090
+01:13:46.533 --> 01:13:50.800
+Wade Brown: Oh, then what's the story on this rubble pile in the south? This
+
+1091
+01:13:51.000 --> 01:13:55.000
+Kostadis: is, uh, uh, hold- it holds the rubble of a shattered statue.
+
+1092
+01:13:55.200 --> 01:14:07.000
+Wade Brown: I see. So there's probably a gem in there as well, unless somebody already looted it. So let's, uh, you know, just kinda clear the rubble around and see if we can't sift it out.
+
+1093
+01:14:07.200 --> 01:14:11.533
+Dave Mendenhall: Oh, we're digging for artifacts. I, I, I wanna dig for artifacts.
+
+1094
+01:14:11.733 --> 01:14:12.733
+Wade Brown: Go
+
+1095
+01:14:12.933 --> 01:14:19.867
+Kostadis: for it. Okay. Uh- Tire yourself out ... or do you wanna go ask the archeologist to come and help us dig?
+
+1096
+01:14:20.067 --> 01:14:25.933
+Dave Mendenhall: No, I, I think it was our job to find the artifacts, wasn't it? And then turn them over.
+
+1097
+01:14:26.133 --> 01:14:27.133
+Kostadis: All right.
+
+1098
+01:14:27.333 --> 01:14:32.333
+Wade Brown: Let him tire himself out. He'll be much easier if he passes out after this.
+
+1099
+01:14:32.533 --> 01:14:34.467
+Kostadis: All right. So you're digging-
+
+1100
+01:14:34.667 --> 01:14:41.933
+Kostadis: I'm gonna look carefully at that statue while they're digging Uh, the one that's on, on the other side? Yeah.
+
+1101
+01:14:42.133 --> 01:14:46.400
+Dave Mendenhall: I'm digging, I'm just, I'm fully occupied digging in the rubble.
+
+1102
+01:14:46.600 --> 01:14:55.600
+Kostadis: All right. Okay. Uh, Hoop, when you say, "I am," I'm assuming you're saying Valphine, right? Yes. All right. Detect, doing detect magic
+
+1103
+01:14:55.800 --> 01:14:56.800
+Gary Young: on it.
+
+1104
+01:14:57.000 --> 01:15:11.733
+Kostadis: All right, you do sense some magic on the gem. Let me just describe to you the ge- the statue. An alcove to the north holds a statue of a dwarf with horns, which stares greedily at a glowing green, green gem in its hands.
+
+1105
+01:15:11.933 --> 01:15:18.867
+Dave Mendenhall: Hmm. I think I've seen that picture in the Dungeon Master's Guide. Is that, like, a classic D&D picture?
+
+1106
+01:15:19.067 --> 01:15:25.400
+Dave Mendenhall: I don't know, but it, it, it's- A demon statue holding the glowing gem. Oh my God, yeah, you're
+
+1107
+01:15:25.600 --> 01:15:26.600
+Wade Brown: right.
+
+1108
+01:15:26.800 --> 01:15:27.800
+Dave Mendenhall: It is.
+
+1109
+01:15:28.000 --> 01:15:31.267
+Wade Brown: I mean, this is the intro adventure, right? Like-
+
+1110
+01:15:31.467 --> 01:15:32.600
+Dave Mendenhall: Yeah, exactly ...
+
+1111
+01:15:32.800 --> 01:15:36.667
+Wade Brown: it should, it should definitely be, uh, represented in art
+
+1112
+01:15:36.867 --> 01:15:47.200
+Kostadis: While, uh, while inspecting this gem, I don't learn anything interesting about it? Um, well, what do you mean we don't learn anything interesting about it?
+
+1113
+01:15:47.400 --> 01:15:49.333
+Wade Brown: Like its value or lineage or-
+
+1114
+01:15:49.533 --> 01:16:01.000
+Kostadis: Um, it, I mean, oh, uh, it's, uh... Oh, you mean what kind of... It's an emerald. Um, roll your investigation Do you have a gem, do you have a jewelry skill or proficiency?
+
+1115
+01:16:01.200 --> 01:16:02.200
+Kostadis: I do not.
+
+1116
+01:16:02.400 --> 01:16:03.400
+Gary Young: All right
+
+1117
+01:16:03.600 --> 01:16:04.600
+Kostadis: Investigation
+
+1118
+01:16:04.800 --> 01:16:12.400
+Kostadis: A one Yes. Yeah. You, you, you don't know- To your best guess, this is an emerald, but it could also just be glass
+
+1119
+01:16:12.600 --> 01:16:15.333
+Wade Brown: Or tanzanite. Or- Tanzanite is also green
+
+1120
+01:16:15.533 --> 01:16:16.800
+Wade Brown: Yeah, or tanzanite.
+
+1121
+01:16:17.000 --> 01:16:18.000
+Wade Brown: Or, you know,
+
+1122
+01:16:18.200 --> 01:16:21.667
+Dave Mendenhall: peridot. Oh, what did you find over there, Valphine?
+
+1123
+01:16:21.867 --> 01:16:26.867
+Kostadis: Uh, let's see. It is, um, a, a glass, a worthless glass gem, I think it is.
+
+1124
+01:16:27.067 --> 01:16:33.267
+Dave Mendenhall: Oh, okay. Well, we'll let the dwarves know about it on the way out then. Just leave it there.
+
+1125
+01:16:33.467 --> 01:16:34.467
+Gary Young: Yeah.
+
+1126
+01:16:34.667 --> 01:16:35.667
+Dave Mendenhall: All right
+
+1127
+01:16:35.867 --> 01:16:42.000
+Dave Mendenhall: I'm sure it has great historical significance despite its worthless value in the present day
+
+1128
+01:16:42.200 --> 01:16:43.200
+Gary Young: Yeah,
+
+1129
+01:16:43.400 --> 01:16:48.067
+Kostadis: apparently. Okay. And- So ... any of the rubble, did we find anything?
+
+1130
+01:16:48.267 --> 01:16:50.533
+Dave Mendenhall: Did I find anything in the rubble?
+
+1131
+01:16:50.733 --> 01:16:51.933
+Kostadis: No. No, the rubble
+
+1132
+01:16:52.133 --> 01:16:59.000
+Dave Mendenhall: was just- Oh, okay. Our work here is done, gentlemen. That's a bummer. And, and ladies. Men and ladies.
+
+1133
+01:16:59.200 --> 01:17:01.867
+Kostadis: Great then. But we didn't find a dragon.
+
+1134
+01:17:02.067 --> 01:17:05.000
+Wade Brown: You mean a dragon didn't find us. We weren't
+
+1135
+01:17:05.200 --> 01:17:10.600
+Dave Mendenhall: supposed to... We were just supposed to warn the dwarves about the dragon, right?
+
+1136
+01:17:10.800 --> 01:17:17.267
+Wade Brown: Yes. That's right. Well, the dragon's not in here, right? It's, it's making shit trouble outside.
+
+1137
+01:17:17.467 --> 01:17:21.467
+Kostadis: Yes. All right. So you head back to Dazlyn and Norbus Right?
+
+1138
+01:17:21.667 --> 01:17:31.200
+Kostadis: All right. Dazlyn and Norbus, uh, are... You describe to them what happened, and they're very excited. They say, "You found the Hall of Greed?"
+
+1139
+01:17:31.400 --> 01:17:32.400
+Dave Mendenhall: What?
+
+1140
+01:17:32.600 --> 01:17:34.800
+Kostadis: Is that what that's called? Well,
+
+1141
+01:17:35.000 --> 01:17:45.867
+Dave Mendenhall: it, it's- We took a worthless piece of green glass. Yeah. Yes. Yes. But it had great historical significance. Yes. Yes, yes. Of tremendous historical significance.
+
+1142
+01:17:46.067 --> 01:17:55.733
+Dave Mendenhall: What historical significance is it? You seem to know a lot about it. It's a, it's, it's a, um... Roll your dis- roll your perception. Or insight.
+
+1143
+01:17:55.933 --> 01:17:58.067
+Dave Mendenhall: Insight. Okay. No, not very good
+
+1144
+01:17:58.267 --> 01:18:10.467
+Kostadis: What'd you roll? Nine Well, you definitely could tell that... So they start spewing some nonsensical ass thing out of their ass about you, you, the, the... You've figured out that you
+
+1145
+01:18:10.667 --> 01:18:15.000
+Dave Mendenhall: can tell they're lying That they're like a... That they're lying?
+
+1146
+01:18:15.200 --> 01:18:17.933
+Kostadis: Or they're making up whatever they're sh-
+
+1147
+01:18:18.133 --> 01:18:19.467
+Dave Mendenhall: they're saying Okay.
+
+1148
+01:18:19.667 --> 01:18:21.800
+Dave Mendenhall: Well, then I would be very upset
+
+1149
+01:18:22.000 --> 01:18:25.133
+Kostadis: Okay, I'm just telling you. So they, they, they
+
+1150
+01:18:25.333 --> 01:18:27.067
+Dave Mendenhall: you know. Are you, are you
+
+1151
+01:18:27.267 --> 01:18:30.267
+Kostadis: guys cheating? I mean- Are we getting cheated
+
+1152
+01:18:30.467 --> 01:18:31.467
+Gary Young: here?
+
+1153
+01:18:31.667 --> 01:18:37.733
+Kostadis: Well, Valphine is very used to being cheated, so, like, it's, it's ex- to be expected Right
+
+1154
+01:18:37.933 --> 01:18:40.933
+Dave Mendenhall: I mean, I'm not gonna let these guys cheat us
+
+1155
+01:18:41.133 --> 01:18:42.800
+Kostadis: Well, we're not cheating.
+
+1156
+01:18:43.000 --> 01:18:51.667
+Kostadis: They, they're l- You said, "Is this of great historical significance?" Okay You get the, you, the, the, tha- that's what they were
+
+1157
+01:18:51.867 --> 01:18:52.867
+Kostadis: responding to
+
+1158
+01:18:53.067 --> 01:18:55.533
+Dave Mendenhall: Well, yeah. Why are they lying to me?
+
+1159
+01:18:55.733 --> 01:19:00.333
+Kostadis: They're not lying. They're, they're saying y- they're saying nonsense
+
+1160
+01:19:00.533 --> 01:19:04.933
+Dave Mendenhall: Well, so that sounds like a lie. They're... Doesn't make any- Yes,
+
+1161
+01:19:05.133 --> 01:19:06.133
+Kostadis: fair enough.
+
+1162
+01:19:06.333 --> 01:19:15.467
+Kostadis: Fair enough. They, they're, they're spewing words hoping you won't notice that they have no idea if it is or is not his- historical value
+
+1163
+01:19:15.667 --> 01:19:18.600
+Dave Mendenhall: Well, why can't they just be honest with me?
+
+1164
+01:19:18.800 --> 01:19:23.200
+Kostadis: You could ask them Exactly what I've been very curious about. Yeah
+
+1165
+01:19:23.400 --> 01:19:29.200
+Dave Mendenhall: This is strange behavior by surface dwellers Okay. So, um- So we get our sending stones
+
+1166
+01:19:29.400 --> 01:19:30.400
+Kostadis: All right.
+
+1167
+01:19:30.600 --> 01:19:46.733
+Kostadis: So they give you the sending stones, and they explain... Uh, so he goes, "I... To be quite honest, I, I don't know whether it is or is not a matter of great historical significance" Okay But- Why, why don't you know? What? Why don't you know?
+
+1168
+01:19:46.933 --> 01:19:47.933
+Wade Brown: Aren't you guys
+
+1169
+01:19:48.133 --> 01:19:53.600
+Kostadis: archeologists? Oh, we're, we're, we're, we're, we're, we're amateur archeologists.
+
+1170
+01:19:53.800 --> 01:19:59.000
+Kostadis: Clearly. We've heard that this, this might be an important archeological find.
+
+1171
+01:19:59.200 --> 01:20:02.600
+Kostadis: All right. Amateur archeologists in sight. Yes. 17.
+
+1172
+01:20:02.800 --> 01:20:06.800
+Kostadis: Yeah. They're, they're, they're amateur archeologists. Okay.
+
+1173
+01:20:07.000 --> 01:20:09.800
+Kostadis: You know, they started the hobby recently.
+
+1174
+01:20:10.000 --> 01:20:11.000
+Wade Brown: Oh,
+
+1175
+01:20:11.200 --> 01:20:13.533
+Kostadis: geez. I would say several days ago.
+
+1176
+01:20:13.733 --> 01:20:15.400
+Dave Mendenhall: Yeah, moments ago. Hours,
+
+1177
+01:20:15.600 --> 01:20:21.533
+Wade Brown: even. Do we still see, like, an Archeology for Dummies book under their arm or something?
+
+1178
+01:20:21.733 --> 01:20:22.733
+Wade Brown: Like...
+
+1179
+01:20:22.933 --> 01:20:26.933
+Kostadis: Uh, so, um, they're like, "Look, look, like, look, look, we,
+
+1180
+01:20:27.133 --> 01:20:41.600
+Kostadis: we were looking for the Hall of Greed. It's apparent- Found it. But so, so this is great. This was a successful... This is awesome. W- The, the historical significance of finding an intact gem with- You weren't killed
+
+1181
+01:20:41.800 --> 01:20:49.333
+Dave Mendenhall: by the dragon. And- And we warned you, and we cleared out the ochre jellies, so I think job well done, gentlemen.
+
+1182
+01:20:49.533 --> 01:20:50.533
+Dave Mendenhall: Yes,
+
+1183
+01:20:50.733 --> 01:20:56.467
+Kostadis: yes. Thank you so much, and hands you the Sending S- uh, gives you the Sending Stones.
+
+1184
+01:20:56.667 --> 01:20:57.667
+Dave Mendenhall: All right.
+
+1185
+01:20:57.867 --> 01:21:02.800
+Wade Brown: So we head back to town and recover our reward for delivering the message.
+
+1186
+01:21:03.000 --> 01:21:06.000
+Kostadis: All right. So as you're heading back to town-
+
+1187
+01:21:06.200 --> 01:21:10.133
+Dave Mendenhall: The demon attacks the gnomes for stealing the Gem of Greed.
+
+1188
+01:21:10.333 --> 01:21:12.200
+Wade Brown: And lying to a, you know- Ah
+
+1189
+01:21:12.400 --> 01:21:15.200
+Wade Brown: trying, trying to lie to an innocent bard.
+
+1190
+01:21:15.400 --> 01:21:21.267
+Dave Mendenhall: Hmm. Did you hear something? I don't know. Whatever. Message delivered. Wasn't a dragon.
+
+1191
+01:21:21.467 --> 01:21:24.800
+Kostadis: All right. Okay, roll... What is your... All right
+
+1192
+01:21:25.000 --> 01:21:27.867
+Kostadis: All right, nobody was surprised. All right.
+
+1193
+01:21:28.067 --> 01:21:33.867
+Dave Mendenhall: Oh, it's 10:31. Yep. So if we're starting a new combat, we should wait until next week.
+
+1194
+01:21:34.067 --> 01:21:40.333
+Kostadis: Yeah, I'm just gonna put them up. We just, we can just, uh, roll initiative and call it a day.
+
+1195
+01:21:40.533 --> 01:21:44.400
+Wade Brown: All right. Oh, boy. Entering in with no spells on us, huh?
+
+1196
+01:21:44.600 --> 01:21:49.067
+Kostadis: All right. Four orcs appear over the hill and- Ready to attack you.
+
+1197
+01:21:49.267 --> 01:21:50.733
+Dave Mendenhall: Why are they attacking
+
+1198
+01:21:50.933 --> 01:21:53.667
+Kostadis: us? Yeah, what did we do? Well, you know.
+
+1199
+01:21:53.867 --> 01:21:55.533
+Dave Mendenhall: I'd like to talk to them.
+
+1200
+01:21:55.733 --> 01:22:01.267
+Kostadis: I'm sure they would love to have that conversation with you. Do you speak Orcanese?
+
+1201
+01:22:01.467 --> 01:22:04.133
+Dave Mendenhall: What do I speak? That's a good question.
+
+1202
+01:22:04.333 --> 01:22:06.800
+Kostadis: Valphine does. She does? Makes sense.
+
+1203
+01:22:07.000 --> 01:22:08.000
+Dave Mendenhall: She speaks Orc?
+
+1204
+01:22:08.200 --> 01:22:11.533
+Kostadis: Yeah, that makes sense. She can speak Orc. I mean-
+
+1205
+01:22:11.733 --> 01:22:12.733
+Dave Mendenhall: Excellent.
+
+1206
+01:22:12.933 --> 01:22:13.933
+Dave Mendenhall: Good choice.
+
+1207
+01:22:14.133 --> 01:22:15.133
+Kostadis: I mean,
+
+1208
+01:22:15.333 --> 01:22:16.400
+Wade Brown: we had servants.
+
+1209
+01:22:16.600 --> 01:22:18.600
+Wade Brown: Oh, you just made me feel bad.
+
+1210
+01:22:18.800 --> 01:22:20.400
+Dave Mendenhall: Uh, Goblin, but not Orc.
+
+1211
+01:22:20.600 --> 01:22:21.667
+Wade Brown: All right. Okay,
+
+1212
+01:22:21.867 --> 01:22:26.333
+Kostadis: we'll stop here. All right, gents. Uh, let me, I- Well, actually, I
+
+1213
+01:22:26.533 --> 01:22:39.067
+Dave Mendenhall: speak Undercommon. You, you speak Undercommon, don't you, Valphine? Of course. We should, uh, we should have our side conversations in Undercommon so the other players can't understand us.
+
+1214
+01:22:39.267 --> 01:22:44.800
+Wade Brown: Like, I'm just, like, a hired tour guide. What are you even trying to hide from me?
+
+1215
+01:22:45.000 --> 01:22:51.933
+Kostadis: You're just a, you're just a tour guide that suddenly, you know, is like, "You know, this could be fun."
+
+1216
+01:22:52.133 --> 01:22:56.067
+Dave Mendenhall: Well- You did, you did some good tanking for us. Thanks ...
+
+1217
+01:22:56.267 --> 01:23:04.067
+Wade Brown: I st- I still need to, you know, get, uh, what's-his-face, Vukradin, wealthy enough to pay me for my services, right?
+
+1218
+01:23:04.267 --> 01:23:06.400
+Dave Mendenhall: Uh, that might take a long time.
+
+1219
+01:23:06.600 --> 01:23:11.067
+Wade Brown: It's gonna take the entire campaign. I think that's where we're at.
+
+1220
+01:23:11.267 --> 01:23:14.267
+Dave Mendenhall: All right. Good night, guys. Good night. Good
+
+1221
+01:23:14.467 --> 01:23:15.867
+Wade Brown: night, guys. Uh, okay
+
+1222
+01:23:16.067 --> 01:23:35.067
+Kostadis: Thank you. Have a good evening, Gary. Have fun in India I fly back tomorrow. Oh, did I tell you about my favorite app? No. Time Shifter. Oh, yes, you did mention that. I, I strongly recommend it for the flight tomorrow. It will tell you when to sleep, when to get up, and you will feel
+
+1223
+01:23:35.267 --> 01:23:39.533
+Kostadis: better. Okay. It, it... I... It's not magic hocus pocus science.
+
+1224
+01:23:39.733 --> 01:23:41.867
+Kostadis: It's literally pretty simple. It
+
+1225
+01:23:42.067 --> 01:23:49.000
+Kostadis: tries to push your melatonin and sleep schedule to the more, to be more aligned with where you're going.
+
+1226
+01:23:49.200 --> 01:23:50.200
+Kostadis: Okay.
+
+1227
+01:23:50.400 --> 01:24:02.133
+Kostadis: And it, it does have a positive effect. I have done it on six transatlantic trips. Okay. So I'm, I'm reasonably confident in its effectiveness Thank you for the time All right.
+
+1228
+01:24:02.333 --> 01:24:03.600
+Kostadis: Take care. Bye. Bye
