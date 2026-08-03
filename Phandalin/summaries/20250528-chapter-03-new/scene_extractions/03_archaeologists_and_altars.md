@@ -20,7 +20,7 @@ source: gmassist
 **[Battle Aftermath — Norbus Peers In]**
 - Soma is healed; the ochre jellies are dead; the GM narrates Norbus hearing the silence and approaching the doorway.
 
-**[GM]** — *as Norbus, peering cautiously into the room*
+**[Norbus]** — peering cautiously into the room*
 > "Ah, you, you dealt with the oozes. Or jellies? Was it jellies or, or whatever the… A- are they dead? Is it safe to go in there?"
 
 **[Vukradin]** — *responding flatly*
@@ -33,7 +33,7 @@ source: gmassist
 **[Vukradin]** — *confronting Norbus about sitting out the fight*
 > "We are, I just, you know, we could've used some help, and you just sort of just—"
 
-**[GM]** — *as Norbus, deflecting*
+**[Norbus]** — *deflecting*
 > "Uh, w- we're, we're prospectors… were there when you're doing our— We, we, we're, they're, they're four hit point. They're useless."
 
 **[Vukradin]** — *drily*
@@ -43,7 +43,7 @@ source: gmassist
 
 **[Norbus Withholds the Sending Stones — More Oozes Deeper In]**
 
-**[GM]** — *as Norbus*
+**[Norbus]** — 
 > "Um, there might be other ones in the back there, so could you just finish clearing everything out?"
 
 **[Soma]** — *pushing back*
@@ -56,7 +56,7 @@ source: gmassist
 
 **[Hot Meal and Stories — Vukradin's Condition]**
 
-**[GM]** — *as Norbus, proposing the arrangement*
+**[Norbus]** — *proposing the arrangement*
 > "That's great. We can all chill out. I can make an excellent meal. I can tell you all sorts of wonderful stories, and you could go next morning."
 
 **[Vukradin]** — *accepting, with a caveat*
@@ -65,8 +65,8 @@ source: gmassist
 **[Soma]** — *amused*
 > "Well, aren't you the one who's supposed to be telling stories?"
 
-**[GM]** — *as Dazlyn, correcting Norbus*
-> "D- D- Dazlyn, Dazlyn punches Norbus. Norbus, we have a Vukradin, and we're going to tell stories. The Vukradin will tell us stories."
+**[Dazlyn]** — *correcting Norbus*
+> "Dazlyn punches Norbus. Norbus, we have a Vukradin, and we're going to tell stories. The Vukradin will tell us stories."
 
 **[Soma]**
 > "Exactly. Nice. Tell stories of your amazing double da- or, you know, double stabbing action, right? That was, that was pretty cool. All right."
@@ -94,40 +94,30 @@ source: gmassist
 **[GM]** — *announcing the find*
 > "All right. You find a set of secret doors. Actually, to be precise, the Anchorites of Talos finds a set of secret doors. I'm assuming the Anchorites of Talos, having learnt from her, from the Morning Lord who shared that information, is not keeping it secret for her advantage."
 
-*(Passive perception noted as 15 in the subsequent bedroom corridor search:)*
-
-**[GM]**
-> "And what is your perception? Yours being— Yeah, the, the, the great, the great man who, with his… 16 perception?"
-
-**[Vukradin]**
-> "15."
-
-**[GM]**
-> "Uh, passive? Yeah. Passive is 15. All right. You have found another secret door."
 
 ---
 
 **[Norbus Forgets Vukradin's Name]**
 
-**[GM]** — *as Norbus, turning to the party nervously while eyeing the weapons*
+**[Norbus]** — *turning to the party nervously while eyeing the weapons*
 > "Uh, is, is, is, is everybody okay with this? I mean, we, we don't wanna… I mean, I understand that the, the, the, the, the, the… What was, what was your name again?"
 
 **[Vukradin]**
 > "Vukradin."
 
-**[GM]** — *as Norbus*
+**[Norbus]** — *as Norbus*
 > "Vukradin, yeah."
 
 **[Vukradin]** — *offended*
 > "You don't know my name?"
 
-**[GM]** — *as Norbus*
+**[Norbus]** 
 > "I can't remember it. Uh, Vukradin? I spent all night—"
 
 **[Vukradin]** — *cutting in, completing the thought*
 > "singing songs, and I told you stories, and you don't remember my name?"
 
-**[GM]** — *as Norbus, fumbling*
+**[Norbus]** — 
 > "Vukradin, uh, yeah."
 
 **[Vukradin]** — *bitterly resigned*
