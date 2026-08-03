@@ -1,0 +1,6574 @@
+WEBVTT
+
+1
+00:03:27.530 --> 00:03:28.510
+David Mendenhall: You're weird.
+
+2
+00:03:30.720 --> 00:03:32.310
+Wade: Hello, hello.
+
+3
+00:03:33.210 --> 00:03:34.889
+David Mendenhall: Your name came up today.
+
+4
+00:03:35.560 --> 00:03:38.160
+Wade: Of people never to hire again.
+
+5
+00:03:40.690 --> 00:03:48.650
+David Mendenhall: Someone asked me… Who can… who can tell me about why we integrated FFmpec?
+
+6
+00:03:50.340 --> 00:03:54.410
+Wade: That was, that was us, right? We wanted AC3.
+
+7
+00:03:55.300 --> 00:03:56.260
+David Mendenhall: I know!
+
+8
+00:03:57.320 --> 00:04:04.020
+Wade: I never did get the project off the ground to replace every other library with it to get the space savings back, but whatever.
+
+9
+00:04:04.230 --> 00:04:04.870
+David Mendenhall: Yeah.
+
+10
+00:04:05.840 --> 00:04:07.650
+Wade: It wouldn't have gone anywhere anyway.
+
+11
+00:04:09.250 --> 00:04:11.730
+David Mendenhall: That's not true. Hey, Gary.
+
+12
+00:04:15.340 --> 00:04:17.669
+Wade: I mean, you say that, but….
+
+13
+00:04:19.899 --> 00:04:25.320
+Gary Young: I found out… One of my close friends got laid off in the Oracle layoffs last week.
+
+14
+00:04:25.490 --> 00:04:26.740
+David Mendenhall: Oh, that's too bad.
+
+15
+00:04:28.190 --> 00:04:28.940
+Wade: all had layoffs.
+
+16
+00:04:28.940 --> 00:04:33.520
+Gary Young: Not too bad, because he already got a new job. I was like… Okay.
+
+17
+00:04:37.590 --> 00:04:38.670
+David Mendenhall: so quickly?
+
+18
+00:04:38.670 --> 00:04:40.110
+Gary Young: I, I know, it's like….
+
+19
+00:04:43.540 --> 00:04:47.560
+Wade: I mean, they're trying to give away jobs so bad, they're paying people to take them, right?
+
+20
+00:04:57.020 --> 00:04:59.890
+Gary Young: He says he's going into, …
+
+21
+00:05:00.490 --> 00:05:06.119
+Gary Young: LM-based back office, process automation. Oh….
+
+22
+00:05:10.410 --> 00:05:12.049
+Wade: That sounds like hell… That's….
+
+23
+00:05:12.050 --> 00:05:12.519
+David Mendenhall: Got a job.
+
+24
+00:05:12.940 --> 00:05:14.270
+David Mendenhall: Fast, yeah.
+
+25
+00:05:14.590 --> 00:05:15.500
+David Mendenhall: Alright.
+
+26
+00:05:15.630 --> 00:05:17.759
+Gary Young: It's the hotness, I mean.
+
+27
+00:05:17.760 --> 00:05:24.279
+Wade: Oh, I'm sure he's getting paid really well for it, too, right? I don't know if he has particular skill with that, but, you know.
+
+28
+00:05:24.280 --> 00:05:25.859
+David Mendenhall: You don't have to have skill.
+
+29
+00:05:25.860 --> 00:05:37.670
+Wade: This is like the, you know, the turn of the 2000s, right? When you could… if you could write HTML in Notepad, if you can write PyTorch, you know, you can command whatever salary you want.
+
+30
+00:05:38.150 --> 00:05:38.980
+Gary Young: Yes.
+
+31
+00:05:40.220 --> 00:05:43.339
+Wade: I'm not saying your friend is bad or anything, just… like….
+
+32
+00:05:43.510 --> 00:05:46.199
+David Mendenhall: Well, scripting LLMs doesn't require PyTorch.
+
+33
+00:05:46.750 --> 00:05:52.559
+Wade: Sure, but, I mean, I think if you can spell PyTorch, that puts you head and shoulders above a lot of candidates.
+
+34
+00:05:53.280 --> 00:05:55.360
+Gary Young: Okay, sure.
+
+35
+00:05:56.120 --> 00:05:57.820
+Kostadis Roussos: You'd be surprised.
+
+36
+00:05:59.610 --> 00:06:03.170
+Wade: Are you suggesting that candidates can't spell PyTorch, or…?
+
+37
+00:06:03.170 --> 00:06:03.900
+Kostadis Roussos: No, no.
+
+38
+00:06:05.150 --> 00:06:07.470
+Kostadis Roussos: There's a lot of candidates who cannot….
+
+39
+00:06:08.300 --> 00:06:12.019
+Wade: That's what I'm saying, is the ones who can are, you know, head and shoulders above your average.
+
+40
+00:06:12.590 --> 00:06:18.100
+David Mendenhall: Hey, we've reached the second anniversary of me looking for a new job, and I'm still doing it.
+
+41
+00:06:18.990 --> 00:06:22.449
+David Mendenhall: Gary's friend is way ahead of me.
+
+42
+00:06:23.440 --> 00:06:27.740
+Wade: I got my coworker basically fired. Does that count as a, you know….
+
+43
+00:06:28.620 --> 00:06:30.299
+Gary Young: This is the one that, ….
+
+44
+00:06:30.300 --> 00:06:40.439
+Wade: He's been wasting so much time for months, and finally the PM took notice after I told him, like, 3 weeks ago, hey, the project is in jeopardy because this guy can't do his job. Yeah.
+
+45
+00:06:40.440 --> 00:06:54.399
+Wade: And finally, they… they… they didn't ax him, they put him on menial shit, and his replacement came in, and in under an hour, found, like, the critical bug that had been blocking us for 3 weeks, and I was like, you gotta be kidding me.
+
+46
+00:06:56.120 --> 00:06:56.870
+David Mendenhall: Yeah.
+
+47
+00:06:56.870 --> 00:07:01.549
+Wade: Like, that is… this guy is dead weight, and I… I like him, but he's just not…
+
+48
+00:07:02.250 --> 00:07:03.829
+Wade: Not pulling his side.
+
+49
+00:07:09.370 --> 00:07:10.530
+Wade: It's a shame.
+
+50
+00:07:10.730 --> 00:07:13.050
+David Mendenhall: I was thinking maybe I'd work on FFmpeg.
+
+51
+00:07:14.300 --> 00:07:15.639
+Wade: It's a good project!
+
+52
+00:07:16.710 --> 00:07:20.529
+Wade: FMP's just a plugin architecture, right? Like, it doesn't do anything anymore.
+
+53
+00:07:20.530 --> 00:07:22.880
+David Mendenhall: Also, all sorts of crap you can work on.
+
+54
+00:07:22.880 --> 00:07:25.300
+Wade: Now it does, Whisper, did you see that?
+
+55
+00:07:25.300 --> 00:07:27.189
+David Mendenhall: I saw they added that today, yeah.
+
+56
+00:07:27.190 --> 00:07:31.900
+Wade: Whisper and FFFEG is great. I mean, I've been playing with it on my own for other reasons, but ….
+
+57
+00:07:33.550 --> 00:07:35.079
+Kostadis Roussos: Hello, hello? Can you guys hear me?
+
+58
+00:07:35.080 --> 00:07:36.639
+Wade: We can hear you. Can you hear us?
+
+59
+00:07:36.770 --> 00:07:38.710
+Wade: I noticed you got a new shirt, Mike.
+
+60
+00:07:39.270 --> 00:07:41.820
+Kostadis Roussos: Yeah, it doesn't work quite yet. It's a…
+
+61
+00:07:42.560 --> 00:07:45.020
+Kostadis Roussos: I have to futz with it.
+
+62
+00:07:45.120 --> 00:07:47.380
+Kostadis Roussos: I'm not ready to fuss with it right now.
+
+63
+00:07:47.380 --> 00:07:48.189
+Gary Young: Come on.
+
+64
+00:07:48.340 --> 00:07:52.259
+Wade: I'm not in the mood to fuss with it right now. It is not doing what I want.
+
+65
+00:07:52.290 --> 00:07:58.119
+Kostadis Roussos: I did not write a summary because, frankly, I was traveling and then jet-lagged beyond all human recognition.
+
+66
+00:08:00.610 --> 00:08:02.669
+Kostadis Roussos: That leg's tough, man.
+
+67
+00:08:03.270 --> 00:08:06.649
+Kostadis Roussos: I know, I know. I'm too… I'm too old for this shit.
+
+68
+00:08:07.250 --> 00:08:08.120
+Wade: Oh, no.
+
+69
+00:08:08.910 --> 00:08:12.140
+Wade: We're on… we're on that rant now? Okay.
+
+70
+00:08:12.570 --> 00:08:13.280
+David Mendenhall: That's a mile.
+
+71
+00:08:13.280 --> 00:08:19.329
+Kostadis Roussos: Hold on, hold on. I was tooled for that shit when I was 25, so as far as I'm concerned, I've always been tooled for that shit.
+
+72
+00:08:21.820 --> 00:08:23.580
+Kostadis Roussos: I hate jet lag.
+
+73
+00:08:25.040 --> 00:08:27.240
+David Mendenhall: You told me you mastered it, you have an app.
+
+74
+00:08:27.240 --> 00:08:32.020
+Kostadis Roussos: Yeah, you're just a little time frame. No, no, no, I have mastered it. I still hate it.
+
+75
+00:08:33.539 --> 00:08:35.470
+Wade: It's like mastering hangovers.
+
+76
+00:08:35.600 --> 00:08:38.469
+Wade: I still have hangovers, I just enjoy them.
+
+77
+00:08:40.760 --> 00:08:50.219
+Kostadis Roussos: I have no, I mean, I was able to be productive, it's just like… it's just like, you know, no matter how much jet-lag mastery you have, at some time, you're just gonna collapse out of sheer exhaustion.
+
+78
+00:08:53.330 --> 00:08:57.080
+David Mendenhall: … At least I will. So, we did a thing.
+
+79
+00:08:58.380 --> 00:08:59.340
+Kostadis Roussos: Who's we?
+
+80
+00:08:59.770 --> 00:09:00.700
+David Mendenhall: the party.
+
+81
+00:09:01.080 --> 00:09:03.180
+Kostadis Roussos: Oh, right, yes, right, right, right, right, right.
+
+82
+00:09:03.320 --> 00:09:06.379
+Kostadis Roussos: You killed Moesca, but you did not look over his body.
+
+83
+00:09:07.660 --> 00:09:08.420
+Gary Young: No.
+
+84
+00:09:08.600 --> 00:09:09.410
+Wade: Not yet.
+
+85
+00:09:10.320 --> 00:09:18.889
+Kostadis Roussos: And of course, You know… Will this be viewed as… blood money, or….
+
+86
+00:09:18.890 --> 00:09:22.900
+David Mendenhall: Yeah, absolutely. That's all stolen merchandise, I'm sure.
+
+87
+00:09:23.140 --> 00:09:28.830
+David Mendenhall: We can talk to the apparition about who the rightful owners of this merchandise might be.
+
+88
+00:09:29.590 --> 00:09:36.249
+Kostadis Roussos: Okay, I just want to know, which… where we're going… where we're going with this. That's my only question.
+
+89
+00:09:36.750 --> 00:09:39.510
+Wade: All money is blood money until proven otherwise.
+
+90
+00:09:40.110 --> 00:09:44.149
+Kostadis Roussos: You know, … I'm just thinking, like, the….
+
+91
+00:09:44.150 --> 00:09:50.649
+David Mendenhall: If there was a contract in place at the time the money was earned, then it's rightful.
+
+92
+00:09:53.580 --> 00:10:02.120
+Kostadis Roussos: The way I look at it is the party is going to have a four-way treasure split three ways most of the time.
+
+93
+00:10:04.350 --> 00:10:07.430
+David Mendenhall: Well, I will not… I will not abide….
+
+94
+00:10:07.430 --> 00:10:08.700
+Kostadis Roussos: I….
+
+95
+00:10:09.150 --> 00:10:11.200
+David Mendenhall: Companions.
+
+96
+00:10:11.620 --> 00:10:13.240
+David Mendenhall: flaunting….
+
+97
+00:10:13.990 --> 00:10:14.960
+Kostadis Roussos: Their wealth?
+
+98
+00:10:17.580 --> 00:10:23.510
+Kostadis Roussos: I, you know, at some point, this is going to be an issue, but we have not reached that point yet.
+
+99
+00:10:23.510 --> 00:10:26.010
+Wade: She's not really a loot whore either, you know, she's a….
+
+100
+00:10:26.010 --> 00:10:29.200
+David Mendenhall: Maybe, maybe some people will join my mission.
+
+101
+00:10:29.620 --> 00:10:35.890
+Wade: Oh, she's just not… she's not a gold digger, right? She's just a simple pleasure kind of gal.
+
+102
+00:10:35.890 --> 00:10:44.070
+Kostadis Roussos: I'm just thinking, paladins. You know, I had to… Paladin? I'm a musician. Stop calling me a paladin! Keep bringing that up!
+
+103
+00:10:44.430 --> 00:10:45.960
+David Mendenhall: Who are you, anyway?
+
+104
+00:10:47.390 --> 00:10:50.689
+Kostadis Roussos: Everybody is very confused about your motivations.
+
+105
+00:10:51.660 --> 00:10:53.509
+David Mendenhall: I just wanna make….
+
+106
+00:10:56.170 --> 00:10:56.740
+Kostadis Roussos: ….
+
+107
+00:10:56.740 --> 00:10:58.520
+David Mendenhall: A music studio.
+
+108
+00:10:58.770 --> 00:11:01.549
+David Mendenhall: And I want to do it without stealing something!
+
+109
+00:11:03.340 --> 00:11:11.410
+Kostadis Roussos: Next thing you're gonna say is you want, you know, Alright, so… Theater for a play?
+
+110
+00:11:12.170 --> 00:11:13.300
+Kostadis Roussos: Alright.
+
+111
+00:11:14.120 --> 00:11:15.530
+Kostadis Roussos: …
+
+112
+00:11:17.420 --> 00:11:24.889
+Kostadis Roussos: Alright, in on… so… okay, so you… so you find Moesko, right? He's clad in armor made from giant octopus hide.
+
+113
+00:11:25.280 --> 00:11:29.709
+Kostadis Roussos: Right, so, to the best of your knowledge, the armor is not stolen. He made it himself.
+
+114
+00:11:30.000 --> 00:11:32.120
+Wade: I mean, we're about to steal it.
+
+115
+00:11:32.120 --> 00:11:43.950
+Kostadis Roussos: No, remove, you know, remove it from his body. Resting, resting on the floor is… was on his lap, but is no longer resting on his lap, is an opalescent conch.
+
+116
+00:11:44.530 --> 00:11:49.489
+Kostadis Roussos: Which he recognized as belonging to Miraal the Sea Elf.
+
+117
+00:11:50.380 --> 00:11:51.740
+Kostadis Roussos: This is the thing.
+
+118
+00:11:51.740 --> 00:11:52.979
+Wade: That'll bring her peace.
+
+119
+00:11:53.270 --> 00:11:58.030
+Kostadis Roussos: Yes, … gonna look at his body, look at stuff, or you're just gonna….
+
+120
+00:11:58.030 --> 00:12:02.800
+David Mendenhall: I got… Yeah, sure, sure.
+
+121
+00:12:02.800 --> 00:12:04.609
+Wade: I mean, I want to expect the conch a little closer.
+
+122
+00:12:04.610 --> 00:12:06.309
+David Mendenhall: We can look at all sorts of stuff.
+
+123
+00:12:07.120 --> 00:12:09.690
+Kostadis Roussos: So you're, like, you're probing the body, right? Is that what I'm saying?
+
+124
+00:12:09.690 --> 00:12:11.260
+Wade: Tell us more about the conch.
+
+125
+00:12:11.540 --> 00:12:17.999
+Kostadis Roussos: No, no, never mind, the conch is kind of banal, it's an opalescent… Right. Yeah, it's opalescent. It's an opalescent conch.
+
+126
+00:12:18.000 --> 00:12:18.730
+Wade: Alright.
+
+127
+00:12:19.360 --> 00:12:24.810
+Kostadis Roussos: However, underneath the… underneath the armor of Moesko, you find… Alaska.
+
+128
+00:12:25.700 --> 00:12:29.070
+Kostadis Roussos: Yeah, Moesko, that's his name, has a hole in his chest.
+
+129
+00:12:29.500 --> 00:12:30.240
+Wade: What.
+
+130
+00:12:30.600 --> 00:12:31.020
+Kostadis Roussos: Yes.
+
+131
+00:12:31.020 --> 00:12:33.360
+Wade: Like, from, like, Bleach or something? Like, that kind of thing?
+
+132
+00:12:33.880 --> 00:12:36.659
+Kostadis Roussos: No, no, like, like, a hole. Like, you know…
+
+133
+00:12:37.400 --> 00:12:40.389
+Kostadis Roussos: A hole in his chest. Think, you know…
+
+134
+00:12:41.620 --> 00:12:44.580
+Kostadis Roussos: Yeah, like the soulless guys from Bleach or whatever, anyway.
+
+135
+00:12:45.530 --> 00:12:47.160
+Wade: Probably unfamiliar with the….
+
+136
+00:12:47.530 --> 00:12:51.810
+Kostadis Roussos: The reference, sorry, yeah, sorry, sorry. That's okay. I didn't realize there was… If I were saying….
+
+137
+00:12:51.810 --> 00:12:54.860
+David Mendenhall: Is he, like, a mummy? Like, he's, like, part of his body.
+
+138
+00:12:54.860 --> 00:12:55.260
+Kostadis Roussos: No, no.
+
+139
+00:12:55.260 --> 00:12:56.240
+David Mendenhall: elsewhere.
+
+140
+00:12:56.750 --> 00:13:00.300
+Kostadis Roussos: No, no, no, no, no, no. And as you look over his body.
+
+141
+00:13:00.470 --> 00:13:04.020
+Kostadis Roussos: You find… what do you find again? You find a talisman.
+
+142
+00:13:05.880 --> 00:13:07.760
+Kostadis Roussos: …
+
+143
+00:13:14.390 --> 00:13:15.680
+Kostadis Roussos: Okay, nevermind.
+
+144
+00:13:15.980 --> 00:13:21.409
+Kostadis Roussos: Okay, nevermind, sorry, my bad. Okay, that's… you find a hole in his chest. That is what you find here.
+
+145
+00:13:21.770 --> 00:13:23.289
+David Mendenhall: We searched for a talisman?
+
+146
+00:13:24.220 --> 00:13:27.160
+Kostadis Roussos: … no, because it's not here.
+
+147
+00:13:28.620 --> 00:13:30.080
+Kostadis Roussos: However you can….
+
+148
+00:13:30.080 --> 00:13:32.059
+David Mendenhall: the rest of the tower for the talisman?
+
+149
+00:13:32.060 --> 00:13:44.149
+Kostadis Roussos: Like, now that we've metagamed it, yes. So, after, as you search through, let me just see where, well, as you search through his crude living space.
+
+150
+00:13:44.350 --> 00:13:54.200
+Kostadis Roussos: Among scattered prayer skulls to talis, storm-weathered gear, and the remnants of his anchorite life, your attention is drawn to a small, concealed apartment between
+
+151
+00:13:54.380 --> 00:13:57.099
+Kostadis Roussos: Between a loose floorboard.
+
+152
+00:13:57.930 --> 00:13:58.920
+Kostadis Roussos: Alright.
+
+153
+00:13:59.040 --> 00:14:02.249
+Kostadis Roussos: I'm gonna open the, open the, open the, the, spot.
+
+154
+00:14:03.350 --> 00:14:05.950
+David Mendenhall: I mean, we got the conch, that's what we came for.
+
+155
+00:14:06.460 --> 00:14:07.689
+Gary Young: Yeah, let's look in that.
+
+156
+00:14:08.360 --> 00:14:09.830
+Kostadis Roussos: In the concealed space.
+
+157
+00:14:09.830 --> 00:14:11.360
+David Mendenhall: Why are we poking around?
+
+158
+00:14:11.820 --> 00:14:15.400
+Kostadis Roussos: Alright, well, I think Valphine is poking around, is that what I'm hearing?
+
+159
+00:14:15.400 --> 00:14:16.440
+Gary Young: Yes, yes, yes.
+
+160
+00:14:16.560 --> 00:14:19.390
+David Mendenhall: You gotta put your nose in everything!
+
+161
+00:14:19.390 --> 00:14:20.130
+Gary Young: That's right!
+
+162
+00:14:23.000 --> 00:14:26.420
+David Mendenhall: We came here to do a job, we did the job, let's go!
+
+163
+00:14:27.100 --> 00:14:33.369
+Wade: We still haven't cured the… like, it's just… we don't know that we've cured the curse that's luring all the ships, right?
+
+164
+00:14:33.370 --> 00:14:35.830
+David Mendenhall: We killed the sirens, we killed this guy.
+
+165
+00:14:36.790 --> 00:14:42.240
+Wade: Restored, you know, well, we're about to restore Meril, whatever her name is.
+
+166
+00:14:42.740 --> 00:14:44.270
+David Mendenhall: Alright, mid seed.
+
+167
+00:14:44.500 --> 00:14:45.650
+Wade: The other side?
+
+168
+00:14:46.420 --> 00:14:48.470
+Kostadis Roussos: Yeah, you, okay.
+
+169
+00:14:49.240 --> 00:14:55.289
+Kostadis Roussos: Inside, nestled on a bed of blackened sea grass, lies something utterly out of place.
+
+170
+00:14:57.200 --> 00:14:58.419
+Wade: a lead.
+
+171
+00:14:58.690 --> 00:15:01.129
+Kostadis Roussos: it's a… pardon me?
+
+172
+00:15:01.430 --> 00:15:03.230
+Wade: That's our weed, like….
+
+173
+00:15:03.380 --> 00:15:04.350
+Gary Young: Sorry.
+
+174
+00:15:05.300 --> 00:15:11.080
+Kostadis Roussos: Nestled on a bed of blackened sea grease lies something utterly out of place. Oh, sea.
+
+175
+00:15:11.080 --> 00:15:12.360
+Wade: Greece, okay.
+
+176
+00:15:12.360 --> 00:15:14.560
+Kostadis Roussos: Yeah, seagrass. Seagrass, seagrass, seagrass, seagrass.
+
+177
+00:15:14.560 --> 00:15:18.460
+Wade: Well, you said both seagrass and sea grease now, and I'm not sure which one is… anyway.
+
+178
+00:15:19.820 --> 00:15:21.460
+Kostadis Roussos: Okay, seagrass, like, this is what happened.
+
+179
+00:15:21.460 --> 00:15:22.490
+Wade: Aggress, okay.
+
+180
+00:15:23.390 --> 00:15:24.600
+Kostadis Roussos: Alright, here we go.
+
+181
+00:15:24.730 --> 00:15:27.179
+Kostadis Roussos: … alright.
+
+182
+00:15:27.380 --> 00:15:46.030
+Kostadis Roussos: It's a talisman, unlike any you've seen, roughly the size of a human palm, crafted from a dark, iridescent material that seems to drink the light, almost like polished obsidian or a fragment of solidified night sky. Its surface is smooth and cool to the touch, yet pulsates with a faint
+
+183
+00:15:46.910 --> 00:15:57.010
+Kostadis Roussos: internal… luminescence, an unsettling violet glow. Etched crudely into one side is the stylized, jagged lightning bolt of talus.
+
+184
+00:15:57.370 --> 00:15:59.409
+Kostadis Roussos: Roll your investigations.
+
+185
+00:15:59.410 --> 00:16:01.380
+David Mendenhall: Alice the God, Talus.
+
+186
+00:16:01.580 --> 00:16:04.279
+Kostadis Roussos: Yes, yes, Talos the God. Lightning Bolt of Talos.
+
+187
+00:16:07.210 --> 00:16:09.909
+Kostadis Roussos: Anybody… did you guys roll your investigations or insights?
+
+188
+00:16:09.910 --> 00:16:10.450
+Gary Young: once.
+
+189
+00:16:10.450 --> 00:16:12.059
+Wade: I found a talisman!
+
+190
+00:16:13.350 --> 00:16:15.060
+David Mendenhall: It's black.
+
+191
+00:16:17.710 --> 00:16:19.409
+David Mendenhall: Are you sure it's a talisman?
+
+192
+00:16:19.410 --> 00:16:22.579
+Wade: I think it's just a rock.
+
+193
+00:16:22.580 --> 00:16:26.840
+Kostadis Roussos: Insight, not perception. Insight.
+
+194
+00:16:26.840 --> 00:16:27.690
+Gary Young: Yeah, ….
+
+195
+00:16:27.690 --> 00:16:28.440
+David Mendenhall: Insight?
+
+196
+00:16:28.440 --> 00:16:30.139
+Wade: Oh, I did an investigation, but….
+
+197
+00:16:30.140 --> 00:16:32.390
+Kostadis Roussos: Insight or investigation, whichever one you're better at.
+
+198
+00:16:32.390 --> 00:16:34.619
+Wade: I'm taking the zero, it's more fun this way.
+
+199
+00:16:34.620 --> 00:16:35.980
+David Mendenhall: No, I got nothing.
+
+200
+00:16:35.980 --> 00:16:37.550
+Gary Young: One.
+
+201
+00:16:37.550 --> 00:16:38.319
+Wade: Alright, bud.
+
+202
+00:16:40.410 --> 00:16:45.720
+Gary Young: … Investigation or insight, huh? Okay, there we go.
+
+203
+00:16:46.450 --> 00:16:47.790
+Kostadis Roussos: That's a lot better than me.
+
+204
+00:16:47.800 --> 00:16:49.369
+Wade: At least some….
+
+205
+00:16:49.370 --> 00:16:54.610
+David Mendenhall: Nobody sees it. Clutched it out there. Brewbarry has come through with some clutch rolls.
+
+206
+00:16:54.610 --> 00:16:57.219
+Wade: Yeah, he's, he's more perceptive than he looks.
+
+207
+00:16:57.220 --> 00:17:08.279
+Kostadis Roussos: Okay, etched crudely into one side is the stylized jagged lightning bolt of Hallis, but on the reverse, Brewbarry notices a subtly inter…
+
+208
+00:17:08.869 --> 00:17:12.310
+Kostadis Roussos: Suttly, perhaps subtly interwoven into the material itself.
+
+209
+00:17:12.410 --> 00:17:22.440
+Kostadis Roussos: He perceives a more intricate, almost geometric symbol, an inverted eye from which delicate, coiling lines reminiscent of tentacles unverrled.
+
+210
+00:17:22.940 --> 00:17:26.359
+Wade: So, like, his octopus armor, he kind of worships a giant octopus, huh?
+
+211
+00:17:27.280 --> 00:17:27.970
+Kostadis Roussos: Right, so that's familiar.
+
+212
+00:17:27.970 --> 00:17:28.450
+David Mendenhall: Cooling.
+
+213
+00:17:28.450 --> 00:17:31.179
+Gary Young: Sounds like a religion check?
+
+214
+00:17:32.530 --> 00:17:45.750
+Kostadis Roussos: … so, Arcana… well, okay. If you want to investigate it further, Brewbarry, you need a… does anybody have a passive perception of…
+
+215
+00:17:46.070 --> 00:17:47.270
+Kostadis Roussos: 18.
+
+216
+00:17:47.270 --> 00:17:47.730
+David Mendenhall: No.
+
+217
+00:17:47.730 --> 00:17:48.820
+Gary Young: Passive no.
+
+218
+00:17:48.940 --> 00:17:50.290
+Gary Young: Paso 15.
+
+219
+00:17:50.540 --> 00:17:58.559
+Kostadis Roussos: But since… but you can choose to investigate it, so, intelligence or wisdom, insight. Arcana or insight.
+
+220
+00:17:58.850 --> 00:18:00.190
+Kostadis Roussos: Or a religion check.
+
+221
+00:18:00.410 --> 00:18:01.740
+Gary Young: Only Brewbarry?
+
+222
+00:18:02.260 --> 00:18:08.389
+Kostadis Roussos: Oh no, anyone, anyone. Brewbarry is now pointed out, so you can now all sort of investigate it and look at it and try to scratch your heads.
+
+223
+00:18:09.790 --> 00:18:11.699
+Gary Young: Alright, insight, you say.
+
+224
+00:18:11.900 --> 00:18:12.820
+Kostadis Roussos: Yes.
+
+225
+00:18:13.210 --> 00:18:14.750
+Wade: A little less shitty.
+
+226
+00:18:15.760 --> 00:18:17.650
+David Mendenhall: Valphine!
+
+227
+00:18:19.480 --> 00:18:28.230
+Kostadis Roussos: Okay… all… what you… Valphine notices, it has a faint divine resonance.
+
+228
+00:18:28.630 --> 00:18:40.339
+Kostadis Roussos: And at the same time, a more dominant and unsettling psionic energy burns from its core, alien to conventional magic.
+
+229
+00:18:40.990 --> 00:18:45.790
+Kostadis Roussos: Do you want to try focusing a little bit more on this essence, or do you want to back away?
+
+230
+00:18:47.000 --> 00:18:48.779
+Gary Young: Sure, what could possibly go wrong?
+
+231
+00:18:49.330 --> 00:18:52.269
+Gary Young: Sounds like something Valphine would do. I'm gonna go over here.
+
+232
+00:18:54.130 --> 00:18:56.940
+Wade: Yeah, I have, like, 2 hit points.
+
+233
+00:18:56.960 --> 00:18:58.990
+Kostadis Roussos: Everybody steps away.
+
+234
+00:18:59.660 --> 00:19:00.969
+Wade: I'm about to die.
+
+235
+00:19:01.200 --> 00:19:03.310
+Kostadis Roussos: Looker, did you, like, go out of the….
+
+236
+00:19:03.310 --> 00:19:06.850
+David Mendenhall: Yeah, I don't understand why we're spending so much time in here.
+
+237
+00:19:06.850 --> 00:19:07.759
+Wade: They're stuck.
+
+238
+00:19:07.760 --> 00:19:09.889
+David Mendenhall: Let's just get on with it, please.
+
+239
+00:19:11.130 --> 00:19:12.700
+Gary Young: Bring it with us, too.
+
+240
+00:19:13.390 --> 00:19:14.280
+Kostadis Roussos: Alright.
+
+241
+00:19:14.820 --> 00:19:33.160
+Kostadis Roussos: As you focus intently, a faint rhythmic thrumming can be felt emanating from it, almost like a distant heartbeat, or perhaps the lingering echo of a monstrous call from the deep. The sensation is subtle but persistent, a whisper in the back of your mind, a reminder of the unseen.
+
+242
+00:19:34.660 --> 00:19:37.569
+Kostadis Roussos: Unseen forces that are at play in the cosmos.
+
+243
+00:19:38.500 --> 00:19:41.319
+Gary Young: And it's teaching me about the Vigo the Carpathia.
+
+244
+00:19:42.680 --> 00:19:44.499
+Wade: Exactly. Come on, ego.
+
+245
+00:19:45.350 --> 00:19:47.009
+Gary Young: Viggo the Carpathian?
+
+246
+00:19:47.010 --> 00:19:49.449
+Wade: Yeah, show me love! Give me smiles!
+
+247
+00:19:52.800 --> 00:19:54.389
+David Mendenhall: That was quite a movie.
+
+248
+00:19:55.560 --> 00:19:56.610
+Wade: Timeless.
+
+249
+00:19:58.020 --> 00:19:58.880
+Kostadis Roussos: Alright.
+
+250
+00:19:59.770 --> 00:20:01.519
+Kostadis Roussos: Okie dokie doke.
+
+251
+00:20:03.310 --> 00:20:04.190
+Kostadis Roussos: Alright.
+
+252
+00:20:05.560 --> 00:20:08.020
+David Mendenhall: Alright, well, we've apparently…
+
+253
+00:20:08.260 --> 00:20:14.719
+David Mendenhall: obtained the Talisman of Death, and we're going to carry it with us, because nothing bad will happen if we do that.
+
+254
+00:20:14.720 --> 00:20:17.059
+Wade: We have to get it back to its rightful owner.
+
+255
+00:20:17.640 --> 00:20:21.239
+Gary Young: Well, we'll have to research who that rifle owner is, right?
+
+256
+00:20:22.130 --> 00:20:24.499
+David Mendenhall: Are we taking the octopus armor as well?
+
+257
+00:20:25.820 --> 00:20:27.060
+Wade: I mean, how could we not?
+
+258
+00:20:28.880 --> 00:20:34.480
+Gary Young: Well, clearly we have to figure out who owns that, too.
+
+259
+00:20:35.680 --> 00:20:36.130
+Kostadis Roussos: I will….
+
+260
+00:20:36.130 --> 00:20:41.520
+David Mendenhall: Seems, seems, seems… Seems bloody to me, I don't know.
+
+261
+00:20:41.860 --> 00:20:47.869
+Kostadis Roussos: Alright. Do we want to go upst… you know, do we want to go upstairs, see what's up on the upper level, or not?
+
+262
+00:20:47.870 --> 00:20:52.099
+Gary Young: Yeah, just one second. The Octopus armor, what is the deal with that?
+
+263
+00:20:53.250 --> 00:20:58.420
+Kostadis Roussos: No, it's, it's octopus armor. It's, it's, splint mail made of octopus.
+
+264
+00:20:58.550 --> 00:20:59.730
+Gary Young: Split family.
+
+265
+00:21:00.750 --> 00:21:01.980
+Gary Young: Oh, no.
+
+266
+00:21:01.980 --> 00:21:05.720
+David Mendenhall: I don't have anybody who works flint nail, so that's pretty useless.
+
+267
+00:21:06.170 --> 00:21:08.189
+Gary Young: You just leave it behind, guys.
+
+268
+00:21:10.760 --> 00:21:12.000
+Kostadis Roussos: yeah.
+
+269
+00:21:12.000 --> 00:21:14.380
+Gary Young: No, it's Heavy Armor.
+
+270
+00:21:15.020 --> 00:21:18.700
+Gary Young: Which is… which could be used by law firming?
+
+271
+00:21:19.190 --> 00:21:20.359
+Kostadis Roussos: Yeah, she could use it.
+
+272
+00:21:21.640 --> 00:21:22.520
+David Mendenhall: Who?
+
+273
+00:21:22.530 --> 00:21:23.140
+Kostadis Roussos: Valphine.
+
+274
+00:21:23.140 --> 00:21:23.790
+Gary Young: scheme?
+
+275
+00:21:24.080 --> 00:21:25.370
+Gary Young: Clerksies….
+
+276
+00:21:25.780 --> 00:21:26.200
+Kostadis Roussos: Happy on.
+
+277
+00:21:26.200 --> 00:21:27.519
+David Mendenhall: Usually they're medium armor.
+
+278
+00:21:27.960 --> 00:21:29.830
+Wade: They can take peats, right? Like….
+
+279
+00:21:29.830 --> 00:21:33.960
+Kostadis Roussos: Wait, hold on, hold on, hold on, did I… I didn't want it to be heavy armor, so my bad.
+
+280
+00:21:36.710 --> 00:21:37.430
+David Mendenhall: chain.
+
+281
+00:21:38.170 --> 00:21:38.805
+Kostadis Roussos: …
+
+282
+00:21:43.910 --> 00:21:44.700
+Kostadis Roussos: Alright.
+
+283
+00:21:45.280 --> 00:21:47.300
+Kostadis Roussos: Hydarmer, sorry, what is Heidarmor?
+
+284
+00:21:47.300 --> 00:21:47.870
+David Mendenhall: Oh, hot.
+
+285
+00:21:47.870 --> 00:21:48.910
+Wade: Oh, that's practical.
+
+286
+00:21:48.910 --> 00:21:51.460
+David Mendenhall: Hide armor, oh yeah, that's….
+
+287
+00:21:51.750 --> 00:21:52.290
+Wade: Is that light?
+
+288
+00:21:52.290 --> 00:21:54.300
+David Mendenhall: And the way not as much AC.
+
+289
+00:21:55.530 --> 00:21:57.300
+Kostadis Roussos: Hide armor.
+
+290
+00:21:57.600 --> 00:22:00.230
+Kostadis Roussos: It's, … medium armor.
+
+291
+00:22:00.470 --> 00:22:01.290
+Wade: Oh, okay.
+
+292
+00:22:01.290 --> 00:22:02.910
+David Mendenhall: Yeah, it's A sub 12.
+
+293
+00:22:02.950 --> 00:22:04.110
+Kostadis Roussos: AC12.
+
+294
+00:22:04.910 --> 00:22:10.170
+Kostadis Roussos: With a DEX modifier of plus 2 from a max plus 2 DEX modifier.
+
+295
+00:22:10.170 --> 00:22:11.600
+David Mendenhall: Right, because it's medium.
+
+296
+00:22:11.950 --> 00:22:12.480
+Kostadis Roussos: Yep.
+
+297
+00:22:13.840 --> 00:22:15.659
+Kostadis Roussos: Sorry, how bad.
+
+298
+00:22:15.660 --> 00:22:16.540
+Wade: That's okay.
+
+299
+00:22:16.710 --> 00:22:19.150
+Kostadis Roussos: Alright, so, there's still the upstairs.
+
+300
+00:22:19.560 --> 00:22:21.930
+Kostadis Roussos: I guess you could go explore, if you wanted to.
+
+301
+00:22:21.930 --> 00:22:23.640
+Gary Young: We'll go check out upstairs.
+
+302
+00:22:23.980 --> 00:22:25.080
+Kostadis Roussos: Alright.
+
+303
+00:22:26.200 --> 00:22:29.930
+Kostadis Roussos: Valphine, Vukradin, are you joining the party, or are you deciding.
+
+304
+00:22:29.960 --> 00:22:32.940
+David Mendenhall: … I can have a cigarette first.
+
+305
+00:22:33.840 --> 00:22:36.240
+Wade: Yeah, I mean, I'm sitting here at, like, two hips, that's not….
+
+306
+00:22:37.270 --> 00:22:40.150
+Kostadis Roussos: healthy, but… You could take a… you could take a short rest.
+
+307
+00:22:40.150 --> 00:22:41.900
+Wade: It's not gonna give me much more.
+
+308
+00:22:42.470 --> 00:22:43.299
+David Mendenhall: I mean, more like.
+
+309
+00:22:43.300 --> 00:22:45.199
+Wade: You want me to heal you or something?
+
+310
+00:22:46.190 --> 00:22:51.139
+Wade: I mean, I… I could use some, some TLC.
+
+311
+00:22:52.160 --> 00:22:52.820
+Gary Young: Alright.
+
+312
+00:22:52.820 --> 00:22:55.639
+Wade: I forgot, I thought I had some light healing in here.
+
+313
+00:22:55.640 --> 00:22:56.040
+Gary Young: Yes.
+
+314
+00:22:56.040 --> 00:22:56.450
+Wade: Maybe I don't.
+
+315
+00:22:56.450 --> 00:22:57.120
+Gary Young: Yes.
+
+316
+00:22:57.390 --> 00:22:59.110
+Wade: I have cure wounds, ugh.
+
+317
+00:22:59.750 --> 00:23:02.070
+Wade: Well, no, I'll just use that, I'll heal myself, it's fine.
+
+318
+00:23:02.070 --> 00:23:02.969
+David Mendenhall: Take a short breath.
+
+319
+00:23:02.970 --> 00:23:04.160
+Gary Young: to Creatures.
+
+320
+00:23:04.160 --> 00:23:04.510
+Wade: Yeah.
+
+321
+00:23:04.510 --> 00:23:05.770
+Gary Young: Royce, ….
+
+322
+00:23:06.080 --> 00:23:10.610
+David Mendenhall: And I've used all my… I've used all my hit dies, so I can't even recover anything on a short rest.
+
+323
+00:23:10.610 --> 00:23:12.849
+Gary Young: Up to 5 kickers of your choice.
+
+324
+00:23:13.080 --> 00:23:13.620
+Wade: I get 20.
+
+325
+00:23:13.620 --> 00:23:18.039
+Gary Young: Gain the benefits of a short rest, and also 2d8 hit points.
+
+326
+00:23:18.520 --> 00:23:19.379
+Kostadis Roussos: Go for it.
+
+327
+00:23:19.520 --> 00:23:20.339
+Wade: Here, sir.
+
+328
+00:23:21.150 --> 00:23:23.240
+Wade: Oh, so we'll all get this as well.
+
+329
+00:23:24.190 --> 00:23:25.079
+Wade: Alright, so I guess….
+
+330
+00:23:25.080 --> 00:23:26.770
+David Mendenhall: They did prayer healing. That's nice.
+
+331
+00:23:26.770 --> 00:23:27.470
+Gary Young: Sure.
+
+332
+00:23:27.470 --> 00:23:28.379
+Wade: Oh, that's handy, yeah.
+
+333
+00:23:28.380 --> 00:23:32.420
+David Mendenhall: I just have… okay. No, now I feel… now I feel better about going upstairs.
+
+334
+00:23:32.860 --> 00:23:33.380
+Wade: Yeah.
+
+335
+00:23:33.940 --> 00:23:38.170
+Wade: So I get, 31 more hit points back total, and….
+
+336
+00:23:38.170 --> 00:23:40.330
+David Mendenhall: That was an awesome cigarette, by the way.
+
+337
+00:23:40.330 --> 00:23:40.730
+Wade: Heh heh.
+
+338
+00:23:40.730 --> 00:23:43.740
+David Mendenhall: Definitely a health device, you all should partake.
+
+339
+00:23:44.020 --> 00:23:48.649
+Gary Young: So, benefits of a short rest? What benefits… well, I guess,
+
+340
+00:23:48.650 --> 00:23:50.110
+Wade: Oh, I get a wild-shaped joke.
+
+341
+00:23:50.110 --> 00:23:51.290
+David Mendenhall: Or in some classes.
+
+342
+00:23:51.290 --> 00:23:51.660
+Wade: Yeah.
+
+343
+00:23:51.660 --> 00:23:52.940
+David Mendenhall: It's reset on a short ride.
+
+344
+00:23:53.120 --> 00:23:53.630
+Gary Young: Yeah.
+
+345
+00:23:53.630 --> 00:23:57.740
+Wade: I get one wild-shaped chargeback on a short rest, so that's really handy.
+
+346
+00:23:58.210 --> 00:23:58.860
+Gary Young: Okay.
+
+347
+00:23:58.860 --> 00:24:04.600
+Wade: Although I no longer realize they changed Wild Shape to not have basic immortality, so that sucks, but whatever.
+
+348
+00:24:04.600 --> 00:24:06.009
+Kostadis Roussos: What is basic immortality?
+
+349
+00:24:06.010 --> 00:24:08.510
+Wade: Well, the thing with Wild Shape, right, is you could just…
+
+350
+00:24:08.670 --> 00:24:11.280
+Wade: You would go down to zero hit points and come back out at.
+
+351
+00:24:11.280 --> 00:24:15.160
+David Mendenhall: You come back to your… you go to revert to your regular self at full hit points.
+
+352
+00:24:15.160 --> 00:24:16.529
+Wade: Well, at what you transferred.
+
+353
+00:24:16.530 --> 00:24:17.790
+David Mendenhall: Or whatever, yeah.
+
+354
+00:24:17.790 --> 00:24:23.999
+Wade: That's no longer the case. This is… this is just, you get temporary hit points, and you die at zero.
+
+355
+00:24:24.000 --> 00:24:24.530
+David Mendenhall: Yeah.
+
+356
+00:24:25.380 --> 00:24:29.690
+Kostadis Roussos: Oh, I see, so there's no, infinite… there's no, re… reset hit points thing.
+
+357
+00:24:29.690 --> 00:24:34.000
+Wade: Yeah, it's not… it's not that buff anymore, which is fine, I mean…
+
+358
+00:24:34.920 --> 00:24:43.400
+Wade: Yeah, alright. But it also means that the little forms don't have, like, 3 hit points and die immediately. Like, the little hit point… the little forms have your base hit points as well, so….
+
+359
+00:24:43.720 --> 00:24:47.109
+Kostadis Roussos: So you can be a spy… you can be a wolf spider with 80 hit points.
+
+360
+00:24:47.110 --> 00:24:47.810
+Wade: Yeah.
+
+361
+00:24:48.000 --> 00:24:49.430
+Wade: So it's, it's fine.
+
+362
+00:24:49.790 --> 00:24:58.259
+Kostadis Roussos: Alright, so there's an up… there's a further upstairs, so this is the first level, and then the tower goes further up. Do you want to keep going up, or do you want to get off at this level?
+
+363
+00:24:58.260 --> 00:25:01.859
+Wade: I mean… We gotta explore, right? I'm getting out here.
+
+364
+00:25:02.230 --> 00:25:04.240
+Kostadis Roussos: Getting out here? Alright.
+
+365
+00:25:09.740 --> 00:25:12.669
+Kostadis Roussos: Alright. Okay, let me see what, ….
+
+366
+00:25:12.670 --> 00:25:17.449
+Wade: Oh, haven't we… oh, no, we saw the lightning rod from below, didn't we, and over here….
+
+367
+00:25:17.890 --> 00:25:18.490
+Kostadis Roussos: M.
+
+368
+00:25:19.110 --> 00:25:21.009
+Kostadis Roussos: You had seen… yeah, you saw, like….
+
+369
+00:25:21.010 --> 00:25:22.919
+Wade: We saw it at the altar where it forked.
+
+370
+00:25:23.350 --> 00:25:26.260
+Kostadis Roussos: Yeah, Lightning Rod with Altar.
+
+371
+00:25:26.890 --> 00:25:27.729
+Kostadis Roussos: That's where you saw it.
+
+372
+00:25:27.730 --> 00:25:29.049
+Wade: This is new, yeah.
+
+373
+00:25:29.600 --> 00:25:38.119
+Kostadis Roussos: Yep, that is new. Alright, okay, hold on, Tower of Storms locations… Alright.
+
+374
+00:25:39.670 --> 00:25:45.309
+Kostadis Roussos: From this vantage point, you can see the shattered masts of five shipwrecks west of the lighthouse.
+
+375
+00:25:45.610 --> 00:25:48.070
+Kostadis Roussos: And closing the roof is a one-foot…
+
+376
+00:25:48.410 --> 00:25:53.590
+Kostadis Roussos: High stone wall with a 2-foot-high iron railing atop it.
+
+377
+00:25:53.890 --> 00:25:58.950
+Kostadis Roussos: A small circle, small railing circles the walkway of the lighthouse.
+
+378
+00:25:59.220 --> 00:26:01.640
+Kostadis Roussos: Which is 20 feet above this area.
+
+379
+00:26:01.640 --> 00:26:05.560
+David Mendenhall: Are there… do we see any survivors, people swimming in the ocean, trying….
+
+380
+00:26:05.560 --> 00:26:07.530
+Kostadis Roussos: No, no, no, no.
+
+381
+00:26:07.790 --> 00:26:08.540
+Kostadis Roussos: Nope.
+
+382
+00:26:08.890 --> 00:26:11.490
+Kostadis Roussos: You also, you also….
+
+383
+00:26:11.490 --> 00:26:12.260
+Gary Young: Turks.
+
+384
+00:26:13.880 --> 00:26:15.620
+Kostadis Roussos: … The shirts would be….
+
+385
+00:26:15.620 --> 00:26:17.080
+David Mendenhall: below the water.
+
+386
+00:26:17.080 --> 00:26:23.660
+Kostadis Roussos: Yeah, I mean, you can roll a investigation, and sufficiently high die roll might indicate that.
+
+387
+00:26:25.790 --> 00:26:26.420
+Gary Young: No.
+
+388
+00:26:27.230 --> 00:26:28.280
+Kostadis Roussos: Nope. Okay.
+
+389
+00:26:29.530 --> 00:26:35.279
+Kostadis Roussos: … The eyes of true seeing do not exist.
+
+390
+00:26:35.280 --> 00:26:36.059
+Wade: Do you see a water?
+
+391
+00:26:36.060 --> 00:26:38.589
+David Mendenhall: Getting all my bad rolls out of the way early.
+
+392
+00:26:38.590 --> 00:26:42.050
+Kostadis Roussos: Yeah, that's… that's always good, that's always a good stratagem. All right.
+
+393
+00:26:42.050 --> 00:26:44.160
+Gary Young: We both rolled a natural 3, though.
+
+394
+00:26:46.160 --> 00:26:47.620
+Wade: What are the odds?
+
+395
+00:26:48.200 --> 00:26:49.470
+Kostadis Roussos: Yeah, alright.
+
+396
+00:26:49.740 --> 00:26:53.530
+Kostadis Roussos: So, do you… there is a lightning rod, which you can go look at.
+
+397
+00:26:54.170 --> 00:26:56.399
+Wade: I mean, I'm curious, like, I saw it from below.
+
+398
+00:26:56.940 --> 00:27:06.360
+Kostadis Roussos: No? Okay. So, Soma goes and looks at it. It's a 10-foot-tall wrought iron lightning rod, which reaches towards the sky.
+
+399
+00:27:08.250 --> 00:27:11.529
+Gary Young: But they're trying to conduct the lightning into the altar.
+
+400
+00:27:11.530 --> 00:27:12.530
+Wade: Yeah.
+
+401
+00:27:12.680 --> 00:27:15.289
+Wade: Like this Frankenstein going on over here or something.
+
+402
+00:27:15.290 --> 00:27:16.750
+David Mendenhall: they reanimate.
+
+403
+00:27:16.750 --> 00:27:17.600
+Wade: Yeah….
+
+404
+00:27:17.600 --> 00:27:20.380
+David Mendenhall: Things without… things that have holes in their chests.
+
+405
+00:27:20.930 --> 00:27:31.199
+Kostadis Roussos: what, you know, because you have a modest… no, not because… because, Soma has a modest understanding of religion, Talos is a god of lightning.
+
+406
+00:27:32.520 --> 00:27:33.060
+Kostadis Roussos: Yeah.
+
+407
+00:27:33.060 --> 00:27:36.010
+David Mendenhall: Yeah, makes sense. … Yeah, they, they were shut.
+
+408
+00:27:36.010 --> 00:27:37.379
+Wade: the Sky God, or….
+
+409
+00:27:37.570 --> 00:27:40.729
+David Mendenhall: Bad things happen in the tower. Maybe we should break the lightning rod.
+
+410
+00:27:42.240 --> 00:27:44.599
+David Mendenhall: Maybe the lightning rod is part of the curse.
+
+411
+00:27:45.120 --> 00:27:50.450
+Gary Young: Well, it's not as glorious as Lathander, and so I approve this choice.
+
+412
+00:27:51.390 --> 00:27:56.260
+Wade: Do you see evidence that, like, lightning has struck the ships to cause? Yeah, I'm gonna go, let's go up.
+
+413
+00:27:56.260 --> 00:27:59.530
+David Mendenhall: To the top, because there's probably something that's gonna happen out there, but….
+
+414
+00:27:59.690 --> 00:28:03.710
+Wade: Maybe on the way back down, we will destroy the lightning rod.
+
+415
+00:28:03.960 --> 00:28:04.790
+Kostadis Roussos: Alright….
+
+416
+00:28:04.790 --> 00:28:09.939
+Wade: I'm curious, are there, like, any signs that the ships have been charred by lightning or anything that we can see here?
+
+417
+00:28:10.250 --> 00:28:12.849
+Kostadis Roussos: … let's see….
+
+418
+00:28:13.020 --> 00:28:15.510
+David Mendenhall: Glow at the top of the tower.
+
+419
+00:28:15.940 --> 00:28:19.269
+Kostadis Roussos: Okay, I'm just gonna do something and get rid of dynamic lighting.
+
+420
+00:28:20.720 --> 00:28:22.530
+Wade: Yeah, we've pretty much explored everything.
+
+421
+00:28:22.790 --> 00:28:24.209
+Kostadis Roussos: Yeah, that way I don't have to…
+
+422
+00:28:24.410 --> 00:28:26.469
+Kostadis Roussos: Except it didn't do what didn't do what I wanted.
+
+423
+00:28:26.470 --> 00:28:29.870
+Wade: Now I can see my sphere of influence, or my, … that's cute.
+
+424
+00:28:30.820 --> 00:28:35.469
+Kostadis Roussos: … There we go, this should work.
+
+425
+00:28:35.940 --> 00:28:36.700
+Kostadis Roussos: There we go.
+
+426
+00:28:37.380 --> 00:28:38.989
+David Mendenhall: Daylight.
+
+427
+00:28:39.360 --> 00:28:44.659
+Kostadis Roussos: Yes, alright. So, you, you reach to the very top of this… of the tower.
+
+428
+00:28:45.670 --> 00:28:48.120
+Kostadis Roussos: Change there, that's the beacon.
+
+429
+00:28:49.340 --> 00:28:50.300
+Kostadis Roussos: Right?
+
+430
+00:28:50.300 --> 00:28:51.230
+David Mendenhall: weekend.
+
+431
+00:28:51.420 --> 00:28:56.720
+Kostadis Roussos: Alright, so what do you see here? The pinnacle of the lighthouse beacon is partly open to the elements.
+
+432
+00:28:57.360 --> 00:29:00.089
+Kostadis Roussos: 3 open archways….
+
+433
+00:29:00.570 --> 00:29:05.740
+Gary Young: Okay, this part, and surrounded by a narrow walkway topped by an iron railing.
+
+434
+00:29:05.900 --> 00:29:08.090
+Kostadis Roussos: So… it's not as obvious.
+
+435
+00:29:08.090 --> 00:29:11.640
+David Mendenhall: illuminated? It is.
+
+436
+00:29:11.640 --> 00:29:18.850
+Kostadis Roussos: Yeah, three open archways allow the beacon's pulsating green light to spill westward over the sea.
+
+437
+00:29:19.510 --> 00:29:24.969
+Kostadis Roussos: If you stare at it directly, do you stereoty.
+
+438
+00:29:24.970 --> 00:29:25.660
+Gary Young: He would definitely….
+
+439
+00:29:25.660 --> 00:29:27.140
+David Mendenhall: Why wouldn't do that? No.
+
+440
+00:29:27.780 --> 00:29:33.579
+David Mendenhall: I'm just trying to make sure that the lighthouse is operating correctly. Like, is it… is it….
+
+441
+00:29:33.580 --> 00:29:35.269
+Kostadis Roussos: Right, but Volfina, you are….
+
+442
+00:29:35.270 --> 00:29:37.290
+David Mendenhall: Like, a fully functioning lighthouse.
+
+443
+00:29:39.220 --> 00:29:40.200
+Kostadis Roussos: ….
+
+444
+00:29:40.200 --> 00:29:41.540
+Gary Young: He's fascinated by light.
+
+445
+00:29:41.540 --> 00:29:44.310
+Wade: Yeah, that actually seems on-brand for her.
+
+446
+00:29:45.780 --> 00:29:46.460
+Kostadis Roussos: Okay.
+
+447
+00:29:47.060 --> 00:29:50.530
+Kostadis Roussos: … well, you, you…
+
+448
+00:29:52.480 --> 00:29:56.210
+Kostadis Roussos: All right, I have to figure out how this… okay, so as you stare at it for about.
+
+449
+00:29:56.210 --> 00:29:57.529
+David Mendenhall: I'm not staring at Jack.
+
+450
+00:29:57.530 --> 00:30:02.679
+Wade: Yeah, only Valphine, I got sensitive turtle eyes.
+
+451
+00:30:02.680 --> 00:30:07.090
+Kostadis Roussos: Yeah, you guys have internalized. Does… Brewbarry, I mean, does Brewbarry.
+
+452
+00:30:07.090 --> 00:30:11.809
+David Mendenhall: I'm down the stairs, back to the… I'm gonna go start working on breaking the lightning rod.
+
+453
+00:30:11.970 --> 00:30:13.839
+Kostadis Roussos: Alright, so you're at the lightning run, alright?
+
+454
+00:30:13.840 --> 00:30:15.649
+Gary Young: Mary will help you with the lightning run.
+
+455
+00:30:16.020 --> 00:30:16.540
+Gary Young: Alright, true.
+
+456
+00:30:16.540 --> 00:30:18.020
+David Mendenhall: Smash a smash.
+
+457
+00:30:18.220 --> 00:30:28.525
+Kostadis Roussos: Alright, so it's the smash, smash, smash. Alright, that's what's going on over here. Alright, Valphine, … You…
+
+458
+00:30:32.500 --> 00:30:39.010
+Kostadis Roussos: Okay, so Valphine, you notice, you go blind, but before you go blind… for one.
+
+459
+00:30:39.010 --> 00:30:41.020
+Wade: For the rest of the campaign, enjoy.
+
+460
+00:30:41.300 --> 00:30:46.129
+Kostadis Roussos: No, no. Role A… role in investigation or insight check.
+
+461
+00:30:47.050 --> 00:30:47.900
+Gary Young: Okay.
+
+462
+00:30:49.530 --> 00:30:57.420
+Kostadis Roussos: Oh, that was a good roll. Alright, so, what you noticed before you went blind is the green light is being…
+
+463
+00:30:57.720 --> 00:31:02.679
+Kostadis Roussos: It's emanating from a heart, a human heart, that is several sizes too large.
+
+464
+00:31:04.700 --> 00:31:06.330
+Wade: Like, post-Brinch Heartland.
+
+465
+00:31:06.330 --> 00:31:10.139
+David Mendenhall: Yeah, the Grinch after, after Christmas.
+
+466
+00:31:10.670 --> 00:31:13.650
+Kostadis Roussos: Well, yes, and if I recall correctly….
+
+467
+00:31:13.650 --> 00:31:16.810
+David Mendenhall: The heart… this is… this is the heart of, ….
+
+468
+00:31:18.430 --> 00:31:19.260
+Wade: Davey Jones?
+
+469
+00:31:19.260 --> 00:31:20.150
+David Mendenhall: Alaska.
+
+470
+00:31:20.380 --> 00:31:20.950
+Kostadis Roussos: Moscow.
+
+471
+00:31:20.950 --> 00:31:21.740
+David Mendenhall: art.
+
+472
+00:31:21.880 --> 00:31:22.670
+Kostadis Roussos: Yes.
+
+473
+00:31:23.320 --> 00:31:26.950
+David Mendenhall: Is the… is what is illuminating… the tab.
+
+474
+00:31:26.950 --> 00:31:27.570
+Kostadis Roussos: Yeah.
+
+475
+00:31:27.570 --> 00:31:34.970
+Gary Young: So, do I assume that if the heart were removed, that it would cease to… Shine?
+
+476
+00:31:35.820 --> 00:31:45.179
+Wade: Yes, or if you broke the heart, or whatever. That's a question. So, like, we, you know, kind of killed Malesco, right? But this heart is still beating?
+
+477
+00:31:45.630 --> 00:31:46.600
+Kostadis Roussos: Yes.
+
+478
+00:31:46.600 --> 00:31:48.049
+Wade: That's a little odd.
+
+479
+00:31:49.170 --> 00:31:51.329
+David Mendenhall: I have two minds here. One is, I want my.
+
+480
+00:31:51.330 --> 00:31:51.930
+Kostadis Roussos: You're, you're here.
+
+481
+00:31:51.930 --> 00:31:53.780
+David Mendenhall: Because he's part of the curse.
+
+482
+00:31:53.950 --> 00:31:57.540
+Kostadis Roussos: Hold on. You are… you are dealing with a lightning rod, so….
+
+483
+00:31:57.540 --> 00:31:59.110
+David Mendenhall: Alright, I'm smashing the lightning rod.
+
+484
+00:31:59.880 --> 00:32:02.930
+David Mendenhall: She doesn't come down to talk to us about this?
+
+485
+00:32:03.320 --> 00:32:05.180
+Kostadis Roussos: Well, I'm gonna let Valphine make up her mind.
+
+486
+00:32:05.180 --> 00:32:08.049
+Gary Young: She's still investigating up here, so….
+
+487
+00:32:08.230 --> 00:32:10.380
+Wade: Just blinded by the light, yeah.
+
+488
+00:32:10.380 --> 00:32:15.989
+Kostadis Roussos: You're blinded by the light, and this is clearly some kind of magical effect that is being caused by the heart.
+
+489
+00:32:16.670 --> 00:32:20.589
+Gary Young: Is it bad matching? Does it do anything other than just brightness?
+
+490
+00:32:21.760 --> 00:32:23.700
+Gary Young: Like, is it attracting….
+
+491
+00:32:24.440 --> 00:32:28.360
+Kostadis Roussos: You mean, is it more than just… ….
+
+492
+00:32:28.360 --> 00:32:30.399
+Gary Young: Is it more than just a lighthouse? Is it, like…
+
+493
+00:32:31.080 --> 00:32:34.930
+Gary Young: Because, like, the harpies would pull in the boats, right? But luck is the…
+
+494
+00:32:35.670 --> 00:32:38.089
+Gary Young: Is it… is it a harmful….
+
+495
+00:32:40.390 --> 00:32:48.879
+Kostadis Roussos: … not for… I mean, there doesn't seem to be anything particularly harmful about it.
+
+496
+00:32:50.190 --> 00:32:50.870
+Gary Young: Okay.
+
+497
+00:32:53.200 --> 00:32:56.510
+Kostadis Roussos: … So…
+
+498
+00:32:56.760 --> 00:33:07.599
+Kostadis Roussos: I mean, other than there's this green light that's emanating from a heart of an evil cleric of… an evil cleric who tried to kill you. Other than that, there's nothing evil.
+
+499
+00:33:07.600 --> 00:33:09.130
+Wade: Other than that, Mrs. Lincoln.
+
+500
+00:33:09.520 --> 00:33:10.120
+Kostadis Roussos: Right?
+
+501
+00:33:10.230 --> 00:33:15.069
+Gary Young: When we go back down, we're gonna throw him into the body into the shark-infested water, so….
+
+502
+00:33:16.500 --> 00:33:19.349
+Kostadis Roussos: Alright, so you're not gonna destroy the heart or anything, you're just gonna leave it there?
+
+503
+00:33:19.650 --> 00:33:24.149
+Gary Young: I don't see why not… I don't see why we should destroy it. I mean, it's serving a useful purpose.
+
+504
+00:33:25.480 --> 00:33:26.240
+Kostadis Roussos: Okay.
+
+505
+00:33:28.270 --> 00:33:29.180
+Kostadis Roussos: Alright.
+
+506
+00:33:33.320 --> 00:33:39.670
+Kostadis Roussos: Okay, so you are leaving the heart. Just need to make sure… What?
+
+507
+00:33:40.010 --> 00:33:42.810
+Gary Young: I mean, what else should we do?
+
+508
+00:33:43.360 --> 00:33:47.090
+Kostadis Roussos: Nothing, I didn't… I didn't… I… I am taking a note of it.
+
+509
+00:33:48.640 --> 00:33:49.530
+Kostadis Roussos: Alright.
+
+510
+00:33:51.430 --> 00:33:55.629
+Gary Young: That is all I'm doing. There is… there is nothing else going on here.
+
+511
+00:33:56.080 --> 00:33:59.219
+Kostadis Roussos: Alright. Okay, the heart remains. Okay.
+
+512
+00:34:00.200 --> 00:34:05.040
+Kostadis Roussos: You go and notify, Soma and Vukradin of what your decision.
+
+513
+00:34:05.350 --> 00:34:05.960
+Gary Young: Yeah.
+
+514
+00:34:07.050 --> 00:34:07.590
+Kostadis Roussos: Yeah.
+
+515
+00:34:07.590 --> 00:34:10.590
+David Mendenhall: There was a heart? It was Malesco's heart.
+
+516
+00:34:11.030 --> 00:34:11.750
+Gary Young: Yes.
+
+517
+00:34:12.570 --> 00:34:15.020
+Gary Young: And it's doing something useful up there, it's, ….
+
+518
+00:34:15.020 --> 00:34:17.040
+David Mendenhall: Of course, you destroyed it because it was evil.
+
+519
+00:34:18.060 --> 00:34:20.439
+Gary Young: I didn't see anything at all, it just seemed like it was light.
+
+520
+00:34:20.449 --> 00:34:22.099
+Wade: What kind of heart be evil?
+
+521
+00:34:23.360 --> 00:34:27.149
+David Mendenhall: Are… are you… are you… oh, you're a drow. Right.
+
+522
+00:34:27.150 --> 00:34:28.940
+Wade: God.
+
+523
+00:34:28.949 --> 00:34:29.929
+Kostadis Roussos: Whoa!
+
+524
+00:34:30.630 --> 00:34:32.650
+Wade: The racism begins.
+
+525
+00:34:33.800 --> 00:34:35.669
+Kostadis Roussos: Cultural stereotyping at its.
+
+526
+00:34:35.679 --> 00:34:47.459
+David Mendenhall: Yeah, we need to destroy the heart, guys. Like, that was part of the deal, that we were gonna save the lighthouse, evil… I mean, I don't know what we're gonna do about the light, but, like, you gotta get rid of the heart.
+
+527
+00:34:48.020 --> 00:34:50.730
+Gary Young: But, like, how is it gonna function as a lighthouse?
+
+528
+00:34:50.730 --> 00:34:55.110
+David Mendenhall: Well, I agree with that. That is a problem.
+
+529
+00:34:55.590 --> 00:34:57.910
+David Mendenhall: We will have to find another light source.
+
+530
+00:34:59.510 --> 00:35:00.899
+Wade: Is it… yeah.
+
+531
+00:35:01.380 --> 00:35:02.620
+Wade: Oh, wait a minute.
+
+532
+00:35:02.620 --> 00:35:04.370
+David Mendenhall: Don't I have Matt?
+
+533
+00:35:04.370 --> 00:35:04.870
+Gary Young: I have to hire.
+
+534
+00:35:04.870 --> 00:35:08.160
+Wade: Yeah, I was gonna say, I think I have a useless spell for this kind of thing.
+
+535
+00:35:08.340 --> 00:35:09.959
+Wade: Oh, no, I don't.
+
+536
+00:35:10.160 --> 00:35:15.540
+Kostadis Roussos: Roll a history check, or, … One of you.
+
+537
+00:35:17.030 --> 00:35:19.409
+Wade: See if I can roll lower than a zero this time.
+
+538
+00:35:20.180 --> 00:35:20.500
+Gary Young: Why?
+
+539
+00:35:20.500 --> 00:35:20.970
+David Mendenhall: 18.
+
+540
+00:35:20.970 --> 00:35:23.070
+Wade: Yay! 16, not bad.
+
+541
+00:35:23.070 --> 00:35:32.909
+Kostadis Roussos: Alright, Vukradin… remembers, Vukradin is a musician, so he should roll with disadvantage on all things practical.
+
+542
+00:35:32.910 --> 00:35:33.650
+David Mendenhall: Oh, that's hard!
+
+543
+00:35:33.650 --> 00:35:36.160
+Wade: Gm's prerogative.
+
+544
+00:35:36.160 --> 00:35:37.050
+David Mendenhall: Harsh.
+
+545
+00:35:37.430 --> 00:35:41.169
+Kostadis Roussos: But I… we have to give him advantage on all things musical and aesthetic.
+
+546
+00:35:41.170 --> 00:35:44.060
+David Mendenhall: Oh, yeah, there you go. 10 men.
+
+547
+00:35:44.260 --> 00:35:52.240
+Kostadis Roussos: No, no, but we could go with the history one. He actually remembers a historical song about a lighthouse and a fire that…
+
+548
+00:35:52.240 --> 00:36:04.540
+Kostadis Roussos: And that, you know, he starts strumming some notes about this historical song, about the lighthouse, and the fire from the lighthouse, and he recalls that lighthouses typically had a fire, not a beating heart.
+
+549
+00:36:05.290 --> 00:36:06.590
+Gary Young: Well, clearly.
+
+550
+00:36:06.590 --> 00:36:07.490
+Kostadis Roussos: Alright.
+
+551
+00:36:07.490 --> 00:36:15.060
+David Mendenhall: I would say, like, it's probably not a song that I really liked very much. I don't know that I would know it that well. That doesn't sound like my kind of music.
+
+552
+00:36:15.060 --> 00:36:16.670
+Kostadis Roussos: Okay, I was going.
+
+553
+00:36:16.670 --> 00:36:18.820
+David Mendenhall: But I don't really do folk songs.
+
+554
+00:36:19.840 --> 00:36:21.440
+Kostadis Roussos: Just out of it together.
+
+555
+00:36:21.680 --> 00:36:27.020
+Kostadis Roussos: Okay, so… I was trying to give you the 18, but sure.
+
+556
+00:36:29.320 --> 00:36:29.800
+Kostadis Roussos: Right.
+
+557
+00:36:29.800 --> 00:36:35.859
+David Mendenhall: Anyway, in any case, I'm definitely on my way to go smash the harp. Did we smash the lightning rod?
+
+558
+00:36:36.500 --> 00:36:36.940
+Kostadis Roussos: Yes.
+
+559
+00:36:36.940 --> 00:36:37.570
+Wade: You did.
+
+560
+00:36:37.570 --> 00:36:40.359
+David Mendenhall: I'm doing all the things that might have cursed…
+
+561
+00:36:40.840 --> 00:36:44.759
+David Mendenhall: This tower, we're… we're… we're breaking the curse.
+
+562
+00:36:45.180 --> 00:36:45.940
+Kostadis Roussos: Alright, so you're….
+
+563
+00:36:45.940 --> 00:36:52.570
+Gary Young: Brewbarry's gonna go toss, the body into the, Yeah, off into the ocean.
+
+564
+00:36:52.900 --> 00:36:57.020
+Kostadis Roussos: Alright, okay, so you go up there, and you're gonna have to hit the heart.
+
+565
+00:36:57.330 --> 00:37:02.060
+Kostadis Roussos: With disadvantage using some kind of weapon, or magical spell, or whatnot.
+
+566
+00:37:02.060 --> 00:37:03.030
+David Mendenhall: Okay.
+
+567
+00:37:03.370 --> 00:37:05.180
+Kostadis Roussos: AC10. Shouldn't be too hard.
+
+568
+00:37:05.180 --> 00:37:05.750
+Gary Young: True.
+
+569
+00:37:06.190 --> 00:37:07.860
+Wade: I mean, it's not gonna fight back, is it?
+
+570
+00:37:07.860 --> 00:37:08.800
+David Mendenhall: I missed.
+
+571
+00:37:09.020 --> 00:37:09.830
+Kostadis Roussos: Oh my god.
+
+572
+00:37:11.130 --> 00:37:13.650
+Gary Young: Does she have an offhand attack?
+
+573
+00:37:15.770 --> 00:37:19.629
+David Mendenhall: Yeah, I do have an offhand attack, I don't know if I get to use that, do I?
+
+574
+00:37:19.770 --> 00:37:20.660
+Kostadis Roussos: Yeah, yeah, yeah.
+
+575
+00:37:20.660 --> 00:37:21.639
+David Mendenhall: Oh, okay.
+
+576
+00:37:22.050 --> 00:37:22.599
+Kostadis Roussos: I see.
+
+577
+00:37:22.600 --> 00:37:23.440
+Gary Young: This is an attack.
+
+578
+00:37:23.900 --> 00:37:26.659
+David Mendenhall: That's one, and I gotta do it again, right?
+
+579
+00:37:26.850 --> 00:37:27.620
+Kostadis Roussos: Yeah.
+
+580
+00:37:29.070 --> 00:37:29.430
+David Mendenhall: Made it.
+
+581
+00:37:29.430 --> 00:37:31.670
+Kostadis Roussos: Oh, you hit! Alright, how much damage did you do?
+
+582
+00:37:32.250 --> 00:37:35.199
+David Mendenhall: That would be 1D4 plus 2.
+
+583
+00:37:36.230 --> 00:37:36.850
+Kostadis Roussos: Alright.
+
+584
+00:37:36.850 --> 00:37:38.219
+David Mendenhall: You roll for damage.
+
+585
+00:37:39.330 --> 00:37:44.359
+Kostadis Roussos: Alright, you do 4 points of damage, alright. Soma, are you gonna swing your baseball at him?
+
+586
+00:37:44.360 --> 00:37:47.510
+Wade: No, I'm just gonna sit back and watch the kids have their fun.
+
+587
+00:37:48.010 --> 00:37:51.389
+Kostadis Roussos: All right. Vukradin, it's back to you.
+
+588
+00:37:54.470 --> 00:37:54.900
+David Mendenhall: Go get.
+
+589
+00:37:54.900 --> 00:37:56.189
+Kostadis Roussos: anchored in. Yeah.
+
+590
+00:37:56.190 --> 00:37:56.860
+David Mendenhall: go again?
+
+591
+00:37:57.270 --> 00:37:58.370
+Kostadis Roussos: Yes, I do.
+
+592
+00:37:59.040 --> 00:38:02.670
+David Mendenhall: Okay, I'm curious what's going on here, alright.
+
+593
+00:38:04.520 --> 00:38:12.540
+David Mendenhall: Okay, and a… That's a hit for 5 damage.
+
+594
+00:38:12.540 --> 00:38:14.569
+Kostadis Roussos: Alright, it's still… it's still beating mobile.
+
+595
+00:38:14.570 --> 00:38:15.799
+David Mendenhall: We got those offhand.
+
+596
+00:38:16.120 --> 00:38:18.290
+David Mendenhall: Offhand is…
+
+597
+00:38:21.330 --> 00:38:22.690
+David Mendenhall: Awesome a hit.
+
+598
+00:38:22.890 --> 00:38:24.819
+Kostadis Roussos: Alright, you destroyed the heart.
+
+599
+00:38:25.630 --> 00:38:29.929
+Kostadis Roussos: You destroy the heart, and the light goes off.
+
+600
+00:38:33.760 --> 00:38:34.660
+Wade: Shall we cut off?
+
+601
+00:38:34.660 --> 00:38:35.140
+David Mendenhall: prior.
+
+602
+00:38:35.140 --> 00:38:35.650
+Wade: Heh.
+
+603
+00:38:36.280 --> 00:38:37.010
+Kostadis Roussos: What?
+
+604
+00:38:37.320 --> 00:38:39.079
+David Mendenhall: Shall we set a fire?
+
+605
+00:38:39.500 --> 00:38:41.719
+Wade: I mean, we gotta replace it with something, right?
+
+606
+00:38:41.720 --> 00:38:44.139
+Kostadis Roussos: Oh, you wanna start a fire there? …
+
+607
+00:38:44.390 --> 00:38:49.629
+Kostadis Roussos: Yeah, there doesn't seem to be any wood nearby, but I mean, I suppose you could go get some?
+
+608
+00:38:50.140 --> 00:38:54.330
+David Mendenhall: Yeah, it seems like something we should do. Do you have any spells that can help?
+
+609
+00:38:54.330 --> 00:38:56.149
+Wade: Oh, man, ….
+
+610
+00:38:57.010 --> 00:39:01.520
+Gary Young: Well, we can go return the caulk and then get some, you know, firewood and come back.
+
+611
+00:39:06.900 --> 00:39:08.060
+Wade: On this rocky….
+
+612
+00:39:08.060 --> 00:39:10.959
+David Mendenhall: I will cast a light spell.
+
+613
+00:39:12.230 --> 00:39:14.690
+David Mendenhall: Okay. Which will operate for 1 hour.
+
+614
+00:39:14.970 --> 00:39:16.239
+Kostadis Roussos: Oh, we go….
+
+615
+00:39:16.810 --> 00:39:18.050
+David Mendenhall: Search for wood.
+
+616
+00:39:18.440 --> 00:39:19.080
+Kostadis Roussos: Alright.
+
+617
+00:39:19.290 --> 00:39:23.749
+Kostadis Roussos: Well, you know, there's a whole bunch of wood in the water with all those boats that send.
+
+618
+00:39:25.110 --> 00:39:26.579
+David Mendenhall: You mean with all the sharks?
+
+619
+00:39:27.690 --> 00:39:31.579
+Kostadis Roussos: Yeah, strictly speaking, you know, one shark here, one shark there, it's, you know….
+
+620
+00:39:31.580 --> 00:39:33.039
+David Mendenhall: Does anybody have Mage Hand?
+
+621
+00:39:33.550 --> 00:39:36.530
+Wade: No, but I'm pretty good in the water. I can actually become, like, an octopus.
+
+622
+00:39:36.530 --> 00:39:38.259
+David Mendenhall: Oh yeah, you wanna go in the water?
+
+623
+00:39:38.810 --> 00:39:41.680
+David Mendenhall: Sure, we can take an octopus form to get some good.
+
+624
+00:39:41.680 --> 00:39:42.380
+Wade: Swimming, I am.
+
+625
+00:39:42.380 --> 00:39:45.690
+David Mendenhall: I'm more of a musician, not really a swimmer.
+
+626
+00:39:46.530 --> 00:39:48.320
+David Mendenhall: Brew Pairi can swim.
+
+627
+00:39:49.310 --> 00:39:55.099
+Kostadis Roussos: All characters can swim, it's, … unless you… Unless you're back….
+
+628
+00:39:55.100 --> 00:39:57.350
+David Mendenhall: That's not really my thing, swimming.
+
+629
+00:39:57.930 --> 00:39:58.350
+Kostadis Roussos: No?
+
+630
+00:39:58.350 --> 00:40:03.039
+Wade: Actually, I think… let's go with giant toad form, that's probably more appropriate.
+
+631
+00:40:03.040 --> 00:40:03.790
+Kostadis Roussos: Toad?
+
+632
+00:40:03.790 --> 00:40:04.859
+Wade: Toad, yeah.
+
+633
+00:40:05.290 --> 00:40:06.300
+Wade: Extra swimming.
+
+634
+00:40:06.300 --> 00:40:08.470
+David Mendenhall: Your dog's eating his foot, right?
+
+635
+00:40:08.470 --> 00:40:09.929
+Wade: Yeah, he does that.
+
+636
+00:40:11.750 --> 00:40:13.960
+Gary Young: He's now going to the bathroom.
+
+637
+00:40:13.960 --> 00:40:17.360
+Wade: No, well, yeah, I'll be a toad. I'll be fine.
+
+638
+00:40:18.240 --> 00:40:19.370
+Kostadis Roussos: Alright.
+
+639
+00:40:20.870 --> 00:40:22.120
+Wade: Yes, that'll be me.
+
+640
+00:40:22.740 --> 00:40:24.389
+Kostadis Roussos: I got better, you know….
+
+641
+00:40:24.620 --> 00:40:27.220
+Wade: Mobility and water and stuff like that.
+
+642
+00:40:27.550 --> 00:40:29.500
+Kostadis Roussos: Alright, … 20.
+
+643
+00:40:29.500 --> 00:40:31.810
+Wade: Feet, I could practically jump up to the wall.
+
+644
+00:40:32.400 --> 00:40:33.070
+Kostadis Roussos: Alright.
+
+645
+00:40:36.770 --> 00:40:37.510
+Kostadis Roussos: Huh?
+
+646
+00:40:41.610 --> 00:40:42.300
+Kostadis Roussos: Huh?
+
+647
+00:40:43.940 --> 00:40:47.240
+Kostadis Roussos: Alright, so that should be possible to… I should be able to edit this.
+
+648
+00:40:47.240 --> 00:40:50.209
+Gary Young: Brewbarry will do his Aquaman impression.
+
+649
+00:40:54.170 --> 00:40:56.859
+Kostadis Roussos: That's an engineer a token saved.
+
+650
+00:40:59.050 --> 00:41:00.759
+Wade: I assume you're just reading to yourself.
+
+651
+00:41:00.970 --> 00:41:01.850
+Kostadis Roussos: Yeah, I understand.
+
+652
+00:41:01.850 --> 00:41:06.510
+David Mendenhall: You know what, I can stand on the shore and cast some spells, maybe.
+
+653
+00:41:08.010 --> 00:41:08.780
+Kostadis Roussos: Okay.
+
+654
+00:41:09.010 --> 00:41:10.209
+Kostadis Roussos: Alright, so happy to help.
+
+655
+00:41:10.210 --> 00:41:10.810
+David Mendenhall: about.
+
+656
+00:41:13.820 --> 00:41:15.360
+Kostadis Roussos: I'm just not sure, I guess….
+
+657
+00:41:15.360 --> 00:41:20.220
+Wade: This consumes a wild shape. Where's that tracker? There it is.
+
+658
+00:41:20.220 --> 00:41:25.009
+Kostadis Roussos: Alright. Alright, Soma, I think I finally, after all of that, have gotten you a toad you can move.
+
+659
+00:41:26.350 --> 00:41:27.990
+Wade: Let's see….
+
+660
+00:41:30.890 --> 00:41:32.930
+David Mendenhall: Brewbarry, you want to come join us down on the….
+
+661
+00:41:33.220 --> 00:41:34.519
+Wade: I cannot move him.
+
+662
+00:41:34.810 --> 00:41:36.330
+Wade: I can move the bear.
+
+663
+00:41:36.330 --> 00:41:38.450
+Kostadis Roussos: Alright, how about this now? Now you should be able to move it.
+
+664
+00:41:38.450 --> 00:41:39.820
+Wade: Now I can move her, yeah.
+
+665
+00:41:39.820 --> 00:41:42.930
+Kostadis Roussos: Yeah, sorry. Giant Tone Soma. Alright.
+
+666
+00:41:42.930 --> 00:41:45.050
+Gary Young: Yes, thank you for moving me.
+
+667
+00:41:45.050 --> 00:41:46.289
+Wade: I think I should only be…
+
+668
+00:41:48.260 --> 00:41:53.450
+Wade: I forget how many hit points, it's, like, 8 or something like that, it's Druid level times 3.
+
+669
+00:41:53.450 --> 00:41:54.220
+Kostadis Roussos: Alright.
+
+670
+00:41:54.570 --> 00:41:56.039
+Kostadis Roussos: According to the….
+
+671
+00:41:56.040 --> 00:41:57.470
+Wade: It's… yeah.
+
+672
+00:41:57.760 --> 00:42:00.240
+Kostadis Roussos: This creature has 39 hit points.
+
+673
+00:42:00.240 --> 00:42:08.269
+Wade: No, it inherits mine plus 3 times my druid level, so it should be 27 plus 9 at 38. I got it, it's fine.
+
+674
+00:42:08.270 --> 00:42:13.329
+Kostadis Roussos: Okay. Alright. Okay, so there's a bunch of wrecks here.
+
+675
+00:42:14.390 --> 00:42:20.099
+Kostadis Roussos: I will show you the tokens of these reps, these, recs, so that you can…
+
+676
+00:42:20.900 --> 00:42:23.169
+Kostadis Roussos: I know, that's the wrong thing.
+
+677
+00:42:23.890 --> 00:42:26.519
+Kostadis Roussos: This is the first wreck.
+
+678
+00:42:27.160 --> 00:42:29.660
+Kostadis Roussos: Second wreck. Second wreck.
+
+679
+00:42:30.410 --> 00:42:34.680
+Kostadis Roussos: Third wreck… Orthrek.
+
+680
+00:42:37.810 --> 00:42:38.960
+Kostadis Roussos: Lifth wreck.
+
+681
+00:42:40.710 --> 00:42:44.540
+Kostadis Roussos: Alright, so, what do you wanna do?
+
+682
+00:42:45.110 --> 00:42:47.560
+Gary Young: … Starting at V10.
+
+683
+00:42:47.990 --> 00:42:51.649
+Wade: I mean, I'll jump down to the first wreck, right? Like, jump into the water near it?
+
+684
+00:42:51.990 --> 00:42:52.960
+Kostadis Roussos: Alright.
+
+685
+00:42:53.310 --> 00:42:54.300
+Kostadis Roussos: Okay.
+
+686
+00:42:54.300 --> 00:42:55.609
+Wade: Splashy, splashy!
+
+687
+00:42:56.840 --> 00:42:58.839
+Kostadis Roussos: Alright, let me just see what the rules are, girl.
+
+688
+00:43:00.080 --> 00:43:02.760
+Wade: It's underwater breathing, I take my time, you know.
+
+689
+00:43:03.470 --> 00:43:05.550
+Wade: Exploring the wreck, I guess.
+
+690
+00:43:06.710 --> 00:43:09.429
+Gary Young: Oh, didn't that crab offer to help us here, too?
+
+691
+00:43:10.010 --> 00:43:12.309
+Wade: Yes. I don't… Did he? Oh.
+
+692
+00:43:12.920 --> 00:43:13.550
+Wade: remember that.
+
+693
+00:43:14.040 --> 00:43:15.210
+David Mendenhall: We just need wood.
+
+694
+00:43:17.160 --> 00:43:19.020
+Wade: I mean, as long as we're down here….
+
+695
+00:43:19.420 --> 00:43:23.999
+David Mendenhall: Well, our… our, our quest giver, Miraal.
+
+696
+00:43:24.840 --> 00:43:31.230
+David Mendenhall: Said that she would go retrieve any… lost… possessions.
+
+697
+00:43:31.670 --> 00:43:32.450
+David Mendenhall: for us.
+
+698
+00:43:32.450 --> 00:43:36.899
+Kostadis Roussos: So she said she would retrieve one lost possession, not all the lost possessions.
+
+699
+00:43:36.900 --> 00:43:37.640
+David Mendenhall: Oh.
+
+700
+00:43:37.750 --> 00:43:38.719
+David Mendenhall: My mistake.
+
+701
+00:43:39.380 --> 00:43:40.700
+Kostadis Roussos: Let me just make sure.
+
+702
+00:43:44.270 --> 00:43:45.449
+Kostadis Roussos: Oh yeah, it will retrie.
+
+703
+00:43:45.450 --> 00:43:51.900
+David Mendenhall: get, like, the best items or something like that. Yeah, she would get one item, that's… Oh, one item. Oh, okay.
+
+704
+00:43:52.400 --> 00:43:53.250
+Kostadis Roussos: Alright.
+
+705
+00:43:53.680 --> 00:43:57.279
+Kostadis Roussos: So, so might, and Vukradin.
+
+706
+00:43:57.280 --> 00:43:59.450
+David Mendenhall: I just don't want to, like, take a long rest first.
+
+707
+00:44:00.080 --> 00:44:01.840
+Wade: Oh, I got that short rest, we're good.
+
+708
+00:44:02.340 --> 00:44:02.890
+David Mendenhall: Okay.
+
+709
+00:44:02.890 --> 00:44:03.590
+Kostadis Roussos: Right?
+
+710
+00:44:04.060 --> 00:44:04.670
+David Mendenhall: Got it.
+
+711
+00:44:05.200 --> 00:44:06.710
+David Mendenhall: Handcooked potatoes.
+
+712
+00:44:10.850 --> 00:44:13.550
+Gary Young: And we were just talking about, sharks, right?
+
+713
+00:44:13.820 --> 00:44:14.630
+Kostadis Roussos: Yes.
+
+714
+00:44:15.180 --> 00:44:16.030
+David Mendenhall: Yeah.
+
+715
+00:44:16.780 --> 00:44:20.189
+David Mendenhall: It's not like they have laser beams on their heads.
+
+716
+00:44:20.260 --> 00:44:22.539
+Wade: It's just sharks. Pacers haven't been invited yet.
+
+717
+00:44:23.890 --> 00:44:25.350
+Kostadis Roussos: Alright.
+
+718
+00:44:25.350 --> 00:44:26.630
+David Mendenhall: Are they mutated?
+
+719
+00:44:26.630 --> 00:44:27.630
+Wade: They're ill-tempered.
+
+720
+00:44:27.630 --> 00:44:29.920
+David Mendenhall: Ill-tempered. That's right.
+
+721
+00:44:30.080 --> 00:44:31.510
+Wade: It's a start.
+
+722
+00:44:38.450 --> 00:44:42.120
+Wade: I'm sorry, and… yep. Oh, wow.
+
+723
+00:44:43.920 --> 00:44:56.420
+Kostadis Roussos: Okay, so… okay, so, you jump into the water, and as you jump into the water, it's got… the water is very murky, and you have a 20 feet visibility, so just keep that in mind.
+
+724
+00:44:56.420 --> 00:44:57.080
+Wade: Okay.
+
+725
+00:44:57.380 --> 00:45:06.099
+Kostadis Roussos: Alright, … while you're… are you splashing around like a crazed humanoid, or are you trying to be quiet?
+
+726
+00:45:06.290 --> 00:45:07.900
+Wade: I'm just trying to swim around the wreck, you know.
+
+727
+00:45:07.900 --> 00:45:08.750
+David Mendenhall: Who's a toad.
+
+728
+00:45:08.750 --> 00:45:09.490
+Wade: Yeah.
+
+729
+00:45:09.750 --> 00:45:10.920
+Kostadis Roussos: Okay, so….
+
+730
+00:45:11.170 --> 00:45:12.430
+Gary Young: Like a toad.
+
+731
+00:45:12.930 --> 00:45:16.059
+Kostadis Roussos: So I guess, I guess my question is more to Brewbarry. Brewbarry?
+
+732
+00:45:18.630 --> 00:45:24.300
+Kostadis Roussos: Brewbarry, what's your… what's your approach to the matter? Are you being discreet, or are you being loud and proud?
+
+733
+00:45:25.250 --> 00:45:28.389
+Gary Young: I think it's just being normal Brewbarry.
+
+734
+00:45:28.390 --> 00:45:30.319
+David Mendenhall: So… The loud and proud.
+
+735
+00:45:31.790 --> 00:45:33.679
+Wade: Clumsy oaf.
+
+736
+00:45:33.680 --> 00:45:34.330
+Kostadis Roussos: Alright.
+
+737
+00:45:34.960 --> 00:45:35.890
+David Mendenhall: I like him.
+
+738
+00:45:36.370 --> 00:45:38.270
+Wade: He's a good guy, he's a great guy!
+
+739
+00:45:38.270 --> 00:45:39.090
+Kostadis Roussos: Alright.
+
+740
+00:45:39.570 --> 00:45:41.589
+Wade: The most perceptive of any of us.
+
+741
+00:45:42.180 --> 00:45:54.380
+Kostadis Roussos: All right. Brewbarry, that you… as you sw… you can read and write, right? So, the ship is called… the ship is called the… right? You can, right?
+
+742
+00:45:54.380 --> 00:45:55.519
+Wade: Are you, are you.
+
+743
+00:45:55.520 --> 00:45:56.400
+David Mendenhall: Are you illiterate?
+
+744
+00:45:56.400 --> 00:45:58.080
+Wade: Are you literate, Brewbarry?
+
+745
+00:45:58.120 --> 00:46:01.130
+Gary Young: I don't see anything that says that he's illiterate.
+
+746
+00:46:01.280 --> 00:46:02.719
+Kostadis Roussos: Yeah, I'm assuming he's….
+
+747
+00:46:03.010 --> 00:46:03.740
+Wade: Good question.
+
+748
+00:46:03.740 --> 00:46:07.250
+David Mendenhall: I believe barbarians can be illiterate, but it's not required.
+
+749
+00:46:07.830 --> 00:46:09.480
+Kostadis Roussos: Yeah, that's why I'm… that's why I….
+
+750
+00:46:09.480 --> 00:46:11.860
+David Mendenhall: The only class that can be illiterate.
+
+751
+00:46:15.030 --> 00:46:21.660
+Kostadis Roussos: Yeah. So, that's why I asked the question. Alright, so the Stark Kloros Lover, that's the name of the ship.
+
+752
+00:46:22.520 --> 00:46:26.400
+Kostadis Roussos: And you find on it a plus-one halberd.
+
+753
+00:46:27.410 --> 00:46:28.570
+Gary Young: Alright.
+
+754
+00:46:29.850 --> 00:46:31.499
+Gary Young: There's nothing down here, guys.
+
+755
+00:46:31.500 --> 00:46:33.380
+David Mendenhall: I'm sure somebody's really missing that.
+
+756
+00:46:33.660 --> 00:46:38.890
+Kostadis Roussos: Found in the grip of a skeleton that used to be the ship's captain.
+
+757
+00:46:41.920 --> 00:46:43.139
+Kostadis Roussos: Alright.
+
+758
+00:46:43.140 --> 00:46:44.889
+Gary Young: I'm definitely picking that up.
+
+759
+00:46:45.330 --> 00:46:51.729
+Kostadis Roussos: Alrighty. So… Let's see what this….
+
+760
+00:46:56.840 --> 00:46:57.680
+Gary Young: Boom.
+
+761
+00:47:01.040 --> 00:47:02.010
+David Mendenhall: Yeah, sorry.
+
+762
+00:47:02.130 --> 00:47:03.390
+David Mendenhall: I don't know what happened there.
+
+763
+00:47:03.750 --> 00:47:04.500
+Kostadis Roussos: Oh.
+
+764
+00:47:11.330 --> 00:47:13.170
+Kostadis Roussos: So… Okay.
+
+765
+00:47:13.560 --> 00:47:17.420
+Kostadis Roussos: Roll… okay, it needs to… what's your, ….
+
+766
+00:47:19.110 --> 00:47:21.349
+David Mendenhall: Alright, a shark spots you.
+
+767
+00:47:21.930 --> 00:47:22.670
+Wade: Oh, God.
+
+768
+00:47:25.470 --> 00:47:27.360
+Wade: of us? All of us? No.
+
+769
+00:47:27.360 --> 00:47:30.669
+Gary Young: Well, then after all 20, I see him… assume he sees everything.
+
+770
+00:47:30.730 --> 00:47:32.750
+Kostadis Roussos: Yeah, he sees it all.
+
+771
+00:47:33.330 --> 00:47:34.810
+Wade: The shark god.
+
+772
+00:47:35.240 --> 00:47:36.180
+Kostadis Roussos: Yeah, it's like….
+
+773
+00:47:36.180 --> 00:47:38.439
+David Mendenhall: Giant shark, hunter shark, reef shark?
+
+774
+00:47:38.440 --> 00:47:39.889
+Kostadis Roussos: Hunter… Hunter Shark.
+
+775
+00:47:39.890 --> 00:47:40.710
+David Mendenhall: Hunter Shark.
+
+776
+00:47:41.310 --> 00:47:41.980
+David Mendenhall: Whoa.
+
+777
+00:47:43.940 --> 00:47:52.039
+Kostadis Roussos: Hold on, I did not put him in the right layer, change layer tokens. Alright, you should see him. And, …
+
+778
+00:47:52.200 --> 00:47:57.990
+Kostadis Roussos: He swims by and attempts to take a bite out of Brewbarry.
+
+779
+00:47:58.700 --> 00:48:00.150
+Kostadis Roussos: A role for initiative.
+
+780
+00:48:00.150 --> 00:48:03.889
+Gary Young: Is he moving out of an attack of opportunity?
+
+781
+00:48:03.890 --> 00:48:07.180
+Wade: Rule for initiative.
+
+782
+00:48:10.270 --> 00:48:11.220
+Kostadis Roussos: Oh, furnishing.
+
+783
+00:48:15.780 --> 00:48:19.870
+Kostadis Roussos: Alright, hold on, could someone put the darned thing in the bob, in the bob?
+
+784
+00:48:21.910 --> 00:48:23.420
+Wade: You said who and the what now?
+
+785
+00:48:23.740 --> 00:48:26.300
+Kostadis Roussos: I'm just… I'm talking about the, ….
+
+786
+00:48:26.410 --> 00:48:27.490
+Gary Young: The spreadsheet.
+
+787
+00:48:29.640 --> 00:48:31.069
+Wade: I think Dave did, didn't he?
+
+788
+00:48:31.070 --> 00:48:32.579
+Gary Young: Yeah, he did, he did. Alright.
+
+789
+00:48:32.580 --> 00:48:35.119
+David Mendenhall: Yeah, I just need an initiative roll for the….
+
+790
+00:48:39.200 --> 00:48:40.040
+Kostadis Roussos: 7.
+
+791
+00:48:40.040 --> 00:48:41.260
+Gary Young: Alright.
+
+792
+00:48:41.260 --> 00:48:42.199
+David Mendenhall: I like that initiative.
+
+793
+00:48:44.850 --> 00:48:45.970
+Kostadis Roussos: Alrighty.
+
+794
+00:48:47.250 --> 00:48:49.409
+Kostadis Roussos: Alright, Soma, you're up first.
+
+795
+00:48:49.620 --> 00:48:53.160
+Wade: Yeah, I don't know how combative these guys are.
+
+796
+00:48:53.260 --> 00:48:58.550
+Kostadis Roussos: I guess it's swimming by, he got into my range. He's large, isn't he?
+
+797
+00:48:58.810 --> 00:48:59.390
+Kostadis Roussos: Yes.
+
+798
+00:48:59.390 --> 00:49:01.210
+Wade: So I can't swallow them up.
+
+799
+00:49:01.500 --> 00:49:02.660
+Kostadis Roussos: No. Blame.
+
+800
+00:49:03.170 --> 00:49:04.399
+David Mendenhall: Oh, that would have been cool.
+
+801
+00:49:04.400 --> 00:49:14.009
+Wade: No, I know, but it's… it's limited to, small and medium. Alright, so he just gets a regular old bite. Chompy chompy, public roll…
+
+802
+00:49:15.250 --> 00:49:20.269
+Wade: Oh, these are in the same… that should be a hit, yeah, 18, 12, yeah.
+
+803
+00:49:20.270 --> 00:49:20.860
+David Mendenhall: I did.
+
+804
+00:49:21.100 --> 00:49:22.320
+David Mendenhall: 18 down.
+
+805
+00:49:22.320 --> 00:49:23.300
+Wade: Damage.
+
+806
+00:49:23.300 --> 00:49:28.089
+Kostadis Roussos: He makes a… oh, there's no escape, so 18 points of damage, yep.
+
+807
+00:49:28.090 --> 00:49:33.209
+Wade: Hold on, so, piercing and plus 5, and the target is grappled!
+
+808
+00:49:33.900 --> 00:49:36.030
+Wade: Escape DC-13.
+
+809
+00:49:36.500 --> 00:49:38.080
+Kostadis Roussos: Yeah, so I rolled a 17.
+
+810
+00:49:38.080 --> 00:49:39.730
+Wade: Oh, okay, so he's not grappled.
+
+811
+00:49:39.730 --> 00:49:41.330
+David Mendenhall: So he does 18 damage.
+
+812
+00:49:41.660 --> 00:49:42.270
+Kostadis Roussos: Yes.
+
+813
+00:49:42.270 --> 00:49:43.630
+Wade: Yeah, I just, I just damaged him.
+
+814
+00:49:43.630 --> 00:49:44.420
+David Mendenhall: That's awesome.
+
+815
+00:49:44.420 --> 00:49:45.430
+Kostadis Roussos: Right. Alright.
+
+816
+00:49:45.430 --> 00:49:45.890
+Wade: ….
+
+817
+00:49:45.890 --> 00:49:49.790
+David Mendenhall: And you are, like, a beast with these creatures.
+
+818
+00:49:50.140 --> 00:49:52.169
+Wade: I mean, I'm a literal beast.
+
+819
+00:49:53.390 --> 00:49:54.700
+Kostadis Roussos: Yes, alright.
+
+820
+00:49:55.240 --> 00:49:57.500
+David Mendenhall: Is that the exchange we actually have there?
+
+821
+00:49:59.540 --> 00:50:01.190
+Wade: I think I just say ribbit.
+
+822
+00:50:01.360 --> 00:50:05.030
+Kostadis Roussos: Vukradin, you see churning waters.
+
+823
+00:50:06.900 --> 00:50:07.600
+David Mendenhall: Hmm.
+
+824
+00:50:08.120 --> 00:50:09.130
+David Mendenhall: It's gonna be tough.
+
+825
+00:50:09.380 --> 00:50:09.990
+David Mendenhall: Let me see….
+
+826
+00:50:09.990 --> 00:50:12.740
+Wade: So is this combat happening under the surface? Is that what's going on?
+
+827
+00:50:12.740 --> 00:50:14.020
+Kostadis Roussos: Yeah, yeah.
+
+828
+00:50:14.020 --> 00:50:15.780
+Wade: I mean, it's fine, I'm definitely underwater.
+
+829
+00:50:18.950 --> 00:50:21.169
+David Mendenhall: Can I hear the shark?
+
+830
+00:50:22.070 --> 00:50:30.290
+Kostadis Roussos: I mean, you can definitely hear, like, the… like, like, there's… when I said churning water, I meant you can… you clearly see….
+
+831
+00:50:30.290 --> 00:50:35.289
+David Mendenhall: I can cast Vicious mockery at a creature if I can hear it. I don't have to see it.
+
+832
+00:50:46.440 --> 00:50:47.950
+Kostadis Roussos: I think this is the….
+
+833
+00:50:47.950 --> 00:50:49.429
+David Mendenhall: Judge rules?
+
+834
+00:50:49.430 --> 00:50:50.680
+Kostadis Roussos: Alright.
+
+835
+00:50:51.680 --> 00:50:54.079
+Kostadis Roussos: Roll a perception check.
+
+836
+00:50:59.890 --> 00:51:08.090
+Kostadis Roussos: No, you're unable to perceive the sound. I was gonna give it to you on a 10, just so you know.
+
+837
+00:51:08.900 --> 00:51:13.999
+David Mendenhall: … Hang on, let's see if I got anything else.
+
+838
+00:51:17.320 --> 00:51:17.925
+David Mendenhall: Hmm…
+
+839
+00:51:26.580 --> 00:51:34.340
+David Mendenhall: I could cast… Sleep on the point of the churning.
+
+840
+00:51:38.330 --> 00:51:39.290
+Kostadis Roussos: You can what?
+
+841
+00:51:40.230 --> 00:51:47.409
+David Mendenhall: I'm just… I've got a sleep spell. Each creature of your choice in a 5-foot radius sphere centered on a point within range.
+
+842
+00:51:47.770 --> 00:51:50.639
+Kostadis Roussos: Okay, that, that would definitely work. You can, you can…
+
+843
+00:51:52.010 --> 00:52:03.240
+Kostadis Roussos: definitely… do that. Say… you… you can definitely see that there's a shark there. Actually, you know what? You could do the vicious mockery, because you would see the shark moving around. So, do you want to do the Vicious mockery, do the Vicious mockery.
+
+844
+00:52:03.240 --> 00:52:04.630
+David Mendenhall: Alright, I'd rather do that.
+
+845
+00:52:04.790 --> 00:52:12.040
+Kostadis Roussos: Yeah, no, I just… after I thought about it, I was like, you said here, but you could definitely see the shark thrashing about at this point in time.
+
+846
+00:52:14.000 --> 00:52:15.890
+David Mendenhall: ….
+
+847
+00:52:15.890 --> 00:52:17.340
+Kostadis Roussos: One point of damage.
+
+848
+00:52:17.340 --> 00:52:20.090
+Wade: There's… well, he's gotta try his saving throw, right?
+
+849
+00:52:20.260 --> 00:52:20.780
+Kostadis Roussos: I'm gonna….
+
+850
+00:52:20.780 --> 00:52:22.230
+David Mendenhall: Save for that one point.
+
+851
+00:52:22.230 --> 00:52:24.649
+Kostadis Roussos: No, no, it's default 1.
+
+852
+00:52:24.910 --> 00:52:27.409
+Wade: Oh, because half of 1 would still be 1, or what?
+
+853
+00:52:27.410 --> 00:52:28.579
+Kostadis Roussos: Yeah, I think that's what….
+
+854
+00:52:28.580 --> 00:52:32.449
+David Mendenhall: Well, he took 1 point of damage. No, it's 0 on a safe.
+
+855
+00:52:32.750 --> 00:52:35.370
+Kostadis Roussos: Oh, it is? Yes, so one point of damage.
+
+856
+00:52:35.370 --> 00:52:36.660
+David Mendenhall: Wow.
+
+857
+00:52:37.000 --> 00:52:40.950
+David Mendenhall: That was so… I'm glad we had this entire range.
+
+858
+00:52:41.260 --> 00:52:44.849
+David Mendenhall: About whether I could do one point of damage or not. Alright, Valphine.
+
+859
+00:52:45.090 --> 00:52:49.120
+Kostadis Roussos: I was about to check whether it has a plus 4 to its saving throw, just to, like, make the….
+
+860
+00:52:49.120 --> 00:52:51.160
+Wade: Just to really twist that knife.
+
+861
+00:52:51.640 --> 00:52:54.860
+Kostadis Roussos: Just to make this, like, totally a waste of our time.
+
+862
+00:52:55.080 --> 00:52:58.840
+Wade: Dude, this is all a waste, that's what we're doing, we're having fun.
+
+863
+00:52:58.840 --> 00:53:08.029
+Kostadis Roussos: Yeah, alright, okay. Valphine, you can see them… you can definitely see the, … what's the word I'm looking for? The churning creature.
+
+864
+00:53:09.700 --> 00:53:12.309
+David Mendenhall: The shark also has disadvantage.
+
+865
+00:53:13.360 --> 00:53:14.170
+Kostadis Roussos: Okay.
+
+866
+00:53:17.270 --> 00:53:20.020
+David Mendenhall: is a vicious mockery. I was like, why does he have me? Yeah, he has a vicious mockery.
+
+867
+00:53:20.280 --> 00:53:25.340
+Wade: So you're taunting a shark, A very sentient guy, so much that he's….
+
+868
+00:53:28.150 --> 00:53:28.830
+Kostadis Roussos: Okay.
+
+869
+00:53:28.830 --> 00:53:31.950
+Gary Young: Can I… can I shoot a crossbow bolt down into it?
+
+870
+00:53:34.050 --> 00:53:35.459
+Wade: Into the water?
+
+871
+00:53:35.650 --> 00:53:38.100
+Kostadis Roussos: No, no, you can't do that.
+
+872
+00:53:38.550 --> 00:53:42.870
+Gary Young: How about Sacred Flame? It does radiant damage, not fire damage.
+
+873
+00:53:42.870 --> 00:53:47.990
+Kostadis Roussos: Yes, yes, you could absolutely do that. Oh, and the 5th edition rules on Fireball are pretty cute.
+
+874
+00:53:49.040 --> 00:53:51.310
+Gary Young: That is, ….
+
+875
+00:53:51.310 --> 00:53:53.220
+Kostadis Roussos: They are. Very cute.
+
+876
+00:53:54.100 --> 00:53:55.980
+Gary Young: Dexity see-through.
+
+877
+00:53:56.730 --> 00:53:57.510
+Kostadis Roussos: Mrs.
+
+878
+00:53:57.950 --> 00:54:00.560
+Kostadis Roussos: Blows it as a plus 2, so…
+
+879
+00:54:03.510 --> 00:54:05.499
+Kostadis Roussos: So he takes 5… 6 points of damage.
+
+880
+00:54:08.270 --> 00:54:10.239
+Wade: I got it, alright.
+
+881
+00:54:12.400 --> 00:54:14.330
+Kostadis Roussos: Who is next?
+
+882
+00:54:14.330 --> 00:54:16.580
+David Mendenhall: The shark, with disadvantage. The shark.
+
+883
+00:54:16.870 --> 00:54:18.609
+Wade: Daddy Shark, do-do-do-do-do.
+
+884
+00:54:19.780 --> 00:54:20.680
+Kostadis Roussos: Alright.
+
+885
+00:54:21.250 --> 00:54:25.079
+Kostadis Roussos: Well, he's got the Tasty Human and the Tasty Frog.
+
+886
+00:54:25.080 --> 00:54:25.710
+Wade: Toad.
+
+887
+00:54:26.070 --> 00:54:28.510
+Kostadis Roussos: Toad. Alright, so….
+
+888
+00:54:28.920 --> 00:54:31.870
+Wade: I don't actually know the difference, I just know it's a toad.
+
+889
+00:54:34.980 --> 00:54:39.320
+Kostadis Roussos: Yeah, alright, alright.
+
+890
+00:54:41.830 --> 00:54:43.250
+Kostadis Roussos: Let's see, what does he do?
+
+891
+00:54:43.670 --> 00:54:45.129
+Kostadis Roussos: I'm trying to think, what does he do?
+
+892
+00:54:51.010 --> 00:54:52.670
+Kostadis Roussos: Let's see, what does he do?
+
+893
+00:55:03.140 --> 00:55:05.740
+Kostadis Roussos: … what did I do wrong?
+
+894
+00:55:06.550 --> 00:55:10.540
+Kostadis Roussos: Nevermind. Okay, so he will attack.
+
+895
+00:55:10.840 --> 00:55:14.269
+Kostadis Roussos: The toad, he will attack, …
+
+896
+00:55:14.670 --> 00:55:22.479
+Kostadis Roussos: the toad, and he… and he will attack with a vicious bite, Because that's what he does.
+
+897
+00:55:22.720 --> 00:55:27.269
+Kostadis Roussos: … and it said, with advantage of… oh, do you have all your hit points?
+
+898
+00:55:27.430 --> 00:55:31.360
+Wade: I am full hit points currently, and I'm actually at 9 over full.
+
+899
+00:55:31.540 --> 00:55:34.089
+Kostadis Roussos: Alright, in which case, that is a 12.
+
+900
+00:55:34.360 --> 00:55:35.520
+Wade: I'm a 16.
+
+901
+00:55:36.120 --> 00:55:38.879
+Kostadis Roussos: Well, then I missed, because I was attacking with disadvantage.
+
+902
+00:55:40.060 --> 00:55:41.659
+Kostadis Roussos: Did you see that number?
+
+903
+00:55:41.660 --> 00:55:44.219
+Wade: I saw, yeah, I saw a Tac 12, pipe 16.
+
+904
+00:55:44.220 --> 00:55:44.660
+David Mendenhall: Yeah.
+
+905
+00:55:44.660 --> 00:55:48.600
+Kostadis Roussos: Yeah, okay, okay, good, good. So just let me make sure you guys saw the die roll. Alright, so that's a miss.
+
+906
+00:55:51.240 --> 00:55:52.200
+David Mendenhall: Brewbarry.
+
+907
+00:55:52.980 --> 00:55:53.940
+Gary Young: Alright.
+
+908
+00:55:55.690 --> 00:55:58.319
+Gary Young: Do I rage while swimming?
+
+909
+00:55:59.240 --> 00:56:00.819
+David Mendenhall: Yeah, you can read drills for me.
+
+910
+00:56:00.820 --> 00:56:01.590
+Kostadis Roussos: Yeah,
+
+911
+00:56:01.590 --> 00:56:02.959
+Wade: You can get extra mad at the water.
+
+912
+00:56:04.850 --> 00:56:05.700
+David Mendenhall: Check the shark.
+
+913
+00:56:06.040 --> 00:56:06.950
+Wade: Oh, that too.
+
+914
+00:56:11.420 --> 00:56:14.199
+Gary Young: I think I will not rage.
+
+915
+00:56:17.930 --> 00:56:19.560
+Kostadis Roussos: That will just… -
+
+916
+00:56:20.860 --> 00:56:21.620
+Gary Young: tech.
+
+917
+00:56:22.660 --> 00:56:26.460
+Kostadis Roussos: By the way, you can hold your breath for, like, What is your.
+
+918
+00:56:26.460 --> 00:56:28.470
+David Mendenhall: Whoa, what is… where'd you get that?
+
+919
+00:56:29.210 --> 00:56:31.610
+Wade: You can't see, it's on….
+
+920
+00:56:31.610 --> 00:56:32.390
+David Mendenhall: That thing!
+
+921
+00:56:32.390 --> 00:56:34.459
+Wade: You can't see him swinging under the water.
+
+922
+00:56:35.060 --> 00:56:36.189
+Kostadis Roussos: Yeah, you can.
+
+923
+00:56:36.190 --> 00:56:37.770
+Gary Young: You told me I could see!
+
+924
+00:56:37.770 --> 00:56:39.570
+Wade: You can see the churning, right?
+
+925
+00:56:39.570 --> 00:56:41.029
+David Mendenhall: Eddie? I can see it.
+
+926
+00:56:41.330 --> 00:56:51.230
+Kostadis Roussos: You do not see the magical glowing weapon. The glowing weapon is a feature of first edition weapons, not of 5th edition weapons.
+
+927
+00:56:51.420 --> 00:56:52.670
+Gary Young: Okay. ….
+
+928
+00:56:52.770 --> 00:56:53.360
+Kostadis Roussos: So….
+
+929
+00:56:53.360 --> 00:56:54.420
+Wade: And 18 hits.
+
+930
+00:56:54.740 --> 00:56:57.670
+Kostadis Roussos: Yes, it does, and you do 5 points of damage.
+
+931
+00:56:59.070 --> 00:57:01.099
+Gary Young: And don't forget your rage bonus.
+
+932
+00:57:01.860 --> 00:57:03.180
+Gary Young: I am not reading.
+
+933
+00:57:03.800 --> 00:57:05.229
+Kostadis Roussos: You're not? Okay.
+
+934
+00:57:05.740 --> 00:57:07.140
+Kostadis Roussos: Alrighty.
+
+935
+00:57:07.340 --> 00:57:09.469
+Gary Young: And I will cleave at the mast.
+
+936
+00:57:11.310 --> 00:57:15.980
+Kostadis Roussos: Okay, they, they, … Alright.
+
+937
+00:57:16.480 --> 00:57:16.920
+Wade: ….
+
+938
+00:57:16.920 --> 00:57:17.540
+Kostadis Roussos: he….
+
+939
+00:57:17.540 --> 00:57:20.340
+Wade: No sense in being creative, he's right in front of me.
+
+940
+00:57:20.340 --> 00:57:21.400
+Kostadis Roussos: Hold on. Okay.
+
+941
+00:57:21.400 --> 00:57:22.030
+Wade: Sorry?
+
+942
+00:57:22.450 --> 00:57:24.360
+Kostadis Roussos: I don't know, I just need to do something.
+
+943
+00:57:24.360 --> 00:57:27.120
+Wade: I'm offended, and I'm backing off.
+
+944
+00:57:27.530 --> 00:57:31.800
+Kostadis Roussos: No, who's it? Brewbarry? Alright, so… Alright.
+
+945
+00:57:33.360 --> 00:57:34.880
+Kostadis Roussos: Two more sharks.
+
+946
+00:57:36.730 --> 00:57:38.150
+Kostadis Roussos: approach.
+
+947
+00:57:39.190 --> 00:57:42.680
+Wade: But we can't see them, right? Like, I have 20-foot vision underwater.
+
+948
+00:57:42.680 --> 00:57:48.740
+Kostadis Roussos: Yeah, yeah, you can't see them. But your allies can see them. They could start screaming, shark, shark, shark!
+
+949
+00:57:49.110 --> 00:57:51.289
+Wade: Actually, you almost can see one.
+
+950
+00:57:51.290 --> 00:57:52.979
+Kostadis Roussos: Right, I'd say that you can almost see them.
+
+951
+00:57:52.980 --> 00:57:54.149
+Wade: I can see that one.
+
+952
+00:57:54.410 --> 00:57:54.980
+Kostadis Roussos: Yes.
+
+953
+00:57:55.260 --> 00:57:58.229
+David Mendenhall: I don't think these sharks are so bad, let's just keep taking them out.
+
+954
+00:57:59.410 --> 00:58:03.360
+Wade: Yeah, you're not the one that's down here in tooth range, but alright.
+
+955
+00:58:03.360 --> 00:58:08.160
+David Mendenhall: I got vicious mockery, we'll be fine. Don't be attacking with disadvantage all night long.
+
+956
+00:58:08.160 --> 00:58:12.940
+Wade: Alright, well, I'm gonna continue, attacking the guy in front of me, so let's just, …
+
+957
+00:58:13.210 --> 00:58:20.789
+Wade: He's a 12, so 14 is a hit, 12 damage, and he needs to try to, avoid grappling.
+
+958
+00:58:21.640 --> 00:58:22.610
+Kostadis Roussos: Alright.
+
+959
+00:58:24.340 --> 00:58:25.290
+Kostadis Roussos: I think he….
+
+960
+00:58:25.290 --> 00:58:27.950
+Wade: DC13, he's gra- he's fine.
+
+961
+00:58:27.950 --> 00:58:28.660
+Kostadis Roussos: Alright.
+
+962
+00:58:28.660 --> 00:58:33.620
+Wade: Still, the damage hits, so that's 12, I think he was at, like, 15?
+
+963
+00:58:33.620 --> 00:58:35.079
+David Mendenhall: Yeah, so, 3, yep.
+
+964
+00:58:35.080 --> 00:58:37.790
+Wade: Oh, man, if only somebody had used their rage bonus.
+
+965
+00:58:38.590 --> 00:58:39.740
+Kostadis Roussos: No, that wouldn't have helped.
+
+966
+00:58:39.740 --> 00:58:41.040
+Wade: Oh, it's only a plus 2?
+
+967
+00:58:41.250 --> 00:58:41.880
+Kostadis Roussos: Yeah.
+
+968
+00:58:41.880 --> 00:58:42.790
+Wade: Oh, alright.
+
+969
+00:58:43.470 --> 00:58:45.569
+Kostadis Roussos: I mean, but it was a good bit of snark there.
+
+970
+00:58:46.740 --> 00:58:47.980
+Wade: I have plenty.
+
+971
+00:58:48.500 --> 00:58:51.020
+David Mendenhall: As usual, it comes down to me.
+
+972
+00:58:56.270 --> 00:58:57.360
+Wade: Ribbit.
+
+973
+00:59:00.130 --> 00:59:01.659
+Wade: That's a hit.
+
+974
+00:59:03.840 --> 00:59:07.289
+Kostadis Roussos: dead, that's… That… that… and it dies. The shark…
+
+975
+00:59:07.450 --> 00:59:09.840
+Kostadis Roussos: Falls down to its bloody death.
+
+976
+00:59:10.830 --> 00:59:12.050
+Kostadis Roussos: Alright.
+
+977
+00:59:14.140 --> 00:59:15.049
+Kostadis Roussos: Right, so the rule….
+
+978
+00:59:15.050 --> 00:59:17.099
+David Mendenhall: Do you want to put initiatives on these other sharks?
+
+979
+00:59:17.100 --> 00:59:20.439
+Kostadis Roussos: Yeah, I just put them where the other shark was. Oh, okay.
+
+980
+00:59:20.580 --> 00:59:22.410
+David Mendenhall: So 7s, alright.
+
+981
+00:59:25.460 --> 00:59:26.310
+Kostadis Roussos: Alright.
+
+982
+00:59:26.670 --> 00:59:27.270
+Wade: Excuse me.
+
+983
+00:59:27.270 --> 00:59:28.730
+Kostadis Roussos: Oh, alright.
+
+984
+00:59:28.930 --> 00:59:31.630
+Kostadis Roussos: I, ….
+
+985
+00:59:31.630 --> 00:59:32.550
+Wade: Cleene.
+
+986
+00:59:33.060 --> 00:59:34.150
+Kostadis Roussos: Valphine.
+
+987
+00:59:36.730 --> 00:59:37.529
+Gary Young: Alright.
+
+988
+00:59:38.500 --> 00:59:40.810
+Gary Young: So I assume she can see the, ….
+
+989
+00:59:41.200 --> 00:59:44.080
+Kostadis Roussos: Yeah, so you can… they've got the whole fin thing going.
+
+990
+00:59:44.480 --> 00:59:46.080
+Gary Young: The whole fin thing. Great.
+
+991
+00:59:46.370 --> 00:59:48.589
+Wade: Donna in the background. I'm done.
+
+992
+00:59:48.590 --> 00:59:50.680
+Kostadis Roussos: Right, yeah, you've got the whole dunno, dunno.
+
+993
+00:59:54.080 --> 00:59:55.959
+Gary Young: DC13 decks.
+
+994
+00:59:56.650 --> 00:59:57.330
+Kostadis Roussos: DC.
+
+995
+00:59:57.330 --> 00:59:58.610
+Gary Young: Number one, I guess.
+
+996
+01:00:00.150 --> 01:00:00.930
+Kostadis Roussos: ….
+
+997
+01:00:00.930 --> 01:00:04.000
+Gary Young: 4, 5, 6, 7, 8, 9….
+
+998
+01:00:07.000 --> 01:00:10.540
+Kostadis Roussos: … Okay.
+
+999
+01:00:11.120 --> 01:00:15.089
+Kostadis Roussos: How much did you say, sorry? 13, right?
+
+1000
+01:00:16.150 --> 01:00:17.590
+Kostadis Roussos: It's a blown safe.
+
+1001
+01:00:18.110 --> 01:00:22.099
+Gary Young: Okay, so, shrunk 1 takes 5. I'll apply.
+
+1002
+01:00:22.350 --> 01:00:23.579
+Gary Young: For Shark 2.
+
+1003
+01:00:26.230 --> 01:00:28.109
+David Mendenhall: Number should be 1 and 2 again.
+
+1004
+01:00:28.860 --> 01:00:31.360
+Gary Young: It's fine. We'll just make it 2 and 3.
+
+1005
+01:00:32.600 --> 01:00:33.890
+Gary Young: I can change it to 3.
+
+1006
+01:00:37.180 --> 01:00:38.649
+Gary Young: Next, we have Bush Lux.
+
+1007
+01:00:38.650 --> 01:00:39.610
+David Mendenhall: rescue, yeah.
+
+1008
+01:00:40.040 --> 01:00:40.600
+Kostadis Roussos: What?
+
+1009
+01:00:40.900 --> 01:00:42.430
+Kostadis Roussos: Sharks? Alright.
+
+1010
+01:00:43.100 --> 01:00:47.069
+Kostadis Roussos: Shark 2… Attacks the frog.
+
+1011
+01:00:47.260 --> 01:00:47.990
+Wade: Code.
+
+1012
+01:00:49.730 --> 01:00:50.630
+Kostadis Roussos: Code.
+
+1013
+01:00:50.870 --> 01:00:53.920
+Kostadis Roussos: And Mrs. Shark3.
+
+1014
+01:00:54.310 --> 01:00:57.950
+Kostadis Roussos: Attacks the toad. Why? Because sharks are not very intelligent.
+
+1015
+01:00:59.940 --> 01:01:04.660
+Kostadis Roussos: And that is a hit for 14 points of damage. Well, I can roll for it if you want.
+
+1016
+01:01:04.940 --> 01:01:07.530
+Wade: I… Trust you, it's fine.
+
+1017
+01:01:08.170 --> 01:01:09.820
+Kostadis Roussos: Hold on. 16 points of damage.
+
+1018
+01:01:09.820 --> 01:01:14.930
+Wade: That's worse. Go back to 14. Alright, that takes me to 22.
+
+1019
+01:01:15.500 --> 01:01:16.860
+Kostadis Roussos: Right?
+
+1020
+01:01:18.330 --> 01:01:19.479
+Kostadis Roussos: Okie dokie.
+
+1021
+01:01:20.530 --> 01:01:22.220
+Kostadis Roussos: That is what the sharks do.
+
+1022
+01:01:22.220 --> 01:01:23.549
+Wade: Well, that's gonna suck.
+
+1023
+01:01:24.070 --> 01:01:24.740
+Kostadis Roussos: Yes.
+
+1024
+01:01:24.990 --> 01:01:26.600
+Wade: It's gonna hurt in the morning.
+
+1025
+01:01:26.700 --> 01:01:28.630
+Kostadis Roussos: Alright, who is next?
+
+1026
+01:01:29.110 --> 01:01:30.200
+Wade: Brewbarry.
+
+1027
+01:01:30.200 --> 01:01:33.109
+Gary Young: Bavaria's going to now rage.
+
+1028
+01:01:33.880 --> 01:01:35.190
+Kostadis Roussos: Okay, now we're in… There you go.
+
+1029
+01:01:35.190 --> 01:01:37.669
+Wade: You've got cleaving position now, which is great.
+
+1030
+01:01:38.240 --> 01:01:39.070
+Gary Young: Yeah.
+
+1031
+01:01:39.070 --> 01:01:41.689
+Wade: Or they're, rather, they're in leaving arrangement.
+
+1032
+01:01:42.270 --> 01:01:46.630
+Gary Young: … Just hold a second, I gotta get the….
+
+1033
+01:01:47.510 --> 01:01:50.530
+Wade: Can he ride me? I guess he's kind of big, too.
+
+1034
+01:01:51.110 --> 01:01:53.839
+Wade: Yeah, I mean, he's, like, almost, ….
+
+1035
+01:01:53.840 --> 01:01:55.240
+Gary Young: Almost large, right?
+
+1036
+01:01:57.830 --> 01:02:03.240
+Gary Young: Alright, so… Now he comes… One tooth.
+
+1037
+01:02:04.030 --> 01:02:05.640
+Gary Young: I can go through somewhat?
+
+1038
+01:02:06.600 --> 01:02:08.269
+Kostadis Roussos: Yes, yes, you can absolutely go through yourself.
+
+1039
+01:02:08.270 --> 01:02:09.930
+Wade: reminder me or something, it's fine, I'll get out of the way.
+
+1040
+01:02:09.930 --> 01:02:10.750
+Gary Young: 4?
+
+1041
+01:02:13.160 --> 01:02:14.880
+Gary Young: Yeah, I can swim that far.
+
+1042
+01:02:17.610 --> 01:02:22.080
+Gary Young: And then I can… Why?
+
+1043
+01:02:22.640 --> 01:02:23.380
+Gary Young: Tack.
+
+1044
+01:02:24.010 --> 01:02:26.429
+David Mendenhall: I'm going to assume that Cleave….
+
+1045
+01:02:27.030 --> 01:02:29.590
+Gary Young: Does not work. Okay. Yeah.
+
+1046
+01:02:30.160 --> 01:02:31.569
+Wade: You have to hit the first target, right?
+
+1047
+01:02:31.570 --> 01:02:32.900
+Gary Young: I have to hit the first target.
+
+1048
+01:02:34.310 --> 01:02:35.060
+Kostadis Roussos: Okay?
+
+1049
+01:02:35.330 --> 01:02:37.090
+Kostadis Roussos: Did you miss the first target?
+
+1050
+01:02:37.090 --> 01:02:37.850
+Gary Young: I did.
+
+1051
+01:02:38.710 --> 01:02:40.680
+Gary Young: Otherwise, that would've been really good.
+
+1052
+01:02:40.910 --> 01:02:41.850
+Wade: Yeah, I know.
+
+1053
+01:02:43.400 --> 01:02:45.280
+Kostadis Roussos: Can you hear that?
+
+1054
+01:02:46.910 --> 01:02:47.840
+Gary Young: You're what?
+
+1055
+01:02:47.840 --> 01:02:49.470
+Wade: I don't hear your soundboard.
+
+1056
+01:02:50.040 --> 01:02:51.369
+Kostadis Roussos: Damn. Damn it.
+
+1057
+01:02:51.510 --> 01:02:53.520
+Kostadis Roussos: Damn you, technology! I hate you.
+
+1058
+01:02:53.820 --> 01:02:55.570
+Kostadis Roussos: I hate you oh so very much.
+
+1059
+01:02:56.310 --> 01:02:58.380
+Gary Young: It gives me a wah-wah-wah.
+
+1060
+01:02:58.930 --> 01:03:02.800
+Kostadis Roussos: No, no, no, it was supposed to do something funnier than that.
+
+1061
+01:03:03.690 --> 01:03:04.960
+Kostadis Roussos: Alright, someone's….
+
+1062
+01:03:04.960 --> 01:03:05.550
+Gary Young: Sorry.
+
+1063
+01:03:06.970 --> 01:03:07.900
+Kostadis Roussos: -Oh.
+
+1064
+01:03:08.010 --> 01:03:08.720
+Kostadis Roussos: Right?
+
+1065
+01:03:09.380 --> 01:03:10.519
+Kostadis Roussos: Oh….
+
+1066
+01:03:10.520 --> 01:03:17.360
+Wade: Back to me already? Alright, let's see, you already wailed on, number… 2, so yeah, it's just…
+
+1067
+01:03:17.730 --> 01:03:19.910
+Wade: Try and grapple on bite number 2.
+
+1068
+01:03:22.210 --> 01:03:25.739
+Wade: That's a good hit. Not a lot of damage, though.
+
+1069
+01:03:26.430 --> 01:03:27.570
+Kostadis Roussos: Not a lot of damage.
+
+1070
+01:03:27.570 --> 01:03:29.169
+Wade: Not a lot of 6 damage.
+
+1071
+01:03:29.170 --> 01:03:32.720
+David Mendenhall: That's not a good, good, … Do your save.
+
+1072
+01:03:32.720 --> 01:03:36.900
+Wade: Yeah, you gotta try to save the, grapple. Not that it's gonna matter, I mean…
+
+1073
+01:03:37.240 --> 01:03:38.889
+Wade: Shark's here to eat me.
+
+1074
+01:03:42.000 --> 01:03:42.940
+Kostadis Roussos: Alright.
+
+1075
+01:03:43.330 --> 01:03:45.230
+Kostadis Roussos: Saving her for grapple?
+
+1076
+01:03:45.600 --> 01:03:46.480
+Wade: DC13?
+
+1077
+01:03:47.010 --> 01:03:47.740
+Kostadis Roussos: I made it.
+
+1078
+01:03:47.740 --> 01:03:49.599
+Wade: Boy, you keep rolling exactly at 13.
+
+1079
+01:03:50.880 --> 01:03:53.450
+Kostadis Roussos: Yeah, that is… there's… that's kind of freaky there, right?
+
+1080
+01:03:54.380 --> 01:04:00.759
+Kostadis Roussos: It's like… that's a… that's like a pretty large, percentage there. Okay, who is… Soma, you just, ….
+
+1081
+01:04:00.760 --> 01:04:04.280
+Wade: Yeah, I jumped, too, and, you know, did a little damage.
+
+1082
+01:04:04.580 --> 01:04:05.979
+Kostadis Roussos: Alright, Vukradin is up?
+
+1083
+01:04:15.800 --> 01:04:17.999
+David Mendenhall: DC13 Wisdom Saves.
+
+1084
+01:04:20.330 --> 01:04:22.510
+Kostadis Roussos: Oh, DC13 Wisdom Save.
+
+1085
+01:04:23.270 --> 01:04:25.650
+Kostadis Roussos: That is a successful wisdom save.
+
+1086
+01:04:25.650 --> 01:04:26.830
+David Mendenhall: Wow.
+
+1087
+01:04:28.050 --> 01:04:29.110
+David Mendenhall: Interesting.
+
+1088
+01:04:29.370 --> 01:04:30.070
+David Mendenhall: Okay.
+
+1089
+01:04:30.480 --> 01:04:31.140
+Kostadis Roussos: What?
+
+1090
+01:04:32.860 --> 01:04:34.710
+Gary Young: Okay, Valphine.
+
+1091
+01:04:35.120 --> 01:04:35.780
+Kostadis Roussos: Alright.
+
+1092
+01:04:41.360 --> 01:04:48.949
+Gary Young: So, Wade, I have some healing word casts here, but I will do them later when you're, in more trouble.
+
+1093
+01:04:49.090 --> 01:04:52.470
+Wade: Alright. We'll see if I survive another round. It's fine.
+
+1094
+01:04:53.110 --> 01:04:54.350
+Gary Young: Yeah, well, I mean, if I do.
+
+1095
+01:04:54.350 --> 01:04:55.650
+Wade: No, it's fine, it's fine!
+
+1096
+01:04:55.840 --> 01:04:59.120
+Gary Young: If I do it later, then you get just back up, right?
+
+1097
+01:04:59.120 --> 01:04:59.610
+Wade: Yep.
+
+1098
+01:05:00.160 --> 01:05:01.000
+Wade: Totally.
+
+1099
+01:05:01.000 --> 01:05:03.150
+Gary Young: Wait a second, no, I come after you.
+
+1100
+01:05:03.760 --> 01:05:07.899
+Wade: Well, it doesn't matter, it's now a circle, and you will always be after me.
+
+1101
+01:05:09.260 --> 01:05:09.790
+Gary Young: Yeah.
+
+1102
+01:05:09.790 --> 01:05:13.459
+Wade: You come after they act, though, which is more important, so….
+
+1103
+01:05:13.940 --> 01:05:15.110
+Gary Young: Caffeine? No.
+
+1104
+01:05:15.110 --> 01:05:17.080
+Wade: Oh, no, sorry, they're gonna act first, yeah.
+
+1105
+01:05:17.840 --> 01:05:18.540
+Gary Young: No.
+
+1106
+01:05:18.540 --> 01:05:22.760
+Wade: Don't… I mean, I'm not… I'm not gonna complain if I go unconscious, it's fine.
+
+1107
+01:05:25.010 --> 01:05:26.930
+Wade: You, you run by the way.
+
+1108
+01:05:26.930 --> 01:05:30.629
+Gary Young: Come on… come back up, and then be, …
+
+1109
+01:05:30.810 --> 01:05:33.149
+Gary Young: They need to talk down before you get in action, right?
+
+1110
+01:05:33.370 --> 01:05:35.080
+Wade: That would be unfortunate, yeah.
+
+1111
+01:05:35.960 --> 01:05:40.039
+Gary Young: Am I allowed to readjust my initiative to 6?
+
+1112
+01:05:42.180 --> 01:05:42.920
+Kostadis Roussos: What?
+
+1113
+01:05:43.870 --> 01:05:47.079
+Wade: He wants to go after the creatures. Can't you ready an action or something?
+
+1114
+01:05:47.080 --> 01:05:49.459
+Kostadis Roussos: Yeah, you can ready an action. You can ready an action.
+
+1115
+01:05:50.620 --> 01:05:58.690
+Gary Young: I will ready a bonus action healing word if, someone.
+
+1116
+01:05:58.690 --> 01:05:59.420
+Wade: So much.
+
+1117
+01:06:00.150 --> 01:06:03.219
+Kostadis Roussos: Alright. Okay, so you burn your reaction for that.
+
+1118
+01:06:03.400 --> 01:06:06.260
+Kostadis Roussos: The only downside is you actually ca- if you…
+
+1119
+01:06:06.460 --> 01:06:15.170
+Kostadis Roussos: Preparing a spell means if you cast it, it goes… it's burned. Even if you don't… if the event doesn't occur, you still have to… the spell is still cast.
+
+1120
+01:06:15.450 --> 01:06:19.219
+Gary Young: Okay, can I… can I just change my initiative, then, to 6?
+
+1121
+01:06:20.270 --> 01:06:21.100
+Kostadis Roussos: Nope.
+
+1122
+01:06:21.290 --> 01:06:22.260
+Gary Young: Nope.
+
+1123
+01:06:23.790 --> 01:06:25.580
+Kostadis Roussos: ….
+
+1124
+01:06:27.010 --> 01:06:27.600
+Gary Young: Okay.
+
+1125
+01:06:27.600 --> 01:06:28.110
+Kostadis Roussos: Yep.
+
+1126
+01:06:29.290 --> 01:06:33.429
+Kostadis Roussos: You could just cast the spell… oh, she… what… why not just cast the spell now?
+
+1127
+01:06:34.130 --> 01:06:35.950
+Kostadis Roussos: Oh, because she's at 27 hit points, right?
+
+1128
+01:06:35.950 --> 01:06:38.509
+Wade: Yeah, I'm, well, 22, but yeah.
+
+1129
+01:06:38.960 --> 01:06:40.049
+Kostadis Roussos: Yeah, right? Okay.
+
+1130
+01:06:40.750 --> 01:06:43.180
+Gary Young: DC13, Dex save….
+
+1131
+01:06:44.320 --> 01:06:45.360
+Kostadis Roussos: Alright.
+
+1132
+01:06:46.270 --> 01:06:49.359
+Kostadis Roussos: Okay, this is my… apparently my lucky number today.
+
+1133
+01:06:49.850 --> 01:06:50.580
+Gary Young: Wow.
+
+1134
+01:06:50.940 --> 01:06:52.060
+Kostadis Roussos: But I….
+
+1135
+01:06:52.060 --> 01:06:53.129
+Wade: I don't trust you.
+
+1136
+01:06:53.130 --> 01:06:55.569
+Kostadis Roussos: No, but I have a plus 2, so it's, saved.
+
+1137
+01:06:55.890 --> 01:06:56.740
+Kostadis Roussos: But, but yes.
+
+1138
+01:06:56.740 --> 01:06:59.189
+Gary Young: I think it's safe for zero, so….
+
+1139
+01:06:59.620 --> 01:07:00.490
+Kostadis Roussos: Alright.
+
+1140
+01:07:00.590 --> 01:07:04.490
+Kostadis Roussos: Yeah. Okay, so who is… is it….
+
+1141
+01:07:04.490 --> 01:07:05.729
+Wade: Shark's time.
+
+1142
+01:07:06.200 --> 01:07:09.049
+Kostadis Roussos: Shark time, alright. The two sharks attack the frog.
+
+1143
+01:07:09.050 --> 01:07:09.990
+Wade: Hey, Toad.
+
+1144
+01:07:10.340 --> 01:07:10.670
+Kostadis Roussos: Toad.
+
+1145
+01:07:10.670 --> 01:07:11.940
+Gary Young: Really? Both of them?
+
+1146
+01:07:13.290 --> 01:07:16.780
+Kostadis Roussos: Oh, oh, wait, there's a… there's a tasty human treat.
+
+1147
+01:07:17.410 --> 01:07:18.120
+Kostadis Roussos: Hmm….
+
+1148
+01:07:19.140 --> 01:07:20.000
+Wade: There's both.
+
+1149
+01:07:20.560 --> 01:07:27.069
+Kostadis Roussos: Alright, one attacks the frog, and the other one attacks the human treat. Okay, so this is for the toad.
+
+1150
+01:07:27.690 --> 01:07:28.979
+Kostadis Roussos: And they….
+
+1151
+01:07:28.980 --> 01:07:30.150
+Wade: Two hits, yeah, alright.
+
+1152
+01:07:30.150 --> 01:07:31.560
+Kostadis Roussos: That's one hint that… that's one.
+
+1153
+01:07:31.560 --> 01:07:33.539
+Wade: Well, either one would hit, yeah, just saying.
+
+1154
+01:07:33.540 --> 01:07:41.430
+Kostadis Roussos: Right, so 3D6… Plus 4… Or 16 points of damage, and then the other… and the other one attacks….
+
+1155
+01:07:41.430 --> 01:07:42.250
+Wade: 6.
+
+1156
+01:07:42.570 --> 01:07:46.160
+Kostadis Roussos: And the other one attacks Brewbarry… Or…
+
+1157
+01:07:47.540 --> 01:07:50.220
+Kostadis Roussos: Divide by 2, I presume, so 8 points of damage.
+
+1158
+01:07:51.050 --> 01:07:52.540
+Gary Young: It has an advantage?
+
+1159
+01:07:53.590 --> 01:07:58.479
+Kostadis Roussos: No, no, I'm just looking at the first die, it automatically rules advantage.
+
+1160
+01:07:58.480 --> 01:08:00.110
+Gary Young: I see. Okay.
+
+1161
+01:08:00.580 --> 01:08:06.540
+Kostadis Roussos: I just, … It already automatically rolls Advantage and automatically rolls disadvantage.
+
+1162
+01:08:08.520 --> 01:08:11.370
+Kostadis Roussos: Right, so you take 8 points of damage since you are raging.
+
+1163
+01:08:13.970 --> 01:08:16.790
+Gary Young: And it will shrug off one point of damage.
+
+1164
+01:08:17.100 --> 01:08:19.020
+Kostadis Roussos: Alright. Alright.
+
+1165
+01:08:20.950 --> 01:08:22.170
+Kostadis Roussos: Okay.
+
+1166
+01:08:23.870 --> 01:08:25.840
+Kostadis Roussos: Brewbarry, you are up.
+
+1167
+01:08:26.479 --> 01:08:27.510
+Gary Young: Okay.
+
+1168
+01:08:27.880 --> 01:08:32.770
+Gary Young: Now, maybe I can do some damage. So I'm gonna attack… Number 2….
+
+1169
+01:08:33.550 --> 01:08:34.120
+Kostadis Roussos: Yep.
+
+1170
+01:08:36.779 --> 01:08:37.409
+Kostadis Roussos: That is a hit.
+
+1171
+01:08:38.090 --> 01:08:40.320
+Gary Young: Hope that cleave also goes through.
+
+1172
+01:08:40.830 --> 01:08:42.959
+Kostadis Roussos: Yeah, both of those are hits, they have an AC of 12.
+
+1173
+01:08:43.340 --> 01:08:50.300
+Gary Young: So, 14 and 9. That was 14 plus 2.
+
+1174
+01:08:54.689 --> 01:08:58.889
+Gary Young: And then… does the cleave also get rage damage bonus?
+
+1175
+01:08:58.890 --> 01:09:01.129
+Kostadis Roussos: Yes, yes, it's for all your attacks.
+
+1176
+01:09:02.220 --> 01:09:02.810
+Gary Young: Okay.
+
+1177
+01:09:02.810 --> 01:09:04.829
+Kostadis Roussos: It's not for… it's not for an attack.
+
+1178
+01:09:06.290 --> 01:09:07.300
+Kostadis Roussos: Okay.
+
+1179
+01:09:08.750 --> 01:09:10.280
+Kostadis Roussos: Soma, you're up.
+
+1180
+01:09:10.640 --> 01:09:12.359
+Wade: Alright, ….
+
+1181
+01:09:12.840 --> 01:09:15.810
+Kostadis Roussos: Valphine, you gonna heal her? Or she should heal herself.
+
+1182
+01:09:17.050 --> 01:09:20.679
+Gary Young: Well, part of the goal was to do the healing after….
+
+1183
+01:09:20.689 --> 01:09:21.129
+Wade: That's a reaction.
+
+1184
+01:09:21.130 --> 01:09:21.930
+Gary Young: True.
+
+1185
+01:09:22.750 --> 01:09:29.310
+Wade: Well, you know, you'll have an action before they fire again, so you can heal me at 6 hitch points, which is probably as good as 0.
+
+1186
+01:09:29.319 --> 01:09:31.409
+David Mendenhall: This is 5, it's close enough to zero.
+
+1187
+01:09:31.410 --> 01:09:32.350
+Wade: Yeah. Well, the thing is.
+
+1188
+01:09:32.350 --> 01:09:36.899
+Gary Young: It's not going to make the difference between dropping and not, probably.
+
+1189
+01:09:37.620 --> 01:09:42.619
+Wade: Oh, you're saying you want me to eat the whole attack, because I'll do, like, 16 damage, which will just eat it down to 10.
+
+1190
+01:09:44.109 --> 01:09:44.869
+Kostadis Roussos: I see.
+
+1191
+01:09:44.870 --> 01:09:53.300
+Wade: I see… the problem is, yeah, you'll act… I'll stand up right after, but whatever. Let's see if we can't just take one out. I was considering disengaging, but I don't.
+
+1192
+01:09:53.300 --> 01:09:55.020
+David Mendenhall: I don't think I can disengage one.
+
+1193
+01:09:55.020 --> 01:09:55.720
+Wade: Yeah.
+
+1194
+01:09:56.200 --> 01:09:56.530
+Gary Young: Yeah.
+
+1195
+01:09:56.530 --> 01:10:00.429
+Wade: That's fine. I go down fighting, so continuing my assault on 2…
+
+1196
+01:10:00.970 --> 01:10:03.770
+Wade: … and that is a whiff!
+
+1197
+01:10:03.770 --> 01:10:04.980
+Kostadis Roussos: That is a whiff.
+
+1198
+01:10:04.980 --> 01:10:07.090
+David Mendenhall: It would have been 14, too.
+
+1199
+01:10:07.090 --> 01:10:08.739
+Wade: Would have been nice, oh well.
+
+1200
+01:10:08.900 --> 01:10:10.189
+Wade: Still wouldn't have been dead.
+
+1201
+01:10:10.390 --> 01:10:10.970
+Wade: Unlike.
+
+1202
+01:10:10.970 --> 01:10:12.900
+Kostadis Roussos: Vukradin.
+
+1203
+01:10:13.470 --> 01:10:14.220
+Wade: legs are on.
+
+1204
+01:10:14.330 --> 01:10:16.530
+David Mendenhall: Can I try to sleep both of them?
+
+1205
+01:10:17.470 --> 01:10:18.090
+Kostadis Roussos: Sure.
+
+1206
+01:10:18.990 --> 01:10:20.699
+David Mendenhall: Yeah, why don't we try that?
+
+1207
+01:10:25.390 --> 01:10:26.900
+David Mendenhall: Wisdom saves.
+
+1208
+01:10:27.680 --> 01:10:31.540
+Kostadis Roussos: The first one fails its Satan throw, and the second one, they both fail.
+
+1209
+01:10:31.540 --> 01:10:32.779
+David Mendenhall: So they're both asleep.
+
+1210
+01:10:33.310 --> 01:10:35.800
+Kostadis Roussos: Now, if they take damage, they will wake up.
+
+1211
+01:10:37.800 --> 01:10:39.770
+Gary Young: And so my cleave is not helpful then.
+
+1212
+01:10:40.370 --> 01:10:41.920
+Wade: Well, no, your cleave is….
+
+1213
+01:10:41.920 --> 01:10:43.930
+David Mendenhall: Oh, I mean, after they have an initiative.
+
+1214
+01:10:43.930 --> 01:10:44.640
+Wade: Great.
+
+1215
+01:10:44.790 --> 01:10:49.380
+Kostadis Roussos: Yeah, it's… Or, I mean, or how long does the sleep spell last for?
+
+1216
+01:10:49.630 --> 01:10:51.340
+Wade: It's only gonna last one round anyway.
+
+1217
+01:10:51.340 --> 01:10:54.539
+David Mendenhall: No, it's… it can be… they get another save next round.
+
+1218
+01:10:56.460 --> 01:10:57.250
+Wade: Oh yeah, I'm just saying.
+
+1219
+01:10:57.250 --> 01:10:59.450
+David Mendenhall: Okay, it's potentially indefinite.
+
+1220
+01:10:59.450 --> 01:11:00.590
+Wade: We're gonna wake him up pretty.
+
+1221
+01:11:00.590 --> 01:11:05.060
+David Mendenhall: Alright, so… Valphine is up.
+
+1222
+01:11:07.860 --> 01:11:08.600
+Gary Young: Okay.
+
+1223
+01:11:18.730 --> 01:11:22.730
+Gary Young: So, I'm gonna try, … This.
+
+1224
+01:11:26.240 --> 01:11:28.469
+Wade: Oh, you're gonna give advantage to the next attack?
+
+1225
+01:11:29.180 --> 01:11:32.400
+Gary Young: I think it's more than the next attack.
+
+1226
+01:11:34.490 --> 01:11:36.130
+Gary Young: Very effective. Concentration up to 1?
+
+1227
+01:11:36.130 --> 01:11:38.429
+David Mendenhall: I'll deck saves if they are asleep.
+
+1228
+01:11:44.040 --> 01:11:47.019
+Gary Young: Yeah, this is, they have, …
+
+1229
+01:11:47.670 --> 01:11:52.310
+Gary Young: attackers have advantage, until I lose concentration.
+
+1230
+01:11:52.610 --> 01:11:57.499
+Wade: Oh yeah, it's all attack rolls, not just… oh, right, it was Guiding Bolt or whatever that was the next attack.
+
+1231
+01:11:59.410 --> 01:12:00.250
+Kostadis Roussos: Okay.
+
+1232
+01:12:00.700 --> 01:12:05.940
+David Mendenhall: Do, … do they have to make saves, or since… do they auto-fail because they're asleep?
+
+1233
+01:12:07.000 --> 01:12:08.110
+Kostadis Roussos: They auto-fail.
+
+1234
+01:12:08.110 --> 01:12:10.280
+David Mendenhall: Yeah, okay, so they both have Fairy Fire now.
+
+1235
+01:12:13.830 --> 01:12:14.210
+Kostadis Roussos: Alright.
+
+1236
+01:12:14.540 --> 01:12:15.739
+David Mendenhall: That was a good play.
+
+1237
+01:12:16.720 --> 01:12:17.770
+Gary Young: Okay.
+
+1238
+01:12:17.970 --> 01:12:19.760
+David Mendenhall: Alright, Brewbarry, they're still asleep.
+
+1239
+01:12:21.170 --> 01:12:21.760
+Gary Young: Okay.
+
+1240
+01:12:21.760 --> 01:12:23.849
+David Mendenhall: Attack if you want to keep your rage.
+
+1241
+01:12:24.100 --> 01:12:26.210
+Gary Young: But now I can attack them, right?
+
+1242
+01:12:26.210 --> 01:12:28.849
+Kostadis Roussos: If I don't attack, I lose my rage, right.
+
+1243
+01:12:29.160 --> 01:12:29.690
+Kostadis Roussos: Yes.
+
+1244
+01:12:29.690 --> 01:12:31.980
+Gary Young: No, I guess I could just keep….
+
+1245
+01:12:32.590 --> 01:12:34.459
+David Mendenhall: We're gonna attack just number 2.
+
+1246
+01:12:34.950 --> 01:12:36.420
+David Mendenhall: And keep 3 asleep.
+
+1247
+01:12:38.640 --> 01:12:41.849
+Gary Young: … sure. Alright.
+
+1248
+01:12:42.940 --> 01:12:46.789
+Gary Young: Well, at the very least, I can do that attack first, and then we see what happens, right?
+
+1249
+01:12:47.250 --> 01:12:47.830
+Kostadis Roussos: What?
+
+1250
+01:12:48.640 --> 01:12:54.080
+Gary Young: … So, that's with Advantage.
+
+1251
+01:12:55.290 --> 01:12:56.389
+Kostadis Roussos: 5 points of damage?
+
+1252
+01:12:57.250 --> 01:12:58.100
+Kostadis Roussos: 7.7.
+
+1253
+01:12:58.100 --> 01:12:59.539
+Gary Young: 7 damage.
+
+1254
+01:13:00.380 --> 01:13:03.930
+Wade: Game to 11… And he wakes up.
+
+1255
+01:13:04.170 --> 01:13:04.530
+David Mendenhall: Yep.
+
+1256
+01:13:04.530 --> 01:13:09.310
+Gary Young: Yes. And I guess we would not cleave, given that attack roll.
+
+1257
+01:13:10.150 --> 01:13:10.880
+Kostadis Roussos: Alright?
+
+1258
+01:13:13.060 --> 01:13:20.890
+Kostadis Roussos: Alrighty. So first let me roll for the same… let me… okay, so the shark… sharky goes, what the heck? And attacks Brewbarry.
+
+1259
+01:13:21.520 --> 01:13:22.110
+Kostadis Roussos: And great.
+
+1260
+01:13:22.110 --> 01:13:23.360
+David Mendenhall: What? Don't know that.
+
+1261
+01:13:23.360 --> 01:13:23.820
+Wade: how.
+
+1262
+01:13:23.820 --> 01:13:25.549
+David Mendenhall: No, it's Soma's turn.
+
+1263
+01:13:25.550 --> 01:13:26.040
+Wade: Yeah.
+
+1264
+01:13:26.040 --> 01:13:27.700
+Kostadis Roussos: Oh, oh, I'm sorry.
+
+1265
+01:13:27.700 --> 01:13:28.459
+David Mendenhall: It's so miserable.
+
+1266
+01:13:28.460 --> 01:13:33.300
+Wade: Yeah, Sharky's turn was skipped because he was asleep. I mean, they could have tried to… to wake up on that, right?
+
+1267
+01:13:33.300 --> 01:13:35.410
+David Mendenhall: Yeah, ….
+
+1268
+01:13:36.210 --> 01:13:37.699
+Kostadis Roussos: Oh, swimming for the….
+
+1269
+01:13:39.000 --> 01:13:42.889
+Wade: I think they should have gotten a chance to wake up before Brewbarry's attack, but otherwise….
+
+1270
+01:13:44.110 --> 01:13:50.959
+David Mendenhall: Oh yeah, it gets… it… No, he gets an attempt to wake up after he lost his action.
+
+1271
+01:13:50.960 --> 01:13:51.610
+Wade: Okay.
+
+1272
+01:13:51.610 --> 01:13:55.819
+David Mendenhall: So you could do 2 more… you could do 2 more 13 saves.
+
+1273
+01:13:55.820 --> 01:14:02.209
+Kostadis Roussos: I did… I did two more, so the guy that was asleep is awake. He would have made his saving throw as well, so everybody's fine.
+
+1274
+01:14:02.310 --> 01:14:03.280
+Wade: Alright. Okay.
+
+1275
+01:14:03.670 --> 01:14:06.740
+Kostadis Roussos: So, nothing's changed. The state is exactly the way it was.
+
+1276
+01:14:06.740 --> 01:14:07.370
+Wade: Yeah.
+
+1277
+01:14:07.370 --> 01:14:08.150
+Kostadis Roussos: Right.
+
+1278
+01:14:08.640 --> 01:14:09.190
+Wade: ….
+
+1279
+01:14:09.540 --> 01:14:11.070
+Gary Young: They did or didn't wake up.
+
+1280
+01:14:11.300 --> 01:14:13.189
+Wade: Did… they didn't get a chance to.
+
+1281
+01:14:13.630 --> 01:14:16.629
+Kostadis Roussos: Number 2 woke up, number 3 is still asleep.
+
+1282
+01:14:16.630 --> 01:14:18.269
+Wade: Number 2 woke up when he got punched.
+
+1283
+01:14:18.270 --> 01:14:22.049
+David Mendenhall: And so 3 is now, we'll stay asleep until we attack him.
+
+1284
+01:14:22.050 --> 01:14:27.750
+Kostadis Roussos: Yes, yes, and number 2 would… 2 would have made his saving throw, but since you attacked him, it doesn't count. Does that make sense?
+
+1285
+01:14:27.750 --> 01:14:28.209
+David Mendenhall: It doesn't.
+
+1286
+01:14:28.210 --> 01:14:31.859
+Wade: I wasn't supposed to get a saving throw, I had to lose one action before I got to throw, right?
+
+1287
+01:14:32.500 --> 01:14:34.749
+David Mendenhall: He gets it after… after his turn.
+
+1288
+01:14:35.250 --> 01:14:36.010
+Kostadis Roussos: The end of his strength.
+
+1289
+01:14:36.010 --> 01:14:37.430
+David Mendenhall: At the end of his term.
+
+1290
+01:14:37.430 --> 01:14:39.760
+Gary Young: But I still had advantage because of the ferry fire.
+
+1291
+01:14:39.760 --> 01:14:41.719
+David Mendenhall: Correct. Alright, Soma's up.
+
+1292
+01:14:41.720 --> 01:14:45.349
+Wade: Oh, right, I gotta put this advantage, thank you for reminding me. …
+
+1293
+01:14:46.790 --> 01:14:53.109
+Wade: Hey, double 21s! 12 damage, and go ahead and see if he's grappled. Not that I really want to hold onto this thing that's gonna kill.
+
+1294
+01:14:53.110 --> 01:14:54.420
+David Mendenhall: Damage, he'd be dead.
+
+1295
+01:14:54.620 --> 01:14:56.459
+Wade: Oh, he's at 11? Yeah, he's dead.
+
+1296
+01:14:57.140 --> 01:14:58.600
+Kostadis Roussos: A… alright.
+
+1297
+01:14:59.080 --> 01:15:00.689
+Wade: I still want to know if I grapple that.
+
+1298
+01:15:01.500 --> 01:15:02.310
+Kostadis Roussos: Well, I mean.
+
+1299
+01:15:02.310 --> 01:15:03.329
+Wade: No, it's fine, I'm kidding.
+
+1300
+01:15:03.330 --> 01:15:06.790
+Kostadis Roussos: You know, you grappled the dead shark.
+
+1301
+01:15:08.200 --> 01:15:11.250
+Gary Young: Well, you can munch on the shark crate.
+
+1302
+01:15:11.250 --> 01:15:15.670
+Kostadis Roussos: you're a toad, you can munch on the shark. I don't know.
+
+1303
+01:15:15.670 --> 01:15:17.360
+Wade: Toads are carnivorous?
+
+1304
+01:15:17.490 --> 01:15:20.500
+Wade: I guess, no, they probably eat, like, skeeters and such, yeah.
+
+1305
+01:15:22.900 --> 01:15:24.160
+Gary Young: Okay, for Croton.
+
+1306
+01:15:25.860 --> 01:15:27.490
+Kostadis Roussos: Oh, toads are carnivorous.
+
+1307
+01:15:27.490 --> 01:15:28.190
+Wade: Yeah.
+
+1308
+01:15:29.680 --> 01:15:32.300
+Kostadis Roussos: So, they eat worms, spiders, slugs.
+
+1309
+01:15:33.000 --> 01:15:34.340
+Wade: Yeah, skeeters and such.
+
+1310
+01:15:35.780 --> 01:15:38.890
+Kostadis Roussos: And including birds and snakes.
+
+1311
+01:15:38.890 --> 01:15:39.859
+Gary Young: Little ones, yeah.
+
+1312
+01:15:40.130 --> 01:15:42.340
+David Mendenhall: Wisdom Save, 13.
+
+1313
+01:15:42.340 --> 01:15:47.030
+Kostadis Roussos: So… So the question remains, do you start chomping?
+
+1314
+01:15:47.580 --> 01:15:52.589
+Wade: No, I don't chew… I'm fighting for my life here. Okay. Not for a snack.
+
+1315
+01:15:52.590 --> 01:16:00.199
+David Mendenhall: I've got good news and bad news for you. The good news is you made you save, and you took no damage. The bad news is that means you're still asleep. Valphine.
+
+1316
+01:16:04.370 --> 01:16:05.230
+Gary Young: Okay.
+
+1317
+01:16:08.540 --> 01:16:11.709
+Gary Young: Wait, so… I don't want to do damage, correct?
+
+1318
+01:16:12.910 --> 01:16:15.959
+David Mendenhall: No, it's okay to do damage, we're gonna have to kill it at some point.
+
+1319
+01:16:16.310 --> 01:16:18.259
+Wade: Well, yeah, if you do damage now, it'll auto….
+
+1320
+01:16:18.260 --> 01:16:18.919
+David Mendenhall: The thing is, is if you.
+
+1321
+01:16:18.920 --> 01:16:19.659
+Wade: Probably gonna kill me.
+
+1322
+01:16:19.660 --> 01:16:23.929
+David Mendenhall: If you miss, your consolation prize is he remains asleep.
+
+1323
+01:16:24.890 --> 01:16:29.489
+Gary Young: Yeah, I think I will not attack this round, just to make sure that he skips his next.
+
+1324
+01:16:29.490 --> 01:16:32.679
+David Mendenhall: Do you want a ready? You want a ready for after Brewbarry?
+
+1325
+01:16:33.710 --> 01:16:36.949
+Gary Young: Oh, yeah, coordinated attack with, Brewbarry? Yeah.
+
+1326
+01:16:36.950 --> 01:16:41.919
+David Mendenhall: That's a good question. So then… so then he misses his action, and Brewbarry….
+
+1327
+01:16:41.920 --> 01:16:44.039
+Wade: And he gets a saving throw, right?
+
+1328
+01:16:44.040 --> 01:16:45.129
+Kostadis Roussos: Do I get a 17th?
+
+1329
+01:16:45.330 --> 01:16:48.140
+David Mendenhall: You do not, you only get the two, and you blew both of them.
+
+1330
+01:16:48.340 --> 01:16:51.040
+Wade: Oh, and then he literally is asleep indefinitely, huh?
+
+1331
+01:16:51.040 --> 01:16:51.490
+Kostadis Roussos: Yep.
+
+1332
+01:16:51.490 --> 01:16:55.370
+David Mendenhall: Until he takes damage. Or someone wakes him, but there's nobody to wake him.
+
+1333
+01:16:55.370 --> 01:16:59.139
+Kostadis Roussos: Wait, or, I mean, you could just explore all the rest of the wrecks.
+
+1334
+01:16:59.370 --> 01:17:00.299
+Gary Young: No, we're just gonna kill it.
+
+1335
+01:17:00.560 --> 01:17:01.470
+Kostadis Roussos: We're gonna kill it.
+
+1336
+01:17:01.470 --> 01:17:03.190
+Wade: We've got the bloodlust.
+
+1337
+01:17:03.440 --> 01:17:03.860
+Gary Young: Yeah.
+
+1338
+01:17:03.860 --> 01:17:06.839
+Kostadis Roussos: I was… that's 17 points of damage.
+
+1339
+01:17:07.300 --> 01:17:12.919
+Gary Young: Sorry. And then… Valphine does the coordinated, ….
+
+1340
+01:17:13.300 --> 01:17:14.530
+Wade: That's incredible.
+
+1341
+01:17:14.530 --> 01:17:16.320
+Kostadis Roussos: 19… 19 points of damage.
+
+1342
+01:17:16.320 --> 01:17:17.390
+David Mendenhall: Right?
+
+1343
+01:17:17.760 --> 01:17:19.030
+Kostadis Roussos: Yeah, 22 points of damage.
+
+1344
+01:17:21.990 --> 01:17:23.960
+Wade: Plus another 3 for the….
+
+1345
+01:17:24.210 --> 01:17:26.190
+Kostadis Roussos: No, that's 22 altogether.
+
+1346
+01:17:26.190 --> 01:17:29.910
+Wade: Oh yeah, but then the sacred flame comes in after.
+
+1347
+01:17:30.510 --> 01:17:32.690
+Kostadis Roussos: No, it was 19 without the sake of time.
+
+1348
+01:17:32.690 --> 01:17:34.419
+David Mendenhall: Another 3, another 3.
+
+1349
+01:17:34.420 --> 01:17:36.680
+Gary Young: But you can save against the secret fleet.
+
+1350
+01:17:37.020 --> 01:17:40.130
+Kostadis Roussos: Yes, I can, … well, I guess I can.
+
+1351
+01:17:40.670 --> 01:17:41.380
+Kostadis Roussos: Oh, you did?
+
+1352
+01:17:41.380 --> 01:17:42.440
+Wade: Yeah, you do.
+
+1353
+01:17:42.740 --> 01:17:43.320
+Kostadis Roussos: And I do.
+
+1354
+01:17:43.320 --> 01:17:44.630
+David Mendenhall: 5 to 15, alright.
+
+1355
+01:17:44.630 --> 01:17:48.490
+Kostadis Roussos: So, no, the total damage should be a… Got it.
+
+1356
+01:17:48.800 --> 01:17:50.300
+Wade: Oh, so my is awesome.
+
+1357
+01:17:50.300 --> 01:17:53.460
+David Mendenhall: Fairy fired, right? He is still fairy fired.
+
+1358
+01:17:53.570 --> 01:17:54.049
+Wade: Let's go.
+
+1359
+01:17:54.050 --> 01:17:54.900
+Gary Young: go.
+
+1360
+01:17:55.540 --> 01:17:57.379
+Wade: And go ahead and check the grapple.
+
+1361
+01:17:58.400 --> 01:17:59.220
+Kostadis Roussos: Alright.
+
+1362
+01:17:59.220 --> 01:18:02.149
+Wade: So that's another 11, so….
+
+1363
+01:18:02.150 --> 01:18:03.749
+Kostadis Roussos: I have been grappled.
+
+1364
+01:18:03.750 --> 01:18:07.120
+Wade: Alright, I can carry them with me. Wanna bring him up on land?
+
+1365
+01:18:09.250 --> 01:18:12.430
+Wade: I have no plans to actually carry him anywhere, but he is grep.
+
+1366
+01:18:12.430 --> 01:18:12.840
+Kostadis Roussos: Nobody's.
+
+1367
+01:18:12.840 --> 01:18:15.120
+David Mendenhall: I have advantage on this attack?
+
+1368
+01:18:15.390 --> 01:18:16.070
+Gary Young: Did I?
+
+1369
+01:18:16.070 --> 01:18:21.480
+Kostadis Roussos: I mean, strictly speaking, you could carry him on land, and he would die of asphyxiation.
+
+1370
+01:18:21.480 --> 01:18:21.959
+David Mendenhall: He's dead.
+
+1371
+01:18:21.960 --> 01:18:23.270
+Wade: That's… that seems cruel.
+
+1372
+01:18:23.270 --> 01:18:24.720
+David Mendenhall: He's dead. He's dead.
+
+1373
+01:18:24.720 --> 01:18:26.410
+Wade: I need to torture the shark.
+
+1374
+01:18:26.540 --> 01:18:27.010
+David Mendenhall: He's dead.
+
+1375
+01:18:27.010 --> 01:18:28.789
+Kostadis Roussos: Alright. Alright.
+
+1376
+01:18:29.270 --> 01:18:30.340
+Gary Young: Okay.
+
+1377
+01:18:30.390 --> 01:18:31.590
+Kostadis Roussos: I was just thinking if we couldn't.
+
+1378
+01:18:32.560 --> 01:18:38.719
+Wade: Alright, so, you know, after hanging around all these, wood, this is not, like, suitable firewood.
+
+1379
+01:18:41.210 --> 01:18:45.160
+Wade: It's all soaked! Like, we'd have to dry it out before we can light it.
+
+1380
+01:18:45.160 --> 01:18:48.529
+Kostadis Roussos: Do you want to keep looking? But you did find some treasure, do you want to.
+
+1381
+01:18:48.530 --> 01:18:50.669
+Wade: No, we found some treasure, but I, like…
+
+1382
+01:18:50.770 --> 01:18:54.350
+Wade: Swipping around underwater with wood has made me realize….
+
+1383
+01:18:54.350 --> 01:19:02.510
+David Mendenhall: I'm gonna go… I'm gonna go drag the wood out, I'm gonna bring it over here, I'm going to… what am I gonna do to dry it out?
+
+1384
+01:19:02.880 --> 01:19:12.369
+Kostadis Roussos: Alright, while he's doing that, what do the rest of you doing? While Brewerdin is… I mean, Vukradin also remembers that there's some furniture in Moesko's room that he could use as firewood.
+
+1385
+01:19:12.650 --> 01:19:13.120
+Wade: Heh.
+
+1386
+01:19:13.120 --> 01:19:15.010
+Gary Young: … I mean.
+
+1387
+01:19:15.010 --> 01:19:16.920
+Wade: If we can, if we can get, like, a starter fighter….
+
+1388
+01:19:16.920 --> 01:19:17.489
+David Mendenhall: You know, it's.
+
+1389
+01:19:17.490 --> 01:19:17.900
+Wade: dry out.
+
+1390
+01:19:17.900 --> 01:19:26.230
+David Mendenhall: that this lighthouse have an adequate stockpile of wood for the fires. I'm gonna… I'm gonna be dragging all the wood out.
+
+1391
+01:19:26.230 --> 01:19:32.050
+Wade: For the record, I'm okay with getting the wood. I'm just like, this is not good wood for a starting.
+
+1392
+01:19:32.050 --> 01:19:34.140
+David Mendenhall: Well, it will dry out eventually.
+
+1393
+01:19:34.140 --> 01:19:39.060
+Wade: Yeah, like, at the heat death of the universe kind of thing, or in a couple, like, a day or two.
+
+1394
+01:19:39.270 --> 01:19:46.499
+Gary Young: … In the meantime, Vukradin sees… sorry, Brewbarry sees some delicious whitefish.
+
+1395
+01:19:47.840 --> 01:19:50.060
+Kostadis Roussos: Alright, okay.
+
+1396
+01:19:50.840 --> 01:19:54.290
+Wade: … I don't know. I move on to the next wreck.
+
+1397
+01:19:54.610 --> 01:19:56.160
+Kostadis Roussos: Alright, you move on to the next rec.
+
+1398
+01:19:56.720 --> 01:20:00.050
+Kostadis Roussos: Starf… okay, so this is the sea urchin.
+
+1399
+01:20:01.630 --> 01:20:03.890
+Wade: I am literate, thank you.
+
+1400
+01:20:04.110 --> 01:20:06.120
+David Mendenhall: That's why I didn't ask.
+
+1401
+01:20:07.120 --> 01:20:08.820
+Kostadis Roussos: Sea urchin, alright.
+
+1402
+01:20:08.950 --> 01:20:18.730
+Kostadis Roussos: Starfish clinging to a locked chest filled with straw, within which is packed… so you find a locked chest with starfish clinging onto it.
+
+1403
+01:20:19.310 --> 01:20:21.670
+Wade: Can I just, like, chuck the chest onto land?
+
+1404
+01:20:22.660 --> 01:20:25.989
+Kostadis Roussos: You can pick up the chest, yes. Do you want to… do you take the chest? I presume you take.
+
+1405
+01:20:25.990 --> 01:20:28.900
+Wade: Yeah, I'll just ferry it over to the shore for now.
+
+1406
+01:20:29.140 --> 01:20:29.970
+Kostadis Roussos: Alright.
+
+1407
+01:20:30.480 --> 01:20:31.679
+Wade: Somebody else deal with it?
+
+1408
+01:20:32.820 --> 01:20:33.309
+Kostadis Roussos: ….
+
+1409
+01:20:33.800 --> 01:20:38.640
+Wade: I don't think, toad hands are dexterous enough to operate a lock.
+
+1410
+01:20:38.640 --> 01:20:40.570
+Kostadis Roussos: No, no, no, they are not. Alright.
+
+1411
+01:20:41.300 --> 01:20:46.089
+Gary Young: Very able to haul the chest up, as well as the, shark meat.
+
+1412
+01:20:47.090 --> 01:20:48.479
+Wade: Oh, we're gonna save the shark meat.
+
+1413
+01:20:48.480 --> 01:20:51.030
+David Mendenhall: He's busy taking the shark meat.
+
+1414
+01:20:51.030 --> 01:20:54.019
+Wade: I'm gonna make a necklace of the shark teeth, like a good old Hawaiian.
+
+1415
+01:20:55.740 --> 01:20:56.700
+Gary Young: Sure.
+
+1416
+01:20:58.000 --> 01:20:58.340
+Kostadis Roussos: Alright.
+
+1417
+01:20:58.340 --> 01:20:59.459
+David Mendenhall: tooth necklace.
+
+1418
+01:21:01.150 --> 01:21:02.190
+Kostadis Roussos: ….
+
+1419
+01:21:02.190 --> 01:21:03.920
+Wade: Onto the Vainglory.
+
+1420
+01:21:04.330 --> 01:21:05.540
+Kostadis Roussos: Yeah, the Vainglory?
+
+1421
+01:21:05.780 --> 01:21:08.829
+Kostadis Roussos: You find a cloak?
+
+1422
+01:21:10.300 --> 01:21:16.130
+Kostadis Roussos: A magical cloak? You suspect it's magical, because it has not disintegrated under the water.
+
+1423
+01:21:16.130 --> 01:21:16.590
+Wade: Benefit.
+
+1424
+01:21:16.590 --> 01:21:21.090
+Kostadis Roussos: it is… Do you take the cloak?
+
+1425
+01:21:21.620 --> 01:21:22.920
+Wade: Sure.
+
+1426
+01:21:23.820 --> 01:21:25.879
+Wade: Vukradin can't see me doing this.
+
+1427
+01:21:26.160 --> 01:21:29.169
+Wade: It looks cozy. Fashionable!
+
+1428
+01:21:29.510 --> 01:21:30.210
+Kostadis Roussos: Yeah.
+
+1429
+01:21:31.300 --> 01:21:32.070
+Kostadis Roussos: Alright.
+
+1430
+01:21:32.070 --> 01:21:36.100
+Wade: Oh, dude, that is so perfect for Vukradin, though. It's a shame that he won't take it.
+
+1431
+01:21:37.370 --> 01:21:39.790
+Wade: You'd have, like, your old Technicolor dream coat for your shit.
+
+1432
+01:21:39.790 --> 01:21:44.700
+David Mendenhall: Actually, I was thinking that same thing. I'm like, oh, that actually is in character, but he won't take it.
+
+1433
+01:21:44.800 --> 01:21:46.170
+Kostadis Roussos: Well, hold on, hold on.
+
+1434
+01:21:46.170 --> 01:21:48.469
+Wade: Well, you don't… you didn't see where it came from, maybe I….
+
+1435
+01:21:48.470 --> 01:21:50.999
+David Mendenhall: Maybe, maybe he'll be a little bit corrupted by that one.
+
+1436
+01:21:54.260 --> 01:21:54.830
+David Mendenhall: Hampton.
+
+1437
+01:21:54.830 --> 01:21:57.119
+Kostadis Roussos: So far… so far, you know.
+
+1438
+01:21:57.440 --> 01:21:59.019
+David Mendenhall: He's being… he's being tempted.
+
+1439
+01:21:59.390 --> 01:21:59.750
+Kostadis Roussos: Amen.
+
+1440
+01:21:59.750 --> 01:22:01.029
+Gary Young: What's happening here?
+
+1441
+01:22:01.480 --> 01:22:06.299
+Wade: Intentional. Well, when we come out of the water, we'll discuss it.
+
+1442
+01:22:06.520 --> 01:22:08.600
+Kostadis Roussos: Temptation is, is, is, is.
+
+1443
+01:22:08.710 --> 01:22:09.340
+Kostadis Roussos: The first step.
+
+1444
+01:22:09.340 --> 01:22:11.840
+Wade: It's such a perfect Vukradin item, too.
+
+1445
+01:22:14.030 --> 01:22:15.330
+Kostadis Roussos: Alright. Aye.
+
+1446
+01:22:15.330 --> 01:22:19.439
+Wade: I mean, I just continue exploring T13 and T14 until I die, I guess.
+
+1447
+01:22:19.440 --> 01:22:21.809
+Kostadis Roussos: You guys should find another locked chest?
+
+1448
+01:22:21.810 --> 01:22:24.000
+Wade: Yep, go ahead and chuck it onto land.
+
+1449
+01:22:24.540 --> 01:22:25.460
+Kostadis Roussos: Alright.
+
+1450
+01:22:25.580 --> 01:22:30.220
+Kostadis Roussos: Well, since… since I'm assuming… since that's what you're doing, I'll just tell you what it is. It contains….
+
+1451
+01:22:30.220 --> 01:22:32.859
+David Mendenhall: Oh, so the first chest… Oh, we didn't open that chest.
+
+1452
+01:22:33.310 --> 01:22:36.839
+Wade: I just… I can't open them, I'm chucking them on land for you guys, like….
+
+1453
+01:22:36.840 --> 01:22:41.820
+Kostadis Roussos: Okay, alright, fine. I'm not… I'm not getting into this debate. ….
+
+1454
+01:22:44.440 --> 01:22:47.450
+David Mendenhall: Oh, why are we opening other people's chests?
+
+1455
+01:22:47.450 --> 01:22:48.930
+Wade: I'm just a packed meal right now.
+
+1456
+01:22:48.930 --> 01:22:50.639
+David Mendenhall: We have to open that chest.
+
+1457
+01:22:50.640 --> 01:22:52.859
+Kostadis Roussos: Yeah, exactly. Okay, so….
+
+1458
+01:22:52.860 --> 01:22:54.650
+Gary Young: Let's figure out who to return it to.
+
+1459
+01:22:55.340 --> 01:22:58.459
+Kostadis Roussos: Fair, fair. Alright, and then there's another locked chest.
+
+1460
+01:22:58.750 --> 01:22:59.900
+Wade: Alright, alright. Alright, so I am….
+
+1461
+01:22:59.900 --> 01:23:09.090
+David Mendenhall: I lock chests, which will remain locked unless somebody else is picking the lock, because I sure as hell am not, even though I have a plus 6 on sleight of hand.
+
+1462
+01:23:12.000 --> 01:23:13.830
+Gary Young: Alright.
+
+1463
+01:23:13.830 --> 01:23:17.130
+Wade: Is that all that I find in the 14, as well as just a third lock chest?
+
+1464
+01:23:17.130 --> 01:23:18.210
+Kostadis Roussos: Yeah, yes.
+
+1465
+01:23:18.210 --> 01:23:24.209
+Wade: Alright, then I come back to land, and I think I drop form and heal myself. This is… dangerous.
+
+1466
+01:23:24.210 --> 01:23:31.650
+Kostadis Roussos: Alright, Valphine, you are successfully able to open the chests. They weren't particularly difficult or challenging. Alright, so… Why are you opening the chest.
+
+1467
+01:23:31.650 --> 01:23:32.809
+David Mendenhall: these chests.
+
+1468
+01:23:33.150 --> 01:23:33.869
+David Mendenhall: Those aren't yours.
+
+1469
+01:23:33.870 --> 01:23:34.630
+Kostadis Roussos: Just kidding.
+
+1470
+01:23:34.810 --> 01:23:37.150
+Gary Young: We need to figure out who to return them to, right?
+
+1471
+01:23:39.070 --> 01:23:40.749
+David Mendenhall: Did you look at the chest?
+
+1472
+01:23:41.180 --> 01:23:43.799
+David Mendenhall: Did you see maybe it has a marking on it?
+
+1473
+01:23:43.800 --> 01:23:46.929
+Gary Young: Of who the owner is? So we're checking on the inside for the.
+
+1474
+01:23:46.930 --> 01:23:49.080
+David Mendenhall: Or have chess put their names on them.
+
+1475
+01:23:49.490 --> 01:23:55.370
+Kostadis Roussos: Alright, he's having this argument with you, meanwhile you have opened the chest. Would you like to know what's in the chest?
+
+1476
+01:23:56.180 --> 01:24:05.610
+Kostadis Roussos: Well, the first one contains a packed, delicate, 9-inch tall blue quartz statute of a mermaid. Here, I'm gonna put that here.
+
+1477
+01:24:11.510 --> 01:24:15.049
+Kostadis Roussos: And… the second chest contains….
+
+1478
+01:24:19.200 --> 01:24:21.119
+Gary Young: And the third chaste….
+
+1479
+01:24:24.760 --> 01:24:25.690
+David Mendenhall: Right.
+
+1480
+01:24:26.060 --> 01:24:29.150
+Kostadis Roussos: And it also contains a spellbook, but you guys don't have any wizards.
+
+1481
+01:24:30.150 --> 01:24:35.549
+Wade: Oh yeah, I, I come out of the water, by the way, and I show Vukradin in the, the fancy cloak.
+
+1482
+01:24:37.460 --> 01:24:38.819
+Wade: Come on, man.
+
+1483
+01:24:39.440 --> 01:24:40.899
+Wade: It's a fancy cloak!
+
+1484
+01:24:41.290 --> 01:24:42.899
+Wade: I think it'd look good on you.
+
+1485
+01:24:43.820 --> 01:24:45.220
+David Mendenhall: It would look good on me.
+
+1486
+01:24:49.570 --> 01:24:54.379
+Wade: It's just, you know, lying there on the ocean floor, no owner, no nothing, just hanging out.
+
+1487
+01:24:58.280 --> 01:24:59.820
+Wade: Wand of secrets.
+
+1488
+01:25:02.080 --> 01:25:02.850
+Gary Young: Yep.
+
+1489
+01:25:03.770 --> 01:25:05.329
+Wade: Secret Door Detection.
+
+1490
+01:25:05.710 --> 01:25:06.410
+Kostadis Roussos: Yep.
+
+1491
+01:25:08.440 --> 01:25:09.200
+Kostadis Roussos: So….
+
+1492
+01:25:11.040 --> 01:25:12.060
+Gary Young: Alright.
+
+1493
+01:25:16.440 --> 01:25:25.620
+Kostadis Roussos: Alright, so, you have… So, and some fish meat, I presume?
+
+1494
+01:25:26.380 --> 01:25:27.120
+Gary Young: Yeah.
+
+1495
+01:25:27.120 --> 01:25:30.139
+David Mendenhall: Diffish meat is lawfully earned. You can eat different meat.
+
+1496
+01:25:30.150 --> 01:25:31.180
+Gary Young: Heck.
+
+1497
+01:25:31.180 --> 01:25:31.740
+Wade: Heh!
+
+1498
+01:25:34.740 --> 01:25:36.059
+David Mendenhall: I like Bird Buddy.
+
+1499
+01:25:36.170 --> 01:25:36.780
+David Mendenhall: Huh?
+
+1500
+01:25:36.780 --> 01:25:37.189
+Kostadis Roussos: I just imagine.
+
+1501
+01:25:37.190 --> 01:25:38.720
+David Mendenhall: That's just what he can take.
+
+1502
+01:25:38.950 --> 01:25:40.899
+David Mendenhall: And he knows what he can't take.
+
+1503
+01:25:41.420 --> 01:25:42.819
+Gary Young: I'm just imagining the booth.
+
+1504
+01:25:42.980 --> 01:25:43.560
+Wade: So good.
+
+1505
+01:25:43.560 --> 01:25:44.420
+Kostadis Roussos: I'm just admitting.
+
+1506
+01:25:44.700 --> 01:25:47.830
+Wade: I have 3 cheddar chests, right? We just opened them up, they're not part of the inventory.
+
+1507
+01:25:47.830 --> 01:25:48.870
+David Mendenhall: Look at the chests!
+
+1508
+01:25:49.470 --> 01:25:51.489
+Wade: You're keeping the blood chests, okay.
+
+1509
+01:25:51.650 --> 01:25:53.139
+David Mendenhall: We have to return them!
+
+1510
+01:25:53.660 --> 01:25:59.549
+Kostadis Roussos: Okay, so I'm gonna say that that is a lot of encumbrance.
+
+1511
+01:25:59.550 --> 01:26:01.220
+Wade: Yeah, it makes the game, right?
+
+1512
+01:26:02.800 --> 01:26:04.450
+Kostadis Roussos: Well played.
+
+1513
+01:26:06.400 --> 01:26:09.270
+Gary Young: Brewbarry is fine, he'll just, like, tie them to….
+
+1514
+01:26:09.270 --> 01:26:11.490
+David Mendenhall: Yeah, you can carry them, right?
+
+1515
+01:26:11.490 --> 01:26:12.855
+Kostadis Roussos: okay.
+
+1516
+01:26:13.310 --> 01:26:19.710
+David Mendenhall: Didn't we have one of my characters, like, carry a, like, a barrel of wine around all of….
+
+1517
+01:26:19.710 --> 01:26:23.779
+Wade: We just need to be, like, permanently bear form or something so I can lug this shit around, like….
+
+1518
+01:26:24.560 --> 01:26:26.970
+David Mendenhall: It's like 20, like, 20 cases worth of.
+
+1519
+01:26:32.610 --> 01:26:33.670
+Kostadis Roussos: Alright.
+
+1520
+01:26:34.280 --> 01:26:35.370
+Kostadis Roussos: Okay.
+
+1521
+01:26:36.250 --> 01:26:41.329
+Kostadis Roussos: I presume, with all of this equipment, you head back to, ….
+
+1522
+01:26:42.860 --> 01:26:43.750
+Wade: B-roll the river?
+
+1523
+01:26:43.750 --> 01:26:46.360
+David Mendenhall: Miraal. Merle. Merle time.
+
+1524
+01:26:46.360 --> 01:26:47.949
+Kostadis Roussos: Yeah, Merle, like….
+
+1525
+01:26:47.950 --> 01:26:49.150
+Wade: you're all….
+
+1526
+01:26:49.150 --> 01:26:52.210
+Kostadis Roussos: Merle, who sees her, let's see, what does she see?
+
+1527
+01:26:53.240 --> 01:26:56.300
+Wade: Well, first off, is Vukradin wearing his fancy new cloak?
+
+1528
+01:26:56.610 --> 01:26:57.240
+David Mendenhall: No.
+
+1529
+01:26:57.240 --> 01:26:57.840
+Wade: Aww.
+
+1530
+01:26:58.350 --> 01:26:59.760
+David Mendenhall: I'm… I'm tempted, though.
+
+1531
+01:27:00.480 --> 01:27:01.010
+Kostadis Roussos: Okay.
+
+1532
+01:27:01.270 --> 01:27:04.229
+Wade: It's shiny! It changes colors on command!
+
+1533
+01:27:04.230 --> 01:27:07.319
+Gary Young: Maybe we can buy it from whoever?
+
+1534
+01:27:07.600 --> 01:27:08.070
+Wade: I did it.
+
+1535
+01:27:08.070 --> 01:27:11.960
+David Mendenhall: I want to meet the owner of this cloak. He's an interesting individual.
+
+1536
+01:27:11.960 --> 01:27:14.940
+Wade: Imagine it pulsing with the beat of your music, you know.
+
+1537
+01:27:15.290 --> 01:27:15.760
+Kostadis Roussos: Right.
+
+1538
+01:27:15.760 --> 01:27:17.059
+Wade: You're a walking visualizer.
+
+1539
+01:27:17.060 --> 01:27:17.720
+Kostadis Roussos: lines it.
+
+1540
+01:27:19.100 --> 01:27:21.970
+Kostadis Roussos: Okay, so Miraal takes the, …
+
+1541
+01:27:22.100 --> 01:27:24.379
+Kostadis Roussos: what's the word I'm looking for? Takes the con….
+
+1542
+01:27:24.380 --> 01:27:24.860
+Wade: Conch.
+
+1543
+01:27:24.860 --> 01:27:29.089
+Kostadis Roussos: Yes, and, goes, and disappears.
+
+1544
+01:27:29.330 --> 01:27:30.310
+Wade: That's it, yeah.
+
+1545
+01:27:31.680 --> 01:27:32.480
+Gary Young: Alright.
+
+1546
+01:27:32.480 --> 01:27:35.509
+David Mendenhall: No, good job, no thank you, no, like….
+
+1547
+01:27:35.510 --> 01:27:36.700
+Kostadis Roussos: Hold on, hold on, hold on.
+
+1548
+01:27:36.700 --> 01:27:37.739
+David Mendenhall: Part of the….
+
+1549
+01:27:38.760 --> 01:27:41.660
+Kostadis Roussos: Well, she's… what, what, what, what, hold on.
+
+1550
+01:27:42.540 --> 01:27:47.579
+Kostadis Roussos: Miraal picks up… okay, you wanted… you wanted more than that. I will do more.
+
+1551
+01:27:50.910 --> 01:27:56.860
+Kostadis Roussos: Alright, let's… what does… Hold on, let me see…
+
+1552
+01:28:17.400 --> 01:28:18.700
+Kostadis Roussos: …
+
+1553
+01:28:19.590 --> 01:28:26.659
+Kostadis Roussos: Okay, give me a second. I have to think about this. You wanted… you don't want just, you know… I'm not… I'm not just doing, like, you know…
+
+1554
+01:28:27.130 --> 01:28:28.310
+Kostadis Roussos: …
+
+1555
+01:28:31.450 --> 01:28:32.330
+Kostadis Roussos: Okay.
+
+1556
+01:28:36.250 --> 01:28:40.560
+Kostadis Roussos: Alright, so she… as… as you place, as you pick it up.
+
+1557
+01:28:43.770 --> 01:28:53.290
+Kostadis Roussos: Thank you, kind ones. My spirit, it can finally rest. Moesko was my undoing.
+
+1558
+01:28:53.750 --> 01:29:02.659
+Kostadis Roussos: But not entirely of his own will. I felt the shadows that moved within his wines, twisting his devotion to Talos into something colder, more calculating.
+
+1559
+01:29:02.940 --> 01:29:07.689
+Kostadis Roussos: It is not the Strage of the Stormlord that consumed him, but something foreign.
+
+1560
+01:29:08.560 --> 01:29:14.940
+Kostadis Roussos: Even in death, I could not fully escape the whispers from the deep, fragmented dreams.
+
+1561
+01:29:15.280 --> 01:29:25.470
+Kostadis Roussos: Beware, surface dweller, the true dwellers. The true storm gathers not in the sky, but in the depths below Leilon.
+
+1562
+01:29:25.850 --> 01:29:27.250
+Kostadis Roussos: And then she disappears.
+
+1563
+01:29:27.250 --> 01:29:28.710
+David Mendenhall: the depths below.
+
+1564
+01:29:29.890 --> 01:29:30.710
+Wade: Lila.
+
+1565
+01:29:30.990 --> 01:29:32.370
+David Mendenhall: What's the last one?
+
+1566
+01:29:32.370 --> 01:29:34.290
+Kostadis Roussos: It's a town further south from there.
+
+1567
+01:29:34.290 --> 01:29:34.940
+Wade: Oh.
+
+1568
+01:29:34.940 --> 01:29:39.779
+David Mendenhall: … There you go, see? We got the hook. That's what we're looking for.
+
+1569
+01:29:39.780 --> 01:29:41.269
+Wade: You gotta go check Bill Krabby?
+
+1570
+01:29:41.630 --> 01:29:48.080
+Kostadis Roussos: Hold on, just for the record, that's supposed to be much later in the adventure, so, like, after you're level 7, so just keep….
+
+1571
+01:29:48.080 --> 01:29:49.240
+David Mendenhall: Definitely going there right now.
+
+1572
+01:29:52.150 --> 01:29:54.180
+Kostadis Roussos: Party dies.
+
+1573
+01:29:54.180 --> 01:29:54.889
+David Mendenhall: Look, look.
+
+1574
+01:29:55.140 --> 01:29:57.839
+David Mendenhall: We promised we would end this curse.
+
+1575
+01:29:59.200 --> 01:30:00.640
+David Mendenhall: What a curse is.
+
+1576
+01:30:00.970 --> 01:30:02.029
+David Mendenhall: What was it called?
+
+1577
+01:30:03.690 --> 01:30:07.250
+Kostadis Roussos: No, no, the curse of this was ended with the death of Moscow.
+
+1578
+01:30:07.690 --> 01:30:08.910
+Wade: Okay.
+
+1579
+01:30:09.180 --> 01:30:09.880
+Kostadis Roussos: Alright, so….
+
+1580
+01:30:11.130 --> 01:30:11.950
+David Mendenhall: I know.
+
+1581
+01:30:12.940 --> 01:30:18.030
+Kostadis Roussos: So… Right, but the death… Okay.
+
+1582
+01:30:18.030 --> 01:30:20.650
+David Mendenhall: So we did Crab's Ghost Lover. Alright, awesome.
+
+1583
+01:30:20.650 --> 01:30:23.480
+Kostadis Roussos: Yeah, and Crab… Crab says… Oh.
+
+1584
+01:30:23.620 --> 01:30:24.500
+Kostadis Roussos: Hello!
+
+1585
+01:30:24.620 --> 01:30:27.710
+Kostadis Roussos: He's, like, very happy, he's like, hello there, how are you?
+
+1586
+01:30:27.960 --> 01:30:32.690
+Wade: We didn't die! Yeah, and check out this cool cloak we found! You know who owns it?
+
+1587
+01:30:34.010 --> 01:30:35.570
+Kostadis Roussos: Oh, Natasha.
+
+1588
+01:30:35.570 --> 01:30:39.039
+David Mendenhall: Found a lot of things, and were looking for their owners.
+
+1589
+01:30:39.040 --> 01:30:42.020
+Kostadis Roussos: Slip it down now? Hold on, give me a sec.
+
+1590
+01:30:43.670 --> 01:30:56.900
+Kostadis Roussos: … Oh, gotcha. He turns… the crab goes, oh, my dear friends. So, he stands up on his, like, you know, two hands, like, the clawsy, the clawy things, kind of, you know…
+
+1591
+01:30:57.000 --> 01:31:03.470
+Kostadis Roussos: And I'm going, oh, so I'm so happy to see that Miraal has, well, got where Miraal needed to go.
+
+1592
+01:31:05.550 --> 01:31:13.870
+Kostadis Roussos: And then he notices you've got that plus one magical hellbird, and goes, My, yes, you did in fact find the treasure I was going to get for you.
+
+1593
+01:31:13.870 --> 01:31:16.210
+David Mendenhall: Okay, now is where I say, what the hell is that?
+
+1594
+01:31:17.150 --> 01:31:17.800
+Wade: Heh heh.
+
+1595
+01:31:17.800 --> 01:31:18.200
+Gary Young: What?
+
+1596
+01:31:18.340 --> 01:31:19.499
+Gary Young: It's a noise.
+
+1597
+01:31:19.500 --> 01:31:20.840
+Wade: talking about.
+
+1598
+01:31:21.340 --> 01:31:24.599
+David Mendenhall: He just said it was a treasure that he was gonna go get for you.
+
+1599
+01:31:25.080 --> 01:31:26.160
+David Mendenhall: Where'd you get it?
+
+1600
+01:31:27.780 --> 01:31:28.760
+Gary Young: Huh?
+
+1601
+01:31:33.170 --> 01:31:41.409
+David Mendenhall: Well, I like Brewbarry, so I'm gonna try to persuade him that this was a bad choice, like, what are you doing? You can't use that.
+
+1602
+01:31:45.790 --> 01:31:47.760
+Kostadis Roussos: I don't think Brewbarry's falling for that one.
+
+1603
+01:31:49.470 --> 01:31:52.260
+Kostadis Roussos: Bye-bye.
+
+1604
+01:31:52.260 --> 01:31:55.100
+David Mendenhall: I'm feeling… I'm feeling increasingly isolated in this party.
+
+1605
+01:31:58.320 --> 01:32:00.230
+Wade: I'm not looting everything.
+
+1606
+01:32:00.230 --> 01:32:03.489
+Kostadis Roussos: someone's with you. She's… she's not.
+
+1607
+01:32:03.490 --> 01:32:03.910
+Wade: Wow.
+
+1608
+01:32:04.980 --> 01:32:09.820
+Wade: I just don't have such desires, I'm not exactly like the… Purist.
+
+1609
+01:32:11.490 --> 01:32:20.190
+Kostadis Roussos: Alright, okay. So, the giant crab, thanks you for your effort, thanks you also for killing the sharks.
+
+1610
+01:32:21.540 --> 01:32:22.710
+Gary Young: They were delicious.
+
+1611
+01:32:23.200 --> 01:32:24.190
+Kostadis Roussos: He goes.
+
+1612
+01:32:24.290 --> 01:32:30.900
+Kostadis Roussos: Oh, he notices that you have some fish… some shark meat. He goes, you wouldn't be sharing, would you?
+
+1613
+01:32:31.180 --> 01:32:32.909
+Gary Young: I would love to share with you.
+
+1614
+01:32:34.540 --> 01:32:35.410
+Gary Young: We're friends.
+
+1615
+01:32:35.560 --> 01:32:40.469
+Kostadis Roussos: Crab takes it and eats the, this is really good.
+
+1616
+01:32:40.960 --> 01:32:42.070
+Kostadis Roussos: Rush, too.
+
+1617
+01:32:42.070 --> 01:32:42.720
+Gary Young: Fresh.
+
+1618
+01:32:43.060 --> 01:32:46.340
+Kostadis Roussos: I know the freshest… Video.
+
+1619
+01:32:46.340 --> 01:32:48.299
+Gary Young: precious fish that Valphine fried.
+
+1620
+01:32:49.250 --> 01:32:56.459
+Kostadis Roussos: So he's very happy, like, he's chewing on the fish. And with that, we end this, sequence of encounters. Alright.
+
+1621
+01:32:58.160 --> 01:32:58.520
+Kostadis Roussos: Okay.
+
+1622
+01:32:58.530 --> 01:33:00.260
+David Mendenhall: Back to Phandalin, but it's tough.
+
+1623
+01:33:00.260 --> 01:33:00.710
+Kostadis Roussos: That's what….
+
+1624
+01:33:00.710 --> 01:33:02.350
+Wade: It's 10.30, I think he means weekend.
+
+1625
+01:33:02.350 --> 01:33:06.920
+Kostadis Roussos: Yeah, it's, like, 10.30, and I'm, we've… it… I… yeah, and let me.
+
+1626
+01:33:06.920 --> 01:33:08.900
+Wade: You're jet lag beyond all repair.
+
+1627
+01:33:09.120 --> 01:33:11.579
+Kostadis Roussos: No, no, no, I just… I wanted to show one last thing.
+
+1628
+01:33:16.800 --> 01:33:18.749
+Kostadis Roussos: There, should see Lineland over here.
+
+1629
+01:33:18.980 --> 01:33:19.610
+Wade: We do?
+
+1630
+01:33:20.300 --> 01:33:21.820
+Gary Young: Okay.
+
+1631
+01:33:22.330 --> 01:33:23.140
+Wade: That's our next spot.
+
+1632
+01:33:23.140 --> 01:33:23.940
+Kostadis Roussos: Excellent.
+
+1633
+01:33:24.090 --> 01:33:24.970
+David Mendenhall: Yep, definitely.
+
+1634
+01:33:25.110 --> 01:33:25.630
+David Mendenhall: Nowhere.
+
+1635
+01:33:25.630 --> 01:33:27.390
+Kostadis Roussos: Well, that's for…
+
+1636
+01:33:27.710 --> 01:33:32.480
+Kostadis Roussos: No, no, it's… it's… yes, after you finish all the quests associated with Phandalin, we go to Lineland.
+
+1637
+01:33:32.960 --> 01:33:34.040
+David Mendenhall: … Hmm.
+
+1638
+01:33:34.110 --> 01:33:35.030
+Kostadis Roussos: Yes?
+
+1639
+01:33:35.780 --> 01:33:37.919
+Kostadis Roussos: So… so Tuesday, alright?
+
+1640
+01:33:38.210 --> 01:33:39.270
+David Mendenhall: Tuesday.
+
+1641
+01:33:40.170 --> 01:33:40.690
+Kostadis Roussos: Alright.
+
+1642
+01:33:41.980 --> 01:33:42.830
+Kostadis Roussos: Take care, folks.
+
+1643
+01:33:42.830 --> 01:33:43.920
+Wade: Alright, gentlemen.
+

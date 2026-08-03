@@ -1,0 +1,14 @@
+# Regenerable bulk, deliberately not versioned.
+#
+# corpus_all.txt  — a 3 MB concatenation of every session transcript, rebuilt by
+#                   batch_scan.py. It duplicates content that already lives in
+#                   summaries/ and carries no decision of its own.
+# */scan.json     — the deterministic scanner output handed TO each agent.
+#                   proposals.json is the same structure with the agent's
+#                   judgment filled in, so scan.json is strictly superseded.
+#
+# Everything else here IS versioned on purpose: manifest.json, known_flat.txt,
+# AGENT_BRIEF.md, proposals.json, wave*_queue.json and targeted_edits.json are
+# the audit trail for every glossary row this batch produced.
+corpus_all.txt
+*/scan.json

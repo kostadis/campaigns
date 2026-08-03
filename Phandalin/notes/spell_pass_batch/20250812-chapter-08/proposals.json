@@ -1,0 +1,3217 @@
+{
+  "schema_version": 1,
+  "stage": "A",
+  "dir": "20250812-chapter-08",
+  "target_file": "summaries/20250812-chapter-08/Chapter 08.md",
+  "target_sha256": "1668cdb2d000e9ee5f47ff30be3e6baf49bc9ab52d23a2509a1bf0a37d954e83",
+  "target_format": "labelled_markdown",
+  "speakers": {
+    "kostadis": 466,
+    "dave": 466,
+    "wade": 323,
+    "gary": 202
+  },
+  "duplication_detected": false,
+  "sibling": {
+    "path": "summaries/20250812-chapter-08/session_20250812_transcript.vtt",
+    "transcriber_kind": "dnd_tuned_llm",
+    "name_evidence_admissible": false
+  },
+  "glossary_sha256_at_scan": "8f49c3426cfb8523a37423ecc36c8b340da884aee88168b12d713127da251e54",
+  "known_names_count": 2077,
+  "raw_unknown_count": 196,
+  "clusters_after_ignore_filter": 114,
+  "clusters": [
+    {
+      "id": 1,
+      "proposed_canonical": "Umi",
+      "confidence": "high",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "Um",
+          "count": 40,
+          "verbatim": "Yes. Um, can you put the number one and two for",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.646,
+            "sibling_verbatim": "Yes. Can you put the number one and two for the two harpies that have charmed people?"
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling renders the span as plain prose with no name ('Yes. Can you put the number one and two for the two harpies...'). 'Um' is speech filler, 40 occurrences, and appears lowercase throughout the transcript. There is no Umi in this chapter.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "proposed_canonical": "Valphine",
+      "confidence": "high",
+      "reason": "edit_distance,edit_distance,substring,substring,substring,edit_distance,edit_distance,substring",
+      "members": [
+        {
+          "token": "Velphina",
+          "count": 5,
+          "verbatim": "not you. Huh? N- not you. Uh, Velphina. She was attacking Velphina.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.803,
+            "sibling_verbatim": "Not you. Not you. Valphine. She was attacking Valphine."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling spells the known campaign name at the same span: 'Not you. Not you. Valphine. She was attacking Valphine.' Five occurrences, never lowercase. 'Velphina' is not yet in the Valphine row (which has Velfina/Velphine/Zelphina but not this form).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Valfiane",
+          "count": 1,
+          "verbatim": "Valfiane helping. I am pissed. Yeah. I am pissed",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.679,
+            "sibling_verbatim": "You've got Valphine helping. I am pissed off. There's a miss."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling spells the known campaign name at the span: \"You've got Valphine helping. I am pissed off.\" 'Valfiane' is not in the existing Valphine row (Valfiene and Valfeinia are, this form is not).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Valfienne",
+          "count": 1,
+          "verbatim": "na do? RP2 decides to fly in and attack Valfienne.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.812,
+            "sibling_verbatim": "Harpy two decides to fly in and attack Valphine."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: 'Harpy two decides to fly in and attack Valphine.' \u2014 the same combat beat, canonical spelling. 'Valfienne' is a new wrong-form (Valfiene and Valfinne exist, this does not).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "proposed_canonical": "Brewbarry",
+      "confidence": "high",
+      "reason": "edit_distance,edit_distance,substring,edit_distance,edit_distance,substring,substring",
+      "members": [
+        {
+          "token": "Rubry",
+          "count": 2,
+          "verbatim": "get- Good job, Rubry. I, I, you know what? I'm sorry, it was",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.721,
+            "sibling_verbatim": "Good job, Brewbarry. You know what? I'm sorry. It was the silence."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: \"Good job, Brewbarry. You know what? I'm sorry. It was the silence.\" Two occurrences, never lowercase. 'Rubry' is not in the Brewbarry row (Ruby/Rubbery/Rubery are; this form is not).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Brewbrewry",
+          "count": 1,
+          "verbatim": "Cool. Brewbrewry",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.867,
+            "sibling_verbatim": "Cool. Brewbarry."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: 'Cool. Brewbarry.' \u2014 one-word utterance, exact span match. Unambiguous reduplication garble.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Brewer",
+          "count": 1,
+          "verbatim": "I heard that. Brewer is whiffing tonight. It's two whiffs. I",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.906,
+            "sibling_verbatim": "I heard that. Brewbarry's whiffing tonight. It's two whiffs."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: \"I heard that. Brewbarry's whiffing tonight. It's two whiffs.\" \u2014 unambiguous in this chapter. CAUTION for the orchestrator's corpus-wide check: 'Brewer' is a common English noun (and 'Brewery' is already a Brewbarry wrong-form). It is not lowercase anywhere in THIS target, but an IGNORECASE corpus-wide row could clobber a legitimate 'brewer' elsewhere. GM should decide whether this row is corpus-safe.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Brubry",
+          "count": 1,
+          "verbatim": "Brubry- no. Uh, oh yeah, Soma.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.6,
+            "sibling_verbatim": "It would be me. No. Oh, yeah. Soma."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "confirm",
+          "rationale": "Weak sibling: at this span it shows 'It would be me. No. Oh, yeah. Soma.' where ours reads 'Brubry- no. Uh, oh yeah, Soma.' \u2014 the sibling did not render a name, but it also did not render a coherent alternative, so its plain-prose value here is low (score 0.6, phrase diverges). The token itself is a non-word that matches five existing Brewbarry wrong-forms (Brubbery, Brubber, Brubari, Brubery, Brubury) and it is a cut-off self-correction before the speaker names Soma instead. Surfaced rather than auto-dismissed because dropping it would silently lose a plausible correction.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Furberry",
+          "count": 1,
+          "verbatim": "I guess Furberry gets one as well, right?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.914,
+            "sibling_verbatim": "I guess Brewbarry gets one as well, right?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: 'I guess Brewbarry gets one as well, right?' \u2014 exact span, canonical spelling. 'Furberry' is a new wrong-form (Frewbury exists, this does not).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "proposed_canonical": "Vukradin",
+      "confidence": "medium",
+      "reason": "substring,edit_distance,metaphone,edit_distance",
+      "members": [
+        {
+          "token": "Bucret",
+          "count": 1,
+          "verbatim": "Ah, I still can't select them. Anyway, Bucret, and you're up, right?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.873,
+            "sibling_verbatim": "I still can't select them. Anyway, Vukradin you're up, right?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: \"I still can't select them. Anyway, Vukradin you're up, right?\" \u2014 turn-order call, canonical spelling. 'Bucret' is not in the Vukradin row ('Bucretin' is; this truncated form is not).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Lukritan",
+          "count": 1,
+          "verbatim": "m What's RP3 do? All right. RP3 attacks Lukritan again.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.904,
+            "sibling_verbatim": "What's RP3 do? All right. RP3 attacks Vukradin again."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: 'RP3 attacks Vukradin again.' \u2014 same combat beat, canonical spelling. New wrong-form (Lucredin/Lucradine exist, Lukritan does not).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Vucarydin",
+          "count": 1,
+          "verbatim": "ee is, uh, it's about the same level as Vucarydin, just far away. So he's down 20 feet",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.886,
+            "sibling_verbatim": "Number three is it's about the same level as Vukradin, just far away, so he's down 20 feet."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: \"Number three is it's about the same level as Vukradin, just far away...\" New wrong-form; note the row already has the near-twin 'Vucarydyn'.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "proposed_canonical": "Dimble",
+      "confidence": "high",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "Double",
+          "count": 3,
+          "verbatim": "Yeah, it just had- Double, double",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.583,
+            "sibling_verbatim": "Yeah, I still have to do the song check."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling shows unrelated plain prose ('Yeah, I still have to do the song check.'); ours is 'Yeah, it just had- Double, double'. 'double' is a common English word occurring lowercase in the transcript. No Dimble in this chapter.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "proposed_canonical": "Boney",
+      "confidence": "high",
+      "reason": "edit_distance,edit_distance",
+      "members": [
+        {
+          "token": "Beak",
+          "count": 2,
+          "verbatim": "that one Beak. Oh, all right. Beak. 2d8.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.635,
+            "sibling_verbatim": "That's one hit. All right."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling reads the span as \"That's one hit. All right.\" against our 'that one Beak. Oh, all right. Beak. 2d8.' \u2014 'Beak' is an ASR rendering of 'hit', not the skeletal horse Boney. Two occurrences, so not auto-dismissible; recommend ignore-list rather than a glossary row.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "proposed_canonical": "Soma",
+      "confidence": "high",
+      "reason": "edit_distance,edit_distance",
+      "members": [
+        {
+          "token": "Soba",
+          "count": 2,
+          "verbatim": "orry about it So, so, so, so, so, soba- Soba, Soba's heard better songs.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.511,
+            "sibling_verbatim": "All right. So I don't have to actually. So Soma's heard better songs."
+          },
+          "lowercase_in_target": true,
+          "kind": "inconclusive",
+          "recommendation": "no_rule",
+          "rationale": "Two independent reasons for no row. (1) The sibling text at this span reads \"All right. So I don't have to actually. So Soma's heard better songs.\" against our \"So, so, so, so, so, soba- Soba, Soba's heard better songs\" \u2014 suggestive, but the match score is 0.511, BELOW the 0.55 admissibility floor, so under the brief the sibling concludes nothing here and this is inconclusive, not confirmation. (2) Independently, the wrong-form occurs lowercase in this target ('soba-') and apply_replacements.py matches with re.IGNORECASE, so a 'Soba -> Soma' row would rewrite lowercase 'soba' corpus-wide. Surfaced for the GM; no rule proposed.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Somna",
+          "count": 1,
+          "verbatim": "Somna's up first.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.968,
+            "sibling_verbatim": "Soma's up first."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: \"Soma's up first.\" against our \"Somna's up first.\" \u2014 exact span, canonical spelling, not lowercase anywhere. New wrong-form (the Soma row has Sona/Sana/Sama/Selma/Sema but not Somna).",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "proposed_canonical": "Harbin",
+      "confidence": "medium",
+      "reason": "metaphone",
+      "members": [
+        {
+          "token": "Harpy One",
+          "count": 2,
+          "verbatim": "Oh, no, no, it's only one. Just put Harpy One. Sorry. Only one was singing? Well, yea",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.882,
+            "sibling_verbatim": "Oh, no, it's only one. Just put Harpy one. Sorry. Only one was singing."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling: 'Oh, no, it\\'s only one. Just put Harpy one. Sorry. Only one was singing.' \u2014 this is the DM naming a combat token, not the townmaster Harbin. See cluster 41: 'Harpy' is simply missing from the known-name set.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "proposed_canonical": "Meliamne",
+      "confidence": "high",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "Melian",
+          "count": 2,
+          "verbatim": "I'll just run in there in Melian. Actually, no, I'll run in here in Meli",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.876,
+            "sibling_verbatim": "I'll just run in there and melee him. Actually, no, I'll run in here and melee him."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Decisive sibling: 'I\\'ll just run in there and melee him. Actually, no, I\\'ll run in here and melee him.' \u2014 'Melian' is an ASR rendering of 'melee him'. Nothing to do with the elf Meliamne. Two occurrences, so ignore-list rather than auto-dismiss.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "proposed_canonical": "Arcane Brotherhood",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Other",
+          "count": 2,
+          "verbatim": "ere's somebody sneaking up behind you.\" Other side, but yeah. It's, it's behind your",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.8,
+            "sibling_verbatim": "And I was like, there's somebody sneaking up behind you. Other side, but yeah. It spits behind your body right now."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling matches with plain prose ('Other side, but yeah...'). 'other' is a common English word appearing lowercase. Bound to 'Arcane Brotherhood' by a substring accident only.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "proposed_canonical": "Adabra",
+      "confidence": "high",
+      "reason": "phonetic",
+      "members": [
+        {
+          "token": "Aubery",
+          "count": 1,
+          "verbatim": "Aubery",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.6,
+            "sibling_verbatim": "Very."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "rationale": "NOT Adabra. The sibling's matched utterance is the one-word fragment 'Very.', which does not cover the span in any way that supports a plain-prose reading, so I am calling this inconclusive rather than ordinary_words. Transcript context (line 2465) is decisive on what KIND of token it is: kostadis asks 'Okay, who's next?', dave answers 'Aubery', and gary immediately takes a melee turn ('I'll just run in there and melee him'). This is a PC name in a turn-order call. Stephane is absent this session (speakers are kostadis/dave/wade/gary only), so gary is covering Brewbarry \u2014 and the existing Brewbarry row already contains the near-identical Rubery/Brubery/Barry. Proposed canonical: Brewbarry. GM must confirm; I will not decide a PC attribution on inference.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "proposed_canonical": "Carver",
+      "confidence": "high",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "Carden",
+          "count": 1,
+          "verbatim": "So, Carden, would you like to move left three squa",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.854,
+            "sibling_verbatim": "Done. Would you like to move left three squares?"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "rationale": "Genuinely two-sided, surfacing rather than dismissing. Sibling collapses the span to 'Done. Would you like to move left three squares?' \u2014 no name. But 'Carden' is one character away from 'Craden', already a Vukradin wrong-form, and the line (gary, 2665: 'So, Carden, would you like to move left three squares?') is one player addressing another mid-combat, exactly where a PC name belongs. It is definitely NOT 'Carver' (the cluster's proposal) \u2014 the Carver does not appear in this chapter. No safe correction without the GM's ear on the audio.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "proposed_canonical": "Shrine",
+      "confidence": "medium",
+      "reason": "metaphone",
+      "members": [
+        {
+          "token": "Charon",
+          "count": 1,
+          "verbatim": "No, the saving throw for Charon.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.593,
+            "sibling_verbatim": "No, she's staying there."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling gives unrelated prose. Transcript context (1099-1109) settles it: dave is charmed and running at harpy number two, asks 'No, the saving throw for Charon.' and is answered 'What is the saving DC?' \u2014 'Charon' is an ASR rendering of 'charm'. Not a name; not 'Shrine'.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "proposed_canonical": "Corrin",
+      "confidence": "high",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "Katie",
+          "count": 1,
+          "verbatim": "Hi, Katie",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 1.0,
+            "sibling_verbatim": "Hi, Katie."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "NOT Corrin. Both transcriptions independently render 'Hi, Katie' at score 1.0; contamination substitutes names, it does not agree on them, so the agreement is corroboration that the word was actually spoken. This is real-world table chatter (someone being greeted at the table), which is why I am classing the sibling as ordinary_words for CAMPAIGN-name purposes. Recommend adding 'Katie' to the state ignore list rather than a glossary row.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "proposed_canonical": "Miral",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Mirall",
+          "count": 1,
+          "verbatim": "escent conch, the one that he took from Mirall the sea elf.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.778,
+            "sibling_verbatim": "Resting in his lap is an opalescent conch, the one that he took from Myral the Sea Elf."
+          },
+          "lowercase_in_target": false,
+          "kind": "different_name",
+          "recommendation": "escalate",
+          "rationale": "ESCALATION \u2014 a canon collision the agent must not resolve. Ours (line 2355, DM read-aloud): 'Resting in his lap is an opalescent conch, the one that he took from Mirall the sea elf.' The sibling gives a THIRD spelling, 'Myral the Sea Elf', which is not in the known-name set, so it is different_name and worth nothing as evidence. Worse, the glossary already carries TWO competing canonicals for what the campaign docs describe as one NPC: row 'Miral the Self -> Miral' and row 'Mirelle, Mirale, Meral -> Miraal'. docs/glossary.md:79 calls Miraal the sea-elf banshee at the Tower of Storms; docs/entity_inventory.md lists 'Miraal' and 'Miral / Miral The Self' as separate entries. This chapter is the Tower of Storms, so it is the same NPC. GM must rule which spelling is canonical before any row is written; a wrong choice here propagates through the whole Tower of Storms arc.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "proposed_canonical": "The Carver",
+      "confidence": "medium",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "The Order",
+          "count": 1,
+          "verbatim": "The Order of the Gauntlet is gonna be so pleased",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.736,
+            "sibling_verbatim": "The Order of the Gauntlet is going to be so pleased to have you on their side."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Both transcriptions read 'The Order of the Gauntlet is going to be so pleased to have you on their side.' \u2014 the leading fragment of the faction name, which is ALREADY correct and already in the known set as 'Order of the Gauntlet'. Nothing to do with 'The Carver'. Surfaced rather than dismissed because the fix is a known-name/tokenisation matter, not a spelling one.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "proposed_canonical": "Anchorite",
+      "confidence": "medium",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "anochore",
+          "count": 1,
+          "verbatim": "The orc is up. The anochro- anochore- anchorite, that's the word I'm looking",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.837,
+            "sibling_verbatim": "The orc is up. Anchorite. Anchorite. That's the word I'm looking for."
+          },
+          "lowercase_in_target": true,
+          "kind": "campaign_correct_name",
+          "recommendation": "no_rule",
+          "rationale": "Sibling confirms the word: 'The orc is up. Anchorite. Anchorite. That\\'s the word I\\'m looking for.' \u2014 but ours is a mid-word self-correction ('The anochro- anochore- anchorite') and the wrong-form is itself lowercase in the target, so under the IGNORECASE rule it is not a glossary row. Also low value: the speaker corrects himself to the right word in the same breath. The Anchorite row already carries Anachorite/Anarchite.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "All",
+          "count": 181,
+          "verbatim": "All right. How's",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.828,
+            "sibling_verbatim": "All right, so"
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "181 occurrences of 'All right.' Sibling agrees. Pure filler; recommend the state ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Uh",
+          "count": 132,
+          "verbatim": "It's all good. Uh, I'm in act three.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.587,
+            "sibling_verbatim": "It's, you know, what is it? They're heirs."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "132 occurrences of the filler 'Uh'. No name. Ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Uh-huh",
+          "count": 4,
+          "verbatim": "Uh-huh.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.571,
+            "sibling_verbatim": "How high?"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Backchannel filler, 4 occurrences. Sibling gives unrelated prose; no name at the span.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Uh- But",
+          "count": 2,
+          "verbatim": "Eh. All right. Uh- But you are,",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.678,
+            "sibling_verbatim": "Yeah. All right. You are immune."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Disfluency run ('Uh- But you are,'); sibling: 'Yeah. All right. You are immune.' No name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Uh- Uh",
+          "count": 2,
+          "verbatim": "Nope. Uh- Uh, it's, uh, still grabbing the wrong thi",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.826,
+            "sibling_verbatim": "Nope. It's still grabbing the wrong thing."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Doubled filler; sibling: \"Nope. It's still grabbing the wrong thing.\" No name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Um- Okay",
+          "count": 1,
+          "verbatim": "you have the full health bar otherwise. Um- Okay.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.538,
+            "sibling_verbatim": "No, you've not. There's a door. There's a stair."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "rationale": "Sibling score 0.538 is below the 0.55 admissibility floor, so the sibling says nothing here and auto-dismissal is not available. On the target text alone it is plainly a filler run ('...you have the full health bar otherwise. Um- Okay.'). Surfaced per the no-dismissal-on-inconclusive rule.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Harpy",
+          "count": 31,
+          "verbatim": "te Act One harpy battle. Three harpies. Harpy is third level. It's pretty much the sa",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.755,
+            "sibling_verbatim": "Three Harpies. Hardy is third level. It's pretty much the same thing."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "new_canon",
+          "rationale": "NEW CANON ASK, not a spelling fix. 'Harpy' is correctly spelled, occurs 31 times, and is the entire monster roster of this chapter \u2014 yet it is absent from known_flat.txt, so every capitalised occurrence resurfaces as an unknown proper noun. It alone generated nine of this directory's clusters (9, 12, 41, 56, 89, 108, 109, 130, and the Harpies pair). Recommend adding 'Harpy' and 'Harpies' to the known-name set; that suppresses the whole family here and in every other chapter with harpies. No transcript change.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Mm-hmm",
+          "count": 11,
+          "verbatim": "That's a- Mm-hmm. You know, that's a torso shot then.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.571,
+            "sibling_verbatim": "That's a torso shot then. Oh, man."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Backchannel filler, 11 occurrences. Ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Ah",
+          "count": 9,
+          "verbatim": "the dog? Belligerent Belligerent? Ah. Just chomping away at me. Are you bell",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.656,
+            "sibling_verbatim": "How's the dog? Belligerent. Just jumping away at me."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Interjection, 9 occurrences. Ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Ooh",
+          "count": 7,
+          "verbatim": "Ooh.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 1.0,
+            "sibling_verbatim": "Ooh."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Interjection, 7 occurrences; sibling identical. Ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Two",
+          "count": 6,
+          "verbatim": "And then, uh, we're trying to hit two? Two is the one that we need to hit?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.926,
+            "sibling_verbatim": "And then we're trying to hit two. Two is the one that we need to."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Numeral used for harpy token numbering ('we're trying to hit two'). Sibling agrees. No name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Mm",
+          "count": 5,
+          "verbatim": "Mm.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.5,
+            "sibling_verbatim": "Um."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "rationale": "Sibling score 0.5, below the admissibility floor, so no sibling conclusion. Plainly a filler on the target text (5 occurrences of a bare 'Mm.').",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Does",
+          "count": 7,
+          "verbatim": "Does it run away, or does it just stay there",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.989,
+            "sibling_verbatim": "Does it run away or does it just stay there?"
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling near-identical ('Does it run away or does it just stay there?'). Ordinary auxiliary verb, sentence-initial capitalisation only.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Cause",
+          "count": 4,
+          "verbatim": "em over there so you guys have some... 'Cause otherwise trying to keep track of where",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.573,
+            "sibling_verbatim": "So you guys can see the upper level, but I'm just going to keep them over there so you guys have some otherwise trying to keep track of whereas everybody is going to be exhausting."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Contraction of 'because' ('\\'Cause otherwise trying to keep track...'). Ordinary word, 4 occurrences.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Four",
+          "count": 3,
+          "verbatim": "Four. Oh.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.571,
+            "sibling_verbatim": "Oh, no."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Numeral called on a die roll ('Four. Oh.'). Sibling gives unrelated prose; no name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Harpy Three",
+          "count": 3,
+          "verbatim": "'s both charm one. So Harpy, Harpy, uh, Harpy Three rather. Let me put that. I'll, I'll fix",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.694,
+            "sibling_verbatim": "Okay, so Harpy's charming. Harpy. A Harpy 3 rather. Let me put that. I'll fix it now."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Combat token label; sibling agrees ('A Harpy 3 rather'). Correctly spelled. Covered by the cluster-41 known-name ask.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "Herpetry",
+          "count": 1,
+          "verbatim": "Let's see. What does Herpetry do?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.871,
+            "sibling_verbatim": "Let's see. What does Harpy 3 do?"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "different_canonical",
+          "rationale": "Sibling: \"Let's see. What does Harpy 3 do?\" against our \"What does Herpetry do?\" \u2014 'Herpetry' is a garbled run-together of 'Harpy Three'. Not a campaign name, so the sibling is ordinary_words, but the correction is real. Proposed canonical: 'Harpy Three'. GM should also rule word-vs-digit form ('Harpy Three' vs 'Harpy 3') before this becomes a row.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Gale",
+          "count": 4,
+          "verbatim": "with Gale's",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.56,
+            "sibling_verbatim": "It makes sense."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Out-of-game video-game chatter, not a campaign NPC. Target lines 77-83 read: gary 'with Gale's', wade 'relic? Gale go boom.', kostadis \"Yeah, you didn't do the Gale go boom?\" \u2014 this is Baldur's Gate 3 (Gale the wizard and his netherese orb), of a piece with the Shadowheart / Raphael / Baldur's Gate Act One / Wish tokens elsewhere in this directory. Recommend the state ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Hit",
+          "count": 4,
+          "verbatim": "11 Oh, does a 10 mean- Hit points in- 10 misses",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.593,
+            "sibling_verbatim": "11. Oh, does it 10 misses? 10 misses."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Combat bookkeeping ('Hit points in- 10 misses'). Ordinary word, 4 occurrences, lowercase elsewhere.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Command",
+          "count": 3,
+          "verbatim": "Command.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 1.0,
+            "sibling_verbatim": "Command!"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "The 5e spell Command, correctly spelled, cast repeatedly this session ('Command halt over and over again'). Sibling identical. Not a misspelling \u2014 it is flagged only because spell names are absent from known_flat.txt. See agent_notes: the durable fix is adding common spell names to the known-name set, not a glossary row.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Six",
+          "count": 3,
+          "verbatim": "much damage did you say you did to me? Six?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.712,
+            "sibling_verbatim": "And you said, sorry, how much damage you say you did to me six?"
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Damage numeral; sibling agrees. No name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 69,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Wish",
+          "count": 3,
+          "verbatim": "it several... I think I ended up using Wish, like-",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.763,
+            "sibling_verbatim": "I think I ended up using Wish."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Out-of-game Baldur's Gate 3 chatter ('I think I ended up using Wish'), in the same run of conversation as Shadowheart and Gale. Correctly spelled spell name either way.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Everybody",
+          "count": 2,
+          "verbatim": "confused Everybody else is confused. I'm quite- You don't",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.765,
+            "sibling_verbatim": "Everybody else is confused. I'm quite confused."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling near-identical. Ordinary pronoun, sentence-initial capitalisation.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Dex",
+          "count": 2,
+          "verbatim": "one Dex save for four damage? Uh, really?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.789,
+            "sibling_verbatim": "That's X save for four damage. Really?"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Standard 5e ability-score abbreviation ('one Dex save for four damage'). Mechanics vocabulary, not a name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Eh",
+          "count": 2,
+          "verbatim": "Eh, take the attack of opportunity. Come a",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.841,
+            "sibling_verbatim": "Take the attack of opportunity. Come at me, bro."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Interjection; sibling drops it entirely. No name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Good Bard",
+          "count": 2,
+          "verbatim": "Save it. Mm. Good Bard. I did something useful. You've been us",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.782,
+            "sibling_verbatim": "Good bard. I did something useful. You'd be useful."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Sibling: 'Good bard. I did something useful.' \u2014 an ordinary compliment to the party bard, lowercase in the sibling. Not a name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 76,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Linux",
+          "count": 2,
+          "verbatim": "just use a Linux server.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.958,
+            "sibling_verbatim": "I just use a Linux server."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Out-of-game tech chatter ('just use a Linux server'), sibling identical. Recommend the state ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Razor",
+          "count": 2,
+          "verbatim": ". I had to get one of those little, uh, Razor scooters just to help desensitize him t",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.65,
+            "sibling_verbatim": "I had to get one of those little razor scooters just to help desensitize him to that kind of stuff because he sees anything on wheels and freaks the fuck out."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Real-world chatter about a Razor scooter and a dog; sibling renders it lowercase ('one of those little razor scooters'). Not a campaign name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 80,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Sephaline",
+          "count": 2,
+          "verbatim": "Sephaline.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.588,
+            "sibling_verbatim": "Valphine."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "rationale": "Sibling spells the known campaign name at the span: 'Valphine.' Target lines 2497-2499 corroborate: wade says 'Sephaline.' and gary immediately follows with 'Sephaline, what should she do here?' \u2014 gary plays Valphine, and the pronoun is feminine. The cluster proposed nothing, so this is different_canonical: Sephaline -> Valphine. Two occurrences, never lowercase, not in the existing Valphine row.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Taktibard",
+          "count": 2,
+          "verbatim": "Taktibard",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.667,
+            "sibling_verbatim": "Attack the bard."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Decisive sibling: 'Attack the bard.' \u2014 'Taktibard' is 'attack the bard' run together, which the table then repeats as a joke ('That's the Taktibard', line 1479). Not a name. Two occurrences, so ignore-list rather than auto-dismiss.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "So Vokradin",
+          "count": 1,
+          "verbatim": "So Vokradin is gonna do his double daggers then.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.907,
+            "sibling_verbatim": "So Vukradin is going to do his double daggers then."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling spells the canonical at the span: 'So Vukradin is going to do his double daggers then.' IMPORTANT for the row: propose the BARE form 'Vokradin -> Vukradin', NOT the 'So '-prefixed run the scanner captured. The leading 'So' is the sentence connective and a row containing it would delete a word from the transcript \u2014 the same class of damage as the Toblin/Toblen precedent in the brief. (The existing Vukradin row already carries the similar 'Vokodoen'.)",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        },
+        {
+          "token": "So Vokrodin",
+          "count": 1,
+          "verbatim": "Okay. So Vokrodin is up",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.889,
+            "sibling_verbatim": "Okay. So Vukradin is up?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "rationale": "Sibling: 'Okay. So Vukradin is up?' Same as the sibling member above \u2014 propose the bare form 'Vokrodin -> Vukradin', not the 'So '-prefixed capitalised run.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 92,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Ask",
+          "count": 1,
+          "verbatim": "Ask",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.444,
+            "sibling_verbatim": "Thanks."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "rationale": "Sibling score 0.444, below the 0.55 floor, so no sibling conclusion and no auto-dismissal. Target shows a bare one-word utterance 'Ask' (wade, line 1081) immediately before the DM answers a range question \u2014 an ordinary verb, no name available.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 93,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Baldur's Gate Act One",
+          "count": 1,
+          "verbatim": "arpies, this is very reminiscent of the Baldur's Gate Act One harpy battle. Three harpies. Harpy is t",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.87,
+            "sibling_verbatim": "This is very reminiscent of the Baldur's Gate Act 1 Harpy battle. Three Harpies. Hardy is third level."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Out-of-game video-game reference: 'this is very reminiscent of the Baldur's Gate Act One harpy battle.' Sibling agrees. Correctly spelled; note the state ignore list already carries \"Baldur's Gate\", so this longer run is the same chatter.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Bardican's Grace",
+          "count": 1,
+          "verbatim": ", uh, I... Oh, oh, no, I can't give you Bardican's Grace.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.819,
+            "sibling_verbatim": "I will. Oh, oh, no, I can't give you Vardica's correct."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "escalate",
+          "rationale": "ESCALATION. The sibling gives its own garble at the span (\"I can't give you Vardica's correct.\"), which is neither plain prose nor a name, so it is worth nothing. Target context (lines 1199-1213) is a wisdom save against the harpy song, and dave \u2014 who plays the bard Vukradin \u2014 says 'Oh, oh, no, I can't give you Bardican's Grace.' The natural reading is Bardic Inspiration (the bard's grant-a-die feature; he cannot grant it because he is charmed), and the glossary already carries 'Baric Inspiration' and 'Brace Inspiration' as wrong-forms of it. But 'Grace' is not accounted for by that reading, and it could equally be a homebrew or a cleric feature. I will not guess a mechanic the GM adjudicates.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Colonial",
+          "count": 1,
+          "verbatim": "Colonial. Mercantile. Yes.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.958,
+            "sibling_verbatim": "Colonial. Mercantile. Yes."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Both transcriptions read 'Colonial. Mercantile. Yes.' Target line 2265 shows the DM describing Neverwinter as 'a colonial paradise' (lowercase) and dave echoing it. Ordinary adjective in a political-economy aside, not a name.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 99,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Daggers",
+          "count": 1,
+          "verbatim": "Uh, Cloud of Daggers takes nine damage, and now that he's tr",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.659,
+            "sibling_verbatim": "Cloud of daggers takes nine damage, and now that he's trapped in there, he can take nine damage on every round."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Part of the spell name 'Cloud of Daggers', which the sibling renders lowercase ('Cloud of daggers takes nine damage'). Correctly spelled; flagged only because spell names are missing from the known-name set. See agent_notes.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 102,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Frescos",
+          "count": 1,
+          "verbatim": "It's fresco? Frescos. Oh, okay. Yeah.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.535,
+            "sibling_verbatim": "It's half his hit points. Okay, well."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "rationale": "Sibling score 0.535, below the floor, so no sibling conclusion and no auto-dismissal. Target line 2147 is dave reacting to the DM's read-aloud about frescoes ('It's fresco? Frescos. Oh, okay.'). An ordinary noun (a spelling variant of 'frescoes'), not a name; a glossary row here would be a prose-spelling fix, which is out of scope for a name pass.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Grygum Baby",
+          "count": 1,
+          "verbatim": "Who goes first? Oh, Grygum Baby, you're up",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.543,
+            "sibling_verbatim": "We could go one more round. So you're up."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "no_rule",
+          "rationale": "Sibling score 0.543, below the 0.55 floor, so auto-dismissal is unavailable and the sibling says nothing. Surfacing because 'Grygum' is a non-word that recurs: line 247 'Who goes first? Oh, Grygum Baby, you're up' (a turn-order call, where a PC name belongs) and line 1083 'Grygum. 300 feet. 300 feet.' (answering a spell-range question, where a name does NOT belong). Two incompatible syntactic positions means no single correction is safe; a recurring ASR artefact of some ordinary phrase is at least as likely as a name. GM's ear on the audio would settle it.",
+          "requires_gm": true,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Gudkrod",
+          "count": 1,
+          "verbatim": "l, all right, you get another attack on Gudkrod",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.719,
+            "sibling_verbatim": "All right, you get another attack on Vukradin if you want it, Harpy."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "rationale": "Sibling spells the known campaign name at the span: 'All right, you get another attack on Vukradin if you want it, Harpy.' against our 'all right, you get another attack on Gudkrod'. The cluster proposed nothing; this is different_canonical: Gudkrod -> Vukradin. Not lowercase anywhere, not in the existing Vukradin row.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Harpy Two",
+          "count": 1,
+          "verbatim": "And Harpy Two's gonna start, Harpy Two think, is convinced that it's, the prob",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.523,
+            "sibling_verbatim": "All right. Harpy three. RP3. All right. Harpy three is going to. Attack the bard."
+          },
+          "lowercase_in_target": true,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "rationale": "Sibling score 0.523, below the floor (it matched a Harpy Three utterance instead), so no auto-dismissal. On the target alone this is a correctly-spelled combat token label. Covered by the cluster-41 known-name ask.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 115,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Mercantile",
+          "count": 1,
+          "verbatim": "Colonial. Mercantile. Yes.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.958,
+            "sibling_verbatim": "Colonial. Mercantile. Yes."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Both transcriptions read 'Colonial. Mercantile. Yes.' Ordinary adjective in the same political-economy aside as cluster 98.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Monoceros",
+          "count": 1,
+          "verbatim": "Monoceros. Yeah, you, you can, you can, you know,",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.519,
+            "sibling_verbatim": "He thought you could only cast spells. Now he's, you know."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "rationale": "Sibling score 0.519, below the floor, so no sibling conclusion. Target line 1167 settles it: 'Monoceros. Yeah, you, you can, you can, you know, make some hand gestures. Well, you're a spider.' \u2014 this is a discussion of SOMATIC spell components while Soma is wild-shaped as a spider. 'Monoceros' is an ASR rendering of 'somatic'. Not a name; recommend the ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Raphael",
+          "count": 1,
+          "verbatim": "what's your relationship with Raphael? I'm just curious.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.991,
+            "sibling_verbatim": "What's your relationship with Raphael? I'm just curious."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Out-of-game Baldur's Gate 3 chatter, not a campaign NPC: \"what's your relationship with Raphael? I'm just curious.\" Both transcriptions agree at score 0.991 \u2014 agreement, not substitution, so this is corroboration that the word was spoken; it is simply not a CAMPAIGN name. Same conversational run as Shadowheart, Gale and Baldur's Gate Act One. Recommend the state ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Sacred Flame",
+          "count": 1,
+          "verbatim": "effective than, uh, more effective than Sacred Flame. Hmm. So I'll go with that.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.727,
+            "sibling_verbatim": "You know, I think that her mace is more effective than more effective than sacred flame. So I'll go with that."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "The 5e cantrip, correctly spelled, in a comparison with a mace. Sibling renders it lowercase. Flagged only because spell names are missing from the known-name set. See agent_notes.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 127,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Sanctuary",
+          "count": 1,
+          "verbatim": "And is facing a harpy- Sanctuary ... with 15 hit points. But sure, why n",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.816,
+            "sibling_verbatim": "And it's facing a harpy. 15 hit points. But sure, why not?"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "The 5e spell, correctly spelled ('And is facing a harpy- Sanctuary ... with 15 hit points'). Sibling drops it. Same known-name-set gap as Command / Sacred Flame / Cloud of Daggers.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 129,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Shadowheart",
+          "count": 1,
+          "verbatim": "Yeah, I think... Well, my Shadowheart had Wish. You",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.819,
+            "sibling_verbatim": "Yeah, I think. Well, my Shadowheart."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "rationale": "Out-of-game Baldur's Gate 3 chatter ('Well, my Shadowheart had Wish'), sibling agrees. Not a campaign NPC. Recommend the state ignore list.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Somna- No",
+          "count": 1,
+          "verbatim": "Yep. Somna- No,",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.71,
+            "sibling_verbatim": "Yep, someone's up."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "rationale": "Subsumed, not separately actionable. The embedded wrong-form 'Somna' already has its own member in cluster 8 with a confirming sibling ('Soma's up first.'); this run is that same wrong-form plus a following 'No'. A row on the run would delete the 'No'. Surfaced rather than auto-dismissed so the GM can see the wrong-form occurs twice, but no separate rule should be written.",
+          "requires_gm": false,
+          "lowercase_in_target_as_scanned": true
+        }
+      ]
+    }
+  ],
+  "auto_dismissed": [
+    {
+      "token": "Fine",
+      "count": 1,
+      "verbatim": "Fine. That's fine.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.824,
+        "sibling_verbatim": "Yeah, that's fine."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Brief's worked example. Sibling: \"Yeah, that's fine.\" \u2014 plain prose, no name. 'fine' is a common English word appearing lowercase in the transcript; the cluster only bound it to Valphine on a string-similarity accident. count==1 and ordinary_words, so auto-dismissed under the GM's positive-counter-evidence rule.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 2,
+      "proposed_canonical": "Valphine"
+    },
+    {
+      "token": "Been",
+      "count": 1,
+      "verbatim": "e on, you're, you're... You got a, a... Been wondering what's with all the commands.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.704,
+        "sibling_verbatim": "This is why you're on. Been wondering what's with all the covers."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"This is why you're on. Been wondering what's with all the covers.\" \u2014 plain prose, no name; 'been' is a common English word appearing lowercase. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 7,
+      "proposed_canonical": "Boney"
+    },
+    {
+      "token": "Harpies",
+      "count": 1,
+      "verbatim": "ll right, Harpy Three. Who do you want- Harpies three ... what do you wanna do, Harpy T",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.636,
+        "sibling_verbatim": "All right. Who is last? Harpy 3. Harpy 3. What do you want to do, Harpy 3?"
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling shows the same combat bookkeeping ('Harpy 3. Harpy 3.'). Correctly-spelled plural of the monster type, lowercase elsewhere in the transcript; nothing to correct. count==1 + ordinary_words -> auto-dismissed. Root cause is cluster 41 (Harpy missing from the known-name set).",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 12,
+      "proposed_canonical": "Harpies' Aerie (T5)"
+    },
+    {
+      "token": "harpies",
+      "count": 1,
+      "verbatim": "ll right, let's do this battle with the harpies.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.979,
+        "sibling_verbatim": "All right. Let's do this battle with the Harpies."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"All right. Let's do this battle with the Harpies.\" Correctly spelled, already lowercase in ours. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 12,
+      "proposed_canonical": "Harpies' Aerie (T5)"
+    },
+    {
+      "token": "Enter",
+      "count": 1,
+      "verbatim": "Hold on. Enter. If you enter, you'll see another door.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.981,
+        "sibling_verbatim": "Hold on. Enter. If you enter, you'll see another door."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling is character-identical: \"Hold on. Enter. If you enter, you'll see another door.\" 'enter' is a common English verb used lowercase in the same sentence. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 19,
+      "proposed_canonical": "Ander"
+    },
+    {
+      "token": "Heroic",
+      "count": 1,
+      "verbatim": "Heroic ...",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "Heroic."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'Heroic.' Ordinary English adjective, no name. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 20,
+      "proposed_canonical": "Harrag"
+    },
+    {
+      "token": "Hooray",
+      "count": 1,
+      "verbatim": "you're free. The singing is over. Hooray. Brewbarry can actually attack.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.755,
+        "sibling_verbatim": "Yeah. And the singing is over. Brewbarry, you're free. Hooray. Brewbarry can actually attack."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Brewbarry, you're free. Hooray.' \u2014 plain interjection, not the god Hoar. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 21,
+      "proposed_canonical": "Hoar"
+    },
+    {
+      "token": "Made",
+      "count": 1,
+      "verbatim": "Uh, plus one. Made it. That",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.737,
+        "sibling_verbatim": "Plus one. Made it. That makes it."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Plus one. Made it. That makes it.' Ordinary past-tense verb, lowercase elsewhere. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 23,
+      "proposed_canonical": "Mate"
+    },
+    {
+      "token": "Okey",
+      "count": 1,
+      "verbatim": "Yeah. Okey",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.842,
+        "sibling_verbatim": "Yeah. Okay."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Yeah. Okay.' \u2014 'Okey' is a spelling variant of the filler 'okay', not the ochre jelly. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 25,
+      "proposed_canonical": "Ochre"
+    },
+    {
+      "token": "Pretty",
+      "count": 1,
+      "verbatim": "down Pretty much,",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.815,
+        "sibling_verbatim": "Pretty much."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Pretty much.' Ordinary English adverb. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 27,
+      "proposed_canonical": "Prutha"
+    },
+    {
+      "token": "Spider The",
+      "count": 1,
+      "verbatim": "Strikes the Spider The spider",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "strikes the spider. The spider."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'strikes the spider. The spider.' \u2014 a two-ordinary-word run across a sentence boundary (Soma is wild-shaped as a spider this session). count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 28,
+      "proposed_canonical": "Spider Man"
+    },
+    {
+      "token": "Success",
+      "count": 1,
+      "verbatim": "Success. Excellent. Wow, I'm having a good comb",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.847,
+        "sibling_verbatim": "Excellent. Wow. I'm having a good combat."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Excellent. Wow.' Ours is 'Success. Excellent.' \u2014 an ordinary noun called on a successful roll. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 29,
+      "proposed_canonical": "Neverwinter Succession Conflict"
+    },
+    {
+      "token": "Yep Yes",
+      "count": 1,
+      "verbatim": "Yep Yes, so you're both now no longer charmed.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "Yep. Yes, so you're both now no longer charmed."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Yep. Yes, so you're both now no longer charmed.\" Two fillers run together across a sentence boundary. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 32,
+      "proposed_canonical": "Abyss"
+    },
+    {
+      "token": "You- No",
+      "count": 1,
+      "verbatim": "You- No, no, um-",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.72,
+        "sibling_verbatim": "No, no, no."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'No, no, no.' Pure disfluency run; not the player name Wade. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 33,
+      "proposed_canonical": "Wade"
+    },
+    {
+      "token": "server",
+      "count": 1,
+      "verbatim": "just use a Linux server.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.958,
+        "sibling_verbatim": "I just use a Linux server."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'I just use a Linux server.' Out-of-game tech chatter; the token is already lowercase. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 36,
+      "proposed_canonical": "Ondrae \u2014 server, the Moonstone Mask (DRAFT)"
+    },
+    {
+      "token": "serves",
+      "count": 1,
+      "verbatim": "by three-foot-high stone retaining wall serves as a nest.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.868,
+        "sibling_verbatim": "A ledge enclosed by three-foot-high stone retaining wall serves as a nest."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'A ledge enclosed by three-foot-high stone retaining wall serves as a nest.' \u2014 module read-aloud, ordinary verb, already lowercase. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 37,
+      "proposed_canonical": "Stirge"
+    },
+    {
+      "token": "understand",
+      "count": 1,
+      "verbatim": "You're, you're, you're ... You have to understand, you are engaged in some very revolutio",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.605,
+        "sibling_verbatim": "I'm quite confused. You have to understand, you are engaged in some very revolutionary behavior against the overall world order of this realms."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'You have to understand, you are engaged in some very revolutionary behavior...' The glossary row this cluster fired on is 'understained -> restrained'; 'understand' is the correct word here. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 38,
+      "proposed_canonical": "restrained"
+    },
+    {
+      "token": "But- But",
+      "count": 1,
+      "verbatim": "kay. So you're still inside the sphere. But- But I also",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.796,
+        "sibling_verbatim": "Okay. So you're still inside the sphere."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Okay. So you're still inside the sphere.\" Stutter on an ordinary conjunction. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 40,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Uh- Okay",
+      "count": 1,
+      "verbatim": "y hit points based on your druid level. Uh- Okay ... and you have the full health bar ot",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.735,
+        "sibling_verbatim": "You get bonus hit points or temporary hit points based on your druid level, and you have the full health bar otherwise."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling covers the span as plain prose about temporary hit points. Filler run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 40,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Uh- Or",
+      "count": 1,
+      "verbatim": "a do 12 damage or we're really screwed. Uh- Or a silent spell or something that's gonn",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.714,
+        "sibling_verbatim": "Valphine, you got to do 12 damage or we're really screwed. Or a silent spell or something that's going to stop him from casting lightning bolt."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: '...or a silent spell or something that\\'s going to stop him from casting lightning bolt.' The span itself is filler + 'Or'. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 40,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Uh- Yeah",
+      "count": 1,
+      "verbatim": "Um, locate object. No? Uh- Yeah. How about, um, a crossbow bolt?",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.721,
+        "sibling_verbatim": "Looking object. No? Yeah. How about a across fobolt?"
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Looking object. No? Yeah. How about a across fobolt?' Filler run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 40,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Wow Okay",
+      "count": 1,
+      "verbatim": "Oh, even bigger. Wow Okay. Um So to- So that's it, then I can mov",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.721,
+        "sibling_verbatim": "Oh, even bigger. Wow. Okay. That's it. Then I can move it a little bit here."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Oh, even bigger. Wow. Okay.' Two interjections run together. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 40,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Hmm I'm",
+      "count": 1,
+      "verbatim": "ght. Um, so that should be easy enough. Hmm I'm not used to this No. All right. Let me",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.822,
+        "sibling_verbatim": "That should be easy enough. I'm not used to this. No. All right."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"That should be easy enough. I'm not used to this. No. All right.\" Filler + pronoun run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 44,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Mama",
+      "count": 1,
+      "verbatim": "The bear will be fine. Mama",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.875,
+        "sibling_verbatim": "The bear will be fine."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'The bear will be fine.' Ours: 'The bear will be fine. Mama' \u2014 an affectionate tag on Soma's bear companion, not a name. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 52,
+      "proposed_canonical": null
+    },
+    {
+      "token": "course",
+      "count": 1,
+      "verbatim": "Of course, the heartbeat doesn't know that you've",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.86,
+        "sibling_verbatim": "Of course, the harpy doesn't know that you've saved."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Of course, the harpy doesn't know that you've saved.\" Already lowercase; ordinary word. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 54,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Charm Three",
+      "count": 1,
+      "verbatim": "Uh, charm, Charm Three.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.829,
+        "sibling_verbatim": "Charmed. Charm three."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Charmed. Charm three.' \u2014 the DM applying the charmed condition to harpy three. Ordinary mechanics talk. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 56,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Everyone",
+      "count": 1,
+      "verbatim": "Harpy one Everyone flies by and",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.769,
+        "sibling_verbatim": "Harpy one. V1 flies by"
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Harpy one. V1 flies by'. Ordinary pronoun. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 70,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Hmm That",
+      "count": 1,
+      "verbatim": "Hmm That's not so nice A miss.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.766,
+        "sibling_verbatim": "That's not so miss."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"That's not so miss.\" Filler + demonstrative run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 82,
+      "proposed_canonical": null
+    },
+    {
+      "token": "The- That",
+      "count": 1,
+      "verbatim": "The- That is, that is the hardest battle in the g",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.733,
+        "sibling_verbatim": "Yeah. That is the hardest battle in the game for sure."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Yeah. That is the hardest battle in the game for sure.' Stutter run on ordinary words. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 82,
+      "proposed_canonical": null
+    },
+    {
+      "token": "I- That",
+      "count": 1,
+      "verbatim": "sorry, I- That's a fair que- that's a fair question",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.659,
+        "sibling_verbatim": "Okay, sorry. That's a fair question."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Okay, sorry. That's a fair question.\" Stutter run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 83,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Yeah Thought",
+      "count": 1,
+      "verbatim": "Yeah Thought you were a spell",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.787,
+        "sibling_verbatim": "Thought you were a spell slinger."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Thought you were a spell slinger.' Filler + verb run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 83,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Okay Hit",
+      "count": 1,
+      "verbatim": "Okay Hit for six? Ooh, I'm, I'm feeling weak her",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.804,
+        "sibling_verbatim": "Okay. Hit for six. I'm feeling weak here, guys."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Okay. Hit for six. I'm feeling weak here, guys.\" Two ordinary words across a sentence boundary. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 84,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Okay The",
+      "count": 1,
+      "verbatim": "Okay The",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.706,
+        "sibling_verbatim": "Okay. Yeah."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Okay. Yeah.' Filler run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 84,
+      "proposed_canonical": null
+    },
+    {
+      "token": "That's- Oh",
+      "count": 1,
+      "verbatim": "Okay, that's a hit, so 12 damage on me. That's- Oh, jeez, all right, down to nine. All rig",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.675,
+        "sibling_verbatim": "Sounds good. It's a hit. So 12 damage on me. Down to nine. All right."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Sounds good. It's a hit. So 12 damage on me. Down to nine.\" Disfluency run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 86,
+      "proposed_canonical": null
+    },
+    {
+      "token": "That- Or",
+      "count": 1,
+      "verbatim": "points, puts me down to 24. All right. That- Or temporary Do you",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.781,
+        "sibling_verbatim": "Puts me down to 24. All right. Or temporary."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Puts me down to 24. All right. Or temporary.' Disfluency run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 86,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Um So",
+      "count": 1,
+      "verbatim": "Oh, even bigger. Wow Okay. Um So to- So that's it, then I can move it a",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.775,
+        "sibling_verbatim": "Oh, even bigger. Wow. Okay. That's it. Then I can move it a little bit here."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Oh, even bigger. Wow. Okay. That's it.\" Filler run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 87,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Um- So",
+      "count": 1,
+      "verbatim": "t bigger Yeah, I think spider's better. Um- So,",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.763,
+        "sibling_verbatim": "Yeah, I think spider is better."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Yeah, I think spider is better.\" Filler run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 87,
+      "proposed_canonical": null
+    },
+    {
+      "token": "And Harpy Two",
+      "count": 1,
+      "verbatim": "And Harpy Two's gonna start, Harpy Two think, is convin",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.571,
+        "sibling_verbatim": "All right. Harpy two. Harpy two. Harpy two. What you gonna do?"
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'All right. Harpy two. Harpy two. Harpy two. What you gonna do?' \u2014 a conjunction plus a correctly-spelled combat token label. count==1 + ordinary_words -> auto-dismissed. Covered by the cluster-41 known-name ask.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 89,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Any",
+      "count": 1,
+      "verbatim": "take a bite- Any dart out will have to now do a savings",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.61,
+        "sibling_verbatim": "Okay. Oh, so if I dart out to now do a saving throw."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Okay. Oh, so if I dart out to now do a saving throw.' Ordinary determiner. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 90,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Apparently",
+      "count": 1,
+      "verbatim": "there Apparently the rolling of dice is taking a while",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.769,
+        "sibling_verbatim": "Ooh. Rolling of dice is taking a while."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Ooh. Rolling of dice is taking a while.' Ordinary adverb. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 91,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Belligerent Belligerent",
+      "count": 1,
+      "verbatim": "the dog? Belligerent Belligerent? Ah. Just chomping away at me. Are you",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.683,
+        "sibling_verbatim": "How's the dog? Belligerent. Just jumping away at me."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"How's the dog? Belligerent. Just jumping away at me.\" Real-world chatter about a dog; the run is one ordinary adjective repeated. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 95,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Bert And",
+      "count": 1,
+      "verbatim": "Bert And then we'll go",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.694,
+        "sibling_verbatim": "And then we'll go like this."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling drops the token entirely: \"And then we'll go like this.\" \u2014 ASR noise before an ordinary conjunction. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 96,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Boom",
+      "count": 1,
+      "verbatim": "You mean with, uh, the, um- Boom,",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.685,
+        "sibling_verbatim": "You mean with the Gail's relic? Yelgo boom."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"You mean with the Gail's relic? Yelgo boom.\" \u2014 part of the same Baldur's Gate 3 'Gale go boom' chatter as cluster 57. Interjection, no name. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 97,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Damage",
+      "count": 1,
+      "verbatim": "Damage. I'll end it.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.75,
+        "sibling_verbatim": "Damage. I'll put it in."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Damage. I'll put it in.\" Ordinary mechanics noun, sentence-initial. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 100,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Down",
+      "count": 1,
+      "verbatim": "Down two.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.7,
+        "sibling_verbatim": "Down to nine."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Down to nine.' Ordinary preposition in hit-point bookkeeping. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 101,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Frustrated",
+      "count": 1,
+      "verbatim": "Frustrated",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "Frustrated."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'Frustrated.' Ordinary adjective. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 103,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Gonna",
+      "count": 1,
+      "verbatim": "Okay. Gonna",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.737,
+        "sibling_verbatim": "Okay, so."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Okay, so.' Colloquial contraction. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 104,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Har- Harpy",
+      "count": 1,
+      "verbatim": "Har- Harpy one.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.848,
+        "sibling_verbatim": "Harpy one. Harpy one."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Harpy one. Harpy one.' \u2014 a stutter on a correctly-spelled monster label. count==1 + ordinary_words -> auto-dismissed. Covered by the cluster-41 known-name ask.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 108,
+      "proposed_canonical": null
+    },
+    {
+      "token": "I- I'm",
+      "count": 1,
+      "verbatim": "You already used your move. I- I'm assuming you climbing up is the- Yeah,",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.853,
+        "sibling_verbatim": "You already used your move. I'm assuming you're climbing up. Sorry."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"You already used your move. I'm assuming you're climbing up.\" Stutter on a pronoun. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 110,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Love",
+      "count": 1,
+      "verbatim": "Love.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.571,
+        "sibling_verbatim": "One."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'One.' Ours is a bare 'Love.' \u2014 an ordinary word, no name recoverable. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 113,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Miss",
+      "count": 1,
+      "verbatim": "Miss. Misses all around. Yeah,",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.772,
+        "sibling_verbatim": "You missed. Misses all around."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'You missed. Misses all around.' Ordinary combat-result noun. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 116,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Now I'm",
+      "count": 1,
+      "verbatim": "Now I'm tooling around in the backyard with a l",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.629,
+        "sibling_verbatim": "Now I'm tooling around in the backyard of the little razor scooter, just trying to keep him calm."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Now I'm tooling around in the backyard of the little razor scooter...\" Real-world dog/scooter chatter. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 118,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Okay Miss It",
+      "count": 1,
+      "verbatim": "Okay Miss It",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.857,
+        "sibling_verbatim": "Okay. Miss."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Okay. Miss.' Filler plus combat result. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 119,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Rex",
+      "count": 1,
+      "verbatim": "Uh, you can see Rex.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.757,
+        "sibling_verbatim": "You can see wrecks."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Decisive sibling: 'You can see wrecks.' \u2014 in a coastal Tower-of-Storms scene, 'Rex' is an ASR rendering of 'wrecks'. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 125,
+      "proposed_canonical": null
+    },
+    {
+      "token": "So Harpy",
+      "count": 1,
+      "verbatim": "So it's both charm one. So Harpy, Harpy, uh, Harpy Three rather. Let me",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.607,
+        "sibling_verbatim": "Okay, so Harpy's charming. Harpy. A Harpy 3 rather. Let me put that."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Okay, so Harpy's charming. Harpy. A Harpy 3 rather.\" A connective plus a correctly-spelled monster label. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 130,
+      "proposed_canonical": null
+    },
+    {
+      "token": "So Viva Las Vegas",
+      "count": 1,
+      "verbatim": "All right. All right. Okay. So Viva Las Vegas, folks.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.97,
+        "sibling_verbatim": "All right. All right. Okay. So, Viva Las Vegas, folks."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling character-identical: 'All right. All right. Okay. So, Viva Las Vegas, folks.' Real-world catchphrase used to open combat. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 131,
+      "proposed_canonical": null
+    },
+    {
+      "token": "So- Oh",
+      "count": 1,
+      "verbatim": "Oh, okay. So- Oh,",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.815,
+        "sibling_verbatim": "Oh, okay. So."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Oh, okay. So.' Disfluency run. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 132,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Testing",
+      "count": 1,
+      "verbatim": "Testing",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "Testing."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'Testing.' Audio check before the session. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 134,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Typical",
+      "count": 1,
+      "verbatim": "All right. Well, more blood loot. Typical",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.975,
+        "sibling_verbatim": "All right. Well, more blood loot. Typical."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'All right. Well, more blood loot. Typical.' Ordinary adjective. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 135,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Uh- Does",
+      "count": 1,
+      "verbatim": "Uh- Does",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.706,
+        "sibling_verbatim": "Oh, DACES."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Oh, DACES.' (itself garbled). Ours is filler plus an auxiliary verb. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 136,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Um Seems",
+      "count": 1,
+      "verbatim": "Um Seems like not that long ago I was up there",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.966,
+        "sibling_verbatim": "Seems like not that long ago I was up there."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Seems like not that long ago I was up there.' Filler plus verb. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 137,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Um- Can't",
+      "count": 1,
+      "verbatim": "g ax or something. Um, yeah, a hand ax. Um- Can't scale the walls? I, I, I might. Um- So-",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.689,
+        "sibling_verbatim": "Well, I may have a throwing axe or something. Yeah, hand axe. Can't scale the walls? I might."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Yeah, hand axe. Can't scale the walls? I might.\" Filler plus contraction. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 138,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Um- Should",
+      "count": 1,
+      "verbatim": "can't fit bear in here. Bear is large. Um- Should",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.843,
+        "sibling_verbatim": "I can't fit bear in here. Bear is large. Should we move?"
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"I can't fit bear in here. Bear is large. Should we move?\" Filler plus modal. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 139,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Um- So- Kidding",
+      "count": 1,
+      "verbatim": "- Can't scale the walls? I, I, I might. Um- So- Kidding ... number one I could probably hit wit",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.791,
+        "sibling_verbatim": "Can't scale the walls? I might. So number one, I could probably hit with a hand axe."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"Can't scale the walls? I might. So number one, I could probably hit with a hand axe.\" Filler run; 'Kidding' is an ordinary word. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 140,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Whatever All",
+      "count": 1,
+      "verbatim": "e my token out of here. Get, get to ... Whatever All right.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.8,
+        "sibling_verbatim": "I'm going to move my token out of here. Get to whatever. All right."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: \"I'm going to move my token out of here. Get to whatever. All right.\" Two ordinary words across a sentence boundary. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 141,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Wrong",
+      "count": 1,
+      "verbatim": "Oh, shoot. Wrong",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.769,
+        "sibling_verbatim": "Oh, shoot. Wrong speaker."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling: 'Oh, shoot. Wrong speaker.' \u2014 Zoom bookkeeping. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 142,
+      "proposed_canonical": null
+    },
+    {
+      "token": "Yikes",
+      "count": 1,
+      "verbatim": "Yikes.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "Yikes."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'Yikes.' Interjection. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 143,
+      "proposed_canonical": null
+    },
+    {
+      "token": "You- So",
+      "count": 1,
+      "verbatim": "med. You're not doing anything. It's... You- So you have to",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.582,
+        "sibling_verbatim": "Well, you know, like, I'm not going to do anything else, right? Yeah, you may as well."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling gives unrelated plain prose; ours is a disfluency run on two ordinary words. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 144,
+      "proposed_canonical": null
+    },
+    {
+      "token": "blowing",
+      "count": 1,
+      "verbatim": "Uh, I am blowing all my rolls to search it.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.95,
+        "sibling_verbatim": "I am blowing all my rolls to search it."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'I am blowing all my rolls to search it.' Already lowercase, ordinary verb. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 145,
+      "proposed_canonical": null
+    },
+    {
+      "token": "failing",
+      "count": 1,
+      "verbatim": "He's failing upward.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "He's failing upward."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: \"He's failing upward.\" Already lowercase, ordinary verb. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 146,
+      "proposed_canonical": null
+    },
+    {
+      "token": "slippery",
+      "count": 1,
+      "verbatim": "this is not, this is not a particularly slippery surface, so you, it's just half your mo",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.825,
+        "sibling_verbatim": "This is not a particularly slippery surface. It's just half your movement."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'This is not a particularly slippery surface.' Already lowercase. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 147,
+      "proposed_canonical": null
+    },
+    {
+      "token": "stormy",
+      "count": 1,
+      "verbatim": "scoes that depict ships being tossed on stormy seas with dark and terrible god looming",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.72,
+        "sibling_verbatim": "the walls of this 15-foot high room are adorned with frescoes that depict ships being tossed on stormy seas with dark and terrible God looming above them."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: module read-aloud, '...ships being tossed on stormy seas with dark and terrible God looming above them.' Already lowercase. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 148,
+      "proposed_canonical": null
+    },
+    {
+      "token": "treasure",
+      "count": 1,
+      "verbatim": "o liberate the castle, not just get the treasure, right? We're trying to like- True. Lib",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.751,
+        "sibling_verbatim": "But the point of coming here was to liberate the castle, not just get the treasure, right? We're trying to liberate the castle."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": null,
+      "rationale": "Sibling identical: 'the point of coming here was to liberate the castle, not just get the treasure, right?' Already lowercase. count==1 + ordinary_words -> auto-dismissed.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": true,
+      "lowercase_in_target_as_scanned": true,
+      "cluster_id": 149,
+      "proposed_canonical": null
+    }
+  ],
+  "false_residuals_suppressed": [
+    {
+      "token": "So Valphine",
+      "count": 1,
+      "verbatim": "So Valphine.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.87,
+        "sibling_verbatim": "Oh, Valphine."
+      },
+      "lowercase_in_target": false,
+      "kind": "campaign_correct_name",
+      "recommendation": null,
+      "rationale": "False residual: the embedded name is ALREADY the canonical 'Valphine'. Flagged only because the scanner cannot split a capitalised run starting with the sentence connective 'So'. A row here would delete the word 'So'.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": false,
+      "cluster_id": 2,
+      "proposed_canonical": "Valphine"
+    },
+    {
+      "token": "V- V- Valphine",
+      "count": 1,
+      "verbatim": "Well, I mean, you know, V- V- Valphine, this is very, this is very odd. Valphi",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.781,
+        "sibling_verbatim": "Well, I mean, you know, Valphine, this is very odd."
+      },
+      "lowercase_in_target": false,
+      "kind": "campaign_correct_name",
+      "recommendation": null,
+      "rationale": "False residual: embedded name already correct; the run is a stutter ('V- V- Valphine'). Sibling agrees: 'Well, I mean, you know, Valphine, this is very odd.'",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": false,
+      "cluster_id": 2,
+      "proposed_canonical": "Valphine"
+    },
+    {
+      "token": "V- Valphine",
+      "count": 1,
+      "verbatim": "That, like, next to, uh, V- Valphine and... So let me just make sure I remem",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.727,
+        "sibling_verbatim": "Like, next to Valphine and let me just make sure I remember how Harpy songs work."
+      },
+      "lowercase_in_target": false,
+      "kind": "campaign_correct_name",
+      "recommendation": null,
+      "rationale": "False residual \u2014 the brief's own worked example. Embedded name already correct; scanner cannot split the capitalised stutter run.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": false,
+      "cluster_id": 2,
+      "proposed_canonical": "Valphine"
+    },
+    {
+      "token": "Valphine Hmm",
+      "count": 1,
+      "verbatim": "Valphine Hmm. Can you see?",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.682,
+        "sibling_verbatim": "Valphine, you're up."
+      },
+      "lowercase_in_target": false,
+      "kind": "campaign_correct_name",
+      "recommendation": null,
+      "rationale": "False residual: embedded name already correct; the run is 'Valphine' followed by the filler 'Hmm'.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": false,
+      "cluster_id": 2,
+      "proposed_canonical": "Valphine"
+    },
+    {
+      "token": "Is Brewbarry",
+      "count": 1,
+      "verbatim": "Is Brewbarry's option here to scale the wall?",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 1.0,
+        "sibling_verbatim": "Is Brewbarry's option here to scale the wall?"
+      },
+      "lowercase_in_target": false,
+      "kind": "campaign_correct_name",
+      "recommendation": null,
+      "rationale": "False residual: embedded name already correct; scanner cannot split the capitalised run. Sibling is character-identical at score 1.0.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": false,
+      "cluster_id": 4,
+      "proposed_canonical": "Brewbarry"
+    },
+    {
+      "token": "No Brewbarry",
+      "count": 1,
+      "verbatim": "everybody but Brewbarry. Oh, everyone. No Brewbarry. Uh, yeah, so everybody but Brewbarry.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.786,
+        "sibling_verbatim": "So the three, everybody but Brewbarry. Oh, everyone. Yeah. It's everybody but Brewbarry."
+      },
+      "lowercase_in_target": false,
+      "kind": "campaign_correct_name",
+      "recommendation": null,
+      "rationale": "False residual: embedded name already correct twice in the same line; the run picked up the preceding 'No'.",
+      "requires_gm": false,
+      "lowercase_in_target_recomputed": false,
+      "lowercase_in_target_as_scanned": false,
+      "cluster_id": 4,
+      "proposed_canonical": "Brewbarry"
+    }
+  ],
+  "agent_blocked_on": [
+    {
+      "topic": "batch_scan.py lowercase_in_target is computed case-insensitively and is unusable as written",
+      "detail": "batch_scan.py:132 lowercases the whole target ('target_lower') and line 147 then searches it for the lowercased token. The search therefore matches the token in ANY case, so the flag is True for 96 of this directory's 153 members whose wrong-form never appears lowercase at all - including Velphina, Brewbrewry, Vucarydin and Somna. Applied literally, the brief's rule ('if it is true, recommend no_rule') would suppress every genuine correction in this chapter. I recomputed the test case-sensitively (search the raw target for the all-lowercase form as a standalone word) and used that; 40 members are genuinely lowercase and all 40 are ordinary English words, which is exactly what the rule is meant to catch. Every member carries both values: 'lowercase_in_target' (recomputed, authoritative) and 'lowercase_in_target_as_scanned' (the raw flag). ORCHESTRATOR DECISION NEEDED: this defect is in the shared script, so all 14 agents inherit it; confirm the recomputation before merging any directory's rows.",
+      "blocking": false
+    },
+    {
+      "topic": "Miral vs Miraal - two canonicals for one NPC (cluster 24)",
+      "detail": "The glossary carries both 'Miral the Self -> Miral' and 'Mirelle, Mirale, Meral -> Miraal', and docs/entity_inventory.md lists both as separate entries, but docs/glossary.md:79 and the chapter-08 read-aloud make them the same Tower of Storms sea elf. This chapter's token is 'Mirall' and the sibling offers a third spelling, 'Myral'. No row can be written until the GM rules which spelling is canonical. Escalated, not guessed.",
+      "blocking": true
+    }
+  ],
+  "agent_notes": [
+    {
+      "topic": "kind convention for out-of-game proper nouns",
+      "detail": "Where BOTH transcriptions independently render the same non-campaign proper noun (Katie, Raphael, Shadowheart, Gale, Baldur's Gate Act One, Linux, Razor, Viva Las Vegas), I classed the sibling as 'ordinary_words' rather than 'different_name'. Reasoning: the documented contamination SUBSTITUTES a name it already knows; it does not agree with the target. Agreement is therefore corroboration that the word was spoken, and the operative conclusion - no CAMPAIGN name was spoken at this span - is exactly what ordinary_words licenses. 'different_name' is reserved for spans where the sibling shows a campaign-plausible name DIFFERENT from ours (cluster 24 is the only one here)."
+    },
+    {
+      "topic": "spell names are missing from the known-name set",
+      "detail": "Command (x3), Sacred Flame, Sanctuary, Cloud of Daggers and Wish are all correctly spelled in this transcript and all absent from known_flat.txt, so each surfaces as an unknown proper noun. Recommend the orchestrator add common 5e spell names to the known-name set rather than the GM ruling on them one chapter at a time."
+    },
+    {
+      "topic": "'Harpy' generated nine of this directory's clusters",
+      "detail": "Harpy / Harpies is the entire monster roster of chapter 08 (31+ occurrences), correctly spelled, and absent from known_flat.txt. It produced clusters 9, 12, 41, 56, 89, 108, 109 and 130 and pulled 'Harbin' and \"Harpies' Aerie (T5)\" in as spurious proposals. See the new_canon recommendation on cluster 41."
+    },
+    {
+      "topic": "'So '-prefixed capitalised runs must not become rows verbatim",
+      "detail": "Cluster 85's members are 'So Vokradin' and 'So Vokrodin'. The corrections are real, but the row must be written on the BARE forms; a row containing the leading 'So' would delete the sentence connective, the same class of damage as the Toblin/Toblen precedent in the brief. Note the glossary already contains rows of this shape ('So Bob, So Bob Saget -> Bob Saget', 'But Horia'), which may be worth auditing."
+    }
+  ]
+}
