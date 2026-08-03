@@ -1605,8 +1605,6 @@ entities:
     and the carved stone plaque commemorating the giant-mortal alliance
 - name: River District
   type: location
-  aliases:
-  - River's District
   note: District that declined, causing older merchants to relocate to the Seven Suns
     Coster Market
 - name: School of Wizardry
@@ -2123,79 +2121,76 @@ entities:
     sunlight, and became a devoted follower of Lathander [Campaign Canon character]
 - name: Aldric Stone Path
   type: npc
-- name: aletra
+- name: Backes Dunfield
   type: npc
-- name: backes_dunfield
-  type: npc
-- name: borg_the_hammer
+- name: Borg the Hammer
   type: npc
   aliases:
   - Borg
-- name: cooragh_struckt
+- name: Cooragh Struckt
   type: npc
-- name: corbin
+- name: Corbin
   type: npc
-- name: daran_edermath_silverleaf
+- name: Daran Edermath
   type: npc
-- name: delaan_winterhound
+  aliases:
+  - Silverleaf
+  note: >-
+    Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling
+    confirmed against docs/NeverwinterExpansionismandtheNorth.md ("Later, I would
+    learn his name, Daran Edermath, but he's known as Silverleaf"); renamed from the
+    slug canonical daran_edermath_silverleaf 2026-08-03.
+- name: Delaan Winterhound
   type: npc
 - name: Drubbak
   type: npc
 - name: Dwolin the Grout
   type: npc
-- name: elara
+- name: Jarek
   type: npc
-- name: jarek
+- name: Jax
   type: npc
-- name: jax
-  type: npc
-- name: locutus
+- name: Locutus
   type: npc
 - name: Lord Cassian Meliamne
   type: npc
-- name: lord_halueth_verres
+- name: Lord Halueth Verres
   type: npc
-- name: lyra
+- name: Lyra
   type: npc
-- name: marian
+- name: Marian
   type: npc
-- name: martisha_vinetalker
+- name: Martisha Vinetalker
   type: npc
-- name: out_of_phase_dwarves_axelholm_inhabitants
+- name: Out-of-Phase Dwarves (Axeholm)
   type: npc
-- name: qelline_alderleaf
+- name: Qelline Alderleaf
   type: npc
 - name: Reidoth
   type: npc
-- name: rot_tusk_ogre
+- name: Rot-Tusk Ogre
   type: npc
   aliases:
   - Rot-Tusk Ogres
-- name: runa
-  type: npc
-- name: skippy
+- name: Skippy
   type: npc
 - name: Soma
   type: npc
-- name: sridar
+- name: Sridar
   type: npc
-- name: sylvine_wintermoon
+- name: Teega the Smith
   type: npc
-  aliases:
-  - Sylvine
-- name: teega_the_smith
+- name: The Anchorite Half-Orc
   type: npc
-- name: the_anchorite_half_orc
+- name: The Cult Fanatic
   type: npc
-- name: the_cult_fanatic
+- name: The Dwarven King
   type: npc
-- name: the_dwarven_king
+- name: The Orc Scout
   type: npc
-- name: the_orc_scout
+- name: The Stag
   type: npc
-- name: the_stag
-  type: npc
-- name: thomas
+- name: Thomas
   type: npc
 - name: Vorga
   type: npc
@@ -2227,8 +2222,6 @@ distinct:
 rejected_aliases:
 - - Corbin
   - Corwin
-- - Elara
-  - Elara Seasong Meliamne
 - - Meril
   - Miral
 - - Ser Kaelen
@@ -2251,18 +2244,17 @@ rejected_aliases:
   - The narrator
 - - lyra
   - Ilvara
-  - elara
   - Elara Seasong Meliamne
 - - corbin
   - Harbin Wester
   - Corrin
 - - Vorga
   - Horia Stonetallow
-  - borg_the_hammer
+  - Borg the Hammer
   - Vukradin
   - Vorga's elder
 - - ogre
-  - rot_tusk_ogre
+  - Rot-Tusk Ogre
 - - orcs
   - six dead orcs
 - - Cryovain

@@ -344,7 +344,7 @@
 - **Neverwinter Docks** — Active commercial port district, 24-hour operation, earthmotes still visible overhead
 - **Neverwinter River** — River flowing through Neverwinter; never freezes due to heat from fire elementals beneath Mount Hotenow
 - **Protector's Enclave** — District of Neverwinter; home of the market district, the Hall of Justice, and the carved stone plaque commemorating the giant-mortal alliance
-- **River District** / **River's District** — District that declined, causing older merchants to relocate to the Seven Suns Coster Market
+- **River District** — District that declined, causing older merchants to relocate to the Seven Suns Coster Market
 - **School of Wizardry** — Founded in 457 DR by the Covenant (Aganazzar, Ilyykur, Presper, Grimwald); destroyed by Red Wizards in 1081 DR
 - **Shard of the Moon** — Purified form of the Shard of Night after Selûnite intervention; alabaster white with a moonlight stairway that descends when three shards are placed within or below it
 - **Tower District** — Formerly wizard-tower-rich merchant district; seized by Many-Arrows orcs post-cataclysm, now considered cursed
@@ -550,39 +550,35 @@
 - **Meril**
 - **Valphine** / **Valphine Sortorra** / **Valphine Sotorra** — Drow cleric who fled the Underdark chaos, had a religious experience with sunlight, and became a devoted follower of Lathander [Campaign Canon character]
 - **Aldric Stone Path**
-- **aletra**
-- **backes_dunfield**
-- **borg_the_hammer** / **Borg**
-- **cooragh_struckt**
-- **corbin**
-- **daran_edermath_silverleaf**
-- **delaan_winterhound**
+- **Backes Dunfield**
+- **Borg the Hammer** / **Borg**
+- **Cooragh Struckt**
+- **Corbin**
+- **Daran Edermath** / **Silverleaf** — Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling confirmed against docs/NeverwinterExpansionismandtheNorth.md ("Later, I would learn his name, Daran Edermath, but he's known as Silverleaf"); renamed from the slug canonical daran_edermath_silverleaf 2026-08-03.
+- **Delaan Winterhound**
 - **Drubbak**
 - **Dwolin the Grout**
-- **elara**
-- **jarek**
-- **jax**
-- **locutus**
+- **Jarek**
+- **Jax**
+- **Locutus**
 - **Lord Cassian Meliamne**
-- **lord_halueth_verres**
-- **lyra**
-- **marian**
-- **martisha_vinetalker**
-- **out_of_phase_dwarves_axelholm_inhabitants**
-- **qelline_alderleaf**
+- **Lord Halueth Verres**
+- **Lyra**
+- **Marian**
+- **Martisha Vinetalker**
+- **Out-of-Phase Dwarves (Axeholm)**
+- **Qelline Alderleaf**
 - **Reidoth**
-- **rot_tusk_ogre** / **Rot-Tusk Ogres**
-- **runa**
-- **skippy**
+- **Rot-Tusk Ogre** / **Rot-Tusk Ogres**
+- **Skippy**
 - **Soma**
-- **sridar**
-- **sylvine_wintermoon** / **Sylvine**
-- **teega_the_smith**
-- **the_anchorite_half_orc**
-- **the_cult_fanatic**
-- **the_dwarven_king**
-- **the_orc_scout**
-- **the_stag**
-- **thomas**
+- **Sridar**
+- **Teega the Smith**
+- **The Anchorite Half-Orc**
+- **The Cult Fanatic**
+- **The Dwarven King**
+- **The Orc Scout**
+- **The Stag**
+- **Thomas**
 - **Vorga**
 - **Crabby** — Name the party gave the giant intelligent crab at the Tower of Storms; speaks Common, was gifted intelligence by the sea elf Miraal and remains loyal to her; offers to salvage wrecks (incl. the Star-Crossed Lover) in exchange for laying Miraal's spirit to rest

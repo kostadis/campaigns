@@ -104,6 +104,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Gnercli | **Gnerkli** |
 | Vukardin | **Vukradin** |
 | Rsalk | **Rsolk** |
+| Sylvine | **Syleen** |
 
 ## Items / artifacts
 | Pushions | **Potions** |
@@ -176,6 +177,8 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Pirate Skybolt | **Pirates' Skyhold** |
 | Parnest | **Parnast** |
 | Coneyberry | **Conyberry** |
+| River's District | **River District** |
+| Castle Nevermember | **Castle Never** |
 
 | Wrong | Right |
 |---|---|
