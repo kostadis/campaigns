@@ -12,7 +12,7 @@ source: gmassist
 - Norbus tells the party there may be more oozes deeper in the complex and asks them to finish clearing before handing over the sending stones.
 - The DM notes the dwarves each have approximately four hit points — entirely useless in any combat scenario.
 - Norbus offers a hot meal and stories in exchange for the night's work. Vukradin accepts on one condition: *"I'll agree if there are no stories."- Dazlyn corrects Norbus before he can object: *"We have a bard, and we're going to tell stories. The bard will tell us stories."*
-- Valphine's passive perception (15) locates a series of secret doors near the blood-stained altar during the post-combat search.
+- Valphine's passive perception locates a series of secret doors near the blood-stained altar during the post-combat search.
 - The party takes a long rest; over the course of the evening Norbus forgets Vukradin's name despite a full night of songs and stories. Vukradin: *"You don't know my name? I spent all night singing songs, and I told you stories, and you don't remember my name? You're just like those patrons in the bar."*
 
 ## Verbatim moments
