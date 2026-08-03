@@ -1,6 +1,6 @@
 # Pip Thistlewick
 
-**Sidekick** — human fighter, chaotic good. Front-line guard, bodyguard, practical muscle for Zenvon Foreput.
+**Sidekick** — human fighter, chaotic good. Front-line guard, bodyguard, practical muscle for Zenvon Forepot.
 *Extracted from `notes/open.md` (2026-06-12). Campaign-original character, not from the module. Note: the module's Pip (Toblen Stonehill's son) is renamed Tuck Stonehill to avoid collision — unqualified "Pip" always means this sidekick.*
 
 ## Why He's Going to Phandalin
@@ -40,12 +40,12 @@ Pip likes the rogue if the rogue:
 
 Moves to the front line, raises his shield, and tries to keep enemies away from the rogue. Uses shove, positioning, and opportunity attacks to protect the wagon. Stands between enemies and the rogue, tries to pin threats in place, and creates openings for Sneak Attack. He is brave, practical, and loud enough to draw attention when needed.
 
-## Stat Block (2nd-level sidekick)
+## Stat Block (3rd-level sidekick)
 
 *Medium humanoid, chaotic good*
 
 **Armor Class** 16 (chain shirt, shield)
-**Hit Points** 19 (3d8 + 6)
+**Hit Points** 26 (4d8 + 8)
 **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -66,6 +66,8 @@ Moves to the front line, raises his shield, and tries to keep enemies away from 
 
 ***Obelisk Shiver.*** When Pip is within 60 feet of an obelisk fragment or strong psionic magic, he gets a pressure headache and hears faint whispers. He can sense the general direction, but not the exact location.
 
+***"Returned."*** The whispers warn Pip a heartbeat early. When he uses Protective Instinct against an attack made by an Aberration or by a creature wielding psionic power, the attack misses outright instead of having disadvantage. Once he uses this trait, he cannot use it again until he finishes a short or long rest.
+
 ### Actions
 
 ***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
@@ -78,11 +80,26 @@ Moves to the front line, raises his shield, and tries to keep enemies away from 
 
 ## Session History
 
+*Sources: `summaries/00N/`. Sessions 2–3 are Zoom summaries with no recorded play date.*
+
 **Session 1 (2026-05-22, "The Threshold Awaits"):** Charged into melee against the Cragmaw ambush and delivered the killing blow on the final standing goblin. Enthusiastic in battle and eager to prove himself.
+
+**Session 2 (date unrecorded — into the Cragmaw cave):** The goblin lookouts singled him out and hit him three times for 6, 3, and 5; Maela's Cure Wounds put 6 back. Threw a javelin at the giant snake and missed on darkness disadvantage. Landed a critical hit on the goblin boss Yimek for 8, then shoved the last goblin prone so Maela could swing with advantage. Once the party withdrew to hide, rolled a natural 20 on Survival to bury their trail, and laid down the law: "No fires."
+
+**Session 3 (date unrecorded — clearing the hideout):** Took heavy damage from Klarg alongside Maela before Zenvon put the bugbear down.
+
+**Session 4 (2026-06-17, "Ambush in Phandalin: The Redbrand Reckoning"):** Nudged Zenvon not to take Sildar's work for free — "heroes... we also need to eat. Ask for money" — and was visibly delighted when Zenvon squeezed 100 gp out of the man who had just insulted him. Waded into the Redbrand street ambush and traded blows with the nearest ruffian.
+
+**Session 5 (2026-07-03, "A Nothic to Worry About"):** Threw a javelin at a fleeing ruffian and missed. Then out-negotiated the townmaster: talked Harbin Wester's Wyvern Tor reward from 100 gp up to 120, impressing a professional banker. When Zenvon's intimidation of Rondar failed, Pip put a blade to the man's throat and got the session's biggest reveal — Glasstaff is Iarno Albrek. Paid for it later: the Nothic pulled his secret out of his head and said it aloud to the whole party — the blackstone shard won in a dice game by the Neverwinter docks, sold to a peddler bound for Phandalin, and the dreams of broken stone underground ever since. Shaken badly: "Boss, I don't think we should — I think we should kill this thing."
+
+**Session 6 (2026-07-16, "It's Nothing Personal, You See"):** Lunged to stop Rondar bolting and failed to bring him down. Warned the party they'd be caught between the bugbears and the humans if they picked wrong. Led the charge into the barracks — "Never did like the crooked kind." Suggested stacking the ale barrels against the bugbears' door. Put a javelin into the fleeing Iarno. Traded his crossbow for an ornate one in the armory, to Maela's visible disdain.
+
+**Session 7 (2026-07-18, "Chapter 07 Deception"):** Cut down a Redbrand in the slave pens with a single strike. Sprinted after the last fleeing ruffian and dropped twenty feet into a hidden pit trap; Zenvon pulled him out on a rope and Maela mended him. Split duties with Zenvon once the cells were open — Zenvon on the locks, Pip on anything that needed killing. Helped spring the ambush on the bandit Zenvon lured down the stairs.
 
 ## Leveling
 
 Progression: `characters/sidekick_progressions.md` (sidekick level = Zenvon's level).
 
 - **Level 2 applied 2026-06-12:** +1 Hit Die (19 HP) and Protection Training, per open.md's leveling notes.
-- **Next (level 3):** obelisk signature feature — proposed "Returned." (Protective Instinct causes an outright miss vs Aberrations/psionic attackers, 1/short rest); confirm before applying.
+- **Level 3 applied 2026-08-02:** +1 Hit Die (26 HP) and the obelisk signature feature **"Returned."** (1/short rest), confirmed by Kostadis. Proficiency bonus unchanged at +2; Second Wind stays 1d10 + 1 until level 5.
+- **Next (level 4):** ASI — STR 15 → 16 (attacks +5, damage +3); HP to 32.

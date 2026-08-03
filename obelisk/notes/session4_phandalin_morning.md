@@ -6,7 +6,7 @@ Co-GM working doc. Not canon yet — staging for Session 4: Phandalin social web
 
 ## What I understood from the docs (catch me if I'm wrong)
 
-- Zenvon Foreput (Level 2 rogue, halfling, Nikhil's PC) + three Level 2 sidekicks: Pip (fighter), Sister Maela (cleric), Veyra (tiefling mage).
+- Zenvon Forepot (Level 2 rogue, halfling, Nikhil's PC) + three Level 2 sidekicks: Pip (fighter), Sister Maela (cleric), Veyra (tiefling mage).
 - After Session 3: Cragmaw Hideout cleared, Klarg dead, Sildar rescued (but still weak), party walking back to Phandalin for a long rest.
 - Key unresolved: Gundren missing (Cragmaw Castle, location unknown), Black Spider identity unknown, elongated-headed goblin whispered "You're not what Ruxithid wants" (VTT garbled as "Ruth exceeds") — first psionic-goblin breach into the narrative.
 - Phandalin NPC queue is fully loaded: Sildar, Elmina, Linene Graywind, Daran Edermath, Sister Garaele, Halia, Harbin Wester, Tuck Stonehill.
