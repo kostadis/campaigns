@@ -69,7 +69,7 @@ She is not what she pretends to be. The invitation stands anyway.
 ### The Shrine of Luck
 The acolyte of Tymora said she has work for us — after Gundren is home. Not before.
 
-### The Dendar family
+### The Dendrar family
 We found them in the cells: two women and a boy. Wick admitted the Redbrands "handled" them, which is what a man says instead of admitting what happened to the father. They're out. They're free. We should see them somewhere safe, and we should hear what they know.
 
 ---
@@ -92,12 +92,10 @@ Her holy symbol went cold once, with no enemy in sight and nothing to explain it
 ## Things Nobody Has Hired Us For, Which We Notice Anyway
 
 - **Sister Garaele** is hurt, limping, and will not say by whom. Narth thinks she's keeping quiet to keep the town out of it.
-- **Thel Dendar** was killed in the street in daylight and nobody stopped it.
+- **Thel Dendrar** was killed in the street in daylight and nobody stopped it.
 - **"You're not what Ruxithid wants."** Whispered at the ambush by a goblin whose head was the wrong shape. Sildar has never heard the name. Neither has anyone else we've asked.
 - **Pip heard a voice say "returned."** There was nobody there.
 
 ---
 
 *Three loose black threads — Voss's obelisk, Pip's shard, and a name that makes a crystal light up — and they are all pointing at the same hole in the ground.*
-</content>
-</invoke>

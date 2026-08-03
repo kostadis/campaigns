@@ -161,4 +161,3 @@ Do not fold these into the handout as caveats. The players get a clean document;
 - An in-world artifact the party *finds* — a letter, notice, ledger (use `gm-handout`)
 - Faction intel and who-really-runs-this-town (use `gm-faction-network`)
 - Regenerating `campaign_state.md` — that's the CampaignGenerator pipeline, not this skill. This skill never writes to `docs/`.
-</content>
