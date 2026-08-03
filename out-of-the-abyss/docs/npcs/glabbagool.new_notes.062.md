@@ -1,3 +1,0 @@
-# New notes for Glabbagool (from dossier_extract_062.md)
-
-Glabbagool, the sentient ooze fused along Zalthir's forearm, was used covertly to dispose of Bookwyrm's tea — Zalthir tilted the cup and let the tea run into Glabbagool, who burned it away with a faint acid singe and, notably, stayed completely silent because Zalthir had asked him beforehand for "a moment of quiet reflection." Zalthir marked this restraint as "discipline, or the beginning of it." Glabbagool's arm covertly swiped the potion of flying from Alkrist's safe while the room was distracted — clean, unnoticed. Glabbagool was pleased: "I like the flying skill. That was a good skill." In the helmed horror fight, Glabbagool's acid trick ate through the horrors' plate armor while Zalthir grappled them.
