@@ -1,0 +1,2821 @@
+{
+ "schema_version": 1,
+ "dir": "20251105-chapter-19",
+ "target_file": "summaries/20251105-chapter-19/GMT20251105-045643_Recording.transcript.vtt",
+ "target_sha256": "b02ab01ccee0e2dc122e0408ea5030feef34b1d1eb342f38d7ac075815f7729b",
+ "target_format": "webvtt",
+ "speakers": {},
+ "duplication_detected": false,
+ "sibling": {
+  "path": "summaries/20251105-chapter-19/session_20251105_transcript.vtt",
+  "transcriber_kind": "dnd_tuned_llm",
+  "name_evidence_admissible": false
+ },
+ "glossary_sha256_at_scan": "77902a816c66252b2e032396403d27ef5433493be060993d06d7ff3925d0d883",
+ "known_names_count": 2144,
+ "raw_unknown_count": 215,
+ "clusters_after_ignore_filter": 103,
+ "clusters": [
+  {
+   "id": 1,
+   "proposed_canonical": "Brewbarry",
+   "confidence": "high",
+   "reason": "edit_distance,phonetic,substring,substring,edit_distance,substring,edit_distance,substring,phonetic,edit_distance,substring,substring",
+   "members": [
+    {
+     "token": "Newberry",
+     "count": 2,
+     "verbatim": "Newberry, Newberry, Europe.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.667,
+      "sibling_verbatim": "Brewberry. Brewberry."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Brewbarry",
+     "requires_gm": false,
+     "rationale": "DM calling initiative: \"Newberry, Newberry, Europe.\" The \"<name>, Europe\" garble is this file's recurring rendering of \"<name>, you're up\" (also \"Vukrid in Europe\", \"Vucraut in Europe\", \"Alfina, Europe\"). Sibling reads \"Brewberry. Brewberry.\" — its own rendering of Brewbarry. Token is distinctive; safe row."
+    },
+    {
+     "token": "Bro",
+     "count": 1,
+     "verbatim": "a… He goes, just to be clear, my name's Bro.",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.744,
+      "sibling_verbatim": "Just to be clear, my name's Shrimpy."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"Shrimpy even got a… He goes, just to be clear, my name's Bro.\" Sibling substitutes \"my name's Shrimpy.\" This sits inside the scene where the orc prisoner is being named, and David's neighbouring line is \"his name's Rob\" (see C1|Rob) — the orc may have stated an actual name that both transcripts garbled. GM ruling needed on whether a name exists here. Separately, a three-letter token is unsafe as a row under IGNORECASE regardless of the answer."
+    },
+    {
+     "token": "Brubberg",
+     "count": 1,
+     "verbatim": "Yes, Brubberg now has a toothpick. Alright, who's, ne",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.897,
+      "sibling_verbatim": "Yes, Bruberry now has a toothpick. All right. Who's next?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Brewbarry",
+     "requires_gm": false,
+     "rationale": "Ours: \"Yes, Brubberg now has a toothpick.\" Sibling: \"Yes, Bruberry now has a toothpick.\" Same span, same referent; sibling renders Brewbarry. Glossary already carries the near-identical wrong-forms \"Brubberry\" and \"Bruberry\"."
+    },
+    {
+     "token": "Burgerberry",
+     "count": 1,
+     "verbatim": "Burgerberry.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.8,
+      "sibling_verbatim": "Brewberry."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Brewbarry",
+     "requires_gm": false,
+     "rationale": "Ours: \"Burgerberry.\" Sibling: \"Brewberry.\" Glossary already maps \"Burger\" and \"Burberry\" to Brewbarry; this is the same mishearing family."
+    },
+    {
+     "token": "Buried",
+     "count": 1,
+     "verbatim": "Buried.",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.615,
+      "sibling_verbatim": "Brigand."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"Buried.\" standing alone between \"Orc Raider 2 is no longer Charmed.\" and \"I have to figure out what I'm gonna do next.\" Sibling shows \"Brigand.\" at the span — a different label from the cluster's Brewbarry. Reads to me as DM filler, but sibling name evidence is inadmissible and I cannot rule it out. Note: even if a name was spoken, \"buried\" is a common English word and could never be a safe corpus-wide row."
+    },
+    {
+     "token": "Drewberry",
+     "count": 1,
+     "verbatim": "re. Orc Raider. Orc Raider 1 charges at Drewberry.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.6,
+      "sibling_verbatim": "Orc Raider Scout. Or Raider 2 brought. Yeah."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "confirm",
+     "proposed_canonical": "Brewbarry",
+     "requires_gm": false,
+     "rationale": "Ours: \"Orc Raider 1 charges at Drewberry.\" Sibling text at the span is a different utterance (no coverage), so no sibling evidence. Unambiguous from our own line: this is a combat target declaration and Brewbarry is the party's front-liner; the glossary already maps \"Crewberry\", \"Brew Perry\" and \"Brewberry\". Token is distinctive."
+    },
+    {
+     "token": "Rob",
+     "count": 1,
+     "verbatim": "I mean, but his name's Rob, Trump is just fine.",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.839,
+      "sibling_verbatim": "I mean, his name's Robinson. Shrimp is just fine."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"I mean, but his name's Rob, Trump is just fine.\" Sibling: \"I mean, his name's Robinson. Shrimp is just fine.\" Sibling shows a different name (Robinson). Same naming-the-orc scene as C1|Bro; the two should be ruled on together. Three-letter token — unsafe as a row under IGNORECASE even if the GM identifies the name."
+    },
+    {
+     "token": "Rub",
+     "count": 1,
+     "verbatim": "Rub.",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.667,
+      "sibling_verbatim": "Rob."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"Rub.\" alone, immediately before Stéphane's \"From now on, and until you pull the couch to the logger's camp, you're shrimpy.\" Sibling shows \"Rob.\" — a different name, and the same one it produced two lines earlier. Part of the orc-naming exchange; GM ruling needed."
+    },
+    {
+     "token": "Rubari",
+     "count": 1,
+     "verbatim": "Tokens, alright. Balconade, rubric, and Rubari, that's what I'm missing.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.732,
+      "sibling_verbatim": "tokens, all right. And Barry. That's what I'm assuming."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Brewbarry",
+     "requires_gm": false,
+     "rationale": "Ours (DM, listing missing VTT tokens): \"Tokens, alright. Balconade, rubric, and Rubari, that's what I'm missing.\" Sibling collapses to \"tokens, all right. And Barry.\" at the same position. The glossary already carries \"Brubari\" and \"Barry\" as Brewbarry wrong-forms — \"Rubari\" is one letter from an existing ruled wrong-form. Token is distinctive."
+    }
+   ]
+  },
+  {
+   "id": 2,
+   "proposed_canonical": "Vukradin",
+   "confidence": "medium",
+   "reason": "edit_distance,substring,edit_distance,metaphone,substring,substring",
+   "members": [
+    {
+     "token": "Crater",
+     "count": 2,
+     "verbatim": "Crater 1 or Crater 2.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.75,
+      "sibling_verbatim": "Orc Raider 1 or Orc Raider 2?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Orc Raider",
+     "requires_gm": true,
+     "rationale": "Ours: \"Crater 1 or Crater 2.\" Sibling: \"Orc Raider 1 or Orc Raider 2?\" This is NOT Vukradin — it is the orc statblock label, same as C44's \"Ore Creator\" (x7). Replacing the whole token with \"Orc Raider\" yields the correct \"Orc Raider 1 or Orc Raider 2.\" TWO CAVEATS for the GM: (1) \"crater\" is a common English noun — the corpus-wide IGNORECASE check must clear it; (2) it overlaps the longer wrong-form \"Or Crater\" (C44), which must be applied first or that line becomes \"Or Orc Raider 1\"."
+    },
+    {
+     "token": "Vukrid",
+     "count": 2,
+     "verbatim": "Vukrid in Europe.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.522,
+      "sibling_verbatim": "All right, Vukridin, you're up."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Vukradin",
+     "requires_gm": false,
+     "rationale": "Ours: \"Vukrid in Europe.\" Sibling: \"All right, Vukridin, you're up.\" Score is 0.522, below the 0.55 bar, but the span is plainly covered: \"in Europe\" is this file's standing garble of \"you're up\" and the sibling renders the name Vukridin — which is already a ruled Vukradin wrong-form in the glossary. Initiative call for Dave's PC."
+    },
+    {
+     "token": "Buchradin",
+     "count": 1,
+     "verbatim": "No… I'm up. Buchradin.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.85,
+      "sibling_verbatim": "No. I'm up. Bukhraden."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Vukradin",
+     "requires_gm": false,
+     "rationale": "Ours: \"No… I'm up. Buchradin.\" Sibling: \"No. I'm up. Bukhraden.\" Same span, same speaker claiming his own turn; glossary already maps \"Buchar\", \"Bukraden\", \"Bukridin\"."
+    },
+    {
+     "token": "Rickroden",
+     "count": 1,
+     "verbatim": "And then Rickroden will be next.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.871,
+      "sibling_verbatim": "And then Brukroton will be next."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Vukradin",
+     "requires_gm": false,
+     "rationale": "Ours: \"And then Rickroden will be next.\" Sibling: \"And then Brukroton will be next.\" Initiative ordering; sibling's rendering shares the -roden/-roton tail. Glossary already maps \"Vukroden\", \"Kroden\", \"Kroten\", \"Rukraden\"."
+    },
+    {
+     "token": "Vucraut",
+     "count": 1,
+     "verbatim": "6. Alright. Okay, Vucraut in Europe.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.686,
+      "sibling_verbatim": "All right. Okay, Vucraden, you're up."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Vukradin",
+     "requires_gm": false,
+     "rationale": "Ours: \"6. Alright. Okay, Vucraut in Europe.\" Sibling: \"All right. Okay, Vucraden, you're up.\" Sibling renders Vucraden, already a ruled Vukradin wrong-form. Same \"in Europe\" = \"you're up\" artefact."
+    }
+   ]
+  },
+  {
+   "id": 3,
+   "proposed_canonical": "Valphine",
+   "confidence": "high",
+   "reason": "edit_distance,substring,substring,substring,substring",
+   "members": [
+    {
+     "token": "Belgian",
+     "count": 2,
+     "verbatim": "I'm in Luxembourg. Yesterday, I was in Belgian, Holland, and Luxembourg.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.901,
+      "sibling_verbatim": "Right now I'm in Luxembourg. Yesterday, I was in Belgium, Holland, and Luxembourg."
+     },
+     "lowercase_in_target": false,
+     "kind": "ordinary_words",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Yesterday, I was in Belgian, Holland, and Luxembourg.\" Sibling: \"…I was in Belgium, Holland, and Luxembourg.\" Out-of-fiction travel chatter about the real country. count=2 so not auto-dismissible; no rule."
+    },
+    {
+     "token": "Falfina",
+     "count": 1,
+     "verbatim": "Right, Dave, did you tell Falfina that she… that you… you spent the eveni",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.857,
+      "sibling_verbatim": "Right, Dave, did you tell Valfina that you spent the evening?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Valphine",
+     "requires_gm": false,
+     "rationale": "Ours: \"Right, Dave, did you tell Falfina that she…\" Sibling: \"Right, Dave, did you tell Valfina that you spent the evening?\" Sibling renders Valfina, already a ruled Valphine wrong-form. Token is distinctive."
+    },
+    {
+     "token": "Galfinay",
+     "count": 1,
+     "verbatim": "Galfinay.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.7,
+      "sibling_verbatim": "Valfine. Okay."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Valphine",
+     "requires_gm": false,
+     "rationale": "Ours: \"Galfinay.\" Sibling: \"Valfine. Okay.\" Glossary already carries both \"Galfina\" and \"Valfinay\" as ruled Valphine wrong-forms; this token is the blend of the two."
+    },
+    {
+     "token": "Valfinh",
+     "count": 1,
+     "verbatim": "ill defend the wine. Right, right, does Valfinh explain to Brewbarry the correct knot t",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.727,
+      "sibling_verbatim": "Brewberry will defend the wine. Right, right. Does Valfina explain to Bruberry the correct not tag technique to deal with orc prisoners?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Valphine",
+     "requires_gm": false,
+     "rationale": "Ours: \"does Valfinh explain to Brewbarry the correct knot t[echnique]\". Sibling: \"Does Valfina explain to Bruberry the correct not tag technique…\" Same span, sibling renders a ruled Valphine wrong-form."
+    }
+   ]
+  },
+  {
+   "id": 4,
+   "proposed_canonical": "Iymrith",
+   "confidence": "high",
+   "reason": "edit_distance",
+   "members": [
+    {
+     "token": "Imrith",
+     "count": 5,
+     "verbatim": "And what is this about Imrith?",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 1.0,
+      "sibling_verbatim": "And what is this about Imrith?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Iymrith",
+     "requires_gm": false,
+     "rationale": "Ours: \"And what is this about Imrith?\" (x5 in the file). The decisive evidence is in OUR OWN transcript, not the sibling: \"you know, Imrith was a famous… wasn't just some random dragon, she was known as the Doom of the Desert\" — Doom of the Desert is Iymrith's canonical epithet and Iymrith is already a known campaign name. The sibling reproduces the same \"Imrith\" spelling, so it corroborates that a name was spoken but adds no spelling evidence. This is the highest-count real correction in the chapter."
+    }
+   ]
+  },
+  {
+   "id": 6,
+   "proposed_canonical": "Ander",
+   "confidence": "high",
+   "reason": "edit_distance,substring",
+   "members": [
+    {
+     "token": "After",
+     "count": 3,
+     "verbatim": "After a week in India, I'm enjoying eating me",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.978,
+      "sibling_verbatim": "After a week in India, I'm enjoying eating meat."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"After a week in India, I'm enjoying eating me[at].\" Sibling matches verbatim. Ordinary English adverb, out-of-fiction chatter. Also: wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    },
+    {
+     "token": "Thander",
+     "count": 1,
+     "verbatim": "Yes, he's… well, Thander, you know, your training did indicate t",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.63,
+      "sibling_verbatim": "Yes, he's Lothander. You know, your training did indicate that that was perhaps something that had to be off the table."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Lathander",
+     "requires_gm": true,
+     "rationale": "Ours (DM to Gary): \"Yes, he's… well, Thander, you know, your training did indicate that that was perhaps something that had to be off the table.\" Sibling shows \"Lothander\" — a DIFFERENT name from the cluster's proposal of \"Ander\", so I am not deciding from the sibling. Independent evidence from our own line: the addressee is Gary/Valphine, a Lathander cleric, and \"your training\" is her clerical training; Lathander is already a known canonical. Recommending Lathander rather than Ander, but flagged for GM because the sibling is the only thing supplying the missing \"La-\". Row is safe from self-collision: \\bThander\\b does not match inside \"Lathander\"."
+    }
+   ]
+  },
+  {
+   "id": 8,
+   "proposed_canonical": "Falcon",
+   "confidence": "high",
+   "reason": "substring,substring,substring",
+   "members": [
+    {
+     "token": "Falcon Hunter",
+     "count": 2,
+     "verbatim": "she, the Falcon Hunter's story, I mean, you know, it's a story,",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.821,
+      "sibling_verbatim": "And, you know, when she, the Falcon Hunter's story, I mean, you know, it's a story, right?"
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"she, the Falcon Hunter's story…\" Sibling matches verbatim. Refers to Falcon the Hunter (canonical \"Falcon the Hunter\" / \"The Falcon\"), and \"Falcon\" inside the run is already correct. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row. A row would also collide with \"Falcon Hunter Lodge\" below."
+    },
+    {
+     "token": "Falcon Hunter Lodge",
+     "count": 1,
+     "verbatim": "reputation to get tourists to visit the Falcon Hunter Lodge.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.525,
+      "sibling_verbatim": "And you were at the Falcon Hunting Lodge."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Falcon's Hunting Lodge",
+     "requires_gm": false,
+     "rationale": "Ours: \"reputation to get tourists to visit the Falcon Hunter Lodge.\" Sibling: \"And you were at the Falcon Hunting Lodge.\" Canonical is Falcon's Hunting Lodge (the glossary already maps \"Falcons Hunting Lodge\"). Score 0.525 is below the bar but the sibling names the same location and our own line is unambiguous. Not lowercase anywhere in the file; safe row."
+    }
+   ]
+  },
+  {
+   "id": 9,
+   "proposed_canonical": "Soma",
+   "confidence": "high",
+   "reason": "edit_distance,phonetic",
+   "members": [
+    {
+     "token": "Some",
+     "count": 2,
+     "verbatim": "Some people have said it was because of Orsi",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.838,
+      "sibling_verbatim": "Some people have said it was because of Orsic and his heroism."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Some people have said it was because of Orsi[k]…\" Sibling matches. Ordinary determiner. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row. (15 lowercase occurrences in this file alone.)"
+    }
+   ]
+  },
+  {
+   "id": 11,
+   "proposed_canonical": "Aasimar",
+   "confidence": "high",
+   "reason": "substring",
+   "members": [
+    {
+     "token": "Asimar",
+     "count": 2,
+     "verbatim": "Yeah, I'm an Asimar, yes.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.979,
+      "sibling_verbatim": "Yeah, I'm an Asimar. Yes."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "Aasimar",
+     "requires_gm": false,
+     "rationale": "Ours: \"Yeah, I'm an Asimar, yes.\" Sibling: \"Yeah, I'm an Asimar. Yes.\" Vukradin is the party Aasimar; the glossary already maps \"Asimer\" and \"An Asimer\". Same referent, one missing vowel. Safe row."
+    }
+   ]
+  },
+  {
+   "id": 13,
+   "proposed_canonical": "Potion of Superior Healing",
+   "confidence": "high",
+   "reason": "substring",
+   "members": [
+    {
+     "token": "Super",
+     "count": 2,
+     "verbatim": "Super stealthy.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.757,
+      "sibling_verbatim": "It's not super stealthy."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Super stealthy.\" Sibling: \"It's not super stealthy.\" Ordinary intensifier; the cluster's binding to a potion name is fuzzy-match noise. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 14,
+   "proposed_canonical": "The Carver",
+   "confidence": "medium",
+   "reason": "edit_distance",
+   "members": [
+    {
+     "token": "The Raider",
+     "count": 2,
+     "verbatim": "The Raider… Raider 2 is… alright, so Raider 2 gets",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.83,
+      "sibling_verbatim": "The Raider, Raider Two. All right, so Raider two gets two."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"The Raider… Raider 2 is… alright, so Raider 2 gets\" Sibling: \"The Raider, Raider Two.\" This is the orc combatant, NOT The Carver — the cluster binding is wrong. \"Raider\" in the run is already correct. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 15,
+   "proposed_canonical": "halberd",
+   "confidence": "high",
+   "reason": "edit_distance,edit_distance",
+   "members": [
+    {
+     "token": "Halpert",
+     "count": 1,
+     "verbatim": "So this is not large, this is just Halpert.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.897,
+      "sibling_verbatim": "So this is not large. This is Halbert."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "confirm",
+     "proposed_canonical": "halberd",
+     "requires_gm": false,
+     "rationale": "Ours: \"So this is not large, this is just Halpert.\" Sibling: \"So this is not large. This is Halbert.\" The weapon; the glossary already maps \"Halbert\" and \"Hallbared\" to halberd. Token is distinctive in this corpus."
+    },
+    {
+     "token": "Holberg",
+     "count": 1,
+     "verbatim": "Mrs. Holberg?",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.593,
+      "sibling_verbatim": "This is Halbert."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "confirm",
+     "proposed_canonical": "halberd",
+     "requires_gm": false,
+     "rationale": "Ours: \"Mrs. Holberg?\" Sibling at the span is a neighbouring line (\"This is Halbert.\"), so no direct coverage. Unambiguous from our own file: \"Mrs.\" is this transcript's garble of \"misses\" — confirmed independently at C24, where \"and Mrs. Entirely\" corresponds to \"and misses entirely\". So the line is \"misses. Halberd?\" Row fixes the weapon name; the \"Mrs.\"→\"misses\" part is a separate targeted edit outside a name glossary."
+    }
+   ]
+  },
+  {
+   "id": 16,
+   "proposed_canonical": "The Orc With The Necklace Of Bones Shrimpy",
+   "confidence": "high",
+   "reason": "substring,substring",
+   "members": [
+    {
+     "token": "Shrimp",
+     "count": 1,
+     "verbatim": "No, we'll call him Shrimp.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 1.0,
+      "sibling_verbatim": "No, we'll call him Shrimp."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"No, we'll call him Shrimp.\" Sibling identical. This is the party choosing the name in-scene; the canonical \"The Orc With The Necklace Of Bones Shrimpy\" is a dossier title, not a spoken form, and mapping a bare \"Shrimp\" onto it would wreck the line. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 27,
+   "proposed_canonical": "Horia Stonetallow",
+   "confidence": "high",
+   "reason": "edit_distance",
+   "members": [
+    {
+     "token": "Horizon",
+     "count": 1,
+     "verbatim": "Horizon.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.571,
+      "sibling_verbatim": "Morning."
+     },
+     "lowercase_in_target": false,
+     "kind": "ordinary_words",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: Gary's one-word reply \"Horizon.\" after a long DM speech about Falcon's dragon-hoard reputation. Sibling: \"Morning.\" Neither reads as a name and Horia Stonetallow makes no sense as a reply here — but the token is name-shaped enough that I am surfacing rather than silently dismissing it. No safe correction."
+    }
+   ]
+  },
+  {
+   "id": 28,
+   "proposed_canonical": "Icespire Peak",
+   "confidence": "high",
+   "reason": "substring",
+   "members": [
+    {
+     "token": "Ice Spire",
+     "count": 1,
+     "verbatim": "d of the war, the orcs had occupied the Ice Spire…",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.538,
+      "sibling_verbatim": "You do not see the orc, but the orc sees you."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"ever since the end of the war, the orcs had occupied the Ice Spire…\" followed immediately by \"The Sword Mountains.\" Sibling text at the span is an unrelated utterance. The orthography fix is obvious but the referent is not: both Icespire Peak and Icespire Hold are canonical and the sentence is cut off mid-clause. The glossary already maps \"Ice Spires Peak\"→Icespire Peak, so the GM only needs to pick Peak vs Hold. I will not guess."
+    }
+   ]
+  },
+  {
+   "id": 29,
+   "proposed_canonical": "Loggers' Camp",
+   "confidence": "high",
+   "reason": "edit_distance",
+   "members": [
+    {
+     "token": "Logger's Camp",
+     "count": 1,
+     "verbatim": "go through the Neverwinter Wood to the Logger's Camp.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.732,
+      "sibling_verbatim": "And so now I presume you're going to go through the Never Winter Wood to the Logger's Camp."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"go through the Neverwinter Wood to the Logger's Camp.\" Canonical is Loggers' Camp (apostrophe placement). But \"logger's camp\" occurs lowercase three times in this same file (see C164). wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row. Recommend a targeted edit on the capitalised occurrence only."
+    }
+   ]
+  },
+  {
+   "id": 31,
+   "proposed_canonical": "Neverwinter",
+   "confidence": "high",
+   "reason": "substring",
+   "members": [
+    {
+     "token": "Neverwinterwood",
+     "count": 1,
+     "verbatim": "So this is through Neverwinterwood, right?",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.976,
+      "sibling_verbatim": "So, this is through Never Winterwood, right?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Neverwinter Wood",
+     "requires_gm": false,
+     "rationale": "Ours: \"So this is through Neverwinterwood, right?\" Sibling: \"So, this is through Never Winterwood, right?\" Canonical is Neverwinter Wood (in the known set), not bare Neverwinter as the cluster proposed — dropping \"Wood\" would lose the forest and name the city. Token is distinctive and not lowercase anywhere; safe row."
+    }
+   ]
+  },
+  {
+   "id": 33,
+   "proposed_canonical": "Orc",
+   "confidence": "high",
+   "reason": "edit_distance",
+   "members": [
+    {
+     "token": "Oak",
+     "count": 1,
+     "verbatim": "Yeah, we've got a cart to pull Oak.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.928,
+      "sibling_verbatim": "Yeah, we've got a cart to pull, orc."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Yeah, we've got a cart to pull Oak.\" Sibling: \"Yeah, we've got a cart to pull, orc.\" Genuinely \"orc\" in both occurrences in this file (the other is \"you oak shrimp\", C16). But wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row. — and corpus-wide \"oak\" in a Neverwinter Wood campaign is certain to mean the tree. Two targeted edits, not a row."
+    }
+   ]
+  },
+  {
+   "id": 34,
+   "proposed_canonical": "out_of_phase_dwarves_axelholm_inhabitants",
+   "confidence": "high",
+   "reason": "substring",
+   "members": [
+    {
+     "token": "Phase",
+     "count": 1,
+     "verbatim": "Phase.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.533,
+      "sibling_verbatim": "Oh. Awesome."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Phase.\" (David, right after \"So leaves the combat.\"). Sibling: \"Oh. Awesome.\" — score 0.533, below the bar, and no real coverage. The cluster's canonical is a dossier slug (out_of_phase_dwarves_axelholm_inhabitants), not a spoken form. No safe correction."
+    }
+   ]
+  },
+  {
+   "id": 35,
+   "proposed_canonical": "Pog",
+   "confidence": "high",
+   "reason": "phonetic",
+   "members": [
+    {
+     "token": "Puggy",
+     "count": 1,
+     "verbatim": "Puggy.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.429,
+      "sibling_verbatim": "Hopefully."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Puggy.\" (DM, mid-combat, immediately before \"Ore Creator 2 hears Ore Creator 1 attack…\"). Sibling: \"Hopefully.\" at score 0.429 — below the bar, no coverage. Reads as DM filler; Pog is a Phandalin NPC with no business in an orc ambush in Neverwinter Wood. Surfaced rather than dismissed because inconclusive is not dismissible."
+    }
+   ]
+  },
+  {
+   "id": 37,
+   "proposed_canonical": "Torm",
+   "confidence": "high",
+   "reason": "phonetic",
+   "members": [
+    {
+     "token": "Trim",
+     "count": 1,
+     "verbatim": "Trim.",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.8,
+      "sibling_verbatim": "Trimpy."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: Wade's \"Trim.\" sitting between the DM's \"we'll call him drugs\" and Stéphane's \"No, we'll call him Shrimp.\" Sibling shows \"Trimpy.\" — a different name. This is the orc-naming brainstorm, so several discarded candidate names are being spoken aloud and only \"Shrimpy\" survived. GM ruling needed on whether discarded suggestions get corrected at all. \"Trim\" is also a common English word and unsafe as a row."
+    }
+   ]
+  },
+  {
+   "id": 43,
+   "proposed_canonical": null,
+   "confidence": "medium",
+   "reason": "cross-unknown",
+   "members": [
+    {
+     "token": "Raider",
+     "count": 34,
+     "verbatim": "n't know why there's a Briggan 1 and no Raider 1.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.902,
+      "sibling_verbatim": "I don't know why there's a Brigand one and no Raider 1."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"I don't know why there's a Briggan 1 and no Raider 1.\" (x34 in the file). Already correctly spelled, and it is the bare head-noun the proposed canonical \"Orc Raider\" already contains — a row would produce \"Orc Orc Raider\". wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    },
+    {
+     "token": "Reader",
+     "count": 3,
+     "verbatim": "Reader 2 and Reader 1.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.739,
+      "sibling_verbatim": "Raider two and Raider one."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Raider",
+     "requires_gm": true,
+     "rationale": "Ours: \"Reader 2 and Reader 1.\" Sibling: \"Raider two and Raider one.\" Plain spelling fix of the combatant label. Flagged for GM because \"reader\" is a common English word — the corpus-wide IGNORECASE check must clear it before this becomes a row. Not lowercase in this file."
+    },
+    {
+     "token": "Raiders",
+     "count": 2,
+     "verbatim": "t. Looks like Raider… either one of the Raiders, they're both at 37.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.6,
+      "sibling_verbatim": "So long, Raider. The Raider, the Raider. Okay."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Looks like Raider… either one of the Raiders, they're both at 37.\" Already correct plural of the label. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    },
+    {
+     "token": "Reeder",
+     "count": 1,
+     "verbatim": "So I'll go attack Reeder.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.772,
+      "sibling_verbatim": "So I'll go attack Raider 2, right?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Raider",
+     "requires_gm": false,
+     "rationale": "Ours: \"So I'll go attack Reeder.\" Sibling: \"So I'll go attack Raider 2, right?\" Same span, same combat. \"Reeder\" is a rare token with no ordinary-English reading; safe row."
+    }
+   ]
+  },
+  {
+   "id": 44,
+   "proposed_canonical": null,
+   "confidence": "medium",
+   "reason": "cross-unknown",
+   "members": [
+    {
+     "token": "Orc Raider",
+     "count": 16,
+     "verbatim": "igand, the Orc Scout, you can't see the Orc Raider.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.81,
+      "sibling_verbatim": "You can see the orc brigand, the orc scout. You can't see the orc raider."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "new_canon",
+     "proposed_canonical": "Orc Raider",
+     "requires_gm": true,
+     "rationale": "Ours: \"you can see the Orc Brigand, the Orc Scout, you can't see the Orc Raider.\" (x16). Already correctly spelled — this is a new_canon proposal, not a replacement row. These three orc statblock labels (Orc Raider / Orc Brigand / Orc Scout) drive the entire combat half of the chapter and currently orphan on every scan; wave 1 canonised comparable creature labels (Harpy, Treant, Enclave Warrior). GM decides whether statblock labels belong in the known set."
+    },
+    {
+     "token": "Ore Creator",
+     "count": 7,
+     "verbatim": "So, who did you… Ore Creator 1 or Ore Creator 2?",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.703,
+      "sibling_verbatim": "So, who did you? Orc Raider 1 or Orc Raider 2?"
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Orc Raider",
+     "requires_gm": false,
+     "rationale": "Ours: \"So, who did you… Ore Creator 1 or Ore Creator 2?\" Sibling: \"So, who did you? Orc Raider 1 or Orc Raider 2?\" Seven occurrences — the single highest-count real correction in the combat scenes. Token \"Ore Creator\" is distinctive; safe row."
+    },
+    {
+     "token": "Or Crater",
+     "count": 1,
+     "verbatim": "t then, and he's the dumbest scout now. Or Crater 1 turns over, greater two, says, not th",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.497,
+      "sibling_verbatim": "He was the dumbest scout then and he's the dumbest scout now."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Orc Raider",
+     "requires_gm": false,
+     "rationale": "Ours: \"Or Crater 1 turns over, greater two, says, not th[at]\" Sibling does not cover the span (score 0.497). Unambiguous from our own file: the same speaker renders the same label as \"Ore Creator\" seven times elsewhere, and \"Or Crater 1\" sits mid-combat with Orc Raider 1 and 2 on the map. Must be applied BEFORE the shorter C2|Crater row."
+    },
+    {
+     "token": "Work Rater",
+     "count": 1,
+     "verbatim": "n he would get another… Yeah, I'll have Work Rater 2 see if he can persuade him.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.719,
+      "sibling_verbatim": "I'll have Orc Raider 2 see if he can persuade him."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Orc Raider",
+     "requires_gm": false,
+     "rationale": "Ours: \"I'll have Work Rater 2 see if he can persuade him.\" Sibling: \"I'll have Orc Raider 2 see if he can persuade him.\" Same span, distinctive token; safe row."
+    }
+   ]
+  },
+  {
+   "id": 46,
+   "proposed_canonical": null,
+   "confidence": "medium",
+   "reason": "cross-unknown",
+   "members": [
+    {
+     "token": "Brigand",
+     "count": 8,
+     "verbatim": "Next would be… Brigand 2.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.979,
+      "sibling_verbatim": "Next would be Brigand 2."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Next would be… Brigand 2.\" Sibling identical. Already correct, and it is the bare head-noun contained in the proposed \"Orc Brigand\" canonical. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    },
+    {
+     "token": "Briggan",
+     "count": 3,
+     "verbatim": "I don't know why there's a Briggan 1 and no Raider 1.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.943,
+      "sibling_verbatim": "I don't know why there's a Brigand one and no Raider 1."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Brigand",
+     "requires_gm": false,
+     "rationale": "Ours: \"I don't know why there's a Briggan 1 and no Raider 1.\" Sibling: \"I don't know why there's a Brigand one and no Raider 1.\" Three occurrences; distinctive token with no ordinary-English reading. Safe row."
+    }
+   ]
+  },
+  {
+   "id": 47,
+   "proposed_canonical": null,
+   "confidence": "medium",
+   "reason": "cross-unknown",
+   "members": [
+    {
+     "token": "Orc Scout",
+     "count": 8,
+     "verbatim": "as you guys are marching… You… Notice… Orc Scout.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.852,
+      "sibling_verbatim": "So as you guys are marching, you notice orc scout just ahead."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "new_canon",
+     "proposed_canonical": "Orc Scout",
+     "requires_gm": true,
+     "rationale": "Ours: \"as you guys are marching… You… Notice… Orc Scout.\" (x8). Already correctly spelled — new_canon proposal only. The known set already carries the dossier slug \"the_orc_scout\", so the entity exists; \"Orc Scout\" is its spoken form. Pairs with C44 and C56."
+    },
+    {
+     "token": "The Scout",
+     "count": 2,
+     "verbatim": "The Scout's hard. The Scout is… everybody hates the",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.852,
+      "sibling_verbatim": "Yeah, scouts harm. The scout is, everybody hates the scout."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"The Scout's hard. The Scout is… everybody hates the[ scout]\" Sibling: \"Yeah, scouts harm. The scout is, everybody hates the scout.\" Bare head-noun already contained in \"Orc Scout\"; 13 lowercase \"the scout\" occurrences in this file. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 54,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Belgium",
+     "count": 5,
+     "verbatim": "So, how's Belgium?",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.97,
+      "sibling_verbatim": "So how's Belgium?"
+     },
+     "lowercase_in_target": false,
+     "kind": "ordinary_words",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"So, how's Belgium?\" Sibling identical. Real-world country, out-of-fiction chatter about a player's travel. count==5 so not auto-dismissible; no rule."
+    }
+   ]
+  },
+  {
+   "id": 56,
+   "proposed_canonical": null,
+   "confidence": "medium",
+   "reason": "cross-unknown",
+   "members": [
+    {
+     "token": "Orc Brigand",
+     "count": 4,
+     "verbatim": "so you can see it. And the other one is Orc Brigand.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.99,
+      "sibling_verbatim": "So you can see it. And the other one is Orc Brigand."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "new_canon",
+     "proposed_canonical": "Orc Brigand",
+     "requires_gm": true,
+     "rationale": "Ours: \"so you can see it. And the other one is Orc Brigand.\" (x4). Already correctly spelled — new_canon proposal only. Pairs with C44 and C47. Note the transcript also contains \"Ork Brigand\" one line later, which the existing \"Ork\"→Orc row already fixes."
+    },
+    {
+     "token": "The Brigand",
+     "count": 1,
+     "verbatim": "The Brigand. Brigand also runs off the board, so…",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.945,
+      "sibling_verbatim": "The brigand. Brigand also runs off the board."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"The Brigand. Brigand also runs off the board, so…\" Sibling matches. Already-correct run; \"Brigand\" is the bare head-noun of the proposed canonical. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 59,
+   "proposed_canonical": null,
+   "confidence": "medium",
+   "reason": "cross-unknown",
+   "members": [
+    {
+     "token": "Throws",
+     "count": 2,
+     "verbatim": "Alright, so he… Throws a javelin at him.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.949,
+      "sibling_verbatim": "All right. So he throws a javelin at him."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Alright, so he… Throws a javelin at him.\" Sibling: \"All right. So he throws a javelin at him.\" Ordinary verb, capitalised only by the transcriber's sentence-splitting. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 64,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Luxembourg",
+     "count": 3,
+     "verbatim": "in Belgium right now. Right now, I'm in Luxembourg. Yesterday, I was in Belgian, Holland,",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.79,
+      "sibling_verbatim": "But I'm actually not in Belgium right now. Right now I'm in Luxembourg. Yesterday, I was in Belgium, Holland, and Luxembourg."
+     },
+     "lowercase_in_target": false,
+     "kind": "ordinary_words",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Right now, I'm in Luxembourg. Yesterday, I was in Belgian, Holland,[ and Luxembourg]\" Sibling matches. Real-world place, out-of-fiction chatter. count==3."
+    }
+   ]
+  },
+  {
+   "id": 65,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Size",
+     "count": 3,
+     "verbatim": "Size.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.571,
+      "sibling_verbatim": "Size queen."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Size.\" (Stéphane, after the DM says \"I don't have my 26-inch screen\"). Sibling: \"Size queen.\" Ordinary noun, out-of-fiction banter. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 66,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Always",
+     "count": 2,
+     "verbatim": "Always.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 1.0,
+      "sibling_verbatim": "Always."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Always.\" Sibling: \"Always.\" Ordinary adverb. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 67,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "California",
+     "count": 2,
+     "verbatim": "going from, I went… I was in California, I went to India, I went back to Califo",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.846,
+      "sibling_verbatim": "Going from, I went, I was in California. I went to India. I went back to California and I went to Belgium."
+     },
+     "lowercase_in_target": false,
+     "kind": "ordinary_words",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"I was in California, I went to India, I went back to Califo[rnia]\" Sibling matches. Real-world place, out-of-fiction travel chatter. count==2."
+    }
+   ]
+  },
+  {
+   "id": 68,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Doom",
+     "count": 2,
+     "verbatim": "ome random dragon, she was known as the Doom of the Desert, and you know, when…",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.616,
+      "sibling_verbatim": "Well, you know, Imrith was a famous, wasn't just some random dragon. She was known as the Doom of the Desert."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "new_canon",
+     "proposed_canonical": "Doom of the Desert",
+     "requires_gm": true,
+     "rationale": "Ours: \"wasn't just some random dragon, she was known as the Doom of the Desert\" and \"he shows up after the Doom of the Desert's dead\". Sibling corroborates. The text is ALREADY correct — this is a new_canon proposal only, no replacement row. Doom of the Desert is Iymrith's epithet, and this line is the independent evidence that carried C4 (Imrith → Iymrith). Adding it stops the bare token orphaning on every future scan."
+    }
+   ]
+  },
+  {
+   "id": 71,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Final Fantasy",
+     "count": 2,
+     "verbatim": "Nice. But, what I've been learning is Final Fantasy songs.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.982,
+      "sibling_verbatim": "Nice. But what I've been learning is Final Fantasy songs."
+     },
+     "lowercase_in_target": false,
+     "kind": "ordinary_words",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"But, what I've been learning is Final Fantasy songs.\" Sibling matches. Real-world video-game title, out-of-fiction chatter. count==2."
+    }
+   ]
+  },
+  {
+   "id": 77,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Tab",
+     "count": 2,
+     "verbatim": "Alt-Tab.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 1.0,
+      "sibling_verbatim": "Alt tab."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Alt-Tab.\" Sibling: \"Alt tab.\" Real-world keyboard shortcut, out-of-fiction. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 78,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Windows",
+     "count": 2,
+     "verbatim": "Now, I think you can do Windows tab as well, if you're on Windows.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.952,
+      "sibling_verbatim": "I think you can do Windows tab as well if you're on Windows."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Now, I think you can do Windows tab as well, if you're on Windows.\" Sibling matches. Real-world OS, out-of-fiction. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 85,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Africa",
+     "count": 1,
+     "verbatim": "andmass and hitting the northern tip of Africa or whatever.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.481,
+      "sibling_verbatim": "So you can see it. And the other one is Orc Brigand."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"andmass and hitting the northern tip of Africa or whatever.\" Sibling at the span is an unrelated combat line (score 0.481), so no coverage. Our own line is plainly real-world geography in out-of-fiction chatter. No rule."
+    }
+   ]
+  },
+  {
+   "id": 93,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Brigator",
+     "count": 1,
+     "verbatim": "try pursuing him, or you can deal with Brigator 2.",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.846,
+      "sibling_verbatim": "You can try pursuing him, or you can deal with Raider 2."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"you can try pursuing him, or you can deal with Brigator 2.\" Sibling: \"You can try pursuing him, or you can deal with Raider 2.\" Genuine ambiguity: the token sounds like \"Brigand 2\" but the sibling reads \"Raider 2\", and BOTH Orc Brigand 2 and Orc Raider 2 are live combatants at this moment. Sibling name evidence is inadmissible, so I cannot pick. GM ruling needed."
+    }
+   ]
+  },
+  {
+   "id": 102,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Cultists",
+     "count": 1,
+     "verbatim": "Cultists?",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.571,
+      "sibling_verbatim": "cultists, the lotian."
+     },
+     "lowercase_in_target": true,
+     "kind": "ordinary_words",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: David's \"Cultists?\" echoing the DM's previous line \"we've been caught between these Telosian cultists\". Ordinary noun. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row. NOTE for the orchestrator: the adjacent \"Telosian\" in that DM line is already a ruled wrong-form (Telosian → Talosian) and will be fixed by the existing row — no action needed here, but it explains this cluster's binding."
+    }
+   ]
+  },
+  {
+   "id": 106,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Deaf",
+     "count": 1,
+     "verbatim": "Deaf.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.5,
+      "sibling_verbatim": "Yeah."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: Wade's \"Deaf.\" immediately before \"But 12 points of damage on the Orc Scout.\" Sibling: \"Yeah.\" at score 0.5, below the bar. Reads as a garbled interjection (\"Death.\"/\"That's\"), not a name. No safe correction."
+    }
+   ]
+  },
+  {
+   "id": 110,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Dunno",
+     "count": 1,
+     "verbatim": "Dunno? Boom!",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.632,
+      "sibling_verbatim": "No, Soma."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Dunno? Boom!\" (DM, after Wade's \"Pardon.\"). Sibling: \"No, Soma.\" does not correspond to our line — the span is not really covered. Our token is the ordinary contraction of \"don't know\". No safe correction."
+    }
+   ]
+  },
+  {
+   "id": 112,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Enjoy",
+     "count": 1,
+     "verbatim": "Enjoy.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.5,
+      "sibling_verbatim": "No? Okay."
+     },
+     "lowercase_in_target": true,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Enjoy.\" Sibling: \"No? Okay.\" at score 0.5, below the bar. Ordinary verb; also lowercase in target. No safe correction."
+    }
+   ]
+  },
+  {
+   "id": 114,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Fort Green",
+     "count": 1,
+     "verbatim": "We were an independent Fort Green!",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.844,
+      "sibling_verbatim": "We were an independent orc raid."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours (DM voicing the orc): \"We were an independent Fort Green!\" between David's \"Not anymore.\" and Stéphane's \"Yeah, now your barbecue orc.\" Sibling: \"We were an independent orc raid.\" — plausible but it is exactly the kind of semantic substitution the sibling is untrustworthy for. In-fiction dialogue, name-shaped token, no candidate canonical. Surfaced rather than dismissed; no safe correction."
+    }
+   ]
+  },
+  {
+   "id": 120,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Gustetti",
+     "count": 1,
+     "verbatim": "Alright. Thanks, Gustetti.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.651,
+      "sibling_verbatim": "Alright. So this is."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: Stéphane's \"Alright. Thanks, Gustetti.\" immediately after the DM's \"Alright guys, have a good evening.\" and before Gary's \"Bye.\" Sibling does not cover the span. This is end-of-session sign-off addressed to the DM — almost certainly a garble of the DM's real first name, i.e. out-of-fiction, and real-name handling belongs to the scrub pass, not the name glossary. No rule."
+    }
+   ]
+  },
+  {
+   "id": 126,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Marching",
+     "count": 1,
+     "verbatim": "As you are… Marching through the forest.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.6,
+      "sibling_verbatim": "Yeah, you're chasing each other."
+     },
+     "lowercase_in_target": true,
+     "kind": "inconclusive",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"As you are… Marching through the forest.\" Sibling at the span is a different utterance (\"Yeah, you're chasing each other.\"), so no coverage. Ordinary verb capitalised by sentence-splitting. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row."
+    }
+   ]
+  },
+  {
+   "id": 127,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Maybe Raider",
+     "count": 1,
+     "verbatim": "Maybe Raider 2, then… Oof.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.63,
+      "sibling_verbatim": "How many? Raider 2. He blows it."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Maybe Raider 2, then… Oof.\" Sibling: \"How many? Raider 2. He blows it.\" The run is the ordinary word \"Maybe\" plus an already-correct \"Raider\". Nothing to fix."
+    }
+   ]
+  },
+  {
+   "id": 128,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Minnesota",
+     "count": 1,
+     "verbatim": "That is in Minnesota.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.706,
+      "sibling_verbatim": "That is not me."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"That is in Minnesota.\" Sibling: \"That is not me.\" — no real coverage. Real-world place in out-of-fiction chatter. No rule."
+    }
+   ]
+  },
+  {
+   "id": 135,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Orc Raider Scout",
+     "count": 1,
+     "verbatim": "Orc Raider Scout, or Raider 2 brought… yeah, so basicall",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.845,
+      "sibling_verbatim": "Orc Raider Scout. Or Raider 2 brought. Yeah."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Orc Raider Scout, or Raider 2 brought… yeah, so basicall[y]\" Sibling identical. The run is two already-correct labels the DM said back to back while sorting the initiative order; the scanner could not split them. Nothing to fix. Becomes a plain false residual if the GM accepts the C44/C47 new_canon proposals."
+    }
+   ]
+  },
+  {
+   "id": 137,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Ozzy",
+     "count": 1,
+     "verbatim": "And, Ozzy looking bear…",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.595,
+      "sibling_verbatim": "And so moonbeam."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"And, Ozzy looking bear…\" (DM, right before \"You guys are third level, right?\"). Sibling: \"And so moonbeam.\" — no coverage. Garbled descriptor around Soma's bear wild shape. No candidate canonical, no safe correction."
+    }
+   ]
+  },
+  {
+   "id": 140,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Positive",
+     "count": 1,
+     "verbatim": "Hey, Positive says, well, for… did you… so you… you a",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.512,
+      "sibling_verbatim": "Okay, so let's try to do this. I'll follow you. Let's see. Yeah, your reach."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Hey, Positive says, well, for… did you… so you… you asked where…\" following \"He scratches his head and goes.\" Sibling does not cover the span (score 0.512). Sits in a name slot inside the orc interrogation, but our own line degrades into stammering and there is no candidate canonical. Surfaced rather than dismissed; no safe correction."
+    }
+   ]
+  },
+  {
+   "id": 141,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Quesada",
+     "count": 1,
+     "verbatim": "It's an important contribution, because Quesada sometimes gets confused.",
+     "sibling_evidence": {
+      "kind": "different_name",
+      "score": 0.889,
+      "sibling_verbatim": "It's an important contribution because Cassada is sometimes just confused."
+     },
+     "lowercase_in_target": false,
+     "kind": "different_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"It's an important contribution, because Quesada sometimes gets confused.\" Sibling: \"because Cassada is sometimes just confused.\" — a different name. The surrounding lines (\"Alinko's taught us where we're at\", \"The tools are wonky\") are out-of-fiction chatter about the VTT software, so this reads as a real-world personal name rather than campaign canon. Escalating per the different_name rule; my read is that no glossary row should exist."
+    }
+   ]
+  },
+  {
+   "id": 142,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Raider River",
+     "count": 1,
+     "verbatim": "They've got the Raider River there.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.955,
+      "sibling_verbatim": "They've got the raider over there."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"They've got the Raider River there.\" Sibling: \"They've got the raider over there.\" The run is an already-correct \"Raider\" plus \"River\" ← \"over\". A targeted edit at most; not a name row."
+    }
+   ]
+  },
+  {
+   "id": 145,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Scalp",
+     "count": 1,
+     "verbatim": "So, where did Scalp 1 go?",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.8,
+      "sibling_verbatim": "So, where did Scout one go?"
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"So, where did Scalp 1 go?\" Sibling: \"So, where did Scout one go?\" Genuinely \"Scout 1\" — the DM answers \"He left, he disengaged completely.\" But wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row. Targeted edit."
+    }
+   ]
+  },
+  {
+   "id": 147,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Scream Store Creator",
+     "count": 1,
+     "verbatim": "actually Scream Store Creator 1 saying, I told you to not take your b",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.541,
+      "sibling_verbatim": "Oh, the orc scout actually screams to orc raider one saying, I told you to not take your brother's uncle, your brother's nephew as a as a as a as a scout."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "escalate",
+     "proposed_canonical": null,
+     "requires_gm": true,
+     "rationale": "Ours: \"actually Scream Store Creator 1 saying, I told you to not take your b[rother's]\" Sibling: \"the orc scout actually screams to orc raider one saying, I told you to not take your brother's…\" The run spans a verb plus a preposition plus the creature label (\"screams to Orc Raider\"), so it is not expressible as a name row — replacing it with \"Orc Raider\" would delete \"screams to\". Needs a targeted edit; escalating rather than emitting a row that loses text."
+    }
+   ]
+  },
+  {
+   "id": 148,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Strongest",
+     "count": 1,
+     "verbatim": "Strongest. Looks like Raider… either one of the R",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.561,
+      "sibling_verbatim": "It looks like a battle map. Well, it is the map of the camp."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Strongest. Looks like Raider… either one of the R[aiders]\" Sibling at the span is an unrelated line about the battle map. Ordinary superlative; no name. No rule."
+    }
+   ]
+  },
+  {
+   "id": 150,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "The Indians",
+     "count": 1,
+     "verbatim": "Okay. The Indians.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.649,
+      "sibling_verbatim": "Okay. And then I will."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Okay. The Indians.\" between \"It's a group effort.\" and \"team sport.\" Sibling does not cover the span. Real-world sports banter in out-of-fiction chatter. No rule."
+    }
+   ]
+  },
+  {
+   "id": 153,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Toshina",
+     "count": 1,
+     "verbatim": "So, Toshina has not just been performing recently,",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.86,
+      "sibling_verbatim": "Yeah, Delfina has not just been performing recently."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Valphine",
+     "requires_gm": true,
+     "rationale": "Ours: \"So, Toshina has not just been performing recently, she has been, you know.\" The immediately preceding line in OUR OWN transcript is David's \"But Delhina has been performing recently, so…\", and the immediately following line is \"the balancing between, Vukradin's, you know, the double Vs, maybe that's the new band.\" Two V-names in a band with Vukradin identifies the performer as Valphine, and the glossary already rules \"Delphina\", \"Delphine\" and \"Delfino\" as Valphine wrong-forms — \"Delhina\" is one letter from a ruled form. Sibling independently renders it \"Delfina\". Flagged for GM because \"Toshina\" is phonetically distant and this would be a new wrong-form family."
+    }
+   ]
+  },
+  {
+   "id": 155,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Trump",
+     "count": 1,
+     "verbatim": "I mean, but his name's Rob, Trump is just fine.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 0.839,
+      "sibling_verbatim": "I mean, his name's Robinson. Shrimp is just fine."
+     },
+     "lowercase_in_target": false,
+     "kind": "campaign_correct_name",
+     "recommendation": "different_canonical",
+     "proposed_canonical": "Shrimp",
+     "requires_gm": true,
+     "rationale": "Ours: \"I mean, but his name's Rob, Trump is just fine.\" The preceding line in our own transcript is Stéphane's \"No, we'll call him Shrimp.\" and the following is Wade's \"Yep, shrimpy.\" — so \"Shrimp is just fine\" is the reading, independent of the sibling (which also shows \"Shrimp\"). Flagged for GM because \"Trump\" is a live real-world token that will appear in out-of-fiction chatter elsewhere in the corpus; the corpus-wide check must clear it."
+    }
+   ]
+  },
+  {
+   "id": 157,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Walloping",
+     "count": 1,
+     "verbatim": "I will use my… Walloping crossbow bolts.",
+     "sibling_evidence": {
+      "kind": "ordinary_words",
+      "score": 0.987,
+      "sibling_verbatim": "I will use my walloping crossbow bolts."
+     },
+     "lowercase_in_target": false,
+     "kind": "ordinary_words",
+     "recommendation": "new_canon",
+     "proposed_canonical": "walloping ammunition",
+     "requires_gm": true,
+     "rationale": "Ours: \"I will use my… Walloping crossbow bolts.\" Sibling: \"I will use my walloping crossbow bolts.\" The text is ALREADY correct — new_canon proposal only, no replacement row. Walloping ammunition is a real Dragon of Icespire Peak magic item and Gary is using it in this combat; adding it to the known set stops the token orphaning on future scans. GM decides on the exact canonical form."
+    }
+   ]
+  },
+  {
+   "id": 158,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "Whitman",
+     "count": 1,
+     "verbatim": "Let's make a Whitman check.",
+     "sibling_evidence": {
+      "kind": "inconclusive",
+      "score": 0.889,
+      "sibling_verbatim": "Let's make a whiff and check."
+     },
+     "lowercase_in_target": false,
+     "kind": "inconclusive",
+     "recommendation": "ignore",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Let's make a Whitman check.\" followed immediately by \"What's your, what's your, spell DC, dave?\" Sibling: \"Let's make a whiff and check.\" — garbage, no coverage. This is a garbled mechanical term (an ability check), not a proper noun, so it is out of scope for a name glossary. No rule."
+    }
+   ]
+  },
+  {
+   "id": 164,
+   "proposed_canonical": null,
+   "confidence": "low",
+   "reason": "singleton",
+   "members": [
+    {
+     "token": "logger's",
+     "count": 1,
+     "verbatim": "Yeah, you're headed towards the logger's camp.",
+     "sibling_evidence": {
+      "kind": "campaign_correct_name",
+      "score": 1.0,
+      "sibling_verbatim": "Yeah, you're headed towards the logger's camp."
+     },
+     "lowercase_in_target": true,
+     "kind": "campaign_correct_name",
+     "recommendation": "no_rule",
+     "proposed_canonical": null,
+     "requires_gm": false,
+     "rationale": "Ours: \"Yeah, you're headed towards the logger's camp.\" Sibling identical. Refers to the canonical Loggers' Camp, but the token is already lowercase and occurs lowercase three times in this file. wrong-form appears lowercase in this transcript; apply_replacements.py matches re.IGNORECASE, so a glossary row would rewrite ordinary prose. Needs a targeted edit, not a row. Pairs with C29 — both want the same targeted edit."
+    }
+   ]
+  }
+ ],
+ "auto_dismissed": [
+  {
+   "token": "Today",
+   "count": 1,
+   "verbatim": "Today?",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 1.0,
+    "sibling_verbatim": "Today?"
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Today?\" Sibling: \"Today?\" Plain prose, no name spoken. count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 7,
+   "cluster_proposed_canonical": "Tenday"
+  },
+  {
+   "token": "Soon",
+   "count": 1,
+   "verbatim": "Soon you'd be a dead scout.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.557,
+    "sibling_verbatim": "So you notice an orc scout up ahead."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Soon you'd be a dead scout.\" Sibling: \"So you notice an orc scout up ahead.\" Plain prose either way; no name at the span. count==1 + ordinary_words.",
+   "cluster_id": 9,
+   "cluster_proposed_canonical": "Soma"
+  },
+  {
+   "token": "Agree",
+   "count": 1,
+   "verbatim": "Agree.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.667,
+    "sibling_verbatim": "Geez."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Agree.\" (DM, between an initiative call and \"War.\"). Sibling: \"Geez.\" Plain prose; count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 10,
+   "cluster_proposed_canonical": "Ochre"
+  },
+  {
+   "token": "Joker",
+   "count": 1,
+   "verbatim": "Joker.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 1.0,
+    "sibling_verbatim": "Joker."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Joker.\" following Wade's \"Baby?\" Sibling reproduces \"Joker.\" verbatim — the D&D-tuned model did not read a campaign name here. Out-of-fiction banter; count==1 + ordinary_words.",
+   "cluster_id": 10,
+   "cluster_proposed_canonical": "Ochre"
+  },
+  {
+   "token": "shrimp",
+   "count": 1,
+   "verbatim": "Bring it on, you oak shrimp.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.926,
+    "sibling_verbatim": "Bring it on, you orc shrimp."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Bring it on, you oak shrimp.\" Sibling: \"Bring it on, you orc shrimp.\" Lowercase common-noun usage as an insult; the actual error in this line is \"oak\"→\"orc\" (see C33). count==1 + ordinary_words.",
+   "cluster_id": 16,
+   "cluster_proposed_canonical": "The Orc With The Necklace Of Bones Shrimpy"
+  },
+  {
+   "token": "Belgians",
+   "count": 1,
+   "verbatim": "Oh, oh, yeah, it, like, the thing with Belgians is they take getting good beer to the n",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.89,
+    "sibling_verbatim": "Oh, yeah. Like the thing with Belgians is they take getting good beer to the next level."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"the thing with Belgians is they take getting good beer to the n[ext level].\" Sibling matches verbatim. Real-world nationality in table chatter; the cluster's binding to \"Talosian\" is fuzzy noise. count==1 + ordinary_words.",
+   "cluster_id": 20,
+   "cluster_proposed_canonical": "Talosian"
+  },
+  {
+   "token": "Coward",
+   "count": 1,
+   "verbatim": "Coward.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 1.0,
+    "sibling_verbatim": "Coward."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Coward.\" Sibling: \"Coward.\" Ordinary English noun; no name at the span. count==1 + ordinary_words.",
+   "cluster_id": 23,
+   "cluster_proposed_canonical": "Gorthok"
+  },
+  {
+   "token": "Entirely",
+   "count": 1,
+   "verbatim": "rows… is Javelin at Brewbarry, and Mrs. Entirely. Alright.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.836,
+    "sibling_verbatim": "And throws his javelin at Brewberry and misses entirely. All right."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"rows… is Javelin at Brewbarry, and Mrs. Entirely. Alright.\" Sibling: \"And throws his javelin at Brewberry and misses entirely.\" Plain prose — and the pair that proves \"Mrs.\" = \"misses\" for C15|Holberg. count==1 + ordinary_words.",
+   "cluster_id": 24,
+   "cluster_proposed_canonical": "Andrella"
+  },
+  {
+   "token": "Guest",
+   "count": 1,
+   "verbatim": "the line from, from Lord of the Rings? Guest meets back on the menu, boys?",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.904,
+    "sibling_verbatim": "That's the line from Lord of the Rings. Guest meets back on the menu, boys."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"the line from Lord of the Rings? Guest meets back on the menu, boys?\" Sibling identical. Garbled real-world film quote (\"Looks like meat's back on the menu, boys\"); the cluster's binding to a draft NPC dossier is fuzzy noise. count==1 + ordinary_words.",
+   "cluster_id": 26,
+   "cluster_proposed_canonical": "Petra Sallow — guest, the Moonstone Mask (DRAFT)"
+  },
+  {
+   "token": "century",
+   "count": 1,
+   "verbatim": "Yeah, well, I mean, like, 4th century, I mean, Mike makes right. I mean, that",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.837,
+    "sibling_verbatim": "Yeah, well, I mean, like, for Century, I mean, Mike Mate's right."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"like, 4th century, I mean, Mike makes right.\" Sibling: \"for Century, I mean, Mike Mate's right.\" Ordinary noun in out-of-fiction chatter. count==1 + ordinary_words.",
+   "cluster_id": 38,
+   "cluster_proposed_canonical": "Centauri"
+  },
+  {
+   "token": "partial",
+   "count": 1,
+   "verbatim": "me see this. It depends, like, you have partial… you can see… you can see the orc briga",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.85,
+    "sibling_verbatim": "So let me see this. It depends. Like, you have partial. You can see the orc brigand."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"you have partial… you can see the orc briga[nd].\" Sibling: \"you have partial. You can see the orc brigand.\" Ordinary adjective (partial cover). count==1 + ordinary_words.",
+   "cluster_id": 40,
+   "cluster_proposed_canonical": "E10. Partially Collapsed Room"
+  },
+  {
+   "token": "pirates",
+   "count": 1,
+   "verbatim": "leading this… your… this merry band of pirates?",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.791,
+    "sibling_verbatim": "Who's leading this merry band of pirates?"
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"your… this merry band of pirates?\" Sibling: \"Who's leading this merry band of pirates?\" Ordinary noun; the cluster's binding to Pirates' Skyhold is fuzzy noise. count==1 + ordinary_words.",
+   "cluster_id": 41,
+   "cluster_proposed_canonical": "Pirates' Skyhold"
+  },
+  {
+   "token": "signed",
+   "count": 1,
+   "verbatim": "but unless I have a notice of delivery signed by Tibor Wester, I don't get my 100 gol",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.895,
+    "sibling_verbatim": "Yeah, but unless I have a notice of delivery signed by Tiber Wester, I don't get my hundred gold."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"unless I have a notice of delivery signed by Tibor Wester, I don't get my 100 gol[d].\" Sibling matches. Ordinary verb — and the name in the line (Tibor Wester) is already correctly spelled and already a known canonical. count==1 + ordinary_words.",
+   "cluster_id": 42,
+   "cluster_proposed_canonical": "Xanth"
+  },
+  {
+   "token": "T-",
+   "count": 1,
+   "verbatim": "and T-Hip.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.824,
+    "sibling_verbatim": "Anti-hip."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"and T-Hip.\" Sibling: \"Anti-hip.\" A hyphen fragment of the ordinary word \"anti-hip\", not a name. count==1 + ordinary_words.",
+   "cluster_id": 53,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Baby",
+   "count": 1,
+   "verbatim": "Baby?",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.571,
+    "sibling_verbatim": "Bye."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Baby?\" (Wade, table banter, answered by \"Joker.\"). Sibling: \"Bye.\" Plain prose. count==1 + ordinary_words.",
+   "cluster_id": 55,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Handy",
+   "count": 1,
+   "verbatim": "Handy.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.75,
+    "sibling_verbatim": "And"
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Handy.\" (DM filler between \"Okay.\" and a combat status line). Sibling: \"And\" Plain prose. count==1 + ordinary_words.",
+   "cluster_id": 81,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Altab",
+   "count": 1,
+   "verbatim": "Oh, Altab.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.9,
+    "sibling_verbatim": "Oh, alt-tab."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Oh, Altab.\" Sibling: \"Oh, alt-tab.\" Garble of the keyboard shortcut, not a name. count==1 + ordinary_words.",
+   "cluster_id": 87,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Anti",
+   "count": 1,
+   "verbatim": "Anti hip.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 1.0,
+    "sibling_verbatim": "Anti-hip."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Anti hip.\" Sibling: \"Anti-hip.\" Ordinary prefix. count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 89,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Arcadence",
+   "count": 1,
+   "verbatim": "Alright, Arcadence.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.667,
+    "sibling_verbatim": "All right, then."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Alright, Arcadence.\" (DM, between a hit-point tally and \"I need one more thing to do\"). Sibling: \"All right, then.\" — plain prose covering the span. Name-shaped but the sibling read no name here. count==1 + ordinary_words.",
+   "cluster_id": 90,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Bit",
+   "count": 1,
+   "verbatim": "26, I'm… yeah, I think that means you… Bit his butt off.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.932,
+    "sibling_verbatim": "26. Yeah, I think that means you bit his butt off."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"I think that means you… Bit his butt off.\" Sibling: \"I think that means you bit his butt off.\" Ordinary verb. count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 92,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Brute Squad",
+   "count": 1,
+   "verbatim": "He's the Brute Squad.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 1.0,
+    "sibling_verbatim": "He's the brute squad."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"He's the Brute Squad.\" Sibling: \"He's the brute squad.\" Real-world film quote (Princess Bride) in table banter. count==1 + ordinary_words.",
+   "cluster_id": 95,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Bud Light",
+   "count": 1,
+   "verbatim": "No, no, I mean… Get that man a Bud Light.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.974,
+    "sibling_verbatim": "No, no. I mean... Get that man a bud light."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Get that man a Bud Light.\" Sibling: \"Get that man a bud light.\" Real-world brand in the beer chatter. count==1 + ordinary_words.",
+   "cluster_id": 96,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Bulling",
+   "count": 1,
+   "verbatim": "Bulling your cart for now.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.741,
+    "sibling_verbatim": "He's pulling the cart for now."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Bulling your cart for now.\" Sibling: \"He's pulling the cart for now.\" Garble of \"pulling\", not a name. count==1 + ordinary_words.",
+   "cluster_id": 97,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Coffini",
+   "count": 1,
+   "verbatim": "Coffini. Okay.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.667,
+    "sibling_verbatim": "Oh, okay."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Coffini. Okay.\" followed by \"Excellent.\" Sibling: \"Oh, okay.\" — plain prose covering the span. count==1 + ordinary_words.",
+   "cluster_id": 100,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Creep",
+   "count": 1,
+   "verbatim": "I mean… Creep up as an animal, maybe you wouldn't not",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.92,
+    "sibling_verbatim": "I mean, creep up as an animal. Maybe you wouldn't notice that."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Creep up as an animal, maybe you wouldn't not[ice]\" Sibling: \"I mean, creep up as an animal.\" Ordinary verb. count==1 + ordinary_words.",
+   "cluster_id": 101,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Damn Bear",
+   "count": 1,
+   "verbatim": "Damn Bear.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.818,
+    "sibling_verbatim": "The damn bear."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Damn Bear.\" Sibling: \"The damn bear.\" Ordinary words (Soma's wild shape). count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 104,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Ford",
+   "count": 1,
+   "verbatim": "s disengage, because he's right next to Ford.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.903,
+    "sibling_verbatim": "He does disengage because he's right next to four."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"s disengage, because he's right next to Ford.\" Sibling: \"He does disengage because he's right next to four.\" Garble of the number \"four\" (a token number on the map), not a name. count==1 + ordinary_words.",
+   "cluster_id": 113,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Fuck",
+   "count": 1,
+   "verbatim": "Fuck!",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.571,
+    "sibling_verbatim": "I'm fucked."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Fuck!\" Sibling: \"I'm fucked.\" Ordinary expletive. count==1 + ordinary_words.",
+   "cluster_id": 117,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Gather",
+   "count": 1,
+   "verbatim": "It's a camp, and we have the… Gather than Corbin, the campmaster, right?",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.889,
+    "sibling_verbatim": "Corbin is in camp. And we have the. Other than Corbin the campmaster, right?"
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"It's a camp, and we have the… Gather than Corbin, the campmaster, right?\" Sibling: \"Other than Corbin the campmaster, right?\" Garble of \"other than\"; the actual name in the line (Corbin) is already correct. count==1 + ordinary_words.",
+   "cluster_id": 118,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Grow",
+   "count": 1,
+   "verbatim": "And growl at him. Grow!",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.553,
+    "sibling_verbatim": "Ooh, you roar at him. I do."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"And growl at him. Grow!\" Sibling: \"Ooh, you roar at him. I do.\" Ordinary verb. count==1 + ordinary_words.",
+   "cluster_id": 119,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Hip",
+   "count": 1,
+   "verbatim": "and T-Hip.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.824,
+    "sibling_verbatim": "Anti-hip."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"and T-Hip.\" Sibling: \"Anti-hip.\" Fragment of an ordinary compound. count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 121,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Holland",
+   "count": 1,
+   "verbatim": "uxembourg. Yesterday, I was in Belgian, Holland, and Luxembourg.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.87,
+    "sibling_verbatim": "Yesterday, I was in Belgium, Holland, and Luxembourg."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Yesterday, I was in Belgian, Holland, and Luxembourg.\" Sibling matches. Real-world place in travel chatter. count==1 + ordinary_words.",
+   "cluster_id": 122,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Munich",
+   "count": 1,
+   "verbatim": "t's easy to get good beer in Zurich and Munich.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.911,
+    "sibling_verbatim": "Well, it was easy to get good beer in Zurich and Munich."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"t's easy to get good beer in Zurich and Munich.\" Sibling matches. Real-world place in the beer chatter. count==1 + ordinary_words.",
+   "cluster_id": 130,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Notice",
+   "count": 1,
+   "verbatim": "Okay, so as you guys are marching… You… Notice… Orc Scout.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.885,
+    "sibling_verbatim": "Okay. So as you guys are marching, you notice orc scout just ahead."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Okay, so as you guys are marching… You… Notice… Orc Scout.\" Sibling: \"you notice orc scout just ahead.\" Ordinary verb. count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 131,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Pollution",
+   "count": 1,
+   "verbatim": "Pollution.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.552,
+    "sibling_verbatim": "Roll your perception."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Pollution.\" Sibling: \"Roll your perception.\" Garble of the mechanical term \"perception\", not a name. count==1 + ordinary_words.",
+   "cluster_id": 139,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Restore",
+   "count": 1,
+   "verbatim": "I used a prayer of healing to… Restore everyone.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.989,
+    "sibling_verbatim": "I used a prayer of healing to restore everyone."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"I used a prayer of healing to… Restore everyone.\" Sibling: \"I used a prayer of healing to restore everyone.\" Ordinary verb. count==1 + ordinary_words.",
+   "cluster_id": 143,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Rings",
+   "count": 1,
+   "verbatim": "What's the line from, from Lord of the Rings? Guest meets back on the menu, boys?",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.941,
+    "sibling_verbatim": "That's the line from Lord of the Rings. Guest meets back on the menu, boys."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"What's the line from, from Lord of the Rings?\" Sibling matches. Real-world film title in table banter, not campaign canon. count==1 + ordinary_words.",
+   "cluster_id": 144,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Surprisingly",
+   "count": 1,
+   "verbatim": "Yes. Surprisingly. Okay.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.978,
+    "sibling_verbatim": "Yes, surprisingly. Okay."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Yes. Surprisingly. Okay.\" Sibling: \"Yes, surprisingly. Okay.\" Ordinary adverb. count==1 + ordinary_words.",
+   "cluster_id": 149,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "The Windows",
+   "count": 1,
+   "verbatim": "The Windows tab is so obnoxious.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 1.0,
+    "sibling_verbatim": "The Windows tab is so obnoxious."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"The Windows tab is so obnoxious.\" Sibling identical. Real-world OS in the alt-tab chatter. count==1 + ordinary_words.",
+   "cluster_id": 151,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Tied",
+   "count": 1,
+   "verbatim": "Tied? Is he, like, how is he kept, like, how",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.607,
+    "sibling_verbatim": "Is he like, how is he kept like, how are you guys tied him to, like, how is it?"
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Tied? Is he, like, how is he kept, like, how\" Sibling: \"Is he like, how is he kept like, how are you guys tied him to…\" Ordinary verb (about the orc prisoner's bindings). count==1 + ordinary_words. Also lowercase in target.",
+   "cluster_id": 152,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Vs",
+   "count": 1,
+   "verbatim": "tween, Vukradin's, you know, the double Vs, maybe that's the new band.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 0.75,
+    "sibling_verbatim": "She has been, you know, the balancing between Vukredin's, you know, the double Vs. Maybe that's the new band."
+   },
+   "lowercase_in_target": false,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"Vukradin's, you know, the double Vs, maybe that's the new band.\" Sibling matches. Ordinary plural of the letter V. count==1 + ordinary_words. (The name in the line, \"Vukradin\", is already correct.)",
+   "cluster_id": 156,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "haunting",
+   "count": 1,
+   "verbatim": "haunting, really.",
+   "sibling_evidence": {
+    "kind": "ordinary_words",
+    "score": 1.0,
+    "sibling_verbatim": "Haunting, really."
+   },
+   "lowercase_in_target": true,
+   "kind": "ordinary_words",
+   "recommendation": "ignore",
+   "proposed_canonical": null,
+   "requires_gm": false,
+   "rationale": "Ours: \"haunting, really.\" Sibling: \"Haunting, really.\" Ordinary adjective, already lowercase. count==1 + ordinary_words.",
+   "cluster_id": 163,
+   "cluster_proposed_canonical": null
+  }
+ ],
+ "false_residuals_suppressed": [
+  {
+   "token": "C's Brewbarry",
+   "count": 1,
+   "verbatim": "C's Brewbarry.",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.769,
+    "sibling_verbatim": "No, Brewberry."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Brewbarry",
+   "requires_gm": false,
+   "rationale": "Ours: \"C's Brewbarry.\" The embedded name is ALREADY correct; the scanner flagged the capitalised run because it cannot split it. False residual.",
+   "cluster_id": 1,
+   "cluster_proposed_canonical": "Brewbarry"
+  },
+  {
+   "token": "New Brewbarry",
+   "count": 1,
+   "verbatim": "Brewbarry likes to point out hypocrisy. New Brewbarry.",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.813,
+    "sibling_verbatim": "Brewberry likes to point out hypocrisy."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Brewbarry",
+   "requires_gm": false,
+   "rationale": "Ours: \"Brewbarry likes to point out hypocrisy. New Brewbarry.\" Embedded name already correct; capitalised-run artefact. False residual.",
+   "cluster_id": 1,
+   "cluster_proposed_canonical": "Brewbarry"
+  },
+  {
+   "token": "The Brewbarry",
+   "count": 1,
+   "verbatim": "The Brewbarry is, like, large, and all kinds of silli",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.86,
+    "sibling_verbatim": "And Brewberry is like large and all kinds of silliness."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Brewbarry",
+   "requires_gm": false,
+   "rationale": "Ours: \"The Brewbarry is, like, large, and all kinds of silli[ness]\". Embedded name already correct; capitalised-run artefact. False residual.",
+   "cluster_id": 1,
+   "cluster_proposed_canonical": "Brewbarry"
+  },
+  {
+   "token": "But Valphine",
+   "count": 1,
+   "verbatim": "But Valphine actually doesn't know. Valphine was sle",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.574,
+    "sibling_verbatim": "I read some summaries, but Valfina actually doesn't know."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Valphine",
+   "requires_gm": false,
+   "rationale": "Ours: \"But Valphine actually doesn't know. Valphine was sle[eping]\". Embedded name already correct; capitalised-run artefact. False residual.",
+   "cluster_id": 3,
+   "cluster_proposed_canonical": "Valphine"
+  },
+  {
+   "token": "Falcon Secret",
+   "count": 1,
+   "verbatim": "At the Falcon Secret.",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.579,
+    "sibling_verbatim": "I hate those icons."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Falcon",
+   "requires_gm": false,
+   "rationale": "Ours: \"At the Falcon Secret.\" (Stéphane, asking about the covert operation). \"Falcon\" is already the correct canonical; \"Secret\" is a separate ordinary word the scanner could not split off the capitalised run. False residual.",
+   "cluster_id": 8,
+   "cluster_proposed_canonical": "Falcon"
+  },
+  {
+   "token": "North Sword Coast",
+   "count": 1,
+   "verbatim": "Alright, you should see the map of the North Sword Coast.",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.973,
+    "sibling_verbatim": "All right. You should see the map of the North Sword Coast."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Sword Coast",
+   "requires_gm": false,
+   "rationale": "Ours: \"you should see the map of the North Sword Coast.\" Sibling identical. \"Sword Coast\" inside the run is already correct; capitalised-run artefact. False residual.",
+   "cluster_id": 32,
+   "cluster_proposed_canonical": "Sword Coast"
+  },
+  {
+   "token": "The Sword Mountains",
+   "count": 1,
+   "verbatim": "The Sword Mountains.",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.625,
+    "sibling_verbatim": "The scout has."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Sword Mountains",
+   "requires_gm": false,
+   "rationale": "Ours: \"The Sword Mountains.\" \"Sword Mountains\" is already the correct canonical; capitalised-run artefact. False residual.",
+   "cluster_id": 36,
+   "cluster_proposed_canonical": "Sword Mountains"
+  },
+  {
+   "token": "It's Soma",
+   "count": 1,
+   "verbatim": "No, he does not. It's Soma's turn.",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.719,
+    "sibling_verbatim": "I guess he gets no, he does not. Selma, it's Selma's turn."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Soma",
+   "requires_gm": false,
+   "rationale": "Ours: \"No, he does not. It's Soma's turn.\" \"Soma\" is already correct; the scanner flagged the capitalised run it could not split. False residual.",
+   "cluster_id": 124,
+   "cluster_proposed_canonical": null
+  },
+  {
+   "token": "Orc No",
+   "count": 1,
+   "verbatim": "Because we can't keep calling him Orc No. 2.",
+   "sibling_evidence": {
+    "kind": "campaign_correct_name",
+    "score": 0.656,
+    "sibling_verbatim": "Okay, and the orc needs a name because we can't keep calling him orc number two."
+   },
+   "lowercase_in_target": false,
+   "kind": "campaign_correct_name",
+   "recommendation": null,
+   "proposed_canonical": "Orc",
+   "requires_gm": false,
+   "rationale": "Ours: \"Because we can't keep calling him Orc No. 2.\" Sibling: \"we can't keep calling him orc number two.\" \"Orc\" is already the correct canonical; \"No.\" is the ordinary abbreviation for number. Capitalised-run artefact. False residual.",
+   "cluster_id": 134,
+   "cluster_proposed_canonical": null
+  }
+ ],
+ "agent_blocked_on": [],
+ "stage_a_agent_notes": [
+  "Sibling weighting: I treated a sibling rendering that unmistakably denotes the SAME campaign entity (Brewberry/Bruberry for Brewbarry, Valfina/Valfine for Valphine, Vukridin/Vucraden for Vukradin) as campaign_correct_name even when the sibling's own spelling is non-canonical. Contamination substitutes one entity for another; spelling variance on the same entity is not contamination. Every such case says so in its rationale.",
+  "Orc statblock labels (Orc Raider x16, Orc Scout x8, Orc Brigand x4) currently orphan on every scan and drive the whole combat half of the chapter. Three new_canon proposals (C44, C47, C56) plus five wrong-form rows pointing at them (Ore Creator x7, Briggan x3, Reader x3, Or Crater, Work Rater, Reeder, Crater). If the GM declines the new_canon proposals, the wrong-form rows are still independently valid as spelling fixes.",
+  "APPLY-ORDER HAZARD: the wrong-form 'Or Crater' (C44) contains the wrong-form 'Crater' (C2). Longest-first application is required or 'Or Crater 1' becomes 'Or Orc Raider 1'.",
+  "Not in my candidate list but observed while reading context: the transcript contains 'Telosian cultists' and 'Ork Brigand', both of which existing glossary rows already fix (Telosian -> Talosian, Ork -> Orc). No action needed; noted so the orchestrator does not treat them as misses."
+ ]
+}

@@ -40,3 +40,36 @@ Istus  — Greyhawk goddess of fate and destiny; referenced as avatar context in
 - Privy Council  — "Fandalin and Vukradin need to have a discussion with the Privy Council."  — 2026-06-14
 - Axehome  — "there were these interdimensional creatures in Axehome."  — 2026-06-14
 - Light Lord  — "Valphine, just glorious Light Lord. Earthlady." — epithet/title  — 2026-06-14
+
+## 2026-08-02 — from `summaries/20250528-chapter-03-new/` (session of 2025-05-28, chapter 3)
+
+- Overbrighters  — Underdark residents' word for surface-dwellers. GM gloss: "it's overly bright — over our head and bright", shortened to *overbright*. Both transcriptions render it identically, so it is genuine in-canon vocabulary, not an ASR artifact.  — 2026-08-02
+- Gem of Greed  — Artifact depicted in the carvings of Abbathor's ruined temple; "a demon attacks the gnomes for stealing the gem of greed."  — 2026-08-02
+- Orcanese  — Table/in-world coinage for the Orc language; "Do you speak Orcanese?"  — 2026-08-02
+
+- **Harpy** — te Act One harpy battle. Three harpies. Harpy is third level. It's pre — wave 1, 2026-08-02
+- **Treant** — Treant has controlled the Brambley Woods to… O — wave 1, 2026-08-02
+- **Blighted Vine** — Here we go. Blighted Vine, here we go. Blighted vine, alright. So — wave 1, 2026-08-02
+- **Enclave Warrior** — Okay. Enclave Warrior 2. — wave 1, 2026-08-02
+- **Naturalists** — Naturalists. — wave 1, 2026-08-02
+- **Stormlord** — It is not the Strage of the Stormlord that consumed him, but something — wave 1, 2026-08-02
+- **Giant's Havoc** — is plus 5 reach, but I also have this… Giant's Havoc. — wave 1, 2026-08-02
+
+- **Tresendar Manor** — wave 2, 2026-08-02
+- **Orc Raider** — wave 2, 2026-08-02
+- **Orc Scout** — wave 2, 2026-08-02
+- **Orc Brigand** — wave 2, 2026-08-02
+- **Privy Council** — wave 2, 2026-08-02
+- **Overbright** — wave 2, 2026-08-02
+- **Matron Mother** — wave 2, 2026-08-02
+- **Searing Pain of Justice** — wave 2, 2026-08-02
+- **Black Pearl** — wave 2, 2026-08-02
+- **Vincent** — wave 2, 2026-08-02
+- **Goodberry** — wave 2, 2026-08-02
+- **Mold Earth** — wave 2, 2026-08-02
+- **Dominate Person** — wave 2, 2026-08-02
+- **Levitate** — wave 2, 2026-08-02
+- **Stone's Endurance** — wave 2, 2026-08-02
+- **Cure Wounds** — wave 2, 2026-08-02
+- **Giant Strength** — wave 2, 2026-08-02
+- **Hunter Shark** — wave 3 tail, 2026-08-02

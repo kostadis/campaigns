@@ -1,0 +1,2136 @@
+{
+  "schema_version": 1,
+  "dir": "20260512",
+  "target_file": "summaries/20260512/GMT20260513-040103_Recording.transcript.vtt",
+  "target_sha256": "003a79d18c410030d4e603af10b334ac7f8ab7e166b4e5a3f8e0e21d5de00956",
+  "target_format": "webvtt",
+  "speakers": {},
+  "duplication_detected": false,
+  "sibling": {
+    "path": "summaries/20260512/session_20260512_transcript.vtt",
+    "transcriber_kind": "dnd_tuned_llm",
+    "name_evidence_admissible": false
+  },
+  "glossary_sha256_at_scan": "c24b815e6cc37b919a13b71910696d5ba229d16c7a3c562508fe28c86650ab5d",
+  "known_names_count": 2222,
+  "raw_unknown_count": 161,
+  "clusters_after_ignore_filter": 77,
+  "clusters": [
+    {
+      "id": 2,
+      "proposed_canonical": "Soma",
+      "confidence": "medium",
+      "reason": "edit_distance,edit_distance,edit_distance,metaphone",
+      "members": [
+        {
+          "token": "So Malk",
+          "count": 1,
+          "verbatim": "So she is now. So Malk.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.909,
+            "sibling_verbatim": "So she is now Soma Elk."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "proposed_canonical": "Soma",
+          "requires_gm": false,
+          "rationale": "Our line is the DM's own restatement: the cue two before reads 'Soma Elk.' and this one 'So she is now. So Malk.' Sibling reads 'So she is now Soma Elk.' — spells the canonical, and 'So Malk' is a credible compression of 'Soma Elk'. The glossary already maps 'Soma Elk' -> Soma, so this is the same collapse one garble further out.",
+          "cluster_id": 2,
+          "cluster_proposed_canonical": "Soma"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "proposed_canonical": "Valphine",
+      "confidence": "high",
+      "reason": "substring,substring,edit_distance,substring,substring,edit_distance,substring",
+      "members": [
+        {
+          "token": "Belthina",
+          "count": 1,
+          "verbatim": "No, Belthina needs to re-roll.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.912,
+            "sibling_verbatim": "No, Balfina needs to re-roll."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "proposed_canonical": "Valphine",
+          "requires_gm": false,
+          "rationale": "The cue two before is 'I rolled a 7, so… what did you roll? Belfine?' (an existing Valphine row) and this one is 'No, Belthina needs to re-roll.' — same speaker, same exchange, Stephane answering for a save. Sibling reads 'No, Balfina needs to re-roll.'; 'Balfina' is itself a registered Valphine wrong-form, so the sibling and our line agree on the referent and 'Belthina' is a plain phonetic neighbour.",
+          "cluster_id": 3,
+          "cluster_proposed_canonical": "Valphine"
+        },
+        {
+          "token": "Valphine Bucherton",
+          "count": 1,
+          "verbatim": "re might be stuff they left behind that Valphine Bucherton doesn't have to see.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.917,
+            "sibling_verbatim": "There might be stuff they left behind that Valfina Bukerten doesn't have to see."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Vukradin",
+          "requires_gm": true,
+          "rationale": "NOT a Valphine residual. Raw cue: 'There might be meat, you never know, there might be stuff they left behind that Valfina Bucherton doesn't have to see.' 'Valfina' is an existing row and is already fixed; the surviving garble is 'Bucherton', which is a Vukradin form — it occurs 5x across the corpus, always him ('Bucherton can't see me doing this', 'Leave Bucherton behind', 'Mr. Bucherton insisted we put in'). Sibling reads 'Valfina Bukerten', i.e. it garbled both names and confirms nothing. IMPORTANT: the row must be the single token `Bucherton -> Vukradin`, NOT the run — rewriting the run would delete Valphine from the line (Toblen Stonehill rule).",
+          "cluster_id": 3,
+          "cluster_proposed_canonical": "Valphine"
+        },
+        {
+          "token": "Valvina",
+          "count": 1,
+          "verbatim": "Valvina, you know you can also do an attack. Yo",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.923,
+            "sibling_verbatim": "Valfina, you know, you can also do an attack."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "proposed_canonical": "Valphine",
+          "requires_gm": false,
+          "rationale": "Raw cue before it is 'David Mendenhall: Valfina, can you do 16 points of damage?' and ours is 'Valvina, you know you can also do an attack.' Sibling: 'Valfina, you know, you can also do an attack.' Same speaker turn, same referent, one-letter phonetic drift. Glossary already carries 'Valvine'; 'Valvina' is the missing sibling form.",
+          "cluster_id": 3,
+          "cluster_proposed_canonical": "Valphine"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "proposed_canonical": "Anchorite",
+      "confidence": "medium",
+      "reason": "substring,edit_distance,metaphone,substring",
+      "members": [
+        {
+          "token": "Grouker",
+          "count": 1,
+          "verbatim": "Group didn't do it, and Grouker didn't nothing, you know, nothing too b",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.59,
+            "sibling_verbatim": "She's kind of assuming that it's, you know, Bukra didn't do me Buker didn't, you know, nothing too bad."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Vukradin",
+          "requires_gm": true,
+          "rationale": "The DM is restating the previous cue: 'She hears Val Booker didn't do his thing, she's kind of assuming that it's, you know. / Group didn't do it, and Grouker didn't nothing…' The corpus shows this DM's mouth produces Booker / Booker Din / Bookerdin for Vukradin ('Booker didn't they decide that the 16…', 'Booker Din grabs a guest'), and the sibling renders the same span as 'Bukra didn't do me Buker didn't' — garble, not a name, so it confirms nothing. COMPETING READING the GM must rule on: the glossary already maps 'Groubear' -> Anchorite, and 'Grouker' is one letter off that. Vukradin fits the sentence (Soma-as-elk sensing whether the bard's performance went wrong); Anchorite does not.",
+          "cluster_id": 4,
+          "cluster_proposed_canonical": "Anchorite"
+        },
+        {
+          "token": "Inkrait",
+          "count": 1,
+          "verbatim": "the holy symbol on the skull of the… of Inkrait, and with my mice.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.855,
+            "sibling_verbatim": "Put the holy symbol on the skull of the anchorite and with my mace."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "proposed_canonical": "Anchorite",
+          "requires_gm": false,
+          "rationale": "'And put the holy symbol on the skull of the… of Inkrait, and with my mice.' Sibling: 'Put the holy symbol on the skull of the anchorite and with my mace.' Spells the canonical; 'Inkrait' is a compression of 'anchorite' of exactly the kind the glossary already carries ('Incorite', 'Anachorite', 'Ancorate'). The whole scene is the party desecrating the dead anchorites' holy symbols.",
+          "cluster_id": 4,
+          "cluster_proposed_canonical": "Anchorite"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "proposed_canonical": "Vukradin",
+      "confidence": "high",
+      "reason": "substring,substring,edit_distance",
+      "members": [
+        {
+          "token": "Avukriddin",
+          "count": 1,
+          "verbatim": "Avukriddin.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.778,
+            "sibling_verbatim": "Vukradin."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "confirm",
+          "proposed_canonical": "Vukradin",
+          "requires_gm": false,
+          "rationale": "Standalone cue 'Avukriddin.' — sibling reads 'Vukradin.' The glossary already carries 'Vukriddin'; this survived only because the leading 'A' fused into the token so the word-boundary match missed. Not the deliberate 'Vukradinious' variant.",
+          "cluster_id": 5,
+          "cluster_proposed_canonical": "Vukradin"
+        },
+        {
+          "token": "Muchardin",
+          "count": 1,
+          "verbatim": "Does… is Muchardin sensing that, you know, one way to get",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.518,
+            "sibling_verbatim": "Yeah, I'm just, I'm just telling you that, you know, he felt a little bit betrayed."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "confirm",
+          "proposed_canonical": "Vukradin",
+          "requires_gm": false,
+          "rationale": "'Does… is Muchardin sensing that, you know, one way to get people to see the path of goodness is to convert them to Malfine's version of.' Two cues earlier the DM says 'A vander and his prophet' (Lathander and his prophet) and 'Malfine' is an existing Valphine row — this is the DM asking Dave about Vukradin's theology, and Dave answers in character on the next cue. Sibling misaligns (score 0.52) and shows unrelated prose, so it carries no weight either way; the reading is unambiguous from our own text. 'Muchardin' sits in the same family as the existing 'McCraden' row and occurs 2x in the corpus.",
+          "cluster_id": 5,
+          "cluster_proposed_canonical": "Vukradin"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "proposed_canonical": "Henge",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Stonehenge",
+          "count": 2,
+          "verbatim": "oma does? She, pushes down one of these Stonehenge tablet… these Stonehenge thingies.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.976,
+            "sibling_verbatim": "Soma does? She pushes down one of these Stonehenge tablets, these Stonehenge thingies."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "Both transcripts read 'Stonehenge' identically: 'she pushes down one of these Stonehenge tablet… these Stonehenge thingies.' This is the players reaching for a real-world simile to describe the henge stones, not a garble of the campaign's 'Henge'. Mapping it would rewrite an English word the speaker actually said. Declining rather than ignoring so the high-confidence cluster is visibly refused.",
+          "cluster_id": 7,
+          "cluster_proposed_canonical": "Henge"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "proposed_canonical": "aletra",
+      "confidence": "high",
+      "reason": "edit_distance,edit_distance",
+      "members": [
+        {
+          "token": "Alatra",
+          "count": 1,
+          "verbatim": "Alatra?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.533,
+            "sibling_verbatim": "Australia."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Adabra",
+          "requires_gm": true,
+          "rationale": "NOT Aletra. The exchange is about a rescue the target refused: 'Why did we… we had to go save her. Oh, but she didn't want to be saved.' / 'Alatra?' / 'Barbara.' / 'You guys always assumed she needed to be saved.' That is Adabra Gwynn (the party saved her over her objections), and later in this same session Dave says 'I wanted to know more about Adabra, so I went and read about her'. Sibling emits 'Australia.' — pure hallucination, no evidence. GM must rule because Aletra and Adabra are both live canon and the cluster proposed the other one.",
+          "cluster_id": 8,
+          "cluster_proposed_canonical": "aletra"
+        },
+        {
+          "token": "Aretha",
+          "count": 1,
+          "verbatim": "Aretha, we need to have a conversation about…",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.785,
+            "sibling_verbatim": "Prutha, we need to have a conversation about conflict-free goal."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Prutha",
+          "requires_gm": false,
+          "rationale": "NOT Aletra. The cue before is 'While you're arguing with Valfine, Prutha destroys them.' and ours is 'Aretha, we need to have a conversation about… Conflict-free goal.', immediately answered by 'Are you trying to reason with an orc?' Sibling reads 'Prutha, we need to have a conversation about conflict-free goal.' — spells the canonical, and Prutha appears 9x correctly elsewhere in this transcript.",
+          "cluster_id": 8,
+          "cluster_proposed_canonical": "aletra"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "proposed_canonical": "Ander",
+      "confidence": "high",
+      "reason": "substring,substring",
+      "members": [
+        {
+          "token": "Ozander",
+          "count": 1,
+          "verbatim": "For the glory of Ozander.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.88,
+            "sibling_verbatim": "For the glory of Alexander."
+          },
+          "lowercase_in_target": false,
+          "kind": "different_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Lathander",
+          "requires_gm": true,
+          "rationale": "'For the glory of Ozander.' — spoken by Gary (Valphine, the secret Lathander devotee); the DM answers 'Yes. I mean, don't forget, he's very much committed.' Sibling invents 'For the glory of Alexander', which is a different name and therefore worthless as evidence. The glossary already carries 'Lathanzer', 'Lathunder', 'Lothander' for this same drift, so Lathander is the strong reading — but it is a deity attribution, which is exactly the class of decision the GM should make.",
+          "cluster_id": 9,
+          "cluster_proposed_canonical": "Ander"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "proposed_canonical": "Brewbarry",
+      "confidence": "medium",
+      "reason": "metaphone,substring",
+      "members": [
+        {
+          "token": "Barbara",
+          "count": 1,
+          "verbatim": "Barbara.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.615,
+            "sibling_verbatim": "Arcana?"
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Adabra",
+          "requires_gm": true,
+          "rationale": "Same four-cue exchange as 'Alatra' (cluster 8): Gary gropes for the name, Dave answers 'Barbara.', and the DM continues 'You guys always assumed she needed to be saved.' The referent is Adabra Gwynn, not Brewbarry — Brewbarry is not a 'she' and was not rescued. Sibling emits 'Arcana?', which does not correspond. 'Barbara' occurs exactly once in the whole corpus, so a row is low-risk, but the GM should confirm the referent.",
+          "cluster_id": 10,
+          "cluster_proposed_canonical": "Brewbarry"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "proposed_canonical": "Bardic Inspiration",
+      "confidence": "high",
+      "reason": "edit_distance,edit_distance",
+      "members": [
+        {
+          "token": "Bardik Inspiration",
+          "count": 1,
+          "verbatim": "e is from my thing, and one is from the Bardik Inspiration.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.828,
+            "sibling_verbatim": "One is from my thing and one is from the Varticans version."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "confirm",
+          "proposed_canonical": "Bardic Inspiration",
+          "requires_gm": false,
+          "rationale": "'One is from my thing, and one is from the Bardik Inspiration' — Gary explaining two +1s on a roll, with Dave saying 'add a D4' nearby. Sibling garbles it to 'the Varticans version', so it confirms nothing, but our line is unambiguous. Glossary already carries 'Baric Inspiration' and 'Brace Inspiration'.",
+          "cluster_id": 11,
+          "cluster_proposed_canonical": "Bardic Inspiration"
+        },
+        {
+          "token": "Partic Inspiration",
+          "count": 1,
+          "verbatim": "Partic Inspiration.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.5,
+            "sibling_verbatim": "What is it? Six."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "confirm",
+          "proposed_canonical": "Bardic Inspiration",
+          "requires_gm": false,
+          "rationale": "Standalone cue 'Partic Inspiration.' from Gary, answered immediately by Dave with 'Yeah, add a… add a D4, and if that's not enough, add a D8' — the bard die. Sibling does not cover the span (score 0.5). Same family as the existing 'Baric Inspiration' row.",
+          "cluster_id": 11,
+          "cluster_proposed_canonical": "Bardic Inspiration"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "proposed_canonical": "Harbor authority",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Author",
+          "count": 1,
+          "verbatim": "Should sell holy symbols of Author, I mean… There we go.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.722,
+            "sibling_verbatim": "Should sell holy symbols of the come from the charity."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'Should sell holy symbols of Author, I mean… There we go.' The scene is the party arguing about what to do with the recovered holy symbols of Talos, so a deity name is plausible here — but 'Author' is not a phonetic neighbour of Talos, Lathander or Savras, and the sibling collapses the span into 'Should sell holy symbols of the come from the charity', i.e. it lost the word too. No safe correction; a targeted edit at most, if the GM can hear it.",
+          "cluster_id": 13,
+          "cluster_proposed_canonical": "Harbor authority"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "proposed_canonical": "thomas",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Homas",
+          "count": 1,
+          "verbatim": "Homas?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.667,
+            "sibling_verbatim": "Soma."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Soma",
+          "requires_gm": true,
+          "rationale": "Standalone cue 'Homas?' from Dave. Two cues earlier the DM says 'Soma, Soma's happy to come with you to look at the caves' and Gary answers 'Oh, Soma is? Have a blueberry.' — the topic is Soma. Sibling reads 'Soma.' at the span. FLAGGING THE GATE: 'Homas' vs 'Soma' is an initial-consonant substitution, weaker than the sibling confirmations elsewhere in this chapter, and the cluster's own canonical was the known name 'thomas'. GM should rule.",
+          "cluster_id": 18,
+          "cluster_proposed_canonical": "thomas"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "proposed_canonical": "Gorthok",
+      "confidence": "medium",
+      "reason": "metaphone",
+      "members": [
+        {
+          "token": "Kruta",
+          "count": 1,
+          "verbatim": "Kruta?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.8,
+            "sibling_verbatim": "Pruta?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Prutha",
+          "requires_gm": false,
+          "rationale": "NOT Gorthok. Sibling reads 'Pruta?', which is itself a registered Prutha wrong-form. Decisive corroboration inside our own transcript: 'Gary Young: Krutha is a camp follower.' and 'David Mendenhall: Rufa, he's not hanging out in camp, he must have fight!' — the Kr-/R- family in this session is all Prutha, who appears 9x correctly spelled. NOTE FOR THE ORCHESTRATOR: 'Krutha' and 'Rufa' also occur in this transcript and belong in the same row set, but the scanner did not surface them as clusters.",
+          "cluster_id": 19,
+          "cluster_proposed_canonical": "Gorthok"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "proposed_canonical": "Manse",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Lynn Manse",
+          "count": 1,
+          "verbatim": "Lynn Manse, Falcon's Lodge, and Circle of Thunder.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.736,
+            "sibling_verbatim": "So you guys are at the Woodland Mance, Falcon's Lodge, and Circle of Thunder."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Woodland Manse",
+          "requires_gm": true,
+          "rationale": "Raw cue is 'Gary Young: Lynn Mance, Falcon's Lodge, and Circle of Thunder.' — he is reading the three marked sites off the map fragment. Sibling reads 'So you guys are at the Woodland Mance, Falcon's Lodge, and Circle of Thunder' ('Woodland Mance' is an existing row), and the DM's own read-aloud later says 'if the henge falls, the manse summons in its place'. ROW-FORM CARE NEEDED: the existing 'Mance -> Manse' row fires first and turns the raw 'Lynn Mance' into 'Lynn Manse', so the row has to be written against 'Lynn Manse' (or both forms) to survive ordering.",
+          "cluster_id": 20,
+          "cluster_proposed_canonical": "Manse"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "proposed_canonical": "Neverwinter",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Neverwinterwood",
+          "count": 1,
+          "verbatim": "ou find a torn map fragment showing the Neverwinterwood with three marked sites.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.981,
+            "sibling_verbatim": "You find a torn map fragment showing the Never Winter Wood with three marked sites."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Neverwinter Wood",
+          "requires_gm": true,
+          "rationale": "'You find a torn map fragment showing the Neverwinterwood with three marked sites.' Sibling: 'showing the Never Winter Wood with three marked sites.' Both agree on the Realms location; only the spacing is wrong. The known set has 'Neverwinter' but not 'Neverwinter Wood', so this needs a new canonical AND the row — hence GM.",
+          "cluster_id": 22,
+          "cluster_proposed_canonical": "Neverwinter"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "proposed_canonical": "sridar",
+      "confidence": "high",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "Seidan",
+          "count": 1,
+          "verbatim": "you, Valphine, and says, My, my uncle, Seidan, comes for everyone.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.733,
+            "sibling_verbatim": "Then Pruta then turns to you, Valfine, and says, My uncle, say Don comes for everyone."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "NOT Sridar — this is the highest-value rejection in the chapter. The cue is 'Then, Prutha then turns to you, Valfine, and says, My, my uncle, Seidan, comes for everyone.' notes/npcs/prutha.md records his great-uncle the shaman's one doctrine verbatim: 'The dawn comes for everyone — even those born in shadow.' So the line is 'my uncle SAID, DAWN comes for everyone'. The sibling independently reads 'My uncle, say Don comes for everyone', and the DM's next cues are 'I did not. I do… Don, feel good. Don feel very good' — 'Don' is this transcript's rendering of 'dawn' (the glossary already carries 'Don Bow -> dawn-bow'). There is no name at this span; binding it to the drow artifact collector Sridar would invent a family tie between Sridar and an Eastern Heart orc.",
+          "cluster_id": 26,
+          "cluster_proposed_canonical": "sridar"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "proposed_canonical": "Talosian",
+      "confidence": "high",
+      "reason": "substring",
+      "members": [
+        {
+          "token": "Telos",
+          "count": 1,
+          "verbatim": "The holy symbols of Telos.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.75,
+            "sibling_verbatim": "We will smash the holy symbols of Talos."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Talos",
+          "requires_gm": false,
+          "rationale": "Canonical is Talos, not Talosian. The cue before is the DM's 'you find on the anchorite, clubs, hide armor, and holy symbols of Talos' and ours is Gary repeating 'The holy symbols of Telos.' Sibling: 'We will smash the holy symbols of Talos.' Glossary already has 'Thalos -> Talos' and 'Telosian -> Talosian'; 'Telos' is the missing bare form.",
+          "cluster_id": 28,
+          "cluster_proposed_canonical": "Talosian"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "proposed_canonical": "The Holes",
+      "confidence": "medium",
+      "reason": "edit_distance",
+      "members": [
+        {
+          "token": "The Chosen",
+          "count": 1,
+          "verbatim": "There's another SAG fragment. The Chosen is pleased with the boy from the Easter",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.958,
+            "sibling_verbatim": "There's another sag fragment. The chosen is pleased with the boy from the Eastern clan."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "new_canon",
+          "proposed_canonical": "The Chosen",
+          "requires_gm": true,
+          "rationale": "Not a garble at all — it is DM read-aloud from a recovered note: 'There's another SAG fragment. The Chosen is pleased with the boy from the Eastern Clan. Continue feeding him with his stories. Do not yet tell him about the leash.' Sibling reads it identically. It is a title for whoever is running the Talosian cell and is missing from the known set, which is why it orphaned. Belongs in the known additions, not the glossary.",
+          "cluster_id": 29,
+          "cluster_proposed_canonical": "The Holes"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "proposed_canonical": "Twig Blight",
+      "confidence": "medium",
+      "reason": "metaphone",
+      "members": [
+        {
+          "token": "Twigby Light",
+          "count": 1,
+          "verbatim": "Alright, okay, alright, alright, so, Twigby Light 1.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.819,
+            "sibling_verbatim": "All right. Okay. All right. All right. So twig delight one."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "confirm",
+          "proposed_canonical": "Twig Blight",
+          "requires_gm": false,
+          "rationale": "'Alright, okay, alright, alright, so, Twigby Light 1.' — the DM starting the twig blights' turn; the same fight has 'Twigs 1 and 12', 'Twig3', 'twig 3' throughout. Sibling reads 'so twig delight one', which is garble rather than the canonical, so it adds nothing; our own line is unambiguous. Glossary already has 'Twigblite -> Twig Blight'.",
+          "cluster_id": 31,
+          "cluster_proposed_canonical": "Twig Blight"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Thor",
+          "count": 1,
+          "verbatim": "Was that Thor a threat to us?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.929,
+            "sibling_verbatim": "Was that boar a threat to us?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Boar",
+          "requires_gm": true,
+          "rationale": "'Was that Thor a threat to us?' three cues after the DM says 'you now have a radiated pork meat' and Stephane says 'Perfect for barbecue'. Sibling: 'Was that boar a threat to us?' The glossary already carries 'Boris -> Boar' and 'The Boer -> The Boar'. GM check requested because 'Thor' is a word table-talk could use straight, and this campaign has Gorthok the Thunder Boar in play — the row should be scoped carefully.",
+          "cluster_id": 38,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Animate Dead",
+          "count": 3,
+          "verbatim": "I am tempted to memorize the Animate Dead spell.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 1.0,
+            "sibling_verbatim": "I am tempted to memorize the animate dead spell."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "new_canon",
+          "proposed_canonical": "Animate Dead",
+          "requires_gm": true,
+          "rationale": "Correctly spelled 5e spell, 3 occurrences, both transcripts agree: 'I am tempted to memorize the Animate Dead spell.' / 'I've decided against Animate Dead.' / 'you would recognize that in this Animate Dead.' It orphaned only because the known set lacks it. Wave 2 added Goodberry, Mold Earth, Dominate Person etc. the same way — this is the same class of addition, no correction row.",
+          "cluster_id": 49,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Cleve",
+          "count": 2,
+          "verbatim": "Bonus action. Cleve will let it… let you do as a free actio",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.755,
+            "sibling_verbatim": "Cleave will let you do as a free action."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Cleave",
+          "requires_gm": true,
+          "rationale": "'Bonus action. Cleve will let it… let you do as a free action.' / 'let's do Cleve, then.' — and Stephane spells it correctly two cues later in our own transcript: 'Yeah, but Cleave is with greataxe and halberd, and I just hit with my hand axe.' Sibling also reads 'Cleave'. This is the 2024 weapon mastery. Needs the canonical added as well as the row, hence GM.",
+          "cluster_id": 52,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Australia",
+          "count": 2,
+          "verbatim": "connecting with a client in, Australia.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.914,
+            "sibling_verbatim": "I was connecting with a client in Australia."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "Pre-session small talk about work: 'connecting with a client in, Australia.' / 'Australia… oh, for France, it's difficult.' Sibling identical. Real-world chatter, no rule. Not auto-dismissed only because count==2.",
+          "cluster_id": 53,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Elemental Cleaver",
+          "count": 2,
+          "verbatim": "move, within range for me to throw my… Elemental Cleaver.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.85,
+            "sibling_verbatim": "I'm going to move within the range for me to throw my elemental cleaver."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "new_canon",
+          "proposed_canonical": "Elemental Cleaver",
+          "requires_gm": true,
+          "rationale": "Brewbarry's thrown weapon: 'I'm gonna move, within range for me to throw my… Elemental Cleaver.' and later 'Wow, this Elemental Cleaver is pretty good.' Both transcripts agree on the spelling, so there is nothing to correct — it is simply missing from the known set. (It also appears lowercase in the target, which is irrelevant for a known-set addition but would matter if anyone tried to make it a glossary row.)",
+          "cluster_id": 56,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Gone",
+          "count": 2,
+          "verbatim": "There you go. Gone.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.971,
+            "sibling_verbatim": "There you go. Gone."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "ignore",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "'There you go. Gone.' / 'Gone.' — two players confirming a killed twig blight. Sibling identical; also lowercase elsewhere in the target. count==2 so not auto-dismissed, but no rule.",
+          "cluster_id": 60,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 66,
+      "proposed_canonical": null,
+      "confidence": "medium",
+      "reason": "cross-unknown",
+      "members": [
+        {
+          "token": "Vicious Markery",
+          "count": 1,
+          "verbatim": "Vicious Markery, how much time, what is that? What do y",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.87,
+            "sibling_verbatim": "So vicious mockery. How much time? What is that? What do you do?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Vicious Mockery",
+          "requires_gm": false,
+          "rationale": "'Vicious Markery, how much time, what is that? What do you do?' answered by Dave with 'DC15 Wisdom Save' and later 'my insult has no effect' — the bard cantrip. Sibling reads 'So vicious mockery. How much time?'",
+          "cluster_id": 66,
+          "cluster_proposed_canonical": null
+        },
+        {
+          "token": "Vicious Mercury",
+          "count": 1,
+          "verbatim": "s? Yes. Well, I mean, after you did the Vicious Mercury, it was.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.918,
+            "sibling_verbatim": "Yes. Well, I mean, after you did the vicious mockery, it was."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Vicious Mockery",
+          "requires_gm": false,
+          "rationale": "'Well, I mean, after you did the Vicious Mercury, it was.' Sibling: 'after you did the vicious mockery, it was.' Same spell, second garble. The spell is spelled correctly elsewhere in the corpus (12 hits), so the canonical is settled.",
+          "cluster_id": 66,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 67,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Ad",
+          "count": 1,
+          "verbatim": "It's Mr. Ad.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.636,
+            "sibling_verbatim": "It's 10, 11."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "The line is 'It's Mr. Ad.' — Dave's punchline to the DM's 'I'll have you note that Bodie is a talking horse.' It is Mister Ed, the television talking horse; a real-world/table joke, the same class as the glossary's 'Top Billing' and 'Bob Saget' rows. Deliberately declining a row: the token is the two-letter 'Ad', and apply_replacements matches case-insensitively, so any row on it would be corpus-poison. Fix as a targeted edit ('Mr. Ad' -> 'Mr. Ed') if the GM wants it fixed at all.",
+          "cluster_id": 67,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 70,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "And Higg",
+          "count": 1,
+          "verbatim": "Alright, comes this way… And Higg.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.772,
+            "sibling_verbatim": "All right. Comes this way."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "'Alright, comes this way… And Higg.' immediately before 'Altune 12 just attacks… Soma' — the DM moving a numbered twig blight. The sibling stops at 'All right. Comes this way.' and never covers the span, so there is no evidence either way. Unrecoverable ASR mush; no rule.",
+          "cluster_id": 70,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 71,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "And Kruti",
+          "count": 1,
+          "verbatim": "And Kruti…",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.737,
+            "sibling_verbatim": "And Korite."
+          },
+          "lowercase_in_target": false,
+          "kind": "different_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Prutha",
+          "requires_gm": true,
+          "rationale": "'And Kruti…' immediately before Dave's 'So, how much damage did you do with Spirit Guardians?' and the DM's 'it's gonna auto-fail, so he's down to 5'. Same Kr- family as 'Kruta' and 'Krutha' in this transcript, all of which are Prutha (see cluster 19). COMPETING READING: the sibling here reads 'And Korite.', which would be 'anchorite', a different name — so by the brief's rule the sibling proves nothing and the GM must rule. The row should be the single token `Kruti -> Prutha`, not the run.",
+          "cluster_id": 71,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 72,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Animate",
+          "count": 1,
+          "verbatim": "Animate that?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.583,
+            "sibling_verbatim": "What is that?"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "'Animate that?' — Gary mid-conversation about the Animate Dead spell (the full name is spelled correctly 3x on nearby cues). A bare word the canonical already contains: a row would rewrite 'Animate Dead' into 'Animate Dead Dead'. Same failure as Toblin -> Toblen Stonehill. No rule; the known-set addition in cluster 49 covers the vocabulary.",
+          "cluster_id": 72,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 73,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Assuming",
+          "count": 1,
+          "verbatim": "Alright, so… 15… Assuming.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.65,
+            "sibling_verbatim": "All right. So 15."
+          },
+          "lowercase_in_target": true,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "'Alright, so… 15… Assuming.' — Gary reading a to-hit total. Sibling truncates to 'All right. So 15.' and never covers the span. Lowercase in target. Ordinary word, no rule.",
+          "cluster_id": 73,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Barbarians",
+          "count": 1,
+          "verbatim": "tween the Order of the Gauntlet and the Barbarians and the Lord's Alliance, where, you kno",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.519,
+            "sibling_verbatim": "Well, there was a whole awkward war between the Order of the Gauntlet and the Barbarians and the Lords Alliance, where, you know, after the tragic events involving a certain group of adventurers who stole Sir Karen said it was all a big misunderstanding."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'there was a whole awkward, like, war between the Order of the Gauntlet and the Barbarians and the Lord's Alliance' — DM backstory for the War of the Giants. Sibling reproduces it identically, so nothing is garbled and no correction exists. Surfacing rather than dismissing because if the barbarian tribes are a named faction in this campaign the GM may want 'Barbarians' in the known set.",
+          "cluster_id": 74,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 78,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Conflict-free",
+          "count": 1,
+          "verbatim": ", we need to have a conversation about… Conflict-free goal.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.924,
+            "sibling_verbatim": "Prutha, we need to have a conversation about conflict-free goal."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'Aretha, we need to have a conversation about… Conflict-free goal.' Sibling identical. 'Conflict-free' itself is correct — the actual error on this line is 'goal' for 'gold' (the glossary already carries 'Oola -> gold'), which is a targeted edit, not a row, because 'goal' is a real word. Flagging it here so the recurring 'conflict-free gold' gag is not left broken; the speaker-name garble on the same line is handled in cluster 8.",
+          "cluster_id": 78,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 84,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Don Bonie",
+          "count": 1,
+          "verbatim": "Don Bonie.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.667,
+            "sibling_verbatim": "Gone. Gone."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Boney",
+          "requires_gm": true,
+          "rationale": "Run of DM cues: 'Boney.' / 'Voney attacks Twig1.' / 'Don Bonie.' / 'It's the twig.' / 'Does 8 points of damage and kills the twig.' The referent is unmistakably Boney. Sibling reads 'Gone. Gone.' and misaligns. THE ROW MUST BE `Bonie -> Boney` (single token) — 'Don' is separate noise (this transcript renders 'dawn' as 'Don' repeatedly, see cluster 26), and rewriting the whole run would bake the noise in.",
+          "cluster_id": 84,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Eastern Clan",
+          "count": 1,
+          "verbatim": "Chosen is pleased with the boy from the Eastern Clan. Continue feeding him with his stories.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.951,
+            "sibling_verbatim": "The chosen is pleased with the boy from the Eastern clan. Continue feeding him with the stories."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "new_canon",
+          "proposed_canonical": "Eastern Clan",
+          "requires_gm": true,
+          "rationale": "DM read-aloud, reproduced identically by the sibling: 'The Chosen is pleased with the boy from the Eastern Clan.' Nothing is garbled. GM decision: notes/npcs/prutha.md calls the tribe the 'Eastern Heart', so the GM may want 'Eastern Clan' recorded as an in-fiction variant rather than a second canonical.",
+          "cluster_id": 85,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 86,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Finding Cliff",
+          "count": 1,
+          "verbatim": "Finding Cliff.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.519,
+            "sibling_verbatim": "A folding. Nice."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "binding glyph",
+          "requires_gm": true,
+          "rationale": "The DM's cue two before is 'Yes, with a binding glyph' and the cue before is 'It's a… It's a binding glyph called a leash.' Gary then repeats it back as 'Finding Cliff.' Sibling loses the span entirely ('A folding. Nice.'). Same class as the existing non-name rows ('understained -> restrained', 'Pushions -> Potions'). 'Leash' and the binding glyph are load-bearing for this chapter's Talos plot, hence GM.",
+          "cluster_id": 86,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 88,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Grind",
+          "count": 1,
+          "verbatim": "Where is it? Sword goes to Grind.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.8,
+            "sibling_verbatim": "Where is it? Sword ghost."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'Where is it? Sword goes to Grind.' — the DM hunting through his own documents before digressing about the Storm King's Thunder NPC count. The sibling reads 'Where is it? Sword ghost.', and 'Sword Ghost' is an existing glossary row for Sword Coast, so a Sword Coast mention is plausible — but 'goes to Grind' is not recoverable into it and this is out-of-fiction tool talk. Targeted edit at most.",
+          "cluster_id": 88,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 89,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Half",
+          "count": 1,
+          "verbatim": "And I believe there were two… Half or Spellcasters.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.766,
+            "sibling_verbatim": "And I believe there were two Half Orc spellcasters, two lightning bolt casters."
+          },
+          "lowercase_in_target": true,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "'And I believe there were two… Half or Spellcasters.' Sibling: 'two Half Orc spellcasters, two lightning bolt casters.' The intended phrase is 'half-orc spellcasters'. No row: 'Half' is a bare word, appears lowercase in the target, and is already contained in the existing canonical 'half-orc anchorite'. Targeted edit territory.",
+          "cluster_id": 89,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 90,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Heather",
+          "count": 1,
+          "verbatim": "Morning, Heather.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.611,
+            "sibling_verbatim": "Good morning, Stefan."
+          },
+          "lowercase_in_target": false,
+          "kind": "different_name",
+          "recommendation": "escalate",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'Morning, Heather.' from Stephane during pre-session chat about LLMs and Zoom. The sibling reads 'Good morning, Stefan.' — a DIFFERENT name (and the speaker's own), so by the brief's rule it proves nothing. I cannot tell whether a real person named Heather was greeted, whether it is a garbled greeting, or whether it is a fifth participant. Only the GM knows who was in the room.",
+          "cluster_id": 90,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 91,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Holyish",
+          "count": 1,
+          "verbatim": "Holyish.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.5,
+            "sibling_verbatim": "Is he?"
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "Dave's one-word reaction to the read-aloud fragment about the leash: 'Holyish.' Sibling reads 'Is he?' and does not cover the span. Table exclamation, no name.",
+          "cluster_id": 91,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 94,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "It's Mr",
+          "count": 1,
+          "verbatim": "It's Mr. Ad.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.636,
+            "sibling_verbatim": "It's 10, 11."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "Same cue as cluster 67 ('It's Mr. Ad.'), split by the scanner into a second capitalised run. 'Mr' is not a name; the finding and the recommendation live in cluster 67.",
+          "cluster_id": 94,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 103,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Oma",
+          "count": 1,
+          "verbatim": "Go down to 16… Oma?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.889,
+            "sibling_verbatim": "So down to 16. Soma?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Soma",
+          "requires_gm": true,
+          "rationale": "'Go down to 16… Oma?' answered by the DM on the very next cue with 'Oh, Soma. Soma's like, I can't…'. Sibling: 'So down to 16. Soma?' SHORT-TOKEN CAUTION per the brief: 'Oma' is three letters and apply_replacements is case-insensitive, so the GM should confirm it never appears as a fragment elsewhere before this becomes a corpus-wide row.",
+          "cluster_id": 103,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 106,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Patrick's Radiant Damage",
+          "count": 1,
+          "verbatim": "Nice. 44… no, that's 2D4, that's not Patrick's Radiant Damage.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.975,
+            "sibling_verbatim": "Nice. 44. No, that's 2d4. That's not Patrick's Radiant damage."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "escalate",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'Nice. 44… no, that's 2D4, that's not Patrick's Radiant Damage.' The sibling reproduces the same token ('That's not Patrick's Radiant damage'), which means both transcribers heard the same thing rather than that the name is right — it is not independent evidence. No Patrick exists in the known set or the corpus context I can see, and I cannot recover what was actually said. GM recognition required.",
+          "cluster_id": 106,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 107,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Pawn",
+          "count": 1,
+          "verbatim": "Pawn did not shoot first, you're saying?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.961,
+            "sibling_verbatim": "Han did not shoot first, you're saying."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'Pawn did not shoot first, you're saying?' — Gary, right after saying 'shoot first'. Sibling: 'Han did not shoot first, you're saying.' It is the Han Solo joke, table chatter. Declining a row on purpose: 'pawn' is a common English word and apply_replacements is case-insensitive, so 'Pawn -> Han' would be corpus-poison. Targeted edit only if the GM cares.",
+          "cluster_id": 107,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 109,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Processing",
+          "count": 1,
+          "verbatim": "Processing.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.588,
+            "sibling_verbatim": "Mocking."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "ignore",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "Standalone DM cue 'Processing.' between 'Bony has a zero, so you can roll Boney' and 'What'd you say?'. Sibling reads 'Mocking.' and does not align. No name, no recoverable correction.",
+          "cluster_id": 109,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 114,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Sipes",
+          "count": 1,
+          "verbatim": "No, they're not good with the wisdom Sipes.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.952,
+            "sibling_verbatim": "No, they're not good with the wisdom saves."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "saves",
+          "requires_gm": true,
+          "rationale": "'No, they're not good with the wisdom Sipes.' Sibling: 'they're not good with the wisdom saves.' — and the DM's surrounding cues are all about saving throws ('blows their saving throw', 'not very good with the whole saving throws'). Mechanical vocabulary rather than a name, but the glossary already carries this class ('understained -> restrained', 'Halbert -> halberd'), and 'Sipes' occurs once in the whole corpus so the row is safe.",
+          "cluster_id": 114,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Spirit Granites",
+          "count": 1,
+          "verbatim": "ink of any forewarned, right? Okay, and Spirit Granites?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.645,
+            "sibling_verbatim": "Yeah, I can't make it any further to the right. Okay. And spirit grades."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Spirit Guardians",
+          "requires_gm": false,
+          "rationale": "'Yeah, I can't think of any forewarned, right? Okay, and Spirit Granites?' followed by 'What's the range on that? 20 feet?' / '15 foot radius' — the Spirit Guardians radius. Sibling garbles to 'spirit grades' so it adds nothing, but the glossary already carries 'Spirit Gardens' and 'Spirit Guardian' for exactly this drift.",
+          "cluster_id": 117,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 120,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Storm Giants",
+          "count": 1,
+          "verbatim": "literally had 270 different NPCs in the Storm Giants adventure.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.832,
+            "sibling_verbatim": "And I discovered that we literally had 270 different NPCs in the Storm Giants Adventure."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "'I discovered that we literally had 270 different NPCs in the Storm Giants adventure.' — the DM talking out-of-fiction about the previous campaign (modified Storm King's Thunder). Sibling identical; nothing garbled, nothing to correct.",
+          "cluster_id": 120,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 122,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Thunder Power",
+          "count": 1,
+          "verbatim": "than the Thunder Power.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.605,
+            "sibling_verbatim": "And Lothander's power."
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "escalate",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "Gary, arguing Valphine's theology: 'Creating, you know, undead or just weak? / than the Thunder Power.' The sibling reads 'And Lothander's power.', and 'Lothander' is a registered Lathander wrong-form — so the candidate reading is 'than the Lathander power'. I am NOT proposing it: 'Thunder' is a loaded word in this exact chapter (Circle of Thunder, Gorthok the Thunder Boar, Talos the storm god), the phrase is a fragment, and a wrong row here would rewrite storm vocabulary into a deity name. GM must rule.",
+          "cluster_id": 122,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 123,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Tomo",
+          "count": 1,
+          "verbatim": "Tomo.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.571,
+            "sibling_verbatim": "Ooh."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Soma",
+          "requires_gm": true,
+          "rationale": "Standalone cue 'Tomo.' answered immediately by the DM: 'Oh, Soma. Oh, Soma does her thing.' Sibling reads 'Ooh.' and does not cover the span, so the confirmation is from our own text. Same pattern as 'Oma' (cluster 103).",
+          "cluster_id": 123,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 124,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Tony",
+          "count": 1,
+          "verbatim": "Tony can take a chill. Prutha?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.931,
+            "sibling_verbatim": "Boney can take a chill. Prutha?"
+          },
+          "lowercase_in_target": false,
+          "kind": "campaign_correct_name",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Boney",
+          "requires_gm": true,
+          "rationale": "'Down to 29… Boney? Boney, you could smoke them if you got them.' / DM: 'What'd you say? Boney?' / 'Tony can take a chill. Prutha?' / DM: 'Broni says I can't fit through any of these open.' Sibling: 'Boney can take a chill. Prutha?' The glossary already carries 'Barney -> Boney'. GM check requested because 'Tony' is a common real name and the row would be corpus-wide.",
+          "cluster_id": 124,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Twin",
+          "count": 1,
+          "verbatim": "Twin, 3… Well, twig 3…",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.667,
+            "sibling_verbatim": "Twig three. Well, twig three."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": false,
+          "rationale": "'Twin, 3… Well, twig 3…' — the DM says the wrong word and corrects himself in the same cue. Per the wave-2 ruling on self-corrections (ch17 'No, not Falcon Hunter, Falcon the Hunter'), this stays as spoken. No rule.",
+          "cluster_id": 126,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 130,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Val Booker",
+          "count": 1,
+          "verbatim": "seem to be anything going on. She hears Val Booker didn't do his thing, she's kind of assu",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.629,
+            "sibling_verbatim": "But then she's like, no, you know, there doesn't seem to be anything going on. She hears Valfu Bukrit didn't do his thing."
+          },
+          "lowercase_in_target": false,
+          "kind": "inconclusive",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "Vukradin",
+          "requires_gm": true,
+          "rationale": "'She hears Val Booker didn't do his thing, she's kind of assuming that it's, you know. / Group didn't do it, and Grouker didn't nothing.' The corpus shows this DM's Vukradin garbles run through Booker: 'Booker didn't they decide that the 16…', 'So, Booker Din grabs a guest', 'Valfin… Bookerdin asks him'. Sibling reads 'She hears Valfu Bukrit didn't do his thing' — garbled, confirms nothing. TWO CAUTIONS: (1) the wave-1 brief records 'Val Booker' as possibly a distinct person, so the GM must rule; (2) even if confirmed, the row must be the full run `Val Booker -> Vukradin` — a bare `Booker -> Vukradin` would corrupt 'Booker Din' and 'Bookerdin' elsewhere in the corpus.",
+          "cluster_id": 130,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 133,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Wisdom Siving Throws",
+          "count": 1,
+          "verbatim": "Is it Wisdom Siving Throws?",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.962,
+            "sibling_verbatim": "Is it wisdom saving throws?"
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "different_canonical",
+          "proposed_canonical": "wisdom saving throws",
+          "requires_gm": true,
+          "rationale": "'Is it Wisdom Siving Throws?' answered by the DM with 'No dexterity.' Sibling: 'Is it wisdom saving throws?' Mechanical vocabulary, same class as cluster 114. Proposing the full run rather than a bare `Siving -> saving` row so the capitalisation is fixed in one pass and nothing shorter leaks into ordinary prose.",
+          "cluster_id": 133,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "proposed_canonical": null,
+      "confidence": "low",
+      "reason": "singleton",
+      "members": [
+        {
+          "token": "Wishport Caves",
+          "count": 1,
+          "verbatim": "Wishport Caves.",
+          "sibling_evidence": {
+            "kind": null,
+            "score": 0.562,
+            "sibling_verbatim": "There's more caves."
+          },
+          "lowercase_in_target": false,
+          "kind": "ordinary_words",
+          "recommendation": "no_rule",
+          "proposed_canonical": null,
+          "requires_gm": true,
+          "rationale": "'Wishport Caves.' / Stephane: 'Yes.' / Gary: 'tapes.' during the argument about whether to search the remaining caves. Sibling reads 'There's more caves.' — plain prose, no name. It LOOKS like a place name, which is why I am surfacing rather than dismissing, but no such location exists in the known set and I cannot recover what was said.",
+          "cluster_id": 134,
+          "cluster_proposed_canonical": null
+        }
+      ]
+    }
+  ],
+  "auto_dismissed": [
+    {
+      "token": "Corpse",
+      "count": 1,
+      "verbatim": "Corpse. Dear corpse.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.919,
+        "sibling_verbatim": "Corpse. Deer corpse."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Corpse. Dear corpse.' — the DM clarifying that the thing in the henge is a deer corpse (next cue: 'Deer as in deer, not as in ear, right? The deer, the animal with antlers?'). Sibling reads 'Corpse. Deer corpse.' Plain English, no name; also lowercase in target, so it could never be a row. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 16,
+      "cluster_proposed_canonical": "Korboz"
+    },
+    {
+      "token": "Mean",
+      "count": 1,
+      "verbatim": "Mean 4, okay.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.72,
+        "sibling_verbatim": "Yeah. Oh, okay."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Mean 4, okay.' inside a run of dice/grid numbers ('3 and 12', '3 and 4. There we go.'). Sibling shows plain prose. Lowercase in target as well. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 21,
+      "cluster_proposed_canonical": "mine"
+    },
+    {
+      "token": "Round",
+      "count": 1,
+      "verbatim": "Round down. You round down on damage.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.8,
+        "sibling_verbatim": "You round down on damage."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Round down. You round down on damage.' — a rules answer to Stephane's 'Can we round up or down on the damage?'. Lowercase in the same line. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 25,
+      "cluster_proposed_canonical": "Tervaround"
+    },
+    {
+      "token": "The God",
+      "count": 1,
+      "verbatim": "lights, The God of Destruction anyway, so it's destroye",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.764,
+        "sibling_verbatim": "Well, it's a gun of destruction, anyway. It's destroying."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'lights, The God of Destruction anyway, so it's destroyed.' — Stephane describing Talos while the party smashes his holy symbols. Sibling shows plain prose ('it's a gun of destruction, anyway'), no name. Nothing resembling 'The Hold'. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 30,
+      "cluster_proposed_canonical": "The Hold"
+    },
+    {
+      "token": "Victory",
+      "count": 1,
+      "verbatim": "Here's a Victory quote from Brewbarry.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.904,
+        "sibling_verbatim": "Here's a Victory quote from Bouberry."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Here's a Victory quote from Blueberry.' — Stephane doing a Brewbarry one-liner over the deer corpse. Sibling reads 'Here's a Victory quote from Bouberry.', i.e. the same ordinary word; the only garbled name on the line ('Blueberry') is already a glossary row. 'Facktore' is a metaphone accident. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 32,
+      "cluster_proposed_canonical": "Facktoré"
+    },
+    {
+      "token": "Walker",
+      "count": 1,
+      "verbatim": "Okay, Walker then.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.688,
+        "sibling_verbatim": "Okay, over here."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Okay, Walker then.' — DM housekeeping between 'I have too many browsers open' and 'Alright, initiative tracker.' Sibling shows plain prose ('Okay, over here.'). No creature or NPC by that name is in the fight (twig blights, anchorites, boars). count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 33,
+      "cluster_proposed_canonical": "Ilyykur"
+    },
+    {
+      "token": "Curious",
+      "count": 1,
+      "verbatim": "Curious.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.583,
+        "sibling_verbatim": "Yeah, I'm curious."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "Answer to the DM's 'are you asking in character, or you're just asking me because you're curious?' — Gary replies 'Curious.' Sibling: 'Yeah, I'm curious.' Lowercase in target. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 64,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Hugh",
+      "count": 1,
+      "verbatim": "Well, not even with that. I get… with Hugh, I get a bonus action when I kill with",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.838,
+        "sibling_verbatim": "Well, not even with that. With you, I get a bonus action when I kill with a meta weapon."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Well, not even with that. I get… with Hugh, I get a bonus action when I kill with a mele weapon.' Sibling: 'Well, not even with that. With you, I get a bonus action…' — it is the word 'you'. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 65,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Bend",
+      "count": 1,
+      "verbatim": "Bend and my friends, but…",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.58,
+        "sibling_verbatim": "Again, I won't abandon my friends, but Soma's?"
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Bend and my friends, but…' Sibling: 'again, I won't abandon my friends' — it is 'abandon'. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 75,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Debt",
+      "count": 1,
+      "verbatim": "Debt.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.571,
+        "sibling_verbatim": "Dex."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Good job.' / 'Debt.' after 'we only needed 10 damage. He's dead.' — it is 'Dead.' Sibling shows a plain word ('Dex.'), no name. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 80,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Deers",
+      "count": 1,
+      "verbatim": "Deers. Deer as in deer, not as in ear, right?",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.966,
+        "sibling_verbatim": "Deers. Deer as in deer, not as an ear, right?"
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Deers. Deer as in deer, not as in ear, right? The deer, the animal with antlers?' Sibling identical. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 81,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Destruction",
+      "count": 1,
+      "verbatim": "lights, The God of Destruction anyway, so it's destroyed.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.757,
+        "sibling_verbatim": "Well, it's a gun of destruction, anyway. It's destroying."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "Same cue as cluster 30: 'lights, The God of Destruction anyway, so it's destroyed.' Sibling plain prose. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 82,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Foot",
+      "count": 1,
+      "verbatim": "Foot.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.571,
+        "sibling_verbatim": "Ooh."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "Standalone 'Foot.' between two religion-check results; sibling shows a plain interjection ('Ooh.'). Lowercase in target. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 87,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "I'm Yaz",
+      "count": 1,
+      "verbatim": "Well, I'm Yaz, but I have to know how much damage it",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.76,
+        "sibling_verbatim": "Well, yes, but I have to know how much damage it actually does, right?"
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Well, I'm Yaz, but I have to know how much damage it actually does, right?' Sibling: 'Well, yes, but I have to know how much damage it actually does, right?' It is 'yes'. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 93,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Miller",
+      "count": 1,
+      "verbatim": "You know, it's Miller time.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.912,
+        "sibling_verbatim": "I'm, you know, it's Miller time."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'You know, it's Miller time.' — the beer idiom, Dave declaring the fight over. Sibling identical. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 98,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Now I've",
+      "count": 1,
+      "verbatim": "Here… Now I've used 20 feet of movement.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.917,
+        "sibling_verbatim": "Now I've used 20 feet of movement."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Here… Now I've used 20 feet of movement.' Sibling identical. Sentence-initial capitalisation only. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 101,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Sweat",
+      "count": 1,
+      "verbatim": "Sweat.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.667,
+        "sibling_verbatim": "What?"
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "Standalone DM cue 'Sweat.' mid-attack-roll; sibling reads 'What?'. No name. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 121,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Ultimate",
+      "count": 1,
+      "verbatim": "Did anyone play Ultimate 7?",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.906,
+        "sibling_verbatim": "Does anyone play Ultimate 7?"
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Did anyone play Ultimate 7?' — Gary reaching for the video game Ultima VII during a digression about museums and swords. Sibling identical. Real-world chatter, no campaign name. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 127,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Uncle Wright",
+      "count": 1,
+      "verbatim": "Uncle Wright.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.692,
+        "sibling_verbatim": "Nice. All right."
+      },
+      "lowercase_in_target": false,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'Uncle Wright.' during initiative-tracker setup, between 'Alright, okay, and correct.' and 'So you're in that creative tone.' Sibling reads 'Nice. All right.' — it is 'alright'. Unrelated to the 'my uncle' line in cluster 26, which is 60 minutes away and in fiction. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 128,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "Undead",
+      "count": 1,
+      "verbatim": "mean, you know, just, just, just, like, Undead, like, her, like, her… you know, lots o",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.743,
+        "sibling_verbatim": "I mean, you know, just like undead, like her, like her."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'just, just, just, like, Undead, like, her, like, her…' — the DM mid-sentence about undead; sibling shows the same word lowercase, and it is lowercase in our target too. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 129,
+      "cluster_proposed_canonical": null
+    },
+    {
+      "token": "entrance",
+      "count": 1,
+      "verbatim": "Yeah, right, so these are entrance… these are essentially entrances into c",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.87,
+        "sibling_verbatim": "So these are entrance. These are essentially entrances into caves."
+      },
+      "lowercase_in_target": true,
+      "kind": "ordinary_words",
+      "recommendation": "ignore",
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "'so these are entrance… these are essentially entrances into caves.' Sibling identical. Lowercase, ordinary noun. count==1 + ordinary_words -> auto-dismissed.",
+      "cluster_id": 135,
+      "cluster_proposed_canonical": null
+    }
+  ],
+  "false_residuals_suppressed": [
+    {
+      "token": "And Valphine",
+      "count": 1,
+      "verbatim": "And Valphine.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.783,
+        "sibling_verbatim": "And Balfine."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. Raw cue is 'David Mendenhall: And Belfine.'; 'Belfine' is an existing glossary row, so the post-apply text already reads the correct 'Valphine'. The scanner flagged the capitalised run 'And Valphine' because it cannot split it.",
+      "cluster_id": 3,
+      "cluster_proposed_canonical": "Valphine"
+    },
+    {
+      "token": "At Valphine",
+      "count": 1,
+      "verbatim": "At Valphine takes 31.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.714,
+        "sibling_verbatim": "Yeah, Balfina takes 31."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. Raw cue is 'Kostadis Roussos: At Belfina takes 31.' — 'Belfina' is an existing glossary row, so the name is already correct after apply. 'At' is the cue's leading word, not part of a name.",
+      "cluster_id": 3,
+      "cluster_proposed_canonical": "Valphine"
+    },
+    {
+      "token": "Valphine Cares",
+      "count": 1,
+      "verbatim": "Valphine Cares. Okay.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.842,
+        "sibling_verbatim": "Valfina cares. Okay."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. Raw cue is 'Gary Young: Alfina Cares. Okay.' — 'Alfina' is an existing row, so the name is already correct post-apply; 'Cares' is just the transcriber capitalising the verb 'cares' mid-line.",
+      "cluster_id": 3,
+      "cluster_proposed_canonical": "Valphine"
+    },
+    {
+      "token": "Whereas Valphine",
+      "count": 1,
+      "verbatim": "Whereas Valphine's charity is clearly valid, and, like, no",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.637,
+        "sibling_verbatim": "Whereas Balfina's charity is clearly valid and like no issues there and like definitely a real charity."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. Raw cue is 'Whereas Balfina's charity is clearly valid…' — 'Balfina' is an existing row and is already corrected; the run only survived because of the leading capitalised 'Whereas'.",
+      "cluster_id": 3,
+      "cluster_proposed_canonical": "Valphine"
+    },
+    {
+      "token": "Frozen Anchorite",
+      "count": 1,
+      "verbatim": "Boney, can you go beat up, Frozen Anchorite?",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.988,
+        "sibling_verbatim": "Boney, can you go beat up Frozen Anchorite?"
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. 'Boney, can you go beat up, Frozen Anchorite?' — 'Anchorite' is already correct; 'Frozen' is a descriptor (the next cue is 'He can rush up to the frozen egg'), not part of a proper name. Nothing to correct.",
+      "cluster_id": 4,
+      "cluster_proposed_canonical": "Anchorite"
+    },
+    {
+      "token": "On Anchorite",
+      "count": 1,
+      "verbatim": "I'm a… On Anchorite 2, alright, down to 46.",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.804,
+        "sibling_verbatim": "Five on the on anchorite two. All right, down to 46."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. 'I'm a… On Anchorite 2, alright, down to 46.' — 'Anchorite' is already spelled correctly; the run is 'On' + a correct name plus a target number.",
+      "cluster_id": 4,
+      "cluster_proposed_canonical": "Anchorite"
+    },
+    {
+      "token": "Does Vukradin",
+      "count": 1,
+      "verbatim": "Does Vukradin see musicians and think to himself, mus",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.496,
+        "sibling_verbatim": "You did propose the musical instrument, and he did say yes to it."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. Raw cue is 'Does McCraden see musicians and think to himself, musical performance…' — 'McCraden' is an existing glossary row, so the name is already correct post-apply.",
+      "cluster_id": 5,
+      "cluster_proposed_canonical": "Vukradin"
+    },
+    {
+      "token": "And Lathander",
+      "count": 1,
+      "verbatim": "And Lathander's a good guy, like, I don't have any prob",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.768,
+        "sibling_verbatim": "And Lothander's a good guy. Like, I don't have any problems with Lathander, you know?"
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. 'And Lathander's a good guy, like, I don't have any problems with Lathander' — already correct in the raw transcript; only the sentence-initial 'And' made it a capitalised run.",
+      "cluster_id": 9,
+      "cluster_proposed_canonical": "Ander"
+    },
+    {
+      "token": "The Brewbarry",
+      "count": 1,
+      "verbatim": "The Brewbarry now does not have a direct line to the",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.855,
+        "sibling_verbatim": "Brewberry now does not have a direct line to the anchorite."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. Raw cue is 'The brewery now does not have a direct line to the anchorite.' — 'Brewery' is an existing glossary row, so the name is already correct post-apply.",
+      "cluster_id": 10,
+      "cluster_proposed_canonical": "Brewbarry"
+    },
+    {
+      "token": "And Spirit Guardians",
+      "count": 1,
+      "verbatim": "And Spirit Guardians for the…",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.903,
+        "sibling_verbatim": "And Spirit Guardians for the event."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. 'And Spirit Guardians for the…' — the spell name is already correct; only the sentence-initial 'And' extended the capitalised run.",
+      "cluster_id": 12,
+      "cluster_proposed_canonical": "Spirit Guardians"
+    },
+    {
+      "token": "Talos Gift Shop",
+      "count": 1,
+      "verbatim": "Open a Talos Gift Shop?",
+      "sibling_evidence": {
+        "kind": null,
+        "score": 0.769,
+        "sibling_verbatim": "Okay, so put a Talos gift shop."
+      },
+      "lowercase_in_target": false,
+      "kind": null,
+      "recommendation": null,
+      "proposed_canonical": null,
+      "requires_gm": false,
+      "rationale": "False residual. 'Open a Talos Gift Shop?' — Talos is already spelled correctly; the run is a joke noun phrase, not a name needing correction.",
+      "cluster_id": 27,
+      "cluster_proposed_canonical": "Talos"
+    }
+  ],
+  "agent_blocked_on": [],
+  "agent_notes": [
+    "Scanner blind spot worth a corpus check: this transcript also contains 'Krutha is a camp follower' (Gary) and 'Rufa, he's not hanging out in camp' (Dave), both Prutha, but neither surfaced as a cluster. If 'Kruta'/'Kruti' -> Prutha is approved, 'Krutha' and 'Rufa' belong in the same row.",
+    "Chapter 41's Talos plot vocabulary that is correct-but-unknown and therefore keeps orphaning: 'The Chosen', 'Eastern Clan', 'Neverwinter Wood', plus the mechanical 'Animate Dead', 'Cleave', 'Vicious Mockery', 'Elemental Cleaver'. Adding these to the known set should shrink any future rescan of this chapter to near zero.",
+    "Three clusters proposed a canonical that the evidence actively contradicts and that would have invented canon: sridar for 'Seidan' (it is 'said, dawn' — the Eastern Heart shaman's doctrine from notes/npcs/prutha.md), aletra for 'Aretha' (it is Prutha) and for 'Alatra' (it is Adabra), and Gorthok for 'Kruta' (it is Prutha)."
+  ]
+}
