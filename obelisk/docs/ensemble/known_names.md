@@ -8,7 +8,7 @@ auto-added as a short-form match.
 
 ## Party (PC + sidekicks)
 
-- **Zenvon** — the player character (Zenvon Foreput)
+- **Zenvon** — the player character (Zenvon Forepot)
 - **Veyra** — sidekick, tiefling mage
 - **Pip** — sidekick, human fighter
 - **Sister Maela** — sidekick, dwarf cleric (Sister Maela Dawnforge)

@@ -443,7 +443,7 @@ Date: May 22nd, 2026
 
 ## Current Campaign State
 
-Zenvon Foreput and the sidekicks have completed Gundren Rockseeker's delivery to Barthen's Provisions in Phandalin. Gundren Rockseeker and Sildar Hallwinter were ambushed on the Triboar Trail and dragged away alive by goblins. The party chose to complete the delivery first, rest at the Stonehill Inn, and follow the goblin trail at dawn.
+Zenvon Forepot and the sidekicks have completed Gundren Rockseeker's delivery to Barthen's Provisions in Phandalin. Gundren Rockseeker and Sildar Hallwinter were ambushed on the Triboar Trail and dragged away alive by goblins. The party chose to complete the delivery first, rest at the Stonehill Inn, and follow the goblin trail at dawn.
 
 Zenvon has a cracked black stone in his possession. When the wagon struck it on the road, he saw the shadow of a tall broken obelisk stretch across the road despite nothing being there to cast it. Veyra's blue candle pulsed at the same moment.
 
@@ -467,7 +467,7 @@ Zenvon has a cracked black stone in his possession. When the wagon struck it on 
 
 ## Important NPCs
 
-Zenvon Foreput: The rogue player character. He is cautious about trust, pocketed the black stone, and chose to complete the delivery before pursuing Gundren.
+Zenvon Forepot: The rogue player character. He is cautious about trust, pocketed the black stone, and chose to complete the delivery before pursuing Gundren.
 
 Gundren Rockseeker: Missing. Believed to have rediscovered Wave Echo Cave. Captured alive by goblins, and his map appears to have been stolen.
 
