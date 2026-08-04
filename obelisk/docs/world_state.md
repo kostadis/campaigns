@@ -20,11 +20,11 @@
 | Character | Player | Race / Role | Level | Notes |
 |---|---|---|---|---|
 | **Zenvon Foreput** | Nikhil Reddy | Halfling Rogue | **2** | Sole player character. No darkvision. Now the party's face as well as its scout — deception has carried two full sessions. |
-| **Veyra** (of the Blue Candle) | Sidekick (DM-run) | Tiefling mage | 1 → **level-up pending** | Darkvision; *Firebolt*, *Magic Missile*. Ran completely dry on 1st-level slots in Ch. 7. Carries the blue candle/crystal. |
-| **Sister Maela Dawnforge** | Sidekick (DM-run) | Dwarf cleric | 1 → **level-up pending** | Darkvision; *Sacred Flame*, *Cure Wounds*, **Turn Undead** (granted by DM ruling mid-Ch. 7). Party's healer, light source, and moral compass. |
-| **Pip Thistlewick** | Sidekick (DM-run) | Human fighter | 1 → **level-up pending** | No darkvision. Tank, negotiator, and — since Ch. 5 — the party member with a secret out in the open. |
+| **Veyra** (of the Blue Candle) | Sidekick (DM-run) | Tiefling mage | 2 → **level-up pending** | Darkvision; *Firebolt*, *Magic Missile*. Ran completely dry on 1st-level slots in Ch. 7. Carries the blue candle/crystal. |
+| **Sister Maela Dawnforge** | Sidekick (DM-run) | Dwarf cleric | 2 → **level-up pending** | Darkvision; *Sacred Flame*, *Cure Wounds*, **Turn Undead** (granted by DM ruling mid-Ch. 7). Party's healer, light source, and moral compass. |
+| **Pip Thistlewick** | Sidekick (DM-run) | Human fighter | 2 → **level-up pending** | No darkvision. Tank, negotiator, and — since Ch. 5 — the party member with a secret out in the open. |
 
-- **Level status is an open GM decision.** `characters/sidekick_progressions.md` states sidekick level always equals Zenvon's, and all three have been "pending a bump" since Ch. 3. Separately, the module benchmarks **3rd level on clearing the Redbrand hideout**, which the party has now effectively done. *(Claude-proposed: bump the whole party to 3 before the next session — confirm before treating as canon.)*
+- **Level status is an open GM decision.** `characters/sidekick_progressions.md` states sidekick level always equals Zenvon's; all three are Level 2, matching Zenvon. Separately, the module benchmarks **3rd level on clearing the Redbrand hideout**, which the party has now effectively done. *(Claude-proposed: bump the whole party to 3 before the next session — confirm before treating as canon.)*
 - The party is **wearing scarlet Redbrand cloaks**. This is now a live mechanical asset (see Items) and a live social liability in town.
 - **Sildar Hallwinter** is in Phandalin, no longer traveling with the party. He is now an employer, not an escort.
 

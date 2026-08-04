@@ -144,6 +144,6 @@ Unchanged from `docs/planning.md`. Two notes: **Daran's** Old Owl Well job is st
 
 - **Feeding the nothic is a character question, not a tactical one.** The party murdered a bound prisoner to buy passage, and Maela — who says "we're the good guys" out loud — swung the killing blow and called it nothing personal. That's not a contradiction the campaign has cashed in yet.
 
-- **Overdue mechanics, before the next session:** three sidekick level-ups (owed since Ch. 3), a decision on whether the hideout clear takes the party to 3, and writing **Turn Undead** into `characters/maela.md` per the Ch. 7 ruling.
+- **Overdue mechanics, before the next session:** the sidekicks' Level 3 bump (currently Level 2, matching Zenvon), a decision on whether the hideout clear takes the party to 3, and writing **Turn Undead** into `characters/maela.md` per the Ch. 7 ruling.
 
 - **Loose hooks still ready to reconnect:** the jade frog statuette (never appraised, never explained); the armory's over-supply; Elsa's scholar sister in Neverwinter; Sister Garaele's silence; the manor above, which belongs to no one living and sits empty over a dungeon the party now owns.
