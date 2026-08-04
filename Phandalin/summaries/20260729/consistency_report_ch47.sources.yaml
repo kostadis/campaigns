@@ -1,0 +1,276 @@
+consistency_check:
+  timestamp: "2026-08-03T13:44:34-07:00"
+  campaign: Phandalin
+  document_checked: summaries/20260729/session-summary.md
+  document_class: "enhanced recap"
+  report: summaries/20260729/consistency_report_ch47.md
+  config: "scratchpad throwaway with ABSOLUTE paths (Phandalin has no root config.yaml;
+    config/config.yaml uses paths relative to the repo root, which resolve to
+    config/docs/... and fail). Only campaign_state + world_state are auto-loaded."
+  backend: claude-code
+  issues_found: 9        # counted from the report body (grep '^### '), not the banner
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-07-29"        # Zoom UTC stamp; played the evening of 2026-07-28
+  chapter: 47
+
+  lineage: |
+    session-summary.md is the enhance_summary OUTPUT, not a first-pass recap.
+    Confirmed two ways:
+      .cg/activity.jsonl  -> {"stage": "enhance", "rc": 0,
+                              "outputs": [".../session-summary.md"]}
+      logs/2026-08-03_132337_enhance_summary.md
+                          -> "VTT: GMT20260729-035411_Recording.transcript.cleaned.vtt
+                              — 85,881 chars dialogue" + the full gm-assist.md
+    So: gm-assist.md (21.7K, human-reviewed) + cleaned VTT -> session-summary.md (35.5K).
+    Every difference between the two is material the enhancement pass ADDED, which is
+    exactly what was under test. gm-assist.md was therefore passed as --context.
+
+    No prior *.sources.yaml existed in this directory — this is the first check of ch47.
+
+  speaker_map: |
+    Derived from the tape, not assumed from campaign docs. ALL FIVE present —
+    no absent-player attribution collapse in this session.
+      Kostadis Roussos   591 cues  = DM
+      David Mendenhall   358 cues  = Vukradin
+      Wade Brown         131 cues  = Soma
+      Gary Young         130 cues  = Valphine
+      Stéphane Bourdeaud 118 cues  = Brewbarry
+    Note: the VTT speaker labels need LC_ALL=C for grep — "Stéphane" breaks a
+    naive [a-zA-Z]+ character class and silently drops him from the roster,
+    which would have faked the absent-player failure mode.
+
+  transcripts_available:
+    - path: GMT20260729-035411_Recording.transcript.cleaned.vtt
+      used: true
+      why: "Speaker-labelled AND glossary-cleaned (this session's /vtt-spell-pass output).
+        Best of both — no separate speaker-labelled .md export exists for ch47."
+    - path: GMT20260729-035411_Recording.transcript.vtt
+      used: false
+      why: "Raw Zoom ASR, superseded by the cleaned version."
+    - path: session_20260729_transcript.vtt
+      used: false
+      why: "Second transcription, NO speaker labels; unusable for attribution.
+        Also carries cross-campaign name contamination (see the sibling-contamination
+        note in the ch47 spell-pass record)."
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "names confirmed but not yet promoted (campaign-standard)" }
+      - { path: summaries/20260729/gm-assist.md, role: "SOURCE RECAP — the human-reviewed input this was enhanced from" }
+      - { path: notes/session_prep/20260623_neverwinter_vukradin_present.md, role: "session prep — Ch-46 re-prep overlay, the doc this session actually ran off" }
+      - { path: notes/neverwinter/neverwinter_network.md, role: "GM reference for the House Margaster machine" }
+
+  prep_note: |
+    Ch. 47 has NO dated prep of its own. The prep corpus is arc-shaped, not
+    session-shaped:
+      20260616_neverwinter_arrival.md            "Chapter 46", Dave ABSENT version
+      20260623_neverwinter_vukradin_present.md   "Chapter 46 (re-prep)", Dave PRESENT
+                                                 — mtime 2026-07-28 21:41, i.e. touched
+                                                 the evening of play. This is what ch47 ran off.
+      neverwinter/neverwinter_network.md         the Margaster machine, GM reference
+
+    TRAP AVOIDED: notes/session_prep/20260728_*.md are named for this session's play
+    date but are NEXT-session prep. Their "Where we are" section describes the
+    Moonstone Mask scene as already finished ("the party handed the statue to Lord
+    Cassian Meliamne. Cullen Sharpe arrived with a writ. Cassian was terrified and
+    paid."). Feeding them as this session's prep would have reported the session's
+    own events back as contradictions.
+
+  notes: |
+    - Ran from the campaign workspace root with an explicit --config. Phandalin has NO
+      root config.yaml, so auto-detection falls through to CampaignGenerator's own.
+    - Script lives at ~/src/CampaignGenerator/session_doc/check_consistency.py
+      (NOT ~/CampaignGenerator, which does not exist on this machine).
+    - No "context file not found" warnings; no auto-continuation seam. Report body has
+      9 contiguous, correctly-numbered ### ISSUE sections and a complete tail.
+    - Registry work done in the SAME pass (see resolution.registry_pass below) because
+      the pre-read found the root cause was registry SILENCE, not a wrong entry.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-03"
+
+    gm_rulings_this_run:
+      - "Cassian is Elara's COUSIN. The tape says brother; that was an in-session slip.
+         Grounding docs are canon and stay untouched; the recap was corrected."
+      - "'Planar Manifold' and 'Displacement Manifold' are SYNONYMS — both work in prose.
+         Do not normalize the recap. (Recorded as a registry alias instead.)"
+      - "Valphine's glowing eyes are a genuine level-driven character development, not
+         narrative flavor layered on an Insight check. ISSUE 9 rejected outright."
+
+    applied:
+      - finding: 3
+        fix: "Brewberry -> Brewbarry. 28 occurrences across 21 lines in session-summary.md,
+          8 across 6 lines in gm-assist.md. Every instance read in context first and
+          confirmed to be the goliath barbarian (axe, ale, rage, Uthgardt look, the -1
+          Insight) — NO two-character fusion, so the global replace was safe."
+      - finding: 4
+        fix: "Aldusia -> Alducia. 2 in session-summary.md (Summary body + NPC section
+          heading), 3 in gm-assist.md. The other 4 recap instances already said Alducia."
+      - finding: 1
+        fix: >-
+          brother/sister -> cousin in NARRATION ONLY, 8 sites: Summary x3 (lines 11 x2,
+          13, 17), Scenes x4 (86, 99, 112 heading), NPCs x3 (200, 204 x2). The three
+          remaining instances (84, 95, 208) are inside quotation marks and were left
+          verbatim, with one bracketed editorial note at line 84 recording the slip.
+          Registry note on Lord Cassian Meliamne updated from UNRESOLVED to the ruling.
+
+    partially_applied:
+      - finding: 6
+        ruling: "50gp is confirmed, not unverified — reject that half. But the recap was
+          missing a number the tape does give."
+        fix: "Added a Scenes bullet with the DM's total: 'there's now 550 gold pieces in
+          the studio fund.' Also clarified that Vukradin received 50gp as well."
+        rationale: "The report called 50gp an unconfirmed session-generated detail. Tape
+          line 3205 is explicit: 'he gives Vukradin 50 gold pieces, then he gives you
+          each, 50 gold pieces.' The real gap was the 550 total (line 3277), which is a
+          party-finances number with downstream consequences."
+
+    rejected:
+      - finding: 2
+        ruling: "GM: both names are synonyms, both work."
+        rationale: "Registry canonical is Displacement Manifold, but the GM uses the two
+          interchangeably. Normalizing would have flattened the GM's own vocabulary.
+          Instead 'Planar Manifold' was attached as an alias so the pair stops surfacing."
+      - finding: 5
+        ruling: "Reject — the report wanted to import GM-side knowledge into the recap."
+        rationale: >-
+          The report proposed adding that Prutha is 'at Icespire Hold with five orc
+          converts' from campaign_state.md. The table established only this much
+          (VTT 977-993): 'Prutha, as you recall, has been sent on a quest to convert the
+          orcs.' / 'Yeah, he's on a crusade. That will have consequences.' No location,
+          no numbers. Module/GM truth is not party knowledge; the recap was already right.
+      - finding: 7
+        ruling: "Reject — table vocabulary, not an error."
+        rationale: >-
+          The report wanted 'Church of Lathander' normalized to 'Spire of the Morninglord'.
+          Both are on tape: the GM says 'Spire of the Morninglord' (869) but Gary/Valphine
+          says 'the main performance and the sermon at the Church of Lathander' (2901).
+          The recap bullet is faithful to the player. Normalizing would erase what was said.
+      - finding: 8
+        ruling: "Not a recap error — a grounding-doc conflict. Carried forward."
+        rationale: "Three documents give three different party levels. The recap never
+          states a level, so nothing in it is wrong."
+      - finding: 9
+        ruling: "GM: Valphine has reached a level where her eyes glow."
+        rationale: >-
+          The report claimed the golden-eyed framing was unsupported flavor because
+          world_state.md lists no such passive feature. The tape establishes it twice:
+          'you now have these glowing yellow eyes, right?' (873) and 'remember you got
+          the glowing eyes, everybody kind of thinks you're the avatar of the good God'
+          (2369). The doc is silent about it; silence is not contradiction. Doc gap
+          carried forward.
+
+    registry_pass: |
+      Run in the same pass because the pre-read established the root cause was registry
+      SILENCE, not a wrong entry: seven names settled by the ch47 glossary pass existed
+      in neither entity_registry.yaml nor vtt_known_additions.md, so nothing could
+      contradict a wrong spelling in a recap.
+
+      562 -> 568 entities, 110 -> 115 aliases, 0 slug canonicals (unchanged).
+      Backup: docs/entity_registry.yaml.bak-20260803-ch47
+
+      Added:  Aldus Hern (+alias Aldus) · Cullen Sharpe · Alducia · Common Chord ·
+              Counting House · Spire of the Morninglord ·
+              Candlekeep Working Paper No. 27 (+alias Candlekeep Report)
+      Alias:  Morninglord -> Lathander (his title, not a separate entity)
+              Planar Manifold -> Displacement Manifold (GM ruled synonyms)
+      Merge:  Cassian -> Lord Cassian Meliamne, keeping Cassian as the short-form alias.
+              The folded note SURVIVED this time only because the target had none —
+              still verify after every merge.
+
+      Two canonicals came from the GM's own prep, not from the tape or the recap:
+        Aldus Hern                       12 hits, 20260616_neverwinter_arrival.md
+        Candlekeep Working Paper No. 27  full title in the same doc; the recap and
+                                         gm-assist only ever said "Candlekeep Report"
+
+      Post-pass audit returns exactly the 9 standing KEEPS in
+      notes/registry_cleanup_backlog.md and nothing else — no regression. None of the
+      five new aliases is a garbling (two short forms, one title, one shorthand, one
+      GM-ruled synonym), so no glossary correction is suppressed.
+
+  vtt_adjudicated: |
+    Transcript consulted BY HAND — it was NOT a --context input to check_consistency.py.
+    File: GMT20260729-035411_Recording.transcript.cleaned.vtt
+
+    FINDING 1 — the report pointed the WRONG WAY, and this was the run's main catch.
+      It recommended changing the recap to "cousin" on the strength of the grounding
+      docs. The tape says the recap was right:
+        2157  DM as staff:   "Her brother is over there. Maybe you want to go talk to him."
+        2189  DM as staff:   "Even if her brother did want to raise her."
+        3133  DM as Cassian: "he talks about how his sister..."
+        2525  DM as Cassian: "My cousin told me someone was bringing it."
+      That lone "cousin" is Cassian citing a THIRD PARTY who tipped him off, not his
+      relation to Elara. So this was never a recap error — it was a table-vs-docs
+      conflict that only the GM could rule on. They ruled for the docs, which makes the
+      edit legitimate; but had I taken the report's direction on its own authority I
+      would have "fixed" the recap without ever surfacing that the session contradicted
+      canon. Never accept the report's choice of side on an internal contradiction.
+
+    ROLL VALUES — ALL FOUR REAL. Worth recording as a negative result, because invented
+    dice values are the dominant enhanced-recap failure mode and this run had none:
+        passive perception 17        Gary Young (Valphine), VTT 484
+        16 perception spot-forgery   Gary Young (Valphine), VTT 954 — verbatim
+        natural 20 on perception     David Mendenhall (Vukradin), VTT 956
+        22 Persuasion                David Mendenhall (Vukradin), VTT 1180
+      The 22 needed a second look: an EARLIER 20 Persuasion exists at VTT 2937 (the
+      fundraising speech). Two separate rolls, both real; the recap's 22 belongs to the
+      gala pitch to Aldus and is correct.
+
+    ATTRIBUTION ERROR THE CHECK COULD NOT SEE — the recap split a player from his own
+    character and invented an agreement between them:
+        before: 'Brewberry says it "sounds like morning erection, man" and Stephane
+                 agrees it "sounds like a swinger's club."'
+      Both lines are Stéphane Bourdeaud, ~2 minutes apart:
+        VTT cue 1280  "That sounds like a swinger's club."
+        VTT cue 1312  "Right. Sounds like morning erection, man. That's all I'm saying."
+      No grounding doc could ever catch this. Merged into a single attribution.
+
+    OMITTED NUMBER — VTT 3277: "Yes, there's now 550 gold pieces in the studio fund."
+      The recap said only "a considerable sum was raised." Added.
+
+    SELF-CORRECTION (recorded per the skill — a first reading overturned by a wider one):
+      The initial speaker-roster grep returned only FOUR speakers and I nearly recorded
+      this as an absent-player session, which would have made every Brewbarry attribution
+      suspect. The regex was at fault, not the tape: "Stéphane" breaks a naive [a-zA-Z]+
+      class. Re-run under LC_ALL=C it returns all five. Use LC_ALL=C on this campaign's
+      VTTs. Had I not caught it I would have chased a nonexistent failure mode and
+      distrusted correct attributions.
+
+  carry_forward:
+    - status: OPEN
+      item: >-
+        PARTY LEVEL disagrees across three documents and will re-trigger a false-positive
+        mechanics class on every future check until fixed. Phandalin/CLAUDE.md says
+        Bard 5 / Druid 5 / Cleric 5 / Barbarian 5; docs/party.md character sheets say 6;
+        notes/session_prep/20260623_neverwinter_vukradin_present.md and both 20260728_*
+        prep docs say "Level 7". The prep is the most recent. GM to confirm, then fix
+        CLAUDE.md and party.md.
+    - status: OPEN
+      item: >-
+        Valphine's glowing eyes are canon (GM: she reached a level where her eyes glow;
+        VTT 873, 2369 — "everybody kind of thinks you're the avatar of the good God"),
+        but docs/world_state.md records no such feature. Doc gap, not a recap error.
+        Worth adding so a future check stops flagging it.
+    - status: NOTE
+      item: >-
+        gm-assist.md was corrected in this pass (Brewberry, Aldusia). It is the SOURCE
+        of session-summary.md, so leaving it dirty would have reintroduced both errors
+        on any re-run of enhance_summary. Check the source layer, not just the output.
+    - status: NOTE
+      item: >-
+        Ch. 47 has no dated prep. notes/session_prep/20260728_*.md are named for this
+        session's play date but are NEXT-session prep — their "Where we are" section
+        describes the Moonstone Mask scene as already finished. Do not feed them as ch47
+        prep; the check would report the session's own events back as contradictions.
+    - status: DONE
+      item: >-
+        Seven ch47 names promoted to the registry (see resolution.registry_pass). The
+        /entity-triage backlog for this session is now empty.
