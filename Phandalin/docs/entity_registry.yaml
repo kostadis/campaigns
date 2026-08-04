@@ -18,9 +18,6 @@ entities:
     captured by orcs
 - name: Cryovain
   type: npc
-  aliases:
-  - white dragon
-  - dragon
   note: White dragon that killed six orcs near the mine roughly three days before
     the party arrives
 - name: Don-Jon Raskin
@@ -318,7 +315,6 @@ entities:
   - Lord Neverember
   - Lord Protector
   - Neverember
-  - Open Lord of Waterdeep
   - Lord Pretender
   note: Rules Neverwinter as Lord Protector in the absence of an heir to the Alagondar
     royal line
@@ -596,9 +592,7 @@ entities:
 - name: Mountain's Toe Gold Mine
   type: location
   aliases:
-  - mine
   - Mountain's Toe Mine
-  - The Mine
   note: Gold mine owned by a Neverwinter business consortium, 15 miles northeast of
     Phandalin, overrun by the Whiskered Gang wererats
 - name: Umbrage Hill
@@ -1220,10 +1214,6 @@ entities:
   type: npc
   note: Red-skinned female tiefling; runs the Grand Emporium exotic pet shop; kind-hearted,
     talks to animals
-- name: Cassian
-  type: npc
-  note: NPC who gives the party a description of Bimble Nackle that will make players
-    assume it is KP
 - name: Ettain
   type: npc
   aliases:
@@ -1430,6 +1420,8 @@ entities:
     whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
 - name: Lathander
   type: deity
+  aliases:
+  - Morninglord
   note: Dawn deity; Valphine Sotorra became a devoted follower after her religious
     experience with sunlight on the surface
 - name: Lolth
@@ -1637,6 +1629,8 @@ entities:
     cartel
 - name: Displacement Manifold
   type: location
+  aliases:
+  - Planar Manifold
   note: Planar routing device built and operated by the Commission at Neverwinter's
     docks as a commercial distribution service; went dark after the Commission refused
     Aletra's treaty ultimatum
@@ -2135,8 +2129,7 @@ entities:
   type: npc
   aliases:
   - Silverleaf
-  note: >-
-    Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling
+  note: Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling
     confirmed against docs/NeverwinterExpansionismandtheNorth.md ("Later, I would
     learn his name, Daran Edermath, but he's known as Silverleaf"); renamed from the
     slug canonical daran_edermath_silverleaf 2026-08-03.
@@ -2154,6 +2147,17 @@ entities:
   type: npc
 - name: Lord Cassian Meliamne
   type: npc
+  aliases:
+  - Cassian
+  note: Sea elf noble of House Meliamne; COUSIN of Elara Seasong Meliamne — GM ruling
+    2026-08-03. The Ch. 47 tape has the Moonstone Mask staff and Cassian himself saying
+    "brother"/"his sister"; that was an in-session slip, and campaign_state.md plus
+    notes/neverwinter/neverwinter_network.md are canon. The ch47 recap narration was
+    corrected to "cousin"; quoted dialogue was left as spoken. Gives the party a description
+    of Bimble Nackle that will make players assume it is KP. Received the recovered
+    Meliamne statue and paid Cullen Sharpe 200gp over the Harbor Authority writ rather
+    than contest it (Ch. 47); asked the party to look for a connection between the
+    Displacement Manifold outage and Elara's death.
 - name: Lord Halueth Verres
   type: npc
 - name: Lyra
@@ -2216,6 +2220,69 @@ entities:
     Common, was gifted intelligence by the sea elf Miraal and remains loyal to her;
     offers to salvage wrecks (incl. the Star-Crossed Lover) in exchange for laying
     Miraal's spirit to rest
+- name: Aldus Hern
+  type: npc
+  aliases:
+  - Aldus
+  source: summaries/20260729 (Ch. 47)
+  note: Neverember's steward, lion livery. Delivered the Lord Protector's summons
+    to the party at the Moonstone Mask (Ch. 47); secret Vukradin fan; invented a daughter,
+    Alducia, rather than admit the autograph was for himself. Surname from notes/session_prep/20260616_neverwinter_arrival.md
+    ("The steward's name is Aldus Hern"); the table uses the short form.
+- name: Cullen Sharpe
+  type: npc
+  source: summaries/20260729 (Ch. 47)
+  note: Associate of House Margaster. Presented a Harbor Authority writ asserting
+    a prior salvage claim on the Meliamne statue at the Moonstone Mask and extorted
+    200gp from Lord Cassian Meliamne (Ch. 47); then pitched the party on Margaster
+    handling distribution of goods recovered in the Phandalin hinterlands. Denied
+    Margaster involvement in Elara's death.
+- name: Alducia
+  type: npc
+  source: summaries/20260729 (Ch. 47)
+  note: 'The daughter Aldus Hern invented on the spot rather than admit Vukradin''s
+    autograph was for himself (Ch. 47). Fictional — she does not exist. Vukradin clocked
+    the lie and wrote the dedication anyway: "To Alducia, with love — Vukradin."'
+- name: Common Chord
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Neverwinter tavern in the dock area past the Protector's Enclave. Vukradin's
+    old venue, where he was periodically allowed to play and then thrown out without
+    pay; now the hardest ticket in the city. Brewbarry remembers only the ale ("All
+    I remember is a shitty ale. Good music, but shitty ale.").
+- name: Counting House
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Neverwinter financial institution. The party holds a letter of recommendation
+    for it and intends to use it to investigate the Lionshield Coster supply-chain
+    disruption caused by the Displacement Manifold going dark. A Lord's Alliance letter
+    advising caution about "certain adventurers from Phandalin" has already arrived
+    there.
+- name: Spire of the Morninglord
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Temple of Lathander in Neverwinter. The party committed to a dawn performance
+    and sermon here (Ch. 47) and used the obligation to decline Neverember's proposed
+    morning meeting. Referred to at the table as the Church of Lathander.
+- name: Candlekeep Working Paper No. 27
+  type: item
+  aliases:
+  - Candlekeep Report
+  source: notes/session_prep/20260616_neverwinter_arrival.md
+  note: '"The Hoarding Hero: Or, Why Some Adventurers Are Economically Indistinguishable
+    From The Monsters They Slay." Issued by Candlekeep''s Vault of Mercantile Histories;
+    argues adventurers who refuse to circulate recovered treasure are deflationary
+    and functionally indistinguishable from the dragons they slay. Neverember''s lever
+    on Vukradin — Aldus Hern raised the dragon comparison at the Moonstone Mask (Ch.
+    47).'
+- name: Laeral Silverhand
+  type: npc
+  aliases:
+  - Open Lord of Waterdeep
+  note: Open Lord of Waterdeep and First Lord of the Lords' Alliance; named at the
+    table in Ch. 47 ("Lady Laeral Silverhand, who's the open Lord of Waterdeep").
+    The 'Open Lord of Waterdeep' alias was previously attached in error to Dagult
+    Neverember, who rules Neverwinter as Lord Protector; moved here 2026-08-03.
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls
