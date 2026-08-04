@@ -28,7 +28,7 @@
 - **Helm** — God of protection; one of the patron deities of the Order of the Gauntlet
 - **Hoar** — God of retribution; one of the patron deities of the Order of the Gauntlet
 - **KP** — Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
-- **Lathander** — Dawn deity; Valphine Sotorra became a devoted follower after her religious experience with sunlight on the surface
+- **Lathander** / **Morninglord** — Dawn deity; Valphine Sotorra became a devoted follower after her religious experience with sunlight on the surface
 - **Lolth** — Spider goddess, trapped in a demi-plane as part of a multi-century plan; her pawn Gromph Baenre's spell inadvertently triggered the Out of the Abyss crisis
 - **Myrkul** — God of death; active in the North (Dragon of Icespire Peak canon), potential architect of undead presence at Pirates' Skyhold
 - **Oghma** — God of knowledge; primary deity of the House of Knowledge, Neverwinter's great library
@@ -173,6 +173,7 @@
 - **Leviathan** — Infamous pirate vessel captained by Harrag that ran aground in Neverwinter and became a tavern
 - **Neverember's lion sign** — Neverember's heraldic device displayed throughout Protector's Enclave as a symbol of his rule
 - **Meril's Staff** / **mentor's staff** — Soma's mentor Meril's sentient staff; grows leaves; contests Druid Council custody. Distinct from the ch45 Staff of Bird Calls.
+- **Candlekeep Working Paper No. 27** / **Candlekeep Report** — "The Hoarding Hero: Or, Why Some Adventurers Are Economically Indistinguishable From The Monsters They Slay." Issued by Candlekeep's Vault of Mercantile Histories; argues adventurers who refuse to circulate recovered treasure are deflationary and functionally indistinguishable from the dragons they slay. Neverember's lever on Vukradin — Aldus Hern raised the dragon comparison at the Moonstone Mask (Ch. 47).
 
 ## Locations
 
@@ -232,7 +233,7 @@
 - **Shrine of Luck** — Phandalin's only temple; dedicated to Tymora; normally tended by Sister Garaele
 - **Stonehill Inn** / **Stonehill Tavern** / **Stonehill** — Modest two-story roadhouse at the center of Phandalin; run by Toblen Stonehill
 - **Townmaster's Hall** — Stone building with bell tower; hosts the job board where quests are posted
-- **Mountain's Toe Gold Mine** / **mine** / **Mountain's Toe Mine** / **The Mine** — Gold mine owned by a Neverwinter business consortium, 15 miles northeast of Phandalin, overrun by the Whiskered Gang wererats
+- **Mountain's Toe Gold Mine** / **Mountain's Toe Mine** — Gold mine owned by a Neverwinter business consortium, 15 miles northeast of Phandalin, overrun by the Whiskered Gang wererats
 - **Umbrage Hill** — Hill a few miles south of Phandalin; site of Adabra Gwynn's windmill where potions of healing are sold
 - **Butterskull Ranch** — Cattle and horse ranch on the Triboar Trail, five miles east of Conyberry, owned by Alfonse Kalazorn
 - **Conyberry** — Location of the old shrine the wererats previously used as a lair before being displaced by orcs
@@ -352,7 +353,7 @@
 - **Driftwood Tavern** — Three-story tavern decorated with pre-destruction Neverwinter relics; operates since before the Spellplague; Greycloaks meet in its basement
 - **Port Crevice** — Dockside tavern managed by an unnamed young gnome; popular with sailors; harbors the last Many-Arrows orc scout
 - **Tarmalune Trade House** — Large warehouse complex on the southern docks operated by a Tarmalune trade cartel
-- **Displacement Manifold** — Planar routing device built and operated by the Commission at Neverwinter's docks as a commercial distribution service; went dark after the Commission refused Aletra's treaty ultimatum
+- **Displacement Manifold** / **Planar Manifold** — Planar routing device built and operated by the Commission at Neverwinter's docks as a commercial distribution service; went dark after the Commission refused Aletra's treaty ultimatum
 - **Helm's Hold** — Location associated with the Elden Vargas incident in 1479 DR
 - **Avernus** — First layer of the Nine Hells; co-residence of Tiamat and Zariel; where Iymrith fled after escaping the War of the Giants
 - **Calling Horn** — Settlement obliterated during the Uthgardtian barbarian uprising in the War of the Giants
@@ -382,12 +383,15 @@
 - **Grand Dame** — Former name of the Kee and Wing Casino in Yartar
 - **Kee and Wing Casino** — Casino operated by Pow (formerly the Grand Dame)
 - **Moonshadow Hall** — Location attacked by the Shadovar in 1379 DR; one of its towers was torn away and sent to the Shadowfell, eventually becoming the Shard of Night
+- **Common Chord** — Neverwinter tavern in the dock area past the Protector's Enclave. Vukradin's old venue, where he was periodically allowed to play and then thrown out without pay; now the hardest ticket in the city. Brewbarry remembers only the ale ("All I remember is a shitty ale. Good music, but shitty ale.").
+- **Counting House** — Neverwinter financial institution. The party holds a letter of recommendation for it and intends to use it to investigate the Lionshield Coster supply-chain disruption caused by the Displacement Manifold going dark. A Lord's Alliance letter advising caution about "certain adventurers from Phandalin" has already arrived there.
+- **Spire of the Morninglord** — Temple of Lathander in Neverwinter. The party committed to a dawn performance and sermon here (Ch. 47) and used the obligation to decline Neverember's proposed morning meeting. Referred to at the table as the Church of Lathander.
 
 ## NPCs
 
 - **Adabra Gwynn** / **Adabra** / **Adabra Adabra Gwynn** — Human midwife and apothecary who lives in the stone windmill on Umbrage Hill, devoted to Chauntea
 - **Alfonse Kalazorn** / **Big Al** / **Big Al Kalazorn** / **Alphonse Big Al Kalazorn** — Human veteran, retired sheriff of Triboar turned cattle and horse rancher, captured by orcs
-- **Cryovain** / **white dragon** / **dragon** — White dragon that killed six orcs near the mine roughly three days before the party arrives
+- **Cryovain** — White dragon that killed six orcs near the mine roughly three days before the party arrives
 - **Don-Jon Raskin** / **Raskin** / **Don-Jon** — No-nonsense overseer hired by Neverwinter consortium to manage Mountain's Toe Gold Mine; former prospector, privateer, and trader
 - **Elmar Barthen** / **Barthen** — Proprietor of Barthen's Provisions; lean, balding human of fifty years
 - **Falcon the Hunter** / **Gustaf Stellern** / **The Falcon** / **Falcon** — Human hunter and lodge owner, guides nobles from Neverwinter through Neverwinter Wood
@@ -457,7 +461,7 @@
 - **Uppendown** — Male rock gnome recluse working in the Gnomengarde kitchen
 - **Zook** — Male rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Azdraka** — Green dragon that terrorized the High Road; slain by Lady Alagondar and sealed in the barrow with her
-- **Dagult Neverember** / **Lord Neverember** / **Lord Protector** / **Neverember** / **Open Lord of Waterdeep** / **Lord Pretender** — Rules Neverwinter as Lord Protector in the absence of an heir to the Alagondar royal line
+- **Dagult Neverember** / **Lord Neverember** / **Lord Protector** / **Neverember** / **Lord Pretender** — Rules Neverwinter as Lord Protector in the absence of an heir to the Alagondar royal line
 - **Delsendra Amzarr** — Human warlord who built Icespire Hold; died by self-poisoning after her soldiers starved
 - **Halaster Blackcloak** — mad wizard who rules Undermountain beneath Waterdeep
 - **Hekaton** / **Storm Giant King** / **King Hekaton** — storm giant king who can end the giants' rampage in Storm King's Thunder
@@ -499,7 +503,6 @@
 - **Bobrik Highmantle** / **Bosun** — Stout dwarf regular at the Beached Leviathan with a pet monkey; fiery temper; periodically banned
 - **Borrim Pickwhistle** — Publisher (imprint) of the Stroudite pamphlet 'Stroud and the Human Agency Hypothesis: A Critique'
 - **Brimine** — Red-skinned female tiefling; runs the Grand Emporium exotic pet shop; kind-hearted, talks to animals
-- **Cassian** — NPC who gives the party a description of Bimble Nackle that will make players assume it is KP
 - **Ettain** / **Caulker** — Half-elf handyman at the Beached Leviathan; skilled carpenter who knows every inch of the ship including its secrets
 - **Feng** — Bouncer at the Beached Leviathan; very large half-orc
 - **Hazel** — Cheerful female human alchemist working to restore Bluelake; runs the Alchemist's Lab
@@ -561,7 +564,7 @@
 - **Jarek**
 - **Jax**
 - **Locutus**
-- **Lord Cassian Meliamne**
+- **Lord Cassian Meliamne** / **Cassian** — Sea elf noble of House Meliamne; COUSIN of Elara Seasong Meliamne — GM ruling 2026-08-03. The Ch. 47 tape has the Moonstone Mask staff and Cassian himself saying "brother"/"his sister"; that was an in-session slip, and campaign_state.md plus notes/neverwinter/neverwinter_network.md are canon. The ch47 recap narration was corrected to "cousin"; quoted dialogue was left as spoken. Gives the party a description of Bimble Nackle that will make players assume it is KP. Received the recovered Meliamne statue and paid Cullen Sharpe 200gp over the Harbor Authority writ rather than contest it (Ch. 47); asked the party to look for a connection between the Displacement Manifold outage and Elara's death.
 - **Lord Halueth Verres**
 - **Lyra**
 - **Marian**
@@ -582,3 +585,7 @@
 - **Thomas**
 - **Vorga**
 - **Crabby** — Name the party gave the giant intelligent crab at the Tower of Storms; speaks Common, was gifted intelligence by the sea elf Miraal and remains loyal to her; offers to salvage wrecks (incl. the Star-Crossed Lover) in exchange for laying Miraal's spirit to rest
+- **Aldus Hern** / **Aldus** — Neverember's steward, lion livery. Delivered the Lord Protector's summons to the party at the Moonstone Mask (Ch. 47); secret Vukradin fan; invented a daughter, Alducia, rather than admit the autograph was for himself. Surname from notes/session_prep/20260616_neverwinter_arrival.md ("The steward's name is Aldus Hern"); the table uses the short form.
+- **Cullen Sharpe** — Associate of House Margaster. Presented a Harbor Authority writ asserting a prior salvage claim on the Meliamne statue at the Moonstone Mask and extorted 200gp from Lord Cassian Meliamne (Ch. 47); then pitched the party on Margaster handling distribution of goods recovered in the Phandalin hinterlands. Denied Margaster involvement in Elara's death.
+- **Alducia** — The daughter Aldus Hern invented on the spot rather than admit Vukradin's autograph was for himself (Ch. 47). Fictional — she does not exist. Vukradin clocked the lie and wrote the dedication anyway: "To Alducia, with love — Vukradin."
+- **Laeral Silverhand** / **Open Lord of Waterdeep** — Open Lord of Waterdeep and First Lord of the Lords' Alliance; named at the table in Ch. 47 ("Lady Laeral Silverhand, who's the open Lord of Waterdeep"). The 'Open Lord of Waterdeep' alias was previously attached in error to Dagult Neverember, who rules Neverwinter as Lord Protector; moved here 2026-08-03.

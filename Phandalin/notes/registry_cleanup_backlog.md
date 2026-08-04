@@ -4,10 +4,59 @@ Adjudication record for the `/registry-cleanup` passes of 2026-08-03.
 **All backlog items are resolved.** Kept as the record of what was ruled, so a
 future pass doesn't re-ask settled questions or "fix" things deliberately left.
 
-State after the second pass: **562 entities, 110 aliases, 0 slug canonicals,
+State after the third pass: **568 entities, 115 aliases, 0 slug canonicals,
 0 glossary lint errors.**
 
-GM's standing rule across both passes: **trust the canonical.**
+GM's standing rule across all passes: **trust the canonical.**
+
+---
+
+## Resolved — pass 3 (2026-08-03): the Ch. 47 promotion gap
+
+Surfaced by `/consistency-check` on `summaries/20260729/session-summary.md`.
+Seven names settled by the Ch. 47 glossary pass were in **neither** the registry
+**nor** `notes/vtt_known_additions.md` — so nothing could contradict a wrong
+spelling in a recap. That silence, not a wrong entry, was the root cause.
+
+Two got their fuller canonical from the GM's own prep rather than from the tape:
+
+- `Aldus Hern` + alias `Aldus` — surname from
+  `notes/session_prep/20260616_neverwinter_arrival.md` (*"The steward's name is
+  Aldus Hern"*), 12 hits. The table says "Aldus"; the recap and gm-assist never
+  had the surname at all.
+- `Candlekeep Working Paper No. 27` + alias `Candlekeep Report` — full title
+  *"The Hoarding Hero: Or, Why Some Adventurers Are Economically
+  Indistinguishable From The Monsters They Slay."*
+
+Added as written: `Cullen Sharpe`, `Alducia` (Aldus's invented daughter —
+fictional, but registered so the `Aldousia → Alducia` glossary row has an
+anchor), `Common Chord`, `Counting House`, `Spire of the Morninglord`.
+
+`Morninglord` attached as an **alias of `Lathander`** — it is his title, not a
+separate entity.
+
+### The Cassian duplicate
+`Cassian` and `Lord Cassian Meliamne` were two entries for one NPC. Merged into
+**`Lord Cassian Meliamne`** (16 prep/doc hits vs. a bare stub); `Cassian` kept as
+the legitimate short-form alias the merge re-added. The folded note survived this
+time only because the target had none — still verify after every merge.
+
+**His relationship to Elara went to the GM.** The Ch. 47 tape has the Moonstone Mask
+staff and Cassian himself saying *brother* / *his sister*; `campaign_state.md` and
+`neverwinter/neverwinter_network.md` say *cousin*. **GM ruled: cousin is canon, the
+table slipped.** The ch47 recap narration was corrected; quoted dialogue was left as
+spoken with one bracketed note. Grounding docs untouched — they were already right.
+
+### Also this pass
+`Planar Manifold` attached as an alias of **`Displacement Manifold`** — GM ruled the
+two names are synonyms and both are acceptable in prose, so the recap was NOT
+normalized. The alias exists so future checks stop reporting the pair as a conflict.
+
+### Not a regression
+The post-pass audit returns the same 9 entries listed under **Confirmed KEEPS**
+below and nothing else. None of the four new aliases is a garbling — `Cassian`
+and `Aldus` are short forms, `Morninglord` is a title, `Candlekeep Report` is
+table shorthand — so no glossary correction is suppressed.
 
 ---
 
