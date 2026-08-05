@@ -34,8 +34,6 @@ Then the Zhentarim. Once upon a time they wanted to conquer the world; another t
 
 Not criminals, came the correction from down the table. They just viewed that market dynamics should not be constrained by regulatory systems. Amoral was the better word. It so happened they tended to attract people of the evil persuasion, but that was a side effect, not an intended outcome. I have met scavengers with the same defense.
 
-"I don't believe that KP necessarily agrees with unregulated markets," Valphine said, and there was a small silence, because nobody could put KP into any of these tidy boxes, and the name went over the table like a draft under a door.
-
 The Harpers were next. "They're the righteous," Vukradin tried. They were not the righteous. They were committed to decentralized power. Anarchists. Anarcho-syndicalists. Their goal was to keep everything at just the right level of fracture so that nobody could run anything; their idea of a perfect world was everybody living in a nice village, nobody bothering each other, and the way they had decided to preserve it was by creating a secretive organization that trades in secrets and power.
 
 "Whoever bothers them becomes an oppressor," Brewbarry said. He put his cup down like he'd solved something. Perhaps he had.
@@ -64,9 +62,9 @@ Then somebody mentioned a small tavern with the best tortle home cooking in all 
 
 "Oh boy, turtle soup!" I said. The faces did complicated things. "I don't think it has turtle soup, but yes." The stammering about how nobody had meant made *of* tortles went on longer than it needed to. "It's like Girl Scout cookies aren't made of Girl Scouts, come on."
 
-Vukradin's eyes were glowing yellow now. He had crossed some threshold, and there was no one in this city he could not make himself understood to. I decided not to think about what he would do with that.
+Valphine's eyes were glowing yellow now. She had crossed some threshold, and strangers in the common room kept glancing at her the way you glance at a wayside shrine. I decided not to think about what she would do with that.
 
-"I would like to return the statue," he said. So the statue would come first.
+"I would like to return the statue," Vukradin said. So the statue would come first.
 
 "I have a feeling that's not gonna go well," Valphine said.
 

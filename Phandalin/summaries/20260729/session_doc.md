@@ -39,8 +39,6 @@ Then the Zhentarim. Once upon a time they wanted to conquer the world; another t
 
 Not criminals, came the correction from down the table. They just viewed that market dynamics should not be constrained by regulatory systems. Amoral was the better word. It so happened they tended to attract people of the evil persuasion, but that was a side effect, not an intended outcome. I have met scavengers with the same defense.
 
-"I don't believe that KP necessarily agrees with unregulated markets," Valphine said, and there was a small silence, because nobody could put KP into any of these tidy boxes, and the name went over the table like a draft under a door.
-
 The Harpers were next. "They're the righteous," Vukradin tried. They were not the righteous. They were committed to decentralized power. Anarchists. Anarcho-syndicalists. Their goal was to keep everything at just the right level of fracture so that nobody could run anything; their idea of a perfect world was everybody living in a nice village, nobody bothering each other, and the way they had decided to preserve it was by creating a secretive organization that trades in secrets and power.
 
 "Whoever bothers them becomes an oppressor," Brewbarry said. He put his cup down like he'd solved something. Perhaps he had.
@@ -69,11 +67,11 @@ Then somebody mentioned a small tavern with the best tortle home cooking in all 
 
 "Oh boy, turtle soup!" I said. The faces did complicated things. "I don't think it has turtle soup, but yes." The stammering about how nobody had meant made *of* tortles went on longer than it needed to. "It's like Girl Scout cookies aren't made of Girl Scouts, come on."
 
-Vukradin's eyes were glowing yellow now. Full yellow, not the flicker. There was no one in this city he could not make himself understood to. I decided not to think about what he would do with that.
+Valphine's eyes were glowing yellow now. Full yellow, not the flicker. Strangers in the common room kept glancing at her the way you glance at a wayside shrine. I decided not to think about what she would do with that.
 
-"I would like to return the statue," he said. So the statue would come first.
+"I would like to return the statue," Vukradin said. So the statue would come first.
 
-"I have a feeling that's not gonna go well," Vukradin said.
+"I have a feeling that's not gonna go well," he added.
 
 "You want to be maximally arrested, and…" I let the rest of the sentence compost.
 
@@ -129,7 +127,7 @@ Vukradin looked up at the rock and started planning a war. "It's a perfect place
 
 I stopped listening around "liberators." Vukradin plans invasions. It calms him. I let him. There were two more rocks up there. Pirates' Skyhold. Fisher's Float. "Wow, that's, like, 3 floating… Oh, that's, that's useful," he said. "All well-positioned for, like, you know, assaulting the town." They say the castle here is called Castle Never because never has Castle Never been conquered. "Well, that's just— challenge. Challenge accepted. That's not fated," Vukradin said. The story of the rocks is old. A magic sickness broke the ground. Pieces flew up, all over Toril. People here chained a few down. Now the finest inn in the city sits on one, and the staff wear half-masks full of glowing moonstones. "This is where the fanciest inn is," Vukradin said.
 
-Soma asked where the statue even came from. The stolen boat. Valphine said, "We're talking about, like, the sunken shipwrecks around the White House." Soma said, "Yeah, where I went swimming and diving and all, yeah." Then she said she couldn't swim that far. Tortle joke, maybe. I didn't get it. "A year ago, yes," Vukradin said. "God, it's been a long time," Soma said.
+Soma asked where the statue even came from. The stolen boat. Valphine said, "We're talking about, like, the sunken shipwrecks around the Tower of Storms." Soma said, "Yeah, where I went swimming and diving and all, yeah." Then she said she couldn't swim that far. Tortle joke, maybe. I didn't get it. "A year ago, yes," Vukradin said. "God, it's been a long time," Soma said.
 
 The Mask is where the rich and the powerful go to chill out and relax. Vukradin would have known that back then if he'd listened to anything but his own music. "They always snubbed me. They were never willing to host me," he said. True. Not many places got the chance to snub him. "Yeah, but this place was not willing to host me." Also true. Also, he thought they were beneath him. "You snubbed them before they could snub you," Soma said. "There you go, there you go. He's snubbed by these rich assholes."
 
