@@ -88,7 +88,7 @@ source: gmassist
 > "It so happens that they tend to attract people of the evil persuasion."
 > "But that's just, you know, a side effect, not an intended outcome."
 
-**[Valphine / GM]** — KP is distinguished from the Zhentarim
+**[Gary / GM]** — OOC: KP is distinguished from the Zhentarim. **Player knowledge only — Valphine does not know KP exists. Do NOT render this exchange in-fiction or attribute it to Valphine.**
 > "I don't believe that KP necessarily Agrees with unregulated markets."
 > "No, no, no, he… KP's all about, right? KP has a different view. He's… he's not Zhentarim."
 
@@ -146,7 +146,7 @@ source: gmassist
 - Soma delivers the punchline: "It's like Girl Scout cookies aren't made of Girl Scouts, come on."
 - The GM spirals: "But yeah, but for a minute there, I go, wait, turtles lay eggs, and then I thought about the Grogu episode in Mandalorian." — "You know, where he goes… in Mandalorian, they're, like, saving this family with all of their eggs, and Grogu starts eating their…"
 
-**[GM]** — Vukradin's eyes and crossing a threshold
+**[GM → Valphine]** — Valphine's eyes and crossing a threshold *(the GM is addressing Gary/Valphine; the glowing yellow eyes are Valphine's Lathander manifestation, NOT Vukradin's)*
 > "You're now… you now have these glowing yellow eyes, right?"
 > "You've crossed a threshold, so you could always go, Common Chord…"
 

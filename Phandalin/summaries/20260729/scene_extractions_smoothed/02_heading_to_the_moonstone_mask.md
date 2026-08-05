@@ -94,7 +94,7 @@ from: ../scene_extractions/02_heading_to_the_moonstone_mask.md
 
 **[Recalling the statue's origin]**
 - Soma asks where the statue came from; GM: "Yeah, you got it in the boat, in the boat that was stolen, remember?"
-- Valphine: "We're talking about, like, the sunken shipwrecks around the White House."
+- Valphine: "We're talking about, like, the sunken shipwrecks around the Tower of Storms." *(transcript read "the White House"; the referent is the Tower of Storms — the lighthouse-temple of Talos with the five sunken wrecks off its western shore)*
 - Soma: "Yeah, where I went swimming and diving and all, yeah." / "Soma, not me. I can't swim that far."
 - Vukradin: "A year ago, yes." Soma: "God, it's been a long time."
 

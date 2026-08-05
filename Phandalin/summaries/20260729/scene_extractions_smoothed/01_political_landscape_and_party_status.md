@@ -57,7 +57,7 @@ from: ../scene_extractions/01_political_landscape_and_party_status.md
 > "Well, they're a bunch of criminals, yeah."
 > **[GM]** "No, no, they're not criminals — they just view that market dynamics should not be constrained by regulatory systems. They are amoral, is a better way to describe it. Now, it so happens that they tend to attract people of the evil persuasion. But that's just a side effect, not an intended outcome."
 
-**[Valphine / GM]** — KP is distinguished from the Zhentarim
+**[Gary / GM]** — OOC: KP is distinguished from the Zhentarim. **Player knowledge only — Valphine does not know KP exists. Do NOT render this exchange in-fiction or attribute it to Valphine.**
 > "I don't believe that KP necessarily agrees with unregulated markets."
 > **[GM]** "No, no, no — KP's all about, right? KP has a different view. He's not Zhentarim."
 
@@ -103,7 +103,7 @@ from: ../scene_extractions/01_political_landscape_and_party_status.md
 - Soma delivers the punchline: "It's like Girl Scout cookies aren't made of Girl Scouts, come on."
 - The GM spirals: "But yeah, but for a minute there, I go, wait, turtles lay eggs, and then I thought about the Grogu episode in Mandalorian." — "You know, where he goes… in Mandalorian, they're, like, saving this family with all of their eggs, and Grogu starts eating their…"
 
-**[GM]** — Vukradin's eyes and crossing a threshold
+**[GM → Valphine]** — Valphine's eyes and crossing a threshold *(the GM is addressing Gary/Valphine; the glowing yellow eyes are Valphine's Lathander manifestation, NOT Vukradin's)*
 > "You now have these glowing yellow eyes, right? You've crossed a threshold, so you could always go, Common Chord…"
 
 **[Vukradin / GM]** — the party settles on the statue as first order of business
