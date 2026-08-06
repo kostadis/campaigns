@@ -22,3 +22,23 @@ documents:
     path: docs/planning.md
   - label: party
     path: docs/party.md
+
+# Wing names are campaign-specific and MUST match .mneme/mempalace.yaml.
+#
+# Kept byte-identical to the stanza in the legacy root config.yaml on purpose.
+# Two subsystems disagree about which file to read:
+#   - pipelines/rlm/mcp_server.py:51 prefers campaign_dir/config.yaml and only
+#     falls back to this one
+#   - server/platform_config_service.py:420 reads this one directly
+# So if the two files drift, the two subsystems drift with them.
+#
+# Omitting the stanza is not an error and will not fail loudly — mcp_server.py:77
+# defaults index_wings to ["chronicle", <campaign-dir-name>]. "chronicle" is not
+# an obelisk wing (it belongs to out-of-the-abyss and toee), so search would
+# quietly drop notes/ and summaries/ and return thin results instead of erroring.
+mempalace:
+  canon_wing: narrative
+  index_wings:
+    - notes
+    - summaries
+    - obelisk
