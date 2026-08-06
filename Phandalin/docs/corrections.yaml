@@ -1,0 +1,44 @@
+# Known-stale records for Phandalin.
+#
+# ============================================================================
+#  DRAFT — NOT YET RATIFIED.  Spec 007, task T024.
+#  FR-029 requires this file be hand-authored. Read it before anything
+#  downstream trusts it.
+# ============================================================================
+#
+# A correction attaches to a search hit when the hit's path matches a glob in
+# `applies_to.paths` AND either `subjects` is empty or one of them appears in
+# the query or the excerpt.
+#
+# `stale_claim` is DISPLAYED to the reader and NEVER used for matching. See
+# the entry below for why that is not a stylistic choice.
+#
+# Prune an entry when it stops being true. Nothing prunes it automatically —
+# not a regeneration, not a text match, not this tool.
+
+version: 1
+campaign: Phandalin
+
+corrections:
+  - id: woodland-manse-empty
+    applies_to:
+      paths: ["docs/world_state.md"]
+      subjects: ["Woodland Manse", "Grannoc"]
+    stale_claim: >-
+      "Active; Grannoc performing ritual; NOT visited."
+    truth: >-
+      The Woodland Manse has been empty since Chapter 43. The party cleared the
+      Talosian cult there. A consistency check that trusted world_state.md
+      false-positived a correct recap as a continuity error.
+    as_of: chapter-43
+    recorded: 2026-08-04
+    recorded_by: GM
+    note: >-
+      THIS ENTRY IS THE PROOF THAT TEXT-MATCHING WOULD NOT WORK. Re-verified
+      2026-08-06: docs/world_state.md has been regenerated and line 9 now reads
+      "having cleared the Woodland Manse of a Talosian cult" — the stale
+      sentence is gone. A tool that attached this correction by finding
+      `stale_claim` in the file would have silently stopped applying it the
+      moment distill ran, with nothing anywhere to show that it had. The entry
+      stays because distill/synthesise_world_state may reintroduce the claim on
+      any future run, and because a correction is pruned by a human.
