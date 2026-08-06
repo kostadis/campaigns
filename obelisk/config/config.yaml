@@ -11,17 +11,23 @@ agents:
   encounter_architect: config/agents/encounter_architect.md
   voice_keeper: config/agents/voice_keeper.md
 
+# Document paths are relative to THIS config file's directory (config/), because
+# load_config() returns the config file's own parent as base_dir
+# (campaignlib/config.py:47). Grounding docs live in ../docs/, so they need the
+# ../ prefix. This became load-bearing when the legacy root config.yaml was
+# removed: until then mcp_server.py:51 preferred that file, whose base_dir was
+# the campaign root, and bare docs/ paths happened to resolve.
 documents:
   - label: campaign_state
-    path: docs/campaign_state.md
+    path: ../docs/campaign_state.md
   - label: world_state
-    path: docs/world_state.md
+    path: ../docs/world_state.md
   - label: mechanics
-    path: docs/mechanics.md
+    path: ../docs/mechanics.md
   - label: planning
-    path: docs/planning.md
+    path: ../docs/planning.md
   - label: party
-    path: docs/party.md
+    path: ../docs/party.md
 
 # Wing names are campaign-specific and MUST match .mneme/mempalace.yaml.
 #
