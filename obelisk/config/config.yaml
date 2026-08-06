@@ -22,3 +22,14 @@ documents:
     path: docs/planning.md
   - label: party
     path: docs/party.md
+
+# Wing names are campaign-specific and MUST match .mneme/mempalace.yaml.
+# Omitting this stanza is not an error — mcp_server.py falls back to
+# ["chronicle", <campaign-dir-name>], and "chronicle" is not an obelisk wing,
+# so search silently drops notes/ and summaries/ instead of failing loudly.
+mempalace:
+  canon_wing: narrative
+  index_wings:
+    - notes
+    - summaries
+    - obelisk
