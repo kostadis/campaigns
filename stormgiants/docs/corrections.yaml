@@ -1,0 +1,19 @@
+# Known-stale records for stormgiants.
+#
+# ============================================================================
+#  DRAFT — NOT YET RATIFIED.  Spec 007, task T028.
+# ============================================================================
+#
+# Present but empty, deliberately. A campaign with this file answers
+# `corrections_status: consulted` with an empty list — "a record exists and
+# nothing in it applies here". A campaign with `corrections: null` in the
+# manifest instead answers `no-record` — "this campaign records no
+# corrections at all". Those are different statements and the GM will want the
+# first one, so the file ships empty rather than being omitted.
+#
+# Add entries here as drift is found. `stale_claim` is DISPLAYED to the
+# reader and NEVER used for matching; a correction attaches on path + subject.
+
+version: 1
+campaign: stormgiants
+corrections: []
