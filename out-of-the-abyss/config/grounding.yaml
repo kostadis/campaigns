@@ -1,0 +1,50 @@
+summaries: null
+campaign_state:
+  input: null
+  output: null
+  extract_dir: null
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context: []
+  no_log: false
+  track_files: []
+  track_items: []
+distill:
+  input: null
+  output: null
+  extract_dir: null
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context: []
+  no_log: false
+party:
+  input: null
+  output: null
+  extract_dir: null
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context: []
+  no_log: false
+  mode: flat
+  config_path: null
+  characters: []
+  backstory: []
+  arc_scores: []
+planning:
+  input: null
+  output: null
+  extract_dir: null
+  split_chapters: '# Chapter'
+  chunk_size: 60000
+  context: []
+  no_log: false
+  synth_mode: config
+  config_path: null
+  npc: []
+  arc_scores: []
+  dossiers:
+    summaries: null
+    dossier_dir: docs/npcs/
+    extract_dir: null
+    split_chapters: '# Chapter'
+    since: 0
