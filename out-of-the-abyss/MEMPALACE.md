@@ -36,7 +36,7 @@ dossier.
 Set an alias first to save typing:
 
 ```bash
-alias mp='/home/kroussos/.venvs/main/bin/mempalace'
+alias mp='/home/kroussos/.venv/main/bin/mempalace'
 ```
 
 ### The commands you'll actually use
