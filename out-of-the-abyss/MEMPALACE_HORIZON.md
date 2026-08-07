@@ -87,7 +87,7 @@ When the user says **"now we have chapter N"**:
 2. Re-mine the affected wings (mempalace's file-hash check skips
    unchanged drawers):
    ```bash
-   mp="/home/kroussos/.venvs/main/bin/mempalace --palace abyss"
+   mp="/home/kroussos/.venv/main/bin/mempalace --palace abyss"
    cd /home/kroussos/out-of-the-abyss/out-of-the-abyss
    $mp mine docs/distill_extractions   # chronicle
    $mp mine docs/chapters              # narrative
@@ -162,7 +162,7 @@ back to onnxruntime embeddings without re-mining).
   Confirm which tree you are in before mining or tagging; the palace is
   a single shared store at `~/.mempalace/palaces/abyss/`, so mining from
   the stale clone would quietly overwrite good drawers with old content.
-- **mempalace binary moved.** It is `/home/kroussos/.venvs/main/bin/mempalace`.
+- **mempalace binary moved.** It is `/home/kroussos/.venv/main/bin/mempalace`.
   The path in the older docs and in the release skill
   (`/home/kroussos/worldanvil_pipeline/venv/bin/mempalace`) no longer
   exists — that venv is gone, though the `worldanvil_pipeline/` directory

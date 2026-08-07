@@ -72,7 +72,7 @@ pwd  # must be /home/kroussos/campaigns/Phandalin
 git rev-parse --abbrev-ref HEAD  # remember current branch
 grep -cE "^# Chapter" docs/NeverwinterExpansionismandtheNorth.md  # current bible heading count
 ls docs/chapters/*.md | wc -l  # current chapter file count
-/home/kroussos/.venvs/main/bin/mempalace --palace phandalin status
+/home/kroussos/.venv/main/bin/mempalace --palace phandalin status
 ```
 
 Capture the *before* drawer counts — they go into the commit message
@@ -150,7 +150,7 @@ Record the backup path; it goes into `MEMPALACE_HORIZON.md` under
 Always: distill_extractions → narrative → phandalin (subdirs before root).
 
 ```bash
-mp="/home/kroussos/.venvs/main/bin/mempalace --palace phandalin"
+mp="/home/kroussos/.venv/main/bin/mempalace --palace phandalin"
 $mp mine docs/distill_extractions
 $mp mine docs/chapters
 $mp mine .

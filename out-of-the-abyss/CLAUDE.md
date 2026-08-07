@@ -80,7 +80,7 @@ python ~/src/CampaignGenerator/party.py --character docs/characters/*.md --summa
 python ~/src/CampaignGenerator/split_chapters.py docs/TheUnderdark.md --output-dir docs/chapters
 
 # Re-mine (subdirs first, root last)
-mp="/home/kroussos/.venvs/main/bin/mempalace --palace abyss"
+mp="/home/kroussos/.venv/main/bin/mempalace --palace abyss"
 $mp mine docs/distill_extractions
 $mp mine docs/chapters
 $mp mine .
