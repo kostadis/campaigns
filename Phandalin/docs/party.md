@@ -2,6 +2,8 @@
 
 *State as of Chapter 45. Manse cleared; Gorthok dead; party returning to Phandalin. Next stop: Mountain's Toe Mine (payday), then Neverwinter.*
 
+> **Hand-correction (2026-08-07) — Cryovain hoard.** The generated text said the hoard was *"at Icespire Hold — unclaimed (Vukradin refused it)."* Both halves were wrong. GM ruling: Vukradin **took** the hoard; he refuses to **claim** it. Corrected below (obligations, collective resources, Vukradin's motivations). Re-apply after any regeneration — see `notes/corrections/cryovain_hoard_disposition.md`.
+
 ---
 
 ## Party Overview
@@ -10,7 +12,7 @@
 
 **Active obligations:**
 - Return stolen goods and a statue to Neverwinter contacts (Elara Meliamne) before House Margaster acts.
-- Locate rightful owners of the frozen dragon treasure at Icespire Hold.
+- Locate rightful owners of the frozen dragon treasure taken from Icespire Hold — the party is carrying it.
 - Find the mermaid's next of kin in Neverwinter.
 - Brewbarry committed to helping rebuild the Woodland Manse brewery (future beer).
 - Vukradin holds items for rightful owners: Necklace of Fireballs, obsidian sword/gem.
@@ -29,7 +31,7 @@
 - Cryovain breath pouch — Soma
 - Sending stones
 - Mountain's Toe Gold Mine shares (Brewbarry and Falcon)
-- ~3,000 gp Cryovain hoard at Icespire Hold — unclaimed (Vukradin refused it)
+- ~3,000 gp Cryovain hoard — **carried by the party**, taken from Icespire Hold. A single fused slag of ice, residium, gold, gems and trade bars; unspendable and inseparable without a planar expert. Vukradin took it but refuses to *claim* it as loot: it goes to its rightful owners or to the UBT fund, never to the party. The party is gold-rich and cash-poor at the same time.
 - Superior healing potion hidden in Vukradin's pack by Valphine (he doesn't know)
 - Unknown vial in Vukradin's pack placed by narrator (he doesn't know)
 
@@ -169,7 +171,7 @@
 
 **Personality:** Vukradin is a naive optimist who genuinely sees no tension between his goals. He wants a music studio funded by clean money, he wants to help people, and he expects the world to reward virtue with virtue in return. Dave provides sharp meta-commentary: Vukradin's worldview is not naivety — it is an ideology. He holds his positions firmly precisely when they create friction. He is currently disillusioned that "honest" gold feels hollow even when he gets it.
 
-**Motivations:** Open a music studio in Phandalin, funded without blood or theft. Return every item to its rightful owner. He genuinely loves Brewbarry. He distrusts Ser Kaelen, Jenna Roscoe, and anyone who tries to manage him. He gave up the Cryovain hoard (~3,000 gp) rather than take stolen wealth — the studio is still not built.
+**Motivations:** Open a music studio in Phandalin, funded without blood or theft. Return every item to its rightful owner. He genuinely loves Brewbarry. He distrusts Ser Kaelen, Jenna Roscoe, and anyone who tries to manage him. He carries the Cryovain hoard (~3,000 gp) and refuses to claim a copper of it — stolen wealth belongs to the people it was stolen from — the studio is still not built.
 
 **Notable relationships:**
 - *Brewbarry* — closest companion; Vukradin genuinely loves him (ch39, ch45)

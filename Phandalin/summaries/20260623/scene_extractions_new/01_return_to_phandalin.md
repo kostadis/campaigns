@@ -12,7 +12,7 @@ source: gmassist
 - Brewbarry reveals his ambition to start a bathrobe business and suggests a finder's fee for recovered treasure: *"every time we find treasure, whether it belongs to us or not, there should be a find us fee. And some of that gold should go in my pocket towards, you know, me building that bathrobe business."*
 - Vukradin and Brewbarry float a cross-promotion deal — a Lathander/music-studio logo on the bathrobes, with Vukradin's studio as a sponsor.
 - Vukradin expresses frustration over his lack of progress in funding his musical studio despite their victories — having defeated dragons, cleared mansions, and become part-owner of a gold mine.
-- The group discusses pushing for direct mayoral elections in Phandalin and the legal process of 'sheetment'.
+- The group discusses pushing for direct mayoral elections in Phandalin and the legal process of 'encheatment'.
 - Vukradin fulfills his escort obligation to Vorga: the orc warchief and her tribe are delivered to Icespire Hold, their new base. Prutha and his five orc converts part ways with the party here as well — Prutha intends to convert Vorga's orcs at Icespire Hold to Valphine's version of Lathander worship. The party continues to Phandalin without them.
 - The party enters Phandalin and passes by familiar locations like Barthen's Provisions and the Smithy — greeted with friendly but muted recognition ("Hi, how are you?"), their heroics now "yesterday's news."
 - Valphine boasts of the destroyed followers of Talos; Vukradin coaches her toward a softer public spin. Valphine: *"the town has been protected by the strength of [Lathander]."* Vukradin: *"Okay. That's a much better spin. We gotta work on your spin."*
@@ -23,9 +23,9 @@ source: gmassist
 
 **[GM — recap, departing the mine]** — the party heads back toward Phandalin
 - The party departed the mine with their 30 gold pieces and a growing list of ambitions.
-- Gruberry made a mental note that a finder's fee would be the right and proper thing to offer on the dragon's recovered hoard.
+- Brewbarry made a mental note that a finder's fee would be the right and proper thing to offer on the dragon's recovered hoard.
 - Vukradin lamented his lack of progress funding his musical studio despite defeating dragons.
-- A political agenda was noted: pushing for direct mayoral elections, a process called a "sheetment."
+- A political agenda was noted: pushing for direct mayoral elections, a process called an "encheatment."
 - Still unresolved: the untransformed lump of gold from Cryovain's hoard, and a holy orc army marching through the mountains in Lathander's name.
 
 **[GM]** — recapping the journey and ambitions
@@ -37,8 +37,8 @@ source: gmassist
 > "Doesn't it seem unfair? It's very unfair."
 > "I didn't say I wasn't. As the groups turned their boots towards Phandalin, there was much to discuss." (GM)
 
-**[GM]** — the political agenda and the sheetment
-> "A political agenda to pursue, the existing privy council was imposed on Harbin Wester as a fig leaf rather than a genuine democratic body, and Vukradin intended to push for direct elections of the mayor, a legal process called a sheetment that Valphine apparently researched."
+**[GM]** — the political agenda and the encheatment
+> "A political agenda to pursue, the existing privy council was imposed on Harbin Wester as a fig leaf rather than a genuine democratic body, and Vukradin intended to push for direct elections of the mayor, a legal process called an encheatment that Valphine apparently researched."
 > "The still untransformed lump of gold from Cryovain's hoard that the party refused to use, and the small matter of a holy orc army now marching through the mountains in Lathander's name, whatever came next, it was clear that the consequences of their choices were only just beginning to unfold."
 
 **[Vukradin / GM]** — debating whether to force an election or go to Neverwinter
@@ -73,7 +73,9 @@ source: gmassist
 
 **[GM]** — setting the muted-recognition tone
 > "So right now, you know, you guys… you haven't been to Phandalin since you defeated Cryovain, right?"
+> "No." (Vukradin)
 > "And so, you have been in Phandalin since the last time we spoke. So, people, you know, people… you're the heroes, right? You're still heroes, but, you know, it's yesterday's news."
+> "Fair, fair." (Vukradin)
 > "Right? I mean, you know…" (GM)
 > "What have you done for me lately, Titan." (Soma)
 > "Yeah, you know, you're still heroes, there's still, you know, hi, how are you, as you walk by Barthen's Provisions. Hi, how are you? You know, the discount's still there, maybe?" (GM)
@@ -86,7 +88,7 @@ source: gmassist
 > "I mean, so this is an excellent opportunity for you to sort of walk into town and get in the town square and make a note of that." (GM)
 
 **[GM / Valphine]** — passing Barthen's and the Smithy, Valphine's harsh spin
-> "Alright, so, straight, so you walk by Barthen's provisioning, there's a hello, how are you? You walk by the Smithy, again, pleasant to see you. Gary, Valphine, is she, like, saying, you know, we killed the Talosian, the Talosian have been defeated?"
+> "Alright, so, straight, so you walk by Barthen's Provisions, there's a hello, how are you? You walk by the Smithy, again, pleasant to see you. Gary, Valphine, is she, like, saying, you know, we killed the Talosian, the Talosian have been defeated?"
 > "Yes, because they were weak, and…" (Valphine)
 > "You need to follow a stronger God." (Valphine)
 

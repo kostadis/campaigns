@@ -26,7 +26,7 @@ source: gmassist
 - Following the UBT announcement, talk turns to the cheese; Qelline, Big Al, and Linene note the extra cash in people's hands creates opportunity to sell more.
 
 **[GM]** — Qelline and the cheese sellers see opportunity
-> "Oh, yes, the cheese. Well, you know, Petunia's there, Alphonse "Big Al" Kalazorn is there, Qelline Alderleaf is there. They're observing that now, with the extra cash in people's hands, there'll be opportunities to sell more cheese."
+> "Oh, yes, the cheese. Well, you know, Petunia's there, Big Al Kalazorn is there, Qelline Alderleaf is there. They're observing that now, with the extra cash in people's hands, there'll be opportunities to sell more cheese."
 
 **[Brewbarry]** — pitching a cheese export
 > "Start a export business."
@@ -92,7 +92,7 @@ source: gmassist
 
 **[GM]** — Qelline impressed; Big Al's deadpan
 > "She goes, well then, that you are a discerning customer, Mr. Brewbarry, you are an absolutely discerning customer."
-> "Alphonse "Big Al" Kalazorn, she turns to Alphonse "Big Al" Kalazorn. I didn't know you had such friends with such class, Alphonse "Big Al" Kalazorn. Alphonse "Big Al" Kalazorn turns to her and goes, neither did I."
+> "Big Al, she turns to Big Al. I didn't know you had such friends with such class, Big Al. Big Al turns to her and goes, neither did I."
 
 **[Valphine]** — questioning the expense
 > "But I don't know that we need the good stuff."
@@ -240,7 +240,7 @@ source: gmassist
 > "I'll do it."
 
 **[GM]** — writing the note, raising the distribution problem
-> "Alright, and… You write me a note? Yeah, so she writes your note, and then she says that, you know, normally the Lion Shield Coster would be delighted to handle distribution of… of the, the… the…"
+> "Alright, and… You write me a note? Yeah, so she writes your note, and then she says that, you know, normally the Lionshield Coster would be delighted to handle distribution of… of the, the… the…"
 > "The bathrobes."
 
 **[Brewbarry]**
@@ -253,7 +253,7 @@ source: gmassist
 > "Sure."
 
 **[GM]**
-> "Yeah. About, about what, about what… when… when… when the LionShield Coster distribution system will be back up and running."
+> "Yeah. About, about what, about what… when… when… when the Lionshield Coster distribution system will be back up and running."
 
 **[Brewbarry]**
 > "Okay, I can do that, for sure."
@@ -344,7 +344,7 @@ source: gmassist
 > "What's their name again?"
 
 **[GM]** — the claimant
-> "So, Alexander."
+> "So, Alagondar."
 > "It's an Alagondar, so…"
 > "Yes, so you… there is a… I don't want to find out the name…"
 > "Alright, yes. So, Perrin… Alagondar."

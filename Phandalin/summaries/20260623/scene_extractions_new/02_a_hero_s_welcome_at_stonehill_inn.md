@@ -11,9 +11,9 @@ source: gmassist
 - The party arrives at the Stonehill Inn and is greeted warmly by Toblen Stonehill and his staff — including his son Tuck and the barmaid Elsa.
 - Vukradin asks how much it would cost to buy the bar a round; Toblen offers it free in exchange for a song: *"Vucherdin, I think that if you were willing to play a song, it would be for free."* Vukradin's performance lands well and Toblen "hands out the good stuff."
 - Ser Kaelen informs the party that more rightful owners of the recovered treasure have been located in Neverwinter — none remaining in Phandalin.
-- Ser Kaelen is upset that the party still hasn't returned the long-forgotten mermaid statue, whose owner is in Neverwinter. Vukradin: *"You know, Ser Kaelen, I'm sorry. We had to kill a dragon, we had to stop an orcan game..."*
+- Ser Kaelen is upset that the party still hasn't returned the long-forgotten mermaid statue, whose owner is in Neverwinter. Vukradin: *"You know, Ser Kaelen, I'm sorry. We had to kill a dragon, we had to stop an orc campaign..."*
 - Ser Kaelen reports he has had no success locating Sister Kaella.
-- Ser Kaelen notices Valphine's golden eyes and is startled. Valphine declares them *"a blessing"* from Lathander. Ser Kaelen, visibly concerned that a Drow Lathanderite could be so blessed, suggests she seek out Brother Aldric Sunmantle at the Spire of the Morning Lord in Neverwinter — the priest who first received her conversion. (DM note: Valphine privately regards Brother Aldric as a fool who never understood the real power of Lathander, having only feigned devotion to learn his rituals — and may see the visit as a chance to tell him what she really thinks of his "soft, squishy ways," or to convert him.)
+- Ser Kaelen notices Valphine's golden eyes and is startled. Valphine declares them *"a blessing"* from Lathander. Ser Kaelen, visibly concerned that a Drow Lathanderite could be so blessed, suggests she seek out Brother Aldric Sunmantle at the Spire of the Morninglord in Neverwinter — the priest who first received her conversion. (DM note: Valphine privately regards Brother Aldric as a fool who never understood the real power of Lathander, having only feigned devotion to learn his rituals — and may see the visit as a chance to tell him what she really thinks of his "soft, squishy ways," or to convert him.)
 
 ## Verbatim moments
 
@@ -38,7 +38,8 @@ source: gmassist
 > "Alright, well that is an amazing achievement, and… and as a result of that amazing achievement, Toblen is, you know, hands out the good stuff. Elsa, the barmaid, is pouring out the good beer, she's handing it out…"
 
 **[Vukradin]**
-> "Is that how it works? If it was a bad number, it would have been the swell."
+> "Is that how it works? If it was a bad number, it would have been the swill."
+> "Well, liquor."
 
 **[GM]** — *contextualizing yesterday's heroism*
 > "Like, you know, it's, you know… like I said, there was the, you know, you had that moment, you were the heroes, you saved the world, defeated the dragon."
@@ -96,8 +97,7 @@ source: gmassist
 > "Who owns it? [inaudible — probable "It's a mermaid, Steph(ane)"]"
 
 **[GM]** — *the owner is an important person of Neverwinter*
-> "It's, Sir Arielle, Elyara,"
-> "like, I can't remember the name of it, but Eliara… Ellara… shit."
+> "It's… Elara Seasong Meliamne."
 
 **[Vukradin]**
 > "Is he in… is he in the bar?"
@@ -141,7 +141,7 @@ source: gmassist
 **[Valphine]**
 > "Well, yes, that's our next [stop]."
 
-**[GM]** — *Ser Kaelen suggests the high priest at the Spire of the Morning Lord*
+**[GM]** — *Ser Kaelen suggests the high priest at the Spire of the Morninglord*
 > "Oh, he goes, in that case, might I suggest that you might want to go talk to the… and she mentions the high priest at the temple."
 > "The temple. The Spire, Spire of the Mid… the Spire of the Morning Lord."
 
@@ -175,8 +175,8 @@ source: gmassist
 > "the Morning Lord to be so blessed, he's, like, concerned that there's something else going around here."
 > "And he's kind of, like, hinting, maybe you should go check in with the, you know, high priest, Brother Aldric, and get his perspective."
 
-**[scene tag — DM note: Valphine's real feelings about Brother Aldrich]**
-- The DM frames Valphine's true contempt for Brother Aldrich.
+**[scene tag — DM note: Valphine's real feelings about Brother Aldric]**
+- The DM frames Valphine's true contempt for Brother Aldric.
 
 **[GM]**
 > "Practically speaking, the way I see it is Valphine thought that Brother Aldric was a fool who couldn't understand the real power of Lathander."

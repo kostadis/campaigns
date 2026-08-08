@@ -13,7 +13,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin | **Vukradin** |
 | Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk | **Soma** |
 | Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Or Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia | **Valphine** |
-| Brewberry, Frewbury, Blueberry, Brewery, Barry, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai | **Brewbarry** |
+| Brewberry, Frewbury, Blueberry, Brewery, Barry, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 | An Asimer, Asimar | **Aasimar** |
 
@@ -27,7 +27,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Dabblebob | **Dabbledob** |
 | Meliame, Miliami, Milliamne | **Meliamne** |
 | Fiddlestib | **Fibblestib** |
-| Harbin Townmaster, Town Master Harbin Wester, Harib and Wester, Harib Wester, Weston (when referring to Harbin), Carbon Wester | **Harbin Wester** |
+| Harbin Townmaster, Town Master Harbin Wester, Harib and Wester, Harib Wester, Weston (when referring to Harbin), Western (when referring to Harbin), Carbon Wester | **Harbin Wester** |
 | But Horia, Horio | **Horia Stonetallow** |
 | Jena Roscoe, Jenna Roscoe, Alliance Representative Jen Orozco, Jen Orozco | **Jenna** |
 | Lady Alagondar's Ghost | **Lady Alagondar** |
@@ -36,7 +36,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Sister Kayla, Sister Kella, Sister Keela, Sir Kayla | **Sister Kaella** |
 | Tribar Wester, Tiber Wester, Tybore | **Tibor Wester** |
 | Toblen Stonehill Spiderman | **Toblen Stonehill** |
-| Toblin | **Toblen** |
+| Toblin, Tobelin | **Toblen** |
 | Xanthopoulos, Is Xanth, Xantha Centaur, Xanthes, Centaur Alla Exanth | **Xanth** |
 | So Bob, So Bob Saget | **Bob Saget** |
 | Lira, Lara, Lera, Myra | **Lyra** |
@@ -71,7 +71,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | The Boer | **The Boar** |
 | Boris | **Boar** |
 | Vorg | **Vorga** |
-| Aligonder | **Alagondar** |
+| Aligonder, Alexander (when naming the family), allegondre, Olegander | **Alagondar** |
 | Aldrich, Adric, Adrik, Aldrick, Audric | **Aldric** |
 | Kalina Elderleaf, Kayleen Elderleaf, Kilinea, Kalita, Klina, Kalazorn Cazone (when referring to Qelline) | **Qelline Alderleaf** |
 | Lynette, Lilene, Leonini, Lenini, Linane Greenwood, Lenny, Shalim Lenny | **Linene Graywind** |
@@ -145,7 +145,8 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 |---|---|
 
 ## Locations
-| Fandelin, Handelin, Phandalone, Fendel, Fandalin, Fanderlin, Pendleton, Finland, Vandalin, Pandolin, Mandolin, Feneden, Fenden, Fendalin, Pantilen, Bandolin, Candelin, Endelin, Phanalyn, Fambalyn, Fandel, Fenderland, Fandelwood | **Phandalin** |
+| Fandelin, Handelin, Phandalone, Fendel, Fandalin, Fanderlin, Pendleton, Finland, Vandalin, Pandolin, Mandolin, Feneden, Fenden, Fendalin, Pantilen, Bandolin, Candelin, Endelin, Phanalyn, Fambalyn, Fandel, Fenderland, Fandelwood, Fandelman | **Phandalin** |
+| Barthin's Provisions, Barthen's provisioning, Barthens | **Barthen's Provisions** |
 | Mountain Toes Gold Mine, Mountain Toe, Mountain Toes Gold Mind | **Mountain's Toe Gold Mine** |
 | Silvery Moon | **Silverymoon** |
 | Woodland Mance, Woodland Mence, Woodland Mass, Woodland Mans, Woodland Mounds | **Woodland Manse** |
@@ -179,13 +180,13 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Parnest | **Parnast** |
 | Coneyberry | **Conyberry** |
 | River's District | **River District** |
-| Castle Nevermember | **Castle Never** |
+| Castle Nevermember, Castle Neverember | **Castle Never** |
 
 | Wrong | Right |
 |---|---|
 
 ## Real-world / table
-| Costatus, Castadis, And Cassadis, Cassadis, Christatis, Castados, Costas, Kostas, Cassadas | **Kostadis** |
+| Costatus, Castadis, And Cassadis, Cassadis, Christatis, Castados, Costas, Kostas, Cassadas, Status | **Kostadis** |
 | Todd Billing | **Top Billing** |
 | Orban | **Orc** |
 | We Cumberry News | **we come bearing news** |
@@ -194,6 +195,11 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | anchor biters | **anklebiters** |
 | sheetment | **encheatment** |
 | Carrie | **Gary** |
+| UVT | **UBT** |
+| Egos (as a GM speech tag) | **he goes** |
+| No, Matt | **no, math** |
+| the swell (of beer) | **the swill** |
+| majestical | **Silver Tongue** (Vukradin's Eloquence feature) |
 
 | Wrong | Right |
 |---|---|
@@ -207,5 +213,18 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Greekly | **discreetly** |
 | Vucherjin | **Vukradin** |
 | Smuggaster, SmartGaster | **House Margaster** |
-| Lionschild Koster | **Lionshield Coster** |
+| Lionschild Koster, Lion Shield Coster, LionShield Coster | **Lionshield Coster** |
 | Tribor | **Triboar** |
+
+## DO NOT CORRECT — canon coinages and in-character malapropisms
+
+These look like transcription errors and are not. Leave them exactly as they are in
+every layer: VTT, extractions, smoothed extractions, narration, and the bible.
+
+| Looks wrong | Status |
+|---|---|
+| **Big Al** (bare nickname, for Alphonse "Big Al" Kalazorn) | **DO NOT EXPAND.** GM ruling 2026-08-08. When the GM says "Big Al", leave it as "Big Al" — do not substitute the full canonical form. The cleaning pass for ch46 expanded four consecutive bare "Big Al"s into "Alphonse \"Big Al\" Kalazorn", destroying a joke and producing a sentence no human said. Correcting a garbled *surname* (Kazun, Cazone -> Kalazorn) is fine; replacing the nickname is not. Applies to every nickname in this glossary: an alias is an approved alternate name, not something to normalise away. |
+| **Dragon Scales R Us** (the GM's name for the Neverwinter armorer's shop) | **Canon.** GM ruling 2026-08-08. Transcribed as "Dragon scale is us" in cleaned VTT 4885; it is a Toys-R-Us gag, said while marking the shop's location on the map. The odd capitalisation is the joke. Leave it. |
+| **Titan** in Soma's "What have you done for me lately, Titan." | **Canon.** GM ruling 2026-08-08 (ch46, 2026-06-23). It is a joke, not a transcription garble. Soma is voicing the townsfolk's shrug at the party's fading fame; "Titan" is the landing. Already rendered this way in `docs/chapters/chapter_45_universal_basic_treasure.md`. Leave it. |
+| **Morrissey** (Vukradin, "Morrissey's sold out, I love it.") | **Canon.** GM ruling 2026-08-08. Transcribed as "Mory's" in cleaned VTT 4105; the real line names Morrissey. Vukradin's joke as Neverwinter fans complain his pre-fame recordings were the real stuff — indie sold-out discourse. Corrected to "Morrissey's" and should stay that way. |
+| **find-us fee** (Brewbarry) | **Canon.** GM ruling 2026-08-08 (ch46, 2026-06-23). Brewbarry mangles "finder's fee" into "find-us fee" — a goliath still learning surface-world business terms, accidentally saying the quiet part. The GM's own recap correctly says *finder's fee*; the contrast is the joke. Already load-bearing in `docs/chapters/chapter_45_universal_basic_treasure.md:18`, where both forms sit in one paragraph on purpose. Render hyphenated. |

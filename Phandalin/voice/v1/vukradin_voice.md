@@ -99,7 +99,7 @@ This is the section the prior voice files were missing, and it is the single mos
 
 - **Real-time fairness.** When the party agreed Valphine's church is "kind of a torture cult," Dave pushed back, then conceded the structural point, and corrected the framing: *"It's more like a masochism cult."* He updates in front of the room. He is not pretending to know.
 
-- **Friendly anchoring nicknames.** Brewbarry → Homer (when accounting for damage). NPCs → Spider-Man (the Stonehill barback; he has asked twice, that's the name). He brings people in by naming them. The names are warm.
+- **Friendly anchoring nicknames.** Brewbarry → Homer (when accounting for damage). NPCs → Spider-Man (the Stonehill bartender, Toblen; he has asked twice, that's the name). He brings people in by naming them. The names are warm.
 
 - **Calls on Sending the way someone calls on a phone.** *"Oh, do we want to get anything in Phandalin?"* / *"He's not in this forest."* He uses the spell as connective tissue. It is his texting habit.
 
