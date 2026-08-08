@@ -1,109 +1,70 @@
 # Voice Critique — Vukradin, scene 05: Arrival in Neverwinter
 
-**Narration:** /home/kroussos/Phandalin/Phandalin/summaries/20260623/gm-assist-doc.md (## Vukradin — Arrival in Neverwinter)
-**Voice spec:** /home/kroussos/Phandalin/Phandalin/voice/vukradin_new_pipeline.md
-**Per-char examples:** /home/kroussos/Phandalin/Phandalin/examples/vukradin.md
+**Narration:** `summaries/20260623/narration/session_doc_scene_05_arrival_in_neverwinter.scrubbed.md`
+**Voice spec:** `voice/vukradin_new_pipeline.md` (authoritative)
+**Supplementary spec:** `voice/v1/vukradin_voice.md`
+**Per-char examples:** `examples/vukradin.md` (162 lines, four passages)
+**Genre:** `voice/_genre.md`
+
+The strongest-voiced scene of the six. Flags are concentrated in the interior passages, not the action.
 
 ## Flags
 
-### [1] em-dash in narration prose
+### [1] Banned tic — "the shape of X," line 145
 
-> how good he would look in one — I let it run for a while because I love him, and then I couldn't anymore.
+> He was in awe — I could see it in the way his hands shook slightly against the frets — but he was also good. He could hear the shape under the dissonance. He jammed with me.
 
-**Why:** Em-dash in prose; this one reads as a hard turn, not performer rhythm.
-**Suggested rewrite:** "...how good he would look in one. I let it run for a while because I love him, and then I couldn't anymore."
+**Why:** `voice/_genre.md` line 43 bans this by name. It is especially costly here: this is the emotional peak of the scene, another musician hearing what Vukradin actually wrote, and *the shape under the dissonance* gestures at the thing instead of naming it. Vukradin is a musician — he has real vocabulary for this.
+**Suggested rewrite:** `He could hear what the dissonance was for. He jammed with me.`
 
-### [2] em-dash in narration prose
+### [2] Cliché simile — line 43
 
-> There was no reason to swing through the Hunting Lodge or the Dragon Barrow or the Logger's Camp — we'd already turned every stone in those places, and what we hadn't was the Shrine of Savras
+> "Reunion tour?" Soma asked, dry as old parchment.
 
-**Why:** Em-dash joining two independent clauses; cleaner as a sentence break.
-**Suggested rewrite:** "...or the Logger's Camp. We'd already turned every stone in those places, and what we hadn't was the Shrine of Savras..."
+**Why:** Workshop-standard. `voice/_genre.md` line 46 bans generic fantasy reach and line 38 asks for "the sensory specific… before the metaphor." Soma is a tortle; her dryness has a body available to it, and old parchment is not it.
+**Suggested rewrite:** `"Reunion tour?" Soma asked, without looking up.`
 
-### [3] em-dash in narration prose
+### [3] Voice spec conflict — verdict register absent again
 
-> Then Neverwinter came up out of the road, and Castle Never with it — Castle Never, they call it, because it has never been conquered
+**Why:** As in scene 03: a mechanical scan finds none of the spec's signature landings ("Foolish!" / "Scandalous." / "Phonies!" / "Nope." / "Done.") anywhere in this scene. Failure-prevention rule 8: "Do not let long building sentences drift without landing in a clear verdict." The scene has three long builds (lines 119, 121, 191) and all three land in soft abstraction. Line 109 is where the verdict belongs — Vukradin realising the Common Chord has been captured by the Protector's Enclave is precisely the "corruption gets in the way of the studio" trigger the spec calls a personal injury.
+**Suggested rewrite:** Line 109 → `Oh. So the Common Chord wasn't mine anymore. It was the Protector's Enclave's. The rich walling off what belonged to everyone. Scandalous.`
 
-**Why:** Em-dash before an appositive restatement; a comma carries it.
-**Suggested rewrite:** "...and Castle Never with it. Castle Never, they call it, because it has never been conquered..."
+### [4] Repetition — the same realisation stated four times
 
-### [4] em-dash pair in narration prose (borderline)
+> ...he wasn't wrong about me, exactly. I did care. (119)
 
-> three kids — early twenties, barefoot on the cobbles like the stone owed them something — stopped dead in the middle of the street.
+> But the kid was also wrong in a way I couldn't articulate... It was caring *so much* you had to let the song do the saying. (121)
 
-**Why:** Parenthetical appositive dashes. Borderline — this is the kind of mid-sentence aside that reads as Vukradin's observing-rhythm. Flag for conversion to commas, but acceptable as-is if a dash budget is kept.
-**Suggested rewrite:** "three kids, early twenties, barefoot on the cobbles like the stone owed them something, stopped dead in the middle of the street."
+> That's when I started to realize the kid was wrong in another way. It wasn't just that I cared. It was that caring was catching. (151)
 
-### [5] em-dash in narration prose (borderline)
+> ...I realized the music I'd written when I didn't care if anyone liked it had become the music people *needed* precisely because I'd cared enough to write it. (191)
 
-> The kid looked at me. Recognized me. And then — *oh yeah, I remember when he was really good. The stuff he recorded before he got famous and commercial.*
+**Why:** Four restatements of one insight, three of them announcing themselves as realisations (`the kid was wrong in a way`, `wrong in another way`, `I realized`). `voice/_genre.md` line 49 bans recap framing — "do not have characters mentally summarize what just happened for the reader's benefit." The performance at lines 141–153 already dramatises the whole idea; the prose then explains it three more times.
+**Suggested rewrite:** Keep 121, cut the explanatory halves of 151 and 191. Line 191 ends better on its concrete list: `It *was* funny. All of it — the blood autograph, the sold-out debate, the kid claiming I wasn't me.` Then stop.
 
-**Why:** Em-dash sets up the dramatic drop into the VTT thought. Borderline — performer's beat before a reveal. Flag, but it earns its pause.
-**Suggested rewrite:** "And then this: *oh yeah, I remember when he was really good...*" (or keep as a dramatic landing).
+### [5] Cross-narrator tic — "Brewbarry, ever the showman," line 67
 
-### [6] em-dash in narration prose
+**Why:** The identical epithet `ever the showman` is applied to *Vukradin* in scene 02 line 13. Same two words, two different subjects, two different narrators, one session. See the summary report for the corpus-level finding.
+**Suggested rewrite:** `Brewbarry did a discreet pec bounce for the crowd.` The action is already the characterisation.
 
-> One of the kids said it was all part of the same thing — the common man pushed off the docks as the Protector's Enclave swells out to swallow them.
+### [6] Mechanical scan A — 30 narration-level em-dashes
 
-**Why:** Em-dash before an explanatory clause; a colon is the in-register punctuation when he's laying out the moral case.
-**Suggested rewrite:** "...all part of the same thing: the common man pushed off the docks as the Protector's Enclave swells out to swallow them."
+Tied with scene 03 for the highest in the session. Excludes em-dashes inside `"..."` and `*...*`.
 
-### [7] em-dash pair in narration prose (borderline)
+**Why:** Lines 119, 121 and 191 each carry a mid-sentence em-dash pair inside an already long clause-stack, which is what makes those builds drift rather than land (flag [3]). Vukradin's long register works when it accelerates toward a verdict; the em-dash parentheticals keep braking it.
+**Suggested rewrite:** Line 121 `And I knew — I'd known since the tower, since the lighthouse, since every fair-trade coin I'd ever counted — that the music was the opposite.` → `And I knew better. I'd known since the tower, since the lighthouse, since every fair-trade coin I'd ever counted. The music was the opposite.`
 
-> The musician at the window — the furious one, the kid who'd been playing my own anger back at me — went wide-eyed and started trying to find his way into the song
+## Not flagged (working as intended)
 
-**Why:** Parenthetical appositive. Borderline; the aside is doing real characterization work. Commas serve the same function.
-**Suggested rewrite:** "The musician at the window, the furious one, the kid who'd been playing my own anger back at me, went wide-eyed..."
+The fan-club sequence (lines 57–107) is the best-voiced stretch of the session: the blood-autograph bit, the guard's face falling, and especially line 101 (`There were two Vukradins now, apparently. The one I was, and the one they'd decided I wasn't`). Line 97 (`I stood right there, in front of him. And he didn't recognize me.`) is the short-landing register the spec asks for, and it works.
 
-### [8] em-dash in narration prose
+## Upstream notes (locked dialogue — not voice issues)
 
-> A crowd thickened at the gate. More cloaks, more charcoal, more bare feet — Brewbarry's people, multiplying, a whole movement assembling itself around a barefoot legend
+Two items inside quotation marks, correctly left verbatim by the voice pass, that may want VTT adjudication:
 
-**Why:** Em-dash capping a list. Reads as performer rhythm but converts cleanly to a colon.
-**Suggested rewrite:** "More cloaks, more charcoal, more bare feet: Brewbarry's people, multiplying..."
-
-### [9] em-dash in narration prose
-
-> In honor of the liberators of the Ordning — through whose courage, and the combined strength of the Lord's Alliance, the giant kingdoms were restored to order in the north.
-
-**Why:** Em-dash inside rendered plaque text. A comma matches the inscriptional register.
-**Suggested rewrite:** "In honor of the liberators of the Ordning, through whose courage, and the combined strength of the Lord's Alliance, the giant kingdoms were restored to order in the north."
-
-### [10] em-dash in narration prose
-
-> The cover was a woodcut of a dwarf in full plate, blunt-nosed, grave — Orsik, Defender of Parnast, Champion of the North.
-
-**Why:** Em-dash before the name reveal; a comma keeps the descriptive list intact.
-**Suggested rewrite:** "...blunt-nosed, grave, Orsik, Defender of Parnast, Champion of the North." (or a colon before the name).
-
-### [11] em-dash in narration prose (borderline)
-
-> A quiet branch, no title, no army — just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking.
-
-**Why:** Em-dash capping a list into the verdict. Borderline; this is close to his ledger-summation cadence. Converts cleanly to a colon.
-**Suggested rewrite:** "A quiet branch, no title, no army: just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking."
-
-### [12] em-dash in narration prose (borderline)
-
-> but I'd given enough of myself to one gate for one day — the old song, the dotted line, the man who said I wasn't me.
-
-**Why:** Em-dash into a closing triad. Borderline; the triad is in-register and the dash gives it weight. Flag for a colon if dashes are being zeroed out.
-**Suggested rewrite:** "...enough of myself to one gate for one day: the old song, the dotted line, the man who said I wasn't me."
-
-### [13] register-wrong vocab (scan B: "angle") — borderline
-
-> another with an ornamental hand axe strapped across his back at an angle that had clearly never met anything you could chop.
-
-**Why:** "angle" is on the geometry-register watchlist. Here it's plain physical description, not the optimizer-register that the scan targets — mild, but flagged per procedure.
-**Suggested rewrite:** "...strapped across his back the way you wear a thing you've never once swung at anything you could chop." (drops the geometry word; keeps the joke).
-
-### [14] voice-spec conflict: hardboiled realism
-
-> Soma was sure he'd let go of all that free gold any day now. We both knew how that goes.
-
-**Why:** "We both knew how that goes" is the "that's just how the world works" cadence the spec explicitly bars (failure-rule 6). Vukradin keeps being disappointed by corruption; he has not concluded disappointment is the world's nature.
-**Suggested rewrite:** "Soma was sure he'd let go of all that free gold any day now. He won't. Nobody taxing a city raw to gild a castle ever just *stops*." (keeps the outrage live instead of resigned).
+- Line 117: `"I'm gonna write that down on the quest tracker."` — **quest tracker** is table vocabulary sitting in in-fiction dialogue. Today's scrub pass could not catch it (no numeric or fixed-phrase pattern matches it) and the immutable-quote rule blocks the voice pass from touching it.
+- Line 65: `"Sam Club has found us."` — probable VTT garble of *Sam's Club*, part of the Fan Club joke.
 
 ## Verdict
 
-A strong, in-register block — the musician interiority ("the sound of being angry and twenty-two," "silence between notes," "someone furious at beauty") is exactly Vukradin and should be left alone. The only systemic issue is a heavy em-dash load (12 in prose, several genuinely convertible to colons/periods); the single real voice-spec snag is the one hardboiled "we both knew how that goes" landing, which should be re-pointed back toward live outrage.
+The interior passages restate one realisation four times and none of them land in Vukradin's verdict register, which leaves the scene's best material — the fan club, the performance — carrying prose that keeps explaining it afterward. Spot-edit the four interior beats; the scene does not need re-narrating.

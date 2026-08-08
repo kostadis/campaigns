@@ -1,63 +1,77 @@
 # Voice Critique — Soma, scene 04: Cheese, Business Plans, and Departure Preparations
 
-**Narration:** /home/kroussos/Phandalin/Phandalin/summaries/20260623/gm-assist-doc.md (## Soma — Cheese, Business Plans, and Departure Preparations)
-**Voice spec:** /home/kroussos/Phandalin/Phandalin/voice/soma_new_pipeline.md
-**Per-char examples:** /home/kroussos/Phandalin/Phandalin/examples/soma.md
+**Narration:** `summaries/20260623/narration/session_doc_scene_04_cheese_business_plans_and_departure_preparations.scrubbed.md`
+**Voice spec:** `voice/soma_new_pipeline.md` (authoritative)
+**Supplementary spec:** `voice/v1/soma_voice.md`, `voice/v1/soma-voice-addendum.md`
+**Per-char examples:** `examples/soma.md` (178 lines, five passages — see the register conflict note below)
+**Genre:** `voice/_genre.md`
+
+Line 155 differs from the raw `.md` following today's scrub pass.
 
 ## Flags
 
-### [1] Mechanical scan A — em-dashes in narration prose
+### [1] Banned tic — "with the [X] of a man/someone/a woman who…" (3 occurrences)
 
-Nine narration em-dashes (none inside `"..."` or `*...*`). Soma's dry register tolerates a deadpan beat, but house style converts these. Each judged below; all recommended for conversion.
+> Vukradin, watching the proceedings with the expression of a man who was beginning to understand that prosperity was spreading, muttered, "They really are getting high on the UBT now." (37)
 
-1. > the way good news always comes out in Phandalin — sideways, on the back of money.
+> I looked at Valphine, who looked back with the expression of someone who had seen a miracle and wasn't sure if it was real. (95)
 
-   **Suggested rewrite:** `...comes out in Phandalin: sideways, on the back of money.` (colon — the second half is the definition of the first)
+> I knew the look. I'd seen it on her face before, the hunger of a woman who wanted something strange enough to be dangerous. (161)
 
-2. > Qelline was beside herself — *who would have thought Brewbarry was a man of taste and vision?* —
+**Why:** `voice/_genre.md` line 44 bans this construction outright, and names Soma's own lens as the alternative: "physical-world-first." Her spec says she "notices the physical world first: wounds, posture, hands, breath." All three of these skip the body and go straight to a category of person.
+**Suggested rewrite:** Line 95 → `Valphine looked back at me. Her eyebrows had gone up and stayed there.` Line 161 → `I knew the look. Her hands had gone still on the counter when she said it.` Line 161 is the costliest of the three, because the tic replaces the one physical tell that would make Soma's suspicion land.
 
-   **Suggested rewrite:** `Qelline was beside herself, *who would have thought Brewbarry was a man of taste and vision?*,` (comma; or close with a period before the italic and resume after)
+### [2] Register-wrong vocabulary — modern business diction, lines 95 and 111
 
-3. > took the whole mad scheme like it was scripture — cotton sourcing, the Lathander logo stamped on every robe,
+> Brewbarry, the man who had once charged a dragon bare-handed, was now a textile futurist. (95)
 
-   **Suggested rewrite:** `...like it was scripture: cotton sourcing, the Lathander logo...` (colon introduces the list)
+> The collaboration had officially become a vertical integration. (111)
 
-4. > Vukradin tried to spin it and the lie fell flat on its face — not a shred of it landed — swearing she was
+**Why:** *Textile futurist* and *vertical integration* are twenty-first-century business-school English. Soma's spec: short practical sentences, conclusion before explanation, wisdom from "a long coastal life — weather, hospitality, fishing, mending — not from Enclave doctrine." Failure-prevention rule 1: "Do not make Soma sound literary for its own sake." Rule 4: not "chatty, rhetorical, or philosophically abstract." These are the narrator being clever in a register Soma has no access to.
+**Suggested rewrite:** Line 95 → `Brewbarry charged a dragon bare-handed once. Now he was selling robes.` Line 111 → `Vukradin would make the songs. Brewbarry would make the robes. They had worked out how to sell each other's.`
 
-   **Suggested rewrite:** Break the double-dash parenthetical into sentences: `Vukradin tried to spin it. Not a shred of it landed. He swore she was...` (this also resolves flag [2] below)
+### [3] Scan B — "filed that away," line 127
 
-5. > Valphine read her properly instead, and the read came back clean and certain — Linene meant every word,
+> *The ID guy.* I filed that away. Somehow I doubted the Consumers' League had such a title, but for Brewbarry, it fit like a glove.
 
-   **Suggested rewrite:** `...the read came back clean and certain. Linene meant every word,` (period — conclusion then evidence, her natural rhythm)
+**Why:** *Filed* is clerical, and it recurs: line 65 already has `I made a note.` Soma does not keep an archive — she notices and judges. Also `fit like a glove` is a dead idiom in a voice built on specific physical observation.
+**Suggested rewrite:** `*The ID guy.* Not a title anyone would print. It fit him anyway.`
 
-6. > she mentioned the thing only I seemed to keep — the hides we'd hauled out of the Whispering Grove,
+### [4] Cross-narrator tic — "Linene, bless her," line 133
 
-   **Suggested rewrite:** `...the thing only I seemed to keep: the hides we'd hauled out of the Whispering Grove,` (colon)
+**Why:** The same construction appears twice in Valphine's scene 02 (lines 19 and 117). Two different narrators reaching for the same folksy warmth is convergence, not voice. Soma's affection shows up as "practical help, restraint, competence, or private concern — not comfort."
+**Suggested rewrite:** `Linene took the whole thing seriously, which surprised me and shouldn't have.`
 
-7. > the necklace of fireballs claimed at last — a quiet Alagondar branch, no title, no army,
+### [5] Cross-narrator tic — "ever the X" (3 occurrences)
 
-   **Suggested rewrite:** `...claimed at last. A quiet Alagondar branch, no title, no army,` (period — clean stop, then the plain catalogue)
+> Vukradin, ever the enabler: "Goes well with the wine." (35)
 
-8. > Then Neverwinter, with the Shrine of Savras left behind us — *did we have any quests in that direction?* I asked,
+> Valphine, ever the supply-chain mind: "The source of Phandalin cotton, or something?" (103)
 
-   **Suggested rewrite:** `...left behind us. *Did we have any quests in that direction?* I asked,` (period before the italic thought)
+> Valphine, ever the pragmatist, put her real talents to work. (157)
 
-(Borderline note: item 1 reads almost in-voice as a deadpan colon-beat; flagging for consistency with the house em-dash pass, low urgency. Items 4–5 are the highest-value conversions because the dashes there are doing emotional pile-on work that periods would blunt back toward Soma's flat verdict register.)
+**Why:** Three in one scene. `ever the pragmatist` is also used of Brewbarry in scene 02 line 65 — the same epithet, two different characters, two different narrators. See the summary report: this is a corpus-level tic present in three of the four example files, so it will keep returning until `_genre.md` names it.
+**Suggested rewrite:** Line 35 → `Vukradin poured. "Goes well with the wine."` Let the action do the characterising.
 
-### [2] cliché / on-the-nose idiom
+### [6] Mechanical scan A — 10 narration-level em-dashes
 
-> Vukradin tried to spin it and the lie fell flat on its face — not a shred of it landed — swearing she was *absolutely on your side, you can trust her.*
+Lines 11, 17, 37, 45, 111, 133, 145, 161, 169, 185. All unspaced (`spread—rounds`), matching scene 02's convention and differing from scenes 01, 03 and 05.
 
-**Why:** "the lie fell flat on its face" is a stock idiom and "not a shred of it landed" restates it; Soma reads people through tells, not narrated idiom, and she doesn't pile on.
-**Suggested rewrite:** `Vukradin tried to spin it. The lie sat there and did nothing. He swore she was *absolutely on your side, you can trust her.*` (flat verdict, dead-beat humor in the vein of "And Boney stood by and did nothing?")
+**Why:** Soma's spec is "short, practical sentences. Conclusion before explanation." The em-dash defers the conclusion by splicing a qualifier in front of it.
+**Suggested rewrite:** Line 17 `She gestured at the spread—rounds and wedges of every age and color` → `She gestured at the spread. Rounds and wedges, every age and color.`
 
-### [3] cute alliteration / repetition
+## Possible fabrication (flagging, not asserting)
 
-> But Brewbarry asked for a tasting, and that is where the whole afternoon went sideways and sweet.
+Line 127 refers to **"the Consumers' League"** as though it were an established body. I find no reference to it in `docs/`, and it does not appear in the entity registry. If it is not campaign canon, this is invented institutional detail entering narration. Worth a check before assembly.
 
-**Why:** "sideways and sweet" is a prettied-for-its-own-sake pairing (failure rule 10), and "sideways" already carried the scene's opening line ("comes out... sideways, on the back of money") — the echo reads as a flourish, not a tell.
-**Suggested rewrite:** `But Brewbarry asked for a tasting, and that is where the afternoon turned.` (blunt it; let the next sentence's concrete detail do the sweetening)
+## Register conflict in the inputs (not a fault of this scene)
+
+`examples/soma.md` is internally inconsistent with `voice/soma_new_pipeline.md`. The Chapter 03, 04 and 14 passages are terse and dry — the spec's Soma. The Chapter 08 and 11 passages are lush and literary ("its subtle shimmer hinting at its significance," "impossible geometries," "a hypnotic dance"), which the spec explicitly forbids in rules 1, 5 and 10. The pipeline receives both. When the narration drifts literary, it is following half its own inputs.
+
+## Not flagged (working as intended)
+
+Line 27 (`I took a long, slow breath, the kind that settles under a shell`) and line 65 (`Somewhere under that thick skull, there was actual philosophy forming`) are exactly right — bodily, dry, verdict-first. Line 201's `*My bale,* I thought` uses the signature correctly and lands the scene.
 
 ## Verdict
 
-Strong, genuinely in-voice block — the naturalist similes ("dropped wheel of it," "blighted root hums under healthy grass"), the deadpan verdicts, and "shell-sprouts / sorted milk by altitude" all land; no register-wrong vocab (scan B clean), and "arithmetic" is correctly her dry-observer mode. The only systematic issue is em-dash density (9 in prose), with two small prose tics ("lie fell flat on its face," "sideways and sweet") worth blunting toward her flat register.
+Three banned-tic instances and two business-school phrases pull Soma toward a generic clever narrator, and the tic at line 161 costs the scene its best physical tell. Spot-edit; the frame and the closing beat are sound.

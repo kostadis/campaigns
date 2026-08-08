@@ -133,11 +133,6 @@ from: ../scene_extractions_new/03_the_universal_basic_treasure_proclamation.md
 > "Oh — no, persuasion, sorry."
 > "17. 17."
 
-**[GM]**
-> "Oh, dude — no, you rolled with advantage. You rolled with advantage. This one was an advantage."
-> "It's a good thing you rolled that 17."
-> "That one was a 1, but because of your special abilities? Yes."
-
 **[GM]** — *the crowd reacts*
 > "Alright, there's general cheering. Everybody's like — yes! Yes! Then Jenna looks appalled."
 
@@ -366,7 +361,7 @@ from: ../scene_extractions_new/03_the_universal_basic_treasure_proclamation.md
 > "Everybody clapped."
 
 **[scene tag — The 5% cut]**
-- The DM rewards the clever solution; the party laundering scheme made explicit.
+- The clever solution is rewarded; the laundering scheme is made explicit.
 
 **[GM]**
 > "That was totally not expected. Alright, take your treasure gift. That was a very clever solution to the problem."
@@ -443,10 +438,9 @@ from: ../scene_extractions_new/03_the_universal_basic_treasure_proclamation.md
 > "Exactly."
 
 **[scene tag — Soma's Arcana check]**
-- The party rolls poorly; Soma's staff saves the read.
+- The party gets nowhere; Soma's staff saves the read.
 
 **[GM]**
-> "In fact — roll an Arcana check."
 > "Come on, you gotta figure it out."
 
 **[Vukradin]**

@@ -5,50 +5,129 @@ narrator: Brewbarry
 scene_name: Return to Phandalin
 session: 20260623
 ---
-Thirty gold. We split a mountain of trouble and walked out with thirty gold, the lump of dragon hoard nobody would touch still sitting up at Icespire like a stone in a boot. I counted my share twice. Same number both times. I have lost more than that betting on which of two flies would leave a tankard first.
 
-So I started thinking. Thinking is a contest too, if you do it right. You line up the bad idea against the good idea and you let them wrestle and you keep whichever one is still standing.
+The road to Phandalin felt shorter than it should have. Maybe because I had a lot on my mind. Or maybe because I kept counting the gold we weren't spending.
 
-What was still standing was the bathrobe.
+Thirty pieces. Thirty pieces from the mine, and a mountain of frozen treasure we couldn't touch. Vukradin carried it like a curse instead of a fortune. He walked ahead of me with his shoulders up around his ears. He does that when something isn't fair.
 
-The road bent south toward Phandalin and Vukradin was at it again, mourning his studio. Defeated dragons. Cleared a mansion. Owns a piece of a gold mine. And no studio. *Doesn't it seem unfair?* he said. *It's very unfair.* I let him have that. He's right. It is unfair. But unfair is just a fight you haven't named yet.
+"Doesn't it seem unfair? It's very unfair."
 
-Here is the thing I had figured out, and I said it plain, because I do most things plain. From now on, every time we find treasure, whether it belongs to us or not, there should be a find-us fee. And some of that gold should go in my pocket, toward me building that bathrobe business. I made a mental note about it too. About the dragon's hoard. Somebody is going to manage that pile, and when they do, a finder's fee is the right and proper thing to offer. The right and proper thing. I have never in my life worried about right and proper and I was surprised how good it tasted to say.
+I didn't ask what. I knew. Dragons dead, mansions cleared, a gold mine with my name on the shares, and still his music studio sat as nothing but a dream with good intentions.
 
-Vukradin lit up. *I'm thinking like you, Brewbarry,* he said. *I've got a plan.* And I told him — if your music studio wants to be a sponsor for my bathrobe business, I'm willing to give you a little logo on the bathrobes. Maybe.
+"I didn't say I wasn't."
 
-*I do cross promotions,* he said.
+Fair. He never said he wasn't blessed. Just that blessing didn't pay for lumber and instruments.
 
-Yes, I said.
+I thought about the bathrobe. The one I'd taken from Falcon's Lodge, soft and warm and mine for exactly as long as it took to be caught. I gave it back under the Zone of Truth. But I remembered how it felt. That's the thing about soft things. They stay with you.
 
-*That's great,* he said.
+"From now on, every time we find treasure — whether it belongs to us or not — there should be a find-us fee. And some of that gold should go in my pocket, toward me building that bathrobe business."
 
-I have stolen a bathrobe. I will say that, because Valphine made us all say everything under that ring of light and I have decided to keep saying true things now that the habit started. I stole one from Falcon's Lodge. It was the softest thing I have ever held. Softer than a goodberry going down, and I do not like to think about goodberries. I gave it back. I still want it. So I am going to make my own, a thousand of them, and nobody can take a stolen thing from a man who is selling it.
+The words came out before I could stop them. The group turned to look at me. Vukradin's face did something complicated. Surprise. Then calculation. Then the grin.
 
-There was politics on the road too. Some legal word, *sheetment*, that Valphine dug up. A way to force a real election so Harbin Wester stops being a fig leaf with a chain around his neck. Vukradin wants to give the man one more shot to abdicate. I do not care about Harbin Wester. I care about the bathrobe.
+"I'm thinking like you, Brewbarry. I've got a plan."
 
-We dropped Vorga and her tribe at Icespire. Escort done, debt paid. Prutha took his five bright-eyed orcs off to convert Vorga's lot to Valphine's morning god. Then it was just us and Boney, who does not tire and does not complain and would make an excellent business partner if he had hands.
+I didn't ask what the plan was. Plans are Vukradin's job. I just knew I wanted a bathrobe. Maybe a whole business of them. Softness, measured like a contest, and I intended to win it.
 
-Phandalin barely looked up when we walked in.
+"If your music studio wants to be a sponsor for my bathrobe business, I'm willing to give you a little logo on the bathrobes. Maybe?"
 
-We killed Cryovain. We are heroes. *Hi, how are you,* said Barthen's. *Pleasant to see you,* said the Smithy. Yesterday's news. *What have you done for me lately, Titan,* Soma muttered, and that is exactly it. You win the big fight and the crowd goes back to its bread.
+"I do cross promotions."
 
-Valphine tried to fix it the Valphine way. Told the smith about the Talosians we destroyed. Because they were weak, she said. *You need to follow a stronger God.*
+"Yes."
 
-Vukradin winced. You protected the town, he told her. You stopped a threat.
+"That's great."
 
-*The town has been protected by the strength of Lathander,* she tried.
+And just like that, we had a deal. A Lathander logo on a bathrobe. A music studio sponsoring softness. I didn't understand half of it. I understood the part that mattered: two exiles building something that wasn't exile.
 
-*Okay,* he said. *That's a much better spin. We gotta work on your spin.*
+We stopped at Icespire Hold on the way. Vorga and her orcs took the place as their new base, and I watched Prutha stand among them, Valphine's convert with Lathander in his eyes. He was going to stay. Convert Vorga's people to the bright dumb devotion. I didn't say anything. Something about an orc army marching through mountains in a drow cleric's name felt like a problem for tomorrow.
 
-I had my own spin. Destroy the heathens, sure, unless they want to buy bathrobes, in which case they're our customers. They're potential customers and shouldn't be destroyed.
+Today, we walked into Phandalin.
 
-That set Vukradin off about the gold. *It's stolen,* he said. *It's blood. Every last penny. Last copper, it's blood.*
+The town looked the same. That was the strange part. We'd killed a dragon since we were last here, me and the halberd and the sword that hummed against cold, and the town just sat there, baking in the afternoon sun, same roofs, same doors, same people.
 
-*Gold is gold is gold,* said Soma.
+"You haven't been to Phandalin since you defeated Cryovain, right?"
 
-Customers are customers, I said. And then I said the thing I'm proudest of all day. Yeah, but blood can be turned into something soft and wonderful, like a Brewbarry bathrobe.
+"No."
 
-*If it is treated fairly,* Vukradin said, *and I have a plan for that.*
+"And so, you have been in Phandalin since the last time we spoke. So, people… you're the heroes, right? You're still heroes, but it's yesterday's news."
 
-Alright, I told him. Alright. I'll follow your lead. I always do. He sets the rule and I carry it, and somewhere under all his fairness there's a logo with my name stitched into something soft.
+"Fair, fair."
+
+"What have you done for me lately, Titan."
+
+Soma says things like that. Short. True. *Titan.* That was me, once. A giant of a man who'd done great things. And now?
+
+"Hi, how are you."
+
+That was all we got walking past Barthen's Provisions. A nod. A greeting. The discount, still there, maybe.
+
+I watched Valphine's face as we walked. She was building up to something, I could tell. Her chin came up. She was going to talk about her god, and she was going to do it loud.
+
+"Did you hear about the Talosians that we destroyed?"
+
+The words hung in the air. A woman on the street turned, frowning slightly, not sure she'd heard right.
+
+"Valphine, your voice is a little bit off."
+
+"Sorry — the heathen followers of Talos that we destroyed. Has [inaudible] heard about that?"
+
+That was the thing about Valphine. She could whisper a prayer in the Underdark and make it sound like silk, but out here, in the sun, her voice went sharp. Violence got her excited. I knew that. I'd fought beside her enough.
+
+Nobody had heard. That was the problem. We'd killed cultists at the Woodland Manse, torn them apart with magic and steel, and Phandalin didn't know or care. Yesterday's news.
+
+"Yes, because they were weak, and…"
+
+"You need to follow a stronger God."
+
+I watched Vukradin's face. That pinch between his eyebrows. He was going to turn her sharp edges into something the town could swallow.
+
+"…threat to the town. You protected the town."
+
+"The town has been protected by the strength of Lathander."
+
+"Okay. That's a much better spin. We gotta work on your spin."
+
+"We still must destroy the heathens."
+
+"Later. Later. Later. Later."
+
+I laughed. Couldn't help it. Vukradin coaching Valphine on public speaking while she mentally listed which heathens to destroy next. It was the most us thing we'd done all day.
+
+"Destroy the heathens unless they want to buy bathrobes, in which case they're potential customers and shouldn't be destroyed."
+
+The logic was simple. Clean. If someone's a threat, you deal with them. If someone's a customer, you don't. That's not contradiction. That's commerce.
+
+Vukradin turned to me. Here it comes, I thought. Money.
+
+"Green — is that what you're saying, Brewbarry? You know it's stolen."
+
+"Customers are customers."
+
+"Green? It's blood."
+
+The word hit me. Blood. I'd seen blood. I'd spilled plenty of it, from stirges and ogres and men who worshiped storm gods. Gold bought with that. Was it different from any other gold? I wasn't sure. But I knew what Vukradin was doing. Measuring every coin against the harm that bought it.
+
+"Every last penny."
+
+"Gold is gold is gold."
+
+Soma again. Three beats, like a drum. She says the short true thing while the rest of us are still talking.
+
+"Last copper, it's blood."
+
+"Yeah, but blood can be turned into something soft and wonderful, like a Brewbarry bathrobe."
+
+The words came out before I thought them, and everyone stopped. Vukradin stared at me. Soma didn't react. Valphine almost smiled. The real kind.
+
+Blood into bathrobes. I liked that. I liked the idea that all the violence, all the killing, could end as something soft and warm and good. That the red could become cream-colored and fluffy.
+
+"If it is treated fairly, and I have a plan for that."
+
+Vukradin. Of course he had a plan. He always has a plan. Plans for studios, plans for elections, plans for turning blood into something that wouldn't keep him up at night.
+
+"Alright, alright, I'll follow your lead."
+
+Because I would. I always would. That's the deal we made. Him with his clean gold and his music studio, me with my bathrobes and my need to be something more than the cautionary tale. I'd follow his lead into whatever came next.
+
+The town square opened up ahead of us. Barthen's Provisions behind us. The Smithy behind us. Phandalin, same as it ever was, same as it would be tomorrow.
+
+We walked into it together. Still heroes. Still yesterday's news. Still carrying a frozen hoard we couldn't spend and a plan to build something soft.
