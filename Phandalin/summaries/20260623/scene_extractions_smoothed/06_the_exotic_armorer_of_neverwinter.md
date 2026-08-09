@@ -1,6 +1,7 @@
 ---
 scene: The Exotic Armorer of Neverwinter
-source: gmassist
+source: voice-smoothed
+from: ../scene_extractions_new/06_the_exotic_armorer_of_neverwinter.md
 ---
 
 # The Exotic Armorer of Neverwinter
@@ -20,7 +21,7 @@ source: gmassist
 
 **[scene tag — Entering the Armorer's Shop]**
 - Along the way to the Protector's Enclave, the party finds a high-end individual who makes armor and equipment out of exotic materials, advertising designer goods and very high-end fashions.
-- The GM asks whether Gary/Valphine wants to approach him; the whole party walks in.
+- The GM asks whether Valphine wants to approach him; the whole party walks in.
 
 **[Valphine]** — *deciding to approach*
 > "Yeah."
@@ -35,19 +36,13 @@ source: gmassist
 > "Go in, sure, why not?"
 
 **[GM]** — *the four enter; the Golden Eyes draw notice*
-> "I'm just asking! Alright, so Valphine…"
-> "Right, so the four of you walk in."
-> "Of course, you've got the whole Golden Eyes thing going, right?"
-> "And this guy happens to be a follower of the Morning Lord."
+> "I'm just asking! Alright, so Valphine… Right, so the four of you walk in. Of course, you've got the whole Golden Eyes thing going, right? And this guy happens to be a follower of the Morning Lord."
 
 **[Valphine]**
 > "Oh, great."
 
 **[GM]** — *the proprietor recognizes Valphine*
-> "And he's like, he goes for a moment."
-> "You have the sign of the Morning Lord!"
-> "You have the blessing of her! You have the blessing! Pauses and goes."
-> "Are you… are you the drow that Brother Aldric speaks of? The one who converted to the blessed teachings of the Morning Lord?"
+> "And he goes, for a moment: You have the sign of the Morning Lord! You have the blessing of her! You have the blessing! Pauses and goes: Are you… are you the drow that Brother Aldric speaks of? The one who converted to the blessed teachings of the Morning Lord?"
 
 **[Valphine]**
 > "That's right."
@@ -59,13 +54,13 @@ source: gmassist
 > "Well, we have these dragon scales here, and we need some help crafting them into scale mail."
 
 **[GM]** — *agreeing in exchange for a blessing*
-> "I would be delighted, I would be delighted, and, and, and, pauses. This would be a great honor, for me, and as long as, as long as you were to say a blessing for me and my family, Valphine."
+> "I would be delighted, I would be delighted, and— and— pauses. This would be a great honor for me — as long as you were to say a blessing for me and my family, Valphine."
 
 **[Valphine]**
 > "Of course."
 
 **[Vukradin]** — *joking about price*
-> "of charge. The best kind."
+> "…of charge. The best kind."
 
 **[GM]**
 > "No, he didn't say that."
@@ -75,7 +70,7 @@ source: gmassist
 > "No, that's what I said."
 
 **[GM]** — *the cost still applies*
-> "So he says, but Valphine, as much as I would like to do this for free, and gratis, unfortunately, it takes time and money. Any little money you can give would be helpful to cover the costs."
+> "So he says: but Valphine, as much as I would like to do this for free and gratis, unfortunately, it takes time and money. Any little money you can give would be helpful to cover the costs."
 
 **[scene tag — The Original Quote]**
 - Earlier the GM had established the crafting cost.
@@ -84,7 +79,7 @@ source: gmassist
 > "So it says that it will cost us 1,675 gold, and…"
 
 **[Vukradin]**
-> "We don't, we don't have that."
+> "We don't— we don't have that."
 
 **[Valphine]** — *the negotiation*
 > "Well, we have 700."
@@ -102,7 +97,7 @@ source: gmassist
 > "And all the money, you're gonna spend it all."
 
 **[Valphine]**
-> "Well, worst time."
+> "Well, worst time. [unclear]"
 
 **[Soma]**
 > "No, math!"
@@ -111,21 +106,20 @@ source: gmassist
 > "1600, so we can't do that."
 
 **[GM]** — *the proprietor undercuts his own quote*
-> "Alright, so you're, you're going with, he goes…"
+> "Alright, so you're going with— he goes…"
 
 **[Vukradin]**
 > "Fun money to make money. Alright, I got it."
 
 **[GM]**
-> "He says, he says, Valphine, that is too generous an award. 300 gold pieces for the chosen of Lathander."
+> "He says: Valphine, that is too generous an award. 300 gold pieces for the chosen of Lathander."
 > "Very well. And…"
 
 **[Valphine]** — *requesting the emblem*
 > "Make sure there's an emblem of Lathander on the back of the armor."
 
 **[GM]**
-> "I was, I was going to assume that was what was going to happen."
-> "Yes."
+> "I was going to assume that was what was going to happen. Yes."
 
 **[Valphine]** — *the armor's intended wearer*
 > "This will be for Brewbarry, though."
@@ -134,7 +128,7 @@ source: gmassist
 > "Alright, we're giving this guy 300 gold, wow."
 
 **[GM]**
-> "Wait, hold on, hold on, hold on."
+> "Wait, hold on, hold on."
 
 **[Brewbarry]**
 > "So we get something in return."
@@ -146,15 +140,13 @@ source: gmassist
 > "Brewbarry will be wearing this."
 
 **[GM]**
-> "Is he one of… the proprietor stops and goes, His li- his… Brewbarry."
-> "Oh."
-> "Brewbarry works for you? Is a convert to the Temple of Lathander? Of the Morning Lord?"
+> "Is he one of… the proprietor stops and goes: His li— his… Brewbarry. Oh. Brewbarry works for you? Is a convert to the Temple of Lathander? Of the Morning Lord?"
 
 **[Brewbarry]**
 > "Brewbarry works for no one, but Brewbarry has much respect for [Lathander], yes."
 
 **[GM]** — *the proprietor's overjoyed reaction and racial stereotypes*
-> "He goes, I knew it! I knew it! Brother Aldric was right! This was the right decision to embrace the drow! They would see the kind injustice, the justice of the beauty and the warmth of the sun, to cure their whole… their… Then he starts going on a whole series of racial stereotypes about drow."
+> "He goes: I knew it! I knew it! Brother Aldric was right! This was the right decision to embrace the drow! They would see the kind injustice, the justice of the beauty and the warmth of the sun, to cure their whole… their… Then he starts going on a whole series of racial stereotypes about drow."
 
 **[Vukradin]** — *dry foreshadowing*
 > "Well, nothing bad could ever come of this."
@@ -163,9 +155,7 @@ source: gmassist
 > "[inaudible]"
 
 **[Vukradin]**
-> "You see, an upcoming drow invasion into Neverwinter, and the people just throw open the doors, they're like, come in!"
-> "Or they just slaughter them all."
-> "This'll go really well, guys."
+> "You see, an upcoming drow invasion into Neverwinter, and the people just throw open the doors, they're like, come in! Or they just slaughter them all. This'll go really well, guys."
 
 **[Brewbarry]**
 > "Alright."
@@ -191,5 +181,3 @@ source: gmassist
 
 **[GM]** — *the work will be done before they leave*
 > "I will assert it will be done by the time you're leaving town."
-
-

@@ -1,6 +1,7 @@
 ---
 scene: The Universal Basic Treasure Proclamation
-source: gmassist
+source: voice-smoothed
+from: ../scene_extractions_new/03_the_universal_basic_treasure_proclamation.md
 ---
 
 # The Universal Basic Treasure Proclamation
@@ -30,7 +31,7 @@ source: gmassist
 - Vukradin tells Harbin Wester to call a meeting of the Privy Council; the mayor balks at the speed.
 
 **[GM]** — *as Harbin Wester, reacting to the demand*
-> "Harbin Wester is like, so soon, so quickly? Right now?"
+> "Harbin Wester is like — so soon? So quickly? Right now?"
 
 **[GM]** — *prompting the persuasion attempt*
 > "I'm assuming you're using your Silver Tongue."
@@ -39,14 +40,14 @@ source: gmassist
 > "To persuade him."
 
 **[GM]**
-> "I'm just saying, you know, did you roll a 28?"
+> "I'm just saying — did you roll a 28?"
 
 **[Vukradin]** — *switching tactics*
 > "We're gonna use intimidation."
 > "I only got a 10."
 
 **[GM]** — *as Harbin Wester, rejecting the intimidation*
-> "So he turns around and he says, well, you know, your intimidation lands as flatly as your sweet tongue would have landed well."
+> "So he turns around and says: well, your intimidation lands as flatly as your sweet tongue would have landed well."
 
 **[Vukradin]**
 > "Right. I'm getting… the hubris is rising."
@@ -62,24 +63,22 @@ source: gmassist
 > "I can make my voice boom to announce that there is a gathering."
 
 **[Vukradin]**
-> "Decent performance outside. Not as good as inside, you know, but they're drunker now, so they're easier to persuade."
+> "Decent performance outside. Not as good as inside — but they're drunker now, so they're easier to persuade."
 
 **[Vukradin]** — *choosing the venue*
 > "I guess he would probably perform on the green, right?"
 
 **[GM]** — *assembling the crowd*
-> "Okay. Alright, so you're on the town green, and, you know, the various, the various, you know, people start to gather, you see members of the, the town council, Harbin himself is starting to show, has shown up, I mean, Petunia is there."
-> "Right. Big Al Kalazorn is there, Qelline Alderleaf is there, Linene Graywind is there, Ser Kaelen is there, I mean, they're all there. Alright. Even Spider-Man, Elsa, his bar team, Barthen, the people working, you know, the woodworker, they're all there, right?"
+> "Okay — so you're on the town green, and people start to gather. You see members of the town council. Harbin himself has shown up. Petunia is there. Big Al Kalazorn is there, Qelline Alderleaf is there, Linene Graywind is there, Ser Kaelen is there — they're all there. Even Spider-Man, Elsa, his bar team, Barthen, the people working, the woodworker. They're all there, right?"
 
 **[GM]** — *the crowd's mood*
-> "They're, they're, like, they're, like, dancing, they're chillaxing, you know, everybody's feeling cool and relaxed, alright."
+> "They're dancing, they're chillaxing — everybody's feeling cool and relaxed."
 
 **[Vukradin]** — *opening the rally*
-> "Ladies and gentlemen, we are adventurers! We've killed the dragon! We…"
-> "Drove out the orcs! We saved Phandalin! Yay!"
+> "Ladies and gentlemen, we are adventurers! We've killed the dragon! We drove out the orcs! We saved Phandalin! Yay!"
 
 **[GM]** — *Brin and Giles in the crowd*
-> "Brin and Giles are there, and they're, they're, you know, they're engaged, they're, they're looking sunburnt. Again."
+> "Brin and Giles are there. They're engaged, they're looking sunburnt. Again."
 
 **[Soma]**
 > "Kissed by Lathander."
@@ -88,13 +87,13 @@ source: gmassist
 - Vukradin lays out his critique of the government's treatment of treasure.
 
 **[Vukradin]** — *the address*
-> "What I wanna say is… That your government, led by Wester over here."
+> "What I wanna say is… that your government, led by Wester over here—"
 
 **[GM]**
 > "Harbin Wester, yes? Yeah."
 
 **[Vukradin]**
-> "Believes that the way that adventurers should work is that they should go do heroic things, and then they should claim all the treasure for themselves."
+> "—believes that the way adventurers should work is that they should go do heroic things, and then claim all the treasure for themselves."
 
 **[GM]**
 > "Everybody's kind of staring."
@@ -107,21 +106,21 @@ source: gmassist
 - Linene and Jenna weigh in on the financial theory.
 
 **[GM]** — *as Linene Graywind, raising her hand*
-> "Well, I mean, strictly speaking, it may not have been stolen by… from me, but it may have been stolen from somebody else a long time ago, and so by you bringing it into market… hold on, by you bringing it into the market."
-> "I, I get to… it recirculates…"
+> "Well, strictly speaking, it may not have been stolen from me — but it may have been stolen from somebody else a long time ago. And so by you bringing it into the market… hold on, by you bringing it into the market—"
+> "I get to… it recirculates…"
 
 **[GM]** — *Linene continuing*
-> "Right? And so when you spend that money, you're not… you're making it mine, because when it's over there in the hands of the monsters."
+> "Right? And so when you spend that money, you're… you're making it mine. Because when it's over there in the hands of the monsters—"
 
 **[Vukradin]**
 > "Hang on, all your questions will be answered."
 
 **[GM]** — *as Jenna Roscoe*
-> "Jenna goes, this has been very well covered in the dialectics of the financials… yes."
+> "Jenna goes: this has been very well covered in the dialectics of the financials… yes."
 
 **[Vukradin]** — *the commitment*
 > "If we can find the rightful owner of that treasure, then it needs to be returned. But we have found, as adventurers, that many times we cannot find the rightful owners of this treasure."
-> "And so, I swear to you now, here, A new, universal, basic treasure."
+> "And so I swear to you, now, here: a new, universal, basic treasure."
 
 **[Soma]**
 > "UBT…"
@@ -131,36 +130,35 @@ source: gmassist
 
 **[Vukradin]**
 > "See how it went over."
-> "Oh no, persuasion, sorry."
+> "Oh — no, persuasion, sorry."
 > "17. 17."
 
 **[GM]**
-> "Oh, dude, no, no, no, you rolled with advantage. You rolled with advantage. No, no, this one was an advantage."
-> "It's a good thing you rolled that for a 17."
-> "That one was at 1, but because of your special abilities? Yes."
+> "Oh, dude — no, you rolled with advantage. You rolled with advantage. This one was an advantage."
+> "It's a good thing you rolled that 17."
+> "That one was a 1, but because of your special abilities? Yes."
 
 **[GM]** — *the crowd reacts*
-> "Alright, there is a… there's general cheering, yeah, you know…"
-> "Everybody's like, yes! Yes! Then, you know, Jenna goes, looks appalled."
+> "Alright, there's general cheering. Everybody's like — yes! Yes! Then Jenna looks appalled."
 
 **[scene tag — Harbin's surprise endorsement]**
 - Vukradin calls out the mayor; Harbin pivots to enthusiastic support.
 
 **[Vukradin]**
-> "what Harbin Wester thinks about this plan. Is he in favor of it, or does he need to be replaced?"
+> "…what Harbin Wester thinks about this plan. Is he in favor of it, or does he need to be replaced?"
 
 **[GM]** — *as Harbin Wester, stuttering over the name*
-> "Harbin Wester says, I am so glad! This was a… this was… I'm… he pauses, he goes."
-> "My good friend, and member of the Privy Council,"
+> "Harbin Wester says: I am so glad! This was a… this was… I'm… — he pauses, he goes:"
+> "My good friend, and member of the Privy Council—"
 > "Vukradin! He actually stutters while trying to remember your name."
 
 **[Vukradin]**
 > "Sounds about right, yup."
 
 **[GM]** — *Harbin claiming credit*
-> "Just in case you thought that was, you know, me not suddenly remembering Vukradin's name, because I think that that is an extraordinary idea, and that is why we have declared him extraordinary, we have declared the income that he produces as part of his adventuring career — Vukradin's UBT."
-> "The Privy Council had heard this proposal, and we were waiting for a few more days before we would make a formal announcement, but I think that since we didn't know it, I think this is as good a way to make an announcement as possible. All hail to Vukradin and the…"
-> "Pauses and says, what is the name of your adventuring group?"
+> "Just in case you thought that was me not suddenly remembering Vukradin's name — because I think that that is an extraordinary idea, and that is why we have declared him extraordinary, we have declared the income that he produces as part of his adventuring career: Vukradin's UBT."
+> "The Privy Council had heard this proposal, and we were waiting for a few more days before we would make a formal announcement — but I think that since we didn't know it, this is as good a way to make an announcement as possible. All hail to Vukradin and the…"
+> "Pauses and says: what is the name of your adventuring group?"
 
 **[scene tag — Naming the group]**
 - The party debates a band/adventuring name.
@@ -172,16 +170,16 @@ source: gmassist
 > "Slayers of Cryovain."
 
 **[Soma]**
-> "But that's not where we couldn't have started that."
+> "But that's not where we couldn't have started that. [unclear]"
 
 **[Vukradin]**
 > "We'll have to have a slight sidebar. I don't know, what name do you guys want?"
 
-**[Soma]** — *casting himself and the band roles*
-> "No, it would be the band's name, right? At this point, like, it's a…"
+**[Soma]** — *casting the band roles*
+> "No, it would be the band's name, right? At this point it's a…"
 
 **[Vukradin]**
-> "Well, not yet… Soma's not in band, so…"
+> "Well, not yet… Soma's not in the band, so…"
 
 **[Soma]**
 > "No, no, she's just a tour guide. I'm your manager at this point."
@@ -190,45 +188,44 @@ source: gmassist
 > "Valphine and Vukradin's death metal…"
 
 **[GM]** — *as Harbin, giving up on the name*
-> "I mean, yeah, yeah."
-> "Yeah, well, all hail the adventuring group!"
+> "I mean — yeah. Yeah, well, all hail the adventuring group!"
 
 **[scene tag — Writing it into the charter]**
 - Vukradin codifies the policy; Harbin leads cheers.
 
 **[Vukradin]**
-> "Okay, so, so, Wester, we're gonna be writing into the town charter, then, that all adventurers, will distribute their treasure as universal basic treasure to the citizens of Phandalin, unless they can find the rightful owner, of course."
+> "Okay, so — Wester, we're gonna be writing into the town charter, then, that all adventurers will distribute their treasure as universal basic treasure to the citizens of Phandalin. Unless they can find the rightful owner, of course."
 
 **[GM]** — *as Harbin Wester*
-> "Harbin says, I think that's a wonderful idea! Huzzah, huzzah, huzzah!"
+> "Harbin says: I think that's a wonderful idea! Huzzah, huzzah, huzzah!"
 
 **[Vukradin]**
 > "So it's written in, alright."
 
 **[GM]** — *Jenna's reaction*
-> "Oh, no, no, Jenna, Jenna… Jenna is looking really appalled."
+> "Oh, no — Jenna… Jenna is looking really appalled."
 
 **[Vukradin]**
 > "Okay. Is she outvoted?"
 
 **[GM]**
-> "Well, yes, but… yeah, but she's, like, looking appalled, I'm not…"
+> "Well, yes, but… she's looking appalled, I'm not…"
 
 **[Soma]**
 > "Democracy sucks."
 
 **[GM]**
-> "Alright, well, I mean, I… mob rule sucks."
+> "Alright, well, I… mob rule sucks."
 
 **[scene tag — Donating the dragon slag]**
 - The party offers the fused gold; it can't be used as-is.
 
 **[Vukradin]**
-> "And I would say, as the first contribution to the UBT fund, we have this melted horde of dragon gold that we can't do anything else with."
+> "And I would say, as the first contribution to the UBT fund, we have this melted hoard of dragon gold that we can't do anything else with."
 
 **[GM]** — *the catch*
-> "Wow, that's so big. Everybody looks at it and goes,"
-> "We thank the noble adventurers, but, we can't actually… it's fused inside of a magical containment thing that you're gonna have to go extract."
+> "Wow, that's so big. Everybody looks at it and goes:"
+> "We thank the noble adventurers, but we can't actually… it's fused inside of a magical containment thing that you're gonna have to go extract."
 
 **[Vukradin]**
 > "Nobody told us that."
@@ -247,7 +244,7 @@ source: gmassist
 - A long debate over who counts as a citizen.
 
 **[GM]** — *as Ser Kaelen*
-> "Ser Kaelen paused, it says, sidebar, sidebar…"
+> "Ser Kaelen pauses and says: sidebar, sidebar…"
 
 **[Vukradin]**
 > "Do it, old man!"
@@ -265,7 +262,7 @@ source: gmassist
 > "I would say property owners within the bounds of Phandalin."
 
 **[Soma]**
-> "landed gentry."
+> "Landed gentry."
 
 **[Vukradin]**
 > "What about renters?"
@@ -274,7 +271,7 @@ source: gmassist
 > "Wait, do they actually have property? I thought they were all serfs or whatever."
 
 **[GM]**
-> "No, they do, they do have properties."
+> "No, they do — they do have properties."
 
 **[Brewbarry]**
 > "As long as you live within the bounds of Phandalin, then you're a Phandalin citizen. How is that? Is that open enough?"
@@ -296,7 +293,7 @@ source: gmassist
 > "That's right, that's right."
 
 **[Vukradin]**
-> "attest under oath with the Zone of Truth spell in effect."
+> "…attest under oath with the Zone of Truth spell in effect."
 
 **[Brewbarry]**
 > "And you have to pay your taxes in Phandalin, too, right?"
@@ -308,8 +305,8 @@ source: gmassist
 - Linene produces a scholarly text and offers to lead a subcommittee.
 
 **[GM]** — *as Linene Graywind*
-> "That doesn't mean they're paying tax… okay, so all of a sudden, you know, like, Linene shows up and says, I think this is a fabulous idea. I've been working on such a proposal for years. She pulls out a book called Candlekeep, you know, the Sage's Universal Theorem for Income Distribution."
-> "It says… and says, if I could suggest, Vukradin."
+> "That doesn't mean they're paying tax… okay, so all of a sudden Linene shows up and says: I think this is a fabulous idea. I've been working on such a proposal for years. She pulls out a paper from Candlekeep — the Sage's Universal Theorem for Income Distribution."
+> "It says… and says: if I could suggest, Vukradin."
 
 **[Vukradin]**
 > "Yes, of course."
@@ -323,7 +320,7 @@ source: gmassist
 > "And the crowd is cheering, right?"
 
 **[GM]** — *the children chime in*
-> "Yeah, yeah, yeah. You know, what, the kids are going, do we get UBT? Do we… Exactly!"
+> "Yeah, yeah. The kids are going: do we get UBT? Do we— Exactly!"
 
 **[Soma]**
 > "We never have to work a day in our lives?"
@@ -335,7 +332,7 @@ source: gmassist
 > "Yeah, it's true."
 
 **[GM]**
-> "As long as Adventurers come."
+> "As long as adventurers come."
 
 **[Valphine]** — *joking about job loss*
 > "There's some sort of magical intelligence stealing their jobs."
@@ -347,9 +344,9 @@ source: gmassist
 - Harbin questions ties to the community; the crowd resolves it.
 
 **[GM]** — *as Harbin Wester, awkwardly*
-> "Hold on, hold on. Right, wait, hold on. Harbin, Harbin, Wester says, Well, of course, Valphine is a, member of the community, an upstanding, cleric, you know, her, her, you know, her, you know, he's…"
-> "he's trying very awkwardly to say that, you know, Valphine would most certainly, and that the Temple of Lathander that she has set up, the searing pain of justice would definitely be… is definitely within the city boundaries. He goes, of course, Vukradin is absolutely, you know, is a member of the Privy Council."
-> "But, the Tortle, and, the, the Barbarian!"
+> "Hold on, hold on. Right, wait, hold on. Harbin Wester says: well, of course, Valphine is a… member of the community, an upstanding… cleric, you know, her… her… he's—"
+> "—he's trying very awkwardly to say that Valphine would most certainly, and that the Temple of Lathander that she has set up, the Searing Pain of Justice, is definitely within the city boundaries. He goes: of course, Vukradin is absolutely a member of the Privy Council."
+> "But — the Tortle! And the… the Barbarian!"
 > "Their exact ties to the community!"
 
 **[Brewbarry]**
@@ -363,8 +360,7 @@ source: gmassist
 
 **[GM]** — *as Harbin, resolving it*
 > "But, but I think that we can all agree that Brewbarry and Soma, through their unique contributions, should be considered honorary citizens of Phandalin. I'll take that."
-> "There's, like, there's cheering."
-> "They're sitting there just cheering."
+> "There's cheering. They're sitting there just cheering."
 
 **[Soma]**
 > "Everybody clapped."
@@ -373,7 +369,7 @@ source: gmassist
 - The DM rewards the clever solution; the party laundering scheme made explicit.
 
 **[GM]**
-> "That was totally not expected. Alright, take your treasure gift. Yeah, that was, that was a very clever solution to the problem."
+> "That was totally not expected. Alright, take your treasure gift. That was a very clever solution to the problem."
 > "Give yourself 5%, I guess, of your treasure."
 
 **[Vukradin]**
@@ -398,7 +394,7 @@ source: gmassist
 - Appalled, Jenna rides off.
 
 **[GM]**
-> "Okay, so, there was much cheering, Jenna looks very concerned and jumps on, proceeds to leave town."
+> "Okay, so there was much cheering. Jenna looks very concerned and jumps on… proceeds to leave town."
 
 **[Soma]**
 > "Don't let the door hit you on the way out."
@@ -413,10 +409,10 @@ source: gmassist
 - The party debates how to free the gold.
 
 **[Valphine]**
-> "So are we selling this, 3,700, blood…"
+> "So are we selling this — 3,000 — blood…"
 
 **[Vukradin]**
-> "We have to dispel magic first."
+> "We have to Dispel Magic first."
 
 **[Valphine]**
 > "Prepare that, and then do that?"
@@ -428,7 +424,7 @@ source: gmassist
 > "I can do… Dispel Magic, or Remove Curse."
 
 **[Vukradin]**
-> "Remove curse. You can try it, you can ask Kostadis, whether it helps."
+> "Remove Curse. You can try it — you can ask the GM, whether it helps."
 
 **[Brewbarry]** — *philosophizing*
 > "So when you remove the curse, where does the curse go?"
@@ -437,7 +433,7 @@ source: gmassist
 > "[Same place the] socks go in the dryer."
 
 **[GM]** — *escalating the problem*
-> "So it turns out that, you're… it turns out that this is not just conventional magic."
+> "So it turns out this is not just conventional magic."
 > "So you're gonna have to find an expert who knows about it."
 
 **[Brewbarry]**
@@ -450,7 +446,7 @@ source: gmassist
 - The party rolls poorly; Soma's staff saves the read.
 
 **[GM]**
-> "In fact, the, the, the roll an Arcana check."
+> "In fact — roll an Arcana check."
 > "Come on, you gotta figure it out."
 
 **[Vukradin]**

@@ -1,6 +1,7 @@
 ---
 scene: Cheese, Business Plans, and Departure Preparations
-source: gmassist
+source: voice-smoothed
+from: ../scene_extractions_new/04_cheese_business_plans_and_departure_preparations.md
 ---
 
 # Cheese, Business Plans, and Departure Preparations
@@ -26,13 +27,13 @@ source: gmassist
 - Following the UBT announcement, talk turns to the cheese; Qelline, Big Al, and Linene note the extra cash in people's hands creates opportunity to sell more.
 
 **[GM]** — Qelline and the cheese sellers see opportunity
-> "Oh, yes, the cheese. Well, you know, Petunia's there, Big Al Kalazorn is there, Qelline Alderleaf is there. They're observing that now, with the extra cash in people's hands, there'll be opportunities to sell more cheese."
+> "Oh, yes, the cheese. Petunia's there, Big Al Kalazorn is there, Qelline Alderleaf is there. They're observing that now, with the extra cash in people's hands, there'll be opportunities to sell more cheese."
 
 **[Brewbarry]** — pitching a cheese export
-> "Start a export business."
+> "Start an export business."
 
 **[GM]** — the range of cheese on offer
-> "Oh, yes, well, yes, you know, they have a round of cheese, they're like, do you want the fancy cheese, the not-so-fancy cheese, the expensive cheese? Like, they're cheese choices, you know, do they want the cheese when Petunia ate it, the grass from the upper part of the field, or do you want it from the lower part?"
+> "Oh, yes — they have a round of cheese, they're like: do you want the fancy cheese, the not-so-fancy cheese, the expensive cheese? They're cheese choices — do you want the cheese from when Petunia ate the grass from the upper part of the field, or do you want it from the lower part?"
 
 **[Brewbarry]**
 > "It's getting a bit too technical for Brewbarry."
@@ -41,13 +42,13 @@ source: gmassist
 > "I think we're looking for the regular one."
 
 **[GM]** — Qelline's reaction
-> "Qelline goes, regular cheese. Philistines. Philistines?"
+> "Qelline goes: regular cheese. Philistines. Philistines?"
 
 **[Brewbarry]** — proposing a tasting
 > "Well, can we do some cheese tasting? It depends."
 
 **[GM]** — Qelline delighted by Brewbarry's apparent taste
-> "Okay, so, so, so, Qelline is delighted to hear that you have class. She goes, who would have thought that Brewbarry was a man of taste and vision?"
+> "Okay, so Qelline is delighted to hear that you have class. She goes: who would have thought that Brewbarry was a man of taste and vision?"
 
 **[Brewbarry]**
 > "I know. How is that possible? How's that possible?"
@@ -56,8 +57,7 @@ source: gmassist
 > "Goes well with the wine."
 
 **[GM]** — the tasting becomes an event
-> "Yes, she goes, I'm so glad you said that! So she, you know, she brings out a bottle of wine, red wine, she takes out some cheeses, I mean, this all turns into, like, a…"
-> "A multi-hour…"
+> "Yes, she goes: I'm so glad you said that! So she brings out a bottle of wine, red wine, she takes out some cheeses — this all turns into, like, a… a multi-hour…"
 
 **[Vukradin]**
 > "They really are getting high on the UBT now."
@@ -66,33 +66,33 @@ source: gmassist
 > "Our assistants will be by to pick up the cheese."
 
 **[GM]** — confirming the assistants
-> "Okay, so, and those, and you inform them who they are, [those are Brin and Giles], the… yeah, alright, alright. Well, then we will absolutely keep them a fine round of our finest cheese, and she, and then she goes, Mr. Brewbarry."
+> "Okay — and you inform them who they are, [those are Brin and Giles]. Alright: well, then we will absolutely keep them a fine round of our finest cheese. And then she goes: Mr. Brewbarry."
 
 **[scene tag — Brewbarry Tastes the Cheese]**
 - Brewbarry tastes through the range, sets aside the dried-out ones, and picks a bluish, creamy cheese as his favorite.
 
 **[GM]**
-> "I, I, I, you know, which one of these cheeses was your favorite? So, you know…"
+> "Which one of these cheeses was your favorite?"
 
 **[Brewbarry]**
 > "So I taste the cheese. Is there a big difference in…"
 
 **[GM]**
-> "Well, I mean, you know, some of them are… some of them are more, you know, bluish, some are, you know, some are more creamy, some are more dried out."
+> "Well, some of them are more bluish, some are more creamy, some are more dried out."
 
 **[Brewbarry]** — narrating his selection
 > "Alright, so I put the dried-out stuff aside."
 > "The bluish, creamy stuff, does that taste good?"
 
 **[GM]**
-> "Yes, it tastes very good, it is."
+> "Yes, it tastes very good."
 
 **[Brewbarry]**
 > "Alright, I'll say this one, then. It's only the finest."
 
 **[GM]** — Qelline impressed; Big Al's deadpan
-> "She goes, well then, that you are a discerning customer, Mr. Brewbarry, you are an absolutely discerning customer."
-> "Big Al, she turns to Big Al. I didn't know you had such friends with such class, Big Al. Big Al turns to her and goes, neither did I."
+> "She goes: well then, you are a discerning customer, Mr. Brewbarry. You are an absolutely discerning customer."
+> "Big Al — she turns to Big Al: I didn't know you had such friends with such class, Big Al. Big Al turns to her and goes: neither did I."
 
 **[Valphine]** — questioning the expense
 > "But I don't know that we need the good stuff."
@@ -110,16 +110,14 @@ source: gmassist
 - Brewbarry asks for a wealth-management consultant in Phandalin and is pointed to Linene at the trading house.
 
 **[GM]** — wrapping the cheese tasting
-> "Alrighty, so, with that…"
-> "Alright, with that, is there anything else you want to do in Phandalin before you head out?"
+> "Alrighty, so with that — is there anything else you want to do in Phandalin before you head out?"
 
 **[Brewbarry]** — seeking financial advice
 > "Is there an accountant or a banker in Phandalin?"
-> "Somebody who could manage my personal fortunes."
-> "as well."
+> "Somebody who could manage my personal fortunes as well."
 
 **[Vukradin]**
-> "personal fortune I don't know about."
+> "…personal fortune I don't know about."
 
 **[Brewbarry]**
 > "Well, I'm not gonna get gold, just like the rest of us, right? I want a wealth consultant."
@@ -135,24 +133,24 @@ source: gmassist
 > "So, I ask again, is there a wealth management consultant in Phandalin?"
 
 **[GM]** — pointing to Linene
-> "So, I mean, to be fair, the only wealth management person who would know anything would be Linene, who she was, who's the job is at the trading house."
+> "So, to be fair, the only wealth management person who would know anything would be Linene, whose job is at the trading house."
 
 **[Brewbarry]** — pitching Linene
 > "Okay, can I consult with her, and tell her of my business plan?"
-> "To start a bathrobe factory, so that it can bring softness to, you know."
+> "To start a bathrobe factory, so that it can bring softness to…"
 
 **[GM]**
 > "The good people."
 
 **[Brewbarry]**
-> "And, enrich their lives."
+> "And enrich their lives."
 
 **[GM]**
 > "She says that's a wonderful idea."
 
 **[Brewbarry]**
 > "Yes, so I'd like you to manage my wealth."
-> "Maybe start a market study on the business of."
+> "Maybe start a market study on the business of—"
 
 **[GM]** — Brewbarry's redemption arc noted
 > "Brewbarry's going in a brand new direction ever since he discovered the bathrobe. Yes."
@@ -170,20 +168,19 @@ source: gmassist
 > "Absolutely."
 
 **[Valphine]** — sourcing the cotton
-> "The source of phandalin cotton, or something?"
+> "The source of Phandalin cotton, or something?"
 
 **[Brewbarry]**
-> "Yes, it needs to be blessed by the Lathander's priests, of course."
+> "Yes, it needs to be blessed by Lathander's priests, of course."
 
 **[Valphine]** — branding
-> "Yes. Well, we can put the Lathander's logo on it, too."
+> "Yes. Well, we can put Lathander's logo on it, too."
 
 **[Brewbarry]** — cross-promotion details
 > "Yes, absolutely. It should definitely be your Lathander's logo on it."
 > "And a little [blurb], readable."
-> "Note on, Vukradin's upcoming music studio."
-> "And, I will even throw a 5% off"
-> "for people who also buy Vukradin's masterpiece."
+> "Note on Vukradin's upcoming music studio."
+> "And I will even throw a 5% off — for people who also buy Vukradin's masterpiece."
 
 **[GM]** — the album title
 > "Album. Black Cylinder. That's right."
@@ -206,8 +203,7 @@ source: gmassist
 > "Yes, this is my vision."
 
 **[GM]**
-> "No, no, no, no, no, no, no."
-> "Real life. Real life."
+> "No, no, no, no. Real life. Real life."
 
 **[Vukradin]**
 > "In real life, right?"
@@ -227,33 +223,33 @@ source: gmassist
 > "Everyone will be able to afford it."
 
 **[GM]** — Linene endorses the plan
-> "Yeah, Linene thinks this is a wonderful idea, right? She thinks this is an awesome idea."
+> "Yeah, Linene thinks this is a wonderful idea. She thinks this is an awesome idea."
 
 **[scene tag — The Counting House and the Letter]**
 - Linene suggests seeking capital at the Counting House in Neverwinter and writes a letter of introduction.
 
 **[GM]**
-> "She does say… which she says is that, you know, she says that the best thing to do is to, go to Neverwinter to go see if you could go secure some capital at the counting house."
+> "She does say… what she says is that the best thing to do is to go to Neverwinter and see if you could secure some capital at the Counting House."
 
 **[Brewbarry]**
 > "Okay."
 > "I'll do it."
 
 **[GM]** — writing the note, raising the distribution problem
-> "Alright, and… You write me a note? Yeah, so she writes your note, and then she says that, you know, normally the Lionshield Coster would be delighted to handle distribution of… of the, the… the…"
+> "Alright, and… You write me a note? Yeah, so she writes your note. And then she says that normally the Lionshield Coster would be delighted to handle distribution of… of the… the…"
 > "The bathrobes."
 
 **[Brewbarry]**
 > "Yes, whatever you deem necessary."
 
 **[GM]** — the supply chain problem
-> "But she says, but there's been a small problem with the, it used to be that they had a very cheap distribution method, and now that there's more costly distribution methods that are in play, and she wonders if you could go see if anybody has heard anything in Neverwinter."
+> "But she says there's been a small problem: it used to be that they had a very cheap distribution method, and now there are more costly distribution methods in play. And she wonders if you could go see if anybody has heard anything in Neverwinter."
 
 **[Brewbarry]**
 > "Sure."
 
 **[GM]**
-> "Yeah. About, about what, about what… when… when… when the Lionshield Coster distribution system will be back up and running."
+> "Yeah. About when the Lionshield Coster distribution system will be back up and running."
 
 **[Brewbarry]**
 > "Okay, I can do that, for sure."
@@ -272,14 +268,14 @@ source: gmassist
 > "But if you try to screw me on this."
 
 **[GM]**
-> "No, no, no, no, no."
+> "No, no, no."
 
 **[Brewbarry]**
 > "Consequence."
 
 **[GM]** — Linene takes it on
-> "It literally goes, [so] Linene goes, Brewbarry."
-> "this is your personal quest, now it is my personal quest."
+> "It literally goes — [so] Linene goes: Brewbarry."
+> "This is your personal quest, now it is my personal quest."
 
 **[Brewbarry]**
 > "Excellent, excellent, yeah."
@@ -300,8 +296,8 @@ source: gmassist
 > "Valphine checks with Insight whether or not she's sincere."
 
 **[GM]** — confirming sincerity (19)
-> "I'm, yeah, because you rolled a… oh, oh, Gary rolled a 19, I didn't see that 19."
-> "Yes, she's sincere. I mean, like, the one thing, Gary, are you sitting… are you around her? So, the other thing you get is that this whole, supply chain problem she has is something that's of deep concern to her."
+> "Yeah, because you rolled a… oh — Valphine rolled a 19, I didn't see that 19."
+> "Yes, she's sincere. The one thing, Valphine — are you sitting… are you around her? So the other thing you get is that this whole supply chain problem she has is something that's of deep concern to her."
 
 **[Brewbarry]**
 > "We'll take care of that."
@@ -314,8 +310,8 @@ source: gmassist
 > "Okay. It sounds like a clue, but I can't figure out what that is."
 
 **[GM]** — the Whispering Grove hides
-> "No, no, I'm just, like, so when you guys came back from the Whispering Grove."
-> "You had, some, some, leather, some animal hides."
+> "No, no — I'm just, like, when you guys came back from the Whispering Grove."
+> "You had some leather, some animal hides."
 > "That were phasing in and [out]."
 
 **[Soma]**
@@ -335,9 +331,9 @@ source: gmassist
 > "Blood treasure."
 
 **[GM]** — Ser Kaelen's note
-> "Ser Kaelen, as you… Ser Kaelen, just before you left, said… came with a…"
-> "It left you a note about the fire… the necklace of fireballs."
-> "It's an Alagondar, quiet, branch, no title, no army, just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking. The recovery office matched the provenance last tenday. You can put it down, you can actually do the thing you keep saying you want to do."
+> "Ser Kaelen, just before you left, came with a…"
+> "He left you a note about the fire… the necklace of fireballs."
+> "It's an Alagondar — a quiet branch, no title, no army, just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking. The recovery office matched the provenance last tenday. You can put it down, you can actually do the thing you keep saying you want to do."
 
 **[Vukradin]**
 > "Yeah, great."
@@ -347,8 +343,7 @@ source: gmassist
 > "So, Alagondar."
 > "It's an Alagondar, so…"
 > "Yes, so you… there is a… I don't want to find out the name…"
-> "Alright, yes. So, Perrin… Alagondar."
-> "Is his name."
+> "Alright, yes. So, Perrin… Alagondar. Is his name."
 
 **[Vukradin]**
 > "Okay, I got it."
@@ -408,5 +403,4 @@ source: gmassist
 > "Exactly."
 
 **[GM]** — the journey is uneventful
-> "Alright. Alright. So, you arrive in Neverwinter. Alrighty, the journey is uneventful, surprisingly,"
-> "Given, you know, Kostadis' compulsive need to create stuff."
+> "Alright. So you arrive in Neverwinter. The journey is uneventful, surprisingly — given the GM's compulsive need to create stuff."

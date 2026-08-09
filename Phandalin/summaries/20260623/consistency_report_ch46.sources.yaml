@@ -1,0 +1,210 @@
+consistency_check:
+  timestamp: "2026-08-07T18:00:56+03:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260623/scene_extractions_new/"   # 6 scene files, one run each
+  report: "summaries/20260623/consistency_report_ch46_scene0{1..6}.md"
+  config: "scratchpad/cc_config.yaml (throwaway, absolute paths — see notes)"
+  model: "claude-sonnet-4-6"
+  issues_found: 55
+  issues_by_scene:
+    01_return_to_phandalin: 8
+    02_a_hero_s_welcome_at_stonehill_inn: 11
+    03_the_universal_basic_treasure_proclamation: 8
+    04_cheese_business_plans_and_departure_preparations: 10
+    05_arrival_in_neverwinter: 10
+    06_the_exotic_armorer_of_neverwinter: 8
+  session_prep_used: true
+  entity_registry_used: true
+  context_documents_per_run: 11    # 2 auto-loaded + 9 --context; no "file not found" warnings
+  sources:
+    auto_loaded:                   # from _DEFAULT_CONFIG_DOCS
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/session_prep/20260623_neverwinter_vukradin_present.md,     role: "session prep (authoritative) — Ch.46 run sheet, Dave-present re-prep" }
+      - { path: notes/session_prep/20260623_neverwinter_locations_cheatsheet.md, role: "session prep — at-the-table location/NPC index" }
+      - { path: notes/session_prep/20260623_jenna_roscoe_head_start.md,          role: "session prep — Jenna's departure, load-bearing for scene 03" }
+      - { path: notes/vtt_transcription_corrections.md,          role: "known-misspelling glossary — primary source for transcription-error finds" }
+      - { path: notes/corrections/emerald_enclave_terminology.md, role: "standing canon correction" }
+      - { path: notes/corrections/kp_identity_attribution.md,     role: "standing canon correction" }
+      - { path: notes/corrections/valphine_drow_visibility.md,    role: "standing canon correction — NPC reaction template for Valphine" }
+  prep_considered_but_excluded:
+    - { path: notes/session_prep/20260616_neverwinter_arrival.md, reason: "Dave-absent version; superseded as the run sheet by the 20260623 re-prep. Focused tier chosen over Focused+arrival." }
+    - { path: notes/session_prep/20260623_necklace-of-fireballs-neverwinter.md, reason: "self-flagged as a Ch.47+ follow-on, not this session" }
+    - { path: notes/session_prep/20260728_*.md, reason: "later sessions — downstream of this one, not prep for it" }
+    - { path: notes/neverwinter/*.md, reason: "arc background; Broad tier not selected" }
+  rulings_2026_08_07:
+    castle_never:
+      ruling: "Canonical name is Castle Never (5etools: 14 hits, zero variants, across SCAG/PaF/OoW/DC). Anything else was a mistake."
+      applied: "scene 05 — slip removed from both prose and the GM quote; Castle Neverember added to the glossary row."
+    mermaid_statue_owner:
+      ruling: "Normalize the live fumble to Elara Seasong Meliamne — the name being reached for. Do NOT import the later Cassian ruling (2026-08-03) into a 2026-06-23 record."
+      applied: "scene 02 line 99."
+    tuck_stonehill:
+      ruling: "Tuck is canon; campaign name replacing the module's Pip."
+      applied: "registered via `registry add` (npc, on_the_fly); projections regenerated."
+    petunia:
+      ruling: "MODULE NPC, not on_the_fly — Big Al's cow from Dragon of Icespire Peak (confirmed in adventure-dip.json). Corrected after an initial mis-registration."
+      applied: "registered; provenance corrected to module; projections regenerated."
+    cryovain_hoard:
+      ruling: "Vukradin TOOK the hoard but refused to CLAIM it, insisting it be returned to rightful owners or added to the UBT. The slag IS the hoard. campaign_state/party.md 'unclaimed at Icespire Hold (Vukradin refused it)' is wrong on both location and disposition."
+      applied: "notes/corrections/cryovain_hoard_disposition.md; then, at GM request, hand-corrected in docs/party.md and docs/campaign_state.md (each carries a Hand-correction block under its header). campaign_state.md was also MISSING the hoard from its Key Resources list entirely — added."
+      root_cause: "chapter_45_universal_basic_treasure.md lines 10 and 128 say the slag was left at Icespire, contradicting lines 168-170 of the same chapter where Vukradin gestures at it on the town green, and ch44:410 ('untransformed in our packs'). The generator faithfully absorbed the wrong lines. Until those two POV-prose lines are rewritten, regeneration will reproduce the error. GM call — not mechanically fixed."
+    necklace_of_fireballs:
+      ruling: "Record FACT and CLAIM separately. Fact: taken by Vukradin ch31 from the Adventurers' Sepulcher (DIP D7), a room inside the Dragon Barrow — Lady Alagondar's tomb. Claim: Perrin Alagondar via a recovery office, relayed by Ser Kaelen, UNVERIFIED. The grave-robber story is the claim, not the provenance."
+      applied: "docs/entity_registry.yaml note rewritten; projections regenerated."
+      not_recorded: "Ch.47 prep stages Perrin as a Nasher/Son-of-Alagondar front with Margaster behind him. Deliberately kept OUT of the registry — not canon yet."
+      open_thread: "Brewbarry holds the Dragon Slayer Sword — Lady Alagondar's, from D8 of the same barrow. SER KAELEN WAS NEVER TOLD. Vukradin forgot; he may remember. Boney was Lady Alagondar's retainer, sent to guard the barrow (ch31)."
+    jenna_roscoe:
+      ruling: "No timeline conflict — present at the inn (scene 02), departs after the proclamation (scene 03). Report finding dismissed."
+  rulings_2026_08_08:                # raised during the /voice-smooth pass over the same scene set
+    stonehill_spiderman:
+      ruling: "Spider-Man is Vukradin's warm nickname for the Stonehill BARTENDER — Toblen Stonehill. 'Barback' in the voice files was a garble."
+      applied: "voice/v1/vukradin_voice.md line 102 and voice/vukradin_new_pipeline.md line 45 corrected to 'bartender' and given Toblen's name explicitly. No change needed in the ch46 extractions — they already gloss Spider-Man as Toblen, and the glossary already maps 'Toblen Stonehill Spiderman' to Toblen Stonehill."
+    valphine_dropped_line:
+      ruling: "RESOLVED. Valphine's 'You asked the crowd.' was missing from the scene 03 extraction, leaving Vukradin's 'Excellent, excellent idea, Valphine!' replying to nothing. This is the defect the scene 03 Issue 1 false positive was pointing at, and the errors.txt entry 'Missing speech that was supplied later by the player'."
+      evidence: "Cleaned VTT cue 513, 00:40:49.290, Gary Young: 'You asked the crowd.' — three seconds before cue 514, 00:40:52.670, David Mendenhall: 'Excellent, excellent idea, Valphine!'"
+      applied: "Line inserted into BOTH scene_extractions_new/03 (verbatim record — GM-authorised correction, outside /voice-smooth's normal scope) and scene_extractions_smoothed/03."
+    linene_candlekeep_text:
+      ruling: "The object is a PAPER FROM CANDLEKEEP about money, not a book called Candlekeep. Candlekeep is the library, not a title. GM correction, per errors.txt: 'not a book, the paper from candlekeep about money'."
+      evidence: "Cleaned VTT line 2165 (identical in the raw): 'She pulls out a book called Candle Keeps, you know, the Sage's Universal Theorem for Income Distribution.' The verbatim is an accurate record of a table misspeak — same class as cryovain_slag_value below."
+      applied: "scene_extractions_smoothed/03 renders 'a paper from Candlekeep'. scene_extractions_new/03 and the VTT UNCHANGED — they correctly preserve what was said. Note the extraction had already applied two glossary fixes here (Lilene -> Linene, Candle Keeps -> Candlekeep) but left the object type wrong."
+      downstream: "Linene leads the UBT distribution subcommittee, so the provenance of her source document is a live thread, not set dressing."
+    armorer_scene_duplication:
+      ruling: "The armorer beat belongs to scene 06 ONLY. The gm-assist scene split extracted it twice — once under scene 05's 'The Lathander Craftsman' tag, once as the whole of scene 06 — and the consistency pass corrected only the scene 06 copy, so the two disagreed."
+      evidence: "Cleaned VTT 4833/4841/4845 record 'the proprietary', 'Rubbery works for you?' and 'much respect for the thunder'. Scene 05 preserved these raw; scene 06 applied the glossary rows (Rubbery -> Brewbarry, Thander -> Lathander). Same tape, two renderings."
+      applied: "scene_extractions_smoothed/05 sheds the Lathander Craftsman blocks and carries a pointer note in their place. scene_extractions_smoothed/06 keeps the glossary-corrected names and adopts scene 05's more continuous GM rendering for the recognition speech, the 'works for you' exchange, and Vukradin's drow-invasion aside. scene_extractions_new/05 UNCHANGED — the duplication there is a gm-assist split artifact, not a transcription error."
+      retained_in_05: "The 'Dragon Scale Armor Commission' block STAYS in scene 05 — it is the party deciding among themselves before entering, and it carries unique material: the expensive-vs-cheap dealer choice and Vukradin's ruling that the Staff of Bird Calls is blood money. Only the 1,675 gp figure overlaps scene 06."
+    brewbarry_find_us_fee:
+      ruling: "CANON, not a garble. Brewbarry says 'find-us fee'; the GM says 'finder's fee'. The contrast is the joke — a goliath still learning surface-world business terms mangles it into something that accidentally says the quiet part. DO NOT CORRECT in any layer."
+      evidence: "Cleaned VTT 549 (Stephane Bourdeaud): 'there should be a find us fee'. Cleaned VTT 369 (GM recap): 'a finder's fee would be the right and proper thing to offer'. docs/chapters/chapter_45_universal_basic_treasure.md line 18 already carries BOTH forms in one paragraph, and voice_critique_scene_01_brewbarry.md quotes the coinage twice without flagging it."
+      applied: "Recorded as a DO NOT CORRECT row in notes/vtt_transcription_corrections.md (new section). scene_extractions_smoothed/01 renders it hyphenated, 'find-us fee', to read as a deliberate coinage rather than a typo. No bible edit needed — ch45 line 18 is coherent under this reading."
+    phandalin_name_garbles:
+      ruling: "'Harbin Western' and 'Fandelman Law' are transcription garbles, not speech. Corrected to 'Harbin Wester' and 'Phandalin Law'."
+      evidence: "Session-wide census: Phandalin x14, Fanderlin x5 (all Stephane Bourdeaud's lines), Fandalin x3, Phanalyn x1, Fandelman x1. Cleaned VTT 2049 settles it — one GM sentence contains both 'citizens of Phandalin' and 'citizens of Fandalin'. Mayor: Harbin Wester x4 (GM) against Harbin Weston (421) and Harbin Western (1845), both David's."
+      applied: "Corrected in BOTH scene_extractions_new/ and scene_extractions_smoothed/ for scenes 03 and 05 — the consistency pass had already normalised all five Fanderlins in these same files, so leaving these two made the extraction inconsistent with itself rather than faithful to the tape. Glossary updated: 'Western (when referring to Harbin)' added to the Harbin Wester row, 'Fandelman' added to the Phandalin row."
+    barthens_provisions:
+      ruling: "'Barthen's provisioning' is a transcription garble. Canonical: Barthen's Provisions, the Phandalin trading post."
+      evidence: "Three GM references, three spellings — cleaned VTT 789 'Barthin's Provisions' (also 'you block by' for 'you walk by'), 861 'Barthen's provisioning', 993 'Barthens'. The consistency pass fixed 789 and 993 and missed 861."
+      applied: "Corrected in BOTH scene_extractions_new/01 and scene_extractions_smoothed/01. Glossary: new Locations row 'Barthin's Provisions, Barthen's provisioning, Barthens -> Barthen's Provisions'; 'Tobelin' added to the Toblin -> Toblen row (attested VTT 993)."
+      canon_note: "5etools adventure-lmop.json and adventure-dip.json both give Toblen Stonehill as the PROPRIETOR of the Stonehill Inn, a native of Triboar — i.e. the innkeeper, not staff. The 2026-08-08 stonehill_spiderman ruling records Vukradin's nickname as being for the 'bartender'; that is his word for the man behind the bar, not a claim about Toblen's role. Open if the GM wants the voice files to say innkeeper instead."
+    harbin_declared_extraordinary:
+      ruling: "'we have declared him ordinary' is a transcription drop of 'extraordinary'. Corrected."
+      evidence: "Cleaned VTT 466-467 is a dense garble zone the consistency pass already had to repair three times — 'careerdin's UBT' (career + Vukradin's), 'The Braving Council' (Privy Council), 'All hail to Buchradin' (Vukradin). 'Extraordinary' appears four words earlier in the same sentence; the parallel completion is 'declared him extraordinary'. It also fits Harbin's rhetorical move — he is inflating Vukradin in order to steal the credit, so deflating him mid-sentence works against the beat."
+      applied: "Corrected in BOTH scene_extractions_new/03 and scene_extractions_smoothed/03."
+    ubt_acronym:
+      ruling: "'UVT' is a transcription garble of UBT. Corrected."
+      evidence: "Session-wide census: UBT x10, UVT x1. The single outlier is the GM's session-closing line, cleaned VTT 4961. B/V is a stock transcriber confusion and 'UVT' has no referent in this campaign."
+      applied: "Corrected in BOTH scene_extractions_new/05 and scene_extractions_smoothed/05. The extraction had also dropped the line's opening 'Brilliant. I'm like,' — restored. Glossary: 'UVT -> UBT' added to the Real-world / table section."
+    lionshield_coster:
+      ruling: "Canonical form is 'Lionshield Coster' — one word, lowercase s. Both session variants corrected."
+      evidence: "5etools adventure-lmop.json: 'the symbol of the Lionshield Coster, a merchant company with a warehouse and trading post'. Cleaned VTT has it twice, both the GM's, twenty lines apart: 'Lion Shield Coster' (3269) and 'LionShield Coster' (3289). Neither matches canon or each other. The glossary already targeted the correct form via the Ch.47 row 'Lionschild Koster'."
+      applied: "Corrected in BOTH scene_extractions_new/04 and scene_extractions_smoothed/04. Glossary: 'Lion Shield Coster' and 'LionShield Coster' added to the existing Lionshield Coster row."
+    recovered_garbles:
+      ruling: "Four garbles recovered from tape context and corrected in BOTH layers; two left alone as deliberate jokes."
+      corrected:
+        - "'No, Matt!' -> 'No, math!' (Soma, scene 06). No Matt at the table; context is arithmetic — 1,675 needed against 700 held, and Valphine answers '1600, so we can't do that' one line later. VTT 4765."
+        - "'Egos.' -> 'He goes—' (GM, scene 06). The GM's standard speech tag, caught mid-sentence between 'No, he didn't say that' and Vukradin's 'No, that's what I said'. VTT 4729."
+        - "'the swell' -> 'the swill' (Vukradin, scene 02). He rolled 21; Toblen hands out the good stuff and Elsa pours the good beer. Good roll = good stuff, bad roll = swill. VTT 1041. The extraction had also DROPPED his follow-up 'Well, liquor.' — restored."
+        - "'So, Alexander.' -> 'So, Alagondar.' (GM, scene 04). The next two GM lines render the same name 'allegondre' and 'Olegander'. Three garbles of one name in four lines. VTT 4597."
+      left_alone:
+        - "'Fan Club.' / 'Sam Club has found us.' (Vukradin, scene 05) — Sam's Club wordplay off 'fan club', which he calls back at session end. Dave's earnest-theatrical joke register. CANON."
+        - "'Go to Gold Bond' (Vukradin, scene 04) — bank-name pun. CANON."
+      extraction_defect_fixed:
+        - "Soma's band-name line, scene 03. VTT 1889 reads 'But that's not where we couldn't have started that.' The extraction had rendered it 'But that's not where we could have started.' — a silently dropped n't and a dropped 'that', which flipped the negation. Restored to tape text in scene_extractions_new/03; scene_extractions_smoothed/03 carries it with an [unclear] marker. The line is garbled on the tape either way; the extraction should not have quietly resolved it."
+      glossary: "Rows added: 'Egos -> he goes', 'No, Matt -> no, math', 'the swell -> the swill'; 'Alexander (when naming the family), allegondre, Olegander' added to the Alagondar row."
+    ask_kostadis:
+      ruling: "'you can ask Status' is a garble of 'you can ask Kostadis'. GM confirmed 2026-08-08. The line is OOC — Vukradin's player telling Valphine's player to ask the DM whether Remove Curse works."
+      evidence: "Cleaned VTT 2673. The GM's very next lines are 'let me get that up' and 'I have to find the notes… I wasn't expecting you guys to actually ever use it', i.e. he is being asked a rules question. The glossary already carried 'Costatus' on the Kostadis row; 'Status' is the same truncation one syllable further."
+      applied: "scene_extractions_new/03 renders 'ask Kostadis' (verbatim layer keeps real names). scene_extractions_smoothed/03 renders 'ask the GM' per the 2026-08-08 name-swap ruling. Glossary: 'Status' added to the Kostadis row."
+    soma_what_have_you_done:
+      ruling: "CANON — 'Titan' is a joke, not a garble. GM ruling 2026-08-08 (superseding an earlier same-day call to drop it). Soma's line stays 'What have you done for me lately, Titan.' DO NOT CORRECT."
+      evidence: "Cleaned VTT 785, immediately after the GM's 'You're still heroes, but it's yesterday's news.' Soma is voicing the townsfolk's shrug; 'Titan' is the joke's landing. The joke's referent is not captured in the record — worth noting if anyone tries to gloss it later."
+      applied: "Restored in BOTH scene_extractions_new/01 and scene_extractions_smoothed/01 after the brief drop. Recorded as a DO NOT CORRECT row in notes/vtt_transcription_corrections.md."
+      downstream_ok: "docs/chapters/chapter_45_universal_basic_treasure.md and narration/session_doc_scene_01_return_to_phandalin.md already render 'What have you done for me lately, Titan, Soma muttered' — correct as-is under this ruling. No bible edit needed."
+    vukradin_dropped_replies_scene01:
+      ruling: "Vukradin's 'No.' and 'Fair, fair.' were dropped by the extraction. Restored."
+      evidence: "Cleaned VTT 769-781. The GM asks 'you haven't been to Phandalin since you defeated Cryovain, right?'; David answers 'No.'; the GM then says 'And so, you have been in Phandalin since the last time we spoke.'"
+      resolves: "The scene 01 GM self-contradiction flagged at calibration. With 'No.' restored the GM line reads as mishearing the answer and correcting mid-sentence, not as a flat contradiction. No further fix needed — the apparent contradiction was an artifact of the dropped reply."
+      applied: "Restored in BOTH scene_extractions_new/01 and scene_extractions_smoothed/01."
+    majestical_silver_tongue:
+      ruling: "'your majestical' is a garble of 'your Silver Tongue' — Vukradin's College of Eloquence feature. GM confirmed 2026-08-08."
+      evidence: "Cleaned VTT 1533, the GM asking which ability Vukradin is leaning on before the Harbin persuasion attempt; David answers 'To persuade him.' Silver Tongue floors Persuasion and Deception rolls at 10. The GM glosses the same feature in-fiction forty lines later as Harbin's 'your intimidation lands as flatly as your sweet tongue would have landed well'. 'majestical' matches no feature on Vukradin's sheet (Bardic Inspiration, Silver Tongue, Unsettling Words, College of Eloquence)."
+      applied: "Corrected in BOTH scene_extractions_new/03 and scene_extractions_smoothed/03. Glossary row added."
+    vukradin_morrissey:
+      ruling: "'Mory's sold out, I love it' is a garble of 'MORRISSEY's sold out, I love it.' GM confirmed 2026-08-08."
+      evidence: "Cleaned VTT 4105. The Neverwinter fans are running textbook indie sold-out discourse — 'I remember when he was really good, the stuff he recorded before he got famous and commercial' — and Vukradin answers with the canonical name in that argument. The transcriber is also failing on Vukradin two lines up, rendering him 'McCraden'."
+      applied: "Corrected in BOTH scene_extractions_new/05 and scene_extractions_smoothed/05. Recorded in the glossary DO NOT CORRECT section so a later pass does not read 'Morrissey' as an error and revert it."
+    dragon_scales_r_us:
+      ruling: "'Dragon scale is us' is a garble of 'Dragon Scales R Us' — the GM's joke name for the Neverwinter armorer's shop. GM confirmed 2026-08-08."
+      evidence: "Cleaned VTT 4885, said while the GM is marking the shop's location on the map ('I'm just gonna make a note of it in the map so that I know where it is')."
+      applied: "Corrected in BOTH scene_extractions_new/06 and scene_extractions_smoothed/06. Added to the glossary DO NOT CORRECT section — the odd capitalisation is the gag and a later pass must not normalise it."
+    valphine_worst_time:
+      ruling: "UNRESOLVED. GM ruling 2026-08-08: mark unclear, do not guess. Cleaned VTT 4761, Valphine: 'Well, worst time.' Candidate reading was 'worst case' (she floats the worst-case spend, Soma objects on arithmetic, she concedes '1600, so we can't do that') — NOT adopted."
+      applied: "scene_extractions_new/06 keeps the tape text unchanged. scene_extractions_smoothed/06 carries it with an [unclear] marker."
+    destroy_the_heathens:
+      ruling: "'the heat' -> 'the heathens' CONFIRMED by the GM 2026-08-08. The extraction's repair stands; it is now sanctioned rather than silent."
+      evidence: "Cleaned VTT 905 records 'Kostadis Roussos: We still must destroy the heat.' Brewbarry echoes 'destroy the heathens' two lines later (VTT 941), which is what makes the reading unambiguous. Speaker attribution also verified: the line is in the GM's own Zoom cue, so the extraction's '(GM, as Valphine)' label is correct on the audio. Gary's mic was breaking up in this stretch (the GM had said 'Gary, your voice is a little bit off' shortly before), which is consistent with the GM voicing her position."
+      applied: "No text change needed — both layers already read 'the heathens'. Recorded so the repair is traceable rather than invisible."
+    attribution_ill_take_that:
+      ruling: "NOT a misattribution. Cleaned VTT 2381 places 'I'll take that.' inside the GM's own Zoom cue, on the same line as Harbin's honorary-citizenship speech. The extraction is correct to keep it in the GM block. Open only on whether it is Harbin in character or the GM OOC accepting the party's solution."
+      applied: "No change. Flag closed."
+    duplicate_bathrobe_line:
+      ruling: "Keep the second, fuller version only — in the SMOOTHED layer. GM ruling 2026-08-08."
+      evidence: "Brewbarry said it twice because the GM's audio dropped: cleaned VTT — Stephane 'Unless they want to buy bathrobes, in which case they're our customers'; Kostadis 'Hold on, wait, what? My audio blaked out for a second there… So what did you say, Stefan? I'm sorry, I missed you for a second'; Stephane repeats it in full. The dropout was stripped as filler during smoothing, which left the repeat looking unmotivated."
+      applied: "scene_extractions_smoothed/01 now carries only the fuller second line. scene_extractions_new/01 UNCHANGED — both utterances stay in the record, since the repeat genuinely happened."
+    big_al_alias_expansion:
+      ruling: "PIPELINE DEFECT, not an extraction error. The GM said the bare nickname 'Big Al'; the VTT cleaning pass expanded every instance to the full canonical 'Alphonse \"Big Al\" Kalazorn'. Reverted to what was said."
+      evidence: |
+        RAW VTT 2961:     'Big Al, she turns to Big Al. I didn't know you had such friends with such
+                           class, Big Al. Big Al turns to her and goes, neither did I.'
+        CLEANED VTT 2961: the same sentence with all four occurrences expanded to the full formal name.
+        Two further splices where the cleaner inserted the canonical form in FRONT of a leftover garble
+        instead of replacing it — raw 'Big Al Kazun is there' -> cleaned 'Alphonse "Big Al" Kalazorn Kazun
+        is there' (1617), and raw 'Big Al Cazone is there' -> cleaned '...Kalazorn Cazone is there' (2805).
+        Kazun and Cazone are garbles of the surname Kalazorn.
+      applied: "Reverted in BOTH layers, scenes 03 and 04. The four-beat line reads 'Big Al' throughout again; the two spliced lines read 'Big Al Kalazorn is there'. Glossary: DO NOT EXPAND row added for the bare nickname."
+      systemic: |
+        This will recur every session unless the cleaning step is changed. The pass is normalising
+        NICKNAMES to canonical forms, which is a different operation from correcting misspellings —
+        it de-voices the transcript. Qelline teasing 'Big Al' is characterisation; 'Alphonse "Big Al"
+        Kalazorn turns to her and goes, neither did I' is a sentence no human uttered. This is the exact
+        failure the /registry-cleanup skill is written to prevent: an alias is an APPROVED ALTERNATE
+        NAME, never something to be normalised away. Worth an issue against the VTT cleaning tooling.
+    cryovain_slag_value:
+      ruling: "3,000 gp is the correct figure for the fused Cryovain slag. Valphine's '3,700' was a misspeak at the table, NOT a transcription error."
+      evidence: "Cleaned VTT line 2625 records Gary Young saying '3,700'; lines 2557 and 2645 record David Mendenhall saying '3,000' immediately before and after. The verbatim extraction is therefore accurate as a record of what was said."
+      applied: "scene_extractions_smoothed/03_the_universal_basic_treasure_proclamation.md renders 3,000 so the figure does not propagate into narration. scene_extractions_new/ and the VTT are UNCHANGED — they correctly preserve the misspeak."
+  notes: |
+    Run shape: check_consistency.py takes a single document, so the six files in
+    scene_extractions_new/ were checked in six separate runs against identical context.
+    Findings therefore map 1:1 to the file needing the edit. No cross-scene run was made,
+    so contradictions BETWEEN scenes (e.g. the mermaid-statue owner in scene 02 vs 05)
+    are not systematically covered.
+
+    Config workaround: the workspace config lives at Phandalin/config/config.yaml, whose
+    relative `docs/...` paths resolve against config/ and break (known check_consistency.py
+    limitation). A throwaway config with absolute paths for campaign_state + world_state
+    was used instead. Only those two labels are auto-loaded, so nothing was lost.
+
+    IMPORTANT — anachronistic canon in the reports. Two flags apply canon established
+    AFTER this session and should not be applied as written:
+      * Lord Cassian Meliamne as the mermaid-statue contact is a GM ruling dated
+        2026-08-03 (per entity_registry.yaml), six weeks after this 2026-06-23 session.
+        At the table the GM was audibly reaching for "Elara" and used "she". The reports
+        for scenes 02 and 05 recommend substituting Cassian; that would rewrite play.
+      * campaign_state.md records Elara as killed in ch46 — this chapter. The party did
+        not know this at the table.
+
+    FALSE POSITIVE (verified against the VTT, do not apply): scene 03 Issue 1 claims
+    Vukradin's "Excellent, excellent idea, Valphine!" misattributes Ser Kaelen's sidebar.
+    The cleaned VTT (line 2053, 00:40:49) shows Gary Young/Valphine saying "You asked the
+    crowd." immediately before David/Vukradin's reply at 00:40:52 — the attribution is
+    correct. The real defect is the opposite: the extraction DROPPED Valphine's line.
+
+    The check ran against prep, so transcription-error coverage is good. Confirmed
+    against notes/vtt_transcription_corrections.md: Gruberry→Brewbarry, sheetment→
+    encheatment, Aldrich→Aldric, Vukerton→Vukradin, Aligonder→Alagondar all real entries.
+    "Bernberry" is NOT in the glossary and is an unlisted garble worth adding.

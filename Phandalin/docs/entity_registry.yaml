@@ -934,8 +934,16 @@ entities:
     shrine
 - name: Necklace of Fireballs
   type: item
-  note: Magic item sealed with the dead wizard in the southeast sarcophagus of the
-    Adventurers' Sepulcher
+  note: 'FACT (provenance): magic item sealed with the dead wizard in the sarcophagus
+    of the Adventurers'' Sepulcher (DIP D7) — a room inside the Dragon Barrow, where
+    Lady Alagondar and Azdraka are interred. Seven beads. Retrieved by VUKRADIN in
+    ch31; he still carries it. CLAIM (UNVERIFIED, ch46): Ser Kaelen''s note names
+    Perrin Alagondar as the rightful owner — "a quiet Alagondar branch, no title,
+    no army, a family that lost their dead''s belongings to grave robbers a generation
+    ago." Kaelen is relaying a recovery office''s provenance match, not first-hand
+    knowledge; the party has verified nothing. Do not record the grave-robber story
+    as provenance — it is the claim, and the claim and the provenance are different
+    things.'
 - name: Opalescent Conch
   type: item
   note: Spellcasting focus taken from Miraal by Moesko; returning it to her cave lays
@@ -2279,6 +2287,25 @@ entities:
     table in Ch. 47 ("Lady Laeral Silverhand, who's the open Lord of Waterdeep").
     The 'Open Lord of Waterdeep' alias was previously attached in error to Dagult
     Neverember, who rules Neverwinter as Lord Protector; moved here 2026-08-03.
+- name: Tuck Stonehill
+  type: npc
+  aliases:
+  - Tuck
+  provenance: on_the_fly
+  source: summaries/20260623/scene_extractions_new/02_a_hero_s_welcome_at_stonehill_inn.md
+  note: Son of Toblen Stonehill; present at the Stonehill Inn, Phandalin. Named on
+    the fly ch46 (2026-06-23); campaign name replaces the module's Pip. GM ruling
+    2026-08-07.
+- name: Petunia
+  type: npc
+  provenance: module
+  source: Dragon of Icespire Peak (adventure-dip); Butterskull Ranch
+  note: Alphonse 'Big Al' Kalazorn's cow (not a humanoid NPC — typed npc as the registry
+    has no creature type). Module NPC from Dragon of Icespire Peak. Recovered at Butterskull
+    Ranch via Soma's Speak with Animals;
+    grazes with Qelline Alderleaf; source of the Phandalin cheese, which is graded
+    by which part of the field she grazed. Attends town gatherings — present on the
+    town green for the UBT proclamation (ch46).
 - name: Kazneporium Ketternopappux
   type: deity
   aliases:

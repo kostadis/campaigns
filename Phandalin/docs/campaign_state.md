@@ -2,6 +2,8 @@
 
 *State as of Chapter 45. Encounters listed most recent last. This document answers: what is DONE, what is CURRENT, what is OPEN.*
 
+> **Hand-correction (2026-08-07) — Cryovain hoard.** The frozen dragon treasure was recorded as sitting *at* Icespire Hold. It is not: the party carries it. GM ruling — Vukradin **took** the hoard; he refuses to **claim** it. Corrected in Active Quests, Active Obligations, and Key Resources (where it had been omitted entirely). Re-apply after any regeneration — see `notes/corrections/cryovain_hoard_disposition.md`.
+
 ---
 
 ## Completed Encounters & Quests
@@ -176,7 +178,7 @@
 ## Active Quests & Open Threads
 
 **Neverwinter — Pending Objectives (next destination)**
-Multiple outstanding tasks: return stolen goods; locate Elara Meliamne (statue return before House Margaster acts); resolve Crown claim on frozen dragon treasure at Icespire Hold; locate mermaid's next of kin; meet bards. Party plans mine stop en route to collect money.
+Multiple outstanding tasks: return stolen goods; locate Elara Meliamne (statue return before House Margaster acts); resolve the Crown claim on the frozen dragon treasure taken from Icespire Hold (the party carries it); find an expert to extract the gold from its planar containment; locate mermaid's next of kin; meet bards. Party plans mine stop en route to collect money.
 
 **The Real Headliner (Critical)**
 Rimardo/Corrin warned: six gods of fate are circling, each convinced they are the headliner — which means none of them are. A true headliner has not been announced. Corrin's card showed an older, colder, lightning-pale creature of far greater age beneath the green dragon. The understudy is already playing the lead role without the audience knowing.
@@ -239,7 +241,7 @@ Zeleen suggested it (ch31); party noted intent to investigate (ch44). Not yet vi
 - **Current location:** Returning from Woodland Manse area toward Phandalin. Full party alive. Next destination: Phandalin (celebration / rest), then Mountain's Toe Mine (collect money), then Neverwinter.
 - **Active obligations and outstanding debts:**
   - Return mermaid statue to Lord Cassian Meliamne (Elara Meliamne's cousin — Elara is dead, killed by House Margaster). Urgency: House Margaster agents have been intercepting the statue. Contact: Cassian, not Elara. Before House Margaster intervenes.
-  - Resolve Crown claim on Icespire Hold frozen dragon treasure.
+  - Resolve the Crown claim on the frozen dragon treasure taken from Icespire Hold — the party carries it. Vukradin took it but will not claim it: rightful owners or the UBT fund, never party loot.
   - Locate mermaid's next of kin in Neverwinter.
   - Brewbarry committed to helping rebuild Woodland Manse brewery (future beer promised).
   - Vukradin holds items for rightful owners: Necklace of Fireballs, obsidian sword/gem.
@@ -256,6 +258,7 @@ Zeleen suggested it (ch31); party noted intent to investigate (ch44). Not yet vi
   - +1 Halberd, Elemental Cleaver, Gauntlets of Ogre Power, Dread Helm — Brewbarry
   - Sending stones — party
   - Cryovain breath pouch (significance unknown) — Soma
+  - ~3,000 gp Cryovain hoard — carried by the party as one fused slag of ice, residium, gold, gems and trade bars. Unspendable: fused by planar magic, inseparable without an expert (sought in Neverwinter). Held for its rightful owners, not counted as party wealth.
   - Mine shares at Mountain's Toe Gold Mine
   - Superior healing potion in Vukradin's pack (placed by Valphine; he doesn't know)
   - Unknown vial in Vukradin's pack (placed by narrator; he doesn't know)

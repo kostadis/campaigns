@@ -1,6 +1,7 @@
 ---
 scene: Return to Phandalin
-source: gmassist
+source: voice-smoothed
+from: ../scene_extractions_new/01_return_to_phandalin.md
 ---
 
 # Return to Phandalin
@@ -29,84 +30,82 @@ source: gmassist
 - Still unresolved: the untransformed lump of gold from Cryovain's hoard, and a holy orc army marching through the mountains in Lathander's name.
 
 **[GM]** — recapping the journey and ambitions
-> "So you found yourself scrambled, so with where we left off, the party departed the mine with their 30 gold pieces and a growing list of ambitions."
-> "They noted that Neverwinter commissions cut was something that they would need to be negotiated, and Brewbarry made a quiet mental note to strongly suggest to whoever was managing the Dragon's recovered hoard that a finder's fee would be the right and proper thing to offer."
-> "Vukradin lamented that despite defeating dragons, clearing Mansions, and owning a gold mine, he still had not made meaningful progress towards funding his musical studio."
+> "So — where we left off: the party departed the mine with their 30 gold pieces and a growing list of ambitions."
+> "They noted that Neverwinter's commission cut would need to be negotiated, and Brewbarry made a quiet mental note to strongly suggest to whoever was managing the dragon's recovered hoard that a finder's fee would be the right and proper thing to offer."
+> "Vukradin lamented that despite defeating dragons, clearing mansions, and owning a gold mine, he still had not made meaningful progress toward funding his musical studio."
 
 **[Vukradin]** — reacting to the recap
 > "Doesn't it seem unfair? It's very unfair."
-> "I didn't say I wasn't. As the groups turned their boots towards Phandalin, there was much to discuss." (GM)
+> "I didn't say I wasn't."
+> **[GM]:** "As the group turned their boots toward Phandalin, there was much to discuss."
 
 **[GM]** — the political agenda and the encheatment
-> "A political agenda to pursue, the existing privy council was imposed on Harbin Wester as a fig leaf rather than a genuine democratic body, and Vukradin intended to push for direct elections of the mayor, a legal process called an encheatment that Valphine apparently researched."
-> "The still untransformed lump of gold from Cryovain's hoard that the party refused to use, and the small matter of a holy orc army now marching through the mountains in Lathander's name, whatever came next, it was clear that the consequences of their choices were only just beginning to unfold."
+> "A political agenda to pursue: the existing Privy Council was imposed on Harbin Wester as a fig leaf rather than a genuine democratic body, and Vukradin intended to push for direct elections of the mayor — a legal process called an encheatment, which Valphine had apparently researched."
+> "The still-untransformed lump of gold from Cryovain's hoard that the party refused to use, and the small matter of a holy orc army now marching through the mountains in Lathander's name — whatever came next, it was clear that the consequences of their choices were only just beginning to unfold."
 
 **[Vukradin / GM]** — debating whether to force an election or go to Neverwinter
-> "So, Vukradin… has a perspective on the upcoming election, and as it relates to the Treasurer." (Vukradin)
-> "Well, hold on, hold on. So the question I have for you is, our plan was to go to Neverwinter, so do we want to have, try to force an election, or go to Neverwinter, talk to Lord Neverember? I mean, you've just recently, you know…" (GM)
+> "So — Vukradin has a perspective on the upcoming election, and on how it relates to the Treasurer." (Vukradin)
+> "Well, hold on. The question I have for you is — our plan was to go to Neverwinter. So do we want to try to force an election, or go to Neverwinter and talk to Lord Neverember? I mean, you've just recently…" (GM)
 > "We can give him one more shot, but if he'd like to abdicate, that's fine." (Vukradin)
-> "I'm just expecting that he won't, Harbin Wester." (Vukradin)
+> "I'm just expecting that he won't. Harbin Wester." (Vukradin)
 
 **[GM / Vukradin]** — the Harbin Wester backstory bit
-> "I went to great lengths to create a backstory for Harbin Wester, you will kindly respect that." (GM)
-> "No, it's not that I don't respect you, it's that I don't respect him." (Vukradin)
-> "Fair enough. Give that man an… give that man a Bardic Inspiration, yeah." (GM)
+> "I went to great lengths to create a backstory for Harbin Wester. You will kindly respect that." (GM)
+> "No, it's not that I don't respect you. It's that I don't respect him." (Vukradin)
+> "Fair enough. Give that man a Bardic Inspiration." (GM)
 
 **[GM / Vukradin]** — deciding to go to Phandalin first
 > "So is the plan to go to Phandalin, talk to Harbin Wester, or is the plan to go to Neverwinter?"
 > "I'm fine with Phandalin. We gotta check in there, right? We gotta get some cheese as well. Isn't that part of the deal?" (Vukradin)
-> "Well, no, no, no, you made a deal… Brewbarry made a deal… it was agreed that the were-rats could go by themselves to go get the cheese, and that it would not be viewed as abandoning their post." (GM)
+> "Well, no, no — you made a deal… Brewbarry made a deal. It was agreed that the were-rats could go get the cheese by themselves, and that it would not be viewed as abandoning their post." (GM)
 
 **[Brewbarry]** — Brewbarry reveals the bathrobe business and finder's fee
-> "From now on, every time we find treasure, whether it belongs to us or not, there should be a find us fee. And some of that gold should go in my pocket towards me building that bathrobe business."
-> "I'm thinking like you, Brewbarry, I've got a plan." (Vukradin)
+> "From now on, every time we find treasure — whether it belongs to us or not — there should be a find-us fee. And some of that gold should go in my pocket, toward me building that bathrobe business."
+> "I'm thinking like you, Brewbarry. I've got a plan." (Vukradin)
 
 **[Brewbarry / Vukradin]** — the cross-promotion deal
-> "If your music studio wants to be a sponsor for my bathrobe business, I'm willing to give you a little logo on the bathrobes, maybe?"
+> "If your music studio wants to be a sponsor for my bathrobe business, I'm willing to give you a little logo on the bathrobes. Maybe?"
 > "I do cross promotions." (Vukradin)
 > "Yes." (Brewbarry)
 > "That's great." (Vukradin)
 
 **[GM]** — arriving in Phandalin
-> "You arrive in… Phandalin."
-> "So, you know, you guys arrive."
+> "You arrive in Phandalin."
 
 **[GM]** — setting the muted-recognition tone
-> "So right now, you know, you guys… you haven't been to Phandalin since you defeated Cryovain, right?"
+> "So right now — you haven't been to Phandalin since you defeated Cryovain, right?"
 > "No." (Vukradin)
-> "And so, you have been in Phandalin since the last time we spoke. So, people, you know, people… you're the heroes, right? You're still heroes, but, you know, it's yesterday's news."
+> "And so, you have been in Phandalin since the last time we spoke. So, people… you're the heroes, right? You're still heroes, but it's yesterday's news."
 > "Fair, fair." (Vukradin)
-> "Right? I mean, you know…" (GM)
+> "Right? I mean…" (GM)
 > "What have you done for me lately, Titan." (Soma)
-> "Yeah, you know, you're still heroes, there's still, you know, hi, how are you, as you walk by Barthen's Provisions. Hi, how are you? You know, the discount's still there, maybe?" (GM)
+> "Yeah, you're still heroes. There's still a 'hi, how are you' as you walk by Barthen's Provisions. Hi, how are you? The discount's still there, maybe." (GM)
 
 **[Valphine / GM]** — Valphine boasts of destroying the Talos followers
 > "Did you hear about the Talosians that we destroyed?"
-> "Is that it… Did you say… Gary, your voice is a little bit off." (GM)
-> "Sorry, the heathen followers of Talos that we destroyed, has [inaudible] heard about that?"
-> "No, no, no, no, no, nobody has heard about that, so, so, you know." (GM)
-> "I mean, so this is an excellent opportunity for you to sort of walk into town and get in the town square and make a note of that." (GM)
+> "Is that…? Did you say — Valphine, your voice is a little bit off." (GM)
+> "Sorry — the heathen followers of Talos that we destroyed. Has [inaudible] heard about that?"
+> "No, no — nobody has heard about that. So this is an excellent opportunity for you to walk into town, get in the town square, and make a note of that." (GM)
 
 **[GM / Valphine]** — passing Barthen's and the Smithy, Valphine's harsh spin
-> "Alright, so, straight, so you walk by Barthen's Provisions, there's a hello, how are you? You walk by the Smithy, again, pleasant to see you. Gary, Valphine, is she, like, saying, you know, we killed the Talosian, the Talosian have been defeated?"
+> "Alright, so you walk by Barthen's Provisions — there's a hello, how are you. You walk by the Smithy, again, pleasant to see you. Valphine — is she saying, we killed the Talosians, the Talosians have been defeated?"
 > "Yes, because they were weak, and…" (Valphine)
 > "You need to follow a stronger God." (Valphine)
 
 **[Vukradin / Valphine]** — Vukradin coaches a softer spin
-> "threat to the town. You protected the town." (Vukradin)
+> "…threat to the town. You protected the town." (Vukradin)
 > "The town has been protected by the strength of Lathander." (Valphine)
 > "Okay. That's a much better spin. We gotta work on your spin." (Vukradin)
 > "We still must destroy the heathens." (GM, as Valphine)
 > "Later. Later. Later. Later." (Vukradin)
 
 **[Brewbarry]** — converting heathens into customers
-> "Unless they want to buy bathrobes, in which case they're our customers."
 > "Destroy the heathens unless they want to buy bathrobes, in which case they're potential customers and shouldn't be destroyed."
 
 **[Vukradin / Brewbarry]** — the blood money argument
-> "Green, is that what you're saying, Stefan? You know it's stolen." (Vukradin)
+> "Green — is that what you're saying, Brewbarry? You know it's stolen." (Vukradin)
 > "Customers are customers." (Brewbarry)
-> "green. It's blood." (Vukradin)
+> "Green? It's blood." (Vukradin)
 > "Every last penny." (Vukradin)
 > "Gold is gold is gold." (Soma)
 > "Last copper, it's blood." (Vukradin)

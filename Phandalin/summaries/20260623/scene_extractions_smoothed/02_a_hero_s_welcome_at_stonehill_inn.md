@@ -1,6 +1,7 @@
 ---
 scene: A Hero's Welcome at Stonehill Inn
-source: gmassist
+source: voice-smoothed
+from: ../scene_extractions_new/02_a_hero_s_welcome_at_stonehill_inn.md
 ---
 
 # A Hero's Welcome at Stonehill Inn
@@ -21,29 +22,27 @@ source: gmassist
 - The party arrives at Toblen Stonehill's Inn; Spider-Man (Toblen) is happy to see them, with his son Tuck, the barmaid Elsa, and Jenna sitting at a table.
 
 **[Vukradin]** — *asking to buy a round*
-> "How much to buy the bar around?"
+> "How much to buy the bar a round?"
 
 **[GM]** — *as Toblen, offering it free for a song*
-> "How much you got? Toblen says, well,"
-> "Vukradin, I think that if you were willing to play a song, it would be for free."
+> "How much you got? Toblen says: well — Vukradin, I think that if you were willing to play a song, it would be for free."
 
 **[Vukradin]**
 > "Drinks on me, let's play away, wow!"
 > "I have no money."
 
 **[Brewbarry]**
-> "We can sing, you know, achievements, glory."
+> "We can sing — achievements, glory."
 
 **[GM]** — *the performance lands; Toblen brings out the good stuff*
-> "Alright, well that is an amazing achievement, and… and as a result of that amazing achievement, Toblen is, you know, hands out the good stuff. Elsa, the barmaid, is pouring out the good beer, she's handing it out…"
+> "Alright, well that is an amazing achievement — and as a result of that amazing achievement, Toblen hands out the good stuff. Elsa, the barmaid, is pouring out the good beer, she's handing it out…"
 
 **[Vukradin]**
 > "Is that how it works? If it was a bad number, it would have been the swill."
 > "Well, liquor."
 
 **[GM]** — *contextualizing yesterday's heroism*
-> "Like, you know, it's, you know… like I said, there was the, you know, you had that moment, you were the heroes, you saved the world, defeated the dragon."
-> "saved everybody from Adabra's madness, you know, got the council, that was last week."
+> "Like I said — you had that moment, you were the heroes, you saved the world, defeated the dragon, saved everybody from Adabra's madness, got the council. That was last week."
 
 **[Vukradin]**
 > "I bought everybody a beer, so that's something."
@@ -55,24 +54,23 @@ source: gmassist
 - Vukradin asks to check in with Ser Kaelen about rightful owners of the treasure.
 
 **[Vukradin]**
-> "I just want to check in on whether he's found any more, rightful owners."
+> "I just want to check in on whether he's found any more rightful owners."
 
 **[GM]**
 > "Yes he has, actually."
 
 **[Vukradin]**
-> "We never went to, but that's fine, let's make a note of all those."
+> "We never went to— but that's fine, let's make a note of all those."
 
 **[GM]** — *the additional owners are in Neverwinter, not Phandalin*
 > "I will pick them at random, do not add… they have been picked."
-> "Right. In, Phandalin. In, Neverwinter."
-> "Yep, yep. Not in Phandalin."
+> "Right. In Phandalin— in Neverwinter. Yep, yep. Not in Phandalin."
 
 **[scene tag — The Forgotten Mermaid Statue]**
 - Ser Kaelen points out the party still hasn't returned the mermaid statue whose owner is in Phandalin (later clarified as Neverwinter).
 
 **[GM]**
-> "You do have that statue, which, the owner is in Phandalin, and you still haven't brought it there."
+> "You do have that statue — the owner is in Phandalin, and you still haven't brought it there."
 
 **[Vukradin]**
 > "What statue?"
@@ -84,8 +82,7 @@ source: gmassist
 > "Yeah, from the way, way, way back."
 
 **[GM]** — *Ser Kaelen is upset the party forgot it*
-> "Holy crap. Yeah, he, he, he said, he says, you know… Ser Kaelen is upset."
-> "That you forgot about it, like, yeah, he goes."
+> "Holy crap. Yeah, he says… Ser Kaelen is upset. That you forgot about it."
 
 **[Vukradin]** — *apologizing to Ser Kaelen*
 > "Ser Kaelen, I'm sorry."
@@ -94,7 +91,7 @@ source: gmassist
 
 **[Brewbarry]** — *asking about the statue's owner*
 > "Yeah, who's the owner of that statue, anyway?"
-> "Who owns it? [inaudible — probable "It's a mermaid, Steph(ane)"]"
+> "Who owns it? [inaudible — probable "It's a mermaid, Brewbarry"]"
 
 **[GM]** — *the owner is an important person of Neverwinter*
 > "It's… Elara Seasong Meliamne."
@@ -106,13 +103,13 @@ source: gmassist
 > "No, Ser Kaelen's in the bar, but the owner of the statue's not in the bar. She's a famous… she's an important person of Neverwinter."
 
 **[Vukradin]**
-> "She's in Neverwinter. No, I knew that, that we haven't returned that yet. That's next."
+> "She's in Neverwinter. No, I knew that — that we haven't returned that yet. That's next."
 
 **[scene tag — No Sign of Sister Kaella]**
 - Ser Kaelen reports no success locating Sister Kaella.
 
 **[GM]**
-> "Alright. He does say that, that, he does point out that he has not had any success at finding Sister Kaella."
+> "Alright. He does point out that he has not had any success at finding Sister Kaella."
 
 **[Vukradin]**
 > "Sister Kaella. Yeah, that's too bad. Okay."
@@ -121,8 +118,7 @@ source: gmassist
 - Ser Kaelen notices Valphine's golden eyes and is startled.
 
 **[GM]** — *Ser Kaelen notices the golden eyes*
-> "Then he looks at Valphine and notices that she has the golden eyes."
-> "And is, for a moment, startled. Is that a condition?"
+> "Then he looks at Valphine and notices that she has the golden eyes. And is, for a moment, startled. Is that a condition?"
 
 **[Valphine]**
 > "It's a blessing."
@@ -131,29 +127,28 @@ source: gmassist
 > "It's a blessing. Alright. A blessing, I see. Well, in that case, a blessing from whom?"
 
 **[Brewbarry]** — *leaning in*
-> "I'm, like, you know, leaning towards him, and I say, slippery slope."
+> "I'm leaning towards him, and I say: slippery slope."
 
 **[GM]** — *as Ser Kaelen*
 > "No? From Lathander, of course."
-> "Oh, oh, I see. He, he's like, aha!"
+> "Oh, I see. He's like — aha!"
 > "Yes, yes, well, if… do you plan to go to Neverwinter?"
 
 **[Valphine]**
 > "Well, yes, that's our next [stop]."
 
 **[GM]** — *Ser Kaelen suggests the high priest at the Spire of the Morninglord*
-> "Oh, he goes, in that case, might I suggest that you might want to go talk to the… and she mentions the high priest at the temple."
+> "Oh, he goes: in that case, might I suggest that you might want to go talk to the… — and she mentions the high priest at the temple."
 > "The temple. The Spire, Spire of the Mid… the Spire of the Morning Lord."
 
 **[GM]** — *connecting it to Valphine's cleric training*
-> "And you immediately remember that that's exactly where you had gone to train to be a cleric of Lathander?"
-> "And, you know, there's an opportunity for you to go chat with Brother Aldric Sunmantle."
+> "And you immediately remember that that's exactly where you had gone to train to be a cleric of Lathander? And there's an opportunity for you to go chat with Brother Aldric Sunmantle."
 
 **[Brewbarry]**
 > "What does he have against Golden Eyes?"
 
 **[GM]**
-> "Nothing in general, nothing in general, nothing in general, but you know, I mean, if this is a blessing from Lathander, it would be, it would be good for Valphine to go and talk to the high priest at the Spire of the Morning Lord, to find out what does it tell her? What guide, what is Lathander trying to tell her?"
+> "Nothing in general, nothing in general — but if this is a blessing from Lathander, it would be good for Valphine to go and talk to the high priest at the Spire of the Morning Lord, to find out: what does it tell her? What is Lathander trying to tell her?"
 
 **[Vukradin]**
 > "You might be jealous."
@@ -168,12 +163,11 @@ source: gmassist
 > "There might be a new Mourning Lord in town."
 
 **[GM]**
-> "No, no, no, Morning Lord's the name of the god."
+> "No, no — Morning Lord's the name of the god."
 
 **[GM]** — *summarizing Ser Kaelen's concern*
-> "Ser Kaelen is… worried, right? A drow who's a follower of…"
-> "the Morning Lord to be so blessed, he's, like, concerned that there's something else going around here."
-> "And he's kind of, like, hinting, maybe you should go check in with the, you know, high priest, Brother Aldric, and get his perspective."
+> "Ser Kaelen is… worried, right? A drow who's a follower of the Morning Lord, to be so blessed — he's concerned that there's something else going on here."
+> "And he's kind of hinting: maybe you should go check in with the high priest, Brother Aldric, and get his perspective."
 
 **[scene tag — DM note: Valphine's real feelings about Brother Aldric]**
 - The DM frames Valphine's true contempt for Brother Aldric.
@@ -185,16 +179,16 @@ source: gmassist
 > "Very likely."
 
 **[GM]**
-> "Yeah, right, right, and that she spent months, if not years, pretending to be somebody she wasn't so that she could learn all of his, you know, all of the rituals, but had no intention of absorbing his soft, squishy, you know, take care of people and love people."
+> "Yeah, right — and that she spent months, if not years, pretending to be somebody she wasn't so that she could learn all of his rituals, but had no intention of absorbing his soft, squishy, take-care-of-people and love-people…"
 
 **[Valphine]**
 > "Of his weak ways."
 
 **[GM]**
-> "Yeah, I'm just saying, I'm just saying, like, you know, I'm thinking there's an opportunity for her to, like, go tell him what she really thinks of his soft, squishy ways."
+> "Yeah, I'm just saying — I'm thinking there's an opportunity for her to go tell him what she really thinks of his soft, squishy ways."
 
 **[Valphine]**
-> "about, you know, maybe I can convert him."
+> "…maybe I can convert him."
 
 **[GM]**
 > "There's always that! There's always that perspective as well."
