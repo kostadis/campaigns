@@ -89,56 +89,6 @@ I smile. The bard needs my help, and guidance.
 
 ---
 
-## From Chapter 08 (The Beating Heart of the Storm): giant toad, sharks, the gift crab
-
-My eyes scanned Moesko's lifeless form. He had been a formidable foe, but now he was just a collection of secrets waiting to be uncovered. There was a strange hole in his chest, a peculiar detail that reminded me of some macabre tale, perhaps from a fever dream or a whispered legend. My gaze then fell upon an opalescent conch resting nearby, its subtle shimmer hinting at its significance. This, I knew, was what Miral sought.
-
-As Valphine meticulously searched his crude living space, a subtle flicker caught my eye. "I found a talisman!" I declared, pointing to the concealed compartment she uncovered. Brewbarry, with his unexpected perception, quickly discerned the symbols. "So, like, his octopus armor, he kind of worships a giant octopus, huh?" I mused aloud, connecting the dots between the strange patterns and Moesko's attire. The talisman emanated an unsettling energy, something alien and powerful. This object, much like the conch, felt like it needed to be returned to its rightful, and likely equally mysterious, owner.
-
-The air around us remained heavy, but there was a job to finish. I listened as Valphine recounted the strange, pulsating heart illuminating the beacon. The whole situation was surreal, but my focus had to remain sharp. The curse, we believed, was tied to this tower and its dark inhabitant. Vukradin, in his usual, somewhat exasperating way, kept going on about only taking lawfully earned items. I think all money is blood money until proven otherwise, but I kept that thought to myself.
-
-When it came time to address the water, I knew it was my time to shine, or rather, to swim. "I can actually become, like, an octopus," I offered, then quickly reconsidered. "Let's go with giant toad form, that's probably more appropriate." The transformation was quick, my body shifting, muscles coiling and expanding, skin turning slick and green. My newfound form was robust, boasting a sturdy 39 hit points, making me feel confident as I plunged into the churning depths. The water was murky, with only twenty feet of visibility, but my new toad eyes adapted quickly. My goal was simple: find some dry wood to replace the beacon's foul heart.
-
-As I swam towards the first shipwreck, the Star Crossed Lover, my eyes fell upon something gleaming amidst the debris. It was a +1 halberd, still clutched in the skeletal grip of what must have been the ship's captain. I swiftly secured it, adding it to our growing collection of recovered items. Just then, a shadow passed over me. A Hunter Shark, drawn by the commotion or perhaps by Brewbarry's lack of subtlety, darted towards us. I met it head-on. My powerful bite landed true, dealing eighteen points of damage, though the creature managed to elude my grappling attempt.
-
-The fight was intense. Another shark joined the fray, then a third. One of them landed a solid hit, and I felt sixteen points of damage rip through my amphibious form, dropping me to twenty-two hit points. Despite the pain, I pressed on, my instincts as a toad and a beast driving me forward. I whiffed an attack, but then with a mighty lunge, I struck true against the second shark, dealing twelve points of damage. It was enough. The beast went limp, its body slowly drifting in the murky water. I even managed to grapple the dead shark for a moment, an odd trophy in this underwater ballet of violence.
-
-After the struggle, I realized the waterlogged timber from the wrecks was unsuitable for immediate use as firewood. "It's all soaked! Like, we'd have to dry it out before we can light it," I croaked, hauling myself onto shore. I found another locked chest clinging with starfish from the Sea Urchin and, in another wreck, yet a third locked chest. I ferried them all to shore, leaving the lock-picking to those with more dexterous digits. Returning to land, I allowed my toad form to recede, dropping out of my Wild Shape. The experience had been intense, and I healed myself, feeling the weariness of battle.
-
-When Miraal appeared to claim her conch, it was quick, almost too quick. "We didn't die! Yeah, and check out this cool cloak we found! You know who owns it?" I asked the giant crab, proud of our finds. He then pointed to the halberd, claiming it as the treasure he was going to get for us. It was a bit rich, but I'm not one to look a gift crab in the mouth. Later, as we shared the cooked shark meat, I reflected on the day. I might not be a purist, but I was definitely a survivor, and I had quite the story (and a shark tooth necklace, soon enough) to show for it.
-
----
-
-## From Chapter 11 (Naturalists and Interventionists): the corrupted treant, the moment I stopped being a naturalist
-
-The air itself tastes wrong as we push through the last line of dense trees and step into the clearing. It's perhaps sixty feet across, but something here is fundamentally off. My fur, thick and protective in this bear form, prickles with an unease that goes beyond simple predator instinct. The woods surrounding us don't lean; they *twist*, their bark gleaming like polished obsidian under the faint, sickly light filtering through a canopy that looks less broken and more *fractured*.
-
-Pools of iridescent sap shimmer on the ground, their colors shifting in a hypnotic dance that makes my bear brain recoil. This isn't the healthy glow of life; it's an alien sheen. The underbrush, usually a soft carpet for my paws, is blackened and thorny, snagging at my thick hide. It feels like walking through a wound in the world.
-
-At the heart of it all stands an immense tree, a Treant, its limbs bent in impossible geometries, dripping that glowing, unnatural sap into a dark pool. And near it, faint, flickering tears in reality pulse softly, whispering not of power, but of a madness I want no part of. There's nothing fair or right about such power. This place is… a blight—an unnatural disruption.
-
-My keen bear senses pick up movement, and then the distinct, desperate scent of fear. There, trapped amidst the thorny undergrowth, are several figures. Members of the Emerald Enclave, clearly. I wonder what brings them to such a twisted place, but then one of them, a woman whose scent speaks of leadership, shouts.
-
-"My name is Lyra. Help us! We're out of the Emerald Enclave! This thing! It was the Grove's Guardian, but it has been corrupted. We are trying to cleanse her of a planar infection when it turned on us. Please, fight it! Don't let the corruption spread!"
-
-Her words reverberate through my mind. *Corrupted.* *Planar infection.* It's precisely what Adabra and my own deepest instincts have warned me about: these constructs and extra-planar abominations, these disruptions to the natural order. This Treant, this once noble guardian, is no longer itself. It has been twisted, warped by forces that do not belong here.
-
-I cannot speak in this form, so a low growl rumbles in my chest, a bear's affirmation of understanding and simmering defiance. Lyra wonders out loud if I am a druid or a bear. *Let her figure it out on her own*, a dry wit only I can appreciate in this moment.
-
-The thorny brambles, these blighted vines, are creatures themselves, holding the elves captive. I saw them earlier. They won't actively attack unless we get too close, but they prevent spellcasting, binding the Enclave members physically.
-
-Vukradin, ever the loose pebble, rolls his eyes and tries to *Command* a vine. The vine simply ignores him, much like a stubborn sapling shrugs off a light breeze. He prefers his "command performances" to effective action. He stares at the vine, defeated. He is still wet from the nest and needs to be protected. So I act.
-
-My eyes fall upon the Treant itself, towering and sinister. Its bark is glossy obsidian, its limbs stretch in impossible angles, and its movements appear as if you blinked and then saw the creature in a different position, but you never blinked.  This is not the ancient, wise guardian of a natural grove.
-
-The Treant then speaks. Its voice is overlapping whispers resonating with an arrogance that chafes against my naturalist beliefs: "Stay out of my grove. If you stay out of my grove and let me be, then I will not attack you". It is making a claim of ownership over a place.
-
-Adabra said that there was a blight and that the interventionist had to be stopped. What is the blight? Where is the blight?
-
-Is this strange magic the blight? Where are those who are intervening? Are they the Emerald Enclave?
-
----
-
 ## From Chapter 14 (Freeing Big Al, Petunia): the bear, the bandits, the captive
 
 Vukradin halts us when we spot four brigands, easily recognizable as Carver's disposable crew. My sigh is internal, a slow puff of air against the inside of my shell.

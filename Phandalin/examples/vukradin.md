@@ -31,7 +31,7 @@ Calmed down, she says, "My name is Elara, and this is Jarek, my groom and we wer
 
 Soma offers to mend the broken cart, and Elara accepts the offer.
 
-Elara, seeing all of the free help we are giving, asks if we could rescue one of her horses that had run down into a field. Brewbarry, ever the eager companion, rushes off to retrieve it. He's a brute, but a loyal one, especially when there's a task involving strength or, in this case, a horse.
+Elara, seeing all of the free help we are giving, asks if we could rescue one of her horses that had run down into a field. Brewbarry rushes off to retrieve it. He's a brute, but a loyal one, especially when there's a task involving strength or, in this case, a horse.
 
 As Brewbarry runs off, Jarek finally speaks, "I told you we should travel with some protection."
 

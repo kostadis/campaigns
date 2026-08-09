@@ -11,8 +11,10 @@ Non-negotiable constraints:
 4. Do not add any new quoted text.
 5. Do not split, merge, paraphrase, shorten, expand, or reorder quoted lines.
 6. If a quoted line does not perfectly match Valphine's voice, leave it unchanged and make the surrounding narration carry the voice instead.
-7. Treat every substring between quotation marks as immutable text.
-8. Do not modify any characters inside quotation marks.
+7. Treat every substring between quotation marks as immutable text when it is in-fiction character speech. Immutability protects what a person actually said inside the story.
+8. Do not modify any characters inside quotation marks. Never rewrite the inside of a quotation mark.
+
+Scope of constraints 1–8: they govern in-fiction character speech. A quoted span that the system prompt's quoted-speech rules identify as mislabelled GM table speech is not character speech and is not protected here — it addresses a player in the second person, describes its own speaker in the third person, embeds a speech tag inside the quotation marks, or names the POV character in the third person inside their own quote. Such a span follows the system prompt instead: DROP the quote, render the beat as narration, and record the span in the reclassification audit comment. Never invent an in-fiction justification for a line its labelled speaker could not have said.
 
 Event preservation constraints:
 1. Do not change the underlying events, sequence, outcomes, decisions, or factual content.
