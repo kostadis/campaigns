@@ -11,8 +11,8 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier, Saltyr, Xalter, Altier, Zaltiera, Zalty, Zeltir, Zoltur | **Zalthir** |
-| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham, Gurgham, Girgam, Girgum, Graghum, Greggum, Jorgum, Gargram, Ragum, Gergen | **Grygum** |
+| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier, Saltyr, Xalter, Altier, Zaltiera, Zalty, Zeltir, Zoltur, Zolt, Dissolt | **Zalthir** |
+| Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham, Gurgham, Girgam, Girgum, Graghum, Greggum, Jorgum, Gargram, Ragum, Gergen, Grigum, Gargan | **Grygum** |
 | Thorne, Thornton, Thurren, Or Torin, Thorian, Thorn | **Thorin** |
 | Adaz, Das, Dez, Dazz, Jazz, Doug, Raz, Gaz, Dad | **Daz** |
 | Dazes | **Daz's** |
@@ -21,7 +21,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel, Glabigold | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel, Glabigold, Glad Baguole | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -55,8 +55,8 @@ First catalogued during the cleanup of
 | Callan Strongbranch, Callan Strongfeld, J- Kaelin, Kalen Strongbridge, Callan Strongbench, North Carolina Strong Brunch | **Kalan Strongbranch** |
 | Callan, Callum, Cullen, Kaelin, Colin, Cal, Collins, Talon, Talen, Kalen, Callen, Kalin, Kellen, Carolyn | **Kalan** |
 | Ally Avonmore, Alai Ivanmore, Ally Ivan Moore, Ally Avanmore, Alvin Moore, Ivan Moore, Ivanor, A'lai Avonmore, A'lai Ivanmore, Alai Evanmore, Ivanmoor, Avonmoor, Ally Evan more, Alei Avanmore, Alley Advanmore, Ali Ivanmoor | **A'lai Aivenmore** |
-| Avon Moore, Evan more | **Aivenmore** |
-| Alay, L.A., Alei, Eli, Allay, Ally, Allah | **A'lai** |
+| Avon Moore, Evan more, Avonmore | **Aivenmore** |
+| Alay, L.A., Alei, Eli, Allay, Ally, Allah, Aleah | **A'lai** |
 | Varath, Verith, Varith, Varetha | **Vareth** |
 | Khazrin Natyani Nyatani, Kazrin Niet, Katherine, Karazzarin Nyantani, Kazrin Nanchani | **Kazryn Nyantani** |
 | Silvera salvikas, Silvira Savica, Silvara, Silvara Savikas, Silvari, Sylvaira, Vera, Silvira Savika | **Sylvira Savikas** |
@@ -93,7 +93,7 @@ First catalogued during the cleanup of
 | Kellenvore | **Kelemvor** |
 | Char | **Shar** |
 | Seluni | **Selûne** |
-| Strongbench, Stormbranch | **Strongbranch** |
+| Strongbench, Stormbranch, Strong Branch | **Strongbranch** |
 | Firoon | **Faerûn** |
 | Menzo Baranzin | **Menzoberranzan** |
 | Gregor, Dragum | **Grygum** |
@@ -101,9 +101,10 @@ First catalogued during the cleanup of
 | Helm Horror, Helm Torror, Helton Horror, Home Horror, Behound Horror, Hounded Horror, Caleb Sheet | **Helmed Horror** |
 | Helm Horrors, Helmed Aurors | **Helmed Horrors** |
 | Daryls | **Darals** |
-| Mosicoto, Mozikolo, Mosley Kodo, Ozi Kodl, Mosakoda, Mosey Cuodo, Mozi Kodo | **Moziqodo** |
+| Mosicoto, Mozikolo, Mosley Kodo, Ozi Kodl, Mosakoda, Mosey Cuodo, Mozi Kodo, Mozikodo | **Moziqodo** |
 | Bolkut, Boldcut, bald cat, bowl cut, bolt cut | **Tadric** |
-| Manchun, Mo Shu | **Manshoon** |
+| Manchun, Mo Shu, Man Shun, Manshoot | **Manshoon** |
+| Glabagools, Glavaguls | **Glabbagools** |
 
 ## Items / artifacts
 
@@ -125,7 +126,7 @@ First catalogued during the cleanup of
 | House Terran, Terran, House Turan, House Tsaran, Taran | **House T'sarran** |
 | Embryograph, Ember Granville | **Ember Grapple** (alt. name for the party) |
 | Blatwork | **Black Network** |
-| Zantarum, Zentarim | **Zhentarim** |
+| Zantarum, Zentarim, Centaurum, Zhantarum | **Zhentarim** |
 | Uthgart, Utgartian, Othgaritian | **Uthgardt** |
 | Grigumi School | **Grygumite School** |
 | Gurgumite | **Grygumite** |
@@ -160,7 +161,7 @@ First catalogued during the cleanup of
 | North Sword Coast | **Northern Sword Coast** |
 | Dagger Ford, Dagger Foo, Dagger Fort | **Daggerford** |
 | Arcadium, Ethanium | **Arcanium** |
-| Menzo Baranen, Menzo Bronze, Menzo Bronzen, Menzo Bronson | **Menzoberranzan** |
+| Menzo Baranen, Menzo Bronze, Menzo Bronzen, Menzo Bronson, Medden Zobaransen | **Menzoberranzan** |
 | Barragos, Beregos | **Beregost** |
 | Kendall Keep | **Castle Ward** |
 | Draconicos | **Drakonoikos** |
@@ -192,8 +193,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis, Christina, Castanhas, Custodus, Gustavus, Kassadis, Kastatis, Christophers | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
-| Lit | **lit.** |
+| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis, Christina, Castanhas, Custodus, Gustavus, Kassadis, Kastatis, Christophers, Kostatis | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
 | And Christadas | **And Kostadis** |
 | Torward | **toward** |
 | Nostromas | **Nostradamus** |
@@ -211,7 +211,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 | Real name (+ mishearings) | Replace with |
 |---|---|
 | Joe, Joe Beda | **Thorin** |
-| Gabe | **Zalthir** |
+| Gabriel Tarasuk-Levin, Gabriel, Gabe | **Zalthir** |
 | Mike, Mike Hall | **Daz** |
 | Ben Pfaff, Ben Fath, Ben | **Grygum** |
 | Kostadis (+ all forms in *Real-world / table*) | **GM** |
@@ -222,6 +222,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - "Melba" in "the Kostadis is Melba" — corrected to "mellow" (table-chatter mishearing).
 - "taught San to think" — corrected to "taught sand to think" (the "we taught sand to think" meme; not a campaign name).
 - "Moshiv" in "Zalthir's, Moshiv, is a 16" (20260720 session) — corrected to "initiative" (ASR mishearing during an initiative-order callout; confirmed by GM, not a campaign name).
+- 20260803 session, ordinary-speech garbles corrected as targeted edits (GM-confirmed, none are names): "the ultimate bad Benny" → "bad penny" (idiom, re Manshoon resurfacing); "Falked out" → "Freaked out"; "Sorry, is Moo" → "Sorry, it's moot"; "Rosie Finger Dawn" → "rosy-fingered Dawn" (Homer chatter re Dawnbringer's gender); "the corrosive Bluru" → "the corrosive brew" and "caustic burr"/"caustic Acid Brew" → "Caustic Brew" (Tasha's Caustic Brew, Grygum's Magic Initiate spell); "Blab of the World" → "Glabbagool"; "Global Goals Initiative" → "Glabbagool's initiative" (initiative callout); "clergy of Candle Keeper, the event" → "clergy of Candlekeep, the Avowed"; "Two Bonsai Candlekeep" → "The Avowed of Candlekeep" (GM-approved guess, no sibling coverage). "Alegos over here and he kills the thug" left as-is (identical garble in both transcriptions, phrase unrecovered).
 
 ## Notes for future passes
 
@@ -234,6 +235,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - **20260720 pass — deliberately kept OUT of the glossary as common-word landmines** (applied as targeted edits to that one transcript instead, not blanket rows): `Mosquito` → **Moziqodo** (the insect meaning is a live risk in an Underdark-heavy campaign); `Ale` → **A'lai** (drink name). If either resurfaces as a genuine NPC/PC mis-hearing in a future transcript, re-grep for lowercase collisions before deciding whether to promote it to a real row.
 - **20260727 pass — `Dawn` → Dawnbringer was REMOVED from its row as a confirmed live landmine.** In the 20260728 transcript it fired on *"I had a girlfriend in high school named Dawn"* — a real person, not the sword. The independent second transcription of that session confirmed the reading. `Don Bringer`/`Don Brigger`/`Donbringer` etc. still catch the real cases; bare `Dawn` meaning the weapon is rare enough not to be worth the blast radius. Do not re-add it.
 - **20260727 pass — the `Ben` → Grygum row was rewritten to `Ben Pfaff, Ben Fath, Ben`.** As previously written (`Ben, Ben Pfaff (mis-transcribed *Ben Fath*)`) the parenthetical broke the wrong-form parse, so only bare `Ben` fired and every `Ben Pfaff:` speaker label became `Grygum Pfaff:` — 176 times in one transcript. `apply_replacements.py` sorts wrong-forms longest-first, so listing the full name explicitly makes it win. The standalone `Ben Fath` → **Ben Pfaff** row in *Real-world / table* was dropped at the same time: it recreated a `Ben Pfaff` that the later, shorter `Ben` rule then re-broke. **General rule: when a bare first name maps to a character, list the full "First Last" form in the same row — otherwise any rule that produces the full form gets re-broken by the bare one.** This is the mirror image of the never-map-a-bare-first-name-to-a-full-canonical rule, and the linter catches neither.
+- **20260803 pass — the `L.A.` wrong-form in the A'lai row was inert for months and is now FIXED at the applier level.** `apply_replacements.py` used to wrap every wrong-form in `\b…\b`, and a word boundary can never match after a trailing period followed by a space, so `L.A.` (and any other punctuation-edged form, e.g. `Glabagul-`) never fired. The script now uses edge-aware boundaries (2026-08-09), so the `L.A.` row is live from the next apply onward. Two cautions: (a) it is a Los Angeles landmine — if the table ever chats about the city as "L.A."/"l.a." the row will rewrite it, so keep greping before applies; (b) bare `LA` (no periods) is deliberately NOT a row (lowercase "la" in speech/Spanish/song is too common) — this session's bare-`LA` occurrences were fixed as targeted edits.
 - **`Bookworm`/`workworm` → Bookwyrm is a confirmed live landmine, not just a theoretical risk.** In the 20260721 transcript (`summaries/20260720/`), one instance of lowercase "bookworm" genuinely meant the common noun — describing Daral (bookish, freshly cured by Dawnbringer) glowing under Detect Magic, not the NPC Bookwyrm (who was dead and not in the room). The `/consistency-check` and `/session-summary-consistency` passes both had to catch and reverse this via context (Daral was present; Bookwyrm wasn't), not via the glossary. Keep the row for the many correct cases, but do not assume every "bookworm"/"workworm" hit is the NPC — check who's actually in the scene before accepting the glossary's replacement.
 
 ## Phrase fixes
