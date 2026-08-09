@@ -1,0 +1,262 @@
+consistency_check:
+  timestamp: "2026-08-09T20:04:40+03:00"
+  campaign: "out-of-the-abyss"
+  document_checked: "summaries/20260803/gm-assist.md"
+  document_class: "first-pass recap (GMAssistant export, arc-accumulating NPC/Location/Item/Spell sections)"
+  report: "summaries/20260803/consistency_report_20260803_gm_assist.md"
+  config: "config/config.yaml"
+  model: "claude-sonnet-4-6"
+  backend: "claude-code"
+  issues_found: 8
+  issues_found_note: |
+    10 numbered sections in the report body, but #3 (Tadric) and #9 (wards/
+    fireball) are explicit "no error in the recap" entries, so the real finding
+    count is 8. The script's banner printed "No issues found." — the known
+    **Location:** counting false negative; this count is derived from the body.
+  session_prep_used: true
+  session_prep_note: |
+    The dated preps used by the previous run
+    (notes/session_prep/20260727_candlekeep_the_man_with_the_metal_hand.md and
+    20260727_candlekeep_high_tower_resume.md) were DELETED from notes/ between
+    2026-08-03 and this run — they survive only as references inside the
+    20260727 consistency artifacts. The surviving arc-level preps
+    (candlekeep_hightower_session.md — the tactical script for exactly this
+    fight — and candlekeep_vault_session.md) were used instead, per GM tier
+    choice "Focused + handouts".
+  entity_registry_used: true
+  session_date: "2026-08-03"
+  chapter_label: |
+    The document self-labels only "Session 2026-08-09" (its export date); no
+    chapter number. Previous session (summaries/20260727/) self-labelled
+    "Chapter 60". Report/manifest are therefore named by session date, not
+    chapter.
+  grounding_doc_staleness: |
+    All four grounding docs were regenerated only through the 2026-07-20
+    session (commit c8a3f84d, stamped "Chapter 62") — two sessions behind this
+    recap. They still assert: A'lai holds the first key awaiting Moziqodo,
+    party confined in Deneir's Sanctum, zero Manshoon mentions. The prior
+    run's staleness note (notes/issues/20260727_grounding_docs_stale_ch62.md)
+    was deleted, so a fresh scratchpad note was written and passed as
+    --context. It worked again: the check raised no stale-docs false
+    positives; its only staleness-adjacent entry (#3 Tadric) correctly blamed
+    the docs, not the recap.
+  speaker_map: |
+    Derived from the tape (glossary-cleaned VTT labels), matching the prior
+    run's Zoom-name mapping:
+      Kostadis Roussos = GM               (549 labelled turns)
+      Thorin           = Joe Beda         (166)
+      Grygum           = Ben Pfaff        (156)
+      Daz              = Mike Hall        (133)
+      Zalthir          = Gabriel Tarasuk-Levin (51)
+    ALL FOUR PLAYERS PRESENT (Gabe was absent the previous session; he is back
+    and ran Zalthir himself — e.g. "I mean, I literally have a feat for
+    that"). No absent-player attribution risk this run.
+  transcripts_available:
+    - path: "summaries/20260803/GMT20260804-005646_Recording.transcript.cleaned.vtt"
+      labelled: true
+      used: true
+      note: |
+        PRIMARY. Speaker-labelled with character names AND glossary-cleaned
+        (spell pass completed 2026-08-09, 504 replacements + 16 targeted
+        edits, idempotency-verified). Every ruling below came from this file.
+    - path: "summaries/20260803/GMT20260804-005646_Recording.transcript.vtt"
+      labelled: true
+      used: false
+      note: "Raw Zoom ASR with Zoom display-name labels; superseded by the cleaned file."
+    - path: "summaries/20260803/session_20260809_transcript.vtt"
+      labelled: false
+      used: false
+      note: |
+        Second independent transcription, speakerless. Used extensively during
+        the spell pass for garble adjudication; not needed for this run's
+        rulings. "Avainmore" appears in NONE of the three transcripts, so
+        recap-source provenance could not be pinned this time (prior run's
+        OPEN item on GMAssistant being fed the worst transcript stands).
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,                          role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml,              role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,           role: "unpromoted confirmed names (campaign-standard)" }
+      - { path: "<scratchpad>/grounding_docs_stale_20260803.md",
+          role: "fresh staleness note (docs 2 sessions behind), passed to suppress the stale-grounding-doc false-positive class" }
+      - { path: notes/sessions/candlekeep_hightower_session.md,
+          role: "arc prep — GM tactical script for the High Tower fight this session concludes" }
+      - { path: notes/sessions/candlekeep_vault_session.md,
+          role: "arc prep — vault/control-room script (the door Manshoon breached)" }
+      - { path: notes/sessions/handouts/player_npc_tracker_candlekeep.md,
+          role: "player NPC/name tracker" }
+      - { path: notes/sessions/handouts/glabbagool_shadow_monk_sidekick.md,
+          role: "Glabbagool sidekick stat block — settles the species-wording finding" }
+      - { path: notes/sessions/handouts/thorin_dawnbringer_rituals.md,
+          role: "Dawnbringer handout — settles the 'established this session' finding" }
+  prior_manifest_reviewed: "summaries/20260727/consistency_report_ch60_gm_assist.sources.yaml"
+  prior_manifest_notes: |
+    Re-verified where this run's findings touched it; two of its rulings were
+    directly load-bearing here and both HELD:
+      - "Grygum: I now have one key and one sapphire" (prior session end) —
+        confirmed again on this tape (GM: "Grygum has one who has the other
+        key"; Thorin: "the gem was actually handed off to the person who also
+        has the key"). This run's report finding #4 contradicted it and was
+        REVERSED on that evidence.
+      - Prior rejection of the Glabbagool arm-bond generalization (sidekick
+        with own token) — the same false-positive class recurred as this
+        run's finding #6 and was rejected again.
+  notes: |
+    No root config.yaml exists; ran from workspace root with explicit
+    --config config/config.yaml (paths carry ../ prefixes). Context count 12
+    = 2 auto-loaded + 10 --context, no "context file not found" warnings, no
+    output-ceiling auto-continuation; report tail complete (10 contiguous
+    sections). Pre-run mechanical probing (recap proper nouns vs registry +
+    glossaries + transcripts) found "Avainmore" x24 with zero transcript/
+    registry hits BEFORE the check ran — the check also caught it (#1).
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-09"
+    gm_rulings_this_run:
+      - "Apply all 6 clear-cut fixes as a batch, then rule the 3 judgment items one at a time."
+      - "Daz's revival spell stays unnamed: 'a more potent restorative spell' (the tape never names the 40-HP heal)."
+      - "Dawnbringer: 'reaffirmed on the record during this session', not 'established'."
+      - "Summary opening: full correction with the dramatic irony made explicit (key, A'lai's claim, Grygum holding both)."
+    applied:
+      - { finding: 1, fix: "A'lai Avainmore -> A'lai Aivenmore, 24 occurrences" }
+      - { finding: 2, fix: "Spells heading 'Conjured Hand of Compact Soil' -> 'Maximilian's Earthen Grasp'; blurb 'massive hand' -> 'medium hand of compacted soil'. Name is verbatim on the 20260727 tape (Daz names it twice); the fake heading paraphrased the spell text Daz read aloud." }
+      - { finding: "VTT-only (binding)", fix: "Scenes: 'Thorin uses his specialized skills to bind the wizard' -> Zalthir. Tape: Zalthir 'I mean, I literally have a feat for that'; GM 'you do have a feat for tying people up'; Zalthir 'Okay, so he's tied up.'" }
+      - { finding: "VTT-only (key hand-off)", fix: "Summary + Scenes: the key was taken off A'lai and slipped to Zalthir by THORIN, not Daz. Tape: Thorin 'So I'm the one who takes it off him, but I slip it to Zalthir when nobody's looking.'" }
+      - { finding: "VTT-only (keys plural)", fix: "'stripped the High Tower keys from him' -> singular (his key); Scenes bullet likewise. Only one key was on A'lai; GM: 'Grygum has one who has the other key.'" }
+      - { finding: 4, fix: "Items 'Real High Tower Key': KEPT 'Grygum held this key along with the sapphire' (tape-confirmed) and corrected the last clause — the key hidden inside Glabbagool was A'lai's, not the real one. Applied in the REVERSE direction of the report's suggestion (see carry_forward CORRECTION)." }
+      - { finding: "VTT-only (Healing Word)", fix: "Spells 'Healing Word': second cast removed. Healing Word revived Zalthir (verbatim on tape); Daz's revival reworded to 'a more potent restorative spell' — Grygum asked Daz's HP max (56) and healed 40, which no Healing Word does. Spell never named on tape." }
+      - { finding: 7, fix: "Dawnbringer: 'established as canonically female during this session' -> 'her female identity was reaffirmed on the record during this session'. GM on tape: 'Just for the record, Dawnbringer is a she, we've decided, canonically'; the rituals handout (2026-05-04) already used she/her throughout." }
+      - { finding: 10, fix: "Summary opening: 'go get Daz, who had the gem' -> 'ignore the cleric and go after Daz, shouting that the wizard had the key — though in truth Grygum quietly held both the key and the gem.' Tape line 859: 'Go after the wizard! The wizard's the one that we want, he's got the key!' Scenes already had the key correctly." }
+    rejected:
+      - finding: 5
+        ruling: "Recap matches the campaign's own vocabulary; no change."
+        rationale: |
+          world_state.md:54 itself reads "Glabbagool — sentient grey ooze
+          (formerly gelatinous cube)". The report's suggested fix contradicted
+          the grounding doc it cited. Register/vocabulary class, not an error.
+      - finding: 6
+        ruling: "Same class the prior run rejected: Glabbagool runs as a sidekick; no arm-bond rewording."
+        rationale: |
+          Prior manifest ruling held. On THIS tape the GM narrates Glabbagool
+          gaining height himself ("he gained a centimeter... half a centimeter
+          of height"), which the recap's "standing slightly taller" mirrors.
+          The pride attribution is a retracted GM slip resolved on tape IN THE
+          RECAP'S FAVOUR: "Zalthir's very proud of himself" -> Zalthir player:
+          "You mean Zalthir?" -> GM: "Yeah, yeah, Glabbagool, sorry."
+      - finding: 8
+        ruling: "Table narration outranks RAW; wall of force + broken door stands as written."
+        rationale: |
+          GM verbatim (line 3899): "Right, he casts a fire... a wall of force,
+          And then breaks the door." The recap records the table's account.
+          The report's mechanical objection (wall of force cannot shatter
+          objects) is rules-correct but not a recap error.
+      - finding: 3
+        ruling: "Explicitly not a recap error — grounding-doc staleness; moved to carry_forward."
+        rationale: "campaign_state.md still lists Tadric 'Alive'; he died on 2026-07-27. Docs are two sessions behind."
+      - finding: 9
+        ruling: "The report itself confirms no error (wards/fireball logic matches prep). Nothing to do."
+        rationale: "candlekeep_hightower_session.md: wards block fire damage; a detonating fireball proves they fell."
+  vtt_adjudicated: |
+    The VTT was consulted BY HAND and was NOT a --context input. Primary file:
+    summaries/20260803/GMT20260804-005646_Recording.transcript.cleaned.vtt
+    (speaker-labelled with character names + glossary-cleaned).
+
+    Settled from the tape:
+      - Binding: Zalthir (feat), not Thorin. Check was structurally blind
+        (no grounding doc records who tied whom).
+      - Key hand-off: Thorin took A'lai's key and slipped it to Zalthir; one
+        key only. Report finding 4's suggested custody chain
+        (Daz -> Zalthir -> Glabbagool for the REAL key) was WRONG-DIRECTED:
+        the tape (Thorin line 2503: "the gem was actually handed off to the
+        person who also has the key"; GM line 3697: "Grygum has one who has
+        the other key") confirms Grygum kept real key + sapphire, and the
+        Glabbagool key is A'lai's. The prior manifest's "one key and one
+        sapphire" ruling was the tiebreaker that prompted the re-check.
+      - Daz's revival: 40 HP healed after asking his max — not Healing Word.
+        Spell never named on tape; GM chose generic wording. A third small
+        heal followed for Zalthir ("One round worth of healing") — recap
+        omits it; not an error, recorded here for completeness.
+      - Thug-order beat: "he's got the key" (line 859) — Summary's "gem" was
+        a cross-scene contamination from the LATER assassin beat (line 2067:
+        "the assassin tries to kill Daz to grab the gem, because that's who
+        he thinks has the gem").
+      - Verified accurate, no change: A'lai kills the thug himself (line
+        1447 "And he kills the thug" — note the speaker garble "A Legos" =
+        A'lai, the known unrecovered garble left in the cleaned VTT by spell-
+        pass ruling); the surrender offer verbatim (line 1559: two cryptogram
+        lines, room under the keep, Menzoberranzan payer); the Candlekeep-
+        prison request (1735); Manshoon alone + weakened (3967 "he's
+        weakened"; 4011-4019 "all of his goons can't show up, only he can
+        show up"); Thorin's critical radiant hit (3107); the withheld-
+        repository ending (3999: "that was the detail he didn't tell
+        Manshoon... A'lai is going to want something in exchange for that
+        information" — table says "repository", recap says "depository";
+        vocabulary only, left as is).
+
+    Reviewer self-correction recorded: my pre-run read flagged the recap's
+    "Glabbagool appears visibly proud... standing slightly taller" as a
+    suspected misattribution after seeing "Zalthir's very proud of himself"
+    at line 3755. Reading eight lines further showed the GM retracting to
+    Glabbagool. First reading overturned; recap was right. (Same lesson as
+    the prior run's eight-lines-short grep window.)
+  carry_forward:
+    - status: OPEN
+      item: |
+        (Inherited, recurred) GMAssistant keeps generating recaps with the
+        invented "Avainmore" — 24 occurrences again this run, present in NO
+        transcript, so it cannot be glossary-fixed and must never be added to
+        vtt_transcription_corrections.md. Source-transcript provenance could
+        not be pinned this time. Standing fix: point GMAssistant at the
+        cleaned VTT (GMT*.transcript.cleaned.vtt) and/or its NPC list.
+    - status: OPEN
+      item: |
+        (Inherited, worse) Grounding docs now TWO sessions behind: regenerated
+        only through 20260720/ch62 (commit c8a3f84d). Missing: Tadric dead
+        (campaign_state still says "Alive"), Moziqodo dead, real key
+        recovered, A'lai captured + surrender offer, Manshoon named AND
+        physically arrived at Candlekeep weakened, keys split (Grygum: real
+        key + sapphire; A'lai's key inside Glabbagool). The prior staleness
+        note (notes/issues/20260727_grounding_docs_stale_ch62.md) was deleted
+        without the regeneration that would have closed it; a scratchpad
+        staleness note had to be recreated for this run. Regenerate all four
+        docs including the 20260727 and 20260803 extracts.
+    - status: OPEN
+      item: |
+        (Inherited, unactioned) Glossary row candidates Sylvyr -> Sylvira and
+        Darrl -> Daral (verified in summaries/20260727/session_20260727_transcript.vtt)
+        are STILL not in notes/vtt_transcription_corrections.md as of this run.
+    - status: OPEN
+      item: |
+        (Inherited) Upstream improvement for check_consistency.py: name
+        findings should come from mechanical glossary/registry comparison,
+        not model attention. This run the model DID catch Avainmore (#1), but
+        both attribution errors (binding, key hand-off) and the Healing Word
+        misattribution were invisible to it by construction — only the
+        speaker-labelled VTT caught them.
+    - status: CORRECTION
+      item: |
+        Report finding #4 recommended removing "Grygum held this key along
+        with the sapphire" and re-chaining the real key Daz -> Zalthir ->
+        Glabbagool. The tape proves the opposite direction; the fix was
+        applied in reverse (Grygum kept, Glabbagool clause corrected to
+        A'lai's key). Recorded so a later reader does not "re-apply" the
+        report as written.
+    - status: NOTE
+      item: |
+        The dated session preps for 20260727 were deleted from
+        notes/session_prep/ between 2026-08-03 and 2026-08-09 (never
+        git-tracked, so unrecoverable from history). If that was accidental,
+        the closest surviving prep is notes/sessions/candlekeep_hightower_session.md
+        + candlekeep_vault_session.md. Future runs for this arc should expect
+        arc-level prep only.
+    - status: NOTE
+      item: |
+        Two more attribution-bait moments live on this tape for anyone
+        checking downstream docs: "Zalthir's very proud of himself" (GM slip,
+        retracted to Glabbagool ~line 3775) and "A Legos... And he kills the
+        thug" (A'lai garble, line 1447). Both are correctly handled in the
+        corrected recap.
