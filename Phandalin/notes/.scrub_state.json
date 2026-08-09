@@ -1,9 +1,18 @@
 {
   "ignored": [
     "10 feet",
-    "100 feet"
+    "100 feet",
+    "We'll have to have a slight sidebar. I don't know, what name do you guys want?",
+    "Ser Kaelen paused. Sidebar, sidebar.",
+    "Sidebar. Does the Order of the Gauntlet get a share, or is this only strictly for the citizens of Phandalin?"
   ],
-  "rules": [],
+  "rules": [
+    {
+      "match": "you can ask the GM, whether it helps",
+      "replacement": "no telling whether it helps",
+      "category": "table_speak"
+    }
+  ],
   "processed": [
     "summaries/20260729/narration/session_doc_scene_01_factions_and_fame_in_neverwinter.md",
     "summaries/20260729/narration/session_doc_scene_02_past_the_common_chord.md",
@@ -11,6 +20,13 @@
     "summaries/20260729/narration/session_doc_scene_04_lord_cassian_and_the_performance.md",
     "summaries/20260729/narration/session_doc_scene_05_the_statue_returned_a_quest_begun.md",
     "summaries/20260729/narration/session_doc_scene_06_the_margaster_shakedown.md",
-    "summaries/20260729/narration/session_doc_scene_07_a_summons_from_the_lord_protector.md"
+    "summaries/20260729/narration/session_doc_scene_07_a_summons_from_the_lord_protector.md",
+    "summaries/20260623/narration/session_doc_scene_01_return_to_phandalin.md",
+    "summaries/20260623/narration/session_doc_scene_02_a_hero_s_welcome_at_stonehill_inn.md",
+    "summaries/20260623/narration/session_doc_scene_03_the_universal_basic_treasure_proclamation.md",
+    "summaries/20260623/narration/session_doc_scene_04_cheese_business_plans_and_departure_preparations.md",
+    "summaries/20260623/narration/session_doc_scene_05_arrival_in_neverwinter.md",
+    "summaries/20260623/narration/session_doc_scene_06_the_exotic_armorer_of_neverwinter.md",
+    "summaries/20260623/scene_extractions_smoothed/03_the_universal_basic_treasure_proclamation.md"
   ]
 }
