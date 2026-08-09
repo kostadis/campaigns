@@ -2,14 +2,14 @@
 
 ## Directive (paste-ready)
 
-Phandalin is character-centered literary fantasy narrated in close first-person past tense, one POV per section, with the heading naming the character. The prose breathes with whoever is speaking — Vukradin's principled volleys, Soma's tortle-patient asides ("shell sprout"), Valphine's drow-aesthete pain theology ("deliciously painful"), Brewbarry's short declaratives. Tone shifts scene to scene: earnest moral conviction, dark comedy from contradiction, mechanical procedural during combat (hit points, saves, the named spell), then back to lyrical interior. Dialogue carries subtext; characters rarely say what they mean. Magic and corruption are felt somatically before they are named. Description is sparse but specific; favor the material noun over the poetic image. The narrator never editorializes — each POV's frame is the only frame.
+Phandalin is character-centered literary fantasy narrated in close first-person present tense, one POV per section, with the heading naming the character. The prose breathes with whoever is speaking — Vukradin's principled volleys, Soma's tortle-patient asides ("shell sprout"), Valphine's drow-aesthete pain theology ("deliciously painful"), Brewbarry's short declaratives. Tone shifts scene to scene: earnest moral conviction, dark comedy from contradiction, mechanical procedural during combat (hit points, saves, the named spell), then back to lyrical interior. Dialogue carries subtext; characters rarely say what they mean. Magic and corruption are felt somatically before they are named. Description is sparse but specific; favor the material noun over the poetic image. The narrator never editorializes — each POV's frame is the only frame.
 
 ## Expanded notes
 
 ### POV conventions
 
 - **One POV per section.** Each section begins with a `### <Character Name>` heading, then narrates entirely from inside that character's head.
-- **First-person past tense, always** ("I", "we"). Never drift into third person ("he", "she", "Brewbarry felt") — even close third with the character's vocabulary is wrong here. Every section is the POV character narrating their own scene from inside their own head. If in doubt, first person.
+- **First-person present tense, always** ("I", "we") — the scene unfolds as it happens ("I watch as Vukradin attempts to negotiate. And I sigh."). Never drift into third person ("he", "she", "Brewbarry felt") — even close third with the character's vocabulary is wrong here. Every section is the POV character narrating their own scene from inside their own head. If in doubt, first person, present tense. (Some example passages and older bible chapters are past tense — legacy drift, not the standard; match the examples' present-tense passages.)
 - **POV switches happen at section breaks**, not mid-paragraph. Never narrate someone else's interior thoughts; report what the POV character *observes* of them.
 - **The POV character's frame is the only frame in their section.** If Vukradin thinks Ser Kaelen is suspicious, the section reads as if Ser Kaelen is suspicious; another POV can disagree in their own section.
 - **Use the POV character's vocabulary for everything**, including how other characters and creatures are described. Soma calls the party "my bale" and Vukradin "shell sprout." Valphine calls the surface "the Overbright." Brewbarry uses short words. Don't break the character's lexicon to be precise.
@@ -53,7 +53,7 @@ Phandalin is character-centered literary fantasy narrated in close first-person 
 ### Genre tags
 
 - character-centered literary fantasy
-- POV-rotating ensemble (close first-person past, one per section)
+- POV-rotating ensemble (close first-person present, one per section)
 - procedural/mechanical D&D combat woven inside interior reaction
 - moral comedy of misalignment (characters' principles colliding with each other and reality)
 - noir-tinged political intrigue (Phandalin Privy Council, Order of the Gauntlet, Lord's Alliance, Emerald Enclave schism)
