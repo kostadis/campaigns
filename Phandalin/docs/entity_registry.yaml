@@ -1422,10 +1422,6 @@ entities:
 - name: Hoar
   type: deity
   note: God of retribution; one of the patron deities of the Order of the Gauntlet
-- name: KP
-  type: deity
-  note: Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity
-    whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
 - name: Lathander
   type: deity
   aliases:
@@ -2310,9 +2306,20 @@ entities:
     grazes with Qelline Alderleaf; source of the Phandalin cheese, which is graded
     by which part of the field she grazed. Attends town gatherings — present on the
     town green for the UBT proclamation (ch46).
+- name: Kazneporium Ketternopappux
+  type: deity
+  aliases:
+  - KP
+  note: Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity
+    whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
+- name: Kostadinious the Sage
+  type: npc
+  note: In-world biographer who recorded KP's story. NOT KP — see notes/corrections/kp_identity_attribution.md.
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls
+- - Kazneporium Ketternopappux
+  - Kostadinious the Sage
 rejected_aliases:
 - - Corbin
   - Corwin

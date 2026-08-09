@@ -293,7 +293,7 @@ rooms:
 ## Step 5: Init, Dry-Run, Mine
 
 ```bash
-MP=/home/kroussos/.venvs/main/bin/mempalace
+MP=/home/kroussos/.venv/main/bin/mempalace
 PALACE=<campaign_name>            # e.g. abyss, phandalin
 CAMPAIGN=/home/kroussos/campaigns/<campaign_dir>
 

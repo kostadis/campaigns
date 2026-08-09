@@ -14,6 +14,10 @@ refs.local.yaml
 # MemPalace index/cache directories (regenerable, not source)
 .mempalace/
 
+# tokensave MCP index/cache (regenerable, not source). Unanchored on purpose:
+# the server writes its SQLite db + WAL into whichever campaign dir it runs in.
+.tokensave/
+
 # Stray CampaignGenerator server logs from running the tool at the repo root
 # instead of inside a campaign dir. Root-scoped on purpose: a bare `logs/` would
 # match at any depth and silently stop toee's version-controlled pipeline run

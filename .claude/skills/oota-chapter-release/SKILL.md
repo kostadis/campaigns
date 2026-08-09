@@ -104,7 +104,7 @@ offset would have produced `58`. Both wrong.
 ### 1c. Capture before-state
 
 ```bash
-mp="/home/kroussos/.venvs/main/bin/mempalace --palace abyss"
+mp="/home/kroussos/.venv/main/bin/mempalace --palace abyss"
 $mp status
 ```
 
@@ -232,7 +232,7 @@ Record the path for `MEMPALACE_HORIZON.md`.
 ### 6. Re-mine — all FIVE wings
 
 ```bash
-mp="/home/kroussos/.venvs/main/bin/mempalace --palace abyss"
+mp="/home/kroussos/.venv/main/bin/mempalace --palace abyss"
 $mp mine docs/distill_extractions   # chronicle
 $mp mine docs/chapters              # narrative
 $mp mine .                          # abyss (root)
