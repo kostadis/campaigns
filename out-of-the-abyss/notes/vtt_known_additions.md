@@ -81,8 +81,6 @@ Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin 
 ### Candlekeep arc NPCs (chapter 51)
 - **Brother Kel** — Candlekeep monk; Zalthir is assigned to him by First Reader Bookwyrm — 2026-05-16
 - **Master Archivist Philemon** — full title for Philemon (already in additions, the avowed who consults on Dawnbringer); Thorin assigned to him — 2026-05-16
-- **Varith** — Candlekeep avowed; Grygum assigned to him — 2026-05-16
-- **Callan Strongbench** — Candlekeep gate warden — 2026-05-16
 - **Festroon** — old gnome innkeeper; tells the story when someone buys a second pint (Burning Wizard Inn?) — 2026-05-16
 - **Meredith of the Ford** — weaver by trade; Meredith of the Ford is her surname/title; she sees something at dinner at the inn — 2026-05-16
 
@@ -104,7 +102,6 @@ Daggerford  — FR town between Waterdeep and Candlekeep; mentioned re: paladin 
 2026-05-18  Grygumite School  — new in-fiction philosophical school (parallel to Stroudite/Bahamutian); named for PC Grygum; introduced in Candlekeep arc 20260518
 
 - **Daral Yashenti** — NPC; full name (Candlekeep murder-mystery arc): "Oh, that'll be Daral Yashenti. Those two have been at each other's throats…" — 2026-06-01
-- **Hightower Library** — Candlekeep location ("held one of the two keys of the Hightower Library") — 2026-06-01
 - **Queenie** — NPC, speaks (Candlekeep murder-mystery arc): "Queenie says, There have been too little… Tickles and too many questions." — 2026-06-01
 - **Teles Ahvoste** — NPC (Candlekeep murder-mystery arc); first name "Teles": "I did hear Telus shout, HYPOCRITE at poor Janusi before he stormed out." / "Teles of Oste came to visit the Keeper." — 2026-06-01
 - **The Golden Ass** — in-world text referenced in the Candlekeep library plot ("the Discoveries was written after the notes on the Golden Ass"); echo of Apuleius — 2026-06-01
