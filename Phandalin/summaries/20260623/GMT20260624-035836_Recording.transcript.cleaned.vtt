@@ -1,16 +1,11 @@
 WEBVTT
 
-NOTE R2 correction per CampaignGenerator#250, applied 2026-08-10 on the GM's ruling.
-
-NOTE Zoom mistranscribed the name Vukradin as "Vucherdin" in 3 cues - 97, 253 and 1018.
-NOTE All three now read Vukradin.
-
-NOTE Evidence it is an ASR error and not a spoken variant - this session reads
-NOTE Vukradin 11x, "Vucherdin" 3x, "Vukra Din" 1x, and every mangled form comes from
-NOTE one speaker (the GM); no player ever produces one.
-
-NOTE The raw sibling GMT20260624-035836_Recording.transcript.vtt is UNEDITED and
-NOTE remains the untouched archive. This .cleaned file is the repair layer.
+NOTE cg-generated - do not hand-edit this file.
+NOTE Generated from GMT20260624-035836_Recording.transcript.vtt plus transcript_corrections.yaml
+NOTE per CampaignGenerator issue 250 rule R4. The raw sibling is the
+NOTE untouched archive; edits belong in the record, not here.
+NOTE 74 correction(s) applied, line endings normalised to LF.
+NOTE 74 of them are unreviewed - see verified false in the record.
 
 1
 00:02:41.730 --> 00:02:42.520
@@ -4987,4 +4982,3 @@ David Mendenhall: Thanks, bye-bye.
 1244
 01:29:48.800 --> 01:29:50.869
 Kostadis Roussos: Alright, bye.
-
