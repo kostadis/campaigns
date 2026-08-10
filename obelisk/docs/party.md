@@ -34,7 +34,8 @@
 - **Recent notable actions:** Negotiated Sildar up to 100 gp upfront after refusing an appeal to loyalty; tailed the Redbrand spotter into the ambush and opened with *"Are you not going to introduce me to your friends?"*; wounded Iarno in the escape passage; dropped to **4 HP** against a skeleton and **was never healed** — he withdrew and finished the crypt fight there; ran the barracks deception; executed Wick.
 
 ### Veyra of the Blue Candle
-- **Tiefling mage sidekick, Level 2** (level-up to 3 pending).
+- **Class/Level:** Mage 2 | **Species:** Tiefling | **Player:** GM | **Role:** Sidekick
+- *(Level-up to 3 pending.)*
 - **Traits & motivation:** The party's artillery and its only scholar. She is the one who knows what things are — she identified the nothic on sight and named Vecna as the source of its curse, and she priced Iarno's reagents from across the room. She keeps a notebook and reads it by candlelight when everyone else sleeps.
 - **The thread she carries:** her **blue crystal flared** the night she wrote down the name **"Ruxithid."** She announced it at breakfast; Maela rolled her eyes and Pip went quiet. Her mentor **Orryn Voss** is still missing, and still the man who said the obelisk fragments must never be assembled.
 - **Relationships:** Closest to Zenvon, who follows her lead on anything arcane and who ordered her to wound Iarno rather than kill him. Tolerated with affection by Maela.
@@ -42,7 +43,8 @@
 - **Recent notable actions:** *Magic Missile* killed a Redbrand in the street ambush; cleared the barracks with a final burst; struck the fleeing Iarno with *Firebolt*; **ended Ch. 7 completely out of first-level slots**. Also the one who rolled the Investigation that found the **dead goblins with elongated skulls** in the caverns.
 
 ### Sister Maela Dawnforge
-- **Dwarf cleric sidekick, Level 2** (level-up to 3 pending).
+- **Class/Level:** Cleric 2 | **Species:** Dwarf | **Player:** GM | **Role:** Sidekick
+- *(Level-up to 3 pending.)*
 - **Traits & motivation:** Healer, front-line hammer, and the party's stated conscience — *"Boss, I think we should help the helpless. We're the good guys, remember?"* She is also the one who executed a bound, begging prisoner with a mace and said *"It's nothing personal, you see."* Both of those are her. Nobody at the table has picked at the seam yet.
 - **Relationships:** Overrules Zenvon on moral questions and gets away with it. Heals everyone. Reads people — her Insight caught Rondar lying before Pip's knife got the truth out.
 - **Items of significance:** Warhammer/mace; holy symbol (reacts to the supernatural); darkvision 60 ft. Casts *Sacred Flame* and *Cure Wounds*; Animal Handling.
@@ -50,7 +52,8 @@
 - **Recent notable actions:** Turned the crypt skeletons; healed **Pip twice** — 10 HP in the crypts and 6 HP out of the pit (she never healed Zenvon, who ended the crypt fight at 4 HP); incinerated a ruffian with *Sacred Flame*; found **Urmon's journal** on the workshop shelves; killed Rondar.
 
 ### Pip Thistlewick
-- **Human fighter sidekick, Level 2** (level-up to 3 pending).
+- **Class/Level:** Fighter 2 | **Species:** Human | **Player:** GM | **Role:** Sidekick
+- *(Level-up to 3 pending.)*
 - **Traits & motivation:** The muscle who turns out to be the negotiator. He talked Harbin Wester up from 100 gp to 120 and impressed a banker doing it; he nudged Zenvon not to work for free in front of a Lords' Alliance agent — *"heroes, you know, we also need to eat."* In a fight he leads with a one-liner (*"Never did like the crooked kind"*) and he is the one who put a blade to Rondar's throat when Zenvon's intimidation failed.
 - **The thread he carries:** the nothic pulled his secret out of his head and told the whole party — **he won a blackstone shard in a dice game near Neverwinter's docks and sold it to a peddler heading for Phandalin, and has dreamed of broken black stone beneath the earth and heard whispers saying his name ever since.** He went pale and told the party to kill the thing. **Nobody has raised it since.**
 - **Relationships:** Zenvon's enforcer and his financial adviser. Supports Maela in the line. Sees the tactical picture — he's the one who warned about being caught between the bugbears and the barracks, and who suggested the ale-barrel barricade.
