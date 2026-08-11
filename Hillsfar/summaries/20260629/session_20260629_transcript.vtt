@@ -1,0 +1,4490 @@
+WEBVTT
+
+00:01:38.419 --> 00:01:39.459
+Hey, Joe.
+
+00:01:42.529 --> 00:01:43.649
+Hey, how's it going, man?
+
+00:01:44.209 --> 00:01:45.169
+Pretty good.
+
+00:01:48.939 --> 00:01:50.379
+I just got good news.
+
+00:01:50.539 --> 00:01:57.179
+My son got an offer to transfer back to Austin from his current employer, and he is.
+
+00:01:57.419 --> 00:01:59.979
+And so I am very happy about it.
+
+00:02:00.219 --> 00:02:00.939
+Where is he now?
+
+00:02:01.259 --> 00:02:02.299
+Houston.
+
+00:02:04.539 --> 00:02:06.459
+Austin sounds better than Houston.
+
+00:02:06.780 --> 00:02:07.179
+Yep.
+
+00:02:07.739 --> 00:02:10.299
+I'm not sure I'd want to move to Austin, but that's me.
+
+00:02:10.539 --> 00:02:11.659
+You know, you do you.
+
+00:02:12.299 --> 00:02:14.859
+I've grown up here and I've seen it go through a lot.
+
+00:02:15.180 --> 00:02:25.500
+And I'm actually hopeful that with the amount of people that moved here, we may actually flip things back.
+
+00:02:26.459 --> 00:02:26.939
+One thing.
+
+00:02:27.099 --> 00:02:27.819
+Wait just a second.
+
+00:02:27.899 --> 00:02:28.539
+What's up?
+
+00:02:30.139 --> 00:02:31.019
+Are you muted?
+
+00:02:31.339 --> 00:02:32.139
+No, I can mute.
+
+00:02:32.379 --> 00:02:32.780
+Give me a second.
+
+00:02:32.859 --> 00:02:33.259
+Sorry, Mike.
+
+00:02:33.419 --> 00:02:34.299
+Yeah, no worries, Joe.
+
+00:02:34.379 --> 00:02:34.780
+See you.
+
+00:03:19.919 --> 00:03:22.799
+So she just finished her first day of her internship.
+
+00:03:23.120 --> 00:03:23.599
+Oh, cool.
+
+00:03:23.759 --> 00:03:24.400
+How'd that go?
+
+00:03:24.719 --> 00:03:27.199
+Went well, apparently, figuring out laptop stuff.
+
+00:03:27.359 --> 00:03:32.479
+She's reading academic papers on the differences between different hypervisors and performance and all that.
+
+00:03:32.719 --> 00:03:34.479
+So excellent.
+
+00:03:35.120 --> 00:03:35.359
+Excellent.
+
+00:03:36.319 --> 00:03:38.560
+You know, virtualized worker going on here.
+
+00:03:39.919 --> 00:03:41.120
+That's awesome.
+
+00:03:41.439 --> 00:03:54.719
+Hey, Gabe, I'm talking about my youngest started her first day of her internship at Adara and is learning about different virtualization techniques and type one, type two hypervisors, and visor compares and all that.
+
+00:03:56.000 --> 00:03:58.159
+I mean, that's super fun.
+
+00:03:58.479 --> 00:03:58.719
+Yeah.
+
+00:03:59.039 --> 00:04:02.410
+Very cool.
+
+00:04:04.330 --> 00:04:06.730
+Well, so apparently she's going to be programming in Rust.
+
+00:04:06.890 --> 00:04:08.410
+So we'll see how that goes too.
+
+00:04:11.210 --> 00:04:12.250
+That'll be interesting.
+
+00:04:12.569 --> 00:04:12.890
+Yeah.
+
+00:04:17.290 --> 00:04:24.889
+Is she the one who was doing some sort of interesting like C bindings of some weird?
+
+00:04:25.129 --> 00:04:26.330
+I forget exactly what it was.
+
+00:04:26.490 --> 00:04:30.009
+It was like some C bindings of Vulcan or something.
+
+00:04:30.330 --> 00:04:33.210
+I mean, yeah, she's done all sorts of weird ass shit.
+
+00:04:34.410 --> 00:04:41.129
+The latest, I mean, when she was growing up, she'd be like, hey, you know, I want to do this, but I want to do it in the hardest way possible.
+
+00:04:41.370 --> 00:04:48.009
+And then she'd be like, my C program that I wrote is crashing and I need you to fix it for me.
+
+00:04:48.170 --> 00:04:50.410
+And also, don't bother reading all the code.
+
+00:04:50.490 --> 00:04:51.530
+Just tell me what is wrong.
+
+00:04:51.769 --> 00:04:53.129
+And this is her grownup.
+
+00:04:53.210 --> 00:04:54.569
+She's not like that anymore.
+
+00:04:55.210 --> 00:04:59.769
+But I finally got her to play with Claude and start doing some vibe coding.
+
+00:05:00.090 --> 00:05:06.970
+And she had it write a rendering engine in C on Vulcan.
+
+00:05:07.050 --> 00:05:08.810
+And she was like, she ended up really impressed.
+
+00:05:08.970 --> 00:05:16.490
+She's like, holy shit, it just like, you know, in half an hour, I got like a virtual memory manager where it's doing like an allocator and stuff like that.
+
+00:05:16.649 --> 00:05:19.930
+I'm like, yeah, like when this stuff nails it, it really freaking nails it.
+
+00:05:20.090 --> 00:05:21.129
+It's kind of crazy.
+
+00:05:21.450 --> 00:05:22.810
+So it isn't crazy.
+
+00:05:23.050 --> 00:05:23.210
+Yeah.
+
+00:05:23.530 --> 00:05:23.850
+Yeah.
+
+00:05:24.170 --> 00:05:24.330
+Yeah.
+
+00:05:24.569 --> 00:05:28.090
+I mean, that sort of frameworky stuff I would expect it to be very good at.
+
+00:05:28.410 --> 00:05:31.370
+Because there's just a ton of examples out there and it's not super subtle.
+
+00:05:31.610 --> 00:05:34.090
+I think, you know, when you're doing new stuff, it's harder.
+
+00:05:34.410 --> 00:05:34.650
+Yeah.
+
+00:05:35.290 --> 00:05:35.610
+Yeah.
+
+00:05:38.090 --> 00:05:39.050
+Interesting.
+
+00:05:39.689 --> 00:05:51.129
+No, I spent today fighting with Claude, trying to get a Python script where it can actually estimate how much it's charging you based on its transcripts that it writes to like a JSON L file.
+
+00:05:51.210 --> 00:05:52.569
+Do you know what a JSON L file is?
+
+00:05:52.650 --> 00:05:53.050
+Do you know this?
+
+00:05:53.129 --> 00:05:54.170
+Have you seen this?
+
+00:05:54.810 --> 00:05:55.689
+L file.
+
+00:05:56.170 --> 00:05:59.930
+So this is where it's like, it's each line is a JSON document.
+
+00:06:00.090 --> 00:06:04.889
+So it's essentially like record with like each thing being a JSON document.
+
+00:06:05.050 --> 00:06:13.770
+So when you're doing cloud code sessions, it actually writes these things out for your sessions into session files and has a way of organizing them.
+
+00:06:13.850 --> 00:06:14.329
+And I don't know.
+
+00:06:14.410 --> 00:06:23.290
+And so like, I'm like, just write a script to analyze this and estimate how much I'm paying you and then try and track down all the discrepancies.
+
+00:06:24.889 --> 00:06:29.210
+That it turns out it's not as good at because there's zero documentation and examples out there.
+
+00:06:29.530 --> 00:06:31.290
+Yeah, no doubt.
+
+00:06:34.439 --> 00:06:34.919
+Interesting.
+
+00:06:35.079 --> 00:06:36.519
+You said it's called an L file?
+
+00:06:36.839 --> 00:06:38.039
+JSON L.
+
+00:06:38.600 --> 00:06:39.799
+JSON L.
+
+00:06:43.889 --> 00:06:45.169
+Ah, transcript format.
+
+00:06:45.329 --> 00:06:45.889
+Oh, interesting.
+
+00:06:49.920 --> 00:06:53.600
+It reminds me of back in the day when I was working on XMPP stuff.
+
+00:06:53.760 --> 00:06:54.320
+Have you ever?
+
+00:06:54.879 --> 00:06:55.439
+Yes.
+
+00:06:56.080 --> 00:07:04.879
+So XMPP would essentially the stream was it would open an XML document and then you would just trade valid XML on this freaking XML document.
+
+00:07:05.200 --> 00:07:10.160
+And it's just like it was the most overwrought, stupid ass thing ever.
+
+00:07:11.760 --> 00:07:13.120
+Man, this is awesome.
+
+00:07:13.200 --> 00:07:17.600
+Yeah, I didn't know this existed, but it does seem conceptually similar.
+
+00:07:17.680 --> 00:07:18.080
+Yes.
+
+00:07:18.320 --> 00:07:21.280
+I mean, you look at your, well, but this one, each line is its own thing.
+
+00:07:21.520 --> 00:07:32.640
+The reason why XMPP did it is because the opening stanza would define a bunch of XML namespace goop that it didn't have to repeat on every line where otherwise it would have, but you know.
+
+00:07:35.840 --> 00:07:42.640
+I love how like we moved from XML to JSON and we just dropped all of the like namespace stuff and the world went on.
+
+00:07:42.960 --> 00:07:43.440
+Yep.
+
+00:07:43.760 --> 00:07:44.800
+This is gone.
+
+00:07:45.120 --> 00:07:47.520
+It's like, it's like, ah, it still works.
+
+00:07:49.120 --> 00:08:03.680
+Did I ever tell you the day Hao Shang, the kernel scheduler guy at VMware reacted when I explained to him how REST actually worked?
+
+00:08:04.320 --> 00:08:05.120
+Oh, REST?
+
+00:08:06.080 --> 00:08:06.240
+Yeah.
+
+00:08:06.480 --> 00:08:12.400
+So he goes to talking and he goes, so how's the data going to be streamed from VROps to vCenter?
+
+00:08:12.480 --> 00:08:13.280
+And he said, REST.
+
+00:08:14.240 --> 00:08:16.000
+And then we said, yeah, but there's going to be a lot of data.
+
+00:08:16.160 --> 00:08:18.080
+There's going to be a lot of string parsing.
+
+00:08:19.280 --> 00:08:20.640
+And he looked at me.
+
+00:08:21.120 --> 00:08:22.879
+He goes, what do you mean, string parsing?
+
+00:08:23.200 --> 00:08:30.720
+If you know how you could do REST with like protobuf or binary format, just to be clear.
+
+00:08:31.360 --> 00:08:36.000
+Yes, but I go to him, well, REST is primarily an ASCII format.
+
+00:08:36.080 --> 00:08:40.320
+You can do hacks to make it binary, but it's primarily an ASCII protocol and blah, blah, blah.
+
+00:08:40.639 --> 00:08:43.360
+And he's looking at me and he's going, what is this?
+
+00:08:43.519 --> 00:08:44.560
+What is this?
+
+00:08:44.720 --> 00:09:00.160
+Or you can see his face twitching, going, I have spent all these years saving microseconds upon nanoseconds in the kernel scheduler of ESX so you people could waste it on string parsing REST string protocols.
+
+00:09:01.440 --> 00:09:07.039
+So just to be clear, S3 is a REST protocol and you can upload binary just fine.
+
+00:09:07.360 --> 00:09:07.600
+So.
+
+00:09:09.930 --> 00:09:11.930
+Yes, you can do many things with REST.
+
+00:09:12.410 --> 00:09:17.769
+But at that point in time, the entertainment value of tweaking Hao Shang was just too awesome.
+
+00:09:21.129 --> 00:09:23.769
+He was very much a, he spent his whole life at this.
+
+00:09:24.009 --> 00:09:25.690
+Like, it is an ASCII protocol.
+
+00:09:25.850 --> 00:09:26.730
+You must be mistaken.
+
+00:09:26.889 --> 00:09:28.730
+Clearly, that could not be the case.
+
+00:09:28.889 --> 00:09:30.490
+Nobody would have an ASCII protocol.
+
+00:09:30.730 --> 00:09:36.090
+He was more rejecting the possibility that it was ASCII, not that you couldn't do something with non-ASCII.
+
+00:09:38.940 --> 00:09:44.780
+It's my favorite kind of like moment when you realize the world doesn't give a shit about all the things you cared about.
+
+00:09:48.780 --> 00:09:49.340
+All right.
+
+00:09:49.820 --> 00:09:51.259
+So where are we?
+
+00:09:53.810 --> 00:09:56.210
+I sent you the note of the murder mystery.
+
+00:09:56.290 --> 00:10:04.400
+You can scroll all the way to the bottom and get the highlights.
+
+00:10:10.230 --> 00:10:15.910
+So I'm going to do the same thing I've done for the last three sessions is immediately open up Gemini and ask it who did it.
+
+00:10:17.510 --> 00:10:19.670
+Eventually the notes are going to tell you.
+
+00:10:21.590 --> 00:10:29.350
+Actually, if you read it, it actually said you have lots of suspicions, but things are not quite as they seem.
+
+00:10:34.040 --> 00:10:35.080
+I'm not looking for that reason.
+
+00:10:43.450 --> 00:10:49.770
+So is the AI just noting things down that I said, or is this the source of truth?
+
+00:10:49.930 --> 00:10:55.370
+Like are there now multiple polymorphs, or is that just because I said it, the AI captured it?
+
+00:10:56.010 --> 00:10:56.810
+Yeah, the AI cat.
+
+00:10:57.770 --> 00:10:59.770
+These are hints you think are true.
+
+00:11:00.410 --> 00:11:02.330
+Not necessarily things that are true.
+
+00:11:02.970 --> 00:11:03.450
+Yes.
+
+00:11:04.010 --> 00:11:04.410
+Ah.
+
+00:11:06.490 --> 00:11:10.170
+What I told it to do is to collect information that the party thinks is true.
+
+00:11:10.730 --> 00:11:16.250
+It does not, it goes to great lengths to make sure that it doesn't actually say anything that is actually true.
+
+00:11:18.840 --> 00:11:21.720
+You're the one who observed that the one-hour polymorph wouldn't work.
+
+00:11:21.960 --> 00:11:22.840
+So yes.
+
+00:11:34.470 --> 00:11:35.110
+There you go.
+
+00:11:35.430 --> 00:11:54.290
+There you go.
+I mean, it is kind of cathartic that you, you know, you give everybody a bad review and they kill you, right?
+
+00:11:54.370 --> 00:11:55.730
+I mean, like, you know.
+
+00:11:57.650 --> 00:12:02.930
+I mean, I was ready to murder somebody at the end of every performance season when I was at Google for what it's worth.
+
+00:12:04.050 --> 00:12:06.130
+Yeah, like, here's the guy who goes on.
+
+00:12:06.450 --> 00:12:08.770
+He gives like one bad review after another.
+
+00:12:08.930 --> 00:12:12.850
+Do you think people who have access to powerful magics?
+
+00:12:15.330 --> 00:12:17.090
+And nature took its course.
+
+00:12:18.450 --> 00:12:21.010
+I'm surprised he survived that long.
+
+00:12:26.420 --> 00:12:27.140
+Never mind.
+
+00:12:30.199 --> 00:12:30.759
+All right.
+
+00:12:31.959 --> 00:12:35.559
+So the scene is set.
+
+00:12:37.399 --> 00:12:42.279
+You've just gotten Alchrist to confess.
+
+00:12:48.269 --> 00:12:51.789
+Now, were you saying that there's some reason why we shouldn't believe that confession?
+
+00:12:53.679 --> 00:12:58.159
+Well, I mean, before I say what's going to happen next, my next question is: what do you guys want to do?
+
+00:12:58.319 --> 00:12:59.679
+Like, so you have this confession.
+
+00:12:59.919 --> 00:13:02.079
+Kalan Strong Branch has not yet entered the room.
+
+00:13:02.399 --> 00:13:04.159
+You know, there's a connection to Alley.
+
+00:13:04.319 --> 00:13:08.239
+One of the proposals you had is to turn it over to Kalan and say, go for it, dude.
+
+00:13:08.799 --> 00:13:13.919
+The other proposal you had is to go to Ally and say, hey, we know things.
+
+00:13:14.239 --> 00:13:20.079
+The third is, you know, let, you know, go straight to Bookworm and demand justice and satisfaction.
+
+00:13:20.639 --> 00:13:25.039
+Sorry, I thought Kalan was in the room with us this whole time because he had his zone of truth going.
+
+00:13:25.279 --> 00:13:26.879
+He was, I thought he was just staying.
+
+00:13:27.359 --> 00:13:32.079
+I mean, yes, but you, I'm giving you guys an opportunity to sidebar.
+
+00:13:33.039 --> 00:13:33.679
+I see.
+
+00:13:33.919 --> 00:13:34.159
+All right.
+
+00:13:34.319 --> 00:13:38.319
+So I think we should just hand it to him, let him say face because he got fired.
+
+00:13:38.479 --> 00:13:44.639
+And then, you know, with the understanding that they'll make good on the promise that we get our reward for helping crack the case.
+
+00:13:47.449 --> 00:13:51.369
+Plus, you still haven't gotten the information you want from the various folks.
+
+00:13:51.529 --> 00:13:54.809
+I mean, Dawnbringer was like, I thought we were going to get therapy.
+
+00:13:55.129 --> 00:13:56.729
+I mean, I thought so too, Dawnbringer.
+
+00:13:56.809 --> 00:13:57.849
+I don't know what to tell you.
+
+00:13:58.169 --> 00:13:58.649
+These people are going to be able to do that.
+
+00:13:58.809 --> 00:14:00.409
+I mean, I'm not leaving here about the therapy.
+
+00:14:00.489 --> 00:14:02.489
+Like, that first session was very productive, actually.
+
+00:14:02.649 --> 00:14:03.929
+I really feel that we need to.
+
+00:14:04.329 --> 00:14:05.289
+We were making progress.
+
+00:14:05.449 --> 00:14:06.409
+I'm with you.
+
+00:14:08.009 --> 00:14:09.609
+I feel like we were making a connection.
+
+00:14:10.649 --> 00:14:16.089
+And he kind of clicks his hands as if he kind of makes a clicking soy and that sounds his hands slapping.
+
+00:14:16.729 --> 00:14:17.449
+He can do that?
+
+00:14:17.609 --> 00:14:18.969
+Or she can do that?
+
+00:14:21.289 --> 00:14:23.369
+He can make noises in Joe's head.
+
+00:14:23.449 --> 00:14:24.809
+So, yeah, I suppose so.
+
+00:14:25.289 --> 00:14:25.449
+Okay.
+
+00:14:25.689 --> 00:14:27.129
+I thought Dawnbringer was a she.
+
+00:14:27.209 --> 00:14:28.969
+I mean, I'm cool either way, just to be clear.
+
+00:14:29.209 --> 00:14:29.529
+I don't know.
+
+00:14:29.609 --> 00:14:30.649
+I can't remember.
+
+00:14:34.089 --> 00:14:34.569
+It's whatever.
+
+00:14:34.809 --> 00:14:35.769
+She, yes, I think we said she.
+
+00:14:36.009 --> 00:14:36.169
+Yes.
+
+00:14:36.249 --> 00:14:36.729
+I think we said she.
+
+00:14:39.289 --> 00:14:39.849
+All right.
+
+00:14:40.089 --> 00:14:42.249
+So what's your plan?
+
+00:14:42.569 --> 00:14:45.209
+I just want to give you guys an opportunity to talk because, like, I don't.
+
+00:14:46.809 --> 00:14:48.649
+Yeah, I think that plan sounds good to me.
+
+00:14:49.769 --> 00:14:50.249
+All right.
+
+00:14:50.809 --> 00:14:53.849
+I mean, if things go sideways, we can always start hacking and slashing.
+
+00:14:55.049 --> 00:15:00.729
+Well, the alternate is that, like, if we make a big deal about we're the ones who described it, then that actually plays into our fame.
+
+00:15:00.889 --> 00:15:04.009
+But, like, do we really want to be famous or do we want to fly under the radar?
+
+00:15:04.089 --> 00:15:09.849
+This is kind of our infamous underground.
+
+00:15:10.489 --> 00:15:11.849
+It didn't seem to serve us well.
+
+00:15:12.009 --> 00:15:12.569
+I don't know.
+
+00:15:12.889 --> 00:15:13.049
+Yeah.
+
+00:15:14.489 --> 00:15:15.689
+Well, you know, it's like the three amigos.
+
+00:15:16.889 --> 00:15:17.849
+What does that mean?
+
+00:15:18.729 --> 00:15:20.409
+Do you remember that scene?
+
+00:15:21.049 --> 00:15:22.809
+Do you ever see the movie of The Three Amigos?
+
+00:15:23.369 --> 00:15:23.769
+Yes.
+
+00:15:24.089 --> 00:15:24.249
+Yeah.
+
+00:15:25.129 --> 00:15:29.849
+There's a whole scene where they talk about the word infamous and how it means extra famous.
+
+00:15:32.409 --> 00:15:36.649
+I remember Kalan, Kalan.
+
+00:15:38.729 --> 00:15:42.329
+So you turn to Kalan and presumably you tell him, dude, this is all on you.
+
+00:15:42.649 --> 00:15:44.649
+He looks very disgruntled.
+
+00:15:47.679 --> 00:15:51.359
+He goes, You have a confession, a heart, and a cleaver.
+
+00:15:51.599 --> 00:15:56.079
+The confession is one spell, the weakest channel by the standard I wrote.
+
+00:15:56.319 --> 00:15:59.919
+The heart on the cleaver proves someone covered this up cleverly.
+
+00:16:00.239 --> 00:16:01.599
+Neither says who it was.
+
+00:16:01.919 --> 00:16:04.159
+You have no one who can place Bookworm in that room.
+
+00:16:04.399 --> 00:16:06.639
+No cloak, no witness that holds nothing.
+
+00:16:06.719 --> 00:16:08.399
+She can't turn back on you in a sentence.
+
+00:16:08.639 --> 00:16:11.199
+By my own paper, she walks.
+
+00:16:13.689 --> 00:16:15.609
+All right, so we got to nail bookworm.
+
+00:16:19.259 --> 00:16:20.299
+Well, so how do you want to?
+
+00:16:20.779 --> 00:16:25.419
+How do you want to sorry?
+
+00:16:26.139 --> 00:16:30.619
+Upon that little diatribe, what was the first thing he said about the one confession?
+
+00:16:30.779 --> 00:16:35.259
+He said, You have a confession, a heart and a cleaver.
+
+00:16:35.499 --> 00:16:37.899
+Right, but he didn't discount the confession.
+
+00:16:38.219 --> 00:16:39.099
+No, no, no, no, no.
+
+00:16:39.179 --> 00:16:39.819
+He said it's not enough.
+
+00:16:40.139 --> 00:16:43.419
+If you read his paper, his paper basically says you can't rely on one source of truth.
+
+00:16:43.499 --> 00:16:45.259
+You have to have three different kinds of source of truth.
+
+00:16:45.819 --> 00:16:46.379
+Yeah, fine.
+
+00:16:47.099 --> 00:16:49.739
+Well, actually, that was never approved, so the protocol never changed.
+
+00:16:49.819 --> 00:16:51.019
+But putting that aside.
+
+00:16:52.219 --> 00:16:54.059
+And a confession is a confession, right?
+
+00:16:54.219 --> 00:16:54.539
+I mean, like.
+
+00:16:54.859 --> 00:16:58.139
+Yes, I know, but you know what's more important to an academic?
+
+00:16:58.779 --> 00:17:04.619
+Putting the murderer in jail or being true to their academic principles in their research proposal.
+
+00:17:05.259 --> 00:17:06.699
+Which was declined.
+
+00:17:07.979 --> 00:17:12.619
+Yes, but now there's an opportunity, but the person who declined it is dead.
+
+00:17:16.139 --> 00:17:25.659
+So if he agrees with the methodology, then could we not take him in his zone of truth and go talk to Bookworm?
+
+00:17:27.339 --> 00:17:28.299
+You could try.
+
+00:17:31.629 --> 00:17:32.669
+Is that your play?
+
+00:17:34.589 --> 00:17:35.149
+Someone has a better question.
+
+00:17:35.389 --> 00:17:38.109
+What do we know about the zone of truth spell and how this works?
+
+00:17:38.349 --> 00:17:40.669
+Like, can it be defeated?
+
+00:17:41.309 --> 00:17:41.869
+It can be.
+
+00:17:45.720 --> 00:17:46.599
+What did you say, Gabe?
+
+00:17:46.920 --> 00:17:47.559
+It can be.
+
+00:17:47.799 --> 00:17:53.000
+She can roll a saving throw, but we would know if she succeeds on her saving throw, I believe.
+
+00:17:54.279 --> 00:17:54.599
+Okay.
+
+00:17:55.799 --> 00:17:59.640
+We don't know if she's telling the truth in that case, but we would know if she can lie.
+
+00:18:00.279 --> 00:18:02.359
+Okay, we can know whether it's effective or not.
+
+00:18:04.920 --> 00:18:08.039
+Kalan says, I will not sneak at this time.
+
+00:18:08.279 --> 00:18:12.359
+We will walk in and we will boldly demand that she submit to a zone of truth.
+
+00:18:13.319 --> 00:18:14.920
+Did you sneak this time?
+
+00:18:15.240 --> 00:18:18.119
+Yeah, the last time he was waiting outside past the zone of truth.
+
+00:18:18.279 --> 00:18:18.519
+All right.
+
+00:18:18.599 --> 00:18:18.920
+Let's.
+
+00:18:20.889 --> 00:18:21.609
+It made a lay.
+
+00:18:21.849 --> 00:18:24.409
+Lay didn't realize what was going on until it was too late.
+
+00:18:24.490 --> 00:18:25.769
+That's why it worked.
+
+00:18:26.409 --> 00:18:27.690
+I had asked you guys that question.
+
+00:18:27.849 --> 00:18:33.450
+I asked you, Gabe, I very specifically asked you, Gabe, is he in the room or is he casting it outside so that you said he's outside?
+
+00:18:33.609 --> 00:18:34.409
+I said, okay.
+
+00:18:35.369 --> 00:18:38.009
+Okay, so wait, why then would we change protocol?
+
+00:18:38.089 --> 00:18:39.369
+That worked very well.
+
+00:18:39.690 --> 00:18:52.960
+Oh, because Kalan, because Kalan doesn't want to like, doesn't want to twist Bookworm in case she escapes from anything and ends up being his boss.
+
+00:18:54.080 --> 00:18:56.800
+He's not going to do it with, he's not going to do it without her permission.
+
+00:18:56.960 --> 00:18:58.400
+How about I put it that way?
+
+00:19:01.290 --> 00:19:03.370
+And if she doesn't submit to it, then.
+
+00:19:04.890 --> 00:19:05.130
+Right.
+
+00:19:05.370 --> 00:19:17.210
+And then he says, but look, he says, look, Bookworm is currently, he explains all this and says, but look, my friends, Bookworm is simply the current acting head of Candlekeep.
+
+00:19:18.730 --> 00:19:21.610
+Tomorrow there will be a naming ceremony.
+
+00:19:21.850 --> 00:19:33.130
+And with all of this, how shall we say, suspicion over her name and the confession and the information.
+
+00:19:33.370 --> 00:19:37.610
+Although the legal precedent isn't there, I suspect that the vote will go elsewhere.
+
+00:19:37.930 --> 00:19:45.930
+And the new person may decide to tell Bookworm that she has one of two choices: continue to be a member of the avowed or submit to a zone of truth.
+
+00:19:46.250 --> 00:19:48.890
+Sometimes the clever play is to be patient.
+
+00:19:50.960 --> 00:19:52.960
+Wait and see if people figure it out.
+
+00:19:53.840 --> 00:19:54.400
+Yes.
+
+00:19:55.840 --> 00:20:01.440
+There is no reason for us to bulldoze over Bookworm and potentially create yet another stir.
+
+00:20:01.680 --> 00:20:02.640
+We have all the cards.
+
+00:20:02.720 --> 00:20:03.920
+All we have to do is be patient.
+
+00:20:04.160 --> 00:20:08.640
+I tell you that tomorrow morning's naming ceremony will clearly not name her.
+
+00:20:08.800 --> 00:20:10.240
+Ale won't be named either.
+
+00:20:10.400 --> 00:20:14.880
+Even without evidence, the stench of the suspicion will be all over him.
+
+00:20:15.120 --> 00:20:28.880
+Alchrist is finished with his confession and the cleaver and the blood and so the only thing that will happen is one of Seminor or Fheminor will probably get elected as the new avowed.
+
+00:20:28.960 --> 00:20:31.600
+And the first thing she will want to do is get rid of Bookworm.
+
+00:20:32.240 --> 00:20:38.000
+But wait, from your own, from your perspective, isn't that immoral?
+
+00:20:38.240 --> 00:20:44.080
+I mean, we're effectively preventing Bookworm, if innocent, from potentially serving this role.
+
+00:20:44.560 --> 00:20:48.400
+Oh, which is why we will give her the opportunity to decline.
+
+00:20:48.960 --> 00:20:51.200
+But you said we'd do tomorrow, right?
+
+00:20:51.840 --> 00:20:53.200
+Oh, no, no, no, I said today.
+
+00:20:53.280 --> 00:20:54.160
+We could go and try to cap.
+
+00:20:54.560 --> 00:20:55.520
+I'm saying we were going to do it.
+
+00:20:55.600 --> 00:20:57.440
+We're going to give her an opportunity to decline.
+
+00:20:57.760 --> 00:21:06.480
+Her decision to decline will further weaken her support among the other allowed.
+
+00:21:07.360 --> 00:21:16.720
+Okay, so you're betting on either she'll agree because she thinks she's innocent and nothing to hide, or if she declines, it implies she's guilty and therefore hopefully won't be elected.
+
+00:21:17.360 --> 00:21:17.840
+Yes.
+
+00:21:18.160 --> 00:21:25.040
+And then, and he goes, and I have strong conviction that the other members of the avowed will not elect her.
+
+00:21:26.640 --> 00:21:30.960
+Okay, so your game to tell them everything we've learned if she declines.
+
+00:21:33.070 --> 00:21:34.430
+Of course, I will tell them everything.
+
+00:21:34.590 --> 00:21:35.790
+I will give them a full report.
+
+00:21:35.950 --> 00:21:37.630
+I will tell them all that is going on.
+
+00:21:37.950 --> 00:21:40.590
+I will, in fact, give it to Bookworm herself.
+
+00:21:41.550 --> 00:21:43.870
+Well, I don't know if that's productive, but okay.
+
+00:21:44.830 --> 00:21:45.390
+So I want to.
+
+00:21:46.830 --> 00:21:53.950
+So we think that Bookworm put the, like, extracted the heart and put the heart in the chalice of the statue, right?
+
+00:21:54.910 --> 00:21:55.230
+Yes.
+
+00:21:55.710 --> 00:21:57.630
+Protects whatever his name is.
+
+00:21:57.790 --> 00:21:57.950
+Yeah.
+
+00:21:59.390 --> 00:22:00.990
+Wait, wait, what is protect?
+
+00:22:01.870 --> 00:22:03.150
+She protected Alchrist.
+
+00:22:03.390 --> 00:22:04.430
+Alchrist, yeah.
+
+00:22:05.070 --> 00:22:07.710
+Alchrist being, what, her son or something?
+
+00:22:08.350 --> 00:22:09.070
+Nephew, nephew.
+
+00:22:09.310 --> 00:22:09.550
+Nephew.
+
+00:22:09.710 --> 00:22:09.790
+Yeah.
+
+00:22:09.870 --> 00:22:12.510
+Now, Alchrist killed him, right?
+
+00:22:12.830 --> 00:22:15.310
+And she's trying to protect Alchrist.
+
+00:22:20.500 --> 00:22:21.780
+Alchris gave her cheek.
+
+00:22:23.220 --> 00:22:24.580
+Yes, unintentionally.
+
+00:22:25.060 --> 00:22:28.580
+Okay, well, because of the zone of truth or whatever.
+
+00:22:29.220 --> 00:22:31.220
+Yeah, cone of truth.
+
+00:22:33.140 --> 00:22:34.660
+Silence, truth, whatever.
+
+00:22:34.980 --> 00:22:35.380
+Whatever.
+
+00:22:40.240 --> 00:22:44.480
+I'm trying to think, is there any physical evidence or anything else that we can bring to bear here?
+
+00:22:44.799 --> 00:22:46.319
+This is what I'm thinking about, right?
+
+00:22:46.480 --> 00:22:56.480
+And so, like, if she was the one that put the heart into the chalice, is there any way that we can tie that back to her in some ways?
+
+00:22:57.279 --> 00:23:11.599
+Practically speaking, though, as Kalan presents, is that although her crime was to see, he pauses and says, My friends, my friends, although Bookworm should be punished, the reality is that all she did was hide a crime.
+
+00:23:11.759 --> 00:23:16.130
+She didn't commit a crime.
+
+00:23:16.450 --> 00:23:18.849
+And if she was-I mean, that's conspiracy after the fact.
+
+00:23:19.089 --> 00:23:21.410
+I mean, like, you know, that's she's culpable.
+
+00:23:22.690 --> 00:23:32.049
+Yes, but then he says the ultimate academic thing: if she is removed from her positions and avowed, that would be far more damning than any crime we could convict her of.
+
+00:23:32.369 --> 00:23:33.329
+It'd be embarrassing.
+
+00:23:33.490 --> 00:23:34.690
+Or we could do both.
+
+00:23:36.799 --> 00:23:38.319
+Ah, but that I will leave to the reader.
+
+00:23:38.399 --> 00:23:40.959
+That will be up to the reader who follows her.
+
+00:23:46.829 --> 00:23:53.149
+And it pauses and says, Okay, here's an idea: Yes.
+
+00:23:53.389 --> 00:23:59.229
+There's got to be a book somewhere in the library that we can use to actually get to the bottom of this.
+
+00:23:59.869 --> 00:24:02.509
+Some sort of magic book, powerful spell.
+
+00:24:02.829 --> 00:24:11.709
+But he goes, he pulls out his copy of the paper, the thrice-fold proof, and says, What part of there is no spell that'll get you the evidence that will solve the crime?
+
+00:24:11.869 --> 00:24:12.829
+Do you not understand?
+
+00:24:13.149 --> 00:24:15.949
+He shoves it into your face and points at the lines.
+
+00:24:16.269 --> 00:24:22.269
+Yeah, but if we can get her to confess based on some spell, then like, you know, that's that's extra data.
+
+00:24:24.349 --> 00:24:27.549
+So you wish to try to cast another spell on her?
+
+00:24:27.869 --> 00:24:34.429
+I'm just thinking, I'm just thinking, like, like the reverso here is that we go and we say, here are the people that did it.
+
+00:24:34.749 --> 00:24:35.629
+We get a reward.
+
+00:24:35.789 --> 00:24:41.389
+One of us uses the reward to get the book that can then prove that she did it or that she was culpable.
+
+00:24:42.909 --> 00:24:45.389
+Oh, you're saying after you, oh, that way.
+
+00:24:46.189 --> 00:24:46.749
+Yes.
+
+00:24:47.069 --> 00:24:51.949
+So we use our reward to access the thing that will do her in.
+
+00:24:52.509 --> 00:24:53.229
+Oh, that's much better.
+
+00:24:53.309 --> 00:24:55.949
+That's a much, oh, if you're going to do it after the fact, that's much better.
+
+00:24:56.029 --> 00:24:58.109
+If you're going to do it up front, she's going to be suspecting.
+
+00:24:58.189 --> 00:25:08.429
+But if you ask for the book, the book will come from the new, the new head of the Candlekeep who would be delighted to get that book, give you that book.
+
+00:25:11.499 --> 00:25:14.779
+I don't know which book exactly, because, you know, but I'm just thinking, Keith.
+
+00:25:15.019 --> 00:25:15.819
+Yeah, he goes, yes, yes.
+
+00:25:16.299 --> 00:25:18.779
+He goes, yes, but that's a great question.
+
+00:25:19.339 --> 00:25:23.339
+He pauses and thinks, I will come up with such a book before you leave.
+
+00:25:23.659 --> 00:25:23.819
+Okay.
+
+00:25:23.899 --> 00:25:24.299
+So, yeah.
+
+00:25:24.379 --> 00:25:28.219
+So the idea here is that we're going to think that she got away with it.
+
+00:25:28.379 --> 00:25:35.179
+Now she'll be sad that Alchrist, her nephew, is, you know, is implicated, but he confessed, so it is what it is.
+
+00:25:36.219 --> 00:25:41.099
+And when she's least suspecting it and we take our reward, that's when we'll reverse it on her.
+
+00:25:42.779 --> 00:25:44.059
+What do you guys think?
+
+00:25:44.379 --> 00:25:46.859
+Oh, I think it seems reasonable.
+
+00:25:49.869 --> 00:25:50.509
+All right.
+
+00:25:52.109 --> 00:25:54.269
+I'm just thinking about high drama.
+
+00:25:54.349 --> 00:25:57.789
+This would be a good sort of closing, sort of like she thought she got away from it.
+
+00:25:58.029 --> 00:25:58.989
+One more thing.
+
+00:25:59.949 --> 00:26:02.029
+Can I get a like a really floppy tread coat?
+
+00:26:05.389 --> 00:26:07.149
+It's not Monk, it's the other actor.
+
+00:26:07.389 --> 00:26:09.389
+No, that's Columbo.
+
+00:26:10.029 --> 00:26:10.669
+Columbo.
+
+00:26:11.069 --> 00:26:11.629
+One more thing.
+
+00:26:11.869 --> 00:26:12.589
+Just one more.
+
+00:26:12.989 --> 00:26:14.269
+Just one more thing.
+
+00:26:17.069 --> 00:26:17.549
+All right.
+
+00:26:19.469 --> 00:26:20.029
+All right.
+
+00:26:20.509 --> 00:26:21.709
+I'm going to go get some whiskey.
+
+00:26:21.789 --> 00:26:22.669
+I'll be right back.
+
+00:26:22.989 --> 00:26:23.229
+Okay.
+
+00:26:24.029 --> 00:26:24.349
+All right.
+
+00:26:24.589 --> 00:26:25.309
+Anybody want anything?
+
+00:26:25.469 --> 00:26:27.549
+I'll give him a second to get his whiskey.
+
+00:26:29.319 --> 00:26:30.519
+That is a good move.
+
+00:27:01.619 --> 00:27:04.180
+I'm sorry, software has not been my thing.
+
+00:27:05.139 --> 00:27:08.500
+My seven-year-old Dell computer finally died.
+
+00:27:10.099 --> 00:27:14.019
+I'm glad you put Dell computer in there instead of my seven-year-old finally died.
+
+00:27:14.099 --> 00:27:14.899
+That would be worse.
+
+00:27:17.940 --> 00:27:18.980
+Yeah, that would have been worse.
+
+00:27:19.539 --> 00:27:22.500
+But yeah, my seven-year-old Dell computer died, and I'm taking it home.
+
+00:27:22.899 --> 00:27:30.659
+I'm going to go remove whatever parts are salvageable and build a smaller computer because it's got a functional GPU.
+
+00:27:31.859 --> 00:27:33.700
+Computers are so expensive now.
+
+00:27:33.940 --> 00:27:34.980
+This sucks.
+
+00:27:35.619 --> 00:27:36.180
+Yeah, it does.
+
+00:27:36.339 --> 00:27:44.339
+I know, which is why, which is why my AMD rising was 64 gigabytes of fury and on GPU is not a fun.
+
+00:27:47.059 --> 00:27:48.019
+I told you guys, right?
+
+00:27:48.180 --> 00:27:51.299
+I recently just bought a highest, highest, highest end thing.
+
+00:27:51.940 --> 00:27:57.619
+And because I don't think the prices are coming down, I think it'll end up being worth more before it starts to depreciate.
+
+00:27:57.940 --> 00:27:58.259
+Yeah.
+
+00:28:00.500 --> 00:28:05.700
+I want to buy like a server NAS thing, and they just keep getting more expensive, and it's killing me.
+
+00:28:06.500 --> 00:28:07.379
+Yeah, it's the same.
+
+00:28:09.139 --> 00:28:09.700
+All right.
+
+00:28:10.019 --> 00:28:12.740
+So now that we all got depressed for a moment,
+
+00:28:17.269 --> 00:28:18.230
+let us return.
+
+00:28:18.470 --> 00:28:18.789
+Okay.
+
+00:28:19.109 --> 00:28:30.950
+So Fembrus Lancer, your adjutant, had while you guys were all debating, carefully stepped aside and comes back and says, Bookworm wishes to speak to you.
+
+00:28:31.910 --> 00:28:32.230
+Okay.
+
+00:28:33.509 --> 00:28:33.670
+Okay.
+
+00:28:33.750 --> 00:28:43.910
+So the other option is just before we continue is that we can feed some fake information to Bookworm through What's His Face, who's clearly dying.
+
+00:28:45.029 --> 00:28:45.349
+Yeah.
+
+00:28:46.549 --> 00:28:49.109
+Was he around while we were extracting the confession?
+
+00:28:49.190 --> 00:28:49.509
+Did he wish?
+
+00:28:49.750 --> 00:28:53.430
+No, no, he was carefully stepped aside.
+
+00:28:53.750 --> 00:28:54.069
+Okay.
+
+00:28:54.390 --> 00:28:59.430
+Something about wanting to be in a zone of truth while it was being cast and asked any questions.
+
+00:29:00.390 --> 00:29:05.670
+All right, so we should definitely make sure he's part of the zone of truth or cone of truth or whatever it is.
+
+00:29:07.990 --> 00:29:15.750
+Maybe if Grygum had been willing to not take his paper and throw it in the trash, he would have been more happy to work with you.
+
+00:29:15.829 --> 00:29:18.630
+But Grygum had to take his paper and just dump it.
+
+00:29:21.120 --> 00:29:22.559
+Classic, Grygum.
+
+00:29:25.440 --> 00:29:34.640
+Yeah, he had a paper and Grygum looked at it and said, I think I will file it and gave it to Glabbagool, who Glabbagool said, this is not tasty like cheese.
+
+00:29:40.320 --> 00:29:47.759
+Give Ben an opportunity to get all of his PHP trauma out.
+
+00:29:49.279 --> 00:29:49.920
+All right.
+
+00:29:50.880 --> 00:30:01.120
+So you appear in Bookworm's office, and she's poured out some tea, and she's looking very regal and in control.
+
+00:30:01.440 --> 00:30:04.800
+And she asks that you sit down.
+
+00:30:09.390 --> 00:30:11.550
+Do you guys open and say anything, or just like.
+
+00:30:12.269 --> 00:30:20.029
+I mean, I think making it a little awkward, and I'm not certainly not drinking any tea of somebody that we suspect may have done this.
+
+00:30:20.910 --> 00:30:23.070
+Yeah, I'm not drinking the tea, that's for sure.
+
+00:30:23.550 --> 00:30:24.590
+Not drinking the tea.
+
+00:30:24.750 --> 00:30:33.470
+She goes, with all this talk of murder in the house, I think that a little bit of tea is good for soothing the nerves, and she drinks some.
+
+00:30:34.110 --> 00:30:36.269
+So, actually, sorry, mechanics question.
+
+00:30:36.670 --> 00:30:38.670
+Take out a flask and say, I brought my own.
+
+00:30:41.230 --> 00:30:47.150
+Since Glabbagool is part of my arm, can I like pretend to drink and have it actually flow into Glabbagool?
+
+00:30:48.110 --> 00:30:48.430
+There you go.
+
+00:30:48.590 --> 00:30:49.390
+Oh, yeah, totally.
+
+00:30:49.710 --> 00:30:51.150
+Okay, I'll do that.
+
+00:30:51.789 --> 00:30:52.350
+All right.
+
+00:30:53.550 --> 00:30:56.830
+Do you tell Glabbagool to not burp or like make any curious sounds?
+
+00:30:58.670 --> 00:31:03.309
+I whisper quietly that this should be a moment of quiet reflection, you know.
+
+00:31:04.269 --> 00:31:05.710
+No loud noises, no risk.
+
+00:31:05.950 --> 00:31:06.269
+Yeah.
+
+00:31:12.430 --> 00:31:13.950
+Glabbagool does his part well.
+
+00:31:14.190 --> 00:31:20.029
+There's a slight singe of acid as he burns it, but only you notice.
+
+00:31:20.990 --> 00:31:23.789
+Acid from the tea or from the Glabbagool?
+
+00:31:24.350 --> 00:31:25.390
+From Glabbagool.
+
+00:31:25.550 --> 00:31:25.789
+Okay.
+
+00:31:28.750 --> 00:31:32.670
+You know, he's burning the tea as he pretends to drink it.
+
+00:31:35.070 --> 00:31:39.550
+She looks at you and says, well, we have much to talk about.
+
+00:31:40.190 --> 00:31:45.789
+You compelled a grieving man with a borrowed spell, and you call it proof.
+
+00:31:48.240 --> 00:31:52.880
+And she pauses and says, The warden whose paper you ignored would tell you what it's worth.
+
+00:31:53.200 --> 00:31:57.279
+He wrote that a single working proves nothing.
+
+00:31:58.480 --> 00:32:08.079
+And Kalan steps in and says, Ah, but they have, and he proceeds to enumerate the fact that you have the evidence that he stole the poison.
+
+00:32:08.720 --> 00:32:09.039
+Right.
+
+00:32:09.279 --> 00:32:12.559
+And the fact that he had the book and then the confession.
+
+00:32:13.599 --> 00:32:13.839
+Right.
+
+00:32:14.160 --> 00:32:15.519
+She pauses.
+
+00:32:16.480 --> 00:32:19.920
+And she collapses, heartbroken.
+
+00:32:22.910 --> 00:32:24.430
+I could never have imagined it.
+
+00:32:24.750 --> 00:32:26.109
+Roll of perception.
+
+00:32:30.940 --> 00:32:31.500
+We're all rolling.
+
+00:32:32.059 --> 00:32:33.900
+My passive is 15.
+
+00:32:34.860 --> 00:32:35.340
+Yeah, I would.
+
+00:32:35.740 --> 00:32:36.700
+Okay, so rolling it.
+
+00:32:36.779 --> 00:32:38.220
+So you roll an insight.
+
+00:32:38.380 --> 00:32:40.779
+Roll an insight or an investigation, whichever one you want.
+
+00:32:40.940 --> 00:32:42.140
+Oh, I'll roll an investigation.
+
+00:32:42.220 --> 00:32:42.539
+Hell yeah.
+
+00:32:42.700 --> 00:32:43.100
+Oh, wait.
+
+00:32:43.580 --> 00:32:45.580
+They changed roll 20 again.
+
+00:32:45.660 --> 00:32:47.900
+Now we got these black boxes for rolling.
+
+00:32:48.140 --> 00:32:50.299
+I got a 21 on investigation.
+
+00:32:50.620 --> 00:32:50.779
+Right.
+
+00:32:51.340 --> 00:32:57.180
+She is clearly not sad and not, she is, but she's looking curiously relieved.
+
+00:33:00.940 --> 00:33:01.420
+All right.
+
+00:33:03.580 --> 00:33:05.900
+She's looking curiously relieved.
+
+00:33:08.299 --> 00:33:09.500
+She pauses.
+
+00:33:11.019 --> 00:33:15.580
+Well, it would seem, Kalan, that your methodology has proven its merit.
+
+00:33:15.740 --> 00:33:16.299
+Well done.
+
+00:33:16.539 --> 00:33:17.180
+Well done.
+
+00:33:17.740 --> 00:33:19.820
+She pauses and turns to the four of you.
+
+00:33:20.140 --> 00:33:24.779
+It would seem my nephew has committed a grave crime, killing Janussi.
+
+00:33:25.420 --> 00:33:28.140
+But a horrible, horrible sequence of events.
+
+00:33:28.460 --> 00:33:30.380
+Yes, yes, terrible events.
+
+00:33:30.700 --> 00:33:32.059
+And you have done your part.
+
+00:33:32.539 --> 00:33:36.700
+But today is not a day for us to do trials and juries and justifications.
+
+00:33:36.940 --> 00:33:40.860
+And that will be done after the naming by the new head of the avowed.
+
+00:33:42.460 --> 00:33:43.980
+So what about a lie?
+
+00:33:44.299 --> 00:33:48.299
+Do we actually call out the fact you guys?
+
+00:33:51.770 --> 00:33:59.370
+All you have about a lie is that he was in the same area and that Alchrist claimed he was the mastermind.
+
+00:33:59.690 --> 00:34:01.530
+So, Joe, this goes back to your strategy.
+
+00:34:01.690 --> 00:34:10.329
+Do we want to let on that we know more, or do we leave that till later when we can really kind of prove her involvement?
+
+00:34:11.210 --> 00:34:15.769
+I've been watching a lot of these 48-hour shows.
+
+00:34:16.090 --> 00:34:23.050
+And what they always do, what the cops always do, is they withhold, they give enough information to say we're on to it and we need your help.
+
+00:34:23.370 --> 00:34:33.690
+But then they withhold the critical information about the person actually being interviewed so that if they say something that is different than what they already know, they know they have something more to further investigate.
+
+00:34:34.570 --> 00:34:48.490
+My take would be to be a little shy with the full details, but give enough details to make it look like they could tell a story and either try to manipulate us or they could tell a story to clarify the things that we're missing that they may know.
+
+00:34:48.809 --> 00:34:55.610
+And then we know if whether or not they're motivated to deceive us or they're motivated to actually help solve the problem.
+
+00:34:57.530 --> 00:35:07.429
+This is my take.
+Yeah, fair.
+
+00:35:07.630 --> 00:35:12.030
+Not totally sure what we would say now.
+
+00:35:14.110 --> 00:35:14.269
+Yeah.
+
+00:35:16.879 --> 00:35:26.159
+So one thing you know is that the one thing you know that Fembris doesn't know and that she doesn't know is that Alchris fingered him as the killer, as the mastermind.
+
+00:35:26.480 --> 00:35:26.799
+Right.
+
+00:35:27.440 --> 00:35:30.559
+But until we're ready to prove it, but all we got is the confession.
+
+00:35:30.879 --> 00:35:40.239
+We knew that he provided the diversion of the apothecary, which is also strong evidence that he was involved somehow.
+
+00:35:40.879 --> 00:35:41.519
+Yep.
+
+00:35:44.719 --> 00:35:49.359
+So still don't know about the pigeons, right?
+
+00:35:49.679 --> 00:35:49.839
+Right.
+
+00:35:50.079 --> 00:35:50.719
+Doves or whatever.
+
+00:35:50.960 --> 00:35:51.839
+Passenger birds.
+
+00:35:52.399 --> 00:35:54.879
+And there's the pigeons, which are always suspicious.
+
+00:35:57.749 --> 00:36:04.309
+Well, one of the things that we can do is we can actually now probably go and open the safe in Alchris's room and see what's in that.
+
+00:36:05.909 --> 00:36:17.109
+Just to point out, if we do nothing, and if we leave it as is without implying that she's guilty, there is a chance that she could be elected to be the first keeper, right?
+
+00:36:17.269 --> 00:36:19.909
+Because she would, we know who did it.
+
+00:36:19.989 --> 00:36:20.709
+It's not her.
+
+00:36:21.349 --> 00:36:22.469
+Why wouldn't she be elected?
+
+00:36:25.980 --> 00:36:28.860
+Kalan is going to be part of the vote.
+
+00:36:29.180 --> 00:36:29.660
+Right.
+
+00:36:30.860 --> 00:36:35.260
+And so he's going to bring all the, he's going to demand a full report from you guys.
+
+00:36:36.220 --> 00:36:39.660
+He assures you that your voice will be heard before the meeting.
+
+00:36:40.620 --> 00:36:44.940
+But for Joe's strategy to work, don't we need to get the book first?
+
+00:36:47.019 --> 00:36:49.260
+No, on the way out, you always get the book.
+
+00:36:50.220 --> 00:36:53.100
+So she thinks she's finding damage.
+
+00:36:54.860 --> 00:36:57.660
+Get our reward and then use our reward to implicate her.
+
+00:36:57.980 --> 00:36:58.539
+Right.
+
+00:36:58.860 --> 00:37:00.700
+So when does that happen, time-wise?
+
+00:37:00.860 --> 00:37:02.860
+Is it before the vote or after the vote?
+
+00:37:03.180 --> 00:37:04.380
+After the vote, after the vote.
+
+00:37:04.620 --> 00:37:05.740
+Yeah, that doesn't work.
+
+00:37:07.019 --> 00:37:07.900
+Well, it does.
+
+00:37:09.980 --> 00:37:12.620
+She might be voted in as first keeper by then.
+
+00:37:19.050 --> 00:37:20.329
+Stranger things have happened.
+
+00:37:21.289 --> 00:37:23.050
+Stranger things have happened.
+
+00:37:24.010 --> 00:37:29.369
+One thing you could do is you can tell her we have a lot of evidence against you, and so maybe she doesn't want to run for first keeper.
+
+00:37:29.450 --> 00:37:31.050
+I mean, there's also that angle.
+
+00:37:32.570 --> 00:37:59.190
+But you are going to submit a report, and the report could be more or less damning to her.
+All right.
+So I think we tell her we've identified the murderer, but we're still investigating who the accomplices are because it doesn't explain everything that we've seen.
+But this is enough to act on right now.
+Yeah.
+We know there are accomplices.
+
+00:37:59.830 --> 00:38:00.070
+All right.
+
+00:38:00.230 --> 00:38:02.150
+So you leave it at, we know there are accomplice.
+
+00:38:04.820 --> 00:38:06.980
+She pauses and goes, more?
+
+00:38:08.500 --> 00:38:11.460
+What kind of she looks like, you know, like this?
+
+00:38:11.780 --> 00:38:13.460
+She's doing the whole I'm outraged.
+
+00:38:13.620 --> 00:38:16.420
+I'm like, this is just awful.
+
+00:38:16.660 --> 00:38:22.900
+I can't believe that there would be accomplices in the death of such a great man as Janussi, who is beloved by all.
+
+00:38:26.470 --> 00:38:27.270
+Beloved by all.
+
+00:38:27.510 --> 00:38:29.350
+Did she actually say beloved by all?
+
+00:38:29.830 --> 00:38:31.030
+Of course she did.
+
+00:38:37.110 --> 00:38:39.830
+So we still haven't found the key either.
+
+00:38:43.720 --> 00:38:45.480
+No, we never found the key.
+
+00:38:47.320 --> 00:38:50.520
+You want to tell her you haven't found it or leave it as something?
+
+00:38:52.710 --> 00:38:53.190
+Well, right.
+
+00:38:53.270 --> 00:38:55.670
+We don't know who did the polymorph.
+
+00:38:55.910 --> 00:38:59.430
+I mean, she may or may not have done the polymorphing, right?
+
+00:38:59.590 --> 00:39:00.790
+We don't know that part.
+
+00:39:01.670 --> 00:39:02.710
+Yes, you don't.
+
+00:39:09.080 --> 00:39:10.920
+As she's sitting there, she, yes?
+
+00:39:11.720 --> 00:39:20.600
+Can we ask her if she would be game to force the safe open now since we know he did it and she agreed that he did it?
+
+00:39:22.840 --> 00:39:24.280
+Alchris's safe.
+
+00:39:27.320 --> 00:39:29.240
+Let me just pull up the module for me a second.
+
+00:39:31.880 --> 00:39:39.480
+Kalan Strongbranch says, she goes, Kalan Strongbranch interrupts her, says, we will absolutely guard the safe tonight.
+
+00:39:39.720 --> 00:39:47.640
+Alchris will spend the day in the prisons where he will be kept secure and unable to escape.
+
+00:39:48.600 --> 00:39:50.360
+Okay, wasn't my question, though?
+
+00:39:51.240 --> 00:39:58.280
+Yes, I realize it wasn't, but I just wanted to make sure that the bookworm knew what the procedural activities that needed to take place.
+
+00:40:00.770 --> 00:40:04.610
+But the safe would remain under guard if not opened immediately.
+
+00:40:04.930 --> 00:40:05.170
+Sure.
+
+00:40:05.330 --> 00:40:06.610
+So can we open it?
+
+00:40:09.570 --> 00:40:10.610
+Let me find out.
+
+00:40:11.090 --> 00:40:11.890
+Good question.
+
+00:40:13.090 --> 00:40:16.130
+I mean, I have to know how it is open, not for any other reason.
+
+00:40:24.370 --> 00:40:27.330
+Give me a second while I load the module.
+
+00:41:25.579 --> 00:41:27.819
+So you're talking about Alchris's safe, right?
+
+00:41:42.849 --> 00:41:47.569
+Yes, you are able to go and open the safe.
+
+00:41:49.649 --> 00:41:50.129
+What's in it?
+
+00:41:50.210 --> 00:41:50.529
+What's in it?
+
+00:41:50.609 --> 00:41:51.250
+What's in it?
+
+00:41:51.409 --> 00:41:55.569
+Is it like a Geraldo Rivera type of thing where it's a big letdown?
+
+00:41:55.809 --> 00:41:56.129
+Yeah, yeah.
+
+00:41:56.929 --> 00:42:30.529
+It contains a potion of flying, a potion of superior healing, 750 gold pieces worth of gold coins, and nothing else to implicate him.
+Is there a red herring in there?
+Yes, there is, in fact, a red one of the gold coins as a herring that is red on it.
+That's funny.
+I was hoping or gem.
+
+00:42:30.659 --> 00:42:30.979
+Yeah.
+
+00:42:31.219 --> 00:42:31.619
+Yeah, yeah.
+
+00:42:32.659 --> 00:42:39.459
+So at this point in time, Bookworm says, I think we have had enough of these accusations.
+
+00:42:39.619 --> 00:42:42.419
+Like, she's standing at the doorway, like, this is this big production.
+
+00:42:42.739 --> 00:42:44.259
+Several of the other avowed are there.
+
+00:42:44.339 --> 00:42:45.299
+They're all looking at it.
+
+00:42:46.019 --> 00:42:50.899
+Meanwhile, Darel's going, can we do the curing of me now?
+
+00:42:51.139 --> 00:42:52.979
+Is that possible at all, Mr.
+
+00:42:53.059 --> 00:42:53.699
+Don, Mrs.
+
+00:42:53.779 --> 00:42:54.979
+Dawnbringer?
+
+00:42:56.259 --> 00:42:59.299
+You know, he's like complimenting Dawnbringer up and down.
+
+00:42:59.379 --> 00:43:01.699
+He's kind of given up on Grygum at this point in time.
+
+00:43:03.539 --> 00:43:07.379
+I mean, is there anything else we can extract from Darel at this point, or should we just torture the poor guy?
+
+00:43:07.539 --> 00:43:08.179
+I mean, like.
+
+00:43:11.459 --> 00:43:13.139
+I mean, we should probably heal him.
+
+00:43:13.539 --> 00:43:14.739
+Sorry, just real quick.
+
+00:43:15.139 --> 00:43:17.139
+Do any of us know Locate Object?
+
+00:43:20.329 --> 00:43:21.289
+At least Grygum doesn't.
+
+00:43:21.609 --> 00:43:23.289
+I had something about that.
+
+00:43:23.849 --> 00:43:26.969
+So, first of all, we never, we just were curious what's in the safe.
+
+00:43:27.049 --> 00:43:29.609
+We never claimed that anything specific was going to be in there.
+
+00:43:29.929 --> 00:43:30.250
+Yeah.
+
+00:43:30.569 --> 00:43:30.969
+Yes.
+
+00:43:33.529 --> 00:43:35.210
+Bookworm is with us, right?
+
+00:43:35.849 --> 00:43:36.409
+Yes.
+
+00:43:37.049 --> 00:43:37.289
+Okay.
+
+00:43:38.489 --> 00:43:48.089
+I mean, if any of us can cast Locate Object or Detective, whatever it's called, it's going to kind of be like calling somebody's phone and having it ring in their pocket and be like, oh.
+
+00:43:48.489 --> 00:43:50.569
+Well, yeah, I'm hoping she has a sapphire on it.
+
+00:43:50.649 --> 00:44:14.579
+That would be interesting.
+So what are you going to look for?
+Sapphire.
+I mean, do we have the other half of it?
+No.
+Yeah, if we had the sapphire, I have identify and it's a ritual spell, and it may tell me.
+
+00:44:15.539 --> 00:44:16.099
+Yeah, no.
+
+00:44:16.259 --> 00:44:21.379
+So you cast the locate object, and it does not locate the object.
+
+00:44:25.389 --> 00:44:26.589
+She does not have the sapphire.
+
+00:44:26.669 --> 00:44:31.469
+At this point in time, she's like, well, I think this spectacle has gone on long enough.
+
+00:44:32.509 --> 00:44:33.229
+You have done very well.
+
+00:44:33.389 --> 00:44:35.309
+She pauses and says, you have done very well.
+
+00:44:35.949 --> 00:44:47.710
+You have completed the task that I had called upon you, and you have clearly demonstrated the value of Kalan Strongbranch's methodology for criminal investigation.
+
+00:44:49.229 --> 00:44:53.229
+Something that I was dubious about, but now I'm strongly pleased with.
+
+00:44:53.469 --> 00:44:58.509
+And Kalan, I think that it was unwise of me to not keep you in charge.
+
+00:44:58.829 --> 00:45:03.309
+And so with my sincerest apologies, would you be so willing as to take your new position?
+
+00:45:03.869 --> 00:45:05.229
+Your position once more.
+
+00:45:09.919 --> 00:45:13.679
+Kalan's count's, of course, very gracious and very happy to accept it.
+
+00:45:14.239 --> 00:45:17.679
+He says, but this will not change the nature of my report tomorrow.
+
+00:45:18.639 --> 00:45:21.519
+She goes, of course not, Kalan, of course not.
+
+00:45:21.839 --> 00:45:26.399
+I would never dream of you hiding any facts or any details of what has happened.
+
+00:45:26.719 --> 00:45:31.039
+And I can assure the heroic adventurers whose names escape.
+
+00:45:31.199 --> 00:45:50.529
+Yeah, yes, Zalthir, et cetera, that tomorrow morning, during the naming ceremony, you will all be given an ample opportunity to express your opinions and convictions about what you may think may or may not have happened.
+
+00:45:51.809 --> 00:45:56.369
+But I think the festivities have gone on long enough for the day.
+
+00:45:56.689 --> 00:46:22.609
+And I would like, and I will now ask Kalan to escort you to your quarters or to the, she points to, she actually says, I will ask him to escort you to Fheminor's alcove, where you will wait until later this evening and be escorted to your chambers, at which point in time you will be escorted from your chambers and back to the Council of the Avowed.
+
+00:46:25.320 --> 00:46:27.239
+Are we under house arrest?
+
+00:46:27.880 --> 00:46:29.159
+No, no, no, no, no.
+
+00:46:29.480 --> 00:46:35.960
+You currently have the most important evidence of any kind, and so I'm simply doing this to protect you.
+
+00:46:37.159 --> 00:46:45.719
+As you so correctly pointed out, there are other criminal elements within this society, and I would hate for something terrible to happen to you.
+
+00:46:46.360 --> 00:46:49.079
+You can roll an insight in an investigation.
+
+00:46:52.920 --> 00:46:54.440
+I got a 24.
+
+00:46:54.760 --> 00:46:55.239
+Wow.
+
+00:46:55.480 --> 00:47:01.960
+Yeah, she's actually not, she's actually actually, so what you gather is she's got, she realizes that this is a win-win.
+
+00:47:02.119 --> 00:47:03.880
+Thorin, you picked nothing.
+
+00:47:04.519 --> 00:47:05.719
+I got nothing.
+
+00:47:06.599 --> 00:47:07.559
+I got nothing.
+
+00:47:08.840 --> 00:47:41.720
+So Zalthir, so Zalthir and Daz, what Zalthir picks up is that she's actually sincerely worried about your safety.
+So there's a certain, she's sincerely worried about your safety, but Daz also picks up, she's also delighted by the idea of keeping you wrapped up and not poking your heads anymore anywhere.
+So while she's talking, I have my Glabbagool arm swiped the potion of flying.
+
+00:47:43.320 --> 00:47:43.640
+Okay.
+
+00:47:47.080 --> 00:47:49.320
+Never miss an opportunity to grift, man.
+
+00:47:54.360 --> 00:47:55.640
+I like the flying skill.
+
+00:47:55.720 --> 00:47:56.680
+That was a good skip.
+
+00:47:57.240 --> 00:47:57.720
+Right?
+
+00:48:00.520 --> 00:48:01.560
+Fair enough.
+
+00:48:03.160 --> 00:48:09.160
+Okay, that's a sufficiently high sleight of hand, and everybody is so frantically looking at everything else that nobody pays any attention.
+
+00:48:11.320 --> 00:48:16.760
+In fact, what happens is they actually close the safe with everything inside and declare it to be of no interest.
+
+00:48:17.080 --> 00:48:22.280
+Kalan Strongbranch, they're all so fixated on their issues.
+
+00:48:22.520 --> 00:48:37.880
+Kalan Strongbranch now again is in charge of the guard and says, no, heroes, heroes, and I must say, I'm very happy to see how your actions have proven the value of my investigative methods that have done.
+
+00:48:38.440 --> 00:48:40.920
+He's like, you know, all full of himself at this point in time.
+
+00:48:41.240 --> 00:48:45.400
+He's yet another person who's very heartbroken over Janussi's untimely demise.
+
+00:48:48.450 --> 00:48:49.330
+Wait, who is?
+
+00:48:50.530 --> 00:48:51.250
+Kalan.
+
+00:48:54.620 --> 00:48:59.180
+He's one more of the people who are working for Kalan who are very happy to see him dead.
+
+00:49:01.340 --> 00:49:04.700
+And I'm making fun of the fact that he's his untimely demise.
+
+00:49:04.780 --> 00:49:07.100
+Kalan's also going, what a great man.
+
+00:49:07.260 --> 00:49:08.060
+What a great man.
+
+00:49:08.300 --> 00:49:10.300
+What a tragedy for the community.
+
+00:49:16.630 --> 00:49:18.070
+You know, this is, you know, so there.
+
+00:49:18.230 --> 00:49:22.710
+So you arrive in Fheminor's in the office.
+
+00:49:22.790 --> 00:49:26.310
+And so imagine a room with bookshelves and tables.
+
+00:49:28.070 --> 00:49:31.110
+Fembris Lancer is sort of sitting in there with you.
+
+00:49:31.430 --> 00:49:34.870
+Apparently, he's still punished, has to sit with you while you're sitting there.
+
+00:49:35.430 --> 00:49:38.310
+Food is brought in towards the evening.
+
+00:49:39.590 --> 00:49:41.990
+I don't trust any of this food anymore, man.
+
+00:49:46.150 --> 00:49:47.270
+Fembris says, come, come, come.
+
+00:49:47.830 --> 00:49:50.470
+Fembris, on the other hand, doesn't have any issues and is about to start eating.
+
+00:49:50.550 --> 00:49:52.790
+Do you guys tell him anything or let him eat?
+
+00:49:56.400 --> 00:49:58.960
+I mean, we have to have a taster, I guess.
+
+00:49:59.280 --> 00:50:00.639
+Yeah, I'd say let him eat.
+
+00:50:00.800 --> 00:50:02.079
+Yeah, and that's the new best practice.
+
+00:50:02.800 --> 00:50:07.760
+At this point in time, it's like getting like nine o'clock, and Darel's like going, are you guys going to cure me or anything?
+
+00:50:11.950 --> 00:50:12.910
+I mean, what do you guys think?
+
+00:50:12.990 --> 00:50:14.190
+Should we cure him?
+
+00:50:15.310 --> 00:50:18.670
+I mean, if he, I don't know.
+
+00:50:23.440 --> 00:50:24.880
+I don't think he had anything to do with it.
+
+00:50:25.040 --> 00:50:26.880
+And I don't think he has anything to tell us anymore.
+
+00:50:27.040 --> 00:50:29.120
+I think we'd probably just let him go.
+
+00:50:29.440 --> 00:50:29.920
+Probably.
+
+00:50:30.800 --> 00:50:31.040
+Yeah.
+
+00:50:31.280 --> 00:50:34.720
+I mean, we could extort him, but I don't think that would be nice.
+
+00:50:36.320 --> 00:50:39.440
+I mean, maybe Daz would, but I don't know about the rest of us.
+
+00:50:40.640 --> 00:50:41.040
+All right.
+
+00:50:41.120 --> 00:50:42.880
+All right, Dawnbringer, do your thing.
+
+00:50:43.440 --> 00:50:43.760
+All right.
+
+00:50:43.920 --> 00:50:46.000
+So he's cured and he's very happy.
+
+00:50:46.080 --> 00:50:53.840
+And he says, I shall write, I shall do all kinds of new research on magical swords with the sentience and the beauty of Dawnbringer.
+
+00:50:53.920 --> 00:50:56.880
+I intend to make it an area of active research of mine.
+
+00:50:57.120 --> 00:50:58.000
+I can already imagine.
+
+00:50:58.160 --> 00:51:01.200
+He starts talking about how he's going to study the thematic.
+
+00:51:02.080 --> 00:51:07.920
+I can't do the semiotics, but just imagine like semiotic spewage for about five minutes.
+
+00:51:08.560 --> 00:51:10.640
+Dawnbringer eats it up, I'm sure.
+
+00:51:10.960 --> 00:51:12.720
+Oh, yeah, Dawnbringer completely eats it up.
+
+00:51:13.760 --> 00:51:14.480
+He's ecstatic.
+
+00:51:14.560 --> 00:51:15.360
+He's like, oh, yes.
+
+00:51:15.760 --> 00:51:17.280
+And blah, blah, blah, blah, blah.
+
+00:51:18.080 --> 00:51:24.320
+He tries to walk out of the room, but apparently the room is still locked and he's not going to hear it.
+
+00:51:24.960 --> 00:51:31.760
+And as you sit there wondering how the hell this story is going to end, combat emerges.
+
+00:51:32.400 --> 00:51:33.360
+Combat?
+
+00:51:34.560 --> 00:51:35.200
+Yes.
+
+00:51:36.720 --> 00:51:36.880
+Okay.
+
+00:51:39.040 --> 00:51:40.560
+Not expected, but okay.
+
+00:51:44.079 --> 00:51:46.079
+Um it's uh
+
+00:51:54.849 --> 00:51:57.329
+and I just need to I forgot to draw the map.
+
+00:51:57.730 --> 00:51:59.569
+All those procreation for dot on that.
+
+00:53:09.990 --> 00:53:10.390
+Right.
+
+00:53:17.420 --> 00:53:20.620
+All right, so yeah, we have um nice
+
+00:53:30.250 --> 00:53:30.650
+all right.
+
+00:53:31.050 --> 00:53:33.210
+I hope I was cute in the right area there.
+
+00:53:34.330 --> 00:53:34.810
+Um
+
+00:54:25.450 --> 00:54:32.170
+Three helmed horrors smashed through the windows and the door coming into the chamber.
+
+00:54:32.490 --> 00:54:35.210
+The five of you are, of course, stunned.
+
+00:54:35.530 --> 00:54:35.930
+Not necessarily.
+
+00:54:36.889 --> 00:54:37.690
+Who came in?
+
+00:54:40.010 --> 00:54:43.930
+Let me just get a two-palmer clean here to represent Darel.
+
+00:54:50.820 --> 00:54:52.820
+Look at that helmed horror.
+
+00:54:53.700 --> 00:54:54.180
+Yes.
+
+00:55:01.510 --> 00:55:04.150
+Oh, is this like animated armor or something?
+
+00:55:05.030 --> 00:55:05.350
+What?
+
+00:55:05.510 --> 00:55:06.230
+Yes, they're animated.
+
+00:55:06.310 --> 00:55:07.510
+They're animations.
+
+00:55:08.790 --> 00:55:09.350
+All right.
+
+00:55:16.460 --> 00:55:16.940
+All right.
+
+00:55:40.600 --> 00:55:40.760
+Okay.
+
+00:55:41.960 --> 00:55:42.280
+All right.
+
+00:55:42.519 --> 00:55:42.840
+So,
+
+00:55:49.730 --> 00:55:50.370
+all righty.
+
+00:55:50.610 --> 00:55:51.890
+So, Daz, where are you?
+
+00:55:52.050 --> 00:55:53.970
+You're located right here.
+
+00:55:54.610 --> 00:55:55.570
+Are we on the run map?
+
+00:55:57.410 --> 00:56:00.130
+No, sorry, I haven't drawn, I haven't brought you to the right map.
+
+00:56:00.450 --> 00:56:01.090
+Got it.
+
+00:56:01.730 --> 00:56:02.450
+There we go.
+
+00:56:04.210 --> 00:56:04.530
+All right.
+
+00:56:05.090 --> 00:56:07.970
+So this is Fheminor's sanctum.
+
+00:56:09.170 --> 00:56:10.850
+Wait, Darel's a woman?
+
+00:56:11.810 --> 00:56:16.130
+No, it's just the commoner icon.
+
+00:56:16.450 --> 00:56:17.250
+Oh, okay.
+
+00:56:18.850 --> 00:56:19.170
+Sorry.
+
+00:56:19.330 --> 00:56:21.570
+Yeah, it's just the generic commoner icon.
+
+00:56:22.210 --> 00:56:24.690
+I did not make Darel art.
+
+00:56:25.010 --> 00:56:25.570
+Got it.
+
+00:56:26.210 --> 00:56:27.730
+But there's two Darels.
+
+00:56:30.690 --> 00:56:32.050
+No, no, that's a mistake.
+
+00:56:32.210 --> 00:56:33.490
+One of those shouldn't be Fembris.
+
+00:56:40.120 --> 00:56:40.680
+All right.
+
+00:56:43.510 --> 00:56:43.830
+Okay.
+
+00:56:44.950 --> 00:56:46.470
+Let's roll for initiative.
+
+00:56:48.710 --> 00:56:49.830
+Remove all turns.
+
+00:56:50.790 --> 00:56:51.910
+Don't roll for initiative yet.
+
+00:56:52.070 --> 00:56:52.310
+Okay.
+
+00:56:52.950 --> 00:56:54.390
+You just said let's roll for initiative.
+
+00:56:54.470 --> 00:56:55.510
+I was about to roll for initiative.
+
+00:56:55.750 --> 00:56:56.710
+I know, I know, I know.
+
+00:56:56.870 --> 00:56:57.750
+I should have told you.
+
+00:56:58.150 --> 00:56:59.510
+I needed to clear things up.
+
+00:56:59.910 --> 00:57:00.950
+I'm sorry.
+
+00:57:02.230 --> 00:57:02.470
+All right.
+
+00:57:02.550 --> 00:57:03.110
+Are we safe?
+
+00:57:03.270 --> 00:57:03.830
+We good?
+
+00:57:04.470 --> 00:57:05.350
+Yeah, you're good now.
+
+00:57:05.670 --> 00:57:07.830
+I just need to now get up Thorns.
+
+00:57:08.710 --> 00:57:09.750
+Sorry, not Thorns.
+
+00:57:19.910 --> 00:57:21.750
+I did poorly.
+
+00:57:23.510 --> 00:57:24.070
+Did poorly?
+
+00:57:24.550 --> 00:57:26.150
+Do my initiative.
+
+00:57:32.390 --> 00:57:33.350
+That's not bad.
+
+00:57:42.180 --> 00:57:42.580
+All right.
+
+00:57:43.860 --> 00:57:44.100
+Okay.
+
+00:58:08.130 --> 00:58:09.410
+And then one more.
+
+00:58:19.170 --> 00:58:19.730
+All right.
+
+00:58:20.370 --> 00:58:20.530
+Okay.
+
+00:58:23.410 --> 00:58:24.610
+The creature.
+
+00:58:27.100 --> 00:58:27.740
+All right.
+
+00:58:28.060 --> 00:58:31.820
+So let me give these guys numbers so that we're not saying the helmed horror.
+
+00:58:44.890 --> 00:58:47.130
+By the way, why is Klebgul so far away?
+
+00:58:47.210 --> 00:58:49.050
+Shouldn't Klebgul be on me?
+
+00:58:49.290 --> 00:58:50.490
+I just played because I dropped them there.
+
+00:58:50.570 --> 00:58:51.610
+I just dropped them there.
+
+00:58:51.930 --> 00:58:52.170
+Okay.
+
+00:58:54.890 --> 00:58:56.730
+You can put him wherever you want.
+
+00:58:58.090 --> 00:58:58.490
+How about this?
+
+00:58:58.650 --> 00:59:01.130
+Unless you tell me otherwise, I'm assuming he's attached to you.
+
+00:59:01.450 --> 00:59:02.250
+Zalthir.
+
+00:59:03.210 --> 00:59:03.610
+Right.
+
+00:59:03.930 --> 00:59:05.530
+That way I don't have to keep moving him.
+
+00:59:05.610 --> 00:59:07.290
+And if he's not attached to you, we'll.
+
+00:59:08.730 --> 00:59:08.810
+Yeah.
+
+00:59:08.970 --> 00:59:11.850
+So I'm just going to put him over there so I don't get confused.
+
+00:59:14.330 --> 00:59:14.970
+All right.
+
+00:59:33.290 --> 00:59:33.610
+Okay.
+
+00:59:37.659 --> 00:59:37.980
+Okay.
+
+00:59:38.619 --> 00:59:42.460
+So guy heads straight
+
+00:59:44.450 --> 00:59:45.650
+for Daz
+
+00:59:49.200 --> 00:59:50.400
+and attacks you.
+
+00:59:50.960 --> 00:59:52.240
+The helmed horror?
+
+00:59:52.880 --> 00:59:53.840
+Yeah, the helmed horror.
+
+00:59:53.920 --> 00:59:54.960
+He attacks you.
+
+00:59:58.150 --> 00:59:59.829
+You're kind of very confused at this point in time.
+
+00:59:59.909 --> 01:00:01.429
+Fembris is kind of in shock.
+
+01:00:01.670 --> 01:00:03.590
+Darel goes, that's not possible.
+
+01:00:03.750 --> 01:00:06.070
+How could these creatures can't be here?
+
+01:00:07.909 --> 01:00:12.550
+We have no idea where these people came from, where these things came from or who they're answering to or anything like that.
+
+01:00:12.710 --> 01:00:13.110
+How they came.
+
+01:00:13.190 --> 01:00:14.550
+No, you knew how they came from.
+
+01:00:14.630 --> 01:00:17.269
+They climbed in the window and smashed him through the door.
+
+01:00:17.590 --> 01:00:21.670
+Okay, sort of like Mission Impossible style.
+
+01:00:22.309 --> 01:00:22.789
+Yes.
+
+01:00:23.349 --> 01:00:26.309
+But how many of them are Scientologists?
+
+01:00:31.429 --> 01:00:31.750
+No.
+
+01:00:34.550 --> 01:00:35.909
+They have no intelligence or thought.
+
+01:00:36.309 --> 01:00:39.989
+They have no intelligence or thought of their own, so perhaps it hangs.
+
+01:00:43.750 --> 01:00:44.389
+All right.
+
+01:00:45.909 --> 01:00:46.150
+Okay.
+
+01:00:47.670 --> 01:00:49.110
+This guy, I can't remember.
+
+01:00:50.389 --> 01:00:51.750
+All right, what is he doing?
+
+01:00:56.340 --> 01:00:56.900
+All right.
+
+01:01:16.239 --> 01:01:18.239
+He attempts to grapple you.
+
+01:01:20.000 --> 01:01:21.360
+Who's you and who's he?
+
+01:01:22.880 --> 01:01:23.840
+The creature.
+
+01:01:24.480 --> 01:01:25.840
+The helmed horror?
+
+01:01:26.800 --> 01:01:27.440
+Yes.
+
+01:01:29.360 --> 01:01:32.480
+Helmed horror number three attempts to grapple which player?
+
+01:01:33.119 --> 01:01:33.679
+Me.
+
+01:01:34.719 --> 01:01:35.039
+Yes.
+
+01:01:35.199 --> 01:01:42.079
+And sorry, helmed horror number one attempts to grapple Daz.
+
+01:01:43.360 --> 01:01:49.440
+Well, it's helmed horror number three that is 23 in the turn order.
+
+01:01:50.079 --> 01:01:50.480
+Oh, true.
+
+01:01:50.960 --> 01:01:51.760
+Well, sorry, D and D.
+
+01:01:52.320 --> 01:01:53.599
+Oh, sorry, my bad.
+
+01:01:54.239 --> 01:01:54.800
+He does.
+
+01:01:55.119 --> 01:01:57.920
+Wait, does that mean Grygum gets an attack of opportunity?
+
+01:01:58.880 --> 01:01:59.840
+No, no, no.
+
+01:02:00.480 --> 01:02:01.679
+Because it went by Grygum.
+
+01:02:02.800 --> 01:02:03.599
+Yeah, I know, he does.
+
+01:02:03.679 --> 01:02:04.719
+Grygum does actually get an attack.
+
+01:02:04.960 --> 01:02:05.360
+Oh, yeah, yeah.
+
+01:02:06.480 --> 01:02:07.039
+Yeah, no, no.
+
+01:02:07.599 --> 01:02:08.480
+I hadn't noticed it.
+
+01:02:08.800 --> 01:02:11.840
+He basically ignores Grygum, rushes towards Daz.
+
+01:02:13.360 --> 01:02:18.719
+I'm going to hit him with his mace plus one.
+
+01:02:20.000 --> 01:02:21.039
+What did I ever do?
+
+01:02:21.280 --> 01:02:21.760
+This seems.
+
+01:02:22.079 --> 01:02:23.679
+You're a popular guy.
+
+01:02:25.519 --> 01:02:27.519
+He takes, he misses.
+
+01:02:27.840 --> 01:02:31.280
+The helmed whore tries to grapple you.
+
+01:02:33.599 --> 01:02:34.960
+The grapple rules.
+
+01:02:37.119 --> 01:02:42.079
+You can tell me what the grapple rules are off the top of your head, or you can watch as I struggle to remember them.
+
+01:02:44.000 --> 01:02:47.280
+It's contested athletics, I think.
+
+01:02:55.479 --> 01:02:57.559
+My defense is an arcana check, right?
+
+01:02:57.799 --> 01:02:59.159
+Because that's what I have plus 11.
+
+01:03:00.039 --> 01:03:01.879
+Make an unarmed strength for his target.
+
+01:03:02.279 --> 01:03:04.039
+Strength or dexterity saving throw.
+
+01:03:06.349 --> 01:03:06.829
+Yes.
+
+01:03:07.469 --> 01:03:10.429
+This is a regular dexterity saving throw?
+
+01:03:11.309 --> 01:03:11.629
+Yeah.
+
+01:03:12.029 --> 01:03:13.949
+Yeah, or strength, looks like.
+
+01:03:14.829 --> 01:03:16.109
+What's your strength?
+
+01:03:18.189 --> 01:03:19.469
+I have to hit you, though, first, right?
+
+01:03:19.709 --> 01:03:21.309
+Yeah, unarmed strike.
+
+01:03:23.549 --> 01:03:24.749
+What's your armor class?
+
+01:03:25.069 --> 01:03:25.709
+12.
+
+01:03:27.069 --> 01:03:27.309
+All right.
+
+01:03:27.549 --> 01:03:28.189
+Unless there's a plus.
+
+01:03:28.429 --> 01:03:28.909
+That was a 5.
+
+01:03:30.669 --> 01:03:31.229
+All right.
+
+01:03:34.109 --> 01:03:37.469
+The unarmed horror has grappled you.
+
+01:03:37.629 --> 01:03:38.749
+You are grappled.
+
+01:03:40.639 --> 01:03:41.919
+Oh, because there's a plus.
+
+01:03:44.239 --> 01:03:44.559
+Plus 4.
+
+01:03:45.279 --> 01:03:48.239
+But I didn't roll my saving throw, right?
+
+01:03:48.319 --> 01:03:50.479
+Don't know how he gets a roll of saving throw to avoid it.
+
+01:03:51.439 --> 01:03:51.999
+Yes, you do.
+
+01:03:53.439 --> 01:03:53.919
+That's what you did.
+
+01:03:54.079 --> 01:03:54.319
+Oh, yeah.
+
+01:03:54.479 --> 01:03:54.879
+No, no.
+
+01:03:55.279 --> 01:03:56.399
+Yeah, you do.
+
+01:03:56.479 --> 01:03:56.719
+Yes.
+
+01:03:56.879 --> 01:03:57.439
+Yes.
+
+01:03:59.039 --> 01:03:59.759
+15.
+
+01:04:00.719 --> 01:04:01.759
+Ah, it's a tie.
+
+01:04:02.159 --> 01:04:03.919
+So you are not grappled.
+
+01:04:05.199 --> 01:04:05.519
+Okay.
+
+01:04:08.050 --> 01:04:09.250
+Dad, you're up.
+
+01:04:10.769 --> 01:04:14.769
+Well, let's kick this dude's ass that's right in front of me.
+
+01:04:15.090 --> 01:04:15.889
+Let's see.
+
+01:04:16.210 --> 01:04:17.809
+Because he pissed me off.
+
+01:04:22.130 --> 01:04:24.610
+What spells do I have, which would be good for him?
+
+01:04:24.769 --> 01:04:26.289
+I mean, I could magic missile him.
+
+01:04:26.849 --> 01:04:30.289
+Do I have any insight into how many hit points this dude has?
+
+01:04:30.929 --> 01:04:32.289
+He doesn't have a lot of hit points.
+
+01:04:32.449 --> 01:04:35.969
+You also know that he's resistant to flavors of magic.
+
+01:04:36.610 --> 01:04:38.530
+Oh, what flavors of magic is he?
+
+01:04:41.359 --> 01:04:41.839
+You don't know.
+
+01:04:41.920 --> 01:04:44.480
+There's like spells that they're protected from.
+
+01:04:45.440 --> 01:04:48.239
+Yeah, the creator, when creating him, chooses three.
+
+01:04:48.400 --> 01:04:49.920
+We don't know which three were chosen.
+
+01:04:50.239 --> 01:04:52.639
+Just spells or types of magic?
+
+01:04:53.279 --> 01:04:54.079
+Spells.
+
+01:05:01.889 --> 01:05:09.889
+Looks like they have general magic resistance, advantage over every spell, and then immunity to three specific spells that we don't know.
+
+01:05:12.099 --> 01:05:12.739
+All right.
+
+01:05:13.619 --> 01:05:13.859
+So
+
+01:05:20.929 --> 01:05:23.169
+what level is this?
+
+01:05:23.489 --> 01:05:27.009
+I'm going to cast Phantasmal Killer on him.
+
+01:05:29.119 --> 01:05:30.800
+What kind of damage is that?
+
+01:05:33.680 --> 01:05:35.039
+It will be psychic.
+
+01:05:37.369 --> 01:05:38.890
+Roll an Arcana check.
+
+01:05:39.769 --> 01:05:41.369
+Oh, roll an Arcana check first.
+
+01:05:41.690 --> 01:05:41.849
+Okay.
+
+01:05:46.490 --> 01:05:46.809
+Okay.
+
+01:05:47.369 --> 01:05:51.289
+Oh, it's actually an illusion that causes psychic damage.
+
+01:05:52.490 --> 01:05:52.809
+Yes.
+
+01:05:52.970 --> 01:05:55.610
+The point I'm trying to make, though, is it's a construct.
+
+01:05:56.809 --> 01:05:57.610
+No, no, no, no.
+
+01:05:57.690 --> 01:05:58.809
+It's not a construct.
+
+01:05:59.690 --> 01:06:02.010
+No, no, the creature you're fighting is a construct.
+
+01:06:02.329 --> 01:06:03.769
+Oh, then I didn't know that.
+
+01:06:04.010 --> 01:06:04.730
+All right, hold on.
+
+01:06:04.890 --> 01:06:05.450
+Then probably he's.
+
+01:06:05.690 --> 01:06:08.809
+Yeah, sometimes he's a construct, right?
+
+01:06:17.000 --> 01:06:22.200
+All right, so let me go clear my okay.
+
+01:06:22.840 --> 01:06:26.120
+So I'll fire.
+
+01:06:34.020 --> 01:06:35.860
+I'm going to maybe.
+
+01:06:36.500 --> 01:06:39.300
+Let's see if he's immune to fire damage.
+
+01:06:39.460 --> 01:06:40.260
+I'll cast.
+
+01:06:40.820 --> 01:06:41.460
+Or do I know?
+
+01:06:41.620 --> 01:06:44.980
+Can I tell if he's no, you have no idea.
+
+01:06:45.460 --> 01:06:46.260
+You have no idea.
+
+01:06:46.580 --> 01:06:49.060
+All right, so we're going to try Scorching Ray.
+
+01:06:51.420 --> 01:06:51.900
+All right.
+
+01:06:52.860 --> 01:06:53.980
+I tried to cast it.
+
+01:06:54.139 --> 01:06:55.420
+It's not working.
+
+01:06:56.460 --> 01:06:56.860
+Try again.
+
+01:06:57.339 --> 01:06:58.380
+There we go.
+
+01:06:59.019 --> 01:06:59.339
+All right.
+
+01:06:59.579 --> 01:07:02.059
+So that would be eight times three.
+
+01:07:02.539 --> 01:07:04.779
+I casted Scorching Ray.
+
+01:07:05.579 --> 01:07:09.500
+It's magical fire damage, and it would be eight times three rays.
+
+01:07:09.819 --> 01:07:10.779
+And I rolled a 22.
+
+01:07:11.980 --> 01:07:16.059
+Yeah, now if you attack the guy who's right next to you, you would be at disadvantage.
+
+01:07:16.139 --> 01:07:19.339
+If you attack the guys who are away from you, it would be a hit.
+
+01:07:25.269 --> 01:07:28.789
+It's that just because it's a range area?
+
+01:07:28.950 --> 01:07:29.830
+You can't cast it.
+
+01:07:29.990 --> 01:07:30.950
+Yeah, it's a range thing.
+
+01:07:31.269 --> 01:07:32.230
+Yeah, it's a range.
+
+01:07:32.550 --> 01:07:35.510
+I thought that was only with like non-magical stuff.
+
+01:07:36.070 --> 01:07:36.230
+Okay.
+
+01:07:36.470 --> 01:07:40.070
+No, no, I'll fire it at Helm Horror 1.
+
+01:07:40.710 --> 01:07:41.910
+All right, all three?
+
+01:07:43.750 --> 01:07:44.950
+Sure, all three.
+
+01:07:45.830 --> 01:07:46.230
+Right.
+
+01:07:46.550 --> 01:07:48.550
+So he takes 24 points of damage.
+
+01:07:48.789 --> 01:07:49.990
+24 points, yeah.
+
+01:07:50.950 --> 01:07:51.430
+All right.
+
+01:07:52.070 --> 01:07:52.870
+Boom, boom, boom.
+
+01:07:53.030 --> 01:07:53.670
+Boom.
+
+01:07:55.940 --> 01:07:56.420
+All right.
+
+01:07:59.030 --> 01:07:59.190
+Okay.
+
+01:08:05.299 --> 01:08:05.539
+All right.
+
+01:08:05.699 --> 01:08:09.299
+Helmed horror three approaches Zalthir.
+
+01:08:10.659 --> 01:08:11.299
+Hello.
+
+01:08:12.500 --> 01:08:13.779
+And attacks.
+
+01:08:15.219 --> 01:08:17.139
+He doesn't respond to your hello.
+
+01:08:25.379 --> 01:08:25.699
+All right.
+
+01:08:25.779 --> 01:08:26.899
+So what does he do?
+
+01:08:29.609 --> 01:08:31.369
+2D6 plus, okay.
+
+01:08:31.689 --> 01:08:33.289
+D20 plus 6.
+
+01:08:35.579 --> 01:08:37.739
+But that's not a useful command.
+
+01:08:39.899 --> 01:08:41.019
+That's a hit.
+
+01:08:41.659 --> 01:08:42.859
+That is also a hit.
+
+01:08:43.179 --> 01:08:43.979
+What is your armor?
+
+01:08:44.059 --> 01:08:45.899
+What is your you?
+
+01:08:46.059 --> 01:08:50.539
+You take, let me just tell you what the damage is, and then you could tell me how much little damage you take.
+
+01:08:50.859 --> 01:09:00.859
+You take 13 points of damage plus take 13 points of damage, 18 points of damage from the first attack.
+
+01:09:03.949 --> 01:09:04.429
+No, sorry.
+
+01:09:04.589 --> 01:09:04.829
+Take that.
+
+01:09:04.909 --> 01:09:05.549
+That 13 points.
+
+01:09:05.709 --> 01:09:05.949
+Sorry.
+
+01:09:06.029 --> 01:09:06.269
+I'm sorry.
+
+01:09:06.349 --> 01:09:06.989
+I did the math wrong.
+
+01:09:14.219 --> 01:09:16.859
+That's from the first attack and from the second attack.
+
+01:09:16.939 --> 01:09:18.699
+So 17 points of damage.
+
+01:09:19.259 --> 01:09:20.299
+Is healthier?
+
+01:09:21.179 --> 01:09:21.819
+Yes.
+
+01:09:25.499 --> 01:09:25.979
+Sure.
+
+01:09:26.459 --> 01:09:30.219
+I will mitigate the first attack.
+
+01:09:31.499 --> 01:09:36.619
+Okay, so the first attack you can mitigate the either the psychic damage or the slashing damage.
+
+01:09:37.259 --> 01:09:38.459
+What do you want to mitigate?
+
+01:09:38.779 --> 01:09:40.459
+Oh, there were two components to that.
+
+01:09:41.099 --> 01:09:41.499
+Yeah, yeah.
+
+01:09:41.579 --> 01:09:45.339
+So the D8 plus four is the slashing, and the D10 is the force damage.
+
+01:09:45.979 --> 01:09:49.019
+D8 plus force slashing.
+
+01:09:50.459 --> 01:09:52.459
+Okay, that was eight, right?
+
+01:09:53.579 --> 01:09:54.059
+Yep.
+
+01:09:54.539 --> 01:10:01.979
+Okay, so I can, if I mitigate the eight, blah, blah, blah.
+
+01:10:02.539 --> 01:10:03.579
+Well, that's automatic.
+
+01:10:03.739 --> 01:10:03.979
+Okay.
+
+01:10:04.539 --> 01:10:09.979
+So then I take three plus six nine damage.
+
+01:10:10.139 --> 01:10:10.779
+Is that right?
+
+01:10:11.099 --> 01:10:11.419
+Yep.
+
+01:10:11.659 --> 01:10:12.779
+That sounds all right.
+
+01:10:13.099 --> 01:10:13.339
+Okay.
+
+01:10:23.739 --> 01:10:24.059
+Right.
+
+01:10:26.829 --> 01:10:28.029
+No, we wouldn't do that.
+
+01:10:28.269 --> 01:10:29.549
+We go this way.
+
+01:10:30.189 --> 01:10:30.509
+All right.
+
+01:10:30.669 --> 01:10:34.509
+This guy, on the other hand, decides to attack Daz.
+
+01:10:36.669 --> 01:10:38.909
+Why is everybody piling up on me?
+
+01:10:40.749 --> 01:10:41.229
+I don't know.
+
+01:10:41.789 --> 01:10:43.949
+I guess because I just shot him in the face.
+
+01:10:45.869 --> 01:10:47.549
+Well, except, except, okay.
+
+01:10:47.869 --> 01:10:49.229
+You rolled a high arcana.
+
+01:10:49.469 --> 01:10:53.869
+What you know about constructs is they don't have feelings, they have objectives.
+
+01:10:54.189 --> 01:10:55.229
+That's right.
+
+01:10:56.189 --> 01:10:57.629
+They're like AIs.
+
+01:10:58.909 --> 01:10:59.149
+Right.
+
+01:10:59.309 --> 01:10:59.789
+So they don't.
+
+01:10:59.869 --> 01:11:02.029
+So this is not about something else.
+
+01:11:06.259 --> 01:11:09.769
+15 points of damage.
+
+01:11:10.969 --> 01:11:12.329
+All right, Zalthir, you're up.
+
+01:11:13.689 --> 01:11:14.249
+Boat.
+
+01:11:16.169 --> 01:11:16.489
+Okay.
+
+01:11:17.769 --> 01:11:24.009
+Can you clarify which are the windows and which is the door?
+
+01:11:25.449 --> 01:11:26.569
+Okay, good question.
+
+01:11:33.959 --> 01:11:34.199
+Okay.
+
+01:11:34.359 --> 01:11:35.879
+Door, window, window.
+
+01:11:36.199 --> 01:11:39.719
+And when these guys came in through the window, were they flying?
+
+01:11:39.879 --> 01:11:40.999
+Like, how did they do that?
+
+01:11:41.239 --> 01:11:41.559
+Yes.
+
+01:11:42.199 --> 01:11:43.399
+They can fly.
+
+01:11:43.719 --> 01:11:44.519
+Oh, they're okay.
+
+01:11:44.599 --> 01:11:45.799
+So they're flying presently.
+
+01:11:47.079 --> 01:11:48.279
+Well, no, they're not flying presently.
+
+01:11:48.359 --> 01:11:50.999
+Now they're in a room that they can't fly in pretty easily.
+
+01:11:51.319 --> 01:11:51.719
+They don't have.
+
+01:11:52.839 --> 01:11:54.839
+Or are they just like animated armor?
+
+01:11:55.479 --> 01:11:55.879
+No, no.
+
+01:11:55.959 --> 01:11:56.919
+They're animated armor.
+
+01:11:56.999 --> 01:11:58.119
+They can walk and they can hover.
+
+01:11:58.679 --> 01:11:58.839
+I understand.
+
+01:11:59.399 --> 01:11:59.559
+Okay.
+
+01:12:00.039 --> 01:12:03.399
+So they're what happens when you take the statue away and all the armor is left.
+
+01:12:03.639 --> 01:12:04.439
+They still re-energize.
+
+01:12:06.119 --> 01:12:08.279
+And it's got these like glowing little eyes.
+
+01:12:08.599 --> 01:12:10.199
+Yeah, yeah, no, I totally can see it.
+
+01:12:10.359 --> 01:12:10.519
+Okay.
+
+01:12:11.079 --> 01:12:11.239
+Yeah.
+
+01:12:11.799 --> 01:12:12.119
+Okay.
+
+01:12:12.439 --> 01:12:13.399
+Pleasant.
+
+01:12:14.759 --> 01:12:14.999
+Okay.
+
+01:12:15.159 --> 01:12:17.559
+Well, then I'll just punch it a lot.
+
+01:12:22.260 --> 01:12:31.619
+Yeah, so I think I don't have any means of getting advantage on this first attack, so I'll just take my best shot.
+
+01:12:33.139 --> 01:12:35.139
+But you have no way to create advantage?
+
+01:12:35.300 --> 01:12:35.859
+Are you sure?
+
+01:12:36.099 --> 01:12:36.899
+You missed.
+
+01:12:37.539 --> 01:12:38.819
+Yeah, that one's a miss.
+
+01:12:39.380 --> 01:12:40.099
+Try try again.
+
+01:12:40.340 --> 01:12:41.939
+They have an armor class of 20, just so you know.
+
+01:12:42.019 --> 01:12:42.420
+That is a hit.
+
+01:12:42.579 --> 01:12:42.899
+There we go.
+
+01:12:43.059 --> 01:12:44.019
+That's a hit, right?
+
+01:12:44.899 --> 01:12:45.380
+Yep.
+
+01:12:46.019 --> 01:12:46.579
+Okay, great.
+
+01:12:46.819 --> 01:12:49.460
+I mean, they're all armor, so of course they have a high armor class.
+
+01:12:50.099 --> 01:12:51.380
+Yeah, so okay, hold on.
+
+01:12:51.460 --> 01:12:58.019
+So now that hit, which means I can grapple as part of that attack.
+
+01:12:58.899 --> 01:13:09.059
+And Glabbagool can do his shadow attack infusion thing, which we haven't mechanically figured out how it works yet, as far as I recall.
+
+01:13:09.939 --> 01:13:10.579
+Oh, we have.
+
+01:13:11.059 --> 01:13:11.460
+Have we?
+
+01:13:11.699 --> 01:13:11.859
+Okay.
+
+01:13:12.019 --> 01:13:12.899
+I don't have notes on it.
+
+01:13:15.059 --> 01:13:16.979
+I made sure to have the notes on that.
+
+01:13:30.809 --> 01:13:31.289
+Here we go.
+
+01:13:35.699 --> 01:13:41.460
+What we said was: if it turns out that I got the balance card wrong, I'm going to change it, but we'll start with this.
+
+01:13:43.539 --> 01:13:45.939
+God, there could be any of a thousand.
+
+01:13:46.099 --> 01:13:46.659
+Ah, over there.
+
+01:13:46.899 --> 01:13:49.139
+And they're in the Ember Grample general chat.
+
+01:13:49.779 --> 01:13:51.939
+Glabbagool pay has an attack on roll.
+
+01:13:52.179 --> 01:13:52.899
+That's funny.
+
+01:13:57.889 --> 01:14:01.649
+Target was maybe a DC13 dexterity save.
+
+01:14:02.289 --> 01:14:05.009
+Which the target is restrained, so disadvantage.
+
+01:14:10.799 --> 01:14:12.399
+Okay, I'll add that as an action.
+
+01:14:12.559 --> 01:14:17.999
+But for the moment, it looks like he needs to make a dexterity save with disadvantage.
+
+01:14:22.409 --> 01:14:24.649
+He spectacularly doesn't make it.
+
+01:14:28.169 --> 01:14:31.529
+Okay, so 46 acid damage.
+
+01:14:33.129 --> 01:14:35.689
+40, not 46, 4D 14, 4D.
+
+01:14:37.529 --> 01:14:37.849
+Huh?
+
+01:14:38.089 --> 01:14:41.049
+The target takes 1446 acid damage.
+
+01:14:42.329 --> 01:14:44.409
+Okay, so 14 points of damage.
+
+01:14:44.729 --> 01:14:45.529
+Oh, okay, sure.
+
+01:14:45.689 --> 01:14:46.649
+Just the average.
+
+01:14:49.609 --> 01:14:50.729
+But it is magical average.
+
+01:14:53.209 --> 01:14:53.689
+Either way.
+
+01:14:53.849 --> 01:14:54.729
+Yes, and this isn't.
+
+01:14:55.369 --> 01:14:55.689
+Okay.
+
+01:14:56.649 --> 01:14:59.369
+Armor is down by one, so we'll just 19.
+
+01:15:00.249 --> 01:15:00.969
+Okay, cool.
+
+01:15:01.209 --> 01:15:07.129
+Then I'm going to put a one here because I can't edit his armor class directly, so it's remind us.
+
+01:15:07.449 --> 01:15:07.929
+That's fair.
+
+01:15:08.729 --> 01:15:09.129
+All right.
+
+01:15:09.369 --> 01:15:11.609
+Now I can attack it again.
+
+01:15:14.569 --> 01:15:15.769
+This time with advantage.
+
+01:15:16.009 --> 01:15:18.489
+Ah, and I think I missed.
+
+01:15:18.649 --> 01:15:20.329
+Or what's his armor class?
+
+01:15:20.969 --> 01:15:21.609
+20.
+
+01:15:21.929 --> 01:15:22.329
+20.
+
+01:15:22.409 --> 01:15:23.129
+Oh, minus 1.
+
+01:15:23.369 --> 01:15:24.729
+So then I hit.
+
+01:15:26.169 --> 01:15:27.609
+You would have hit with a 20 anyway.
+
+01:15:27.849 --> 01:15:28.169
+Oh, sure.
+
+01:15:28.409 --> 01:15:28.729
+Ties.
+
+01:15:28.969 --> 01:15:29.289
+Yeah.
+
+01:15:30.569 --> 01:15:31.049
+All right.
+
+01:15:36.409 --> 01:15:40.809
+Did you clarify how many times Glabbagool can do that?
+
+01:15:41.449 --> 01:15:42.089
+Once.
+
+01:15:42.329 --> 01:15:46.409
+Per he has a certain amount of tie points.
+
+01:15:46.489 --> 01:15:48.089
+That's what this constraint is.
+
+01:15:49.369 --> 01:15:50.649
+Oh, he has his own pool.
+
+01:15:50.809 --> 01:15:51.209
+All right.
+
+01:15:51.529 --> 01:15:51.929
+Yep.
+
+01:15:53.609 --> 01:15:54.169
+Do we need to?
+
+01:15:54.969 --> 01:15:55.529
+Got four.
+
+01:15:56.009 --> 01:15:56.249
+Four.
+
+01:15:56.329 --> 01:15:57.769
+Oh, so we can do it again.
+
+01:15:58.409 --> 01:15:58.569
+Yeah.
+
+01:16:01.769 --> 01:16:03.769
+I'm going to share this with you, Gabe.
+
+01:16:05.929 --> 01:16:07.449
+I always shared it with you.
+
+01:16:08.969 --> 01:16:09.129
+This?
+
+01:16:09.369 --> 01:16:10.409
+Glabbagool, if you look.
+
+01:16:10.649 --> 01:16:16.329
+If you look in your Google Drive for Glabbagool, I'm sure you will find exactly two documents.
+
+01:16:16.649 --> 01:16:17.849
+Oh, in Drive.
+
+01:16:22.479 --> 01:16:24.079
+Share it with me.
+
+01:16:31.679 --> 01:16:33.359
+And we'll go old school with Glabbagool.
+
+01:16:33.439 --> 01:16:38.159
+We're going to have to read the character sheet and carefully roll the dice by handcrafted old dice.
+
+01:16:38.639 --> 01:16:39.439
+Oh, that's interesting.
+
+01:16:39.599 --> 01:16:43.759
+It doesn't show up in shared with me, but if I search for it, it appears.
+
+01:16:44.799 --> 01:16:46.159
+Google is weird.
+
+01:16:48.049 --> 01:16:49.569
+Yeah, Google is weird.
+
+01:16:54.779 --> 01:16:55.339
+All right.
+
+01:16:59.449 --> 01:17:00.649
+Thorin, you're going to be up next.
+
+01:17:00.729 --> 01:17:02.409
+So what do we have you going?
+
+01:17:03.929 --> 01:17:04.489
+All right.
+
+01:17:04.969 --> 01:17:13.369
+So let's go ahead and attack with Dawnbringer.
+
+01:17:13.929 --> 01:17:14.569
+Oh, Dragon.
+
+01:17:14.729 --> 01:17:15.609
+I forgot to roll Grygum.
+
+01:17:15.849 --> 01:17:16.249
+Dragon.
+
+01:17:18.489 --> 01:17:21.369
+I don't think I have advantage in any way.
+
+01:17:22.729 --> 01:17:23.769
+Just trying to think.
+
+01:17:26.019 --> 01:17:26.579
+All right.
+
+01:17:26.819 --> 01:17:27.300
+Oh, wait.
+
+01:17:27.380 --> 01:17:28.099
+This is interesting.
+
+01:17:28.260 --> 01:17:29.220
+This is new.
+
+01:17:30.179 --> 01:17:31.139
+So I do.
+
+01:17:31.779 --> 01:17:33.539
+It's not undead, so.
+
+01:17:34.979 --> 01:17:35.220
+No.
+
+01:17:37.139 --> 01:17:39.539
+So I do 14 points of damage.
+
+01:17:40.179 --> 01:17:40.899
+What'd you roll?
+
+01:17:40.979 --> 01:17:41.059
+Okay.
+
+01:17:44.819 --> 01:17:46.019
+And then I have SAP.
+
+01:17:46.179 --> 01:17:47.460
+And what does SAP do again?
+
+01:17:48.420 --> 01:17:51.460
+SAP slows down the creature.
+
+01:17:53.059 --> 01:17:55.859
+Disadvantage on its next attack roll before the start of your next turn.
+
+01:17:56.019 --> 01:17:58.579
+So it has disadvantage on the next roll.
+
+01:17:59.539 --> 01:18:00.340
+I mean, this is good.
+
+01:18:00.420 --> 01:18:01.619
+Let's do it again.
+
+01:18:02.899 --> 01:18:04.579
+15, but wait.
+
+01:18:05.220 --> 01:18:09.859
+I can do a superiority die to do a precision attack,
+
+01:18:12.549 --> 01:18:15.589
+and that adds a 1d8 to my.
+
+01:18:17.189 --> 01:18:17.509
+All right.
+
+01:18:17.589 --> 01:18:20.069
+Well, let's see if that bridges the gap.
+
+01:18:23.589 --> 01:18:24.869
+No, it does not.
+
+01:18:25.509 --> 01:18:26.069
+It does not.
+
+01:18:26.229 --> 01:18:27.989
+All right, Grygum's turn.
+
+01:18:30.229 --> 01:18:32.389
+Have you figured out what you're going to do, Gabe, or are you done?
+
+01:18:33.109 --> 01:18:34.149
+Yeah, I'm good.
+
+01:18:34.789 --> 01:18:35.429
+All right.
+
+01:18:35.989 --> 01:18:37.349
+Grygum will.
+
+01:18:50.819 --> 01:18:51.859
+Well, actually, sorry, I missed it.
+
+01:18:51.939 --> 01:18:58.419
+Thorin, are you doing your whatever, your shield thing where anyone who takes damage near you?
+
+01:18:58.739 --> 01:18:59.379
+Do you react to that?
+
+01:19:00.259 --> 01:19:05.939
+If anybody, wait, so I have Guardian, which let me look to see.
+
+01:19:06.899 --> 01:19:08.019
+Read what that does again.
+
+01:19:08.179 --> 01:19:09.539
+Sorry, there's so many of these things, man.
+
+01:19:09.619 --> 01:19:12.979
+It's hard to get to page it all back in.
+
+01:19:13.459 --> 01:19:20.899
+Immediately after a creature within five, you take a disengage action or hits a target other than you with attack, you can make an opportunity attack against the creature.
+
+01:19:21.219 --> 01:19:29.059
+So if somebody who's within five feet of me, if number one, attacks somebody else, I get to attack him immediately.
+
+01:19:29.379 --> 01:19:31.459
+Okay, so Chris got to your question.
+
+01:19:32.179 --> 01:19:37.299
+Because he's grappled, I'm going to swing number two around so he's next to Thorin.
+
+01:19:41.089 --> 01:19:42.210
+There we go.
+
+01:19:43.170 --> 01:19:43.729
+All right.
+
+01:19:46.379 --> 01:19:50.699
+Strictly speaking, because you did that, he gets in the top of opportunity against Grygum.
+
+01:19:52.539 --> 01:19:53.259
+Does he?
+
+01:19:54.619 --> 01:19:57.019
+Well, I mean, he was over here.
+
+01:19:57.259 --> 01:19:58.699
+Grapple just means you can't move.
+
+01:19:58.779 --> 01:20:00.139
+It doesn't mean you can't attack.
+
+01:20:01.019 --> 01:20:01.259
+True.
+
+01:20:01.420 --> 01:20:05.739
+I didn't realize forcefully pulling someone triggered an attack of opportunity.
+
+01:20:08.690 --> 01:20:12.210
+Speaking, rules is written, but I think it's ridiculous as well.
+
+01:20:12.530 --> 01:20:15.250
+Wouldn't that give Grygum an attack of opportunity too?
+
+01:20:15.890 --> 01:20:16.289
+Because he moved.
+
+01:20:16.690 --> 01:20:18.370
+Yes, apparently, both folks would get active.
+
+01:20:19.570 --> 01:20:20.770
+I could abuse this.
+
+01:20:21.090 --> 01:20:21.890
+It sounds great.
+
+01:20:22.850 --> 01:20:25.010
+Which is why I'm declaring no.
+
+01:20:27.650 --> 01:20:28.610
+I'm not going to be in either direction.
+
+01:20:33.170 --> 01:20:35.570
+Visions of game moving people.
+
+01:20:35.890 --> 01:20:37.170
+It sounds great.
+
+01:20:38.130 --> 01:20:40.690
+You know, Gabe triggers three extra attacks.
+
+01:20:40.770 --> 01:20:44.610
+He takes the bad guy, passes him by Thorin, passes him by Zap.
+
+01:20:45.090 --> 01:20:49.490
+No, like, you get a hit, you get a hit, you get a hit.
+
+01:20:51.329 --> 01:20:51.890
+Yeah, no.
+
+01:20:52.050 --> 01:20:53.250
+No, we are not doing that.
+
+01:20:53.410 --> 01:20:53.890
+All right.
+
+01:20:56.940 --> 01:20:58.140
+All righty.
+
+01:20:59.020 --> 01:21:04.539
+Grygum, Grygum, I guess since he's no longer, we'll step over here and we'll
+
+01:21:08.290 --> 01:21:09.010
+see you're undead.
+
+01:21:09.250 --> 01:21:09.890
+Spells is good.
+
+01:21:10.850 --> 01:21:12.130
+This hasn't been this guy alone.
+
+01:21:12.690 --> 01:21:13.970
+No, that's not going to help.
+
+01:21:18.130 --> 01:21:19.250
+This is what he could do.
+
+01:21:19.570 --> 01:21:26.370
+He will move over here and use word of radiance.
+
+01:21:26.690 --> 01:21:27.090
+Yes?
+
+01:21:28.130 --> 01:21:29.010
+Oh, thanks.
+
+01:21:38.480 --> 01:21:40.319
+The wait staff at this restaurant are terrible.
+
+01:21:40.400 --> 01:21:42.239
+They bring the dish half served.
+
+01:21:43.199 --> 01:21:44.319
+Half served.
+
+01:21:45.680 --> 01:21:50.159
+My wife made me a sandwich and there was something missing, and they could rush down with the sandwich without everything.
+
+01:21:50.400 --> 01:21:51.039
+So, you know.
+
+01:21:53.920 --> 01:21:54.079
+Yeah.
+
+01:21:57.600 --> 01:22:00.239
+The manager is going to be very unhappy with that full pop.
+
+01:22:00.400 --> 01:22:01.440
+But I'm willing to overlook it.
+
+01:22:01.520 --> 01:22:03.440
+I'm willing to overlook it just for today.
+
+01:22:18.800 --> 01:22:23.680
+We're going to do a radiance thing to see if he can get both of them at the same time.
+
+01:22:28.050 --> 01:22:29.170
+Word of radiance.
+
+01:22:34.240 --> 01:22:34.480
+Interesting.
+
+01:22:35.920 --> 01:22:37.440
+Ten points of damage, substitution.
+
+01:22:41.150 --> 01:22:42.830
+They both take 10 points of damage.
+
+01:22:48.940 --> 01:22:50.940
+This guy takes 10 points of damage.
+
+01:22:52.220 --> 01:22:52.780
+All right.
+
+01:22:54.620 --> 01:22:55.420
+Oops.
+
+01:22:56.620 --> 01:22:56.940
+All right.
+
+01:22:57.100 --> 01:22:59.420
+The Helton Horror burning it.
+
+01:23:01.340 --> 01:23:03.180
+How many hit points do you have left, Daz?
+
+01:23:06.330 --> 01:23:06.890
+What's that?
+
+01:23:09.320 --> 01:23:11.560
+How many hit points do you have left?
+
+01:23:11.880 --> 01:23:12.760
+Do I have left?
+
+01:23:13.000 --> 01:23:14.200
+I have 35.
+
+01:23:17.219 --> 01:23:18.579
+Am I knocked out?
+
+01:23:19.219 --> 01:23:19.859
+No, no, no.
+
+01:23:19.939 --> 01:23:21.619
+I'm just trying to think what I'm going to do next.
+
+01:23:22.259 --> 01:23:22.579
+Okay.
+
+01:23:37.029 --> 01:23:37.589
+All right.
+
+01:23:42.380 --> 01:23:43.180
+I don't know what he keeps.
+
+01:23:43.420 --> 01:23:43.820
+All right.
+
+01:23:45.420 --> 01:23:47.340
+He decides to attack you this time.
+
+01:23:49.900 --> 01:23:51.100
+That's a hit.
+
+01:23:51.739 --> 01:23:53.180
+And that's another hit.
+
+01:23:59.289 --> 01:24:02.329
+88 plus 8 plus 2d time.
+
+01:24:07.400 --> 01:24:09.560
+We take 32 points of damage.
+
+01:24:12.350 --> 01:24:12.989
+Who does?
+
+01:24:13.630 --> 01:24:14.510
+That's me.
+
+01:24:14.829 --> 01:24:15.229
+Daz.
+
+01:24:16.350 --> 01:24:16.909
+You okay, man?
+
+01:24:17.550 --> 01:24:18.109
+Ouch.
+
+01:24:18.430 --> 01:24:22.100
+I have three hit points left.
+
+01:24:23.940 --> 01:24:25.060
+I may drink a healing.
+
+01:24:25.699 --> 01:24:26.739
+Roll an insight.
+
+01:24:26.900 --> 01:24:28.659
+Roll an insight, Chuck.
+
+01:24:30.180 --> 01:24:30.659
+Whom?
+
+01:24:31.539 --> 01:24:31.940
+20.
+
+01:24:32.180 --> 01:24:32.500
+Daz.
+
+01:24:33.140 --> 01:24:33.940
+All right, Daz.
+
+01:24:35.619 --> 01:24:44.980
+It hits you that the one reason they would all be after you, other than the fact that you're a drow and people don't like drow and whatnot, is you currently possess the key.
+
+01:24:45.860 --> 01:24:46.340
+Ah,
+
+01:24:49.210 --> 01:24:49.530
+okay.
+
+01:24:53.100 --> 01:24:54.220
+Just reminding you.
+
+01:24:55.500 --> 01:24:56.220
+Which is interesting.
+
+01:24:57.260 --> 01:25:00.140
+No one knew that except for Callan, right?
+
+01:25:06.550 --> 01:25:07.350
+Hmm.
+
+01:25:07.750 --> 01:25:07.910
+Okay.
+
+01:25:08.950 --> 01:25:11.190
+Unless somehow they can passively know it.
+
+01:25:11.510 --> 01:25:12.470
+Hmm.
+
+01:25:14.390 --> 01:25:17.670
+Well, if so, that would imply there are three other horrors going after the other key.
+
+01:25:17.830 --> 01:25:19.830
+Either way, this is suspicious.
+
+01:25:22.550 --> 01:25:24.310
+Can we grab one and beat the truth out of him?
+
+01:25:24.390 --> 01:25:24.950
+Who sent you?
+
+01:25:25.510 --> 01:25:25.670
+No.
+
+01:25:26.390 --> 01:25:29.030
+Who does number one, number two work for?
+
+01:25:31.030 --> 01:25:35.990
+Unfortunately, you know, the reason you picked helmed horrors as assassins is they can't talk.
+
+01:25:36.310 --> 01:25:37.430
+Literally.
+
+01:25:38.070 --> 01:25:59.550
+Is there any magicky things we can do to figure out who sent them?
+Possibly.
+Things are about to get very exciting.
+All right, Daz, what do you want to do here?
+Remember, they're after the key.
+You guessed they're after the key.
+So one thing you could do is throw the key to somebody else.
+
+01:26:00.190 --> 01:26:05.150
+Yeah, but I'd worry a little bit about an interception, but probably wouldn't happen.
+
+01:26:05.310 --> 01:26:05.790
+I don't know.
+
+01:26:06.110 --> 01:26:09.070
+You can give it right to Grygum, who's standing right next to you.
+
+01:26:09.390 --> 01:26:09.710
+Okay.
+
+01:26:10.030 --> 01:26:17.870
+Yeah, I'll give Grygum the key, and then I will disengage.
+
+01:26:19.150 --> 01:26:20.990
+I'm not grappled yet, am I?
+
+01:26:21.630 --> 01:26:24.590
+I know, but if you move away, they get attacks of opportunities.
+
+01:26:24.910 --> 01:26:25.150
+No.
+
+01:26:27.630 --> 01:26:28.190
+Actually, sorry.
+
+01:26:29.390 --> 01:26:31.710
+Christo Daz, that's a really important point.
+
+01:26:32.750 --> 01:26:38.990
+When you said he had the key, did they go for Grygum first, or did they go straight for Daz?
+
+01:26:39.390 --> 01:26:41.230
+Because Daz had the key.
+
+01:26:42.190 --> 01:26:45.710
+Everyone thought Grygum had the key, but Grygum had given it to Daz.
+
+01:26:47.870 --> 01:26:48.030
+Okay.
+
+01:26:48.270 --> 01:26:52.590
+So they went straight for Daz, implying somehow they could detect or sense the key.
+
+01:26:52.910 --> 01:26:53.390
+All right.
+
+01:26:53.710 --> 01:26:54.110
+Thank you.
+
+01:26:54.910 --> 01:26:58.190
+Can we grab one of them and use it to actually detect who else has the key?
+
+01:26:58.990 --> 01:26:59.550
+Find the other one.
+
+01:26:59.870 --> 01:27:02.590
+Turn him into sort of a divining rod, as it were.
+
+01:27:04.830 --> 01:27:06.430
+There's always Fembris over there.
+
+01:27:06.510 --> 01:27:08.830
+He was around when the keys were exchanged.
+
+01:27:10.110 --> 01:27:12.350
+Oh, I thought we did it in secret.
+
+01:27:13.310 --> 01:27:15.550
+No, Grygum wasn't particularly secretive.
+
+01:27:16.270 --> 01:27:16.670
+Fair.
+
+01:27:18.030 --> 01:27:19.470
+This is Grygum we're talking about.
+
+01:27:19.790 --> 01:27:21.790
+I think we hand the key to Fembris and see what happens.
+
+01:27:21.870 --> 01:27:23.390
+Oh, wait, that could be bad.
+
+01:27:25.630 --> 01:27:27.230
+Don't trust that motherfucker.
+
+01:27:31.000 --> 01:27:31.240
+All right.
+
+01:27:31.320 --> 01:27:31.880
+I'm going to try.
+
+01:27:32.360 --> 01:27:44.760
+I'm going to try Magic Missile on Helmed Horror 1 because it doesn't matter that it's a range spell because it's always going to be.
+
+01:27:46.520 --> 01:27:47.000
+Oh, yeah.
+
+01:27:47.640 --> 01:27:51.080
+Can I drink a healing potion and fire magic missile?
+
+01:27:51.640 --> 01:27:51.800
+No.
+
+01:27:53.080 --> 01:27:55.000
+Is it both actions, I think?
+
+01:27:55.640 --> 01:27:57.240
+By the way, Grygum says, don't worry.
+
+01:27:57.320 --> 01:27:59.240
+I got plenty of heal spells, buddy.
+
+01:27:59.880 --> 01:28:01.080
+Grygum said, what?
+
+01:28:01.720 --> 01:28:03.160
+Grygum says, don't worry.
+
+01:28:03.240 --> 01:28:05.160
+I've got plenty of heal spells to get knocked out.
+
+01:28:05.240 --> 01:28:05.880
+I'll just heal you.
+
+01:28:05.960 --> 01:28:07.480
+You'll be back up in no time.
+
+01:28:07.800 --> 01:28:08.600
+All right, that's fine.
+
+01:28:08.680 --> 01:28:11.080
+Then let me magic missile number one.
+
+01:28:11.400 --> 01:28:14.120
+Now is not the time to worry about being knocked unconscious.
+
+01:28:14.280 --> 01:28:16.040
+Now is the time to cast magic missile.
+
+01:28:16.200 --> 01:28:18.520
+That's the person not about to be knocked unconscious.
+
+01:28:22.280 --> 01:28:23.880
+That was not the time to worry.
+
+01:28:24.520 --> 01:28:25.640
+I actually did pretty good.
+
+01:28:25.800 --> 01:28:26.600
+I rolled a roll.
+
+01:28:26.920 --> 01:28:31.240
+And by the way, Grygum says, and I also have revivified, so we're covered either way.
+
+01:28:34.930 --> 01:28:35.810
+All right, which one do you use?
+
+01:28:35.890 --> 01:28:37.170
+First level or third level?
+
+01:28:37.490 --> 01:28:38.690
+I just use first level.
+
+01:28:38.850 --> 01:28:39.730
+So I wanted to make sure I'm going to do it.
+
+01:28:41.250 --> 01:28:42.130
+All right, it does work.
+
+01:28:42.450 --> 01:28:44.530
+The creature takes 15 points of damage.
+
+01:28:44.850 --> 01:28:45.410
+Nice.
+
+01:28:48.530 --> 01:28:49.090
+All right.
+
+01:28:49.650 --> 01:28:50.930
+Grygum now has the key.
+
+01:28:51.010 --> 01:28:53.330
+So this guy decides to attack Grygum.
+
+01:28:54.610 --> 01:28:54.930
+Yeah.
+
+01:29:07.930 --> 01:29:08.170
+All right.
+
+01:29:08.250 --> 01:29:09.930
+I was just going to try to grapple Grygum.
+
+01:29:12.840 --> 01:29:14.120
+That's a 21.
+
+01:29:20.989 --> 01:29:22.670
+Grappling while grappled?
+
+01:29:23.630 --> 01:29:24.029
+No, no.
+
+01:29:24.430 --> 01:29:24.909
+Oh, wait.
+
+01:29:25.070 --> 01:29:26.029
+No, he can't grapple.
+
+01:29:26.350 --> 01:29:27.390
+Actually, he can grapple.
+
+01:29:30.220 --> 01:29:31.659
+Yeah, maybe he's going to attack him.
+
+01:29:36.539 --> 01:29:38.060
+Well, yeah, he's going to try to grapple him.
+
+01:29:38.140 --> 01:29:38.380
+Yes.
+
+01:29:38.460 --> 01:29:39.579
+So he successfully.
+
+01:29:41.100 --> 01:29:43.900
+No, Grygum manages to not stay gone again.
+
+01:29:44.220 --> 01:29:45.180
+Good grief.
+
+01:29:45.820 --> 01:29:47.100
+How does he do that?
+
+01:29:48.869 --> 01:29:51.190
+He made a strength saving throw of 17.
+
+01:29:51.510 --> 01:29:52.310
+Huh?
+
+01:29:53.829 --> 01:29:58.390
+He needed to roll an 18 or a 19 or a 20, and he managed to roll the saving throw.
+
+01:30:02.640 --> 01:30:03.199
+All right.
+
+01:30:05.670 --> 01:30:08.629
+The horror one has to attack you, Thorin, right?
+
+01:30:09.509 --> 01:30:11.989
+He could attack somebody else if he wants to.
+
+01:30:12.229 --> 01:30:14.949
+Yeah, but yeah, but he's not going to want to.
+
+01:30:15.509 --> 01:30:15.909
+All right.
+
+01:30:16.469 --> 01:30:17.269
+Is he that smart?
+
+01:30:17.589 --> 01:30:17.989
+I don't know.
+
+01:30:18.869 --> 01:30:19.909
+No, well.
+
+01:30:20.869 --> 01:30:22.389
+My armor class is 22.
+
+01:30:22.469 --> 01:30:23.509
+I'm pretty sure that didn't hit me.
+
+01:30:23.670 --> 01:30:24.469
+No, no, no, hold on.
+
+01:30:24.549 --> 01:30:24.869
+You're right.
+
+01:30:24.949 --> 01:30:25.670
+He's not that smart.
+
+01:30:25.829 --> 01:30:26.789
+He goes after Grygum.
+
+01:30:27.029 --> 01:30:29.109
+So he makes an attack on Grygum.
+
+01:30:31.029 --> 01:30:32.549
+Does that give you an attack of opportunity?
+
+01:30:33.750 --> 01:30:36.789
+Immediately after he attacks is when I get to attack.
+
+01:30:37.750 --> 01:30:38.069
+All right.
+
+01:30:38.229 --> 01:30:42.149
+So the first is he gets his first attack is with disadvantage because of the sap, right?
+
+01:30:43.269 --> 01:30:43.589
+Yes.
+
+01:30:44.069 --> 01:30:44.789
+That is a hit.
+
+01:30:44.869 --> 01:30:47.909
+And it's a good thing it was a disadvantage because I rolled a 20.
+
+01:30:48.069 --> 01:30:48.549
+All right.
+
+01:30:49.829 --> 01:30:52.469
+And second attack is also a hit.
+
+01:30:52.789 --> 01:30:55.509
+Okay, you can now do whatever attacks of opportunity you have.
+
+01:30:55.829 --> 01:31:03.429
+Okay, immediately after a creature of you takes a disengage action or hits a target other than okay, so immediately after he hits.
+
+01:31:03.589 --> 01:31:05.989
+Okay, so then I get the attack of opportunity.
+
+01:31:06.309 --> 01:31:11.269
+All right, so get the attack of opportunity before the first attack before the second one.
+
+01:31:12.710 --> 01:31:15.509
+All right, you killed him, so the second attack never lands.
+
+01:31:20.099 --> 01:31:20.579
+All right.
+
+01:31:25.090 --> 01:31:25.489
+All right.
+
+01:31:25.810 --> 01:31:28.130
+And Grygum takes 12 points of damage.
+
+01:31:30.720 --> 01:31:31.760
+How's Grygum doing?
+
+01:31:33.279 --> 01:31:34.479
+You got 47 hit points.
+
+01:31:34.560 --> 01:31:35.039
+He says, Don't worry.
+
+01:31:35.119 --> 01:31:35.760
+Don't you worry, Daz.
+
+01:31:35.920 --> 01:31:36.640
+You're going to be fine.
+
+01:31:36.800 --> 01:31:37.520
+Totally fine.
+
+01:31:37.840 --> 01:31:39.279
+All right, Thorin, you're up.
+
+01:31:40.239 --> 01:31:41.439
+No, Zalthir's up.
+
+01:31:41.680 --> 01:31:42.399
+Or am I up?
+
+01:31:43.039 --> 01:31:43.840
+No, Zalthir's up.
+
+01:31:43.920 --> 01:31:44.560
+Sorry, Zalthir.
+
+01:31:44.640 --> 01:31:45.840
+Zalthir, you're up.
+
+01:31:46.800 --> 01:31:46.960
+Okay.
+
+01:31:47.840 --> 01:31:57.199
+I will punch the one I've got for 16 damage.
+
+01:32:01.050 --> 01:32:02.010
+Still alive?
+
+01:32:02.810 --> 01:32:03.050
+No.
+
+01:32:03.850 --> 01:32:04.170
+Okay.
+
+01:32:04.489 --> 01:32:05.770
+I'll punch it again.
+
+01:32:09.720 --> 01:32:11.159
+Can you augment that?
+
+01:32:12.119 --> 01:32:13.960
+Well, I think it has minus one AC, right?
+
+01:32:14.119 --> 01:32:17.880
+Well, it doesn't have to because he's got he's already wounded.
+
+01:32:19.800 --> 01:32:24.119
+Glabbagool's poisoned acid damage tore an armor plus point off of it.
+
+01:32:24.440 --> 01:32:24.680
+Yeah.
+
+01:32:25.000 --> 01:32:25.239
+Okay.
+
+01:32:25.560 --> 01:32:28.039
+Then I'll attack the one down here
+
+01:32:33.050 --> 01:32:34.810
+for 10 and grapple him.
+
+01:32:35.449 --> 01:32:42.650
+And Glabbagool will use his final acid corrosive embrace.
+
+01:32:43.610 --> 01:32:45.289
+Yeah, it's corrosive embrace.
+
+01:32:45.610 --> 01:32:47.210
+AI swap at his finest.
+
+01:32:56.699 --> 01:32:57.659
+That's my turn.
+
+01:32:58.300 --> 01:32:58.619
+All right.
+
+01:32:58.779 --> 01:32:59.659
+How much damage did you do?
+
+01:32:59.819 --> 01:33:00.940
+You didn't put the damage.
+
+01:33:01.980 --> 01:33:03.739
+Julie said flat 14, right?
+
+01:33:04.380 --> 01:33:05.020
+Yeah, 14.
+
+01:33:07.020 --> 01:33:07.500
+All right.
+
+01:33:08.140 --> 01:33:08.779
+All right.
+
+01:33:11.750 --> 01:33:12.949
+Thorin, you're up.
+
+01:33:13.829 --> 01:33:14.390
+All right.
+
+01:33:15.190 --> 01:33:18.789
+I'm going to close with him and let's hear what we got going on here.
+
+01:33:20.310 --> 01:33:20.949
+Let me see.
+
+01:33:21.110 --> 01:33:21.670
+Give me a second.
+
+01:33:21.750 --> 01:33:22.949
+I want to do better.
+
+01:33:27.260 --> 01:33:30.780
+Can I use luck to actually redo that one?
+
+01:33:32.700 --> 01:33:33.100
+What's that?
+
+01:33:33.260 --> 01:33:33.740
+Yes.
+
+01:33:34.380 --> 01:33:35.900
+Yeah, if you have luck, you could.
+
+01:33:36.140 --> 01:33:37.500
+Lucky or luck?
+
+01:33:38.539 --> 01:33:39.740
+Oh, oh, sorry.
+
+01:33:39.900 --> 01:33:42.539
+If you're trying to hit him, you have advantage because I grappled him.
+
+01:33:42.860 --> 01:33:43.420
+Oh, okay.
+
+01:33:43.500 --> 01:33:44.140
+Well, shoot.
+
+01:33:44.300 --> 01:33:46.700
+Then let's give it another go.
+
+01:33:49.500 --> 01:33:49.980
+20.
+
+01:33:50.060 --> 01:33:50.220
+Okay.
+
+01:33:50.380 --> 01:33:51.180
+That is a hit.
+
+01:33:51.820 --> 01:33:54.300
+For 22 points of damage.
+
+01:33:54.940 --> 01:33:55.260
+Okay.
+
+01:33:58.409 --> 01:34:04.890
+And let's hit him again for 17 points of damage.
+
+01:34:05.610 --> 01:34:05.930
+He died.
+
+01:34:06.090 --> 01:34:09.210
+They collapse into piles of rust and armor.
+
+01:34:09.530 --> 01:34:09.770
+Oh.
+
+01:34:14.820 --> 01:34:19.140
+So we can't grab them and say who do they work for?
+
+01:34:21.380 --> 01:34:26.660
+The one thing that is surprising to you is that they seem to be very determined to
+
+01:34:29.569 --> 01:34:38.529
+they seem to be very determined to get a key and could kill for a key that read inert under detect magic.
+
+01:34:40.840 --> 01:34:45.160
+So they either knew or they have some other way of actually.
+
+01:34:45.560 --> 01:34:49.560
+If you have the sapphire, can you use that to define the thing or just recall the thing?
+
+01:34:50.200 --> 01:34:51.000
+Recall the thing.
+
+01:34:51.160 --> 01:34:57.079
+The point is, you've got Daryl over there, so you can turn around and ask him any questions.
+
+01:34:58.039 --> 01:35:02.360
+Daz is kind of like, you know, my saviors, my saviors kind of thing.
+
+01:35:03.000 --> 01:35:03.640
+Wait, which one?
+
+01:35:03.720 --> 01:35:04.200
+Daz?
+
+01:35:05.160 --> 01:35:10.200
+Yeah, Daz is the guy who you, you know, the guy who you cured who was stuck in the room.
+
+01:35:12.789 --> 01:35:19.030
+Well, just to be clear, when Grygum gave the key to Daz, who was present?
+
+01:35:19.270 --> 01:35:20.550
+Who would have seen that?
+
+01:35:21.750 --> 01:35:26.630
+I don't know if Fembris would have seen that because Fembris would have seen that because he was with the full review.
+
+01:35:28.230 --> 01:35:29.190
+Hmm.
+
+01:35:30.150 --> 01:35:30.390
+Okay.
+
+01:35:31.510 --> 01:35:32.550
+We're out of time, by the way.
+
+01:35:33.670 --> 01:35:34.310
+Oh, yeah.
+
+01:35:36.870 --> 01:35:37.670
+I don't want to.
+
