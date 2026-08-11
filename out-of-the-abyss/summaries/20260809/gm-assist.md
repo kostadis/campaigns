@@ -49,7 +49,7 @@ The party secured A'lai and stripped his High Tower key from him, taking care no
 - The assassin searches Daz's body for the sapphire but is horrified to find it missing, as Daz had secretly passed it to Grygum earlier.
 - Thorin retaliates with a series of powerful strikes against the assassin, using a menacing maneuver to terrify him.
 - Thorin unleashes an action surge, delivering a flurry of blows including a critical radiant strike that devastates the assassin.
-- Thorin delivers a final blow, knocking the assassin unconscious and ending the immediate threat.
+- Thorin delivers a final blow, killing the assassin and ending the immediate threat. Thorin then searched the body.
 - Grygum rushes to the fallen Daz and uses restorative magic to bring him back to consciousness.
 - A'lai Aivenmore, seeing his would-be rescuer defeated, falls into a state of panic and begins to weep.
 
@@ -69,13 +69,16 @@ The party secured A'lai and stripped his High Tower key from him, taking care no
 A wizard who has lived at Candlekeep for 31 years, with no house, family, or country — only his academic chair. He is revealed as a traitor who secretly removed specific books from the library for eleven years on behalf of Manshoon, whose courier always arrived wearing a glove over a metal hand. He attempted to smash the stolen sapphire before being outmaneuvered by the party. After his Zhentarim allies failed to rescue him, he surrendered to the party, weeping and desperate to be imprisoned within Candlekeep's magic-nullifying cells for his own protection. He withheld key information from Manshoon about the depository's contents, intending to use it as leverage.
 
 ### Tadric
-A watcher and Kalan's lieutenant who held the real High Tower key. He was deeply shaken by the death of Moziqodo and the silence of the prophecies, insisting the party inform Sylvira of her son's death. He was killed by the party in a single round of combat, after which the real key was recovered from him.
+A watcher and Kalan's lieutenant who held the real High Tower key. **Alive.** When the party reached him, he handed the real key over to Grygum voluntarily.
 
 ### Kalan Strongbranch
-A figure who admitted to giving the party a fake, non-magical key in order to use them as a distraction, while the real key remained with Tadric. He revealed the location of the real key when confronted.
+A figure who admitted to giving the party a fake, non-magical key in order to use them as a distraction, while the real key remained with Tadric. He revealed the location of the real key when confronted. By the end of the session he had fled — "Kalan is to the wind" — whereabouts unknown.
 
 ### Moziqodo
-Found dead during the party's approach to the High Tower. Her death caused the historic silence of Candlekeep's prophecy chanting and was a point of urgent concern for Tadric.
+Killed by the party in a single round of combat during their approach to the High Tower. Moziqodo had murdered Bookwyrm, taken her High Tower key, and was carrying it to A'lai Aivenmore; the party's kill cut that delivery short and A'lai never received the second key by the intended route.
+
+### Bookwyrm (First Reader)
+**Dead.** Murdered by Moziqodo, who took her High Tower key. Her death was one outcome of A'lai Aivenmore's wider plot, alongside the death of Janussi.
 
 ### Manshoon
 A legendary and feared wizard tied to the Zhentarim, described as the man who died more than once and kept returning. He is the mysterious benefactor A'lai Aivenmore has been serving for eleven years. He expended massive magical resources to breach Candlekeep's defenses and arrived alone and weakened, shattering the High Tower's magical door with a wall of force.
@@ -87,14 +90,14 @@ An intelligent grey ooze and companion to the party. He fought alongside the par
 Mercenaries and agents of the Black Network who infiltrated the High Tower to loot specific books from a written manifest. Their weapons were bloodied upon the party's arrival. One was melted by Grygum's acid, another was killed by A'lai Aivenmore himself during the confrontation.
 
 ### Zhentarim Assassin
-A lethal operative dressed in Zhentarim attire who ambushed the party in the High Tower. He was directed toward Daz by A'lai Aivenmore and launched a brutal series of strikes that knocked Daz unconscious. He searched Daz's body for the sapphire gem but found nothing, as it had already been passed to Grygum. He was subsequently beaten into unconsciousness by Thorin.
+A lethal operative dressed in Zhentarim attire who ambushed the party in the High Tower. He was directed toward Daz by A'lai Aivenmore and launched a brutal series of strikes that knocked Daz unconscious. He searched Daz's body for the sapphire gem but found nothing, as it had already been passed to Grygum. **Killed by Thorin**, who then searched his body.
 
 ## Locations
 ### Candlekeep
-A legendary library fortress where the constant chanting of prophecies fell silent for the first time in history during this session. It is famously impossible to steal books within its walls, yet books have been going missing for eleven years. Its magical security wards were compromised during the events of this session, allowing a fireball to detonate on the High Tower walkway and ultimately enabling Manshoon to breach its defenses.
+A legendary library fortress. It is famously impossible to steal books within its walls, yet books have been going missing for eleven years. Its magical security wards were compromised during the events of this session, allowing a fireball to detonate on the High Tower walkway and ultimately enabling Manshoon to breach its defenses.
 
 ### High Tower
-A prominent structure within Candlekeep where the party confronted A'lai Aivenmore in a fierce magical battle on the second floor landing. An indoor hallway walkway nearby was the site of a murdered watcher. The tower's magical dampening effects failed during the conflict, allowing destructive magic to function freely.
+A prominent structure within Candlekeep where the party confronted A'lai Aivenmore in a fierce magical battle on the second floor landing. The tower's magical dampening effects failed during the conflict, allowing destructive magic to function freely — Daz's fireball detonated on the indoor walkway.
 
 ### Candlekeep Prison
 A specialized detention area within the library designed to nullify all spellcasting, making it a fortress against magical intrusion or escape. A'lai Aivenmore desperately sought to be imprisoned here, believing it was the safest place for him given the enemies now hunting him.
@@ -107,7 +110,7 @@ A room within the High Tower protected by magical doors requiring two specific k
 A magical artifact that A'lai Aivenmore intended to smash — an act that would have summoned or recalled one of the High Tower keys to his hand. Daz used telekinesis to wrench it from the wizard's grasp before he could act, then secretly passed it to Grygum. The Zhentarim assassin targeted Daz specifically because he believed Daz still held this gem.
 
 ### Real High Tower Key
-The genuine magical key recovered from Tadric after his defeat. It is required to open the sealed doors within the High Tower's security control room. Grygum held this key along with the sapphire; the key later hidden inside Glabbagool was A'lai's, not this one.
+The genuine magical key, handed over voluntarily by Tadric. It is required to open the sealed doors within the High Tower's security control room. Grygum held this key along with the sapphire and the fake key; the key later hidden inside Glabbagool was A'lai's second key, not this one.
 
 ### Fake High Tower Key
 A plain, non-magical key given to the party by Kalan Strongbranch to serve as a decoy and use the party as a distraction. Its lack of magical aura was detected previously, revealing the deception.
@@ -140,6 +143,27 @@ Conjured by Manshoon upon his arrival to facilitate his breach of the High Tower
 ### Detect Magic
 Used previously by the party to reveal that the key provided by Kalan Strongbranch lacked any magical aura, exposing it as a fake.
 
+## Session-End State
+
+GM's own wrap-up at the close of play (transcript ~01:35:40):
+
+- **Bookwyrm is dead** (killed by Moziqodo).
+- **Moziqodo is dead** (killed by the party in one round).
+- **Alkrist neutralized.**
+- **A'lai Aivenmore captured**, bound, in the party's custody.
+- **Kalan Strongbranch is "to the wind"** — fled, whereabouts unknown.
+- **Tadric alive.**
+- **The Zhentarim assassin is dead** (killed by Thorin), as are both thugs — one melted by Grygum's acid, one killed by A'lai himself. **No surviving Zhentarim prisoner.**
+- **Manshoon is inside Candlekeep**, alone and magically depleted, having shattered the security control room door.
+
+**Key/artifact ledger at session end:** Grygum holds the real High Tower key, the fake key, and the sapphire (crushing it recalls the key he already holds). A'lai's second real key is hidden inside Glabbagool. The two real keys are being deliberately kept apart.
+
 ---
 
 *Exported from GMAssistant on 2026-08-09*
+
+*Corrected 2026-08-10 against `GMT20260804-005646_Recording.transcript.cleaned.vtt`. The export had Tadric and Moziqodo swapped (Tadric alive and cooperative, Moziqodo killed by the party), omitted Bookwyrm's death entirely, and asserted a "prophecy chanting fell silent" event that appears nowhere in either transcript. Moziqodo's pronoun is **he/him** (GM ruling 2026-08-10, following `planning.md` "Sylvira Savikas's son" / "his blood tie to Sylvira"; the export's stray "Her death" was the error). The Zhentarim assassin was **killed, not knocked unconscious** (GM ruling 2026-08-11; corroborated at transcript L3247, "I searched the body of the assassin").*
+
+*Transcript L3956 ("A'lai is captured, Janussi is captured") is a **verbal stutter, not a fact** — a duplicated clause after a false start. Janussi has been dead since ch53. **A'lai is the only prisoner.** (GM ruling 2026-08-11.)*
+
+*Pattern worth watching: this export softened or transposed **three** combat outcomes — Tadric/Moziqodo swapped, Bookwyrm's death dropped entirely, and a kill downgraded to unconsciousness. Verify every death claim in future gm-assist exports against the transcript before building on it.*
