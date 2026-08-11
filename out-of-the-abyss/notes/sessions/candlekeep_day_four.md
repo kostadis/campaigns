@@ -372,7 +372,7 @@ dwarf courier — not Eldeth herself.**
 
 | Thread | Track |
 |---|---|
-| Manshoon status | dead / escaped empty-handed / escaped with lesser tome / escaped with Book of Vile Darkness |
+| Manshoon status | **body destroyed (clone — thread stays LIVE)** / escaped empty-handed / escaped with lesser tome / escaped with Book of Vile Darkness |
 | Book of Vile Darkness fate | with party / re-shelved / destroyed / launched to the Sea of Swords |
 | Vault tower itself | intact / launched as rocket |
 | Sylvira's plague | untreated / treated / cured |
