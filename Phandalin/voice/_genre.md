@@ -36,7 +36,7 @@ Phandalin is character-centered literary fantasy narrated in close first-person 
 - Drop hit points, distances, spell names directly into prose. Mechanics are not separate from feeling.
 - Use the character's stock phrases verbatim — they are signatures: "fair-trade, conflict-free gold," "deliciously painful," "shell sprout," "the Overbright," "my bale."
 - Reach for the sensory specific (the smell of fear, the chill of the blade entering, the heat off Iymrith) before the metaphor.
-- Italics for one-word thoughts; em-dash for interrupted speech or thought.
+- Italics for one-word thoughts. Em-dash **only** for interrupted speech or interrupted thought — never as a connective. If a comma, colon, or period would join the two halves, use that instead. A dash between two complete clauses is the flattening habit, not the device.
 
 ### Banned tics / anti-patterns
 
