@@ -1,5 +1,5 @@
 ## Scene 1
-narrator: sequioa
+narrator: sequoia
 chunks: 1
 scene: The New Rulers of the Temple
 focus: Sequoia's biting irony — "You were supposed to destroy the temple, not join" — frames the absurdity of becoming the very thing they sought to topple.
