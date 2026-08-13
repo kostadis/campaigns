@@ -1,10 +1,17 @@
+---
+name: sequoia
+player: Nicholas Roussos
+species: Halfling
+class_level: Rogue 6
+subclass: Arcane Trickster
+---
 # sequoia
 
 ## Identity
 - **Class & Level:** Rogue 6
 - **Species:** Halfling
 - **Background:** Criminal
-- **Player:** kostadis1
+- **Player:** Nicholas Roussos
 - **Alignment:** Neutral Good
 - **Age / Gender / Size:** Small
 

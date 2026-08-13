@@ -1,3 +1,10 @@
+---
+name: Zalthir
+player: Gabe
+species: Dragonborn (Brass Dragon)
+class_level: Monk 8
+subclass: Warrior of Shadow
+---
 # Zalthir
 
 ## Identity

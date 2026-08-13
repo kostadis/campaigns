@@ -1,3 +1,10 @@
+---
+name: Felkur Olwedond
+player: Not specified
+species: Rock Gnome
+class_level: Artificer 11
+subclass: Artillerist
+---
 
 # Felkur Olwedond
 
@@ -5,7 +12,7 @@
 - **Class & Level:** Artificer 11
 - **Species:** Rock Gnome
 - **Background:** Guild Artisan / Guild Merc (Milestone)
-- **Player:** kostadis1
+- **Player:** Not specified
 - **Alignment:** Chaotic Good
 - **Age / Gender / Size:** 23 / He/him / Small
 

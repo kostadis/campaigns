@@ -1,3 +1,10 @@
+---
+name: Thorin Giantfriend
+player: Joe Beda
+species: Dwarf
+class_level: Fighter 8
+subclass: Battle Master
+---
 # Thorin Giantfriend
 
 ## Identity

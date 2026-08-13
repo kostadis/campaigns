@@ -1,3 +1,10 @@
+---
+name: Vardis
+player: Wade Brown
+species: Wood Elf
+class_level: Cleric 13
+subclass: Light Domain
+---
 # Vardis
 
 ## Identity

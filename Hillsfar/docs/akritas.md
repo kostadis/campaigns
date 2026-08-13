@@ -1,10 +1,17 @@
+---
+name: Akrita
+player: Not specified
+species: High Elf
+class_level: Ranger 11
+subclass: Hunter
+---
 # Akrita
 
 ## Identity
 - **Class & Level:** Ranger 11
 - **Species:** High Elf
 - **Background:** Custom Background
-- **Player:** kostadis1
+- **Player:** Not specified
 - **Size:** Medium
 
 ## Ability Scores

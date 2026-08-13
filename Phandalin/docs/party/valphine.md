@@ -1,3 +1,10 @@
+---
+name: Valphine Sotorra
+player: Gary Young
+species: Elf
+class_level: Cleric 6
+subclass: Peace Domain
+---
 # Valphine Sotorra
 
 ## Identity

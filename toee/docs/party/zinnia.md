@@ -1,10 +1,17 @@
+---
+name: zinnia (the masked monk)
+player: george
+species: Elf
+class_level: Monk 6
+subclass: Way of the Drunken Master
+---
 # zinnia (the masked monk)
 
 ## Identity
 - **Class & Level:** Monk 6
 - **Species:** Elf
 - **Background:** Spy (Augen Trust)
-- **Player:** kostadis1
+- **Player:** george
 - **Alignment:** Chaotic Good
 - **Age / Gender / Size:** 25 / Male / Medium
 - **Height:** 6 foot 6
