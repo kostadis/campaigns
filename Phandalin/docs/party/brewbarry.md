@@ -1,10 +1,17 @@
+---
+name: Brewbarry
+player: Stéphane Bourdeaud
+species: Goliath
+class_level: Barbarian 6
+subclass: ''
+---
 # Brewbarry
 
 ## Identity
 - **Class & Level:** Barbarian 6
 - **Species:** Goliath
 - **Background:** Soldier
-- **Player:** Stephane Boudreau
+- **Player:** Stéphane Bourdeaud
 - **Size:** Medium
 - **Experience Points:** Milestone
 

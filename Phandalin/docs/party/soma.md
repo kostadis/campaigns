@@ -1,10 +1,17 @@
+---
+name: Soma
+player: Wade Brown
+species: Tortle
+class_level: Druid 6
+subclass: ''
+---
 # Soma
 
 ## Identity
 - **Class & Level:** Druid 6
 - **Species:** Tortle
 - **Background:** Guide
-- **Player:** Wade
+- **Player:** Wade Brown
 - **Alignment:** Neutral
 - **Age / Gender / Size:** 45 / Female / Medium
 - **Height:** 5'2"

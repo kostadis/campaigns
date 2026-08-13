@@ -1,3 +1,10 @@
+---
+name: Daz
+player: Mike Hall
+species: Elf (Drow Lineage)
+class_level: Wizard 8
+subclass: ''
+---
 # Daz
 
 ## Identity
