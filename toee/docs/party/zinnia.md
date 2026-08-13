@@ -3,7 +3,7 @@ name: zinnia (the masked monk)
 player: george
 species: Elf
 class_level: Monk 6
-subclass: ''
+subclass: Way of the Drunken Master
 ---
 # zinnia (the masked monk)
 

@@ -3,7 +3,7 @@ name: Zephyr "King of Hell" Cross
 player: Thomas Kolivakis
 species: Tiefling
 class_level: Rogue 6
-subclass: ''
+subclass: Assassin
 ---
 # Zephyr "King of Hell" Cross
 

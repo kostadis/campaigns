@@ -3,7 +3,7 @@ name: Orsic
 player: David Mendenhall
 species: Mountain Dwarf
 class_level: Fighter 11 / Artificer 2
-subclass: ''
+subclass: Samurai
 ---
 # Orsic
 

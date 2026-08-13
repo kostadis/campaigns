@@ -3,7 +3,7 @@ name: Brewbarry
 player: Stéphane Bourdeaud
 species: Goliath
 class_level: Barbarian 6
-subclass: ''
+subclass: Path of the Giant
 ---
 # Brewbarry
 

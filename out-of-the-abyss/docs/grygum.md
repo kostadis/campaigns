@@ -3,7 +3,7 @@ name: Gyrgum
 player: Ben Pfaff
 species: Orc
 class_level: Cleric 8
-subclass: ''
+subclass: Life Domain
 ---
 # Gyrgum
 

@@ -3,7 +3,7 @@ name: Calmer
 player: Kostadis Roussos
 species: Human
 class_level: Cleric 6
-subclass: ''
+subclass: War Domain
 ---
 # Calmer
 

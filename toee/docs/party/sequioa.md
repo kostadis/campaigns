@@ -3,7 +3,7 @@ name: sequoia
 player: Nicholas Roussos
 species: Halfling
 class_level: Rogue 6
-subclass: ''
+subclass: Arcane Trickster
 ---
 # sequoia
 

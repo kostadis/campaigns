@@ -3,7 +3,7 @@ name: Vukradin
 player: David Mendenhall
 species: Variant Aasimar
 class_level: Bard 6
-subclass: ''
+subclass: College of Eloquence
 ---
 # Vukradin
 

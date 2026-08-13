@@ -3,7 +3,7 @@ name: Soma
 player: Wade Brown
 species: Tortle
 class_level: Druid 6
-subclass: ''
+subclass: Circle of the Moon
 ---
 # Soma
 
