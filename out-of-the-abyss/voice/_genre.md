@@ -55,6 +55,23 @@ Out of the Abyss is an Underdark survival picaresque narrated in first-person pa
   - **Daz:** *audited, tallied, sorted columns, categorized, sorted into the correct drawer, the running account.* His vocabulary is Menzoberranzan bookkeeping. **Rotate the noun; never let *ledger*/*column* dominate a scene or repeat within it.** Daz-specific: *I will not call X. I will call it Y* — substitution is the feeling.
   - **Zalthir:** *observed, watched, filed-and-moved-on.* Rarely written, because Zalthir's recording is mostly stillness. *"I watched him watch the sky."* If a Zalthir section reads like accounting, it's wrong; he watches, he doesn't tally.
   - **Cross-pollination collapses three otherwise-similar "I observe and record" registers into one.** *Thorin filed it* → wrong; should be *Thorin noted it / clocked it*. *Grygum's internal ledger* → wrong; should be *the column marked X / the margin*. *Daz noted it* → weak; he *audited / sorted / categorized*.
+  - The block below is the **machine-checkable subset** of the rules above, read by
+    `voice_lint --genre-file` (kostadis/mytools#125). It covers only literal first-person
+    *"I file / I filed"*; the wider rules — rotate the noun, no two metaphors stacked in a
+    sentence, Daz's permitted second — are prose because no regex can see them. The prose
+    is the rule; this is the part a machine can hold. Keep them in agreement by hand.
+
+    ```yaml voice_lint
+    bookkeeping:
+      licensed:          [grygum, daz]      # filing is canonical and protected
+      unlicensed:        [thorin, zalthir]  # "Thorin filed it" is the canonical wrong answer
+      per_section_cap:   1                  # at most one "I filed" per section
+      doc_sections_cap:  2                  # >2 of the sections filing is the convergence bug
+    portable_tics:
+      the_shape_of:            1            # more than one doc-wide means the pass failed
+      with_the_x_of_a_man_who: 1
+    ```
+
 - Preserve the kuo-toan and demon-naming orthography — Leemoogoogoon, Ploopploopeen, Bloppblippodd, Sloobludop. The absurdity of the names is *load-bearing* for the cosmic-horror reveal; don't sanitize them.
 - Italics for one-line direct thought; em-dash for interrupted speech or thought.
 
