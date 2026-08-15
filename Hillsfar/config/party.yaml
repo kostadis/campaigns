@@ -1,11 +1,3 @@
-# Hillsfar roster. Names are the campaign corpus's canonical spellings, which
-# the sheets' own H1 lines disagree with (docs/akritas.md says "Akrita",
-# docs/felkur.md says "Felkur Olwedond", docs/daien.md says "Daien"); the corpus
-# prefers Akritas 357:2, Oldenwood 13:2, Daein 467:2. roster_from_config takes
-# the name from here, not from the sheet, so these are the ones that render.
-#
-# Paths are campaign-root-relative (#291): resolve_party_config takes its base
-# from the caller, and load_party_config_arg defaults that to the cwd.
 characters:
 - name: Akritas
   sheet: docs/akritas.md

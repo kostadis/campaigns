@@ -20,9 +20,6 @@ verify:
   threshold: 0.85
   min_tokens: 4
   report_only: false
-roster:
-  characters: Brewbarry, Soma, Valphine, Vukradin
-  gm_player: Kostadis Roussos
 backends:
   active: dgx
   anthropic:
