@@ -1,7 +1,7 @@
 paths:
   session_recap: gm-assist.md
   session_summary: session-summary.md
-  scene_extractions_dir: scene_extractions_smoothed
+  scene_extractions_dir: scene_extractions
   narration_dir: narration
   output_dir: null
   party: docs/party.md
@@ -21,7 +21,7 @@ verify:
   min_tokens: 4
   report_only: false
 backends:
-  active: dgx
+  active: claude-code
   anthropic:
     backend: anthropic
     model: null
@@ -49,6 +49,6 @@ profiles:
     narrate_tokens: 16000
     prose_mode: true
     reflections: true
-    backend: dgx
+    backend: claude-code
     narration_genre_file: voice/_genre.md
 active_profile: Phandalin

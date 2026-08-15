@@ -1,0 +1,228 @@
+consistency_check:
+  timestamp: "2026-08-13T19:42:45+03:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260811/gm-assist.md"
+  document_class: "first-pass recap (GMAssistant export)"
+  report: "summaries/20260811/consistency_stage0_gmassist.md"
+  config: "/tmp/claude-1000/-home-kroussos-campaigns-Phandalin-summaries-20260811/66e57f76-61c1-4091-a40f-9576b2f2811d/scratchpad/phandalin_abs_config.yaml"
+  model: "claude-code (subscription backend)"
+  backend: "claude-code"
+  issues_found: 18          # counted from report body (grep -c '^### '), NOT the banner
+  issues_found_by_reviewer: 2   # #19 attribution, #20 truncated definition — neither in the report
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-11"
+  chapter: 48
+
+  staging_note: |
+    Invoked via /staged-consistency, but only the STAGE 0 artifact exists.
+    No session-summary.md, no scene_extractions_new/, no narration/, no prior
+    *.sources.yaml. Stages 1-3 were not run because their inputs do not exist —
+    this is not a skip, it is the pipeline's actual state. Effective scope was
+    /gmassist-precheck. Re-run /staged-consistency from stage 1 after
+    enhance_summary produces session-summary.md.
+
+  speaker_map: |
+    Derived from the tape, not assumed from campaign docs. Zoom VTT carries
+    inline "Name: text" speaker labels (NOT the **name:** or <v Name> forms).
+
+      Kostadis Roussos   533 lines  = GM
+      Stéphane Bourdeaud 330 lines  = Brewbarry
+      David Mendenhall   312 lines  = Vukradin
+      Wade Brown         170 lines  = Soma
+      Gary Young          96 lines  = Valphine
+
+    FULL PARTY PRESENT. No absent-player failure mode; attribution is reliable
+    this session. GM confirmed in conversation that Brewbarry is Stéphane's this
+    session, and the tape corroborates (Brewbarry's own introduction is on
+    Stéphane's channel at cleaned-VTT l.663).
+
+    REVIEWER ERROR, CORRECTED MID-RUN: the first roster grep used the character
+    class [a-zA-Z], which does not match the "é" in "Stéphane". He came back
+    absent and the run briefly proceeded toward the absent-player failure mode.
+    Corrected with a UTF-8-safe pattern before any finding was ruled. Use
+    `grep -oP '^[^\s:]+(?: [^\s:]+)*(?=: )'` on this campaign's Zoom VTTs.
+
+  transcripts_available: |
+    Three, and they disagree in ways that decided two findings:
+      - GMT20260812-035423_Recording.transcript.vtt         raw Zoom, speaker-labelled
+      - GMT20260812-035423_Recording.transcript.cleaned.vtt cleaned (150 corrections), speaker-labelled — PRIMARY
+      - session_20260811_transcript.vtt                     re-transcription, NO speaker labels, better audio fidelity
+    Consulted BY HAND. Not a --context input.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:                     # 12 files, one --context flag (nargs="+")
+      - { path: docs/party.md,                                            role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml,                                role: "canonical entities + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md,                   role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,                             role: "unpromoted confirmed names (campaign-standard); carries the 2026-08-13 GM rulings" }
+      - { path: notes/session_prep/20260728_linene_margaster.md,          role: "session prep — stages the counting-house → warehouse run" }
+      - { path: notes/session_prep/20260728_perrin_opening_moves.md,      role: "session prep — stages Perrin's first contact" }
+      - { path: notes/npcs/aurelan-vance.md,                              role: "dossier for the banker played this session" }
+      - { path: "notes/Woodland Manse -  Rimardo and Corrin Clue.md",     role: "the queued R&C clue that landed on screen this session" }
+      - { path: notes/session_prep/20260623_necklace-of-fireballs-neverwinter.md, role: "GM-side necklace forgery apparatus (broad tier)" }
+      - { path: notes/npcs/linene-graywind-motivation.md,                 role: "Linene's motivations (broad tier)" }
+      - { path: notes/neverwinter/docks_district.md,                      role: "Eastern Quay / docks geography (broad tier)" }
+      - { path: summaries/20260729/session-summary.md,                    role: "previous session (ch47) recap (broad tier)" }
+
+  notes: |
+    Phandalin has NO root config.yaml. Its config/config.yaml uses paths relative
+    to itself, so docs/* resolves to config/docs/* and 404s; auto-detection then
+    falls through to CampaignGenerator's own config and checks the wrong campaign.
+    A throwaway absolute-path config in the scratchpad was required — only
+    campaign_state + world_state need to be correct in it.
+
+    GM chose the BROAD prep tier when offered focused/minimal/broad/let-me-pick.
+
+    A /vtt-spell-pass had already been run on this session (vtt_known_additions.md
+    entries dated 2026-08-13). It could not have caught the two headline findings —
+    see vtt_adjudicated.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-13"
+    gm_rulings_this_run:
+      - "Brewbarry is Stéphane Bourdeaud's character (settles the open Gary-vs-Stéphane
+         question carried in docs/party.md:86 and docs/planning.md:360)."
+      - "Brewbarry's third name element stays DELIBERATELY UNRESOLVED. GM first chose
+         the sheet's 'Ogolakanu', then reversed to preserving the on-tape fumble after
+         the reviewer surfaced that 'Ogalakadu' is the ch30 on-screen reveal and appears
+         in published ch40 narration. Nothing is canonized; no corpus sweep authorised."
+      - "The Bronze Sun is a player-coined gag, not a location. Reframe as the bit;
+         do NOT promote to the entity registry."
+      - "House Margaster-owned notary is accepted table canon, superseding the prep's
+         hired Harbor-authority parlour."
+    applied:
+      - { finding: 1,  fix: "Ondrell B. Vance → Aurelan Vance (5); remaining Ondrell → Aurelan (10)" }
+      - { finding: 2,  fix: "Corin → Corrin (10)" }
+      - { finding: 3,  fix: "Linnane → Linene (10); NPC heading → 'Linene Graywind'" }
+      - { finding: 4,  fix: "Mountain Toes Mine → Mountain's Toe Gold Mine (5)" }
+      - { finding: 5,  fix: "Spire of the Morning Lord → Spire of the Morninglord (5)" }
+      - { finding: 6,  fix: "Manifold re-attributed from Lionshield Coster to the Neverwinter Commission in 4 places; Lionshield reframed as primary client" }
+      - { finding: 10, fix: "Subcommittee Charter re-glossed as the Phandalin UBT distribution-rules subcommittee (Linene's, ch46), not a charitable foundation" }
+      - { finding: 12, fix: "Elven Chainmail Items entry now names Brewbarry as holder" }
+      - { finding: 18, fix: "Header → 'Chapter 48: The Only Viable Shipper' (title lifted from the prep doc's own headline; flagged Claude-proposed, GM confirmed)" }
+      - { finding: 19, fix: "REVIEWER-FOUND. Three-independent-witnesses demand re-credited from Vukradin to Brewbarry" }
+      - { finding: 20, fix: "REVIEWER-FOUND. Threefold rule restored to the GM's full wording in 2 places" }
+    partially_applied:
+      - finding: 8
+        ruling: "Preserve the fumble after all — canonize nothing."
+        fix: "Quote now reads verbatim: 'I am Brewbarry Rootsmasher, Ogolo— no, sorry. Og— Ogonakanu. Yes.' Italic editorial note added to the speaker attribution recording the 2026-08-13 unresolved ruling, the ch30 'Ogalakadu' canon, and the sheet's 'Ogolakanu'."
+        rationale: "GM's first ruling (use the sheet's Ogolakanu) was reversed once the reviewer surfaced that Ogalakadu is the ch30 on-screen reveal and appears in published ch40 first-person narration. Applying Ogolakanu would have split the corpus and implied rewriting chapter prose — which /consistency-check treats as a signal the fix is inverted."
+      - finding: 9
+        ruling: "Keep the GM's wording, add the barrow clarifier."
+        fix: "'returned to the world by Vukradin — recovered from Lady Alagondar's own barrow —' in all 3 places (Summary, Scenes, NPCs)."
+        rationale: "Both transcripts independently confirm the GM said 'return'. Preserving his joke framing (Vukradin is technically the grave robber) while making the actual hole in Perrin's story legible to a later narrator."
+      - finding: 13
+        ruling: "Reframe as the bit it was."
+        fix: "'Corrin produces receipts from every place the party has ever been — Valphine spots one from the Bronze Sun, which is immediately disclaimed by its owner.'"
+        rationale: "Real table content, but a player improvisation stated as fact, with the punchline dropped. Not registered."
+    rejected:
+      - finding: 7
+        ruling: "Brewbarry does have bathrobes."
+        rationale: "Tape l.699 'I had prepared that speech in my bathrobe last night'; l.835 'she couldn't move around my bathrobes' (plural). He launched the bathrobe business in ch46. The finding traces to world_state.md's stale ch45 line. THE GROUNDING DOC IS WRONG, NOT THE RECAP → carry_forward."
+      - finding: 11
+        ruling: "Dawn service and Neverember dinner were not dropped; they remain upcoming."
+        rationale: "GM's own opening recap l.315 lists both as still to be delivered; l.2407 'That's at dawn of whatever the next appropriate day is'; l.4647 'Haven't we been invited by Lord Neverwinter to have dinner?'; l.5671 'We're gonna meet at the Church of Lathander after the sermon.' The table slid the schedule. campaign_state.md's 'Immediate Schedule' is what is stale → carry_forward."
+      - finding: 16
+        ruling: "Both halves rejected — the recap is right."
+        rationale: "'Centuries' is correct: GM l.3859 'if you're stuck in a tomb for a few hundred years'. 'Modern internet slang' is correct and table-sourced: GM as Boney l.3743 'I prefer the term, recently unalived', then Wade Brown l.3775 'Unalived is used to avoid demonetization, that's all.'"
+      - finding: 17
+        ruling: "Play divergence, not a recap error. No text change."
+        rationale: "GM made the notary Margaster-owned on tape (l.4111 'this notary house belongs to the Margasters'), superseding the prep's hired Harbor-authority parlour. The Drest proof-line survives: Perrin's l.3143 'The recovery office wrote to me' keeps the office live and the clerk unnamed/unspent."
+      - finding: 12-partial
+        ruling: "The report's claim that no elven chainmail exists in any party inventory is FALSE."
+        rationale: "It was checking stale docs/party.md (level 6). The item is on characters/brewbarry.md (level 7) and was granted on tape at l.3979-4007 (Gary: 'Add to your character elven chain mail'; Stéphane: 'Manage inventory… Items… Elven… chain mail'). Only the missing-holder half of the finding was real."
+
+  vtt_adjudicated: |
+    Consulted BY HAND; not a --context input. What the check structurally could not see:
+
+    TWO INVENTED PROPER NOUNS (the headline catch). Counts in the RAW VTT, i.e. what
+    the summarizer actually read:
+      "Ondrell"  0   vs  "Oral B." 3, "Andrell" 1   → gm-assist blended two wrong-forms
+      "Linnane"  0   vs  "Linen"   3, "Lynn"    1   → gm-assist invented a third form
+    Neither matches any glossary row, so the /vtt-spell-pass already run on this
+    session could never have caught them. Per /consistency-check: "a wrong name that
+    matches neither the garble nor the truth is a summarizer invention." Canon per the
+    2026-08-13 GM rulings is Aurelan Vance and Linene Graywind.
+
+    FINDING #19 — WRONG PC CREDITED (reviewer-found; not in the report). The recap gave
+    Vukradin the three-independent-witnesses demand. It is Brewbarry's, three times, all
+    on Stéphane's channel:
+      l.4435 "Not happening. Alright, until you can produce 3 independent, independent
+              from House Margaster, witnesses as to who you really are."
+      l.5467 "They know what they gotta do, produce 3 independent witnesses..."
+      l.5647 "we want witnesses, and witnesses that aren't in House Margaster's pocket."
+    Vukradin never says it. This is the decision shaping the whole necklace arc; left
+    uncorrected it would have propagated into every downstream artifact.
+
+    FINDING #13 FLIPPED DIRECTION. The report called "the Bronze Sun" a likely garble or
+    invention and implied cutting it. The two transcripts disagree at 00:38:52 —
+      Zoom (cleaned): "Gary Young: We're onsan as well."      [garbage]
+      re-transcription: "From the Bronze Sun as well."         [correct]
+    Gary named it; Zoom mangled it. Cutting it would have deleted real table content.
+    The re-transcription also preserved the punchline Zoom lost ("No, no, not from me").
+
+    FINDING #20 — TRUNCATED DEFINITION (reviewer-found; not in the report). Zoom cut the
+    GM off at "...using the threefold rule." The re-transcription has it whole:
+      "...using the threefold rule of coordinating between three different sources of
+       conflicting evidence with different provenance."
+    The recap's "cross-referencing three independent sources" was a fair paraphrase but
+    lost "conflicting evidence" and "different provenance" — the thematically loaded part,
+    given the genealogy is forged.
+
+    REVIEWER ERRORS CORRECTED MID-RUN (recorded per /consistency-check's instruction):
+      1. Speaker roster grep dropped Stéphane on the accented "é"; the run briefly headed
+         toward the absent-player failure mode. Corrected before any finding was ruled.
+      2. Told the GM there were "four spellings of Brewbarry's third name with no
+         authority" BEFORE they ruled. Wrong — Ogalakadu is the ch30 on-screen reveal and
+         appears in published ch40 narration. Surfaced the correction, GM reversed their
+         ruling. A finding stated and then corrected is more useful documented than
+         quietly dropped.
+
+  carry_forward:
+    - status: OPEN
+      item: "docs/world_state.md:69 — 'Bathrobe — returned but still desires one' is a ch45
+             fact superseded by the ch46 bathrobe-business launch and contradicted on tape
+             (l.699, l.835: 'my bathrobe', 'my bathrobes'). Will re-trigger this same false
+             positive every run until fixed. Generated doc — needs a hand-edit banner or a
+             pipeline re-run."
+    - status: OPEN
+      item: "docs/campaign_state.md:307 — 'Immediate Schedule' still has the dawn service as
+             'the very next morning' and the Neverember dinner as 'the following evening'.
+             Ch48 slid both; they remain upcoming as of end of ch48. Will re-trigger."
+    - status: OPEN
+      item: "Aurelan Vance is UNREGISTERED (0 hits in docs/entity_registry.yaml) despite a
+             dossier at notes/npcs/aurelan-vance.md and a 2026-08-13 GM ruling. Registry
+             silence is the root cause that let 'Ondrell' propagate unchallenged. Fix is
+             promotion via /entity-triage, not correction."
+    - status: OPEN
+      item: "Brewbarry's third name is recorded four ways across the corpus: Ogalakadu
+             (world_state, glossary, ch30 reveal, ch40 narration, 5 extractions, ensemble
+             ×4), Ogolakanu (character sheet backstory + its docs/party copy), Ogonakanu
+             and Ogolo (tape only). GM ruled it stays unresolved; NO SWEEP AUTHORISED.
+             Revisit only if the GM wants to settle it."
+    - status: OPEN
+      item: "notes/vtt_known_additions.md:86 records the third-name element as 'deliberately
+             left unresolved' but does not mention that Ogalakadu is the ch30 on-screen
+             canon. Worth appending so the next reviewer does not re-derive it."
+    - status: DONE
+      item: "Gary-vs-Stéphane player attribution for Brewbarry — settled by GM this session
+             (Stéphane). characters/*.md frontmatter updated from the kostadis1 D&D Beyond
+             export account to real player names earlier in this conversation."
+    - status: OPEN
+      item: "docs/party.md:86 and docs/planning.md:360 still carry 'GM should verify which
+             player controls which' notes for Brewbarry/Valphine. Now settled; the
+             planning.md note is blocking three Brewbarry arc-score candidates. Both are
+             generated docs — GM has not yet ruled on hand-editing them."
+    - status: NOTE
+      item: "docs/party.md is at level 6 while characters/*.md are at level 7. This caused a
+             false positive on the Elven Chainmail finding and will cause more. Re-run
+             party.py, or pass characters/*.md as context on future checks."
+    - status: NOTE
+      item: "Phandalin Zoom VTTs use inline 'Name: text' speaker labels, not '**name:**' or
+             '<v Name>'. /consistency-check's documented grep patterns miss them entirely.
+             Use: grep -oP '^[^\\s:]+(?: [^\\s:]+)*(?=: )'"
