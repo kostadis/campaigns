@@ -1,25 +1,29 @@
 characters:
 - name: Zalthir
   sheet: docs/Zalthir.md
-  player: Gabe
   backstory: docs/zalthir_backstory.md
   dossier: docs/ensemble/merged_dossiers/npc_zalthir.md
   arc_score: null
+  voice: voice/zalthir_voice.md
+  examples: examples/zalthir.md
 - name: Thorin Giantfriend
   sheet: docs/Thorin Giantfriend.md
-  player: Joe Beda
   backstory: docs/thorin_backstory.md
   dossier: docs/ensemble/merged_dossiers/npc_thorin.md
   arc_score: null
+  voice: voice/thorin_voice.md
+  examples: examples/thorin.md
 - name: Gyrgum
   sheet: docs/Gyrgum.md
-  player: Ben Pfaff
   backstory: docs/grygum_backstory.md
   dossier: docs/ensemble/merged_dossiers/npc_grygum.md
   arc_score: null
+  voice: voice/gyrgum_voice.md
+  examples: examples/gyrgum.md
 - name: Daz
   sheet: docs/Daz.md
-  player: Mike Hall
   backstory: docs/daz_backstory.md
   dossier: docs/ensemble/merged_dossiers/npc_daz.md
   arc_score: null
+  voice: voice/daz_voice.md
+  examples: examples/daz.md

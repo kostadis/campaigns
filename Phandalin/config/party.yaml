@@ -1,20 +1,24 @@
 characters:
 - name: Brewbarry
   sheet: docs/party/Brewbarry.md
-  player: Stéphane Bourdeaud
   backstory: docs/Backstory - Brewbarry.md
   arc_score: docs/tracking/brewbarry-score.md
+  voice: voice/brewbarry_new_pipeline.md
+  examples: examples/brewbarry.md
 - name: Valphine Sotorra
   sheet: docs/party/Valphine Sotorra.md
-  player: Gary Young
   backstory: docs/Backstory - Valphine Sotorra.md
   arc_score: docs/tracking/valphine-score.md
+  voice: voice/valphine_new_pipeline.md
+  examples: examples/valphine.md
 - name: Soma
   sheet: docs/party/Soma.md
-  player: Wade Brown
   backstory: docs/Soma - Backstory.md
   arc_score: docs/tracking/soma-score.md
+  voice: voice/soma_new_pipeline.md
+  examples: examples/soma.md
 - name: Vukradin
   sheet: docs/party/Vukradin.md
-  player: David Mendenhall
   arc_score: null
+  voice: voice/vukradin_new_pipeline.md
+  examples: examples/vukradin.md
