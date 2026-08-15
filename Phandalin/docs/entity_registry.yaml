@@ -937,7 +937,14 @@ entities:
   note: 'FACT (provenance): magic item sealed with the dead wizard in the sarcophagus
     of the Adventurers'' Sepulcher (DIP D7) — a room inside the Dragon Barrow, where
     Lady Alagondar and Azdraka are interred. Seven beads. Retrieved by VUKRADIN in
-    ch31; he still carries it. CLAIM (UNVERIFIED, ch46): Ser Kaelen''s note names
+    ch31; he still carries it. FACT (ownership, GM ruling 2026-08-15, ch48): the necklace
+    was LADY ALAGONDAR''S OWN — Boney, who served her in life, attests it on screen
+    ("It belonged to Lady Alagondar", re-transcription l.3232; the Zoom capture garbles
+    this to "I belong to Lady Alagondar"). The DIP D7 sarcophagus is where it was
+    interred and found, not evidence of separate ownership. This strengthens Perrin''s
+    claim if his identity is ever established, and it is the basis of Boney''s objection
+    that the necklace lay in her tomb — not in any family''s hands — when Perrin''s
+    family supposedly lost it to grave robbers. CLAIM (UNVERIFIED, ch46): Ser Kaelen''s note names
     Perrin Alagondar as the rightful owner — "a quiet Alagondar branch, no title,
     no army, a family that lost their dead''s belongings to grave robbers a generation
     ago." Kaelen is relaying a recovery office''s provenance match, not first-hand
@@ -2315,6 +2322,21 @@ entities:
 - name: Kostadinious the Sage
   type: npc
   note: In-world biographer who recorded KP's story. NOT KP — see notes/corrections/kp_identity_attribution.md.
+- name: Aurelan Vance
+  type: npc
+  aliases:
+  - Aurelan
+  source: summaries/20260811 (Ch. 48)
+  note: Banker at the Counting House, Neverwinter. Drafted ahead of play in notes/npcs/aurelan-vance.md
+    as a Moonstone Mask guest (retired Enclave trade magistrate); GM ruling 2026-08-13
+    confirms the Counting House loan officer played in Ch.48 is the same NPC. Signed
+    Brewbarry's bathrobe-business loan with Linene Graywind as shipping agent, pushed
+    House Margaster as a cheaper distributor, and directed Vukradin to the Neverwinter
+    Commission letter of credit. Canonical spelling is Aurelan per the 2026-08-13
+    GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre'
+    and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded
+    in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct
+    from Andrella, the Beached Leviathan barmaid.
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls
