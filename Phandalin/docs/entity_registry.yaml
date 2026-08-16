@@ -944,12 +944,12 @@ entities:
     interred and found, not evidence of separate ownership. This strengthens Perrin''s
     claim if his identity is ever established, and it is the basis of Boney''s objection
     that the necklace lay in her tomb — not in any family''s hands — when Perrin''s
-    family supposedly lost it to grave robbers. CLAIM (UNVERIFIED, ch46): Ser Kaelen''s note names
-    Perrin Alagondar as the rightful owner — "a quiet Alagondar branch, no title,
-    no army, a family that lost their dead''s belongings to grave robbers a generation
-    ago." Kaelen is relaying a recovery office''s provenance match, not first-hand
-    knowledge; the party has verified nothing. Do not record the grave-robber story
-    as provenance — it is the claim, and the claim and the provenance are different
+    family supposedly lost it to grave robbers. CLAIM (UNVERIFIED, ch46): Ser Kaelen''s
+    note names Perrin Alagondar as the rightful owner — "a quiet Alagondar branch,
+    no title, no army, a family that lost their dead''s belongings to grave robbers
+    a generation ago." Kaelen is relaying a recovery office''s provenance match, not
+    first-hand knowledge; the party has verified nothing. Do not record the grave-robber
+    story as provenance — it is the claim, and the claim and the provenance are different
     things.'
 - name: Opalescent Conch
   type: item
@@ -2309,10 +2309,9 @@ entities:
   source: Dragon of Icespire Peak (adventure-dip); Butterskull Ranch
   note: Alphonse 'Big Al' Kalazorn's cow (not a humanoid NPC — typed npc as the registry
     has no creature type). Module NPC from Dragon of Icespire Peak. Recovered at Butterskull
-    Ranch via Soma's Speak with Animals;
-    grazes with Qelline Alderleaf; source of the Phandalin cheese, which is graded
-    by which part of the field she grazed. Attends town gatherings — present on the
-    town green for the UBT proclamation (ch46).
+    Ranch via Soma's Speak with Animals; grazes with Qelline Alderleaf; source of
+    the Phandalin cheese, which is graded by which part of the field she grazed. Attends
+    town gatherings — present on the town green for the UBT proclamation (ch46).
 - name: Kazneporium Ketternopappux
   type: deity
   aliases:
@@ -2336,7 +2335,37 @@ entities:
     GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre'
     and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded
     in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct
-    from Andrella, the Beached Leviathan barmaid.
+    from Andrella, the Beached Leviathan barmaid. CH48 STAGE-3 (2026-08-16) - the
+    narration's rendering of the first-hearing joke was changed from 'Oral B. Vance'
+    to 'Aurum Bee Vance' at GM instruction, to strip the real-world brand reference;
+    the party mishears his name as something that sounds like a meadery before he
+    restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a
+    one-time in-fiction mishearing, blessed as a comic beat, and a future consistency
+    or spell pass must not silently normalize it to Aurelan.
+- name: dreamlily
+  type: item
+  provenance: on_the_fly
+  source: summaries/20260811 (Ch. 48)
+  note: Narcotic. Introduced in ch48 NARRATION by Soma as what an illegal back-room
+    alchemy operation in Neverwinter would be cooking - 'some alchemist cooking dreamlily
+    to rot the sons of merchants'. AUTHORED IN NARRATION at GM instruction (2026-08-16
+    stage-3 de-anachronization pass), replacing the transcript's real-world 'meth
+    lab' joke - NOT played at the table and NOT in prep. No properties, price, legality
+    or distribution established beyond mind-harming and illicit.
+- name: cadet house
+  type: concept
+  provenance: on_the_fly
+  source: summaries/20260811 (Ch. 48)
+  note: 'Menzoberranzan institution, described by Valphine in ch48. A House wanting
+    a rival poisoned founds a lesser house with its own crest, name and separate ledger;
+    the lesser house acts; the Matron then tells the Ruling Council ''that was not
+    my hand.'' Valphine: the Council has not believed it once in nine hundred years,
+    and it has never once failed - ''the words are the wall. Everyone sees through
+    it; nobody may say so aloud.'' Her read on a Neverwinter banker''s between-departments
+    excuse, and the campaign''s working metaphor for laundered agency. AUTHORED IN
+    NARRATION at GM instruction (2026-08-16 stage-3 de-anachronization pass), replacing
+    the transcript''s real-world ''Chinese wall'' joke - NOT played at the table and
+    NOT in prep.'
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls

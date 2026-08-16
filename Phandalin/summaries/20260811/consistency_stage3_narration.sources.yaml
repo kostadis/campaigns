@@ -1,0 +1,414 @@
+consistency_check:
+  timestamp: "2026-08-16T07:13:03+03:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260811/narration/ (8 scenes, effective assembly set)"
+  document_class: "narration (sd_narrate Pass 5 output; first-person per-scene)"
+  report: "summaries/20260811/consistency_stage3_narration.md"   # 18 findings; completed 11:49
+  config: "<scratchpad>/phandalin_abs_config.yaml (throwaway absolute-path config — Phandalin has NO root config.yaml)"
+  backend: "claude-code"
+  issues_found: 8             # from the reviewer's hand sweep, BEFORE any check ran
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-11"
+  chapter: 48
+
+  effective_assembly_set: |
+    Deduplicated the way assemble.py::collect_scene_files does — .scrubbed.md preferred,
+    raw .md as fallback. Recorded because a critique run against the wrong variant checks
+    a file the assembled session doc will never contain.
+      01 -> session_doc_scene_01_bathrobe_speech_to_empty_room.md            (raw; no scrubbed variant)
+      02 -> session_doc_scene_02_bullying_through_the_loan.scrubbed.md
+      03 -> session_doc_scene_03_rimardo_audits_the_moral_economy.scrubbed.md
+      04 -> session_doc_scene_04_naming_the_margaster_sabotage.scrubbed.md
+      05 -> session_doc_scene_05_perrin_claims_the_necklace.scrubbed.md
+      06 -> session_doc_scene_06_title_insurance_at_the_notary.scrubbed.md
+      07 -> session_doc_scene_07_the_shuttered_displacement_manifold.md      (raw; no scrubbed variant)
+      08 -> session_doc_scene_08_cullen_sharpe_at_the_quay.scrubbed.md
+    Assembled to <scratchpad>/ch48_narration_assembled.md — 1120 lines / 74365 chars.
+
+  check_run_history: |
+    THE CHECK SURVIVED A POWER-OFF AND COMPLETED LATE. Launched in the background 2026-08-16
+    ~07:13 on host MyDell2024 (the laptop); the GM powered the machine off mid-run. Verified at
+    11:46 that it was dead — no process, task output 0 bytes, no report file — and this manifest
+    was amended to say so. It then completed at 11:49, apparently resumed on wake, exit code 0,
+    report written, 18 findings.
+
+    Recorded because the intermediate state was genuinely indistinguishable from a lost job, and
+    a future run hitting the same pattern should re-check the filesystem before concluding a
+    background check died. Empirical file state beat both the "still running" assumption AND the
+    "it's dead" verification; only the report's existence settled it.
+
+  method_note: |
+    THE HAND SWEEP RAN FIRST AND FOUND ALL EIGHT ISSUES BEFORE THE CHECK WAS INVOKED, and it
+    is the ONLY thing that found anything this stage. Every applied edit traces to that sweep
+    plus hand VTT adjudication. This is therefore a deterministic-sweep stage, recorded the
+    same way stage 2 was — the difference being that stage 2 chose not to run the check, while
+    stage 3 tried and lost it to a power-off.
+
+    The stage's conclusions do not depend on the missing report. On this document class the
+    check was expected to be a thin supplement: narration fails on prose fabrication and voice
+    drift, and six of the eight findings (render artifacts, punctuation provenance, verbatim
+    fidelity) are invisible to any grounding-doc check by construction. The one finding the
+    check could plausibly have caught independently — the fabricated 'Dessarin Valley' — the
+    sweep had already found and the GM had already ruled on.
+
+    Expected hit-rate caveat for this document class: narration fails on prose
+    fabrication and voice drift. Grounding docs can catch a fabricated PLACE (which is
+    how finding 1 surfaced) but are structurally blind to punctuation, render artifacts,
+    and whether a quote is verbatim. Six of the eight findings were invisible to any
+    check by construction.
+
+  speaker_map: |
+    Unchanged from stages 0-2. Full party present; no absent-player attribution risk.
+      Kostadis Roussos = GM | Stéphane Bourdeaud = Brewbarry | David Mendenhall = Vukradin
+      Wade Brown = Soma | Gary Young = Valphine
+
+  transcripts_available: |
+    Consulted BY HAND; NOT a --context input.
+      - GMT20260812-035423_Recording.transcript.cleaned.vtt   speaker-labelled — PRIMARY
+      - session_20260811_transcript.vtt                       re-transcription, no labels
+    The stage-2 rule still holds on this session: take COMPLETIONS from the
+    re-transcription, keep PROPER NOUNS from Zoom.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:                     # GM chose "same broad set stage 1 used" (13 files)
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entities + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted confirmed names (campaign-standard)" }
+      - { path: notes/session_prep/20260728_linene_margaster.md, role: "session prep — counting-house → warehouse run" }
+      - { path: notes/session_prep/20260728_perrin_opening_moves.md, role: "session prep — Perrin's first contact" }
+      - { path: notes/npcs/aurelan-vance.md, role: "dossier for the banker played this session" }
+      - { path: "notes/Woodland Manse -  Rimardo and Corrin Clue.md", role: "the queued R&C clue that landed on screen" }
+      - { path: notes/session_prep/20260623_necklace-of-fireballs-neverwinter.md, role: "necklace forgery apparatus (broad tier)" }
+      - { path: notes/npcs/linene-graywind-motivation.md, role: "Linene's motivations (broad tier)" }
+      - { path: notes/neverwinter/docks_district.md, role: "Eastern Quay / docks geography (broad tier)" }
+      - { path: summaries/20260729/session-summary.md, role: "previous session (ch47) recap (broad tier)" }
+      - { path: summaries/20260811/gm-assist.md, role: "carried from the stage-1 set — SEE HAZARD BELOW" }
+
+  context_hazard: |
+    gm-assist.md was passed because the GM chose the stage-1 set verbatim, but it still
+    carries the OPEN stage-2 defect: its line 22 paragraph puts the crumple/weapon beat
+    between the notary and the Eastern Quay. Any finding in the saved report that claims
+    the narration misplaces that beat is a FALSE POSITIVE sourced from this context file —
+    the narration is correct and gm-assist is the stale one. Check this before actioning
+    the report.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-16"
+    gm_rulings_this_run:
+      - "DESSARIN VALLEY -> PHANDALIN. The UBT is a Phandalin governance scheme; the
+         narrator placed it in a valley that entity_inventory.md:258 puts EAST of
+         Phandalin. GM chose 'in Phandalin' over 'on the Sword Coast' — the smaller
+         region is both accurate and funnier."
+      - "REPAIR THE CHAPTER-FINAL TRAIL-OFF. Both transcripts render Soma's last line
+         with a full stop; the smoothing pass had converted it to an interruption dash.
+         Em-dash -> period. This narrows the stage-2 'load-bearing only' ruling: a
+         truncation that is the DOCUMENT'S LAST LINE is load-bearing by position."
+      - "FIX MISSING-SPACE RENDER ARTIFACTS EVEN INSIDE VERBATIM DIALOGUE. Inserting an
+         absent space does not change what anyone said; leaving it ships a visible typo."
+      - "KEEP SCRUBBED AND RAW IN SYNC. Fixes land in BOTH copies so a regenerated
+         .scrubbed.md or an assembly fallback cannot resurrect the error."
+    applied:
+      - { finding: 1, severity: Critical, fix: "scene 03 L67: 'the fairest income distribution scheme in the Dessarin Valley.' -> '...in Phandalin.' Applied to .scrubbed.md AND .md." }
+      - { finding: 4, severity: Minor,    fix: "scene 03 L148 (chapter-final line): trailing em-dash -> period, matching both transcripts. Applied to .scrubbed.md AND .md." }
+      - { finding: 5, severity: Minor,    fix: "scene 01 L77: \"Brewbarry'smoment\" -> \"Brewbarry's moment\". Raw only — scene 01 has no scrubbed variant." }
+      - { finding: 6, severity: Minor,    fix: "scene 08 L79: \"much safer withus.\" -> \"much safer with us.\" Applied to .scrubbed.md AND .md." }
+      - finding: "4b (consequential)"
+        severity: Minor
+        fix: "scene 03 L147: 'Soma starts.' -> 'Soma says.' Applied to .scrubbed.md AND .md."
+        rationale: "NOT an independent finding — a defect the reviewer's OWN finding-4 edit
+                    introduced. 'Soma starts' only parsed while the em-dash marked her as cut
+                    off; once the dash became a period there was nothing being started, and
+                    the attribution verb dangled. Leaving it would have shipped the scene in a
+                    worse state than before the run. Flagged to the GM rather than folded in
+                    silently, because it changes narrator prose rather than punctuation."
+    deferred_to_gm:
+      - finding: 2
+        severity: "Moderate · canon judgment"
+        item: "scene 03 L99 'Yeah, you, you, the Falcon and Don-Jon.' is VERBATIM-CORRECT
+               (Zoom l.2143, ASR-garbled as 'Don Juan'), but campaign_state.md:60 says the
+               party HOLDS Don-Jon's share while the GM's line lists him as a third
+               shareholder alongside the party and the Falcon. Don-Jon is Dead
+               (campaign_state.md:199). One GM ruling settles whether his share transferred."
+        action: "NO narration edit. Left exactly as the GM said it at the table."
+      - finding: 3
+        severity: "Moderate · canon judgment"
+        item: "'The Neverwinter Commission owns the mine' — confirmed verbatim on tape
+               (Zoom l.2099), and NEW canon that appears in NO grounding doc. It also ties
+               the manifold's commercial operator (campaign_state.md:237) to the party's
+               own income stream, which is a live plot connection."
+        action: "NO narration edit — the narration is right and the docs are silent.
+                 Needs a grounding-doc fold-in, recorded in carry_forward."
+    rejected:
+      - finding: "Vukradin's 'fourth-level slot that can turn a man into a different man' (scene 06 L53)"
+        ruling: "Not a finding — narrator-added but MECHANICALLY CORRECT."
+        rationale: "Absent from tape and from the extraction, so it is narrator inference.
+                    But characters/vukradin.md is Bard 7 with 4th-level slots (Polymorph,
+                    Dimension Door, Greater Invisibility). party.md's 'Bard 6' stat block is
+                    the stale ch45 level-6 export and carries its own KNOWN GAP banner saying
+                    so. Trust characters/*.md for mechanics — party.md would false-flag this."
+      - finding: "The 41 trailing em-dash quote endings in the narration"
+        ruling: "All legitimate. No action."
+        rationale: "Every one sits inside verbatim dialogue and reads as a genuine
+                    interruption ('Or my—', 'It's just an—', 'Disguise self as—'), which is
+                    precisely what voice/_genre.md licenses the em-dash for. Zero connective
+                    em-dashes in narration prose. The single exception was finding 4."
+      - finding: "Player names in narration prose"
+        ruling: "Zero. The two grep hits are false positives."
+        rationale: "scene 04 L121 'you wade out after them' is the verb; scene 05 L223
+                    '\"Stephane?\"' sits INSIDE a table-speech reclassification comment —
+                    i.e. correctly pulled OUT of the prose, which is the hatch working."
+      - finding: "Boney 'guarding' the Alagondar barrow (scene 05 L147)"
+        ruling: "Consistent. No action."
+        rationale: "world_state.md:75 — 'Former mount of Lady Alagondar. Killed by
+                    Will-o'-wisps while guarding her sword.' Same barrow."
+      - finding: "Ser Kaelen reaching House Margaster through an agent (scene 08 L25)"
+        ruling: "Verbatim. No action."
+        rationale: "Zoom l.5087, word for word. The narration corrects the ASR's 'your fines'
+                    to 'your finds', which is the only reading that parses."
+
+  vtt_adjudicated: |
+    THE REVIEWER'S OWN ERROR, CAUGHT BY READING FORWARD. Finding 2 was first written up as
+    a CRITICAL fabrication: 'Don-Jon' returns ZERO hits on the cleaned Zoom tape, he is
+    recorded Dead, and stage 1 had already deleted a 'Don Jon hold' claim from the recap as
+    an error. Three independent signals all pointing at a fabricated dead co-owner.
+    Reading the exchange forward to Zoom l.2143 produced 'Yeah, you, you, the Falcon and
+    Don Juan' — the ASR garble the extraction had ALREADY annotated ('the transcript garbles
+    Don-Jon as "Don Juan"'). The narration is verbatim-accurate and the finding was withdrawn
+    before the GM acted on it. This is the exact failure /consistency-check warns about:
+    ruling from the first grep window instead of reading the sequence to its end. The
+    intermediate line at l.2113 ('Bon Joan was simply an agent…') is the GM's first pass and
+    reads as the OPPOSITE of the ruling he lands on twenty lines later.
+
+    WHAT THE CHECK COULD NOT HAVE SEEN — six of eight findings:
+      - The two missing-space render artifacts. No grounding doc records spacing.
+      - The chapter-final trail-off. Only the two transcripts settle whether Soma was
+        interrupted (em-dash) or trailed off (period). Both have a full stop.
+      - 'Lord Neverwinter' -> 'Lord Neverember' (scene 07 L35). The tape (Zoom l.4647) has
+        Stéphane saying 'Lord Neverwinter', which is not a person. The narration silently
+        corrected it to the Lord Protector, corroborated by Zoom l.315 ('a dinner with the
+        Lord Protector to prepare for'). Correct, and invisible to any doc-based check.
+      - 'your fines' -> 'your finds' (scene 08 L25). Same class.
+      - The Commission owning the mine (finding 3) — a NEW fact, absent from every doc, so
+        there was nothing for a check to contradict it with.
+
+    DO NOT ADD A GLOSSARY ROW FOR THE NEVEREMBER SLIP. 'Lord Neverwinter' -> 'Lord
+    Neverember' looks like a natural corrections-table entry and is a trap: 'Neverwinter' is
+    the city name and appears hundreds of times per session. The word-boundary applier would
+    corrupt the corpus wholesale. Recorded here so a future /vtt-spell-pass does not propose it.
+
+  smoothing_layer_finding: |
+    A DEFECT CLASS DISCOVERED THIS STAGE, BELONGING TO A PIPELINE LAYER NO PRIOR STAGE
+    CHECKED: scene_extractions_smoothed/ is what session_doc.yaml actually feeds the
+    narrator (paths.scene_extractions_dir), while stages 0-2 checked and fixed
+    scene_extractions/. Verified the stage-2 fixes DID propagate — the smoothing pass ran
+    2026-08-15 17:43+, well after the 08:03-08:10 extraction fixes — and all five spot
+    checks (necklace ownership, 'despite herself', the misfiled tail, the corrupted
+    splices, the de-duplicated crumpling beat) are correct in the smoothed copies.
+
+    But the smoothing pass REWRITES THE VERBATIM QUOTE LAYER, which nothing had audited:
+      - (truncated) markers: 57 in raw -> 1 in smoothed.
+      - Trailing em-dash quote endings: 0 in raw -> 59 in smoothed, in all 8 scenes.
+    Inspection shows this is mostly GENUINE REPAIR — it merges artificially split VTT cues
+    into whole sentences (raw scene 07 L31+L32, two fragments, become one complete smoothed
+    line at L36). That quietly closes the stage-2 carry_forward item about 60 surviving
+    truncation markers, and explains why ZERO '(truncated)' markers reach the narration.
+
+    The one place it went wrong is that it renders EVERY residual trail-off as an
+    INTERRUPTION dash, and voice/_genre.md reserves the em-dash for interrupted speech.
+    41 of those reached the narration; 40 are legitimate interruptions and one — the
+    chapter's final line — was not. Fixed as finding 4.
+
+  report_triage:
+    ran: "2026-08-16, GM went 1x1 through the report's 18 findings"
+    rejected_on_tape:
+      - "#1 letter of credit — GM narrates it on ARRIVAL (Zoom l.543); report's 'prep leakage' claim false."
+      - "#8 layaway offered twice — genuinely twice (l.4431 notary, l.5471 quay). Narration right."
+      - "#12 Chinese wall 'makes no sense' — verbatim at l.1791, and it IS the finance term. Report
+         would have rewritten verbatim dialogue on a misreading. (Later rewritten anyway, but as an
+         authorial de-anachronization, NOT as the error the report claimed.)"
+      - "#18 elven chain 'trade' — the hatch carries 'And that replaces your scale mail' from the
+         table, so the swap framing is grounded. Cosmetic at most."
+    applied_from_report:
+      - { finding: 2,  fix: "sc.07 x2 — 'setting a table for us tomorrow night' -> 'setting a table for us'; 'and tomorrow we eat his food' -> 'and soon we eat his food'. Unpins a schedule the GM's end-of-ch48 ruling deliberately unfixed. Brewbarry's spoken line kept — it is tape (l.4647)." }
+      - { finding: 4,  fix: "sc.08 — 'We arrive dragging Perrin with us' -> 'We arrive with Perrin walking and his fixer still in Brewbarry's grip'. Brewbarry scruffed the FIXER (sc.05 L111/L177); Perrin came voluntarily." }
+      - { finding: 5,  fix: "sc.04 — dividend custody moved from Brewbarry to Vukradin, and the following sentence's pronoun resolved to Brewbarry in the same edit so it still points at the right man." }
+      - { finding: 6,  fix: "sc.06 — 'no demonic trappings' -> 'no forger's back room ... none of the stink of the writ racket'. See the Margaster.md ruling below; the report was right to flag it and wrong about why." }
+      - { finding: 14, fix: "sc.02 — 'their third appearance in as many days' -> 'in two days'. Writ shakedown and Cullen's pitch were both ch47 evening; the banker's steer is ch48." }
+      - { finding: 16, fix: "sc.05 — 'they wrote to me last 10 days' -> 'last tenday'. THE RUN'S BEST PREP CATCH: notes/session_prep/20260728_perrin_opening_moves.md:63 scripts the line, the ASR mangled the unit, and no other source could have caught it. The same line's 'about 40 times' had survived correctly." }
+      - { finding: 17, fix: "sc.05 — the camera-zoom gag recast at GM direction as Mielikki narrowing Her attention, with Soma unbothered at looking broader. Resolves the split treatment (its two siblings were already hatched) without hand-editing the hatch." }
+      - { finding: "7 + 10", fix: "gm-assist.md corrected, NOT the narration. Crumple/weapon beat moved from the notary paragraph and bullet to the Eastern Quay; 'title insurance' credited to Vukradin, who coins it at l.4383/4391 (the notary's scam-shelving at l.4407 was already right). Closes a carry_forward item OPEN since stage 2." }
+    gm_authored_this_round:
+      - "DE-ANACHRONIZATION SWEEP (GM decision, 8 spans). The GM ruled that real-world references
+         should become opportunities to ADD LORE rather than be neutralised. Applied: Houston->Phandalin;
+         Mandalore->'as they say in the hills'; Zoomer->'talks like a shell-sprout' + a tortle line about
+         hatchlings finding the fast word for the slow thing; SystemD->a Mielikki teaching about what
+         holds a wood up; meth lab->an unlicensed still cooking DREAMLILY; dollars->gold;
+         Sherlock->Harper; Chinese wall->the Menzoberranzan CADET HOUSE, expanded into a full exchange.
+         NOTE: these rewrite VERBATIM PLAYER DIALOGUE. That is an authorial choice the GM made
+         explicitly, not a consistency correction, and it is recorded as such."
+      - "'Oral B. Vance' -> 'Aurum Bee Vance' (sc.01), same rationale. The GM said 'Oral B' in
+         character at l.755 so the narration was faithful; the change is de-anachronization."
+      - "NEW CANON LOGGED: dreamlily (item) and cadet house (concept) added to entity_registry.yaml
+         with provenance on_the_fly and notes recording that they were AUTHORED IN NARRATION, not
+         played or prepped. 'Aurum Bee Vance' deliberately NOT added as an alias — a mishearing in
+         the registry would tell every downstream consumer it is a correct form; it is recorded in
+         the Aurelan Vance note instead, beside the existing garble list."
+    reviewer_consequential_edits: |
+      TWO defects introduced by the reviewer's OWN approved edits, both caught and closed rather
+      than shipped, both flagged to the GM as prose changes rather than punctuation:
+        - 'Soma starts.' -> 'Soma says.' (sc.03) — 'starts' only parsed while the em-dash marked
+          her as cut off.
+        - 'Nobody asks him what a Houston is.' -> 'Nobody points out that all of Phandalin would
+          fit inside this one bank.' (sc.05) — removing Houston orphaned the follow-on joke.
+      Worth generalising: every one of these came from a single-span replacement inside a
+      multi-sentence beat. After any approved span edit, re-read the two sentences on either side.
+
+  assembled:
+    when: "2026-08-16, after all stage-3 fixes and the de-anachronization sweep"
+    command: |
+      python -m session_doc.assemble summaries/20260811/narration \
+        --chapter 48 --session 20260811 --title "The Only Viable Shipper" \
+        --output summaries/20260811/session_doc.md
+    output: "summaries/20260811/session_doc.md — 1072 lines / 12,617 words / 71,808 chars"
+    scenes: "8 (6 scrubbed + 2 raw — scenes 01 and 07 have no scrubbed variant, which is correct:
+             a scene with no accepted scrub changes gets no file)"
+    narrator_balance: "Brewbarry 2, Valphine 2, Soma 2, Vukradin 2 — even across all four PCs"
+    verified: |
+      - Frontmatter minted correctly (chapter 48 / session 20260811 / title), matching the ch47 shape.
+      - All 8 table-speech hatches stripped by assemble.py; zero survive in the doc.
+      - No per-scene YAML frontmatter leaked into the body.
+      - All 18 of this run's fixes present in the assembled text.
+      - All 13 removed forms absent: the anachronisms, Dessarin, both render typos, (truncated).
+    scale_note: "12,617 words vs ch47's 9,776 across 8 sections vs 7 — proportionate, no runaway section."
+
+  carry_forward:
+    - status: DONE
+      item: "CRITICAL FABRICATION FIXED — 'Dessarin Valley' -> 'Phandalin' (scene 03 L67),
+             in both the scrubbed and raw copies. Zero hits remain anywhere in the pipeline.
+             The surviving docs/ hits are legitimate reference entries about the real
+             Dessarin Valley and per /consistency-check the reference layer is never
+             'corrected' to match a recap."
+    - status: DONE
+      item: "Both render artifacts fixed (Brewbarry'smoment, withus). The voice_critique_*.md
+             files still QUOTE both defects — that is correct, they are the review record."
+    - status: DONE
+      item: "STAGE-2 ITEM CLOSED BY THE SMOOTHING PASS — the 60 surviving (truncated) markers.
+             Raw 57 -> smoothed 1, and zero reach the narration. No census pass needed."
+    - status: DONE
+      item: "Stage-2 fixes verified propagated through the smoothing layer into the narration.
+             The duplicated crumpling/'much safer with us'/fireball beat now appears ONLY in
+             scene 08. The narrator did not narrate it twice — which was the whole point."
+    - status: CORRECTION
+      item: "The reviewer's stage-3 first read called the Don-Jon shareholder line a
+             fabrication. It is verbatim (Zoom l.2143, garbled 'Don Juan'). Withdrawn before
+             any edit. Recorded per /consistency-check: a finding stated and then corrected is
+             more useful documented than quietly dropped."
+    - status: OPEN
+      item: "NEW CANON NOT IN ANY GROUNDING DOC — 'The Neverwinter Commission owns the mine'
+             (Zoom l.2099), and the party/Falcon/Don-Jon hold shares in it (l.2143). This is
+             the same Commission that campaign_state.md:237 records as the manifold's
+             commercial operator, so the party's income and the sabotage plot now share a
+             counterparty. Needs a campaign_state.md fold-in. GM DECISION NEEDED on whether
+             Don-Jon still holds a share posthumously, since campaign_state.md:60 says the
+             party holds it."
+    - status: DONE
+      item: "PROPAGATION GAP CLOSED — scene_extractions_smoothed/03 patched at GM instruction
+             after the initial report. The quote is restored to the raw extraction's full stop
+             and the misleading '*cue cut on tape*' label is replaced with a provenance note
+             citing Zoom l.2367 / re-transcription l.1951 and the fact that the next cue is
+             Brewbarry changing the subject. Re-narrating scene 03 can no longer reintroduce
+             the false interruption. Provenance diff after the fix: raw 0, smoothed 58 (was 59)."
+    - status: DONE
+      item: "SKILL FIX — the smoothing-layer defect is now a standing check in
+             ~/.claude/skills/voice-critic/SKILL.md as 'Scan A2 — trailing em-dash PROVENANCE',
+             with the raw-vs-smoothed diff command, the ch48 numbers as the measured case, the
+             load-bearing-by-position rider, and the stranded-attribution-verb warning. The
+             Phase 5 'do NOT flag verbatim dialogue' bullet now carries a pointer to it, since
+             that rule is precisely what hid the defect: all 41 dashes sat inside quotes, so
+             the reading pass skipped every one and reported the scenes clean.
+             NOTE: ~/.claude/skills is a symlink into ~/src/mytools — this edit is
+             version-controlled there and is currently UNCOMMITTED."
+    - status: OPEN
+      item: "party.md's stat blocks are the ch45 level-6 export while characters/*.md are
+             level 7. Already banner-flagged in party.md, but it WILL keep generating
+             false positives of the form 'X is not in this character's documented kit' on
+             every future run that passes party.md as context. Finding: the 4th-level
+             Polymorph slot this run."
+    - status: OPEN
+      item: "RECURRING FALSE POSITIVE #3 STILL NOT KILLED — the Bronze Sun remains absent from
+             docs/entity_registry.yaml. Carried unchanged from stage 2. Promotion via
+             /entity-triage is an identity decision reserved to the GM."
+    - status: OPEN
+      item: "PROVENANCE CONFLICT, carried unchanged from stage 2: world_state.md:498 dates the
+             Necklace of Fireballs to the Alagondar barrow at 'ch33'; entity_registry.yaml says
+             'Retrieved by VUKRADIN in ch31'. The ch48 narration asserts the barrow provenance
+             (scene 05 L147) and is consistent with both on location, only the chapter differs."
+    - status: OPEN
+      item: "gm-assist.md STILL carries the original crumple/weapon misplacement at its line 22.
+             Carried unchanged from stage 2, and now materially riskier: it was passed as
+             --context to THIS stage's check, so the saved report may contain false positives
+             sourced from it. See context_hazard above."
+    - status: OPEN
+      item: "session-summary.sonnet.md still leaks real player names into recap prose. Carried
+             unchanged from stages 1-2."
+    - status: OPEN
+      item: "The scene extractions AND the narration files are now HAND-EDITED. Re-running
+             scene_extract discards every stage-2 fix; re-running sd_narrate discards the four
+             fixes in this manifest. Re-apply from here."
+    - status: DONE
+      item: "gm-assist.md CORRECTED — the crumple/weapon misplacement that had been OPEN since
+             stage 2 is fixed (moved to the Eastern Quay in both the summary prose and the scene
+             bullets), and the 'title insurance' coinage is credited to Vukradin. The context
+             hazard recorded above is therefore retired for future runs."
+    - status: DONE
+      item: "FOUR NEW CANON ITEMS FOLDED INTO campaign_state.md — Commission owns Mountain's Toe
+             (with the Don-Jon share question left explicitly to the GM), Ser Kaelen's line into
+             House Margaster, Valphine's undefined table-granted lie-detection ability, and Boney
+             the genealogist. Plus a table of the three narration-authored terms. NOTE: campaign_state.md
+             is a pipeline output; all of this is hand-maintained and dies on regeneration."
+    - status: DONE
+      item: "docs/Margaster.md EXTENDED with the ch48 ruling that the GM's own l.1055-56 'demonic'
+             line was a slip, and with the generalised rule: do not narrate any character as
+             scanning for fiendish signs EVEN IN THE NEGATIVE, because describing what a search did
+             not find still asserts what was being looked for."
+    - status: OPEN
+      item: "REGISTRY PROJECTION NOT RE-RUN. dreamlily and 'cadet house' were added to
+             entity_registry.yaml but docs/aliases.json and docs/entity_inventory.md are generated
+             from it and are now stale by two entities. Run `python -m entity_registry.registry
+             project <campaign_dir>` when convenient."
+    - status: OPEN
+      item: "THE NARRATION NOW DIVERGES FROM THE TAPE BY DESIGN, in 9 spans (8 sweep + Aurum Bee
+             Vance). A future /consistency-check or /vtt-spell-pass comparing narration against the
+             transcript WILL flag every one of them as a fidelity error. They are GM-authored
+             de-anachronizations. This is the single most likely false-positive class on the next run."
+    - status: OPEN
+      item: "18 REPORT FINDINGS TRIAGED — see consistency_stage3_narration.md and report_triage above.
+             The report ran against the STALE 06:04 assembly (pre-fix), yet did NOT surface
+             'Dessarin Valley', either missing-space typo, or the scene-03 ending. Those four
+             remain hand-sweep-only catches, which is the cleanest available evidence for this
+             stage's expected-hit-rate claim: the machine check and the reading pass find
+             disjoint defect classes."
+    - status: CORRECTION
+      item: "TWO OF THE REPORT'S FINDINGS ARE WRONG, verified against tape before any were
+             shown to the GM as actionable.
+             (a) Report #1 claims Scene 01's letter of credit is prep-doc leakage and that
+                 Vukradin learned of it inside the bank. FALSE — Zoom l.543 has the GM
+                 narrating it on arrival: 'Vukradin, of course, is very excited, because he
+                 has this confront-free letter of credit, don't forget, that he acquired
+                 from…', and l.603 has Stéphane's 'I guess the letter of credit is for later'
+                 verbatim. The narration is right; REJECT.
+             (b) Report #6 calls 'no demonic trappings' a knowledge-boundary violation citing
+                 docs/Margaster.md. The phrase is the GM'S OWN, on tape at Zoom l.4231
+                 ('Margaster, you know, demonic…'), carried into the extraction at 06 L85 as a
+                 verbatim GM quote. It is GM-authored in-fiction content, so 'fix the
+                 narration' is the wrong first move — this is a canon judgment about whether
+                 the party may hold a demonic EXPECTATION, not a recap error.
+             Both illustrate /consistency-check's standing warning: the report is another
+             LLM's unreviewed output and is most confident exactly where it has not read the
+             tape."

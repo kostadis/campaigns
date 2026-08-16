@@ -257,6 +257,7 @@ A Lord's Alliance broadsheet in the Protector's Enclave, fronted by Orsik, Defen
 
 **Valphine's Golden Eyes (New)**
 Valphine has "crossed a threshold" — her eyes now glow gold and strangers take her for an avatar of Lathander. Ser Kaelen was visibly *concerned* that a drow Lathanderite could be so blessed and sent her to Brother Aldric Sunmantle. The Neverwinter armorer treated her as a living vindication of embracing the drow, which Vukradin immediately read as a setup for disaster. Her formal epithet in the city is "Valphine of the Blessed" — the "Searing" has not caught on.
+- **Ch48 — a lie-detection ability granted at the table, recorded nowhere else.** The GM: *"Valphine, I think you have a special ability now related to your character, where you can detect lies or cause people who are lying."* Used against Cullen Sharpe at the Eastern Quay. It appears on **no character sheet and in no other document**, and the mechanics were never stated. Plausibly the golden-eyes threshold made concrete. **Settle the mechanics before it is needed again.** *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
 
 **Brewbarry's Bathrobe Business (New — Active)**
 Genuine redemption arc, not a joke thread: atonement for generations of Uthgardt violence by "bringing softness to people." Linene is consultant; the Counting House is the next step. Brewbarry's Uthgardtian look has independently become a street fashion in Neverwinter, which is unexploited commercial leverage.
@@ -266,6 +267,34 @@ Prutha and five orc converts left the party at Icespire Hold to convert Vorga's 
 
 **The Party Has No Name**
 Raised in Phandalin (ch46) and again by Cullen Sharpe (ch47); unresolved both times. "Lathander Death Chant" was ruled a genre, not a name. Brewbarry: "We need a marketing consultant, I think."
+
+**Terms Authored In Narration, Not At The Table (ch48 stage 3)**
+The ch48 de-anachronization pass replaced real-world jokes in the transcript with in-world equivalents at GM instruction. These are now in the session doc and are therefore canon, but they were **authored in narration rather than played or prepped** — recorded here so a future consistency pass does not read them as fabrications, and so their provenance stays honest.
+
+| Term | Replaced | Meaning as established |
+|---|---|---|
+| **Aurum Bee Vance** | "Oral B. Vance" | How Aurelan Vance's name first lands on the party's ear at the Counting House; the party riffs that it sounds like a meadery. He restates it correctly a moment later. **Not an alias** — a mishearing played for comedy, blessed as an in-fiction beat. |
+| **dreamlily** | "a meth lab" | A narcotic; Soma's example of what illegal alchemy in a back room would be cooking — "to rot the sons of merchants." No further properties established. |
+| **cadet house** | "a Chinese wall" | **Menzoberranzan institution.** A House that wants a rival poisoned founds a lesser house with its own crest, name and ledger; the lesser house acts; the Matron tells the Ruling Council "that was not my hand." Valphine: the Council has not believed it once in nine hundred years, and it has never once failed — "the words are the wall." Her read on the banker's department excuse, and the campaign's working metaphor for laundered agency. |
+
+Also note: **Mielikki now appears in narration prose** (Soma, ch48 sc.06 and sc.05). Her faith was recorded only on `characters/soma.md` and in no other campaign document before this. Soma's "shell-sprout" for the young is used in dialogue for the first time.
+
+**The Neverwinter Commission Owns Mountain's Toe (New — ch48, structural)**
+Established on tape (Zoom l.2099) and previously recorded in no document: **the Neverwinter Commission owns the Mountain's Toe Gold Mine outright.** The party does not own it — they hold a *share*, and the 200 gp Vukradin collected at the Counting House is a **dividend**, not a payout. Vukradin was visibly shaken: *"Somehow I did not know that. So we don't own… I thought we were the owners."* He has been telling people about "our mine."
+
+This matters beyond the money. The same Commission is recorded above as the **commercial operator of the displacement manifold** — so the party's income and the sabotage they are investigating now share a counterparty, and Lord Cassian's warning ("when it comes to the Commission, one should keep one's distance") applies to their own revenue.
+
+**GM DECISION NEEDED — who holds the shares.** The GM's line at l.2143 is *"Yeah, you, you, the Falcon and Don-Jon"* (Zoom garbles Don-Jon as "Don Juan"). But this document already states the **party holds Don-Jon's share** after his death at the mine, and lists him as Dead. Either the Commission's ledger is stale and does not know he is dead — a usable hook — or the share transferred and the table line was shorthand. One ruling settles it. *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
+
+**Ser Kaelen's Line Into House Margaster (New — ch48, Watch)**
+At the Eastern Quay, Cullen Sharpe told the party that **Ser Kaelen had reached out to House Margaster through one of their agents** on the party's behalf — verbatim, Zoom l.5087: *"…one of the problems that Ser Kaelen suggested you might have when he reached out to us through one of our agents, that perhaps we could provide the connecting tissue between your finds and the real proprietaires using our patented system."*
+
+Recorded in no other document. Two readings and the narration deliberately holds both open: Kaelen's recovery office routes returns through a Margaster-endowed desk in **good faith**, or Cullen wants the party to believe the Order's man is theirs. Note that Kaelen is also the source of Vukradin's standing warning to **stay away from House Margaster** — so if the first reading is right, Kaelen is warning them off a house he is himself transacting with. *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
+
+**Boney the Genealogist (New — ch48, characterization)**
+Boney taught himself the succession lines of the noble houses by **reading the gravestones** during his interment in Lady Tanamere Alagondar's barrow — *"if you're stuck in a tomb for a few hundred years, you start to do research"* — and the records kept arriving, because it was a tomb. He cross-examined Perrin Alagondar directly on lineage and was scrupulous about the limits of what he could attest: the necklace **belonged to Lady Alagondar**, and if Perrin is genuinely of the clan he may have a rightful claim.
+
+Makes him a functional authority on noble succession — directly relevant to the Alagondar restoration plot Perrin is pushing. Note his "a few hundred years" overstates the record: the registry dates Lady Alagondar's death to *"over a century ago."* Treat the discrepancy as Boney rounding up, and **do not let "centuries" propagate into the grounding docs** — `gm-assist.md` has already drifted to "studying… for centuries." *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
 
 **The Real Headliner (Critical)**
 Rimardo/Corrin warned: six gods of fate are circling, each convinced they are the headliner — which means none of them are. A true headliner has not been announced. Corrin's card showed an older, colder, lightning-pale creature of far greater age beneath the green dragon. The understudy is already playing the lead role without the audience knowing.
