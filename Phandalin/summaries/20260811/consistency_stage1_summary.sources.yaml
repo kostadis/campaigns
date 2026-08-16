@@ -1,0 +1,260 @@
+consistency_check:
+  timestamp: "2026-08-15T00:00:00+03:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260811/session-summary.md"
+  document_class: "enhanced recap (enhance_summary output)"
+  report: "summaries/20260811/consistency_stage1_summary.md"
+  config: "/tmp/claude-1000/-home-kroussos-campaigns-Phandalin-summaries-20260811/4c33d3ef-3fd6-4d8a-a156-d5ee2972f15a/scratchpad/phandalin_abs_config.yaml"
+  model: "claude-code (subscription backend)"
+  backend: "claude-code"
+  issues_found: 12            # counted from report body (grep -c '^### '), NOT the banner
+  issues_found_by_reviewer: 1 # bullet 188 relocation — not in the report
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-11"
+  chapter: 48
+
+  staging_note: |
+    Stage 1 of /staged-consistency. Stage 0 (gm-assist.md) was completed 2026-08-13 —
+    see consistency_stage0_gmassist.sources.yaml. This run's target was built by
+    enhance_summary at 2026-08-13T21:11:38 FROM THE CORRECTED gm-assist, so every
+    stage-0 name fix was inherited clean; no name/garble findings recurred.
+
+    GM ruled session-summary.md canonical for this stage. The sibling
+    session-summary.sonnet.md (37.3K, a second enhance run) was NOT checked — see
+    carry_forward, it leaks real player names into recap prose.
+
+    Stage 3 (narration) will be SKIPPED — narration/ contains only plan.md. No
+    narration prose exists yet. This is the pipeline's actual state, not a skip.
+
+  lineage: |
+    gm-assist.md (stage 0, corrected 2026-08-13)
+      + GMT20260812-035423_Recording.transcript.cleaned.vtt (95,655 chars dialogue)
+      -> enhance_summary 2026-08-13T21:11:38
+      -> session-summary.md  [THIS DOCUMENT]
+      -> scene_extract 2026-08-14T20:17:45 -> scene_extractions/ (stage 2)
+
+  speaker_map: |
+    Re-derived from the tape this run; matches stage 0 exactly.
+      Kostadis Roussos   533 lines  = GM
+      Stéphane Bourdeaud 330 lines  = Brewbarry
+      David Mendenhall   312 lines  = Vukradin
+      Wade Brown         170 lines  = Soma
+      Gary Young          96 lines  = Valphine
+    FULL PARTY PRESENT. No absent-player failure mode; attribution reliable.
+    Use the UTF-8-safe pattern — [a-zA-Z] drops Stéphane on the accented "é":
+      grep -oP '^[^\s:]+(?: [^\s:]+)*(?=: )'
+
+  transcripts_available: |
+    Consulted BY HAND; NOT a --context input.
+      - GMT20260812-035423_Recording.transcript.cleaned.vtt  speaker-labelled — PRIMARY for attribution
+      - GMT20260812-035423_Recording.transcript.vtt          raw Zoom, speaker-labelled
+      - session_20260811_transcript.vtt                      re-transcription, NO speaker labels,
+                                                             better audio fidelity — decided findings 3 and 8
+    The two transcripts disagreed on three findings this run and the re-transcription
+    was right every time. Do not run a stage on the Zoom capture alone.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:                     # 13 files, ONE --context flag (nargs="+")
+      - { path: docs/party.md,                          role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml,              role: "canonical entities + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,           role: "unpromoted confirmed names (campaign-standard)" }
+      - { path: notes/session_prep/20260728_linene_margaster.md,     role: "session prep — counting-house → warehouse run" }
+      - { path: notes/session_prep/20260728_perrin_opening_moves.md, role: "session prep — Perrin's first contact" }
+      - { path: notes/npcs/aurelan-vance.md,            role: "dossier for the banker played this session" }
+      - { path: "notes/Woodland Manse -  Rimardo and Corrin Clue.md", role: "the queued R&C clue that landed on screen" }
+      - { path: notes/session_prep/20260623_necklace-of-fireballs-neverwinter.md, role: "necklace forgery apparatus (broad tier)" }
+      - { path: notes/npcs/linene-graywind-motivation.md, role: "Linene's motivations (broad tier)" }
+      - { path: notes/neverwinter/docks_district.md,    role: "Eastern Quay / docks geography (broad tier)" }
+      - { path: summaries/20260729/session-summary.md,  role: "previous session (ch47) recap (broad tier)" }
+      - { path: summaries/20260811/gm-assist.md,        role: "SOURCE RECAP — required for enhanced-recap class; every
+                                                                difference from it is what the enhancement pass added" }
+
+  notes: |
+    Phandalin has NO root config.yaml; config/config.yaml uses paths relative to itself
+    so docs/* resolves to config/docs/* and 404s, and auto-detection then falls through
+    to CampaignGenerator's own config. A throwaway absolute-path config is mandatory
+    on every Phandalin run. Only campaign_state + world_state need to be correct in it.
+
+    GM reused stage 0's BROAD prep tier. All 12 stage-0 files verified still present.
+
+    EXPECTED-HIT-RATE NOTE. On the enhanced-recap class the report's hit rate is poor
+    by construction, and it was here: of 12 findings, 2 were applied as suggested,
+    4 required a GM canon ruling, 1 pointed the WRONG WAY, 3 were re-triggers of
+    already-settled stage-0 rulings, and 2 were annotations. The most consequential
+    defect (a whole scene's worth of relocated beats) was found by the reviewer
+    widening the report's finding, not by the report.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-15"
+    gm_rulings_this_run:
+      - "NECKLACE OWNERSHIP: Boney is right — the Necklace of Fireballs was Lady
+         Alagondar's own. entity_registry.yaml amended with a FACT (ownership) clause.
+         The DIP D7 sarcophagus is where it was interred and found, not evidence of
+         separate ownership. Strengthens Perrin's claim if identity is ever established."
+      - "ELVEN CHAINMAIL PROVENANCE: Valphine gave it to Brewbarry out of House Sotorra's
+         stores; she has worn White Dragon Plate +1 since ch46. The handover was settled
+         at the table rather than played out."
+      - "SER KAELEN: both on-tape invocations stay verbatim but are annotated as claims.
+         Campaign canon is unchanged — Kaelen acted in good faith through a source he
+         does not know is Margaster-compromised."
+      - "'Perry' is preserved as Brewbarry's table voice, with an editorial note recording
+         that the re-transcription reads 'Perrin'. Nothing canonized."
+    applied:
+      - { finding: 1,  fix: "Relocated 3 Scenes bullets (crumple+weapon+Cullen, 24-perception paperwork, fireball corollary) from 'The Notary of House Margaster' to 'Confrontation at Margaster Logistics'; moved the corresponding Summary paragraph into the Eastern Quay flow with an explicit location anchor. Cullen Sharpe KEPT — the report's suggested fix was to delete him and was wrong." }
+      - { finding: 2,  fix: "Letter of Credit item: 'the party, the Falcon, and Don Jon hold shares' -> 'the party (holding the late Don-Jon Raskin's share) and the Falcon hold shares'" }
+      - { finding: 6,  fix: "'Soma, won over despite himself' -> 'herself'" }
+      - { finding: 7,  fix: "UPWARD PROPAGATION into gm-assist.md — temple line re-attributed from Vukradin to Valphine. The enhanced recap was RIGHT and the stage-0 artifact was wrong." }
+      - { finding: 188, fix: "REVIEWER-FOUND, not in the report. Fourth misplaced bullet — the necklace refusal ('It's much safer with us', tape l.5495) moved from the Notary scene to the Quay." }
+    partially_applied:
+      - finding: 3
+        ruling: "Boney is right — update the registry, recap stands."
+        fix: "docs/entity_registry.yaml Necklace of Fireballs note gained a FACT (ownership, GM ruling 2026-08-15, ch48) clause quoting the re-transcription. No recap text changed."
+        rationale: "The recap was already tape-accurate; the conflict was between the tape and the registry, and the GM resolved it in the tape's favour."
+      - finding: 4
+        ruling: "Valphine gave it to him."
+        fix: "Elven Chainmail item entry rewritten with the provenance + a GM-side note that the handover was settled at the table, plus a reminder that the ch46 dragon scale mail (300 gp) is still uncollected. Summary prose updated to match."
+        rationale: "The only tape evidence was out-of-character (l.3979 Gary: 'Add to your character elven chain mail'; l.4007 Stéphane: 'Manage inventory…'). GM supplied the in-fiction source rather than the reviewer inventing one."
+      - finding: 5
+        ruling: "Annotate both as claims; canon unchanged."
+        fix: "GM-side italic notes added at the Vukradin bullet, the Cullen bullet, and the Cullen Sharpe NPC entry (which was rewritten from 'He reveals' to 'He claims')."
+        rationale: "Both quotes are verbatim on tape (l.2503, l.5087). The risk was downstream absorption as fact, not the recap being wrong."
+      - finding: 8
+        ruling: "Keep 'Perry' + editorial note."
+        fix: "Italic note added recording that Zoom reads 'Perry' and the re-transcription reads 'Perrin'."
+        rationale: "Diminutive fits Brewbarry's register (he calls the banker 'old man' the same session). Preserving table voice while blocking a future silent 'correction'."
+      - finding: 11
+        ruling: "Add the GM-side note."
+        fix: "Margaster Notary Paperwork item annotated: authentic notarization of a forged claim."
+        rationale: "Prophylactic — prevents a later pass reading 'authentic' as canonizing Perrin."
+    rejected:
+      - finding: 9
+        ruling: "The Bronze Sun is REAL. Stage-0 ruling re-confirmed."
+        rationale: "Re-transcription l.1612 'From the Bronze Sun as well.' vs Zoom l.1931 'We're onsan as well.' Gary named it; Zoom mangled it. Still unregistered, which is why it re-flagged — see carry_forward."
+      - finding: 10
+        ruling: "Dawn service and Neverember dinner were not dropped. Stage-0 ruling re-confirmed."
+        rationale: "l.2407 'That's at dawn of whatever the next appropriate day is'; l.5671 'We're gonna meet at the Church of Lathander after the sermon.' The table slid the schedule; campaign_state.md:206 is the stale side. Re-triggered exactly as stage 0 predicted."
+      - finding: 12
+        ruling: "'Few hundred years' is correct. Stage-0 ruling re-confirmed."
+        rationale: "GM l.3859 verbatim: 'if you're stuck in a tomb for a few hundred years, you start to, like, do research.'"
+
+  vtt_adjudicated: |
+    Consulted BY HAND; not a --context input. What the check structurally could not see:
+
+    THE HEADLINE CATCH — A WHOLE SCENE'S BEATS RELOCATED, AND THE REPORT POINTED THE
+    WRONG WAY. The report flagged Cullen Sharpe's presence at the notary as an internal
+    contradiction and recommended DELETING him. The tape says he was there and the
+    LOCATION is what is wrong. Eastern Quay begins at l.4739 ("you're at the Margasters
+    Logistic Operations Eastern Quay", with Perrin and the fixer dragged along, l.4751
+    confirming the notary may have come too). Every disputed beat is 750+ lines later:
+      l.5495  "It's much safer with us."                                    (refusal)
+      l.5511  "I take the paperwork, I make a little paper ball…"           (crumple)
+      l.5519  "Is that making it crystal clear for you, Perry?"
+      l.5543  "momentarily thinks to reach for his weapon, and Colin looks at him,
+               and he doesn't."                                             ("Colin" = Cullen)
+      l.5575  "I would like to rule a 24 perception on the, on the paperwork."
+      l.5627  "…If he then takes the necklace, puts it on, and shoots a fireball at us…"
+    The notary scene itself runs l.4087-4739; the layaway offer (l.4431) and the
+    three-witnesses demand (l.4439) genuinely belong there and were left alone.
+    Applying the report's fix would have deleted a real, on-tape beat and left the
+    document reading MORE canonical afterwards. This is /consistency-check's
+    "the report can point at the correct half of a contradiction" failure mode.
+
+    A PURE ENHANCEMENT FABRICATION. "Don Jon hold shares" appears in session-summary.md
+    and NOWHERE else — zero hits in BOTH transcripts, zero in gm-assist.md. The
+    enhancement pass added a man killed in ch31 to a current shareholder list.
+
+    ZOOM GARBLED THE NECKLACE'S OWNERSHIP; THE RE-TRANSCRIPTION SETTLED IT.
+      Zoom l.3843:            "I belong to Lady Alagondar…"
+      re-transcription l.3232: "It belonged to Lady Alagondar."
+    Answering "do you know who the necklace belongs to?" (l.3839). The recap followed
+    the re-transcription and was right. Had only the Zoom capture been consulted, the
+    reviewer would have "corrected" a true statement into Boney describing himself.
+
+    THE ENHANCEMENT PASS DID NOT INVENT DICE VALUES THIS RUN — worth recording, because
+    it is failure mode #1 for this document class and it did not fire. All four verified
+    verbatim, with correct attribution:
+      l.5119  David Mendenhall: "Alright, a 6, awesome."      (reading Stéphane's roll)
+      l.5133  David Mendenhall: "Back you up. 15."
+      l.5391  David Mendenhall: "You got two ones."           (reading Stéphane's roll)
+      l.5575  Gary Young:       "I would like to rule a 24 perception…"
+    Note the pattern: Stéphane rolls, David reads the number aloud. That is exactly the
+    speaker-signal confusion that normally produces attribution drift, and the recap
+    still got every attribution right. Do not assume this holds on other sessions.
+
+    STAGE-0 FIX INHERITANCE VERIFIED. session-summary.md was built from the CORRECTED
+    gm-assist, so Aurelan/Corrin/Linene/Mountain's Toe/Morninglord all came through
+    clean and none re-flagged. This is the staged pattern working as designed.
+
+    AN ERROR TRAVELLING UPWARD. Finding 7 is the reverse of the usual direction: the
+    ENHANCED recap was right (l.5703 Gary Young = Valphine, "Yes, I definitely want to
+    see him set foot within the temple") and the stage-0 gm-assist.md was wrong
+    (Vukradin). Stage 0 did not catch it because no grounding doc records the beat.
+    Fixed in gm-assist.md this run.
+
+  carry_forward:
+    - status: OPEN
+      item: "session-summary.sonnet.md LEAKS REAL PLAYER NAMES into recap prose —
+             'Gary had Brewbarry add elven chainmail', 'David noted', 'Wade: How
+             convenient for House Margaster'. session-summary.md does not. Not checked
+             this run (GM ruled it non-canonical). Either delete it or scrub it before
+             it can be mistaken for the canonical recap by a later pipeline stage."
+    - status: OPEN
+      item: "gm-assist.md carries the SAME beat-misplacement as session-summary.md did —
+             its line 22 paragraph puts the crumple/weapon beat between the notary and
+             the Eastern Quay. Only the Valphine/Vukradin attribution was fixed there
+             this run (finding 7); the relocation was NOT applied to gm-assist.md.
+             Scope was not authorised. Apply if gm-assist is ever re-consumed."
+    - status: OPEN
+      item: "docs/entity_registry.yaml has no entry for 'the Bronze Sun' (confirmed real
+             at stage 0 AND re-confirmed this run, re-transcription l.1612). It is also
+             absent from notes/vtt_known_additions.md. Its absence is why finding 9 fires
+             every single run. Fix is promotion via /entity-triage, not correction."
+    - status: OPEN
+      item: "docs/campaign_state.md:206 'Neverwinter — Immediate Schedule' still has the
+             dawn service as 'the very next morning' and the Neverember dinner as 'the
+             following evening'. Ch48 slid both; they remain upcoming as of end of ch48.
+             CARRIED FROM STAGE 0 AND RE-TRIGGERED THIS RUN exactly as predicted. Will
+             keep re-triggering until fixed."
+    - status: OPEN
+      item: "docs/world_state.md:69 bathrobe line — carried from stage 0. Now reads
+             'Bathrobe — returned but still desires one (and now intends to manufacture
+             them at scale)', which is an improvement but still describes him as not
+             having one, contradicted on tape (l.699 'my bathrobe', l.835 'my bathrobes')."
+    - status: OPEN
+      item: "PROVENANCE CONFLICT INSIDE THE CONTEXT SET: docs/world_state.md's Objects
+             table dates the Necklace of Fireballs' retrieval to ch33; docs/entity_registry.yaml
+             says ch31. Not a recap defect — flagged by the report as a context-internal
+             conflict. Needs one GM ruling and a single-direction fix."
+    - status: OPEN
+      item: "Brewbarry's dragon scale mail (Lathander emblem, 300 gp, commissioned ch46
+             at the Protector's Enclave armorer) is STILL UNCOLLECTED and went unmentioned
+             all of ch48 — while he acquired a different suit of armor. Now noted GM-side
+             in the Elven Chainmail item entry. Live thread for ch49."
+    - status: OPEN
+      item: "The elven chainmail provenance ruled this run (Valphine -> Brewbarry) is
+             recorded ONLY in the ch48 recap. docs/entity_registry.yaml has a
+             'Mithral Chain Mail' entry but no 'Elven Chain Mail' entry, and party.md
+             is a generated doc. Consider registering the item."
+    - status: DONE
+      item: "Aurelan Vance registration — OPEN at stage 0, now CLOSED. docs/entity_registry.yaml:2318
+             carries the entry with 'Aurelan' as the sole alias and the garbles
+             (Ondrell B. Vance, Oral B. Vance, Andrell, Andrew/Andres/Andrey/Andre)
+             correctly EXCLUDED from the alias list per the garbles-are-not-aliases rule."
+    - status: DONE
+      item: "docs/party.md level-6 vs characters/*.md level-7 gap — OPEN at stage 0, now
+             DOCUMENTED. party.md:7 carries an explicit KNOWN GAP banner directing readers
+             to trust characters/*.md for mechanics. Did not cause a false positive this run."
+    - status: NOTE
+      item: "Phandalin Zoom VTTs use inline 'Name: text' speaker labels, not '**name:**'
+             or '<v Name>'. /consistency-check's documented grep patterns miss them
+             entirely, and [a-zA-Z] drops Stéphane on the accented 'é'.
+             Use: grep -oP '^[^\\s:]+(?: [^\\s:]+)*(?=: )'"
+    - status: NOTE
+      item: "Stage 3 (narration) not run — narration/ holds only plan.md. Re-run
+             /staged-consistency stage 3 after sd_narrate produces prose."

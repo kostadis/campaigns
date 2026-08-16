@@ -1,29 +1,40 @@
 # Party Reference — Icespire Peak / Phandalin Campaign
 
-*State as of Chapter 45. Manse cleared; Gorthok dead; party returning to Phandalin. Next stop: Mountain's Toe Mine (payday), then Neverwinter.*
+*State as of Chapter 47. The party is in Neverwinter, evening of the day they arrived. Next: dawn service at the Spire of the Morninglord, then dinner with Lord Neverember.*
 
-> **Hand-correction (2026-08-07) — Cryovain hoard.** The generated text said the hoard was *"at Icespire Hold — unclaimed (Vukradin refused it)."* Both halves were wrong. GM ruling: Vukradin **took** the hoard; he refuses to **claim** it. Corrected below (obligations, collective resources, Vukradin's motivations). Re-apply after any regeneration — see `notes/corrections/cryovain_hoard_disposition.md`.
+> **HAND-EDITED 2026-08-13.** The CampaignGenerator pipeline (`party.py`) last generated this file at ch45. Chapters 46 (2026-06-23) and 47 (2026-07-29) were folded in by hand from `summaries/20260623/session-summary.md` and `summaries/20260729/session-summary.md`. **Re-running `party.py` will discard these edits.**
+>
+> **KNOWN GAP — character levels.** The stat blocks below are the ch45 level-6 export. `characters/*.md` were refreshed on 2026-08-13 and show all four PCs at **level 7**, with gear not reflected here (Valphine's White Dragon Plate +1 and Shield +1, AC 22; Brewbarry's Elven Chain Mail; Vukradin's 4th-level slots). Neither ch46 nor ch47 records the level-up on screen, so it was not folded in from the summaries. **Trust `characters/*.md` for mechanics; trust this file for narrative state.**
 
 ---
 
 ## Party Overview
 
-**Current location:** Scattered between the Woodland Manse vicinity and the road south to Phandalin. Full party alive. Boney with the group; Vorga's orc contingent departing separately.
+**Current location:** Neverwinter, evening of arrival (ch47). Full party alive, long-rested, fully spelled. Boney with them in the streets — permitted on the DM's stated grounds that "he doesn't poop," not taken indoors. Prutha and the five orc converts are **not** with them; they split off at Icespire Hold in ch46.
+
+**Immediate schedule (all booked, ch47):**
+1. **Dawn** — performance and sermon at the Spire of the Morninglord. Valphine: *"We're just gonna bust in through the door, and then take the service."* She is also to consult Brother Aldric Sunmantle about her golden eyes, per Ser Kaelen.
+2. **Following evening** — private dinner with Lord Dagult Neverember, arranged via Aldus. Vukradin is pitching a charitable gala for the music studio; Neverember wants to discuss the party's "circulation of wealth" and the rearrangement of Phandalin's government.
+3. **Unscheduled** — private tea at Lord Cassian's residence, arranged by Valphine because the Moonstone Mask was not safe for the real conversation.
+4. **Next stop** — the Counting House. Brewbarry carries Linene's letter of introduction; also the entry point for the Lionshield Coster supply-chain investigation. Quest tracker: "Capital Gang."
 
 **Active obligations:**
-- Return stolen goods and a statue to Neverwinter contacts (Elara Meliamne) before House Margaster acts.
-- Locate rightful owners of the frozen dragon treasure taken from Icespire Hold — the party is carrying it.
-- Find the mermaid's next of kin in Neverwinter.
+- Investigate the link between the Planar Manifold failure and Elara Meliamne's death (Lord Cassian's charge).
+- Collect Brewbarry's dragon scale mail from the Protector's Enclave armorer before leaving the city (300 gp owed).
+- Return the Necklace of Fireballs to Perrin Alagondar. *(GM: the provenance is a Margaster-routed forgery; the party does not know.)*
+- Locate rightful owners of the frozen dragon treasure at Icespire Hold (Crown claim unresolved).
+- Mountain's Toe Mine — money collection, Zeleen's Earthstone Gem, Horia's secret addendum. **All bypassed in ch46; all still open.**
 - Brewbarry committed to helping rebuild the Woodland Manse brewery (future beer).
-- Vukradin holds items for rightful owners: Necklace of Fireballs, obsidian sword/gem.
-- Vukradin agreed to escort Vorga (ch45).
+- Vukradin holds the obsidian sword/gem pending ownership determination.
+- **CLOSED (ch46):** escort Vorga to Icespire Hold. **CLOSED (ch47):** return the Meliamne statue — the party's oldest outstanding obligation.
+- **ABANDONED (ch46):** the Shrine of Savras. The party explicitly dropped the quest in favour of travelling straight to Neverwinter.
 
 **Collective resources:**
 - Dragon Slayer Sword (+1) — Brewbarry
 - Meril's Staff — Soma
-- Staff of Bird Calls — Soma (kept secret; confessed under Zone of Truth)
+- Staff of Bird Calls — Soma (now openly held; confessed under Zone of Truth ch45. Considered and rejected as barter for the armour in ch46 — Vukradin objected that as "blood money" it belongs to the people under Phandalin's new rules)
 - Boots of Elvenkind — Vukradin
-- Necklace of Fireballs (holding for owner) — Vukradin
+- Necklace of Fireballs (holding for claimant) — Vukradin
 - Obsidian Sword/Gem (holding for owner) — Vukradin
 - Gauntlets of Ogre Power, Dread Helm, +1 Halberd, Elemental Cleaver — Brewbarry
 - Dust of Disappearance (in a book) — Valphine
@@ -31,11 +42,17 @@
 - Cryovain breath pouch — Soma
 - Sending stones
 - Mountain's Toe Gold Mine shares (Brewbarry and Falcon)
-- ~3,000 gp Cryovain hoard — **carried by the party**, taken from Icespire Hold. A single fused slag of ice, residium, gold, gems and trade bars; unspendable and inseparable without a planar expert. Vukradin took it but refuses to *claim* it as loot: it goes to its rightful owners or to the UBT fund, never to the party. The party is gold-rich and cash-poor at the same time.
+- **Music studio fund: 550 gp** in an earmarked restricted trust (ch47) — Lord Cassian's 50 gp donation plus a natural-20 fundraising pitch to the Moonstone Mask's patrons
+- **50 gp each to Soma, Valphine and Brewbarry** from Lord Cassian (150 gp total, ch47)
+- **Linene's letter of introduction** to the Counting House — Brewbarry
+- **Dragon scale mail** (Lathander emblem on the back) — commissioned for Brewbarry, 300 gp, **not yet collected**
+- ~3,000 gp Cryovain hoard — **donated to the UBT fund (ch46)**, but fused into a single slag inside a magical containment and undistributable until unfused. Soma detected a **planar anomaly** around it via Meril's Staff and tied it to "that stag" and "those weird gnome things." Ser Kaelen holds it.
 - Superior healing potion hidden in Vukradin's pack by Valphine (he doesn't know)
 - Unknown vial in Vukradin's pack placed by narrator (he doesn't know)
 
-**Group reputation:** Heroes of Phandalin; cleared Icespire Hold; cleared Woodland Manse for Falcon; defeated Gorthok; won the Druid Council vote (interventionism vindicated). Adabra Gwynn is a standing hostile rival. Rimardo and Corrin have declared an "outstanding balance" — cryptic but not immediately threatening.
+**Group reputation:** Heroes of Phandalin, now working the capital — but the Phandalin glow has faded to "yesterday's news." In Neverwinter: Vukradin is genuinely famous for his *early* work and is personally litigating a "you sold out" fan discourse; Brewbarry's Uthgardt look has become a street fashion movement with people dressing in imitation of him; Valphine is taken for an avatar of Lathander on sight and is styled **"Valphine of the Blessed"** (the "Searing" has not caught on); Soma is styled **"Soma, the protector of the Glades."** Adabra Gwynn remains a standing hostile rival. Jenna Roscoe has flipped from neutral recruiter to **hostile**, and reached Neverwinter ahead of the party. Rimardo and Corrin have declared an "outstanding balance."
+
+**The party still has no name.** Raised in Phandalin (ch46) and again by Cullen Sharpe (ch47); unresolved both times. "Lathander Death Chant" was ruled a genre, not a name; "Lights Destruction" was floated. Brewbarry: *"We need a marketing consultant, I think."*
 
 ---
 
@@ -43,21 +60,25 @@
 
 ### Brewbarry
 
-**Barbarian 6 (Path of the Giant) | Goliath | Stephane Boudreau 
+**Barbarian 6 (Path of the Giant) | Goliath | Stéphane Bourdeaud**
 
-*The character sheet lists the player as Stephane Boudreau.*
+*Player confirmed by the GM on 2026-08-13: Brewbarry is Stéphane's. The 2026-08-11 session recording corroborates — Brewbarry's lines are on Stéphane's own channel. (The earlier "Gary covers Brewbarry" note applies only to sessions Stéphane misses.)*
 
 **Stats (from sheet):** HP 59 max | AC 16 | STR +4 | CON +2 | Speed 45 ft. | Rage ×4/LR | Extra Attack
+*See the KNOWN GAP note at the top — `characters/brewbarry.md` now shows Barbarian 7, HP 68, AC 17, with Elven Chain Mail.*
 
 **Personality:** Brewbarry competes because competition is the only way he knows how to be alive. He measures everything in contests, victories, and hangovers. He is genuinely kind, loyal to Vukradin above all others, and entirely unreliable in the sense that his priorities (booze, brawl, win) will always threaten to override the plan. He does not experience his exile as injustice — he "earned it one goodberry at a time." What he cannot accept is that it was engineered against him.
 
-**Motivations:** Open a music studio with Vukradin. Rebuild the Woodland Manse brewery (promised himself future beer). Redeem the exile by becoming the legend, not the cautionary tale. The Thistle's Echo trauma — a Seelie fairy used a goodberry to sedate him and desecrate his tribe's sacred ground — is unresolved and driving a subconscious mutation of his barbarian instincts into anti-magic paranoia.
+**THE BATHROBE BUSINESS (ch46) — a sincere redemption arc, not a running gag.** His stated motive: *"My kind has been spreading violence and pain throughout the land for generations. I think I need to turn that around and bring softness to people."* The plan is fully specified: Phandalin cotton, blessed by Lathander's priests, Lathander's logo on the garment, a note promoting Vukradin's studio, and a 5% discount for buyers of Vukradin's album ("Black Cylinder"), distributed through the Lionshield Coster. Linene Graywind agreed to be his wealth management consultant and adopted it as her own — *"Brewbarry, this is your personal quest, now it is my personal quest"* (sincerity confirmed by Valphine's Insight, 19) — and wrote him a letter of introduction to the Counting House. He monologued about thread counts for the entire journey to Neverwinter until Vukradin told him to give it a rest.
+
+**Motivations:** The bathrobe factory. Open a music studio with Vukradin. Rebuild the Woodland Manse brewery (promised himself future beer). Redeem the exile by becoming the legend, not the cautionary tale. The Thistle's Echo trauma — a Seelie fairy used a goodberry to sedate him and desecrate his tribe's sacred ground — is unresolved and driving a subconscious mutation of his barbarian instincts into anti-magic paranoia.
 
 **Notable relationships:**
 - *Vukradin* — musical partner, protector, anchor; Brewbarry would die for him without hesitation
 - *Valphine* — trusted combat partner; she has trained him in interrogation
 - *Soma* — respected; he defers to her naturalist focus
 - *Falcon* — reconciled; holds mine shares with him
+- *Linene Graywind* — **new as of ch46:** his wealth management consultant and business patron
 - *The Uthgardt tribe* — exiled; the wound is still present
 
 **Items of significance:**
@@ -66,7 +87,19 @@
 - Gauntlets of Ogre Power — significant mechanical item
 - Dread Helm — worn; "warm on his skull" (ch42)
 - Scale mail (ch41); normally prefers no armor
-- Stole bathrobes and slippers from Falcon's Lodge; returned the bathrobe under Zone of Truth (ch45); still wants one
+- **Dragon scale mail with Lathander's emblem — commissioned ch46 for 300 gp, not yet collected**
+- **Linene's letter of introduction to the Counting House (ch46)**
+- **50 gp from Lord Cassian (ch47)**
+- Stole bathrobes and slippers from Falcon's Lodge; returned the bathrobe under Zone of Truth (ch45); still wants one — and now intends to manufacture them at scale
+
+**Ch46–47 developments:**
+- Revealed a genuine palate at Qelline Alderleaf's cheese tasting — set aside the dried-out rounds and chose a creamy blue, startling the room (*"who would have thought that Brewbarry was a man of taste and vision?"*). Big Al, asked if he knew his friends had such class: *"neither did I."*
+- Declared an **honorary citizen of Phandalin** so he would qualify for UBT.
+- Discovered in Neverwinter that ale can be good; the Common Chord's, by contrast, was "piss."
+- A city guard asked him to sign a paper for his son; he offered to sign in blood and asked for a drop of the guard's.
+- Worked the Moonstone Mask as Vukradin's hype man — *"Please get out your checkbooks"* — then stood, applauded thunderously, and scanned the room for anyone not clapping.
+- Demanded credentials from Cullen Sharpe after a very large burp, and recommended an independent overseer for any Margaster dealings.
+- Heckled Aldus throughout the summons, interrogating him on whether his lord keeps good drinks, has bathrobes, and makes large donations.
 
 **Candidate Arc Score Events — Thistle's Echo Score (0–30)**
 
@@ -79,27 +112,36 @@
 - [Ch 44]: Drank the last surviving bottle of wine in the manse immediately after falling onto a spike trap — mundane sustenance preferred in extremis, rage spent, no magical healing sought. → Candidate **+1 The Dietary Rejection**
   (trigger: "When Brewbarry actively refuses magically conjured sustenance or magical healing from a spellcaster, insisting on mundane food and natural recovery out of a subconscious fear of sedation") — *Note: This is passive rather than active refusal; GM should judge whether the pattern of seeking mundane drink meets the "active" bar.*
 
+- [Ch 46] **NEW — GM verification pending**: Discriminated by taste alone across a full cheese range, rejecting the dried-out rounds for a creamy blue — mundane, physical, sensory judgment displacing the expectation that a barbarian cannot discern. → Candidate **+1 The Dietary Rejection** *(or a new "Softness" track — GM's call whether this scores at all; it is thematically the bathrobe arc, not the Thistle arc.)*
+
 ---
 
 ### Valphine Sotorra
 
 **Cleric 6 (Peace Domain) | Drow Elf | Player: Gary Young**
 
-*Note: Both Brewbarry and Valphine are listed as Gary Young's characters in session context. GM should verify which player controls which.*
-
 **Stats (from sheet):** HP 45 max | AC 18 | WIS +4 (Spell Save DC 15, Attack +7) | Insight +10 (Expertise) | Speed 30 ft. | Channel Divinity ×3/LR | 120 ft. Darkvision
+*See the KNOWN GAP note at the top — `characters/valphine.md` now shows Cleric 7, HP 52, **AC 22**, Speed 20 ft., with White Dragon Plate +1 and Shield +1 attuned, plus the Lucky and Observant feats.*
+
+**THE GOLDEN EYES (ch46–47) — the major development of these two chapters.** Valphine's eyes now glow gold. She calls it *"a blessing"* from Lathander; the DM's framing is that she has **"crossed a threshold."** The reactions matter more than the mechanic:
+- **Ser Kaelen was startled and visibly concerned** that a drow Lathanderite could be so blessed, and sent her to Brother Aldric Sunmantle in Neverwinter for guidance.
+- The Protector's Enclave armorer treated her as living proof that embracing the drow was correct — *"I knew it! Brother Aldric was right! This was the right decision to embrace the drow!"* — then cut his price by 82%.
+- The Moonstone Mask staff greeted her with *"Oh, you're a blessing upon me."*
+- Her formal city epithet is **"Valphine of the Blessed."**
+- Vukradin immediately read the whole pattern as a setup for disaster: *"You see, like, an upcoming drow invasion into Neverwinter, and the people just, like, throw open the doors… This'll go really well, guys."*
 
 **Personality:** Valphine is a connoisseur of pain — not a sadist who enjoys inflicting it, but a masochist who finds the experience of controlled pain clarifying and beautiful. She came from Menzoberranzan where everyone inflicts; she is the anomaly who turns it inward. The surface world's sunlight that sears drow eyes is, to her, delicious. She founded a temple to Lathander's "Searing Pain of Justice" and considers her five orc converts her congregation. She has her mother's tactical intelligence and none of her mother's pleasure in cruelty.
 
-**Motivations:** Survive the house she was born into. Understand what Lathander actually wants from her (versus what she thinks he wants). Prevent Aletra from finishing whatever she started. Her theology is genuine if unorthodox: she believes pain is the honest mode of divine contact.
+**Motivations:** Survive the house she was born into. Understand what Lathander actually wants from her (versus what she thinks he wants) — now urgent, given the eyes. Prevent Aletra from finishing whatever she started. Her theology is genuine if unorthodox: she believes pain is the honest mode of divine contact.
 
 **Notable relationships:**
 - *Vukradin* — musical collaborator; she secretly guards his survival (healing potion hidden in his pack)
 - *Brewbarry* — combat partner; she has trained him in interrogation and tactics
 - *Soma* — ally; dynamics are complex around combat tactics and efficiency
 - *Aletra (sister)* — enemy; Valphine blinded her with a curse (ch28); Aletra escaped with the poison cache
-- *Sister Kaella* — secret intelligence arrangement; "gone to the wind"
-- *Prutha (orc convert)* — first convert; Valphine has taken him as a student/follower
+- *Sister Kaella* — secret intelligence arrangement; "gone to the wind." **Ser Kaelen reported no success locating her (ch46).**
+- *Prutha (orc convert)* — first convert; **departed the party at Icespire Hold in ch46** to convert Vorga's tribe, unsupervised. The DM flagged it twice: *"That will have consequences."*
+- *Brother Aldric Sunmantle* — **the Neverwinter High Priest who received her conversion ~4 months ago.** She privately considers him a fool with "soft, squishy ways" whose rituals she learned while only feigning devotion, and may use the visit to tell him so — or to convert him.
 - *Grundar Quartzvein* — patient, dangerous enemy; plans revenge against House Sotorra and Valphine specifically
 - *Matron Sotorra* — still plans to deliver Valphine as an offering to Lolth
 
@@ -108,8 +150,18 @@
 - Dust of Disappearance — hidden in a hollowed-out book of Elvish Idioms
 - Midnight Tears Poison — 4 vials
 - Malachite gem, platinum coin
-- Holy Symbol of Lathander (half-range during one specific magical event, currently active)
+- Holy Symbol of Lathander
 - Choralum Lux Maleficarum — personal hybrid singing style (Lathandrian/Lolthian)
+- **50 gp from Lord Cassian (ch47)**
+
+**Ch46–47 developments:**
+- Read Linene's sincerity about Brewbarry's venture (**Insight 19**), confirming both her commitment and that the supply-chain problem genuinely worries her.
+- Boasted of the destroyed Talosians on returning to Phandalin; Vukradin coached her toward a softer public spin (*"We gotta work on your spin"*).
+- Spotted Cullen Sharpe's forged Harbor Authority writ (**Perception 16**), alongside Vukradin's natural 20.
+- Saw through the Moonstone Mask crowd's polite applause — patrons over-intellectualizing the missed notes or hiding distaste to avoid looking gauche.
+- **Engineered the private-tea invitation** that got Lord Cassian off the Moonstone Mask floor, recognizing it was no place for a private conversation.
+- Announced her intent to take the dawn service at the Spire on her own terms: *"We're just gonna bust in through the door, and then take the service."*
+- Instructed Aldus to make sure his daughter knows about the dawn performance.
 
 **Candidate Arc Score Events — Searing Dawn Score (0–30)**
 
@@ -120,7 +172,11 @@
   (trigger: "actively inflicts 'purifying pain' to solve a problem")
 
 - [Ch 45]: Performed a Zone of Truth session to extract confessions from party members — using divine compulsion in a quasi-religious ritual context where truth was the form of pain inflicted. → Candidate **+1 Ideological Statement**
-  (trigger: "+1 for standard ideological statements" — *Note: this is the weakest candidate; GM should judge whether a Zone of Truth session counts as an ideological statement of the Searing Dawn philosophy or is purely tactical.*)
+  (trigger: "+1 for standard ideological statements" — *Note: this is the weakest candidate.*)
+
+- [Ch 46–47] **NEW — GM verification pending**: The golden eyes. This is not a candidate *event* so much as a state change the GM may want to score or to handle outside the track entirely — an unsought escalation that reads to everyone else as divine favour and to Ser Kaelen as alarming. **Recommend the GM decide whether Searing Dawn advances on being *recognised* as blessed, or only on acts.**
+
+- [Ch 46] **NEW — GM verification pending**: Prutha and five converts left to evangelize Vorga's tribe — her methodology propagating without her. → Candidate **+3 NPC Conversion** *(second-order: the conversions are Prutha's, but the doctrine is hers.)*
 
 ---
 
@@ -129,6 +185,7 @@
 **Druid 6 (Circle of the Moon) | Tortle | Player: Wade Brown**
 
 **Stats (from sheet):** HP 51 max | AC 17 (shell natural armor) | WIS +4 (Spell Save DC 15, Attack +7) | Speed 30 ft. | Wild Shape ×3/LR (max CR 2, 18 temp HP, AC 17 floor) | Moonbeam always prepared
+*See the KNOWN GAP note at the top — `characters/soma.md` now shows Druid 7, HP 59, 21 temp HP in Wild Shape, with Fount of Moonlight and Conjure Animals always prepared. The sheet also records **Faith: Mielikki**, which appears in no other campaign document.*
 
 **Personality:** By tortle standards, Soma is old. She is patient, maternal, dry-witted, and instinctively protective of those she travels with — she calls them "shell-sprouts." She spent most of her life doing the bare minimum: foraging, fishing, tending her cabin. Meril arrived late, recognized something in her, and left before she could ask why. She has committed to the druid path despite knowing she started too late, because the alternative is passivity — and she has learned that passivity lets bad things fester.
 
@@ -139,25 +196,36 @@
 - *Adabra Gwynn* — ideological adversary; not personal but deep
 - *Lyra* — Enclave ally; Soma's vindication at the Druid Council was partly Lyra's restoration
 - *Xanthopoulos (Xanth)* — centaur friend; reveres Meril; departed ch40
-- *Vukradin* — she respects his ethics even when she finds his idealism impractical
+- *Vukradin* — she respects his ethics even when she finds his idealism impractical, and supplies the campaign's dry structural commentary on them
 
 **Items of significance:**
-- Meril's Staff — carried since Meril's departure; leaf count is uncertain (facts conflict: "one leaf left" in ch39, "three leaves" in ch40, "new leaf" in ch42); the staff responds to campaign events
-- Staff of Bird Calls — retrieved from the Woodland Manse fireplace, hidden in her fur during bear form (ch45), confessed under Zone of Truth; now openly held
+- Meril's Staff — carried since Meril's departure; leaf count is uncertain (facts conflict: "one leaf left" in ch39, "three leaves" in ch40, "new leaf" in ch42); the staff responds to campaign events. **NOTE: the staff GAINS leaves as Soma accepts her role — never narrate as depletion.**
+- Staff of Bird Calls — retrieved from the Woodland Manse fireplace, hidden in her fur during bear form (ch45), confessed under Zone of Truth; now openly held. Considered and rejected as barter for the dragon scale mail in ch46.
+- Cryovain breath pouch
+- **50 gp from Lord Cassian (ch47)**
+
+**Ch46–47 developments:**
+- Declared an **honorary citizen of Phandalin** so she could qualify for UBT — after Harbin awkwardly questioned whether a Tortle had ties to the community.
+- **Detected a planar anomaly around the fused dragon slag** via Meril's Staff and explicitly linked it to *"that stag"* and *"those weird gnome things"* — the party's clearest independent read that the planar thread and the gnome thread are the same thread.
+- On the UBT fund and children: they'll never have to work a day in their lives *"as long as adventurers come."*
+- Told Jenna Roscoe on her way out: *"Don't let the door hit you on the way out."*
+- Styled **"Soma, the protector of the Glades"** in Neverwinter.
+- On the studio's restricted trust: *"Of course, it frees up other funds, in which case it really isn't so earmarked now, is it?"*
+- On the Moonstone Mask crowd: *"You have to listen to the notes they weren't playing."*
+- On the tortle-chef tavern: *"It's like Girl Scout cookies aren't made of Girl Scouts, come on."*
 
 **Candidate Arc Score Events — Meril's Legacy Score (0–30)**
 
 - [Ch 43]: Used Moonbeam to definitively kill Gorthok the Thunder Boar — an avatar of Talos and an active instrument of a motivated supernatural corruption. Gorthok had already been felled once by Giant Elk form and risen again; Moonbeam was the definitive counter. → Candidate **+3 Active Intervention**
-  (trigger: "When Soma actively sabotages or destroys an immediate threat to the planar order—such as destroying an Abolethic/Kraken psionic node, closing a minor planar tear, or refusing to let an aberration retreat")
 
 - [Ch 40–41]: Prevented the Circle of Thunder Talosian ritual from completing by destroying the anchorites before they finished the summoning. → Candidate **+3 Active Intervention**
-  (trigger: "When Soma actively sabotages or destroys an immediate threat to the planar order")
 
-- [Ch 38]: Vindicated at the Druid Council; Adabra's "everything is natural" thesis explicitly rejected by the assembled druids. Soma was the direct subject of the interventionist case. → Candidate **+2 Subtle Discernment**
-  (trigger: "When Soma correctly identifies a threat as a *motivated* blight rather than a natural occurrence... actively rejecting Adabra's philosophy")
+- [Ch 38]: Vindicated at the Druid Council; Adabra's "everything is natural" thesis explicitly rejected by the assembled druids. → Candidate **+2 Subtle Discernment**
 
-- [Ch 40–45 generally]: Repeatedly functioned as the stabilizing "mother" of the party — de-escalating tensions, keeping Brewbarry focused, maintaining group cohesion during difficult decisions. → Candidate **+1 The Maternal Anchor** (recurring; GM should evaluate which specific moments rise to the level of a qualifying trigger)
-  (trigger: "When Soma successfully uses her calming, matronly influence to de-escalate Vukradin's manic idealism, Brewbarry's rage, or Valphine's sadism, acting as the stabilizing root for her 'bale'")
+- [Ch 40–45 generally]: Repeatedly functioned as the stabilizing "mother" of the party. → Candidate **+1 The Maternal Anchor** (recurring; GM should evaluate which specific moments qualify)
+
+- [Ch 46] **NEW — GM verification pending**: Identified the dragon slag's planar anomaly as a *motivated* signature rather than residual dragon magic, and connected it across incidents to the stag and the gnome-things — correctly reading a pattern nobody else in the party could see. → Candidate **+2 Subtle Discernment**
+  (trigger: "When Soma correctly identifies a threat as a *motivated* blight rather than a natural occurrence")
 
 ---
 
@@ -167,29 +235,45 @@
 
 *Note: Early session facts reference "the drow" for Vukradin (ch02); the definitive identification is Aasimar (ch05, ch44). The character sheet confirms Aasimar.*
 
-**Stats (from sheet):** HP — (not on sheet; verify with player) | Spell Save DC 15, Attack +7 | CHA primary | Bardic Inspiration ×4/SR | Universal Speech 1/LR | Font of Inspiration (regain on Short Rest); Unfailing Inspiration; Celestial Resistance (Necrotic, Radiant)
+**Stats (from sheet):** HP — (not on sheet; verify with player) | Spell Save DC 15, Attack +7 | CHA primary | Bardic Inspiration ×4/SR | Universal Speech 1/LR | Font of Inspiration; Unfailing Inspiration; Celestial Resistance (Necrotic, Radiant)
+*See the KNOWN GAP note at the top — `characters/vukradin.md` now shows Bard 7, HP 45, AC 14, with 4th-level slots (Polymorph, Dimension Door, Greater Invisibility). Silence and Hold Person are **not** on the current sheet.*
 
-**Personality:** Vukradin is a naive optimist who genuinely sees no tension between his goals. He wants a music studio funded by clean money, he wants to help people, and he expects the world to reward virtue with virtue in return. Dave provides sharp meta-commentary: Vukradin's worldview is not naivety — it is an ideology. He holds his positions firmly precisely when they create friction. He is currently disillusioned that "honest" gold feels hollow even when he gets it.
+**Personality:** Vukradin is a naive optimist who genuinely sees no tension between his goals. He wants a music studio funded by clean money, he wants to help people, and he expects the world to reward virtue with virtue in return. Dave provides sharp meta-commentary: Vukradin's worldview is not naivety — it is an ideology. He holds his positions firmly precisely when they create friction.
 
-**Motivations:** Open a music studio in Phandalin, funded without blood or theft. Return every item to its rightful owner. He genuinely loves Brewbarry. He distrusts Ser Kaelen, Jenna Roscoe, and anyone who tries to manage him. He carries the Cryovain hoard (~3,000 gp) and refuses to claim a copper of it — stolen wealth belongs to the people it was stolen from — the studio is still not built.
+**UNIVERSAL BASIC TREASURE (ch46) — his personal ethic escalated into public policy.** After failing to intimidate Harbin Wester into calling a town meeting (rolled 10 — *"your intimidation lands as flatly as your sweet tongue would have landed well"*), he staged a concert on the town green and declared that monster-hoarded treasure belongs to the people it was taken from: *"That treasure came from you. That is your treasure. It was stolen from you. … I want to give it back to you."* The crowd carried it. Harbin claimed credit instantly and led *"Huzzah, huzzah, huzzah!"* Linene Graywind produced a Candlekeep text — "the Sage's Universal Theorem for Income Distribution" — and took a drafting subcommittee under Vukradin's supervision. Brewbarry and Soma were made honorary citizens to qualify. The party negotiated a 5% "organic fair trade" cut back to themselves, tax-free. **This was done without Lord Neverember's blessing, and he has noticed.**
+
+**Motivations:** Open a music studio funded without blood or theft. Return every item to its rightful owner. He genuinely loves Brewbarry. He distrusts Ser Kaelen, Jenna Roscoe, and anyone who tries to manage him.
 
 **Notable relationships:**
 - *Brewbarry* — closest companion; Vukradin genuinely loves him (ch39, ch45)
-- *Valphine* — musical collaborator; she has more tactical shrewdness than he acknowledges
+- *Valphine* — musical collaborator; more tactically shrewd than he acknowledges
 - *Soma* — respected; he appreciates her groundedness
 - *Falcon* — reconciled; Falcon's apology accepted ("You have my sword")
 - *Ser Kaelen* — Order of the Gauntlet contact; distrust is deep and warranted
-- *Jenna Roscoe* — "nasty no-good treasure hunter"; no deal reached
+- *Jenna Roscoe* — **the break came in ch46.** She lost the UBT argument, called it mob rule, and stormed out of Phandalin for Neverwinter ahead of the party. Vukradin's parting line: *"I don't know who you are, and I don't care."*
+- *Lord Cassian Meliamne* — **new (ch47).** Grateful ally; called the Order of the Gauntlet "truly one of the few heroes of the realms"
+- *Aldus* — **new (ch47).** Neverember's steward and a secret fan; the sympathetic inside channel to the Lord Protector
 - *Adabra* — returned her 6 gp; relationship strained but not broken
 
 **Items of significance:**
 - Boots of Elvenkind
-- Necklace of Fireballs (holding for rightful owner)
-- Obsidian Sword / Gem — the Carver's remnant; holding pending ownership resolution; sentience status unconfirmed
+- Necklace of Fireballs (holding for Perrin Alagondar; **GM: the claim is a forgery**)
+- Obsidian Sword / Gem — the Carver's remnant; holding pending ownership resolution
 - Unknown vial in his pack (placed by narrator ch41; he does not know it exists)
 - Superior healing potion in his pack (placed by Valphine; he does not know it exists)
 - Sending stones; Flute (instrument)
-- 29 gp on hand; studio not built; feels poor
+- **29 gp on hand** — he gave up the ~3,000 gp Cryovain hoard and still feels poor
+- **Music studio fund: 550 gp** in an earmarked restricted trust — the studio is funded for the first time, but still not built and no premises named
+
+**Ch46–47 developments:**
+- Earned the Stonehill Inn a free round with a performance for Toblen.
+- Silenced a "you sold out" fan at the Neverwinter gates by playing an old song from the vault, drawing a crowd — the local musician jamming along in awe.
+- **Refused payment for the Meliamne statue on principle** (*"this is your statue, and I'm returning it to you, because it's the right thing to do"*), baffling Lord Cassian, who then routed 50 gp to each companion and a separate 50 gp to the studio so as not to insult him.
+- Raised the studio fund to **550 gp** with a **natural 20** fundraising pitch to Neverwinter's elite.
+- Read Cullen Sharpe's writ as a forgery (**natural 20**) and **said nothing** — the party holds that knowledge unused.
+- Accused Cullen of Elara's murder to his face: *"Oh, you're the ones who slaughtered Elara."*
+- Talked a royal summons down into a proposed charitable gala (**Persuasion 22**) plus a private dinner the following evening.
+- Signed an autograph "with love" for Aldus's transparently invented daughter "Alducia."
 
 **Arc Score:** Vukradin has no formal arc score mechanic. This is intentional — do not invent one.
 
@@ -201,11 +285,11 @@
 
 Boney is Lady Alagondar's former horse, killed by will-o'-wisps at Dragon Barrow while guarding her sword, and revived at the barrow when the party retrieved the blade. He accepted the name "Boney" and the deception regarding Lady Alagondar's reincarnation without complaint. He is "unalived" — partially alive, philosophical about it, and entirely sensible. He does not tire, startle, or complain about weather.
 
-**Combat role:** Active combatant; bites paralyzed or frozen targets; makes opportunity attacks; can carry the Silence zone on his saddle (ch43). Survived a direct lightning bolt from an anchorite (ch43); chassis "stuttered" but remained functional. Carries a longsword two-handed.
+**Combat role:** Active combatant; bites paralyzed or frozen targets; makes opportunity attacks; can carry the Silence zone on his saddle (ch43). Survived a direct lightning bolt from an anchorite (ch43); chassis "stuttered" but remained functional. **Narrate his attacks as bites — "longsword" is the stat-block only, not the in-fiction weapon.**
 
-**Relationships:** Bonded with Valphine (ch33); loyal to Soma ("Boney, no!" ch43); declared an honorary tribal member by Rimardo alongside the party (ch44).
+**Relationships:** Bonded with Valphine (ch33); loyal to Soma ("Boney, no!" ch43); declared an honorary member of Rimardo's orc tribe (ch44).
 
-**Status:** Honorary member of Rimardo's orc tribe. Currently traveling with the party toward Phandalin.
+**Ch47:** Permitted to accompany the party through the streets of Neverwinter on the DM's stated grounds that "he doesn't poop." Not taken indoors. Soma's cover story: *"Boney's just a normal horse. We don't take him inside, is all."*
 
 ---
 
@@ -213,12 +297,16 @@ Boney is Lady Alagondar's former horse, killed by will-o'-wisps at Dragon Barrow
 
 **The center of gravity is Vukradin.** He sets the ethical frame — no blood money, return what isn't yours, help without calculation — and the others operate within it or in tension with it. Brewbarry follows him out of love and genuine agreement. Valphine follows him while quietly doing what she thinks is tactically necessary without asking permission (the hidden healing potion, the Dust of Disappearance). Soma follows him because their pragmatic ethics align, even if they read the same situation differently.
 
-**The Zone of Truth session (ch45) created minor micro-tensions:** Soma took the Staff of Bird Calls without telling anyone; Brewbarry stole bathrobes. Both confessed. Neither act was malicious. But Soma's secret — hiding a magic item in her fur — is the more interesting thread: she acted against Vukradin's stated principles (returning found items to rightful owners) and concealed it. Vukradin now knows. This is not a crisis, but it's a hairline crack in the assumption that Soma and Vukradin share the same ethical code.
+**The arena changed in ch46–47.** The Icespire crisis is over; what replaced it is not rest but institutions. Vukradin's private ethic became a town's constitution, and the bill came due within two chapters: Jenna Roscoe flipped hostile and briefed Neverwinter ahead of them, and the Lord Protector summoned them to ask, in effect, whether they intend to keep redistributing his kingdom's gold. **The party is no longer fighting monsters; they are negotiating with people who can ruin them on paper** — as they watched House Margaster do to Lord Cassian in front of them, with a writ they knew was forged and said nothing about.
 
-**Brewbarry's arc is about competence, not virtue.** He is not in tension with the party's ethics; he struggles to be good at what he's trying to do. The wine cellar's destruction (ch42) landed harder than it should have. The spike trap fall (ch44) was undignified. He wants to be the legend; he keeps being the cautionary tale. His Thistle's Echo evolution is already shaping his instincts — he identified voodoo bundles, he grabbed a stirge from the air — without him realizing it's a pattern.
+**Money got more complicated, not less.** The studio is funded for the first time (550 gp) — from a grieving nobleman and a room full of wealthy patrons rather than from a monster's hoard. That is a different purity problem, not a solved one, and Soma's needle stands: an earmarked trust *"frees up other funds, in which case it really isn't so earmarked now, is it?"* Meanwhile the party wrote themselves a 5% cut of the UBT fund, and the fund's only asset is a lump of magically fused gold nobody can break.
 
-**Soma killed Gorthok.** The Moonbeam is hers. She came to this campaign as a passive observer who "does the bare minimum." She has now killed the avatar of a god, prevented a ritual at a sacred henge, and won a Druid Council vote. Meril's staff is growing leaves. She has not caught up to what she's becoming.
+**The Zone of Truth session (ch45) created minor micro-tensions** that ch46 partly resurfaced: Soma took the Staff of Bird Calls without telling anyone; Brewbarry stole bathrobes. Both confessed. When the party considered bartering the Staff of Bird Calls for Brewbarry's armour in ch46, Vukradin objected that as "blood money" it now belongs to the people under Phandalin's own new rules — his ideology closing on his own party. **The question of whether the Staff counts as blood money was raised and never settled.**
 
-**Valphine's church exists.** Five orcs with "bright, dumb devotion" follow a drow cleric of Lathander who preaches that pain is holy. This is either the most dangerous thing in the campaign or the most interesting, and the GM gets to decide which. Prutha is her first real student; he survived the Zone of Truth session and stayed.
+**Brewbarry's arc is about competence, not virtue** — but ch46 reframed it. He is not in tension with the party's ethics; he struggles to be good at what he's trying to do. Now he has a business, a consultant, a letter of introduction, and an unexploited fashion movement wearing his face. His Thistle's Echo evolution is still shaping his instincts without him realizing it's a pattern, and the cheese tasting proved he has discernment nobody credited him with.
+
+**Soma killed Gorthok.** The Moonbeam is hers. She came to this campaign as a passive observer who "does the bare minimum." She has now killed the avatar of a god, prevented a ritual at a sacred henge, won a Druid Council vote, and — in ch46 — was the only person to correctly read the dragon slag's planar signature. She has not caught up to what she's becoming.
+
+**Valphine crossed a threshold.** Five orcs with "bright, dumb devotion" follow a drow cleric of Lathander who preaches that pain is holy — and as of ch46 they are no longer under her supervision, evangelizing an orc warchief's tribe at Icespire Hold with a DM warning attached. Meanwhile her eyes now glow gold, a city takes her for an avatar, and the one person qualified to tell her what that means is a priest she privately considers a fool.
 
 **Boney is the most emotionally stable member of the party.** He is dead and at peace with it.

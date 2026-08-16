@@ -1,8 +1,15 @@
 # campaign_state.md
 
-*State as of Chapter 45. Encounters listed most recent last. This document answers: what is DONE, what is CURRENT, what is OPEN.*
+*State as of Chapter 48. Encounters listed most recent last. This document answers: what is DONE, what is CURRENT, what is OPEN.*
 
-> **Hand-correction (2026-08-07) — Cryovain hoard.** The frozen dragon treasure was recorded as sitting *at* Icespire Hold. It is not: the party carries it. GM ruling — Vukradin **took** the hoard; he refuses to **claim** it. Corrected in Active Quests, Active Obligations, and Key Resources (where it had been omitted entirely). Re-apply after any regeneration — see `notes/corrections/cryovain_hoard_disposition.md`.
+> **HAND-EDITED 2026-08-15.** Chapter 48 (2026-08-11) was folded in by hand from
+> `summaries/20260811/session-summary.md` after a `/staged-consistency` run — see
+> `summaries/20260811/consistency_stage1_summary.sources.yaml`. **Re-running the
+> CampaignGenerator pipeline will discard these edits.** The ch48 folding was done
+> specifically to stop two false-positive classes recurring on every consistency check:
+> the "Immediate Schedule" block below, and Brewbarry's bathrobe status in `world_state.md`.
+
+> **HAND-EDITED 2026-08-13.** The CampaignGenerator pipeline last generated this file at ch45. Chapters 46 (2026-06-23) and 47 (2026-07-29) were folded in by hand from `summaries/20260623/session-summary.md` and `summaries/20260729/session-summary.md`. **Re-running `campaign_state.py` will discard these edits** — re-apply from those two summaries, or regenerate only after the pipeline has ingested them.
 
 ---
 
@@ -88,6 +95,19 @@
 - **Brewbarry — Spike Trap Fall (ch44):** Fell through collapsed Manse staircase onto spike trap during scouting (14 damage). Recovered; drank the Manse's last surviving bottle of wine.
 - **Woodland Manse — Cleared (ch45):** All Talosians killed (Valphine's Doom Sphere the decisive instrument). Staircase already destroyed; upper floor accessed via ceiling hole. Copper rods, lightning bolt symbols, prayer parchments still present but ritual concluded. Zone of Truth session held: Soma confessed Staff of Bird Calls acquisition (taken from fireplace, hidden in bear-form fur); Brewbarry confessed stolen bathrobes/slippers and returned his. Boots of Elvenkind recovered. Staff of Bird Calls now with Soma.
 - **Woodland Manse Quest — Complete (ch45):** Evil eradicated as per Falcon's commission.
+- **Vorga Escort — Complete (ch46):** Vorga and her orc tribe delivered to Icespire Hold, now their permanent base. Vukradin's ch45 escort obligation closed.
+- **Prutha's Departure (ch46):** Prutha and his five orc converts parted from the party at Icespire Hold to begin a missionary campaign converting Vorga's tribe to Valphine's Lathanderite faith. DM flagged explicitly: "That will have consequences."
+- **Return to Phandalin (ch46):** Muted hero's welcome — the party's deeds are now "yesterday's news." Vukradin earned the house a free round at the Stonehill Inn with a performance for Toblen.
+- **Universal Basic Treasure (UBT) Proclaimed (ch46):** Vukradin failed to intimidate Harbin Wester into calling a town meeting (rolled 10), so he staged a concert on the town green and declared that monster-hoarded treasure belongs to the people who lost it. The crowd carried it. Harbin immediately claimed credit and led "Huzzah, huzzah, huzzah!" cheers. Linene Graywind produced a Candlekeep text ("the Sage's Universal Theorem for Income Distribution") and took a subcommittee, under Vukradin's supervision, to draft the distribution rules within a week or two. Brewbarry and Soma were declared honorary citizens of Phandalin so they would qualify. The party negotiated a 5% "organic fair trade" cut routed back to themselves, tax-free.
+- **Jenna Roscoe Storms Out of Phandalin (ch46):** Appalled by what she called mob rule, she left town and rode for Neverwinter ahead of the party — a head start to brief Lord's Alliance contacts before the party arrived. Her disposition toward the party has significantly worsened.
+- **Cheese and Wine Tasting at Qelline Alderleaf's (ch46):** Multi-hour tasting. Brewbarry set aside the dried-out varieties and selected a creamy blue cheese with genuine discernment, startling the room. A round was set aside for Zeleen Varnaster; Brin and Giles to collect the cheese later.
+- **Brewbarry's Bathrobe Venture Launched (ch46):** Brewbarry committed to a bathrobe factory as atonement for generations of Uthgardt violence — "My kind has been spreading violence and pain throughout the land for generations. I think I need to turn that around and bring softness to people." Phandalin cotton, blessed by Lathander's priests, Lathander's logo, Vukradin's studio cross-promotion, 5% discount for buyers of Vukradin's album ("Black Cylinder"). Linene Graywind agreed to act as his wealth management consultant and wrote him a letter of introduction to the Counting House in Neverwinter; her sincerity confirmed by Valphine's Insight (19).
+- **Journey to Neverwinter (ch46):** Mountain's Toe Mine stop bypassed. Side-stops at Falcon's Lodge, Dragon Barrow, and Logger's Camp considered and dismissed. Party admitted at the gates against a writ sent ahead from Phandalin. Vukradin silenced a "you sold out" fan by performing an old song from the vault at the gates, drawing a crowd.
+- **Dragon Scale Mail Commissioned (ch46):** The Proprietor — a Morning Lord devotee running a high-end exotic-materials armorer in the Protector's Enclave — recognized Valphine on sight as "the drow Brother Aldric speaks of" and cut his 1,675 gp quote to 300 gp in exchange for a blessing on himself and his family. Scale mail for Brewbarry with Lathander's emblem on the back. **To be collected before the party leaves the city.**
+- **Meliamne Statue Returned (ch47):** The mermaid statue — a House Meliamne heirloom the party recovered from the shipwrecks near the Tower of Storms roughly a year ago (Soma did the diving) — was returned to Lord Cassian Meliamne at the Moonstone Mask. Vukradin refused payment on principle. Cassian gave 50 gp to each of Vukradin's three companions (150 gp total) and made a separate 50 gp donation to the music studio so as not to insult the bard.
+- **Moonstone Mask Performance and Fundraiser (ch47):** Performance rolls were poor; the room was too self-conscious to admit it, and Brewbarry stood and scanned the house for anyone not applauding. Vukradin followed with a natural-20 Persuasion fundraising pitch. **Music studio fund now stands at 550 gp**, held in an earmarked restricted trust. Open invitation extended to the crowd for a dawn performance and sermon at the Spire of the Morninglord.
+- **Margaster Shakedown at the Moonstone Mask (ch47):** Cullen Sharpe presented a Harbor Authority writ claiming prior salvage rights on the statue. The party identified it as a racket (Valphine Perception 16; Vukradin natural 20). Lord Cassian paid a 200 gp bribe anyway and took possession of the writ, insisting afterward that he was not swindled — "This is exactly how things happen here."
+- **Summons from the Lord Protector (ch47):** Aldus, Neverember's steward, delivered a formal summons naming the party by honorific ("Valphine of the Blessed," "Soma, the protector of the Glades"). Vukradin deflected the morning meeting (Persuasion 22) into a proposed charitable gala benefiting the music studio; Aldus agreed to champion it and arranged a **private dinner with Lord Dagult Neverember the following evening**. Autograph produced for Aldus's transparently invented daughter "Alducia." *(Historical record of what was arranged in ch47. The date subsequently slid — ch48 came and went without it. See "Neverwinter — Immediate Schedule (updated end of ch48)"; the dinner is still upcoming with no fixed date.)*
 
 ---
 
@@ -110,6 +130,10 @@
 - **Circle of Thunder henge:** Neutralized. Anchorites Flenz and Narux dead; ritual stopped.
 - **Gorthok the Thunder Boar:** DEAD. Killed by Soma's Moonbeam at Falcon's Lodge (ch43).
 - **Woodland Manse — Talosian cult cell:** Cleared (ch45). Anchorites dead, Gorthok already dead, ritual site inert.
+- **Vorga escort obligation:** COMPLETE (ch46). Tribe installed at Icespire Hold as their new base.
+- **Mermaid / Meliamne statue delivery:** COMPLETE (ch47). Returned to Lord Cassian Meliamne; the party's oldest outstanding obligation is closed. House Margaster's counter-claim was settled by Cassian's 200 gp bribe, not by the party — the writ now sits in Cassian's hands and the forgery was never challenged.
+- **Shrine of Savras:** ABANDONED by explicit party decision (ch46) — they chose Neverwinter and dropped the quest. Not cleared. **GM flag:** `planning.md` still lists this as Active Plot #2 with a queued Rimardo/Corrin playbill drop. That payoff now has no delivery vector unless the party is re-routed there.
+- **Vukradin's music studio funding:** No longer purely aspirational — a real fund exists (550 gp, earmarked restricted trust) as of ch47. The studio itself is still not built.
 
 ---
 
@@ -117,33 +141,40 @@
 
 | NPC | Status | Last Known Location | Disposition toward Party |
 |-----|--------|---------------------|--------------------------|
-| Vukradin (PC) | Alive | Approaching Phandalin | Self |
-| Soma (PC) | Alive | En route Phandalin / Neverwinter | Self |
-| Valphine Sotorra (PC) | Alive | Woodland Manse area / returning | Self |
-| Brewbarry (PC) | Alive | Woodland Manse ground floor / returning | Self |
-| Boney (skeletal horse) | Alive (undead) | With party | Loyal companion |
-| Prutha (orc Lathandrite) | Alive | With party at Woodland Manse | Loyal (Valphine's follower) |
-| Falcon the Hunter | Alive | En route to his lodge | Fully reconciled ally |
-| Harbin Wester | Alive | Phandalin (Townmaster's Hall) | Cooperative/self-serving; publicly crediting party |
-| Ser Kaelen Thorne | Alive | Phandalin | Cooperative; party ambivalent about trust |
-| Toblen Stonehill ("Spiderman") | Alive | Stonehill Inn, Phandalin | Friendly |
-| Linene Graywind | Alive | Lionshield Coster, Phandalin | Friendly; interdimensional supply chain disrupted |
+| Vukradin (PC) | Alive | Neverwinter — Moonstone Mask / Protector's Enclave | Self |
+| Soma (PC) | Alive | Neverwinter — with party | Self |
+| Valphine Sotorra (PC) | Alive | Neverwinter — with party; **eyes now glow gold** | Self |
+| Brewbarry (PC) | Alive | Neverwinter — with party | Self |
+| Boney (skeletal horse) | Alive (undead) | Neverwinter streets with party (permitted — "he doesn't poop"); not taken indoors | Loyal companion |
+| Prutha (orc Lathandrite) | Alive | Icespire Hold — **departed party ch46** | Loyal but absent; on missionary crusade among Vorga's orcs. DM: "That will have consequences." |
+| Falcon the Hunter | Alive | His lodge | Fully reconciled ally |
+| Harbin Wester | Alive | Phandalin (Townmaster's Hall) | Cooperative/self-serving; publicly claimed credit for UBT (ch46) |
+| Ser Kaelen Thorne | Alive | Phandalin | Cooperative; frustrated by the party's delays; tasked with extracting the fused dragon slag for the UBT fund; found no trace of Sister Kaella |
+| Toblen Stonehill ("Spiderman") | Alive | Stonehill Inn, Phandalin | Friendly (son Tuck and barmaid Elsa also present, ch46) |
+| Linene Graywind | Alive | Lionshield Coster, Phandalin | **Strong ally.** UBT subcommittee chair; Brewbarry's wealth management consultant; asked party to investigate the Coster supply-chain failure in Neverwinter |
 | Elmar Barthen | Alive | Barthen's Provisions, Phandalin | Friendly |
 | Halia Thornton | Alive | Phandalin Miner's Exchange | Neutral |
+| Qelline Alderleaf | Alive | Phandalin | Friendly; hosted the ch46 cheese-and-wine tasting; grazes Petunia |
 | Adabra Gwynn | Alive | Unknown — departed Druid Council ch38 | Hostile; politically defeated but "far from done" |
-| Sister Kaella | Alive (presumed) | Unknown — "gone to the wind" | Unknown; former Carver spymaster who worked both sides |
-| Jenna Roscoe | Alive | Unknown (Lord's Alliance, Neverwinter) | Neutral; no deal reached |
+| Sister Kaella | Alive (presumed) | Unknown — "gone to the wind"; Ser Kaelen's search has failed (ch46) | Unknown; former Carver spymaster who worked both sides |
+| Jenna Roscoe | Alive | Neverwinter — **arrived ahead of the party (ch46)** | **Hostile.** Stormed out of Phandalin over UBT; had a head start to brief Lord's Alliance contacts before the party arrived |
 | Xanthopoulos (centaur) | Alive | Unknown — departed ch40 | Friendly |
 | Rimardo | Unknown — vanished | Vanished from Falcon's Lodge ch44 | Cryptic; made promise to Vukradin |
 | Corrin | Unknown — vanished | Vanished with Rimardo ch44 | Cryptic |
 | Aletra Sotorra | Alive (at large) | Unknown — escaped through portal ch28 | Hostile (Valphine's sister; has poison cache) |
-| Zeleen Varnaster | Alive | Mountain's Toe Gold Mine | Uneasy ally; deceptive; killed Don-Jon |
+| Zeleen Varnaster | Alive | Mountain's Toe Gold Mine | Uneasy ally; deceptive; killed Don-Jon. Not visited since ch45 |
 | Horia Stonetallow | Alive | Mountain's Toe Gold Mine | Cautiously cooperative; holds secret addendum |
 | Dwolin the Grout | Alive | Mountain's Toe Gold Mine | Cooperative |
-| Jenna Roscoe | Alive | Lord's Alliance / Neverwinter | Neutral; no deal reached |
 | Lyra (Emerald Enclave) | Alive | Phandalin area / Enclave | Restored to good standing; cautiously allied |
-| Elara Meliamne | **Dead** | Neverwinter (killed by House Margaster, 8 days before party arrival, ch46) | — |
-| Lord Cassian Meliamne | Alive | Neverwinter | Elara's cousin; carries her anti-Margaster case; active contact for mermaid statue and necklace provenance |
+| Elara "Seasong" Meliamne | **Dead** | Neverwinter — killed by House Margaster 8 days before the party's arrival; party learned of it ch47 | Officially ruled "a tragic accident" by Lord Neverember. Beyond resurrection. Was investigating the Planar Manifold when she died |
+| Lord Cassian Meliamne | Alive | Neverwinter — Moonstone Mask; private residence pending | **Grateful ally.** Elara's brother (see conflict note below). Names House Margaster as her killers. Asked the party to link the Manifold failure to her death. Easily intimidated by Margaster |
+| Lord Dagult Neverember | Alive | Neverwinter — Castle Never | **Unknown/wary.** Lord Protector; summoned the party over their "circulation of wealth" and the unauthorised rearrangement of Phandalin's government. Private dinner pending |
+| Aldus | Alive | Neverwinter — Neverember's household | **Friendly.** Neverember's steward and a secret Vukradin fan; championing the charitable-gala proposal |
+| Cullen Sharpe | Alive | Neverwinter | **Hostile (transactional).** House Margaster associate; ran the writ shakedown; pitched the party a "regional distribution" partnership for goods from the Phandalin hinterlands |
+| Brother Aldric Sunmantle | Alive | Spire of the Morninglord, Neverwinter | Unknown — High Priest who received Valphine's conversion ~4 months ago and has spoken of her since. Ser Kaelen sent her to him about the golden eyes. Valphine privately regards him as a fool |
+| Perrin Alagondar | Alive | Neverwinter (not yet met) | Unknown. Claims the Necklace of Fireballs as an Alagondar dynastic treasure. **GM: provenance is a Margaster-routed forgery** |
+| The Proprietor (exotic armorer) | Alive | Protector's Enclave, Neverwinter | Reverent (toward Valphine). Crafting Brewbarry's dragon scale mail for 300 gp |
+| Moonstone Mask staff member | Alive | Moonstone Mask, Neverwinter | Friendly; delivered the news of Elara's death and the competing rumors |
 | Dazlyn Grayshard | Alive | Ancient dwarven ruins SW of Phandalin | Friendly/grateful |
 | Norbus Ironrune | Alive | Ancient dwarven ruins SW of Phandalin | Friendly/grateful |
 | Brin Bundlewine | Alive | Temple of Lathander, Phandalin | Devoted ally of Valphine |
@@ -173,12 +204,97 @@
 | Miraal (banshee) | Laid to rest | Tower of Storms | — |
 | Moesko | **Dead** | Tower of Storms | — |
 
+**Unresolved source conflict — Cassian's relationship to Elara.** The ch47 summary calls him her *brother* throughout (narration, the staff member's "her brother," and the NPC entry), but one of Cassian's own quoted lines is "My cousin told me someone was bringing it," and the ch46 GM note called him her cousin. The table above uses **brother** (ch47 is the later and more consistent source). GM should settle this at the table before Cassian appears again.
+
 ---
 
 ## Active Quests & Open Threads
 
-**Neverwinter — Pending Objectives (next destination)**
-Multiple outstanding tasks: return stolen goods; locate Elara Meliamne (statue return before House Margaster acts); resolve the Crown claim on the frozen dragon treasure taken from Icespire Hold (the party carries it); find an expert to extract the gold from its planar containment; locate mermaid's next of kin; meet bards. Party plans mine stop en route to collect money.
+**Neverwinter — Immediate Schedule (updated end of ch48)**
+
+> **THE SCHEDULE HAS SLID — do not re-flag ch48 as "missing" the dawn service or the dinner.**
+> Ch48 ran a full day (morning Counting House → evening Eastern Quay) *without* the dawn
+> service or the Neverember dinner happening. That is not an omission in the recap; the
+> table deferred both on screen. Evidence: ch48 tape l.2407 *"That's at dawn of whatever the
+> next appropriate day is"*, l.4647 *"Haven't we been invited by Lord Neverwinter to have
+> dinner?"*, l.5671 *"We're gonna meet at the Church of Lathander after the sermon."*
+> Neither has a fixed date any more; both are simply **upcoming**.
+
+**DONE (ch48):**
+- ~~**The Counting House.**~~ **COMPLETE.** Brewbarry presented Linene's letter; banker **Aurelan Vance** signed the loan for the bathrobe business with **Linene Graywind** as shipping agent. Vukradin collected a Neverwinter Commission letter of credit worth **200 gp** — a Mountain's Toe dividend. Aurelan promised to make inquiries into House Margaster **by the next day**.
+
+**STILL OPEN, no fixed date:**
+1. **Performance and sermon at the Spire of the Morninglord.** Now consistently called the **benefit concert**; the party will announce the band name **Lathander's Death** there. Valphine is also meant to consult Brother Aldric Sunmantle about her golden eyes (Ser Kaelen's instruction, ch46). Cullen Sharpe has accepted an invitation as House Margaster's representative.
+2. **Private dinner with Lord Dagult Neverember.** Arranged by Aldus. Vukradin's pitch: a charitable gala benefiting the music studio. Neverember's agenda: the party's "circulation of wealth," the Candlekeep Report, and Phandalin's rearranged government.
+3. **Private tea at Lord Cassian's residence.** Arranged by Valphine. Cassian will speak more freely about Margaster and the Manifold there.
+
+**NEW commitments booked in ch48:**
+4. **Perrin Alagondar's three witnesses, at the Spire, after the concert.** The party will surrender the Necklace of Fireballs only if Perrin produces **three independent witnesses not affiliated with House Margaster**. Valphine chose the venue deliberately: *"I definitely want to see him set foot within the temple."*
+5. **Cullen Sharpe to name the gnome — "the following day."** He admitted a gnome was hired to "fix, or was it improve" the displacement manifold, and that it failed after that tinkering. **GM-side, do not leak to the party:** Dave (Vukradin's player) said out of character *"I have a feeling I know who the gnome is"* — **that is player knowledge only. Vukradin does not know who KP is.** The party knows KP exists but does not know he is a gnome, and has connected nothing to the manifold sabotage.
+6. **Collect Brewbarry's dragon scale mail** (Lathander emblem, 300 gp) from the Protector's Enclave armorer before leaving the city. Still uncollected as of end of ch48 — he acquired elven chainmail from Valphine instead.
+
+**The Planar Manifold and the Missing Gnome (New — Critical)**
+The "displacement manifold," an interplanar shipping device at the Neverwinter docks operated commercially by **the Commission**, went dark roughly seven weeks ago. Its primary client was the Lionshield Coster — this is the same disruption Linene flagged in Phandalin (ch46). Elara Meliamne was investigating the failure when she was killed and believed the timing was not coincidental. Its regular technician was **an unnamed gnome** — "smaller, older, very precise, the kind of person who asks questions that go past the job… more interested in *why* the planar routing worked than whether it was functioning, like he was mapping something." Elara met him twice at the docks, found him unsettling, and wrote it down. He has not been seen since the manifold stopped. Lord Cassian asked the party to find the connection between the shipping failure and his sister's death, while warning that "when it comes to the Commission, one should keep one's distance."
+**GM:** this is the KP-shaped hook — see `docs/KP.md` and the Bimble Nackle irony trap in `planning.md`. Players will assume the gnome is KP.
+
+**Elara Meliamne's Murder (New — Active)**
+Killed eight days before the party arrived, at a festival she had invited them to, in an incident described as "a catastrophic, catastrophic, spectacular and bloody disaster." Rumors run three ways: a love affair gone wrong, a raid, or a magical accident. **Lord Neverember has officially declared it a tragic accident and instructed the city to mourn and move on.** Cassian names House Margaster flatly. Her death was severe enough to be beyond resurrection.
+
+**House Margaster in Neverwinter (New — Active)**
+Cullen Sharpe ran a forged-writ shakedown in front of the party and walked away 200 gp richer, having extracted it from a grieving man who then insisted he had not been swindled. Margaster's stated business line: "considerable expertise in regional distribution since the unfortunate disruption at the docks" — i.e. they are profiting from the Manifold's failure. Cullen pitched the party on handling goods recovered in the Phandalin hinterlands, and hinted at "an opportunity in the city." The party listened politely and committed to nothing. **The forgery was identified but never challenged** — the party holds that knowledge unused.
+
+**Necklace of Fireballs — the Alagondar Claim (Setup, not yet executed)**
+Ser Kaelen's recovery office matched the necklace to the Alagondar family, whose ancestor's grave goods were robbed a generation ago; the named claimant is **Perrin Alagondar**. The party intends to hand it over. **GM (not known to party):** the provenance match was routed through a Margaster-connected source and is forged. Perrin is a sincere Nasher / Son of Alagondar loyalist who wants the necklace as a restoration banner; the real beneficiary is House Margaster, who want seven beads of Fireball as a portable arson arsenal. Ser Kaelen located him in good faith and does not know. Exposing this forgery is also the lever that would strengthen Cassian's case against Margaster. See `notes/session_prep/20260623_necklace-of-fireballs-neverwinter.md`.
+
+**Universal Basic Treasure — Phandalin Governance (New — Active, offstage)**
+UBT was proclaimed and cheered but not yet implemented. Outstanding: Linene's subcommittee has a week or two to draft distribution rules; eligibility criteria (residency, property, Zone of Truth attestation) were debated but not settled; the party's 5% "organic fair trade" cut is negotiated but untested; Ser Kaelen still has to extract the fused dragon slag before anything can be paid out. **The party changed Phandalin's government without Neverember's blessing and he has noticed.**
+
+**The Dragon Treasure Slag (New — Blocked)**
+~3,000 gp of Cryovain's hoard fused into a single mass inside a magical containment. Donated to the UBT fund; cannot be distributed until the fusion is resolved. Dispel Magic and Remove Curse were both considered and rejected — Soma detected a **planar anomaly** around it via Meril's Staff and explicitly linked it to "that stag" and "those weird gnome things." Needs an expert in Neverwinter. Ser Kaelen holds it.
+
+**Lord's Alliance Territorial Claim (New — Watch)**
+A Lord's Alliance broadsheet in the Protector's Enclave, fronted by Orsik, Defender of Parnast, carries a jurisdiction map with a dotted line extending over Neverwinter Wood, **Leilon, and Phandalin**. Combined with the plaque crediting the Alliance for "liberating the Ordning" and Jenna Roscoe's head start into the city, the Alliance is positioning to absorb the party's home town.
+
+**Valphine's Golden Eyes (New)**
+Valphine has "crossed a threshold" — her eyes now glow gold and strangers take her for an avatar of Lathander. Ser Kaelen was visibly *concerned* that a drow Lathanderite could be so blessed and sent her to Brother Aldric Sunmantle. The Neverwinter armorer treated her as a living vindication of embracing the drow, which Vukradin immediately read as a setup for disaster. Her formal epithet in the city is "Valphine of the Blessed" — the "Searing" has not caught on.
+- **Ch48 — a lie-detection ability granted at the table, recorded nowhere else.** The GM: *"Valphine, I think you have a special ability now related to your character, where you can detect lies or cause people who are lying."* Used against Cullen Sharpe at the Eastern Quay. It appears on **no character sheet and in no other document**, and the mechanics were never stated. Plausibly the golden-eyes threshold made concrete. **Settle the mechanics before it is needed again.** *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
+
+**Brewbarry's Bathrobe Business (New — Active)**
+Genuine redemption arc, not a joke thread: atonement for generations of Uthgardt violence by "bringing softness to people." Linene is consultant; the Counting House is the next step. Brewbarry's Uthgardtian look has independently become a street fashion in Neverwinter, which is unexploited commercial leverage.
+
+**Prutha's Crusade (New — Ominous)**
+Prutha and five orc converts left the party at Icespire Hold to convert Vorga's tribe to Valphine's Lathanderite faith. The DM flagged this twice and explicitly: **"That will have consequences."** No governance structure, no supervision, an unsupervised zealot who "takes everything entirely," and an orc warchief's tribe as the congregation.
+
+**The Party Has No Name**
+Raised in Phandalin (ch46) and again by Cullen Sharpe (ch47); unresolved both times. "Lathander Death Chant" was ruled a genre, not a name. Brewbarry: "We need a marketing consultant, I think."
+
+**Terms Authored In Narration, Not At The Table (ch48 stage 3)**
+The ch48 de-anachronization pass replaced real-world jokes in the transcript with in-world equivalents at GM instruction. These are now in the session doc and are therefore canon, but they were **authored in narration rather than played or prepped** — recorded here so a future consistency pass does not read them as fabrications, and so their provenance stays honest.
+
+| Term | Replaced | Meaning as established |
+|---|---|---|
+| **Aurum Bee Vance** | "Oral B. Vance" | How Aurelan Vance's name first lands on the party's ear at the Counting House; the party riffs that it sounds like a meadery. He restates it correctly a moment later. **Not an alias** — a mishearing played for comedy, blessed as an in-fiction beat. |
+| **dreamlily** | "a meth lab" | A narcotic; Soma's example of what illegal alchemy in a back room would be cooking — "to rot the sons of merchants." No further properties established. |
+| **cadet house** | "a Chinese wall" | **Menzoberranzan institution.** A House that wants a rival poisoned founds a lesser house with its own crest, name and ledger; the lesser house acts; the Matron tells the Ruling Council "that was not my hand." Valphine: the Council has not believed it once in nine hundred years, and it has never once failed — "the words are the wall." Her read on the banker's department excuse, and the campaign's working metaphor for laundered agency. |
+
+Also note: **Mielikki now appears in narration prose** (Soma, ch48 sc.06 and sc.05). Her faith was recorded only on `characters/soma.md` and in no other campaign document before this. Soma's "shell-sprout" for the young is used in dialogue for the first time.
+
+**The Neverwinter Commission Owns Mountain's Toe (New — ch48, structural)**
+Established on tape (Zoom l.2099) and previously recorded in no document: **the Neverwinter Commission owns the Mountain's Toe Gold Mine outright.** The party does not own it — they hold a *share*, and the 200 gp Vukradin collected at the Counting House is a **dividend**, not a payout. Vukradin was visibly shaken: *"Somehow I did not know that. So we don't own… I thought we were the owners."* He has been telling people about "our mine."
+
+This matters beyond the money. The same Commission is recorded above as the **commercial operator of the displacement manifold** — so the party's income and the sabotage they are investigating now share a counterparty, and Lord Cassian's warning ("when it comes to the Commission, one should keep one's distance") applies to their own revenue.
+
+**GM DECISION NEEDED — who holds the shares.** The GM's line at l.2143 is *"Yeah, you, you, the Falcon and Don-Jon"* (Zoom garbles Don-Jon as "Don Juan"). But this document already states the **party holds Don-Jon's share** after his death at the mine, and lists him as Dead. Either the Commission's ledger is stale and does not know he is dead — a usable hook — or the share transferred and the table line was shorthand. One ruling settles it. *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
+
+**Ser Kaelen's Line Into House Margaster (New — ch48, Watch)**
+At the Eastern Quay, Cullen Sharpe told the party that **Ser Kaelen had reached out to House Margaster through one of their agents** on the party's behalf — verbatim, Zoom l.5087: *"…one of the problems that Ser Kaelen suggested you might have when he reached out to us through one of our agents, that perhaps we could provide the connecting tissue between your finds and the real proprietaires using our patented system."*
+
+Recorded in no other document. Two readings and the narration deliberately holds both open: Kaelen's recovery office routes returns through a Margaster-endowed desk in **good faith**, or Cullen wants the party to believe the Order's man is theirs. Note that Kaelen is also the source of Vukradin's standing warning to **stay away from House Margaster** — so if the first reading is right, Kaelen is warning them off a house he is himself transacting with. *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
+
+**Boney the Genealogist (New — ch48, characterization)**
+Boney taught himself the succession lines of the noble houses by **reading the gravestones** during his interment in Lady Tanamere Alagondar's barrow — *"if you're stuck in a tomb for a few hundred years, you start to do research"* — and the records kept arriving, because it was a tomb. He cross-examined Perrin Alagondar directly on lineage and was scrupulous about the limits of what he could attest: the necklace **belonged to Lady Alagondar**, and if Perrin is genuinely of the clan he may have a rightful claim.
+
+Makes him a functional authority on noble succession — directly relevant to the Alagondar restoration plot Perrin is pushing. Note his "a few hundred years" overstates the record: the registry dates Lady Alagondar's death to *"over a century ago."* Treat the discrepancy as Boney rounding up, and **do not let "centuries" propagate into the grounding docs** — `gm-assist.md` has already drifted to "studying… for centuries." *(Recorded 2026-08-16, ch48 stage-3 consistency pass.)*
 
 **The Real Headliner (Critical)**
 Rimardo/Corrin warned: six gods of fate are circling, each convinced they are the headliner — which means none of them are. A true headliner has not been announced. Corrin's card showed an older, colder, lightning-pale creature of far greater age beneath the green dragon. The understudy is already playing the lead role without the audience knowing.
@@ -199,7 +315,7 @@ Escaped with interdimensional poison box (ch28). Unnamed superior was "not happy
 Left the Druid Council choosing "a different battlefield." Her thesis (party interventionism caused the planar blight) is sincere; she was not persuaded by the Council vote. She has significant Enclave connections and turned Falcon against the party temporarily. Will act.
 
 **Vukradin's Music Studio**
-Still not built or open. Every ethical choice about money ties back to this identity thread. Ser Kaelen offers Order of the Gauntlet funding; Vukradin is wary of the source.
+Still not built or open — but as of ch47 it has a real fund for the first time: **550 gp**, held in an earmarked restricted trust, raised from Lord Cassian's donation and a natural-20 fundraising pitch to the Moonstone Mask's wealthy patrons. Vukradin has also proposed a charitable gala hosted by Lord Neverember to grow it. Every ethical choice about money still ties back to this identity thread; Ser Kaelen's Order of the Gauntlet funding remains on the table and Vukradin remains wary of the source. Soma's needle stands: an earmarked trust "frees up other funds, in which case it really isn't so earmarked now, is it?"
 
 **Planar Incursions — Cause Unresolved**
 Whispering Wood rift is unsealed. Aletra's interdimensional trade may be connected. Adabra's interventionism thesis is one explanation; Sridar's "magic users or fools meddling" is another. No definitive answer.
@@ -231,38 +347,48 @@ Five orc converts under Prutha. Governance of the orc group at the Manse area un
 **Ser Kaelen — Love or Management?**
 "I do not know whether he loves me or is managing me." House Margaster connection to Order funding is unresolved. Kaelen has been consistently helpful.
 
-**Shrine of Savras**
-Zeleen suggested it (ch31); party noted intent to investigate (ch44). Not yet visited.
+**Shrine of Savras — ABANDONED (ch46)**
+Zeleen suggested it (ch31); party noted intent to investigate (ch44); **the party then explicitly abandoned the quest in ch46** in favor of going straight to Neverwinter. Never visited, never cleared. `planning.md` still carries it as Active Plot #2 with a queued Rimardo/Corrin playbill — that payoff needs a new delivery vector or a reason for the party to double back.
 
 ---
 
 ## Party Current Situation
 
-- **Current location:** Returning from Woodland Manse area toward Phandalin. Full party alive. Next destination: Phandalin (celebration / rest), then Mountain's Toe Mine (collect money), then Neverwinter.
+- **Current location:** Neverwinter, evening of the day they arrived at the Moonstone Mask (ch47). Full party alive, long-rested, fully spelled. Boney with them in the streets. Prutha and the five orc converts are **not** with them — they split off at Icespire Hold in ch46.
 - **Active obligations and outstanding debts:**
-  - Return mermaid statue to Lord Cassian Meliamne (Elara Meliamne's cousin — Elara is dead, killed by House Margaster). Urgency: House Margaster agents have been intercepting the statue. Contact: Cassian, not Elara. Before House Margaster intervenes.
-  - Resolve the Crown claim on the frozen dragon treasure taken from Icespire Hold — the party carries it. Vukradin took it but will not claim it: rightful owners or the UBT fund, never party loot.
-  - Locate mermaid's next of kin in Neverwinter.
-  - Brewbarry committed to helping rebuild Woodland Manse brewery (future beer promised).
-  - Vukradin holds items for rightful owners: Necklace of Fireballs, obsidian sword/gem.
-  - Escort Vorga — **COMPLETE (ch46).** Delivered to Icespire Hold with her tribe.
+  - **Dawn:** performance and sermon at the Spire of the Morninglord. Valphine to also consult Brother Aldric Sunmantle about her golden eyes.
+  - **Tomorrow evening:** private dinner with Lord Dagult Neverember, arranged through Aldus. Vukradin pitching a charitable gala for the music studio; Neverember wants to talk about wealth circulation and Phandalin's government.
+  - **Pending, unscheduled:** private tea at Lord Cassian's residence.
+  - **Next stop:** the Counting House — Brewbarry's capital, and the Lionshield Coster supply-chain investigation.
+  - Investigate the link between the Planar Manifold failure and Elara Meliamne's death (Cassian's charge).
+  - Collect Brewbarry's dragon scale mail from the Protector's Enclave armorer before leaving the city (300 gp owed).
+  - Return the Necklace of Fireballs to Perrin Alagondar (claim is a Margaster-routed forgery — party does not know).
+  - Resolve Crown claim on Icespire Hold frozen dragon treasure.
+  - Mountain's Toe Mine: money collection, Zeleen's Earthstone Gem, Horia's secret addendum — all bypassed in ch46, all still open.
+  - Brewbarry committed to helping rebuild the Woodland Manse brewery (future beer promised).
+  - Vukradin still holds the obsidian sword/gem pending ownership determination.
+  - Escort Vorga — **COMPLETE (ch46).** Return the mermaid statue — **COMPLETE (ch47).**
 - **Key resources and assets:**
   - Dragon Slayer Sword (+1) — Brewbarry
   - Meril's Staff (sentient, leaf count uncertain) — Soma
-  - Staff of Bird Calls (newly acquired, hidden) — Soma
+  - Staff of Bird Calls — Soma (now openly held; considered and rejected as barter for the armor)
   - Boots of Elvenkind — Vukradin
-  - Necklace of Fireballs (holding for owner) — Vukradin
+  - Necklace of Fireballs (holding for claimant) — Vukradin
   - Obsidian Sword / Gem (holding pending ownership) — Vukradin
   - Dust of Disappearance (hidden in book) — Valphine
   - Midnight Tears Poison (4 vials) — Valphine
   - +1 Halberd, Elemental Cleaver, Gauntlets of Ogre Power, Dread Helm — Brewbarry
+  - Dragon scale mail (Lathander emblem) — commissioned for Brewbarry, **not yet collected**
   - Sending stones — party
   - Cryovain breath pouch (significance unknown) — Soma
-  - ~3,000 gp Cryovain hoard — carried by the party as one fused slag of ice, residium, gold, gems and trade bars. Unspendable: fused by planar magic, inseparable without an expert (sought in Neverwinter). Held for its rightful owners, not counted as party wealth.
   - Mine shares at Mountain's Toe Gold Mine
+  - **Music studio fund: 550 gp** in an earmarked restricted trust
+  - 50 gp each to Soma, Valphine, and Brewbarry from Lord Cassian (ch47)
+  - Linene's letter of introduction to the Counting House — Brewbarry
   - Superior healing potion in Vukradin's pack (placed by Valphine; he doesn't know)
   - Unknown vial in Vukradin's pack (placed by narrator; he doesn't know)
-- **Recent developments shaping next session:** Woodland Manse cleared; Gorthok dead; Falcon re-allied; Rimardo/Corrin's "real headliner" warning issued; Zone of Truth confessions created minor party tensions (Staff of Bird Calls, stolen bathrobes); party heading to Phandalin then Neverwinter on a deadline.
+- **Reputation:** Heroes of Phandalin, now working the capital. Vukradin is genuinely famous in Neverwinter — for his *early* work, which has spawned a "you sold out" fan discourse he is now personally litigating. Brewbarry's Uthgardt look has become a Neverwinter street fashion; strangers dress as him. Valphine is taken for an avatar of Lathander on sight. Soma is styled "protector of the Glades." The party still has no band name.
+- **Recent developments shaping next session:** Statue returned and the oldest obligation closed; Elara found dead and Margaster named; a forged writ identified but left unchallenged; the Planar Manifold mystery and its vanished gnome technician handed to the party; Neverember watching their money; UBT proclaimed but unimplemented back home; Prutha loose at Icespire Hold with a DM warning attached; Jenna Roscoe in the city ahead of them and hostile.
 
 ---
 
@@ -347,7 +473,7 @@ NOT FOUND IN SUMMARIES. GM should verify.
 COMPLETE. All resolved (see Completed Encounters above).
 
 **Shrine of Savras — orc/ogre occupation / altar vision S10 / gold bell S7**
-FOUND — UNCLEARED (active objective). The Shrine of Savras is documented (9 facts, ch23–39). The party is aware of it: Zeleen and the Whiskered Gang directed them there as a potential source of dragon intelligence (ch31). The shrine was displaced from by orc/ogre invasion (ch23); current occupants unknown. The associated dragon is confirmed dead (ch39). The party explicitly noted they have never cleared the shrine despite the dragon's death, and noted intent to visit (ch44). Specific module room encounters (altar vision S10, gold bell S7) have NOT occurred yet — they are an active pending objective, not past content. The Savras "gods of fate" theme active in this campaign is distinct from this shrine encounter.
+FOUND — UNCLEARED, AND **ABANDONED BY THE PARTY (ch46)**. The Shrine of Savras is documented (9 facts, ch23–39). The party is aware of it: Zeleen and the Whiskered Gang directed them there as a potential source of dragon intelligence (ch31). The shrine was displaced by orc/ogre invasion (ch23); current occupants unknown. The associated dragon is confirmed dead (ch39). The party noted intent to visit (ch44) and then **explicitly dropped the quest in ch46** in favor of travelling straight to Neverwinter. Specific module room encounters (altar vision S10, gold bell S7) have NOT occurred and now have no scheduled route to occurring. The Savras "gods of fate" theme active in this campaign is distinct from this shrine encounter — but note `planning.md` had staged a Rimardo/Corrin playbill here as the reveal that Savras is the channel for the R&C phenomenon. That reveal is currently stranded.
 
 **Tower of Storms sub-encounters (Moesko T7, heart T9, Miraal T1, harpies T5, giant crab, Daggermaw sharks, shipwrecks T10–T14)**
 COMPLETE. All resolved (see Completed Encounters above).

@@ -48,7 +48,7 @@ Corbin wants to hide in his shell. How do these humans survive without a shell?
 
 But then, perhaps because he has no shell, he comes up with a good idea, “What if I take care of him here?” 
 
-Vukradin is dubious. But Corbin is insistent. The former bandit promises to take care of Skuppy. He promises to take care of him. I can see that Corbin wants revenge. Vukradin notices it as well and tells him that Skippy better not be dead by the time he returns. 
+Vukradin is dubious. But Corbin is insistent. The former bandit promises to take care of Skippy. He promises to take care of him. I can see that Corbin wants revenge. Vukradin notices it as well and tells him that Skippy better not be dead by the time he returns. 
 
 ## 15.02 Vukradin 04-03-Taraskh 1495
 

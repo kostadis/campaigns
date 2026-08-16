@@ -1,12 +1,21 @@
+---
+name: Vukradin
+player: David Mendenhall
+species: Variant Aasimar
+class_level: Bard 7
+subclass: College of Eloquence
+---
+
 # Vukradin
 
 ## Identity
-- **Class & Level:** Bard 5
+- **Class & Level:** Bard 7
+- **Subclass:** College of Eloquence
 - **Species:** Variant Aasimar
 - **Background:** Custom Background
-- **Player:** kostadis1
+- **Player:** David Mendenhall
 - **Alignment:** Lawful Good
-- **Age / Gender / Size:** Medium
+- **Age / Gender / Size:** — / — / Medium
 
 ## Ability Scores
 | Ability | Score | Modifier |
@@ -19,177 +28,149 @@
 | Charisma | 18 | +4 |
 
 ## Combat
-- **HP:** 33 (max)
+- **HP:** 45 max / 45 current (Temp HP: --)
 - **AC:** 14
 - **Initiative:** +3
 - **Speed:** 30 ft. (Walking)
-- **Hit Dice:** 5d8
+- **Hit Dice:** 7d8
 - **Proficiency Bonus:** +3
 
 ## Saving Throws
-- Strength +0
-- Dexterity +6
-- Constitution +1
-- Intelligence +0
-- Wisdom +1
-- Charisma +7
+- Strength: +0 (not proficient)
+- Dexterity: +6 (proficient)
+- Constitution: +1 (not proficient)
+- Intelligence: +1 (not proficient)
+- Wisdom: +2 (not proficient)
+- Charisma: +7 (proficient)
 
 ## Skills
-- Acrobatics (Dex) +6
-- Animal Handling (Wis) +2
-- Arcana (Int) +1
-- Athletics (Str) +1
-- Deception (Cha) +5
-- History (Int) +1
-- Insight (Wis) +2
-- Intimidation (Cha) +5
-- Investigation (Int) +1
-- Medicine (Wis) +2
-- Nature (Int) +1
-- Perception (Wis) +2
-- Performance (Cha) +7
-- Persuasion (Cha) +7
-- Religion (Int) +1
-- Sleight of Hand (Dex) +3
-- Stealth (Dex) +3
-- Survival (Wis) +2
+- Acrobatics (DEX): +6 (proficient/half — H)
+- Animal Handling (WIS): +2 (half proficient — H)
+- Arcana (INT): +1 (half proficient — H)
+- Athletics (STR): +1 (half proficient — H)
+- Deception (CHA): +5 (half proficient — H)
+- History (INT): +1 (half proficient — H)
+- Insight (WIS): +2 (half proficient — H)
+- Intimidation (CHA): +5 (half proficient — H)
+- Investigation (INT): +1 (half proficient — H)
+- Medicine (WIS): +2 (half proficient — H)
+- Nature (INT): +1 (half proficient — H)
+- Perception (WIS): +2 (half proficient — H)
+- Performance (CHA): +7 (proficient — P)
+- Persuasion (CHA): +7 (proficient — P)
+- Religion (INT): +1 (half proficient — H)
+- Sleight of Hand (DEX): +6 (proficient — P, per sheet)
+- Stealth (DEX): +6 (proficient — P, per sheet)
+- Survival (WIS): +2 (half proficient — H)
+
+*Note: sheet marks Perception and Investigation passive scores of 12 and 11 respectively; Passive Insight 12, Passive Investigation 11.*
 
 ## Proficiencies & Languages
 - **Armor:** Light Armor
 - **Weapons:** Simple Weapons
-- **Tools:** Clarinet, Flute
+- **Tools:** Clarinet, Flute (3rd instrument proficiency: Piano)
 - **Languages:** Celestial, Common, Goblin, Undercommon
+- **Senses:** Darkvision 60 ft.
+- **Resistances:** Necrotic, Radiant
 
 ## Attacks & Cantrips
 | Name | Hit | Damage | Notes |
 |---|---|---|---|
 | Rapier | +3 | 1d8+3 Piercing | Martial, Finesse, Vex |
-| Starry Wisp | +7 | 2d8 Radiant | V/S |
+| Starry Wisp | +7 | 2d8 Radiant | V/S, cantrip |
 | Unarmed Strike | +3 | 1 Bludgeoning | |
 
 ## Features & Traits
 
 ### Bard Features
-**Core Bard Traits • PHB-2024 59**
-
-**Bardic Inspiration • PHB-2024 59**
-As a Bonus Action, you can inspire another creature within 60 ft. That can see or hear you. That creature gains one of your Bardic Inspiration dice (1d8). Once within the next hour, when the creature makes a d20 Test, it can roll the Bardic Inspiration die and add the number rolled to the total, potentially turning the failure into a success.
-
-You can confer your Bardic Inspiration die 4 times per Short or Long Rest.
-
-I 4 / Short Rest • 1 Bonus Action
-
-**Spellcasting • PHB-2024 59**
-You can cast spells through your bardic arts. Charisma is your spellcasting ability for your Bard spells (Spell DC 15, Spell Attack +7). You can use a Musical Instrument as a Spellcasting Focus for your Bard spells.
-
-**Expertise • PHB-2024 60**
-You gain Expertise in two skill proficiencies of your choice.
-
-**Jack of All Trades • PHB-2024 60**
-You can add half your Proficiency Bonus (1) to ability checks you make that uses a skill proficiency you lack and that doesn't otherwise use your Proficiency Bonus.
-
-**Bard Subclass • PHB-2024 60**
-I College of Eloquence (TCoE)
-
-**Silver Tongue • TCoE**
-When you make a Charisma (Persuasion) or Charisma (Deception) check, you can treat a d20 roll of 9 or lower as a 10.
-
-**Unsettling Words • TCoE**
-As a bonus action, you can expend one use of your Bardic Inspiration and choose one creature you can see within 60 ft. Roll the Bardic Inspiration die (1d8). The creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
-
-I 1 Bonus Action
-
-**Font of Inspiration • PHB-2024 61**
-You now regain all expended uses of Bardic Inspiration when you finish a Short or Long Rest.
-
-**Ability Score Improvement • PHB-2024 61**
-In addition, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
-
-I Regain Bardic Inspiration: Special
+- **Core Bard Traits** (PHB-2024 p.59)
+- **Bardic Inspiration** (PHB-2024 p.59) — As a Bonus Action, inspire another creature within 60 ft. that can see or hear you. That creature gains one of your Bardic Inspiration dice (1d8). Once within the next hour, when the creature fails a D20 Test, it can roll the Bardic Inspiration die and add the number rolled to the total, potentially turning failure into success. Usable 4 times per Short or Long Rest.
+- **Spellcasting** (PHB-2024 p.59) — Charisma is your spellcasting ability for Bard spells (Spell DC 15, Spell Attack +7). You can use a Musical Instrument as a Spellcasting Focus.
+- **Expertise** (PHB-2024 p.60) — You gain Expertise in two skill proficiencies of your choice.
+- **Jack of All Trades** (PHB-2024 p.60) — Add half your Proficiency Bonus (+1) to ability checks that use a skill proficiency you lack and don't otherwise use your Proficiency Bonus.
+- **Bard Subclass** (PHB-2024 p.60) — College of Eloquence (TCoE)
+- **Silver Tongue** (TCoE) — When you make a Charisma (Persuasion) or Charisma (Deception) check, you can treat a d20 roll of 9 or lower as a 10.
+- **Unsettling Words** (TCoE) — As a bonus action, expend one use of Bardic Inspiration and choose one creature you can see within 60 ft. Roll the Bardic Inspiration die (1d8); the creature must subtract the number rolled from the next saving throw it makes before the start of your next turn.
+- **Ability Score Improvement** (PHB-2024 p.61)
+- **Font of Inspiration** (PHB-2024 p.61) — Regain all expended uses of Bardic Inspiration when you finish a Short or Long Rest. Additionally, you can expend a spell slot (no action required) to regain one expended use of Bardic Inspiration.
+- **Unfailing Inspiration** (TCoE) — When a creature adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll fails, the creature can keep the Bardic Inspiration die.
+- **Universal Speech** (TCoE) — As an action, choose 4 creatures within 60 ft. The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour. Usable 1/Long Rest.
+- **Countercharm** (PHB-2024 p.61) — If you or a creature within 30 ft. fails a saving throw against an effect that applies the Charmed or Frightened condition, you can take a Reaction to cause the save to be rerolled with Advantage.
 
 ### Variant Aasimar Species Traits
-**Healing Hands • VGtM**
-Once per long rest as an action, touch a creature and restore 5 hit points.
+- **Healing Hands** (VGtM) — Once per long rest as an action, touch a creature and restore 7 hit points.
+- **Ability Score Increase** (DMG) — Wisdom +1, Charisma +2.
+- **Size** (DMG) — Medium.
+- **Speed** (DMG) — 30 ft.
+- **Darkvision** (DMG) — 60 ft.
+- **Celestial Resistance** (DMG) — Resistance to necrotic and radiant damage.
+- **Celestial Legacy** (DMG) — You know the *light* cantrip. At 3rd level, cast *lesser restoration* once per long rest. At 5th level, cast *daylight* once per long rest. CHA is your spellcasting ability for these.
 
-I 1 / Long Rest • 1 Action
-
-**Ability Score Increase • DMG**
-Your Wisdom score increases by 1, and your Charisma score increases by 2.
-
-**Size • DMG**
-
-**Speed • DMG**
-
-**Darkvision • DMG**
-
-**Celestial Resistance • DMG**
-You have resistance to necrotic damage and radiant damage.
-
-**Celestial Legacy • DMG**
-You know the light cantrip. [3rd] You can cast lesser restoration once per long rest. CHA is your spellcasting ability.
-
-### Feats
-**Ability Score Improvement • PHB-2024 202**
-Increase one ability score by 2 or two ability scores by 1.
+## Feats
+- **Ability Score Improvement** (PHB-2024 p.202) — Increase one ability score by 2, or two ability scores by 1.
 
 ## Equipment
-- Leather (10 lb.)
-- Dagger (1 lb.)
-- Dagger (1 lb.)
-- Rapier (2 lb.)
-- Clothes, Common (3 lb.)
-- Backpack (5 lb.)
-- Flute (1 lb.)
-- Oil (8 lb.)
-- Rations (18 lb.)
-- Bedroll (7 lb.)
-- Bell
-- Tinderbox (1 lb.)
-- Waterskin (5 lb.)
-- Mirror (0.5 lb.)
-- Bullseye Lantern (2 lb.)
-- Costume (12 lb.)
+**Currency:** 0 CP, 0 SP, 0 EP, 29 GP, 0 PP
+**Weight Carried:** 76.5 lb. (Encumbered: 0 lb. / Push-Drag-Lift: 0 lb.)
 
-**Weight Carried:** 76.5 lb.
+- Boots of Elvenkind (x1) — *Attuned Magic Item*
+- Leather Armor (x1, 10 lb.)
+- Dagger (x1, 1 lb.)
+- Dagger (x1, 1 lb.)
+- Rapier (x1, 2 lb.)
+- Clothes, Common (x1, 3 lb.)
+- Backpack (x1, 5 lb.)
+- Flute (x1, 1 lb.)
+- Oil (x8, 8 lb.)
+- Rations (x9, 18 lb.)
+- Bedroll (x1, 7 lb.)
+- Bell (x1, -- lb.)
+- Tinderbox (x1, 1 lb.)
+- Waterskin (x1, 5 lb.)
+- Mirror (x1, 0.5 lb.)
+- Bullseye Lantern (x1, 2 lb.)
+- Costume (x3, 12 lb.)
 
 ## Spells
+
 **Spellcasting Class:** Bard
 **Spellcasting Ability:** CHA
 **Spell Save DC:** 15
 **Spell Attack Bonus:** +7
-**Spell Slots:** 4 Slots OOOO (1st), 3 Slots OOO (2nd), 2 Slots OO (3rd)
 
-### Cantrips
-- Vicious Mockery (WIS 15, 1A, 60 ft., V, Instantaneous)
-- Starry Wisp (+7, 1A, 60 ft., V,S, Instantaneous)
-- Light (DEX 15, 1A, Touch/5 ft. Sphere, V,M, 1 hour)
+### Cantrips (At Will)
+- **Vicious Mockery** — Bard, WIS save 15, 1 Action, 60 ft., V, Instantaneous (PHB-2024 p.337)
+- **Starry Wisp** — Bard, +7 to hit, 1 Action, 60 ft., V/S, Instantaneous (PHB-2024 p.320)
+- **Light** — Celestial Legacy, DEX save 15, 1 Action, Touch/20 ft. Sphere, V/M, Duration 1 hour (PHB p.255)
 
-### 1st Level
-- Healing Word (-, 1BA, 60 ft., V, Instantaneous)
-- Sleep (WIS 15, 1A, 60 ft./5 ft. Sphere, V,S,M, Concentration up to 1 minute)
-- Silvery Barbs (-, 1R, 60 ft., V, Instantaneous)
+### 1st Level (4 Slots)
+- **Silvery Barbs** — Bard, no save, 1 Reaction, 60 ft., V, Instantaneous (SACoC p.38)
+- **Command** — Bard, WIS save 15, 1 Action, 60 ft., V, Instantaneous (PHB-2024 p.251)
+- **Tasha's Hideous Laughter** — Bard, WIS save 15, 1 Action, 30 ft., V/S/M, Concentration up to 1 minute (PHB-2024 p.331)
 
-### 2nd Level
-- Phantasmal Force (INT 15, 1A, 60 ft./10 ft. Cube, V,S,M, Concentration up to 1 minute)
-- Silence [R] (-, 1A, 120 ft./20 ft. Sphere, V,S, Concentration up to 10 minutes)
-- Hold Person (WIS 15, 1A, 60 ft., V,S,M, Concentration up to 1 minute)
-- Cloud of Daggers (-, 1A, 60 ft./5 ft. Cube, V,S,M, Concentration up to 1 minute)
-- Spray of Cards (DEX 15, 1A, Self/15 ft. Cone, V,S,M, Instantaneous)
-- Lesser Restoration (-, 1A, Touch, V,S, Instantaneous)
+### 2nd Level (3 Slots)
+- **Phantasmal Force** — Bard, INT save 15, 1 Action, 60 ft./10 ft. Cube, V/S/M, Concentration up to 1 minute (PHB-2024 p.304)
+- **Cloud of Daggers** — Bard, no save, 1 Action, 60 ft./5 ft. Cube, V/S/M, Concentration up to 1 minute (PHB-2024 p.251)
+- **Spray of Cards** — Bard, DEX save 15, 1 Action, Self/15 ft. Cone, V/S/M, Instantaneous (TBoMT p.50)
+- **Lesser Restoration** — Celestial Legacy, no save, 1 Action, Touch, V/S, Instantaneous, 1/Long Rest (PHB p.255)
 
-### 3rd Level
-- Slow (WIS 15, 1A, 120 ft./40 ft. Cube, V,S,M, Concentration up to 1 minute)
-- Daylight (-, 1A, 60 ft./60 ft. Sphere, V,S, 1 hour)
-- Sending (-, 1A, Unlimited, V,S,M, 1 round)
+### 3rd Level (3 Slots)
+- **Hypnotic Pattern** — Bard, WIS save 15, 1 Action, 120 ft./30 ft. Cube, S/M, Concentration up to 1 minute (PHB-2024 p.287)
+- **Sending** — Bard, no save, 1 Action, Unlimited, V/S/M, Instantaneous (PHB-2024 p.314)
+- **Daylight** — Celestial Legacy, no save, 1 Action, 60 ft./60 ft. Sphere, V/S, Duration 1 hour, 1/Long Rest (PHB p.230)
+
+### 4th Level (1 Slot)
+- **Greater Invisibility** — Bard, no save, 1 Action, Touch, V/S, Concentration up to 1 minute (PHB-2024 p.281)
+- **Dimension Door** — Bard, no save, 1 Action, 500 ft., V, Instantaneous (PHB-2024 p.262)
+- **Polymorph** — Bard, WIS save 15, 1 Action, 60 ft., V/S/M, Concentration up to 1 hour (PHB-2024 p.306)
 
 ## Personality
-The personality traits, ideals, bonds, and flaws sections are blank on the sheet.
+- **Traits:** —
+- **Ideals:** —
+- **Bonds:** —
+- **Flaws:** —
 
 ## Notes
-- Passive Perception: 12
-- Passive Insight: 12
-- Passive Investigation: 11
-- Darkvision 60 ft.
-- Resistances - Necrotic, Radiant
+- Faith: —
 - 3rd instrument proficiency is Piano
-- Experience Points: (Milestone)
+- Heroic Inspiration, appearance details (height, weight, hair, skin, eyes), backstory, allies & organizations, and additional notes fields were present on the sheet but left blank.
