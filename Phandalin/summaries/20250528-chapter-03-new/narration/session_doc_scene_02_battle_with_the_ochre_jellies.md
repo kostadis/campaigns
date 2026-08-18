@@ -1,113 +1,127 @@
 ---
 scene: 02
 slug: battle_with_the_ochre_jellies
-narrator: Vukradin
+narrator: Soma
 scene_name: Battle with the Ochre Jellies
 session: 20250528-chapter-03-new
 ---
 
-### Vukradin
+The first pseudopod goes for the bard. It whips past his ear and slaps stone, and he has the gall to sound pleased about it.
 
-I saw the jellies before Soma named them — pale ochre blobs sliding across the stone floor like something that had been left to spoil in a cellar too long. "Ochre jelly," she said, and I already knew the hit points from the GM's placement of tokens. Fifty-two. Split on slashing. Slow. Dumb. Dangerous in the way that anything mindless and hungry is dangerous.
+"You missed. Yes."
 
-I calculated the angle as Brewbarry charged in with the halberd. The sound it made against the jelly — not a cut, not a tear, just a wet *thump* of resistance — told me everything I needed to know before the GM confirmed it. "Immune to slashing," he said. "And it splits into two."
+The second one does not miss. It catches Brewbarry full across the chest and the sound is wet and heavy, and I watch the biggest body in my bale fold halfway before he catches himself on the halberd. Any of the rest of us takes that blow, we are on the floor.
 
-*Perfect.*
+"No, I'm not dead. I have one hit point."
 
-"Could you not use such damaging spells?" Norbus shouted from the corridor. Dazlyn echoed him immediately: "It might damage some of the interior that we're trying to preserve."
+He says it like a weather report. I have seen fishermen do this, standing in a boat with a hole in it. Somewhere in the back of my head a memory surfaces, old stories about parties that traveled with bards and how few of them came home.
 
-I looked at the jellies. I looked at the dwarves. I looked at my party, already bleeding, already splitting, already losing ground.
+"Bards don't do much at level one," I mutter. Nobody asks me to explain.
 
-I cast Thunderwave.
+Valphine answers first. Radiant fire drops out of nowhere onto the nearer jelly and the surface of it scorches and bubbles. Then Vukradin sets up his thunder, and there is a discussion about the angle of it, because of course there is.
 
-The sound wasn't a chord — it was a wall, a flat percussive blast that shoved through the chamber like a god clearing its throat. Both jellies failed their saves — six and ten on the dice, plus two, not enough. Eight damage each. One skidded into a corner where it had nowhere to go, pinned against the wall like a drunk at a bar who'd picked the wrong fight. The thunderclap rang off the stone, off the dwarves' ears, off every surface in the room.
+"But you could also shift it left so that it only hits one column instead of two, right?" I offer. Practical. Hit both. Spare the barbarian.
 
-And something answered from above.
+"I don't think it would be appropriate to attack my ally."
 
-"Another ochre jelly drops from the ceiling," the GM said.
+Fine. The thunder rolls out of him and both jellies shudder and slide backward across the stone, one of them skidding on a diagonal to clear the wall because the bard insists on his geometry even mid-spell. The whole chamber rings with it.
 
-I stared. Right into the middle of us. Right next to me.
+Which is when the dwarves weigh in from the tunnel. Dazlyn first: "Is everybody okay there?" Then Norbus, and I want to be clear that a man is standing at zero hit points ten feet from an ooze when this is said: "Could you not use such damaging spells? It might damage some of the interior that we're trying to preserve."
 
-"Guys, we're done here," Soma said.
+Vukradin, under his breath: "Wait till later. I'm looking forward to combat with him."
 
-"Nah, we're good," I said, because what else was I going to say?
+"And I will run and hide behind the altar," the bard announces, and does. A jelly flows after him, straight past Brewbarry, who looks at his blade, thinks about what steel did to the first one, and makes the smart call for once.
+
+"With my slashing weapon — or I guess I should punch then. I'll punch." His fist sinks into it. Not much. Enough.
+
+Then a third jelly peels off the ceiling and drops.
+
+"Guys, we're done here," I say.
+
+"Nah, we're good."
 
 "Look, I got a few years left. I'd like to spend them not dead."
 
-The GM ruled it stunned from the Thunderwave. The concussive sound had rattled its primitive nervous system. One free round. That was the window.
+It lands nearly on top of Vukradin and just lies there, slack, stunned by its own noisy arrival. "Guys, this is fleeing time," I say, and nobody flees, and I look at the stunned puddle of it and revise. "Hey, that's something I can beat."
 
-Soma cast Earth Tremor. Five damage on one, the other saved. The stone floor buckled and broke around her, becoming difficult terrain — slowing the advance, buying us time. She was thinking like a general, not a druid. *Good.*
+So we fight. Fine. I plant the staff and I look toward the tunnel where the dwarves are hiding.
 
-I saw Brewbarry's knuckles crack as he entered his rage. He punched — not a weapon, not a blade, just the raw force of his body. Critical hit. Fourteen points of bludgeoning damage. The jelly collapsed in on itself, a bag of acid that had finally found something it couldn't digest.
+"What was that request about not doing damaging spells to the environment?"
 
-"One down," the GM said. "Three to go."
+"I love it. Do it."
 
-Soma took a hit. Eight damage. I saw her flinch, saw the wound, knew what it meant. Valphine stepped up — Healing Word first, bringing her back to eleven, then Sacred Flame for one point of radiant damage.
+"Yeah, no — we're dropping an earth tremor right here. Five damage to both, unless they can do a DC 13 dex." The floor bucks and cracks under them, stone splitting into broken shelves, hard going for anything that flows. One of the jellies slips the worst of it. The placement is deliberate. "I just didn't wanna hit our barbarian, but I wanted to hit both of them."
 
-"Gilly Gary, really?" I said.
+"Then I will rage," Brewbarry says, and the fury takes him, and his fist comes down and the jelly under it bursts and does not reassemble. He did that standing on one breath.
 
-*One damage.* But it was something. It was a gesture. It meant she was still in the fight.
+"Not sure if it'll be enough to save us, but yeah. One down, three to go."
 
-I cast Dissonant Whispers.
+I count two. I do not correct a raging goliath.
 
-The sound wasn't loud — it was wrong. A frequency that scraped against the inside of the skull, a whisper that didn't come from the throat but from somewhere deeper, somewhere the jelly didn't know it had. The creature failed its wisdom save — minus two, always minus two — and took ten points of psychic damage. It fled, using its reaction to push itself as far away from me as the room allowed.
+Then a pseudopod finds me, cracking against my shell, acid stinging at the seams. "Are you shitting me?" It hits hard enough to matter. "Save me. I'm at three hit points." Valphine hesitates over her options, and I wave a claw. "You can also kill the jelly. It's fine."
 
-Valphine's reaction strike caught it on the way: three points of bludgeoning from her mace. Nothing dramatic. But it was damage. It was *something.*
+"Kill the jelly. There'll be time for healing later," says the man behind the altar.
 
-I retreated to the far corner. "I can play my music from across the room," I said. "You'll be able to hear it. Trained musician, I play loudly."
+She heals me anyway. Warmth up through the plates. "Hey, I'm back to 11. Thank you." Her sacred fire follows it onto the jelly and barely singes the film of it.
 
-The GM considered this. "Loudly or with big volume?"
+"Really, one? Hey, he healed me very—"
 
-"There's a difference?"
+"well, though. Minimum damage," I finish for him.
 
-"Yes. Anybody can play loudly. A good musician plays with appropriate volume."
+Vukradin leans out from cover and puts something ugly into the far jelly's mind, a phrase of music that gets inside it, and the thing convulses and flows away from him as fast as an ooze can flow, straight past Valphine, whose mace clips it on the way by. Then he retreats to the corner. All the way to the corner.
 
-*Fair.*
+"I can play my music from across the room. You'll be able to hear it. Trained musician — I play loudly."
 
-Soma withdrew into her shell. Full turtle. AC twenty-one. She planted herself between the jellies and the rest of us, a living barricade of tortle patience and natural armor.
+A pseudopod comes at me and misses. Good. Decision made. "All right. We're going to tank for you guys, and I'm gonna use my action to withdraw, which gives me—"
 
-"I'm here to get whaled on with a bonus four AC," she said.
+"You mean disengage?"
 
-And she was. The first jelly threw itself at her and missed — rolled a fourteen, not enough. Valphine followed with a mace attack that rolled a natural one. The weapon clattered off the stone, useless.
+"No, no. Withdraw is — pull into the turtle shell. So I'm here to get whaled on with a bonus 4 AC."
 
-I used Starry Wisp. Radiant damage, eight points, hit clean. The light caught the jelly's surface, flared, burned. It was down to thirteen hit points.
+"You're gonna sit there at AC 21 now. Interesting tactic."
 
-And then it split.
+"Hey, look, I'm blocking for you guys." Hold the thing in place. Let the soft ones hit and run.
 
-"Below twenty," I said. "It splits. How many for each?"
+"They could just sit there, continue to try to bang on your shell for a while and—" the bard starts, but the jellies press in regardless. Whatever passes for a nose in them wants what is inside this shell.
 
-"Five," the GM said. "Five hit points each."
+Valphine cuts through my square to reach the far one. "I'm friendly. I'll allow it in my — you know — shelly state." Her mace goes wide. Very wide. Nothing.
 
-Two jellies now where there had been one. Both staring at Soma. Both hungry.
+A mote of starlight streaks from the corner and burns into the smaller jelly. Then the other one swings at my shell and slides off. "Didn't need plus four AC for that." And I think about the little jelly, nearly gone, and how much I would like the count to go down. "Oh, duh — bonus action, I will un-withdraw and try to kill the little dude since we can probably get down to one guy. We got Poison Spray. They're not immune to poison damage, right?"
 
-The first hit. Rolled thirteen plus four, seventeen, matching her armor class exactly. Ten damage. She dropped to one hit point.
+"Guess we'll find out."
 
-*One.*
+"Well, we're poison spraying at number one. And I'll roll a natural one just for you. There we go. Seven damage." The green cloud takes it apart. Dead.
 
-The second hit. Connected. She went down.
+Brewbarry hammers the big one. Valphine's mace lands. Another wisp of starlight from the corner burns deep, and the big jelly shivers and pulls itself in two, each half its own hungry thing. Her mace comes back pitted where the acid found it. "Heck — your plus one mace is heavily corroded."
 
-"Oh, you're knocked out," the GM said.
+Then they come for me. The first strike beats my shell by exactly nothing to spare. "Me? 17. Yeesh." It drives the wind out of me, and I am back down to the last of myself.
 
-Soma started rolling death saves.
+"Only need one hit point. Told you you'd live."
 
-Norbus's voice came from the corridor: "Did somebody get hurt?"
+"This I can't guarantee as much," says Vukradin.
 
-Dazlyn, without missing a beat: "Again, to the extent possible, please don't damage any of the artwork. This is an important archeological find."
+He is right. The second one lands and the chamber goes gray. From somewhere far off: "All right. Sorry, man." I get out "That's all right" before the dark takes the rest. And down in the dark the body argues with it, an old stubborn tortle body that has hauled nets through worse, and the argument goes my way.
 
-I closed my eyes. *I hear you.*
+Through the gray I hear Norbus: "Did somebody get hurt?" And Dazlyn: "Again — to the extent possible, please don't damage any of the artwork. This is an important archeological find."
 
-Valphine used another Healing Word. Soma came back — eight more hit points, bouncing between one and ten like a coin flipping in the dark. Brewbarry punched. Valphine attacked. The jellies kept coming.
+"Oh — my God," says Vukradin, which covers it.
 
-Soma un-withdrew from her shell as a bonus action and cast Poison Spray. Seven points of damage. The last jelly died.
+Brewbarry swings and misses. Valphine's mace comes down and one of the halves comes apart into slime. Then a debate over me that I surface just enough to catch the tail of. "All right, guys — or just leave me to bleed out." Warmth again instead. Her last reserve, spent on the turtle. My eyes open on the cracked ceiling.
 
-I drew my daggers.
+"Keep bouncing between one and 10 hit points. Up and down and up and down."
 
-Two hits. First target, second target. Four points of damage each. Both creatures collapsed.
+One jelly left. Vukradin studies it from across the room. "Are they immune to piercing damage?"
 
-"Two killed in one round," I said. "There's a Vukradin for you."
+"I don't think so."
 
-"Like a fucking barbarian," I said. "I love it."
+He mutters something about oozes he poked as a child, how a point did not split them the way an edge did. Then he crosses the room with both daggers out and puts one and then the other into the last of it, and it collapses into a spreading, motionless stain.
 
-Soma's voice came through, dry as the stone under our feet: "Vukradin-barian."
+"Did you kill him? Yeah. Double death. Go bard go."
 
-*I'll take it.*
+"Like a fucking barbarian, I love it."
+
+"Bard-barian," I say, from the floor, where I am, on balance, alive.
+
+"Killed two creatures in one round. There's a bard for you"
+
+<!-- table-speech reclassified: "Nice. Natural one. Well done, Gary." | "Vukradin will use a cantrip. Hits. Starry Wisp. Four damage." | "Yeah, and 10 — five. So you do 10 damage to the one with seven." -->

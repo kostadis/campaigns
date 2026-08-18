@@ -1,0 +1,575 @@
+{
+  "generated": "2026-08-17",
+  "campaign": "Phandalin",
+  "session": "20250528-chapter-03-new",
+  "stage": "stage2-scene-extractions-03-through-10",
+  "decisions": [
+    {
+      "id": "s03-1",
+      "scene": "03",
+      "severity": "critical",
+      "title": "Mid-combat dwarf shouts duplicated from scene 02",
+      "target": "scene_extractions/03_archaeologists_and_altars.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s03-2",
+      "scene": "03",
+      "severity": "minor",
+      "title": "Sending-stones outcome left unstated",
+      "target": "scene_extractions/03_archaeologists_and_altars.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s03-3",
+      "scene": "03",
+      "severity": "minor",
+      "title": "“Morning Lord” wrong-form in a verbatim quote",
+      "target": "scene_extractions/03_archaeologists_and_altars.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s03-4",
+      "scene": "03",
+      "severity": "minor",
+      "title": "“16 perception” flatly credited to Valphine",
+      "target": "scene_extractions/03_archaeologists_and_altars.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s03-5",
+      "scene": "03",
+      "severity": "trivial",
+      "title": "Duplicated/corrupted caption fragment",
+      "target": "scene_extractions/03_archaeologists_and_altars.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-1",
+      "scene": "04",
+      "severity": "critical",
+      "title": "“We found 10” wrongly credited to Valphine — VTT confirms it's Soma",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-2",
+      "scene": "04",
+      "severity": "moderate",
+      "title": "Gem split recorded as 7/8 — VTT suggests the true split is 8/7 (party gets 8)",
+      "target": "scene_extractions/04_the_skull_cavity.md + gm-assist.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-3",
+      "scene": "04",
+      "severity": "moderate",
+      "title": "“Here for the sending stones and the 50gp” — speaker split may be wrong",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-4",
+      "scene": "04",
+      "severity": "moderate",
+      "title": "“Verbatim” header is false",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-5",
+      "scene": "04",
+      "severity": "moderate",
+      "title": "Vukradin's insight framed backwards",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-6",
+      "scene": "04",
+      "severity": "moderate",
+      "title": "Unknown name “Nick” — real utterance, no known referent",
+      "target": "scene_extractions/04_the_skull_cavity.md + notes/vtt_transcription_corrections.md (pending)",
+      "status": "discuss",
+      "note": "Nick is my son's name. He probably walked into the room ... "
+    },
+    {
+      "id": "s04-7",
+      "scene": "04",
+      "severity": "minor",
+      "title": "Valphine-labeled block folds in someone else's line",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-8",
+      "scene": "04",
+      "severity": "minor",
+      "title": "“Stations himself warily” misstates the beat",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-9",
+      "scene": "04",
+      "severity": "minor",
+      "title": "“The museum only needs half” — speaker uncertain",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "discuss",
+      "note": "Fix to Norbus"
+    },
+    {
+      "id": "s04-10",
+      "scene": "04",
+      "severity": "minor",
+      "title": "Unattributed dagger-sharpening bit",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "discuss",
+      "note": "Valphine"
+    },
+    {
+      "id": "s04-11",
+      "scene": "04",
+      "severity": "trivial",
+      "title": "Formatting corruption in the Coda",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s04-12",
+      "scene": "04",
+      "severity": "trivial",
+      "title": "“Think so” attribution is an editorial guess",
+      "target": "scene_extractions/04_the_skull_cavity.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s05-1",
+      "scene": "05",
+      "severity": "moderate",
+      "title": "Religion check (17) credited to Valphine — tape doesn't cleanly support it",
+      "target": "scene_extractions/05_exploring_the_stone_bedrooms.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s05-2",
+      "scene": "05",
+      "severity": "moderate",
+      "title": "22-perception treasure sweep credited to Valphine — same diarization gap",
+      "target": "scene_extractions/05_exploring_the_stone_bedrooms.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s05-3",
+      "scene": "05",
+      "severity": "minor",
+      "title": "No diarization-gap note anywhere in the scene header",
+      "target": "scene_extractions/05_exploring_the_stone_bedrooms.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s05-4",
+      "scene": "05",
+      "severity": "minor",
+      "title": "“The archaeologists” front-runs this same session's reveal",
+      "target": "scene_extractions/05_exploring_the_stone_bedrooms.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s05-5",
+      "scene": "05",
+      "severity": "minor",
+      "title": "Composite quote with uncertain speaker",
+      "target": "scene_extractions/05_exploring_the_stone_bedrooms.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s05-6",
+      "scene": "05",
+      "severity": "trivial",
+      "title": "Hallway geography overstated",
+      "target": "scene_extractions/05_exploring_the_stone_bedrooms.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s05-7",
+      "scene": "05",
+      "severity": "trivial",
+      "title": "“Repeatedly runs back and forth” is chapter-scope, not scene-scope",
+      "target": "scene_extractions/05_exploring_the_stone_bedrooms.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s06-1",
+      "scene": "06",
+      "severity": "moderate",
+      "title": "“Verbatim” header is false",
+      "target": "scene_extractions/06_the_priest_s_remains.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s06-2",
+      "scene": "06",
+      "severity": "moderate",
+      "title": "Sleight-of-hand success asserted but never actually stated on tape",
+      "target": "scene_extractions/06_the_priest_s_remains.md",
+      "status": "discuss",
+      "note": "The DC succeeded"
+    },
+    {
+      "id": "s06-3",
+      "scene": "06",
+      "severity": "critical",
+      "title": "Player knowledge vs. character knowledge is conflated on the theft",
+      "target": "scene_extractions/06_the_priest_s_remains.md",
+      "status": "discuss",
+      "note": "Everyone but Vukradin saw it. "
+    },
+    {
+      "id": "s06-4",
+      "scene": "06",
+      "severity": "minor",
+      "title": "“The table's collective larceny” overstates",
+      "target": "scene_extractions/06_the_priest_s_remains.md",
+      "status": "discuss",
+      "note": "This was table talk by Dave. "
+    },
+    {
+      "id": "s06-5",
+      "scene": "06",
+      "severity": "critical",
+      "title": "gm-assist.md fabricates a “standing house rule” that doesn't exist on tape",
+      "target": "gm-assist.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s06-6",
+      "scene": "06",
+      "severity": "moderate",
+      "title": "gm-assist.md's “silence” narration contradicts the tape and reverses event order",
+      "target": "gm-assist.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s06-7",
+      "scene": "06",
+      "severity": "minor",
+      "title": "gm-assist.md's “mining tunnels” contradicts the GM's on-tape correction",
+      "target": "gm-assist.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s06-8",
+      "scene": "06",
+      "severity": "minor",
+      "title": "gm-assist.md internally contradicts itself on Dazlyn's concern",
+      "target": "gm-assist.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s06-9",
+      "scene": "06",
+      "severity": "trivial",
+      "title": "“Faff about” annotation mismatch",
+      "target": "scene_extractions/06_the_priest_s_remains.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s06-10",
+      "scene": "06",
+      "severity": "trivial",
+      "title": "Unattributed player line: “there's an obvious door”",
+      "target": "scene_extractions/06_the_priest_s_remains.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-1",
+      "scene": "07",
+      "severity": "moderate",
+      "title": "“Verbatim” header is false",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-2",
+      "scene": "07",
+      "severity": "critical",
+      "title": "“Never tell me the odds” is imported from a DIFFERENT scene's transcript window",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-3",
+      "scene": "07",
+      "severity": "moderate",
+      "title": "Scene Wrap's ending contradicts its own verbatim",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-4",
+      "scene": "07",
+      "severity": "moderate",
+      "title": "Natural-one count misattributed to the character",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "discuss",
+      "note": "It was on Valphine"
+    },
+    {
+      "id": "s07-5",
+      "scene": "07",
+      "severity": "moderate",
+      "title": "“It's almost like I'm a tank” wrongly attributed to Valphine",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-6",
+      "scene": "07",
+      "severity": "moderate",
+      "title": "“Roll-off the GM won at 20” reads as if it settled initiative",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-7",
+      "scene": "07",
+      "severity": "minor",
+      "title": "Unannotated “ogre” garbles risk confusion with the real unresolved ogre",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-8",
+      "scene": "07",
+      "severity": "minor",
+      "title": "Sacred Flame result overstated",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-9",
+      "scene": "07",
+      "severity": "trivial",
+      "title": "“He's dead, Jim” misattributed via em-dash placement",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-10",
+      "scene": "07",
+      "severity": "trivial",
+      "title": "Unannotated “There's a portal”",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-11",
+      "scene": "07",
+      "severity": "trivial",
+      "title": "Corrupted speaker tag",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-12",
+      "scene": "07",
+      "severity": "minor",
+      "title": "Valphine-volunteers attribution rests on a single merged Zoom track",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s07-13",
+      "scene": "07",
+      "severity": "minor",
+      "title": "Vukradin's daggers aren't in any grounding doc",
+      "target": "docs/archive/party_ch02.md (future pass)",
+      "status": "discuss",
+      "note": "Vukradin had the daggers"
+    },
+    {
+      "id": "s07-14",
+      "scene": "07",
+      "severity": "minor",
+      "title": "“I'm kind of done with those daggers” is ambiguous",
+      "target": "scene_extractions/07_ambush_behind_the_altar.md",
+      "status": "discuss",
+      "note": "Vukradin says this "
+    },
+    {
+      "id": "s08-1",
+      "scene": "08",
+      "severity": "moderate",
+      "title": "Spliced quote reverses the actual utterance order",
+      "target": "scene_extractions/08_the_hall_of_greed.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s08-2",
+      "scene": "08",
+      "severity": "critical",
+      "title": "The gem is an emerald per the GM's own OOC ruling — “worthless glass” is only the character's mistaken belief",
+      "target": "scene_extractions/08_the_hall_of_greed.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s08-3",
+      "scene": "08",
+      "severity": "minor",
+      "title": "“Faint magical aura” is an embellishment",
+      "target": "scene_extractions/08_the_hall_of_greed.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s08-4",
+      "scene": "08",
+      "severity": "minor",
+      "title": "“The party identifies the area” is actually GM narration",
+      "target": "scene_extractions/08_the_hall_of_greed.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s08-5",
+      "scene": "08",
+      "severity": "minor",
+      "title": "Unattributed quote reads as possibly Valphine's",
+      "target": "scene_extractions/08_the_hall_of_greed.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s08-6",
+      "scene": "08",
+      "severity": "minor",
+      "title": "Unattributed folded fragment: “Keep encouraging us that we can do anything”",
+      "target": "scene_extractions/08_the_hall_of_greed.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s08-7",
+      "scene": "08",
+      "severity": "minor",
+      "title": "Unglossaried garble tokens: “Grym” and “Hoop”",
+      "target": "notes/vtt_transcription_corrections.md (pending)",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s09-1",
+      "scene": "09",
+      "severity": "critical",
+      "title": "Did the party take the green gem, or leave it? Contradiction between gm-assist and the verbatim",
+      "target": "gm-assist.md (Items) + scene_extractions/09_amateur_archaeologists.md",
+      "status": "discuss",
+      "note": "Let's review on tape"
+    },
+    {
+      "id": "s09-2",
+      "scene": "09",
+      "severity": "minor",
+      "title": "“Gnomes” editorial note may misread a real canon callback",
+      "target": "scene_extractions/09_amateur_archaeologists.md",
+      "status": "discuss",
+      "note": "Look at what the module says and adjust. "
+    },
+    {
+      "id": "s09-3",
+      "scene": "09",
+      "severity": "trivial",
+      "title": "Pre-return banter reads as happening during the report",
+      "target": "scene_extractions/09_amateur_archaeologists.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s09-4",
+      "scene": "09",
+      "severity": "trivial",
+      "title": "Sending-stones handover appears twice in the transcript",
+      "target": "scene_extractions/09_amateur_archaeologists.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s10-1",
+      "scene": "10",
+      "severity": "moderate",
+      "title": "“We had servants” speaker attribution stated as fact despite being uncertain",
+      "target": "scene_extractions/10_ambush_on_the_road.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "s10-2",
+      "scene": "10",
+      "severity": "minor",
+      "title": "“Gnomes” joke risks confusion with the dwarves and with Gnomengarde",
+      "target": "scene_extractions/10_ambush_on_the_road.md",
+      "status": "discuss",
+      "note": "Review what hte module says"
+    },
+    {
+      "id": "s10-3",
+      "scene": "10",
+      "severity": "minor",
+      "title": "Illogical “despite” connective",
+      "target": "scene_extractions/10_ambush_on_the_road.md",
+      "status": "accept",
+      "note": null
+    },
+    {
+      "id": "master-timeline",
+      "scene": "master",
+      "severity": "critical",
+      "title": "Chapter 2 archive ordering problem — new corroborating evidence from scenes 04, 06, 09, 10",
+      "target": "github.com/kostadis/campaigns#183 (comment) + gm-assist.md (reword)",
+      "status": "accept",
+      "note": null
+    }
+  ]
+}

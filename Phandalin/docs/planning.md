@@ -1,12 +1,14 @@
-# Planning Reference — Phandalin Campaign (post-ch47)
+# Planning Reference — Phandalin Campaign (post-ch46)
 
 > **Synthesis note:** Generated from 33 NPC dossiers, 5 arc score files, and 2 hand-authored context docs (KP.md, CounterForce.md). Original synthesis chapter: 45. The Woodland Manse has been cleared; Phandalin held a victory festival (Harbin presiding). The Carver arc is resolved. All scores below are GM-tracked and hidden from players.
 
-> **HAND-EDITED 2026-08-13.** The CampaignGenerator pipeline last generated this file at ch45. Chapters 46 (2026-06-23) and 47 (2026-07-29) were folded in by hand from `summaries/20260623/session-summary.md` and `summaries/20260729/session-summary.md`. **Re-running the planning pipeline will discard these edits.**
+> **HAND-EDITED 2026-08-13.** The CampaignGenerator pipeline last generated this file at ch44. Chapters 45 (2026-06-23) and 46 (2026-07-29) were folded in by hand from `summaries/20260623/session-summary.md` and `summaries/20260729/session-summary.md`. **Re-running the planning pipeline will discard these edits.**
 >
-> **Ch48 (2026-08-11) is NOT folded in.** Its recap is still at pipeline stage 0 (`summaries/20260811/gm-assist.md`, consistency-checked 2026-08-13 but not yet enhanced). Ch48 executed the Counting House run, Perrin's first contact, the Margaster notary, and the Eastern Quay confrontation — treat Active Plots below as ch47-current and expect several to have moved.
+> **Ch47 (2026-08-11) is NOT folded in.** Its recap is still at pipeline stage 0 (`summaries/20260811/gm-assist.md`, consistency-checked 2026-08-13 but not yet enhanced). Ch47 executed the Counting House run, Perrin's first contact, the Margaster notary, and the Eastern Quay confrontation — treat Active Plots below as ch46-current and expect several to have moved.
 >
-> **The campaign has changed arenas.** Through ch45 the pressure was monsters and cults. From ch46 it is institutions: a town constitution the party wrote without the Lord Protector's blessing, a noble house that kills with paperwork, and a broken interplanar shipping engine. Threat scores below still read 0 because none of the *tracked* antagonists have engaged — that is a gap in the tracker, not an absence of pressure.
+> **RENUMBERED 2026-08-18.** Every chapter-number reference ≥21 in this document was off by +1 — the same stale drift corrected in `campaign_state.md` and `world_state.md` (see those files' 2026-08-18 notes).
+>
+> **The campaign has changed arenas.** Through ch44 the pressure was monsters and cults. From ch45 it is institutions: a town constitution the party wrote without the Lord Protector's blessing, a noble house that kills with paperwork, and a broken interplanar shipping engine. Threat scores below still read 0 because none of the *tracked* antagonists have engaged — that is a gap in the tracker, not an absence of pressure.
 
 ---
 
@@ -26,29 +28,29 @@
 ## NPC Dossiers
 
 ### Adabra Gwynn
-**Status:** Alive, at large. Left the Druidic Council (ch38) seething, "choosing a different battlefield."
+**Status:** Alive, at large. Left the Druidic Council (ch37) seething, "choosing a different battlefield."
 **Location:** Unknown. Last associated with the council grounds near Neverwinter Wood.
 **Active plans:** Waging a philosophical and political war against interventionism. Attempting to convince druidic circles that the party's Kraken cult interference caused cascading multiversal catastrophe. She believes she is right and merely repositioning, not defeated.
 **What party knows:** Philosophical and political opponent. She orchestrated the council against them, called Soma dangerous, publicly shamed Vukradin over the 5gp debt.
-**Hidden:** She believes planar incursions are proof that intervention is the root cause of blight — a belief that happens to overlap with KP's framing. Whether she is being manipulated by KP's framework, has independently arrived at it, or is being cultivated by Tiamat-adjacent powers is open. Her path points toward finding allies who validate her non-interventionist theology. Falcon briefly supported her but reversed course after ch43.
+**Hidden:** She believes planar incursions are proof that intervention is the root cause of blight — a belief that happens to overlap with KP's framing. Whether she is being manipulated by KP's framework, has independently arrived at it, or is being cultivated by Tiamat-adjacent powers is open. Her path points toward finding allies who validate her non-interventionist theology. Falcon briefly supported her but reversed course after ch42.
 **Key leverage:** Falcon (lost); control of the council narrative (retained, though outvoted on personal attacks); Lyra's ostracization (still active).
 **Arc score:** Fury of the Wild — 0. *Mechanic file not in this synthesis; track manually.*
 
 ---
 
 ### Aletra Sotorra
-**Status:** Alive, at large. Escaped through a shimmering portal just before the interdimensional machine collapsed (ch29).
-**Location:** Unknown. Last seen escaping through a portal in ch28.
+**Status:** Alive, at large. Escaped through a shimmering portal just before the interdimensional machine collapsed (ch28).
+**Location:** Unknown. Last seen escaping through a portal in ch27.
 **Active plans:** Smuggling Midnight Tears (drow poison) through the multiverse; managing extraplanar leakage for KP under "The Sage" framing. Phase 1 of her arc: she may return to investigate planar anomalies near Phandalin, posing as a collector or alchemist. Long-term (Phase 3): dispatched by KP to Iymrith's Lair in Ascore to retrieve the Planar Energy Conduit. She privately covets the Optimization Codex itself.
 **What party knows:** Valphine's elder sister. Hostile, profit-driven, sadistic amusement at Valphine's suffering. Armed with a wand (red light), a portal device, and escaped with the poison box. Blinded during confrontation but still escaped.
-**Hidden:** She works under "The Sage" (KP) with a possible intermediate boss (a House Sotorra/Xorlarrin trade principal). She is afraid of KP — see the "use only if KP isn't watching" annotation found at Axeholm, implying she operates partly off-books. Dropped vials from ch28 are unaccounted for. Her Phase 3 arc takes her to Iymrith's Lair; the party will collide with her there.
+**Hidden:** She works under "The Sage" (KP) with a possible intermediate boss (a House Sotorra/Xorlarrin trade principal). She is afraid of KP — see the "use only if KP isn't watching" annotation found at Axeholm, implying she operates partly off-books. Dropped vials from ch27 are unaccounted for. Her Phase 3 arc takes her to Iymrith's Lair; the party will collide with her there.
 **Key leverage:** The poison box (contents/effects unknown); portal device; knowledge of KP's methods.
 **Arc score:** Planar Distortion — 0. Next threshold: +1 for direct interaction where she reveals her interest in planar anomalies.
 
 ---
 
 ### Boney
-**Status:** Alive. Sentient skeletal horse, party companion (ch32–44+).
+**Status:** Alive. Sentient skeletal horse, party companion (ch31–43+).
 **Location:** With the party.
 **Active plans:** Loyal companion and mount. No hidden agenda indicated.
 **Relevant history:** Was the mount of Lady Alagondar. The ghost appeared when the Dragon Slayer Sword was recovered and stared toward the Ice Spire Mountains. Boney believes it was brought back to serve her on a quest — unclear if that quest is now defined or resolved.
@@ -57,8 +59,8 @@
 ---
 
 ### Corrin
-**Status:** Vanished from Falcon's Lodge when lamps guttered (ch44). Whereabouts unknown.
-**Location:** Unknown. Falcon sent a note offering patronage (ch45); whether received is unconfirmed.
+**Status:** Vanished from Falcon's Lodge when lamps guttered (ch43). Whereabouts unknown.
+**Location:** Unknown. Falcon sent a note offering patronage (ch44); whether received is unconfirmed.
 **Active plans:** Operating as the silent half of the Rimardo-and-Corrin act. Next staged payoff: the **Wayside Inn** appearance (see DM Notes).
 **What party knows:** Silent, bizarre comedy performer. Used cards, props, and a small knife. Appeared uninvited. Pinned an invoice with a dagger. Vanished.
 **Hidden:** Corrin is the prophetic *hands* of the CounterForce — every clue comes from Corrin's hands, not Rimardo's mouth. His card-flip on Vukradin's vision showed: GIANT WAR / CRYOVAIN / FALCON'S LODGE / GORTHOK / WAYSIDE INN. He cannot be captured, dispelled, or interrogated — not present in any way that admits capture.
@@ -68,17 +70,17 @@
 
 ### Don-Jon Raskin
 **Status:** Deceased (killed by dwarves, consumed by carrion crawler). **Resolved.**
-**Note:** One fact from ch43 references "Don-Jon Raskin is a working that recalls a soul" — syntactically fragmented. Unclear if someone attempted a resurrection working. The soul's current status is unresolved if this matters.
+**Note:** One fact from ch42 references "Don-Jon Raskin is a working that recalls a soul" — syntactically fragmented. Unclear if someone attempted a resurrection working. The soul's current status is unresolved if this matters.
 
 ---
 
 ### Elara 'Seasong' Meliamne
-**Status: DEAD (ch47).** Killed eight days before the party reached Neverwinter. *This dossier previously read "Alive" — that was the ch45 state and is the single most important correction in this pass.*
+**Status: DEAD (ch46).** Killed eight days before the party reached Neverwinter. *This dossier previously read "Alive" — that was the ch44 state and is the single most important correction in this pass.*
 **Location:** Neverwinter. Died at her own festival — the one she had invited the party to, and which they missed because they were killing Cryovain.
 **How she died:** "A catastrophic, catastrophic, spectacular and bloody disaster." Three incompatible rumours circulate: a love affair gone wrong, a raid, a magical accident. **Lord Neverember has officially declared it a tragic accident and instructed the city to mourn and move on.** The damage was severe enough to be beyond resurrection — and the Moonstone Mask staff noted her brother "had not seemed eager to pursue it regardless."
 **What she was doing when she died:** Investigating the **Planar Manifold** failure. She believed the timing was not coincidental. She had met the manifold's gnome technician twice at the docks and written down her description of him.
 **What party knows:** All of the above, from the Moonstone Mask staff and Lord Cassian. Her brother names House Margaster flatly and can prove nothing.
-**Hidden:** The identity leap from ch7 (merchant refugee, attacked by orcs, memory loss) to ch24 (wealthy gala attendee) was never explained and now **cannot be asked about** — a permanently closed thread unless the GM routes it through Cassian's records or a Speak with Dead attempt.
+**Hidden:** The identity leap from ch7 (merchant refugee, attacked by orcs, memory loss) to ch23 (wealthy gala attendee) was never explained and now **cannot be asked about** — a permanently closed thread unless the GM routes it through Cassian's records or a Speak with Dead attempt.
 **Forward hook:** She is the campaign's proof that the Margaster/Manifold thread kills people who investigate it. The party has now been handed the same investigation.
 
 ---
@@ -86,7 +88,7 @@
 ### Lord Cassian Meliamne
 **Status:** Alive. Sea elf nobleman, Neverwinter. **Grateful ally — and a weak one.**
 **Location:** Moonstone Mask (best table); private residence pending.
-**Relation to Elara:** The ch47 recap calls him her **brother** throughout, but one of his own quoted lines is "My cousin told me someone was bringing it," and the ch46 GM note called him her cousin. **UNRESOLVED — settle at the table before he appears again.**
+**Relation to Elara:** The ch46 recap calls him her **brother** throughout, but one of his own quoted lines is "My cousin told me someone was bringing it," and the ch45 GM note called him her cousin. **UNRESOLVED — settle at the table before he appears again.**
 **Active plans:** Building a case against House Margaster for his sister's death. Will not touch the Commission himself — *"when it comes to the Commission, one should keep one's distance"* — which is precisely why he asked the party to.
 **The charge he gave the party:** Find the connection between the Planar Manifold's failure and Elara's death.
 **What party knows:** He named Margaster before pleasantries. He was genuinely moved by the statue's return (Insight confirmed every word), refused to let Vukradin go unrewarded, and gave 50 gp to each companion plus a 50 gp studio donation.
@@ -97,7 +99,7 @@
 
 ### Cullen Sharpe
 **Status:** Alive. House Margaster associate. Hostile, transactional, never raises his voice.
-**Location:** Neverwinter; first encountered at the Moonstone Mask (ch47).
+**Location:** Neverwinter; first encountered at the Moonstone Mask (ch46).
 **Presentation:** Well-tailored dark green suit. Spells his name out letter by letter — "C-U-L-L-E-N, S-H-A-R-P-E." Addresses everyone by name.
 **Active plans:** Monetising the Manifold's failure. Recruiting the party into a "regional distribution" partnership covering the **Phandalin hinterlands**, plus a hinted "opportunity in the city."
 **What party knows:** He ran a forged-writ shakedown in front of them, extracted 200 gp from a grieving man, and denied Margaster involvement in Elara's death when Vukradin accused him directly. His credential when pressed: *"ask around, and everyone will say House Margaster always delivers the goods."*
@@ -112,7 +114,7 @@
 **Position:** On the Lords' Alliance council — **formerly its leading lord until he lost that position during the War of the Dragons.** Funds Castle Never's reconstruction through heavy taxation.
 **Active plans:** Has followed the party "with considerable interest" — specifically their economic impact, their circulation of wealth, and the **Candlekeep Report** on adventuring parties. He knows they rearranged Phandalin's government without his blessing.
 **On Elara:** Officially declared her death a tragic accident and told the city to move on. **Whether that is complicity, containment, or ignorance is the open question** and the GM should decide before the dinner.
-**Status:** A **private dinner is scheduled for the evening after ch47**, arranged via Aldus, with a charitable gala for the music studio as the pretext. Vukradin intends to sell him on UBT.
+**Status:** A **private dinner is scheduled for the evening after ch46**, arranged via Aldus, with a charitable gala for the music studio as the pretext. Vukradin intends to sell him on UBT.
 **The obvious tension:** UBT applied upward reaches Neverember's own gold. His steward hinted he is curious whether Vukradin knows about "the comparisons some sages have drawn between his financial philosophy and that of a large reptile."
 
 ---
@@ -128,9 +130,9 @@
 ---
 
 ### Perrin Alagondar
-**Status:** Alive. **Not yet met as of ch47** (first contact occurs in ch48).
+**Status:** Alive. **Not yet met as of ch46** (first contact occurs in ch47).
 **Location:** Neverwinter.
-**Presents as:** Heir to the Alagondar royal line — Neverwinter's deposed dynasty, in whose absence Neverember rules — claiming the **Necklace of Fireballs** as recovered dynastic treasure. Ser Kaelen's recovery office matched the provenance and named him claimant (ch46).
+**Presents as:** Heir to the Alagondar royal line — Neverwinter's deposed dynasty, in whose absence Neverember rules — claiming the **Necklace of Fireballs** as recovered dynastic treasure. Ser Kaelen's recovery office matched the provenance and named him claimant (ch45).
 **Hidden (not known to party):** He is a **sincere Nasher / Son of Alagondar loyalist** who wants the necklace as a restoration banner. But the provenance documentation was manufactured by a **Margaster-connected source**. Seven beads of Fireball is a portable arson arsenal, and **Margaster is the real beneficiary of the handoff, not Perrin.** Ser Kaelen matched it in good faith and does not know.
 **The cleanest hard clue:** the writ cites the **Dragonbarrow** recovery, but the forged line claims the necklace was *stolen from a house in Neverwinter* — not interred in a tomb in the Sword Coast wilds. **Grave-goods, not heirloom.** Boney can break this story cold; he knew an Alagondar.
 **Key leverage:** exposing this forgery also arms Lord Cassian's case. See `notes/session_prep/20260623_necklace-of-fireballs-neverwinter.md`.
@@ -147,18 +149,18 @@
 ---
 
 ### Falcon the Hunter
-**Status:** Alive, active, road home (ch43–45). Pledged sword to party ("You have my sword").
+**Status:** Alive, active, road home (ch42–44). Pledged sword to party ("You have my sword").
 **Location:** On the road, returning to his lodge post-Anchorites battle.
 **Active plans:** Reclaiming and rebuilding his lodge. Treating three captured orcs as "Employees of the Year," teaching them cutlery and stewardship. Sent a note to Rimardo and Corrin offering patronage.
 **What party knows:** Trusted ally, now firmly interventionist. Admitted the Dragon Slayer lie — he arrived after Iymrith's hoard was plundered and used residual gold and the brass ring as lodge seed capital.
 **Hidden:** The Falcon's drawer holds unexplained items: a wooden labyrinth matching the *Undercity Chorale* libretto, and wooden elven ears inscribed "my dearly beloved." These are unaddressed. The brass ring inscribed with Elvish for *lightning* is Falcon's physical contact point with Iymrith's legacy — the structural hook to her hoard and Phase 3 of Aletra's arc.
-**Active wound:** Left shoulder, lightning bolt (ch43). Not confirmed healed.
+**Active wound:** Left shoulder, lightning bolt (ch42). Not confirmed healed.
 **Key relationships:** Party (ally); three orc employees; Rimardo/Corrin (offered patronage, not yet confirmed received); Adabra (broken).
 
 ---
 
 ### Gorthok
-**Status:** Definitively deceased (ch43). Killed by Soma's Moonbeam after rising from first death. **Resolved.**
+**Status:** Definitively deceased (ch42). Killed by Soma's Moonbeam after rising from first death. **Resolved.**
 **Legacy:** His death by Moonbeam during the Woodland Manse ritual chain confirmed Soma's Druid power and contributed to Talos cult destabilization in the region.
 
 ---
@@ -176,11 +178,11 @@
 
 ### Harbin Wester
 **Status:** Alive. Phandalin Townmaster, operating as political figurehead.
-**Location:** Phandalin. Presided over the victory festival (ch45 area).
+**Location:** Phandalin. Presided over the victory festival (ch44 area).
 **Active plans:** Claiming credit for the party's deeds. Managing the recovery narrative. Politically pragmatic, cowardly when threats are real.
 **What party knows:** He's the Townmaster — cowardly but manageable. Ser Kaelen has been managing him as a puppet to keep Neverwinter from intervening militarily.
 **Hidden:** The Privy Council (Harbin, Tolbin, Elmer, Halia, Linene, Adabra, Vukradin) still nominally exists. Adabra's seat is effectively vacant — who fills it matters for town governance.
-**Ch46 — the pattern to play him on:** he **refused** Vukradin's attempt to strong-arm him into calling a town meeting (Vukradin rolled 10 — *"your intimidation lands as flatly as your sweet tongue would have landed well"*). Then, when Vukradin gathered the town himself and UBT carried the crowd, Harbin **reversed instantly**: stuttered over Vukradin's name, claimed the Privy Council had been weighing the idea for days, and led the *"Huzzah, huzzah, huzzah!"* cheers. He also questioned publicly whether a Tortle and a Barbarian had ties to the community — then joined the cheer that made them honorary citizens. **He cannot be pushed, but he will run in front of any parade that has already started.**
+**Ch45 — the pattern to play him on:** he **refused** Vukradin's attempt to strong-arm him into calling a town meeting (Vukradin rolled 10 — *"your intimidation lands as flatly as your sweet tongue would have landed well"*). Then, when Vukradin gathered the town himself and UBT carried the crowd, Harbin **reversed instantly**: stuttered over Vukradin's name, claimed the Privy Council had been weighing the idea for days, and led the *"Huzzah, huzzah, huzzah!"* cheers. He also questioned publicly whether a Tortle and a Barbarian had ties to the community — then joined the cheer that made them honorary citizens. **He cannot be pushed, but he will run in front of any parade that has already started.**
 **Key note:** Previously attempted to divert temple funds and run off-council transactions. Not trustworthy with unsupervised resources.
 
 ---
@@ -193,9 +195,9 @@
 ---
 
 ### Horia Stonetallow
-**Status:** Alive. Mine overseer. Present at the mine (ch45).
+**Status:** Alive. Mine overseer. Present at the mine (ch44).
 **Location:** Mountain's Toe Gold Mine.
-**Active plans:** Managing mine operations. Anticipates a new gold vein making the operation highly profitable ("rolling in the cash"). Holds a secret addendum to the mine contract, signed by Brewbarry (thumbprints), explicitly designed to be hidden from Vukradin. A fake gem was proposed as part of this scheme (ch37).
+**Active plans:** Managing mine operations. Anticipates a new gold vein making the operation highly profitable ("rolling in the cash"). Holds a secret addendum to the mine contract, signed by Brewbarry (thumbprints), explicitly designed to be hidden from Vukradin. A fake gem was proposed as part of this scheme (ch36).
 **What party knows (incomplete):** She's their mine liaison. Alliance with the Whiskered Gang (wererats) for protection. Mine is operational.
 **Hidden from Vukradin specifically:** The secret addendum signed by Brewbarry. Horia explicitly said keep it from Vukradin. This is a party-internal deception the GM should track.
 **Relationships:** Dwolin the Grout (best gold-seeker she knows); Zeleen Varnaster / Whiskered Gang (protection alliance); Brewbarry (secret addendum partner); Mr. Bucherton (insisted on the no-skimming clause).
@@ -203,32 +205,32 @@
 ---
 
 ### Jenna Roscoe
-**Status:** Alive. Lord's Alliance agent/recruiter. **NOW HOSTILE (ch46), and she has a head start.**
+**Status:** Alive. Lord's Alliance agent/recruiter. **NOW HOSTILE (ch45), and she has a head start.**
 **Location:** **Neverwinter — she arrived ahead of the party.**
-**THE BREAK (ch46):** She argued the legal case for returning treasure to rightful owners — "the dialectics of the financials" — lost the room to Vukradin's UBT proclamation, and was visibly appalled by what she called mob rule. She stormed out of Phandalin entirely and rode for Neverwinter **ahead of the party**, giving her days to brief Lord's Alliance contacts and city officials on the party's unauthorised rearrangement of Phandalin's government before they arrived. Vukradin's parting line: *"I don't know who you are, and I don't care."* Soma's: *"Don't let the door hit you on the way out."*
-**GM significance — the connection to draw:** Lord Neverember's ch47 summons, citing specifically the party's "circulation of wealth" and the Candlekeep Report, arrives suspiciously soon after Jenna reaches the city. **She is the most likely source of his briefing.** The party has not made this connection.
+**THE BREAK (ch45):** She argued the legal case for returning treasure to rightful owners — "the dialectics of the financials" — lost the room to Vukradin's UBT proclamation, and was visibly appalled by what she called mob rule. She stormed out of Phandalin entirely and rode for Neverwinter **ahead of the party**, giving her days to brief Lord's Alliance contacts and city officials on the party's unauthorised rearrangement of Phandalin's government before they arrived. Vukradin's parting line: *"I don't know who you are, and I don't care."* Soma's: *"Don't let the door hit you on the way out."*
+**GM significance — the connection to draw:** Lord Neverember's ch46 summons, citing specifically the party's "circulation of wealth" and the Candlekeep Report, arrives suspiciously soon after Jenna reaches the city. **She is the most likely source of his briefing.** The party has not made this connection.
 **Active plans:** Unknown, but she is no longer recruiting. Her disposition has moved from *neutral recruiter* to *hostile with information advantage*.
 **What party knows:** She's a Lord's Alliance operative who kept approaching them and then walked out. They do not know she reached the city first, or what she said.
-**Hidden:** She previously tried to recruit Brewbarry too (ch29). She dismissed the Kraken Society as a "harmless social club" — a significant intelligence blind spot the GM can exploit. She also called Valphine's church a "torture cult" — this will land poorly with Valphine if repeated.
+**Hidden:** She previously tried to recruit Brewbarry too (ch28). She dismissed the Kraken Society as a "harmless social club" — a significant intelligence blind spot the GM can exploit. She also called Valphine's church a "torture cult" — this will land poorly with Valphine if repeated.
 **Leverage she holds:** Lord's Alliance resources; intelligence network; access to Sister Kaella leads (unconfirmed if she found her).
 
 ---
 
 ### Lady Alagondar's Ghost
-**Status:** Non-corporeal specter. Appeared once (ch33), stared toward the Ice Spire Mountains, faded.
+**Status:** Non-corporeal specter. Appeared once (ch32), stared toward the Ice Spire Mountains, faded.
 **Significance:** Previous owner of Boney. Appeared after the Dragon Slayer Sword was recovered. Her sustained gaze toward the Ice Spires is unexplained — a dormant hook, possibly tied to Cryovain or the northern arc.
 
 ---
 
 ### Linene Graywind
-**Status:** Alive. Lionshield Coster manager, Phandalin. **Promoted from friendly merchant to structural ally (ch46).**
+**Status:** Alive. Lionshield Coster manager, Phandalin. **Promoted from friendly merchant to structural ally (ch45).**
 **Location:** Lionshield Coster, Phandalin.
-**Active plans (ch46):**
+**Active plans (ch45):**
 - **UBT:** produced a Candlekeep text — "the Sage's Universal Theorem for Income Distribution" — in support of the proposal, and volunteered to **chair the subcommittee drafting the distribution rules**, under Vukradin's supervision, within a week or two. **She is the person actually implementing UBT while the party is out of town.**
 - **Brewbarry's patron:** agreed to serve as his wealth management consultant for the bathrobe venture and adopted it as her own — *"Brewbarry, this is your personal quest, now it is my personal quest."* Valphine's Insight (19) confirmed she meant it. Wrote him a letter of introduction to the Counting House.
 - **The supply-chain ask:** flagged that the Coster's cheap distribution method has been replaced by costlier ones and asked the party to investigate in Neverwinter.
 **What party knows:** All of the above. She paid more than twice Barthen's price for their planar-effect pelts and remains interested in planar goods for her superiors.
-**Hidden — and this is the join:** **The disruption Linene reports IS the Planar Manifold going dark**, which Lord Cassian explains in ch47. She is the Phandalin-side symptom of the Neverwinter-side mystery and **she does not know why it happened.** The party can close this loop themselves; nobody has to tell them.
+**Hidden — and this is the join:** **The disruption Linene reports IS the Planar Manifold going dark**, which Lord Cassian explains in ch46. She is the Phandalin-side symptom of the Neverwinter-side mystery and **she does not know why it happened.** The party can close this loop themselves; nobody has to tell them.
 **GM:** she is now the party's single most load-bearing non-combat NPC — she holds their town's new constitution *and* Brewbarry's business. Threatening her threatens both.
 
 ---
@@ -247,9 +249,9 @@
 ---
 
 ### Prutha
-**Status:** Alive, ardent Lathandrite convert. **DEPARTED THE PARTY (ch46).**
+**Status:** Alive, ardent Lathandrite convert. **DEPARTED THE PARTY (ch45).**
 **Location:** **Icespire Hold**, with his five orc converts.
-**DEPARTED (ch46) — treat this as a loaded gun.** Prutha and his five converts split from the party at Icespire Hold to begin a missionary campaign converting **Vorga's tribe** to Valphine's version of Lathander worship. The DM flagged the consequences twice and explicitly: ***"That will have consequences."*** An unsupervised zealot who "takes everything entirely," with no governance structure, no Valphine present to moderate doctrine, and an orc warchief's tribe as his congregation — inside the fortress where Cryovain was bound.
+**DEPARTED (ch45) — treat this as a loaded gun.** Prutha and his five converts split from the party at Icespire Hold to begin a missionary campaign converting **Vorga's tribe** to Valphine's version of Lathander worship. The DM flagged the consequences twice and explicitly: ***"That will have consequences."*** An unsupervised zealot who "takes everything entirely," with no governance structure, no Valphine present to moderate doctrine, and an orc warchief's tribe as his congregation — inside the fortress where Cryovain was bound.
 **Active plans:** Converting Vorga's orcs. Zealous devotee of "the true prophet" (Valphine). Will charge into combat screaming.
 **What party knows:** He's a devoted orc follower of Valphine. Speaks halting Common. Stolen a candelabra and a bathrobe. Walked out of a Zone of Truth mid-truth.
 **Hidden:** His great-uncle's teaching is driving him ("Dawn comes for everyone, even those born in shadow"). He takes everything entirely — useful in combat, volatile in diplomacy. His five orc followers are a nascent Lathandrite orc cult. This could grow into something significant for Valphine's arc.
@@ -258,8 +260,8 @@
 ---
 
 ### Rimardo
-**Status:** Vanished from Falcon's Lodge when lamps guttered (ch44). Whereabouts unknown.
-**Location:** Unknown. Falcon's note offering patronage (ch45) not confirmed received.
+**Status:** Vanished from Falcon's Lodge when lamps guttered (ch43). Whereabouts unknown.
+**Location:** Unknown. Falcon's note offering patronage (ch44) not confirmed received.
 **Active plans:** Operating as the voice and structure of the Rimardo-and-Corrin act. Next staged appearance: Wayside Inn (see DM Notes).
 **What party knows:** Bombastic, theatrical "comedy act" who appeared uninvited at the Lodge. Treated the boar battle as a "botched theatrical booking." Made a cryptic promise to perform with Vukradin "at the very end." Hired three confused orc stewards, paying in "exposure."
 **Hidden:** Rimardo is the voice of the CounterForce — the procedural, contractual, mock-legalistic half of Savras's caught Oerth fate-echo (Istus). He talks like the system and reveals how the trick is done, which is how he breaks it. His warnings ("a storm that is touring," "a sealed door beneath the stage," "the understudy playing the lead dragon role") are genuine prophetic intelligence wrapped in comedy.
@@ -269,12 +271,12 @@
 
 ### Ser Kaelen Thorne
 **Status:** Alive, active. Order of the Gauntlet liaison, present in Phandalin.
-**Location:** Phandalin (waiting for the party with "open arms" ch36; found them immediately ch39).
+**Location:** Phandalin (waiting for the party with "open arms" ch35; found them immediately ch38).
 **Active plans:** Managing town politics (keeping Harbin as puppet to block Neverwinter military intervention). Handling artifact logistics. Liaising with the Emerald Enclave on Soma's staff status. Supporting the party.
 **What party knows:** Trusted Order of the Gauntlet liaison. Formally declared Vukradin a "full-fledged member" of the Order (ch16) to clear his name. Has a sending stone.
 **Hidden:** The Order cannot intervene militarily due to War of the Dragons, War of the Giants, and other ongoing wars. Kaelen's formal endorsement of Vukradin may not be sanctioned beyond his own authority — uncertain. He views Adabra as "mad." His accusation of dealing in "blood money" by Jenna (ch10–ish) is unsubstantiated but unresolved.
 **Uncertainty:** His possible ownership of Stonehill Tavern (ch10 fact, never confirmed or denied). Whether Soma's staff evaluation has formally concluded in her favor.
-**Ch46 developments — four separate threads he handed the party:**
+**Ch45 developments — four separate threads he handed the party:**
 - Reported that the remaining rightful owners of the recovered treasure are **all in Neverwinter** — none left in Phandalin. Openly frustrated the mermaid statue still hadn't been returned.
 - Reported **no success locating Sister Kaella.**
 - Raised the awkward UBT eligibility sidebar (does the Order get a share; what defines a citizen), then was handed the **fused dragon slag** to extract for the fund. He still holds it.
@@ -284,23 +286,23 @@
 ---
 
 ### Sister Kaella
-**Status:** Missing. "Gone to the wind." Departed the party (ch38) by walking away.
-**Location:** Unknown. Vukradin's ch45 comment "as long as Sister Kaella's still breathing" implies she is presumed alive.
-**What party knows:** Former Carver spymaster, captured, interrogated (ch33–34), temporarily allied. Revealed the Carver's Icespire Hold plan. Left on her own terms.
+**Status:** Missing. "Gone to the wind." Departed the party (ch37) by walking away.
+**Location:** Unknown. Vukradin's ch44 comment "as long as Sister Kaella's still breathing" implies she is presumed alive.
+**What party knows:** Former Carver spymaster, captured, interrogated (ch32–33), temporarily allied. Revealed the Carver's Icespire Hold plan. Left on her own terms.
 **Hidden:** She added herself to the Carver's kill list after being accused of intelligence failures. She is now a fugitive from both the Carver's remnants and her old network. Vukradin views her as a "failsafe" — she knows something critical about the narrator's stakes. Her loose-end status is intentional.
-**Forward hook:** Jenna Roscoe offered to find her (ch44). Whether Jenna has leads is unconfirmed. If Sister Kaella resurfaces, her intelligence about the Carver's late-stage plans (binding Cryovain) may have ongoing relevance.
+**Forward hook:** Jenna Roscoe offered to find her (ch43). Whether Jenna has leads is unconfirmed. If Sister Kaella resurfaces, her intelligence about the Carver's late-stage plans (binding Cryovain) may have ongoing relevance.
 
 ---
 
 ### Talos
 **Status:** Active deity. His cult in the region has been significantly disrupted (Anchorites beaten, Gorthok killed, Woodland Manse cleared) but the god himself is not affected.
-**Significance for planning:** The Anchorite killed (ch44) and Gorthok's death (ch43) represent major ritual failures. Whether Talos dispatches renewed pressure or the regional Talos threat is genuinely resolved through ch45 needs GM confirmation. The Talos / Adabra intersection (Adabra's non-interventionist theology tolerates Talos cults as "natural processes") is worth watching.
+**Significance for planning:** The Anchorite killed (ch43) and Gorthok's death (ch42) represent major ritual failures. Whether Talos dispatches renewed pressure or the regional Talos threat is genuinely resolved through ch44 needs GM confirmation. The Talos / Adabra intersection (Adabra's non-interventionist theology tolerates Talos cults as "natural processes") is worth watching.
 
 ---
 
 ### The Carver
-**Status:** Stopped / Destroyed. Active threat through approximately ch36. **Resolved.**
-**Legacy:** His plan to bind Cryovain at Icespire Hold and burn Phandalin was the primary arc through ch36. Sister Kaella defected from him. The sentient sword Xal'vosh (Mind-Blade) may have survived — status unconfirmed, see latent trigger above.
+**Status:** Stopped / Destroyed. Active threat through approximately ch35. **Resolved.**
+**Legacy:** His plan to bind Cryovain at Icespire Hold and burn Phandalin was the primary arc through ch35. Sister Kaella defected from him. The sentient sword Xal'vosh (Mind-Blade) may have survived — status unconfirmed, see latent trigger above.
 
 ---
 
@@ -311,9 +313,9 @@
 ---
 
 ### Xanthopoulos
-**Status:** Alive. Departed party (ch40) after the Anchorite ambush. Location unknown — walked into trees.
+**Status:** Alive. Departed party (ch39) after the Anchorite ambush. Location unknown — walked into trees.
 **Active plans:** Independent. Will likely resurface if the party returns to the region or encounters the northern Icespire/forest threats again.
-**What party knows:** Enormous centaur displaced from Icespire Mountains. Knows the forest network deeply. Connected to Meril (old friend). Confirmed Soma as Meril's legitimate successor. Struck by lightning bolt (ch40) — not confirmed healed.
+**What party knows:** Enormous centaur displaced from Icespire Mountains. Knows the forest network deeply. Connected to Meril (old friend). Confirmed Soma as Meril's legitimate successor. Struck by lightning bolt (ch39) — not confirmed healed.
 **Forward hook:** His displacement by the white dragon from the Icespire Mountains is directly connected to the Cryovain thread. If the party pursues the dragon or the northern arc, he's a natural ally with intelligence and skin in the game.
 
 ---
@@ -337,7 +339,7 @@
 
 ### Emerald Enclave
 **Current goals:** Politically fractured. The council is divided between Adabra's non-interventionist faction (now politically dominant after the Whispering Grove debacle) and the interventionist faction the party aligns with.
-**Active operations:** Adabra is conducting a "different battlefield" campaign against the party's philosophical position. Lyra's ostracization is ongoing. Soma's staff status was contested (ch37–39); Kaelen says she "was able to keep" it.
+**Active operations:** Adabra is conducting a "different battlefield" campaign against the party's philosophical position. Lyra's ostracization is ongoing. Soma's staff status was contested (ch36–38); Kaelen says she "was able to keep" it.
 **Relationship to party:** Hostile (Adabra faction), technically neutral (council majority).
 
 ### Whiskered Gang (Wererats)
@@ -359,13 +361,13 @@
 
 ### Lionshield Coster
 **Current goals:** Investigating planar-effect pelts from the party. Expanding intelligence on Neverwinter Wood's strange navigation anomalies. Restoring cheap regional distribution.
-**Constraints:** **RESOLVED as of ch47 — the cause is now known to the GM.** The Coster was the **primary client** of the Commission's Displacement Manifold at the Neverwinter docks. The manifold went dark roughly seven weeks ago and regional distribution collapsed with it. Linene reported the symptom in ch46 without knowing the cause; Cassian supplied the cause in ch47.
+**Constraints:** **RESOLVED as of ch46 — the cause is now known to the GM.** The Coster was the **primary client** of the Commission's Displacement Manifold at the Neverwinter docks. The manifold went dark roughly seven weeks ago and regional distribution collapsed with it. Linene reported the symptom in ch45 without knowing the cause; Cassian supplied the cause in ch46.
 **Relationship to party:** Friendly trading partner and now a structural ally via Linene. Brewbarry's bathrobe venture ships through them, so **the Coster's distribution problem is now the party's business problem.**
 
 ---
 
 ### The Commission / Neverwinter Commission
-*New (ch47). Opaque. Operator of the Planar Manifold.*
+*New (ch46). Opaque. Operator of the Planar Manifold.*
 **Current goals:** Unknown. Runs the **displacement manifold** at the Neverwinter docks as a **commercial service** — goods arrive by sea, the manifold distributes them across the region.
 **Active operations:** The manifold has been dark ~7 weeks. **"Nobody official will say why."** Its regular technician — an unnamed gnome — has not been seen since.
 **Relationship to party:** None yet. Lord Cassian's standing advice: *"when it comes to the Commission, one should keep one's distance."* He will not approach them himself, which is why he asked the party to.
@@ -374,7 +376,7 @@
 ---
 
 ### House Margaster
-*ESCALATED TO ON-SCREEN ANTAGONIST (ch47).* Waterdhavian noble house; demonic connections; formerly funded the Order of the Gauntlet ("blood money").
+*ESCALATED TO ON-SCREEN ANTAGONIST (ch46).* Waterdhavian noble house; demonic connections; formerly funded the Order of the Gauntlet ("blood money").
 **Current goals:** Monopolise regional distribution in the Manifold's absence; acquire the Necklace of Fireballs.
 **Method — and this is the thing to run them on:** **legal instruments nobody dares test, not open violence.** Cullen Sharpe presented a forged Harbor Authority writ claiming prior salvage on the returned statue and extracted 200 gp from a grieving nobleman who then insisted publicly he had not been swindled. **The party identified the forgery and did not contest it.**
 **Business position:** "Considerable expertise in regional distribution since the unfortunate disruption at the docks." **Whether they caused the manifold failure or merely moved into the vacuum is the open question — and it is the same question Elara died asking.**
@@ -386,14 +388,14 @@
 ---
 
 ### The Zhentarim
-*Background faction, established ch47. Not yet encountered.*
+*Background faction, established ch46. Not yet encountered.*
 **Per the DM:** not criminals — "they just view that market dynamics should not be constrained by regulatory systems. They are **amoral**, is a better way to describe it." They do, however, "tend to attract people of the evil persuasion."
 **Relevance:** the campaign's live argument is now about **who controls the circulation of wealth.** A faction of principled deregulationists is the natural ideological counterweight to Universal Basic Treasure, and has not yet been aimed at the party.
 
 ---
 
 ### The Harpers
-*Background faction, established ch47. Not yet encountered.*
+*Background faction, established ch46. Not yet encountered.*
 **Per the DM:** "anarcho-syndicalists" committed to decentralized power — "their idea of a perfect world is everybody lives in a nice village, and nobody bothers each other" — preserved, ironically, "by creating a secretive organization that trades in secrets and power."
 **Relevance:** structurally **the closest faction to Vukradin's actual politics**, and the one that would most object to his methods. A Harper who admires UBT and despises how he got it is a ready-made foil.
 
@@ -401,9 +403,9 @@
 
 ### Lord's Alliance
 *Active, expansionist, and now positioned against the party's Phandalin project.*
-**Composition (ch47):** a council of the city-states of the North — Waterdeep, Neverwinter, Silverymoon, Baldur's Gate. The DM's shorthand: "the plutocrats," committed to "firm borders, policing, proper governance, and control."
+**Composition (ch46):** a council of the city-states of the North — Waterdeep, Neverwinter, Silverymoon, Baldur's Gate. The DM's shorthand: "the plutocrats," committed to "firm borders, policing, proper governance, and control."
 **Leadership:** Open Lord **Lady Laeral Silverhand** of Waterdeep. **Lord Dagult Neverember** remains on the council but **lost the leading position during the War of the Dragons.** Also named: Grand Duke **Ulder Ravengard** of Baldur's Gate, **Taern "Thunderspell" Hornblade**.
-**THE TERRITORIAL CLAIM (ch46):** an Alliance broadsheet in the Protector's Enclave — fronted by a wood-cut of **Orsik, Defender of Parnast and Champion of the North** — carries a jurisdiction map on the reverse with a **dotted line extending over Neverwinter Wood, Leilon, and Phandalin.** Paired with a plaque crediting the Alliance for "liberating the Ordning," this is a soft-power annexation campaign aimed at the party's home town.
+**THE TERRITORIAL CLAIM (ch45):** an Alliance broadsheet in the Protector's Enclave — fronted by a wood-cut of **Orsik, Defender of Parnast and Champion of the North** — carries a jurisdiction map on the reverse with a **dotted line extending over Neverwinter Wood, Leilon, and Phandalin.** Paired with a plaque crediting the Alliance for "liberating the Ordning," this is a soft-power annexation campaign aimed at the party's home town.
 **Orsik:** a retired adventurer living quietly in Parnast, shielded by a friend from learning what he actually accomplished. The Alliance "thinks it's very convenient that he's become ignorant of what he's accomplished" — **a living propaganda asset who cannot contradict his own poster.**
 **Local rep: Jenna Roscoe — now hostile,** and she reached Neverwinter ahead of the party.
 **Relationship to party:** deteriorating. **The party's home town has been claimed on paper before anyone told the town.**
@@ -415,11 +417,11 @@
 Ordered by urgency (forward pressure, nearest trigger).
 
 ### 1. The Planar Manifold and the Missing Gnome (LIVE — Critical)
-**Status:** **Executing.** The party is in Neverwinter and Lord Cassian formally charged them (ch47) with finding the connection between the manifold's failure and Elara's death.
-**What's established on screen:** The **displacement manifold** at the docks, run commercially by the **Neverwinter Commission**, went dark ~7 weeks ago. Its primary client was the **Lionshield Coster** — the same disruption Linene reported from Phandalin in ch46. Elara was investigating when she was killed and believed the timing was not coincidental. **Nobody official will say why it stopped.**
+**Status:** **Executing.** The party is in Neverwinter and Lord Cassian formally charged them (ch46) with finding the connection between the manifold's failure and Elara's death.
+**What's established on screen:** The **displacement manifold** at the docks, run commercially by the **Neverwinter Commission**, went dark ~7 weeks ago. Its primary client was the **Lionshield Coster** — the same disruption Linene reported from Phandalin in ch45. Elara was investigating when she was killed and believed the timing was not coincidental. **Nobody official will say why it stopped.**
 **The gnome:** Elara met the manifold's regular technician twice at the docks and wrote down her description — *"Smaller, older, very precise, the kind of person who asks questions that go past the job… he seemed more interested in **why** the planar routing worked than whether it was functioning, like he was mapping something. She found it unsettling at the time and didn't know why."* **No name given on screen.** He has not been seen since the manifold stopped.
 **GM — the irony trap is now armed:** the gnome is **Bimble Nackle**. **He is not KP.** The players will assume he is; that assumption is the point. Preserve it as long as possible. See `docs/KP.md`.
-**Converging signals the party already holds:** Soma's planar anomaly on the dragon slag, which she tied unprompted to *"that stag"* and *"those weird gnome things"* (ch46). She is one conversation away from connecting the threads herself.
+**Converging signals the party already holds:** Soma's planar anomaly on the dragon slag, which she tied unprompted to *"that stag"* and *"those weird gnome things"* (ch45). She is one conversation away from connecting the threads herself.
 **Intersection:** Aletra's Phase 1 debut can still stage here.
 
 ### 2. Elara Meliamne's Murder (LIVE — Critical)
@@ -434,20 +436,20 @@ Ordered by urgency (forward pressure, nearest trigger).
 **Open offers:** Cullen pitched the party a distribution partnership covering the **Phandalin hinterlands**, plus a hinted "opportunity in the city." Party listened, committed to nothing.
 **The second rope:** the forged Alagondar provenance on the Necklace of Fireballs. **The party holds two identified forgeries and has used neither.** That is the pressure to release when they finally move.
 
-### 4. Shrine of Savras — ABANDONED (ch46). **The CounterForce reveal is stranded.**
-**Status:** **The party explicitly dropped this quest in ch46** in favour of travelling straight to Neverwinter. Never visited, never cleared. *This entry previously read "Confirmed active objective" — that was the ch45 state.*
+### 4. Shrine of Savras — ABANDONED (ch45). **The CounterForce reveal is stranded.**
+**Status:** **The party explicitly dropped this quest in ch45** in favour of travelling straight to Neverwinter. Never visited, never cleared. *This entry previously read "Confirmed active objective" — that was the ch44 state.*
 **What was staged there:** the Shrine was the CounterForce's confirmation signal — a second Rimardo/Corrin playbill placed on arrival, revealing **Savras himself is the channel for the R&C phenomenon**. Intended playbill text: *"Prophecy is what powerful people call a guess after it becomes profitable."*
 **THE PROBLEM:** that reveal now **has no delivery vector.** It needs either (a) a new venue, (b) a reason for the party to double back, or (c) reassignment to the next R&C appearance. **GM decision required — this is the highest-value stranded content in the document.**
-**Note:** R&C did reappear in ch48 at the Counting House as "divine accountants," which is a natural home for a reassigned playbill if the GM wants one.
+**Note:** R&C did reappear in ch47 at the Counting House as "divine accountants," which is a natural home for a reassigned playbill if the GM wants one.
 
 ### 5. Universal Basic Treasure — Will It Survive Contact? (LIVE — Active, offstage)
-**Status:** Proclaimed and cheered (ch46); **not implemented.**
+**Status:** Proclaimed and cheered (ch45); **not implemented.**
 **Outstanding:** Linene's subcommittee has a week or two to draft distribution rules; eligibility is unsettled (property owners vs renters, immigrants, a 50%+ residency requirement, primary residence, Zone of Truth attestation); whether the Order of the Gauntlet gets a share was raised by Ser Kaelen and left open; the party's 5% "organic fair trade" cut is negotiated but untested.
 **The seed asset is blocked:** ~3,000 gp of Cryovain's hoard fused into one mass inside a magical containment. Dispel Magic and Remove Curse both rejected; Soma detected a **planar anomaly**. Ser Kaelen holds it and needs a Neverwinter expert. **UBT cannot pay out until this is solved — which chains Active Plot 5 to Active Plot 1.**
 **The bill:** the party rearranged a town's government inside the Lord Protector's sphere **without asking him, and he has noticed.** That bill comes due over dinner.
 
 ### 6. Prutha's Crusade (LIVE — Ominous, offstage)
-**Status:** Running unsupervised at Icespire Hold since ch46.
+**Status:** Running unsupervised at Icespire Hold since ch45.
 **Setup:** Prutha and five orc converts left to convert **Vorga's tribe** to Valphine's Lathanderite doctrine. **The DM flagged it explicitly and twice: "That will have consequences."**
 **Why it's loaded:** no governance structure, no supervision, no Valphine to moderate doctrine, a zealot who "takes everything entirely," and an orc warchief's tribe as congregation — inside the fortress where a dragon was bound. Vorga is currently a **warm ally**; that is the thing at risk.
 **Trigger:** any return to Icespire Hold, or a messenger/Sending from Vorga.
@@ -490,7 +492,7 @@ Ordered by urgency (forward pressure, nearest trigger).
 ## DM Notes
 
 ### Convergence points approaching
-- **Neverwinter is no longer "approaching" — the party is in it (ch47).** The hub materialised as designed and then some: the Bimble Nackle irony trap is armed, the Lionshield interplanar failure resolved into the Commission's Manifold, Jenna Roscoe arrived hostile and ahead of them, and House Margaster escalated from background threat to on-screen antagonist inside a single evening. **What was not designed: Elara is dead, which removed the "loot unlock" mechanism entirely and replaced it with a murder investigation.** Aletra's Phase 1 debut can still stage here.
+- **Neverwinter is no longer "approaching" — the party is in it (ch46).** The hub materialised as designed and then some: the Bimble Nackle irony trap is armed, the Lionshield interplanar failure resolved into the Commission's Manifold, Jenna Roscoe arrived hostile and ahead of them, and House Margaster escalated from background threat to on-screen antagonist inside a single evening. **What was not designed: Elara is dead, which removed the "loot unlock" mechanism entirely and replaced it with a murder investigation.** Aletra's Phase 1 debut can still stage here.
 - **The three Neverwinter set-pieces are now booked and should be run in order:** dawn service at the Spire (Valphine vs Brother Aldric, and the golden-eyes question), the Neverember dinner (UBT vs the Crown's gold, and whether his Elara ruling is complicity), and private tea at Cassian's (Margaster and the Manifold, spoken freely).
 - **The party holds two identified forgeries and has spent neither** — the Harbor Authority writ and, once they check it, the Alagondar provenance. That is the accumulated pressure available whenever the GM wants the Margaster thread to turn.
 - **Wayside Inn** is the next R&C payoff. Time it to arrive just before the Leilon tier opens — so the party recognizes the pattern before the Splinter Colony schism reveal hits them.
@@ -504,21 +506,21 @@ All CounterForce content should route to Vukradin first. He can read performance
 
 ### NPCs whose paths are about to cross
 - **Adabra and Grundar:** The grundar_score doc notes that Adabra might inadvertently lead the party to Grundar's ritual site (Phase 3), believing it to be "interventionist corruption." If Adabra is reintroduced before the Grundar arc escalates, this convergence is available.
-- **Sister Kaella and Jenna Roscoe:** Jenna offered to find Sister Kaella (ch44). If Jenna delivers, Sister Kaella's reappearance carries the question of what she knows about the Carver's late-stage plans (the Icespire Hold / Cryovain arc) and what Vukradin meant by "failsafe."
+- **Sister Kaella and Jenna Roscoe:** Jenna offered to find Sister Kaella (ch43). If Jenna delivers, Sister Kaella's reappearance carries the question of what she knows about the Carver's late-stage plans (the Icespire Hold / Cryovain arc) and what Vukradin meant by "failsafe."
 - **Falcon and Rimardo/Corrin:** Falcon sent them a patronage note. Whether they accept is unconfirmed, but the Lodge as a comedy-act venue is now structurally possible. Next R&C appearance there would be a public act Falcon organized — very different from the uninvited first performance.
 - **Aletra and Valphine:** Aletra's Phase 1 reappearance should be staged so Valphine encounters her in a context where Aletra is not obviously hostile. The dossier's framing (posing as an alchemist, collecting planar samples) gives the GM room to make this an uncertain reunion rather than an immediate combat.
 
-### Arc score candidate events (post-ch45 GM verification)
+### Arc score candidate events (post-ch44 GM verification)
 The following PC arc score candidates from prior sessions are awaiting GM verification before scores are updated (see `party_draft.md` for full details):
-- **Brewbarry:** ch39 voodoo bundles / ch45 stirge grab / ch44 wine refusal (three candidates)
-- **Valphine:** ch40–41 orc conversions / ch44–45 Doom Sphere / ch45 Zone of Truth (three candidates, Zone of Truth is weakest)
-- **Soma:** ch43 Moonbeam kill of Gorthok / ch40–41 Circle of Thunder disruption / ch38 Druid Council vote / ch40–45 recurring maternal anchor (four candidates)
+- **Brewbarry:** ch38 voodoo bundles / ch44 stirge grab / ch43 wine refusal (three candidates)
+- **Valphine:** ch39–40 orc conversions / ch43–44 Doom Sphere / ch44 Zone of Truth (three candidates, Zone of Truth is weakest)
+- **Soma:** ch42 Moonbeam kill of Gorthok / ch39–40 Circle of Thunder disruption / ch37 Druid Council vote / ch39–44 recurring maternal anchor (four candidates)
 
 **Player attribution — SETTLED 2026-08-13.** Brewbarry is **Stéphane Bourdeaud's**; Valphine is **Gary Young's**. Confirmed by the GM and corroborated by the 2026-08-11 recording, where Brewbarry's lines are on Stéphane's own channel. Gary covers Brewbarry only on sessions Stéphane misses. `characters/*.md` were corrected from the `kostadis1` D&D Beyond export account to real player names on the same date. **This no longer blocks the Brewbarry arc-score candidates above.**
 
-### Ch46–47 arc score candidates (added by hand; GM verification pending)
+### Ch45–46 arc score candidates (added by hand; GM verification pending)
 See `docs/party.md` for the full entries. In brief:
-- **Valphine:** the golden eyes (ch46–47) — a state change rather than an act; GM should decide whether Searing Dawn advances on being *recognised* as blessed or only on deeds. Also Prutha's unsupervised evangelism at Icespire Hold as a second-order **+3 NPC Conversion** (the conversions are his, the doctrine is hers).
-- **Soma:** reading the dragon slag's planar anomaly as a *motivated* signature and connecting it to "that stag" and "those weird gnome things" (ch46) → **+2 Subtle Discernment**.
-- **Brewbarry:** the cheese tasting (ch46) — thematically the bathrobe/softness arc rather than Thistle's Echo; GM's call whether it scores on the existing track at all.
+- **Valphine:** the golden eyes (ch45–46) — a state change rather than an act; GM should decide whether Searing Dawn advances on being *recognised* as blessed or only on deeds. Also Prutha's unsupervised evangelism at Icespire Hold as a second-order **+3 NPC Conversion** (the conversions are his, the doctrine is hers).
+- **Soma:** reading the dragon slag's planar anomaly as a *motivated* signature and connecting it to "that stag" and "those weird gnome things" (ch45) → **+2 Subtle Discernment**.
+- **Brewbarry:** the cheese tasting (ch45) — thematically the bathrobe/softness arc rather than Thistle's Echo; GM's call whether it scores on the existing track at all.
 - **Vukradin:** no arc score mechanic by design. Do not invent one, even though UBT is the largest thing he has ever done.

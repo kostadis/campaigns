@@ -2339,9 +2339,9 @@ entities:
     narration's rendering of the first-hearing joke was changed from 'Oral B. Vance'
     to 'Aurum Bee Vance' at GM instruction, to strip the real-world brand reference;
     the party mishears his name as something that sounds like a meadery before he
-    restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a
-    one-time in-fiction mishearing, blessed as a comic beat, and a future consistency
-    or spell pass must not silently normalize it to Aurelan.
+    restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a one-time
+    in-fiction mishearing, blessed as a comic beat, and a future consistency or spell
+    pass must not silently normalize it to Aurelan.
 - name: dreamlily
   type: item
   provenance: on_the_fly
@@ -2366,6 +2366,16 @@ entities:
     NARRATION at GM instruction (2026-08-16 stage-3 de-anachronization pass), replacing
     the transcript''s real-world ''Chinese wall'' joke - NOT played at the table and
     NOT in prep.'
+- name: Orcanese
+  type: concept
+  aliases:
+  - Orc language
+  - Orcish
+  source: GM ruling, voice-smooth review round 2, 2026-08-18
+  note: 'Table term for the Orc language. GM-confirmed 2026-08-18: not a transcription
+    garble of "Orcish" — "Orcanese is our way of saying ''orc language''" at this
+    table. First heard scene 10 of the 2025-05-28 (chapter 3) session: "Do you speak
+    Orcanese?"'
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls
