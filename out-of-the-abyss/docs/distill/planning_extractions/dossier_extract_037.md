@@ -1,0 +1,15 @@
+## Dorbo Diggermattock
+
+Chief Dorbo Diggermattock was found sitting behind a stone desk on a raised dais at the back of Diggermattock Hall, alongside his assistant Quartermaster Senni. He is the chief of Clan Diggermattock, which had taken territory in Blingdenstone from the Drow. He had issued a critical memo stating that all Drow escapees must be escorted immediately to him, as any intelligence about the Drow was of vital importance for preparing the community's defenses. A sergeant had failed to thoroughly read this memo, leading to the guards having to chase down the party. When the party arrived, Dorbo greeted them and asked for their identity. He then engaged in a heated, muttering discussion with Senni, complete with visible finger-pointing and argument, apparently debating how to handle the party's request for passage to the Overbright versus the community's needs.
+
+## Senni Diggermattock
+
+Quartermaster Senni Diggermattock sat behind a stone desk on the raised dais in Diggermattock Hall alongside Chief Dorbo. After a heated, muttering argument with Dorbo, she addressed the party directly, confirming the community's ooze problem. She explained that while they would normally be delighted to help the party reach the Overbright, Blingdenstone was suffering from an ooze infestation. Since the party had "graciously volunteered," she stated the gnomes expected them to deal with the oozes before receiving any assistance with their journey. She serves as Dorbo's assistant and quartermaster for Clan Diggermattock.
+
+## Jimjar
+
+Jimjar was consulted by the party before they agreed to follow the deep gnome guards. He offered a bet of five empty spell gems, wagering that meeting with the gnomes was the right thing to do, but hinted that the party would have to deal with the oozes plaguing the community. His prediction proved correct when Senni Diggermattock confirmed the ooze quest.
+
+## Glabbagool
+
+Glabbagool, the party's friendly sentient gelatinous cube companion, was present throughout the journey through Blingdenstone. He repeatedly and emphatically corrected anyone who might conflate him with an ooze, insisting he was a cube — a totally different species — highlighting his higher viscosity and ability to maintain a square shape. His presence caused nervousness among non-adventuring deep gnomes unaccustomed to seeing a friendly gelatinous cube. He expressed confusion about why his "fat friends" (the oozes) were causing the gnomes pain, noting from experience that oozes were "very not talkative." When the party described shambling mounds to him, he became very excited and asked if they contained treasure when they exploded. He demonstrated his abilities by extending a pseudo-pod, explaining he could both absorb things and punch them. He confirmed that there were indeed many oozes causing problems for the gnomes.

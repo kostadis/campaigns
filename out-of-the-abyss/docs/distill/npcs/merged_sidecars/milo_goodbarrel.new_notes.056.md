@@ -1,0 +1,3 @@
+# New notes for Milo Goodbarrel (from dossier_extract_056.md)
+
+Milo Goodbarrel does not appear in person in this chunk. He is referenced as the signatory on the secondary inscription on the back of the Tarvis Ulain monument in Daggerford's market square. The inscription reads "Witnessed and recorded for the Gauntlet" and is signed by Milo Goodbarrel, identified as the head of some publishing concern and a member of the Order of the Gauntlet. Thorin notes that Milo personally signed off on the monument. No further information about him is given, and he is not present at any point during these events.
