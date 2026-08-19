@@ -17,7 +17,7 @@ scene: Archaeologists and Altars
 focus: The bard demands the sending stones, agrees to stay only "if there are no stories," and is promptly conscripted by Dazlyn to be the evening's storyteller — the negotiation turns on his profession.
 
 ## Scene 4
-narrator: Valphine
+narrator: Valphine Sotorra
 chunks: 4
 scene: The Skull Cavity
 focus: Her quiet "We found 10" and the pointed dagger-sharpening during the gem negotiation give the drow's coldly amused view of Vukradin's incomprehensible moral streak terrifying two dwarves into a fifty-fifty split.
@@ -29,7 +29,7 @@ scene: Exploring the Stone Bedrooms
 focus: Her dry running commentary — "Do they not believe in just having normal doors in this place?" and stone beds that "last forever" — frames the mundane exploration while Vukradin's back-and-forth reporting gag is born before her eyes.
 
 ## Scene 6
-narrator: Valphine
+narrator: Valphine Sotorra
 chunks: 6
 scene: The Priest's Remains
 focus: The palming of the "greed is good" holy symbol is her scene entirely — a first act of larceny performed under the watching eyes of Soma and Brewbarry, followed by the blandest announcement of a corpse ever delivered.
@@ -53,7 +53,7 @@ scene: Amateur Archaeologists
 focus: His insight catches the dwarves "spewing words hoping you won't notice," and his wounded "Well, why can't they just be honest with me?" makes the fraud reveal a personal betrayal before he closes the account and claims the sending stones.
 
 ## Scene 10
-narrator: Valphine
+narrator: Valphine Sotorra
 chunks: 10
 scene: Ambush on the Road
 focus: As four orcs crest the hill, she steps forward as translator, explaining her fluency with chilling drow economy — "I mean, we had servants" — while sizing up a fight the spell-drained party can barely afford.

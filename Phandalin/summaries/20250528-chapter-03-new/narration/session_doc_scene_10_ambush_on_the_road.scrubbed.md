@@ -10,7 +10,7 @@ The road back to town is a straight, dull promise of fifty gold pieces, payment 
 
 Orcs. Four of them cresting the rise with weapons already drawn, spreading to block the road. An ambush, in the sense that a door slamming is an argument. It fails at the one thing an ambush exists to do: not one of us flinches. In Menzoberranzan an ambusher who announces herself is executed by her own house for wasting the knife. Here, apparently, one simply stands on a hill and hopes.
 
-What concerns me is not the orcs. It is our own ledger. Whatever radiance I carried into those ruins, I spent on the jellies; the reserve behind my sternum is scraped dry, and I can feel the absence the way one feels a missing tooth. Soma names it with her usual flat accounting.
+What concerns me is not the orcs. It is our own arithmetic. Whatever radiance I carried into those ruins, I spent on the jellies; the reserve behind my sternum is scraped dry, and I can feel the absence like a missing tooth. Soma names it with her usual flat accounting.
 
 "Entering in with no spells on us, huh?"
 
@@ -66,6 +66,6 @@ Soma, excluded, objects at once.
 
 "It's gonna take the entire campaign. I think that's where we're at."
 
-An honest economy, at least. She wants payment; he wants virtue; I want to see what the orcs do when addressed in the tongue of their masters. The four of them hold the hilltop, weapons up, the whole road pulled taut as a bowstring, and I stand at the front of it with my hand crossbow loose in my grip and the first Orcish phrase waiting on my tongue.
+An honest economy, at least. She wants payment; he wants virtue; I want to see what the orcs do when addressed in the tongue of their masters. The four of them hold the hilltop, weapons up, the whole road narrowed to the breath before a verdict, and I stand at the front of it with my hand crossbow loose in my grip and the first Orcish phrase waiting on my tongue.
 
 <!-- table-speech reclassified: "It's 10:31 — if we're starting a new combat, we should wait until next week." -->

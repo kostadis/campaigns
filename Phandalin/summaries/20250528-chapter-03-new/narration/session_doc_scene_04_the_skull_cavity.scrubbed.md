@@ -22,7 +22,7 @@ No one stops her. Vukradin, discovering that he is standing beside the other sec
 
 I hand him back his own whine, lightly seasoned. "Oh, sure — you're next to the other secret door. It's not like there's a dragon hiding in there. I'm right next to the other—"
 
-"door that's gonna, like, open up Scooby-Doo style, and pull me in — and close behind," he finishes, leaning into the doom he has assigned himself.
+"door that's gonna, like, open up haunted-manor style, and pull me in — and close behind," he finishes, leaning into the doom he has assigned himself.
 
 "I have a feeling about these things," Soma says, and opens the little door.
 
