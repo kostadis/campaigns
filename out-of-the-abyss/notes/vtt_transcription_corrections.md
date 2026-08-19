@@ -21,7 +21,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel, Glabigold, Glad Baguole | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel, Glabigold, Glad Baguole, Label Ghul | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -61,7 +61,7 @@ First catalogued during the cleanup of
 | Khazrin Natyani Nyatani, Kazrin Niet, Katherine, Karazzarin Nyantani, Kazrin Nanchani | **Kazryn Nyantani** |
 | Silvera salvikas, Silvira Savica, Silvara, Silvara Savikas, Silvari, Sylvaira, Vera, Silvira Savika | **Sylvira Savikas** |
 | Feminoor Scrivenbach, Ferris, Eminor, Feminore, Feminoor Scrivenback, Fanimore, Femming, Flaminear Scrivenbark, Flem, Slender Human Heavy Wrinkles, Feminor's Schitz, Fenny Moore Scriven | **Fheminor Scrivenbark** |
-| Daryl, Jarl, Droll, Darrell, And Daryl, Dural, Gal | **Daral** |
+| Daryl, Jarl, Droll, Darrell, And Daryl, Dural, Darrl, Gal | **Daral** |
 | Miss Molly Pocket, Miss Hollypock | **Miss Hollypocket** |
 | Ogma, Ogama | **Oghma** |
 | Bahamatians | **Bahamutians** |
@@ -223,6 +223,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - "taught San to think" — corrected to "taught sand to think" (the "we taught sand to think" meme; not a campaign name).
 - "Moshiv" in "Zalthir's, Moshiv, is a 16" (20260720 session) — corrected to "initiative" (ASR mishearing during an initiative-order callout; confirmed by GM, not a campaign name).
 - 20260803 session, ordinary-speech garbles corrected as targeted edits (GM-confirmed, none are names): "the ultimate bad Benny" → "bad penny" (idiom, re Manshoon resurfacing); "Falked out" → "Freaked out"; "Sorry, is Moo" → "Sorry, it's moot"; "Rosie Finger Dawn" → "rosy-fingered Dawn" (Homer chatter re Dawnbringer's gender); "the corrosive Bluru" → "the corrosive brew" and "caustic burr"/"caustic Acid Brew" → "Caustic Brew" (Tasha's Caustic Brew, Grygum's Magic Initiate spell); "Blab of the World" → "Glabbagool"; "Global Goals Initiative" → "Glabbagool's initiative" (initiative callout); "clergy of Candle Keeper, the event" → "clergy of Candlekeep, the Avowed"; "Two Bonsai Candlekeep" → "The Avowed of Candlekeep" (GM-approved guess, no sibling coverage). "Alegos over here and he kills the thug" left as-is (identical garble in both transcriptions, phrase unrecovered).
+- **"the four of you look at her" (20260727 session, awkward-silence beat) — "her" is Dawnbringer. LEAVE IT.** GM-confirmed. Thorin establishes it on tape earlier the same session ("Dawnbringer is a she") and again later ("Dawnbringer herself"). The party deflects the job of telling Sylvira her son is dead by all looking at the sword — the GM's next line is "Passing the buck." **General rule: a sentient item with a gendered pronoun produces referent-less "her"/"she" that reads exactly like a transcription error.** The independent second transcription of this session "corrected" it to "at it", flattening the character into an object; a quote pass proposed "him". Both are wrong. Check whether a sentient item is in play before touching an orphan pronoun.
 
 ## Notes for future passes
 
@@ -255,6 +256,7 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 | Get zooks, Ged Zooks | **Gadzooks** |
 | Oregon Express | **Orient Express** |
 | Butts out there | **But Zalthir** |
+| camp trips | **cantrips** |
 
 ## Calendar / lore
 
