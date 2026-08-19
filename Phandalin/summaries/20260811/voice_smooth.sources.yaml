@@ -1,0 +1,136 @@
+voice_smooth:
+  timestamp: "2026-08-15"
+  campaign: Phandalin
+  chapter: 48
+  session_dir: summaries/20260811
+  source_layer: scene_extractions/
+  output_layer: scene_extractions_smoothed/
+  scenes_rendered: 8
+  quote_lines_out: 780
+
+  precondition:
+    consistency_pass_run: true
+    note: >-
+      /staged-consistency ran on this session 2026-08-15 (stages 0-2). Its manifests are
+      consistency_stage0_gmassist.sources.yaml, consistency_stage1_summary.sources.yaml and
+      consistency_stage2_scenes.sources.yaml. This pass inherits and preserves its corrections
+      (the scene 05 Boney/necklace ruling, the scene 06 boundary note, the scene 08 KP ruling).
+
+  voice_specs:
+    resolution_rule: "c — unique key beginning with first name + '_'"
+    resolved:
+      Brewbarry: voice/brewbarry_new_pipeline.md
+      Soma: voice/soma_new_pipeline.md
+      Valphine: voice/valphine_new_pipeline.md
+      Vukradin: voice/vukradin_new_pipeline.md
+    genre: voice/_genre.md
+    npc_characterization:
+      Aurelan Vance: >-
+        Rendered from the played tape (fussy, deferential, procedural, department-bound),
+        corroborated by notes/npcs/aurelan-vance.md ("older, precise"). The dossier's
+        "never puts anything in writing" tic was NOT imported — the table contradicted it;
+        he signs a loan on-page.
+
+  transcripts_consulted:
+    files:
+      - path: GMT20260812-035423_Recording.transcript.cleaned.vtt
+        role: "Zoom export, speaker-labelled. Better on PROPER NOUNS."
+      - path: session_20260811_transcript.vtt
+        role: "Re-transcription, unlabelled. Better on SENTENCE COMPLETION."
+    method: "Read by hand. Provenance for rulings, not a --context input."
+    divergence_is_evidence: >-
+      Two passes garbling one phrase two different ways (app/act, confront/conference,
+      Cambians/Kenyans, Cope/Philip) was treated as the signature of a real utterance
+      neither caught — stronger evidence than either pass alone.
+
+  calibration:
+    scene: 01
+    approved_2026-08-15:
+      filler_removal: >-
+        Speaker tics that are the PLAYER's, not the character's, dropped as noise where the
+        voice file contradicts them (Stéphane's "you know" vs Brewbarry's "short, declarative,
+        does not hedge"). GM ruling: keep "Man," — it is Brewbarry.
+      grammar_repair: "Clear-meaning fixes applied; ambiguous ones left near-verbatim."
+      stage_direction_split: >-
+        Narration lifted out of NPC quotation marks into italics, speaker label unchanged.
+        Codified afterward as ~/.claude/skills/voice-smooth/SKILL.md step 2 rule 5.
+      truncations: "(truncated) -> 'cue cut on tape' + em-dash; completed where recoverable."
+
+  scope_rulings:
+    - id: dedup-01-02-03
+      finding: >-
+        67 of scene 01's 98 quote lines were duplicated verbatim into scene 02; the
+        department-redirect tail appeared in all three. Scenes 04-08 clean (overlap only
+        "Yes."/"Yeah."/"Exactly.").
+      ruling: "De-duplicate in place, keep 3 files. 01 = arrival/banter; 02 = the loan; 03 = handoff + accountants."
+      content_moved: >-
+        Brewbarry's "I hack and slash." existed ONLY in 01 (in the part 01 lost) while its
+        setup existed only in 02. Carried into 02 so the joke survives. Nothing else moved.
+      status: DONE
+    - id: player-names
+      ruling: "Keep real player names inside OOC quotes (genuine address); scrub them from scene summaries."
+      applied: "4 quote instances kept (scenes 02/03/04/05); scene 04 summary bullet scrubbed to 'Brewbarry's player'."
+      status: DONE
+    - id: cambion-knowledge-boundary
+      finding: >-
+        Soma's "Were they Cambions?" and Valphine's "they're Cambions" are PLAYER knowledge
+        carried from a different adventure. No character in this campaign knows House
+        Margaster has cambion blood.
+      ruling: "Word corrected to 'Cambions'; both lines annotated as OOC; boundary written to docs/Margaster.md."
+      durable_record: docs/Margaster.md
+      also: "Pointer added to Phandalin/CLAUDE.md. Second such boundary in ch48 — see docs/KP.md for the first."
+      status: DONE
+
+  garble_rulings:
+    total: 74
+    by_scene: {"01": 7, "02": 8, "03": 8, "04": 7, "05": 18, "06+07": 9, "08": 17}
+    method: >-
+      Every word-level change ruled by the GM. Clear-cut batches (evidence decisive from the
+      re-transcription) were listed in full before approval; ambiguous ones went 1x1 with
+      full-sentence previews and a keep-verbatim option on every question.
+    kept_deliberately:
+      - '"Oral B. Vance" / "Andrell Vance" — the toothbrush riff and the GM''s on-tape slip'
+      - '"space-based brand" — OOC riff, no readability problem'
+      - '"SystemD of Neverwinter" — deliberate table joke'
+      - '"charge thousands of dollars" — OOC insurance-scam riff'
+      - '"Pengro" — Soma''s throwaway placeholder in an illustrative gravestone'
+      - '"Caribbean stew" — unrecovered, annotated so the narrator ignores it'
+      - '"It''s not so firmly, no." — unrecovered, annotated'
+    notable:
+      - '"Event persuasion" -> "27 persuasion." — a DICE VALUE Zoom garbled; the roll that
+         gets Cullen to agree to find the gnome''s name'
+      - '"I app and slash" -> "I hack and slash" — the punchline of scene 02'
+      - '"confront-free" -> "conflict-free" — Vukradin''s signature principle'
+      - '"Churchill with Anders" -> "church of Lathander''s" — sets up the banker''s Lathander double-take'
+      - '"I belong to Lady Alagondar" -> "It belonged to" — inherited from the stage-2 pass'
+
+  glossary_updates:
+    file: notes/vtt_transcription_corrections.md
+    rows:
+      - "Utgartian, Uthgardian -> Uthgardtian (new row)"
+      - "Brewbarry row gained: Rieber, Vubert, Rueberg"
+      - "Corrin row gained: CORN, Corin"
+      - "Don-Jon row CORRECTED: target was unhyphenated 'Don Jon Raskin', contradicting
+         entity_registry.yaml's 'Don-Jon Raskin'. Now hyphenated; 'Don Juan' added."
+
+  defects_found_upstream:
+    - "4 extractor splices (quote fused mid-string with the next speaker header) in scenes
+       01, 02, 04, 08. Repaired in the smoothed layer; scene_extractions/ still carries them."
+    - "Scene 03: Zoom split one GM sentence across two speakers (GM 'No, no, not from.' /
+       Vukradin 'for me.'). Rejoined with GM approval; verbatim layer still split."
+    - "Scenes 01/02/03 duplication (see scope_rulings)."
+
+  carry_forward:
+    - item: "scene_extractions/ still carries the 4 splices and the 01/02/03 duplication."
+      status: OPEN
+      note: "Re-running scene_extract would discard this pass's fixes. Fix upstream or keep the smoothed layer authoritative for narration."
+    - item: "The Bronze Sun — still unpromoted in entity_registry.yaml."
+      status: OPEN
+      note: "Now appears as a clean quote in scene 03 ('From the Bronze Sun as well.'). Promotion is an identity decision — /entity-triage."
+    - item: "Necklace ch31-vs-ch33 date conflict, world_state.md:498 vs entity_registry.yaml."
+      status: OPEN
+      note: "Inherited from the staged-consistency run; untouched here."
+
+  handoff:
+    next: "session_doc should read from scene_extractions_smoothed/, not scene_extractions/."
+    record: "The VTT and scene_extractions/ remain the verbatim record and are unmodified."

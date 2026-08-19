@@ -1,5 +1,5 @@
-# Thistl — Voice Reference Passages
-*Verbatim excerpts from Storm King's Thunder session narration (20250226). Read these before narrating Thistl.*
+# Thistle — Voice Reference Passages
+*Verbatim excerpts from Storm King's Thunder session narration (20250226). Read these before narrating Thistle.*
 
 ---
 

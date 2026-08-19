@@ -8578,7 +8578,7 @@ It was full dusk now. The lodge behind us was lit from within, the new stewards 
 
 I stayed where I was for a while. The staff was warm in my hand. The night was coming in.
 
-# Chapter 43: The Unfated Routine of Rimardo and Corrin
+# Chapter 43 The Unfated Routine of Rimardo and Corrin
 
 
 ---
@@ -9721,426 +9721,9 @@ I let it sit. I am no drow. I am a goliath, and I am exiled, and I have my own d
 I thought about the work of it — a whole dragon's scales, hammered and fitted and emblazoned. "This is gonna take some time for them to craft this."
 
 It would be done by the time we left town. The man swore it, marked it down, glad as a child to have my back to brand.
-# Universal Basic Treasure
 
 
----
-
-## Brewbarry — Return to Phandalin
-
-Thirty gold. We split a mountain of trouble and walked out with thirty gold, the lump of dragon hoard nobody would touch still sitting up at Icespire like a stone in a boot. I counted my share twice. Same number both times. I have lost more than that betting on which of two flies would leave a tankard first.
-
-So I started thinking. Thinking is a contest too, if you do it right. You line up the bad idea against the good idea and you let them wrestle and you keep whichever one is still standing.
-
-What was still standing was the bathrobe.
-
-The road bent south toward Phandalin and Vukradin was at it again, mourning his studio. Defeated dragons. Cleared a mansion. Owns a piece of a gold mine. And no studio. *Doesn't it seem unfair?* he said. *It's very unfair.* I let him have that. He's right. It is unfair. But unfair is just a fight you haven't named yet.
-
-Here is the thing I had figured out, and I said it plain, because I do most things plain. From now on, every time we find treasure, whether it belongs to us or not, there should be a find-us fee. And some of that gold should go in my pocket, toward me building that bathrobe business. I made a mental note about it too. About the dragon's hoard. Somebody is going to manage that pile, and when they do, a finder's fee is the right and proper thing to offer. The right and proper thing. I have never in my life worried about right and proper and I was surprised how good it tasted to say.
-
-Vukradin lit up. *I'm thinking like you, Brewbarry,* he said. *I've got a plan.* And I told him — if your music studio wants to be a sponsor for my bathrobe business, I'm willing to give you a little logo on the bathrobes. Maybe.
-
-*I do cross promotions,* he said.
-
-Yes, I said.
-
-*That's great,* he said.
-
-I have stolen a bathrobe. I will say that, because Valphine made us all say everything under that ring of light and I have decided to keep saying true things now that the habit started. I stole one from Falcon's Lodge. It was the softest thing I have ever held. Softer than a goodberry going down, and I do not like to think about goodberries. I gave it back. I still want it. So I am going to make my own, a thousand of them, and nobody can take a stolen thing from a man who is selling it.
-
-There was politics on the road too. Some legal word, *sheetment*, that Valphine dug up. A way to force a real election so Harbin Wester stops being a fig leaf with a chain around his neck. Vukradin wants to give the man one more shot to abdicate. I do not care about Harbin Wester. I care about the bathrobe.
-
-We dropped Vorga and her tribe at Icespire. Escort done, debt paid. Prutha took his five bright-eyed orcs off to convert Vorga's lot to Valphine's morning god. Then it was just us and Boney, who does not tire and does not complain and would make an excellent business partner if he had hands.
-
-Phandalin barely looked up when we walked in.
-
-We killed Cryovain. We are heroes. *Hi, how are you,* said Barthen's. *Pleasant to see you,* said the Smithy. Yesterday's news. *What have you done for me lately, Titan,* Soma muttered, and that is exactly it. You win the big fight and the crowd goes back to its bread.
-
-Valphine tried to fix it the Valphine way. Told the smith about the Talosians we destroyed. Because they were weak, she said. *You need to follow a stronger God.*
-
-Vukradin winced. You protected the town, he told her. You stopped a threat.
-
-*The town has been protected by the strength of Lathander,* she tried.
-
-*Okay,* he said. *That's a much better spin. We gotta work on your spin.*
-
-I had my own spin. Destroy the heathens, sure, unless they want to buy bathrobes, in which case they're our customers. They're potential customers and shouldn't be destroyed.
-
-That set Vukradin off about the gold. *It's stolen,* he said. *It's blood. Every last penny. Last copper, it's blood.*
-
-*Gold is gold is gold,* said Soma.
-
-Customers are customers, I said. And then I said the thing I'm proudest of all day. Yeah, but blood can be turned into something soft and wonderful, like a Brewbarry bathrobe.
-
-*If it is treated fairly,* Vukradin said, *and I have a plan for that.*
-
-Alright, I told him. Alright. I'll follow your lead. I always do. He sets the rule and I carry it, and somewhere under all his fairness there's a logo with my name stitched into something soft.
-
----
-
-## Valphine — A Hero's Welcome at Stonehill Inn
-
-The Stonehill Inn was too bright, of course. The Overbright never let me forget it had followed me indoors: light leaking under the shutters, the lamp-glow doubling off every polished tankard, the whole room a small persistent sting against the back of my eyes. Toblen came around the bar grinning before we'd cleared the threshold, his boy Tuck underfoot, Elsa already reaching for clean cups. Jenna sat at her table and did not rise. I noted that. I note most things.
-
-Vukradin asked his question the way he asks all his questions, as if money were a problem the world had merely forgotten to solve for him. "How much to buy the bar a round?"
-
-"How much you got?" Toblen said, and then something shifted in his face, some sweetness, and he reconsidered. "Vukradin, I think that if you were willing to play a song, it would be for free."
-
-"Drinks on me, let's play away, wow!" Vukradin beamed, and then, lower, the truth of him: "I have no money." Brewbarry leaned in with his usual hunger for the heroic narrative. "We can sing, you know, achievements, glory." And so they did — the dragon, the henge, the boar that would not die until Soma's moonlight settled the matter — and the room loved it, and the good beer came out, Elsa pouring the dark stuff she keeps for nights that matter. I drank a little. It was warm and bitter and pleasant in the small way pleasant things are. Vukradin watched it happen with a child's wonder. "Is that how it works? If the song had fallen flat, it would have been the swill." He was learning the shape of his own gift and finding it cheaper than he'd hoped. "I bought everybody a beer," he decided, "so that's something."
-
-Then Ser Kaelen found us, as he always finds us, the way a draft finds the gap in a door.
-
-The owners of the recovered treasure had been located, he reported: more of them, all in Neverwinter, none here. Vukradin took the news with that genuine sorrow he can summon for total strangers. Then the statue. The mermaid, dragged behind us through every catastrophe since the war, forgotten as honestly as anything is ever forgotten. "What statue?" Vukradin said, and I watched Ser Kaelen's patience thin to a wire. "We had to kill a dragon," Vukradin offered, "we had to stop an orc campaign — I get some things going on." Brewbarry wanted to know who owned it. Some important woman of Neverwinter whose name no one could hold. And no — Ser Kaelen had found no trace of Sister Kaella. *Gone to the wind,* I thought, and let the small cold of it pass through me without leaving anything behind.
-
-Then he looked at me.
-
-He saw the gold. I felt the moment land: that flinch men give when a thing they have a category for stops fitting the category. "Is that a condition?" he asked, and there it was, the whole of the Overbright in one nervous syllable: a drow with light in her eyes must be *afflicted.*
-
-"It's a blessing," I said.
-
-"A blessing, I see. Well — a blessing from whom?"
-
-Brewbarry leaned toward him. "Slippery slope," he murmured, delighted, ever my best student in the art of the unsettling pause.
-
-"From Lathander, of course," I said.
-
-I will not pretend the irony was not *delicious.* This careful Gauntlet man, going pale at the thought that the Morning Lord might have reached down through all his sunlit creation and touched the one drow in the room. And his solution, his frightened, decent solution, was to send me to a priest. "Do you plan to go to Neverwinter?" Yes. "Then might I suggest you speak to the high priest at the Spire of the Morning Lord." And the name surfaced before he finished it, because of course I knew the Spire. I had knelt in it. I had sung the soft hymns until my knees ached and my face hurt from holding the expression of a woman who believed them. Brother Aldric Sunmantle.
-
-"What does he have against golden eyes?" Brewbarry demanded.
-
-"You might be jealous," Vukradin told the knight, and then, escalating in that earnest way of his: "I don't know that the high priest has been blessed. Valphine has been blessed. This could go badly. There might be a new Mourning Lord in town." Ser Kaelen, distressed: *Morning* Lord is the god's name. The pun went sailing past him, which was its own small mercy.
-
-He was afraid, underneath the courtesy. Afraid that something *else* moved behind the gold: that a drow Lathanderite blessed this plainly meant the world had slipped a gear. *Go to Brother Aldric,* he kept circling. *Find out what Lathander is trying to tell you.* As if I did not already know. As if the dawn had ever spoken to anyone in soft words.
-
-Brother Aldric. The fool who taught me his rituals and never once suspected I had no intention of taking his weak gospel into my body, months, years, of bowing to a man who thought the Morning Lord was a god of comfort, of tending the sick and loving the gentle, who never understood that the dawn *burns,* that justice is a searing thing, that the light I love is the light that hurts.
-
-*Very likely,* I thought, when the suggestion came that he had never understood the real power. He had not. He had taught me the forms of devotion and missed entirely the substance, and I had let him, and walked out of his Spire carrying everything I needed and none of his soft, squishy ways.
-
-*Of his weak ways,* I corrected, silently, to no one.
-
-And then — turning the thought over the way I turn a blade in lamplight to find the edge — a better possibility opened, golden and radiant at the back of my burning eyes.
-
-Perhaps I would go to Neverwinter. Perhaps I would stand again in the Spire of the Morning Lord and look Brother Aldric Sunmantle full in the face with the dawn shining out of my own.
-
-And perhaps I would convert him.
-
----
-
-## Vukradin — The Universal Basic Treasure Proclamation
-
-Harbin Wester would not call the meeting. I stood in his office and told him to convene the Privy Council — now, today — and he balked at the speed of it, his soft hands fluttering. *So soon? So quickly? Right now?* I tried to charm him first, the majestical voice, the one that opens doors. It glanced off him. So I leaned in and reached for menace instead, and that landed flatter still. I felt it leave my mouth and die in the air between us.
-
-"Your menace lands as flatly as your sweet tongue would have landed well," he said, turning his back.
-
-*Right.* I could feel the hubris rising in me like heat off a forge. Fine. I didn't need him. "I'll gather the people myself."
-
-So we threw a concert.
-
-That was the trick of it: you don't summon a crowd with a bell, you summon them with joy. "We could put on a rock concert and get them all out there, get them all happy and bouncing around before I make my big speech," I told the others, and Brewbarry cracked his knuckles and said he could make his voice boom to announce there was a gathering, which he did, the sound rolling down the lanes of Phandalin like weather. The performance outside was decent. Not as good as inside — never as good as inside — but they were drunker now, which meant easier to persuade.
-
-They came. All of them. Petunia, Big Al Kalazorn, Qelline Alderleaf, Linene Graywind, Ser Kaelen with his perpetual sidebar face, Toblen and Elsa and the bar team, Barthen, the woodworker, even Brin and Giles standing there sunburnt again, raw as boiled crab. Soma looked at the two of them and said, "Kissed by Lathander," and Valphine somewhere behind me made a sound I chose not to interpret. Harbin himself drifted to the edge of the green, unable to stay away from a crowd that wasn't his idea. The whole town swaying, chillaxing, feeling cool and relaxed.
-
-I raised my arms. "Ladies and gentlemen, we are adventurers! We've killed the dragon! We drove out the orcs! We saved Phandalin! Yay!"
-
-They cheered, and I let it run, and then I let it die, because the next part was the part that mattered.
-
-"What I wanna say is — that your government, led by Wester over here, believes that the way adventurers should work is that they go do heroic things, and then they claim all the treasure for themselves." Everybody was kind of staring now. Good. Let them stare. "That treasure came from you. That is your treasure. It was stolen from you. And I want to give it back to you."
-
-I should say — I believe this. I have given up gold for less. I left three thousand pieces of Cryovain's frozen hoard sitting in a hold because it was stolen wealth and I would not be made rich by a dragon's bookkeeping. I have twenty-nine gold to my name and no studio to show for any of it. So when I say *blood money*, I am not performing. The studio is still not built. The honest version of that gold would feel as hollow as the rest has felt. This was the answer. This had to be the answer.
-
-Linene Graywind raised her hand, ever the merchant. "Strictly speaking, it may not have been stolen from *me*," she said, "but it may have been stolen from somebody else a long time ago, and so by you bringing it into the market — hold on — it recirculates. When you spend that money, you're making it mine, because right now it's over there in the hands of the monsters." Jenna Roscoe, that nasty no-good treasure hunter, nodded along and pronounced that this had all been very well covered in *the dialectics of the financials.*
-
-"Hang on," I told them. "All your questions will be answered." And then I made the vow, because a vow has to be public or it's just a wish. "If we can find the rightful owner of that treasure, then it needs to be returned. But we have found, as adventurers, that many times we cannot find the rightful owners. And so I swear to you now, here — a new, universal, basic treasure."
-
-"UBT," Soma murmured, like a benediction.
-
-I felt the words leave me and I knew, the way you know a chord is going to ring before your hand is off the strings, that they had landed exactly: every syllable the right weight, dropped in the right place, the crowd already leaning toward me before the last word cleared my teeth. Something in me was singing it home that I had not put there myself. The celestial thing. The gift that sits behind my voice when the floor falls out. There was cheering: general, rising, real. Children jumping. Jenna looking appalled.
-
-I turned and found Harbin. "What does Harbin Wester think about this plan?" I asked the green. "Is he in favor of it, or does he need to be replaced?"
-
-He nearly tripped over himself getting to the front. "I am so glad! This was — this was —" He paused. "My good friend, and member of the Privy Council —" Another pause, longer, his mouth working, and I watched him grope through the dark for my name. "Vukradin!"
-
-"Sounds about right," I said. "Yup."
-
-And then the man stole it. Right there, in front of everyone, smiling. "Just in case you thought that was me not suddenly remembering Vukradin's name — I think this is an extraordinary idea, which is why we have *already* declared the income he produces as part of his adventuring career to be Vukradin's UBT. The Privy Council had heard this proposal, and we were waiting a few more days before a formal announcement." He spread his hands to the crowd as though he'd birthed the thought himself. "All hail Vukradin and the —" He stopped. "What is the name of your adventuring group?"
-
-"Did we ever make one?" Soma asked.
-
-"Slayers of Cryovain," I tried.
-
-"But that's not where we could have started."
-
-"We'll have to have a slight sidebar. What name do you guys want?"
-
-"It would be the band's name, right?" Soma was already managing us. "I'm your manager at this point. She's just a tour guide."
-
-"Valphine and Vukradin's death metal —" I started, and Harbin, defeated, just waved his hand and shouted, "All hail the adventuring group!" which was close enough.
-
-"Okay," I said, pressing the advantage while the iron was molten. "Wester, we're going to be writing into the town charter, then, that all adventurers will distribute their treasure as universal basic treasure to the citizens of Phandalin, unless they can find the rightful owner, of course."
-
-"I think that's a wonderful idea! Huzzah, huzzah, huzzah!"
-
-"So it's written in. Alright." I caught Jenna in the corner of my eye, looking like she'd bitten a coin and found it tin. "Is she outvoted?"
-
-"Yes," came the answer, "but she's looking appalled."
-
-"Democracy sucks," Soma said, comfortable as anything.
-
-And here, I confess, is where the thing began to curdle even as it triumphed. And I did not see it then, because I was too busy being right. "As the first contribution to the UBT fund," I announced, gesturing grandly, "we have this melted hoard of dragon gold that we can't do anything else with."
-
-Everyone looked at the slag. *Wow, that's so big.* And then: "We thank the noble adventurers, but — we can't actually use it. It's fused inside a magical containment thing that you're going to have to go extract."
-
-"Nobody told us that," I said. *Of course nobody told us that.* I found Ser Kaelen in the crowd, the man I trust about as far as I can throw a windmill. "Kaelen, can you take care of this?"
-
-"Yeah," Brewbarry rumbled. "Be useful for once."
-
-"This seems like your kind of thing. Get this money to the people. They need it."
-
-Kaelen, naturally, paused. "Sidebar," he said. "Sidebar —"
-
-"Do it, old man!"
-
-"Does the Order of the Gauntlet get a share, or is this only for the citizens of Phandalin? And what do we mean by citizens of Phandalin?"
-
-And there it went: the beautiful clean gift, dragged onto the operating table to have its eligibility carved up. "Excellent idea, Valphine!" I said, throwing it to the green, because every idea this good deserves a committee to ruin it.
-
-"Property owners within the bounds of Phandalin," Brewbarry offered.
-
-"Landed gentry," said Soma.
-
-"What about renters?"
-
-"Wait — do they actually have property? I thought they were all serfs."
-
-They had property, it turned out. "As long as you live within the bounds of Phandalin, you're a citizen," Brewbarry said. "Is that open enough? I need to get myself a house in Phandalin, by the way."
-
-"But what if somebody just comes down from Neverwinter for the day," I said, "and immigrates to Phandalin — then suddenly they're entitled to the UBT?"
-
-"That's why we need to build a wall," said Soma.
-
-"You have to live within the boundary at least fifty-plus percent of the year," Brewbarry decided.
-
-"Primary residence," Soma added.
-
-"Attest under oath," I said, "with a working laid over the room that strangles every lie before it leaves the throat." We had just held each other to exactly that, so I knew it worked.
-
-"And you have to pay your taxes in Phandalin too, right?" Brewbarry said. "No — if they pay taxes in Phandalin, then they're Phandalin citizens."
-
-Then Linene came forward with a book — *Candlekeep*, she said, the Sage's Universal Theorem for Income Distribution — claiming she'd been working on such a proposal for years. "Perhaps a subcommittee of the Privy Council, led by myself, obviously under your supervision, could provide a draft set of rules in time for next week. Maybe two weeks from now."
-
-*Two weeks.* "The people need the money sooner than that," I said. "They're poor! They're suffering! They need UBT!" And the crowd cheered, and the children took it up — *do we get UBT? do we?* — and Soma said, dry as old shell, "We never have to work a day in our lives?"
-
-"As long as adventurers come," someone called back.
-
-"There's some sort of magical intelligence stealing their jobs," Valphine offered, and Soma said it sounded like just slavery by extra steps, and I let that pass over me, because I was watching the children jump and I was choosing, deliberately, not to hear it.
-
-Harbin cleared his throat awkwardly. "Hold on — of course Valphine is a member of the community, an upstanding cleric, her Temple of Lathander, the Searing Pain of Justice, is most certainly within the city boundaries. And of course Vukradin is a member of the Privy Council. But — the Tortle, and the Barbarian. Their exact ties to the community —"
-
-"Next words very carefully, old man," Brewbarry said.
-
-"I've been living in the outskirts all my life," said Soma.
-
-"You're talking to the muscle of this party," said Brewbarry.
-
-Harbin found his exit fast. "I think we can all agree that Brewbarry and Soma, through their unique contributions, should be considered honorary citizens of Phandalin."
-
-"I'll take that," said Brewbarry, and the green erupted, and Soma said, "Everybody clapped," and they had.
-
-And then came the part I would like, someday, to be able to explain to myself. Because the clever solution to the eligibility problem was that we, the adventurers, the donors, were now also citizens, and citizens receive UBT, and so a portion of what we gave away came flowing right back to us. Five percent. Tax-free.
-
-"Five percent of the blood money now becomes organic fair trade?" I said, and I meant it as a question, and I am not entirely sure who I was asking.
-
-"Well, it's been laundered through the UBT," Soma said.
-
-"Effectively, yes."
-
-"Turn evil into something good for the community," Brewbarry said, beaming, and I held onto that, because it was the version I could live inside.
-
-Jenna Roscoe had heard enough. She climbed onto her horse, looking very concerned, and rode off toward Neverwinter without a word to anyone.
-
-"Don't let the door hit you on the way out," Soma called.
-
-"I don't know who you are," I said to her departing back, "and I don't care." The members of the Lord's Alliance are very particular about these things, I'm told. Let them be particular somewhere else.
-
-That left only the gold itself, which still would not cooperate. "So are we selling this — thirty-seven hundred, blood —" Valphine started.
-
-"We have to break the magic first," I said.
-
-"Prepare that, and then do it?"
-
-"Yeah. If we can unravel the magic, I think we can recoup it."
-
-"I can try to unravel it, or lift a curse."
-
-"Lift the curse," I said. "You can try it. Ask Soma whether it helps."
-
-"So when you lift the curse," Brewbarry said, with the slow gravity of a man genuinely turning it over, "where does the curse go?"
-
-"Same place the socks go in the dryer," said Soma.
-
-But it wasn't conventional magic — we could all feel that, the way the slag sat wrong in the eye, heavier than its weight. We'd need an expert. "What better place to find an expert than Neverwinter?" Brewbarry said, and that was true enough. Our hands on it told us nothing; the cube kept its secret. It was Soma's staff that finally read it, the way it reads everything now, leaves stirring without wind.
-
-"I could feel a planar anomaly around this cube," she said. "This is no ordinary magic. You remember that slag? Those weird gnome things?" She let it sit there a moment, the green still cheering behind her for a fortune that could not, yet, be spent. "The whole reason we're intervening."
-
----
-
-## Soma — Cheese, Business Plans, and Departure Preparations
-
-### Soma
-
-The cheese came out the way good news always comes out in Phandalin: sideways, on the back of money. With the UBT putting coin in hands that had never held much, Qelline Alderleaf and Alphonse "Big Al" Kalazorn and Linene had all arrived at the same arithmetic at the same time: more coin meant more cheese. Petunia the cow stood placid in the yard while they laid out a whole round of choices for us. Did we want the fancy cheese, the not-so-fancy, the expensive. Did we want it from when Petunia ate the grass off the upper part of the field, or the lower. *Shell-sprouts*, I thought, *they have sorted milk by altitude.*
-
-"It's getting a bit too technical for Brewbarry," my goliath rumbled, and I did not blame him.
-
-"I think we're looking for the regular one," Valphine said, and Qelline's face fell like a dropped wheel of it. "Regular cheese. *Philistines.*" She said it twice, the second time as a question, as though she could not believe her own ears.
-
-But Brewbarry asked for a tasting, and that is where the whole afternoon went sideways and sweet. He worked through the range slow and serious, the dried-out ones pushed aside without ceremony, and settled on a bluish, creamy thing he declared the finest. Qelline was beside herself, *who would have thought Brewbarry was a man of taste and vision?*, and turned to Big Al to ask whether he'd known he kept such classy company. Big Al looked at his friend a long beat. "Neither did I." I have known that flat tortle-deadpan all my life, even in a human's mouth. It made me like him.
-
-Then came the real thing my big sprout had been chewing on. He wanted a wealth consultant, an accountant, somebody to manage his personal fortunes.
-
-"Yeah," I said, "what is it, three gold pieces a week or something?" Because that is what we were all going to make, and a fortune it was not.
-
-But he was serious in a way I hadn't seen him be about anything that wasn't a fight or a bottle. A bathrobe factory. Phandalin cotton, blessed by Lathander's priests, soft enough to atone for something. *Mankind has been spreading violence and pain throughout the land for generations*, he said. *I think I need to turn that around and bring softness to people.*
-
-"It's a nice story of atonement," I told him, and I meant it. "I like it." I have watched him be the cautionary tale too many times. Let him be the soft thing for once.
-
-They sent him to Linene, who took the whole mad scheme like it was scripture: cotton sourcing, the Lathander logo stamped on every robe, a little blurb for Vukradin's coming studio, even a slice off the price for anyone who bought Vukradin's record, the *Black Cylinder*. She'd write him a letter to the Counting House in Neverwinter to chase capital. And when Brewbarry warned her, gentle and a bit dumb but with *consequence* in the word, not to screw him, she didn't flinch. "Brewbarry. This is your personal quest. Now it is my personal quest."
-
-Vukradin tried to spin it and the lie fell flat on its face, not a shred of it landed, swearing she was *absolutely on your side, you can trust her.* Valphine read her properly instead, and the read came back clean and certain. Linene meant every word, and the supply trouble she carried sat in her deeper than the cheese ever would.
-
-Because there was supply trouble. The Lion Shield Coster used to move goods cheap, and now they didn't, and nobody knew why. She wanted us to ask after it in Neverwinter. And then she mentioned the thing only I seemed to keep: the hides we'd hauled out of the Whispering Grove, the leather that phased in and out of the world like it couldn't decide which one to belong to. She'd been hungry for those. *Yeah*, I said. Just that. But I held the two halves of it side by side: distribution gone strange, and a woman who lit up at planar goods. The others were already past it. I wasn't. There is a wrongness that hums under ordinary trade the way a blighted root hums under healthy grass, and I have learned not to let it fester unnamed.
-
-A note arrived too, the necklace of fireballs claimed at last. A quiet Alagondar branch, no title, no army, just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking. Perrin Alagondar, the claimant. Vukradin could finally put it down and do the thing he keeps saying he wants to do. *Blood treasure*, he muttered, but he wrote the name in his head all the same.
-
-Then Neverwinter, with the Shrine of Savras left behind us. *Did we have any quests in that direction?* I asked, and we didn't, not really, only secrets we'd never pry loose. So we walked. And Brewbarry talked of bathrobes the whole long way, the softest thread, the cut of them, until even Vukradin begged him to give it a rest.
-
-"Pretty comfy," I offered, when somebody asked where the dream had come from.
-
-"Exactly," said my big sprout, glowing.
-
-The road, for once, gave us nothing to fight.
-
----
-
-## Vukradin — Arrival in Neverwinter
-
-The journey was uneventful, which after months of cleared lodges and frozen holds and avatars of Talos should have felt like a mercy and mostly just felt like Brewbarry talking about thread count. He spent the whole road describing bathrobes. The drape of them, the softest possible weave, how good he would look in one. I let it run for a while because I love him, and then I couldn't anymore.
-
-"Dude. Dude. Bathrobes. Give it a rest. You sound like me with UBT."
-
-He did not give it a rest. Soma offered that they were probably very comfy. I let it go.
-
-We skipped the side-stops. There was no reason to swing through the Hunting Lodge or the Dragon Barrow or the Logger's Camp. We'd already turned every stone in those places, and what we hadn't was the Shrine of Savras, sitting out there somewhere holding whatever it held. "We're just gonna abandon that quest," I said, and I almost meant it as a question. *I'm sure it has all the secrets of planar anomalies, and we'll just never find out.* Some quests you have to let starve. The studio still wasn't built. That was the quest.
-
-Then Neverwinter came up out of the road, and Castle Never with it. Castle Never, they call it, because it has never been conquered, and right now its conqueror is the scaffolding, because Lord Neverember has been taxing the whole city raw to finish rebuilding the thing. "Huge fan of UBT," I said, watching the cranes. Soma was sure he'd let go of all that free gold any day now. He won't. Nobody taxing a city raw to gild a castle ever just *stops*.
-
-At the gate the guards checked our faces against a writ. Someone in Phandalin had sent word ahead that we were expected. *Expected.* That word used to mean a green room and a tab. Now it means a recovery office and a list of things I'm carrying that aren't mine.
-
-We were barely through the arch when three kids — early twenties, barefoot on the cobbles like the stone owed them something — stopped dead in the middle of the street. Roughhide cloaks, charcoal markings up their forearms, one of them in a painted leather helm with the eye-slits daubed red, another with an ornamental hand axe strapped across his back at an angle that had clearly never met anything you could chop. They were nodding along to music coming from a window. Dissonant, uncomfortable, technically perfect in ways it was trying very hard to hide. It sounded like someone furious at beauty.
-
-I knew it before Valphine said anything. It was mine. The old stuff. "Oh, I know it's my music," I told her. You don't forget the sound of being angry and twenty-two.
-
-The kid in the helmet saw Brewbarry and lost his entire mind. *Is that — IS THAT — Brewbarry!* "The one and only," Brewbarry said, and discreetly made his muscles dance, a little pec bounce for the faithful. "Fan club," I said. "Sam Club has found us." A guard came over starstruck and asked Brewbarry to sign a paper for his son, and Brewbarry, gracious as ever, offered to sign in blood and asked the man for a drop of his own to do it with. The guard declined. Awkwardly. Repeatedly.
-
-So I offered. "I want an autograph, I don't need blood. Do you want my autograph?"
-
-The kid looked at me. Recognized me. And then — *oh yeah, I remember when he was really good. The stuff he recorded before he got famous and commercial.* The real stuff. Mory's gone soft. They said Brewbarry was more authentic.
-
-"Mory's sold out, I love it," I said, because what else do you say to your own ghost wearing your old face better than you do.
-
-And then one of them, looking right at me, decided I wasn't even him. *That's not Vukradin. Vukradin was a legend. He'd play music and not care if anybody liked it.* They were standing in front of the man and arguing about whether the man existed.
-
-"Wow," I said.
-
-I offered the guard the autograph anyway. He said he'd take it — for a table at the Common Chord. The Common Chord. My old room, the bar where I learned everything I know about silence between notes. "I don't know that I'm welcome there anymore," I said, and meant it.
-
-That's not the problem, he told me. Ever since you got famous the place is impossible. Weeks of reservations. Prices through the roof.
-
-"You mean, they want me?"
-
-Not exactly. They want what the name does to a wine list. One of the kids said it was all part of the same thing: the common man pushed off the docks as the Protector's Enclave swells out to swallow them. Brewbarry put it plainer: they're making money off your good name. "Yeah," I said, "they became more popular after I left? That's weird." It is weird. You leave a room and the room gets more expensive precisely because you're not in it.
-
-Brewbarry offered me an image consultant. His wealth management could advise me, he said. "That's interesting," I told him. "I'm gonna write that down on my running list of things to chase. I'll have to look into that one."
-
-But the kid in front of me still didn't believe I was me, and that I couldn't write down. So I asked him: "You want me to play you one of the old hits?" Not the polished thing. Not the commercial Vukerton he'd already buried. The old, authentic stuff. From the vault.
-
-I reached all the way back. The musician at the window — the furious one, the kid who'd been playing my own anger back at me — went wide-eyed and started trying to find his way into the song, and I let him. *Jam with me, yeah.* Because that's the part they never get about the vault: it was never precious. It was always for whoever showed up. A crowd thickened at the gate. More cloaks, more charcoal, more bare feet: Brewbarry's people, multiplying, a whole movement assembling itself around a barefoot legend and a song I wrote before any of them could shave. I didn't argue that I was Vukradin. I just played until the question stopped mattering.
-
-Deeper in the Protector's Enclave, mounted at eye level on a building, there was a carved stone plaque. In honor of the liberators of the Ordning, through whose courage, and the combined strength of the Lord's Alliance, the giant kingdoms were restored to order in the north. I read it twice. "Did you guys know the Lord's Alliance saved the world?" I asked. "I didn't know that."
-
-There was a herald beside it in blue and gold, pressing broadsheets into hands. The cover was a woodcut of a dwarf in full plate, blunt-nosed, grave, Orsik, Defender of Parnast, Champion of the North. The back was a map. The Lord's Alliance's jurisdiction, a dotted line reaching out into Neverwinter Wood, Leilon, and Phandalin. My Phandalin. The studio that doesn't exist yet, inside a dotted line drawn by people I never voted for.
-
-"Really?" I said. "I didn't know the Lord's Alliance controlled Phandalin. Huh."
-
-We needed dragon scale armor crafted, and there was the question of how to pay. Valphine started reaching for the Staff of Bird Calls as barter, and I stopped her cold. "The Staff of Bird Calls is blood money," I said. "It's now Phandelver Law that we turn that over to people." Brewbarry, for once, had the cleaner answer: pay with the dragon scales themselves. Enough for the armor, and whatever's left covers the labor. That, at least, came off a dragon and not off somebody's grief.
-
-The craftsman turned out to be a follower of the Morning Lord, and the moment he saw Valphine's golden eyes he nearly wept — *the blessing, the sign, the drow Brother Aldric speaks of* — and offered to craft for almost nothing if she'd say a blessing over his family. Then he learned Brewbarry "works for no one, but has much respect for the thunder," decided this meant a convert, and launched into a warm, glowing series of stereotypes about drow that the embrace of one drow had apparently cured him of.
-
-"Well," I said, "nothing bad could ever come of this." I could already see it. "You see an upcoming drow invasion into Neverwinter, and the people just throw open the doors — come in! — or they just slaughter them all. This'll go really well, guys."
-
-And then the last thing, the thing Ser Kaelen left me before we rode out: the necklace of fireballs belongs to the Alagondars. A quiet branch, no title, no army — just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking. *You can actually do the thing you keep saying you want to do.*
-
-"Also, blood treasure," I said. Because of course it is. Everything in my pack is somebody's grave. Perrin Alagondar. I got the name. "Okay, I got it."
-
-We were done for the night. Brewbarry wanted to push on to the Spire of the Morning Lord, but I'd given enough of myself to one gate for one day — the old song, the dotted line, the man who said I wasn't me. "We're done for the night, I think." Soma said the whole thing was hilarious, and she wasn't wrong. I liked the fan club. That part was funny. That part was pretty okay.
-
----
-
-## Brewbarry — The Exotic Armorer of Neverwinter
-
-The Protector's Enclave smelled of money. Not the kind I knew — not coin sweated out of a brawl or a hauling job — but the soft, oiled kind that hangs in the air of shops where the door is heavier than the goods inside. We found the armorer there. A high-end man, his window hung with leathers and fashions I had no name for, made from exotic hides and stranger things.
-
-Valphine wanted to go in. "Yeah," she said. And when the question came whether it was only her, "Probably."
-
-"Go in, sure, why not?" Vukradin said. So the four of us walked in.
-
-The man took one look at Valphine's eyes — the gold of them, the sun caught in a drow's stare — and near came apart at the seams. "You have the sign of the Morning Lord! You have the blessing of her! You have the blessing!" He stopped. Looked harder. "Are you the drow that Brother Aldric speaks of? The one who converted to the blessed teachings of the Morning Lord?"
-
-"That's right," Valphine said.
-
-"What a blessing to have you in my store!"
-
-I let her do the talking. She is better at it. I am better at carrying things. She set the dragon scales on his counter — heavy plates, still cold to the touch. "Well, we have these dragon scales here, and we need some help crafting them into scale mail."
-
-"I would be delighted," he said, hands going everywhere. "This would be a great honor, for me — as long as you were to say a blessing for me and my family, Valphine."
-
-"Of course," she said.
-
-"Free of charge," Vukradin put in. "The best kind."
-
-The man laughed but did not agree. "As much as I would like to do this for free and gratis, it takes time and money. Any little money you can give would be helpful."
-
-Then came the reckoning of price, and I am not the one for sums. Valphine read out the cost — more gold than I'd ever held at once, a number that hung in the air. Vukradin: "We don't have that." Valphine: "Well, we've got less than half of it." Soma started in — "You're gonna spend" — and Vukradin finished it for her, "And all the money, you're gonna spend it all." Then, deciding, the way he does when he's talked himself into something: "Fun money to make money. Alright, I got it."
-
-But the man would not take it. "Valphine, that is too generous an award. A fraction of that, for the chosen of Lathander."
-
-"Make sure there's an emblem of Lathander on the back of the armor," Valphine said. Then, plain as setting down a stone: "This will be for Brewbarry, though."
-
-That turned the room toward me.
-
-I do not wear armor as a rule. It cages the arms. The scale mail from before sat wrong on my shoulders the whole time I wore it. And now this — a dead dragon's hide, with the sun-god burned into the back, right between my shoulder blades where I could not see it but every man behind me could.
-
-"Alright, we're handing this man a small fortune, wow," Vukradin said.
-
-"So we get something in return," I said.
-
-The armorer stopped. "So you're giving it to Brewbarry? Brewbarry works for you? Is a convert to the Temple of Lathander? Of the Morning Lord?"
-
-"Brewbarry works for no one," I told him. "But Brewbarry has much respect for the Morning Lord, yes."
-
-That undid him entirely. "I knew it! I knew it! Brother Aldric was right! This was the right decision to embrace the drow!" And then he was off, naming all the things a drow was supposed to be, all the cruelties the sun was meant to cure out of them.
-
-I let it sit. I am no drow. I am a goliath, and I am exiled, and I have my own dark in me — a fairy's goodberry, a sleep I did not choose, sacred ground gone to ruin while I lay there. The man stood there glad to think the light could save a wicked thing. He did not know he was fitting that mark to my back. I did not tell him. There are things you do not put on a counter in a fine shop.
-
-"Well, nothing bad could ever come of this," Vukradin said, dry. "You see, an upcoming drow invasion into Neverwinter, and the people just throw open the doors, they're like, come in. Or they just slaughter them all. This'll go really well, guys."
-
-"Alright," I said.
-
-I thought about the work of it — a whole dragon's scales, hammered and fitted and emblazoned. "This is gonna take some time for them to craft this."
-
-It would be done by the time we left town. The man swore it, marked it down, glad as a child to have my back to brand.
-
-# Chapter 46: Neverwinter, Never a Dull Moment
+# Chapter 46 Neverwinter, Never a Dull Moment
 
 
 ---
@@ -10175,8 +9758,6 @@ Then the Zhentarim. Once upon a time they wanted to conquer the world; another t
 
 Not criminals, came the correction from down the table. They just viewed that market dynamics should not be constrained by regulatory systems. Amoral was the better word. It so happened they tended to attract people of the evil persuasion, but that was a side effect, not an intended outcome. I have met scavengers with the same defense.
 
-"I don't believe that KP necessarily agrees with unregulated markets," Valphine said, and there was a small silence, because nobody could put KP into any of these tidy boxes, and the name went over the table like a draft under a door.
-
 The Harpers were next. "They're the righteous," Vukradin tried. They were not the righteous. They were committed to decentralized power. Anarchists. Anarcho-syndicalists. Their goal was to keep everything at just the right level of fracture so that nobody could run anything; their idea of a perfect world was everybody living in a nice village, nobody bothering each other, and the way they had decided to preserve it was by creating a secretive organization that trades in secrets and power.
 
 "Whoever bothers them becomes an oppressor," Brewbarry said. He put his cup down like he'd solved something. Perhaps he had.
@@ -10205,11 +9786,11 @@ Then somebody mentioned a small tavern with the best tortle home cooking in all 
 
 "Oh boy, turtle soup!" I said. The faces did complicated things. "I don't think it has turtle soup, but yes." The stammering about how nobody had meant made *of* tortles went on longer than it needed to. "It's like Girl Scout cookies aren't made of Girl Scouts, come on."
 
-Vukradin's eyes were glowing yellow now. Full yellow, not the flicker. There was no one in this city he could not make himself understood to. I decided not to think about what he would do with that.
+Valphine's eyes were glowing yellow now. Full yellow, not the flicker. Strangers in the common room kept glancing at her the way you glance at a wayside shrine. I decided not to think about what she would do with that.
 
-"I would like to return the statue," he said. So the statue would come first.
+"I would like to return the statue," Vukradin said. So the statue would come first.
 
-"I have a feeling that's not gonna go well," Vukradin said.
+"I have a feeling that's not gonna go well," he added.
 
 "You want to be maximally arrested, and…" I let the rest of the sentence compost.
 
@@ -10265,7 +9846,7 @@ Vukradin looked up at the rock and started planning a war. "It's a perfect place
 
 I stopped listening around "liberators." Vukradin plans invasions. It calms him. I let him. There were two more rocks up there. Pirates' Skyhold. Fisher's Float. "Wow, that's, like, 3 floating… Oh, that's, that's useful," he said. "All well-positioned for, like, you know, assaulting the town." They say the castle here is called Castle Never because never has Castle Never been conquered. "Well, that's just— challenge. Challenge accepted. That's not fated," Vukradin said. The story of the rocks is old. A magic sickness broke the ground. Pieces flew up, all over Toril. People here chained a few down. Now the finest inn in the city sits on one, and the staff wear half-masks full of glowing moonstones. "This is where the fanciest inn is," Vukradin said.
 
-Soma asked where the statue even came from. The stolen boat. Valphine said, "We're talking about, like, the sunken shipwrecks around the White House." Soma said, "Yeah, where I went swimming and diving and all, yeah." Then she said she couldn't swim that far. Tortle joke, maybe. I didn't get it. "A year ago, yes," Vukradin said. "God, it's been a long time," Soma said.
+Soma asked where the statue even came from. The stolen boat. Valphine said, "We're talking about, like, the sunken shipwrecks around the Tower of Storms." Soma said, "Yeah, where I went swimming and diving and all, yeah." Then she said she couldn't swim that far. Tortle joke, maybe. I didn't get it. "A year ago, yes," Vukradin said. "God, it's been a long time," Soma said.
 
 The Mask is where the rich and the powerful go to chill out and relax. Vukradin would have known that back then if he'd listened to anything but his own music. "They always snubbed me. They were never willing to host me," he said. True. Not many places got the chance to snub him. "Yeah, but this place was not willing to host me." Also true. Also, he thought they were beneath him. "You snubbed them before they could snub you," Soma said. "There you go, there you go. He's snubbed by these rich assholes."
 
@@ -10902,3 +10483,1070 @@ Valphine read out what was already there. "It says, 'Capital Gang, secure capita
 And Brewbarry, summarizing his approach to commercial finance: "Yeah, get a loan, whatever. I mean, I was told to go there with this letter of recommendation and investigate some disruption. So I assume whack a few heads and…"
 
 A counting house, a letter of recommendation, and Brewbarry. I resolved to be present for the whacking, if only to negotiate the terms first.
+
+# Chapter 47 The Only Viable Shipper
+
+
+---
+
+## Brewbarry — Bathrobe Speech to Empty Room
+
+The plan is the Counting House. "Sort out some supply chain issues, or whatever." Linene said they might be able to do something about it. Linene is my wealth management consultant. She made my quest her quest. So the Counting House it is.
+
+I wear the bathrobe. It is the product. A man who sells softness should look soft. Under the bathrobe I wear my hides, because a man should also look like himself. My kind spread violence and pain across the land for generations, hack and slash, and I am turning that around. "What better way to take a break than to put on your soft bathrobe and just chill and relax?" That is the pitch. I said it the whole road here until Vukradin told me to give it a rest.
+
+He has more questions this morning.
+
+"Do you ever go into battle with the bathrobe?"
+
+"Man, it could be a concept. But then you'd risk staining it with blood and shit. Probably not."
+
+Then he asks if I wash it.
+
+"No. Barbarians don't wash their clothes. I'm not familiar with that concept."
+
+He keeps looking at me, so I explain the whole thing.
+
+"There's no point. Just no point. Keep it as it is. Plus, you call it dirt, I call it sweat and blood. That's what we barbarians live for."
+
+At the doors, Vukradin is bouncing on his heels. He has his conflict-free letter of credit from the mine payout and he carries it the way I carry the halberd. But today is not his letter's day.
+
+"I have a letter of introduction to the Counting House that Linene gave me."
+
+"I guess the letter of credit is for later."
+
+"We don't need it. We're gonna be filthy rich from all the donations we're gonna collect in Neverwinter."
+
+"You mean the charitable foundation will be filthy rich?"
+
+"Yes. Yes. Yes."
+
+"That's exactly what I mean."
+
+I go in first. I fill my chest and I boom the greeting I built last night: good folks, my name, all of my name. I trip on the tribe part, back up, take it again, land it. "I bring here a letter of introduction from Linene, and I've heard that you're having some trouble with the supply chain. Something that maybe I can help with."
+
+Then I stand there. Tables. Ledgers. Chairs. My words go up into the rafters and come back down with nothing on them.
+
+"Who are you talking to?"
+
+"There's nobody."
+
+"I hear a Brewbarry."
+
+Last night I stood in front of the glass in my bathrobe and said the words until they sat in the right order. The name was the hard part. I practiced the name the most.
+
+"Damn! I had prepared that speech in my bathrobe last night."
+
+"I rehearsed it for, like, fifteen minutes."
+
+"It was a good one. If you want, I can give you some tips on how to be more persuasive. I've got a silvery tongue."
+
+"…which I do not have. My axe is my tongue. Or my—"
+
+"You need to remember to wait for people to enter the room, and then you start."
+
+"Well, where are they? Where is everyone?"
+
+Deeper in, the place becomes a real bank. High-end. Long tables, ink smell, money smell. A man notices us and comes over.
+
+"My name is Aurum Bee Vance. How can I help you?"
+
+"Aurum Bee Vance?" Vukradin says. "Did I get that right? Aurum Bee Vance?"
+
+"Sounds like a meadery."
+
+"Some weird pun that we're missing," Soma says.
+
+The man says it again, slower, and this time it comes out Aurelan Vance. Names are slippery today. I tripped on mine an hour ago. I hold nothing against him.
+
+"Okay. Alright, this is Brewbarry's moment. Go for it."
+
+He gives me the floor. I take it. There are people in the room this time. Better already.
+
+"This is your lucky day, Aurelan."
+
+"Why?"
+
+"My halberd and my friends here are here to sort out your supply chain problems."
+
+"We don't have a supply chain problem."
+
+*Huh.* "Aha, have I been lied to, then? Here's a letter of introduction by Linene, whatever her name is. She's my wealth management…"
+
+The word hides from me. I wait for it.
+
+"…consultant?"
+
+"And she told me she couldn't move around my bathrobes."
+
+He asks what it is I'm making again. Then he looks me up and down. The halberd. The bathrobe. The hides under the bathrobe.
+
+"Mr. Brewbarry, first of all, I think your costume is wonderful, and I really admire the cosplaying of it, but is it—"
+
+Costume. These hides came off beasts I killed with my own hands. My tribe sewed them. When they threw me out they took everything else; the hides stayed because they were on my body and they were mine. My rage stirs. And yet. He is a small man behind a big table and he does not know what he just said. So I do not hit him. I warn him.
+
+"Now, slippery slope here, Aurelan."
+
+"Use your next words very carefully."
+
+He starts choosing them. I can see him choosing. Then Vukradin steps in front of the choosing.
+
+"I have a question."
+
+"What do you count?"
+
+It is a fair question. I back him. "Yeah, this is accounting."
+
+"Oh, Mr. Vukradin? Vukradin?" The banker knows him. Everyone in this city knows him.
+
+"Yes, I am Vukradin, and we are Lathander's Death."
+
+"I'm sorry, I… I don't know what that… that's—"
+
+"It's our band, Lathander's Death."
+
+Lathander's Death. That is the name today. We need a marketing consultant, I think.
+
+"But yes, but Mr. Vukradin, I was speaking to Ms… I was speaking to—"
+
+Ms. He means me. He is not having a good day with names either.
+
+"Yes, but I had a question."
+
+"And you didn't answer my—"
+
+"Let's not get sidetracked here."
+
+---
+
+## Valphine — Bullying Through the Loan
+
+The Counting House smells of ink and lamp oil and, beneath both, of fear managed by routine. I position myself where I can watch Aurelan Vance's hands. I trained Brewbarry in interrogation, and a teacher owes her pupil the courtesy of attention when he performs.
+
+"You're not gonna help me. I'm gonna help you, old man. Don't get things confused in that little head of yours."
+
+The banker's quill stops. Brewbarry lets the silence do its portion of the work, then offers the exit that is not an exit. "Now, please tell me, is there some business to be done here, or should I go elsewhere?"
+
+Aurelan Vance retreats to procedure, the one ledge his profession offers him. "Well, what are you making?"
+
+"What do you mean, what am I baking?"
+
+*Baking.* I do not correct him. The mishearing unsettles the banker more than accuracy would.
+
+"Am I supposed to tell you what I'm making? I've got this letter here." He produces Linene's letter of introduction and drops it on the desk.
+
+"Yes, well. What the letter says is that Linene is saying that she wants us to lend her money so that she can start her business, but she doesn't describe the nature of the business."
+
+So Brewbarry describes it. "I'm gonna show the world how cruel this world is, and I'm giving this softness to all the good people of the Forgotten Realms by supplying them with bathrobes."
+
+I catalog this and find it sound. Cruelty acknowledged, then answered with distributed softness. It is nearly a theology. He answers pain with cotton; I answer it with radiance. We serve adjacent altars.
+
+"That's very interesting." Aurelan Vance takes a small piece of paper and a quill and begins scribbling. "Do you know how much this will cost to make?"
+
+"I have absolutely no idea, which is why I have a wealth management consultant. I suggest that you talk to her."
+
+"Well, very well. I will make a note of talking to her. And how do you intend to ship your goods?"
+
+"What do I look like? Some merchant? The logistics guy? No." A beat, so the room can absorb the taxonomy. "I hack and slash."
+
+The banker reads the letter again and arrives where the letter was always going to take him. "Oh, I see you intend to use Lionshield Coster as your shipping agent and business arrangement." He pauses, and I watch caution and duty argue behind his eyes. Duty, or something wearing its clothes, wins. "Mr. Brewbarry, I wish to apologize. I want you to know that I have no objection to Lionshield Coster's business, or their interest in… and I've done wonderful business with them, but their rates have gone ridiculously up, and I'm afraid that, based on my calculations—" and he produces a page of figures too cramped to read. He calculates quickly; I grant him that. Speed of arithmetic is its own small power, and he wields the only power he has.
+
+"Well, I will have to double-check the numbers, but unfortunately, I have to be honest with you. With the margins we expect, even with Margaster's very generous margins and prices, and the cost of moving goods in and out of Phandalin, plus—" He is building toward a refusal, brick by numerical brick. "I don't think… I feel that the Counting House—"
+
+"Sorry, let me, let me, let me cut you off. Yadda yadda yadda yadda, you get my blood pumping. Just tell me you're gonna get it done, and that's it. Otherwise, I'm gonna get upset."
+
+"You don't want to see me upset."
+
+The threat is adequate, but a refusal built of numbers is best demolished with numbers. I step to the desk. "We're not tallying in two additional factors."
+
+The quill hovers.
+
+"The temple markup…" My temple. My congregation. Blessed garments command devotional prices, and the faithful buy in quantity. "…and the church of Lathander's bulk demand."
+
+He looks up from his figures at me for the first time, properly. "Oh, you are one of the blessed of Lathander."
+
+Then his gaze completes its circuit of my face, and I watch the two facts collide in him. "And you're a drow."
+
+He holds both and cannot reconcile them. Surface dwellers are so easily surprised by the obvious. Lathander's light does not petition the skin for permission; it takes what it illuminates. My eyes are merely where the taking shows.
+
+"You're very perceptive, Aurelan," says Brewbarry.
+
+The banker rallies, and here the concealed knife shows its handle. "But Mr. Brewbarry, I wish to inform you that I do have a solution to your problem."
+
+"Since your business is in production, what I would suggest you do is, instead of using Lionshield Coster for distribution of goods, you reach out to House Margaster. They're the ones who have managed to reduce the pricing of goods quite significantly, and I believe with their margins and their arrangements, you would be able to run the business most efficiently. And if you could secure a letter of agreement with them — a letter of agreement with them — we would be more than delighted to sign on the dotted line."
+
+*Margaster.* The house whose forged writ we watched land on Lord Cassian and said nothing about. A banker steering a loan applicant toward them mid-refusal is either collecting a commission or obeying a habit someone installed in him. In Menzoberranzan we would assume both and be right.
+
+Brewbarry has arrived at the same suspicion by his own road. "Do I look like a fool?"
+
+Silence.
+
+"Do I look like a fool, Aurelan?" He pulls the halberd out and taps it in his other hand, a slow metronome. I taught him this: give the subject an object to watch, and let the object ask the questions. He has improved the technique by being seven feet of it.
+
+"Exactly. And you tell me to go and do some business with somebody else."
+
+"You think I'm an idiot? Did you have, like, some sweet deal with this other guy? I didn't give two shit about it."
+
+"Now, I told you, I have a wealth management consultant, she has a supply company, she's gonna borrow money from you, you're gonna lend it to her, and you're gonna get this done."
+
+And now Vukradin, the other hand of the instrument, lays velvet over the hammer marks. "Surely, surely there's an interest rate that you would find acceptable, given the increased risk of a lower margin distributor. We can come to some sort of arrangement there, right?" The words land exactly where he aims them; I can see the banker's shoulders accept the offered dignity. The Bard performs sincerity at a level of craft my mother's house would have paid for in blood.
+
+Brewbarry is not finished. "Yeah. I also find it a bit strange that she had this technique to get her prices down for supplying things, and then suddenly she tells me that she's got some supply chain issue that I should talk to you about."
+
+"You tell me you don't know about it, and then you point me to this other guy who has found a way to magically get his costs down."
+
+"No, no, no, no, no, no, no, no, Mr. Brewbarry, and Mr. Vukradin, I think your concerns are legitimate, but I… I would be remiss, I would be remiss as… look, if what you wish to do is to borrow—"
+
+"How remiss you're gonna be if you continue down this path, my friend."
+
+"You see, so — hold on, Mr. Brewbarry. I felt, as your banker, it was my duty to offer you a better path. But if you wish to do business with the Lionshield Coster—"
+
+"Are you my wealth management consultant?"
+
+The banker opens his mouth.
+
+"Are you? No, you're the money man. So what you're gonna do is give us money so that we can do business."
+
+"Very well, Mr… well, Mr. Brewbarry."
+
+"That's what I want to hear."
+
+"You want to be my friend, Aurelan."
+
+By now a crowd has collected around the desk: clerks, clients, the idle wealthy. Spectacle is an instrument, and Brewbarry has played it whether he meant to or not; the man who built his refusal out of arithmetic signs it away with the whole floor watching him do it. Aurelan Vance signs. The paperwork he hands over is substantial. "But we'll be able to kickstart your business with… Linene will be able to kickstart your bathrobe business."
+
+"So now, let's go back to the topic of supply chain issues. Are you sure you don't know anything about it? Because she told me you would."
+
+"Unfortunately, all I know is that there was some kind of system that Lionshield Coster was using that stopped working some time ago for reasons that are obscure and apologetic, but I do not… you'd have to go consult House Margaster if you wanted to learn more. I personally just know that as a result of this sudden change in their shipping methods, the prices of goods shipped by Lionshield Coster have gone up considerably, and their business—"
+
+*Some kind of system.* The Neverwinter Commission's displacement manifold. The Coster was its client; the manifold failed; the prices rose; Elara Meliamne died; Lord Cassian charged us with finding the link. This banker holds one bead of a strand he cannot see, and House Margaster's name sits at the end of it again, their third appearance in two days. Reach, their work has. Elegance, from what I have seen of it, none. I say nothing. Information unspent is information owned.
+
+"This is how you do business, you know?" Brewbarry tells him. "You send people left and right? No, no. So you're gonna go to House Margaster, you're gonna find out what's going on, and I'm gonna come back tomorrow, and you're gonna tell me how I can fix it."
+
+"You get it, Aurelan."
+
+"You're gonna… money that I'm gonna give you."
+
+The grammar is collapsing but the hierarchy is not. Brewbarry has inverted the room: the banker now works for the borrower, and the borrower is grading his performance. "Anyway, it doesn't hurt to get multiple angles, so you're gonna go to this house, and you're gonna find out—"
+
+"Yes, you are. I was about to say yes. I was about to say yes."
+
+"You're gonna come back, and you're gonna give me what I need."
+
+"Absolutely, mister."
+
+"Good job."
+
+Aurelan Vance gathers what remains of his office and drapes it over his surrender. "Well, Mr. Brewbarry, I intend to find out what I can by tomorrow. I… you can rely on the Counting House."
+
+Brewbarry accepts the fealty with philosophy. "I'm a barbarian, I don't know much about business, but when some wheel—" and the crowd stirs at his elbow before the proverb can complete itself. "You turn, you oil it. That's what we're doing." He has mangled it into a threat, which is arguably an improvement.
+
+The stir at his elbow resolves into a wealthy client of the house wearing silk cut to imitate Uthgardt hides. Not mockery. Worse: sincerity, tailored at great expense. He looks up at Brewbarry and does not blink, and his hands go still at his sides.
+
+"What a genuine costume!"
+
+"Are you touching my clothes? Be careful."
+
+"Wow, you are really into the bit. I am very impressed." Then the man attempts Brewbarry's stance, feet planted, chest thrown out, and holds it badly while the moment curdles around him. Brewbarry turns his back and gives the man nothing at all, which is the cruelest available response and therefore the correct one. The city has made my pupil a fashion. It will regret the sincerity eventually; the Overbright always does.
+
+Vukradin, tucking the loan papers away, addresses the last open question of the day. "I didn't find out what they count."
+
+"We, we, we — the counting house is a bank."
+
+"Oh, you could have just said you're a bank. Alright."
+
+"Yeah, we count money."
+
+A small disappointment. I had assumed they counted notes, or beats in a measure. Money is the duller answer, though I concede it is the one that just signed for a bathrobe empire underwritten by my church's bulk demand. Lathander's light reaches even into ledgers. It takes what it illuminates.
+
+---
+
+## Vukradin — Rimardo Audits the Moral Economy
+
+Aurelan Vance finishes with Brewbarry, squares his ledger, and turns to me. "Mr. Vukradin, there appears to be a notice of credit for you. From the Neverwinter Commission, from the Mountain's Toe Mine."
+
+"Oh, yes!" The mine. The good column of the ledger, the one that proves a person can hold a stake in this world without blood on the coin. "The mine."
+
+"Yes, yes. But you'll have to go collect it from those two. From that table over there."
+
+Brewbarry's jaw sets before I can even thank the man. "And there you're doing it again, Aurelan. Pointing people left and right instead of doing it yourself. Why don't you go, my friend."
+
+"But this is unfortunately a different department, Mr. Brewbarry. I do loans. They do fulfillment."
+
+"You see my halberd, you see my axe. Those are two different departments as well. And you're about to—" He does not need to finish it. Everyone in the room can hear where the sentence goes, and Aurelan Vance is standing at the end of it. "—both."
+
+No. Not in a bank, not to a clerk, not ever. "Brewbarry, Brewbarry, he's not our servant. He's not a slave."
+
+"He's the banker. We're in a bank."
+
+"He's a bad banker. He's not good at his job, I'll give you that." Honesty is owed in both directions. "But he's not a slave, and we can't order him around."
+
+Aurelan looks at me, and there is real relief in it. "Mr. Vukradin, I want to thank you. Mr. Brewbarry, I wish you to know that you have the Counting House's full financial support and backing going forward, but I really, unfortunately, cannot supply this information. Mr. Vukradin, I'm happy to walk you over and make the introduction."
+
+Valphine, deadpan at my shoulder: "In Menzoberranzan we called that a cadet house."
+
+Now there is a phrase worth turning over. "A cadet house?" I chew on it while we cross the floor.
+
+Brewbarry leaves Aurelan with a parting gift instead of a halberd, and I am proud of him for it. "I'm no businessman, but if I have some advice to give you: you gotta think differently. Like…" He gestures at the whole marble apparatus of the place. "'It's not my problem, it's somebody else's, over there, go talk to him.' That doesn't work."
+
+"A House that wants a rival poisoned founds a smaller one," Valphine says. "Gives it a crest, a name, a separate ledger. The lesser house does the poisoning. Then the Matron stands before the Council and says the words. *That was not my hand.*"
+
+"And the Council believes her?"
+
+"Not once in nine hundred years." She watches Aurelan rearrange his quills. "It has also never once failed. The words are the wall. Everyone sees through it; nobody may say so aloud." Which is precisely the wall this banker just built out of departments, and I file the whole thing for a lyric.
+
+And then we arrive at the table, and I know it before I read the sign. A small folding table. A velvet rope. A queue of zero. A purple sign: "Rimardo and Mr. Corrin, Divine Accountants and Occasional Entertainers." The same act from Falcon the Hunter's Lodge, transplanted whole into the Counting House of Neverwinter.
+
+"It's our friends. We have a letter for them." We have been carrying it half the Sword Coast. "They're working at the bank?"
+
+"Those guys," Soma says.
+
+"I mean, accounting now. Wow, they've really sunk low. Jeez." From the stage to the spreadsheet. A tragedy I understand better than most. But my heart is not in the pity, because my heart is glad. "Oh, hey guys!" I hold out the letter. "We know you. We have a letter for you! We were actually looking for you."
+
+"Yes, we've been waiting for you for some time." Rimardo takes the paper, opens a book, flips through it page by page, and then delivers his opening line. "I'm here to audit your moral economi— your moral economy."
+
+And Corrin starts producing receipts. From everywhere. From every place we have ever been, dealt out across the little table like a card trick that knows too much about us.
+
+"He literally brought receipts," Soma says.
+
+Valphine plucks one from the pile. "From the Bronze Sun as well."
+
+"No, no, not from me." The disclaimer arrives at once. Nobody claims the Bronze Sun.
+
+Rimardo lifts one of the papers, reads it, and looks at me. Only at me. "You've… you have not refused dirty money. You have merely laundered it through paperwork with better penmanship." His eyes are on the UBT ledger.
+
+*Laundered.* The word goes in under the ribs. I have refused corpse-plunder in an empty field with no witnesses. I have mailed six gold pieces back to Adabra by post. The UBT is the cleanest thing I have ever written, and the money behind the studio came from wine-flushed patrons opening their own purses at the Moonstone Mask, freely, gladly. "It was drunk money." Drunk is not dirty. "Who's dirty money?"
+
+Corrin has produced the subcommittee charter now, the one Linene's people drafted under my supervision. Rimardo studies it, studies me. "Well, do you have anything to say?"
+
+I have a great deal to say. I have a whole moral constitution to say. What comes out is: "I've got this letter for you from the Falcon, so…" I set it down. "Here you go. And, something about a mine?"
+
+Rimardo looks at Corrin. Corrin shrugs, pulls out a stamp, and brings it down on the UBT ledger. *Comedically compliant.*
+
+"UBT is comedically compliant. Great." That is the verdict of the divine accountants on the fairest income distribution scheme in Phandalin.
+
+They take our receipt, stamp it a second time, *approved*, and then they simply stand up and leave. Table, rope, receipts, gone from our business entirely.
+
+"What the hell was that?" Brewbarry asks.
+
+"These guys are weird," Soma says.
+
+"Okay, I'm so glad that we ran into them." I mean it. I genuinely mean it. "Are we done counting?"
+
+"Yes, yes, you can now go collect your money," Aurelan says.
+
+"What money?"
+
+"The receipt. The credit receipt," Brewbarry says.
+
+I look at the letter properly. Two hundred gold pieces, drawn on the Neverwinter Commission. For the mine.
+
+"200 gold pieces." My mind is already sorting it into columns and finding no column that fits. "Is it low?" "It's a loan. It's a letter…"
+
+"No, it's… the letter of credit was so that you could redeem the 200 gold pieces."
+
+"Why am I getting… I don't understand, why are they paying me 200 gold?"
+
+"Remember, the Neverwinter Commission?" Aurelan says. "The Neverwinter Commission owns the mine."
+
+The floor of the Counting House does not move, but something under my accounting does. "Oh, somehow I did not know that. So we don't own—"
+
+"No — yeah, you own a share in the mine that is owned by the—"
+
+"—care of the mine. I thought we were the owners. Okay." I say okay. It is not entirely okay. I have been telling people about our mine.
+
+"Yeah, you, you, the Falcon and Don-Jon."
+
+"So the 200 gold is a dividend, or we're selling our shares?"
+
+"It's a dividend."
+
+A dividend. Fine. Then there is exactly one question that matters, and I put it to my ensemble. "Do we agree that this is fair trade gold?"
+
+"The mine, and therefore the mine's—" Valphine begins.
+
+"Mine wasn't… yeah, it wasn't ill-gotten treasure. It was pulled from the earth," Soma says.
+
+Somebody at this table has to argue the prosecution, and after Rimardo it had better be me. "We're not the ones who put it in the ground." "I just happened to take it out of the ground."
+
+"What do you mean? We cleaned up the mine, we resumed business there." Brewbarry, indignant on my behalf against my own argument. "We've done some work here. We deserve—"
+
+"Wait, wait, wait. So if you eat a potato, is that an ill-gotten potato because it came out of the ground? Like…" Soma spreads her hands.
+
+And she is right, and I know she is right, because I can run the audit myself: the mine was worked legally, above board, the arrangement proper, no coercion anywhere in the chain. Still I press the last seam. "Well, treasure is legal, too."
+
+"The employees were paid," Valphine says, counting it off on her fingers. "They performed work. That work resulted in goods?"
+
+"Solve the labor dispute that got them to work, you know?" Soma adds. And we did. That was us, at the mine, sleeves rolled up in the actual problem.
+
+"If it's not honest money, then you have to tell me what is, because I don't know," Brewbarry says.
+
+"Labor." That is the answer. That has always been the answer.
+
+"Labor… we did put labor in."
+
+"Management labor," Valphine says.
+
+"Hardest and most valuable type of labor," Soma says, and her face does not move at all when she says it.
+
+"Management? Yes." The audit closes. The columns balance. "Like, the bourgeois own the means of production. Alright. I will let Valphine record the entry."
+
+"I'm recording it as Fair Trade Gold," Valphine says, and writes it.
+
+Done. Entered, witnessed, clean. Rimardo can stamp that one however he likes.
+
+And then Brewbarry, who an hour ago was offering a clerk his halberd and his axe as separate departments, says: "We could give… we could give some of it to charity. That, you know…" He looks at me. "It makes you happy."
+
+It does. It absolutely does. "Sure!" One clarifying question for the minutes: "Your share?"
+
+"You're sharing," Soma says.
+
+"I'm gonna roll in gold with my bathrobe business anyway," Brewbarry says, magnanimous as a lord. "Aurelan and Linene are gonna make me rich, so…"
+
+"What I'm hearing is if you don't assemble the bathrobes yourself." Soma says.
+
+---
+
+## Soma — Naming the Margaster Sabotage
+
+The Counting House door swings shut behind us and the mine's dividend rides heavy in Vukradin's pack. Brewbarry is already walking, and not toward dinner. I fall in beside him because someone in this bale has to.
+
+"I heard something about an evil house. Is that where we should go next?"
+
+There it is. He rolls the pouch once in his fist, planning.
+
+"I think, I think a little evening visit to house… What's your name?"
+
+He asks me as if I keep the names of evil houses filed in my shell. Apparently I do. "Margaster."
+
+"Should be fun. Yeah, yeah. Then we can go and have dinner."
+
+Dinner is the fixed point. The evil house is the errand before it. I note the order and say nothing.
+
+Vukradin's face has already gone tight. "Well, I don't want to meet with those guys."
+
+"Why not? It'll be fun."
+
+"They're evil."
+
+That is a verdict, and verdicts need evidence. He hands them out on weather sometimes. "You don't know that yet."
+
+"Bad feeling about them."
+
+A bad feeling is weather.
+
+"Ser Kaelen told me to stay away."
+
+A source. Ser Kaelen does not warn for sport. "I'll accept that."
+
+Brewbarry wants the ledger anyway. "What was our business with them?" A pause. "Other than what Aurelan just told me."
+
+"But they tried to… they tried to scam…" Vukradin gropes for it. "…the rightful owner of the brooch. Remember?"
+
+*The statue.* It was a statue. We carried it across half the coast. I let the brooch go.
+
+"They ex— they extorted him."
+
+Brewbarry digs out the quest journal and thumbs through it, big fingers turning small pages. "Yo, I couldn't find anything about this house." More thumbing. "In the quest journal, can't find anything about this house. My quest journal."
+
+Vukradin leans over his arm and reads the crossed-out entry aloud: "Elara Seasong Meliamne returns statue from Lighthouse to art collector Neverwinter before House Margaster attacks us."
+
+"Why is it crossed over, though? Because we returned it." Brewbarry taps the page. "So it's done."
+
+"Yeah, and then they… they extorted it… extorted money out of her brother."
+
+That is the pile of what we hold. The house once offered Vukradin its services too, moving lost goods more efficiently. He stacks it on. "Right, and they made an offer to Brewbarry." A beat. "To increase the profit margins on his business."
+
+Not quite. Nobody made Brewbarry an offer. The banker only pointed at Margaster's distribution network, the cheapest going these days. A fact, laid on the counter like bait.
+
+"Yeah, because they're criminals."
+
+We witnessed it. A banker would say that was one bad apple. Bankers are paid to say that. Vukradin says the other thing. "Well, we witnessed extortion." And then, flat: "Forgery. We witnessed that."
+
+Brewbarry circles back to the part that touches him. "So what's the connection with Linene here and our supply chain?"
+
+Back at the counter the banker had dangled the cheaper margins in front of him, and Brewbarry hadn't bitten. "Yeah, I was gonna say, sorry for being loyal." He shrugs the big shoulders. "Right. Yeah, they're only loyal to money. I'm not."
+
+He means it. That is the thing about Brewbarry. He means everything.
+
+Nobody has answered his actual question yet, so he keeps asking it, and what we know sits in a short row when somebody finally lays it out. Some time ago the Displacement Manifold stopped working. The Lionshield Coster's cheap shipping route died with it. Linene has been moving goods the hard way ever since. Weather frays a rope ragged. This rope looks cut.
+
+Vukradin opens it for Brewbarry the way I used to open clams for hatchlings, slow, so they can see where to press. "So, Brewbarry, let me try to spell it out for you, right? We know that there is this criminal enterprise that is in competition with your preferred distributor. So, a hypothesis is that they sabotaged that competitor." A breath. "In order to drive more business to them."
+
+"And killed… what's her name?" Valphine says.
+
+Elara Seasong Meliamne. The statue was hers, and she is dead, and Lord Cassian wants to know why. The manifold failed. The house rose. The woman died. The row lines up whether or not anyone finishes saying her name.
+
+"No shit, Harper. The question is, what are we gonna do about it?"
+
+"Wow," says Vukradin.
+
+Somewhere behind my beak I smile. He built the whole argument plank by plank and Brewbarry was standing at the far end waiting for him.
+
+"Do you want to protect your loyal distributor?" Vukradin tries. Then, because he cannot help himself: "Or do you want to help?" A pause. "Help the ones who stab them in the back."
+
+"You really have to ask me this question."
+
+"Let's get it done before dinner, that's what I said."
+
+"You wanna, you wanna attack."
+
+"No, I want to go intimidate them." Brewbarry cracks his knuckles. "Let them know."
+
+"They continue to fuck with my business, then they will be fucked."
+
+"They're not gonna stop just because you told them to stop."
+
+"I'm a barbarian, not a thief. I don't work in the shadows."
+
+"Oh, you don't have to steal."
+
+"I let my enemy know that I am there." He straightens to his full height, which is considerable. "And that they will suffer my wrath. So let's do that."
+
+Vukradin starts counting on his fingers. "Okay, what are… what have we actually got?"
+
+I save him the arithmetic. "We're about to be dead, that's fine. Okay."
+
+"Sure. Do you have any, like, magic items, or… allies…" He gathers speed. "I'm pretty sure they've got, like, the city guard in their pocket. They're gonna call other people to defend. They're gonna have allies, we're not gonna have anybody."
+
+"And probably Lord Neverember as well," Valphine adds.
+
+"Yeah, probably the Lord will take their side." Then the part that should land: "We might get expelled from the city."
+
+"As a business?"
+
+Worse than that. The whole venture comes apart. The money to build it goes with it. The bathrobes never get made.
+
+"You will be banned, and all of your assets seized."
+
+"Well, they do what they do, I'll do what I do." Brewbarry shrugs. "They think they can disrupt my partner's business, so can I."
+
+I raised hatchlings on a beach. Some you warn once, and then you wade out after them. "He's a barbarian, guys."
+
+Vukradin makes one last cast. "We could do some stuff, rather than the direct approach. Maybe we could do some stabbing in the back."
+
+"I'm a barbarian, I don't stab in the back. I cut your head while looking at you."
+
+"Let me go and make my threats." He is already rehearsing it. "And be the judge of whether or not they are a nuisance, and if I decide that they are, then I'll look into how to make them change their behavior."
+
+"I feel like there's no stopping the man."
+
+"Not a fan," Valphine says.
+
+"You're not a fan?"
+
+There isn't. No stopping him. The odds do not change because we named them, but walking in the front door to make threats is a thing that can be done, and Brewbarry is going to do it. He has the whole visit staged in his head already. "Yeah, yeah, he's an evil, bad guy. He's not gonna help himself, and he's gonna try and rub my nose into it, and give me some serious lead on what I can do to—"
+
+Vukradin exhales and plants his flag beside him anyway. "Like, if Brewbarry wants to do an intimidation, I will back him up and also try to intimidate. My good friend and best fan."
+
+"Alright, so we go knock on House Margaster."
+
+I fall in behind my bale. Dinner after, apparently.
+
+---
+
+## Soma — Perrin Claims the Necklace
+
+The man has been waiting in the street for hours. I can read it in his boots: the dust worn into two crescents where he has been shifting his weight, heel to heel. Thirties. Decent clothes, unfashionable, pressed by somebody who cared. He holds a folded letter in one hand like it might get away from him.
+
+"Forgive me. You're the ones from Phandalin?"
+
+"We be…"
+
+"Did you say maybe or yes?"
+
+"Said we be."
+
+"Okay. I'm sorry, my name is Perrin. Perrin Alagondar. The recovery office wrote to me. They said you'd found—" He stops. His throat works. "My family lost something a long time ago. Grave robbers a generation back, we never stopped looking, and they wrote to me last tenday and said someone had it, and that they were coming here, and I've read the letter about 40 times."
+
+I believe the reading part. The paper has gone soft at the creases.
+
+"Yes, the necklace! We do have it," Vukradin says, and then, catching himself: "We have to make sure we're giving it to the right person."
+
+"Can you prove its lineage?" I ask.
+
+"Or at least start with your passport," Valphine adds.
+
+"Well, I think that this is absolutely… yes, I think we should do a proper transfer with all of the paperwork handled in just the right way." A beat. "But not here."
+
+"We have a personal banker at the Counting House. We can go there," Valphine offers.
+
+"He's not that good at his job, though," Vukradin says.
+
+"People at least well enough to possibly vet the lineage? I'm not sure," I say.
+
+And at the word lineage, something catches light in Perrin's eye. Vukradin leans in and hums under his breath, "Dun dun dun!"
+
+Mielikki narrows in like that when She means to know a thing. Everything else goes away, and the one creature left looks wider for it. Fifteen pounds wider, near enough. Nobody soft-skinned would take that as a compliment. I would.
+
+Then the speech starts. The Alagondars used to be "the first family of Neverwinter," and "that imposter Neverember" and his line have taken the city from them, and imposed a dictatorial high-taxation regime, and the necklace is a symbol, a symbol that will rally the forces who reject the Neverember rule.
+
+"We're talking about the necklace here," I say.
+
+Brewbarry yawns. Loudly. A yawn you could stable a horse in.
+
+"It's just an—" Vukradin starts.
+
+"necklace, do you—" Brewbarry.
+
+"—me you're going to start a revolution with the next one?" Vukradin finishes.
+
+"I don't know if I want that on my hands," I say. I have raised hatchlings. I know what a bad idea sounds like when it is still small and warm.
+
+Perrin backpedals fast. "No, I'm not going to start a revolution, no, no, this is a symbol, I'm not about the revolution, this is just a symbol."
+
+"Well, it's your necklace. Assuming you can, you know… establish your identity, etc, etc," Vukradin says.
+
+"Yeah, I mean, if this necklace is the symbol that you say it is, I'd imagine a lot of people would lie to claim it's theirs," I say. That is the whole problem, laid flat. A symbol worth a rebellion is a symbol worth lying for.
+
+"Yeah, that's a good point," Vukradin says. "Well said."
+
+I had noticed the second man some moments ago, holding still at the alley mouth the way nothing honest holds still. Now he steps out of the shadows, on cue.
+
+"How many people are gonna get in our path?" Brewbarry asks.
+
+He has a point. We are a goliath in genuine barbarian hides, a tortle carrying Meril's staff, and a drow whose eyes glow gold with Lathander's blessing. The whole street has been pretending not to look at us since we stopped walking.
+
+"Maybe we should have office hours, you know, and people can get a ticket," Brewbarry says.
+
+"What we get for just trouncing around without bodyguards, without… without sunglasses. The paparazzi," Vukradin says.
+
+"Yeah, but I mean, this isn't Phandalin. This is Neverwinter. We can't be the only party looking like this," Brewbarry says. Nobody points out that all of Phandalin would fit inside this one bank. We have all learned.
+
+"What does this guy emerging from the shadows want?" Brewbarry asks.
+
+The man produces a paper.
+
+"Of course he does."
+
+Vukradin gets there ahead of him. "He says that he's the rightful owner of the necklace. And that it belongs to… dun dun dun, House Margaster!"
+
+"Please don't be—" I start.
+
+Close. Not the claim, the seal. The paper carries House Margaster's paperwork, vouching that Perrin Alagondar is, in fact, the rightful owner of said Necklace of Fireballs.
+
+"I mean, either he just walks around with this, or—"
+
+"—is the one vouching for Alagondar. Well, that's a twist," Vukradin finishes.
+
+The fixer assures us everything is copacetic, completely above board, but if we "really, really insist on making a fuss over this," we could always head over to House Margaster's official offices, where the full lineage can be presented.
+
+"I mean, Brewbarry wants to go to the house, right?" I say.
+
+"I wanted to go there anyway, but if you intimidate them—" Vukradin starts.
+
+"I'm okay with… I'm okay with conjoining these objectives."
+
+"We might have to sequence them, though. We might need to… Handle the necklace, and then do the intimidation."
+
+"I think that's fine. I mean, it's still one trip." Old joints. One trip matters.
+
+"I don't know, but Brewbarry's gonna go straight for the intimidation."
+
+"Exactly, maybe we can use it as leverage," Brewbarry says.
+
+The fixer glances at the light going long across the rooftops. "It's gonna be late. Could we just not do this right here? I give you the… here, this is an official piece of paper."
+
+"So let's head over. We've got time. Day's not over," Vukradin says. "We were headed there anyway. Yeah, why don't you come with us?"
+
+Brewbarry takes the fixer by the neck, one hand, the way you lift a hatchling out of the surf. "No, you're coming."
+
+"Yeah, I think you'll definitely be coming with us," Vukradin agrees.
+
+"Alright, show the way."
+
+"Scruffing him, like—" I say, and mime the kitten.
+
+"It's not a kidnapping!" Vukradin announces to the street.
+
+"Taking him home," I offer.
+
+"I want to be clear, we're just… we're just, you know… supporting him."
+
+"Exactly," Brewbarry says.
+
+"We don't want them to fall down."
+
+And then Boney opens his mouth.
+
+"Boney!" I say.
+
+"Boney? Where the hell is that—" Vukradin starts, spinning.
+
+He is right beside us, where he has been the whole time. "This is fine, he's with us," I tell Perrin and the fixer, who are both staring at the skeletal horse, Perrin's mouth open, the fixer gone still in Brewbarry's grip.
+
+Boney draws himself up into a huffing, puffing pose. As much as a skeleton can manage. "With no lungs or anything, like…" I say. He commits to it anyway.
+
+He fixes Perrin with those empty sockets. "You are a member of the Alagondars?"
+
+Perrin says yeah.
+
+"And who exactly did this necklace belong to?"
+
+"Well, it was… see, I can't really… well, it was, he, he—"
+
+He doesn't know. And I know what Boney knows. That necklace lay in Lady Tanamere Alagondar's own barrow, with its owner, right up until Vukradin lifted it out to return it. Nobody's family lost it to grave robbers a generation back. It was underground the whole time, guarded, as it happens, by the horse now asking the questions.
+
+"You get them, Boney," I say.
+
+"So, let's find out if this paper really comes from House Margaster, and if they say that it does, then let's use Boney as a witness to expose them as frauds. I'm sure," Brewbarry says.
+
+"Oh, that'll hold up in court. A skeletal horse," Vukradin says.
+
+Boney allows the objection. "But I have been dead for some time."
+
+"Not that long," I say.
+
+"Well, dead is a relative term. I mean, I was a bony creature."
+
+"Oh, Boney."
+
+"I probably don't think that Boney is of the goodly races," Valphine observes.
+
+"I prefer the term, recently unalived," Boney says.
+
+"Yeah, Boney talks like a shell-sprout," I say. Hatchlings always find the fast word for the slow thing.
+
+"Terrible," Vukradin mutters.
+
+Brewbarry sweeps the alley with a look. "So does somebody else emerge from the shadows, or are we—"
+
+Nothing moves.
+
+"Nobody else claiming lineage or ownership here?" I ask the street generally. The street declines.
+
+Perrin, stung by the interrogation, insists he has all the paperwork necessary, will produce it if necessary, and that his agent — he points at the man dangling from Brewbarry's grip — can provide that information as well. At the notary, of course.
+
+"Everybody works for the Margasters," Vukradin says.
+
+"Yeah, you can have as many papers as you want. If Boney says you're not kosher, then you're not kosher," Brewbarry declares.
+
+Boney pauses. "Mr. Brewbarry… no— Brewbarry, Brewbarry, Brewbarry. I simply can point out that there are holes in the story. I can't really say whether he is or is not. I did not… I… as you know, I spent some time in a tomb."
+
+"Yes, Boney, do you know who the necklace belongs to? Yes or no?"
+
+"It belonged to Lady Alagondar, and if he indeed is a member of the Alagondar clan, it is entirely possible that he has a rightful claim to it."
+
+And there it is. Our horse is a genealogist. Obsessed with it: who was born to whom, parents and grandparents, the rights of succession, the whole ledger of noble blood.
+
+"Follows the royal families, as it were," I say.
+
+"Well, if you're stuck in a tomb for a few hundred years, you start to do research," Boney says.
+
+"There were records in there, like, new ones?" I ask.
+
+It was a tomb. The records kept arriving.
+
+"Yeah, oh, right. New corpses."
+
+"I understand the motivation, you have to explain to me the logistics of it. I don't know how Boney horse can do some research in books and stuff," Brewbarry says.
+
+"He's not doing bad on books, he's doing it on the gravestones themselves," I say. "So you could see, like, you know, here lies X, married to Y…" A few hundred years of reading the walls. "Yes. Here lies Lady Alagondar, married to Pengro, you know, whatever."
+
+The most sensible member of my bale taught himself heraldry off headstones. I am not even surprised anymore.
+
+The choice is the night or the house. "We've got our friends with us," Vukradin says.
+
+"Yeah, we're dragging him along," I confirm.
+
+"In the evening, at night, maybe? I mean, that's fantastic. Good plan," Valphine says, and then makes Brewbarry trade his scale mail for the elven chain before we move. "Because we might end up in some combat here." He swaps it without argument. She is usually right about that sort of thing.
+
+On the walk the fixer allows that if we're going to get this done, we should get it done properly, and tries to work himself loose.
+
+"Brewbarry's grip is nice and gentle," I say.
+
+"It tries to. Try is the key word here," Brewbarry says. "Try."
+
+A few moments of wriggling, then the man goes limp about it and lets himself be carried along. Meanwhile a knot of wealthy young men dressed exactly like Brewbarry, hides and all, watches him haul a fixer through the street and murmurs about his commitment to the bit.
+
+"Good to know," Brewbarry says. "This, as they say in the hills, this is the way."
+
+---
+
+## Vukradin — Title Insurance at the Notary
+
+The notary house is clean. Clean glass in the windows, clean ledgers squared on the desks, a clerk with no ink on his cuffs. I have learned to distrust clean the way other people distrust dark alleys. As we come through the door, Perrin explains that this establishment belongs to the Margasters.
+
+"No shit."
+
+"What doesn't? What don't they control?" Soma asks.
+
+"That's why it's easier in the forest, guys. None of this crap," she adds, to nobody who can help her.
+
+"Control the Order of the Gauntlet—" I start, and stop. I don't actually know that. Yet. "Well, I'm sure they're trying."
+
+"Mielikki says a wood is held up by what's under it, not what's above," Soma says. "That's them." I let it go.
+
+House Margaster ruined Lord Cassian in front of us with a piece of paper I knew was forged, and now I am standing in the room where paper like that gets its blessing. So I look. "So, I'd like to look around. Do I see anything, like…" I turn a slow circle past the seal racks and the registry shelves, "obviously… I guess not obviously, or subtly amiss. Signs of criminal activity, forgery, deception."
+
+"An unlicensed still in the back, some alchemist cooking dreamlily to rot the sons of merchants," Soma offers.
+
+My eyes only carry me so far. "You know, I've turned over every shelf in here. Maybe Valphine could look, too?"
+
+"I've been reading him since we walked in, and then…"
+
+"Wait, what? Both of us looking, then."
+
+"You barely glanced at it?"
+
+"Looks like I barely glanced at it."
+
+"We're going with Valphine's read." That's not favoritism, that's methodology. "Anybody else want to look around?"
+
+"Oh, sure," Soma says, and whatever she turns up, she keeps to herself.
+
+And here is what Valphine's read comes back with: it is, in fact, just a notary. No hidden sigils, no forger's back room, none of the stink of the writ racket on the premises. The cleanest room in their whole operation, and that is exactly the point.
+
+"So, all the forgeries happen off-site, and they just—" and it lands even as I say it. "They're just notarized here."
+
+"They notarize forgeries. Got it," Valphine says.
+
+"This is not Forgery Central."
+
+"They make the paperwork to legitimize their… business ventures," Soma says.
+
+*Scandalous.* Not the crime. The laundering of the crime into penmanship.
+
+The notary receives us like paying customers, very pleased, waves us into chairs, asks how he can be of assistance. Perrin points at us. "The family of — this, this, the — they have brought an artifact that belongs to me and has been notarized." The fixer produces the paperwork, stamped and sealed. Perrin draws himself up. "With this official document, the necklace, the heirloom that belonged to my family, the symbol of the true, rightful heirs of… of Neverwinter, will be recognized."
+
+The paperwork is beautiful. That is precisely what worries me. I own a fourth-level slot that can turn a man into a different man; this is not paranoia, this is professional knowledge. "But how do we know that this is the gentleman who says he is? I mean, anybody can impersonate anybody. He could be a polymorph, for all we know."
+
+"Yeah," Soma says. "Disguise self as—"
+
+The notary smiles like I've asked him his favorite question. "Well, it's quite clear here, right?" He pulls out a book, leather-bound, titled *Genealogy of the Alagondars*. "And this was verified with the usual procedures against forgeries, doppelgangers, miscellaneous magic, using the threefold rule — of coordinating between three different sources of conflicting evidence with different provenance. And you can clearly see that Perrin Alagondar is, in fact, a descendant, a rightful descendant, of Lady Alagondar, and that if this is indeed stolen goods, as he claims, he absolutely deserves to have it back."
+
+Three sources, conflicting evidence, different provenance. Honestly, it's decent methodology, like tuning against three references instead of one. It answers the book. It does not answer the man. "No, I got that, I agree. But how do I know he's Perrin Alagondar?"
+
+"Oh, well, I mean, he looks like a Perrin. Sorry," Soma says.
+
+The fixer leans in. "Well, we have… there's a very simple solution, Mr. Vukradin, and this is a very common problem that we've seen with many folks in Neverwinter, when they're making these kinds of deals. And this is, by the way—" a little bow toward the seal on the wall, "This is why House Margaster acts as the honest broker on the return of such goods."
+
+"So we're supposed to take your word for it," Brewbarry says. Something in the fixer's face must move, because he squares up. "Are you calling me a liar?"
+
+"We're taking Margaster's word for it," Valphine says.
+
+And I see the whole machine at once. "It's title insurance!" Nobody reacts, so I say it again, louder. "That's all it is, it's title insurance!"
+
+"How can I lose?" Soma asks.
+
+I do the pitch for them, the whole rotten melody of it: "We can't really guarantee anything, but if it's wrong, we'll take care of you."
+
+The notary has never heard the term. I watch the confusion move through him and then watch it stop moving, watch his eyes click through the arithmetic, and I can see the thought land and get shelved, carefully, next to the seal wax: an interesting scam they could pull in the future. He is taking notes. I have just invented a product line for House Margaster.
+
+"Charge thousands of gold, they'll never even know! They'll just sign it because, hey, who cares?"
+
+"Can they also give an extended warranty on this necklace? As long as we're here?" Soma asks.
+
+The notary spreads his hands, gracious. "All these flavors of insurance are, I'm sure… could definitely be products that could be offered in the future. But in the present, what we could do is keep the necklace in layaway in House Margaster's warehouses."
+
+Layaway. In *their* warehouses. Nope.
+
+And yet, under all of it, the true ledger sits open in front of me, and I make myself read it. The Necklace of Fireballs was never mine. I am holding it for its rightful owner. If the genealogy holds, if the threefold rule holds, if Perrin is Perrin, then the necklace goes back to him with every fireball still on the string, and my rule does not care that I dislike the room I'm handing it over in. That is not the rule failing. That is the rule working. It just has to survive the identity question first.
+
+Brewbarry answers it for all of us. "Not happening. Alright — until you can produce 3 independent witnesses, independent from House Margaster, as to who you really are, and it proves to us that you are who you say you are, then you can take a walk and forget about the necklace. Thank you very much. Now, on to our other business."
+
+Three witnesses. Independent provenance. He has built his own threefold rule out of instinct and spite, and it is better than theirs. I could applaud.
+
+---
+
+## Brewbarry — The Shuttered Displacement Manifold
+
+We walk toward House Margaster. Perrin leads. The docks smell of tar and rope and old fish. I like docks. Things at docks have weight, and weight is honest.
+
+Then a building. Shut. The windows are boarded, and the boards are new wood, pale, not weathered. Somebody closed this place fast and meant it. A paper is nailed to the door, city paper, official.
+
+"Okay, what's on the notice?"
+
+The notice says the building has been shut down till further notice, by order of Lord Neverember. The services for instantaneous shipping are closed. I read it twice. Shipping, but instant. Goods in a room here, goods in a room somewhere else. No cart. No mule. No road. That is a lot of wagons nobody needs.
+
+Vukradin says it first. The manifold. This is where it lived, behind those new boards. The machine that broke, the one Lord Cassian charged us to look into, the one tangled up with his Elara dying. I look at the door again. Big lock. City lock.
+
+"Okay, does this Perrin guy know anything about this? Why did they close down this establishment? This fine establishment, I might add."
+
+Perrin has no clue. It stopped working, he says. Nobody knows quite why it stopped working. Then he stops walking and his voice climbs, and he goes off. The Neverwinter Commission "has its hands in everything," he says. Controls everything. And because it controls everything, they shut the machine down, so the cheap and easy way to ship goods gets turned into a mechanism of control. More words like that. Revolutionary words. His arms go up.
+
+Soma is looking at the boarded windows, not at Perrin.
+
+"How convenient for House Margaster, isn't it?"
+
+I think about it. House Margaster runs caravans. Wagons, mules, drivers, roads, tolls. If the magic box works, nobody pays for wagons. The magic box is dead. Everybody pays for wagons.
+
+Valphine catches something else. "You said the Neverwinter Commission."
+
+Perrin says yes.
+
+And then it lands in my head all at once, like a keg dropped off a cart.
+
+"Haven't we been invited by Lord Neverember to have dinner?"
+
+"That paid us for the mine?" Vukradin says.
+
+That one. The same lord whose name is nailed to this door is setting a table for us.
+
+"Great."
+
+Perrin's arms are still up from the tirade. I look at him.
+
+"I'm starting to see your point."
+
+"They have… they wield their influence, flagrantly," Soma says.
+
+Then the arguing starts, about how you fight people like this. Valphine first.
+
+"I happen to think that undermining power structures is best done behind the scenes."
+
+"Yeah, it would be good if they don't know that we're doing this," Soma says.
+
+"It's not so firmly, no."
+
+Valphine tries again. "Just, like, they don't need evidence that… but they don't—"
+
+"They don't need evidence or a reason to disappear anyone," Soma says.
+
+They are talking about shadows. Knives nobody sees coming. My old tribe fought like that sometimes. Burn the camp at night, never show your face. It never made anybody sit down and talk. It just made more burning.
+
+"Well, they gotta know who it is, otherwise that person doesn't have any leverage. You know, you let them know."
+
+There is a difference and I want them to hear it.
+
+"Not make it obvious."
+
+Obvious is a signed confession. Known is a look across the table. A man who does not know who broke his wagon just buys a new wagon. A man who knows who broke it, and knows they can break the next one, pours two drinks and asks what you want.
+
+"I love having Brewbarry," Soma says.
+
+I finish it, because it is not finished.
+
+"Then you sabotage, then they know where it's coming from, and then they're forced to sit at the table."
+
+Soma's whole face opens up.
+
+"I truly love you, man, this is fantastic."
+
+I do not think it is complicated. It is just how leverage works. It is how arm wrestling works, too. Nobody bargains with a stranger's elbow.
+
+"No, I love it. I'm totally here for you," she says.
+
+Vukradin is grinning. Good. We keep walking toward House Margaster. I look back once at the door. New boards. Big lock. Somebody wanted that machine to stay dead, and soon we eat his food.
+
+---
+
+## Valphine — Cullen Sharpe at the Quay
+
+The Eastern Quay smells of tar, hemp, and money. Margaster Logistics Operations occupies its stretch of waterfront the way a well-bred predator occupies a clearing: nothing out of place, nothing wasted, nothing accidental. We arrive with Perrin walking and his fixer still in Brewbarry's grip; the notary preferred the safety of his own premises, which tells me the notary is the smartest man in this affair.
+
+Soma studies the floor and the crates and pronounces the place clean. It is clean. But I grew up inside House Sotorra, whose business my mother taught us to call, with a straight face, *trade*, and so I see what cleanliness is for. This is an extremely well-run operation. The manifests are current. The crews move without being told twice. And stacked in tidy rows, labeled and inventoried, sit boxes upon boxes of Lionshield goods.
+
+"Oh, Lionshield." Of course.
+
+The arithmetic assembles itself while I watch the stevedores. Lionshield never kept caravans; the displacement device carried their trade for them, and when it died, their goods still had to move, and there was exactly one house standing ready with wagons and guards and rates. I test it aloud. "And how exactly are they moving the goods?" I ask a passing clerk. "Not through displacement, by any chance." No. The usual caravans, the usual armed guards, the usual roads. "It sounds like a very expensive way to move goods." Expensive, and therefore profitable, and profitable precisely in proportion to how thoroughly the alternative stays broken.
+
+Soma reaches the same ledger by a shorter route. "They're wetting their beak, yeah, they just want the profits." Then, warming to it: "It's a legitimate business front." And the verdict, which I could not have phrased better in my mother's own hall: "They are legitimately moving goods. How they're getting all the business is less than legitimate." When someone wonders at the rates, she shrugs. "They're the only game in town. They can charge whatever they want, no matter how expensive it is."
+
+A legitimate monopoly built on an illegitimate outage. In Menzoberranzan we did not call this crime. We called it Tuesday.
+
+Then the green suit arrives. Cullen Sharpe, the man who bled Lord Cassian on his own floor with a smile and a writ, walks up to us radiating hospitality. Vukradin recognizes him at once. "Oh, that's the guy… who extorted—" A breath. "This asshole. Okay." Then, lower, the sharper read: "He's working on commission."
+
+Something in me settles into the stillness Lathander has been teaching me, the quiet that lets a lie ring against the ear like a cracked bell. I ready it. Brewbarry requires no such refinement. "Of course he's lying, he's a thug." The goliath's entire school of insight, and I cannot say it has ever failed him.
+
+"Mr. Vukradin, I'm so delighted to see you. Oh, and Mr. Perrin, I hope everything is going… that the letter of introduction we provided was sufficient, the evidence." Then he turns fully to the Bard. "Mr. Vukradin, I hope you see from how we manage that we are very good at solving one of the problems that Ser Kaelen suggested you might have when he reached out to us through one of our agents — that perhaps we could provide the connecting tissue between your finds and the real proprietaires using our patented system."
+
+*Ser Kaelen.* I file the name where it lands: the Order's man, reaching into this house through an agent, and this house delighted to say so in front of us. Either Kaelen is careless, or Cullen wants us to believe Kaelen is theirs. Both readings are useful to someone, and neither of them to us.
+
+Vukradin nudges Brewbarry forward, and I watch the play open with something between anticipation and dread. "That is what we're here for," Brewbarry begins. Then, expansively: "That's what we're here for, my good man. Solving problems, and getting your help into solving problems." He pats Cullen on the back, a gesture that on another day, from another Brewbarry, would have carried the weight of a rockslide. It does not carry it today. The trouble with intimidation is that it is a theology of scarcity: the subject must believe pain is imminent, and our goliath has spent the entire road to Neverwinter monologuing about thread counts and softness. Soma names the wound precisely. "The robe, man, the robe just makes you look so soft and, you know…"
+
+Vukradin lends his voice to shore the thing up, and Brewbarry commits regardless. "So, Cullen, my good friend—" the pat again, "You're gonna help us solve problems, do exactly what you said you would do." Cullen is not intimidated. Cullen is enjoying himself; he lets the pat land, and he does not step back from it.
+
+Brewbarry presses on anyway, and here, to his credit, the questions are the right questions. "I have a good friend of mine — you might call it a business partner — who has this shipping company that was using this device that suddenly, you know… broke. Yeah." The grip finds Cullen's shoulder. "And the house was shut down, and then they have to rely now on your fine establishment to transport their goods. I was wondering if you could enlighten me as to what exactly happened to this device. Maybe you know." The grip firms. "Don't you?" And then, because he cannot help himself: "You know, Cullen, I've been told that you're quite sharp, no pun intended."
+
+Cullen absorbs all of it like water absorbing a thrown pebble. "My dear friend, Mr. Brewbarry — can I call you friend?"
+
+"Of course, of course, we are. Friends."
+
+"Yes, we're all friends. So, my friend Brewbarry. The device you're referring to was run by House… House… was not run by House Margaster. We were not involved with the operation of that thing, and perhaps if we had been, it would not have gotten damaged and been no longer operable. To be honest with you, I don't think I know what happened, although I do know that there was some gnome that was hired to attempt to fix it, and as a result of the attempts to fix it — or was it to improve its operation — it stopped working."
+
+I catalog the construction. The denial is shaped like truth, and the boast is folded inside the alibi: *if we had run it, it would still work.* A gnome, hired to fix, or was it to improve, and the improvement is an outage, and the outage is this warehouse, these rates, this monopoly. Whoever profits from a broken machine has little appetite for the machine's repair.
+
+"I mean, might you have the name of this… gnome?" Brewbarry asks.
+
+"I'm sorry, I wouldn't have…"
+
+"Truly, a man of your, you know, knowledge. Influence."
+
+"See, perhaps if you were to come tomorrow, or we were to resolve some… we were to enter into a business arrangement, I would be more inclined to see if…" There it is: information priced as leverage. House grammar, fluent and unashamed. Then Vukradin's voice goes to work, the trained instrument doing in a sentence what the shoulder-grip could not do in five, and Cullen folds with theatrical grace. "Mr. Vukradin. Mr. Vukradin. I, I, I think… you know." A pause. "I'd love to help. In fact, I will help. But I don't have the informa… I personally don't have the information. I'll have to ask around, so if you're willing to come tomorrow, I will give it to you. But can we… can we go back to—"
+
+Vukradin does not let him go back. "We've got a lot going on tomorrow, so we've got a concert. Do you think you guys could come to the concert?"
+
+"Oh, absolutely!"
+
+"Yeah, because it's a benefit." Vukradin builds it. "It's a benefit, and—" "We really want lots of people to come and donate to this important cause." Then, reaching: "Do you think you could get, like, the whole house to come?"
+
+"I don't… I don't think I could do that, but I'm certain I, as a representative of the House, would be more than delighted to show up."
+
+"That would be excellent," I say, and mean it in a register Cullen cannot hear. A Margaster man inside the Morninglord's house, coin in hand, believing his donation purchases something. The Morninglord does not sell. He burns, and he illuminates, and every soul that walks under his light is assayed whether it consents or not.
+
+"Well, better than nobody," Vukradin allows. "Something, yeah," says Soma.
+
+Then Brewbarry improvises. "I'll also suggest that, you know, you may see this as a business opportunity. I mean, should we get this device working again? And I've heard it's quite brilliant at transporting goods at a very cheap rate. This could be a business opportunity."
+
+"We're not doing any business with it," Vukradin says at once.
+
+"Of course we're not, but it doesn't hurt to suggest it."
+
+Vukradin pulls him half a step aside, hissing. "But you're deceiving them. Is that what's going on, Brewbarry? Sidebar?" A beat. "Okay, got it."
+
+And here the Overbright delivers one of its small perfect jokes. The lie sails out of Brewbarry so artlessly, so entirely without craft, that it passes beneath Cullen's notice altogether: the agent does not detect deception because he cannot conceive that this soft-robed barbarian knows enough about commerce to lie about it. He files Brewbarry as an amiable fool talking beyond his depth. Brewbarry, catching it, is delighted. "Exactly. Perfect cover, and I don't—" "We'll take that, we'll take that," Vukradin mutters, and takes it.
+
+"So, you find out who the gnome is for me, you find out exactly what happened," Brewbarry closes, magnanimous. "Because, you know, machines get broke, or supply chains get disrupted, things happen." The goliath reciting Margaster's own catechism back to Margaster, innocent as dawn. Things do happen. Someone makes them happen.
+
+The necklace has not been forgotten. Perrin and his fixer hover at the edge of the transaction, and House Margaster produces its next offer: hand the Necklace of Fireballs to them for safekeeping, a warehouse layaway, the item held in trust by the most trustworthy monopoly on the coast. We decline.
+
+"They know what they gotta do," Brewbarry says. "Produce 3 independent witnesses that can guarantee who he is."
+
+"Yeah, why would we need to do that? We brought it all this way," Vukradin adds. "It's much safer with us."
+
+The fixer's face sours. Brewbarry answers the sour face by taking the man's paperwork, working it into a little ball with his enormous hands, and tossing it over his shoulder. "It's like…"
+
+"You're always egging them on, man," Vukradin sighs.
+
+"Is that making it crystal clear for you, Perry?" Brewbarry says. "Whoever you are."
+
+The fixer's hand starts toward his weapon. It is the most honest gesture anyone has made in this warehouse all evening, and it lasts exactly as long as it takes Cullen Sharpe to look at him. The hand comes off the hilt. Brewbarry twists the knife with evident pleasure. "Wise decision." A step closer. "Now, don't make me—" He gestures at the crumpled ball. "You eat that paper, that piece of paper, and, you know, chop, chop, move along."
+
+Cullen glides in to lacquer over the moment. "The gentlemen are sticklers for ritual and control. House Margaster's business is to make sure that the customer is satisfied, and we will provide all the information."
+
+While they perform satisfaction at one another, I retrieve the paper ball from the floor and flatten it against a crate. My family forged writs of provenance for three generations; I know the taste of a forgery the way a vintner knows a corked bottle, the seal a fraction too crisp, the ink aged in the wrong order, the witnessing hand too consistent with the drafting hand. I read every line, hold the seal to the light, work the paper between my fingers. Nothing. It is authentic. The information is correct, the chain of claim intact. Perrin was not lying about the documentation.
+
+Which is worse, of course. Vukradin arrives at the same cliff. "I mean, so he's not a cheap fraud. Alagondar has allied with Margaster." He turns it over. "Right? And they're trying to, together, overthrow… Lord Neverember, something like that. Right. Could all be totally legitimate, and they're still evil." Then the Bard does the thing I still cannot decide whether to admire or pity: he lets his own principles close around his throat like a well-fitted collar. "…is if we can establish his identity, and he's the rightful owner of the necklace, we have to turn over the necklace. If he then takes the necklace, puts it on, and shoots a fireball at us, well, that sucks, but that's what we have to do anyway."
+
+"Yes, but what's not clean is we don't know if he is who he says he is," Brewbarry counters. "That stuff, we want witnesses — and witnesses that aren't in House Margaster's pocket."
+
+Perrin professes himself happy to comply. He has materials at his house, witnesses he can produce, and he suggests an inn where all of it might be presented over a comfortable table. An inn. A neutral room of his choosing, with exits of his choosing.
+
+"I thought we were gonna meet at House Margaster," Vukradin says, having lost the thread of geography; we are standing inside House Margaster's operation at this moment. I do not bother correcting the map. I correct the venue.
+
+"We're gonna meet at the Church of Lathander after the sermon."
+
+The question comes back at me, whether that is truly where I want this settled. "Yes." And, so there is no ambiguity: "I definitely want to see him."
+
+"We'll be doing… a gig," Vukradin adds, already elsewhere. "And we have to tell the whole town the new name of the band."
+
+"Yes, I definitely want to see him set foot within the temple," I say.
+
+"Nice. Interesting task," Vukradin says, and I watch him understand it a half-beat later. "Alright, I like that."
+
+He likes it as theater. It is not theater. Paper can be authenticated by a monopoly's tame notaries; witnesses can be purchased by the crate, I saw the crates. But the Spire at dawn is an assay no house underwrites. Let the claimant stand in the Morninglord's light with his three witnesses and his correct sets of information, and let the light do what light does. It is not that I expect him to burst into flame at the threshold. It is that men arrange themselves differently inside a temple they are lying to, and I will be watching the arrangement.
+
+Perrin, obliging creature, is very happy to agree, and then he begins to talk. He is not, he allows, an exclusive worshipper of the Morninglord, but he is a big believer, and the Morninglord is a god of good, and so on, and so on. I give him nothing. Complete blaséness, the face I wore through a decade of Lolthian liturgy. He is reciting the surface catechism, the one where my god is warmth and kindness and gentle mornings. They mistake restraint for kindness up here, all of them. The dawn is not kind. The dawn is inexhaustible power arriving on schedule, and everything that cannot bear it withers. He will learn what he believes in tomorrow, inside the doors. So, perhaps, will I.
+
+Brewbarry, tidying the ledger of the evening, catches a loose thread. "So I missed something before we conclude this. There was this other guy who was pretending that he owned the necklace. Who was he again? Sorry."
+
+An agent of House Margaster. Of course.
+
+"He was also an agent of House Margaster, right?"
+
+"Everyone in town is," Soma says.
+
+And then the goliath, robed in softness, having intimidated no one and deceived everyone, arrives unassisted at the first lesson every Sotorra child learns before she can read: "We need to find out who is not with House Margaster, and we need to align with those people, just in case."
+
+Just in case. In Menzoberranzan we had a shorter word for it: *survival*.

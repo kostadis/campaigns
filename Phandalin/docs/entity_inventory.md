@@ -27,7 +27,6 @@
 - **Corellon** — Elven deity; Vardis is a cleric of Corellon (Light Domain), exiled from every temple for theological flexibility
 - **Helm** — God of protection; one of the patron deities of the Order of the Gauntlet
 - **Hoar** — God of retribution; one of the patron deities of the Order of the Gauntlet
-- **KP** — Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
 - **Lathander** / **Morninglord** — Dawn deity; Valphine Sotorra became a devoted follower after her religious experience with sunlight on the surface
 - **Lolth** — Spider goddess, trapped in a demi-plane as part of a multi-century plan; her pawn Gromph Baenre's spell inadvertently triggered the Out of the Abyss crisis
 - **Myrkul** — God of death; active in the North (Dragon of Icespire Peak canon), potential architect of undead presence at Pirates' Skyhold
@@ -35,6 +34,7 @@
 - **Selûne** — Moon goddess who intervened in 1479 DR by sending shards to Toril, enabling the purification of the Shard of Night
 - **Torm** — God of duty; temporary priesthood installed in the Hall of Justice by Neverember during Tyr's absence
 - **Tyr** — God of justice; primary deity of the Hall of Justice; died in the late 1300s DR and was later resurrected
+- **Kazneporium Ketternopappux** / **KP** — Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
 
 ## Events
 
@@ -591,3 +591,5 @@
 - **Laeral Silverhand** / **Open Lord of Waterdeep** — Open Lord of Waterdeep and First Lord of the Lords' Alliance; named at the table in Ch. 47 ("Lady Laeral Silverhand, who's the open Lord of Waterdeep"). The 'Open Lord of Waterdeep' alias was previously attached in error to Dagult Neverember, who rules Neverwinter as Lord Protector; moved here 2026-08-03.
 - **Tuck Stonehill** / **Tuck** — Son of Toblen Stonehill; present at the Stonehill Inn, Phandalin. Named on the fly ch46 (2026-06-23); campaign name replaces the module's Pip. GM ruling 2026-08-07.
 - **Petunia** — Alphonse 'Big Al' Kalazorn's cow (not a humanoid NPC — typed npc as the registry has no creature type). Module NPC from Dragon of Icespire Peak. Recovered at Butterskull Ranch via Soma's Speak with Animals; grazes with Qelline Alderleaf; source of the Phandalin cheese, which is graded by which part of the field she grazed. Attends town gatherings — present on the town green for the UBT proclamation (ch46).
+- **Kostadinious the Sage** — In-world biographer who recorded KP's story. NOT KP — see notes/corrections/kp_identity_attribution.md.
+- **Aurelan Vance** / **Aurelan** — Banker at the Counting House, Neverwinter. Drafted ahead of play in notes/npcs/aurelan-vance.md as a Moonstone Mask guest (retired Enclave trade magistrate); GM ruling 2026-08-13 confirms the Counting House loan officer played in Ch.48 is the same NPC. Signed Brewbarry's bathrobe-business loan with Linene Graywind as shipping agent, pushed House Margaster as a cheaper distributor, and directed Vukradin to the Neverwinter Commission letter of credit. Canonical spelling is Aurelan per the 2026-08-13 GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre' and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct from Andrella, the Beached Leviathan barmaid.

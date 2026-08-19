@@ -8,198 +8,268 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party uncovers a sacred site dedicated to the dwarven god of greed and finds a mysterious statue with a glowing gem.
-- Valphine rolls a natural 20 on perception entering the area. The DM: *"No middle numbers, just ones or 20s."*
-- The party gets a strong sense of sacred religious significance — an important site for the clerics of Abbathor.
-- A rubble pile to the south at first appears to contain a statue; closer inspection (and Soma's Mold Earth cantrip clearing the debris) reveals it is the shattered remains of a destroyed statue. No gem survives.
-- In an alcove to the north stands an intact statue of a horned dwarf, face twisted in naked avarice, hands cradling a glowing green gem.
-- Vukradin: *"I think I've seen that picture in the Dungeon Master's Guide. Is that, like, a classic D&D picture?"* Wade confirms it is.
-- Valphine casts Detect Magic: the gem radiates a magical aura.
-- Investigation check on the gem: rolled a 1. DM: *"To your best guess, this is an emerald, but it could also just be glass."* The DM's own private assessment: probably worthless glass.
-- The gem is left in place.
+- Vukradin canvasses the party for anyone with Mold Earth — "It's a very valuable spell, mold earth" — and Soma has it as a cantrip: "Let's go."
+- Soma uses magic to clear away loose earth and rubble, revealing a sacred religious site — with Valphine's natural-20 perception taking in the room. Soma needles Gary: "You save those for the out of combat rolls, I see."
+- The GM reveals the area was once important to the clerics of Abbathor. Soma deadpans "Who's Abbathor?" before admitting the joke.
+- In a northern alcove, they find a statue of a dwarf with horns staring greedily at a glowing green gem in its hands — an image Vukradin swears he has seen before: "I think I've seen that picture in the Dungeon Master's Guide... A demon statue holding the glowing gem."
+- Valphine detects magic emanating from the gem (the GM's own phrasing: "some magic on the gem" — "faint" is summarizer wording, not confirmed aura strength).
+- The party investigates the gem, debating whether it is a valuable emerald or a worthless piece of glass — Valphine's investigation comes up a natural one, leaving "this is an emerald, but it could also just be glass," with Soma suggesting tanzanite and Vukradin peridot. Valphine's in-character verdict to the party: "a worthless glass gem, I think it is," and it is left in place — though the GM had already named it an emerald out of character before the roll ("It's an emerald. Um, roll your investigation"). The party's belief that it's worthless glass is the character-knowledge state going forward; the gem itself is an emerald. Vukradin: "I'm sure it has great historical significance despite its worthless value in the present day."
+- A southern pile of rubble is revealed to be the remains of a second, shattered statue, with no gem remaining — Vukradin insists on digging through it for artifacts himself ("Let him tire himself out," Soma advises) and finds nothing.
 
 ## Verbatim moments
 
-**[The Hall of Greed — Approach and Entry]**
-- The party identifies the only unexplored area is to the east, blocked by rubble.
-- Soma confirms she has Mold Earth as a cantrip; they use it to clear the passage.
+**[The Mold Earth Canvass]**
+- With the Hall of Greed reachable only past collapsed rubble, Vukradin polls the party for earth-moving magic.
 
-**[GM]** — *describing the entry through the cleared rubble*
+**Vukradin** — canvassing the party; the first line is cut off
+> "Is anybody mold-" (truncated)
+
+*(unattributed cross-talk folded into this block: "Keep encouraging us that we can do anything" — speaker unclear, not necessarily Vukradin)*
+
+**Vukradin**
+> "is anybody mold earth?"
+
+**Soma** — answering; the transcript folds an incredulous interjection (apparently Dave's) into her block
+> "I actually do. All right. Let's clear it out."
+> "You do not."
+> "I do. Look at my character."
+
+**Vukradin** — approving the pick
+> "It's a very valuable spell, mold earth."
+
+**Soma**
+> "It's, it's there. I have it as a, it's a, it's a cantrip for me."
+
+**Vukradin**
+> "Excellent"
+
+**Soma**
+> "Let's go"
+
+**Vukradin** — confirming the rubble qualifies for the cantrip; GM confirms
+> "It's loose earth. Yeah, it is loose earth."
+
+**GM**
+> "Yep."
+> "All right. Okay"
+
+**Soma** — as the earth clears; the last fragment is completed in Vukradin's next line
+> "Oh, wow"
+> "In fact, maybe we should go check some of these other things, like down here"
+> "Well, that connects to the other" (truncated)
+
+**Vukradin** — first word completes Soma's cut-off sentence; then recalling the dwarves' earlier warning
+> "area"
+> "Well, we were, we were warned that one over there could collapse if we fiddled with it"
+
+**[Entering the Sacred Site]**
+- The GM confirms the warning and moves the party into the newly opened area, calling for perception.
+
+**GM**
+> "Yeah, that's right All right."
 > "You arrive in this area here. All right, what do you see here? Perception,"
 
-**[Valphine]** — *perception roll on entering*
+**Valphine** — the perception roll
 > "a natural 20."
 
-**[Soma]** — *OOC, amused*
+**Soma** — needling Gary over his dice
 > "Beautiful. You save those for the out of combat rolls, I see."
 
-**[GM]** — *wryly*
-> "Grym? I, I think I got three natural 20s and three natural ones. All right. This, um—"
+**Valphine** — reply is split across a speaker change, second half landing in the GM's block
+> "That's" (truncated)
 
-**[Soma]** — *finishing the GM's thought*
+**GM**
+> "right. Okay."
+
+**GM** — the tape opens with a garbled name and folds the player's dice tally into the GM block
+> "[inaudible]"
+> "I, I think I got three natural 20s and three natural ones."
+> "All right. This, um-" (truncated)
+
+**Soma**
 > "No middle numbers, just ones or 20s"
 
----
-
-**[The Hall of Greed — Sacred Site Revealed]**
-
-**[GM]** — *delivering the perception result*
+**GM** — the room's nature revealed
 > "Walking into this area, you get the sense of it being some kind of sacred religious, uh, location important to the clerics of Abbathor"
 
-**[Soma]** — *feigning ignorance, then breaking*
+**Soma** — deadpanning, then owning up
 > "Who's Abbathor?"
+
+**GM** — taking the bait
+> "He's the, uh-" (truncated)
+
+**Soma**
 > "No, I'm just kidding you. Okay. Sorry. I just rolled like garbage, that's all."
 
----
+**[The Statue and the Rubble]**
+- The GM first misplaces the statue in the southern rubble, saying it stares at a gem "in its eyes," then corrects himself: the intact statue is in a northern alcove; the southern pile is a second, shattered statue.
 
-**[The Hall of Greed — South Rubble Pile and North Statue, First Description]**
-
-**[GM]** — *initial description, slightly garbled*
+**GM** — initial (mis-)description; garbled ending quoted as spoken
 > "All right. Um, so you look at the, the, on to the south, you see, right over here you see a sta- a rubble. You see rubble. Uh, and it holds a statue of a dwarf with storm, with horns, which stares greedily at a glowing gem in its eyes."
 
-**[Soma]** — *to Vukradin*
+**Soma**
 > "Hmm. Hey Vukradin, look over there."
 
-**[GM]** — *to the party*
+**GM**
 > "So, what would you like to do?"
 
-**[Soma]** — *proposing action*
-> "Should we mold earth away some of the rubble and see if there's anything else at his feet? Sure, sure. Yeah. Let's clear away that rubble and mold earth—"
+**Soma** — proposing the sweep; the block folds in an assent and the start of Dave's question
+> "Should we mold earth away some of the rubble and see if there's anything else at his feet?"
+> "Sure, sure. Yeah. Let's clear away that rubble and mold earth-" (truncated)
+> "Can I sign over" (truncated)
 
-**[Vukradin]** — *mid-plan*
-> "Can I sign over here while you do that?"
+**Vukradin** — completing his question
+> "here while you do that?"
 
-**[Soma]** — *explaining the plan*
-> "Yeah. Well, we're just gonna spread the stones around so, like, so we can see the— you know, statue and the floor."
+**Soma** — describing the cantrip work; an interjected "Right" is folded into the block
+> "Yeah. Well, we're just gonna spread the stones around so, like, so we can see the-" (truncated)
+> "Right"
+> "you know, statue and the floor."
 
----
+**GM** — realizing and correcting the layout
+> "So, all right. The statue Uh"
+> "Actually, as you look... Okay, so what you realize is that the rubble is actually of the shattered statue, so-" (truncated)
 
-**[The Hall of Greed — GM Corrects: Rubble Is a Shattered Statue]**
-
-**[GM]** — *correcting the initial description mid-scene*
-> "So, all right. The statue Uh— Actually, as you look… Okay, so what you realize is that the rubble is actually of the shattered statue, so—"
-
-**[Soma]** — *processing the correction*
+**Soma**
 > "Oh, it's pieces of the statue. Okay."
 
-**[GM]** — *correcting the location of the intact statue*
-> "Okay. The— I'm sorry, the alcove to the north holds the statue of a dwarf with horns. Sorry, my bad."
+**GM**
+> "Okay. The- I'm sorry, the alcove to the north holds the statue of a dwarf with horns. Sorry, my bad."
 
-**[Soma]** — *realizing the spatial re-orientation*
-> "Oh, so— Oh"
+**Soma**
+> "Oh, so- Oh" (truncated)
 
-**[Vukradin]** — *repositioning on the map*
-> "I'm in the— Yes. Oh, okay. I should move over here."
+**Vukradin** — repositioning on the map after the correction
+> "I'm in the- Yes. Oh, okay. I should move over here."
 
-**[Soma]** — *asking about the south pile*
-> "Oh, then what's the story on this rubble pile in the south?"
+**Soma** — the last word completed in the GM's block
+> "Oh, then what's the story on this rubble pile in the south? This" (truncated)
 
-**[GM]** — *clarifying*
-> "it holds the rubble of a shattered statue."
+**GM**
+> "is, uh, uh, hold- it holds the rubble of a shattered statue."
 
-**[Soma]** — *speculating about a missing gem*
+**Soma** — hoping for a second gem
 > "I see. So there's probably a gem in there as well, unless somebody already looted it. So let's, uh, you know, just kinda clear the rubble around and see if we can't sift it out."
 
-**[Vukradin]** — *enthusiastically*
+**[Vukradin Digs]**
+
+**Vukradin** — volunteering with enthusiasm
 > "Oh, we're digging for artifacts. I, I, I wanna dig for artifacts."
 
-**[GM]** — *offering an alternative, dryly*
-> "Tire yourself out … or do you wanna go ask the archeologist to come and help us dig?"
+**Soma** — half a word, completed in the GM's block
+> "Go" (truncated)
 
-**[Vukradin]** — *earnest*
+**GM** — the block folds in a dry aside (apparently Soma's) alongside the GM's needle about the dwarves
+> "for it. Okay. Uh-"
+> "Tire yourself out"
+> "or do you wanna go ask the archeologist to come and help us dig?"
+
+**Vukradin**
 > "No, I, I think it was our job to find the artifacts, wasn't it? And then turn them over."
 
-**[Soma]** — *OOC, amused*
+**Soma** — advising the table
 > "Let him tire himself out. He'll be much easier if he passes out after this."
 
----
+**GM** — the tape folds Valphine's declaration into the GM's block
+> "All right. So you're digging-" (truncated)
+> "I'm gonna look carefully at that statue while they're digging"
+> "Uh, the one that's on, on the other side? Yeah."
 
-**[The Hall of Greed — Valphine Examines the North Statue; Detect Magic]**
+**Vukradin**
+> "I'm digging, I'm just, I'm fully occupied digging in the rubble."
 
-**[GM]** — *confirming who's examining the statue*
-> "I'm gonna look carefully at that statue while they're digging Uh, the one that's on, on the other side? Yeah."
-> "All right. Okay. Uh, Hoop, when you say, 'I am,' I'm assuming you're saying Valphine, right? Yes. All right. Detect, doing detect magic"
+**[Detect Magic on the Gem]**
 
-**[Valphine]** — *confirming the action*
+**GM** — sorting out who is inspecting; garbled name quoted as spoken; the "Yes" answering him is folded into the same block
+> "All right. Okay. Uh, Hoop, when you say, 'I am,' I'm assuming you're saying Valphine, right?"
+> "Yes."
+> "All right. Detect, doing detect magic"
+
+**Valphine** — completing the declaration
 > "on it."
 
-**[GM]** — *Detect Magic result, then the full corrected description*
+**GM** — the aura confirmed, and the statue re-described properly
 > "All right, you do sense some magic on the gem. Let me just describe to you the ge- the statue. An alcove to the north holds a statue of a dwarf with horns, which stares greedily at a glowing green, green gem in its hands."
 
----
-
-**[The Hall of Greed — Vukradin Recognizes the Image]**
-
-**[Vukradin]** — *meta recognition*
+**Vukradin** — recognizing the image
 > "Hmm. I think I've seen that picture in the Dungeon Master's Guide. Is that, like, a classic D&D picture?"
-> "I don't know, but it, it, it's— A demon statue holding the glowing gem. Oh my God, yeah, you're"
 
-**[Soma]** — *confirming*
+**Vukradin** — the block is cross-talk; the naming of the picture and the reaction are separate utterances, the last completed by Soma
+> "I don't know, but it, it, it's-" (truncated)
+> "A demon statue holding the glowing gem."
+> "Oh my God, yeah, you're" (truncated)
+
+**Soma**
 > "right."
 
-**[Vukradin]** — *delighted*
+**Vukradin**
 > "It is."
 
-**[Soma]** — *contextualizing*
-> "I mean, this is the intro adventure, right? Like—"
+**Soma** — on why the art would be famous
+> "I mean, this is the intro adventure, right? Like-" (truncated)
 
-**[Vukradin]** — *agreeing*
-> "Yeah, exactly …"
+**Vukradin**
+> "Yeah, exactly ..."
 
-**[Soma]** — *finishing the thought*
+**Soma**
 > "it should, it should definitely be, uh, represented in art"
 
----
+**[Emerald or Glass?]**
 
-**[The Hall of Greed — Investigation of the Gem]**
-
-**[Valphine]** — *pressing for more information from Detect Magic*
+**GM** — the tape folds Valphine's question about the gem into the GM's block, followed by the GM's puzzled reply
 > "While, uh, while inspecting this gem, I don't learn anything interesting about it?"
-
-**[GM]** — *clarifying scope*
 > "Um, well, what do you mean we don't learn anything interesting about it?"
 
-**[Soma]** — *specifying*
-> "Like its value or lineage or—"
+**Soma**
+> "Like its value or lineage or-" (truncated)
 
-**[GM]** — *pivoting to investigation*
-> "Um, it, I mean, oh, uh, it's, uh… Oh, you mean what kind of… It's an emerald. Um, roll your investigation Do you have a gem, do you have a jewelry skill or proficiency?"
-
-**[Valphine]** — *no proficiency*
+**GM** — naming the stone and calling for a check; the "I do not" answering the proficiency question is folded into the GM's lines
+> "Um, it, I mean, oh, uh, it's, uh... Oh, you mean what kind of... It's an emerald. Um, roll your investigation Do you have a gem, do you have a jewelry skill or proficiency?"
 > "I do not."
 
-**[GM]** — *calling for the roll*
-> "All right— Investigation—"
-> "A one Yes. Yeah. You, you, you don't know— To your best guess, this is an emerald, but it could also just be glass"
+**Valphine**
+> "All right"
 
-**[Soma]** — *riffing on alternatives*
-> "Or tanzanite. Or— Tanzanite is also green"
+**GM** — the natural-one investigation; the roll callout is folded into the block
+> "Investigation"
+> "A one Yes."
+> "Yeah. You, you, you don't know- To your best guess, this is an emerald, but it could also just be glass"
+
+**Soma** — piling on alternatives
+> "Or tanzanite. Or- Tanzanite is also green"
 > "Yeah, or tanzanite."
-> "Or, you know,"
+> "Or, you know," (truncated)
 
-**[Vukradin]** — *adding another option*
+**Vukradin** — completing the list, then calling across the room
 > "peridot. Oh, what did you find over there, Valphine?"
 
-**[GM]** — *privately summarizing*
+**GM** — Valphine's in-character verdict, folded under the GM's label on the tape
 > "Uh, let's see. It is, um, a, a glass, a worthless glass gem, I think it is."
 
----
-
-**[The Hall of Greed — Decision to Leave the Gem; Rubble Yields Nothing]**
-
-**[Vukradin]** — *in character, piously*
+**Vukradin** — deciding to leave it in place
 > "Oh, okay. Well, we'll let the dwarves know about it on the way out then. Just leave it there."
 
-**[Vukradin]** — *with wry dignity*
+**Valphine**
+> "Yeah."
+
+**Vukradin**
 > "I'm sure it has great historical significance despite its worthless value in the present day"
 
-**[GM]** — *checking on the south rubble dig*
-> "Okay. And— So … any of the rubble, did we find anything?"
+**[The Dig Comes Up Empty]**
 
-**[Vukradin]** — *checking in*
+**Valphine**
+> "Yeah," (truncated)
+
+**GM** — the closing question about the rubble is folded into the GM's block
+> "apparently. Okay. And- So ... any of the rubble, did we find anything?"
+
+**Vukradin**
 > "Did I find anything in the rubble?"
 
-**[GM]** — *confirming nothing*
-> "No. No, the rubble"
+**GM**
+> "No. No, the rubble" (truncated)
 
-**[Vukradin]** — *cutting in, then pivoting*
-> "was just— Oh, okay. Our work here is done, gentlemen. That's a bummer. And, and ladies. Men and ladies."
+**Vukradin** — the block is cross-talk: his sign-off wraps around a disappointed aside (apparently Soma's)
+> "was just- Oh, okay. Our work here is done, gentlemen."
+> "That's a bummer."
+> "And, and ladies. Men and ladies."

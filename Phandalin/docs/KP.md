@@ -9,6 +9,37 @@
 
 ---
 
+## WHAT THE PARTY ACTUALLY KNOWS (GM ruling 2026-08-15, as of ch48)
+
+**Read this before writing any narration, recap or dossier line that touches KP.** The
+player/character split on KP is asymmetric and it is easy to leak.
+
+| | Knows KP exists | Knows KP is a **gnome** | Links KP to the Neverwinter manifold sabotage |
+|---|---|---|---|
+| **The party (in-fiction)** | Yes | **No** | **No** |
+| **Dave (Vukradin's player, out-of-fiction)** | Yes | Yes | Suspects it |
+| **Vukradin (the character)** | Yes | **No** | **No** |
+
+Dave played KP's era at the table in a previous campaign and knows exactly who he is.
+**Vukradin does not.** When Dave speaks from that knowledge, it is table talk, not a
+character beat.
+
+**The ch48 instance, and why it matters.** Cullen Sharpe revealed that *a gnome* was hired
+to "fix, or was it improve" the interplanar displacement manifold, and that it stopped
+working after that tinkering. Dave then said, out of character, *"I have a feeling I know
+who the gnome is"* (Zoom l.5443; re-transcription l.4708). The ch48 recap and scene
+extractions originally rendered this as **"Vukradin, aside"** — an in-character line. That
+is wrong and was corrected on 2026-08-15. Rendering it in-character would have put GM-side
+knowledge into Vukradin's head and quietly collapsed the reveal that this arc is built on.
+
+**Standing rule:** the gnome behind the manifold is an open question *for the party*.
+Do not narrate any PC as suspecting KP, recognising the pattern, or "having a feeling,"
+and do not let a recap or grounding doc record the connection as party knowledge, until
+it is established on screen. Cullen has promised the gnome's name "the following day" —
+that is the earliest the party can legitimately learn anything.
+
+---
+
 ## Short version
 
 Kazneporium Ketternopappux, usually called KP, is a gnomish wizard, scholar, theorist of interplanar economics, and accidental architect of multiversal instability. He began as a librarian in the Kron Hills, became entangled with Bayard, Rimardo, and Corrin during the Drow Conspiracy, and emerged from that adventure convinced that the planes were not merely mystical realms but economic systems waiting to be mapped, regulated, and optimized.

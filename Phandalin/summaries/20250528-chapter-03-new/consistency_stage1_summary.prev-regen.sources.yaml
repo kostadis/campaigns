@@ -1,0 +1,237 @@
+consistency_check:
+  stage: 1
+  timestamp: "2026-08-17"
+  campaign: "Phandalin"
+  document_checked: "summaries/20250528-chapter-03-new/session-summary.md"
+  document_class: "enhance_summary output built from gm-assist.md + VTT"
+  report: "summaries/20250528-chapter-03-new/consistency_stage1_summary.md"
+  config: "same throwaway absolute-path config as Stage 0 (phandalin_ch02_archive_config.yaml) — campaign_state/world_state/planning/party labels point at docs/archive/*_ch02.md."
+  model: "claude-fable-5 via claude-code backend (subscription, headless). First attempt failed mid-stream — 'Connection lost mid-response' (user was on a plane with flaky wifi); retried successfully."
+  backend: "claude-code"
+  issues_found: 27
+  session_prep_used: false
+  entity_registry_used: true
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/archive/campaign_state_ch02.md }
+      - { label: world_state,    path: docs/archive/world_state_ch02.md }
+    context:
+      - { path: summaries/20250528-chapter-03-new/gm-assist.md, role: "prior pipeline stage — session-summary is an enhance_summary output built from this + the VTT, so diffs are exactly the material under test" }
+      - { path: docs/archive/party_ch02.md,    role: "PCs (campaign-standard, ch02-scoped)" }
+      - { path: docs/archive/planning_ch02.md, role: "threats/factions (ch02-scoped)" }
+      - { path: docs/entity_registry.yaml,     role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,  role: "unpromoted confirmed names (campaign-standard)" }
+
+  notes: |
+    HIGH HIT-RATE STAGE, AS EXPECTED. Per the skill's own guidance, the enhanced-recap
+    layer fails on numbers/attribution/ordering in ways only the VTT catches, and none of
+    the grounding docs can structurally see these. Confirmed: most of the 27 findings were
+    attribution drift or internal (Summary vs. Scenes vs. NPCs) contradictions introduced
+    by the enhance_summary pass, not campaign-canon errors.
+
+    A PRIOR "FIX" WAS ITSELF WRONG. Finding 3 ("We found 10") was fixed in the 2026-08-02
+    one-shot run from "Felkur" to "Valphine," reasoning from the recap's own Summary text
+    rather than checking the tape directly for this specific line. Direct VTT grep this run
+    (line ~679: "Wade Brown: 10. We found 10") shows it's actually SOMA (Wade), cutting off
+    Dave mid-sentence — matching this document's own Summary and Skull Cavity scene, which
+    already say Soma. Corrected the Memorable Moments block back to Soma. Lesson: an earlier
+    manifest's ruling is a hypothesis to re-verify against the tape when it touches a new
+    document, not a settled fact to propagate — consistent with the skill's own guidance on
+    treating prior .sources.yaml claims as hypotheses.
+
+    DAZLYN DID SPEAK DURING THE FIRST FIGHT — JUST NOT THE LINE EITHER DOCUMENT HAD.
+    Finding 26 flagged "Norbus and Dazlyn" jointly saying Norbus's "damaging spells" quote.
+    VTT (line ~248-250) shows two SEPARATE, simultaneous lines: Dazlyn — "Is everybody okay
+    there?" (concern for the party) and Norbus, separately — "Could you not use such
+    damaging spells?" (concern for the site). Neither document had Dazlyn's actual line.
+    Went back and refined Stage 0's gm-assist.md fix too (which had removed Dazlyn's
+    "shouted warnings" claim entirely, for lack of this evidence at the time) to restore her
+    real quote instead of just deleting her from the scene.
+
+    GM RULING APPLIED (STANDING HOUSE RULE, NEWLY RECORDED): Vukradin never notices a party
+    member palming an item unless the roll beats his passive perception — consistent with
+    his established naive/trusting characterization (assumes honesty until proven
+    otherwise). Applied to finding 23 (holy symbol) in both gm-assist.md and
+    session-summary.md: Brewbarry and Soma witness Valphine's palm, Vukradin does not. This
+    rule is durable characterization, not a one-scene ruling — worth carrying into
+    Vukradin's voice file if it doesn't already say so explicitly.
+
+    ONE PLANNED FIX WAS DELIBERATELY REVERTED. Finding 13 (jelly initiative modifier −2 in
+    one fight vs. −1 in the other) was going to be standardized to −2 (matching the Dex 6
+    statblock and the other fight). Reverted after re-reading full context: the −1 figure is
+    embedded in a verbatim table quip — *"Like full on minus one," Soma notes drily* —
+    changing the number would either orphan the joke or require inventing new dialogue to
+    match, both against the standing rule to preserve table color and never alter verbatim
+    quotes. Left as-is; this may be a genuine live GM inconsistency (misremembered modifier)
+    that the recap accurately preserved, joke included.
+
+    ONE PLANNED FIX WAS DOWNGRADED ON RE-EXAMINATION. Finding 7 (passive perception 15
+    credited to both Valphine and Vukradin) was initially reported as VTT-resolved in favor
+    of Vukradin, based on one grep hit (line ~3139, "Dave Mendenhall: 13. Highest, highest
+    passive perception's 15."). On closer reading of the full document, this hit most
+    plausibly corresponds to the LATER Stone Bedrooms door (chronologically after the Skull
+    Cavity/gem-split content, which sits between it and the earlier Archaeologists-and-
+    Altars door). The two doors may simply be two different discoveries by two different
+    PCs who happen to share a passive score — not uncommon. Left both attributions as-is;
+    noted to the GM rather than silently forcing a fix I couldn't fully justify.
+
+    "WE HAD SERVANTS" — SOFTENED, NOT RESOLVED. VTT (line ~4843) has Wade Brown say this
+    immediately after the GM rules Valphine can speak Orc — most likely a dry OOC quip
+    riffing on "of course a drow noble had servants," not a formal in-fiction explanation
+    from Soma. Reworded the Summary's hard "Soma noted" attribution to "Wade quipped from
+    the sidelines" to avoid overclaiming it as settled in-fiction dialogue. Low confidence;
+    flagged rather than treated as fully resolved.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-17"
+    gm_rulings_this_run:
+      - "Finding 4: attribute the amateur-archaeologist admission to Norbus (not 'the
+         dwarves' collectively, and not Dazlyn). GM caught and corrected a likely-typo
+         ('Norbyn') before confirming Norbus explicitly."
+      - "Finding 23: 'everyone BUT Vukradin' witnessed the holy symbol palm. Standing table
+         rule: Vukradin is naive, assumes everyone honest until proven evil; the party can
+         palm things freely and he won't notice unless the roll beats his passive
+         perception. Applied to both gm-assist.md and session-summary.md, and refined the
+         parallel Stage 0 fix."
+      - "GM approved the full remaining bundle (findings 2,3,6,7,9,12,13,14,15,16,20,22,25,26)
+         for direct application, with two exceptions self-identified during editing (13, 7
+         — see notes above)."
+
+    applied:
+      - { finding: 2,  fix: "Propagated the Stage 0 campaign_state_ch02.md sending-stones correction to docs/archive/planning_ch02.md ('Sending stones already paid in advance' -> 'promised... not yet delivered') and docs/archive/party_ch02.md (moved out of Collective Resources, reworded as owed-not-held). world_state_ch02.md checked and already correct — no change needed there." }
+      - { finding: 3,  fix: "Memorable Moments 'We found 10.' — Valphine -> Soma. VTT-verified (Wade Brown, line ~679), reversing part of the 2026-08-02 Felkur fix." }
+      - { finding: 4,  fix: "Moved the amateur-archaeologist admission from Dazlyn's NPC entry to Norbus's (matching the Summary/Scenes attribution, which already had Norbus right). Kept the 'several days ago' line as part of the same in-scene joke rather than splitting it into a separate DM aside." }
+      - { finding: 6,  fix: "Softened 'We had servants, Soma noted' to 'Wade quipped from the sidelines' in the Summary — VTT-ambiguous on whether this is in-fiction or table banter, so avoided overclaiming." }
+      - { finding: 9,  fix: "Memorable Moments 'Two, killed two creatures...' — Vukradin -> Dave (Vukradin's player), matching the Scenes section's own (correct) attribution." }
+      - { finding: 12, fix: "'The third (stunned) jelly...' -> '...(its stun from the Thunderwave sound having worn off)...' — a stunned creature cannot act; reworded rather than left implying an active-but-stunned contradiction." }
+      - { finding: 14, fix: "'Poison Spray on the last surviving jelly' -> 'on one of the split jellies' — the very next bullet has a jelly surviving to attack Brewbarry, so 'last surviving' was self-contradicting within the same scene." }
+      - { finding: 15, fix: "Spells -> Poison Spray: 'twice in the first combat' -> 'once in each combat' — the document's own Scenes section (Ambush Behind the Altar) already places the 1-point cast in the SECOND fight; the Spells section just hadn't caught up to its own Scenes section." }
+      - { finding: 16, fix: "Healing Word: '(t)he cantrip slot allowed pairing...' -> '(t)he bonus action it takes to cast allowed pairing...' — Healing Word is a spell cast as a bonus action, not a cantrip; the entry's own opening sentence already correctly called it 'Bonus-action healing.'" }
+      - { finding: 20, fix: "'Uthgard barbarian' -> 'Uthgardt-raised goliath barbarian' in both instances (Skull Cavity scene, Summary). Matches world_state's own phrasing and the VTT glossary correction." }
+      - { finding: 22, fix: "Removed 'The DM's own private assessment: probably worthless glass' (Hall of Greed scene) and 'the DM's private assessment favored glass' (Glowing Green Gem item entry) — these are explicitly GM-private notes that had leaked into a document that may be player-facing. The gem's nature stays genuinely unresolved for the party, per the entity_registry's still-live trap and the actual roll (investigation check of 1)." }
+      - { finding: 23, fix: "Applied the GM's witness ruling in both Memorable Moments and the Items -> Holy Symbol entry: Brewbarry and Soma see the palm, Vukradin does not, per his standing house rule. Also refined the Stage 0 gm-assist.md language to match." }
+      - { finding: 25, fix: "(a) Collapsed the doubled long-rest narration — Stone Bedrooms' opening bullet no longer re-narrates 'takes a long rest,' now reads as the morning after the rest already established at the end of Archaeologists and Altars. (b) Skull Cavity ordering/'Earlier in the expedition' retrofit left untouched — same low-stakes editorial call as Stage 0's parallel finding, not VTT-pinned this round either." }
+      - { finding: 26, fix: "Restored Dazlyn's real, separate line ('Is everybody okay there?') instead of the fabricated joint quote of Norbus's line. Applied to both session-summary.md's Scenes bullet and gm-assist.md's Dazlyn NPC entry (superseding the Stage 0 fix, which had deleted her line for lack of this evidence)." }
+
+    rejected:
+      - finding: 1
+        ruling: "Already resolved at Stage 0 — bible-gap discovery, not a recap error. No new action."
+      - finding: 5
+        ruling: "REJECTED as an error — 'Dazlyn punched Norbus' is VTT-CONFIRMED REAL (line ~2499:
+          'Dazlyn, Dazlyn punches Norbus'; recurs as a running gag at line ~2911: 'Dazlyn
+          thumps Norbus, Norbus thumps Dazlyn'). No fix; the other renderings using 'corrects'
+          just undersell what actually happened."
+      - finding: 6b
+        ruling: "REJECTED — 'Vukradin speaks Undercommon and Goblin' is VTT-CONFIRMED, Dave
+          declaring it live (line ~4863: 'I speak Undercommon. You, you speak Undercommon,
+          don't you, Valphine?' / 'Uh, Goblin, but not Orc.'). Thematically odd for a
+          Neverwinter busker Aasimar, but it's what got declared at the table — not a
+          swap or extraction error. No fix."
+      - finding: 8
+        ruling: "Low-stakes, not fixed. VTT shows Dave both asks AND self-answers his own
+          'classic D&D picture' question, with Wade only adding a one-word 'right' in
+          agreement — 'Wade confirms it is' overstates Wade's role but isn't wrong that he
+          agreed. Deferred as cosmetic."
+      - finding: 10
+        ruling: "Table ruling, consistent with Stage 0 finding 10. Not fixed — annotate only."
+      - finding: 11
+        ruling: "Not VTT-checked this round (Soma AC 17-hit vs. shelled-21) — low stakes,
+          deferred to carry_forward."
+      - finding: 13
+        ruling: "REVERTED after drafting the fix — see notes above. The −1 figure is inside a
+          verbatim table quip; changing it would corrupt or require inventing dialogue.
+          Left as-is."
+      - finding: 17
+        ruling: "Not fixed — shell-emerge-as-bonus-action RAW status is genuinely unclear
+          (tortle Shell Defense wording has varied across UA/print versions); annotate-as-
+          table-ruling bucket, no forced edit."
+      - finding: 18
+        ruling: "Not fixed — crit math on the bare-fist crit, same annotate-as-table-ruling
+          bucket as 17."
+      - finding: 19
+        ruling: "Bundle of minor arithmetic nitpicks — not individually VTT-checked this
+          round, deferred as low-stakes."
+      - finding: 21
+        ruling: "Not fixed — 52 HP ochre jelly vs. the 45 HP statblock is plausible as rolled
+          HP; annotate-as-table-ruling bucket."
+      - finding: 24
+        ruling: "REJECTED as an error — both Vukradin's daggers (repeatedly VTT-confirmed
+          across all three runs now) and Valphine's dagger (VTT-confirmed at line ~2911,
+          'I'll just pull out my dagger and sharpen it a little bit,' during the gem-split
+          negotiation) are real. No fix."
+      - finding: 27
+        ruling: "Correct as written, no change — the report itself flagged this as a
+          for-the-record affirmation, not an error."
+
+  vtt_adjudicated: |
+    VTT consulted BY HAND (session_20250528_transcript.speakers.vtt) — NOT a --context
+    input to the check. All line numbers below refer to that file.
+
+    "WE FOUND 10" (finding 3): line ~678-679 — Dave: "We're gonna leave these behind for
+    your archeological ex- We found" / Wade (cutting him off): "10. We found 10." Wade
+    Brown plays Soma. Confirms Soma, not Valphine.
+
+    "IS EVERYBODY OKAY THERE?" (findings 4, 26): lines ~248-250, first exchange during the
+    opening jelly fight — GM: "one of the two dwarves shouts... Dazlyn goes, 'Is everybody
+    okay there?'" immediately followed by "Norbus shouts, 'Could you not use such damaging
+    spells?...'" — two dwarves, two separate lines, same moment. The SECOND exchange
+    (Soma's unconsciousness, lines ~2227-2231: "did somebody, did somebody get hurt?" then
+    "Dazlyn goes, Dazlyn goes, 'Again, to the extent possible...'") was already captured
+    correctly in session-summary.md and needed no fix.
+
+    "DAZLYN PUNCHES NORBUS" (finding 5): line ~2499 — GM, unambiguous: "Dazlyn, Dazlyn
+    punches Norbus. Norbus, we have a bard, and we're going to tell stories." Recurs as an
+    established bit at line ~2911: "Dazlyn thumps Norbus, Norbus thumps Dazlyn."
+
+    LANGUAGES (finding 6): lines ~4790-4870. GM rules Valphine speaks Orc; Wade says "we had
+    servants" immediately after (ambiguous register — read as OOC quip, not hard-attributed
+    to Soma in-fiction). Dave separately declares, unprompted: "Uh, Goblin, but not Orc" and
+    "I speak Undercommon. You, you speak Undercommon, don't you, Valphine?" — both
+    confirmed as Vukradin's actual declared languages this session.
+
+    "CLASSIC D&D PICTURE" (finding 8): lines ~4425-4432 — Dave asks the question, then
+    answers himself ("Oh my God, yeah, you're... It is."), with Wade interjecting one word
+    ("right") in agreement.
+
+    POISON SPRAY TIMING (finding 15): first cast at line ~2019-2027 (first fight, 7 damage,
+    kills a jelly); a second cast referenced in the document's own Ambush Behind the Altar
+    scene (1 point, "twenty percent of its hit points") — internally dates itself to the
+    second fight without needing a fresh VTT grep, since that scene IS the second fight.
+
+    HOLY SYMBOL WITNESSES (finding 23): not independently re-verified against the tape this
+    round — applied as a direct GM ruling (standing house rule) rather than a VTT finding.
+
+  carry_forward:
+    - status: OPEN
+      severity: major
+      item: "CHAPTER RENUMBERING — unchanged from Stage 0. Still the single largest open item
+        from this whole check. Not touched this stage."
+    - status: OPEN
+      item: "STANDING HOUSE RULE NEWLY SURFACED: Vukradin never notices party members palming
+        items unless the roll beats his passive perception (naive/trusting characterization).
+        Applied here for the holy symbol; worth adding explicitly to Vukradin's voice file so
+        future consistency checks and narration passes don't have to be told again."
+    - status: NOTE
+      item: "Finding 7 (passive perception 15, Valphine vs. Vukradin for two different secret
+        doors) — left unresolved. Only one VTT hit found for 'passive perception 15,' and it's
+        ambiguous which of the two in-document instances it maps to. Needs a closer listen or
+        GM memory, not resolvable from a keyword grep."
+    - status: NOTE
+      item: "Finding 11 (Soma's AC — hit on a 17 while nominally shelled at 21) not VTT-checked
+        this round. Low stakes, deferred."
+    - status: NOTE
+      item: "Findings 17/18/19/21 (shell-emerge action type, crit math, arithmetic nitpicks,
+        52 HP jelly) are all in the 'annotate as table ruling, don't force a fix' bucket per
+        the report's own severity grouping. None fixed this round; none blocking."
+    - status: NOTE
+      item: "Finding 25(b) — Skull Cavity's 'Earlier in the expedition' timeline retrofit vs.
+        its actual position in the Scenes list — still open from Stage 0, still not VTT-pinned.
+        Low stakes; revisit only if it matters to a future regenerated chapter."
+    - status: NOTE
+      item: "Same config workaround as Stage 0 (no root config.yaml; throwaway absolute-path
+        config in scratchpad). First API call this stage failed mid-stream due to a wifi drop
+        on the user's end (not a data or backend problem) — retried clean on the second
+        attempt with no report/manifest changes needed as a result."
