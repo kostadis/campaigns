@@ -8,14 +8,13 @@ paths:
   voice_dir: voice
   examples_dir: examples
   genre_file: voice/_genre.md
+extract:
+  tokens: 8192
 narrate:
-  tokens: 16000
+  tokens: 32000
   prose_mode: true
   reflections: true
   context: []
-scrub:
-  enabled: false
-  tokens: 16000
 verify:
   threshold: 0.85
   min_tokens: 4
@@ -46,9 +45,9 @@ session_name: null
 profiles:
 - name: Phandalin
   knobs:
-    narrate_tokens: 16000
+    narrate_tokens: 32000
     prose_mode: true
     reflections: true
+    narration_genre_file: /home/kroussos/campaigns-phandalin/Phandalin/voice/_genre.md
     backend: claude-code
-    narration_genre_file: voice/_genre.md
 active_profile: Phandalin

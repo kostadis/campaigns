@@ -1,141 +1,119 @@
 ---
 scene: 04
 slug: the_skull_cavity
-narrator: Soma
+narrator: Valphine Sotorra
 scene_name: The Skull Cavity
 session: 20250528-chapter-03-new
 ---
 
-### Soma
+Soma cannot leave the little door alone. I recognize the appetite. Not greed. Curiosity, which in the Underdark kills more reliably than poison, and which up here in the Overbright is apparently indulged like a house pet.
 
-The small door called to me. I couldn't explain it — something about the way it was tucked behind the pillar, like it had been waiting for us to finish the serious business before it let itself be noticed.
+"I mean, I wanna see the little one for sure," she says.
 
-"Oh, I wanna see the little one for sure," I said, and Brewbarry was already moving toward the altar, and Valphine was doing her careful scan of the floor, and Vukradin was — somewhere. Probably touching a statue.
+"I think we can wait until the morning for that. But that's the most interesting—" Vukradin begins, and loses the argument mid-sentence, because the tortle is already crossing the chamber.
 
-"I can't wait for the little one."
+"I just peek. We're not descending, I just have to know what's going on. I just wanna touch it."
 
-I heard Vukradin say something about needing to touch the statue, but I was already at the door, my fingers tracing its edges. *Just a peek.* That was all I needed. One look, then we could rest.
+"I just wanna touch the statue and see if it's a real statue," Vukradin offers, as though touching were a category of restraint.
 
-"I just gotta know what this opens up to."
+"Just wanna touch it. Stop me."
 
-I pulled the door open.
+No one stops her. Vukradin, discovering that he is standing beside the other secret door, objects to his own position. "Why am I moving? I'm not moving over there — I am over here."
 
-The skulls came out like they'd been waiting their whole lives to be free. A cascade of bone — dwarf skulls, every one of them, tumbling onto the floor in a clatter that echoed through the chamber. They rolled and settled, empty eye sockets staring up at nothing.
+I hand him back his own whine, lightly seasoned. "Oh, sure — you're next to the other secret door. It's not like there's a dragon hiding in there. I'm right next to the other—"
 
-"That's disgusting," I said, but I was already reaching in to clear them, pushing the bones aside with a careful hand. There was something underneath. I could feel it.
+"door that's gonna, like, open up Scooby-Doo style, and pull me in — and close behind," he finishes, leaning into the doom he has assigned himself.
 
-At the bottom of the cavity sat an unlocked stone coffer. Simple. Unadorned. The kind of box that didn't need locks because nobody was supposed to find it.
+"I have a feeling about these things," Soma says, and opens the little door.
 
-"Ooh."
+Skulls. Dwarf skulls, packed into the pillar's cavity like preserves, and they come loose all at once, a dry clatter spreading across the floor. Someone pronounces it disgusting. I find it economical: a pillar that is also an ossuary wastes no stone. We clear them out, and at the bottom of the cavity sits a stone coffer, unlocked, and inside it fifteen gemstones, ten gold apiece by my eye. Modest. Portable. Unwitnessed.
 
-I lifted the lid. Inside, fifteen gemstones caught the torchlight, each one worth ten gold pieces — I could tell from the cut, the clarity. Nothing spectacular. But clean. Unspent. Untouched by whatever curse had killed the dwarves whose skulls now lay scattered at my feet.
+"Oh — we'll have to tell the dwarves that we found some treasure," Vukradin says.
 
-I heard Vukradin's voice before I saw him. "Oh, oh, oh. We'll have to tell the dwarves that we found some treasure."
+The rest of us achieve a unified silence. He raises his voice toward the doorway anyway. "We found 15 gemstones."
 
-"No we don't," I said, but he was already committed — I could hear it in his tone, that bright moral certainty that made him impossible to live with and impossible to dislike.
-
-"We found the 15, we found 15 gemstones."
-
-I stared at him. "Do you say that out loud?"
+"Do you say that out loud?" Soma asks.
 
 "Yep."
 
 "Goddamn your moral streak."
 
-He was already pivoting, telling Brewbarry something about leaving them behind for archaeological purposes. I cut in, trying a smaller number — maybe if I started lower, he'd meet me in the middle and I'd still come out ahead.
+"We're gonna leave these behind for your archeological — we found—"
 
-"We found 10. We found 10."
+"10. We found 10. Really? We're not taking them? Apparently we're not."
 
-He kept talking. The number didn't stick. I sighed and let my hand fall from the coffer. "Really? We're not taking them? Apparently we're not."
+A clean undercount, delivered without heat. I approve. In House Sotorra a third of every tribute went missing between the door and the altar, and everyone involved considered it liturgy.
 
-Valphine was watching, her expression unreadable in the half-light. Vukradin turned to her.
+"Did you wanna rob the grave, Valphine? Of course." He asks the question and answers it for me, which spares me the trouble of lying. *Of course.* The dead hold no leverage. That is very nearly the definition of dead.
 
-"Did you wanna rob the grave, Valphine?"
+"Just dwarves," Soma notes.
 
-"Of course."
+"Well, I'm not gonna be a part of that."
 
-*Just dwarves.* That's what I wanted to say. That's what I was thinking — these weren't our ancestors, this wasn't our temple, the dead who owned these gems were dust and bone and nobody would know the difference. But I heard myself rationalize instead, the words coming out before I could stop them.
+"Norbus, or whatever, is withholding payment. I'm here for the—"
 
-"Norbert or whatever is withholding payment. I'm here for the sending stones and for the hard-earned 50 gold pieces for delivering the message."
+"sending stones and for the hard-earned 50 gold pieces for delivering the message."
 
-Vukradin shook his head. "Well, I'm not gonna be a part of that."
+I extend him a courtesy. "Well — you go ahead to the next room, and I'll be right behind you." Not theft. Procedure. What a witness does not see, a witness cannot announce.
 
-*No. Of course you're not.*
+He does not move. Soma sighs and surrenders the field. "I'll just go set the gemstones in their coffer on the altar."
 
-Valphine caught my eye. She had that look — the one that meant she was already three steps ahead, that she knew the game and was playing it differently than Vukradin was.
-
-"Okay. Well — you go ahead to the next room, and I'll be right behind you."
-
-I understood. "I'll just go set the stones on the altar for, or the gemstones in their coffer on the altar."
-
-Vukradin's voice came from across the chamber, half-amused, half-warning. "If you guys are gonna, you know, put them away somewhere while I'm busy over here, uh, ratting you out — well, I guess you can do that. I guess I wouldn't see that if that happened."
+"You guys are gonna put them away somewhere while I'm busy ratting you out — well, I guess you can do that. I guess I wouldn't see that if that happened."
 
 "No, we heard you. We know what you're gonna do."
 
-And we did. We knew exactly what he was going to do. He was going to tell the dwarves about every single gem, and then he was going to watch us hand them over, and then he was going to sleep perfectly well tonight while the rest of us wondered what we could have bought with that gold.
+Norbus arrives at speed, Dazlyn behind him. "Is it safe for us to come in?" We wave them in, and they rush the altar. "Oh, it is as dazzling as we thought it would be!" Then the spilled skulls register. "Is that where you found the treasure?"
 
-Norbus appeared in the doorway, Dazlyn at his shoulder. "So is it safe for us to come in?"
+"I'd like to clarify — this is not treasure. These are archeological artifacts that I—" Vukradin pauses, then upgrades his own inventory. "Oh, no, no, no. These are cursed archeological artifacts."
 
-The party ushered them in, and they rushed past us, their eyes wide at the chamber's splendor. The mosaic. The pillars. The skulls.
+An interesting move. He has invented a curse to bind two dwarves to virtue. Or he believes it. With Vukradin the two cases are indistinguishable, which is itself the fact worth cataloging.
 
-"Oh, it is as dazzling as we thought it would be." Norbus's gaze landed on the coffer in my hands. "Oh, is that where you found the treasure?"
+"Well, you will be handling them with the utmost care, I assume, and taking them to a museum and to a wizard to be uncursed, and—"
 
-Vukradin stepped forward. "Yeah. I'd like to clarify — this is not treasure. Okay. These are archeological artifacts."
+The dwarves confer in whispers, eyes tracking our weapons. "Is everybody okay with this? We don't want any trouble. I understand that — what was your name again?" The name is supplied. "Vukradin. Vukradin, right."
 
-Norbus's eyes widened. "Oh, no, no, no. These are cursed archeological artifacts."
+"You don't know my name?" A genuine wound.
 
-"Well," Vukradin said, "you will be handling them with the utmost care, I assume, and taking them to a museum and to a wizard to be uncursed."
+"I can't remember it. Vukradin? I spent all night—"
 
-The dwarves exchanged a look. A whisper passed between them. Then Norbus looked at the rest of us — at Brewbarry's bulk, at Valphine's drawn weapons, at my shell and the staff in my hand — and his voice went thin.
+"singing songs, and I told you stories, and you don't remember my name?"
 
-"Uh, is everybody okay with this?"
+"Vukradin—"
 
-"Don't really know him," I said, and that wasn't a lie.
+"yeah. You're just like those patrons in the bar."
 
-He turned back to Vukradin. "So, we could go and take these gems, and it would be okay with you?"
+Norbus turns to the rest of us. "Is he serious?"
 
-Valphine didn't answer. She just pulled out her dagger and started sharpening it, the slow scrape of steel on stone filling the silence.
+"Don't really know him," Soma says. A beat. "Think so—"
 
-I saw Norbus's eyes flick to her. To the drow. To the barbarian with Uthgardt tattoos. The room had gotten very small all of a sudden.
+Norbus looks at me. At the skin, at the eyes, at the holy symbol of the Morninglord hanging against my mithral, and the arithmetic visibly refuses to close. Then at Brewbarry's Uthgardt markings. "So we could go and take these gems, and it would be okay with you?"
 
-Dazlyn thumped Norbus on the shoulder. "Hey, you know, I think the museum only needs half of it. Would that be okay?"
+"I'll just pull out my dagger and sharpen it a little bit," I say, and I do. The whetstone sings its small song against the edge. In Menzoberranzan a negotiation conducted without a visible blade is an insult: an implication that the other party is not worth killing. I am being polite. The dwarves do not receive it as politeness. Their fear sharpens along with the edge, and I accept it as tribute.
 
-I watched Vukradin's face. The calculation happening behind his eyes. *Half.*
+Dazlyn thumps Norbus. Norbus thumps her back. "Hey — I think the museum only needs half of it. Would that be okay?"
 
 "What's gonna happen with the other half?"
 
-Dazlyn shrugged. "It's really — they're not of any archaeological interest."
+"It's really not of any archaeological interest. Would that be okay with everybody?"
 
-I turned to Vukradin, my voice dry. "So now you have gotten them, you know, free and clear of your conscience."
+"So now you have gotten them free and clear of your conscience," Soma observes.
 
-He didn't answer. Brewbarry was pushing a rock with a stick in the corner, and Valphine was still sharpening her dagger, and Dazlyn was looking at her like she might evaporate if he blinked.
+Norbus keeps glancing at me, running the old stories: the drow lets you take the gems, then accuses you of theft, then comes the ambush. He cannot make the stories fit a cleric of Lathander, so he holds both readings at once, trap and blessing, and sweats. Meanwhile Brewbarry, the terror anchoring their caution, is pushing a rock around with a stick.
 
-Brewbarry stopped pushing the rock. He looked at Valphine. "So, we're going to split the gems, right?"
+"Oh, Brewbarry," Vukradin says.
 
-Vukradin's head snapped up. "Guys, I'm getting the impression that they're not going to take these to a museum. I think they might just plan on keeping them for themselves."
+Dazlyn appeals directly to me. "So — we're going to split the gems, right?"
 
-Valphine's voice was calm, measured — the voice of someone who had seen this a hundred times before. "I think this is the normal way of these surface dwellers. Splitting things is just the normal way. Strange, but fine."
+"I'm getting the impression that they're not going to take these to a museum. I think they might just plan on keeping them for themselves," Vukradin says.
 
-Vukradin muttered under his breath. "Daylords."
+I study them for the tell: the flicker at the mouth, the shifted weight. Nothing surfaces that I can use. Either they are honest or they are better than they look, and neither reading pays out. So I settle my verdict where the evidence leaves it: this splitting of found wealth among strangers is simply the normal way of these surface dwellers. Strange, but fine. *Overbrighters.* Vukradin squints at them too and comes away inclined to believe them, which for him is the resting state.
 
-The negotiating went back and forth — eight and seven, then seven and eight, then someone corrected the math and it was eight and seven again with the party on the short end.
+The count settles at eight for us and seven for them. "Fine. There's four of us, two of them. We all get two," Soma rules.
 
-"We get eight, they get seven?" I asked.
+They depart nearly walking backward, asking after future discoveries. "Well — if you find any other archaeological finds, just—"
 
-"Uh, no, they get eight, you get seven."
+"We found some skulls. Lots of skulls. I'll let you know," Soma says.
 
-"Aw, it would be nice. We need to get two gems and then, you know."
+I watch the door close behind them and turn the whole maneuver over once more. A bard announces hidden wealth to its rival claimants, invents a curse, forgoes the larger purse, and leaves two dwarves too frightened of a trap that was never set to enjoy their winnings. In my mother's house that sequence would be studied as a masterwork, if anyone could locate the objective. I cannot locate the objective. He spends gold the way I spend pain: deliberately, as devotion. The difference is that I know the name of my god, and I am no longer certain he knows the name of his.
 
-The number shifted again. Eight for us. Something. Not enough.
-
-"Like, fine. I mean, there's four of us, two of them. We all get two."
-
-The dwarves took their share and headed for the door, Norbus calling back over his shoulder. "Well, if you find any other archeological finds, just —"
-
-"We found some skulls I'll let you know," I said. "Lots of skulls. I'll let you know."
-
-The door closed behind them. I looked at the seven gemstones in my hand, then at Vukradin, then at the scattered dwarf skulls still littering the floor.
-
-*Goddamn your moral streak.*
-
-But I put the gems in my pouch anyway, and didn't say another word about it.
+<!-- table-speech reclassified: "one. I can't wait for the little one. I just gotta know what this opens up to. So — do you go now or later?" | "Might ask the bard to go sing himself off a cliff at some point. Is that gonna happen?" | "The bard is always the most annoying character, right, Nick?" | "Yeah. The annoying bard, exactly." | "It's almost like a stereotype. Does Norbert come back to see his treasure? What's his name? I keep forgetting — Norbus. Norbus, sorry. I don't know why I have Norbert." | "I like that the drow is there, making it a very awkward situation." | "I rolled very poorly on my insight check for them — you can roll on yours. I think this is just the normal way of these surface dwellers. Strange, but fine. Overbrighters." | "Daylords. All right, let me see — what should I roll? Insight? I guess I'd be inclined to think they actually were going to — so, Valphine, are you gonna—" | "try to intimidate them to not split it 50/50? No, my insight was a seven as well. So they take—" | "We get eight, they get seven? No — they get eight, you get seven. It would be nice. We need to get two gems and then—" | "At some point in this campaign, I'm going to be so poor and have so few nice items that I'm gonna be three levels below where I'm supposed to be. It'll be awesome." | "A reason I'm broke. Have you figured that out yet?" | " He's a starving artist. There's a reason. He's incredibly naive. It's not that my music is bad." | "And I am so taking you on as my late-stage son." | "You thought the bard was bad. Okay — check out the underpowered bard. Even better." -->

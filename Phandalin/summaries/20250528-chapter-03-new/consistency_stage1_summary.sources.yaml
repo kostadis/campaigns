@@ -1,0 +1,232 @@
+consistency_check:
+  stage: 1
+  timestamp: "2026-08-17"
+  campaign: "Phandalin"
+  document_checked: "summaries/20250528-chapter-03-new/session-summary.md"
+  document_class: "enhance_summary output built from gm-assist.md + VTT"
+  report: "summaries/20250528-chapter-03-new/consistency_stage1_summary.md"
+  config: "same throwaway absolute-path config as Stage 0 (phandalin_ch02_archive_config.yaml) — campaign_state/world_state/planning/party labels point at docs/archive/*_ch02.md."
+  model: "claude-fable-5 via claude-code backend (subscription, headless)."
+  backend: "claude-code"
+  issues_found: 14
+  session_prep_used: false
+  entity_registry_used: true
+
+  supersedes: >
+    This is a SECOND Stage 1 run, not the first. The user regenerated session-summary.md
+    via `enhance_summary` (fresh LLM pass from the Stage-0-fixed gm-assist.md + VTT),
+    overwriting the version the original Stage 1 run (27 findings) had hand-fixed directly.
+    That original report/manifest is preserved as
+    consistency_stage1_summary.prev-regen.{md,sources.yaml} for audit-trail purposes —
+    several of its VTT-adjudicated facts were reused as prior evidence in this run
+    (see below) rather than being independently re-verified from scratch.
+    gm-assist.md itself was NOT touched by the regeneration (confirmed via mtimes:
+    gm-assist.md last edited 02:29, session-summary.md regenerated 02:44) — Stage 0
+    remains valid and was not re-run.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/archive/campaign_state_ch02.md }
+      - { label: world_state,    path: docs/archive/world_state_ch02.md }
+    context:
+      - { path: summaries/20250528-chapter-03-new/gm-assist.md, role: "prior pipeline stage — session-summary is an enhance_summary output built from this + the VTT" }
+      - { path: docs/archive/party_ch02.md,    role: "PCs (campaign-standard, ch02-scoped)" }
+      - { path: docs/archive/planning_ch02.md, role: "threats/factions (ch02-scoped)" }
+      - { path: docs/entity_registry.yaml,     role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,  role: "unpromoted confirmed names (campaign-standard)" }
+
+  notes: |
+    LOWER HIT-RATE THAN THE FIRST STAGE-1 PASS (14 vs. 27), AND A DIFFERENT ERROR PROFILE.
+    The fresh enhance_summary regeneration did not reintroduce most of the errors the first
+    Stage 1 pass fixed (Soma/Valphine "We found 10," Norbus/Dazlyn amateur-archaeologist
+    attribution, the GM-private glass-gem leak, the Uthgardt phrasing, the holy-symbol
+    witness ruling all held). It introduced a smaller set of NEW invented-content errors
+    instead — consistent with the skill's documented enrichment-pass failure modes
+    (invented precise details, attribution drift) recurring independently on each fresh
+    generation rather than being "fixed" in any durable sense at this layer.
+
+    FOUR FINDINGS WERE FALSE POSITIVES ALREADY SETTLED BY PRIOR VTT EVIDENCE — filtered
+    before presenting the table rather than re-litigated:
+      - Dazlyn/Norbus "role swap" in the Soma-KO exchange: same lines the first Stage 1
+        run already VTT-adjudicated as correct (two dwarves, two separate real moments).
+      - Vukradin's Undercommon/Goblin: VTT-confirmed real in the first Stage 1 run: not
+        re-checked, prior evidence reused.
+      - Vukradin's paired daggers: VTT-confirmed real across three separate checks now
+        (2026-08-02 one-shot, first Stage 1 run, this run's own fresh grep at line 2367).
+      - Healing Word "2d4+3": literally spoken twice on tape (lines 1491, 2295) — table
+        math, not an extraction error; left as spoken per the verbatim-quote rule.
+
+    THE "50 GP STILL OWED" FINDING WAS A DIFFERENT-HALF-OF-CONTRADICTION FALSE POSITIVE.
+    campaign_state's "Reward Collected: Harbin paid the promised 50 gp" and the recap's
+    "50 gp still owed for delivering the message" are TWO DIFFERENT PAYMENTS, not a
+    conflict: VTT line 685 (Dave, mid-session) — "I'm here for the sending stones and for
+    the... 50 gold pieces for delivering the message" — is the DWARVES' reward, paired
+    with and withheld alongside the sending stones (same GM-confirmed 2026-08-17 ruling
+    already in planning_ch02.md), separate from Harbin's already-paid quest reward. No
+    archive or recap fix needed; both are independently correct.
+
+    ONE REAL FABRICATION CONFIRMED AND FIXED: BREWBARRY'S STONE'S ENDURANCE MISPLACED TO
+    THE WRONG FIGHT. The regenerated recap invented a claim that Stone's Endurance
+    retroactively absorbed 11 of the 12 points that dropped Brewbarry to 1 HP in the FIRST
+    fight. VTT shows the opposite: he explicitly regrets not using it then (line 1291,
+    "when I took 12 damage before, I should have run Stone's Endurance"), then actually
+    invokes it in the SECOND fight against acid damage (line 3887, "that's my stone's
+    endurance... reduce the damage by 1d12 plus 2"). This also directly contradicted the
+    document's own (correct, VTT-consistent) Healing Word entry: "Brewbarry... was never
+    healed and finished the encounter at a single hit point." Fixed both instances
+    (Summary para 2, Scenes › Battle with the Ochre Jellies) to remove the false
+    retroactive-absorption claim and state plainly he finished the first fight's crit kill
+    at 1 HP. The Ambush Behind the Altar scene's Stone's Endurance mention (second fight,
+    vs. acid) was already correct and left untouched.
+
+    GM RULING APPLIED: DWARVES' PROSPECTING-TO-ARCHAEOLOGY TIMELINE. GM confirmed: Dazlyn
+    and Norbus were panning for gold for months (as the archive already states), and only
+    recently — days ago, per the VTT-confirmed comedic admission at lines 4703/4711 — did
+    they start calling themselves "amateur archaeologists," once their prospecting turned
+    up hints the site was historically significant. This is NOT a contradiction with
+    campaign_state's "months of prospecting," it's two phases of the same activity. Fixed
+    the Summary's "heard the ruins might be an important find and gone looking for the Hall
+    of Greed" (implied premeditated search, contradicting the accidental-discovery account)
+    and the Hall of Greed location entry's "the very site... had been hunting for" to match
+    this timeline. Left the dwarves' own excited in-character claim "we were looking for
+    the Hall of Greed" (VTT line 4731, verbatim) untouched — an NPC's self-aggrandizing
+    claim in the heat of the moment doesn't need to be literally true, and these two dwarves
+    are independently established as prone to "spewing words hoping no one would notice."
+
+    TWO ITEMS CHECKED AND CONFIRMED FINE, NO FIX NEEDED: the "fleeing time" / "we're done
+    here" quote pair (VTT lines 1095, 1135 — Soma says both, sequentially, exactly as the
+    document has them in the right order) and the dwarves' "we were looking for the Hall of
+    Greed" line (VTT-confirmed verbatim, see above).
+
+    REMAINING FINDINGS NOT YET VTT-VERIFIED THIS ROUND (carried forward, not dismissed):
+    Soma's AC 21 vs. an unconfirmed "AC 17" in the recap's own damage math; the jelly split
+    trigger inconsistency (slashing-only vs. a radiant/bludgeon+pierce split elsewhere in
+    the same document); the first-battle kill ledger (jelly count, Poison Spray's claimed
+    kill, "four jelly deaths" vs. three shown); Gary's natural-1 tally (three spoken on tape
+    at lines 3779/4143/4291 vs. a possible fourth implied in the doc). None blocking; none
+    applied as fixes this round pending closer reads.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-17"
+    gm_rulings_this_run:
+      - "Apply the Critical fix (Stone's Endurance misattributed to the first fight)."
+      - "Apply the full Minor editorial batch (Morninglord spelling, 'to thenorth' spacing,
+         cleaving-vs-fists halberd wording, coffer altar/pillar provenance wording x2, plus
+         the two quote-variance/looking-for-the-Hall-of-Greed items independently VTT-
+         checked and found already correct)."
+      - "Dwarves' archaeology timeline: they were panning for gold, then became amateur
+         archaeologists once they stumbled onto the tomb. Applied to reconcile the Summary
+         and Hall of Greed location entry with campaign_state's 'months of prospecting.'"
+
+    applied:
+      - { finding: "Critical-1", fix: "Removed the fabricated 'retroactively shrugs off eleven points... with Stone's Endurance' claim from the Summary (para 2) and Scenes › Battle with the Ochre Jellies — both misplaced Stone's Endurance into the first fight. Replaced with 'still nursing/still at the single hit point the earlier pseudopod strike left him,' consistent with the document's own correct Healing Word entry. The second fight's genuine Stone's Endurance use (Ambush Behind the Altar, vs. acid) was left untouched — already correct." }
+      - { finding: "editorial-a", fix: "'Morning Lord' -> 'Morninglord' (Archaeologists and Altars scene) per the VTT corrections glossary." }
+      - { finding: "editorial-b", fix: "'To thenorth' -> 'To the north' (Summary, para 5) — missing space." }
+      - { finding: "editorial-c", fix: "'Brewbarry cleaving one apart on a critical hit' -> 'Brewbarry pulverizing one with a critical punch' (Summary, second battle) — reconciled with Items -> Halberd's own claim that he'd abandoned the blade for his fists, and with the matching Scenes bullet ('crushing critical blow')." }
+      - { finding: "editorial-d", fix: "Soma 'set the coffer back on the altar' -> 'set the coffer down on the altar' in both the Summary and Items -> Stone Coffer — the coffer's actual origin is the pillar cavity, not the altar; 'back' wrongly implied she was returning it to where it came from." }
+      - { finding: "archaeology-timeline", fix: "Summary: 'They had heard the ruins might be an important find and gone looking for the Hall of Greed' -> reworded to reflect months of gold-prospecting turning up hints of something more, only then adopting the 'archaeologist' label. Hall of Greed location entry: 'the very site Dazlyn and Norbus had been hunting for' -> 'the find that turned Dazlyn and Norbus's months of gold-prospecting into self-declared archaeology.' Per GM ruling." }
+
+    rejected:
+      - finding: "Dazlyn/Norbus second-exchange swap"
+        ruling: "FALSE POSITIVE — already VTT-adjudicated correct in the first Stage 1 run (session_20250528_transcript.speakers.vtt lines ~2227-2231). Two dwarves, two separate genuine moments. No fix."
+      - finding: "Vukradin's languages (Undercommon/Goblin)"
+        ruling: "FALSE POSITIVE — VTT-confirmed real in the first Stage 1 run (lines ~4790-4870, Dave declaring both live). No fix."
+      - finding: "Dagger vs. rapier"
+        ruling: "FALSE POSITIVE — VTT-confirmed real across three separate checks now (2026-08-02, first Stage 1 run, this run's line 2367). No fix."
+      - finding: "Healing Word 2d4+3"
+        ruling: "NOT AN ERROR — literally spoken twice on tape (lines 1491, 2295). Table math, not an extraction error; verbatim quotes/played numbers are preserved as spoken. No fix."
+      - finding: "50 gp 'still owed' vs. campaign_state 'reward collected'"
+        ruling: "NOT A CONFLICT — two different 50gp payments (Harbin's already-paid quest reward vs. the dwarves' separate reward, withheld alongside the sending stones). VTT line 685 confirms the second is genuinely unpaid mid-session. No archive or recap fix needed."
+      - finding: "'guys, this is fleeing time' / 'Guys, we're done here' quote variance"
+        ruling: "CONFIRMED FINE — VTT lines 1095 and 1135 (Wade Brown/Soma) show both were said, in that order, exactly matching the document's header/body split. No fix."
+      - finding: "'we were looking for the Hall of Greed' (dwarves' in-character quote)"
+        ruling: "CONFIRMED VERBATIM — VTT line 4731, GM voicing the dwarves. Left as spoken per the preserve-quotes rule; consistent with their established tendency to oversell their own narrative."
+      - finding: "Title 'New Chapter 3' doesn't follow 'Chapter N: Title' convention"
+        ruling: "DEFERRED, NOT FIXED — this placeholder title is intentional pending the still-open chapter-renumbering project (major carry_forward item since Stage 0). Renaming now would preempt that decision."
+      - finding: "Soma's AC 21 vs. an unconfirmed 'AC 17'"
+        ruling: "NOT VTT-CHECKED THIS ROUND — carried forward. 'AC 21' is spoken on tape (line 1735); no matching 'AC 17' found. The recap's own '13+4=17 exactly beat her AC' arithmetic looks like it may be invented; needs a closer read of the actual hit rolls or GM memory."
+      - finding: "Jelly split-trigger inconsistency"
+        ruling: "NOT VTT-CHECKED THIS ROUND — carried forward. GM explicitly teaches 'splits on slashing, not piercing' on tape (line 2343); recap also has a split from an 8-pt radiant hit and a bludgeon+pierce split elsewhere. Needs reconciliation."
+      - finding: "First-battle kill ledger (jelly count / Poison Spray claimed kill / 'four jelly deaths')"
+        ruling: "NOT VTT-CHECKED THIS ROUND — carried forward. Not independently verified this pass; deferred pending a dedicated kill-by-kill VTT read."
+      - finding: "Gary's natural-1 tally"
+        ruling: "NOT VTT-CHECKED IN FULL — carried forward. Tape has explicit 'second'/'third' labels (lines 3779, 4143) and a final self-report of 'three' (line 4291); the document may be implying a fourth (Hall of Greed investigation nat-1). Low stakes."
+      - finding: "Rage vs. acid framing"
+        ruling: "Table-ruling bucket, RAW-consistent (rage doesn't cover acid, confirmed line 1307). Low stakes, no fix forced."
+      - finding: "'Clearing out these ogres' (Vukradin quote, temple threat is oozes)"
+        ruling: "VTT-CONFIRMED VERBATIM (line 4183) — Dave really said 'ogres.' Preserved as spoken per the standing quote-verbatim rule; likely a genuine in-the-moment slip referencing the road ogres instead of the temple oozes."
+
+  vtt_adjudicated: |
+    VTT consulted BY HAND (session_20250528_transcript.speakers.vtt) — NOT a --context
+    input to the check. All line numbers below refer to that file.
+
+    50 GP PAYMENTS: line 685 — "Norbert or whatever is withholding payment. I'm here for
+    the sending stones and for the, the hard-earned 50 gold pieces for delivering the
+    message." Confirms a second, separate 50gp payment from the dwarves (distinct from
+    Harbin's already-collected quest reward), tied to the sending-stones negotiation.
+
+    ARCHAEOLOGY TIMELINE (bit/joke, GM voicing the dwarves): lines 4680-4715 — "we're
+    amateur archeologists... they started the hobby recently... geez, I would say several
+    days ago" (Kostadis), "Yeah, moments ago. Hours" (Dave, riffing). Confirms the
+    self-labeling is recent; does not itself confirm or deny the "months of prospecting"
+    origin (that's the campaign_state/planning framing, GM-ruled consistent this round).
+
+    STONE'S ENDURANCE: line 799 (first fight, right after the 12-damage hit) — "I have one
+    hit point" — no endurance-absorption mentioned at the time. Line 1291 (later, unrelated
+    moment) — "when I took 12 damage before, I should have run Stone's Endurance" — explicit
+    past-tense regret confirming it was NOT applied to that hit. Line 3887 (second fight,
+    acid pseudopod) — "that's my stone's endurance. Whenever I take damage, I can take a
+    reaction to reduce the damage by 1d12 plus 2" — confirms its actual, correct use.
+
+    HEALING WORD DICE: lines 1491 and 2295 — "I'm doing Healing Word, 2D4 plus 3" / "I'll
+    heal you for 2D4 plus three" — spoken twice, unambiguous.
+
+    QUOTE VARIANCE ("fleeing time" / "done here"): lines 1095 ("Guys, we're done here.")
+    and 1135 ("Guys, this is fleeing time.") — both Wade Brown/Soma, in that order. Document
+    already has them correctly split between body (first) and header (second).
+
+    "WE WERE LOOKING FOR THE HALL OF GREED": line 4731, GM voicing the dwarves, verbatim.
+
+    "CLEARING OUT THESE OGRES": line 4183, Dave Mendenhall, verbatim — the temple threat
+    was oozes/jellies, not ogres; likely a live slip referencing the earlier road encounters.
+
+    RAGE VS. ACID: line 1307 — GM states rage grants "resistance to bludgeoning, piercing,
+    and slashing damage" explicitly, confirming acid falls outside it (RAW-correct).
+
+    JELLY SPLIT RULE: line 2343 — GM states "piercing them did not seem to split them in
+    half like the slashing did," teaching the slashing-only split rule directly to the
+    table. Not reconciled yet against the recap's radiant/bludgeon+pierce split claims.
+
+    NATURAL 1s: lines 3779 ("my second natural one tonight"), 4143 ("my third natural
+    one"), 4291 (self-report, "I think I got three natural 20s and three natural ones").
+
+  carry_forward:
+    - status: OPEN
+      severity: major
+      item: "CHAPTER RENUMBERING — unchanged from Stage 0/first Stage 1 pass. Still the
+        single largest open item from this whole check."
+    - status: OPEN
+      item: "Soma's AC 21 vs. an unconfirmed 'AC 17' the recap's own hit math implies —
+        needs a closer VTT read or GM memory on shell-defense timing at the KO moment."
+    - status: OPEN
+      item: "Jelly split-trigger inconsistency — GM taught 'slashing only' on tape (line
+        2343), but the document also has a radiant-hit split and a bludgeon+pierce split.
+        Needs reconciliation before this becomes the chapter source."
+    - status: NOTE
+      item: "First-battle kill ledger (jelly count / Poison Spray's claimed kill / 'four
+        jelly deaths' vs. three shown in the narrative) not independently VTT-verified this
+        round — worth a dedicated kill-by-kill read before narration."
+    - status: NOTE
+      item: "Gary's natural-1 tally — tape confirms exactly three (lines 3779/4143/4291);
+        document may imply a fourth at the Hall of Greed investigation. Low stakes."
+    - status: NOTE
+      item: "Regenerating session-summary.md via enhance_summary does NOT reliably preserve
+        hand-verified Stage 1 fixes from a prior run, but also does not necessarily
+        reintroduce them — this run's error profile was almost entirely different from the
+        first Stage 1 pass's. Re-running the full pipeline after any future regeneration is
+        the safe default; spot-checking is not sufficient."
+    - status: NOTE
+      item: "Prior Stage 1 report/manifest (27 findings, first regen) preserved as
+        consistency_stage1_summary.prev-regen.{md,sources.yaml} for audit trail."

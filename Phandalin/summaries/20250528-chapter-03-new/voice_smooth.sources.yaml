@@ -1,0 +1,222 @@
+# voice_smooth.sources.yaml
+# Manifest for the /voice-smooth pass over summaries/20250528-chapter-03-new
+# Generated per the voice-smooth skill, step 6.
+
+session:
+  dir: summaries/20250528-chapter-03-new
+  scene_source: scene_extractions/
+  scene_output: scene_extractions_smoothed/
+  scene_count: 10
+  precondition: /session-summary-consistency already run on this session (11 speaker-label
+    fixes in scene 03, 3 scene-summary name scrubs, 3 VTT mishears, 2 unrecoverable
+    fragments tagged [inaudible], 2 glossary rows added — Valefar->Valphine, Devar->Dave).
+
+transcripts_consulted:
+  - path: session_20250528_transcript.speakers.vtt
+    good_at: only transcript source for this chapter (no independent re-transcription
+      exists for chapter 3 — this predates the audio-to-vtt/faster-whisper tooling).
+      Used to pull raw context around ambiguous exchanges (e.g. the "Rod M18" /
+      "Crown of Valphine" initiative banter in scene 07); confirmed the extraction's
+      wording matches the tape exactly, with real player-name speaker labels intact
+      (as expected for a raw VTT).
+  - note: No second pass to cross-reference against. Where the tape itself doesn't
+      resolve a garble, it is left unclear rather than guessed — see garble_rulings.
+
+resolved_voice_specs:
+  pcs:
+    - character: Vukradin
+      file: voice/vukradin_new_pipeline.md
+      resolved_via: "rule (c) — unique key beginning with 'vukradin_'"
+    - character: Soma
+      file: voice/soma_new_pipeline.md
+      resolved_via: "rule (c) — unique key beginning with 'soma_'"
+    - character: Valphine
+      file: voice/valphine_new_pipeline.md
+      resolved_via: "rule (c) — unique key beginning with 'valphine_'"
+    - character: Brewbarry
+      file: voice/brewbarry_new_pipeline.md
+      resolved_via: "rule (c) — unique key beginning with 'brewbarry_'"
+      note: Brewbarry has exactly one directly-labeled quote this whole session
+        (scene 07, "It's almost like I'm a—", itself Gary's track mislabeled
+        Valphine on the tape). All other Brewbarry action is narrated by the GM
+        in third person; no first-person Brewbarry dialogue to smooth beyond that
+        one truncated line.
+  npc_characterization_source: "none used — no docs/npcs/ dossier or notes/session_prep
+    entry exists for Norbus Ironrune or Dazlyn Grayshard (checked; none found for
+    this early session). Rendered as neutral GM-voiced dialogue, per the skill's
+    documented fallback."
+
+calibration_decisions:
+  approved_scene: "01_ambush_at_the_blood_stained_altar.md"
+  approved_via: interactive Approve/Reject/Discuss artifact, GM decisions downloaded
+    2026-08-18 as voice-smooth-review-ch3-20250528.md
+  policies:
+    - filler_removal: APPROVED — collapse stutters, false starts, backchannel
+        ("uh", "um", "I mean", "all right" as bookend filler); applied throughout.
+    - grammar_connective_tightening: APPROVED — collapse filler into a single
+        connective, no content change; applied throughout.
+    - truncation_recovered: APPROVED — complete a cut-off line only when the
+        very next line by another speaker unambiguously finishes it; kept as an
+        em dash otherwise, never guessed.
+    - truncation_left_as_fragment: APPROVED — genuine tape cutoffs with no
+        recoverable completion are rendered as a trailing em dash, not invented.
+    - ooc_tooling_chatter: DISCUSS -> ruling "delete" — VTT/roll20 tooling
+        logistics (init-tracker fights, map-token placement, off-mic asides to
+        someone in the room) are CUT from the Voiced moments layer entirely,
+        not merely lightly smoothed. Applied throughout scenes 01-10 wherever
+        this class of line appeared; every cut is called out in an italic note
+        at the top of the affected sub-section so the omission is auditable.
+        GM-approved as P1 in the Round 2 artifact, 2026-08-18 — the broader
+        application (beyond the single scene 01 instance originally reviewed)
+        is confirmed correct.
+  flagged_resolved:
+    - id: F1 (scene 01, [The Route Decision])
+      original: "Uh, there's the secret door here. And will it? Well-"
+      ruling: GM said Drop the "And will it." -> rendered as "There's the secret door here."
+    - id: F2 (scene 01, [The Route Decision])
+      original: '...which way do you wanna go? Sure. Through here? Is that your final offer?'
+      ruling: GM said Drop the embedded duplicate "Sure." -> rendered without it.
+
+scope_rulings:
+  items:
+  - id: S1 (GM-approved via artifact)
+    pair: ["03_archaeologists_and_altars.md", "04_the_skull_cavity.md"]
+    what: The "party searches the altar room, finds a set of secret doors including
+      one in a pillar" beat is verbatim-duplicated across both scenes; scene 04's
+      copy is a strict subset with nothing unique.
+    resolution: Kept in scene 03 (chronological home, before the long rest).
+      Scene 04's Voiced moments start at "[The Little Door Beckons]"; a boundary
+      note at the top of scene 04 points back to scene 03.
+  - id: S2 (GM-approved via Round 2 artifact, 2026-08-18)
+    pair: ["01_ambush_at_the_blood_stained_altar.md", "02_battle_with_the_ochre_jellies.md"]
+    what: Scene 02's opening "[The Ochre Jellies Revealed]" (altar description,
+      Soma's monster ID, Vukradin's AC 8 line, "does it even have an initiative?")
+      duplicates the close of scene 01. Missed by the automated near-duplicate
+      scan in the pre-survey (step 1.5) because the two copies' wording differs
+      just enough to dodge exact-line matching — caught only on a second manual
+      read.
+    resolution: Kept in scene 01. Scene 02's Voiced moments start at
+      "[Opening Pseudopods]"; a boundary note points back to scene 01.
+  - id: S3 (GM-approved via Round 2 artifact, 2026-08-18)
+    pair: ["09_amateur_archaeologists.md", "10_ambush_on_the_road.md"]
+    what: Scene 10's opening "[Departure — Message Delivered]" (four lines,
+      exact match) duplicates the close of scene 09's reward/departure coda.
+    resolution: Kept in scene 09. Scene 10's Voiced moments start at
+      "[The Ambush Begins — Session Clock Runs Out]"; a boundary note points
+      back to scene 09.
+  process_note: The automated dedup grep from step 1.5 only ran once, before any
+    smoothing began, and used exact-line matching. It caught S1 (7 identical
+    lines) but missed S2 and S3 because near-duplicate wording between the two
+    copies fell under its match threshold. A second manual pass while smoothing
+    each scene caught the other two. Future runs should treat every scene's
+    OPENING beat as a suspect for silently recapping the prior scene's ENDING
+    beat, not just rely on the automated scan.
+
+garble_rulings:
+  scene_07:
+    - candidate: six budgeting (Valphine's mace hit)
+      transcripts: single-source; no corroboration available
+      reading: six bludgeoning — matches D&D damage-type vocabulary exactly;
+        the original extraction's own annotation already asserted this reading
+        with confidence.
+      decision: APPLIED and CONFIRMED (no objection raised when surfaced in the
+        Round 2 artifact, 2026-08-18). Not glossary-safe to batch — "budgeting"
+        is an ordinary English word, so this stays a one-off ruling, not a
+        notes/vtt_transcription_corrections.md row.
+    - candidate: I guess Flashing, yes (scene 01, Brewbarry's halberd exchange)
+      transcripts: single-source; no corroboration available
+      reading: GM ruling in the Round 2 artifact (2026-08-18) "flashing is
+        slashing" — the GM was echoing back "slashing" while confirming the
+        halberd's damage type, not saying an unrelated word. Superseded the
+        original guess (an isolated ASR insertion, no correction target) — that
+        guess was wrong; there was a target after all.
+      decision: APPLIED. Scene 01 now reads "Is it a slashing weapon? I guess —
+        slashing, yes." instead of dropping the word as noise.
+    - candidate: Rod M18 / Uh, the Crown of Valphine? (initiative banter)
+      transcripts: checked against session_20250528_transcript.speakers.vtt directly
+        (grepped the anchor "roll-off"/"18") — confirms the extraction quotes the
+        tape verbatim; the tape itself just doesn't resolve into anything sensible.
+      decision: DROP, per GM ruling in the Round 2 artifact (2026-08-18). Both
+        fragments removed from the smoothed layer; the surrounding coherent lines
+        (GM's "You did a roll-off at 18?" and Vukradin's "What'd the ogre get?")
+        are kept. An italic note in scene 07 records the cut.
+  scene_10:
+    - candidate: Do you speak Orcanese?
+      reading: either an ASR mishearing of "Orcish", or the GM inventing a joke
+        language name (matches his other in-session gags, e.g. "Dragon Scales R
+        Us").
+      decision: KEPT AS SPOKEN — CONFIRMED canon, per GM ruling in the Round 2
+        artifact (2026-08-18) "Orcanese is our way of saying orc language."
+        Registered as a new concept entity ("Orcanese", persistent scope,
+        aliases Orc language / Orcish) in docs/entity_registry.yaml, and added
+        to the "DO NOT CORRECT — canon coinages" table in
+        notes/vtt_transcription_corrections.md so future passes don't flag it.
+
+garbles_kept_deliberately:
+  - garble: Varas' character sheet (scene 01)
+    why: Refers to a character sheet from a different, non-Phandalin campaign that
+      Wade had open by mistake. No canonical correction is possible or in-scope —
+      this glossary only covers Phandalin proper nouns. Kept exactly as extracted.
+  - garble: the monster-reveal line in scene 01 and the "Grym?" line in scene 08 —
+      both already resolved to [inaudible] by the prior /session-summary-consistency
+      pass; carried through unchanged.
+
+structural_splits_applied:
+  - rule: Split stage direction out of NPC speech (skill step 2, rule 5) —
+      formatting-only, no wording change, not a GM ruling.
+  - scenes_affected: ["04_the_skull_cavity.md", "09_amateur_archaeologists.md"]
+  - counts:
+      scene_04: 6 splits (Norbus's arrival, the whispered weapons-check exchange,
+        "is he serious?", the paranoia/trap aside rendered as pure narration
+        with no quote-lock, Dazlyn thumping Norbus, Dazlyn putting the split
+        question to Valphine)
+      scene_09: 2 splits (the false-start stones-handover beat, the dwarves'
+        thrilled closing speech)
+  - note: scenes 03, 06, 07, 08 had no NPC-voiced dialogue fused with narration —
+      the dwarves' lines there were already clean, or no NPC appears on-screen.
+
+sentence_splits_across_speakers_flagged_not_fixed:
+  - scene_03: The line "What level are you?" — resolved as entirely Vukradin's line (crosstalk
+      capture on the GM's track, not a real second utterance); the extraction's own
+      annotation already made this call, so rendering it as one clean Vukradin line
+      is a readability fix, not a new attribution decision.
+  - scene_04, scene_09, scene_10: existing attribution-uncertainty notes from the
+      prior extraction/consistency passes ("we had servants" speaker mismatch in
+      scene 10; the Brewbarry/Valphine mislabel in scene 07) are carried forward
+      unchanged. No new attribution calls made in this pass.
+
+player_name_policy: verified — no real player name appears as a speaker label or in
+  scene-summary prose anywhere in scene_extractions_smoothed/. In-content real-name
+  references (Vukradin addressing "Kostadis," the GM breaking the fourth wall to
+  "Dave," Soma addressing "Nick") are left as spoken — genuine table talk, not
+  narratable-prose leaks.
+
+knowledge_boundary_check: none found. This is chapter 3 — well before the
+  KP/Margaster/cambion material that required boundary annotations in later
+  chapters. No out-of-fiction knowledge bleeding into character-labeled quotes
+  was detected.
+
+round_2_resolution:
+  reviewed_via: interactive Round 2 artifact, GM decisions downloaded 2026-08-18
+    as voice-smooth-review-ch3-20250528-round2.md
+  outcomes:
+    - S2 and S3 scope cuts — APPROVED, no changes needed.
+    - P1 (OOC-tooling-chatter policy extended to all 10 scenes) — APPROVED.
+    - Rod M18 / Crown of Valphine — DROP, applied (scene 07).
+    - Orcanese — CONFIRMED canon, registered in entity_registry.yaml and the
+      glossary's DO-NOT-CORRECT table.
+    - six budgeting -> six bludgeoning — confirmed, no change.
+    - the word Flashing — corrected from "dropped as noise" to "slashing",
+      per GM ruling (scene 01).
+  status: all six Round 2 items closed. No open GM questions remain on this
+    session's voice-smooth pass.
+
+carry_forward:
+  - Re-running scene_extract on this session would discard all of it — the three
+    scope cuts (S1/S2/S3) and their boundary notes, all eight structural
+    stage-direction splits in scenes 04 and 09, and the OOC-tooling-chatter
+    deletions across every scene. None of that is recoverable from
+    scene_extractions/ alone — it lives only in scene_extractions_smoothed/ and
+    this manifest.
+  - session_doc should read from scene_extractions_smoothed/, not scene_extractions/,
+    for this session going forward.
