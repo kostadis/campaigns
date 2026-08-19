@@ -749,5 +749,10 @@ it as a non-evil creature: **8d6 necrotic.**
 
    ⚠️ **Still true and unaddressed:** `day_four` and `candlekeep_murders_arc.md`
    both still describe Manshoon as a **CR 6 simulacrum**. That block is obsolete
-   — this doc's CR 12 build is the live one. Say the word if you want pointers
-   added to those two files as well.
+   **for this encounter only** — this doc's CR 12 build is the live one at the
+   Vile Door. It remains **correct for the ch63 Candlekeep breach**, which was
+   the simulacrum (GM ruling, 2026-08-19); `entity_registry.yaml`'s "appears as
+   Manshoon's Simulacrum" note describes *that* appearance and stands. Scope any
+   pointer you add accordingly — an unscoped "obsolete" re-triggers the
+   simulacrum-vs-person finding on every future consistency run. Say the word if
+   you want pointers added to those two files as well.

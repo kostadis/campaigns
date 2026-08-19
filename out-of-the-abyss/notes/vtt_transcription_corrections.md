@@ -21,7 +21,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel, Glabigold, Glad Baguole, Label Ghul | **Glabbagool** |
+| Glavagul, Glavagul's, Glabogul, Glavo, Glavacle, Glavable, Glavigal, Glavagol, Glabagul, Glabigle, Lavagul, Lavagul's, Miklabogul, Globul, Globagool, Gobblegool, Glabugul, Gladbagul, Globagul, Glabagool, Baba Gul, Glab Agul, Glad Abugul, Glad Agul, Globugul, Klobagool, Ivagoo, Glavgul, Glamble, Bugabagul, Glaba Gul, Glabagul-, Glad Maguld, Glavagulis, Ilab Agul, Bhagava Gul, Gladwell, Glabapagool, Galavagul, Glavo Gould, Glavo Golf, Gladbagool, Glavigold, Clavigal, Bernie Gutton, glabbagel, Glabigold, Glad Baguole, Label Ghul, Gogbugo | **Glabbagool** |
 | Jam Jar, Jim Jar | **Jimjar** |
 | Kel'Vire, Kel Vire, Calvir, Kel Veer, Kelvir | **Khell-Vire** |
 | Asha Vandri, Ashe Vandri, Ashas | **Asha Vandree** |
@@ -56,7 +56,7 @@ First catalogued during the cleanup of
 | Callan, Callum, Cullen, Kaelin, Colin, Cal, Collins, Talon, Talen, Kalen, Callen, Kalin, Kellen, Carolyn | **Kalan** |
 | Ally Avonmore, Alai Ivanmore, Ally Ivan Moore, Ally Avanmore, Alvin Moore, Ivan Moore, Ivanor, A'lai Avonmore, A'lai Ivanmore, Alai Evanmore, Ivanmoor, Avonmoor, Ally Evan more, Alei Avanmore, Alley Advanmore, Ali Ivanmoor | **A'lai Aivenmore** |
 | Avon Moore, Evan more, Avonmore | **Aivenmore** |
-| Alay, L.A., Alei, Eli, Allay, Ally, Allah, Aleah | **A'lai** |
+| Alay, L.A., LA, a lay, Alei, Eli, Allay, Ally, Allah, Aleah, Cisco | **A'lai** |
 | Varath, Verith, Varith, Varetha | **Vareth** |
 | Khazrin Natyani Nyatani, Kazrin Niet, Katherine, Karazzarin Nyantani, Kazrin Nanchani | **Kazryn Nyantani** |
 | Silvera salvikas, Silvira Savica, Silvara, Silvara Savikas, Silvari, Sylvaira, Vera, Silvira Savika | **Sylvira Savikas** |
@@ -264,3 +264,17 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 |---|---|
 | Dead Winter Day | **Deadwinter Day** |
 | Dead Winter's Eve | **Deadwinter's Eve** |
+
+- 20260803 session, second pass (staged-consistency run, 2026-08-19). Name garbles resolved as
+  targeted edits, all GM-confirmed: "Gogbugo" → **Glabbagool**; "Cisco" → **A'lai** (GM ruling —
+  "I don't trust Cisco anymore" is Grygum on the prisoner); bare "LA" / "a lay" → **A'lai**;
+  "a vowed wizard" → **Avowed** wizard; "half the about" → **the Avowed**; "You mean Zalthir?" →
+  **Glabbagool** (the GM's own correction that follows only parses this way); "sticking in the
+  middle of Zalthir" → **Glabbagool**. Ordinary-speech garbles: "KAK that thing away from me" →
+  **KEEP**; "he's got his hands dyed" → **tied**; "My feet makes it hard to escape… roll for time"
+  → **feat** / **tying**; "roll for a sweatyman" → **sleight of hand**; "that's a mess, I guess" →
+  **miss**. Left unrecovered and flagged in place: "Is that a ghoul's other name, Claude";
+  "HRSA building, okay"; Daz's "Yeah, the cheese" (re Tadric). A one-word real first name at
+  transcript L223 was scrubbed under the real-name rule rather than reconstructed.
+- **Registry note:** none of the above were added to `docs/entity_registry.yaml` as aliases.
+  Aliases are approved canonical alternates; a garbling never becomes one. They belong here.

@@ -65,7 +65,7 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 
 ### Moziqodo — **DECEASED (ch62–63)**
 - **Current location/status:** **Dead — killed by the party in a single round** during their approach to the High Tower.
-- **What he did:** **Murdered Bookwyrm**, took her Hightower key, and was carrying it to A'lai when the party intercepted him. His death **cut the key delivery short**, so A'lai never received the second key by the intended route.
+- **What he did:** **Murdered Bookwyrm**, took her Hightower key, and delivered it to A'lai before the party intercepted him. He **completed the delivery** — A'lai held Bookwyrm's key when the party captured him, and they stripped it from him and hid it inside Glabbagool (GM confirmation 2026-08-19; corroborated on tape: "Moziqodo kills Bookwyrm, gets one of the keys, gives it to A'lai").
 - **Blood tie:** **Sylvira Savikas's son** (he/him — GM ruling 2026-08-10). Identified as such by **Tadric**.
 - ⚠️ **LOAD-BEARING: Sylvira does not know he is dead, and does not know the party killed him.** Deliberately banked for the Gauntlgrym arc (ruling 2026-08-10). **Tadric is the leak risk** and must be managed on purpose.
 - **Arc score:** None.
@@ -253,7 +253,7 @@ A'lai **withheld what is actually in the depository from Manshoon** and is holdi
 - **Trigger:** Whatever A'lai trades it for — and whether Manshoon learns he was lied to for eleven years.
 
 ### 3. The Keys, Resolved (Candlekeep) — mostly closed
-Kalan's key was a **fake**, given to use the party as a decoy. The real one was on **Tadric**, who handed it over. **Moziqodo murdered Bookwyrm** for the second and died carrying it. The party now holds **both** — Grygum has one plus the fake and the sapphire; **Glabbagool holds A'lai's**, deliberately kept apart.
+Kalan's key was a **fake**, given to use the party as a decoy. The real one was on **Tadric**, who handed it over. **Moziqodo murdered Bookwyrm** for the second and delivered it to A'lai before the party killed him; the party then stripped it from A'lai. The party now holds **both** — Grygum has one plus the fake and the sapphire; **Glabbagool holds A'lai's**, deliberately kept apart.
 - **Residual:** the sapphire recalls a key to its holder's hand when smashed. Still unspent.
 
 ### 3. Identity of Janussi's True Killer & the Shapeshifter (Candlekeep)

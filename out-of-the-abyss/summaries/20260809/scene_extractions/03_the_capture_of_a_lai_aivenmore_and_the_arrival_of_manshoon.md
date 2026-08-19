@@ -7,22 +7,22 @@ source: gmassist
 
 ## Scene summary (from gm-assist, verbatim)
 
-#### The party secures A'lai Aivenmore and hides the High Tower keys, just as the legendary wizard Manshoon forces his way into Candlekeep.
+#### The party secures A'lai Aivenmore and hides his High Tower key, just as Manshoon's simulacrum forces its way into Candlekeep.
 - The party takes A'lai Aivenmore's High Tower key to prevent the two keys from being brought together. Daz: "Don't bring them together." Grygum retains the other real key.
-- Thorin takes the key off A'lai and uses sleight of hand to secretly pass it to Zalthir, and the key is ultimately hidden inside Glabbagool for safekeeping — with someone instructed to swear Glabbagool to the "Law of Silence." Daz: "I think sticking in the middle of Zalthir is probably not a bad idea."
+- Thorin takes the key off A'lai and uses sleight of hand to secretly pass it to Zalthir, and the key is ultimately hidden inside Glabbagool for safekeeping — with someone instructed to swear Glabbagool to the "Law of Silence." Daz: "I think sticking in the middle of [Glabbagool] is probably not a bad idea." *(transcript: "Zalthir")*
 - Glabbagool appears visibly proud of his new responsibility, standing slightly taller — "he gained a centimeter… a half a centimeter of height… A little less pancake-y" — now that he's "taking on important adventuring missions."
 - The room the party is guarding is confirmed as the security control room: the door "opens into a room, which has some kind of magical artifact… that controls the security of the systems." Zalthir notes the party already knows it's been tampered with, "because the security controls are partially deactivated."
 - The party decides to move A'lai Aivenmore out of the High Tower lobby before questioning him further, correctly sensing that remaining in the room would be dangerous. The DM's offer — "Do you want to stay in the room while he explains it to you, or do you want to leave the room?" — reads to Thorin as "a very loaded question… roll for initiative type of question." Thorin: "I say we get him out of the damn room before we start asking him questions." As they exit: "you made the right choice."
-- Manshoon, the legendary wizard, magically forces his way into the building — conjuring a wall of force and shattering the magical door that the High Tower keys were meant to protect. Asked what would have happened had they stayed: "the ultra-powerful wizard shows up and breaks the door." Grygum: "Well, I'm glad we didn't do that."
-- Thorin points out the keys now seem moot; the DM counters that Manshoon "would have showed up with a lot bigger power" — in the original plan "Manshoon shows up with all of his goons fully powered," but the party's campaign of attrition (Alkrist neutralized, Bookwyrm dead, A'lai captured, Kalan to the wind — "5 of these wizards are out" of the Avowed's final line of defense) forced him into "a desperate gamble," arriving alone and drained. Thorin: "Spreadsheet involved Kostadis." DM: "Yes, there was."
-- The party realizes that while Manshoon has breached the keep, he has expended massive amounts of magical power to do so and arrived alone, without his usual retinue of goons — "Manshoon probably burned a lot of magical artifacts to get here. It was a one-time trip kind of thing."
+- Manshoon's simulacrum magically forces its way into the building — conjuring a wall of force and shattering the magical door that the High Tower keys were meant to protect. Asked what would have happened had they stayed: "the ultra-powerful wizard shows up and breaks the door." Grygum: "Well, I'm glad we didn't do that."
+- Thorin points out the keys now seem moot; the DM counters that Manshoon "would have showed up with a lot bigger power" — in the original plan "Manshoon shows up with all of his goons fully powered," but the party's campaign of attrition (Janussi dead, Alkrist neutralized, Bookwyrm dead, A'lai captured, Kalan to the wind — "5 of these wizards are out" of the Avowed's final line of defense) forced him into "a desperate gamble," arriving alone and drained. Thorin: "Spreadsheet involved, GM?" DM: "Yes, there was."
+- The party realizes that while the simulacrum has breached the keep, it has expended massive amounts of magical power to do so and arrived alone, without his usual retinue of goons — "Manshoon probably burned a lot of magical artifacts to get here. It was a one-time trip kind of thing."
 - A'lai Aivenmore reveals that he withheld specific information from Manshoon regarding the depository's contents — "that was the detail he didn't tell Manshoon, which is why… good that you didn't kill him" — information he intends to use as leverage: "A'lai is going to want something in exchange for that information."
 - The party understands that A'lai's survival depends on their protection, as Manshoon could find a way into even Candlekeep's prison cells if he wished — "if Manshoon can show up in Candlekeep, Manshoon can find a way to show up in a cell inside of Candlekeep." What the party can offer: keeping him alive "just long enough for… all the wards to be placed," and ensuring "none of the other avowed kill him" — "there's probably a whole bunch of people who want him dead." Daz: "them alive and not letting their previous boss get pissed off and kill them is probably enough."
 - The Avowed are clarified for the table: "it's kind of like the clergy of Candlekeep, the Avowed."
 
 ## Verbatim moments
 
-**[GM]** — A'lai Aivenmore breaks down after the assassin's betrayal fails; the party has no sympathy
+**[GM]** — A'lai Aivenmore breaks down after his Zhentarim rescue fails; the party has no sympathy
 > "Anyway, alright, so while you're doing that, A'lai is, meanwhile, now A'lai starts crying."
 
 **[Thorin]**
@@ -47,7 +47,7 @@ source: gmassist
 > "like, you know, roll for initiative type of question."
 
 **[Zalthir]** — OOC while the GM is briefly away on a call, re-establishing why they're in this room at all
-> "while we wait on Kostadis, were we doing something in this room? Like, why were we here to begin with?"
+> "while we wait on the GM, were we doing something in this room? Like, why were we here to begin with?"
 
 **[Grygum]**
 > "I think we were going to**[Grygum]** — (truncated)
@@ -108,10 +108,10 @@ source: gmassist
 > "So I'm the one who takes it off him, but I slip it to, Zalthir when nobody's looking."
 
 **[Daz]** — the tape appears to garble the ooze's name here
-> "Yeah. I think sticking in the middle of Zalthir is probably not a bad idea."
+> "Yeah. I think sticking in the middle of [Glabbagool] is probably not a bad idea." *(transcript: "Zalthir")*
 
 **[Grygum]** — the tape garbles what is evidently a call for a roll
-> "You want to roll for a sweatyman?"
+> "You want to roll for [sleight of hand]?" *(transcript: "a sweatyman")*
 
 **[GM]** — swearing Glabbagool to secrecy
 > "Glabbagool, I mean, as long as Glabbagool… somebody tells Glabbagool to not talk about it."
@@ -130,7 +130,7 @@ source: gmassist
 > "We're now taking on important adventuring missions."
 
 **[Zalthir]**
-> "You mean Zalthir?"
+> "You mean [Glabbagool]?" *(transcript: "Zalthir" — the GM's correction that follows only parses this way)*
 
 **[GM]**
 > "Yeah, yeah, Glabbagool, sorry, Glabbagool is, like, you know…"
@@ -162,7 +162,7 @@ source: gmassist
 > "Well, I'm glad we didn't do that."
 
 **[Manshoon Breaches Candlekeep]**
-- Manshoon, the wizard who is supposed to be dead, forces his way into the building.
+- Manshoon's simulacrum forces its way into the building.
 - He conjures a wall of force and shatters the magical door the two High Tower keys were meant to protect.
 
 **[GM]**
@@ -190,13 +190,13 @@ source: gmassist
 > "is very much weakened as a result of that. The reason… The reason he shows up…"
 
 **[Thorin]**
-> "Spreadsheet involved Kostadis."
+> "Spreadsheet involved, GM?"
 
 **[GM]**
 > "Yes, there was."
 > "There was. I mean, Manshoon wasn't gonna show up, but you guys… but in the process of doing this, you managed to neutralize Alkrist."
 > "Bookwyrm is dead."
-> "A'lai's cap… You know, I didn't say it was your fault. A'lai is captured, Janussi is captured, right?"
+> "A'lai's cap… You know, I didn't say it was your fault. A'lai is captured, Janussi is captured, right?" *(The second clause is a **verbal stutter, not a fact** — a duplicated clause after a false start. Janussi has been dead since ch53; A'lai is the only prisoner. GM ruling 2026-08-11.)*
 > "Kalan is to the wind, and Manshoon's like."
 > "Has to expend massive amounts of magical power to get here."
 > "So he's weakened, but, you know, the whole point of the security of this place was that the Avowed were supposed to be the final line of defense, but 5 of these wizards are out."
@@ -229,7 +229,7 @@ source: gmassist
 
 **[GM]**
 > "Yes, you guys manage… now, he… all of his goons can't show up, only he can show up."
-> "Secondly, you manage to capture a lay who knows what Manshoon is after, precisely."
+> "Secondly, you manage to capture [A'lai], who knows what Manshoon is after, precisely." *(transcript: "a lay")*
 
 **[Grygum]**
 > "So, Manshoon is, like… this is like the boss fight."
@@ -242,7 +242,7 @@ source: gmassist
 > "Now, A'lai realizes that if Manshoon can show up in Candlekeep, Manshoon can find a way to show up in a cell inside of Candlekeep."
 
 **[Grygum]** — the tape garbles A'lai's name here
-> "And so we have to figure out what can we, offer LA."
+> "And so we have to figure out what can we offer [A'lai]." *(transcript: "offer LA")*
 
 **[Daz]** — (truncated at the start)
 > "them alive and not letting their previous boss get pissed off and kill them is probably enough."
