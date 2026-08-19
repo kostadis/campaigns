@@ -6,48 +6,46 @@ scene_name: The Murder Mystery Sidebar
 session: 20260629
 ---
 
-We had the confession. Alkrist had said it out loud, in the room, with the truth-magic still humming in the air — he'd killed Janussi. That was the thing we'd been digging for, and now it just sat there between us, pried loose at last, waiting for someone to decide where to set it down.
+The confession sat in the room like a dropped stone. Alkrist had said it — how Janussi died, whose hand was really behind it, the thread that ran back to A'lai Aivenmore. We had all of it now. And Kalan hadn't even walked in yet.
 
-Three ways out of the room, the way I counted them. Hand the whole thing to Kalan Strongbranch and let him run with it. Go find A'lai and let him know, quiet, that we knew things. Or walk straight up to Bookwyrm and demand justice on the spot.
+So we had a moment. Three roads out of the room, and just enough time to pick one before anyone made us. We could turn the whole thing over to Kalan and tell him to run with it. We could go to A'lai and let her know we knew things. Or we could march straight up to Bookwyrm and demand justice and satisfaction, right there, in front of everyone.
 
-"I thought Kalan was in the room with us this whole time," Zalthir said. "He had his Zone of Truth going."
+Zalthir looked around like he'd lost the plot. "Sorry, I thought Kalan was in the room with us this whole time, because he had his zone of truth going, he was… I thought he was just…"
 
-He was. But we had a breath before the next thing happened, and a breath is enough to talk.
+He was. Sort of. But there was a pocket of space here — a breath to put our heads together before the next thing happened. A quiet word among ourselves. Giants would have taken three days over a choice like this. We had about three seconds.
 
-I didn't need long with it. When you've got a broken thing in front of you and a place it fits, you don't stand around admiring the problem. Kalan had gotten fired. That's the terrain — a man told he was done, standing next to a case he couldn't crack, that we cracked for him. You don't take a win off a man like that. You hand it to him and let him stand a little taller.
+I didn't need three days.
 
-"Alright," I said. "I think we just hand it to him — let him save face, since he got fired — with the understanding that they make good on the promise: we get our reward for helping crack the case."
+"Alright, so I think we should just hand it to him, let him save face, because he got fired, and then, you know, with the understanding that they'll make good on the promise that we get our reward for helping crack the case."
 
-Simple. Clean. For once a faction problem had an answer I could say out loud without wanting to walk into a wall.
+That was the whole shape of it, to me. Kalan got fired. A gate warden without a gate. I've watched men lose their footing before — it's an ugly thing to see, and it doesn't take much to give a man his balance back. Hand him the case. Let him be the one who cracked it. He walks back in with something in his hands instead of nothing, and we walk out with our reward and our names kept quiet. Everybody stands where they need to stand. That's not charity. That's just putting the rock in the right place.
 
-There was still the matter of everything we hadn't gotten yet — the things we came to Candlekeep to ask the various folks, questions still owed to us. And there was Dawnbringer.
+Except we weren't finished in Candlekeep. There were still things we wanted out of the various folks here — questions half-asked, threads left dangling. And there was the other voice, the one only I can hear.
 
-She spoke up in my head. *I'm not leaving here without the therapy. That first session was actually very productive. I really feel we need to—*
+Dawnbringer spoke up in the back of my skull, the way she does. *I'm not leaving here without the therapy. That first session was very productive, actually. I really feel that we need to—*
 
-That one landed square. I'd been the one hunting a sword whisperer for her since the road south — months where the thing she was built to carry just wasn't there, and I wanted somebody who knew what that does to a blade. If she wanted more sessions, she was asking for exactly the thing I'd been trying to book.
+"I mean, I thought so too, Dawnbringer," I said. "I don't know what to tell you." And I didn't. She wasn't wrong. Months in the Underdark had been months of the exact thing she was built against — no light, no sky, nothing to burn the dark back. Then Candlekeep, and Philemon, and somebody finally sitting down to actually listen to a sword. "We were making progress. I'm with you."
 
-"I thought so too, Dawnbringer. I don't know what to tell you." I meant it. "We were making progress. I'm with you."
+She made a sound then — a click, sharp, right behind my eyes, like two hands slapping together. *I feel like we're making a connection.*
 
-*I feel like we're making a connection. If you could—* and then a click inside my skull, a sound like a palm slapping stone, whatever that was supposed to mean.
+Zalthir's head came up. "He can do that? Or she can do that?"
 
-Zalthir squinted. "He can do that? Or — she can do that?"
+She can make noises in my head. So — yeah. That part isn't really up for debate.
 
-She could make noises in my head, so — yeah. That was answer enough for the mechanics of it.
+"I thought Dawnbringer was a she," I said. "I mean, I'm cool either way, just to be clear." Then I stopped, because now I wasn't sure. "I don't know, I can't remember." I let it sit a beat. "So whatever — she, yes, I think we said she. Yes. I think we said she."
 
-"I thought Dawnbringer was a she," I said. "I'm cool either way, just to be clear." I turned it over and came up short. "I don't know, I can't remember." Then I shrugged, because it didn't change anything about the sword or about me. "Whatever — she. Yeah, I think we said she."
+Good enough. The sword's got opinions about a lot of things. Her pronoun isn't the one I lose sleep over.
 
-The plan sat there, and it held. When the question came around — was that it, was that what we were doing — I didn't hedge.
+"Yeah, I think that plan sounds good to me," I said, when it came back around to whether we were actually doing this.
 
-"Yeah, that plan sounds good to me."
+Daz, being Daz, kept a door propped open behind us. "I mean, if things go sideways, we can always, you know, start hacking and slashing."
 
-Daz, in his dry way, laid out the floor under it. "If things go sideways, we can always start hacking and slashing." He wasn't wrong. Nice to have a floor.
+There was one thing still turning over in my head, though, and I said it out loud, because that's what I do. "Well, I mean, okay, the alternate is that, like, if we make a big deal about we're the ones who described it, then that actually plays into our fame, but, like, do we really want to be famous, or do we want to fly under the radar? This is kind of our…"
 
-There was one thing gnawing at me, though, and I named it, because that's how I do things. "Okay, the alternative: if we make a big deal about being the ones who cracked it, that plays into our fame. But do we really want to be famous, or do we want to fly under the radar? That's kind of our—"
+I didn't finish it. Didn't need to. We'd been famous before. We had a name we never picked — the Ember Vanguard — and wanted posters with our faces drawn wrong.
 
-Zalthir cut it clean. "We're already infamous underground. It didn't seem to serve us well."
+Zalthir put it plainer than I did. "We're already infamous underground. It didn't seem to serve us well, I don't know."
 
-He had a point. Gracklstugh still had our name on posters, wrong enough to be cover but our name all the same. The Ember Vanguard, running ahead of us in every rumor, bigger and meaner than the four of us in a room arguing about a dead sage.
+That word — *infamous* — set somebody off. You know, like the Three Amigos. What does that mean? Had I ever seen the movie?
 
-And then the word caught on me the way words do, and I couldn't let it pass. "Infamous," I said. "You know that's supposed to mean extra famous."
-
-I said it flat, waited for the groan, and got about half of one. Bad joke. That's the reaction I want.
+"There's a whole scene where they talk about the word infamous," I said, "and how it means extra famous." Bad joke. Old one. I grinned at it anyway. "I remember that."
