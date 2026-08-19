@@ -69,6 +69,19 @@
 #    "Phandalin's lib/" as a per-campaign deviation. Phandalin/lib and
 #    out-of-the-abyss/lib hold only .js and .css, none of which is in
 #    search_extensions, so they never enter a search either way.
+#
+# 5. entity_registry.yaml ELEVATED TO AUTHORITATIVE (2026-08-17, GM-confirmed,
+#    CampaignGenerator #326). Every campaign's registry previously fell out of
+#    the blanket working_reference `docs/*.yaml` glob alongside generated
+#    config. That inverted this workspace's own trust hierarchy: the registry
+#    is hand-curated identity/spelling canon, not pipeline output, and a
+#    consistency check anchored on working_reference alone missed real
+#    surname/spelling errors the registry would have caught (the Obelisk
+#    "Foreput"/"Dawnforge" incident, #117). Applied only where a registry
+#    exists (Phandalin, out-of-the-abyss, toee, obelisk) — Hillsfar and
+#    stormgiants have none. `notes/**` stays staging; this workspace's own
+#    CLAUDE.md is explicit that notes are not canon, and the backtest that
+#    motivated this change did not need notes/ reclassified to work.
 
 version: 1
 
@@ -77,7 +90,8 @@ campaigns:
   Phandalin:
     root: Phandalin
     tiers:
-      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md"]
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
       search_accelerator: ["docs/*_extractions/**/*.md"]
       working_reference:  ["docs/*.md", "docs/npcs/*.md", "characters/*.md", "voice/*.md",
                            "docs/*.yaml", "docs/*.json", "config/*.yaml"]
@@ -96,7 +110,8 @@ campaigns:
   out-of-the-abyss:
     root: out-of-the-abyss
     tiers:
-      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md"]
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
       search_accelerator: ["docs/*_extractions/**/*.md"]
       working_reference:  ["docs/*.md",  "voice/*.md", "examples/*.md",
                            "docs/*.yaml", "docs/*.json", "config/*.yaml"]
@@ -142,7 +157,8 @@ campaigns:
   toee:
     root: toee
     tiers:
-      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md"]
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
       # Root-level planning_extractions/ as well as the docs/ ones.
       search_accelerator: ["planning_extractions/**/*.md", "docs/*_extractions/**/*.md"]
       working_reference:  ["docs/*.md", "voice/*.md", "examples/*.md",
@@ -179,7 +195,8 @@ campaigns:
     tiers:
       # session_NNN_, not chapter_NN_. A shared pattern silently attributes
       # nothing here, and a horizon query would then filter out every file.
-      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md"]
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
       search_accelerator: []
       working_reference:  ["docs/*.md", "docs/npcs/*.md", "docs/background/*.md",
                            "characters/*.md", "docs/*.yaml", "docs/*.json", "config/*.yaml"]
