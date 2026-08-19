@@ -200,7 +200,7 @@
 **Active plans:** Managing mine operations. Anticipates a new gold vein making the operation highly profitable ("rolling in the cash"). Holds a secret addendum to the mine contract, signed by Brewbarry (thumbprints), explicitly designed to be hidden from Vukradin. A fake gem was proposed as part of this scheme (ch36).
 **What party knows (incomplete):** She's their mine liaison. Alliance with the Whiskered Gang (wererats) for protection. Mine is operational.
 **Hidden from Vukradin specifically:** The secret addendum signed by Brewbarry. Horia explicitly said keep it from Vukradin. This is a party-internal deception the GM should track.
-**Relationships:** Dwolin the Grout (best gold-seeker she knows); Zeleen Varnaster / Whiskered Gang (protection alliance); Brewbarry (secret addendum partner); Mr. Bucherton (insisted on the no-skimming clause).
+**Relationships:** Dwolin the Grout (best gold-seeker she knows); Zeleen Varnaster / Whiskered Gang (protection alliance); Brewbarry (secret addendum partner); Vukradin (insisted on the no-skimming clause).
 
 ---
 
@@ -346,7 +346,7 @@
 **Current goals:** Protect the mine; quietly position to retain it regardless of any deal (per Valphine's insight).
 **Active operations:** Mine protection. Earthstone Gem retrieval (overdue/in progress).
 **Key members:** Zeleen Varnaster (leader), unnamed gang members.
-**Relationship to party:** Tactical alliance. The "no-skimming clause" Mr. Bucherton demanded and the secret addendum Brewbarry signed complicate this. Zeleen lied to the party about Don-Jon's death — a leverage point if the party ever presses it.
+**Relationship to party:** Tactical alliance. The "no-skimming clause" Vukradin demanded and the secret addendum Brewbarry signed complicate this. Zeleen lied to the party about Don-Jon's death — a leverage point if the party ever presses it.
 
 ### Kraken Society / Splinter Colony
 **Current goals (surface / Tier 4):** Recover artifacts tied to Ubbalux; advance psionic influence across the Sword Coast. Brother Halgar in Leilon: deciphering "dragon dreaming" (planar memory manipulation), funded covertly.

@@ -5581,7 +5581,7 @@ The funding question was where it got interesting. Horia wanted fifty gold piece
 
 Horia, to her credit, had a document for this.
 
-"According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice, we have a no-skimming clause that Mr. Bucherton insisted we put in."
+"According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice, we have a no-skimming clause that Mr. Vukradin insisted we put in."
 
 Brewbarry stared at her.
 

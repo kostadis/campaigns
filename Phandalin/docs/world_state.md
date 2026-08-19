@@ -140,7 +140,7 @@ The older threats have not gone anywhere: a hidden "headliner" behind six circli
 
 - **Role:** Oversees mine operations; negotiated wererat alliance for protection (dwarves mine, wererats guard).
 - **Financial situation:** New gold vein anticipated; has a secret addendum (signed via Brewbarry thumbprints) to be kept from Vukradin.
-- **Contacts:** Dwolin the Grout (gold-seeker); Mr. Bucherton (no-skimming clause); Mr. Vukradin (interference risk — don't reveal addendum to him).
+- **Contacts:** Dwolin the Grout (gold-seeker); Vukradin (no-skimming clause; interference risk — don't reveal addendum to him).
 
 ### Zeleen Varnaster
 *Alive | Mountain's Toe Mine | Whiskered Gang leader (wererats)*

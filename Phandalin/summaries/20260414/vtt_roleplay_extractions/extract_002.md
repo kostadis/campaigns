@@ -34,7 +34,7 @@
 > "You want gold. You… you're working a gold mine. You see the irony of what you're just saying, right?"
 
 **GM as Horia** — *Invoking the no-skimming clause in the contract*
-> "According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice that we have a no-skimming clause that Mr. Bucherton insisted we put in."
+> "According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice that we have a no-skimming clause that Mr. Vukradin insisted we put in."
 
 **Stéphane as Brewbarry** — *Responding to the contract citation*
 > "How about the Barbarian in your face cause? Did you read that in your contract?"
