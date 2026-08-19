@@ -38,7 +38,7 @@ source_extracts: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18,
 9. Formally concluded the agreement by shaking hands with Zeleen Varnaster and exchanging signed contracts.
 10. Spoke with Vukradin about projected earnings, estimating approximately **100 gp per week**, with potential for more given further investment.
 11. When Zeleen's were-rats were dispatched to find the real Earthstone Gem, Horia revealed she had been planning to propose that the party give her money to buy a fake gem as a workaround for Dwolin's superstitions. Brewbarry designated this as "Plan B" in case the were-rats failed.
-12. Requested fifty gold pieces from the mine's own accounts to fund the fake gem purchase, citing a "no-skimming clause" that Vukradin ("Mr. Bucherton") had insisted on in the contract, which prevented her from simply taking mine gold.
+12. Requested fifty gold pieces from the mine's own accounts to fund the fake gem purchase, citing a "no-skimming clause" that Vukradin had insisted on in the contract, which prevented her from simply taking mine gold.
 13. After Brewbarry threatened her with his "Barbarian in your face clause" and offered to draw her blood for ink, she quickly agreed that the addendum could be considered signed without formalities. She conspiratorially suggested — leaning up toward Brewbarry's kneecap due to the height difference — that they keep the arrangement between themselves, believing Vukradin would not be open to such negotiations.
 
 ## Current Status

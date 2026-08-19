@@ -53,7 +53,7 @@
 - Pragmatic beneath the formality: will abandon procedure the moment the barbarian offers to use blood for ink.
 - Dry conspiratorial warmth when she thinks she's found an ally against Vukradin's principles.
 
-> "According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice that we have a no-skimming clause that Mr. Bucherton insisted we put in."
+> "According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice that we have a no-skimming clause that Mr. Vukradin insisted we put in."
 > "I think, I think we could assume that the addendum is signed."
 > "I do suggest we keep this little addendum between ourselves. I don't think Mr. Rukradin would be open to these kinds of negotiations."
 
@@ -94,7 +94,7 @@
 
 **Horia requests fifty gold from the mine's own funds; Brewbarry takes issue:**
 
-> **Horia:** "According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice that we have a no-skimming clause that Mr. Bucherton insisted we put in."
+> **Horia:** "According to… look, I'm a big believer in contractual obligations and procedures and rules. And if you'll notice that we have a no-skimming clause that Mr. Vukradin insisted we put in."
 > **Brewbarry:** "How about the Barbarian in your face clause? Did you read that in your contract?"
 > **Horia:** "I'm perfectly happy to have an addendum signed by Mr. Brewberry. Thumbprints."
 > **Brewbarry:** "Alright, I'm out of ink. How about I draw a little blood from you, so we can sign that addendum?"
