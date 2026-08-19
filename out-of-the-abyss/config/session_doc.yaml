@@ -1,21 +1,20 @@
 paths:
-  session_recap: gm-assist.md
-  session_summary: session-summary.md
-  scene_extractions_dir: scene_extractions
-  narration_dir: narration
+  session_recap: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/gm-assist.md
+  session_summary: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/session-summary.md
+  scene_extractions_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/scene_extractions
+  narration_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/narration
   output_dir: null
   party: docs/party.md
   voice_dir: voice
   examples_dir: examples
   genre_file: voice/_genre.md
+extract:
+  tokens: 8192
 narrate:
   tokens: 16000
   prose_mode: true
   reflections: true
   context: []
-scrub:
-  enabled: false
-  tokens: 16000
 verify:
   threshold: 0.85
   min_tokens: 4
