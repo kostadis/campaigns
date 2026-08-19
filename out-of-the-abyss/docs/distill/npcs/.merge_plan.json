@@ -1,0 +1,200 @@
+{
+  "created_at": "2026-04-18T12:50:00",
+  "dossier_dir": "/home/kroussos/campaigns/out-of-the-abyss/docs/npcs",
+  "backup_tarball": "/home/kroussos/campaigns/out-of-the-abyss/docs/npcs.backup-20260418-124119.tar.gz",
+  "rejections": [
+    {"files": ["shoor.md", "stool.md"], "reason": "different races — Shoor is duergar, Stool is myconid sprout"},
+    {"files": ["aliinka.md", "plinki.md", "pliinki.md"], "reason": "Aliinka is a separate NPC; only plinki/pliinki are duplicates of each other"},
+    {"files": ["elbeth.md", "eldeth.md"], "reason": "different NPCs despite name similarity"},
+    {"files": ["ilvara.md", "ilvara_mizzrym.md", "ulnara.md"], "reason": "Ulnara is a separate NPC (different race) from Ilvara/Ilvara Mizzrym"}
+  ],
+  "merges": [
+    {
+      "id": 1,
+      "type": "split",
+      "note": "topsy_and_turvy.md is a compound dossier — split content between topsy.md and turvy.md, then delete the compound file",
+      "compound_file": "topsy_and_turvy.md",
+      "targets": ["topsy.md", "turvy.md"]
+    },
+    {
+      "id": 2,
+      "canonical": "plinki.md",
+      "losers": ["pliinki.md"],
+      "extra_aliases": ["Pliinki"]
+    },
+    {
+      "id": 3,
+      "canonical": "brysis_of_khaem.md",
+      "losers": ["brysis.md"],
+      "extra_aliases": ["Brysis"]
+    },
+    {
+      "id": 4,
+      "canonical": "errde_blackskull.md",
+      "losers": ["errde.md", "errde_blackstaff.md", "erdde_blackskull.md", "errde_captain_errde.md"],
+      "extra_aliases": ["Errde", "Errde Blackstaff", "Erdde Blackskull", "Captain Errde"]
+    },
+    {
+      "id": 5,
+      "canonical": "ilvara_mizzrym.md",
+      "losers": ["ilvara.md"],
+      "extra_aliases": ["Ilvara"]
+    },
+    {
+      "id": 6,
+      "canonical": "rump_a_dump.md",
+      "losers": ["rump_a_dump_rumpadump.md", "rumpadump.md", "rumpadump_rump_a_dump.md"],
+      "extra_aliases": ["Rumpadump"]
+    },
+    {
+      "id": 7,
+      "canonical": "shuushar.md",
+      "losers": ["shuushar_also_suushar.md", "shuushar_shuushar_the_awakened.md", "shuushar_the_awakened.md", "suushar.md", "suushar_the_awakened.md"],
+      "extra_aliases": ["Suushar", "Shuushar the Awakened", "Suushar the Awakened"]
+    },
+    {
+      "id": 8,
+      "canonical": "buppido.md",
+      "losers": ["bupido.md"],
+      "extra_aliases": ["Bupido"]
+    },
+    {
+      "id": 9,
+      "canonical": "fargas_rumblefoot.md",
+      "losers": ["fargus_rumblefoot.md"],
+      "extra_aliases": ["Fargus Rumblefoot"]
+    },
+    {
+      "id": 10,
+      "canonical": "glabbagool.md",
+      "losers": ["glabagool.md"],
+      "extra_aliases": ["Glabagool"]
+    },
+    {
+      "id": 11,
+      "canonical": "gurnik_tapfinger.md",
+      "losers": ["grunik_tapfinger.md"],
+      "extra_aliases": ["Grunik Tapfinger"]
+    },
+    {
+      "id": 12,
+      "canonical": "hemeth.md",
+      "losers": ["hemath.md"],
+      "extra_aliases": ["Hemath"]
+    },
+    {
+      "id": 13,
+      "canonical": "naomi_pathshutter.md",
+      "losers": ["nomi_pathshutter.md"],
+      "extra_aliases": ["Nomi Pathshutter"]
+    },
+    {
+      "id": 14,
+      "canonical": "phylo.md",
+      "losers": ["phyllo.md"],
+      "extra_aliases": ["Phyllo"]
+    },
+    {
+      "id": 15,
+      "canonical": "asha_vandree.md",
+      "losers": ["asha.md", "asha_vandry.md"],
+      "extra_aliases": ["Asha", "Asha Vandry"]
+    },
+    {
+      "id": 16,
+      "canonical": "bloppblippodd.md",
+      "losers": ["bloppblippodd_blopp.md"],
+      "extra_aliases": ["Blopp", "Bloppblippodd (Blopp)"]
+    },
+    {
+      "id": 17,
+      "canonical": "dasco_pickshine.md",
+      "losers": ["dazco_pickshine.md"],
+      "extra_aliases": ["Dazco Pickshine"]
+    },
+    {
+      "id": 18,
+      "canonical": "gartokkar_xundorn.md",
+      "losers": ["gartokkar.md"],
+      "extra_aliases": ["Gartokkar"]
+    },
+    {
+      "id": 19,
+      "canonical": "hgraam.md",
+      "losers": ["hargaam.md", "stonespeaker_hgraam.md"],
+      "extra_aliases": ["Hargaam", "Stonespeaker Hgraam"]
+    },
+    {
+      "id": 20,
+      "canonical": "jadgar.md",
+      "losers": ["burrow_warden_jadger.md", "jadger.md", "uth_jadgar.md"],
+      "extra_aliases": ["Burrow Warden Jadger", "Jadger", "Uth Jadgar"]
+    },
+    {
+      "id": 21,
+      "canonical": "jimjar.md",
+      "losers": ["jim_jar.md", "jimjar_also_jim_jar.md", "jimjar_jim_jir.md"],
+      "extra_aliases": ["Jim Jar", "Jim Jir"]
+    },
+    {
+      "id": 22,
+      "canonical": "jorlan_duskryn.md",
+      "losers": ["jorlan.md"],
+      "extra_aliases": ["Jorlan"]
+    },
+    {
+      "id": 23,
+      "canonical": "kaelira_duskryn.md",
+      "losers": ["kaelira.md"],
+      "extra_aliases": ["Kaelira"]
+    },
+    {
+      "id": 24,
+      "canonical": "nym_duskryn.md",
+      "losers": ["nym.md"],
+      "extra_aliases": ["Nym"]
+    },
+    {
+      "id": 25,
+      "canonical": "ploopploopeen.md",
+      "losers": ["ploopploopeen_ploop.md"],
+      "extra_aliases": ["Ploop"]
+    },
+    {
+      "id": 26,
+      "canonical": "derendil.md",
+      "losers": ["prince_derendil.md"],
+      "extra_aliases": ["Prince Derendil"]
+    },
+    {
+      "id": 27,
+      "canonical": "sarith.md",
+      "losers": ["sarith_also_referred_to_as_sathir_in_the_text.md", "sathir.md", "serith.md", "sethir.md", "sethir_serith.md"],
+      "extra_aliases": ["Sathir", "Serith", "Sethir"]
+    },
+    {
+      "id": 28,
+      "canonical": "senni_diggermattock.md",
+      "losers": ["sennai.md", "senni.md"],
+      "extra_aliases": ["Sennai", "Senni"]
+    },
+    {
+      "id": 29,
+      "canonical": "pudding_king.md",
+      "losers": ["the_pudding_king.md"],
+      "extra_aliases": ["The Pudding King"]
+    },
+    {
+      "id": 30,
+      "canonical": "themberchaud.md",
+      "losers": ["themberchaude.md", "thermbechaud.md"],
+      "extra_aliases": ["Themberchaude", "Thermbechaud"]
+    },
+    {
+      "id": 31,
+      "canonical": "werz_saltbaron.md",
+      "losers": ["werz.md"],
+      "extra_aliases": ["Werz"]
+    }
+  ]
+}

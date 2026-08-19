@@ -1,0 +1,47 @@
+## Dawnbringer
+
+Dawnbringer is a sentient sunblade discovered in a sarcophagus, held by a mummified corpse. When the party first found it, it appeared as just a sword hilt and pleaded for help, saying "Please, help me" and "I can help you! Please don't let me go." It identified Zalthir as a monk and dismissed him, shouting "You're a monk! Get the fighter over here!" When Thorin picked up the hilt, Dawnbringer rejoiced and manifested a shimmering blade of light. The wraith Brysis screamed "Not Dawnbringer!" upon seeing it, suggesting the sword is a known and feared weapon against undead. Dawnbringer can read and write, and can cast lesser restoration. After millennia of imprisonment, Dawnbringer refused to extinguish its light, even at night when the party wanted to sleep. Thorin, out of compassion, kept it lit, which drove Daz crazy. Thorin continued to wield Dawnbringer, using it effectively in combat against the Grick in Neverlight Grove.
+
+## Brysis
+
+Brysis is a wraith that was trapped in a sarcophagus tomb. When Thorin activated Dawnbringer, Brysis screamed "Not Dawnbringer!" and declared "I have been waiting for millennia to be free, and I won't be denied now!" after being hit by Daz's spells. Brysis was ultimately killed by the combined efforts of the party — notably finished off by Grygum's acid breath (Zalthir notes the wraith was "killed by barf"). Brysis had set up a false tomb with a magical trap as a decoy, which Fargas Rumblefoot had previously warned the party about. With Brysis's death, the trap in the false tomb dissipated. The party looted Brysis's real tomb, finding a necklace of fireballs, a potion of greater healing, and gold.
+
+## Fargas Rumblefoot
+
+Fargas Rumblefoot is mentioned as having previously warned the party about the false tomb of Brysis, which contained a sarcophagus that was suspiciously easy to open and had a magical trap. His warning proved accurate.
+
+## Eldeth
+
+Eldeth informed the party on the morning of the 8th day that she believed they had lost their pursuers — the enemies were no longer on their trail. She is listed among the party's followers who descended into Neverlight Grove with Thorin.
+
+## Jimjar
+
+Jimjar smiled at Grygum upon arriving at Neverlight Grove and said "Remember my bet" before racing after the myconids Stool and Rumpadump and Sarith into the grove. His current bet is unspecified but presumably relates to something about Neverlight Grove.
+
+## Sarith
+
+Sarith, the party's drow guide, looked unhappy and serene as they entered Neverlight Grove but followed the myconids inside. Basidia, the myconid sovereign, noted that they could not recognize Sarith's spores, which is unusual since every myconid sovereign can recognize the spores of any other sovereign in the Underdark. Daz concluded that Sarith has been affected/infected by Zuggtmoy's demonic spores. His condition raises questions about whether his infection is the same as or different from what has affected the Circle of Masters and Sovereign Phylo.
+
+## Phylo
+
+Phylo is one of the two co-sovereigns of Neverlight Grove, sharing power with Basidia. Phylo greeted the party warmly and enthusiastically, spreading rapport spores to enable communication. Phylo told the party: "You are safe, friendly softers! You arrive at a wondrous time, for Neverlight Grove is on the verge of something great, something marvelous! Celebrate as the day of joy is nigh!" Phylo encouraged the party to explore the grove but explicitly warned them not to visit the eastern plateau, claiming "the Circle of the Masters is preparing a wondrous and glorious surprise in the Garden of Welcome," and offered to give them a peek the next day. When asked questions, Phylo directed the party to "the Great Seeder," describing this entity as a "wonderful entity who will help all of us get closer to her beauty" who lives beyond the Garden. Daz noted that Phylo's consistent use of female gender pronouns is highly unusual for myconids, and connected this to Zuggtmoy, who is often referred to as "she." Phylo has restructured the social order of Neverlight Grove, mandating that each circle meld exclusively within itself, with only circle leaders melding with other leaders and the sovereigns — a change Basidia views as contrary to myconid unity. Phylo also created an "Inner Circle" of circle leaders and a "Circle of Masters" composed of those closest to Phylo. Phylo insists that all dead creatures be brought to the Circle of Masters for reanimation. Phylo is believed by Basidia to have contracted some kind of diseased spore. A previous group of "softers" who accepted Phylo's offer to visit the Garden of Welcome have not been seen since, and Phylo has made no mention of them. Phylo is connected to a promised "great celebration" and "great awakening."
+
+## Basidia
+
+Basidia is the other co-sovereign of Neverlight Grove, sharing power with Phylo. Basidia appears uncomfortable with Phylo's behavior and offered to take the party on a tour of the gardens instead of Phylo. Once away from Phylo, Basidia confided serious concerns: "The grove is not safe. Another group of 'softers' arrived not too many cycles ago and accepted Phylo's offer. They were taken to the Garden of Welcome. I haven't seen them since, nor has Phylo made any further mention of them." Basidia also whispered that "the Circle of Masters is taking most of the carcasses the Circle of Hunters bring in, and are sending groups of myconids outside the grove without telling anybody." Basidia could not recognize Sarith's spores, which they found deeply strange. Basidia expressed fear that Phylo has contracted a diseased spore, saying "We used to work so well together," and admitted they couldn't tell if it was the same spore affecting Sarith. Basidia asked the party to investigate the Garden of Welcome but acknowledged the danger, explaining they feared going personally lest they succumb to the same disease. In exchange, Basidia gave the party a scroll of protection against fiends and promised additional treasures and potions of various potency if they bring back Phylo. Basidia assured the party that if the demon is destroyed and Phylo dies, Phylo would simply "enter the great circle and all would be well." Basidia also offered to animate the Grick corpse the party brought back, though was concerned when the party had stripped the Grick's head. The animation would still be successful. Basidia assured Grygum that Rumpadump and Stool were happy among their kind. Basidia is currently guiding the party through the grove and represents the faction opposed to whatever corruption Phylo has embraced.
+
+## Stool
+
+Stool, one of the myconid sprouts traveling with the party, ran joyfully into Neverlight Grove shouting "We're home!" Stool interrupted Phylo to tell stories about the party — how Thorin carried him when he was tired, and that Zalthir was always grouchy but really a nice "softer" who saved Rumpadump. Stool was silenced by Phylo's wave of the hand. Basidia assured the party that Stool is happy among their kind in the grove.
+
+## Rumpadump
+
+Rumpadump (also referred to as Rump-a-dump) ran into Neverlight Grove with delight alongside Stool, shouting "We're home!" Basidia assured the party that Rumpadump is happy among their kind. Grygum asked if both sprouts could continue traveling with the party, suggesting he is worried about their safety.
+
+## Loobamub
+
+Loobamub is a myconid and leader of the Circle of Hunters, described as one of Basidia's followers. Loobamub asked the party to help deal with a Grick, explaining that Phylo insists all dead creatures be brought to the Circle of Masters for reanimation. If the party could bring the Grick to Basidia instead, Basidia could reanimate it to help them. Loobamub also warned the party that a Shambling Mound was concealed nearby in the swampy ground. When Zalthir asked why the hunters were sending the party to hunt instead, Loobamub explained: "We bring back the dead. We do not kill."
+
+## Gasbide
+
+Gasbide is a myconid Builder and a supporter of Sovereign Phylo, encountered at the Northern Terraces of Neverlight Grove. He approached the party with undisguised curiosity, asking if they were from above. When Grygum confirmed they were from "the Great Bright," Gasbide became obsessed with surface architecture, demanding precise details: "How are they built? What shape do they have? What materials do you use? How many windows? How many doors? I've heard the word 'windows'. What is a window?" When Zalthir used Minor Illusion to conjure a small-scale building, Gasbide was captivated and asked if Zalthir was an architect. Gasbide revealed his dream of building a fungal tower greater than Yggmorgus, hoping to use it to break through the Underdark to the surface world, possibly with the aid of Araumycos. He was distraught to learn the surface has a sun that would harm myconids and asked how to build protections against it. Gasbide admitted he has no clear understanding of what Araumycos is, only that "it is part of a great celebration to come" promised by Sovereign Phylo. Daz engaged him in extended technical discussions about construction and design, and wondered if Gasbide's mention of the celebration connects to Phylo's promised event the next day.

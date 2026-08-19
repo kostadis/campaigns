@@ -1,0 +1,3 @@
+# New notes for A'lai Aivenmore (from dossier_extract_063.md)
+
+Does not appear directly but emerges as the prime suspect and antagonist by chapter's end. Fembris Lancer confessed that A'lai had been in the room when the key was reported to Bookwyrm — the one person with knowledge nobody else had. The party assembles the case: two attacks, two keys, one buyer. Kalan counts this as a second "pillar of the thrice-fold proof." The party concludes A'lai now holds the real key torn from Bookwyrm and is almost certainly sitting in Candlekeep's High Tower, waiting for Moziqodo to deliver the second key — not knowing his courier (the pit fiend) is dead, and not knowing the party holds both the real second key and Kalan's decoy. The party plans to confront him in the High Tower.
