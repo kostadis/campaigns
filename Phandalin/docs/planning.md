@@ -88,7 +88,7 @@
 ### Lord Cassian Meliamne
 **Status:** Alive. Sea elf nobleman, Neverwinter. **Grateful ally — and a weak one.**
 **Location:** Moonstone Mask (best table); private residence pending.
-**Relation to Elara:** The ch46 recap calls him her **brother** throughout, but one of his own quoted lines is "My cousin told me someone was bringing it," and the ch45 GM note called him her cousin. **UNRESOLVED — settle at the table before he appears again.**
+**Relation to Elara:** **Brother** — confirmed by GM ruling 2026-08-18. His "My cousin told me someone was bringing it" line is a misspoken slip, not evidence of an actual cousin relationship. Settled; do not reopen.
 **Active plans:** Building a case against House Margaster for his sister's death. Will not touch the Commission himself — *"when it comes to the Commission, one should keep one's distance"* — which is precisely why he asked the party to.
 **The charge he gave the party:** Find the connection between the Planar Manifold's failure and Elara's death.
 **What party knows:** He named Margaster before pleasantries. He was genuinely moved by the statue's return (Insight confirmed every word), refused to let Vukradin go unrewarded, and gave 50 gp to each companion plus a 50 gp studio donation.
@@ -440,7 +440,7 @@ Ordered by urgency (forward pressure, nearest trigger).
 **Status:** **The party explicitly dropped this quest in ch45** in favour of travelling straight to Neverwinter. Never visited, never cleared. *This entry previously read "Confirmed active objective" — that was the ch44 state.*
 **What was staged there:** the Shrine was the CounterForce's confirmation signal — a second Rimardo/Corrin playbill placed on arrival, revealing **Savras himself is the channel for the R&C phenomenon**. Intended playbill text: *"Prophecy is what powerful people call a guess after it becomes profitable."*
 **THE PROBLEM:** that reveal now **has no delivery vector.** It needs either (a) a new venue, (b) a reason for the party to double back, or (c) reassignment to the next R&C appearance. **GM decision required — this is the highest-value stranded content in the document.**
-**Note:** R&C did reappear in ch47 at the Counting House as "divine accountants," which is a natural home for a reassigned playbill if the GM wants one.
+**Note:** R&C did reappear in ch47 at the Counting House as "divine accountants," which is a natural home for a reassigned playbill if the GM wants one. **GM ruling 2026-08-18:** Corrin's silent card/receipt trick during that bit exposed a **Margaster fee embedded in Vukradin's routing** — the table didn't lock this down on screen, so it's decided retroactively for continuity going forward. Ties directly into the live Margaster/Manifold thread; the party has technically already seen this and it can be referenced or resurfaced without contradiction.
 
 ### 5. Universal Basic Treasure — Will It Survive Contact? (LIVE — Active, offstage)
 **Status:** Proclaimed and cheered (ch45); **not implemented.**

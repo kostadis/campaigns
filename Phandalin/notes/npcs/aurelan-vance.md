@@ -1,10 +1,12 @@
 ---
-status: draft
-pending: session — Moonstone Mask background/guest NPC, not yet played
-purpose: recurring-guest NPC for the Moonstone Mask; promote to docs/npcs/ after first table appearance
+status: retired
+retired: 2026-08-18 — name collision with the played Counting House banker "Aurelan Vance" (ch47). GM ruling: accidental reuse, this draft is retired rather than renamed. Do not run this NPC.
+purpose: superseded — see docs/npcs/... or campaign_state.md for the canonical Aurelan Vance (Counting House banker)
 ---
 
-# Aurelan Vance — guest, the Moonstone Mask (DRAFT)
+# Aurelan Vance — guest, the Moonstone Mask (RETIRED, DO NOT USE)
+
+> **RETIRED 2026-08-18.** This draft NPC shares a name with the banker who actually appeared and signed Brewbarry's loan at the Counting House in ch47. That's an accidental collision, not the same character — the GM's ruling was to retire this concept rather than rename it. Left in place for history only; nothing below should be run at the table.
 
 **Role:** Regular guest — retired Enclave trade magistrate
 **Location:** The Moonstone Mask, Neverwinter (corner table, three nights a week)
