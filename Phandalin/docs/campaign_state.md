@@ -206,7 +206,7 @@
 | Miraal (banshee) | Laid to rest | Tower of Storms | — |
 | Moesko | **Dead** | Tower of Storms | — |
 
-**Unresolved source conflict — Cassian's relationship to Elara.** The ch46 summary calls him her *brother* throughout (narration, the staff member's "her brother," and the NPC entry), but one of Cassian's own quoted lines is "My cousin told me someone was bringing it," and the ch45 GM note called him her cousin. The table above uses **brother** (ch46 is the later and more consistent source). GM should settle this at the table before Cassian appears again.
+**RESOLVED 2026-08-18 — Cassian's relationship to Elara is BROTHER.** GM ruling settles the source conflict: ch46 narration, the staff member's "her brother," and the NPC entry all say brother and are correct. The one contrary line — Cassian's own "My cousin told me someone was bringing it" — is read as a misspoken slip, not a fact; do not reintroduce "cousin" as live ambiguity.
 
 ---
 

@@ -200,7 +200,7 @@ The older threats have not gone anywhere: a hidden "headliner" behind six circli
 ### Lord Cassian Meliamne
 *Alive | Neverwinter — Moonstone Mask, private residence pending | sea elf nobleman | grateful ally*
 
-- **Relation to Elara:** Her **brother** per the ch46 narration, the staff member, and the NPC entry — though one of his own quoted lines says "my cousin," and the ch45 GM note said cousin. **Unresolved; settle at the table.**
+- **Relation to Elara:** Her **brother** — confirmed by GM ruling 2026-08-18. His own line "my cousin" is a misspoken slip, not a live ambiguity; do not resurface "cousin" as unresolved.
 - **On the statue:** Genuinely moved. "She was 12 when she last saw this" — a child by elf standards, hundreds of years ago. The party's Insight confirmed every word. He was baffled that Vukradin wouldn't shop it to a higher bidder, and when Vukradin refused payment he gave 50 gp to each companion and routed a separate 50 gp to the music studio rather than insult him.
 - **On his sister's death:** Names **House Margaster** flatly and immediately, before pleasantries. Can prove nothing. Did not pursue resurrection — she was beyond it, and the staff observed he "had not seemed eager to pursue it regardless."
 - **The charge he gave the party:** Find the connection between the Planar Manifold's failure and Elara's death. He will not touch it himself — "when it comes to the Commission, one should keep one's distance."

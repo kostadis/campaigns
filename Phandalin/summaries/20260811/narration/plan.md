@@ -5,7 +5,7 @@ scene: Bathrobe Speech to Empty Room
 focus: Only Brewbarry can narrate the private tragedy of a speech rehearsed all night in a bathrobe, delivered with full conviction to nobody — and the slow-burn insult of a banker calling his ancestral hides "cosplay."
 
 ## Scene 2
-narrator: Valphine
+narrator: Valphine Sotorra
 chunks: 2
 scene: Bullying Through the Loan
 focus: Valphine watches Brewbarry's halberd-tap negotiation with a tactician's appraisal, quietly corrects the banker's math on temple markup — and gets her own double-take moment when Aurelan recognizes "one of the blessed of Lathander… and you're a drow."
@@ -41,7 +41,7 @@ scene: The Shuttered Displacement Manifold
 focus: Brewbarry connects the dots in real time — the Lord who invited them to dinner shut the building down — and answers Valphine's shadow-work doctrine with his own philosophy of open leverage so cleanly that Soma declares her love for him.
 
 ## Scene 8
-narrator: Valphine
+narrator: Valphine Sotorra
 chunks: 8
 scene: Cullen Sharpe at the Quay
 focus: Valphine's family "trade" background reads the Eastern Quay for what it is — a legitimate monopoly built on an illegitimate outage — while she watches Brewbarry's bathrobe-soft intimidation bounce off Cullen and sets her own trap: Perrin must set foot inside Lathander's temple.
