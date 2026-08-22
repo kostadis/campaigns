@@ -1,22 +1,27 @@
-# PC / sidekick names for this campaign — excluded from the entity registry
-# and from entity-triage candidate queues (registry.py reads this via
-# campaignlib.party.load_pc_names). Fragment forms (first name only, title
-# only) are listed as separate entries because Registry.known_names()'s
-# multi-word first-token expansion only applies to registry entities, not to
-# party.yaml names passed in via `extra` — so a bare "Zenvon" won't be
-# suppressed unless it's its own entry here.
-#
-# Source: docs/background/name_glossary.md's "campaign-original names"
-# appendix (2026-06-12) + docs/party.md.
 characters:
-  - name: "Zenvon Forepot"
-  - name: "Zenvon"
-  - name: "Veyra of the Blue Candle"
-  - name: "Veyra"
-  - name: "Sister Maela Dawnforge"
-  - name: "Sister Maela"
-  - name: "Maela"
-  - name: "Professor Orryn Voss"
-  - name: "Orryn Voss"
-  - name: "Orryn"
-  - name: "Professor"
+- name: Zenvon Foreput
+  sheet: characters/zenvon.md
+  voice: voice/zenvon_voice.md
+  examples: examples/zenvon.md
+- name: Veyra of the Blue Candle
+  sheet: characters/veyra.md
+  voice: voice/veyra_voice.md
+- name: Sister Maela Dawnforge
+  sheet: characters/maela.md
+  voice: voice/maela_voice.md
+- name: Pip Thistlewick
+  sheet: characters/pip.md
+  voice: voice/pip_voice.md
+# Fragment forms (first name only, title only), carried over from the old
+# docs/party.yaml exclusion list. campaignlib.party.load_pc_names reads every
+# entry here, and Registry.known_names()'s multi-word first-token expansion
+# only applies to registry entities — so a bare "Zenvon" is not suppressed
+# from the entity registry or entity-triage queues unless it is its own entry.
+# Sheet-less by design: they are exclusion aliases, not roster members.
+- name: Zenvon
+- name: Veyra
+- name: Sister Maela
+- name: Maela
+- name: Pip
+shared_examples:
+- examples/house_style.md

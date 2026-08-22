@@ -1,24 +1,24 @@
 paths:
-  session_recap: gm-assist.md
-  session_summary: session-summary.md
-  scene_extractions_dir: scene_extractions
-  narration_dir: narration
+  session_recap: /home/kroussos/obelisk/obelisk/summaries/008/gm-assist.md
+  session_summary: /home/kroussos/obelisk/obelisk/summaries/008/session-summary.md
+  scene_extractions_dir: /home/kroussos/obelisk/obelisk/summaries/008/scene_extractions
+  narration_dir: /home/kroussos/obelisk/obelisk/summaries/008/narration
   output_dir: null
   party: docs/party.md
   voice_dir: voice
   examples_dir: examples
+  genre_file: null
+extract:
+  tokens: 8192
 narrate:
-  tokens: 31000
+  tokens: 16000
   prose_mode: true
   reflections: true
-  genre: null
   context: []
-scrub:
-  enabled: false
-  tokens: 16000
-roster:
-  characters: Zenvon
-  gm_player: Kostadis Roussos
+verify:
+  threshold: 0.85
+  min_tokens: 4
+  report_only: false
 backends:
   active: claude-code
   anthropic:
@@ -50,4 +50,11 @@ profiles:
     reflections: true
     narration_genre: ''
     backend: dgx
-active_profile: '007'
+- name: 008
+  knobs:
+    narrate_tokens: 16000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: ''
+    backend: claude-code
+active_profile: 008
