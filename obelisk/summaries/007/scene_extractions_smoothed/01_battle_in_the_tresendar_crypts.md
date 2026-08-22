@@ -10,7 +10,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 
 #### The party faces off against a group of skeletons within the ancient crypts of Tresendar Manor.
 - A skeleton initiates combat by firing a shortbow at the party — the DM describes the shot as missing "spectacularly."
-- Zenvon Foreput attacks a skeleton with his blade; his first swing misses, but his second roll is a natural twenty, dealing 8 points of damage — which the DM notes is "not very good, but better than nothing," as the skeleton stays up.
+- Zenvon Forepot attacks a skeleton with his blade; his first swing misses, but his second roll is a natural twenty, dealing 8 points of damage — which the DM notes is "not very good, but better than nothing," as the skeleton stays up.
 - Sister Maela steps forward, takes a position in front of the monsters, and invokes the power of her dwarven god to turn the undead, commanding: "BE GONE! In the name of my dwarven god!" Two of the six skeletons fail their wisdom saving throws (DC 12, against their +2 wisdom modifier) and are frightened; the remaining four fight on and are destroyed over the course of the battle.
 - The two frightened skeletons immediately flee through a door and vanish into the darkness beyond.
 - A remaining skeleton strikes Zenvon with its short sword for 11 points of damage, leaving him with only 4 hit points.
@@ -39,7 +39,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 **Sister Maela Dawnforge** — *warning Zenvon as he prepares to attack*
 > "[GM] Sister Maela shouts — if you have a mace, now would be a good time to use it."
 
-**Zenvon Foreput** — *choosing his weapon*
+**Zenvon Forepot** — *choosing his weapon*
 > "I don't have a mace, I don't—"
 > "I'll use the axe."
 
@@ -50,7 +50,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 - His second roll comes up 20.
 - He rolls damage: 8 points.
 
-**Zenvon Foreput** — *rolling his first attack*
+**Zenvon Forepot** — *rolling his first attack*
 > "I'm rolling for the first time."
 > "Just seven."
 
@@ -61,13 +61,13 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 **GM** — *on the damage*
 > "Eight points, eight points. That's not very good, but that's better than nothing."
 
-**Zenvon Foreput** — *reacting to the skeleton staying up*
+**Zenvon Forepot** — *reacting to the skeleton staying up*
 > "Wait, 8 points of damage does nothing?"
 
 **GM** — *clarifying*
 > "No, I mean, it does, it does — but not."
 
-**Zenvon Foreput** — *OOC frustration*
+**Zenvon Forepot** — *OOC frustration*
 > "Shit."
 
 **GM** — *aside on sneak attack targeting*
@@ -89,7 +89,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 - The DM works through the mechanic in real time, noting clerics who can't turn undead are somewhat pointless.
 - Two skeletons fail their wisdom saving throws (DC 12, +2 modifier).
 
-**Zenvon Foreput** — *mishearing "Turn Undead"*
+**Zenvon Forepot** — *mishearing "Turn Undead"*
 > "Turn on bed."
 
 **GM** — *confirming*
@@ -110,7 +110,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 > "Alright, so you see the two ones with the little dots? They've been frightened, so they're not going to attack you."
 > "And they're going to try to get away as far as they can from Sister Maela."
 
-**Zenvon Foreput** — *confirming the mechanic*
+**Zenvon Forepot** — *confirming the mechanic*
 > "No damage, just frightening."
 
 **GM** — *confirming*
@@ -125,7 +125,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 **GM** — *narrating the flight*
 > "This skeleton runs through here, opens the door and runs through."
 
-**Zenvon Foreput** — *confirming it's gone*
+**Zenvon Forepot** — *confirming it's gone*
 > "So it's gone."
 
 **GM**
@@ -141,20 +141,20 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 > "attacks Zenvon with his short sword."
 > "And does 11 points of damage. Hold on. Hold on."
 
-**Zenvon Foreput** — *alarmed*
+**Zenvon Forepot** — *alarmed*
 > "Did you just say 11 points?"
 
 **GM**
 > "Yeah, I said 11 points."
 > "Are you okay?"
 
-**Zenvon Foreput** — *assessing hit points*
+**Zenvon Forepot** — *assessing hit points*
 > "Yeah, no, no, I mean, like, 11… I just have got, like, 15 co."
 
 **GM** — *asking directly*
 > "All right. How many hit points do you have left?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Four."
 
 **GM** — *foreshadowing the heal*
@@ -192,32 +192,32 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 **GM** — *advising Zenvon's strategy*
 > "You might want to use Nick this time."
 
-**Zenvon Foreput** — *understanding the plan*
+**Zenvon Forepot** — *understanding the plan*
 > "Nick, Nick is possible with the scimitar. Yes, I'll give you the."
 
 **GM**
 > "That way you can attack and disengage."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yes."
 > "It's a 10."
 
 **GM**
 > "That is a miss. Roll again for your second attack."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "19."
 
 **GM**
 > "That is a hit. All right, damage. I'm assuming you moved over here."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Damage, 4 plus 5… 12 points."
 
 **GM**
 > "Nice! You killed it!"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yay."
 
 **GM**
@@ -233,7 +233,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 > "I guess they will attack you, because you're straight ahead of them. All right."
 > "Oh — they do 6 points of damage. And you… let me ask you a question. Are you gonna stay there, or are you gonna move out of the way?"
 
-**Zenvon Foreput** — *explaining the withdrawal*
+**Zenvon Forepot** — *explaining the withdrawal*
 > "I'm gonna move back. I'm just at 4 points of damage, so…"
 
 **GM**
@@ -260,7 +260,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 **GM** — *noting the distant skeletons*
 > "The skeleton continues to make chatter very far away."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "The ones that ran away?"
 
 **GM**
@@ -283,7 +283,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 > "That is a hit."
 > "She casts Firebolt."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "2 points of damage."
 
 **GM**
@@ -295,7 +295,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 **[Zenvon Delivers the Killing Blow — 24 to Hit, 8 Damage]**
 - Zenvon closes in and attacks with his dagger: first mention of a 19, then a confirmed 24 to hit; 8 points of damage destroys the last active skeleton.
 
-**Zenvon Foreput** — *asking about positioning*
+**Zenvon Forepot** — *asking about positioning*
 > "Should I move forward, or, like, can I attack from there?"
 
 **GM**
@@ -304,11 +304,11 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 **GM** — *confirming the weapon*
 > "[Zenvon] I'll use the dagger. All right."
 
-**Zenvon Foreput** — *rolling to hit*
+**Zenvon Forepot** — *rolling to hit*
 > "19?"
 > "24, got it."
 
-**Zenvon Foreput** — *rolling damage*
+**Zenvon Forepot** — *rolling damage*
 > "5 for 8 points of damage."
 
 **GM** — *calling the death*
@@ -318,7 +318,7 @@ from: ../scene_extractions/01_battle_in_the_tresendar_crypts.md
 
 **[Post-Combat Victory Music OOC]**
 
-**Zenvon Foreput** — *OOC, hearing audio*
+**Zenvon Forepot** — *OOC, hearing audio*
 > "This sounds like Rocky Valhalla music."
 
 **GM**

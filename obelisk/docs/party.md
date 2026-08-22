@@ -1,6 +1,6 @@
 # PARTY — DRAFT (through Chapter 7)
 
-> **DRAFT — not yet promoted.** Hand-updated 2026-07-31 from `docs/party.md` (canon through Ch. 3) plus Chapters 4–7. Names normalized to `docs/party.yaml` / `docs/background/name_glossary.md`: **Zenvon Foreput**, **Veyra of the Blue Candle**, **Sister Maela Dawnforge**, **Pip Thistlewick**.
+> **DRAFT — not yet promoted.** Hand-updated 2026-07-31 from `docs/party.md` (canon through Ch. 3) plus Chapters 4–7. Names normalized to `docs/party.yaml` / `docs/background/name_glossary.md`: **Zenvon Forepot**, **Veyra of the Blue Candle**, **Sister Maela Dawnforge**, **Pip Thistlewick**.
 
 ## Party Overview
 
@@ -26,7 +26,7 @@
 
 ## Characters
 
-### Zenvon Foreput
+### Zenvon Forepot
 - **Class/Level:** Rogue 2 | **Species:** Halfling | **Player:** Nikhil Reddy
 - **Traits & motivation:** Started as the scout. Has become the party's face. Two of the last three sessions were won by his mouth rather than his blades — talking down a Redbrand ambush he'd walked into alone, mimicking a bandit's voice through a door to send a bugbear away, and, in Ch. 7, striding into a room of hostile bandits in a red cloak and convincing them their own man was the traitor. He is also the party's executioner: he read Wick as a man who'd take gold and vanish, and killed him rather than let him go.
 - **Relationships:** Leads. Pip backs his plays with violence when the talking stops (the knife to Rondar's throat); Maela pushes back when he'd rather not stop for the helpless, and he relents. Pulled Pip out of a twenty-foot pit on his whip.

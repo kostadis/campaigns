@@ -46,14 +46,14 @@ from: ../scene_extractions/08_the_return_to_the_cells.md
 > "Move into that room. All right, the two skeletons are like poised at the door."
 > "Alright, you're probably gonna have to kill them, because they're currently at the door and they're not moving from it."
 
-**Zenvon Foreput** — *considering options*
+**Zenvon Forepot** — *considering options*
 > "Initiative, or just."
 
 **GM** — *offering the alternative*
 > "Well, hold on — you may not have to. You can try to move, I mean, I'm just—"
 > "No, my point is that you know they weren't supposed to attack the folks with the red cloak, so you could see if they're going to attack."
 
-**Zenvon Foreput** — *deciding to test it*
+**Zenvon Forepot** — *deciding to test it*
 > "Okay, so, yeah, looks like they might follow my orders, or try to…"
 > "Go forward and ask them to move out."
 
@@ -73,7 +73,7 @@ from: ../scene_extractions/08_the_return_to_the_cells.md
 
 **[Scene Tag — Zenvon Calls Through the Door]**
 
-**Zenvon Foreput** — *speaking through the barricaded door*
+**Zenvon Forepot** — *speaking through the barricaded door*
 > "Hey guys, it's me. I came back for you. It's all safe now."
 > "You can let go of the door. Let me help you."
 
@@ -86,7 +86,7 @@ from: ../scene_extractions/08_the_return_to_the_cells.md
 > "Alright, you walk inside, right? The skeleton sees you walk inside, and once it sees you walk inside, the skeleton decides that, you know, it goes back into its resting position."
 > "I'm assuming you don't attack them as they move away."
 
-**Zenvon Foreput** — *confirming*
+**Zenvon Forepot** — *confirming*
 > "Yes."
 
 **GM** — *closing the scene*
@@ -94,7 +94,7 @@ from: ../scene_extractions/08_the_return_to_the_cells.md
 > "Alrighty."
 > "Okay, and we shall stop here, because it's 4 o'clock, and we've been at it for an hour and a half."
 
-**Zenvon Foreput** — *reflecting on the session's clean ending*
+**Zenvon Forepot** — *reflecting on the session's clean ending*
 > "Okay, okay, cool."
 > "Yes, I did. No cliffhanger this time, which is a good thing."
 > "No cliffhanger."

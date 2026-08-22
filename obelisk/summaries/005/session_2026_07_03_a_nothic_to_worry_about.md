@@ -3,7 +3,7 @@
 Date: 2026-07-03
 
 ## Summary
-The streets of Phandalin rang with the clash of steel as the party clashed with a band of Redbrand ruffians. Sister Maela swung her warhammer with devastating precision, landing a punishing blow on one of the thugs, while Veyra hurled a brilliant streak of fire through the air that lit up the street but sailed wide of its mark. Pip Thistlewick launched a javelin at a fleeing ruffian, but the throw went wide, leaving Zenvon Foreput to step in and deliver the killing blow himself. The last remaining Redbrand, cornered by a relentless Sister Maela, threw up his hands and surrendered on the spot. The party stripped the fallen enemies of their meager coin — a handful of gold, silver, and copper pieces — and took their prisoner in hand.
+The streets of Phandalin rang with the clash of steel as the party clashed with a band of Redbrand ruffians. Sister Maela swung her warhammer with devastating precision, landing a punishing blow on one of the thugs, while Veyra hurled a brilliant streak of fire through the air that lit up the street but sailed wide of its mark. Pip Thistlewick launched a javelin at a fleeing ruffian, but the throw went wide, leaving Zenvon Forepot to step in and deliver the killing blow himself. The last remaining Redbrand, cornered by a relentless Sister Maela, threw up his hands and surrendered on the spot. The party stripped the fallen enemies of their meager coin — a handful of gold, silver, and copper pieces — and took their prisoner in hand.
 
 Before the dust had even settled, the door to the Townmaster's Hall creaked open and a nervous, round-faced man peered out from behind it. Harbin Wester, the mayor and townmaster of Phandalin, crept forward and introduced himself with the cautious energy of a man who had spent the battle hiding behind a locked door. He praised the party's work against the Redbrands, whom he called a terrible plague on the town, and wasted little time before dangling a new opportunity in front of them — a contract to investigate a string of caravan attacks near a place called Wyvern Tor, far to the east along the Triboar Trail. He opened with an offer of one hundred gold pieces, but Pip Thistlewick, channeling the spirit of a seasoned merchant, pushed back with a confident counter. After a spirited back-and-forth that left even the banker-mayor visibly impressed, the party walked away with a promise of one hundred and twenty gold pieces. Before handing their prisoner over to Harbin's custody, Zenvon pressed the man for information, and the ruffian gave up two things freely: the gang's hideout was Tresendar Manor, and their usual haunt was a rundown taproom called the Sleeping Giant.
 
@@ -44,7 +44,7 @@ The party descended into the cavern, where the cold air carried the faint, unmis
 *Startled and shaken after the Nothic telepathically revealed his most guarded secret to the entire party*
 
 > "No beautiful-looking lady like you might be of help to us. So just hold on until we're done here."
-> — Zenvon Foreput
+> — Zenvon Forepot
 
 *Zenvon smoothly detains Halia Thornton from leaving the Sleeping Giant by complimenting her as he blocks her exit*
 
@@ -55,14 +55,14 @@ The party descended into the cavern, where the cold air carried the faint, unmis
 - One Redbrand ruffian attempts to flee behind a nearby house to escape the fray.
 - Veyra launches a bolt of fire at the retreating ruffian, though the display is more spectacular than accurate.
 - Pip attempts to intercept a fleeing enemy with a javelin throw, but the attack misses its mark.
-- Zenvon Foreput maneuvers through the battlefield and delivers a lethal strike, killing one of the ruffians.
+- Zenvon Forepot maneuvers through the battlefield and delivers a lethal strike, killing one of the ruffians.
 - Sister Maela corners the final Redbrand ruffian, who immediately surrenders and is taken captive.
 - The party loots the fallen enemies, finding a small collection of gold, silver, and copper pieces.
 
 ### A Meeting with the Townmaster
 #### Harbin Wester emerges from the Townmaster's Hall to thank the party and offer them a new contract.
 - Harbin Wester cautiously approaches the party after the combat, identifying himself as the mayor and townmaster.
-- Zenvon Foreput introduces the party and explains they were ambushed by the Redbrands.
+- Zenvon Forepot introduces the party and explains they were ambushed by the Redbrands.
 - Harbin describes the Redbrands as a plague on the town and asks if the party are adventurers.
 - The Townmaster offers a quest to investigate marauder attacks on caravans near Wyvern Tor along the Triboar Trail.
 - Harbin initially offers a reward of 100 gold pieces for dealing with the problem at Wyvern Tor.
@@ -136,7 +136,7 @@ A captured member of the local gang who, under pressure, reveals the location of
 A Redbrand lieutenant who wears the signature red cloak of his gang. He is initially confrontational but becomes cooperative and fearful when threatened by Pip Thistlewick. He reveals that Glasstaff is Iarno Albrek, warns the party about the monster in the manor's tunnel, and is ultimately tied up and used as a guide and potential lure.
 
 ### Halia Thornton
-The owner of the Phandalin Miner's Exchange. She is a shrewd and calculating woman who was found meeting with Rondar at the Sleeping Giant. She feigns shock at his Redbrand affiliation and acts as a neutral observer during the interrogation, while quietly inviting Zenvon Foreput to visit her establishment for future business.
+The owner of the Phandalin Miner's Exchange. She is a shrewd and calculating woman who was found meeting with Rondar at the Sleeping Giant. She feigns shock at his Redbrand affiliation and acts as a neutral observer during the interrogation, while quietly inviting Zenvon Forepot to visit her establishment for future business.
 
 ### Orc Bartender
 A surly woman managing the Sleeping Giant who charges a gold piece for ale and immediately spotted Zenvon's failed attempt at stealth.
@@ -148,10 +148,10 @@ Revealed by Rondar to be one and the same person — a former agent of the Lord'
 A malevolent, telepathic monster with a singular large eye residing in the caverns beneath Tresendar Manor. It guards the entrance under a deal made with Iarno Albrek in exchange for food. It possesses the ability to unearth secrets from people's minds, revealing Pip Thistlewick's haunted past with a mysterious stone shard, and demands food while eyeing Rondar hungrily.
 
 ### Pip Thistlewick
-A companion of Zenvon Foreput whose secret past is telepathically exposed by the Nothic — he once won a mysterious stone shard in a dice game near Neverwinter's docks, sold it to a peddler heading toward Phandalin, and has since been haunted by dreams of broken black stone and whispers of his name. He is visibly shaken by the revelation.
+A companion of Zenvon Forepot whose secret past is telepathically exposed by the Nothic — he once won a mysterious stone shard in a dice game near Neverwinter's docks, sold it to a peddler heading toward Phandalin, and has since been haunted by dreams of broken black stone and whispers of his name. He is visibly shaken by the revelation.
 
 ### Sister Maela Dawnforge
-A companion of Zenvon Foreput who fights with a warhammer, corners the surrendering Redbrand, and uses her insight to detect that Rondar is being deceptive during the interrogation.
+A companion of Zenvon Forepot who fights with a warhammer, corners the surrendering Redbrand, and uses her insight to detect that Rondar is being deceptive during the interrogation.
 
 ### Veyra
 A magically inclined companion who casts a firebolt during the skirmish and later identifies the creature in the tunnel as a Nothic, noting its connection to Vecna and its potential for powerful magic.
@@ -167,7 +167,7 @@ A simple thrown weapon used by Pip Thistlewick in an attempt to stop a fleeing R
 A mysterious black fragment that Pip Thistlewick once won in a dice game near Neverwinter's docks. He later sold it to a peddler heading toward Phandalin, but has since been haunted by dreams of broken black stone and whispers of his name. Its existence was revealed to the party by the Nothic.
 
 ### Ale
-A beverage purchased by Zenvon Foreput at the Sleeping Giant for the steep price of one gold piece in an attempt to appear as a regular patron after his stealth failed.
+A beverage purchased by Zenvon Forepot at the Sleeping Giant for the steep price of one gold piece in an attempt to appear as a regular patron after his stealth failed.
 
 ## Spells
 ### Fire Bolt

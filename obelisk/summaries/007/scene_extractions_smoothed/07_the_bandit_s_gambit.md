@@ -27,7 +27,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 - Wick has just killed the final Redbrand himself, ending the fight.
 - Zenvon notes, out of character, that the deception seemed to work; the GM immediately corrects the frame.
 
-**Zenvon Foreput** — *OOC, reading the situation*
+**Zenvon Forepot** — *OOC, reading the situation*
 > "That was interesting, actually. He actually believed our story."
 
 **GM** — *as Wick, correcting the read*
@@ -39,7 +39,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 > "I did you a solid, and you're gonna do me a solid. And let me leave, and pretend you never saw me."
 > "Sounds…"
 
-**Zenvon Foreput** — *countering Wick's plea with a recruitment offer*
+**Zenvon Forepot** — *countering Wick's plea with a recruitment offer*
 > "A little bit of fair in what… I mean, there's a little bit of fairness in what you're saying, but—"
 > "We need you. Tell me more about Glasstaff and Spider, and anything else that you know, and we'll let you know."
 
@@ -47,19 +47,19 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 > "[Zenvon] Our… the other thing is, stay with us. We have got a lot of gold coins, silver pieces, and a lot of, you know, treasure that we have…"
 > "Earn through our adventure, and you can get a share of it."
 
-**Zenvon Foreput** — *sealing the offer*
+**Zenvon Forepot** — *sealing the offer*
 > "Be a nice guy with us."
 
 **GM** — *surprised OOC*
 > "Oh, you want to recruit him?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yes."
 
 **GM**
 > "Okay, that was unexpected."
 
-**Zenvon Foreput** — *to Wick in character*
+**Zenvon Forepot** — *to Wick in character*
 > "At which point, we don't know… I mean, I cannot guarantee anything, or you can join us."
 
 ---
@@ -86,7 +86,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 **GM** — *setting up the beat*
 > "You asked about the Black Spider, right?"
 
-**Zenvon Foreput** — *speaking the name*
+**Zenvon Forepot** — *speaking the name*
 > "Black Spider."
 
 **GM** — *narrating Wick's reaction*
@@ -94,7 +94,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 > "But… kind of as if he could feel some— you could see how uncomfortable that name makes him."
 > "But he doesn't know anything about it. Do you want to press him on the topic?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yes, I want to question on the topic."
 > "So we'll… Insight, or investigation, what do I do?"
 
@@ -102,13 +102,13 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 > "Yeah, roll the insight."
 > "I mean, no — just roll intimidation."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Intimidation. Oh, yes."
 
 **GM** — *as Wick, stonewalling under pressure*
 > "Alright, he goes: look dude, I just carry crates, alright? You start asking about the boss's boss, that's how people end up carrying less."
 
-**Zenvon Foreput** — *OOC, frustrated*
+**Zenvon Forepot** — *OOC, frustrated*
 > "It's not giving me any information."
 
 **GM** — *explaining the limit*
@@ -118,7 +118,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 
 **[The Recruitment Roll — Wick Lies, the Insight Reveals It]**
 
-**Zenvon Foreput** — *pressing toward formal recruitment*
+**Zenvon Forepot** — *pressing toward formal recruitment*
 > "Okay. Are you really interested to join us?"
 
 **GM** — *calling for the check*
@@ -127,13 +127,13 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 > "Investigation."
 > "That said, okay. He says yes."
 
-**Zenvon Foreput** — *pushing for more in character*
+**Zenvon Forepot** — *pushing for more in character*
 > "In order to trust you, you're gonna tell me all the secrets about this manor? Like, what's upstairs?"
 
 **GM** — *delivering the insight result*
 > "He goes — okay, he says yes, but you know he's lying. The impression you get is he's gonna take whatever money you have and get out of Dodge as fast as possible."
 
-**Zenvon Foreput** — *confirming what he's reading*
+**Zenvon Forepot** — *confirming what he's reading*
 > "Is that the impression he's giving?"
 
 **GM**
@@ -143,14 +143,14 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 > "So he takes your money and says: of course I'm with you, boss. And then at his first opportunity, he's going to run away."
 > "But you definitely do not get the impression that he's gonna try to backstab you. He's basically looking at the money as a way to get out of here."
 
-**Zenvon Foreput** — *accepting the read*
+**Zenvon Forepot** — *accepting the read*
 > "Correct."
 
 **GM** — *offering the decision*
 > "So what do you want to do with him? Do you want to give him the money and let him follow you, or are you—"
 > "Or let him run away. He's just one lowly thug."
 
-**Zenvon Foreput** — *deciding to press further*
+**Zenvon Forepot** — *deciding to press further*
 > "This is such a tough choice. Hold on."
 > "I wanna, you know, try to get more information from him, so…"
 > "I wanna tie him up and, you know."
@@ -165,7 +165,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 **GM** — *as Wick / narrating the break*
 > "Alright, the only additional piece of information — he's kind of, like, really upset over this at this point in time. He's, like, shitting his pants, and he says that there was this family, the Dendrars, that the Redbrands handled a while back."
 
-**Zenvon Foreput** — *making the connection*
+**Zenvon Forepot** — *making the connection*
 > "Behind us? Okay."
 
 **GM** — *confirming the link OOC*
@@ -175,7 +175,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 
 **[Zenvon Executes Wick]**
 
-**Zenvon Foreput** — *making the call*
+**Zenvon Forepot** — *making the call*
 > "Yeah, I mean, I would prefer to attack him at this point instead of letting him run away."
 
 **GM** — *waiving the roll*
@@ -187,7 +187,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 **[Cistern Search — Waterproof Satchel]**
 - GM transitions directly to looting the room.
 
-**Zenvon Foreput** — *eyeing the crates and barrels*
+**Zenvon Forepot** — *eyeing the crates and barrels*
 > "Did we get anything here? There are so many crates and barrels."
 
 **GM** — *describing the find*
@@ -199,7 +199,7 @@ from: ../scene_extractions/07_the_bandit_s_gambit.md
 
 **[Looting the Three Fallen Bandits]**
 
-**Zenvon Foreput** — *asking about the coin*
+**Zenvon Forepot** — *asking about the coin*
 > "What's the coin you said?"
 
 **GM** — *reading from the module / chat*

@@ -1,6 +1,6 @@
 # CAMPAIGN STATE — DRAFT (through Chapter 7)
 
-> **DRAFT — not yet promoted.** Hand-updated 2026-07-31 from `docs/campaign_state.md` (canon through Ch. 3) plus Chapters 4–7 (`summaries/004/gm-assist.md`, `summaries/005/…nothic…md`, `summaries/006/…nothing_personal…md`, `summaries/007/…chapter_07_deception.md`). Names normalized to `docs/background/name_glossary.md`: **Zenvon Foreput**, **Veyra**, **Dendrar** (not "Dendar"), **Urmon** (not "Urman").
+> **DRAFT — not yet promoted.** Hand-updated 2026-07-31 from `docs/campaign_state.md` (canon through Ch. 3) plus Chapters 4–7 (`summaries/004/gm-assist.md`, `summaries/005/…nothic…md`, `summaries/006/…nothing_personal…md`, `summaries/007/…chapter_07_deception.md`). Names normalized to `docs/background/name_glossary.md`: **Zenvon Forepot**, **Veyra**, **Dendrar** (not "Dendar"), **Urmon** (not "Urman").
 
 ## Completed Encounters & Quests
 

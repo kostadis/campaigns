@@ -33,7 +33,7 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 - Zenvon moves toward the pit on his turn to rescue Pip.
 - The GM starts to ask whether Zenvon has rope, then Zenvon volunteers the whip.
 
-**Zenvon Foreput** — *deciding how to help*
+**Zenvon Forepot** — *deciding how to help*
 > "And I try to help him."
 
 **GM** — *prompting*
@@ -43,7 +43,7 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 > "Well, actually, you can… [Zenvon] I have a whip, okay, so I'm gonna use the whip as a rope to…"
 > "Kind of."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "So that I can pull it off."
 
 **GM** — *resolving the action*
@@ -75,19 +75,19 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 - Zenvon asks whether a roll is needed to avoid the trap a second time.
 - The GM rules that once a trap is visible, the party simply navigates around it.
 
-**Zenvon Foreput** — *cautiously*
+**Zenvon Forepot** — *cautiously*
 > "So, so we carefully move past the trap."
 
 **GM**
 > "Now that you know where it is, you just, like, sort of walk around it."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Around it, yes, yes, and being more careful…"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Avoid any other traps."
 
-**Zenvon Foreput** — *checking whether a roll is needed*
+**Zenvon Forepot** — *checking whether a roll is needed*
 > "Did I roll anything for that? I'm sorry."
 
 **GM**
@@ -101,7 +101,7 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 **GM** — *asking Zenvon's intention*
 > "Do you want Pip to keep following, keep going?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yes, yes, I don't see anything where it's leading, but yes."
 
 ---
@@ -124,13 +124,13 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 > "You see where that number 15 is?"
 > "Yeah, so that's 15 feet above the ground, right?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "So this is the room and upper floor."
 
 **GM**
 > "Yeah, so essentially there are these stairs that will go up to 15 feet and up to the top. You're in the cellar, if you can imagine."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Got it, got it."
 
 **GM** — *pointing out the two doors*
@@ -144,17 +144,17 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 **GM**
 > "Okay, so that's all you — so yeah, so if you, all right, there's a cistern."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "So, there is, like, a water…"
 
 **GM**
 > "Yeah, this thing over here is what's called a cistern."
 > "Perfect. Cool."
 
-**Zenvon Foreput** — *taking in the room*
+**Zenvon Forepot** — *taking in the room*
 > "And I see some barrels, okay."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "The front door onto the west."
 
 **GM**
@@ -169,35 +169,35 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 **GM**
 > "You may want to look around to see where the Redbrand Ruffian went."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Well, I don't have more visibility, I need to come into the room."
 
 **GM** — *on Pip's visibility*
 > "Oh, wait — your Pip doesn't show, doesn't have visibility?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Wait, he does, he does, okay."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "the stairs on the right side, but I can see the cellar, right? Yeah."
 
 **GM**
 > "Can you see that?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "I can see the cellar, yes."
 
 **GM** — *prompting investigation*
 > "No, you don't. So you can try to— guys could come in and try to investigate to see if you can figure out where he'" *(truncated)*
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yes, yes, roll an investigation."
 
 **GM** — *first roll fails; offers help die*
 > "You don't find them."
 > "Veyra tries to help you, so why don't you roll again?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "That's true."
 
 **GM** — *second roll succeeds*
@@ -209,19 +209,19 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 - The party confirms they can use the stairs to reach the upper level and decides to pursue.
 - Zenvon listens at the door and rolls investigation.
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "And we don't have access going upstairs to the 15…"
 
 **GM**
 > "Yes, you do. If you go up these stairs."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Oh, okay."
 
 **GM**
 > "So what's your plan?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Okay."
 > "Okay, let's follow this guy."
 
@@ -229,7 +229,7 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 > "You're gonna follow this guy? Yes."
 > "So you're gonna try to listen to the door?"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yes, yes, as always, he would enter the door, so, roll an investigation."
 
 **GM** — *result: 19; hears murmuring*
@@ -237,7 +237,7 @@ from: ../scene_extractions/05_the_pit_trap_and_the_cellar.md
 > "Some murmuring behind the door. There's several…"
 > "Alright, so you hear people talking behind the door."
 
-**Zenvon Foreput** — *drawing the correct conclusion*
+**Zenvon Forepot** — *drawing the correct conclusion*
 > "This guy has told everybody."
 > "There's no choice."
 > "He leaves us no choice other than to attack."
