@@ -1,0 +1,79 @@
+consistency_check:
+  timestamp: "2026-08-19T19:32:36-07:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20250603-chapter-04-new/session_2025_06_03_new_chapter_4.md"
+  document_class: "first-pass recap (gm-assist input) + backfill"
+  report: "summaries/20250603-chapter-04-new/consistency_report_stage0_gmassist.md"
+  config: "scratchpad throwaway with absolute paths (Phandalin has no root config.yaml; config/config.yaml resolves docs/ to config/docs/ and fails)"
+  backend: "claude-code"
+  issues_found: 14
+  session_prep_used: false
+  session_prep_reason: "Session predates the entire prep corpus — every file in notes/session_prep/ is 2026-dated; this session is 2025-06-03."
+  entity_registry_used: true
+  session_date: "2025-06-03"
+  stage: "0 of 3 (staged-consistency); review mode = artifact (batch)"
+  review_artifact: "https://claude.ai/code/artifact/4c0109fd-a66e-482d-81db-3f73c6ce8e77"
+  temporal_gap: |
+    Session predates the grounding docs' current state by ~44 chapters and ~2 years.
+    Party era from tape: LEVEL 1, confirmed verbatim ("What level are you guys?" / "One." / "One").
+    Docs describe the level-5+ party around ch48.
+    Findings rejected as anachronistic: clarinet/trumpet "unattested" (all three instruments
+    verbatim on tape), Starry Wisp "in no grounding doc", Linene's supply-chain disruption
+    "first documented at ch17" (she says it on tape here, ~13 chapters earlier).
+  speaker_map: |
+    Derived from the tape, not from campaign docs.
+    kostadis = GM; dave = Vukradin; wade = Soma; gary = Valphine AND Brewbarry.
+    Stéphane absent. CLAUDE.md's stated cover arrangement (Gary covers Brewbarry) is
+    CONFIRMED here — gary voices both ("it is Brewbarry's turn next", "plus two rage, so 14").
+    natasha = non-player, 5 lines of end-of-session table chatter, correctly excluded.
+  transcript_provenance: |
+    Four transcripts on disk. Decisive source = GMT20250604-035231_Recording.md (RAW Zoom
+    export, speaker-labelled). The .cleaned.md sibling is glossary-passed and CORRUPTS at
+    least one line: raw "far too thin and bony" -> cleaned "far too thin and Boney",
+    capitalising a common adjective into the skeletal-horse entity, who does not join
+    until ch31. The two *.unused-no-speakers.vtt files read "thin and body" (a third
+    variant). Consulted by hand; NOT passed as --context.
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical registry + aliases" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted confirmed names" }
+      - { path: docs/chapters/chapter_03_to_find_a_shapeshifter.md, role: "GM-chosen neighbour chapter" }
+      - { path: docs/chapters/chapter_04_the_bard_the_kings_and_the_carver.md, role: "GM-chosen neighbour chapter" }
+      - { path: docs/chapters/chapter_05_saving_adabra.md, role: "GM-chosen neighbour chapter" }
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-19"
+    applied_without_asking:
+      - "Brewberry -> Brewbarry (7); Valpine -> Valphine (7); Dazlin -> Dazlyn (7) — glossary rows 15/16/79, registry-canonical"
+      - "Valfina -> Valphine on 5 of 6 instances ONLY; the 6th was Soma and became card s0-03"
+      - "'far too thin and body' -> 'bony' per the RAW Zoom export"
+    applied:
+      - { finding: "s0-01..s0-14", ruling: "all 14 approved", fix: "applied; two residuals ('turtle elf' in Summary para 6 and the NPCs entry, plus 'divine command' in Summary para 6) were caught only by the step-6 propagation grep and fixed after" }
+  vtt_adjudicated: |
+    Every finding was settled against the raw Zoom transcript by hand.
+    THE GLOSSARY TRAP: vtt_transcription_corrections.md row 15 maps both "Valpine" and
+    "Valfina" -> Valphine. Five of six Valfina instances are Valphine; the sixth
+    ("specifically targeting Valfina") is SOMA — the ogre wanted turtle and Soma is the
+    tortle (wade: "I'm actually gonna scoot back since he said turtle was sort of his
+    favorite food"). A blind glossary application would have handed the ogre's appetite to
+    the drow cleric and looked MORE canonical afterwards. The tell was the document using
+    two different garbles for one character.
+    CHECK ERRORS CORRECTED: its finding 12 argued Command "suggests Valphine"; the tape has
+    Dave casting it. Its finding 11 proposed "bony" — correct, and better than the cleaned
+    transcript's "Boney", which I initially applied and then reverted on finding the raw export.
+  carry_forward:
+    - status: OPEN
+      item: "Chapter numbering. This session runs immediately before chapter_03; 'Chapter 4' collides with the existing chapter_04. Placement note added to both session files; number still unassigned, and the summaries/20250603-chapter-04-new/ directory name still encodes the 4."
+    - status: OPEN
+      item: "GLOSSARY BUG: the spell pass turns the adjective 'bony' into the entity 'Boney'. Will recur on every pre-ch31 backfill. The corrections file already records a removed 'Bony -> Boney' row; something is still doing it."
+    - status: OPEN
+      item: "campaign_state.md labels the first ogre 'Frozen Ogre Encounter (en route to Gnomengarde)'. Both halves are wrong per tape. GENERATED FILE — fix at source + regenerate, never hand-edit. (GM approved as s0-09.)"
+    - status: NOTE
+      item: "The gem the dwarves feared losing (tape lines 1282-1310) appears in NO grounding doc. campaign_state marks the Hall of Greed 'NOT FOUND IN SUMMARIES'. Real early thread, currently unrecorded."
+    - status: NOTE
+      item: "Gnomengarde quest purpose on tape — 'They might have something to do with the key to the dragon' — is a live hook absent from both recaps until this pass."

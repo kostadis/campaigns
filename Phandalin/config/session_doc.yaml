@@ -1,7 +1,7 @@
 paths:
-  session_recap: gm-assist.md
+  session_recap: session_2026_08_18_session_2026_08_18.md
   session_summary: session-summary.md
-  scene_extractions_dir: scene_extractions_smoothed
+  scene_extractions_dir: scene_extractions
   narration_dir: narration
   output_dir: null
   party: docs/party.md
@@ -10,8 +10,10 @@ paths:
   genre_file: voice/_genre.md
 extract:
   tokens: 8192
+  batch_scenes: null
+  batch_tokens: 32000
 narrate:
-  tokens: 32000
+  tokens: 16000
   prose_mode: true
   reflections: true
   context: []
@@ -45,9 +47,9 @@ session_name: null
 profiles:
 - name: Phandalin
   knobs:
-    narrate_tokens: 32000
+    narrate_tokens: 16000
     prose_mode: true
     reflections: true
-    narration_genre_file: /home/kroussos/campaigns-phandalin/Phandalin/voice/_genre.md
+    narration_genre_file: /home/kroussos/Phandalin/Phandalin/voice/_genre.md
     backend: claude-code
 active_profile: Phandalin

@@ -10,10 +10,10 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 
 | Wrong | Right |
 |---|---|
-| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten | **Vukradin** |
-| Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk | **Soma** |
-| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Or Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar | **Valphine** |
-| Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg | **Brewbarry** |
+| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin | **Vukradin** |
+| Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk, Salma, Sovo, Sova, Masuma | **Soma** |
+| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Or Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet | **Valphine** |
+| Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg, Bray, Brubaria, Bourbury | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 | An Asimer, Asimar | **Aasimar** |
 
@@ -41,7 +41,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | So Bob, So Bob Saget | **Bob Saget** |
 | Lira, Lera, Myra | **Lyra** |
 | Bonies, Stable Boney, Bodie, Barney, Bony Euro, Bean, And Bonies, Bonia, Voney | **Boney** |
-| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders, Lathender, Lithandr, Thander, Oathander | **Lathander** |
+| Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders, Lathender, Lithandr, Thander, Oathander, Lanthander | **Lathander** |
 | Telosian, Telosians, Telusian, Telusians, Tolusians, Tallosians, Toloshian, Tolosians, Talos season | **Talosian** |
 | Torb | **Torbin** |
 | Corbyn, Corben, Corbett | **Corbin** |
@@ -72,12 +72,12 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Boris | **Boar** |
 | Vorg | **Vorga** |
 | Aligonder, Alexander (when naming the family), allegondre, Olegander, Alligander, Algander, Allogander | **Alagondar** |
-| Aldrich, Adric, Adrik, Aldrick, Audric | **Aldric** |
+| Aldrich, Adric, Adrik, Aldrick, Audric, Eldrich | **Aldric** |
 | Kalina Elderleaf, Kayleen Elderleaf, Kilinea, Kalita, Klina, Kalazorn Cazone (when referring to Qelline) | **Qelline Alderleaf** |
 | Lynette, Lilene, Leonini, Lenini, Linane Greenwood, Lenny, Shalim Lenny | **Linene Graywind** |
 | Burning guiles, Burning Giles | **Brin and Giles** |
 | Dazzlyn, Dazzlin, Dazzledan, Dazzlen, Dazlin | **Dazlyn** |
-| Norbas, Dorbus | **Norbus** |
+| Norbas, Dorbus, Orbus | **Norbus** |
 | Abathor | **Abbathor** |
 | Oker, Ocher, Okre | **Ochre** |
 | Mord Lord, Morning Lord | **Morninglord** |
@@ -108,12 +108,19 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Sylvine | **Syleen** |
 | Alliganders | **Alagondars** |
 | Paranalegander | **Perrin Alagondar** |
-| Andrew,Andres,Andrey,Andre,Andrell | **Aurelan** |
+| Andrew, Andres, Andrey, Andre, Andrell, Oren | **Aurelan** |
 | Oral B. Vance | **Aurelan Vance** |
 | Utgartian,Uthgardian | **Uthgardtian** |
-| Laneen,Lenain,Lineni,Linine | **Linene** |
+| Laneen, Lenain, Lineni, Linine, Lenene | **Linene** |
 | Greywind,Greywin | **Graywind** |
 | Seesong | **Seasong** |
+| Luthandrians | **Lathandrians** |
+| Lithandrinites | **Lathandarites** |
+| Biardo, Love Via Tar, Leviator | **Loviatar** |
+| Bimble Knackle | **Bimble Nackle** |
+| Mimble | **Bimble** |
+| Barrett | **Perrin** |
+| Yalekai, Yeliki | **Mielikki** |
 
 ## Items / artifacts
 | Pushions | **Potions** |
@@ -132,6 +139,10 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Halbert, Hallbared, Halpert | **halberd** |
 | Wond | **Wand** |
 | Dragon Slaying Sword | **Dragon Slayer Sword** |
+| Sacred Flight, Sacred Flake | **Sacred Flame** |
+| Poison's Freight | **poison spray** |
+| Moldearth | **mold earth** |
+| Ascending Stone | **Sending Stone** |
 
 | Wrong | Right |
 |---|---|
@@ -147,8 +158,11 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Overbrite | **Overbright** |
 | Zhintarin, Zintarim, Zhintarim, Zendarim | **Zhentarim** |
 | Magaster, Marcaster, Mergaster, Maragaster, Mercaster, Mark Haster, Millin Lane, Smargaster | **Margaster** |
-| Housemarghaster, Hasma Gaster, Hausmergaster, Haasmark, Haasmarkaster, Smuggaster, SmartGaster, Smagaster, Housemargaster, Housemarcaster, House Smergaster, Hasmicaster, Hausma Gaster, House Bargaster, House Marghastor, House Muccaster, Housemar Gaster, Housemark, Housemart Gaster, How Smart Gaster, House Mach Astro, House Mucky, Hausmer Gaster, Horace McCaster | **House Margaster** |
+| Housemarghaster, Hasma Gaster, Hausmergaster, Haasmark, Haasmarkaster, Smuggaster, SmartGaster, Smagaster, Housemargaster, Housemarcaster, House Smergaster, Hasmicaster, Hausma Gaster, House Bargaster, House Marghastor, House Muccaster, Housemar Gaster, Housemark, Housemart Gaster, How Smart Gaster, House Mach Astro, House Mucky, Hausmer Gaster, Horace McCaster, Houseman Gaster, Housemont Gaster, Mas Magastor, Smock Master, House Market | **House Margaster** |
 | Neverwork Commission,Never Work Commission,Neverwinner Commission,The Neverwork Commission | **Neverwinter Commission** |
+| Assassin Guild, Athens Guild | **Assassin's Guild** |
+| Syrian Pain | **Searing Pain** |
+| Greg Cloak | **Greycloak** |
 
 | Wrong | Right |
 |---|---|
@@ -160,7 +174,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Silvery Moon | **Silverymoon** |
 | Woodland Mance, Woodland Mence, Woodland Mass, Woodland Mans, Woodland Mounds | **Woodland Manse** |
 | Shrine of Serva,Shrine of Servos | **Shrine of Savras** |
-| Lenzo Baranzin, Metzler-Bronzon, Menzo Baronzen, Menzo Baranzin | **Menzoberranzan** |
+| Lenzo Baranzin, Metzler-Bronzon, Menzo Baronzen, Menzo Baranzin, Mensa-Barranza, Menzo-Brunsen | **Menzoberranzan** |
 | Neverwinting, Denver Winter | **Neverwinter** |
 | Mance, Mintz | **Manse** |
 | Icepire | **Icespire** |
@@ -172,13 +186,13 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Shaun | **Shrine** |
 | Falcon's Lunge, Falcons Lodge | **Falcon's Lodge** |
 | Icepire Hold, Ice Per Hold, Icefire Hold | **Icespire Hold** |
-| Nevermember, Lord Nevember, Nevermber, never-member, Denver | **Neverember** |
+| Nevermember, Lord Nevember, Nevermber, never-member, Denver, Neverumber | **Neverember** |
 | Ice Spires Peak | **Icespire Peak** |
 | Axhome, Axel Home, Axel Holm, Axelholm | **Axeholm** |
 | Stone Hill Inn | **Stonehill Inn** |
 | Tone Hill | **Stonehill** |
 | Town Masters Hall | **Townmaster's Hall** |
-| Gnomon Garde, Groam garden | **Gnomengarde** |
+| Gnomon Garde, Groam garden, Gromengarden | **Gnomengarde** |
 | Leinschnitz Kolster, Einshield coaster, The Lion Shield Coaster, Lion Shield Coaster, Lionschild Koster, Lion Shield Koster, Lineshield Koster, Lionschul Koster, Lionshield Koster, Lionale Coster, Lionel Koster, Lionel Shield Kosta | **Lionshield Coster** |
 | Sword Ghost | **Sword Coast** |
 | Umbridge Hill | **Umbrage Hill** |
@@ -203,6 +217,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Todd Billing | **Top Billing** |
 | Orban | **Orc** |
 | We Cumberry News | **we come bearing news** |
+| Yusoma | **you, Soma** |
 | Wayne | **Wade** |
 | Devar | **Dave** |
 | Oola | **gold** |
@@ -211,7 +226,6 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Carrie | **Gary** |
 | UVT | **UBT** |
 | Egos (as a GM speech tag) | **he goes** |
-| No, Matt | **no, math** |
 | the swell (of beer) | **the swill** |
 | majestical | **Silver Tongue** (Vukradin's Eloquence feature) |
 
@@ -227,7 +241,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Greekly | **discreetly** |
 | Vucherjin | **Vukradin** |
 | Smuggaster, SmartGaster | **House Margaster** |
-| Lionschild Koster, Lion Shield Coster, LionShield Coster | **Lionshield Coster** |
+| Lionschild Koster, Lion Shield Coster | **Lionshield Coster** |
 | Tribor | **Triboar** |
 
 ## DO NOT CORRECT — canon coinages and in-character malapropisms
@@ -259,6 +273,13 @@ before trusting any of these.
 | `Lara` → **Lyra** | rewrote *"**Lara** Seesong Milamne returns statue from Lighthouse…"* into *Lyra* — i.e. turned the murdered noblewoman **Elara Meliamne** into a different NPC. Sibling reads the span as "Elara Seasong Meliamne." |
 | `Barry` → **Brewbarry** | rewrote *"does this **Barry** guy know anything about this?"* into "does this Brewbarry guy" — nonsense, since the speaker plays Brewbarry. GM ruled it as **Perrin** (the reply cue is "Who are you asking? Perrin?"). |
 
+**Rejected 2026-08-20 (ch04 rebuild pass) — never add this row:**
+
+| Rejected row | Why |
+|---|---|
+| `Barra` → **Brewbarry** | `Barra` is not a garbled name at all. It exists in exactly one cue (00:31:32) and **only in the re-transcribed file** — both independent records of that span, Zoom's own text export and the original Whisper pass, read *"Ah, fair. Okay, what happens in that case?"* The re-transcription invented it while decoding a 1.2s cue. Reverted in the derived transcripts; the raw `.retranscribed.vtt` keeps it as the record. Class: ASR fabrication, not a misspelling — the fix is a revert, never a glossary row. |
+
+
 **Live risks to re-check every pass:**
 
 - `Denver` → **Neverember** (added 2026-08-13) — real-world city name. Safe today; grep before applying if a session wanders into real-world chat.
@@ -267,6 +288,23 @@ before trusting any of these.
 - `Ryan` and `Merton` in the **Vukradin** row, `Bean` and `Barney` in the **Boney** row, `Helen` → **Cullen**, `Boris` → **Boar** — same class, not yet observed misfiring.
 
 **Structural issues left alone (fix if `lint_glossary.py --check` starts erroring):**
+
+- **Never put a comma inside the Wrong column unless every fragment is its own
+  valid wrong-form.** `find_unknowns.parse_glossary` splits that cell on `,` to
+  support multi-variant rows, so a row written as a *phrase* silently becomes
+  several one-word rules. Removed 2026-08-20: `| No, Matt | **no, math** |`
+  compiled to `No -> no, math` **and** `Matt -> no, math`. The first was saved by
+  the `is_self_matching` guard (the canonical contains "no"); the second was live,
+  and rewrote any real `Matt` into `no, math`. The row was a one-off table
+  utterance, not a name, so it was deleted rather than re-expressed.
+- **A case-only correction cannot be expressed in this glossary at all.**
+  `apply_replacements.is_self_matching` searches the wrong-form inside the
+  canonical *case-insensitively*, so `LionShield Coster -> Lionshield Coster`
+  looks non-idempotent and is skipped silently. Dropped that variant from the
+  Ch. 47 Lionshield row 2026-08-20; the other two variants are unaffected.
+  `LionShield Coster` (no space, capital S) therefore still goes uncorrected —
+  the fix belongs in the tool: exempt `wrong.lower() == right.lower()` from the
+  guard and match case-sensitively for that one rule.
 
 - `## Ch. 47 additions` duplicates rows that already exist upstream — `Smuggaster/SmartGaster` → House Margaster, `Lionschild Koster` → Lionshield Coster, `Tribor` → Triboar. `add_to_glossary.py --section` will append to whichever it finds first.
 - `Vukardin` → **Vukradin** sits in `## NPCs and creatures` while the main Vukradin row is in `## PCs`.
