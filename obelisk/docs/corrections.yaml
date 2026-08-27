@@ -1,0 +1,36 @@
+# Known-stale records for obelisk.
+#
+# ============================================================================
+#  DRAFT — NOT YET RATIFIED.  Spec 007, task T026.
+# ============================================================================
+#
+# `stale_claim` is DISPLAYED to the reader and NEVER used for matching. A
+# correction attaches on path + subject only.
+
+version: 1
+campaign: obelisk
+
+corrections:
+  - id: naming-authority-is-the-glossary
+    applies_to:
+      paths: ["docs/world_state.md", "docs/campaign_state.md"]
+      subjects: ["Dawnforge", "Forepot", "Foreput"]
+    stale_claim: >-
+      The generated world_state/campaign_state docs are treated as the naming
+      authority. They false-flag canon surnames (Dawnforge) as unattested and
+      share errors with each other (Forepot for Foreput).
+    truth: >-
+      The authoritative naming sources are the hand-curated
+      docs/background/name_glossary.md plus characters/*.md.
+      `session_doc/check_consistency.py` loads only campaign_state and
+      world_state (_DEFAULT_CONFIG_DOCS, line 61) and never reads the glossary.
+    as_of: null
+    recorded: 2026-08-04
+    recorded_by: GM
+    note: >-
+      Re-verified 2026-08-06: all three files are present —
+      docs/world_state.md, docs/campaign_state.md and the glossary at
+      docs/background/name_glossary.md. The manifest tiers the glossary
+      working_reference, so search now shows it and labels the two generated
+      docs as generated. That makes the authority visible; it does NOT change
+      what check_consistency loads, which remains a separate fix.

@@ -1,0 +1,485 @@
+# Transcript corrections — the record the .cleaned.vtt is generated from.
+# CampaignGenerator #250 R4. Edit this file, then run:
+#     sd_corrections apply --dir .
+# `was` is checked against the raw tape on every apply, so a stale entry
+# fails loudly instead of pasting an old repair over new words.
+# `verified: false` means nobody has reviewed this one yet.
+version: 1
+transcript: GMT20260624-035836_Recording.transcript.vtt
+corrections:
+- id: cue-0093
+  cue: 93
+  was: 'Kostadis Roussos: Vukerdin lamented that despite defeating dragons, clearing Mansons, and owning a gold mine, he still had not made meaningful progress towards funding his musical studio.'
+  now: 'Kostadis Roussos: Vukradin lamented that despite defeating dragons, clearing Mansons, and owning a gold mine, he still had not made meaningful progress towards funding his musical studio.'
+  recorded: &id001 2026-08-10
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0097
+  cue: 97
+  was: 'Kostadis Roussos: A political agenda to pursue, the existing privy council was imposed on Harib and Wester as a fig leaf rather than a genuine democratic body, and Vucherdin intended to push for direct elections of the mayor, a legal process called a sheetment that Valfin apparently researched.'
+  now: 'Kostadis Roussos: A political agenda to pursue, the existing privy council was imposed on Harib and Wester as a fig leaf rather than a genuine democratic body, and Vukradin intended to push for direct elections of the mayor, a legal process called a sheetment that Valphine apparently researched.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0098
+  cue: 98
+  was: 'Kostadis Roussos: The still untransformed lump of gold from Cryovane''s horde that the party refused to use, and the small matter of a holy orc army now marching through the mountains in Lathander''s name, whatever came next, it was clear that the consequences of their choices were only just beginning to unfold.'
+  now: 'Kostadis Roussos: The still untransformed lump of gold from Cryovain''s horde that the party refused to use, and the small matter of a holy orc army now marching through the mountains in Lathander''s name, whatever came next, it was clear that the consequences of their choices were only just beginning to unfold.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0099
+  cue: 99
+  was: 'David Mendenhall: So, Bukradin… has a perspective on the upcoming election, and as it relates to the Treasurer.'
+  now: 'David Mendenhall: So, Vukradin… has a perspective on the upcoming election, and as it relates to the Treasurer.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0129
+  cue: 129
+  was: 'Kostadis Roussos: Well, no, no, no, you made a deal… Brewberry made a deal… it was agreed that the were-rats could go by themselves to go get the cheese, and that it would not be viewed as abandoning their post.'
+  now: 'Kostadis Roussos: Well, no, no, no, you made a deal… Brewbarry made a deal… it was agreed that the were-rats could go by themselves to go get the cheese, and that it would not be viewed as abandoning their post.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0132
+  cue: 132
+  was: 'Kostadis Roussos: No, I''m just telling you, you did agree to that, like, I could… I mean, but maybe Blueberry doesn''t remember whether he agreed. It has been a day. There hasn''t…'
+  now: 'Kostadis Roussos: No, I''m just telling you, you did agree to that, like, I could… I mean, but maybe Brewbarry doesn''t remember whether he agreed. It has been a day. There hasn''t…'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0139
+  cue: 139
+  was: 'David Mendenhall: I''m thinking like you, Blueberry, I''ve got a plan.'
+  now: 'David Mendenhall: I''m thinking like you, Brewbarry, I''ve got a plan.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0178
+  cue: 178
+  was: 'Kostadis Roussos: Pruta is, is out of town. Alright.'
+  now: 'Kostadis Roussos: Prutha is, is out of town. Alright.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0181
+  cue: 181
+  was: 'Kostadis Roussos: What? Pruta is on a vision quest.'
+  now: 'Kostadis Roussos: What? Prutha is on a vision quest.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0182
+  cue: 182
+  was: 'Kostadis Roussos: It''s not that he''s… is, sir Kaelin is at Toblin, is the Stonehill at Spider-Man''s Inn.'
+  now: 'Kostadis Roussos: It''s not that he''s… is, Ser Kaelen is at Toblin, is the Stonehill at Spider-Man''s Inn.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0186
+  cue: 186
+  was: 'David Mendenhall: Well, I want to talk to Sir Kalen, and I want to talk to the mayor, and then we''ll do the gathering.'
+  now: 'David Mendenhall: Well, I want to talk to Ser Kaelen, and I want to talk to the mayor, and then we''ll do the gathering.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0215
+  cue: 215
+  was: 'Kostadis Roussos: Alright, so, straight, so you walk by Barthen''s provisioning, there''s a hello, how are you? You walk by the Smithy, again, pleasant to see you. Gary, Balfina, is she, like, saying, you know, we killed the Telosians, the Telosians have been defeated?'
+  now: 'Kostadis Roussos: Alright, so, straight, so you walk by Barthen''s provisioning, there''s a hello, how are you? You walk by the Smithy, again, pleasant to see you. Gary, Valphine, is she, like, saying, you know, we killed the Talosians, the Talosians have been defeated?'
+  recorded: *id001
+  verified: true
+  note: restored the plural the tape used; the singularisation broke the verb
+- id: cue-0224-lathander
+  cue: 224
+  was: 'Gary Young: I mean, the town has been protected by the strength of the pandemic.'
+  now: 'Gary Young: I mean, the town has been protected by the strength of Lathander.'
+  recorded: &id002 2026-08-10
+  verified: true
+  note: Zoom misheard Lathander; the name appears 9x elsewhere in this tape and is canonical in the registry. 'the pandemic' is nonsense in a temple scene.
+- id: cue-0245-bathrobe
+  cue: 245
+  was: 'Stéphane Bourdeaud: Yeah, but blood can be turned into something soft and wonderful, you know, like a brewery bathroom.'
+  now: 'Stéphane Bourdeaud: Yeah, but blood can be turned into something soft and wonderful, you know, like a Brewbarry bathrobe.'
+  recorded: *id002
+  verified: true
+  note: the bathrobe thread runs through the session; 'bathrobe(s)' appears 15x in this tape and 'bathroom' only here. Merged with the existing brewery -> Brewbarry fix.
+- id: cue-0253
+  cue: 253
+  was: 'Kostadis Roussos: Vucherdin, I think that if you were willing to play a song, it would be for free.'
+  now: 'Kostadis Roussos: Vukradin, I think that if you were willing to play a song, it would be for free.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0273
+  cue: 273
+  was: 'Kostadis Roussos: Well, you said you wanted to speak… since… you said you wanted to speak to Sir Kalen, so I just want to make sure that… Sure.'
+  now: 'Kostadis Roussos: Well, you said you wanted to speak… since… you said you wanted to speak to Ser Kaelen, so I just want to make sure that… Sure.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0292
+  cue: 292
+  was: 'Kostadis Roussos: Holy crap. Yeah, he, he, he said, he says, you know… Sir Kaelin is upset.'
+  now: 'Kostadis Roussos: Holy crap. Yeah, he, he, he said, he says, you know… Ser Kaelen is upset.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0297
+  cue: 297
+  was: 'David Mendenhall: You know, Sir Kalen, I''m sorry.'
+  now: 'David Mendenhall: You know, Ser Kaelen, I''m sorry.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0309
+  cue: 309
+  was: 'Kostadis Roussos: No, Sir Kalen''s in the bar, but the owner of the statue''s not in the bar. She''s a famous… she''s an important person of Neverwinter.'
+  now: 'Kostadis Roussos: No, Ser Kaelen''s in the bar, but the owner of the statue''s not in the bar. She''s a famous… she''s an important person of Neverwinter.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0311
+  cue: 311
+  was: 'Kostadis Roussos: Alright. Alright. He does say that, that, he does point out that he has not had any success at finding Sir Kayla, Lady, Sister Kayla.'
+  now: 'Kostadis Roussos: Alright. Alright. He does say that, that, he does point out that he has not had any success at finding Sir Kayla, Lady, Sister Kaella.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0312
+  cue: 312
+  was: 'David Mendenhall: Sister Kayla. Yeah, that''s too bad. Okay.'
+  now: 'David Mendenhall: Sister Kaella. Yeah, that''s too bad. Okay.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0314
+  cue: 314
+  was: 'Kostadis Roussos: And, Brewberry. And, Valfine. Then he looks at Valfine and notices that she has the golden eyes.'
+  now: 'Kostadis Roussos: And, Brewbarry. And, Valphine. Then he looks at Valphine and notices that she has the golden eyes.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0330
+  cue: 330
+  was: 'Kostadis Roussos: And you immediately remember that that''s exactly where you had gone to train to be a cleric of Lithander?'
+  now: 'Kostadis Roussos: And you immediately remember that that''s exactly where you had gone to train to be a cleric of Lathander?'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0336
+  cue: 336
+  was: 'Kostadis Roussos: Yes, yes. You know, because, Sir Kaelin''s got that creepy look on his face.'
+  now: 'Kostadis Roussos: Yes, yes. You know, because, Ser Kaelen''s got that creepy look on his face.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0339
+  cue: 339
+  was: 'Kostadis Roussos: Nothing in general, nothing in general, nothing in general, but you know, I mean, if this is a blessing from Lathander, it would be, it would be good for Valfine to go and talk to the high priest at the Spire of the Morning Lord, to find out what does it tell her? What guide, what is Lathander trying to tell her?'
+  now: 'Kostadis Roussos: Nothing in general, nothing in general, nothing in general, but you know, I mean, if this is a blessing from Lathander, it would be, it would be good for Valphine to go and talk to the high priest at the Spire of the Morning Lord, to find out what does it tell her? What guide, what is Lathander trying to tell her?'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0343
+  cue: 343
+  was: 'David Mendenhall: Like, Valfine has been blessed.'
+  now: 'David Mendenhall: Like, Valphine has been blessed.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0356
+  cue: 356
+  was: 'Kostadis Roussos: Sir Kaelin is… worried, right? A drow who''s a follower of…'
+  now: 'Kostadis Roussos: Ser Kaelen is… worried, right? A drow who''s a follower of…'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0404
+  cue: 404
+  was: 'Kostadis Roussos: Right. Big Al Kazun is there, Kayleen Elderleaf is there, Linane Greenwood is there, Sir Kaelin is there, I mean, they''re all there. Alright. Even Spider-Man, Elsa, his bar team, Barthin, the people working, you know, the woodworker, they''re all there, right? I mean, there''s some folks who are transients who are…'
+  now: 'Kostadis Roussos: Right. Big Al Kazun is there, Kayleen Elderleaf is there, Linane Greenwood is there, Ser Kaelen is there, I mean, they''re all there. Alright. Even Spider-Man, Elsa, his bar team, Barthin, the people working, you know, the woodworker, they''re all there, right? I mean, there''s some folks who are transients who are…'
+  recorded: *id001
+  verified: true
+  note: reverted the "Big Al" expansion (it produced "…Kalazorn Kazun"); kept Sir Kaelin -> Ser Kaelen, a homophone the ASR cannot pick
+- id: cue-0466
+  cue: 466
+  was: 'Kostadis Roussos: Just in case you thought that was, you know, me not suddenly remembering Vukriddin''s name, because I think that that is an extraordinary idea, and that is why we have declared him ordinary, we have declared the income that he produces as part of his adventuring careerdin''s UBT.'
+  now: 'Kostadis Roussos: Just in case you thought that was, you know, me not suddenly remembering Vukradin''s name, because I think that that is an extraordinary idea, and that is why we have declared him ordinary, we have declared the income that he produces as part of his adventuring careerdin''s UBT.'
+  recorded: *id001
+  verified: true
+  note: corrected form is attested elsewhere in this same tape
+- id: cue-0471
+  cue: 471
+  was: 'David Mendenhall: Slayers of Cryovane.'
+  now: 'David Mendenhall: Slayers of Cryovain.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0512
+  cue: 512
+  was: 'Kostadis Roussos: Sidebar. Does the Order of the Gauntlet get a share, or is this only strictly for the citizens of Fandelin? And what do we mean by citizens of Fandalin?'
+  now: 'Kostadis Roussos: Sidebar. Does the Order of the Gauntlet get a share, or is this only strictly for the citizens of Phandalin? And what do we mean by citizens of Fandalin?'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0514
+  cue: 514
+  was: 'David Mendenhall: Excellent, excellent idea, Velfina!'
+  now: 'David Mendenhall: Excellent, excellent idea, Valphine!'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0585
+  cue: 585
+  was: 'Kostadis Roussos: Hold on, hold on. Right, wait, hold on. Harbin, Harbin, Wester says, Well, of course, Valfine is a, member of the community, an upstanding, cleric, you know, her, her, you know, her, you know, he''s…'
+  now: 'Kostadis Roussos: Hold on, hold on. Right, wait, hold on. Harbin, Harbin, Wester says, Well, of course, Valphine is a, member of the community, an upstanding, cleric, you know, her, her, you know, her, you know, he''s…'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0586
+  cue: 586
+  was: 'Kostadis Roussos: he''s trying very awkwardly to say that, you know, Valfine would most certainly, and that the Temple of Lathander that she has set up, the searing pain of justice would definitely be… is definitely within the city boundaries. He goes, of course, Vukrudin is absolutely, you know, is a member of the Privy Council.'
+  now: 'Kostadis Roussos: he''s trying very awkwardly to say that, you know, Valphine would most certainly, and that the Temple of Lathander that she has set up, the searing pain of justice would definitely be… is definitely within the city boundaries. He goes, of course, Vukradin is absolutely, you know, is a member of the Privy Council.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0595
+  cue: 595
+  was: 'Kostadis Roussos: But, but I think that we can all agree that Brewberry and Soma, through their unique contributions, should be considered honorary citizens of Fandelin. I''ll take that.'
+  now: 'Kostadis Roussos: But, but I think that we can all agree that Brewbarry and Soma, through their unique contributions, should be considered honorary citizens of Phandalin. I''ll take that.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0707
+  cue: 707
+  was: 'Stéphane Bourdeaud: It''s getting a bit too technical for Blueberry.'
+  now: 'Stéphane Bourdeaud: It''s getting a bit too technical for Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0717
+  cue: 717
+  was: 'Kostadis Roussos: Okay, so, so, so, Kalita is delighted to hear that you have clays. She goes, who would have thought that Brewberry was a man of taste and vision?'
+  now: 'Kostadis Roussos: Okay, so, so, so, Kalita is delighted to hear that you have clays. She goes, who would have thought that Brewbarry was a man of taste and vision?'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0729
+  cue: 729
+  was: 'Kostadis Roussos: Okay, so, and those, and you inform them who they are, those Elaine, the… yeah, alright, alright. Well, then we will absolutely keep them a fine round of our finest cheese, and she, and then she goes, Mr. Brewberry.'
+  now: 'Kostadis Roussos: Okay, so, and those, and you inform them who they are, those Elaine, the… yeah, alright, alright. Well, then we will absolutely keep them a fine round of our finest cheese, and she, and then she goes, Mr. Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0779
+  cue: 779
+  was: 'Gary Young: Yes. Well, we can put the Lithander''s logo on it, too.'
+  now: 'Gary Young: Yes. Well, we can put the Lathander''s logo on it, too.'
+  recorded: *id001
+  verified: true
+  note: corrected form is attested elsewhere in this same tape
+- id: cue-0806
+  cue: 806
+  was: 'Stéphane Bourdeaud: Alright, so this is very personal to Brewberry, you know, it''s becoming… he''s becoming obsessed with this.'
+  now: 'Stéphane Bourdeaud: Alright, so this is very personal to Brewbarry, you know, it''s becoming… he''s becoming obsessed with this.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0831
+  cue: 831
+  was: 'Kostadis Roussos: It literally goes, Shalim Lenny goes, brewberry.'
+  now: 'Kostadis Roussos: It literally goes, Shalim Lenny goes, Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0861
+  cue: 861
+  was: 'Kostadis Roussos: Yeah, like, particularly about, about… and the other thing that, I guess… Blueberry wouldn''t know…'
+  now: 'Kostadis Roussos: Yeah, like, particularly about, about… and the other thing that, I guess… Brewbarry wouldn''t know…'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0862
+  cue: 862
+  was: 'Kostadis Roussos: Vukradin would definitely never know. Valfine was completely unplugged, and so much… yeah, so you guys really have no idea what''s going on here.'
+  now: 'Kostadis Roussos: Vukradin would definitely never know. Valphine was completely unplugged, and so much… yeah, so you guys really have no idea what''s going on here.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0882
+  cue: 882
+  was: 'Stéphane Bourdeaud: Right. I just want to point out that during the whole trip, you know, the whole trip, Blueberry just goes on and on about his bathrobes, and how good they''re gonna look, and…'
+  now: 'Stéphane Bourdeaud: Right. I just want to point out that during the whole trip, you know, the whole trip, Brewbarry just goes on and on about his bathrobes, and how good they''re gonna look, and…'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0896
+  cue: 896
+  was: 'Stéphane Bourdeaud: And you, you know, I mean, you guys heard all about, you know, Blueberry and his bathrobes, for sure.'
+  now: 'Stéphane Bourdeaud: And you, you know, I mean, you guys heard all about, you know, Brewbarry and his bathrobes, for sure.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-0898
+  cue: 898
+  was: 'Kostadis Roussos: Given, you know, Costatus'' compulsive need to create stuff.'
+  now: 'Kostadis Roussos: Given, you know, Kostadis'' compulsive need to create stuff.'
+  recorded: *id001
+  verified: true
+  note: corrected form is attested elsewhere in this same tape
+- id: cue-1004
+  cue: 1004
+  was: 'Kostadis Roussos: One of them looks at Blueberry and stops walking. That''s… WAIT! IS THAT!'
+  now: 'Kostadis Roussos: One of them looks at Brewbarry and stops walking. That''s… WAIT! IS THAT!'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1005
+  cue: 1005
+  was: 'Kostadis Roussos: Alright, so they, they, he walks up to you, he walks up, is that… Brewberry!'
+  now: 'Kostadis Roussos: Alright, so they, they, he walks up to you, he walks up, is that… Brewbarry!'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1017
+  cue: 1017
+  was: 'Kostadis Roussos: Alright, so, Valfine, you immediately recognized the music.'
+  now: 'Kostadis Roussos: Alright, so, Valphine, you immediately recognized the music.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1018
+  cue: 1018
+  was: 'Kostadis Roussos: It was Vucherdin''s old music.'
+  now: 'Kostadis Roussos: It was Vukradin''s old music.'
+  recorded: *id001
+  verified: true
+  note: corrected form is attested elsewhere in this same tape
+- id: cue-1023
+  cue: 1023
+  was: 'Kostadis Roussos: So, one of the, while that''s going on, you know, while that''s going on, somebody goes, oh my god, blueberry! And he looks at you.'
+  now: 'Kostadis Roussos: So, one of the, while that''s going on, you know, while that''s going on, somebody goes, oh my god, Brewbarry! And he looks at you.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1025
+  cue: 1025
+  was: 'Kostadis Roussos: Right? Like, that''s Mukraden. And the other one goes, oh yeah, I remember when he was really good, the stuff he recorded before he got famous and commercial.'
+  now: 'Kostadis Roussos: Right? Like, that''s Vukradin. And the other one goes, oh yeah, I remember when he was really good, the stuff he recorded before he got famous and commercial.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1027
+  cue: 1027
+  was: 'Kostadis Roussos: Like, commercial, the real stuff. Yeah, like, I don''t know, like, man, I, you know, I think brewberry''s more authentic.'
+  now: 'Kostadis Roussos: Like, commercial, the real stuff. Yeah, like, I don''t know, like, man, I, you know, I think Brewbarry''s more authentic.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1039
+  cue: 1039
+  was: 'Kostadis Roussos: the, the, the, the lords, the lords, the, the, the, the guards say, well, welcome to Vandalin, a brewberry. You know, my, my, you know, sorry, sorry.'
+  now: 'Kostadis Roussos: the, the, the, the lords, the lords, the, the, the, the guards say, well, welcome to Vandalin, a Brewbarry. You know, my, my, you know, sorry, sorry.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1041
+  cue: 1041
+  was: 'Kostadis Roussos: I was like, he goes, Mr. Blueberry, I''m, I, you know, my son is a big fan, would you mind just signing a little piece of paper here for me?'
+  now: 'Kostadis Roussos: I was like, he goes, Mr. Brewbarry, I''m, I, you know, my son is a big fan, would you mind just signing a little piece of paper here for me?'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1054
+  cue: 1054
+  was: 'Kostadis Roussos: Vukridin!'
+  now: 'Kostadis Roussos: Vukradin!'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1083
+  cue: 1083
+  was: 'Kostadis Roussos: Alright, but then… but then somebody, while this is going on, one of the… one of the… one of the people walking around goes, that''s not Vukerton! Vukerton was, like, a legend, man. He would, like, play music, and he didn''t care if anybody liked it. He was, like, I… they''re, like, dismissing that you''re Vukerdin at this point in time.'
+  now: 'Kostadis Roussos: Alright, but then… but then somebody, while this is going on, one of the… one of the… one of the people walking around goes, that''s not Vukerton! Vukerton was, like, a legend, man. He would, like, play music, and he didn''t care if anybody liked it. He was, like, I… they''re, like, dismissing that you''re Vukradin at this point in time.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1100
+  cue: 1100
+  was: 'Kostadis Roussos: He''s like, every… you''ve created a cool scene, and it''s time to… and, like, you know, you''re creating a bit of a scene here. There''s a few more people who look like… dressed like Blueberry starting to show up. You''re starting to realize that there''s some kind of theme about this.'
+  now: 'Kostadis Roussos: He''s like, every… you''ve created a cool scene, and it''s time to… and, like, you know, you''re creating a bit of a scene here. There''s a few more people who look like… dressed like Brewbarry starting to show up. You''re starting to realize that there''s some kind of theme about this.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1131
+  cue: 1131
+  was: 'Kostadis Roussos: Well, I mean, don''t forget, you are Vukridin, and you are blueberry.'
+  now: 'Kostadis Roussos: Well, I mean, don''t forget, you are Vukradin, and you are Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1143
+  cue: 1143
+  was: 'Kostadis Roussos: Sir Kaelin, as you… Sir Kalen, just before you left, said… came with a…'
+  now: 'Kostadis Roussos: Ser Kaelen, as you… Ser Kaelen, just before you left, said… came with a…'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1162
+  cue: 1162
+  was: 'Kostadis Roussos: Alright, do the rest of you walk in, or is it only Valfine?'
+  now: 'Kostadis Roussos: Alright, do the rest of you walk in, or is it only Valphine?'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1165
+  cue: 1165
+  was: 'Kostadis Roussos: I''m just asking! Alright, so Valfinha…'
+  now: 'Kostadis Roussos: I''m just asking! Alright, so Valphine…'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1177
+  cue: 1177
+  was: 'Kostadis Roussos: I would be delighted, I would be delighted, and, and, and, pauses. This would be a great honor, for me, and as long as, as long as you were to say a blessing for me and my family, Valfinay.'
+  now: 'Kostadis Roussos: I would be delighted, I would be delighted, and, and, and, pauses. This would be a great honor, for me, and as long as, as long as you were to say a blessing for me and my family, Valphine.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1195
+  cue: 1195
+  was: 'Kostadis Roussos: He says, he says, Valfine, that is too generous an award. 300 gold pieces for the chosen of Lathander.'
+  now: 'Kostadis Roussos: He says, he says, Valphine, that is too generous an award. 300 gold pieces for the chosen of Lathander.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1206
+  cue: 1206
+  was: 'Kostadis Roussos: Hold on, hold on. So you''re giving it to Blueberry?'
+  now: 'Kostadis Roussos: Hold on, hold on. So you''re giving it to Brewbarry?'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1207
+  cue: 1207
+  was: 'Gary Young: Blueberry will be wearing this, because.'
+  now: 'Gary Young: Brewbarry will be wearing this, because.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1208
+  cue: 1208
+  was: 'Kostadis Roussos: Is he one of… the proprietary stops and goes, His li- his… brewberry.'
+  now: 'Kostadis Roussos: Is he one of… the proprietary stops and goes, His li- his… Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: corrected form is canonical in docs/entity_registry.yaml
+- id: cue-1211-lathander
+  cue: 1211
+  was: 'Stéphane Bourdeaud: works for no one, but Blueberry has much respect for the thunder, yes.'
+  now: 'Stéphane Bourdeaud: works for no one, but Brewbarry has much respect for Lathander, yes.'
+  recorded: *id002
+  verified: true
+  note: same mishearing as cue 224. Merged from two proposals — an R1 conflict and an R3 bracket landed on the same cue.

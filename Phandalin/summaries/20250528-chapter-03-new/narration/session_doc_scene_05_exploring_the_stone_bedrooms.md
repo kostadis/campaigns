@@ -1,51 +1,69 @@
 ---
 scene: 05
 slug: exploring_the_stone_bedrooms
-narrator: Brewbarry
+narrator: Soma
 scene_name: Exploring the Stone Bedrooms
 session: 20250528-chapter-03-new
 ---
 
-We slept. Morning passed. Sleep on stone floor is not bad sleep. My tribe slept on stone. Stone does not lie to you about how hard it is.
+The dwarves and their gem business are behind us, and north is the decision. Vukradin makes it sound like a favor he is granting the corridor. "Okay. That's fine. I'm up for that. We'll go that way."
 
-"All right. So we said morning pass. Are we long rested now, or what's the deal?" Soma asked, and we were. I felt it in my shoulders. The kind of rest where the body stops arguing.
+But first, sleep. We put a whole morning into it. I wedge my shell against the wall, tuck my head, and let the cold of the stone come up through me. It gets all the way in these days. When I wake, my strength is back and my joints are filing their usual complaints. Both of these are normal. We go north.
 
-We went north. The hallway opened up and there was rubble to the left and rubble to the right and a door to the east. I looked at the rubble. Not fallen ceiling. Tunnels. The rubble was where tunnels used to start and where tunnels used to end, and the mountain had closed its fists around them. You could dig through. It would take days. I have dug through worse. My arms remembered the mine. I did not offer to dig.
+The passage opens into a hallway. Rubble chokes the west end, stone that came down a long time ago and settled where it liked. To the east, a door. A normal one, hinges and all. I note this for later.
 
-The door to the east opened on a room. Three stone bed frames stood against the east wall. No mattresses. No blankets. Just stone, cut into the idea of a bed.
+Through it, a room. Three stone bed frames stand against the east wall, and I think of the packed floor and the dust we just spent a morning on.
 
-"Oh, we could have slept here," Soma said.
+"Oh, we could have slept here."
 
-"Right. No mattresses, just fr- bed frames," Vukradin said.
+"Right. No mattresses, just bed frames."
 
-I stood by one and put my hand on it. Cold. Flat. Good workmanship. A dwarf slept here once and got up every morning and went to work in a temple, and then something happened, and the dwarf never came back, and the bed did not care. Stone beds do not miss anyone. That is why you build with stone.
+We look the room over, and the wall gives something up: a seam too straight to be settling, a hairline where mortar should be. Another secret door. The second one this place has tried to hide from us.
 
-Somebody asked if they were in decent repair. They were not destroyed. Not rubble. Fine beds.
+"Do they not believe in just having normal doors in this place?"
 
-"Stone. They'll last forever. That's great," Soma said. She sounded happy about it. Tortles think in long time. I think a stone bed that outlives its sleeper is a joke the mountain tells. I did not say this. I tested one with my weight. It held. It would hold an ox. It would hold me raging. Good bed.
+"There was a normal door. We just walked through one."
 
-Vukradin found another secret door. He finds them without looking. His eyes just go to the wall and the wall gives up. I stood behind him with the halberd in case the wall gave up something else.
+Technically true. The worst kind of true.
 
-It gave up a small room. An empty stone font stuck out of the southwest wall, dry as an old skull. A stone wardrobe against the east wall. Inside the wardrobe, the rotted remains of two suits of red leather armor. Red once. Now the color of old meat. The smell of dust and dead leather.
+"The wisdom of youth. So — are you gonna go through it?"
 
-Valphine looked at them the way she looks at things that used to hurt. Priest clothes, she said. Vestments. Priests of Abbathor wore these. Abbathor. The greedy god. The clothes of greedy priests, and now they were worth nothing. Rot took them. Rot does not care what god you served. I liked that about rot.
+"Whatever, old man. The bed frames—"
 
-"All right? So I do not know that they're worthless?" Vukradin said. He was already leaning toward the door. I know that lean. That lean means running.
+"don't have — old man, old woman, old maid." I have laid eggs on a beach he has never seen. He can have any of the three, so long as it is accurate.
 
-"Okay. But you wouldn't take them, right? So I would like—" Soma started.
+There are no beds in the frames. Maybe there never were. Just rock cut into the idea of a bed, decent repair, nothing to rot and nothing worth prying loose. Dwarven bedding. They're, well.
 
-"—run back, tell the dwarves- ... we found these, these vestments, and they-" Vukradin said. He did not finish. He never finishes when he is excited. The words run ahead of him and he chases them.
+"stone. They'll last forever. That's great."
 
-Then he stopped himself. "Is that, would that be easier if I took a note?"
+We open the secret door. Vukradin attaches himself to the expedition as if it needed announcing. "I'll come with you. Through the secret door."
 
-A note. I watched him hold the question in his hands like it weighed something. Note or run. Run or note. I could have told him. Vukradin does not take notes. Vukradin runs. His whole body is a note he delivers in person.
+Beyond it, a small chamber. An empty stone font juts from the southwest wall, its bowl dry as my elbows. Against the east wall stands a stone wardrobe, and inside it hang the rotted remains of two suits of red leather armor: the hide gone stiff and flaking, the red faded down to old liver. Valphine takes one look and names them. Vestments, once worn by the priests of Abbathor. Ruined now. Worthless.
 
-"I kind of wanted to run back," he said.
+Priests of greed, and their finery did not outlast a wet season underground. The stone beds will last forever. The vestments did not. There is a lesson in that and I am not going to be the one who says it out loud.
 
-And he ran back. Again. Down the hall, past the rubble, back to the archaeologists, to tell dwarves about dead priests' rotten clothes. Third time now. Fourth, maybe. I have lost count. He runs to them like a dog bringing sticks. Every stick is the best stick.
+Vukradin is looking at the armor the way I look at a low cupboard.
 
-I stayed with the font. Empty. Dry. Once it held holy water for greedy men. Now it held nothing, which was honest of it. I thought about the stone beds behind me, lasting forever, waiting for no one.
+"But you wouldn't take them, right? So I would like—"
 
-I leaned on my halberd and listened to his boots getting smaller down the hallway. He would come back. He always comes back. That is the whole point of Vukradin. He runs away and he comes back and I wait.
+"run back, tell the dwarves — we found these vestments, and—"
 
-I could wait a long time in a place like this. The stone does it. I can do it too.
+He could write it down. One list, delivered once, at the end of the day, in a single trip. "Would that be easier if I took a note? No, I'm just saying—"
+
+"I think it'd be funnier if you ran back and forth every time."
+
+"I kind of wanted to run back."
+
+And he goes. Down the hall, through the bed room, past the rubble, all the way back to the excavation, to tell two dwarves about armor that is worth nothing. My bale contains a bard who treats news like a bucket brigade of one.
+
+While he is gone, Valphine takes the chamber apart with her eyes. She runs the bowl of the font, checks the back panel of the wardrobe, the floor joints, the wall behind everything. Thorough, patient, and empty-handed at the end of it. If there were a coin in this room, she would be holding it. There is nothing.
+
+Vukradin comes back, pleased with himself.
+
+"Sure. I've informed them of the vestments."
+
+"Getting tired just watching you run back and forth."
+
+He does not take it as a hint, because I did not put one in it. I voted for this.
+
+<!-- table-speech reclassified: "cleric," -->

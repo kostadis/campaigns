@@ -11,7 +11,7 @@ scene: The Infernal Contract
 focus: Zinnia's spy's eye watches Zephyr strike soul-clauses from the contract and bluntly warns Calmer he's going in too deep.
 
 ## Scene 3
-narrator: sequioa
+narrator: sequoia
 chunks: 1
 scene: The Discovery of Frostbrand
 focus: Sequioa's deep suspicion of the cold sword and his being chosen as its good-aligned bearer make this discovery uniquely his.

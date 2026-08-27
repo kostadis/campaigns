@@ -1,0 +1,1059 @@
+# Transcript corrections — the record the .cleaned.vtt is generated from.
+# CampaignGenerator #250 R4. Edit this file, then run:
+#     sd_corrections apply --dir .
+# `was` is checked against the raw tape on every apply, so a stale entry
+# fails loudly instead of pasting an old repair over new words.
+# `verified: false` means nobody has reviewed this one yet.
+version: 1
+transcript: GMT20260812-035423_Recording.transcript.vtt
+corrections:
+- id: cue-0077
+  cue: 77
+  was: 'Kostadis Roussos: So, where we left our part… where we left our party off, they had a dinner with the Lord Protector to prepare for, a dawn performance, the spire of the Morning Lord to deliver, a private meeting…'
+  now: 'Kostadis Roussos: So, where we left our part… where we left our party off, they had a dinner with the Lord Protector to prepare for, a dawn performance, the spire of the Morninglord to deliver, a private meeting…'
+  recorded: &id001 2026-08-13
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0079
+  cue: 79
+  was: 'Kostadis Roussos: Their next stop would be the Counting House, where a letter of recommendation waited to open doors into the disrupted supply chain of the Lion Shield Coster. Never winter, it seemed, was never going to let them rest. Alright, so the plan was to start with the Lion Shield Koster, if I recall correctly.'
+  now: 'Kostadis Roussos: Their next stop would be the Counting House, where a letter of recommendation waited to open doors into the disrupted supply chain of the Lionshield Coster. Never winter, it seemed, was never going to let them rest. Alright, so the plan was to start with the Lionshield Coster, if I recall correctly.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0085
+  cue: 85
+  was: 'Kostadis Roussos: Lenin, who… Greywind was, had a…'
+  now: 'Kostadis Roussos: Linene, who… Graywind was, had a…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0087
+  cue: 87
+  was: 'Kostadis Roussos: of the Lion Shield coaster, Koster. Now, just to be clear, it''s not a franchise, you know, it''s part of a merchant guild. That''s what we call it these days. And so, she was being… what you learned was that she was being supplied by…'
+  now: 'Kostadis Roussos: of Lionshield Coster, Koster. Now, just to be clear, it''s not a franchise, you know, it''s part of a merchant guild. That''s what we call it these days. And so, she was being… what you learned was that she was being supplied by…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0095
+  cue: 95
+  was: 'Kostadis Roussos: And, she suggested to Brewberry that, you know, perhaps he could go to the counting house to find out, you know, whether there''s anything that could be done about the supply chain issues.'
+  now: 'Kostadis Roussos: And, she suggested to Brewbarry that, you know, perhaps he could go to the counting house to find out, you know, whether there''s anything that could be done about the supply chain issues.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0101
+  cue: 101
+  was: 'Kostadis Roussos: Utgartian barbarians used to be all about, you know, this hack and the slash and the violence and the whatnot. Brewberry wants to make it about the soft bathrobe.'
+  now: 'Kostadis Roussos: Utgartian barbarians used to be all about, you know, this hack and the slash and the violence and the whatnot. Brewbarry wants to make it about the soft bathrobe.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0109
+  cue: 109
+  was: 'Kostadis Roussos: Yeah, I was gonna ask, is the bathrobe over or under the Dragonscale armor?'
+  now: 'Kostadis Roussos: Yeah, I was gonna ask, is the bathrobe over or under the dragon scale armor?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0122
+  cue: 122
+  was: 'David Mendenhall: You could use Mendine.'
+  now: 'David Mendenhall: You could use Mending.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0134
+  cue: 134
+  was: 'Kostadis Roussos: So, I presume you arrive at the counting house. As you arrive at the counting house, Rakuten, of course, is very excited, because he has the, let… he has a con… he has this confront-free letter of credit, don''t forget, that he acquired from'
+  now: 'Kostadis Roussos: So, I presume you arrive at the counting house. As you arrive at the counting house, Vukradin, of course, is very excited, because he has the, let… he has a con… he has this confront-free letter of credit, don''t forget, that he acquired from'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0136
+  cue: 136
+  was: 'David Mendenhall: Crewberry, right?'
+  now: 'David Mendenhall: Brewbarry, right?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0147
+  cue: 147
+  was: 'Stéphane Bourdeaud: I have a letter of introduction to the Counting House that Line gave me.'
+  now: 'Stéphane Bourdeaud: I have a letter of introduction to the Counting House that Linene gave me.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0164
+  cue: 164
+  was: 'Stéphane Bourdeaud: booming voice, and I say, Hello, good folks, I am Brewberry Rootsmasher, Ogolo… no, sorry. OG… Ogonakanu. Yes.'
+  now: 'Stéphane Bourdeaud: booming voice, and I say, Hello, good folks, I am Brewbarry Rootsmasher, Ogolo… no, sorry. OG… Ogonakanu. Yes.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0166
+  cue: 166
+  was: 'Stéphane Bourdeaud: I bring here a letter of introduction from Linen, and I''ve heard that you''re having some trouble with the supply chain, and…'
+  now: 'Stéphane Bourdeaud: I bring here a letter of introduction from Linene, and I''ve heard that you''re having some trouble with the supply chain, and…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0171
+  cue: 171
+  was: 'David Mendenhall: I hear a brewberry.'
+  now: 'David Mendenhall: I hear a Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0199
+  cue: 199
+  was: 'David Mendenhall: Okay, alright, this is Blueberry''s moment. Go for it.'
+  now: 'David Mendenhall: Okay, alright, this is Brewbarry''s moment. Go for it.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0201
+  cue: 201
+  was: 'Stéphane Bourdeaud: This is your… this is your lucky day, Andrew.'
+  now: 'Stéphane Bourdeaud: This is your… this is your lucky day, Aurelan.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0203
+  cue: 203
+  was: 'Stéphane Bourdeaud: Albert, my Albert and my friends here are here to sort out your supply chain problems.'
+  now: 'Stéphane Bourdeaud: My halberd and my friends here are here to sort out your supply chain problems.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0205
+  cue: 205
+  was: 'Stéphane Bourdeaud: Aha, have I been lied to, then? Here''s a letter of introduction by, Linine, whatever her name is. She''s my wealth management.'
+  now: 'Stéphane Bourdeaud: Aha, have I been lied to, then? Here''s a letter of introduction by, Linene, whatever her name is. She''s my wealth management.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0211
+  cue: 211
+  was: 'Kostadis Roussos: Mr. Blueberry, first of all, I think your costume is wonderful, and I really admire the cosplaying of it, but is it…'
+  now: 'Kostadis Roussos: Mr. Brewbarry, first of all, I think your costume is wonderful, and I really admire the cosplaying of it, but is it…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0212
+  cue: 212
+  was: 'Stéphane Bourdeaud: Now, slippery slope here, Andre.'
+  now: 'Stéphane Bourdeaud: Now, slippery slope here, Aurelan.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0220
+  cue: 220
+  was: 'Kostadis Roussos: Oh, Mr. Vukridine? Vukridine?'
+  now: 'Kostadis Roussos: Oh, Mr. Vukradin? Vukradin?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0221
+  cue: 221
+  was: 'David Mendenhall: Yes, I am Vu Kradin, and we are Lathander''s Death.'
+  now: 'David Mendenhall: Yes, I am Vukradin, and we are Lathander''s Death.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0224
+  cue: 224
+  was: 'Kostadis Roussos: But yes, but Mr. Rakuten, I was speaking to Ms… I was speaking to,'
+  now: 'Kostadis Roussos: But yes, but Mr. Vukradin, I was speaking to Ms… I was speaking to,'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0232
+  cue: 232
+  was: 'Kostadis Roussos: Yes, one moment. I do have a piece of paper for you too, Mr. Fukrid, and I''m really delighted that you came by. But let me help Mr. Blueberry first, if that would be okay with you.'
+  now: 'Kostadis Roussos: Yes, one moment. I do have a piece of paper for you too, Mr. Vukradin, and I''m really delighted that you came by. But let me help Mr. Brewbarry first, if that would be okay with you.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0240
+  cue: 240
+  was: 'Kostadis Roussos: Yes, well, so what the letter says is that, you are… that Lynn is saying that she wants us to lend her money so that she can start her business, but she doesn''t describe the nature of the business.'
+  now: 'Kostadis Roussos: Yes, well, so what the letter says is that, you are… that Linene is saying that she wants us to lend her money so that she can start her business, but she doesn''t describe the nature of the business.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0257
+  cue: 257
+  was: 'Kostadis Roussos: He goes, he goes, oh, I see you intend to use LionShield Coster as your shipping agent and business arrangement. Oh, yes, of course, how silly of me. Mrs. Lenain here points out…'
+  now: 'Kostadis Roussos: He goes, he goes, oh, I see you intend to use LionShield Coster as your shipping agent and business arrangement. Oh, yes, of course, how silly of me. Mrs. Linene here points out…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0260
+  cue: 260
+  was: 'Kostadis Roussos: He goes, I''m sorry, he could pause this. He goes, Mr. Blueberry, I wish to apologize. I want you to know that I have no objection to Lionshield Koster''s business, or their interest in… and I''ve done wonderful business with them, but their rights have gone ridiculously up, and I''m afraid that, based on my calculations, and he pulls out, like, you know.'
+  now: 'Kostadis Roussos: He goes, I''m sorry, he could pause this. He goes, Mr. Brewbarry, I wish to apologize. I want you to know that I have no objection to Lionshield Coster''s business, or their interest in… and I''ve done wonderful business with them, but their rights have gone ridiculously up, and I''m afraid that, based on my calculations, and he pulls out, like, you know.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0270
+  cue: 270
+  was: 'Kostadis Roussos: Oh, sorry, he presents a small piece of paper, right? So he scribbles it down, he says, well, I will have to double-check the numbers, but unfortunately, I have to be honest with you, with the margins we expect, even with Millin Lane''s very generous margins and prices, and the cost of moving goods in and out of Fandelin, plus… and he starts going, I don''t think… I feel that the county behind.'
+  now: 'Kostadis Roussos: Oh, sorry, he presents a small piece of paper, right? So he scribbles it down, he says, well, I will have to double-check the numbers, but unfortunately, I have to be honest with you, with the margins we expect, even with Margaster''s very generous margins and prices, and the cost of moving goods in and out of Phandalin, plus… and he starts going, I don''t think… I feel that the county behind.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0284
+  cue: 284
+  was: 'Stéphane Bourdeaud: You''re very perceptive. Andrey.'
+  now: 'Stéphane Bourdeaud: You''re very perceptive. Aurelan.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0285
+  cue: 285
+  was: 'Kostadis Roussos: He goes, but Mr. Blueberry, I wish to inform you that I do have a solution to your problem.'
+  now: 'Kostadis Roussos: He goes, but Mr. Brewbarry, I wish to inform you that I do have a solution to your problem.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0287
+  cue: 287
+  was: 'Kostadis Roussos: You wouldn''t let me… I realize this is very agitated, and I realize you''ve already made business arrangements with… you''ve already made some early business arrangements with Lionel Koster''s agent, Lenain Greywin, but since your business is in production, what I would suggest you do is, instead of using Lineshield Koster for distribution of goods, you reach out to House Margaster. They''re the ones who have managed to reduce the pricing of goods'
+  now: 'Kostadis Roussos: You wouldn''t let me… I realize this is very agitated, and I realize you''ve already made business arrangements with… you''ve already made some early business arrangements with Lionshield Coster''s agent, Linene Graywind, but since your business is in production, what I would suggest you do is, instead of using Lionshield Coster for distribution of goods, you reach out to House Margaster. They''re the ones who have managed to reduce the pricing of goods'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0293
+  cue: 293
+  was: 'Kostadis Roussos: Mr… Mr. Blueberry.'
+  now: 'Kostadis Roussos: Mr… Mr. Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0294
+  cue: 294
+  was: 'Stéphane Bourdeaud: Do I look like a fool, Andre?'
+  now: 'Stéphane Bourdeaud: Do I look like a fool, Aurelan?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0312
+  cue: 312
+  was: 'Kostadis Roussos: No, no, no, no, no, no, no, no, Mr. Blueberry, and Mr. Vukerton, I think your concerns are legitimate, but I… I would be remiss, I would be remiss as… look, if what you wish to do is to borrow.'
+  now: 'Kostadis Roussos: No, no, no, no, no, no, no, no, Mr. Brewbarry, and Mr. Vukradin, I think your concerns are legitimate, but I… I would be remiss, I would be remiss as… look, if what you wish to do is to borrow.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0317
+  cue: 317
+  was: 'Kostadis Roussos: You see, so, so, hold on, Mr. Blueberry, I felt as, as your banker.'
+  now: 'Kostadis Roussos: You see, so, so, hold on, Mr. Brewbarry, I felt as, as your banker.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0319
+  cue: 319
+  was: 'Kostadis Roussos: to offer you a better path. But if you wish to do business with the Lion Shield Koster.'
+  now: 'Kostadis Roussos: to offer you a better path. But if you wish to do business with the Lionshield Coster.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0323
+  cue: 323
+  was: 'Kostadis Roussos: He goes, very well, Mr. Well, Mr. Blueberry.'
+  now: 'Kostadis Roussos: He goes, very well, Mr. Well, Mr. Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0326
+  cue: 326
+  was: 'Stéphane Bourdeaud: You want to be my friend, Andrew.'
+  now: 'Stéphane Bourdeaud: You want to be my friend, Aurelan.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0331
+  cue: 331
+  was: 'Kostadis Roussos: quite significant, but we''ll be able to kickstart your business with… Lineni will be able to kickstart your sheep business.'
+  now: 'Kostadis Roussos: quite significant, but we''ll be able to kickstart your business with… Linene will be able to kickstart your sheep business.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0334
+  cue: 334
+  was: 'Kostadis Roussos: Unfortunately, all I know is that there was some kind of system that Lionel Shield Kosta was using'
+  now: 'Kostadis Roussos: Unfortunately, all I know is that there was some kind of system that Lionshield Coster was using'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0335
+  cue: 335
+  was: 'Kostadis Roussos: that stopped working some time ago for reasons that are obscure and apologetic, but I do not… you''d have to go consult Hausma Gaster if you wanted to learn more. I personally just know that as a result of this sudden change in their shipping methods, the prices of goods shipped by Lionschul Koster has gone up considerably, and their business.'
+  now: 'Kostadis Roussos: that stopped working some time ago for reasons that are obscure and apologetic, but I do not… you''d have to go consult House Margaster if you wanted to learn more. I personally just know that as a result of this sudden change in their shipping methods, the prices of goods shipped by Lionshield Coster has gone up considerably, and their business.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0339
+  cue: 339
+  was: 'Stéphane Bourdeaud: You get it, Andre.'
+  now: 'Stéphane Bourdeaud: You get it, Aurelan.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0341
+  cue: 341
+  was: 'Kostadis Roussos: So just as a timeout, you do have a lead at what else might be broken, so I just want to make sure, like… I''m… Rubberry, I just want the rest of the… Rubberry, I love your…'
+  now: 'Kostadis Roussos: So just as a timeout, you do have a lead at what else might be broken, so I just want to make sure, like… I''m… Brewbarry, I just want the rest of the… Brewbarry, I love your…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0342
+  cue: 342
+  was: 'Stéphane Bourdeaud: We''ve got other things to do. We''ve got, you know, a list of quests to do in every winter, long like my Albert.'
+  now: 'Stéphane Bourdeaud: We''ve got other things to do. We''ve got, you know, a list of quests to do in Neverwinter, long like my halberd.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0424
+  cue: 424
+  was: 'Kostadis Roussos: turns to Vukrudin and says, Mr. Vukriddin, there appears to be a, notice of credit.'
+  now: 'Kostadis Roussos: turns to Vukradin and says, Mr. Vukradin, there appears to be a, notice of credit.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0426
+  cue: 426
+  was: 'Kostadis Roussos: From the Neverwinter Commission, from the Mountain Toes Mine.'
+  now: 'Kostadis Roussos: From the Neverwinter Commission, from the Mountain''s Toe Mine.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0432
+  cue: 432
+  was: 'Stéphane Bourdeaud: And there, again, you''re doing it, Andres, and, you know, pointing people left and right instead of doing it yourself. Why don''t you go.'
+  now: 'Stéphane Bourdeaud: And there, again, you''re doing it, Aurelan, and, you know, pointing people left and right instead of doing it yourself. Why don''t you go.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0435
+  cue: 435
+  was: 'Kostadis Roussos: But because this is unfortunately a different department, Mr. Rubberry, I do loans, they do fulfillment.'
+  now: 'Kostadis Roussos: But because this is unfortunately a different department, Mr. Brewbarry, I do loans, they do fulfillment.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0436
+  cue: 436
+  was: 'Stéphane Bourdeaud: You see my Albert, you see my Axe, there are two different departments as well, you know, and you''re about to.'
+  now: 'Stéphane Bourdeaud: You see my halberd, you see my Axe, there are two different departments as well, you know, and you''re about to.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0439
+  cue: 439
+  was: 'David Mendenhall: Brubbery, Brubbery, he''s not our servant. He''s not a slave.'
+  now: 'David Mendenhall: Brewbarry, Brewbarry, he''s not our servant. He''s not a slave.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0443
+  cue: 443
+  was: 'Kostadis Roussos: He looks at you, he looks… Mr. Rukriddin, I want to thank you. Mr. Brewery, I wish you to know that you have this… the Cabinet House''s full financial support and backing going forward, but I really, unfortunately, cannot supply this information. Mr. Rukridan, I''m happy to walk you over and make the introduction.'
+  now: 'Kostadis Roussos: He looks at you, he looks… Mr. Vukradin, I want to thank you. Mr. Brewbarry, I wish you to know that you have this… the Counting House''s full financial support and backing going forward, but I really, unfortunately, cannot supply this information. Mr. Vukradin, I''m happy to walk you over and make the introduction.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0459
+  cue: 459
+  was: 'Kostadis Roussos: You see the same comedy routine from the Falcon''s… Falcons Lodge.'
+  now: 'Kostadis Roussos: You see the same comedy routine from the Falcon''s… Falcon''s Lodge.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0467
+  cue: 467
+  was: 'Kostadis Roussos: It''s a queue, it''s a small folding table with a velvet rope and a queue of zero purple, which says, Ramardo and Mr. Corrin, Divine Accountants and Occasional entertainers.'
+  now: 'Kostadis Roussos: It''s a queue, it''s a small folding table with a velvet rope and a queue of zero purple, which says, Rimardo and Mr. Corrin, Divine Accountants and Occasional entertainers.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0472
+  cue: 472
+  was: 'Kostadis Roussos: Yes. The, the, the, the Romardo looks at you.'
+  now: 'Kostadis Roussos: Yes. The, the, the, the Rimardo looks at you.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0484
+  cue: 484
+  was: 'Kostadis Roussos: Finally, Romardo picks up one of the papers and looks at it.'
+  now: 'Kostadis Roussos: Finally, Rimardo picks up one of the papers and looks at it.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0492
+  cue: 492
+  was: 'Kostadis Roussos: Finally, Corrin looks… Marta looks at it, looks at you, and says, well, do you have anything to say?'
+  now: 'Kostadis Roussos: Finally, Corrin looks… Rimardo looks at it, looks at you, and says, well, do you have anything to say?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0508
+  cue: 508
+  was: 'Kostadis Roussos: You look at the letter, and it''s actually for 200 gold pieces from the Neverwinner Commission.'
+  now: 'Kostadis Roussos: You look at the letter, and it''s actually for 200 gold pieces from the Neverwinter Commission.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0523
+  cue: 523
+  was: 'Kostadis Roussos: The Neverwork Commission owns the mine.'
+  now: 'Kostadis Roussos: Neverwinter Commission owns the mine.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0589
+  cue: 589
+  was: 'Stéphane Bourdeaud: You know, Andre and Lenin are gonna make me rich, so…'
+  now: 'Stéphane Bourdeaud: You know, Aurelan and Linene are gonna make me rich, so…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0624
+  cue: 624
+  was: 'David Mendenhall: Sir Kalen told me to stay away.'
+  now: 'David Mendenhall: Ser Kaelen told me to stay away.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0629
+  cue: 629
+  was: 'Stéphane Bourdeaud: Other than what, Andre just told me.'
+  now: 'Stéphane Bourdeaud: Other than what, Aurelan just told me.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0656
+  cue: 656
+  was: 'David Mendenhall: Lara Seesong Milamne returns statue from Lighthouse to art collector Neverwinter before House Marcaster attacks us.'
+  now: 'David Mendenhall: Elara Seasong Meliamne returns statue from Lighthouse to art collector Neverwinter before House Margaster attacks us.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0667
+  cue: 667
+  was: 'Kostadis Roussos: Right, so what you''ve discovered about Housemargaster is that they''ve also made an offer to Vukriddin as a more efficient redistributor of lost goods.'
+  now: 'Kostadis Roussos: Right, so what you''ve discovered about House Margaster is that they''ve also made an offer to Vukradin as a more efficient redistributor of lost goods.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0668
+  cue: 668
+  was: 'David Mendenhall: Right, and they made an offer to, Brewberry.'
+  now: 'David Mendenhall: Right, and they made an offer to, Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0670
+  cue: 670
+  was: 'Kostadis Roussos: No, they didn''t make an offer on Blueberry. The banker pointed out that they have the cheapest distribution network these days.'
+  now: 'Kostadis Roussos: No, they didn''t make an offer on Brewbarry. The banker pointed out that they have the cheapest distribution network these days.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0679
+  cue: 679
+  was: 'Stéphane Bourdeaud: So what''s the connection with Linen here and our supply chain?'
+  now: 'Stéphane Bourdeaud: So what''s the connection with Linene here and our supply chain?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0680
+  cue: 680
+  was: 'Kostadis Roussos: So Laneen was trying to… so Laneen… so what happened was you went to the banker, and Laneen was saying, we can arrange it all through Lionale Coster, right? Yeah. There''s… and so the banker being… was trying to be helpful, but Brewberry didn''t want to be helped.'
+  now: 'Kostadis Roussos: So Linene was trying to… so Linene… so what happened was you went to the banker, and Linene was saying, we can arrange it all through Lionshield Coster, right? Yeah. There''s… and so the banker being… was trying to be helpful, but Brewbarry didn''t want to be helped.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0681
+  cue: 681
+  was: 'Kostadis Roussos: this was very comedic, by suggesting that House Bargaster is a cheaper option, but Blueberry showed his loyalty to his tribe.'
+  now: 'Kostadis Roussos: this was very comedic, by suggesting that House Margaster is a cheaper option, but Brewbarry showed his loyalty to his tribe.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0687
+  cue: 687
+  was: 'Kostadis Roussos: Yes, and so that… and so they were trying to put shit… put… they weren''t… they didn''t… they don''t… he didn''t care whether you are or are not gonna work with Housemar Gaster. He''s just pointing out that you would get better rates from them.'
+  now: 'Kostadis Roussos: Yes, and so that… and so they were trying to put shit… put… they weren''t… they didn''t… they don''t… he didn''t care whether you are or are not gonna work with House Margaster. He''s just pointing out that you would get better rates from them.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0688
+  cue: 688
+  was: 'Stéphane Bourdeaud: Okay, that''s a nice story, GM, but you haven''t answered my question. What''s the connection with Linen''s supply chain issue?'
+  now: 'Stéphane Bourdeaud: Okay, that''s a nice story, GM, but you haven''t answered my question. What''s the connection with Linene''s supply chain issue?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0692
+  cue: 692
+  was: 'David Mendenhall: So, Brewberry, let me try to spell it out for you, right? We know that there is this criminal enterprise that is in competition'
+  now: 'David Mendenhall: So, Brewbarry, let me try to spell it out for you, right? We know that there is this criminal enterprise that is in competition'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0725
+  cue: 725
+  was: 'Gary Young: And probably Lord Denver as well.'
+  now: 'Gary Young: And probably Lord Neverember as well.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0757
+  cue: 757
+  was: 'Kostadis Roussos: So, just, just to put, put, brewberry…'
+  now: 'Kostadis Roussos: So, just, just to put, put, Brewbarry…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0764
+  cue: 764
+  was: 'David Mendenhall: Like, if Blueberry wants to do an intimidation, I will back him up and also try to intimidate. My good friend and best fan.'
+  now: 'David Mendenhall: Like, if Brewbarry wants to do an intimidation, I will back him up and also try to intimidate. My good friend and best fan.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0765
+  cue: 765
+  was: 'Stéphane Bourdeaud: Alright, so we go knock on House Mucky.'
+  now: 'Stéphane Bourdeaud: Alright, so we go knock on House Margaster.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0769
+  cue: 769
+  was: 'Kostadis Roussos: introduces himself as Perrin… God, like, why did… why did they pick this name so that I could always be Allogander.'
+  now: 'Kostadis Roussos: introduces himself as Perrin… God, like, why did… why did they pick this name so that I could always be Alagondar.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0771
+  cue: 771
+  was: 'Kostadis Roussos: So, for those of you who recall, the Alliganders were… Lady Alligander was a high-ranking… was a high-ranking family in Neverwinter. None of you would know this, but the more important point was that she was the grave that had the fireballs.'
+  now: 'Kostadis Roussos: So, for those of you who recall, the Alagondars were… Lady Alagondar was a high-ranking… was a high-ranking family in Neverwinter. None of you would know this, but the more important point was that she was the grave that had the fireballs.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0774
+  cue: 774
+  was: 'Kostadis Roussos: Sir Kalen had told you that there was a lead for someone in… when, you know, you wanted to return it to the rightful owners, and the rightful owners, we declared, were,'
+  now: 'Kostadis Roussos: Ser Kaelen had told you that there was a lead for someone in… when, you know, you wanted to return it to the rightful owners, and the rightful owners, we declared, were,'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0775
+  cue: 775
+  was: 'David Mendenhall: Fire and Blood quest. Return the necklace of Fireballs to Alligander, the rightful owner.'
+  now: 'David Mendenhall: Fire and Blood quest. Return the necklace of Fireballs to Alagondar, the rightful owner.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0780
+  cue: 780
+  was: 'Kostadis Roussos: You''re the ones from Fandelin?'
+  now: 'Kostadis Roussos: You''re the ones from Phandalin?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0784
+  cue: 784
+  was: 'Kostadis Roussos: Okay. I''m sorry, my name is Perrin. Perrin Allogander. The recovery office wrote to me. They said you''d found…'
+  now: 'Kostadis Roussos: Okay. I''m sorry, my name is Perrin. Perrin Alagondar. The recovery office wrote to me. They said you''d found…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0809
+  cue: 809
+  was: 'Kostadis Roussos: Alright, he goes… he starts to explain… he starts to articulate how, you know, that the Alliganders used to be the first family of Neverwinter, and that imposter Nevermember, and his lineage has taken the city from them, and imposed,'
+  now: 'Kostadis Roussos: Alright, he goes… he starts to explain… he starts to articulate how, you know, that the Alagondars used to be the first family of Neverwinter, and that imposter Neverember, and his lineage has taken the city from them, and imposed,'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0811
+  cue: 811
+  was: 'Kostadis Roussos: Yes, no, and he''s saying that the necklace is a symbol, a symbol of those who reject the, the… the never-member line, and that with that symbol, he will be able to rally the forces who oppose his dictatorial high-taxation regime.'
+  now: 'Kostadis Roussos: Yes, no, and he''s saying that the necklace is a symbol, a symbol of those who reject the, the… the Neverember line, and that with that symbol, he will be able to rally the forces who oppose his dictatorial high-taxation regime.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0840
+  cue: 840
+  was: 'Kostadis Roussos: Right, right. And we''ve got… we''ve got a turtle, and we''ve got, with the staff of Meryl, and we''ve got a drow cleric of Lathander whose eyes glow with the blessing of Lathander. You''re not exactly inconspicuous.'
+  now: 'Kostadis Roussos: Right, right. And we''ve got… we''ve got a turtle, and we''ve got, with the staff of Meril, and we''ve got a drow cleric of Lathander whose eyes glow with the blessing of Lathander. You''re not exactly inconspicuous.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0851
+  cue: 851
+  was: 'David Mendenhall: And that it belongs to… dun dun dun, Housemarcaster!'
+  now: 'David Mendenhall: And that it belongs to… dun dun dun, House Margaster!'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0856
+  cue: 856
+  was: 'Wade Brown: Which part? The Hausmer Gaster, or the, paper is produced?'
+  now: 'Wade Brown: Which part? The House Margaster, or the, paper is produced?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0859
+  cue: 859
+  was: 'Wade Brown: Sorry, Mark Haster, I keep…'
+  now: 'Wade Brown: Sorry, Margaster, I keep…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0862
+  cue: 862
+  was: 'Kostadis Roussos: Alright, so he produces a piece of paper, that, yes, once again, is sealed with the paperwork of House Margaster, proving that Perrin Alligander is, in fact, the rightful owner of said necklace of fireballs.'
+  now: 'Kostadis Roussos: Alright, so he produces a piece of paper, that, yes, once again, is sealed with the paperwork of House Margaster, proving that Perrin Alagondar is, in fact, the rightful owner of said necklace of fireballs.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0865
+  cue: 865
+  was: 'David Mendenhall: is the one vouching for Alligander. Well, that''s a twist.'
+  now: 'David Mendenhall: is the one vouching for Alagondar. Well, that''s a twist.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0867
+  cue: 867
+  was: 'Kostadis Roussos: and suggest that, you know, that everything is copacetic, everything is completely above board, but if they really… if you really, really insist on making a fuss over this, we could always head over to Housemargaster at our official offices, where we can present to you the full lineage.'
+  now: 'Kostadis Roussos: and suggest that, you know, that everything is copacetic, everything is completely above board, but if they really… if you really, really insist on making a fuss over this, we could always head over to House Margaster at our official offices, where we can present to you the full lineage.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0868
+  cue: 868
+  was: 'Wade Brown: I mean, Rubbery wants to go to the house, right?'
+  now: 'Wade Brown: I mean, Brewbarry wants to go to the house, right?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0883
+  cue: 883
+  was: 'Kostadis Roussos: The guy, the How Smart Gaster guy says, pauses and says, You know.'
+  now: 'Kostadis Roussos: The guy, the House Margaster guy says, pauses and says, You know.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0900
+  cue: 900
+  was: 'Kostadis Roussos: At this point in time, Bonies opens his mouth.'
+  now: 'Kostadis Roussos: At this point in time, Boney opens his mouth.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0903
+  cue: 903
+  was: 'Kostadis Roussos: Don''t forget, Boney was Lady Alligander''s… No, she''s been in the city with you guys, you''re outside, you''re outside. Canonically, you''re outside, right?'
+  now: 'Kostadis Roussos: Don''t forget, Boney was Lady Alagondar''s… No, she''s been in the city with you guys, you''re outside, you''re outside. Canonically, you''re outside, right?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0909
+  cue: 909
+  was: 'Kostadis Roussos: And looks at him and says, and says, you are a member of the Alliganders?'
+  now: 'Kostadis Roussos: And looks at him and says, and says, you are a member of the Alagondars?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0912
+  cue: 912
+  was: 'Wade Brown: from the Alliant.'
+  now: 'Wade Brown: from the Alagondars.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0918
+  cue: 918
+  was: 'Kostadis Roussos: all of the facts. On top of which, Boney knows the fact that the necklace wasn''t stolen until very recently, when a certain Vukridin decided to return it, and so Perrin''s story has some holes in it.'
+  now: 'Kostadis Roussos: all of the facts. On top of which, Boney knows the fact that the necklace wasn''t stolen until very recently, when a certain Vukradin decided to return it, and so Perrin''s story has some holes in it.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0920
+  cue: 920
+  was: 'Wade Brown: You get them, Bony.'
+  now: 'Wade Brown: You get them, Boney.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0922
+  cue: 922
+  was: 'Kostadis Roussos: Voney is very skeptical about the authenticity of this alligander''s claim to, being the rightful owner of said necklace, and is very dubious about the claims about how it got lost and whatnot.'
+  now: 'Kostadis Roussos: Boney is very skeptical about the authenticity of this Alagondar''s claim to, being the rightful owner of said necklace, and is very dubious about the claims about how it got lost and whatnot.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0948
+  cue: 948
+  was: 'Stéphane Bourdeaud: 22 House Muccaster, okay.'
+  now: 'Stéphane Bourdeaud: 22 House Margaster, okay.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0957
+  cue: 957
+  was: 'Kostadis Roussos: Bonia pauses and says, Mr. Brewberry… no, he goes, Brewberry, Brewberry, Brewberry Bird. I simply can point out that there are holes in the story. I can''t really say whether he is or is not. I did not… I… as you know, I was… spent some time in a tomb.'
+  now: 'Kostadis Roussos: Boney pauses and says, Mr. Brewbarry… no, he goes, Brewbarry, Brewbarry, Brewbarry Bird. I simply can point out that there are holes in the story. I can''t really say whether he is or is not. I did not… I… as you know, I was… spent some time in a tomb.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0958
+  cue: 958
+  was: 'Stéphane Bourdeaud: Yes, Bunny, do you know who the necklace belongs to? Yes or no?'
+  now: 'Stéphane Bourdeaud: Yes, Boney, do you know who the necklace belongs to? Yes or no?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0959
+  cue: 959
+  was: 'Kostadis Roussos: I belong to Lady Algander, and if he indeed is a member of the Algander clan, it is entirely possible that he has a rightful claim to it. And therefore, and all of a sudden, you realize that Boney, among many of his other unbelievably cute traits, is a… is a… obsessed about lineages and parents, and, like, grandparents, and.'
+  now: 'Kostadis Roussos: I belong to Lady Alagondar, and if he indeed is a member of the Alagondar clan, it is entirely possible that he has a rightful claim to it. And therefore, and all of a sudden, you realize that Boney, among many of his other unbelievably cute traits, is a… is a… obsessed about lineages and parents, and, like, grandparents, and.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0974
+  cue: 974
+  was: 'Stéphane Bourdeaud: I understand the motivation, you have to explain to me the logistics of it. I don''t know how Bony Hawes can do some research in books and stuff.'
+  now: 'Stéphane Bourdeaud: I understand the motivation, you have to explain to me the logistics of it. I don''t know how Boney horse can do some research in books and stuff.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0978
+  cue: 978
+  was: 'Wade Brown: Yes. I realize Lady Alligander married to Pengro, you know, whatever.'
+  now: 'Wade Brown: Yes. I realize Lady Alagondar married to Pengro, you know, whatever.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0979
+  cue: 979
+  was: 'Kostadis Roussos: Alright. Okay, so what… so you have a couple of choices. We can take… you can take the knight and go back, or you want to go head straight to House Smergaster.'
+  now: 'Kostadis Roussos: Alright. Okay, so what… so you have a couple of choices. We can take… you can take the knight and go back, or you want to go head straight to House Margaster.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0993
+  cue: 993
+  was: 'Gary Young: Add to your character Elvin Chainmail.'
+  now: 'Gary Young: Add to your character elven chain mail.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-0997
+  cue: 997
+  was: 'Stéphane Bourdeaud: Alvin Chanmail.'
+  now: 'Stéphane Bourdeaud: Elven chain mail.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1000
+  cue: 1000
+  was: 'Stéphane Bourdeaud: Manage inventory… Items… Eleven… Jane mail…'
+  now: 'Stéphane Bourdeaud: Manage inventory… Items… Elven… chain mail…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1014
+  cue: 1014
+  was: 'Kostadis Roussos: Meanwhile, you know, the fact that you''re dressed like Blueberry and acting like a barbarian is, like, not causing anybody, like, but, you know, there''s a bunch of Blueberry lookalikes who are, like, really impressed with your commitment to the bit.'
+  now: 'Kostadis Roussos: Meanwhile, you know, the fact that you''re dressed like Brewbarry and acting like a barbarian is, like, not causing anybody, like, but, you know, there''s a bunch of Brewbarry lookalikes who are, like, really impressed with your commitment to the bit.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1077
+  cue: 1077
+  was: 'Kostadis Roussos: says, well, it''s quite clear here, right? And he shows you… he pulls out the book, which is titled Genealogy of the Alliganders.'
+  now: 'Kostadis Roussos: says, well, it''s quite clear here, right? And he shows you… he pulls out the book, which is titled Genealogy of the Alagondars.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1079
+  cue: 1079
+  was: 'Kostadis Roussos: of coordinating between three different sources of conflicting evidence with different provenance, and you can clearly see that Perrin Alligander is, in fact, a descendant, a rightful descendant, of Lady Alligander, and that if this is indeed stolen goods, as,'
+  now: 'Kostadis Roussos: of coordinating between three different sources of conflicting evidence with different provenance, and you can clearly see that Perrin Alagondar is, in fact, a descendant, a rightful descendant, of Lady Alagondar, and that if this is indeed stolen goods, as,'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1081
+  cue: 1081
+  was: 'David Mendenhall: No, I got that, I agree. But how do I know he''s Paranalegander?'
+  now: 'David Mendenhall: No, I got that, I agree. But how do I know he''s Perrin Alagondar?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1085
+  cue: 1085
+  was: 'Kostadis Roussos: the guy who holds the paperwork. Well, we have… there''s a very simple solution, Mr. Vukerton, and this is a very common problem that we''ve seen with many folks in Neverwinter, when they''re making these kinds of deals. And this is, by the way.'
+  now: 'Kostadis Roussos: the guy who holds the paperwork. Well, we have… there''s a very simple solution, Mr. Vukradin, and this is a very common problem that we''ve seen with many folks in Neverwinter, when they''re making these kinds of deals. And this is, by the way.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1088
+  cue: 1088
+  was: 'Kostadis Roussos: This is why Housemargaster acts as the honest broker on the return of such goods.'
+  now: 'Kostadis Roussos: This is why House Margaster acts as the honest broker on the return of such goods.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1109
+  cue: 1109
+  was: 'David Mendenhall: our casters. Brewberry. We''re gonna remember the intimidation?'
+  now: 'David Mendenhall: our casters. Brewbarry. We''re gonna remember the intimidation?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1127
+  cue: 1127
+  was: 'Gary Young: You know, we have yet to take over the Spire of the Morning Lord to have more allies, just noting that.'
+  now: 'Gary Young: You know, we have yet to take over the Spire of the Morninglord to have more allies, just noting that.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1146
+  cue: 1146
+  was: 'Kostadis Roussos: that the… that this building has been shut down till further notice, by order of Lord Nevermember.'
+  now: 'Kostadis Roussos: that the… that this building has been shut down till further notice, by order of Lord Neverember.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1151
+  cue: 1151
+  was: 'Stéphane Bourdeaud: Okay, does this Barry guy know anything about this? Why, why did they close down this establishment? This fine establishment, I might add.'
+  now: 'Stéphane Bourdeaud: Okay, does this Perrin guy know anything about this? Why, why did they close down this establishment? This fine establishment, I might add.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1157
+  cue: 1157
+  was: 'Wade Brown: How convenient for Horace McCaster, isn''t it?'
+  now: 'Wade Brown: How convenient for House Margaster, isn''t it?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1168
+  cue: 1168
+  was: 'Kostadis Roussos: The Neverwinter Commission, you could ask about the Never Work Commission, but we can keep going. Alright.'
+  now: 'Kostadis Roussos: The Neverwinter Commission, you could ask about the Neverwinter Commission, but we can keep going. Alright.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1183
+  cue: 1183
+  was: 'Kostadis Roussos: Alright, so you''re at the Margasters Logistic Operations Eastern Cay.'
+  now: 'Kostadis Roussos: Alright, so you''re at the Margasters Logistic Operations Eastern Quay.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1198
+  cue: 1198
+  was: 'Kostadis Roussos: Yeah, so very, very, very impressively cleaned and organized. On the other hand, Valfide, who''s,'
+  now: 'Kostadis Roussos: Yeah, so very, very, very impressively cleaned and organized. On the other hand, Valphine, who''s,'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1203
+  cue: 1203
+  was: 'Kostadis Roussos: And, she notices that there''s all sorts of Lion Shield labeled goods.'
+  now: 'Kostadis Roussos: And, she notices that there''s all sorts of Lionshield labeled goods.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1205
+  cue: 1205
+  was: 'Gary Young: Oh, Lion Shield.'
+  now: 'Gary Young: Oh, Lionshield.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1206
+  cue: 1206
+  was: 'Kostadis Roussos: Yeah, Lion Shield Coster Goods.'
+  now: 'Kostadis Roussos: Yeah, Lionshield Coster Goods.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1207
+  cue: 1207
+  was: 'Kostadis Roussos: That clearly Housemark… right, so Housemart Gaster…'
+  now: 'Kostadis Roussos: That clearly House Margaster… right, so House Margaster…'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1211
+  cue: 1211
+  was: 'Kostadis Roussos: So essentially, how Smartgaster is now moving… so LionShield didn''t have a move… didn''t have a transportation service, because they relied on their displacement device, so now they''re being forced to pay money to have the goods moved.'
+  now: 'Kostadis Roussos: So essentially, how House Margaster is now moving… so LionShield didn''t have a move… didn''t have a transportation service, because they relied on their displacement device, so now they''re being forced to pay money to have the goods moved.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1234
+  cue: 1234
+  was: 'Kostadis Roussos: Again… All right, so, again, and then your favorite guy, Colin Sharp, walks up.'
+  now: 'Kostadis Roussos: Again… All right, so, again, and then your favorite guy, Cullen Sharpe, walks up.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1244
+  cue: 1244
+  was: 'Kostadis Roussos: Lord Cassian, so Cullen Sharp is very happy to see you.'
+  now: 'Kostadis Roussos: Lord Cassian, so Cullen Sharpe is very happy to see you.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1269
+  cue: 1269
+  was: 'Kostadis Roussos: Mr. Vukradin, I''m so delighted to see you. Oh, and Mr. Perrin, I hope everything is going… that the letter of introduction we provided was sufficient, the evidence, and then he turns to you and says, Mr. Vukridin, I wish, I hope you see from how we manage that we are very good at solving one of the problems.'
+  now: 'Kostadis Roussos: Mr. Vukradin, I''m so delighted to see you. Oh, and Mr. Perrin, I hope everything is going… that the letter of introduction we provided was sufficient, the evidence, and then he turns to you and says, Mr. Vukradin, I wish, I hope you see from how we manage that we are very good at solving one of the problems.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1270
+  cue: 1270
+  was: 'Kostadis Roussos: that Sir Kalen suggested you might have when he reached out to us through one of our agents, that perhaps we could provide the connecting tissue between your fines and the real proprietaires using our, you know, patented system.'
+  now: 'Kostadis Roussos: that Ser Kaelen suggested you might have when he reached out to us through one of our agents, that perhaps we could provide the connecting tissue between your fines and the real proprietaires using our, you know, patented system.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1272
+  cue: 1272
+  was: 'David Mendenhall: So, Brewberry, let''s do some intimidation.'
+  now: 'David Mendenhall: So, Brewbarry, let''s do some intimidation.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1274
+  cue: 1274
+  was: 'David Mendenhall: What''d you get, Brewberry?'
+  now: 'David Mendenhall: What''d you get, Brewbarry?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1279
+  cue: 1279
+  was: 'Wade Brown: Rakuten.'
+  now: 'Wade Brown: Vukradin.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1299
+  cue: 1299
+  was: 'Stéphane Bourdeaud: So you said his name was Colin Sharp.'
+  now: 'Stéphane Bourdeaud: So you said his name was Cullen Sharpe.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1305
+  cue: 1305
+  was: 'Kostadis Roussos: he''s not intimidated by you, but he simply points as, my dear friend, Mr. Blueberry, can I call your friend?'
+  now: 'Kostadis Roussos: he''s not intimidated by you, but he simply points as, my dear friend, Mr. Brewbarry, can I call your friend?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1307
+  cue: 1307
+  was: 'Kostadis Roussos: Yes, we''re all friends. So, my friend Blueberry. The device you''re referring to is, was run by, House,'
+  now: 'Kostadis Roussos: Yes, we''re all friends. So, my friend Brewbarry. The device you''re referring to is, was run by, House,'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1337
+  cue: 1337
+  was: 'David Mendenhall: But you''re deceiving them. Is that what''s going on, Burberry? Sidebar?'
+  now: 'David Mendenhall: But you''re deceiving them. Is that what''s going on, Brewbarry? Sidebar?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1366
+  cue: 1366
+  was: 'Kostadis Roussos: Okay, so that''s what you want. Alright, so… and how SmartGaster is suggesting that you can hand over the necklace of fireballs to them for safekeeping, and you''ve decided not to go down that route.'
+  now: 'Kostadis Roussos: Okay, so that''s what you want. Alright, so… and how House Margaster is suggesting that you can hand over the necklace of fireballs to them for safekeeping, and you''ve decided not to go down that route.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1390
+  cue: 1390
+  was: 'Kostadis Roussos: Mr. Sharp says, Mr, the gentlemen… the gentlemen are sticklers for ritual and control in how Smargaster''s business is to make sure that the customer is satisfied, and we will provide all the information.'
+  now: 'Kostadis Roussos: Mr. Sharp says, Mr, the gentlemen… the gentlemen are sticklers for ritual and control in how Margaster''s business is to make sure that the customer is satisfied, and we will provide all the information.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1398
+  cue: 1398
+  was: 'David Mendenhall: I mean, so he''s not a cheap fraud. Alligander has allied with Mercaster.'
+  now: 'David Mendenhall: I mean, so he''s not a cheap fraud. Alagondar has allied with Margaster.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1410
+  cue: 1410
+  was: 'Stéphane Bourdeaud: That stuff, we want witnesses, and witnesses that aren''t in House Marghastor''s pocket.'
+  now: 'Stéphane Bourdeaud: That stuff, we want witnesses, and witnesses that aren''t in House Margaster''s pocket.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1414
+  cue: 1414
+  was: 'David Mendenhall: I thought we were gonna meet at, Housemarcaster.'
+  now: 'David Mendenhall: I thought we were gonna meet at, House Margaster.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1415
+  cue: 1415
+  was: 'Kostadis Roussos: No, you are in How Smart Gaster.'
+  now: 'Kostadis Roussos: No, you are in House Margaster.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1416
+  cue: 1416
+  was: 'Gary Young: We''re gonna meet at the Church of Oathander after the sermon.'
+  now: 'Gary Young: We''re gonna meet at the Church of Lathander after the sermon.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1423
+  cue: 1423
+  was: 'Kostadis Roussos: All right. Okay, so, so, so, you tell Perrin we''ll meet after the church service at the Spire of the Morning Lord, is that what I''m hearing?'
+  now: 'Kostadis Roussos: All right. Okay, so, so, so, you tell Perrin we''ll meet after the church service at the Spire of the Morninglord, is that what I''m hearing?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1428
+  cue: 1428
+  was: 'Kostadis Roussos: All right, okay, so Perrin is very happy to do that. He explains that he, too, is a… although not a exclusive worshipper of the Morning Lord, is a big believer in the morning lords, and he starts talking about the, you know, mourning Lord as a god of good, etc, etc, etc.'
+  now: 'Kostadis Roussos: All right, okay, so Perrin is very happy to do that. He explains that he, too, is a… although not a exclusive worshipper of the Morninglord, is a big believer in the morning lords, and he starts talking about the, you know, mourning Lord as a god of good, etc, etc, etc.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1433
+  cue: 1433
+  was: 'Stéphane Bourdeaud: He was also an agent of Hasmicaster, right?'
+  now: 'Stéphane Bourdeaud: He was also an agent of House Margaster, right?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'
+- id: cue-1437
+  cue: 1437
+  was: 'Stéphane Bourdeaud: who is not with House Mach Astro, and we need to align with those people, just in case, I think.'
+  now: 'Stéphane Bourdeaud: who is not with House Margaster, and we need to align with those people, just in case, I think.'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-08-13; GM-confirmed mapping'

@@ -1,0 +1,136 @@
+consistency_check:
+  timestamp: "2026-08-26T21:45:00-07:00"
+  campaign: "out-of-the-abyss (Out of the Abyss, modified)"
+  document_checked: "summaries/20260824/session_2026_08_24_session_2026_08_24.md"
+  document_class: "first-pass recap (GMAssistant export; footer 'Exported from GMAssistant on 2026-08-27'). GM confirmed in-session that this file IS the stage-0 gm-assist artifact for Ch65 — the session dir has no gm-assist.md, session-summary.md, scene_extractions/ or narration/."
+  report: "summaries/20260824/consistency_report_stage0_gmassist.md"
+  config: "config/config.yaml"
+  model: "claude-opus-5"
+  backend: "claude-code"
+  issues_found: 25
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-24"
+  chapter: 65
+  review_mode: "artifact (batch) — GM chose at Phase 0a"
+  artifact: "https://claude.ai/code/artifact/0b760107-999b-44cd-a074-731d0a0bd26a"
+  staged_run_note: |
+    Stage 0 only. Stages 1-3 do not exist for this session: no session-summary.md,
+    no scene_extractions/, no narration/. The staged pattern therefore collapses to a
+    single-stage run this round, and the stage-2 verbatim-quote layer — the one this
+    skill exists for — was NOT exercised. Re-run /staged-consistency after the CG
+    pipeline produces the downstream artifacts.
+  speaker_map: |
+    Kostadis Roussos = GM (667 cues). Ben Pfaff (173), Daz (128), Joe Beda (125),
+    Gabriel Tarasuk-Levin (96). Derived from the raw VTT speaker labels, not assumed
+    from campaign docs. No non-table speakers present.
+    PC mapping used for adjudication: Joe Beda = Thorin, Gabriel Tarasuk-Levin = Zalthir.
+    Grygum and Daz appear as their own labels in the cleaned VTT.
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard); known stale at level 8" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard); extended by the 2026-08-26 /vtt-spell-pass on this session" }
+      - { path: notes/vtt_known_additions.md, role: "names confirmed real but not yet promoted to the registry" }
+      - { path: notes/session_prep/20260824_worth_two_faces.md, role: "session prep, authoritative (GM-selected)" }
+      - { path: notes/sessions/candlekeep_day_four.md, role: "verbatim source for the four Echoes, riddle text, threshold (GM-selected)" }
+      - { path: notes/session_prep/20260810_race_to_the_vile_door.md, role: "Manshoon build and the Track; prep says do not re-derive (GM-selected)" }
+  notes: |
+    entity_registry.yaml was passed explicitly via --context: canonical_context_section()
+    resolves against base_dir, which is config/ for this workspace, so the registry is NOT
+    auto-loaded here despite living at docs/entity_registry.yaml.
+    No auto-continuation warning; report body ends cleanly with the priority table and
+    25 contiguously-numbered sections.
+    Report banner said "Found N potential issue(s)" via the **Location** literal; the body
+    count (25, grepped as '^## [0-9]') is the figure used.
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-27"
+    review_artifact: "https://claude.ai/code/artifact/0b760107-999b-44cd-a074-731d0a0bd26a (saved 2026-08-27 05:03 UTC; 11 decided — 6 approve, 5 discuss, 0 reject)"
+    gm_rulings_this_run:
+      - "s0-06: 'Did not do counterspell.' Overrides the tape's 01:31:46 'He burns the counterspell' — which the GM was already walking back one cue later ('Yeah, no, no, I'm trying to…'). The slot is unspent."
+      - "s0-11: 'Level 9.'"
+      - "post-review, 2026-08-27: 'the phantasmal killer damage was taken.' Manshoon made the save (17) AND took 13 psychic damage. Overrides the RAW reading of Phantasmal Killer, under which a successful save deals nothing — the GM outranks the PHB at their own table. Matches Daz's own call on tape at 01:32:17: 'he still took 4… er, 13 points of psychic damage.'"
+      - "s0-04: 'Dust was never purchased the mechanism was' — the party carries the modron mechanism/tools, not the dust."
+      - "s0-05: 'They had the name.' The party holds Vydykyq. The dragon's appearance was an improvisation covering a skipped scene (Manshoon marching through the wards)."
+      - "s0-07: first simulacrum goes down to soften the party; second wants into the vault and will stay and fight there."
+    applied:
+      - { finding: s0-01, verdict: approve, fix: "Cut all Chapter 64 material harvested from the GM's read-aloud: Summary paragraphs 1-4; Scenes 'Decoding the Cryptogram', 'Gathering the Components', 'The Descent and the Trap'; Locations Investigator's Office / Founders Court / House of Alaundo / Hall of Momentous Deeds / The Grove / House of Mechanus; NPCs A'lai Aivenmore / Sylvira Savikas / Kalan Strongbranch / Spanner; Items Key to the Inner Sanctum / Statue of Alaundo; the ink-pot Memorable Moment; the Telekinesis spell entry. Document 260 -> 172 lines. The recap now opens where play opened, with Thorin in free fall." }
+      - { finding: s0-02, verdict: approve, fix: "Reader attribution corrected Daz -> Grygum in Summary, the dragon scene, and the dragon's NPC entry (3 places)." }
+      - { finding: s0-03, verdict: approve, fix: "Manshoon named a simulacrum in the scene heading, a scene bullet, the Summary and the NPC entry (renamed 'Manshoon (simulacrum)'), with the party's ignorance of it recorded explicitly." }
+      - { finding: s0-08, verdict: approve, fix: "Edvaldo Sedanur's NPC entry softened to observed behaviour; 'Avowed' and the Candlekeep-history specialism now presented as his claim, and the 500-ft tower figure marked as unconfirmed." }
+      - { finding: s0-09, verdict: approve, fix: "Riddle line 5 named in the dragon scene; Grygum recorded as the verified Reader." }
+      - { finding: s0-10, verdict: approve, fix: "Moot on application — the 'Key to the Inner Sanctum' Items entry was inside the s0-01 cut and went with it." }
+      - { finding: s0-11, verdict: "discuss -> applied per note", fix: "'Party level: 9' added to the document header." }
+      - { finding: "s0-06 follow-up", verdict: "GM ruling post-review", fix: "13 psychic damage recorded as taken in Summary, the scene bullet, the Manshoon NPC entry and the Phantasmal Killer spell entry. The save still stands as made; the damage is a GM ruling over RAW." }
+      - { finding: s0-04, verdict: "discuss -> applied per note", fix: "Items entry retitled 'Dust of Mechanus — NOT obtained'; records that the party never got the dust and carries the modron mechanism as the GM-ruled substitute for riddle line 4." }
+      - { finding: s0-05, verdict: "discuss -> applied per note", fix: "NPC entry retitled 'Miirym, the Sentinel Wyrm — the Spectral Silver Dragon', true name Vydykyq named and tied back to the Ch64 riddle answer. The GM's improvisation (skipped wards scene) recorded as an inline GM note in the scene." }
+      - { finding: s0-06, verdict: "discuss -> applied per note", fix: "Counterspell reversed to NOT cast, in the scene bullets, the Summary, and the Counterspell spell entry; the unspent slot noted against the simulacra's inability to regain slots. Phantasmal Killer recorded as saved against (8 + 9 Wisdom = 17)." }
+      - { finding: s0-07, verdict: "discuss -> applied per note", fix: "Second concealed simulacrum recorded in a scene bullet and in the Manshoon NPC entry, together with the GM's stated shape for the fight." }
+      - { finding: mechanical, verdict: auto-applied, fix: "13 proper-noun corrections across 9 name classes before the review: A'lai Aivenmore, Sylvira Savikas, Kalan Strongbranch, Alaundo, Mechanus, Founders Court, Orrery, Sentinel Wyrm, Miirym, The Grove. 'Mechanist Tools' deliberately left alone (coinage, not a garble)." }
+      - { finding: consequential, verdict: auto-applied, fix: "Glabbagool's NPC entry said he 'was left as collateral at the House of Mechanus' while the same document has him falling down the shaft. Corrected to 'promised as collateral — the study deferred until after the descent', per the tape at 00:18:49 and summaries/20260817/session-summary.md:14. Surfaced to the GM, not carded: it is a contradiction the s0-01 cut exposed." }
+    rejected:
+      - finding: "report #22 (holy triumvirate)"
+        ruling: "Rejected on the tape, not put to the GM."
+        rationale: "'Which holy, triumvirate patron, the great library!' is the GM's own phrasing at 01:04:52. Register difference, not an error."
+      - finding: "report #9 (fall distances)"
+        ruling: "Rejected on the tape, not put to the GM."
+        rationale: "GM at 00:38-ish: 'you drop another thousand feet, 500 feet, and then you hit a featherfall zone.' Grygum twice says '1500 feet below'. 500 + 1,000 = ~1,500 is internally consistent; prep's 1,000-ft shaft is superseded by play."
+      - finding: "report #18 (destroyed owlbear on the threshold)"
+        ruling: "Rejected on the tape, not put to the GM."
+        rationale: "GM: 'you head back into the obsidian, into the library... you notice that there is a damaged owlbear on the floor' / 'Manshoon apparently destroyed the owlbear, and a new owlbear.' The recap's placement is right; prep's threshold placement is superseded. The designed beak trophy was never mentioned at the table."
+  vtt_adjudicated: |
+    The VTT was read by hand and was NOT a --context input.
+
+    THE STRUCTURAL FINDING (s0-01) came entirely from the tape and was not in the
+    report. At 00:13:33 the GM says "I've, I've prepared that. Let me just go…" and
+    reads prepared narrative prose until 00:19:54 ("as the darkness swallowed him
+    whole"). At 00:19:59 he supplements it — "it wasn't in the summary, but you've
+    also taken one of the avowed." Play begins 00:21:30: "Alright, okay, so you are
+    falling. That is your problem." The prose read aloud is
+    summaries/20260817/session-summary.md:10-14 essentially word-for-word. The
+    GMAssistant exporter harvested the spoken recap as this session's events.
+    Corroborated three ways: ch64's own scene list already covers those beats; ch65
+    prep opens "Thorin is in free fall"; and a player asks mid-read "What did I
+    observe? I don't remember."
+
+    CONSEQUENCE FOR THE REPORT: every spelling finding it raised (#1,#3,#4,#5,#6,
+    #10,#11,#12,#13,#25) was ASR damage to the GM's own already-corrected ch64 text.
+    The correct fix was excision, not repair — a materially different action from
+    the one the report recommended.
+
+    s0-02 (Reader) was missed by the check entirely and found on the tape: GM asks
+    "one of you is the reader, the rest of you are witness. Which is which?";
+    Grygum: "I have a feeling it was me, but I don't remember for sure."; GM: "It
+    was you, actually."; Grygum: "Alright, I am the reader." He then proves
+    knowledge and she answers "very well, reader!" The report had accepted the
+    recap's "Daz" and built its own finding #17 on top of it.
+
+    MY OWN MID-RUN CORRECTION: I first read 01:31:46 ("He burns the counterspell")
+    as settling s0-06 in favour of the Scenes block. The GM ruled "Did not do
+    counterspell", which is consistent with the walk-back one cue later that I had
+    noted but under-weighted. The GM's ruling stands; the tape line was a thought
+    in progress, not a resolution.
+
+    Scene-7 attributions otherwise verified correct: hearth = Daz (01:00:12),
+    Bahamut = Grygum (01:11:xx), boon = anti-magic 30 ft / 10 min.
+    "simulacrum" occurs ZERO times on tape and "snow" zero times; the GM says plain
+    "Manshoon" all 11 times, so the reveal prep called for did not happen at the table.
+  carry_forward:
+    - status: DONE
+      item: "Phantasmal Killer damage: GM ruled 2026-08-27 that 'the phantasmal killer damage was taken'. Recorded as 13 psychic damage in 4 places, alongside the successful save. This CLOSES the open item and REVERSES this run's initial inference (save-made therefore no damage), which had been flagged as inference, not ruling."
+    - status: OPEN
+      item: "GMAssistant harvests the GM's spoken session-opening recap as new play. This will recur every session the GM reads a recap aloud. Either stop reading it on-mic, mark the span, or trim the export's input to start at the first line of live play. This is the root cause of ~half this run's findings."
+    - status: OPEN
+      item: "docs/party.md says level 8; GM ruled level 9. party.md is a CampaignGenerator output — regenerate with party.py, do not hand-edit. Until then every consistency run re-fires level-based false positives."
+    - status: OPEN
+      item: "Limniz and Edvaldo Sedanur are GM-approved canon (2026-08-26 /vtt-spell-pass) but have no entity_registry.yaml entry. Ready for /entity-triage promotion. Vydykyq likewise has no registry entry though Miirym does."
+    - status: NOTE
+      item: "Stages 1-3 were not run: this session has no session-summary.md, no scene_extractions/, no narration/. The stage-2 verbatim-quote layer — the layer this skill exists for — has NOT been exercised for Ch65. Re-run /staged-consistency once the CG pipeline produces them."
+    - status: NOTE
+      item: "The designed Iron Owlbear beak trophy (prep: 'it would come away with one good wrench') was never mentioned at the table and was not claimed."
+    - status: CORRECTION
+      item: "Prep's 1,000-ft feather-fall shaft and threshold placement of the destroyed owlbear are both superseded by play (1,500 ft total; owlbear inside). Future prep should not re-derive them from candlekeep_day_four.md."

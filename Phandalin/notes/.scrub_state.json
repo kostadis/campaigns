@@ -1,0 +1,51 @@
+{
+  "ignored": [
+    "10 feet",
+    "100 feet",
+    "We'll have to have a slight sidebar. I don't know, what name do you guys want?",
+    "Ser Kaelen paused. Sidebar, sidebar.",
+    "Sidebar. Does the Order of the Gauntlet get a share, or is this only strictly for the citizens of Phandalin?",
+    "seven feet"
+  ],
+  "rules": [
+    {
+      "match": "you can ask the GM, whether it helps",
+      "replacement": "no telling whether it helps",
+      "category": "table_speak"
+    }
+  ],
+  "processed": [
+    "summaries/20260729/narration/session_doc_scene_01_factions_and_fame_in_neverwinter.md",
+    "summaries/20260729/narration/session_doc_scene_02_past_the_common_chord.md",
+    "summaries/20260729/narration/session_doc_scene_03_arrival_at_the_moonstone_mask.md",
+    "summaries/20260729/narration/session_doc_scene_04_lord_cassian_and_the_performance.md",
+    "summaries/20260729/narration/session_doc_scene_05_the_statue_returned_a_quest_begun.md",
+    "summaries/20260729/narration/session_doc_scene_06_the_margaster_shakedown.md",
+    "summaries/20260729/narration/session_doc_scene_07_a_summons_from_the_lord_protector.md",
+    "summaries/20260623/narration/session_doc_scene_01_return_to_phandalin.md",
+    "summaries/20260623/narration/session_doc_scene_02_a_hero_s_welcome_at_stonehill_inn.md",
+    "summaries/20260623/narration/session_doc_scene_03_the_universal_basic_treasure_proclamation.md",
+    "summaries/20260623/narration/session_doc_scene_04_cheese_business_plans_and_departure_preparations.md",
+    "summaries/20260623/narration/session_doc_scene_05_arrival_in_neverwinter.md",
+    "summaries/20260623/narration/session_doc_scene_06_the_exotic_armorer_of_neverwinter.md",
+    "summaries/20260623/scene_extractions_smoothed/03_the_universal_basic_treasure_proclamation.md",
+    "summaries/20260811/narration/session_doc_scene_01_bathrobe_speech_to_empty_room.md",
+    "summaries/20260811/narration/session_doc_scene_02_bullying_through_the_loan.md",
+    "summaries/20260811/narration/session_doc_scene_03_rimardo_audits_the_moral_economy.md",
+    "summaries/20260811/narration/session_doc_scene_04_naming_the_margaster_sabotage.md",
+    "summaries/20260811/narration/session_doc_scene_05_perrin_claims_the_necklace.md",
+    "summaries/20260811/narration/session_doc_scene_06_title_insurance_at_the_notary.md",
+    "summaries/20260811/narration/session_doc_scene_07_the_shuttered_displacement_manifold.md",
+    "summaries/20260811/narration/session_doc_scene_08_cullen_sharpe_at_the_quay.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_01_ambush_at_the_blood_stained_altar.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_02_battle_with_the_ochre_jellies.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_03_archaeologists_and_altars.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_04_the_skull_cavity.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_05_exploring_the_stone_bedrooms.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_06_the_priest_s_remains.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_07_ambush_behind_the_altar.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_08_the_hall_of_greed.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_09_amateur_archaeologists.md",
+    "summaries/20250528-chapter-03-new/narration/session_doc_scene_10_ambush_on_the_road.md"
+  ]
+}

@@ -1,6 +1,6 @@
 # Veyra of the Blue Candle
 
-**Sidekick** — tiefling mage, neutral good. Arcane support, obelisk researcher, puzzle-solver for Zenvon Foreput.
+**Sidekick** — tiefling mage, neutral good. Arcane support, obelisk researcher, puzzle-solver for Zenvon Forepot.
 *Extracted from `notes/open.md` (2026-06-12). Campaign-original character, not from the module. Her missing mentor is Professor Orryn Voss (full dossier in `notes/open.md`).*
 
 > ⚠ **Editor note:** open.md's level-1 block listed 8 HP, but 2d6 + 2 averages 9. The level-2 HP below is computed from the dice formula (3d6 + 3 = 13), which supersedes the discrepancy going forward.
@@ -44,12 +44,12 @@ Veyra trusts the rogue if the rogue:
 
 Stays behind cover, opens with mage armor if danger is likely, and uses magic missile when the party needs reliable damage. She should spend most turns using fire bolt or helping interpret strange clues.
 
-## Stat Block (2nd-level sidekick)
+## Stat Block (3rd-level sidekick)
 
 *Medium humanoid, neutral good*
 
 **Armor Class** 12, or 15 with mage armor
-**Hit Points** 13 (3d6 + 3)
+**Hit Points** 18 (4d6 + 4)
 **Speed** 30 ft.
 
 | STR | DEX | CON | INT | WIS | CHA |
@@ -65,6 +65,8 @@ Stays behind cover, opens with mage armor if danger is likely, and uses magic mi
 ***Blue Candle.*** Veyra carries an enchanted blue candle. It gives off dim blue light in a 10-foot radius when within 60 feet of obelisk fragments, aberrations, psionic magic, or strange Underdark portals.
 
 ***Nervous Genius.*** Veyra has advantage on Intelligence checks related to aberrations, ancient magic, magical symbols, obelisk fragments, and psionic phenomena.
+
+***Candlelight Reading.*** Veyra holds the blue candle to an obelisk fragment, aberrant residue, or psionically touched object and asks one yes/no question about it. The candle's pulse answers truthfully, as far as the lore of the *augury* spell allows; if the answer lies beyond that, the flame simply gutters. Once she uses this trait, she cannot use it again until she finishes a short or long rest.
 
 ***Spellcasting.*** Veyra's spellcasting ability is Intelligence. Spell save DC 13, +5 to hit with spell attacks.
 
@@ -83,11 +85,26 @@ Stays behind cover, opens with mage armor if danger is likely, and uses magic mi
 
 ## Session History
 
+*Sources: `summaries/00N/`. Sessions 2–3 are Zoom summaries with no recorded play date.*
+
 **Session 1 (2026-05-22, "The Threshold Awaits"):** Terrified during the Cragmaw ambush but used magic missile effectively from cover. Admitted her missing mentor had been investigating ancient obelisk fragments before vanishing; explained the history of the Phandelver Pact and the Forge of Spells after Elmina revealed Gundren's discovery.
+
+**Session 2 (date unrecorded — into the Cragmaw cave):** Hit the giant poisonous snake with a Firebolt for 10. In the goblin chamber, Magic Missile killed one goblin outright and left another on 2 hit points.
+
+**Session 3 (date unrecorded — clearing the hideout):** Failed her Dexterity save when the goblins released the dam and was swept off her feet; Zenvon caught her before the water took her. Killed a fleeing goblin with a critical Firebolt for 7 — the shot that kept the alarm from being raised. Put 15 points of Magic Missile into Klarg.
+
+**Session 4 (2026-06-17, "Ambush in Phandalin: The Redbrand Reckoning"):** Spent the whole night rereading her notes by candlelight, and at the breakfast table announced that the blue crystal had flared the moment she wrote down the name **Ruxithid** — the first hard evidence tying the elongated-headed goblin's whisper to Orryn's work. Maela rolled her eyes; Pip went quiet. In the street brawl she loosed a volley of magical bolts that struck several ruffians at once and killed one outright, turning a fight the party was losing.
+
+**Session 5 (2026-07-03, "A Nothic to Worry About"):** Threw a Firebolt at a fleeing ruffian — spectacular, and nowhere near it. Redeemed herself underground: identified the creature in the tunnel as a **Nothic**, and knew what it was — a seeker of forbidden knowledge ruined by the curse of Vecna, god of secrets. *(This session's summary garbles her name as "Sister Vera"; transcription artifact, same character.)*
+
+**Session 6 (2026-07-16, "It's Nothing Personal, You See"):** Carried the barracks fight with Magic Missile, took a hit from a ruffian mid-fight, and landed the burst that cleared the last enemy in the room. In the wizard's workshop she went straight for the shelves and identified three rare reagents — Mercury, Dragon Bile, Powdered Nightshade, 25 gp apiece. Spotted Iarno first as he fled down the secret passage and, on Zenvon's order to stop him without killing him, struck him with Firebolt. Warned the party the crypt skeletons might be animated before anyone touched anything.
+
+**Session 7 (2026-07-18, "Chapter 07 Deception"):** Magic Missile against the skeletons until every casting was spent. Firebolt tore into a ruffian in the slave pens; a later shot during the cellar chase missed and scorched the wall. Helped Zenvon get the remaining cells open and the captive women out. Finished the session running on empty — effectively out of spells.
 
 ## Leveling
 
 Progression: `characters/sidekick_progressions.md` (sidekick level = Zenvon's level).
 
 - **Level 2 applied 2026-06-12:** +1 Hit Die (13 HP) and a third 1st-level spell slot, per open.md's leveling notes.
-- **Next (level 3):** obelisk signature feature — proposed Candlelight Reading (one yes/no question about an obelisk fragment or aberrant object, augury-style, 1/short rest); confirm before applying.
+- **Level 3 applied 2026-08-02:** +1 Hit Die (18 HP) and the obelisk signature feature **Candlelight Reading** (1/short rest), confirmed by Kostadis. Proficiency bonus unchanged at +2; spell slots unchanged at 3 × 1st (2nd-level slots arrive at level 5).
+- **Next (level 4):** ASI — INT 16 → 18 (save DC 14, +6 to hit); HP to 22.

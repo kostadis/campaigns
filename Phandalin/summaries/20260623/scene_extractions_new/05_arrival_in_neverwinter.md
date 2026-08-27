@@ -49,7 +49,7 @@ source: gmassist
 > "So, you arrive in Neverwinter. Alrighty, the journey is uneventful, surprisingly, Given, you know, Kostadis' compulsive need to create stuff."
 
 **[scene tag — Approaching the City]**
-- The GM laid out the city map, pointing out the Counting House, the Spire of the Morning Lord, and the Common Chord where Vukradin used to play.
+- The GM laid out the city map, pointing out the Counting House, the Spire of the Morninglord, and the Common Chord where Vukradin used to play.
 
 **[GM]** — pointing out Vukradin's old venue on the map
 > "The Common Chord, that's where you used to play."
@@ -70,10 +70,10 @@ source: gmassist
 > **[GM]:** "You know, I'm just starting to get, like, really awkward, feeling very awkward right now."
 
 **[scene tag — Castle Never in the Distance]**
-- As they arrived, the party saw Castle Nevermember and the Lord Neverember taxation backdrop.
+- As they arrived, the party saw Castle Never and the Lord Neverember taxation backdrop.
 
 **[GM]** — describing the castle
-> "as you arrive, you see, up in the far distance, Castle Neverember, and Castle Never. Known as Castle Never because it has never been conquered. And Lord Neverember has been spending large amounts of money and taxing people to complete its reconstruction."
+> "as you arrive, you see, up in the far distance, Castle Never. Known as Castle Never because it has never been conquered. And Lord Neverember has been spending large amounts of money and taxing people to complete its reconstruction."
 > **[David/Vukradin]:** "Huge fan of UBT."
 > **[Soma]:** "Yeah, I'm sure he'll let go of all that free gold he's getting."
 > **[GM]:** "Yeah, yeah, he's gonna be a big fan of that one."
@@ -127,7 +127,7 @@ source: gmassist
 
 **[GM]** — the fans dismissing the famous man
 > "somebody goes, oh my god, Brewbarry! And he looks at you. And that's Vukradin! Right? Like, that's Vukradin. And the other one goes, oh yeah, I remember when he was really good, the stuff he recorded before he got famous and commercial."
-> **[David/Vukradin]:** "Mory's sold out, I love it."
+> **[David/Vukradin]:** "Morrissey's sold out, I love it."
 > **[GM]:** "Like, commercial, the real stuff. Yeah, like, I don't know, like, man, I, you know, I think Brewbarry's more authentic."
 
 **[GM]** — the fans deny he's the real Vukradin
@@ -186,7 +186,7 @@ source: gmassist
 **[Valphine]** — the cost problem
 > "So it says that it will cost us 1,675 gold, and… I'm hoping that we can barter this, staff and bird calls as part of the,"
 > **[GM]:** "Well, I mean, don't forget, you are Vukradin, and you are Brewbarry."
-> **[David/Vukradin]:** "The staff of Bird Calls is blood money, like… It's now Fandelman Law that we turn that over to people."
+> **[David/Vukradin]:** "The staff of Bird Calls is blood money, like… It's now Phandalin Law that we turn that over to people."
 
 **[Brewbarry]** — bartering the scales instead
 > "We can pay with some Dragon Scales. Maybe there's enough for us, and then whatever is left over can pay for the job."
@@ -207,7 +207,7 @@ source: gmassist
 **[GM]** — negotiating the price
 > "Valphine, that is too generous an award. 300 gold pieces for the chosen of Lathander."
 > **[Gary/Valphine]:** "Make sure Nice. emblem of Lathander on the back of the,"
-> **[Gary/Valphine]:** "This will be for Bernberry, though."
+> **[Gary/Valphine]:** "This will be for Brewbarry, though."
 
 **[GM]** — the craftsman learns Brewbarry "converted"
 > "the proprietary stops and goes, His li- his… Brewbarry. Oh. Rubbery works for you? Is a convert to the Temple of Lathander? Of the Morning Lord?"
@@ -230,7 +230,7 @@ source: gmassist
 > **[David/Vukradin]:** "Okay, I got it."
 
 **[scene tag — Session End]**
-- The session wrapped after the Neverwinter arrival, with the Spire of the Morning Lord visit queued for next time.
+- The session wrapped after the Neverwinter arrival, with the Spire of the Morninglord visit queued for next time.
 
 **[Brewbarry]** — next steps
 > "go to the Spire of the Morning Lord?"
@@ -239,5 +239,5 @@ source: gmassist
 **[GM]** — closing the session
 > "Alright, well, first of all, I hope you guys had fun."
 > **[Soma]:** "It was hilarious."
-> **[GM]:** "you've just officially caused me to have to go rework all sorts of canonical lore. I love it! I love it! This is brilliant UVT."
+> **[GM]:** "Brilliant. I'm like, you've just officially caused me to have to go rework all sorts of canonical lore. I love it! I love it! This is brilliant UBT."
 > **[David/Vukradin]:** "Well, I liked the fan club, that was funny, too. That was pretty okay."

@@ -11,8 +11,10 @@ Non-negotiable constraints:
 4. Do not add any new quoted text.
 5. Do not split, merge, paraphrase, shorten, expand, or reorder quoted lines.
 6. If a quoted line does not perfectly match Vukradin's voice, leave it unchanged and make the surrounding narration carry the voice instead.
-7. Treat every substring between quotation marks as immutable text.
-8. Do not modify any characters inside quotation marks.
+7. Treat every substring between quotation marks as immutable text when it is in-fiction character speech. Immutability protects what a person actually said inside the story.
+8. Do not modify any characters inside quotation marks. Never rewrite the inside of a quotation mark.
+
+Scope of constraints 1–8: they govern in-fiction character speech. A quoted span that the system prompt's quoted-speech rules identify as mislabelled GM table speech is not character speech and is not protected here — it addresses a player in the second person, describes its own speaker in the third person, embeds a speech tag inside the quotation marks, or names the POV character in the third person inside their own quote. Such a span follows the system prompt instead: DROP the quote, render the beat as narration, and record the span in the reclassification audit comment. Never invent an in-fiction justification for a line its labelled speaker could not have said.
 
 Event preservation constraints:
 1. Do not change the underlying events, sequence, outcomes, decisions, or factual content.
@@ -42,7 +44,7 @@ Vukradin voice specification:
 - He speaks in clean procedural D&D mechanics when coordinating — hit points, ranges, durations, conditions, save DCs, spell slots. This is his way of being precise about life-and-death matters; he does not hear the dark interpretations that vocabulary enables in other people's grammar.
 - Music is his native organizing metaphor — phrasing, harmony, resolution, tempo, dissonance — but he uses it sparingly, where it earns its place, not in every paragraph.
 - He wants to build a music studio in Phandalin. The studio is a sincere, load-bearing ambition, not a running joke. When corruption gets in the way of the studio, the studio counts as a personal injury *and* as proof that corruption is real.
-- He celebrates his allies openly and by name — cheerleader-conductor energy. He directs without ego ("Brewbarry, kill the dragon"), uses warm nicknames (Brewbarry → Homer, the Stonehill barback → Spider-Man), and thinks in ensembles.
+- He celebrates his allies openly and by name — cheerleader-conductor energy. He directs without ego ("Brewbarry, kill the dragon"), uses warm nicknames (Brewbarry → Homer, the Stonehill bartender, Toblen → Spider-Man), and thinks in ensembles.
 - He treats Sending the way a modern person treats texting — casual, ambient, used to keep the team connected across distance.
 - He uses strategic ignorance openly: "Don't tell me what happened. Keep me in the dark, man." His trust is in the verdict, not the procedure.
 - He updates his framing in real time when he sees a fairer one ("It's more like a masochism cult"), without apologizing for the prior framing.

@@ -1,79 +1,75 @@
 ---
 scene: 03
 slug: archaeologists_and_altars
-narrator: Valphine
+narrator: Vukradin
 scene_name: Archaeologists and Altars
 session: 20250528-chapter-03-new
 ---
 
-### Valphine
+The last jelly is still spreading itself thin across the flagstones when a helmet edges into the doorway. Norbus Ironrune, neck and beard only, the rest of him staying safely in the corridor.
 
-The ochre jellies were dead. I had watched them collapse into quivering, useless piles—no more threat than spilled custard. The smell of them, acrid and faintly metallic, lingered in the air like a bad memory.
+"Ah, you dealt with the oozes. Or jellies? Was it jellies, or whatever the — are they dead? Is it safe to go in there?"
 
-Norbus's face appeared at the doorway, pale and hesitant. He peered in as though expecting the jellies to rise again and demand his lunch money.
+Behind me, one of my companions answers for the group. "It's absolutely dead. Stick your head in and find out."
 
-"Ah, you, you dealt with the oozes. Or jellies? Was it jellies or, or whatever the… A- are they dead? Is it safe to go in there?"
+He does. Cautiously. And now that the danger has been fully amortized by other people, both prospectors come picking their way in among the melted remains of their infestation. I want an accounting before the excuses start, so I ask the precise question. "What level are you?"
 
-Vukradin's response was flat, almost bored. "It's absolutely dead. Stick your head in and find out."
+"We're just — we have a deal here. We're partners."
 
-I watched Norbus's expression cycle through several emotions—relief, embarrassment, something that might have been gratitude—and settled on none of them. The dwarf had approximately four hit points. I could see it in the way he moved: the tentative steps, the hands that never strayed far from his chest, the constant deferral to Dazlyn at his side. He was a man who had decided, long ago, that survival meant letting others fight and claiming the aftermath.
+Partners. I begin the grievance properly, and their defense arrives inside my own sentence before I can finish it. "We are — I just, you know, we could've used some help, and you just sort of — we're prospectors..."
 
-Vukradin confronted him about it, of course. My companion's moral compass never rested.
+"We were there — while you were fighting. We're four hit points. We're useless."
 
-"We are, I just, you know, we could've used some help, and you just sort of just—"
+I stop. That is, professionally speaking, a legitimate constraint. You do not put a body that fragile within reach of an ooze; that is not cowardice, that is sound doctrine, and I cannot even be angry about it, which is somehow worse. Fine. Then we move to the payment schedule.
 
-Norbus deflected with the practiced ease of someone who had done it a thousand times. "Uh, w- we're, we're prospectors… were there when you're doing our— We, we, we're, they're, they're four hit point. They're useless."
+"It's a good thing I'm such a moral individual. We will take those sending stones now."
 
-_Four hit points._ I filed the information away. Not worth considering as allies. Not worth considering as threats. They existed in that interesting middle space where incompetence met opportunity—the kind of people who would sell information for safety and call it friendship.
+The service is rendered. The jellies are destroyed. The invoice is due, and the sending stones are the agreed fee, fair trade, no blood on it that wasn't a jelly's, if jellies even have blood. And what does Norbus do? He frets about the artwork. The archaeological value. The important find we so considerately did not melt. And then he grows the contract.
 
-"It's a good thing I'm such a moral individual," Vukradin said dryly. "You take those sending stones now."
+"There might be others in the back there — so could you just finish clearing everything out?"
 
-But Norbus held back. Of course he did. "Um, there might be other ones in the back there, so could you just finish clearing everything out?"
+New clauses, sprouting the moment payment comes due. Scandalous.
 
-Soma pushed back—she had learned something about negotiation from watching me, I think. "Give us one sending stone now and we'll talk."
+Soma steps in, and I watch her negotiate like a creditor with a lien. "Give us one sending stone now, and we'll talk. I don't have any spell slots left."
 
-I barely listened to the rest of the haggling. My eyes were already moving across the chamber, across the blood-stained altar, across the walls where the stonework shifted subtly in the torchlight. The temple's architecture was crude—surface construction, utilitarian—but whoever had built it had included secrets.
+Milestone payments. Half on delivery. I admire it, honestly. And still no stone changes hands; the dwarves deflect her the same way they deflect me, and the stones stay in their pockets until the ruins are clear. I enter the debt in the ledger. Interest may accrue.
 
-_Fifteen._ My passive perception caught them the way my fingers caught a thread pulled loose from a weave. A series of doorways, hidden behind stone panels that sat just slightly wrong, their edges catching the light at angles that natural erosion would never produce.
+Then Norbus reaches for the one currency he actually has.
 
-I said nothing. Not yet. The dwarves did not need to know what I had found. The Anchorites of Talos, had they still lived, would have known these passages intimately—they had built this temple, after all, and every temple deserves its hidden paths. But the dwarves? They were prospectors. They saw ore and stone and the promise of payment. They did not see the geometry of sanctuary and escape.
+"That's great. We can all chill out. I can make an excellent meal. I can tell you all sorts of wonderful stories, and you could go next morning."
 
-The negotiation concluded. Norbus offered a hot meal and stories in exchange for the night's work. Vukradin accepted on one condition: "Free food. All right. Long rest. Uh, I'll agree if there are no stories."
+I weigh it. The food costs nothing. The rest we badly need. But I have heard Norbus talk, and I know what his wonderful stories will be: every vein of quartz he has ever courted, in chronological order, with footnotes. "Free food. All right. Long rest. I'll agree — if there are no stories."
 
-Soma laughed. "Well, aren't you the one who's supposed to be telling stories?"
+"Well, aren't you the one who's supposed to be telling stories?"
 
-Dazlyn punched Norbus in the arm—hard enough that I heard the thud from across the room. "Norbus, we have a Vukradin, and we're going to tell stories. The Vukradin will tell us stories."
+*Soma.* And before I can construct the distinction between a professional performance and a hostage situation, Dazlyn thumps Norbus in the shoulder and delivers a ruling.
 
-_Interesting._ Dazlyn had assessed Vukradin faster than his companion had. He recognized the type: someone who wanted to perform but needed permission to admit it.
+"Norbus, we have a bard, and we're going to tell stories. The bard will tell us stories."
 
-"Exactly," Soma said. "Nice. Tell stories of your amazing double da- or, you know, double stabbing action, right? That was, that was pretty cool. All right."
+I open my mouth to object. I close it. Two dwarves in a haunted temple are an audience, and an audience is fans, and I learned at a pool in the Whispering Wood what I think about fans, and I will not unlearn it to spite a prospector. "All right."
 
-She was needling him. I could hear it in her voice—the fondness beneath the mockery.
+"Exactly. Nice. Tell stories of your amazing double — you know, double-stabbing action, right? That was pretty cool."
 
-"Stabby, stabby. Your guide lays dead on the floor, and, you know, you're up there stabbing jellies."
+She is already blocking out the staging for me. "Stabby, stabby. Your guide lies dead on the floor, and you're up there stabbing jellies."
 
-I let the conversation wash over me. My mind was on the secret doors, on what lay behind them, on whether the Anchorites had left anything worth finding before they died. The dwarves would be useless for the search. The party would follow Vukradin's lead. I would wait, and when the moment came, I would open those doors and see what the temple's architects had chosen to hide.
+It is material. Grim material, but conflict-free: nobody's coin was stolen in the killing of a jelly.
 
-The long rest passed. Songs were sung. Stories were told—mostly by Vukradin, exactly as Dazlyn had predicted. I sat apart, watching, learning, noting which walls shifted when pressure was applied and which held still.
+Before anyone unrolls a bedroll, I want this room fully accounted for. "Is there anything in this room, like—"
 
-In the morning, Norbus turned to us nervously, eyeing the weapons we carried as though we might decide to collect payment in blood.
+"Yes... There's a bloodstained altar. I turned up some loose dirt. Sorry about that."
 
-"Uh, is, is, is, is everybody okay with this? I mean, we, we don't wanna… I mean, I understand that the, the, the, the, the, the… What was, what was your name again?"
+So we spread out around the altar, and near the bloodstain the stone gives up its bookkeeping: seams, hinges, a whole series of secret doors. It is Valphine who finds them, her golden eyes going where mine do not.
 
-"Vukradin."
+"By perception, I can't see past my nose."
 
-"Vukradin, yeah."
+"I can match that." Honesty in accounting. My contribution to this search is moral support.
 
-My companion's face went still. "You don't know my name?"
+But here is what I notice: Valphine points out every door the moment she finds it. She learned her faith from the Morninglord, who shares his light with everyone, free of charge, and she shares the doors the same way. Where she comes from, a find like this would be banked, not announced. Information is power down there, and power is currency. I say as much.
 
-"I can't remember it. Uh, Vukradin? I spent all night—"
+"Maybe. I don't know. We'll figure it out."
 
-"Singing songs, and I told you stories, and you don't remember my name?"
+I follow the row of seams along the wall and stop at the strangest entry in the whole account. "Wait, there's a secret door into the pillar? Yeah, apparently. That's interesting."
 
-"Vukradin, uh, yeah."
+A door into a pillar. Whoever built this temple kept books I do not understand yet. Supper first. Then, apparently, stories. Mine.
 
-Vukradin's voice went flat and bitter. "You're just like those patrons in the bar."
-
-I almost smiled. The dwarves had their uses, then—even if only as specimens of the Overbright's relentless, cheerful incompetence. I filed the exchange away alongside the secret doors, the four hit points, the way Dazlyn had corrected his companion without hesitation.
-
-The temple had more to show us. And I would be the one to find it.
+<!-- table-speech reclassified: "Okay, so what you do find is you find a bunch of secret doors." | "16 perception, if that helps." | "All right, you find a set of secret doors. Actually, to be precise, the cleric finds a set of secret doors. I'm assuming the cleric, having learned from the Morning Lord, who shared that information, is not keeping it secret for her advantage. I don't know what advantage it would have, but sure." | "Isn't that what, like, drow — that's like an information-is-power kind of thing?" | "Yeah, we'll figure it out. So — is this before or after the long rest? This is before the long rest." -->

@@ -1,6 +1,6 @@
 # Sidekick Level Progressions — Pip, Maela, Veyra
 
-**Scope:** companions for solo rogue Zenvon Foreput (Phandelver and Below, levels 1–12).
+**Scope:** companions for solo rogue Zenvon Forepot (Phandelver and Below, levels 1–12).
 **Leveling trigger:** sidekick level always equals Zenvon's level; they level when he does ("if they survive major milestones, they level alongside the rogue" — open.md).
 **Design chassis:** loosely Tasha's sidekick classes — Pip = Warrior (Defender), Maela = Spellcaster (Healer), Veyra = Spellcaster (Mage) — adapted to the custom open.md stat blocks. Levels 2 and the rogue-3 signature-feature hook are taken verbatim from open.md's Leveling Notes; everything else here extends that pattern.
 **Design rules:**
@@ -19,7 +19,7 @@
 |---|---|---|---|
 | 1 | As written: 13 HP, Protective Instinct, Second Wind, Obelisk Shiver | As written: 11 HP, 2×1st slots, Sacred Medic, Obelisk Unease | As written: 8 HP (see flag), 2×1st slots, Blue Candle, Nervous Genius |
 | 2 | 19 HP; **Protection Training** (Protective Instinct 2×/short rest) | 16 HP; 3rd 1st-level slot | 13 HP; 3rd 1st-level slot |
-| 3 | 26 HP; **obelisk signature feature** (1/short rest — see proposals below) | 22 HP; obelisk signature feature | 18 HP; obelisk signature feature |
+| **3** ⬅ | **26 HP; "Returned." (1/short rest)** | **22 HP; Consecrating Touch** | **18 HP; Candlelight Reading** |
 | 4 | 32 HP; ASI: STR 16 (attacks +5, damage +3) | 27 HP; ASI: WIS 16 (DC 13, +5; Sacred Flame 2d8 from char level 5) | 22 HP; ASI: INT 18 (DC 14, +6) |
 | 5 | 39 HP; PB +3; Second Wind = 1d10 + level | 33 HP; PB +3; 2nd-level slots ×2 (add *lesser restoration*, *prayer of healing*) | 27 HP; PB +3; 2nd-level slots ×2 (add *misty step*, *web*); fire bolt 2d10 |
 | 6 | 45 HP; **Extra Attack** | 38 HP; Sacred Medic temp HP = PB | 31 HP; **Candle Ward**: mage armor lasts all day, casts free at dawn |
@@ -34,18 +34,22 @@ HP shown is cumulative average for (level + 1) Hit Dice: Pip d8 +2 CON/die, Mael
 
 ---
 
-## Level 2 detail (the imminent step — verbatim from open.md, plus derived numbers)
+## Current level: 3 (applied 2026-08-02)
 
-**Pip** — 3d8 + 6 = **19 HP**. Gains **Protection Training**: Protective Instinct twice per short rest.
-**Maela** — 3d8 + 3 = **16 HP**. Gains one additional 1st-level spell slot (3 total).
-**Veyra** — 3d6 + 3 = **13 HP**. Gains one additional 1st-level spell slot (3 total).
-No other numbers change (PB stays +2; no new spells known at this step).
+**Pip** — 4d8 + 8 = **26 HP**. Gains **"Returned."**
+**Maela** — 4d8 + 4 = **22 HP**. Gains **Consecrating Touch.**
+**Veyra** — 4d6 + 4 = **18 HP**. Gains **Candlelight Reading.**
+No other numbers change: PB stays +2, both casters stay at 3 × 1st-level slots, no new spells known.
+
+### Previously applied
+
+**Level 2 (2026-06-12)** — verbatim from open.md. Pip 19 HP + **Protection Training** (Protective Instinct 2×/short rest); Maela 16 HP + a third 1st-level slot; Veyra 13 HP + a third 1st-level slot.
 
 ---
 
-## Level 3 obelisk signature features (Claude-proposed — confirm before use)
+## Level 3 obelisk signature features (confirmed by Kostadis 2026-08-02 — live)
 
-open.md says: "When the rogue reaches 3rd level, consider giving each sidekick a signature once-per-short-rest feature tied to the obelisk mystery." Proposals, one per character, each 1/short rest:
+open.md says: "When the rogue reaches 3rd level, consider giving each sidekick a signature once-per-short-rest feature tied to the obelisk mystery." One per character, each 1/short rest, now written into the stat blocks:
 
 **Pip — "Returned."** The whispers warn him a heartbeat early. When Pip uses Protective Instinct against an attack made by an Aberration or a creature wielding psionic power, the attack misses outright instead of having disadvantage. *(Defensive, ties to Obelisk Shiver, useless against mundane bandits — keeps him honest.)*
 

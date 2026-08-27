@@ -11,7 +11,7 @@ scene: A Bargain in the Air Temple
 focus: As the party's tactician and face, Zephyr reads Kelno's cold calculus and savors the realization that aligning with the victors means becoming the victors.
 
 ## Scene 3
-narrator: sequioa
+narrator: sequoia
 chunks: 1
 scene: The Captain's Report
 focus: Dren's specific fondness for Sequoia makes him the natural lens for the captain's grumbling report and the cold decision to leave him guarding Calmer.

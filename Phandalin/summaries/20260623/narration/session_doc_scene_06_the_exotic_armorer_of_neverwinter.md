@@ -6,54 +6,132 @@ scene_name: The Exotic Armorer of Neverwinter
 session: 20260623
 ---
 
-The Protector's Enclave smelled of money. Not the kind I knew — not coin sweated out of a brawl or a hauling job — but the soft, oiled kind that hangs in the air of shops where the door is heavier than the goods inside. We found the armorer there. A high-end man, his window hung with leathers and fashions I had no name for, made from exotic hides and stranger things.
+The shop smelled of oil and pressed leather and something floral I couldn't name. Weapons hung on the walls like trophies, but they were pretty weapons — chased with gold, inlaid with mother-of-pearl. Not made for killing, I thought. Made for being seen while you killed.
 
-Valphine wanted to go in. "Yeah," she said. And when the question came whether it was only her, "Probably."
+The proprietor came out from behind the counter, all smiles and quick hands. A little man, bright-eyed, with the morning-sun sigil pinned to his collar. He saw Valphine and stopped dead.
 
-"Go in, sure, why not?" Vukradin said. So the four of us walked in.
+"You have the sign of the Morning Lord! You have the blessing of her! You have the blessing!"
 
-The man took one look at Valphine's eyes — the gold of them, the sun caught in a drow's stare — and near came apart at the seams. "You have the sign of the Morning Lord! You have the blessing of her! You have the blessing!" He stopped. Looked harder. "Are you the drow that Brother Aldric speaks of? The one who converted to the blessed teachings of the Morning Lord?"
+I watched his face cycle through surprise and recognition. He was a worshipper of the Morning Lord. Brother Aldric. The drow who converted.
+
+He looked at Valphine like she was a plate of warm bread.
+
+"Are you… are you the drow that Brother Aldric speaks of? The one who converted to the blessed teachings of the Morning Lord?"
 
 "That's right," Valphine said.
 
-"What a blessing to have you in my store!"
+The man's hands were actually trembling. He was delighted. Genuinely. I'd seen that look before, on the faces of village folk when the heroes rode in. It never meant what they thought it meant.
 
-I let her do the talking. She is better at it. I am better at carrying things. She set the dragon scales on his counter — heavy plates, still cold to the touch. "Well, we have these dragon scales here, and we need some help crafting them into scale mail."
+"Well, well then, what can I do for you? You, you are such a… what a blessing to have you in my store!"
 
-"I would be delighted," he said, hands going everywhere. "This would be a great honor, for me — as long as you were to say a blessing for me and my family, Valphine."
+Valphine produced the dragon scales. I'd carried them wrapped in oilcloth for a tenday, and the weight of them was familiar now — the heft of something that used to fly. The scales shimmered, catching the lamplight in blues and greys.
 
-"Of course," she said.
+"Well, we have these dragon scales here, and we need some help crafting them into scale mail."
 
-"Free of charge," Vukradin put in. "The best kind."
+The proprietor's eyebrows went up. He circled the table, running his fingers over the edges of the scales, muttering to himself. I caught the words "fine work" and "Cryovain, perhaps" and something about the temper of the leather to bind them.
 
-The man laughed but did not agree. "As much as I would like to do this for free and gratis, it takes time and money. Any little money you can give would be helpful."
+Then he straightened and looked at Valphine again, and the greed in his eyes softened into something else. Devotion, maybe.
 
-Then came the numbers, and I am not the numbers man. Valphine read out the cost — sixteen hundred and seventy-five gold. Vukradin: "We don't have that." Valphine: "Well, we have seven hundred." Soma started in — "You're gonna spend" — and Vukradin finished it for her, "And all the money, you're gonna spend it all." Then, deciding, the way he does when he's talked himself into something: "Fun money to make money. Alright, I got it."
+"I would be delighted, I would be delighted, and— and—"
 
-But the man would not take it. "Valphine, that is too generous an award. Three hundred gold pieces for the chosen of Lathander."
+He paused. The pause was a man weighing something on a scale in his head.
 
-"Make sure there's an emblem of Lathander on the back of the armor," Valphine said. Then, plain as setting down a stone: "This will be for Brewbarry, though."
+"This would be a great honor for me — as long as you were to say a blessing for me and my family, Valphine."
 
-That turned the room toward me.
+"Of course," Valphine said.
 
-I do not wear armor as a rule. It cages the arms. The scale mail from before sat wrong on my shoulders the whole time I wore it. And now this — a dead dragon's hide, with the sun-god burned into the back, right between my shoulder blades where I could not see it but every man behind me could.
+Behind her, Vukradin muttered, "…of charge. The best kind."
 
-"Alright, we're giving this guy three hundred gold, wow," Vukradin said.
+The proprietor did not hear it. Or pretended not to. "No, he didn't say that."
 
-"So we get something in return," I said.
+"No, that's what I said," Vukradin said.
 
-The armorer stopped. "So you're giving it to Brewbarry? Brewbarry works for you? Is a convert to the Temple of Lathander? Of the Morning Lord?"
+The proprietor ignored him. That was probably the safest thing he could have done.
 
-"Brewbarry works for no one," I told him. "But Brewbarry has much respect for the Morning Lord, yes."
+"So he says: but Valphine, as much as I would like to do this for free and gratis, unfortunately, it takes time and money. Any little money you can give would be helpful to cover the costs."
 
-That undid him entirely. "I knew it! I knew it! Brother Aldric was right! This was the right decision to embrace the drow!" And then he was off, naming all the things a drow was supposed to be, all the cruelties the sun was meant to cure out of them.
+The price had been quoted earlier. Fifteen hundred and change. The number had sat in my head like a stone.
 
-I let it sit. I am no drow. I am a goliath, and I am exiled, and I have my own dark in me — a fairy's goodberry, a sleep I did not choose, sacred ground gone to ruin while I lay there. The man stood there glad to think the light could save a wicked thing. He did not know he was fitting that mark to my back. I did not tell him. There are things you do not put on a counter in a fine shop.
+"So it says that it will cost us 1,675 gold, and…" Valphine began.
 
-"Well, nothing bad could ever come of this," Vukradin said, dry. "You see, an upcoming drow invasion into Neverwinter, and the people just throw open the doors, they're like, come in. Or they just slaughter them all. This'll go really well, guys."
+"We don't— we don't have that," Vukradin said.
+
+"Well, we have 700," Valphine said.
+
+Soma looked at her. "You're gonna spend."
+
+"And all the money, you're gonna spend it all," Vukradin said.
+
+"Well, worst time," Valphine said.
+
+"No, math!" Soma said. She held up a hand as if counting invisible coins in the air.
+
+"1600, so we can't do that."
+
+The proprietor listened to all of this with a patient, knowing smile. A man who had heard haggling before. A man who had already decided what he was going to charge.
+
+"Valphine, that is too generous an award. 300 gold pieces for the chosen of Lathander."
+
+"Very well," Valphine said.
+
+Vukradin's mouth opened and closed. "Alright, we're giving this guy 300 gold, wow."
+
+The number was still a lot. Three hundred gold was a lot. But it was less than the first number by a margin that felt like winning a wrestling match by fall rather than by points.
+
+Valphine looked at the proprietor. "Make sure there's an emblem of Lathander on the back of the armor."
+
+"I was going to assume that was what was going to happen. Yes."
+
+"This will be for Brewbarry, though," she said.
+
+I felt the air change. The proprietor's smile flickered. His gaze swung to me — and I was used to being looked at. I was big, and loud, and I smelled like a campfire half the time. People looked at me. But this was a different look. A measuring look. Like he was trying to see something in me I hadn't shown him yet.
+
+"For me," I said. I'd been quiet. I tend to be quiet in shops. Too many pretty things to break.
+
+Soma looked at me too. So did Vukradin, though his look was warmer — that slight, fond squint he gets when I say something simple.
+
+I shrugged. I didn't understand the fuss. I wear armor when it's given to me. This was being given to me. It would be dragon scale mail with an emblem of Lathander on the back. Fine.
+
+The proprietor spoke carefully. "So you're giving it to Brewbarry?"
+
+"Brewbarry will be wearing this," Valphine said.
+
+"Is he one of…"
+
+He stopped. His eyes went wide, and I realized what he was seeing for the first time — that I was not just standing there. That the dragon scales were for me. That I was connected to this drow priestess of his god.
+
+"Brewbarry. Oh. Brewbarry works for you? Is a convert to the Temple of Lathander? Of the Morning Lord?"
+
+"Brewbarry works for no one," I said. "But Brewbarry has much respect for Lathander, yes."
+
+The way his face lit up was almost painful to watch. Like a man who had just found a second coin on the ground.
+
+"I knew it! I knew it! Brother Aldric was right! This was the right decision to embrace the drow! They would see the kind injustice, the justice of the beauty and the warmth of the sun, to cure their whole… their…"
+
+He was still talking. He launched into a list of things about drow — things about their stone cities and their cruelty and their coldness, all the things the sun would cure — and he said them all with a beaming smile, as if he were reciting poetry.
+
+I stood very still.
+
+I knew what he was doing. He was saying things he thought were good. He was praising Valphine for escaping something he didn't understand. He was praising me for accepting her. And all of it was a cage made of words about what drow were and what they couldn't be.
+
+I've heard people talk about Uthgardt the same way. *Savage. Brutal. Animal.* Words used to make it easier to hurt them. Words used to make it feel like justice.
+
+The proprietor was not a bad man. He was a happy man, praising his god's work. But the shape of his joy was a thing I'd been cut by before, and I felt the old wound ache in my chest.
+
+Vukradin said, quietly, "Well, nothing bad could ever come of this."
+
+He knows me. He knows when I go quiet and still. He knows it means I'm somewhere else.
+
+"You see, an upcoming drow invasion into Neverwinter, and the people just throw open the doors, they're like, come in! Or they just slaughter them all. This'll go really well, guys."
+
+That pulled me out. The vision of it — drow walking into Neverwinter with doors flung open, or the doors shut against them and the knives out — was so vivid and so stupid that I snorted.
 
 "Alright," I said.
 
-I thought about the work of it — a whole dragon's scales, hammered and fitted and emblazoned. "This is gonna take some time for them to craft this."
+The proprietor wrote down the commission. The armor would be finished before we left the city. I would wear an emblem of Lathander on my back, and when I walked through Neverwinter's streets, people would see it and know what it meant.
 
-It would be done by the time we left town. The man swore it, marked it down, glad as a child to have my back to brand.
+The thought didn't sit heavy. It felt fine. Respect is respect. A god's light is a god's light. I'd been carrying guilt for my people's sins for years. If this little man needed me to be proof that his god's warmth could reach anyone — even a drow, even a barbarian — I could carry that, too.
+
+I just hoped his god would carry it back.
+
+"Alright," I said again, and put a hand on Valphine's shoulder. "We pick it up before we leave."

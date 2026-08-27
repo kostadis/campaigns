@@ -89,7 +89,7 @@ In the morning, we head out to the coast through a trail that Martisha points ou
 
 The trail takes snakes through the broken, hilly terrain that forms the coastal regions of the Sword Coast. At times, it takes us through unnatural gullies that split the ground in two.
 
-Vukradin, ever the pedant, mutters that this would only be possible if a river flowed through here, and that this place is too dry for a river.
+Vukradin mutters that this would only be possible if a river flowed through here, and that this place is too dry for a river.
 
 I wonder how these overbrighters survive without the Faerzess protecting them from assaults. Magic transforms the land to help the attackers and defenders. Whatever made these cracks is a force of magic. Not just some natural phenomenon.
 And then I see the greatness of Lathander, by offering so much light and land to the overbrighters, he makes them sloppy and enables war and suffering.

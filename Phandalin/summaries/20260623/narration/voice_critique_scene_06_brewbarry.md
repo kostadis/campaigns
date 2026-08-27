@@ -1,67 +1,58 @@
 # Voice Critique — Brewbarry, scene 06: The Exotic Armorer of Neverwinter
 
-**Narration:** /home/kroussos/Phandalin/Phandalin/summaries/20260623/gm-assist-doc.md (## Brewbarry — The Exotic Armorer of Neverwinter)
-**Voice spec:** /home/kroussos/Phandalin/Phandalin/voice/brewbarry_new_pipeline.md
-**Per-char examples:** /home/kroussos/Phandalin/Phandalin/examples/brewbarry.md
+**Narration:** `summaries/20260623/narration/session_doc_scene_06_the_exotic_armorer_of_neverwinter.scrubbed.md`
+**Voice spec:** `voice/brewbarry_new_pipeline.md` (authoritative)
+**Supplementary spec:** `voice/v1/brewbarry_voice.md`
+**Per-char examples:** `examples/brewbarry.md` (40 lines, two passages only)
+**Genre:** `voice/_genre.md`
 
 ## Flags
 
-### [1] Voice-spec conflict — WHOLE-SCENE POV (first vs third person)
+### [1] Banned tic + generic reach — line 119
 
-> Brewbarry felt large in it the way he always felt large in clean rooms.
+> The proprietor was not a bad man. He was a happy man, praising his god's work. But the shape of his joy was a thing I'd been cut by before, and I felt the old wound ache in my chest.
 
-**Why:** This is a whole-scene problem, not a single sentence. The voice spec's primary objective is "Rewrite the scene in Brewbarry's first-person voice," and both reference passages in `examples/brewbarry.md` (Ch. 03 "My rage consumes me. And yet—"; Ch. 05 "Order of Gauntlet. I know them.") are first person. This entire block is written in third person ("Brewbarry felt," "Brewbarry knew," "He thought"), which directly violates the established POV. Every narration sentence below inherits this and would need conversion to "I."
-**Suggested rewrite:** Convert the scene to first person throughout, e.g. "I felt large in it the way I always feel large in clean rooms."
+**Why:** Two problems in one sentence. `the shape of his joy` is banned outright by `voice/_genre.md` line 43. `I felt the old wound ache in my chest` is stock emotional shorthand — and it is *tell-not-show* in a character whose entire spec is "He feels something and then he acts. There is very little space between the two."
+**Suggested rewrite:** `The proprietor was not a bad man. He was a happy man, praising his god's work. I had heard happy men say things like that about Uthgardt.` The comparison at line 117 is already doing this work; the sentence only needs to point at it.
 
-### [2] Em-dash in narration prose
+### [2] Voice spec conflict — ideological argument, line 115
 
-> He saw Valphine's eyes — the golden ones, the Morning Lord's mark sitting on a drow's face like a contradiction the man had been praying to meet — and he came apart at the seams.
+> He was praising Valphine for escaping something he didn't understand. He was praising me for accepting her. And all of it was a cage made of words about what drow were and what they couldn't be.
 
-**Why:** Paired em-dashes in narration; Brewbarry thinks in short declaratives, not nested parentheticals.
-**Suggested rewrite:** "He saw Valphine's eyes. The golden ones. The Morning Lord's mark on a drow's face, the contradiction the man had been praying to meet. He came apart at the seams."
+**Why:** Failure-prevention rule 3: "Do not give him complex moral arguments about systems, factions, or ideology. He responds to specific people and specific moments." `a cage made of words about what drow were and what they couldn't be` is a thesis about the mechanics of prejudice. His examples make the same point by refusing to argue it — "I am so sorry that the Uthgardts hurt you. They were mean to me, too." One person, one moment, no framework.
+**Suggested rewrite:** Cut the third sentence. `He was praising Valphine for escaping something he didn't understand. He was praising me for accepting her. He did not know he was doing it.`
 
-### [3] Em-dash in narration prose
+### [3] Voice spec conflict — narrating shame at length, line 133
 
-> She set the dragon scales on the counter — heavy, dark, the proof of a thing they'd actually killed — and said they needed them crafted into scale mail.
+> The thought didn't sit heavy. It felt fine. Respect is respect. A god's light is a god's light. I'd been carrying guilt for my people's sins for years. If this little man needed me to be proof that his god's warmth could reach anyone — even a drow, even a barbarian — I could carry that, too.
 
-**Why:** Paired em-dashes; the aside should land as its own beat in Brewbarry's clipped rhythm.
-**Suggested rewrite:** "She set the dragon scales on the counter. Heavy, dark, the proof of a thing we'd actually killed. She said they needed them crafted into scale mail."
+**Why:** The first four sentences are exactly right — short, flat, declarative. Then it turns into a paragraph of interior justification. Failure-prevention rule 8: "Do not make him narrate his own shame at length. He references it briefly when it surfaces; he does not return to it." Rule 6: "If a paragraph of inner monologue is needed, it is too long."
+**Suggested rewrite:** Stop after the fourth sentence, then go straight to line 135. `The thought didn't sit heavy. It felt fine. Respect is respect. A god's light is a god's light. I just hoped his god would carry it back.`
 
-### [4] Em-dash in narration prose
+### [4] Attribution failure — GM narration inside character dialogue, lines 45 and 51
 
-> Then everyone talked at once — Vukradin saying *you're gonna spend it all*, Soma scolding, Vukradin muttering something about money making money the way he did when he was nervous about coin.
+> The proprietor did not hear it. Or pretended not to. "No, he didn't say that." (45)
 
-**Why:** Em-dash opening a long trailing list; reads as house-style cadence, not Brewbarry's.
-**Suggested rewrite:** "Then everyone talked at once. Vukradin saying *you're gonna spend it all*. Soma scolding. Vukradin muttering about money making money, the way he does when he's nervous about coin."
+> "So he says: but Valphine, as much as I would like to do this for free and gratis, unfortunately, it takes time and money." (51)
 
-### [5] Em-dash in narration prose
+**Why:** Both are the GM speaking out-of-fiction. Line 51 carries the GM's own speech tag `So he says:` inside the proprietor's quoted line. Line 45 is worse — the GM correcting Vukradin's joke has been *assigned to the proprietor*, and the narration then invents a justification for it (`did not hear it. Or pretended not to.`). Same root cause as scene 02: the voice spec's constraints 1–8 forbid altering anything between quotation marks, so the pass could not fix what the extraction handed it.
+**Suggested rewrite:** Line 51 → strip the tag: `"But Valphine, as much as I would like to do this for free and gratis, unfortunately, it takes time and money."` Line 45 needs the quote removed entirely and Vukradin's aside left unanswered.
 
-> And then he was off — every old story about the dark elves, the kind injustice cured, the warmth of the sun in their cold blood — a whole rope of stereotypes paid out like he was reciting scripture.
+### [5] Structural — missing POV heading — ~~FLAG WITHDRAWN~~
 
-**Why:** Two em-dashes wrapping a long descriptive pile-up.
-**Suggested rewrite:** "And then he was off. Every old story about the dark elves. The kind injustice cured, the warmth of the sun in their cold blood. A whole rope of stereotypes, paid out like scripture."
+> **Correction (2026-08-09):** wrong flag. `session_doc/assemble.py` lines 165–167 build the section header from the frontmatter `narrator:` field, which is correct here; the in-body `### <Name>` heading is never read. Adding one would have duplicated the narrator's name in the assembled document. Per GM ruling the three that existed were removed instead. See the correction in `voice_critique_summary.md`.
 
-### [6] Tell-not-show / over-explained interior (borderline)
+### [6] Mechanical scan A — 11 narration-level em-dashes
 
-> A gift was the last thing you ate before the world changed underneath you.
+Lines 9, 27, 35, 37, 39, 79, 87, 101, 119, 127, 133. Excludes em-dashes inside `"..."` and `*...*`.
 
-**Why:** Constructed aphorism. Failure-prevention rule 6 ("Do not over-explain his interior") and the spec's short-declarative rule push against authored maxims; Brewbarry distrusts gifts in motion, not in epigram. Borderline — it is close to his blunt register but tips into writerly.
-**Suggested rewrite:** "He'd learned not to trust gifts. Gifts came right before the bad part."
+**Why:** Same note as scene 01 — the period is Brewbarry's punctuation. Line 87 (`His gaze swung to me — and I was used to being looked at`) and line 133 (`— even a drow, even a barbarian —`) are the two doing real damage, because both splice a qualifier into a beat that should land flat.
+**Suggested rewrite:** Line 87 → `His gaze swung to me. I am used to being looked at.`
 
-### [7] Register / "measured" usage (borderline)
+## Not flagged (working as intended)
 
-> He measured the man's face, not the numbers.
-
-**Why:** Flagged per scan-note. "Measured" reading a face is metaphor, not the calc-register vocab the list warns about, and it suits a fighter sizing up a person — but the "not the numbers" antithesis is a clever constructed turn more than Brewbarry's plain statement. Borderline; the verb is fine, the rhetorical balance is the issue.
-**Suggested rewrite:** "He didn't watch the coins. He watched the man's face. It was already lost."
-
-### [8] Cliché simile (borderline)
-
-> The man lit up like the dawn he prayed to.
-
-**Why:** On-the-nose simile (Lathander = dawn). Thematically apt but a default reach. Borderline — leave if a lighter touch is wanted elsewhere.
-**Suggested rewrite:** "The man lit right up."
+Line 17 (`He looked at Valphine like she was a plate of warm bread`) is the best single line in the session — concrete, bodily, funny without trying. Line 89 (`I tend to be quiet in shops. Too many pretty things to break`) and line 79 (the wrestling-margin comparison, `by fall rather than by points`) are both exactly the register the spec asks for. Line 105's third-person self-reference (`"Brewbarry works for no one"`) is canon speech, not a defect.
 
 ## Verdict
 
-The single load-bearing problem is whole-scene: this block is third person where Brewbarry's spec and both example passages are first person, so it reads as someone narrating about him rather than as him. Under that, the prose is largely faithful to his blunt sensory voice; the recurring mechanical issue is house-style em-dash asides (four in narration) plus a couple of authored aphorisms that over-polish his plain register.
+The scene's interior passages keep explaining a point its images have already made — lines 115, 119 and 133 each add a paragraph of argument to a beat that landed two sentences earlier. Spot-edit by deletion rather than rewriting; almost every flag here resolves by cutting the explanatory tail.

@@ -8,730 +8,492 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party engages in a messy combat against several ochre jellies in the stone chamber, dealing with splitting enemies and environmental hazards.
-- The two ochre jellies attack the party in the opening moments: one swing misses Valphine, but the second slams into Brewbarry with devastating force, nearly dropping the barbarian outright.
-- Valphine calls upon radiant energy (Sacred Flame, DC 13 dexterity save) to sear one of the jellies. The creature fails the save but the die rolls minimum — one point of radiant damage. Dazlyn's player winces.
-- Vukradin unleashes Thunderwave (DC 13 constitution save, 8 damage on a fail). Both jellies fail the save (rolling a 6 and a 10 respectively) and are physically shoved across the stone floor — one is pushed diagonally into a corner where there is nowhere else for it to go. The thunderclap also stuns the third jelly that drops from the ceiling later, which the DM rules is an effect of the concussive sound.
-- Norbus and Dazlyn shout warnings from the corridor: *"Could you not use such damaging spells? It might damage some of the interior that we're trying to preserve."*
-- A third ochre jelly drops from the ceiling directly into the middle of the party. Soma: *"Guys, we're done here."* / *"Look, I got a few years left. I'd like to spend them not dead."* The DM declares the newcomer stunned from the Thunderwave's sound, giving the party a free round.
-- Soma casts Earth Tremor (DC 13 dexterity save, 5 damage on fail). One jelly makes the save; the other takes five damage. The surrounding stone floor becomes difficult terrain, slowing the creatures' advance.
-- Brewbarry enters a rage and delivers a critical hit with his bare fists — the party had learned from the halberd split that bludgeoning weapons would not divide the creatures. A vukradin Arcana check of 13 confirmed earlier that piercing likewise does not cause a split. The crit deals fourteen points of bludgeoning damage (1+4+2 base, doubled), obliterating one jelly entirely.
-- The ochre jelly strikes Soma for eight points of damage.
-- Valphine uses Healing Word (2d4+3, result: 8 hit points restored) as a bonus action to bring Soma back to 11 hit points, then fires Sacred Flame as her action — dealing only one point of radiant damage. "Gilly Gary, really?" quips the table.
-- Vukradin casts Dissonant Whispers (DC 13 wisdom save, 10 psychic damage on a fail). The jelly fails and must use its reaction to flee as far as possible. As it retreats, Valphine uses her granted reaction to strike it with her mace for three points of bludgeoning damage. Vukradin then retreats to the far corner: *"I can play my music from across the room. You'll be able to hear it. Trained musician, I play loudly."*
-- Soma withdraws into her shell as her action (the Tortle Shell feature), raising her armor class from 17 to 21 and planting herself as a living barrier. *"I'm here to get whaled on with a bonus 4 AC."* As a bonus action she can pop back out.
-- The third (stunned) jelly rolls its pseudopod against Soma and misses.
-- Brewbarry moves up and punches for six bludgeoning damage.
-- Ochre jelly one attacks Soma (AC 21): rolls a 14, misses.
-- Valphine: another mace attack — natural one.
-- Vukradin: Starry Wisp (radiant cantrip) — hits for eight damage.
-- With the surviving jelly below twenty hit points, it splits into two smaller oozes at five hit points each. Vukradin's last blow is ruled as what triggered the split.
-- The two split jellies attack Soma in succession. The first connects for ten points of damage (rolling a 13+4 = 17, matching her AC exactly). Soma drops to one hit point. The second strike connects — *"Oh, another hit. Oh, you're knocked out."* Soma begins making death saves.
-- Norbus calls from the corridor: *"Did somebody, did somebody get hurt?"* Dazlyn immediately follows: *"Again, to the extent possible, please don't damage any of the artwork. This is an important archeological find."*
-- Valphine uses Healing Word again to revive Soma; Brewbarry and Valphine continue attacking the split jellies.
-- Soma, revived, un-withdraws from her shell as a bonus action and uses Poison Spray on the last surviving jelly — dealing seven points and killing it.
-- The surviving jelly attacks Brewbarry and misses.
-- Vukradin draws both daggers. He hits twice in the same round, each strike targeting a different jelly. Both creatures die. *"Like a fucking barbarian, I love it."* Soma: *"Bard-barian."* Dave (Vukradin's player): *"Two, killed two creatures in one round. There's a bard for you, Kostadis."*
+- The two ochre jellies attack the party, with one nearly felling the barbarian with a powerful pseudopod strike in the opening moments of the fight — twelve damage that left Brewbarry at a single hit point. The other pseudopod, aimed at Vukradin ("Please don't tell me I killed you in the first round"), missed.
+- Valphine calls upon radiant energy to sear one of the jellies for six radiant damage.
+- Vukradin unleashes a thunderous wave that damages both jellies for eight apiece and pushes them back ten feet across the stone floor, one angled diagonally to clear the wall after Vukradin corrected the GM's initial straight-line placement — after a table-wide ruling discussion on how line and cube spell areas map to the grid, and a firm refusal to angle it through an ally: "I don't think it would be appropriate to attack my ally."
+- Norbus shouts a warning from the sidelines, worried about the party damaging the archaeological site; Dazlyn asks, "Is everybody okay there?"
+- Vukradin runs to hide behind the altar; a jelly pursuing him leaves Brewbarry's threatened reach, and Brewbarry takes the opportunity attack as a punch for four damage rather than risk another split with his blade.
+- Another ochre jelly drops from the ceiling, surprising the group — but falls stunned at the sound of the battle, entering the fight at initiative two.
+- Soma causes the earth to tremor, cracking the stone floor and creating difficult terrain to hinder the jellies' movement — five damage, one jelly slipping the save — and deliberately positioning the blast to spare Brewbarry.
+- The barbarian enters a rage and delivers a crushing critical blow — fourteen damage — that destroys one of the jellies, still at the single hit point the earlier pseudopod strike left him. "One down, three to go." (Table miscount in the heat of the moment — only two jellies remain on the board at this point; not a fourth jelly.)
+- Valphine uses healing magic to restore Soma's strength (eight points: "Hey, I'm back to 11. Thank you") while continuing to blast the jellies with sacred fire — including one cast that landed for a single point of damage. "Really, one?" — "Hey, he healed me very well, though. Minimum damage."
+- Vukradin uses dissonant whispers to psychically assault a jelly — ten psychic damage — forcing it to burn its reaction fleeing as far from him as possible, and handing Valphine a free swing on the way out.
+- Valphine strikes a jelly with her mace while the party maneuvers for better positioning; Vukradin retreats to the corner to play his music "from across the room."
+- Soma withdraws into her shell to act as a high-defense barrier for the group — an action pulling her into the shell for a bonus 4 AC, parking her at 21. "You're gonna sit there at AC 21 now. Interesting tactic." — "Hey, look, I'm blocking for you guys."
+- Vukradin's Starry Wisp cantrips chip in for four and then eight radiant damage, driving the last big jelly below half; the GM rules it splits in two (the GM's call was a vague on-the-fly ruling, not a stated slashing/radiant mechanism — the split isn't attributed to the radiant damage itself).
+- The jellies retaliate, slamming into the party — a thirteen-plus-four roll beating Soma's AC exactly for ten damage, then a second strike knocking her out entirely — before she is revived by Valphine's healing magic after rolling a death save.
+- Vukradin, having recalled via an arcana check that "piercing them did not seem to split them in half like the slashing did," finishes off the remaining jellies with a swift double-dagger strike, clearing the room.
+- Valphine's mace, by contrast, produced the first of Gary's three natural ones on the night — matched, he noted, by three natural 20s.
 
 ## Verbatim moments
 
-**[Ochre Jelly Combat — Setup and Initiative]**
-- GM places tokens on the map; Soma identifies the creature immediately.
-- Initiative is rolled; the GM notes ochre jelly has a −2 penalty to its base initiative of 10.
-- The party is outranked by the jelly.
+**[The Ochre Jellies Revealed]**
+- The GM reads the room: a bloodstained chamber with an altar.
 
-**[GM]** — *placing the ochre jelly on the map*
-> "So, um, I need to do the initiative thing"
+**GM** — *setting the scene*
+> "There's a blood-stained altar over there. All right, there's a blood-stained altar over there."
 
-**[Soma]** — *recognising the creature*
+**Soma** — *spotting the monster*
 > "Ochre jelly"
+> "Found it"
+> "Big old pile of mustard."
 
-**[Dave Mendenhall]** — *reading the jelly's stat block*
-> "AC8. There's an AC you don't see every day."
+**Vukradin** — *sizing up the enemy's armor class*
+> "Oof. AC8. There's an AC you don't see every day."
 
-**[Soma]** — *dark humour about rolling to hit*
-> "I mean, it's a slow gelatinous blob. You're gonna hit it. Well— You might not get your weapon back"
+**Soma** — *on the jelly's odds*
+> "I mean, it's a slow gelatinous blob. You're gonna hit it."
 
-**[Dave Mendenhall]**
-> "Still roll a one. Possible. This is when you use your attack spells."
+**GM** — *questioning whether it even rolls*
+> "Does it even have an initiative? It's a jelly, it just sits there"
 
-**[GM]** — *on initiative*
-> "Minus two on its initiative"
-> "Uh, minus two. So hold on, I need to make some adjustments. All right, it takes a minus two to its adj— to its 10, it has 52 hit points."
+**[Opening Pseudopods]**
+- The initiative roll and Brewbarry's halberd/split are the closing beat of the prior scene ("Ambush at the Blood-Stained Altar") — not repeated here to avoid narrating the same beat twice.
+- Jelly two unloads a pseudopod at Vukradin.
 
-**[GM]** — *rolling initiative*
-> "All right, 17. You rolled a 17?"
-> "I rolled a 19."
+**GM** — *rolling the attack*
+> "Okay, the one takes, uh, uh, unloads a pseudopod on you. Please don't tell me I killed you in the first round."
 
-**[Dave Mendenhall]** — *incredulous*
-> "What?"
-> "We got outranked by a fricking ochre jelly."
+**Vukradin** — *checking the roll*
+> "You missed. Yes."
 
-**[Soma]**
-> "You get used to these things with time"
+**GM** — *the other jelly turns on the barbarian*
+> "Number one advances on the barbarian. Oh, right."
 
-**[Dave Mendenhall]**
-> "It's been like eight years. I'm not used to it yet."
+- The strike lands hard; Brewbarry's player answers from within the GM's block:
+> "No, I'm not dead. I have one hit point."
 
----
+- The twelve-damage figure is confirmed later, during the rage discussion:
+> "And on the, when I took 12 damage before, I should have run Stone's Endurance-"
 
-**[scene tag — Brewbarry Opens with the Halberd / Jelly Splits]**
-- GM rolls an 11 for Brewbarry's attack; it hits.
-- Brewbarry attacks with his halberd — a slashing weapon.
-- GM rules the jelly is immune to slashing damage; the jelly splits into two.
+**GM** — *OOC, on bard-party precedent*
+> "By the way, just for the record, the last time we had a party with a bard, three of the four characters died."
 
-**[GM]** — *checking weapon type*
-> "What weapon did you use? A halberd. Is it a slashing weapon? It is a— Uh, I guess— Flashing, yes. All right. Or so it is immune to the slashing damage. All right. And it splits into two."
+**Soma** — *replying*
+> "Bards don't do much at level one."
 
-**[Soma]**
-> "Well, that's crap. Perfect."
+**[Valphine's Sacred Flame]**
+- Valphine's turn, resolved inside a GM-labeled block:
+> "Uh, we're gonna do, um, Sacred Flame. All right."
+> "And that would be six radiant"
+> "The one that's closest to me."
+- Six radiant damage marked on jelly two.
 
----
+**[Thunderwave and the Lightning Bolt Ruling]**
+- Before casting, the GM lays down a table-wide ruling on line/cube areas.
 
-**[scene tag — Soma's Earth Tremor and the Stone Floor Becoming Difficult Terrain]**
-- Soma moves to avoid hitting Brewbarry and casts Earth Tremor targeting both jellies (DC 13 dexterity save, 5 damage on fail).
-- One jelly makes its save; the other fails and takes five damage.
-- The stone floor around Soma becomes difficult terrain.
+**GM** — *pre-empting a future argument*
+> "There was a ruling on lightning bolt, so that we all know it."
+> "This affects everybody in those squares if they are of size medium"
+> "as long as it hits half of the square"
+> "So if you were to use lightning bolt from here, you could target all of these, everybody here."
 
-**[Soma]** — *positioning for Earth Tremor*
-> "What was that request about not doing damaging spells to the environment?"
+**Vukradin** — *deadpan*
+> "Okay. Why would I wanna target the barbarian?"
 
-**[Dave Mendenhall]**
-> "I love it. Do it."
+**Soma** — *tactically*
+> "But you could also shift it left so that it only hits one column instead of two, right?"
 
-**[Soma]**
-> "Yeah, no, we're doing, uh— We're dropping an earth tremor right here. Uh, five damage to both, unless they can do a DC13 dex."
+**Vukradin** — *the refusal*
+> "I don't, I don't think it would be appropriate to attack my ally."
 
-**[GM]**
-> "Oh, five damage. Uh, you're— One of them makes it. Oh, my God."
+**GM** — *breaking the fourth wall*
+> "Vukradin, we weren't talking to you right now. We were talking to Dave. Dave is an alter ego of yours."
 
-**[Soma]**
-> "The other doesn't. They have, like, negative— No, they have a massive dex penalty, don't they? Yes, yes, but— They still make it"
+**Vukradin** — *demanding the saves*
+> "All right. Can you do your damn con saves?"
+> "I wanna know if I did any damage."
 
-**[GM]**
-> "yes, so number two takes five points of damage."
-
-**[Soma]** — *explaining the terrain effect*
-> "Yeah, it's a bummer. I mean, I hit both of them. So what's— But yeah, one save on the— Has it… What, what, what is the area of effect? It's 10, 10 feet around me, so five feet and whatever."
-> "So this whole area around me is, uh, now difficult."
-
----
-
-**[scene tag — Brewbarry Rages / Arcana Check on Weapon Immunity / Critical Hit Destroys Jelly]**
-- Brewbarry takes Rage as a bonus action.
-- Dave asks an arcana check (result: 13) to confirm that piercing damage does not split ochre jellies; GM confirms only slashing splits them.
-- Brewbarry punches (bludgeoning); GM rules critical hit at end of round.
-- Critical deals 14 damage (1+4+2 doubled); jelly two is destroyed.
-
-**[GM]** — *on how Rage works*
-> "You take it as a bonus action."
-> "Uh, it takes the bonus action, and then do I get extra damage from it?"
-> "Yes."
-
-**[Dave Mendenhall]** — *Arcana check to probe immunity*
-> "Um, but if you roll an arcana check, I might tell you."
-> "13"
-
-**[GM]**
-> "You do recall the last time you played with oozes as a child, piercing them did not seem to split them in half like the slashing did."
-
-**[Dave Mendenhall]**
-> "Okay. All right. Well, let's give this a shot. I should be able to do two attacks. Um, so I've got two daggers, so I should be able to do a main attack and an off-hand attack, right?"
-
-**[GM]** — *on the critical*
-> "Ooh, there's critical."
-
-**[Dave Mendenhall]**
-> "Ooh, critical. Nice."
-
-**[GM]** — *tallying damage*
-> "So ochre jelly number two has seven points of damage."
-
-**[Dave Mendenhall]**
-> "I think he's dead."
-
-**[GM]**
-> "So he was dead. So he took 25 or whatever, or— So you would've done— Or no, that's a hit— uh, let's just, just for the, for the purposes of this— Yeah— you have done one plus four plus two, seven, 14 points of damage. Dead."
-
-**[Dave Mendenhall]**
-> "Okay. Nicely done."
-
-**[GM]**
-> "All right. Not sure if it'll be enough to save us, but yeah. One down, three to go."
-
----
-
-**[scene tag — Ochre Jelly One Strikes Soma for Eight Damage]**
-
-**[Dave Mendenhall]** — *calling the jelly's turn*
-> "All right. Ochre jelly one is up."
-
-**[GM]** — *rolling attack against Soma*
-> "You've been hit."
-
-**[Soma]**
-> "Are you shitting me? No. You're just, like, saving all your good rolls for me. All right, uh— Lucky roll."
-
-**[Dave Mendenhall]**
-> "What? Lucky roll."
-
-**[Soma]**
-> "Yeah, that's all right. Uh, how much damage are we hitting? I don't know. Let me check. Is it really 10?"
-
-**[GM]**
-> "Eight. Eight. Ouch."
-
----
-
-**[scene tag — Valphine Healing Word + Sacred Flame (One Point of Radiant)]**
-- Valphine casts Healing Word on Soma (2d4+3, result: 8 hp restored), bringing her to 11 hp.
-- Valphine then fires Sacred Flame (DC 13 dex save); jelly fails; radiant damage roll: 1.
-
-**[Dave Mendenhall]** — *prioritising Soma*
-> "All right, Valphine."
-
-**[GM]** — *deliberating*
-> "I mean, okay, sure. I can heal you"
-
-**[Soma]**
-> "You can also kill the jelly. It's fine."
-
-**[Dave Mendenhall]**
-> "Kill the jelly. There'll be time for healing later."
-
-**[GM]**
-> "Wait, I, I can only cast one spell per round, so I can't do Healing Word and another spell? You can do one spell and one cantrip."
-
-**[GM]** — *casting*
-> "Okay. So I'm doing Healing Word, 2D4 plus 3"
-
-**[Soma]**
-> "So Wade, you get eight back. Hey, I'm back to 11. Thank you."
-
-**[GM]** — *Sacred Flame result*
-> "All right, so one, one spell, and then we'll do sacred flame again for 1D eight, and we'll do it on number one. And what's, what's the saving throw? A 13 dex. All right. He blows it, 'cause they have a minus two."
-> "This time we— One damage"
-
-**[Dave Mendenhall]**
-> "Really, one? Yeah, one damage. Gilly Gary, really?"
-
-**[Soma]**
-> "Hey, he healed me very well, though. Minimum damage."
-
----
-
-**[scene tag — Vukradin Casts Thunderwave / Norbus and Dazlyn Shout From the Corridor]**
-- Vukradin casts Thunderwave (DC 13 constitution save, 8 damage on fail).
-- Both jellies roll 6 and 10; both fail (GM confirms +2 bonus insufficient).
-- Each takes 8 damage and is shoved 10 feet; one pushed diagonally into a corner.
-- Norbus and Dazlyn call from the corridor.
-
-**[Dave Mendenhall]** — *calling the spell*
-> "Vukradin is up."
-> "DC 13 wisdoms, DC13 wisdom save on number three"
-
-**[GM]** — *on the jelly's wisdom*
-> "What, uh, s— wisdom saving throw? Uh, it was, uh, blown. I'm assuming they have a significant penalty"
-
-**[Dave Mendenhall]**
-> "All right, so 10 da— Yes, they are minus two. So he takes 10 damage."
-
-*(Note: the Thunderwave DC 13 constitution saves and shoving appear earlier in the combat sequence:)*
-
-**[GM]** — *rolling for the Thunderwave saves*
-> "Two, two. Six and 10."
-> "Six and 10. Grug, Gilly. Uh, uh, constaves of plus two. No, unless it's, uh, eight and—"
-
-**[Dave Mendenhall]**
+**Vukradin** — *the result*
 > "They fail. They fail. So they each take eight damage and are pushed back 10 feet."
 
-**[GM]**
-> "All right. This guy goes, pushed back five feet, 'cause there's nowhere to go."
+**GM** — *placing the pushback*
+> "This guy goes, pushed back five feet, 'cause there's nowhere to go."
 
-**[Dave Mendenhall]**
+**Vukradin** — *correcting the geometry*
 > "Uh, no. I mean, I would've been angling it up, right? So I think he goes diagonally."
 
-**[GM]** — *Norbus shouts from the corridor*
-> "Meanwhile, the two dwar— one of the two dwarves shouts, 'Uh,' Dazlyn goes, 'Is everybody okay there?'"
-> "and Norbus shouts, 'Could you not use such damaging spells? It might damage some of the interior that we're trying to preserve.'"
+**[The Dwarves Shout from the Sidelines]**
+- The GM voices Dazlyn from off-screen:
+> "Is everybody okay there?"
+- And Norbus:
+> "Could you not use such damaging spells? It might damage some of the interior that we're trying to preserve."
 
-**[Dave Mendenhall]**
+**Vukradin** — *muttering*
 > "Wait till later. Oh, I'm looking forward to combat with him."
 
----
+**[Behind the Altar]**
 
-**[scene tag — Third Ochre Jelly Drops From the Ceiling]**
-- A third ochre jelly appears, dropped from the ceiling directly into the party.
-- GM rules it stunned from the Thunderwave concussive sound.
+**Vukradin** — *repositioning*
+> "And, uh, I will run and hide behind the altar."
 
-**[GM]**
+- Brewbarry considers the opportunity attack, refusing his slashing weapon:
+> "With my slashing weapon. Or I guess I should punch then."
+> "I'll punch."
+- The punch math lands at one plus strength: four damage.
+> "One plus three."
+
+**[A Third Jelly Drops]**
+
+**GM** — *misnaming, then correcting the monster*
 > "Another gray ooze drops from the ceiling."
+> "Ochre jelly."
 
-**[Soma]**
+**Soma** — *immediately*
 > "Guys, we're done here."
 
-**[Dave Mendenhall]**
+**Vukradin**
 > "Nah, we're good."
 
-**[Soma]**
+**Soma**
 > "Look, I got a few years left. I'd like to spend them not dead."
 
-**[GM]**
-> "Another ochre jelly, or a what? Ochre jelly. O— ochre jelly."
+**Vukradin** — *to the GM*
+> "Why are you dropping it right next to me?"
 
-**[Dave Mendenhall]**
-> "Oh, another ochre jelly."
-
-**[Soma]**
-> "I'm not sure how this is gonna work. It just— Why"
-
-**[Dave Mendenhall]**
-> "are you dropping it right next to me?"
-
-**[Soma]**
+**Soma**
 > "Guys, this is fleeing time."
 
-**[GM]** — *ruling on the stun*
-> "It, well, it, it, strictly speaking, it is… Let's see. They, they have… Are they immune to stunned?"
-
-**[Soma]**
-> "They're immune to a lot of things."
-
-**[GM]**
+**GM** — *stunning his own monster*
 > "Yes, but they are not immune to stunned, so I'm going to declare that they fell down stunned at the sound."
-
-**[Dave Mendenhall]**
-> "Okay. You wanna do an initiative roll?"
-
-**[GM]**
 > "I, I did. He's got initiative of two."
 
-**[Soma]**
+**Soma** — *on initiative two*
 > "Hey, that's something I can beat."
 
----
+**[Earth Tremor]**
 
-**[scene tag — Vukradin Casts Dissonant Whispers / Valphine Reaction Strike / Vukradin Retreats]**
-- Vukradin casts Dissonant Whispers (DC 13 wisdom save); jelly fails; 10 psychic damage; jelly must use reaction to flee.
-- Valphine uses her granted reaction to strike the fleeing jelly with her mace for 3 bludgeoning damage.
-- Vukradin retreats to the far corner of the room.
+**Soma** — *pointedly, before casting*
+> "What was that request about not doing damaging spells to the environment?"
 
-**[Dave Mendenhall]** — *calling the spell*
-> "All right. DC3 wisdoms, DC13 wisdom save on number three"
+**Vukradin**
+> "I love it. Do it."
 
-**[GM]**
-> "What, uh, s— wisdom saving throw? Uh, it was, uh, blown. I'm assuming they have a significant penalty"
+**Soma** — *casting*
+> "Yeah, no, we're doing, uh... We're dropping an earth tremor right here. Uh, five damage to both, unless they can do a DC13 dex."
 
-**[Dave Mendenhall]**
-> "All right, so 10 da— Yes, they are minus two. So he takes 10 damage."
+**GM** — *rolling saves*
+> "One of them makes it."
 
-**[GM]**
-> "Da— what did you do?"
+**Soma** — *on the terrain*
+> "And the terrain becomes difficult if it is stone or loose earth, and I think it's stone, isn't it?"
+> "So this whole area around me is, uh, now difficult."
 
-**[Dave Mendenhall]**
-> "Dissonant Whispers. And, and must immediately use its reaction to move as far away from me as it can."
+**Soma** — *adjusting placement to spare an ally*
+> "I just didn't wanna hit our, our barbarian, but I wanted to hit both of them."
 
-**[GM]**
-> "Oh, then what, what condition is… Does it, is it affected by a condition? What kind of damage is the spell?"
+**[Rage and the Critical]**
+- Brewbarry's turn, inside a GM-labeled block:
+> "Then I will rage."
+- Rage bonus sorted out at plus two; then:
+> "Ooh, there's critical."
 
-**[Dave Mendenhall]**
-> "Psychic damage."
+**Vukradin**
+> "Ooh, critical. Nice."
 
-**[GM]**
-> "Hold on. Yep, it is suscep— Is it immune to— It's not immune to, it's not immune to it… it's immune to frightened, but—"
+**GM** — *totaling the kill*
+> "you have done one plus four plus two, seven, 14 points of damage. Dead."
 
-**[Dave Mendenhall]**
+**Vukradin**
+> "Okay. Nicely done."
+
+- Brewbarry's player, within the GM block:
+> "Not sure if it'll be enough to save us, but yeah. One down, three to go."
+
+**[Soma Takes a Hit]**
+
+**GM** — *lucky roll against the tortle*
+> "You've been hit."
+
+**Soma**
+> "Are you shitting me?"
+
+**GM** — *damage*
+> "Eight. Eight. Ouch. All right."
+
+**[Healing Word and the One-Point Flame]**
+
+**Soma** — *down to three*
+> "Save me."
+> "I'm at three hit points."
+
+**GM** — *to Valphine's player, weighing options*
+> "Eh, you know, you're probably okay. But the ally needs one. That's smart."
+
+**Soma**
+> "You can also kill the jelly. It's fine."
+
+**Vukradin**
+> "Kill the jelly. There'll be time for healing later."
+
+**GM** — *the action-economy ruling*
+> "You can do one spell and one cantrip."
+
+- Valphine, inside a GM-labeled block:
+> "Okay. So I'm doing Healing Word, 2D4 plus 3"
+
+**Soma** — *receiving eight points*
+> "Hey, I'm back to 11. Thank you"
+
+- Sacred Flame follows on jelly one — for one point of damage.
+
+**Vukradin** — *incredulous*
+> "Really, one?"
+> "Hey, he healed me very" (truncated, continues into the next block)
+
+**Soma** — *completing the line*
+> "well, though. Minimum damage."
+
+**[Dissonant Whispers]**
+
+**Vukradin** — *casting*
+> "All right, DC3 wisdoms, DC13 wisdom save on number three"
+> "Dissonant Whispers. Dissonant Whispers. And, and must immediately use its reaction to move as far away from me as it can."
+> "So he takes 10 damage."
 > "On a failed save, it takes 3 D6 psychic damage, and must immediately use its reaction, if available, to move as far away from me as it can using the safest route."
-> "So goodbye, you are not gonna attack me next round. There you go. As far away."
+> "So goodbye, you are not gonna attack me next round. There you go."
 
-**[GM]**
-> "I get a reaction now."
+**GM** — *the fleeing jelly provokes*
+> "I get a, I get a reaction now."
 
-**[Dave Mendenhall]**
-> "Yes, you do get a reaction."
+**Vukradin**
 > "Yes, and Valphine gets to attack."
 
-**[GM]** — *Valphine reaction strike*
-> "What are you attacking with? A mace. All right, that is a good thing to attack with"
+- Valphine's reaction mace lands:
 > "Three points of damage from the mace."
 
-**[Dave Mendenhall]** — *Vukradin retreats*
+**[Vukradin Retreats to the Corner]**
+
+**Vukradin**
 > "All right, and then I will use my movement to move over here into the corner."
 
-**[GM]**
+**GM** — *dryly*
 > "Very bravely."
 
-**[Dave Mendenhall]**
+**Vukradin**
 > "I can play my music from across the room. You'll be able to hear it. Trained musician, I play loudly."
 
-**[GM]**
+**GM** — *an exchange interleaved within one block*
 > "Loudly or with big volume?"
 > "There's a difference? Yes. Anybody can play loudly. A good musician plays with appropriate volume."
 
----
+**[The Turtle Tank]**
 
-**[scene tag — Soma Withdraws Into Shell / Plants as Living Barrier]**
-- Soma uses her action to withdraw into her shell (Tortle Shell feature), raising AC from 17 to 21.
-- She positions herself between the remaining jellies and the rest of the party.
+**GM** — *jelly three's pseudopod*
+> "he rolls his pseudopod. He misses."
 
-**[Dave Mendenhall]** — *Soma's turn*
-> "All right. Soma?"
+**Soma** — *going defensive*
+> "All right. Uh, we're going to, uh, tank for you guys, and I'm gonna use my action to withdraw, which gives me-"
 
-**[Soma]**
-> "All right, we're going to, uh, tank for you guys, and I'm gonna use my action to withdraw, which gives me—"
-
-**[Dave Mendenhall]**
+**Vukradin**
 > "You mean disengage?"
 
-**[Soma]**
+**Soma**
 > "No, no. Withdraw is, uh, pull into the turtle shell."
-> "Oh."
+> "So I'm here to get whaled on with an, a bonus 4 AC."
 
-**[Dave Mendenhall]**
-> "So"
-
-**[Soma]**
-> "I'm here to get whaled on with an, a bonus 4 AC."
-
-**[Dave Mendenhall]**
+**Vukradin**
 > "You're gonna sit there at AC 21 now."
 > "Interesting tactic."
 
-**[Soma]**
-> "Yes. Look, I'm blocking for you guys. I,"
+**Soma**
+> "Hey, look, I'm blocking for you guys."
 
-**[Dave Mendenhall]**
-> "Yeah, it's, it's viable. We'll see how it goes. We'll see how… The ochre jellies are pretty dumb."
+**Vukradin** — *on the enemy AI*
+> "They could just sit there, continue to try to bang on your shell for a while and-"
 
-**[Soma]**
-> "They are. They, you know—"
-
-**[Dave Mendenhall]**
-> "They could just sit there, continue to try to bang on your shell for a while and—"
-
-**[GM]**
+**GM**
 > "No, they, they can smell something tasty in there."
 
-**[Dave Mendenhall]**
-> "Yeah, they, they are pretty dumb."
+**Soma** — *clarifying the mechanic*
+> "I'm 21, and as a bonus action I can pop out, so there's that."
+> "Sure. I'm tr- trying to keep him in place so that you guys can, like, hit and run or do whatever you need."
 
-**[Soma]** — *on the bonus action pop-out*
-> "I could make that rolls off pretty easy. All right."
-> "It sucks that it takes the action to enter the state, but, you know—"
-> "keep you guys around."
+**[Valphine's First Natural One]**
+- Valphine cuts through the tortle's square to reach the far jelly.
 
----
+**Soma** — *granting passage*
+> "I'm friendly. I'll allow it in my, you know, shelly state."
 
-**[scene tag — Ochre Jelly One Attacks Soma (AC 21) — Miss; Valphine Natural One]**
+**Valphine** — *the roll, in her own block*
+> "Nice. Natural one. Well done, Gary."
 
-**[GM]** — *jelly attacks Soma*
-> "All right, so the first one attacks you and hits for 17 hits."
+**[Starry Wisp, Poison Spray, and the Second Split]**
+- Vukradin's cantrip — his name garbled by the transcript:
 
-**[Soma]**
-> "Me? 17."
-
-**[GM]**
-> "Yes, that hits. I rolled a 13, and you add four, so that's 17."
-
-*(Note: this is the earlier hit before the shell. The shell AC-21 miss comes later:)*
-
-**[GM]** — *ochre jelly one attacks Soma at AC 21*
-> "I missed. I had rolled a 14."
-
-**[Dave Mendenhall]**
-> "Right. Valphine."
-
-**[GM]** — *Valphine's mace attack*
-> "Okay. Um, hmm. I guess maybe I will do, um, uh, the Sacred Flame on the far one that's almost dead."
-
-**[Gary Young]**
-> "Okay, fine. I'll, I'll come in and attack with the mace."
-
-**[GM]** — *result*
-> "Natural one. Natural one."
-
-**[GM]**
-> "Norbus, we have a Vukradin, and we're going to tell stories. The Vukradin will tell us stories."
-
----
-
-**[scene tag — Vukradin Starry Wisp for Eight Radiant Damage]**
-
-**[Dave Mendenhall]**
-> "Lucrotten will use a cantrip. All right. Hits."
-
-**[GM]**
-> "What is that?"
-
-**[Dave Mendenhall]**
+**Vukradin**
+> "Vukradin will use a cantrip. All right. Hits."
 > "Starry wisp."
-> "That's my cantrip. What kind of damage is that? Radiant."
-> "Okay. Four damage. Wow. Okay, four damage on one."
+> "Okay. Four damage."
+- Jelly one drops to three hit points; jelly three swings at Soma and misses.
 
-*(Later round:)*
+**Soma** — *unimpressed*
+> "Didn't need plus four AC for that."
 
-**[Dave Mendenhall]** — *Starry Wisp second use*
-> "Vukradin, Starry Wisp"
-> "That's For eight damage"
+**Soma** — *popping out to finish the small one*
+> "Oh, I'm sorry. Yeah, duh. Uh, so I guess bonus action, I will un-withdraw and try to kill the little dude since we can probably get down to one guy."
+> "We got poison spray. They're not immune to poison damage, right?"
 
-**[Gary Young]**
-> "Pretty good"
-
-**[Dave Mendenhall]**
-> "Yeah, that is pretty good. Down to 13."
-
----
-
-**[scene tag — Jelly Splits Below 20 HP / Two Jellies at Five HP Each]**
-- Brewbarry's mace attack brings the remaining jelly below 20 hp; it splits into two at five hp each.
-
-**[Dave Mendenhall]** — *tracking hp*
-> "All right. Ochre, Ochre's up"
-
-**[GM]**
-> "Oh, wait, hold on. How many points did he go to?"
-
-**[Dave Mendenhall]**
-> "He's down to 13 now. All right, so— He's probably split by now. Yeah, he splits in two"
-
-**[Dave Mendenhall]**
-> "How many hit points for each one?"
-
-**[Soma]**
-> "Uh, half."
-
-**[Dave Mendenhall]**
-> "So seven and six? Yeah"
-
-**[GM]**
-> "All right. All right All righty. So they're not that much smarter."
-
-**[Soma]**
-> "Well, I'm no longer in defense or anything, so."
-
-**[GM]** — *ruling on Vukradin's triggering blow*
-> "Was it two before or after I attack? Well, whoever did the la— whoever got it, whoever got it below 20 points of damage. Ah, okay. All right. Yeah."
-
-**[Dave Mendenhall]**
-> "Would it split in between my two attacks? All right. The status? Would it split— Uh—"
-
-**[GM]**
-> "In the— I'm gonna just declare at the end of your two attacks."
-
-**[Dave Mendenhall]**
-> "All right. Okay. All right, so I've got two ogres at 10 hit points each. Right. Okay."
-
-**[GM]**
-> "Okay. There. All right, Brewbarry is up. So that, that five hit points each, right? Because you've got— Oh, it's five."
-
-**[Dave Mendenhall]**
-> "At five each. Yes, you're right, five each."
-
----
-
-**[scene tag — Two Split Jellies Attack Soma / Soma Drops to Zero / Death Save]**
-- Split jelly one strikes Soma: rolls 13+4=17, matching her AC exactly; ten points of damage; Soma at one hp.
-- Split jelly two also connects; Soma is knocked unconscious.
-- Soma begins rolling death saves.
-
-**[GM]** — *first split jelly attacks*
-> "All right, so the first one attacks you and hits for 17 hits."
-> "Define you. Uh, wait, hold on. What's your armor class?"
-
-**[Soma]**
-> "Me? 17."
-
-**[GM]**
-> "Yes, that hits. I rolled a 13, and you add four, so that's 17."
-
-**[Soma]**
-> "Yeesh."
-
-**[GM]**
-> "And the damage—"
-
-**[Soma]**
-> "You'll live…"
-
-**[GM]**
-> "is 10 points of damage. Thanks."
-
-**[Soma]**
-> "Only need one hit point. Told you you'd live."
-
-**[GM]** — *second split jelly attacks*
-> "All right. All right, well, the second guy attacks you as well."
-
-**[Dave Mendenhall]**
-> "This I can't guarantee as much."
-
-**[GM]**
-> "Oh, another hit. Oh, you're, you're knocked out."
-
-**[Soma]**
-> "All right."
-
-**[Dave Mendenhall]**
-> "Sorry, man."
-
-**[Soma]**
-> "That's all right."
-
-**[GM]**
-> "Roll the death save."
-
-**[Soma]**
-> "Oh, it's just one D20, right? Yeah. Yes. Roll a D20."
-
----
-
-**[scene tag — Norbus and Dazlyn React to the Carnage]**
-
-**[GM]** — *Norbus from the corridor*
-> "Norbus goes, 'D— did somebody, did somebody get hurt?'"
-
-**[GM]** — *Dazlyn*
-> "Again, to the extent possible, please don't damage any of the artwork. This is an important— Art? 'This is an important— Take no mind of the destroyed floor… I see a blood-stained altar. It, this is an important archeological find.'"
-
-**[Dave Mendenhall]**
-> "Oh my God."
-
----
-
-**[scene tag — Valphine Healing Word Revives Soma / Combat Continues]**
-- Valphine uses Healing Word again to revive Soma.
-- Brewbarry and Valphine continue attacking the split jellies.
-
-**[GM]** — *deliberating on action*
-> "I mean, I guess I could use another healing word— Oh— on the turtle."
-
-**[Soma]**
-> "All right, guys. Or just leave me to bleed out."
-
-**[GM]**
-> "No, I'll heal you for 2D4 plus three."
-
-**[Soma]**
-> "Keep bouncing between one and 10 hit points. Up and down and up and down."
-
----
-
-**[scene tag — Soma Un-Withdraws and Uses Poison Spray / Last Jelly Dies]**
-- Soma revives, un-withdraws as a bonus action, and uses Poison Spray on the last surviving jelly — seven points of damage; creature dies.
-
-**[Dave Mendenhall]**
-> "All right. Soma. Soma, you're up"
-
-**[Soma]**
-> "Oh, right. I'm at the bottom. Yeah. Vukradin first. Vukradin"
-
-*(Later round — Soma's Poison Spray:)*
-
-**[Dave Mendenhall]**
-> "Wade, you're up"
-
-**[Soma]**
-> "Oh, I'm sorry. Yeah, duh. Uh, so I guess bonus action, I will un-withdraw and try to kill the little dude since we can probably get down to one guy. Yeah. Uh, and it's probably just cantrip territory. What do we got? We got poison spray. They're not immune to poison damage, right?"
-
-**[Dave Mendenhall]**
+**Vukradin**
 > "Guess we'll find out."
 
-**[Soma]**
-> "Yeah. Well, we're poison spraying at number one. All right. And I'll roll a natural one just for you. There we go. Seven damage. Okay, that's a hit."
+**Soma**
+> "Yeah. Well, we're poison spraying at number one."
+> "And I'll roll a natural one just for you. There we go. Seven damage."
 
-**[GM]**
-> "Dead."
+**GM**
+> "Dead. All right."
 
----
+- Brewbarry punches for six; Valphine's mace lands for five.
+- Vukradin's second Starry Wisp lands for eight:
 
-**[scene tag — Vukradin Double-Dagger Kill / End of Combat]**
-- Vukradin draws both daggers and hits twice in the same round, each killing one of the surviving split jellies.
-- Table erupts at the "bard-barian" moment.
+**Vukradin**
+> "Yeah, that is pretty good. Down to 13. All right, Ochre, Ochre's up"
 
-**[Dave Mendenhall]** — *deciding on tactics*
-> "Hmm. So do the daggers?"
-> "What should I do to spell"
-> "Well, let's try the daggers. That worked well last time."
-> "You're six?"
-> "And a miss. Six"
+**GM** — *the split*
+> "He's probably split by now Yeah, he splits in two"
 
-**[GM]**
-> "How much damage?"
+**Soma** — *environmental texture on the split; "plus one" is table banter about acid wear, not a real item stat — confirmed via VTT as Wade improvising flavor, not the GM*
+> "Heck. Your plus one mace is heavily corroded."
 
-**[Dave Mendenhall]**
-> "Six damage. Down to 37. Correct."
+**Vukradin** — *bookkeeping the halves*
+> "How many hit points for each one?"
 
-*(Second combat with daggers — the double kill:)*
+**Soma**
+> "Uh, half."
 
-**[Dave Mendenhall]**
-> "Two hits. Four."
+**Vukradin**
+> "So seven and six? Yeah"
 
-**[GM]**
-> "10 damage. It splits into two"
+**[The Jellies Retaliate — Soma Falls]**
 
-*(Final round — double kill:)*
+**GM** — *first pseudopod*
+> "All right, so the first one attacks you and hits for 17 hits."
 
-**[Dave Mendenhall]**
-> "Yeah. And A hit, two hits. Four."
+**Soma**
+> "Me? 17."
 
-**[GM]**
-> "10 damage. It splits into two"
+**GM**
+> "Yes, that hits. I rolled a 13, and you add four, so that's 17."
 
-**[Dave Mendenhall]** — *the killing round*
-> "Vukradin."
+**Soma**
+> "Yeesh."
 
-*(After the crit kill earlier and the final two dagger kills:)*
+**GM** — *damage*
+> "is 10 points of damage. Thanks."
 
-**[GM]** — *Brewbarry crits one of the last two split jellies*
-> "Well, I crit one of them, so we can just cleave that guy out. Hmm. All right, he's dead."
+**Soma**
+> "Only need one hit point. Told you you'd live."
 
-**[Soma]**
-> "He's dead, Jim"
+**GM** — *second pseudopod*
+> "All right, well, the second guy attacks you as well."
 
-**[GM]**
-> "All right. I, I just delete one of the two. There should be one with five hit points left."
+**Vukradin**
+> "This I can't guarantee as much."
 
-**[GM]** — *surviving split jelly misses Brewbarry*
-> "And this guy attacks a Brewbarry, 'cause why? 'Cause Brewbarry's staring at him right in the face, and misses."
+**GM** — *the hit lands*
+> "Oh, another hit. Oh, you're, you're knocked out."
 
-**[Soma]** — *Poison Spray for one damage*
-> "Well, I do one damage. Excellent."
+**Vukradin**
+> "All right. Sorry, man."
 
-**[GM]**
-> "All right"
+**Soma**
+> "That's all right."
 
-**[Soma]**
-> "Hey, that's 20% of its hit points, guys."
+**GM**
+> "Roll the death save."
 
-**[Gary Young]** — *Valphine mace: natural one again*
-> "Nice. Natural one."
+**Soma**
+> "Oh, it's just one D20, right?"
 
-**[GM]**
-> "Wow. Thanks."
-> "That's my third natural one."
+**Vukradin** — *reading the result*
+> "Uh, that's a plus. That's a plus. Fact."
 
-**[Dave Mendenhall]**
-> "Two hits"
+**[The Dwarves Interject Again]**
+- The GM voices Norbus from off-screen:
+> "D- did somebody, did somebody get hurt?"
+- Table reaction inside the same block:
+> "Shut the hell up. Oh my God."
+- Then Dazlyn:
+> "A- again, to the extent possible, please don't damage any of the artwork. This is"
+> "an important- Art?"
+> "It, this is an important archeological find."
 
-**[GM]**
-> "Um, Vukradin too. Eight,"
+**Vukradin**
+> "Oh"
 
-**[Dave Mendenhall]**
-> "eight, eight hit points of damage. Dead."
+**GM**
+> "my God."
 
-**[GM]**
-> "Dead."
+**[Mopping Up]**
+- Brewbarry misses; Valphine moves and connects.
 
-**[Dave Mendenhall]**
-> "I'm kind of done with those daggers. That's nice."
+**Valphine** — *the hit*
+> "Yeah And 10"
 
-**[Dave Mendenhall]** — *post-combat meta*
-> "Two, killed two creatures in one round. There's a Vukradin for you, Kostadis."
+**GM** — *assigning it*
+> "Five. So you do 10 damage to, I guess the one with seven."
+- That jelly dies.
 
-**[GM]**
-> "Yeah, I, I'm just, I'm just saying the Vukradin you know."
+**GM** — *Valphine spends her last slot on the downed tortle*
+> "I mean, I guess I could use another healing word- Oh ... on the turtle."
 
-**[Dave Mendenhall]** — *post-combat*
+**Soma**
+> "All right, guys. Or just leave me to bleed out."
+
+**GM** — *the heal, within the same block*
+> "No, I'll heal you for 2D4 plus three."
+
+**Soma** — *on the round's whiplash*
+> "Keep bouncing between one and 10 hit points. Up and down and up and down."
+
+**[The Arcana Check and the Double-Dagger Finish]**
+
+**Vukradin**
+> "Are they immune to piercing damage?"
+
+**Soma**
+> "Uh, I don't think so."
+
+**GM**
+> "Um, but if you roll an arcana check, I might tell you."
+
+**Vukradin** — *rolling*
+> "Okay. I guess I could try that."
+> "13"
+
+**GM** — *the recall*
+> "You do recall the last time you played with oozes as a child, piercing them did not seem to split them in half like the slashing did."
+
+**Vukradin** — *setting up the two-weapon attack*
+> "Okay. All right. Well, let's give this a shot. I should be able to do two attacks. Um, so I've got two daggers, so I should be able to do a main attack and an off-hand attack, right?"
+> "Well, that, that's an eight. Eight hits"
+
+**GM**
+> "Holy cow."
+> "You hit both times."
+
+**Vukradin** — *first dagger*
+> "Four damage. No, that's just one. That's the first attack. Four damage, we'll do that one on number three, so he's down to zero."
+- Second dagger also hits:
+> "Also a hit"
+> "For six damage."
+
+**Soma**
+> "Did you kill him? Yeah. Double death. Go bard go."
+
+**Vukradin**
 > "Like a fucking barbarian, I love it."
 
-**[Soma]**
-> "Vukradin-barian."
+**Soma**
+> "Bard-barian."
+
+**Vukradin** — *claiming the round*
+> "Two, killed two creatures in one round. There's a bard for you, Kostadis."
+
+**GM** — *conceding, as the fight ends*
+> "Yeah, I, I'm just, I'm just saying the bard you know."
+
+**[Coda — Gary's Dice]**
+- Valphine's mace natural one was the first of three on the night; Gary tallies it up later in the session:
+> "I, I think I got three natural 20s and three natural ones."

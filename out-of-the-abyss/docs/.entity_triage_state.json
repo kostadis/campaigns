@@ -1,6 +1,6 @@
 {
   "started_at": "2026-07-13T01:59:34Z",
-  "updated_at": "2026-07-14T21:06:34Z",
+  "updated_at": "2026-08-27T05:18:30Z",
   "ignored": [
     {
       "surface": "Daggers",
@@ -47,7 +47,7 @@
     {
       "surface": "Vandree",
       "norm": "vandree",
-      "reason": "ambiguous — 3 different Vandrees + a House Vandree faction already registered under full names",
+      "reason": "ambiguous \u2014 3 different Vandrees + a House Vandree faction already registered under full names",
       "at": "2026-07-13T03:00:00Z"
     },
     {
@@ -59,7 +59,7 @@
     {
       "surface": "Duskryn",
       "norm": "duskryn",
-      "reason": "ambiguous — 4 different Duskryns + a House Duskryn faction already registered under full names",
+      "reason": "ambiguous \u2014 4 different Duskryns + a House Duskryn faction already registered under full names",
       "at": "2026-07-13T03:00:00Z"
     },
     {
@@ -83,7 +83,7 @@
     {
       "surface": "chalice",
       "norm": "chalice",
-      "reason": "generic/unconfirmed — the specific heart-hiding chalice isn't confirmed to exist yet",
+      "reason": "generic/unconfirmed \u2014 the specific heart-hiding chalice isn't confirmed to exist yet",
       "at": "2026-07-13T03:05:00Z"
     },
     {
@@ -6829,25 +6829,25 @@
     {
       "surface": "Heslin",
       "norm": "heslin",
-      "note": "resolved as Brother Heslin [npc]; bare form intentionally not aliased (force title) — deferred to suppress re-surfacing",
+      "note": "resolved as Brother Heslin [npc]; bare form intentionally not aliased (force title) \u2014 deferred to suppress re-surfacing",
       "at": "2026-07-14T18:37:30Z"
     },
     {
       "surface": "Harren",
       "norm": "harren",
-      "note": "resolved as Brother Harren [npc]; bare form intentionally not aliased (force title) — deferred to suppress re-surfacing",
+      "note": "resolved as Brother Harren [npc]; bare form intentionally not aliased (force title) \u2014 deferred to suppress re-surfacing",
       "at": "2026-07-14T18:37:30Z"
     },
     {
       "surface": "Aldas",
       "norm": "aldas",
-      "note": "resolved as Brother Aldas [npc]; bare form intentionally not aliased per GM — deferred to suppress re-surfacing",
+      "note": "resolved as Brother Aldas [npc]; bare form intentionally not aliased per GM \u2014 deferred to suppress re-surfacing",
       "at": "2026-07-14T18:37:30Z"
     },
     {
       "surface": "Quellin",
       "norm": "quellin",
-      "note": "resolved as Brother Quellin [npc]; bare form intentionally not aliased (force title) — deferred to suppress re-surfacing",
+      "note": "resolved as Brother Quellin [npc]; bare form intentionally not aliased (force title) \u2014 deferred to suppress re-surfacing",
       "at": "2026-07-14T21:06:34Z"
     }
   ],
@@ -7640,7 +7640,7 @@
     {
       "surface": "EntemochBoon",
       "ruling": "alias",
-      "target": "Entémoch's Boon",
+      "target": "Ent\u00e9moch's Boon",
       "at": "2026-07-14T06:13:42Z"
     },
     {
@@ -8010,6 +8010,30 @@
       "ruling": "alias",
       "target": "Brother Heslin",
       "at": "2026-07-14T21:06:34Z"
+    },
+    {
+      "surface": "Edvaldo Sedanur",
+      "ruling": "new",
+      "type": "npc",
+      "at": "2026-08-27T05:18:30Z"
+    },
+    {
+      "surface": "Vydykyq",
+      "ruling": "alias",
+      "target": "Miirym, the Sentinel Wyrm",
+      "at": "2026-08-27T05:18:30Z"
+    },
+    {
+      "surface": "Limniz",
+      "ruling": "new",
+      "type": "concept",
+      "at": "2026-08-27T05:18:30Z"
+    },
+    {
+      "surface": "Mystra's Mantle",
+      "ruling": "new",
+      "type": "concept",
+      "at": "2026-08-27T05:18:30Z"
     }
   ]
 }

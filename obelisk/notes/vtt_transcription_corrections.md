@@ -23,6 +23,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Xenophon, Xenobon, Zenovon, Xenovon, Xenomon, Cinnamon, Zenomon, Zenon, Zenotic, Zenovan | **Zenvon** |
 | Zenoan | **Zenvon** (session 5: more ASR variant of the PC "Zenvon") |
 | Zanabon, Zenimon, Xenob | **Zenvon** (session 7: more ASR variants of the PC "Zenvon") |
+| Foreput, Forput, Forepaw | **Forepot** (surname of the PC Zenvon; canonical per GM ruling 2026-08-03 — every other spelling is a misspelling, including the one that was in `name_glossary.md`) |
 | Vera, Azvera, Rivera, Maya, Maia, Zerabira | **Veyra** |
 | Sister Vera | **Veyra** (session 5: ASR gave Veyra the cleric's title. The applier sorts longest-first, so this beats the bare "Vera" row and yields "Veyra", not "Sister Veyra") |
 | Sister Mela, Mela, Mila, Myla, Mil, Myra, Nela, Mele, Sister Bela, Sister Meela, Sturmela, Sister Mele, Tell Sister Meila | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |

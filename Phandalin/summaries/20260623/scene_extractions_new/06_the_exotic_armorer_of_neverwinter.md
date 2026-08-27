@@ -9,7 +9,7 @@ source: gmassist
 
 #### The party visits a high-end armorer in the Protector's Enclave to commission custom gear from their dragon scales.
 - The party enters a high-end shop in the Protector's Enclave specializing in exotic materials and designer fashions.
-- The proprietor, himself a follower of the Morning Lord, recognizes Valphine instantly: *"You have the sign of the Morning Lord! You have the blessing!"* and asks, *"Are you the drow that Brother Aldrich speaks of? The one who converted to the blessed teachings of the Morning Lord?"*
+- The proprietor, himself a follower of the Morning Lord, recognizes Valphine instantly: *"You have the sign of the Morning Lord! You have the blessing!"* and asks, *"Are you the drow that Brother Aldric speaks of? The one who converted to the blessed teachings of the Morning Lord?"*
 - The party presents dragon scales and requests they be crafted into scale mail; the armorer initially quotes 1,675 gold.
 - The armorer agrees to the commission as a great honor in exchange for a blessing on himself and his family, reducing the price to a fraction of the original quote.
 - A deal is struck for 300 gold pieces to create the armor, featuring an emblem of Lathander on the back; the suit is to be worn by Brewbarry.
@@ -69,7 +69,7 @@ source: gmassist
 
 **[GM]**
 > "No, he didn't say that."
-> "Egos."
+> "He goes—"
 
 **[Vukradin]**
 > "No, that's what I said."
@@ -105,7 +105,7 @@ source: gmassist
 > "Well, worst time."
 
 **[Soma]**
-> "No, Matt!"
+> "No, math!"
 
 **[Valphine]**
 > "1600, so we can't do that."
@@ -128,7 +128,7 @@ source: gmassist
 > "Yes."
 
 **[Valphine]** — *the armor's intended wearer*
-> "This will be for Bernberry, though."
+> "This will be for Brewbarry, though."
 
 **[Vukradin]**
 > "Alright, we're giving this guy 300 gold, wow."
@@ -180,7 +180,7 @@ source: gmassist
 > "Alright, so we gotta pick up the Dragon Scale mail."
 
 **[GM]**
-> "Dragon scale is us."
+> "Dragon Scales R Us."
 > "I'm just gonna make a note of it in the map so that I know where it is. Alright."
 
 **[Vukradin]**

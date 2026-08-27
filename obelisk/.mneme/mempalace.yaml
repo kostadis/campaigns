@@ -2,7 +2,6 @@ campaign: obelisk
 recipe_version: 2.0.0
 store:
   alias: obelisk
-  path: /home/kostadis/.mempalace/palaces/obelisk
 wings:
 - name: narrative
   source: docs/chapters

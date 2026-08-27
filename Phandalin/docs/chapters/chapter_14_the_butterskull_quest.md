@@ -4,7 +4,7 @@ title: The Butterskull Quest
 ---
 # Chapter 14 The Butterskull Quest 
 
-## 14.01 Valphine 02-02-Taraskh 1495
+## 14.01 Valphine 02-03-Taraskh 1495
 
 The night before, we discussed our plans in private. We had no intention of being ambushed again. 
 

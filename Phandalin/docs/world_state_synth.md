@@ -101,7 +101,7 @@ Alive, Emerald Enclave member sworn alongside Marian. Reported Adabra's move aga
 ## THE MOUNTAIN'S TOE GOLD MINE & ASSOCIATES
 
 ### Horia Stonetallow
-Alive at the Mountain's Toe Mine. Shield dwarf of the Stonetallow clan; financial manager of the mine, reporting to Vukradin. (Two source dossiers, "Horia" and "Horia Stonetallow," are the same person; gender pronouns are inconsistent in sources.) Presented the mine ledger to Vukradin, expecting a new gold vein to bring large profits. Values contracts, procedure, and engineering precision; clashed with Valphine over her dismissal of contracts. Works with Dwolin the Grout (best gold-seeker she knows). Mr. Bucherton mandated a no-skimming clause in the labor contract.
+Alive at the Mountain's Toe Mine. Shield dwarf of the Stonetallow clan; financial manager of the mine, reporting to Vukradin. (Two source dossiers, "Horia" and "Horia Stonetallow," are the same person; gender pronouns are inconsistent in sources.) Presented the mine ledger to Vukradin, expecting a new gold vein to bring large profits. Values contracts, procedure, and engineering precision; clashed with Valphine over her dismissal of contracts. Works with Dwolin the Grout (best gold-seeker she knows). Vukradin mandated a no-skimming clause in the labor contract.
 
 ### Zeleen Varnaster
 Alive outside the Mountain's Toe Mine. Leader of the **Whiskered Gang** (wererats) who now protect the mine, reporting to Valphine ("Mr. Boss"). Negotiated to defend the mine for free, framing it as home and family. Orchestrated Don-Jon's death; conceals the dwarves' poor condition; agreed to make the dwarves mine under Valphine's authority. (Gender pronouns inconsistent in source.)

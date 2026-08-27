@@ -6,152 +6,222 @@ No threat arc scores are bound in the source material — no NPC or faction bloc
 |---|---|---|---|---|
 | — | — | — | — | none defined |
 
+*One real clock is running and is worth tracking by hand: the **three-day window** established in Ch19 before Szith Morcane's garrison notices the missing outpost patrol.*
+
 ---
 
 ## NPC Dossiers
 
-> Party (PCs + companion): **Akritas** (11th-lvl ranger, Emerald Enclave operative), **Daein** (frontline face/deceiver), **Felkur** (artificer, secret "Phantom Thief"), **Bramgrim** (Life cleric, *True Seeing* + Underdark lore), and the **Owlbear** (11th-lvl companion, recently stunned/healed). Run as players, not GM NPCs.
+> Party (PCs + companion): **Akritas** (11th-lvl ranger, Emerald Enclave operative, she/her), **Daein** (frontline face/deceiver), **Felkur** (artificer, secret "Phantom Thief", now the drow resistance's figurehead), **Bramgrim** (Life cleric, *True Seeing* + Underdark lore), and the **Owlbear** (11th-lvl companion). Run as players, not GM NPCs.
 
-### Solom Ned'razak — *quest-giver, ritual clock*
-- **Location/Status:** Alive, at the Sporedome. Archwizard, ruler of Szith Morcane.
-- **Plans/Goals:** Running a **ten-day ritual to purge demonic taint** from the region; requires the blood of a living fiend-infused fire giant (has Brandyr). Subverting Lolth's clerics in Maerimydra.
-- **Party knows vs. hidden:** Knows he sent them home to Hillsfar during the ritual (they stayed) and that he treats them as "important but replaceable." Hidden: the secret tunnel from the Shattered Tower into Maerimydra; his belief that Menzoberranzan wizards/liches caused the "Blink."
-- **Leverage:** Holds Brandyr; contact via Murssvayas; allied with Xaven.
+*Current as of end of Ch21. Name authority: prep-note spellings govern over the Ch21 export — Quil'bryn, Decha, Rilira, Nerevenans; allies under full names (Rylzyn Veth, Sorn, Grundar Ashmantle); Isthana Rao.*
 
-### Murssvayas Dhuurniv — *contact point*
-- **Location/Status:** Alive, returned to Szith Morcane; preparing the city to receive the party.
-- **Plans/Goals:** Lead the drow resistance against the fire giants.
-- **Party knows:** Solom's representative; carries Solom's Pendant; gave a reliable map to the Howling Pits. The Owlbear recognizes him with unusual, unexplained familiarity.
+### Alder — *Harper patron, deus ex machina with limits*
+- **Location/Status:** Alive; departed into the Underdark after Ch17. Halfling, senior Harper, runs Underdark operations.
+- **Plans/Goals:** Contain the demon-lord incursion caused by Gromph Baenre's spell. Her primary effort is the five adventurers she sent at Menzoberranzan (Celia, Mor, Spots, Draco, Connor); the party is her **contingency for Graz'zt's retreat to Maerimydra.**
+- **Party knows vs. hidden:** They know the cosmology now — Gromph tore the Abyss open trying to free Lolth. Hidden: how much else she is managing, and what she does if both plans fail.
+- **Leverage:** Enormous personal power (teleported the whole party days deep). Blunt, unimpressed, deflating — *"Most of them are dead now."* She signed Bramgrim's sword.
+- **Use at the table:** she is a pressure valve, not a solution. She arrives to reframe scale and leaves.
 
-### Xaven Tanor'this — *the antidote*
-- **Location/Status:** Alive at Sporedome; nervous, hurrying allies.
-- **Plans/Goals:** Provide the alchemy to purge fiendish blood from Graz'zt-infused fire giants; guide the party to Maerimydra's secret entrance.
-- **Party knows:** They rescued him from Maram's hanging gardens (Ch4); he is the sole surviving refugee who knows the route to Maerimydra.
+### Quil'bryn — *the party's drow commander, sworn to Felkur*
+- **Location/Status:** Alive, cured, at the Szith Morcane resistance camp. Drow elite warrior.
+- **History:** **Murdered Solom Ned'razak** under Graz'zt's madness while half the resistance watched. Publicly ate the braincap mushroom on Daein's ultimatum, was cured mid-boast, and broke when Murssvayas confirmed the killing.
+- **Plans/Goals:** Break Szith Morcane, then Maerimydra. **Doctrine:** use the recruited factions (slaves, the Hidden, the stone giants) as a shield so the drow and the party strike at the decisive moment.
+- **Party knows vs. hidden:** They know the shield plan and **agreed not to tell the recruits.** That is a live betrayal waiting to be discovered — most explosively by Rilira, who already sneers at his name.
+- **Leverage:** Twenty drow. Sworn to **Felkur personally**, which makes him Felkur's asset rather than the party's.
+
+### Murssvayas Dhuurniv — *contact point, holding the bag*
+- **Location/Status:** Alive, Szith Morcane resistance camp; barely concealed desperation.
+- **Plans/Goals:** Keep the resistance from dissolving; lead it against the fire giants.
+- **Party knows:** Solom's representative; carries Solom's Pendant; explained the Hidden's Vhaeraunite hostility to Lolth-followers. The Owlbear recognizes him with unusual, unexplained familiarity.
+
+### Rilira — *the uprising's trigger*
+- **Location/Status:** Alive, Szith Morcane slave pens. Drow noblewoman, imprisoned, imperious.
+- **Plans/Goals:** Free the slaves and **have Szith Morcane returned to them.** Her word alone starts the revolt.
+- **Terms (paid, Ch21):** Corkin's head and the fire giant overseer dead. She warned there is nowhere in the Underdark or on the surface the party would be safe if they betrayed her — and she meant it.
+- **Open demand:** *how will the drow arm her people?* Unanswered.
+- **Leverage/friction:** She holds the largest body of bodies. She despises Quil'bryn. If she learns of the shield doctrine, the alliance detonates.
+
+### Hamad — *the Hidden, bought with a life*
+- **Location/Status:** Alive, gnome ruins, Szith Morcane. Leader of the Vhaeraunite rebels.
+- **Plans/Goals:** Break Lolth's grip and the giants' with cunning rather than force. Tested the party accordingly.
+- **Terms:** Full support of the Hidden, **contingent on the party dealing with Denagor.**
+- **Party knows vs. hidden:** He checked carefully that they had **no binding commitments to any other drow faction** — and they had already committed to Rilira. Whether that omission counts as a lie is a live question.
+
+### Denagor — *fire giant king, the next boss*
+- **Location/Status:** Alive, his palace in Szith Morcane. Not yet encountered.
+- **Plans/Goals:** Rule Szith Morcane; build his palace with three enslaved stone giants; rumored to consort with demons.
+- **Why he matters:** Every other thread routes through his death — Hamad's condition, Rilira's practical safety, and the forge in House Morcane.
+
+### Decha — *stone giant elder; alliance wreckage*
+- **Location/Status:** Alive, Cathedral of Faces. Was catatonic before a flawless crystal Skoraeus Stonebones; **collapsed in shock when Felkur shattered it.**
+- **History:** Exiled **Grek** for imperfection. Carved (or commissioned) the perfect statue and was consumed by it — the doctrinal trap Grek named: *to carve a perfect face is to carve a tomb.*
+- **Open question — the GM's to decide:** does he wake hostile, stay broken, or eventually understand the shattering as the mercy his own giants could not perform? His people were **paralyzed precisely because they could not deface their god.** Someone else did it for them.
+- **Note:** three of his giants are enslaved in the pens building Denagor's palace — a second, independent route to the Lodge.
+
+### Grek — *Galeb Duhr guide*
+- **Location/Status:** Alive, Lodge of Faces area. Half-carved stone giant face, shattered nose.
+- **Role:** Guide and translator among the stone giants; explained the doctrine of imperfection. Exiled by Decha, cheered up by the party, loyal-ish to them since.
+
+### Grundar Ashmantle — *duergar slave-boss*
+- **Location/Status:** Alive, Szith Morcane slave pens.
+- **History:** **Rylzyn Veth bought his own freedom by killing several of Grundar's cousins.** Grundar recognized him instantly.
+- **Deal:** cooperation in exchange for a **personal guarantee of escape** from Felkur. A large concealed body of armed duergar stood down when he nodded.
+- **Fragility:** the feud is suspended, not settled. Rylzyn Veth is still walking around with the party.
+
+### Rylzyn Veth & Sorn — *Quil'bryn's attached guides*
+- **Rylzyn Veth:** drow elite warrior; pragmatic to the point of atrocity (recommended torturing five slaves to motivate the next five); knows the Behir's chamber is the giants' disposal pit. Grundar's blood enemy.
+- **Sorn:** drow warrior, not elite — good, and angry enough to be reliable. Felkur's pick for clearing paths. Reports body counts as arithmetic.
+- **Friction:** **Akritas has told Bramgrim and Daein she will kill them at the first excuse.** This is the most likely party-side detonation in the arc.
+
+### Charles — *Hillsfar fixer, now a businessman*
+- **Location/Status:** Alive, Hillsfar. Emerald Enclave contact; performing a full French-resistance persona (beret, accent, a tavern he calls a café).
+- **Plans/Goals:** Delivered the Szith Morcane briefing, then **dropped the persona entirely** to take over Felkur's **"Stargate"** teleportation-circle guild — paperwork, tax structure, land through **Isthana Rao**.
+- **Use at the table:** the comic register and the party's surface-side plot engine. Whatever he signs in their absence is theirs to inherit.
+- **Note:** the Ch17 auto-generated NPC block calls him a drow; the prose does not, and Ch1 canon does not. Treated as an extraction artifact.
+
+### Isthana Rao — *Thieves' Guild matriarch (Hillsfar)*
+- **Location/Status:** Alive, Hillsfar. Hosted the party at a private dinner (Ch16).
+- **Plans/Goals:** Co-opt the party as guild-aligned city assets. **Charles is routing Stargate's land acquisition through her**, which achieves her Ch16 goal without the party ever signing anything.
+- **Party knows:** the thinly-veiled threat ("no business thrives without my patronage"); the three bottles of rare wine.
+
+### Solom Ned'razak — *deceased patron*
+- **Status:** **DEAD.** Assassinated by Quil'bryn ~8 days before the party's Ch17 arrival, under Graz'zt's madness, while half the resistance watched and did nothing.
+- **Loose ends:** his **ten-day blood-purge ritual** on Brandyr has no established outcome; Xaven's position at Sporedome is unconfirmed; his Pendant's authority is now posthumous; and nobody has been held to account for the drow who stood by.
+
+### Xaven Tanor'this — *the antidote, unconfirmed*
+- **Location/Status:** Alive at Sporedome as of Ch16; not seen since.
+- **Role:** Alchemy to purge fiendish blood; knows the secret route into Maerimydra via the Shattered Tower.
 
 ### Glor — *employer (mind flayer)*
-- **Location/Status:** Alive, Underdark, representing the Ryxyg illithid encampment.
-- **Plans/Goals:** Hired the party to destroy the **Rogue Thought**; eliminate rogue elements to preserve "peaceful cohabitation."
-- **Party knows vs. hidden:** Gave them a map; warned of fire-giant siege weapons aimed at surface cities and offered intel to disable Maerimydra's siege weapons without exposing the perpetrators. Bramgrim openly distrusts the "peace" claim.
-
-### Rogue Thought — *escaped antagonist*
-- **Location/Status:** Alive, escaped to another dimension (severed his own tentacles, plane-shifted) at near-death after the Owlbear staggered him.
-- **Plans/Goals:** Revenge against the party, **jointly with Graz'zt**.
-- **Party knows:** They drove him off but did not kill him; Glor's contract is therefore technically unfulfilled (escaped, not destroyed).
+- **Location/Status:** Alive, Sporedome / Ryxyg colony.
+- **Party knows vs. hidden:** Gave them a map and offered intel on disabling Maerimydra's siege weapons without exposing the perpetrators — **still unused.** Bramgrim openly distrusts the "peace" claim.
 
 ### Graz'zt — *off-screen driver (Demon Lord)*
-- **Location/Status:** Alive; faded from the Material Plane after Ch1; acts through agents.
-- **Plans/Goals:** Vengeance for the thwarted Hillsfar plot; infusing Maerimydra fire giants with fiendish blood; controls Maerimydra and Hillsfar via cult and lieutenants.
-- **Interaction surface:** Vraxen, the fiendborne fire giants, the six-fingered-hand cult — not directly addressable yet. Direct manifestation grows plausible as the party levels.
+- **Location/Status:** Alive; acts through agents.
+- **Plans/Goals:** Vengeance for Hillsfar; the fiendborne giant bloodline; **Maerimydra as his line of retreat if Menzoberranzan falls** (per Alder).
+- **Interaction surface:** Vraxen, the fiendborne giants, the six-fingered cult — and his madness, which is curable by braincap mushroom and has now cost the resistance its leader.
 
-### Vraxen — *arcanaloth, Lexicon's former holder*
-- **Location/Status:** Alive (last seen Ch11–12), Spire of Inevitable Reckoning, Maerimydra. Fox-faced arcanaloth.
-- **Plans/Goals:** Enforce Graz'zt's contracts and the fire-giant deal; **secretly plots to betray his yugoloth superiors** (journaled).
-- **Party knows vs. hidden:** They forged/robbed the *Lexicon of Oaths* against him; his scent was extracted (Ch11) to bypass his scent-keyed golem. Hidden: his betrayal plans. Rivals Maram il Vass for the Lexicon.
-- **Vulnerability:** Obsessed with financial accuracy — baited via the betting pool; already tricked into a treason panic.
-
-### Veris — *High Inquisitor of Mulmaster (status disputed — see DM Notes)*
-- **Location/Status:** **Conflicted.** His own dossier freezes him alive, injured, mid–last stand on Vraxen's Tower with a battered Stone Golem. Party dossiers (Akritas, Daein, Bramgrim) state **Akritas killed him with *Hail of Thorns* in Ch12.** Treat as **most likely deceased**; confirm against the table record before reuse.
-- **Plans/Goals (if alive):** Hunt Felkur (a master smith with a criminal past); recover the Lexicon; avenge the forgery that framed him.
-- **Note:** Felkur forged Veris's name into the Lexicon to void the Maram contract — so "Veris framed for the Brooch theft" stays live regardless of his survival.
-
-### Veperyd — *fiend-infused fire giant, colosseum boss*
-- **Location/Status:** Alive (last confirmed Ch11), Spire dining hall. Skin weeps oily black smoke.
-- **Plans/Goals:** Runs Maerimydra's Colosseum and betting pool; open blood-feud with Vraxen (accused of skimming); vowed to "repay a debt in blood."
-- **Leverage:** Volatile — a wedge against Vraxen.
+### Vraxen — *arcanaloth; holder of the ledger the Enclave wants*
+- **Location/Status:** Alive (last seen Ch11–12), Spire of Inevitable Reckoning.
+- **Plans/Goals:** Enforce Graz'zt's contracts; **secretly plots to betray his yugoloth superiors** (journaled).
+- **New relevance:** he is presumptively the Arcanaloth whose **ledger the Emerald Enclave's High Council wants** — the target of Akritas's concealed order.
+- **Vulnerability:** obsessed with financial accuracy; already tricked into a treason panic.
 
 ### Maram il Vass — *yugoloth contract broker*
-- **Location/Status:** Alive, Den of the Whispered Word, the Howling Pits. True form: 7-ft yugoloth behind a handsome half-elf illusion.
-- **Plans/Goals:** Acquire the *Lexicon of Oaths*. **Engineered a double-cross** — sold Felkur's info to a devil, then contracted the party to "retrieve" the very Lexicon they now hold.
-- **Leverage over Felkur:** Holds a contract obligating him to reveal **Felkur's location to a devil** unless renegotiated. Felkur has secretly altered the Lexicon to void his obligation — unknown whether Maram has detected this.
+- **Location/Status:** Alive, Den of the Whispered Word.
+- **Leverage over Felkur:** holds a contract obligating him to reveal **Felkur's location to a devil**. Felkur secretly voided his own obligation by forging the Lexicon — **unknown whether Maram has detected it.**
 
-### Isthana — *Thieves Guild matriarch (Hillsfar)*
-- **Location/Status:** Alive, Hillsfar; hosted the party at a private dinner (Ch16).
-- **Plans/Goals:** Co-opt the party as guild-aligned city assets — patronage and protection in exchange for integration.
-- **Party knows:** Thinly-veiled threat ("no business thrives without my patronage"); gifted Felkur three bottles of rare wine; thanked them (Ch1) for clearing the old ruling elite.
+### Veris — *deceased (status resolved)*
+- **Status:** **Dead.** Killed by Akritas's *Hail of Thorns* at the Spire peak (Ch12). The earlier "alive, mid–last stand" dossier freeze is superseded.
+- **Live remnant:** Felkur forged **Veris's name into the Lexicon of Oaths**, so Mulmaster's Brotherhood of the Cloak can still read a record framing him for the Phantom Thief's work — posthumous, and still dangerous to Felkur if anyone reconciles it.
 
 ### Hledh — *Fire Giant Queen of Maerimydra*
-- **Location/Status:** Alive, Eastern Castle of Maerimydra; commands the gate guards.
-- **Plans/Goals:** Rule Maerimydra (Graz'zt-aligned); no specific recent action on record.
+- **Location/Status:** Alive, Castle Maerimydra. The endgame authority beyond Denagor.
 - **Note:** Earlier "fiendish giantess" (Ch5) vs "Fire Giant Queen" (Ch7) — unresolved.
 
+### Veperyd — *fiend-infused fire giant, colosseum boss*
+- **Location/Status:** Alive (last confirmed Ch11), Maerimydra. Blood-feud with Vraxen; vowed to "repay a debt in blood." A wedge, and a viable fiendborne-blood capture target.
+
 ### Brandyr — *captive fire giant (ritual fuel)*
-- **Status:** Unconscious, magically shrunk; handed to Solom's drow assistants (Ch13), moved to a chamber to begin the ritual.
-- **Role:** The living fiend-infused fire giant whose blood the purge ritual requires. The party captured, shrank, and delivered her.
+- **Status:** Unconscious, shrunk, held at Sporedome. **The ritual he was captured to fuel lost its architect.**
 
 ### Githyanki Knight — *displaced enemy*
-- **Status:** Escaped the Material Plane via *Plane Shift* (Ch15–16). Unnamed patrol leader, silvery greatsword.
-- **Plans/Goals:** Vowed revenge — warned the party they've made a "permanent enemy." Can return via *Plane Shift* at his chosen moment.
+- **Status:** Escaped the Material Plane via *Plane Shift* (Ch15–16), naming the party a "permanent enemy." Returns at the GM's chosen moment.
+
+### Rogue Thought — *escaped antagonist*
+- **Status:** Alive, plane-shifted out at near-death, tentacles severed. Sworn to revenge **jointly with Graz'zt**. Glor's contract is technically unfulfilled.
 
 ### Pipyap — *missing informant (imp)*
-- **Status:** Vanished into the chaos of the Spire dinner battle (Ch9); location/contract status unknown.
-- **Knowledge held:** Maerimydra hierarchy, the Spire layout, the Vraxen-vs-Veperyd wedge tactic; food/salt-obsessed; loves the Prime Material Plane.
+- **Status:** Vanished at the Spire dinner (Ch9). Holds Maerimydra hierarchy and Spire layout knowledge. Food/salt-obsessed. A re-appearance hook.
 
 ### Arrizz — *departed ally (drow)*
-- **Status:** Alive, sane, free; parted from the party at the edge of Sporedome. Independent.
-- **Note:** Cured of demonic madness by the party; owes them a beer; prefers never to meet again unless he needs rescue. Daein recognized his voice (Ch14).
+- **Status:** Alive, sane, free; independent. Cured by braincap mushroom; owes them a beer; returns only if he needs rescue.
+
+### Corkin — *deceased*
+- **Status:** Dead (Ch21). Hobgoblin who claimed leadership of the slave uprising and threatened the party for backing Rilira. Manipulated into a suicidal charge, then consumed by Bramgrim's *Spirit Guardians* when he turned on the cleric in spite.
 
 ### Thera Grabelthum — *deceased*
-- **Status:** Dead (killed in the Ch16 fight). Duergar, **Zhentarim Black Network spy**, could turn invisible.
-- **Intel exposed:** Was gathering intelligence on Sporedome and Duergar operations; refused to name employers beyond the Zhentarim — implying the Network knows roughly where the party operates.
+- **Status:** Dead (Ch16). Duergar Zhentarim spy; refused to name her handlers — the Network knows roughly where the party operates.
 
 ---
 
 ## Faction States
 
-### Graz'zt's Cult / Maerimydra (Demon Lord faction)
-- **Goals/Ops:** Spread Graz'zt's corruption; infuse fire giants with fiendish blood in Szith Morcane; aim arcane siege weapons at surface cities; avenge the thwarted Hillsfar plot.
-- **Key members:** Hledh (ruler), Vraxen (enforcer / secret traitor), Veperyd (colosseum boss), Rogue Thought (allied avenger), the fiendborne fire giants.
-- **Relations:** Hostile to the party; sponsored by Graz'zt. Internally fracturing (Vraxen vs Veperyd; Vraxen vs his yugoloth superiors).
-- **Resources/Vulnerabilities:** Six-fingered-hand territory; siege weapons. **Vulnerable** to internal betrayal, the purge ritual, and Xaven's antidote.
+### The Szith Morcane Resistance (drow)
+- **Goals/Ops:** Break Szith Morcane, then Maerimydra, staged from Sporedome. Twenty drow committed after Felkur's speech.
+- **Key members:** Murssvayas Dhuurniv (leader by default), Quil'bryn (commander, sworn to Felkur), Rylzyn Veth, Sorn.
+- **Doctrine:** recruited factions are a **shield**; the drow and the party strike at the decisive moment. Withheld from the recruits.
+- **Vulnerabilities:** leaderless at the top since Solom's murder; half of them stood by while it happened; the shield doctrine is one disclosure from collapsing every alliance.
 
-### Drow Resistance — Szith Morcane / Sporedome (Solom)
-- **Goals/Ops:** Purge demonic taint via the ten-day ritual; resist the fire giants; subvert Lolth's clerics in Maerimydra.
-- **Key members:** Solom Ned'razak (archwizard), Murssvayas Dhuurniv (resistance lead/contact), Xaven Tanor'this (alchemist).
-- **Relations:** Patron/employer of the party (treats them as replaceable assets).
-- **Resources/Vulnerabilities:** Secret tunnel into Maerimydra; antidote knowledge. Vulnerable while the ritual runs, and to Lolth's clerics — newly re-empowered after the Blink.
+### The Hidden (Vhaeraunite drow)
+- **Goals/Ops:** Undermine Lolth's followers and the giants through cunning. Contact via scouts on the Webs; meetings at the gnome ruins.
+- **Relations:** **Allied, contingent on Denagor's death.** Hostile to Lolth-worshippers — the party had to come without drow escort.
+- **Exposure:** Hamad asked whether they had committed to any other drow faction. They had. He was told no.
 
-### Ryxyg Illithid Encampment (Glor)
-- **Goals/Ops:** Maintain "peaceful cohabitation" by purging rogue elements (the Rogue Thought); avoid surface attention.
-- **Relations:** Employer of the party; Bramgrim distrusts the peace claim.
-- **Resources/Vulnerabilities:** Underdark intel and maps; restraint as policy — fragile if collective discipline slips.
+### The Slave Uprising
+- **Goals/Ops:** Revolt on Rilira's word; the price is **Szith Morcane returned to them.**
+- **Key members:** Rilira (authority), Grundar Ashmantle (duergar contingent), the fungus-farm laborers, three enslaved stone giants.
+- **Resources/Vulnerabilities:** numbers, and no weapons. Arming them is the open logistical problem — seize the city's arms, or take the **House Morcane forge.**
 
-### Thieves Guild of Hillsfar (Isthana)
-- **Goals/Ops:** Convert the party into guild-aligned city assets; monopolize Hillsfar business via patronage.
-- **Relations:** Opportunistic toward the party; benefited from the Ch1 power vacuum.
-- **Resources/Vulnerabilities:** Sewer networks, criminal monopoly, wealth (rare wine, patronage).
+### The Lodge of Faces (stone giants)
+- **Status:** **Diplomatically wrecked.** Felkur shattered the crystal Skoraeus Stonebones; Decha collapsed; the party fled.
+- **Residual routes:** Grek still guides for them; three of their giants are enslaved in Denagor's palace works and could be freed independently.
 
-### Zhentarim Black Network
-- **Goals/Ops:** Intelligence-gathering on Sporedome and Duergar operations (via the now-dead spy Thera).
-- **Relations:** Covert, unaligned-to-hostile; their agent is dead but their interest persists.
-- **Vulnerability:** Just lost an asset — may escalate or replace it.
+### The Nerevenans
+- **Status:** **Not approached.** Worshippers of a goddess of death — whose altar the party previously destroyed. Bramgrim and Akritas ruled out as envoys, which leaves Daein and Felkur.
+
+### Szith Morcane Occupation (fire giants)
+- **Key figures:** King **Denagor**; azer sentinels and hellhounds as standing guard; a forge in the **House Morcane ruins**.
+- **Vulnerabilities:** a three-day blind spot on the missing patrol; a slave population that outnumbers them; Faerzress-worded locks that are proof against *Dispel Magic* but not against thieves' tools.
+
+### Graz'zt's Cult / Maerimydra
+- **Goals/Ops:** Spread the corruption; the fiendborne bloodline; arcane siege weapons aimed at Hillsfar and Elventree; **hold Maerimydra as Graz'zt's fallback.**
+- **Key members:** Hledh (ruler), Vraxen (enforcer / secret traitor), Veperyd (colosseum boss), Brandyr (captured).
+- **Vulnerable to:** internal betrayal (Vraxen vs Veperyd; Vraxen vs his superiors), Xaven's antidote, and Glor's unused sabotage intel.
+
+### The Harpers
+- **Goals/Ops:** Contain the demon-lord incursion on multiple fronts. **Alder** runs the Underdark; five adventurers are committed at Menzoberranzan.
+- **Relations:** treat this party as a strategic contingency, not as juniors.
 
 ### Emerald Enclave
-- **Goals/Ops:** Operating through Akritas (ranked operative) via telepathic mission briefings on behalf of multiple factions.
-- **Resources:** Scouts and specialized supplies available to Akritas at his rank.
+- **Goals/Ops:** Operating through Akritas via telepathic briefings; vouched for the party at the Waydown.
+- **Undisclosed until Ch17:** the High Council wants access to **an Arcanaloth's ledger.**
 
-### Brotherhood of Cloaks (Mulmaster)
-- **Status:** Believe Felkur is a Level-20 wizard / chosen of Mask — the "Phantom Thief" legend. Veris was their High Inquisitor. Whether they currently know Felkur's location is unknown.
+### Thieves Guild of Hillsfar (Isthana Rao)
+- **Goals/Ops:** Convert the party into guild-aligned assets; monopolize Hillsfar business through patronage. **Now achieving it sideways through Charles and the Stargate land deal.**
+
+### Ryxyg Illithid Encampment (Glor) / Zhentarim / Brotherhood of Cloaks
+- **Glor:** transactional ally; siege-weapon intel unused; Bramgrim distrusts the peace claim.
+- **Zhentarim:** lost their asset (Thera); interest in Sporedome/Duergar persists.
+- **Brotherhood of Cloaks:** still hunting the "Phantom Thief"; Veris was their High Inquisitor and his name is now in the Lexicon.
 
 ---
 
 ## Active Plots (by urgency)
 
-1. **Solom's ten-day purge ritual (hard clock).** Running now at Sporedome on Brandyr's fiend-infused blood. The party chose to stay rather than return to Hillsfar. *Intersect:* they hold the war's outcome — and the antidote (Xaven) — in the balance.
-2. **Rogue Thought + Graz'zt joint revenge (looming).** Both escaped/off-screen and explicitly vowed vengeance together. Trigger: the demon lord's timing; the Rogue Thought can plane-shift back.
-3. **Lexicon fallout / Felkur's voided contract.** Felkur forged Veris's name into the Lexicon to void Maram's deal. *Triggers:* Maram detecting the alteration (reads as betrayal); Maram revealing Felkur's location to "a devil" unless renegotiated; Veris's hunt (if he survived — see DM Notes).
-4. **Githyanki Knight's vendetta.** A "permanent enemy" who can *Plane Shift* in at will. Unscheduled — DM's discretion.
-5. **Fire-giant siege weapons aimed at surface cities (incl. Hillsfar).** Glor flagged the threat and offered a covert way to disable Maerimydra's siege weapons. *Intersect:* the party's Maerimydra infiltration objective.
-6. **Isthana's co-option of the party in Hillsfar.** The patronage-or-struggle ultimatum is on the table now. *Intersect:* any business venture (Daein's "FU money" / soup plans) runs through her.
-7. **Zhentarim interest in Sporedome/Duergar.** Their spy is dead; the intelligence push likely continues with a follow-up agent.
-8. **Vraxen's internal betrayals.** Plotting against his yugoloth superiors; blood-feud with Veperyd over the skimmed betting pool — both exploitable wedges in Maerimydra.
+1. **Kill Denagor (hard gate).** The Hidden's precondition and the practical requirement for the uprising. Everything in Szith Morcane routes through it.
+2. **Arm the slaves.** Rilira has asked directly and been given no answer. The forge in **House Morcane** is the standing solution — seize it or destroy it.
+3. **The three-day patrol clock (Ch19).** The garrison's blind spot is finite; the party has been spending it.
+4. **The shield doctrine as a time bomb.** Quil'bryn intends to spend the recruits; Daein agreed to keep it quiet. Rilira has already promised reprisal for betrayal and there is nowhere safe if she means it.
+5. **The Lodge of Faces aftermath.** Decha collapsed, the giants froze, the party ran. Decide what they wake up as — and remember three of them are in chains under Denagor.
+6. **The Nerevenans, unapproached.** A death cult the party has already desecrated, and only two viable envoys.
+7. **Solom's ritual, orphaned.** Brandyr is still captive, Xaven still holds the alchemy, the architect is dead. This is the campaign's quiet unresolved chord.
+8. **Graz'zt's retreat.** If Alder's Menzoberranzan party succeeds, he comes to Maerimydra — turning the party's regional campaign into the front line, on someone else's schedule.
+9. **The Arcanaloth's ledger.** Akritas's Enclave order, now disclosed; the party agreed to attempt it only if safe. Vraxen still holds it.
+10. **Party trust.** Akritas concealed the order for an arc and has threatened to kill the drow allies. Neither has been settled in-character.
+11. **Felkur's web.** Maram's possible detection of the forgery; the devil owed his location; Veris's framed name in the Lexicon; the Brotherhood still hunting.
+12. **"Stargate."** Charles is incorporating a teleportation-circle guild through Isthana Rao while the party is underground. They will inherit whatever he signs.
 
 ---
 
 ## DM Notes
 
-- **Resolve Veris's status before next session.** His own dossier shows him alive mid–last stand; three party dossiers report Akritas killed him with *Hail of Thorns* in Ch12. The death account has stronger corroboration — treat Veris as dead unless the table record says otherwise. Either way, the **forgery framing him in the Lexicon** keeps Mulmaster/Brotherhood interest alive even posthumously.
-- **Convergence — the Maerimydra assault.** Solom's ritual, Xaven's antidote, the secret tunnel from the Shattered Tower, and Glor's siege-weapon intel all point at the same target city. Stage them to land together.
-- **Convergence — the revenge axis.** Graz'zt, the Rogue Thought, and the Githyanki Knight are three independent avengers, all returnable at the GM's discretion. Consider letting two coincide for one climactic incursion rather than spending them piecemeal.
-- **Felkur's web is tightening.** Maram (location-for-sale to a devil), the Veris forgery frame, and the "Phantom Thief" legend all converge on one PC. A devil arriving in Hillsfar — Isthana's turf — would cross Isthana's path with Felkur's hidden past.
-- **Foreshadow:** the Owlbear's unexplained familiarity with Murssvayas; the still-active *Watcher's Eye Brooch* sold off years ago; Pipyap's bloodstained satchel and his Maerimydra knowledge (a re-appearance hook).
-- **Loose threads worth a beat:** Pipyap's whereabouts, the vanished imp guide, Lolth's clerics regaining power after the "Blink," and Arrizz's standing offer (he returns only if he needs rescue).
+- **Veris's status is settled: dead** (Akritas, *Hail of Thorns*, Ch12). The old "alive mid–last stand" dossier freeze is superseded. The **forgery framing him in the Lexicon** keeps Mulmaster/Brotherhood interest alive posthumously — that is the live thread, not the man.
+- **The shield doctrine is the arc's best-loaded gun.** Quil'bryn's plan, Daein's agreement to conceal it, Rilira's explicit threat, and Hamad's question about prior commitments all point at the same detonation. Consider letting a recruit overhear rather than staging a reveal — it costs nothing and pays everything.
+- **Convergence — Denagor.** Hamad's condition, Rilira's safety, the forge, and the three enslaved stone giants all sit behind the same fight. Stage them to resolve together rather than spending Denagor as a stand-alone boss.
+- **The Cathedral of Faces is not necessarily a loss.** The giants were paralyzed because doctrine forbade them from defacing their god; an outsider did what none of them could. Played one way that is desecration; played another it is the oldest teaching enacted — *to carve a perfect face is to carve a tomb.* Grek is on hand to argue the second reading. The party assumes they blew it; you are not obliged to agree.
+- **Solom's absence should be felt structurally, not just noted.** The party's patron, quest-giver, and ritual are all gone at once; Murssvayas is not a replacement, and Felkur has effectively become one by accident. Quil'bryn swore to **Felkur**, not the party — that is a wedge available whenever you want it.
+- **Akritas is carrying two loaded threads at once**: a concealed Enclave order she only surrendered to an insight check, and a standing threat to kill the drow allies. Her player has given you the material; the table has not spent it.
+- **Alder recalibrated the scale of the campaign.** Graz'zt is now a fugitive with a fallback rather than a distant prime mover, and the party is the contingency on someone else's plan. Use sparingly — her power to teleport and reframe makes her a solvent for tension if she appears often.
+- **Foreshadow:** the Owlbear's unexplained familiarity with Murssvayas; the still-active *Watcher's Eye Brooch* in Daggerford; Pipyap's Maerimydra knowledge; and the Behir still alive in the old bazaar, on the party's own exit route.

@@ -1,6 +1,9 @@
 # WORLD STATE — Out of the Abyss (Modified)
 
-*Living canon reference. Current state as of Chapter 62. Later chapters override earlier. "Open Threads" section holds unresolved questions; treat Uncertainty items there, not as settled fact.*
+*Living canon reference. Current state as of Chapter 63. Later chapters override earlier. "Open Threads" section holds unresolved questions; treat Uncertainty items there, not as settled fact.*
+
+> **Hand-updated 2026-08-11** from the corrected `summaries/20260809/gm-assist.md`
+> + session transcript. Not a `distill.py` run — will be superseded at arc close.
 
 ---
 
@@ -8,10 +11,13 @@
 
 The party has emerged from the Underdark and reached **Candlekeep**, where they were secretly summoned by acting-head **Bookwyrm** to investigate the murder of Keeper of Tomes **Janussi**. That investigation is functionally closed (Alkrist publicly blamed), but has detonated into a leadership crisis and an active betrayal:
 
-- **Most recent development (ch62):** **A'lai Aivenmore** has seized the **first Hightower key from Bookwyrm** and retreated to Candlekeep's **High Tower**, awaiting an unknown party, **Moziqodo**, who is bringing the **second key**. This is a live, unresolved crisis.
-- The party was ambushed by **helmed horrors** (drawn by the inert Hightower key Daz carries), which they destroyed in Deneir's Sanctum. They were then confined there under guard overnight; **Daral Yashenti** was healed by Dawnbringer during confinement.
-- **Kalan Strongbranch** was last seen running hard, breathless, carrying/pursuing the key situation; his survival is unknown.
-- A naming ceremony to replace Bookwyrm as head of Candlekeep is imminent.
+- **Most recent development (ch63): MANSHOON'S SIMULACRUM IS INSIDE CANDLEKEEP.** It breached the keep, conjuring a `wall of force` and shattering the magical door that the two High Tower keys were meant to protect. He arrived **alone and magically depleted**, having spent enormous resources getting through the wards. He is the patron **A'lai Aivenmore** has served for eleven years, and he is after the **Book of Vile Darkness** in the Vault beneath the House of Alaundo.
+- **A'lai Aivenmore is captured**, bound and in the party's custody. He surrendered *before* the assassin arrived and was already bound when the rescue came; when it failed he broke down weeping, and is desperate to be imprisoned in Candlekeep's magic-nullifying cells for his own protection. He is bargaining with: the location of a secret room beneath the keep, the two cryptogram lines that matter, and an intuition about a Menzoberranzan house. **He is withholding the depository's true contents — the one thing Manshoon does not know.**
+- **Bookwyrm (First Reader) is DEAD** — murdered by **Moziqodo**, who took her Hightower key.
+- **Moziqodo is DEAD** — killed by the party in a single round during their approach, while carrying Bookwyrm's key to A'lai. He was **Sylvira Savikas's son**. ⚠️ **Sylvira does not know.**
+- **Kalan Strongbranch** gave the party a **fake, non-magical key** to use them as a decoy; the real key was on **Tadric**, who handed it over voluntarily. Kalan admitted the deception when confronted and has since **fled** — "to the wind."
+- **Candlekeep's wards have failed.** Daz's fireball detonating on the High Tower walkway proved it publicly, triggering bells, screams and panic. Tadric is holding a manual ward reroute together by hand.
+- A naming ceremony to replace Bookwyrm is now a succession problem rather than a contest.
 
 **Party owes / is owed answers on:** Dawnbringer's therapy, Janussi's murder truth, House T'sarran's pursuit of Daz, Jimjar's disappearance, Daz's hidden history/patron.
 
@@ -79,24 +85,26 @@ Alive, en route to Mithral Hall/Gauntlgrym to warn the surface dwarves of Demogo
 ### The Janussi Murder — resolved (officially), corrupt (actually)
 **Janussi (deceased):** Former Keeper of Tomes. Poisoned via a book laced with **Midnight Tears** (ingested by licking fingers to turn pages), then his **heart removed post-mortem to block resurrection**. Body mutilated (caved rib cage, broken nose). Was romantically involved with Sylvira Savikas. Had fired Kalan and denounced Teles Ahvoste, making enemies of many.
 
-**The scheme (reconstructed):** **A'lai Aivenmore** engineered it — delivered a career-ending performance review to **Alkrist** to motivate him, created an apothecary diversion to enable the Midnight Tears theft, and framed **Daral**. Alkrist poisoned/killed Janussi (confessed under Zone of Truth to a cleaver blow). **Bookwyrm concealed the crime** by moving Janussi's heart into a lead-lined Milil/statue chalice to protect Alkrist (family). **Alkrist is now dead** (mechanism unstated); he is the publicly accepted culprit, unaware the heart had been removed.
+**The scheme (reconstructed):** **A'lai Aivenmore** engineered it — delivered a career-ending performance review to **Alkrist** to motivate him, created an apothecary diversion to enable the Midnight Tears theft, and framed **Daral**. Alkrist poisoned/killed Janussi (confessed under Zone of Truth to a cleaver blow). **Bookwyrm concealed the crime** by moving Janussi's heart into a lead-lined Milil/statue chalice to protect Alkrist (family). **Alkrist is alive but neutralized** — disgraced and no longer capable of defending the keep (GM ruling 2026-08-19; earlier drafts of this doc wrongly recorded him as dead). He is the publicly accepted culprit, unaware the heart had been removed.
 
 ### Candlekeep NPCs (current)
 
 | NPC | Status | Role / Current State |
 |---|---|---|
-| **A'lai Aivenmore** | Alive, hostile | **Drow scholar** (ex-Council of Twelve), architect of the murder/frame. As of ch62 holds the first Hightower key in the High Tower, awaiting Moziqodo with the second. Knows Daz's patron's identity. Politically toxic but shielded by his knowledge. |
-| **Bookwyrm (First Reader)** | Alive | **Green dragonborn** acting head of Candlekeep. Concealed (did not commit) the murder. As of ch62 the first key has been taken from her by A'lai; her status post-seizure unconfirmed. Slated for removal at the naming ceremony. Manipulative, self-preserving. |
-| **Kalan Strongbranch** | Alive (survival now uncertain, ch62) | Reinstated Head of the Avowed. His rejected **"Threefold Proof"** is now the institution's investigative framework. Was fired by Janussi, reinstated after the case. Seeks to politically destroy Bookwyrm via public Zone of Truth. Last seen running, breathless — fate open. |
-| **Sylvira Savikas** | Alive, dying of abyssal plague | Curator of the Infernal Fortress (tiefling). Janussi's former lover; framed for his murder. Bedridden. Names **Teles Ahvoste** as framer. Suspects she was **impersonated** (a lookalike sighted in two places, defying polymorph limits). Has an abyssal-born son and a Mordenkainen's Mansion. |
+| **Manshoon** | **Alive — inside Candlekeep, alone, depleted** | Founder of the Zhentarim; *"the man who died more than once and kept returning."* **A'lai's patron for eleven years**, receiving stolen books via a courier who always wore **a glove over a metal hand**. Breached the keep with `wall of force`. Wants the **Book of Vile Darkness**. Does **not** know what is really in the depository. |
+| **A'lai Aivenmore** | **Alive — captured, bound, in party custody** | **Drow scholar** (ex-Council of Twelve), architect of the murder/frame, and **Manshoon's inside man for eleven years** — 31 years at Candlekeep with no house, family or country, only his chair. Tried to smash the sapphire to recall a key; Daz telekinesed it away. Surrendered weeping; wants a magic-nullifying cell. **Does not know who Daz really is** — he has only an intuition about a house. |
+| **Bookwyrm (First Reader)** | **DEAD (ch62–63)** | **Green dragonborn** acting head of Candlekeep. Concealed (did not commit) Janussi's murder. **Murdered by Moziqodo**, who took her Hightower key. Died unconvicted — the party never pinned the cover-up on her. |
+| **Moziqodo** | **DEAD (ch62–63)** | **Sylvira Savikas's son.** Murdered Bookwyrm, took her key, and was carrying it to A'lai when **the party killed him in a single round.** ⚠️ **Sylvira has not been told.** |
+| **Kalan Strongbranch** | Alive — **fled** | Reinstated Head of the Avowed. His rejected **"Threefold Proof"** is now the institution's investigative framework. **Handed the party a fake, non-magical key** to use them as a decoy while the real one sat with Tadric; admitted it when confronted, then ran. "Kalan is to the wind." |
+| **Sylvira Savikas** | Alive, dying of abyssal plague | Curator of the Infernal Fortress (tiefling). Janussi's former lover; framed for his murder. Bedridden. Names **Teles Ahvoste** as framer. Suspects she was **impersonated** (a lookalike sighted in two places, defying polymorph limits). Has a Mordenkainen's Mansion. ⚠️ **Her son Moziqodo is dead and she does not know it.** |
 | **Teles Ahvoste** | Alive | Great Reader; two-decade grudge against Janussi (passed over for Keeper). Suitor of Irony. Suspected of fabricating Sylvira's post-plague sightings. Suspect with motive, no proven link. |
 | **Vareth** | Alive | Senior librarian (41 yrs), Grygum's handler. Appropriated Grygum's theology into a published thesis ("a fourth corner"), formalizing the "Grygum school" / "strong-weak hypothesis" and diverting the Avowed from the murder. |
 | **Fheminor Scrivenbark** | Alive | Gnome scholar, murder suspect; her name was **erased from investigation records** (tampering). Last seen leaving the apothecary. |
 | **Queenie** | Alive | The tower **cat** — a possibly-supernatural observer. Noted Janussi's never-removed locket, witnessed the false Sylvira (wrong scent), and that Daral removed the book. Only cooperates if tickled. |
 | **Sister Yvenne** | Alive | Public record keeper, Daz's handler. Knows sealed truths about Daz's origins and a sealed Menzoberranzan house she cannot speak of. |
-| **Tadric** | Alive | Crime-scene guard; witnessed the failed "speak with dead," psychologically rattled by Thorin. |
+| **Tadric** | Alive | Crime-scene guard, Kalan's lieutenant, and the man who **held the real Hightower key and surrendered it to Grygum voluntarily** when the party reached him. Now hand-holding the failing ward lattice. **Identified Moziqodo as Sylvira's son** — making him the likeliest person to tell her. |
 
-**Locations:** **Deneir's Sanctum** — repurposed as the party's holding cell/investigation office; site of the helmed horror ambush (two ruined armor piles, one inert key remain). **High Tower / Hightower Library** — A'lai's current position (ch62).
+**Locations:** **Deneir's Sanctum** — repurposed as the party's holding cell/investigation office; site of the helmed horror ambush. **High Tower** — site of the ch63 battle; its magical dampening failed, letting Daz's fireball detonate on the indoor walkway. **Security Control Room** — held the artifacts governing Candlekeep's wards behind a door requiring both keys; **Manshoon shattered it with `wall of force`**. **Candlekeep Prison** — nullifies all spellcasting; A'lai is desperate to be put in it. **The Vault** (beneath the House of Alaundo, via 97 steps and a lava chamber) — holds ~100 warded tomes, the Echoes of Alaundo, and the **Book of Vile Darkness**. This is where Manshoon is going.
 
 ---
 
@@ -143,7 +151,7 @@ Summoned into the Prime Material at Sloobludop (see below); presence confirmed i
 - **Buppido** — DEAD. Derro serial killer / false prophet, slain by Daz.
 - **Plinki/Pliinki** — DEAD. Derro Demogorgon high priest; her journal recovered to Candlekeep.
 - **Narrak** — DEAD. Demogorgon cult leader, killed by Thorin.
-- **Alkrist** — DEAD. Framed murderer of Janussi (see §4).
+- **Alkrist** — ALIVE, neutralized. Publicly blamed for Janussi's murder; no longer a defender of the keep (see §4).
 - **Shuushar the Awakened** — Alive, departed to lead reformist Kuo-Toans.
 - **Prince Derendil, Imbros, Ront, Topsy, Yuk Yuk, Pelek, Ploopploopeen, Bloppblippodd, Xinaya** — dead/departed from earlier chapters.
 - **Stool & Rumpadump** — Alive, returned to (corrupted) Neverlight Grove with the Myconid collective.
@@ -155,10 +163,13 @@ Summoned into the Prime Material at Sloobludop (see below); presence confirmed i
 ## 8. OPEN THREADS & MYSTERIES
 
 ### A. The Candlekeep Endgame (most urgent)
-1. **The two keys / A'lai's play (ch62):** A'lai holds the first Hightower key in the High Tower awaiting Moziqodo with the second. What do the keys unlock? The inert key attracts **helmed horrors** — someone built and aimed them "knowing exactly which pocket to reach for." **Who is Moziqodo?**
-2. **Kalan's fate (ch62):** Left running, breathless — alive?
-3. **Bookwyrm's fate:** Status after A'lai took the key; the naming ceremony outcome; whether the concealed heart is discovered.
-4. **The false Sylvira:** A shapeshifter impersonated Sylvira (wrong scent, two locations). Identity, motive, connection to the frame unknown.
+1. **Manshoon and the Book of Vile Darkness (ch63):** He is in the keep, alone and depleted, racing for the Vault. **The depletion is the party's only advantage and it is temporary.** Does the Book leave Candlekeep in his hands?
+2. **What is actually in the depository?** A'lai withheld it from Manshoon and is holding it as his last card. Nobody else knows.
+3. **A'lai's Menzoberranzan intuition:** He believes a house has been paying to keep a drow breathing. He has a guess, not a name — and he does not know who Daz really is.
+4. **Kalan's fate:** Alive, fled, unresolved. Does he come back, and does the keep forgive the decoy?
+5. **The succession:** Bookwyrm died unconvicted. Who becomes First Reader, and does Janussi's concealed heart surface?
+6. **The false Sylvira:** A shapeshifter impersonated Sylvira (wrong scent, two locations). Identity, motive, connection to the frame still unknown — **an unspent gun.**
+7. ⚠️ **Sylvira does not know her son is dead.** GM-tracked; banked deliberately.
 
 ### B. Daz's Origins (central campaign mystery)
 5. **The patron:** Who in Menzoberranzan paid Menzoberranzan rates to protect Daz, and why? A'lai and possibly Yvenne know. Kaelira is closing in via the compromised drow scholar.
@@ -189,5 +200,5 @@ Summoned into the Prime Material at Sloobludop (see below); presence confirmed i
 6. **Ch30–32 — Lost Tomb of Khaem** side thread.
 7. **Ch34–48 — Blingdenstone:** **Glabbagool** gains sentience/bonds to the party; Pudding King defeated (Juiblex avatar); city stabilized; Burrow Wardens restored; **Jimjar reveals divine nature and vanishes.** Eldeth begins journey to Mithral Hall.
 8. **Ch49–54 — Ilvara's ritual site:** Ilvara (Zuggtmoy's vessel) destroyed; **Asha Vandree killed**; House Mizzrym/T'sarran agents slain; House T'sarran spy captured. Party emerges to the surface with Dawnbringer.
-9. **Ch53–61 — Candlekeep:** Janussi murdered; investigation exposes A'lai's frame of Daral and Bookwyrm's cover-up; Alkrist confesses and dies; helmed horror ambush; party confined in Deneir's Sanctum; Grygumite theology debate consumes the Avowed.
-10. **Ch62 — Candlekeep (current):** **A'lai seizes the first key from Bookwyrm and retreats to the High Tower awaiting Moziqodo with the second.** Kalan's fate unknown.
+9. **Ch53–61 — Candlekeep:** Janussi murdered; investigation exposes A'lai's frame of Daral and Bookwyrm's cover-up; Alkrist confesses and is broken as a defender of the keep; helmed horror ambush; party confined in Deneir's Sanctum; Grygumite theology debate consumes the Avowed.
+10. **Ch62–63 — Candlekeep, the High Tower (current):** Kalan's fake key exposed; **Tadric surrenders the real key** to Grygum. **Moziqodo murders Bookwyrm**, takes her key, **delivers it to A'lai**, and is **killed by the party in one round**. The party defeats A'lai's Zhentarim (all dead) and **captures A'lai alive**; Daz's fireball proves **the wards have failed**. **Manshoon's simulacrum breaches Candlekeep**, shatters the security-control-room door, and begins hunting the **Book of Vile Darkness**. Kalan flees.

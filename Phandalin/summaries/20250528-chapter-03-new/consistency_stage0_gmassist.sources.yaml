@@ -1,0 +1,223 @@
+consistency_check:
+  stage: 0
+  timestamp: "2026-08-17"
+  campaign: "Phandalin"
+  document_checked: "summaries/20250528-chapter-03-new/gm-assist.md"
+  document_class: "GMAssistant-exported first-pass recap (pre-enhance_summary layer)"
+  report: "summaries/20250528-chapter-03-new/consistency_stage0_gmassist.md"
+  config: "throwaway absolute-path config in scratchpad (phandalin_ch02_archive_config.yaml) — points campaign_state/world_state/planning/party labels at docs/archive/*_ch02.md instead of the current ch48-era docs, per GM instruction. mechanics label left pointing at the current (near-empty) docs/mechanics.md."
+  model: "claude-code backend (subscription, headless)"
+  backend: "claude-code"
+  issues_found: 17
+  session_prep_used: false
+  entity_registry_used: true
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/archive/campaign_state_ch02.md }
+      - { label: world_state,    path: docs/archive/world_state_ch02.md }
+    context:
+      - { path: docs/archive/party_ch02.md,    role: "PCs (campaign-standard, ch02-scoped per GM instruction)" }
+      - { path: docs/archive/planning_ch02.md, role: "threats/factions (ch02-scoped, added beyond the standard 4-file set for temporal consistency)" }
+      - { path: docs/entity_registry.yaml,     role: "canonical entity registry + aliases (campaign-standard, cumulative — not chapter-scoped)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,  role: "unpromoted confirmed names (campaign-standard)" }
+
+  notes: |
+    WHY ARCHIVE DOCS INSTEAD OF CURRENT DOCS. This session is 2025-05-28, contemporaneous
+    with the party's Chapter 2 state (level 1, two sessions old). The campaign's current
+    docs/{campaign_state,world_state,party,planning}.md describe the level-6, chapter-~48
+    party. The 2026-08-02 one-shot check on this same session (see
+    consistency_report_ch03.sources.yaml) ran against the CURRENT docs and hit a dominant
+    false-positive class from exactly that ~46-chapter time gap (Thunderwave, Starry Wisp,
+    daggers all rejected on VTT-adjudication as anachronistic-loadout false positives). The
+    GM had docs/archive/*_ch02.md prepared for this reason; this run uses them instead, per
+    explicit instruction.
+
+    ARCHIVE DOCS ARE THEMSELVES DRAFT. Both campaign_state_ch02.md and party_ch02.md carry
+    a header: "Archive snapshot — DRAFT, pending GM review... generated retroactively from
+    hand-authored ch1-2 prose." Several findings this run turned out to be archive errors,
+    not recap errors — see rulings below. Report correctly surfaced a caveat on authority
+    at the top of its own output for this reason.
+
+    MAJOR DISCOVERY THIS RUN — THE BIBLE IS MISSING THIS SESSION. Finding #1 flagged that
+    the recap opens already inside the dwarven ruins, with no resolution of the "Ogre #2 /
+    en route to Gnomengarde" combat that campaign_state_ch02.md says Chapter 2 ends on. GM
+    read the actual end of docs/chapters/chapter_02_arrival_in_phandalin.md and the start of
+    docs/chapters/chapter_03_to_find_a_shapeshifter.md to adjudicate: chapter 2 genuinely
+    ends mid-fight against the FIRST ogre en route to Gnomengarde (Vukradin's failed
+    intimidation, "I want turtle!", Valphine's bullet knocking it prone), and chapter 3
+    picks up finishing that SAME fight and proceeds straight into Gnomengarde (river,
+    waterfall, mushroom foraging) — with ZERO dwarven-ruins/ochre-jelly/Hall-of-Greed
+    content anywhere between them. This session's entire content (the subject of this
+    check) is therefore missing from the published chapter bible, not misplaced within it.
+    GM ruling: "the bible was missing two chapters, this is the new chapter 3... we will
+    have to renumber everything else." This validates the session directory's existing
+    "New Chapter 3" title/framing — see carry_forward, this is now a real (large, separate)
+    renumbering project, not something resolved by this check.
+
+    SPEAKER-ATTRIBUTED TRANSCRIPT AVAILABLE. Used session_20250528_transcript.speakers.vtt
+    (synthetic timestamps, but verbatim speaker-labelled text converted from the Zoom .md).
+    Speaker → character map, consistent with the 2026-08-02 run: Dave Mendenhall =
+    Vukradin, Wade Brown = Soma, Gary Young = Valphine; GM (Kostadis) ran Brewbarry
+    (Stephane absent this session too).
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-17"
+    gm_rulings_this_run:
+      - "Finding 1 (Critical): CONFIRMED — chapter 2 in docs/chapters/ genuinely ends
+         mid-ogre-fight and chapter 3 genuinely continues that fight into Gnomengarde. The
+         archive doc is accurately describing the EXISTING bible. The actual defect is that
+         the bible is missing the chapters that should sit between them — this whole
+         session's content. Not a recap error. Large renumbering effort deferred, GM's call,
+         not executed this run."
+      - "Finding 2/3/4 (Moderate, collapsed to one issue): CONFIRMED — campaign_state_ch02.md
+         was wrong, not the recap. GM: 'correct the campaign_state.' Fixed
+         docs/archive/campaign_state_ch02.md: 'Sending Stones — in party's possession' ->
+         'promised, not yet delivered'; removed stones from the Party Current Situation
+         resource list and cross-referenced the Open Threads entry instead. VTT evidence:
+         negotiation at ~40min ('Give us one sending stone now' / dwarves ask the party to
+         finish clearing first) and physical handover only at ~79min ('hands you the
+         Sending Stones') — after the ruins are fully cleared, matching the recap exactly."
+      - "Findings 5, 6, 7, 15: GM approved applying all four to gm-assist.md directly
+         ('Yes, apply all four')."
+
+    applied:
+      - finding: 5
+        fix: "Removed 'He shouted warnings during the battle...' from Dazlyn's NPC entry;
+              changed Scenes -> Battle with the Ochre Jellies from 'Norbus and Dazlyn shout
+              warnings' to 'Norbus shouts a warning' (singular). VTT has exactly ONE such
+              quote, from Norbus only (session_20250528_transcript.speakers.vtt, 'Could you
+              not use such damaging spells?'). Norbus's own NPC entry already had this
+              correct and was left unchanged."
+      - finding: 6
+        fix: "Summary: 'her hardened carapace deflecting blow after blow while her
+              companions maneuvered around her' -> now states she was overwhelmed, knocked
+              unconscious, and revived by Valphine's healing word, matching Memorable
+              Moments and Scenes (which already had this correct)."
+      - finding: 7
+        fix: "Healing Word spell entry rewritten to stop implying the SAME near-fatal
+              pseudopod strike that nearly dropped Brewbarry (Summary/Scenes both correctly
+              attribute that hit to Brewbarry) was the one healed on Soma. VTT-verified
+              (grepped every heal|hit-point-back|healing-word line): both Healing Word casts
+              targeted Soma (Wade Brown) — 3->11 HP, then a full revive. Brewbarry's own
+              near-fatal hit (down to 1 HP, 'No, I'm not dead, I have one hit point') was
+              NEVER healed and is not mentioned anywhere else in gm-assist.md — added this
+              fact to the Healing Word entry since no other section records it (VTT-only
+              catch, not something any grounding doc could have surfaced)."
+      - finding: 15
+        fix: "Sending Stones item entry: removed 'and delivering a message' — that was
+              Harbin Wester's separate 50gp job-board payout per campaign_state_ch02.md,
+              not part of the dwarves' stones deal."
+
+    rejected:
+      - finding: 8
+        ruling: "REJECTED (reused from 2026-08-02 VTT adjudication, same session, same
+          facts) — daggers confirmed verbatim on tape: 'I've got two daggers... main attack
+          and an off-hand attack.' No action."
+      - finding: 9
+        ruling: "REJECTED (reused from 2026-08-02 VTT adjudication) — Thunderwave,
+          Dissonant Whispers, and Starry Wisp all confirmed verbatim on tape. Dissonant
+          Whispers vs. the jelly's frightened-immunity was an explicit GM table ruling
+          ('it's immune to frightened, but-' -> allowed anyway). No action."
+      - finding: 11
+        ruling: "REJECTED (reused from 2026-08-02 VTT adjudication) — Valphine speaking
+          Orcish already listed as VERIFIED CORRECT in the prior run's adjudication notes.
+          No action."
+      - finding: 10
+        ruling: "Table ruling, not an error. VTT (line ~997): the second jelly's split was
+          declared by the GM immediately after Vukradin's two-dagger (piercing) attack
+          sequence, not a slashing/lightning hit per the 5e rule. Consistent with this same
+          session's other on-the-fly rulings (Dissonant Whispers vs. frightened immunity).
+          Noted, not fixed — recap accurately reports what happened at the table."
+      - finding: 14
+        ruling: "REJECTED — confirmed on tape as an intentional GM/player joke, not a
+          factual claim. GM-voiced dwarf: 'they started the hobby recently... several days
+          ago'; Dave: 'moments ago. Hours, even.' Preserve as table color per standing
+          instruction not to strip jokes/improv."
+      - finding: 12
+        ruling: "Left open — genuinely ambiguous on tape. Sleight-of-hand roll happens (DC
+          5) but the outcome isn't narrated before the scene moves on. Not resolvable from
+          this transcript without further GM input; not fixed."
+      - finding: 13
+        ruling: "Deferred — cosmetic Summary/Scenes ordering mismatch on the Skull Cavity
+          discovery. Not VTT-checked this run (low stakes); logged to carry_forward."
+      - finding: 16
+        ruling: "Deferred — Ochre Jelly/Orcs filed under NPCs is a structural/cosmetic
+          convention issue, not a factual error. Not fixed this run."
+      - finding: 17
+        ruling: "Superseded by finding 1's resolution — 'New Chapter 3' is validated as the
+          correct framing now that the bible-gap is confirmed. No title change needed."
+
+  vtt_adjudicated: |
+    VTT consulted BY HAND (session_20250528_transcript.speakers.vtt — synthetic timestamps,
+    verbatim speaker-labelled text) — NOT a --context input to the check.
+
+    CHAPTER BOUNDARY (finding 1): grepped for ogre/gnomengarde/ochre across the whole
+    transcript. Zero hits for a literal second-ogre resolution or Gnomengarde travel;
+    'ogre' appears only as Dave's in-session mishearing of 'ochre jelly' (self-corrected by
+    the GM on tape: 'All right. Ogre Jelly three is up' / 'No, ochre jelly three is up.').
+    The session opens already inside the ruins with the dwarves already present nearby
+    ('meanwhile, the two dwarves shout...' near the very start of actual play). Cross-
+    checked against docs/chapters/chapter_02 and chapter_03 prose directly — confirmed the
+    bible-gap explanation over an ASR/recap-authoring explanation.
+
+    SENDING STONES (findings 2-4): negotiation ~40min in ('Give us one sending stone now' /
+    dwarves ask the party to finish clearing first); physical handover only at ~79min
+    ('yes, yes, thank you so much, and hands you the Sending Stones') — after the Hall of
+    Greed and the gem-split negotiation are both already resolved. Recap's ordering matches
+    the tape exactly; archive's 'in party's possession' was the error.
+
+    'DON'T DAMAGE THE SITE' (finding 5): exactly one such quote in the whole transcript,
+    Norbus: 'Could you not use such damaging spells? It might damage some of the interior
+    that we're trying to preserve.' No equivalent Dazlyn quote found.
+
+    HEALING (finding 7): grepped every heal|hit-point-back|healing-word|near-fatal line.
+    Brewbarry's near-fatal hit: 'Number one advances on the barbarian'... 'No, I'm not dead.
+    I have one hit point.' — never healed afterward in this transcript. Soma's two heals,
+    both Healing Word 2d4+3: 'So Wade, you get eight back — Hey, I'm back to 11' and a later
+    full revive ('I mean, I guess I could use another healing word — on the turtle').
+
+    JELLY SPLIT MECHANIC (finding 10): 'A hit, two hits, four... 10 damage, 10 damage. It
+    splits into two' immediately follows Vukradin's two-dagger attack sequence — piercing
+    damage, not the slashing/lightning the 5e statblock requires. GM declared the split on
+    the spot without flagging a rule override (unlike the Dissonant Whispers moment, where
+    the override was explicit on tape).
+
+    'RECENTLY TOOK UP THE HOBBY' (finding 14): confirmed verbatim as GM-voiced dwarf humor
+    immediately followed by Dave riffing on it — an intentional bit, not summarizer
+    invention or a factual claim about Dazlyn's actual tenure.
+
+  carry_forward:
+    - status: OPEN
+      severity: major
+      item: "CHAPTER RENUMBERING. docs/chapters/chapter_02_arrival_in_phandalin.md and
+        chapter_03_to_find_a_shapeshifter.md have no gap between them in the existing bible
+        (ch2 ends mid-ogre-fight, ch3 finishes that fight and continues to Gnomengarde), but
+        this entire session (dwarven ruins / ochre jellies / Hall of Greed) chronologically
+        belongs between them and is not represented in the bible at all. GM: 'the bible was
+        missing two chapters, this is the new chapter 3... we will have to renumber
+        everything else.' This is large, separate structural work — new chapter file(s) for
+        this session inserted after the current ch2, the existing ch3 onward renumbered up,
+        and every downstream generated doc (campaign_state.md, world_state.md, party.md,
+        planning.md, chapter_provenance.md, entity_registry.yaml chapter references, the
+        mempalace narrative wing) eventually needs to reflect the new numbering. NOT
+        attempted this run — flagged for separate planning per GM instruction."
+    - status: OPEN
+      item: "docs/archive/world_state_ch02.md and planning_ch02.md were loaded as context
+        this run but not individually re-verified finding-by-finding the way
+        campaign_state_ch02.md was. Worth a pass once the renumbering above is settled,
+        since the same 'archive doc vs. actual chapter-2 prose' mismatch class could recur."
+    - status: NOTE
+      item: "Finding 12 (holy symbol disposition) and finding 13 (Skull Cavity timeline
+        ordering) remain open ambiguities/cosmetic issues in gm-assist.md, not fixed this
+        run. Low stakes; revisit if they matter to a future regenerated chapter."
+    - status: NOTE
+      item: "Finding 16 (Ochre Jelly/Orcs under NPCs heading) is a structural convention
+        issue affecting downstream dossier generation. Not fixed this run."
+    - status: NOTE
+      item: "This workspace has NO root config.yaml (same as the 2026-08-02 run) — used a
+        throwaway absolute-path config in the scratchpad, this time pointing campaign_state/
+        world_state/planning/party at docs/archive/*_ch02.md instead of the current docs.
+        Same workaround will be needed for Stage 1 (session-summary.md) and beyond."

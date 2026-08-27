@@ -8,34 +8,196 @@ session: 20260623
 
 ### Soma
 
-The cheese came out the way good news always comes out in Phandalin — sideways, on the back of money. With the UBT putting coin in hands that had never held much, Qelline Alderleaf and Alphonse "Big Al" Kalazorn and Linene had all arrived at the same arithmetic at the same time: more coin meant more cheese. Petunia the cow stood placid in the yard while they laid out a whole round of choices for us. Did we want the fancy cheese, the not-so-fancy, the expensive. Did we want it from when Petunia ate the grass off the upper part of the field, or the lower. *Shell-sprouts*, I thought, *they have sorted milk by altitude.*
+The UBT announcement came and went, and the talk turned, as it always does in Phandalin these days, to cheese. Qelline Alderleaf stood with Big Al Kalazorn and Linene Graywind at the fold-down table, and I could see the calculation passing between them—the same one merchants always make when coin starts moving.
 
-"It's getting a bit too technical for Brewbarry," my goliath rumbled, and I did not blame him.
+Brewbarry, of all people, cut to the heart of it. "Start an export business."
 
-"I think we're looking for the regular one," Valphine said, and Qelline's face fell like a dropped wheel of it. "Regular cheese. *Philistines.*" She said it twice, the second time as a question, as though she could not believe her own ears.
+I blinked. For a man whose total worldview consists of contests, hangovers, and loyalty, the idea was almost elegant.
 
-But Brewbarry asked for a tasting, and that is where the whole afternoon went sideways and sweet. He worked through the range slow and serious, the dried-out ones pushed aside without ceremony, and settled on a bluish, creamy thing he declared the finest. Qelline was beside herself — *who would have thought Brewbarry was a man of taste and vision?* — and turned to Big Al to ask whether he'd known he kept such classy company. Big Al looked at his friend a long beat. "Neither did I." I have known that flat tortle-deadpan all my life, even in a human's mouth. It made me like him.
+Qelline's eyes lit up. She gestured at the spread—rounds and wedges of every age and color, arranged on a board like a map of her entire enterprise. "Oh, yes. They have a round of cheese, they're like: do you want the fancy cheese, the not-so-fancy cheese, the expensive cheese? They're cheese choices—do you want the cheese from when Petunia ate the grass from the upper part of the field, or do you want it from the lower part?"
 
-Then came the real thing my big sprout had been chewing on. He wanted a wealth consultant, an accountant, somebody to manage his personal fortunes.
+*Upper part of the field.* I turned this over. Somewhere between the two slopes, apparently, lay the secret to decent dairy.
 
-"Yeah," I said, "what is it, three gold pieces a week or something?" Because that is what we were all going to make, and a fortune it was not.
+Brewbarry looked like a man who'd just been asked to split an atom. "It's getting a bit too technical for Brewbarry."
 
-But he was serious in a way I hadn't seen him be about anything that wasn't a fight or a bottle. A bathrobe factory. Phandalin cotton, blessed by Lathander's priests, soft enough to atone for something. *Mankind has been spreading violence and pain throughout the land for generations*, he said. *I think I need to turn that around and bring softness to people.*
+Valphine, helpfully, cut through the options: "I think we're looking for the regular one."
 
-"It's a nice story of atonement," I told him, and I meant it. "I like it." I have watched him be the cautionary tale too many times. Let him be the soft thing for once.
+Qelline's face went flat. "Regular cheese. Philistines."
 
-They sent him to Linene, who took the whole mad scheme like it was scripture — cotton sourcing, the Lathander logo stamped on every robe, a little blurb for Vukradin's coming studio, even five points off the price for anyone who bought Vukradin's record, the *Black Cylinder*. She'd write him a letter to the Counting House in Neverwinter to chase capital. And when Brewbarry warned her, gentle and a bit dumb but with *consequence* in the word, not to screw him, she didn't flinch. "Brewbarry. This is your personal quest. Now it is my personal quest."
+I took a long, slow breath, the kind that settles under a shell. *Philistines.* We had beaten a god-avatar to death with moonfire, and this was the insult that stung.
 
-Vukradin tried to needle a Natural One out of it, swearing she was *absolutely on your side, you can trust her.* Valphine read her properly instead, and the read came back clean and certain — Linene meant every word, and the supply trouble she carried sat in her deeper than the cheese ever would.
+Brewbarry, however, rose to the occasion. "Well, can we do some cheese tasting? It depends."
 
-Because there was supply trouble. The Lion Shield Coster used to move goods cheap, and now they didn't, and nobody knew why. She wanted us to ask after it in Neverwinter. And then she mentioned the thing only I seemed to keep — the hides we'd hauled out of the Whispering Grove, the leather that phased in and out of the world like it couldn't decide which one to belong to. She'd been hungry for those. *Yeah*, I said. Just that. But I held the two halves of it side by side: distribution gone strange, and a woman who lit up at planar goods. The others were already past it. I wasn't. There is a wrongness that hums under ordinary trade the way a blighted root hums under healthy grass, and I have learned not to let it fester unnamed.
+Qelline turned to him as if he'd just grown a second head, then smiled with genuine warmth. "Who would have thought that Brewbarry was a man of taste and vision?"
 
-A note arrived too, the necklace of fireballs claimed at last — a quiet Alagondar branch, no title, no army, just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking. Perrin Alagondar, the claimant. Vukradin could finally put it down and do the thing he keeps saying he wants to do. *Blood treasure*, he muttered, but he wrote the name in his head all the same.
+"I know. How is that possible? How's that possible?" He actually sounded stunned, as if he'd just discovered a talent for poetry.
 
-Then Neverwinter, with the Shrine of Savras left behind us — *did we have any quests in that direction?* I asked, and we didn't, not really, only secrets we'd never pry loose. So we walked. And Brewbarry talked of bathrobes the whole long way, the softest thread, the cut of them, until even Vukradin begged him to give it a rest.
+Vukradin, ever the enabler: "Goes well with the wine."
 
-"Pretty comfy," I offered, when somebody asked where the dream had come from.
+That sealed it. Qelline brought out a bottle of red, then another, and the table expanded. The tasting turned into a multi-hour affair, cheese and wine passing hand to hand while the afternoon wore on. Vukradin, watching the proceedings with the expression of a man who was beginning to understand that prosperity was spreading, muttered, "They really are getting high on the UBT now."
 
-"Exactly," said my big sprout, glowing.
+Valphine, already planning logistics, waved a hand. "Our assistants will be by to pick up the cheese."
 
-The road, for once, gave us nothing to fight.
+Qelline nodded graciously. "Well, then we will absolutely keep them a fine round of our finest cheese." Then she turned, her voice taking on a note of real curiosity. "Mr. Brewbarry. Which one of these cheeses was your favorite?"
+
+Brewbarry looked at the board. "So I taste the cheese. Is there a big difference in—"
+
+"Some of them are more bluish, some are more creamy, some are more dried out."
+
+He nodded like a man working through a puzzle. "Alright, so I put the dried-out stuff aside." His hand hovered. "The bluish, creamy stuff, does that taste good?"
+
+"Yes, it tastes very good."
+
+"Alright, I'll say this one, then. It's only the finest."
+
+Qelline beamed. "Well then, you are a discerning customer, Mr. Brewbarry. You are an absolutely discerning customer." She turned to Big Al. "I didn't know you had such friends with such class, Big Al."
+
+Big Al looked at her, then at us, then back at her, deadpan flat. "Neither did I."
+
+Valphine, weighing the ledger: "But I don't know that we need the good stuff."
+
+Brewbarry waved her off. "Let's keep people happy, isn't that what today's all about? Making people happy?"
+
+"I think for the margins."
+
+"Don't underestimate the power of the good stuff on the good people."
+
+*The good stuff on the good people.* I made a note. Somewhere under that thick skull, there was actual philosophy forming.
+
+---
+
+The cheese settled, Brewbarry's mind moved on to his next project—which was, apparently, everything. He cornered me and the others with the look of a man with a plan.
+
+"Is there an accountant or a banker in Phandalin? Somebody who could manage my personal fortunes as well."
+
+Vukradin raised an eyebrow. "…personal fortune I don't know about."
+
+"Well, I'm not gonna get gold, just like the rest of us, right? I want a wealth consultant." He leaned in, suddenly serious. "To advise me on how I can start my bathrobe business. I'm serious about this, I want people…"
+
+Vukradin, catching the thread: "Go to Gold Bond, you're right. The money's gonna start pouring in pretty soon."
+
+I couldn't help myself. "Yeah, what is it, 3 gold pieces a week or something?"
+
+Brewbarry plowed on. "So, I ask again, is there a wealth management consultant in Phandalin?"
+
+The only wealth management person who would know anything was Linene Graywind, whose job sat at the trading house. So Brewbarry went to her.
+
+I watched him pitch. There was something endearing about the way he stood up straight, squared those massive shoulders, and laid it out. "To start a bathrobe factory, so that it can bring softness to—"
+
+Linene finished for him, "The good people."
+
+"And enrich their lives."
+
+She nodded. "That's a wonderful idea."
+
+Brewbarry pressed his advantage. "Yes, so I'd like you to manage my wealth. Maybe start a market study on the business of—"
+
+Linene was already writing notes. I looked at Valphine, who looked back with the expression of someone who had seen a miracle and wasn't sure if it was real. Brewbarry, the man who had once charged a dragon bare-handed, was now a textile futurist.
+
+"Mankind has been spreading violence and pain throughout the land for generations," he said, with the gravity of a sage. "I think I need to turn that around and bring softness to people."
+
+I felt the corner of my mouth twitch. "It's a nice story of atonement, I like it."
+
+"Absolutely."
+
+Valphine, ever the supply-chain mind: "The source of Phandalin cotton, or something?"
+
+Brewbarry lit up. "Yes, it needs to be blessed by Lathander's priests, of course."
+
+"Yes. Well, we can put Lathander's logo on it, too."
+
+"Absolutely. It should definitely be your Lathander's logo on it. And a little readable blurb. Note on Vukradin's upcoming music studio. And I will even throw a 5% off—for people who also buy Vukradin's masterpiece."
+
+The album—Black Cylinder, that was the title. The collaboration had officially become a vertical integration. Vukradin would make the art, Brewbarry would make the bathrobes, and Lathander would bless them both.
+
+"Okay, so, manage my wealth, come up with a business plan, I want to hear about it, I'll give you a month."
+
+Vukradin, with that sharp edge he gets when someone else is doing the heavy lifting, said, "I just want to be clear on this. You're the ideas guy, and she's doing all the work?"
+
+Brewbarry couldn't even pretend. "Yes. Well, she gets a commission."
+
+"Not in management, though, right? This is your fantasy?"
+
+"Yes, this is my vision."
+
+Vukradin pressed. "In real life, right? That's why you have to have the fantasy of being the manager."
+
+Brewbarry shook his head with absolute sincerity. "No, I don't wanna manage, man. I'm the ID guy."
+
+*The ID guy.* I filed that away. Somehow I doubted the Consumers' League had such a title, but for Brewbarry, it fit like a glove.
+
+He was already gone, though, lost in the vision. "Alright, so this is very personal to Brewbarry—he's becoming obsessed with this. It takes everybody to have a bathrobe and feel soft."
+
+Vukradin, catching the contagion: "Everyone will be able to afford it."
+
+Linene, bless her, took the whole thing seriously. She wrote the note, then raised a complication. "Normally the Lionshield Coster would be delighted to handle distribution of the bathrobes. But she says there's been a small problem: it used to be that they had a very cheap distribution method, and now there are more costly distribution methods in play. And she wonders if you could go see if anybody has heard anything in Neverwinter."
+
+Brewbarry, without hesitation: "Sure."
+
+"About when the Lionshield Coster distribution system will be back up and running."
+
+"Okay, I can do that, for sure."
+
+But before he left, he did something unexpected. He squared up to her—not threatening, but with a weight that was pure Brewbarry. "Let me just be very clear about this. This is a personal quest for me."
+
+"I'm not—"
+
+"Seem gentle and a bit dumb. But if you try to screw me on this."
+
+"No, no, no."
+
+"Consequence."
+
+The word hung there, direct and simple. Linene looked at him for a long moment. Then she said, in complete earnest, "Brewbarry. This is your personal quest, now it is my personal quest."
+
+Brewbarry nodded, satisfied. "Excellent, excellent, yeah."
+
+Vukradin, predictably, couldn't let it go. "Insight. Natural One Insight."
+
+Valphine, ever the pragmatist, put her real talents to work. She looked at Linene, read her, and I watched her face shift. "She's sincere," she said. "The supply chain problem is of deep concern to her."
+
+*Deep concern.* Good. That meant she'd actually do the work.
+
+Still, something nagged at me. Linene had been obsessed with the planar-magic hides we'd brought back from the Whispering Grove—phasing leather, patches of it going in and out of existence. She'd been *delighted* about that. I knew the look. I'd seen it on her face before, the hunger of a woman who wanted something strange enough to be dangerous.
+
+---
+
+The treasure discussion rolled on, as it always does with Vukradin around, and he brought up the necklace of fireballs. "Also, blood money. Blood treasure."
+
+*Blood treasure.* The words sat oddly together, but I understood him.
+
+Then the note appeared—from Ser Kaelen, of all people, left before we departed. Vukradin read it aloud, and I heard the weight in it. An Alagondar—a quiet branch, no title, no army, just a family that lost their dead's belongings to grave robbers a generation ago and never stopped looking. The recovery office had matched the provenance. The claimant was Perrin Alagondar.
+
+Vukradin looked at the paper, then at the necklace. "You can put it down. You can actually do the thing you keep saying you want to do."
+
+I watched him. There it was, the only currency that matters to him: something that could be returned.
+
+We synced up on the route. "Anywhere we want to stop along the way?" he asked.
+
+I thought about it, mentally turning over the quest board. "Did we have any quests in that direction?"
+
+Vukradin shook his head. "I don't think we need to go to the Hunting Lodge, or the Dragon Barrow, or the Logger's Camp. We don't have any reason to go with any of those, right?"
+
+The only thing left was the Shrine of Savras. Vukradin made the call: "We're just gonna abandon that quest." He paused, then, with a half-smile, "I'm sure it has all the secrets of planar anomalies, and we'll just never find out."
+
+I said nothing. But I felt something in my chest, a small cool thing, settle.
+
+The journey to Neverwinter began, and Brewbarry, once on the road, couldn't stop talking. Endlessly. About bathrobes. About the softest thread. About how good they were going to look, draped over bodies both good and honest, bringing softness where there had only been leather and mail.
+
+"What's the softest thread that you can use?" he asked, I think sincerely.
+
+Vukradin finally cracked. "Dude. Dude. bathrobes. Give it a rest. You sound like me with UBT."
+
+If there was a worse insult in Vukradin's vocabulary, I hadn't heard it.
+
+Brewbarry, undeterred, actually took the instruction as a suggestion. "And rest in your bathrobe, yes, absolutely."
+
+I looked at him, then at my own shell. "Pretty comfy."
+
+"Exactly."
+
+The miles passed. The road stayed quiet. I kept thinking about Linene's hand on that phasing leather, the soft hunger in her eyes, and the way she'd looked at Brewbarry when she took his quest as her own. Both of them, the trader and the giant, chasing something they wanted badly enough to be clean about.
+
+*My bale,* I thought, watching Brewbarry gesturing at the horizon, describing the drape of a sleeve. *All my bale, chasing softness.*
+
+I could live with that.

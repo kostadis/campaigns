@@ -23,6 +23,8 @@
 - **Appendix B** / **Duergar Clans, Military, and Other Factions** — Book appendix with bare-bones details on each of the nineteen duergar clans, their numbers, industries, and feelings toward key events.
 - **Demogorgonic Abomination** — New creature race introduced in this supplement's Appendix E; only its title appears in this front-matter chunk, with no further description given here.
 - **One Who Watches** — Mysterious figure named in a Whorlstone note claiming the stolen dragon egg is meant for it, not Narrak; identity unrevealed in this chunk.
+- **Limniz** — easternmost star of the Mystra's Mantle constellation, charted in the Orrery of the Astronomicon; answer to the cryptogram's second riddle (Ch64)
+- **Mystra's Mantle** — constellation containing the star Limniz; transcripts rendered it "Mystaras/Mistaras", both corrected to Mystra
 
 ## Deities
 
@@ -920,7 +922,7 @@
 - **Frondu** — Pavilion Naturalis; firbolg
 - **Inda** — House of Alaundo; half-orc, secretly worships Alaundo as a deity
 - **Alaundo the Seer** / **Alaundo** — the historical prophet whose 99 prophecies the Endless Chant recites
-- **Miirym, the Sentinel Wyrm** — translucent ghost-dragon guardian of Candlekeep (encountered "Underneath Candlekeep")
+- **Miirym, the Sentinel Wyrm** / **Vydykyq** — translucent ghost-dragon guardian of Candlekeep (encountered "Underneath Candlekeep")
 - **Batbayar** — legendary halfling bard whose statue dominates the School of Drama
 - **Fyrentennimar** — the ancient red dragon whose preserved carcass is Drakonoikos
 - **Plinki** — mad derro savant guarding the obelisk; author of Plinky's Journal, a demonological text sourced from the Whorlstone Caverns
@@ -1030,3 +1032,4 @@
 - **Gorgthrax** — Name the stolen red dragon egg assumes on hatching; a demonically-influenced, two-headed wyrmling drawn to serve Demogorgon as a mount.
 - **Hydra** / **Area 9 Hydra** — Multi-headed guardian of Whorlstone Area 9's travel routes, listed among the tunnels' primary actors; hunts and attacks any group passing through, regardless of faction.
 - **Zombies with Multiple Heads** — Multi-headed zombies reanimated from slain Empty-Scabbard Killers in Whorlstone Area 13, product of cult experiments to create hybrid warriors; mindless but aggressive.
+- **Edvaldo Sedanur** — avowed scholar of Candlekeep history, hired by the party and accompanied them into the Vault (Ch65); credentials unverified at the table — prep runs him as a doppelganger

@@ -1,0 +1,212 @@
+# Provenance manifest — the machine-readable transcription of the trust
+# hierarchy that until now lived only as prose in this workspace's CLAUDE.md.
+#
+# ============================================================================
+#  DRAFT — NOT YET RATIFIED.  Spec 007, task T023.
+#  FR-029 requires this file be hand-authored. A drafted transcription is not
+#  ratified data until the GM has read it. Read "What to rule on" below before
+#  anything downstream trusts this.
+# ============================================================================
+#
+# What this file decides:
+#   * which campaigns exist at all  (enumeration is CLOSED — a directory on
+#     disk that is absent here is invisible to search, and naming it is
+#     refused by name)
+#   * how much a reader should trust each file  (the four tiers)
+#   * which files a pipeline will clobber on its next run  (`generated`)
+#   * where each campaign's corrections and identity stores live
+#
+# Tiers are evaluated in the fixed order authoritative -> search_accelerator
+# -> working_reference -> staging, first match wins. Overlaps are EXPECTED:
+# every additional matching tier is recorded on the hit and reported by
+# `provenance check`. The tool never silently picks a winner.
+#
+# A file matching no glob comes back tiered `unclassified` and is STILL
+# RETURNED. Dropping it would be a silent narrowing nobody could notice.
+#
+# Verify with:  provenance check --campaigns-root ~/src/campaigns
+#
+# ── What to rule on ─────────────────────────────────────────────────────────
+#
+# 1. TWO HORIZON NUMBERS DIFFER FROM contracts/manifest.md's worked example.
+#    Both were counted from file counts there; both are corrected here from
+#    the filenames on disk (2026-08-06):
+#      Hillsfar  15 -> 16   docs/chapters/ holds 15 files but chapter_08 does
+#                           not exist; the newest is chapter_16_.
+#      obelisk    4 -> 3    docs/chapters/ holds 4 files, one of which is
+#                           mempalace.yaml; the newest session is session_003_.
+#    A horizon that is one too low silently hides the most recent chapter from
+#    every horizon query, which is the failure mode hardest to notice.
+#
+# 2. DIRECTORIES LEFT DELIBERATELY UNCLASSIFIED. No glob was invented for
+#    them, because inventing one would be the tool making a scope decision
+#    (FR-029). They are searchable and will come back labelled `unclassified`;
+#    `provenance check` reports the heavier ones. Add globs where the label is
+#    wrong:
+#      Phandalin/docs/  adventures, background, chapter_extracts, dead,
+#                       ensemble, examples, party, synthesize_npc, tracking
+#      out-of-the-abyss/docs/  background, campaign_state_extracts, dead,
+#                       gauntlgrym, inventory, party, party_extract,
+#                       state_staging, tracking, v2
+#      stormgiants/docs/ party
+#      toee/docs/       background, ensemble, party, state_staging
+#      Hillsfar/docs/   background, ensemble
+#      obelisk/docs/    ensemble
+#      summaries/**/*.txt, *.yaml, *.json in every campaign (the authoritative
+#                       globs cover .md and .vtt only)
+#    obelisk declares docs/background/*.md but Phandalin, out-of-the-abyss,
+#    toee and Hillsfar do not, though all five have the directory. That
+#    inconsistency is inherited from the worked example and is left visible
+#    rather than harmonised by guesswork.
+#
+# 3. NOTHING WAS EXCLUDED BEYOND THE DEFAULTS. toee/.mneme/ and
+#    obelisk/.mneme/ hold two .yaml index files each and will surface as
+#    `unclassified`. An `exclude: [".mneme/**"]` would silence them. It is not
+#    written here on purpose: an over-broad draft produces noise a GM can
+#    prune, an over-narrow one produces an absence nobody can see.
+#
+# 4. lib/ IS NOT GLOBBED AND DOES NOT NEED TO BE. contracts/manifest.md names
+#    "Phandalin's lib/" as a per-campaign deviation. Phandalin/lib and
+#    out-of-the-abyss/lib hold only .js and .css, none of which is in
+#    search_extensions, so they never enter a search either way.
+#
+# 5. entity_registry.yaml ELEVATED TO AUTHORITATIVE (2026-08-17, GM-confirmed,
+#    CampaignGenerator #326). Every campaign's registry previously fell out of
+#    the blanket working_reference `docs/*.yaml` glob alongside generated
+#    config. That inverted this workspace's own trust hierarchy: the registry
+#    is hand-curated identity/spelling canon, not pipeline output, and a
+#    consistency check anchored on working_reference alone missed real
+#    surname/spelling errors the registry would have caught (the Obelisk
+#    "Foreput"/"Dawnforge" incident, #117). Applied only where a registry
+#    exists (Phandalin, out-of-the-abyss, toee, obelisk) — Hillsfar and
+#    stormgiants have none. `notes/**` stays staging; this workspace's own
+#    CLAUDE.md is explicit that notes are not canon, and the backtest that
+#    motivated this change did not need notes/ reclassified to work.
+
+version: 1
+
+campaigns:
+
+  Phandalin:
+    root: Phandalin
+    tiers:
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
+      search_accelerator: ["docs/*_extractions/**/*.md"]
+      working_reference:  ["docs/*.md", "docs/npcs/*.md", "characters/*.md", "voice/*.md",
+                           "docs/*.yaml", "docs/*.json", "config/*.yaml"]
+      staging:            ["notes/**"]
+    generated:
+      - {paths: ["docs/world_state.md"],    by: distill}
+      - {paths: ["docs/campaign_state.md"], by: campaign_state}
+      - {paths: ["docs/planning.md"],       by: planning}
+      - {paths: ["docs/party.md"],          by: party}
+      - {paths: ["docs/npcs/*.md"],         by: planning, note: "--build-dossiers"}
+    horizon: {latest: 46, path_pattern: 'docs/chapters/chapter_(\d+)_'}
+    identity: {registry: docs/entity_registry.yaml, aliases: docs/aliases.json}
+    corrections: docs/corrections.yaml
+    provenance_ranges: []
+
+  out-of-the-abyss:
+    root: out-of-the-abyss
+    tiers:
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
+      search_accelerator: ["docs/*_extractions/**/*.md"]
+      working_reference:  ["docs/*.md",  "voice/*.md", "examples/*.md",
+                           "docs/*.yaml", "docs/*.json", "config/*.yaml"]
+      staging:            ["notes/**"]
+    generated:
+      - {paths: ["docs/world_state.md"],    by: synthesise_world_state}
+      - {paths: ["docs/campaign_state.md"], by: campaign_state}
+      - {paths: ["docs/planning.md"],       by: planning}
+      - {paths: ["docs/party.md"],          by: party}
+    horizon: {latest: 62, path_pattern: 'docs/chapters/chapter_(\d+)_'}
+    identity: {registry: docs/entity_registry.yaml, aliases: docs/aliases.json}
+    corrections: docs/corrections.yaml
+    # FR-026. Both halves are canon for plot. They are NOT interchangeable for
+    # voice-reference work, which is the entire reason the label exists.
+    provenance_ranges:
+      - {from: 1,  to: 15,   authorship: gm-written,  note: "hand-written by the GM"}
+      - {from: 16, to: null, authorship: ai-assisted, note: "not voice-reference material"}
+
+  stormgiants:
+    root: stormgiants
+    tiers:
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md"]
+      # BOTH locations. This campaign keeps extraction output at the campaign
+      # root as well as under docs/; a shared template carrying only the
+      # docs/ glob would silently drop every root-level extraction.
+      search_accelerator: ["distill_extractions/**/*.md", "planning_extractions/**/*.md",
+                           "party_extractions/**/*.md",   "docs/*_extractions/**/*.md"]
+      working_reference:  ["docs/*.md", "docs/npcs/*.md", "voice/*.md", "examples/*.md",
+                           "Storm King Thunder/**/*.md", "docs/*.yaml", "docs/*.json"]
+      staging:            ["notes/**"]
+    generated:
+      - {paths: ["docs/world_state.md"],    by: distill}
+      - {paths: ["docs/campaign_state.md"], by: campaign_state}
+      - {paths: ["docs/planning.md"],       by: planning}
+      - {paths: ["docs/npcs/*.md"],         by: planning, note: "--build-dossiers"}
+    horizon: {latest: 86, path_pattern: 'docs/chapters/chapter_(\d+)_'}
+    # No identity store. `provenance resolve` answers NO IDENTITY STORE here,
+    # which is a real answer and distinguishable from "no such entity".
+    identity: {registry: null, aliases: null}
+    corrections: docs/corrections.yaml
+    provenance_ranges: []
+
+  toee:
+    root: toee
+    tiers:
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
+      # Root-level planning_extractions/ as well as the docs/ ones.
+      search_accelerator: ["planning_extractions/**/*.md", "docs/*_extractions/**/*.md"]
+      working_reference:  ["docs/*.md", "voice/*.md", "examples/*.md",
+                           "temple/**/*.md", "docs/*.yaml", "docs/*.json"]
+      staging:            ["notes/**", "archive/**"]
+    generated:
+      - {paths: ["docs/world_state.md"],    by: distill}
+      - {paths: ["docs/campaign_state.md"], by: campaign_state}
+      - {paths: ["docs/party.md"],          by: party}
+    horizon: {latest: 31, path_pattern: 'docs/chapters/chapter_(\d+)_'}
+    identity: {registry: docs/entity_registry.yaml, aliases: docs/aliases.json}
+    corrections: docs/corrections.yaml
+    provenance_ranges: []
+
+  Hillsfar:
+    root: Hillsfar
+    tiers:
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md"]
+      search_accelerator: []
+      working_reference:  ["docs/*.md", "docs/npcs/*.md", "docs/*.yaml", "docs/*.json"]
+      staging:            ["notes/**"]
+    generated:
+      - {paths: ["docs/world_state.md"],    by: distill}
+      - {paths: ["docs/campaign_state.md"], by: campaign_state}
+    # 16, not 15: chapter_08 does not exist, so the file count is one short of
+    # the newest chapter number. See "What to rule on" #1.
+    horizon: {latest: 16, path_pattern: 'docs/chapters/chapter_(\d+)_'}
+    identity: {registry: null, aliases: null}
+    corrections: docs/corrections.yaml
+    provenance_ranges: []
+
+  obelisk:
+    root: obelisk
+    tiers:
+      # session_NNN_, not chapter_NN_. A shared pattern silently attributes
+      # nothing here, and a horizon query would then filter out every file.
+      authoritative:      ["summaries/**/*.md", "summaries/**/*.vtt", "docs/chapters/*.md",
+                           "docs/entity_registry.yaml"]
+      search_accelerator: []
+      working_reference:  ["docs/*.md", "docs/npcs/*.md", "docs/background/*.md",
+                           "characters/*.md", "docs/*.yaml", "docs/*.json", "config/*.yaml"]
+      staging:            ["notes/**"]
+    generated:
+      - {paths: ["docs/world_state.md"],    by: distill}
+      - {paths: ["docs/campaign_state.md"], by: campaign_state}
+    # 3, not 4: docs/chapters/ holds four files, one of which is mempalace.yaml.
+    # See "What to rule on" #1.
+    horizon: {latest: 3, path_pattern: 'docs/chapters/session_(\d+)_'}
+    identity: {registry: docs/entity_registry.yaml, aliases: docs/aliases.json}
+    corrections: docs/corrections.yaml
+    provenance_ranges: []

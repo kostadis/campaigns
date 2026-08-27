@@ -2,7 +2,7 @@
 chapter: 43
 title: The Unfated Routine of Rimardo and Corrin
 ---
-# Chapter 43: The Unfated Routine of Rimardo and Corrin
+# Chapter 43 The Unfated Routine of Rimardo and Corrin
 
 
 ---

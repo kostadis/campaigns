@@ -1,5 +1,10 @@
 # CAMPAIGN PLANNING REFERENCE
 
+> **Hand-updated 2026-08-11 to Chapter 63** from the corrected
+> `summaries/20260809/gm-assist.md` + transcript. Not a pipeline run — will be
+> superseded at arc close. Live prep for the next two sessions:
+> `notes/session_prep/20260810_race_to_the_vile_door.md`.
+
 ## Threat Tracker
 
 No threat arc scores are bound to any NPC or faction in the provided source material. No Threat Tracker rows can be populated.
@@ -8,11 +13,19 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 
 ## NPC Dossiers
 
+### Manshoon ⭐ PRIMARY ANTAGONIST (ch63)
+- **Current location/status:** **Alive, inside Candlekeep, alone and magically depleted.** Breached the keep with a `wall of force`, shattering the security-control-room door the two keys were meant to protect.
+- **Active plans/goals:** Reach the **Book of Vile Darkness** in the Vault beneath the House of Alaundo. Unhurried. Founder of the Zhentarim; *"the man who died more than once and kept returning."*
+- **Party knows vs. hidden:** They know he is here, that he is A'lai's patron of eleven years, and that he spent enormous resources getting in. Hidden — **what is actually in the depository** (A'lai withheld it from him), and the nature of his clone-chain.
+- **Key relationships/leverage:** A'lai served him via a courier who always wore **a glove over a metal hand** — matching Manshoon's own **Metal Fist**. His depletion is the party's only advantage.
+- **Arc score:** None.
+
 ### A'lai Aivenmore
-- **Current location/status:** Alive; last known within Candlekeep's inner circles, occupying Candlekeep's High Tower. Not detained or exiled.
-- **Active plans/goals:** Waiting for Moziqodo to arrive with the second key, having seized the first key from Bookwyrm. Seeks control of Candlekeep.
-- **Party knows vs. hidden:** Publicly a discredited but influential figure; hidden — his role as suspected architect of Janussi's murder, his framing of Daral, his drow/Underdark ties (likely Menzoberranzan), and his knowledge of the patron funding the drow evoker.
-- **Key relationships/leverage:** Pays in knowledge (intelligence about Daz's patron) rather than gold. Believed by Daral to have framed him. Tied to Kaelira's investigation of Daz's patron. His knowledge of the conspiracy is his shield and weapon.
+- **Current location/status:** **Alive; captured, bound, in the party's custody**, moved out of the High Tower lobby before Manshoon arrived.
+- **Active plans/goals:** Survive. Wants to be imprisoned in **Candlekeep's magic-nullifying cells** — the one place he believes Manshoon cannot reach him — and knows his survival depends on the party's protection.
+- **Party knows vs. hidden:** Known — 31 years at Candlekeep with no house, family or country; **Manshoon's inside man for eleven years**, removing specific books to order; architect of Janussi's murder and Daral's framing; killed his own wounded thug; tried to smash the sapphire to recall a key before Daz telekinesed it away. Hidden — **the depository's true contents**, which he deliberately kept from Manshoon and is holding as his last card.
+- **What he trades:** the location of a secret room beneath the keep; **the two cryptogram lines that matter**; and an **intuition** (not knowledge) about a Menzoberranzan house paying to keep a drow breathing.
+- ⚠️ **He does not know who Daz really is** and has never heard of Vizeran. His house guess is sincere and **wrong** — see `docs/daz_devir_narrative_arc.md`; the name DeVir is never spoken at Candlekeep.
 - **Arc score:** None.
 
 ### Alkrist
@@ -22,11 +35,10 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 - **Leverage points:** Read the "Midnight Tears" assassination tale from *1001 Tashalian Nights* as a blueprint. His safe (now sealed by Bookwyrm) held incriminating evidence.
 - **Arc score:** None.
 
-### Bookwyrm (First Reader)
-- **Current location/status:** Alive; Candlekeep, top floor chambers. Acting Head of Candlekeep, leader of the Avowed following Janussi's death.
-- **Active plans/goals:** Secure permanent leadership; steer investigation away from herself (toward Sylvira Savikas). Election as permanent head under threat.
-- **Party knows vs. hidden:** Party knows she is manipulative and suspect. Hidden — she moved Janussi's heart into a statue's chalice to conceal evidence and shield Alkrist; removed Kalan's security safeguards; had the first key taken from her by A'lai.
-- **Key relationships:** Supervised Fembris Lancer and Vooshadi Moonriver; barred/removed Kalan Strongbranch; confronted Alkrist post-confession; maintains tense rapport with the party.
+### Bookwyrm (First Reader) — **DECEASED (ch62–63)**
+- **Current location/status:** **Dead. Murdered by Moziqodo**, who took her Hightower key and carried it toward A'lai.
+- **Resolution:** She died **unconvicted.** The party never pinned the cover-up on her — she moved Janussi's heart into a lead-lined statue chalice to shield Alkrist (family) and removed Kalan's security safeguards, and none of it was ever formally proven. ⭐ **This is the arc's thematic loss:** they lost the case. What survives is Kalan's standard, not the verdict.
+- **Loose ends:** the concealed heart has still not surfaced; the First Reader seat is now vacant rather than contested.
 - **Arc score:** None.
 
 ### Daral Yashenti
@@ -37,11 +49,11 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 - **Arc score:** None.
 
 ### Kalan Strongbranch
-- **Current location/status:** Alive; Candlekeep, overseeing the Alkrist safe and Deneir's Sanctum. Reinstated as Head of the Avowed by Bookwyrm.
-- **Active plans/goals:** Politically remove Bookwyrm through procedure — plans to publicly demand she submit to a *Zone of Truth* spell. Seeks a magical text proving her guilt.
-- **Party knows vs. hidden:** Transferred the second Hightower key to Grygum to prevent corpse-summoning retrieval. Claims full credit for solving Janussi's murder. Hidden — his grief is performative political theater; motivated by vindication, not justice.
-- **Leverage points:** Holds Alkrist's full confession; his rejected Threefold Proof methodology is now the investigation's institutional framework.
-- **Note:** Last seen running hard, breathless — his survival and current whereabouts are uncertain [see Active Plots].
+- **Current location/status:** **Alive; fled.** "Kalan is to the wind" — whereabouts unknown as of ch63.
+- **What he did:** Handed the party a **fake, non-magical key** and let them run with it, **using them as a decoy** while the real key stayed with Tadric. `Detect magic` exposed it (no aura); confronted, he admitted the deception and named Tadric — then ran.
+- **Party knows vs. hidden:** They know he burned them, and that it worked. Hidden — whether it was tactics or shame that made him run.
+- **Leverage points:** Holds Alkrist's full confession. His rejected **Threefold Proof** is now the institution's investigative framework, and his **redundancy doctrine is the only reason the keep is still lit** with the wards down.
+- **Prep note:** Returns mid-race in the finale (ruling 2026-08-10) and is reinstated as Gatewarden — see the prep doc. Arrives earlier if the party sends Tadric for him.
 - **Arc score:** None.
 
 ### Sylvira Savikas
@@ -51,10 +63,18 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 - **Key relationships:** Former lover of Janussi; enemy of Teles Ahvoste (names him as likely framer); dismissive of Kalan; mother of Moziqodo. Names Kazryn Nyantani as a credible suspect.
 - **Arc score:** None.
 
-### Moziqodo
-- **Current location/status:** Alive; last location unknown (ch62). Revealed by Tadric to be Sylvira Savikas's son.
-- **Active plans/goals:** Expected by A'lai to arrive with the second key.
-- **Party knows vs. hidden:** Survived a pit fiend attack; his blood tie to Sylvira revealed post-battle. His connection to A'lai's plot (bringing the second key) is a live thread.
+### Moziqodo — **DECEASED (ch62–63)**
+- **Current location/status:** **Dead — killed by the party in a single round** during their approach to the High Tower.
+- **What he did:** **Murdered Bookwyrm**, took her Hightower key, and delivered it to A'lai before the party intercepted him. He **completed the delivery** — A'lai held Bookwyrm's key when the party captured him, and they stripped it from him and hid it inside Glabbagool (GM confirmation 2026-08-19; corroborated on tape: "Moziqodo kills Bookwyrm, gets one of the keys, gives it to A'lai").
+- **Blood tie:** **Sylvira Savikas's son** (he/him — GM ruling 2026-08-10). Identified as such by **Tadric**.
+- ⚠️ **LOAD-BEARING: Sylvira does not know he is dead, and does not know the party killed him.** Deliberately banked for the Gauntlgrym arc (ruling 2026-08-10). **Tadric is the leak risk** and must be managed on purpose.
+- **Arc score:** None.
+
+### Tadric
+- **Current location/status:** Alive; Candlekeep, holding the failing ward lattice together on a manual reroute. Has not slept in over a day.
+- **What he did:** Held the **real Hightower key** and **surrendered it to Grygum voluntarily** when the party reached him. The straightest dealer in the arc.
+- **Party knows vs. hidden:** Known — conscientious, exhausted, susceptible to psychological pressure. Hidden from *Sylvira* — he identified Moziqodo as her son and is the person most likely to tell her.
+- **Prep note:** Sending him to fetch Kalan both retrieves an ally and gets him out of the keep, holding the Sylvira fuse.
 - **Arc score:** None.
 
 ### Teles Ahvoste
@@ -222,13 +242,19 @@ No threat arc scores are bound to any NPC or faction in the provided source mate
 
 *(Ordered by urgency)*
 
-### 1. The Two Keys and A'lai's Endgame (Candlekeep) — MOST URGENT
-A'lai holds the first key (taken from Bookwyrm) at the High Tower, awaiting Moziqodo with the second. The second key was transferred from Kalan → Grygum → Daz, and helmed horrors ambushed the party specifically to retrieve it — "Somebody built these, aimed them, and put them through the windows knowing exactly which pocket to reach for." [ch61]
-- **Intersection:** The party holds/controls the second key's path; A'lai needs it; Moziqodo (Sylvira's son) is expected to deliver it. Convergence imminent.
+### 1. Manshoon and the Book of Vile Darkness (Candlekeep) — MOST URGENT
+**Manshoon is inside the keep**, alone and magically depleted, racing for the **Book of Vile Darkness** in the Vault beneath the House of Alaundo. He got in by force — `wall of force` through the security-control-room door — so **the keys did not stop him and no longer matter.** [ch63]
+- **What the key race actually bought:** his depletion. He spent his highest slots on the wards. That window is the party's entire advantage and it closes.
+- **Route:** six-clue cryptogram → House of Alaundo → 97 steps → lava chamber → the Vault → a riddle door (answer: *"candle"*).
+- **Intersection:** A'lai can shortcut the cryptogram; Sylvira can shortcut it further; Kalan holds a ward-route. **Live prep:** `notes/session_prep/20260810_race_to_the_vile_door.md`.
 
-### 2. Kalan's Fate & the Domed Rotunda (Candlekeep)
-Kalan was last seen running hard with the key, breathing heavily — his survival is unknown. [ch62] His connection to Moziqodo and Sylvira may be pivotal.
-- **Trigger:** Party must determine whether Kalan lives and whether the key reached its destination.
+### 2. The Depository Secret (Candlekeep)
+A'lai **withheld what is actually in the depository from Manshoon** and is holding it as his only remaining leverage. Nobody else knows it. [ch63]
+- **Trigger:** Whatever A'lai trades it for — and whether Manshoon learns he was lied to for eleven years.
+
+### 3. The Keys, Resolved (Candlekeep) — mostly closed
+Kalan's key was a **fake**, given to use the party as a decoy. The real one was on **Tadric**, who handed it over. **Moziqodo murdered Bookwyrm** for the second and delivered it to A'lai before the party killed him; the party then stripped it from A'lai. The party now holds **both** — Grygum has one plus the fake and the sapphire; **Glabbagool holds A'lai's**, deliberately kept apart.
+- **Residual:** the sapphire recalls a key to its holder's hand when smashed. Still unspent.
 
 ### 3. Identity of Janussi's True Killer & the Shapeshifter (Candlekeep)
 Alkrist confessed and is the accepted culprit, but circumstantial evidence (poison, Midnight Tears, rat jars) suggests a more complex scheme. A shapeshifter impersonated Sylvira (seen in two places, no scent, glowing face inconsistent with tiefling biology). [ch57] The killer knew the safe combination, masked poison, and took a single sapphire for a spell.
@@ -268,10 +294,11 @@ Maerith seeks aid for her daughter (silent six days, compulsively drawing six-po
 ## DM Notes
 
 ### Convergence Points
-- **The second key is the nexus.** A'lai (needs it) → Moziqodo (delivering it, Sylvira's son) → the party (last held it via Daz) → Kalan (last seen with it, fate unknown) → the helmed horror ambush (built to retrieve it). Nearly every Candlekeep thread pivots on this object. Stage the Moziqodo/A'lai rendezvous as the payoff.
-- **A'lai is the spider at Candlekeep's center.** He connects Janussi's murder, Daral's framing, the key theft, Daz's patron mystery, and the Menzoberranzan sealed house. Kaelira's "compromised drow scholar" lead points straight at him — a natural collision point between the Candlekeep and Daz-history plots.
-- **The shapeshifter loose in the tower** (impersonating Sylvira, no scent) is an unspent gun. Queenie and Miss Hollypocket both witnessed it. Tie its identity to A'lai's conspiracy or to Sylvira's frame-up for a strong reveal.
-- **Sylvira and Moziqodo:** The mother dying of abyssal plague and the son carrying A'lai's key are on a collision course. Sylvira has been trying to coax her son home; A'lai has been waiting for him. Their paths crossing (and Tadric's identification) creates emotional and plot stakes simultaneously.
+- **The keys were never the nexus — the depletion was.** The party won the key race and it bought them nothing directly, because Manshoon broke the door instead. What it bought was twelve hours of him at reduced strength. ⭐ Let the players feel cheated for a beat, *then* give them that.
+- **A'lai was the spider; now he's the asset.** He connects Janussi's murder, Daral's framing, Manshoon's eleven-year book theft, and a Menzoberranzan guess. Captured and terrified, he is the party's **only** source on Manshoon — every Zhentarim who could corroborate him is dead. That makes his credibility load-bearing.
+- ⚠️ **Sylvira and Moziqodo — the bomb.** She lost Janussi to A'lai's plot and has now lost her son to the party, **and she does not know it.** She will spend the finale helping them: two free cryptogram clues, a `lightning bolt` opener, and holding the Vault door. Every kind thing she does is a debt. Banked for Gauntlgrym. **Tadric is the leak.**
+- **The shapeshifter loose in the tower** (impersonating Sylvira, no scent) is still an unspent gun. Queenie and Miss Hollypocket both witnessed it.
+- **A'lai's house guess vs. the DeVir guardrail.** He fingers a Menzoberranzan house sincerely and **wrongly**. Per `docs/daz_devir_narrative_arc.md`, the name DeVir is **never spoken at Candlekeep** — Vizeran says it first, in a safe room, at Stage 4. The wrong guess *is* the Act I "false lead" the arc calls for.
 
 ### Foreshadowing Opportunities
 - **Jimjar's celestial nature** — foreshadow a return; his bone die of the truth-telling saint and prior "guidance" invite a divine reappearance at a pivotal moment.

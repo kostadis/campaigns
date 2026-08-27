@@ -1,0 +1,533 @@
+consistency_check:
+  timestamp: "2026-08-03T14:03:38-07:00"
+  campaign: "out-of-the-abyss (Out of the Abyss, modified — Candlekeep arc)"
+  document_checked: "summaries/20260727/session-summary.md"
+  document_class: "enhanced recap (enhance_summary output; NOT a backfill)"
+  report: "summaries/20260727/consistency_report_ch60_session_summary.md"
+  config: "config/config.yaml (passed explicitly — workspace has NO root config.yaml)"
+  model: "unrecorded — stdout was piped through `tail -40`, so the script's
+    `Model:` / `Context : N document(s)` banner was not captured. See
+    context_load_verification below for how loading was confirmed instead."
+  backend: "claude-code"
+  issues_found: 15
+  issues_found_note: |
+    Counted from the report body. The report numbers its findings `## N.` (not
+    `### `), plus one unnumbered `## CRITICAL:` section at the top. Of the 15,
+    two (#6, #12) are the report's own "No error — flagging for confirmation
+    only" entries, so there are 13 substantive findings.
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-07-27"
+  chapter_label: |
+    "Chapter 60" is CORRECT and was re-confirmed this run. The immediately
+    prior session (summaries/20260720/) is headed "# Chapter 59 The Key is
+    secured." — so 59 -> 60 is contiguous. The report's unnumbered CRITICAL
+    finding claims a mismatch because the stale-docs issue FILE is named
+    `20260727_grounding_docs_stale_ch62.md` and the grounding docs are stamped
+    Ch62; that stamp is the staleness itself, not the truth. This is the SECOND
+    consecutive run in which this same false positive fired (it was also
+    rejected in consistency_report_ch60_gm_assist.sources.yaml). See
+    carry_forward.
+
+  lineage: |
+    THIS IS THE KEY FACT FOR READING THIS RUN.
+
+    session-summary.md is the enhanced layer built from gm-assist.md + the
+    cleaned VTT, per logs/2026-08-03_135022_enhance_summary.md:
+
+      enhance_summary GMT20260728-005909_Recording.transcript.cleaned.vtt \
+        --gmassist gm-assist.md --output session-summary.md \
+        --backend dgx --endpoint http://192.168.1.147:8001/v1 \
+        --model deepseek-ai/DeepSeek-V4-Flash-DSpark
+
+    Timeline:
+      13:31:44  prior run's consistency report written
+      13:40:03  gm-assist.md corrected (8 fixes applied, prior run)
+      13:44:24  enhance_summary attempt 1 (1.1K log — failed/short)
+      13:45:30  enhance_summary attempt 2 (2.8K log — failed/short)
+      13:50:22  enhance_summary attempt 3 SUCCEEDED (274.32s), wrote session-summary.md
+
+    So the enhancement consumed the ALREADY-CORRECTED gm-assist.md, 10 minutes
+    after the prior run's fixes landed. Every difference between the two files
+    is therefore something the DGX pass did — which is exactly the material
+    under test for this document class.
+
+    The enhancement ran on LOCAL HARDWARE (DGX Spark, DeepSeek-V4-Flash-DSpark),
+    not the Anthropic API. That is deliberate — see local_model_assessment.
+
+  local_model_assessment: |
+    Calibration datapoint on what the DGX enhancement pass gets right and wrong.
+
+    GOT RIGHT — every single numeric value it added, verified verbatim on tape:
+      26 damage to Daz from two Arcane Bursts   "Takes 26 points of damage."
+      "then he turns on Zalthir and misses"     verbatim GM line
+      29 damage to Zalthir (third burst)        "29 points of damage. Ouch, goes Zalthir."
+      15 bludgeoning (Earthen Grasp)            "He took 15 points of bludgeoning damage"
+      13 damage (Dawnbringer)                   "13 points of damage, I think."
+      8 damage (Thorin 2nd attack)              "So, another 8."
+      DC 16 Wisdom (Menacing Attack)            "Or DC16 Wisdom."
+      DC 17 Dex (Tasha's Caustic Brew)          "They need to get us a 17 dexterity save"
+      8 acid -> thug dies                       "8 on one of them." / "He dies."
+      2 acid -> thug survives                   "And 2 on the other."
+      Stealth 16 / Passive Perception 16        "Grygum: 16." / "his passive perception… 16"
+      attack roll 13                            "I got a 13, which is lousy"
+      Initiative Daz 20 / Thorin 15 / Grygum 13 "20. It's in the…" / "I got 15." / "Mine's 13."
+      Passive Investigation 24                  "My passive investigation's now 24."
+      +5 Medicine                               "I have plus 5 medicine."
+      Sleight of Hand 19                        "I rolled a 19 on my sleight of hand."
+      Telekinesis save DC 17                    "And the saved DC is 17."
+      1-in-56 chance                            "Like, that is, like, a 1 in 56 chance."
+      31 years / 11 years                       both verbatim in A'lai's monologue
+
+    This matters: INVENTED PRECISE DICE VALUES is the #1 documented failure mode
+    for the enhanced-recap class, and the local model did NOT commit it once
+    across ~19 checkable values. It also correctly discarded a retracted number
+    (Thorin said "21 points of damage. Oh, wait, no, that's against Undead,
+    so it's… 13 points of damage" — the recap records 13, not 21).
+
+    GOT WRONG — exactly two defects, both in the ORDERING/CONSISTENCY class:
+      1. REGRESSED an applied human fix (the Zalthir knockout — see below).
+      2. Swapped an attribution between two sections (the history rolls).
+
+    Read together: on this task the local model is reliable as a RENDERER of
+    verified detail off the tape, and unreliable on ORDERING and CROSS-SECTION
+    CONSISTENCY — which is precisely the split the global LLM-pipeline rule
+    predicts. It is not a reason to stop using the DGX for this pass; it is a
+    reason to always run a consistency check downstream of it, and specifically
+    to diff the enhanced output against the corrected source recap.
+
+  regression_of_prior_fix: |
+    ⭐ THE MOST IMPORTANT FINDING OF THIS RUN.
+
+    The prior run corrected gm-assist.md Summary para 3 from
+      "...hammering Zalthir with blow after devastating blow until the monk
+       collapsed unconscious..."
+    to
+      "...hammering Zalthir hard enough to stagger him."
+    and moved the single real knockout into para 4, after the sapphire theft.
+
+    The DGX enhancement pass REVERTED that fix — session-summary.md para 3 came
+    back as "hammering Zalthir hard enough to knock him unconscious" — while
+    KEEPING the prior run's inserted para-4 knockout. Net effect: the enhanced
+    document knocked Zalthir unconscious TWICE.
+
+    This is a general hazard, not a one-off: a human fix applied to a source
+    recap can be undone by a later automated pass over that recap, and the
+    result looks like fresh model output rather than a regression. Anything
+    that re-runs enhance_summary over a hand-corrected gm-assist.md must be
+    followed by a diff of the two files. Recorded in carry_forward.
+
+    The prior run's OTHER content fix (the "severely wounded" thug -> 2 damage)
+    SURVIVED and was improved: the enhancement independently recovered the
+    correct "8 damage / dies" and "2 damage / still standing" split from tape.
+
+  speaker_map: |
+    Derived from the cleaned VTT's own labels, not from campaign docs.
+      Kostadis Roussos  590 lines  = GM (also ran Zalthir this session)
+      Daz               196 lines  = Daz (wizard)
+      Grygum            176 lines  = Grygum (cleric)
+      Thorin            130 lines  = Thorin (fighter)
+    ⭐ NO Zalthir speaker. Gabe was absent and Kostadis ran the monk — the same
+    absent-player condition as the prior run, independently re-derived from the
+    roster. Corroborated on tape at line 3945: "Fortunately, Zalthir is not here
+    to correct me with all of the caveats." Also stated in the resume prep doc:
+    "(Gabe absent; Kostadis ran him.)"
+    Consequence: every Zalthir attribution is suspect by default and was checked
+    rather than spot-checked. Both of this run's real defects touch Zalthir.
+
+  transcripts_available:
+    - path: "summaries/20260727/GMT20260728-005909_Recording.transcript.cleaned.vtt"
+      used: true
+      why: |
+        PRIMARY. The only file that is both speaker-labelled AND glossary-cleaned,
+        and the exact file enhance_summary itself consumed. Every ruling this run
+        came from it. Consulted BY HAND — it was NOT a --context input.
+    - path: "summaries/20260727/GMT20260728-005909_Recording.transcript.vtt"
+      used: false
+      why: "Same recording, pre-glossary. Superseded by the cleaned variant."
+    - path: "summaries/20260727/session_20260727_transcript.vtt"
+      used: false
+      why: |
+        Worst ASR, unlabelled, renders A'lai as "LA" and Moziqodo as "Mozgoth".
+        Identified in the PRIOR run as the probable source of gm-assist.md's name
+        errors. Not used here.
+
+  context_load_verification: |
+    The `Context : N document(s)` banner was not captured (stdout tailed), so
+    loading was verified from the report body instead. Files demonstrably cited
+    or quoted by the report:
+      gm-assist.md                     5 hits
+      party.md                        11 hits
+      <stale-docs issue report>        8 hits
+      world_state.md                   5 hits
+      campaign_state.md                4 hits
+      man_with_the_metal_hand prep     3 hits
+      high_tower_resume prep           3 hits (quoted by prose name, e.g.
+                                       'Resume doc board: "Zalthir | UNCONSCIOUS"')
+      entity_registry.yaml             1 hit
+    Not visibly cited: the two VTT glossaries. Consistent with this run producing
+    ZERO name findings — the names were already corrected in gm-assist.md by the
+    prior run and the enhancement preserved all of them. Zero "not found"
+    warnings appear in the report.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - path: summaries/20260727/gm-assist.md
+        role: |
+          ⭐ SOURCE RECAP — the single highest-value context file for the enhanced
+          class. Already human-reviewed and corrected, so every difference from
+          session-summary.md is something the DGX pass added or changed. This is
+          what let finding #5 be diagnosed as a REGRESSION rather than a novel error.
+      - path: notes/session_prep/20260727_candlekeep_high_tower_resume.md
+        role: "POST-session board state (authoritative on outcomes): Zalthir UNCONSCIOUS, Thug 1 dead 8 acid, Thug 2 alive 2 damage, A'lai 62/99"
+      - path: notes/session_prep/20260727_candlekeep_the_man_with_the_metal_hand.md
+        role: "parent session prep (44K) — the arc's intended beats"
+      - path: docs/party.md
+        role: "PCs (campaign-standard). NOTE: stale at level 8; GM ruled level 9 this run."
+      - path: docs/entity_registry.yaml
+        role: "canonical entity registry + aliases (campaign-standard)"
+      - path: notes/vtt_transcription_corrections.md
+        role: "ASR garble glossary (campaign-standard)"
+      - path: notes/vtt_known_additions.md
+        role: "unpromoted confirmed names (campaign-standard)"
+      - path: notes/issues/20260727_grounding_docs_stale_ch62.md
+        role: |
+          staleness note. Passed deliberately to suppress the doc-drift
+          false-positive class. Partially effective — the report cited it 8 times
+          and still raised #1 (Bookwyrm alive) and #15 (level 8) as findings, but
+          it did flag them as known staleness rather than as recap errors.
+
+  prior_manifest_reviewed: |
+    summaries/20260727/consistency_report_ch60_gm_assist.sources.yaml (same
+    session, prior document in the chain) was read before this run.
+
+    Its rulings were re-verified where this run's findings touched them:
+      - "mage armor is a live GM ruling" — HELD. Re-confirmed verbatim this run:
+        "But he does have mage armor, so the spell does not affect him."
+      - "the knockout belongs after the sapphire theft" — HELD, and independently
+        re-derived from tape line ordering (29-damage hit at ~line 2893 with the
+        GM then discussing Zalthir's Bless die, vs. "Zalthir just got knocked out"
+        at line 3925, well after the theft).
+      - "Chapter 60 is correct" — HELD. Re-confirmed against summaries/20260720/
+        being "# Chapter 59 The Key is secured."
+      - "Daral is a real registered NPC, not a garble artifact" — HELD and
+        strengthened: "Daral almost died" is verbatim in A'lai's monologue on tape,
+        and Daral Yashenti is registered with 'Daral' as a canonical alias.
+    No corrections to the prior manifest were needed. All six of its carry_forward
+    items remain OPEN and are restated below.
+
+  notes: |
+    - Config: workspace has NO root config.yaml; `--config config/config.yaml`
+      passed explicitly. Its documents[].path entries already carry the `../`
+      prefix, so they resolve correctly from the config's own directory.
+    - Script path: ~/src/CampaignGenerator/session_doc/check_consistency.py
+      (NOT ~/CampaignGenerator — that path does not exist on this machine).
+    - The report's own severity table is unreliable as triage: it rates the
+      chapter-numbering false positive and the Telekinesis finding as CRITICAL.
+      Both were rejected on tape. Of its 3 "Critical" items only one (#5) was real.
+    - Report hit rate: 2 of 13 substantive findings applied as written (15%).
+      That is EXPECTED for the enhanced class and does not mean the document was
+      clean — it means the check has no grounding doc that records combat
+      ordering, damage or roll attribution, so it is structurally blind to the
+      errors this class actually makes.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-03"
+    gm_rulings_this_run:
+      - "⭐ 'Daz is 9th level as is Zalthir, and Grygum and Thorin' — all four PCs
+         are level 9. Stated by the GM mid-run. This is a standing ruling: it
+         settles #15 outright, and independently confirms #7 (wizard 9 is exactly
+         when 5th-level spells such as Telekinesis unlock). docs/party.md still
+         says level 8 for all four and now formally disagrees with the GM."
+      - "Context set chosen: 'Focused + source recap' (8 --context files)."
+      - "Apply strategy chosen: 'Both clear-cut, skip optional' — apply #5 and #4
+         only; leave the three minor items unapplied."
+    applied:
+      - finding: 5
+        fix: |
+          Summary para 3: "hammering Zalthir hard enough to knock him unconscious"
+          -> "hammering Zalthir hard enough to stagger him, though the monk stayed
+          on his feet." Restores the prior run's corrected reading and removes the
+          duplicate knockout. The document now knocks Zalthir out exactly once, in
+          Summary para 4 after the sapphire theft, which is where the tape puts it.
+      - finding: 4
+        fix: |
+          Scenes -> Confrontation: "Daz and Grygum both roll History (22 and 21
+          respectively)" -> "Grygum and Daz both roll History (22 and 21
+          respectively)". Minimal reorder so "respectively" binds the tape's actual
+          values. Summary already read "(Grygum 22, Daz 21)" and was left untouched.
+    partially_applied: []
+    not_applied_minor:
+      - finding: 2
+        item: "Add Bookwyrm's title (First Reader) and species (green dragonborn) to her NPC blurb."
+        rationale: |
+          Registry-backed and legitimate, but it enriches an ARC-ACCUMULATED NPC
+          entry rather than correcting a claim about this session. Bookwyrm has
+          1 mention on this tape. GM chose to skip.
+      - finding: 8
+        item: "Disambiguate the Summary's '(8 damage on top of Thorin's previous blows)'."
+        rationale: |
+          The report itself concedes the Summary and Scenes are consistent; this is
+          phrasing only. Tape confirms the 8 was the start-of-turn acid tick:
+          "it is the start of their turn, so… 2d4's worth of damage" -> "8 on one
+          of them." -> "He dies." GM chose to skip.
+      - finding: "reviewer-raised"
+        item: |
+          Memorable Moments -> "Dead More Than Once" ends in ASR noise: 'The DM:
+          "After we're on." Grygum: "with them, sure."'
+        rationale: |
+          Verified VERBATIM on tape (lines 3175-3180) — the recap transcribed it
+          faithfully; the source audio itself is garbled there. Not an error, just
+          a low-value quote. GM chose to skip.
+    rejected:
+      - finding: "CRITICAL (unnumbered) — session numbering mismatch"
+        ruling: "Rejected. Chapter 60 is correct."
+        rationale: |
+          Prior session summaries/20260720/ is headed "# Chapter 59 The Key is
+          secured." 59 -> 60 is contiguous. The report reasoned from the FILENAME
+          of the stale-docs issue (`..._stale_ch62.md`) and from the grounding docs'
+          Ch62 stamp — but that stamp is the documented staleness, not ground truth.
+          SECOND consecutive run this exact false positive has fired.
+      - finding: 1
+        ruling: "Rejected as a recap error."
+        rationale: |
+          campaign_state.md / world_state.md list Bookwyrm as Alive; she is dead.
+          That is the known, already-filed grounding-doc staleness, not a defect in
+          the recap. Her death is prior-session material that A'lai references as
+          already-known; the recap's treatment is correct.
+      - finding: 3
+        ruling: "Rejected."
+        rationale: |
+          Report wanted Fembris's captive/food-taster status added. "Fembris" has
+          ZERO mentions on this tape — the entry is pure GMAssistant arc
+          accumulation. Adding more off-session detail to it would move the recap
+          further from being a record of this session.
+      - finding: 7
+        ruling: "Rejected — and this was the most dangerous finding in the report."
+        rationale: |
+          Report claimed Daz used the Telekinetic FEAT (mage hand shove), not the
+          5th-level Telekinesis SPELL, because party.md lists "Telekinetic" and not
+          "Telekinesis". The tape refutes this in the player's own words:
+            Daz: "I have telekinesis, do I have time, like, in a reaction to grab
+                  the thing from him and pull it to me?"
+            Daz: "It's a level 5 spell, so his whole anti-spell cast thing may run
+                  in some."
+            Daz: "Alright, I just casted it."   GM: "Alright, you are casting it"
+            Daz: "And the saved DC is 17."
+          Daz also read the 2024 Telekinesis text aloud (Strength SAVE, move up to
+          30 feet), and the table is explicitly on 2024 rules this session (GM on
+          Arcane Burst: "that's how they've changed the spells").
+          Root cause of the false positive: party.md is stale at level 8, and
+          Telekinesis is unavailable until wizard 9. The GM confirmed level 9 this
+          run. Applying the report's fix would have written a WRONG mechanic into
+          the recap and erased the fact that Daz expended a 5th-level slot.
+      - finding: 9
+        ruling: "Rejected."
+        rationale: |
+          Report speculated PI 24 was implausibly high and wanted it verified
+          against a sheet. Verbatim on tape: Daz "My passive investigation's now
+          24."; GM "For the record, with a passive investigation of 24, you're
+          basically Sherlock Holmes at this point." Player's own sheet + GM ruling.
+      - finding: 10
+        ruling: "Rejected."
+        rationale: |
+          Report objected that mage armor "sets AC, it doesn't deflect spells". The
+          recap's phrasing tracks the GM's own words verbatim: "But he does have
+          mage armor, so the spell does not affect him." Table ruling outranks the
+          rules-lawyer reading; same evidence rejected this finding in the prior run.
+      - finding: 11
+        ruling: "Rejected."
+        rationale: |
+          Contingent on the rejected chapter-numbering finding. Also independently
+          false: "Moziqodo" has 3 mentions on this tape, ALL backward-references
+          ("waiting for Moziqodo to show up", "I faced Moziqodo!"). The kill is not
+          on this tape — it is prior-session material, and GMAssistant accumulates
+          NPC/Location/Item entries arc-wide.
+      - finding: 13
+        ruling: "Rejected."
+        rationale: |
+          Report wanted the three Bless targets named. The recap is verbatim-faithful
+          — Grygum on tape: "I'll cast Bless on, the… The three of us who are, who
+          are, who are here." The table never specified which three, so "clarifying"
+          would require inventing. NOTE for the GM: there IS a live table ambiguity
+          here — Grygum blessed "the three of us who are here" (plausibly the three
+          PRESENT PLAYERS, excluding GM-run Zalthir), yet the GM later gave Zalthir
+          a Bless die ("How many… he's blessed, right?"). That is a table question,
+          not a recap fix.
+      - finding: 14
+        ruling: "Rejected — unplayed prep, not an omission."
+        rationale: |
+          Report wanted the sapphire identified as Janussi's safe-stone / instant
+          summons component / third pillar of the Threefold Proof, and asked whether
+          the Kalan reveal happened. Tape counts: "Kalan" 0, "Threefold" 0,
+          "instant summons" 0. None of it occurred this session — the session ends
+          mid-combat with A'lai still at large. This is FUTURE prep material and
+          writing it in would give the party knowledge they do not have.
+      - finding: 15
+        ruling: "Rejected as a recap error — settled by GM ruling."
+        rationale: |
+          GM stated this run that all four PCs are level 9. party.md's level 8 is
+          stale. The recap makes no level claim at all, so there is nothing in it
+          to fix. This is a grounding-doc defect — see carry_forward.
+      - finding: 6
+        ruling: "No error (report's own conclusion). No action."
+        rationale: "Maximilian's Earthen Grasp is on Daz's party.md sheet. Confirmed."
+      - finding: 12
+        ruling: "No error (report's own conclusion). No action."
+        rationale: "Menacing Attack is consistent with Thorin's Battle Master build; DC 16 Wis confirmed on tape."
+
+  vtt_adjudicated: |
+    Transcript: summaries/20260727/GMT20260728-005909_Recording.transcript.cleaned.vtt
+    Consulted BY HAND. It was NOT passed as a --context input — it is provenance
+    for these rulings, not an input to the check.
+
+    ── #5 Zalthir knocked out twice (APPLIED) ──────────────────────────────────
+    The enhanced recap asserted a knockout in Summary para 3 AND another in para 4.
+    Tape shows one knockout, and it is the later one.
+
+    First exchange (~line 2717-2760), A'lai on Daz:
+      GM: "so he's going to use his Arcane Burst."
+      GM: "Mrs. Daz? What's your armor class, Daz?"   Daz: "My armor class is 12."
+      GM: "And now he hits you with a second, Arcane Burst."
+      GM: "Takes 26 points of damage."
+      GM: "And then he turns on Zalthir and misses."
+    Then (~line 2885-2900):
+      GM: "Oh! Zalthir is in fact hit."
+      GM: "29 points of damage. Ouch, goes Zalthir."
+      GM: "How many… he's blessed, right? So he takes time. Alright."
+    ⭐ Zalthir is demonstrably STILL UP here — the GM immediately moves on to his
+    Bless die. No knockout.
+
+    The real knockout is ~1,030 lines later, after the sapphire theft (theft
+    resolves ~line 3417, "you've just rolled telekinesis and grabbed it out of his
+    hand"; sleight-of-hand pass ~line 3657):
+      line 3925: GM: "Zalthir just took… Zalthir just got knocked out."
+      line 3941: GM: "Alright, so Zalthir is knocked out."
+    Ruling: Summary para 3 was wrong; para 4 was right. Reverted para 3.
+
+    ── #4 History rolls swapped (APPLIED) ──────────────────────────────────────
+    ~line 3129-3161, unambiguous and consecutive:
+      GM:     "roll a history check."
+      Daz:    "History…"
+      Grygum: "22."
+      GM:     "Alright."
+      Daz:    "21 also."
+      GM:     "Alright, alright, with those kinds of history checks."
+      GM:     "You pause and go, but that's not possible."
+    Ruling: Grygum 22, Daz 21. The Summary was already correct; the Scenes bullet
+    had them reversed. Fixed Scenes, left Summary alone.
+    NOTE ON DIRECTION: the report explicitly could not tell which side was right
+    and said "verify against the VTT". Had its guess been followed blindly there
+    was a 50% chance of corrupting the correct Summary instead.
+
+    ── Numbers audited and CONFIRMED (no action) ───────────────────────────────
+    All ~19 enhancement-added numeric values were checked individually rather than
+    swept. Every one is real. Full list in local_model_assessment above. The two
+    that most deserved suspicion both held:
+      - "13 points of damage" for Dawnbringer: the tape has Thorin first say
+        "21 points of damage. Oh, wait, no, that's against Undead, so it's…
+        13 points of damage, I think." The recap correctly kept 13, not 21.
+      - Initiative order: the GM was audibly confused ("Sorry, guys, I got
+        everybody's initiative very confused", "I don't know what your initiative
+        is"), which is exactly the condition under which a model invents. It did
+        not — Daz "20", Thorin "I got 15", Grygum "Mine's 13" are all verbatim,
+        and the recap honestly records A'lai's as "(unknown)".
+
+    ── "Daral nearly killed" CONFIRMED ─────────────────────────────────────────
+    A'lai's monologue, verbatim: "as he looks around and realizes that Bookwyrm's
+    dead, and… Daral almost died, and Janussi's dead, and, you know, there's the
+    guards who died." Daral Yashenti is a registered NPC (aliases include "Daral").
+    This retroactively validates the prior run's Darrl -> Daral normalization.
+    Minor unfixed nit: the recap renders "Janussi's dead" as "Janussi gone" — a
+    softening, inherited unchanged from gm-assist.md, not introduced here.
+
+  carry_forward:
+    - status: OPEN
+      item: |
+        ⭐ NEW AND HIGHEST PRIORITY — enhance_summary REGRESSED a human-applied fix.
+        Running enhance_summary over a hand-corrected gm-assist.md silently undid
+        the prior run's Zalthir correction (para 3 reverted to "knock him
+        unconscious") while keeping the corrected para 4, producing a double
+        knockout. The regression is invisible in the output — it reads as ordinary
+        model prose, not as a reverted edit.
+        MITIGATION: after any enhance_summary run over a reviewed source recap,
+        diff the two files before trusting the enhanced one. Consider making this
+        a step in the enhance workflow itself, or having enhance_summary refuse to
+        contradict its --gmassist input on facts the source states explicitly.
+    - status: OPEN
+      item: |
+        ⭐ docs/party.md says level 8 for all four PCs; the GM stated on 2026-08-03
+        that all four are LEVEL 9. The docs now formally disagree with the GM.
+        This is not cosmetic — it directly manufactured false positive #7 this run
+        (the check concluded Daz could not have cast a 5th-level Telekinesis
+        because his stale sheet lacks it), and it will keep manufacturing
+        spell/ability false positives every run until fixed. Also confirmed on
+        tape: Daz "Is that just from going up to level 9?"
+    - status: OPEN
+      item: |
+        ⭐ The chapter-numbering false positive has now fired on TWO consecutive
+        runs and cost triage time both times. Root cause: the grounding docs are
+        stamped Ch62 and the staleness issue file is NAMED `..._stale_ch62.md`, so
+        every check reasons that this session cannot be Ch60. Ground truth is
+        settled (prior session = "# Chapter 59 The Key is secured."). Fix the
+        grounding-doc chapter stamps, or add an explicit line to the staleness
+        note saying "the Ch62 stamp is itself the staleness; sessions are at
+        Ch60" so the next check reads it correctly.
+    - status: OPEN
+      item: |
+        Grounding docs remain stale (notes/issues/20260727_grounding_docs_stale_ch62.md,
+        filed 2026-07-27, still unfixed). Carried from the prior manifest, plus this
+        run's additions: Bookwyrm listed Alive but dead; PCs listed level 8 but are 9;
+        Moziqodo dead; Manshoon named at the table for the first time; A'lai's
+        eleven-year smuggling confession is now player knowledge; the sapphire is in
+        Grygum's hands along with the real key.
+    - status: OPEN
+      item: |
+        Carried unchanged from the prior manifest — gm-assist.md appears to have
+        been generated from the WORST transcript (session_20260727_transcript.vtt,
+        unlabelled, renders A'lai as "LA"). Point GMAssistant at
+        GMT20260728-005909_Recording.transcript.cleaned.vtt, which is what
+        enhance_summary already uses. Note that the enhancement pass produced ZERO
+        new name errors this run precisely because it reads the cleaned VTT.
+    - status: OPEN
+      item: |
+        Carried unchanged — "Avainmore" is a summarizer INVENTION (appears in no
+        transcript, no glossary, no registry). It must NOT be added to
+        notes/vtt_transcription_corrections.md; the spell pass only ever sees VTTs
+        and would never encounter it. Root cause is upstream of the glossary.
+    - status: OPEN
+      item: |
+        Carried unchanged — glossary-row candidates verified to occur in a real
+        VTT: "Sylvyr" -> Sylvira, "Darrl" -> Daral. Neither is currently in
+        notes/vtt_transcription_corrections.md. The Daral half is now
+        double-confirmed: "Daral almost died" is verbatim on this session's tape
+        and Daral Yashenti is registered with "Daral" as a canonical alias.
+    - status: OPEN
+      item: |
+        Carried unchanged — check_consistency.py did not flag "Kalan Stormbranch"
+        in the prior run despite the glossary row being in context, and silently
+        wrote the corrected form into its own section heading, hiding the miss.
+        Worth an upstream issue: name findings should come from mechanical
+        glossary/registry comparison, not model judgement.
+    - status: NOTE
+      item: |
+        Live table ambiguity worth a GM decision (surfaced by rejected finding #13,
+        not a recap defect): Grygum cast Bless on "the three of us who are, who are,
+        who are here" — plausibly the three PRESENT PLAYERS, excluding GM-run
+        Zalthir — but the GM later applied a Bless die to Zalthir ("How many… he's
+        blessed, right?"). Worth settling before the resume session, since Bless was
+        dropped when Grygum took concentration on Tasha's Caustic Brew.
+    - status: NOTE
+      item: |
+        Report hit rate for the enhanced-recap class was 2/13 substantive findings
+        (15%), and its own severity table was actively misleading — 2 of its 3
+        "Critical" items were false positives, one of which (#7 Telekinesis) would
+        have corrupted a correct mechanic. Do not read a low hit rate on this class
+        as "the document was clean"; the check has no grounding doc recording combat
+        ordering, damage or roll attribution, so it is structurally blind to the
+        errors this class actually makes. Both real defects this run were found by
+        diffing against the source recap and reading the tape.

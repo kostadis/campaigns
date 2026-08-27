@@ -2,6 +2,7 @@ summaries: null
 selection:
   backend: null
   model: null
+  batch: null
 campaign_state:
   input: docs/TheUnderdark.md
   output: docs/campaign_state_classic.md

@@ -33,7 +33,7 @@ source: gmassist
 > "Harbin Wester is like, so soon, so quickly? Right now?"
 
 **[GM]** — *prompting the persuasion attempt*
-> "I'm assuming you're using your majestical."
+> "I'm assuming you're using your Silver Tongue."
 
 **[Vukradin]**
 > "To persuade him."
@@ -69,7 +69,7 @@ source: gmassist
 
 **[GM]** — *assembling the crowd*
 > "Okay. Alright, so you're on the town green, and, you know, the various, the various, you know, people start to gather, you see members of the, the town council, Harbin himself is starting to show, has shown up, I mean, Petunia is there."
-> "Right. Alphonse "Big Al" Kalazorn is there, Qelline Alderleaf is there, Linene Graywind is there, Ser Kaelen is there, I mean, they're all there. Alright. Even Spider-Man, Elsa, his bar team, Barthen, the people working, you know, the woodworker, they're all there, right?"
+> "Right. Big Al Kalazorn is there, Qelline Alderleaf is there, Linene Graywind is there, Ser Kaelen is there, I mean, they're all there. Alright. Even Spider-Man, Elsa, his bar team, Barthen, the people working, you know, the woodworker, they're all there, right?"
 
 **[GM]** — *the crowd's mood*
 > "They're, they're, like, they're, like, dancing, they're chillaxing, you know, everybody's feeling cool and relaxed, alright."
@@ -147,7 +147,7 @@ source: gmassist
 - Vukradin calls out the mayor; Harbin pivots to enthusiastic support.
 
 **[Vukradin]**
-> "what Harbin Western thinks about this plan. Is he in favor of it, or does he need to be replaced?"
+> "what Harbin Wester thinks about this plan. Is he in favor of it, or does he need to be replaced?"
 
 **[GM]** — *as Harbin Wester, stuttering over the name*
 > "Harbin Wester says, I am so glad! This was a… this was… I'm… he pauses, he goes."
@@ -158,7 +158,7 @@ source: gmassist
 > "Sounds about right, yup."
 
 **[GM]** — *Harbin claiming credit*
-> "Just in case you thought that was, you know, me not suddenly remembering Vukradin's name, because I think that that is an extraordinary idea, and that is why we have declared him ordinary, we have declared the income that he produces as part of his adventuring career — Vukradin's UBT."
+> "Just in case you thought that was, you know, me not suddenly remembering Vukradin's name, because I think that that is an extraordinary idea, and that is why we have declared him extraordinary, we have declared the income that he produces as part of his adventuring career — Vukradin's UBT."
 > "The Privy Council had heard this proposal, and we were waiting for a few more days before we would make a formal announcement, but I think that since we didn't know it, I think this is as good a way to make an announcement as possible. All hail to Vukradin and the…"
 > "Pauses and says, what is the name of your adventuring group?"
 
@@ -172,7 +172,7 @@ source: gmassist
 > "Slayers of Cryovain."
 
 **[Soma]**
-> "But that's not where we could have started."
+> "But that's not where we couldn't have started that."
 
 **[Vukradin]**
 > "We'll have to have a slight sidebar. I don't know, what name do you guys want?"
@@ -254,6 +254,9 @@ source: gmassist
 
 **[GM]** — *the eligibility question*
 > "Sidebar. Does the Order of the Gauntlet get a share, or is this only strictly for the citizens of Phandalin? And what do we mean by citizens of Phandalin?"
+
+**[Valphine]** — *putting the question to the townspeople*
+> "You asked the crowd."
 
 **[Vukradin]** — *tossing it to the crowd*
 > "Excellent, excellent idea, Valphine!"
@@ -425,7 +428,7 @@ source: gmassist
 > "I can do… Dispel Magic, or Remove Curse."
 
 **[Vukradin]**
-> "Remove curse. You can try it, you can ask Status, whether it helps."
+> "Remove curse. You can try it, you can ask Kostadis, whether it helps."
 
 **[Brewbarry]** — *philosophizing*
 > "So when you remove the curse, where does the curse go?"

@@ -31,7 +31,7 @@ The brawl that followed was brutal and chaotic. Sister Maela took the worst of i
 *Pip was visibly delighted watching Zenvon stand up to the man who had just insulted him with a backhanded compliment.*
 
 > "Looks like you were expecting me. Are you not going to introduce me to your friends?"
-> — Zenvon Foreput
+> — Zenvon Forepot
 
 *Zenvon, having spotted the full ambush around the corner, coolly called out the Redbrand leader rather than running or hiding.*
 

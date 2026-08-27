@@ -1,10 +1,17 @@
+---
+name: Vukradin
+player: David Mendenhall
+species: Variant Aasimar
+class_level: Bard 6
+subclass: College of Eloquence
+---
 # Vukradin
 
 ## Identity
 - **Class & Level:** Bard 6
 - **Species:** Variant Aasimar
 - **Background:** Custom Background
-- **Player:** David Medenhall
+- **Player:** David Mendenhall
 - **Alignment:** Lawful Good
 - **Size:** Medium
 - **Experience Points:** (Milestone)

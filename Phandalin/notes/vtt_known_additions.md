@@ -73,3 +73,27 @@ Istus  — Greyhawk goddess of fate and destiny; referenced as avatar context in
 - **Cure Wounds** — wave 2, 2026-08-02
 - **Giant Strength** — wave 2, 2026-08-02
 - **Hunter Shark** — wave 3 tail, 2026-08-02
+
+## 2026-08-03 — from `summaries/20260729/GMT20260729-035411_Recording.transcript.vtt` (Neverwinter, ch47)
+
+- Protector of the Glades  — Title used for Soma; "And Soma, the Protector of the Glades." Both transcriptions render it identically, so it is genuine in-canon vocabulary, not an ASR artifact.  — 2026-08-03
+- Buckwick District  — Neverwinter district; "Let's do Buckwick District." GM confirms it is real and should be added to docs/entity_inventory.md.  — 2026-08-03
+
+## 2026-08-13 — from `summaries/20260811/GMT20260812-035423_Recording.transcript.vtt` (ch48, Neverwinter)
+
+- **Lathander's Death** — the party's band finally has a name. "Yes, I am Vukradin, and we are Lathander's Death." / "It's our band, Lathander's Death." (cues 221, 223). The second, independent transcription matches this cue at 0.990, so the wording is solid. Closes the ch47 "The Party Has No Name" open thread. — 2026-08-13
+- **Perrin** — first name of Perrin Alagondar, claimant of the Necklace of Fireballs. "I'm sorry, my name is Perrin. Perrin Alagondar." (cue 784); 19 further cues. `Alagondar` was already in the known set; `Perrin` was not, which is why every one of those cues flagged as unknown. — 2026-08-13
+- **Brewbarry Rootsmasher** — Brewbarry's declared full name. "Hello, good folks, I am Brewbarry Rootsmasher, Ogolo… no, sorry. OG… Ogonakanu. Yes." (cue 164). Both transcriptions agree on *Rootsmasher*; the third element was groped for aloud at the table (Ogolo / Ogoro / Ogonakanu) and is deliberately left unresolved. — 2026-08-13
+- **Divine Accountants and Occasional Entertainers** — Rimardo and Corrin's billing, as it landed at the table: "a small folding table with a velvet rope and a queue of zero purple, which says, Rimardo and Mr. Corrin, Divine Accountants and Occasional entertainers." (cue 467). This is the queued clue from `notes/Woodland Manse - Rimardo and Corrin Clue.md` arriving on screen. — 2026-08-13
+- **Aurelan Vance** — banker at the Counting House, Neverwinter. Same NPC as the draft dossier `notes/npcs/aurelan-vance.md` (retired Enclave trade magistrate), now played. GM ruling 2026-08-13: canonical spelling is **Aurelan**. He introduced himself at cue 187 in a form both the table and Zoom heard as "Oral B. Vance" — the players riffed on the toothbrush brand — and the GM's spoken self-correction at cue 193 came out as "Andrell Vance," which is *also* a wrong-form. Wrong-forms: `Oral B. Vance`, `Andrell`, `Andrew`, `Andres`, `Andrey`, `Andre` (Stéphane's habitual address form). — 2026-08-13
+- **Pengro** — Lady Alagondar's husband, named on the gravestone. "I realize Lady Alagondar married to Pengro, you know, whatever." (cue 978). GM ruling: Zoom's spelling is canonical (the sibling's "Pen Graw" is the wrong-form). — 2026-08-13
+- **Neverwinter Commission** — GM ruling 2026-08-13: the full form is canonical, not the bare "the Commission" used in the ch47 grounding docs. Owns the Mountain's Toe mine; "has its hands in everything." — 2026-08-13
+- **Eastern Quay** — site of "the Margasters' Logistic Operations, Eastern Quay" (cue 1183). Sibling confirms *Quay*. — 2026-08-13
+
+## 2026-08-15 — from `summaries/20260811/` (ch48, Neverwinter) — `/staged-consistency` stages 1–2
+
+- **The Bronze Sun** — an establishment the party has visited; Valphine spots one of Corrin's receipts from it during the moral-economy audit, and its owner immediately disclaims it. CONFIRMED REAL, twice: ruled at stage 0 (2026-08-13) and re-confirmed at stage 1. The two transcriptions disagree at 00:38:52 — Zoom (cleaned) l.1931 garbles it to "We're onsan as well", while the re-transcription l.1612 has "From the Bronze Sun as well." Gary Young (Valphine) named it; Zoom mangled it. **Its absence from `docs/entity_registry.yaml` is why every consistency check flags it as a probable garble or invention — promote it via `/entity-triage` to stop the recurrence.** — 2026-08-15
+- **Elven Chain Mail (Brewbarry's)** — GM ruling 2026-08-15: **Valphine gave it to him** out of House Sotorra's stores; she has worn White Dragon Plate +1 since ch46 and had no further use for spare body armor. The handover was settled at the table rather than played out (tape l.3979 Gary: "Add to your character elven chain mail"; l.4007 Stéphane: "Manage inventory… Items… Elven… chain mail…"). Recorded because the recap originally said "acquired this session" with no in-fiction source, which reads as a missing scene. — 2026-08-15
+- **Necklace of Fireballs — ownership** — GM ruling 2026-08-15: the necklace was **Lady Alagondar's own**. Boney attests it on screen; Zoom garbles the line to "I belong to Lady Alagondar" (which reads as Boney describing himself), while the re-transcription l.3232 has "**It belonged to** Lady Alagondar." `docs/entity_registry.yaml` has been amended with a FACT (ownership) clause. The DIP D7 sarcophagus remains where it was interred and found. — 2026-08-15
+
+**Transcript-preference caveat for this session.** The re-transcription (`session_20260811_transcript.vtt`) is better at SENTENCE COMPLETION but **worse at PROPER NOUNS** — it renders Alagondar as "Alligander" and Neverember as "never member". Take completions from it and names from the Zoom capture. A blanket "prefer the retranscribed one" would inject "Alligander" into the corpus.

@@ -1,10 +1,17 @@
+---
+name: Daien
+player: Not specified
+species: Human
+class_level: Fighter 9 / Bard 2
+subclass: ''
+---
 # Daien
 
 ## Identity
 - **Class & Level:** Fighter 9 / Bard 2
 - **Species:** Human
 - **Background:** Wayfarer
-- **Player:** kostadis1
+- **Player:** Not specified
 - **Experience Points:** (Milestone)
 - **Size:** Medium
 

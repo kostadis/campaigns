@@ -1,10 +1,17 @@
+---
+name: Calmer
+player: Kostadis Roussos
+species: Human
+class_level: Cleric 6
+subclass: War Domain
+---
 # Calmer
 
 ## Identity
 - **Class & Level:** Cleric 6
 - **Species:** Human
 - **Background:** Acolyte
-- **Player:** kostadis
+- **Player:** Kostadis Roussos
 - **Experience Points:** Milestone
 - **Size:** Medium
 

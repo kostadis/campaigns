@@ -29,7 +29,8 @@ BUNDLING_ALIASES = {
     "Professor Orryn Voss": "Orryn Voss",
     "Maela": "Sister Maela",
     "Sister Maela Dawnforge": "Sister Maela",
-    "Zenvon Foreput": "Zenvon",
+    "Zenvon Forepot": "Zenvon",
+    "Zenvon Foreput": "Zenvon",        # legacy misspelling; kept so old docs still bundle
     "Nikhil Reddy": "Zenvon",          # player -> character
     "Nikhil": "Zenvon",                # player (bare first name) -> character
 }

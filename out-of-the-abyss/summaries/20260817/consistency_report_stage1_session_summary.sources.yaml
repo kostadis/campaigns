@@ -1,0 +1,211 @@
+consistency_check:
+  timestamp: "2026-08-24T00:00:00-07:00"
+  campaign: "out-of-the-abyss"
+  document_checked: "summaries/20260817/session-summary.md"
+  document_class: "enhanced recap (enhance_summary output, 2026-08-23 16:48)"
+  report: "summaries/20260817/consistency_report_stage1_session_summary.md"
+  config: "config/config.yaml (passed explicitly — no root config.yaml exists; documents[] use ../docs/)"
+  model: "claude-opus-5"
+  backend: "claude-code"
+  issues_found: 49
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-17"
+  chapter: 64
+  skill: "/staged-consistency — stage 1"
+  stages_present:
+    gm_assist: true
+    session_summary: true
+    scene_extractions: false
+    narration: false
+  stage_note: |
+    Stage 0 was run and adjudicated on 2026-08-20/21 (report + sources.yaml
+    alongside; artifact 425fdbab). session-summary.md was generated 2026-08-23,
+    AFTER those fixes landed, so it inherited them cleanly. Stages 2 and 3 have
+    no artifacts yet — every fix in this run lands AHEAD of scene extraction,
+    which is the best case for this pattern.
+
+  review_mode: "artifact (batch)"
+  review_artifact: "https://claude.ai/code/artifact/235682f5-fd49-4208-b662-29e46b4b59fe"
+  decisions_savedAt: "2026-08-24 03:19 UTC"
+  decisions_tally: "13 decided — 6 approve, 2 reject, 5 discuss"
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+      - { label: mechanics,      path: docs/mechanics.md }
+      - { label: planning,       path: docs/planning.md }
+      - { label: party,          path: docs/party.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical registry + aliases — decisive on Gatewarden, Great Reader, Hall of Momentous Deeds" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted names (campaign-standard)" }
+      - { path: notes/session_prep/20260810_race_to_the_vile_door.md, role: "session prep (authoritative) — GM-selected" }
+      - { path: notes/sessions/candlekeep_vault_session.md,  role: "vault/cryptogram v2 authority — GM-selected" }
+      - { path: notes/sessions/candlekeep_day_four.md,       role: "verbatim clue + descent blocks — GM-selected" }
+      - { path: notes/sessions/candlekeep_arc_flowchart_v2.md, role: "arc map — GM-selected" }
+      - { path: notes/sessions/candlekeep_murders_arc.md,    role: "verbatim riddle text + clue table — ADDED this run on the stage-0 manifest's recommendation; it supplied the two missing riddle lines" }
+      - { path: summaries/20260817/gm-assist.md, role: "SOURCE recap — required context for an enhanced-recap check" }
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-24"
+    auto_applied:
+      - { fix: "\"Castle Ward\" -> Candlekeep", count: 1, file: "session-summary.md:88", basis: "second independent transcription reads Candlekeep; Castle Ward is a Waterdeep district" }
+      - { fix: "scene heading -> Manshoon's simulacrum", count: 1, file: "session-summary.md:20 (+ gm-assist.md:20 via propagation)", basis: "stage-0 GM ruling on identity" }
+      - { fix: "House -> Hall of Momentous Deeds", count: 3, file: "session-summary.md", basis: "entity_registry.yaml" }
+      - { fix: "\"and Dao bowed\" -> \"it came to life, and bowed\"", count: 1, file: "session-summary.md:47", basis: "second transcription; Dao is not a name; recap's own prose already said 'comes to life'" }
+      - { fix: "heal-recipient ambiguity", count: 1, file: "session-summary.md:16" }
+      - { fix: "Memorable-Moment 97th-step framing -> 93-102 hinge", count: 1, file: "session-summary.md:293 (+ gm-assist.md:201 via propagation)", basis: "cleaned.vtt:4593" }
+    applied:
+      - finding: s1-01
+        report_ref: null
+        ruling: approve
+        fix: "A'lai NPC entry and the Baenre Memorable-Moment gloss reworded to mark House Baenre as A'lai's DEDUCTION, in session-summary.md:159/:237 and gm-assist.md:117. Closes stage-0 finding s0-04, which was left unmarked."
+      - finding: s1-04
+        ruling: approve
+        fix: "\"Has a photographic memory\" stripped from the A'lai NPC entry (session-summary.md:159). Kalan keeps the transcription credit per the stage-0 s0-01 ruling; the document now says one thing instead of two."
+      - finding: s1-05
+        ruling: approve
+        fix: "Breach beat labelled Chapter 63 context in both files: session-summary.md:24/:25/:26/:119 and gm-assist.md:22/:23. The verbatim 'when Manshoon himself arrived' kept, with an editorial note that the figure was the simulacrum. Closes the UNRESOLVED scope half of stage-0 s0-02."
+      - finding: s1-07
+        ruling: reject
+        fix: "GM ruled the word is 'prisons'. session-summary.md:122 corrected; verbatim quotes left as spoken. NOTE: this overrules the evidence on the card — both independent transcriptions render 'prisms' three times each, and session_20260817_transcript.vtt:1348 uses 'prison' and 'prisms' distinctly in one sentence. Recorded here because a future run will re-find it."
+      - finding: s1-08
+        ruling: approve
+        fix: "Answer words recorded: Vydykyq (Miirym's true name) and Limniz (the eastern star), in session-summary.md Summary para 3 and :59/:61, and gm-assist.md:42/:43."
+      - finding: s1-13
+        ruling: approve
+        fix: "New '## Carry-Forward' section in session-summary.md: Spanner symmetry study owed; modron tools ON LOAN (play diverged from prep, which had the dust given freely); Dawnbringer falling with Thorin; Thorin's unresolved reroll."
+      - finding: s1-06
+        ruling: "discuss + note — 'He is level 9'"
+        fix: "Level-up recorded. session-summary.md:112 now reads 'a 5th-level slot — the party is level 9, confirmed by the GM 2026-08-24'. Legalises the Telekinesis cast at cleaned.vtt:4613."
+      - finding: s1-10
+        ruling: "discuss + note — 'Level 9 dragonborn I believe can fly'"
+        fix: "Hover/wings sourced to dragonborn Draconic Flight in session-summary.md:105 and :110, with the wings question marked unanswered at the table (he holds by strength, cleaned.vtt:4535)."
+        caveat: "The GM's note was hedged ('I believe'). The feature NAME 'Draconic Flight' is my inference from the note, not the GM's words. party.md still lists no flight feature for Zalthir — confirm before it enters a grounding doc."
+    rejected:
+      - finding: s1-03
+        severity: Critical
+        ruling: reject
+        item: |
+          The recap keeps presenting the hinge as a plain trap. No unresolved-thread
+          line was added about the prophecy. FLAGGED CONSEQUENCE, not a re-argument:
+          cleaned.vtt:4297 has Grygum starting the recitation ("And I... I res...
+          prophecy"), the GM saying "Hold on" to sort positions, and the word never
+          appearing again before the hinge fires at :4593. Prep (candlekeep_day_four.md
+          Beat 5) makes the spoken prophecy the thing that turns the shaft into a
+          feather-fall descent. Whether Thorin is falling 1000 ft protected or
+          unprotected is therefore not recorded anywhere.
+
+  discussed_reviewed: "2026-08-24 (shell, one at a time, after the artifact pass)"
+  discussed_resolved_1x1:
+    - finding: s1-02
+      severity: Critical
+      ruling: "GM chose: restore both lines AND adopt prep's line order"
+      fix: |
+        Decoded text rewritten to the canonical eight lines in all four places —
+        session-summary.md:10 and :66, gm-assist.md:10 and :46. "Utter the original
+        prophecy to unseen ears" moved ahead of "sprinkle dust of Mechanus on
+        dormant gears", and the restored couplet "one last guardian of knowledge
+        remains to verify the chosen Reader's claims" inserted before the obsidian
+        door line.
+      basis: |
+        cleaned.vtt:2701-2741 is Thorin's full read-out: quill / steps / sprinkle,
+        Grygum catches the missed "utter" line at :2717-2721, then :2737 "One last
+        guardia of knowledge remains to verify the chosen readers" and :2741
+        "Lambs [= claims], but those well-versed in Candlekeep's lore may
+        fearlessly pass the obsidian door". Prep verbatim in candlekeep_day_four.md
+        Beat 3 and candlekeep_murders_arc.md S7 Beat 3. The rhyme scheme decides
+        the ordering — Seer/years/ears/gears, remains/claims, lore/Door — and
+        Thorin says so on tape: "Okay, that rhymes with years."
+    - finding: s1-09
+      severity: Moderate
+      ruling: "GM set the Track at box 2 of 6"
+      fix: |
+        Recorded in session-summary.md:162 (Manshoon NPC entry) with the full
+        ledger, and again in the Carry-Forward block. Replaces the stale
+        "currently one square ahead", which reflected the session's OPENING state.
+      ledger: "start 1; −1 A'lai's two bought lines; −1 Sylvira's two freebies; +1 each for the statue, grove and House of Mechanus scenes run at the table = 2. Band ≤3 — still in B2, browsing; the party can reach the riddle door first."
+      not_counted: "Kalan's ward-route shortcut (he returned but pointed at the statue, not a route); Glabbagool's Whispering Dome boon (unspent); short rest (none taken); the post-trade A'lai interrogation (GM did not count it)."
+  discussed_settled_by_note:
+    - finding: s1-12
+      severity: Minor
+      ruling: "discuss + note — 'He did deputize them when they came to him AFTER bookwyrm died.'"
+      item: |
+        SETTLED BY THE NOTE, in the recap's favour: Kalan DID deputize the party,
+        after Bookwyrm's death. No recap edit needed. This is new canon that is not
+        in any grounding doc — see carry_forward.
+
+  vtt_adjudicated: |
+    The VTT was consulted BY HAND and was NOT passed as --context.
+    Transcript: summaries/20260817/GMT20260818-005817_Recording.transcript.cleaned.vtt
+    (Zoom export, speaker-labelled, spell-passed 2026-08-20). The second
+    transcription session_20260817_transcript.vtt.not-used was used as
+    independent counter-evidence and was decisive three times.
+
+    Findings the tape SETTLED that the grounding docs could not:
+      - Photographic memory is A'lai's (:2325), against the stage-0 ruling.
+      - The two missing riddle lines WERE read at the table (:2737, :2741).
+      - The prophecy was declared and never completed (:4297 -> :4593).
+      - Telekinesis is verbatim (:4613); Castle Ward is a garble (2nd transcript).
+      - "Dao bowed" is "It came to life, and bowed" (2nd transcript).
+      - Vydykyq and Limniz appear in NEITHER transcript — the words were never
+        spoken at the table.
+
+    Findings the tape OVERTURNED (audit wrong, recap right):
+      - Sylvira thanks Thorin for saving Tadric (:589-590) — recap correct.
+      - Thorin's reroll bonus is +8, settled on tape at :1182-1185 — recap correct.
+      - Trap range 93-102 (:4593) — recap correct.
+
+    Finding where the tape contradicts the GM's ruling, recorded per the skill's
+    self-documentation rule: s1-07 "prisms". Two independent ASR engines render
+    "prisms" three times each, and :1348 of the second transcript distinguishes
+    "prison" from "prisms" within a single sentence. The GM ruled "prisons" and
+    that has been applied; this note exists so the next run does not re-litigate
+    it from scratch.
+
+  carry_forward:
+    - status: CLOSED 2026-08-24
+      item: "s1-02 — restored both missing riddle lines and adopted prep's line order, in all four places."
+    - status: OPEN
+      severity: Critical
+      item: "s1-03 — REJECTED. The prophecy-not-spoken question is unrecorded. Feather-fall vs. unmitigated 1000 ft is a live GM ruling at the top of next session."
+    - status: CLOSED 2026-08-24
+      item: "s1-09 — Manshoon Track recorded at box 2 of 6, with the ledger, in the NPC entry and the Carry-Forward block."
+    - status: OPEN
+      severity: Moderate
+      item: |
+        s1-11 (APPROVED) — four grounding-doc facts to fix AT SOURCE and regenerate.
+        These are CampaignGenerator outputs; no file was hand-edited.
+          1. Kalan Strongbranch is present and active at Candlekeep, not "fled, to
+             the wind" (campaign_state.md:53, :99; world_state.md §4). Carried from
+             stage-0 s0-08, still unapplied.
+          2. Sylvira Savikas rose from her sickbed for this crisis; "Bedridden"
+             (campaign_state.md:54) is stale. Carried from stage-0 s0-08.
+          3. Kalan's title is GATEWARDEN, not "Head of the Avowed"
+             (campaign_state.md:23, world_state.md §4). Registry is authority.
+          4. A'lai Aivenmore is a GREAT READER, not "ex-Council of Twelve"
+             (world_state.md §4). No Council of Twelve exists in this campaign.
+    - status: NEW CANON
+      item: |
+        s1-12, from the GM's note: Kalan Strongbranch DID deputize the party, when
+        they came to him AFTER Bookwyrm's death. This is in no grounding doc —
+        world_state.md §1 has only the Bookwyrm conscription, and
+        candlekeep_murders_arc.md S2 Beat 1 has Bookwyrm removing Kalan from the
+        investigation. Promote to world_state on the next regeneration.
+    - status: VERIFY
+      item: |
+        s1-10 — Zalthir's flight. Applied per the GM's hedged note; party.md still
+        lists no flight feature for him, and the feature name "Draconic Flight" is
+        my inference. Confirm against his sheet before it reaches a grounding doc.
+    - status: NOT PUSHED (Trivial)
+      item: |
+        "School of the Drama Library" and "inner sanctum" — both ruled leave-as-is
+        at stage 0 as the GM's own table vocabulary; the stage-1 audit re-raised
+        both (findings 12 and 5) and both were left alone again.
+        Also unpushed: "magically enchanted" vs "etched" in Summary para 2;
+        Grygum's "He only has 2?" sitting after the custody handover rather than at
+        the two-answers reveal; the Astronomicon/Orrery containment phrasing.

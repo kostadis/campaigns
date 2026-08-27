@@ -1,10 +1,17 @@
+---
+name: Zephyr "King of Hell" Cross
+player: Thomas Kolivakis
+species: Tiefling
+class_level: Rogue 6
+subclass: Assassin
+---
 # Zephyr "King of Hell" Cross
 
 ## Identity
 - **Class & Level:** Rogue 6
 - **Species:** Tiefling
 - **Background:** City Watch / Investigator
-- **Player:** kostadis1
+- **Player:** Thomas Kolivakis
 - **Alignment:** Neutral
 - **Size:** Medium
 - **Experience Points:** Milestone

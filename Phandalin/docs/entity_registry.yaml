@@ -18,9 +18,6 @@ entities:
     captured by orcs
 - name: Cryovain
   type: npc
-  aliases:
-  - white dragon
-  - dragon
   note: White dragon that killed six orcs near the mine roughly three days before
     the party arrives
 - name: Don-Jon Raskin
@@ -48,7 +45,6 @@ entities:
   aliases:
   - King Gnerkli
   - king_gnercli
-  - Gnercli
   note: Rock gnome king of Gnomengarde, married co-ruler, held prisoner by Korboz
 - name: Halia Thornton
   type: npc
@@ -67,8 +63,6 @@ entities:
   type: npc
   aliases:
   - Kaella
-  - Sister Kayla
-  - Sister Kella
   note: Recurring NPC; appears across many locations including Neverwinter, Icespire
     Hold, Glacier of Whispers, Falcon's Hunting Lodge, Phandalin, and Woodland Manse
     (ch 16–44)
@@ -78,7 +72,6 @@ entities:
   - Townmaster Harbin Wester
   - Townmaster Wester
   - Harbin
-  - Harbin Townmaster
   - Townmaster
   - Townmaster Harbin
   note: Townmaster of Phandalin, half-brother of Tibor Wester, arranges supply deliveries
@@ -104,7 +97,6 @@ entities:
   type: npc
   aliases:
   - Spider Man
-  - Toblen Stonehill Spiderman
   - Toblen
   note: Proprietor of the Stonehill Inn; native of Triboar who came to Phandalin to
     prospect
@@ -221,8 +213,6 @@ entities:
   note: Elderly, world-weary cook and retainer at Falcon's Hunting Lodge
 - name: Dabbledob
   type: npc
-  aliases:
-  - Dabblebob
   note: Female rock gnome recluse, one of Gnomengarde's foremost inventors, holds
     treasury key
 - name: Dazlyn Grayshard
@@ -240,8 +230,6 @@ entities:
   note: Named sidekick character available to join the party
 - name: Fibblestib
   type: npc
-  aliases:
-  - Fiddlestib
   note: Male rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury
     key
 - name: Galandro Luna
@@ -306,7 +294,6 @@ entities:
   type: npc
   aliases:
   - Tibor
-  - Tribar Wester
   note: Human commoner, craven opportunist running the loggers' camp, half-brother
     of Phandalin's townmaster Harbin Wester
 - name: Ulla
@@ -328,7 +315,6 @@ entities:
   - Lord Neverember
   - Lord Protector
   - Neverember
-  - Open Lord of Waterdeep
   - Lord Pretender
   note: Rules Neverwinter as Lord Protector in the absence of an heir to the Alagondar
     royal line
@@ -606,9 +592,7 @@ entities:
 - name: Mountain's Toe Gold Mine
   type: location
   aliases:
-  - mine
   - Mountain's Toe Mine
-  - The Mine
   note: Gold mine owned by a Neverwinter business consortium, 15 miles northeast of
     Phandalin, overrun by the Whiskered Gang wererats
 - name: Umbrage Hill
@@ -621,8 +605,6 @@ entities:
     owned by Alfonse Kalazorn
 - name: Conyberry
   type: location
-  aliases:
-  - Coneyberry
   note: Location of the old shrine the wererats previously used as a lair before being
     displaced by orcs
 - name: Crags
@@ -698,8 +680,6 @@ entities:
     of the Apocalypse
 - name: Axeholm
   type: location
-  aliases:
-  - Axelholm
   note: Abandoned dwarven fortress carved into a mountain fifteen miles south of Phandalin,
     now haunted by a banshee and infested with ghouls
 - name: Dwarven Excavation
@@ -954,8 +934,23 @@ entities:
     shrine
 - name: Necklace of Fireballs
   type: item
-  note: Magic item sealed with the dead wizard in the southeast sarcophagus of the
-    Adventurers' Sepulcher
+  note: 'FACT (provenance): magic item sealed with the dead wizard in the sarcophagus
+    of the Adventurers'' Sepulcher (DIP D7) — a room inside the Dragon Barrow, where
+    Lady Alagondar and Azdraka are interred. Seven beads. Retrieved by VUKRADIN in
+    ch31; he still carries it. FACT (ownership, GM ruling 2026-08-15, ch48): the necklace
+    was LADY ALAGONDAR''S OWN — Boney, who served her in life, attests it on screen
+    ("It belonged to Lady Alagondar", re-transcription l.3232; the Zoom capture garbles
+    this to "I belong to Lady Alagondar"). The DIP D7 sarcophagus is where it was
+    interred and found, not evidence of separate ownership. This strengthens Perrin''s
+    claim if his identity is ever established, and it is the basis of Boney''s objection
+    that the necklace lay in her tomb — not in any family''s hands — when Perrin''s
+    family supposedly lost it to grave robbers. CLAIM (UNVERIFIED, ch46): Ser Kaelen''s
+    note names Perrin Alagondar as the rightful owner — "a quiet Alagondar branch,
+    no title, no army, a family that lost their dead''s belongings to grave robbers
+    a generation ago." Kaelen is relaying a recovery office''s provenance match, not
+    first-hand knowledge; the party has verified nothing. Do not record the grave-robber
+    story as provenance — it is the claim, and the claim and the provenance are different
+    things.'
 - name: Opalescent Conch
   type: item
   note: Spellcasting focus taken from Miraal by Moesko; returning it to her cave lays
@@ -1121,8 +1116,6 @@ entities:
     1451 DR cataclysm
 - name: Rsolk
   type: npc
-  aliases:
-  - Rsalk
   note: One-eyed wererat leader of the Dead Rats thieves' guild, uses Neverwinter
     as a Sword Coast criminal hub
 - name: Soman Galt
@@ -1146,7 +1139,6 @@ entities:
 - name: Vukradin
   type: npc
   aliases:
-  - Vukardin
   - Bard
   note: Bard (Phandalin party); Exile Aesthetic's unwilling authentic center; structural
     receiver for the Counterforce; subject of Commission studio offer
@@ -1237,10 +1229,6 @@ entities:
   type: npc
   note: Red-skinned female tiefling; runs the Grand Emporium exotic pet shop; kind-hearted,
     talks to animals
-- name: Cassian
-  type: npc
-  note: NPC who gives the party a description of Bimble Nackle that will make players
-    assume it is KP
 - name: Ettain
   type: npc
   aliases:
@@ -1291,8 +1279,6 @@ entities:
   note: Half-orc paladin of Tyr; Order of the Gauntlet contact for the Masonry quest
 - name: Elara Seasong Meliamne
   type: npc
-  aliases:
-  - Elara Seasong Meliame
   note: Killed by House Margaster approximately 8 days before the party arrives in
     Neverwinter (session Ch. 46); date to be confirmed
 - name: Aganazzar
@@ -1443,12 +1429,10 @@ entities:
 - name: Hoar
   type: deity
   note: God of retribution; one of the patron deities of the Order of the Gauntlet
-- name: KP
-  type: deity
-  note: Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity
-    whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
 - name: Lathander
   type: deity
+  aliases:
+  - Morninglord
   note: Dawn deity; Valphine Sotorra became a devoted follower after her religious
     experience with sunlight on the surface
 - name: Lolth
@@ -1624,8 +1608,6 @@ entities:
     and the carved stone plaque commemorating the giant-mortal alliance
 - name: River District
   type: location
-  aliases:
-  - River's District
   note: District that declined, causing older merchants to relocate to the Seven Suns
     Coster Market
 - name: School of Wizardry
@@ -1658,6 +1640,8 @@ entities:
     cartel
 - name: Displacement Manifold
   type: location
+  aliases:
+  - Planar Manifold
   note: Planar routing device built and operated by the Commission at Neverwinter's
     docks as a commercial distribution service; went dark after the Commission refused
     Aletra's treaty ultimatum
@@ -1887,8 +1871,6 @@ entities:
     Rosene; meet in the Driftwood Tavern basement
 - name: House Margaster
   type: faction
-  aliases:
-  - House Maragaster
   note: Noble house that stepped in to fill the distribution gap after the Manifold
     went dark; has relationship with the Commission's Harbor authority; killed Elara
     Seasong Meliamne
@@ -2107,15 +2089,12 @@ entities:
 - name: Ser Kaelen
   type: npc
   aliases:
-  - Ser Kaelen Thorn
   - Ser Kaelen Thorne
-  - Sir Kaelen
   - Kaelen
 - name: Jenna
   type: npc
   aliases:
   - Jenna Roscoe
-  - Jena Roscoe
   - woman
   - the woman in green
 - name: The Chief Accountant
@@ -2136,14 +2115,8 @@ entities:
   aliases:
   - The Orc With The Necklace Of Bones Shrimpy
   - The Orc with the Necklace of Bones
-- name: Miral
-  type: npc
-  aliases:
-  - Miral The Self
 - name: Meril
   type: npc
-  aliases:
-  - Meryl
 - name: Valphine
   type: npc
   aliases:
@@ -2153,81 +2126,86 @@ entities:
     sunlight, and became a devoted follower of Lathander [Campaign Canon character]
 - name: Aldric Stone Path
   type: npc
-- name: aletra
+- name: Backes Dunfield
   type: npc
-- name: backes_dunfield
-  type: npc
-- name: borg_the_hammer
+- name: Borg the Hammer
   type: npc
   aliases:
   - Borg
-- name: cooragh_struckt
+- name: Cooragh Struckt
   type: npc
-- name: corbin
+- name: Corbin
   type: npc
-- name: daran_edermath_silverleaf
+- name: Daran Edermath
   type: npc
-- name: delaan_winterhound
+  aliases:
+  - Silverleaf
+  note: Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling
+    confirmed against docs/NeverwinterExpansionismandtheNorth.md ("Later, I would
+    learn his name, Daran Edermath, but he's known as Silverleaf"); renamed from the
+    slug canonical daran_edermath_silverleaf 2026-08-03.
+- name: Delaan Winterhound
   type: npc
 - name: Drubbak
   type: npc
 - name: Dwolin the Grout
   type: npc
-- name: elara
+- name: Jarek
   type: npc
-- name: jarek
+- name: Jax
   type: npc
-- name: jax
-  type: npc
-- name: locutus
+- name: Locutus
   type: npc
 - name: Lord Cassian Meliamne
   type: npc
   aliases:
-  - Lord Cassian Meliame
-- name: lord_halueth_verres
+  - Cassian
+  note: Sea elf noble of House Meliamne; COUSIN of Elara Seasong Meliamne — GM ruling
+    2026-08-03. The Ch. 47 tape has the Moonstone Mask staff and Cassian himself saying
+    "brother"/"his sister"; that was an in-session slip, and campaign_state.md plus
+    notes/neverwinter/neverwinter_network.md are canon. The ch47 recap narration was
+    corrected to "cousin"; quoted dialogue was left as spoken. Gives the party a description
+    of Bimble Nackle that will make players assume it is KP. Received the recovered
+    Meliamne statue and paid Cullen Sharpe 200gp over the Harbor Authority writ rather
+    than contest it (Ch. 47); asked the party to look for a connection between the
+    Displacement Manifold outage and Elara's death.
+- name: Lord Halueth Verres
   type: npc
-- name: lyra
+- name: Lyra
   type: npc
-- name: marian
+- name: Marian
   type: npc
-- name: martisha_vinetalker
+- name: Martisha Vinetalker
   type: npc
-- name: out_of_phase_dwarves_axelholm_inhabitants
+- name: Out-of-Phase Dwarves (Axeholm)
   type: npc
-- name: qelline_alderleaf
+- name: Qelline Alderleaf
   type: npc
 - name: Reidoth
   type: npc
-- name: rot_tusk_ogre
+- name: Rot-Tusk Ogre
   type: npc
   aliases:
   - Rot-Tusk Ogres
-- name: runa
-  type: npc
-- name: skippy
+- name: Skippy
   type: npc
 - name: Soma
   type: npc
-- name: sridar
+- name: Sridar
   type: npc
-- name: sylvine_wintermoon
+- name: Teega the Smith
   type: npc
-  aliases:
-  - Sylvine
-- name: teega_the_smith
+- name: The Anchorite Half-Orc
   type: npc
-- name: the_anchorite_half_orc
+- name: The Cult Fanatic
   type: npc
-- name: the_cult_fanatic
+- name: The Dwarven King
   type: npc
-- name: the_dwarven_king
+- name: The Orc Scout
   type: npc
-- name: the_orc_scout
+- name: The Stag
   type: npc
-- name: the_stag
-  type: npc
-- name: thomas
+- name: Thomas
   type: npc
 - name: Vorga
   type: npc
@@ -2253,14 +2231,171 @@ entities:
     Common, was gifted intelligence by the sea elf Miraal and remains loyal to her;
     offers to salvage wrecks (incl. the Star-Crossed Lover) in exchange for laying
     Miraal's spirit to rest
+- name: Aldus Hern
+  type: npc
+  aliases:
+  - Aldus
+  source: summaries/20260729 (Ch. 47)
+  note: Neverember's steward, lion livery. Delivered the Lord Protector's summons
+    to the party at the Moonstone Mask (Ch. 47); secret Vukradin fan; invented a daughter,
+    Alducia, rather than admit the autograph was for himself. Surname from notes/session_prep/20260616_neverwinter_arrival.md
+    ("The steward's name is Aldus Hern"); the table uses the short form.
+- name: Cullen Sharpe
+  type: npc
+  source: summaries/20260729 (Ch. 47)
+  note: Associate of House Margaster. Presented a Harbor Authority writ asserting
+    a prior salvage claim on the Meliamne statue at the Moonstone Mask and extorted
+    200gp from Lord Cassian Meliamne (Ch. 47); then pitched the party on Margaster
+    handling distribution of goods recovered in the Phandalin hinterlands. Denied
+    Margaster involvement in Elara's death.
+- name: Alducia
+  type: npc
+  source: summaries/20260729 (Ch. 47)
+  note: 'The daughter Aldus Hern invented on the spot rather than admit Vukradin''s
+    autograph was for himself (Ch. 47). Fictional — she does not exist. Vukradin clocked
+    the lie and wrote the dedication anyway: "To Alducia, with love — Vukradin."'
+- name: Common Chord
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Neverwinter tavern in the dock area past the Protector's Enclave. Vukradin's
+    old venue, where he was periodically allowed to play and then thrown out without
+    pay; now the hardest ticket in the city. Brewbarry remembers only the ale ("All
+    I remember is a shitty ale. Good music, but shitty ale.").
+- name: Counting House
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Neverwinter financial institution. The party holds a letter of recommendation
+    for it and intends to use it to investigate the Lionshield Coster supply-chain
+    disruption caused by the Displacement Manifold going dark. A Lord's Alliance letter
+    advising caution about "certain adventurers from Phandalin" has already arrived
+    there.
+- name: Spire of the Morninglord
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Temple of Lathander in Neverwinter. The party committed to a dawn performance
+    and sermon here (Ch. 47) and used the obligation to decline Neverember's proposed
+    morning meeting. Referred to at the table as the Church of Lathander.
+- name: Candlekeep Working Paper No. 27
+  type: item
+  aliases:
+  - Candlekeep Report
+  source: notes/session_prep/20260616_neverwinter_arrival.md
+  note: '"The Hoarding Hero: Or, Why Some Adventurers Are Economically Indistinguishable
+    From The Monsters They Slay." Issued by Candlekeep''s Vault of Mercantile Histories;
+    argues adventurers who refuse to circulate recovered treasure are deflationary
+    and functionally indistinguishable from the dragons they slay. Neverember''s lever
+    on Vukradin — Aldus Hern raised the dragon comparison at the Moonstone Mask (Ch.
+    47).'
+- name: Laeral Silverhand
+  type: npc
+  aliases:
+  - Open Lord of Waterdeep
+  note: Open Lord of Waterdeep and First Lord of the Lords' Alliance; named at the
+    table in Ch. 47 ("Lady Laeral Silverhand, who's the open Lord of Waterdeep").
+    The 'Open Lord of Waterdeep' alias was previously attached in error to Dagult
+    Neverember, who rules Neverwinter as Lord Protector; moved here 2026-08-03.
+- name: Tuck Stonehill
+  type: npc
+  aliases:
+  - Tuck
+  provenance: on_the_fly
+  source: summaries/20260623/scene_extractions_new/02_a_hero_s_welcome_at_stonehill_inn.md
+  note: Son of Toblen Stonehill; present at the Stonehill Inn, Phandalin. Named on
+    the fly ch46 (2026-06-23); campaign name replaces the module's Pip. GM ruling
+    2026-08-07.
+- name: Petunia
+  type: npc
+  provenance: module
+  source: Dragon of Icespire Peak (adventure-dip); Butterskull Ranch
+  note: Alphonse 'Big Al' Kalazorn's cow (not a humanoid NPC — typed npc as the registry
+    has no creature type). Module NPC from Dragon of Icespire Peak. Recovered at Butterskull
+    Ranch via Soma's Speak with Animals; grazes with Qelline Alderleaf; source of
+    the Phandalin cheese, which is graded by which part of the field she grazed. Attends
+    town gatherings — present on the town green for the UBT proclamation (ch46).
+- name: Kazneporium Ketternopappux
+  type: deity
+  aliases:
+  - KP
+  note: Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity
+    whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
+- name: Kostadinious the Sage
+  type: npc
+  note: In-world biographer who recorded KP's story. NOT KP — see notes/corrections/kp_identity_attribution.md.
+- name: Aurelan Vance
+  type: npc
+  aliases:
+  - Aurelan
+  source: summaries/20260811 (Ch. 48)
+  note: Banker at the Counting House, Neverwinter. Drafted ahead of play in notes/npcs/aurelan-vance.md
+    as a Moonstone Mask guest (retired Enclave trade magistrate); GM ruling 2026-08-13
+    confirms the Counting House loan officer played in Ch.48 is the same NPC. Signed
+    Brewbarry's bathrobe-business loan with Linene Graywind as shipping agent, pushed
+    House Margaster as a cheaper distributor, and directed Vukradin to the Neverwinter
+    Commission letter of credit. Canonical spelling is Aurelan per the 2026-08-13
+    GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre'
+    and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded
+    in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct
+    from Andrella, the Beached Leviathan barmaid. CH48 STAGE-3 (2026-08-16) - the
+    narration's rendering of the first-hearing joke was changed from 'Oral B. Vance'
+    to 'Aurum Bee Vance' at GM instruction, to strip the real-world brand reference;
+    the party mishears his name as something that sounds like a meadery before he
+    restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a one-time
+    in-fiction mishearing, blessed as a comic beat, and a future consistency or spell
+    pass must not silently normalize it to Aurelan.
+- name: dreamlily
+  type: item
+  provenance: on_the_fly
+  source: summaries/20260811 (Ch. 48)
+  note: Narcotic. Introduced in ch48 NARRATION by Soma as what an illegal back-room
+    alchemy operation in Neverwinter would be cooking - 'some alchemist cooking dreamlily
+    to rot the sons of merchants'. AUTHORED IN NARRATION at GM instruction (2026-08-16
+    stage-3 de-anachronization pass), replacing the transcript's real-world 'meth
+    lab' joke - NOT played at the table and NOT in prep. No properties, price, legality
+    or distribution established beyond mind-harming and illicit.
+- name: cadet house
+  type: concept
+  provenance: on_the_fly
+  source: summaries/20260811 (Ch. 48)
+  note: 'Menzoberranzan institution, described by Valphine in ch48. A House wanting
+    a rival poisoned founds a lesser house with its own crest, name and separate ledger;
+    the lesser house acts; the Matron then tells the Ruling Council ''that was not
+    my hand.'' Valphine: the Council has not believed it once in nine hundred years,
+    and it has never once failed - ''the words are the wall. Everyone sees through
+    it; nobody may say so aloud.'' Her read on a Neverwinter banker''s between-departments
+    excuse, and the campaign''s working metaphor for laundered agency. AUTHORED IN
+    NARRATION at GM instruction (2026-08-16 stage-3 de-anachronization pass), replacing
+    the transcript''s real-world ''Chinese wall'' joke - NOT played at the table and
+    NOT in prep.'
+- name: Orcanese
+  type: concept
+  aliases:
+  - Orc language
+  - Orcish
+  source: GM ruling, voice-smooth review round 2, 2026-08-18
+  note: 'Table term for the Orc language. GM-confirmed 2026-08-18: not a transcription
+    garble of "Orcish" — "Orcanese is our way of saying ''orc language''" at this
+    table. First heard scene 10 of the 2025-05-28 (chapter 3) session: "Do you speak
+    Orcanese?"'
+- name: Jimble the Unmoved
+  type: npc
+  provenance: on_the_fly
+  source: Phandalin ch3 scene 07 narration, sage's marginal note (voice-critic pass,
+    GM-approved 2026-08-18)
+  note: 'Legendary figure, not a living NPC: a cleric of the old coastal sagas who
+    examined each fallen companion and pronounced him dead rather than part with the
+    prayer that might have argued otherwise. Invented in a Kostadinious the Sage marginal
+    note to launder Soma''s verbatim "He''s dead, Jim" table joke into canon — the
+    coastal-saga framing explains why coastal Soma knows the saying and mountain-born
+    Brewbarry does not. Authored in narration, never played or prepped; do not flag
+    the marginal note as a fabrication in consistency passes.'
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls
+- - Kazneporium Ketternopappux
+  - Kostadinious the Sage
 rejected_aliases:
 - - Corbin
   - Corwin
-- - Elara
-  - Elara Seasong Meliamne
 - - Meril
   - Miral
 - - Ser Kaelen
@@ -2283,18 +2418,17 @@ rejected_aliases:
   - The narrator
 - - lyra
   - Ilvara
-  - elara
   - Elara Seasong Meliamne
 - - corbin
   - Harbin Wester
   - Corrin
 - - Vorga
   - Horia Stonetallow
-  - borg_the_hammer
+  - Borg the Hammer
   - Vukradin
   - Vorga's elder
 - - ogre
-  - rot_tusk_ogre
+  - Rot-Tusk Ogre
 - - orcs
   - six dead orcs
 - - Cryovain

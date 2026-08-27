@@ -1,10 +1,17 @@
+---
+name: Bramgrim Stoutale
+player: Not specified
+species: Hill Dwarf
+class_level: Cleric 11
+subclass: Life Domain
+---
 # Bramgrim Stoutale
 
 ## Identity
 - **Class & Level:** Cleric 11
 - **Species:** Hill Dwarf
 - **Background:** Acolyte
-- **Player:** kostadis1
+- **Player:** Not specified
 - **Alignment:** Neutral Good
 - **Age / Gender / Size:** Medium
 

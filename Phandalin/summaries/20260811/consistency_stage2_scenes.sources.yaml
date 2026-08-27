@@ -1,0 +1,272 @@
+consistency_check:
+  timestamp: "2026-08-15T00:00:00+03:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260811/scene_extractions/ (8 scenes)"
+  document_class: "scene extractions (verbatim quote layer; embeds the gm-assist scene summary verbatim)"
+  report: null                # no check_consistency.py report — see method note below
+  config: "/tmp/claude-1000/-home-kroussos-campaigns-Phandalin-summaries-20260811/4c33d3ef-3fd6-4d8a-a156-d5ee2972f15a/scratchpad/phandalin_abs_config.yaml"
+  backend: "none — deterministic sweep + hand VTT adjudication"
+  issues_found: 7             # issue CLASSES found by the reviewer, not by a report
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-11"
+  chapter: 48
+
+  method_note: |
+    NO check_consistency.py RUN WAS MADE AT THIS STAGE, and the GM should know that.
+    The deterministic sweep (fix-propagation grep + truncation-marker census + player-name
+    census + tape line-number adjudication) found seven issue classes BEFORE any check was
+    invoked, including both Critical ones. On a verbatim layer the report's structural
+    blindness is near-total: the facts under test are which scene a quote belongs to,
+    whether a quote is duplicated, and whether it was cut off — none of which appear in any
+    grounding doc. The GM was shown the findings and chose the fixes; the checks were not
+    run because the sweep had already produced strictly more signal.
+
+    If a formal per-scene report is wanted later, run:
+      python ~/src/CampaignGenerator/session_doc/check_consistency.py \
+        summaries/20260811/scene_extractions/0N_*.md --config <abs> --backend claude-code \
+        --context <the 13-file stage-1 set>
+
+  scenes:
+    - { file: 01_arrival_at_the_counting_house.md,        issues: 0, truncation_markers: 11, ruling: "no action" }
+    - { file: 02_securing_the_loan.md,                    issues: 0, truncation_markers: 0,  ruling: "no action" }
+    - { file: 03_auditing_the_moral_economy.md,           issues: 1, truncation_markers: 7,  ruling: "player name replaced in 1 quote" }
+    - { file: 04_the_margaster_hypothesis.md,             issues: 0, truncation_markers: 7,  ruling: "player-name refs are correctly-labelled OOC editorial notes; left intact" }
+    - { file: 05_the_heir_of_alagondar.md,                issues: 3, truncation_markers: 24, ruling: "corrupted splice removed; necklace-ownership line corrected; spurious truncation marker removed" }
+    - { file: 06_the_notary_of_house_margaster.md,        issues: 3, truncation_markers: 11, ruling: "4 misfiled summary bullets + 85-line misfiled verbatim tail removed; corrupted splice removed; player name replaced" }
+    - { file: 07_the_shut_down_shipping_hub.md,           issues: 2, truncation_markers: 4,  ruling: "Soma pronoun x2; civic-notice trail-off annotated" }
+    - { file: 08_confrontation_at_margaster_logistics.md, issues: 2, truncation_markers: 2,  ruling: "4 bullets added to embedded summary; unique 'stuff at his house' quote carried over from 06; player names replaced x2" }
+
+  speaker_map: |
+    Unchanged from stages 0 and 1. Full party present.
+      Kostadis Roussos = GM | Stéphane Bourdeaud = Brewbarry | David Mendenhall = Vukradin
+      Wade Brown = Soma | Gary Young = Valphine
+
+  transcripts_available: |
+    Consulted BY HAND; NOT a --context input.
+      - GMT20260812-035423_Recording.transcript.cleaned.vtt  speaker-labelled — PRIMARY for scene boundaries
+      - session_20260811_transcript.vtt                      re-transcription, no labels
+
+    IMPORTANT NUANCE DISCOVERED THIS STAGE, contradicting the naive "prefer the
+    re-transcription" rule: on THIS session the re-transcription is better at SENTENCE
+    COMPLETION but WORSE at PROPER NOUNS. It renders Alagondar as "Alligander" and
+    Neverember as "never member". The correct procedure is to take completions from the
+    re-transcription and keep Zoom's proper nouns. A blanket preference either way
+    corrupts the text.
+
+  sources:
+    inherited_from_stage_1: |
+      Same 13-file context set and same broad prep tier. Not re-passed, because no
+      check_consistency.py invocation was made at this stage.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-15"
+    gm_rulings_this_run:
+      - "THE NOTARY DOES NOT LEAVE THE NOTARY HOUSE. Mid-run GM correction. Perrin and the
+         fixer are marched to the Eastern Quay; the notary stays at his own premises and
+         takes no further part. The reviewer had written the notary into the travelling
+         party in three places on the strength of the ambiguous tape line l.4751 ('The
+         notary hasn't… unless the notary did not come with you'). Corrected everywhere.
+         NOTE: scene 08 line 30 had it RIGHT all along — the error was introduced by the
+         reviewer at stage 1, not present in the pipeline output."
+      - "Repair only LOAD-BEARING truncations; leave incidental table chatter alone."
+      - "REPLACE real player names inside verbatim quote lines with the character name.
+         This overrides the reviewer's recommendation to gloss rather than rewrite; the GM
+         owns the corpus and prefers narration-ready quotes."
+      - "KP PLAYER/CHARACTER KNOWLEDGE SPLIT (mid-run GM correction, highest-consequence
+         ruling of the whole run). Dave Mendenhall knows who KP is; VUKRADIN DOES NOT. The
+         party knows KP exists but does NOT know he is a gnome, and has drawn no link to the
+         manifold sabotage. The line 'I have a feeling I know who the gnome is' (Zoom l.5443
+         / re-transcription l.4708) was rendered by the pipeline as 'Vukradin, aside' — an
+         in-character beat. It is table talk. Corrected in 4 places and the standing rule
+         written into docs/KP.md, which is hand-authored and survives pipeline regeneration."
+      - "GROUNDING DOCS: fold ch48 in by hand to stop the recurring false positives.
+         campaign_state.md and world_state.md both said 'as of Chapter 47' while ch48 was
+         played, which is the root cause of the schedule and bathrobe findings firing on
+         every single run."
+    applied:
+      - { issue: 1, fix: "Scene 06: removed 4 misfiled summary bullets (layaway refusal, paperwork-crumpling, 24-perception check, fireball corollary) and replaced them with an explicit scene-boundary note carrying the tape line numbers." }
+      - { issue: 2, fix: "Scene 06: removed the entire misfiled verbatim tail (85 lines, former lines 165-249) — the block the EXTRACTOR ITSELF had labelled '[The Necklace Standoff Resumes — at House Margaster's docks operation]' yet still filed under the notary scene." }
+      - { issue: 3, fix: "Scene 08: added the 4 bullets to its embedded summary, which previously contradicted its own verbatim section by omitting beats that section carried." }
+      - { issue: 4, fix: "Scene 08: carried over the one genuinely unique quote from scene 06's deleted tail — the GM's 'he has stuff at his house that he's happy to provide for you' (tape l.5643) — so nothing was lost in the move." }
+      - { issue: 5, fix: "Scene 05: necklace-ownership line corrected from the Zoom garble 'I belong to Lady Alagondar' to the re-transcription's 'It belonged to Lady Alagondar', with an editorial note recording both forms and the GM ruling it supports." }
+      - { issue: 6, fix: "Scenes 05 and 06: removed two CORRUPTED SPLICES where a truncated quote had fused with a duplicated speaker header mid-string ('…could definit**[GM]** — *as the notary…*'). Extractor output corruption, not a transcription issue." }
+      - { issue: 7, fix: "Scene 07: 'won over despite himself' -> 'herself' in BOTH the embedded summary and the verbatim speaker attribution." }
+      - { issue: 8, fix: "Player names replaced inside quote lines only: Gary -> Valphine in scenes 03, 06, 08 (4 quotes). Editorial notes in scene 04 that deliberately document an out-of-character moment ('to Brewbarry's player Stéphane') were LEFT INTACT — replacing the player name there would destroy the point of the note." }
+      - { issue: 9, fix: "Scene 05: removed a SPURIOUS truncation marker from a quote that is complete on both tapes ('…expose them as frauds. I'm sure.')." }
+      - { issue: 10, fix: "Scene 07: civic-notice quote annotated as a genuine GM trail-off (both transcripts stop at 'until further') rather than a capture failure, with '[notice]' bracketed in." }
+    rejected:
+      - issue: "The 60 remaining (truncated) markers"
+        ruling: "Repair only load-bearing ones — GM ruling."
+        rationale: "Census: 66 markers across 8 scenes (scene 05 alone had 24). Sampling showed the
+                    majority are genuine table trailing-off and interruption ('would be…', 'It's just
+                    an.', 'Right.'), which are accurate records of how people actually talk at a table.
+                    Six were assessed as load-bearing; three were repairable and were repaired; three
+                    were confirmed genuine trail-offs. Remaining markers left in place."
+      - issue: "Scene 04 out-of-character player-name references"
+        ruling: "Left intact."
+        rationale: "'**GM** — *out of character, to Brewbarry's player Stéphane*' is a correctly-labelled
+                    editorial note about a moment where the GM deliberately broke character to address
+                    the player. Substituting 'Brewbarry' would invert its meaning."
+
+  vtt_adjudicated: |
+    Consulted BY HAND. What the check structurally could not see — which at this stage is
+    essentially everything:
+
+    THE HEADLINE CATCH: STAGE-1 FIXES HAD NOT PROPAGATED, AND THE EXTRACTOR HAD DUPLICATED
+    A WHOLE BEAT ACROSS TWO SCENES. scene_extract ran 2026-08-14T20:17:45, BEFORE this run's
+    stage-1 corrections. Scene 06 therefore still carried the pre-fix bullets — and worse,
+    its verbatim section held COPIES of three quotes that scene 08 also held:
+        "It's much safer with us."                     tape l.5495  06 L177 + 08 L295
+        "Is that making it crystal clear for you…"     tape l.5519  06 L189 + 08 L307
+        "…shoots a fireball at us…"                    tape l.5627  06 L224 + 08 L332
+    All three tape lines fall after the Eastern Quay opens at l.4739. Left alone, the
+    narrator would have narrated the paperwork-crumpling TWICE — once at the notary, once
+    at the quay. This is the precise failure /staged-consistency exists to prevent, and it
+    was invisible at stage 1 because stage 1 does not read the extractions.
+
+    THE EXTRACTOR KNEW AND FILED IT ANYWAY. Scene 06's misfiled tail opened with its own
+    header: "**[The Necklace Standoff Resumes — at House Margaster's docks operation, after
+    the Cullen Sharpe business]**". The extractor correctly identified the location and
+    still placed the block in the notary scene, where the embedded summary then absorbed it
+    as notary content with the qualifier stripped. A downstream consumer reading only the
+    summary would have no way to recover the truth.
+
+    DELETION WAS CHECKED BEFORE IT WAS PERFORMED. Rather than cutting scene 06's tail on the
+    strength of the three known duplicates, all 33 quote lines in the tail were diffed
+    against scene 08: 24 were duplicates, 9 appeared unique. Reading the 9 showed 8 were
+    trivial fragments, GM stumbles, or false negatives of the substring match, and exactly
+    ONE carried unique content — the GM's "he has stuff at his house that he's happy to
+    provide for you" (tape l.5643). That one was carried into scene 08 before the tail was
+    removed. A blunt cut would have silently lost it.
+
+    THE CANONIZED LINE WAS SITTING IN THE EXTRACTIONS IN ITS GARBLED FORM. The necklace-
+    ownership line the GM ruled on at stage 1 appears at scene 05 L379 as the Zoom capture
+    heard it — "I belong to Lady Alagondar" — which reads as Boney describing himself rather
+    than answering the question he was asked ("Yes, Boney, do you know who the necklace
+    belongs to? Yes or no?"). Re-transcription l.3232: "It belonged to Lady Alagondar."
+    The narrator would have rendered the newly-canonized fact as its opposite.
+
+    A TRANSCRIPT-PREFERENCE RULE THAT IS WRONG ON THIS SESSION. The re-transcription won
+    three adjudications this run (Bronze Sun, "It belonged", sentence completions) but it
+    garbles proper nouns badly here: "Perrin Alligander", "that imposter, never member",
+    "fire and blood quest". Any repair pass must take COMPLETIONS from the re-transcription
+    and NAMES from Zoom. Recorded because the naive rule ("prefer the retranscribed one")
+    would have injected "Alligander" into the corpus.
+
+    EXTRACTOR OUTPUT CORRUPTION, A DEFECT CLASS NOT IN ANY SKILL'S CATALOGUE. Two places had
+    a truncated quote fused mid-string with a duplicated speaker header:
+      scene 06: > "…all these flavors of insurance are, I'm sure, are… could definit**[GM]** — *as the notary…*
+      scene 05: > "and suggest that, you know**[GM]** — *the fixer's offer*
+    In both cases the complete quote followed on the next line, so the fix was to delete the
+    corrupted fragment. Worth grepping for on every future session:
+      grep -rn '[a-z]\*\*\[' scene_extractions/0*.md
+
+    REVIEWER ERROR, CORRECTED BY THE GM MID-RUN. The reviewer wrote the notary into the
+    party travelling to the Eastern Quay, in three places, reading tape l.4751 ("The notary
+    hasn't… unless the notary did not come with you") as leaving it open. The GM ruled the
+    notary stays. Scene 08 line 30 had already recorded this correctly — so the pipeline was
+    right and the reviewer introduced the error at stage 1. Corrected in
+    session-summary.md and scene 06. Recorded per /consistency-check's instruction that a
+    finding stated and then corrected is more useful documented than quietly dropped.
+
+  grounding_doc_pass:
+    ran: "2026-08-15, at GM request, after stages 1-2 completed"
+    rationale: |
+      Three finding classes had now fired on TWO consecutive runs (stage 0 on 2026-08-13
+      and stage 1 on 2026-08-15) and were predicted to keep firing forever. The root cause
+      was not the recaps — it was that campaign_state.md and world_state.md both declared
+      themselves "as of Chapter 47" while chapter 48 had been played. Per /consistency-check,
+      an absence of documentation is not a contradiction, but a doc that is a chapter behind
+      generates the same false positive every time.
+    generated_doc_caveat: |
+      campaign_state.md and world_state.md are CampaignGenerator outputs. world_state.md
+      already carried a HAND-EDITED banner (ch46-47 folded in by hand on 2026-08-13), so
+      hand-maintenance between pipeline runs is this campaign's established practice.
+      campaign_state.md had NO such banner and has now been given one. RE-RUNNING THE
+      PIPELINE WILL DISCARD ALL OF IT.
+    edits:
+      - file: docs/world_state.md
+        change: "Header ch47 -> ch48; HAND-EDITED banner updated to name summaries/20260811.
+                 The stale 'Bathrobe — returned but still desires one' uncertainty line was
+                 replaced with a 'Bathrobes — RESOLVED, do not re-flag (ch48)' entry citing
+                 tape l.699 and l.835 plus the Eastern Quay robe callback."
+      - file: docs/campaign_state.md
+        change: "Header ch47 -> ch48; HAND-EDITED banner added. The 'Neverwinter — Immediate
+                 Schedule' block was rewritten into DONE / STILL OPEN (no fixed date) / NEW
+                 ch48 commitments, opening with an explicit 'THE SCHEDULE HAS SLID — do not
+                 re-flag' warning carrying the three tape citations. The ch47 encounter-log
+                 line at :110 that also says 'the following evening' was left intact as
+                 accurate history but given a forward-pointer to the corrected block."
+      - file: docs/KP.md
+        change: "NEW section 'WHAT THE PARTY ACTUALLY KNOWS (GM ruling 2026-08-15, as of
+                 ch48)' with a three-column table separating party / Dave / Vukradin
+                 knowledge, the ch48 instance that triggered it, and a standing rule against
+                 narrating any PC as suspecting KP. Placed in KP.md deliberately: it is
+                 hand-authored, referenced from Phandalin/CLAUDE.md, and survives regeneration."
+      - file: notes/vtt_known_additions.md
+        change: "Added a 2026-08-15 section recording the Bronze Sun (confirmed real twice,
+                 still unregistered — the reason it re-flags), the elven chainmail provenance
+                 ruling, the necklace-ownership ruling, and the session-specific transcript-
+                 preference caveat."
+      - file: docs/entity_registry.yaml
+        change: "Necklace of Fireballs note gained a FACT (ownership) clause (stage 1)."
+
+  carry_forward:
+    - status: DONE
+      item: "RECURRING FALSE POSITIVE #1 KILLED — world_state.md bathrobe line. Was OPEN
+             through stage 0 and stage 1. Now replaced with an explicit do-not-re-flag entry."
+    - status: DONE
+      item: "RECURRING FALSE POSITIVE #2 KILLED — campaign_state.md 'Immediate Schedule'.
+             Was OPEN through stage 0 and stage 1. Rewritten to end-of-ch48 state with a
+             do-not-re-flag warning and the tape citations that settle it."
+    - status: OPEN
+      item: "RECURRING FALSE POSITIVE #3 NOT FULLY KILLED — the Bronze Sun is now documented
+             in notes/vtt_known_additions.md but is STILL ABSENT from docs/entity_registry.yaml,
+             and check_consistency.py reads the registry, not the notes. It will keep firing
+             until promoted via /entity-triage. This is the one recurring item the grounding-doc
+             pass could not close, because promotion is an identity decision reserved to the GM."
+    - status: OPEN
+      item: "PROVENANCE CONFLICT, unresolved and NOT recurring (flagged once): world_state.md:498
+             dates the Necklace of Fireballs to the Alagondar barrow at 'ch33'; entity_registry.yaml
+             says 'Retrieved by VUKRADIN in ch31'. Needs one GM ruling and a single-direction fix.
+             Deliberately not guessed at during the grounding-doc pass."
+    - status: OPEN
+      item: "gm-assist.md STILL CARRIES THE ORIGINAL MISPLACEMENT — its line 22 paragraph
+             puts the crumple/weapon beat between the notary and the Eastern Quay. Only the
+             Valphine/Vukradin temple attribution was fixed there (stage 1, finding 7). The
+             relocation was not authorised for gm-assist. If gm-assist is ever re-consumed
+             by enhance_summary or scene_extract, the error will re-enter the pipeline."
+    - status: OPEN
+      item: "60 (truncated) markers remain across the 8 scenes (scene 05 has ~22, scene 01
+             has 11). GM ruled load-bearing-only for this pass. If a narration run surfaces
+             them in prose, do a full census pass rather than fixing them one at a time."
+    - status: OPEN
+      item: "session-summary.sonnet.md leaks real player names into recap prose ('Gary had
+             Brewbarry add elven chainmail', 'David noted', 'Wade:'). Carried from stage 1,
+             still unresolved. Now more urgent: the GM has ruled that player names should be
+             replaced with character names in the verbatim layer, so the sonnet file is
+             inconsistent with that standard."
+    - status: OPEN
+      item: "The scene extractions are now HAND-EDITED. Re-running scene_extract will
+             DISCARD every fix in this manifest — the scene-boundary corrections, the
+             de-duplication, the necklace-ownership correction, the splice repairs and the
+             player-name substitutions. If the extractor is re-run, re-apply from here."
+    - status: OPEN
+      item: "EXTRACTOR BUGS worth reporting upstream to CampaignGenerator: (a) it emits a
+             correctly-labelled out-of-scene block and then files it under the wrong scene;
+             (b) it duplicates the same tape span into two adjacent scenes; (c) it produces
+             fused quote/header splices. All three were present in this one session."
+    - status: DONE
+      item: "Stage-1 fixes verified propagated into the extractions — 'despite himself',
+             'and Don Jon hold', 'Vukradin noted with some satisfaction' all return zero
+             hits across gm-assist.md, session-summary.md and all 8 scenes."
+    - status: DONE
+      item: "Grounding-doc direction checked for the Don-Jon finding: campaign_state.md:192
+             and world_state.md:269 already record him as DEAD. The recap was the wrong
+             side; no grounding-doc edit was needed. (Per /consistency-check: survey before
+             editing, and say plainly which file was actually wrong.)"
+    - status: NOTE
+      item: "Stage 3 (narration) NOT RUN — narration/ contains only plan.md. The corrected
+             extractions are now the right input for a first narration run."

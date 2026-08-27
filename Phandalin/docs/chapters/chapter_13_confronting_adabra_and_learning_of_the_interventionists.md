@@ -4,7 +4,7 @@ title: Confronting Adabra and learning of the Interventionists.
 ---
 # Chapter 13 Confronting Adabra and learning of the Interventionists.  
 
-## 13.01 Soma 01-02 Taraskh 1495
+## 13.01 Soma 01-03 Taraskh 1495
 
 I feel like a shell sprout, wet from the nest, a child that has been taken advantage of. I trusted Adabra. And she took advantage of my trust to get me to stop the people who were trying to save our plane. 
 

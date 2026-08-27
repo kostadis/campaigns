@@ -1,0 +1,404 @@
+# Capstone verification — Phandalin session 20260729
+
+Run 2026-08-12 against CampaignGenerator PR #284 (`feat/276-genre-file-single-source`,
+commit `77d6f95`). This is the #245 handoff's "Capstone verification", applied to this
+session instead of ch46. Nothing in the campaign tree was modified: the render went to a
+scratch directory and this report is the only file written here.
+
+## Why this session is a valid subject
+
+The capstone asks for "the first render ever with the full intended prompt stack (voice
+specs delivered, present tense, multi-line genre block)". This session's existing
+narration predates all three:
+
+| Fact | Evidence |
+|---|---|
+| Existing narration rendered 2026-08-04 / 08-05 | mtimes on `narration/session_doc_scene_0*.md` |
+| #247's voice-file resolver landed 2026-08-10 | `3255f9c fix(247): resolve voice-spec filenames beyond exact/first-name keys` |
+| So the old render delivered **no voice spec** | Phandalin's files are `*_new_pipeline.md`, which need #247's rule (c) |
+| The old render's genre was **flattened** | `narration/…_scene_02_….knobs.json` -> `narration_genre`: 7,063 chars, **0 newlines** |
+| Flattened => one-line `GENRE:` label | pre-#281 `narrate.py` chose the block on `"\n" in g` |
+
+So the before/after here isolates exactly what #276 and #247 changed. Note this is **two
+variables at once** (voice specs + genre delivery), as the capstone itself specified — it is
+not a single-variable experiment.
+
+## What was run
+
+Scenes 2 and 4, not 2 and 3. Scene 4 is Vukradin's, and capstone check 2 is specifically
+about Vukradin's register. Scene 3 is Valphine's.
+
+```bash
+cd ~/src/campaigns/Phandalin
+MAX_THINKING_TOKENS=0 python -m session_doc.sd_narrate \
+  summaries/20260729/gm-assist.md \
+  --plan summaries/20260729/narration/plan.md \
+  --scene-extractions summaries/20260729/scene_extractions_smoothed \
+  --per-scene-output <scratch> \
+  --party docs/party.md --voice-dir voice --examples examples \
+  --characters "Brewbarry, Soma, Valphine, Vukradin" \
+  --narration-genre-file voice/_genre.md \
+  --prose-mode --reflections --narrate-tokens 16000 \
+  --scene 2 4 --model claude-fable-5 --backend claude-code
+```
+
+Knobs match the old render's recorded `.knobs.json` (tokens 16000, prose_mode, reflections,
+`claude-code` subscription backend). `--reflections` was a no-op in both runs: this
+campaign's `narrate.context` is empty, so there is nothing for it to inject.
+
+`--narration-genre-file` is the new flag from #284. The campaign config was **not** migrated
+for this run; the path was passed explicitly, so `~/src/campaigns` is untouched.
+
+## Preconditions, verified before spending tokens
+
+| Check | Result |
+|---|---|
+| `voice/_genre.md` read | 7,351 chars, 60 newlines |
+| Voice keys found | `brewbarry_new_pipeline`, `soma_new_pipeline`, `valphine_new_pipeline`, `vukradin_new_pipeline` |
+| Brewbarry spec resolved | yes, 6,512 chars (rule c) |
+| Vukradin spec resolved | yes, 7,228 chars (rule c) |
+| VOICE SPEC block in system prompt | present for both |
+| Genre delivered as delimited block | yes |
+| Genre delivered as one-line label | no |
+| Tail reminder count | 1 |
+
+## Measurements
+
+Scans are the `/voice-critic` mechanical scans A, B and C, applied to **narration prose
+only** — `"…"` dialogue, `*…*` italics and `<!-- … -->` comments are stripped first.
+
+### Scene 02 — Brewbarry
+
+| Metric | OLD (pre-#247, flattened genre) | NEW (capstone) |
+|---|---|---|
+| Words (total) | 1,210 | 1,300 |
+| Words (prose only) | 665 | 791 |
+| Em-dashes in prose | 2 (3.0/1000w) | 2 (2.5/1000w) |
+| Scan B register-wrong words | 0 | 0 |
+| Scan C behavioural taxonomy | 0 | 0 |
+| Table-speech hatch firings | 0 | 1 |
+| Past-tense verbs | 65 | 8 |
+| Present-tense verbs | 9 | 49 |
+| **Dominant tense** | **past** | **present** |
+
+### Scene 04 — Vukradin
+
+| Metric | OLD (pre-#247, flattened genre) | NEW (capstone) |
+|---|---|---|
+| Words (total) | 1,032 | 1,358 |
+| Words (prose only) | 474 | 782 |
+| Em-dashes in prose | 7 (14.8/1000w) | 17 (21.7/1000w) |
+| Scan B register-wrong words | 0 | 0 |
+| Scan C behavioural taxonomy | 0 | 0 |
+| Table-speech hatch firings | 0 | 1 |
+| Past-tense verbs | 31 | 7 |
+| Present-tense verbs | 4 | 30 |
+| **Dominant tense** | **past** | **present** |
+
+## The three capstone checks
+
+### 1. VOICE SPEC block present — PASS
+
+Both narrators resolve through #247's rule (c) and both system prompts carry the block.
+The old render could not have had it: its files need rule (c), which landed five days after
+it ran.
+
+### 2. Vukradin's sardonic-operator beats soften toward the spec — PASS
+
+`voice/vukradin_new_pipeline.md` line 58 states the rule the old render broke:
+
+> Do not make Vukradin sound cynical, smirking, or sardonic. He is sincere. Snark is not
+> his connective tissue.
+
+Same beat, both renders — Vukradin hands over the statue and apologises:
+
+**OLD** (operator register; self-aggrandising, past tense):
+
+> I had carried this statue across half the Sword Coast. I had refused a dragon's hoard for
+> less principle than this. I walked up with it in both hands.
+
+**NEW** (sincere register; the apology is examined, not scored):
+
+> *Sorry.* The word lands wrong even as I say it — an apology stapled to an introduction —
+> but there is no graceful place in any sentence to put a death.
+
+This is a judgement, not a measurement. But it is the exact softening the capstone
+predicted, on the exact narrator it named, with the spec as the changed input.
+
+### 3. Present tense throughout, hatch still firing — PASS, and this is the headline
+
+The genre's line 12 says: **"First-person present tense, always"**. The old render ignored
+it. The new one obeys it.
+
+| Scene | OLD past:present | NEW past:present |
+|---|---|---|
+| 02 (Brewbarry) | 65:9 — past | 8:49 — present |
+| 04 (Vukradin) | 31:4 — past | 7:30 — present |
+
+Scene 04 went from 31 past-tense verbs against 4 present, to 7 against 30. **The tense rule
+was in the rulebook the whole time and was not reaching the model.** That is what a 16K
+one-line `GENRE:` label costs, and it is the strongest evidence so far for #276 fix 1.
+
+The table-speech hatch fired once in each new scene and zero times in either old scene.
+
+## New finding — the critic's em-dash scan contradicts the genre
+
+Em-dashes in prose rose in scene 04: 7 -> 17 (14.8 -> 21.7 per 1000 prose words).
+
+This is not obviously a defect. `voice/_genre.md` line 39 **sanctions** the device:
+
+> Italics for one-word thoughts; em-dash for interrupted speech or thought.
+
+The new sincere-register interiority beats are exactly "interrupted thought", so the rise
+is the genre being followed. But `/voice-critic`'s mechanical scan A flags *every*
+narration-level em-dash for conversion. So the checker and the rulebook disagree, and the
+checker will now report ~17 findings per Vukradin scene that the genre permits.
+
+That is the hand-copied-fork problem `VoiceCriticAlignment_proposal.md` describes, caught
+in the act. It belongs in kostadis/mytools#125 as a concrete case for D2 (read the
+effective rulebook) — and it strengthens the argument, because scan A is not merely stale,
+it is wrong against a rule the genre states plainly.
+
+## What this does not establish
+
+- Two variables changed together (voice specs, genre delivery). The tense result is
+  attributable to the genre block; the register result is attributable to the spec; neither
+  attribution is isolated by a third run.
+- One session, two scenes, two narrators. Not a corpus.
+- No `/voice-critic` re-score was run. It would now be measured against a rulebook fork
+  that disagrees with the genre on em-dashes, so fixing #125's scan A first would make the
+  score mean more.
+- The old files remain the campaign's narration. Nothing here was promoted.
+
+---
+
+# Rendered output
+
+## Scene 02 — Brewbarry (new, capstone render)
+
+---
+scene: 02
+slug: past_the_common_chord
+narrator: Brewbarry
+scene_name: Past the Common Chord
+session: 20260729
+---
+
+The statue rides on my shoulder. It has ridden there for weeks. Honest weight, no argument in it. I do not mind carrying it. I mind that there is no beer inside it.
+
+"I would like to return the statue," Vukradin says.
+
+Good. My shoulder agrees.
+
+"I have a feeling that's not gonna go well," he also says. That is fine too. We slept well. Valphine has her prayers back. Soma has hers. If it goes badly, I will be there, and it will stop going badly.
+
+Boney walks with us through the streets. Nobody stops him. He does not eat, so he does not poop, so the guards have nothing to complain about. Soma says, "Normal horses get to go through town just fine. Boney's just a normal horse. We don'ttake him inside, is all." Boney is not a normal horse. But he walks like one, and that is enough for Neverwinter. Prutha is not with us. Valphine sent him to the orcs, to teach them her painful sun.
+
+"A little stroll over. It's been several weeks. We've been carrying this heavy statue around, and it's time to return it," Vukradin says. *We.* I let it pass. My shoulder knows who carried it. Then he asks, "Do we know where this person lives, or do we need to research it first?"
+
+The Meliamne lady lives at the Moonstone Mask. The finest inn in the city. It sits on a rock, and the rock floats above the docks, held down by chains, like a bull that keeps thinking about leaving.
+
+Soma tips her head back. "Oh, it's above the city, right?" She follows the chains down to where they bite into the ground, west of the docks. "It's outside the walls!"
+
+Vukradin's eyes go up the chains and stay there.
+
+"It's a perfect place to launch an attack on the city proper, right? You've got the high ground. You've got a natural defense, your own little— It's a pended area that he can just move around and obliterate things from above."
+
+"You cut the chains and just, yeah, turn it into, like, a death from—" Soma says.
+
+I understand this talk. High ground is high ground. A rock that big, dropped, ends any argument.
+
+"No, no, no, no, I'm just— it's when the drow want to invade, this is how they should do it, I'm just saying. Yeah, when the drow invade, you know, in a few months, this is a way they could accomplish that. I mean, they're gonna be welcomed as liberators. They're gonna come in riding on Moonstone Masks, yeah, with the light of Lathander. Would be glorious."
+
+I look at Valphine. She does not say the drow are not coming.
+
+There are three rocks up there, not one. Pirates' Skyhold. Fisher's Float. The Mask. Vukradin counts them against the sky. "Wow, that's, like, 3 floating… Oh, that's, that's useful." And then, "All well-positioned for, like, you know, assaulting the town."
+
+Castle Never has never been taken. That is the whole name. Never.
+
+"Well, that's just— challenge. Challenge accepted. That's not fated," Vukradin says. That is the problem with Vukradin. I would follow him up the chains.
+
+Long ago the ground here got up and tried to fly away. The Spellplague did it — pieces of the city rising, drifting for the Sword Coast. People threw chains over the rocks and tied them down before they left. Strong people. I respect the work.
+
+At the Mask, the staff all wear half-masks set with moonstones that glow. "This is where the fanciest inn is," Vukradin says.
+
+Soma asks where the statue even came from. The stolen boat. Valphine remembers better: "We're talking about, like, the sunken shipwrecks around the Tower of Storms."
+
+"Yeah, where I went swimming and diving and all, yeah," Soma says.
+
+"A year ago, yes," Vukradin says.
+
+"God, it's been a long time," Soma says.
+
+A year. The statue has been heavy for a year.
+
+The Mask is where the rich and the powerful go to rest. They never let Vukradin play there. "They always snubbed me. They were never willing to host me," he says. And again: "Yeah, but this place was not willing to host me."
+
+"You snubbed them before they could snub you," Soma says. Vukradin points at her, pleased, and calls them rich assholes. He wears the snub like a medal now.
+
+We walk. Through the Protector's Enclave everything is clean stone and polished helmets. Then we step out onto the docks and the city stops pretending. Grungy. I like it better. Docks smell like work.
+
+We find the tracks and cross them, and there on the right is the old place. The Common Chord. Vukradin played. I listened. I drank.
+
+"And gave me a 10 out of 10 rating. The only one who ever did," Vukradin says. It was an honest rating. The music was that good. Nobody else went there, which is maybe why they let him play at all. They would let him play, then throw him out. They did not pay him.
+
+"Well, I didn't get perfect ratings, and the deal was that if you weren't completely satisfied, you could have your money back," he says. That deal made problems for the Common Chord. I never asked for my money back.
+
+His boots slow. Half a step toward the door lives in them. Then: "No, no, we're returning the statue. We have to stay focused."
+
+"No side questing today," Soma says.
+
+"Lord— Ser Kaelen told me I needed to do this. Finally do it. I'm doing it," Vukradin says.
+
+I look at the place anyway. Hard. I try to see what changed, what got into it. I see nothing. But I remember the guard at the gate, the day we arrived — he wanted Vukradin to get him tickets to the hardest table in the whole city. That table is here now. The place nobody went is the place nobody can get into.
+
+"One chord so popular now," Vukradin says.
+
+"Yes, all I remember is a shitty ale. Good music, but shitty ale," I say.
+
+The truth walks up slower. Back then I did not know ale could be good. I learned that here, in Neverwinter, after. Before that, ale was just the wet part of the evening. *How did I even ever drink that stuff?*
+
+"Yeah, but now I know better. It was, like… piss," I say.
+
+And now the rich pay to sit where I sat for free. They tell me I have become a thing in this city too. A thing. I do not know what kind. I hope it comes with beer.
+
+We arrive under the Moonstone Mask. Vukradin puts his head back.
+
+"How thick are these islands? Because it's like land floating in the sky, right? So there's got to be some amount of— Is it, like, 10 feet? Is it, like, 100 feet? No, I'm just thinking, like, all these buildings, right? They have basements, they have catacombs, they have buried coffins, graveyards — that all requires some amount of depth."
+
+I look too. The rock hangs deepest at the middle and thins toward the edges. Like a tooth pulled out of the ground, root and all. Not a flat cut.
+
+"It's like a cone, yeah," Soma says.
+
+If there are catacombs under the fancy inn, they hang in that deep middle. Down in the root.
+
+"I have to put the cemeteries in the middle of town. Right. Sorry, in the middle of the island," Soma says.
+
+"Middle of a floating island. Alright," Vukradin says.
+
+I shift the statue on my shoulder. The lady who gets it lives up there, on a tooth in the sky.
+
+<!-- table-speech reclassified: "Soma, not me. I can't swim that far." | "There you go, there you go. He's snubbed by these rich assholes." -->
+
+## Scene 04 — Vukradin (new, capstone render)
+
+---
+scene: 04
+slug: lord_cassian_and_the_performance
+narrator: Vukradin
+scene_name: Lord Cassian and the Performance
+session: 20260729
+---
+
+The waitstaff points us past the tables of people who have already decided not to look at us, toward the best table in the Moonstone Mask. The man seated there is a sea elf — I can see the faint sheen along his neck, the sea-colored eyes. Elara's brother. Lord Cassian Meliamne. I have carried his family's statue across a dragon, a manse, and most of the road between Phandalin and Neverwinter, and I am not going to fumble the delivery now.
+
+I step up with the statue in my hands. "I guess I should say — hello. I am Vukradin, and I came to deliver something to your late sister, Elara. Sorry."
+
+*Sorry.* The word lands wrong even as I say it — an apology stapled to an introduction — but there is no graceful place in any sentence to put a death.
+
+He doesn't stand. He looks at the statue first, then at me.
+
+"Vukradin. You have the statue. Good."
+
+"My cousin told me someone was bringing it."
+
+"She was killed. Eight days ago. House Margaster."
+
+"I thought you should know before you handed it to anyone."
+
+Eight days. We were eight days too late, and the reason has a name, and the name is House Margaster. I file that in the ledger where it will not be forgotten. But the second half of his sentence snags on something in me and won't come loose.
+
+"Why… why do I need to know that?"
+
+"Well, I mean, I don't want you— I wanted you to know, before you hand it over to anyone else."
+
+"Why would I do that?"
+
+He stares at me, genuinely baffled — and then explains, carefully, as if to a child, that other parties would offer me more money for it.
+
+"Money? You were gonna pay me for the statue?"
+
+"Of course he's gonna pay you for his statue," Valphine says beside me, in the tone she uses when she believes I have missed something obvious.
+
+No. Nope. This is not a negotiation, and it was never a negotiation. "Look, this is your statue, and I'm returning it to you, because it's the right thing to do, and… here you go."
+
+I put it in his hands. And something in him changes when he holds it. He tells us that Elara was ecstatic when she heard the artifact had resurfaced — that she had been waiting for us, at a party, an actual party with our names attached to it, a party we never attended because we were off saving the world from a dragon. She waited. We fought Cryovain. The ledger does not balance and no amount of coin makes it balance, and House Margaster owes a debt that money cannot carry either. *Scandalous.*
+
+"For free drinks," Brewbarry offers, as his contribution to the ethics of the moment.
+
+"So we gotta go. We're gonna go."
+
+But Lord Cassian will not have it — he waves us down, no, no, please, sit — and clicks his fingers, and drinks are simply appearing, carried by staff who move like they've rehearsed it.
+
+"Oh, alright. Well, that'd be good."
+
+"Let's stay just for a little while, please," Brewbarry says, already reaching.
+
+"You realize the world has you wrapped around their finger, man. All they have to do is give you alcohol, and you'll do anything."
+
+He blinks at me, honestly lost. "And… is there a point? …do anything for us all. What do you mean?"
+
+I love him. There is no argument to be had here. "Alright, well, now we gotta drink. We got things to do, man, but alright — we can have a drink."
+
+"Oh, you're a bard. Sing a song! Sing us a song, come on!"
+
+"Sure, we can. Sure. I don't know — does this place really want us to sing?"
+
+Lord Cassian hears that I might sing and lights up like a beacon — *the* Vukradin, of course, and will it be one of my early works? Now that is a question a real fan asks. I turn to the room.
+
+"Are you looking for the classic stuff, or are you looking for the newer hits? Should we do our new album, or are you looking for the classics?"
+
+"Great new hits that you can have a first showing of, before we do them at the…" Valphine starts, already selling.
+
+He pauses. And people are drifting toward us now, chairs turning, the whole room reorienting as they realize there is going to be music — and in that pause I watch it cross his face: he does not know the difference between my early works and my new album.
+
+"Not much of a fan, really," Soma says, dry as riverbed.
+
+"Oh, you're like a fair-weather fan. That's alright, that's alright. It's good to have new fans. He doesn't really know me."
+
+So we play. And I will be honest, because honesty is the whole constitution: the tempo rushes where it should breathe, a chord comes out flat where it should resolve, and Valphine's harmony doesn't catch it either. "Not the best performance," I mutter under the last note.
+
+But the room. The room is posers, wall to wall.
+
+"So they're all posers. They don't know."
+
+"They don't know good from shit, so…" Brewbarry agrees.
+
+"It's polite company. They have to applaud," Valphine says.
+
+I put on the voice: "Yeah, that was amazing!"
+
+"Well, they would never admit to a poor performance, anyway, or be…" Brewbarry starts — because that would make them look uncivilized and gauche, and there is nothing this room fears more.
+
+Valphine is reading them the way she reads everything. She murmurs about the little hedging looks going table to table — *did you like it? I didn't like it, did you?* — and the ones over-intellectualizing my missed chords, dressing the flat notes up as intention. Then, serene: "You have to listen to the notes they weren't playing."
+
+Brewbarry finishes his drink, stands, and applauds — loud, sustained — while sweeping the room for anyone not applauding. Everyone applauds. All of them. The applause is real even if the taste behind it isn't, and I decide to believe the applause.
+
+"And you're all welcome to come to the main performance and the sermon at the Church of Lathander," Valphine announces.
+
+"Yeah, we also encourage — strongly encourage — while I seize my axe, donations to Vukradin's music studio upcoming label, so… Please get out your checkbooks."
+
+"Thanks, dude! Oh, yeah, great idea! Donations! I love it!"
+
+"The rich and wealthy do throw their money around," Brewbarry says, axe resting where everyone can see it.
+
+"I agree, this is a great opportunity to recruit some investors."
+
+"Cheap donations at this location are probably pretty good," Valphine adds.
+
+And this — this is the moment. A room full of wealth, a cause that is nothing but clean. "Yeah, I think I could make a little speech about how it's important to donate to the arts, you know. 20 persuasion. How much money did we raise?"
+
+The speech lands. I can feel it land — the exact word, the exact weight — and the purses open, and coin is pledged, real coin, for the studio. Fair-trade, conflict-free gold, given freely by people who can afford it, for art.
+
+"That's right, milk it, milk it!" Brewbarry calls.
+
+"Maybe they give us the land rights, or something like that. Bring the local banking industry's majordomo there to set up a… a thing," Valphine muses.
+
+And because I am a man of principle and not a grifter, I make the accounting clear to the room: "Now, of course, this goes into a trust that would only be used for the— It's earmarked. Restricted. It's a restricted donation."
+
+Soma observes that earmarked money frees up other money, which means it isn't really so earmarked after all. Which is technically true and spiritually beside the point.
+
+"It's like the lottery, right? All the money from the lottery goes to the schools. We don't need to fund the schools."
+
+<!-- table-speech reclassified: "So as I finish my drink, I get up and I stop, you know. Applause, very loud — and I look around the house to see who's not applauding." | "I assume everyone will start applauding." -->
+

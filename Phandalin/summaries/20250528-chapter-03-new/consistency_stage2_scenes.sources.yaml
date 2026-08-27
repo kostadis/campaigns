@@ -1,0 +1,361 @@
+consistency_check:
+  stage: 2
+  campaign: "Phandalin"
+  document_class: "scene_extractions, source: gmassist — built from gm-assist.md (Stage-0-fixed) + VTT, freshly regenerated 2026-08-16 after Stage 0/1 landed. Never checked before this run."
+  session_date: "2025-05-28"
+  temporal_gap: |
+    Backfilled old chapter. Session predates the campaign's current (2026, ~ch45+)
+    grounding docs by ~2 years and dozens of chapters. Using a throwaway config
+    pointing campaign_state/world_state at docs/archive/*_ch02.md (party/planning
+    likewise via --context docs/archive/party_ch02.md, docs/archive/planning_ch02.md)
+    instead of the live docs — the live docs describe a much later party and would
+    false-flag on level/kit/item findings.
+  config: "throwaway absolute-path config in scratchpad (not committed) — campaign_state/world_state labels point at docs/archive/{campaign_state,world_state}_ch02.md. Same file used for Stage 0/1 (phandalin_ch02_archive_config.yaml), rebuilt identically since the original scratch file no longer exists on disk."
+  model: "claude-fable-5 via claude-code backend (subscription, headless)."
+  backend: "claude-code"
+  session_prep_used: false
+  session_prep_reason: "Session (2025-05-28) predates the entire notes/session_prep/ corpus (earliest file 2026-05) by ~1 year. Confirmed with user via AskUserQuestion before proceeding. Recorded per skill requirement."
+  entity_registry_used: true
+  speaker_map: |
+    Derived from session_20250528_transcript.speakers.vtt + GMT20250528-035553_Recording (1).cleaned.dedup.md
+    (cross-checked, identical speaker sets): Kostadis = GM, Dave Mendenhall = Vukradin,
+    Wade Brown = Soma, Gary Young = Valphine AND Brewbarry (covering — Stéphane absent
+    the entire session; confirmed via accent-safe grep for "st[ée]phane|bourdeaud" against
+    all three transcript variants, zero hits in any — a naive [A-Za-z]-only speaker-label
+    grep would have missed an accented dropout, so this was deliberately re-verified
+    accent-safe rather than trusted from the first pass).
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/archive/campaign_state_ch02.md }
+      - { label: world_state,    path: docs/archive/world_state_ch02.md }
+    context:
+      - { path: summaries/20250528-chapter-03-new/gm-assist.md, role: "prior pipeline stage — scene_extractions source: gmassist, built from this + the VTT" }
+      - { path: docs/archive/party_ch02.md,    role: "PCs (campaign-standard, ch02-scoped)" }
+      - { path: docs/archive/planning_ch02.md, role: "threats/factions (ch02-scoped)" }
+      - { path: docs/entity_registry.yaml,     role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,  role: "unpromoted confirmed names (campaign-standard)" }
+  scenes:
+    - scene: "01_ambush_at_the_blood_stained_altar.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene01.md"
+      issues_found: 7
+      resolution:
+        applied:
+          - { finding: 3, fix: "Relabeled 'Scene summary (from gm-assist, verbatim)' -> '(from gm-assist, augmented with transcript detail)' — bullets were augmented + one new (initiative roll) bullet added, not verbatim." }
+          - { finding: 4, fix: "Reworded 'discovering he'd been reading the wrong character sheet' to avoid an ungrounded pronoun; noted 'Varas' is a garble for a character sheet from a different, unrelated campaign (GM-confirmed, not a Phandalin entity — not promoted to registry/glossary)." }
+          - { finding: 5, fix: "Added speaker attribution to 3 summary bullets that fused quotes from different speakers into one breath (Soma's 'big old pile of mustard' + Vukradin's AC line; the outranked/eight-years exchange split across Vukradin and Soma; 'Well, that's crap' reattributed from ambiguous-reads-as-Brewbarry to Soma)." }
+          - { finding: 6, fix: "Annotated 'Devar, are you-' as almost certainly 'Dave' — inline note only, not added to the transcription-corrections glossary (too short/ambiguous a form to safely globally replace)." }
+        rejected:
+          - finding: 1
+            ruling: "Not a scene defect. Traced to docs/chapters/chapter_02_arrival_in_phandalin.md narrating both ogre fights out of order relative to this session's dwarven-ruins content — GM confirmed chapter 2 (hand-authored, no VTT) collapsed/misordered material from what became the 20250528 and 20250603 sessions. Filed as github.com/kostadis/campaigns#183. No edit made to this scene."
+          - finding: 2
+            ruling: "Verified TRUE, not an error. Accent-safe grep for Stéphane/Bourdeaud across all 3 transcript variants (speakers.vtt, cleaned.dedup.md, raw GMT export) returned zero hits session-wide — Gary covering Brewbarry for the absent Stéphane is confirmed. No edit needed."
+        gm_rulings_this_run:
+          - "'Varas' character sheet: GM confirmed Wade had a character sheet from a different, unrelated campaign open by mistake — not a Phandalin PC, NPC, or entity. Left as-is in the verbatim quote (accurately transcribed) with an explanatory editorial note; explicitly NOT added to entity_registry.yaml or vtt_transcription_corrections.md since it names nothing in this campaign."
+      vtt_adjudicated: |
+        Consulted by hand (not --context): session_20250528_transcript.speakers.vtt (primary),
+        GMT20250528-035553_Recording (1).cleaned.dedup.md (cross-check), GMT20250528-035553_Recording (1).md (raw).
+        - Finding 2 (Stéphane absence): all three variants agree, zero hits for Stéphane/Bourdeaud in any form.
+        - Finding 5 ("Varas"): all three variants transcribe identically ("Varas' character sheet") —
+          confirmed a genuine ASR/real-world garble, not a summarizer invention, and confirmed by GM as
+          referring to an out-of-campaign character sheet.
+        - Cross-checked docs/archive/campaign_state_ch02.md + docs/chapters/chapter_02_arrival_in_phandalin.md
+          (ogre content, lines ~350-478) against summaries/20250603-chapter-04-new/session-summary.md to
+          confirm the real chronology: both ogre fights are narrated in the 20250603 ("New Chapter 4")
+          session, occurring AFTER this (20250528) session's dwarven-ruins content, not before it.
+      carry_forward:
+        - status: OPEN
+          item: "docs/chapters/chapter_02_arrival_in_phandalin.md and docs/archive/campaign_state_ch02.md narrate both ogre fights out of chronological order relative to the dwarven-ruins/ochre-jelly content that is actually this session (20250528, now Chapter 3). GM to reorder/split chapter 2's prose and regenerate the ch02 archive. Tracked as github.com/kostadis/campaigns#183."
+
+    - scene: "02_battle_with_the_ochre_jellies.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene02.md"
+      issues_found: 12
+      resolution:
+        applied:
+          - { finding: 4, fix: "Deleted the duplicated '[Initiative]' and '[The First Split]' verbatim blocks. gm-assist.md's own canonical scene boundary places the initiative roll + halberd/split as the closing beat of scene 01 ('Ambush at the Blood-Stained Altar'), already correctly extracted there; scene 02 had re-included the same verbatim quotes, which would have narrated the same beat twice. Replaced with a one-line editorial pointer to scene 01." }
+          - { finding: 3, fix: "Reworded the opportunity-attack summary bullet: was 'Vukradin runs to hide behind the altar, triggering an opportunity attack' (implies an ally's movement provokes another ally's OA, impossible under 5e); now attributes the OA correctly to a jelly pursuing Vukradin leaving Brewbarry's threatened reach. Verbatim quotes untouched." }
+          - { finding: 5, fix: "Reworded 'shoved diagonally into a corner' (inverted the actual geometry) to 'angled diagonally to clear the wall' — matches the verbatim exchange where Vukradin corrects the GM's initial straight-line placement." }
+          - { finding: 7, fix: "Reworded the Starry Wisp/split bullet to stop attributing the split's cause to the radiant damage; the GM's on-tape ruling ('He's probably split by now') is vague and doesn't state a mechanism, unlike the halberd/slashing split earlier in the fight." }
+          - { finding: 6, fix: "Annotated 'One down, three to go' as a live table miscount (only two jellies remained), so no downstream doc infers a phantom fourth jelly. Quote itself preserved verbatim." }
+          - { finding: 12, fix: "Fixed the duplicated/corrupted speaker header ('environmental tex**Soma** — *environmental texture...*') by removing the truncated fragment; also added an editorial note that the 'plus one mace' line is confirmed (via VTT speaker label) as Wade's in-character banter, not a GM item grant." }
+          - { finding: 11, fix: "Added 'Lucrotten' to the Vukradin wrong-forms row in notes/vtt_transcription_corrections.md (user confirmed via AskUserQuestion before the add, per standing spell-pass protocol)." }
+        rejected:
+          - finding: 1
+            ruling: "Same root cause as scene 01 finding #1 (chapter-2 chronology). Already tracked at github.com/kostadis/campaigns#183 and in scene 01's carry_forward. Not a new defect; no action taken here."
+          - finding: 2
+            ruling: "VTT-adjudicated TRUE, not an error: both dwarf interjections transcribe exactly as the scene doc has them (first: Dazlyn=safety/Norbus=damage; second: Norbus=safety/Dazlyn=damage) — the GM genuinely swapped which dwarf voices which concern between the two interjections, live at the table. The scene extraction is accurate; the mismatch is against gm-assist.md's NPC dossier characterization (which describes each dwarf's concern as fixed), not against this document. No edit made to the scene."
+          - finding: 8
+            ruling: "REJECTED as a false positive. The checker guessed 'Hey, he healed me very / well, though' was one speaker split by a block boundary. VTT speaker labels confirm it is genuine cross-talk between two different real players — Dave Mendenhall then Wade Brown — not a merge artifact. The doc's existing attribution (Vukradin, then Soma completing) is already correct. No edit."
+          - finding: 9
+            ruling: "REJECTED as a false positive on the specific line. VTT confirms Gary Young himself said 'Nice. Natural one. Well done, Gary.' — genuine self-directed banter after a bad roll, correctly placed in his own speaker block, not a mislabel. The doc's broader caveat about GM-block diarization (other lines, e.g. the opportunity-attack question, genuinely do get absorbed into Kostadis's block) remains a valid standing caveat and is not disputed — but this specific line needed no fix."
+          - finding: 10
+            ruling: "Confirmed via VTT as genuine table banter (Wade improvising corrosion flavor text, not a GM item grant) — matches the report's own hypothesis. No item added to any inventory or registry. Annotated in-doc (see finding 12's applied fix) rather than left silent."
+        gm_rulings_this_run:
+          - "Confirmed adding 'Lucrotten -> Vukradin' to notes/vtt_transcription_corrections.md via AskUserQuestion."
+          - "Confirmed applying all 5 proposed scene-doc edits (findings 3, 4, 5, 6, 7, 12) via AskUserQuestion."
+      vtt_adjudicated: |
+        Consulted by hand (not --context): session_20250528_transcript.speakers.vtt (primary; this scene's
+        findings were resolved entirely from this file — the two other transcript variants were not needed).
+        - Finding 4 (Initiative/First-Split duplication): confirmed against gm-assist.md's own scene-boundary
+          bullets (scene 1 ends with the halberd/split; scene 2 opens with "the two ochre jellies attack the
+          party") rather than the tape directly — a structural/provenance check, not a wording check.
+        - Finding 2 (Dazlyn/Norbus swap): grepped both interjections (cues ~248-250 and ~2223-2231)
+          verbatim against speakers.vtt — confirmed the doc transcribes the GM's live swap exactly as spoken.
+        - Finding 3 (opportunity attack): read cues 251-256 in full — "Do I get an attack of opportunity"
+          is a GM-block-absorbed question (almost certainly Gary/Brewbarry's player, per the known GM-block
+          merge pattern), immediately followed by the punch-vs-halberd choice. Confirms an OA happened and
+          Brewbarry took it; the ally-provoking-ally reading in the original summary bullet was the error,
+          not the underlying fact.
+        - Finding 8 ("he healed me"): read cues 368-379 in full. Speaker labels show cue 378 = Dave
+          Mendenhall, cue 379 = Wade Brown — two distinct real players mid-banter about the 1-point Sacred
+          Flame, not a single speaker split by a transcript block boundary. Checker's hypothesis was wrong.
+        - Finding 9 ("Well done, Gary"): matched directly to cue 1939, speaker Gary Young, self-directed
+          banter after his own natural-one roll — not a diarization artifact.
+        - Finding 10 ("+1 mace"): matched to cue 2115, speaker Wade Brown (Soma's player), not the GM —
+          confirms table-humor flavor text rather than an actual item ruling.
+      carry_forward:
+        - status: OPEN
+          item: "gm-assist.md's NPC dossier entries for Dazlyn and Norbus describe each dwarf's concern (safety vs. site-damage) as fixed/distinct, but the VTT shows the GM swapped which dwarf voices which concern between this session's two interjections. Low priority — cosmetic dossier drift, not a play-affecting error. Consider softening the dossier language on a future gm-assist pass rather than editing this scene."
+
+    # --- Scenes 03-10: reviewed via an interactive Accept/Reject/Discuss artifact
+    # (published as a claude.ai Artifact, decisions exported to
+    # phandalin_ch3_scene_decisions.json and read back in). No findings were
+    # rejected in this run. Several "discuss" items were resolved inline via the
+    # note field the GM attached to each decision; those are recorded as
+    # gm_rulings_this_run on each scene, not as a separate approval step.
+    #
+    # Process note (GM, mid-run): this session's transcript speaker attribution
+    # was produced by ASR/voice-recognition software, not manual per-participant
+    # Zoom tracks, and is known-unreliable. This is why so many findings this
+    # stage turned out to be diarization drift (lines folded into the GM's
+    # block, a line landing on the wrong player's track) rather than summarizer
+    # invention — treat any remaining "GM-confirm" / "unconfirmed" annotation
+    # in scenes 03-10 as a live open question, not settled.
+
+    - scene: "03_archaeologists_and_altars.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene03.md"
+      issues_found: 9
+      resolution:
+        applied:
+          - { finding: 1, fix: "Deleted the duplicated mid-combat Dazlyn/Norbus verbatim block (12 quote pairs, 'Is everybody okay there?' through 'my God.') — confirmed byte-for-byte duplicated from scene 02's [The Dwarves Shout from the Sidelines] / [The Dwarves Interject Again]. Replaced with a one-line pointer to scene 02, matching the scene01<->02 precedent. This also moots the attribution question the finding raised (the content doesn't belong in this scene at all)." }
+          - { finding: 2, fix: "Resolved indirectly: gm-assist.md's Summary sentence ('not about the party's wellbeing') was reworded as part of scene 06's fix (finding B.9 there, same paragraph) to 'Norbus about the potential damage... Dazlyn about the party's own safety.'" }
+          - { finding: 3, fix: "Added a clarifying sentence to the sending-stones bullet: dwarves deflect both demands, stones withheld until the ruins are fully cleared, handed over only at session's end." }
+          - { finding: 5, fix: "Deleted the truncated/duplicated first fragment of the prospectors' protest caption, kept the complete quote." }
+          - { finding: 6, fix: "Corrected 'Morning Lord' -> 'Morninglord' in the verbatim quote (glossaried wrong-form)." }
+          - { finding: 7, fix: "Reworded the 16-perception bullet to hedge the attribution: 'The GM awards the find... to Valphine (a 16 on perception, speaker uncertain in the captions)' instead of stating it flatly." }
+        not_carried:
+          - { finding: 4, note: "Ogre #2 / Gnomengarde timeline gap — same root cause as scene01 finding 1, already tracked at github.com/kostadis/campaigns#183. No new action." }
+          - { finding: 8, note: "Brewbarry/Stéphane absence from captions — already verified TRUE session-wide in scene01's rejected finding 2 (accent-safe grep, zero hits). Applies here too; no new check needed." }
+          - { finding: 9, note: "Minor interpretive stretches ('four hit points apiece', 'Norbus and Dazlyn emerge') — left as-is per the report's own 'keep both readings, mark as inferred' framing; low value to hand-edit further." }
+      vtt_adjudicated: |
+        Cross-referenced scene 02's already-fixed doc (docs on disk, not the tape directly) to confirm
+        the mid-combat dwarf-shout block was a verbatim duplicate, not independently-transcribed content —
+        same GM/Dave lines, same wording, same order, appearing in both scenes' Verbatim Moments sections.
+      carry_forward:
+        - status: OPEN
+          item: "Confirms (does not newly discover) the scene02 carry_forward item: the GM genuinely swapped which dwarf voices which concern between the two on-tape interjections; gm-assist.md's NPC dossier still describes each dwarf's concern as fixed. No new action beyond what scene02 already logged."
+
+    - scene: "04_the_skull_cavity.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene04.md"
+      issues_found: 13
+      resolution:
+        applied:
+          - { finding: 2, fix: "'We found 10' reattributed from Valphine to Soma in the scene summary (verbatim section already had it correct under Soma's label)." }
+          - { finding: 3, fix: "Gem split corrected 7/8 (party/dwarves) -> 8/7, per the GM's on-tape 'actually make it eight' and Soma's arithmetic (4 people x 2 each = 8). Propagated to gm-assist.md's Scenes and Items sections." }
+          - { finding: 4, fix: "Added a hedge to the sending-stones/50gp line and its verbatim annotation: the speaker split across 'I'm here for the' / 'sending stones and...' is unconfirmed, may be entirely Soma's line." }
+          - { finding: 5, fix: "Relabeled 'Scene summary (from gm-assist, verbatim)' -> '(expanded from gm-assist against the transcript)'." }
+          - { finding: 6, fix: "Reworded the insight bullet: Vukradin voices the suspicion, THEN fails the check that would have confirmed it (was backwards — read as post-check knowledge)." }
+          - { finding: 8, fix: "Annotated the Valphine-labeled block: its tail ('I'm right next to the other...') continues into Vukradin's next block and describes his position — likely a cross-speaker fold." }
+          - { finding: 9, fix: "Reworded 'stations himself warily' to the actual beat: Vukradin protests his token being moved, then jokes about it Scooby-Doo style." }
+          - { finding: 12, fix: "Repaired the corrupted/duplicated Coda speaker tag." }
+          - { finding: 13, fix: "Hedged the 'Think so' attribution to Soma as plausible-but-unlabeled, matching the doc's own verbatim caveat." }
+          - { finding: 7, fix: "DISCUSS, resolved by GM note ('Nick is my son's name, he probably walked into the room'): annotated as an OOC address to the GM's son, not an in-fiction reference or a transcription garble. NOT added to vtt_transcription_corrections.md (it names a real person outside the fiction, not a campaign entity)." }
+          - { finding: 10, fix: "DISCUSS, resolved by GM note ('Fix to Norbus'): 'the museum only needs half of it' reattributed from Dazlyn to Norbus in the scene summary." }
+          - { finding: 11, fix: "DISCUSS, resolved by GM note ('Valphine'): split the previously-unlabeled 'I'll just pull out my dagger and sharpen it a little bit' out as its own Valphine-attributed line." }
+        propagation:
+          - "Also corrected two more instances of the glossaried 'Morning Lord' -> 'Morninglord' wrong-form in this scene's own verbatim quotes (not separately itemized in the report, but the same approved glossary fix as scene03 finding 6)."
+        not_carried:
+          - { finding: 1, note: "50gp/timeline framing — folded into the master-timeline card; gm-assist.md reworded there, scene doc's verbatim quote left as spoken (it's what was actually said at the table)." }
+        gm_rulings_this_run:
+          - "Nick = the GM's son, present in the room; not a glossary entry."
+          - "'The museum only needs half of it' = Norbus, not Dazlyn."
+          - "Dagger-sharpening line = Valphine."
+      vtt_adjudicated: |
+        session_20250528_transcript.speakers.vtt cross-checked directly for the 'We took a worthless piece
+        of green glass' / gem-split exchange context (see scene09/10 below); no additional VTT grep needed
+        for the GM-note-resolved discuss items (Nick / Norbus / Valphine) since the GM ruled directly.
+      carry_forward:
+        - status: OPEN
+          item: "Vukradin's daggers (used throughout this session) aren't in any Ch.2-era grounding doc (world_state lists clarinet/flute + rapier). GM-confirmed real ('Vukradin had the daggers') — add to the next grounding-doc pass (docs/archive/party_ch02.md), not a scene-doc fix."
+
+    - scene: "05_exploring_the_stone_bedrooms.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene05.md"
+      issues_found: 8
+      resolution:
+        applied:
+          - { finding: 1, fix: "Hedged the religion-check (17) attribution to Valphine: roll lands on Dave's caption, GM audibly unsure whose result counts, rules it to the cleric." }
+          - { finding: 2, fix: "Hedged the 22-perception treasure sweep as inferred, not tape-confirmed (Valphine's audio merges into the GM's caption in this segment)." }
+          - { finding: 3, fix: "Added a diarization-gap note at the top of the scene doc: no Valphine or Brewbarry caption survives anywhere in this scene; every Valphine attribution is inferred." }
+          - { finding: 5, fix: "'The dwarves could have used normal doors' composite quote attributed to Soma alone, trimmed to her caption's actual words." }
+          - { finding: 6, fix: "Hallway geography reworded: 'rubble blocking one end (west, per the GM's on-the-fly correction), a door to the east' instead of 'filled with rubble.'" }
+          - { finding: 7, fix: "'Repeatedly runs back and forth' rescoped to this scene's single run, framed as 'the first of what becomes a running gag this session.'" }
+          - { finding: 5-b, fix: "'The archaeologists' -> 'the dwarf prospectors' — this scene predates the amateur-archaeologist reveal (which happens later, in scene 09)." }
+        not_carried:
+          - { finding: 4, note: "Ogre #2/Gnomengarde timeline gap — already tracked at github.com/kostadis/campaigns#183. No new action." }
+      vtt_adjudicated: "No new VTT grep needed beyond what the report already quoted; all fixes were hedging/rewording, not new fact claims."
+      carry_forward: []
+
+    - scene: "06_the_priest_s_remains.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene06.md"
+      issues_found: 10
+      resolution:
+        applied:
+          - { finding: "A.1", fix: "Relabeled 'Scene summary (from gm-assist, verbatim)' -> '(expanded from gm-assist against the transcript)'." }
+          - { finding: "A.2", fix: "DISCUSS, resolved by GM note ('The DC succeeded'): scene summary and verbatim now state the sleight-of-hand succeeded (GM-confirmed) rather than hedging; the symbol is recorded as now in Valphine's possession (also fixed in gm-assist.md's Items entry)." }
+          - { finding: "A.3", fix: "DISCUSS, resolved by GM note ('Everyone but Vukradin saw it'): rewrote the knowledge-boundary language — in fiction, Soma and Brewbarry's characters see the theft; Vukradin's does not (no sight-line). Applied to both the scene summary and the [The Sleight of Hand] verbatim header." }
+          - { finding: "A.4", fix: "DISCUSS, resolved by GM note ('This was table talk by Dave'): 'Surrounded by thieves' reannotated as Dave's table talk, not an in-character observation, and the 'table's collective larceny' framing dropped." }
+          - { finding: "B.6", fix: "gm-assist.md Memorable Moments: deleted the fabricated 'standing house rule' about Vukradin's passive perception; replaced with the actual explanation (sight-line, not a house rule). Bold header line and Items/Scenes entries updated to match (successful theft, not 'attempts')." }
+          - { finding: "B.7", fix: "gm-assist.md Summary paragraph rewritten to the transcript's actual order and speech (Valphine's body announcement is spoken, not silence); dropped the 'silence spoke volumes' flourish." }
+          - { finding: "B.8", fix: "gm-assist.md Locations -> Collapsed Tunnels: 'mining tunnels' -> 'collapsed passages/tunnels (nature unspecified — GM corrected on tape)'." }
+          - { finding: "B.9", fix: "gm-assist.md Summary paragraph (ochre-jelly fight): 'not about the party's wellbeing' -> 'Norbus about the... site, Dazlyn about the party's own safety' — matches the NPCs section, which was already correct." }
+          - { finding: "D (faff about)", fix: "Removed the annotation claiming the line's first words 'land under the GM's label' — both fragments are already correctly under Soma's label; annotation just disagreed with its own rendering." }
+        not_carried:
+          - { finding: "A.5", note: "'Aware of the discovery' ambiguity — resolved implicitly by A.3's rewrite (now explicit about who's aware of what)." }
+          - { finding: "C.10", note: "Ogre #2 timeline gap — already tracked at github.com/kostadis/campaigns#183." }
+          - { finding: "D (unattributed door line)", note: "'there's an obvious door, so we'll go with that' — already correctly flagged in-doc as unattributed GM-block crosstalk; no firmer speaker ID available. Left as-is." }
+        gm_rulings_this_run:
+          - "Sleight-of-hand DC was beaten — theft succeeded (GM-confirmed, not stated aloud on tape)."
+          - "In fiction: Soma and Brewbarry's characters witnessed the theft; Vukradin's character did not."
+          - "'Surrounded by thieves' is Dave's out-of-character table talk."
+      vtt_adjudicated: "No new grep beyond what the report already quoted; the open questions here were GM rulings, not tape-findable facts."
+      carry_forward: []
+
+    - scene: "07_ambush_behind_the_altar.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene07.md"
+      issues_found: 15
+      resolution:
+        applied:
+          - { finding: 1, fix: "Relabeled 'Scene summary (from gm-assist, verbatim)' -> '(expanded from gm-assist against the transcript)'." }
+          - { finding: 2, fix: "Deleted the unsupported 'Never tell me the odds' quote — confirmed (this session, prior work) as imported from scene 02's distinct odds/evens moment (VTT line ~1883 vs. this scene's own odds/evens at ~3835). Kept the odds-or-evens mechanic description." }
+          - { finding: 3, fix: "Rewrote the Scene Wrap ending: the party presses on past the channel; Vukradin (for once) declines to report back immediately, per his own on-tape line." }
+          - { finding: 5, fix: "'It's almost like I'm a tank' reattributed from Valphine to Brewbarry (Gary's track) — Brewbarry, not Valphine, took the 17-point hit the line reacts to." }
+          - { finding: 6, fix: "Reworded the initiative bullet: the jelly rolled a minus-one and went last; the GM 'winning' a joke roll-off at 20 settled nothing mechanically." }
+          - { finding: 8, fix: "Annotated both unlabeled 'ogre' garbles (transcript for 'jelly'/'oozes') to match the doc's existing annotation convention elsewhere." }
+          - { finding: 9, fix: "Sacred Flame result corrected: 'avoids the light entirely' (a successful save deals zero, not partial) instead of 'avoids the brunt.'" }
+          - { finding: 13, fix: "'He's dead, Jim' reattributed to Soma explicitly (em-dash placement previously implied Brewbarry)." }
+          - { finding: 14, fix: "Annotated 'There's a portal' as the secret-door opening, not a magical portal." }
+          - { finding: 15, fix: "Repaired the corrupted '[Vuk**[Vukradin]**' speaker tag." }
+          - { finding: 10, fix: "Added a 'GM-confirm' flag to the Valphine-volunteers attribution (single merged Zoom track, per the report's own recommendation)." }
+          - { finding: 4, fix: "DISCUSS, resolved by GM note ('It was on Valphine'): Scene Wrap's 'Valphine rolled her third natural one' corrected to 'Gary rolled his third natural one (his first on Valphine's dice)' — matches what the scene summary already said; only the Wrap disagreed with itself." }
+          - { finding: 12, fix: "DISCUSS, resolved by GM note ('Vukradin says this'): annotated the 'I'm kind of done with those daggers' line as ambiguous on tape ('done with' vs. a garble of 'fond of') and kept as transcribed — speaker confirmed as Vukradin, semantic ambiguity noted rather than resolved." }
+          - { finding: 11, fix: "DISCUSS, resolved by GM note ('Vukradin had the daggers'): confirmed real, deferred to a future grounding-doc pass (docs/archive/party_ch02.md) per the report's own recommendation — no scene-doc text change needed." }
+        not_carried:
+          - { finding: 7, note: "Ogre #2 timeline gap — already tracked at github.com/kostadis/campaigns#183." }
+        gm_rulings_this_run:
+          - "The natural-one in the Scene Wrap was on Valphine's dice (Gary's third of the night overall)."
+          - "The daggers-ambiguous line is genuinely Vukradin's; the 'done with'/'fond of' ambiguity itself is left open."
+          - "Vukradin's daggers are confirmed real kit, pending a future grounding-doc update."
+      vtt_adjudicated: "'Never tell me the odds' cross-scene sourcing confirmed earlier this session (prior to this manifest write) via direct VTT line comparison between this scene's and scene02's odds/evens moments."
+      carry_forward:
+        - status: OPEN
+          item: "Vukradin's daggers: GM-confirmed real, not yet reflected in docs/archive/party_ch02.md or any Ch.2-era grounding doc. Same item as scene04's carry_forward — one grounding-doc pass covers both."
+
+    - scene: "08_the_hall_of_greed.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene08.md"
+      issues_found: 11
+      resolution:
+        applied:
+          - { finding: 2, fix: "Reordered the spliced DMG-picture/demon-statue quote to match actual utterance order." }
+          - { finding: 3, fix: "Added the emerald/glass character-knowledge split explicitly: GM named it an emerald out of character before the roll; 'worthless glass' is the party's in-character belief only, not the fact. Propagated to gm-assist.md's Items entry." }
+          - { finding: 4, fix: "'Faint magical aura' reworded to match the GM's actual phrasing ('some magic on the gem'); 'faint' flagged as summarizer wording. Propagated to gm-assist.md's Items entry." }
+          - { finding: 5, fix: "'The party identifies the area' -> 'The GM reveals the area...' (no character performed an identification). Propagated to gm-assist.md's Scenes entry." }
+          - { finding: 6, fix: "Attributed the 'you save those for the out of combat rolls' needle explicitly to Soma, addressed to Gary." }
+          - { finding: 8, fix: "Marked the 'Keep encouraging us that we can do anything' fragment as unattributed cross-talk, not necessarily Vukradin's, matching the doc's convention elsewhere." }
+        not_carried:
+          - { finding: 1, note: "Timeline contradiction with Ch.2 archive — already tracked at github.com/kostadis/campaigns#183." }
+          - { finding: 7, note: "'Grym'/'Hoop' garble tokens — left quoted-as-spoken per standing protocol; queued for the next /vtt-spell-pass GM ruling rather than silently glossed. No text change." }
+          - { finding: 9, note: "'Tanzanite' anachronism — table dialogue stays as spoken per precedent; flagged for the GM only, no doc change." }
+          - { finding: 10, note: "Mold Earth as a first appearance for Soma — verify-only against characters/soma.md, no doc change needed." }
+          - { finding: 11, note: "Trapped-statue informational note — entity_registry already correctly withholds this from party-facing text; no change." }
+      vtt_adjudicated: "No new grep needed; fixes were reordering/hedging against quotes the report already isolated."
+      carry_forward:
+        - status: OPEN
+          item: "'Grym' and 'Hoop' garble tokens (scene08 verbatim) queued for the next /vtt-spell-pass — do not add to notes/vtt_transcription_corrections.md without GM confirmation per standing protocol."
+
+    - scene: "09_amateur_archaeologists.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene09.md"
+      issues_found: 6
+      resolution:
+        applied:
+          - { finding: 5, fix: "Reordered the pre-return banter ('a dragon didn't find us') ahead of the report to the dwarves — it happens among the party first, not during the report." }
+          - { finding: 6, fix: "Annotated the earlier sending-stones-handover cue as the GM narrating ahead of himself; the canonical delivery is the later '[The Reward Delivered]' cue, per the GM-confirmed end-of-session-only ruling." }
+          - { finding: 4, fix: "DISCUSS, resolved via GM instruction ('Look at what the module says and adjust'): grepped the full session VTT for any carving-description beat supporting vtt_known_additions.md's 'depicted in the carvings' framing — found none. Reworded the annotation to state plainly that the employers are dwarves, not gnomes, and that no on-tape beat supports 'gnomes' as established temple imagery (contra the known-additions entry), leaving the likeliest reading as a slip or an echo of the upcoming Gnomengarde destination." }
+          - { finding: 1, fix: "GM-confirmed: NOT taken, left in place. Annotated Vukradin's 'We took a worthless piece of green glass' report line as loose table-speak for 'found/examined' — the gem stayed with the statue, per scene 08's explicit 'Just leave it there' and this GM confirmation. gm-assist.md's Items entry ('It was left in place') needed no change; it was already correct." }
+        gm_rulings_this_run:
+          - "Gem was left in place, not taken — Vukradin's 'we took' line to the dwarves is loose table-speak, not a change in the gem's disposition."
+          - "'Gnomes' in the temple-carving framing is not tape-supported as established lore; treat the vtt_known_additions.md entry's 'depicted in the carvings' claim as needing its own review (not actioned this run — the entry itself wasn't in scope)."
+        not_carried:
+          - { finding: 2, note: "50gp/reward timeline — folded into the master-timeline card." }
+          - { finding: 3, note: "Chapter location vs. Ch.2 archive ending — already tracked at github.com/kostadis/campaigns#183." }
+      vtt_adjudicated: |
+        Grepped session_20250528_transcript.speakers.vtt, both GMT...md variants, and "carv|depict" session-wide
+        for finding 1 (gem) and finding 4 (gnomes carving claim). Gem: zero additional context beyond the
+        already-quoted line. Gnomes: zero hits for "carv" or "depict" anywhere in the session — no carving-
+        description beat exists on tape; vtt_known_additions.md's framing for this entry appears to be an
+        unsupported embellishment added when the entry was first written (2026-08-02), not sourced from the
+        transcript. That known-additions entry itself was not edited this run (out of scope) but should be
+        reviewed.
+      carry_forward:
+        - status: OPEN
+          item: "vtt_known_additions.md's 'Gem of Greed' entry claims the carvings 'depict' the demon/gnomes scene, but no such description beat exists anywhere in this session's transcript. Worth a GM review of that glossary entry separately from this scene-doc pass."
+
+    - scene: "10_ambush_on_the_road.md"
+      report: "summaries/20250528-chapter-03-new/consistency_stage2_scene10.md"
+      issues_found: 7
+      resolution:
+        applied:
+          - { finding: 3, fix: "Hedged the 'We had servants' attribution in the scene summary (not just the verbatim section): transcript labels both the line and the reaction to it under Soma, which can't both be right on a single-speaker track; flagged as unconfirmed pending GM/tape review, and noted the session's ASR-based diarization is known-unreliable." }
+          - { finding: 5, fix: "DISCUSS, resolved via GM instruction ('Review what the module says'): same fix and same VTT finding as scene09 finding 4 — no carving-description beat on tape; reworded to state the employers are dwarves, not gnomes, and flag 'gnomes' as a likely slip or Gnomengarde echo rather than lore." }
+          - { finding: 7, fix: "Split the illogical 'despite' connective into two independent clauses (surprise and spent spell slots are unrelated facts)." }
+        not_carried:
+          - { finding: 1, note: "'Final reward' framing — folded into the master-timeline card; scene doc's verbatim/summary quote left as spoken (accurate to what was said), only gm-assist.md's own narration was reworded." }
+          - { finding: 2, note: "Timeline conflict with Ch.2 archive ending — already tracked at github.com/kostadis/campaigns#183." }
+          - { finding: 4, note: "Language claims (Valphine=Orc GM-ruled, Vukradin=Goblin+Undercommon not Orc) — already verified consistent against characters/vukradin.md and characters/valphine.md earlier this session; no action needed." }
+          - { finding: 6, note: "GM-completed-word splice ('Why are they attacking us?') — report itself calls this an acceptable readability composite; verbatim section is already the citable, correctly-annotated layer. No change." }
+      vtt_adjudicated: "Gnomes finding resolved via the same session-wide 'carv|depict' grep as scene09 (see there) — zero hits."
+      carry_forward: []
+
+    - scene: "session-summary.md (Stage 1 propagation pass)"
+      note: "Not a re-check — GM asked (2026-08-17) why session-summary.md hadn't received the scenes 01-10 / gm-assist.md corrections and requested it be propagated. session-summary.md is the Stage 1 enhanced-narrative document (built from gm-assist.md + VTT, closed earlier this session before Stage 2 began); this is a same-fact propagation, not a new review round, and covers ALL of this session's fixes (scenes 01-02 from earlier in the session, plus 03-10 from this round) since the GM's request wasn't limited to today's scope."
+      resolution:
+        applied:
+          - "Theft knowledge boundary (Priest's Remains): Soma/Brewbarry saw it, Vukradin didn't; symbol now in Valphine's possession; dropped 'silence spoke volumes' and 'table's collective larceny' framing (Summary paragraph, Memorable Moments, Scenes bullet, Holy Symbol item entry)."
+          - "Fabricated 'standing house rule' deleted (Memorable Moments), matching gm-assist.md's fix."
+          - "Gem split 7/8 -> 8/7, Dazlyn -> Norbus on 'the museum only needs half of it' (Summary paragraph, Scenes bullet, Gemstones item entry)."
+          - "'We found 10' reattributed Valphine -> Soma (Scenes bullet)."
+          - "'Think so' hedged as plausibly-Soma-but-unlabeled, not flatly hers (Scenes bullet)."
+          - "'Stations himself warily' reworded to the actual beat (protest, then Scooby-Doo joke) (Scenes bullet)."
+          - "Insight-suggests-museum-doubt reworded suspicion-then-failed-check, not backwards (Scenes bullet)."
+          - "Religion check (17) and 22-perception sweep hedged as tape-uncertain/inferred; hallway geography corrected; 'archaeologists' -> 'dwarf prospectors' (predates the reveal); composite bed-frame quote attributed to Soma; running-gag framing added for the vestments report (Scenes bullet + diarization-gap note)."
+          - "Sacred Flame 'avoids the brunt' -> 'avoids the light entirely' (Scenes bullet, both here and in gm-assist.md itself)."
+          - "'Never tell me the odds' deleted (unsupported, imported from a different scene's transcript window) (Scenes bullet)."
+          - "'He's dead, Jim' attributed to Soma explicitly (Scenes bullet)."
+          - "'these ogres' annotated as transcript garble for 'oozes'; Vukradin's declining-to-report beat restored (Scenes bullet)."
+          - "'You save those for the out of combat rolls' attributed to Soma, addressed to Gary; 'the party identifies the area' -> 'the GM reveals...'; DMG-picture/demon-statue quote reordered; gem aura/emerald-vs-glass character-knowledge split added (Scenes bullet, Locations entry, Summary paragraph, Items entry, Glowing Green Gem item entry) — this one needed fixing in BOTH session-summary.md and gm-assist.md, which had the same stale Summary-paragraph and Scenes-bullet text as each other, not just in the scene doc."
+          - "Pre-return banter reordered ahead of the report to the dwarves (Scenes bullet)."
+          - "'Final reward' / '50gp still owed' reworded to neutral ordering-question framing pointing at GitHub #183, in the Summary paragraph, Scenes bullet, and Sending Stones item entry — matching gm-assist.md's master-timeline fix."
+          - "'We had servants' attribution hedged as unconfirmed (Soma's track answering for Valphine, plus this session's ASR-diarization caveat) (Summary paragraph)."
+          - "Scene 01/02 propagation (per GM's explicit 'and scenes 01, and 02'): added missing per-quote speaker attribution to the AC-banter/outranked/'well that's crap' bullets (Ambush at the Blood-Stained Altar) to match scene_extractions/01's already-fixed wording; 'shoved diagonally into a corner' -> 'angled diagonally to clear the wall', opportunity-attack trigger clarified (jelly's movement, not Vukradin's), 'One down, three to go' annotated as a live miscount, Starry Wisp split-causation hedged as a vague GM ruling (Battle with the Ochre Jellies bullets) — all matching scene_extractions/02's already-fixed wording."
+        not_touched:
+          - "Dazlyn/Norbus concern-swap between the two mid-combat interjections — same open carry_forward item as scenes 01/02/03; session-summary.md's phrasing already matches the (correct, unswapped) first interjection and doesn't misstate it, so left as-is."
+          - "'Grym'/'Hoop' garbles, Vukradin's daggers grounding-doc gap, vtt_known_additions.md's gnomes/carving claim — none of these appear in session-summary.md's prose (it doesn't quote them), so nothing to propagate."
+      vtt_adjudicated: "None needed — every fix here is a same-fact mirror of an already-VTT-adjudicated finding from scenes 01-10 or gm-assist.md, not a new claim."
+      carry_forward: []
+
+    - scene: "master-timeline"
+      note: "Cross-scene card, not a single scene document — consolidates corroborating evidence from scenes 04/06/09/10 that the 50gp reward was framed on-tape as still-uncollected at session's end, contradicting docs/archive/campaign_state_ch02.md's 'Dwarven Quest Reward Collected' entry. Same root cause as github.com/kostadis/campaigns#183 (chapter-2 ordering)."
+      resolution:
+        applied:
+          - { fix: "Reworded gm-assist.md's 'Ambush on the Road' scene bullet: 'collect their final reward' -> neutral framing noting the ordering question and pointing at GitHub #183, per GM accept." }
+          - { fix: "Posted the drafted comment (scene04/06/09/10 corroborating evidence) to github.com/kostadis/campaigns#183, GM-confirmed: https://github.com/kostadis/campaigns/issues/183#issuecomment-5323027585" }
+      carry_forward: []

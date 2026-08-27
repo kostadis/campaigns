@@ -1,0 +1,22 @@
+# PC / sidekick names for this campaign — excluded from the entity registry
+# and from entity-triage candidate queues (registry.py reads this via
+# campaignlib.party.load_pc_names). Fragment forms (first name only, title
+# only) are listed as separate entries because Registry.known_names()'s
+# multi-word first-token expansion only applies to registry entities, not to
+# party.yaml names passed in via `extra` — so a bare "Zenvon" won't be
+# suppressed unless it's its own entry here.
+#
+# Source: docs/background/name_glossary.md's "campaign-original names"
+# appendix (2026-06-12) + docs/party.md.
+characters:
+  - name: "Zenvon Forepot"
+  - name: "Zenvon"
+  - name: "Veyra of the Blue Candle"
+  - name: "Veyra"
+  - name: "Sister Maela Dawnforge"
+  - name: "Sister Maela"
+  - name: "Maela"
+  - name: "Professor Orryn Voss"
+  - name: "Orryn Voss"
+  - name: "Orryn"
+  - name: "Professor"

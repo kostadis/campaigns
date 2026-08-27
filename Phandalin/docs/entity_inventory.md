@@ -1,4 +1,4 @@
-<!-- GENERATED from docs/entity_registry.yaml — do not hand-edit. Regenerate with: registry.py project -->
+<!-- GENERATED from docs/entity_registry.yaml — do not hand-edit. Regenerate with: registry project -->
 
 ## Concepts
 
@@ -8,6 +8,8 @@
 - **Material Plane** — Prime material realm where the Shard of the Moon's history unfolds
 - **Plane of Fire** — Elemental plane; source of the small fire elemental cat sold at the Grand Emporium, found near Mount Hotenow
 - **Shadowfell** — Plane to which the Shadovar sent a tower from Moonshadow Hall, eventually becoming the Shard of Night over Neverwinter
+- **Netheril** — Ancient Faerunian empire; referenced when describing the origin of a god later identified as an aspect of Gruumsh (Ch.7)
+- **Tortle** — Playable race; Soma is a Tortle druid
 
 ## Deities
 
@@ -25,14 +27,14 @@
 - **Corellon** — Elven deity; Vardis is a cleric of Corellon (Light Domain), exiled from every temple for theological flexibility
 - **Helm** — God of protection; one of the patron deities of the Order of the Gauntlet
 - **Hoar** — God of retribution; one of the patron deities of the Order of the Gauntlet
-- **KP** — Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
-- **Lathander** — Dawn deity; Valphine Sotorra became a devoted follower after her religious experience with sunlight on the surface
+- **Lathander** / **Morninglord** — Dawn deity; Valphine Sotorra became a devoted follower after her religious experience with sunlight on the surface
 - **Lolth** — Spider goddess, trapped in a demi-plane as part of a multi-century plan; her pawn Gromph Baenre's spell inadvertently triggered the Out of the Abyss crisis
 - **Myrkul** — God of death; active in the North (Dragon of Icespire Peak canon), potential architect of undead presence at Pirates' Skyhold
 - **Oghma** — God of knowledge; primary deity of the House of Knowledge, Neverwinter's great library
 - **Selûne** — Moon goddess who intervened in 1479 DR by sending shards to Toril, enabling the purification of the Shard of Night
 - **Torm** — God of duty; temporary priesthood installed in the Hall of Justice by Neverember during Tyr's absence
 - **Tyr** — God of justice; primary deity of the Hall of Justice; died in the late 1300s DR and was later resurrected
+- **Kazneporium Ketternopappux** / **KP** — Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
 
 ## Events
 
@@ -97,7 +99,7 @@
 - **Exile Aesthetic** — Tribal-coded youth culture in Neverwinter; grassroots assertion that the war's real meaning was carried by people outside the institutional framework; Brewbarry is its unwilling authentic center; structurally equivalent to Stroudism arrived at through culture
 - **First Faction** — Informal name for the four heroes (Stroud, Milo Goodbarrel, Malfire, Whistler) whose combined action clinched the metallic dragon alliance and ended Tiamat's summoning
 - **Greycloaks** — Conservative, non-violent faction of the Sons of Alagondar; led by Madame Rosene; meet in the Driftwood Tavern basement
-- **House Margaster** / **House Maragaster** — Noble house that stepped in to fill the distribution gap after the Manifold went dark; has relationship with the Commission's Harbor authority; killed Elara Seasong Meliamne
+- **House Margaster** — Noble house that stepped in to fill the distribution gap after the Manifold went dark; has relationship with the Commission's Harbor authority; killed Elara Seasong Meliamne
 - **Liberators of the Ordning** — Informal name for the adventuring party (Vardis, Orsik, Unla Key, Thistle, Pow) that freed Hekaton and negotiated the giant-mortal alliance
 - **Lord's Alliance** — Political alliance of major Northern cities; mobilized against Tiamat; Hekaton formally allied with them ending the War of the Giants; manages Orsik as an institutional symbol
 - **Many-Arrows** — Orc clan that previously occupied Neverwinter; last scout covertly present at the Port Crevice scouting for invasion opportunity
@@ -149,7 +151,7 @@
 - **Magick of Gnomengarde** — Shared gnome spellbook on a pedestal in the inventors' workshop; contains seven wizard spells
 - **Mithral Chain Mail** — Suit of magic chain mail hidden in a secret compartment in Big Al's wardrobe
 - **mystery key** — unique magic item found in a hidden coffer beneath the altar of fate at the shrine
-- **Necklace of Fireballs** — Magic item sealed with the dead wizard in the southeast sarcophagus of the Adventurers' Sepulcher
+- **Necklace of Fireballs** — FACT (provenance): magic item sealed with the dead wizard in the sarcophagus of the Adventurers' Sepulcher (DIP D7) — a room inside the Dragon Barrow, where Lady Alagondar and Azdraka are interred. Seven beads. Retrieved by VUKRADIN in ch31; he still carries it. CLAIM (UNVERIFIED, ch46): Ser Kaelen's note names Perrin Alagondar as the rightful owner — "a quiet Alagondar branch, no title, no army, a family that lost their dead's belongings to grave robbers a generation ago." Kaelen is relaying a recovery office's provenance match, not first-hand knowledge; the party has verified nothing. Do not record the grave-robber story as provenance — it is the claim, and the claim and the provenance are different things.
 - **Opalescent Conch** — Spellcasting focus taken from Miraal by Moesko; returning it to her cave lays her spirit to rest; worth 250 gp in a city
 - **Pole of Collapsing** — Gnome-made magic item stored in the Gnomengarde treasury, given as a reward for rescuing the kings
 - **Potion of Greater Healing** — Carried by Yargath; reward from the patrol encounter
@@ -171,6 +173,7 @@
 - **Leviathan** — Infamous pirate vessel captained by Harrag that ran aground in Neverwinter and became a tavern
 - **Neverember's lion sign** — Neverember's heraldic device displayed throughout Protector's Enclave as a symbol of his rule
 - **Meril's Staff** / **mentor's staff** — Soma's mentor Meril's sentient staff; grows leaves; contests Druid Council custody. Distinct from the ch45 Staff of Bird Calls.
+- **Candlekeep Working Paper No. 27** / **Candlekeep Report** — "The Hoarding Hero: Or, Why Some Adventurers Are Economically Indistinguishable From The Monsters They Slay." Issued by Candlekeep's Vault of Mercantile Histories; argues adventurers who refuse to circulate recovered treasure are deflationary and functionally indistinguishable from the dragons they slay. Neverember's lever on Vukradin — Aldus Hern raised the dragon comparison at the Moonstone Mask (Ch. 47).
 
 ## Locations
 
@@ -230,10 +233,10 @@
 - **Shrine of Luck** — Phandalin's only temple; dedicated to Tymora; normally tended by Sister Garaele
 - **Stonehill Inn** / **Stonehill Tavern** / **Stonehill** — Modest two-story roadhouse at the center of Phandalin; run by Toblen Stonehill
 - **Townmaster's Hall** — Stone building with bell tower; hosts the job board where quests are posted
-- **Mountain's Toe Gold Mine** / **mine** / **Mountain's Toe Mine** / **The Mine** — Gold mine owned by a Neverwinter business consortium, 15 miles northeast of Phandalin, overrun by the Whiskered Gang wererats
+- **Mountain's Toe Gold Mine** / **Mountain's Toe Mine** — Gold mine owned by a Neverwinter business consortium, 15 miles northeast of Phandalin, overrun by the Whiskered Gang wererats
 - **Umbrage Hill** — Hill a few miles south of Phandalin; site of Adabra Gwynn's windmill where potions of healing are sold
 - **Butterskull Ranch** — Cattle and horse ranch on the Triboar Trail, five miles east of Conyberry, owned by Alfonse Kalazorn
-- **Conyberry** / **Coneyberry** — Location of the old shrine the wererats previously used as a lair before being displaced by orcs
+- **Conyberry** — Location of the old shrine the wererats previously used as a lair before being displaced by orcs
 - **Crags** — Rocky, windswept hills dotted with old monster-infested mines
 - **Dragon Barrow** — Barrow mound ~40 miles northwest of Phandalin where Lady Alagondar and Azdraka were interred; haunted by will-o'-wisps
 - **High Road** — Road west of Phandalin that characters pass through en route to the Tower of Storms
@@ -253,7 +256,7 @@
 - **Triboar Trail** — Path south of Neverwinter Wood; route between Neverwinter and Triboar in the Dessarin Valley
 - **Waterdeep** — city beneath which lies Undermountain, setting of Waterdeep: Dungeon of the Mad Mage
 - **Dessarin Valley** — peaceful valley east of Phandalin, threatened by four elemental cults in Princes of the Apocalypse
-- **Axeholm** / **Axelholm** — Abandoned dwarven fortress carved into a mountain fifteen miles south of Phandalin, now haunted by a banshee and infested with ghouls
+- **Axeholm** — Abandoned dwarven fortress carved into a mountain fifteen miles south of Phandalin, now haunted by a banshee and infested with ghouls
 - **Dwarven Excavation** — Ancient dwarven settlement buried by an avalanche, located 15 miles southwest of Phandalin at the eastern end of a canyon
 - **Gnomengarde** — Small network of caves in the mountains southeast of Phandalin; home to a clan of reclusive rock gnomes known for magical inventions
 - **Icespire Hold** — Stone fortress on the icy northeast spur of Icespire Peak; former warlord stronghold, now Cryovain's lair
@@ -342,7 +345,7 @@
 - **Neverwinter Docks** — Active commercial port district, 24-hour operation, earthmotes still visible overhead
 - **Neverwinter River** — River flowing through Neverwinter; never freezes due to heat from fire elementals beneath Mount Hotenow
 - **Protector's Enclave** — District of Neverwinter; home of the market district, the Hall of Justice, and the carved stone plaque commemorating the giant-mortal alliance
-- **River District** / **River's District** — District that declined, causing older merchants to relocate to the Seven Suns Coster Market
+- **River District** — District that declined, causing older merchants to relocate to the Seven Suns Coster Market
 - **School of Wizardry** — Founded in 457 DR by the Covenant (Aganazzar, Ilyykur, Presper, Grimwald); destroyed by Red Wizards in 1081 DR
 - **Shard of the Moon** — Purified form of the Shard of Night after Selûnite intervention; alabaster white with a moonlight stairway that descends when three shards are placed within or below it
 - **Tower District** — Formerly wizard-tower-rich merchant district; seized by Many-Arrows orcs post-cataclysm, now considered cursed
@@ -350,7 +353,7 @@
 - **Driftwood Tavern** — Three-story tavern decorated with pre-destruction Neverwinter relics; operates since before the Spellplague; Greycloaks meet in its basement
 - **Port Crevice** — Dockside tavern managed by an unnamed young gnome; popular with sailors; harbors the last Many-Arrows orc scout
 - **Tarmalune Trade House** — Large warehouse complex on the southern docks operated by a Tarmalune trade cartel
-- **Displacement Manifold** — Planar routing device built and operated by the Commission at Neverwinter's docks as a commercial distribution service; went dark after the Commission refused Aletra's treaty ultimatum
+- **Displacement Manifold** / **Planar Manifold** — Planar routing device built and operated by the Commission at Neverwinter's docks as a commercial distribution service; went dark after the Commission refused Aletra's treaty ultimatum
 - **Helm's Hold** — Location associated with the Elden Vargas incident in 1479 DR
 - **Avernus** — First layer of the Nine Hells; co-residence of Tiamat and Zariel; where Iymrith fled after escaping the War of the Giants
 - **Calling Horn** — Settlement obliterated during the Uthgardtian barbarian uprising in the War of the Giants
@@ -380,25 +383,28 @@
 - **Grand Dame** — Former name of the Kee and Wing Casino in Yartar
 - **Kee and Wing Casino** — Casino operated by Pow (formerly the Grand Dame)
 - **Moonshadow Hall** — Location attacked by the Shadovar in 1379 DR; one of its towers was torn away and sent to the Shadowfell, eventually becoming the Shard of Night
+- **Common Chord** — Neverwinter tavern in the dock area past the Protector's Enclave. Vukradin's old venue, where he was periodically allowed to play and then thrown out without pay; now the hardest ticket in the city. Brewbarry remembers only the ale ("All I remember is a shitty ale. Good music, but shitty ale.").
+- **Counting House** — Neverwinter financial institution. The party holds a letter of recommendation for it and intends to use it to investigate the Lionshield Coster supply-chain disruption caused by the Displacement Manifold going dark. A Lord's Alliance letter advising caution about "certain adventurers from Phandalin" has already arrived there.
+- **Spire of the Morninglord** — Temple of Lathander in Neverwinter. The party committed to a dawn performance and sermon here (Ch. 47) and used the obligation to decline Neverember's proposed morning meeting. Referred to at the table as the Church of Lathander.
 
 ## NPCs
 
 - **Adabra Gwynn** / **Adabra** / **Adabra Adabra Gwynn** — Human midwife and apothecary who lives in the stone windmill on Umbrage Hill, devoted to Chauntea
 - **Alfonse Kalazorn** / **Big Al** / **Big Al Kalazorn** / **Alphonse Big Al Kalazorn** — Human veteran, retired sheriff of Triboar turned cattle and horse rancher, captured by orcs
-- **Cryovain** / **white dragon** / **dragon** — White dragon that killed six orcs near the mine roughly three days before the party arrives
+- **Cryovain** — White dragon that killed six orcs near the mine roughly three days before the party arrives
 - **Don-Jon Raskin** / **Raskin** / **Don-Jon** — No-nonsense overseer hired by Neverwinter consortium to manage Mountain's Toe Gold Mine; former prospector, privateer, and trader
 - **Elmar Barthen** / **Barthen** — Proprietor of Barthen's Provisions; lean, balding human of fifty years
 - **Falcon the Hunter** / **Gustaf Stellern** / **The Falcon** / **Falcon** — Human hunter and lodge owner, guides nobles from Neverwinter through Neverwinter Wood
-- **Gnerkli** / **King Gnerkli** / **king_gnercli** / **Gnercli** — Rock gnome king of Gnomengarde, married co-ruler, held prisoner by Korboz
+- **Gnerkli** / **King Gnerkli** / **king_gnercli** — Rock gnome king of Gnomengarde, married co-ruler, held prisoner by Korboz
 - **Halia Thornton** — Guildmaster of Phandalin Miner's Exchange; covert agent of the Zhentarim
 - **Horia Stonetallow** / **Horia** — Shield dwarf; clan liaison and crew leader for the Stonetallow clan at Mountain's Toe Gold Mine; principled and contract-minded
 - **Prutha** — Recurring NPC encountered at the Woodland Manse, Falcon's Hunting Lodge, Circle of Thunder, henge, and dining room; appears in later chapters (40–45)
-- **Sister Kaella** / **Kaella** / **Sister Kayla** / **Sister Kella** — Recurring NPC; appears across many locations including Neverwinter, Icespire Hold, Glacier of Whispers, Falcon's Hunting Lodge, Phandalin, and Woodland Manse (ch 16–44)
-- **Harbin Wester** / **Townmaster Harbin Wester** / **Townmaster Wester** / **Harbin** / **Harbin Townmaster** / **Townmaster** / **Townmaster Harbin** — Townmaster of Phandalin, half-brother of Tibor Wester, arranges supply deliveries to the camp
+- **Sister Kaella** / **Kaella** — Recurring NPC; appears across many locations including Neverwinter, Icespire Hold, Glacier of Whispers, Falcon's Hunting Lodge, Phandalin, and Woodland Manse (ch 16–44)
+- **Harbin Wester** / **Townmaster Harbin Wester** / **Townmaster Wester** / **Harbin** / **Townmaster** / **Townmaster Harbin** — Townmaster of Phandalin, half-brother of Tibor Wester, arranges supply deliveries to the camp
 - **Korboz** / **King Korboz** / **Mad King Korboz** — Rock gnome king of Gnomengarde, driven mad after a mimic attack, now holds Gnerkli captive
 - **Linene Graywind** / **Linene** — Master of the Lionshield Coster's Phandalin post; sharp-tongued human woman of thirty-five
 - **Sister Garaele** — Zealous elf acolyte tending the Shrine of Luck; Harper operative currently in Neverwinter
-- **Toblen Stonehill** / **Spider Man** / **Toblen Stonehill Spiderman** / **Toblen** — Proprietor of the Stonehill Inn; native of Triboar who came to Phandalin to prospect
+- **Toblen Stonehill** / **Spider Man** / **Toblen** — Proprietor of the Stonehill Inn; native of Triboar who came to Phandalin to prospect
 - **Xanth** / **Xanthopoulos** — Centaur driven from Neverwinter Wood by orcs; warns adventurers about the barrow and offers to guide them to the Circle of Thunder
 - **The Carver** / **Carver** — Major campaign villain; sorcerer-warlord who marched on Icespire Hold to bind the white dragon Cryovain, then burned Phandalin; defeated by the party
 - **Axeholm castellan** — Dwarf castellan who stayed behind to seal the fortress after the garrison fled; arose as a ghoul and guards the throne room
@@ -425,12 +431,12 @@
 - **Caramip** — Female rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Boney** — Sentient skeletal horse; companion to the party; gifted to Vukradin; can speak and has a distinct personality
 - **Corwin** — Elderly, world-weary cook and retainer at Falcon's Hunting Lodge
-- **Dabbledob** / **Dabblebob** — Female rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury key
+- **Dabbledob** — Female rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury key
 - **Dazlyn Grayshard** — Shield dwarf prospector and business partner of Norbus; forthright and honest to a fault
 - **Delebean** — Male rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Dimble** — Male rock gnome recluse working in the Gnomengarde kitchen
 - **Donnabella Fiasco** — Named sidekick character available to join the party
-- **Fibblestib** / **Fiddlestib** — Male rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury key
+- **Fibblestib** — Male rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury key
 - **Galandro Luna** — Named sidekick character available to join the party
 - **Inverna Nightbreeze** — Named sidekick character available to join the party
 - **Jabby** — Female rock gnome recluse sleeping in the Gnomengarde domiciles
@@ -450,12 +456,12 @@
 - **Talon Thornwild** — Named sidekick character available to join the party
 - **Tervaround** — Female rock gnome recluse working in the Gnomengarde kitchen
 - **Thistle** — Young clerk employed at Barthen's Provisions
-- **Tibor Wester** / **Tibor** / **Tribar Wester** — Human commoner, craven opportunist running the loggers' camp, half-brother of Phandalin's townmaster Harbin Wester
+- **Tibor Wester** / **Tibor** — Human commoner, craven opportunist running the loggers' camp, half-brother of Phandalin's townmaster Harbin Wester
 - **Ulla** — Female rock gnome recluse standing guard at the Gnomengarde guard post
 - **Uppendown** — Male rock gnome recluse working in the Gnomengarde kitchen
 - **Zook** — Male rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Azdraka** — Green dragon that terrorized the High Road; slain by Lady Alagondar and sealed in the barrow with her
-- **Dagult Neverember** / **Lord Neverember** / **Lord Protector** / **Neverember** / **Open Lord of Waterdeep** / **Lord Pretender** — Rules Neverwinter as Lord Protector in the absence of an heir to the Alagondar royal line
+- **Dagult Neverember** / **Lord Neverember** / **Lord Protector** / **Neverember** / **Lord Pretender** — Rules Neverwinter as Lord Protector in the absence of an heir to the Alagondar royal line
 - **Delsendra Amzarr** — Human warlord who built Icespire Hold; died by self-poisoning after her soldiers starved
 - **Halaster Blackcloak** — mad wizard who rules Undermountain beneath Waterdeep
 - **Hekaton** / **Storm Giant King** / **King Hekaton** — storm giant king who can end the giants' rampage in Storm King's Thunder
@@ -472,12 +478,12 @@
 - **Liset Cheldar** — Half-elf proprietor of the Moonstone Mask; friendly and openly flirtatious, ownership claim ambiguous but politically accepted by Neverember
 - **Madame Rosene** — ~70-year-old owner of the Driftwood Tavern; formerly secret leader of the Sons of Alagondar (Graycloaks); fount of Neverwinter political history
 - **Mordai Vell** — Leader of the Ashmadai cell in Bluelake; inherited Vellgard Manor after the 1451 DR cataclysm
-- **Rsolk** / **Rsalk** — One-eyed wererat leader of the Dead Rats thieves' guild, uses Neverwinter as a Sword Coast criminal hub
+- **Rsolk** — One-eyed wererat leader of the Dead Rats thieves' guild, uses Neverwinter as a Sword Coast criminal hub
 - **Soman Galt** / **Mayor Soman Galt** — Dwarf Mayor of the Protector's Enclave; Aboleth Sovereignty puppet serving as a lever inside the Commission's administrative layer
 - **Valindra Shadowmantle** — One of the five adventurers who awakened Maegera at Gauntlgrym, triggering the cataclysm; remained active in Neverwinter from the shadows of the graveyard
 - **Vagdru One-Ear** — Many-Arrows orc who restored the Fallen Tower as a neutral-ground tavern under agreement with Neverember
 - **Brewbarry** — Goliath barbarian (Phandalin party); unwilling authentic center of the Exile Aesthetic
-- **Vukradin** / **Vukardin** / **Bard** — Bard (Phandalin party); Exile Aesthetic's unwilling authentic center; structural receiver for the Counterforce; subject of Commission studio offer
+- **Vukradin** / **Bard** — Bard (Phandalin party); Exile Aesthetic's unwilling authentic center; structural receiver for the Counterforce; subject of Commission studio offer
 - **Bimble Nackle** — Gnome maintenance technician who serviced the Displacement Manifold; disappeared after approaching discovery that the failure was political; currently hiding in Neverwinter's lower docks district [GM-only name]
 - **Corrin** — Manifested counterweight to KP alongside Rimardo; Savras's instrument; part of the Counterforce
 - **Rimardo** — Manifested counterweight to KP; Savras's instrument; part of the Counterforce operating through individuals rather than institutions
@@ -497,7 +503,6 @@
 - **Bobrik Highmantle** / **Bosun** — Stout dwarf regular at the Beached Leviathan with a pet monkey; fiery temper; periodically banned
 - **Borrim Pickwhistle** — Publisher (imprint) of the Stroudite pamphlet 'Stroud and the Human Agency Hypothesis: A Critique'
 - **Brimine** — Red-skinned female tiefling; runs the Grand Emporium exotic pet shop; kind-hearted, talks to animals
-- **Cassian** — NPC who gives the party a description of Bimble Nackle that will make players assume it is KP
 - **Ettain** / **Caulker** — Half-elf handyman at the Beached Leviathan; skilled carpenter who knows every inch of the ship including its secrets
 - **Feng** — Bouncer at the Beached Leviathan; very large half-orc
 - **Hazel** — Cheerful female human alchemist working to restore Bluelake; runs the Alchemist's Lab
@@ -509,7 +514,7 @@
 - **Tabnab** — Cook at the Beached Leviathan; oddball human
 - **Umi** / **Helmswoman** — Watersoul genasi, Len-jes's cousin, combat-capable backup at the Beached Leviathan
 - **Yevelda** — Half-orc paladin of Tyr; Order of the Gauntlet contact for the Masonry quest
-- **Elara Seasong Meliamne** / **Elara Seasong Meliame** — Killed by House Margaster approximately 8 days before the party arrives in Neverwinter (session Ch. 46); date to be confirmed
+- **Elara Seasong Meliamne** — Killed by House Margaster approximately 8 days before the party arrives in Neverwinter (session Ch. 46); date to be confirmed
 - **Aganazzar** — One of the four founding wizards of the School of Wizardry (the Covenant); slain by Red Wizards in 1081 DR
 - **Bann Alagondar** — Son of Nasher Alagondar; founded the Alagondar royal family upon Nasher's death
 - **Escarlotta** — Owner of a cloud castle from which Unla Key ran the Liberators of the Ordning's operations during the War of the Giants
@@ -539,48 +544,52 @@
 - **Vardis** — Wood elf cleric of Corellon (Light Domain), exiled from every temple; member of the Liberators of the Ordning; returned with Orsik to Parnast and knows the full circlet secret
 - **Valanthe** — Young drow sorcerer who seduced and robbed Horst in his merchant days, then vanished
 - **Whistler** / **the Ardragon** / **the Shadow Werebear** — Kenku member of the First Faction, mythologized across three competing registers; associated with the white dragon Glazhael's lair
-- **Ser Kaelen** / **Ser Kaelen Thorn** / **Ser Kaelen Thorne** / **Sir Kaelen** / **Kaelen**
-- **Jenna** / **Jenna Roscoe** / **Jena Roscoe** / **woman** / **the woman in green**
+- **Ser Kaelen** / **Ser Kaelen Thorne** / **Kaelen**
+- **Jenna** / **Jenna Roscoe** / **woman** / **the woman in green**
 - **The Chief Accountant** / **Chief Accountant**
 - **Brin Bundlewine** / **Brin** / **Bryn**
 - **Giles Slipper Shine** / **Giles**
 - **Shrimpy** / **The Orc With The Necklace Of Bones Shrimpy** / **The Orc with the Necklace of Bones**
-- **Miral** / **Miral The Self**
-- **Meril** / **Meryl**
+- **Meril**
 - **Valphine** / **Valphine Sortorra** / **Valphine Sotorra** — Drow cleric who fled the Underdark chaos, had a religious experience with sunlight, and became a devoted follower of Lathander [Campaign Canon character]
 - **Aldric Stone Path**
-- **aletra**
-- **backes_dunfield**
-- **borg_the_hammer** / **Borg**
-- **cooragh_struckt**
-- **corbin**
-- **daran_edermath_silverleaf**
-- **delaan_winterhound**
+- **Backes Dunfield**
+- **Borg the Hammer** / **Borg**
+- **Cooragh Struckt**
+- **Corbin**
+- **Daran Edermath** / **Silverleaf** — Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling confirmed against docs/NeverwinterExpansionismandtheNorth.md ("Later, I would learn his name, Daran Edermath, but he's known as Silverleaf"); renamed from the slug canonical daran_edermath_silverleaf 2026-08-03.
+- **Delaan Winterhound**
 - **Drubbak**
 - **Dwolin the Grout**
-- **elara**
-- **jarek**
-- **jax**
-- **locutus**
-- **Lord Cassian Meliamne** / **Lord Cassian Meliame**
-- **lord_halueth_verres**
-- **lyra**
-- **marian**
-- **martisha_vinetalker**
-- **out_of_phase_dwarves_axelholm_inhabitants**
-- **qelline_alderleaf**
+- **Jarek**
+- **Jax**
+- **Locutus**
+- **Lord Cassian Meliamne** / **Cassian** — Sea elf noble of House Meliamne; COUSIN of Elara Seasong Meliamne — GM ruling 2026-08-03. The Ch. 47 tape has the Moonstone Mask staff and Cassian himself saying "brother"/"his sister"; that was an in-session slip, and campaign_state.md plus notes/neverwinter/neverwinter_network.md are canon. The ch47 recap narration was corrected to "cousin"; quoted dialogue was left as spoken. Gives the party a description of Bimble Nackle that will make players assume it is KP. Received the recovered Meliamne statue and paid Cullen Sharpe 200gp over the Harbor Authority writ rather than contest it (Ch. 47); asked the party to look for a connection between the Displacement Manifold outage and Elara's death.
+- **Lord Halueth Verres**
+- **Lyra**
+- **Marian**
+- **Martisha Vinetalker**
+- **Out-of-Phase Dwarves (Axeholm)**
+- **Qelline Alderleaf**
 - **Reidoth**
-- **rot_tusk_ogre** / **Rot-Tusk Ogres**
-- **runa**
-- **skippy**
+- **Rot-Tusk Ogre** / **Rot-Tusk Ogres**
+- **Skippy**
 - **Soma**
-- **sridar**
-- **sylvine_wintermoon** / **Sylvine**
-- **teega_the_smith**
-- **the_anchorite_half_orc**
-- **the_cult_fanatic**
-- **the_dwarven_king**
-- **the_orc_scout**
-- **the_stag**
-- **thomas**
+- **Sridar**
+- **Teega the Smith**
+- **The Anchorite Half-Orc**
+- **The Cult Fanatic**
+- **The Dwarven King**
+- **The Orc Scout**
+- **The Stag**
+- **Thomas**
 - **Vorga**
+- **Crabby** — Name the party gave the giant intelligent crab at the Tower of Storms; speaks Common, was gifted intelligence by the sea elf Miraal and remains loyal to her; offers to salvage wrecks (incl. the Star-Crossed Lover) in exchange for laying Miraal's spirit to rest
+- **Aldus Hern** / **Aldus** — Neverember's steward, lion livery. Delivered the Lord Protector's summons to the party at the Moonstone Mask (Ch. 47); secret Vukradin fan; invented a daughter, Alducia, rather than admit the autograph was for himself. Surname from notes/session_prep/20260616_neverwinter_arrival.md ("The steward's name is Aldus Hern"); the table uses the short form.
+- **Cullen Sharpe** — Associate of House Margaster. Presented a Harbor Authority writ asserting a prior salvage claim on the Meliamne statue at the Moonstone Mask and extorted 200gp from Lord Cassian Meliamne (Ch. 47); then pitched the party on Margaster handling distribution of goods recovered in the Phandalin hinterlands. Denied Margaster involvement in Elara's death.
+- **Alducia** — The daughter Aldus Hern invented on the spot rather than admit Vukradin's autograph was for himself (Ch. 47). Fictional — she does not exist. Vukradin clocked the lie and wrote the dedication anyway: "To Alducia, with love — Vukradin."
+- **Laeral Silverhand** / **Open Lord of Waterdeep** — Open Lord of Waterdeep and First Lord of the Lords' Alliance; named at the table in Ch. 47 ("Lady Laeral Silverhand, who's the open Lord of Waterdeep"). The 'Open Lord of Waterdeep' alias was previously attached in error to Dagult Neverember, who rules Neverwinter as Lord Protector; moved here 2026-08-03.
+- **Tuck Stonehill** / **Tuck** — Son of Toblen Stonehill; present at the Stonehill Inn, Phandalin. Named on the fly ch46 (2026-06-23); campaign name replaces the module's Pip. GM ruling 2026-08-07.
+- **Petunia** — Alphonse 'Big Al' Kalazorn's cow (not a humanoid NPC — typed npc as the registry has no creature type). Module NPC from Dragon of Icespire Peak. Recovered at Butterskull Ranch via Soma's Speak with Animals; grazes with Qelline Alderleaf; source of the Phandalin cheese, which is graded by which part of the field she grazed. Attends town gatherings — present on the town green for the UBT proclamation (ch46).
+- **Kostadinious the Sage** — In-world biographer who recorded KP's story. NOT KP — see notes/corrections/kp_identity_attribution.md.
+- **Aurelan Vance** / **Aurelan** — Banker at the Counting House, Neverwinter. Drafted ahead of play in notes/npcs/aurelan-vance.md as a Moonstone Mask guest (retired Enclave trade magistrate); GM ruling 2026-08-13 confirms the Counting House loan officer played in Ch.48 is the same NPC. Signed Brewbarry's bathrobe-business loan with Linene Graywind as shipping agent, pushed House Margaster as a cheaper distributor, and directed Vukradin to the Neverwinter Commission letter of credit. Canonical spelling is Aurelan per the 2026-08-13 GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre' and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct from Andrella, the Beached Leviathan barmaid.
