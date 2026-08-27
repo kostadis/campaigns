@@ -1,0 +1,317 @@
+consistency_check:
+  timestamp: "2026-08-03T12:04:01-07:00"
+  campaign: "out-of-the-abyss"
+  document_checked: "summaries/20260727/gm-assist.md"
+  document_class: "first-pass recap (GMAssistant export, 2026-08-03)"
+  report: "summaries/20260727/consistency_report_ch60.md"
+  config: "config/config.yaml (passed explicitly — no root config.yaml exists; the
+    config/ one already uses ../docs/ prefixes so it resolves correctly)"
+  model: "claude-code backend default (script default_model)"
+  backend: "claude-code"
+  issues_found: 10
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-07-27"
+  chapter_label_ambiguity: |
+    The recap is headed "Chapter 60". Two counters exist and they disagree:
+      - docs/chapters/ FILENAMES run to chapter_62_the_key_is_secured.md, which is
+        the session immediately preceding this one. By that counter this is Ch63.
+      - The INTERNAL header of that same file reads "# Chapter 59 The Key is
+        Secured". By that counter this is Ch60 — which is what the recap used.
+    Memory note `chapter-file-number-authoritative` says the filename wins, but
+    also that the two counters must not be conflated. Left for the GM to rule.
+  grounding_doc_staleness: |
+    NOT a backfill — the session is 7 days old. The mismatch runs the other way:
+    the grounding docs are STALE relative to the recap, and this is already filed
+    as notes/issues/20260727_grounding_docs_stale_ch62.md ("Grounding docs claim
+    Chapter 62 but reflect Chapter 61"). party.md still places the party
+    "confined in Deneir's Sanctum"; campaign_state.md still lists Bookwyrm as
+    Alive and Kalan's survival as uncertain. Every event in this recap post-dates
+    that state, so contradiction findings sourced from campaign_state/world_state/
+    party.md were treated as suspect by default. Report finding 6 was exactly this
+    class and was rejected.
+  speaker_map: |
+    Derived from the tape, not assumed from campaign docs.
+      Kostadis Roussos: = GM (590 cues)
+      Daz:              = Daz     / Mike Hall  (196)
+      Grygum:           = Grygum  / Ben Pfaff  (176)
+      Thorin:           = Thorin  / Joe Beda   (130)
+    ABSENT: Gabe (Zalthir). The GM ran Zalthir — stated outright in the session
+    prep ("Gabe absent; Kostadis ran him") and corroborated on tape: Zalthir is
+    named 14x under the GM's label and once under Thorin's, never under his own.
+    Every Zalthir attribution in the recap was therefore checked individually
+    rather than spot-checked.
+    NOTE: the .cleaned.vtt is the labelled file. The raw sibling carries the same
+    labels but as PLAYER names (Ben Pfaff:, Joe Beda:); session_20260727_transcript.vtt
+    is a second independent transcription with NO speaker labels at all.
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted confirmed names (campaign-standard)" }
+      - { path: notes/session_prep/20260727_candlekeep_high_tower_resume.md,
+          role: "session prep — POST-session co-GM board state at the cut; authoritative
+                 for HP, item custody and who was where. Highest-value file in the set." }
+      - { path: notes/sessions/handouts/player_npc_tracker_candlekeep.md,
+          role: "player-facing NPC tracker for the Candlekeep arc" }
+    not_passed_as_context:
+      - { path: summaries/20260727/GMT20260728-005909_Recording.transcript.cleaned.vtt,
+          role: "consulted BY HAND for every adjudication below — speaker-labelled and
+                 glossary-cleaned; the file this session's /vtt-spell-pass produced" }
+      - { path: summaries/20260727/session_20260727_transcript.vtt,
+          role: "second independent transcription, unlabelled — used only for
+                 wrong-form provenance counts (see notes)" }
+  notes: |
+    Chose the focused set + the resume board (GM-selected). The parent prep
+    20260727_candlekeep_the_man_with_the_metal_hand.md (44K) was deliberately
+    left out to avoid diluting the check; nothing in the run turned out to need it.
+
+    No `context file not found` warnings. No auto-continuation warning; the saved
+    report has 10 contiguous, correctly-numbered sections and a complete tail.
+
+    PROVENANCE FINDING that shaped the whole run: the recap's four wrong names are
+    SUMMARIZER INVENTIONS, not ASR garbles. Each appears zero times in both
+    transcripts AND zero times in every grounding doc and the bible:
+
+      form              recap  cleaned-vtt  sibling-vtt  TheUnderdark.md
+      Avainmore           35        0            0             0   (Aivenmore 12)
+      Stormbranch          4        0            0             0   (Strongbranch 20)
+      Bookworm             6        0            1             0   (Bookwyrm 87)
+      Darrl                3        0            1             0   (Daral 104)
+      Sylvyr               2        0            3             0   (Sylvira/Savikas)
+
+    Consequence: the corpus is CLEAN — no grounding-doc propagation to chase, and
+    no glossary rows are warranted for Avainmore/Stormbranch (they occur in no VTT,
+    so a row would fire on nothing). See carry_forward for the Sylvyr/Darrl nuance.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-03"
+    gm_rulings_this_run:
+      - "'if the tape says before, it's before' — the GM initially ruled that Zalthir
+         was knocked out BEFORE A'lai's monologue, which conflicted with three tape
+         timestamps. On seeing them the GM made the tape authoritative over
+         recollection. Finding B was then applied as originally scoped."
+      - "'Glabbagool doesn't attack — because GM was running a very complex
+         adventure, and that's why he didn't attack.' Confirms the recap's
+         'Zalthir and Glabbagool ... delivering punishing blows' over-credits
+         Glabbagool, but the GM chose to leave the wording alone."
+      - "'remove anything that is not in the session' — the recap's Locations /
+         NPCs / Items / Spells sections had inherited prior-session material from
+         the source transcript. GM directed a scope trim; see scope_trim below."
+    applied:
+      - { finding: 5,  fix: "A'lai Avainmore -> A'lai Aivenmore, 35 occurrences" }
+      - { finding: 1,  fix: "Bookworm -> Bookwyrm, 6 occurrences" }
+      - { finding: null, source: "reviewer (report MISSED this one)",
+          fix: "Kalan Stormbranch -> Kalan Strongbranch, 4 occurrences" }
+      - { finding: 10, fix: "Darrl -> Daral, 3 occurrences" }
+      - { finding: 2,  fix: "Sylvyr -> Sylvira, 2 occurrences (report said 1)" }
+      - { finding: 7,  fix: "Real High Tower Key labelled #2 in the Items entry, the
+                             Summary and Scenes bullet 51; noted that key #1 is still
+                             A'lai's and the sealed door needs both" }
+      - { finding: "A (reviewer, VTT-only)",
+          fix: "'severely wounded' second thug corrected to 2 damage in both places
+                (Scenes bullet 54 and Spells -> Tasha's Caustic Brew); added the
+                8-kills-one / 2-on-the-other split and the DC 17 save" }
+      - { finding: "B (reviewer, VTT-only)",
+          fix: "Zalthir's knockout moved after the monologue in the Summary and the
+                premature copy removed from Scenes bullet 45 (which now records the
+                26-to-Daz / 29-to-Zalthir hit instead). Scenes bullet 52 already had
+                it correctly placed and was left alone." }
+      - { finding: "C (reviewer, VTT-only)",
+          fix: "Summary no longer says Thorin 'rattled the other' thug — both attacks
+                and the Menacing Attack went at one thug, who made the DC 16 save" }
+      - { finding: "minor (GM-selected)",
+          fix: "Spells -> Bless now records that Grygum dropped it at the end to
+                concentrate on Tasha's Caustic Brew" }
+    scope_trim:
+      directive: "GM: remove anything that is not in the session"
+      rule_applied: "An entry stays only if THIS session's tape supports its content.
+                     Verified by grep against the .cleaned.vtt, not by inference."
+      deleted:
+        - { entry: "Locations -> Bookwyrm's Office",     tape_hits: 0 }
+        - { entry: "Locations -> Sea Warden's Tower",    tape_hits: 0 }
+        - { entry: "Locations -> North Gallery Rotunda", tape_hits: 0,
+            note: "session actually opens in transit — GM's first line is 'The high
+                   tower loomed ahead of them'" }
+        - { entry: "NPCs -> Fembris",                    tape_hits: 0 }
+        - { entry: "NPCs -> Bookwyrm",                   tape_hits: 1,
+            note: "only as A'lai's aside 'Bookwyrm's dead'; her murder is Ch62. The
+                   aside survives in the Summary." }
+        - { entry: "NPCs -> Kalan Strongbranch",         tape_hits: 0,
+            note: "never mentioned once this session — yet his name was one of the
+                   recap's four invented spellings" }
+        - { entry: "Items -> Scroll of Detect Magic",    tape_hits: 0 }
+        - { entry: "Items -> Decoy High Tower Key",      tape_hits: 0 }
+        - { entry: "Items -> Watcher's Stair Key",       tape_hits: 0 }
+        - { entry: "Spells -> Detect Magic",             tape_hits: 0 }
+      rewritten_not_deleted:
+        - { entry: "NPCs -> Tadric",
+            note: "trimmed the Ch62 rescue; kept this session's beats (freshly healed,
+                   'I faced Moziqodo!', insists on coming, says someone must tell
+                   Sylvira)" }
+        - { entry: "NPCs -> Moziqodo", tape_hits: 3,
+            note: "all three are references, not events — recast as the death Sylvira
+                   has not been told of and the arrival A'lai is still waiting for" }
+        - { entry: "Items -> Dawnbringer", tape_hits: 6,
+            note: "prior-session description replaced with this session's real beat —
+                   the GM ruling that Dawnbringer cannot be used to smash the
+                   sapphire, and Thorin offering the hilt" }
+        - { entry: "Items -> Real High Tower Key",
+            note: "dropped 'recovered from Tadric after the battle with Moziqodo'" }
+      backup: "scratchpad/gm-assist.pre-scope-trim.md (pre-trim, post-fix state)"
+    rejected:
+      - finding: 3
+        ruling: "Recap is right; report is wrong."
+        rationale: >-
+          Report wanted 'bow' -> 'crossbow'. The GM established the bow on tape, in
+          direct answer to Daz asking whether one of these people shot the guard:
+          "Yes, yes, yes, I should have made… that was my mistake, yes, one of them
+          does have… yes, one of them does have a bow, sorry, oh my god." The GM's
+          own vocabulary mixes 'crossbow bolt' (721/729), 'arrow' (729) and 'bow'
+          (1193); the recap reproduces the table faithfully.
+      - finding: 4
+        ruling: "Table ruling. Rules objection rejected."
+        rationale: >-
+          Report argued Mage Armor sets AC and cannot 'deflect' a Guiding Bolt. Tape
+          1761, GM: "Yes, but he is a wizard. Not used to fighting. But he does have
+          mage armor, so the spell does not affect him." Grygum had rolled 13.
+      - finding: 6
+        ruling: "Rejected — this is the stale-grounding-docs false-positive class."
+        rationale: >-
+          Report said campaign_state lists Bookwyrm as Alive, so the recap must be
+          wrong to call her murdered. She died in the PREVIOUS session:
+          docs/chapters/chapter_62_the_key_is_secured.md:54 "Bookwyrm was dead."
+          A'lai says so on this tape (3205): "as he looks around and realizes that
+          Bookwyrm's dead." The grounding doc is what is wrong. See carry_forward.
+      - finding: 9
+        ruling: "Rejected — it was the spell."
+        rationale: >-
+          Report could not tell the Telekinetic feat from the Telekinesis spell.
+          Tape 3233, Daz: "I have telekinesis, do I have time, like, in a reaction to
+          grab the thing from him and pull it to me?" Tape 3417, GM: "Alright, so Daz,
+          you've just rolled telekinesis and grabbed it out of his hand just before he
+          wanted to grab it."
+      - finding: 8
+        ruling: "No-op — the report itself concluded there was no error."
+        rationale: "Listed as severity 'None' in the report's own summary table."
+      - finding: "minor — 'striking one with Dawnbringer'"
+        ruling: "GM: leave as-is."
+        rationale: >-
+          Dawnbringer is not named in Thorin's exchange with the thugs on tape; it is
+          inferred from his loadout. GM declined the edit.
+      - finding: "minor — 'Zalthir and Glabbagool ... delivering punishing blows'"
+        ruling: "GM: leave as-is, with the reason recorded."
+        rationale: >-
+          Tape 2321: "However, Zalthir… And Glabbagool show up over here" — then only
+          Zalthir attacks, for 22 damage to A'lai. Glabbagool dealt nothing because
+          the GM was juggling a complex fight (GM's own explanation).
+      - finding: "minor — 'Grygum was the first to notice' the chant"
+        ruling: "Not raised for edit; recorded only."
+        rationale: >-
+          Tape 273: the GM narrates "The endless chant has stopped" to the table.
+          Grygum's player then riffs (297): "if Grygum is anything like me… Once it
+          stops, I notice that it stopped." GM adds "you also notice it because
+          Tadric is kind of like… stunned." Defensible as written.
+  vtt_adjudicated: |
+    Transcript used: summaries/20260727/GMT20260728-005909_Recording.transcript.cleaned.vtt
+    — consulted BY HAND throughout; NOT passed as a --context input. It is both
+    speaker-labelled and glossary-cleaned (the output of this session's
+    /vtt-spell-pass), which made it the right file for every question in this run:
+    attribution AND wording.
+
+    Settled against the tape:
+      - #3 bow/crossbow      -> report REJECTED (GM established the bow, 1193)
+      - #4 mage armor        -> report REJECTED (GM verbatim, 1761)
+      - #6 Bookwyrm alive    -> report REJECTED (died Ch62; A'lai says so, 3205)
+      - #9 telekinesis       -> report REJECTED (spell confirmed, 3233 + 3417)
+      - #10 Darrl            -> report CONFIRMED (GM says "Daral almost died", 3209)
+      - #2 Sylvyr            -> report CONFIRMED and undercounted (GM says "Sylvira…
+                                someone needs to tell Sylvira that her son is dead", 279)
+      - A thug damage        -> NEW, check was blind (4309-4315: "8 on one of them" /
+                                "He dies." / "And 2 on the other.")
+      - B Zalthir chronology -> NEW, check was blind (29 dmg at 2893, monologue at
+                                3025-3105, sapphire at 3417, second attack at 3857,
+                                knockout at 3925)
+      - C Thorin             -> NEW, check was blind (menacing attack, "Dude has to
+                                beat a DC… 16?" / GM: "He did." — nobody was rattled)
+      - Arcane Burst cantrip -> recap CONFIRMED as a table ruling, not a rules error.
+                                GM at 2797/2805/2817: "It's his cantrip." … "These are
+                                considered cantrips." … "Just so that we're on the same
+                                page. They are cantrips."
+      - Monologue quotes     -> CONFIRMED verbatim at 3025 ("I have been at Candlekeep
+                                for 31 years… I have a chair! He proposed to take the
+                                chair!") and 3105 ("His name is Manshoon. You have not
+                                heard of it. That is not an accident. It is a career.")
+
+    REVIEWER/GM DISAGREEMENT WORTH RECORDING: the GM's first ruling placed Zalthir's
+    knockout before the monologue. The tape placed it after, by ~1000 cue lines and
+    three intervening beats. Presenting the timestamps rather than applying either
+    version is what resolved it ("if the tape says before, it's before"). This is the
+    reason the skill's rule exists — a knockout that feels like it preceded the
+    villain's pause is exactly the kind of ordering memory smooths over.
+
+    NOT settled, and not guessed at: the recap's "Chapter 60" heading. Two counters
+    disagree and only the GM can rule. See carry_forward.
+  carry_forward:
+    - status: OPEN
+      item: >-
+        Grounding docs are stale — already filed as
+        notes/issues/20260727_grounding_docs_stale_ch62.md. This run adds concrete
+        evidence: campaign_state.md:46 lists "Bookwyrm (First Reader) | Alive (status
+        post-key-seizure unconfirmed)" but she died in Ch62 and A'lai states it on this
+        tape. campaign_state.md:47 lists Kalan Strongbranch as "Alive (survival
+        uncertain) | Last seen running, breathless" while line 19 of the same file says
+        he was "reinstated as Head of the Avowed" — internally contradictory.
+        party.md still opens "confined in Deneir's Sanctum." Until fixed, every
+        consistency run on a post-Ch62 recap will regenerate this false-positive class
+        (it produced report finding 6 this run).
+    - status: OPEN
+      item: >-
+        party.md has Daz as "Wizard 8"; the session prep says "Daz | Level 9 as of this
+        session." Same staleness class, different file.
+    - status: OPEN
+      item: >-
+        The recap is headed "Chapter 60" and the GM has not ruled. docs/chapters/
+        FILENAMES run to chapter_62_the_key_is_secured.md (the session immediately
+        before this one), making this Ch63; that file's INTERNAL header reads
+        "# Chapter 59", making this Ch60 — which is what GMAssistant emitted. Memory
+        note `chapter-file-number-authoritative` says the filename wins but warns the
+        two counters must not be conflated. A ruling here should probably be recorded
+        in the campaign CLAUDE.md, since it will recur on every export.
+    - status: NOTE
+      item: >-
+        GLOSSARY — do NOT add rows for `Avainmore` or `Stormbranch`. Both occur zero
+        times in every VTT; they are summarizer inventions, so a row would fire on
+        nothing. `Stormbranch -> Strongbranch` already exists (glossary line 96) and
+        still did not save the recap, because the recap was never processed by
+        apply_replacements.py — only the VTT was.
+    - status: NOTE
+      item: >-
+        GLOSSARY — `Sylvyr` (3x) and `Darrl` (1x) DO occur in
+        session_20260727_transcript.vtt, the second independent transcription. If that
+        file is ever used as a cleaning source, those are legitimate candidate rows.
+        They are not needed for the Zoom-lineage VTT, which has neither.
+    - status: NOTE
+      item: >-
+        VTT RESIDUAL — `Alley` survives once in the cleaned VTT (2367: "he does 22
+        points of damage on, Alley"), an uncorrected garble of A'lai. Glossary line 59
+        covers `Ally` but not `Alley`. Treat as a common-word landmine ("alley" is
+        ordinary English) — apply as a targeted edit if it recurs, do not add a blanket
+        row. Same handling as the documented `Mosquito`/`Ale`/`Dawn` cases.
+    - status: DONE
+      item: >-
+        Recap scope trimmed at GM direction — 10 prior-session entries deleted, 4
+        rewritten. Root cause per the GM: the source transcript originally carried the
+        summary's own transcript, so GMAssistant inherited earlier sessions' material
+        into Locations/NPCs/Items/Spells. Worth watching on the next export.
+    - status: NOTE
+      item: >-
+        The report's ONLY complete miss was Kalan Stormbranch -> Strongbranch, despite
+        the glossary row being in --context. Every other name error it caught. Pattern:
+        it flagged names that were WRONG-AND-PROMINENT and missed the one attached to
+        an NPC who never appears in the session body.
