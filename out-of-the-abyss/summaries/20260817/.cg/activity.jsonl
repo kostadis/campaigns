@@ -1,0 +1,4 @@
+{"ts": "2026-08-23T23:48:42.800130+00:00", "stage": "enhance", "rc": 0, "knobs": {"batch": false}, "outputs": ["/home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/session-summary.md"]}
+{"ts": "2026-08-24T03:42:33.136254+00:00", "stage": "extract", "rc": 3, "knobs": {"batch": false, "force": false, "batch_scenes": true}, "outputs": ["/home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/scene_extractions"]}
+{"ts": "2026-08-24T04:30:41.196968+00:00", "stage": "extract", "rc": 0, "knobs": {"batch": false, "force": false, "batch_scenes": true}, "outputs": ["/home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/scene_extractions"]}
+{"ts": "2026-08-24T04:33:19.604504+00:00", "stage": "plan", "rc": 0, "outputs": ["/home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260809/narration/plan.md"]}

@@ -1,0 +1,305 @@
+consistency_check:
+  timestamp: "2026-08-24T00:20:00-07:00"
+  campaign: "out-of-the-abyss"
+  document_checked: "summaries/20260817/scene_extractions/0[1-6]_*.md (six scenes)"
+  document_class: "per-scene extractions (scene_extract output, 2026-08-23 20:42 / 21:30)"
+  report: "summaries/20260817/consistency_report_stage2_scene_extractions.md"
+  config: "config/config.yaml (passed explicitly — no root config.yaml exists; documents[] use ../docs/)"
+  model: "claude-opus-5"
+  backend: "claude-code"
+  issues_found: 100   # across six per-scene reports, before triage
+  cards_raised: 15
+  session_prep_used: true
+  entity_registry_used: true   # via --context; see registry_section_note
+  session_date: "2026-08-17"
+  chapter: 64
+  skill: "/staged-consistency — stage 2"
+  stages_present:
+    gm_assist: true
+    session_summary: true
+    scene_extractions: true
+    narration: false
+  stage_note: |
+    Stage 0 adjudicated 2026-08-20/21 (artifact 425fdbab); stage 1 adjudicated
+    2026-08-24 03:19 UTC (artifact 235682f5). The scene extractions were
+    generated at 2026-08-24 04:30 UTC per .cg/activity.jsonl — AFTER the
+    stage-1 fixes landed — so they inherited them cleanly. Stage 3 has no
+    artifact yet, so every fix here lands AHEAD of narration.
+
+    Directory is `scene_extractions/`, not the `scene_extractions_new/` the
+    skill's inventory step greps for. No .prev or .scaffold files present.
+
+  review_mode: "artifact (batch)"
+  review_artifact: "https://claude.ai/code/artifact/ce942079-381d-4fce-bf2d-c4a4c8587392"
+  decisions_savedAt: "2026-08-24 04:52 UTC"
+  decisions_tally: "15 decided — 12 approve, 2 reject, 1 discuss"
+
+  registry_section_note: |
+    check_consistency.py resolves base_dir to the CONFIG's parent, so with
+    `--config config/config.yaml` it looks for entity_registry.yaml under
+    config/ and prints "skipping canon section". The registry reached the
+    model via --context instead, exactly as in stages 0 and 1 — the reports
+    still cite it as AUTHORITATIVE CANON. Behaviour is consistent across all
+    three stages; noted so nobody reads the stderr line as a coverage gap.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+      - { label: mechanics,      path: docs/mechanics.md }
+      - { label: planning,       path: docs/planning.md }
+      - { label: party,          path: docs/party.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard) — decisive on Grygum=orc, Thorin=dwarf, Zalthir's item list" }
+      - { path: docs/entity_registry.yaml, role: "canonical registry + aliases — decisive on Hall of Momentous Deeds, The Avowed, Stroud, Protanther" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted names (campaign-standard)" }
+      - { path: notes/session_prep/20260810_race_to_the_vile_door.md, role: "session prep (authoritative) — GM-selected" }
+      - { path: notes/sessions/candlekeep_vault_session.md,    role: "vault/cryptogram v2 authority — GM-selected" }
+      - { path: notes/sessions/candlekeep_day_four.md,         role: "verbatim clue + descent blocks — GM-selected" }
+      - { path: notes/sessions/candlekeep_arc_flowchart_v2.md, role: "arc map — GM-selected" }
+      - { path: notes/sessions/candlekeep_murders_arc.md,      role: "verbatim riddle text + clue table — GM-selected" }
+    prep_set_note: |
+      Same five prep files as stage 1, confirmed by the GM at the top of this
+      run. session-summary.md was deliberately NOT passed as context (offered,
+      declined) — the scenes were checked against prep and canon directly.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-24"
+    auto_applied:
+      - { fix: '"keepers of Tobed" -> keepers of Tomes',        count: 1, file: "scene_extractions/02", basis: "entity_registry.yaml (Keeper of Tomes); glossary row Keeper of Toads -> Keeper of Tomes" }
+      - { fix: '"black marble chest pieces" -> chess pieces',   count: 1, file: "scene_extractions/02", basis: "vtt_known_additions.md, 20260817 entry" }
+      - { fix: '"Baz" -> Daz',                                  count: 2, file: "scene_extractions/02, 05", basis: "glossary already lists 9 Daz garbles; cleaned.vtt:1445 and :3857" }
+      - { fix: '"dust of methane" -> dust of Mechanus',         count: 1, file: "scene_extractions/03", basis: "glossary row methanus -> Mechanus" }
+      - { fix: '"chief avowed" -> chief Avowed',                count: 3, file: "scene_extractions/03 (2), session-summary.md (1)", basis: "entity_registry.yaml (The Avowed)" }
+      - { fix: '"quilt" -> quill',                              count: 2, file: "scene_extractions/03, 04", basis: "surrounding lines and the riddle text both say quill" }
+      - { fix: '"Anostadamus" -> Nostradamus',                  count: 1, file: "scene_extractions/04", basis: "glossary row Nostromas -> Nostradamus" }
+      - { fix: '"House of Momentous Deeds" -> Hall (beat list only; spoken line kept + noted)', count: 1, file: "scene_extractions/04", basis: "entity_registry.yaml; stage 1 applied the same fix 3x" }
+      - { fix: '"primaterial plane" -> Prime Material plane',   count: 1, file: "scene_extractions/05", basis: "entity_registry.yaml (the Material Plane); campaign_state.md uses Prime Material" }
+    auto_applied_note: |
+      Every verbatim correction was made in place with an italic editorial
+      note on the speaker-attribution line recording the raw capture, per the
+      skill's verbatim rule. The cleaned VTT itself was NOT edited this run.
+    applied:
+      - finding: s2-01
+        severity: Critical
+        ruling: approve
+        fix: |
+          The appeal to Tadric recredited from Thorin to GRYGUM in three files:
+          scene_extractions/02:16, session-summary.md:8 and :41, gm-assist.md:8
+          and :32.
+        basis: |
+          cleaned.vtt:1365 and :1369 label both lines Grygum. Scene 02's own
+          verbatim block (:203) and beat list (:796) already said Grygum; only
+          the summary bullet said Thorin.
+        note: "SURVIVED STAGES 0 AND 1. This is the mis-attribution class the staged pattern exists to catch, and it was sitting in all three artifacts."
+      - finding: s2-02
+        severity: Critical
+        ruling: approve
+        fix: |
+          "Draconic Flight" removed from scene_extractions/06:11 and :16 and
+          from session-summary.md:105 and :110. Replaced with the GM's actual
+          answer — Zalthir's Potion of Flying, concealed inside Glabbagool —
+          and a note that the potion is never drunk on tape.
+        basis: |
+          cleaned.vtt via scene 06:98, GM: "Right, and you have a potion of
+          flying." party.md lists no flight feature for Zalthir. The feature
+          name was Claude's inference from the GM's hedged stage-1 note, which
+          stage 1 flagged as VERIFY at the time.
+        closes: "stage-1 carry_forward VERIFY item on Zalthir's flight."
+      - finding: s2-04 + s2-05
+        severity: Moderate
+        ruling: "both approved; they conflicted at scene 03:12 — GM broke the tie in shell, 2026-08-24"
+        gm_ruling: |
+          "It would be better if A'lai had the photographic memory, and Kalan
+          ran around trying to stabilize the situation and then return with a
+          clue because he heard from one of his agents that the party was
+          trying to solve a puzzle that he knew the answer to."
+        fix: |
+          A'lai Aivenmore now holds the photographic memory and supplies the
+          cryptogram, in scene_extractions/03:10 (heading), :12, :573,
+          session-summary.md:10 and :55, and gm-assist.md:10 and :40. Kalan is
+          out of the opening entirely; his late arrival at :25 is his only
+          appearance, now carrying the GM's reason for his absence.
+        note: "REVERSES the stage-0 s0-01 ruling, which had kept Kalan credited notwithstanding the transcript. The transcript (cleaned.vtt:2325) and the GM now agree."
+      - finding: s2-06
+        severity: Moderate
+        ruling: "discuss + note"
+        gm_ruling: |
+          The GM's "another dwarf" is correct and is not about Grygum. The
+          first dwarf is STROUD — a dwarf rogue who beat an ancient gold dragon
+          at chess with a move it had not seen in 400 years of study. The
+          second is THORIN, a dwarf raised by hill giants (party.md: Giant
+          Foundling). Thorin solved the puzzle first; Grygum solved it seconds
+          later or simultaneously, but the Avowed's hysteria meant nobody
+          noticed.
+        fix: "scene_extractions/03:24 and :581 glossed with the Stroud/Thorin identification. The verbatim at :427 left exactly as spoken."
+        note: "The audit's premise — that 'another dwarf' laundered Grygum into a dwarf — was WRONG. Recorded so a future run does not re-raise it."
+      - finding: s2-07
+        severity: Moderate
+        ruling: "approved on the card, then SUPERSEDED by the GM's s2-06 note"
+        fix: |
+          scene_extractions/04:17 does NOT get the carded 'scholars
+          misattribute' reframe, because the GM's note establishes that Thorin
+          genuinely solved it. Instead the line now names the scope — the
+          cryptogram Thorin led the decode on — and records that Grygum solved
+          it a beat later, unnoticed, which is what his corrective speech is
+          about.
+        note: "Flagged to the GM in shell rather than applied as carded; the card's evidence was wrong."
+      - finding: s2-08
+        ruling: approve
+        fix: "scene_extractions/05:24 and :620 split the argument from the roll — Thorin's counter earns it, his modifier is -1, Grygum rolls 14. Thorin's own unresolved roll recorded."
+      - finding: s2-09
+        ruling: approve
+        fix: 'scene_extractions/05:589 speaker line annotated: "I consult with Zalthir" spoken by Zalthir reads as GLABBAGOOL. Words left as spoken.'
+        basis: "Two prior rulings of the same shape in vtt_transcription_corrections.md ('You mean Zalthir?' -> Glabbagool; 'sticking in the middle of Zalthir' -> Glabbagool)."
+      - finding: s2-10
+        ruling: approve
+        fix: "All 33 '(truncated)' markers stripped — 5 in scene 01, 1 in scene 04, 27 in scene 06."
+        basis: |
+          Verified against the tape rather than taken at face value: the
+          extractor appends '(truncated)' whenever a cue ends in the ASR's
+          trailing-off ellipsis. e.g. scene 06:27 is the WHOLE cue at
+          cleaned.vtt:4249. Nothing was truncated in any of the 33.
+        upstream: "This is a scene_extract bug, not a per-session artifact. Worth a CampaignGenerator issue — see carry_forward."
+      - finding: s2-11
+        ruling: approve
+        fix: |
+          scene_extractions/06:428 marks the Modron tool as an in-session
+          substitution for the riddle's stated dust of Mechanus, and
+          notes/vtt_known_additions.md gains a staged "Modron tool" entry for
+          /entity-triage.
+      - finding: s2-12
+        ruling: approve
+        fix: 'scene_extractions/05:15 paraphrased neutrally ("from his quarters"); :184 verbatim kept with an editorial note that "knobs and nabs" is unrecovered and must not be promoted as a place name.'
+      - finding: s2-14
+        ruling: approve
+        fix: |
+          scene_extractions/05:13's Castle Ward note rewritten. The correction
+          stands; the justification now cites scene context and the second
+          transcription, and explicitly warns that this is NOT the
+          `Kendall Keep -> Castle Ward` glossary row and that no blanket
+          `Castle Ward -> Candlekeep` rule may be added — Castle Ward is a live
+          Waterdeep district in this campaign.
+      - finding: s2-15
+        ruling: approve
+        fix: |
+          Targeted-edit note added to vtt_transcription_corrections.md's "Notes
+          for future passes": at cleaned.vtt:2361 only, "Hugh" is Thorin. Kept
+          OUT of the glossary as a common-given-name landmine, same reasoning
+          as Mosquito -> Moziqodo and Ale -> A'lai. Explicitly recorded that it
+          must never become an entity_registry.yaml alias.
+    rejected:
+      - finding: s2-03
+        severity: Critical
+        ruling: reject
+        item: |
+          scene_extractions/06:430 keeps "Grygum commits to step 97 to recite
+          the prophecy". FLAGGED CONSEQUENCE, not a re-argument: the verbatim
+          in the same file (:59-62) shows Grygum cut off mid-declaration —
+          "And I... I res..." / GM "Hold on." / "prophecy." — and the word
+          never appears again before the hinge fires. The narrator reads both.
+          This is the second time this thread has been declined; stage-1 s1-03
+          was also rejected.
+      - finding: s2-13
+        severity: Minor
+        ruling: reject
+        item: |
+          scene_extractions/05:21 and :617 keep "the letter from the librarian"
+          as a definite item. The tape (:331) is a trailing-off guess — "they
+          actually had the, what was it? The..." No such item is in the
+          registry.
+
+  vtt_adjudicated: |
+    The VTT was consulted BY HAND and was NOT passed as --context.
+    Transcript: summaries/20260817/GMT20260818-005817_Recording.transcript.cleaned.vtt
+    (Zoom export, speaker-labelled, spell-passed 2026-08-20).
+
+    Findings the tape SETTLED that the grounding docs could not:
+      - The Tadric appeal is Grygum's (:1365, :1369) — s2-01, missed by stages 0 and 1.
+      - Photographic memory is A'lai's (:2325) — confirmed the stage-0 ruling was against the tape.
+      - "Hugh" is Thorin (:2589 -> :2361) — context, not a glossary row.
+      - Zalthir's flight is a potion, not a feature (scene 06:98).
+      - The 33 "(truncated)" markers mark nothing (:4249, :813 and others are whole cues).
+      - "Baz" is Daz twice (:1445, :3857); "quilt" is quill twice (:2857, :3033).
+
+    Findings the tape OVERTURNED (audit wrong, extraction right):
+      - "another dwarf" is NOT a Grygum mis-race. Settled by the GM's note: Stroud, then Thorin.
+      - "the part where Thorin solved the puzzle" is not a misattribution. Thorin did solve it.
+      - The "prism"/"prison" re-raise (scene 02 report #1) was already ruled at stage 1 (s1-07); the
+        non-verbatim prose in scene 02 already reads "prison". No action.
+      - The riddle text (scene 03 report #11) had already inherited stage 1's corrected eight lines
+        in the right order. Only line-break styling was at issue. No action.
+
+    Audit reasoning error recorded per the skill's self-documentation rule:
+      scene 06 report #1 argued the "2026-08-24" date stamp was "after today's
+      date in-workspace context". It was not — the stage-1 artifact saved at
+      2026-08-24 03:19 UTC. The finding's substance was right for other
+      reasons; the date argument was not.
+
+  carry_forward:
+    - status: OPEN
+      severity: Critical
+      item: |
+        s2-03 REJECTED, second time. Whether Alaundo's first prophecy was ever
+        spoken is unrecorded, and prep (candlekeep_day_four.md Beat 5) makes
+        the spoken prophecy the thing that turns the shaft into a feather-fall
+        descent. Thorin is falling into a 1,000-ft shaft and the recap does not
+        say whether he is protected. This is a live GM ruling at the top of the
+        next session. Carried from stage-1 s1-03.
+    - status: OPEN
+      severity: Moderate
+      item: |
+        Stage-1 s1-11's four grounding-doc facts are STILL unfixed, and this
+        run adds two more. All are CampaignGenerator outputs — fix at source and
+        regenerate, never hand-edit:
+          1. Kalan Strongbranch is present and active, not "fled, to the wind"
+             (campaign_state.md:53, :99; world_state.md §4). Now also: he has
+             AGENTS in the keep (GM ruling 2026-08-24).
+          2. Sylvira Savikas rose from her sickbed; "Bedridden" is stale
+             (campaign_state.md:54).
+          3. Kalan's title is GATEWARDEN, not "Head of the Avowed".
+          4. A'lai Aivenmore is a GREAT READER, not "ex-Council of Twelve".
+          5. NEW — party.md still lists all four PCs at level 8. The GM
+             confirmed level 9 at stage 1; Daz's Telekinesis needs it.
+          6. NEW — party.md lists no flight feature for Zalthir, which is now
+             correct and load-bearing: his only flight is the Potion of Flying,
+             and it is unconsumed.
+    - status: NEW CANON
+      item: |
+        From the GM's s2-04/s2-05 tie-break: Kalan Strongbranch spent the
+        cryptogram decode out stabilising the keep, and returned with a clue
+        because ONE OF HIS AGENTS told him the party was working a puzzle he
+        knew the answer to. Kalan running an agent network inside Candlekeep is
+        in no grounding doc. Promote to world_state on the next regeneration.
+    - status: NEW CANON
+      item: |
+        From the GM's s2-06 note: STROUD is the dwarf rogue who beat an ancient
+        gold dragon at chess with a move it had not seen in four hundred years
+        of study. This is why the Avowed treat Thorin's riddle solve as fresh
+        evidence in the great question of our age, and it connects the
+        Stroudites faction (entity_registry.yaml) to a specific founding deed.
+        Registry has Stroud as a bare `type: npc` with no note — worth filling
+        in.
+    - status: OPEN
+      item: |
+        scene_extract appends "(truncated)" to any quote whose source cue ends
+        in the ASR's trailing-off ellipsis. 33 occurrences this session, 27 in
+        one scene. Nothing is actually truncated. Worth a CampaignGenerator
+        issue — every session doc built from this extractor carries the same
+        false marker.
+    - status: OPEN
+      item: |
+        Staged in notes/vtt_known_additions.md and not promoted to
+        entity_registry.yaml: Modron tool (new this run), Spanner, Founders
+        Court, Astronomicon, Immortal Chambers, Philosopher's Court, Vault of
+        Secrets. Candidates for /entity-triage.
+    - status: NOT PUSHED (Trivial)
+      item: |
+        "Murmo" (cleaned.vtt:869) left as table chatter and deliberately NOT
+        staged as an NPC. Thorin's d20 2-vs-3 and his +9/+8 reroll read (+8 was
+        settled at stage 1). Daz's unnamed step on the staircase. "obsidian
+        door" capitalisation in the riddle text, settled at stage 1. The
+        "inner sanctum" and "School of the Drama Library" table vocabulary,
+        left alone at stages 0 and 1 and left alone again here.
