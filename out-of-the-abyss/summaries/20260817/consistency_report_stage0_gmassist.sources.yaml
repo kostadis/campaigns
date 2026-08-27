@@ -1,0 +1,251 @@
+consistency_check:
+  timestamp: "2026-08-20T22:55:12-07:00"
+  campaign: "out-of-the-abyss"
+  document_checked: "summaries/20260817/gm-assist.md"
+  document_class: "first-pass recap (GMAssistant export)"
+  report: "summaries/20260817/consistency_report_stage0_gmassist.md"
+  config: "config/config.yaml (passed explicitly — no root config.yaml exists; documents[] use ../docs/ so they resolve correctly from config/)"
+  model: "claude-opus-5"
+  backend: "claude-code"
+  issues_found: 20
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-17"
+  chapter: 64
+  skill: "/staged-consistency — stage 0 only"
+  stages_present:
+    gm_assist: true
+    session_summary: false
+    scene_extractions: false
+    narration: false
+  stage_note: |
+    Only gm-assist.md exists in this session dir. The load-bearing stage 2
+    (scene extractions, where the verbatim quotes the narrator reads literally
+    live) has not been generated yet — so every fix below lands AHEAD of
+    extraction rather than behind it, which is the best case for this pattern.
+  review_mode: "artifact (batch)"
+  review_artifact: "https://claude.ai/code/artifact/425fdbab-b495-4918-b966-4b395c742166"
+  decisions_savedAt: "2026-08-21 05:50 UTC"
+
+  model_note: |
+    First two runs discarded. Run 1 used the script default claude-fable-5 and
+    died on "You've reached your Fable 5 limit". Run 2 (claude-sonnet-5) was
+    killed mid-flight when the GM said "do not use fable, use opus 5". The
+    report on disk is the Opus 5 run.
+
+  lineage: |
+    gm-assist.md mtime 2026-08-20 21:58:37 predates the cleaned VTT
+    (22:24:11), so it was generated from the UNCLEANED Zoom transcript,
+    before the /vtt-spell-pass run of 2026-08-20. That makes the corrections
+    glossary a live source for this check rather than a formality — and it
+    cuts both ways: the gm-assist LLM normalised "Bathayar" to the correct
+    "Batbayar" on its own, while the spell pass wrote the wrong canonical
+    into the glossary (see carry_forward CORRECTION below).
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+      - { label: mechanics,      path: docs/mechanics.md }
+      - { label: planning,       path: docs/planning.md }
+      - { label: party,          path: docs/party.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard) — decisive on Batbayar, Miirym the Sentinel Wyrm, Founders Court" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted names from prior spell passes (campaign-standard)" }
+      - { path: notes/session_prep/20260810_race_to_the_vile_door.md, role: "session prep (authoritative) — GM-selected" }
+      - { path: notes/sessions/candlekeep_vault_session.md, role: "vault/cryptogram v2 authority — GM-selected" }
+      - { path: notes/sessions/candlekeep_day_four.md, role: "verbatim clue blocks — GM-selected" }
+      - { path: notes/sessions/candlekeep_arc_flowchart_v2.md, role: "arc map — GM-selected" }
+    context_gap: |
+      notes/sessions/candlekeep_murders_arc.md was NOT in the --context set
+      (GM chose four prep files; this is a fifth). It turned out to hold the
+      verbatim riddle lines — ":924 The eastern light of Mystra's Mantle" and
+      ":928 The reply of Batbayar when you give him a hand" — which settled
+      two findings the audit either missed entirely (Mystra's Mantle) or got
+      backwards (Batbayar). Adjudicated by hand against it. Recommend adding
+      it to the prep set on future Candlekeep runs.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-20"
+    gm_rulings_this_run:
+      - "Do not use Fable 5 for pipeline calls — use Opus 5."
+      - "s0-02, via card note: 'Manshoon Simulacrum arrived.' — settles the ch63 breach identity as the simulacrum, consistent with the 2026-08-19 GM ruling recorded in the prep doc."
+      - "s0-01 rejected: gm-assist keeps Kalan Strongbranch as the one who transcribed the cryptogram, notwithstanding the transcript."
+    auto_applied:
+      - { fix: "Mistress Mantle -> Mystra's Mantle", count: 3, file: "summaries/20260817/gm-assist.md" }
+      - { fix: "sentinel worm -> Sentinel Wyrm",     count: 4, file: "summaries/20260817/gm-assist.md" }
+      - { fix: "Founders' Court -> Founders Court",  count: 6, file: "summaries/20260817/gm-assist.md" }
+    applied:
+      - finding: s0-03
+        report_ref: 10
+        fix: "notes/vtt_transcription_corrections.md:111 rewritten to '| Bathayar, Pfaffayar, Bauthoyar | **Batbayar** |'; 2x Bauthoyar -> Batbayar in the cleaned VTT (:2129, :2177). gm-assist unchanged — it was already correct."
+      - finding: s0-05
+        report_ref: 15
+        fix: "Labelled (not deleted) the 'Took your time' Memorable Moment and the Sapphire Gem item as Chapter 63 context recapped at the top of the session. Approve on an either/or card was read as the non-destructive branch."
+      - finding: s0-06
+        report_ref: 7
+        fix: "notes/vtt_known_additions.md:131 Spanner 'modron librarian' -> 'gnome librarian ... directs the 13 modrons', with an inline note recording the correction and the two tape citations. gm-assist was right; the staged note was wrong."
+      - finding: s0-07
+        report_ref: 18
+        fix: "Potion of Flying item entry reattributed from Daz to Zalthir, concealed in Glabbagool."
+      - finding: s0-10
+        report_ref: 17
+        fix: "Daz's stair spell named: Telekinesis."
+      - finding: s0-11
+        report_ref: 16
+        fix: "Descent collapsed to the GM's collective ruling in both Summary and Scenes; the two swapped-verb renderings removed."
+      - finding: s0-12
+        fix: "Six residual garbles fixed as targeted edits in the cleaned VTT: Greibung->Grygum (:733), Cattle Keep's->Candlekeep's (:769), candle keeps lore->Candlekeep's lore (:2741), Alai->A'lai (:2201), sentinel worm->Sentinel Wyrm (:2421), potion of lying->potion of flying (:4345). Glossary rows added for the five case-insensitively-safe forms; 'candle keeps' deliberately excluded."
+    partially_applied:
+      - finding: s0-02
+        report_ref: 1
+        ruling: "discuss + note — 'Manshoon Simulacrum arrived.'"
+        fix: "Applied the identity half only: 6 places in gm-assist now name Manshoon's simulacrum (Summary ¶1, two Aftermath bullets, High Tower location, Manshoon NPC entry, Memorable Moment gloss). 'Manshoon had never come for him' left as-is — the simulacrum reading sharpens rather than breaks it."
+        rationale: "The note settles WHO breached the keep. It does not address the card's second half — whether the breach beat belongs in a Chapter 64 recap at all, since it sits inside the GM's opening recap monologue (:765). That half is UNRESOLVED."
+      - finding: s0-08
+        report_ref: [2, 4]
+        ruling: "approve"
+        fix: "Recorded as carry_forward only. No file edited."
+        rationale: "campaign_state.md / world_state.md / party.md are CampaignGenerator outputs. The card said explicitly: fix the source and regenerate, never hand-edit."
+      - finding: s0-09
+        report_ref: 19
+        ruling: "approve"
+        fix: "Recorded as carry_forward only. No file edited — gm-assist's account of Tadric is correct on tape."
+    rejected:
+      - finding: s0-01
+        report_ref: [2, 3]
+        ruling: "reject"
+        rationale: |
+          GM ruling. gm-assist keeps Kalan Strongbranch credited with the
+          photographic memory and with transcribing the cryptogram, in four
+          places (Summary ¶3, the Deciphering scene bullet, the Kalan NPC
+          entry, the Investigator's Office location entry).
+          FLAGGED CONSEQUENCE, not a re-argument: the internal contradiction
+          the audit raised twice therefore stands in the document — Kalan is
+          both the one who "spread the riddles across the floor" and the one
+          who "arrived huffing and puffing … only to find the party had
+          already cracked the entire cipher". The scene-extraction pass will
+          inherit both.
+    unresolved:
+      - finding: s0-04
+        severity: Critical
+        status: UNMARKED — the GM saved without ruling on this card
+        item: |
+          Two lines in gm-assist state House Baenre's involvement with Daz as
+          established fact: the A'lai Aivenmore NPC entry ("trades secrets
+          about the Vault of Secrets and House Baenre's involvement with Daz")
+          and the Memorable Moment gloss ("Revealing to Daz the identity of the
+          powerful drow house that has been funding operations surrounding him
+          for over a decade"). docs/planning.md:301 says A'lai's house guess is
+          "sincere and **wrongly**" — the real patron is Vizeran DeVir and the
+          Baenre guess IS the planted Act I false lead. Summary ¶2 and the
+          scene bullet already frame it correctly as his inference; only these
+          two editorial glosses overstate it. NOT APPLIED. Nothing downstream
+          has been generated yet, so this is still cheap to fix.
+      - finding: s0-02 (scope half)
+        severity: Moderate
+        status: UNRESOLVED
+        item: "Whether the Manshoon breach beat, the assassin fight and the sapphire search belong in a Chapter 64 recap at all. All three come out of the GM's opening recap monologue (cleaned.vtt:725-773). s0-05 labelled two of them; the breach beat is still presented as a Chapter 64 event."
+
+  vtt_adjudicated: |
+    The VTT was consulted BY HAND throughout and was NOT passed as --context.
+    Transcript used: summaries/20260817/GMT20260818-005817_Recording.transcript.cleaned.vtt
+    (Zoom export, speaker-labelled, 1251 cues, spell-passed 2026-08-20).
+    The unlabelled sibling session_20260817_transcript.vtt was used only as
+    counter-evidence on Batbayar.
+
+    Findings the tape SETTLED that the grounding docs could not:
+      - Kalan vs A'lai photographic memory (:2321, :2325) — the audit guessed
+        "Tadric? Fembris Lancer?"; the tape names A'lai outright.
+      - Spanner is a gnome (:4061, :4241) — inverted the audit's finding 7.
+      - Potion of Flying is Zalthir's (:1082-1088).
+      - Daz cast Telekinesis (:4613).
+      - The descent was one collective GM ruling (:4713).
+      - Mystra's Mantle (:621) — the audit missed this finding entirely.
+      - Thirteen modrons (:3773), Alaundo died at 97 (:3457), three figures in
+        the Orrery (:625) — all confirmed, recap correct.
+
+    Findings the tape OVERTURNED (audit wrong, recap right):
+      - #4 Sylvira bedridden. :2333 "Sylvira herself arrives"; :2473 "she's …
+        too weak to do it herself". She rose from her sickbed; the doc is stale.
+      - #5 Alaundo's age from the grave. :3457 verbatim — "off you head to the
+        grove, and there you find his body and discover that he died at the
+        age of 97". Prep sourced this from Inda; play diverged.
+      - #6 Inda absent. Zero Inda hits on tape. The recap is accurate; the
+        prep beat was skipped.
+      - #8 Dust of Mechanus given freely. :4125 — "the only way … would be to
+        kill one of my Modrons, which is absolutely unacceptable". Play
+        diverged from prep; the recap's framing is right.
+      - #19 Tadric escorting A'lai. :1525 — "Tadric says, I will take… I will
+        take him to the prison". Recap correct; the ward-lattice consequence
+        is real and is carried forward.
+
+    Findings rejected as table vocabulary, not error (module-vs-table rule):
+      - #9 "inner sanctum" — the GM's own words at :769. world_state calls the
+        room the Security Control Room. Both right; changed nothing.
+      - #11 "School of the Drama Library" — the GM's own words at :2177.
+        Registry has "The School of Drama". Both right; changed nothing.
+
+    MY OWN ERROR, recorded per the skill's instruction to document
+    self-corrections: the Bauthoyar canonical (see carry_forward CORRECTION).
+
+  carry_forward:
+    - status: CORRECTION
+      item: |
+        Overturns the 2026-08-20 /vtt-spell-pass ruling that Bathayar/Pfaffayar
+        -> "Bauthoyar". The canonical is **Batbayar** (entity_registry.yaml:2406,
+        entity_inventory.md:924, docs/background/candlekeep_murders_module_inventory.md:101,
+        four prep files, and the verbatim riddle at candlekeep_murders_arc.md:928).
+        "Bauthoyar" came from the sibling transcription and exists nowhere else
+        in the campaign. Row rewritten; both VTT occurrences fixed. Three notes
+        added to the glossary's "Notes for future passes" so this does not recur.
+    - status: CORRECTION
+      item: |
+        Overturns the 2026-08-20 /vtt-spell-pass note filing Spanner as a
+        "modron librarian". He is a gnome (cleaned.vtt:4061, :4241). Corrected
+        in notes/vtt_known_additions.md with the citations inline.
+    - status: OPEN
+      item: |
+        campaign_state.md is stale on two NPCs as of ch64. Kalan Strongbranch
+        is listed "fled, 'to the wind' — whereabouts unknown" but returns on
+        tape (:2945). Sylvira Savikas is listed "Bedridden" but arrives in
+        person (:2333). Both will re-trigger false positives on every future
+        consistency run until fixed. These are CampaignGenerator outputs —
+        fix the source and regenerate, do not hand-edit.
+    - status: OPEN
+      item: |
+        Tadric is off the ward lattice. He personally walked A'lai to the null
+        magic prison (:1525), while campaign_state.md:59 has him "holding the
+        ward lattice by hand" and the prep doc uses his immobility to hold the
+        Sylvira/Moziqodo fuse shut — he is the only living person who knows
+        Moziqodo was her son. GM approved recording this; the downstream
+        consequence is unaddressed.
+    - status: OPEN
+      severity: Critical
+      item: "s0-04 unmarked — House Baenre asserted as fact in two places in gm-assist.md. See resolution.unresolved."
+    - status: OPEN
+      item: "s0-02 scope half unresolved — the Manshoon breach beat is still presented as a Chapter 64 event. See resolution.unresolved."
+    - status: OPEN
+      item: |
+        Spanner, Founders Court, Astronomicon, Immortal Chambers, Philosopher's
+        Court and Vault of Secrets are staged in notes/vtt_known_additions.md
+        and not promoted to entity_registry.yaml. Candidates for /entity-triage.
+        Note the registry spells it "Founders Court"; the staged note still has
+        "Founders' Court" (left as-is — outside the approved card's scope).
+    - status: NOTE
+      item: |
+        notes/sessions/candlekeep_murders_arc.md holds the verbatim riddle
+        blocks and was not in this run's --context set. Add it on future
+        Candlekeep runs. See sources.context_gap.
+    - status: NOTE
+      item: |
+        check_consistency.py defaults to claude-fable-5 (DEFAULT_MODEL). The GM
+        has ruled Fable out for these calls; pass --model claude-opus-5.
+    - status: NOTE
+      item: |
+        7 pre-existing glossary lint warnings survive (6 split_section, 1
+        chained on Kostadis). 0 errors. Unchanged by this run; already
+        documented in the 2026-08-20 spell-pass notes.

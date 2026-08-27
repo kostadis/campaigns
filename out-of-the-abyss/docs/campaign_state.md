@@ -22,7 +22,7 @@
 - **Ilvara Mizzrym's ritual site (Ch49–54)** — Destroyed Ilvara (Zuggtmoy's vessel; detonated into spores); killed Asha Vandree; slew House Mizzrym/T'sarran agents; captured a House T'sarran spy (held inside Glabbagool). Party emerged to the surface with Dawnbringer.
 - **The Janussi Murder investigation (Ch53–61)** — Officially resolved: Alkrist publicly blamed. Reconstructed truth: A'lai Aivenmore engineered it and framed Daral Yashenti; Alkrist struck the blow; Bookwyrm concealed it to protect family. Consequence: leadership crisis, naming ceremony pending, Kalan Strongbranch reinstated as Head of the Avowed.
 - **Helmed horror ambush, Deneir's Sanctum (Ch61)** — Party destroyed the helmed horrors (drawn by the inert High Tower key Daz carries), then confined overnight under guard. Dawnbringer healed Daral Yashenti during confinement.
-- **The High Tower and the two keys (Ch62–63)** — Kalan Strongbranch was exposed as having handed the party a **fake, non-magical key** to use them as a decoy; the real key was on **Tadric**, who surrendered it to Grygum voluntarily. **Moziqodo murdered Bookwyrm**, took her key, and was carrying it to A'lai — the party **killed Moziqodo in a single round**, cutting the delivery short. In the High Tower itself the party defeated A'lai's Zhentarim thugs and a Zhentarim assassin (all dead), and **captured A'lai Aivenmore alive**. Daz's fireball detonating on the walkway publicly proved **Candlekeep's wards had failed**. **Manshoon then breached the keep in person**, shattering the security-control-room door with a `wall of force` — alone, and magically depleted from the effort.
+- **The High Tower and the two keys (Ch62–63)** — Kalan Strongbranch was exposed as having handed the party a **fake, non-magical key** to use them as a decoy; the real key was on **Tadric**, who surrendered it to Grygum voluntarily. **Moziqodo murdered Bookwyrm**, took her key, and **delivered it to A'lai** before the party **killed Moziqodo in a single round**. The party later stripped that key from A'lai and hid it inside Glabbagool. In the High Tower itself the party defeated A'lai's Zhentarim thugs and a Zhentarim assassin (all dead), and **captured A'lai Aivenmore alive**. Daz's fireball detonating on the walkway publicly proved **Candlekeep's wards had failed**. **Manshoon's simulacrum then breached the keep**, shattering the security-control-room door with a `wall of force` — alone, and magically depleted from the effort.
 
 ---
 
@@ -81,9 +81,9 @@
 | Narrak | Dead (killed by Thorin) | Gracklstugh | — |
 | Plinki | Dead | Gracklstugh | — |
 | Sarith Kzekarit | Dead | Neverlight Grove | — |
-| Moziqodo | **Dead — killed by the party in one round (Ch62–63)** | Approach to the High Tower | Sylvira's son. Murdered Bookwyrm and took her key; died carrying it to A'lai |
+| Moziqodo | **Dead — killed by the party in one round (Ch62–63)** | Approach to the High Tower | Sylvira's son. Murdered Bookwyrm, took her key, and delivered it to A'lai before the party killed him |
 | Zhentarim assassin + 2 thugs | Dead | High Tower | Assassin killed by Thorin; one thug melted by Grygum's acid, one killed by A'lai himself |
-| Alkrist | Dead | Candlekeep | Publicly blamed for Janussi's murder |
+| Alkrist | **Alive — neutralized** | Candlekeep | Publicly blamed for Janussi's murder; disgraced and no longer capable of defending the keep (GM ruling 2026-08-19) |
 | Janussi | Dead | Candlekeep | Murdered; heart removed to block resurrection |
 | Ploopploopeen & Bloppblippodd | Dead | Sloobludop | — |
 
@@ -93,7 +93,7 @@
 
 *Only genuinely unresolved items.*
 
-- **Manshoon is inside Candlekeep (most urgent):** He breached the keep in person, shattered the security-control-room door with a `wall of force`, and is working toward the **Book of Vile Darkness** in the Vault beneath the House of Alaundo. He arrived **alone and magically depleted** — that depletion is the party's only real advantage, and it is temporary.
+- **Manshoon's simulacrum is inside Candlekeep (most urgent):** It breached the keep, shattered the security-control-room door with a `wall of force`, and is working toward the **Book of Vile Darkness** in the Vault beneath the House of Alaundo. He arrived **alone and magically depleted** — that depletion is the party's only real advantage, and it is temporary.
 - **The keys are spent currency:** The party holds **both** real keys (Grygum has one plus the fake and the sapphire; A'lai's is hidden inside Glabbagool, deliberately kept apart). Manshoon did not need them — he broke the door. What the key race actually bought was his depletion.
 - **A'lai's bargain:** He offers the location of a secret room beneath the keep, the two cryptogram lines that matter, and an **intuition** about a Menzoberranzan house paying to keep a drow breathing. He is withholding what is really in the depository — the one thing Manshoon does not know.
 - **Kalan Strongbranch's fate:** Alive, fled after admitting the fake-key decoy. Unresolved.

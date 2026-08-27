@@ -8,18 +8,18 @@ source: gmassist
 ## Scene summary (from gm-assist, verbatim)
 
 #### The party continues their battle against the remaining Zhentarim thug while A'lai Aivenmore attempts to redirect the fight.
-- The corrosive acid on the surviving Zhentarim thug continues to burn him at the start of his turn — 8 points (2d4) this round. The DM notes he could spend an action to scrape it off, "otherwise it just keeps going."
+- The corrosive acid on the surviving Zhentarim thug continues to burn him at the start of his turn — 8 points (2d4) this round. Grygum notes he could spend an action to scrape it off, "otherwise it just keeps going."
 - Because Tasha's Caustic Brew is a concentration spell, Grygum's Bless drops to keep the acid going.
 - The thug attempts to strike Grygum with his mace but fails to land a hit on either swing — the DM notes he has "really bad attack routines."
-- A'lai Aivenmore shouts orders to the thug, demanding he ignore the cleric and target the wizard instead, as the wizard has the key: "Don't go after him, drag him! Don't go after the cleric! Go after the wizard! The wizard's the one that we want, he's got the key!"
+- A'lai Aivenmore shouts orders to the thug, demanding he ignore the cleric and target the wizard instead, believing the wizard has the key — he is wrong; Grygum holds it: "Don't go after him, drag him! Don't go after the cleric! Go after the wizard! The wizard's the one that we want, he's got the key!"
 - Daz maneuvers around a corner to gain a better tactical position — placing himself out of line of sight of the room — while Grygum holds the sapphire artifact.
-- Thorin and Grygum seize an opportunity to strike the fleeing Zhentarim thug; Grygum's mace whiffs, and mid-swing the table canonically establishes that Dawnbringer is a she.
-- A second Zhentarim agent enters the room, causing A'lai Aivenmore to visibly panic. The agent walks straight past Daz and the thug, disengaging as he moves so that no one gets an opportunity attack.
-- Daz conjures a massive explosion of fire that engulfs the thug, nearly incinerating him — 25 points of damage, which the thug survives at exactly 1 hit point on a natural 17 save — and the successful detonation signals to all of Candlekeep that the library's magical protections have failed: screaming, panic, and the bell ringing, while the Avowed's scholars reach for their notebooks and "prepare their monographs."
-- A'lai Aivenmore abruptly kills the remaining wounded thug himself and attempts to negotiate a surrender, calling for a pause: "I'd like to stop, but not surrender, I'm aware how that sounds" — Grygum: "Just, just, just a timeout for a moment?"
+- Thorin and Grygum seize an opportunity to strike the fleeing Zhentarim thug; Grygum's mace whiffs. Separately, the table re-affirms the previous session's ruling that Dawnbringer — Thorin's blade — is a she.
+- The Zhentarim assassin enters the room, walking straight past Daz and the thug, disengaging as he moves so that no one gets an opportunity attack. *(The GM narrated A'lai panicking here, then retracted it at the table: "Sorry, I take it back, that's not what happens." Same assassin who strikes after the binding — not a third combatant.)*
+- Daz conjures a massive explosion of fire that engulfs the thug, nearly incinerating him — a 25-point roll, halved to 12 by his successful save (a 17), leaving him at exactly 1 hit point — and the successful detonation signals to all of Candlekeep that the library's magical protections have failed: screaming, panic, and the bell ringing, while the Avowed's scholars reach for their notebooks and "prepare their monographs."
+- A'lai Aivenmore abruptly kills the remaining wounded thug himself and calls for a pause — explicitly *not* a surrender: "I'd like to stop, but not surrender, I'm aware how that sounds" — Grygum: "Just, just, just a timeout for a moment?"
 - Daz's investigation (21, with advantage) notices A'lai is not looking at the party at all — he is listening toward the stairwell they came up, as if waiting to see something.
 - A'lai admits he is spent: "I have nothing left. You will have probably counted how many spells I've casted. … I'd be insulted if you hadn't."
-- The wizard reveals he knows the location of a secret room beneath the keep, the two lines of the cryptogram that matter, and the name of a person in Menzoberranzan who has been paying to keep a certain drow breathing — "I would very much like to tell all of it to somebody with a locked door." Daz answers: "My fireball acts as a pretty good lock on this door way. We can have a conversation now."
+- The wizard reveals he knows the location of a secret room beneath the keep, the two lines of the cryptogram that matter, and *claims* to know the name of a person in Menzoberranzan who has been paying to keep a certain drow breathing — canon records this as an intuition about a *house*, not a name — "I would very much like to tell all of it to somebody with a locked door." Daz answers: "My fireball acts as a pretty good lock on this door way. We can have a conversation now."
 - The party's read on him (via investigation, per the DM): "this guy's not a murderer… he's one of these people who came up with a stupid plan, and it went completely out of control, and started to fall apart. And he's, like, looking for a way out."
 - A'lai expresses a desperate desire to be imprisoned within Candlekeep's magic-nullifying cells rather than face his former associates: "I figured that they might be reluctant to put me in prison, but I'm sure I could convince… you would be willing to convince them, to put me in prison in Candlekeep." The DM notes the party realizes "this guy's so much attached to the idea of being in Candlekeep that he'd prefer being in prison in Candlekeep."
 - He warns the clock is running: "in about 4 minutes, people will be coming up these stairs, will be very disappointed in me, and you strike me as the more reasonable disappointment."
@@ -29,7 +29,8 @@ source: gmassist
 
 **[GM]** — *OOC recap: taking the blame for Zalthir's fall last session*
 > "so yeah, so you've arrived, you're unconscious, Zalthir. Why are you unconscious? Because… well, quite honestly, I couldn't figure out how to play your character."
-> "Justin!"
+
+*(A one-word exclamation of a real first name follows here on the tape (L223); scrubbed under the real-name rule.)*
 
 **[GM]** — *the misplay itself, and the no-retcon math*
 > "Shadow stepped instead of using his movement speed to cross the distance, thus blowing the luminous attack."
@@ -79,7 +80,7 @@ source: gmassist
 
 **[Grygum]** — *the whiffed mace*
 > "In that case, I'll attack him with my mace."
-> "Yeah, that's a mess, I guess."
+> "Yeah, that's a [miss], I guess." *(transcript: "mess")*
 
 **[Thorin]** — *misreading his own damage roll*
 > "No, that's if he's undead, I did 9 points of damage, goddammit."
@@ -92,13 +93,13 @@ source: gmassist
 **[GM / Zalthir / Thorin]** — *OOC tangent: the table discovers, mid-combat, that Zalthir's player is married*
 > "Oh, by the way, Zalthir, we all fi- everybody finally learns you're married."
 > "You've said it, like, 15 times."
-> "For what it's worth, I have no… Kostadis, you have mentioned my husband several times in these sessions, but I guess it didn't register."
+> "For what it's worth, I have no… GM, you have mentioned my husband several times in these sessions, but I guess it didn't register."
 > "Like, don't register these things. That's my point. We're a true guy group. I just… that's the point. I wanted you to understand that I didn't want you… I wanted you to be part of the group, like, we don't register the important things."
 
 **[Grygum]** — *classical citation for Dawnbringer's gender*
 > "Yeah, isn't Dawn canonically female? I remember that from, like, the, the Iliad, like, rosy-fingered Dawn, that thing, that whole thing."
 
-**[The Second Zhentarim Agent]**
+**[The Zhentarim Assassin Enters]**
 - A Zhentarim agent walks past Daz and the thug into the room.
 - Daz asks for an opportunity attack; the GM rules the agent is disengaging, so no one can attack him.
 - The agent looks around, and A'lai Aivenmore suddenly panics; the GM calls for insight/investigation rolls (Grygum: "And with a plus 9, I got a 12"), then retracts the panicked-reaction beat mid-narration.
@@ -137,7 +138,7 @@ source: gmassist
 > "Yeah, everybody is gonna realize that their… that Candlekeep is now in its underwear, and they don't have."
 
 **[GM]** — *panic below, and the Avowed's true priorities*
-> "is con… is concerning. Never mind, and of course, you know, immediately, half the about are running in… you hear screaming, you hear panic, you hear the bell ringing."
+> "is con… is concerning. Never mind, and of course, you know, immediately, half the [Avowed] are running in… you hear screaming, you hear panic, you hear the bell ringing."
 > "And if you could, you would see people taking notes and preparing their monographs."
 > "Because what do you do? What do you do in a situation like this? Why conduct the experiments you've been waiting years to?"
 > "You take notes. Exactly."
@@ -148,6 +149,8 @@ source: gmassist
 
 **[GM]** — *A'lai calls for a pause*
 > "I'd like to stop, but not surrender, I'm aware how that sounds, and I have no reason to stop."
+
+**[Grygum]** — *taking him up on it*
 > "Just, just, just a timeout for a moment?"
 
 **[GM / Daz]** — *Daz's investigation, rolled with advantage*
@@ -160,6 +163,8 @@ source: gmassist
 > "He goes, I have nothing left."
 > "I have nothing left. You will have probably counted how many spells I've casted. Pauses."
 > "I'd be insulted if you hadn't."
+
+**[Grygum]** — *counting the spent slots on his fingers*
 > "I'm ticking him off on my fingers, huh?"
 
 **[GM]** — *the three secrets, and the ask for a locked door*
@@ -189,7 +194,7 @@ source: gmassist
 **[Reviving Zalthir]**
 - The GM prompts the party to use the pause to heal the downed Zalthir: "I'm assuming at some point somebody walks over to Daz and Zalthir here and cures him, so if you want to burn a heal spell, this would be the right time."
 - Zalthir reports he is at zero of 57 hit points.
-- Grygum casts Healing Word and moves to reach him; A'lai shifts position, and the GM warns he can still deal "staggering amounts of damage" with his cantrips.
+- Grygum casts a healing spell and moves to reach him — he names *Healing Word*, but "I have to go over and actually touch him for this" rules that out (60-ft range); the spell was never settled at the table — A'lai shifts position, and the GM warns he can still deal "staggering amounts of damage" with his cantrips.
 
 **[Grygum / Zalthir]** — *checking the damage*
 > "Yeah, I, I go ahead and, how badly hurt is he?"

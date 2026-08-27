@@ -2402,6 +2402,8 @@ entities:
   note: the historical prophet whose 99 prophecies the Endless Chant recites
 - name: Miirym, the Sentinel Wyrm
   type: npc
+  aliases:
+  - Vydykyq
   note: translucent ghost-dragon guardian of Candlekeep (encountered "Underneath Candlekeep")
 - name: Batbayar
   type: npc
@@ -3065,8 +3067,8 @@ entities:
   type: concept
   note: Asha Vandree's term for Daz's presumed conversion to Lolth-worship; distinct
     from the already-registered Church of Lolth and The Way of Lolth. Spelling confirmed
-    against docs/TheUnderdark.md ("converted to Lolthism"); the former canonical
-    "Lothheism" was a garbling and was dropped 2026-08-03.
+    against docs/TheUnderdark.md ("converted to Lolthism"); the former canonical "Lothheism"
+    was a garbling and was dropped 2026-08-03.
 - name: Kelemvor
   type: deity
   note: 'God of Death; followers cited re: undead-vs-dead possession rules for the
@@ -3922,6 +3924,22 @@ entities:
   - Abyssal Plague
   note: Abyss-born plague afflicting Sylvira, given to her by her son; disclosed during
     Daz's ch60 interview
+- name: Edvaldo Sedanur
+  type: npc
+  provenance: on_the_fly
+  note: avowed scholar of Candlekeep history, hired by the party and accompanied them
+    into the Vault (Ch65); credentials unverified at the table — prep runs him as
+    a doppelganger
+- name: Limniz
+  type: concept
+  provenance: on_the_fly
+  note: easternmost star of the Mystra's Mantle constellation, charted in the Orrery
+    of the Astronomicon; answer to the cryptogram's second riddle (Ch64)
+- name: Mystra's Mantle
+  type: concept
+  provenance: on_the_fly
+  note: constellation containing the star Limniz; transcripts rendered it "Mystaras/Mistaras",
+    both corrected to Mystra
 distinct:
 - - Topsy
   - Turvy
