@@ -1,17 +1,19 @@
 paths:
-  session_recap: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/gm-assist.md
-  session_summary: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/session-summary.md
-  scene_extractions_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/scene_extractions
-  narration_dir: /home/kroussos/campaigns/out-of-the-abyss/summaries/20260809/narration
+  session_recap: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/gm-assist.md
+  session_summary: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/session-summary.md
+  scene_extractions_dir: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/scene_extractions
+  narration_dir: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/narration
   output_dir: null
   party: docs/party.md
   voice_dir: voice
   examples_dir: examples
   genre_file: voice/_genre.md
 extract:
-  tokens: 8192
+  tokens: 32000
+  batch_scenes: null
+  batch_tokens: 32000
 narrate:
-  tokens: 16000
+  tokens: 32000
   prose_mode: true
   reflections: true
   context: []
@@ -45,9 +47,9 @@ session_name: null
 profiles:
 - name: Out-of-abyss
   knobs:
-    narrate_tokens: 16000
+    narrate_tokens: 32000
     prose_mode: true
     reflections: true
+    narration_genre_file: /home/kroussos/out-of-the-abyss/out-of-the-abyss/voice/_genre.md
     backend: claude-code
-    narration_genre_file: voice/_genre.md
 active_profile: Out-of-abyss
