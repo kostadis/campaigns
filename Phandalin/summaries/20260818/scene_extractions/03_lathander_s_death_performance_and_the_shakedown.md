@@ -64,10 +64,10 @@ source: gmassist
 > "Common is not my native language, just to be clear."
 
 **Valphine Sotorra** — *the tape garbles "Undercommon"*
-> "Undercomot is my name."
+> "Undercommon is my native language."
 
 **GM** — *how the joint performance works*
-> "We rolled together, and the… You rule together, so if Dave succeeds… Yes."
+> "We rolled together, and the… You roll together, so if Vukradin succeeds… Yes."
 > "It's kind of like a combination bonus, right? So if you… one… both of you succeed, then it counts."
 > "More than if one of you succeeds."
 
@@ -138,7 +138,7 @@ source: gmassist
 > "I'm not exactly trained in the religious arts, you know? Like, and I'm following there are these Lathandrians, or Lathandarites, or whatever."
 
 **GM** — *the supplicant's syncretic faith*
-> "Yes, yes, I… yes. Well, I'm actually… the person explains that she's more syncretic in her religious beliefs. You know, there's plenty of gods, why worship only one? You know, you have to have gods for different purposes, and she notices you probably are a follower of Mielikki, so, you know, maybe you could ask for a little bit lessing from Mielikki."
+> "Yes, yes, I… yes. Well, I'm actually… the person explains that she's more syncretic in her religious beliefs. You know, there's plenty of gods, why worship only one? You know, you have to have gods for different purposes, and she notices you probably are a follower of Mielikki, so, you know, maybe you could ask for a little bit of a blessing from Mielikki."
 
 **Soma**
 > "I… I think we can arrange that. What is it you would like out of your garden?"
@@ -218,7 +218,7 @@ source: gmassist
 > "And says, compliments you on your, new name."
 
 **Vukradin**
-> "We are Lathander's dad!"
+> "We are Lathander's death!"
 > "Yeah!"
 
 **GM** — *the pointed remark*
@@ -246,7 +246,7 @@ source: gmassist
 
 **Brewbarry**
 > "Yeah, of course, yeah."
-> "It goes to the sender, yeah. Yeah. Absolutely."
+> "It goes to the temple, yeah. Yeah. Absolutely."
 
 **Vukradin**
 > "It's normal to make donations while you're at church, that's pretty typical."
@@ -255,7 +255,7 @@ source: gmassist
 > "Tithing? Sure."
 
 **GM** — *Cullen's non-donation*
-> "Okay, Colin pulls out some coins."
+> "Okay, Cullen pulls out some coins."
 > "Puts them over the basket, and…" (truncated)
 > "Decides he doesn't want to donate."
 > "And smiles at you, as if, like, the smile is the donation."
@@ -305,8 +305,8 @@ source: gmassist
 > "The pecs are going boom, boom."
 
 **GM** — *Cullen caves*
-> "No, it's not necessary. Colin is, colin notices that everybody's staring at him."
-> "And he… he says, well, never let it be said. House Margaster is very… is very happy to donate to LaFander's,"
+> "No, it's not necessary. Cullen is, Cullen notices that everybody's staring at him."
+> "And he… he says, well, never let it be said. House Margaster is very… is very happy to donate to Lathander's,"
 > "Temple."
 > "And, and applauds, Valphine's most recent" (truncated)
 > "What's the word I'm looking for?"
@@ -339,7 +339,7 @@ source: gmassist
 > "Grapple check, how do I roll that? Is that…" (truncated)
 
 **Vukradin**
-> "Attack role?"
+> "Attack roll?"
 
 **GM** — *checking the new rules*
 > "Hold on, I need to check, grapple. There's, like, the rules change for grapple."
@@ -358,7 +358,7 @@ source: gmassist
 > "Strength. I rolled Strength. Isn't that what I was supposed to do?"
 
 **GM**
-> "Yeah, yeah, what'd you rule? 20. Alright. Yeah, you are successfully able to grab the coins out of his hand and stuff them in the bag."
+> "Yeah, yeah, what'd you roll? 20. Alright. Yeah, you are successfully able to grab the coins out of his hand and stuff them in the bag."
 
 **Brewbarry**
 > "Right, and that's what I do, and then I walk away."
@@ -370,13 +370,13 @@ source: gmassist
 > "Definitely? I didn't rob him? You know, I give him a nudge to be more generous."
 
 **GM** — *Cullen saving face*
-> "Just when you ask that question, Colin says, of course not, Vukradin. This was a generous donation that I was happy to make."
+> "Just when you ask that question, Cullen says, of course not, Vukradin. This was a generous donation that I was happy to make."
 
 **Brewbarry**
 > "Absolutely."
 
 **Vukradin** — *the tape garbles the band name*
-> "Thank you for supporting Sander's death."
+> "Thank you for supporting Lathander's death."
 
 **GM** — *as Cullen, working Vukradin*
 > "He goes… he pauses and says, Vukradin, as you know, we are all… we want the same things."
@@ -416,7 +416,7 @@ source: gmassist
 > "I think that's true."
 
 **Brewbarry** — *the tape renders "call" as "go"*
-> "Yeah, and doesn't that go for a generous donation?"
+> "Yeah, and doesn't that call for a generous donation?"
 
 **Brewbarry**
 > "And I, put the basket right under the." (truncated)
@@ -431,13 +431,13 @@ source: gmassist
 > "You know, properly religious."
 
 **GM**
-> "role and intimidation."
+> "roll an intimidation."
 
 **Brewbarry**
 > "Alright, yeah, I could roll that all day, babe. I've got plus 4. Come on, 15. Boom!"
 
 **Vukradin** — *joining the collection effort*
-> "I'm gonna get in on this. I'm following my friend's league."
+> "I'm gonna get in on this. I'm following my friend's lead."
 
 **Vukradin**
 > "I got an 11."
@@ -445,7 +445,7 @@ source: gmassist
 **GM** — *the contested check*
 > "The person's not intimidated, because he feels blessed by Lathander right now."
 
-**GM**
+**GM** — *speaker suspect: the VTT diarizes this to the GM, but the content is a player protesting the called result; not re-attributed here — that is an upstream scene-extract fix*
 > "No, I rolled a 17? I rolled a 17, man."
 
 **Vukradin** — *supplying the boost*
@@ -465,7 +465,7 @@ source: gmassist
 > "So you get a 20."
 
 **Brewbarry**
-> "So it's 520. There you go, you rolled 17. Now, come on, cuff up some coins."
+> "So it's 520. There you go, you rolled 17. Now, come on, cough up some coins."
 
 **GM**
 > "Alright, just take a note, I have to figure out how much they're gonna cough up."
@@ -493,7 +493,7 @@ source: gmassist
 > "Well, we don't have that spell."
 
 **Brewbarry**
-> "There. Well, we need to look for that spell, and one of us needs to get it, so that we can listen to, you know, Colin's preview conversations and find out how their business works, so that we can do some sabotage."
+> "There. Well, we need to look for that spell, and one of us needs to get it, so that we can listen to, you know, Cullen's preview conversations and find out how their business works, so that we can do some sabotage."
 
 **Soma**
 > "I'd be able to buy a scroll, right?"
@@ -520,7 +520,7 @@ source: gmassist
 > "I thought you were… I thought your intention was to create a schism."
 
 **Valphine Sotorra**
-> "No, no, I intend to take over the whole… the whole religion, not… Not a great eschism."
+> "No, no, I intend to take over the whole… the whole religion, not… Not create a schism."
 
 **GM** — *Neverember's non-answer*
 > "And, as he… he looks at you and smiles."
@@ -534,7 +534,7 @@ source: gmassist
 > "Tightly. Tight-lipped."
 
 **GM** — *as Aldus, smoothing it over; "Lord never remembers" is the tape's garble*
-> "Aldus turns to you and says, yes, yes, have no worries, have no fears. Dinner, dinner is going to happen. Lord never remembers, it's very busy and preoccupied."
+> "Aldus turns to you and says, yes, yes, have no worries, have no fears. Dinner, dinner is going to happen. Lord Neverember is very busy and preoccupied."
 
 **[Insight on Neverember]**
 - Valphine rolls a 21 insight.
@@ -568,7 +568,7 @@ source: gmassist
 > "You know, like, visibly blessed in front of the crowd."
 
 **GM**
-> "Tommy, you can go reach out to him and visibly bus him."
+> "I mean, you can go reach out to him and visibly bless him."
 
 **Valphine Sotorra**
 > "Yeah, yeah."
@@ -593,10 +593,10 @@ source: gmassist
 > "I think I will, encourage the crowd."
 
 **GM** — *rewinding to Neverember's real focus*
-> "Hold on, I forgot to do something. So, when you turn around and ask, never member this, the question, is there anything you could do to help?"
-> "Never remember, actually, for a moment."
+> "Hold on, I forgot to do something. So, when you turn around and ask Neverember the question, is there anything you could do to help?"
+> "Neverember, actually, for a moment."
 > "Looks past the fact that… the fact that, you know."
-> "Cullen Sharpe seems to be, like, trying to smooge with Vukradin."
+> "Cullen Sharpe seems to be, like, trying to schmooze with Vukradin."
 > "And, Brewbarry seems to be taking his money."
 
 **Soma**
@@ -644,7 +644,7 @@ source: gmassist
 > "No, it's not half the city. At this point in time, most people have left, so it's a small group of people."
 
 **GM** — *the new branch is founded; "Lavender" is the tape's garble*
-> "Yes, yes, right. And so, they are in ecstasy and happy, so you now have managed to set up a small branch of Lavender searing"
+> "Yes, yes, right. And so, they are in ecstasy and happy, so you now have managed to set up a small branch of Lathander's Searing"
 > "Light."
 > "in Neverwinter."
 
@@ -684,19 +684,19 @@ source: gmassist
 > "I was born with it, I don't know that I have any ownership over it."
 
 **GM** — *as the merchant*
-> "Well, I was kind of hoping that we could call it the SOBA line."
+> "Well, I was kind of hoping that we could call it the SOMA line."
 
 **Vukradin**
 > "Don't sell out."
 
 **Soma** — *the merger idea*
-> "Don't sell out, but wait a minute, wait a minute, wait a minute. So, I mean, by Greycloak's not too far off from a bathrobe. Couldn't we sort of combine production lines here?"
+> "Don't sell out, but wait a minute, wait a minute, wait a minute. So, I mean, my red cloak's not too far off from a bathrobe. Couldn't we sort of combine production lines here?"
 
 **Vukradin**
 > "There's an idea."
 
 **Brewbarry** — *distracted from the deal*
-> "Sorry, I was deep into researching how we could spy on Colin."
+> "Sorry, I was deep into researching how we could spy on Cullen."
 
 **Brewbarry**
 > "Now that I have his purse, I'm looking for some sort of magic spell or artifact that I can use to plant a bug on him."

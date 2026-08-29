@@ -16,7 +16,7 @@ source: gmassist
 - Valphine calls for the purging of the wicked and the destruction of those who harbor darkness, framing it as a holy duty: "We do not offer pity to those who cling to the dark, or quarter for the meek and weak, for to harbor shadow is to invite destruction."
 - The closing doubles as the band announcement: "Rise, warriors of the morning. Lift high your glowing crests. And let the untamed power of Lathander incinerate every enemy of the dawn. Through light alone we dominate. Through light alone we conquer. Now, behold, Lathander's death."
 - Table reaction: "Well done." (Vukradin) "That was extremely well done." (DM) "I think I'm changing religions." (Soma) Valphine adds, "and stop by the gift shop on the way out"; Soma: "Don't forget to buy our merch"; Brewbarry: "Get your bathrobe." Vukradin: "Do you want everyone to stare at the sun until they go blind? Is that the plan?"
-- A follower of Loviatar stands and denounces Valphine, accusing her of stealing their goddess's sacraments of pain: "Pain is the maidens! The drow has dressed our sacramite in sacrament and called it Holy."
+- A follower of Loviatar stands and denounces Valphine, accusing her of stealing their goddess's sacraments of pain: "Pain is the Maiden's! The drow has dressed our sacrament in sacrilege and called it Holy."
 - Brewbarry answers first: "No, my brothers, pain is simply the darkness you break through on your way to the dawn."
 - Valphine responds by magically blinding the heckler with holy light, claiming it is a blessing rather than a curse: "DC-15 Constitution save... I cast Blindness at him." The DM rolls a 1 on the save. Vukradin: "You're burning your spells, man!" then "Cast him out! Cast out the heathen!" Brewbarry: "If you're not a zealot, you get off the boat." Duration: one minute.
 - A second Loviatarite warns that there will be consequences for stealing their sacraments: "you have stolen the sacraments of Loviatar! There will be consequences!"
@@ -26,7 +26,7 @@ source: gmassist
 ## Verbatim moments
 
 **GM** — *the packed congregation*
-> "So, you are now in… so with that, you are in a packed hall down through the windows, right?"
+> "So, you are now in… so with that, you are in a packed hall, dawn through the windows, right?"
 
 **Brewbarry** — *as the party surveys the room*
 > "My friend is on the stage, you know, all eyes on him."
@@ -44,9 +44,9 @@ source: gmassist
 **Vukradin** — *mishearing the name*
 > "Karen?"
 
-**GM** — *identifying him; "Iron Alagondar" is the tape's garble*
-> "Parent, parent, parent. Oh, yeah, the guy."
-> "Iron Alagondar."
+**GM** — *identifying him; the tape garbles "the Alagondar heir" as "Iron Alagondar"*
+> "Perrin, Perrin, Perrin. Oh, yeah, the guy."
+> "The Alagondar heir."
 
 **Brewbarry**
 > "claims that we owe him the thing."
@@ -67,7 +67,7 @@ source: gmassist
 > "Yes, please."
 
 **Valphine Sotorra** — *the sermon, delivered in full*
-> "Children of the dawn, gaze upon the rising sun and no true power."
+> "Children of the dawn, gaze upon the rising sun and know true power."
 > "Lathander is not a soft god of quiet comfort or gentle reprieve. He is the blinding radiance that cuts through the stagnant dark and shatters the slumber of the world."
 > "Darkness does not yield to meekness, nor does the night retreat before trembling hands. Light is an absolute force, unyielding, fierce, and searing."
 > "When the first rays of morning pierce the sky, they do not negotiate with the shadows. They destroy them, exposing every hidden corruption and sweeping away the decay of the night with uncompromising glory."
@@ -102,7 +102,7 @@ source: gmassist
 > "Don't forget to buy our merch."
 
 **Brewbarry** — *the tape garbles the bathrobe pitch*
-> "Get your bathroom."
+> "Get your bathrobe."
 
 **Vukradin** — *questioning the sacrament*
 > "Do you want everyone to stare at the sun until they go blind? Is that the plan?"
@@ -118,15 +118,15 @@ source: gmassist
 **Vukradin**
 > "Well, Loviatar is, like, the god of pain, right?"
 
-**GM** — *the first Loviatarite denunciation; "sacramite in sacrament" is the tape's garble*
-> "In fact, and another one stands for another scream and denounces you. Pain is the maidens! The drow has dressed our sacramite in sacrament and called it"
+**GM** — *the first Loviatarite denunciation; the tape garbles "sacrament in sacrilege" as "sacramite in sacrament"*
+> "In fact, and another one stands up and screams and denounces you. Pain is the Maiden's! The drow has dressed our sacrament in sacrilege and called it"
 > "Holy… Alright." (truncated)
 
 **Brewbarry** — *answering the heckler first*
 > "No, my brothers, pain is simply the darkness you break through on your way to the dawn."
 
 **Valphine Sotorra** — *her answer is a spell*
-> "Dc-15 Constitution safe."
+> "DC 15 Constitution save."
 
 **GM** — *caught off guard*
 > "What did you just do?"
@@ -176,7 +176,7 @@ source: gmassist
 > "Alright, the other Loviatarite screams, this will… this, you know, this screams, like, goes, this will… you… you have stolen the sacraments of Loviatar! There will be consequences!"
 
 **Valphine Sotorra**
-> "How dare you to file the." (truncated)
+> "How dare you defile the—"
 
 **Vukradin** — *litigating the theft charge*
 > "I don't think staring at the sun is a sacrament of Loviatar."

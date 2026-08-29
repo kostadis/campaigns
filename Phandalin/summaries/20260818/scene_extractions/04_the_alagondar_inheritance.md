@@ -51,7 +51,7 @@ source: gmassist
 > "Insight."
 
 **Valphine Sotorra**
-> "29th."
+> "29."
 
 **Brewbarry**
 > "11."
@@ -165,7 +165,7 @@ source: gmassist
 
 **GM** — *the notary clerk*
 > "He's an elderly notary clerk who's genuine. He remembers the Alagondar family records."
-> "Role and insight check."
+> "Roll an insight check."
 > "Or investigation, whichever one you want."
 
 **[Reading the Notary]**
@@ -194,7 +194,7 @@ source: gmassist
 > "What are they paying him? Are you…" (truncated)
 
 **Brewbarry** — *the tape garbles Perrin as "parent"*
-> "We're being manipulated here in thinking that parent is the right heir, is not."
+> "We're being manipulated here in thinking that Perrin is the right heir, is not."
 
 **Vukradin**
 > "So he is the rightful heir."
@@ -229,7 +229,7 @@ source: gmassist
 > "Yeah, he's not afraid of Perrin."
 
 **Brewbarry**
-> "He's not afraid of parent, okay."
+> "He's not afraid of Perrin, okay."
 
 **Vukradin**
 > "I don't think he's… I don't think he's intimidated, I don't think he's… he's just evil."
@@ -238,13 +238,13 @@ source: gmassist
 > "It's okay. This is gonna come back and bite us in the ass if we…" (truncated)
 
 **Vukradin** — *out of character, saluting the GM*
-> "It is! Yes, no, I… Kostadis heard it, so it worked. It's an interesting moral dilemma for us. I appreciate it."
+> "It is! Yes, no, I… the GM heard it, so it worked. It's an interesting moral dilemma for us. I appreciate it."
 
 **GM**
 > "I'm glad."
 
 **Brewbarry**
-> "I'm just trying to, you know, cover all sixes."
+> "I'm just trying to, you know, cover all sixes."  <!-- GM ruling 2026-08-24: "sixes" stands; both transcripts heard it -->
 
 **Vukradin** — *the principle stated*
 > "What does it mean if you insist on handing over all the treasure if you're handing it over to people who are evil?"
@@ -269,7 +269,7 @@ source: gmassist
 > "And like I said, the evidence is all genuine."
 > "Boney has confirmed it with the genealogist. The notary clerk has also confirmed it."
 
-**Brewbarry** — *conceding under protest*
+**Brewbarry** — *conceding under protest; "mock" is how the tape hears the French accent of Brewbarry's player on "mark" — GM ruling 2026-08-24, leave it*
 > "I'll let it go, but mock my words, this is gonna bite us in the ass."
 
 **Vukradin**
@@ -325,20 +325,20 @@ source: gmassist
 > "He's hurt. Would you say that out loud, or do you keep the." (truncated)
 
 **Soma** — *the tape garbles Vukradin's name*
-> "I love Childish Rupert."
+> "I love Childish Vukradin."
 
 **Vukradin**
 > "Got your necklace!"
 > "Goodbye."
 
 **GM** — *the tape garbles Vukradin's name again*
-> "This is… this is childish Rucrative, I mean…" (truncated)
+> "This is… this is Childish Vukradin, I mean…" (truncated)
 
 **Soma**
 > "I love it!"
 
 **Brewbarry** — *a parting word to Perrin; "Temple of the Thunder" is the tape's garble*
-> "the guy, I tell him, remember that this was handed over to you in the Temple of the Thunder, you know, this is your chance at redemption. Use it for good."
+> "the guy, I tell him, remember that this was handed over to you in the Temple of Lathander, you know, this is your chance at redemption. Use it for good."
 
 **Soma**
 > "The start of your redemption arc."

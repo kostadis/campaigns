@@ -1146,7 +1146,10 @@ entities:
   type: npc
   note: Gnome maintenance technician who serviced the Displacement Manifold; disappeared
     after approaching discovery that the failure was political; currently hiding in
-    Neverwinter's lower docks district [GM-only name]
+    Neverwinter's lower docks district [GM-only location]. Name revealed to the party
+    on-screen by Cullen Sharpe, ch48 (2026-08-18); the name is party knowledge from
+    that point. The KP-retaliation mechanism behind his disappearance remains GM-only,
+    as does the fact that he is NOT KP.
 - name: Corrin
   type: npc
   note: Manifested counterweight to KP alongside Rimardo; Savras's instrument; part
@@ -2342,6 +2345,7 @@ entities:
     restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a one-time
     in-fiction mishearing, blessed as a comic beat, and a future consistency or spell
     pass must not silently normalize it to Aurelan.
+    CH50 (2026-08-25) - at the Counting House he offers the party a familiar form, 'my friends call me Ori' (tape l.773; Stephane uses it back at l.781). Both independent transcriptions render it identically. GM ruling 2026-08-26 - 'Ori' is NOT a garble and is NOT an alias; it is his in-fiction familiar form, recorded in notes/vtt_known_additions.md. The transcript forms 'Orlin Vance' and 'Ondrel Vance' ARE garbles and are glossed.
 - name: dreamlily
   type: item
   provenance: on_the_fly

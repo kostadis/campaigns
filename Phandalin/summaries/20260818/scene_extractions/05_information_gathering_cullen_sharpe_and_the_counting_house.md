@@ -22,7 +22,7 @@ source: gmassist
 - Brewbarry: "Well, that was a very long sentence for very little information."
 - Aurelan Vance reveals that the Commission's membership is a tightly guarded secret, with Lord Neverember as the majority holder, and that House Margaster is notably absent from its membership. "All the major houses had shares in the Commission... they're involved in all the businesses around Neverwinter, and have definitely been the method by which Lord Neverember has been using to grow, but this is not secret, Brewbarry."
 - Asked who at the Commission to approach, Vance "turns pale at that idea."
-- Valphine suggests consulting the Assassin's Guild to locate the missing gnome, visibly unsettling Aurelan Vance. On Valphine's 28 insight the DM first floats the Harpers (reasoning from her Menzoberranzan years, where Lolthian clerics periodically purged Harper agents); Gary prefers Valphine's own instinct — "the way to find someone is to put a hit out on them, and then it becomes someone else's problem to find them... The Assassin's Guild always knows how to find their targets, right?... I mean, it's just natural." The DM adopts this canonically. Vance turns pale; Vukradin: "He jests. As you know, he's a cleric of Lathander." Soma: "They are jokers." Brewbarry: "my friend is just kidding."
+- Valphine suggests consulting the Assassin's Guild to locate the missing gnome, visibly unsettling Aurelan Vance. On Valphine's 28 insight the DM first floats the Harpers (reasoning from her Menzoberranzan years, where Lolthian clerics periodically purged Harper agents); Valphine's player prefers Valphine's own instinct — "the way to find someone is to put a hit out on them, and then it becomes someone else's problem to find them... The Assassin's Guild always knows how to find their targets, right?... I mean, it's just natural." The DM adopts this canonically. Vance turns pale; Vukradin: "He jests. As you know, he's a cleric of Lathander." Soma: "They are jokers." Brewbarry: "my friend is just kidding."
 - Valphine also notes the other lead: "we also do have an audience with Lord Neverember. If he was part of this council, we could ask him."
 - Vance: "The information I have and the resources of the Counting House are more in the financial management rather than the investigatory... it was an unfortunate malfunction." Brewbarry: "sounds to me like you need to rethink your strategy, my friend. I mean, finance is at the root of everything, and so is information. So how can you make more money without good information?... I'll find out who this gnome is, I'll find out who hired him, and I'll get to the bottom of this."
 - Brewbarry identifies a contradiction: House Margaster benefits from the trade shutdown despite not being on the Commission that hired the technician, suggesting a hidden connection. Vance, confused, says Margaster "would have nothing to do with the hiring of this individual"; asked whether they sit on the Commission: "to the best of my knowledge, no, this has been the source of much contention in the city." Brewbarry: "So, House Margaster is not on the commission. The commission hired the gnome, who sabotaged the device, And the main beneficiaries... House Margaster." DM: "Or there's something else going on." Soma suggests it would be easy for them to go through a middleman; Brewbarry: "there must be a connection between House Margaster" and somebody on the Commission. Soma: "He's got the yarn board out already."
@@ -38,7 +38,7 @@ source: gmassist
 - Vukradin refuses to be present for any conversation with Cullen.
 
 **GM** — *reminding the table of the unfinished business*
-> "Alright, the one thing, you guys didn't do, and I just want to remind you, is that Colin was supposed to tell you who the gnome was."
+> "Alright, the one thing, you guys didn't do, and I just want to remind you, is that Cullen was supposed to tell you who the gnome was."
 
 **Brewbarry** — *acknowledging*
 > "Yes, that's right."
@@ -50,10 +50,10 @@ source: gmassist
 > "Yeah."
 
 **Brewbarry** — *turning to the NPC*
-> "Yeah. So who's the gnome, Colin?"
+> "Yeah. So who's the gnome, Cullen?"
 
 **GM** — *as Cullen Sharpe, the transcript rendering the name as "Colin"*
-> "Well, a cone… Colin, smiles at you, I mean, so…"
+> "Well, a cone… Cullen, smiles at you, I mean, so…"
 
 **Vukradin** — *balking*
 > "Why are we asking this guy?"
@@ -77,7 +77,7 @@ source: gmassist
 > "We will."
 
 **GM** — *continuing*
-> "And the other is, Colin promised to get you the information. So, which one do you want to go… do you want to…"
+> "And the other is, Cullen promised to get you the information. So, which one do you want to go… do you want to…"
 
 **Brewbarry** — *deciding*
 > "Now, we're gonna do both."
@@ -86,13 +86,13 @@ source: gmassist
 > "That's right."
 
 **Brewbarry** — *the cross-check plan (truncated)*
-> "First, I ask Colin, then I go to the counting house and, you know, cross-check the info, and see if Colin."
+> "First, I ask Cullen, then I go to the counting house and, you know, cross-check the info, and see if Cullen."
 
 **Vukradin** — *drawing his line*
 > "I am walk… I have want nothing to do with Cullen. If you're talking to him, I'm not there."
 
 **GM** — *accepting, setting the scene with Cullen (truncated)*
-> "That's fair. That's… that's fair. Colin… so, Brewbarry, you show up there. Colin's a bit disappointed that"
+> "That's fair. That's… that's fair. Cullen… so, Brewbarry, you show up there. Cullen's a bit disappointed that"
 > "you know."
 
 **Brewbarry** — *shrugging it off*
@@ -100,11 +100,11 @@ source: gmassist
 
 **GM** — *finishing the beat; the transcript garbles Vukradin's name as "Brewerdin"*
 > "Yeah, Vukra didn't… sorry, my… I was,"
-> "About to burp. Brewbarry's, he's disappointed to see that Brewbarry's, that Brewerdin's not with you."
+> "About to burp. Brewbarry's, he's disappointed to see that Brewbarry's, that Vukradin's not with you."
 > "And he says, how can I help you?"
 
-**Brewbarry** — *getting to the point; the tail of the line is garbled on the tape*
-> "Whoa… Remember, I asked you to find the gnome's name for me, as David."
+**Brewbarry** — *getting to the point; the VTT's trailing "as David" is an ASR artifact — the Zoom export ends the sentence here*
+> "Whoa… Remember, I asked you to find the gnome's name for me."
 
 **GM** — *as Cullen, delivering the house line*
 > "Yes, yes, yes, yes. And of course, far be it from me to not deliver on what you've asked for."
@@ -154,7 +154,7 @@ source: gmassist
 > "So, what is it that you wanted to know? Like, where is he?"
 
 **Brewbarry** — *the ask, "Disk Gnome" as the tape has it*
-> "Where can I find Disk Gnome, and who does he work for?"
+> "Where can I find this gnome, and who does he work for?"
 
 **GM** — *acknowledging*
 > "Alright."
@@ -222,7 +222,7 @@ source: gmassist
 > "It's like judging a scotch."
 
 **Valphine Sotorra** — *citing KP's long name as the counterexample; the tape garbles "Kazneporium Ketternopappux"*
-> "And that's Raponium captured alphabucks."
+> "And that's Kazneporium Ketternopappux."
 > "Like, he's of a high class."
 
 **Vukradin** — *taken in*
@@ -246,7 +246,7 @@ source: gmassist
 **GM** — *Cullen's description of the gnome*
 > "All right, so, yes, so they describe a, Bimble, Bimble, Bimble is, is described as a, very fastidious gnome,"
 > "That, worked."
-> "the machinery of, work the machinery, but that Colin doesn't know anything more."
+> "the machinery of, work the machinery, but that Cullen doesn't know anything more."
 
 **Brewbarry** — *confirming the gaps*
 > "He doesn't know who hired him, who he's working for."
@@ -285,7 +285,7 @@ source: gmassist
 > "Alright, how can I detect if he's telling the truth?"
 
 **Vukradin** — *vouching*
-> "She's telling the truth."
+> "He's telling the truth."
 
 **Brewbarry** — *unconvinced*
 > "No."
@@ -318,11 +318,11 @@ source: gmassist
 > "We'll find the connection."
 
 **GM** — *garbled reply*
-> "You'll find the connections at the theory."
+> "You'll find the connection."
 
 **Brewbarry** — *still scheming*
 > "Yes."
-> "Still need to find a way to spy on Colin, though."
+> "Still need to find a way to spy on Cullen, though."
 > "I'll figure."
 
 **Vukradin** — *reality check*
@@ -374,10 +374,10 @@ source: gmassist
 **Soma** — *refining*
 > "Like a walkie-talkie."
 
-**GM** — *checking mechanics with Dave*
+**GM** — *checking mechanics with Vukradin's player*
 > "But can you force it to record on the other side, or…"
 > "you can now send a message to Cassian whenever you want."
-> "if I recall from your abilities, right, Dave?"
+> "if I recall from your abilities, right, Vukradin?"
 
 **Vukradin** — *clarifying*
 > "Well, if I… if I cast sending, yes."
@@ -417,7 +417,7 @@ source: gmassist
 > "This one… this is all you… this is beyond me, man. This is all you."
 
 **GM** — *tying it to the backstory; the tape says "ferry" where the fairy belongs*
-> "This is levels… I mean, Brewbarry, ever since Brewbarry got screwed over by a little… like, by a ferry that gave him, things, he's become increasingly paranoid."
+> "This is levels… I mean, Brewbarry, ever since Brewbarry got screwed over by a little… like, by a fairy that gave him, things, he's become increasingly paranoid."
 
 **Vukradin** — *agreeing*
 > "Yeah, huh."
@@ -543,11 +543,11 @@ source: gmassist
 
 **GM** — *as Vance, hedging; "constidation" as the tape has it*
 > "Well, it was a public announcement by the… I… I will get you a name, just there was a… there was a commission, who… who announced it, because, the, the, that's the word I'm looking for…"
-> "This was part of the… this was… this, of course, caused great constidation, as you… since you are now planning to be a man of wealth, and I'm sure Linene, as a wealth management consultant, has already communicated this to you."
+> "This was part of the… this was… this, of course, caused great consternation, as you… since you are now planning to be a man of wealth, and I'm sure Linene, as a wealth management consultant, has already communicated this to you."
 > "But the Commission was involved in managing the trade, and all the major houses had shares in the Commission."
 
 **Brewbarry** — *asking after the majority holder; "Metroid T holder" as the tape has it*
-> "Right. The Metroid T holder being…"
+> "Right. The majority holder being…"
 
 **GM** — *as Vance, naming Neverember*
 > "Lord, Neverember, is my understanding, but the Commission's membership was a tightly guarded secret."
@@ -579,8 +579,8 @@ source: gmassist
 > "Roll an insight check."
 
 **[The Assassin's Guild Suggestion]**
-- Valphine's 28 insight first produces a Harpers lead reasoned from her Menzoberranzan years; the GM then re-litigates it with Gary.
-- Gary prefers Valphine's own instinct — the Assassin's Guild — and the GM adopts it canonically.
+- Valphine's 28 insight first produces a Harpers lead reasoned from her Menzoberranzan years; the GM then re-litigates it with Valphine's player.
+- Valphine's player prefers Valphine's own instinct — the Assassin's Guild — and the GM adopts it canonically.
 - Vance turns pale; the party laughs it off as a cleric's jest.
 
 **Brewbarry** — *on his odds*
@@ -590,20 +590,20 @@ source: gmassist
 > "Okay."
 
 **GM** — *widening the roll*
-> "How are one of you rolling in sight?"
+> "How are one of you rolling insight?"
 > "Or history."
 
 **Brewbarry** — *shrugging*
 > "Not good."
 
 **Valphine Sotorra** — *the roll*
-> "28 inside."
+> "28 insight."
 
 **GM** — *the Harpers lead via Valphine's history*
 > "Brewbarry's question triggers a thought in Valphine, she, in their time in Menzoberranzan, she always knew that if somebody needed to go find somebody, the Harpers were the people you wanted to go talk to."
 
 **Brewbarry** — *"hoppers" as the tape has it*
-> "The hoppers, okay. Wait."
+> "The Harpers, okay. Wait."
 
 **Valphine Sotorra** — *in character*
 > "I knew from my time in Menzoberranzan."
@@ -627,7 +627,7 @@ source: gmassist
 > "from the…"
 
 **GM** — *the "overbright" logic, as the tape renders it*
-> "Overbright, so since you see from the overbright, and you've seen how unruthless everybody is about securing information, you've concluded that they must be the information purveyors in the overbright."
+> "Overbright, so since you see from the overbright, and you've seen how ruthless everybody is about securing information, you've concluded that they must be the information purveyors in the overbright."
 
 **Brewbarry** — *moving on*
 > "Alright, one last question."
@@ -646,7 +646,7 @@ source: gmassist
 **Brewbarry** — *the finance-and-information speech*
 > "Yeah, sounds to me like you need to rethink your strategy, my friend. I mean, finance is at the root of everything, and so is information. So how can you make more money without good information? I don't know. Anyway…"
 > "I'll find out who this gnome is, I'll find out who hired him, and I'll get to the bottom of this. Last question, would you have any idea why…"
-> "Lord, nevermembers people would tell me that they had nothing to do in the hiring of this,"
+> "Lord Neverember's people would tell me that they had nothing to do in the hiring of this,"
 > "gnome technician."
 
 **GM** — *correcting the attribution*
@@ -656,7 +656,7 @@ source: gmassist
 > "Yeah, yeah, House Margaster, yes."
 
 **GM** — *as Vance, confused; the tape garbles House Margaster as "Helspergaster"*
-> "Oh, it goes, it goes, oh, oh, no, no, no, no, he, he looks, he's very confused. Helspergaster would have nothing to do with the hiring of this, this individual."
+> "Oh, it goes, it goes, oh, oh, no, no, no, no, he, he looks, he's very confused. House Margaster would have nothing to do with the hiring of this, this individual."
 
 **Brewbarry** — *the membership question; second line garbled*
 > "Aren't they on the commission?"
@@ -694,8 +694,8 @@ source: gmassist
 > "and somebody on the team."
 > "All parts."
 
-**Brewbarry** — *OOC, referring to Dave in the third person*
-> "Dave has had enough of this."
+**Brewbarry** — *OOC, referring to Vukradin in the third person*
+> "Vukradin has had enough of this."
 
 **Vukradin** — *deadpan*
 > "Ding."
@@ -703,10 +703,10 @@ source: gmassist
 **Soma** — *the conspiracy-board joke*
 > "He's got the yarn board out already."
 
-**GM** — *revisiting his Harpers flail with Gary*
+**GM** — *revisiting his Harpers flail with Valphine's player*
 > "Alright."
-> "So, Gary, if… Sorry, so I just… I completely flailed on this. Valphine doesn't know about the Harpers, right? I mean, she… does she… does she suggest us secret services, or, like, how… what would she suggest in terms of how you would go find someone?"
-> "Are you okay with the… are you okay… are you okay with the heartburn narrative or not? That's, like…"
+> "So, Valphine, if… Sorry, so I just… I completely flailed on this. Valphine doesn't know about the Harpers, right? I mean, she… does she… does she suggest us secret services, or, like, how… what would she suggest in terms of how you would go find someone?"
+> "Are you okay with the… are you okay… are you okay with the Harper narrative or not? That's, like…"
 
 **Valphine Sotorra** — *the drow instinct*
 > "I don't know, like, I feel like, you know, the way to find someone is to put a, a hit out on them, and then it becomes someone else's problem to find them."
@@ -755,7 +755,7 @@ source: gmassist
 > "Valphine."
 
 **GM** — *Vance's reaction*
-> "Hold on, hold on. When, when, Colin… sorry, the Aurelan Vance hears that and kind of turns pale, looks at you, for a moment, he's like, you just, of course!"
+> "Hold on, hold on. When, when, Cullen… sorry, the Aurelan Vance hears that and kind of turns pale, looks at you, for a moment, he's like, you just, of course!"
 
 **Vukradin** — *smoothing it over*
 > "He jests. As you know, he's a cleric of Lathander."
@@ -765,7 +765,7 @@ source: gmassist
 
 **[Quid Pro Quo and Brewbarry's Arc]**
 - Brewbarry establishes a favor-for-favor relationship with Vance; Vukradin objects on principle.
-- The GM restates Brewbarry's backstory — the drugged berries, the stolen artifact, the exile, the paranoia — and Stéphane confirms the read.
+- The GM restates Brewbarry's backstory — the drugged berries, the stolen artifact, the exile, the paranoia — and Brewbarry's player confirms the read.
 - The session closes pointing at next week: Soma and her turtle soup.
 
 **Brewbarry** — *sealing the relationship*
@@ -784,8 +784,8 @@ source: gmassist
 **Vukradin** — *indignant*
 > "That is not how it works!"
 
-**Brewbarry** — *"Brube's world" as the tape has it*
-> "That's how it works in Brube's world."
+**Brewbarry** — *the tape garbles Brewbarry's name as "Brube"*
+> "That's how it works in Brewbarry's world."
 > "You know, you be nice to him, he'd be nice to you."
 
 **Vukradin** — *the aasimar's creed*
@@ -808,8 +808,8 @@ source: gmassist
 **Vukradin** — *endorsing the read*
 > "Yes, paranoid. Paranoid sounds right to me, yep."
 
-**GM** — *checking with the player; "stephane" lowercase as the tape has it*
-> "Does that, does that capture, of, stephane?"
+**GM** — *checking the read with Brewbarry's player; the player's real name scrubbed from the quote*
+> "Does that capture it?"
 
 **Brewbarry** — *confirming and extending*
 > "Yes, yes, but then, in Brewbarry's mind, people…"
@@ -831,5 +831,5 @@ source: gmassist
 **GM** — *pointing at next session*
 > "Alright, so next week we'll do with Soma and her turtle soup."
 
-**Soma** — *delighted, "Torto" as the tape has it*
-> "Torto soup!"
+**Soma** — *delighted; the tortle wants tortle soup*
+> "Tortle soup!"

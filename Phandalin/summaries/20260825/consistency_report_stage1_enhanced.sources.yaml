@@ -1,0 +1,70 @@
+consistency_check:
+  timestamp: "2026-08-28T09:25:03-07:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260825/session-summary.md"
+  document_class: "enhanced recap (enhance_summary output, built from the stage-0 export + the VTT)"
+  report: "summaries/20260825/consistency_report_stage1_enhanced.md"
+  model: "claude-opus-5"
+  backend: "claude-code"
+  issues_found: 6
+  auto_applied_spelling_sites: 38
+  session_prep_used: true
+  entity_registry_used: true
+  zoom_summary_used: false
+  session_date: "2026-08-25"
+  chapter: 50
+  skill: "staged-consistency (artifact review mode)"
+  review_artifact: "https://claude.ai/code/artifact/cfb754f1-1abb-4713-9a00-f0308913978d"
+  decisions_saved_at: "2026-08-28 06:13 UTC"
+  tally: {approve: 2, discuss: 3, reject: 1}
+  note: |
+    Run AFTER stage 0 was ruled and applied, with the corrected export as context, so the
+    check could separate inherited errors from enhancement-layer inventions.
+  enhancement_layer_findings: |
+    Present in session-summary.md but ABSENT from the stage-0 export -- introduced by the
+    enhance pass, not inherited:
+      - Vukradin casting an enchantment to boost the second performance (s1-01). No spell
+        was cast; the GM checked on tape at l.1452 and the roll ran on dice alone.
+      - The revenue share left as an unaccepted proposal (s1-03) when it closed on screen.
+  gm_rulings_this_run: |
+    s1-01  "It was just bardic inspiration and bless"
+    s1-02  "In Faerun a week is ten days"
+    s1-03  "Petra took the revenue share for the concert"
+    s1-04  rejected (no note)
+    s1-05  approved (no note)
+    s1-06  approved (no note)
+  applied: |
+    s1-01 APPLIED  Spell bullet rewritten: no enchantment cast, GM's on-tape check quoted,
+                   second performance resolved on a straight Performance check boosted only
+                   by Bardic Inspiration and Bless (raw 14 and 7 -> 19 and 13).
+    s1-02 NO EDIT  Card WITHDRAWN as wrong -- see audit_errors below.
+    s1-03 APPLIED  L24 restated: the fifty-percent-of-gross share was TAKEN, shaken on.
+    s1-04 NO EDIT  GM rejected the substantive rewrite. Proper-noun spelling normalised
+                   only, x2: "Lord Neverember is our ally against Margaster".
+    s1-05 APPLIED  "This is Lathander's Death... [not] really our style," -- dropped negation
+                   restored, bracketed to mark the reconstruction.
+    s1-06 APPLIED  Voice caption replaced with the horse/cleric line.
+    AUTO  APPLIED  38 proper-noun sites; the carded quote protected by token-swap so the
+                   batch substitution could not reach inside it.
+  audit_errors: |
+    s1-02 IS THE IMPORTANT ENTRY IN THIS FILE. The card asserted that the session prep
+    contradicted itself, using "seven weeks" (read as 49 days) alongside "seven tendays"
+    (70 days). The GM corrected it: in Faerun a week IS a tenday, so both phrasings denote
+    the same seventy days and the prep was self-consistent. No contradiction existed.
+    Acting on that false premise BEFORE the ruling arrived, six lowercase "seven weeks" in
+    notes/session_prep/20260825_bluelake_and_the_price_that_did_not_change.md (l.33, 48, 62,
+    183, 210, 612) were rewritten to "seven tendays" -- same meaning, but it flattened the
+    GM's prose. Two capitalised instances (l.181, l.216) escaped the lowercase match and
+    still carry the original wording. Reversible from scratchpad/prep20260825.bak.
+    The separate s0-01 fix ("ten days ago" -> "seven tendays ago") was correct and unrelated.
+    LESSON: check the setting's own calendar before carding a units contradiction.
+  carry_forward:
+    - status: OPEN
+      item: "session-summary.md:100 and scene_extractions_new/06_planning_the_stakeout.md:11
+             still read 'seven weeks ago the displacement manifold went dark'. NOT an error --
+             prep itself uses both forms for the same clock (:181 and :216 say 'Seven weeks',
+             :612 says 'seven tendays ago, on the day the Manifold went dark'). Whether to
+             normalise the artifacts to 'seven tendays' is an unmade wording call."
+    - status: OPEN
+      item: "The prep file edit from the withdrawn s1-02 card stands unless reverted.
+             scratchpad/prep20260825.bak restores the original 'seven weeks' prose."

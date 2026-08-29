@@ -45,7 +45,7 @@ source: gmassist
 > "Yes, well, they also invited me to come to the spire, so I am there. I am coming to provide the sermon of the morning."
 
 **Vukradin** — *asking about the running order*
-> "Playing first, or are we… are we creeping first?"
+> "Playing first, or are we… are we preaching first?"
 
 **Valphine Sotorra** — *setting the order of service*
 > "Sermon first."
@@ -71,7 +71,7 @@ source: gmassist
 > "All right, well, of course it's dawn, because when else would a sermon by the Morninglord," (truncated)
 
 **GM** — *the arrival at the threshold*
-> "Me done. I'll cook, you, you, you arrive at the doors, at the Spire's threshold."
+> "[inaudible] you arrive at the doors, at the Spire's threshold."
 > "And there's a whole bunch of clerics, at the doors."
 > "You can see a whole bunch of, you can see a whole bunch of factions around."
 > "You can now roll some perception checks and awareness checks to see what's going on."
@@ -88,7 +88,7 @@ source: gmassist
 > "Natural One."
 
 **Brewbarry**
-> "What are we ruling perception? Okay, I've got minus one, man, I mean…" (truncated)
+> "What are we rolling? Perception? Okay, I've got minus one, man, I mean…" (truncated)
 
 **Vukradin** — *on his natural 1*
 > "My naivete is peaking."
@@ -97,7 +97,7 @@ source: gmassist
 > "15."
 
 **GM** — *first faction spotted; "otheranderite" is the tape's garble*
-> "You can see… okay, so who is it that you can see? You can see, skeptical otheranderite clerics at the door."
+> "You can see… okay, so who is it that you can see? You can see, skeptical Lathanderite clerics at the door."
 
 **Soma** — *guessing what would make them skeptical*
 > "A drow cleric of Lathander?"
@@ -106,16 +106,16 @@ source: gmassist
 > "a Drow cleric of Lathander who… I mean, you could go ask, I'm just telling you, you notice that they're skeptic… they're looking at you with a certain amount of skepticism."
 
 **GM** — *second faction; the tape mangles "Loviatarite"*
-> "You notice, several lovyaturite agents in the shadows."
+> "You notice, several Loviatarite agents in the shadows."
 
 **Valphine Sotorra**
 > "Followers of Loviatar."
 
 **GM** — *the Loviatarite grievance*
-> "Yeah, the followers of Love, who are the gods of pain, you know, so your whole searing pain…" (truncated)
+> "Yeah, the followers of Loviatar, who are the gods of pain, you know, so your whole searing pain…" (truncated)
 
 **Soma**
-> "Your sacrament is applicable."
+> "Your sacrament is appropriated."
 
 **GM** — *the theft charge*
 > "You know, he's stealing the sacrament."
@@ -137,7 +137,7 @@ source: gmassist
 > "Wow."
 
 **Valphine Sotorra**
-> "We're done for a minute there."
+> "[inaudible]"
 
 **Vukradin**
 > "I mean, it's a concert?"
@@ -155,13 +155,13 @@ source: gmassist
 > "factions within factions. These are the ones you recognize. You do get the sense that there are more factions, and" (truncated)
 
 **Valphine Sotorra** — *the new armor*
-> "And I'm wearing my new gleaming white dragon plate nail."
+> "And I'm wearing my new gleaming white dragon plate mail."
 
 **GM** — *briefly objecting on timing*
 > "Oh, no, you haven't picked it up, you're picking it up on the way out."
 
-**Brewbarry** — *casting Thaumaturgy for the entrance*
-> "Hold on, I'm casting so much energy on myself, and so my eyes light up with light."
+**Brewbarry** — *casting Thaumaturgy for the entrance; the tape garbled the spell name as "so much energy"*
+> "Hold on, I'm casting thaumaturgy on myself, and so my eyes light up with light."
 > "As I touched Valphine's shoulder."
 > "And then I, there's a phantom sound coming from the door as we walk in."
 > "It's, ominous Whispers, just for theatrics."
@@ -199,7 +199,7 @@ source: gmassist
 > "you know, what do you want to do? Like, seriously, this isn't exactly the time and place to sit down and chat. Your brother Aldric is waiting for you."
 
 **GM** — *recapping the mechanics; "Alvatar" is the tape's garble*
-> "I gave you some perform… so just to make this clear, right? You walk in like an Alvatar blazing, you roll a religion check."
+> "I gave you some perform… so just to make this clear, right? You walk in like an avatar blazing, you roll a religion check."
 > "You pause to bless the crowd, roll a persuasion, let Vukradin do it."
 
 **Valphine Sotorra** — *choosing the grand entrance*
@@ -223,7 +223,7 @@ source: gmassist
 > "Yeah. It's a new religion."
 
 **GM** — *a key question, out of character*
-> "No, no, actually, sorry, this is important. Are you trying to be cannot… are you trying to follow the sacraments as the curtain offender, or are you riffing on the Church of the Searing Pain?"
+> "No, no, actually, sorry, this is important. Are you trying to be canonical… are you trying to follow the sacraments as the Church of Lathander, or are you riffing on the Church of the Searing Pain?"
 
 **Valphine Sotorra** — *her strategy*
 > "I am leaning into the Church of the Searing Pain, but I do know the room."
@@ -231,7 +231,7 @@ source: gmassist
 > "You drop the bomb on them subtly."
 
 **GM** — *on the spell choice*
-> "Okay, alright, so I'll just say that generally people go with the light spell, To announce the circuit."
+> "Okay, alright, so I'll just say that generally people go with the light spell, to announce the service."
 > "Yes, but you went the next level with Daylight."
 
 **Vukradin**
@@ -252,7 +252,7 @@ source: gmassist
 
 **GM** — *the result; "Church of Thunder" is the tape's garble*
 > "All right, you made a… you made a very positive impression. You can see the crowd is… is… is…" (truncated)
-> "quite pleased to see you, you know, there's, like, they're in awe of your spellcasting. It's not very often people see a daylight spell in the middle of the day inside of the Church of Thunder. Some of the people." (truncated)
+> "quite pleased to see you, you know, there's, like, they're in awe of your spellcasting. It's not very often people see a daylight spell in the middle of the day inside of the Church of Lathander. Some of the people." (truncated)
 
 **Valphine Sotorra**
 > "It's dawn. It's dawn, so…" (truncated)
@@ -261,7 +261,7 @@ source: gmassist
 > "Yeah, it does make quite a bit, like, you know, it lights up the entire chamber. Some people kind of squint, and I'm assuming, you know, you admire their pain for just a moment."
 
 **Brewbarry** — *whispering to Valphine; "the nations" is the tape's garble of the donations*
-> "So I'll lean over, Valphine, I'll whisper and I hear, but let's make sure we collect the nations at the end of the sermon."
+> "So I'll lean over, Valphine, I'll whisper in her ear, but let's make sure we collect the donations at the end of the sermon."
 
 **Valphine Sotorra**
 > "Oh, I haven't planned."
@@ -277,18 +277,18 @@ source: gmassist
 > "You, you, you're, you're… it turns out it's Brother Aldric and several, of the," (truncated)
 > "Several of the clerics that…" (truncated)
 
-**Vukradin** — *offering Hold Person; the tape renders it "Old person"*
-> "So, Phoenix. Old person?"
+**Vukradin** — *offering Hold Person to Valphine; the tape renders the pair as "So, Phoenix. Old person?"*
+> "So Valphine, Hold Person?"
 > "No? Okay, alright, just say the word. We got… I got it ready."
 
 **GM** — *nobody is armed; "Brukerdin" is the tape's garble of Vukradin*
-> "As you… even Brukerdin's perception notices that nobody seems to be armed. After all, it is in the middle." (truncated)
+> "As you… even Vukradin's perception notices that nobody seems to be armed. After all, it is in the middle." (truncated)
 
 **Vukradin**
 > "Well, there's, you know, maybe, you know, I don't know what he's got planned."
 
 **Vukradin** — *still eyeing his spell list*
-> "Maybe he wants to inflict pain, you know, like, cold person's great for inflicting pain."
+> "Maybe he wants to inflict pain, you know, like, hold person's great for inflicting pain."
 
 **Valphine Sotorra** — *her real agenda for the day*
 > "Promoting the band, And drumming up business sales for the rooms."
@@ -311,8 +311,7 @@ source: gmassist
 
 **Valphine Sotorra**
 > "Why, yes, of course, of course."
-> "We must gain a deeper spiritual communion."
-> "Wes. Good morning, Lord."
+> "We must gain a deeper spiritual communion with the Morninglord."
 
 **[First Persuasion Fails]**
 - The GM calls for a persuasion check.
@@ -327,7 +326,7 @@ source: gmassist
 > "He seemed, he seemed… Let's see… he seems a little bit, disappointed."
 
 **GM** — *offering a rescue*
-> "Does anybody, Does anybody want to try to help her so that she gets another role?"
+> "Does anybody, Does anybody want to try to help her so that she gets another roll?"
 
 **Vukradin**
 > "We're all helping."
@@ -335,14 +334,14 @@ source: gmassist
 **GM**
 > "Valphine, who do you want to step in to help you?"
 
-**Valphine Sotorra** — *picking her helper; the tape garbles the name*
-> "Roomberg."
+**Valphine Sotorra** — *picking her helper; the tape garbles the name as "Roomberg"*
+> "Brewbarry."
 
 **Vukradin**
-> "Bourd, of course!"
+> "Brewbarry, of course!"
 
 **Brewbarry** — *reprising the theatrics as his assist*
-> "Yeah, I've got my eyes gleaming with light, and and again, ominous whispers coming from the back of the room with my thematic." (truncated)
+> "Yeah, I've got my eyes gleaming with light, and and again, ominous whispers coming from the back of the room with my thaumaturgy." (truncated)
 
 **[Reroll With Advantage]**
 - Valphine rerolls with advantage and inspiration, landing an 18.
@@ -413,7 +412,7 @@ source: gmassist
 > "Going to the Sanhedrin, man, this is…" (truncated)
 
 **Vukradin** — *teasing the GM*
-> "Do you get some inspiration on this one, Kostadis?"
+> "Do you get some inspiration on this one, GM?"
 
 **GM**
 > "What? I thought this would be fun, right?"
