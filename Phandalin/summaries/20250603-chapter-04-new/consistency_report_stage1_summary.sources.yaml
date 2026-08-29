@@ -1,0 +1,79 @@
+consistency_check:
+  timestamp: "2026-08-19T19:33:11-07:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20250603-chapter-04-new/session-summary.md"
+  document_class: "enhanced recap (enhance_summary output, 2026-08-02) + backfill"
+  report: "summaries/20250603-chapter-04-new/consistency_report_stage1_summary.md"
+  config: "scratchpad throwaway with absolute paths"
+  backend: "claude-code"
+  issues_found: 24
+  issues_carded: 19
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-06-03"
+  stage: "1 of 3 (staged-consistency); review mode = artifact (batch)"
+  review_artifact: "https://claude.ai/code/artifact/4c0109fd-a66e-482d-81db-3f73c6ce8e77"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical registry + aliases" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted confirmed names" }
+      - { path: docs/chapters/chapter_03_to_find_a_shapeshifter.md, role: "neighbour chapter; opens where this session ends" }
+      - { path: summaries/20250603-chapter-04-new/session_2025_06_03_new_chapter_4.md, role: "SOURCE RECAP, already corrected at stage 0 — highest-value context for this document class" }
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-19"
+    applied_without_asking:
+      - "8 propagations of approved stage-0 rulings: Boney->bony (4), broken hatchet->broken hand axe (2), Linene's title, Command's 'divine decree', and the twice-healed Vukradin line"
+    applied:
+      - { finding: "s1-05..s1-18", ruling: "14 approved in the artifact", fix: "applied" }
+      - { finding: "s1-01..s1-04", ruling: "approved in chat after the save; the artifact save left them unmarked", fix: "applied — crit restored to Brewbarry, 'all four remaining orcs' -> 'both remaining orcs' (4), crit damage reconciled to 23, invented initiative removed" }
+    gm_rulings_this_run:
+      - "s1-19 (discuss): 'Let's have it be an in game ledger that the party uses to track money.' Applied — the beat and Vukradin's objection are kept; 'boolean column', 'spreadsheet' and the Excel talk are rendered as an in-world ledger column."
+    rejected:
+      - finding: "report #5 — the gem beat at the excavation is fabricated"
+        ruling: "REJECTED. It is verbatim on tape."
+        rationale: |
+          The report reasoned from three true observations — no grounding doc records a gem,
+          campaign_state marks the Hall of Greed 'NOT FOUND IN SUMMARIES', and the registry
+          calls Dazlyn 'forthright and honest to a fault' — to a false conclusion.
+          Tape 1282-1310: dave "They didn't die trying- to steal the gem?"; GM "what's the
+          point of having a gem if the orcs are gonna kill you? They're trying to decide
+          whether they need to run"; GM voicing Dazlyn: "You're not here for the gem, right?"
+          Acting on this would have DELETED true canon. The doc silence is a gap, not evidence.
+      - finding: "report #7 — Sacred Flame deals no damage on a successful save"
+        ruling: "REJECTED as a table ruling."
+        rationale: "GM: 'Oh, yes, he made his saving throw. One, one hit point. Made his save.' The GM outranks the PHB at their own table; the recap is table-accurate."
+      - finding: "report #19 — 'brother and sister' is a garble of 'brother'"
+        ruling: "REJECTED."
+        rationale: "Verbatim at line 2544: 'You killed my brother and sister.' Stage 0's singular was the party's boast, not the ogre's reply — the two documents were describing different lines."
+      - finding: "report #17 — 'forgets to rage at the start of multiple combats' overstates it"
+        ruling: "REJECTED as defensible."
+        rationale: "He forgets more than once in the orc fight; the GM's 'You, again?' confirms repetition."
+  vtt_adjudicated: |
+    THE DEFINING CATCH: '19' appears exactly ONCE in the entire transcript — as the crit
+    damage ("that's 19 plus four"). The enhancement pass used it twice: once correctly in
+    Items->Halberd, and once as Soma's initiative roll, which was never rolled. This is the
+    invented-precise-value failure mode, and no grounding doc could ever see it.
+    THE CRIT WAS INVERTED: the recap gave the ogre a critical hit on Brewbarry. The tape has
+    Brewbarry landing it ON the ogre via opportunity attack. Arithmetic closes exactly —
+    ogre 59, minus Sacred Flame 4 and Starry Wisp 8 = 47; 47 - 23 = 24, and the GM says
+    "He's down to 24." The ogre's real hit that round was 10, halved to 5 by rage.
+    SELF-CORRECTION: at stage 0 I applied "Boney" from the CLEANED transcript before checking
+    the RAW export, which reads "bony". Reverted. The cleaned sibling is glossary-passed and
+    is not authoritative for words that collide with entity names.
+  carry_forward:
+    - status: DONE
+      item: "All 19 stage-1 cards resolved (18 approved, 1 discuss-with-instruction). Both session files pass the step-6 propagation sweep clean."
+    - status: OPEN
+      item: "Stage 2 (scene_extractions_new/) and stage 3 (narration/) do not exist for this session. The load-bearing per-scene quote layer was never generated, so it was not checked."
+    - status: OPEN
+      item: "campaign_state.md credits Soma alone with retrieving the walloping ammunition; the tape has the GM giving it to the party generally. Generated file — fix at source."
+    - status: OPEN
+      item: "Dazlyn's gender is unrecorded in the registry and unspoken on tape. Rendered they/them per GM approval of s1-18; a GM ruling would let the registry settle it."
+    - status: NOTE
+      item: "Linene's supply-chain disruption is attested HERE, ~13 chapters before world_state's ch17 timeline entry. A genuine early seed of the Manifold thread, not an anachronism."

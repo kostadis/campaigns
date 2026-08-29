@@ -1,0 +1,78 @@
+consistency_check:
+  timestamp: "2026-08-24T11:14:44-07:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260818/session-summary.md"
+  document_class: "enhanced recap (enhance_summary output, built from the first-pass export + the VTT)"
+  report: "summaries/20260818/consistency_report_stage1_enhanced.md"
+  model: "claude-fable-5"
+  backend: "claude-code"
+  issues_found: 17
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-18"
+  chapter: 48
+  skill: "staged-consistency (artifact review mode)"
+  review_artifact: "https://claude.ai/code/artifact/438abf0c-ebb7-481d-9c2a-03ce3b0e7777"
+  note: |
+    Run AFTER stage 0 was ruled and applied, with the corrected first-pass export passed
+    as --context. That is what let the check confirm rather than re-report the stage-0
+    fixes, and it isolated the enhancement layer's own fabrications.
+  enhancement_layer_findings: |
+    Findings present in session-summary.md but ABSENT from the first-pass export — i.e.
+    introduced by the enhance pass, not inherited:
+      - "Vukradin announced the name of his new band ... at the Moonstone Mask" (s1-02).
+        The first-pass doc never mentions the Moonstone Mask at all.
+      - "a denial the DM confirms was not a lie" attached to the Margaster denial (s1-01).
+      - "He is later seen nervously talking to Lord Neverember" on Brother Aldric (s1-03).
+      - "previously stopped another party from attacking the group" on Cullen (s1-05).
+      - Three "(truncated)" quote markers, one of them spurious (s1-06).
+    This is the failure-mode profile the staged pattern exists to catch: a single
+    late-stage check cannot tell an inherited error from an invented one.
+  rulings: |
+    s1-01 APPLIED  DM's "he's not lying" (cue 5193) moved onto Cullen's location/employer
+                   answers; Margaster denial narrowed to Bimble's hiring. Propagated to
+                   both files.
+    s1-02 APPLIED  Mask announcement removed; the reveal is Vukradin's "We are Lathander's
+                   death" (cue 2245) at the Spire, which the recap had omitted entirely.
+    s1-03 APPLIED  Sentence deleted; the beat is Aldus's (cue 934).
+    s1-04 APPLIED  Purge attributed to the notary clerk; Neverember titled Lord Protector.
+    s1-05 APPLIED  Restated as Cullen calling off his own minder (cue 3201).
+    s1-06 APPLIED  Brewbarry's quote reconstructed from the Zoom .txt clause + the VTT's
+                   correct opening word; Vukradin's hymn keeps its ellipsis (two cues).
+    s1-07 APPLIED  "he's a cleric of Lathander" -> "she's" (3x). GM: "fix to she".
+    s1-08 APPLIED  Bless-on-checks annotated as a ONE-OFF table ruling, not a house rule.
+                   GM: "this was one off".
+    s1-09 NO EDIT  GM: "The plan has flaws that's good." Both entries already read as
+                   "the party plans to", i.e. aspirational. Left as-is deliberately.
+    s1-10 APPLIED  docs/entity_registry.yaml: Bimble Nackle [GM-only name] -> [GM-only
+                   location]; name released as party knowledge, KP structure still GM-only.
+    s1-11 NO EDIT  GM approved leaving real-world jokes in quoted table speech.
+  rejected_findings: |
+    Rejected against the tape / sheets, no action taken:
+      - "Brewbarry cannot cast Thaumaturgy" — characters/brewbarry.md:83,95 grants it via
+        Path of the Giant's Giant's Power. The check read docs/party.md, which omits it.
+      - "elderly notary" unverified — cue 4565 says "an elderly notary clerk who's genuine".
+      - "SOBA line" a probable garble — cue 4153 says it verbatim.
+      - Cassian cousin/brother — ruled by the GM at s0-13 (cousin by blood, brother in feeling).
+  carry_forward:
+    - status: OPEN
+      item: "docs/party.md does not record Brewbarry's Thaumaturgy (Giant's Power). This
+             generated a false-positive finding this run and will re-trigger every run
+             until fixed at source and regenerated."
+    - status: OPEN
+      item: "campaign_state.md still carries 'Brewbarry's dragon scale mail, 300 gp owed —
+             still uncollected'. GM ruled the armor was paid from the party's shared purse
+             and redirected to Valphine on Ostren Vayle's vision. Fix at source + regenerate."
+    - status: OPEN
+      item: "world_state / vtt_known_additions 'Valphine has worn White Dragon Plate +1 since
+             ch46' vs. tonight's first on-screen fitting. Not reconciled."
+    - status: OPEN
+      item: "Ostren Vayle needs an NPC statblock (GM ruling: first cleric of Lathander's
+             Searing Light) and promotion to the entity registry. Queued, not done."
+    - status: OPEN
+      item: "Brewbarry drifting toward the Searing Light — GM observation this session.
+             Arc-tracking item, not recorded in any doc yet."
+    - status: NOTE
+      item: "Three distinct canon names confirmed and NOT drift: Temple of Lathander's
+             Searing Pain of Justice (Phandalin temple), the Church of the Searing Light
+             (the sect), Lathander's Searing Light (the militant order, bible:9229)."

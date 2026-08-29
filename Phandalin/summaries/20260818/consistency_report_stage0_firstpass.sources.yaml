@@ -1,0 +1,41 @@
+consistency_check:
+  timestamp: "2026-08-24T11:14:12-07:00"
+  campaign: "Phandalin"
+  document_checked: "summaries/20260818/session_2026_08_18_session_2026_08_18.md"
+  document_class: "first-pass recap (GMAssistant export; treated as the stage-0 artifact per GM instruction, standing in for gm-assist.md which does not exist for this session)"
+  report: "summaries/20260818/consistency_report_stage0_firstpass.md"
+  config: "throwaway absolute-path config in scratchpad (Phandalin has no root config.yaml)"
+  model: "claude-fable-5"
+  backend: "claude-code"
+  issues_found: 18
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-18"
+  chapter: 48
+  skill: "staged-consistency (artifact review mode)"
+  review_artifact: "https://claude.ai/code/artifact/438abf0c-ebb7-481d-9c2a-03ce3b0e7777"
+  speaker_map: |
+    Derived from the tape, not assumed from campaign docs. All five participants present:
+      Kostadis Roussos (622 cues) = GM
+      David Mendenhall  (272)     = Vukradin
+      Stéphane Bourdeaud (271)    = Brewbarry
+      Gary Young        (232)     = Valphine
+      Wade Brown        (167)     = Soma
+    NOTE: an initial ASCII-only speaker regex silently dropped Stéphane (the "é"),
+    which briefly suggested the absent-player attribution-collapse failure mode.
+    It does NOT apply to this session. Use a unicode-safe pattern.
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary" }
+      - { path: notes/vtt_known_additions.md, role: "names confirmed but not yet promoted" }
+      - { path: notes/session_prep/20260818_spire_of_the_morninglord.md, role: "session prep (authoritative)" }
+      - { path: notes/session_prep/20260818_neverwinter_consolidated_live_state.md, role: "consolidated live-state prep incl. GM decisions of 2026-08-18" }
+    consulted_by_hand:
+      - { path: summaries/20260818/GMT20260819-035607_Recording.transcript.cleaned.vtt, role: "speaker-labelled VTT; every attribution ruling adjudicated here" }
+      - { path: summaries/20260818/session_2026_08_18_session_2026_08_18_transcript.txt, role: "Zoom text export; decisive on two words the VTT garbled (Hollow/Polo, thaumaturgy/matrixie)" }
+      - { path: characters/brewbarry.md, role: "settled the Thaumaturgy false positive (Giant's Power)" }

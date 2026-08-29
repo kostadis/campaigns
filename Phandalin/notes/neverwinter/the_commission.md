@@ -451,6 +451,87 @@ Zeleen took Don-Jon's documents off him before the carrion crawler got the body 
 
 ---
 
+### 13. What Margaster actually cornered — and why Neverember needs Leilon `[RULED]`
+
+**The port, not the trade. And that is the real reason for the adventurer policy and the Leilon project.** *(GM ruling, 2026-08-24.)*
+
+House Margaster did not corner Neverwinter's trade. They cornered **the distribution leg out of the harbour** — everything that arrives by sea and then has to reach the region. **They are not fools.** A genuine monopoly on all commerce into the North would bring **the Zhentarim** down on them, and the Zhentarim are not a rival house that can be out-papered. Their entire established position is that *"market dynamics should not be constrained by regulatory systems"* (`world_state.md:319`). A chokepoint is the one thing they exist to route around.
+
+**So Margaster took the single leg that cannot be bypassed from outside: the port.** Everything else stays contestable, which is exactly why nobody has come for them.
+
+#### 1. The overland alternative is real, and the Zhentarim own it `[PREP]`
+
+Goods reach Neverwinter down the **High Road** — from Waterdeep, the Trade Way, Triboar, Yartar — and that trade never touches the Commission's Harbor authority or Margaster's distribution. Slower, costlier per unit, entirely outside everyone's paperwork. This is the Black Network's actual competence and it needs no invention.
+
+#### 2. Lionshield's grievance now has a buyer `[PREP]`
+
+**Lionshield Coster HQ is Yartar — inland.** Ruling 7's section already establishes they hold a legitimate commercial claim against the Commission and no leverage. The Zhentarim have an overland network and want a wedge into Neverwinter trade. **That is a marriage.**
+
+And it routes straight through **Linene Graywind**, and therefore through **Brewbarry's bathrobe venture**, which ships through the Coster. The party's sincere redemption business is about to get its shipping fixed by principled amoralists. Vukradin will have opinions about the provenance of a solution that works.
+
+#### 3. The overland route only works if the road is safe. It is not. `[RULED]`
+
+**This is the part that re-explains everything, and it is the ruling's real payload.**
+
+**Leilon sits on the High Road, and Neverember is rebuilding it.** In the published material that is expansion. Here it is **survival**: Leilon is Neverember's attempt to build an alternative to his own captured port. It is the only move available to a chairman who is mortgaged (Ruling 7), losing his count (Ruling 1), and cannot dislodge House Margaster by paperwork because **they are better at paperwork than he is** (Ruling 4).
+
+The Leilon material already assumes exactly this strategic picture and never says why anyone cares. It now says why:
+
+| Already written | |
+|---|---|
+| `campaign arc.md:100` | A *Divine Contention* quest whose literal goal is **"Convince Lord Neverember to send troops to secure the High Road."** |
+| `campaign arc.md:101` | **"Rival cults of Talos and Myrkul vie for control of the High Road."** |
+| `campaign arc.md:89` | Chimera Crew bandits **"attacking merchants and stealing supplies for Leilon's reconstruction"** — hired by priests of Myrkul. |
+| `campaign arc.md:81` | Sahuagin raiders **burning food supplies** at Leilon Point. |
+
+**The fourth reading of the adventurer policy.** The doc already stacks three (commercial doctrine → hinterland enclosure → variable suppression, Rulings 5 and 7). Add the plainest one, which is also the one Neverember himself would give if he were honest: **he needs the road open, and he cannot send an army, because the army is the thing he does not have.** The Wintershield recruitment line reads a fourth way and is still accurate every time.
+
+**The bitter version, and it is free:** the party already did this job. They pacified the Phandalin hinterland — Cryovain, the Carver, the Talos cells, the Woodland Manse — at their own expense, and were paid a **200 gp dividend and a lecture about circulating wealth.**
+
+#### 4. Does House Margaster want Leilon to fail? `[RULED]`
+
+**No. They are ignoring Leilon entirely — and they will want a piece of it once it works.** *(GM ruling, 2026-08-24.)*
+
+**They are not an all-powerful agency and should never be run as one.** Two reasons, and the first is a consistency check the doc was drifting away from:
+
+- **Ruling 4 says their campaign is an eviction of the *Commission* from its own functions.** Leilon is not a Commission function. It is **Neverember's reconstruction project.** It is not on their list because it is not theirs to take.
+- **They already hold the most valuable piece of the board.** A house sitting on the port does not go hunting a worse position on a dangerous road two hundred miles south.
+
+**So their posture is: uninvolved, and rooting for success.** A prosperous Leilon means more goods moving through the region, and more goods moving means more that eventually touches a harbour they control. **They profit from the party's victory without lifting a finger, and they know it.**
+
+**And when it works, they arrive.** Not as saboteurs. As investors, licensors, and partners with a very reasonable offer.
+
+> **The payoff is already on screen and the party has already heard it — from the other side.** A Wintershield guard told Vukradin the Commission's doctrine to his face:
+>
+> *"Once the adventurers have pacified the area, we will arrive and establish order and the proper laws."*
+>
+> **House Margaster is about to run the private-sector version of that sentence**, and the party will not recognise it, because the last time they heard it, it was a government talking.
+
+**What this costs the party, and it is the whole enclosure theme with no villain in it:** *they cannot win by winning.* Clearing the High Road and making Leilon prosper is the correct, heroic, necessary thing to do — and doing it summons the exact commercial interest they came south to get away from. **Nobody has to scheme.** Success is the summons.
+
+**Fresh start, and continuation.** `[RULED]`
+
+- **Fresh:** Margaster is *not there*. Leilon is a new map with new antagonists — Talos, Myrkul, sahuagin, the Ruinstone — and the party gets out from under the Neverwinter paper war entirely. The forgeries, the Factors, the writs: none of it follows them.
+- **Continuation:** the *reason Leilon matters at all* is Neverember's captured port (§3 above). The economics follow them even though the house does not. And Margaster arrives later, drawn by the light.
+
+---
+
+## Scope — what tier the party is actually playing at `[RULED]`
+
+*(GM ruling, 2026-08-24. Recorded here because it governs how this faction is run; the general version belongs in `notes/arc_cleanup/campaign_spine.md`.)*
+
+**5e scopes by tier: levels 1–5 a village, 5–10 a region, 10–15 a kingdom.** The party is **level 7**, and their region is the **Leilon–Phandalin–Neverwinter hinterland**.
+
+**Consequences for playing the Commission, and they resolve several things the doc was straining at:**
+
+- **Neverwinter-as-institution is a kingdom-tier target and the party is a tier below it.** The Commission is therefore **not a beatable opponent right now and must never be presented as one.** It is weather. That is not the GM protecting a faction — it is the correct scope.
+- **The two identified forgeries are a kingdom-tier weapon held at region tier.** Which retroactively vindicates the party's own instinct to sit on them. They are not being timid; they are holding a card they cannot yet cash.
+- **The win that *is* available is the region**: the High Road, Leilon, the Phandalin corridor. Which is precisely what Neverember needs (§3), and precisely what makes the dinner a real negotiation rather than an audience.
+- **Ruling 2's stated win condition is already tier-correct.** "Getting one person out" — finding the Factor who says *I* — is a **personal** victory, not an institutional one. A region-tier party can save a man. It cannot dissolve a combine.
+- **The illithid core is not a region-tier reveal.** It stays staged for the Leilon tier and beyond, via the Drowned Gate and the Echoes Score, exactly as Ruling 10 paces it.
+
+---
+
 ## Doc hygiene — the Bucherton phantom `[RESOLVED 2026-08-19]`
 
 **"Mr. Bucherton" is not a person. It is a Zoom garbling of Vukradin**, recorded as such at `notes/vtt_transcription_corrections.md:13` alongside *Vucherton*, *Bucherding*, *Buchert* and ~100 other variants.

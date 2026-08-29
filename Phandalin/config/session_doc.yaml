@@ -1,5 +1,5 @@
 paths:
-  session_recap: gm-assist.md
+  session_recap: session_2026_08_25_chapter_50_the_broads_of_the_common_chord_and_the_board_laid.md
   session_summary: session-summary.md
   scene_extractions_dir: scene_extractions_smoothed
   narration_dir: narration
@@ -9,7 +9,9 @@ paths:
   examples_dir: examples
   genre_file: voice/_genre.md
 extract:
-  tokens: 8192
+  tokens: 32000
+  batch_scenes: null
+  batch_tokens: 32000
 narrate:
   tokens: 32000
   prose_mode: true
@@ -41,6 +43,11 @@ backends:
     model: null
     batch: null
     endpoint: null
+  codex-cli:
+    backend: anthropic
+    model: null
+    batch: null
+    endpoint: null
 session_name: null
 profiles:
 - name: Phandalin
@@ -48,6 +55,6 @@ profiles:
     narrate_tokens: 32000
     prose_mode: true
     reflections: true
-    narration_genre_file: /home/kroussos/campaigns-phandalin/Phandalin/voice/_genre.md
+    narration_genre_file: /home/kroussos/Phandalin/Phandalin/voice/_genre.md
     backend: claude-code
 active_profile: Phandalin

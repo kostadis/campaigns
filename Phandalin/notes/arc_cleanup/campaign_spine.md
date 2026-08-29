@@ -16,6 +16,30 @@ The campaign runs levels 1–20 across four published modules with a custom epic
 
 ---
 
+## Scope by Tier — what the party can act on
+
+*(GM ruling, 2026-08-24.)*
+
+**5e scopes by tier: levels 1–5 a village, 5–10 a region, 10–15 a kingdom.**
+
+| Tier | Scope | This campaign |
+|---|---|---|
+| 1–5 | A village | **Phandalin.** Cryovain, the Carver, the local orc threat. Delivered. |
+| 5–10 | **A region** | **The Leilon–Phandalin–Neverwinter hinterland.** ← *the party is here (level 7)* |
+| 10–15 | A kingdom | Neverwinter as an institution; the Commission; House Margaster as a house rather than a fixer. |
+
+**The operative consequence at level 7: Neverwinter-as-institution is one tier above them.** They can be famous in the city, dine with its Lord Protector, bank at its counting house and be courted by its factions — but they cannot *take on* the Commission, House Margaster, or the Crown as institutions, and the campaign should not offer that as an available win. The city is the setting; it is not yet the opponent.
+
+**What is winnable now is the region** — the High Road, Leilon's reconstruction, the Phandalin corridor between them. Which happens to be exactly what Lord Neverember needs (see `notes/neverwinter/the_commission.md` Ruling 13: Margaster holds the port, so the overland road is his only alternative, and the road is not safe).
+
+**This also explains, rather than excuses, several things already true at the table:**
+
+- The party holds **two identified forgeries and has spent neither.** That is a kingdom-tier weapon held at region tier. Their instinct to sit on it has been correct.
+- The Commission cannot be defeated, only *survived and understood.* Its stated win condition — getting one Factor out — is a **personal** victory, which is what a region-tier party can achieve against a kingdom-tier institution.
+- House Margaster is currently a **fixer with a writ**, not a house at war with them. Cullen Sharpe is the correct scale of Margaster antagonist for level 7.
+
+---
+
 ## The Shape of the Campaign
 
 Levels 1–13 are a regional conflict. Multiple factions — two death cults, a Kraken Society, a cosmic agent, personal vendettas — are squabbling over the same geography and the same artifacts. The party is a major player but the threat feels local in scale.
