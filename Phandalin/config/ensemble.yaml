@@ -1,10 +1,52 @@
 chapters_selected:
-- docs/chapters/chapter_04_the_bard_the_kings_and_the_carver.md
-- docs/chapters/chapter_03_to_find_a_shapeshifter.md
 - docs/chapters/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th.md
+- docs/chapters/chapter_02_arrival_in_phandalin.md
+- docs/chapters/chapter_03_to_find_a_shapeshifter.md
+- docs/chapters/chapter_04_the_bard_the_kings_and_the_carver.md
+- docs/chapters/chapter_05_saving_adabra.md
+- docs/chapters/chapter_06_vukradin_rank_cheval.md
+- docs/chapters/chapter_07_conflict_free_gold_a_curious_side_quest_and_a_delightful_ambush.md
+- docs/chapters/chapter_08_the_tower_of_storms_echoes_art_and_the_serpent_s_coil.md
+- docs/chapters/chapter_09_the_beating_heart_of_the_storm_and_whispers_from_the_deep.md
+- docs/chapters/chapter_10_phandalin_old_debts_and_new_suspicions.md
+- docs/chapters/chapter_11_the_stag_the_brambles_the_wolves_and_the_pool.md
+- docs/chapters/chapter_12_naturalists_and_interventionists.md
+- docs/chapters/chapter_13_confronting_adabra_and_learning_of_the_interventionists.md
+- docs/chapters/chapter_14_the_butterskull_quest.md
+- docs/chapters/chapter_15_freeing_big_al_petunia_and_watching_a_ranch_burn.md
+- docs/chapters/chapter_17_blood_money_clean_gold_and_fine_wine.md
+- docs/chapters/chapter_18_falcon_s_hoard_and_hidden_truths.md
+- docs/chapters/chapter_19_to_the_loggers_camp.md
+- docs/chapters/chapter_20_the_orc_ambush.md
+- docs/chapters/chapter_21_the_spirals_grasp.md
+- docs/chapters/chapter_22_when_boars_are_more_than_just_boars.md
+- docs/chapters/chapter_23_from_retreat_to_redemption_and_cheese.md
+- docs/chapters/chapter_24_the_ale_the_ex_and_axeholm.md
+- docs/chapters/chapter_25_where_reality_unravels_breaching_axelholm.md
+- docs/chapters/chapter_26_from_out_of_phase_dwarves_to_mechanical_mysteries.md
+- docs/chapters/chapter_27_sisters_against_the_machine.md
+- docs/chapters/chapter_28_when_the_machine_screams_a_family_affair.md
+- docs/chapters/chapter_29_drones_dread_and_dangerous_deliveries.md
+- docs/chapters/chapter_30_a_cheesy_compromise_in_the_mine.md
+- docs/chapters/chapter_31_brewbarry_s_bloody_axe_and_the_beer_blight.md
+- docs/chapters/chapter_32_a_grave_new_friend_and_a_glimmering_blade.md
+- docs/chapters/chapter_33_silencing_the_siren_s_warning.md
+- docs/chapters/chapter_34_the_one_hit_point_principle.md
+- docs/chapters/chapter_35_the_carver_is_not_the_carver.md
+- docs/chapters/chapter_36_a_dragon_defeated_a_bard_tempted_a_barbarian_s_vengeance.md
+- docs/chapters/chapter_37_a_gem_of_a_problem_a_rat_of_a_solution.md
+- docs/chapters/chapter_38_the_intervention.md
+- docs/chapters/chapter_39_the_charge_of_the_light_brigade.md
+- docs/chapters/chapter_40_through_the_valley_to_the_top_of_the_hill.md
+- docs/chapters/chapter_41_unraveling_the_storm_god_s_secrets.md
+- docs/chapters/chapter_42_a_storm_is_coming.md
+- docs/chapters/chapter_43_the_aasimar_has_landed.md
+- docs/chapters/chapter_44_the_unfated_routine_of_rimardo_and_corrin.md
+- docs/chapters/chapter_45_victory_lap.md
+- docs/chapters/chapter_46_universal_basic_treasure.md
 extract:
   backend: dgx
-  model: deepseek-ai/DeepSeek-V4-Flash-0731
+  model: deepseek-ai/DeepSeek-V4-Flash-DSpark
   batch: null
   endpoints:
   - http://192.168.1.147:8001/v1
