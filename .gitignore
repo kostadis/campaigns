@@ -1,6 +1,13 @@
 # Windows NTFS "downloaded from browser" metadata streams
 *:Zone.Identifier
 
+# Vim swap files. Unanchored on purpose: these appear next to whatever file is
+# being edited, in any campaign. .swo/.swn are the rollover names vim uses when
+# a .swp for that file already exists.
+*.swp
+*.swo
+*.swn
+
 # Accidental symlinks to filesystem mount points
 /mnt
 /wsl
@@ -17,6 +24,11 @@ refs.local.yaml
 # tokensave MCP index/cache (regenerable, not source). Unanchored on purpose:
 # the server writes its SQLite db + WAL into whichever campaign dir it runs in.
 .tokensave/
+
+# graphify knowledge-graph output. Regenerable from source, ~21MB per run, and
+# graph.json alone is 8.8MB. Root-scoped like /logs/ below: this is where the
+# tool lands when run from the repo root.
+/graphify-out/
 
 # Stray CampaignGenerator server logs from running the tool at the repo root
 # instead of inside a campaign dir. Root-scoped on purpose: a bare `logs/` would
