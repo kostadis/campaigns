@@ -18,6 +18,11 @@ refs.local.yaml
 # the server writes its SQLite db + WAL into whichever campaign dir it runs in.
 .tokensave/
 
+# graphify knowledge-graph output. Regenerable from source, ~21MB per run, and
+# graph.json alone is 8.8MB. Root-scoped like /logs/ below: this is where the
+# tool lands when run from the repo root.
+/graphify-out/
+
 # Stray CampaignGenerator server logs from running the tool at the repo root
 # instead of inside a campaign dir. Root-scoped on purpose: a bare `logs/` would
 # match at any depth and silently stop toee's version-controlled pipeline run
