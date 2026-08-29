@@ -1,0 +1,20 @@
+version: 1
+threads:
+- id: the-carver
+  title: the Carver
+  status: open
+  opened: 4
+  resolved: null
+  tracker: null
+  notes: ''
+  aliases: []
+  log:
+  - chapter: 2
+    change: advanced
+    summary: The Bandit King and his Gang
+  - chapter: 4
+    change: opened
+    summary: A bandit boss called the Carver is referenced but has never been met
+      by the bandit, who worked with Jax.
+    quote: He’s the big boss. And he’s big. I’ve never met him. I just worked with
+      Jax.”

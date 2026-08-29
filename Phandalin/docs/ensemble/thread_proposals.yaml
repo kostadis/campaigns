@@ -1,0 +1,232 @@
+note: 'Proposals, not canon — but this file IS read downstream: the planning document''s `emerging` section
+  renders the pending queue, so every ruling marks it stale. A GM ruling is preserved across re-proposes
+  (rejected/deferred are a one-way door; a ratified candidate returns when later chapters mention it).
+  Ratify on the Threads page (/grounding/threads) or with the thread_registry verbs.'
+proposals:
+- norm: creature-terrorizing-the-cave-system
+  title: creature terrorizing the cave system
+  all_titles:
+  - creature terrorizing the cave system
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: King Gnercli says there is a creature terrorizing the cave system and asks if Vukradin can deal
+      with it.
+    quote: Look, there is some kind of creature that is terrorizing our cave system. Can you deal with
+      it or not?
+    source: chapter
+- norm: creatures-nature
+  title: creature's nature
+  all_titles:
+  - creature's nature
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: The creature is not bipedal and could shape shift into big things.
+    source: chapter
+- norm: dragon-threat
+  title: dragon threat
+  all_titles:
+  - dragon threat
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: The party is on a mission to acquire a device to fight a dragon.
+    quote: the mayor is looking for some kind of magical device that can help fight against the threat
+      of the dragon.
+    source: chapter
+- norm: inventors-tamper-proof-voting-box
+  title: inventors' tamper-proof voting box
+  all_titles:
+  - inventors' tamper-proof voting box
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: The inventors argue over whether a tamper-proof voting box is possible.
+    quote: Or rather, arguing over whether such a thing is possible.
+    source: chapter
+- norm: king-korbozs-madness
+  title: King Korboz's madness
+  all_titles:
+  - King Korboz's madness
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: Gnomengarde's inventors are focused on curing King Korboz's madness.
+    quote: we are entirely focused on a cure for King Korboz’s madness.
+    source: chapter
+- norm: ordning-reinstated
+  title: Ordning reinstated
+  all_titles:
+  - Ordning reinstated
+  matches: null
+  chapters:
+  - 1
+  status: pending
+  evidence:
+  - chapter: 1
+    fact: Had the Ordning not been reinstated, and had the Giants initiated an assault on the cities,
+      the outcome would have been catastrophic.
+    quote: Had the Ordning not been reinstated, and had the Giants initiated an assault on the cities,
+      the outcome would have been catastrophic.
+    source: chapter
+- norm: rules-of-aos
+  title: rules of Aos
+  all_titles:
+  - rules of Aos
+  matches: null
+  chapters:
+  - 1
+  status: pending
+  evidence:
+  - chapter: 1
+    fact: The rules of Aos always have exceptions, which convinced the gods to try again.
+    quote: the rules of Aos always have exceptions
+    source: chapter
+- norm: sanity-ray-vs-straitjacket-debate
+  title: sanity ray vs straitjacket debate
+  all_titles:
+  - sanity ray vs straitjacket debate
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: Fibblestib and Dabbledob argue over Fibblestib's proposed sanity ray versus Dabbledob's proposed
+      straitjacket with no holes for the hands.
+    source: chapter
+- norm: shapeshifter-threat
+  title: shapeshifter threat
+  all_titles:
+  - shapeshifter threat
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: The gnomes of Gnomengarde are on guard against shapechangers, with standing orders to attack
+      them on sight.
+    quote: Your standing orders are only to attack shape changers
+    source: chapter
+- norm: shapeshifters-location
+  title: shapeshifter's location
+  all_titles:
+  - shapeshifter's location
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: King Gnercli guesses the shapeshifter would hide in the cellar, where there are many barrels.
+    quote: The cellar. There are a lot of barrels.
+    source: chapter
+- norm: stolen-treasure
+  title: stolen treasure
+  all_titles:
+  - stolen treasure
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: Vukradin says a fleeing bandit is taking stolen treasure.
+    source: chapter
+- norm: the-carver
+  title: the Carver
+  all_titles:
+  - The Carver
+  - the Carver
+  matches: null
+  chapters:
+  - 4
+  status: ratified
+  evidence:
+  - chapter: 4
+    fact: A bandit boss called the Carver is referenced but has never been met by the bandit, who worked
+      with Jax.
+    quote: He’s the big boss. And he’s big. I’ve never met him. I just worked with Jax.”
+    source: chapter
+  - chapter: 4
+    fact: A bandit says The Carver is the big boss, whom he has never met, and that he only worked with
+      Jax.
+    quote: He’s the big boss. And he’s big. I’ve never met him. I just worked with Jax.
+    source: chapter
+  - chapter: 4
+    fact: A surviving bandit tells the party about the Carver, his boss.
+    quote: He’s the big boss. And he’s big. I’ve never met him.
+    source: chapter
+  ruled_thread: the-carver
+- norm: the-deal
+  title: the deal
+  all_titles:
+  - the deal
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: Vukradin agrees to the deal for 50 gold, despite finding the nature of the deal distasteful.
+    quote: Vukradin ponders the distasteful nature of such a deal, counts the 50 gold in his head, and
+      sighs, “deal.”
+    source: chapter
+- norm: the-play-in-triboar
+  title: the play in Triboar
+  all_titles:
+  - the play in Triboar
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: A play in Triboar featuring a demon character named Bob is mentioned and a revival is suggested.
+    quote: There was a play in Triboar. It had as its main actor someone who was always dressed in character
+      as a Demon, but had the most ridiculous name, Bob.
+    source: chapter
+- norm: triboar-play-script
+  title: Triboar play script
+  all_titles:
+  - Triboar play script
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: The script for the Triboar play is lost; the Bard wants to recover it for a revival.
+    quote: I am not sure where you would go to find the script, but Triboar is as good a place as any.
+    source: chapter
+- norm: unpaid-soma
+  title: unpaid Soma
+  all_titles:
+  - unpaid Soma
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: Soma remembers that she hasn't been paid and decides not to tell Vukradin about the bird that
+      sings a single note all season.
+    quote: I remembered that I hadn’t been paid, and decided not to.
+    source: chapter
