@@ -1,6 +1,13 @@
 # Windows NTFS "downloaded from browser" metadata streams
 *:Zone.Identifier
 
+# Vim swap files. Unanchored on purpose: these appear next to whatever file is
+# being edited, in any campaign. .swo/.swn are the rollover names vim uses when
+# a .swp for that file already exists.
+*.swp
+*.swo
+*.swn
+
 # Accidental symlinks to filesystem mount points
 /mnt
 /wsl
