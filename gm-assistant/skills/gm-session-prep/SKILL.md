@@ -53,13 +53,67 @@ Co-GM prep docs in this workspace follow a recognizable shape. The user has corr
 - **Theatrical timing matters.** When to be silent. When to escalate. When to let an NPC interrupt. Call these out as stage directions.
 - **Modern register is fine.** Contemporary jokes, management-speak, references — all in bounds. Don't force "thou."
 - **The Tenday calendar is real.** Use FR date stamps when relevant.
+- **Mark provenance on every claim.** The GM must be able to tell, at a glance, what is adventure canon, what is already-played table history, and what you invented. See *The three mandatory blocks*, below.
+- **No NPC arrives unannounced.** If someone can speak this session, they are in the cast sheet with a reason for being there.
+- **Offstage clocks are visible to the GM.** Anything running on its own schedule is listed up front, not buried in a branch.
+
+## The three mandatory blocks (before Scene 1)
+
+**These go at the top of every prep doc, after the rulings and before the first scene.** They exist because of three failures at the table, and each block fixes one.
+
+### 1. Provenance legend — and tag accordingly
+
+The GM cannot tell where the module ends, the intended plan begins, and your invention starts. **Fix it with visible tags:**
+
+| Tag | Means | Trust |
+|---|---|---|
+| `[MODULE §x]` | Adventure text, with a section reference | Canon |
+| `[TABLE]` | Already played, or a locked ruling | Canon |
+| `[OVERLAY]` | **Yours.** Invention, staging, connective tissue, recommendations | **Cuttable — nothing downstream breaks** |
+
+State the tiebreak explicitly: **if an overlay item and a module item disagree, the module wins and the overlay is what you got wrong.**
+
+*Failure this fixes: prep docs blended module canon, campaign state, and invention indistinguishably, so the GM could not tell what was safe to cut or what the adventure actually required.*
+
+### 2. THE CAST — everyone who can walk on this session
+
+A table: **who they are, what they are, why they are here, and the source tag.**
+
+**Include module-supplied support NPCs first** — the allied detachment attached to an objective, the faction contact, the escort. **These are the ones that ambush the GM**, because they arrive automatically without being anybody's plot.
+
+*Failure this fixes: an allied priestess the module attaches to an objective walked into a scene and the GM said "what's she doing there?" — she had been mentioned only in a setup line and an NPC-notes footer.*
+
+### 3. ALREADY IN MOTION — clocks running whether or not the party touches them
+
+A table of everything happening offstage this session on its own schedule, with where each one stands tonight.
+
+**The rule this enforces:** *if something is going to land on the party later, it should already be visible this session as noise, weather, or a messenger — never introduced at the moment it matters.*
+
+*Failure this fixes: a major NPC was leaving a trail of bodies across the region during a session and the GM did not realise it was happening.*
+
+---
 
 ## Output shape
 
-Use `toee/notes/phase3_endgame.md` as the template. The headings vary by session shape, but the canonical structure is:
+Use `toee/notes/phase3_endgame.md` for register and `toee/notes/sessions/nulb-knows-now.md` for **structure** — the latter states the intended session order up front in a blockquote, gives "keep this beside you" reference tables before Scene 1, and labels its invented layer explicitly as an overlay. The headings vary by session shape, but the canonical structure is:
 
 ```
 # {Session title — evocative, not functional}
+
+Co-GM working doc. Not canon yet — staging for {what session}.
+Party: {level, names, who is player-run vs GM-run}
+Register: {one line — the genre this session is in}
+
+> **Scope:** where the session opens and where it stops. State the intended order and say what NOT to pull forward.
+
+## How to read this doc — provenance legend
+{[MODULE §x] / [TABLE] / [OVERLAY], and the tiebreak}
+
+## THE CAST — everyone who can walk on tonight
+{Table: who / what they are / why they are here / tag. Module-supplied support NPCs FIRST.}
+
+## ALREADY IN MOTION — running whether or not the party touches it
+{Table: what / where it stands tonight / tag}
 
 Co-GM working doc. Not canon yet — staging for {what session}.
 
@@ -119,8 +173,9 @@ Co-GM working doc. Not canon yet — staging for {what session}.
 2. Ask the 1-4 inputs the user hasn't supplied, one at a time.
 3. Draft the doc to `notes/session_prep/{YYYYMMDD}_{slug}.md` if that path exists, else to `notes/{slug}.md`. The user can move it.
 4. Open with a 2-3 sentence summary of what you understood from the docs so the user can catch you if you misread.
-5. Produce the working doc.
-6. End with **Open decisions** explicitly. Don't decide things the user should decide.
+5. Produce the working doc. **Write the three mandatory blocks before writing any scene** — building the cast sheet first is also how you catch NPCs you were about to leave unintroduced.
+6. **Re-read your own scenes and check every named NPC appears in the cast sheet.** If one doesn't, add it — that is exactly the NPC that will surprise the GM.
+7. End with **Open decisions** explicitly. Don't decide things the user should decide.
 
 ## What this skill is NOT for
 

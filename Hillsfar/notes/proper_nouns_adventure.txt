@@ -1,0 +1,34 @@
+# Verified proper nouns for the Hillsfar (DDEX3-04) VTT spell pass.
+# Flat, one per line. Passed to find_unknowns.py / cluster_unknowns.py via
+# --extra-known. These are CONFIRMED vocabulary, not corrections: entries here
+# are treated as already-known and never surfaced as candidate misspellings.
+# Seeded 2026-08-22 from the Chapter 20 pass.
+Azer
+Azers
+Behir
+Duergar
+Owlbear
+Colossus Slayer
+Oathbow
+Undercommon
+Drow Elite Warrior
+Drow Warrior
+Rilira
+Korkan
+Rylzyn
+Rylzyn Veth
+Sorn
+Solom
+Grundar
+Grundar Ashmantle
+# Added 2026-08-22 from the Chapter 21 (2026-07-27) pass — already-correct
+# names that surfaced as unknowns only because no dictionary carried them.
+Overbright
+Dimos
+Nicholas
+Decha
+Grek
+Galeb Duhr
+Stone Father
+Skoraeus Stonebones
+Dimokritos
