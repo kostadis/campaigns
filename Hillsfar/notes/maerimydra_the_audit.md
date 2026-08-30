@@ -42,17 +42,27 @@ The heist landing is not the win. The win is that **taking it costs them one of 
 
 The heist window is **DDEX3-16 Part 3**, when the party is already inside the city on a breach objective. **Part 4 interrupts it on the module's own schedule** — Mother's derro hit the rear lines whether or not the vault is open.
 
-So the fork in Part 4 is no longer two options. It is three, and each one has a GM-run advocate:
+So the fork in Part 4 is no longer two options. It is three:
 
 | Option | Advocate | The argument |
 |---|---|---|
-| **Rally the Lines** — save the North Gate | **Bramgrim** | Hundreds of allies are dying and we are in a tower stealing a book |
-| **Rescue Solom** — Dorina has him | **The Harper commission** *(Alder's, on Daein or Felkur)* | Without him the drow desert and the alliance ends |
+| **Rally the Lines** — save the North Gate | **Coralynn Winsail** *(§209 — **she knows them**; see `notes/npcs/coralynn_winsail.md`)* | Hundreds of soldiers of Hillsfar are dying while you are in a tower stealing a book |
+| **Rescue Solom** — Dorina has him | **Elanil, in person** *(§213)* — **and Bramgrim's Harper brief** | Without him the drow desert and the alliance ends |
 | **Finish the heist** — the vault is open | **Akritas** | The Enclave's High Council gave a direct order and the city will never be this distracted again |
 
-> **Three positions, two deciders.** Same engine as the Velasta scene: each advocate gets one clear statement, then you stop talking and look at Daein and Felkur. Do not let Bramgrim and Akritas resolve it between them.
+> **UPDATED — Bramgrim took Alder's commission** *(Ch24)*. That changes this scene, because he was previously the Rally advocate and now carries the brief that argues the opposite. **Do not give him both positions.**
+>
+> **The fix, and it is better than the original:** the module already supplies two NPC advocates — **Coralynn Winsail arrives bloodied and begging** for the North Gate, and **Elanil comes herself** for Solom. Let them carry those cases. **Bramgrim's role is now to be genuinely torn**, and to say so once:
+>
+> > "My instinct is the gate. Hundreds of them, and I know most of their names now." *(a beat)* "But I signed something. And the thing I signed says Solom, at all costs." *(he looks at the two of them)* "I don't think I should be the one who decides this."
+>
+> Then he defers, and **stops talking**, and the decision sits with Daein and Felkur where it belongs. **Three positions, two deciders**, exactly as before — the GM-run PCs just hold one each instead of two.
 >
 > **Akritas's case is the ugliest and the strongest.** She has said she would kill the drow allies at the first excuse; she agreed to the Nerevenan alliance on pure utility; and she sat on this order for an entire arc. She will argue for the book over the army without flinching, and she will be *correct* about the window closing.
+>
+> **Coralynn is not a stranger, and that is the whole weight of her side.** She met this party during the Hillsfar arc and **watched them free the city — break Graz'zt's hold on it.** She is the only person at the North Gate who has seen them do this exact thing before, and Graz'zt is in *this* city. She never says so. It is underneath everything she says.
+>
+> **And note what nobody in the room says out loud:** the man the Harpers have formally ordered Bramgrim to protect at all costs **is a clone, and Bramgrim knows it.** Coralynn is being asked to accept that the Harpers chose one drow over the soldiers of Hillsfar. She is not being told that the drow in question does not technically exist.
 
 ---
 
