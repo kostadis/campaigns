@@ -122,6 +122,20 @@ consistency_check:
   carry_forward:
     - status: DONE
       item: "Phantasmal Killer damage: GM ruled 2026-08-27 that 'the phantasmal killer damage was taken'. Recorded as 13 psychic damage in 4 places, alongside the successful save. This CLOSES the open item and REVERSES this run's initial inference (save-made therefore no damage), which had been flagged as inference, not ruling."
+      correction_20260827: |
+        The ruling above was CORRECT and this file's framing of it (line 56, 'overrides the
+        RAW reading… the GM outranks the PHB at their own table') is WRONG. It was not an
+        override. PHB 2024 (XPHB p.304): 'On a successful save, the target takes half as
+        much damage, and the spell ends.' Half of 26 is 13. The 'no damage on a made save'
+        reading belongs to PHB 2014 (p.265), which this table does not run — GM confirmed
+        the edition 2026-08-27.
+        The stage-1 pass later reversed this ruling on the strength of that same 2014
+        reading, and stage-2 finding #2 reaffirmed the reversal. Both were wrong. The
+        damage is restored across 9 sites in 3 files, along with two consequences the
+        no-damage reading had hidden: the made save ENDS the spell, so Manshoon carries no
+        disadvantage and Daz's concentration is free.
+        See summaries/20260824/consistency_report_stage2_scene_extractions.md (Open item,
+        resolved) and notes/issues/20260827_phantasmal_killer_damage_ruling_conflict.md.
     - status: OPEN
       item: "GMAssistant harvests the GM's spoken session-opening recap as new play. This will recur every session the GM reads a recap aloud. Either stop reading it on-mic, mark the span, or trim the export's input to start at the first line of live play. This is the root cause of ~half this run's findings."
     - status: OPEN
