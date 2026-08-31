@@ -260,3 +260,50 @@ consistency_check:
         retracted to Glabbagool ~line 3775) and "A Legos... And he kills the
         thug" (A'lai garble, line 1447). Both are correctly handled in the
         corrected recap.
+
+# ─────────────────────────────────────────────────────────────────────────────
+# APPENDED 2026-08-29 — stage 0 of the /staged-consistency FULL RE-RUN.
+# The document above was re-checked from scratch against the tape and the prep.
+# ─────────────────────────────────────────────────────────────────────────────
+rerun_2026_08_29:
+  stage: 0
+  document_checked: "summaries/20260809/gm-assist.md"
+  review_artifact: "https://claude.ai/code/artifact/b87913eb-72bd-4dee-a1fa-23a26fe6aae8"
+  issues_found: 2
+  verdict: |
+    gm-assist.md held up. Everything the 2026-08-09 and 2026-08-19 passes fixed is
+    still correct and verbatim-accurate: the simulacrum ruling (6 sites), Alkrist
+    alive, Tadric alive, the key ledger, "reaffirmed" not "established", Grygum's
+    "I have to go over and actually touch him" ruling out Healing Word (tape :1707),
+    and the Menzoberranzan *house*-not-a-name hedge (backed by planning.md:27 and
+    20260810_race_to_the_vile_door.md:328).
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-29"
+    gm_rulings_this_run:
+      - "s0-01 APPROVED: restore the elided form of A'lai's line to the assassin."
+    applied:
+      - finding: "s0-01"
+        fix: |
+          L10 quote was three tape fragments spliced into one continuous quote with
+          no ellipsis. Tape :2059 "Took your time, but they have had me since the
+          landing." + :2063 (after a GM stage-direction) "It's not a loss, it's a
+          position, I've been in the room, I know exactly who is carrying what."
+          Restored to the elided form session-summary.md and scene 02 already used.
+          Caught by verify_quotes.py §1b, not by any LLM reviewer.
+      - finding: "mechanical"
+        fix: "L78 duplicated 'and and' removed."
+      - finding: "s2-02 upward propagation"
+        fix: |
+          L57 scene heading aligned to 'hides his High Tower key, just as Manshoon's
+          simulacrum forces its way into Candlekeep'. gm-assist is the input `enhance`
+          reads, so the old heading would have re-injected BOTH the plural key and the
+          non-simulacrum Manshoon on the next pipeline run. All three layers identical now.
+    open_items:
+      - status: NOTED
+        item: |
+          The 2026-08-09 report's finding-3 rationale asserts Tadric "died on
+          2026-07-27". That is WRONG — summaries/20260727/ shows him healed, leading
+          the party to the High Tower, handing over the key. The ruling's OUTCOME was
+          right (no recap change), so nothing propagated, but the rationale line is
+          false and should not be cited by a future pass.

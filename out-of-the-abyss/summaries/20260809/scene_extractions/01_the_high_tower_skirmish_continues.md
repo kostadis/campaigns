@@ -15,7 +15,7 @@ source: gmassist
 - Daz maneuvers around a corner to gain a better tactical position — placing himself out of line of sight of the room — while Grygum holds the sapphire artifact.
 - Thorin and Grygum seize an opportunity to strike the fleeing Zhentarim thug; Grygum's mace whiffs. Separately, the table re-affirms the previous session's ruling that Dawnbringer — Thorin's blade — is a she.
 - The Zhentarim assassin enters the room, walking straight past Daz and the thug, disengaging as he moves so that no one gets an opportunity attack. *(The GM narrated A'lai panicking here, then retracted it at the table: "Sorry, I take it back, that's not what happens." Same assassin who strikes after the binding — not a third combatant.)*
-- Daz conjures a massive explosion of fire that engulfs the thug, nearly incinerating him — a 25-point roll, halved to 12 by his successful save (a 17), leaving him at exactly 1 hit point — and the successful detonation signals to all of Candlekeep that the library's magical protections have failed: screaming, panic, and the bell ringing, while the Avowed's scholars reach for their notebooks and "prepare their monographs."
+- Daz conjures a massive explosion of fire that engulfs the thug, nearly incinerating him — a 25-point roll, halved to 12 by his successful save (a 17), leaving him at exactly 1 hit point — and the successful detonation signals to all of Candlekeep that the library's magical protections have failed: screaming, panic, and the bell ringing, while the Avowed's scholars reach for their notebooks and "preparing their monographs."
 - A'lai Aivenmore abruptly kills the remaining wounded thug himself and calls for a pause — explicitly *not* a surrender: "I'd like to stop, but not surrender, I'm aware how that sounds" — Grygum: "Just, just, just a timeout for a moment?"
 - Daz's investigation (21, with advantage) notices A'lai is not looking at the party at all — he is listening toward the stairwell they came up, as if waiting to see something.
 - A'lai admits he is spent: "I have nothing left. You will have probably counted how many spells I've casted. … I'd be insulted if you hadn't."
@@ -84,10 +84,14 @@ source: gmassist
 
 **[Thorin]** — *misreading his own damage roll*
 > "No, that's if he's undead, I did 9 points of damage, goddammit."
+
+**[Grygum]** — *deadpan*
 > "I assume his AC is higher than 9."
 
 **[GM]** — *mid-swing, canon is established*
 > "Yeah, yeah. Just for the record, Dawnbringer is a she, we've decided, canonically."
+
+**[Thorin]** — *supplying the reason*
 > "Because my first girlfriend in high school was named Dawn."
 
 **[GM / Zalthir / Thorin]** — *OOC tangent: the table discovers, mid-combat, that Zalthir's player is married*
@@ -111,7 +115,11 @@ source: gmassist
 **[GM]** — *A'lai's reaction, then the retraction*
 > "he looks around, and A'lai Aivenmore suddenly is in a state of panic."
 > "Sorry, I take it back, that's not what happens."
+
+**[Daz]** — *calling his shot before initiative*
 > "somebody is going to be upset later. I'm… I had a premonition to."
+
+**[GM]** — *allowing it*
 > "Yes, you did, you did, you did have a premonition. Alright, go for it. First initiative."
 
 **[Daz]** — *misty step and fireball*
@@ -130,7 +138,11 @@ source: gmassist
 
 **[GM]** — *the explosion announces the fight to all of Candlekeep*
 > "So what happens is the explosive fires rage, like, you've now, like, everybody knows that there's a big fight going on on the High Tower."
+
+**[Grygum]**
 > "Do you think the fireball was a hint?"
+
+**[GM]**
 > "Yeah, yeah, the fireball was… but the more important point is the fireball actually worked!"
 
 **[Daz]** — *what the working fireball means for Candlekeep's wards*
@@ -141,6 +153,8 @@ source: gmassist
 > "is con… is concerning. Never mind, and of course, you know, immediately, half the [Avowed] are running in… you hear screaming, you hear panic, you hear the bell ringing."
 > "And if you could, you would see people taking notes and preparing their monographs."
 > "Because what do you do? What do you do in a situation like this? Why conduct the experiments you've been waiting years to?"
+
+**[Grygum]** — *finishing the GM's sentence*
 > "You take notes. Exactly."
 
 **[A'lai Kills His Own Thug]**
