@@ -1,0 +1,116 @@
+consistency_check:
+  timestamp: "2026-08-29T20:15:00-07:00"
+  campaign: "out-of-the-abyss"
+  stage: 1
+  document_checked: "summaries/20260809/session-summary.md"
+  document_class: "enhanced recap (enhance_summary output; the input `extract` reads)"
+  report: "summaries/20260809/consistency_report_stage1_session_summary.md"
+  skill: "/staged-consistency (full re-run, all stages, artifact mode)"
+  review_artifact: "https://claude.ai/code/artifact/b87913eb-72bd-4dee-a1fa-23a26fe6aae8"
+  issues_found: 12
+  session_date: "2026-08-03"
+  chapter_label: "Chapter 63"
+
+  prior_passes:
+    - date: "2026-08-09"
+      commit: "2a4a15a4"
+      note: "stage-0 check on gm-assist.md; 8 findings. Report + sources.yaml exist."
+    - date: "2026-08-19"
+      commit: "9fa79061"
+      note: |
+        Full staged pass. 67 findings, 10 GM rulings, propagation sweep.
+        ⛔ NO report or sources.yaml was written. Its rulings survive ONLY in the
+        commit message. This run had to reconstruct them from `git show 9fa79061`.
+        That is the reason step 7 of the skill exists; do not skip it again.
+
+  prep_used: true
+  prep_files:
+    - notes/sessions/candlekeep_hightower_session.md
+    - notes/sessions/candlekeep_vault_session.md
+    - notes/session_prep/20260727_candlekeep_high_tower_resume.md
+    - notes/session_prep/20260727_candlekeep_the_man_with_the_metal_hand.md
+    - notes/session_prep/20260728_candlekeep_alai_the_safest_place.md
+    - notes/session_prep/20260728_candlekeep_party_what_they_think_they_won.md
+    - notes/session_prep/20260810_race_to_the_vile_door.md
+  prep_note: |
+    GM chose the widest net, including the downstream 20260810 prep. It earned its
+    place: `20260810_race_to_the_vile_door.md:328` grades the Menzoberranzan name
+    "A guess. Wrong." — corroborating planning.md:27 and settling stage-2 finding 3.
+
+  zoom_summary_available: false
+  zoom_summary_note: |
+    No zoom-summary.md in this session directory. The run therefore had NO
+    dropped-beat structural cross-check. Nothing prep can substitute for.
+
+  speaker_map:
+    source: "raw GMT20260804-005646_Recording.transcript.vtt, by cue count"
+    map:
+      Kostadis Roussos: GM (549)
+      Joe Beda: Thorin (166)
+      Ben Pfaff: Grygum (156)
+      Daz: Daz (133 — this player's Zoom name is already the PC name)
+      Gabriel Tarasuk-Levin: Zalthir (51)
+    note: "All four players present. Matches the 2026-08-09 map exactly."
+
+  grounding_docs:
+    currency: "campaign_state.md self-labels 'Authoritative as of Chapter 63' — this session."
+    note: |
+      No forward-drift risk: sessions 20260817 (ch64) and 20260824 (ch65) have NOT
+      been folded into the grounding docs, so they align with this session rather
+      than describing a later party. Check this before any backfill run.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-29"
+    gm_rulings_this_run:
+      - "Full re-run of all stages, prior rulings loaded as do-not-re-ask."
+      - "Prep: the widest net — the 08-09 set, the restored dated preps, and the 20260810 downstream prep."
+      - "s1-05 REJECTED: the assassin/sapphire framing stays as dramatic framing."
+      - "s1-03 APPROVED: file the Gabriel-scrub collision as a standing issue note."
+      - "s1-10: 'Ack ' — treated as acknowledgement, not a direction; re-asked at stage 2."
+    applied:
+      - { finding: 1,  fix: "Simulacrum restored at 7 sites: L34, 106, 112, 114, 155, 184, 205." }
+      - { finding: 2,  fix: "L108 quote -> '[Glabbagool]' with transcript note, matching scene 03." }
+      - { finding: 3,  fix: "notes/issues/20260829_gabriel_scrub_eats_glabbagool.md written." }
+      - { finding: 4,  fix: "L67 'The DM notes' -> 'Grygum notes' (tape :787)." }
+      - { finding: 6,  fix: "L88 Street Justice (FRHoF 41) named as the feat, Sturdy Knot as its binding benefit." }
+      - { finding: 7,  fix: "L91 doubt parenthetical replaced with the level-9 confirmation of 24." }
+      - { finding: 8,  fix: "L98 promoted to Sentinel (PHB-2024 207), with the within-5-ft caveat kept as a GM call." }
+      - { finding: 9,  fix: "L239 repaired; the GM's 'stole the key' marked as a slip (he took the gem)." }
+      - { finding: 11, fix: "L72 'canonically establishes' -> 're-affirms on the record'." }
+      - { finding: 12, fix: "L142 elision added between the two Kalan cues." }
+      - { finding: "mechanical", fix: "'and and' L145; 'prepare'->'preparing their monographs' L74; Hill Strike hedge dropped L97." }
+    rejected:
+      - finding: 5
+        ruling: "Keep 'before he could escape with the sapphire' as dramatic framing."
+        rationale: |
+          Factually the assassin searched Daz and found nothing (tape :2855) and
+          gm-assist:19 carries the corrected form. GM chose the header's drama over
+          the correction. Recorded so a future pass does not re-raise it as new.
+    open_items:
+      - status: OPEN
+        item: |
+          Thorin's Sentinel *Guardian* requires the assassin to have been WITHIN 5 FT
+          of Thorin when he Disengaged past. The sheet confirms the feature; only the
+          GM can confirm the position. session-summary.md:98 states the caveat inline.
+      - status: OPEN
+        item: |
+          docs/party/*.md are all level-08 sheets and the party reached 9th level in
+          this session. Every number checked this run (passive Investigation 24,
+          Daz 56 HP, Zalthir 57 HP) reconciles ONLY after applying the level-9
+          proficiency bump. Regenerate the sheets at level 9 or the next pass will
+          re-flag all three as contradictions.
+      - status: OPEN
+        item: |
+          The Gabriel -> Zalthir scrub collision (notes/issues/20260829_*.md) has NO
+          fix chosen. Four options are recorded there; the GM has picked none. It has
+          now silently corrupted two sessions.
+      - status: OPEN
+        item: |
+          (Inherited from 2026-08-09, still unactioned) Glossary row candidates
+          Sylvyr -> Sylvira and Darrl -> Daral are still not in
+          notes/vtt_transcription_corrections.md.
+      - status: CLOSED
+        item: "Daz's passive Investigation 24 — confirmed, sheet + level-9 bump + tape."
+      - status: CLOSED
+        item: "Thorin's guardian ability — confirmed as Sentinel (PHB-2024 207) on his sheet."

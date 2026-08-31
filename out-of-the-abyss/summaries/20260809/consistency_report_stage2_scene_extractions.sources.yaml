@@ -1,0 +1,90 @@
+consistency_check:
+  timestamp: "2026-08-29T20:20:00-07:00"
+  campaign: "out-of-the-abyss"
+  stage: 2
+  documents_checked:
+    - "summaries/20260809/scene_extractions/01_the_high_tower_skirmish_continues.md"
+    - "summaries/20260809/scene_extractions/02_the_surrender_and_ambush.md"
+    - "summaries/20260809/scene_extractions/03_the_capture_of_a_lai_aivenmore_and_the_arrival_of_manshoon.md"
+  document_class: "per-scene verbatim extractions (the layer the narrator reads literally)"
+  report: "summaries/20260809/consistency_report_stage2_scene_extractions.md"
+  skill: "/staged-consistency (full re-run, artifact mode)"
+  review_artifact: "https://claude.ai/code/artifact/b87913eb-72bd-4dee-a1fa-23a26fe6aae8"
+  issues_found: 5
+  session_date: "2026-08-03"
+  chapter_label: "Chapter 63"
+
+  method:
+    verbatim_sweep: |
+      verify_quotes.py run on all five artifacts. Most hits were the prior pass's
+      deliberate [bracketed] editorial substitutions — expected false positives.
+      Real leads it surfaced: the spliced A'lai quote in gm-assist (stage 0), the
+      "prepare/preparing their monographs" tense error, and the Zalthir/Glabbagool
+      contradiction that unravelled the whole VTT-scrub finding.
+    attribution_audit: |
+      Purpose-built pass, kept at scratchpad/attrib_audit.py. Normalises every
+      `> "quote"` line, matches it to a cue in the cleaned VTT (single cue, or a
+      joined adjacent pair), and compares the tape's speaker label against the
+      **[Speaker]** block header it sits under. Composite headers ([GM / Grygum])
+      match if any named speaker matches; brackets are stripped before matching.
+      262 blocks, ~460 spans. AFTER the fixes it returns zero flags on all three files.
+      ⭐ This is the check a summary-only pass cannot perform, and it found five
+      real errors that four prior passes over this session had all missed.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-29"
+    gm_rulings_this_run:
+      - "s2-01..s2-04 approved."
+      - "s2-05: 'KEEP THAT THING AWAY FROM ME!' — see reversal_recorded below."
+    applied:
+      - { finding: 1, fix: "Five quotes split into correctly-attributed blocks in scene 01: L87 -> Grygum, L91 -> Thorin, L114 -> Daz, L133 -> Grygum, L144 -> Grygum. Wording unchanged." }
+      - { finding: 2, fix: "'hides the High Tower keys' -> 'hides his High Tower key' in session-summary.md:106 AND gm-assist.md:57 (upward propagation)." }
+      - { finding: 3, fix: "session-summary.md:78 — '*claims* to know the name' hedge restored." }
+      - { finding: 4, fix: "session-summary.md:75 — 'calls for a pause — explicitly *not* a surrender'." }
+      - { finding: 5, fix: "[KEEP] restored in all 4 sites; glossary row marked challenged-and-re-confirmed." }
+      - { finding: "mechanical", fix: "scene 01 'prepare'->'preparing their monographs'; scene 02 Hill Strike + guardian-ability + Street Justice + passive-Investigation propagated down; scene 02 L487 'Zalthir' -> '[Glabbagool]'." }
+    rejected: []
+
+    reversal_recorded:
+      subject: "A'lai's shriek — KAK / Aack / KEEP"
+      sequence:
+        - "2026-08-19: ruled 'KAK that thing away from me' -> KEEP; logged in the glossary."
+        - "2026-08-29 stage 1: carded as an internal inconsistency. GM marked discuss, note 'Ack '."
+        - "2026-08-29 stage 2: re-asked. GM in chat: 'the word A'lai said was Aack! Not KAK'."
+        - "Applied as AACK! in 4 sites; the glossary row was struck through as overturned."
+        - "GM same day: 'the ACK was wrong it should have been KEEP'. REVERTED."
+      settled: "KEEP"
+      note: |
+        ⛔ This row is settled. Do NOT re-open it.
+        The sibling transcript session_20260809_transcript.vtt at 01:28:40.899 reads
+        "Alei is like, KICK that thing away from me". A second ASR hearing the same
+        short monosyllable is NOT evidence against KEEP — it is precisely what made
+        "Aack!" look plausible for one turn. The GM voiced the line and is the
+        authority on it.
+      lesson: |
+        The stage-1 card was right to surface this as a question, but a prior GM
+        ruling existed in the glossary and the card should have quoted it and said
+        plainly that approving would reverse it. It did not. Same failure as the Ch65
+        Phantasmal Killer case: a settled question re-asked as a fresh one.
+
+    layer_staleness_note: |
+      ⭐ The most transferable finding of this run. Staleness did NOT live at a fixed
+      depth. session-summary.md was stale for eleven findings, but for two of the five
+      scene-01 misattributions the SCENE layer was the stale one — session-summary.md:62
+      and :255 already had those attributions right. A propagation sweep that only ever
+      pushes downward would have missed them. Diff every layer against every other.
+
+    open_items:
+      - status: OPEN
+        item: |
+          Stage 3 (narration) was NOT exercised — no narration/ directory exists in
+          summaries/20260809. The scene extractions are now clean to run session_doc.py
+          against; nothing has checked narrator-layer voice drift for this chapter.
+      - status: OPEN
+        item: |
+          No zoom-summary.md in this session. The run had no dropped-beat structural
+          cross-check, so a scene or beat absent from BOTH the recap and the tape
+          transcription would not have been caught by anything in this pass.
+      - status: OPEN
+        item: "See consistency_report_stage1_*.sources.yaml open_items — Sentinel positioning, level-08 sheets vs a level-9 party, the Gabriel-scrub fix, and the inherited glossary rows."

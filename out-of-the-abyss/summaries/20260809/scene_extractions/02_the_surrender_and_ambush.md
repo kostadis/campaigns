@@ -10,17 +10,17 @@ source: gmassist
 #### A'lai Aivenmore surrenders to the party, but a Zhentarim assassin arrives and launches a brutal attack on Daz before being cut down by Thorin.
 - Before the ambush, the party debates A'lai Aivenmore's fate and provisionally decides to place him under arrest and turn him over to the Avowed. *(The snitch gambit and the Glabbagool option come later, in the post-fight re-debate — not this conversation.)* Grygum: "I feel like the cruelest thing to do would be to turn them over to the Academic Council, so I'm in favor of that." DM: "Yes, he'll lose his academic privileges." Thorin: "There's nothing worse." Grygum: "Might lose his library card."
 - The DM situates the party's reasoning: A'lai "created an environment of mass murder" — his plot resulted in the death of Janussi, the death of Bookwyrm, and the death of Sylvira Savikas's son — and he's surrendering to the party because they're the group least emotionally attached to his victims. "He's not the I-wanna-fight-to-the-end kind of person."
-- Zalthir uses his specialized skills to bind the wizard, ensuring he cannot easily escape — "I literally have a feat for that" — **Street Justice** (heard at the table as "sturdy knot"). A'lai simply stands there waiting to be tied. (Grygum, meanwhile, cites Hojojutsu, "the way that they used to allegedly tie people up judicially during the samurai era.")
+- Zalthir uses his specialized skills to bind the wizard, ensuring he cannot easily escape — "I literally have a feat for that" — **Street Justice** (FRHoF 41; the binding benefit is *Sturdy Knot*, +3 to the escape DC — Zalthir names the feat and then the benefit on the tape). A'lai simply stands there waiting to be tied. (Grygum, meanwhile, cites Hojojutsu, "the way that they used to allegedly tie people up judicially during the samurai era.")
 - Thorin is suspicious of how easy it is: "The fact that you're asking makes me think that he's gonna try and escape… Because the statues always come alive and attack you." Daz: "you gotta be aware and afraid of armed skeletons."
 - A Zhentarim assassin suddenly appears, dressed in Zhentarim attire. A'lai Aivenmore, hands bound and held out to show his capture, tells the assassin: "Took your time, but they have had me since the landing. … It's not a loss, it's a position, I've been in the room, I know exactly who is carrying what" — then points toward Daz.
-- Via Daz's passive Investigation of 24 *(unverified against his sheet — his documented build lands at 18–19)*, the DM lays out A'lai's logic: A'lai "thinks only an idiot would bring the second key" to the room where it's needed — "he thinks you're intelligent" — so he assumes the party stashed the key somewhere in Candlekeep, and the sapphire was his means to recall it into his hand. He doesn't know Tadric handed Grygum the real key, or that the gem Daz took with his Telekinetic feat has already been passed along. Daz sums up the ledger: "A'lai has a real key, Grygum has a real key, Grygum has a fake key, and Grygum… can crush the thing, which… will recall the key that he already has." Grygum: "I have the key and the gem that summons that key."
+- Via Daz's passive Investigation of 24 *(confirmed — Daz-level-08.md gives passive Investigation 23 at 8th level; the party levelled to 9 this session and the +3→+4 proficiency bump makes it exactly 24, which is what Daz states on the tape)*, the DM lays out A'lai's logic: A'lai "thinks only an idiot would bring the second key" to the room where it's needed — "he thinks you're intelligent" — so he assumes the party stashed the key somewhere in Candlekeep, and the sapphire was his means to recall it into his hand. He doesn't know Tadric handed Grygum the real key, or that the gem Daz took with his Telekinetic feat has already been passed along. Daz sums up the ledger: "A'lai has a real key, Grygum has a real key, Grygum has a fake key, and Grygum… can crush the thing, which… will recall the key that he already has." Grygum: "I have the key and the gem that summons that key."
 - The assassin launches a brutal series of strikes against Daz, believing the wizard holds the sapphire gem — a hit at 18 for 20 damage, then a hit at 25 for 23 damage.
 - Daz is severely wounded by the assassin's attacks and collapses unconscious — from 30 hit points to zero on the second strike. He rolls a 17 on his first death save (success), then fails his second.
 - The assassin searches Daz's body for the sapphire but is horrified to find it missing, as Daz had secretly passed it to Grygum earlier — "He looks through Daz's body and discovers, much to his horror, that the gem is not there. And then he turns to A'lai. A'lai now is in real panic."
 - Thorin retaliates with a series of powerful strikes against the assassin (AC 16), using a menacing maneuver to terrify him: 8 damage, then 14, then a Menacing Attack superiority die adding 5 and forcing a failed Wisdom save — "Now he's frightened. … Because I'm so badass."
 - Thorin unleashes an action surge, delivering a flurry of blows including a critical radiant strike that devastates the assassin — 13 damage, then a crit for 18 (the radiant die doubled: 12 plus 6), leaving the assassin at 5 hit points.
-- Thorin delivers a final blow — "another 1D6 with Hill Strike" — killing the assassin and ending the immediate threat. Thorin then searched the body. *("Not what I was expecting!" and "Fuckin' A!" belong to the earlier premature kill call after the crit, before the GM's 5-hit-point correction — not to this blow.)*
-- Thorin claims a "guardian ability" that stops enemies disengaging past him, and notes he'd have been entitled to a swing when the assassin slipped by earlier. *(Not yet a standing ruling — no such feature appears on his sheet in `party.md` or `world_state.md`. Verify the real feature name before banking this.)*
+- Thorin delivers a final blow — "another 1D6 with Hill Strike" (*Strike of the Giants — Hill Strike*, GotG 19; confirmed on his sheet) — killing the assassin and ending the immediate threat. Thorin then searched the body. *("Not what I was expecting!" and "Fuckin' A!" belong to the earlier premature kill call after the crit, before the GM's 5-hit-point correction — not to this blow.)*
+- Thorin invokes his guardian ability and notes he'd have been entitled to a swing when the assassin slipped by earlier. *(Confirmed 2026-08-29: it is **Sentinel** (PHB-2024 207) on `docs/party/Thorin-level-08.md:114` — *Guardian* grants an Opportunity Attack when a creature **within 5 ft** takes the Disengage action, and *Halt* drops its Speed to 0 on a hit. Whether the assassin passed within 5 ft of him is a positional GM call.)*
 - Grygum rushes to the fallen Daz and uses restorative magic to bring him back to consciousness — 40 hit points restored against Daz's maximum of 56.
 - A'lai Aivenmore, seeing his would-be rescuer defeated, falls into a state of panic and begins to weep: "you don't understand." Thorin: "Okay, I have no sympathy for him, fuck him. … Explain it to us."
 - Before settling on arrest, Thorin (chaotic neutral) floats a darker option: "release him to the Zhentarim, but make the Zhentarim think that he was a snitch or something like that, so the Zhentarim take care of the problem?" — like "when the cops really want to fuck with a criminal… they make it clear that he was talking to the cops." Grygum: "You want to play good cleric, bad cleric with them?" Thorin: "Exactly."
@@ -395,7 +395,7 @@ source: gmassist
 **[GM]**
 > "Yeah, you're, you're… I mean, this is, this is, Zalthir-level pounding."
 
-**[Thorin]** — *the finisher; "Hill Strike" as transcribed*
+**[Thorin]** — *the finisher; **Strike of the Giants (Hill Strike)**, GotG 19 — confirmed on his sheet*
 > "I can do another 1D6 with Hill Strike."
 > "Alright, so that takes him out."
 
@@ -482,10 +482,10 @@ source: gmassist
 > "He's like, hmm, do they dissolve like other people?"
 
 **[Thorin]**
-> "I don't know, we should find out, Zalthir."
+> "I don't know, we should find out, [Glabbagool]." *(transcript: "Gabriel", rewritten to "Zalthir" by the player-name scrub; sibling transcript at 01:28:39 reads "we should find out, Glabbagool")*
 
 **[GM]** — *as A'lai, shrieking*
-> "He's like, [KEEP] THAT THING AWAY FROM ME!" *(transcript: "KAK")*
+> "He's like, [KEEP] THAT THING AWAY FROM ME!" *(transcript: "KAK"; sibling transcript "kick". GM re-confirmed **KEEP** 2026-08-29 after considering "Aack!")*
 
 **[Grygum]**
 > "We could offer him a taste."
