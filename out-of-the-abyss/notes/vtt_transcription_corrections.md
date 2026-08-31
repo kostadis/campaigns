@@ -11,7 +11,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier, Saltyr, Xalter, Altier, Zaltiera, Zalty, Zeltir, Zoltur, Zolt, Dissolt, Xeltier, Zaltzir | **Zalthir** |
+| Zaltir, Zalter, Zaltier, Zeltar, Azaltier, Salter, Zaltura, Zoltir, Zoltier, Saltyr, Xalter, Altier, Zaltiera, Zalty, Zeltir, Zoltur, Zolt, Dissolt, Xeltier, Zaltzir, Dazaltir | **Zalthir** |
 | Gergam, Gregam, Greg, Grigam, Gergummy, Gregorum, Grygram, Grugum, Gurgum, Grigament, Graham, Gurgham, Girgam, Girgum, Graghum, Greggum, Jorgum, Gargram, Ragum, Gergen, Grigum, Gargan, Greibung, Gargum, Grigham | **Grygum** |
 | Thorne, Thornton, Thurren, Or Torin, Thorian, Thorn, Farron | **Thorin** |
 | Adaz, Das, Dez, Dazz, Jazz, Doug, Raz, Gaz | **Daz** |
@@ -114,6 +114,7 @@ First catalogued during the cleanup of
 | Mystara | **Mystra** |
 | Reeder | **Reader** |
 | Edvaldo Cedanur | **Edvaldo Sedanur** |
+| outbear, owlbearer | **owlbear** |
 
 ## Items / artifacts
 
@@ -210,7 +211,7 @@ First catalogued during the cleanup of
 
 | Wrong | Right |
 |---|---|
-| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis, Christina, Castanhas, Custodus, Gustavus, Kassadis, Kastatis, Christophers, Kostatis, Kostada | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
+| costatis, Stottis, Kostat, Castadas, Costatas, Casados, Cristonis, Quesada, Costatus, Christadas, Custatis, Gustatis, Castatis, Gustavis, Christina, Castanhas, Custodus, Gustavus, Kassadis, Kastatis, Christophers, Kostatis, Kostada, Chris | **Kostadis** (pronounced "koh-stAH-dis", rhymes loosely with "toh-STA-dah") |
 | And Christadas | **And Kostadis** |
 | Torward | **toward** |
 | Nostromas | **Nostradamus** |
@@ -245,6 +246,8 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 - "Moshiv" in "Zalthir's, Moshiv, is a 16" (20260720 session) — corrected to "initiative" (ASR mishearing during an initiative-order callout; confirmed by GM, not a campaign name).
 - 20260803 session, ordinary-speech garbles corrected as targeted edits (GM-confirmed, none are names): "the ultimate bad Benny" → "bad penny" (idiom, re Manshoon resurfacing); "Falked out" → "Freaked out"; "Sorry, is Moo" → "Sorry, it's moot"; "Rosie Finger Dawn" → "rosy-fingered Dawn" (Homer chatter re Dawnbringer's gender); "the corrosive Bluru" → "the corrosive brew" and "caustic burr"/"caustic Acid Brew" → "Caustic Brew" (Tasha's Caustic Brew, Grygum's Magic Initiate spell); "Blab of the World" → "Glabbagool"; "Global Goals Initiative" → "Glabbagool's initiative" (initiative callout); "clergy of Candle Keeper, the event" → "clergy of Candlekeep, the Avowed"; "Two Bonsai Candlekeep" → "The Avowed of Candlekeep" (GM-approved guess, no sibling coverage). "Alegos over here and he kills the thug" left as-is (identical garble in both transcriptions, phrase unrecovered).
 - **"the four of you look at her" (20260727 session, awkward-silence beat) — "her" is Dawnbringer. LEAVE IT.** GM-confirmed. Thorin establishes it on tape earlier the same session ("Dawnbringer is a she") and again later ("Dawnbringer herself"). The party deflects the job of telling Sylvira her son is dead by all looking at the sword — the GM's next line is "Passing the buck." **General rule: a sentient item with a gendered pronoun produces referent-less "her"/"she" that reads exactly like a transcription error.** The independent second transcription of this session "corrected" it to "at it", flattening the character into an object; a quote pass proposed "him". Both are wrong. Check whether a sentient item is in play before touching an orphan pronoun.
+
+- 20260824 session, `/staged-consistency` **stage 2** (scene extractions, 2026-08-27) — ordinary-word garbles corrected as targeted edits, all GM-confirmed or transcript-evident: `Rip-top A-plus` → **Tip-top A-plus** (Thorin complimenting the riddle scene); `Accrid` → **acrid**; `candyard` → **cavern**; `archaic conmen` → **archaic Common** (the language, on the vault's desk note); `okay, chorale moment` → **okay, corral moment**; `if Lala was going through me` → **if lava was going through me** (Grygum to the spectral dragon). Promoted to Phrase-fix rows in multi-word form so no single common word is ever the match target.
 
 ## Notes for future passes
 
@@ -348,6 +351,63 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
   statue bows when applauded), `Palaiar` → *parallel*, `Siro` → *Sure*, `Kurt` → *right*, `Castle Ward` → *Candlekeep*,
   `memo` → *mimic*, `Candle Keeps` → *Candlekeep's*. All are on the ignore list now so they will not re-surface.
 
+- **20260824 stage-2 pass — four wrong-forms deliberately kept OUT of the tables.** Found by
+  `/staged-consistency` stage 2 on the Ch65 scene extractions (2026-08-27); each fixed as a targeted
+  edit in `summaries/20260824/scene_extractions/` only.
+  (a) `Albert` → **owlbear** (scene 03, "Albert goes, sorry, sorry, I was reading from the answer key").
+  A common English given name; a case-insensitive row is a landmine of exactly the `Hugh` → Thorin
+  kind. The safe garbles from the same creature — `outbear`, `owlbearer` — *are* rows.
+  (b) `mansion` → **Manshoon** (scene 05, "you also notice a mansion who's sitting there reading").
+  Ordinary English, and this campaign talks about keeps, towers and manors constantly. Same reasoning
+  as `machine` → Manshoon and `Mushroom` → Manshoon above; Manshoon now has three separate real-word
+  garbles held out of the glossary, which is worth knowing before trusting any Manshoon row.
+  (c) ⛔ `Alyss` → **NOT A NAME.** In scene 01 the GM read the Ch64 recap aloud and the ASR compressed
+  the whole subject clause — "Thorin, suspicious of the GM's repeated questions about exact positions,
+  was proved right" — down to "Alyss proved right." There is no Alyss. It is name-*shaped* garbage, and
+  it is the most dangerous class of garble in this file: a plausible proper noun with no referent, which
+  a careless pass will resolve to the nearest real NPC (here, A'lai Aivenmore, who had nothing to do
+  with the stair). **It must never become an `entity_registry.yaml` alias** — aliases are approved
+  canonical alternates, never garblings. Recorded as a Phrase fix, not a name row.
+  **The general lesson:** when the GM reads a *written* recap aloud, the wrong-form is a collapsed
+  phrase rather than a mangled word, and it comes out looking like a name. Check any unfamiliar
+  proper noun in a read-aloud passage against the prior session's summary text before believing it.
+  (d) `Evaldo` → *not corrected.* Grygum addresses the scholar as "Evaldo" one line after the GM first
+  says "Edvaldo Sedanur". Most likely a player repeating a name he had heard once, i.e. genuine speech,
+  not an ASR error — so it stays as spoken. Do not add it to the `Edvaldo Sedanur` row.
+
+- **20260824 stage-2 pass — one wrong-form left unrecovered.** Zalthir's `"My first level dragon,
+  Barkerfly"` (scene 01), explaining how a Dragonborn can fly. Neither transcript resolves it and no
+  GM ruling was sought. Left as captured, annotated in the scene file as garbled.
+
+- **20260824 session, `/session-summary-consistency` (scene extractions, 2026-08-28, artifact review) — 35 rulings: 28 approve, 2 reject, 5 discuss.**
+  The pass began by discovering that **seven corrections approved on 2026-08-27 had reached this glossary but never reached the scene files** — the
+  note above says they were "corrected as targeted edits" and they were not. All are applied now. **Lesson: a glossary row is not an applied edit;
+  after writing rows, grep the scene files to confirm the edits actually landed.**
+  New safe rows added above. Fixed as targeted edits with no row (real English words — a case-insensitive row would corrupt legitimate uses):
+  `cuffing`→coughing, `sign`→sigh, `lizard`→wizard, `boat`→bonus, `World`→Well, `dance`→DnD, `run`→round, `roles`/`rules`→rolls,
+  `be calm`→a plaque, `the apple there`→the owlbear there, `text`→the spell, `its target`→his target, `conveniences`→inconveniences,
+  `priceless in origin`→of priceless origin, `the player`→the players, `100 feet high`→100 feet across, `continual light`→continual flame.
+  Marked `[inaudible]`: Zalthir's "My first level dragon, Barkerfly." and "Bought."; the Candlekeep "about architect".
+  **⛔ `Warren` deliberately kept OUT as a landmine, and this run is the proof.** `Warren's up` (scene 05, cue 1024) is **Thorin's**, but
+  `warrens` (scene 02, cue 464) is **warns** — the same string, two scenes apart, two entirely different words. A single row would have
+  corrupted one of them. `Thurren` already covers the Thorin case in the PCs table; leave the bare name out.
+  **⛔ `Chris` added to the Kostadis row** (cue 291, Thorin's "Chris, am I dead?" — GM ruling 2026-08-28: "Chris is Kostadis"). It is a common
+  real given name and therefore a landmine, but the row already carries `Christina`, `Christophers` and `Cristonis`, and leaving the GM's real
+  name unscrubbed in player-facing output is the worse failure. Grep for lowercase/other-referent uses before applying it to a future transcript.
+  **DO-NOT-CORRECT (GM rulings, 2026-08-28):**
+  (e) **"outs"** — Thorin's own word for escape options, used three times (`01:34`, `01:40`, `01:142`). Not "odds", not "oaths". Leave it.
+  (f) **"the useless dude"** — table vocabulary for Edvaldo the Avowed scholar, used independently by Thorin (cue 775) and Daz (cue 777).
+      Not a garble of "Avowed". Leave it.
+  (g) **"Milo's Adventures"** — ⛔ never "correct" this to *Volo's*. **Milo Goodbarrel** is campaign canon: hero of the War of the Dragons and
+      author of the *Account of the War of the Dragons* (`docs/entity_inventory.md:344,965`). A pass proposed the Volo fix and the GM overruled it.
+  (h) **"Owlbear"** at `02:32` ("I know a lot of people who use, what is it, Owlbear?") is **Owlbear Rodeo**, the virtual tabletop — real speech,
+      sitting three lines from an actual iron owlbear guardian. Do not merge the two.
+  (i) **"There are worse things about Google"** (`01:252`, Zalthir) stands as the tech joke. GM rejected the Glabbagool reading 2026-08-28, in a
+      session that also riffs on enterprise software (`02:29`) and Discord (`02:107`).
+  **Module text is on disk and settles boxed-text garbles in one read:** `docs/background/1073077-Candlekeep_Murders_-_192_Res_-_26th_Dec.json`.
+  It corrected four of this pass's own proposals — "three-story"→**three-floor**, "the air"→**the cavern air**, "the party"→**the players** — and
+  confirmed **unseen ears** independently of the Ch64 decode. Read it before reconstructing anything the GM was reading aloud.
+
 ## Phrase fixes
 
 | Wrong | Right |
@@ -377,6 +437,26 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
 | blue straight roof | **blue slate roof** (House of Mechanus; module wording) |
 | null magic prism | **null magic prison** |
 | null magic prisms | **null magic prisons** |
+| Rip-top A-plus | **Tip-top A-plus** |
+| Accrid and sweltering | **acrid and sweltering** |
+| into the candyard | **into the cavern** |
+| archaic conmen | **archaic Common** |
+| okay, chorale moment | **okay, corral moment** |
+| if Lala was going through me | **if lava was going through me** |
+| Alyss proved right | **Thorin, suspicious of the GM's repeated questions about exact positions, was proved right** (GM reading the Ch64 recap aloud; see Notes — never treat "Alyss" as a name) |
+| Thorin is fault | **Thorin fell** (GM-confirmed 2026-08-27) |
+| unheard ears | **unseen ears** (riddle line 3; module `1073077-Candlekeep_Murders…json:4213` — "the 'unseen ears' (hidden magic sensors)") |
+| zone of music | **zone of no magic** |
+| matrical stopping | **magical stopping** |
+| the cavern is thick | **the cavern air is thick** (module `…:4222`) |
+| three-stone tower | **three-floor stone tower** (module `…:4223` — GM ruling 2026-08-28: use the module wording) |
+| a mansion who's sitting | **Manshoon, who's sitting** |
+| who's cuffing | **who's coughing** |
+| 6-second run | **6-second round** |
+| role in investigation | **roll an investigation** |
+| That says that, warrens | **That says that, warns** |
+| shitty roles | **shitty rolls** |
+| staring at these shitty rules | **staring at these shitty rolls** |
 
 ## Calendar / lore
 
@@ -391,7 +471,13 @@ Daral, Irony, Leuwin, Nibbles, Sprig, Orrin, Glabbagool).
   "a vowed wizard" → **Avowed** wizard; "half the about" → **the Avowed**; "You mean Zalthir?" →
   **Glabbagool** (the GM's own correction that follows only parses this way); "sticking in the
   middle of Zalthir" → **Glabbagool**. Ordinary-speech garbles: "KAK that thing away from me" →
-  **KEEP**; "he's got his hands dyed" → **tied**; "My feet makes it hard to escape… roll for time"
+  **KEEP** — ⭐ **challenged and RE-CONFIRMED 2026-08-29; this row is settled, do not
+  re-open it.** The GM first said the word was the interjection *"Aack!"*, then corrected
+  himself the same day: it is **KEEP**. The alternative was briefly applied and reverted.
+  For the next pass: the sibling transcript `session_20260809_transcript.vtt` at
+  `01:28:40.899` reads *"Alei is like, **kick** that thing away from me"* — a second ASR
+  hearing a short sharp monosyllable is **not** evidence against KEEP, and was the thing
+  that made "Aack!" look plausible. The GM voiced the line and is the authority.; "he's got his hands dyed" → **tied**; "My feet makes it hard to escape… roll for time"
   → **feat** / **tying**; "roll for a sweatyman" → **sleight of hand**; "that's a mess, I guess" →
   **miss**. Left unrecovered and flagged in place: "Is that a ghoul's other name, Claude";
   "HRSA building, okay"; Daz's "Yeah, the cheese" (re Tadric). A one-word real first name at
