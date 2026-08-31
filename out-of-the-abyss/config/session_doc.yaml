@@ -1,8 +1,8 @@
 paths:
-  session_recap: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/gm-assist.md
-  session_summary: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/session-summary.md
-  scene_extractions_dir: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/scene_extractions
-  narration_dir: /home/kroussos/out-of-the-abyss/out-of-the-abyss/summaries/20260817/narration
+  session_recap: session_2026_08_24_session_2026_08_24.md
+  session_summary: session_summary.md
+  scene_extractions_dir: scene_extractions_smoothed
+  narration_dir: narration
   output_dir: null
   party: docs/party.md
   voice_dir: voice
@@ -43,6 +43,11 @@ backends:
     model: null
     batch: null
     endpoint: null
+  codex-cli:
+    backend: anthropic
+    model: null
+    batch: null
+    endpoint: null
 session_name: null
 profiles:
 - name: Out-of-abyss
@@ -52,4 +57,11 @@ profiles:
     reflections: true
     narration_genre_file: /home/kroussos/out-of-the-abyss/out-of-the-abyss/voice/_genre.md
     backend: claude-code
-active_profile: Out-of-abyss
+- name: '2026-08-24'
+  knobs:
+    narrate_tokens: 32000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: /home/kroussos/out-of-the-abyss/out-of-the-abyss/voice/_genre.md
+    backend: claude-code
+active_profile: '2026-08-24'
