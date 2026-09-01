@@ -1,0 +1,62 @@
+consistency_check:
+  timestamp: "2026-08-31T11:33:02-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/scene_extractions/06_the_journey_to_the_excavation.md"
+  document_class: "backfill scene extraction"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage2_scene06.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 6
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc cross-check spanning this and two later sessions" }
+      - { path: summaries/20250514-chapter-02-new/gm-assist.md, role: "corrected Stage 0 first-pass recap" }
+      - { path: summaries/20250514-chapter-02-new/session-summary.md, role: "corrected Stage 1 immediate upstream artifact" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt, role: "spell-pass-cleaned speaker-labelled transcript and primary session evidence" }
+  notes: |
+    No contemporaneous prep exists for this backfill. The cleaned VTT is the
+    authority for session-local wording and attribution. Current party and
+    world-state material may preserve later retcons or elaborations and is not
+    allowed to overwrite an accurate record of the original table discussion.
+
+    The absolute-path config auto-loaded campaign_state and world_state. The
+    checker warned that no entity_registry.yaml was adjacent to the session
+    directory; docs/entity_registry.yaml was nevertheless passed explicitly in
+    the eight-file context set. The command reported ten context documents and
+    completed successfully with the codex-cli backend using the subscription
+    default model.
+
+    The checker reported six advisory findings. Three unambiguous changes were
+    applied before batch review: an Icespire-map navigation note, an unresolved
+    ASR note on “good look,” and precise wording for abandonment of Soma's
+    shortcut proposal. The “no charge” line was already marked as a transcript
+    garble and needs no duplicate warning. Goodberry speaker reconstruction and
+    the stage-wide player/character label convention remain open.
+  carry_forward:
+    - status: DONE
+      item: "Scene 6 recheck ruling s2r-04 was approved and applied; no unresolved findings remain."
+  resolution:
+    reviewed_by: "GM batch recheck"
+    reviewed: "2026-08-31"
+    applied:
+      - { finding: 1, fix: "Reconstructed the two spell-preparation lines as Soma while preserving the raw UNKNOWN provenance." }
+      - { finding: 2, fix: "Annotated Icespire Peak as regional-map navigation rather than the destination." }
+      - { finding: 4, fix: "Marked ‘good look’ as unresolved ASR." }
+      - { finding: 6, fix: "Precisely described how Soma abandoned the dishonest shortcut." }
+    partially_applied: []
+    rejected:
+      - { finding: 3, ruling: "Retain hybrid labels", rationale: "Character labels mark clear in-character speech; player labels mark table talk or ambiguity." }
+      - { finding: 5, ruling: "No further change", rationale: "The ‘no charge’ cue was already explicitly marked as transcript garble." }
+  vtt_adjudicated: |
+    The surrounding druid-spell sequence supports Soma for the two preparation
+    lines, but the editorial labels preserve that the diarizer reported UNKNOWN.

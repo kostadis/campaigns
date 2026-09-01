@@ -1,0 +1,77 @@
+consistency_check:
+  timestamp: "2026-08-31T11:42:14-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/scene_extractions/08_exploring_the_ruined_temple.md"
+  document_class: "backfill scene extraction"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage2_scene08.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 9
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc cross-check spanning this and two later sessions" }
+      - { path: summaries/20250514-chapter-02-new/gm-assist.md, role: "corrected Stage 0 first-pass recap" }
+      - { path: summaries/20250514-chapter-02-new/session-summary.md, role: "corrected Stage 1 immediate upstream artifact" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt, role: "spell-pass-cleaned speaker-labelled transcript and primary session evidence" }
+  notes: |
+    No contemporaneous prep exists for this backfill. The cleaned VTT is the
+    authority for session-local wording and attribution. Current party and
+    world-state material may preserve later retcons or elaborations and is not
+    allowed to overwrite an accurate record of the original table discussion.
+
+    The absolute-path config auto-loaded campaign_state and world_state. The
+    checker warned that no entity_registry.yaml was adjacent to the session
+    directory; docs/entity_registry.yaml was nevertheless passed explicitly in
+    the eight-file context set. The command reported ten context documents and
+    completed successfully with the codex-cli backend using the subscription
+    default model.
+
+    The command banner incorrectly said “No issues found,” but the saved report
+    contains nine issue headings; the manifest therefore records nine. Two
+    unambiguous wording clarifications were applied before batch review: the
+    final summary now names Vukradin's AC 13, and both second-door references
+    distinguish the announced discovery from the missing mechanical rationale.
+
+    Six findings require no change. The report itself confirms the Vukradin
+    attribution; the transcript and Chapter 2 cross-check place the defensive
+    blocks in the revisited partially collapsed room; undiscovered E10 module
+    contents must not be inserted; the cover function is the GM's direct
+    description; “now inaccessible” is already temporary; and the scene records
+    both the initial “nothing of value” description and the continued search.
+    The recurring label-convention advisory is treated as a hybrid convention,
+    not a requirement to force every cue to one namespace. The specific
+    Wade/Soma conflict was mechanically corrected to identify Wade's table joke.
+  carry_forward:
+    - status: DONE
+      item: "Scene 8's specific Wade/Soma speaker-label conflict was corrected from VTT evidence."
+    - status: NOTE
+      item: "Do not add E10's skeleton or holy symbol; those module facts were not discovered during this session."
+  resolution:
+    reviewed_by: "GM batch recheck"
+    reviewed: "2026-08-31"
+    applied:
+      - { finding: "mechanical-AC", fix: "Named Vukradin's AC 13 in the closing summary." }
+      - { finding: 2, fix: "Separated the announced second-door discovery from the missing mechanical rationale at both summary sites." }
+      - { finding: 8, fix: "Relabeled the ochre-jelly interruption as Wade Brown's table joke." }
+    partially_applied: []
+    rejected:
+      - { finding: 1, ruling: "No attribution change", rationale: "The report itself confirms Vukradin entered first." }
+      - { finding: 3, ruling: "No conflation", rationale: "The transcript and Chapter 2 cross-check place the defensive blocks in the revisited collapsed room." }
+      - { finding: 4, ruling: "Do not inject module truth", rationale: "E10's skeleton and holy symbol were not discovered in this session." }
+      - { finding: 5, ruling: "Preserve GM description", rationale: "The GM directly says the blocks were designed to provide cover." }
+      - { finding: 6, ruling: "No change", rationale: "The extraction already says the entrance is now inaccessible, not permanently unreachable." }
+      - { finding: 7, ruling: "Retain hybrid labels", rationale: "Only the specific Wade/Soma conflict required correction." }
+      - { finding: 9, ruling: "No change", rationale: "The extraction records both the initial nothing-of-value statement and the continued investigation." }
+  vtt_adjudicated: |
+    The transcript settles the second-door sequence and Wade's joke. Module-only
+    E10 contents remain excluded because the party did not discover them.

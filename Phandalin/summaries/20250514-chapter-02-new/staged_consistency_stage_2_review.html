@@ -1,0 +1,352 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>2025-05-14 Stage 2 Scene-Extraction Rulings</title><style id="css">
+:root {
+  --ground:#F1F3F1; --surface:#FAFBFA; --surface-2:#E6EAE7;
+  --rule:#CBD3CD; --rule-soft:#DDE3DE;
+  --ink:#171B19; --ink-2:#4A544E; --ink-3:#6E7A73;
+  --accent:#2F6F62; --accent-soft:#DCE9E5;
+  --ok:#2F6F62; --ok-bg:#DCE9E5;
+  --no:#A63446; --no-bg:#F5E2E5;
+  --talk:#A26A1F; --talk-bg:#F6EBDA;
+  --shadow:0 1px 2px rgba(23,27,25,.05),0 8px 24px -16px rgba(23,27,25,.18);
+  --serif:Georgia,"Times New Roman",serif;
+  --sans:"Helvetica Neue",Arial,sans-serif;
+  --mono:ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+    --rule:#2E3835; --rule-soft:#242C2A;
+    --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+    --accent:#6BBBA7; --accent-soft:#1B2E2A;
+    --ok:#6BBBA7; --ok-bg:#1B2E2A;
+    --no:#E28794; --no-bg:#34191E;
+    --talk:#DDAA5E; --talk-bg:#33280F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"] {
+  --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+  --rule:#2E3835; --rule-soft:#242C2A;
+  --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+  --accent:#6BBBA7; --accent-soft:#1B2E2A;
+  --ok:#6BBBA7; --ok-bg:#1B2E2A;
+  --no:#E28794; --no-bg:#34191E;
+  --talk:#DDAA5E; --talk-bg:#33280F;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px 100px}
+
+.top{padding:56px 0 26px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
+h1{font-family:var(--serif);font-weight:800;font-size:3rem;line-height:1.04;letter-spacing:0;margin:0 0 14px;text-wrap:balance}
+.lede{font-family:var(--serif);font-size:1.16rem;color:var(--ink-2);max-width:60ch;margin:0;line-height:1.5}
+
+.bar{position:sticky;top:0;z-index:20;background:var(--ground);border-bottom:1px solid var(--rule);
+  padding:12px 0;margin-bottom:6px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.prog{font-family:var(--mono);font-size:13px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.prog b{color:var(--ink);font-size:15px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-family:var(--mono);font-size:11px;letter-spacing:0;text-transform:uppercase;padding:3px 8px;border-radius:2px;font-weight:500}
+.chip.a{background:var(--ok-bg);color:var(--ok)}
+.chip.r{background:var(--no-bg);color:var(--no)}
+.chip.d{background:var(--talk-bg);color:var(--talk)}
+.spacer{flex:1 1 auto}
+
+button{font-family:inherit;font-size:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.save{background:var(--accent);color:var(--ground);border:1px solid var(--accent);
+  border-radius:3px;padding:9px 20px;font-family:var(--mono);font-size:12.5px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:opacity .15s}
+.save[disabled]{opacity:.35;cursor:not-allowed}
+:root[data-theme="dark"] .save,:root:not([data-theme="light"]) .save{color:#0D1211}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .save{color:#FAFBFA}}
+
+.bulk{background:transparent;border:1px solid var(--rule);color:var(--ink-2);border-radius:3px;
+  padding:8px 13px;font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase}
+.bulk:hover{border-color:var(--talk);color:var(--talk)}
+
+.msg{font-family:var(--mono);font-size:12px;padding:10px 14px;border-radius:3px;margin:10px 0 0;
+  background:var(--surface-2);color:var(--ink-2);border-left:2px solid var(--accent)}
+.msg.warn{border-left-color:var(--talk);color:var(--talk)}
+.msg[hidden]{display:none}
+
+.items{display:flex;flex-direction:column;gap:14px;margin-top:22px}
+
+.item{background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--rule);
+  border-radius:3px;padding:20px 22px 18px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow)}
+.item[data-choice="approve"]{border-left-color:var(--ok)}
+.item[data-choice="reject"]{border-left-color:var(--no)}
+.item[data-choice="discuss"]{border-left-color:var(--talk)}
+
+.item-head{display:flex;gap:12px;align-items:baseline}
+.num{font-family:var(--mono);font-size:12px;color:var(--ink-3);flex:none;padding-top:4px;font-variant-numeric:tabular-nums}
+.item h2{font-family:var(--serif);font-size:1.24rem;font-weight:600;line-height:1.28;margin:0;text-wrap:balance}
+
+.outcomes{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.outcome{background:var(--surface-2);border-radius:3px;padding:11px 13px;font-size:13.4px;line-height:1.5;color:var(--ink-2)}
+.outcome b{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:0;
+  text-transform:uppercase;margin-bottom:4px}
+.outcome.y b{color:var(--ok)}
+.outcome.n b{color:var(--no)}
+.outcome code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere;color:var(--ink)}
+
+.ev{font-size:13px;color:var(--ink-3);line-height:1.55;margin:0;padding-left:12px;border-left:2px solid var(--rule-soft)}
+.ev code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.ev em{color:var(--ink-2);font-style:italic}
+
+.choices{display:flex;gap:8px;flex-wrap:wrap}
+.ch{flex:1 1 auto;min-width:104px;background:transparent;border:1px solid var(--rule);color:var(--ink-2);
+  border-radius:3px;padding:10px 14px;font-family:var(--mono);font-size:12px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:background .12s,border-color .12s,color .12s}
+.ch:hover{border-color:var(--ink-3);color:var(--ink)}
+.ch[aria-pressed="true"][data-choice="approve"]{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)}
+.ch[aria-pressed="true"][data-choice="reject"]{background:var(--no-bg);border-color:var(--no);color:var(--no)}
+.ch[aria-pressed="true"][data-choice="discuss"]{background:var(--talk-bg);border-color:var(--talk);color:var(--talk)}
+
+.note{width:100%;background:var(--ground);border:1px solid var(--rule);border-radius:3px;color:var(--ink);
+  font-family:var(--sans);font-size:13.5px;padding:9px 12px}
+.note::placeholder{color:var(--ink-3)}
+.note:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.note[hidden]{display:none}
+
+.foot{margin-top:56px;padding-top:26px;border-top:2px solid var(--ink);font-size:13.4px;color:var(--ink-2);line-height:1.6}
+.foot code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.foot .applied{margin:0 0 14px}
+
+.search{width:min(260px,100%);height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;
+  background:var(--surface);color:var(--ink);font-family:var(--sans);font-size:13px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.filters{display:flex;gap:5px;flex-wrap:wrap}
+.filter{height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;background:transparent;
+  color:var(--ink-2);font-family:var(--mono);font-size:11px;text-transform:uppercase}
+.filter[aria-pressed="true"]{background:var(--surface-2);border-color:var(--ink-3);color:var(--ink)}
+
+@media (max-width:600px){
+  .wrap{padding:0 16px 80px}.item-head{flex-direction:column;gap:4px}
+  h1{font-size:2.2rem}.lede{font-size:1rem}.search{width:100%}.filters{width:100%}
+  .filter{flex:1 1 30%;min-width:0}.save,.bulk{flex:1 1 auto}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body><div id="app"></div><script type="application/json" id="state">{"decisions": {}, "notes": {}, "savedAt": null}</script><script type="text/plain" id="src">
+var TITLE = "2025-05-14 Stage 2 Scene-Extraction Rulings";
+var EYEBROW = "Phandalin / 2025-05-14 / staged consistency";
+var LEDE = "Eighteen judgment calls need a ruling. Seventeen unambiguous corrections are already applied; nine Trivial or previously resolved advisories were logged but not queued.";
+var FOOTER = "Applied without asking: 17 unambiguous corrections across seven scene files (01, 02, 03, 04, 06, 07, and 08). Left unchanged and unqueued: nine Trivial or previously resolved advisories.";
+var ITEMS = [{"id": "s2-01", "t": "[Moderate] Gary’s Brewbarry discussion should not be attributed to Valphine.", "y": "In \u003ccode>scene_extractions/01_character_introductions_and_backstories.md\u003c/code>, relabel out-of-character Brewbarry concept-building as Gary Young and clear first-person character lines as Brewbarry. Valphine will no longer appear to narrate Brewbarry’s exile, loneliness, tea, and musical preferences.", "n": "Leave the Valphine labels beginning at \u003ccode>scene_extractions/01_character_introductions_and_backstories.md:313\u003c/code> unchanged and defer the attribution conflict.", "ev": "The VTT warns that Gary voiced both PCs and that a player label must not be converted automatically at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:15\u003c/code>. The affected blocks begin at \u003ccode>scene_extractions/01_character_introductions_and_backstories.md:313\u003c/code>."}, {"id": "s2-02", "t": "[Moderate] Wade should be identified as jokingly supplying Vukradin’s proposed song payment.", "y": "Change the label at \u003ccode>scene_extractions/01_character_introductions_and_backstories.md:293\u003c/code> to Wade Brown with a note that he is supplying Vukradin’s offer; the audio speaker and the joke’s narrative target will both remain explicit.", "n": "Keep the quotation labeled Soma, leaving the audio speaker and the later Vukradin framing in tension.", "ev": "The VTT assigns the line to Wade at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1541\u003c/code>; Vukradin immediately answers, ‘Wait, I have to pay her?’"}, {"id": "s2-03", "t": "[Moderate] The ‘my drow cleric’ exchange should retain player-level uncertainty.", "y": "At \u003ccode>scene_extractions/01_character_introductions_and_backstories.md:385\u003c/code>, replace the inferred PC labels with Gary Young and Kostadis Roussos [?], adding notes that the intended characters are uncertain. No PC will be credited without evidence.", "n": "Keep the first line attributed to Valphine and the reply to Kostadis, preserving the current third-person contradiction.", "ev": "The VTT records Gary for the first line at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1781\u003c/code> and uncertain Kostadis for the reply at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1789\u003c/code>."}, {"id": "s2-04", "t": "[Moderate] Gary’s opening flyer questions should not be attributed specifically to Valphine.", "y": "Relabel the three opening flyer-question blocks beginning at \u003ccode>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:22\u003c/code> as Gary Young. This preserves the known player while avoiding an unsupported choice between Gary’s two PCs.", "n": "Leave all three questions attributed to Valphine and accept the unsupported character inference.", "ev": "The cleaned VTT’s attribution rule is explicit at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:15\u003c/code>: Gary voiced Valphine and Brewbarry, so the PC must not be inferred from his speaker label."}, {"id": "s2-05", "t": "[Moderate] ‘Love music with notes’ should not be attributed to Valphine.", "y": "Change the label at \u003ccode>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:391\u003c/code> to ‘Gary Young — possibly as Brewbarry.’ This will preserve both the known speaker and the contextual uncertainty.", "n": "Keep the line labeled Valphine, making her appear to supply Brewbarry’s musical characterization.", "ev": "The VTT identifies Gary at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:3153\u003c/code>; the surrounding exchange is about Brewbarry communicating through music."}, {"id": "s2-06", "t": "[Moderate] The closing beat should acknowledge that the flyer and guard scenes occur before departure.", "y": "Rename \u003ccode>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:421\u003c/code> from ‘On the Road South’ to ‘At Neverwinter’s Walls and On the Road South.’ The single beat will accurately cover both the city-wall discussion and subsequent travel.", "n": "Keep ‘On the Road South,’ allowing the heading to imply that the pre-departure discussion happened after the party left.", "ev": "The GM corrects the timeline at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:3101\u003c/code>: the party has not left Neverwinter yet."}, {"id": "s2-07", "t": "[Moderate] The party—not Toblen—should be credited with saying it cannot afford rooms.", "y": "Revise \u003ccode>scene_extractions/04_arrival_at_the_stonehill_inn.md:18\u003c/code> and \u003ccode>:512\u003c/code> to say that after the party says it cannot afford rooms, Toblen directs it to the quest board.", "n": "Keep the current wording that Toblen notes or admits the party cannot afford lodging.", "ev": "Toblen merely offers a room at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:4609\u003c/code>; Gary then says ‘I can’t afford to live here’ at \u003ccode>:4617\u003c/code>."}, {"id": "s2-08", "t": "[Moderate] The actual Dwarven Excavation task should be distinguished from Soma’s ‘letter’ joke.", "y": "At \u003ccode>scene_extractions/05_the_phandalin_quest_board.md:16\u003c/code> and \u003ccode>:267\u003c/code>, state that the formal task is to deliver a warning and identify ‘literally just delivering a letter’ as Soma’s joke; the verbatim quote at \u003ccode>:219\u003c/code> will remain untouched.", "n": "Keep the narrative treating a physical letter as the quest object, even though none is established.", "ev": "The quest text says ‘Take the warning to them’ at \u003ccode>docs/chapters/chapter_02_arrival_in_phandalin.md:157\u003c/code>; Soma’s joke appears in the VTT at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5373\u003c/code>."}, {"id": "s2-09", "t": "[Moderate] Harbin’s Gnomengarde role should not be described as taking a cut.", "y": "Replace ‘Townmaster’s cut’ at \u003ccode>scene_extractions/05_the_phandalin_quest_board.md:15\u003c/code> and \u003ccode>:266\u003c/code> with his participation in the acquisition scheme—offering 50 gp for a useful item the party does not keep.", "n": "Keep wording that implies Harbin receives a share of proceeds from the Gnomengarde transaction.", "ev": "The notice makes Harbin the buyer at \u003ccode>docs/chapters/chapter_02_arrival_in_phandalin.md:167\u003c/code>; Vukradin objects to his participation at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:4957\u003c/code>."}, {"id": "s2-10", "t": "[Moderate] ‘Deal Struck’ should not imply that the party promised to clear the temple.", "y": "Rename \u003ccode>scene_extractions/07_meeting_the_prospectors.md:598\u003c/code> to ‘Message Delivered, Investigation Accepted’ and revise \u003ccode>:603\u003c/code> to say the party agrees to enter and assess the temple before deciding whether to clear it.", "n": "Keep ‘Deal Struck’ and ‘decides to go in,’ preserving the stronger commitment framing.", "ev": "Vukradin says ‘we’ll consider for you’ at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:7005\u003c/code>; Soma proposes only a look around at \u003ccode>:7089\u003c/code>."}, {"id": "s2-11", "t": "[Moderate] The second secret door’s discovery mechanism should remain uncertain.", "y": "Revise \u003ccode>scene_extractions/08_exploring_the_ruined_temple.md:15\u003c/code> and \u003ccode>:416\u003c/code> to say that despite apparently failed active checks, the GM reveals the second door and the transcript does not preserve why it was found.", "n": "Keep stating that an Investigation roll turns up the door, implying a successful check not preserved by the transcript.", "ev": "The VTT records repeated ‘Nope’ results at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:7637-7641\u003c/code>, followed by garbled discovery narration at \u003ccode>:7649\u003c/code>."}, {"id": "s2-12", "t": "[Minor] ‘Follow tales only’ should be marked as unresolved ASR.", "y": "At \u003ccode>scene_extractions/01_character_introductions_and_backstories.md:430\u003c/code>, relabel the audio speaker as David Mendenhall and render the quote as unclear while preserving ‘Follow tales only’ in an editorial ASR note.", "n": "Keep the meaningless phrase as reliable Vukradin dialogue with no uncertainty marker.", "ev": "The cleaned VTT preserves the same unexplained words under David’s player label at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1861\u003c/code>."}, {"id": "s2-13", "t": "[Minor] Vukradin’s summary should not claim an exact quote spoken by UNKNOWN.", "y": "At \u003ccode>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:11\u003c/code>, paraphrase that Vukradin continues to insist the flyer promised easy money; keep the exact ‘something about money’ quote under UNKNOWN in the verbatim section.", "n": "Keep the exact UNKNOWN line attached to Vukradin in the summary.", "ev": "The VTT marks ‘It definitely said something about money’ as UNKNOWN at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:2417\u003c/code>, while Vukradin makes adjacent easy-money claims."}, {"id": "s2-14", "t": "[Minor] The arrival time and travel duration should remain tentative.", "y": "Qualify \u003ccode>scene_extractions/03_arrival_in_phandalin.md:135\u003c/code> as the GM tentatively placing the arrival early in the morning after several days’ travel.", "n": "Keep the time and duration as settled historical facts.", "ev": "The GM says ‘I’m assuming’ and ‘kind of like’ at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:3809\u003c/code> and \u003ccode>:3813\u003c/code>."}, {"id": "s2-15", "t": "[Minor] The travel summary should not claim that every PC’s 30-foot speed was confirmed.", "y": "Revise \u003ccode>scene_extractions/06_the_journey_to_the_excavation.md:228\u003c/code> to say the GM ruled the fifteen-mile trip a day’s hike and Soma separately confirmed her own speed as 30 feet.", "n": "Keep the unsupported claim that every party member has the same confirmed speed.", "ev": "The day’s-hike ruling appears at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5109\u003c/code>; only Soma confirms 30 feet at \u003ccode>:5125\u003c/code>."}, {"id": "s2-16", "t": "[Minor] ‘Can you crap and scavenge food’ should be marked as unresolved ASR.", "y": "At \u003ccode>scene_extractions/06_the_journey_to_the_excavation.md:62\u003c/code>, label the speaker Gary Young and replace the uncertain verb with ‘[unclear],’ preserving ‘crap’ only in an editorial ASR note.", "n": "Keep the current Valphine attribution and present ‘crap’ as reliable dialogue.", "ev": "The VTT assigns the cue to Gary and preserves the questionable word at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5177\u003c/code>; the surrounding discussion is entirely about foraging."}, {"id": "s2-17", "t": "[Minor] ‘Pet speed penalty’ should be marked as unresolved ASR.", "y": "At \u003ccode>scene_extractions/06_the_journey_to_the_excavation.md:54\u003c/code>, render the phrase as ‘there isn’t a [unclear] speed penalty’ and preserve raw ‘pet’ in an editorial note.", "n": "Keep ‘pet speed penalty’ as reliable GM dialogue even though the exchange concerns Soma’s own walking speed.", "ev": "The raw cleaned cue is at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5153\u003c/code>; Soma has just confirmed her own Tortle speed."}, {"id": "s2-18", "t": "[Minor] ‘At least we have a good look’ should be marked as unresolved ASR.", "y": "At \u003ccode>scene_extractions/06_the_journey_to_the_excavation.md:89\u003c/code>, use Gary Young’s player label, mark the utterance unclear, and retain the raw ASR only in the editorial note.", "n": "Keep the unexplained phrase as reliable Valphine dialogue.", "ev": "The VTT assigns the cue to Gary at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5225\u003c/code>; no ‘look’ is under discussion."}];
+var REVIEW_ID = "staged-consistency:20250514-chapter-02-new:stage-2";
+var OUTPUT_NAME = "staged_consistency_stage_2_decisions.json";
+
+var LABEL = {approve:"Approve", reject:"Reject", discuss:"Discuss"};
+
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+function readState(){
+  try { return JSON.parse(document.getElementById("state").textContent); }
+  catch(e){ return {decisions:{},notes:{},savedAt:null}; }
+}
+
+var state = readState();
+if(!state.decisions) state.decisions = {};
+if(!state.notes) state.notes = {};
+state.filter = 'all';
+state.search = '';
+try {
+  var stored = JSON.parse(localStorage.getItem('codex-review:' + REVIEW_ID) || '{}');
+  if(stored.decisions) state.decisions = stored.decisions;
+  if(stored.notes) state.notes = stored.notes;
+} catch(e) {}
+
+function persist(){
+  try { localStorage.setItem('codex-review:' + REVIEW_ID, JSON.stringify({decisions:state.decisions,notes:state.notes})); }
+  catch(e) {}
+}
+
+function counts(){
+  var c = {approve:0,reject:0,discuss:0};
+  ITEMS.forEach(function(it){ var d = state.decisions[it.id]; if(d) c[d]++; });
+  return c;
+}
+
+function render(){
+  var c = counts(), done = c.approve + c.reject + c.discuss;
+  var query = state.search.toLowerCase();
+  var visible = ITEMS.filter(function(it){
+    var choice = state.decisions[it.id] || '';
+    var filterMatch = state.filter === 'all' || (state.filter === 'unmarked' ? !choice : choice === state.filter);
+    var searchMatch = !query || [it.id,it.t,it.y,it.n,it.ev || ''].join(' ').toLowerCase().indexOf(query) !== -1;
+    return filterMatch && searchMatch;
+  });
+  var h = '';
+
+  h += '<div class="wrap">';
+  h += '<div class="top">';
+  h += '<div class="eyebrow">' + esc(EYEBROW) + '</div>';
+  h += '<h1>' + esc(TITLE) + '</h1>';
+  h += '<p class="lede">' + esc(LEDE) + '</p>';
+  h += '</div>';
+
+  h += '<div class="bar">';
+  h += '<span class="prog"><b>' + done + '</b> of ' + ITEMS.length + ' decided</span>';
+  h += '<span class="chips">';
+  if(c.approve) h += '<span class="chip a">' + c.approve + ' approve</span>';
+  if(c.reject)  h += '<span class="chip r">' + c.reject + ' reject</span>';
+  if(c.discuss) h += '<span class="chip d">' + c.discuss + ' discuss</span>';
+  h += '</span>';
+  h += '<span class="spacer"></span>';
+  h += '<input class="search" id="search" type="search" placeholder="Search findings" value="' + esc(state.search) + '">';
+  h += '<span class="filters">';
+  [['all','All'],['unmarked','Unmarked'],['approve','Approved'],['reject','Rejected'],['discuss','Discuss']].forEach(function(pair){
+    h += '<button class="filter" data-filter="' + pair[0] + '" aria-pressed="' + (state.filter === pair[0]) + '">' + pair[1] + '</button>';
+  });
+  h += '</span>';
+  h += '<button class="bulk" id="allDiscuss">Discuss all ' + ITEMS.length + '</button>';
+  h += '<button class="bulk" id="copy">Copy output</button>';
+  h += '<button class="save" id="save">Save output</button>';
+  h += '</div>';
+
+  h += '<div class="msg" id="msg" hidden></div>';
+
+  h += '<div class="items">';
+  visible.forEach(function(it){
+    var i = ITEMS.indexOf(it);
+    var d = state.decisions[it.id] || '';
+    h += '<div class="item"' + (d ? ' data-choice="' + d + '"' : '') + '>';
+    h += '<div class="item-head"><span class="num">' + (i+1 < 10 ? '0' : '') + (i+1) + '</span>';
+    h += '<h2>' + it.t + '</h2></div>';
+    h += '<div class="outcomes">';
+    h += '<div class="outcome y"><b>If approved</b>' + it.y + '</div>';
+    h += '<div class="outcome n"><b>If rejected</b>' + it.n + '</div>';
+    h += '</div>';
+    if(it.ev) h += '<p class="ev">' + it.ev + '</p>';
+    h += '<div class="choices">';
+    ['approve','reject','discuss'].forEach(function(k){
+      h += '<button class="ch" data-item="' + it.id + '" data-choice="' + k + '" aria-pressed="' +
+           (d === k ? 'true' : 'false') + '">' + LABEL[k] + '</button>';
+    });
+    h += '</div>';
+    h += '<input class="note" data-note="' + it.id + '" placeholder="Add a note for this one (optional)" value="' +
+         esc(state.notes[it.id] || '') + '"' + (d === 'discuss' || state.notes[it.id] ? '' : ' hidden') + '>';
+    h += '</div>';
+  });
+  if(!visible.length) h += '<div class="msg">No findings match this view.</div>';
+  h += '</div>';
+
+  h += '<div class="foot">';
+  if(FOOTER) h += '<p class="applied">' + esc(FOOTER) + '</p>';
+  h += 'Use Copy output to paste the rulings into chat, or Save output to download <code>' + esc(OUTPUT_NAME) + '</code>. ' +
+       'Unmarked findings remain unresolved; they are never treated as rejected.';
+  h += '</div>';
+  h += '</div>';
+
+  document.getElementById('app').innerHTML = h;
+  wire();
+}
+
+function flash(text, warn){
+  var m = document.getElementById('msg');
+  if(!m) return;
+  m.textContent = text;
+  m.className = warn ? 'msg warn' : 'msg';
+  m.hidden = false;
+}
+
+function wire(){
+  Array.prototype.forEach.call(document.querySelectorAll('.ch'), function(b){
+    b.addEventListener('click', function(){
+      var id = b.getAttribute('data-item'), k = b.getAttribute('data-choice');
+      state.decisions[id] = (state.decisions[id] === k) ? undefined : k;
+      if(!state.decisions[id]) delete state.decisions[id];
+      persist();
+      render();
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('.note'), function(n){
+    n.addEventListener('input', function(){
+      var id = n.getAttribute('data-note');
+      if(n.value) state.notes[id] = n.value; else delete state.notes[id];
+      persist();
+    });
+  });
+
+  var all = document.getElementById('allDiscuss');
+  if(all) all.addEventListener('click', function(){
+    ITEMS.forEach(function(it){ state.decisions[it.id] = 'discuss'; });
+    persist();
+    render();
+  });
+
+  var search = document.getElementById('search');
+  if(search) search.addEventListener('input', function(){
+    state.search = search.value;
+    render();
+    var next = document.getElementById('search');
+    if(next){ next.focus(); next.setSelectionRange(next.value.length, next.value.length); }
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('[data-filter]'), function(b){
+    b.addEventListener('click', function(){ state.filter = b.getAttribute('data-filter'); render(); });
+  });
+
+  var copy = document.getElementById('copy');
+  if(copy) copy.addEventListener('click', copyOutput);
+  var save = document.getElementById('save');
+  if(save) save.addEventListener('click', doSave);
+}
+
+function output(){
+  var c = counts();
+  var decisions = {}, notes = {}, unmarked = [];
+  ITEMS.forEach(function(it){
+    var choice = state.decisions[it.id];
+    if(choice) decisions[it.id] = choice; else unmarked.push(it.id);
+    if(state.notes[it.id]) notes[it.id] = state.notes[it.id];
+  });
+  return {
+    schemaVersion: 1,
+    reviewId: REVIEW_ID,
+    savedAt: new Date().toISOString().replace('T',' ').slice(0,16) + ' UTC',
+    decided: c.approve + c.reject + c.discuss,
+    tally: c,
+    decisions: decisions,
+    notes: notes,
+    discuss: ITEMS.filter(function(it){ return decisions[it.id] === 'discuss'; }).map(function(it){ return it.id; }),
+    unmarked: unmarked
+  };
+}
+
+function outputText(){ return JSON.stringify(output(), null, 2); }
+
+function copyOutput(){
+  var value = outputText();
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(value).then(function(){ flash('Decision output copied.'); }).catch(function(){ fallbackCopy(value); });
+  } else fallbackCopy(value);
+}
+
+function fallbackCopy(value){
+  var area = document.createElement('textarea');
+  area.value = value; area.style.position = 'fixed'; area.style.opacity = '0';
+  document.body.appendChild(area); area.select();
+  try {
+    if(document.execCommand('copy')) flash('Decision output copied.');
+    else window.prompt('Copy the decision output:', value);
+  } catch(e) { window.prompt('Copy the decision output:', value); }
+  area.remove();
+}
+
+function doSave(){
+  var blob = new Blob([outputText()], {type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var link = document.createElement('a');
+  link.href = url; link.download = OUTPUT_NAME;
+  document.body.appendChild(link); link.click(); link.remove();
+  URL.revokeObjectURL(url);
+  flash('Saved ' + OUTPUT_NAME + '.');
+}
+
+render();
+</script><script>new Function(document.getElementById("src").textContent)();</script></body></html>

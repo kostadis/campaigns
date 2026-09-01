@@ -1,0 +1,58 @@
+consistency_check:
+  timestamp: "2026-08-31T10:08:11-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/scene_extractions/03_arrival_in_phandalin.md"
+  document_class: "backfill scene extraction"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage2_scene03.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 3
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc cross-check spanning this and two later sessions" }
+      - { path: summaries/20250514-chapter-02-new/gm-assist.md, role: "corrected Stage 0 first-pass recap" }
+      - { path: summaries/20250514-chapter-02-new/session-summary.md, role: "corrected Stage 1 immediate upstream artifact" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt, role: "spell-pass-cleaned speaker-labelled transcript and primary session evidence" }
+  notes: |
+    No contemporaneous prep exists for this backfill. The cleaned VTT is the
+    authority for session-local wording and attribution. Current party and
+    world-state material may preserve later retcons or elaborations and is not
+    allowed to overwrite an accurate record of the original table discussion.
+
+    The absolute-path config auto-loaded campaign_state and world_state. The
+    checker warned that no entity_registry.yaml was adjacent to the session
+    directory; docs/entity_registry.yaml was nevertheless passed explicitly in
+    the eight-file context set. The command reported ten context documents and
+    completed successfully with the codex-cli backend using the subscription
+    default model.
+
+    The checker reported three advisory findings. Two source-provenance
+    annotations were applied before batch review: the uncertain Wade Brown cue
+    now carries `[?]`, and the job-board line is explicitly marked as a
+    non-verbatim reconstruction. The stage-wide speaker-label convention
+    remains open for batch adjudication.
+  carry_forward:
+    - status: DONE
+      item: "Scene 3 mechanical annotations were applied; the hybrid speaker-label convention is retained."
+  resolution:
+    reviewed_by: "GM batch recheck"
+    reviewed: "2026-08-31"
+    applied:
+      - { finding: 2, fix: "Restored the VTT uncertainty marker on ‘A great little town.’" }
+      - { finding: 3, fix: "Marked the job-board sentence as a non-verbatim reconstruction." }
+    partially_applied: []
+    rejected:
+      - { finding: 1, ruling: "Retain hybrid labels", rationale: "PC labels identify clear in-character speech; player labels identify table talk or uncertain intent." }
+  vtt_adjudicated: |
+    The uncertain Wade cue and reconstructed boxed-text fragments now carry
+    explicit source-provenance annotations.

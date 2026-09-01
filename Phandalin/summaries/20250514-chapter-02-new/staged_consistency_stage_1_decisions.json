@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "staged-consistency:20250514-chapter-02-new:stage-1",
+  "savedAt": "2026-08-31 06:08 UTC",
+  "decided": 4,
+  "tally": {
+    "approve": 3,
+    "reject": 0,
+    "discuss": 1
+  },
+  "decisions": {
+    "s1-01": "discuss",
+    "s1-04": "approve",
+    "s1-06": "approve",
+    "s1-08": "approve"
+  },
+  "notes": {
+    "s1-01": "Check the module for accounting"
+  },
+  "discuss": [
+    "s1-01"
+  ],
+  "unmarked": []
+}

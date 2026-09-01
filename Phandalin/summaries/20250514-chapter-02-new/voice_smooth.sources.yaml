@@ -1,0 +1,175 @@
+# /voice-smooth manifest — Phandalin, Chapter 2 (2025-05-14)
+# Written 2026-09-01. The verbatim record (scene_extractions/ + the VTTs) was not modified
+# by this pass; the attribution repairs listed below were made upstream on explicit GM ruling.
+
+run:
+  session_dir: summaries/20250514-chapter-02-new
+  scene_dir: scene_extractions            # not scene_extractions_new; suffix varies by pipeline version
+  output_dir: scene_extractions_smoothed
+  scenes: 8
+  quote_lines_in: 1028
+  quote_lines_out: 645
+  moments_heading: "## Voiced moments"    # never "## Verbatim moments" (CampaignGenerator#250 R5)
+
+voice_specs:
+  resolution_rule: "load_voice_files / _resolve_voice_key, rule (c) for all four PCs"
+  resolved:
+    Vukradin: voice/vukradin_new_pipeline.md
+    Soma: voice/soma_new_pipeline.md
+    Valphine Sotorra: voice/valphine_new_pipeline.md
+    Brewbarry: voice/brewbarry_new_pipeline.md
+  genre: voice/_genre.md
+  unresolved: []
+  npc_characterization:
+    Toblen Stonehill: "from the scene itself; no dossier exists. Warm, deferential, anxious
+      innkeeper; pragmatic about money; wounded when his taste in music is mocked."
+    Dazlyn Grayshard: "entity_registry.yaml l.218 — forthright and honest"
+    Norbus Ironrune: "entity_registry.yaml l.250 — gruff, excessively cautious"
+    city guard (Neverwinter): "from the scene itself; unnamed"
+
+transcripts:
+  # per-campaign knowledge: which decode to trust for what
+  - path: session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt
+    role: primary
+    good_at: "real cue timestamps; the pipeline's own speaker labels (unreliable, see below)"
+  - path: GMT20250514-024038_Recording.txt
+    role: independent second decode (Zoom text export)
+    good_at: "speaker identity (Sp2=Dave/Vukradin, Sp3=Gary, Sp4=GM, Sp5=Wade/Soma);
+      sentence completion; recovering words the VTT dropped"
+    note: "word-level timestamps must be stripped before use; see scratch zoom_clean.txt"
+
+calibration_decisions:
+  # GM-ruled in the Chapter 2 Smoothing Calibration artifact, saved 2026-09-01 13:36 UTC
+  # https://claude.ai/code/artifact/597152e2-5b38-400d-bd71-8eae23c2af6c
+  calibration_scene: 04_arrival_at_the_stonehill_inn.md
+  stage_direction_split: APPROVED     # italics outside the quotes; 34 fused cues session-wide
+  fragment_collapse: APPROVED         # join consecutive same-speaker cues
+  filler_removal: APPROVED            # cut player filler; keep voice-file tics
+  grammar_repair: REJECTED            # spoken grammar left exactly as said, even when ungrammatical
+  truncation_handling: "REJECTED as 'keep visible' -> truncations COMPLETED where recoverable"
+  scene01_as_table_talk: REJECTED     # smoothed like any other scene, in character register
+  voice_spec_content: "REGISTER ONLY — the specs describe level-5 characters; their content
+    (Brewbarry's exile, Meril's staff, 'fair-trade conflict-free gold') is contradicted or
+    not yet invented in this session. Signature vocabulary deliberately NOT applied."
+  unknown_labels: "kept as-is under **UNKNOWN**; recovering them is attribution, not this layer's"
+
+scope_rulings:
+  deduplication:
+    - line: "So as you're walking across the... Toblen says, oh, one minor detail."
+      kept_in: 04_arrival_at_the_stonehill_inn.md
+      dropped_from: 05_the_phandalin_quest_board.md
+      why: "extractor's own note says it belongs to the inn; scene-boundary note left in 05"
+    - note: "all other cross-scene overlap across 28 scene pairs was noise ('Yes.', 'Okay.',
+        'All right.'); no other scope cut was needed"
+  cuts_tooling_logistics:
+    # GM ruling: delete, do not smooth. Generalised from the ch3 (2025-05-28) init-tracker ruling,
+    # and confirmed rather than assumed.
+    01: ["Yeah, I saw the very silly turtle image.", "GM token-fiddling tail (...That should not be here...)"]
+    03: ["So you guys should be seeing the sword coast map."]
+    05: ["Do we need a tab for quests here?", "We have one under initiative tracking.",
+         "I just put it in the text.", "In the Roll20 chat."]
+    06: ["I got it in the wrong button."]
+    07: ["Are they these little star things?", "Yeah, those are the star things."]
+    08: ["Oh, is that the S?", "Yes, that is the S.", "We are blocked off.",
+         "This is like, this is old school."]
+    pairs_note: "In 07 and 08 the GM's card named only the first line of a two-line exchange;
+      the reply was cut with it because cutting one orphans the other. Flagged, not assumed."
+  cuts_real_people:
+    01:
+      - "Is Wallace still around?"
+      - "Gary has played women several times."
+      - "Yeah, Wallace is not only around, he's got kids now."
+      - "Don't we all?"
+      - "Orsik's hanging out with him, taking care of the kids."
+      - "No, Unlucky never turned serious. Unlucky became like a caricature."
+      - "It didn't quite reach level or Orsik level of excitement, but you know."
+    why: "GM ruling 2026-09-01 — names real people outside the fiction, no character register
+      renders them. First two cut on the initial ruling; the rest of the prior-campaign cluster
+      cut on the follow-up ruling the same day."
+    orphan_note: "'Don't we all?' was not named by the GM but was cut with the Wallace line it
+      answers; cutting one orphans the other. Flagged, not assumed."
+    still_present: "The adjacent prior-campaign run survives and was NOT ruled on: 'In fact, one
+      time he played two women at the same time...', 'Oh, we had a split personality...', 'Well,
+      we don't have anybody with like three hit points...', 'Yeah, he had a walking band-aid...'"
+  player_names_policy:
+    speaker_labels: "zero real names remain except one deliberate holdout (below)"
+    scene_summaries: "scrubbed upstream in scene_extractions/ during /session-summary-consistency;
+      copied forward already clean"
+    quote_content: "REMOVED from the smoothed layer on GM ruling 2026-09-01 (6 lines). This skill
+      permits player names inside quote content, so this is the GM's call, not the default.
+      Applied to scene_extractions_smoothed/ ONLY — the verbatim wording is preserved in
+      scene_extractions/ and the VTT, which remain the record. Changes:
+        01 'Wade, do you have a turtle?'                      -> 'Do you have a turtle?'
+        01 'Gary, what's your backstory?'                     -> 'What's your backstory?'
+        01 '...the piano bar that Dave was... that Vukradin?' -> '...the piano bar — that Vukradin?'
+        08 'Gary, you're a trope.'                            -> 'You're a trope.'
+        08 'how could a character of Gary's not have...'      -> 'how could one of my characters not have...'
+        08 'but Gary's characters always have...'             -> 'but your characters always have...'
+      The last three are speech rewrites, which this layer does not normally make; they were
+      directed explicitly and are reversible from the verbatim layer."
+  knowledge_boundaries: "none found. This is session zero; no player-knowledge-as-character-knowledge
+    leak exists yet because no campaign canon exists yet to leak."
+
+garble_rulings:
+  approved:
+    - id: g-sodoso
+      scene: 02
+      ruling: "cut 'So do so.' — the stammer on the following line; both decodes render it as one utterance"
+    - id: g-withnotes
+      scene: 02
+      ruling: "join the orphan fragments into 'He loves music. With notes.'"
+      caveat: "RECONSTRUCTION — no transcript corroborates the join; carded and approved on that basis"
+    - id: g-brewbarry-music
+      scene: 07
+      ruling: "lift the player's frame out of the quotation marks:
+        'So it's Brewbarry is like, does that mean...' -> as Brewbarry: 'Does that mean I can listen to music all the time?'"
+  rejected:
+    - id: g-starthings
+      scene: 07
+      ruling: "cut as tooling noise rather than keep verbatim (see cuts_tooling_logistics)"
+  kept_deliberately:
+    - "'Uncle June' (01) — both decodes agree; do not re-flag"
+    - "'She goes...' for Toblen (04) — both decodes agree the GM said 'She'; not a pronoun error to fix"
+    - "'Norbus go punches in' (07) — both decodes agree; GM disfluency, not a garble"
+    - "'Three feet — heaps of rubble' (07) — the GM's own false start, in both decodes"
+    - "'looking for mountains in the southwest' (07) — both decodes agree"
+    - "'[Unclear.]' (01) — GM rejected upgrading it to a bracketed guess during the quote pass"
+
+upstream_repairs_made:
+  # NOT a voice-smooth action. GM instruction 2026-09-01: "Repair upstream."
+  what: "29 **GM**-labelled blocks in scene_extractions/ were actually a player speaking"
+  method: "each quote located in the cleaned VTT for its real timestamp, then matched only to
+    Zoom cues within +/-4s. An unanchored fuzzy sweep gave 51 and matched across the whole tape."
+  applied: {01: 6, 02: 5, 04: 8, 06: 2, 07: 2, 08: 6}
+  gm_label_count: "428 -> 399"
+  held_not_applied: 9
+  held_why: "matched an ADJACENT cue, not the line itself; applying them would move NPC speech
+    onto a player. Held: 'I'm not forgiving you.' / 'I'm forgiving all barbarians.' (04, Toblen);
+    'You know, we're just prospectors.' (07, Norbus); 'I understand your concerns...' (02, the guard);
+    'Are you going to go through?' (08); 'No, you have not gone into the big room.' (08 — already
+    correctly set to GM in the quote pass); 'In fact, one time he played two women...' (01);
+    'It's on the internet.' (08 — Zoom reads 'It's on the initiative', different text);
+    the Lathander-and-drow-combo cue (01 — a genuine splice, Gary's line fused to the GM's token tail)."
+  lesson: "one of the pass's own inline guesses was wrong: 'What are your creations?' was tagged
+    [Vukradin] from context; Zoom puts it on Speaker 5 (Soma). Guessing attribution from context
+    is not a substitute for the second decode."
+
+upstream_defects_found_not_fixed:
+  - "08 scene summary asserts 'citing his AC 13'. The GM's 2026-09-01 ruling rejected the AC
+    reading (neither decode says AC; the quote now reads 'Give me a save 13'). The summary text
+    is verbatim from gm-assist.md, so the fix belongs upstream of scene_extract."
+  - "RESOLVED 2026-09-01: 02 scene summary read 'are you adventures, heroes'; the GM ruled it to
+    'are you adventurers? Heroes? People who want to make a change?' Fixed in scene_extractions/,
+    scene_extractions_smoothed/ and session-summary.md. gm-assist.md and the two logs/ copies
+    still carry the garble and would reintroduce it on a re-extract."
+  - "01 retains one player-name speaker label: '**Kostadis Roussos [?]**' on 'It hurts myself.'
+    Left deliberately — the annotation says 'possibly voicing Valphine', so scrubbing it to GM
+    would assert an attribution the pipeline itself doubted. Needs a GM ruling or 'UNKNOWN'."
+
+carry_forward:
+  - "GM ruling still open: the adjacent prior-campaign run in scene 01 that was never put to the
+    GM — the two-women/split-personality/three-hit-points/walking-band-aid exchange."
+  - "GM ruling still open: the '**Kostadis Roussos [?]**' label in 01."
+  - "The 9 held attribution candidates are unresolved, not cleared."
+  - "Re-running scene_extract DISCARDS this layer: the de-duplication, the tooling cuts, the
+    real-people cuts, 34 stage-direction splits, and every editorial annotation live only here."
