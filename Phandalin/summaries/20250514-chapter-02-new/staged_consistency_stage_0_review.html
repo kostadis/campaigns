@@ -1,0 +1,352 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Chapter 2 — Stage 0 Rulings</title><style id="css">
+:root {
+  --ground:#F1F3F1; --surface:#FAFBFA; --surface-2:#E6EAE7;
+  --rule:#CBD3CD; --rule-soft:#DDE3DE;
+  --ink:#171B19; --ink-2:#4A544E; --ink-3:#6E7A73;
+  --accent:#2F6F62; --accent-soft:#DCE9E5;
+  --ok:#2F6F62; --ok-bg:#DCE9E5;
+  --no:#A63446; --no-bg:#F5E2E5;
+  --talk:#A26A1F; --talk-bg:#F6EBDA;
+  --shadow:0 1px 2px rgba(23,27,25,.05),0 8px 24px -16px rgba(23,27,25,.18);
+  --serif:Georgia,"Times New Roman",serif;
+  --sans:"Helvetica Neue",Arial,sans-serif;
+  --mono:ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+    --rule:#2E3835; --rule-soft:#242C2A;
+    --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+    --accent:#6BBBA7; --accent-soft:#1B2E2A;
+    --ok:#6BBBA7; --ok-bg:#1B2E2A;
+    --no:#E28794; --no-bg:#34191E;
+    --talk:#DDAA5E; --talk-bg:#33280F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"] {
+  --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+  --rule:#2E3835; --rule-soft:#242C2A;
+  --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+  --accent:#6BBBA7; --accent-soft:#1B2E2A;
+  --ok:#6BBBA7; --ok-bg:#1B2E2A;
+  --no:#E28794; --no-bg:#34191E;
+  --talk:#DDAA5E; --talk-bg:#33280F;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px 100px}
+
+.top{padding:56px 0 26px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
+h1{font-family:var(--serif);font-weight:800;font-size:3rem;line-height:1.04;letter-spacing:0;margin:0 0 14px;text-wrap:balance}
+.lede{font-family:var(--serif);font-size:1.16rem;color:var(--ink-2);max-width:60ch;margin:0;line-height:1.5}
+
+.bar{position:sticky;top:0;z-index:20;background:var(--ground);border-bottom:1px solid var(--rule);
+  padding:12px 0;margin-bottom:6px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.prog{font-family:var(--mono);font-size:13px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.prog b{color:var(--ink);font-size:15px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-family:var(--mono);font-size:11px;letter-spacing:0;text-transform:uppercase;padding:3px 8px;border-radius:2px;font-weight:500}
+.chip.a{background:var(--ok-bg);color:var(--ok)}
+.chip.r{background:var(--no-bg);color:var(--no)}
+.chip.d{background:var(--talk-bg);color:var(--talk)}
+.spacer{flex:1 1 auto}
+
+button{font-family:inherit;font-size:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.save{background:var(--accent);color:var(--ground);border:1px solid var(--accent);
+  border-radius:3px;padding:9px 20px;font-family:var(--mono);font-size:12.5px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:opacity .15s}
+.save[disabled]{opacity:.35;cursor:not-allowed}
+:root[data-theme="dark"] .save,:root:not([data-theme="light"]) .save{color:#0D1211}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .save{color:#FAFBFA}}
+
+.bulk{background:transparent;border:1px solid var(--rule);color:var(--ink-2);border-radius:3px;
+  padding:8px 13px;font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase}
+.bulk:hover{border-color:var(--talk);color:var(--talk)}
+
+.msg{font-family:var(--mono);font-size:12px;padding:10px 14px;border-radius:3px;margin:10px 0 0;
+  background:var(--surface-2);color:var(--ink-2);border-left:2px solid var(--accent)}
+.msg.warn{border-left-color:var(--talk);color:var(--talk)}
+.msg[hidden]{display:none}
+
+.items{display:flex;flex-direction:column;gap:14px;margin-top:22px}
+
+.item{background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--rule);
+  border-radius:3px;padding:20px 22px 18px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow)}
+.item[data-choice="approve"]{border-left-color:var(--ok)}
+.item[data-choice="reject"]{border-left-color:var(--no)}
+.item[data-choice="discuss"]{border-left-color:var(--talk)}
+
+.item-head{display:flex;gap:12px;align-items:baseline}
+.num{font-family:var(--mono);font-size:12px;color:var(--ink-3);flex:none;padding-top:4px;font-variant-numeric:tabular-nums}
+.item h2{font-family:var(--serif);font-size:1.24rem;font-weight:600;line-height:1.28;margin:0;text-wrap:balance}
+
+.outcomes{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.outcome{background:var(--surface-2);border-radius:3px;padding:11px 13px;font-size:13.4px;line-height:1.5;color:var(--ink-2)}
+.outcome b{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:0;
+  text-transform:uppercase;margin-bottom:4px}
+.outcome.y b{color:var(--ok)}
+.outcome.n b{color:var(--no)}
+.outcome code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere;color:var(--ink)}
+
+.ev{font-size:13px;color:var(--ink-3);line-height:1.55;margin:0;padding-left:12px;border-left:2px solid var(--rule-soft)}
+.ev code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.ev em{color:var(--ink-2);font-style:italic}
+
+.choices{display:flex;gap:8px;flex-wrap:wrap}
+.ch{flex:1 1 auto;min-width:104px;background:transparent;border:1px solid var(--rule);color:var(--ink-2);
+  border-radius:3px;padding:10px 14px;font-family:var(--mono);font-size:12px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:background .12s,border-color .12s,color .12s}
+.ch:hover{border-color:var(--ink-3);color:var(--ink)}
+.ch[aria-pressed="true"][data-choice="approve"]{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)}
+.ch[aria-pressed="true"][data-choice="reject"]{background:var(--no-bg);border-color:var(--no);color:var(--no)}
+.ch[aria-pressed="true"][data-choice="discuss"]{background:var(--talk-bg);border-color:var(--talk);color:var(--talk)}
+
+.note{width:100%;background:var(--ground);border:1px solid var(--rule);border-radius:3px;color:var(--ink);
+  font-family:var(--sans);font-size:13.5px;padding:9px 12px}
+.note::placeholder{color:var(--ink-3)}
+.note:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.note[hidden]{display:none}
+
+.foot{margin-top:56px;padding-top:26px;border-top:2px solid var(--ink);font-size:13.4px;color:var(--ink-2);line-height:1.6}
+.foot code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.foot .applied{margin:0 0 14px}
+
+.search{width:min(260px,100%);height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;
+  background:var(--surface);color:var(--ink);font-family:var(--sans);font-size:13px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.filters{display:flex;gap:5px;flex-wrap:wrap}
+.filter{height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;background:transparent;
+  color:var(--ink-2);font-family:var(--mono);font-size:11px;text-transform:uppercase}
+.filter[aria-pressed="true"]{background:var(--surface-2);border-color:var(--ink-3);color:var(--ink)}
+
+@media (max-width:600px){
+  .wrap{padding:0 16px 80px}.item-head{flex-direction:column;gap:4px}
+  h1{font-size:2.2rem}.lede{font-size:1rem}.search{width:100%}.filters{width:100%}
+  .filter{flex:1 1 30%;min-width:0}.save,.bulk{flex:1 1 auto}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body><div id="app"></div><script type="application/json" id="state">{"decisions": {}, "notes": {}, "savedAt": null}</script><script type="text/plain" id="src">
+var TITLE = "Chapter 2 — Stage 0 Rulings";
+var EYEBROW = "Phandalin / 2025-05-14 / staged consistency";
+var LEDE = "Fifteen decisions remain after safe name corrections. This is a prep-less historical backfill, so the later chapter document is corroboration rather than session-local authority.";
+var FOOTER = "Applied without asking: 3 mechanical correction groups in gm-assist.md — Brewbarry, Toblen Stonehill, and Dazlyn Grayshard. No contemporaneous prep existed; chapter_02 spans this session and the following two sessions.";
+var ITEMS = [{"id": "s0-02", "t": "Correct the recap's conflation of Soma and Valphine Sotorra.", "y": "Rewrite \u003ccode>gm-assist.md:10\u003c/code>, \u003ccode>:64\u003c/code>, and \u003ccode>:67\u003c/code> so Soma is the Tortle druid guide and Valphine Sotorra is the Drow cleric of Lathander.", "n": "Leave Balfine Satora identified as the Tortle and leave the Drow unnamed, preserving a party-identity error in \u003ccode>gm-assist.md\u003c/code>.", "ev": "For correction: \u003ccode>docs/chapters/chapter_02_arrival_in_phandalin.md:51\u003c/code> names Valphine and \u003ccode>:77\u003c/code> names Soma as the Tortle guide. Caution: the contemporaneous ASR renders “Balfine Satora” at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:1187\u003c/code> and “Balfine” again at \u003ccode>:1431\u003c/code>, so that form may be either an early working name or repeated ASR drift."}, {"id": "s0-03", "t": "Make the party's joining sequence explicit.", "y": "Revise \u003ccode>gm-assist.md:10\u003c/code> to say Valphine traveled out of Neverwinter with Vukradin and Brewbarry, and they met Soma outside the city when she offered to guide them to Phandalin.", "n": "Keep the generic joining language; the recap will identify the four PCs after finding s0-02 but will not assert a precise joining sequence.", "ev": "The post-hoc chapter places Valphine on the road at \u003ccode>docs/chapters/chapter_02_arrival_in_phandalin.md:51\u003c/code> and the meeting with Soma at \u003ccode>:77\u003c/code>. That chapter spans three sessions, so this chronology is strong corroboration but not contemporaneous prep."}, {"id": "s0-06a", "t": "Remove Bramgrim from the piano-bar exchange.", "y": "Split the block at \u003ccode>gm-assist.md:46\u003c/code> into Vukradin's “I drink at the bar. I play piano.” and Gary's “I drink tea.” as table banter, removing the nonexistent Bramgrim attribution.", "n": "Leave the combined quote attributed to Bramgrim, a character who was not in this party.", "ev": "Dave says the piano-bar lines at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:1835\u003c/code>; Gary says “I drink tea” at \u003ccode>:1847\u003c/code>. Gary voiced both Valphine and Brewbarry, so the VTT cannot safely assign that joke to one of his PCs."}, {"id": "s0-06b", "t": "Remove Bramgrim from the 'We did it' exchange.", "y": "Split \u003ccode>gm-assist.md:51\u003c/code> into Soma saying “We did it … Let's go get our money,” with Vukradin interjecting “Let's go.”", "n": "Leave the spliced multi-speaker quote attributed to Bramgrim.", "ev": "Wade/Soma says “We did it” and “Let's go get our money” at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:6107\u003c/code> and \u003ccode>:6115\u003c/code>; Dave/Vukradin supplies “Let's go” at \u003ccode>:6111\u003c/code>."}, {"id": "s0-07", "t": "Split the sending-stone quote between the GM's dwarf and Vukradin.", "y": "Replace the combined Bramgrim quote at \u003ccode>gm-assist.md:37\u003c/code> with the dwarf/GM saying magical items are valuable and Vukradin replying, “I'm not sure about that.”", "n": "Keep two speakers' dialogue fused into one quote and attributed to Bramgrim.", "ev": "The GM speaks the first sentence at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:6887\u003c/code>; Dave/Vukradin replies at \u003ccode>:6891\u003c/code>."}, {"id": "s0-08", "t": "Record Vukradin's final impression that Toblen adored his music.", "y": "Revise \u003ccode>gm-assist.md:16\u003c/code> and the memorable moment at \u003ccode>:42\u003c/code>–\u003ccode>:44\u003c/code> to say Vukradin believed Toblen adored the performance, whether or not that belief was accurate.", "n": "Keep saying Vukradin remained unsure, contradicting the GM's final restatement of the Insight result.", "ev": "After revising the low-Insight narration, the GM says, “You got the impression that he adored your music” at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:4271\u003c/code>."}, {"id": "s0-09", "t": "Clarify that 50 gp was the selected Dwarven Excavation reward, not a blanket rate.", "y": "Keep the accurate selected-quest sentence at \u003ccode>gm-assist.md:18\u003c/code>, but narrow \u003ccode>:99\u003c/code> and \u003ccode>:138\u003c/code> to the Dwarven Excavation reward instead of implying every posted task paid 50 gp.", "n": "Leave the scene and Harbin entry broad enough to imply one 50 gp rate across the quest board.", "ev": "The table reviews three separate quests at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:4803\u003c/code>–\u003ccode>:4863\u003c/code>, explicitly compares higher and lower pay at \u003ccode>:4891\u003c/code>–\u003ccode>:4899\u003c/code>, and selects the dwarf prospectors."}, {"id": "s0-10", "t": "Credit Dazlyn with the temple-history explanation.", "y": "Change \u003ccode>gm-assist.md:20\u003c/code> and Norbus's entry at \u003ccode>:144\u003c/code> so Dazlyn gives the Abbathor, earthquake, and avalanche explanation; retain the joint phrasing already used at \u003ccode>:114\u003c/code>.", "n": "Keep the historical explanation primarily attributed to Norbus.", "ev": "The GM identifies Dazlyn as confirming the Religion result at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:6287\u003c/code>, immediately before the earthquake-and-avalanche explanation at \u003ccode>:6291\u003c/code>."}, {"id": "s0-11", "t": "Correct who led the party into the temple.", "y": "Revise \u003ccode>gm-assist.md:22\u003c/code> and \u003ccode>:120\u003c/code> so Soma takes the front in the marching order and Vukradin later enters the secret passage first.", "n": "Keep Brewbarry credited with Soma's “toughest / nothing to lose / late in life” rationale.", "ev": "Wade/Soma claims the front and that rationale at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:5839\u003c/code>–\u003ccode>:5847\u003c/code> and confirms “It'll be me up front” at \u003ccode>:7099\u003c/code>; Dave/Vukradin volunteers for the passage at cue 1837."}, {"id": "s0-12", "t": "Distinguish the two secret-door discoveries.", "y": "Rewrite \u003ccode>gm-assist.md:22\u003c/code> and \u003ccode>:121\u003c/code> so Valphine's passive Perception reveals the foyer secret door immediately, followed later by a second secret door at the passage's end.", "n": "Keep the recap's compressed sequence, which obscures Valphine's discovery and merges two doors.", "ev": "The group establishes Valphine's passive Perception at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:7099\u003c/code>–\u003ccode>:7115\u003c/code>; the GM reveals the first secret door at \u003ccode>:7223\u003c/code>; the later door appears at \u003ccode>:7655\u003c/code>."}, {"id": "s0-13", "t": "Change the overhead dragon from an observed condition to a regional report.", "y": "Replace “a white dragon circling somewhere overhead” at \u003ccode>gm-assist.md:24\u003c/code> with “reports of a white dragon somewhere in the region.”", "n": "Leave the recap implying the party observed a dragon over the excavation.", "ev": "Toblen reports a dragon problem at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:4719\u003c/code>; Wade refers to stories of a white dragon at \u003ccode>:5743\u003c/code>. No excavation-site sighting occurs in the session record."}, {"id": "s0-14", "t": "Frame the ochre jelly as the prospectors' warning, not the party's observation.", "y": "Replace “an ochre jelly somewhere deeper in the shadows” at \u003ccode>gm-assist.md:24\u003c/code> with “the prospectors' warning of an ochre jelly somewhere inside.”", "n": "Keep the more definite atmospheric phrasing even though the party had not located the jelly.", "ev": "Norbus introduces what the prospectors discovered at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:7247\u003c/code>; the GM reports that they saw and fled an ochre jelly at \u003ccode>:7259\u003c/code>–\u003ccode>:7263\u003c/code>."}, {"id": "s0-15", "t": "Correct Dazlyn's role from helping clear the ruins to hiring the party.", "y": "Change \u003ccode>gm-assist.md:141\u003c/code> to say Dazlyn hired the party to deal with the dangerous creatures rather than agreeing to accompany them.", "n": "Leave the NPC entry implying Dazlyn personally joined the clearing effort.", "ev": "The prospectors present a business proposition and offer stones if the party deals with the creatures at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:6815\u003c/code>–\u003ccode>:6855\u003c/code>; they do not join the temple entry."}, {"id": "s0-16", "t": "Make the sending-stone offer jointly attributable to the prospectors.", "y": "Change Norbus's entry at \u003ccode>gm-assist.md:144\u003c/code> to say the two prospectors offered the sending stones together, matching the recap's safer collective wording.", "n": "Keep the offer assigned solely to Norbus despite unstable speaker assignment; later campaign state instead assigns it to Dazlyn.", "ev": "The transcript introduces Dazlyn and Norbus collectively at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:6815\u003c/code>, then uses an unidentified “he” for the offer. This makes collective attribution safer than choosing either dwarf."}, {"id": "s0-21", "t": "Record that Soma prepared Goodberry rather than merely considering it.", "y": "Revise \u003ccode>gm-assist.md:180\u003c/code> to say Soma prepared Goodberry for wilderness nourishment, considering Longstrider or Ice Knife as the spell to drop.", "n": "Keep the conservative wording that the spell was only considered.", "ev": "An uncertain speaker says “I could prepare Goodberries” and “I'll take off … Longstrider” at \u003ccode>session_2025_05_14_chapter_2_transcript.speakers.vtt:5255\u003c/code>–\u003ccode>:5263\u003c/code>; Wade/Soma then says Ice Knife will never be used at \u003ccode>:5267\u003c/code>."}];
+var REVIEW_ID = "staged-consistency:20250514-chapter-02-new:stage-0";
+var OUTPUT_NAME = "staged_consistency_stage_0_decisions.json";
+
+var LABEL = {approve:"Approve", reject:"Reject", discuss:"Discuss"};
+
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+function readState(){
+  try { return JSON.parse(document.getElementById("state").textContent); }
+  catch(e){ return {decisions:{},notes:{},savedAt:null}; }
+}
+
+var state = readState();
+if(!state.decisions) state.decisions = {};
+if(!state.notes) state.notes = {};
+state.filter = 'all';
+state.search = '';
+try {
+  var stored = JSON.parse(localStorage.getItem('codex-review:' + REVIEW_ID) || '{}');
+  if(stored.decisions) state.decisions = stored.decisions;
+  if(stored.notes) state.notes = stored.notes;
+} catch(e) {}
+
+function persist(){
+  try { localStorage.setItem('codex-review:' + REVIEW_ID, JSON.stringify({decisions:state.decisions,notes:state.notes})); }
+  catch(e) {}
+}
+
+function counts(){
+  var c = {approve:0,reject:0,discuss:0};
+  ITEMS.forEach(function(it){ var d = state.decisions[it.id]; if(d) c[d]++; });
+  return c;
+}
+
+function render(){
+  var c = counts(), done = c.approve + c.reject + c.discuss;
+  var query = state.search.toLowerCase();
+  var visible = ITEMS.filter(function(it){
+    var choice = state.decisions[it.id] || '';
+    var filterMatch = state.filter === 'all' || (state.filter === 'unmarked' ? !choice : choice === state.filter);
+    var searchMatch = !query || [it.id,it.t,it.y,it.n,it.ev || ''].join(' ').toLowerCase().indexOf(query) !== -1;
+    return filterMatch && searchMatch;
+  });
+  var h = '';
+
+  h += '<div class="wrap">';
+  h += '<div class="top">';
+  h += '<div class="eyebrow">' + esc(EYEBROW) + '</div>';
+  h += '<h1>' + esc(TITLE) + '</h1>';
+  h += '<p class="lede">' + esc(LEDE) + '</p>';
+  h += '</div>';
+
+  h += '<div class="bar">';
+  h += '<span class="prog"><b>' + done + '</b> of ' + ITEMS.length + ' decided</span>';
+  h += '<span class="chips">';
+  if(c.approve) h += '<span class="chip a">' + c.approve + ' approve</span>';
+  if(c.reject)  h += '<span class="chip r">' + c.reject + ' reject</span>';
+  if(c.discuss) h += '<span class="chip d">' + c.discuss + ' discuss</span>';
+  h += '</span>';
+  h += '<span class="spacer"></span>';
+  h += '<input class="search" id="search" type="search" placeholder="Search findings" value="' + esc(state.search) + '">';
+  h += '<span class="filters">';
+  [['all','All'],['unmarked','Unmarked'],['approve','Approved'],['reject','Rejected'],['discuss','Discuss']].forEach(function(pair){
+    h += '<button class="filter" data-filter="' + pair[0] + '" aria-pressed="' + (state.filter === pair[0]) + '">' + pair[1] + '</button>';
+  });
+  h += '</span>';
+  h += '<button class="bulk" id="allDiscuss">Discuss all ' + ITEMS.length + '</button>';
+  h += '<button class="bulk" id="copy">Copy output</button>';
+  h += '<button class="save" id="save">Save output</button>';
+  h += '</div>';
+
+  h += '<div class="msg" id="msg" hidden></div>';
+
+  h += '<div class="items">';
+  visible.forEach(function(it){
+    var i = ITEMS.indexOf(it);
+    var d = state.decisions[it.id] || '';
+    h += '<div class="item"' + (d ? ' data-choice="' + d + '"' : '') + '>';
+    h += '<div class="item-head"><span class="num">' + (i+1 < 10 ? '0' : '') + (i+1) + '</span>';
+    h += '<h2>' + it.t + '</h2></div>';
+    h += '<div class="outcomes">';
+    h += '<div class="outcome y"><b>If approved</b>' + it.y + '</div>';
+    h += '<div class="outcome n"><b>If rejected</b>' + it.n + '</div>';
+    h += '</div>';
+    if(it.ev) h += '<p class="ev">' + it.ev + '</p>';
+    h += '<div class="choices">';
+    ['approve','reject','discuss'].forEach(function(k){
+      h += '<button class="ch" data-item="' + it.id + '" data-choice="' + k + '" aria-pressed="' +
+           (d === k ? 'true' : 'false') + '">' + LABEL[k] + '</button>';
+    });
+    h += '</div>';
+    h += '<input class="note" data-note="' + it.id + '" placeholder="Add a note for this one (optional)" value="' +
+         esc(state.notes[it.id] || '') + '"' + (d === 'discuss' || state.notes[it.id] ? '' : ' hidden') + '>';
+    h += '</div>';
+  });
+  if(!visible.length) h += '<div class="msg">No findings match this view.</div>';
+  h += '</div>';
+
+  h += '<div class="foot">';
+  if(FOOTER) h += '<p class="applied">' + esc(FOOTER) + '</p>';
+  h += 'Use Copy output to paste the rulings into chat, or Save output to download <code>' + esc(OUTPUT_NAME) + '</code>. ' +
+       'Unmarked findings remain unresolved; they are never treated as rejected.';
+  h += '</div>';
+  h += '</div>';
+
+  document.getElementById('app').innerHTML = h;
+  wire();
+}
+
+function flash(text, warn){
+  var m = document.getElementById('msg');
+  if(!m) return;
+  m.textContent = text;
+  m.className = warn ? 'msg warn' : 'msg';
+  m.hidden = false;
+}
+
+function wire(){
+  Array.prototype.forEach.call(document.querySelectorAll('.ch'), function(b){
+    b.addEventListener('click', function(){
+      var id = b.getAttribute('data-item'), k = b.getAttribute('data-choice');
+      state.decisions[id] = (state.decisions[id] === k) ? undefined : k;
+      if(!state.decisions[id]) delete state.decisions[id];
+      persist();
+      render();
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('.note'), function(n){
+    n.addEventListener('input', function(){
+      var id = n.getAttribute('data-note');
+      if(n.value) state.notes[id] = n.value; else delete state.notes[id];
+      persist();
+    });
+  });
+
+  var all = document.getElementById('allDiscuss');
+  if(all) all.addEventListener('click', function(){
+    ITEMS.forEach(function(it){ state.decisions[it.id] = 'discuss'; });
+    persist();
+    render();
+  });
+
+  var search = document.getElementById('search');
+  if(search) search.addEventListener('input', function(){
+    state.search = search.value;
+    render();
+    var next = document.getElementById('search');
+    if(next){ next.focus(); next.setSelectionRange(next.value.length, next.value.length); }
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('[data-filter]'), function(b){
+    b.addEventListener('click', function(){ state.filter = b.getAttribute('data-filter'); render(); });
+  });
+
+  var copy = document.getElementById('copy');
+  if(copy) copy.addEventListener('click', copyOutput);
+  var save = document.getElementById('save');
+  if(save) save.addEventListener('click', doSave);
+}
+
+function output(){
+  var c = counts();
+  var decisions = {}, notes = {}, unmarked = [];
+  ITEMS.forEach(function(it){
+    var choice = state.decisions[it.id];
+    if(choice) decisions[it.id] = choice; else unmarked.push(it.id);
+    if(state.notes[it.id]) notes[it.id] = state.notes[it.id];
+  });
+  return {
+    schemaVersion: 1,
+    reviewId: REVIEW_ID,
+    savedAt: new Date().toISOString().replace('T',' ').slice(0,16) + ' UTC',
+    decided: c.approve + c.reject + c.discuss,
+    tally: c,
+    decisions: decisions,
+    notes: notes,
+    discuss: ITEMS.filter(function(it){ return decisions[it.id] === 'discuss'; }).map(function(it){ return it.id; }),
+    unmarked: unmarked
+  };
+}
+
+function outputText(){ return JSON.stringify(output(), null, 2); }
+
+function copyOutput(){
+  var value = outputText();
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(value).then(function(){ flash('Decision output copied.'); }).catch(function(){ fallbackCopy(value); });
+  } else fallbackCopy(value);
+}
+
+function fallbackCopy(value){
+  var area = document.createElement('textarea');
+  area.value = value; area.style.position = 'fixed'; area.style.opacity = '0';
+  document.body.appendChild(area); area.select();
+  try {
+    if(document.execCommand('copy')) flash('Decision output copied.');
+    else window.prompt('Copy the decision output:', value);
+  } catch(e) { window.prompt('Copy the decision output:', value); }
+  area.remove();
+}
+
+function doSave(){
+  var blob = new Blob([outputText()], {type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var link = document.createElement('a');
+  link.href = url; link.download = OUTPUT_NAME;
+  document.body.appendChild(link); link.click(); link.remove();
+  URL.revokeObjectURL(url);
+  flash('Saved ' + OUTPUT_NAME + '.');
+}
+
+render();
+</script><script>new Function(document.getElementById("src").textContent)();</script></body></html>

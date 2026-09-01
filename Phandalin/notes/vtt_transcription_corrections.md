@@ -10,12 +10,13 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 
 | Wrong | Right |
 |---|---|
-| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin, Vukardin, Brukerdin, Brewerdin, Rucrative, Bucraut, Caradine | **Vukradin** |
+| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin, Vukardin, Brukerdin, Brewerdin, Rucrative, Bucraut, Caradine, Varoujan | **Vukradin** |
 | Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk, Salma, Sovo, Sova, Masuma, Soba | **Soma** |
-| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet, Felfie, Valfinu | **Valphine** |
-| Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg, Bray, Brubaria, Bourbury, Brube, Roomberg | **Brewbarry** |
+| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet, Felfie, Valfinu, Valfyn, Felkur | **Valphine** |
+| Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg, Bray, Brubaria, Bourbury, Brube, Roomberg, Brewbeary, Rubir | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 | An Asimer, Asimar, Asimer | **Aasimar** |
+| Satora | **Sotorra** |
 
 ## NPCs and creatures
 
@@ -121,6 +122,11 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Yalekai, Yeliki, Meliky | **Mielikki** |
 | Lynn, Lemb, Lem, tear limb | **Lim** |
 | Bella, Pero | **Bellows** |
+| Vartus | **Vardis** |
+| Harvin | **Harbin** |
+| Greyshard | **Grayshard** |
+| Talk Gnomes | **Rock Gnomes** |
+| Iron Rune | **Ironrune** |
 
 ## Items / artifacts
 | Pushions | **Potions** |
@@ -160,6 +166,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Syrian Pain | **Searing Pain** |
 | Greg Cloak | **Greycloak** |
 | Flanders Death, Lathanders Dev | **Lathander's Death** |
+| Uthgart, Uthgaritian | **Uthgardt** |
 
 ## Locations
 | Fandelin, Handelin, Phandalone, Fendel, Fandalin, Fanderlin, Pendleton, Finland, Vandalin, Pandolin, Mandolin, Feneden, Fenden, Fendalin, Pantilen, Bandolin, Candelin, Endelin, Phanalyn, Fambalyn, Fandel, Fenderland, Fandelwood, Fandelman | **Phandalin** |
@@ -173,7 +180,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Lenzo Baranzin, Metzler-Bronzon, Menzo Baronzen, Menzo Baranzin, Mensa-Barranza, Menzo-Brunsen, Menzo Baron | **Menzoberranzan** |
 | Neverwinting, Denver Winter | **Neverwinter** |
 | Mance, Mintz | **Manse** |
-| Icepire | **Icespire** |
+| Icepire, Ice Spire | **Icespire** |
 | Falcons Hunting Lodge | **Falcon's Hunting Lodge** |
 | Bourd bear, Bourd laid bare, bold laid bare | **Board Laid Bare** |
 | Gatehardt | **Gatehouse** |
@@ -450,7 +457,7 @@ Laid Bare** in `## Locations`; and `Pimbo` onto the **Bimbo** row above.
 
 | Wrong | Right |
 |---|---|
-| Trow | **Drow** |
+| Trow, Drowl | **Drow** |
 
 - `Trow` -> **Drow** is Soma echoing the GM's *"Lord Neverember has taken a drow advisor"*
   (cleaned VTT 4593); the second transcription reads *"Drow."* at the same cue (txt 1452).
@@ -509,6 +516,88 @@ for f in files:
     n = len(rx.findall(io.open(f, encoding="utf-8", errors="replace").read()))
     if n: print(f, n)
 ```
+
+## Ch. 2 (2025-05-14) additions — safe non-word and phrase garbles
+
+Confirmed by `/session-summary-consistency` on the ch02 scene extractions and approved
+by the GM in the Chapter 2 Quote Rulings artifact (saved 2026-09-01 04:05 UTC). Every
+row was corroborated against **the Zoom text export**
+(`GMT20250514-024038_Recording.txt`), a genuinely independent decode of the same audio —
+it reads *drow cleric*, *tariffs*, *fat shaming*, *blocked off* and *lead the charge*
+where Zoom's own VTT pipeline read garbles.
+
+One row from this pass went to its proper home rather than here, per the
+one-canonical-one-row rule: `Varoujan` onto the **Vukradin** row in `## PCs`.
+
+| Wrong | Right |
+|---|---|
+| drone cleric | **drow cleric** |
+| Norbus in Ironrune, Norbus in Iron Rune | **Norbus Ironrune** |
+| Could Guy just continue | **Could I just continue** |
+| water riffer | **water, river** |
+| pet speed penalty | **speed penalty** |
+| boarded uptown hall | **boarded-up town hall** |
+| as his convention | **as is convention** |
+| fat shaving | **fat shaming** |
+| blacked off | **blocked off** |
+| delete the chart | **lead the charge** |
+| interested in paint | **interested in pain** |
+| too materialistic to robbing | **too materialistic, just robbing** |
+| flyer set again | **flyer say again** |
+
+**Every one of these was corpus-swept before it was written**, per the standing rule at
+the top of this file. All twelve wrong-forms occur in **this session's transcripts and
+nowhere else** across the other seven sessions on disk. The sweep also settled three
+bare forms that must never become rows:
+
+- **`Guy`** — 713 corpus hits. `Could Guy just continue` is the only expressible form;
+  the bare name would be the `Lara → Lyra` failure at ten times the scale.
+- **`drawers`** — 6 hits, three of them in ch18. The real repair on this tape is
+  `his drawers → his druthers` (Wade, l.3929), and it **cannot be expressed here**: the
+  only disambiguating context is `bard has, you know, his drawers`, and the commas split
+  the Wrong column — the same wall `Naturalist` and `Eric, on the napkin` hit. It stays a
+  targeted edit on the ch02 extraction.
+- **`flute`** — 33 hits across four sessions, and Vukradin actually plays one
+  (*"I'm going to have to fall back to like flute and clarinet in camp"*, scene 01). The
+  ch02 repair `it's a flute → it's a fluke` (GM, l.7189) is real but stays a targeted edit.
+
+**`flyer set again` -> `flyer say again` deliberately restores only the garbled word.**
+GM ruling 2026-09-01: the ch02 quote reads *"What does the flyer say again?"* — the GM's
+own trim of *"So what does this flyer set again?"* (cleaned VTT 2357; the Zoom text export
+reads the same garble at 00:42:51). The row is written short on purpose, so a regenerated
+cleaned VTT restores *say* and keeps the *So* and *this* the speaker actually said. The
+glossary repairs the transcriber; the extraction carries the GM's wording. Do not lengthen
+this row to match the extraction.
+
+**Rejected this round: `Terrifying` -> `Tariffs`.** The repair is real and GM-approved *in
+the ch02 quote* (l.3889, Dave's line answering Wade's *"Damn COVID"*; the Zoom text export
+reads *Tariffs* at 01:06:36), but it **cannot be expressed here**. `Terrifying` is an
+ordinary English word with **9 corpus hits across three sessions** — 20250902-chapter-11
+and 20260818 as well as this one — and the lengthening trick has nothing to work with: the
+cue is the bare word *"Terrifying."* with no context on either side but the speaker label.
+Same wall `Naturalist` hit. It stays a targeted edit on the ch02 extraction; regenerating
+from raw will revert it.
+
+Seven of the thirteen rows are **phrases of ordinary English words** — `fat shaving`,
+`blacked off`, `delete the chart`, `interested in paint`, `as his convention`,
+`too materialistic to robbing`, `flyer set again`. They are listed anyway on the same reasoning as
+`casting so much energy` and `rare rats`: each phrase as a unit is vanishingly unlikely
+to occur legitimately, and each swept clean. **Do not shorten any of them.**
+`interested in paint` is the one to watch — *paint* is common, and only the preposition
+makes the form safe.
+
+Two notes on the Right column: `water, river` and `too materialistic, just robbing` both
+carry commas **in the canonical**, which the parser takes whole. A comma on the Wrong
+side would split the row.
+
+**The Norbus row carries two wrong-forms on purpose — it is a chained-rule fix.** The raw
+tape reads `Norbus in Iron Rune` (l.6163), and the pre-existing `Iron Rune` -> **Ironrune**
+row in `## NPCs and creatures` may fire first, leaving `Norbus in Ironrune`. Whichever
+order the applier picks, one of the two forms matches. Written with the single form only,
+the row **silently did not fire at all** on the regeneration run — caught by regenerating
+the cleaned VTT from raw and diffing in Python, exactly as the standing rule above says to,
+and invisible to `lint_glossary.py`, which passed the one-form version with 0 errors.
+Third confirmation that a clean lint is not evidence a row works.
 
 ## DO NOT CORRECT — canon coinages and in-character malapropisms
 

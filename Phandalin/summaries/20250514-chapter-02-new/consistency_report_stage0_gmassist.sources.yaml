@@ -1,0 +1,86 @@
+consistency_check:
+  timestamp: "2026-08-30T19:42:55-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/gm-assist.md"
+  document_class: "backfill first-pass recap"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage0_gmassist.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 21
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc chapter cross-check spanning this session and the following two sessions" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.vtt, role: "speaker-labelled transcript and primary session evidence" }
+  notes: |
+    No contemporaneous session prep exists because this material predates the
+    notes workflow. The chapter reference includes events from this session and
+    the following two sessions, so it is not authoritative for session-local
+    chronology, attribution, or party knowledge. Later-state grounding docs are
+    used for stable names and aliases only; historical claims are adjudicated
+    against the speaker-labelled VTT. Gary voiced both Valphine and Brewbarry,
+    so his player label alone cannot settle which PC spoke.
+
+    The campaign config resolved document paths relative to config/ and failed.
+    The audit was rerun with the temporary absolute-path config recorded above,
+    auto-loading campaign_state and world_state. The script warned that no
+    entity_registry.yaml was adjacent to the temporary config; the registry was
+    nevertheless supplied explicitly in the six-file context set. The initial
+    sandboxed codex-cli attempt could not initialize writable app state; the
+    successful run used the same backend and context outside that sandbox.
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-30"
+    applied:
+      - { finding: 1, fix: "Normalized Brewberry to Brewbarry throughout gm-assist.md." }
+      - { finding: 2, fix: "Identified Soma as the Tortle druid guide and Valphine Sotorra as the Drow cleric." }
+      - { finding: 3, fix: "Recorded Valphine leaving Neverwinter with Vukradin and Brewbarry, then meeting Soma outside the city." }
+      - { finding: 4, fix: "Normalized Toblin Stonehill to Toblen Stonehill throughout gm-assist.md." }
+      - { finding: 5, fix: "Normalized Dazlin Greyshard to Dazlyn Grayshard throughout gm-assist.md." }
+      - { finding: 6, fix: "Removed Bramgrim and split the piano-bar and we-did-it blocks by their transcript speakers." }
+      - { finding: 7, fix: "Split the sending-stone value exchange between one of the prospectors and Vukradin." }
+      - { finding: 8, fix: "Recorded that Vukradin believed Toblen adored his performance after the final Insight ruling." }
+      - { finding: 9, fix: "Narrowed the 50 gp references to the selected Dwarven Excavation quest." }
+      - { finding: 10, fix: "Credited Dazlyn with explaining the temple's history while retaining joint discussion elsewhere." }
+      - { finding: 11, fix: "Recorded Soma at the front of the marching order and Vukradin entering the passage first." }
+      - { finding: 12, fix: "Distinguished Valphine's foyer secret-door discovery from the second door farther down the passage." }
+      - { finding: 13, fix: "Changed the overhead dragon to reports of a white dragon in the region." }
+      - { finding: 14, fix: "Changed the ochre jelly from an apparent observation to the prospectors' warning." }
+      - { finding: 15, fix: "Changed Dazlyn's role from helping clear the ruins to hiring the party to do so." }
+      - { finding: 16, fix: "Attributed the sending-stone offer jointly to Dazlyn and Norbus." }
+      - { finding: 21, fix: "Recorded Soma preparing Goodberry and discussing which prepared spell to drop." }
+    partially_applied: []
+    rejected:
+      - finding: 17
+        ruling: "No change; Trivial framing finding."
+        rationale: "The recap already says Neverember is hiring adventurers as contractors, matching the transcript's contractor-with-fewer-benefits explanation."
+      - finding: 18
+        ruling: "No change; transcript-supported session description."
+        rationale: "The GM explicitly called the Townmaster's Hall currently boarded up at transcript line 4759; later use of the building does not invalidate that historical description."
+      - finding: 19
+        ruling: "No change; omission is not a contradiction."
+        rationale: "The recap describes the exposed courtyard, façade, and excavation elsewhere while accurately stating that the settlement had been buried by an avalanche."
+      - finding: 20
+        ruling: "No change; preserve defensible table vocabulary."
+        rationale: "The table itself used walkie-talkies as shorthand at transcript line 6867, and the recap identifies the stones as magical rather than technological devices."
+  vtt_adjudicated: |
+    All attribution and event-order findings were settled against
+    summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.vtt.
+    The review preserved the warning that Gary voiced both Valphine and Brewbarry:
+    his tea interjection remains player-level table banter instead of being guessed
+    onto one PC. Wade/Soma and Dave/Vukradin were used to split the we-did-it quote;
+    the GM and Dave/Vukradin were used to split the sending-stone value quote.
+  carry_forward:
+    - status: DONE
+      item: "Goodberry eligibility verified before applying finding 21: official 2014 and 2024 D&D Beyond listings both include Druid, and the session transcript records the table checking the Druid list."
+    - status: NOTE
+      item: "This was a prep-less backfill; chapter_02 spans three sessions and remains corroboration rather than session-local authority."

@@ -1,0 +1,62 @@
+consistency_check:
+  timestamp: "2026-08-31T10:27:33-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/scene_extractions/04_arrival_at_the_stonehill_inn.md"
+  document_class: "backfill scene extraction"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage2_scene04.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 4
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc cross-check spanning this and two later sessions" }
+      - { path: summaries/20250514-chapter-02-new/gm-assist.md, role: "corrected Stage 0 first-pass recap" }
+      - { path: summaries/20250514-chapter-02-new/session-summary.md, role: "corrected Stage 1 immediate upstream artifact" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt, role: "spell-pass-cleaned speaker-labelled transcript and primary session evidence" }
+  notes: |
+    No contemporaneous prep exists for this backfill. The cleaned VTT is the
+    authority for session-local wording and attribution. Current party and
+    world-state material may preserve later retcons or elaborations and is not
+    allowed to overwrite an accurate record of the original table discussion.
+
+    The absolute-path config auto-loaded campaign_state and world_state. The
+    checker warned that no entity_registry.yaml was adjacent to the session
+    directory; docs/entity_registry.yaml was nevertheless passed explicitly in
+    the eight-file context set. The command reported ten context documents and
+    completed successfully with the codex-cli backend using the subscription
+    default model.
+
+    The checker reported four advisory findings. Two unambiguous corrections
+    were applied before batch review: the failed Insight check now describes
+    uncertainty about sincerity rather than detecting a lie, and the dragon
+    treasure homophone is corrected to “hoards” with an ASR editorial note.
+    The meal-versus-ale claim repeats a finding already rejected in Stage 1.
+    Whether “charges” improperly implies completed payment remains open.
+  carry_forward:
+    - status: DONE
+      item: "Scene 4 recheck ruling s2r-03 was approved and applied."
+    - status: NOTE
+      item: "Meal-versus-ale wording retains the Stage 1 rejection: the request and actual ale reward are already distinguished."
+  resolution:
+    reviewed_by: "GM batch recheck"
+    reviewed: "2026-08-31"
+    applied:
+      - { finding: 2, fix: "Recorded Toblen's ten-copper request without claiming payment occurred." }
+      - { finding: 3, fix: "Changed lie-detection wording to uncertainty about Toblen's sincerity." }
+      - { finding: 4, fix: "Corrected dragon treasure to hoards with an ASR homophone note." }
+    partially_applied: []
+    rejected:
+      - { finding: 1, ruling: "Preserve Stage 1 ruling", rationale: "The requested meal and actual glass of ale are already distinguished." }
+  vtt_adjudicated: |
+    The VTT establishes the quoted price but not a completed payment, and it
+    establishes Vukradin's belief rather than an actual lie.

@@ -119,3 +119,9 @@ Istus  — Greyhawk goddess of fate and destiny; referenced as avatar context in
 - **Menzo Barons** — GM-approved as a correction to **Menzoberranzan** in the ch50 pass, but worth recording that *both* transcriptions produced "Menzo Baron(s)" (the vocabulary-primed one declined to expand it), so the shorthand may be live table vocabulary. Re-check if it recurs. — 2026-08-26
 
 **Reclassified this round.** `Hammock District`, `Delectable Delights` and `Mark Gordon` were surfaced as possible new canon and **rejected by the GM** — they are in `.vtt_spell_pass_state.json` as ignored, not here. `Bimbo` and `Blue Light District` were ruled deliberate table coinages and live in the glossary's `## DO NOT CORRECT` section.
+
+## 2026-08-30 — from `summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.vtt`
+
+- **Dwarven Prospectors** — approved campaign term for Dazlyn Grayshard and Norbus Ironrune: "Dwarven Prospectors." (cues 1209, 1211; also cue 1329). The independent transcript agrees. — 2026-08-30
+- **Dwarven Dead** — approved campaign term in Norbus's objection to "excavating and digging into ... the Dwarven Dead" (cue 1549). The independent transcript confirms the phrase. — 2026-08-30
+- **Shield Dwarf Prospector** — approved campaign term from Norbus's introduction: "I'm a Shield Dwarf Prospector." (cue 1538). The registry independently identifies Norbus and Dazlyn as shield dwarf prospectors. — 2026-08-30

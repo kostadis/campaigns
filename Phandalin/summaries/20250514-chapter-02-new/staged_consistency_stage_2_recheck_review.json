@@ -1,0 +1,59 @@
+{
+  "title": "2025-05-14 Stage 2 Scene-Extraction Recheck",
+  "reviewId": "staged-consistency:20250514-chapter-02-new:stage-2-recheck",
+  "outputName": "staged_consistency_stage_2_recheck_decisions.json",
+  "eyebrow": "Phandalin / 2025-05-14 / staged consistency / scene recheck",
+  "lede": "Seven remaining judgment calls need a ruling after eight per-scene audits against the corrected upstream artifacts and cleaned VTT.",
+  "footer": "Applied without asking during this recheck: 18 issue-level mechanical or source-provenance corrections across scene files 02–08. A concurrent staged_consistency_stage_2_review queue and decisions file were preserved unchanged and were not treated as authorization for this recheck.",
+  "items": [
+    {
+      "id": "s2r-01",
+      "t": "[Minor] Treat ‘I drink tea’ as Gary’s table banter rather than confirmed Brewbarry canon.",
+      "y": "In <code>scene_extractions/01_character_introductions_and_backstories.md:424</code>, relabel the cue as ‘Gary Young — table banter; intended PC uncertain.’ Brewbarry will no longer be credited with a tea-drinking preference from this cue alone.",
+      "n": "Leave <code>scene_extractions/01_character_introductions_and_backstories.md:424</code> labeled Brewbarry, retaining the current in-character interpretation.",
+      "ev": "The cleaned VTT identifies only Gary Young at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1853</code>. Gary voiced both Brewbarry and Valphine during this session, and the surrounding exchange does not settle the intended PC."
+    },
+    {
+      "id": "s2r-02",
+      "t": "[Moderate] Clarify that Brewbarry communicates with musical notes, not written notes.",
+      "y": "Revise <code>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:18</code> and <code>:425</code> to say Brewbarry is jokingly described as communicating through musical notes. This removes the implication that he writes notes or cannot speak.",
+      "n": "Leave both ‘with notes’ summaries unchanged, preserving the ambiguous written-note reading.",
+      "ev": "The VTT follows UNKNOWN’s ‘With notes’ at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:3145</code> with Gary’s clarification ‘Love music with notes’ at <code>:3153</code>."
+    },
+    {
+      "id": "s2r-03",
+      "t": "[Minor] Record Toblen’s ten-copper price without claiming Soma paid it.",
+      "y": "At <code>scene_extractions/04_arrival_at_the_stonehill_inn.md:12</code> and <code>:509</code>, change ‘charges’ to ‘asks’ or ‘quotes a price of.’ The recap will preserve the price while leaving payment unconfirmed.",
+      "n": "Keep ‘charges,’ which can be read as saying the ten copper was actually paid.",
+      "ev": "Toblen states the price at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:4065</code>, but the transcript records no explicit coin transfer afterward."
+    },
+    {
+      "id": "s2r-04",
+      "t": "[Minor] Reconstruct two UNKNOWN Goodberry-preparation lines as Soma.",
+      "y": "At <code>scene_extractions/06_the_journey_to_the_excavation.md:110</code> and <code>:113</code>, attribute ‘I could prepare Goodberries’ and the Longstrider replacement to Soma with an editorial note that the VTT speaker is UNKNOWN but the surrounding druid-spell exchange settles the role. Leave ‘Oh, good’ as UNKNOWN.",
+      "n": "Keep both preparation lines as UNKNOWN, avoiding a contextual speaker reconstruction.",
+      "ev": "The UNKNOWN cues occur at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5261</code> and <code>:5269</code>, between Wade/Soma checking the druid list and saying Ice Knife would never be used at <code>:5273</code>. Both corrected upstream recaps describe Soma as considering the change."
+    },
+    {
+      "id": "s2r-05",
+      "t": "[Moderate] Reconstruct ‘Yes, of course’ as Norbus accepting Vukradin’s rightful-owner condition.",
+      "y": "At <code>scene_extractions/07_meeting_the_prospectors.md:469</code>, replace ‘David Mendenhall [?]’ with ‘Norbus Ironrune — role reconstructed; VTT says David Mendenhall [?].’ The dwarf, rather than Vukradin’s player, will be recorded as accepting the condition.",
+      "n": "Keep the raw uncertain David Mendenhall attribution and do not infer which prospector answered.",
+      "ev": "Vukradin asks the prospectors to return relics to their owners immediately before the uncertain cue at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:6997-7001</code>; the reply is followed by Vukradin saying the party will consider the job."
+    },
+    {
+      "id": "s2r-06",
+      "t": "[Moderate] Reconstruct ‘Well, yes’ as Valphine answering Norbus’s faith question.",
+      "y": "At <code>scene_extractions/07_meeting_the_prospectors.md:346</code>, replace ‘Kostadis Roussos [?]’ with ‘Valphine Sotorra — role reconstructed; VTT says Kostadis Roussos [?].’ The answer will be attached to the drow cleric being questioned.",
+      "n": "Keep the raw uncertain Kostadis attribution and avoid reconstructing Valphine’s reply.",
+      "ev": "The GM asks ‘Are you really a cleric of Lathander?’ at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:6381</code>; the uncertain ‘Well, yes’ follows immediately at <code>:6385</code>."
+    },
+    {
+      "id": "s2r-07",
+      "t": "[Minor] Replace the uncertain GM label on ‘I’ve already made the day’s journey’ with UNKNOWN.",
+      "y": "At <code>scene_extractions/07_meeting_the_prospectors.md:520</code>, change the label to ‘UNKNOWN — party-side comment; speaker unresolved.’ The line will no longer look like a confident GM statement.",
+      "n": "Keep ‘Kostadis Roussos [?],’ preserving the diarizer’s best guess and its uncertainty marker.",
+      "ev": "The cleaned VTT labels the cue Kostadis Roussos [?] at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:7077</code>, but its first-person reasoning belongs to the party’s decision whether to continue."
+    }
+  ]
+}

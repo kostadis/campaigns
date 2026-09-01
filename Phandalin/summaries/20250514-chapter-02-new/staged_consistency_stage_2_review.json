@@ -1,0 +1,136 @@
+{
+  "title": "2025-05-14 Stage 2 Scene-Extraction Rulings",
+  "reviewId": "staged-consistency:20250514-chapter-02-new:stage-2",
+  "outputName": "staged_consistency_stage_2_decisions.json",
+  "eyebrow": "Phandalin / 2025-05-14 / staged consistency",
+  "lede": "Eighteen judgment calls need a ruling. Seventeen unambiguous corrections are already applied; nine Trivial or previously resolved advisories were logged but not queued.",
+  "footer": "Applied without asking: 17 unambiguous corrections across seven scene files (01, 02, 03, 04, 06, 07, and 08). Left unchanged and unqueued: nine Trivial or previously resolved advisories.",
+  "items": [
+    {
+      "id": "s2-01",
+      "t": "[Moderate] Gary’s Brewbarry discussion should not be attributed to Valphine.",
+      "y": "In <code>scene_extractions/01_character_introductions_and_backstories.md</code>, relabel out-of-character Brewbarry concept-building as Gary Young and clear first-person character lines as Brewbarry. Valphine will no longer appear to narrate Brewbarry’s exile, loneliness, tea, and musical preferences.",
+      "n": "Leave the Valphine labels beginning at <code>scene_extractions/01_character_introductions_and_backstories.md:313</code> unchanged and defer the attribution conflict.",
+      "ev": "The VTT warns that Gary voiced both PCs and that a player label must not be converted automatically at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:15</code>. The affected blocks begin at <code>scene_extractions/01_character_introductions_and_backstories.md:313</code>."
+    },
+    {
+      "id": "s2-02",
+      "t": "[Moderate] Wade should be identified as jokingly supplying Vukradin’s proposed song payment.",
+      "y": "Change the label at <code>scene_extractions/01_character_introductions_and_backstories.md:293</code> to Wade Brown with a note that he is supplying Vukradin’s offer; the audio speaker and the joke’s narrative target will both remain explicit.",
+      "n": "Keep the quotation labeled Soma, leaving the audio speaker and the later Vukradin framing in tension.",
+      "ev": "The VTT assigns the line to Wade at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1541</code>; Vukradin immediately answers, ‘Wait, I have to pay her?’"
+    },
+    {
+      "id": "s2-03",
+      "t": "[Moderate] The ‘my drow cleric’ exchange should retain player-level uncertainty.",
+      "y": "At <code>scene_extractions/01_character_introductions_and_backstories.md:385</code>, replace the inferred PC labels with Gary Young and Kostadis Roussos [?], adding notes that the intended characters are uncertain. No PC will be credited without evidence.",
+      "n": "Keep the first line attributed to Valphine and the reply to Kostadis, preserving the current third-person contradiction.",
+      "ev": "The VTT records Gary for the first line at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1781</code> and uncertain Kostadis for the reply at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1789</code>."
+    },
+    {
+      "id": "s2-04",
+      "t": "[Moderate] Gary’s opening flyer questions should not be attributed specifically to Valphine.",
+      "y": "Relabel the three opening flyer-question blocks beginning at <code>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:22</code> as Gary Young. This preserves the known player while avoiding an unsupported choice between Gary’s two PCs.",
+      "n": "Leave all three questions attributed to Valphine and accept the unsupported character inference.",
+      "ev": "The cleaned VTT’s attribution rule is explicit at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:15</code>: Gary voiced Valphine and Brewbarry, so the PC must not be inferred from his speaker label."
+    },
+    {
+      "id": "s2-05",
+      "t": "[Moderate] ‘Love music with notes’ should not be attributed to Valphine.",
+      "y": "Change the label at <code>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:391</code> to ‘Gary Young — possibly as Brewbarry.’ This will preserve both the known speaker and the contextual uncertainty.",
+      "n": "Keep the line labeled Valphine, making her appear to supply Brewbarry’s musical characterization.",
+      "ev": "The VTT identifies Gary at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:3153</code>; the surrounding exchange is about Brewbarry communicating through music."
+    },
+    {
+      "id": "s2-06",
+      "t": "[Moderate] The closing beat should acknowledge that the flyer and guard scenes occur before departure.",
+      "y": "Rename <code>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:421</code> from ‘On the Road South’ to ‘At Neverwinter’s Walls and On the Road South.’ The single beat will accurately cover both the city-wall discussion and subsequent travel.",
+      "n": "Keep ‘On the Road South,’ allowing the heading to imply that the pre-departure discussion happened after the party left.",
+      "ev": "The GM corrects the timeline at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:3101</code>: the party has not left Neverwinter yet."
+    },
+    {
+      "id": "s2-07",
+      "t": "[Moderate] The party—not Toblen—should be credited with saying it cannot afford rooms.",
+      "y": "Revise <code>scene_extractions/04_arrival_at_the_stonehill_inn.md:18</code> and <code>:512</code> to say that after the party says it cannot afford rooms, Toblen directs it to the quest board.",
+      "n": "Keep the current wording that Toblen notes or admits the party cannot afford lodging.",
+      "ev": "Toblen merely offers a room at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:4609</code>; Gary then says ‘I can’t afford to live here’ at <code>:4617</code>."
+    },
+    {
+      "id": "s2-08",
+      "t": "[Moderate] The actual Dwarven Excavation task should be distinguished from Soma’s ‘letter’ joke.",
+      "y": "At <code>scene_extractions/05_the_phandalin_quest_board.md:16</code> and <code>:267</code>, state that the formal task is to deliver a warning and identify ‘literally just delivering a letter’ as Soma’s joke; the verbatim quote at <code>:219</code> will remain untouched.",
+      "n": "Keep the narrative treating a physical letter as the quest object, even though none is established.",
+      "ev": "The quest text says ‘Take the warning to them’ at <code>docs/chapters/chapter_02_arrival_in_phandalin.md:157</code>; Soma’s joke appears in the VTT at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5373</code>."
+    },
+    {
+      "id": "s2-09",
+      "t": "[Moderate] Harbin’s Gnomengarde role should not be described as taking a cut.",
+      "y": "Replace ‘Townmaster’s cut’ at <code>scene_extractions/05_the_phandalin_quest_board.md:15</code> and <code>:266</code> with his participation in the acquisition scheme—offering 50 gp for a useful item the party does not keep.",
+      "n": "Keep wording that implies Harbin receives a share of proceeds from the Gnomengarde transaction.",
+      "ev": "The notice makes Harbin the buyer at <code>docs/chapters/chapter_02_arrival_in_phandalin.md:167</code>; Vukradin objects to his participation at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:4957</code>."
+    },
+    {
+      "id": "s2-10",
+      "t": "[Moderate] ‘Deal Struck’ should not imply that the party promised to clear the temple.",
+      "y": "Rename <code>scene_extractions/07_meeting_the_prospectors.md:598</code> to ‘Message Delivered, Investigation Accepted’ and revise <code>:603</code> to say the party agrees to enter and assess the temple before deciding whether to clear it.",
+      "n": "Keep ‘Deal Struck’ and ‘decides to go in,’ preserving the stronger commitment framing.",
+      "ev": "Vukradin says ‘we’ll consider for you’ at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:7005</code>; Soma proposes only a look around at <code>:7089</code>."
+    },
+    {
+      "id": "s2-11",
+      "t": "[Moderate] The second secret door’s discovery mechanism should remain uncertain.",
+      "y": "Revise <code>scene_extractions/08_exploring_the_ruined_temple.md:15</code> and <code>:416</code> to say that despite apparently failed active checks, the GM reveals the second door and the transcript does not preserve why it was found.",
+      "n": "Keep stating that an Investigation roll turns up the door, implying a successful check not preserved by the transcript.",
+      "ev": "The VTT records repeated ‘Nope’ results at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:7637-7641</code>, followed by garbled discovery narration at <code>:7649</code>."
+    },
+    {
+      "id": "s2-12",
+      "t": "[Minor] ‘Follow tales only’ should be marked as unresolved ASR.",
+      "y": "At <code>scene_extractions/01_character_introductions_and_backstories.md:430</code>, relabel the audio speaker as David Mendenhall and render the quote as unclear while preserving ‘Follow tales only’ in an editorial ASR note.",
+      "n": "Keep the meaningless phrase as reliable Vukradin dialogue with no uncertainty marker.",
+      "ev": "The cleaned VTT preserves the same unexplained words under David’s player label at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:1861</code>."
+    },
+    {
+      "id": "s2-13",
+      "t": "[Minor] Vukradin’s summary should not claim an exact quote spoken by UNKNOWN.",
+      "y": "At <code>scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md:11</code>, paraphrase that Vukradin continues to insist the flyer promised easy money; keep the exact ‘something about money’ quote under UNKNOWN in the verbatim section.",
+      "n": "Keep the exact UNKNOWN line attached to Vukradin in the summary.",
+      "ev": "The VTT marks ‘It definitely said something about money’ as UNKNOWN at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:2417</code>, while Vukradin makes adjacent easy-money claims."
+    },
+    {
+      "id": "s2-14",
+      "t": "[Minor] The arrival time and travel duration should remain tentative.",
+      "y": "Qualify <code>scene_extractions/03_arrival_in_phandalin.md:135</code> as the GM tentatively placing the arrival early in the morning after several days’ travel.",
+      "n": "Keep the time and duration as settled historical facts.",
+      "ev": "The GM says ‘I’m assuming’ and ‘kind of like’ at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:3809</code> and <code>:3813</code>."
+    },
+    {
+      "id": "s2-15",
+      "t": "[Minor] The travel summary should not claim that every PC’s 30-foot speed was confirmed.",
+      "y": "Revise <code>scene_extractions/06_the_journey_to_the_excavation.md:228</code> to say the GM ruled the fifteen-mile trip a day’s hike and Soma separately confirmed her own speed as 30 feet.",
+      "n": "Keep the unsupported claim that every party member has the same confirmed speed.",
+      "ev": "The day’s-hike ruling appears at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5109</code>; only Soma confirms 30 feet at <code>:5125</code>."
+    },
+    {
+      "id": "s2-16",
+      "t": "[Minor] ‘Can you crap and scavenge food’ should be marked as unresolved ASR.",
+      "y": "At <code>scene_extractions/06_the_journey_to_the_excavation.md:62</code>, label the speaker Gary Young and replace the uncertain verb with ‘[unclear],’ preserving ‘crap’ only in an editorial ASR note.",
+      "n": "Keep the current Valphine attribution and present ‘crap’ as reliable dialogue.",
+      "ev": "The VTT assigns the cue to Gary and preserves the questionable word at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5177</code>; the surrounding discussion is entirely about foraging."
+    },
+    {
+      "id": "s2-17",
+      "t": "[Minor] ‘Pet speed penalty’ should be marked as unresolved ASR.",
+      "y": "At <code>scene_extractions/06_the_journey_to_the_excavation.md:54</code>, render the phrase as ‘there isn’t a [unclear] speed penalty’ and preserve raw ‘pet’ in an editorial note.",
+      "n": "Keep ‘pet speed penalty’ as reliable GM dialogue even though the exchange concerns Soma’s own walking speed.",
+      "ev": "The raw cleaned cue is at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5153</code>; Soma has just confirmed her own Tortle speed."
+    },
+    {
+      "id": "s2-18",
+      "t": "[Minor] ‘At least we have a good look’ should be marked as unresolved ASR.",
+      "y": "At <code>scene_extractions/06_the_journey_to_the_excavation.md:89</code>, use Gary Young’s player label, mark the utterance unclear, and retain the raw ASR only in the editorial note.",
+      "n": "Keep the unexplained phrase as reliable Valphine dialogue.",
+      "ev": "The VTT assigns the cue to Gary at <code>session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt:5225</code>; no ‘look’ is under discussion."
+    }
+  ]
+}

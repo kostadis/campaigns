@@ -1,0 +1,86 @@
+consistency_check:
+  timestamp: "2026-08-30T22:52:20-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/session-summary.md"
+  document_class: "backfill enhanced recap"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage1_session_summary.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 8
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc chapter cross-check spanning this session and the following two sessions" }
+      - { path: summaries/20250514-chapter-02-new/gm-assist.md, role: "corrected Stage 0 source recap for the enhancement pass" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt, role: "spell-pass-cleaned speaker-labelled transcript and primary session evidence" }
+    adjudication:
+      - { path: "docs/background/Essentials Kit_ Dragon of Icespire Peak.md", role: "published-module quest accounting for discussed finding 1" }
+  notes: |
+    Stage 1 checks the enhanced session summary generated from the corrected
+    gm-assist.md. No contemporaneous session prep exists because this material
+    predates the notes workflow. Chapter 02 includes this session and the
+    following two sessions, so it is corroboration rather than authority for
+    session-local chronology, attribution, or party knowledge. The cleaned
+    speaker-labelled VTT is the primary source for those claims.
+
+    The absolute-path config auto-loaded campaign_state and world_state. The
+    checker warned that no entity_registry.yaml was adjacent to the session
+    directory; docs/entity_registry.yaml was nevertheless passed explicitly in
+    the seven-file context set. The command reported nine total documents and
+    completed successfully with the codex-cli backend using the subscription
+    default model.
+
+    The checker reported eight advisory findings. Manual propagation review
+    also found that the enhancement pass had reintroduced the previously
+    approved Goodberry certainty and an unqualified looping-passage shorthand.
+  resolution:
+    reviewed_by: "GM batch review and post-discussion approval"
+    reviewed: "2026-08-31"
+    applied:
+      - { finding: 2, fix: "Assigned the conditional 50 gp useful-item payment to Gnomengarde rather than Dwarven Excavation." }
+      - { finding: "stage0-propagation-goodberry", fix: "Restored considered-preparing wording at both enhanced-summary sites." }
+      - { finding: "stage0-propagation-passage", fix: "Restored appeared-to-loop wording in the location entry." }
+      - { finding: "mechanical-spacing", fix: "Inserted the missing space after Vukradin's name." }
+      - { finding: 4, fix: "Replaced the reversed drum-lesson attribution with neutral wording because the VTT cue merges several voices." }
+      - { finding: 6, fix: "Named the southbound High Road and eastbound Triboar Trail legs in both recap headings." }
+      - { finding: 8, fix: "Removed unsupported depth from the ochre-jelly warning in both recap NPC entries." }
+      - { finding: 1, fix: "Clarified that Dwarven Excavation and Gnomengarde both name 50 gp, but only the Dwarven warning payment is guaranteed; corrected the enhanced summary and Chapter 2 source." }
+      - { finding: "stage2-propagation-price", fix: "Changed two payment-implying tea-price references to an asked or quoted price." }
+      - { finding: "stage2-propagation-hoards", fix: "Corrected the dragon-treasure homophone to hoards at both enhanced-summary sites." }
+      - { finding: "stage2-propagation-insight", fix: "Changed lie-detection wording to uncertainty about Toblen's sincerity." }
+      - { finding: "stage2-propagation-warning", fix: "Changed simple delivery objective to simple warning objective." }
+    partially_applied: []
+    rejected:
+      - finding: 3
+        ruling: "No change; the summary already distinguishes the requested meal from the ale actually received."
+        rationale: "The summary prose, memorable-moment caption, and scene bullet all explicitly end with one glass of ale."
+      - finding: 5
+        ruling: "No change; preserve the Stage 0 attribution ruling."
+        rationale: "VTT cues 1550-1570 resolve a Religion check and have Valphine state the lore; the later projection exchange explains how she reasoned it out rather than reversing the check result."
+      - finding: 7
+        ruling: "No change; preserve the earlier GM ruling on the regional-war shorthand."
+        rationale: "The same sentence says Neverwinter was far enough away to avoid the worst of the Uthgardt conflict, and Stage 0 explicitly retained this wording."
+    pending: []
+  vtt_adjudicated: |
+    The cleaned VTT settled the Gnomengarde payment attribution, preserved the
+    uncertainty of the merged drum cue, confirmed the party entered Phandalin
+    from the Triboar direction, confirmed the Religion-check sequence, and
+    supplied no depth for the prospectors' ochre-jelly sighting. The Stage 2
+    propagation pass also preserved an unconfirmed tea payment, uncertainty
+    about Toblen's sincerity, and the intended dragon-treasure homophone.
+  carry_forward:
+    - status: DONE
+      item: "Stage 1 batch gate completed: three direct approvals and one post-discussion approval were applied."
+    - status: NOTE
+      item: "No contemporaneous prep exists; chapter_02 spans three sessions and remains corroboration rather than session-local authority."
+    - status: DONE
+      item: "Stage 2 propagation applied six residual text corrections to session-summary.md."

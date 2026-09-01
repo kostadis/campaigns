@@ -1,0 +1,61 @@
+consistency_check:
+  timestamp: "2026-08-31T10:43:15-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/scene_extractions/05_the_phandalin_quest_board.md"
+  document_class: "backfill scene extraction"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage2_scene05.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 4
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc cross-check spanning this and two later sessions" }
+      - { path: summaries/20250514-chapter-02-new/gm-assist.md, role: "corrected Stage 0 first-pass recap" }
+      - { path: summaries/20250514-chapter-02-new/session-summary.md, role: "corrected Stage 1 immediate upstream artifact" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt, role: "spell-pass-cleaned speaker-labelled transcript and primary session evidence" }
+  notes: |
+    No contemporaneous prep exists for this backfill. The cleaned VTT is the
+    authority for session-local wording and attribution. Current party and
+    world-state material may preserve later retcons or elaborations and is not
+    allowed to overwrite an accurate record of the original table discussion.
+
+    The absolute-path config auto-loaded campaign_state and world_state. The
+    checker warned that no entity_registry.yaml was adjacent to the session
+    directory; docs/entity_registry.yaml was nevertheless passed explicitly in
+    the eight-file context set. The command reported ten context documents and
+    completed successfully with the codex-cli backend using the subscription
+    default model.
+
+    The command banner incorrectly said “No issues found,” but the saved report
+    contains four issue headings; the manifest therefore records four. One
+    unambiguous wording correction was applied before batch review: “simple
+    delivery objective” is now “simple warning objective.” The other three
+    findings are no-ops because the extraction already distinguishes Soma's
+    letter joke from the formal warning, describes both 50-gp offers, and names
+    warning the prospectors as the selected quest's formal task.
+  carry_forward:
+    - status: DONE
+      item: "Scene 5 requires no batch ruling after one mechanical clarification and three evidence-backed no-op findings."
+  resolution:
+    reviewed_by: "GM batch recheck"
+    reviewed: "2026-08-31"
+    applied:
+      - { finding: 2, fix: "Changed simple delivery objective to simple warning objective." }
+    partially_applied: []
+    rejected:
+      - { finding: 1, ruling: "No change", rationale: "The extraction already identifies the letter line as a joke and the task as a warning." }
+      - { finding: 3, ruling: "No change", rationale: "The formal warning task is already explicit after the broad assist phrasing." }
+      - { finding: 4, ruling: "No change", rationale: "The extraction already names both 50-gp offers and Gnomengarde's conditional payment." }
+  vtt_adjudicated: |
+    The VTT confirms a verbal warning and preserves Soma's physical-letter line
+    as table humor rather than the actual quest object.

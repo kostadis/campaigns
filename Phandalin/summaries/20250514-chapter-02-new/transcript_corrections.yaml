@@ -1,0 +1,387 @@
+# Transcript corrections — the record the .cleaned.vtt is generated from.
+# CampaignGenerator #250 R4. Edit this file, then run:
+#     sd_corrections apply --dir .
+# `was` is checked against the raw tape on every apply, so a stale entry
+# fails loudly instead of pasting an old repair over new words.
+# `verified: false` means nobody has reviewed this one yet.
+version: 1
+transcript: session_2025_05_14_chapter_2_transcript.speakers.vtt
+corrections:
+- id: cue-0025
+  cue: 25
+  was: 'Dave: Brewberry.'
+  now: 'Dave: Brewbarry.'
+  recorded: &id001 2026-08-30
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0052
+  cue: 52
+  was: 'Kostadis: You''re not late because Costatus didn''t do his job.'
+  now: 'Kostadis: You''re not late because Kostadis didn''t do his job.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0070
+  cue: 70
+  was: 'Dave: So Vucradin is a.'
+  now: 'Dave: So Vukradin is a.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0087
+  cue: 87
+  was: 'Dave: Vocraden is a serious musician from what are we doing?'
+  now: 'Dave: Vukradin is a serious musician from what are we doing?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0219
+  cue: 219
+  was: 'Kostadis: It didn''t quite reach level or Orsic level of excitement, but you know.'
+  now: 'Kostadis: It didn''t quite reach level or Orsik level of excitement, but you know.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0241
+  cue: 241
+  was: 'Dave: Well, Balfine has 1515.'
+  now: 'Dave: Well, Valphine has 1515.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0279
+  cue: 279
+  was: 'Wade: I''m going to unassign Vartus.'
+  now: 'Wade: I''m going to unassign Vardis.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0284
+  cue: 284
+  was: 'Wade: Rest in peace, Vartus.'
+  now: 'Wade: Rest in peace, Vardis.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0294
+  cue: 294
+  was: 'Kostadis: Balfine Satora.'
+  now: 'Kostadis: Valphine Sotorra.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0299
+  cue: 299
+  was: 'Dave [?]: I gave you a- Oh, I thought that was that AI-generated, Cassandra?'
+  now: 'Dave [?]: I gave you a- Oh, I thought that was that AI-generated, Kostadis?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0335
+  cue: 335
+  was: 'Gary: So, you know, we have a Drew, a drow cleric of, I think I said Lathander, didn''t I?'
+  now: 'Gary: So, you know, we have a Drow, a drow cleric of, I think I said Lathander, didn''t I?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0355
+  cue: 355
+  was: 'Gary: So that''s at least Balfine right now.'
+  now: 'Gary: So that''s at least Valphine right now.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0356
+  cue: 356
+  was: 'Gary: And then Brewberry, I don''t know that I have a background for him either, but he''s, you know, like the Goliath Uthgart barbarian.'
+  now: 'Gary: And then Brewbarry, I don''t know that I have a background for him either, but he''s, you know, like the Goliath Uthgardt barbarian.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0357
+  cue: 357
+  was: 'Gary: And I don''t know that I fully figured out like how he''s there with the Uthgart.'
+  now: 'Gary: And I don''t know that I fully figured out like how he''s there with the Uthgardt.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0360
+  cue: 360
+  was: 'Kostadis: Yeah. He could, I mean, depending on where he, I mean, so the real question is, did how did Balfine and the Barbarian meet?'
+  now: 'Kostadis: Yeah. He could, I mean, depending on where he, I mean, so the real question is, did how did Valphine and the Barbarian meet?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0386
+  cue: 386
+  was: 'Gary: I think Brewberry.'
+  now: 'Gary: I think Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0390
+  cue: 390
+  was: 'Gary: I think Brewberry, when he was, let''s go with kicked out of the Uthgart Barbarian.'
+  now: 'Gary: I think Brewbarry, when he was, let''s go with kicked out of the Uthgardt Barbarian.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0400
+  cue: 400
+  was: 'Kostadis: Does the Asimar have a light night vision?'
+  now: 'Kostadis: Does the Aasimar have a light night vision?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0401
+  cue: 401
+  was: 'Kostadis [?]: Drowl?'
+  now: 'Kostadis [?]: Drow?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0402
+  cue: 402
+  was: 'UNKNOWN: No, no, I''m talking about the Asimar.'
+  now: 'UNKNOWN: No, no, I''m talking about the Aasimar.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0404
+  cue: 404
+  was: 'Dave: Asimar has, yeah, it has dark vision, yes.'
+  now: 'Dave: Aasimar has, yeah, it has dark vision, yes.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0535
+  cue: 535
+  was: 'Wade: Ice Spire.'
+  now: 'Wade: Icespire.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0596
+  cue: 596
+  was: 'UNKNOWN: I just followed Brewbeary.'
+  now: 'UNKNOWN: I just followed Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0629
+  cue: 629
+  was: 'Gary: I''m having a little trouble hooking Valfin here.'
+  now: 'Gary: I''m having a little trouble hooking Valphine here.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0776
+  cue: 776
+  was: 'Kostadis: So along the way, Brewbeary, you know, is really excited about your musical style, has decided to follow you.'
+  now: 'Kostadis: So along the way, Brewbarry, you know, is really excited about your musical style, has decided to follow you.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0785
+  cue: 785
+  was: 'Gary [?]: Does Brewbeary periodically try to sing?'
+  now: 'Gary [?]: Does Brewbarry periodically try to sing?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0786
+  cue: 786
+  was: 'Kostadis [?]: I agree, Brewbeary.'
+  now: 'Kostadis [?]: I agree, Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0870
+  cue: 870
+  was: 'Dave: Anyway, I was going to say Brewbeary is the only patron who ever gave me a 10 out of 10 on the survey.'
+  now: 'Dave: Anyway, I was going to say Brewbarry is the only patron who ever gave me a 10 out of 10 on the survey.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0921
+  cue: 921
+  was: 'Wade: Pink is me, because Thaddus is blue.'
+  now: 'Wade: Pink is me, because Kostadis is blue.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0986
+  cue: 986
+  was: 'Kostadis: And the proprietor is a short, friendly male human named Toblin Stonehill.'
+  now: 'Kostadis: And the proprietor is a short, friendly male human named Toblen Stonehill.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0987
+  cue: 987
+  was: 'Kostadis: Toblin is very glad to see you.'
+  now: 'Kostadis: Toblen is very glad to see you.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1018
+  cue: 1018
+  was: 'Kostadis: He pauses and says, well, if you have something, one of the more fashionable tunes from Waterdeep or from Neverwinter, I think, or even Tribor.'
+  now: 'Kostadis: He pauses and says, well, if you have something, one of the more fashionable tunes from Waterdeep or from Neverwinter, I think, or even Triboar.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1028
+  cue: 1028
+  was: 'Kostadis: He goes, Toblin is a little bit upset.'
+  now: 'Kostadis: He goes, Toblen is a little bit upset.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1070
+  cue: 1070
+  was: 'Kostadis: Bramgrim.'
+  now: 'Kostadis: Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1073
+  cue: 1073
+  was: 'Dave: So Bramgrim liked it.'
+  now: 'Dave: So Brewbarry liked it.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1079
+  cue: 1079
+  was: 'Gary: And I think Felkur was bored with all this display of music.'
+  now: 'Gary: And I think Valphine was bored with all this display of music.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1114
+  cue: 1114
+  was: 'Kostadis: I, in fact, lived in Tribor and managed to get word about the disaster that came there from the Uthgaritian barbarians.'
+  now: 'Kostadis: I, in fact, lived in Triboar and managed to get word about the disaster that came there from the Uthgardt barbarians.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1130
+  cue: 1130
+  was: 'Kostadis: Toblin pauses and goes, look, my friends, I think that whatever plans you might have and whatever adventures you might have and whatever stories you might have, all is forgiven between us.'
+  now: 'Kostadis: Toblen pauses and goes, look, my friends, I think that whatever plans you might have and whatever adventures you might have and whatever stories you might have, all is forgiven between us.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1149
+  cue: 1149
+  was: 'Gary: Bramgrim.'
+  now: 'Gary: Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1175
+  cue: 1175
+  was: 'Kostadis: So as you''re walking across the, as you''re about to leave, Toblin says, oh, one minor detail.'
+  now: 'Kostadis: So as you''re walking across the, as you''re about to leave, Toblen says, oh, one minor detail.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1212
+  cue: 1212
+  was: 'Dave: Talk Gnomes.'
+  now: 'Dave: Rock Gnomes.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1403
+  cue: 1403
+  was: 'Wade [?]: Bramgrim is fixed.'
+  now: 'Wade [?]: Barbarian''s fixed.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1454
+  cue: 1454
+  was: 'Dave: Oh, you''re going Bramgrim right behind you.'
+  now: 'Dave: Oh, you''re going. I''ll be right behind you.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1512
+  cue: 1512
+  was: 'Kostadis: He''s like, Dazlin goes, I''ll just have you note that this is a private excavation, and everything that we''re doing, we''re not sharing.'
+  now: 'Kostadis: He''s like, Dazlyn goes, I''ll just have you note that this is a private excavation, and everything that we''re doing, we''re not sharing.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1514
+  cue: 1514
+  was: 'Dave: So we''re here from Townmaster Harvin.'
+  now: 'Dave: So we''re here from Townmaster Harbin.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1538
+  cue: 1538
+  was: 'Kostadis: Norbus goes, well, my name is Norbus in Iron Rune, and I''m a Shield Dwarf Prospector.'
+  now: 'Kostadis: Norbus goes, well, my name is Norbus in Ironrune, and I''m a Shield Dwarf Prospector.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1539
+  cue: 1539
+  was: 'Kostadis: And Dazlin Greyshard over here is my partner.'
+  now: 'Kostadis: And Dazlyn Grayshard over here is my partner.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1569
+  cue: 1569
+  was: 'Kostadis: Dazlin goes, Yes, yes, yes, that''s exactly right.'
+  now: 'Kostadis: Dazlyn goes, Yes, yes, yes, that''s exactly right.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1581
+  cue: 1581
+  was: 'Kostadis: He goes, Dazlin looks at you and goes, yes, but I''ll have you note that Dwarven gods are not like your drow gods.'
+  now: 'Kostadis: He goes, Dazlyn looks at you and goes, yes, but I''ll have you note that Dwarven gods are not like your drow gods.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1701
+  cue: 1701
+  was: 'Kostadis: So Dazlin and Norbus, after they have their like five minutes worth of talking, goes, let me say something.'
+  now: 'Kostadis: So Dazlyn and Norbus, after they have their like five minutes worth of talking, goes, let me say something.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1729
+  cue: 1729
+  was: 'Gary: So it''s Rubir is like, does that mean I can listen to music all the time?'
+  now: 'Gary: So it''s Brewbarry is like, does that mean I can listen to music all the time?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1773
+  cue: 1773
+  was: 'Wade: Valfyn has 15.'
+  now: 'Wade: Valphine has 15.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1896
+  cue: 1896
+  was: 'Dave: Valfyn, do you see anything?'
+  now: 'Dave: Valphine, do you see anything?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1897
+  cue: 1897
+  was: 'Kostadis: Valfyn?'
+  now: 'Kostadis: Valphine?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed

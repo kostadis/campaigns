@@ -1,0 +1,38 @@
+{
+  "title": "2025-05-14 Chapter 2 — Stage 1 Rulings",
+  "reviewId": "staged-consistency:20250514-chapter-02-new:stage-1",
+  "outputName": "staged_consistency_stage_1_decisions.json",
+  "eyebrow": "Phandalin / Chapter 2 / staged consistency / session-summary",
+  "lede": "Four Stage 1 decisions need a ruling. The cleaned VTT is primary evidence; chapter_02 is only corroboration because it spans this session and the next two.",
+  "footer": "Applied without asking: five mechanical edits in session-summary.md — the Gnomengarde reward attribution, two previously approved Goodberry certainty fixes, the previously approved passage qualifier, and one missing space. Three advisory findings required no change because the text was already explicit or the GM had settled the wording at Stage 0.",
+  "items": [
+    {
+      "id": "s1-01",
+      "t": "Clarify that Dwarven Excavation offered a guaranteed 50 gp while Gnomengarde's 50 gp was conditional.",
+      "y": "Edit the summary prose and quest-board scene in <code>session-summary.md</code> so the choice is not presented as Dwarven Excavation simply paying more.",
+      "n": "Leave <code>session-summary.md</code> unchanged and retain the chapter's framing that the Dwarven quest had the highest payout.",
+      "ev": "<code>session-summary.md:18</code> and <code>:170</code> say the fifty gold or pay decided the choice. The cleaned VTT at <code>...speakers.cleaned.vtt:4877-4953</code> gives Dwarven Excavation 50 gp and then gives Gnomengarde a conditional 50 gp. The post-hoc chapter at <code>docs/chapters/chapter_02_arrival_in_phandalin.md:171</code> says Dwarven Excavation had the highest payout, but that chapter spans three sessions."
+    },
+    {
+      "id": "s1-04",
+      "t": "Remove the reversed drum-lesson attribution from the character-introduction scene.",
+      "y": "Replace the sentence in <code>session-summary.md:131</code> with neutral wording that the group discussed drum lessons, without claiming Soma offered to teach Vukradin.",
+      "n": "Keep the current claim that Soma offered to teach Vukradin drums despite the merged cue beginning with 'Teach me the drums.'",
+      "ev": "The cleaned VTT's merged, uncertain speaker cue at <code>...speakers.cleaned.vtt:1989</code> begins 'Teach me the drums,' then combines several voices; <code>session-summary.md:131</code> turns that into Soma offering to teach Vukradin. Neutral wording preserves the exchange without inventing a direction for the lesson."
+    },
+    {
+      "id": "s1-06",
+      "t": "Name the Triboar Trail leg when describing the party's arrival in Phandalin.",
+      "y": "Clarify the arrival headings in <code>gm-assist.md:92</code> and <code>session-summary.md:146</code>: the party traveled south on the High Road, then approached Phandalin on the Triboar Trail.",
+      "n": "Leave both headings as High Road-only shorthand; the nearby enhanced-summary bullet will still say the party entered from the Triboar direction.",
+      "ev": "The GM calls the earlier travel the High Road at <code>...speakers.cleaned.vtt:3589</code> and says the party enters from Triboar at <code>:3733</code>. The campaign chapter explicitly names both roads at <code>docs/chapters/chapter_02_arrival_in_phandalin.md:83</code>; the registry places the High Road west of Phandalin and identifies the Triboar Trail as the east-west route."
+    },
+    {
+      "id": "s1-08",
+      "t": "Remove the unsupported claim that the prospectors met the ochre jelly deeper inside the temple.",
+      "y": "Change the Norbus entries in <code>gm-assist.md:156</code> and <code>session-summary.md:227</code> to say the prospectors saw an ochre jelly somewhere inside and fled.",
+      "n": "Keep 'encountered deeper inside' in both files as defensible compression, even though this session does not establish a chamber or depth.",
+      "ev": "The cleaned VTT says only 'We did see an ochre jelly' and 'We ran out before we could face them' at <code>...speakers.cleaned.vtt:7265-7273</code>. The main summary already uses 'inside' at <code>session-summary.md:20</code> and 'somewhere inside' at <code>:24</code>."
+    }
+  ]
+}

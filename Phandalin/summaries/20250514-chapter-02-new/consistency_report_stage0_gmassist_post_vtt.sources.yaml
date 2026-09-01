@@ -1,0 +1,93 @@
+consistency_check:
+  timestamp: "2026-08-30T22:04:07-07:00"
+  campaign: "/home/kroussos/Phandalin/Phandalin"
+  document_checked: "summaries/20250514-chapter-02-new/gm-assist.md"
+  document_class: "backfill first-pass recap"
+  report: "summaries/20250514-chapter-02-new/consistency_report_stage0_gmassist_post_vtt.md"
+  config: "/home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new/consistency_config_stage0_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 14
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: "2025-05-14"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PC identities; current-state claims treated cautiously for this backfill" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases; passed explicitly as context" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "known names not yet promoted to the registry" }
+      - { path: docs/chapters/chapter_02_arrival_in_phandalin.md, role: "post-hoc chapter cross-check spanning this session and the following two sessions" }
+      - { path: summaries/20250514-chapter-02-new/session_2025_05_14_chapter_2_transcript.speakers.cleaned.vtt, role: "spell-pass-cleaned speaker-labelled transcript and primary session evidence" }
+  notes: |
+    This is the post-vtt-spell-pass rerun of Stage 0. No contemporaneous
+    session prep exists because this material predates the notes workflow.
+    Chapter 02 includes this session and the following two sessions, so it is
+    corroboration rather than authority for session-local chronology,
+    attribution, or party knowledge. The cleaned speaker-labelled VTT is the
+    primary source for those claims. Gary voiced both Valphine and Brewbarry,
+    so his player label alone cannot settle which PC spoke.
+
+    The temporary absolute-path config auto-loaded campaign_state and
+    world_state. The checker warned that no entity_registry.yaml was adjacent
+    to the session-local config; entity_registry.yaml was nevertheless passed
+    explicitly in the six-file context set. The run completed successfully
+    with the codex-cli backend using the operator's saved subscription login.
+
+    One mechanical quote-order correction was applied before the batch gate:
+    the Soma/Vukradin/Soma exchange now follows cleaned VTT cues 1524-1526.
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-30"
+    applied:
+      - { finding: 1, fix: "Removed Valphine's hardship-and-pain motivation from Soma's introduction." }
+      - { finding: 4, fix: "Separated Norbus's site introduction, the party's Religion lore, and Dazlyn's confirmation." }
+      - { finding: 7, fix: "Qualified the side passage in all three references as appearing to loop back." }
+      - { finding: 9, fix: "Mechanically restored the Soma/Vukradin/Soma quote order from cleaned VTT cues 1524-1526." }
+      - { finding: 14, fix: "Changed Goodberry from definitely prepared to considered preparing." }
+    partially_applied: []
+    rejected:
+      - finding: 2
+        ruling: "No change; retains the earlier GM-approved joining account."
+        rationale: "The transcript establishes Valphine following the flyer and continuing with the group, while the chapter corroborates the meeting arrangement."
+      - finding: 3
+        ruling: "No change; transcript-supported wording."
+        rationale: "Toblen explicitly calls it a small dragon problem at cleaned VTT cue 1177."
+      - finding: 5
+        ruling: "No change; the recap does not place the ochre-jelly warning before the sending-stone offer."
+        rationale: "It records the generic offer and later preserves the prospectors' warning without asserting a false order."
+      - finding: 6
+        ruling: "No change; the recap distinguishes the discoveries."
+        rationale: "It credits Valphine with the foyer door and the party with the second door."
+      - finding: 8
+        ruling: "No change; preserve the cleaned quotation."
+        rationale: "Omitting the false start 'we also' changes neither meaning nor attribution."
+      - finding: 10
+        ruling: "No change; retain the intentionally humorous caption."
+        rationale: "The prose identifies the compensation as one drink and does not present it as quest pay."
+      - finding: 11
+        ruling: "No change; transcript-supported duration."
+        rationale: "The table calls fifteen miles a day's hike."
+      - finding: 12
+        ruling: "No change; retain the accurate plain-language summary."
+        rationale: "The transcript names the War of the Dragons, War of the Giants, and barbarian conflict."
+      - finding: 13
+        ruling: "No change; preserve the earlier explicit GM ruling."
+        rationale: "Walkie-talkies is table vocabulary used in the session, while the item remains identified as magical stones."
+  vtt_adjudicated: |
+    The rerun used the spell-pass-cleaned speaker-labelled VTT. It corrected
+    Soma's motivation, the prospector-history attribution, the certainty of the
+    untraversed passage, the three-speaker quote order, and the certainty of
+    Soma's Goodberry preparation. A residual sweep found none of the rejected
+    spell-pass forms in gm-assist.md.
+  carry_forward:
+    - status: DONE
+      item: "Stage 0 post-VTT batch gate completed: four of four rulings approved and applied."
+    - status: DONE
+      item: "Goodberry eligibility is not a rules blocker; the recap now preserves only the transcript uncertainty about final preparation."
+    - status: NOTE
+      item: "No contemporaneous prep exists; chapter_02 spans three sessions and remains corroboration rather than session-local authority."
+    - status: NOTE
+      item: "No session-summary, scene extraction, or narration artifact exists yet in this session directory, so later staged-consistency boundaries cannot run."

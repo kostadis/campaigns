@@ -1,0 +1,38 @@
+{
+  "title": "Chapter 2 Stage 0 Post-VTT Rulings",
+  "reviewId": "staged-consistency:20250514-chapter-02-new:stage-0-post-vtt",
+  "outputName": "staged_consistency_stage_0_post_vtt_decisions.json",
+  "eyebrow": "Phandalin / Chapter 2 / Stage 0 / post-vtt-spell-pass",
+  "lede": "Four gm-assist.md judgments remain after checking the fresh Codex audit against the spell-pass-cleaned, speaker-labelled VTT. The chapter document is corroboration only because it spans three sessions.",
+  "footer": "Applied without asking: one mechanical quote-order correction in gm-assist.md, restoring the Soma / Vukradin / Soma order from cleaned VTT cues 1524-1526. Nine other audit candidates required no change because the current wording is supported, defensible, or covered by an earlier explicit ruling.",
+  "items": [
+    {
+      "id": "s0v-01",
+      "t": "Remove Valphine-derived hardship and pain motivation from Soma's introduction.",
+      "y": "Edit <code>gm-assist.md:10</code> so Soma is described as an elderly wilderness guide in her sunset years, without claiming that hardship and raw experience keep her old bones alive. Valphine retains the danger-and-pain motivation.",
+      "n": "Leave <code>gm-assist.md:10</code> unchanged, preserving a motive for Soma that the cleaned transcript assigns to Valphine.",
+      "ev": "The cleaned VTT establishes Soma as a guide in her sunset years at cues 365-370. It assigns hardship and self-inflicted pain to Valphine at cues 629-638 and 819-833."
+    },
+    {
+      "id": "s0v-04",
+      "t": "Separate Norbus's site introduction, the party's Religion lore, and Dazlyn's confirmation.",
+      "y": "Edit <code>gm-assist.md:20</code>, <code>:126</code>, and <code>:153</code>: Norbus identifies the buried settlement and temple; the successful Religion check supplies the sacrifices, earthquake, and avalanche lore; Dazlyn confirms it. This removes the recap's exclusive attribution to Dazlyn.",
+      "n": "Leave those passages unchanged, continuing to credit Dazlyn or the two prospectors with historical details supplied through the party's Religion check.",
+      "ev": "Cleaned VTT cues 1538-1549 have Norbus introduce the site and Abbathor temple. Cues 1567-1570 deliver the sacrifice and disaster lore through the successful check, followed by Dazlyn's confirmation."
+    },
+    {
+      "id": "s0v-07",
+      "t": "Qualify the side passage as appearing to loop back toward the entrance.",
+      "y": "Edit <code>gm-assist.md:24</code>, <code>:68</code>, and <code>:135</code> from a confirmed loop to a passage that <em>appeared</em> to loop back. This preserves that the party inferred the route from the revealed map but did not traverse it.",
+      "n": "Leave the three passages unchanged and treat the map-visible direction as sufficient to state that the passage looped back.",
+      "ev": "At cleaned VTT cues 1911-1915, the party says it <em>looks like</em> the passage takes them back and the GM confirms only that it leads north; they do not complete the route."
+    },
+    {
+      "id": "s0v-14",
+      "t": "Change Soma's Goodberry entry from definitely prepared to considered preparing.",
+      "y": "Edit <code>gm-assist.md:192</code> to say Soma considered preparing Goodberry and discussed replacing Longstrider or Ice Knife. This preserves the uncertainty in the speaker-labelled exchange.",
+      "n": "Leave the entry as 'Soma prepared this spell,' reading the proposed removal of Longstrider followed by 'Ice Knife, I'm never going to use that' as an implied completed preparation change.",
+      "ev": "Cleaned VTT cues 1304-1314 confirm that Goodberry is on the Druid list and record: 'I could prepare Goodberries,' 'I'll take off ... Longstrider,' then 'Ice Knife, I'm never going to use that.' No later cue explicitly confirms the final list."
+    }
+  ]
+}
