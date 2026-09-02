@@ -1,0 +1,3035 @@
+{
+  "checks": [
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "Brewbarry",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "Soma",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "Valphine Sotorra",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "Vukradin",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "brewbarry",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "soma",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "valphine",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 1
+      },
+      "key": "bookkeeping_per_narrator",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "narrator",
+      "subject": "vukradin",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_01_the_band_comes_together.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 4,
+      "occurrences": [
+        {
+          "line": 59,
+          "matched": "—",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 77,
+          "matched": "—",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 111,
+          "matched": "—",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 147,
+          "matched": "—",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        }
+      ],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+      "verdict": "breach"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 1,
+      "occurrences": [
+        {
+          "line": 63,
+          "matched": "—",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        }
+      ],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+      "verdict": "breach"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 12,
+      "occurrences": [
+        {
+          "line": 61,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 77,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 83,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 123,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 129,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 133,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 149,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 171,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 191,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 197,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 217,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 217,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+      "verdict": "breach"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 2,
+      "occurrences": [
+        {
+          "line": 117,
+          "matched": "—",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 117,
+          "matched": "—",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        }
+      ],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+      "verdict": "breach"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 13,
+      "occurrences": [
+        {
+          "line": 81,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 91,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 137,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 143,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 169,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 179,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 195,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 205,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 205,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "—",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+      "verdict": "breach"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "em_dash",
+      "observed": 1,
+      "occurrences": [
+        {
+          "line": 105,
+          "matched": "—",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+      "verdict": "breach"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "sections",
+        "value": 1
+      },
+      "key": "filing_sections",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "corpus",
+      "subject": null,
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_01_the_band_comes_together.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "portable_portrait",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_01_the_band_comes_together.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "shape_of",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_01_the_band_comes_together.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+      "verdict": "ok"
+    },
+    {
+      "budget": {
+        "operator": "<=",
+        "unit": "occurrences",
+        "value": 0
+      },
+      "key": "taxonomy",
+      "observed": 0,
+      "occurrences": [],
+      "reason": null,
+      "scope": "document",
+      "subject": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+      "verdict": "ok"
+    }
+  ],
+  "corpus_id": "56013c04fb1ed609a51342bd363df02f8cde83c934f8e0e296d7958e5217e2b8",
+  "cross_narrator_reuse": [
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 83,
+          "matched": "All we have to do is go back",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 177,
+          "matched": "All we have to do is go back",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "All we have to do is go back",
+      "word_count": 8
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 29,
+          "matched": "and the War of the",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 139,
+          "matched": "and the War of the",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "and the War of the",
+      "word_count": 5
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 25,
+          "matched": "I don't have any money",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 17,
+          "matched": "I don't have any money",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "I don't have any money",
+      "word_count": 5
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 29,
+          "matched": "of the War of the",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 139,
+          "matched": "of the War of the",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "of the War of the",
+      "word_count": 5
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 29,
+          "matched": "the War of the Dragons",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 139,
+          "matched": "the War of the Dragons",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "the War of the Dragons",
+      "word_count": 5
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 29,
+          "matched": "the War of the Giants",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 139,
+          "matched": "the War of the Giants",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "the War of the Giants",
+      "word_count": 5
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 217,
+          "matched": "-- table-speech reclassified So",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 117,
+          "matched": "-- table-speech reclassified So",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "-- table-speech reclassified So",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "-- table-speech reclassified So",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 9,
+          "matched": "a little better than",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 21,
+          "matched": "a little better than",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "a little better than",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Soma"
+      ],
+      "occurrences": [
+        {
+          "line": 59,
+          "matched": "at the end of",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 17,
+          "matched": "at the end of",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        },
+        {
+          "line": 23,
+          "matched": "at the end of",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "at the end of",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 117,
+          "matched": "do you want to",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 9,
+          "matched": "do you want to",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "do you want to",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 51,
+          "matched": "I don't know I",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 253,
+          "matched": "I don't know I",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "I don't know I",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 133,
+          "matched": "I think we should",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 95,
+          "matched": "I think we should",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "I think we should",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 29,
+          "matched": "the end of the",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 59,
+          "matched": "the end of the",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "the end of the",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 91,
+          "matched": "the rest of the",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 93,
+          "matched": "the rest of the",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "the rest of the",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 67,
+          "matched": "to deliver the message",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 179,
+          "matched": "to deliver the message",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "to deliver the message",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 133,
+          "matched": "to the rightful owners",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 205,
+          "matched": "to the rightful owners",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "to the rightful owners",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Soma"
+      ],
+      "occurrences": [
+        {
+          "line": 75,
+          "matched": "Vukradin looks at the",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 121,
+          "matched": "Vukradin looks at the",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "Vukradin looks at the",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 83,
+          "matched": "Well I mean if",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 41,
+          "matched": "Well I mean if",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "Well I mean if",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 217,
+          "matched": "you want to go",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 117,
+          "matched": "you want to go",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        }
+      ],
+      "phrase": "you want to go",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 141,
+          "matched": "you would know that",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "you would know that",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "you would know that",
+      "word_count": 4
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 77,
+          "matched": "a white dragon",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 79,
+          "matched": "A white dragon",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 61,
+          "matched": "a white dragon",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "a white dragon",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 47,
+          "matched": "all of that",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 205,
+          "matched": "all of that",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "all of that",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 117,
+          "matched": "and buried the",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 119,
+          "matched": "and buried the",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "and buried the",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 63,
+          "matched": "be able to",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 253,
+          "matched": "be able to",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "be able to",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 85,
+          "matched": "belong to the",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 109,
+          "matched": "belong to the",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "belong to the",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 183,
+          "matched": "do have a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 201,
+          "matched": "do have a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 91,
+          "matched": "do have a",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "do have a",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 53,
+          "matched": "Do you like",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "do you like",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "Do you like",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 81,
+          "matched": "do you see",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 37,
+          "matched": "do you see",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "do you see",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 63,
+          "matched": "go to the",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 217,
+          "matched": "go to the",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "go to the",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 103,
+          "matched": "going to be",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 205,
+          "matched": "going to be",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "going to be",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 127,
+          "matched": "going to get",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 81,
+          "matched": "going to get",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 177,
+          "matched": "going to get",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "going to get",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 119,
+          "matched": "He points at",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 127,
+          "matched": "He points at",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        }
+      ],
+      "phrase": "He points at",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Soma"
+      ],
+      "occurrences": [
+        {
+          "line": 75,
+          "matched": "I do not",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 107,
+          "matched": "I do not",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 23,
+          "matched": "I do not",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 97,
+          "matched": "I do not",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "I do not",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 59,
+          "matched": "I have a",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 89,
+          "matched": "I have a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 51,
+          "matched": "I have a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "I have a",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 45,
+          "matched": "I have the",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 79,
+          "matched": "I have the",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "I have the",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 147,
+          "matched": "I just want",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 117,
+          "matched": "I just want",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 205,
+          "matched": "I just want",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "I just want",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Soma"
+      ],
+      "occurrences": [
+        {
+          "line": 39,
+          "matched": "I still have",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 99,
+          "matched": "I still have",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "I still have",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 83,
+          "matched": "I think I",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 55,
+          "matched": "I think I",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        }
+      ],
+      "phrase": "I think I",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 25,
+          "matched": "I would be",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 55,
+          "matched": "I would be",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 91,
+          "matched": "I would be",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "I would be",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 45,
+          "matched": "it and the",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 29,
+          "matched": "it and the",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "it and the",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 113,
+          "matched": "it is an",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 131,
+          "matched": "It is an",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 165,
+          "matched": "It is an",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "it is an",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 73,
+          "matched": "It is not",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 21,
+          "matched": "It is not",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        },
+        {
+          "line": 109,
+          "matched": "It is not",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "It is not",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 69,
+          "matched": "It's just a",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 107,
+          "matched": "It's just a",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "It's just a",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 63,
+          "matched": "kind of like",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "kind of like",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "kind of like",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 115,
+          "matched": "looks at Soma",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 43,
+          "matched": "looks at Soma",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 17,
+          "matched": "looks at Soma",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "looks at Soma",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 107,
+          "matched": "mean I can",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 183,
+          "matched": "mean I can",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "mean I can",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 43,
+          "matched": "my whole life",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 223,
+          "matched": "My whole life",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "my whole life",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 71,
+          "matched": "No no no",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 141,
+          "matched": "No no no",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 151,
+          "matched": "No no no",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 93,
+          "matched": "No no no",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "No no no",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 67,
+          "matched": "No no The",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "No no the",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "No no The",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 87,
+          "matched": "or at least",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 73,
+          "matched": "or at least",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "or at least",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 101,
+          "matched": "Soma studies the",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 11,
+          "matched": "Soma studies the",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "Soma studies the",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 25,
+          "matched": "Someone behind me",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 95,
+          "matched": "Someone behind me",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "Someone behind me",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 43,
+          "matched": "take care of",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 193,
+          "matched": "take care of",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "take care of",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 85,
+          "matched": "that would be",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 95,
+          "matched": "That would be",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 255,
+          "matched": "that would be",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "that would be",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 157,
+          "matched": "the city to",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 133,
+          "matched": "the city to",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "the city to",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Soma"
+      ],
+      "occurrences": [
+        {
+          "line": 23,
+          "matched": "the ground rises",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 51,
+          "matched": "The ground rises",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "the ground rises",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 157,
+          "matched": "the High Road",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 179,
+          "matched": "The High Road",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 9,
+          "matched": "the High Road",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        }
+      ],
+      "phrase": "the High Road",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 191,
+          "matched": "the quest board",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 11,
+          "matched": "the quest board",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 17,
+          "matched": "The quest board",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        }
+      ],
+      "phrase": "the quest board",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 45,
+          "matched": "the Stonehill Inn",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 217,
+          "matched": "the Stonehill Inn",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "the Stonehill Inn",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Soma"
+      ],
+      "occurrences": [
+        {
+          "line": 11,
+          "matched": "the Sword Mountains",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 9,
+          "matched": "The Sword Mountains",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "the Sword Mountains",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 63,
+          "matched": "the Townmaster's Hall",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 129,
+          "matched": "the Townmaster's Hall",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "the Townmaster's Hall",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 47,
+          "matched": "the Townmaster’s Hall",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 215,
+          "matched": "the Townmaster’s Hall",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "the Townmaster’s Hall",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 179,
+          "matched": "the Triboar Trail",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 9,
+          "matched": "the Triboar Trail",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        }
+      ],
+      "phrase": "the Triboar Trail",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 63,
+          "matched": "there is a",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 129,
+          "matched": "there is a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 139,
+          "matched": "There is a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "there is a",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Soma",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 59,
+          "matched": "There is no",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 23,
+          "matched": "There is no",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 13,
+          "matched": "There is no",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        }
+      ],
+      "phrase": "There is no",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 95,
+          "matched": "There it is",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 135,
+          "matched": "There it is",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 59,
+          "matched": "There it is",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        }
+      ],
+      "phrase": "There it is",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 21,
+          "matched": "This does not",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 29,
+          "matched": "This does not",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "This does not",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 63,
+          "matched": "This is a",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 55,
+          "matched": "this is a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "This is a",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 15,
+          "matched": "to hear that",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+          "section": null
+        },
+        {
+          "line": 65,
+          "matched": "to hear that",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "to hear that",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 265,
+          "matched": "to the stone",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 127,
+          "matched": "to the stone",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "to the stone",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 117,
+          "matched": "to the town",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 177,
+          "matched": "to the town",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "to the town",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 95,
+          "matched": "too much of",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 11,
+          "matched": "too much of",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "too much of",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 117,
+          "matched": "trying to say",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 243,
+          "matched": "trying to say",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "trying to say",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 263,
+          "matched": "Vukradin steps toward",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 13,
+          "matched": "Vukradin steps toward",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "Vukradin steps toward",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 43,
+          "matched": "want me to",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 41,
+          "matched": "want me to",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "want me to",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 37,
+          "matched": "want to make",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 265,
+          "matched": "want to make",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "want to make",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 121,
+          "matched": "was going to",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+          "section": null
+        },
+        {
+          "line": 123,
+          "matched": "was going to",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "was going to",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 93,
+          "matched": "We are not",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        },
+        {
+          "line": 81,
+          "matched": "We are not",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        }
+      ],
+      "phrase": "We are not",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Brewbarry",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 27,
+          "matched": "we have a",
+          "narrator": "Brewbarry",
+          "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+          "section": null
+        },
+        {
+          "line": 161,
+          "matched": "We have a",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "we have a",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 115,
+          "matched": "we would be",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 167,
+          "matched": "we would be",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        }
+      ],
+      "phrase": "we would be",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 43,
+          "matched": "We're going to",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 127,
+          "matched": "we're going to",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        },
+        {
+          "line": 11,
+          "matched": "We're going to",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+          "section": null
+        }
+      ],
+      "phrase": "We're going to",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "occurrences": [
+        {
+          "line": 45,
+          "matched": "while I have",
+          "narrator": "Vukradin",
+          "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+          "section": null
+        },
+        {
+          "line": 55,
+          "matched": "while I have",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+          "section": null
+        }
+      ],
+      "phrase": "while I have",
+      "word_count": 3
+    },
+    {
+      "narrators": [
+        "Soma",
+        "Valphine Sotorra"
+      ],
+      "occurrences": [
+        {
+          "line": 197,
+          "matched": "you see anything",
+          "narrator": "Valphine Sotorra",
+          "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+          "section": null
+        },
+        {
+          "line": 37,
+          "matched": "you see anything",
+          "narrator": "Soma",
+          "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+          "section": null
+        }
+      ],
+      "phrase": "you see anything",
+      "word_count": 3
+    }
+  ],
+  "documents": [
+    {
+      "narrators": [
+        "Brewbarry"
+      ],
+      "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+      "sha256": "35743ddd1d37919dd155e92fe1a0509a3e33d7b13cd7be82c5251d06c584cad4"
+    },
+    {
+      "narrators": [
+        "Vukradin"
+      ],
+      "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+      "sha256": "030100b1932893e1c361e544f30dcb5c34d8734a11bc50b6609c0bcbfa0a9e7e"
+    },
+    {
+      "narrators": [
+        "Soma"
+      ],
+      "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+      "sha256": "a748ffd19b3150a5257448bd426d2869975fd30189dbd36362110724b4ed4e2d"
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra"
+      ],
+      "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+      "sha256": "b8499369a6585e9ea440694961afec82f720aad1aaa4aa082cb03abc4a914ae2"
+    },
+    {
+      "narrators": [
+        "Vukradin"
+      ],
+      "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+      "sha256": "8a390f2bc3d002de77fb1419d8647e99b4c66df92daf6306315816c69bb51167"
+    },
+    {
+      "narrators": [
+        "Brewbarry"
+      ],
+      "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+      "sha256": "8f7e8c06a71cdce7444564fe84dad8a62deaeae54070c61a250e5ab687dfdb66"
+    },
+    {
+      "narrators": [
+        "Valphine Sotorra"
+      ],
+      "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+      "sha256": "14a84a895291f989046b083fdc38e2719216ff56055261a9ddd6fe785cc0a8b7"
+    },
+    {
+      "narrators": [
+        "Soma"
+      ],
+      "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+      "sha256": "677002154458bf7a50eccfa428f10d0a792fab132b498b56644c8ea73f5d1835"
+    }
+  ],
+  "guidance": {
+    "checker_schema_version": 1,
+    "path": "voice/_genre.md",
+    "profile": "d4-v1",
+    "sha256": "a108124edd38edd5285f557c6ca3dbd21839059db24081f2d8af0278f2e8b589"
+  },
+  "iteration_id": "iter-007",
+  "phase": "before",
+  "proposal_id": null,
+  "schema_version": 1
+}

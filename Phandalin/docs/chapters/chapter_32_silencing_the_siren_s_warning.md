@@ -26,7 +26,7 @@ title: Silencing the Siren's Warning
 - The stalker attacks Valphine again, dealing further damage.  
 - Valphine casts Moonbeam, dealing significant radiant damage to the stalker and making it visible.  
 - Brewbarry lands a hit on the now-revealed stalker.  
-- Valphine casts Fairy Fire to outline the stalker in light, making it easier to target.  
+- Valphine casts Faerie Fire to outline the stalker in light, making it easier to target.  
 - Brewbarry is persuaded not to pick up the Dragon Slayer Sword, as the stalker appears to be guarding it.  
 - Vukradin moves the Cloud of Daggers onto the stalker, dealing damage.  
 - The invisible stalker moves to hover directly over the Dragon Slayer Sword in a 'come and get it' posture.  

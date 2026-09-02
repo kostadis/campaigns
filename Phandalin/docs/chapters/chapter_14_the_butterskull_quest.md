@@ -14,7 +14,7 @@ The money was good. And if I read the quest correctly, we could go there, discov
 
 And so we leave Phandalin and head east on the Triboar Trail. 
 
-Along the way, we encounter a merchant. The merchant is friendly and annoyed. We ask him where he is coming from and he says the town of Coneyberry. 
+Along the way, we encounter a merchant. The merchant is friendly and annoyed. We ask him where he is coming from and he says the town of Conyberry. 
 
 “The place was ransacked and a wreck. Nothing was there. Lord Neverember promised to fix that.” 
 
@@ -32,7 +32,7 @@ And Vukradin, with a theatrical flourish, declares, “Just because something is
 
 As I enter Conyberry, I notice an unsettling silence that hangs in the air, broken only by the whisper of the wind through the hollowed-out homes.  The homes are now little more than skeletal remains. Their roofs have long since collapsed inward, their wooden frames rotted and blackened by fire and time. The wattle-and-daub walls have crumbled to dust, and the streets are overgrown with thorny vines and tenacious weeds. 
 
-And yet, this devastation is nothing compared to what would happen to a noble house that was marked for extinction by the Noble Houses of Menzoberanzan. 
+And yet, this devastation is nothing compared to what would happen to a noble house that was marked for extinction by the Noble Houses of Menzoberranzan. 
 
 We turn the corner and notice four brigands. Our aide, Corbin, explains that they are members of Carver’s gang. 
 

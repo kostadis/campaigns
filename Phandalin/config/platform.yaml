@@ -1,5 +1,11 @@
 runtime:
   default_model: claude-fable-5
   default_backend: claude-code
-  session_dir: /home/kroussos/Phandalin/Phandalin/summaries/20260825
+  default_models:
+    claude-code: claude-fable-5
+    codex-cli: null
+  session_dir: /home/kroussos/Phandalin/Phandalin/summaries/20250514-chapter-02-new
   default_batch: false
+  default_codex_reasoning_effort: null
+  default_claude_code_effort: low
+  default_claude_code_thinking: false

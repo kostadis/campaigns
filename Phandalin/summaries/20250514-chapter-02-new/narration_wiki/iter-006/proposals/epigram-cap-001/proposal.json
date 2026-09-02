@@ -1,0 +1,17 @@
+{
+  "affected_rule": "epigrammatic-closers",
+  "after_sha256": "8d16207964e77f6ad791092248db830a3f325dea36380a243920032e149fbcaa",
+  "before_sha256": "1f98c38a3938c298f57ecb50c05279812a70bc5632fbafd62be143cd6edc73d4",
+  "diff_sha256": "1dfd0dece26438832a429779f7973c4171cbba2a2871bd288833626b1c48c6f4",
+  "iteration_id": "iter-006",
+  "pattern_slugs": [
+    "cap-cross-narrator-epigrams"
+  ],
+  "proposal_fingerprint": "5a4aaf4d9de1f53800e4b90bb2235bf723a952520505ac9c88171ff5f40e8abf",
+  "proposal_id": "epigram-cap-001",
+  "reconsideration": null,
+  "schema_version": 1,
+  "state": "awaiting_gate2",
+  "target_kind": "rulebook",
+  "target_path": "voice/_genre.md"
+}

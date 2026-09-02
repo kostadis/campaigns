@@ -40,7 +40,7 @@ I stood up. I am not small. Standing up when I want to make a point has a certai
 
 I patted my belly — the good round belly that has held so much wine and so much ale and so much of everything this world offers in a cup — and I stretched, and I said it plainly.
 
-"I'll have you note that I did not drink before the loss of the artifact in my banning from the Uthgartian tribe."
+"I'll have you note that I did not drink before the loss of the artifact in my banning from the Uthgardt tribe."
 
 He was quiet for a moment. Genuinely quiet. Vukradin is not often genuinely quiet.
 

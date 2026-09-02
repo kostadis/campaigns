@@ -24,7 +24,7 @@ But Soma insists, and explains that according to Adabra,  there is a strange, 
 
 I don’t remember this, but I see the opportunity for pay.   
 
-“Another curse\! We are good at curses\! We are the curse-busters.” And then, trying to be discreet, “How much money was involved in saving the Whispering Woods?” 
+“Another curse\! We are good at curses\! We are the curse-busters.” And then, trying to be discreet, “How much money was involved in saving the Whispering Grove?” 
 
 Soma shouts at me, “Pebble-counter\! Not everything is about money, it’s about keeping the forests in check\!” 
 
@@ -60,7 +60,7 @@ We arrive in Phandalin and stand in front of the Town Master’s house. The Shel
 
 Once in the town square, Adabra approaches me. 
 
-She asks if we have ventured to the Whispering Woods. When I tell her no, she is disappointed. 
+She asks if we have ventured to the Whispering Grove. When I tell her no, she is disappointed. 
 
 “This is important Soma.” 
 
@@ -90,7 +90,7 @@ Adabra looks at him and realizes how thin the shell is and takes pity on this sh
 
 “They want to make the world a better place. They seem to think the world is in imbalance and that by making it better, things will get better instead of understanding the world is just fine the way it is and that in their attempts to make it better, they make it worse. They think if you change things for the better, they will get permanently better. The more you push on one axis, the worse it will get on another. They are committed to the foolish path of imbalance.” 
 
-I am now worried, “Are they involved with the Whispering Woods?” 
+I am now worried, “Are they involved with the Whispering Grove?” 
 
 Adabra looks at me, “No, I do not believe it is them. I believe it is the result of the actions of the interventionists meddling in affairs they shouldn’t be.” She pauses, “The order of the gauntlet is too busy chasing dragons, fighting demons, and trying to clear the land for civilization.” And then she turns dark, “ At least when adventurers slaughter a creature, they take its treasures. They kill a creature and cheer their good deed. There is nothing but the kill, and death and their pursuit of some higher ideal that motivates them.” 
 
@@ -323,4 +323,4 @@ Vukradin seems satisfied, but I am not.
 
 ## 10.07 Soma 09-02-Taraskh 1495
 
-As we head out to the whispering grove, the staff that Merill gave me suddenly feels alive. Some magic inside it was unlocked.
+As we head out to the Whispering Grove, the staff that Meril gave me suddenly feels alive. Some magic inside it was unlocked.

@@ -16,7 +16,7 @@ Then, from her right, she hears the roar of Brewbarry, a sound that promises dev
 
 Just in front of her, a puff of green gas, acrid and foul, suddenly surrounds the ogre. It coughs, a guttural sound that speaks of pain and discomfort. The gas, evidently a potent concoction from one of their more magically inclined companions, has found its mark. The creature is hurt, its movements momentarily hampered, but it is not felled.
 
-With a surprising burst of energy, the ogre stands, its beady eyes scanning the faces of its attackers. It looks at Valphine, then at Brewbarry, its monstrous mind weighing its options, deciding who to strike next. A moment of chilling deliberation, and then its gaze settles on the towering barbarian. It picks the Uthgardtian.
+With a surprising burst of energy, the ogre stands, its beady eyes scanning the faces of its attackers. It looks at Valphine, then at Brewbarry, its monstrous mind weighing its options, deciding who to strike next. A moment of chilling deliberation, and then its gaze settles on the towering barbarian. It picks the Uthgardt.
 
 Valphine watches in a moment of suspended horror as the ogre’s crude, but massive, axe lands on Brewbarry. A sickening thud, and for a minute, the barbarian buckles, his enormous frame swaying. But then, a miracle. Thanks to the legendary rage of the Uthgardt barbarian and his mystical powers, the axe does nothing. The blow, intended to cleave him in two, glances off his hardened skin, absorbed by an invisible resilience.
 
@@ -104,7 +104,7 @@ The male gnome and the female gnome talk some more. The female gnome announces, 
 
 Brewbarry growls, “I used to be one.” 
 
-At that, the female gnome smiles, “Oh, that’s so much better. There used to be a standing order to attack Uthgardtians on sight as a result of the events of the last few months. But since you used to be one, it’s unclear whether that standing order stands. Furthermore, at the last meeting, it was unclear if the ‘attack uthgardian barbarians’ order was renewed and so given that we have decided to let you pass.” 
+At that, the female gnome smiles, “Oh, that’s so much better. There used to be a standing order to attack Uthgardt on sight as a result of the events of the last few months. But since you used to be one, it’s unclear whether that standing order stands. Furthermore, at the last meeting, it was unclear if the ‘attack uthgardian barbarians’ order was renewed and so given that we have decided to let you pass.” 
 
 Soma stares in disbelief, “Bureaucracy saved us.” 
 

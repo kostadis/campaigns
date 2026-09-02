@@ -1,0 +1,40 @@
+{
+  "gate": "gate1",
+  "rulings": [
+    {
+      "baseline": {
+        "corpus_id": "ab88dd41beac97ef91715df552fe3e92aface7e8416005313d1ee0354eb489c3",
+        "guidance_sha256": "5ae1b551023c119142cef7a4d82e78dd2e862eab1e6e917b26922a12b82ce2ef",
+        "measurement_path": "measurement-before.json",
+        "measurement_sha256": "87e6fa1ce3af1c97ec957d5fdb76d4fde595b1ad495dbffd2f07145e12fa1f6e",
+        "profile": "d4-v1"
+      },
+      "conflict_ruling_refs": [],
+      "gate": "gate1",
+      "iteration_id": "iter-006",
+      "named_portable_override": false,
+      "rationale": null,
+      "ruling": "accepted",
+      "subject_id": "cap-cross-narrator-epigrams",
+      "tier": "campaign"
+    },
+    {
+      "baseline": {
+        "corpus_id": "ab88dd41beac97ef91715df552fe3e92aface7e8416005313d1ee0354eb489c3",
+        "guidance_sha256": "5ae1b551023c119142cef7a4d82e78dd2e862eab1e6e917b26922a12b82ce2ef",
+        "measurement_path": "measurement-before.json",
+        "measurement_sha256": "87e6fa1ce3af1c97ec957d5fdb76d4fde595b1ad495dbffd2f07145e12fa1f6e",
+        "profile": "d4-v1"
+      },
+      "conflict_ruling_refs": [],
+      "gate": "gate1",
+      "iteration_id": "iter-006",
+      "named_portable_override": false,
+      "rationale": null,
+      "ruling": "accepted",
+      "subject_id": "encode-narrator-bookkeeping-budgets",
+      "tier": "campaign"
+    }
+  ],
+  "schema_version": 1
+}

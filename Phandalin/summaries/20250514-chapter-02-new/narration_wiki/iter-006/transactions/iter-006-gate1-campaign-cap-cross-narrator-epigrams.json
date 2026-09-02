@@ -1,0 +1,56 @@
+{
+  "next_action": "none",
+  "operation": "gate1_campaign",
+  "preconditions": [
+    {
+      "path": "gate1.json",
+      "sha256": null
+    },
+    {
+      "path": "campaign/wiki/patterns/cap-cross-narrator-epigrams.md",
+      "sha256": null
+    },
+    {
+      "path": "campaign/wiki/index.md",
+      "sha256": null
+    },
+    {
+      "path": "campaign/wiki/logs.md",
+      "sha256": null
+    },
+    {
+      "path": "iteration.json",
+      "sha256": "0b1a33f2ccc584fbcca3871a5037b6c29d175799450c43088c0d1e4f3b610c79"
+    }
+  ],
+  "schema_version": 1,
+  "state": "committed",
+  "transaction_id": "iter-006-gate1-campaign-cap-cross-narrator-epigrams",
+  "writes": [
+    {
+      "after_sha256": "aab0203db81e5c0a66162a96872afa0d1d2b469bddb3a8077c4f9048060569db",
+      "before_sha256": null,
+      "path": "gate1.json"
+    },
+    {
+      "after_sha256": "4345b843f93587a359d1702c104e9b670f6fa0c090e90366fbf387b5d1f7cec9",
+      "before_sha256": null,
+      "path": "campaign/wiki/patterns/cap-cross-narrator-epigrams.md"
+    },
+    {
+      "after_sha256": "c9f062b3a1f41244acc62947fa0bd421606c95c25eea74131ab7c723a2aef4f6",
+      "before_sha256": null,
+      "path": "campaign/wiki/index.md"
+    },
+    {
+      "after_sha256": "f97a1e48fb9329479f13923e15692b93ddc70714405aa89ffb3ae3270a5525eb",
+      "before_sha256": null,
+      "path": "campaign/wiki/logs.md"
+    },
+    {
+      "after_sha256": "fe8a36ff0c7b3125950f5cdf682dad5f90761bfa890b741251cb6b52e6b69515",
+      "before_sha256": "0b1a33f2ccc584fbcca3871a5037b6c29d175799450c43088c0d1e4f3b610c79",
+      "path": "iteration.json"
+    }
+  ]
+}

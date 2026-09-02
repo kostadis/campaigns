@@ -21,15 +21,15 @@ But twice, the plans of the gods had been thwarted[^1]. Twice, the gods had inte
 
 The people of the realms had hoped it would end here. And it did not. 
 
-This time it was Lolth. Trapped in a demi-plane as part of an elaborate multi-century plan, she was thought finished. But Lolth was a schemer, and she always had contingency plans. Her plan required magic that could temporarily loosen the bonds holding the planes separate. Her pawn was Gromph Baenre of the First House of Menozberanzan. 
+This time it was Lolth. Trapped in a demi-plane as part of an elaborate multi-century plan, she was thought finished. But Lolth was a schemer, and she always had contingency plans. Her plan required magic that could temporarily loosen the bonds holding the planes separate. Her pawn was Gromph Baenre of the First House of Menzoberranzan. 
 
-The spell twisted the magic of the Faerzess, an unknown magical substance that grows in the Underdark and acts as a naturally occurring forbiddance. Gromph Baenre thought it would give the Drow control of the Faerzess, allowing them to attack at will other powers. He was wrong. 
+The spell twisted the magic of the Faerzress, an unknown magical substance that grows in the Underdark and acts as a naturally occurring forbiddance. Gromph Baenre thought it would give the Drow control of the Faerzress, allowing them to attack at will other powers. He was wrong. 
 
 Instead, the bonds between the Abyss and Toril weakened for a moment. And the demon lords entered the Underdark.  
 
-Both the world below and above were in turmoil. The demon Grazz’t instigated widespread insanity and madness, while the demoness Zugtomy disseminated perilous fungi. The demon Orcus marshaled armies of undead, and reports indicate that Demogorgon wreaked havoc on cities, including the notable city of Menozberranzan. 
+Both the world below and above were in turmoil. The demon Grazz’t instigated widespread insanity and madness, while the demoness Zugtomy disseminated perilous fungi. The demon Orcus marshaled armies of undead, and reports indicate that Demogorgon wreaked havoc on cities, including the notable city of Menzoberranzan. 
 
-The chaos in the Underdark may have provoked the Uthgartd Barbarians to launch a devastating assault on the North, destroying numerous smaller communities. Triboar was razed, Calling Horn was obliterated, and several villages on the outskirts of Silverymoon and Mirabar were pillaged.
+The chaos in the Underdark may have provoked the Uthgardt Barbarians to launch a devastating assault on the North, destroying numerous smaller communities. Triboar was razed, Calling Horn was obliterated, and several villages on the outskirts of Silverymoon and Mirabar were pillaged.
 
 Despite these dire circumstances, hope was not entirely lost. Following the War of the Dragons, the Northern Territories and the Lord’s Alliance forces were recovering from their conclusive battle against the Cult of the Dragon. Had the Ordning not been reinstated, and had the Giants initiated an assault on the cities, the outcome would have been catastrophic. However, with the re-establishment of the Ordning, the armies were intact. [^2]
 

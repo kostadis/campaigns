@@ -259,7 +259,7 @@ She offered drinks, then turned to Brewbarry and blinked. "Oh my, I didn't reali
 
 "You should show her the robes, man," said Vukradin.
 
-"Yes! You know, I don't mean to be rude, but the whole — I always thought the Brewbarry aesthetic was — the Uthgardian aesthetic was anti-Moonstone Mask."
+"Yes! You know, I don't mean to be rude, but the whole — I always thought the Brewbarry aesthetic was — the Uthgardt aesthetic was anti-Moonstone Mask."
 
 "Bless you. Do you want to see my robes? I'll give you a special."
 

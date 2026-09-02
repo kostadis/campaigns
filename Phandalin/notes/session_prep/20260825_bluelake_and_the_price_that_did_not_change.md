@@ -8,6 +8,28 @@ Co-GM working doc. Not canon yet — staging for the session after ch48 ("Lathan
 
 ---
 
+> # ⚠ SUPERSEDED ON ONE POINT — LIM IS A HARPER (ruling, 2026-09-01)
+>
+> **This document says twice that Lim is not in on it. That is no longer true.**
+>
+> - line ~197 — *"She is not the mystery's author and she genuinely does not care about it."*
+> - line ~626 — *"Because she does not know. … Six years of not asking a question is not a conspiracy. It is a
+>   small business."*
+>
+> **Current ruling:** Lim is a **Harper**. The Board Laid Bare is a chapter front, the smuggled food is how she
+> gets her goods, and the operation exists to **fight Neverwinter food prices and subvert Margaster / the
+> Zhentarim.** Her low prices are not a mystery — they are the demonstration. The **ninth crate** keeps **Bimble**
+> alive, sanctioned, because the Harpers want to understand the Commission.
+>
+> **Nothing in this doc needs rewriting.** Every beat it stages as genuine ignorance plays *better* as tradecraft
+> — the wall she gives on price and supplier, the "ownerless" restaurant, six years of nobody asking. The Soma
+> beat especially: being *"handled like a customer for the first time in six years"* is not indifference, it is a
+> Harper refusing to compromise a friend by answering her.
+>
+> Full state: **`20260901_the_ninth_crate_outcome.md`.**
+
+---
+
 ## What I understood from the docs
 
 The party is in Neverwinter, one day past the dawn service. They have a name — **Bimble Nackle** — and nothing else: no location, no employer, and Cullen Sharpe genuinely does not know either (the DM confirmed he wasn't lying). Aurelan Vance confirmed the Commission calls the Manifold failure a maintenance issue, that **Neverember is its majority holder**, and that House Margaster is *not* on the Commission yet benefits most — the contradiction Brewbarry stated out loud and is now building a yarn board around. Soma's old haunt, **The Board Laid Bare**, is confirmed unvisited and ready. The Bluelake District is entirely unvisited and holds the Harpers who already know Bimble's name.

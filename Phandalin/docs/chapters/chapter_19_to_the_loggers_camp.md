@@ -38,7 +38,9 @@ We could still have the advantage if we approach quietly.
 
 And then I hear Brewbarry stumble through the woods. 
 
-I want to stuff my head in my shell and mutter, but I can’t. The orcs are here, and now whatever element of surprise we have has been lost. 
+I want to stuff my head in my shell and mutter, but I can’t. The orcs are S
+
+here, and now whatever element of surprise we have has been lost. 
 
 But perhaps not, the orc next to Brewbarry shouts, “You are a useless turd of a scout. Of all the scouts, I got one who got distracted by a bear\! I only took you because your mother is my mother’s best friend\! Why if it had been up to me…” 
 
@@ -185,7 +187,7 @@ Brewbarry turns to me, “Don’t worry, Vukradin. We will find him.”
 
 ## 19.10 Valphine 09-03-Taraskh 1495
 
-The orc is tied up. And he will cost us supplies, worry, and care. If this were Menzoberanzaan, I would sacrifice him to Lolth now. But Lathander disapproves of such sacrifice. 
+The orc is tied up. And he will cost us supplies, worry, and care. If this were Menzoberranzan, I would sacrifice him to Lolth now. But Lathander disapproves of such sacrifice. 
 
 Pity. 
 

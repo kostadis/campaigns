@@ -1,0 +1,528 @@
+{
+  "artifacts": [
+    {
+      "bytes": 3497,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage0_gmassist.sources.yaml",
+      "sha256": "8e36dff5d1d3ba7d5945785b2ef563131911f0265d3fe782a2439ccb029f3bb4"
+    },
+    {
+      "bytes": 4302,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage1_enhanced.sources.yaml",
+      "sha256": "a0be6f19edb9656a8644a3430df9206059b084d42e6fe085d6612940ed8adbc0"
+    },
+    {
+      "bytes": 7161,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scenes.sources.yaml",
+      "sha256": "07d6e98bd67d609993abcbc87b70f9b4fdfdd2e582a39596c61d558776602ad8"
+    },
+    {
+      "bytes": 2553,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "plan",
+      "path": "narration/plan.md",
+      "sha256": "fa74ee447ac7ae593fac3a9f2600b3c742d94b9e8813ad1e84be64259501d49a"
+    },
+    {
+      "bytes": 8492,
+      "kind": "scrub_manifest",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/scrub_manifest_20260825.md",
+      "sha256": "05f13ee7a32231c32b1c01f7623ca9c6cc465ad81f1d6ab0a20da4276467f4f2"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_01_a_banker_s_revelation.knobs",
+      "path": "narration/session_doc_scene_01_a_banker_s_revelation.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 5938,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_01_a_banker_s_revelation",
+      "path": "narration/session_doc_scene_01_a_banker_s_revelation.md",
+      "sha256": "7e5c96b603a37af605da59a328de46300932896a1493a9566e7953c623967249"
+    },
+    {
+      "bytes": 6201,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_01_a_banker_s_revelation.scrubbed",
+      "path": "narration/session_doc_scene_01_a_banker_s_revelation.scrubbed.md",
+      "sha256": "01e71ce237e7e12c4aafe15b03d4559ce85d76f5607eab3e522c56c70d5b499f"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_02_the_skeletal_horse_sighting.knobs",
+      "path": "narration/session_doc_scene_02_the_skeletal_horse_sighting.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 4165,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_02_the_skeletal_horse_sighting",
+      "path": "narration/session_doc_scene_02_the_skeletal_horse_sighting.md",
+      "sha256": "999ca3c8bd39c23294f5952550a939e8f6bcd780d7d19c0f1188ec142d7059d6"
+    },
+    {
+      "bytes": 4186,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_02_the_skeletal_horse_sighting.scrubbed",
+      "path": "narration/session_doc_scene_02_the_skeletal_horse_sighting.scrubbed.md",
+      "sha256": "e43d5c52657a14cd57e099e4f65fa74ddafa24f6bd00c11d1a1ff600379a394e"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_03_arrival_at_the_board_laid_bare.knobs",
+      "path": "narration/session_doc_scene_03_arrival_at_the_board_laid_bare.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 7579,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_03_arrival_at_the_board_laid_bare",
+      "path": "narration/session_doc_scene_03_arrival_at_the_board_laid_bare.md",
+      "sha256": "7e73179393952d84c2916bd2e502b0bdd0a9acc6cbeb3419e994b3dea745e2a3"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_04_dining_with_lim_and_interrogating_bellows.knobs",
+      "path": "narration/session_doc_scene_04_dining_with_lim_and_interrogating_bellows.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 7208,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_04_dining_with_lim_and_interrogating_bellows",
+      "path": "narration/session_doc_scene_04_dining_with_lim_and_interrogating_bellows.md",
+      "sha256": "7de7f40407866e75ee40820ea38b932b6d440b3a182f9b5cda6fbc92d593d09c"
+    },
+    {
+      "bytes": 7228,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_04_dining_with_lim_and_interrogating_bellows.scrubbed",
+      "path": "narration/session_doc_scene_04_dining_with_lim_and_interrogating_bellows.scrubbed.md",
+      "sha256": "8359ffa33324e7823924e4a0504731f017ff911b540cc6db6ca79443c6bd8653"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_05_lim_s_secret_supplier.knobs",
+      "path": "narration/session_doc_scene_05_lim_s_secret_supplier.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 7749,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_05_lim_s_secret_supplier",
+      "path": "narration/session_doc_scene_05_lim_s_secret_supplier.md",
+      "sha256": "053d122e39528cd6e9279963a1605d2699b21e73fe57aaf0ce5a6b0f3f140c80"
+    },
+    {
+      "bytes": 7740,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_05_lim_s_secret_supplier.scrubbed",
+      "path": "narration/session_doc_scene_05_lim_s_secret_supplier.scrubbed.md",
+      "sha256": "a5bad3f044c1fbf5cf34baf08d9be0af26724732eb28299154a1d5d8f6037a07"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_06_planning_the_stakeout.knobs",
+      "path": "narration/session_doc_scene_06_planning_the_stakeout.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 8179,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_06_planning_the_stakeout",
+      "path": "narration/session_doc_scene_06_planning_the_stakeout.md",
+      "sha256": "009dd787e395f1c0f657b4c80a4df9714cc49eb3c6a3b7c9864d7325100bdd82"
+    },
+    {
+      "bytes": 8167,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_06_planning_the_stakeout.scrubbed",
+      "path": "narration/session_doc_scene_06_planning_the_stakeout.scrubbed.md",
+      "sha256": "fe33a6f0e520e1e695666ce804c3d74560fcc21a6759058f6b8391bfb318062c"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_07_wandering_the_blue_lake_district.knobs",
+      "path": "narration/session_doc_scene_07_wandering_the_blue_lake_district.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 5643,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_07_wandering_the_blue_lake_district",
+      "path": "narration/session_doc_scene_07_wandering_the_blue_lake_district.md",
+      "sha256": "cf16a43e1eb2d67f6b670fc0b187c536fa9fca9c2d7a734dbd69ddf857b856b6"
+    },
+    {
+      "bytes": 5586,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_07_wandering_the_blue_lake_district.scrubbed",
+      "path": "narration/session_doc_scene_07_wandering_the_blue_lake_district.scrubbed.md",
+      "sha256": "52b0caed70ae9f5fde066341e86a6da5130f9d662fc32da8762d4d8cd0dc7b00"
+    },
+    {
+      "bytes": 255,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_08_return_to_the_common_chord.knobs",
+      "path": "narration/session_doc_scene_08_return_to_the_common_chord.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 14071,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_08_return_to_the_common_chord",
+      "path": "narration/session_doc_scene_08_return_to_the_common_chord.md",
+      "sha256": "361d12efcee726c75590539c0cdf8a7932abc0ac18d0174d5d693024fabd71de"
+    },
+    {
+      "bytes": 14033,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "session_doc_scene_08_return_to_the_common_chord.scrubbed",
+      "path": "narration/session_doc_scene_08_return_to_the_common_chord.scrubbed.md",
+      "sha256": "5239b695dba80d10414e620aef2bfc01c11bd2fa1d722256de1b5a47696071b6"
+    },
+    {
+      "bytes": 9359,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_01_brewbarry",
+      "path": "narration/voice_critique_scene_01_brewbarry.md",
+      "sha256": "588092ce5cebaaec8327e77e5876376e4bdbf884bfd14b060bf3eef38e99b4b6"
+    },
+    {
+      "bytes": 2565,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_02_soma",
+      "path": "narration/voice_critique_scene_02_soma.md",
+      "sha256": "3bb649222a4dd574f0bb7233be538f675217200fb9fa340c7d68962641cbf937"
+    },
+    {
+      "bytes": 3816,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_03_vukradin",
+      "path": "narration/voice_critique_scene_03_vukradin.md",
+      "sha256": "872b19093ed04c3ea5d1258af1869fb858a64493ba0293920b03f2042c09d180"
+    },
+    {
+      "bytes": 4365,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_04_valphine",
+      "path": "narration/voice_critique_scene_04_valphine.md",
+      "sha256": "d3d3c6a2ad805a2d8d2ff1665ae1a77e56416e2fd1d4fc89ef204c176e1d7e1b"
+    },
+    {
+      "bytes": 3108,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_05_soma",
+      "path": "narration/voice_critique_scene_05_soma.md",
+      "sha256": "f94e88d10b069598daf8505f0ae3480dcb0ff0cf9fe6fc684e01efb5b65b0d13"
+    },
+    {
+      "bytes": 6902,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_06_valphine",
+      "path": "narration/voice_critique_scene_06_valphine.md",
+      "sha256": "7000180d5e0a35448fd80c4e2bf51f685a9ad6873e9635fe20a3842206330f55"
+    },
+    {
+      "bytes": 3995,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_07_brewbarry",
+      "path": "narration/voice_critique_scene_07_brewbarry.md",
+      "sha256": "ef7099f4992f74842791ce812e18899c9f94c829939f63a4ca3830959713413b"
+    },
+    {
+      "bytes": 5469,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_scene_08_vukradin",
+      "path": "narration/voice_critique_scene_08_vukradin.md",
+      "sha256": "348f7679f6e028e6017ccbebe08511675cf34368ff4c1f5311154ebcbea9ce4a"
+    },
+    {
+      "bytes": 23093,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_critique_summary",
+      "path": "narration/voice_critique_summary.md",
+      "sha256": "b091a3975742d07f12cd470cde07c3bb7f1435154735947cccdc32f959edc98f"
+    },
+    {
+      "bytes": 5823,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "voice_fixes_20260825",
+      "path": "narration/voice_fixes_20260825.md",
+      "sha256": "7a343a9fa29dcce6f0a95c302d413354f3eaf45e65538d67aab67970b7d1f76f"
+    },
+    {
+      "bytes": 10960,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "01_a_banker_s_revelation",
+      "path": "scene_extractions_new/01_a_banker_s_revelation.md",
+      "sha256": "673e4b88fe43eaa0f2dd14e5c42c75bfb4bd67f78d230fc4341f5097b0779b1f"
+    },
+    {
+      "bytes": 5286,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "02_the_skeletal_horse_sighting",
+      "path": "scene_extractions_new/02_the_skeletal_horse_sighting.md",
+      "sha256": "699632b5c48e20b39c9170d72d9206dc46f147496dba8d9bb61c46f2f538d8c6"
+    },
+    {
+      "bytes": 9551,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "03_arrival_at_the_board_laid_bare",
+      "path": "scene_extractions_new/03_arrival_at_the_board_laid_bare.md",
+      "sha256": "138f0fb2fe444c4721b4436bad8794cb596f3308073fb0f69408b4aec4555678"
+    },
+    {
+      "bytes": 19118,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "04_dining_with_lim_and_interrogating_bellows",
+      "path": "scene_extractions_new/04_dining_with_lim_and_interrogating_bellows.md",
+      "sha256": "55d9dd5162b4fcc1110bde8fc7a1dd3ef2b373b5eead268b24156e216695ee82"
+    },
+    {
+      "bytes": 13045,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "05_lim_s_secret_supplier",
+      "path": "scene_extractions_new/05_lim_s_secret_supplier.md",
+      "sha256": "b03085e64c8f75f2fe4312b1ddfc045e2ed790d97971fa3b7522cd6fea6c3757"
+    },
+    {
+      "bytes": 9771,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "06_planning_the_stakeout",
+      "path": "scene_extractions_new/06_planning_the_stakeout.md",
+      "sha256": "d0a3a1d58c03352612d9ae684652d66caa2e126213dc72affa5f4ab2c124be13"
+    },
+    {
+      "bytes": 8942,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "07_wandering_the_blue_lake_district",
+      "path": "scene_extractions_new/07_wandering_the_blue_lake_district.md",
+      "sha256": "9e215f31e9905b878a189e3a7a8d65e75b610babdbb65ff7b301935aec30ab7d"
+    },
+    {
+      "bytes": 23563,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "08_return_to_the_common_cord",
+      "path": "scene_extractions_new/08_return_to_the_common_cord.md",
+      "sha256": "f714af8bdadf6110493a1b1adbc94da3105a51c5b9f19105fe84f63e4078129d"
+    },
+    {
+      "bytes": 53209,
+      "kind": "narration",
+      "layout": "extractions-new",
+      "narrator": "logs",
+      "path": "scene_extractions_new/logs/2026-08-27_210830_scene_extract_batched.md",
+      "sha256": "68d5e74b5fee0fb1f91f39552891e3c9ce4c6d8cb83c984b32d5da6a56782012"
+    },
+    {
+      "bytes": 10032,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "01_a_banker_s_revelation",
+      "path": "scene_extractions_smoothed/01_a_banker_s_revelation.md",
+      "sha256": "6b298c0696c09cc94d9967243d98b5317eb0232bb54d44099491d6734b75e18b"
+    },
+    {
+      "bytes": 5279,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "02_the_skeletal_horse_sighting",
+      "path": "scene_extractions_smoothed/02_the_skeletal_horse_sighting.md",
+      "sha256": "e858e62c93b8cf48cf61aeaa81356cfbf4afa92d4bd6f5c07f6e17a91313c227"
+    },
+    {
+      "bytes": 9431,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "03_arrival_at_the_board_laid_bare",
+      "path": "scene_extractions_smoothed/03_arrival_at_the_board_laid_bare.md",
+      "sha256": "e6203d0bec25462adf8fde337a326c51e139a0a7644ae186596eb895e5524014"
+    },
+    {
+      "bytes": 18450,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "04_dining_with_lim_and_interrogating_bellows",
+      "path": "scene_extractions_smoothed/04_dining_with_lim_and_interrogating_bellows.md",
+      "sha256": "5aff8c2f98f7002afc3b6c38ba1d5f5f3e22d495a1cf4ae05adc381202fb94d5"
+    },
+    {
+      "bytes": 12398,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "05_lim_s_secret_supplier",
+      "path": "scene_extractions_smoothed/05_lim_s_secret_supplier.md",
+      "sha256": "ff38be3b70dd5d211b8aef7b3bdf48a65abdcf61b39c98765aa697089d7096b3"
+    },
+    {
+      "bytes": 9423,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "06_planning_the_stakeout",
+      "path": "scene_extractions_smoothed/06_planning_the_stakeout.md",
+      "sha256": "e9ddbcff48323aed2991bf27abad0fbaef6a60752fb4de2900f8bec676bb4f68"
+    },
+    {
+      "bytes": 8317,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "07_wandering_the_blue_lake_district",
+      "path": "scene_extractions_smoothed/07_wandering_the_blue_lake_district.md",
+      "sha256": "69ec25be1edc760043f149705948928eb5713b60b5c343b10de03412e46e95f2"
+    },
+    {
+      "bytes": 22639,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "08_return_to_the_common_cord",
+      "path": "scene_extractions_smoothed/08_return_to_the_common_cord.md",
+      "sha256": "0ad1f00b1c67aa50ec295b6b601bfbb24bbc07d80b41fbcd624f1240050f4372"
+    }
+  ],
+  "campaign_id": "Phandalin",
+  "corpus_id": "53267ecff774ce5af21dc4c7ba49be0405544cbc312825dd35eca9ac862cca5e",
+  "iteration_id": "iter-001",
+  "layouts": [
+    "extractions-new",
+    "extractions-smoothed"
+  ],
+  "measurement_corpus": [
+    "narration/plan.md",
+    "narration/session_doc_scene_01_a_banker_s_revelation.knobs.json",
+    "narration/session_doc_scene_01_a_banker_s_revelation.md",
+    "narration/session_doc_scene_01_a_banker_s_revelation.scrubbed.md",
+    "narration/session_doc_scene_02_the_skeletal_horse_sighting.knobs.json",
+    "narration/session_doc_scene_02_the_skeletal_horse_sighting.md",
+    "narration/session_doc_scene_02_the_skeletal_horse_sighting.scrubbed.md",
+    "narration/session_doc_scene_03_arrival_at_the_board_laid_bare.knobs.json",
+    "narration/session_doc_scene_03_arrival_at_the_board_laid_bare.md",
+    "narration/session_doc_scene_04_dining_with_lim_and_interrogating_bellows.knobs.json",
+    "narration/session_doc_scene_04_dining_with_lim_and_interrogating_bellows.md",
+    "narration/session_doc_scene_04_dining_with_lim_and_interrogating_bellows.scrubbed.md",
+    "narration/session_doc_scene_05_lim_s_secret_supplier.knobs.json",
+    "narration/session_doc_scene_05_lim_s_secret_supplier.md",
+    "narration/session_doc_scene_05_lim_s_secret_supplier.scrubbed.md",
+    "narration/session_doc_scene_06_planning_the_stakeout.knobs.json",
+    "narration/session_doc_scene_06_planning_the_stakeout.md",
+    "narration/session_doc_scene_06_planning_the_stakeout.scrubbed.md",
+    "narration/session_doc_scene_07_wandering_the_blue_lake_district.knobs.json",
+    "narration/session_doc_scene_07_wandering_the_blue_lake_district.md",
+    "narration/session_doc_scene_07_wandering_the_blue_lake_district.scrubbed.md",
+    "narration/session_doc_scene_08_return_to_the_common_chord.knobs.json",
+    "narration/session_doc_scene_08_return_to_the_common_chord.md",
+    "narration/session_doc_scene_08_return_to_the_common_chord.scrubbed.md",
+    "narration/voice_critique_scene_01_brewbarry.md",
+    "narration/voice_critique_scene_02_soma.md",
+    "narration/voice_critique_scene_03_vukradin.md",
+    "narration/voice_critique_scene_04_valphine.md",
+    "narration/voice_critique_scene_05_soma.md",
+    "narration/voice_critique_scene_06_valphine.md",
+    "narration/voice_critique_scene_07_brewbarry.md",
+    "narration/voice_critique_scene_08_vukradin.md",
+    "narration/voice_critique_summary.md",
+    "narration/voice_fixes_20260825.md",
+    "scene_extractions_new/01_a_banker_s_revelation.md",
+    "scene_extractions_new/02_the_skeletal_horse_sighting.md",
+    "scene_extractions_new/03_arrival_at_the_board_laid_bare.md",
+    "scene_extractions_new/04_dining_with_lim_and_interrogating_bellows.md",
+    "scene_extractions_new/05_lim_s_secret_supplier.md",
+    "scene_extractions_new/06_planning_the_stakeout.md",
+    "scene_extractions_new/07_wandering_the_blue_lake_district.md",
+    "scene_extractions_new/08_return_to_the_common_cord.md",
+    "scene_extractions_new/logs/2026-08-27_210830_scene_extract_batched.md",
+    "scene_extractions_smoothed/01_a_banker_s_revelation.md",
+    "scene_extractions_smoothed/02_the_skeletal_horse_sighting.md",
+    "scene_extractions_smoothed/03_arrival_at_the_board_laid_bare.md",
+    "scene_extractions_smoothed/04_dining_with_lim_and_interrogating_bellows.md",
+    "scene_extractions_smoothed/05_lim_s_secret_supplier.md",
+    "scene_extractions_smoothed/06_planning_the_stakeout.md",
+    "scene_extractions_smoothed/07_wandering_the_blue_lake_district.md",
+    "scene_extractions_smoothed/08_return_to_the_common_cord.md"
+  ],
+  "missing": [
+    {
+      "kind": "critique",
+      "pattern": "critique",
+      "reason": "no allowlisted artifact found"
+    },
+    {
+      "kind": "scene_extraction",
+      "pattern": "scene_extraction",
+      "reason": "no allowlisted artifact found"
+    },
+    {
+      "kind": "gm_assist",
+      "pattern": "gm_assist",
+      "reason": "no allowlisted artifact found"
+    },
+    {
+      "kind": "generation_settings",
+      "pattern": "generation_settings",
+      "reason": "no allowlisted artifact found"
+    }
+  ],
+  "schema_version": 1,
+  "session_relative": "summaries/20260825"
+}

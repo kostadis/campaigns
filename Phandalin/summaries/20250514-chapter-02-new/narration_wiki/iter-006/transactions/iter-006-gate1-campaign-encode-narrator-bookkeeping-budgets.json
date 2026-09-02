@@ -1,0 +1,56 @@
+{
+  "next_action": "none",
+  "operation": "gate1_campaign",
+  "preconditions": [
+    {
+      "path": "gate1.json",
+      "sha256": "aab0203db81e5c0a66162a96872afa0d1d2b469bddb3a8077c4f9048060569db"
+    },
+    {
+      "path": "campaign/wiki/patterns/encode-narrator-bookkeeping-budgets.md",
+      "sha256": null
+    },
+    {
+      "path": "campaign/wiki/index.md",
+      "sha256": "c9f062b3a1f41244acc62947fa0bd421606c95c25eea74131ab7c723a2aef4f6"
+    },
+    {
+      "path": "campaign/wiki/logs.md",
+      "sha256": "f97a1e48fb9329479f13923e15692b93ddc70714405aa89ffb3ae3270a5525eb"
+    },
+    {
+      "path": "iteration.json",
+      "sha256": "fe8a36ff0c7b3125950f5cdf682dad5f90761bfa890b741251cb6b52e6b69515"
+    }
+  ],
+  "schema_version": 1,
+  "state": "committed",
+  "transaction_id": "iter-006-gate1-campaign-encode-narrator-bookkeeping-budgets",
+  "writes": [
+    {
+      "after_sha256": "ea337e47892b15ad56e555b9980c5ceb0513e534a7567f165c863771ffefc31a",
+      "before_sha256": "aab0203db81e5c0a66162a96872afa0d1d2b469bddb3a8077c4f9048060569db",
+      "path": "gate1.json"
+    },
+    {
+      "after_sha256": "3b33f59de9f3f7265e0f3b20921fa9a26e8473cfd681583ee0699b441ddf52bf",
+      "before_sha256": null,
+      "path": "campaign/wiki/patterns/encode-narrator-bookkeeping-budgets.md"
+    },
+    {
+      "after_sha256": "66cffec61f47cb1c5dbe83096ed060b1e87eb5bef1d33635da01872365e4a848",
+      "before_sha256": "c9f062b3a1f41244acc62947fa0bd421606c95c25eea74131ab7c723a2aef4f6",
+      "path": "campaign/wiki/index.md"
+    },
+    {
+      "after_sha256": "4f1e49dd0a5ad6fb0156f36ec979c33a0deed96a7b7299ac4df2d32e8b33705f",
+      "before_sha256": "f97a1e48fb9329479f13923e15692b93ddc70714405aa89ffb3ae3270a5525eb",
+      "path": "campaign/wiki/logs.md"
+    },
+    {
+      "after_sha256": "d49a9832e4ae97efcdd5aeca70406c943f573572dc3372589470e796f2e0745d",
+      "before_sha256": "fe8a36ff0c7b3125950f5cdf682dad5f90761bfa890b741251cb6b52e6b69515",
+      "path": "iteration.json"
+    }
+  ]
+}

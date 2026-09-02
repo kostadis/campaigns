@@ -1,0 +1,6 @@
+# Narration Wiki
+
+<!-- narration-wiki:index tier=campaign -->
+
+- [Cap cross-narrator epigrammatic closers](patterns/cap-cross-narrator-epigrams.md) — **Problem:** Abstract, balanced sentences repeatedly close paragraphs across several Phandalin POV voices, making otherwise distinct narrators share the same essay-like cadence. **Root cause:** The guidance distinguishes vocabulary and sentence rhythm by character but gives no corpus-level budget for thesis-like closers, so a model-wide rhetorical habit can pass… **Fix:** Audit paragraph closers across the whole session and keep only those produced by a narrator's defined reasoning style. For this campaign, cap the move…
+- [Encode narrator-specific bookkeeping budgets](patterns/encode-narrator-bookkeeping-budgets.md) — **Problem:** Ledger, filing, cataloguing, and auditing language crossed from Vukradin's argumentative voice into Valphine's POV, blurring two narrator lenses while the mechanical bookkeeping check remained… **Root cause:** The prose rulebook names character vocabularies but has no structured `voice_lint` configuration that converts those distinctions into narrator-specific bookkeeping and filing limits. **Fix:** Add a structured campaign lint block that permits a narrow bookkeeping budget for Vukradin and sets zero or stricter budgets for narrators whose lenses…
