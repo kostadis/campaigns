@@ -1,16 +1,78 @@
 # The Ninth Crate
 
-Co-GM working doc. Not canon yet — staging for the session after ch49 ("The Price That Did Not Change", 2026-08-25).
+Co-GM working doc. Not canon yet — staging for the session after **Chapter 50, "The Broads of the Common Chord and the Board Laid Bare"** (2026-08-25).
+**Party:** level 7 — Vukradin (Bard, Dave), Soma (Druid, Wade), Valphine (Cleric, Gary), Brewbarry (Barbarian, Stéphane — Gary covers if absent). **Boney** is GM-run.
+**Register:** Underground procedural. Heist staging, a monster-movie middle, and an anticlimax for a climax — they go down hunting a conspiracy and find a frightened contractor who has been holding a door alone for seven tendays.
+
+> **Scope.** Opens at the **Common Chord**, killing time before the third hour. Closes at the **lower docks at dawn**, on Sridar's offer for the manual. Intended order is Scenes 1→8 and they chain tightly; the only sanctioned skip is the homunculus shortcut in Scene 2.
+>
+> **Do not pull forward:** the Neverember dinner, the tear expedition, Aletra on screen, Ruling 11 (Zeleen's dividend / Margaster's forged paper), Grundar as a cameo, or the Harpers' 3A door unless the party goes and knocks on it.
 
 **Supersedes the first cut of this file.** That draft used chuuls and a placed ward. Both are gone: the monsters are **Rift Weavers**, the aversion at the bend is **planar bleed**, and there is now a third party in the tunnel.
 
 **Shape agreed at prep:** They go down. **Bimble is found this session** — that overrides the 0825 doc's "not found in any branch," which was written for a session that has now happened. The Dead Rats **negotiate**. The combat is Rift Weavers. **Sridar's drow cell is following the party**, because the party is loud and the drow have worked out that this is exactly the sort of group that finds people.
 
-**Party:** Vukradin (Bard 7 — Dimension Door, Polymorph, Greater Invisibility, Boots of Elvenkind, **the obsidian sword**), Soma (Druid 7 — Moonbeam, Fount of Moonlight, Conjure Animals, CR 2 wild shape), Valphine (Cleric 7, White Dragon Plate +1, AC 22, Spirit Guardians, Daylight, Sacred Flame), Brewbarry (Barbarian 7, elven chain, Dragon Slayer Sword, 15 ft reach raging). Boney.
+**Kit that matters tonight:** Vukradin — Dimension Door, Polymorph, Greater Invisibility, Boots of Elvenkind, **the obsidian sword**. Soma — Moonbeam, Fount of Moonlight, Conjure Animals, CR 2 wild shape, **Meril's Staff**. Valphine — White Dragon Plate +1 (AC 22), Spirit Guardians, Daylight, Sacred Flame. Brewbarry — elven chain, Dragon Slayer Sword, 15 ft reach raging.
 
 ---
 
-## What I understood
+## How to read this doc — provenance legend
+
+| Tag | Means | Trust |
+|---|---|---|
+| `[MODULE]` | Published Neverwinter material, cited to `docs/NeverwinterExpansionismandtheNorth.md` or the background inventory | Canon |
+| `[TABLE]` | Already played, or a locked ruling — cite the chapter | Canon |
+| `[OVERLAY]` | **Mine.** Invention, staging, statting, connective tissue, recommendations | **Cuttable — nothing downstream breaks** |
+
+**Tiebreak: if an overlay item and a module or table item disagree, the module or the table wins and the overlay is what I got wrong.** The Rift Weavers' behaviour at Axeholm (ch27) and Sridar's ch17 conduct are the two places this doc leans hardest on played history — if your memory of either differs from what is written here, your memory is the authority.
+
+**The load-bearing overlay, stated plainly so you can cut it in one decision:** the Rift-Weavers-as-antivirus reading, Bimble's artificer build, Anomaly Fixation, the drow tail, and everything under *What actually happened*. All of it is invention. The session still runs without any of it — you would have a smuggling route, a wererat toll, a monster fight and a missing gnome, which is a session.
+
+---
+
+## THE CAST — everyone who can walk on tonight
+
+**Module-supplied first. These are the ones that arrive without being anybody's plot.**
+
+| Who | What they are | Why they are here tonight | Tag |
+|---|---|---|---|
+| **Rsolk** | One-eyed wererat, leader of the **Dead Rats** | **Arrives automatically in Scene 4** — somebody got past the bend, and in six years that has not happened. He does not need a reason from the party. | `[MODULE]` — Dead Rats/Bluelake sewers |
+| **Dead Rats** (4–6 on screen) | Wererat gang, Bluelake sewers | Rsolk's escort. Have pulled out of the lower tunnels and will say so. | `[MODULE]` |
+| **Bimble Nackle** | Gnome, **Artificer 7 (Artillerist)** | The objective. Found this session, in the lower-docks storeroom. Party knows the name, the eleven-year maintenance roll and the seven-tenday payment stop from ch50. | `[TABLE]` name + facts / `[OVERLAY]` class build |
+| **Bimble's homunculus** | Brass-and-leather, cat-sized | Collects the ninth crate in Scene 2. Optional shortcut past the fight if followed. | `[OVERLAY]` |
+| **Six Rift Weavers** | Reality's antibodies | At the junction. Six exactly, matching Axeholm. | `[TABLE]` ch27 / `[OVERLAY]` antivirus reading |
+| **Sridar** | Drow artefact collector | Closes the session with an offer for the manual. Party had dinner with her at Falcon's Lodge, **ch17** — sold her an eyewitness account for 30 gp, agreed the Talisman of Moesko for 100 gp and three bottles of wine, **sale never confirmed complete**. | `[TABLE]` ch17 |
+| **Sridar's cell** (3 drow) | Aletra's field team | Following the party from Scene 2. Do not fight unless it goes loud. | `[OVERLAY]` |
+| **Boney** | Sentient skeletal horse | GM-run. Does not breathe — relevant in a flooding chamber. | `[TABLE]` |
+| **Two crate carriers** | Day labourers | Scene 2. Know the hour and the count and nothing else. One looks back down the tunnel. | `[OVERLAY]` |
+| **A local at the Common Chord bar** | Nobody | Supplies the tide, bored and unprompted. Also notes the Chord is unaffordable now, and that this is Vukradin's doing. | `[OVERLAY]` |
+| **Lim** | Tortle chef, proprietor of the **Board Laid Bare** | Only if the party goes back to her. She ordered eight crates and raised the ninth twice. Soma's connection. | `[TABLE]` ch50 |
+| **Bellows** | Warforged host, Board Laid Bare | Same — only if they return. Did not know the name Bimble. | `[TABLE]` ch50 |
+
+**Named tonight but must not appear** — say the name, do not produce the person: **Aletra Sotorra** (offstage all session; Sridar never says her name), **Zeleen Varnaster** (Rsolk's half-beat only), **Grundar Quartzvein** (chalk marks at most), **Aurelan Vance** of the Counting House (ch50), **Lord Neverember and Aldus** (the dinner is not tonight), **Kessa Vaun / Hazel / Horst / the Harpers** (unspent Bluelake threads from the 0825 doc).
+
+**Spoken about inside scenes, so have the answer ready:** **Elara Meliamne** — dead, and Bimble unknowingly explains what she saw him doing at the docks (Scene 7, item 3). **The Carver** — invoked only if you take the obsidian-sword fixation (Scene 5); the sword is on Vukradin's belt and its ownership has been unresolved since ch35. **Brundar**, **Rimardo and Corrin**, **Miraal** and **Cryovain** appear in the forward-arc sections at the end of this doc and **nowhere in tonight's play** — do not let them leak into a scene.
+
+---
+
+## ALREADY IN MOTION — running whether or not the party touches it
+
+| What | Where it stands tonight | Tag |
+|---|---|---|
+| **The tide** | Turns twice a day. The tunnel is walkable at the turn and only at the turn — *"if you're not out by the turn you're not out."* Advertised free at the Common Chord in Scene 1, collected at the junction in Scene 5 where the water rises a foot a round for six rounds. | `[OVERLAY]` |
+| **Sridar's cell, tailing** | Behind the party from Scene 2 onward. Stuck at the bend for five tendays — four elites cannot fight a tunnel full of weavers. **Tonight the party clears it for them.** This is Aletra's ch27 play run a second time. | `[OVERLAY]` |
+| **The tear, widening** | Stopped, not destroyed. Two years run hot, then **seven tendays with nobody running the tuning routine.** Weaver pressure has been climbing the whole time and is not level. | `[OVERLAY]` |
+| **The nightly ninth crate** | Arrives at the third hour. Someone unknown pays for it. **If the party loses the tide window, Bimble sees them coming at dawn and moves** — next session opens on a cold room. | `[TABLE]` ch50 count / `[OVERLAY]` feeder |
+| **Bimble's fear of being blamed** | Doing as much work as the drow are. Nine years of maintenance logs, a machine that stopped on his watch, and a Commission that told the city its technician "found nothing." | `[OVERLAY]` |
+| **Grundar Quartzvein, working the tear** | Months of careful survey chalk at the junction. Not present, no cameo — **evidence only, and nobody in the session can read it.** A KP-thinned nexus is the door to the Demonweb Pits he has been looking for. | `[TABLE]` Brundar's Echo (0) / `[OVERLAY]` the tear as his site |
+| **The Neverember dinner** | **Slid twice** — deferred on screen in ch47 and again in ch48, Aldus promising both times. A third slide needs a reason on screen. | `[TABLE]` |
+| **The Commission's public line** | "The technician found nothing." Bimble is the person whose name is on the tenday sheets. | `[TABLE]` |
+| **Harpers door 3A** | Unopened, unspent. Hiding Bimble is the strongest reason yet to go knock — and it inverts the scene, because the party arrives with something to trade. | `[OVERLAY]` |
+| **House Margaster's overland route** | Gains permanently and enormously if the Manifold ever dies. Not visible tonight; it is the bill for Scene-3-of-next-session. | `[TABLE]` |
+
+---
+
+## What I understood  `[TABLE]` where ch50 left them · `[OVERLAY]` everything you gave me at prep
 
 They ate at the Board Laid Bare, got the crate count, and are killing time at **the Common Chord** waiting on the third hour. The plan is to watch and follow. They crossed the Bluelake bridge and engaged with nothing — **Harpers, Kessa, Hazel and Horst are all unspent.**
 
@@ -27,7 +89,7 @@ New from you, and it reorganises the whole session:
 
 ---
 
-## The three forces in this tunnel (read this before anything else)
+## The three forces in this tunnel (read this before anything else)  `[OVERLAY]`
 
 Everything below is arrangement. This is the actual design.
 
@@ -47,7 +109,7 @@ Ch27 reads correctly under this and better: the weavers were at Axeholm **becaus
 
 ---
 
-## What actually happened (GM-only, and it stays GM-only all session)
+## What actually happened (GM-only, and it stays GM-only all session)  `[OVERLAY]` — the whole answer is invention
 
 > **The Commission was running the Manifold hot.** Throughput above what the machine could carry without tearing, for about two years, which is why Bimble's tuning routine kept failing sooner and why the weaver pressure has been building since long before the shutdown.
 >
@@ -65,7 +127,7 @@ Ch27 reads correctly under this and better: the weavers were at Axeholm **becaus
 
 ---
 
-## The Win Condition
+## The Win Condition  `[OVERLAY]`
 
 **The party finds Bimble, comes out with the manual, and understands that the machine did not break — it refused.**
 
@@ -79,7 +141,7 @@ Three things true at the end:
 
 ---
 
-## The Default Trajectory (if the party does nothing)
+## The Default Trajectory (if the party does nothing)  `[OVERLAY]`
 
 - **The weaver count keeps climbing.** Nobody is tuning anything. In another two tendays they are above the aqueduct and into cellars in the Tower District, and the city starts calling it something else.
 - **The drow eventually get through** — with more people, or by paying the Dead Rats, or by waiting for the weavers to find Bimble first. Then the manual burns and the KP link is gone permanently.
@@ -89,7 +151,7 @@ Three things true at the end:
 
 ---
 
-## The Clever Play
+## The Clever Play  `[OVERLAY]`
 
 1. **Bring fire and radiant.** They already know: at Axeholm, Soma's flaming sphere routed them and burned the webs, and Valphine's radiant made one recoil violently. **Soma has Moonbeam and Fount of Moonlight. Valphine has Sacred Flame, Daylight and Spirit Guardians.** This party is built to beat these things and does not know it yet.
 2. **Send Boney or a wild-shaped Soma first.** One does not breathe.
@@ -100,7 +162,7 @@ Three things true at the end:
 
 ---
 
-# Scene 1 — The Common Chord (ten minutes, free)
+## Scene 1 — The Common Chord (ten minutes, free)  `[TABLE]` the venue and Vukradin's history with it · `[OVERLAY]` the tide, the bar local
 
 The dive that used to let Vukradin play and throw him out unpaid is now the hardest ticket in the city because of his name. In ch45 he offered an autograph for a table and **could not get one.** Tonight he can.
 
@@ -112,7 +174,7 @@ Let one local note, pleasantly, that the Chord is unaffordable now and that this
 
 ---
 
-# Scene 2 — The Third Hour
+## Scene 2 — The Third Hour  `[TABLE]` third hour, nine crates, eight used (ch50) · `[OVERLAY]` the grille, the carriers, the homunculus
 
 Aqueduct steps at the edge of the service lane. Wet stone, cold for summer, the city's noise a street away and then not.
 
@@ -134,7 +196,7 @@ The grille is mortared, re-mortared, then **cut and re-hung on its own hinges by
 
 ---
 
-# Scene 3 — The Bend (why nobody has ever robbed this route)
+## Scene 3 — The Bend (why nobody has ever robbed this route)  `[OVERLAY]` — entirely mine, including the save DC
 
 Past the first bend the tunnel does something to the inside of the skull. Not fear. **Disinterest** — a calm, entirely reasonable certainty that this is not worth doing and there is somewhere better to be.
 
@@ -148,7 +210,7 @@ Past the first bend the tunnel does something to the inside of the skull. Not fe
 
 ---
 
-# Scene 4 — Rsolk and the Dead Rats (negotiation, not combat)
+## Scene 4 — Rsolk and the Dead Rats (negotiation, not combat)  `[MODULE]` Rsolk and the gang · `[TABLE]` the Zeleen credential · `[OVERLAY]` what he trades
 
 **They come because somebody got past the bend.** In six years that has not happened.
 
@@ -169,7 +231,7 @@ Play him as the 0825 doc has him. He does not care about the Manifold, Margaster
 
 ---
 
-# Scene 5 — The Junction (the fight)
+## Scene 5 — The Junction (the fight)  `[TABLE]` weaver traits and the count of six (ch27) · `[OVERLAY]` the chamber, the stat chassis, Anomaly Fixation
 
 **Where:** a wide brick chamber, barrel-vaulted, the old overflow meeting the maintenance tunnel. A ledge along the north wall. Standing water across the floor. **A previous night's ninth crate sits on the ledge, unopened** — which is how they know they are on the line, and why they stand and fight instead of running past.
 
@@ -215,7 +277,7 @@ Nobody dies here. If it goes badly they are **pushed back and lose the tide wind
 
 ---
 
-# Scene 6 — The Lower Docks
+## Scene 6 — The Lower Docks  `[OVERLAY]` — the storeroom, the approach evidence, first contact
 
 Out at the water. Piles, tar, a tide line, harbour noise starting. Behind a stack of fish crates, **a dry storeroom with a door re-hung on good hinges by the same competent hand as the grille.**
 
@@ -229,7 +291,7 @@ He has heard about the sermon. Everyone has. **The most famous people in Neverwi
 
 ---
 
-## Bimble Nackle — Artificer 7
+### Bimble Nackle — Artificer 7  `[TABLE]` name and employment facts (ch50) · `[OVERLAY]` the build
 
 **He is not a hostage and he is not a bystander. He is a working professional who has been holding a defensive line alone for seven tendays, and the reason he is alive is that he is good at his job.**
 
@@ -241,7 +303,7 @@ He has heard about the sermon. Everyone has. **The most famous people in Neverwi
 - **Infusions.** Enhanced Defence on a workman's coat, a Bag of Holding, and — recommended — a **Homunculus Servant.** See below, it solves a logistics question for free.
 - **Spells:** 2nd level max at this tier. *Mending, Fire Bolt, Faerie Fire, Sanctuary, Web, Heat Metal, Alarm, Enhance Ability.* He casts them like a man reading a procedure, because that is what they are to him.
 
-### He thinks everyone wants him dead, and he is nearly right
+#### He thinks everyone wants him dead, and he is nearly right
 
 The Commission wants a name to blame. The drow want the manual. He does not know how many groups there are and has stopped trying to count. **Seven tendays alone with a cannon and a door has not improved his estimate.**
 
@@ -249,7 +311,7 @@ The Commission wants a name to blame. The drow want the manual. He does not know
 >
 > Somebody has to talk him down. **Valphine's unsettled lie-detection is genuinely useful here and so is Vukradin simply telling him everything immediately**, which remains the only social technology that works on frightened people.
 
-### What the party sees before they see him
+#### What the party sees before they see him
 
 Stage the evidence in the approach and let them draw the wrong conclusion first:
 
@@ -259,7 +321,7 @@ Stage the evidence in the approach and let them draw the wrong conclusion first:
 
 **The party should conclude they are walking into something dangerous, and they will be right, and it will turn out to be a terrified maintenance contractor. That is the anticlimax landing correctly.**
 
-### Why he matters after this session
+#### Why he matters after this session
 
 **He is not a witness you bank and forget. He is the only living expert on this specific tear.**
 
@@ -267,7 +329,7 @@ Nine years of keeping its signature under a threshold means he knows its behavio
 
 That makes the tear expedition a genuine partnership rather than an escort mission, and it gives a frightened man a way to stop being a liability — **which is the only thing he wants that he has not said out loud.**
 
-### The Homunculus (recommended)
+#### The Homunculus (recommended)
 
 A small brass-and-leather thing, cat-sized, that goes up the tunnel and brings the crate down. **This is what comes for the ninth crate in Scene 2** — and it is the right answer to "who collects it," because it is unsettling in the moment and delightful in retrospect.
 
@@ -275,7 +337,7 @@ It does **not** answer who *pays* for the crate. Bimble does not know that eithe
 
 ---
 
-# Scene 7 — What Bimble Tells Them
+## Scene 7 — What Bimble Tells Them  `[OVERLAY]` — every line of the testimony is mine
 
 Fastidious and frightened. He corrects their vocabulary and **will not say "sabotage."** Let them ask for most of it.
 
@@ -349,7 +411,7 @@ The rewrite needed **sustained, unsupervised access to the housing over weeks.**
 
 ---
 
-# Scene 8 — Sridar (the close)
+## Scene 8 — Sridar (the close)  `[TABLE]` Sridar and the unfinished ch17 sale · `[OVERLAY]` the cell, the offer, the trap
 
 **She arrives after the fight and after the testimony, because that was always the plan.**
 
@@ -375,7 +437,7 @@ She does not threaten. She does not draw. **She makes an offer for the manual**,
 
 ---
 
-## Anticipated player questions
+## Anticipated player questions  `[OVERLAY]`
 
 - **"Is Bimble KP?"** → He has never heard the name and cannot react to it. **Zero tells.** No hesitation, no glance.
 - **"Is this the Axeholm machine?"** → Same class, same maker's notation, not the same device. Confirm it freely — they earned it.
@@ -388,7 +450,7 @@ She does not threaten. She does not draw. **She makes an offer for the manual**,
 
 ---
 
-## Stage directions
+## Stage directions  `[OVERLAY]`
 
 - **The anticlimax needs air.** When the door opens on a small tidy frightened man, one line and stop.
 - **Bimble is not brave. He is equipped.** Hold the distinction — it is the whole character. He is frightened the entire time, he never volunteers for anything, and he is also a level-7 artificer who has been killing reality's antibodies at his own door for seven tendays because that was the alternative to dying. **Competence is not courage** and he would be baffled to hear otherwise.
@@ -398,7 +460,7 @@ She does not threaten. She does not draw. **She makes an offer for the manual**,
 
 ---
 
-## Guardrails
+## Guardrails  `[OVERLAY]` — but Ruling 11 and the Sridar no-kill are locked
 
 - **Bimble is not KP and never was.** He is a witness, not a lead. Nothing he says identifies anyone.
 - **Aletra does not appear.** Sridar does not name her, and if pressed on who she buys for she is vague and unbothered, exactly as she was at the Lodge.
@@ -412,7 +474,7 @@ She does not threaten. She does not draw. **She makes an offer for the manual**,
 
 ---
 
-## The Grundar tease — recommendation: hold it, and here is why that is the stronger play
+## The Grundar tease — recommendation: hold it, and here is why that is the stronger play  `[TABLE]` Grundar, Brundar, the Echo tracker · `[OVERLAY]` the tear as his site
 
 **First, the species.** Not duergar — **svirfneblin.** Grundar Quartzvein leads a **deep gnome** rebellion, and the arc is his brother **Brundar**, whom **House Sotorra** tortured and consigned to the **Demonweb Pits**. Tracker: **Brundar's Echo**, currently 0. The party knows none of this and he is not on their radar at all.
 
@@ -444,7 +506,7 @@ So the tease writes itself later and much harder: the party is about to go extre
 
 ---
 
-## The arc this session is now feeding (agreed at prep, 2026-08-26)
+## The arc this session is now feeding (agreed at prep, 2026-08-26)  `[OVERLAY]` — proposal, not canon
 
 **The objective is not to repair the Manifold. It is to close the tear.**
 

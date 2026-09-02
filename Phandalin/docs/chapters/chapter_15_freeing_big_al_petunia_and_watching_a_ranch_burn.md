@@ -34,7 +34,7 @@ Vukradin demands to know how the Carver knew. He always thinks there are spies.
 
 Vukradin wants to know how the Carver is so well informed. Skippy is tempted to keep silent, but he looks at the blood on my claws and reconsiders. He tells us that one of Carver’s henchmen is Sister Kaella. She is the Spymaster and runs their spy network in Phandalin.
 
-We need to go quickly. But Vukradins wants to return the prisoner to Phandalin. 
+We need to go quickly. But Vukradin wants to return the prisoner to Phandalin. 
 
 This will take days of travel, and the Borg may lose patience. Vukradin is insistent; he will not allow this poor prisoner just to sit there defenseless. 
 
@@ -66,7 +66,7 @@ I quickly work the ropes.
 
 “Are you Big Al Kalazorn?” I whisper, untying the man.
 
-He is startled, but relieved. He is Alphonse “Big Al” Kalazorn, the man we were sent to find .
+He is startled, but relieved. He is Alfonse “Big Al” Kalazorn, the man we were sent to find .
 
 “You have a… there's more of you?” he asks, relieved .
 

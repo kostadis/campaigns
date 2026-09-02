@@ -24,11 +24,11 @@ Harbin, who is standing near me, interjects with a slight tremor in his voice, �
 
 He then turns to Ser Kaelen with a hint of steel in his voice, “His Lordship appoints the position of the Town Master, and his Lordship has the privilege and only he has the privilege of replacing me.” 
 
-I can’t believe what I am hearing, “No democracy in Phandolin, that’s an outrage\! Absurd\!” 
+I can’t believe what I am hearing, “No democracy in Phandalin, that’s an outrage\! Absurd\!” 
 
 I feel the power of the people rising in me, “We need a revolution\!” 
 
-Ser Kaene looked pale and whispered, “Perhaps we should avoid the R word?” 
+Ser Kaelen looked pale and whispered, “Perhaps we should avoid the R word?” 
 
 My honor is besmirched. “All I hear are rumors and innuendos that trash my good name\!” I point my finger at Harbin, “He is using blood money\!” 
 
@@ -58,7 +58,7 @@ Ser Kaelen looks at me and mutters, “A privy council that made the decisions f
 
 “No, we are going to have a town meeting. I will not have you shut me down,” I declare. 
 
-I march onto the town green and start playing my music. Soon, all of the local notables have arrived: Elmer, the owner of Barthen’s provisions, and his two clerks, Ander and Thistle, and  Halia Thornton, owner of the Miner’s Exchange, Linene, the manager of Lionshield Coster, Spiderman, and  Adabra. 
+I march onto the town green and start playing my music. Soon, all of the local notables have arrived: Elmar, the owner of Barthen’s provisions, and his two clerks, Ander and Thistle, and  Halia Thornton, owner of the Miner’s Exchange, Linene, the manager of Lionshield Coster, Spiderman, and  Adabra. 
 
 There are also many farmers and miners that we haven’t met. But the town isn’t that big, and once you get past 20 or so, there aren’t that many more. 
 
@@ -98,7 +98,7 @@ I hear a voice shout, “I wish to make an announcement.”
 
 Harbin is about to speak, and so help me. 
 
-But Harbin surprises me as he says, “The recent actions of Vukradin demonstrate the need for a more active and engaged community in our decision-making. Although it is not within my power to make him Townmaster, I do believe that after reviewing our charter, a new privy council consisting of myself, Toblen, Elmer, Halia, Linene, and Adabra, with our new hero Vukradin, will be just what we need in these perilous times\!” 
+But Harbin surprises me as he says, “The recent actions of Vukradin demonstrate the need for a more active and engaged community in our decision-making. Although it is not within my power to make him Townmaster, I do believe that after reviewing our charter, a new privy council consisting of myself, Toblen, Elmar, Halia, Linene, and Adabra, with our new hero Vukradin, will be just what we need in these perilous times\!” 
 
 I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can see that. He explains that if we were to do that, then Lord Neverember would see this as an attack on his authority and send troops to deal with us. Even if we were able to stop the troops, the harm to the town would be considerable. 
 
@@ -130,7 +130,7 @@ Locutus nods, and I show the head.
 
 And then, before I can react, she strikes down Locutus. Her first two strikes with her rapier miss, but her offhand dagger cuts the orc down where he stands. 
 
-I am ecstatic. This reminds me of the games I played with my sisters in Menzoberanzaan.  
+I am ecstatic. This reminds me of the games I played with my sisters in Menzoberranzan.  
 
 But then something happens that shocks me, “Now, Valphine, we can have a private conversation.” 
 
@@ -221,7 +221,7 @@ She smirks, “I am not one to judge. My role in life  is to make sure that th
 
 I know this kind, “To preserve your own interests?” 
 
-The woman is taken aback. “I should not be surprised to hear that from,” she pauses, “Uthgartian.” 
+The woman is taken aback. “I should not be surprised to hear that from,” she pauses, “Uthgardt.” 
 
 Her tone drips with contempt. Her eyes are full of hate as she tries hard to hide what she feels about people she calls, Barbarians. 
 
@@ -243,7 +243,7 @@ I look at her, “Hand over your weapons.”
 
 And she smiles and drops a rapier, a dagger, another dagger, and a hand-held crossbow on the table. 
 
-She then says in a soft, gentle tone, “ I am not here to commit acts of violence, Uthgartian; I am here to have a pleasant conversation with Vukradin.” 
+She then says in a soft, gentle tone, “ I am not here to commit acts of violence, Uthgardt; I am here to have a pleasant conversation with Vukradin.” 
 
 When I make a point about her weapons, she points at my halberd. I nod and bring the bard to the table.
 

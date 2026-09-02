@@ -10,7 +10,7 @@ The sun shines, the walk is long and Adabra feels the need to talk.
 
 “Harbin, bless his heart, wants this area cleared of monsters. And what is a monster to him?”
 
-I want to answer, but whereas Merill would let me think, Adabra has an answer to his question. 
+I want to answer, but whereas Meril would let me think, Adabra has an answer to his question. 
 
 “Anything that disrupts his idea of peace. The manticore, the orcs driven from their homes, they are merely acting as nature intends.” 
 
@@ -74,7 +74,7 @@ Vukradin sits down to play, and I ask if I could join him. He assents while remi
 
 I nod. 
 
-Vukradin’s music is a discordant mess. The brilliance is there, but it’s too complex for this audience. As I listen to it, I realize that the musical elements I've been working on to fuse Lathanderial Choral music and Prayers to Lolth, which I've called *Choralum Lux Maleficarum,* will be perfect. 
+Vukradin’s music is a discordant mess. The brilliance is there, but it’s too complex for this audience. As I listen to it, I realize that the musical elements I've been working on to fuse Lathanderian Choral music and Prayers to Lolth, which I've called *Choralum Lux Maleficarum,* will be perfect. 
 
 The rich, layered choral harmonies drenched in bright, resonant tones that evoke the warmth and hope of Lathander’s light, interwoven with sinuous melodic lines and subtle dissonances that hint at the enigmatic and sometimes unsettling nature of Lolth’s influence, balance out the complexity of Vukradin’s music. 
 
@@ -254,6 +254,6 @@ Vukradin stops. I can see him let the mud fall out, “Remove the curse? That’
 
 “Ser Kaelen might be able to help. Where is he?” 
 
-The Townmaster tellsChC us that he’s at Barthen’s Provisions, getting ready to leave town. 
+The Townmaster tells us that he’s at Barthen’s Provisions, getting ready to leave town. 
 
 Ser Kaelen is delighted to see us. He hears our story and says, “I am delighted to see you take this kind of initiative, Vukradin. But we don’t have very much intelligence about the curse. There are three possible explanations. The first requires a cleric. The second is that it’s some monster that is haunting the place. And the third, the most common, is that it’s just untrue rumors. From what you have said, I think it’s the second.”

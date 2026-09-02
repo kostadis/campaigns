@@ -8,6 +8,32 @@ Co-GM working doc. Not canon yet — staging for the session after **Chapter 50,
 >
 > **Do not pull forward:** the Neverember dinner, the tear expedition, Aletra on screen, Ruling 11 (Zeleen's dividend / Margaster's forged paper), Grundar as a cameo, or the Harpers' 3A door unless the party goes and knocks on it.
 
+---
+
+> # ⚠ PLAYED 2026-09-01 — READ THIS BEFORE RUNNING ANYTHING BELOW
+>
+> **Scenes 1–4 played and diverged. Scenes 5–8 did not play and are still runnable as written.**
+> **Bimble was not found.** Full record and state: **`20260901_the_ninth_crate_outcome.md`.**
+>
+> **What changed that this document does not say:**
+>
+> - **Open Decision 2 is CLOSED.** The Harpers keep Bimble alive **deliberately and sanctioned**, through
+>   **Lim's** food-delivery account, because they want to understand the Commission. They have never debriefed
+>   him because **the weavers block them** — they can only leave a crate for his homunculus.
+> - **Lim is a Harper** (ruling, 2026-09-01), and the smuggling exists to **fight food prices and subvert
+>   Margaster / the Zhentarim.** Her restaurant is the operation's public argument. This **contradicts the 0825
+>   doc** — see the warning at the top of that file.
+> - **The party found the Harper station**: Denvar → dead drop → **House of a Thousand Faces**. They Knocked the
+>   compartment and put a familiar in the back office. **They have tripped it** — decide the fallout.
+> - **Scene 4 is spent, and it was Rsolk himself.** Two of his five trade items landed. **The drow warning was
+>   withheld**, and that bill is still due at Scene 8.
+> - **The party is contracted to clear the junction.** Doing so unblocks the Dead Rats, the Harpers *and*
+>   Sridar's cell at once. Re-stage Scene 5 for a party arriving **on contract and braced**, not surprised.
+> - **Denvar, the chit format, the weekly settlement cycle and the two-way compartment are now `[TABLE]`**, not
+>   `[OVERLAY]`. They cannot be cut.
+
+---
+
 **Version note — v2.** Same session, same rulings, restructured to the current `gm-session-prep` shape: every scene now carries **Setup / Approach / Branches / NPC notes**, the spine (Win Condition → Default Trajectory → Clever Play) sits unbroken before Scene 1, and the forward-arc material has been moved behind the scenes so nothing after Scene 8 can be mistaken for tonight's play. **No content was cut and no ruling was changed.** v1 is `20260901_the_ninth_crate.md`.
 
 **Supersedes the first cut of this file.** That draft used chuuls and a placed ward. Both are gone: the monsters are **Rift Weavers**, the aversion at the bend is **planar bleed**, and there is now a third party in the tunnel.
@@ -166,7 +192,7 @@ Three things true at the end:
 
 ---
 
-## Scene 1 — The Common Chord (ten minutes, free)  `[TABLE]` the venue and Vukradin's history with it · `[OVERLAY]` the tide, the bar local
+## ✅ PLAYED · Scene 1 — The Common Chord (ten minutes, free)  `[TABLE]` the venue and Vukradin's history with it · `[OVERLAY]` the tide, the bar local
 
 ### Setup
 - **When:** evening, a couple of hours before the third hour. **Where:** the Common Chord, the Neverwinter dive that used to let Vukradin play and throw him out unpaid.
@@ -194,7 +220,7 @@ Nothing is lost mechanically; move the tide onto Rsolk in Scene 4 or onto a dock
 
 ---
 
-## Scene 2 — The Third Hour  `[TABLE]` third hour, nine crates, eight used (ch50) · `[OVERLAY]` the grille, the carriers, the homunculus
+## ✅ PLAYED · Scene 2 — The Third Hour  `[TABLE]` third hour, nine crates, eight used (ch50) · `[OVERLAY]` the grille, the carriers, the homunculus
 
 ### Setup
 - **When:** the third hour. **Where:** the aqueduct steps at the edge of a service lane. Wet stone, cold for summer, the city's noise a street away and then not.
@@ -230,7 +256,7 @@ The default and the expected line. Straight into Scene 3.
 
 ---
 
-## Scene 3 — The Bend (why nobody has ever robbed this route)  `[OVERLAY]` — entirely mine, including the save DC
+## ✅ PLAYED · Scene 3 — The Bend (why nobody has ever robbed this route)  `[OVERLAY]` — entirely mine, including the save DC
 
 ### Setup
 - **When:** minutes after Scene 2. **Where:** past the first bend in the maintenance tunnel.
@@ -260,7 +286,7 @@ None — deliberately. If the scene needs a voice, it is Soma's or Vukradin's, n
 
 ---
 
-## Scene 4 — Rsolk and the Dead Rats (negotiation, not combat)  `[MODULE]` Rsolk and the gang · `[TABLE]` the Zeleen credential · `[OVERLAY]` what he trades
+## ✅ PLAYED (solo, as Rsolk; drow warning withheld) · Scene 4 — Rsolk and the Dead Rats (negotiation, not combat)  `[MODULE]` Rsolk and the gang · `[TABLE]` the Zeleen credential · `[OVERLAY]` what he trades
 
 ### Setup
 - **When:** immediately after the bend. **Where:** the old maintenance tunnel, Dead Rats' ground.
@@ -610,7 +636,7 @@ Rewards anyone who took Rsolk's drow warning seriously. It does not change what 
 
 1. **What do the weavers fixate on?** My recommendation is **the obsidian sword** — it wakes a fourteen-chapter dormant thread, it subverts the Brewbarry assumption the table will definitely make, and it puts the bard in the swarm. Alternatives: Boney (he died and came back at a barrow), the Cryovain breath pouch, or Valphine's eyes — which would be the most alarming answer available and changes her arc rather than Vukradin's.
 
-2. **Who feeds Bimble?** Still open, and the drow angle raises the price of a small answer — someone has kept a man alive for seven tendays under the noses of a cell that is actively hunting him. **The Harpers is the strongest option** (it makes the unopened 3A door urgent and gives them their debut as a rival claimant to the witness). I have written the scene so the feeder is offstage and Bimble does not know, so you can decide after play.
+2. **Who feeds Bimble? — CLOSED 2026-09-01.** The **Harpers**, deliberately and sanctioned, through **Lim's** food-delivery account, because they want to understand the Commission. **Bimble is an asset, not a charity case.** They have never debriefed him because **they cannot reach him** — the weavers hold the junction, so for seven tendays the chapter has only been able to put a crate on a ledge for his homunculus. Keep the scene as written: **the feeder stays offstage and Bimble does not know who it is**, which makes *"You're not them"* literal. In-fiction the party has the operator (Harpers, House of a Thousand Faces) but not the payer — the chit's client reference is Lim's account and they can still get there themselves.
 
 3. **Was Bimble the technician whose report the Commission buried?** Both lines are written (Scene 7, *The ruling-dependent line*). Taking it puts Neverember's body in the frame before dinner.
 

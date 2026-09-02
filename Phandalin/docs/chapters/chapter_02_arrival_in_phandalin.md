@@ -8,7 +8,7 @@ title: Arrival in Phandalin
 
 Vukradin’s music was once again not earning coin. An artist is never appreciated in his time, and yet an artist must eat. 
 
-He stared at his audience in the First Flophouse in the Heapside. Other than the Brewbarry, the Uthgardian barbarian, no one was listening. 
+He stared at his audience in the First Flophouse in the Heapside. Other than the Brewbarry, the Uthgardt barbarian, no one was listening. 
 
 “How did I end up here? The only people who show up here are those who want the cheapest night and drink they can find.”
 
@@ -52,7 +52,7 @@ Vukradin smiles, “Yes.”
 
 Valphine saw the Aasimar walk out of the bar and decided to follow him. She is a drow and a follower of Lathander. She is a paradox. 
 
-The madness of the Underdark and the stories of Menzoberanzan's final fall led her to flee to the Overbrite. She had been told so many stories of the sun's evil, but when she saw it, it was a religious experience—something so powerful that it burned out the darkness that covered the skies. That was power. 
+The madness of the Underdark and the stories of Menzoberranzan's final fall led her to flee to the Overbrite. She had been told so many stories of the sun's evil, but when she saw it, it was a religious experience—something so powerful that it burned out the darkness that covered the skies. That was power. 
 
 She stumbled on a cleric of Lathander who told her of the Morning God’s power, and she became a devoted follower of the god. 
 

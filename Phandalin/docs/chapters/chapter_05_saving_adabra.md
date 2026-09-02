@@ -254,7 +254,7 @@ The Aasimar sighs, “I would survey my customers and ask them to give me a scor
 
 I stare at him, aghast. He is a child. A naive babe that needs protecting.  
 
-But Adara seems delighted and exclaims, “How wonderful\! This is truly blessed music\! Aasamirs are truly touched by the Celestial planes.”
+But Adabra seems delighted and exclaims, “How wonderful\! This is truly blessed music\! Aasimars are truly touched by the Celestial planes.”
 
 And yet it doesn’t change her determination to stay. I wonder if I had had that determination, I would still be back home with my family. So I prepare to leave the windmill. 
 
@@ -310,7 +310,7 @@ Overbrighters make the best meals. It’s all because of Lathander’s glory\! T
 
 Soma was annoyed with Adabra. Her druidic master, Meril, had tried his best in his one year near her home. And it was his prompting that led her to follow Vukradin. Yes, there were gaps, but she didn’t have the time to train because she had so little time left. And to be reminded.
 
-After dinner,I sit and listen to Corbin’s tale of woe as he recounts it to me: “I wasn't born into this life. I was a farmer from a small, forgettable village called Greenmeadow, nestled in the plains east of the High Forest. My life was simple and good; I worked the land my father had worked, was married to a woman named Elara, and had a young daughter, Lily, who loved the wildflowers that grew at the edge of our fields.
+After dinner,I sit and listen to Corbin’s tale of woe as he recounts it to me: “I wasn't born into this life. I was a farmer from a small, forgettable village called Greenmeadow, nestled in the plains east of the High Forest. My life was simple and good; I worked the land my father had worked, was married to a woman named Elarah, and had a young daughter, Lily, who loved the wildflowers that grew at the edge of our fields.
 
 Then, the world shattered. The Ordning, which structured the giants' world, broke, and chaos swept across the North. The Giants became emboldened, and lawless destruction ensued. One smoke-filled afternoon, the Uthgardt barbarians of the Black Lion tribe descended on Greenmeadow. They weren't raiding for supplies; they were a storm of pure destruction, a wildfire in human form, proving their strength in a world gone mad.
 

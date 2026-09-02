@@ -240,7 +240,7 @@ I drop my halberd and shout, “Friends.”
 
 He looks at me, and I can tell that he has suffered at the hands of my people. 
 
-“I am so sorry that the Uthgardts hurt you. They were mean to me, too.” 
+“I am so sorry that the Uthgardt hurt you. They were mean to me, too.” 
 
 The man stares at me, a look of confusion on his face. He was expecting to die, not get an apology.  
 

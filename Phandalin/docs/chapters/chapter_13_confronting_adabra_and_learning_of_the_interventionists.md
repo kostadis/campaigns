@@ -32,7 +32,7 @@ I then look at Vukradin and think that the silver-tongued bard should talk to he
 
 And he manages to confuse her just enough for her to forget about any betrayal. 
 
-She asks about the Treant, and VUkradin smiles and says, “He’s in stable condition.” 
+She asks about the Treant, and Vukradin smiles and says, “He’s in stable condition.” 
 
 Adabra thinks he’s alive. I know he’s dead. But in stable condition, the condition of being dead. 
 
@@ -114,7 +114,7 @@ I look at her and say, “We didn’t intervene.”
 
 Adabra is pleased and hands me five conflict-free gold pieces. 
 
-She continues for some time in some kind of ecstasy, saying words that mean nothing, about planes, and designs, and universalism, and I am bored. Soma later on tells me that she was spouting nonsens that was meaningless. I try hard not to say, “Well, I already knew that.” 
+She continues for some time in some kind of ecstasy, saying words that mean nothing, about planes, and designs, and universalism, and I am bored. Soma later on tells me that she was spouting nonsense that was meaningless. I try hard not to say, “Well, I already knew that.” 
 
 ## 13.03 Valphine 01-03 Taraskh 1495
 
@@ -188,11 +188,11 @@ And she answers, “ Yes but they involve blood and death and torture.”
 
 But Thomas is not deterred. “Are you from the Underdark?” 
 
-Valphine nods, “Why yes, from Menzoberanzan.” 
+Valphine nods, “Why yes, from Menzoberranzan.” 
 
 “And a cleric of Lathander?”
 
-“Oh yes, he’s great. See, I came up here to the Overbright to escape a minor demon incursion that was in danger of leveling the city of Menzoberanzan. It seemed like a good idea to take some time off. And I came up here, and it was so bright\! The sun burned my eyes and I said wow, this is great\!” She pauses and has this weird look on her face where she stares up into the sun and has an expression of pure pain, “The glorious painful brilliance of his light. It’s fantastic. I plan to stay in the Overbright for a while.” 
+“Oh yes, he’s great. See, I came up here to the Overbright to escape a minor demon incursion that was in danger of leveling the city of Menzoberranzan. It seemed like a good idea to take some time off. And I came up here, and it was so bright\! The sun burned my eyes and I said wow, this is great\!” She pauses and has this weird look on her face where she stares up into the sun and has an expression of pure pain, “The glorious painful brilliance of his light. It’s fantastic. I plan to stay in the Overbright for a while.” 
 
 Marian, who is sitting next to me, asks, “Do you harm yourself and then use healing spells as if it was some kind of ritual?”  
 Now, I am curious. I have noticed how Valphine does this and have wondered about its significance. 
@@ -219,7 +219,7 @@ And then when she discovered the ritual, she came to us and said we should do it
 
 He drinks, “but we didn’t and almost died.”
 
-And with that, Thomas turns to Marian and they get up and leave. As they leave, Vukradins ask if they would like to join our group. For a moment, they consider it and then say, “Our oath binds us.”
+And with that, Thomas turns to Marian and they get up and leave. As they leave, Vukradin asks if they would like to join our group. For a moment, they consider it and then say, “Our oath binds us.”
 
 
 ## 13.05 Vukradin 01-03-Taraskh 1495

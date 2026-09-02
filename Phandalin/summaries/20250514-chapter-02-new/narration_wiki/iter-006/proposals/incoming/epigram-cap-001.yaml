@@ -1,0 +1,7 @@
+pattern_slugs:
+  - cap-cross-narrator-epigrams
+affected_rule: epigrammatic-closers
+target_kind: rulebook
+target_path: voice/_genre.md
+candidate: epigram-cap-001.candidate
+expected_before_sha256: 1f98c38a3938c298f57ecb50c05279812a70bc5632fbafd62be143cd6edc73d4

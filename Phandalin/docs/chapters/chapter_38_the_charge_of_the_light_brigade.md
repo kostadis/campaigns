@@ -157,7 +157,7 @@ I considered it. Freedom of worship is a thing Vukradin has explained to me. Val
 
 Jenna recovered. She turned to me.
 
-She started talking about how an Uthgardian barbarian who joined the Lord's Alliance and accepted the civilizing —
+She started talking about how an Uthgardt barbarian who joined the Lord's Alliance and accepted the civilizing —
 
 I let a very loud burp out.
 

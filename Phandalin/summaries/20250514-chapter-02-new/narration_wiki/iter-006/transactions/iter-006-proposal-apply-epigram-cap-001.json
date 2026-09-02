@@ -1,0 +1,29 @@
+{
+  "next_action": "none",
+  "operation": "proposal_apply",
+  "preconditions": [
+    {
+      "path": "campaign/voice/_genre.md",
+      "sha256": "1f98c38a3938c298f57ecb50c05279812a70bc5632fbafd62be143cd6edc73d4"
+    },
+    {
+      "path": "proposals/epigram-cap-001/proposal.json",
+      "sha256": "720f453e7132066a347612ef9e437ba82366b16adcebd65735c47f76d4d5ad8b"
+    }
+  ],
+  "schema_version": 1,
+  "state": "committed",
+  "transaction_id": "iter-006-proposal-apply-epigram-cap-001",
+  "writes": [
+    {
+      "after_sha256": "8d16207964e77f6ad791092248db830a3f325dea36380a243920032e149fbcaa",
+      "before_sha256": "1f98c38a3938c298f57ecb50c05279812a70bc5632fbafd62be143cd6edc73d4",
+      "path": "campaign/voice/_genre.md"
+    },
+    {
+      "after_sha256": "b3261cfb67a9e58cefc9369efdb051d95afb6f1fac5ca24775012a8b8526140d",
+      "before_sha256": "720f453e7132066a347612ef9e437ba82366b16adcebd65735c47f76d4d5ad8b",
+      "path": "proposals/epigram-cap-001/proposal.json"
+    }
+  ]
+}

@@ -6,7 +6,7 @@ title: Conflict-free gold, a curious side quest, and a delightful ambush.
 
 ## 07.01 Vukradin 03-02-Taraskh 1495
 
-And so we leave for the Tower of Storms. As we round a bend, we spot a small, overturned trade cart, partially obscured by thick undergrowth. Huddled nervously behind it are two figures – a middle-aged human merchant, Elara, and her groom, Jarek. They look visibly shaken and disheveled, their pack horses nowhere in sight.
+And so we leave for the Tower of Storms. As we round a bend, we spot a small, overturned trade cart, partially obscured by thick undergrowth. Huddled nervously behind it are two figures – a middle-aged human merchant, Ellarrah, and her groom, Jarek. They look visibly shaken and disheveled, their pack horses nowhere in sight.
 
 I approach, and they stare at me with wide eyes, terrified. I take a moment to reflect on our group. Approaching these poor innocents are an Aasimar, a Uthgardt Barbarian, a Drow, and a large Tortle, while the only human looks like a bandit and is wearing armor that he stole from a dead body. 
 
@@ -20,19 +20,19 @@ I want to scream, “Well, obviously\!”
 
 The woman looks at carefully, and asks, ‘Well who are you?”  
 
-And again before I can masterfully handle the situation, Valphine shouts, “Lathandar\!” 
+And again before I can masterfully handle the situation, Valphine shouts, “Lathander\!” 
 
 The woman looks confused and then mutters, “Oh ,Priestess\! The faith must be strong in you\!” 
 
-Valpine smiles and adopts that look that so many misunderstood of bliss, “He’s painful\!” 
+Valphine smiles and adopts that look that so many misunderstood of bliss, “He’s painful\!” 
 
 The old woman looks confused and mutters, “I have never heard that teaching…” 
 
-Calmed down, she says, “My name is Elara, and this is Jarek, my groom and we were heading towards Phandalin…” 
+Calmed down, she says, “My name is Ellarrah, and this is Jarek, my groom and we were heading towards Phandalin…” 
 
-Soma offers to mend the broken cart, and Elara accepts the offer. 
+Soma offers to mend the broken cart, and Ellarrah accepts the offer. 
 
-Elara, seeing all of the free help we are giving, asks if we could rescue one of her horses that had run down into a field. Brewbarry, ever the eager companion, rushes off to retrieve it. He's a brute, but a loyal one, especially when there’s a task involving strength or, in this case, a horse.
+Ellarrah, seeing all of the free help we are giving, asks if we could rescue one of her horses that had run down into a field. Brewbarry, ever the eager companion, rushes off to retrieve it. He's a brute, but a loyal one, especially when there’s a task involving strength or, in this case, a horse.
 
 As Brewbarry runs off, Jarek finally speaks, “I told you we should travel with some protection.” 
 
@@ -42,11 +42,11 @@ As for Jarek he also describes the eerie coordination of the attackers, and fini
 
 Valphine says it’s mindflayers, but I dismiss her because she always says it's mindflayers. 
 
-Upon Brewbarry's return with the horse, Elara is relieved. She thanks me for our timely assistance and offers a reward. I hold out my outstretched hand, but she reaches out to Valphine and says, “For the Morninglord and whomever you feel is worthy.” 
+Upon Brewbarry's return with the horse, Ellarrah is relieved. She thanks me for our timely assistance and offers a reward. I hold out my outstretched hand, but she reaches out to Valphine and says, “For the Morninglord and whomever you feel is worthy.” 
 
 I point out to Valphine, “This\! This is Fair Trade and Conflict Free gold." 
 
-The rest of the group wants to press on, but I insist that we return Elara and Jarek to Phandalin. Although there is grumbling, we do just that. 
+The rest of the group wants to press on, but I insist that we return Ellarrah and Jarek to Phandalin. Although there is grumbling, we do just that. 
 
 Upon arrival, we see Ser Kaelen Thorn, who is still in Phandalin and I explain everything to him. He seems pleased that I am not just focused on the big picture, but also doing good deeds, and how that aligns with the broader values of the Order of the Gauntlet. He ends with, “Bringing you into the fold was the right thing to do."
 
@@ -56,7 +56,7 @@ As I am asked to commission music, and want to know the style of the group, I as
 
 He stammers and apologizes, saying that my talents would improve anything the Order had done. 
 
-This piques my curiosity further. And I insist, so he shouts, embarrassed, “ Steal and shield, Heart and band. We stand as one. A steadfast band.” 
+This piques my curiosity further. And I insist, so he shouts, embarrassed, “ Steel and shield, Heart and band. We stand as one. A steadfast band.” 
 
 “I am more of a magic user. You have magic users?” 
 
@@ -66,15 +66,15 @@ I smile—finally, someone who appreciates my talent and vision.
 
 And so I head out from Phandalin and reflect on what has happened. 
 
-Ensuring Elara and Jarek were safely back in town and getting paid for it is the kind of coin I sought – earned through genuine assistance, not through "barbaric slaughtering". It shows me that I can make the money to build my studio and stay true to my principles. 
+Ensuring Ellarrah and Jarek were safely back in town and getting paid for it is the kind of coin I sought – earned through genuine assistance, not through "barbaric slaughtering". It shows me that I can make the money to build my studio and stay true to my principles. 
 
-Like a well-structured song, helping Elara and Jarek helped resolve the discordant tone of this horrible world into a harmony. 
+Like a well-structured song, helping Ellarrah and Jarek helped resolve the discordant tone of this horrible world into a harmony. 
 
 I say to no one in particular, “Even in a world of monsters and mayhem, opportunities exist for a principled artist to earn a livelihood without compromising their ideals.” 
 
 As we pass Barthen’s Provisions on the road to the Triboar Trail, Adabra approaches us. She smiles at me and pulls Soma aside. 
 
-I approach her, but she seems put off this time. I shrug, but overhear her tell Soma \- “You know the old grove past Whisper Woods? Once vibrant, a true blessing of Chauntea. Now... it withers unnaturally. Trees twist in impossible shapes, colors bleeding wrong, and the creatures... they’re not right. Too many eyes, jerky movements, lost and broken.” 
+I approach her, but she seems put off this time. I shrug, but overhear her tell Soma \- “You know the Whispering Grove? Once vibrant, a true blessing of Chauntea. Now... it withers unnaturally. Trees twist in impossible shapes, colors bleeding wrong, and the creatures... they’re not right. Too many eyes, jerky movements, lost and broken.” 
 
 Adabra mutters something about interventionists and the Emerald Enclave. Soma listens carefully and explains that she agrees to help figure out what is going on. 
 
@@ -84,7 +84,7 @@ I hope she asked for money.
 
 The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our trek towards the Tower of Storms. It was a journey of a few days, each one a test of my patience for surface world banalities.
 
-Elara saw my conversion to Lathander as proof of the ability to transform one into a force for good. She didn’t see as so few do that I saw Lathander as a greater power of pain. 
+Ellarrah saw my conversion to Lathander as proof of the ability to transform one into a force for good. She didn’t see as so few do that I saw Lathander as a greater power of pain. 
 
 I may want to create my cult of Lathander focused on this aspect of his power. 
 
@@ -100,7 +100,7 @@ The trail takes snakes through the broken, hilly terrain that forms the coastal 
 
 Vukradin, ever the pedant, mutters that this would only be possible if a river flowed through here, and that this place is too dry for a river. 
 
-I wonder how these overbrighters survive without the Faerzess protecting them from assaults. Magic transforms the land to help the attackers and defenders. Whatever made these cracks is a force of magic. Not just some natural phenomenon.   
+I wonder how these overbrighters survive without the Faerzress protecting them from assaults. Magic transforms the land to help the attackers and defenders. Whatever made these cracks is a force of magic. Not just some natural phenomenon.   
 And then I see the greatness of Lathander, by offering so much light and land to the overbrighters, he makes them sloppy and enables war and suffering. 
 
 And I feel a pleasant shiver, and I thank Vukradin because he has allowed me to see more of the divine plan of the fiery god. 
@@ -119,7 +119,7 @@ I strain to overhear them speak, my knowledge of the Orc tongue allowing me to d
 
 The engagement began with a peculiar, gentle form of aggression from Vukradin. His Sleep spell manages to incapacitate one orc and their shaman. Then, Soma, with a sudden, powerful transformation, becomes a brown bear, tearing into two orcs with a brutal elegance that speaks of raw, unadorned power. Brewbarry, embracing his rage, engages head-on, delivering powerful blows and shrugging off incoming damage with a barbarian's resilience. This was the kind of efficient violence I appreciate. Violence, my siblings never understood—raw power like Lathander, who keeps the surface world free of the monsters that thrive in the dark. 
 
-I, too, join the fray. My hand crossbow snaps, sending bolts flying. Then, I call upon the gloriously painful light of Lathander, unleashing Fairy Fire to illuminate our foes, granting us advantage against them. The light burned not only their forms but their illusions of safety. It is a beautiful, burning display, a form of pain I find deeply satisfying, for my devotion to Lathander is less about conventional goodness and more about the raw power and sensation of it. 
+I, too, join the fray. My hand crossbow snaps, sending bolts flying. Then, I call upon the gloriously painful light of Lathander, unleashing Faerie Fire to illuminate our foes, granting us advantage against them. The light burned not only their forms but their illusions of safety. It is a beautiful, burning display, a form of pain I find deeply satisfying, for my devotion to Lathander is less about conventional goodness and more about the raw power and sensation of it. 
 
 And then I think that, “Being good is a form of pain against my very nature. How delightful, that to be good is to cause pain, which is to cause pleasure.” 
 

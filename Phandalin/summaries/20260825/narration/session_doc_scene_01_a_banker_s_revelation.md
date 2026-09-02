@@ -6,41 +6,41 @@ scene_name: A Banker's Revelation
 session: 20260825
 ---
 
-We come out of the Spire of the Morninglord lighter by one necklace. Perrin Alagondar has it now. Lady Alagondar's heirloom, back where it belongs. That part feels clean. The Cullen Sharpe part does not. House Margaster sits on my teeth like grit.
+We come out of the Spire of the Morninglord into the street. The necklace is done. Perrin Alagondar has his grandmother's fireballs back, which is right. Cullen Sharpe and House Margaster still sit in my teeth like gristle.
 
-"That's dicks," Soma says.
+"That's dicks," Soma says. She means the Margasters. She is correct.
 
-It is.
+We are leaving when a man comes at us fast from the direction of the counting house. Small lungs, big hurry. Aurelan Vance. My banker.
 
-We are barely off the steps when a man comes hurrying back up the street. Bankers do not run. This one does. Aurelan Vance, out from the counting house, breathing hard through his collar.
+"Aurelan Vance — which one was that guy?" Soma asks.
 
-Soma squints at him. "Aurelan Vance — which one was that guy?"
+Mine, is which one. The man holding my bathrobe money.
 
-My banker. The one who signed the bathrobe loan. Mine.
+"Oh, right, right."
 
-"Oh, right, right." Then she looks at me sideways. "The list of people Brewbarry has intimidated is…" She lets it hang. "Very large."
+The others remember him as the man I intimidated into working for me.
 
-"What do you mean? Intimidated?"
+"The list of people Brewbarry has intimidated is…" Soma starts.
 
-Nobody takes it back fast enough.
+"Very large."
 
-"That's not an intimidation." I say it once more so it sticks. "I was just making friends with him. He's making me a favor, I'll do him one."
+"What do you mean? Intimidated?" I say. "That's not an intimidation."
 
-That is how friendship works. I do not know why this is hard.
+"I was just making friends with him. He's making me a favor, I'll do him one." That is friendship. It is simple.
 
-Aurelan stops in front of us and pats himself down. Tugs the coat straight, sets the collar where a collar goes. Then he is a banker again, all the way up.
+Aurelan arrives huffy-puffy. Very excited. He stops, pats himself down, tugs his coat straight, gussies himself back into a proper banker before he lets himself speak. I like that. A warrior checks his straps before battle. Same thing.
 
 "A greeting. Hello, my friend," I say.
 
 "Yes, Mr. Brewbarry, I— is it Mr. Brewbarry? Is that the correct appellation? I'm sorry, I'm not familiar with Guardian norms."
 
-Goliath norms, he means. Close enough.
+Guardian. I like that better than most things I have been called.
 
 "So just call me Brew, that's fine."
 
 "Brew!"
 
-"You're going by Brew now?" Vukradin asks.
+"You're going by Brew now?" Vukradin says.
 
 "Yes, well, yeah, it's a new thing."
 
@@ -48,15 +48,13 @@ Goliath norms, he means. Close enough.
 
 "Only to his friends," Valphine says.
 
-"Yeah, that… Brew. Brew," Vukradin says, trying the weight of it.
+"Yeah, that… Brew. Brew." Vukradin turns it over in his mouth like he is checking it for cracks.
 
-"To my banker friends."
+"To my banker friends," I say.
 
 "And since we're on such friendly terms — my friends call me Ori."
 
-"Whoa."
-
-A banker hands me his small name in the open street. My tribe gave names like wounds. This one comes like a handshake. I take it careful.
+"Whoa." A banker's small name. He hands it to me like a coin from his own pocket, not the bank's. This is a big thing. I know a big thing when I am given one.
 
 "Thank you, Ori. So, speak your piece."
 
@@ -68,7 +66,7 @@ A banker hands me his small name in the open street. My tribe gave names like wo
 
 "Oh, was it ever," Soma says.
 
-"There was, yeah."
+"There was, yeah," I say.
 
 "It was. And it inspired me to action."
 
@@ -76,21 +74,19 @@ A banker hands me his small name in the open street. My tribe gave names like wo
 
 "Yes. Well, last night I decided to go over some of the paperwork related to Bimble, and here's what I…"
 
-The name lands and the whole party goes sideways on it. Bimbo this, Bimbo that.
+The name gets loose before he can finish.
 
-"Enough," Vukradin says. Then: "We wrote the name down. It says here, Bimble." Then, one breath later: "Bimbo the Gnome!"
+"Enough," Vukradin says. Then Vukradin himself: "We wrote the name down. It says here, Bimble." Then, louder: "Bimbo the Gnome!"
 
 "No," Ori says. "Bimble."
 
-"Alright, come on, this isn't a spelling bee. Come on." Ori looks grateful. "Get on with it."
-
-He pulls out a piece of paper and holds it up anyway. The letters stand neat as fence posts. B-I-M-B-L-E. We can call the gnome what we like, he says; the paper stays correct, and Ori will go on saying Bimble.
+"Alright, come on, this isn't a spelling bee. Come on," I say. "Get on with it."
 
 "Bimble, okay."
 
-"Pronouncing the name, that's fine," Vukradin allows. "Maybe he has a speech impediment."
+"Pronouncing the name, that's fine. Maybe he has a speech impediment," Vukradin says.
 
-Ori squares himself up to his facts.
+Ori pulls out a piece of paper anyway and shows us the correct spelling. B-I-M-B-L-E. It changes nothing. The party will say Bimbo all evening. I already know this.
 
 "The Commission carried him on maintenance roll for seven— for eleven years."
 
@@ -98,27 +94,31 @@ Ori squares himself up to his facts.
 
 "Yes. The payments stop seven tendays ago — on the day, not the tenday. No severance, no final reconciliation, no forwarding instruction. That is not how a contract ends."
 
-He starts on the Mister and catches it, because we are past that now.
+He starts on Mr. Brewbarry again and catches himself. Friendly terms now. "Brew, that is how a contract is abandoned!"
 
-"Brew, that is how a contract is abandoned!"
+He says it straight at me. Real anger in him. Not blood-anger like mine. Paper-anger. But it stands up the same way in a man's chest. Somebody broke the rules of his hunt, and he wants them run down.
 
-He is angry. Real angry, banker angry, straight at me like I will understand. I do. Paper is his halberd, and somebody swung this one wrong. In a contest you can lose and you can quit, but you do not walk out of the ring and leave the other man standing there with no word.
+And there is more, and it is the one kind of trail Ori reads better than anyone. Bimble has drawn nothing since. Not banked. Not borrowed. Not left the city. "Your Harper friends would tell you the same if you had any, so somebody is keeping him."
 
-And the one kind of question he is good at, he has already asked. Bimble has drawn nothing since. Not banked. Not borrowed. Not left the city. "Your Harper friends would tell you the same if you had any, so somebody is keeping him."
+Kept. Fed. Or.
 
-Kept men still eat. That is the thread.
+"Sounds like he's feeding worms, rather than… But he's fitting him, but…" The thought does not come out clean. Worms do not draw a maintenance roll either. I let it go. "We'll get to the bottom of it, my friend. Right."
 
-"Sounds like he's feeding worms," I say, and I let the rest of the thought drop, because Ori's face does a small fall and I put it back up. "We'll get to the bottom of it, my friend. Right." I mean it. "Thank you."
+"Thank you."
 
 "Well, you're very welcome. If you could find who is feeding him, I am certain you will find him."
 
+Find the food, find the man. That is good hunting. Ori is a hunter after all. Just on paper.
+
 "Who's feeding Bimbo," Vukradin says.
+
+"Shut down? Who is feeding Bimbo?"
 
 "Bimble. Bimble," Ori says.
 
-"Bimbo." Easier in the mouth.
+"Bimbo," I say.
 
-"Mmm — what should the name of this quest be?" Vukradin is composing already. "Mmm. Chase."
+"Mmm — what should the name of this quest be?" Vukradin says. "Mmm. Chase."
 
 "…the bimbo," I finish.
 
@@ -128,20 +128,18 @@ Kept men still eat. That is the thread.
 
 "I'm just a pervert," Soma says.
 
-Good band.
+"How can we go about finding this guy, this gnome?" I ask.
 
-"How can we go about finding this guy, this gnome?"
-
-Soma goes still, then bright. Turtle soup. The best in the whole area, she says. The Board Laid Bare, Lim's place. Good prices, good food, good atmosphere.
+Soma has the answer in her stomach. The best turtle soup in the whole area, she says. The Board Laid Bare. Lim runs it. Good prices, good food, good atmosphere.
 
 "I mean, I've been dying for this soup."
 
 "Aww — when you're here, you're family?"
 
-And Lim runs a small business. A small-business woman knows how food moves in a city. Knows who buys for a mouth nobody sees.
+A small-business woman knows how food moves in a city. Who buys too much for one mouth. Lim might have a bead on how a hidden man gets fed.
 
 "Why'd she stop making it? Well, I guess we go to the Board Laid Bare, right?" Soma says. "Yeah, well, now we're back."
 
-Find who feeds the man, find the man. And soup at the end of it either way. Good plan twice.
+Soup first. Then the gnome.
 
-<!-- table-speech reclassified: "Well— he pulls out a piece of paper, shows you the correct spelling. B-I-M-B-L-E." | "He struggles to say Mr. Brewbarry, but then realizes we're on friendly terms. Brew — that is how a contract is abandoned!" | "And because he's a banker, and this is the only kind of question he's any good at: he has drawn nothing since. He has not banked, he has not borrowed, and he has not left. Your Harper friends would tell you the same if you had any — so somebody is keeping him. Find who feeds a man, and you have found the man." -->
+<!-- table-speech reclassified: "He struggles to say Mr. Brewbarry, but then realizes we're on friendly terms. Brew — that is how a contract is abandoned!" | "And because he's a banker, and this is the only kind of question he's any good at: he has drawn nothing since. He has not banked, he has not borrowed, and he has not left. Your Harper friends would tell you the same if you had any — so somebody is keeping him. Find who feeds a man, and you have found the man." -->

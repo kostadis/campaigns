@@ -1,0 +1,525 @@
+{
+  "artifacts": [
+    {
+      "bytes": 6541,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage0_gmassist.sources.yaml",
+      "sha256": "9c3c1be832d62ccea9ab3febd2172cacc2ee419cff3e5fbcced8d86a43640503"
+    },
+    {
+      "bytes": 6046,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage0_gmassist_post_vtt.sources.yaml",
+      "sha256": "687b71f317eef680f67951151c9b90bbdef2d2176dd550bed915f48b4ba9cc27"
+    },
+    {
+      "bytes": 6356,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage1_session_summary.sources.yaml",
+      "sha256": "62c15fd5bb2b16ccb532b37413f4faa0a2451043beb63d2e9be2dd3a2a3b2fd7"
+    },
+    {
+      "bytes": 3891,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene01.sources.yaml",
+      "sha256": "14807a5b2655b7f6b552f0019d67c1b7c21302e6c9ded6d7f73aaefac479af66"
+    },
+    {
+      "bytes": 4113,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene02.sources.yaml",
+      "sha256": "5d2444e6fdb44ded34bb6b1428c666731c6a9ade74671da27c9fe9eec3b45bae"
+    },
+    {
+      "bytes": 3564,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene03.sources.yaml",
+      "sha256": "196642174e438e218594cfead6c68fa057f2342f51fd122507908c6f2d435063"
+    },
+    {
+      "bytes": 3908,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene04.sources.yaml",
+      "sha256": "1bd3e998018962b7102035a8d1bea59f5be1a3cd44724013eaf844428775146f"
+    },
+    {
+      "bytes": 3959,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene05.sources.yaml",
+      "sha256": "55ea8b082fe2fa8b81391dad0fc1a22b6eab4b9ff08b070d08e4a348531802c3"
+    },
+    {
+      "bytes": 4086,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene06.sources.yaml",
+      "sha256": "381569435f62606b4dc961abea1f12e550b3ae81858813f24071b53573fce09b"
+    },
+    {
+      "bytes": 3814,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene07.sources.yaml",
+      "sha256": "b9fd3d643628f788ac6cd666078b6dbb59e3590cf982f737118958b6d8e261b7"
+    },
+    {
+      "bytes": 5455,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "consistency_report_stage2_scene08.sources.yaml",
+      "sha256": "672dec74f1e9dd938a5816d1c794a3094053be937360f89dd52485bf29e7e392"
+    },
+    {
+      "bytes": 19881,
+      "kind": "gm_assist",
+      "layout": "gm-assist-doc",
+      "narrator": null,
+      "path": "gm-assist.md",
+      "sha256": "cb3f9e95215a39f72cd76999a3dc9ba0a122c960a0efb4d254bbd6309c324f97"
+    },
+    {
+      "bytes": 63439,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "logs/2026-08-30_223304_enhance_summary.md",
+      "sha256": "085affe6e09ed4813563835d61c67769dffae52d6d5eb8ee331a7950a9a6493c"
+    },
+    {
+      "bytes": 64647,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "logs/2026-08-30_224135_enhance_summary.md",
+      "sha256": "4f3373bf0d4c21387cf56e0811480ebc0a08dbf8829232ec9107f737688855a2"
+    },
+    {
+      "bytes": 9875,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Valphine Sotorra",
+      "path": "narration/04-v2.md",
+      "sha256": "807664c5e163e70f14de8b4c3be44a99dc2f4bbad3cd348334db3ee30beb696a"
+    },
+    {
+      "bytes": 9337,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Valphine Sotorra",
+      "path": "narration/04-v3-high.md",
+      "sha256": "1eb99ed0245082619d61f7089c261c8f253b8ee0edbb6bd0ccb09b568c8d11d1"
+    },
+    {
+      "bytes": 2334,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/plan.md",
+      "sha256": "3d71221121b2bae2d3e79fbb2fb8660e7183fc2eaeced053d570d2e7c3ce82a0"
+    },
+    {
+      "bytes": 253,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_01_the_band_comes_together.knobs.json",
+      "sha256": "9613049b611b90191428663561dd887b9ea8e075c6b8a0b5607e1c87c16461a6"
+    },
+    {
+      "bytes": 4851,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Brewbarry",
+      "path": "narration/session_doc_scene_01_the_band_comes_together.md",
+      "sha256": "35743ddd1d37919dd155e92fe1a0509a3e33d7b13cd7be82c5251d06c584cad4"
+    },
+    {
+      "bytes": 253,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.knobs.json",
+      "sha256": "9613049b611b90191428663561dd887b9ea8e075c6b8a0b5607e1c87c16461a6"
+    },
+    {
+      "bytes": 9383,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Vukradin",
+      "path": "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+      "sha256": "abd6f4db5940d23eb92b200fae647e492fdaf4a59e6001450fdc24606f91f8f8"
+    },
+    {
+      "bytes": 253,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_03_first_sight_of_phandalin.knobs.json",
+      "sha256": "9613049b611b90191428663561dd887b9ea8e075c6b8a0b5607e1c87c16461a6"
+    },
+    {
+      "bytes": 5316,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Soma",
+      "path": "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+      "sha256": "67246b6fce865e381fda5322e5070d78f14b8aa11789e9eae48c228790f06c66"
+    },
+    {
+      "bytes": 253,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.knobs.json",
+      "sha256": "9613049b611b90191428663561dd887b9ea8e075c6b8a0b5607e1c87c16461a6"
+    },
+    {
+      "bytes": 8605,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Valphine Sotorra",
+      "path": "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+      "sha256": "b23f93f13c961fc18bd1c026a11db0f857eebdd060ae2162b5e777b91d6f23c3"
+    },
+    {
+      "bytes": 253,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.knobs.json",
+      "sha256": "9613049b611b90191428663561dd887b9ea8e075c6b8a0b5607e1c87c16461a6"
+    },
+    {
+      "bytes": 6527,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Vukradin",
+      "path": "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+      "sha256": "a86cce9015d51d5d6f4d633c5f929dd196c7bebfaae3c6d38fee7fe22c40414c"
+    },
+    {
+      "bytes": 253,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.knobs.json",
+      "sha256": "9613049b611b90191428663561dd887b9ea8e075c6b8a0b5607e1c87c16461a6"
+    },
+    {
+      "bytes": 4749,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Brewbarry",
+      "path": "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+      "sha256": "a44c2084aa1ef09544de8735cd5e0b487b0b8b7f1f1970b011b9dfa11a99f6a7"
+    },
+    {
+      "bytes": 255,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.knobs.json",
+      "sha256": "b7d372a00c736f71896ca523c5dcb951cc5870dd6cac82b4c6ad369f8e4dc1de"
+    },
+    {
+      "bytes": 12683,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Valphine Sotorra",
+      "path": "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+      "sha256": "10e2e42c30f9dbfbaabbbe931e1b09dc2a9497c15e7cc5e962ff4eb5aa913afe"
+    },
+    {
+      "bytes": 253,
+      "kind": "generation_settings",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.knobs.json",
+      "sha256": "9613049b611b90191428663561dd887b9ea8e075c6b8a0b5607e1c87c16461a6"
+    },
+    {
+      "bytes": 8307,
+      "kind": "narration",
+      "layout": "current-configured",
+      "narrator": "Soma",
+      "path": "narration/session_doc_scene_08_secrets_of_the_buried_temple.md",
+      "sha256": "eddde1db553096834581d6a7f31db939fa46db8c6fa2a8262198f3e7ab5582e2"
+    },
+    {
+      "bytes": 2829,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_01_brewbarry.md",
+      "sha256": "9d6a4e1425d43ddc15b0a5f1c9f08a2083a9c401bcf92dfbb2ae367f74a678d0"
+    },
+    {
+      "bytes": 4181,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_02_vukradin.md",
+      "sha256": "62a64d6d44a4d27e630ec644a7b20c52af60379a3f8d7d4fc5800348cde3f057"
+    },
+    {
+      "bytes": 3692,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_03_soma.md",
+      "sha256": "af0b9b6229f0c773cd163cdf356747ce081f1bb735ceddef1ca232301a076947"
+    },
+    {
+      "bytes": 13872,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_04_valphine-sotorra.md",
+      "sha256": "ea01b34157bdc911cd61dbcc87c851d6ce3f20b6fcc10e5950e12bf46462d20d"
+    },
+    {
+      "bytes": 3618,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_05_vukradin.md",
+      "sha256": "743e1e7e02de776e7d99b0c4010199a0a70308dfca9dda08b4fbe3d8ad08eccd"
+    },
+    {
+      "bytes": 2855,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_06_brewbarry.md",
+      "sha256": "38e75506a935bfa2d82ff37939da3a1a4499e94374cbd8cad18ea813d0165641"
+    },
+    {
+      "bytes": 5362,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_07_valphine-sotorra.md",
+      "sha256": "f545e100bc3432b8d828ab30b66d62cbb5b10fc51a6bcf81b97e60f5972b4f63"
+    },
+    {
+      "bytes": 4335,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_scene_08_soma.md",
+      "sha256": "1fe7bfc78e6ebd547474fe66bc156765bb8c7f7508c78884e01d7f9dbd3a4301"
+    },
+    {
+      "bytes": 13560,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_critique_summary.md",
+      "sha256": "6edc4db7f78d6f9a3b85064e3383d994c71d9266c84417c051c65c18929e4ad8"
+    },
+    {
+      "bytes": 7372,
+      "kind": "critique",
+      "layout": "critique-flat",
+      "narrator": null,
+      "path": "narration/voice_fixes_20250514.md",
+      "sha256": "2cf8e1bbd83816b01773374b2d56d9fe690818c9723f786b86c5343dc6743fe3"
+    },
+    {
+      "bytes": 22307,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "01_character_introductions_and_backstories",
+      "path": "scene_extractions/01_character_introductions_and_backstories.md",
+      "sha256": "cb1eb4e8171114d2784bd5fe3f3779b22da2d955a2c2f2443593c4b42f415afb"
+    },
+    {
+      "bytes": 13385,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "02_a_new_beginning_setting_out_from_neverwinter",
+      "path": "scene_extractions/02_a_new_beginning_setting_out_from_neverwinter.md",
+      "sha256": "08f6d1f60cb8e4a015638b9151c96c81b7fe1fc7d77d6d792eb278c17c8a823f"
+    },
+    {
+      "bytes": 5044,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "03_arrival_in_phandalin",
+      "path": "scene_extractions/03_arrival_in_phandalin.md",
+      "sha256": "4023c0c9c3db5c49265e6269a51d47c2a424b6ce29d11bee9c0fbe6e5f5d1450"
+    },
+    {
+      "bytes": 13723,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "04_arrival_at_the_stonehill_inn",
+      "path": "scene_extractions/04_arrival_at_the_stonehill_inn.md",
+      "sha256": "4aa0ccf95aa4674c6daca24872cf7ae784e910ee4e6a4a141395e64ed05ffe76"
+    },
+    {
+      "bytes": 6580,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "05_the_phandalin_quest_board",
+      "path": "scene_extractions/05_the_phandalin_quest_board.md",
+      "sha256": "e8e0fa9443496e98ebc04c5346ac1d9dca178ccb42cce04af445be01ee71af36"
+    },
+    {
+      "bytes": 6661,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "06_the_journey_to_the_excavation",
+      "path": "scene_extractions/06_the_journey_to_the_excavation.md",
+      "sha256": "c519decd8a3595ada2239c39b00de62813d0302636fce6259fd0e5410ea3ee17"
+    },
+    {
+      "bytes": 15935,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "07_meeting_the_prospectors",
+      "path": "scene_extractions/07_meeting_the_prospectors.md",
+      "sha256": "9560d017708565b5ed5c4c07275fc16addf7a78eddb441c6740e237865aa0847"
+    },
+    {
+      "bytes": 10790,
+      "kind": "narration",
+      "layout": "extractions",
+      "narrator": "08_exploring_the_ruined_temple",
+      "path": "scene_extractions/08_exploring_the_ruined_temple.md",
+      "sha256": "2255ad1b3e31da63ddf335e00e2429cdd9c873c74fccc79eeca69eda00e795de"
+    },
+    {
+      "bytes": 46755,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "scene_extractions/logs/2026-08-31_071329_scene_extract_batched.md",
+      "sha256": "3522cceffb60267e35747f14d80cc58ff17cab3de2e70921f3abb8d64b30c127"
+    },
+    {
+      "bytes": 20923,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "01_character_introductions_and_backstories",
+      "path": "scene_extractions_smoothed/01_character_introductions_and_backstories.md",
+      "sha256": "bc4795d532064695c993fe89768d2222f7eb6b8fa955f88ae996194153868a44"
+    },
+    {
+      "bytes": 12978,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "02_a_new_beginning_setting_out_from_neverwinter",
+      "path": "scene_extractions_smoothed/02_a_new_beginning_setting_out_from_neverwinter.md",
+      "sha256": "b3043503dece20b0addb4185a32e53ff8933122f5c40cbd9e9bed095ca2e0b3f"
+    },
+    {
+      "bytes": 5382,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "03_arrival_in_phandalin",
+      "path": "scene_extractions_smoothed/03_arrival_in_phandalin.md",
+      "sha256": "3c3094c793d27cc67e9feacfac299615fd4a6b310f9d7e16515680475ca9dd57"
+    },
+    {
+      "bytes": 14210,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "04_arrival_at_the_stonehill_inn",
+      "path": "scene_extractions_smoothed/04_arrival_at_the_stonehill_inn.md",
+      "sha256": "19bff80c50122e3f754fb96292c1962157542cc3336e219b1459e7f1e4dd328a"
+    },
+    {
+      "bytes": 6338,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "05_the_phandalin_quest_board",
+      "path": "scene_extractions_smoothed/05_the_phandalin_quest_board.md",
+      "sha256": "632887b32af95df0e1c00c6ebbb10d7d215bf7ce6901072678363f9e156528b6"
+    },
+    {
+      "bytes": 6617,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "06_the_journey_to_the_excavation",
+      "path": "scene_extractions_smoothed/06_the_journey_to_the_excavation.md",
+      "sha256": "d7d63a6543f2641cb2c973a6e8b71075a23fb2e8fffeb447463e1e6f2545c63a"
+    },
+    {
+      "bytes": 15574,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "07_meeting_the_prospectors",
+      "path": "scene_extractions_smoothed/07_meeting_the_prospectors.md",
+      "sha256": "63ec24d63d9a76522ad393baf84fd7183603bdd0821936958729a6ac4a3f6720"
+    },
+    {
+      "bytes": 10818,
+      "kind": "narration",
+      "layout": "extractions-smoothed",
+      "narrator": "08_exploring_the_ruined_temple",
+      "path": "scene_extractions_smoothed/08_exploring_the_ruined_temple.md",
+      "sha256": "7f29f85bc6dbd7ff88bf9c19d66d29b767e41fe1f850ff6d56013610c09dd649"
+    },
+    {
+      "bytes": 11339,
+      "kind": "source_record",
+      "layout": "current-configured",
+      "narrator": null,
+      "path": "voice_smooth.sources.yaml",
+      "sha256": "daa7e35cabef5610cec222fc518283dc29ca18d65ba0503742392eed29b7048c"
+    }
+  ],
+  "campaign_id": "Phandalin",
+  "corpus_id": "063adb57efb2a51e841bd533dc2cc234506e6be1592e691621ff3f8ec62ae624",
+  "iteration_id": "iter-004",
+  "layouts": [
+    "critique-flat",
+    "extractions",
+    "extractions-smoothed",
+    "gm-assist-doc"
+  ],
+  "measurement_corpus": [
+    "narration/session_doc_scene_01_the_band_comes_together.md",
+    "narration/session_doc_scene_02_the_gray_begins_at_the_wall.md",
+    "narration/session_doc_scene_03_first_sight_of_phandalin.md",
+    "narration/session_doc_scene_04_ale_and_rumors_at_stonehill.md",
+    "narration/session_doc_scene_05_grave_robbers_on_the_quest_board.md",
+    "narration/session_doc_scene_06_the_hike_to_the_canyon.md",
+    "narration/session_doc_scene_07_the_dwarves_don_t_believe_her.md",
+    "narration/session_doc_scene_08_secrets_of_the_buried_temple.md"
+  ],
+  "missing": [
+    {
+      "kind": "scene_extraction",
+      "pattern": "scene_extraction",
+      "reason": "no allowlisted artifact found"
+    },
+    {
+      "kind": "scrub_manifest",
+      "pattern": "scrub_manifest",
+      "reason": "no allowlisted artifact found"
+    }
+  ],
+  "schema_version": 1,
+  "session_relative": "summaries/20250514-chapter-02-new"
+}
