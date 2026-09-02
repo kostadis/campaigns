@@ -24,20 +24,26 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 - The ogre is killed by a combination of Brewbarry's halberd, Soma's poison, Vukradin's radiant blasts, and Valphine's sacred fire before it can seriously threaten the party.
 - Searching the ogre's belongings, the party recovers walloping ammunition — a specialized projectile enchanted so that any creature struck by it must make a saving throw or be knocked prone. The ogre, the DM notes, preferred walloping people personally and never figured out how to use it.
 
-## Verbatim moments
+<!-- Scene boundary note: this scene originally closed with the hand-crossbow exchange
+     ("So is there a reason that Valphine does not have a hand crossbow?" through "less of
+     a drow"), duplicated at the head of scene 04. Per the GM's de-duplication ruling those
+     lines live in scene 04 — which carries the fuller copy, including the GM's arrival
+     line — and have been cut here. -->
+
+## Voiced moments
 
 **[The Ogre Approaches]**
 - The party sets out from the dwarven excavation back toward Phandalin, traveling hilly terrain.
 - On the road they hear whistling before they see anything.
 
 **GM** — the encounter opens with sound
-> "On your way back, as you're heading towards Phandalin, you hear an ogre whistling, whistling."
+> "On your way back, as you're heading towards Phandalin, you hear an ogre whistling. Whistling."
 
 **Vukradin** — immediately reaches for his instrument instead of his weapon
 > "I should be able to recognize the song."
 
 **GM** — calls for the roll
-> "You should be able to harmonize. Roll your performance. Roll your— All right. All right."
+> "You should be able to harmonize. Roll your performance."
 
 **Vukradin** — the harmony fails to land
 > "Another 10. Not the best rolls."
@@ -46,7 +52,7 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "23 perception. I assume I know where this ogre is?"
 
 **GM** — the terrain
-> "Yes, he is coming up. You're going on — it's like hilly terrain, so if you could imagine sort of a hill like this, he's on that side and he's coming up. So you guys can either try to meet him over there or try to sneak. Necromancer,"
+> "Yes. He is coming up — it's like hilly terrain, so if you could imagine sort of a hill like this, he's on that side and he's coming up. So you guys can either try to meet him over there, or try to sneak around him."
 
 **[The Slave Debate]**
 
@@ -61,12 +67,15 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 
 **Valphine Sotorra**
 > "Friggin? I guess if that's the way you do these things on the surface."
+<!-- Editorial note: "Friggin?" is unrecovered — plausibly "Freeing him?", but neither
+     transcript supports it. GM ruling 03-G: keep as captured. Do not narrate it as
+     meaningful. -->
 
 **Vukradin**
 > "All right, let's free the slaves!"
 
 **Valphine Sotorra** — addressing the ogre directly
-> "Okay? Slave, you are-"
+> "Okay? Slave, you are—"
 
 **Vukradin**
 > "That was not the outcome I expected, but let's try to freeze it."
@@ -77,11 +86,10 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 **Soma** — the voice of reason, ignored
 > "I don't even know if he's a slave! Who jumped to that conclusion?"
 
-**GM** — scrambling to build the encounter
-> "Hold on. Hold on. I now need to set up an encounter. Give me a second. Oh, man. I'm like, hey, here we go. Right. Is there any— Okay. So, I do not have—"
+*Cut from this layer: a stretch of the GM building the encounter in the tool ("Hold on. I now need to set up an encounter. Give me a second…") — VTT tooling logistics, not narratable content (GM ruling 03-H). See voice_smooth.sources.yaml.*
 
 **Soma** — looking for evidence
-> "So does he have any bonds? Do we see any signs that he's actually a slave?"
+> "So does he have any, like, bonds? Do we see any signs that he's actually a slave?"
 
 **GM**
 > "No, he's definitely not a slave."
@@ -91,6 +99,8 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 
 **Valphine Sotorra** — the insight attempt
 > "11 insight on Do. I think he's a surface ogre."
+<!-- Editorial note: "on Do" is unrecovered in both passes. GM ruling 03-G: keep as
+     captured. Do not narrate it as meaningful. -->
 
 **Vukradin**
 > "Surface ogre?"
@@ -102,22 +112,19 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "He's on the surface."
 
 **Valphine Sotorra** — justifying the question
-> "He could have been — when the demons invaded Menzoberranzan, there's all kinds of people from the Underdark that made it to the surface."
+> "He could have been — you know, like, when the demons invaded Menzoberranzan, there's all kinds of people from the Underdark that made it to the surface."
 
 **GM** — the roll, and the ruling
-> "Eleven. Is there such thing as an underground ogre? Ogres of the Underdark?"
+> "Eleven. Is there such a thing as an underground ogre? Ogres of the Underdark?"
 
 **Valphine Sotorra**
-> "There were plenty of them in the slave pits and in the-"
+> "There were plenty of them in the slave pits, and in the—"
 
 **GM**
-> "To be quite honest, since there isn't actually a difference between them, you can't tell."
+> "To be quite honest, since there isn't actually a difference between them, you can't tell. With that level of insight."
 
 **Valphine Sotorra**
 > "Okay."
-
-**GM**
-> "With that level of insight. Okay. My higher level."
 
 **[The Question That Starts the Fight]**
 
@@ -143,7 +150,8 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "Oh, slave!"
 
 **GM** — the ogre's answer
-> "Yeah, you called him the musician. He's like, me? Musician? Music? No. Me, Kelly? How dare you?"
+> *You called him a musician. He calls back across the hill.*
+> "Me? Musician? Music? No. Me kill you. How dare you?"
 
 **Vukradin** — offended on behalf of the art form
 > "Wait, he doesn't like music? Oh, I'm definitely rolling for initiative now. 21. That's what you get for hating on music."
@@ -161,7 +169,7 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "All right. Nice roll, Valphine. Yeah."
 
 **Soma**
-> "You showed up, you're 21."
+> "You showed up. You're 21."
 
 **Vukradin**
 > "You did. She did."
@@ -175,33 +183,37 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "The white surface is all grassland or whatever."
 
 **GM**
-> "Yeah, Greslin."
+> "Yeah, grassland."
 
 **GM** — movement costs
-> "Easy terrain, that's the important thing. Moving between levels costs you — it makes it extra."
+> "Easy terrain — that's the important thing. Moving between levels costs you, it makes it extra."
 
 **Vukradin**
 > "I don't plan on moving, so good to know."
 
 **GM**
-> "All right, if you were to — going down costs you double movement, going up costs you double movement, and it's 10 feet. That's where the— So reason— Okay."
+> "All right, like — if you were to, going down costs you double movement, going up costs you double movement, and it's 10 feet."
 
 **[Round One]**
 
 **Valphine Sotorra** — Sacred Flame
-> "Ducksafe 13"
+> "Dex save 13."
 
 **Vukradin** — reading the ogre's hit points
 > "Are we going to do 59 damage? This is going to be a process."
+<!-- Editorial note: the gm-assist summary puts the ogre at 47 hit points, not 59. The
+     transcript reading is unambiguous and both passes agree, so it stands: Vukradin is
+     guessing before anyone has the creature's real total. GM ruling 03-F: keep verbatim;
+     the discrepancy belongs to the summary, not the quote. -->
 
 **GM** — the ogre saves for half, and the DM checks positioning
-> "All right, he takes four points of damage. It's more damage, yes. Does Valphina stay within 30 feet, which is his movement rate, or does she take a few steps back to try to avoid being within his charge range?"
+> "All right, he takes four points of damage. Does Valphine stay within 30 feet, which is his movement rate, or does she take a few steps back to try to avoid being within his charge range?"
 
 **Valphine Sotorra** — the new formation
 > "Brewbarry is going to be in front."
 
 **GM**
-> "Okay, that's Elfien's new strategy. All right, Rooker didn't, you're up."
+> "Okay, that's Valphine's new strategy. All right, Vukradin, you're up."
 
 **Vukradin** — Starry Wisp
 > "Starry Wisp."
@@ -216,7 +228,7 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "That's a hit."
 
 **Vukradin** — the damage
-> "Eight Radio"
+> "Eight radiant."
 
 **GM**
 > "All right. So eight points of damage."
@@ -236,16 +248,16 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "Unbelievable."
 
 **Brewbarry** — the miss, and a rules question
-> "Of course, I can't cleave, but— well. Is that a miss? Oh, no, no, plus— plus two attack with the—"
+> "Of course, I can't cleave. But — is that a miss? Oh, no, no — plus, plus two attack with the…"
 
 **GM**
-> "I only think it's for damage though."
+> "I only think it's for damage, though."
 
 **GM** — looking it up
-> "No, no, I'm not expecting you. I'm kind of like— this is sort of like, I don't know. I have to go read the new Plyer's Handbook. Hold on. Damage resistance. Rage damage. It's dis-damage. It's not to hit."
+> "No, no, I'm not expecting you to — I'm kind of like, I have to go read the new Player's Handbook. Hold on. Damage resistance. Rage damage. It's the damage. It's not to hit."
 
 **Brewbarry**
-> "Yeah. Okay, just advantage on strength checks. So a 10 is a mess, right?"
+> "Yeah. Okay, just advantage on strength checks. So a 10 is a miss, right?"
 
 **GM**
 > "Yes."
@@ -253,19 +265,20 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 **[The Opportunity Attack Crit]**
 
 **GM** — the ogre steps out of Brewbarry's reach
-> "All right. All righty. Ogre. The ogre marches up to you and says — You left a square with my— Yeah, that is true. All right. A crit. Wow. Plus 4 points of damage."
+> "All right. Alrighty. The ogre marches up to you — and you left a square. Yeah, that is true. All right. A crit. Wow. Plus 4 points of damage."
 
 **Vukradin**
 > "You ranged, though, right?"
 
 **GM** — the running total
-> "Yeah, so that's 19 plus 4 because you double the— Okay, he's down to 24. Damn! Halfway there! All right, he's kind of like, damn!"
+> "Yeah, so that's 19 plus 4, because you double the— Okay, he's down to 24. Damn! Halfway there!"
+> *The ogre reels.*
 
 **Vukradin**
 > "That was impressive. All right, the ogre is up."
 
 **GM** — the ogre's answer
-> "Yes, yes, well done. All right. That's ten points of damage, or five points of damage if you're raging."
+> "Yes, yes, well done. All right. That's ten points of damage — or five points of damage if you're raging."
 
 **Brewbarry**
 > "Guess I'll take the five points of damage."
@@ -285,13 +298,13 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "7 damage, taking him to 17."
 
 **GM**
-> "All right. There's no poison condition related to poison spray, right?"
+> "All right. There's no poison condition related to Poison Spray, right?"
 
 **Soma**
-> "No, it's kind of weird — it just does 1d12 poison damage, that's it."
+> "No, it's kind of weird. It just does 1d12 poison damage, that's it."
 
 **Vukradin** — admiring the cantrip
-> "Wow. It just does nothing. I don't have anything that does 1d12. That's awesome."
+> "Wow. It just does nothing else. I don't have anything that does 1d12. That's awesome."
 
 **Soma**
 > "Yeah, it's a really nice cantrip."
@@ -299,7 +312,7 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 **[Grinding It Down]**
 
 **Vukradin** — Starry Wisp again, for less
-> "Free Radio"
+> "Three radiant."
 
 **GM**
 > "You did that. All right. Only three?"
@@ -308,19 +321,19 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "Yeah, well, it's not a great damage roll."
 
 **GM** — on Vukradin's second miss
-> "Is that another miss? Yeah, you literally had a 25 chance to miss. It's not that rare."
+> "Is that another miss? Yeah — you literally had a 25 percent chance to miss. It's not that rare."
 
 **Vukradin**
 > "Did somebody record the three damage?"
 
 **GM**
-> "No, could you please do that?"
+> "No. Could you please do that?"
 
 **Soma**
 > "Oh yeah, he's at 14 now."
 
 **GM** — the ogre swings at Brewbarry and misses
-> "Okay, Brewbarry is done. Ogre is up. All right. Yes, the ogre is up. Ogre does 9. What is Brewbarry's animal class? No. Misses."
+> "Okay, Brewbarry is done. Ogre is up. All right. Yes, the ogre is up. Ogre does 9. What is Brewbarry's armor class? No. Misses."
 
 **Soma** — trying to set up a free hit
 > "All right, hypothetically, I could thorn-whip him away from you — would you get an attack of opportunity?"
@@ -335,22 +348,24 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "All right, so what does that do? Oh, you missed again."
 
 **Soma**
-> "He takes 1d6 and I pull him 10 feet closer, so I do have to pull him out of the way. So move him — just move him one square over."
+> "He takes 1d6 and I pull him 10 feet closer, so I do have to pull him out of the way — just move him one square over."
 
 **GM**
-> "5, 10 — that's 5 feet, that's 10 feet. All right, he's right next to you, and he's also not prone, right?"
+> "5, 10 — that's 5 feet, that's 10 feet. All right, he's right next to you. And he's also not prone, right?"
 
 **Soma**
 > "It doesn't say anything about prone."
 
 **GM**
 > "Okay, fine. Then he's a leaner. All right, fine."
+<!-- Editorial note: "he's a leaner" is unrecovered in both passes. GM ruling 03-G: keep as
+     captured. Do not narrate it as meaningful. -->
 
 **Soma**
 > "Yeah, I was just trying to give me an attack. Oh well."
 
 **Soma** — bookkeeping
-> "We did record that's six damage, so there's another— he's at eight."
+> "We did record that's six damage, so there's another — he's at eight."
 
 **[The Kill]**
 
@@ -370,7 +385,7 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "I did the Thorn Whip, but I missed this opportunity. Valphine did Sacred Flame."
 
 **Soma**
-> "That's death if he dies, if he takes the whole damage."
+> "That's death — if he takes the whole damage."
 
 **GM**
 > "All right, he dies."
@@ -385,18 +400,18 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "I had no idea you were so easily triggered."
 
 **Vukradin** — the complaint
-> "I had to fight orcs, I had to fight an ogre, ogre jellies — this is not what I signed up for."
+> "I had to fight orcs, I had to fight an ogre, ochre jellies — this is not what I signed up for."
 
 **Valphine Sotorra**
 > "What did you sign up for?"
 
 **Vukradin**
-> "Well, we were just supposed to go tell the dwarves that there was a dragon in the area and then go back to town."
+> "Well, we were just supposed to go tell the dwarves that there was a dragon in the area, and then go back to town."
 
 **[The Loot]**
 
 **GM**
-> "All right, you find walloping and ammunition on him."
+> "All right, you find walloping ammunition on him."
 
 **Soma**
 > "What?"
@@ -405,7 +420,10 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "No doubt stolen from another adventurer."
 
 **GM** — the item's effect
-> "A creature hit by this ammunition must succeed in a DC saving throw or have the prone condition."
+> "A creature hit by this ammunition must succeed on a DC saving throw or have the prone condition."
+<!-- Editorial note: the DC is absent from both passes — the GM did not state a number
+     here. Left as captured rather than reconstructed; the value is established in scene 05
+     as DC 10. -->
 
 **Valphine Sotorra**
 > "Who has ranged weapons?"
@@ -417,32 +435,15 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "You can always sell it."
 
 **GM** — why the ogre never used it
-> "All right, all right, okay. You find the walloping ammunition, and fortunately for you, the ogre did not know how to use it. It's fortunate, possibly because the ogre prefers just walloping people."
+> "All right, okay. You find the walloping ammunition — and fortunately for you, the ogre did not know how to use it. It's fortunate, possibly, because the ogre prefers just walloping people."
 
 **Valphine Sotorra**
 > "Yeah."
 
-**GM**
-> "You know, the ogre's modus vivendi. All right, so you arrive in Phandalin."
-
-**[The Hand Crossbow Question]**
-
-**Valphine Sotorra** — the loot prompts a gear realization
-> "So is there a reason that Valphine does not have a hand crossbow? I mean, she's a drow."
-
-**GM**
-> "No, she can have a hand crossbow."
-
-**Vukradin**
-> "I'd buy one."
-
-**GM**
-> "I mean, I almost feel like a drow without a hand crossbow is kind of like not a real drow."
-
-**Valphine Sotorra**
-> "Yeah, seriously."
-
-**GM**
-> "Yeah, it's sort of like, less of a drow."
+**GM** — closing the encounter out
+> "You know, the ogre is modus vivendi. All right. So you arrive in Phandalin."
+<!-- Editorial note: "modus vivendi" is unrecovered — plausibly the GM being arch on
+     purpose, but neither pass corroborates. GM ruling 03-G: keep as captured. Do not
+     narrate it as meaningful. -->
 
 *Note: the summary bullet placing Soma's Mold Earth rockslide idea in this fight does not appear here — that exchange occurs during the second ogre encounter later in the session, on the road to Gnomengarde.*

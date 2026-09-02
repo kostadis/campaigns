@@ -12,7 +12,7 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 
 - The route to Gnomengarde is fifteen miles through hilly terrain; the DM establishes the encounter in a narrow valley where the terrain counts as difficult for movement between elevation levels.
 - A hulking ogre blocks the path and announces without preamble: *"I hungry. I eat you."*
-- When the party offers rations and attempts to negotiate, the ogre specifies its preference: *"Turtle. I eat turtle"* — fixing its attention on Soma, the Tortle, who is visibly displeased: *"Excuse me."*
+- When the party offers rations and attempts to negotiate, the ogre specifies its preference: *"Turtle. I eat turtle"* — fixing its attention on Soma, the Tortle. Soma is visibly displeased: *"Excuse me."*
 - Vukradin attempts to defuse the situation by offering food and asking the ogre to simply stand aside: *"Can we just give you some food and you, you can stand over there? 'Cause we're just walking past you. Can we do that?"*
 - The ogre is not interested in a negotiated solution. Attempts at intimidation from Soma, Vukradin, and Valphine all fail; the DM notes that the ogre is if anything encouraged by the party's failed attempts, viewing them as evidence of an easy victory.
 - Vukradin, growing frustrated, announces that the party killed another ogre just recently. Rather than giving the creature pause, this prompts the DM's best line of the encounter: *"You killed my brother and sister."* The ogre enters combat in a fury.
@@ -25,11 +25,17 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 - Soma delivers a second Poison Spray for four more damage before the DM calls time at 10:30.
 - The ogre's skipped turn is played out and the halt condition removed before the table stops. The session ends with the ogre alive, prone, no longer halted, and badly damaged; Valphine has the next action when play resumes.
 
-## Verbatim moments
+<!-- Editorial note on the summary: the transcript has the ogre say "You killed my brother!"
+     — both passes agree, with no mention of a sister. GM ruling 05-F: the quote stands as
+     captured; the summary bullet above is the paraphrase that needs correcting upstream. -->
+
+## Voiced moments
 
 **[GM]** — routing the party toward Gnomengarde, laying out terrain options
-> "One gold, yeah, let's just make it one gold. All right, so off to Gnomengarde. Where is this? Yeah — ah, I didn't put you on the right map. All right, here we go. Gnomengarde. So you go through — do you want to go through the hilly terrain, go to the grasslands, or just head—"
-> "Slink. How do you want to go?"
+> "One gold. Yeah, let's just make it one gold. All right, so — off to Gnomengarde. So you go through: do you want to go through the hilly terrain, go to the grasslands, or just head—"
+> "How do you want to go?"
+
+*Cut from this layer: a beat of the GM loading the correct map ("where is this — ah, I didn't put you on the right map") — VTT tooling logistics, not narratable content (GM ruling 05-H). See voice_smooth.sources.yaml.*
 
 **[Valphine Sotorra]** — choosing the route
 > "Hold on, sorry, sorry, I just realized."
@@ -42,22 +48,22 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "All right, through the hilly terrain, through the— all right. How else?"
 
 **[Valphine Sotorra]**
-> "Pesky tree cover, I need to have this sun."
+> "Pesky tree cover. I need to have this sun."
 
 **[Vukradin]** — distance
 > "Ten miles."
 
 **[GM]** — correcting the distance
-> "Yeah, no, no, it's 15 miles."
+> "Yeah, no, no — it's 15 miles."
 
 **[Valphine Sotorra]** — on drow and sunlight
-> "I just thought you were allergic to the sun. No, no, the sun is gloriously painful."
+> "I just thought you were allergic to the sun. No, no — the sun is gloriously painful."
 
 **[GM]**
 > "Yeah, you're not really understanding the whole Valphine thing."
 
 **[Vukradin]** — reviewing the Gnomengarde quest before they arrive
-> "What do we have to do with the Gnomes? Let me look. Remind me. How quickly can we get this done? Gnomes are known for their magical inventions. They might have something to do with the Feet of the Dragon. Get whatever you can from them. So we just need to trade with the Gnomes. Okay. That's fast. We can trade very quickly."
+> "What do we have to do with the gnomes? Let me look. Remind me. How quickly can we get this done? Gnomes are known for their magical inventions. They might have something to do with the defeat of the dragon. Get whatever you can from them. So we just need to trade with the gnomes. Okay. That's fast. We can trade very quickly."
 
 **[GM]** — stalling as he sets up the encounter
 > "Hold on. Hold on. Hold on. Hold on."
@@ -66,7 +72,7 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Holding on."
 
 **[Vukradin]** — planning to satisfy the quest on a technicality
-> "Holding on. Holding on. We can get whatever we can. We might be able to get nothing, and then we've gotten whatever we can, and we get our 50 gold pieces."
+> "Holding on. Holding on. We can get whatever we can. We might be able to get nothing — and then we've gotten whatever we can, and we get our 50 gold pieces."
 
 **[Soma]**
 > "Technically correct. The best kind of correct."
@@ -75,11 +81,11 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 - The GM frames the terrain as a mountain pass with a bend in it.
 
 **[GM]** — establishing the ambush
-> "So as you're going through — imagine you're going through the mountains, right, as you turn around the corner. So imagine this is a mountain pass kind of thing,"
-> "A ogre is standing in the middle of the way."
+> "So as you're going through — imagine you're going through the mountains, right, as you turn around the corner. Imagine this is a mountain pass kind of thing."
+> *An ogre is standing in the middle of the way.*
 
 **[Vukradin]**
-> "Other Ogre"
+> "Other ogre."
 
 **[GM]**
 > "Yes."
@@ -97,25 +103,27 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "No, it's definitely — oh, not a slave."
 
 **[Valphine Sotorra]**
-> "Cause usually when they're slaves they don't whistle cheerfully."
+> "'Cause usually when they're slaves they don't whistle cheerfully."
 
 **[Vukradin]** — weary
 > "Oh, he just wants to kill us, then. Like the other one. It seems like everybody out here just wants to kill us."
 
 **[GM]** — the ogre's opening line
-> "The Ogre goes, I hungry, I eat you."
+> *The ogre speaks.*
+> "I hungry. I eat you."
 
 **[Vukradin]** — attempting to buy passage
-> "We have food. Can we just give you some food and you can stand over there, because we're just walking past you."
+> "We have food. Can we just give you some food and you can stand over there, because we're just walking past you?"
 
 **[GM]** — the ogre names its preference
-> "He looks. I like turtle."
+> *He looks.*
+> "I like turtle."
 
 **[Soma]** — the Tortle, displeased
 > "Excuse me?"
 
 **[Vukradin]**
-> "I don't have any turtle, I have some rations."
+> "I don't have any turtle. I have some rations."
 
 **[GM]**
 > "Turtle. I eat turtle."
@@ -147,10 +155,12 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "We know. We know."
 
 **[GM]**
-> "In fact, I think the ogre now is excited because he saw your attempted intimidation and thinks this is going to be an easy— he goes, I, eternal elf."
+> "In fact, I think the ogre now is excited, because he saw your attempted intimidation and thinks this is going to be easy. He goes: I, eternal elf."
+<!-- Editorial note: "I, eternal elf" is unrecovered — neither pass gives a clean reading.
+     GM ruling 05-D: keep as captured. Do not narrate it as meaningful. -->
 
 **[Soma]**
-> "I told you, don't intimidate ogres!"
+> "I told you — don't intimidate ogres!"
 
 **[Vukradin]** — escalating with the wrong boast
 > "I've killed other ogres like you."
@@ -166,6 +176,8 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 
 **[Soma]**
 > "Let everyone kill me. Yeah, let everyone cry and say it."
+<!-- Editorial note: unrecovered in both passes. GM ruling 05-E: keep as captured. Do not
+     narrate it as meaningful. -->
 
 **[Vukradin]** — the recurring lament
 > "All I ever wanted to do was play music."
@@ -182,42 +194,41 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 **[Soma]**
 > "Nice going, kiddo. You just ticked him off."
 
-**[GM]** — setting up the tracker
-> "All right, okay, let me just put an ogre in the combat tracker."
+*Cut from this layer: a beat of the GM adding the ogre to the combat tracker — VTT tooling logistics, not narratable content (GM ruling 05-H). Soma's reply below is content and is kept. See voice_smooth.sources.yaml.*
 
 **[Soma]**
 > "Another one."
 
 **[GM]**
-> "Dude, it's like what you encounter on the module."
+> "Dude, it's what you encounter on the module."
 
 **[Vukradin]** — signalling a tactical shift
 > "No, it's fine, it's fine. All right, well, I'm gonna have to stop, I think."
 > "I'm going to try some different spells. I've got some other ideas."
 
 **[GM]** — calling for initiative
-> "Valphine and Brewbarry, you need to put your mission rules."
+> "Valphine and Brewbarry, you need to put in your initiative rolls."
 
 **[Valphine Sotorra]**
 > "11 and 9."
 
 **[GM]**
-> "All right, okay. Okay. All right, all right. Soma, you're up."
+> "All right. Okay. All right. Soma, you're up."
 
 **[Soma]** — surprised to be first
 > "Oh man, I'm first. How did that happen?"
 
 **[GM]** — describing the battlefield
-> "So just to give you an idea, right? You're in the middle of a sort of a valley with the—"
+> "So just to give you an idea — you're in the middle of a sort of a valley with the—"
 
 **[scene tag — Soma Tries Mold Earth]**
 - Soma proposes burying the ogre under a rockslide instead of attacking.
 
 **[Soma]**
-> "Yeah, no, I was wondering if I could just mold earths and rocks on top of them or something. I mean, he's literally surrounded."
+> "Yeah, no, I was wondering if I could just, like, Mold Earth some rocks on top of them or something. I mean, he's literally surrounded."
 
 **[GM]**
-> "No, no, no, I'm just trying to— I'm actually saying yes, but I just don't know how to measure the damage."
+> "No, no, no — I'm actually saying yes, but I just don't know how to measure the damage."
 
 **[Soma]**
 > "Yeah, does this actually have a roll? What happens when I roll? Oh, it just does that."
@@ -226,19 +237,22 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "You can just roll cantrip damage if you want to make it easy."
 
 **[Soma]**
-> "Well, I like the idea."
+> "Well, you know, I like the idea."
 
 **[Vukradin]** — arguing the physics
-> "And it would be like the dirt that's above him — you would loosen it and then it would fall on him. Yeah. Especially from quite high up."
+> "And it would be like the dirt that's above him — you would loosen it and then it would fall on him. Especially from quite high up."
 
 **[Soma]**
-> "I could make a good rock slide or something onto him — we make a big old, basically like a rock avalanche come down on him or something."
+> "I could make a good rockslide onto him — like, we make a big old rock avalanche come down on him or something."
 
 **[Vukradin]** — reading the spell text back
 > "It says this movement doesn't have enough force to cause damage."
 
 **[Soma]**
-> "Well, yeah, but from up above, that potential energy gets converted into damage, like dropping a penny off the Empire State Building."
+> "Well, yeah, but from up above, that potential energy gets converted into damage — like dropping a copper off the Cloaktower."
+<!-- Editorial note: the transcript reads "dropping a penny off the Empire State Building".
+     GM ruling 05-G: the two named real-world references in this scene are rewritten into
+     in-world equivalents rather than kept or scrubbed. -->
 
 **[GM]**
 > "Yeah, yeah, yeah."
@@ -247,17 +261,17 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Can that kill you?"
 
 **[Soma]**
-> "I don't think it can, but that's just because pennies have a very low terminal velocity."
+> "I don't think it can, but that's just because coppers have a very low terminal velocity."
 
 **[GM]** — ruling
-> "All right, all right, all right, all right. So I will declare that it would cause 1d6 worth of damage."
+> "All right, all right, all right. So I will declare that it would cause 1d6 worth of damage."
 
 **[Soma]** — abandoning the plan
-> "All right, we'll just poison spray him."
-> "Screw being creative. Good old poison spray. Nothing beats it."
+> "All right, we'll just Poison Spray him."
+> "Screw being creative. Good old Poison Spray. Nothing beats it."
 
 **[GM]**
-> "No, yeah, unfortunately the mold earth spell, the problem with it—"
+> "No, yeah — unfortunately the Mold Earth spell, the problem with it—"
 
 **[Soma]**
 > "It's fine. It's not meant for damage. I just kind of wanted to screw around. So I'll just do it."
@@ -273,6 +287,8 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 
 **[Soma]** — retreating out of turtle-range
 > "Yeah, 51. And I'm actually going to scoot back, since he said turtle was sort of his favorite food."
+<!-- Editorial note: "Yeah, 51" is unrecovered in both passes. GM ruling 05-E: keep as
+     captured. Do not narrate it as meaningful. -->
 
 **[GM]**
 > "All right, unfortunately he made it."
@@ -281,7 +297,7 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Put me in front. Thanks, dude."
 
 **[Soma]**
-> "You're the one who pissed him off. This is— the spray doesn't have a saving throw."
+> "You're the one who pissed him off. The spray doesn't have a saving throw."
 
 **[GM]** — correcting himself
 > "Oh, it's a hit. Oh, it's a hit, right? Sorry, my bad."
@@ -290,7 +306,7 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Yeah, he just takes 8 damage."
 
 **[GM]**
-> "Yes"
+> "Yes."
 
 **[scene tag — Marching Order Correction]**
 - Vukradin realises he is once again standing at the front and repositions to the back; Brewbarry takes the vanguard.
@@ -299,7 +315,7 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "All right, ogre's up."
 
 **[GM]**
-> "All right. Ogre's like..."
+> "All right. Ogre's like…"
 
 **[Vukradin]** — bargaining as a food item
 > "I taste bad, don't come after me!"
@@ -317,7 +333,9 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "I don't think that would be — he would be here."
 
 **[Vukradin]**
-> "I think I would be in the back. I'm gonna be in the back. I don't think that looks more sane. Zane."
+> "I think I would be in the back. I'm gonna be in the back. I don't think that looks more sane Zane."
+<!-- Editorial note: the tail of this line is unrecovered in both passes. GM ruling 05-E:
+     keep as captured. Do not narrate it as meaningful. -->
 
 **[GM]**
 > "Yes, I can't imagine that would have been your order."
@@ -326,13 +344,13 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Oh, he exited a square that I'm threatening."
 
 **[Vukradin]**
-> "No, that's right, ogre— ogre is up first."
+> "No, that's right — ogre, ogre is up first."
 
 **[Valphine Sotorra]**
 > "Yeah, but I still get my reaction on him."
 
 **[GM]**
-> "Yeah, yeah, you take four points of damage."
+> "Yeah, yeah — you take four points of damage."
 
 **[Valphine Sotorra]**
 > "I'll get it."
@@ -341,13 +359,14 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Don't forget to rage!"
 
 **[GM]** — the ogre's natural one
-> "He doesn't get to rage up until— he gets to rage on his turn, not— it's all right. So the ogre swings his axe and rolls a one."
+> "He doesn't get to rage until — he gets to rage on his turn, not— all right. So the ogre swings his axe, and rolls a one."
 
 **[Vukradin]**
 > "That's amazing."
 
 **[GM]**
-> "Cuts off his own toe. Valphine. Valphine."
+> *Cuts off his own toe.*
+> "Valphine. Valphine."
 
 **[scene tag — Valphine's New Hand Crossbow]**
 - Valphine, who bought a hand crossbow in Phandalin, weighs a mace attack against ranged options given the elevation costs.
@@ -362,7 +381,7 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "I can walk in this dark grey."
 
 **[GM]** — elevation movement cost
-> "Yes, just every time you go on it, it counts as 10 feet of movement. Going up on it costs you 10, and so you can then move normally on it."
+> "Yes — every time you go on it, it counts as 10 feet of movement. Going up on it costs you 10, and so you can then move normally on it."
 
 **[Valphine Sotorra]**
 > "So I moved 28, I guess."
@@ -380,22 +399,22 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Missed, anyway."
 
 **[GM]**
-> "I'm just saying you might want to use your spell. That's what I'm trying to say."
+> "I'm just saying, you might want to use your spell. That's what I'm trying to say."
 
 **[Valphine Sotorra]**
 > "Okay, I will use my spell instead."
 
 **[GM]**
-> "Or a ranged weapon. That's where your choices are."
+> "Or a ranged weapon. Those are your choices."
 
 **[Valphine Sotorra]**
 > "Well, maybe we should try this new hand crossbow."
 
 **[GM]**
-> "All right, try the new hand crossbow. Gosh darn it, that is a hit. Are you using one of the special bullets, or you're just using it for damage?"
+> "All right, try the new hand crossbow. Gosh darn it, that is a hit. Are you using one of the special bullets, or are you just using it for damage?"
 
 **[Valphine Sotorra]** — loading the walloping ammunition taken from the previous ogre
-> "Roll a strength save, DC 10?"
+> "Roll a strength save. DC 10?"
 
 **[Vukradin]**
 > "You should be able to make that."
@@ -404,10 +423,10 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "I don't!"
 
 **[Vukradin]**
-> "What's your plus on strength size?"
+> "What's your plus on strength saves?"
 
 **[GM]**
-> "and more."
+> "Four."
 
 **[Vukradin]**
 > "Oh, okay. All right. He's prone then."
@@ -419,22 +438,25 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "And he takes 3 damage."
 
 **[scene tag — Vukradin Casts Command]**
-- Vukradin, having said he wanted to try different spells, reaches for a video-game staple.
+- Vukradin, having said he wanted to try different spells, reaches for a reliable standby.
 
 **[Vukradin]**
-> "Use a Baldur's Gate 3 standby."
+> "Use a Baldur's Gate standby."
+<!-- Editorial note: the transcript reads "a Baldur's Gate 3 standby". GM ruling 05-G: the
+     numeral is dropped so the reference lands in-world — Baldur's Gate is a Faerûnian
+     city. -->
 
 **[GM]**
 > "What was that?"
 
 **[Vukradin]**
-> "Make a DC 13 wisdom save."
+> "Make a DC 3 — DC 13 wisdom save."
 
 **[GM]**
-> "Bluzzit"
+> "Blows it."
 
 **[Vukradin]**
-> "is halted and can take no actions until the end of his next turn."
+> "…is halted and can take no actions until the end of his next turn."
 
 **[GM]** — impressed
 > "Well, well, well."
@@ -455,7 +477,7 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Yep. And halted. So that is 12 points of damage."
 
 **[Brewbarry]**
-> "With, uh— points plus two rage, so 14."
+> "With — points plus two rage, so 14."
 
 **[GM]**
 > "Yeah, I got that. You got that."
@@ -464,10 +486,10 @@ from: ../scene_extractions_rebuilt/05_ambush_in_the_mountain_pass.md
 > "Back to the top of the order is me."
 
 **[GM]** — calling time
-> "Yes. Or, okay, let's just do you, Soma, and we'll stop after that, because it's 10:30."
+> "Yes. Okay, let's just do you, Soma, and we'll stop after that, because it's 10:30."
 
 **[Soma]**
-> "Yeah. I think I'm still best off just doing poison spray, right? Just hit it. Hit it and get out."
+> "Yeah. I think I'm still best off just doing Poison Spray, right? Just hit it. Hit it and get out."
 
 **[GM]**
 > "Oh boy, another 4 damage."

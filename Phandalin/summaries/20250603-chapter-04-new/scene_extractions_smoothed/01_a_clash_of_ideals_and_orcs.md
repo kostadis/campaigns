@@ -32,7 +32,13 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 - Valphine succeeds on her first death save; Vukradin fails a second after his own knockdown, and both are stabilized once combat ends.
 - The group loots the fallen orcs: a broken hand axe, a javelin, hide armor (in fine condition), and four battle axes. Vukradin flags the weapons as probable blood money — likely stolen from prior victims — and they are tracked in the party's shared ledger under a dedicated "blood money" column in the party's ledger. Vukradin declines a share in blood-money proceeds; Brewbarry is not similarly constrained.
 
-## Verbatim moments
+<!-- Scene boundary note: the closing long-rest beat (from "Long rest, everybody" through
+     "Orcs slaughtered us") lives in THIS scene per the GM's de-duplication ruling; it was
+     duplicated at the head of 02 and has been cut there. Vukradin's line "Oh, okay. Yeah,
+     I'll head on over. Yeah, that sounds good." existed only in scene 02's copy and has
+     been rescued into the sequence below. -->
+
+## Voiced moments
 
 **[Initiative and Positioning]**
 - The GM sorts initiative and calls Vukradin up first.
@@ -45,13 +51,13 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Oh, Jesus."
 
 **GM**
-> "Wait, is it — hold on, hold on,"
+> "Wait, is it — hold on, hold on."
 
 **Vukradin**
 > "Hold on, hold on, hold on."
 
 **GM**
-> "Hold on, Vukradin. How do I pronounce your name? Is it Vukradin, Vukradin, Vukradin?"
+> "Hold on, Vukradin. How do I pronounce your name? Is it Vukradin? Vukradin? Vukradin?"
 
 **Vukradin**
 > "I think Vukradin."
@@ -63,10 +69,9 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Let me ask you a question. Does anyone other than your mother and your stalwart fans call you Vukrad? And doesn't anybody use a nickname like Din, or Krod, or Vuk?"
 
 **Vukradin**
-> "I'm a serious musician. I use my name. I don't know what you think is going on here. Neverember, Mooncrowding will be fine, thank you."
+> "I'm a serious musician. I use my name. I don't know what you think is going on here. Vukradin will be fine, thank you."
 
-**GM**
-> "Do your friends call you Cassidophorium? Yes. Are they your friends? No."
+*Cut from this layer: a follow-on table exchange about an invented long-form version of the name — table chatter, not narratable content (GM ruling 01-M).*
 
 **Soma** — on visibility
 > "For what it's worth, we can barely see the orcs. We can see maybe two of them. The rest are kind of up here in the fog of war."
@@ -86,7 +91,8 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Oh, that boy's gonna get himself killed."
 
 **GM** — voicing the orcs' interpretation
-> "All right, well, the orcs kind of say — the orcs are kind of like, cool, he's a dumbass. Actually, what they really say is, he recognizes our rights to this territory and is offering himself in sacrifice."
+> *The orcs confer. What they say to each other is that he's a dumbass. What they actually say:*
+> "He recognizes our rights to this territory, and is offering himself in sacrifice."
 
 **Vukradin** — genuinely bewildered
 > "Sacrifice? No, I just wanted to talk. What is going— Why are you guys here? Did you need something? Do you need help? Are you looking for a place to stay? Are you hungry?"
@@ -98,7 +104,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "I've never encountered orcs before. I'm very confused."
 
 **GM** — correcting the record
-> "Actually, it's worse than that. You have encountered orcs before, but they were in — which we'll call it — Storm Kings. No, no, no, they were in a Neverwinter, and they were civilized."
+> "Actually, it's worse than that. You have encountered orcs before, but they were in — what we'll call Storm Kings. No, no, no — they were in Neverwinter, and they were civilized."
 
 **Vukradin**
 > "Oh, even better. There he is. Now I'm even doubly confused. He came and listened to my music."
@@ -133,19 +139,21 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 **[The Battle Is Joined]**
 
 **GM** — the orc's answer to the parlay
-> "Hold on. Orc number one. Sorry. Orc number one kind of is like, What? Well, if you're going to give us a bonus round, we're going to take advantage of it. And he reaches with his greataxe and effin' misses, proving that God loves fools and sinners."
+> *Orc number one takes the offer at face value.*
+> "What? Well, if you're going to give us a bonus round, we're going to take advantage of it."
+> *He reaches out with his greataxe and misses, proving that God loves fools and sinners.*
 
 **Vukradin**
-> "All right, you missed. Great. All right, the battle is joined then. All right, Soma, don't be an idiot like me."
+> "All right, you missed. Great. All right, the battle is joined then. All right, Soma — don't be an idiot like me."
 
 **Soma**
 > "You got lucky, kiddo."
 
 **GM** — the late-arriving context
-> "This is where one of you remembers that there were orc tribes that were coming down from the north."
+> "This is where one of you remembers that there were orc tribes coming down from the north."
 
 **Vukradin**
-> "We were told this by the mayor of the town or something."
+> "We were told this by, like, the mayor of the town or something."
 
 **GM**
 > "No, the innkeeper."
@@ -174,16 +182,16 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "All right, then maybe that's what we do. We're just gonna thorn whip number two and drag him down."
 
 **Soma** — resolving the hit
-> "It's a hit. He falls down. Yeah, he gets dragged. Let's see. On a hit, the target takes 1d6, and then pull it 10 feet closer, which means he tumbles down the hill. I assume that knocks him prone or something."
+> "It's a hit. He falls down. He gets dragged. On a hit, the target takes 1d6, and then I pull him 10 feet closer — which means he tumbles down the hill. I assume that knocks him prone."
 
 **GM** — adjudicating fall damage on the fly
-> "No, he's definitely prone. I'm saying, I'm trying to decide if he takes fall damage because he was rolled down. Does he take prone damage? Does he take fall damage? Takes 1d6 worth of fall damage. How about that? That's good enough. That works. Doesn't take the full 2d6. That's what I was trying to decide."
+> "No, he's definitely prone. I'm trying to decide if he takes fall damage because he was rolled down. Does he take prone damage? Does he take fall damage? He takes 1d6 worth of fall damage. How about that? That's good enough. That works. He doesn't take the full 2d6. That's what I was trying to decide."
 
 **GM**
 > "So, six points of damage."
 
 **Soma**
-> "Six points on Orc number two. The important thing is he is CC'd. Init bonus — somebody already got him, good, thank you."
+> "Six points on orc number two. The important thing is he is CC'd. Init bonus — somebody already got him, good, thank you."
 
 **[Orc Four Drops Vukradin]**
 
@@ -194,7 +202,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "I mean, he did rush up into the front."
 
 **GM**
-> "Yeah, he did, so it's not my fault. Except I forgot to roll to hit. 18 — you take 12 points of damage. Damage Recruiting."
+> "Yeah, he did. So it's not my fault. Except I forgot to roll to hit. 18 — you take 12 points of damage, Vukradin."
 
 **Vukradin**
 > "I am unconscious."
@@ -223,7 +231,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "All right, we'll go with Heal the Word — Healing Word — and then Sacred Flame."
 
 **Vukradin** — reacting to the roll
-> "You got 11 on a Healing Word? I didn't even know it could be that powerful. I thought it was a d4. It's 2d4."
+> "You got 11 on a Healing Word? I didn't even know it could be that powerful. I thought it was like a d4. It's 2d4."
 
 **Soma**
 > "It says 2d4 plus 3, and he double crit."
@@ -232,13 +240,13 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Wow, nice. All right, so I have nine hit points. Thank you."
 
 **Valphine Sotorra** — the Sacred Flame follow-up
-> "I ended up one point in Sacred Flame. Up to whom? We're going to go with... Actually, that's a good question. Hold on, prone condition. Why is Brewbarry injured? Then we do a long rest."
+> "And then one point in Sacred Flame. Up to whom? We're going to go with… Actually, that's a good question. Hold on — prone condition. And why is Brewbarry injured? Didn't we do a long rest?"
 
 **Valphine Sotorra** — picking a target
-> "Well, at any rate, it doesn't matter who I'm doing it on, so it will be on... Four. All right."
+> "Well, at any rate, it doesn't matter who I'm doing it on, so it will be on… four. All right."
 
 **GM** — confirming the save later
-> "Yeah, number four made us— oh, I didn't roll that. Number four, it was the guy, I don't know why he was moved. All right, I'm assuming — what was your Sacred Flame? Oh, yes, you made your saving throw. One. One hit point. Made his hit."
+> "Yeah, number four made it. Oh, I didn't roll that — number four was the guy, I don't know why he was moved. All right, I'm assuming — what was your Sacred Flame? Oh, yes, you made your saving throw. One hit point."
 
 **[Turn Order Confusion Over the Prone Orc]**
 
@@ -246,7 +254,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Did we skip the prone guy?"
 
 **GM**
-> "Oh, yeah. Yeah, I didn't get. Yeah, the prone guy."
+> "Oh, yeah. Yeah, I didn't get — yeah, the prone guy."
 
 **Soma**
 > "I should have gone before the cleric."
@@ -255,7 +263,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "His only action is stand up, right?"
 
 **GM** — citing the 2024 rule
-> "No, he can — prone, the prone condition, you can remove the prone condition by reducing your move rate by 15. Oh, okay. Vukredin would still be dead, so move Brewbarry. I'll just do — can I just do the orc after Brewbarry? How about that? Yeah, that's fine. All right, let's go."
+> "No, he can — prone, the prone condition, you can remove the prone condition by reducing your move rate by 15. Vukradin would still be dead, so move Brewbarry. Can I just do the orc after Brewbarry? How about that? Yeah, that's fine. All right, let's go."
 
 **[Brewbarry's Halberd]**
 
@@ -266,7 +274,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "GO SMASH"
 
 **Brewbarry** — on reach
-> "But he doesn't have to be that close. He can be here."
+> "But he doesn't have to be that close. He can be like here."
 
 **GM** — granting advantage from prone
 > "And since he was knocked prone, you do have advantage on him. So roll again. You missed — the 12 missed."
@@ -278,24 +286,24 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "On number two."
 
 **Valphine Sotorra**
-> "did one of the orcs make a saving throw on Sacred Flame for one hit point?"
+> "Which would put him at two hit points. I'll kill him. Nope. Yeah. By the way, did one of the orcs make a saving throw on Sacred Flame for one hit point?"
 
 **GM** — asking about Brewbarry's feature
-> "All right, so this orc... Okay, what does this orc do? He just got whacked by Brewbarry, so he charges at Brewbarry. By the way, what does the Cleave action do?"
+> "All right, so this orc… okay, what does this orc do? He just got whacked by Brewbarry, so he charges at Brewbarry. By the way, what does the cleave action do?"
 
 **Brewbarry** — reading the rule
-> "Oh, that's a good question. Cleave. Once per turn, if I hit a creature with a melee attack, I can make another melee attack against a second creature within 5 heat."
+> "Oh, that's a good question. Cleave. Once per turn, if I hit a creature with a melee attack, I can make another melee attack against a second creature within five feet."
 
 **GM**
 > "Yeah, so do your second attack."
 
 **Brewbarry** — resolving cleave
-> "That is a hit. The second creature takes a halberd's damage, but without ability modifier. So, not this, it would be... That would be a 9 damage."
+> "That is a hit. The second creature takes a halberd's damage but without ability modifier. So that would be 9 damage."
 
 **[The Attack of Opportunity Kill]**
 
 **Brewbarry** — catching the movement
-> "That's useful. I should actually do that. Yes. All right. So I believe you said that two was leaving a square that I threaten."
+> "That's useful. I should actually do that. Yes. All right, so I believe you said that two was leaving a square that I threaten."
 
 **GM**
 > "Oh, he was advancing to you."
@@ -328,7 +336,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Well done."
 
 **GM** — noting the forgotten rage, and the orcs' read on the bard
-> "All right. Oh, and I forgot to rage. All right, what would orc 3— Everybody's now decided Vukradin's a loser who can't add much value."
+> "All right — oh, and I forgot to rage. All right, what would orc three do? Everybody's now decided Vukradin is a loser who can't add much value."
 
 **Soma**
 > "He is a bard."
@@ -337,21 +345,23 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 
 **Valphine Sotorra** — noticing the map text
 > "So did anyone notice that Valphine is Yo?"
+<!-- Editorial note: neither transcript recovers the last word; the GM's reply establishes
+     that she is pointing at the map's "Canyon" label showing through her token. GM ruling
+     01-O: keep as captured. Do not narrate the phrase itself as meaningful. -->
 
 **Vukradin**
 > "I saw that."
 
 **GM**
-> "Oh, that's the texture on the map, isn't it? Yeah, it's supposed to say Canyon. So when your character's over it, it kind of goes in the background."
+> "Oh, that's the texture on the map, isn't it? Yeah, it's supposed to say Canyon. So when your character's over it, it kind of goes into the background."
 
 **Soma**
 > "It's weird that that's on the top layer, anyway."
 
-**GM** — explaining the foreground layer
-> "I put it on the top layer. It means that I can put these symbols where they are and they will show regardless of whether you've discovered it or not. Otherwise, if you put in the other layers and you don't have lighting, you can't see it. So they had this new foreground layer that lets me do that. Since this is causing people— how about that? Okay. All right. It's fine."
+*Cut from this layer: the GM's explanation of the map's foreground rendering layer, and the follow-on about being annoyed by it — VTT tooling logistics, not narratable content (GM ruling 01-Q). See voice_smooth.sources.yaml.*
 
-**GM**
-> "No, no, I know, I know, but it was like — I was kind of annoyed by it, and so you guys brought it up, and I said, okay, it's not— I'm not going to look weird by being annoyed. All right, okay, so he attacks with his greataxe."
+**GM** — returning to the fight
+> "All right, so he attacks with his greataxe."
 
 **[Valphine Takes Eight]**
 
@@ -371,7 +381,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "One away from a crit, at least."
 
 **GM**
-> "For eight points of damage. All right, I'll take it. All right, down to two. All right, Vukradin."
+> "For eight points of damage. All right, I'll take it. All right, down to two. All right — Vukradin."
 
 **[Vukradin Goes Down a Second Time]**
 
@@ -391,13 +401,13 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "He's not late-stage Orsik. He's not Orsik."
 
 **Vukradin** — his attacks
-> "Three damage on number one, and then we'll attack again, and misses with the second attack. That's a shame. All right."
+> "Three damage on number one, and then we'll attack again — and misses with the second attack. That's a shame. All right."
 
 **Soma**
 > "Yeah, that means he gets to hit back."
 
 **GM** — the orc's surprise
-> "All right, number one kind of notices that you hit him, so he's surprised, he's like, you— you got— he's like, it's kind of like— and he hit. Does he hit?"
+> "All right, number one kind of notices that you hit him, so he's surprised. He's like — and does he hit?"
 
 **Vukradin**
 > "Yes."
@@ -418,12 +428,12 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "You've learned a valuable lesson."
 
 **Vukradin**
-> "I am definitely learning things. Why they wanted to fight me, I don't know, but they wanted to fight me. All right, I made my destiny."
+> "I am definitely learning things. Why they wanted to fight me, I don't know — but they wanted to fight me. All right, I made my destiny."
 
 **[Soma Kills Orc One]**
 
 **Soma** — switching cantrips
-> "Yeah, yeah, I don't know. We'll just thorn whip him again, he should die from that, right? Actually, no — Poison Spray, that can do 1d12."
+> "Yeah, yeah — I don't know. We'll just thorn whip him again, he should die from that, right? Actually, no. Poison Spray. That can do 1d12."
 
 **GM**
 > "What's the range of that?"
@@ -435,22 +445,21 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Okay, so it's a target."
 
 **Soma**
-> "Yeah, it's target at number one, yeah."
+> "Yeah, it's targeted at number one."
 
-**GM** — clearing the tokens
-> "Guys, all right, orc number four. All right, hold on, let's get rid of— let's get— nobody— we aren't— you folks aren't doing their jobs getting rid of the orc. So we're down two and four. Okay, I got rid of it. I got rid of it. Okay."
+*Cut from this layer: a beat of the GM clearing dead orc tokens off the map ("let's get rid of… I got rid of it") — VTT tooling logistics, not narratable content (GM ruling 01-Q). See voice_smooth.sources.yaml.*
 
 **GM** — the remaining orcs' calculus
-> "Well, a battle is not lost, they think to themselves. It can kill Valfi and it becomes two-on-two, so."
+> "Well, a battle is not lost, they think to themselves. If they can kill Valphine it becomes two-on-two, so."
 
 **Valphine Sotorra**
 > "Yeah, that's not gonna help."
 
 **Soma**
-> "Ignore the damage, dealers!"
+> "Ignore the damage dealers."
 
 **GM**
-> "Well, that's not a hit. No, that's not a hit. Okay. Brubit, Valphine, you're up."
+> "Well, that's not a hit. No, that's not a hit. Okay. Brewbarry — Valphine, you're up."
 
 **[Valphine Refuses to Disengage at Two Hit Points]**
 
@@ -461,13 +470,13 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Nah. Nah. I'm enjoying the pain here."
 
 **GM**
-> "That's what I was worried you were going to say, all right?"
+> "That's what I was worried you were going to say."
 
 **Valphine Sotorra**
-> "Let's see, they both are at full hit points, okay. Then I'll just attack four, and then we'll go with just a regular mace attack."
+> "Let's see, they're both at full hit points. Okay. Then I'll just attack four, and we'll go with a regular mace attack."
 
 **GM**
-> "That is a miss. Okay. All right. Uh... Brew... Brewbarry."
+> "That is a miss. Okay. All right. Brewbarry."
 
 **[Brewbarry Remembers to Rage]**
 
@@ -475,10 +484,10 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "That was a hit for seven points of damage on number three. All right, I marked it."
 
 **Brewbarry**
-> "and then Cleave."
+> "And then Cleave."
 
 **GM** — catching the missing rage bonus
-> "That is how much damage — it's like six. Oh, hold on, hold on, hold on. When you're raging, you also add a certain number of points to your damage, which I don't think about — it does by default."
+> "That is how much damage — it's like six. Oh, hold on, hold on, hold on. When you're raging you also add a certain number of points to your damage, which I don't think it does by default."
 
 **Brewbarry**
 > "Yeah, but I forgot to rage."
@@ -500,38 +509,42 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 
 **Brewbarry**
 > "Not my long friend."
+<!-- Editorial note: unrecoverable. Zoom splits it as "Not my long— Oh, right. Hold on …
+     friend."; the retranscription fuses it. Neither resolves the phrase. GM ruling 01-N:
+     keep as captured. Do not narrate it as meaningful. -->
 
 **GM**
-> "Yes, when Vucurdean goes down, I'll automatically rage, that's right. You're like— I think you automatically rage because this is— he's your— he's the musical genius of your life. All right, so you had — the first attack was 9 points of damage. So you got a plus 2 to fix that."
+> "Yes — when Vukradin goes down, I'll automatically rage, that's right. You're like — I think you automatically rage because he's the musical genius of your life. All right, so the first attack was 9 points of damage. So you get a plus two to fix that."
 
 **GM**
-> "And the second attack is you get eight points of damage."
+> "And the second attack is eight points of damage."
 
 **Brewbarry**
 > "All right, rage bonus damage. What is my rage bonus damage again?"
 
 **GM** — citing the table
-> "It's plus two, I looked it up last time. If you go to the 2024 D&D rules under barbarian tables, it goes plus two — it's your proficiency bonus until a particular level, and then it goes to plus three, but it does not reach the same max as your proficiency, so it doesn't go to plus five."
+> "It's plus two. I looked it up last time. If you go to the 2024 D&D rules under barbarian tables, it goes plus two — it's your proficiency bonus until a particular level, and then it goes to plus three. But it does not reach the same max as your proficiency, so it doesn't go to plus five."
 
 **[Orc Three's Javelin and Insults]**
 
 **GM** — the orc gets clever
-> "Alrighty. Orc number 6. Okay, so Orc 3 suddenly realizes — hmm, is he clever enough to figure this out?"
+> "Alrighty. Orc number three suddenly realizes — hmm, is he clever enough to figure this out?"
 
 **Vukradin**
-> "No"
+> "No."
 
 **GM**
 > "Yes he is!"
 
 **GM**
-> "Yeah, no, he doesn't advance. He throws his javelin at Brewbarry, yeah."
+> "Yeah, no — he doesn't advance. He throws his javelin at Brewbarry."
 
 **Valphine Sotorra**
 > "Okay, that's fine."
 
 **GM** — the taunt
-> "And he hits, and he starts— and he says awful things about Uthgardtian barbarians, and questions the circumstances of their birth, and all that sort of stuff."
+> *And he hits.*
+> "He says awful things about Uthgardt barbarians, and questions the circumstances of their birth, and all that sort of stuff."
 
 **Brewbarry** — shrugging it off
 > "I will shrug off 5 damage worth of it."
@@ -551,46 +564,46 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 **[The Ice Knife Friendly Fire]**
 
 **Vukradin**
-> "Omai, you're up."
+> "Soma, you're up."
 
 **Soma** — announcing the risk up front
-> "Yeah, yeah, we're probably going to take down Valphine in the fracas, but I don't know how much longer we got, so we're going to Ice Knife the guy in the back and it'll probably shard onto everyone."
+> "Yeah, yeah — we're probably going to take down Valphine in the fracas, but I don't know how much longer we've got, so we're going to Ice Knife the guy in the back and it'll probably shard onto everyone."
 
 **Vukradin**
 > "Nice, do it."
 
 **Soma**
-> "Oh, nope, I just completely whiffed. Excellent."
+> "Oh, nope. I just completely whiffed. Excellent."
 
 **Vukradin**
-> "No, no, but does it— There's still area damage, though, right?"
+> "No, no — but does it, like… There's still area damage, though, right?"
 
 **Soma** — reading the spell
-> "Let me check. Yeah, on hits — if you're seeing, hit or miss — the shard then explodes, each creature within 5 feet must succeed a dex saving throw or take 2d6."
+> "Let me check. Yeah — hit or miss, the shard then explodes. Each creature within 5 feet must succeed on a dex saving throw or take 2d6."
 
 **GM**
-> "including Valphine."
+> "Including Valphine."
 
 **Vukradin**
 > "Including Valphine."
 
 **Soma**
-> "I know"
+> "I know."
 
 **GM**
 > "Two hit points."
 
 **Soma**
-> "I know"
+> "I know."
 
 **Vukradin**
-> "Just make your deck save, you'll be fine."
+> "Just make your dex save, you'll be fine."
 
 **GM**
-> "No, no, actually, she won't. They'd already rolled the cold damage, it was seven."
+> "No, no, actually, she won't. They'd already rolled the cold damage — it was seven."
 
 **Soma**
-> "Oh, right, right, sorry."
+> "Oh, right, right. Sorry."
 
 **Valphine Sotorra**
 > "I failed my dex save."
@@ -599,16 +612,16 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "So you are knocked out."
 
 **Soma** — hoping for a payoff
-> "Yes, but— so is— let's see, Orc number one should be dead unless he makes his save. Actually, they'd both be dead unless they make their saves."
+> "Yes, but — so is, let's see, orc number one should be dead unless he makes his save. Actually, they'd both be dead unless they make their saves."
 
 **GM**
 > "All right, so what's the saving throw?"
 
 **Soma**
-> "X-13."
+> "DC 13."
 
 **GM**
-> "All right, d20, 2d20. One makes it, unless... both might make it."
+> "All right. 2d20. One makes it — unless both might make it."
 
 **Soma**
 > "It's a 13, right?"
@@ -632,25 +645,29 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Yes, you do. I'm sorry, Valphine."
 
 **Valphine Sotorra**
-> "The tactical brilliance of this crew is..."
+> "The tactical brilliance of this crew is…"
 
 **GM**
 > "Look, we're not a—"
 
 **Vukradin**
-> "Shatter, it'll get better."
+> "—well-oiled machine. It'll get better."
+<!-- Editorial note: the verbatim layer splits this across two speakers, and the
+     retranscription renders Vukradin's half as "Shatter, it'll get better." Zoom shows him
+     completing the GM's sentence. GM ruling 01-J: words repaired, the two-speaker split
+     left as captured. -->
 
 **Soma** — the excuse
 > "We just met each other on the road, right?"
 
 **Vukradin**
-> "Like we got the ogres quite effectively."
+> "Like, we got the ogres quite effectively."
 
 **GM** — the Brewbarry share of the blast
-> "You take d6 plus 3 damage. You take 5 points of damage, Brewbarry, but that's halved because you're raging, so you're down to 2 points. You're down 2 points."
+> "You take d6 plus 3 damage. You take 5 points of damage, Brewbarry, but that's halved because you're raging, so you're down 2 points."
 
 **Valphine Sotorra**
-> "Oh, I take half because I take less when you're— then I probably took zero from the last attack."
+> "Oh — I take half because I take less when — then I probably took zero from the last attack."
 
 **GM**
 > "Oh, okay."
@@ -667,7 +684,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Yeah, sorry man. I'm still new to this whole magic thing."
 
 **Brewbarry** — his final turn
-> "Well, we can just attack both of them with halberd again."
+> "Well, we can just attack both of them with the halberd again."
 
 **Vukradin**
 > "That sounds like a good plan. That's a hit."
@@ -682,10 +699,10 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "Seven and seven."
 
 **GM**
-> "7 and 9"
+> "7 and 9."
 
 **Soma**
-> "No, it's 9 and... Oh, because you're forgetting your plus 2, yeah."
+> "No, it's 9 and — oh, because you're forgetting your plus 2. Yeah."
 
 **Vukradin**
 > "I only have seven and six hit points."
@@ -694,7 +711,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "That's 9 and 9, I think, right?"
 
 **GM**
-> "Yes, they are all dead. All right, I presume Brewbarry has to decide whether he's going to kill Sobob, but maybe he doesn't?"
+> "Yes, they are all dead. All right, I presume Brewbarry has to decide whether he's going to kill Soma — but maybe he doesn't?"
 
 **Vukradin**
 > "I assume Brewbarry is going to help Vukradin, his musician friend, right?"
@@ -706,7 +723,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "I mean, absolutely, I'm going to help them up. Kind of sheepishly."
 
 **Valphine Sotorra**
-> "So are we doing medicine checks? Is that how this works again?"
+> "So are we doing, like, medicine checks? Is that how this works again?"
 
 **GM**
 > "No, I'm assuming since the combat is over you're able to stabilize everybody."
@@ -714,10 +731,13 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 **[Looting the Orcs]**
 
 **Vukradin**
-> "Long rest, everybody. Maybe we could go back in the Bruin and lick our wounds and talk about what the hell had just happened."
+> "Long rest, everybody. Maybe we could go back to Phandalin and lick our wounds and talk about what the hell had just happened."
 
 **Valphine Sotorra**
-> "Wait, hold on. Yeah, go ahead and do that. And I'll urge the bodies."
+> "Wait, hold on. Yeah, go ahead and do that. And I'll search the bodies."
+
+**Vukradin**
+> "Oh, okay. Yeah, I'll head on over. Yeah, that sounds good."
 
 **Soma** — helping the bard up
 > "Come on, Vukradin, let's get you back somewhere where you can perform."
@@ -738,16 +758,16 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "I just need to friggin' find something."
 
 **Soma**
-> "They're suspiciously dexterous, so maybe they got something there."
+> "They're suspiciously dexterous, so, you know, maybe they've got something there."
 
 **GM** — the haul
-> "They've got a broken haddax, a javelin, and some hide armor."
+> "They've got a broken hand axe, a javelin, and some hide armor."
 
 **GM**
-> "Hide armour, okay. You could pick up the battle axes and try to sell them. For battle axes? Yep."
+> "Hide armour, okay. You know, you could pick up the battle axes and try to sell them. Four battle axes? Yep."
 
 **Soma** — invoking the ledger column
-> "Are they Blood Money Battle Axes?"
+> "Are they blood money battle axes?"
 
 **Vukradin**
 > "Definitely. They're absolutely stolen."
@@ -759,7 +779,7 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 > "As soon as I see them hit the party inventory, I will be."
 
 **GM**
-> "Well, I mean, hold on, Brewbarry could, I mean, you know,"
+> "Well, I mean, hold on — Brewbarry could, I mean, you know…"
 
 **Soma**
 > "Yeah, Brewbarry is just a walking arsenal, right?"
@@ -778,15 +798,3 @@ from: ../scene_extractions_rebuilt/01_a_clash_of_ideals_and_orcs.md
 
 **Vukradin**
 > "I was given assurances that they weren't."
-
-**GM**
-> "I'd say we've already become directionless. Plus, I thought you were gonna—"
-
-**Vukradin**
-> "Obtain those in a fair, honorable way."
-
-**GM**
-> "So we don't do provenance here."
-
-**Vukradin** — pushing the provenance chain to absurdity
-> "There's only so much you can do. Come on. Which wizard created them? How did he obtain the spell components for casting this Sending spell?"
