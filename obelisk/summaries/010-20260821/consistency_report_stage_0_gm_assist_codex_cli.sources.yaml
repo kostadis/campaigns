@@ -1,0 +1,68 @@
+consistency_check:
+  timestamp: "2026-08-27T16:13:26.964Z"
+  campaign: "/home/kroussos/obelisk/obelisk"
+  document_checked: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md"
+  document_class: "first-pass recap (renamed gm-assist artifact)"
+  report: "summaries/010-20260821/consistency_report_stage_0_gm_assist_codex_cli.md"
+  config: "/tmp/obelisk-010-consistency-config.yaml"
+  backend: "codex-cli"
+  issues_found: 6
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-21"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: "docs/campaign_state.md" }
+      - { label: world_state, path: "docs/world_state.md" }
+    context:
+      - { path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt", role: "session transcript" }
+      - { path: "docs/party.md", role: "PCs and party knowledge" }
+      - { path: "docs/entity_registry.yaml", role: "entity registry and aliases" }
+      - { path: "notes/hamun_kost_strategy.md", role: "session-relevant prep and GM rulings" }
+      - { path: "notes/handouts/player_quest_log.md", role: "player-facing quest state" }
+      - { path: "notes/vtt_transcription_corrections.md", role: "ASR glossary" }
+      - { path: "notes/vtt_known_additions.md", role: "known transcript additions" }
+      - { path: "docs/background/monsters_phase1_scan.md", role: "module encounter rosters" }
+      - { path: "docs/background/monsters_phase2_descriptions.md", role: "established monster names and descriptions" }
+      - { path: "docs/background/monsters_phase3_hierarchy.md", role: "encounter hierarchy and threat framing" }
+      - { path: "docs/background/obelisk.md", role: "module encounter text and roster verification" }
+  notes: |
+    The campaign config resolved document paths relative to config/, so the run
+    used a temporary absolute-path config containing campaign_state and
+    world_state. The checker noted that it could not auto-discover the entity
+    registry under /tmp; docs/entity_registry.yaml was supplied explicitly in
+    context. Context count was nine documents. The first sandboxed Codex launch
+    failed before invocation because the app-server could not write its local
+    state; the successful rerun used the operator-approved saved subscription
+    login. Two unambiguous mechanical corrections were applied before batch
+    adjudication. Four judgment findings were adjudicated through the Stage 0
+    batch page. Monster dossier and module sources were added during
+    adjudication; they were not part of the nine-document model payload.
+  resolution:
+    reviewed_by: "GM"
+    reviewed: "2026-08-27"
+    applied:
+      - { finding: "report-03", fix: "Replaced the dead-men error with the two elongated-skull goblins whose strained faces matched Sildar's account." }
+      - { finding: "report-06", fix: "Repaired Nosk's ASR-garbled threat using the established campaign timeline wording." }
+      - { finding: "s0-01", fix: "Applied the GM's alternate ruling: northeast was the intended and played direction; corrected the recap and active grounding/prep sources while preserving that a Conyberry detour was discussed." }
+      - { finding: "s0-05", fix: "Removed Talon's unknown name and Aldith provenance from the recap; retained Sildar's spoken description of a fine and noble sword." }
+      - { finding: "user-extension", fix: "Applied docs/background/monsters_* descriptions to the Kost Wardens, Scarlet Fist, and Axe-Biter Marauders." }
+    partially_applied:
+      - finding: "s0-02"
+        fix: "Rejected the report's all-orc replacement. Applied the exact module roster instead: orc chief Brughor Axe-Biter, four bugbears including the sentry, and ogre Gog."
+    rejected:
+      - finding: "s0-04"
+        ruling: "Leave the opening bugbear framing unchanged."
+        rationale: "The GM rejected the proposed perspective clarification."
+  vtt_adjudicated: |
+    The Chapter 10 transcript confirms the table repeatedly discussed
+    Conyberry and used eastward language, but the GM ruled that northwest was
+    a verbal error and the intended/map route was northeast. The transcript's
+    bugbear sentry matches the module's four bugbear rank-and-file; the model
+    report overgeneralized the orc chief into an all-orc band. Nosk's "owl will
+    kill you" wording was an ASR error settled against the campaign timeline.
+  carry_forward:
+    - status: "OPEN"
+      item: "No Chapter 10 session-summary.md is currently present, so Stage 1 cannot run until the correct downstream artifact is supplied or regenerated."
+    - status: "NOTE"
+      item: "Raw ensemble extraction artifacts retain the historical spoken northwest wording as source evidence; active canon and prep now record the GM's northeast ruling."

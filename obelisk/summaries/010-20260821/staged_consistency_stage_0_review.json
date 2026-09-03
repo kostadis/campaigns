@@ -1,0 +1,38 @@
+{
+  "title": "Chapter 10 Staged Consistency — Codex CLI Rerun",
+  "reviewId": "staged-consistency:010-20260821:stage-0:codex-cli-rerun",
+  "outputName": "staged_consistency_stage_0_decisions_codex_cli_rerun.json",
+  "eyebrow": "Obelisk / Chapter 10 / Stage 0 — gm-assist",
+  "lede": "The Codex subscription audit found six issues. Two clear transcript/canon corrections are already applied; four judgment calls need GM rulings before Stage 1.",
+  "footer": "Applied without asking: corrected the dead-men reference to the two elongated-skull goblins, and repaired Nosk's ASR-garbled threat. Touched one file: session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md.",
+  "items": [
+    {
+      "id": "s0-01",
+      "t": "Retroactively place Old Owl Well northwest of Phandalin",
+      "y": "Revise <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code> so the journey goes northwest from Phandalin, removing Conyberry and the eastbound Triboar Trail from the route. This applies the later GM geography ruling to the recap but no longer reproduces the route played at the table.",
+      "n": "Leave the eastward route and Conyberry references unchanged in <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code>. The recap remains transcript-faithful, while the northwest ruling governs future sessions only.",
+      "ev": "<strong>For approve:</strong> <code>notes/hamun_kost_strategy.md:8,26,125-129</code> and <code>notes/handouts/player_quest_log.md:49</code> establish northwest as the later GM/player-facing geography. <strong>For reject:</strong> the Chapter 10 transcript and recap record the party discussing Conyberry and traveling east; changing the recap would rewrite what was played. The entity registry also retains the module's southeast-of-Conyberry location."
+    },
+    {
+      "id": "s0-02",
+      "t": "Change the Wyvern Tor marauders from bugbears to orcs",
+      "y": "Change the current Wyvern Tor encounter throughout <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code> from bugbears to orcs, identify the sentry as an orc, and name Brughor Axe-Biter where appropriate. This matches the prep/registry but contradicts the creature type repeatedly established during play.",
+      "n": "Keep bugbears and the bugbear sentry in <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code>. Treat the orcs under Brughor Axe-Biter as a separate group or an encounter superseded by table play.",
+      "ev": "<strong>For approve:</strong> <code>notes/hamun_kost_strategy.md:33</code>, <code>docs/entity_registry.yaml:320-344,1112-1117</code>, and <code>docs/world_state.md:113</code> identify orcs plus the ogre Gog. <strong>For reject:</strong> <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt:1248-1340</code> repeatedly establishes bugbears and ends on a bugbear sentry; the prior GM ruling says the orcs are a different group."
+    },
+    {
+      "id": "s0-04",
+      "t": "Clarify that the trapped-bugbear claim is only the party's belief",
+      "y": "Change the opening of <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code> to say the party believed the surviving bugbears still lurked below. This removes omniscient ambiguity without revealing Nosk's master key or the bugbears' actual location.",
+      "n": "Leave “the bugbears still lived somewhere below” unchanged in <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code>. It remains a concise historical framing, but can be read as an objective claim contradicted by GM state.",
+      "ev": "<strong>For approve:</strong> <code>docs/campaign_state.md:22,50,78</code> and <code>docs/world_state.md:21,72</code> say the party only believes the door contained them; three wounded bugbears are loose. <strong>For reject:</strong> the recap phrase does not explicitly say the door contained them, and the party's retreat did leave the survivors somewhere behind/below from their perspective."
+    },
+    {
+      "id": "s0-05",
+      "t": "Scrub Talon's unknown name and provenance from the recap",
+      "y": "In <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code>, replace player-facing uses of “Talon” with “unidentified magical longsword” and remove Aldith Tresendar's ownership from the item description. Preserve Sildar's spoken “fine and noble sword” remark. This prevents downstream player narration from treating GM-only identification as known.",
+      "n": "Retain Talon's name and Aldith provenance in <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md</code>. This treats the gm-assist artifact as GM-facing or accepts that the audible opening recap already disclosed those details.",
+      "ev": "<strong>For approve:</strong> <code>docs/campaign_state.md:89</code> and <code>docs/world_state.md:128,174</code> explicitly say no History check was made and the party knows only “a magic sword.” <strong>For reject:</strong> <code>session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt:55</code> audibly names Talon and Aldith in the opening recap, and Stage 0 may be treated as an internal GM artifact."
+    }
+  ]
+}

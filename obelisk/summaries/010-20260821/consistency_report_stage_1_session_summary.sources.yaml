@@ -1,0 +1,23 @@
+schema_version: 1
+generated_at: "2026-08-26T22:05:00-07:00"
+stage: 1
+stage_name: session-summary
+backend: codex-direct
+target: summaries/010-20260821/session-summary.md
+upstream: summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md
+report: summaries/010-20260821/consistency_report_stage_1_session_summary.md
+issues_found:
+  critical: 1
+  moderate: 0
+  minor: 0
+  trivial: 0
+sources:
+  - summaries/010-20260821/session-summary.md
+  - summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md
+  - summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt
+  - summaries/010-20260821/consistency_report_stage_0_gm_assist.md
+  - summaries/010-20260821/staged_consistency_stage_0_decisions.json
+notes:
+  - Direct Codex review; no external model backend was used.
+  - The existing Stage 1 file is wholly unrelated to the Chapter 10 upstream artifact.
+  - Downstream stages remain blocked pending adjudication.

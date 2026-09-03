@@ -1,0 +1,9 @@
+Starting Campaign Generator on http://localhost:5003
+
+========================================================================
+ERROR: config service failed to initialize.
+  campaign_dir: /home/kroussos/src/CampaignGenerator/obelisk
+  cause: campaign_dir does not exist: /home/kroussos/src/CampaignGenerator/obelisk
+Fix the offending file in /home/kroussos/src/CampaignGenerator/obelisk/config/ (config.yaml or platform.yaml) and relaunch.
+========================================================================
+

@@ -1,0 +1,63 @@
+consistency_check:
+  timestamp: "2026-08-27T23:19:08-07:00"
+  campaign: "/home/kroussos/obelisk/obelisk"
+  document_checked: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md"
+  document_class: "first-pass recap (renamed gm-assist artifact)"
+  report: "summaries/010-20260821/consistency_report_stage_0_gm_assist_codex_cli_door_rerun.md"
+  config: "/tmp/obelisk-010-consistency-config.yaml"
+  backend: "codex-cli"
+  issues_found: 9
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-21"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: "docs/campaign_state.md" }
+      - { label: world_state, path: "docs/world_state.md" }
+    context:
+      - { path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt", role: "session transcript" }
+      - { path: "docs/party.md", role: "PCs and party knowledge" }
+      - { path: "docs/entity_registry.yaml", role: "entity registry aliases" }
+      - { path: "notes/hamun_kost_strategy.md", role: "session-relevant prep and GM rulings" }
+      - { path: "notes/handouts/player_quest_log.md", role: "player-facing quest state" }
+      - { path: "notes/vtt_transcription_corrections.md", role: "ASR glossary" }
+      - { path: "notes/vtt_known_additions.md", role: "known transcript additions" }
+      - { path: "notes/the_door_they_locked.md", role: "immediately preceding session prep and continuity" }
+      - { path: "docs/background/monsters_phase1_scan.md", role: "module encounter rosters" }
+      - { path: "docs/background/monsters_phase2_descriptions.md", role: "approved monster names and descriptions" }
+      - { path: "docs/background/monsters_phase3_hierarchy.md", role: "encounter hierarchy and threat framing" }
+  notes: |
+    The campaign config resolved document paths relative to config/, so the run
+    used a temporary absolute-path config containing campaign_state and
+    world_state. The checker could not auto-discover entity_registry.yaml under
+    /tmp; docs/entity_registry.yaml was supplied explicitly as context.
+    docs/background/obelisk.md was excluded with GM approval because including
+    it exceeded Codex CLI's 1,048,576-character input limit. The successful run
+    used CampaignGenerator backend codex-cli with the operator's saved ChatGPT
+    subscription login and the subscription-default model. No other provider
+    or partial report was accepted.
+  resolution:
+    reviewed_by: "GM"
+    reviewed: "2026-08-28"
+    applied:
+      - { finding: "report-08", fix: "Removed out-of-character module-roster analysis from Sister Maela's memorable-moment annotation while retaining the quote." }
+      - { finding: "s0-door-02", fix: "Limited the abandoned-caravan passage to observed attack evidence; left the attackers and owners' fate unknown." }
+      - { finding: "s0-door-03", fix: "Replaced the 'already dead' paraphrase with Hamun Kost's transcript-supported conditional threat." }
+    partially_applied: []
+    rejected:
+      - finding: "report-01"
+        ruling: "Preserve the prior GM rejection of the proposed door-containment perspective clarification."
+        rationale: "Previously adjudicated in the original Stage 0 Codex review."
+      - finding: "reports-04-through-07"
+        ruling: "Preserve the previously approved Kost Warden, Axe-Biter roster, and Scarlet Fist enrichments."
+        rationale: "These were explicitly approved as a Stage 0 user extension in the earlier resolution manifest."
+      - finding: "report-09"
+        ruling: "No change to the Chapter 10 label."
+        rationale: "The session directory and transcript independently identify this as Chapter 10; missing Chapter 9 grounding is not evidence that this title is wrong."
+    vtt_adjudicated: |
+      The transcript leaves the abandoned caravan's attackers and owners' fate
+      unknown. Hamun Kost's threat was conditional on protecting his secrets,
+      rather than a claim that the party would already be dead.
+    carry_forward:
+      - status: "OPEN"
+        item: "Run Stage 1 against session-summary.md using this corrected first-pass recap as explicit upstream context."

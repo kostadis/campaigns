@@ -1,0 +1,2102 @@
+{
+  "schema_version": 1,
+  "generated_on": "2026-08-26",
+  "session_dir": "summaries/010-20260821",
+  "target_vtt": "summaries/010-20260821/GMT20260822-010308_Recording.transcript.vtt",
+  "sibling_transcript": "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt",
+  "speaker_mapping": {
+    "Kostadis Roussos": "Kostadis (GM)",
+    "Filavandrel (Fil)": "Nikhil"
+  },
+  "dictionary_sources": [
+    "docs/entity_inventory.md (flattened to 534 names)",
+    "notes/vtt_known_additions.md (flattened; stale Una excluded because the glossary maps it to Mirna)"
+  ],
+  "review_instructions": {
+    "decisions": [
+      "approve_correction",
+      "new_canon",
+      "ignore",
+      "discuss"
+    ],
+    "usage": "Fill each item's decision field and optional note, then tell Codex the queue is ready. Unmarked items remain unchanged.",
+    "consent": "Each item is one independent wrong-form to canonical pair; approving one item never approves another."
+  },
+  "summary": {
+    "known_names_count": 1339,
+    "existing_glossary_replacements_in_preview": 90,
+    "residual_cluster_count": 125,
+    "residual_member_count": 172,
+    "ignored_by_saved_state": 19,
+    "preclassified_non_campaign_or_false_residual_members": 70,
+    "review_item_count": 83,
+    "original_vtt_modified": false
+  },
+  "preclassified_examples": [
+    {
+      "token": "My",
+      "reason": "ordinary word; false fuzzy match to Veyra"
+    },
+    {
+      "token": "Myrna",
+      "reason": "already-correct embedded proper noun; false fuzzy match to Sister Maela"
+    },
+    {
+      "token": "But Sildar",
+      "reason": "embedded canonical already correct"
+    },
+    {
+      "token": "Underwave",
+      "reason": "spell/mechanics correction, outside the proper-noun review scope"
+    },
+    {
+      "token": "Uncle Alliance",
+      "reason": "duplicate ASR fragment immediately before the complete 'as you crest a low ridge' cue"
+    },
+    {
+      "token": "Lord Mayor",
+      "reason": "ordinary title corroborated by the sibling, not a new campaign name"
+    }
+  ],
+  "items": [
+    {
+      "id": "zenbon__zenvon",
+      "token": "Zenbon",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 3,
+      "context": ", so, well, you know, that's… you know, Zenbon, that's actually… that's a good, that's",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.752,
+        "line": 469,
+        "text": "Yeah, so, well, you know, that's, I'm, you know, Zenvon, that's actually that's a good, that's a, you know, that's not something to do.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "xenobod__zenvon",
+      "token": "Xenobod",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 2,
+      "context": "han describe the Nothic devouring Thel, Xenobod delegated the grim task to Sister Maela",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.618,
+        "line": 44,
+        "text": "Rather than describe the Nothik devouring Tal, Zenvon delegated the grim task to Sister Maela, who avoids saying probably being torn to stretch and eaten alive by a monster.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "zen_von__zenvon",
+      "token": "Zen Von",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 2,
+      "context": "hat dealt 14 points of damage, and left Zen Von barely standing. Sister Maela channelin",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.446,
+        "line": 957,
+        "text": "That's mine, yes. Okay. All right. So Maela, Sister Maela is D20.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap uses Zenvon in the same combat sentence.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "xenobun__zenvon",
+      "token": "Xenobun",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 1,
+      "context": "e for reading the town of the Redbrand. Xenobun paid 10 silver for food sent up to the",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.43,
+        "line": 770,
+        "text": "So you're on the Triboar Trail. The day passes. Night time passes.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap says Zenvon paid 10 silver in this passage.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "xenoons__zenvon",
+      "token": "Xenoons",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 1,
+      "context": "A 9 plus 5? Is that Xenoons?",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.689,
+        "line": 955,
+        "text": "A nine plus five. Is that Zenvon on?",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "zanoan__zenvon",
+      "token": "Zanoan",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 1,
+      "context": "My name is Zanoan, this is… these are my friends, Pip, Si",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.81,
+        "line": 1072,
+        "text": "My name is Zenvon. This is these are my friends, Pip, Maela, and Veyra.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "zenmon__zenvon",
+      "token": "Zenmon",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 1,
+      "context": "Now… Zenmon.",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.667,
+        "line": 780,
+        "text": "No, no, no.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "zenoven__zenvon",
+      "token": "Zenoven",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 1,
+      "context": "otes, a good sign that he was real, and Zenoven accepted the task, though he made clear",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.601,
+        "line": 105,
+        "text": "Veyra confirmed that Bowgentle appeared in her research notes, a good sign that he was real, and Zenvon accepted the task, though he made clear there were other pressing matters to attend to first.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "zenvan__zenvon",
+      "token": "Zenvan",
+      "canonical": "Zenvon",
+      "section": "pcs",
+      "count": 1,
+      "context": "Zenvan argued that capturing the Black Spider",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.523,
+        "line": 48,
+        "text": "She also asked that they bring Thale's body back if they could.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap says Zenvon argued that capturing the Black Spider mattered more.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "coneybury__conyberry",
+      "token": "Coneybury",
+      "canonical": "Conyberry",
+      "section": "locations",
+      "count": 7,
+      "context": "or go all the way onto Coneybury, and then… Cool here.",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.594,
+        "line": 304,
+        "text": "So I was thinking either I can go from here to here or go all the way on to Conyberry and then go here.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "connie_berry__conyberry",
+      "token": "Connie Berry",
+      "canonical": "Conyberry",
+      "section": "locations",
+      "count": 3,
+      "context": "In fact, Connie Berry has been, has been a wreck for years.",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.854,
+        "line": 364,
+        "text": "In fact, Conyberry has been a wreck for years.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "coney_berry__conyberry",
+      "token": "Coney Berry",
+      "canonical": "Conyberry",
+      "section": "locations",
+      "count": 1,
+      "context": "Okay, wanna go to Coney Berry?",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.75,
+        "line": 305,
+        "text": "You want to go to Conyberry?",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "connberry__conyberry",
+      "token": "Connberry",
+      "canonical": "Conyberry",
+      "section": "locations",
+      "count": 1,
+      "context": "But before I go, I need to know about Connberry, right?",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.981,
+        "line": 309,
+        "text": "But before I go, I need to know about Conyberry, right?",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "avera__veyra",
+      "token": "Avera",
+      "canonical": "Veyra",
+      "section": "pcs",
+      "count": 1,
+      "context": "You, you learned about it from, from Avera.",
+      "reason": [
+        "phonetic",
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.822,
+        "line": 434,
+        "text": "You learned about it from Veyra.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "bayraz__veyra",
+      "token": "Bayraz",
+      "canonical": "Veyra",
+      "section": "pcs",
+      "count": 1,
+      "context": "Alright, so let me see what, Bayraz is. All right.",
+      "reason": [
+        "phonetic",
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.878,
+        "line": 1020,
+        "text": "All right. So let me see what Veyra's is. All right.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "vaira__veyra",
+      "token": "Vaira",
+      "canonical": "Veyra",
+      "section": "pcs",
+      "count": 1,
+      "context": "are my friends, Pip, Sister Maela, and Vaira.",
+      "reason": [
+        "phonetic",
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.737,
+        "line": 1073,
+        "text": "This is these are my friends, Pip, Maela, and Veyra.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "old_alvwell__old_owl_well",
+      "token": "Old Alvwell",
+      "canonical": "Old Owl Well",
+      "section": "locations",
+      "count": 1,
+      "context": "ut tell us anything that you know about Old Alvwell or Coneybury, because we have made up o",
+      "reason": [
+        "substring",
+        "edit_distance",
+        "metaphone"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.702,
+        "line": 561,
+        "text": "Well, that's a fair point, but tell us anything that you know about Old Owl Well or Conyberry, because we have made up our mind to start early in the morning.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "old_dwell_hall__old_owl_well",
+      "token": "Old Dwell Hall",
+      "canonical": "Old Owl Well",
+      "section": "locations",
+      "count": 1,
+      "context": "the Old Dwell Hall.",
+      "reason": [
+        "substring",
+        "edit_distance",
+        "metaphone"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.824,
+        "line": 142,
+        "text": "The Old Well Owl.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "oldwell_owl__old_owl_well",
+      "token": "Oldwell Owl",
+      "canonical": "Old Owl Well",
+      "section": "locations",
+      "count": 1,
+      "context": "Yeah, yeah, Oldwell Owl… Old Owl well, Work on…",
+      "reason": [
+        "substring",
+        "edit_distance",
+        "metaphone"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.854,
+        "line": 155,
+        "text": "Yeah, yeah. Old Well Owl, Old Owl, Well, Wyvern Tor.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "fandland__phandalin",
+      "token": "Fandland",
+      "canonical": "Phandalin",
+      "section": "locations",
+      "count": 4,
+      "context": "ng them safely back to the outskirts of Fandland. The families secure, the adventurers t",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.439,
+        "line": 765,
+        "text": "So, so, yeah, so the other, just so you know, there's the treasure according to Mirna.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap names the destination Phandalin in the same rescue passage.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "fandalyn__phandalin",
+      "token": "Fandalyn",
+      "canonical": "Phandalin",
+      "section": "locations",
+      "count": 1,
+      "context": "Garayel praised them, the new heroes of Fandalyn, before making a request of her own. Sh",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.616,
+        "line": 102,
+        "text": "The party then paid a visit to the Shrine of Luck, where a scholarly acolyte named Sister Garaele praised them, the new heroes of Phandalin, before making a request of her own.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "sister_melis__sister_maela",
+      "token": "Sister Melis",
+      "canonical": "Sister Maela",
+      "section": "pcs",
+      "count": 1,
+      "context": "Sister Melis says, look, if the choice is killing bu",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.566,
+        "line": 964,
+        "text": "Sister Maela says, roll your arcana check. It's a 12. All right.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "sildur__sildar",
+      "token": "Sildur",
+      "canonical": "Sildar",
+      "section": "npcs",
+      "count": 2,
+      "context": "oblins with strained faces that matched Sildur's account, and the Nothics whispered reve",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.558,
+        "line": 93,
+        "text": "But with the second glowing rock, the mutated goblins in the crevasse, the two dead goblins with strained faces that matched Sildar's account, and the Nothik's whispered revelation, it was all beginning to feel connected.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "sildar_hillipwinter__sildar_hallwinter",
+      "token": "Sildar Hillipwinter",
+      "canonical": "Sildar Hallwinter",
+      "section": "npcs",
+      "count": 1,
+      "context": "They met with Sildar Hillipwinter, presenting him with the Black Spider's",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.443,
+        "line": 865,
+        "text": "Right. So, all right. Hold on. I'll just use a restaurant right there. All right.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap gives the full name Sildar Hallwinter.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "sister_grail__sister_garaele",
+      "token": "Sister Grail",
+      "canonical": "Sister Garaele",
+      "section": "npcs",
+      "count": 2,
+      "context": "u have to go through there. That's what Sister Grail tells you, so just keep… just keep that",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.712,
+        "line": 575,
+        "text": "That's what Sister Garaele told you. So just keep just keep that in mind.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "sister_garayel__sister_garaele",
+      "token": "Sister Garayel",
+      "canonical": "Sister Garaele",
+      "section": "npcs",
+      "count": 1,
+      "context": "f Luck, where a scholarly acolyte named Sister Garayel praised them, the new heroes of Fandaly",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.677,
+        "line": 102,
+        "text": "The party then paid a visit to the Shrine of Luck, where a scholarly acolyte named Sister Garaele praised them, the new heroes of Phandalin, before making a request of her own.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "sister_grailie__sister_garaele",
+      "token": "Sister Grailie",
+      "canonical": "Sister Garaele",
+      "section": "npcs",
+      "count": 1,
+      "context": "So, Gotham's Lair is the Sister Grailie quest.",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.899,
+        "line": 233,
+        "text": "So Agatha's lair is the sister Garaele quest.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "miners_exchange__miner_s_exchange",
+      "token": "Miners Exchange",
+      "canonical": "Miner's Exchange",
+      "section": "locations",
+      "count": 3,
+      "context": "Before that, we went to the Miners Exchange, and… that's a weird conversation, actu",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.762,
+        "line": 24,
+        "text": "Before that, we went to the miners exchange. That's a weird conversation, actually, that's going on with the lady's name.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "amund_cost__hamun_kost",
+      "token": "Amund Cost",
+      "canonical": "Hamun Kost",
+      "section": "npcs",
+      "count": 2,
+      "context": "Amund Cost. Amund Cost.",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.791,
+        "line": 1078,
+        "text": "Hamun Kost. Hamun Kost.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "crack_maw_castle__cragmaw_castle",
+      "token": "Crack Maw Castle",
+      "canonical": "Cragmaw Castle",
+      "section": "locations",
+      "count": 1,
+      "context": "lurted out that the black spider was at Crack Maw Castle before the color drained from his face",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.733,
+        "line": 67,
+        "text": "Nosk, furious and frustrated, blurted out that the black spider was at Cragmaw Castle before the color drained from his face as he realized what he had done.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "crag_maw_castle__cragmaw_castle",
+      "token": "Crag Maw Castle",
+      "canonical": "Cragmaw Castle",
+      "section": "locations",
+      "count": 1,
+      "context": "ide you… to provide you the location of Crag Maw Castle.",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.598,
+        "line": 1185,
+        "text": "So if you were to go deal with those ruffians, I would be more than happy to provide you the location of Cragmaw Castle.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "grasma_castle__cragmaw_castle",
+      "token": "Grasma Castle",
+      "canonical": "Cragmaw Castle",
+      "section": "locations",
+      "count": 1,
+      "context": "Well, I think Grasma Castle is the closest.",
+      "reason": [
+        "metaphone",
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.871,
+        "line": 195,
+        "text": "Yeah, I think Cragmaw Castle is the closest.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "krogmall_castle__cragmaw_castle",
+      "token": "Krogmall Castle",
+      "canonical": "Cragmaw Castle",
+      "section": "locations",
+      "count": 1,
+      "context": "hat's for Iarno, it's not for the whole Krogmall Castle.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.917,
+        "line": 648,
+        "text": "That's for Iarno. It's not for the whole Cragmaw Castle.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "dandrar__dendrar",
+      "token": "Dandrar",
+      "canonical": "Dendrar",
+      "section": "npcs",
+      "count": 1,
+      "context": "returned to the prison cells where the Dandrar family had barricaded themselves in ter",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.685,
+        "line": 30,
+        "text": "The party returned to the prison cells where the Drendrar family had barricaded themselves in terror at the sight of the skeletal guardians standing watch outside.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling says Drendrar; the module-derived registry canonical is Dendrar.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "drendrar__dendrar",
+      "token": "Drendrar",
+      "canonical": "Dendrar",
+      "section": "npcs",
+      "count": 1,
+      "context": "The still-living Gnostic, and the Drendrar family who needed escorting out.",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.566,
+        "line": 29,
+        "text": "Before driving back in, the DM walked through the open loose heads, the four bug bears in the barracks, the still-living Nothik, and the Drendrar family who needed escorting out.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling also says Drendrar; the module-derived registry canonical is Dendrar.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "netherbese_empire__netherese_empire",
+      "token": "Netherbese Empire",
+      "canonical": "Netherese Empire",
+      "section": "locations",
+      "count": 1,
+      "context": "And that Netherbese Empire had ships that could fly in the sky.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.992,
+        "line": 453,
+        "text": "And that Netherese Empire had ships that could fly in the sky.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "netherreal_empire__netheril_empire",
+      "token": "Netherreal Empire",
+      "canonical": "Netheril Empire",
+      "section": "locations",
+      "count": 1,
+      "context": "And then, as a result, the Netherreal Empire fell apart.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.963,
+        "line": 461,
+        "text": "And then, as a result, the Netheril Empire fell apart.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "netherreese_empire__netherese_empire",
+      "token": "Netherreese Empire",
+      "canonical": "Netherese Empire",
+      "section": "locations",
+      "count": 1,
+      "context": "Called the Netheril, the Netherreese Empire.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.59,
+        "line": 452,
+        "text": "But many, a long time ago, there was an ancient empire called the Netheril, the Netherese Empire.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "stoblin__toblen",
+      "token": "Stoblin",
+      "canonical": "Toblen",
+      "section": "npcs",
+      "count": 1,
+      "context": "o, okay, so next morning, so you leave, Stoblin is really happy to, you know, say, wish",
+      "reason": [
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.869,
+        "line": 715,
+        "text": "So, okay. So next morning, so you leave. Toblen is really happy to, you know, say, wishes you all the best.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "tobel__toblen",
+      "token": "Tobel",
+      "canonical": "Toblen",
+      "section": "npcs",
+      "count": 1,
+      "context": "hill ill, bloodied and exhausted, where Tobel and Stonehill offered them a free night",
+      "reason": [
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.632,
+        "line": 96,
+        "text": "The party turned to the Stonehill Ild, bloodied and exhausted, where Toblen Stonehill offered them a free night's stay in gratitude for reading the town of the Redbrand.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "tobin__toblen",
+      "token": "Tobin",
+      "canonical": "Toblen",
+      "section": "npcs",
+      "count": 1,
+      "context": "Okay, so… We'll rest. Alright. Tobin.",
+      "reason": [
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.914,
+        "line": 591,
+        "text": "Okay. So we'll rest. All right. Tobin.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling repeats Tobin here, while the registry canonical is Toblen Stonehill.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "bao_gentle__bowgentle",
+      "token": "Bao Gentle",
+      "canonical": "Bowgentle",
+      "section": "npcs",
+      "count": 1,
+      "context": "Veyra confirmed that Bao Gentle appeared in her research notes, a good",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.511,
+        "line": 105,
+        "text": "Veyra confirmed that Bowgentle appeared in her research notes, a good sign that he was real, and Zenvon accepted the task, though he made clear there were other pressing matters to attend to first.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap names Bowgentle in Veyra's research notes.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "bow_gentle__bowgentle",
+      "token": "Bow Gentle",
+      "canonical": "Bowgentle",
+      "section": "npcs",
+      "count": 1,
+      "context": "Belonging to the mage Bow Gentle, but had barely escaped with her life.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.511,
+        "line": 103,
+        "text": "She had previously attempted to approach a powerful undead Banshee named Agatha to ask about the location of a legendary spellbook belonging to the mage Bowgentle, but had barely escaped with her life.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap names the spellbook's mage Bowgentle.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "cragmark__cragmaw_castle",
+      "token": "Cragmark",
+      "canonical": "Cragmaw Castle",
+      "section": "locations",
+      "count": 1,
+      "context": "And I also think Cragmark asyl has some questions. Okay, yeah, co",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.899,
+        "line": 167,
+        "text": "And I also think Cragmaw Castle has some quests. Okay, yeah, cool.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The full VTT phrase is 'Cragmark asyl'; apply only as a targeted full-phrase correction.",
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "kragmakasm__cragmaw_castle",
+      "token": "Kragmakasm",
+      "canonical": "Cragmaw Castle",
+      "section": "locations",
+      "count": 1,
+      "context": "r the risk that we're gonna take at the Kragmakasm?",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.667,
+        "line": 698,
+        "text": "Do you think that's a lot for the risk that we're going to take at the Cragmaw Castle?",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "glastath__glasstaff",
+      "token": "Glastath",
+      "canonical": "Glasstaff",
+      "section": "npcs",
+      "count": 1,
+      "context": "sion cooled noticeably when she learned Glastath had escaped rather than died, and she q",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.475,
+        "line": 108,
+        "text": "Her expression cooled noticeably when she learned Glasstaff had escaped rather than died, and she quickly pivoted to asking whether the party had found any correspondence among his personal effects, claiming she wanted to ensure that local trade would be no longer disrupted.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap names Glasstaff in the same Halia Thornton passage.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "gnostic__nothic",
+      "token": "Gnostic",
+      "canonical": "Nothic",
+      "section": "npcs",
+      "count": 1,
+      "context": "The still-living Gnostic, and the Drendrar family who needed esc",
+      "reason": [
+        "edit_distance",
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.525,
+        "line": 75,
+        "text": "The party was outmatched, and the realization came quickly. They needed to run.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap calls this creature a Nothik; the registry canonical is Nothic.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "natural__netheril",
+      "token": "Natural",
+      "canonical": "Netheril",
+      "section": "locations",
+      "count": 1,
+      "context": "Natural.",
+      "reason": [
+        "metaphone",
+        "substring"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.455,
+        "line": 746,
+        "text": "What'd you roll?",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "In the sibling dialogue, Netheril is spelled aloud and then confirmed as Netheril.",
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "wyver_tour__wyvern_tor",
+      "token": "Wyver Tour",
+      "canonical": "Wyvern Tor",
+      "section": "locations",
+      "count": 1,
+      "context": "And… Old World Tour, Old Owl, well, and Wyver Tour.",
+      "reason": [
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.742,
+        "line": 156,
+        "text": "Old Well Owl, Old Owl, Well, Wyvern Tor.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "This shares one self-corrected cue with Old World Tour and Old Owl Well; keep it targeted.",
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "town_master_hall__townmaster_s_hall",
+      "token": "Town Master Hall",
+      "canonical": "Townmaster's Hall",
+      "section": "locations",
+      "count": 1,
+      "context": "tobliners, or do you want to go to the Town Master Hall?",
+      "reason": [
+        "substring",
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.57,
+        "line": 313,
+        "text": "I presume you're going to go to the Stonehill Inn where Sildar is and Toblen is, or do you want to go to the Townmaster Hall?",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling uses Townmaster Hall; the registry canonical is Townmaster's Hall.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "gotham_s_lair__agatha_s_lair",
+      "token": "Gotham's Lair",
+      "canonical": "Agatha's Lair",
+      "section": "locations",
+      "count": 1,
+      "context": "So, Gotham's Lair is the Sister Grailie quest.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.899,
+        "line": 233,
+        "text": "So Agatha's lair is the sister Garaele quest.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "harmon__hamun",
+      "token": "Harmon",
+      "canonical": "Hamun",
+      "section": "npcs",
+      "count": 1,
+      "context": "Well, how exactly, Mr. Harmon? How can you help the community?",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.983,
+        "line": 1141,
+        "text": "Well, how exactly, Mr. Hamon, how can you help the community?",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "res_wizards__red_wizards",
+      "token": "Res Wizards",
+      "canonical": "Red Wizards",
+      "section": "factions",
+      "count": 1,
+      "context": "now this, but you as a character would. Res Wizards of Faye, there's a wizard kingdom calle",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.659,
+        "line": 1114,
+        "text": "Hold on, no, then you as a player, you as a player don't know this, but you as a character would. Red Wizards of Thay, there's a wizard kingdom called the Red Wizards of Thay.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "sister_maela_s_sister_maela__sister_maela",
+      "token": "Sister Maela's Sister Maela",
+      "canonical": "Sister Maela",
+      "section": "pcs",
+      "count": 1,
+      "context": "So, Sister Maela's Sister Maela is, D20, so she's a 13.",
+      "reason": [
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.878,
+        "line": 960,
+        "text": "So Maela, Sister Maela is D20. So she's at 13.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "This is an accidental doubled name and must be corrected only at the exact cue.",
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "thale__thel",
+      "token": "Thale",
+      "canonical": "Thel",
+      "section": "npcs",
+      "count": 1,
+      "context": "the Redbrand had murdered her husband, Thale, and had intended to kill the rest of t",
+      "reason": [
+        "phonetic"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.726,
+        "line": 40,
+        "text": "Myrna explained that a couple of days ago, the Redbrand had murdered her husband Thale and had intended to kill the rest of the family as well.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling also says Thale, but the module-derived registry canonical is Thel Dendrar.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "thunder_tea__thundertree",
+      "token": "Thunder Tea",
+      "canonical": "Thundertree",
+      "section": "locations",
+      "count": 1,
+      "context": "southeast parcel of the ruined town of Thunder Tea, insisting that they take it as their o",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.484,
+        "line": 47,
+        "text": "In gratitude, she told the party of a valuable emerald necklace hidden behind a section of storage shelves in her family's old urban alchemy shop in the southeast parcel of the ruined town of Thundertree, insisting that they take it as their own if they ever passed that way.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap names the ruined town Thundertree in the same necklace passage.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "tresenter_manor__tresendar_manor",
+      "token": "Tresenter Manor",
+      "canonical": "Tresendar Manor",
+      "section": "locations",
+      "count": 1,
+      "context": "the Dendrar family through the ruins of Tresenter Manor and out through a door leading up and o",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.622,
+        "line": 49,
+        "text": "The party escorted the Dendrar family through the ruins of Tresendar Manor and out through a door leading up and out of the front of the building, delivering them safely back to the outskirts of Phandalin.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "triborg_trail__triboar_trail",
+      "token": "Triborg Trail",
+      "canonical": "Triboar Trail",
+      "section": "locations",
+      "count": 1,
+      "context": "So… off we go. So, you're on the Triborg Trail, the day passes, nighttime passes.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.949,
+        "line": 769,
+        "text": "So off we go. So you're on the Triboar Trail. The day passes. Night time passes.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "wyvernor__wyvern_tor",
+      "token": "Wyvernor",
+      "canonical": "Wyvern Tor",
+      "section": "locations",
+      "count": 1,
+      "context": "or were not just… Now, whether it's the Wyvernor, whether it's the Goblins, whether it's",
+      "reason": [
+        "substring"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.587,
+        "line": 798,
+        "text": "So that the claims about Wyvern Tor were not just that now, whether it's the Wyvern Tor, whether it's the Goblins, whether it's the Redbrands, whether it's some new faction you've never heard about, is immaterial.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "faye__thay",
+      "token": "Faye",
+      "canonical": "Thay",
+      "section": "locations",
+      "count": 3,
+      "context": "e you to know that I am a Red Wizard of Faye, and a red wizard of Faye is not someon",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.734,
+        "line": 1111,
+        "text": "Now, I would like you to know that I am a Red Wizard of Thay, and a Red Wizard of Thay is not someone you should be talking to lightly.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "stonehill_tavern__stonehill_inn",
+      "token": "Stonehill Tavern",
+      "canonical": "Stonehill Inn",
+      "section": "locations",
+      "count": 3,
+      "context": "So, we're gonna head back to the Stonehill Tavern.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.857,
+        "line": 504,
+        "text": "So we're going to head back to the Stonehill Dawn.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling also says Tavern, but the module-derived registry canonical is Stonehill Inn.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "alwell__old_owl_well",
+      "token": "Alwell",
+      "canonical": "Old Owl Well",
+      "section": "locations",
+      "count": 2,
+      "context": "friend who needs some help, at the old Alwell.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.851,
+        "line": 546,
+        "text": "We have a friend who needs some help at the old owl well.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The VTT form is 'old Alwell'; target the full phrase to avoid producing 'old Old Owl Well'.",
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "kostatis__kostadis",
+      "token": "Kostatis",
+      "canonical": "Kostadis",
+      "section": "table",
+      "count": 1,
+      "context": "okay, so let me just give you, sort of, Kostatis' observation, right?",
+      "reason": [
+        "cross-unknown"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.845,
+        "line": 196,
+        "text": "Yeah, yeah, but let me just give you sort of Costatis's observation, right?",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The campaign player record spells the GM's name Kostadis.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "netherland__netheril",
+      "token": "Netherland",
+      "canonical": "Netheril",
+      "section": "locations",
+      "count": 1,
+      "context": "Tell me… tell me more about, Netherland.",
+      "reason": [
+        "cross-unknown"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.833,
+        "line": 422,
+        "text": "Like, tell me more about Netheril.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "netherlands__netheril",
+      "token": "Netherlands",
+      "canonical": "Netheril",
+      "section": "locations",
+      "count": 1,
+      "context": "s Darren called it an old watchtower of Netherlands, so…",
+      "reason": [
+        "cross-unknown"
+      ],
+      "confidence": "medium",
+      "sibling": {
+        "score": 0.71,
+        "line": 437,
+        "text": "No, actually, the note says Daran called it an old watchtower of Netheril. Oh, sorry.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "aldo__old_owl",
+      "token": "Aldo",
+      "canonical": "Old Owl",
+      "section": "locations",
+      "count": 1,
+      "context": "Oh, Aldo?",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.714,
+        "line": 734,
+        "text": "Oh, no.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "This immediately follows 'not Wyvern Tor, Old Owl Well'; it likely represents the GM confirming 'Old Owl?'. The sibling instead has 'Oh, no.'",
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "carsus__karsus",
+      "token": "Carsus",
+      "canonical": "Karsus",
+      "section": "npcs",
+      "count": 1,
+      "context": "One of their leaders, Carsus, I believe is the story. I don't… I'm n",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.85,
+        "line": 458,
+        "text": "One of their leaders, Karsus, I believe is the story.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "cessnak__ssarnak",
+      "token": "Cessnak",
+      "canonical": "Ssarnak",
+      "section": "npcs",
+      "count": 1,
+      "context": "and watched them flee. It called itself Cessnak.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.477,
+        "line": 4,
+        "text": "Can you hear me? Yes, I can. I can hear you.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling recap renders Sessnak, but the module-derived registry spells the nothic Ssarnak.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "finland__phandalin",
+      "token": "Finland",
+      "canonical": "Phandalin",
+      "section": "locations",
+      "count": 1,
+      "context": "You are in Finland.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.737,
+        "line": 120,
+        "text": "You are in Phandalin.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "haman__hamun",
+      "token": "Haman",
+      "canonical": "Hamun",
+      "section": "npcs",
+      "count": 1,
+      "context": "Well, Haman, there are a lot of things that I would",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.612,
+        "line": 989,
+        "text": "There's a lot of things you can do.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "hammond__hamun",
+      "token": "Hammond",
+      "canonical": "Hamun",
+      "section": "npcs",
+      "count": 1,
+      "context": "Cut right to the point, Hammond. So…",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.718,
+        "line": 1089,
+        "text": "Well, so I'll cut right to the point, Hamun.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "never_never__neverwinter",
+      "token": "Never Never",
+      "canonical": "Neverwinter",
+      "section": "locations",
+      "count": 1,
+      "context": "ea is… is… it's just, like, the city of Never Never… and just basically the envarones aroun",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.52,
+        "line": 838,
+        "text": "So just, yeah, so just so you know, so it's not like this area is just like the city of Neverwinter and just basically the environs around Neverwinter are the limits of where civilization is.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "The sibling dialogue names Neverwinter twice in the same explanation.",
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "ninja__unresolved",
+      "token": "Ninja",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "context": "Ninja.",
+      "reason": [
+        "edit_distance"
+      ],
+      "confidence": "high",
+      "sibling": {
+        "score": 0.462,
+        "line": 736,
+        "text": "Nice one.",
+        "verdict": "inconclusive"
+      },
+      "previous_session": "no matching campaign name found",
+      "evidence_note": "This occurs during a Miner's Exchange recap and looks name-like, but the sibling omits it and no campaign entity named Ninja was found.",
+      "edit_mode": "none",
+      "recommended_decision": "discuss",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "old_abel__old_owl_well",
+      "token": "Old Abel",
+      "canonical": "Old Owl Well",
+      "section": "locations",
+      "count": 1,
+      "context": "I see, okay, okay. So, so we reach Old Abel by the next day, probably noon or somet",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.819,
+        "line": 860,
+        "text": "Ah, I see. Okay. Okay. So we reach Old Owl Well by the next day, probably noon or something.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "old_world_tour__old_owl_well",
+      "token": "Old World Tour",
+      "canonical": "Old Owl Well",
+      "section": "locations",
+      "count": 1,
+      "context": "And… Old World Tour, Old Owl, well, and Wyver Tour.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.742,
+        "line": 156,
+        "text": "Old Well Owl, Old Owl, Well, Wyvern Tor.",
+        "verdict": "corroborating_with_local_canon"
+      },
+      "previous_session": null,
+      "evidence_note": "This shares one self-corrected cue with Old Owl Well and Wyver Tour; keep it targeted.",
+      "edit_mode": "targeted",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "redway__unresolved",
+      "token": "Redway",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "context": "do you want to do? I need to tell you, Redway… hold on, hold on.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.673,
+        "line": 1112,
+        "text": "So what do you want to do? I need to tell you.",
+        "verdict": "ordinary_words"
+      },
+      "previous_session": "no matching campaign name found",
+      "evidence_note": "The sibling sentence ends at 'I need to tell you'; no name follows, and no campaign or previous-session match was found.",
+      "edit_mode": "none",
+      "recommended_decision": "ignore",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "royd__unresolved",
+      "token": "Royd",
+      "canonical": null,
+      "section": "table",
+      "count": 1,
+      "context": "Royd?",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.5,
+        "line": 12,
+        "text": "Copy.",
+        "verdict": "ordinary_words"
+      },
+      "previous_session": "no matching campaign name found",
+      "evidence_note": "This occurs during search/log technology chatter; the sibling and prior session provide no name evidence.",
+      "edit_mode": "none",
+      "recommended_decision": "ignore",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "taryn_s_orchard__daran_s_orchard",
+      "token": "Taryn's Orchard",
+      "canonical": "Daran's Orchard",
+      "section": "locations",
+      "count": 1,
+      "context": "eah, I guess there's nothing to do with Taryn's Orchard.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.955,
+        "line": 414,
+        "text": "Yeah, I guess there's nothing to do with Daran's orchard.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "torb__wyvern_tor",
+      "token": "Torb",
+      "canonical": "Wyvern Tor",
+      "section": "locations",
+      "count": 1,
+      "context": "is, how do you want to get to River and Torb?",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.614,
+        "line": 1112,
+        "text": "So what do you want to do? I need to tell you.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "uthgarts__uthgardt",
+      "token": "Uthgarts",
+      "canonical": "Uthgardt",
+      "section": "factions",
+      "count": 1,
+      "context": "And then… After the spell plague, Uthgarts came and killed everyone there.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.972,
+        "line": 602,
+        "text": "And then after the Spellplague, Uthgardt came and killed everyone there.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "weaventor__wyvern_tor",
+      "token": "Weaventor",
+      "canonical": "Wyvern Tor",
+      "section": "locations",
+      "count": 1,
+      "context": "e'll tell Hamun that, we'll head to the Weaventor and deal with the bugfires.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.778,
+        "line": 1257,
+        "text": "We'll go, we'll tell him, we'll tell Hamun that we'll head to the Wyvern Tor and deal with the bug bears.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "wivorn__wyvern_tor",
+      "token": "Wivorn",
+      "canonical": "Wyvern Tor",
+      "section": "locations",
+      "count": 1,
+      "context": "g, there have been several attacks near Wivorn of caravans.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.741,
+        "line": 374,
+        "text": "Well, he's been saying there have been several attacks in your Wyvern Tor of caravans.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    },
+    {
+      "id": "wventh__wyvern_tor",
+      "token": "Wventh",
+      "canonical": "Wyvern Tor",
+      "section": "locations",
+      "count": 1,
+      "context": "No, not Wventh or older as well.",
+      "reason": [
+        "singleton"
+      ],
+      "confidence": "low",
+      "sibling": {
+        "score": 0.794,
+        "line": 294,
+        "text": "No, not Wyvern Tor, old owl well.",
+        "verdict": "corroborating"
+      },
+      "previous_session": null,
+      "evidence_note": null,
+      "edit_mode": "glossary",
+      "recommended_decision": "approve_correction",
+      "decision": null,
+      "note": null
+    }
+  ]
+}

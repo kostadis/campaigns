@@ -1,0 +1,24 @@
+{
+  "title": "Stage 0 Rerun Rulings — Chapter 10",
+  "reviewId": "staged-consistency:010-20260821:stage-0:codex-cli-door-rerun",
+  "outputName": "staged_consistency_stage_0_decisions_codex_cli_door_rerun.json",
+  "eyebrow": "Obelisk / Session 010 / Stage 0 / codex-cli",
+  "lede": "Two new framing decisions need a GM ruling. Previously adjudicated Stage 0 canon choices are preserved.",
+  "footer": "Applied without asking: removed one out-of-character module-roster annotation from the Chapter 10 recap. Preserved five prior GM rulings. The unsupported chapter-number warning is logged as trivial. docs/background/obelisk.md was excluded with GM approval to fit the Codex CLI input limit.",
+  "items": [
+    {
+      "id": "s0-door-02",
+      "t": "Limit the abandoned-caravan passage to what the party actually established?",
+      "y": "Edit <code>summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md:18</code> to remove the unknown owners’ fate and avoid implying Wyvern Tor’s occupants caused the attack; retain that the evidence showed the Triboar Trail was dangerous.",
+      "n": "Leave the current evocative wording unchanged and defer the report’s evidence-boundary concern in <code>summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md:18</code>.",
+      "ev": "The transcript establishes an abandoned, apparently attacked caravan but explicitly leaves the attackers and owners’ fate unknown. See <code>consistency_report_stage_0_gm_assist_codex_cli_door_rerun.md:6</code>."
+    },
+    {
+      "id": "s0-door-03",
+      "t": "Replace the summary’s ‘already dead’ paraphrase with Hamun Kost’s actual conditional threat?",
+      "y": "Edit <code>summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md:22</code> so Hamun says that if protecting his secrets required their deaths, he would kill them; this matches the transcript and the quote retained later in the recap.",
+      "n": "Leave the current ‘if he had wanted the party dead, they would already be dead’ paraphrase unchanged in <code>summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md:22</code> and defer the quote-drift finding.",
+      "ev": "The transcript wording is ‘If I wanted my secrets to be safe, I would kill you,’ which describes a secrecy condition rather than claiming the party would already be dead. See <code>consistency_report_stage_0_gm_assist_codex_cli_door_rerun.md:11</code>."
+    }
+  ]
+}

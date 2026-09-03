@@ -1,0 +1,211 @@
+consistency_check:
+  timestamp: "2026-08-22T00:45:00+00:00"
+  campaign: "obelisk"
+  document_checked: "summaries/008/session-summary.md"
+  document_class: "enhanced recap"
+  report: "summaries/008/consistency_report_ch8_stage1.md"
+  config: "/home/kroussos/obelisk/obelisk/config.yaml"
+  model: "claude-opus-5"
+  backend: "claude-code"
+  issues_found: 16
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-02"
+  skill: "staged-consistency (stage 1; stage 0 completed in a prior run)"
+  review_mode: "artifact"
+  review_artifact: "https://claude.ai/code/artifact/d2577731-a4e1-481a-a67e-80b31fff860d"
+  notes: |
+    The script's default model (claude-fable-5) hit its usage limit and the first
+    run died with `RuntimeError: claude -p error: You've reached your Fable 5
+    limit`. Re-ran with --model claude-opus-5; that run is the one reported here.
+
+    Stages 2 (scene_extractions_new/) and 3 (narration/) do not exist for this
+    session yet, so the per-scene verbatim-quote layer — the layer this skill
+    exists to protect — has NOT been checked. Re-run /staged-consistency after
+    scene extraction.
+
+    gm-assist.md had already been checked in a prior run
+    (consistency_report_ch8_stage0.md). It is the SOURCE recap for this enhanced
+    recap and was passed as --context accordingly.
+  lineage: |
+    session-summary.md is the enhance_summary output built from gm-assist.md
+    plus the VTT. Confirmed by summaries/008/.cg/activity.jsonl
+    ({"stage": "enhance", "rc": 0, "outputs": [".../session-summary.md"]}, and a
+    prior rc:1 attempt) and by summaries/008/logs/2026-08-21_170627_enhance_summary.md.
+  speaker_map: |
+    kostadis = GM, and voices all three sidekicks (Veyra, Sister Maela, Pip).
+    Nikhil = Zenvon Foreput, the sole PC. Solo-player campaign, so there is no
+    absent-player attribution collapse.
+
+    WARNING: the Zoom .md speaker labels are NOT reliable. Through the
+    Thunderwave exchange (Recording.cleaned.md:1497-1520) the labels are
+    inverted — the player's questions carry **kostadis:** and the GM's answers
+    carry **Nikhil:**. Every attribution in this run was ruled on CONTENT, with
+    labels used only as corroboration.
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entity registry + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "unpromoted confirmed names (campaign-standard)" }
+      - { path: summaries/008/gm-assist.md, role: "SOURCE recap — required for the enhanced-recap class" }
+      - { path: notes/everyone_is_a_suspect.md, role: "session prep (authoritative) — 'staging for the session after Chapter 7'" }
+      - { path: notes/redbrand_hideout.md,     role: "location prep (authoritative) — the Redbrand Hideout" }
+      - { path: notes/cragmaw_castle.md,       role: "arc prep, GM-selected" }
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-22"
+    review_method: |
+      Batch review artifact (12 cards). 9 approve, 0 reject, 3 discuss.
+      Decisions read back via read_decisions.py from the saved page state
+      (savedAt 2026-08-22 00:34 UTC).
+    gm_rulings_this_run:
+      - "Verify module claims against 5etools, not a local bible copy or model memory. Standing instruction, given mid-run."
+      - "s1-08: 'Not all of the bugbears died.' — confirms survivors exist; applied as three of four surviving, wounded."
+      - "s1-09: 'They only found the ones in the module.' — one set of psionic-goblin corpses, not two."
+    applied:
+      - { finding: "auto",  fix: "'alchemy shop' -> 'herb and alchemy shop' x5 in session-summary.md (world_state.md + redbrand_hideout.md; the tape's 'an urban alchemy shop' is an ASR garble of 'an herb and alchemy shop')" }
+      - { finding: "auto",  fix: "Nosk NPC entry restored to 'The bugbear leader of the group the Black Spider sent to reinforce the Redbrands' (registry; the recap's own Summary already said 'the lead bugbear')" }
+      - { finding: "auto",  fix: "Summary 'three potions of healing, climbing and growth' -> 'three potions - healing, climbing, and growth' (one of each, per raw VTT and module)" }
+      - { finding: "s1-02", fix: "Spells section: Thunderwave re-attributed from Veyra to Zenvon. REPORT DIRECTION INVERTED - see vtt_adjudicated." }
+      - { finding: "s1-03", fix: "'under the Lionshield Coster' cut from the Miner's Exchange scene and location entry (map-position cue, not geography)" }
+      - { finding: "s1-04", fix: "'Una' withdrawn from notes/vtt_known_additions.md; 'Yola,Una -> Mirna' row added to notes/vtt_transcription_corrections.md" }
+      - { finding: "s1-05", fix: "Added an explicit 'Not recovered' line: the party neither searched for nor found Thel Dendrar's remains or the unicorn-head pendant; Mirna's request stays open" }
+      - { finding: "s1-06", fix: "Sildar scene annotated: 250 gp is the table's negotiated figure, module sets 200 gp" }
+      - { finding: "s1-07", fix: "GM-side note appended to the Halia Thornton NPC entry (Zhentarim; trade-protection line is a cover)" }
+      - { finding: "s1-10", fix: "'unexplored' dropped in all THREE places (Summary, Escape scene, and the Tresendar Manor location entry, which the card had missed)" }
+      - { finding: "s1-11", fix: "Third Level scene records sidekick parity maintained; the open decision in notes/everyone_is_a_suspect.md:346 marked RESOLVED" }
+      - { finding: "s1-12", fix: "gm-assist.md: Nosk's dropped 'now' restored; 'tackled/restrain' -> 'grappled' in all THREE places (lines 24, 95, 270 - the card had found two)" }
+      - { finding: "s1-01", fix: "'Sawplee' -> 'Scraptops' for Droop's clan in session-summary.md (quote + NPC entry, with an italic editorial note); the bad glossary row rewritten to map the clan sense of Sawplee to Scraptops. RULED ON THE MODULE PER THE GM'S NOTE - see vtt_adjudicated." }
+    rejected: []
+    deferred: []
+  vtt_adjudicated: |
+    The VTT was consulted BY HAND and was NOT a --context input. Two transcripts
+    exist and they disagree in useful ways: the Zoom .md
+    (GMT20260802-204903_Recording.cleaned.md) carries speaker labels, and the raw
+    Whisper VTT (session_20260802_transcript.cleaned.vtt) has better wording.
+    Wording questions were ruled on the VTT, attribution on content.
+
+    CORRECTION TO THE REPORT (s1-02, the report's own "most serious mechanical
+    error"). The report told us to strip Thunderwave from Zenvon on the grounds
+    that "an Arcane Trickster gains no leveled spell slots and no evocation
+    spells at 3rd level; Thunderwave is not on the Arcane Trickster list at all."
+    All three claims are false: a Rogue 3 Arcane Trickster has two 1st-level
+    slots, draws from the wizard list, and may take one spell from any school at
+    3rd level. The tape confirms Zenvon cast it - Recording.cleaned.md:1497
+    "All right, Zenvon, you're up first", then the caster is asked "do you wanna
+    try it on these two bugbears? You wanna include the goblin or not?" and
+    answers "I don't wanna include the goblin"; at 1591 Nikhil says "so I'm gonna
+    use the thunderwave"; the GM then walks him through HIS OWN sheet ("if you go
+    over in your spells, spell DC is a 12... Now go click on Thunderwave").
+    The Summary and Scenes were right; the Spells section was the stale side.
+
+    CORRECTION TO THE REPORT (s1-06 direction). The report suggested the recap's
+    250 gp might need correcting to the module's 200. Recording.cleaned.md:2697 -
+    "So it was, uh, 250 gold pieces for eliminating the Redbrand threat and
+    finding Iarno." The recap is right; only the recording of the deviation was
+    missing. The three-tier Iarno bounty is verbatim at 2737.
+
+    CORRECTION TO THE REPORT (s1-03, a footer false-clearance). The report's
+    "verified as correct" footer cleared "Miner's Exchange under the Lionshield
+    Coster - consistent with canon's Phandalin geography." No grounding doc says
+    it. Raw VTT 02:42:24-02:42:44: "Do you see the Miner's Exchange?" / "There,
+    she says now." / "It's under the Lionshield Coster." / "You see it?" /
+    "Yeah, I see that." That is a where-to-look cue for a map token. The GM uses
+    the same construction at Recording.cleaned.md:2829 for quest-list position.
+
+    NEAR-MISS AVOIDED (potions). The Zoom .md has the chest containing "a potion
+    of viewing, a potion of climbing, and a potion of growth" - which would have
+    made the recap's chest-sourced healing potion an error. The raw Whisper VTT
+    line 2888 has "A potion of healing, a potion of climbing, and a potion of
+    growth", and 5etools adventure-pabtso.json agrees. "Viewing" is a Zoom-ASR
+    garble. The recap was right; only its Summary phrasing was ambiguous.
+
+    NEAR-MISS AVOIDED (Thundertree). The Zoom .md has Mirna fleeing "after the
+    Owlbear overran the place", which would have made the recap's "undead" a
+    fabricated quote. Raw VTT 1659 has "after the own dead overran the place" -
+    ASR for "undead". The recap was right.
+
+    5ETOOLS VERIFICATION (s1-01, s1-09), per the GM's standing instruction.
+    No .mcp.json exists in this workspace, so the 5etools MCP server is NOT
+    registered here and mcp__campaign__rpg_search returned
+    fivetools_candidates_seen: 0 with fallback_reason "wing indices empty".
+    Verified instead against the canonical data on disk,
+    /home/kroussos/src/5etools-src/data/adventure/adventure-pabtso.json:
+      - "Scraptops" occurs EXACTLY ONCE in the whole adventure, in R9:
+        "He is a member of the Scraptops, a goblin clan known for its scavenging
+        and tinkering." "Sawplee" occurs 29 times, as Ruxithid's psionic-goblin
+        faction. They are unambiguously distinct, and the GM's table utterance
+        of "Sawplee" for Droop's clan was a slip.
+      - Dead Goblins (R8): "Underneath the southern bridge are corpses of two
+        psionic goblins... elongated skulls... filthy, haphazard rags."
+        There is exactly ONE such set in the hideout, and it is at the crevasse.
+        So world_state.md's "hideout caverns in Ch. 6" and the recap's "in the
+        crevasse" describe the SAME corpses at different levels of precision -
+        not two sets, and not a contradiction. No edit made.
+      - Thel Dendrar's skeleton and the unicorn-head pendant are confirmed at
+        the bottom of the crevasse, and Mirna can identify them.
+
+    BUGBEAR COUNT (s1-08). Four bugbears (module R9 and the read-aloud). Only one
+    death anywhere in the session: Recording.cleaned.md:2003 "so it causes five
+    points of damage, so this guy dies" / "So they don't die from the fire?" /
+    "No, they do not die from the fire, but-" / "They're also wounded." No kills
+    in the melee (Thunderwave 12, Firebolt 8, Pip missed; bugbears have 27 HP).
+    Three survive, wounded. Nosk's iron key never comes up on tape at all -
+    "key" returns nothing for the session - so the recap is right to omit it and
+    the prize everyone_is_a_suspect.md flagged is still in the hideout.
+  carry_forward:
+    - status: DONE
+      item: |
+        gm-assist.md carried two errors that were fixed in session-summary.md but
+        were NOT in scope for the GM's s1-12 ruling: "Sawplee clan" for Droop
+        (line 181) and "alchemy shop" without "herb and" (lines 10, 48, 144, 166,
+        215). Because gm-assist.md is the SOURCE recap, a future enhance_summary
+        re-run would have reintroduced both. Surfaced separately at the end of the
+        run; GM approved 2026-08-22 and both were propagated. Both recap layers now
+        agree, verified by grep across gm-assist.md and session-summary.md.
+    - status: OPEN
+      item: |
+        Stages 2 and 3 were never run - scene_extractions_new/ and narration/ do
+        not exist for session 008. The per-scene verbatim-quote layer is unchecked.
+        Re-run /staged-consistency after scene extraction, before any narration.
+    - status: OPEN
+      item: |
+        docs/party.md is stale on two points settled this session: it still says
+        "three sidekicks still at Level 1 with a bump owed since Ch. 3" (all four
+        are now 3rd level) and "150 gp paid so far" (250 gp total agreed for the
+        Redbrand job, 150 gp of it paid this session). party.md is a
+        CampaignGenerator output - regenerate from the corrected summaries rather
+        than hand-editing.
+    - status: OPEN
+      item: |
+        campaign_state.md does not record the 250 gp Redbrand reward (table figure,
+        module says 200) or the three-tier Iarno bounty (200 alive / 100 dead /
+        50 if he can't be raised). Both are now explicit in session-summary.md, so
+        a regeneration should pick them up.
+    - status: NOTE
+      item: |
+        The Zoom .md speaker labels invert during the Thunderwave exchange. Any
+        future attribution ruling on this session must use content, not labels.
+        See speaker_map above.
+    - status: DONE
+      item: |
+        The sidekick-level inversion flagged as an open decision in
+        notes/everyone_is_a_suspect.md:346 never happened - Zenvon levelled to 3
+        alongside the sidekicks. Marked RESOLVED in that file.
+    - status: DONE
+      item: |
+        The "Scrap Tops -> Sawplee" row in notes/vtt_transcription_corrections.md
+        was not repairing a garble - "Scrap Tops" appears in neither session-8
+        transcript. It was asserting a canon merge of two distinct factions and
+        would have corrupted every future transcript. Rewritten to map the clan
+        sense of Sawplee to Scraptops, with the 5etools citation inline.
+    - status: DONE
+      item: |
+        "Una" was staged in notes/vtt_known_additions.md for promotion to
+        docs/entity_registry.yaml. It is a map-pin label ("Treasure - according to
+        Mirna"), not a person. Withdrawn before promotion could put a phantom NPC
+        in the registry.

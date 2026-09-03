@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "staged-consistency:010-20260821:stage-0:codex-cli-rerun",
+  "savedAt": "2026-08-27 16:18 UTC",
+  "decided": 4,
+  "tally": {
+    "approve": 1,
+    "reject": 1,
+    "discuss": 2
+  },
+  "decisions": {
+    "s0-01": "discuss",
+    "s0-02": "discuss",
+    "s0-04": "reject",
+    "s0-05": "approve"
+  },
+  "notes": {
+    "s0-01": "Northwest was a verbal error, at the game we were going north east",
+    "s0-02": "Do what the module says - if hte module says bugbear, bugbear"
+  },
+  "discuss": [
+    "s0-01",
+    "s0-02"
+  ],
+  "unmarked": []
+}
