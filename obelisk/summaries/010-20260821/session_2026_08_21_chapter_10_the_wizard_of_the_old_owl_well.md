@@ -3,9 +3,9 @@
 Date: 2026-08-21
 
 ## Summary
-The heroes of Phandalin gathered themselves after their harrowing escape from Tresendar Manor, taking stock of what lay ahead. Their narrow flight from the bugbear barracks — made possible only by Zenvon's desperate gambit of flooding the hallway with oil and setting it ablaze — had bought them just enough time to seal the manor door behind them. But the chaos of that escape had left loose ends dangling: the bugbears still lived somewhere below, and the Nothic Ssarnak's chilling whisper to Veyra — that her teacher was not dead, merely somewhere that death did not come easily — hung over the group like a storm cloud. Veyra had gone pale at the words and nearly turned back into the burning corridor, only to be physically restrained by Sister Maela and dragged to safety.
+The heroes of Phandalin gathered themselves after their harrowing escape from Tresendar Manor, taking stock of what lay ahead. Their narrow flight from the bugbear barracks — made possible only by Zenvon's desperate gambit of flooding the hallway with oil and setting it ablaze — had bought them just enough time to seal the manor door behind them. But the chaos of that escape had left loose ends dangling: the bugbears still lived somewhere below, and the Nothic Ssarnak's chilling whisper to Veyra — that her teacher was not dead, merely somewhere that death did not come easily — hung over the group like a storm cloud. Veyra had gone pale at the words and nearly turned back toward the crevasse and the thing still whispering in it, only to be physically restrained by Sister Maela and dragged to safety.
 
-In the quiet aftermath, Zenvon made a choice he had been putting off since the road. He reached into his pocket and produced the black stone he had been carrying in secret, and when it came near Veyra's blue crystal, both objects flared and resonated with an unseen magical force. The two exchanged a long look. Combined with the two dead goblins whose elongated skulls and strained faces matched Sildar's account, and Ssarnak's whispered revelation, the pieces were beginning to form a picture none of them were entirely ready to name.
+In the quiet aftermath, Zenvon made a choice he had been putting off since the road. He reached into his pocket and produced the black stone he had been carrying in secret, and when it came near Veyra's blue crystal, her crystal flared and the two objects resonated with an unseen magical force. The two exchanged a long look. Combined with the two dead goblins whose elongated skulls and strained faces matched Sildar's account, and Ssarnak's whispered revelation, the pieces were beginning to form a picture none of them were entirely ready to name.
 
 With their wounds tended and their minds made up, the party turned their attention to the road ahead. They visited Daran Edermath at his orchard on the edge of town, informing the retired adventurer that they intended to set out for the Old Owl Well the following morning. Daran was delighted by the news and launched into a lengthy recounting of his own adventuring days, dispensing advice that amounted largely to keeping one's back straight and one's eyes open. Zenvon took careful notes on all of it, which pleased the old man enormously, while Pip struggled to keep a straight face beside him.
 
@@ -17,7 +17,7 @@ The next morning, Sildar Hallwinter caught them before they could depart, inviti
 
 The party set out along the Triboar Trail under a grey morning sky, then turned northeast toward the rugged hills. The road was quiet — unnervingly so — and along the way they passed the wreckage of an abandoned caravan, its goods scattered amid signs of an attack. The evidence confirmed that the Triboar Trail was dangerous, though the attackers and the owners' fate remained unknown. By the following day, the hills rose around them and the Old Owl Well came into view: a crumbling watchtower surrounded by mounds of rubble, with a colorful tent pitched in the middle of the courtyard and no one in sight.
 
-The eerie stillness lasted only a moment before twelve zombies began to shamble out of the tower. Among the undead laborers were a sun-peeled former sentinel and a figure still wearing a singed Red Wizard acolyte's robe. Sister Maela took one look at the scene and identified the unmistakable work of a necromancer — someone powerful enough to raise and command this many undead was not to be underestimated. Rather than draw steel, Zenvon called out toward the tent, taunting whoever was inside into showing themselves. A wizard emerged, bearing distinctive tattoos across his shaved head and wearing the calm expression of someone who had never once been afraid of anything in his life.
+The eerie stillness lasted only a moment before twelve zombies began to shamble out of the tower. Among the undead laborers were a sun-peeled former sentinel and a figure still wearing a singed Red Wizard acolyte's robe. Sister Maela took one look at the scene and suspected the work of a powerful necromancer — someone capable of raising and commanding this many undead was not to be underestimated. Rather than draw steel, Zenvon called out toward the tent, taunting whoever was inside into showing themselves. A wizard emerged, bearing distinctive tattoos across his shaved head and wearing the calm expression of someone who had never once been afraid of anything in his life.
 
 The wizard introduced himself as Hamun Kost, a Red Wizard of Thay, and made it quietly clear that if protecting his secrets required the party's deaths, he would kill them. He explained that he was conducting an archaeological dig at the old watchtower and had no interest in threatening the nearby settlements. When Zenvon pressed him for information about Cragmaw Castle, Hamun smiled and offered a trade: he would provide the castle's location in exchange for one of two favors. The party could either deal with a group of marauding bugbears and an ogre at Wyvern Tor who had been scouting his camp, or they could travel to the ruins of Conyberry and ask the banshee Agatha for the name of the wizard who had originally built the tower. Hamun admitted, with something approaching embarrassment, that he had no particular desire to be killed by a banshee himself.
 
@@ -29,8 +29,8 @@ The trek to Wyvern Tor wound through rugged terrain, and after some initial diff
 ### A Heroic Recap
 #### The DM recaps the party's recent exploits, including the rescue of the Dendrar family and a narrow escape from the Redbrand hideout.
 - Zenvon Forepot reaches third level and adopts the Arcane Trickster archetype, gaining Mage Hand and Minor Illusion.
-- The party rescues Myrna Dendrar and her two teenage children from the prison cells in Tresendar Manor.
-- Myrna reveals the location of a hidden emerald necklace in Thundertree as a reward for their help.
+- The party rescues Mirna Dendrar and her two teenage children from the prison cells in Tresendar Manor.
+- Mirna reveals the location of a hidden emerald necklace in Thundertree as a reward for their help.
 - Zenvon uses Minor Illusion to mimic Glasstaff's voice and distract the Nothic, then uses Mage Hand to safely open a hidden chest in the crevasse, recovering gold, gems, potions, and an unidentified magical longsword.
 - The party confronts bugbears in the barracks, leading to a brutal fight where Zenvon is nearly incapacitated by the bugbear leader Nosk.
 - The adventurers use oil and fire to create a flaming barrier in the hallway, allowing them to escape the manor.
@@ -89,7 +89,7 @@ The trek to Wyvern Tor wound through rugged terrain, and after some initial diff
 - The party spots the crumbling ruins of a watchtower and a colorful tent in the courtyard amid the rugged hills.
 - Zenvon leads the party in a stealthy approach toward the ruins, sensing an eerie atmosphere.
 - As the party nears the entrance, twelve zombies shamble from the tower to confront them, including a sun-peeled former sentinel and a dead acolyte in a singed Red Wizard's robe.
-- Sister Maela identifies the presence of a necromancer, warning the party of the dark magic at play and noting that whoever commands this many undead is powerful.
+- Sister Maela suspects the presence of a powerful necromancer, warning the party of the dark magic at play and the danger suggested by so many undead.
 - Zenvon attempts to draw out the master of the undead by shouting challenges toward the colorful tent in the courtyard.
 - Hamun Kost, a wizard bearing distinctive tattoos on his head, emerges from the tent demanding to know the meaning of the intrusion.
 - Veyra identifies the tattoos on the wizard's head as symbols of necromancy.
@@ -137,14 +137,14 @@ The crumbling ruins of an ancient Netherese watchtower in the rugged hills north
 A rugged ridge on the lower slopes of the hills featuring a hidden ravine and the camp of the Axe-Biter Marauders. The full module roster is the orc chief Brughor Axe-Biter, four bugbears, and the ogre Gog. A lone bugbear sentry guards the cave entrance.
 
 ## NPCs
-### Myrna Dendrar
+### Mirna Dendrar
 A human woman rescued from the Redbrand cells along with her two teenage children. She revealed the location of a hidden emerald necklace in Thundertree as a reward for the party's help.
 
 ### Ssarnak
 A Nothic living in the caverns beneath Tresendar Manor that feeds on corpses. As the party fled, it whispered to Veyra that her teacher was not dead and was 'not in a place where dead is easy.'
 
 ### Nosk
-The lead bugbear of the Scarlet Fist, four tall, furry shock troops sent by the Black Spider to reinforce the Redbrands and intimidate Phandalin. Nosk accidentally revealed that the Black Spider is at Cragmaw Castle before initiating a brutal fight with the party.
+The leader of the Scarlet Fist, the Black Spider's four-bugbear reinforcement group sent to support the Redbrands and intimidate Phandalin. Nosk accidentally revealed that the Black Spider is at Cragmaw Castle before initiating a brutal fight with the party.
 
 ### Sildar Hallwinter
 A member of the Lords' Alliance who paid the party for exposing Iarno Albrek's betrayal, offered a 500 gold piece bounty for dealing with Cragmaw Castle, and subtly hinted at future opportunities within the Lords' Alliance for Pip.
@@ -174,7 +174,7 @@ A companion of the party who became visibly excited about the 500 gold bounty fo
 A scholarly companion who identified Hamun Kost's necromantic tattoos using her research notes, warned the party to be cautious around the Red Wizard, and expressed skepticism about Zenvon's navigation before he found a shortcut to Wyvern Tor.
 
 ### Sister Maela Dawnforge
-A companion who identified the presence of a necromancer at Old Owl Well, strongly advocated for fighting the bugbears and ogre at Wyvern Tor over visiting the banshee Agatha, and helped keep the party alive during the recap events.
+A companion who suspected the presence of a powerful necromancer at Old Owl Well, strongly advocated for fighting the bugbears and ogre at Wyvern Tor over visiting the banshee Agatha, and helped keep the party alive during the recap events.
 
 ### Hamun Kost
 A Red Wizard of Thay and necromancer with distinctive tattoos on his head who commands the twelve Kost Wardens at Old Owl Well. The zombies are laborers and set-dressing around the real danger: Hamun himself is powerful enough that the encounter is a conversation, not a fair fight. He is conducting an archaeological dig and offered to trade the location of Cragmaw Castle in exchange for the party either clearing out marauders at Wyvern Tor or obtaining the name of the tower's original builder from the banshee Agatha.

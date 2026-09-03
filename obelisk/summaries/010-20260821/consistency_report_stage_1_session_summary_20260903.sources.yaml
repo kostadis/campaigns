@@ -1,0 +1,169 @@
+consistency_check:
+  timestamp: "2026-09-03T11:40:00-07:00"
+  campaign: "/home/kroussos/obelisk/obelisk"
+  stage: 1
+  stage_name: "session-summary"
+  document_checked: "summaries/010-20260821/session_summary.md"
+  document_class: "enhanced recap (enhance_summary output)"
+  upstream: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md"
+  report: "summaries/010-20260821/consistency_report_stage_1_session_summary_20260903.md"
+  config: "/home/kroussos/obelisk/obelisk/config/config.yaml"
+  backend: "codex-cli"
+  issues_found: 14
+  issues_actionable: 7
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-21"
+
+  supersedes:
+    - path: "summaries/010-20260821/consistency_report_stage_1_session_summary.sources.yaml"
+      reason: >
+        Dated 2026-08-26 and targets summaries/010-20260821/session-summary.md,
+        which does not exist. Stage 1's actual artifact is session_summary.md,
+        written 2026-09-03 10:58 from the Stage 0-corrected gm-assist.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: "docs/campaign_state.md" }
+      - { label: world_state, path: "docs/world_state.md" }
+    context:
+      - { path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md", role: "upstream gm-assist — highest-value context for this document class" }
+      - { path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt", role: "session transcript" }
+      - { path: "docs/party.md", role: "PCs and party knowledge" }
+      - { path: "docs/entity_registry.yaml", role: "entity registry and aliases" }
+      - { path: "notes/vtt_transcription_corrections.md", role: "ASR glossary" }
+      - { path: "notes/vtt_known_additions.md", role: "known transcript additions" }
+      - { path: "notes/the_door_they_locked.md", role: "immediately preceding prep and continuity" }
+      - { path: "notes/cragmaw_castle.md", role: "route-contingency prep" }
+      - { path: "notes/hamun_kost_strategy.md", role: "session-relevant antagonist strategy and GM rulings" }
+      - { path: "notes/handouts/player_quest_log.md", role: "player-facing quest state" }
+      - { path: "docs/background/monsters_cr_reference.md", role: "monster challenge-rating reference" }
+      - { path: "docs/background/monsters_phase1_scan.md", role: "module encounter rosters" }
+      - { path: "docs/background/monsters_phase2_descriptions.md", role: "approved monster names and descriptions" }
+      - { path: "docs/background/monsters_phase3_hierarchy.md", role: "encounter hierarchy and threat framing" }
+    prep_reused_from_stage: 0
+
+  vtt_adjudicated: true
+  vtt_consulted:
+    - path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt"
+      method: "read by hand during adjudication; provenance for rulings, not a --context input"
+      lines_cited: [55, 265-270, 1054-1061, 1260]
+    - path: "summaries/008/scene_extractions/04_the_crevasse_and_the_hidden_chest.md"
+      method: "read by hand — Ch. 8 authoritative record, carries the DM's verbatim treasure line"
+      lines_cited: [146]
+
+  resolution:
+    status: "REVIEWED"
+    reviewed_by: "GM"
+    reviewed: "2026-09-03"
+    method: "one-at-a-time chat walkthrough"
+    applied:
+      - finding: "s1-01"
+        severity: critical
+        target: "session_summary.md:82"
+        fix: >
+          Chest treasure corrected from "160 gp, 160 sp, an additional piece of treasure
+          worth 20 gold" to "120 gp, 160 sp, five malachite gems (12 gp each)".
+        evidence: >
+          DM verbatim in summaries/008/.../04_the_crevasse_and_the_hidden_chest.md:146.
+          Ch. 10 transcript l.55 is ASR-garbled ("160 gold...160 silver...120 gold");
+          the enhancement pass resolved the leftover into a treasure item that never existed.
+      - finding: "s1-02"
+        severity: moderate
+        target: "session_summary.md:27"
+        fix: >
+          Daran's objective restored to threat assessment rather than artifact recovery.
+        evidence: "Transcript l.1054-1061 — DM stating the quest terms mid-session."
+      - finding: "s1-03"
+        severity: moderate
+        target: "session_summary.md:55, :115, and the Wyvern Tor + Harbin Wester entries"
+        fix: >
+          Recorded the pre-existing 120-gp Harbin Wester contract on the Wyvern Tor
+          marauders alongside Hamun's favour. Propagated to both sibling entries.
+        evidence: >
+          Transcript l.265-270 (quest log read aloud, ASR-garbled) cross-checked against
+          notes/handouts/player_quest_log.md:41-44 and docs/party.md:17.
+      - finding: "s1-04"
+        severity: moderate
+        target: "session_summary.md:7, :15, :120, :279"
+        fix: >
+          Replaced "the bugbears still lived somewhere below" / "beneath the manor" with
+          uncertainty about their whereabouts, in all four places.
+        gm_ruling: >
+          "They have long since left - not sure where check notes. Summary should say -
+          what happened unclear." This SUPERSEDES the Stage 0 ruling s0-01, which had
+          preserved the containment framing.
+        note: >
+          Narrower than the checker asked for: it also wanted the party's belief rewritten
+          as GM knowledge. Only the now-known-wrong location assertion was changed.
+      - finding: "s1-07"
+        severity: minor
+        target: "session_summary.md:7 AND session_2026_08_21_...md:6 (propagated on GM instruction)"
+        fix: >
+          "nearly turned back into the burning corridor" -> "nearly turned back toward the
+          crevasse and the thing still whispering in it".
+        evidence: >
+          Internal contradiction: the document's own scene bullets (:93-95) place the
+          turn-back at the crevasse. world_state.md:243 records the oil burning out after
+          two rounds. Direction of the fix chosen from the VTT record, not from the report.
+    rejected:
+      - finding: "s1-05"
+        ruling: "False positive against this target. No edit in either file."
+        rationale: >
+          The quoted "never once been afraid of anything in his life" is not in
+          session_summary.md at all — it is gm-assist:20. The recap's own Hamun entry
+          (:369) already records that he "candidly fears being killed by Agatha", and
+          gm-assist:22 already supplies the ironic puncture ("with something approaching
+          embarrassment"). The GM's chosen option 3 therefore required no edit.
+      - finding: "s1-06"
+        ruling: "False positive against this target. gm-assist left as preserved original."
+        rationale: >
+          All three recap mentions already hedge ("perhaps", "there may be", "possibly"),
+          matching transcript l.1260 ("maybe I'll even have some nice, fine meal").
+          The overstatement exists only at gm-assist:24 and does not propagate downstream.
+    prior_rulings_preserved:
+      - { finding: "s1-08/09", maps_to: "s0-01", ruling: "Bugbear containment framing — see s1-04, partially superseded." }
+      - { finding: "s1-10", maps_to: "s0-05", ruling: "Preserve the approved Kost Wardens group and individual names." }
+      - { finding: "s1-11", maps_to: "s0-04", ruling: "Preserve the approved zombie descriptive enrichment." }
+      - { finding: "s1-12", maps_to: "s0-10", ruling: "Preserve the approved Scarlet Fist name." }
+      - { finding: "s1-13", maps_to: "s0-06", ruling: "Preserve the approved Axe-Biter roster enrichment." }
+      - { finding: "s1-14", maps_to: "s0-02", ruling: "The flagged wording IS the GM-approved s0-02 fix; checker re-flagged an applied ruling." }
+
+  carry_forward:
+    - id: "cf-01"
+      status: OPEN
+      item: >
+        enhance_summary output for obelisk Chapter 10 was written into the Hillsfar
+        campaign tree at /home/kroussos/Hillsfar/Hillsfar/summaries/20260823/ession-summary.md
+        by three runs on 2026-09-03 (06:55, 09:42, 10:28), recorded in
+        summaries/010-20260821/.cg/activity.jsonl. Filename is also typo'd (missing "s").
+        Cross-campaign contamination; obelisk content currently sits in the Hillsfar repo.
+      owner: GM
+    - id: "cf-02"
+      status: OPEN
+      item: >
+        gm-assist retains two facts the GM ruled on at Stage 1 but chose not to propagate:
+        :6 "the bugbears still lived somewhere below" (location ruled wrong, see s1-04) and
+        :161 Harbin Wester entry omitting the 120-gp Wyvern Tor contract (see s1-03).
+        Deliberate — gm-assist kept as preserved original.
+      owner: GM
+    - id: "cf-03"
+      status: CLOSED
+      item: >
+        Skill defect: the checker attributes --context text to the document under audit.
+        3 of 7 actionable findings were this class. Fixed in
+        ~/.claude/skills/consistency-check/SKILL.md (step 5, new first-run grep -nF filter)
+        and ~/.claude/skills/staged-consistency/SKILL.md (Stage 1 pointer).
+
+  notes: |
+    Grounding docs were surveyed before editing and were already correct on the bugbear
+    disposition (campaign_state.md:51 "Alive and loose", location Unknown) — the recap was
+    the only wrong file. No grounding-doc edits were required or made.
+
+    Expected hit-rate note: on an enhanced recap the report's yield on verbatim and
+    numeric material is poor, and half this run's findings were either already-ruled
+    Stage 0 items or context-attribution false positives. That is the document class
+    behaving normally, not the document being clean.
+
+    No scene_extractions/ or narration/ exist for this session, so Stages 2 and 3 have
+    no artifacts to check.
