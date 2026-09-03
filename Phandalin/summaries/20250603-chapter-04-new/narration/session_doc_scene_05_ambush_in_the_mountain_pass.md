@@ -84,7 +84,7 @@ Whatever that means, it sounds encouraged.
 
 Vukradin is getting irritated. This is dangerous because irritation makes him honest.
 
-"Let everyone kill me. Yeah, let everyone cry and say it," I mutter.
+I say something flat and unhelpful into my collar. Nobody hears it, which is the intent.
 
 "All I ever wanted to do was play music."
 
@@ -98,9 +98,9 @@ The greataxe comes up. There is no more negotiation.
 
 "Nice going, kiddo. You just ticked him off."
 
-Another ogre. Another road blocked by a large hungry body.
-
 "Another one."
+
+Another road blocked by a large hungry body.
 
 "No, it's fine, it's fine. All right, well, I'm gonna have to stop, I think." Vukradin draws back. "I'm going to try some different spells. I've got some other ideas."
 
@@ -132,6 +132,12 @@ He reads the spell carefully.
 
 This has become a discussion about coppers while an ogre is trying to eat me.
 
+"It's fine. It's not meant for damage. I just kind of wanted to screw around. So I'll just do it."
+
+I could churn the ground beneath it and slow its charge. Unfortunately, Brewbarry needs the same ground.
+
+"Yeah, but that also makes it hard for Brewbarry to get in there."
+
 "All right, we'll just Poison Spray him."
 
 I raise Meril's Staff. Borrowed power moves through the wood and into my arm.
@@ -140,25 +146,17 @@ I raise Meril's Staff. Borrowed power moves through the wood and into my arm.
 
 The green spray catches the ogre across the chest. It coughs and staggers, but remains upright.
 
-"It's fine. It's not meant for damage. I just kind of wanted to screw around. So I'll just do it."
-
-I could churn the ground beneath it and slow its charge. Unfortunately, Brewbarry needs the same ground.
-
-"Yeah, but that also makes it hard for Brewbarry to get in there."
-
 "I have better ideas on that," Vukradin says.
+
+"And I'm actually going to scoot back, since he said turtle was sort of his favorite food."
 
 I move back. The ogre follows me with its eyes.
 
-"Yeah, 51. And I'm actually going to scoot back, since he said turtle was sort of his favorite food."
-
 "Put me in front. Thanks, dude," Vukradin says.
 
-"You're the one who pissed him off. The spray doesn't have a saving throw."
+"You're the one who pissed him off."
 
 The poison has already landed. The ogre tastes it in every breath.
-
-"Yeah, he just takes 8 damage."
 
 Then we notice Vukradin is standing near the front again.
 
@@ -168,13 +166,13 @@ Then we notice Vukradin is standing near the front again.
 
 "Yeah, our marching order was not marching order."
 
-Vukradin backs away while Brewbarry takes the vanguard.
+"I think I would be in the back. I'm gonna be in the back."
 
-"I think I would be in the back. I'm gonna be in the back. I don't think that looks more sane Zane."
+He backs away. Brewbarry takes the vanguard.
 
 Good. One shell sprout moved somewhere sensible.
 
-The ogre swings. Its greataxe misses Valphine completely, bites into the stone, and takes off one of the ogre's own toes.
+The ogre gives up on turtle for the moment and swings at whoever is nearest. Its greataxe misses Valphine completely, bites into the stone, and takes off one of the ogre's own toes.
 
 "That's amazing," Vukradin says.
 
@@ -192,9 +190,7 @@ She loads the walloping ammunition taken from the previous ogre and fires. The b
 
 His voice sharpens into Command. The ogre tries to rise and cannot. Its hands stop. Its jaw clenches. Even prone, it keeps staring at me.
 
-"…is halted and can take no actions until the end of his next turn."
-
-"Nor can he move."
+"He is halted and can take no actions until the end of his next turn. Nor can he move."
 
 Brewbarry surges forward. Rage settles into his shoulders, and the halberd comes down on the trapped ogre with a solid crack.
 
@@ -211,3 +207,15 @@ I send another burst into its face.
 The Command loosens. The ogre draws breath and flexes its hands against the dirt. It remains prone, badly hurt, and furious.
 
 Valphine has the next opening.
+<!-- hand-fixed after narration, 2026-09-02 (GM instruction):
+     - "Let everyone kill me...", "Yeah, 51." and "...looks more sane Zane" rendered as
+       narration or trimmed. The smoothed layer annotates all three as unrecovered:
+       "do not narrate it as meaningful."
+     - Reordered the Mold Earth beat. "It's not meant for damage... So I'll just do it"
+       had been placed AFTER the Poison Spray it was deciding against already resolved.
+     - Same for the marching order: the narration had Vukradin already backed away before
+       he says he is moving.
+     - Cut a duplicated 8-damage callback; the spray resolves once now.
+     - Joined the dangling "...is halted" fragment into one spoken line.
+     - Gave the ogre a reason to swing at Valphine, having fixed on Soma ("turtle") until then.
+     - Stopped Soma narrating "Another ogre" and then saying "Another one." aloud. -->

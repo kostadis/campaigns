@@ -202,8 +202,11 @@ garbles_kept_deliberately:
     reason: >
       The gm-assist summary puts the ogre at 47 HP. Card 03-F: the quote stands — Vukradin is
       guessing before anyone has the real total. THE SUMMARY is what disagrees with the tape.
-  - line: "\"11 insight on Do.\" / \"Friggin?\" / \"Then he's a leaner.\" / \"the ogre is modus vivendi\" (03)"
-    reason: "Four fragments neither pass resolves. Card 03-G: keep + annotate, all four."
+  - line: "\"the ogre is modus vivendi\" (03)"
+    reason: >
+      The ONLY survivor of card 03-G's original four. Confirmed deliberate rather than
+      unrecoverable: both passes carry "modus vivendi" identically, so the GM said it. Keep,
+      annotation downgraded from "unrecoverable" to "the GM being arch on purpose".
   - line: "\"an in-business\" (Linene, 04)"
     reason: "Plausibly 'an in-business thing'; no corroboration. Card 04-G."
   - line: "\"I, eternal elf.\" (the ogre, 05)"
@@ -220,6 +223,52 @@ garbles_kept_deliberately:
     reason: "A self-correction both passes carry. Kept — it is how the line was spoken."
   - line: "\"make a DC 3 — DC 13 wisdom save\" (Vukradin, 05)"
     reason: "Same: a spoken self-correction, kept."
+
+superseded_rulings:
+  # Card 03-G bundled four scene-03 fragments as unrecoverable and they were kept and
+  # annotated. Two of the four were in fact recoverable, and the GM caught it on reading the
+  # narration back.
+  - card: 03-G (partial)
+    ruled: 2026-09-02, after the narration pass
+    resolved:
+      - "\"Friggin? I guess if that's the way you do these things on the surface.\" ->
+         \"Free him? Yes, that's the way you do these things on the surface.\""
+      - "\"That was not the outcome I expected, but let's try to freeze it.\" ->
+         \"...but let's try to free him.\" (this one was never carded at all)"
+    evidence: >
+      Zoom, one anchor-grep away from "free the slaves": gary "Free him? Yes, that's the way
+      you do these things on the, on the, on the surface." / dave "That is not the outcome I,
+      I expected, but let's try to free him."
+    why_it_was_missed: >
+      Two failures, both mine. (1) The evidence pass never ran the anchor grep on this span —
+      the skill's own "grep the anchor, not the garble" rule, not applied. Anchoring on "free
+      the slaves" returns both recoveries immediately. (2) On reading the narration back I
+      DID notice "freeze it" reads wrong, and declined to fix it by citing "no card, no
+      change" — a rule written for THIS layer, wrongly applied to the narration layer during
+      a pass the GM had explicitly asked for logic fixes in. The skip was then written into
+      the narration audit comment as considered judgment, which made a wrong call look
+      deliberate. "let's freeze it" directly after "let's free the slaves!" is exactly the
+      does-not-follow defect that pass was for.
+    applied_to: [scene_extractions_smoothed/03, narration/session_doc_scene_03]
+  - card: 03-G (remainder) + one new candidate
+    ruled: 2026-09-02, after re-running the anchor grep the original pass skipped
+    resolved:
+      - "\"11 insight on Do. I think he's a surface ogre.\" -> \"Got 11 insight on — do I
+         think he's a surface ogre?\" Not a garble at all: both passes carry the same words
+         (Zoom \"Get 11 insight on do I think he's a surface, uh, ogre\") and only the
+         SENTENCE BOUNDARY was missing. No word changed."
+      - "\"Then he's a leaner.\" -> \"Okay, fine. Then he's only — all right, fine.\" Zoom
+         shows an abandoned false start (\"he's only n- all right, fine. He's-\") that the
+         retranscription fused into a phrase that reads like an invented rules term."
+      - "NEW, surfaced by the same anchor: \"he's also not prone, right?\" -> \"he's also
+         knocked prone, right?\" (Zoom). The retranscription had the GM asserting the answer
+         to the question he was asking, which is why Soma's reply read as a non-sequitur."
+    outcome: >
+      Of card 03-G's four bundled "unrecoverable" fragments, THREE were recoverable and one
+      ("modus vivendi") turned out not to be a garble either — both passes agree, so the GM
+      simply said it. The card resolved nothing correctly. Bundling fragments onto one card
+      is what let them skip the per-fragment anchor grep.
+    applied_to: [scene_extractions_smoothed/03, narration/session_doc_scene_03]
 
 glossary_writeback:
   target: notes/vtt_transcription_corrections.md

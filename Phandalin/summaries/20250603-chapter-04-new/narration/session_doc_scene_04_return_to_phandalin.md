@@ -6,8 +6,6 @@ scene_name: Return to Phandalin
 session: 20250603-chapter-04-new
 ---
 
-The hills are quiet again. Even Vukradin does not whistle.
-
 Phandalin receives us without ceremony. Apparently killing an ogre does not merit interruption of commerce, which is sensible, though the walloping ammunition in our possession suggests the creature had at least possessed aspirations beyond being an inconvenience.
 
 Before we reach the Townmaster’s Hall, I acquire a hand crossbow. The weapon settles against my palm with familiar balance: polished stock, compact limbs, trigger under the first joint of my finger. I had survived without one, certainly, but survival is a poor standard for identity. House Sotorra stripped away rank, country, family, and temple. I see no reason to assist by surrendering the smaller disciplines.
@@ -90,7 +88,9 @@ Harbin retreats into procedure. "Well, since you seem to be in the business of b
 
 "Yes, I suppose I could get you something other than dragon. We always have…" Harbin turns toward me, reconsidering whatever proposal had nearly escaped him. "You won't have any real issue with the— all right, okay, so there's two more quests."
 
-"Rock gnomes and the midwife," Vukradin says.
+He names them: rock gnomes at Gnomengarde, and a midwife somewhere past the hills.
+
+"Rock gnomes and the midwife," Vukradin repeats, weighing them.
 
 "I think it was the gnomes paid better, right?"
 
@@ -102,9 +102,11 @@ Money simplifies the vote.
 
 The decision pleases me. Gnomes produce intricate devices, intricate disasters, and governments with insufficient approver structures. Any of the three may provide useful pain.
 
-Our errands continue. The sending stones remain with us because Phandalin lacks anyone willing or able to purchase them.
+Our errands continue.
 
 "What about the sending stones? Should we keep those or sell them off?"
+
+There is no one in Phandalin willing or able to purchase them, which settles it.
 
 "Oh, interesting. Okay. Well, I guess we're keeping them then."
 
@@ -174,9 +176,7 @@ Linene asks whether we will stay at the Stonehill Inn.
 
 Toblen Stonehill greets us with urgent hospitality. "Sit, sit, sit, sit, sit, sit. It's so wonderful to see you."
 
-"Yes, wonderful to see you too."
-
-I take the nearest table. "Wonderful to see you too. Beer?"
+I take the nearest table. "Yes, wonderful to see you too. Beer?"
 
 "Excellent. Yes. Beer."
 
@@ -202,9 +202,9 @@ I take the nearest table. "Wonderful to see you too. Beer?"
 
 "No, no, no — if I recall correctly, you were doing something that was very, very good."
 
-Vukradin plays one of his own compositions. The performance is competent without becoming transcendent, an unfortunate middle condition that neither wounds nor exalts. Toblen listens anyway.
+Vukradin plays one of his own compositions on the clarinet. The performance is competent without becoming transcendent, an unfortunate middle condition that neither wounds nor exalts. Toblen listens anyway.
 
-When the final note fades, Vukradin remains with the instrument. "Go ahead, guys. I'm just playing the flute."
+When the final note fades, Vukradin stays where he is and keeps playing, and waves the rest of us off to do the work.
 
 I study the room. A drow asking questions in a surface tavern produces abundant posture and very little truth. Cups rise. Eyes turn aside. Conversations resume half a breath too late.
 
@@ -218,10 +218,22 @@ No rumor separates itself from ale, repetition, or the ordinary fear already cir
 
 "Okay, so we just have our existing quests. I guess that's fine."
 
-"No, we did," Vukradin says when asked whether we questioned anyone.
+"No, we did," Vukradin says, though what we did amounted to standing in a room and being looked at.
 
 "We're done."
 
 We pay for the room. Morning finds the crossbow secure at my side, its weight exact and correct, while the road to Gnomengarde waits beyond Phandalin.
 
 <!-- table-speech reclassified: "So is there a reason that Valphine does not have a hand crossbow? I mean, she's a drow." | "No, she can have a hand crossbow." | "I'd buy one." | "I mean, I almost feel like a drow without a hand crossbow is kind of not a real drow." | "Yeah, it's sort of like — less of a drow. All right, you arrive at the Town Master's Hall." | "So you arrive at the Town Master's Hall, you knock on the door, and the door is again closed shut. Do you knock on the door?" | "Right — you do remember that talking to him about a quest gets him to walk out of his room. So you're asking about the quest. Last time you asked him about a quest, he stopped. He's not responding to you." | "I got a 20 persuasion. I should be able to persuade him out the door." | "Harbin has this look. Do you want to roll your insight? Does anybody want to check their insight or investigation?" | "Yes, he did." | "Yes — he is very upset with what he's heard." | "Yes, yes. Well, I mean — do you ask him about it?" | "Okay, well, I'm just telling you — he seems very upset. Anxious, even." | "All right. So there are the next set of quests." | "Icespire Hold, Neverember, Lionshield Coster, Vorga Long-Memory." | "I need more organic fair trade gold." | "You're not going to have anybody to sell them to in this town." | "Right. In terms of the weapons, you can sell them to the smithy. He'll be happy — he'll be happy for half price." | "The hide armor is in fine shape. You can sell that to the Lionshield Coster for what is just one step above leather armor." | "Yeah, it's normally worth 10 gold, so." | "Yes, you can sell it for 10 gold." | "For nine, I assume, because we have it. Yes, yes, yes, yep. And the jeweled dagger, and the gemstones." | "All right, so while you're going to the various stores — to the smithy, to the Lionshield Coster — when you get to the Lionshield Coster store…" | "And so she says: will you be staying at the Stonehill Inn?" | "Okay. An average." | "What's with your plus 5 never hitting above, like, 20?" | "I don't know, I've been rolling badly tonight." | "Where's my 25 performance? I want that." | "So there's a few more people in the inn. You can ask if they've heard any more rumors, or you can go spend the night sleeping." | "I guess Valphine will check the mood of the crowd — because, you know, everyone loves a drow asking questions." | "Nothing sus about that." | "Totally normal, completely fair. Yeah, it'd be fine." | "Yeah, so roll your perception — or investigation. Roll your insight or investigation." | "All right. Insight." | "Now you're plus-fiving at average." | "So, with all my attack rolls with plus five — and then this one with plus five." | "All right, quite honestly, you know, you can't really tell." | "Soma, you wanna take a — take a try? Oh, sure. How about Brewbarry?" | "I mean, I have a minus one, of course. There you go. Oh, yeah. Lovely. Jesus Christ, guys." | "So you're not going to ask anybody?" | "No, I thought he was doing an investigation to see if anybody— whatever. He was. He was. You should see his rolls. Oh, good grief. Did I miss something really funny?" | "Sorry, I was trying to come up with rumors and frantically going through my DMG." | "No, you don't need to bother with that." | "We didn't roll well enough." | "Don't worry. All right. Okay. So the next morning — and off to Gnomengarde, right?" | "And that cost us a gold." | "I didn't actually say that." | "I assume the inn's not free, right?" | "Yeah, yeah, yeah. I just realized that." | "One gold, that's fine." | "One gold. Yeah, let's just make it one gold. All right, so — off to Gnomengarde." -->
+<!-- hand-fixed after narration, 2026-09-02 (GM instruction):
+     - Deleted the opening sentence, which repeated scene 3's closing line verbatim ("The
+       hills are quiet again. Even Vukradin does not whistle.").
+     - Vukradin now plays the CLARINET, which is the instrument Toblen chose two lines
+       earlier; the narration had him playing the flute.
+     - Moved the sending-stone verdict after the question. The narration stated that
+       Phandalin had no buyer before Vukradin asked whether to sell.
+     - Merged Valphine's duplicated greeting ("Yes, wonderful to see you too." / "Wonderful
+       to see you too. Beer?").
+     - Gave Harbin's quest options a source; his list had been reclassified out, so Vukradin
+       named options nobody had offered.
+     - Removed "when asked" — the GM question it referred to was reclassified out. -->

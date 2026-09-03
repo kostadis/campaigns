@@ -6,7 +6,7 @@ scene_name: A Clash of Ideals and Orcs
 session: 20250603-chapter-04-new
 ---
 
-Fog sits over the incline. I see two orcs. There are more. I can hear boots on stone above us.
+Fog sits over the incline. I can hear boots on stone above us. I cannot count them.
 
 Vukradin goes first.
 
@@ -48,7 +48,7 @@ He reaches for an answer only he would carry into a fight.
 
 "I also have a clarinet. Would you prefer that? Do you want the reeded instrument, or just the brass?"
 
-Soma cannot understand the Orcanese. She still considers the choice.
+Soma asks whether any of this is in Orc. It is not. All of it is Common, and she considers the instrument question anyway.
 
 "Clarinet seems more appropriate for that."
 
@@ -62,9 +62,11 @@ The axe passes beside Vukradin. Too close.
 
 "You got lucky, kiddo."
 
-Then Vukradin remembers Toblen’s warning. Orc tribes are coming down from the north.
+Then Vukradin remembers the warning. Orc tribes are coming down from the north.
 
 "We were told this by, like, the mayor of the town or something."
+
+It was the innkeeper. Toblen, at the Stonehill.
 
 "The innkeeper. All right."
 
@@ -74,19 +76,13 @@ Another orc reaches Vukradin.
 
 The greataxe connects.
 
-Vukradin folds beneath it.
+Vukradin folds beneath it. He does not get up.
 
-"I am unconscious."
+He lies still. Then his breath catches wrong, and I know he is losing.
 
-He lies still. Then his breath catches wrong.
-
-"I failed."
-
-"It's going to be a very painful lesson that I learned."
+Soma says it to the shape of him.
 
 "Well, maybe you won't learn anything. You'll just be dead."
-
-"I'll just be dead."
 
 Valphine speaks Healing Word. Warm light closes around Vukradin and pulls him upright. He looks surprised to have a body again.
 
@@ -94,27 +90,23 @@ Valphine speaks Healing Word. Warm light closes around Vukradin and pulls him up
 
 Her Sacred Flame falls on the orc. The warrior twists away. The light barely scorches his armor.
 
-The orc Soma dragged down rises and charges me.
+The orc Soma dragged down is still on his back at the foot of the slope.
 
 My halberd is already moving.
 
 "GO SMASH"
 
-The first swing misses. The orc is still getting his feet beneath him, so I turn the haft in my hands and swing again. The blade cuts through his Orcanese armor. I carry the motion into the next body.
+The first swing misses. He is still getting his feet beneath him, so I turn the haft in my hands and swing again. The blade cuts through hide armor and into the meat of him. I carry the motion into the next body.
 
-The wounded orc runs through my reach.
+Then he finds his feet and comes at me, and in leaving the ground he stood on he gives me the opening.
 
-"That's useful. I should actually do that. Yes. All right, so I believe you said that two was leaving a square that I threaten."
-
-He is.
-
-The halberd catches him before he reaches me. He drops.
+The halberd catches him mid-stride. He drops.
 
 "Nice."
 
 "Well done."
 
-An orc throws a javelin instead of closing. It strikes me. The point bruises through my defenses, but my rage takes the weight from it.
+An orc throws a javelin instead of closing. It strikes me. The point bruises through my guard and I shrug most of it off. I have not raged yet. I keep forgetting.
 
 The orc spits insults about Uthgardt blood and my birth.
 
@@ -128,9 +120,7 @@ Vukradin attacks the orc beside him. His first strike lands lightly. His second 
 
 The greataxe comes back.
 
-Vukradin falls again.
-
-"Wow. God, I am not designed for tanking."
+Vukradin falls again. He is not built for the front, and he keeps standing in it.
 
 Soma kills the orc over him with Poison Spray. The warrior stiffens, chokes, and drops beside Vukradin.
 
@@ -154,11 +144,9 @@ Vukradin is down. My rage should have come sooner.
 
 "Go ahead and do it, yeah."
 
-Heat climbs under my Dread Helm. The red eyes glow. My hands tighten around the halberd.
+Heat climbs up my neck. My hands tighten around the halberd.
 
-"Not my long friend."
-
-The javelin wound becomes small. The orcs become close.
+The javelin wound goes quiet. Everything narrows to the two of them.
 
 Then Soma raises her hand.
 
@@ -172,33 +160,21 @@ It explodes anyway.
 
 Cold shards strike both orcs, Valphine, and me. Rage turns my share into a sting. The orcs keep standing.
 
-Valphine does not.
+Valphine does not. The shards take her legs out and she goes down among the orcs she was trying to hold.
 
-"I failed my dex save."
-
-She falls beside them.
-
-Vukradin speaks from the ground. "I like that the end result of your attack is that you killed your ally and did no further damage."
+Two orcs still standing, our cleric on the ground beside them, and nothing bought with her.
 
 "Well done!"
 
-"The tactical brilliance of this crew is…"
-
 "We just met each other on the road, right?"
 
-"Like, we got the ogres quite effectively."
-
-Soma looks toward Vukradin.
+Soma looks at the bard she cannot help either.
 
 "Yeah, sorry man. I'm still new to this whole magic thing."
 
-Both casters are down. Vukradin is down. I am not.
+Valphine is down. Vukradin is down. I am not.
 
 "Well, we can just attack both of them with the halberd again."
-
-"That sounds like a good plan. That's a hit."
-
-"And that is another hit."
 
 The first blade stroke kills one. I reverse the halberd and drive the second strike through the other orc’s guard.
 
@@ -206,7 +182,7 @@ The first blade stroke kills one. I reverse the halberd and drive the second str
 
 Both orcs fall.
 
-The rage stays for one breath. Then I put down the halberd and go to Vukradin. Soma crawls to Valphine. We keep pressure on wounds and hold them until their breathing steadies.
+The rage stays for one breath. Then I put down the halberd and go to Vukradin. Soma goes to Valphine. We keep pressure on wounds and hold them until their breathing steadies.
 
 Vukradin opens his eyes.
 
@@ -235,3 +211,19 @@ Vukradin leans on us and begins the song.
 "Orcs slaughtered us. Slaughtered us. Yes, it was the orcs. And the orcs slaughtered us."
 
 <!-- table-speech reclassified: "All right, he understands now that he's fighting for his life here." | "He does not have a death wish. He is not." -->
+<!-- hand-fixed after narration, 2026-09-02 (GM instruction). Table speech the automatic
+     reclassifier missed, removed as quotes and rendered as narration: Vukradin's "I am
+     unconscious." / "I failed." / "It's going to be a very painful lesson that I learned." /
+     "I'll just be dead." / "Wow. God, I am not designed for tanking." / "I like that the end
+     result of your attack is that you killed your ally and did no further damage." / "That
+     sounds like a good plan. That's a hit."; Valphine's "The tactical brilliance of this crew
+     is..."; Soma's "Like, we got the ogres quite effectively." and "And that is another hit.";
+     Brewbarry's "That's useful... two was leaving a square that I threaten."; Valphine's "I
+     failed my dex save." Each speaker was
+     unconscious or calling dice at the time.
+     Also fixed: "Orcanese" (fabricated language; the orcs speak Common, per the scene's own
+     resolution) x2; rage crediting damage resistance ~30 lines before Brewbarry rages; one orc
+     described as both fleeing and approaching; "Both casters are down" while Soma was standing
+     and acting; the Dread Helm, which Brewbarry does not own in June 2025 (voice-file gear
+     leaking backwards into a backfilled chapter). "Not my long friend." dropped - the smoothed
+     layer annotates it "do not narrate it as meaningful". -->

@@ -66,10 +66,12 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "Please free him then!"
 
 **Valphine Sotorra**
-> "Friggin? I guess if that's the way you do these things on the surface."
-<!-- Editorial note: "Friggin?" is unrecovered — plausibly "Freeing him?", but neither
-     transcript supports it. GM ruling 03-G: keep as captured. Do not narrate it as
-     meaningful. -->
+> "Free him? Yes, that's the way you do these things on the surface."
+<!-- Editorial note: the retranscription reads "Friggin? I guess if that's the way you do
+     these things on the surface." Zoom has "Free him? Yes, that's the way you do these
+     things on the, on the, on the surface." GM ruling 2026-09-02, superseding card 03-G's
+     keep-and-annotate: this is "Free him?". Recovered by anchoring on "free the slaves"
+     two cues later — the anchor grep that card 03-G never ran. -->
 
 **Vukradin**
 > "All right, let's free the slaves!"
@@ -78,7 +80,10 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "Okay? Slave, you are—"
 
 **Vukradin**
-> "That was not the outcome I expected, but let's try to freeze it."
+> "That was not the outcome I expected, but let's try to free him."
+<!-- Editorial note: the retranscription reads "let's try to freeze it." Zoom has "That is
+     not the outcome I, I expected, but let's try to free him." GM ruling 2026-09-02 — the
+     line follows "let's free the slaves!" and "freeze it" does not follow from it. -->
 
 **GM**
 > "Slave, you are free."
@@ -98,9 +103,11 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "He's just a wandering ogre."
 
 **Valphine Sotorra** — the insight attempt
-> "11 insight on Do. I think he's a surface ogre."
-<!-- Editorial note: "on Do" is unrecovered in both passes. GM ruling 03-G: keep as
-     captured. Do not narrate it as meaningful. -->
+> "Got 11 insight on — do I think he's a surface ogre?"
+<!-- Editorial note: both passes carry the same words ("Get 11 insight on do I think he's a
+     surface, uh, ogre" in Zoom); what was missing was a sentence boundary, not a word. GM
+     ruling 2026-09-02, superseding card 03-G: "Do" is the start of the question, not a
+     proper noun. No word changed. -->
 
 **Vukradin**
 > "Surface ogre?"
@@ -351,15 +358,19 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 > "He takes 1d6 and I pull him 10 feet closer, so I do have to pull him out of the way — just move him one square over."
 
 **GM**
-> "5, 10 — that's 5 feet, that's 10 feet. All right, he's right next to you. And he's also not prone, right?"
+> "5, 10 — that's 5 feet, that's 10 feet. All right, he's right next to you. And he's also knocked prone, right?"
+<!-- Editorial note: the retranscription reads "he's also not prone, right?", which makes the
+     GM assert the answer he is asking for. Zoom has "he's also knocked prone, right?" — a
+     question, which is what Soma's reply answers. GM ruling 2026-09-02. -->
 
 **Soma**
 > "It doesn't say anything about prone."
 
 **GM**
-> "Okay, fine. Then he's a leaner. All right, fine."
-<!-- Editorial note: "he's a leaner" is unrecovered in both passes. GM ruling 03-G: keep as
-     captured. Do not narrate it as meaningful. -->
+> "Okay, fine. Then he's only — all right, fine."
+<!-- Editorial note: the retranscription fuses an abandoned sentence into "Then he's a
+     leaner." Zoom has "Okay, fine. Then he's only n- all right, fine. He's-". GM ruling
+     2026-09-02, superseding card 03-G: render it as the false start it is. -->
 
 **Soma**
 > "Yeah, I was just trying to give me an attack. Oh well."
@@ -442,8 +453,9 @@ from: ../scene_extractions_rebuilt/03_the_whistling_ogre.md
 
 **GM** — closing the encounter out
 > "You know, the ogre is modus vivendi. All right. So you arrive in Phandalin."
-<!-- Editorial note: "modus vivendi" is unrecovered — plausibly the GM being arch on
-     purpose, but neither pass corroborates. GM ruling 03-G: keep as captured. Do not
-     narrate it as meaningful. -->
+<!-- Editorial note: BOTH passes carry "modus vivendi" identically (Zoom: "You know, the
+     ogre is, uh, modus vivendi."), so this is not a garble — the GM said it, being arch on
+     purpose. GM ruling 2026-09-02: keep, and it MAY be narrated as meaningful. This is the
+     only one of card 03-G's four fragments that survived the anchor grep. -->
 
 *Note: the summary bullet placing Soma's Mold Earth rockslide idea in this fight does not appear here — that exchange occurs during the second ogre encounter later in the session, on the road to Gnomengarde.*

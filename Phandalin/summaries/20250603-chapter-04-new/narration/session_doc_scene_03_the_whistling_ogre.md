@@ -26,13 +26,13 @@ Vukradin turns to her. “Maybe I should ask your opinion this time. Is this a f
 
 That conclusion travels remarkably fast.
 
-“Friggin? I guess if that's the way you do these things on the surface.”
+“Free him? Yes, that's the way you do these things on the surface.”
 
 “All right, let's free the slaves!”
 
 Valphine calls toward the hill. “Okay? Slave, you are—”
 
-“That was not the outcome I expected, but let's try to freeze it.”
+“That was not the outcome I expected, but let's try to free him.”
 
 “I don't even know if he's a slave! Who jumped to that conclusion?”
 
@@ -40,11 +40,11 @@ Nobody answers. This is usually how I know the answer is Vukradin.
 
 “So does he have any, like, bonds? Do we see any signs that he's actually a slave?”
 
-Nothing. Just an ogre walking alone through grass, carrying its own club and whistling badly enough to attract another musician.
+Nothing. No bonds, no brand, no one behind him on the road.
 
 “He's just a wandering ogre.”
 
-Valphine studies it. “11 insight on Do. I think he's a surface ogre.”
+Valphine studies it a long moment and gets very little back. “Got 11 insight on — do I think he's a surface ogre?”
 
 “Surface ogre?”
 
@@ -56,11 +56,9 @@ Valphine studies it. “11 insight on Do. I think he's a surface ogre.”
 
 “There were plenty of them in the slave pits, and in the—”
 
-The ogre keeps coming. It gives us no sign that it has escaped anything except a quiet afternoon.
+The ogre keeps coming. It gives us no sign that it has escaped anything except a quiet afternoon. Surface or Underdark, there is no telling them apart by looking, and Valphine lets it go.
 
-“Okay.”
-
-Vukradin cups his hands around his mouth. “I guess I would shout out at this point: Ogre, are you a musician or a slave?”
+Vukradin cups his hands around his mouth and shouts it across the hill. “Ogre, are you a musician or a slave?”
 
 The ogre crests the hill and stares at us.
 
@@ -156,6 +154,20 @@ We search the body. Among the ogre’s belongings is enchanted ammunition made t
 
 The ogre never used it. It carried ammunition that could wallop creatures from a distance and preferred doing the walloping personally.
 
-“Yeah.”
-
 The hills are quiet again. Even Vukradin does not whistle.
+<!-- hand-fixed after narration, 2026-09-02 (GM instruction):
+     - "11 insight on Do." restored to speech as "Got 11 insight on — do I think he's a
+       surface ogre?" (GM ruling 2026-09-02). It was never a garble: both passes carry the
+       same words and only the sentence boundary was missing.
+     - Lifted the stage direction out of Vukradin's shout: he had been saying "I guess I
+       would shout out at this point" aloud, in character.
+     - Grounded Valphine's bare "Okay." — it had answered a GM ruling (surface and Underdark
+       ogres are indistinguishable) that was reclassified out.
+     - Cut the orphan "Yeah." at the scene's end.
+     - Stopped Soma answering her own question twice, once in narration and once aloud.
+     - "Friggin?" -> "Free him?" and "let's try to freeze it" -> "let's try to free him."
+       Both were recovered from Zoom on a second pass (GM ruling 2026-09-02) after being
+       wrongly left alone here the first time: "freeze it" does not follow from "let's free
+       the slaves!" one line earlier, which is precisely the defect this pass was for.
+     Left as captured: the dice vocabulary, which the campaign's register policy treats as
+     canon rather than residue. -->
