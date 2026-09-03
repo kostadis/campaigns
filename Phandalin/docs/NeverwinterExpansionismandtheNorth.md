@@ -3003,11 +3003,11 @@ Ulla is surprised. “I thought you had a mage who could cast Mage Hand. Well if
 
 Vukradin thanks her and heads north. 
 
-The first large room is not empty. It has a rotating platform equipped with four heavy crossbows that reload automatically. The inventor is a deranged gnome, as they learn later, named Facktore, who decides to test his device on Vukradin and his companions. 
+The first large room is not empty. It has a rotating platform equipped with four heavy crossbows that reload automatically. The inventor is a deranged gnome, as they learn later, named Facktoré, who decides to test his device on Vukradin and his companions. 
 
 Although Vukradin is tempted to kill him, he decides that perhaps disarming the device is sufficient. 
 
-With the bow disabled and Facktore having fled the scene of the battle, Vukradin climbs down the cliff wall, wades through the river, stopping on the island of mushrooms to pick a few more, and then climbs the cliff wall again. 
+With the bow disabled and Facktoré having fled the scene of the battle, Vukradin climbs down the cliff wall, wades through the river, stopping on the island of mushrooms to pick a few more, and then climbs the cliff wall again. 
 
 Once he’s climbed the walls, he enters a large cave that is strewn with the remnants of old campfires. Four side caves serve as sleeping areas, with five small wooden cots crammed into each one. 
 
@@ -3027,7 +3027,7 @@ She turns to Valphine, “A sanity ray\!”
 
 Fibblestib is offended and immediately starts shouting, “You want to build a straitjacket instead. A jacket with no holes for the hands\! That’s not a straitjacket, that’s a shirt with no holes for the hands.” 
 
-Before Valphine can interrupt them, Dabbledob and Fiddlestib argue some more amongst themselves. 
+Before Valphine can interrupt them, Dabbledob and Fibblestib argue some more amongst themselves. 
 
 Valphine looks at them, “I am a cleric\!” 
 
@@ -3039,7 +3039,7 @@ Valphine turns to Vukradin, “I don’t think I could cure him, and I also don�
 
 Vukradin counts the money in his head and sighs, “Yes.” 
 
-Fiddlestib turns to Valphine, “I think we should walk you through what happened. It will allow us to revisit all of the salient facts. And please interrupt us with any questions\! You may see something that we missed.” 
+Fibblestib turns to Valphine, “I think we should walk you through what happened. It will allow us to revisit all of the salient facts. And please interrupt us with any questions\! You may see something that we missed.” 
 
 And so the two inventors explain that two gnomes, Warren and Orrin, went missing and that King Korboz claims it was a shape-changing creature. 
 
@@ -3069,23 +3069,23 @@ Vukradin notices how Dabbledob rolls her eyes.
 
 A few moments later, Vukradin is at the door to the King’s room.  
 
-The King is in a state of hysterics, screaming. Another voice, his co-King Gnercli shouts, “Who is that?” 
+The King is in a state of hysterics, screaming. Another voice, his co-King Gnerkli shouts, “Who is that?” 
 
 “Vukradin\!” 
 
 King Korboz shouts, “A shapeshifter\!” 
 
-The co-King sighs, “I am King Gnercli. Are you adventurers?” 
+The co-King sighs, “I am King Gnerkli. Are you adventurers?” 
 
 “We are on a diplomatic mission from Townmaster Harbin Wester to acquire a device to fight the dragon with.” 
 
-King Gnercli sighs, “You sound like adventurers. How about this, kill the shapeshifter, and I will give you a device.” 
+King Gnerkli sighs, “You sound like adventurers. How about this, kill the shapeshifter, and I will give you a device.” 
 
 Vukradin mutters, “I am a musician.” 
 
 And he laughs when Soma adds, “More of a tour guide.” 
 
-King Gnercli sighs again, “Look, there is some kind of creature that is terrorizing our cave system. Can you deal with it or not?” 
+King Gnerkli sighs again, “Look, there is some kind of creature that is terrorizing our cave system. Can you deal with it or not?” 
 
 Vukradin groans, “Where are we supposed to find this thing?” 
 
@@ -3099,7 +3099,7 @@ Vukradin asks, “And what treasure will you give us?”
 
 Vukradin shouts, “Not exactly going to terrorize a dragon with that.”
 
-King Gnercli shouts, “I don’t have much else.” 
+King Gnerkli shouts, “I don’t have much else.” 
 
 Soma then reminds Vukradin that they get the money for bringing something, not necessarily for bringing something helpful.
 
@@ -3191,7 +3191,7 @@ And thankfully, Valphine continued talking to him, “But I thought you were goi
 
 I remembered a particular bird in the forest that would sing a single note all season, and how everyone would wait for this note, and wondered whether I should tell Vukradin this. And I remembered that I hadn’t been paid, and decided not to.
 
-After scouring the room with the chests and finding nothing the gnomes forgot, I followed Vukradin to the inventors, where Fiddlestib and Dabblebob were very excited to see us.
+After scouring the room with the chests and finding nothing the gnomes forgot, I followed Vukradin to the inventors, where Fibblestib and Dabbledob were very excited to see us.
 
 I handed them over the proof of the monster's death, and before I could stop them, they started discussing what kind of construct they could create from the creature's entrails.
 
@@ -3205,17 +3205,17 @@ And followed Vukradin to the King’s room, where we were to receive our prize.
 
 I watch as Vukradin attempts to negotiate with the two Kings. And I sigh.
 
-King Korboz complains that King Gnercli “Doesn’t listen to him and believe a single word he has to say.”
+King Korboz complains that King Gnerkli “Doesn’t listen to him and believe a single word he has to say.”
 
 And I am about to cut their heads off when Vukradin begins to amuse me.
 
 “I find it rude that you didn’t believe your king.”
 
-At which point Gnercli shouts, “I am the king.”
+At which point Gnerkli shouts, “I am the king.”
 
 Vukradin asks, blandly, “So how do you make decisions?”
 
-“We work together,” explains Gnercli, his voice tense.
+“We work together,” explains Gnerkli, his voice tense.
 
 I stifle a laugh.
 
@@ -3223,13 +3223,13 @@ I stifle a laugh.
 
 I can sense the tension, “Celestial? He sounds more like a Tiefling.”
 
-Gnercli explains, “This is a dual monarchy, not a single monarchy. So we argue until a decision is made.”
+Gnerkli explains, “This is a dual monarchy, not a single monarchy. So we argue until a decision is made.”
 
 I can barely keep it together; this is too ridiculous.
 
 Vukradin won’t stop. “How do you decide who wins?”
 
-“The best argument wins,” insists Gnercli.
+“The best argument wins,” insists Gnerkli.
 
 “And who decided which is best?”
 
@@ -3241,7 +3241,7 @@ Will Vukradin explode their happy commune?
 
 And he does, “I’m wondering if you had three kings, wouldn’t it become more difficult?”
 
-At which point Gnercli cuts him off, “We have two kings because we do not believe in the despotic autocratic decision making of a single individual who could be rendered unfit for leadership because of a shapeshifter.“
+At which point Gnerkli cuts him off, “We have two kings because we do not believe in the despotic autocratic decision making of a single individual who could be rendered unfit for leadership because of a shapeshifter.“
 
 And then Korboz shouts, “That you didn’t believe existed\!”
 
@@ -3251,11 +3251,11 @@ I wonder where the Bard is going with this, and he twists the knife expertly, �
 
 “So one is the younger king and the other is the older and wiser king?”
 
-King Gnercli, obviously annoyed, says, “There is no seniority\!”
+King Gnerkli, obviously annoyed, says, “There is no seniority\!”
 
 “So let me get this straight, if I have been King for a decade, and this new guy becomes King, I have to treat him as an equal and take orders from him?”
 
-King Gnercli mutters, “Where did you learn all this about government?”
+King Gnerkli mutters, “Where did you learn all this about government?”
 
 And I smile as the Bard spins a tale of his expertise and training, fictional no doubt.
 
@@ -3265,11 +3265,11 @@ And at that point, I smile. The two kings will be at each other's throats for mo
 
 Vukradin cuts them off, “You said there was a magical hat for us?”
 
-King Gnercli, angry at Vukradin, shouts, “Here\! And go\!”
+King Gnerkli, angry at Vukradin, shouts, “Here\! And go\!”
 
 As I walk past the two inventors, I realize that they have been overhearing us.
 
-Fiddlestib tells Vukradin, “I am in favor of a bicameral legislature with a unitary executive\!”
+Fibblestib tells Vukradin, “I am in favor of a bicameral legislature with a unitary executive\!”
 
 Dabbledob, trying to one-up her, explains, “I prefer more kings\! That way we could have a vote\!”
 
@@ -3305,7 +3305,7 @@ Soma, who cares about all life, disagreed, of course.
 
 But Vukradin muttered, “But my studio is going to take forever to build at this rate.”
 
-I rolled my eyes. This fool could solve all of his problems if he would just do what we are allowed to \- take gold from monsters, also known as creatures that Lord Nevermber thinks don’t belong in his territory.
+I rolled my eyes. This fool could solve all of his problems if he would just do what we are allowed to \- take gold from monsters, also known as creatures that Lord Neverember thinks don’t belong in his territory.
 
 Soma, again, tried to thwart his natural impulses when she said, “Sometimes the reward is knowing you did the right thing.”
 
@@ -4190,7 +4190,7 @@ After the harpies are dealt with and Vukradin prattles about "repatriating" ship
 
 We move through a room with frescoes depicting stormy seas and a "dark and terrible god", then find a stone altar with lightning bolts carved into it and a metal lightning rod. On a nearby ledge, we discover a harpy nest containing a potion of water breathing. Vukradin questions taking "blood money," but it's simply a resource found.
 
-Upstairs, we find the Orc Anchorite, Moesko, seated in a barnacle-encrusted chair, clad in armor made from giant octopus hide, holding an opalescent conch – the very artifact belonging to Miral the Self.
+Upstairs, we find the Orc Anchorite, Moesko, seated in a barnacle-encrusted chair, clad in armor made from giant octopus hide, holding an opalescent conch – the very artifact belonging to Miraal the Self.
 
 The battle begins. I open with a minor poison spray attack, then, sensing the need for more power, I transform into a brown bear. In this form, I utilize my multi-attack, delivering significant damage to Moesko. He's tougher than he looks, responding with a potent Lightning Bolt that deals staggering amounts of damage (reduced to by half for most of us, thank Mielikki, as everyone but Brewbarry is struck). Then he casts Thunderwave, dealing more damage and pushes me back.
 
@@ -4206,7 +4206,7 @@ After the harpies are dispatched, and Vukradin ponders the "repatriation" of sun
 
 While searching through the tower, we find a harpy nest containing a potion of water breathing. Vukradin debates taking "blood money," but to me, it's merely the spoils of the fallen. Why would you leave valuable items behind?
 
-We proceed upstairs and discover the Orc Anchorite, Moesko. He sits in a barnacle-encrusted chair, clad in armor made from giant octopus hide, and in his lap rests an opalescent conch, an artifact I recognize as belonging to the undead creature, Miral the Sea Elf. This is the prize.
+We proceed upstairs and discover the Orc Anchorite, Moesko. He sits in a barnacle-encrusted chair, clad in armor made from giant octopus hide, and in his lap rests an opalescent conch, an artifact I recognize as belonging to the undead creature, Miraal the Sea Elf. This is the prize.
 
 The battle is fierce. Soma, in her impressive brown bear form, lands significant blows, and Vukradin cleverly traps Moesko in a Cloud of Daggers. But Moesko retaliates with a Lightning Bolt that scorches most of us, reducing my hit points and leaving me battered. It's a sharp, glorious pain, a reminder of Lathander's raw power.
 
@@ -4220,7 +4220,7 @@ The salty tang of the sea still clung to our gear as we descended deeper into th
 
 ## 11.02 Soma 07-02-Taraskh 1495
 
-My eyes scanned Moesko’s lifeless form. He had been a formidable foe, but now he was just a collection of secrets waiting to be uncovered. There was a strange hole in his chest, a peculiar detail that reminded me of some macabre tale, perhaps from a fever dream or a whispered legend. My gaze then fell upon an opalescent conch resting nearby, its subtle shimmer hinting at its significance. This, I knew, was what Miral sought.
+My eyes scanned Moesko’s lifeless form. He had been a formidable foe, but now he was just a collection of secrets waiting to be uncovered. There was a strange hole in his chest, a peculiar detail that reminded me of some macabre tale, perhaps from a fever dream or a whispered legend. My gaze then fell upon an opalescent conch resting nearby, its subtle shimmer hinting at its significance. This, I knew, was what Miraal sought.
 
 As Valphine meticulously searched his crude living space, a subtle flicker caught my eye. "I found a talisman\!" I declared, pointing to the concealed compartment she uncovered. Brewbarry, with his unexpected perception, quickly discerned the symbols. "So, like, his octopus armor, he kind of worships a giant octopus, huh?" I mused aloud, connecting the dots between the strange patterns and Moesko's attire. The talisman emanated an unsettling energy, something alien and powerful. This object, much like the conch, felt like it needed to be returned to its rightful, and likely equally mysterious, owner.
 
@@ -4240,7 +4240,7 @@ When Miraal appeared to claim her conch, it was quick, almost too quick. "We did
 
 The grim truth of Moesko's defeated form settled heavily upon me. I believe, fundamentally, in the sanctity of earned possessions. All this treasure feels like stolen merchandise, and I’m determined to find its rightful owners. I am a musician, after all, not a common thief, and I just wanna make a music studio, and I want to do it without stealing something\! My companions, especially Soma, seem less bothered by such ethical quandaries, but to me, the integrity of our actions is paramount.
 
-When we found the opalescent conch, I immediately recognized it as belonging to Miral the Sea Elf. Our quest had brought us this far, and I intended to see it through with honor. As Valphine probed Moesko's belongings, a concealed compartment yielded a dark, iridescent talisman. It was crudely etched with the stylized, jagged lightning bolt of Talos, the God of Storms. This was significant.
+When we found the opalescent conch, I immediately recognized it as belonging to Miraal the Sea Elf. Our quest had brought us this far, and I intended to see it through with honor. As Valphine probed Moesko's belongings, a concealed compartment yielded a dark, iridescent talisman. It was crudely etched with the stylized, jagged lightning bolt of Talos, the God of Storms. This was significant.
 
 As the others ascended the tower, I noted the octopus armor Moesko wore. My initial thought was that it was splint mail, and therefore useless to us, as no one in our party was proficient in such heavy armor. My mind, however, was already turning to the source of the lighthouse's eerie glow. From below, I had seen the lightning rod, and Soma had connected it to the evil god Talos. Bad things happen in this tower, and the lightning rod is part of the curse. We had to break it.
 
@@ -4254,7 +4254,7 @@ From my vantage point on the shore, the murky water offered little visibility. I
 
 As Soma brought the chests ashore, I immediately questioned Valphine: "Why are we opening other people's chests? Those aren't yours." This constant urge to loot grated on me. We have to return them\! I insisted, looking for any markings to identify the owners. The mermaid statue, the spellbook, the wand of secrets—all were treasures that belonged to others. I'm feeling increasingly isolated in this party, I thought, as the others seemed to embrace the 'finds' more readily.
 
-Miral, the sea elf's ghost, finally manifested as we presented her conch. "Thank you, kind ones. My spirit it can finally rest. Moesko was my undoing. But not entirely of his own will. I felt the shadows that moved within his wines, twisting his devotion to Talos into something colder, more calculating. It is not the Strage of the Stormlord that consumed him, but something foreign." Her words sent a shiver down my spine, her warning echoing in the air: "Beware, surface dweller, the true dwellers. The true storm gathers not in the sky, but in the depths below Leilon." She then vanished. The curse of this tower was ended with Moesko's death, but a new, deeper threat had just been revealed.
+Miraal, the sea elf's ghost, finally manifested as we presented her conch. "Thank you, kind ones. My spirit it can finally rest. Moesko was my undoing. But not entirely of his own will. I felt the shadows that moved within his wines, twisting his devotion to Talos into something colder, more calculating. It is not the Strage of the Stormlord that consumed him, but something foreign." Her words sent a shiver down my spine, her warning echoing in the air: "Beware, surface dweller, the true dwellers. The true storm gathers not in the sky, but in the depths below Leilon." She then vanished. The curse of this tower was ended with Moesko's death, but a new, deeper threat had just been revealed.
 
 The giant crab appeared, offering his gratitude for the sharks we'd dispatched. He then noticed Brewbarry's new halberd. "My, yes, you did in fact find the treasure I was going to get for you," he said. "What the hell is that?" I exclaimed, turning to Brewbarry. "He just said it was a treasure that he was gonna go get for you. Where'd you get it?" I tried to persuade him: "What are you doing? You can't use that." It was frustrating, but Brewbarry, as ever, seemed unmoved. I also noted that the shark meat we had was lawfully earned, which allowed us to enjoy it. The magical cloak Soma tried to foist on me, even though it was fashionable and changed colors, I politely but firmly refused. It was not mine to take, no matter how much it tempted me.
 
@@ -5605,11 +5605,11 @@ She looks at me, and I can see her consider it for a moment, but then the mask s
 
 ## 19.01 08-03-Taraskh 1495
 
-The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an enemy who had offered to work with them against the Carver. Valphine explained that Kaella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jena Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
+The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an enemy who had offered to work with them against the Carver. Valphine explained that Kaella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jenna Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
 
 While Vukradin was outside, two pale-skinned, sunburned villagers named Brin Bundlewine and Giles Slipper-Shine approached Valphine with great excitement. They had heard rumors of a drow who worshiped Lathander and believed in the purifying pain of the sun, and they were eager to establish a chapel dedicated to this interpretation of the sun god’s glory. Valphine agreed that founding a temple was a good idea, and the group decided to convert the dilapidated Tresendar Manor into the Temple of Lathander’s Searing Pain of Justice. Harbin Wester, the townmaster and leader of the Privy Council, conveniently appeared and offered to arrange the paperwork for a modest fee of fifty gold pieces. He framed the transaction as a private arrangement that didn’t need to involve the entire council, describing it as simply how things were done in the Overbright. The deal was struck, and Brin and Giles agreed to renovate the temple for twenty-five gold pieces to cover materials, providing their labor for free.
 
-When Vukradin returned from his walk, Harbin quickly claimed that the temple funds had been a community donation, which pleased Vukradin enough that he didn’t question the arrangement further. Jena Roscoe took the opportunity to explain to the party how investing adventuring money back into the community essentially cleaned it, transforming what might be considered blood money into legitimate community improvement. She suggested that perhaps Vukradin could be made to understand this concept with time, as he was young and had much to learn. Harbin, feeling generous after the successful transaction, even offered to buy a round of beer for everyone at the tavern.
+When Vukradin returned from his walk, Harbin quickly claimed that the temple funds had been a community donation, which pleased Vukradin enough that he didn’t question the arrangement further. Jenna Roscoe took the opportunity to explain to the party how investing adventuring money back into the community essentially cleaned it, transforming what might be considered blood money into legitimate community improvement. She suggested that perhaps Vukradin could be made to understand this concept with time, as he was young and had much to learn. Harbin, feeling generous after the successful transaction, even offered to buy a round of beer for everyone at the tavern.
 
 The next morning, Vukradin spoke with Ser Kaelen about tracking down the rightful owners of the treasure they had found. Ser Kaelen explained that he was waiting for information from Neverwinter and should have answers in a few days. He suggested the party could check out Mountain’s Toe or deliver supplies to the Logger’s Camp while they waited. The party decided to take on the supply delivery quest, which Harbin had requested for his brother. At Barthen’s Provisions, they picked up two heavy crates filled with dried meats, cheese, bread, ale, and oil, all loaded onto a cart pulled by an ox named Vincent. When Brewbarry noticed there was no wine among the supplies, Barthen suggested they stop at the Falcon Hunting Lodge along the way, which was known for its fine wine.
 
@@ -5653,7 +5653,7 @@ The Falcon Hunter was a fraud and an artist. And a thief, I must never forget th
 
 Somewhere, someone has lost a magical ring. And I will find the owner. 
 
-And it’s then that I realize we have gone pretty deep into the Neverwinter Wood forest. Brewbarry has been dragging the cart with the supplies for Tribar Wester. At first he complained, but ever since the Falcon Hunter filled it with booze, he has insisted that nobody but him touch the cart. 
+And it’s then that I realize we have gone pretty deep into the Neverwinter Wood forest. Brewbarry has been dragging the cart with the supplies for Tibor Wester. At first he complained, but ever since the Falcon Hunter filled it with booze, he has insisted that nobody but him touch the cart. 
 
 The sun is high above, and the air is refreshing and cool. 
 
@@ -5862,7 +5862,7 @@ As the rescued patrol members recovered, Brewbarry, having drunk all of his ale,
 
 The party arrived at the Falcon Hunting Lodge with their collection of prisoners and rescued companions in tow. Among them was a disoriented Teega the Smith, two Emerald Enclave guards who had been freed from captivity, and a criminal named Shrimpy. Falcon greeted them with surprise, particularly pleased to see his friend Vukradin had returned safely. The party presented their prisoners, and Falcon was impressed by their success in the field.
 
-Teega the Smith, still confused and suffering from memory gaps, asked who the party was and why she was there. She explained that the last thing she remembered was working at the Wayside Inn, a tavern with an attached forge located on the corner of the High Road and Tribor Trail. Vukradin attempted to recount the tale of her capture and heroic rescue, though his storytelling was only moderately compelling. The woman revealed she had been experiencing blackouts for some time, and that she had been called by something known as “the Kraken,” which promised peace after the endless wars and chaos that had plagued the Sword Coast.
+Teega the Smith, still confused and suffering from memory gaps, asked who the party was and why she was there. She explained that the last thing she remembered was working at the Wayside Inn, a tavern with an attached forge located on the corner of the High Road and Triboar Trail. Vukradin attempted to recount the tale of her capture and heroic rescue, though his storytelling was only moderately compelling. The woman revealed she had been experiencing blackouts for some time, and that she had been called by something known as “the Kraken,” which promised peace after the endless wars and chaos that had plagued the Sword Coast.
 
 Through careful observation and examination, the party determined that the woman’s mind had been manipulated through psionic means rather than traditional magic. Her brain had been rewired, leaving gaps in her memory and making her susceptible to the cult’s influence. Brewbarry, drawing on his instincts and experience, determined that despite the psionic nature of the manipulation, this was not the work of Mind Flayers. Valphine attempted to intimidate the woman about her poor life choices in following the Kraken cult, while Vukradin tried a gentler approach, offering her a position as a blacksmith for the Church of Lathander. The woman declined the immediate offer but expressed interest in returning to the Wayside Inn first, saying she might visit the church later.
 
@@ -6607,7 +6607,7 @@ She was right. That's the thing about Vukradin's moral clarity — it illuminate
 
 She nodded. Soma filled in the rest, briefly, accurately: *value of life.* Two words doing the work of a philosophy. I appreciate economy.
 
-The directions to Icespire Hold came without further persuasion — she was past the point of withholding information and had moved into the stage of negotiating which prison would be most convenient. Her preference was Axholm. She made a reasonable case. She also mentioned, with the timing of someone who has been sitting on a punchline, that the Carver was heading to Icespire Hold as well. The same location. At roughly the same time.
+The directions to Icespire Hold came without further persuasion — she was past the point of withholding information and had moved into the stage of negotiating which prison would be most convenient. Her preference was Axeholm. She made a reasonable case. She also mentioned, with the timing of someone who has been sitting on a punchline, that the Carver was heading to Icespire Hold as well. The same location. At roughly the same time.
 
 She watched us absorb this.
 
