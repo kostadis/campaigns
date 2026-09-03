@@ -129,7 +129,7 @@ The party visited Daran Edermath, a retired drow adventurer over 500 years old w
   - Kostadis: Daran confirmed concern about the Red Brands and stated that someone needs to confront their leader, Glasstaff.
   - Kostadis: Daran revealed that the Red Brands' safehouse is located beneath Tresendar Manor, a rundown building past the Sleeping Giant.
   - Kostadis: Daran estimated between 3 and 10 Red Brands at Tresendar Manor but could not give an exact number.
-  - Kostadis: Daran mentioned a secondary quest — prospectors in the hills northwest of Phandalin have been chased from the ruins known as Old Owl Well by undead creatures. He identified Old Owl Well as an ancient watchtower of the magical empire Netheril and expressed concern about dangerous magic there.
+  - Kostadis: Daran mentioned a secondary quest — prospectors in the hills northeast of Phandalin have been chased from the ruins known as Old Owl Well by undead creatures. He identified Old Owl Well as an ancient watchtower of the magical empire Netheril and expressed concern about dangerous magic there. (The "northwest" direction spoken at the table was later ruled a verbal error.)
   - Kostadis: Daran offered boots of striding and springing as a reward for investigating Old Owl Well.
   - Kostadis: Daran urged the party to prioritize rescuing Gundren before pursuing side quests.
 - **Conclusion**

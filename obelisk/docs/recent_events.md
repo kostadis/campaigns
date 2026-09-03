@@ -32,7 +32,7 @@ _Window: all chapters (chapters 1–3)._
 - Halia has not been visited yet.
 - Using a light source will eliminate stealth.
 - The party lowered Pip without requiring a roll.
-- Prospectors in the hills northwest of Phandalin have been chased from Old Owl Well by undead creatures.
+- Prospectors in the hills northeast of Phandalin have been chased from Old Owl Well by undead creatures. The earlier "northwest" wording was later ruled a verbal error.
 - The party chose to proceed toward the goblin cave to rescue Gundren as the primary objective.
 - Zenvon passed the chained wolves undetected.
 - The party lowered Pip from the snare without requiring a roll.
@@ -187,4 +187,3 @@ _Window: all chapters (chapters 1–3)._
 - Zenvon passed the DC 11 strength saving throw against the wolf's attack.
 - Zenvon rolled a natural 20 on stealth after killing a goblin.
 - Zenvon passed the DC 11 strength saving throw and was not knocked prone.
-
