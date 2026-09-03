@@ -1,0 +1,64 @@
+consistency_check:
+  timestamp: "2026-09-03T10:00:21-07:00"
+  campaign: "/home/kroussos/obelisk/obelisk"
+  document_checked: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md"
+  document_class: "first-pass recap (renamed gm-assist artifact)"
+  report: "summaries/010-20260821/consistency_report_stage_0_gm_assist_staged_20260903.md"
+  config: "/home/kroussos/obelisk/obelisk/config/config.yaml"
+  backend: "codex-cli"
+  issues_found: 11
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-21"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: "docs/campaign_state.md" }
+      - { label: world_state, path: "docs/world_state.md" }
+    context:
+      - { path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt", role: "session transcript" }
+      - { path: "docs/party.md", role: "PCs and party knowledge" }
+      - { path: "docs/entity_registry.yaml", role: "entity registry and aliases" }
+      - { path: "notes/vtt_transcription_corrections.md", role: "ASR glossary" }
+      - { path: "notes/vtt_known_additions.md", role: "known transcript additions" }
+      - { path: "notes/the_door_they_locked.md", role: "immediately preceding prep and continuity" }
+      - { path: "notes/cragmaw_castle.md", role: "route-contingency prep" }
+      - { path: "notes/hamun_kost_strategy.md", role: "session-relevant antagonist strategy and GM rulings" }
+      - { path: "notes/handouts/player_quest_log.md", role: "player-facing quest state" }
+      - { path: "docs/background/monsters_cr_reference.md", role: "monster challenge-rating reference" }
+      - { path: "docs/background/monsters_phase1_scan.md", role: "module encounter rosters" }
+      - { path: "docs/background/monsters_phase2_descriptions.md", role: "approved monster names and descriptions" }
+      - { path: "docs/background/monsters_phase3_hierarchy.md", role: "encounter hierarchy and threat framing" }
+  notes: |
+    The successful checker run reported 15 context documents and no missing
+    context-file warnings. Its normal entity-registry auto-discovery looked
+    under config/ and skipped that optional canon section, but
+    docs/entity_registry.yaml was supplied explicitly through --context.
+    The first sandboxed launch failed before a model invocation because the
+    Codex app-server runtime could not write local state. After the GM explicitly
+    authorized transmission of the selected private campaign files to the Codex
+    subscription service, the required codex-cli rerun completed successfully.
+    Older Stage 0 reports remain historical and were not treated as output from
+    this run; their recorded GM rulings were used during adjudication.
+  resolution:
+    status: "REVIEWED"
+    reviewed_by: "GM"
+    reviewed: "2026-09-03"
+    decisions: "summaries/010-20260821/staged_consistency_stage_0_decisions_20260903.json"
+    applied_without_ruling:
+      - { finding: "s0-07", fix: "Corrected three Myrna spellings to canonical Mirna." }
+      - { finding: "s0-10", fix: "Clarified that the Scarlet Fist is a four-bugbear group total while preserving its previously approved name." }
+    applied:
+      - { finding: "s0-02", fix: "Changed the summary so Veyra's crystal flares while the two objects resonate." }
+      - { finding: "s0-03", fix: "Changed Maela's definite identification to a suspicion in the summary, scene bullet, and NPC entry; Veyra's later tattoo reading remains the confirmation." }
+    rejected:
+      - finding: "s0-09"
+        ruling: "Keep the abandoned-caravan wreckage and scattered-goods imagery."
+        rationale: "The GM rejected the proposed removal through the Stage 0 batch review."
+    prior_rulings_preserved:
+      - { finding: "s0-01", ruling: "Leave the opening bugbear-containment framing unchanged." }
+      - { finding: "s0-04", ruling: "Preserve the approved Warden Dreth and Warden Holl descriptive enrichment." }
+      - { finding: "s0-05", ruling: "Preserve the approved Kost Wardens group and individual names." }
+      - { finding: "s0-06", ruling: "Preserve the approved Axe-Biter roster enrichment in this GM-assist artifact." }
+      - { finding: "s0-08", ruling: "Dismissed because the transcript itself uses the challenged elongated-skull and strained-face wording." }
+      - { finding: "s0-10", ruling: "Preserve the approved Scarlet Fist name; only the count grammar required correction." }
+      - { finding: "s0-11", ruling: "Preserve the requested monsters_phase3 hierarchy and encounter-framing information." }
