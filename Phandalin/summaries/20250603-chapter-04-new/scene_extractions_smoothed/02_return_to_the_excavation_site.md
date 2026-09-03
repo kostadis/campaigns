@@ -18,117 +18,89 @@ from: ../scene_extractions_rebuilt/02_return_to_the_excavation_site.md
 - Both dwarves express the same mild disappointment: they would have preferred one of the more popular local ditties over a personal original work.
 - The party takes their long rest here before heading back to Phandalin in the morning.
 
-## Verbatim moments
+<!-- Scene boundary note: this scene originally opened with five quote lines duplicated
+     verbatim from the tail of scene 01 (the long rest, "I'll search the bodies", Soma
+     helping Vukradin up, "Orcs slaughtered us"). Per the GM's de-duplication ruling those
+     lines live in scene 01 and have been cut here. Vukradin's "Oh, okay. Yeah, I'll head
+     on over." existed ONLY in this scene's copy and has been rescued into scene 01 rather
+     than lost. -->
 
-**[Vukradin, Soma]** — after the orc fight, before heading back
-
-> "Long rest, everybody. Maybe we could go back in the Bruin and lick our wounds and talk about what the hell had just happened."
-
-**Valphine Sotorra** — wanting to loot before leaving
-
-> "Wait, hold on. Yeah, go ahead and do that. And I'll urge the bodies."
-
-**[Vukradin]**
-
-> "Oh, okay. Yeah, I'll head on over. That sounds good."
-
-**Soma** — helping Vukradin back
-
-> "Come on, Vukradin, let's get you back somewhere where you can perform."
-> "Tell tales of your brush with death."
-
-**Vukradin** — already composing the day's story
-
-> "Orcs slaughtered us. Slaughtered us. Yes, it was the orcs. And the orcs slaughtered us."
+## Voiced moments
 
 **[The Dwarves Emerge]**
-
 - The GM sets the arrival: the party returns to the excavation site and Dazlyn and Norbus react to seeing them.
 - The GM works out the timeline aloud: the dwarves had woken in the morning, the party went out to the orcs, the orcs attacked, and the dwarves hid to see whether the party lived or died.
 - The dwarves had been weighing whether they needed to run, since a gem is worthless if the orcs kill you.
 
 **GM** — the dwarves' first reaction
-
-> "All right, okay, so you show up here again and Dazlyn and Norbus are like, oh, you're back, you're back."
+> *You show up here again, and Dazlyn and Norbus react.*
+> "Oh, you're back. You're back."
 
 **Vukradin, Soma, Vukradin** — party suspicion about what the dwarves have been doing
-
 > "They didn't die trying to steal the gem?"
 > "They didn't hear the broadcast or anything?"
 > "Are you sure they're not dead?"
 
 **GM** — reconstructing the dwarves' hidden day
+> "No, I'm just trying to see when they did that. Like, you guys went over there — they wouldn't have done it the same day when you came out. They would have woken up in the morning, you guys went out to the orcs, the orcs attacked, so they probably kind of hid here to see whether you're alive or dead."
 
-> "All right, no, I'm just trying to see when they did that. Like, you guys went over there — they wouldn't have done it the same day when you came out. They would have waked up in the morning, you guys went out to the orcs, the orcs attacked, so they probably kind of hid here to see whether you're alive or dead."
-
-> "Because what's the point of having a gem if the orcs are going to kill you? They're trying to decide whether they need to run, whatever. They see you all come back, and Dazlyn and Norbus say, hmm, you're back."
+> "Because, you know, what's the point of having a gem if the orcs are going to kill you? They're trying to decide whether they need to run, whatever. They see you all come back."
+> *Dazlyn and Norbus look up.*
+> "Hmm. You're back."
 
 **Vukradin / GM** — the gem question
-
 > "We're going to camp for a while."
-> "See, you're not here for the gem, right?"
+> "See — you're not here for the gem, right?"
 
 **Valphine Sotorra** — reassuring them
-
 > "We're here to partake of your hospitality."
 
 **GM** — the dwarves relax and cook
-
-> "Ah, ah, Dazlyn turns to Norbus, Norbus turns to Dazlyn. Well, let's go over here — and there's a nice little fire pit over here — and they decide that it's an appropriate time to cook a pleasant meal."
+> *Dazlyn turns to Norbus; Norbus turns to Dazlyn. There's a nice little fire pit over here, and they decide it's an appropriate time to cook a pleasant meal.*
+> "Well, let's go over here."
 
 **[The Flute Performance]**
-
 - Vukradin asks to play for the assembled group at the fire pit.
 - His performance roll comes up average.
 
 **Vukradin** — asking to play
-
 > "Okay, that's not right."
 > "Can I play my flute a little bit for that?"
 
 **GM / Vukradin** — the composition
-
 > "And it sounds like Vukradin made a new poem."
-> "Yes. Oh. The orc slaughtered us, slaughtered us, slaughtered—"
+> "Yes. Oh — the orc slaughtered us, slaughtered us, slaughtered—"
 
 **GM** — the verdict on the performance
-
 > "Well, all right, so Vukradin — so the next day, that's the third. That's an average performance."
 
 **Vukradin**
-
-> "Performance, Not My Path."
+> "Performance… not my best."
 
 **GM** — the split reception
-
-> "Dazlyn was unimpressed. Norbist was pleased."
+> "Dazlyn was unimpressed. Norbus was pleased."
 
 **Soma** — encouragement from the party
-
 > "Keep at it."
 
 **Vukradin**
-
 > "I'll take at it. I'll take at it."
+<!-- Editorial note: both transcripts agree exactly. GM ruling 02-D: this is Vukradin
+     playing off Soma's "Keep at it", not a garble — keep verbatim. -->
 
 **GM** — the shared critique
-
 > "Both of them were disappointed that you chose to play one of your own personal compositions instead of one of the more popular ditties of the area."
 
 **Vukradin** — resigned to it
-
 > "I'm sure they were. I've heard that a lot. I've gotten that a lot."
 
 **[Departure]**
-
 - The GM asks whether the party will wait for the dwarves to leave or head out themselves.
 - The party confirms the long rest is complete and departs for Phandalin.
 
 **GM / Vukradin**
-
-> "But all right, are you guys gonna wait for them to go, or just gonna leave?"
-> "You mean we're— we long rested, and then I think we can head out."
+> "But, you know — all right, are you guys gonna wait for them to go, or just gonna leave?"
+> "You mean — we long rested, and then I think we can head out."
 
 **GM**
-
-> "All right, you're heading out. All right, yeah, you're heading out. All righty. Where is this Sword Coast? All right, you're at the dwarven exclamation."
+> "All right, you're heading out. All right, yeah, you're heading out. All righty. Where is this — Sword Coast. All right, you're at the dwarven excavation."

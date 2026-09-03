@@ -1,0 +1,341 @@
+---
+# voice-smooth run manifest — Phandalin Chapter 4
+# Written by the /voice-smooth skill. Records what was ruled, by whom, and on what evidence.
+
+session: 20250603-chapter-04-new
+chapter: 4
+run_date: 2026-09-02
+run_type: redo
+supersedes: >
+  An earlier smoothed layer existed for this session. It was a punctuation-and-capitalisation
+  pass only: it carried "## Verbatim moments" (the heading defect CampaignGenerator#304
+  detects), had no stage-direction splits, no garble rulings, no scope rulings, and no
+  manifest. This run replaces all five files.
+
+source_layer: scene_extractions_rebuilt/
+output_layer: scene_extractions_smoothed/
+scene_count: 5
+quote_line_counts:
+  "01_a_clash_of_ideals_and_orcs": 237
+  "02_return_to_the_excavation_site": 28
+  "03_the_whistling_ogre": 125
+  "04_return_to_phandalin": 145
+  "05_ambush_in_the_mountain_pass": 156
+
+garble_rulings:
+  total_cards: 38
+  delivery: >
+    Interactive Approve/Reject/Discuss artifact, per the skill's volume protocol. Published at
+    https://claude.ai/code/artifact/ad982ed8-0fba-458a-a7c4-f7db3fab13b4 ; the GM downloaded
+    the decision record and handed it back, and every card was applied per its verdict.
+  by_scene:
+    "01": 18
+    "02": 5
+    "03": 8
+    "04": 8
+    "05": 9
+  verdicts:
+    approve: 33
+    reject: 0
+    discuss: 4      # 01-L, 01-M, 05-G, 05-I — each resolved in conversation before applying
+    undecided_at_download: 3   # 03-F, 03-G, 05-F — re-asked, NOT treated as decisions
+  note: >
+    The three cards that came back UNDECIDED were re-put to the GM rather than resolved by
+    default. A timeout is not a checkpoint. All three were then ruled keep-plus-annotate.
+
+voice_specs_resolved:
+  # Resolution follows CampaignGenerator session_doc/voice.py rules (a) full name,
+  # (b) first name, (c) unique key prefixed by first name + separator.
+  Vukradin: voice/vukradin_new_pipeline.md      # rule (c)
+  Soma: voice/soma_new_pipeline.md              # rule (c)
+  "Valphine Sotorra": voice/valphine_new_pipeline.md   # rule (c) via first name
+  Brewbarry: voice/brewbarry_new_pipeline.md    # rule (c)
+  genre: voice/_genre.md
+  unresolved: []
+  npc_characterisation_sources:
+    - "Harbin Wester, Linene Greywind, Toblen Stonehill, Dazlyn, Norbus: rendered from the
+       gm-assist scene summaries and their behaviour in-scene. No docs/npcs/ dossier was
+       consulted; none of the four is distinctive enough in this session to need one."
+    - "The ogres and orcs: rendered as the GM voiced them, with stage direction split out."
+
+transcripts:
+  # Per-campaign knowledge — this is what makes the next run faster.
+  - path: session_20250603_transcript.extract_input.vtt
+    role: the text the extractor actually consumed
+    identical_to: [final.vtt, rebuilt.retranscribed.cleaned.vtt, rebuilt.retranscribed.vtt]
+    caution: >
+      IMPORTANT: the four "retranscription" files in this directory are the SAME TEXT. They
+      are not independent readings and grepping a second one proves nothing. This cost real
+      time to discover — check before treating any of them as corroboration.
+  - path: GMT20250604-035231_Recording.md
+    role: the genuine second reading (Zoom's own text export)
+    good_at: >
+      Proper nouns, and completing words the retranscription fused into nonsense. It settled
+      the majority of this run's rulings: "Damage Recruiting"→"Vukradin", "kill Sobob"→"kill
+      Soma", "5 heat"→"five feet", "Me, Kelly"→"Me kill you", "Bluzzit"→"Blows it",
+      "urge the bodies"→"search the bodies", "and more"→"Four".
+    bad_at: >
+      Cue boundaries — it splits one speaker's sentence across several labelled cues, which is
+      why anchor-grepping a clean adjacent phrase works and grepping the garbled token does not.
+  - path: session_20250603_transcript.rebuilt.retranscribed.cleaned.proper_nouns.md
+    role: pre-built Zoom-vs-retranscription diff for 69 proper-noun spans
+    good_at: "Instant evidence for any name candidate. Check here first on a name."
+
+calibration_decisions:
+  aggressiveness: >
+    Full current-skill pass, GM-approved before any file was written: punctuation, filler,
+    false starts, stage-direction splits, garble repair on approved cards, and deletion of
+    pure tooling noise.
+  filler: "Removed where it is transcription noise; kept where it is the character's rhythm."
+  grammar_repair: >
+    Clear-meaning repairs applied (e.g. "Then we do a long rest" → "Didn't we do a long
+    rest?", corroborated by Zoom). Ambiguous fragments left near-verbatim and annotated.
+  stage_direction_split:
+    ruling: card 01-R, APPROVED — set the policy for the whole session
+    applied_count: 14
+    rule: >
+      Italics OUTSIDE the quotation marks for direction; quotation marks only around what the
+      NPC actually says. Speaker labels NEVER changed — this is rendering, not re-attribution.
+    instances: >
+      01 (the orcs' interpretation, orc one's greataxe, the javelin taunt), 02 (Dazlyn and
+      Norbus emerging, the fire pit), 03 (the ogre's "Me kill you", the opportunity-attack
+      crit), 04 (Harbin through the door, Harbin pausing, Harbin citing Neverember, Harbin's
+      quest offer, Linene's greeting, Linene's business troubles, Toblen's welcome),
+      05 (the ogre's opening line, "I like turtle", the natural one).
+  truncation_artifacts: >
+    The retranscription duplicates a cue's final word as a capitalised fragment ("…alive or
+    dead Head.", "…Store.", "…Sleeping.", "…Range."). Card 02-A APPROVED covers the class;
+    all instances removed.
+
+scope_rulings:
+  deduplication:
+    - pair: "01 ↔ 02"
+      overlap: 5 quote lines (the long-rest beat, "I'll search the bodies", "Orcs slaughtered us")
+      ruling: "GM: keep in 01, cut from 02."
+      rescued: >
+        Vukradin's "Oh, okay. Yeah, I'll head on over. Yeah, that sounds good." existed ONLY in
+        scene 02's losing copy. Diffed before cutting and moved into 01 rather than lost.
+      recorded_in: "scene boundary notes in both files"
+    - pair: "03 ↔ 04"
+      overlap: 5 quote lines (the hand-crossbow exchange)
+      ruling: "GM: keep in 04, cut from 03 — 04 carries the fuller copy including the arrival line."
+      rescued: "none — 03's copy was a strict subset"
+      recorded_in: "scene boundary notes in both files"
+  player_name_policy: >
+    No player real names appear in either the scene summaries or the quote lines of this
+    session's extractions. Nothing to scrub; verified separately for summaries and quotes.
+  knowledge_boundaries: >
+    None found. Read for player-knowledge-wearing-a-character's-name across all five scenes:
+    Valphine's Menzoberranzan and demon-invasion references are her own backstory, and the
+    GM's "Storm Kings" aside is table speech correcting the record, not a character claim.
+    No dossier or CLAUDE.md pointer needed for this chapter.
+  tooling_cuts:
+    ruling: "cards 01-Q, 03-H, 04-G, 05-H — all APPROVED"
+    standard: >
+      Content captured cleanly but not part of the scene: the players and GM operating the
+      software. Cut, not marked [inaudible] (that tag is for lost MEANINGFUL content). Each
+      cut leaves an italic note in the file so the omission stays auditable.
+    instances:
+      - "01: the map foreground-layer explanation and the follow-on about being annoyed by it"
+      - "01: clearing dead orc tokens off the map"
+      - "03: the GM building the encounter in the tool ('I now need to set up an encounter')"
+      - "04: pasting the Neverwinter Wood rumor into Zoom chat — THE RUMOR TEXT ITSELF IS KEPT"
+      - "05: loading the correct map"
+      - "05: adding the ogre to the combat tracker — Soma's 'Another one.' reply is kept"
+    generalisation_flag: >
+      Card 05-H stated explicitly that this applies the ch3 init-tracker ruling to instances
+      the GM had not personally reviewed. That generalisation was surfaced for confirmation
+      rather than assumed, and approved.
+  table_chatter_cut:
+    ruling: "card 01-M, GM note: 'Table chatter drop'"
+    instance: "the invented long-form-name exchange in scene 01"
+  in_world_rewrites:
+    ruling: "card 05-G, GM chose 'rewrite into in-world equivalents' over keep-or-scrub"
+    process: >
+      Because this invents canon, the specific replacement wording was put to the GM as its
+      own question before either line was touched.
+    applied:
+      - "\"Use a Baldur's Gate 3 standby.\" → \"Use a Baldur's Gate standby.\" (Baldur's Gate is
+         a Faerûnian city; only the numeral is dropped)"
+      - "\"dropping a penny off the Empire State Building\" → \"dropping a copper off the
+         Cloaktower\"; the follow-on \"pennies have a very low terminal velocity\" → \"coppers\""
+  register_policy_confirmations:
+    - card: 04-H
+      ruling: APPROVED — keep
+      subject: >
+        The tariff / supply-chain exchange with Linene ("Tariff Search", "purple tariffs",
+        "Market force dynamics"). Per notes/scrub_register_policy.md, imported real-world
+        economics vocabulary is the campaign's conceit, not residue. Confirmed rather than
+        assumed, because this is the Lionshield Coster interplanar-shipping thread.
+    - card: 02-E
+      ruling: APPROVED — keep
+      subject: "Vukradin's 'They didn't hear the broadcast or anything?' — modern register in OOC."
+
+followup_rulings:
+  # A second round after the artifact, on the three scene-04 lines that had been left
+  # verbatim precisely BECAUSE no card was raised on them. GM: "Let's fix #3".
+  ruling_date: 2026-09-02
+  resolved_against: GMT20250604-035231_Recording.md
+  applied:
+    - "\"Why'd that cost us the gold?\" → \"And that cost us a gold.\" — Zoom settles it; it is
+       a statement, not a question. Vukradin is remembering the tab, not querying it."
+    - "\"any of those interested ones?\" → \"any of those instruments?\" — Zoom, Toblen."
+    - "\"or transport you poorly\" → \"or maybe that we transport it poorly\" — Zoom shows the
+       retranscription dropped half the clause; the joke (transporting it BADLY) survives
+       intact and was nearly smoothed away as a garble."
+  note: >
+    All three had been flagged in carry_forward rather than fixed silently. Each was checked
+    against the second transcript before being touched, not applied from the earlier guess —
+    and one of the three guesses ("Wouldn't that cost us gold?") was WRONG.
+
+garbles_kept_deliberately:
+  # Recorded so a later reader does not re-flag them.
+  - line: "\"Not my long friend.\" (Brewbarry, 01)"
+    reason: "Unrecoverable. Zoom splits it, the retranscription fuses it. Card 01-N: keep + annotate."
+  - line: "\"So did anyone notice that Valphine is Yo?\" (Valphine, 01)"
+    reason: >
+      Referent is clear from the GM's reply (the map's 'Canyon' label showing through her
+      token) but the words do not recover. Card 01-O: keep + annotate.
+  - line: "\"I'll take at it. I'll take at it.\" (Vukradin, 02)"
+    reason: "Both passes agree exactly; reads as a deliberate play on Soma's 'Keep at it'. Card 02-D."
+  - line: "\"Are we going to do 59 damage?\" (Vukradin, 03)"
+    reason: >
+      The gm-assist summary puts the ogre at 47 HP. Card 03-F: the quote stands — Vukradin is
+      guessing before anyone has the real total. THE SUMMARY is what disagrees with the tape.
+  - line: "\"the ogre is modus vivendi\" (03)"
+    reason: >
+      The ONLY survivor of card 03-G's original four. Confirmed deliberate rather than
+      unrecoverable: both passes carry "modus vivendi" identically, so the GM said it. Keep,
+      annotation downgraded from "unrecoverable" to "the GM being arch on purpose".
+  - line: "\"an in-business\" (Linene, 04)"
+    reason: "Plausibly 'an in-business thing'; no corroboration. Card 04-G."
+  - line: "\"I, eternal elf.\" (the ogre, 05)"
+    reason: "Unrecoverable. Card 05-D: keep + annotate."
+  - line: "\"Let everyone kill me…\" / \"Yeah, 51.\" / \"…looks more sane Zane.\" (05)"
+    reason: "Three fragments neither pass resolves. Card 05-E: keep + annotate, all three."
+  - line: "\"You killed my brother!\" (the ogre, 05)"
+    reason: >
+      Both passes agree; the gm-assist summary says 'brother and sister'. Card 05-F: the quote
+      stands and the SUMMARY needs correcting upstream, not the quote bent to match it.
+  - line: "\"a DC saving throw\" with no number (GM, 03)"
+    reason: "The GM did not state a DC here. Not reconstructed; the value appears in 05 as DC 10."
+  - line: "\"Heal the Word, Healing Word\" (Valphine, 01)"
+    reason: "A self-correction both passes carry. Kept — it is how the line was spoken."
+  - line: "\"make a DC 3 — DC 13 wisdom save\" (Vukradin, 05)"
+    reason: "Same: a spoken self-correction, kept."
+
+superseded_rulings:
+  # Card 03-G bundled four scene-03 fragments as unrecoverable and they were kept and
+  # annotated. Two of the four were in fact recoverable, and the GM caught it on reading the
+  # narration back.
+  - card: 03-G (partial)
+    ruled: 2026-09-02, after the narration pass
+    resolved:
+      - "\"Friggin? I guess if that's the way you do these things on the surface.\" ->
+         \"Free him? Yes, that's the way you do these things on the surface.\""
+      - "\"That was not the outcome I expected, but let's try to freeze it.\" ->
+         \"...but let's try to free him.\" (this one was never carded at all)"
+    evidence: >
+      Zoom, one anchor-grep away from "free the slaves": gary "Free him? Yes, that's the way
+      you do these things on the, on the, on the surface." / dave "That is not the outcome I,
+      I expected, but let's try to free him."
+    why_it_was_missed: >
+      Two failures, both mine. (1) The evidence pass never ran the anchor grep on this span —
+      the skill's own "grep the anchor, not the garble" rule, not applied. Anchoring on "free
+      the slaves" returns both recoveries immediately. (2) On reading the narration back I
+      DID notice "freeze it" reads wrong, and declined to fix it by citing "no card, no
+      change" — a rule written for THIS layer, wrongly applied to the narration layer during
+      a pass the GM had explicitly asked for logic fixes in. The skip was then written into
+      the narration audit comment as considered judgment, which made a wrong call look
+      deliberate. "let's freeze it" directly after "let's free the slaves!" is exactly the
+      does-not-follow defect that pass was for.
+    applied_to: [scene_extractions_smoothed/03, narration/session_doc_scene_03]
+  - card: 03-G (remainder) + one new candidate
+    ruled: 2026-09-02, after re-running the anchor grep the original pass skipped
+    resolved:
+      - "\"11 insight on Do. I think he's a surface ogre.\" -> \"Got 11 insight on — do I
+         think he's a surface ogre?\" Not a garble at all: both passes carry the same words
+         (Zoom \"Get 11 insight on do I think he's a surface, uh, ogre\") and only the
+         SENTENCE BOUNDARY was missing. No word changed."
+      - "\"Then he's a leaner.\" -> \"Okay, fine. Then he's only — all right, fine.\" Zoom
+         shows an abandoned false start (\"he's only n- all right, fine. He's-\") that the
+         retranscription fused into a phrase that reads like an invented rules term."
+      - "NEW, surfaced by the same anchor: \"he's also not prone, right?\" -> \"he's also
+         knocked prone, right?\" (Zoom). The retranscription had the GM asserting the answer
+         to the question he was asking, which is why Soma's reply read as a non-sequitur."
+    outcome: >
+      Of card 03-G's four bundled "unrecoverable" fragments, THREE were recoverable and one
+      ("modus vivendi") turned out not to be a garble either — both passes agree, so the GM
+      simply said it. The card resolved nothing correctly. Bundling fragments onto one card
+      is what let them skip the per-fragment anchor grep.
+    applied_to: [scene_extractions_smoothed/03, narration/session_doc_scene_03]
+
+glossary_writeback:
+  target: notes/vtt_transcription_corrections.md
+  status: APPLIED 2026-09-02, on GM instruction
+  rows_added: 21
+  method: >
+    Merged into the EXISTING canonical rows, per this file's standing one-canonical-one-row
+    rule; a dated "## Ch. 4 additions" section carries the provenance as prose only.
+    lint_glossary.py after the edit: 0 errors, 2 warnings, both pre-existing (Bean, Status).
+  already_present_not_re_added: [Rukradin, Vercideen, Valfenna, Valfide, Dazzlin, Orsick, Nevermember]
+  rows_added_detail:
+    - "Damage Recruiting → Vukradin"
+    - "Rukradin / Vercideen / Vukredin / Vucurdean / Brucriddian / Rooker → Vukradin"
+    - "Valfi / valphina / Elfien / Valfenna / Valsminae / Valfide → Valphine"
+    - "Sobob / Omai / Thelma / Thoma → Soma"
+    - "Brubit → Brewbarry"
+    - "Norbist / Norquist → Norbus"
+    - "Dazzlin → Dazlyn"
+    - "Hubbard / Harburn → Harbin"
+    - "Lineny / Lininni → Linene"
+    - "Lionshield Coaster → Lionshield Coster"
+    - "Orsick → Orsik"
+    - "Nevermember → Neverember"
+  registry_conflicts_found: >
+    None. docs/entity_registry.yaml holds "Orsik" (no c), which the retranscription already
+    had right and Zoom garbled — the reverse of this session's usual pattern.
+  contamination_note: >
+    Zoom read Valphine's name as "Zalthir" at one span — a name from ANOTHER CAMPAIGN. Treated
+    as cross-campaign contamination carrying zero evidential weight, not as a competing
+    reading. Flagged explicitly on card 04-C so the GM was not asked to weigh it as evidence.
+
+upstream_defects_found_not_fixed:
+  - defect: "gm-assist summary (scene 05) says the ogre cries 'You killed my brother and sister.'"
+    reality: "Both transcripts have only 'You killed my brother!'"
+    owner: "the gm-assist / scene-extract step"
+  - defect: "gm-assist summary (scene 03) puts the ogre at 47 hit points"
+    reality: "Vukradin says 59 in the transcript; the two are not reconciled"
+    owner: "the gm-assist / scene-extract step"
+  - defect: >
+      Four files in this session directory carry identical retranscription text under four
+      different names, which invites treating one as corroboration for another.
+    owner: "the transcript-rebuild / retranscription pipeline"
+  - defect: >
+      The scene_extractions_rebuilt/ layer mixes two speaker-label conventions —
+      "**GM**" in scenes 01–04 and "**[GM]**" in scene 05. Preserved as-is in the smoothed
+      layer rather than normalised, since label form is upstream's call.
+    owner: "the scene-extract step"
+
+carry_forward:
+  - >
+    TOOLING DEFECT FOUND WHILE WRITING THE GLOSSARY: lint_glossary.parse_rows treats ANY pipe
+    table in vtt_transcription_corrections.md as live rules, including one inside a prose
+    section. A two-column provenance table there is parsed as `wrong -> canonical` with the
+    columns BACKWARDS — it briefly registered `Brewbarry -> Brubit`, which a later
+    apply_replacements run would have used to rewrite Brewbarry's name in a transcript.
+    Caught by the lint's `chained` warning, not by inspection. Worked around by using a list
+    instead of a table; the real fix belongs in parse_rows (skip tables whose header is not
+    `| Wrong | Right |`).
+  - >
+    The summary/transcript disagreements listed under upstream_defects should be fixed in
+    gm-assist, not in this layer.
+
+handoff:
+  session_doc_reads: scene_extractions_smoothed/
+  record_layers_untouched: [session_20250603_transcript.*, scene_extractions/, scene_extractions_rebuilt/]
+  warning: >
+    RE-RUNNING THE EXTRACTOR DISCARDS THIS PASS. The following are true ONLY in the smoothed
+    layer: both de-duplications and the rescued line, all 14 stage-direction splits, the six
+    tooling cuts and one table-chatter cut, the two in-world rewrites, every garble repair,
+    and every editorial annotation. None of it exists in scene_extractions_rebuilt/.

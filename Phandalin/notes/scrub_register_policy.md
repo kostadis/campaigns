@@ -42,6 +42,8 @@ premise.
 | Modern idiom that is neither tech nor a named entity | "bangers", "fat shaming" | ch02 |
 | Self-covering real-world reference | the Princess Bride "mostly dead… / …is still alive" exchange | ch02 |
 | Specific words ruled in canon outright | **cosplaying** | ch50 |
+| Imported real-world **physics / scientific register** | potential energy; terminal velocity; "broadcast" | ch04 |
+| Unattributed pop-culture idiom naming no entity | "Technically correct. The best kind of correct." (Futurama) | ch04 |
 
 Rationale on two of these, in the GM's words:
 
@@ -52,6 +54,11 @@ Rationale on two of these, in the GM's words:
 - **Economics:** Vukradin importing real-world economics into Faerûn is the campaign's
   central conceit — KP's planar-efficiency project is the same premise from the other
   side. Chapter 07's title is literally "Conflict Free Gold".
+- **Physics (ch04):** the same move as economics, from a different player. Soma reasoning
+  about potential energy and terminal velocity to justify a Mold Earth rockslide is the
+  table importing a modern *frame*, not modern *technology* — nothing is a device. Settled
+  as one class rather than three instances; `broadcast` rode along on the same ruling as the
+  borderline case (a word, not a machine).
 
 ## Ruled RESIDUE — still propose these
 
@@ -105,3 +112,24 @@ single ch02 coinage, still a song title and not an entity alias.
 
 Phandalin's marginal-note persona is **Kostadinious the Sage**, the campaign's in-world
 biographer. Never mint a new sage per note.
+
+## When a scrub ruling collides with a fidelity ruling
+
+`/voice-smooth` and `/session-summary-consistency` settle **what was said**. `/scrub` settles
+**what belongs in narration prose**. They can disagree about the same span, and when they do
+the disagreement is real rather than a mistake by either pass.
+
+Precedent, ch04 (GM-ruled 2026-09-02): `"Got 11 insight on — do I think he's a surface ogre?"`
+had just been ruled correct-to-tape by `/voice-smooth` — it was never a garble, only a missing
+sentence boundary — and `/scrub` then flagged the bare number+skill as residue. **The GM ruled
+the fidelity decision governs and scrub stood down.**
+
+The default to propose, never to assume: a span that a *recent, explicit* fidelity ruling
+settled is not re-opened by a scrub run. Surface the conflict as its own card, say which pass
+ruled what and when, and let the GM choose — do not resolve it silently in either direction,
+and do not leave it out of the manifest just because nothing changed.
+
+## Coinages authored during scrub runs — ch04
+
+**None.** Ch04's run produced no new canon: every approved change was a removal or a
+plain-language restatement, and no anachronism needed an in-world replacement.

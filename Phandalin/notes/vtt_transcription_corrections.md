@@ -10,10 +10,10 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 
 | Wrong | Right |
 |---|---|
-| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin, Vukardin, Brukerdin, Brewerdin, Rucrative, Bucraut, Caradine, Varoujan | **Vukradin** |
-| Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk, Salma, Sovo, Sova, Masuma, Soba | **Soma** |
-| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet, Felfie, Valfinu, Valfyn, Felkur | **Valphine** |
-| Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg, Bray, Brubaria, Bourbury, Brube, Roomberg, Brewbeary, Rubir | **Brewbarry** |
+| Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin, Vukardin, Brukerdin, Brewerdin, Rucrative, Bucraut, Caradine, Varoujan, Vukredin, Vucurdean, Brucriddian, Rooker, Damage Recruiting | **Vukradin** |
+| Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk, Salma, Sovo, Sova, Masuma, Soba, Sobob, Omai, Thelma, Thoma | **Soma** |
+| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet, Felfie, Valfinu, Valfyn, Felkur, Valfi, Valphina, Elfien, Valsminae | **Valphine** |
+| Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg, Bray, Brubaria, Bourbury, Brube, Roomberg, Brewbeary, Rubir, Brubit | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 | An Asimer, Asimar, Asimer | **Aasimar** |
 | Satora | **Sotorra** |
@@ -77,7 +77,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Lynette, Lilene, Leonini, Lenini, Linane Greenwood, Lenny, Shalim Lenny | **Linene Graywind** |
 | Burning guiles, Burning Giles | **Brin and Giles** |
 | Dazzlyn, Dazzlin, Dazzledan, Dazzlen, Dazlin | **Dazlyn** |
-| Norbas, Dorbus, Orbus | **Norbus** |
+| Norbas, Dorbus, Orbus, Norbist, Norquist | **Norbus** |
 | Abathor | **Abbathor** |
 | Oker, Ocher, Okre | **Ochre** |
 | Mord Lord, Morning Lord | **Morninglord** |
@@ -110,7 +110,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Andrew, Andres, Andrey, Andre, Andrell, Oren | **Aurelan** |
 | Oral B. Vance, Orlin Vance, Oral and Vance, oil advance | **Aurelan Vance** |
 | Utgartian, Uthgardian, Uthgarityan | **Uthgardtian** |
-| Laneen, Lenain, Lineni, Linine, Lenene | **Linene** |
+| Laneen, Lenain, Lineni, Linine, Lenene, Lineny, Lininni | **Linene** |
 | Greywind,Greywin | **Graywind** |
 | Seesong | **Seasong** |
 | Luthandrians | **Lathandrians** |
@@ -123,7 +123,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Lynn, Lemb, Lem, tear limb | **Lim** |
 | Bella, Pero | **Bellows** |
 | Vartus | **Vardis** |
-| Harvin | **Harbin** |
+| Harvin, Hubbard, Harburn | **Harbin** |
 | Greyshard | **Grayshard** |
 | Talk Gnomes | **Rock Gnomes** |
 | Iron Rune | **Ironrune** |
@@ -196,7 +196,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Tone Hill | **Stonehill** |
 | Town Masters Hall | **Townmaster's Hall** |
 | Gnomon Garde, Groam garden, Gromengarden | **Gnomengarde** |
-| Leinschnitz Kolster, Einshield coaster, The Lion Shield Coaster, Lion Shield Coaster, Lionschild Koster, Lion Shield Koster, Lineshield Koster, Lionschul Koster, Lionshield Koster, Lionale Coster, Lionel Koster, Lionel Shield Kosta, Lion Shield Coster | **Lionshield Coster** |
+| Leinschnitz Kolster, Einshield coaster, The Lion Shield Coaster, Lion Shield Coaster, Lionschild Koster, Lion Shield Koster, Lineshield Koster, Lionschul Koster, Lionshield Koster, Lionale Coster, Lionel Koster, Lionel Shield Kosta, Lion Shield Coster, Lionshield Coaster | **Lionshield Coster** |
 | Sword Ghost | **Sword Coast** |
 | Umbridge Hill | **Umbrage Hill** |
 | Whisper Woods, Whispering Moods, Whispering Wiz, Whispering Wood, Whispering Woods, Whisperwood, Whisperwoods, Whisper Road | **Whispering Grove** |
@@ -749,3 +749,42 @@ mean the rule was broken again.
 Two homes are semantically odd but were left alone, since relocating a row changes where
 `add_to_glossary --section` will look for it: **Triboar** (a town) lives in
 `## NPCs and creatures`, and **Savras** (a god) in `## Houses / factions`.
+
+## Ch. 4 additions (backfill, session 2025-06-03)
+
+Twenty wrong-forms harvested during the `/voice-smooth` redo of Chapter 4. Per the
+one-canonical-one-row rule these were merged into the **existing** rows above rather than
+given a new table here; this section is the provenance record only.
+
+- Vukradin — added: Vukredin, Vucurdean, Brucriddian, Rooker, Damage Recruiting
+- Valphine — added: Valfi, Valphina, Elfien, Valsminae
+- Soma — added: Sobob, Omai, Thelma, Thoma
+- Brewbarry — added: Brubit
+- Norbus — added: Norbist, Norquist
+- Harbin — added: Hubbard, Harburn
+- Linene — added: Lineny, Lininni
+- Lionshield Coster — added: Lionshield Coaster
+
+(Deliberately a list, not a table. `lint_glossary.parse_rows` treats **any** pipe table in
+this file as live rules, so a two-column provenance table here is read as
+`wrong -> canonical` with the columns backwards — it briefly registered
+`Brewbarry -> Brubit`. Never put a table in a prose section of this file.)
+
+Already present, so not re-added: `Rukradin`, `Vercideen`, `Valfenna`, `Valfide`,
+`Dazzlin`, `Orsick`, `Nevermember`.
+
+**Two notes for whoever runs the next pass.**
+
+`Damage Recruiting` is a two-word garble of *"damage, Vukradin"* — the rule fires on the
+pair and leaves the preceding "damage" intact, which is why it is registered as the pair
+rather than as `Recruiting`.
+
+Five of these are ordinary English surnames or given names — `Rooker`, `Hubbard`,
+`Thelma`, `Thoma`, `Norquist`. Word-boundary matching keeps them from firing inside longer
+words, but they *would* rewrite a real person of that name if one ever appears at the
+table. Nobody in the campaign is called any of them today; revisit if that changes.
+
+Source evidence for every row: the Zoom text export
+`summaries/20250603-chapter-04-new/GMT20250604-035231_Recording.md`, read against the
+retranscription. Rulings recorded in
+`summaries/20250603-chapter-04-new/voice_smooth.sources.yaml`.
