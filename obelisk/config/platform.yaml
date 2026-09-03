@@ -1,5 +1,11 @@
 runtime:
-  default_model: claude-fable-5
-  default_backend: claude-code
-  session_dir: /home/kroussos/obelisk/obelisk/summaries/007
+  default_model: ''
+  default_backend: codex-cli
+  default_models:
+    claude-code: claude-fable-5
+    codex-cli: null
+  session_dir: /home/kroussos/obelisk/obelisk/summaries/010-20260821
   default_batch: false
+  default_codex_reasoning_effort: null
+  default_claude_code_effort: null
+  default_claude_code_thinking: null

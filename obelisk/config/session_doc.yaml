@@ -1,45 +1,67 @@
 paths:
-  session_recap: gm-assist.md
-  session_summary: session-summary.md
-  scene_extractions_dir: scene_extractions
-  narration_dir: narration
+  session_recap: session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md
+  session_summary: /home/kroussos/Hillsfar/Hillsfar/summaries/20260823/ession-summary.md
+  scene_extractions_dir: /home/kroussos/Hillsfar/Hillsfar/summaries/20260823/scene_extractions
+  narration_dir: /home/kroussos/Hillsfar/Hillsfar/summaries/20260823/summaries/010-20260821/narration
   output_dir: null
   party: docs/party.md
   voice_dir: voice
   examples_dir: examples
+  genre_file: null
+extract:
+  tokens: 32000
+  batch_scenes: null
+  batch_tokens: 32000
 narrate:
-  tokens: 31000
+  tokens: 3200
   prose_mode: true
   reflections: true
-  genre: null
   context: []
-scrub:
-  enabled: false
-  tokens: 16000
-roster:
-  characters: Zenvon
-  gm_player: Kostadis Roussos
+verify:
+  threshold: 0.85
+  min_tokens: 4
+  report_only: false
 backends:
-  active: claude-code
+  active: codex-cli
   anthropic:
     backend: anthropic
     model: null
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
   claude-code:
     backend: anthropic
     model: null
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
   dgx:
     backend: anthropic
     model: deepseek-ai/DeepSeek-V4-Flash-DSpark
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: http://192.168.1.147:8001
   openrouter:
     backend: anthropic
     model: null
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
+    endpoint: null
+  codex-cli:
+    backend: anthropic
+    model: null
+    batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
 session_name: null
 profiles:
@@ -50,4 +72,18 @@ profiles:
     reflections: true
     narration_genre: ''
     backend: dgx
-active_profile: '007'
+- name: 008
+  knobs:
+    narrate_tokens: 16000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: ''
+    backend: claude-code
+- name: '010'
+  knobs:
+    narrate_tokens: 3200
+    prose_mode: true
+    reflections: true
+    narration_genre_file: ''
+    backend: codex-cli
+active_profile: '010'

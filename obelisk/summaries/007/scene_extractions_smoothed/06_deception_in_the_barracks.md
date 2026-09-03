@@ -29,7 +29,7 @@ from: ../scene_extractions/06_deception_in_the_barracks.md
 **GM** — *revealing the hidden layout*
 > "Right, so I need to see if you see them all. You see everyone but this guy."
 
-**Zenvon Foreput** — *asking about the southern bandit*
+**Zenvon Forepot** — *asking about the southern bandit*
 > "The guy on to the south?"
 
 **GM**
@@ -53,17 +53,17 @@ from: ../scene_extractions/06_deception_in_the_barracks.md
 
 **[Zenvon's Deception — the Counter-Accusation]**
 
-**Zenvon Foreput** — *OOC, confirming he understands the setup before delivering the bluff*
+**Zenvon Forepot** — *OOC, confirming he understands the setup before delivering the bluff*
 > "So, yeah, so he's saying, the Redbrand ran to the bandits and told that we attacked them. Yes."
 
-**Zenvon Foreput** — *in-character deception speech*
+**Zenvon Forepot** — *in-character deception speech*
 > "We — we are one of you guys. Like, come on, we all have the same dress. And look at this guy — this guy has turned a traitor. He was trying to — I saw him letting someone in. So that's why I wanted to catch him and, you know, eliminate him."
 > "So, he's the bad guy."
 
 **GM** — *ruling on the argument*
 > "That is very clever. That is extremely clever. Roll your deception with advantage."
 
-**Zenvon Foreput** — *OOC, triumphant*
+**Zenvon Forepot** — *OOC, triumphant*
 > "It worked."
 
 ---
@@ -100,11 +100,11 @@ from: ../scene_extractions/06_deception_in_the_barracks.md
 
 **[Zenvon Lures the Skeptic Toward the Party]**
 
-**Zenvon Foreput** — *in-character, volunteering to accompany the skeptic*
+**Zenvon Forepot** — *in-character, volunteering to accompany the skeptic*
 > "Alright, I'll — I'll join with you. Let's go check."
 > "Let's confirm your suspicions, and I'll try to take the bandit along with me. I'll go along with the bandit."
 
-**Zenvon Foreput** — *OOC, revealing the plan*
+**Zenvon Forepot** — *OOC, revealing the plan*
 > "So, as soon as this guy steps into the cellar."
 > "I'm gonna go behind him and attack him, so that's the plan."
 
@@ -115,17 +115,17 @@ from: ../scene_extractions/06_deception_in_the_barracks.md
 > "Are you going to attack him, or are you going to let the rest of your party?"
 > "Because they can see you from there, remember."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Oh, I see, okay, okay."
 > "No, as soon as he's out of the sight, I want to attack."
 
 **GM**
 > "But if you attack, they will see you attack from where you currently are."
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Yeah, yeah, I'll let my team attack him."
 
-**Zenvon Foreput** — *finalising the ambush trigger point*
+**Zenvon Forepot** — *finalising the ambush trigger point*
 > "Okay, hold on. As soon as he is close to the stairs, where Maela and Veyra are there, that's when I attack. Yes."
 
 ---
@@ -144,7 +144,7 @@ from: ../scene_extractions/06_deception_in_the_barracks.md
 **GM** — *the bandit screams*
 > "Alright, he screams for help!"
 
-**Zenvon Foreput** — *OOC, alarmed*
+**Zenvon Forepot** — *OOC, alarmed*
 > "Oh, I said, oh, no."
 
 **GM** — *the remaining bandits react*
@@ -165,14 +165,14 @@ from: ../scene_extractions/06_deception_in_the_barracks.md
 > "He hits the guy he's hitting, and kills him. Alright — Pip then goes 1, 2, 3, 4…"
 > "5, 6, and stands there, ready to help you. Alright, Zenvon, you're up."
 
-**Zenvon Foreput** — *OOC, narrating his attack*
+**Zenvon Forepot** — *OOC, narrating his attack*
 > "I'm gonna use my dagger, so I'm rolling for—" *(truncated)*
 
 **GM** — *ruling on the hit and damage*
 > "Oh, that's a hit. Good damage."
 > "12 points of damage, you killed him!"
 
-**Zenvon Foreput**
+**Zenvon Forepot**
 > "Step back."
 
 ---

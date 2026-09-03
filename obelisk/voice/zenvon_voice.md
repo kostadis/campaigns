@@ -1,4 +1,4 @@
-# Zenvon Foreput — Voice Notes
+# Zenvon Forepot — Voice Notes
 
 *Drafted from 1,513 of Nikhil's table lines across sessions 4–7 (VTT), `docs/party.md`, and the Memorable Moments in the Ch. 5–7 session docs. Edit freely — you know him better than the document does.*
 

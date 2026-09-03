@@ -21,19 +21,19 @@ The party arrives in Phandalin, completes their decompression morning, and leave
 ## The Default Trajectory (what happens if the party skips everyone and just sleeps)
 
 - Sildar, once recovered, starts quietly asking locals about Iarno Albrek and gets nowhere — Glasstaff has too much influence in town.
-- The Red Brands shake down two more merchants before sundown.
+- The Redbrands shake down two more merchants before sundown.
 - Halia Thornton pays attention to the party from a distance and decides whether they're useful.
 - Gundren is still alive at Cragmaw Castle. King Grol hasn't killed him yet — Gundren has the map location in his head and Grol is trying to extract it for the Black Spider.
 
 ## The Clever Play (what the optimal party would do)
 
 1. Return the Lionshield Coster provisions immediately — gets Linene Graywind on their side and she tells them about Cragmaw Castle's general location (northeast, the woods around Neverwinter Wood).
-2. Talk to Sildar when he's rested — he reveals Iarno Albrek is his missing contact, now probably operating as "Glasstaff" in the Red Brands. Sildar pays 100 gp if they find him. This turns the Redbrand thread into a double-payoff.
-3. Talk to Daran Edermath — he tells them about the Old Owl Well undead and confirms the Red Brands are getting bolder and more organized. Offers boots of striding and springing for clearing Old Owl Well.
+2. Talk to Sildar when he's rested — he reveals Iarno Albrek is his missing contact, now probably operating as "Glasstaff" in the Redbrands. Sildar pays 100 gp if they find him. This turns the Redbrand thread into a double-payoff.
+3. Talk to Daran Edermath — he tells them about the Old Owl Well undead and confirms the Redbrands are getting bolder and more organized. Offers boots of striding and springing for clearing Old Owl Well.
 4. Talk to Sister Garaele — she's been hurt trying to find Agatha the banshee on her own and will offer a reward (three potions of healing) if Zenvon delivers a question to Agatha instead.
 5. Visit Halia — she offers 100 gp for Glasstaff's correspondence. The GM knows she wants his Zhentarim contacts, not justice. The party doesn't know this yet.
 6. Use Tuck Stonehill's tip about Carp's tunnel — gives them a stealthy entry into the Redbrand hideout instead of the front door.
-7. Skip the front door of the Sleeping Giant. The Red Brands there will fight and raise the alarm; the tunnel approach does not.
+7. Skip the front door of the Sleeping Giant. The Redbrands there will fight and raise the alarm; the tunnel approach does not.
 
 > **GM-only:** The natural path through Chapter 2 is Redbrand Hideout → find Glasstaff's papers → papers reference Cragmaw Castle's location. That's how the party finds Gundren. If the party wants to skip straight to Cragmaw, they have no map and no specific location. Let them try — tracking is hard, and Linene's "northeast in Neverwinter Wood" is accurate but vague. Let failing to find the castle push them back toward the Redbrand thread organically.
 
@@ -119,7 +119,7 @@ The party has her stolen provisions (the crates marked with the blue lion from K
 > "I don't know where it is exactly. But the Cragmaw goblins range out of the northeast. Neverwinter Wood, mostly. If Gundren's there, that's the direction. Finding the specific castle —" (she shrugs) "— you'd need a goblin who's willing to talk, or someone who's been there."
 
 **NPC notes — Linene:**
-- Motivation: Protect her business and the trade routes. She resents that the Red Brands have made the roads worse.
+- Motivation: Protect her business and the trade routes. She resents that the Redbrands have made the roads worse.
 - Voice tic: Dry, rapid. She doesn't repeat herself.
 - What she wants from this scene: For the party to be people she can call on again.
 
@@ -137,7 +137,7 @@ A retired drow adventurer, well over 500 years old, tending apple trees with the
 
 > **Stage direction:** Give Pip a moment here. Daran recognizes something in the human fighter — the look of someone who's protecting someone else instead of looking out for himself. Daran approves of this, quietly.
 
-**What Daran knows about the Red Brands:**
+**What Daran knows about the Redbrands:**
 > "They've been here before. Different name, different gang. Tresendar Manor always seems to attract a certain type. Whoever's running them now is smarter than usual — they're organized. They've got someone with a plan."
 
 **If the party mentions the elongated-headed goblin:**
@@ -178,11 +178,11 @@ A composed human woman in her late thirties. The Exchange is a clean, well-lit o
 
 **Her offer:** She will pay 100 gp for Glasstaff's correspondence — letters, cipher keys, any documents from his personal quarters. Not Glasstaff himself.
 
-> **Halia (to Zenvon specifically):** "The Red Brands are a nuisance. Glasstaff is a liability. I don't need him — I need to know who he's been talking to. That's worth a hundred gold to me." She says this the way someone explains a very reasonable accounting problem.
+> **Halia (to Zenvon specifically):** "The Redbrands are a nuisance. Glasstaff is a liability. I don't need him — I need to know who he's been talking to. That's worth a hundred gold to me." She says this the way someone explains a very reasonable accounting problem.
 
 She will not explain who she works for (Zhentarim) unless the party specifically knows to ask. Even if asked, she denies it cleanly.
 
-**If Zenvon pushes her on the Red Brands' immunity to her business:**
+**If Zenvon pushes her on the Redbrands' immunity to her business:**
 > "I don't pay them and they don't bother me. That's not an alliance. That's risk management."
 
 **NPC notes — Halia:**
@@ -212,7 +212,7 @@ By the time the party has worked through 3-4 NPCs, the hooks converge naturally:
 **Reasons to hit Tresendar Manor:**
 - Sildar's Iarno quest (200 gp)
 - Halia's correspondence quest (100 gp)
-- Linene's anger about the Red Brands
+- Linene's anger about the Redbrands
 - Daran's concern about organization behind the gang
 - The Dendrar family (Thel was murdered, wife and children taken — they're in the hideout)
 - Tuck's tunnel = no frontal alarm
@@ -247,8 +247,8 @@ Let them go. They'll search Neverwinter Wood, not find anything specific before 
 **"What does 'Ruxithid' mean?"**
 → Nobody in Phandalin knows yet. Daran will say "write it down and don't say it loud." Veyra will be quietly terrified. That's all they get for now.
 
-**"Can we just go through the front door of the Sleeping Giant and beat answers out of the Red Brands?"**
-→ Yes. Five Red Brands are there (use the module stats). They'll fight, and one will try to flee toward Tresendar Manor to warn Glasstaff. If the alarm reaches him, he has a head start on escape and the bodies move. Let Nikhil make this choice with full knowledge of the risk.
+**"Can we just go through the front door of the Sleeping Giant and beat answers out of the Redbrands?"**
+→ Yes. Five Redbrands are there (use the module stats). They'll fight, and one will try to flee toward Tresendar Manor to warn Glasstaff. If the alarm reaches him, he has a head start on escape and the bodies move. Let Nikhil make this choice with full knowledge of the risk.
 
 ---
 

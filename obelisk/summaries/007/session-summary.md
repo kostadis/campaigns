@@ -4,7 +4,7 @@ Date: 2026-07-18
 
 ## Summary
 
-The air in the Tresendar Crypts was thick with the smell of ancient stone and decay as the party squared off against a cluster of skeletal guardians. One of the undead creatures raised a shortbow and loosed an arrow at the group, but the shot went wide — missing "spectacularly," in the DM's own words — clattering harmlessly against the far wall. Zenvon Foreput pressed forward and struck at the nearest skeleton. His first swing missed, but his second connected with a natural twenty, drawing first blood in the grim underground chamber for eight points of damage. Then Sister Maela Dawnforge stepped to the front of the group, raised her holy symbol high, and called upon the power of her dwarven god with a booming command: "BE GONE! In the name of my dwarven god!" Her divine presence washed over the undead like a wave, and two of the six skeletons recoiled in supernatural terror — their wisdom saving throws both failing the DC — fleeing through the nearest door and vanishing into the darkness beyond.
+The air in the Tresendar Crypts was thick with the smell of ancient stone and decay as the party squared off against a cluster of skeletal guardians. One of the undead creatures raised a shortbow and loosed an arrow at the group, but the shot went wide — missing "spectacularly," in the DM's own words — clattering harmlessly against the far wall. Zenvon Forepot pressed forward and struck at the nearest skeleton. His first swing missed, but his second connected with a natural twenty, drawing first blood in the grim underground chamber for eight points of damage. Then Sister Maela Dawnforge stepped to the front of the group, raised her holy symbol high, and called upon the power of her dwarven god with a booming command: "BE GONE! In the name of my dwarven god!" Her divine presence washed over the undead like a wave, and two of the six skeletons recoiled in supernatural terror — their wisdom saving throws both failing the DC — fleeing through the nearest door and vanishing into the darkness beyond.
 
 With the frightened skeletons gone, the remaining undead fought on, and one of them landed a vicious blow against Zenvon with its short sword, dealing eleven points of damage and leaving him with only four hit points remaining. Pip Thistlewick and Veyra coordinated their attacks with practiced efficiency: Pip cut down the skeleton he had already wounded and spent his Action Surge to strike a second for six points, while Veyra — having already expended two prior castings of Magic Missile — used her last remaining slot here, the glowing darts picking apart bone and sinew. Zenvon switched to his scimitar for Nick, missed his first swing, and landed the second for twelve points to destroy another. With Zenvon backing away at four hit points, the last skeleton turned on Pip instead and caught him for six — and it was Pip, not Zenvon, whom Sister Maela healed, laying her hands on him and channeling ten hit points of divine restoration via Cure Wounds (2d8+2). Zenvon closed the fight with his dagger, rolling a 24 to hit and dealing 8 points of damage, before the party turned their attention to the three stone sarcophagi resting in the chamber.
 
@@ -85,7 +85,7 @@ With the barracks cleared and the treasure secured, the party made their way bac
 *The physical reaction was unmistakable even before Wick found words to deny it.*
 
 > "Hey guys, it's me. I came back for you. It's all safe now. You can let go of the door. Let me help you."
-> — Zenvon Foreput
+> — Zenvon Forepot
 
 *Calling through the barricaded cell door to the Dendrar family, who had been holding it shut in terror of the skeletons just outside.*
 
@@ -94,7 +94,7 @@ With the barracks cleared and the treasure secured, the party made their way bac
 ### Battle in the Tresendar Crypts
 #### The party faces off against a group of skeletons within the ancient crypts of Tresendar Manor.
 - A skeleton initiates combat by firing a shortbow at the party — the DM describes the shot as missing "spectacularly."
-- Zenvon Foreput attacks a skeleton with his blade; his first swing misses, but his second roll is a natural twenty, dealing 8 points of damage — which the DM notes is "not very good, but better than nothing," as the skeleton stays up.
+- Zenvon Forepot attacks a skeleton with his blade; his first swing misses, but his second roll is a natural twenty, dealing 8 points of damage — which the DM notes is "not very good, but better than nothing," as the skeleton stays up.
 - Sister Maela steps forward, takes a position in front of the monsters, and invokes the power of her dwarven god to turn the undead, commanding: "BE GONE! In the name of my dwarven god!" Two of the six skeletons fail their wisdom saving throws (DC 12, against their +2 wisdom modifier) and are frightened; the remaining four fight on and are destroyed over the course of the battle.
 - The two frightened skeletons immediately flee through a door and vanish into the darkness beyond.
 - A remaining skeleton strikes Zenvon with its short sword for 11 points of damage, leaving him with only 4 hit points.

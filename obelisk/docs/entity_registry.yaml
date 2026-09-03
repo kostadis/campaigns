@@ -1053,8 +1053,9 @@ entities:
   type: location
   provenance: module
   source: docs/background/obelisk.md
-  note: Ruined ancient watchtower southeast of Conyberry with a still-fresh well;
-    occupied by Hamun Kost and undead guardians. [intro–ch3]
+  note: Ruined ancient watchtower occupied by Hamun Kost and undead guardians.
+    Module placement conflicts (northeast of Phandalin in ch1; southeast of
+    Conyberry in ch3); campaign table canon is northeast of Phandalin. [intro–ch3]
 - name: Phandalin
   type: location
   provenance: module
@@ -1113,8 +1114,9 @@ entities:
   type: location
   provenance: module
   source: docs/background/obelisk.md
-  note: Landmark crag northeast of the Sword Mountains, formerly a wyvern nest, now
-    home to Brughor Axe-Biter's orc raiders. [intro–ch3]
+  note: Landmark crag northeast of the Sword Mountains, formerly a wyvern nest.
+    Its module roster is orc chief Brughor Axe-Biter, four bugbears, and the ogre
+    Gog, collectively the Axe-Biter Marauders. [intro–ch3]
 - name: Zorzula's Rest
   type: location
   provenance: module
@@ -2530,8 +2532,8 @@ entities:
   - the Dendrars
   provenance: on_the_fly
   note: Thel, Mirna, Nars, and Nilsa Dendrar. The VTT mishearing 'Dendar' (session
-    1) is handled in notes/vtt_transcription_corrections.md, not as an alias here —
-    garbles are transcription errors, not identity variants.
+    1) is handled in notes/vtt_transcription_corrections.md, not as an alias here
+    — garbles are transcription errors, not identity variants.
 - name: Tuck Stonehill
   type: npc
   provenance: module
@@ -2565,3 +2567,43 @@ entities:
   note: Veyra's mentor; missing from Phandalin, an open plot thread. Only the title
     variant "Professor Orryn Voss" is registered as an alias — the ASR garble "Oren
     Voss" is handled in notes/vtt_transcription_corrections.md, not here.
+- name: Zenvon Forepot
+  type: npc
+  aliases:
+  - Zenvon
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Player character (halfling rogue), played by Nikhil Reddy. Campaign-original,
+    not from the module. Registered so the bare first name resolves to the full name
+    in known_names/alias_to_canonical — PC names otherwise reach the registry only
+    via config/party.yaml's `extra`, which gets no first-token expansion.
+- name: Veyra of the Blue Candle
+  type: npc
+  aliases:
+  - Veyra
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Party sidekick (tiefling mage), GM-run. Campaign-original, not from the module.
+    Mentor is Orryn Voss, registered separately as an NPC. Registered so the bare
+    first name resolves to the full name in known_names/alias_to_canonical.
+- name: Sister Maela Dawnforge
+  type: npc
+  aliases:
+  - Sister Maela
+  - Maela
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Party sidekick (dwarf cleric), GM-run. Campaign-original, not from the module.
+    "Maela" is registered explicitly because the canonical name's first token is "Sister",
+    so first-token expansion never derives it.
+- name: Pip Thistlewick
+  type: npc
+  aliases:
+  - Pip
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Party sidekick (human fighter), GM-run. Campaign-original, not from the module.
+    Unqualified "Pip" always means this sidekick — the module's Pip Stonehill was
+    renamed Tuck Stonehill for exactly this collision (name_glossary.md 2026-06-12).
+    "Pip" is registered explicitly because it is 3 characters, below first-token expansion's
+    >=4 threshold.

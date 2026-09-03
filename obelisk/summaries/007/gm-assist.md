@@ -3,7 +3,7 @@
 Date: 2026-07-18
 
 ## Summary
-The air in the Tresendar Crypts was thick with the smell of ancient stone and decay as the party squared off against a cluster of skeletal guardians. One of the undead creatures raised a shortbow and loosed an arrow at the group, but the shot went wide, clattering harmlessly against the far wall. Zenvon Foreput pressed forward and struck at the nearest skeleton, drawing first blood in the grim underground chamber. Then Sister Maela Dawnforge stepped to the front of the group, raised her holy symbol high, and called upon the power of her dwarven god. Her divine presence washed over the undead like a wave, and several of the skeletons recoiled in supernatural terror, fleeing through the nearest door and vanishing into the darkness beyond.
+The air in the Tresendar Crypts was thick with the smell of ancient stone and decay as the party squared off against a cluster of skeletal guardians. One of the undead creatures raised a shortbow and loosed an arrow at the group, but the shot went wide, clattering harmlessly against the far wall. Zenvon Forepot pressed forward and struck at the nearest skeleton, drawing first blood in the grim underground chamber. Then Sister Maela Dawnforge stepped to the front of the group, raised her holy symbol high, and called upon the power of her dwarven god. Her divine presence washed over the undead like a wave, and several of the skeletons recoiled in supernatural terror, fleeing through the nearest door and vanishing into the darkness beyond.
 
 With the frightened skeletons gone, the remaining undead fought on, and one of them landed a vicious blow against Zenvon, leaving him barely standing. Pip Thistlewick and Veyra coordinated their attacks with practiced efficiency, hurling magical bolts and steel alike until the last active skeleton in the room clattered to the floor in a heap of bones. Sister Maela laid her hands on Zenvon and channeled her healing power into him, mending his wounds before the party turned their attention to the three stone sarcophagi resting in the chamber. Digging through the ancient remains, Zenvon's fingers closed around a jeweled gold bracelet nestled among the bones of a human woman — a valuable find worth keeping. As they searched, the two skeletons that had fled earlier crept back into the room, but upon noticing the red cloaks the party wore, the creatures simply stood at attention, recognizing the garments as a sign of allegiance and choosing not to attack.
 
@@ -62,7 +62,7 @@ With the barracks cleared and the treasure secured, the party made their way bac
 ### Battle in the Tresendar Crypts
 #### The party faces off against a group of skeletons within the ancient crypts of Tresendar Manor.
 - A skeleton initiates combat by firing a shortbow at the party, though the shot misses.
-- Zenvon Foreput attacks a skeleton with his blade, dealing a significant blow.
+- Zenvon Forepot attacks a skeleton with his blade, dealing a significant blow.
 - Sister Maela steps forward and invokes the power of her dwarven god to turn the undead, causing several skeletons to flee in terror.
 - A skeleton strikes Zenvon with a short sword, leaving him severely wounded with only four hit points remaining.
 - Pip and Veyra coordinate their attacks to eliminate the remaining active skeletons, with Veyra using magical bolts of force.

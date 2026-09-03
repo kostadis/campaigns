@@ -2,7 +2,7 @@ https://github.com/kostadis/mytools/tree/main/pdf-translators/adventure_model_mi
 Session Recap and Story Context
 Kostadis provided a narrative recap of the previous session to orient Nikhil Reddy before continuing play.
 Details
-    Kostadis: The party arrived in Phandalin, gathered information at the Stonehill Tavern, learned about the Red Brands gang and their leader Glasstaff operating from Tresendar Manor, and received a warning about blackstone fragments tied to a powerful obelisk.
+    Kostadis: The party arrived in Phandalin, gathered information at the Stonehill Tavern, learned about the Redbrands gang and their leader Glasstaff operating from Tresendar Manor, and received a warning about blackstone fragments tied to a powerful obelisk.
     Kostadis: The party traveled the Goblin Trail, survived traps (a hidden pit and a snare), defeated goblin lookouts at the cave entrance, and Zenvon scouted ahead, encountering a massive coiled snake before retreating.
 Conclusion
     The recap established the current state of the adventure and set the stage for continuing into Cragmaw Cave.

@@ -40,21 +40,21 @@ source: gmassist
 **[Initiative — Slave Pens Combat]**
 - The GM calls for initiative; the party's rolls come out: Veyra 17, Sister Maela 15, Pip 12. Zenvon goes first (highest).
 
-**Zenvon Foreput** — *querying the order*
+**Zenvon Forepot** — *querying the order*
 > "Veyra has 17…"
 
 **GM** — *confirming the lineup*
 > "Yeah, this is correct. Zenvon Veyra has 17, Sister Maela has 15, Pip has 12."
 > "Oh no, she's got a plus 1, and Pip's got a plus 2. Alright, Zenvon."
 
-**Zenvon Foreput** — *confirming his priority*
+**Zenvon Forepot** — *confirming his priority*
 > "Yes, the highest, okay."
 
 ---
 
 **[Zenvon's First Strike — Cunning Action Dagger, 5 Damage]**
 
-**Zenvon Foreput** — *declaring his action*
+**Zenvon Forepot** — *declaring his action*
 > "Okay, I gotta be careful, so I'm gonna use my Nick."
 > "to attack, the Redbrand."
 > "Move into the back room, so, you know, like, go back here after attacking."
@@ -64,13 +64,13 @@ source: gmassist
 > "Okay, it's got an armor class of… 11."
 > "5 points of damage. Not exactly the best roll you could have done."
 
-**Zenvon Foreput** — *checking for a second attack*
+**Zenvon Forepot** — *checking for a second attack*
 > "I still have the second attack, right?"
 
 **GM** — *wrapping Zenvon's turn*
 > "Done?"
 
-**Zenvon Foreput** — *declaring the disengage*
+**Zenvon Forepot** — *declaring the disengage*
 > "I'm gonna move back."
 
 **GM** — *confirming*
@@ -99,13 +99,13 @@ source: gmassist
 > "She is going to disengage."
 > "And go over here. Alright."
 
-**Zenvon Foreput** — *questioning whether Veyra could still cast*
+**Zenvon Forepot** — *questioning whether Veyra could still cast*
 > "Can't she cast spells?"
 
 **GM** — *explaining why she disengages anyway*
 > "No, she can cast spells, but, they're ranged spells, so she has a disadvantage, so she doesn't want to be, with her 4 hit points, killed by, you know…"
 
-**Zenvon Foreput** — *agreeing*
+**Zenvon Forepot** — *agreeing*
 > "Makes sense, yes."
 
 ---
@@ -135,20 +135,20 @@ source: gmassist
 **GM** — *prompting the player*
 > "You tell me what you want to do, and then roll an attack."
 
-**Zenvon Foreput** — *directing Pip*
+**Zenvon Forepot** — *directing Pip*
 > "Yeah, I wanna attack the guy in the, in the clips, in the clip too, so…"
 
 **GM** — *clarifying targets*
 > "Well, there's two people. There's a guy over here. Let me just show you. There's a guy in here."
 > "And there's a guy over here. There's, like, number 1, number 2, or."
 
-**Zenvon Foreput** — *identifying the wounded target*
+**Zenvon Forepot** — *identifying the wounded target*
 > "The guy who was recently injured is the number one."
 
 **GM** — *confirming*
 > "Yes."
 
-**Zenvon Foreput** — *sending Pip in*
+**Zenvon Forepot** — *sending Pip in*
 > "Number 1."
 > "Go on, baby."
 
@@ -171,23 +171,23 @@ source: gmassist
 
 **[OOC Interlude — Zenvon Retrieves Baseball Bat as Prop]**
 
-**Zenvon Foreput** — *stepping away mid-turn*
+**Zenvon Forepot** — *stepping away mid-turn*
 > "One minute, I'll just get something. I want to do this."
 
-**Zenvon Foreput** — *returning with the prop*
+**Zenvon Forepot** — *returning with the prop*
 > "Cheers So Nutanix gave this small baseball bat, so I thought of using this as a sword."
 
 **GM** — *acknowledging*
 > "Okay, okay."
 
-**Zenvon Foreput** — *refocusing*
+**Zenvon Forepot** — *refocusing*
 > "Oh, that's my turn to attack."
 
 ---
 
 **[Zenvon's Second Attack — Dagger, 7 Damage, Disengage]**
 
-**Zenvon Foreput** — *planning his move*
+**Zenvon Forepot** — *planning his move*
 > "Both of them are inside the room, so…"
 > "I'll still use the Nick to move forward."
 
@@ -195,19 +195,19 @@ source: gmassist
 > "Okay, so you're gonna move forward over here and attack from over here."
 > "You can even go over here if you wanted to."
 
-**Zenvon Foreput** — *declaring the weapon*
+**Zenvon Forepot** — *declaring the weapon*
 > "When I use my dagger."
 
 **GM** — *resolving the attack*
 > "That is a hit."
 
-**Zenvon Foreput** — *rolling damage*
+**Zenvon Forepot** — *rolling damage*
 > "7 points of damage, yes."
 
 **GM** — *asking about positioning*
 > "Are you going to move back or?"
 
-**Zenvon Foreput** — *disengaging again*
+**Zenvon Forepot** — *disengaging again*
 > "Minimum back, yes."
 
 ---
@@ -223,7 +223,7 @@ source: gmassist
 > "for eight points of damage and the guy's down to one hit point"
 > "This time it did sound that way. Alright. Sister Maela."
 
-**Zenvon Foreput** — *checking which ruffian is nearly dead*
+**Zenvon Forepot** — *checking which ruffian is nearly dead*
 > "Who's down, like, 10… the number 2 or the number 3?"
 
 **GM** — *answering*
@@ -232,7 +232,7 @@ source: gmassist
 **GM** — *noting the HP bar issue*
 > "He should look like he's down to very few hit points."
 
-**Zenvon Foreput** — *flagging the missing UI element*
+**Zenvon Forepot** — *flagging the missing UI element*
 > "No, there are no health bar on them, so…"
 
 **GM** — *fixing it*

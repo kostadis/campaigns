@@ -24,13 +24,13 @@ from: ../scene_extractions/02_exploring_the_crypts.md
 **GM** — *orienting the player after combat*
 > "So, where would you like to go next?"
 
-**Zenvon Foreput** — *assessing the room*
+**Zenvon Forepot** — *assessing the room*
 > "So… the bottom… East door is where the skeleton's from."
 
 **GM** — *describing the Tresendar Crypts*
 > "Okay, Zenvon. Let me just remind you where you are. This is the Tresendar Crypts. There are three large stone sarcophagi, and there's these false columns. Do you want to inspect the sarcophagi, or do you want to go through — or do you want to look at the various lids?"
 
-**Zenvon Foreput** — *making a plan*
+**Zenvon Forepot** — *making a plan*
 > "So… both of the skeletons ran through the open door at the bottom."
 > "So, first we'll inspect the… sarcophagi, and then go to the same door where the other two skeletons ran away."
 
@@ -44,7 +44,7 @@ from: ../scene_extractions/02_exploring_the_crypts.md
 **GM** — *narrating the skeletons' return*
 > "And one of the… as you're doing that, the two skeletons appear. [Sister Maela] goes, huh — apparently they do, they don't… they stop being afraid."
 
-**Zenvon Foreput** — *reacting*
+**Zenvon Forepot** — *reacting*
 > "Ohh."
 > "Hey."
 > "I'll deal with them in the next room, but—"
@@ -65,7 +65,7 @@ from: ../scene_extractions/02_exploring_the_crypts.md
 > "Where are we writing that up?"
 > "Wherever we're keeping track of our treasure, we should put there."
 
-**Zenvon Foreput** — *confirming the location*
+**Zenvon Forepot** — *confirming the location*
 > "Storylines. Storylines."
 
 **GM** — *logging it*
@@ -81,22 +81,22 @@ from: ../scene_extractions/02_exploring_the_crypts.md
 **GM** — *announcing the sound*
 > "As you're digging through that, you do hear some noise coming from the northeastern door."
 
-**Zenvon Foreput** — *confirming all loot is taken and choosing to listen*
+**Zenvon Forepot** — *confirming all loot is taken and choosing to listen*
 > "Have you gotten all the…"
 
 **GM** — *confirming*
 > "Yes, you've gotten all the loot from here."
 
-**Zenvon Foreput** — *deciding to investigate*
+**Zenvon Forepot** — *deciding to investigate*
 > "Okay, then yes, I'm gonna go… what's happening today?"
 
-**Zenvon Foreput** — *rolling investigation*
+**Zenvon Forepot** — *rolling investigation*
 > "28. Investigation."
 
 **GM** — *narrating what is heard*
 > "What you hear is essentially people — you hear people screaming: please help us, please help us."
 
-**Zenvon Foreput** — *interpreting*
+**Zenvon Forepot** — *interpreting*
 > "I think they've been captured."
 
 **GM** — *confirming*
@@ -110,20 +110,20 @@ from: ../scene_extractions/02_exploring_the_crypts.md
 - Zenvon relents and declares he will act for her sake.
 - Party moves toward the cells.
 
-**Zenvon Foreput** — *initial hesitation*
+**Zenvon Forepot** — *initial hesitation*
 > "We can deal with them later."
 
 **Sister Maela Dawnforge** — *pushing back on leaving the captives*
 > "[GM] Sister Maela says — boss? I think we should help the helpless, you know. We're the good guys, remember?"
 
-**Zenvon Foreput** — *relenting*
+**Zenvon Forepot** — *relenting*
 > "Well, I'll do this for you, Sister M."
 
-**Zenvon Foreput** — *repeating for emphasis*
+**Zenvon Forepot** — *repeating for emphasis*
 > "For you."
 
 **GM** — *prompting the action*
 > "She goes… Alright, do you want to open the door, or do you want to have Pip open the door?"
 
-**Zenvon Foreput** — *committing*
+**Zenvon Forepot** — *committing*
 > "I will open the door."

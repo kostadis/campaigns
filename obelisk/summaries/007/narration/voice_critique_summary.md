@@ -1,4 +1,4 @@
-# Voice Critique Summary — Session 007, narrator: Zenvon Foreput
+# Voice Critique Summary — Session 007, narrator: Zenvon Forepot
 
 **Scope:** 8 scenes, 6,813 words, re-run 2026-08-01 19:10–19:15.
 **Inputs:** `scene_extractions_smoothed/` · `voice/zenvon_voice.md` · `examples/zenvon.md` + `examples/house_style.md` · `docs/party.md` · `--reflections` (campaign_state + world_state).
