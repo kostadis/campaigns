@@ -2,477 +2,1155 @@
 chapter: 2
 title: Arrival in Phandalin
 ---
-# Chapter 2 Arrival in Phandalin 
+# Chapter 2: Arrival in Phandalin
 
-## 02.01 Vukradin 01-01-Taraskh 1495
 
-Vukradin’s music was once again not earning coin. An artist is never appreciated in his time, and yet an artist must eat. 
+---
 
-He stared at his audience in the First Flophouse in the Heapside. Other than the Brewbarry, the Uthgardt barbarian, no one was listening. 
+## 02.01 Brewbarry — The Band Comes Together
 
-“How did I end up here? The only people who show up here are those who want the cheapest night and drink they can find.”
+Vukradin holds the flyer by one corner. The south gate of Neverwinter stands open behind us. The road waits in front.
 
-He tries not to stare at the customers with a reputation for making darker deals than finding some company. 
+He is a serious musician. He plays piano every night and earns almost nothing. Patrons drink through his best work. He wants a studio where serious people can make serious music. The studio costs money. He has none.
 
-#### *Flashback 8/3 of Ches1495*
+“I'm following this like get rich quick flyer that was posted in Neverwinter.”
 
-“I need some money,” and he remembers his discussion with the Wintershield watchman. The meeting had left him unsettled. 
+The flyer promises money near Phandalin. Vukradin does not want adventure. He wants what adventure pays for.
 
-“I can make money by going to Phandalin?” 
+Soma waits beside the road. She is a lady tortle and a druid. Her shell is scored. Her voice is calm. She spends her sunset years guiding travelers through forests without letting them get eaten.
 
-“Yes,” had said the guard. “Clear the area of monsters and evildoers, and keep the treasure you find.”
+She looks at Vukradin’s instrument case.
 
-“But doesn’t the treasure belong to someone else? Shouldn’t we return it to its original owners?” 
+“I'm slumming it.”
 
-The guard had stared at him, exasperated \- “Look, I don’t make the rules, I just post them.” 
+Soma offers to guide us south. Guides cost money.
 
-“But if these monsters or brigands stole stuff, aren’t we stealing it back?” 
+“Wait, I have to pay her? I thought I got paid. The flyer said I would be paid. I don't have any money.”
 
-“Are you some kind of Paladin of Torm?” the guard spat out. Vukradin is shocked, “But that makes us complicit in banditry\! Surely the guards of Neverwinter would never condone such a thing?” 
+Valphine stands beside him. Sunlight reddens her eyes. She smiles anyway.
 
-The guard sighs, “You aren’t going to make a lot of money doing this adventuring thing with that attitude.” But the comment insulted his professional pride, so he explains, “Lord Neverember has decided to establish the law of Neverwinter in the hinterland. But to do that, those opposing him must be dealt with. He's decided to use adventurers because he can’t bring a real army. Once the adventurers have pacified the area, we will arrive and establish order and the proper laws. It’s a process.” 
+“Oh, dear. You'll have to work it off.”
 
-Vukradin muttered, “That seems very dangerous.” 
+The flyer has an ale stain near the bottom. Mine. I remember the piano bar.
 
-The guard’s eyes sparkled, ““If you are so concerned, bring it to the Wintershield headquarters. There you can give it to the Wintershield guards, and we will hold it for 60 days, and after the 60 days, if nobody claims it, we will take a portion for our retirement fund and you can keep the rest, secure in your knowledge that the real owners are no longer around to claim it.” 
+I enter alone. My tribe is far behind me. They say drink is why I am gone. The drink comes after. I am sober when the sacred thing disappears. I fail to guard it. They cast me out. Then I learn to drink.
 
-His thoughts are disrupted when a client screams, “PLAY MUSIC BARD\!” Vukradin sighs, and begins playing a song that he was told might make him a penny. 
+Neverwinter has plenty.
 
-But he’s had enough, “I quit.” 
+The piano bar smells of beer and wet wool. Cups strike tables. Boots scrape the floor. Then Vukradin presses the keys.
 
-As he walks out, Brewbarry follows him, “You go and play music elsewhere?” 
+My old tribe has drums. Boom boom boom. The same blow until the head hurts. Vukradin has high notes and low notes. Some stay. Some move. His hands make them meet.
 
-Vukradin stares at Brewbarry, “I am going on an adventure to make some money to make music. You can help me. We won’t be part of this egregious money laundering scheme that the city of Neverwinter seems to be encouraging. Our goal is to make honest coin.” 
+The patrons do not listen. One talks through the quiet part. Another laughs.
 
-“You play music?”
+I listen.
 
-Vukradin smiles, “Yes.” 
+Vukradin finds the flyer after his work is done. I ask where it goes. He tells me south.
 
-## 02.02 Valphine Sotorra 01-01-Taraskh 1495
+“Casual. Sure, let's go around the forest together. That'll be fun.”
 
-Valphine saw the Aasimar walk out of the bar and decided to follow him. She is a drow and a follower of Lathander. She is a paradox. 
+“It was lonely. I needed someone to hang out with.”
 
-The madness of the Underdark and the stories of Menzoberranzan's final fall led her to flee to the Overbrite. She had been told so many stories of the sun's evil, but when she saw it, it was a religious experience—something so powerful that it burned out the darkness that covered the skies. That was power. 
+He studies me. I expect another question about my unpaid cups.
 
-She stumbled on a cleric of Lathander who told her of the Morning God’s power, and she became a devoted follower of the god. 
+“Okay. I can play you a song. Do you like songs?”
 
-She admired how the clerics on the one hand tried to pretend that they were humble, and on the other hand, used her to advance their gods’ presence and power. As a former follower of Lolth, she saw the duplicity as reassuring. 
+I nod.
 
-However, she soon learned that the use of violence, scheming, and assassination was frowned upon. Her proposals were met with lectures about “How this is not the way.” 
+“Oh, perfect.”
 
-She thought it was just a subterfuge, a scheme encouraging her to take action and not get caught. Drow society was all about rewarding successful schemes and punishing unsuccessful ones. But she soon found out that the clerics of Lathander did mean that the murder of enemies was wrong. 
+There is no second thought. He has music. I have a halberd. He needs money. I need a friend.
 
-“Except when it comes to killing monsters.” 
+At the gate, Soma asks how we know each other.
 
-She smiled, “Monsters are what we call things we are allowed to kill.” And she remembered how many in Neverwinter thought she was a monster. 
+“I drink at the bar. I play piano.”
 
-As she drank in the First Flophouse, the bizarre combination of her clerical symbol and her race created space, and she could not stop staring at the Aasimar Vukradin. “A symbol of good. A symbol of the celestials.”
+This is true. It leaves out the important part.
 
-His music made no sense, but she could sense something about him. And when he stopped playing and told the barbarian that they would adventure, she had to follow. 
+Vukradin’s music is the music of the ages. I know this because I have heard drums.
 
-“I can help. I am a cleric of Lathander, and I, too, wish to adventure.” 
+“It is amazing.”
 
-The bard stared at him and then nodded. 
+He is right.
 
-Just outside the city limits, as they headed south, they encountered a tortle named Soma, a druid of Mieliki, who offered to guide them to Phandalin. 
+Other patrons fill out the piano bar survey without care. Some mark answers in the middle. Some leave it blank. I press the charcoal hard enough to tear my card. I choose the highest answer.
 
-“I know this land very well, and we will not go hungry.”  
+When people dislike his music, my hands close. I do not hit them. And yet, I watch them until they stop talking.
 
-## 02.03 Soma 08-01-Taraskh 1495
+Vukradin understands.
 
-The journey to Phandalin was uneventful, if long. Since the end of the barbarian incursion, the High Road was safe. And the Triboar Trail was less secure, but if you looked tough, or broke, or a bit of both, one could avoid trouble. 
+“Me too.”
 
-Soma had made this journey several times and knew how to pull that off. The road to Phandalin was the only dangerous part of the journey. But she had heard rumors of a white dragon, discouraging bandits from attacking in open areas. A rumor that she kept to herself.
+Soma looks from him to me. Valphine shields her wet eyes and keeps smiling.
 
-And soon they arrived at the mining town of Phandalin nestled in the snow-capped Sword Mountains. 
+“Well, that's nice of you guys.”
 
-Soma turns to her companions, “This town consists of forty or fifty simple log buildings. Crumbling stone ruins surround the newer houses and shops.” 
+Vukradin checks his instrument case before we leave.
 
-Vukradin looks at it: " Are there no natural defenses for this town? No walls, rivers, anything?”
+“Well, I don't have a piano with me. So I'm going to have to fall back to like flute and clarinet in camp.”
 
-Soma shrugs, “There was a bigger town here that was destroyed centuries ago.” 
+The flute is thin. The clarinet is darker. Neither has the weight of the piano, but Vukradin plays them. That is enough.
 
-“And what of the people?” the bard asks her.
+Soma wants percussion under the music.
 
-“Oh, they are quiet, hard-working folk who came from distant cities to eke out a life amid the harsh wilderness. They are farmers, stonecutters, blacksmiths, traders, prospectors, and children. The town has no walls or garrison, but most adults keep weapons within easy reach if they need to fight.”
+“It makes the song.”
 
-She pauses, “ Visitors are welcome here, particularly if they have coin to spend or news to share. The Stonehill Inn at the center of town offers modest lodging and meals. A couple of doors down from the inn, posted outside the townmaster’s hall, is a job board for adventurers.”
+“And too much of that. And it makes my head pound after drinking.”
 
-Soma pulls out a map and says, " Here’s a map of the town with all the important stores marked.” 
+“The drinking is what makes your head pound.”
 
-Vukradin asks if the local Lionshield Coster has all the goods they once had. Soma shakes her head and repeats the rumors that the interdimensional supply chain has been disrupted somehow. 
+She notices things.
 
-“They are now forced to rely on the same kind of suppliers that the rest of the market has to.” 
+Valphine gives us her history in pieces. Demons pulverize the drow city below. She is driven out of the Underdark and meets the sun. It burns her eyes. She loves it. The pain becomes holy.
 
-## 02.04 Vukradin 08-01-Taraskh 1495
+The clerics of Lathander in Neverwinter welcome her. A drow choosing their light pleases them. Neverwinter itself does not. There are no open slave markets. No torture racks. No assassinations worth mentioning. It is too civilized for Valphine.
 
-“Let’s get some food.” 
+The flyer promises hardship. She comes with us.
 
-Vukradin leads the group to the Stonehill Inn, a modest, two-story roadhouse. 
+She likes pain. I do not understand. I understand coming anyway.
 
-Once inside, he meets the proprietor, a short, friendly male human named Toblen Stonehill. Toblen is a native of Triboar to the east who came to Phandalin to prospect, but soon realized that he knew much more about running an inn than he did about mining.
+Vukradin taps the flyer.
 
-Vukradin has no coin, so the Bard convinces him to let his music pay for their meals. 
+“Apparently they steal money from monsters in this place, though, so watch out.”
 
-“As long as it's something popular from Waterdeep or Neverwinter.” 
+That is how he plans to buy the studio. Take money from monsters. Make music with serious people. Simple.
 
-Vukradin sighs, and plays.
+Before we move, Vukradin looks at Soma and Valphine.
 
-As he finishes the third or fourth song, Toblen approaches Vukradin and asks him to play a song that the bard wants to. 
+“Did you know that back at the piano bar, we used to survey the patrons on what they thought of the music?”
 
-Vukradin is delighted, and the innkeeper seems pleased, so he gives him a complimentary glass of beer. 
+He points at me.
 
-And then mutters, “Once again, the Orcs have come down from the mountains to prey on the lowlands\! If Neverwinter doesn’t send help soon, the Orcs will overrun Phandalin and destroy everything we’ve worked so hard to rebuild. I am so pleased that you have come to help us.” 
+“Anyway, I was going to say Brewbarry is the only patron who ever gave me a 10 out of 10 on the survey.”
 
-Vukradin sputters, “So we get paid?”
+Valphine looks at me.
 
-Toblen looks at him, “Oh no. You go adventuring and take what you can from the monsters.” 
+“I think he did. Yes.”
 
-“But when did these Orcs raid?” 
+I did.
 
-“Years ago. The biggest threat we have had is from the Barbarian hordes.” And then Vukradin realizes the uncomfortable truth that Brewbarry is wearing the distinct tattoos of one of the tribes. He is momentarily worried, but Brewbarry mutters, “I like Vukradin music. My tribe goes boom, boom, boom with a drum. I don’t like drums. I like Vukradin.” 
+Soma turns south. Valphine follows. Vukradin walks beside me, the flute and clarinet knocking together inside his case.
 
-To Vukradin’s relief, Toblen smiles, “Well, my friend, the wars of the past are the past.”   
+I follow him.
 
-“So will you be staying the night?” asks the innkeeper. 
+I am not lonely.
 
-“If it’s free?” 
+---
 
-“No, it’s not. So you should check out the quest board. That’s where the  townmaster has posted the jobs that pay.” 
+## 02.02 Vukradin — The Gray Begins at the Wall
 
-Vukradin gets up, and as he packs his musical instruments, the Innkeeper says quietly, “Be careful, there is a rumor of a white dragon in the neighborhood.” 
+The notice hangs beside Neverwinter’s wall, promising employment in large letters and concealing the payment structure in considerably smaller ones.
 
-“A WHITE DRAGON?” 
+Valphine points at it. “What does the flyer say again? The flyer is hanging right there.”
 
-The Dwarven Prospectors
+“It said, come to Phandalin.”
 
-## 02.05 Valphine Sotorra 08-01-Taraskh 1495
+“Phandalin?”
 
-The townmaster’s hall has sturdy stone walls, a pitched wooden roof, and a bell tower at the back. The job board next to the front door features a sparse number of notices, all written in Common and in the same hand.
+“Phandalin? Is that where we are?”
 
-Valphine knocks on the door, and a tremulous voice shouts, “If you’re a dragon, know that I'm far too thin and bony to make a good meal\!”
+“Phandalin.”
 
-She looks at the house and thinks that the townmaster is a fool if he thinks this building will protect him. 
+I study the word until it becomes less convincing.
 
-Vukradin reads the first quest out loud, “Dwarven Excavation Quest: Dwarf prospectors found ancient dwarven ruins in the mountains southwest of here, and have been working an archaeological dig seeking treasure and relics. They need to be warned that a white dragon has moved into the area. Take the warning to them, then return to Townmaster Harbin Wester to collect a reward of 50 gp.” 
+“Phandalin.”
 
-Valphine asks the man in the building, “Are you Townmaster Harbin Wester? And do these quests pay as you said?” 
+Someone behind me admits, “I just followed Brewbarry.”
 
-The voice clears its throat, “Yes\!” 
+“It said, come here and easy money shall be yours.”
 
-Vukradin shouts, “50 gold? To just deliver a message? I am so up for that\!” 
+The actual notice says nothing so direct. It celebrates the end of the War of the Giants and the War of the Dragons, declares Neverwinter’s hinterland in need of adventurers and heroes, and offers peace and prosperity to anyone willing to march south and secure it.
 
-Soma mutters, “What about the next one?” 
+“No, no, that's not right. It definitely said something about money.”
 
-“Gnomengarde Quest: A clan of reclusive rock gnomes resides in a small network of caves in the mountains to the southeast. The gnomes of Gnomengarde are known for their magical inventions, and they might have something with which to defeat the dragon. Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50 gp for it” 
+“I'm all for peace and prosperity. I totally believe in that. But at this point, I'm having trouble buying food to eat.”
 
-Vukradin then reads the last one out loud, “Umbrage Hill Quest. “The local midwife, an acolyte of Chauntea named Adabra Gwynn, lives by herself in a stone windmill on the side of a hill a few miles south of Phandalin. With dragon sightings becoming more common, it’s not safe for her to be alone. Urge Adabra to return to Phandalin. Once she’s safe, visit Townmaster Harbin Wester to claim a reward of 25 gp.”
+This is not a philosophical objection. I have counted my coins. Twice, in case the first count was pessimistic.
 
-Valphine is most interested in the Gnomengarde Quest for the opportunity of plunder, and hopes that the Bard will pick that one. But his conviction that plunder is somehow wrong leads him to choose the Dwarven quest because it has the highest payout. She is tempted to argue, but remembers that the clerics of the Morninglord have told her that plundering is not the way.  
+The notice calls for adventurers, heroes, and people who want to make a change. Neverwinter needs us. Phandalin, an ally somewhere in the hinterland, needs us. Dagult Neverember wants the southern territories secured.
 
-And so they travel to where some ancient ruins can be found. “Ancient ruins have treasure,” she thinks and smiles. 
+“Was he literally named Lord Neverember?”
 
-After a long 15-mile hike through the hilly terrain surrounding the town of Phandalin, she arrives late in the day near the foothills of the Sword Mountains. Soma has found some game. As it is dark, and the food looks tasty, they decide to camp out and head up the next day. 
+Valphine considers this. “Sounds like we needed a new mayor.”
 
-“I see no dragon,” she mutters. 
+“We'll take care of that in a future adventure, yes. We're going to need a better name for sure.”
 
-## 02.06 Soma 09-01-Taraskh 1495
+Neverwinter has survived dragons, giants, and Uthgardtian tribal wars while I have apparently been concentrating on music.
 
-After a long night’s sleep in her shell, Soma starts the journey to the canyon. Once there, she admires its rocky walls that rise to a height of eighty feet. At the canyon's end, a twenty-foot-high black stone wall has a broken gate carved into it, with one stone door hanging precariously by a hinge and the other door missing. Beyond this open gate, a ruined settlement lies in the shadow of a great mountain to the east. 
+“Is that what's been going on? For like the last five years, that's been happening? I missed all of that.”
 
-Valphine mutters, “Nobody is here. We can claim to give the message and return.” 
+“The land has been crying out,” Soma says.
 
-Soma looks at her, uncertain if she is serious.
+That seems unfair. I would have heard it if the land had maintained a consistent rhythm.
 
-But before she can make up her mind to object or not, Vukradin declares that that would be wrong. 
+Dagult Neverember’s plan is growth: trade, outposts, safer roads, and civilization extending south. His budget is limited, however, so the people performing this dangerous work will not receive salaries or benefits. We are contractors. Our compensation is whatever treasure we recover from the monsters we defeat.
 
-And he marches past the broken doors. 
+“That's our thing,” Valphine says.
 
-Soma follows him. Inside is a settlement that an avalanche of rubble destroyed. She notices that the rubble that once buried the settlement has been hauled away, leaving the outlines of stone buildings visible as collapsed walls.
+The notice presents this arrangement as convention. Apparently, anyone who performs a service for the kingdom may keep whatever gold and treasure the kingdom has not paid them to recover.
 
-“Archaeologists,” she thinks. 
+“Oh, no — it's tax-free income, is what you're telling me.”
 
-A stone well on the far side of the ruins is filled with rubble.
+“Yes, it's tax-free.”
 
-“They throw their dirt into whatever hole they can find. That well might have provided water.”
+Tax-free treasure sounds much more like easy money, so I was correct about the flyer’s essential meaning. Still, there is a missing step between killing something and getting paid, and missing steps are where corruption enters.
 
-She looks around carefully and notices that the settlement has been thoroughly ransacked. 
+“And after we clear a monster, then what do we do?”
 
-“Grave robbers,” she thinks.
+“Do you bring their scalps? Seems vile,” Soma says.
 
-Further into the settlement, she notices a partially collapsed, ten-foot-high wall that separates a courtyard from the settlement west of it. Three heaps of rubble are piled high in this area. Hewn from the canyon’s back wall, a thirty-foot-high temple facade features steps rising to a stone platform. Cut into this facade is a ten-foot-high open doorway flanked by crumbling, life-sized granite statues of cloaked dwarves. Evil grins can be seen on their weatherworn faces.
+“Do we take them to Lord Neverember?”
 
-“Whatever settlement this was, its gods were not good.” 
+“No, no, no.”
 
-And as she mutters to herself, two dwarves appear. 
+“Like a cat delivering a dead mouse,” Soma says.
 
-Vukradin steps forward, “You are in danger of a white dragon; you should leave.” 
+A city guard standing beside the notice turns toward us. His hand lifts from his belt as if he fears we may already possess a sack of dead mice.
 
-Before Soma can react, Vukradin begins to walk out of the cave. 
+“No, please — for the love of goodness, all that is good, do not bring anything to his lordship.”
 
-He looks at her, “I gave the message, let’s go collect.” 
+He looks from me to the notice.
 
-The two dwarves look disappointed, and one pipes up  
+“Why do you ask? Are you asking about how you make the money?”
 
-“Perhaps we can interest you in another job?” 
+“Yes.”
 
-Soma looks at him curiously. 
+The guard pauses before answering. His uniform is clean, his boots maintained, his wages apparently dependable.
 
-“My name is Dazlyn Grayshard, and this is Norbus Ironrune. We are shield dwarf prospectors and business partners. While looking for gold in the mountains southwest of Phandalin, we decided to explore a nearby canyon and found evidence of an ancient dwarven settlement buried by an avalanche. We have spent several months clearing the rubble and scouring the ruins for treasure, but have found nothing of value so far.
+“Well, I am, of course, an official city guard, and get paid on a regular basis. Have benefits. That is not how adventurers get paid. You are an adventurer, or at least this is what we're looking to hire. And the way they make money is by defeating the monsters and securing whatever trinkets and treasure they might have amongst their goods.”
 
-Until now.  Behind the settlement, carved into the back wall of the canyon, is an old temple of Abbathor, the evil dwarven god of greed. During solar eclipses, Abbathor is appeased with sacrifices of blood and gemstones. We think that on one occasion, the god found the sacrifices of this temple’s priests lacking, so he caused an earthquake and avalanche that collapsed parts of the temple and buried the settlement. We tried to go deeper but saw something that scared us. If you are willing to go in and deal with it, we could split what we find.”
+“So we just loot them,” Soma says.
 
-Vukradin seems concerned, “Are you grave robbers? Are you stealing stuff that rightfully belongs to someone else?” 
+“You just take the money from the monsters?”
 
-Soma interrupts him, “Let’s hear them out, there may be money here.” 
+“It's an excellent system. We get what we want.”
 
-Dazlyn, seeing an opening, says, “We don’t have money, but we could give you these sending stones. They are worth a lot of money to the right person. “
+There it is. Neverwinter receives safer territory without paying wages. The adventurers receive untaxed property without asking where it came from. Everyone benefits except the dead people whose possessions are sitting in a monster’s chest.
 
-Vukradin appears hesitant, and Soma wonders how to convince him, when Valphine steps in, “Sending stones would allow you to send your music between two locations.”
+“Where did the monsters get that money from?”
 
-## 02.07 Vukradin 09-01-Taraskh 1495
+“I don't know. And to be quite honest with you, Lord Neverember and the guard don't care.”
 
-“The use of the sending stones would allow for some fascinating musical effects”, thinks the Bard. He wonders how he could use the effect in some of his more recent compositions to add a layer of depth he has found lacking. 
+“Yeah, but I care.”
 
-But then something bothers him: “I just want to be clear. Everything you find here, do you intend to return to the rightful owners?” 
+“You aren't going to be very wealthy in this adventuring business if you care too much about these details.”
 
-“Of course\!” says the dwarf named Norbus. 
+Scandalous.
 
-Vukradin is satisfied with the answer. The opportunity to create musical pieces with the sending stones is too tempting. “And when you are starving, you take risks for your art,” he argues with the inner voice screaming run away. 
+“Well, now, I'm not super dumb. I mean, I can imagine the monsters got the money from killing people. And so, rightfully, that money belongs to their heirs. So we'll be returning the money to their heirs.”
 
-As he heads into the temple, Dazlyn mutters, “I think we saw some oozes in there, but I could be wrong.” 
+The guard stares at me.
 
+“You, sir — are you sure you're not a paladin?”
 
-Vukradin steps through the temple entrance. Spikes hammered into the floor hold open two sets of double doors. A once-secret door to the north stands open, with a room beyond it having only rubble.
+That is not an answer, though it is an interesting question.
 
-He inwardly gulps and mutters about the need for risks for the art, and is about to march into the temple itself. Valphine mutters, “There’s a secret door here.” 
+“I'm just very confused about why we would be trafficking in stolen goods. Aren't you a guard?”
 
-Vukradin coughs, “Excellent\!” 
+He pauses again. The wall rises behind him, solid stone defining the exact point at which Neverwinter’s confidence exceeds its principles.
 
-The secret door to the south leads to a passageway heading south. Like all the ceilings here, the ceiling is 10 feet high, and the floor is dust and dirt. There is no light besides the light sources they are bringing with them. 
+“You are absolutely correct. However, we view it in a different way. Outside of the civilized boundaries of Neverwinter's walls, the laws of Neverwinter do not apply. And that is why we need you to go and establish civilization, to pacify the areas so that the laws can be done.”
 
-The passageway continues for 10 feet, heads southeast for 40 feet, and ends in a hallway with two doors spaced 10 and thirty feet apart. The doorway to the north ends in a wall. 
+“And once the civilization is established, we should follow those laws.”
 
-Valphine mutters again, “A secret door.” 
+“Yes, but until then, we are in the law of the hinterland.”
 
-But Vukradin wants to explore the other door.  Once past the door, he sees a partially collapsed room.  
+“This seems like very grayish to me.”
 
-Soma mutters, “This is a bizarre layout.” 
+He points at the wall.
 
-Vukradin agrees and starts to clear out the dirt, but as he does, rocks shift, and the sound worries him. 
+“The gray begins at the wall.”
 
-Stepping back, he looks around the room. His eyes now catch a feature he had missed. There are several protruding blocks. The blocks act as defensive positions for someone to defend the hallway from someone coming from the direction of the rubble. 
+I look at the wall behind him. It is the same stone on both sides.
 
-Vukradin, “This room was cut in half. There may be a way to get around here from the other side.”   
+“I think we should return the money to the rightful owners.”
 
-## 02.08 Valphine Sotorra 09-01-Taraskh 1495
+The guard’s eyes brighten.
 
-Valphine wasn’t evil. No, that’s not what she was. She was a product of Drow society. And in Drow society, niceties like good and evil were a privilege. She was a survivor, and more importantly, she was alive.
+“I have an even better idea. The city guard has a retirement fund.”
 
-And she had stayed alive because she understood that when you meet an orc, you don’t walk up to the orc and parley, unless your blade is against its throat.
+“Well, I know. I mean, if we can't establish who the rightful owners are.”
 
-But Vukradin had other plans. 
+“No, no, no, no. I'm not saying that. I'm not saying you should donate it to the city guard retirement fund, where we promise to look aggressively for anyone who might claim this treasure. And only if after a suitable amount of time would it fall into the city retirement fund. This way, you would know that the money was being guarded, and that people would know where to go look for it.”
 
-“I intend to parley.” 
+The proposal is custody, public notice, a diligent search for claimants, and eventual transfer to the custodians if nobody appears. It is also a retirement fund wearing the hat of an orphaned-property office.
 
-Soma whistles something that Valphine can only interpret as “dumbass.”
+“Well, I'll think about that.”
 
-Valphine listens in disbelief as Vukradin asks, “Why are you here? Do you need help? Are you hungry?” 
+The guard spreads his hands. “I just want you to know that is the — if you're concerned. I understand your concerns, and that is why I'm very concerned about this.”
 
-Vukradin turns to Soma, “I have met orcs before in Neverwinter. They listened to my music. I don’t think these are threatening.” 
+“The city guards. You've signed up to be trafficking in stolen goods.”
 
-Valphine stares at him and wonders if the Orcs of the Overbright are different from the Orcs of the Dark Realms. 
+“You haven't signed up for anything yet, have you?” Soma asks.
 
-The bard picks up a clarinet and says, “The Orcs in Neverwinter loved this music.” 
+“Well, I'm desperate. I came to Phandalin for this.”
 
-The Drow watches as the bard gets thwacked. The Orc’s swing of the axe misses him entirely, and it reminds Valphine of a saying that the gods protect fools. 
+Or rather, I am about to. The distinction does not improve my finances.
 
-Valphine watches as Soma shouts, “You’re a lucky kid\!” And then casts Thorn whip, dragging one of the Orcs on the bluffs 20’ above the party down to the ground.  The creature rolls down the hill and lands prone. The drow is annoyed that the orc avoids most of the falling damage. 
+We leave Neverwinter with a merchant caravan heading south along the High Road. Patrols pass us often enough that the wagon drivers keep their hands away from their weapons. Dragons and giants have taught the city to guard this road, though apparently not to extend its laws beyond the wall.
 
-And she hears Vukradin fall to the ground, knocked to death’s door by another Orc that rushed him from the cliff. 
+Brewbarry comes with me. He heard my music in Neverwinter, understood its quality immediately, and has attached himself to the journey with tremendous enthusiasm and almost no conversation.
 
-She stares at the bard, and is tempted to let him die, but remembers that Lathander loves all creatures. The Drow cleric of light sighs and heals the bard, muttering about fools. 
+“Is he not talkative?”
 
-And then unleashes a raw blast of coruscating divine energy to lay low her enemy. The prone orc is slightly singed. 
+“Is he talkative?” Valphine asks.
 
-Lathander is not very pleased. Valphine will have to pray harder. 
+“With notes,” someone says.
 
-As she ponders this, Brewbarry charges with his halberd, striking the prone orc and the one right next to it.  She smiles when the prone orc moves to attack Brewbarry, and is cut in half by the backswing of the Halberd. 
+“He loves music. With notes.”
 
-As for her patient, Vukradin, he’s attacked again. And this time, he has the look of a creature that understands that he’s got to fight. He looks so gallant, and ineffectual as his first blade barely touches the orc, and the other flies through the air. 
+“Does Brewbarry periodically try to sing?”
 
-And Valphine sighs as an orc again strikes down Vukradin, again.
+Brewbarry answers with a low attempt at melody. The notes are not always the ones I would have selected, but loyalty deserves encouragement before correction.
 
-As she ponders what to do, another orc drops dead from Soma’s poisonous spray. 
+“I agree, Brewbarry.”
 
-“Poison\!” Valphine thinks back to all those pleasant memories. 
+He tries again.
 
-She strikes with her blade at one of the Orcs. And misses. 
+“And less talking, more music.”
 
-Fortunately for her, Brewbarry rages when he sees Vukradin go down again. And attacks the Orcs in a frenzy of bloodlust. 
+The High Road carries us south between wagon ruts and patrol markers. Then the caravan reaches the eastern turn, and we take the Triboar Trail toward Phandalin.
 
-The Orcs, seeing the halberd, choose to throw a javelin rather than get closer, exposing themselves to an attack. The javelin hits, but the rage of Brewbarry protects him.
+Neverwinter’s wall is gone behind us, but the guard’s question remains. Paladin.
 
-Valphine is surrounded, and she can feel this battle slipping away. From the corner of her eye, she sees Soma cast ice knife, and the blade flies towards her. The last thing she remembers is the pleasure of the ice hitting her body, ripping the skin apart, and the blood flowing out. 
+I turn it over against the sound of Brewbarry’s humming and the coins left in my purse.
 
-## 02.09 Soma 09-01-Taraskh 1495
+---
 
-“Shit.” 
+## 02.03 Soma — First Sight of Phandalin
 
-Her attack knocked out her cleric, and the two orcs were unaffected. 
+Several days south on the High Road, then east along the Triboar Trail. By the time Phandalin comes into view, the morning is still young and my joints have already decided otherwise. Meril’s staff takes some of my weight. It is a friend’s gift. Friends do not always consider how heavy their gifts will become after several days of walking.
 
-Brewbarry looks at her, and she looks at him, “So we aren’t a well-oiled machine yet.” 
+The road reaches a town in the foothills of the Sword Mountains. Between four and five dozen log buildings sit among old stone foundations. The new timber is plain and serviceable. The ruins are not. Broken walls run beneath sheds and gardens, broad enough in places to show that Phandalin once occupied more ground than it does now.
 
-Looking in disgust, she mutters, “I just met you guys on the road\!” 
+“So we do.”
 
-And Brewbarry strikes the two remaining orcs down with his halberd and rushes to heal his musical mentor, Vukradin. 
+No one needs the announcement, but after this much road it is useful to hear that we have arrived.
 
-Soma rushes to help Valphine. The Drow has an ecstatic smile on her face. Soma is worried, but decides to heal her. 
+I stop where the trail enters the village and look past the roofs.
 
-“We should spend another night here and head out in the morning.” 
+“A quaint little town.”
 
-The next morning, Soma and the party head out towards Phandalin. She looks at Brewbarry, who is carrying the Orcs’ axes, and smiles. 
+It is quaint. Nothing about it is defended.
 
-She also thinks back on last night. Dazlyn and Norbus were very happy to see the Orcs dead. So delighted that they cooked a fine meal. She also remembers the weird music played by Vukradin. Music that the bard claims was his own. 
+There is no gate. No ditch. No palisade. Nothing to slow a charging animal, a raiding party, or one determined fool with a torch. Beyond the last buildings, the ground rises toward the mountains, but not sharply enough to protect anything. The approaches are open. A person can walk straight in from the road.
 
-Soma, used to the sounds of the swamps near Neverwinter, didn’t know what to make of it. 
+“Doesn't even have a wall, does it? It's just like a quiet village. Actually, kind of weird.”
 
-But she had a shell she could retreat into, and when she did that, she could block out any sound she didn’t like. 
+I turn my head and check the land again. Dry ground. Exposed lanes. Wells, perhaps, but no moving water near enough to hinder an attack or carry waste away. A river gives a town fish, water, transport, and one fewer direction to defend. Phandalin has chosen none of these advantages.
 
-## 02.10 Vukradin 10-01-Taraskh 1495
+“There's like no natural defense. There's no water, river, nothing like that.”
 
-The march back to Phandalin through the hilly terrain between the Sword Mountains and Phandalin was easy enough, giving him time to think. 
+Vukradin studies the broken masonry around the village.
 
-He wasn’t too pleased with his performance. It wasn’t his best work, but his near-death experience still shook him up. 
+“It's like there was a city wall, but it's been lost to the ages.”
 
-The two dwarves seemed happy enough with his original compositions, but he knew they would have preferred if he played some of the more popular stuff in Neverwinter. 
+Perhaps. If so, the ages have done a thorough job. A wall that no longer stands offers limited protection.
 
-His reverie was interrupted when he heard an Ogre up ahead whistling. 
+People work between the buildings. Farmers carry tools with worn handles. Stonecutters have pale dust in the folds of their clothes. A blacksmith moves near an open forge, and prospectors pass with packs stained by soil from the hills. There are traders, carts, and children underfoot. Many of the adults keep an axe, knife, or bow close enough to reach without taking a step.
 
-“Valphine, is this a fellow musician?” 
+No walls. No garrison. Armed residents.
 
-“I would think he is a slave. Ogres were slaves in Menzoberranzan.” 
+I understand the arrangement. Everyone here is responsible for surviving whatever arrives. It works until enough trouble comes at once.
 
-“Should we free him?” 
+The people watch us, but no one reaches for a weapon. They are quiet about it. Their attention rests on our packs, our faces, and what we carry openly. Visitors bring coin and news. Sometimes they bring the reason everyone keeps a blade beside the door.
 
-Vukradin doesn’t notice her eyes looking confused as she says, “If that’s what you overbrighters do. We had a large number of enslaved people in Menzoberranzan. This one could have escaped from there. A lot of people fled the Dark Realms when the rampaging demons leveled the great city of the Drow.”
+Near the center of town stands the Stonehill Inn, another log building, though larger than most and positioned where a tired traveler can find it without asking. Modest meals, by the smell of the kitchen. After several days on foot, modest is enough.
 
-The bard nods his head and shouts, “Are you a musician?” 
+A couple of doors away, the Townmaster’s Hall has a job board outside. The notices lift at the corners in the morning air. Work offered to armed strangers. That answers one question about how a town without soldiers continues to exist.
 
-Had Vukradin dedicated less time to the intricacies of musical composition and performance, and more to understanding the diverse inhabitants of the world around him, the perilous nature of Ogres would have become starkly apparent. These formidable creatures are driven by a fundamental and insatiable hunger, a primal need to consume that underpins their very existence. Furthermore, their disposition is inherently violent and unpredictable, making any interaction fraught with danger. Perhaps most significantly, a crucial piece of knowledge that eluded the musically absorbed Vukradin was the Ogres' profound aversion to music and the arts. This deep-seated repulsion would have undoubtedly shaped any encounter, likely transforming a potentially neutral situation into one of immediate hostility. Vukradin's singular focus on his artistic pursuits, therefore, left him dangerously ignorant of critical realities that could have far-reaching consequences. 
+We have been walking several days, I decide, though my knees have been arguing for more. It is early enough that smoke still rises cleanly from the chimneys and the roads have not yet gathered much traffic. A teapot would improve the situation. A chair would make it nearly civilized.
 
-As the ogre charged at him, Vukradin overheard Soma mutter, “The kid is going to get us killed.” 
+We continue along the road. Shops stand to either side, their doors open for the morning. Across the street is a Lionshield Coster. The sign is easy to spot. The stock through the windows is less impressive than the name promises.
 
-But what the ogre didn’t know is that Vukradin hated those who hated the arts; he points a finger at the creature, casts Starry Wisp, and a mote of light streaks from his hand, striking the ogre. 
+The Lionshields are supposed to sell nearly everything, wherever a person happens to find one of their stores. This one appears to have encountered the limits of nearly. Shelves show gaps. Crates have not arrived. Supply trouble, according to the rumor moving through town.
 
-The ogre is startled and emits a dim light. 
+Phandalin has no river, no wall, no garrison, and no reliable deliveries. It does have weapons within reach and a board asking strangers to solve its problems.
 
-And as the startled ogre growls, the bard runs away. 
+I adjust Meril’s staff against the packed dirt and keep walking with my bale. The town has survived so far.
 
-From his hideout, he watches as Brewbarry charges at the Ogre. The halberd misses, and the Ogre laughs and marches closer to strike with its club, but in so doing, the creature exposes himself to another attack, and the blow is devastating. 
+Some places mistake that for a plan.
 
-The blow is bloody, but not a killing blow. Vukradin grits his teeth as he hears the sound of the impacting club on Brewbarry’s flesh. 
+---
 
-A moment later, Soma casts poison spray, and the Ogre chokes.  
+## 02.04 Valphine Sotorra — Ale and Rumors at Stonehill
 
-Vukradin, hidden from sight, hears Valphine groan as the Ogre dodges her divine fire. 
+“Meals sounds a little better than just running straight to work. To the inn.”
 
-As the ogre still lives, he steps away from his hiding hole, unleashes another starry wisp, and again hides. 
+“Are the meals free?” Soma asks.
 
-And then the battle is over. Vukradin emerges from his hiding hole and sees Brewbarry pulling his halberd from the corpse of the dead ogre. 
+Vukradin repeats her question, perhaps hoping that reality improves when given a second opportunity. “Are the meals free?”
 
-He watches as Soma searches the corpse and picks up something. He chooses to ignore what he sees. 
+“Where have you been living that meals are free?” Soma says.
 
-## 02.11 Valphine Sotorra 10-01-Taraskh 1495
+“I don't have any money for the meal. I'll just eat my rations outside. You guys go ahead.”
 
-“Once again in Phandalin,” she thinks. 
+“Starving artists,” Soma says.
 
-Vukradin mutters, “Time to collect our honest wages.” 
+Soma values rest after a day upon the road, which is sensible enough, although she phrases the choice as if Vukradin possesses some peculiar authority over our itinerary.
 
-The drow rolls her eyes, but wonders if the Aasimar was brought here by Lathander to show her a better way. Maybe there is power in this that she doesn’t realize. She must observe. 
+Soma is unmoved. “After traveling for a day, it's just getting off our feet for a while sounds better than getting a negotiation. But if the bard has his druthers, we won't.”
 
-The bard bangs on the locked door of the Townmaster’s hall. A few moments later, a quavering voice shouts, “If you are a dragon, know that I am too thin and bony and won’t make a good meal.” 
+“Maybe I could play for my meal.”
 
-Valphine laughs when Soma observes, “Dragons don’t knock on doors.”
+“You could sit outside and play, and see if you can upturn your hat or whatever.”
 
-And yet, a moment later, Townmaster Harbin opens the door, “Wait, aren’t you the musician who played at the Stonehill Tavern?” 
+“Do some begging. Maybe people drop some coin. A performance for money. Yeah, I would do that.”
 
-The bard nods his head and demands payment for completing the quest. 
+Stonehill Inn is a modest roadhouse with an upper floor for guests and a common room below. Toblen Stonehill, its short and affable proprietor, brightens at the sight of customers and attacks a table with a cleaning cloth.
 
-The Townmaster smiles, “Well done\! They are very charming people.” 
+Vukradin studies this display of hospitality. “Business is hard for him. Does he know it?”
 
-“Seemed like grave robbers.” 
+Toblen finishes wiping the table and gestures us toward the chairs. “Please sit. Rest your weary legs. How can I help you?”
 
-“What? What do you mean?” 
+Soma settles herself. “Absolutely. Tea.”
 
-The bard continues, “They were digging in a ruin for artifacts. I don’t think they intended to take the artifacts to a museum.”  
+“Tea? Just tea?”
 
-Harbin pauses, “His lordship guarantees every adventurer tax-free plunder\!” 
+“Just tea.”
 
-And Valphine sighs as he listens to Vukradin’s diatribe about how adventurers are glorified thugs and goons stealing without regard to what is right and what is wrong.
+Toblen looks at Soma, then at the furniture, but the mystery of tea arrests him first. “You want me to boil water and give it to you?”
 
-## 02.12 Valphine 10-01-Taraskh 1495
+“Yes. I have the herbs myself, if you don't.”
 
-“The townmaster is very upset.” She wants to ask, but Vukradin has already left. 
+His gaze travels over Soma’s shell and settles upon the chair. Soma notices.
 
-“Let’s get rid of some of our loot,” she hears Soma say. And so they go to the local Lionshield Coster to sell the broken axes and the hide armor they took from the bodies of the orcs. 
+“Oh, we're getting to the fat shaming now.”
 
-Inside, Valphine meets  Linene Graywind, the master of this outpost. 
+“I think you should sit right here, but if you don't mind, I'd like to get the sturdier chair.”
 
-“You are alive?” 
+He returns with a heavier chair and charges ten copper pieces for the boiled water. I pay for tea as well. Ten copper for hot water. The heat against my tongue supplies a minor, disciplined sting while Vukradin begins negotiations over his poverty.
 
-Vukradin interjects, “I had a near-death experience. It’s new for me. Never had one before.” 
+“I want to play for your inn for a while. I have no money.”
 
-Valphine adds, “The pain was glorious\!” 
+He is confident in his talent. “I'm very good, actually.”
 
-Linene smiles, “Well, its good to see you here. I want to assure you that although our preferred mode of transportation of goods has been impacted, we are still carrying a wide variety of goods and can be relied on for all of your adventuring needs.” 
+Toblen pauses. The pause is important. He has acquired a bard and does not yet know whether this is good fortune or a punishment.
 
-Valphine is curious, “Have tariffs disrupted your trade?” 
+Toblen picks his words. “Well, if you have something — one of the more fashionable tunes from Waterdeep, or from Neverwinter, I think. Or even Triboar.”
 
-“Yes, you could say that.” 
+“Yes, yes, one of those.”
 
-Vukradin sees an opening, “Can we help with anything? Do you need a shipment of goods protected?” 
+“I'd be delighted to hear that.”
 
-Linene looks at him confused, ‘No, not really, but I did hear a rumor that strange magic pervades Neverwinter Wood, confounding navigators and obscuring the ancient ruins of bygone kingdoms lost in its depths.”  
+“Of course, that's what everybody wants to hear.”
 
-Valphine is curious about what has affected Lionshield’s Coster’s fabled internal network. A network that had made them an unstoppable force in the realms. 
+Soma does not look up. “One of those bangers. Play The Roc's Lament.”
 
-But that’s a mystery for another day. Their next stop is the Stonehill Inn. 
+“Yeah, totally. The Roc's Lament.”
 
-Toblen Stonehill, the proprietor, once again convinces Vukradin to play some music for his clientele. 
+Toblen’s face tightens. Vukradin catches the injury, or at least the danger to his payment.
 
-Valphine looks around at the locals and decides that they have nothing of interest to share with her. And just sits and enjoys the music. 
+Vukradin retreats at once. “I'll play whatever you want. Whatever you want.”
 
-## 02.13 Soma 01-02-Taraskh 1495
+Toblen tries again. “I didn't realize that. My music — if you have some.”
 
-The next morning, Soma once again heads out into the wilderness, towards the gnomish outpost of Gnomengarde. “The job is simple enough”, she thinks, “go there, get something that might be useful against dragons. And if we don’t think it's useful, but the gnomes do, sell it to the Townmaster for fifty gold.” 
+“I'm here to please.”
 
-The journey towards Gnomengarde in the Sword Mountains goes through broken hilly terrain to the south of Phandalin before going up into the mountains themselves. 
+“I'm desperate.”
 
-Journey to Gnomengarde
+“Well, I mean — if you're willing to have one of my creations, I think I could be even entertained by one of yours.”
 
-The expedition destined for the subterranean halls of Gnomengarde, nestled deep within the rugged Sword Mountains, commences with a trek across the fractured, undulating landscape situated to the south of the burgeoning settlement of Phandalin. This initial phase of the journey involves navigating a labyrinth of broken hilly terrain, characterized by uneven ground, scattered rocks, and sparse vegetation, a stark contrast to the more settled lands surrounding Phandalin. Travelers must exercise caution and maintain a sure footing as they traverse this transitional zone, which serves as a prelude to the more challenging ascent into the imposing peaks of the Sword Mountains themselves. The air here may carry the scent of pine and damp earth, and the sounds of scurrying wildlife and perhaps the distant calls of mountain birds might accompany the passage. This lower region, while not as precipitous as the higher elevations, presents its own set of obstacles, demanding resilience and careful navigation before the true ascent towards Gnomengarde begins.
+“What are your creations?” Soma asks.
 
-The climb up is slow, but Soma has a sense for this kind of journey and leads her group through a series of mountain paths. As she turns, the path emerges into a narrow valley with a 5-foot-wide path, surrounded by steep walls to either side. Ahead in the middle of the valley is an ogre. 
+“You seem to want to play a music piece of your own.”
 
-Vukradin asks, “Is this a slave?” 
+“Well, okay. So I can spend the evening playing music. And I don't know if he has a piano, but I have a couple instruments.”
 
-And the drow shrugs and says, “When they were slaves, they didn’t whistle cheerfully.” 
+Vukradin plays. His command of the room is excellent, as it usually is; every note advances his claim upon Toblen’s provisions, and the performance concludes with the proprietor visibly impressed. I find the entire display tedious. He is trading it for a glass of beer.
 
-Soma is about to object, but Vukradin is enraged, “So he just wants to kill us? Everyone wants to kill us\!” 
+Toblen pours a glass and sets it before him. “Well, that is definitely worth some ale.”
 
-The Ogre shouts, “I'm hungry\!” 
+“But did you love it?”
 
-Vukradin offers him some food, but the Ogre objects and points at Soma, “I want turtle\!” 
+Toblen smiles. Vukradin stares into that smile, searching for certainty and finding only what he wishes to find.
 
-Soma is appalled and amused when Vukradin fails to intimidate the Ogre, and instead convinces the Ogre that these are easy pickings, and it shouts, “I'm hungry\! I eat Turtle\! I eat you\!”  
+“Well, if you didn't love it, I can't take your beer.”
 
-Soma shouts, “We killed your brother\!”  
+“I believe it,” I tell him.
 
-The Ogre howls. 
+“All right. Well, then I will take the beer.”
 
-Soma smiles, covers him in poison, and then rushes away. 
+“Sometimes it's good to be an idiot,” Vukradin says.
 
-The Ogre charges at Brewbarry, who misses. The Ogre, in turn, misses the large barbarian. 
+“Ignorance is bliss,” I agree.
 
-Valphine then uses one of the magical bullets Brewbarry found on the last Ogre to knock it prone.
+“So Brewbarry liked it. He's my number one fan.”
+
+The ale is accepted, the music ceases, and Toblen finally offers information worth hearing.
+
+“Once again, the orcs have come down from the mountains to prey on the lowlands. If Neverwinter doesn't send help soon, the orcs will overrun Phandalin and destroy everything we work so hard to rebuild.”
+
+*Orcs.* At last, a subject possessing blood, force, and strategic consequence.
+
+Toblen pauses and examines us again, revising his assessment from impoverished travelers to potential instruments. “Do you have anything to do with Phandalin? Are you part of the support Neverwinter is sending to us?”
+
+“Yeah, that's right,” I say.
+
+“If there's money in it,” Vukradin adds.
+
+“Ah — money? I thought Neverwinter was going to pay you, not us. Oh. You're adventurers.”
+
+“What gave it away?” Soma asks.
+
+“I don't really understand how we're going to get paid.”
+
+“Well, that's very easy. Outside the Townmaster's Hall, there is a quest board. The Townmaster — the city has some problems, and it's best if you go there and check them out.”
+
+“Are you dealing with these orcs on that list?” I ask.
+
+“Well, you'd have to go check what the townmaster has decided is important enough for the city to collect. He is — in my mind, I'm not sure how he prioritizes things.”
+
+There it is: authority without confidence, danger converted into paper, and a town waiting for an absent superior to decide which threat deserves coin. Harbin has not decided. That is the whole of it.
+
+Soma leans in. “Do you know why the orcs are causing trouble lately?”
+
+Toblen recites it without pausing. “Well, you must have heard of the War of the Dragons and the War of the Giants, followed by the barbarian hordes, followed by the disturbances in the Underdark.”
+
+“Oh, the world is always at war. What's special about these orcs today?”
+
+“Well, usually during these orcs like to expand, and when there isn't a strong army to hold them back, they expand into territories that don't belong to them.”
+
+“So, wait, was there a strong army here previously that disbanded?”
+
+“Well, the various wars depleted Neverwinter's resources.”
+
+“This place doesn't look like it ever held a lot of troops in the past — I don't know, 200 years.”
+
+“No, no, no. Phandalin has never been a place with a large army. It was overrun by orcs many years ago, but since then it's recovered.”
+
+Recovery, apparently, means rebuilding in the same place without acquiring the force necessary to prevent repetition. My sisters would consider this an invitation.
+
+Toblen turns toward Brewbarry. His friendliness narrows into scrutiny.
+
+“I, in fact, lived in Triboar, and managed to get word about the disaster that came there from the Uthgardt barbarians.”
+
+His eyes travel over Brewbarry’s enormous frame. “You wouldn't be one of those barbarians, would you? I'm so sorry.”
+
+“Are you apologizing for your ancestors?” Soma says.
+
+“I can vouch for him. He really loves music. He's not like the other barbarian.”
+
+Vukradin presents affection for music as evidence against atrocity, and Toblen appears to weigh it.
+
+“I've known him a week. He seems fine,” Soma offers.
+
+Toblen pauses. Brewbarry has said nothing, yet the proprietor assumes authority to judge, condemn, and absolve him in one uninterrupted exercise of vanity.
+
+“Look, my friends — whatever plans you might have, and whatever adventures you might have, and whatever stories you might have: all is forgiven between us. The past is the past. The future is the future.”
+
+“What are you forgiving me for?” Vukradin asks.
+
+“I'm not forgiving you. I'm forgiving all barbarians.”
+
+“The barbarian.”
+
+“Yes, not all barbarians. Well said.”
+
+Toblen’s absolution appears complete. Brewbarry said nothing and was forgiven anyway. Nobody asked him for anything.
+
+“But I do recommend you go talk to you if you're looking for work. Well, if you're looking to spend some money or need a place to stay, I do have a room.”
+
+Brewbarry speaks for the first time in an hour. “I can't afford to live here.”
+
+“Yeah, I don't think we've got enough money for all of us,” Soma says. “We'll have to go collect some coin.”
+
+“Yes — well, in that case, I do recommend you go check the quest board out.”
+
+We rise. My tea is gone, leaving a faint burn upon my tongue and ten copper pieces transferred into Toblen’s possession.
+
+Before we reach the door, Toblen calls after us.
+
+“Oh — one minor detail,” Toblen says.
+
+“Go on.”
+
+“Well, when you're outside, just be careful and aware that we do have a small dragon problem.”
+
+The word settles far more pleasantly than the music did.
+
+“The problem with the small, or the dragon?” I ask.
+
+“Do we get paid if we kill the dragon?” Vukradin says.
+
+“I'm told the dragons have hoards.”
+
+“People just don't understand,” Vukradin says.
+
+Soma sets down her cup. “Yeah, you guys are all a little too materialistic, just robbing from each other. You know, boiled water is cheap.”
+
+Orcs in the lowlands. A dragon near Phandalin. Paid work posted outside the Townmaster’s Hall. I set down my empty cup and follow the others toward the door.
+
+---
+
+## 02.05 Vukradin — Grave Robbers on the Quest Board
+
+Soma leads us toward Townmaster’s Hall with the certainty of a tortle who has already accepted that civilization requires errands.
+
+“All right. All roads lead to the quest board. We're going to look for the exclamation mark.”
+
+I look ahead. Harbin Wester’s hall is boarded shut, which is an unusual posture for the seat of local government unless the local government is either under siege or hiding from the people it governs. There is no exclamation mark.
+
+“What? Look for the exclamation mark. The yellow bang.”
+
+Valphine points toward the notices. “The quest board with the yellow exclamation mark above it.”
+
+“Yeah, standard. The quest marker?”
+
+We are left with a choice between approaching the board that openly offers work and the building whose planks offer nothing. This does not require bardic intuition.
+
+“I feel like a board. Why am I going to a boarded-up town hall?”
+
+Valphine glances at the sealed windows. “...if you're suspicious people.”
+
+That is unfair. I am suspicious of Harbin Wester because Harbin Wester has built his public life around giving people reasons to be suspicious of him. The board, at least, has paper on it.
+
+There are three notices. The first bears the title Dwarven Excavation Quest.
+
+“Literally named Quest.”
+
+The second is for Gnomengarde. The last sends someone to Umbrage Hill. I read the destinations again, arranging them into a sensible list before Harbin’s prose can make them less sensible.
+
+“Dwarven Prospectors. Rock Gnomes. And Umbrage Hill.”
+
+Then I reach the payment.
+
+“Well, now this is real money. You do something, the Townmaster pays you. That's fair.”
+
+The amount sits on the notice in plain ink. Guaranteed payment for a completed task. No corpse to search, no stolen chest to rationalize, no merchant’s property conveniently becoming ours because its owner is absent. Harbin Wester assigns the work, we perform the work, and Harbin Wester pays us.
+
+“Wow, fifty gold. I haven't had that much money in my whole life.”
+
+I hear myself say it, and the truth of it presses behind my ribs. Fifty gold pieces. More than I have ever held. Enough to stop treating the music studio as a beautiful idea spoken into tavern smoke and begin treating it as lumber, rent, hinges, locks, acoustic cloth, and a door bearing my name.
+
+“Well, among these options, something that pays more sounds good,” Valphine says.
+
+“Oh, definitely. Why would we do something that pays less? That doesn't make any sense.”
+
+Soma studies Umbrage Hill. “I don't know. I feel like visiting the midwife. That's me. That is obviously the cheapest one, too. I didn't notice that.”
+
+Of course Soma wants to visit the midwife. Life recognizes life. Unfortunately, life is offering less gold.
+
+Valphine taps the Gnomengarde notice. “I think I would be leaning towards the gnomes. That sounds like the most straightforward, doesn't it?”
+
+I read the terms aloud. “Get whatever you can from them. If you bring back something useful and don't want to keep it for yourselves, Townmaster Harbin Wester will pay you 50.”
+
+There it is. Corruption in ink. Harbin is not paying for assistance, diplomacy, or the safe delivery of a negotiated purchase. He is offering to buy whatever useful object we can remove from the rock gnomes and do not personally want.
+
+“Wait, he's going to participate in this thievery scheme?”
+
+“This is a sketchy town,” Soma says.
+
+The phrase settles over the boarded hall, the nails, and Harbin Wester’s posted offer. Accurate.
+
+“No, no. The dwarf prospectors.”
+
+“That's honest money,” Soma says. “I mean, so is the midwife visit. It's just a little cheaper.”
+
+“It just doesn't pay as much.”
+
+That is the argument. It is not an elegant argument, but fifty gold pieces do not require elegance. We only need to warn the dwarven prospectors. No acquisition scheme. No useful gnomish property surrendered to Harbin Wester. Work, warning, payment. Fair-trade, conflict-free gold.
+
+I look to Valphine. She had favored Gnomengarde, and an ensemble cannot resolve if everyone simply plays louder.
+
+“That okay, Drow? Can we do the dwarf prospectors?”
+
+“It's fine.”
+
+Then I read the rest.
+
+“They've been seeking treasure and relics. They're grave robbing? What is wrong with this place?”
+
+The paper roughens beneath my fingers. Prospectors sounds clean until Harbin explains what they are prospecting. Treasure and relics do not emerge from untouched stone with receipts attached. They belong to the dead, to descendants, to temples, to someone. Harbin Wester is openly sponsoring grave robbers and offering us more gold than I have possessed in my life to keep those grave robbers safe.
+
+“This is not a place for us,” Soma says.
+
+She is right.
+
+The payment remains fifty gold.
+
+I try to find another honest reading. We are not being paid to rob the graves. We are being paid to deliver a warning. What the dwarves do afterward is their moral burden, and perhaps, once warned, they can be persuaded to establish provenance for whatever they uncover. Ownership can be determined. Relics can be returned. Proper records can be made. The studio needs coin earned through service, and warning people about danger is service.
+
+Desperation wins.
+
+Soma studies the formal task again. “Oh, this is literally just delivering a letter. It's a fetch quest. Well, reverse. It's deliver.”
+
+“For the moment. For the moment.”
+
+Soma reads the notice again. “Oh, yeah. Nothing ever changes on the quest. It's set in stone.”
+
+“Especially when we change the quest.”
+
+I release the notice. It stays pinned to the board, grave robbery and fifty gold sharing the same sheet of paper.
+
+---
+
+## 02.06 Brewbarry — The Hike to the Canyon
+
+The Sword Mountains sit ahead of us. Far. Gray. Full of stone.
+
+Soma studies the map.
+
+“Yeah, we're on the Sword Coast or whatever it is.”
+
+The trail into the foothills takes a full day. I can walk a full day. Walking is easy. Hunger is not.
+
+Valphine looks at Soma. “Can you forage and scavenge food on our way?”
+
+Soma considers the grass, the brush, and the dirt beside the trail.
+
+“There you go. Something a little better than some goodberries. And it might not kill you.”
+
+I do not like *might*.
+
+“Well, the medicine will also kill you.”
+
+Valphine answers, “Well, at least we have a cure.”
+
+This does not make the food sound better.
+
+Soma has no food spells ready. Valphine reminds her about Goodberry. Soma thinks about it, then says, “Okay, I could prepare Goodberries. I'll take off, I don't know, Longstrider or something.”
+
+She pauses.
+
+“Ice knife, I'm never going to use that.”
+
+Ice Knife sounds useful. Goodberry sounds small. I say nothing. Soma knows the land. I trust her to find food that does not kill me, or medicine that does not kill me after the food tries.
+
+Vukradin says, “I still have two rations that I haven't eaten.”
+
+Two rations. Vukradin is thin. He should eat both.
+
+“I'm more of a scavenger. Live off the land.”
+
+Soma leaves the trail when she sees something worth checking. She pushes aside leaves, turns over stones, and studies plants before taking anything. I watch her hands. Nothing goes into my mouth unless she gives it to me.
+
+My stomach argues.
+
+We keep walking.
+
+The ground rises under my boots. Dirt gives way to loose stone. The straps of my pack pull against my shoulders. My halberd shifts with every step. It wants to be held. There is nothing to hit.
+
+Vukradin says, “Nothing crazy on the way.”
+
+He sounds disappointed.
+
+I am also disappointed.
+
+The canyon waits at the end of the march. Its rocky walls climb eighty feet on both sides. They hold the quiet close. No birds. No picks striking stone. No dwarves shouting at each other.
+
+At the far end stands a wall of black stone, twenty feet high. The gate is broken. One stone door hangs from a hinge. The other is gone. Beyond it, the settlement lies under the mountain’s shadow. Roofs have fallen. Stones are scattered. Nothing moves.
+
+Vukradin calls, “So who's in charge around here?”
+
+No one answers.
+
+Soma raises her voice. “Guys? Is there anybody here to deliver the message to?”
+
+Still nothing.
+
+I take hold of my halberd. My hunger settles. This place smells of dust, old stone, and trouble.
+
+Good.
+
+Vukradin looks at the ruined entrance. “Why is the gate broken?”
+
+“I've heard stories of a white dragon flying around here. Perhaps that killed the gate.”
+
+A white dragon can break a stone door. I have the Dragon Slayer Sword. This seems fair.
+
+Vukradin looks through the open gate. “We are not going to get our fifty gold.”
+
+“No, no. All we have to do is go back and say we delivered the message.”
+
+“But that would be dishonest.”
+
+“Fair.”
+
+Vukradin keeps looking at the ruins.
+
+“Although you do have a point.”
+
+“No, no, no.”
+
+Someone behind me agrees. “That would be dishonest.”
+
+“Yeah.”
+
+Soma sets her feet toward the broken gate. “We're here to heal the land, not to be another blight on it.”
+
+I move beside Vukradin. The loose stone grinds under my boots. The gate still hangs above us.
+
+It may fall.
+
+Something else may come through first.
+
+I am not hungry anymore.
+
+---
+
+## 02.07 Valphine Sotorra — The Dwarves Don't Believe Her
+
+“All right. So do you want to walk in? You walk in?”
+
+“Yes, let's go straight in.”
+
+“Send me in first.”
+
+Soma plants herself at the entrance, shell forward, while Vukradin performs a brief and unnecessary negotiation with his own courage.
+
+“Yes, no. Who's going in? Oh, you're going. I'll be right behind you. Absolutely.”
+
+“I'm the toughest. Also, I got nothing to lose. I'm late in life.”
+
+There is no stealth. Soma crosses the broken boundary first, Vukradin follows, and I enter behind them without disguising my steps. The ruined settlement does not merit ceremony.
+
+A partially collapsed wall divides the courtyard from the western ruins. Three heaps of quarried rubble stand beneath the canyon wall, and a temple facade rises above a stone platform. The open doorway is tall enough to admit an ogre. Crumbling granite dwarves flank it, cloaked and life-sized, their weather-worn mouths carved into evil grins. The expressions are not subtle. Surface artisans so rarely trust an observer to recognize menace unaided.
+
+“So, does it look like it was recently destroyed or a long time ago?”
+
+The exposed stone and settled rubble answer me. This is an excavation, old destruction disturbed by recent tools.
+
+“These are everywhere.”
+
+Soma examines the work. “Grave robbers.”
+
+“What do you like? Lawful, super lawful?”
+
+Vukradin studies the statues and the dwarves working among them. “Is there statues? It's dwarves that are excavating a dwarven ruin. Is that correct?”
+
+“I had no intention of being stealthy,” Soma says.
+
+“No, no. So, loud. It's an excavation.”
+
+“There's bombs and stuff going off, right?”
+
+“Very naive.”
+
+“We're new at this.”
+
+Dazlyn Grayshard and Norbus Ironrune notice us. Their excitement lasts only until ownership enters the calculation. Dazlyn is chewing when he confronts us, his jaw working while his eyes pass over our weapons.
+
+“I'll just have you note that this is a private excavation, and everything that we're doing, we're not sharing.”
+
+He has guarded the dig before asking why we came.
+
+“So we're here from Townmaster Harbin. And he wanted us to give you a message,” Vukradin says.
+
+“Oh, how kind of him. What was the message?”
+
+“There's a white dragon coming here to kill you.”
+
+“Here there be dragons,” Soma adds.
+
+The warning delivered, our obligation appears complete.
+
+“Well, okay, guys. We did it,” Vukradin says.
+
+“Let's go.”
+
+“Let's go get our money. Right. I mean, that's all the quest said.”
+
+“I'm walking,” Soma says.
+
+“Oh, hold on, hold on, hold on.”
+
+Vukradin turns. “Did you need something?”
+
+Norbus draws himself up and supplies names, occupations, and an account of their search southwest of Phandalin. He and Dazlyn are Shield Dwarf prospectors. The canyon yielded evidence of an ancient dwarven settlement buried by an avalanche, which is a respectable discovery and an even more respectable justification for appropriating whatever survived beneath it.
+
+“Are these your ancestors?” Vukradin asks.
+
+“Well, not my ancestors per se, but they are somebody's ancestors.”
+
+“Are you working on behalf of their ancestors?”
+
+Norbus pauses. His patience contracts visibly.
+
+“No, no, but it's important to hear the rest of the story. Now, normally I would be very objected — I would object terribly to anyone excavating and digging into the Dwarven Dead, but this happens to be an old temple of Abbathor, the evil god of greed.”
+
+Convenient. The dead lose their rights when their theology becomes distasteful.
+
+“Do I know anything about Abbathor?”
+
+The name catches against old religious instruction. I search the remembered catalogues of hostile divinities, rites, appeasements, and punishments. Vukradin contributes nothing useful.
+
+“I'm not very religious.”
+
+The details align anyway. Eclipse. Blood. Gemstones. A divine appetite interpreted as ritual necessity.
+
+“Let me see if I can get this straight. Abbathor, during the solar eclipses, Abbathor is appeased with sacrifices of blood and gemstone.”
+
+“Yes, yes, yes, that's exactly right,” Dazlyn says.
+
+The next conclusion follows without resistance. Priests offer insufficient tribute; the god answers by destroying the institution that disappointed him. Lolth would understand the principle, although she might preserve a few survivors so the lesson could reproduce.
+
+“And on one occasion, the god found the sacrifices of this temple's priests lacking, so he caused an earthquake, and that avalanche collapsed the parts of the temple and buried the settlement.”
+
+Dazlyn confirms it. Cleanly done. Abbathor punished inadequate devotion through stone, weight, and suffocation, power made visible in a collapsed mountain.
+
+“So is Abbathor a god I know from the drow cities?”
+
+No. I recognize no cult from Menzoberranzan, merely the familiar grammar of an evil god and worshippers who discover too late that sacrifice establishes no ceiling on further demands.
+
+“Yeah. I mean, like, there's no news here.”
+
+Dazlyn’s jaw stops.
+
+“Yes, but I'll have you note that Dwarven gods are not like your drow gods.”
+
+The distinction evidently matters to him, although his account has just established blood sacrifice, gemstone tribute, divine displeasure, and mass burial. He has told me my own liturgy and objected to the accent.
+
+Norbus’s attention drops to the holy symbol of Lathander upon me. His face tightens, then returns to the symbol as though repeated inspection might correct the offense: a drow cleric bearing the sun.
+
+“Unheard of. Unique,” Vukradin says.
+
+“There's like — I'm telling you, she's lying.”
+
+The accusation costs Norbus nothing.
+
+Dazlyn peers at the emblem. “No, she's — that's that. That's definitely the symbol. Are you really a cleric of Lathander?”
+
+The metal rests against my armor, bright and unmistakable. I remember the first disciplined sting of the Overbright upon my eyes, power without concealment or apology, inexhaustible precisely because it spends itself across the world every dawn. Lolth hides beneath stone and rations favor through priestesses. Lathander burns the horizon for everyone. The calculation is not difficult.
+
+“Why, yes. I am.”
+
+“Why, indeed. He's so gloriously bright,” Soma says.
+
+“Can I cast a light spell on you?” Vukradin asks.
+
+Norbus continues staring. My answer has not made me possible. Faith, to him, is lineage wearing ritual clothing; a drow may carry the symbol, explain the doctrine, and still remain structurally false. The irritation is precise, almost deliciously painful. I have survived House Sotorra, renounced Lolth, and offered myself to the greater power, only to discover that dwarven disbelief requires less evidence than divine revelation.
+
+Dazlyn and Norbus withdraw to confer. They return after several minutes.
+
+“Let me say something. You know, we're just prospectors.”
+
+“We're just messengers,” Vukradin replies.
+
+“But I agree. We have a business proposition for you.”
+
+“Okay.”
+
+“We should at least hear them out. Talking is a free action, right?” Soma says.
+
+Norbus offers payment. “Well, if you were willing to go in there and deal with any nasties and beasties, we would be willing to give you two sending stones.”
+
+“Oh, those were, uh — messages, was it?”
+
+“Are those valuable?” Soma asks.
+
+“I'm not sure about that,” Vukradin says.
+
+“We also get the fifty gold pieces.”
+
+“Well, we're already going to get the fifty gold pieces. All we have to do is go back to the town and we can get the fifty gold pieces.”
+
+“Yeah. We just — our job here was to deliver the message.”
+
+Soma finds the leverage that will move Vukradin. “The sending stones would allow you to project your music to two ends at one time. Just saying.”
+
+Brewbarry looks interested. “Does that mean I can listen to music all the time?”
+
+“Well, at the other end of the matching stone or whatever has a musician on the other end. Yes.”
+
+“Well, maybe we can sell them. They're probably worth something.”
+
+Soma returns to the relevant question. “Do you have any idea what's in there?”
+
+Norbus does not answer immediately.
+
+“You just said, take care of some nasties and beasties. What have you seen?”
+
+“So what do you — what do you say more about what you're expecting us to do?” Vukradin asks.
+
+“Well, I mean, just go inside, and if you see anything that is dangerous, kill it.”
+
+“Do we look dangerous?”
+
+“If you were bad people, yes.”
+
+Norbus looks at my mace and decides it is furniture.
+
+Vukradin begins constructing terms. “I just want to be clear. All of the treasure — you call it relics, all of that stuff — you're going to be returning that to the rightful owners, correct?”
+
+“Yes, of course.”
+
+“Okay, so we'll consider for you.”
+
+“Make sure they don't consider themselves the rightful owners,” Soma says.
+
+“Oh. That's good, mate,” Dazlyn says.
+
+“How green are you?” Norbus asks.
+
+“We've never done this before,” Vukradin says.
+
+“I mean, come on,” Dazlyn says.
+
+“My whole life studying music and nothing else. What do you think?”
+
+“You kids, you whipper snappers,” Norbus says.
+
+We are free to leave and return later. No compulsion binds us except the day already spent reaching this canyon and the prospect of walking away from valuable magic.
+
+“I've already made the day's journey.”
+
+“We may as well have a look around and decide if it's worth our effort,” Soma says.
+
+Before we pass deeper into the temple, Norbus stops us. He concedes that fairness requires one final disclosure.
+
+“We did ask,” someone behind me says.
+
+The dwarves did see an ochre jelly. Norbus admits that they fled before confronting it.
+
+“I mean, just very dangerous creatures. We ran out before we could face them.”
+
+“Aren't those really bad?” Vukradin asks.
+
+“Look, we are dwarven prospectors and explorers. I don't know whether what makes a dangerous monster or an easy monster. You've got swords, and you know how to cast spells, and you have a buff shell.”
+
+“The shell doesn't help me eliminate the jelly.”
+
+“Well, I mean, what I'm trying to say is that you seem to me as powerful, worthy adventurers.”
+
+“None of us has ever done this,” Vukradin says.
+
+“Stones are worth a lot of money, guys,” Vukradin says.
+
+“Come on.”
+
+“Wait, how much?” Soma asks.
+
+“I don't know. I think we might be able to get like a couple hundred gold pieces for them.”
+
+“Well, that would be a big, big update. But we need to keep ourselves alive.”
+
+“Oh, sure.”
+
+“Jelly,” Vukradin says.
+
+He weighs starvation against acid, and starvation wins.
+
+“When your alternative is starving, you're willing to take some risks.”
+
+I turn toward the open doorway. Behind me, Norbus has accepted my magic as useful without accepting my god as true.
+
+---
+
+## 02.08 Soma — Secrets of the Buried Temple
+
+I take the front. I am the toughest, and there is little left for age to threaten me with. My shell is thick. My joints complain before danger arrives, which is useful in its own way.
+
+Valphine notices the seam in the foyer wall. Of course she does. The rest of us have been staring at stone, while she has been staring at the correct stone.
+
+Vukradin steps toward it. “I've never been through a secret door. That sounds cool. I'll go first.”
+
+“Oh, really? You'll lead the charge? All right.”
+
+He goes through before good sense can catch him. *Shell sprout.* I follow close enough to pull him back if the temple bites. The hidden passage gives us a short hallway and an ordinary door, which is a disappointing thing to put at the end of a secret.
+
+“Is it a secret door?”
+
+It is not.
+
+There are doors to the north and east. The stone under my feet is dusty but worked, and the air carries the dry grit of an old collapse.
+
+“East.”
+
+The eastern chamber has taken the worst of an earthquake. Broken stone fills part of it, and the remaining walls hold nothing useful. No tools. No furnishings. Nothing that explains why anyone built a hidden route to reach it.
+
+Vukradin studies the rubble. “That's where we're stopping. Come on. I mean, if that's it, then let's go through the other door.”
+
+We leave the collapsed chamber and take the next hallway. At its end, Vukradin turns to Valphine.
+
+“Valphine, do you see anything?”
+
+“No, I don't.”
+
+“Well, I mean, if you really want me to look, I guess I can look.”
+
+Someone behind us admits, “I'm just not very good at looking for things like that.”
+
+Vukradin examines the wall, pauses, and finds nothing. “Like I said, I didn't see anything.”
+
+Then the second hidden door becomes apparent. No ochre jellies fall from the ceiling. This is fortunate, though less interesting.
+
+“Oh, there's a secret door.”
+
+The passage beyond runs back toward the foyer. I stop and look behind us, then ahead again. The turn is wrong. Temples can be badly built, but stoneworkers do not usually waste this much labor without a reason.
+
+“This doesn't seem like a very useful passage. It looks like it takes us right back to where we had been.”
+
+I trace the direction with Meril’s Staff. “So there's, yes, the passageway leads north that way.”
+
+“Odd.”
+
+“Yeah, that is a weird, weird layout. I wonder what this. There must have been something in that earthquake room at some point.”
+
+“Did we search in there?”
+
+We did. There was nothing of value.
+
+“Nothing of value,” Vukradin repeats.
+
+Valphine looks back toward it. “No signs of other exits or anything.”
+
+“No, no.”
+
+“Weird.”
+
+The rubble is the obvious problem. Vukradin turns around.
+
+“Did we clear the rubble?”
+
+“In the big room, did we?”
+
+We have not cleared it. The chamber is only partially collapsed, which Vukradin takes as an invitation.
+
+“So if I go back in here, is there can I clear the rubble?”
+
+He can move stone. Brewbarry can move more. I can move earth if needed. The more useful question is whether the ceiling will remain above us afterward.
+
+“But it's only partially collapsed. It's not fully collapsed.”
+
+Mostly dead.
+
+“...is still alive.”
+
+“That's right. Slightly alive.”
+
+We begin carefully. Stones grind against one another. Dust gets into my nostrils, and small pieces shift farther inside the pile. Nothing falls, but the ceiling answers each movement with a faint scrape. Enough digging could open a route. It could also bring down the rest of the chamber.
+
+Valphine calls it first. “I think we should look around more. This seems unproductive.”
+
+She is probably right. I do not leave.
+
+“I still have architectural questions about this place that make this room very interesting.”
+
+“Well, they were mining it and it kind of collapsed while they were mining it.”
+
+“Was it a room or a mine shaft?”
+
+Someone examines the walls. “Like, what is it? Like, how furnished is this room — or finished, I should say?”
+
+“It's just a cave.”
+
+It is not. The walls belong to the temple complex, and several blocks protrude from them at deliberate intervals. I walk between them and turn toward the chamber entrance. From here, a defender could shelter behind the blocks while striking at anyone entering.
+
+Except the cover faces the wrong threat.
+
+“There's only one entrance in the chamber.”
+
+The dust lies thick against the northeast wall. The blocks protect defenders from that direction, not from the doorway we used.
+
+“Well, currently.”
+
+The rubble has not merely damaged a room. It has sealed another entrance and buried the temple wing beyond it. Northeast. The useless passage, the defensive blocks, the earthquake chamber. They fit now.
+
+Vukradin looks at the blocked wall. “But it's no longer accessible.”
+
+“Yes.”
+
+“All right.”
+
+I rest Meril’s Staff against the floor and listen to the stone settle. We can dig later, when the temple has fewer ways to fall on my bale.
