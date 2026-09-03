@@ -1,0 +1,90 @@
+Starting Campaign Generator on http://localhost:5000
+  config: dropping retired session_doc.yaml top-level field(s) scrub — the mechanics-scrub CLI they configured was retired in favor of the `/scrub` Claude Code skill, which has no config-driven knobs.
+ERROR:    Exception in ASGI application
+Traceback (most recent call last):
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/uvicorn/protocols/http/httptools_impl.py", line 421, in run_asgi
+    result = await app(  # type: ignore[func-returns-value]
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/uvicorn/middleware/proxy_headers.py", line 62, in __call__
+    return await self.app(scope, receive, send)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/applications.py", line 1163, in __call__
+    await super().__call__(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/applications.py", line 107, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/middleware/errors.py", line 186, in __call__
+    raise exc
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/middleware/errors.py", line 164, in __call__
+    await self.app(scope, receive, _send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/middleware/cors.py", line 87, in __call__
+    await self.app(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/middleware/exceptions.py", line 63, in __call__
+    await wrap_app_handling_exceptions(self.app, conn)(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/middleware/asyncexitstack.py", line 18, in __call__
+    await self.app(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/routing.py", line 716, in __call__
+    await self.middleware_stack(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 2531, in app
+    await route.handle(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 1700, in handle
+    await self.original_router.handle(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 2586, in handle
+    await included_router._handle_selected(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 1720, in _handle_selected
+    await original_route.handle(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 1239, in handle
+    await app(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 150, in app
+    await wrap_app_handling_exceptions(app, request)(scope, receive, send)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/_exception_handler.py", line 53, in wrapped_app
+    raise exc
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/_exception_handler.py", line 42, in wrapped_app
+    await app(scope, receive, sender)
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 136, in app
+    response = await f(request)
+               ^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/routing.py", line 473, in app
+    solved_result = await solve_dependencies(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/fastapi/dependencies/utils.py", line 680, in solve_dependencies
+    solved = await run_in_threadpool(call, **solved_result.values)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/starlette/concurrency.py", line 32, in run_in_threadpool
+    return await anyio.to_thread.run_sync(func)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/anyio/to_thread.py", line 63, in run_sync
+    return await get_async_backend().run_sync_in_worker_thread(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 2592, in run_sync_in_worker_thread
+    return await future
+           ^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/anyio/_backends/_asyncio.py", line 1029, in run
+    result = context.run(func, *args)
+             ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/src/CampaignGenerator/server/routers/scene_editor.py", line 87, in get_editor_config
+    return service.resolved_editor_config()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/src/CampaignGenerator/server/session_editor_config_service.py", line 347, in resolved_editor_config
+    cfg = self.get_config()
+          ^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/src/CampaignGenerator/server/session_editor_config_service.py", line 225, in get_config
+    return load_session_editor_config(self.session_doc_path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/src/CampaignGenerator/server/session_editor_config_shared.py", line 503, in load_session_editor_config
+    return SessionEditorConfig.model_validate(raw)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/kroussos/.venvs/main/lib/python3.12/site-packages/pydantic/main.py", line 732, in model_validate
+    return cls.__pydantic_validator__.validate_python(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+pydantic_core._pydantic_core.ValidationError: 1 validation error for SessionEditorConfig
+roster
+  Extra inputs are not permitted [type=extra_forbidden, input_value={'characters': 'Zenvon', ...er': 'Kostadis Roussos'}, input_type=dict]
+    For further information visit https://errors.pydantic.dev/2.13/v/extra_forbidden
+  config: dropping retired session_doc.yaml top-level field(s) scrub — the mechanics-scrub CLI they configured was retired in favor of the `/scrub` Claude Code skill, which has no config-driven knobs.
+  config: dropping retired session_doc.yaml top-level field(s) scrub — the mechanics-scrub CLI they configured was retired in favor of the `/scrub` Claude Code skill, which has no config-driven knobs.
+  config: dropping retired session_doc.yaml top-level field(s) scrub — the mechanics-scrub CLI they configured was retired in favor of the `/scrub` Claude Code skill, which has no config-driven knobs.
+  config: dropping retired session_doc.yaml top-level field(s) scrub — the mechanics-scrub CLI they configured was retired in favor of the `/scrub` Claude Code skill, which has no config-driven knobs.

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "staged-consistency:010-20260821:stage-0",
+  "savedAt": "2026-08-27 05:05 UTC",
+  "decided": 2,
+  "tally": {
+    "approve": 0,
+    "reject": 1,
+    "discuss": 1
+  },
+  "decisions": {
+    "s0-01": "reject",
+    "s0-02": "discuss"
+  },
+  "notes": {
+    "s0-02": "The orcs are a different group"
+  },
+  "discuss": [
+    "s0-02"
+  ],
+  "unmarked": []
+}

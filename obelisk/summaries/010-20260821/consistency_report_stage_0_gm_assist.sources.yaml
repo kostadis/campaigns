@@ -1,0 +1,29 @@
+schema_version: 1
+generated_at: "2026-08-26T21:58:14-07:00"
+stage: 0
+stage_name: gm-assist
+backend: codex-direct
+target: summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md
+report: summaries/010-20260821/consistency_report_stage_0_gm_assist.md
+issues_found:
+  critical: 0
+  moderate: 2
+  minor: 1
+  trivial: 0
+sources:
+  - summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt
+  - docs/entity_registry.yaml
+  - docs/party.md
+  - docs/campaign_state.md
+  - docs/world_state.md
+  - notes/hamun_kost_strategy.md
+  - notes/handouts/player_quest_log.md
+  - notes/cragmaw_castle.md
+  - notes/vtt_transcription_corrections.md
+  - notes/vtt_known_additions.md
+notes:
+  - Direct Codex review using local campaign sources; no external model backend was used.
+  - Canonical spelling corrections were applied before adjudication.
+  - The GM preserved the eastward route as played; the northwest ruling applies prospectively.
+  - The GM ruled that the campaign-state orcs are a different group from the bugbears encountered at the table.
+  - Stage 0 adjudication is complete.
