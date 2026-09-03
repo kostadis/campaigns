@@ -25,3 +25,7 @@ summaries/*/session-nar.tar
 
 # CampaignGenerator activity telemetry (transient, local)
 summaries/*/.cg/
+
+# entity-triage transients (local)
+docs/.triage_queue.json
+docs/.entity_triage_state.json

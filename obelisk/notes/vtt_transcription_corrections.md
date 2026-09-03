@@ -130,8 +130,8 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 
 | Wrong | Right |
 |---|---|
-| red brand, red brands, Red Rand, Red Bran, Red Ran, red-brand | **Redbrand** (session 4: the Phandalin bandit gang; "Red Brand Ruffian" = "Redbrand Ruffian"; session 5: "Red Bran" truncated ASR form) |
-| Red Browns, Red Rans, Red Rands, Red Runes, Red Plance, Red Rats | **Redbrands** (session 5: "Red Browns" = Redbrands, 'w' ASR slip. Session 8: bare "Rands" was tried and reverted — it fires inside "The Red Rands" and yields "The Red Redbrands", so the two-word form is the only safe one) |
+| red brand, Red Rand, Red Bran, Red Ran, red-brand | **Redbrand** (session 4: the Phandalin bandit gang; "Red Brand Ruffian" = "Redbrand Ruffian"; session 5: "Red Bran" truncated ASR form) |
+| red brands, Red Browns, Red Rans, Red Rands, Red Runes, Red Plance, Red Rats | **Redbrands** (session 5: "Red Browns" = Redbrands, 'w' ASR slip. Session 8: bare "Rands" was tried and reverted — it fires inside "The Red Rands" and yields "The Red Redbrands", so the two-word form is the only safe one. Session 10 (GM ruling 2026-09-03): "red brands" moved here from the singular row — it was yielding "Redbrand" and silently dropping the plural. It is a typo, not an identity variant, so it lives here and NOT as a registry alias of Redbrands.) |
 | Forward Giants | **Redbrands** (session 5: player garbled the gang name twice — "Forward Giants, Red Brands?") |
 | notar | **dwarf** (session 5: ASR garble of "dwarf", lower-case) |
 | Roxiga | **Rockseeker** (session 4: "Gundren Roxiga" = Gundren Rockseeker) |

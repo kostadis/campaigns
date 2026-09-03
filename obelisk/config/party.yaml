@@ -12,16 +12,5 @@ characters:
 - name: Pip Thistlewick
   sheet: characters/pip.md
   voice: voice/pip_voice.md
-# Fragment forms (first name only, title only), carried over from the old
-# docs/party.yaml exclusion list. campaignlib.party.load_pc_names reads every
-# entry here, and Registry.known_names()'s multi-word first-token expansion
-# only applies to registry entities — so a bare "Zenvon" is not suppressed
-# from the entity registry or entity-triage queues unless it is its own entry.
-# Sheet-less by design: they are exclusion aliases, not roster members.
-- name: Zenvon
-- name: Veyra
-- name: Sister Maela
-- name: Maela
-- name: Pip
 shared_examples:
 - examples/house_style.md

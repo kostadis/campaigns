@@ -2,7 +2,7 @@
 
 - The session was a Dungeons & Dragons tabletop roleplaying game session set in the town of Phandalin, run by Kostadis as Dungeon Master with Nikhil Reddy as the player controlling the character Zenvon.
 - The party gathered critical intelligence at the Stonehill Tavern by speaking with multiple NPCs about the missing patron Gundren and the threats facing Phandalin.
-- The Red Brands gang was identified as a major threat operating out of Tresendar Manor, with a leader named Glasstaff.
+- The Redbrands gang was identified as a major threat operating out of Tresendar Manor, with a leader named Glasstaff.
 - A mysterious obelisk connected to psionic magic, minds, memory, and transformation was introduced as a potential larger storyline thread.
 - The party successfully ambushed and defeated two goblins and a goblin boss outside a cave, then began scouting the cave interior.
 - The session ended on a cliffhanger with Zenvon coming face-to-face with a giant poisonous snake inside the cave.
@@ -31,12 +31,12 @@ The party spoke with Toblen Stonehill, the broad-shouldered young human owner of
   - Kostadis: Toblen described Gundren as a merchant who brought good business to the town, and expressed concern about his disappearance.
   - Nikhil Reddy: Asked Toblen about Gundren's enemies and any prior conflicts.
   - Kostadis: Toblen deflected, saying he did not want trouble in his common room and that trouble in Phandalin had a habit of following people home, signaling underlying danger in the town.
-  - Kostadis: Later, Toblen revealed that the Red Brands had killed a man named Tell Dendar in broad daylight, after which the man's wife and children vanished. He lowered his voice when sharing this information.
-  - Kostadis: Toblen confirmed that the Red Brands drink at the Sleeping Giant tap house, located on Phandalin's Main Street.
+  - Kostadis: Later, Toblen revealed that the Redbrands had killed a man named Tell Dendar in broad daylight, after which the man's wife and children vanished. He lowered his voice when sharing this information.
+  - Kostadis: Toblen confirmed that the Redbrands drink at the Sleeping Giant tap house, located on Phandalin's Main Street.
 - **Conclusion**
-  - Toblen is aware of the Red Brands' threat but is too fearful to speak openly.
-  - The Red Brands have committed murder and caused disappearances in Phandalin.
-  - The Sleeping Giant tap house was identified as a known Red Brands gathering spot.
+  - Toblen is aware of the Redbrands' threat but is too fearful to speak openly.
+  - The Redbrands have committed murder and caused disappearances in Phandalin.
+  - The Sleeping Giant tap house was identified as a known Redbrands gathering spot.
 
 ------
 
@@ -65,14 +65,14 @@ The party spoke with Elsa, a sharp-eyed dwarf bartender at the Stonehill Tavern.
 The party spoke with Freda, a slight gnomish woman with silver-streaked hair and round spectacles.
 
 - **Details**
-  - Kostadis: Freda appeared nervous and quietly angry. She stated she knew who was behind Gundren's disappearance — the Red Brands gang.
-  - Kostadis: Freda expressed that she wanted the Red Brands gone but did not want her neighbors hurt, implying the party could act as outside agents.
-  - Kostadis: Freda noted that the Red Brands bother everyone in town except Halia, raising suspicion about whether they fear her, owe her, or both.
+  - Kostadis: Freda appeared nervous and quietly angry. She stated she knew who was behind Gundren's disappearance — the Redbrands gang.
+  - Kostadis: Freda expressed that she wanted the Redbrands gone but did not want her neighbors hurt, implying the party could act as outside agents.
+  - Kostadis: Freda noted that the Redbrands bother everyone in town except Halia, raising suspicion about whether they fear her, owe her, or both.
   - Nikhil Reddy: Asked who Halia is.
   - Kostadis: Freda explained that Halia works at the Phandalin Miners Exchange and suggested that anyone wanting to uncover who is behind the criminal activity should start there.
 - **Conclusion**
-  - The Red Brands are the primary gang threatening Phandalin.
-  - Halia at the Phandalin Miners Exchange is a suspicious figure with a possible connection to the Red Brands.
+  - The Redbrands are the primary gang threatening Phandalin.
+  - Halia at the Phandalin Miners Exchange is a suspicious figure with a possible connection to the Redbrands.
 
 ------
 
@@ -81,12 +81,12 @@ The party spoke with Freda, a slight gnomish woman with silver-streaked hair and
 The party spoke with Tuck, Toblen's nine-year-old son.
 
 - **Details**
-  - Kostadis: Tuck told the party that his friend Carp Alderleaf had discovered a tunnel leading into the woods, but Carp's mother forbade him from going near it because the Red Brands (referred to as "red cloaks") had nearly caught him.
+  - Kostadis: Tuck told the party that his friend Carp Alderleaf had discovered a tunnel leading into the woods, but Carp's mother forbade him from going near it because the Redbrands (referred to as "red cloaks") had nearly caught him.
   - Kostadis: Tuck offered to show the party where the tunnel is.
   - Nikhil Reddy: Acknowledged the information and noted it could be useful.
   - Kostadis: Tuck expressed concern about people who get taken not always coming back, referencing multiple prior disappearances.
 - **Conclusion**
-  - A hidden tunnel connected to the Red Brands' territory was identified as a potential point of entry or investigation.
+  - A hidden tunnel connected to the Redbrands' territory was identified as a potential point of entry or investigation.
   - Carp Alderleaf may be able to lead the party to the tunnel.
 
 ------
@@ -110,7 +110,7 @@ The party spoke with Narth, an older weathered human man.
 The party spoke with Lenar, a lean human miner with a dusty gray beard.
 
 - **Details**
-  - Kostadis: Lenar spoke loudly about the general lawlessness of the roads — goblins, bandits, orcs, and the Red Brands — and criticized the town master, Harbin Wester, for doing nothing.
+  - Kostadis: Lenar spoke loudly about the general lawlessness of the roads — goblins, bandits, orcs, and the Redbrands — and criticized the town master, Harbin Wester, for doing nothing.
   - Nikhil Reddy: Asked who Harbin Wester is.
   - Kostadis: Lenar identified Harbin Wester as the useless town master who hides behind notices and wax seals.
   - Kostadis: Lenar confirmed the party had been attacked on the road, referencing Gundren's capture.
@@ -126,14 +126,14 @@ The party visited Daran Edermath, a retired drow adventurer over 500 years old w
 
 - **Details**
   - Kostadis: Daran expressed enthusiasm upon meeting the party and praised Pip's dedication to doing good.
-  - Kostadis: Daran confirmed concern about the Red Brands and stated that someone needs to confront their leader, Glasstaff.
-  - Kostadis: Daran revealed that the Red Brands' safehouse is located beneath Tresendar Manor, a rundown building past the Sleeping Giant.
-  - Kostadis: Daran estimated between 3 and 10 Red Brands at Tresendar Manor but could not give an exact number.
+  - Kostadis: Daran confirmed concern about the Redbrands and stated that someone needs to confront their leader, Glasstaff.
+  - Kostadis: Daran revealed that the Redbrands' safehouse is located beneath Tresendar Manor, a rundown building past the Sleeping Giant.
+  - Kostadis: Daran estimated between 3 and 10 Redbrands at Tresendar Manor but could not give an exact number.
   - Kostadis: Daran mentioned a secondary quest — prospectors in the hills northeast of Phandalin have been chased from the ruins known as Old Owl Well by undead creatures. He identified Old Owl Well as an ancient watchtower of the magical empire Netheril and expressed concern about dangerous magic there. (The "northwest" direction spoken at the table was later ruled a verbal error.)
   - Kostadis: Daran offered boots of striding and springing as a reward for investigating Old Owl Well.
   - Kostadis: Daran urged the party to prioritize rescuing Gundren before pursuing side quests.
 - **Conclusion**
-  - The Red Brands' safehouse is beneath Tresendar Manor, led by Glasstaff.
+  - The Redbrands' safehouse is beneath Tresendar Manor, led by Glasstaff.
   - Old Owl Well is a secondary quest involving undead and potentially dangerous ancient magic.
   - Rescuing Gundren remains the most time-sensitive priority.
 
@@ -252,9 +252,9 @@ Zenvon scouted further into the cave after the combat.
 - **Darkness in the cave**: Zenvon (halfling) lacks darkvision, and using a light source will eliminate stealth. The party must coordinate around Sister Maela and Veyra for navigation in dark areas.
 - **Giant poisonous snake**: A giant snake was discovered blocking a passage inside the cave; the party has not yet engaged it.
 - **Wolves in the cave**: Three wolves were spotted chained inside the cave and could become a combat threat.
-- **Red Brands threat in Phandalin**: The Red Brands gang continues to operate freely in Phandalin, with their safehouse at Tresendar Manor and their leader Glasstaff not yet confronted.
+- **Redbrands threat in Phandalin**: The Redbrands gang continues to operate freely in Phandalin, with their safehouse at Tresendar Manor and their leader Glasstaff not yet confronted.
 - **Sister Garaele's injury**: Sister Garaele returned to town wounded and is not speaking about what happened; her situation remains unresolved.
-- **Halia's suspicious connection to the Red Brands**: Halia at the Phandalin Miners Exchange has not been visited, and her relationship with the Red Brands is unclear.
+- **Halia's suspicious connection to the Redbrands**: Halia at the Phandalin Miners Exchange has not been visited, and her relationship with the Redbrands is unclear.
 - **Obelisk fragments**: The threat of someone assembling the black stone obelisk fragments remains an unresolved background danger.
 
 ------
@@ -265,9 +265,9 @@ Zenvon scouted further into the cave after the combat.
   - Regroup with the party after retreating from the giant snake and plan how to proceed deeper into the cave.
   - Coordinate with Sister Maela and Veyra to navigate dark areas of the cave using darkvision.
   - Rescue Gundren from the goblin cave as the primary objective.
-  - Visit Halia at the Phandalin Miners Exchange to investigate her connection to the Red Brands (deferred until after the rescue).
+  - Visit Halia at the Phandalin Miners Exchange to investigate her connection to the Redbrands (deferred until after the rescue).
   - Speak with Sister Garaele through Sister Maela to learn what happened to her (deferred until after the rescue).
   - Investigate the hidden tunnel discovered by Carp Alderleaf (future task).
   - Return to the Shrine of Luck acolyte after rescuing Gundren to receive the next quest.
   - Investigate Old Owl Well and the undead threat to earn the boots of striding and springing from Daran Edermath (future side quest).
-  - Confront the Red Brands at Tresendar Manor and deal with their leader Glasstaff (future task).
+  - Confront the Redbrands at Tresendar Manor and deal with their leader Glasstaff (future task).

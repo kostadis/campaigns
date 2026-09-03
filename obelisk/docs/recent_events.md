@@ -11,12 +11,12 @@ _Window: all chapters (chapters 1–3)._
 ## Chapter 1
 
 - The elf acolyte blessed the party.
-- The Red Brands nearly caught Carp Alderleaf near the tunnel.
+- The Redbrands nearly caught Carp Alderleaf near the tunnel.
 - Zenvon came face-to-face with a giant poisonous snake inside the cave at the end of the session.
 - The party began scouting the cave interior after the ambush.
 - All three enemies were defeated and no party members took damage.
 - Looting the bodies yielded no coins but produced a scimitar and a javelin.
-- Confronting the Red Brands at Tresendar Manor is a future task.
+- Confronting the Redbrands at Tresendar Manor is a future task.
 - Dealing with the leader Glasstaff is a future task.
 - The wife and children of Tell Dendar vanished after his murder.
 - Kostadis does not enforce encumbrance rules in this campaign.
@@ -27,8 +27,8 @@ _Window: all chapters (chapters 1–3)._
 - The goblin boss attacked Pip twice with a scimitar and missed both times.
 - Rescuing Gundren from the goblin cave is the primary objective.
 - Multiple NPCs warned that Gundren's captors may kill him if they stop extracting information.
-- Investigating Halia's connection to the Red Brands is deferred until after the rescue.
-- Halia's relationship with the Red Brands is unclear and she has not been visited.
+- Investigating Halia's connection to the Redbrands is deferred until after the rescue.
+- Halia's relationship with the Redbrands is unclear and she has not been visited.
 - Halia has not been visited yet.
 - Using a light source will eliminate stealth.
 - The party lowered Pip without requiring a roll.
@@ -38,8 +38,8 @@ _Window: all chapters (chapters 1–3)._
 - The party lowered Pip from the snare without requiring a roll.
 - Pip mentioned hearing a whisper saying 'returned'.
 - The party expects to receive the next quest from the Shrine of Luck acolyte.
-- Confronting the Red Brands at Tresendar Manor and dealing with Glasstaff is a future task.
-- The Red Brands killed a man named Tell Dendar in broad daylight.
+- Confronting the Redbrands at Tresendar Manor and dealing with Glasstaff is a future task.
+- The Redbrands killed a man named Tell Dendar in broad daylight.
 - The party plans to regroup after retreating from the giant snake.
 - Zenvon retreated silently from the snake to end the session.
 - Zenvon slowly tiptoed back to the party, ending the session on the cliffhanger.
@@ -57,7 +57,7 @@ _Window: all chapters (chapters 1–3)._
 - Carp Alderleaf discovered a tunnel leading into the woods.
 - Veyra fired a Firebolt, killing the second goblin with 5 points of damage.
 - Veyra fired a magic missile at the goblin boss, dealing 3 points of damage.
-- Visiting Halia to investigate her connection to the Red Brands is deferred until after the rescue.
+- Visiting Halia to investigate her connection to the Redbrands is deferred until after the rescue.
 - Zenvon missed with a crossbow shot after rolling a natural 1 in the surprise round.
 - Zenvon rolled a natural 20 with a dagger, killing one goblin outright in a decisive strike.
 - Zenvon hit the goblin boss with a short sword for 9 points of damage.
