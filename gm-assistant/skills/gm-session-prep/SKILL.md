@@ -171,7 +171,18 @@ Co-GM working doc. Not canon yet — staging for {what session}.
 
 1. Read the docs in the order above. Take ~5 minutes of clock time max — don't try to absorb everything; scan for what matters for this beat.
 2. Ask the 1-4 inputs the user hasn't supplied, one at a time.
-3. Draft the doc to `notes/session_prep/{YYYYMMDD}_{slug}.md` if that path exists, else to `notes/{slug}.md`. The user can move it.
+3. **Draft the doc to `notes/session_prep/{YYYYMMDD}_{last_chapter_title}.md`.** Create `notes/session_prep/` if it does not exist — do not fall back to a flat `notes/{slug}.md` just because the directory is missing, and do not name the file after the location or the beat.
+
+   - **`{YYYYMMDD}` is the date the prep is written**, not the date of the session being prepped and not the date of the chapter it follows.
+   - **`{last_chapter_title}` is the title of the most recent *played* chapter**, snake-cased, chapter number included — the session this prep picks up from. Take it verbatim from that session's summary heading. A prep written on 2026-09-04 to follow `# Chapter 10 The Wizard of the Old Owl Well` is:
+
+     ```
+     notes/session_prep/20260904_chapter_10_the_wizard_of_the_old_owl_well.md
+     ```
+
+   **Why the last chapter and not the next one:** the chapter being prepped has no title yet, and it will not have one until it is played and summarised — sessions routinely stop somewhere other than where the prep expected, so a forward-looking name goes stale the moment the dice hit the table. Naming from the played chapter makes the filename a stable, sortable pointer to a document that already exists, and it means the prep and the summary it descends from can be lined up by eye.
+
+   The `# H1` inside the doc is still the evocative session title — the filename is an index, not a headline. If prep gets rewritten before the session runs, overwrite the same file rather than minting a second date.
 4. Open with a 2-3 sentence summary of what you understood from the docs so the user can catch you if you misread.
 5. Produce the working doc. **Write the three mandatory blocks before writing any scene** — building the cast sheet first is also how you catch NPCs you were about to leave unintroduced.
 6. **Re-read your own scenes and check every named NPC appears in the cast sheet.** If one doesn't, add it — that is exactly the NPC that will surprise the GM.
