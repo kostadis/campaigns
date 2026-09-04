@@ -73,3 +73,40 @@ proposing — `“Medic!”` was scrubbed on exactly this basis while
   quoted lines, which was the correct outcome: the party over a map, deciding.
   Check for this shape whenever a scene is planning or logistics rather than
   encounter or conversation.
+
+## Recaps and table mechanics — standing rulings (2026-09-04)
+
+Added during the Chapter 10 `/remove-recap` + `/no-mech` run. None of it is
+scannable; this file is the only thing that stops the next run re-asking.
+
+**Recaps are cut by default.** The recording opens with the GM catching the table
+up on last time; that belongs to the previous chapter's document, which already
+exists. Cut all three surfaces in one pass — the scene, the `## Summary` prose in
+`session_summary.md`, and the enhanced-summary file that `sd_narrate` takes as its
+recap argument. The scheduling chatter that precedes a recap goes with it.
+
+**Rescue before cutting, always.** A recap can carry canon that cannot exist in
+the previous chapter — ch10's recap is where the party learned the sword is named
+**Talon**, because the GM read the name aloud and then said "Fine. We now learned
+its name." Rescued content goes to the **entity's own record**, not smuggled into
+a scene it did not happen in.
+
+**Roll callouts inside roleplay scenes: cut the call and the number, keep the
+result.** "Roll an Insight check" and "Fourteen?" go; what the character learns
+from it stays. Ruled ch10 sc04/05/07.
+
+**Mechanical rewards and their bookkeeping are cut** — the +1 Investigation
+bonus award in ch10 sc03, and the four lines of "make a note of it" that followed.
+
+**But an out-of-character exchange that pays off an in-fiction beat is KEPT.**
+Ch10 sc03: the GM denied Daran ever mentioned Netheril, Zenvon's notes proved
+otherwise, and the GM conceded — *"Thank you, I think that's why we have the
+notes."* That is the payoff to Daran's ten-minute lecture and it stays. The test
+is not "is this out of character" but "does cutting it cost a beat".
+
+**Wall-clock and session-scheduling talk is always cut.** "it's almost 7.40",
+"we'll continue next week".
+
+**A GM prompt that sets up a character beat is KEPT even though it is mechanically
+shaped.** Ch10 sc08: *"Do you want to tell her anything, or just look at her
+knowingly?"* produced the best moment in the scene.

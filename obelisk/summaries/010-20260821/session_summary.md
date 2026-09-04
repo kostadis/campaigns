@@ -4,12 +4,6 @@ Date: 2026-08-21
 
 ## Summary
 
-The heroes of Phandalin gathered themselves after their harrowing escape from Tresendar Manor, taking stock of what lay ahead. Their narrow flight from the bugbear barracks — made possible only by Zenvon's desperate gambit of flooding the hallway with oil and setting it ablaze — had bought them just enough time to seal the manor door behind them. But the chaos of that escape had left loose ends dangling: three of the four bugbears had survived the fire and what became of them afterwards was anyone's guess, and the Nothic Ssarnak's chilling whisper to Veyra — that her teacher was not dead, merely somewhere that death did not come easily — hung over the group like a storm cloud. Veyra had gone pale at the words and nearly turned back toward the crevasse and the thing still whispering in it, only to be physically restrained by Sister Maela and dragged to safety.
-
-In the quiet aftermath, Zenvon made a choice he had been putting off since the road. He reached into his pocket and produced the black stone he had been carrying in secret, and when it came near Veyra's blue crystal, her crystal flared and the two objects resonated with an unseen magical force. The two exchanged a long look. Combined with the two dead goblins whose elongated skulls and strained faces matched Sildar's account, and Ssarnak's whispered revelation, the pieces were beginning to form a picture none of them were entirely ready to name. Veyra recalled her adviser Orryn Voss and his theory that some kind of device was controlling people. What had once sounded like an implausible obsession now seemed disturbingly credible. Zenvon kept his own growing conclusions to himself, though he trusted Veyra more than before; Sister Maela watched the exchange with a sour expression the others could not fully interpret.
-
-After resting at the Stonehill Inn, the party presented the Black Spider's letter to Sildar Hallwinter, confirming that Iarno Albrek had betrayed the Lords' Alliance. Sildar paid the remaining 150 gold pieces of their agreed reward and offered a further bounty for Iarno's capture, preferring him alive for trial in Neverwinter while admitting that he would not be upset if the traitor returned dead. At the Shrine of Luck, Sister Garaele hailed them as the new heroes of Phandalin and asked them to carry a jeweled silver comb to the banshee Agatha in exchange for information about Bowgentle's legendary spellbook. At the Miner's Exchange, Halia Thornton offered 100 gold pieces for correspondence recovered from Glasstaff; Zenvon refused, leaving the party convinced that Halia knew much more than she admitted.
-
 With the party still at the Miner's Exchange, Zenvon reviewed every open lead: Old Owl Well, Wyvern Tor, Agatha's Lair, Thundertree, and the main pursuit of the Black Spider at Cragmaw Castle. The precise location of Cragmaw Castle remained unknown. The party could pursue the main quest immediately, but side work promised experience, power, magical items, and potentially useful intelligence. Zenvon chose Old Owl Well in part because, as he put it, “since I've recently gained Magic powers,” he wanted to investigate the ancient magical site.
 
 The DM also reminded the party that unfinished business could produce later consequences. The surviving bugbears were unaccounted for, Halia's real motives remained uncertain, and the manor itself had not been revisited after the escape. Zenvon knowingly chose to leave those threads unresolved, curious about what the surviving bugbears might do next.
@@ -63,52 +57,6 @@ The faint smell of smoke hung in the air as the party climbed a rugged ridge on 
 ## Scenes
 
 ### A Heroic Recap
-
-#### The DM recaps the party's recent exploits, including the rescue of the Dendrar family and a narrow escape from the Redbrand hideout.
-
-- Zenvon Forepot reaches third level and adopts the Arcane Trickster archetype, gaining Mage Hand and Minor Illusion. The party had not taken a long rest after leveling.
-- The unresolved dangers beneath Tresendar Manor included four bugbears in the barracks and the still-living Nothic in the crevasse.
-- The Dendrar family had barricaded their prison-cell door with furniture after seeing the skeletal guardians outside. Zenvon called, “Hey guys, it's me, I'm back for you, it's all safe now, you can let go of the door, let me help you,” after which the furniture scraped aside and the door opened.
-- The skeletons recognized the party's red cloak, silently stepped aside, and returned to their resting positions.
-- The party rescues Mirna Dendrar and her children, 13-year-old Nars and 18-year-old Nilsa, from the prison cells in Tresendar Manor.
-- Zenvon first offers the starving captives food and water.
-- Mirna explains that the Redbrands murdered her husband, Thel, several days earlier and intended to kill the rest of the family. She delayed them by falsely claiming that wealthy relatives in Neverwinter would pay a ransom.
-- When Mirna asks about Thel, Zenvon fails to conceal what happened and delegates the explanation to Sister Maela, who makes the truth of his death more bearable without describing the Nothic feeding upon him.
-- Mirna reveals the location of a hidden emerald necklace behind storage shelves in her family's former alchemy shop in the southeastern part of ruined Thundertree. She asks the party to take it if they pass that way and to recover Thel's body if possible.
-- The party escorts Mirna and her children through Tresendar Manor and safely delivers them to the outskirts of Phandalin.
-- Returning stealthily through the apothecary and cavern, the party hears the distant, wet sounds of the Nothic feeding upon fallen bodies.
-- Zenvon uses Minor Illusion to reproduce the sound of Glasstaff working in his workshop. Recognizing its supposed master, the Nothic falls silent and creeps away to investigate.
-- Zenvon descends into the crevasse and uses Mage Hand to open a hidden chest from a safe distance, wary of traps, mimics, and monsters that exist to teach adventurers “don't touch.”
-- The chest contains 120 gold pieces, 160 silver pieces, five malachite gems (12 gp each), potions of healing, climbing, and growth, and an unidentified magical longsword.
-- The blade is Talon, once wielded by the long-dead knight Aldith Tresendar, though the party did not identify its name or history during play.
-- The party agrees that the sword belongs with its most capable fighter, Pip.
-- Wearing red cloaks, the adventurers approach the bugbear barracks. Sister Maela pushes past Zenvon at the door and hears several gruff voices ordering around a goblin.
-- Zenvon uses Mage Hand to ease the barracks door open. Droop, a miserable goblin, immediately faints at the sight of the party.
-- The bugbear leader Nosk mocks Zenvon's attempt to claim authority: “leave it to a Redbrand to think he's in charge.”
-- Zenvon realizes the bugbears serve the Black Spider directly rather than Glasstaff and provokes Nosk by asking what the Black Spider would think of his behavior.
-- The gambit works too well: Nosk blurts out that the Black Spider is at Cragmaw Castle, then realizes what he has revealed and attacks.
-- The fight is brutal. Zenvon casts Thunderwave into two bugbears but suffers a 14-point morning-star blow from Nosk and is left barely standing. Sister Maela channels divine power to keep him on his feet, after which another bugbear nearly finishes him.
-- Realizing they are outmatched, the party retreats. Pip slams the barracks door shut to buy time while Zenvon pours flask after flask of oil along the hallway.
-- Zenvon uses Mage Hand to ignite the oil as the bugbears smash through the door. The flames deal five damage to each brute and turn the oil-slicked corridor into treacherous terrain that slows their pursuit.
-- Sister Maela struggles to pull Veyra along as the party races through the tunnels.
-- As the party flees past the crevasse, the Nothic ��� calling itself Ssarnak — whispers to Veyra that her teacher is not dead and is “not in a place where dead is easy.”
-- Veyra stops cold and attempts to turn back. Sister Maela physically grapples her and drags her toward the exit.
-- The party slams and locks the manor door just as the pursuing bugbears begin hammering against the other side.
-- Outside, Veyra asks Pip to describe a black stone he once sold and how it felt to hold.
-- Zenvon finally reveals the black stone he has secretly carried since the road. Veyra's blue crystal flares more brightly as the two objects resonate.
-- Veyra recalls her adviser Orryn Voss and his theory that some form of device was controlling people. The stones, mutated goblins, bodies matching Sildar's account, and Ssarnak's revelation all appear increasingly connected.
-- Zenvon keeps his conclusions private but trusts Veyra more than before. Sister Maela wears an unreadably sour expression.
-- At Stonehill Inn, Toblen offers the party a free night's stay for freeing Phandalin from the Redbrands. Zenvon spends ten silver pieces to have food delivered to the room.
-- After a long rest, the party presents Sildar Hallwinter with the Black Spider's letter from Glasstaff's desk, confirming Iarno Albrek's betrayal.
-- Sildar pays the remaining 150 gold pieces of the agreed reward and offers another bounty for Iarno, preferably alive for trial in Neverwinter, though he admits he would not be upset if Iarno returned dead.
-- Zenvon argues that capturing the Black Spider is the greater priority. Sildar agrees that Iarno may have fled to his master, allowing the party to catch “two birds with one stone.”
-- Sister Garaele tasks the party with bringing a jeweled silver comb to the banshee Agatha and asking about the location of Bowgentle's legendary spellbook. She offers three potions of healing in return.
-- Veyra confirms that Bowgentle appears in her research notes, lending credibility to the story. Zenvon accepts the task while making clear that more pressing business may come first.
-- The party visits Halia Thornton at the Miner's Exchange. Halia congratulates them on defeating the Redbrands but visibly cools when she learns Glasstaff escaped.
-- Halia asks whether they recovered correspondence from Glasstaff's belongings and offers 100 gold pieces for any letters, claiming she wants to ensure local trade is no longer disrupted.
-- Zenvon rebuffs the offer as far too low, and the meeting ends with careful politeness masking mutual suspicion.
-
-### Planning at the Miner's Exchange
 
 #### Zenvon and the party review their current quests and decide to head toward the Old Owl Well.
 
