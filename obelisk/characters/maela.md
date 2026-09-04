@@ -1,3 +1,11 @@
+---
+name: "Sister Maela Dawnforge"
+player: ""
+species: "Dwarf"
+class_level: "Cleric 3"
+subclass: ""
+---
+
 # Sister Maela Dawnforge
 
 **Sidekick** — dwarf cleric, lawful good. Healer, protector, practical advisor for Zenvon Forepot.
