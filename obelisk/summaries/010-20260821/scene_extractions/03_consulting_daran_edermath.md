@@ -45,7 +45,7 @@ source: gmassist
 
 **Zenvon Forepot** — *explaining why the party has come*
 > "Okay, so… I'll… even before going to the Stonehill, I will first go to the orchard."
-> "tell Darren that, Hey, we are starting the next day on your mission, so…"
+> "tell Daran that, Hey, we are starting the next day on your mission, so…"
 > "Is there anything else that we need to know?"
 > "So, I'm gonna go back to him."
 
@@ -94,7 +94,7 @@ source: gmassist
 > "well, there's, like, two ways you could go. You can take the road, which should be safer."
 > "You know, perhaps the… you might even meet the odd, occasional traveler, or you could go through the hills. Of course, when you're going through the hills, you're more likely to hit, some kind of, some… some creature that kind of thinks the hills belong to it."
 > "Plus, I've been… plus… there are… there… there are some bandits, according to the mayor, the Lord Mayor."
-> "Carbon."
+> "Harbin."
 
 **Zenvon Forepot** — *asking whether the bandits are at Conyberry*
 > "At Conyberry?"
@@ -106,7 +106,7 @@ source: gmassist
 > "Right, and so I don't know where they'd be acting from, so you might want to be careful there."
 
 **Zenvon Forepot** — *inviting Daran to join the expedition*
-> "Well, Darren, looks like you know more about Old Owl and the best ways you can lead us there, but would you like to join us?"
+> "Well, Daran, looks like you know more about Old Owl and the best ways you can lead us there, but would you like to join us?"
 
 **Consulting Daran Edermath**
 - Daran considers the invitation for a moment before declining.
@@ -124,7 +124,7 @@ source: gmassist
 > "Make sure your sword is sharpened."
 
 **Zenvon Forepot** — *attempting to write the advice down*
-> "Waitboard, eyes up."
+> "Wait, what? Eyes up?"
 
 **GM** — *clarifying the nature of Daran’s advice*
 > "Yes, he's basically giving you useless advice. Right. You know, the kind of advice, keep your back straight, all your eye, head on a swivel."
@@ -147,14 +147,14 @@ source: gmassist
 > "Alright, then, we'll head back."
 
 **GM** — *Daran enjoys having an attentive listener*
-> "But Darren's very happy that you're taking notes of his,"
+> "But Daran's very happy that you're taking notes of his,"
 > "Of his advice, which basically boils down to keep your back straight, keep an eye out for things. He talks about his old adventuring stories, which you're quite not sure how they apply to anything."
 
 **GM** — *awarding Zenvon a benefit for enduring the lecture*
 > "But, because you suffered through all of that, you do get a plus one on an investigation check, or survival check."
 
 **Zenvon Forepot** — *checking the reward*
-> "I get a plus one on an ignition?"
+> "I get a plus one on an Investigation?"
 
 **GM** — *explaining that the bonus is single-use*
 > "That's a one-time thing, so that's a one-time thing."
@@ -174,7 +174,7 @@ source: gmassist
 > "You could ask him about, like, Halia, you can ask him about those kinds of things, remember."
 
 **Zenvon Forepot** — *remembering a question about Netheril*
-> "Okay, I have… oh, Darren, I just recalled a question about, that I wanted to ask you, like…"
+> "Okay, I have… oh, Daran, I just recalled a question about, that I wanted to ask you, like…"
 > "Tell me… tell me more about, Netheril."
 > "What kind of magic That's… Netheril? Expect over there."
 
@@ -207,7 +207,7 @@ source: gmassist
 
 **Zenvon Forepot** — *consulting the notes and correcting the record*
 > "I… oh, I see, okay."
-> "No, actually, the note says Darren called it an old watchtower of Netheril, so…"
+> "No, actually, the note says Daran called it an old watchtower of Netheril, so…"
 
 **GM** — *acknowledging the mistake*
 > "Oh, oh, oh, sorry, did I… I'm sorry, did my brain… my brain fart. My brain farted. Sorry, yes, yes, yes, yes, yes, yes, yes."
@@ -247,7 +247,7 @@ source: gmassist
 > "And then, as a result, the Netheril Empire fell apart."
 
 **GM** — *questioning the reliability and moral neatness of the story*
-> "But, you know, that's FERT, but let me just tell you something, he pauses and says, those are stories."
+> "But, you know, that's [unclear], but let me just tell you something, he pauses and says, those are stories."
 > "Right? I don't really… you know, like, oh, it's like a big ancient empire that dies because of hubris, right? I mean, come on."
 > "It sounds like, it sounds like a morality play."
 
@@ -302,14 +302,14 @@ source: gmassist
 > "In hands that are not capable of handling those magical things, bad things can happen."
 
 **Zenvon Forepot** — *praising Daran’s caution*
-> "Wisely said, Darren. Wisely said."
+> "Wisely said, Daran. Wisely said."
 
 **GM** — *Daran admits the limits of his knowledge and encourages the expedition*
 > "So I just, you know, I just, just, just, just, you know, that's, that's, that's… but I gotta be honest with you, Zenvon, there's a lot of stories about the Netheril Empire. I… like, I don't know what is true and what is not. What is important is that there is something there that we need to go… that it would be great if you got your hands on."
 
 **Zenvon Forepot** — *taking leave of Daran*
 > "Okay, okay."
-> "Well, I'll see you… When I'm back from the old algorithm."
+> "Well, I'll see you… When I'm back from the Old Owl Well."
 
 **GM** — *Daran’s farewell*
 > "Oh, excellent, excellent."

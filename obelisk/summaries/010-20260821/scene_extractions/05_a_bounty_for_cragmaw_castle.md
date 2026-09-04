@@ -21,7 +21,7 @@ source: gmassist
 - Sildar adds that the Lords' Alliance will “look very kindly” upon whoever clears Cragmaw Castle, implying future favors or opportunities.
 - Zenvon keeps his word to Daran and maintains that Old Owl Well remains the party's immediate destination.
 - Before they leave, Sildar notices the magical sword recovered from Tresendar Manor and says, “my, my, my, that is a fine, noble sword, Pip.”
-- Zenvon rolls a natural 20 on Insight and realizes that Sildar is hinting at a possible opening in the Lords' Alliance for Pip.
+- Zenvon rolls a 20 on Insight and realizes that Sildar is hinting at a possible opening in the Lords' Alliance for Pip. *(The tape records the result as "20" on an unmodified `/r d20`; the GM never calls it a natural 20.)*
 - Zenvon is unsure whether Pip understands the implication and chooses to keep the observation to himself for the moment.
 - The party is reminded of Mirna's treasure in Thundertree before setting out.
 - Toblen wishes the adventurers well as they depart Phandalin.
@@ -66,7 +66,7 @@ source: gmassist
 > "Just find… find the casel, that's it."
 
 **GM** — *stating the full objective*
-> "Well… Locate, defeat, and drive off the bandleaders."
+> "Well… Locate, defeat, and drive off the bandleaders." *(i.e. locate Cragmaw Castle, then defeat or drive off its leader.)*
 
 **Zenvon Forepot** — *recalling an earlier assignment*
 > "Yeah, we've talked about this assignment earlier, haven't we?"
@@ -137,7 +137,7 @@ source: gmassist
 > "Well, I think that's very generous of you, Mr. Sildar."
 
 **GM** — *Sildar again corrects Pip’s form of address*
-> "Sildar, again, explains to him that, no, no, I'm not, So she's,"
+> "Sildar, again, explains to him that, no, no, I'm not…" *(remainder unintelligible; Sildar again waves off the honorific. The stray "she" in the raw capture is ASR noise.)*
 > "So anyway, so he's, he's really happy to hear that. But Sildar kind of stretches back like this. He goes, I just want you to know, Pip, you know, that, that Lords' Alliance will look very kindly on someone who takes care of that Cragmaw castle."
 
 **Zenvon Forepot** — *asking out of character what Sildar’s hint means*
@@ -171,7 +171,7 @@ source: gmassist
 > "Yeah, yeah."
 
 **Pip Thistlewick** — *accepting Zenvon's advice*
-> "tips like… That's a… that's good advice, boss."
+> "That's a… that's good advice, boss." *(raw capture opened "tips like…", an ASR garble of the GM's framing "Pip's like".)*
 
 **GM** — *narrating the turn back to Sildar*
 > "He turns to Sildar and says."
@@ -220,7 +220,7 @@ source: gmassist
 **Zenvon Forepot**
 > "I see what you mean, okay."
 > "I see what you mean."
-> "Slash our D20. Okay, let me just do this."
+> "/r d20. Okay, let me just do this."
 > "Oh, cool."
 
 **GM**

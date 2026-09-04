@@ -32,7 +32,7 @@ An Insight check confirmed that Toblen had never visited Conyberry and was expre
 
 The next morning, Sildar Hallwinter caught them before they could depart, inviting them to sit for breakfast. He laid out a new offer from the Lords' Alliance: five hundred gold pieces for whoever could locate Cragmaw Castle and drive out the band leaders within. Pip's eyes lit up at the figure, and he nudged Zenvon to make sure they at least learned the amount. After hearing the offer, Zenvon quietly pulled Pip aside and reminded him that divided four ways, the reward amounted to only 125 gold pieces each — and the risk was considerable. Pip composed himself and told Sildar, “it's a chunk of change, but we're… you know, we'll keep that under advisement, Sildar.”
 
-Sildar added that the Lords' Alliance would “look very kindly” on whoever dealt with Cragmaw Castle, implying favors and opportunities beyond the monetary reward. Before they left, he noticed the magical sword recovered from Tresendar Manor and remarked, “my, my, my, that is a fine, noble sword, Pip.” Zenvon's natural 20 Insight check revealed that the comment was aimed specifically at Pip: Sildar appeared to be suggesting that success might open a place for him in the Lords' Alliance. Zenvon was uncertain whether Pip understood the hint and chose not to explain it yet.
+Sildar added that the Lords' Alliance would “look very kindly” on whoever dealt with Cragmaw Castle, implying favors and opportunities beyond the monetary reward. Before they left, he noticed the magical sword recovered from Tresendar Manor and remarked, “my, my, my, that is a fine, noble sword, Pip.” Zenvon's Insight check of 20 revealed that the comment was aimed specifically at Pip: Sildar appeared to be suggesting that success might open a place for him in the Lords' Alliance. Zenvon was uncertain whether Pip understood the hint and chose not to explain it yet.
 
 The party set out along the Triboar Trail, covering roughly thirty miles during the first day. The road was quiet — unnervingly so — and along the way they passed the remains of a caravan amid signs of a bandit attack. The evidence confirmed that traffic along the trail had been targeted, though whether the attackers were based at Wyvern Tor, were goblins or Redbrands, or represented some new faction remained unknown. No travelers passed them that day, though the trail was still in use; the region's major flow of trade ran north-south along the High Road rather than east-west.
 
@@ -187,7 +187,7 @@ The faint smell of smoke hung in the air as the party climbed a rugged ridge on 
 - Sildar adds that the Lords' Alliance will “look very kindly” upon whoever clears Cragmaw Castle, implying future favors or opportunities.
 - Zenvon keeps his word to Daran and maintains that Old Owl Well remains the party's immediate destination.
 - Before they leave, Sildar notices the magical sword recovered from Tresendar Manor and says, “my, my, my, that is a fine, noble sword, Pip.”
-- Zenvon rolls a natural 20 on Insight and realizes that Sildar is hinting at a possible opening in the Lords' Alliance for Pip.
+- Zenvon rolls a 20 on Insight and realizes that Sildar is hinting at a possible opening in the Lords' Alliance for Pip.
 - Zenvon is unsure whether Pip understands the implication and chooses to keep the observation to himself for the moment.
 - The party is reminded of Mirna's treasure in Thundertree before setting out.
 - Toblen wishes the adventurers well as they depart Phandalin.

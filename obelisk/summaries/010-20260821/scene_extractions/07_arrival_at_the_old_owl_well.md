@@ -13,7 +13,7 @@ source: gmassist
 - A colorful tent stands in the middle of the courtyard, but no one is visible.
 - Zenvon interprets the tent as evidence that someone is present and senses “Some eeriness in the air.”
 - He advises the party to tiptoe and advance slowly through the main entrance toward the well.
-- As the party enters, twelve zombies shamble out of the tower, including a sun-peeled former sentinel and an acolyte in a singed Red Wizard's robe.
+- As the party enters, twelve zombies shamble out of the tower. *(GM-side prep, not established at the table: among them a sun-peeled former sentinel and an acolyte in a singed Red Wizard's robe. The party observed only "a lot of zombies".)*
 - Sister Maela explains that zombies do not talk and are essentially mindless monsters.
 - Looking toward the tent, she concludes, “there's probably a necromancer.”
 - She explains that a necromancer is a magic-user who reanimates dead corpses and calls the practice “very evil magic.”
@@ -39,7 +39,7 @@ source: gmassist
 - After an awkward silence in which Hamun waits for a question, he asks, ���Now… Zenvon. What is it that you would like to know?”
 - Zenvon asks for the location of Cragmaw Castle. Hamun immediately claims to know it.
 - Hamun offers the castle's location in exchange for a small service.
-- The first option is to deal with marauders at Wyvern Tor who have scouted Hamun's camp and appear inclined to cause trouble.
+- The first option is to deal with marauders at Wyvern Tor who have scouted Hamun's camp and appear inclined to cause trouble. Hamun tells the party only that the group includes several bugbears and an ogre; he does not name Brughor Axe-Biter or the ogre Gog. *(GM-side: the full band is Brughor Axe-Biter, four bugbears and Gog.)*
 - Hamun describes the group as several bugbears and an ogre, explaining that ogres are even tougher than bugbears.
 - He claims he could deal with them himself but does not want to raise more zombies simply to handle his business.
 - The second option is to ask the banshee Agatha for the name of the wizard who built the tower at Old Owl Well.
@@ -62,11 +62,11 @@ source: gmassist
 - A colorful tent stands in the courtyard, but no one is visible.
 
 **GM** — *describing the ruins*
-> "As you crest a low ridge, you spy the crumbling ruins of an old watchtower and mounds of rubble enclosing a cart yard amid the rugged hills. A colorful tent sits in the middle of a courtyard, but no one is in sight."
+> "As you crest a low ridge, you spy the crumbling ruins of an old watchtower and mounds of rubble enclosing a courtyard amid the rugged hills. A colorful tent sits in the middle of a courtyard, but no one is in sight."
 
 **GM** — *repeating the description once the party is positioned on the map*
 > "As you crest a low ridge, you spy the crumbling ruins of an old watchtower, and mounds of rubble enclosing a courtyard among the rugged hills."
-> "Alright. A call for tent sits in the middle of the courtyard, but no one is,"
+> "Alright. A colorful tent sits in the middle of the courtyard, but no one is,"
 > "No one is, but no one is in sight."
 
 **Zenvon Forepot** — *interpreting the camp*
@@ -78,7 +78,7 @@ source: gmassist
 > "That's the Old Owl well. Yeah, that's the, old…"
 
 **Zenvon Forepot** — *surveying the apparently deserted site*
-> "It's the old watch car."
+> "It's the old watchtower."
 > "Yeah, the well is the… all well, I suppose."
 > "So, looks like it is pretty empty, but I sense… Some eeriness in the air."
 
@@ -123,7 +123,7 @@ source: gmassist
 > "Turn, roll, sister, roll your Arcana check."
 
 **Zenvon Forepot** — *reporting the check*
-> "Keynote check, okay."
+> "Arcana check, okay."
 > "It's the 12th."
 
 **GM** — *explaining what Sister Maela knows*
@@ -170,7 +170,7 @@ source: gmassist
 > "You could go into the tent, you could call out for him, there's a lot of things you can do."
 
 **Zenvon Forepot** — *taunting the unseen controller*
-> "So I'm gonna shout, hey, zombie lard."
+> "So I'm gonna shout, hey, Zombie Lord."
 > "I call him Zombie Lord, because, you know, he's controlling. Hey, Zombie Lord, are you afraid to face us? And that's why… is that why you're sending the zombies?"
 > "I mean, I don't expect a response, but I'm just trying to, you know, rage bait."
 
@@ -261,7 +261,7 @@ source: gmassist
 **Zenvon Forepot** — *asking about Hamun's purpose*
 > "Cut right to the point, Hamun. So…"
 > "I just wanted to know, like, what are you doing here in the…"
-> "lost town of Conyberry, and at this old Owl well, like,"
+> "lost town of Conyberry, and at this old Owl well, like," *(Zenvon's own conflation — Old Owl Well and Conyberry are distinct locations. Preserved as spoken.)*
 
 **Hamun Kost** — *describing his work*
 > "Well, I'm… I'm a wizard."
@@ -302,7 +302,7 @@ source: gmassist
 > "So… Hold on, hold on, hold on."
 
 **GM** — *explaining what Zenvon knows about the Red Wizards*
-> "player, you as a player don't know this, but you as a character would. Red Wizards of Thay, there's a wizard kingdom called the Red Wizards of Thay."
+> "player, you as a player don't know this, but you as a character would. Red Wizards of Thay, there's a wizard kingdom called the Red Wizards of Thay." *(Thay is the country; the Red Wizards are its spellcasting order.)*
 
 **Zenvon Forepot**
 > "Okay."
@@ -373,7 +373,7 @@ source: gmassist
 
 **Zenvon Forepot**
 > "Interesting. Wow."
-> "Where can we find the chasm?"
+> "Where can we find the castle?"
 > "Wow. Coordinates."
 
 **Hamun Kost** — *offering an exchange*
@@ -440,8 +440,8 @@ source: gmassist
 **GM** — *narrating Maela's curiosity*
 > "Sister Maela's, like, curious, like,"
 
-**Sister Maela Dawnforge** — *asking why Hamun will not approach Agatha himself*
-> "why don't you ask him yourself?"
+**Sister Maela Dawnforge** — *asking why Hamun will not approach Agatha himself (GM slip on tape: the line is delivered correctly as "ask her yourself" one beat earlier, then repeated as "him"; Agatha is a female banshee)*
+> "why don't you ask her yourself?"
 
 **Hamun Kost** — *admitting his concern*
 > "well, I mean, it's a Banshee, and I don't want to get, you know, killed by a Banshee."
@@ -454,7 +454,7 @@ source: gmassist
 
 **Zenvon Forepot** — *favoring Wyvern Tor*
 > "It looks like going to Agatha seems a bit of a suicide mission, so… I think…"
-> "It's better to deal with the bugbears and the ocres."
+> "It's better to deal with the bugbears and the ogres."
 
 **Sister Maela Dawnforge** — *noting that speaking with Agatha would not necessarily require fighting her*
 > "well, if we were trying to kill the bug, if we're trying to kill her, I couldn't, I couldn't agree with you more."
@@ -469,7 +469,7 @@ source: gmassist
 > "look, if the choice is killing bug beers and ogres, or going and chatting with a Banshee, I'm for chatting with… I'm for dealing with ogres and bugbeers Monday, Tuesday, Wednesday, first day, second day, third day, fourth day, fifth day, sixth day, seventh day, eighth day, ninth day, tenth day, and twice on the 10th day."
 
 **Zenvon Forepot** — *accepting the Wyvern Tor job*
-> "Okay, then we have our answer. We'll go… we'll tell him… we'll tell Hamun that, we'll head to the Wyvern Tor and deal with the bugfires."
+> "Okay, then we have our answer. We'll go… we'll tell him… we'll tell Hamun that, we'll head to the Wyvern Tor and deal with the bugbears."
 
 **Hamun Kost** — *accepting the arrangement*
 > "wonderful, wonderful, and when you're back, I'll make sure that I have that information for you, and maybe I'll even have some… a nice, fine meal for us to drink… to eat."

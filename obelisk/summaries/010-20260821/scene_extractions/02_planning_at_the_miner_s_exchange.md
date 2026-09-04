@@ -84,7 +84,7 @@ source: gmassist
 > "No, no, no, no, I'm… no, those are… I'm actually… I just realized that I should have probably…"
 
 **Zenvon Forepot** — *checking how quest markers work*
-> "So Cuesta are the only ones with the question mark?"
+> "So quests are the only ones with the question mark?"
 
 **GM** — *confirming*
 > "Yes, these are the ones with the question marks."
@@ -208,7 +208,7 @@ source: gmassist
 > "I'm searching."
 
 **GM** — *checking in*
-> "Royd?"
+> "What?"
 
 **Zenvon Forepot** — *reporting a limitation*
 > "We cannot search in this thing, in the log."
@@ -229,7 +229,7 @@ source: gmassist
 > "So, those are your open questmen."
 
 **Zenvon Forepot** — *choosing Old Owl Well*
-> "Okay, I will go to the old owl bell."
+> "Okay, I will go to the Old Owl Well."
 > "since I've recently gained Magic powers."
 > "I would wanna go there."
 
@@ -322,14 +322,14 @@ source: gmassist
 > "No, it's, what's his name? It's,"
 
 **Zenvon Forepot** — *identifying Daran Edermath*
-> "Aaron Idermath at the orchard."
+> "Daran Edermath at the orchard."
 
 **GM** — *confirming*
-> "Yeah, it's Darren here."
+> "Yeah, it's Daran here."
 
 **Zenvon Forepot** — *deciding to consult Daran Edermath before leaving*
 > "Okay, so… I'll… even before going to the Stonehill, I will first go to the orchard."
-> "tell Darren that, Hey, we are starting the next day on your mission, so…"
+> "tell Daran that, Hey, we are starting the next day on your mission, so…"
 > "Is there anything else that we need to know?"
 > "So, I'm gonna go back to him."
 

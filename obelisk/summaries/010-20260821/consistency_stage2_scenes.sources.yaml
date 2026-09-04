@@ -1,0 +1,264 @@
+consistency_check:
+  timestamp: "2026-09-03T22:40:00-07:00"
+  campaign: "/home/kroussos/obelisk/obelisk"
+  stage: 2
+  stage_name: "scene extractions"
+  document_class: "per-scene verbatim extractions (scene_extract output)"
+  session_date: "2026-08-21"
+  config: "/home/kroussos/obelisk/obelisk/config/config.yaml"
+  backend: "codex-cli"
+  grouped: true
+  report: "summaries/010-20260821/consistency_report_stage2_scenes.md"
+  review_artifact: "https://claude.ai/code/artifact/794b4e37-7d4c-4cd2-ad81-d2375a365004"
+  decisions_file: "summaries/010-20260821/stage2_decisions_20260903.json"
+  review_method: "batch — one grouped model call, then one interactive artifact, Accept/Reject/Discuss, JSON export"
+  session_prep_used: true
+  entity_registry_used: true
+
+  note_on_backend: >
+    Stages 0 and 1 of this session both ran codex-cli, and the 010 profile in
+    config/session_doc.yaml specifies it, so this run used codex-cli rather than
+    the skill's claude-code default. Chosen before the run, not after a failure.
+    The run succeeded on the first attempt; no retry, re-shape or backend switch
+    occurred.
+
+  documents_checked:
+    - summaries/010-20260821/scene_extractions/01_a_heroic_recap.md
+    - summaries/010-20260821/scene_extractions/02_planning_at_the_miner_s_exchange.md
+    - summaries/010-20260821/scene_extractions/03_consulting_daran_edermath.md
+    - summaries/010-20260821/scene_extractions/04_preparations_at_stonehill_inn.md
+    - summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md
+    - summaries/010-20260821/scene_extractions/06_journey_along_the_triboar_trail.md
+    - summaries/010-20260821/scene_extractions/07_arrival_at_the_old_owl_well.md
+    - summaries/010-20260821/scene_extractions/08_scouting_wyvern_tor.md
+
+  telemetry:
+    model_calls: 1
+    shared_context_chars: 494298
+    target_chars: 103817
+    repeated_context_chars_avoided: 3460086
+    context_documents: 15
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: "docs/campaign_state.md" }
+      - { label: world_state, path: "docs/world_state.md" }
+    context:
+      - { path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt", role: "second ASR pass — the report's 'alternate transcript'" }
+      - { path: "docs/party.md", role: "PCs and party knowledge" }
+      - { path: "docs/entity_registry.yaml", role: "entity registry and aliases" }
+      - { path: "notes/vtt_transcription_corrections.md", role: "ASR glossary" }
+      - { path: "notes/vtt_known_additions.md", role: "known transcript additions" }
+      - { path: "notes/the_door_they_locked.md", role: "immediately preceding prep" }
+      - { path: "notes/cragmaw_castle.md", role: "route-contingency prep" }
+      - { path: "notes/hamun_kost_strategy.md", role: "antagonist strategy and GM rulings" }
+      - { path: "notes/handouts/player_quest_log.md", role: "player-facing quest state" }
+      - { path: "docs/background/monsters_cr_reference.md", role: "CR reference" }
+      - { path: "docs/background/monsters_phase1_scan.md", role: "module encounter rosters" }
+      - { path: "docs/background/monsters_phase2_descriptions.md", role: "approved monster names" }
+      - { path: "docs/background/monsters_phase3_hierarchy.md", role: "encounter hierarchy" }
+    prep_reused_from_stage: 0
+    registry_note: >
+      The script reported "no entity_registry.yaml found under config/, skipping
+      canon section" — its auto-discovery is config/-only, but the registry was
+      supplied explicitly through --context, so it was in the model's window.
+      Identical behaviour to Stages 0 and 1.
+
+  vtt_adjudicated: true
+  vtt_consulted:
+    - path: "summaries/010-20260821/session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well_transcript.txt"
+      method: "read by hand during adjudication; provenance for rulings, not a --context input"
+      lines_cited: [374, 578, 582, 587, 600, 739, 796, 1237, 1238, 1308]
+    - path: "summaries/008/gm-assist.md"
+      method: >
+        read by hand — THE decisive source for scene 01. Scene 01 is the GM
+        reading Chapter 8's WRITTEN recap aloud, so this file holds the exact
+        intended wording. It settled several findings the report could only
+        offer bracketed guesses for, because the second ASR pass was equally
+        garbled: "decided into the steep fixture" -> "descended into the steep
+        fissure"; "discorded" -> "escorted"; "emerald let class / urban alchemy
+        shop" -> "emerald necklace / herb and alchemy shop".
+
+  scenes:
+    - { id: D01, doc: 01_a_heroic_recap.md, findings: 19 }
+    - { id: D02, doc: 02_planning_at_the_miner_s_exchange.md, findings: 6 }
+    - { id: D03, doc: 03_consulting_daran_edermath.md, findings: 7 }
+    - { id: D04, doc: 04_preparations_at_stonehill_inn.md, findings: 3 }
+    - { id: D05, doc: 05_a_bounty_for_cragmaw_castle.md, findings: 5 }
+    - { id: D06, doc: 06_journey_along_the_triboar_trail.md, findings: 2 }
+    - { id: D07, doc: 07_arrival_at_the_old_owl_well.md, findings: 13 }
+    - { id: D08, doc: 08_scouting_wyvern_tor.md, findings: 5 }
+  cross_scene:
+    - id: s2c-61
+      affected: [D04, D05, D06]
+      issue: >
+        D04 plans a route through Conyberry, D05 still refers to returning
+        "from Conyberry", D06 shows a direct two-day journey that never goes
+        there. The route changed and no scene records when.
+      note: >
+        Structurally invisible to per-scene checking. This is the finding
+        grouped mode exists to produce.
+      resolution: "Applied — transition added to D06 crediting Toblen's warning as the likely cause."
+
+  issues_found: 61
+  severity: { critical: 3, moderate: 12, minor: 30, trivial: 16 }
+
+  resolution:
+    status: "REVIEWED"
+    reviewed_by: "GM"
+    reviewed: "2026-09-03"
+    tally: { accept: 60, pending: 1 }
+    edits_applied: 61
+    critical:
+      - finding: s2c-01
+        target: "01_a_heroic_recap.md"
+        fix: >
+          '"160 gold pieces, 160 silver pieces, 1 twist, 20 gold"' ->
+          '"160 silver pieces and 120 gold"'. The garble had invented a treasure
+          item that has never existed in this campaign.
+      - finding: s2c-02
+        target: "01_a_heroic_recap.md"
+        fix: "\"Gale's body\" -> \"Thel's body\". ASR had invented a person."
+      - finding: s2c-03
+        target: "01_a_heroic_recap.md"
+        fix: >
+          Nosk's death threat had been silently repaired by the extractor and
+          presented as verbatim. Replaced with the table-canon wording, bracketed
+          as an editorial reconstruction. The defect was the silent repair, not
+          the words.
+    diverged_from_recommendation:
+      - findings: [s2c-40, s2c-52, s2c-54, s2c-55, s2c-60]
+        recommendation: reject
+        ruling: accept
+        note: >
+          Legitimate reversals the artifact offered explicitly. s2c-54/55/60
+          reverse Stage 0 rulings s0-04 and s0-06 for the narration layer:
+          GM-side prep (zombie descriptions, the Axe-Biter roster, the sentry's
+          affiliation) is now marked as GM-side rather than presented as
+          party-observed fact.
+      - finding: s2c-35
+        recommendation: reject
+        ruling: accept
+        note: >
+          Applied under protest and recorded here. The finding claims the GM
+          supplied the Conyberry history out of character, but transcript line
+          600 reads "the one thing you DO LEARN FROM HIM was that Conyberry was
+          hurt during the Spellplague" — it is Toblen's information. The applied
+          wording keeps the history accurate and keeps the "never been there"
+          caveat, so no fact is lost either way.
+    editorial_notes_added: >
+      Per the skill, corrected verbatim quotes carry an italic note on the
+      block's speaker line naming the source and the raw capture, rather than a
+      note per corrected word. Bracketed [reconstruction] marks every span where
+      neither ASR pass settles the original.
+    propagated:
+      - finding: s2c-36
+        from: "05_a_bounty_for_cragmaw_castle.md"
+        to: "session_summary.md lines 35 and 190"
+        fix: >
+          "natural 20 on Insight" -> "20 on Insight". The tape has only
+          "What'd you roll?" / "20". Deliberately NOT propagated to the Wyvern
+          Tor navigation roll in the same documents, which the tape DOES call a
+          natural 20 (line 1308) — that is where the word most likely migrated
+          from.
+
+  verification:
+    quote_blocks_preserved: true
+    method: >
+      Quote-line counts compared against git HEAD for all eight scenes:
+      53/142/125/60/98/58/193/31 before and after. No quote block was lost,
+      added or merged. Word counts DO change here, unlike the attribution pass,
+      because these are deliberate text corrections.
+
+  carry_forward:
+    - id: "cf-07"
+      status: CLOSED
+      item: >
+        s2c-09 (01_a_heroic_recap.md:119) exported as pending — no ruling, so no
+        edit was made at the time. The line read "Round and turned the slick,
+        oil-soaked floor… Sister Maela struggling Veyra behind her", reversing
+        who was struggling.
+      resolution: >
+        GM ruled ACCEPT in conversation 2026-09-03. Applied: '"…each round, and
+        turned…"' and '"Sister Maela dragging a struggling Veyra behind her."'
+        Unusually well settled — the written Ch.8 recap, the second ASR pass and
+        world_state.md:244 ("Maela grapples her") all agree. Purely a capture
+        defect in the pass we extracted from.
+      note: >
+        This edit was briefly applied in error during the fix pass, before any
+        ruling, and reverted the same session once noticed. A pending export is
+        not a ruling.
+    - id: "cf-08"
+      status: CLOSED
+      item: >
+        PR #217 (Pip's quest log) stated Zenvon "caught it on a natural 20",
+        repeating session_summary.md's pre-fix claim, which s2c-36 has since
+        corrected to a plain 20.
+      resolution: >
+        GM ruled 2026-09-03: amend the PR description only. Done — the phrase now
+        reads "caught it on a 20", with a dated correction footer citing s2c-36
+        and noting that the commit message retains the original wording. The
+        handout itself was never affected: the quest log does not mention the
+        roll, because Pip does not know about it.
+      url: "https://github.com/kostadis/campaigns/pull/217"
+    - id: "cf-02"
+      status: NOTE
+      item: >
+        gm-assist (session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md)
+        is the GM's PRESERVED ORIGINAL first-pass artifact and intentionally
+        diverges from the corrected downstream documents. This entry is the audit
+        trail so a later reader knows the divergence is deliberate, not missed.
+      ruling: >
+        GM ruled 2026-09-03: leave the file as-is and record the drift here.
+        A preserved original is only useful while it is preserved; a
+        half-corrected one is the worst of both. Nothing downstream reads it —
+        Stage 1 already consumed it.
+      divergences:
+        - line: 6
+          reads: '"the bugbears still lived somewhere below"'
+          corrected_downstream_by: "s1-04 — whereabouts unknown; they had long since left the manor"
+        - line: 24
+          reads: '"promised a fine meal upon their return"'
+          corrected_downstream_by: 's1-06 — the tape says "maybe I will even have some nice, fine meal"'
+        - line: 77
+          reads: '"rolls a natural 20 on an insight check"'
+          corrected_downstream_by: 's2c-36 — the tape has only "What did you roll?" / "20"'
+        - line: 162
+          reads: "Harbin Wester entry, no mention of the Wyvern Tor contract"
+          corrected_downstream_by: "s1-03 — the standing 120-gp contract from Harbin"
+      exception:
+        line: 6
+        note: >
+          One downstream correction WAS propagated here by explicit GM
+          instruction: s1-07, "turned back into the burning corridor" ->
+          "toward the crevasse and the thing still whispering in it". So this
+          file is a preserved original carrying exactly one later fix, and the
+          same line 6 is both corrected (s1-07) and uncorrected (s1-04).
+    - id: "cf-06"
+      status: NOTE
+      item: >
+        Scene extractions now carry four label shapes: GM, PC names, NPC names,
+        and bracketed editorial reconstructions. Downstream parsing must handle
+        all four.
+
+  stages_not_run:
+    - stage: 3
+      name: narration
+      status: "NOT RUN — no artifacts exist"
+      note: "No narration/ directory. Stage 3 did not pass; it did not run."
+
+  notes: |
+    Expected hit-rate note: this is the verbatim layer, and the report's yield
+    here was high and mostly correct — 30 of 61 findings were single-word ASR
+    garbles that no grounding doc could have caught. That is the document class
+    behaving exactly as the skill predicts, and it is why a late-stage one-shot
+    check misses this layer entirely.
+
+    Two findings were wrong (s2c-35, s2c-40); both were surfaced as rejects with
+    tape evidence before the GM ruled.
+
+    One finding was a GM slip rather than an ASR error: s2c-43, where the GM
+    says "ask her yourself" at line 1237 and repeats it as "ask him yourself" at
+    1238. The extractor captured the second take. This is the retracted-slip
+    class the skill flags as high-value, and it means the correct form was
+    already on the recording.

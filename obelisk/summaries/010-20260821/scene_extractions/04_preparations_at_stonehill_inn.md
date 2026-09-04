@@ -18,7 +18,7 @@ source: gmassist
 - He advises the party to keep their eyes peeled but admits that his reluctance may reflect his perspective as a tavern owner rather than the capabilities of the heroes of Phandalin.
 - Toblen reminds them that Sister Garaele's route to Agatha also passes through Conyberry.
 - Zenvon's Insight check of 14 reveals that Toblen has never visited Conyberry and is expressing fears rather than firsthand knowledge.
-- Toblen's historical account is genuine: Conyberry was devastated during the Spellplague and later its inhabitants were killed by Uthgardt raiders.
+- The Conyberry history the party comes away with — devastated during the Spellplague, its remaining inhabitants later killed by Uthgardt raiders — is accurate, though Toblen has never been there himself and is not a firsthand source.
 - The party recalls the Spellplague as an era in which gods played games with mortals.
 - The party takes a long rest at the inn before departing.
 
@@ -98,7 +98,7 @@ source: gmassist
 > "Dangerous to the unwary, people who aren't paying attention."
 
 **Zenvon Forepot** — *reacting to the clarification*
-> "Being a rental. Okay."
+> "Paying attention. Okay."
 
 **Toblen Stonehill** — *advising the party to remain alert and reminding them about Agatha’s route*
 > "Right, so just, just be… what I would do if you're heading in there is just be careful, keep your eyes peeled, but if I were you, I would avoid that town."
@@ -112,7 +112,7 @@ source: gmassist
 
 **Zenvon Forepot** — *reporting the result*
 > "I rolled, wait, what happened?"
-> "I rolled an insert check, but it looks like it's not connected to the… Road 20."
+> "I rolled an Insight check, but it looks like it's not connected to the… Roll20."
 > "14?"
 
 **GM** — *revealing that Toblen’s concerns are not based on firsthand experience*

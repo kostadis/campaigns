@@ -70,53 +70,53 @@ source: gmassist
 > "Yeah. The session opened with the party reaching third level, and Zenvon committing to the arcane Trickster archetype, which handed him Mage Hand and Minor Illusion. He would lean on for the rest of the night, no long rest had been taken. Before driving back in, the DM walked through the open loose heads, the four bugbears in the barracks."
 > "The still-living Nothic, and the Dendrar family who needed escorting out."
 
-**GM** — *recapping the rescue of the barricaded Dendrar family*
+**GM** — *recapping the rescue of the barricaded Dendrar family (ASR corrected against `summaries/008/gm-assist.md`, the written Chapter 8 recap the GM was reading aloud; raw capture read "Myrna")*
 > "The party returned to the prison cells where the Dendrar family had barricaded themselves in terror at the sight of the skeletal Guardians standing watch outside. Zenvon called out the guy to them, Hey guys, it's me, I'm back for you, it's all safe now, you can let go of the door, let me help you, and the sound of furniture scraping across stone was followed by the door swinging open."
 > "The skeletons, recognizing the red cloak, stepped aside and retreated to their resting positions without a sound, and the captives were free at last."
-> "Myrna Dendrar, a human woman with two teenage children, 13-year-old Nars and 18-year-old Nilsa, was overjoyed to see her rescuers. Zenvon, uncertain how to roleplay the moment, offered them food and water first, noting they looked starved."
+> "Mirna Dendrar, a human woman with two teenage children, 13-year-old Nars and 18-year-old Nilsa, was overjoyed to see her rescuers. Zenvon, uncertain how to roleplay the moment, offered them food and water first, noting they looked starved."
 
 **GM** — *recapping Mirna's account of the Redbrands murdering Thel*
-> "Myrna explained that a couple of days ago, the Redbrand had murdered her husband, Thel, and had intended to kill the rest of the family as well. She had bought time by lying about wealthy relatives in Neverwinter who would pay a ransom, hoping some would be come."
-> "When she pressed for news of Thel, Zenvon Hedge, then failed a deception roll. Myrna knew he was lying about the body's whereabouts. Rather than describe the Nothic devouring Thel, Zenvon delegated the grim task to Sister Maela, who avoids saying, probably being torn to stretch and eaten alive by a monster."
-> "And solved it into something bearable. Myrna, satisfied and relieved by the honesty, admitted her never story had been a bluff to buy time."
+> "Mirna explained that a couple of days ago, the Redbrand had murdered her husband, Thel, and had intended to kill the rest of the family as well. She had bought time by lying about wealthy relatives in Neverwinter who would pay a ransom, hoping some would be come."
+> "When she pressed for news of Thel, Zenvon hedged, then failed a Deception roll. Mirna knew he was lying about the body's whereabouts. Rather than describe the Nothic devouring Thel, Zenvon delegated the grim task to Sister Maela, who avoids saying, probably being torn to stretch and eaten alive by a monster."
+> "And solved it into something bearable. Mirna, satisfied and relieved by the honesty, admitted her never story had been a bluff to buy time."
 
 **GM** — *recapping Mirna's reward and request*
-> "In gratitude, she told the party of a valuable emerald let class hidden behind a section of storage shelves in her family's old urban alchemy shop."
-> "In the southeast parcel of the ruined town of Thundertree, insisting that they take it as their own if they ever pass that way. She also asked that they bring Gale's body back if they could."
+> "In gratitude, she told the party of a valuable emerald necklace hidden behind a section of storage shelves in her family's old herb and alchemy shop."
+> "In the southeast parcel of the ruined town of Thundertree, insisting that they take it as their own if they ever pass that way. She also asked that they bring Thel's body back if they could."
 
 **GM** — *recapping the family's safe escort out of Tresendar Manor*
-> "The party discorded the Dendrar family through the ruins of Tresendar Manor and out through a door leading up and out of the front of the building, delivering them safely back to the outskirts of Phandalin. The families secure, the adventurers turned back toward the cellars, with the remaining threats lurking below."
+> "The party escorted the Dendrar family through the ruins of Tresendar Manor and out through a door leading up and out of the front of the building, delivering them safely back to the outskirts of Phandalin. The families secure, the adventurers turned back toward the cellars, with the remaining threats lurking below."
 
 **GM** — *recapping the party's stealthy return and Zenvon's deception of the Nothic*
 > "Moving stealthily through the apothecary and the cavern beyond, they could hear the distant, wet sounds of the Nothic feeding on the bodies of the fallen."
 > "Zenvon used minor illusion to conjure the convincing sound of Glasstaff working in his workshop, and the creature, recognizing its master's presence, fell silent and crept away to investigate, leaving the crevasse and garden."
 
-**GM** — *recapping Zenvon's discovery of the hidden chest*
-> "Zenvon decided into the steep fixture and discovered a hidden chest resting in the darkness below. Using Mage Hand to open it from a safe distance, wary of traps, mimics, and monsters whose only preference in life is to teach you, don't touch. He found…"
-> "160 gold pieces, 160 silver pieces, 1 twist, 20 gold, 5 malachite gems, 3 potions, healing, climbing, and growth, and finally, crafted magical sword, Talon, the blade of the long-dead knight."
-> "Aldith Tressendar, though nobody in the party recognized or learned its name. Fine. We now learned its name."
+**GM** — *recapping Zenvon's discovery of the hidden chest (ASR corrected against `summaries/008/gm-assist.md`, the written Chapter 8 recap the GM was reading aloud; raw capture read "decided into the steep fixture" and "160 gold pieces, 160 silver pieces, 1 twist, 20 gold" — the latter an invented item)*
+> "Zenvon descended into the steep fissure and discovered a hidden chest resting in the darkness below. Using Mage Hand to open it from a safe distance, wary of traps, mimics, and monsters whose only preference in life is to teach you, don't touch. He found…"
+> "160 silver pieces and 120 gold, 5 malachite gems, 3 potions, healing, climbing, and growth, and finally, crafted magical sword, Talon, the blade of the long-dead knight."
+> "Aldith Tresendar, though nobody in the party recognized or learned its name. Fine. We now learned its name."
 
 **GM** — *recapping the party's decision to give the sword to Pip*
 > "Pip was delighted, and the party quietly agreed the sword belonged in the hands of their most capable fighter. With their treasures secured, they turned their attention to the bugbear barracks."
 
 **GM** — *recapping the party's disguised approach to the bugbear barracks*
 > "The party crept to the barracks door and listened, Sister Maela pushing Zenvon aside to catch several gruff voices barking commands at the goblin."
-> "And the goblin tongue. Zenvon used Mage Hand to ease the door open, and the party stepped inside, wearing red cloaks. A miserable goblin named Droop promptly fainted from terror at the sight of them."
+> "[unclear]. Zenvon used Mage Hand to ease the door open, and the party stepped inside, wearing red cloaks. A miserable goblin named Droop promptly fainted from terror at the sight of them."
 
 **GM** — *recapping Nosk's mockery and Zenvon's provocation*
 > "The lead bugbear, a brute named Nosk, laughed at Zenvon's attempts to assert authority, sneeringly, leave it to a Redbrand to think he's in charge."
-> "Zenvon quickly realized that the Bugbier served the Black Spider directly rather than Glasstaff, answering to an entirely different chain of command. Rather than black down, he leaned into the confrontation, rage-baiting Nosk with pointed questions about what the Black Spider would think of his behavior."
+> "Zenvon quickly realized that the bugbears served the Black Spider directly rather than Glasstaff, answering to an entirely different chain of command. Rather than back down, he leaned into the confrontation, rage-baiting Nosk with pointed questions about what the Black Spider would think of his behavior."
 
 **GM** — *recapping Nosk's accidental revelation and attack*
-> "The Gambit worked too well. Nosk, furious and frustrated, blurted out that the black spider was at Cragmaw Castle before the color drained from his face as he realized what you done. It doesn't matter that now, you know, because now I'll kill you! He snarled. The room erupted in violence."
+> "The Gambit worked too well. Nosk, furious and frustrated, blurted out that the black spider was at Cragmaw Castle before the color drained from his face as he realized what he had done. [It don't matter that now you know, because now I kill you!] He snarled. The room erupted in violence."
 
 **GM** — *recapping the brutal fight in the barracks*
-> "The food right was brutal and desperate. Zenvon cast Underwave, and the blast slammed into two bugbeers, but the creatures were powerful and resilient, and scansered with a crushing blow from his morning star."
+> "The fight was brutal and desperate. Zenvon cast Thunderwave, and the blast slammed into two bugbears, but the creatures were powerful and resilient, and Nosk answered with a crushing blow from his morning star."
 > "That dealt 14 points of damage, and left Zenvon barely standing. Sister Maela channeling a little divine energy to keep him on his feet. Another bugwear landed a second vicious strike that nearly finished the job. The party was outmatched, and the realization came quickly. They needed to run."
 
 **GM** — *recapping the party's fiery retreat*
-> "Pip slammed the barracks door shut to buy precious seconds, while Zenvon poured flask after flask of oil across the hallway and down the hallway. Using Mage Hand, he ignited the oil, just as the BarkBear smashed through the shattered door, and the hallway erupted in flames. The fire scorched the brutes for 5 points of damage each."
-> "Round and turned the slick, oil-soaked floor into a treacherous terrain, slowing their pursuit to a crawl. The party dashed through the tunnels towards the manor entrance, Sister Maela struggling Veyra behind her."
+> "Pip slammed the barracks door shut to buy precious seconds, while Zenvon poured flask after flask of oil across the hallway and down the hallway. Using Mage Hand, he ignited the oil, just as the bugbear smashed through the shattered door, and the hallway erupted in flames. The fire scorched the brutes for 5 points of damage each."
+> "…each round, and turned the slick, oil-soaked floor into a treacherous terrain, slowing their pursuit to a crawl. The party dashed through the tunnels towards the manor entrance, Sister Maela dragging a struggling Veyra behind her."
 
 **GM** — *recapping Ssarnak's revelation to Veyra during the escape*
 > "As they sprinted past the crevasse, the Nothic emerged from the shadows and watched them flee. It called itself Ssarnak."
@@ -124,16 +124,16 @@ source: gmassist
 > "The door at the manor entrance was slammed shut and locked behind them just as the bugbearers began hammering on the other side."
 
 **GM** — *recapping the resonance between Zenvon's black stone and Veyra's crystal*
-> "In the quiet aftermath, Veyra turned to Pip and asked him to describe the black stone he had once sold, how it felt to hold. Zenvon made a choice he had been deferring since the road. He told Veyra about the black stone in his pocket, and produce it. Her blue crystal flared even brighter in response."
+> "In the quiet aftermath, Veyra turned to Pip and asked him to describe the black stone he had once sold, how it felt to hold. Zenvon made a choice he had been deferring since the road. He told Veyra about the black stone in his pocket, and produced it. Her blue crystal flared even brighter in response."
 > "The two objects resonating with some unseen magical force."
 
 **GM** — *recapping Veyra's theory about the connected mysteries*
-> "Veyra called her advisor, Orryn Voss, in his theory that some kind of device was controlling people. Theories that it once sounded like the kind of thing people believe, but is it? But with the second glowing rock, the mutated goblins in the crevasse."
+> "[Veyra recalled her adviser Orryn Voss and his theory that some kind of device was controlling people] — theories that had once sounded like the kind of thing only a certain sort of person believes. But with the second glowing rock, the mutated goblins in the crevasse…" *(editorial reconstruction; the raw capture reads "Veyra called her advisor, Orryn Voss, in his theory… Theories that it once sounded like the kind of thing people believe, but is it?")*
 > "The two dead goblins with strained faces that matched Sildar's account, and the Nothics whispered revelation. It was all beginning to feel connected."
 > "Zenvon kept his growing belief to himself, but he trusted her more than he had before. Sister Maela wore a sour expression the party could not fully read."
 
 **GM** — *recapping the party's return to Stonehill Inn*
-> "The party turned to the Stonehill ill, bloodied and exhausted, where Toblen and Stonehill offered them a free night's stay in gratitude for reading the town of the Redbrand. Zenvon paid 10 silver for food sent up to the room. After a long and much-readed rest."
+> "The party returned to the Stonehill Inn, bloodied and exhausted, where Toblen Stonehill offered them a free night's stay in gratitude for ridding the town of the Redbrands. Zenvon paid 10 silver for food sent up to the room. After a long and much-needed rest."
 
 **GM** — *recapping the party's meeting with Sildar Hallwinter*
 > "They met with Sildar Hallwinter, presenting him with the Black Spider's letter, recovered from Glasstaff's desk back in Chapter 6, which confirmed that Iarno Albrek had been working for the Black Spider all along."
@@ -148,7 +148,7 @@ source: gmassist
 
 **GM** — *recapping the tense meeting with Halia Thornton*
 > "Her final stop was the Miner's Exchange, where the guildmaster Halia Thornton greeted them with a smile and congratulations on defeating the Redbrand. Her expression cooled noticeably when she learned Glasstaff had escaped rather than died, and she quickly pivoted to asking whether the party had found any correspondence among his personal effects."
-> "Claiming she wanted to ensure that local trade would be no longer disrupted. She offered 100 gold pieces for any letters they had recovered. Zeno von rebuffed her, suggesting the information was worth far more, and the two parted on carefully polite…"
+> "Claiming she wanted to ensure that local trade would be no longer disrupted. She offered 100 gold pieces for any letters they had recovered. Zenvon rebuffed her, suggesting the information was worth far more, and the two parted on carefully polite…"
 > "war terms, but the party walked away convinced that Halia Thornton knew far more about the Redbrand than she was letting on."
 
 **GM** — *ending the heroic recap with a dramatic flourish*

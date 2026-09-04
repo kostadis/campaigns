@@ -17,7 +17,7 @@ source: gmassist
 - Zenvon silently stares at Veyra and points ahead as if to say, “trust me this time.” Veyra concedes, “well done.”
 - The faint smell of smoke hangs in the air as the party climbs a rugged ridge on the hill's lower slopes.
 - Fifty yards away, a cave mouth opens at the bottom of a ravine.
-- A single Axe-Biter bugbear sentry is hunkered behind a boulder approximately twenty yards outside the cave entrance, evidently keeping watch.
+- A single bugbear sentry is hunkered behind a boulder approximately twenty yards outside the cave entrance, evidently keeping watch. *(GM-side: one of Brughor Axe-Biter's marauders. The party has established only that it is a bugbear.)*
 - The party remains outside the sentry's sight and pauses to plan its approach.
 - The session ends with the cave entrance identified and the lone guard unaware of the party's presence.
 
@@ -29,7 +29,7 @@ source: gmassist
 **GM** — *setting up the search for the marauder camp*
 > "Alright, so we'll, we'll, we'll arrive at Wyvern Tor, and then we'll stop, because it's almost 7.40."
 > "The Wyvern Tor is, the character leading the party can attempt…"
-> "Dc15 wisdom check, or DC-10 survival check per hour to find the camp."
+> "Dc15 wisdom check, or DC-10 survival check per hour to find the camp." *(clarified one line later as DC 15 Wisdom (Perception) or DC 10 Wisdom (Survival) per hour; the scene uses Perception for both attempts.)*
 
 **Zenvon Forepot** — *clarifying the available navigation checks*
 > "Sorry, DC10?"
@@ -64,7 +64,7 @@ source: gmassist
 
 **GM** — *Veyra concedes as the camp comes into view*
 > "Yeah, she's like, well done. And she goes, and so, the camp… the faint smell of smoke hangs in the air as you ascend a rugged ridge on the lower slopes of the hill."
-> "50 yards away, a cave mouth opens up at the bottom of the ravine. Hunkered down by a boulder 20 yards outside the cave, a parent evidently keeping watch is a single bugbear."
+> "50 yards away, a cave mouth opens up at the bottom of the ravine. Hunkered down by a boulder 20 yards outside the cave, evidently keeping watch, is a single bugbear."
 
 **[Scouting Wyvern Tor]**
 - The party stops after locating the cave and its lone bugbear sentry.
@@ -74,11 +74,11 @@ source: gmassist
 > "Here…"
 
 **Zenvon Forepot** — *checking whether the sentry has detected the party*
-> "So, there's a single bugbear. We are not in that site, right?"
+> "So, there's a single bugbear. We are not in that sight, right?"
 > "Are we in the bugbear site, or no?"
 
 **GM** — *confirming the party remains outside the sentry's position*
-> "No, you're not in the bug we were site."
+> "[No, you're not in the bugbear's sight.]" *(editorial reconstruction; both ASR passes are garbled here.)*
 > "So I will… Place you, I will show you the map, right?"
 > "Let me just place you on the map."
 

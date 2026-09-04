@@ -9,9 +9,10 @@ source: gmassist
 
 #### The party travels northeast toward the Old Owl Well, observing the dangerous state of the wilderness.
 
+- Despite discussing a detour through Conyberry the night before, the party takes the direct road toward Old Owl Well and does not visit the ruins. *(Toblen's warning at the Stonehill Inn is what preceded the change of plan; no scene records the decision explicitly.)*
 - The party travels approximately thirty miles along the Triboar Trail during the first day.
 - Day and night initially pass without an attack.
-- Along the way, the party finds signs of a caravan that was attacked and abandoned.
+- Along the way, the party finds signs of a caravan attacked by unidentified bandits and abandoned.
 - The evidence confirms that traffic on the Triboar Trail has been targeted, corroborating reports of danger around Wyvern Tor.
 - The attackers might have been the Wyvern Tor marauders, goblins, Redbrands, or an unknown faction; the evidence does not establish their identity.
 - Although the party sees no wagons or travelers that day, there are signs that people continue to use the trail.
@@ -72,7 +73,7 @@ source: gmassist
 > "Right, so you do find evidence of that. The other thing you notice is that despite all of that evidence, people still seem to be using it."
 
 **Zenvon Forepot** — *asking whether any traffic is currently visible*
-> "So, do I see carriages going back and forth on the tripodrail?"
+> "So, do I see carriages going back and forth on the Triboar Trail?"
 
 **GM** — *answering that no travelers are visible that day*
 > "Not today, not today."
