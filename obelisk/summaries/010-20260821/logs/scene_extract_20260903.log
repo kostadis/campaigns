@@ -1,0 +1,1751 @@
+Entity registry: /home/kroussos/obelisk/obelisk/docs/entity_registry.yaml
+  -> aliases come from the registry; docs/npcs/ dossier frontmatter is superseded (remove the registry to use dossiers instead).
+
+[Parsing VTT | 109,974 raw chars | GMT20260822-010308_Recording.transcript.cleaned.vtt]
+  → 75,984 chars of dialogue
+  Speaker map (5): Filavandrel (Fil)→Zenvon Forepot, Kostadis Roussos→GM, Nikhil→Zenvon Forepot, Nikhil Reddy Mettupally→Zenvon Forepot, kostadis→GM
+  Speaker labels rewritten: 974 line(s); dialogue 75,984 → 66,341 chars
+
+[summary | session_summary.md: 8 scene(s)]
+  1. A Heroic Recap
+  2. Planning at the Miner's Exchange
+  3. Consulting Daran Edermath
+  4. Preparations at Stonehill Inn
+  5. A Bounty for Cragmaw Castle
+  6. Journey Along the Triboar Trail
+  7. Arrival at the Old Owl Well
+  8. Scouting Wyvern Tor
+  Alias map: 381 NPC(s) from None
+
+[Scene extraction | 8 scene(s) | model: None]
+============================================================
+  [1/8] Scene-extracting: A Heroic Recap
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**Zenvon Forepot** — *eagerly returning to the campaign after several weeks away*
+> "I'm happy to be doing this after, like, 3 weeks, or a month."
+> "Last time we did was the character played, right?"
+
+**GM** — *preparing to recap the previous session*
+> "We did a lot of things last time, so I just,"
+> "Let me read to you what happened last time."
+> "And we did the character upgrade, among many other things."
+
+**Zenvon Forepot** — *remembering the party's final stop*
+> "Before that, we went to the Miner's Exchange, and… that's a weird conversation, actually, that's going on with the."
+> "Forgot the lady's name?"
+
+**GM** — *recapping Zenvon's advancement and the dangers still beneath Tresendar Manor*
+> "Yeah. The session opened with the party reaching third level, and Zenvon committing to the arcane Trickster archetype, which handed him Mage Hand and Minor Illusion. He would lean on for the rest of the night, no long rest had been taken. Before driving back in, the DM walked through the open loose heads, the four bugbears in the barracks."
+> "The still-living Nothic, and the Dendrar family who needed escorting out."
+
+**GM** — *recapping the rescue of the barricaded Dendrar family*
+> "The party returned to the prison cells where the Dendrar family had barricaded themselves in terror at the sight of the skeletal Guardians standing watch outside. Zenvon called out the guy to them, Hey guys, it's me, I'm back for you, it's all safe now, you can let go of the door, let me help you, and the sound of furniture scraping across stone was followed by the door swinging open."
+> "The skeletons, recognizing the red cloak, stepped aside and retreated to their resting positions without a sound, and the captives were free at last."
+> "Myrna Dendrar, a human woman with two teenage children, 13-year-old Nars and 18-year-old Nilsa, was overjoyed to see her rescuers. Zenvon, uncertain how to roleplay the moment, offered them food and water first, noting they looked starved."
+
+**GM** — *recapping Mirna's account of the Redbrands murdering Thel*
+> "Myrna explained that a couple of days ago, the Redbrand had murdered her husband, Thel, and had intended to kill the rest of the family as well. She had bought time by lying about wealthy relatives in Neverwinter who would pay a ransom, hoping some would be come."
+> "When she pressed for news of Thel, Zenvon Hedge, then failed a deception roll. Myrna knew he was lying about the body's whereabouts. Rather than describe the Nothic devouring Thel, Zenvon delegated the grim task to Sister Maela, who avoids saying, probably being torn to stretch and eaten alive by a monster."
+> "And solved it into something bearable. Myrna, satisfied and relieved by the honesty, admitted her never story had been a bluff to buy time."
+
+**GM** — *recapping Mirna's reward and request*
+> "In gratitude, she told the party of a valuable emerald let class hidden behind a section of storage shelves in her family's old urban alchemy shop."
+> "In the southeast parcel of the ruined town of Thundertree, insisting that they take it as their own if they ever pass that way. She also asked that they bring Gale's body back if they could."
+
+**GM** — *recapping the family's safe escort out of Tresendar Manor*
+> "The party discorded the Dendrar family through the ruins of Tresendar Manor and out through a door leading up and out of the front of the building, delivering them safely back to the outskirts of Phandalin. The families secure, the adventurers turned back toward the cellars, with the remaining threats lurking below."
+
+**GM** — *recapping the party's stealthy return and Zenvon's deception of the Nothic*
+> "Moving stealthily through the apothecary and the cavern beyond, they could hear the distant, wet sounds of the Nothic feeding on the bodies of the fallen."
+> "Zenvon used minor illusion to conjure the convincing sound of Glasstaff working in his workshop, and the creature, recognizing its master's presence, fell silent and crept away to investigate, leaving the crevasse and garden."
+
+**GM** — *recapping Zenvon's discovery of the hidden chest*
+> "Zenvon decided into the steep fixture and discovered a hidden chest resting in the darkness below. Using Mage Hand to open it from a safe distance, wary of traps, mimics, and monsters whose only preference in life is to teach you, don't touch. He found…"
+> "160 gold pieces, 160 silver pieces, 1 twist, 20 gold, 5 malachite gems, 3 potions, healing, climbing, and growth, and finally, crafted magical sword, Talon, the blade of the long-dead knight."
+> "Aldith Tressendar, though nobody in the party recognized or learned its name. Fine. We now learned its name."
+
+**GM** — *recapping the party's decision to give the sword to Pip*
+> "Pip was delighted, and the party quietly agreed the sword belonged in the hands of their most capable fighter. With their treasures secured, they turned their attention to the bugbear barracks."
+
+**GM** — *recapping the party's disguised approach to the bugbear barracks*
+> "The party crept to the barracks door and listened, Sister Maela pushing Zenvon aside to catch several gruff voices barking commands at the goblin."
+> "And the goblin tongue. Zenvon used Mage Hand to ease the door open, and the party stepped inside, wearing red cloaks. A miserable goblin named Droop promptly fainted from terror at the sight of them."
+
+**GM** — *recapping Nosk's mockery and Zenvon's provocation*
+> "The lead bugbear, a brute named Nosk, laughed at Zenvon's attempts to assert authority, sneeringly, leave it to a Redbrand to think he's in charge."
+> "Zenvon quickly realized that the Bugbier served the Black Spider directly rather than Glasstaff, answering to an entirely different chain of command. Rather than black down, he leaned into the confrontation, rage-baiting Nosk with pointed questions about what the Black Spider would think of his behavior."
+
+**GM** — *recapping Nosk's accidental revelation and attack*
+> "The Gambit worked too well. Nosk, furious and frustrated, blurted out that the black spider was at Cragmaw Castle before the color drained from his face as he realized what you done. It doesn't matter that now, you know, because now I'll kill you! He snarled. The room erupted in violence."
+
+**GM** — *recapping the brutal fight in the barracks*
+> "The food right was brutal and desperate. Zenvon cast Underwave, and the blast slammed into two bugbeers, but the creatures were powerful and resilient, and scansered with a crushing blow from his morning star."
+> "That dealt 14 points of damage, and left Zenvon barely standing. Sister Maela channeling a little divine energy to keep him on his feet. Another bugwear landed a second vicious strike that nearly finished the job. The party was outmatched, and the realization came quickly. They needed to run."
+
+**GM** — *recapping the party's fiery retreat*
+> "Pip slammed the barracks door shut to buy precious seconds, while Zenvon poured flask after flask of oil across the hallway and down the hallway. Using Mage Hand, he ignited the oil, just as the BarkBear smashed through the shattered door, and the hallway erupted in flames. The fire scorched the brutes for 5 points of damage each."
+> "Round and turned the slick, oil-soaked floor into a treacherous terrain, slowing their pursuit to a crawl. The party dashed through the tunnels towards the manor entrance, Sister Maela struggling Veyra behind her."
+
+**GM** — *recapping Ssarnak's revelation to Veyra during the escape*
+> "As they sprinted past the crevasse, the Nothic emerged from the shadows and watched them flee. It called itself Ssarnak."
+> "And as Veyra ran past, it leaned close and whispered something that stopped her cold. Her teacher was not dead. He was not in a place where dead is easy. Veyra went pale and tried to turn back, desperate to speak with a creature, but Sister Maela physically grappled her and held her fast."
+> "The door at the manor entrance was slammed shut and locked behind them just as the bugbearers began hammering on the other side."
+
+**GM** — *recapping the resonance between Zenvon's black stone and Veyra's crystal*
+> "In the quiet aftermath, Veyra turned to Pip and asked him to describe the black stone he had once sold, how it felt to hold. Zenvon made a choice he had been deferring since the road. He told Veyra about the black stone in his pocket, and produce it. Her blue crystal flared even brighter in response."
+> "The two objects resonating with some unseen magical force."
+
+**GM** — *recapping Veyra's theory about the connected mysteries*
+> "Veyra called her advisor, Orryn Voss, in his theory that some kind of device was controlling people. Theories that it once sounded like the kind of thing people believe, but is it? But with the second glowing rock, the mutated goblins in the crevasse."
+> "The two dead goblins with strained faces that matched Sildar's account, and the Nothics whispered revelation. It was all beginning to feel connected."
+> "Zenvon kept his growing belief to himself, but he trusted her more than he had before. Sister Maela wore a sour expression the party could not fully read."
+
+**GM** — *recapping the party's return to Stonehill Inn*
+> "The party turned to the Stonehill ill, bloodied and exhausted, where Toblen and Stonehill offered them a free night's stay in gratitude for reading the town of the Redbrand. Zenvon paid 10 silver for food sent up to the room. After a long and much-readed rest."
+
+**GM** — *recapping the party's meeting with Sildar Hallwinter*
+> "They met with Sildar Hallwinter, presenting him with the Black Spider's letter, recovered from Glasstaff's desk back in Chapter 6, which confirmed that Iarno Albrek had been working for the Black Spider all along."
+> "Sildar was appalled by the betrayal, and paid the party the remaining 150 gold pieces of their agreed reward. He then offered a new bounty for Iarno's capture, preferring him brought back alive to face trial in Neverwinter, though he admitted quietly that he would NOT be upset if he came back dead."
+> "Zenvon argued that capturing the Black Spider was the more important prize, and Sildar conceded the point, noting that Iarno had likely fled straight to his master, and the party might get two birds with one stone."
+
+**GM** — *recapping Sister Garaele's request concerning Agatha and Bowgentle*
+> "The party then paid a visit to the Shrine of Luck, where a scholarly acolyte named Sister Garaele praised them, the new heroes of Phandalin, before making a request of her own. She had previously attempted to approach a powerful undead banshee named Agatha to ask about the location of a legendary spellbook."
+> "Belonging to the mage Bowgentle, but had barely escaped with her life. She asked the party to bring Agatha a jeweled silver comb as a gift to win her favor, offering three potions of healing in return."
+> "Veyra confirmed that Bowgentle appeared in her research notes, a good sign that he was real, and Zenvon accepted the task, though he made clear there were other pressing matters to attend to first."
+> "Pay zero, but not everything."
+
+**GM** — *recapping the tense meeting with Halia Thornton*
+> "Her final stop was the Miner's Exchange, where the guildmaster Halia Thornton greeted them with a smile and congratulations on defeating the Redbrand. Her expression cooled noticeably when she learned Glasstaff had escaped rather than died, and she quickly pivoted to asking whether the party had found any correspondence among his personal effects."
+> "Claiming she wanted to ensure that local trade would be no longer disrupted. She offered 100 gold pieces for any letters they had recovered. Zeno von rebuffed her, suggesting the information was worth far more, and the two parted on carefully polite…"
+> "war terms, but the party walked away convinced that Halia Thornton knew far more about the Redbrand than she was letting on."
+
+**GM** — *ending the heroic recap with a dramatic flourish*
+> "Bum, bum, bum!"
+  ────────────────────────────────────────────────────────
+  Saved: 01_a_heroic_recap.md
+
+  [2/8] Scene-extracting: Planning at the Miner's Exchange
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**GM** — *establishing the party’s location*
+> "You are in Phandalin."
+> "And if I'm not mistaken, you're at the Miner's Exchange."
+> "So… What would you like to do?"
+
+**Zenvon Forepot** — *asking to review every active objective*
+> "That's the toughest question."
+
+**GM** — *OOC banter*
+> "Isn't it?"
+> "It's always the toughest question."
+
+**Zenvon Forepot** — *requesting the quest list*
+> "Can I… can I take a look at all the quests that I have, including the side quest ones?"
+
+**GM** — *assembling the open quests*
+> "Yeah, I'm working on that, give me one second."
+> "I'm sorry, let me just… give me one second, I just realized I hadn't prepared that for you."
+> "Alright, so… So in terms of the open quests, we can go over here."
+> "Let's go Sword Coast Map."
+> "Here are some… here are some of the OCU… This actually might be good enough. See, you've got this quest over here."
+
+**Zenvon Forepot** — *identifying Old Owl Well on the map*
+> "the Old Owl Well."
+
+**GM** — *checking whether the map is visible*
+> "Yeah, wait, hold on. Did I move? Yeah, you should, right?"
+
+**Zenvon Forepot** — *unable to see the GM’s pointer*
+> "I'm able to see the entire map, but are you pointing to something?"
+
+**GM** — *explaining the visible quest markers*
+> "Well, okay, so,"
+> "You can, like, for example, you'll notice there's a question mark here, there's a question mark here, there should also be a question mark over here."
+> "Visible."
+
+**Zenvon Forepot** — *reading the map*
+> "I can see everything in the map, but I cannot see your pointer, or…"
+
+**GM** — *clarifying that the markers themselves show the quests*
+> "No, no, I'm not… my pointer's nowhere, I'm… this is just all the quests you should be able to see."
+
+**Zenvon Forepot** — *reviewing the marked locations*
+> "Yeah, yeah, Old Owl Well… Old Owl well, Work on…"
+> "Yeah, and okay, what's there in the Cragmaw hideout?"
+
+**GM** — *asking which location Zenvon means*
+> "In the what?"
+
+**Zenvon Forepot** — *repeating the location*
+> "In the Cragmaw hideout."
+
+**GM** — *identifying Cragmaw Hideout as the previously visited goblin cave*
+> "Oh, that was where you met the, goblins."
+
+**Zenvon Forepot** — *confirming it is not a new quest*
+> "No quest, right?"
+
+**GM** — *confirming while correcting the map setup*
+> "No, no, no, no, I'm… no, those are… I'm actually… I just realized that I should have probably…"
+
+**Zenvon Forepot** — *checking how quest markers work*
+> "So Cuesta are the only ones with the question mark?"
+
+**GM** — *confirming*
+> "Yes, these are the ones with the question marks."
+
+**Zenvon Forepot** — *identifying Cragmaw Castle*
+> "And I also think Cragmaw Castle has some questions. Okay, yeah, cool. You've added a question."
+
+**GM** — *adding Thundertree to the visible quest locations*
+> "And I think also Thundertree."
+> "Hold on."
+
+**Zenvon Forepot** — *noticing the party token was moved*
+> "Yes, you moved us there."
+
+**GM** — *correcting the accidental movement*
+> "Alright, that was… that was by mistake. I clicked the…"
+> "Alright, so those are the, quests you have."
+
+**Zenvon Forepot** — *identifying another destination*
+> "Agatha's Lair."
+> "Okay, so how does this work? Like, you know, let's suppose I choose a place."
+> "Is traveling also a part of that story? And, you know, could we be attacked on the way?"
+> "Or, you know, some things can… can that happen, or do we directly teleport to the Quest location?"
+
+**GM** — *explaining overland travel*
+> "You travel from point A to point B."
+
+**Zenvon Forepot** — *confirming encounters can occur*
+> "Okay, so things can happen."
+> "Okay."
+
+**GM** — *clarifying*
+> "Oh, I'm sorry, yes, things can happen. Now, you know."
+> "Let's just see, let's… I mean, in terms of distances, right?"
+> "Like, if you're just, like, licking."
+
+**Zenvon Forepot** — *judging Cragmaw Castle to be nearest*
+> "Well, I think Cragmaw Castle is the closest."
+
+**GM** — *noting the castle can wait*
+> "Yeah, yeah, but, like, so, so, so, okay, so let me just give you, sort of, Kostadis' observation, right?"
+> "You still have some stuff that you haven't… like, Cragmaw Castle isn't going anywhere, right?"
+
+**Zenvon Forepot** — *acknowledging the point*
+> "Yep."
+
+**GM** — *distinguishing the main quest from side quests*
+> "Alright, so, so you've got, like, the quests you've got…"
+> "Wait, did I put the old owl well?"
+> "Yes, so you have these open quests here, right? And so one of the things is, like."
+> "you know, do you want to go deal… do you want to go… like, the mainline quest is clearly to go to Cragmaw Castle."
+> "Right? There are these side quests over here. The advantage of side quests is you gain experience points, you gain power, you gain magic items, or you could go straight to the main quests. Totally up to you."
+> "Right, and just to be clear, there's a few loose ends that you've,"
+
+**Zenvon Forepot** — *asking about the loose ends*
+> "Oh, yeah, yeah, yeah, what are those?"
+
+**GM** — *reminding the party about Halia Thornton and the surviving bugbears*
+> "Alright."
+> "Well, there's, like, what is Halia doing, really?"
+> "You know, you could go check out what happened overnight at the manor, like, where are the bug beers? You didn't kill them, remember?"
+
+**Zenvon Forepot** — *remembering the bugbears survived*
+> "Yes, yes."
+
+**GM** — *explaining what the party knows about Cragmaw Castle*
+> "Right."
+> "So…"
+> "And you don't… and so, let me just be clear, you know that Cragmaw Castle is somewhere over here, but you don't know exactly where."
+
+**Zenvon Forepot** — *realizing the castle must still be located*
+> "Oh, I see, okay, okay. It's in the forest, which we might have to find out."
+
+**GM** — *suggesting information may be available locally*
+> "Right, so there might… so there might be information you can get from around here, right? So just to… just to make that clear."
+
+**Zenvon Forepot** — *asking about Agatha’s Lair*
+> "What is there at the Agatha's lair?"
+
+**GM** — *connecting it to Sister Garaele’s quest*
+> "So, Agatha's Lair is the Sister Garaele quest."
+
+**Zenvon Forepot** — *recognizing the quest*
+> "Oh, okay, from the temple."
+> "And… Old Owl Well, Old Owl, well, and Wyvern Tor."
+
+**GM** — *finishing the newly generated quest log*
+> "Hold on, give me one second, I think I finally got everything generated. Give me one second!"
+
+**Zenvon Forepot** — *waiting*
+> "Okay."
+
+**GM** — *presenting the quest log*
+> "Give me one second."
+> "Okay. So…"
+> "Alright, you should now see…"
+
+**Zenvon Forepot** — *identifying it*
+> "Request log."
+
+**GM** — *noting its rough formatting*
+> "Yes."
+> "It's not exactly formatted as exactly where I would like, so I can do that better job, but that's sort of like a feel for what's going on."
+
+**Zenvon Forepot** — *reading garbled quest-log text aloud*
+> "Everywhere, you kind of, it was somebody in the sky."
+> "So, thank you."
+> "All things not point the same direction a shard whipped soul to a peddler born first, and a stones and one carried."
+> "This is the entire transcript."
+
+**GM** — *directing Zenvon to the paid-work section*
+> "So if you want to know the open quests, so these are the op… so the paid work, the paid work section?"
+
+**Zenvon Forepot** — *locating the section*
+> "Paid work, okay."
+
+**GM** — *acknowledging*
+> "Okay."
+
+**Zenvon Forepot** — *trying to search the log*
+> "I'm searching."
+
+**GM** — *checking in*
+> "Royd?"
+
+**Zenvon Forepot** — *reporting a limitation*
+> "We cannot search in this thing, in the log."
+
+**GM** — *switching to a Google Doc*
+> "Yeah, yeah, I'm about to send you… I just realized I did… this is… this was a, as they say, an interesting fail."
+> "Alright."
+> "Too many tech… too many pieces of technology."
+> "Right."
+> "Alright, I just created a Google Doc."
+> "So…"
+
+**Zenvon Forepot** — *reading more garbled quest-log text*
+> "Speed work, okay."
+> "find an or recon writers who's asking how we master the town master when finding all the pieces."
+
+**GM** — *confirming the list*
+> "So, those are your open questmen."
+
+**Zenvon Forepot** — *choosing Old Owl Well*
+> "Okay, I will go to the old owl bell."
+> "since I've recently gained Magic powers."
+> "I would wanna go there."
+
+**GM** — *confirming the decision*
+> "You wanna go there?"
+
+**Zenvon Forepot** — *affirming*
+> "Yes."
+
+**GM** — *raising the remaining unfinished business*
+> "So, you're going… so the only other thing is there's the unfinished business you might want to do…"
+
+**Zenvon Forepot** — *considering leaving it unresolved*
+> "I've seen that. Is that considered as a quest as well?"
+> "I would… I was thinking I can leave it as it is, you know, maybe…"
+> "We'll see what the bugbears are gonna do."
+
+**GM** — *reacting cautiously*
+> "Okay. I just… I mean?"
+
+**Zenvon Forepot** — *remaining uncertain*
+> "I don't know."
+
+**GM** — *warning that unfinished business creates consequences*
+> "I just want to make sure, you know, unfinished business, by the way, causes things later, so I just want to be clear."
+
+**Zenvon Forepot** — *deliberately accepting those consequences*
+> "I know, I know, exactly, you know, you know, they can, that's what I exactly want, you know."
+
+**GM** — *accepting the choice*
+> "Okay."
+
+**Zenvon Forepot** — *speculating about the bugbears*
+> "Want them to bring back any of the hiding… of their hiding brothers?"
+
+**GM** — *moving to route planning*
+> "Okay, so the question you have to ask yourself is, how do you want to get to River and Wyvern Tor?"
+
+**Zenvon Forepot** — *correcting the destination*
+> "Question after question."
+> "No, not Wyvern Tor or older as well."
+
+**GM** — *recognizing the correction*
+> "Oh, Old Owl?"
+
+**Zenvon Forepot** — *confirming*
+> "Yes."
+> "So, I was thinking I will follow the Triboar Trail, And, mmm… Yeah, exit around the…"
+
+**GM** — *asking Zenvon to demonstrate the route on the map*
+> "No, just move your player, move the players, move your… okay, so you're gonna go…"
+
+**Zenvon Forepot** — *adjusting the token*
+> "Yeah, yeah, yeah, yeah, sorry."
+
+**GM** — *calculating travel distance*
+> "That's 9 miles, so you can move about 30 miles a day, so…"
+
+**Zenvon Forepot** — *describing the two possible routes*
+> "So I was thinking, either… either I can go from here to here."
+> "or go all the way onto Conyberry, and then… Cool here."
+
+**GM** — *asking whether the party will use the Conyberry route*
+> "Okay, wanna go to Conyberry?"
+
+**Zenvon Forepot** — *noting both options*
+> "Yeah, two possible routes."
+
+**GM** — *leaving the choice to Zenvon*
+> "Alright, well, it's up to you."
+
+**Zenvon Forepot** — *deciding to gather information before choosing*
+> "But before I go, I need to know about Conyberry, right?"
+
+**GM** — *encouraging him to ask*
+> "Yes, it doesn't hurt… it doesn't hurt to ask."
+
+**Zenvon Forepot** — *agreeing*
+> "Yeah."
+
+**GM** — *suggesting possible sources of information*
+> "Alright."
+> "I presume you're gonna go to the Stonehill Inn, where,"
+> "Sildar is, and tobliners, or do you want to go to the Townmaster's Hall?"
+
+**Zenvon Forepot** — *trying to identify the quest giver*
+> "This is the Town Master's quest, right?"
+
+**GM** — *correcting him*
+> "No, it's, what's his name? It's,"
+
+**Zenvon Forepot** — *identifying Daran Edermath*
+> "Aaron Idermath at the orchard."
+
+**GM** — *confirming*
+> "Yeah, it's Darren here."
+
+**Zenvon Forepot** — *deciding to consult Daran Edermath before leaving*
+> "Okay, so… I'll… even before going to the Stonehill, I will first go to the orchard."
+> "tell Darren that, Hey, we are starting the next day on your mission, so…"
+> "Is there anything else that we need to know?"
+> "So, I'm gonna go back to him."
+
+**GM** — *confirming the transition*
+> "Okay."
+> "So you're gonna go back to him?"
+
+**Zenvon Forepot** — *confirming*
+> "Yep."
+  ────────────────────────────────────────────────────────
+  Saved: 02_planning_at_the_miner_s_exchange.md
+
+  [3/8] Scene-extracting: Consulting Daran Edermath
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**[Consulting Daran Edermath]**
+- The party goes to Edermath Orchard before returning to the Stonehill Inn.
+- Daran Edermath is beside his cottage and orchard, clearing underbrush.
+- The GM describes Daran as a retired drow adventurer.
+
+**Zenvon Forepot** — *explaining why the party has come*
+> "Okay, so… I'll… even before going to the Stonehill, I will first go to the orchard."
+> "tell Darren that, Hey, we are starting the next day on your mission, so…"
+> "Is there anything else that we need to know?"
+> "So, I'm gonna go back to him."
+
+**GM** — *establishing Daran at the orchard*
+> "Right, so he's, he's a retired, retired, you know, as I told you before, he's a retired, drow adventurer."
+> "He's in his little cottage beside the alt-orchard, and he's, you know, and he's clearing out the underbrush."
+
+**GM** — *Daran enthusiastically greets the party*
+> "well, well, well, well, well. I'm… I… the heroes of… the heroes of Phandalin."
+
+**GM** — *Daran praises the party*
+> "well, I have to say, I'm very proud to hear that you guys dealt with the Redbrand."
+
+**Zenvon Forepot** — *modestly describing how they defeated the Redbrands*
+> "Yeah, we, walked… it happened as an accident, like, we didn't intend to, but it was, I guess, God's plan."
+
+**GM** — *Daran reacts and asks about his concern*
+> "that is the best nude as I have."
+> "Now, I just have to ask, have you been able to deal with the old owl problem?"
+
+**Zenvon Forepot** — *telling Daran about their planned expedition*
+> "No, and that's why we are here. Me and my friends, we were thinking to start"
+> "tomorrow to the Old Owl. Oh, okay."
+
+**GM** — *Daran welcomes the news*
+> "Fabulous, fabulous, fabulous."
+
+**Zenvon Forepot** — *asking for intelligence about the journey*
+> "And we are here to, you know."
+> "Talk to you about, you know, if we can get any other details, or do we have to be careful with anything on the way?"
+
+**GM** — *Daran begins describing the eastern lands*
+> "Well, I mean, if you stick to the Triboar Trail."
+> "Now, an important thing to realize is as you're going West."
+> "No, east. East on the Triboar Trail. They're headed off past… so, you know, there's… he sits back and goes."
+> "Well, you have to understand."
+> "A large chunk of the North, in particular the more you go in east, was torn apart by wars, demons."
+> "God's… Elemental catastrophes."
+> "And so, things… that becomes less and less settled."
+> "In fact, Conyberry has been, has been a wreck for years."
+
+**Zenvon Forepot** — *asking which route Daran recommends*
+> "Do you recommend any shorter or, you know, easier paths to go to the old Owl?"
+
+**GM** — *Daran compares the road and the hills*
+> "well, there's, like, two ways you could go. You can take the road, which should be safer."
+> "You know, perhaps the… you might even meet the odd, occasional traveler, or you could go through the hills. Of course, when you're going through the hills, you're more likely to hit, some kind of, some… some creature that kind of thinks the hills belong to it."
+> "Plus, I've been… plus… there are… there… there are some bandits, according to the mayor, the Lord Mayor."
+> "Carbon."
+
+**Zenvon Forepot** — *asking whether the bandits are at Conyberry*
+> "At Conyberry?"
+
+**GM** — *Daran clarifies the report came from Townmaster Harbin Wester*
+> "No, he's been… he's been saying, and I have to be honest with you, I don't know… I haven't been following all the details, but let me just see what he says."
+> "I don't want to get it wrong…"
+> "Well, he's been saying, there have been several attacks near Wyvern Tor of caravans."
+> "Right, and so I don't know where they'd be acting from, so you might want to be careful there."
+
+**Zenvon Forepot** — *inviting Daran to join the expedition*
+> "Well, Darren, looks like you know more about Old Owl and the best ways you can lead us there, but would you like to join us?"
+
+**Consulting Daran Edermath**
+- Daran considers the invitation for a moment before declining.
+
+**GM** — *Daran explains why he no longer adventures*
+> "well, you know, it's been a long time, and my back hurts, and I've got all the… no, he's like…"
+> "you know, one of the things about being an old adventurer is you're an old adventurer because you choose to stop adventuring."
+
+**Zenvon Forepot** — *asking Daran for useful equipment or supplies instead*
+> "Oh, that makes sense. Well, in that case, is there anything that you have that"
+> "Anything you have that you think will be useful to us on the way?"
+
+**GM** — *Daran offers veteran adventuring advice*
+> "Well, I've, I've, I've… he goes, keep your eyes up."
+> "Make sure your sword is sharpened."
+
+**Zenvon Forepot** — *attempting to write the advice down*
+> "Waitboard, eyes up."
+
+**GM** — *clarifying the nature of Daran’s advice*
+> "Yes, he's basically giving you useless advice. Right. You know, the kind of advice, keep your back straight, all your eye, head on a swivel."
+
+**Zenvon Forepot** — *revealing that he is taking notes*
+> "Yeah, I was gonna make notes of it, actually."
+
+**GM** — *Daran takes Zenvon’s note-taking as encouragement*
+> "Like, the fact that you're making notes on it means that he goes on for about 10 minutes."
+
+**Zenvon Forepot** — *realizing his mistake*
+> "Okay, no."
+
+**GM** — *Pip reacts to the prolonged lecture*
+> "Like, at this point in time, Pip's kind of looking at you and trying not to laugh very hard at you."
+
+**Zenvon Forepot** — *OOC reaction*
+> "Oh, shit, okay, fine."
+> "Cool."
+> "Alright, then, we'll head back."
+
+**GM** — *Daran enjoys having an attentive listener*
+> "But Darren's very happy that you're taking notes of his,"
+> "Of his advice, which basically boils down to keep your back straight, keep an eye out for things. He talks about his old adventuring stories, which you're quite not sure how they apply to anything."
+
+**GM** — *awarding Zenvon a benefit for enduring the lecture*
+> "But, because you suffered through all of that, you do get a plus one on an investigation check, or survival check."
+
+**Zenvon Forepot** — *checking the reward*
+> "I get a plus one on an ignition?"
+
+**GM** — *explaining that the bonus is single-use*
+> "That's a one-time thing, so that's a one-time thing."
+
+**Zenvon Forepot** — *acknowledging the limitation*
+> "Oh, okay."
+
+**GM** — *telling Zenvon how to record it*
+> "Yeah, just, just keep… just make a note of it, that you got a plus one."
+> "It's like a one-time thing kind of thing."
+
+**Zenvon Forepot** — *recording the bonus*
+> "Oh, okay. I'll make a note."
+
+**GM** — *prompting Zenvon to consider other questions for Daran*
+> "I mean, but you could, like, for example, you could ask him about,"
+> "You could ask him about, like, Halia, you can ask him about those kinds of things, remember."
+
+**Zenvon Forepot** — *remembering a question about Netheril*
+> "Okay, I have… oh, Darren, I just recalled a question about, that I wanted to ask you, like…"
+> "Tell me… tell me more about, Netheril."
+> "What kind of magic That's… Netheril? Expect over there."
+
+**GM** — *checking what Zenvon said*
+> "Did you say Netheril, N-E-T-H-E-R-I-L?"
+
+**Zenvon Forepot**
+> "Yes, that's right."
+
+**GM** — *Daran questions the unexpected subject*
+> "Why would you be asking that?"
+
+**Zenvon Forepot** — *reminding Daran of his earlier description*
+> "Because… You mentioned about it earlier?"
+
+**GM** — *initially denying that Daran mentioned Netheril*
+> "He never mentioned it."
+
+**Zenvon Forepot**
+> "Hidden?"
+
+**GM**
+> "No, he didn't. He never."
+
+**Zenvon Forepot**
+> "Netheril."
+
+**GM** — *recalling where Netheril had otherwise been discussed*
+> "You, you learned about it from, from Veyra."
+
+**Zenvon Forepot** — *consulting the notes and correcting the record*
+> "I… oh, I see, okay."
+> "No, actually, the note says Darren called it an old watchtower of Netheril, so…"
+
+**GM** — *acknowledging the mistake*
+> "Oh, oh, oh, sorry, did I… I'm sorry, did my brain… my brain fart. My brain farted. Sorry, yes, yes, yes, yes, yes, yes, yes."
+> "He goes, yes, alright, my bad. Sorry, thank you, I think that's why we have the, that's why we have the notes."
+
+**Zenvon Forepot**
+> "Right."
+
+**GM** — *Daran begins recounting the history of Netheril*
+> "Well!"
+> "Well, you have to understand, this is an old story."
+> "But… Many… a long time ago, there was an ancient empire."
+> "Called the Netheril, the Netherese Empire."
+> "And that Netherese Empire had ships that could fly in the sky."
+> "And they had access to magic that mortals no longer have access to."
+> "The highest powered wizard spells nowadays are, you know, at the 9th level, but in the Netheril, it was said that they could reach the 12th level of power."
+
+**Consulting Daran Edermath**
+- Daran pauses before explaining the unprecedented magical artifacts Netheril could create.
+
+**GM** — *describing Netherese magical power and Karsus’s disaster*
+> "So there was magical artifacts they could create that had never been created before."
+> "One of their leaders, Karsus, I believe is the story. I don't… I'm not a scholar on the topic."
+> "Did something which caused… The weave itself to break."
+
+**Zenvon Forepot**
+> "Okay."
+
+**GM** — *explaining the consequences*
+> "And that, that, in turn, caused… Almost destroyed magic."
+> "itself."
+
+**Zenvon Forepot**
+> "8."
+
+**GM** — *describing Netheril’s collapse*
+> "And then, as a result, the Netheril Empire fell apart."
+
+**GM** — *questioning the reliability and moral neatness of the story*
+> "But, you know, that's FERT, but let me just tell you something, he pauses and says, those are stories."
+> "Right? I don't really… you know, like, oh, it's like a big ancient empire that dies because of hubris, right? I mean, come on."
+> "It sounds like, it sounds like a morality play."
+
+**Zenvon Forepot** — *arguing that legends arise from real events*
+> "Well, you know, I believe all the stories are built on some of the real-life incidents, so…"
+
+**GM** — *Daran agrees with Zenvon*
+> "Yeah, so, well, you know, that's… you know, Zenvon, that's actually… that's a good, that's a, you know, that's not something to… I gotta give you credit there. There's… there's always a grain of truth."
+
+**GM** — *describing the relics left by Netheril’s disappearance*
+> "Anyway, so, anyway, the Empire mysteriously disappeared."
+> "But what it did was it left a large amount of its powerful and magical trinkets all across the North."
+> "And so, when people find one of those trinkets, they're very desperate. When people hear that there's a trinket around, every magic user and power-hungry and scavenger goes after it."
+
+**Zenvon Forepot** — *asking what becomes of the relics and those who seek them*
+> "And what happens to them?"
+
+**GM** — *Daran hopes the artifacts are used for good*
+> "Well, if they're acquired by people who care about the goodness of our society, I think like to think that they are… they're used for good."
+> "And if they're acquired by other people, well, you know, that's why we have adventurers like you."
+
+**Zenvon Forepot** — *asking whether Netherese artifacts might be cursed*
+> "That makes me… that makes me think, do you think any of those trinkets could be cursed?"
+
+**GM** — *Daran hesitates over the word*
+> "well, the word cursed is a strong word."
+
+**Zenvon Forepot** — *clarifying that he means bad luck*
+> "Well, I mean, think of it like, you know, as somebody picks it up."
+> "They get a bad luck."
+
+**GM** — *dismissing stories of curses*
+> "no, no, no, no, no, no, no, no, that's just, again, old wives' tales. I mean, people have been saying those things. I think it's just that…"
+> "You know, there are these powerful magical things."
+
+**Zenvon Forepot**
+> "Oh, okay."
+
+**GM** — *warning that an artifact’s creator and purpose may be unknown*
+> "And, you know, with any powerful, magical thing, you never really know why, who created it, for what reason, and to what purpose."
+
+**Zenvon Forepot** — *agreeing with Daran*
+> "Can't agree more on you."
+
+**GM** — *rejecting tales of Netherese corruption while recognizing their usefulness*
+> "And so, I would say that those old wives tales about corrupting influence of"
+> "Netheril and Magic are just that. Old wives' tales."
+> "meant to scare people and keep them away from those kinds of magical things, which, you know, he pauses and says, isn't a bad thing. Isn't a bad thing."
+
+**GM** — *warning about powerful magic in the wrong or unprepared hands*
+> "Right? We did, you know, there's a lot of magical things out there that, in the wrong hands, or even worse."
+> "In hands that are not capable of handling those magical things, bad things can happen."
+
+**Zenvon Forepot** — *praising Daran’s caution*
+> "Wisely said, Darren. Wisely said."
+
+**GM** — *Daran admits the limits of his knowledge and encourages the expedition*
+> "So I just, you know, I just, just, just, just, you know, that's, that's, that's… but I gotta be honest with you, Zenvon, there's a lot of stories about the Netheril Empire. I… like, I don't know what is true and what is not. What is important is that there is something there that we need to go… that it would be great if you got your hands on."
+
+**Zenvon Forepot** — *taking leave of Daran*
+> "Okay, okay."
+> "Well, I'll see you… When I'm back from the old algorithm."
+
+**GM** — *Daran’s farewell*
+> "Oh, excellent, excellent."
+
+**Zenvon Forepot**
+> "Thank you for your time."
+> "So, we're gonna head back to the Stonehill Inn."
+  ────────────────────────────────────────────────────────
+  Saved: 03_consulting_daran_edermath.md
+
+  [4/8] Scene-extracting: Preparations at Stonehill Inn
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**Zenvon Forepot** — *announcing the party’s return to the inn*
+> "So, we're gonna head back to the Stonehill Inn."
+
+**GM** — *the party arrives at Stonehill Inn*
+> "You arrive at the Stonehill Inn."
+
+**[Preparations at Stonehill Inn]**
+- Toblen Stonehill is delighted to see the party.
+- The GM notes that the adventurers are still “the toast of the town.”
+
+**GM** — *describing Toblen Stonehill’s reception*
+> "Toblen is delighted to see you."
+> "Right? He's, like, really happy, I mean, you know, you guys are the toast of the town."
+> "It's not been 2 days, so people are asking you, what have you done for me lately? Quite yet."
+
+**Zenvon Forepot** — *deciding to stay overnight before leaving*
+> "You know, spend the night here, then start in the morning."
+> "So I'm gonna tell Toblen that,"
+
+**Zenvon Forepot** — *greeting Toblen Stonehill*
+> "Hey, Toblen, it's been a pleasure you know."
+
+**Toblen Stonehill** — *welcoming the party as local heroes and asking Elsa to serve Zenvon*
+> "The heroes, the heroes of Phandalin."
+> "Elsa, why don't you get him a beer?"
+
+**[Preparations at Stonehill Inn]**
+- Elsa pours Zenvon a beer.
+
+**Zenvon Forepot** — *accepting the drink and announcing the next morning’s journey*
+> "Thank you. So, I wanted to tell you that me and my friends are leaving"
+> "to Conyberry tomorrow, first thing in the morning."
+
+**Toblen Stonehill** — *questioning the proposed route*
+> "He pauses, and why would you want to go there?"
+
+**Zenvon Forepot** — *explaining the party’s destination*
+> "We have a friend who needs some help, at the Old Owl Well."
+> "So, we are going… To the old owl to help him."
+
+**Toblen Stonehill** — *challenging the choice to pass through Conyberry*
+> "Yeah, but why would you go through Conyberry? It's an abandoned town."
+
+**Zenvon Forepot** — *asking whether Toblen knows a safer route*
+> "Well, that's the closest to the Old Owl Well. Do you know a better route, which is… Kind of safe."
+
+**Toblen Stonehill** — *expressing concern about the abandoned town*
+> "Well, he goes, Conyberry's been abandoned for years."
+> "But, I mean, I guess it's a…"
+> "I guess it's a place you could go."
+> "I mean, he pauses and says, I don't know about you, but, like, going into abandoned towns doesn't feel safe."
+> "But he pauses and says, but you're a powerful adventurer's."
+> "Heroes of Phandalin. So, I'm sure there's nothing… I'm sure I'm just a… I'm just a bark… I'm just an owner of a tavern."
+> "So, I mean, maybe, maybe, maybe this is about me more than it is about you."
+
+**Zenvon Forepot** — *pressing for any useful knowledge Toblen might have*
+> "Well, that's a fair point, but tell us anything that you know about Old Owl Well or Conyberry, because we have made up our mind to start"
+> "Early in the morning?"
+> "So, as much as I like adventures, I'd like to avoid any surprises."
+> "possible, so…"
+
+**Toblen Stonehill** — *warning that roadside ruins can shelter dangerous people*
+> "The town of Conyberry has been abandoned for years and lies in complete ruins."
+> "So you shouldn't find anything of value there, but anytime you have a place that's ruins and is on the road."
+> "That's where, well, how shall I put it?"
+> "People who are dangerous to the unwary might be."
+
+**Zenvon Forepot** — *asking Toblen to repeat the warning*
+> "Generous to what?"
+
+**Toblen Stonehill** — *clarifying and advising caution*
+> "Dangerous to the unwary, people who aren't paying attention."
+
+**Zenvon Forepot** — *reacting to the clarification*
+> "Being a rental. Okay."
+
+**Toblen Stonehill** — *advising the party to remain alert and reminding them about Agatha’s route*
+> "Right, so just, just be… what I would do if you're heading in there is just be careful, keep your eyes peeled, but if I were you, I would avoid that town."
+> "Now, the only other thing you remember is to go to… to sit to Agatha's, to Sister… to Agatha's, you have to go through there. That's what Sister Garaele tells you, so just keep… just keep that in mind."
+
+**Zenvon Forepot** — *acknowledging the reminder*
+> "Yep."
+
+**GM** — *calling for an Insight check*
+> "Roll an insight check."
+
+**Zenvon Forepot** — *reporting the result*
+> "I rolled, wait, what happened?"
+> "I rolled an insert check, but it looks like it's not connected to the… Road 20."
+> "14?"
+
+**GM** — *revealing that Toblen’s concerns are not based on firsthand experience*
+> "Okay, so yeah, so what you get the impression is that Toblen hasn't been to Conyberry in his life."
+> "So, he might just be expressing fears and concerns rather than any useful information, but the knowledge about it being an abandoned town is real."
+
+**Zenvon Forepot** — *choosing to rest at the inn*
+> "Okay, so… We'll rest. Alright. Toblen."
+> "It's been such a wonderful stay."
+> "And what is it? At the tavern."
+> "Taking a long rest."
+
+**GM** — *confirming the rest and recounting Conyberry’s history*
+> "Correct."
+> "Okay, so basically, the one thing he does… the one thing you do learn from him was that Conyberry"
+> "Was, was, hurt during the spell plague."
+> "That destroyed most of the town."
+> "And then… After the spell plague, Uthgardt came and killed everyone there."
+> "So the magical events of the spell plague"
+> "Are why the town was, was destroyed."
+> "Alright."
+> "And so, that's, you know, so it's history. It's long history."
+> "And then you recall that the spell plague was an era where, you know, the gods were playing games with mortals."
+
+**[Preparations at Stonehill Inn]**
+- The party completes its long rest.
+- Morning arrives at Stonehill Inn.
+
+**GM** — *beginning the next morning*
+> "Alright."
+> "So… Next morning, you wake up."
+  ────────────────────────────────────────────────────────
+  Saved: 04_preparations_at_stonehill_inn.md
+
+  [5/8] Scene-extracting: A Bounty for Cragmaw Castle
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**[A Bounty for Cragmaw Castle]**
+- The next morning, the party comes downstairs at the Stonehill Inn and finds Sildar Hallwinter waiting for them.
+- Sildar invites the party to sit and have breakfast with him.
+
+**GM** — *Sildar asks the party to join him*
+> "Alright, so as you walk down, Sildar is, sitting there, and offer… asks you to,"
+> "I ask you to sit down with him."
+
+**Zenvon Forepot** — *the party is eager to depart*
+> "Okay, so…"
+> "Yeah, we gotta hurry a little bit, but I thought, I'll just."
+
+**GM** — *clarifying that Sildar wants to share breakfast*
+> "That's kind of… he just wants to have it for breakfast."
+
+**Zenvon Forepot** — *misunderstanding Sildar’s intent*
+> "He didn't want to talk with us."
+
+**GM** — *clarifying again*
+> "Yeah, no, no, yes, he does, but he doesn't want… he just wants to have a breakfast with you, he wants…"
+
+**Zenvon Forepot**
+> "Oh, I see, okay, okay."
+
+**GM** — *Sildar will not delay their departure for long*
+> "Yeah, I mean, you said you have to go somewhere, so I'm just telling you, he doesn't want to have, like, a 25-hour,"
+
+**GM** — *Sildar raises the Cragmaw Castle assignment*
+> "So, Iarno, so Sildar, you know, So that's, you know…"
+> "I just want you to know something."
+> "If you were to… I want you to find the castle. The Lords' Alliance would like you to find Cragmaw Castle."
+> "Okay. And, and, and, and, and so…"
+> "And I think that there would be a good payout for somebody who were to find it out."
+
+**Zenvon Forepot** — *asking whether merely finding it is sufficient*
+> "Just find… find the casel, that's it."
+
+**GM** — *stating the full objective*
+> "Well… Locate, defeat, and drive off the bandleaders."
+
+**Zenvon Forepot** — *recalling an earlier assignment*
+> "Yeah, we've talked about this assignment earlier, haven't we?"
+
+**GM** — *noting that no price was negotiated*
+> "Yes, but we didn't… we didn't… we didn't negotiate on a price."
+
+**Zenvon Forepot**
+> "No, did we not?"
+> "No, I think we did."
+> "You know, for alive, some prize, for dead, some prize, whatever."
+
+**GM** — *distinguishing Iarno’s bounty from the Cragmaw Castle job*
+> "Yes, but that's only for Iarno… that's for Iarno, it's not for the whole Cragmaw Castle."
+
+**Zenvon Forepot**
+> "Oh, okay, so this, this looks, like more money then. Cool."
+
+**GM**
+> "Yes."
+
+**Zenvon Forepot** — *deferring the discussion until after Conyberry*
+> "Alright, well, I guess, we can talk about it once we're back."
+> "From Conyberry?"
+
+**GM** — *emphasizing the size of the reward*
+> "Well, he pauses and says, well, I just want you to know that there is a large amount of money for someone who's going to go deal with Cragmaw Castle."
+
+**Zenvon Forepot**
+> "Okay."
+
+**GM** — *Pip prompts Zenvon to ask for the amount*
+> "Pip nudges you and says, can we at least find out how much?"
+
+**Zenvon Forepot**
+> "Oh, I'm not gonna ask, but you ask."
+
+**GM** — *Pip openly ingratiates himself with Sildar and asks about payment*
+> "Pip goes, he sort of stands, Mr. Sildar?"
+> "Right? Obviously, Pip is trying to suck up to him, right? Mr. Sildar, sir, yes, Pip! You don't have to call me Mr, you can just call me Sildar."
+> "Oh, thank you, thank you, Sildar. well, how much money would there be? Well, Pip."
+> "I think that, you know, Lords Alliance is looking to… thinks this is an important thing, so if you were to deal with everything there, 500 gold pieces would definitely enter your pockets."
+
+**Zenvon Forepot** — *letting Pip conduct the negotiation*
+> "I'm just silent. I'll just let Pip do the talking."
+
+**GM** — *Pip eagerly turns to Zenvon*
+> "Right, so Pip, Pip's, Pip's, pleased with that. He turns, he says, boss, are we gonna go do that? But, I mean."
+> "Well, I think that's very generous of you, Mr. Sildar."
+
+**GM** — *Sildar again corrects Pip’s form of address*
+> "Sildar, again, explains to him that, no, no, I'm not, So she's,"
+> "So anyway, so he's, he's really happy to hear that. But Sildar kind of stretches back like this. He goes, I just want you to know, Pip, you know, that, that Lords' Alliance will look very kindly on someone who takes care of that Cragmaw castle."
+
+**Zenvon Forepot** — *asking out of character what Sildar’s hint means*
+> "Okay, this is a personal question, as in, like, not related to the game. Yes. But,"
+> "what does it imply when somebody says it will look kindy? Like,"
+
+**GM**
+> "Okay, great. So that's a great question."
+
+**Zenvon Forepot**
+> "Is it, like, offering favors or something?"
+
+**GM**
+> "Yes."
+
+**Zenvon Forepot**
+> "Okay."
+
+**GM** — *confirming the implication*
+> "Right, that it would be an offering of a favors, yes."
+
+**Zenvon Forepot** — *pulling Pip aside and tempering his enthusiasm*
+> "I'm gonna pull Pip a little aside and ask him to"
+> "contain his excitement, because… just think about it. 500 gold pieces divided by 4 of us is how much? You're just gonna get 125 gold pieces. Do you think that's a lot for the risk that we're gonna take at the Cragmaw Castle?"
+> "Just, just don't be too excited, man, like, you know?"
+
+**GM**
+> "Oh, you're telling him to dial it down?"
+
+**Zenvon Forepot**
+> "Yeah, yeah."
+
+**GM** — *Pip accepts the advice and cools his response*
+> "tips like… That's a… that's good advice, boss. He turns to Sildar and says."
+> "Well, I mean, you know, it's a chunk of change, but we're… you know, we'll keep that under advisement, Sildar."
+
+**Zenvon Forepot**
+> "Okay."
+> "Yeah."
+
+**GM**
+> "He kind of dials down his enthusiasm."
+
+**GM** — *asking which destination the party chooses*
+> "So, which way would you like to go?"
+
+**Zenvon Forepot** — *keeping his word and maintaining the original destination*
+> "Oh, still, still, I mean, I gave my word, so I'm going to the…"
+
+**GM**
+> "Going to the… okay."
+
+**GM** — *Toblen wishes the party well as they depart*
+> "Yeah, so, okay, so next morning, so you leave, Toblen is really happy to, you know, say, wishes you all the best."
+> "And off you go to… off you go onto the Overland map, alright."
+
+**GM** — *Sildar notices the magical sword before the party leaves*
+> "However, as, as you're, but, but when the last thing that,"
+> "Sildar says… as he says, he looks at, the magical sword you guys collected from… Tresendar Manor."
+> "And he goes, my, my, my, that is a fine, noble sword, Pip."
+
+**Zenvon Forepot** — *initially answering as though Sildar addressed him*
+> "So, well, yeah, we got it, I think I earned it."
+> "For my bravery."
+
+**GM** — *clarifying that Sildar is speaking to Pip*
+> "Oh, no, I… Pip, you know, he's like, he's kind of telling Pip that, you know, this is…"
+
+**Zenvon Forepot**
+> "Nice work, yeah, yeah."
+
+**GM** — *calling for Insight*
+> "Yeah, so roll your insight check."
+
+**Zenvon Forepot**
+> "I see what you mean, okay."
+> "I see what you mean."
+> "Slash our D20. Okay, let me just do this."
+> "Oh, cool."
+
+**GM**
+> "What's your role?"
+
+**Zenvon Forepot**
+> "20."
+
+**GM** — *revealing Sildar’s implied opportunity for Pip*
+> "Alright, so what you're getting the impression is, like,"
+> "Sildar is kind of trying to suggest to Pip that if you were to take care of certain things, you might… there might be an opening in The Lords' Alliance for Pip."
+
+**Zenvon Forepot**
+> "So it was incentivized to that, okay."
+
+**GM** — *explaining the significance of the sword compliment*
+> "Right, so that's what, you know, he's kind of like… the hint about the noble sword is kind of like…"
+> "Right."
+> "you're not sure if pip know, no,"
+> "That's the word I'm looking for."
+> "you're not sure what PIP is, whether PIP picked that up as well, but it's something you noticed."
+> "You could tell him, you could tell him, or let it be."
+
+**Zenvon Forepot** — *keeping the observation to himself*
+> "And let it be for now."
+
+**GM**
+> "We're gonna let it be for now. Alright."
+
+**Zenvon Forepot**
+> "make a note for myself."
+
+**GM**
+> "Take a note for yourself."
+
+**GM** — *reminding the party about Mirna Dendrar’s treasure in Thundertree*
+> "So, right, so… so yeah, so the other… just so you know, there's the treasure according to Myrna, that's the treasure where she said there was, like, some emerald necklace of some sort."
+> "was, in Thundertree. All right."
+
+**GM** — *the party sets out*
+> "So… off we go. So, you're on the Triboar Trail, the day passes, nighttime passes."
+> "You're happy to see that nothing bad has happened."
+  ────────────────────────────────────────────────────────
+  Saved: 05_a_bounty_for_cragmaw_castle.md
+
+  [6/8] Scene-extracting: Journey Along the Triboar Trail
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**[Journey Along the Triboar Trail]**
+- The party departs along the Triboar Trail toward Old Owl Well.
+- The first day and night pass without an attack.
+
+**GM** — *the party begins its overland journey*
+> "So, you're on the Triboar Trail, the day passes, nighttime passes."
+> "You're happy to see that nothing bad has happened."
+
+**Zenvon Forepot** — *checking how far the party traveled during the first day*
+> "Oh, so I've moved already that far?"
+
+**GM** — *estimating the party's position after traveling*
+> "Well… Let's, like… hold on."
+
+**Zenvon Forepot** — *recalling the daily travel distance*
+> "30 miles. You said 30 miles a day, right?"
+
+**GM** — *placing the party approximately along the route*
+> "Yes."
+> "Somewhere around here."
+
+**Zenvon Forepot** — *accepting the approximate position*
+> "No, no, no, okay, yeah, yeah, okay, cool, makes sense."
+
+**GM** — *explaining that the exact map position is unimportant once the two-day journey is established*
+> "Yeah, this makes sense? Like, I was just kind of… it's sort of like… like, my point is that once we… once we've established that it takes 2-day, it doesn't really matter where you are, so we'll just put you here, right?"
+> "You moved yourself back. You move, you know, just… I'll move you back here."
+
+**Zenvon Forepot** — *clarifying his map movement*
+> "No, no, I was just… I was just measuring the distance."
+
+**[Journey Along the Triboar Trail]**
+- Night passes and morning arrives.
+- The party discovers evidence of a caravan attacked by bandits and then abandoned.
+- The evidence confirms attacks on Triboar Trail traffic but does not identify the responsible faction.
+- Despite the danger, other signs indicate that people still use the trail.
+
+**GM** — *describing evidence found beside the trail*
+> "Right. Okay. So, nighttime arrives, morning comes. One of the things you did notice along the way was the signs of some kind of bandits that had some… a caravan that had been attacked by bandits and had been abandoned."
+
+**Zenvon Forepot** — *acknowledging the discovery*
+> "Okay."
+
+**GM** — *explaining what the evidence does and does not establish*
+> "So, the claims about Wyvern Tor were not just… Now, whether it's the Wyvern Tor, whether it's the Goblins, whether it's the Redbrands, whether it's some new faction you've never heard about, you…"
+> "Is immaterial, but the reality is."
+> "traffic along the Triboar Trail has been attacked."
+> "Right, so you do find evidence of that. The other thing you notice is that despite all of that evidence, people still seem to be using it."
+
+**Zenvon Forepot** — *asking whether any traffic is currently visible*
+> "So, do I see carriages going back and forth on the tripodrail?"
+
+**GM** — *answering that no travelers are visible that day*
+> "Not today, not today."
+
+**Zenvon Forepot** — *confirming the trail appears empty*
+> "Not today. It was empty."
+
+**GM** — *confirming*
+> "Yes, it was empty."
+
+**[Journey Along the Triboar Trail]**
+- The GM explains that the major regional trade route runs north-south rather than east-west.
+- Neverwinter and its immediate environs mark the practical boundary of civilization.
+- The hinterlands beyond have been devastated by the Spellplague, wars, barbarians, orcs, goblins, divine meddling, and reckless wizards.
+
+**GM** — *distinguishing the Triboar Trail from the major trade route*
+> "So, it's not… I mean, it's, like, the major trade route is not east-west, it's north-south."
+
+**Zenvon Forepot** — *recognizing the regional trade route*
+> "I see, okay, okay, yeah."
+
+**GM** — *using the map to explain Neverwinter's regional isolation*
+> "Right? So it's…"
+> "And Neverwinter itself, if you were just to draw, like, I'm just gonna draw a line here so that you could know. I'm gonna draw it and then delete it."
+
+**Zenvon Forepot** — *asking whether the High Road carries trade*
+> "So, so the high road is the one that's used for trade?"
+
+**GM** — *indicating the practical frontier on the map*
+> "Yeah, so just to give you an idea, so the area… So…"
+> "Neverwinter… sorry, this was the wrong… just… what you would know is…"
+> "Do you see that blue line?"
+
+**Zenvon Forepot** — *confirming he sees it*
+> "Yeah, yeah."
+
+**GM** — *defining the boundary*
+> "That's the end of civilization."
+
+**Zenvon Forepot** — *reacting*
+> "Oh, okay."
+
+**GM** — *explaining the chaos beyond Neverwinter*
+> "Right?"
+> "And, and so… The road north and the road south, Neverwinter has been somewhat isolated from its hinterlands."
+
+**Zenvon Forepot** — *acknowledging*
+> "Okay."
+
+**GM** — *describing the causes of the region's devastation*
+> "Alright? And the reason it's been isolated is because of all the chaos you just heard, the spell plague, and the wars, and the destruction."
+
+**Zenvon Forepot** — *acknowledging*
+> "Got it, yeah, yeah, okay."
+
+**GM** — *listing the forces that ravaged the hinterlands*
+> "And so, the boundary between the hinterlands are, for the most part,"
+> "They've been ravaged by barbarians, by orcs, by goblins, by meddling gods."
+> "Wizards who should have known better."
+
+**Zenvon Forepot** — *acknowledging*
+> "Right, okay, okay."
+
+**GM** — *restating the practical limits of settled civilization*
+> "Right, so I just, yeah, so just so you know, so it's not like this area is… is… it's just, like, the city of Neverwinter… and just basically the envarones around Neverwinter are the… are the limits of where civilization is."
+
+**Zenvon Forepot** — *acknowledging*
+> "Okay."
+
+**GM** — *transitioning toward the party's arrival*
+> "Okay."
+> "Okay, so, you arrive at the Old Owl well."
+
+**Zenvon Forepot** — *correcting the timing of the arrival*
+> "No, no, no, not yet, right?"
+
+**GM** — *confirming that another night and morning pass first*
+> "No, no, right, so you see, nighttime arrives, morning comes."
+> "So, you have the four destinations, you have the three locations where you could go."
+
+**Zenvon Forepot** — *examining the terrain around Old Owl Well*
+> "Okay, so… In the map, let me highlight."
+> "I can, and drop it, right?"
+> "So, all of this, you know, the circular… Are they, like."
+
+**GM** — *identifying the surrounding terrain*
+> "They're… they're hills."
+
+**Zenvon Forepot** — *asking whether the hills collectively constitute Old Owl Well*
+> "Okay, and all of these hills constitute the older one, is that correct?"
+
+**GM** — *pointing out Old Owl Well's specific location*
+> "No, no, the old owl well, you see that question mark over here?"
+
+**Zenvon Forepot** — *clarifying the location*
+> "Okay, specifically there, like, not the… okay."
+
+**GM** — *confirming the map symbols indicate hilly terrain*
+> "Yeah, yeah, this is meant… this is meant to indicate hilly terrain."
+
+**Zenvon Forepot** — *estimating arrival on the following day*
+> "I see, okay, okay. So, so we reach Old Owl Well by the next day, probably noon or something?"
+
+**GM** — *confirming*
+> "Yeah, right. So, alright."
+  ────────────────────────────────────────────────────────
+  Saved: 06_journey_along_the_triboar_trail.md
+
+  [7/8] Scene-extracting: Arrival at the Old Owl Well
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**[Arrival at Old Owl Well]**
+- The party reaches Old Owl Well around noon after crossing the surrounding hills.
+- Cresting a low ridge, they see the ruins of an old watchtower and mounds of rubble enclosing a courtyard amid rugged hills.
+- A colorful tent stands in the courtyard, but no one is visible.
+
+**GM** — *describing the ruins*
+> "As you crest a low ridge, you spy the crumbling ruins of an old watchtower and mounds of rubble enclosing a cart yard amid the rugged hills. A colorful tent sits in the middle of a courtyard, but no one is in sight."
+
+**GM** — *repeating the description once the party is positioned on the map*
+> "As you crest a low ridge, you spy the crumbling ruins of an old watchtower, and mounds of rubble enclosing a courtyard among the rugged hills."
+> "Alright. A call for tent sits in the middle of the courtyard, but no one is,"
+> "No one is, but no one is in sight."
+
+**Zenvon Forepot** — *interpreting the camp*
+> "The colorful tint indicates that there's… there can be somebody."
+> "And, what's the circular thing? Is that the watchtower?"
+
+**GM** — *identifying the ruins*
+> "Yeah, that's the Watchtower."
+> "That's the Old Owl well. Yeah, that's the, old…"
+
+**Zenvon Forepot** — *surveying the apparently deserted site*
+> "It's the old watch car."
+> "Yeah, the well is the… all well, I suppose."
+> "So, looks like it is pretty empty, but I sense… Some eeriness in the air."
+
+**Zenvon Forepot** — *directing the party's approach*
+> "I suggest my team to tiptoe And walk slowly."
+> "Towards the well."
+
+**GM** — *confirming the route*
+> "Okay, so you're gonna go through the main entrance?"
+
+**Zenvon Forepot**
+> "Yep."
+
+**Zenvon Forepot** — *emphasizing the cautious advance*
+> "But no, it's slowly tiptoeing."
+
+**[The Undead Emerge]**
+- As the party advances through the entrance, zombies begin shambling out of the tower.
+- The GM places the encounter into initiative order as the party hears numerous zombies moving.
+
+**GM** — *the ambush begins*
+> "As you do that."
+> "Zombies start to shamble out of the tower."
+> "A lot of zombies."
+> "Hold on."
+
+**GM** — *establishing the scale of the threat*
+> "Now, so, what's certain… so, a lot… you should see a lot of zombies right now."
+
+**Zenvon Forepot**
+> "Yes, a while."
+
+**GM**
+> "So you can hear a lot of zombies moving."
+> "Now, I'm gonna roll for initiative so we can do things in sequence, so let's just… let's just,"
+
+**Zenvon Forepot** — *wondering whether the undead can be reasoned with*
+> "Are they not gonna talk?"
+
+**GM** — *prompting Sister Maela's Arcana assessment*
+> "So, so, what's her name? Sister Maela says."
+> "Turn, roll, sister, roll your Arcana check."
+
+**Zenvon Forepot** — *reporting the check*
+> "Keynote check, okay."
+> "It's the 12th."
+
+**GM** — *explaining what Sister Maela knows*
+> "Alright."
+> "So, sister, you immediately… so, you know that the first thing you know is that zombies don't talk."
+
+**Zenvon Forepot**
+> "Wow."
+
+**GM** — *Sister Maela identifies the likely source of the undead*
+> "Zombies are essentially mindless monsters. Sister Maela looks at the… looks at the,"
+> "the tent, and says, there's probably a necromancer."
+> "She looks at you… she looks at you and realizes you're confused and says, a magic user who some… who takes the dead corpses and reanimates them."
+> "She goes, very evil magic."
+> "And very dangerous magic, and very powerful magic, given the number… and whoever's doing it is not a… you know, so just, you know, so she's like, okay, this is, this is, this, as they say, is interesting."
+
+**Pip Thistlewick** — *warning Zenvon against a direct battle*
+> "Boss, I don't know if we want to fight all these zombies."
+
+**Zenvon Forepot** — *hoping to bypass the undead by finding their controller*
+> "Try our best trip, and let's see if we can deceive them, or, you know… I'm…"
+> "I'm hoping there is… a central control for all of these monsters, like, if we can find the necromancer."
+
+**Veyra of the Blue Candle** — *pointing toward the likely controller*
+> "well, if there's gonna be a necromancer, he's probably in that tent."
+
+**GM** — *presenting the party's options*
+> "You could go into the tent, you could call out for him, there's a lot of things you can do."
+
+**Zenvon Forepot** — *taunting the unseen controller*
+> "So I'm gonna shout, hey, zombie lard."
+> "I call him Zombie Lord, because, you know, he's controlling. Hey, Zombie Lord, are you afraid to face us? And that's why… is that why you're sending the zombies?"
+> "I mean, I don't expect a response, but I'm just trying to, you know, rage bait."
+
+**GM**
+> "You're trying to rage bait him?"
+
+**Zenvon Forepot**
+> "Okay. While being prepared for the zombies."
+
+**[Hamun Kost Appears]**
+- Hearing Zenvon's challenge, Hamun Kost emerges from the colorful tent.
+- Veyra examines the tattoos on his head and identifies them as necromantic symbols.
+- A History check reveals nothing further about the markings.
+
+**GM** — *Hamun answers the provocation*
+> "The, he goes… Well, he hears you shouting, And he goes."
+> "And he steps outside of his tent and says, WHAT IS THE MEANING OF THIS?"
+> "Roll an Arcana check."
+
+**Zenvon Forepot** — *reporting the Arcana result*
+> "That was bad. 9 plus 2, 11. Oh, sorry, no, no, no, it's 9, 9, total 9."
+
+**GM** — *Veyra recognizes Hamun as a wizard*
+> "Veyra turns to you and says, yup! He's a wizard, he's a wizard, he's an,"
+> "He… his… do you see those tattoos on his head?"
+> "She pulls out a notebook and points, they're the symbols of a necromancer!"
+> "Alright, roll a history check."
+
+**Zenvon Forepot**
+> "History checks."
+> "5…"
+
+**GM** — *the party recalls nothing more*
+> "Okay, that's all you know."
+
+**GM** — *clarifying Daran Edermath's objective*
+> "So, from Darren's perspective, all you need to know is learn what's going on here. You don't actually have to kill this guy."
+> "Right, your… your object… his… he was interested in information, not in, like…"
+
+**Zenvon Forepot**
+> "But was there any specific information that he was interested? No, right?"
+
+**GM**
+> "So, I mean, your goal is to say if there's any threat, it's not to neutralize any threat."
+
+**Zenvon Forepot**
+> "to whom?"
+
+**GM**
+> "The quest you have with Darren, right?"
+> "Is… his quest is…"
+> "If the characters can ensure that no threat to the town is brewing at the old well, I'll dwell."
+> "So, a wizard doing digging is not necessarily a threat to Phandalin, but you could ask him what his goals are."
+
+**Zenvon Forepot** — *opening negotiations*
+> "Yeah, so, we are just here to talk to you, nothing else. We don't want any…"
+> "fight unnecessarily."
+> "My aim here is just to talk to you, and head back."
+
+**GM** — *Hamun asks for an introduction*
+> "Okay, he, he sort of, well, but before, what's your name?"
+
+**Zenvon Forepot** — *introducing the party*
+> "My name is Zenvon, this is… these are my friends, Pip, Sister Maela, and Veyra."
+> "How do you introduce yourself as?"
+
+**GM**
+> "As Hamun Kost."
+
+**Zenvon Forepot**
+> "Hamun Kost. Hamun Kost."
+> "Wait, did you actually make up the last name."
+
+**GM** — *out-of-character response*
+> "No, no, no, I just noticed it right now."
+> "I'm like… I did not make it… I did not make it up."
+
+**Zenvon Forepot** — *asking about Hamun's purpose*
+> "Cut right to the point, Hamun. So…"
+> "I just wanted to know, like, what are you doing here in the…"
+> "lost town of Conyberry, and at this old Owl well, like,"
+
+**Hamun Kost** — *describing his work*
+> "Well, I'm… I'm a wizard."
+> "And it's not polite to ask what a wizard is doing here, but this is an archaeological dig that I am interested in."
+
+**Zenvon Forepot** — *pressing for details*
+> "Well, what's so special about this place that, you know, drew your interest?"
+
+**Hamun Kost** — *refusing to explain*
+> "look, I am not interested, I'm just interested in this tower."
+> "I'm not in… and quite frankly, I don't think I should have to answer why I'm interested in this tower. So, why don't we just keep it…"
+> "I'm a wizard, and I have the things I'm interested in."
+
+**Zenvon Forepot** — *explaining why Hamun's presence is alarming*
+> "Well, Hamun, you seem like a nice wizard, and I know you've been doing your own thing, but…"
+> "Whatever you're doing, or your presence here, is kind of alarming to the entire"
+> "and, neighboring lands of Neverwinter and Phandalin and other places."
+> "So, I want to keep my citizens safe, and that's why I just want to ensure that."
+
+**Hamun Kost** — *laughing at Zenvon's concern*
+> "My, my dear boy! Zenvon, is that your name again?"
+
+**Zenvon Forepot**
+> "Yeah."
+
+**Hamun Kost** — *denying any hostile intent*
+> "I can assure you that I am not interested in harming anyone in this area."
+
+**Zenvon Forepot** — *offering to keep Hamun's purpose secret*
+> "Well, that's reassuring, but it would help us"
+> "Be, you know, a little calmer if…"
+> "you tell me what you're doing, and I swear your secret does not go out and it stays with us."
+
+**Hamun Kost** — *revealing his affiliation and making a threat*
+> "My dear boy, if I wanted my secrets to be safe, I would kill you. Now, I would like you to know that I am a Red Wizard of Thay, and a red wizard of Thay is not someone you should be talking to lightly."
+
+**Zenvon Forepot**
+> "So… Hold on, hold on, hold on."
+
+**GM** — *explaining what Zenvon knows about the Red Wizards*
+> "player, you as a player don't know this, but you as a character would. Red Wizards of Thay, there's a wizard kingdom called the Red Wizards of Thay."
+
+**Zenvon Forepot**
+> "Okay."
+> "Or there was…"
+
+**GM**
+> "There is."
+
+**Zenvon Forepot**
+> "There is, okay."
+
+**GM** — *emphasizing their reputation*
+> "Right? And they are not to be trifled with."
+> "Right? They are… and so, that's why he laughed at you, because he's like, if I really wanted… if I wanted to really threaten you, I would have threatened you, right?"
+> "Kind of thing."
+
+**Zenvon Forepot** — *acknowledging the warning*
+> "He, understood, just thinking…"
+> "Right, yes, yes. Yeah, to know who the red wizards were, I was gonna perform a history check, but that's fine."
+> "It's tricky, actually, I don't know what to do."
+
+**Hamun Kost** — *offering proof of peaceful intentions*
+> "look, I don't want to hurt your community, but I want to show that I want to be a positive member of the community."
+
+**Zenvon Forepot**
+> "Well, how exactly, Mr. Hamun? How can you help the community?"
+
+**Hamun Kost**
+> "well, I can give you information."
+
+**Zenvon Forepot**
+> "Go on, I'm all ears."
+
+**Hamun Kost** — *inviting Zenvon to name what he wants*
+> "What is the one thing you want to know? Where the Cragmaw Castle is, for example?"
+
+**[Hamun's Show of Force]**
+- While Hamun waits for Zenvon's question, the zombies finish shuffling out and surround him.
+- Their positioning is described as a show of force.
+
+**Zenvon Forepot** — *waiting for Hamun to volunteer information*
+> "No, I'm waiting for him to tell something, because he…"
+
+**GM**
+> "Oh, no, no, he's waiting for you to ask."
+
+**Zenvon Forepot**
+> "It's gonna be an awkward one-minute step."
+
+**GM** — *the silence stretches as the zombies gather*
+> "Yeah, you kind of stare at each other, right? Sister Maela's going, I mean, are we gonna do any… at this point in time, all the zombies have kind of, like, shuffled out."
+> "They're kind of sitting there going,"
+> "Right, so his zombies are, like, surrounding him."
+> "You know? So, it's like… it's kind of, like, I'm just telling you so that you don't, like…"
+> "It's kind of a show of force type thing."
+
+**Hamun Kost** — *breaking the silence*
+> "Now… Zenvon."
+> "What is it that you would like to know?"
+
+**Zenvon Forepot** — *asking for the location of Cragmaw Castle*
+> "Well, Hamun, there are a lot of things that I would like to know, but, one thing that stands on top is,"
+> "Where the Cragmaw Castle is located."
+> "I don't know the."
+
+**Hamun Kost**
+> "of course I know where that is!"
+
+**Zenvon Forepot**
+> "Interesting. Wow."
+> "Where can we find the chasm?"
+> "Wow. Coordinates."
+
+**Hamun Kost** — *offering an exchange*
+> "you know, I think I will be happy to exchange that information. If you were to get… if you were to do a small little thing for me."
+
+**Zenvon Forepot**
+> "I thought you were a Red Wizard, and I'm surprised that I could do something for you, but."
+
+**Hamun Kost** — *describing the Wyvern Tor marauders*
+> "look, my friend, look, look, Zenvon."
+> "There are these marauders at Wyvern Tor."
+> "They've scouted out my camp, and they seemed inclined to cause trouble."
+> "I'd rather you deal with that trouble than me deal with that trouble."
+
+**Hamun Kost** — *offering Cragmaw Castle's location as payment*
+> "Right, so if you were to… if you were to go deal with those, with, those, rough-ins, I would be more than happy to provide you… to provide you the location of Cragmaw Castle."
+
+**Zenvon Forepot** — *asking about the marauders*
+> "Okay… Well, okay, elaborate a little bit more on how the marauders have hurt you, like…"
+> "How many of them were there, from your knowledge, and…"
+> "What happened to you with them? Yeah."
+
+**Hamun Kost**
+> "Well, there is a… A bugbear."
+> "Named…"
+> "There's a… there's a bunch of bug bearers and an ogre."
+
+**Zenvon Forepot**
+> "Old girl?"
+
+**GM**
+> "Ogre. Ogre."
+
+**GM** — *explaining the threat posed by ogres*
+> "They're big, powerful creatures."
+> "You think, yeah, everyone dies? Yeah, so, so, so he's like, so there's a bunch of bugbearers and an ogre."
+> "Right? And so, what you know about ogres is they're tougher than bug beers."
+
+**Zenvon Forepot**
+> "Yeah, okay."
+
+**Hamun Kost** — *claiming he could handle the marauders himself*
+> "not that I couldn't deal with it myself, but, these are… I don't want to have to resurrect… I don't want to have to raise more zombies to take care of my… to do my business."
+
+**Hamun Kost** — *offering an alternative service*
+> "but if that's not what you're interested in."
+> "I have another quest for you."
+
+**Zenvon Forepot**
+> "Go on. Let me see if I can do that for you, at least."
+
+**Hamun Kost** — *proposing that the party question Agatha*
+> "I want… there's… you may have heard, there's a Banshee named Agatha."
+
+**Zenvon Forepot**
+> "Yes, I quite certainly have heard of it."
+
+**Hamun Kost**
+> "Right, I want to know the name of the wizard who built the tower at the old well."
+
+**Sister Maela Dawnforge** — *asking why Hamun will not go himself*
+> "why don't you ask her yourself?"
+
+**GM** — *clarifying Sister Maela's question*
+> "Sister Maela's, like, curious, like, why don't you ask him yourself?"
+
+**Hamun Kost** — *admitting his concern*
+> "well, I mean, it's a Banshee, and I don't want to get, you know, killed by a Banshee."
+
+**Hamun Kost** — *stating the complete bargain*
+> "Either deal with the… either deal with the Wyvern, or get me the name from Agatha. The information of where Cragmaw Castle is, is yours."
+
+**Zenvon Forepot** — *calling a party conference*
+> "Okay, so… I'm gonna discuss with, my team."
+
+**Zenvon Forepot** — *favoring Wyvern Tor*
+> "It looks like going to Agatha seems a bit of a suicide mission, so… I think…"
+> "It's better to deal with the bugbears and the ocres."
+
+**Sister Maela Dawnforge** — *noting that speaking with Agatha would not necessarily require fighting her*
+> "well, if we were trying to kill the bug, if we're trying to kill her, I couldn't, I couldn't agree with you more."
+> "well, our goal isn't to kill the… isn't to kill the, the Banshee."
+> "So, if we go there and are very respectful."
+> "We could avoid getting killed by it."
+
+**Zenvon Forepot** — *preferring familiar enemies*
+> "Still, that seems much more riskier than, you know, fighting with the bugbears, which we are already familiar with, of, you know."
+
+**Sister Maela Dawnforge** — *passionately choosing the marauders over Agatha*
+> "look, if the choice is killing bug beers and ogres, or going and chatting with a Banshee, I'm for chatting with… I'm for dealing with ogres and bugbeers Monday, Tuesday, Wednesday, first day, second day, third day, fourth day, fifth day, sixth day, seventh day, eighth day, ninth day, tenth day, and twice on the 10th day."
+
+**Zenvon Forepot** — *accepting the Wyvern Tor job*
+> "Okay, then we have our answer. We'll go… we'll tell him… we'll tell Hamun that, we'll head to the Wyvern Tor and deal with the bugfires."
+
+**Hamun Kost** — *accepting the arrangement*
+> "wonderful, wonderful, and when you're back, I'll make sure that I have that information for you, and maybe I'll even have some… a nice, fine meal for us to drink… to eat."
+
+**Zenvon Forepot** — *asking for safe passage upon their return*
+> "Okay, that sounds promising. I appreciate your hospitality, Hamun. But when we return, I hope your zombies don't try to attack us."
+
+**Hamun Kost**
+> "well, just… my advice to you is you don't walk into somebody's house without shouting something."
+
+**Zenvon Forepot**
+> "Well, technically your house is the tent, and we haven't walked into it yet."
+
+**Hamun Kost**
+> "Yeah, well, you know, my zombies are always very protective. You just give me a shout before you come, and I'll come out."
+
+**Zenvon Forepot**
+> "Sure, I'll keep that in mind, thank you."
+
+**Zenvon Forepot** — *out of character, reflecting on the encounter*
+> "No, I was expecting something else."
+> "Like, a fight or something, but it turned out to be… Just talking."
+
+**GM**
+> "Yeah, I mean… You chose to just talk."
+
+**Zenvon Forepot**
+> "Yeah, right. Okay, yeah, that makes sense."
+
+**GM** — *confirming that avoiding combat was a meaningful choice*
+> "Right, you did You chose to not turn it into a fight. That was a choice."
+
+**Zenvon Forepot**
+> "Right, yeah."
+> "No, he was too powerful to fight, so…"
+
+**GM**
+> "Like I said, you chose wisely."
+  ────────────────────────────────────────────────────────
+  Saved: 07_arrival_at_the_old_owl_well.md
+
+  [8/8] Scene-extracting: Scouting Wyvern Tor
+  ────────────────────────────────────────────────────────
+Codex run: model=Codex default (omitted); reasoning_effort=Codex default (omitted)
+**[Scouting Wyvern Tor]**
+- The party leaves Old Owl Well and heads toward Wyvern Tor.
+
+**GM** — *setting up the search for the marauder camp*
+> "Alright, so we'll, we'll, we'll arrive at Wyvern Tor, and then we'll stop, because it's almost 7.40."
+> "The Wyvern Tor is, the character leading the party can attempt…"
+> "Dc15 wisdom check, or DC-10 survival check per hour to find the camp."
+
+**Zenvon Forepot** — *clarifying the available navigation checks*
+> "Sorry, DC10?"
+
+**GM** — *clarifying the checks*
+> "Yes, Wisdom Survival, or 15 perception?"
+
+**Zenvon Forepot** — *choosing Perception*
+> "Okay, now I'll do a perception."
+
+**GM** — *calling for the first check*
+> "So, role of perception?"
+
+**Zenvon Forepot** — *reporting the first result*
+> "14."
+
+**GM** — *the first hour of searching fails*
+> "You know, you go an hour, and Veyra says, I don't think you know where you're going, buddy."
+> "Roll again."
+
+**Zenvon Forepot** — *confirming the second attempt*
+> "Row again the perception?"
+
+**GM**
+> "Yes."
+
+**GM** — *Zenvon's second check succeeds spectacularly*
+> "You roll the natural 20. Veyra… and you… not only… and you find a shortcut there. Did you tell… Veyra was unimpressed with your previous searching? Do you want to tell her anything, or just look at her knowingly?"
+
+**Zenvon Forepot** — *silently answering Veyra's earlier doubt*
+> "No, I just, stare at her and point, trust me this time, you know."
+
+**GM** — *Veyra concedes as the camp comes into view*
+> "Yeah, she's like, well done. And she goes, and so, the camp… the faint smell of smoke hangs in the air as you ascend a rugged ridge on the lower slopes of the hill."
+> "50 yards away, a cave mouth opens up at the bottom of the ravine. Hunkered down by a boulder 20 yards outside the cave, a parent evidently keeping watch is a single bugbear."
+
+**[Scouting Wyvern Tor]**
+- The party stops after locating the cave and its lone bugbear sentry.
+
+**GM** — *ending the scene*
+> "So, we will… stop."
+> "Here…"
+
+**Zenvon Forepot** — *checking whether the sentry has detected the party*
+> "So, there's a single bugbear. We are not in that site, right?"
+> "Are we in the bugbear site, or no?"
+
+**GM** — *confirming the party remains outside the sentry's position*
+> "No, you're not in the bug we were site."
+> "So I will… Place you, I will show you the map, right?"
+> "Let me just place you on the map."
+
+**Zenvon Forepot** — *the map initially fails to display*
+> "I see a black screen."
+
+**GM** — *revealing the cave entrance*
+> "Yeah, I know, that's because, the tokens aren't set up correctly."
+> "Alright, let me just do it just differently."
+> "Alright, so now you should see something. Yes. Hold on."
+> "So, you're not supposed to have seen that, but, like, whatever."
+> "That's the cave entrance."
+> "And there's a single… there's a single bugbear there. Alright, we'll continue next week."
+
+**Zenvon Forepot**
+> "Alright. Okay, okay, yeah, sounds good."
+  ────────────────────────────────────────────────────────
+  Saved: 08_scouting_wyvern_tor.md
+
+============================================================
+
+Wrote 8 scene file(s) to summaries/010-20260821/scene_extractions
+Log saved to: summaries/010-20260821/scene_extractions/logs/2026-09-03_195236_scene_extract.md
