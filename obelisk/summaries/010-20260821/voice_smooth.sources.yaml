@@ -1,0 +1,246 @@
+voice_smooth:
+  timestamp: "2026-09-04T08:00:00-07:00"
+  campaign: "/home/kroussos/obelisk/obelisk"
+  session_dir: "summaries/010-20260821"
+  source_dir: "summaries/010-20260821/scene_extractions"
+  output_dir: "summaries/010-20260821/scene_extractions_smoothed"
+  scenes: 8
+
+  precondition:
+    required_by_skill: "/session-summary-consistency"
+    actually_run: "/staged-consistency Stage 2 (grouped), 2026-09-03"
+    note: >
+      Stage 2 is the stronger form of the same pass — 61 findings, all GM-ruled,
+      glossary and entity registry both in context. It also ran the attribution
+      pass that /scene-extract hands off. Smoothing therefore operated on
+      corrected quotes, which is the precondition's actual intent.
+
+  quote_lines:
+    - { scene: "01_a_heroic_recap.md", source: 53, smoothed: 45 }
+    - { scene: "02_planning_at_the_miner_s_exchange.md", source: 142, smoothed: 107 }
+    - { scene: "03_consulting_daran_edermath.md", source: 125, smoothed: 94 }
+    - { scene: "04_preparations_at_stonehill_inn.md", source: 60, smoothed: 44 }
+    - { scene: "05_a_bounty_for_cragmaw_castle.md", source: 98, smoothed: 73 }
+    - { scene: "06_journey_along_the_triboar_trail.md", source: 58, smoothed: 47 }
+    - { scene: "07_arrival_at_the_old_owl_well.md", source: 193, smoothed: 155 }
+    - { scene: "08_scouting_wyvern_tor.md", source: 31, smoothed: 28 }
+
+  quote_lines_note: >
+    Counts drop because vs-03 rejoins cues the recorder split mid-sentence and
+    vs-08 cuts tooling noise. No quote content was dropped.
+
+  voice_specs:
+    resolution_method: >
+      load_declared_voices(cfg) — explicit `voice:` entries in config/party.yaml.
+      NOT the three-rule name match the skill documents; see carry_forward cf-vs-01.
+    resolved:
+      - { speaker: "Zenvon Forepot", spec: "voice/zenvon_voice.md" }
+      - { speaker: "Veyra of the Blue Candle", spec: "voice/veyra_voice.md" }
+      - { speaker: "Sister Maela Dawnforge", spec: "voice/maela_voice.md" }
+      - { speaker: "Pip Thistlewick", spec: "voice/pip_voice.md" }
+    no_spec:
+      - { speaker: "GM", treatment: "clean plain GM prose; no voice invented" }
+      - { speaker: "Hamun Kost", source: "notes/hamun_kost_strategy.md" }
+      - { speaker: "Toblen Stonehill", source: "none — neutral readable rendering" }
+      - { speaker: "Sildar Hallwinter", source: "none — neutral readable rendering" }
+    genre_file: "absent (no voice/_genre.md in this campaign)"
+
+  transcripts:
+    - path: "GMT20260822-010308_Recording.transcript.cleaned.vtt"
+      role: "the extraction source; Zoom ASR, spell-passed"
+    - path: "session_2026_08_21_..._transcript.txt"
+      role: "second, independent ASR pass — the 'alternate transcript' of the Stage 2 report"
+
+  identical_files_found: "none — the two passes are genuinely independent readings"
+
+  decisive_non_transcript_sources:
+    - path: "summaries/008/gm-assist.md"
+      why: >
+          Scene 01 is the GM reading Chapter 8's WRITTEN recap aloud. This file is
+          the page he was reading, so it settles scene-01 garbles outright where
+          both ASR passes fail. Highest-value source in the run.
+    - path: "notes/handouts/player_quest_log.md"
+      why: >
+          Mid-scene-02 the GM reads Veyra's quest log on screen. Same situation:
+          the written text exists, and it recovered two lines (g-05, g-06) that
+          neither transcript could.
+
+  what_each_is_good_at: >
+    This session: the two ASR passes disagree productively on common words but
+    neither is reliably better. The real leverage came from the two WRITTEN
+    sources above, not from either transcript. Record for next time: when a
+    scene is someone reading a document aloud, find the document first.
+
+  review:
+    method: "two interactive Approve/Reject/Discuss artifacts, downloaded and read back"
+    round_1:
+      artifact: "https://claude.ai/code/artifact/5facdfc1-33ad-4a98-9a51-dce1f8e3f3ee"
+      cards: 12
+      verdicts: { approve: 12, reject: 0, discuss: 0, undecided: 0 }
+    round_2:
+      artifact: "https://claude.ai/code/artifact/677e9eeb-43dd-4c13-856e-32634c3b92af"
+      cards: 22
+      verdicts: { approve: 22, keep_verbatim: 0, discuss: 0, undecided: 0 }
+      why_a_second_round: >
+        The step-2.5 sweep searched for known wrong-forms, which by construction
+        cannot find garbles nobody has catalogued. Reading every quote line found
+        21 more plus one knowledge boundary. Rendering after round 1 alone would
+        have written them in verbatim or repaired them without a card.
+
+  calibration_decisions:
+    - { id: vs-01, policy: "Filler and false-start removal", ruling: approve, limit: "voice-file tics survive; GM delivery filler does not" }
+    - { id: vs-02, policy: "Stage direction split out of NPC speech", ruling: approve, instances: 45 }
+    - { id: vs-03, policy: "Reassembling sentences split across cues", ruling: approve }
+    - { id: vs-04, policy: "Grammar repair where meaning is unambiguous", ruling: approve, limit: "ambiguous grammar stays near-verbatim" }
+    - { id: vs-05, policy: "OOC and table talk smoothed lightly, marker kept", ruling: approve }
+    - { id: vs-06, policy: "Unrecoverable fragments annotated, never guessed", ruling: approve }
+
+  scope_rulings:
+    - id: vs-07
+      kind: de-duplication
+      ruling: approve
+      detail: >
+        Four substantive lines duplicated between scenes 02 and 03 (the pivot into
+        the Daran visit) kept in 03, cut from 02. Checked before cutting: nothing
+        was unique to 02's copy. Scene-boundary notes left in both files. All other
+        cross-scene overlap is backchannel ("Okay.", "Yes.") and was left alone.
+    - id: vs-08
+      kind: tooling-noise cut
+      ruling: approve
+      cut:
+        - { scene: "02", line: "Alright, I just created a Google Doc." }
+        - { scene: "04", line: "I rolled an Insight check, but it looks like it's not connected to the Roll20." }
+        - { scene: "05", line: "/r d20. Okay, let me just do this." }
+        - { scene: "08", line: "Yeah, I know, that's because the tokens aren't set up correctly." }
+      excluded_deliberately: >
+        The GM's "I'm gonna roll for initiative so we can do things in sequence" —
+        running the game, not fighting the tool. Kept.
+      note: "Each cut is recorded by an italic note at the top of the affected section."
+    - id: vs-09
+      kind: player-name policy
+      ruling: approve
+      detail: "Scrub real names to GM/character names when copying summaries; quote lines already resolved by the Stage 2 attribution pass. Verified: 0 real names remain in the smoothed layer."
+
+  garble_rulings:
+    settled_by_written_source:
+      - { id: g-01, from: "called out the guy to them", to: "called out to them", source: "summaries/008/gm-assist.md" }
+      - { id: g-02, from: "hoping some would be come", to: "hoping someone would come", source: "summaries/008/gm-assist.md" }
+      - { id: g-03, from: "leaving the crevasse and garden", to: "leaving the crevasse unguarded", source: "summaries/008/gm-assist.md" }
+      - { id: g-04, from: "Another bugwear", to: "Another bugbear", source: "summaries/008/gm-assist.md" }
+      - { id: g-05, from: "All things not point the same direction a shard whipped soul to a peddler born first", to: "[Four things now point the same direction: a shard Pip sold to a peddler bound for this town…]", source: "notes/handouts/player_quest_log.md", note: "the campaign's thesis line" }
+      - { id: g-06, from: "find an or recon writers who's asking how we master the town master", to: "[Wyvern Tor — the caravan raiders. Who's asking: Harbin Wester, Townmaster. 120 gold pieces.]", source: "notes/handouts/player_quest_log.md" }
+    settled_by_context_or_registry:
+      - { id: g-07, fix: "Myrna -> Mirna (scene 05; Stage 2 fixed scene 01 only)" }
+      - { id: g-08, fix: "casel -> castle" }
+      - { id: g-09, fix: "bug beers -> bugbears" }
+      - { id: g-10, fix: "questmen -> quests" }
+      - { id: g-11, fix: "look kindy -> look kindly" }
+      - { id: g-12, fix: "tobliners -> Toblen is" }
+      - { id: g-13, fix: "the older one -> the Old Owl Well" }
+      - { id: g-14, fix: "older as well -> Old Owl Well" }
+      - { id: g-15, fix: "the best nude as I have -> the best news I have" }
+    approved_but_uncorroborated:
+      note: >
+        The GM approved these knowing they are my readings, not evidence. Recorded
+        separately so a later reader can see which repairs rest on a guess.
+      items: [g-16 loose heads->loose ends, g-17 torn to stretch->torn to shreds,
+              g-18 solved it->softened it, g-19 her never story->her Neverwinter story,
+              g-20 preference in life->purpose in life]
+    kept_annotated:
+      - { id: g-21, items: ["if you're just, like, licking", "it was somebody in the sky", "their hiding brothers", "Expect over there"], treatment: "kept as captured with 'Do not narrate as meaningful'" }
+
+  knowledge_boundary:
+    - id: k-01
+      ruling: approve
+      finding: >
+        The GM states on tape (transcript line 333) "he's a retired drow adventurer",
+        prefaced with "as I told you before". docs/world_state.md:53 still describes
+        Daran Edermath as "secretly a drow 500+ years old".
+      consequence: >
+        The doc and the table disagree and the table wins: Daran's drow heritage is
+        PARTY KNOWLEDGE in this campaign. Two follow-ups are owed — see carry_forward.
+
+  verification:
+    structural: "8/8 files carry '## Voiced moments', 'source: voice-smoothed' and a 'from:' backlink. 0 files carry '## Verbatim moments'. 0 re-introduced splices. 0 leftover truncation markers. 0 player real names."
+    delta_audit:
+      performed: true
+      violations_found: 5
+      detail: >
+        Word-level changes made while writing prose that mapped to NO approved card,
+        caught by diffing smoothed quotes against source and reading every added word:
+        "acting from"->"operating from" (03); a compressed line that dropped
+        "they're very desperate" and invented "seeker" (03); "Can't"->"Couldn't" (03);
+        "rough-ins"->"ruffians" (07); "neighboring"->"neighbouring" (07).
+        ALL FIVE REVERTED. Two are now annotated as uncarded garbles.
+      also_reverted_during_writing:
+        - '01: "carefully polite… war terms" — had been silently smoothed to "polite terms"; restored and annotated.'
+        - '04: "Generous to what?" — had been changed to "Dangerous to what?"; restored and annotated.'
+      lesson: >
+        Seven unilateral edits in one pass, every one made in good faith while
+        composing readable prose. This is why the audit is not optional.
+
+  upstream_defects_found:
+    - id: s2c-17
+      detail: >
+        A Stage 2 finding the GM ACCEPTED was never applied — the bracketed
+        reconstruction of Veyra's Orryn Voss theory in 01_a_heroic_recap.md.
+        Found by auditing accepted findings against the files before smoothing.
+        Applied late, to scene_extractions/ (the record), on 2026-09-03.
+      status: CLOSED
+
+  carry_forward:
+    - id: cf-vs-01
+      status: CLOSED
+      item: >
+        ~/.claude/skills/voice-smooth/SKILL.md documented a three-rule name-match
+        voice resolver (_resolve_voice_key, CampaignGenerator#247). That resolver
+        was removed; resolution is now load_declared_voices(cfg), driven by
+        `voice:` entries in party.yaml with EXACT name matching. Under the
+        documented rules "Sister Maela Dawnforge" resolves to first name "sister",
+        matches nothing, and gets no spec.
+      resolution: >
+        Fixed 2026-09-04. Step 1's resolver section rewritten around declarations:
+        the party.yaml shape, why matching is exact (get_voice_note computes no
+        distance or prefix — approximate matching is how "Gyrgum" resolved to
+        nothing silently), and the Maela title-as-first-name case named explicitly
+        as the one this campaign hits. Added a runnable pre-flight using
+        voice_declaration_problems + unknown_narrators, which answer the question
+        before any tokens are spent and distinguish "declares no voice file" from
+        "declares one that is missing". Also corrected: the inputs bullet, the
+        "spec does not resolve" rule (now points at the pre-flight), a new
+        Conventions bullet, and a note that load_voice_files is the orphan census
+        rather than the resolver.
+      verified: >
+        The documented snippet was run against this campaign and its output
+        checked. First version was wrong — it omitted resolve_party_config and
+        died on "'str' object has no attribute 'exists'"; corrected and re-run.
+        Now returns all four PCs including sister maela dawnforge (1588 chars).
+        Also documented that GM and NPCs correctly appear in unknown_narrators
+        and that only a PC there is a finding.
+    - id: cf-vs-02
+      status: OPEN
+      item: >
+        k-01 follow-ups: (a) docs/world_state.md:53 should stop calling Daran's
+        drow heritage secret; (b) notes/handouts/player_quest_log_pip.md omitted it
+        on the standing rule that no player has been told — that premise is false
+        here, so the handout may gain a line. PR #217 is still open.
+      owner: GM
+    - id: cf-vs-03
+      status: OPEN
+      item: >
+        Uncarded garbles left as captured and annotated, for a future pass:
+        "Before driving back in" (01), "war terms" (01), "Generous to what?" (04),
+        "rough-ins" (07). Each is annotated in place; none was repaired.
+      owner: GM
+
+  handoff:
+    session_doc_reads: "summaries/010-20260821/scene_extractions_smoothed/"
+    record_layers_untouched:
+      - "GMT20260822-010308_Recording.transcript.cleaned.vtt"
+      - "summaries/010-20260821/scene_extractions/"
+    warning: >
+      RE-RUNNING scene_extract WOULD DISCARD THIS PASS. True only in the smoothed
+      layer: the vs-07 de-duplication, the vs-08 tooling cuts, every editorial
+      annotation, and the stage-direction splits. The garble repairs in
+      scene_extractions/ (Stage 2 and s2c-17) would survive; everything above
+      would not.
