@@ -44,6 +44,7 @@ scene_extract_attribution:
   queue:
     total: 21
     tally: { accept: 19, reject: 1, pending: 1 }
+    # s2-14 exported pending; ruled ACCEPT in conversation 2026-09-03, after export.
     edits_applied: 6
 
   resolution:
@@ -85,8 +86,8 @@ scene_extract_attribution:
           split it"). Maela's dialogue now carries her own label; the GM keeps
           the narration frames.
     accepted_no_edit:
-      count: 14
-      findings: [s2-01, s2-02, s2-03, s2-04, s2-05, s2-06, s2-08, s2-10, s2-11, s2-13, s2-15, s2-16, s2-20, s2-21]
+      count: 15
+      findings: [s2-01, s2-02, s2-03, s2-04, s2-05, s2-06, s2-08, s2-10, s2-11, s2-13, s2-14, s2-15, s2-16, s2-20, s2-21]
       note: >
         GM narrating a sidekick in third person, or Nikhil's own Zenvon lines.
         Label was already correct; recorded, not edited.
@@ -101,20 +102,35 @@ scene_extract_attribution:
 
   carry_forward:
     - id: "cf-04"
-      status: OPEN
+      status: CLOSED
       item: >
         s2-14 (05_a_bounty_for_cragmaw_castle.md:208, Sildar's implied Lords'
-        Alliance opening for Pip) was exported as "pending" — no ruling. Not
-        treated as a decision; no edit made. Needs a GM ruling.
-      owner: GM
+        Alliance opening for Pip) exported as "pending" — no ruling in the JSON,
+        so it was not treated as a decision and no edit was made.
+      resolution: >
+        GM ruled ACCEPT in conversation on 2026-09-03: the block stays labelled
+        GM. It is the GM delivering a natural-20 Insight result to the player,
+        out of fiction, and it is the beat Zenvon deliberately withheld from
+        Pip — the same knowledge boundary that keeps it out of Pip's quest log.
+        Labelling it as a character would put GM-side information into a PC's
+        POV. No edit required.
     - id: "cf-05"
-      status: OPEN
+      status: CLOSED
       item: >
-        ~/.claude/skills/speaker-attribution/SKILL.md documents a removed API:
+        ~/.claude/skills/scene-extract/SKILL.md (NOT speaker-attribution — that
+        file was named in error and contains no such reference) documented a
+        removed API:
         normalize_vtt_speakers(vtt, party_map, gm_player) is now
         (vtt_text, speaker_map), and scene_extract's --gm-player is gone in
         favour of --players-config/--party-config. Cost time this run.
-      owner: GM
+      resolution: >
+        Fixed 2026-09-03. Steps 4 and 5 rewritten around
+        campaignlib.players_config.speaker_map and the two config files; step 7's
+        command updated; the stale notes entry and the skill's own frontmatter
+        description corrected. Step 2 also gained the permissive-regex rule and
+        two cheap guards, after a character-class survey pattern silently
+        dropped the "Filavandrel (Fil)" label and caused this session to be
+        misdiagnosed as the no-attribution single-mic case.
     - id: "cf-06"
       status: NOTE
       item: >
