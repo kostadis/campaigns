@@ -1,0 +1,254 @@
+consistency_check:
+  timestamp: '2026-09-03T21:20:00-07:00'
+  campaign: Phandalin
+  document_checked: summaries/20250812-chapter-08/session-summary.md
+  document_class: enhanced recap + backfill
+  report: summaries/20250812-chapter-08/consistency_report_stage1_summary.md
+  config: scratchpad throwaway absolute-path config (Phandalin has NO root config.yaml)
+  model: claude-fable-5
+  backend: claude-code
+  issues_found: 17
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: '2025-08-12'
+  staged_run: 'Stage 1 of /staged-consistency. Stage 0 closed in a prior run (13 issues, 9 applied).
+
+    Stage 2 (scene extractions) and Stage 3 (narration): NOT RUN — no artifacts exist.
+
+    They did not pass. Stage 2 is the load-bearing stage of this skill.
+
+    '
+  script_quirks_hit: "1. Banner reported \"No issues found.\" on a 17-finding report. The report numbers\n\
+    \   findings as \"### N. Title\", so `grep -c \"^### \"` was the right counter here —\n   but it returned\
+    \ 0 at Stage 0, where the same model used \"**N. Title**\" under\n   \"## \" sections. The heading\
+    \ shape is not stable between runs; look before counting.\n2. AUTO-CONTINUED across 2 assistant turns.\
+    \ Report inspected: sections well-formed,\n   findings numbered contiguously 1-17, tail is a complete\
+    \ entry. No seam damage.\n3. \"no entity_registry.yaml found under <scratchpad>, skipping canon section\"\
+    \ —\n   base_dir is the config's parent, so the throwaway config disables the script's\n   special\
+    \ canon section. The registry still reached the model via --context (the\n   report cites it as AUTHORITATIVE\
+    \ throughout), but this is a side effect of the\n   Phandalin config workaround and it applied at\
+    \ Stage 0 too. See carry_forward.\n"
+  sources:
+    auto_loaded:
+    - label: campaign_state
+      path: docs/campaign_state.md
+    - label: world_state
+      path: docs/world_state.md
+    context:
+    - path: docs/party.md
+      role: PCs (campaign-standard)
+    - path: docs/entity_registry.yaml
+      role: canonical entities + aliases (campaign-standard)
+    - path: notes/vtt_transcription_corrections.md
+      role: ASR garble glossary (campaign-standard)
+    - path: notes/vtt_known_additions.md
+      role: unpromoted confirmed names (campaign-standard)
+    - path: summaries/20250812-chapter-08/gm-assist.md
+      role: REQUIRED for this document class — the source recap the enhancement pass expanded
+    - path: docs/chapters/chapter_10_the_tower_of_storms_echoes_art_and_the_serpent_s_coil.md
+      role: bible chapter for this session; the only session-specific document that exists (no prep)
+    consulted_by_hand:
+    - path: summaries/20250812-chapter-08/session_20250812.displaynames.vtt
+      role: speaker-attributed transcript, display-name form. NOT a --context input.
+    - path: summaries/20250812-chapter-08/session_20250812.speakers.vtt
+      role: same text with [?] disagreement flags retained — used to weight attribution rulings
+  resolution:
+    reviewed_by: GM
+    reviewed: '2026-09-03'
+    gm_rulings_this_run:
+    - Fix the Lightning Bolt HP error in BOTH gm-assist.md and session-summary.md; flag chapter_10 as
+      correct.
+    - Apply all remaining findings to session-summary.md except 5, 14, 16, 17.
+    - Do NOT revert gm-assist.md — it keeps 'the tower's corrupted beacon' (l.14, l.92) and 'natural one'
+      (l.21). gm-assist stands as the preserved first-pass artifact; corrections live in session-summary.md.
+    applied:
+    - finding: 4
+      fix: BOTH DOCS — 'Soma at two, Vukradin at three, Brewbarry at four' -> 'Soma at two and Vukradin
+        at four; Brewbarry alone was untouched'.
+    - finding: 2
+      fix: '''natural 1'' -> ''effective 1 (a rolled 2, minus 1)'' in 3 places in session-summary.md.'
+    - finding: 3
+      fix: 'Soma''s Wild Shape re-sequenced: shifts at two HP, the 11 is the bear form''s pool.'
+    - finding: 1
+      fix: '''Krabby McGee'' -> ''Crabby McGee'' — registry spelling, table coinage kept.'
+    - finding: 7
+      fix: 3 remaining bare-'orc' regressions -> half-orc. Now 0 bare, 12 half-orc.
+    - finding: 8
+      fix: REVERSAL of a Stage 0 edit — see vtt_adjudicated. Beacon attribution removed; wrecks described
+        neutrally.
+    - finding: 9
+      fix: Stone Altar 'eyed as a likely key to lifting the tower's curse' -> 'noted it and left it alone'.
+    - finding: 10
+      fix: 'Locations: fresco chamber + altar room merged into one frescoed shrine room (T4), per registry.'
+    - finding: 11
+      fix: '''his Santorini house'' -> ''his house in Greece'' — Santorini is a fabrication.'
+    - finding: 12
+      fix: 'Thunderwave: ''Soma shrugs off the worst on her Constitution save'' -> ''Soma is pushed back
+        by the blast''.'
+    - finding: 15
+      fix: '''twenty-foot sphere'' -> ''twenty-foot-radius sphere''.'
+    rejected:
+    - finding: 6
+      ruling: Attributions are CORRECT — the report guessed label flips that the tape disproves.
+      rationale: 'Checked each against the attributed VTT. "Yeah, it smells of elderberry" IS
+
+        Wade (l.5531, unflagged) — he was feeding Vukradin the insult, which the report
+
+        offered as its own first hypothesis. Both natural-1 commentary lines are Wade
+
+        (l.3887, l.3899, unflagged) commenting on GARY''s roll; the report assumed a roll
+
+        statement must come from the roller. "Dex saves for everybody" is Gary (l.7311)
+
+        but is [?]-flagged, so it is the one genuinely uncertain item — left as-is,
+
+        noted rather than changed.
+
+        '
+    - finding: 13
+      ruling: Recap is correct.
+      rationale: 'Tape l.2207, Gary Young: "Okay, so Valphine, I assume, saves and is the 13th." She did
+        save; "freshly saved against the charm" stands.'
+    - finding: 5
+      ruling: Skipped by GM — already carried forward from Stage 0.
+      rationale: See carry_forward; the check independently found it and argues the OPPOSITE direction
+        from Stage 0's read. New evidence for the eventual sweep.
+    - finding: 14
+      ruling: Skipped by GM.
+      rationale: Self-targeted Bardic Inspiration — table ruling, consistent with the Stage 0 ruling.
+    - finding: 16
+      ruling: Not a recap finding.
+      rationale: '''Miral'' spelling in generated grounding docs. Report itself says recap is correct;
+        do not fix here.'
+    - finding: 17
+      ruling: Not a recap finding, and OVERTURNED.
+      rationale: Report queried chapter_10's 'everyone but Brewbarry is struck'. The tape confirms chapter_10
+        is RIGHT. See finding 4.
+  vtt_adjudicated: "Transcript read BY HAND; not a --context input.\n\nFINDING 4 — THE RUN'S REAL CATCH,\
+    \ and it proves Stage 0 was not clean.\nThe GM, twice (l.7339, l.7351):\n    Kostadis Roussos: \"\
+    So the three, everybody but Brewbarry.\"\n    Kostadis Roussos: \"It's everybody but Brewbarry.\"\n\
+    Then the results (l.7419, l.7423):\n    David Mendenhall: \"Ooh, I'm down to four.\"     <- Dave plays\
+    \ Vukradin\n    David Mendenhall: \"Soma, you're down to two.\"\nSo gm-assist.md:38 was wrong TWICE:\
+    \ Brewbarry was the one member explicitly\nEXCLUDED (his \"4\" is Vukradin's number, migrated), and\
+    \ Vukradin's \"3\" came from\nthe harpy fight 2,500 lines earlier (l.4867: \"Vukradin with three hit\
+    \ points and\nsilence concentration\"). Only Soma's 2 was right.\nThis originated in gm-assist.md,\
+    \ survived Stage 0 untouched — no grounding doc\nrecords hit points, so the check was STRUCTURALLY\
+    \ BLIND — and propagated into\nsession-summary.md. Exactly the fix-propagation failure this skill\
+    \ exists for.\nIt also FLIPPED the report's direction: the report guessed the bible was the likely\n\
+    error because the recap matched its own source. The bible was right.\n\nFINDING 8 — REVIEWER ERROR\
+    \ AT STAGE 0, corrected here. Recorded because it is the\nmore instructive of the two.\nAt Stage 0\
+    \ I applied the report's recommendation to re-attribute the shipwrecks from\nthe harpies to \"the\
+    \ tower's corrupted beacon\", citing entity_registry.yaml (\"Moesko\n... using the beacon to wreck\
+    \ ships\"). That is MODULE truth. I did not run the\n\"module truth != party knowledge\" test. The\
+    \ tape (l.2815, in context):\n    David Mendenhall: \"This is what is luring all the ships to be smashed.\"\
+    \n    David Mendenhall: \"So we have a moral obligation to defeat the harpies.\"\nThe party's on-screen\
+    \ belief was THE HARPIES. The recap's original wording was right\nand my edit laundered GM knowledge\
+    \ into party knowledge two sessions before the T9\nreveal. Fixed here by describing the wrecks neutrally\
+    \ (\"broken on the rocks below\"),\nwhich is true under either reading and burns no reveal.\nLesson:\
+    \ a registry citation is evidence about the WORLD, never about what the party\nlearned. On a knowledge-boundary\
+    \ finding the registry is not the authority; the tape is.\n\nFINDING 11 — \"Santorini\" appears nowhere\
+    \ on tape; only \"Greece\" (l.7967, l.8475).\nA clean instance of the enhancement pass inventing a\
+    \ specific detail. Note the\nADJACENT invention-suspect in the same document was real: the 25-damage\
+    \ Lightning\nBolt is verbatim (\"25 half damage is 12\"). Verify each individually.\n\nFINDING 12\
+    \ — l.8275 \"Pushed back.\" / l.8283 Dave: \"You're pushed back.\" Wade = Soma,\nso Soma WAS pushed,\
+    \ matching chapter_10's \"pushes me back\". The recap's \"shrugs off\nthe worst on her Constitution\
+    \ save\" was the wrong half.\n"
+  carry_forward:
+  - status: WONTFIX
+    item: 'GM RULED: do not revert. gm-assist.md keeps ''the tower''s corrupted beacon''
+
+      (l.14, l.92) and ''natural one'' (l.21); both are corrected in session-summary.md
+
+      only. gm-assist stands as the preserved first-pass artifact.
+
+
+      ONE LIVE CONSEQUENCE, for whoever runs the pipeline next: enhance_summary reads
+
+      gm-assist.md as its structural spec, so a re-run of Stage 1 will regenerate
+
+      session-summary.md carrying the beacon wording again. The Stage 1 fixes are not
+
+      durable against a Stage 1 re-run. If Stage 1 is ever re-run for this session,
+
+      re-apply findings 8 and 2 to the new output, or revisit this ruling.
+
+
+      The beacon wording is a knowledge-boundary leak introduced by the reviewer at
+
+      Stage 0 (see vtt_adjudicated FINDING 8) — the party''s on-screen belief was that
+
+      the HARPIES lured the ships. Anything downstream that treats gm-assist.md as a
+
+      knowledge-allowlist source for chapter 8 should use session-summary.md instead.'
+  - status: CORRECTION
+    item: 'CORRECTS THE STAGE 0 MANIFEST. That manifest records finding 5 (shipwrecks ->
+
+      beacon) under `applied` with no caveat. It was wrong — see vtt_adjudicated
+
+      FINDING 8. The Stage 0 entry should be read with this correction attached.
+
+      '
+  - status: DONE
+    item: 'chapter_10''s "everyone but Brewbarry is struck" was queried by the report
+
+      (finding 17) and is CONFIRMED CORRECT on tape. No edit to docs/chapters/ needed.
+
+      This is the second time this run that the bible outranked the recap.
+
+      '
+  - status: OPEN
+    item: 'STAGES 2-3 NOT RUN — no artifacts. Stage 2 (verbatim scene-quote fidelity) is
+
+      the load-bearing stage of /staged-consistency. Run /scene-extract (it needs
+
+      players.session.yaml), then re-invoke.
+
+      '
+  - status: NOTE
+    item: 'The Phandalin throwaway-config workaround disables check_consistency.py''s
+
+      "canon section" (it looks for entity_registry.yaml under base_dir = the config''s
+
+      parent). The registry still reaches the model via --context and the reports cite
+
+      it as AUTHORITATIVE, so the impact is presentational — but a scratchpad config
+
+      silently downgrades one feature. Putting the throwaway config in the campaign
+
+      root instead of the scratchpad would restore it.
+
+      '
+  - status: OPEN
+    item: 'CHAPTER NUMBERING (carried from Stage 0, now with new evidence). Stage 0 read
+
+      this session as bible chapter 10. The Stage 1 check independently found the
+
+      conflict and argues the OPPOSITE: campaign_state.md says "Ch08-09 | Tower of
+
+      Storms", weekly cadence from summaries/20250805-chapter-07 gives 2025-08-12 = ch8,
+
+      and the documented 2026-08-18 renumbering only corrected references >= 21. Both
+
+      readings are now on record. GM ruled: leave it, do not partially renumber.
+
+      '
+  - status: CORRECTION
+    item: PROCESS GAP, now closed. Stage 1 was first reported without running sd_verify_quotes, and quotes
+      were spot-checked by hand instead. The GM pointed out the command existed. It is deterministic,
+      free, needs no backend, and the pipeline doc places it at exactly this gate (session-summary.md
+      -> sd_verify_quotes -> quote_report.md -> HUMAN REVIEW). Run it at every Stage 1 and Stage 2 before
+      presenting findings; hand adjudication then covers only what it cannot see.
+  quote_verification: "sd_verify_quotes (deterministic, zero-token, no backend) run against\nsession_20250812.displaynames.vtt\
+    \ — the same VTT both artifacts were generated from.\n  session-summary.md : 27/27 verified, 0 near,\
+    \ 0 unverified, 0 refused\n  gm-assist.md       :  1/1  verified, 0 near, 0 unverified, 0 refused\n\
+    Reports: quote_report_stage1.md, quote_report_stage0_gmassist.md (--report-only,\nso no cg:unverified\
+    \ markers were written).\n\nREAD THIS RESULT NARROWLY. The tool states its own two exclusions, and\
+    \ both are\nexactly where this run's real defects lived:\n  - inline \"...\" spans in prose are NOT\
+    \ checked (only `> \"...\"` blockquotes) —\n    'Santorini', finding 11, is inline prose and scores\
+    \ nothing here;\n  - speaker attribution is NOT checked. It answers *were these words said*, not\n\
+    \    *did this person say them* — so the David->Wade error at Stage 0 and the four\n    finding-6\
+    \ attribution questions are outside its scope entirely.\nIt is complementary to hand VTT adjudication,\
+    \ never a substitute. What it DOES buy:\nexhaustive coverage of every blockquote, which hand-checking\
+    \ never achieves — and\nthe enhancement pass added 26 blockquotes to gm-assist's 1, every one verbatim.\n\
+    That is strong evidence the enhancement pass is quote-faithful, and it localises\nthe remaining error\
+    \ surface to prose, attribution and numbers."
