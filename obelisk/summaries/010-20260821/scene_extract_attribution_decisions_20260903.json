@@ -1,0 +1,222 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "scene-extract:010-20260821:attribution:20260903",
+  "savedAt": "2026-09-04T03:47:36.622Z",
+  "tally": {
+    "accept": 19,
+    "pending": 1,
+    "reject": 1
+  },
+  "decisions": [
+    {
+      "id": "s2-01",
+      "scene": "01",
+      "sceneName": "A Heroic Recap",
+      "verdict": "keep",
+      "title": "01_a_heroic_recap.md:99 — **GM** recapping the party's decision to give the sword to Pip",
+      "target": "summaries/010-20260821/scene_extractions/01_a_heroic_recap.md:99",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-02",
+      "scene": "01",
+      "sceneName": "A Heroic Recap",
+      "verdict": "keep",
+      "title": "01_a_heroic_recap.md:121 — **GM** recapping Ssarnak's revelation to Veyra during the escape",
+      "target": "summaries/010-20260821/scene_extractions/01_a_heroic_recap.md:121",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-03",
+      "scene": "01",
+      "sceneName": "A Heroic Recap",
+      "verdict": "keep",
+      "title": "01_a_heroic_recap.md:126 — **GM** recapping the resonance between Zenvon's black stone and Veyra's crystal",
+      "target": "summaries/010-20260821/scene_extractions/01_a_heroic_recap.md:126",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-04",
+      "scene": "01",
+      "sceneName": "A Heroic Recap",
+      "verdict": "keep",
+      "title": "01_a_heroic_recap.md:130 — **GM** recapping Veyra's theory about the connected mysteries",
+      "target": "summaries/010-20260821/scene_extractions/01_a_heroic_recap.md:130",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-05",
+      "scene": "03",
+      "sceneName": "Consulting Daran Edermath",
+      "verdict": "keep",
+      "title": "03_consulting_daran_edermath.md:141 — **GM** Pip reacts to the prolonged lecture",
+      "target": "summaries/010-20260821/scene_extractions/03_consulting_daran_edermath.md:141",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-06",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "keep",
+      "title": "05_a_bounty_for_cragmaw_castle.md:101 — **GM** Pip prompts Zenvon to ask for the amount",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:101",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-07",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "fix",
+      "title": "05_a_bounty_for_cragmaw_castle.md:107 — **GM** Pip openly ingratiates himself with Sildar and asks about payment",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:107",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-08",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "keep",
+      "title": "05_a_bounty_for_cragmaw_castle.md:113 — **Zenvon Forepot** letting Pip conduct the negotiation",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:113",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-09",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "fix",
+      "title": "05_a_bounty_for_cragmaw_castle.md:116 — **GM** Pip eagerly turns to Zenvon",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:116",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-10",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "keep",
+      "title": "05_a_bounty_for_cragmaw_castle.md:120 — **GM** Sildar again corrects Pip's form of address",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:120",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-11",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "keep",
+      "title": "05_a_bounty_for_cragmaw_castle.md:143 — **Zenvon Forepot** pulling Pip aside and tempering his enthusiasm",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:143",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-12",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "fix",
+      "title": "05_a_bounty_for_cragmaw_castle.md:154 — **GM** Pip accepts the advice and cools his response",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:154",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-13",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "keep",
+      "title": "05_a_bounty_for_cragmaw_castle.md:187 — **GM** clarifying that Sildar is speaking to Pip",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:187",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-14",
+      "scene": "05",
+      "sceneName": "A Bounty for Cragmaw Castle",
+      "verdict": "keep",
+      "title": "05_a_bounty_for_cragmaw_castle.md:208 — **GM** revealing Sildar's implied opportunity for Pip",
+      "target": "summaries/010-20260821/scene_extractions/05_a_bounty_for_cragmaw_castle.md:208",
+      "status": "pending",
+      "note": ""
+    },
+    {
+      "id": "s2-15",
+      "scene": "07",
+      "sceneName": "Arrival at the Old Owl Well",
+      "verdict": "keep",
+      "title": "07_arrival_at_the_old_owl_well.md:121 — **GM** prompting Sister Maela's Arcana assessment",
+      "target": "summaries/010-20260821/scene_extractions/07_arrival_at_the_old_owl_well.md:121",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-16",
+      "scene": "07",
+      "sceneName": "Arrival at the Old Owl Well",
+      "verdict": "keep",
+      "title": "07_arrival_at_the_old_owl_well.md:129 — **GM** explaining what Sister Maela knows",
+      "target": "summaries/010-20260821/scene_extractions/07_arrival_at_the_old_owl_well.md:129",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-17",
+      "scene": "07",
+      "sceneName": "Arrival at the Old Owl Well",
+      "verdict": "keep",
+      "title": "07_arrival_at_the_old_owl_well.md:136 — **GM** Sister Maela identifies the likely source of the undead",
+      "target": "summaries/010-20260821/scene_extractions/07_arrival_at_the_old_owl_well.md:136",
+      "status": "reject",
+      "note": ""
+    },
+    {
+      "id": "s2-18",
+      "scene": "07",
+      "sceneName": "Arrival at the Old Owl Well",
+      "verdict": "fix",
+      "title": "07_arrival_at_the_old_owl_well.md:180 — **GM** Veyra recognizes Hamun as a wizard",
+      "target": "summaries/010-20260821/scene_extractions/07_arrival_at_the_old_owl_well.md:180",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-19",
+      "scene": "07",
+      "sceneName": "Arrival at the Old Owl Well",
+      "verdict": "fix",
+      "title": "07_arrival_at_the_old_owl_well.md:414 — **GM** clarifying Sister Maela's question",
+      "target": "summaries/010-20260821/scene_extractions/07_arrival_at_the_old_owl_well.md:414",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-20",
+      "scene": "08",
+      "sceneName": "Scouting Wyvern Tor",
+      "verdict": "keep",
+      "title": "08_scouting_wyvern_tor.md:62 — **Zenvon Forepot** silently answering Veyra's earlier doubt",
+      "target": "summaries/010-20260821/scene_extractions/08_scouting_wyvern_tor.md:62",
+      "status": "accept",
+      "note": ""
+    },
+    {
+      "id": "s2-21",
+      "scene": "08",
+      "sceneName": "Scouting Wyvern Tor",
+      "verdict": "keep",
+      "title": "08_scouting_wyvern_tor.md:65 — **GM** Veyra concedes as the camp comes into view",
+      "target": "summaries/010-20260821/scene_extractions/08_scouting_wyvern_tor.md:65",
+      "status": "accept",
+      "note": ""
+    }
+  ]
+}

@@ -133,12 +133,28 @@ source: gmassist
 **Zenvon Forepot**
 > "Wow."
 
-**GM** — *Sister Maela identifies the likely source of the undead*
+**GM** — *narrating Sister Maela's assessment*
 > "Zombies are essentially mindless monsters. Sister Maela looks at the… looks at the,"
-> "the tent, and says, there's probably a necromancer."
-> "She looks at you… she looks at you and realizes you're confused and says, a magic user who some… who takes the dead corpses and reanimates them."
-> "She goes, very evil magic."
-> "And very dangerous magic, and very powerful magic, given the number… and whoever's doing it is not a… you know, so just, you know, so she's like, okay, this is, this is, this, as they say, is interesting."
+> "the tent, and says,"
+
+**Sister Maela Dawnforge** — *identifying the likely source of the undead*
+> "there's probably a necromancer."
+
+**GM** — *narrating Maela reading Zenvon's confusion*
+> "She looks at you… she looks at you and realizes you're confused and says,"
+
+**Sister Maela Dawnforge** — *explaining what a necromancer is*
+> "a magic user who some… who takes the dead corpses and reanimates them."
+
+**GM**
+> "She goes,"
+
+**Sister Maela Dawnforge** — *warning what raising this many corpses implies*
+> "very evil magic."
+> "And very dangerous magic, and very powerful magic, given the number…"
+
+**GM** — *closing the beat*
+> "and whoever's doing it is not a… you know, so just, you know, so she's like, okay, this is, this is, this, as they say, is interesting."
 
 **Pip Thistlewick** — *warning Zenvon against a direct battle*
 > "Boss, I don't know if we want to fight all these zombies."
@@ -177,10 +193,20 @@ source: gmassist
 **Zenvon Forepot** — *reporting the Arcana result*
 > "That was bad. 9 plus 2, 11. Oh, sorry, no, no, no, it's 9, 9, total 9."
 
-**GM** — *Veyra recognizes Hamun as a wizard*
-> "Veyra turns to you and says, yup! He's a wizard, he's a wizard, he's an,"
+**GM** — *narrating Veyra turning to Zenvon*
+> "Veyra turns to you and says,"
+
+**Veyra of the Blue Candle** — *recognizing Hamun as a wizard*
+> "yup! He's a wizard, he's a wizard, he's an,"
 > "He… his… do you see those tattoos on his head?"
-> "She pulls out a notebook and points, they're the symbols of a necromancer!"
+
+**GM** — *narrating Veyra consulting her notebook*
+> "She pulls out a notebook and points,"
+
+**Veyra of the Blue Candle** — *identifying the tattoos*
+> "they're the symbols of a necromancer!"
+
+**GM** — *calling for a check*
 > "Alright, roll a history check."
 
 **Zenvon Forepot**
@@ -411,8 +437,11 @@ source: gmassist
 **Sister Maela Dawnforge** — *asking why Hamun will not go himself*
 > "why don't you ask her yourself?"
 
-**GM** — *clarifying Sister Maela's question*
-> "Sister Maela's, like, curious, like, why don't you ask him yourself?"
+**GM** — *narrating Maela's curiosity*
+> "Sister Maela's, like, curious, like,"
+
+**Sister Maela Dawnforge** — *asking why Hamun will not approach Agatha himself*
+> "why don't you ask him yourself?"
 
 **Hamun Kost** — *admitting his concern*
 > "well, I mean, it's a Banshee, and I don't want to get, you know, killed by a Banshee."

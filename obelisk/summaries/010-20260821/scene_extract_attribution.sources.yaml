@@ -1,0 +1,133 @@
+scene_extract_attribution:
+  timestamp: "2026-09-03T21:10:00-07:00"
+  campaign: "/home/kroussos/obelisk/obelisk"
+  stage: 2
+  stage_name: "scene extraction — speaker attribution"
+  session_date: "2026-08-21"
+  target_dir: "summaries/010-20260821/scene_extractions"
+  decisions_file: "summaries/010-20260821/scene_extract_attribution_decisions_20260903.json"
+  review_artifact: "https://claude.ai/code/artifact/53425455-54bb-4f87-af33-8b4a4ea1c8d2"
+  review_method: "batch — interactive artifact, Accept/Reject/Discuss, JSON export"
+
+  speaker_resolution:
+    problem: >
+      config/players.yaml did not list Nikhil's Zoom display name, so the
+      recording's 363 "Filavandrel (Fil)" cues failed speaker normalisation.
+    fix: 'Added "Filavandrel (Fil)" to nikhil.display_names.'
+    gate: "pre-flight unrewritten cues 363 -> 0"
+    result: "974 cues rewritten — 611 GM, 363 Zenvon Forepot"
+    identity_ruling:
+      question: 'Is "Filavandrel (Fil)" Nikhil Reddy, or a different player this session?'
+      answer: "Nikhil Reddy's Zoom handle. Ruled by the GM, 2026-09-03."
+    cross_validation:
+      method: "pyannote community-1, num_speakers=2, on the session .m4a vs Zoom's own labels"
+      agreement: "93.8% cue-level (914/974)"
+      matrix:
+        - { zoom: "Kostadis Roussos", cluster: SPEAKER_00, share: "94%" }
+        - { zoom: "Filavandrel (Fil)", cluster: SPEAKER_01, share: "92%" }
+      disagreements: >
+        60 cues, median length 1 word, 46/60 are <=4 words — backchannels on
+        turn boundaries. Not actionable; not fixed in bulk.
+      vocative_mining: >
+        SPEAKER_01 answers "Zenvon" 3/3 and "Pip" 6/6 vocatives; SPEAKER_00
+        speaks both names and answers neither. Independent of the Zoom labels.
+      collapse_warning: >
+        diarize_label.py warned "largest cluster is 71% of speech — clustering
+        has probably collapsed". FALSE POSITIVE: the threshold is tuned for 3+
+        speakers, and a two-person table where one runs the game is expected to
+        be lopsided. Refuted by the 93.8% agreement and the vocative split.
+    artifacts:
+      - { path: "summaries/010-20260821/turns.json", role: "pyannote diarization turns" }
+      - { path: "summaries/010-20260821/GMT20260822-010308_Recording.speakers.vtt", role: "labelled VTT — provenance for the ruling, not a pipeline input" }
+      - { path: "summaries/010-20260821/GMT20260822-010308_Recording.speakerless.vtt", role: "intermediate; Zoom labels stripped for the join" }
+
+  queue:
+    total: 21
+    tally: { accept: 19, reject: 1, pending: 1 }
+    edits_applied: 6
+
+  resolution:
+    status: "REVIEWED"
+    reviewed_by: "GM"
+    reviewed: "2026-09-03"
+    applied:
+      - finding: "s2-07"
+        target: "05_a_bounty_for_cragmaw_castle.md:107"
+        fix: >
+          Split one GM block covering narration, Pip first-person and Sildar
+          first-person into GM / Pip Thistlewick / Sildar Hallwinter turns.
+        note: "The worst block in the queue — three speakers under one label."
+      - finding: "s2-09"
+        target: "05_a_bounty_for_cragmaw_castle.md:116"
+        fix: "Separated the narration frame from Pip's two first-person lines."
+      - finding: "s2-12"
+        target: "05_a_bounty_for_cragmaw_castle.md:154"
+        fix: >
+          Attributed both first-person spans to Pip, including "it's a chunk of
+          change… we'll keep that under advisement, Sildar" — the line the
+          session summary already quotes as Pip's.
+      - finding: "s2-18"
+        target: "07_arrival_at_the_old_owl_well.md:180"
+        fix: "Attributed three first-person lines to Veyra of the Blue Candle."
+      - finding: "s2-19"
+        target: "07_arrival_at_the_old_owl_well.md:414"
+        fix: >
+          Attributed Maela's question to her; it is the setup for Hamun's
+          banshee admission in the next block.
+    rejected_recommendation_applied:
+      - finding: "s2-17"
+        target: "07_arrival_at_the_old_owl_well.md:136"
+        recommendation: "Leave — reported speech, frames intact."
+        gm_ruling: "REJECT"
+        action: >
+          Split, per the option offered with the recommendation ("if you'd
+          rather Maela's dialogue carry her own label, reject this and I'll
+          split it"). Maela's dialogue now carries her own label; the GM keeps
+          the narration frames.
+    accepted_no_edit:
+      count: 14
+      findings: [s2-01, s2-02, s2-03, s2-04, s2-05, s2-06, s2-08, s2-10, s2-11, s2-13, s2-15, s2-16, s2-20, s2-21]
+      note: >
+        GM narrating a sidekick in third person, or Nikhil's own Zenvon lines.
+        Label was already correct; recorded, not edited.
+
+  verification:
+    verbatim_preserved: true
+    method: >
+      Word sequence compared against git HEAD with punctuation and quote marks
+      stripped. 05_a_bounty: 1043 words before and after, identical sequence.
+      07_arrival: 2222 words before and after, identical sequence. Only speaker
+      labels and quote boundaries moved; no text added, lost or reordered.
+
+  carry_forward:
+    - id: "cf-04"
+      status: OPEN
+      item: >
+        s2-14 (05_a_bounty_for_cragmaw_castle.md:208, Sildar's implied Lords'
+        Alliance opening for Pip) was exported as "pending" — no ruling. Not
+        treated as a decision; no edit made. Needs a GM ruling.
+      owner: GM
+    - id: "cf-05"
+      status: OPEN
+      item: >
+        ~/.claude/skills/speaker-attribution/SKILL.md documents a removed API:
+        normalize_vtt_speakers(vtt, party_map, gm_player) is now
+        (vtt_text, speaker_map), and scene_extract's --gm-player is gone in
+        favour of --players-config/--party-config. Cost time this run.
+      owner: GM
+    - id: "cf-06"
+      status: NOTE
+      item: >
+        The extractor labels some NPC dialogue directly (Hamun Kost 23 blocks,
+        Toblen Stonehill 7) rather than as GM-voicing-NPC. These edits follow
+        that existing convention. Downstream parsing must handle three label
+        shapes: GM, PC names, and NPC names.
+
+  notes: |
+    Diarization was run on a mistaken premise. An initial speaker survey used a
+    regex character class that could not match parentheses, so it reported only
+    "Kostadis Roussos" and the VTT was described as the zero-information
+    single-room case. It was not — Zoom carried two labels all along. The
+    diarization nevertheless earned its cost by becoming the independent second
+    clustering the session otherwise lacked (no Descript export), which is what
+    makes the 93.8% figure above meaningful.

@@ -104,17 +104,36 @@ source: gmassist
 **Zenvon Forepot**
 > "Oh, I'm not gonna ask, but you ask."
 
-**GM** — *Pip openly ingratiates himself with Sildar and asks about payment*
-> "Pip goes, he sort of stands, Mr. Sildar?"
-> "Right? Obviously, Pip is trying to suck up to him, right? Mr. Sildar, sir, yes, Pip! You don't have to call me Mr, you can just call me Sildar."
-> "Oh, thank you, thank you, Sildar. well, how much money would there be? Well, Pip."
+**GM** — *narrating Pip getting to his feet*
+> "Pip goes, he sort of stands,"
+
+**Pip Thistlewick** — *addressing Sildar with excessive formality*
+> "Mr. Sildar?"
+
+**GM** — *out-of-character aside on Pip's angle*
+> "Right? Obviously, Pip is trying to suck up to him, right?"
+
+**Pip Thistlewick** — *pressing on with the honorific*
+> "Mr. Sildar, sir,"
+
+**Sildar Hallwinter** — *waving off the title*
+> "yes, Pip! You don't have to call me Mr, you can just call me Sildar."
+
+**Pip Thistlewick** — *getting to the question he actually cares about*
+> "Oh, thank you, thank you, Sildar. well, how much money would there be?"
+
+**Sildar Hallwinter** — *naming the figure*
+> "Well, Pip."
 > "I think that, you know, Lords Alliance is looking to… thinks this is an important thing, so if you were to deal with everything there, 500 gold pieces would definitely enter your pockets."
 
 **Zenvon Forepot** — *letting Pip conduct the negotiation*
 > "I'm just silent. I'll just let Pip do the talking."
 
-**GM** — *Pip eagerly turns to Zenvon*
-> "Right, so Pip, Pip's, Pip's, pleased with that. He turns, he says, boss, are we gonna go do that? But, I mean."
+**GM** — *narrating Pip's reaction*
+> "Right, so Pip, Pip's, Pip's, pleased with that. He turns, he says,"
+
+**Pip Thistlewick** — *eagerly turning to Zenvon, then back to Sildar*
+> "boss, are we gonna go do that? But, I mean."
 > "Well, I think that's very generous of you, Mr. Sildar."
 
 **GM** — *Sildar again corrects Pip’s form of address*
@@ -151,8 +170,13 @@ source: gmassist
 **Zenvon Forepot**
 > "Yeah, yeah."
 
-**GM** — *Pip accepts the advice and cools his response*
-> "tips like… That's a… that's good advice, boss. He turns to Sildar and says."
+**Pip Thistlewick** — *accepting Zenvon's advice*
+> "tips like… That's a… that's good advice, boss."
+
+**GM** — *narrating the turn back to Sildar*
+> "He turns to Sildar and says."
+
+**Pip Thistlewick** — *cooling his response*
 > "Well, I mean, you know, it's a chunk of change, but we're… you know, we'll keep that under advisement, Sildar."
 
 **Zenvon Forepot**
