@@ -22,6 +22,9 @@ from: ../scene_extractions/04_preparations_at_stonehill_inn.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-04): the Insight check call and its reported total. What Zenvon learns from it is kept. Verbatim record untouched in ../scene_extractions/. (/no-mech)*
+
+
 *Cut from this layer: a beat of the player reporting that his dice roller was not connected to Roll20 — table/tooling logistics, not narratable content. See `voice_smooth.sources.yaml`. (Ruling `vs-08`.)*
 
 **Zenvon Forepot** — *announcing the party's return to the inn*
@@ -30,7 +33,6 @@ from: ../scene_extractions/04_preparations_at_stonehill_inn.md
 **GM** — *the party arrives at Stonehill Inn*
 > "You arrive at the Stonehill Inn."
 
-**[Preparations at Stonehill Inn]**
 - Toblen Stonehill is delighted to see the party.
 - The GM notes that the adventurers are still "the toast of the town."
 
@@ -50,13 +52,11 @@ from: ../scene_extractions/04_preparations_at_stonehill_inn.md
 > "The heroes! The heroes of Phandalin."
 > "Elsa, why don't you get him a beer?"
 
-**[Preparations at Stonehill Inn]**
 - Elsa pours Zenvon a beer.
 
 **Zenvon Forepot** — *accepting the drink and announcing the next morning's journey*
 > "Thank you. So, I wanted to tell you that my friends and I are leaving for Conyberry tomorrow, first thing in the morning."
 
-**Toblen Stonehill** — *questioning the proposed route*
 > *He pauses.* "And why would you want to go there?"
 
 **Zenvon Forepot** — *explaining the party's destination*
@@ -69,7 +69,6 @@ from: ../scene_extractions/04_preparations_at_stonehill_inn.md
 **Zenvon Forepot** — *asking whether Toblen knows a safer route*
 > "Well, that's the closest to the Old Owl Well. Do you know a better route — one that's kind of safe?"
 
-**Toblen Stonehill** — *expressing concern about the abandoned town*
 > *He goes:* "Conyberry's been abandoned for years."
 > "But I guess it's a place you could go."
 > *He pauses.* "I don't know about you, but going into abandoned towns doesn't feel safe."
@@ -101,12 +100,6 @@ from: ../scene_extractions/04_preparations_at_stonehill_inn.md
 **Zenvon Forepot** — *acknowledging the reminder*
 > "Yep."
 
-**GM** — *calling for an Insight check*
-> "Roll an Insight check."
-
-**Zenvon Forepot** — *reporting the result*
-> "Fourteen?"
-
 **GM** — *revealing that Toblen's concerns are not based on firsthand experience*
 > "So what you get the impression of is that Toblen hasn't been to Conyberry in his life."
 > "So he might just be expressing fears and concerns rather than any useful information — but the knowledge about it being an abandoned town is real."
@@ -122,7 +115,6 @@ from: ../scene_extractions/04_preparations_at_stonehill_inn.md
 > "So the magical events of the Spellplague are why the town was destroyed. It's long history."
 > "And then you recall that the Spellplague was an era where the gods were playing games with mortals."
 
-**[Preparations at Stonehill Inn]**
 - The party completes its long rest.
 - Morning arrives at Stonehill Inn.
 

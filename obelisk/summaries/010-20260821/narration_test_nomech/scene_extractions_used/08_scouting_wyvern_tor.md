@@ -24,18 +24,30 @@ from: ../scene_extractions/08_scouting_wyvern_tor.md
 
 ## Voiced moments
 
-*Cut by GM ruling (2026-09-04): 21 of 28 quotes — DC negotiation, both Perception calls and totals, VTT map placement, wall-clock and session-scheduling talk. KEPT: Veyra's two lines, the GM's 'look at her knowingly' prompt, Zenvon's silent stare, the natural-20 find, and the smoke-and-ridge read-aloud. Verbatim record untouched in ../scene_extractions/. (/no-mech)*
-
-
 *Cut from this layer: a beat of map-token troubleshooting at the end of the session — table/tooling logistics, not narratable content. See `voice_smooth.sources.yaml`. (Ruling `vs-08`.)*
 
+**[Scouting Wyvern Tor]**
 - The party leaves Old Owl Well and heads toward Wyvern Tor.
+
+**GM** — *setting up the search for the marauder camp*
+
+**Zenvon Forepot** — *clarifying the available navigation checks*
+
+**GM** — *clarifying the checks*
+
+**Zenvon Forepot** — *choosing Perception*
+
+**GM** — *calling for the first check*
+
+**Zenvon Forepot** — *reporting the first result*
 
 **GM** — *the first hour of searching fails*
 > "You go an hour, and Veyra says: I don't think you know where you're going, buddy."
 
+**Zenvon Forepot** — *confirming the second attempt*
+
 **GM** — *Zenvon's second check succeeds spectacularly*
-> "You roll the natural 20. And you not only find the camp — you find a shortcut there."
+> "You not only find the camp — you find a shortcut there."
 > "Veyra was unimpressed with your previous searching. Do you want to tell her anything, or just look at her knowingly?"
 
 **Zenvon Forepot** — *silently answering Veyra's earlier doubt*
@@ -46,5 +58,16 @@ from: ../scene_extractions/08_scouting_wyvern_tor.md
 > "And so — the faint smell of smoke hangs in the air as you ascend a rugged ridge on the lower slopes of the hill."
 > "Fifty yards away, a cave mouth opens up at the bottom of the ravine. Hunkered down by a boulder twenty yards outside the cave, evidently keeping watch, is a single bugbear."
 
+**[Scouting Wyvern Tor]**
 - The party stops after locating the cave and its lone bugbear sentry.
 
+**GM** — *ending the scene*
+
+**Zenvon Forepot** — *checking whether the sentry has detected the party*
+
+**GM** — *confirming the party remains outside the sentry's position*
+
+**GM** — *revealing the cave entrance*
+> "That's the cave entrance."
+
+**Zenvon Forepot**

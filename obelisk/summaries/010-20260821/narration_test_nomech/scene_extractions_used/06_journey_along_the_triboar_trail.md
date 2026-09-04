@@ -24,4 +24,5 @@ from: ../scene_extractions/06_journey_along_the_triboar_trail.md
 
 ## Voiced moments
 
-*Cut in full by GM ruling (2026-09-04): none of this scene's 47 quotes is roleplay — GM/player map operation (distance measuring, token placement, pointing at the map) and out-of-character exposition delivered to the player as a lecture. Applies the standing ch10 scene-02 precedent in notes/scrub_register_policy.md. Narrate from the summary bullets alone: they already carry the caravan wreck, the north-south trade route, Neverwinter's frontier and the Spellplague. Verbatim record untouched in ../scene_extractions/. (/no-mech)*
+*TEST CUT: all 47 quotes were GM map operation and out-of-character
+exposition; no character speaks in character. Narrate from the summary bullets.*

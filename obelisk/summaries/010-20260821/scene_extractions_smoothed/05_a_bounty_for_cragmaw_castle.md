@@ -29,9 +29,11 @@ from: ../scene_extractions/05_a_bounty_for_cragmaw_castle.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-04): the Overland-map transition and the Insight check call and total. Sildar's read on Pip is kept. Verbatim record untouched in ../scene_extractions/. (/no-mech)*
+
+
 *Cut from this layer: a beat of the player typing his dice-roller command — table/tooling logistics, not narratable content. See `voice_smooth.sources.yaml`. (Ruling `vs-08`.)*
 
-**[A Bounty for Cragmaw Castle]**
 - The party comes downstairs the next morning.
 
 **GM** — *Sildar asks the party to join him*
@@ -86,7 +88,6 @@ from: ../scene_extractions/05_a_bounty_for_cragmaw_castle.md
 > "Alright, well, I guess we can talk about it once we're back."
 > "From Conyberry?"
 
-**GM** — *as Sildar, emphasizing the size of the reward*
 > *He pauses.* "Well, I just want you to know that there is a large amount of money for someone who's going to—"
 
 **GM** — *Pip prompts Zenvon to ask for the amount*
@@ -101,7 +102,6 @@ from: ../scene_extractions/05_a_bounty_for_cragmaw_castle.md
 **Pip Thistlewick** — *addressing Sildar with excessive formality*
 > "Mr. Sildar?"
 
-**GM** — *out-of-character aside on Pip's angle*
 > *[OOC]* "Obviously, Pip is trying to suck up to him."
 
 **Pip Thistlewick** — *pressing on with the honorific*
@@ -131,7 +131,6 @@ from: ../scene_extractions/05_a_bounty_for_cragmaw_castle.md
 > "Sildar, again, explains to him that, no, no, I'm not…" *(remainder unintelligible; Sildar again waves off the honorific. The stray "she" in the raw capture is ASR noise.)*
 > "So he's really happy to hear that. But Sildar kind of stretches back like this. He goes: I just want you to know, Pip, that the Lords' Alliance will look very kindly on someone who takes care of that Cragmaw Castle."
 
-**Zenvon Forepot** — *asking out of character what Sildar's hint means*
 > *[OOC]* "Okay, this is a personal question — not related to the game."
 > "What does it imply when somebody says it will look kindly? Is it, like, offering favors or something?"
 
@@ -169,7 +168,6 @@ from: ../scene_extractions/05_a_bounty_for_cragmaw_castle.md
 
 **GM** — *Toblen wishes the party well as they depart*
 > "Yeah, so next morning you leave. Toblen is really happy to wish you all the best."
-> "And off you go onto the Overland map."
 
 **GM** — *Sildar notices the magical sword before the party leaves*
 > "However — the last thing, as Sildar says, he looks at the magical sword you guys collected from Tresendar Manor."
@@ -184,12 +182,8 @@ from: ../scene_extractions/05_a_bounty_for_cragmaw_castle.md
 **Zenvon Forepot**
 > "Nice work, yeah, yeah."
 
-**GM** — *calling for Insight*
-> "Yeah, so roll your Insight check."
-
 **Zenvon Forepot**
 > "I see what you mean. Okay."
-> "Twenty."
 
 **GM** — *revealing Sildar's implied opportunity for Pip*
 > "Alright, so what you're getting the impression of is that Sildar is kind of trying to suggest to Pip that if you were to take care of certain things, there might be an opening in the Lords' Alliance."

@@ -1,3 +1,11 @@
+---
+name: "Pip Thistlewick"
+player: ""
+species: "Human"
+class_level: "Fighter 3"
+subclass: ""
+---
+
 # Pip Thistlewick
 
 **Sidekick** — human fighter, chaotic good. Front-line guard, bodyguard, practical muscle for Zenvon Forepot.

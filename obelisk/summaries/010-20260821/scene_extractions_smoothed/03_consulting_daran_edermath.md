@@ -35,6 +35,9 @@ from: ../scene_extractions/03_consulting_daran_edermath.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-04): the +1 Investigation/Survival bonus award and its bookkeeping (6 quotes) — GM-to-player-as-player mechanics. The Netheril correction and Daran's lecture are roleplay and were ruled KEPT. Verbatim record untouched in ../scene_extractions/. (/no-mech)*
+
+
 **Zenvon Forepot** — *explaining why the party has come*
 > "Okay, so even before going to the Stonehill, I will first go to the orchard."
 > "Tell Daran that, hey, we are starting the next day on your mission, so…"
@@ -118,30 +121,11 @@ from: ../scene_extractions/03_consulting_daran_edermath.md
 **GM** — *Pip reacts to the prolonged lecture*
 > "At this point in time, Pip's kind of looking at you and trying not to laugh very hard at you."
 
-**Zenvon Forepot** — *OOC reaction*
 > *[OOC]* "Oh, shit. Okay, fine."
 > "Cool. Alright, then, we'll head back."
 
 **GM** — *Daran enjoys having an attentive listener*
 > "But Daran's very happy that you're taking notes of his advice — which basically boils down to keep your back straight, keep an eye out for things. He talks about his old adventuring stories, which you're quite…"
-
-**GM** — *awarding Zenvon a benefit for enduring the lecture*
-> "But because you suffered through all of that, you do get a plus one on an Investigation check or Survival check."
-
-**Zenvon Forepot** — *checking the reward*
-> "I get a plus one on an Investigation?"
-
-**GM** — *explaining that the bonus is single-use*
-> "That's a one-time thing."
-
-**Zenvon Forepot** — *acknowledging the limitation*
-> "Oh, okay."
-
-**GM** — *telling Zenvon how to record it*
-> "Yeah, just make a note of it, that you got a plus one. It's a one-time kind of thing."
-
-**Zenvon Forepot** — *recording the bonus*
-> "Oh, okay. I'll make a note."
 
 **GM** — *prompting Zenvon to consider other questions for Daran*
 > "I mean, you could, for example, ask him about Halia — you can ask him about those kinds of things, remember."

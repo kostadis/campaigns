@@ -28,7 +28,9 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 
 ## Voiced moments
 
-**[Arrival at Old Owl Well]**
+*Cut by GM ruling (2026-09-04): 8 roll callouts and reported totals (initiative, two Arcana, History, and a declined History check). Everything the characters learn from them is kept, as is all of Hamun Kost's dialogue. Verbatim record untouched in ../scene_extractions/. (/no-mech)*
+
+
 - The party reaches Old Owl Well around noon after crossing the surrounding hills.
 - Cresting a low ridge, they see the ruins of an old watchtower and mounds of rubble enclosing a courtyard amid rugged hills.
 - A colorful tent stands in the courtyard, but no one is visible.
@@ -58,7 +60,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 > "Yep."
 > "But slowly. Tiptoeing."
 
-**[The Undead Emerge]**
 - As the party advances through the entrance, zombies begin shambling out of the tower.
 - The GM places the encounter into initiative order as the party hears numerous zombies moving.
 
@@ -66,16 +67,9 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 > "As you do that — zombies start to shamble out of the tower."
 > "A lot of zombies."
 > "You should see a lot of zombies right now. You can hear a lot of zombies moving."
-> "Now, I'm going to roll for initiative so we can do things in sequence."
 
 **Zenvon Forepot** — *wondering whether the undead can be reasoned with*
 > "Are they not going to talk?"
-
-**GM** — *prompting Sister Maela's Arcana assessment*
-> "So — Sister Maela. Roll your Arcana check."
-
-**Zenvon Forepot** — *reporting the check*
-> "Arcana check, okay. It's a 12."
 
 **GM** — *explaining what Sister Maela knows*
 > "So, Sister, the first thing you know is that zombies don't talk."
@@ -126,7 +120,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 **Zenvon Forepot**
 > "Okay. While being prepared for the zombies."
 
-**[Hamun Kost Appears]**
 - Hearing Zenvon's challenge, Hamun Kost emerges from the colorful tent.
 - Veyra examines the tattoos on his head and identifies them as necromantic symbols.
 - A History check reveals nothing further about the markings.
@@ -134,10 +127,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 **GM** — *Hamun answers the provocation*
 > "He hears you shouting. And he steps outside of his tent and says—"
 > "WHAT IS THE MEANING OF THIS?"
-> "Roll an Arcana check."
-
-**Zenvon Forepot** — *reporting the Arcana result*
-> "That was bad. Nine — total nine."
 
 **GM** — *narrating Veyra turning to Zenvon*
 > "Veyra turns to you and says—"
@@ -151,12 +140,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 
 **Veyra of the Blue Candle** — *identifying the tattoos*
 > "They're the symbols of a necromancer!"
-
-**GM** — *calling for a check*
-> "Alright, roll a History check."
-
-**Zenvon Forepot**
-> "History check. Five…"
 
 **GM** — *the party recalls nothing more*
 > "Okay, that's all you know."
@@ -196,7 +179,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 > "Hamun Kost. Hamun Kost."
 > *[OOC]* "Wait — did you actually make up the last name?"
 
-**GM** — *out-of-character response*
 > *[OOC]* "No, no — I just noticed it right now. I did not make it up."
 
 **Zenvon Forepot** — *asking about Hamun's purpose*
@@ -238,7 +220,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 **Zenvon Forepot**
 > "So… hold on, hold on."
 
-**GM** — *explaining what Zenvon knows about the Red Wizards*
 > *[OOC]* "You as a player don't know this, but you as a character would. Red Wizards of Thay — there's a wizard kingdom called the Red Wizards of Thay." *(Thay is the country; the Red Wizards are its spellcasting order.)*
 
 **Zenvon Forepot**
@@ -256,7 +237,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 
 **Zenvon Forepot** — *acknowledging the warning*
 > "Understood. Just thinking…"
-> "To know who the Red Wizards were, I was going to perform a History check, but that's fine."
 > "It's tricky, actually. I don't know what to do."
 
 **Hamun Kost** — *offering proof of peaceful intentions*
@@ -274,7 +254,6 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 **Hamun Kost** — *inviting Zenvon to name what he wants*
 > "What is the one thing you want to know? Where Cragmaw Castle is, for example?"
 
-**[Hamun's Show of Force]**
 - While Hamun waits for Zenvon's question, the zombies finish shuffling out and surround him.
 - Their positioning is described as a show of force.
 
@@ -413,20 +392,14 @@ from: ../scene_extractions/07_arrival_at_the_old_owl_well.md
 **Zenvon Forepot**
 > "Sure. I'll keep that in mind, thank you."
 
-**Zenvon Forepot** — *out of character, reflecting on the encounter*
 > *[OOC]* "I was expecting something else. Like a fight — but it turned out to be just talking."
 
-**GM**
 > *[OOC]* "Yeah — you chose to just talk."
 
-**Zenvon Forepot**
 > *[OOC]* "Yeah, right. That makes sense."
 
-**GM** — *confirming that avoiding combat was a meaningful choice*
 > *[OOC]* "You chose to not turn it into a fight. That was a choice."
 
-**Zenvon Forepot**
 > *[OOC]* "Right. He was too powerful to fight, so…"
 
-**GM**
 > *[OOC]* "Like I said — you chose wisely."

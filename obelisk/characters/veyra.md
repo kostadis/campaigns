@@ -1,3 +1,11 @@
+---
+name: "Veyra of the Blue Candle"
+player: ""
+species: "Tiefling"
+class_level: "Mage 3"
+subclass: ""
+---
+
 # Veyra of the Blue Candle
 
 **Sidekick** — tiefling mage, neutral good. Arcane support, obelisk researcher, puzzle-solver for Zenvon Forepot.

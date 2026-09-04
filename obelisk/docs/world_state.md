@@ -125,7 +125,7 @@ They also came out of the manor knowing where to go: Nosk, rage-baited, named **
 - **Letter sealed with a wax spider** — Orders Iarno to capture the party if possible, kill them if necessary, and deliver any dwarven maps with haste. Hard proof of Iarno's betrayal and of the Spider's existence. *(Halia wants this. Sildar needs to see it.)*
 - **Urmon's journal** (Dwarvish) — History of the Lost Mine of Phandelver, the Forge of Spells, and **Lightbringer**, a mace made for the priests of Lathander and lost when Wave Echo Cave vanished.
 - **Scarlet Redbrand cloaks** — Function as (a) a disguise that has already worked twice and (b) a **pacifier for the crypt skeletons**, who stand down for anyone wearing one.
-- **Talon** — A finely made **+1 longsword**, the blade of Sir Aldith Tresendar, taken from the hidden chest at the bottom of the crevasse in Ch. 8 and given to **Pip** as the party's primary fighter. **No History check was made: the party does not know its name, its provenance, or that it is connected to the crypt they looted.** To them it is "a magic sword."
+- **Talon** — A finely made **+1 longsword**, the blade of Sir Aldith Tresendar, taken from the hidden chest at the bottom of the crevasse in Ch. 8 and given to **Pip** as the party's primary fighter. **No History check was made.** The party learned the name **Talon** in Ch. 10 — out of frame, when the GM read the chapter 8 recap aloud — but still does not know its provenance or that it is connected to the crypt they looted.
 - **Potion of invisibility** and **potion of healing** — From Glasstaff's cistern satchel. Plus the two potions of healing from Klarg's cave, and the potions of **healing, climbing and growth** from the crevasse chest — less the one Zenvon drank during the bugbear brawl.
 - **Jeweled silver comb** — Sister Garaele's, to be presented to **Agatha** as a gift. Presenting it makes the banshee's reaction automatic; without it, the party is rolling.
 - **Five malachite gems** — 12 gp each (60 gp), from the crevasse chest.
@@ -171,7 +171,7 @@ They also came out of the manor knowing where to go: Nosk, rage-baited, named **
 
 **Gundren.** Still missing, still the reason any of this started. Cragmaw Castle is the next stop and the party has no directions.
 
-**Talon is unidentified.** A named Tresendar heirloom, carried as a generic magic sword by a party that looted the Tresendar crypt.
+**Talon is named but unidentified.** A Tresendar heirloom whose name the party picked up in Ch. 10 without learning what it means, carried by a party that looted the Tresendar crypt.
 
 **Old Owl Well, Wyvern Tor, Thundertree, the Lionshield goods, the jade frog.** Four accepted or available jobs and one unappraised statuette, none started or settled.
 
