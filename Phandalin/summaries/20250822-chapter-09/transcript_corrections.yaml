@@ -1,0 +1,646 @@
+# Transcript corrections — the record the .cleaned.vtt is generated from.
+# CampaignGenerator #250 R4. Edit this file, then run:
+#     sd_corrections apply --dir .
+# `was` is checked against the raw tape on every apply, so a stale entry
+# fails loudly instead of pasting an old repair over new words.
+# `verified: false` means nobody has reviewed this one yet.
+version: 1
+transcript: GMT20250823-035752_Recording.transcript.vtt
+corrections:
+- id: cue-0082
+  cue: 82
+  was: 'Kostadis Roussos: You killed Moesca, but you did not look over his body.'
+  now: 'Kostadis Roussos: You killed Moesko, but you did not look over his body.'
+  recorded: &id001 2026-09-04
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0112
+  cue: 112
+  was: 'Kostadis Roussos: Alright, in on… so… okay, so you… so you find Mosko, right? He''s clad in armor made from giant octopus hide.'
+  now: 'Kostadis Roussos: Alright, in on… so… okay, so you… so you find Moesko, right? He''s clad in armor made from giant octopus hide.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0116
+  cue: 116
+  was: 'Kostadis Roussos: Which he recognized as belonging to Miral the Sea Elf.'
+  now: 'Kostadis Roussos: Which he recognized as belonging to Miraal the Sea Elf.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0127
+  cue: 127
+  was: 'Kostadis Roussos: However, underneath the… underneath the armor of Moesco, you find… Alaska.'
+  now: 'Kostadis Roussos: However, underneath the… underneath the armor of Moesko, you find… Alaska.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0128
+  cue: 128
+  was: 'Kostadis Roussos: Yeah, Moesco, that''s his name, has a hole in his chest.'
+  now: 'Kostadis Roussos: Yeah, Moesko, that''s his name, has a hole in his chest.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0158
+  cue: 158
+  was: 'Kostadis Roussos: Alright, well, I think Valfina is poking around, is that what I''m hearing?'
+  now: 'Kostadis Roussos: Alright, well, I think Valphine is poking around, is that what I''m hearing?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0165
+  cue: 165
+  was: 'Wade: Restored, you know, well, we''re about to restore Merrill, whatever her name is.'
+  now: 'Wade: Restored, you know, well, we''re about to restore Meril, whatever her name is.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0183
+  cue: 183
+  was: 'Kostadis Roussos: internal… luminescence, an unsettling violet glow. Etched crudely into one side is the stylized, jagged lightning bolt of talus.'
+  now: 'Kostadis Roussos: internal… luminescence, an unsettling violet glow. Etched crudely into one side is the stylized, jagged lightning bolt of Talos.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0185
+  cue: 185
+  was: 'David Mendenhall: Alice the God, Talus.'
+  now: 'David Mendenhall: Alice the God, Talos.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0205
+  cue: 205
+  was: 'David Mendenhall: Nobody sees it. Clutched it out there. Brewery has come through with some clutch rolls.'
+  now: 'David Mendenhall: Nobody sees it. Clutched it out there. Brewbarry has come through with some clutch rolls.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0207
+  cue: 207
+  was: 'Kostadis Roussos: Okay, etched crudely into one side is the stylized jagged lightning bolt of Hallis, but on the reverse, Blueberry notices a subtly inter…'
+  now: 'Kostadis Roussos: Okay, etched crudely into one side is the stylized jagged lightning bolt of Talos, but on the reverse, Brewbarry notices a subtly inter…'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0214
+  cue: 214
+  was: 'Kostadis Roussos: … so, Arcana… well, okay. If you want to investigate it further, Brewberry, you need a… does anybody have a passive perception of…'
+  now: 'Kostadis Roussos: … so, Arcana… well, okay. If you want to investigate it further, Brewbarry, you need a… does anybody have a passive perception of…'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0221
+  cue: 221
+  was: 'Gary Young: Only brewberry?'
+  now: 'Gary Young: Only Brewbarry?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0222
+  cue: 222
+  was: 'Kostadis Roussos: Oh no, anyone, anyone. Blueberry is now pointed out, so you can now all sort of investigate it and look at it and try to scratch your heads.'
+  now: 'Kostadis Roussos: Oh no, anyone, anyone. Brewbarry is now pointed out, so you can now all sort of investigate it and look at it and try to scratch your heads.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0226
+  cue: 226
+  was: 'David Mendenhall: Elphina!'
+  now: 'David Mendenhall: Valphine!'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0227
+  cue: 227
+  was: 'Kostadis Roussos: Okay… all… what you… Velfine notices, it has a faint divine resonance.'
+  now: 'Kostadis Roussos: Okay… all… what you… Valphine notices, it has a faint divine resonance.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0231
+  cue: 231
+  was: 'Gary Young: Sounds like something Valfina would do. I''m gonna go over here.'
+  now: 'Gary Young: Sounds like something Valphine would do. I''m gonna go over here.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0273
+  cue: 273
+  was: 'Kostadis Roussos: Valfield.'
+  now: 'Kostadis Roussos: Valphine.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0303
+  cue: 303
+  was: 'Kostadis Roussos: Balfine, Vukradin, are you joining the party, or are you deciding.'
+  now: 'Kostadis Roussos: Valphine, Vukradin, are you joining the party, or are you deciding.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0411
+  cue: 411
+  was: 'Gary Young: Well, it''s not as glorious as Lothander, and so I approve this choice.'
+  now: 'Gary Young: Well, it''s not as glorious as Lathander, and so I approve this choice.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0441
+  cue: 441
+  was: 'Kostadis Roussos: Right, but Volfina, you are….'
+  now: 'Kostadis Roussos: Right, but Valphine, you are….'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0450
+  cue: 450
+  was: 'Wade: Yeah, only Belfine, I got sensitive turtle eyes.'
+  now: 'Wade: Yeah, only Valphine, I got sensitive turtle eyes.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0451
+  cue: 451
+  was: 'Kostadis Roussos: Yeah, you guys have internalized. Does… brewery, I mean, does blueberry.'
+  now: 'Kostadis Roussos: Yeah, you guys have internalized. Does… Brewbarry, I mean, does Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0457
+  cue: 457
+  was: 'Kostadis Roussos: Alright, so it''s the smash, smash, smash. Alright, that''s what''s going on over here. Alright, Valfine, … You…'
+  now: 'Kostadis Roussos: Alright, so it''s the smash, smash, smash. Alright, that''s what''s going on over here. Alright, Valphine, … You…'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0458
+  cue: 458
+  was: 'Kostadis Roussos: Okay, so Velfina, you notice, you go blind, but before you go blind… for one.'
+  now: 'Kostadis Roussos: Okay, so Valphine, you notice, you go blind, but before you go blind… for one.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0476
+  cue: 476
+  was: 'Wade: Yes, or if you broke the heart, or whatever. That''s a question. So, like, we, you know, kind of killed Malesco, right? But this heart is still beating?'
+  now: 'Wade: Yes, or if you broke the heart, or whatever. That''s a question. So, like, we, you know, kind of killed Moesko, right? But this heart is still beating?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0485
+  cue: 485
+  was: 'Kostadis Roussos: Well, I''m gonna let Valfina make up her mind.'
+  now: 'Kostadis Roussos: Well, I''m gonna let Valphine make up her mind.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0515
+  cue: 515
+  was: 'David Mendenhall: There was a heart? It was Malesco''s heart.'
+  now: 'David Mendenhall: There was a heart? It was Moesko''s heart.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0541
+  cue: 541
+  was: 'Kostadis Roussos: Alright, Vukrudin… remembers, Lukerdin is a musician, so he should roll with disadvantage on all things practical.'
+  now: 'Kostadis Roussos: Alright, Vukradin… remembers, Vukradin is a musician, so he should roll with disadvantage on all things practical.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0563
+  cue: 563
+  was: 'Gary Young: Blueberry''s gonna go toss, the body into the, Yeah, off into the ocean.'
+  now: 'Gary Young: Brewbarry''s gonna go toss, the body into the, Yeah, off into the ocean.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0587
+  cue: 587
+  was: 'Kostadis Roussos: All right. Bukerdin, it''s back to you.'
+  now: 'Kostadis Roussos: All right. Vukradin, it''s back to you.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0648
+  cue: 648
+  was: 'Gary Young: Barberry will do his Aquaman impression.'
+  now: 'Gary Young: Brewbarry will do his Aquaman impression.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0660
+  cue: 660
+  was: 'David Mendenhall: Rubber, you want to come join us down on the….'
+  now: 'David Mendenhall: Brewbarry, you want to come join us down on the….'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0695
+  cue: 695
+  was: 'David Mendenhall: Well, our… our, our quest giver, Mural.'
+  now: 'David Mendenhall: Well, our… our, our quest giver, Miraal.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0705
+  cue: 705
+  was: 'Kostadis Roussos: So, so might, and Vukridin.'
+  now: 'Kostadis Roussos: So, so might, and Vukradin.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0731
+  cue: 731
+  was: 'Kostadis Roussos: So I guess, I guess my question is more to brewberry. Brewberry?'
+  now: 'Kostadis Roussos: So I guess, I guess my question is more to Brewbarry. Brewbarry?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0732
+  cue: 732
+  was: 'Kostadis Roussos: Blueberry, what''s your… what''s your approach to the matter? Are you being discreet, or are you being loud and proud?'
+  now: 'Kostadis Roussos: Brewbarry, what''s your… what''s your approach to the matter? Are you being discreet, or are you being loud and proud?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0733
+  cue: 733
+  was: 'Gary Young: I think it''s just being normal brewberry.'
+  now: 'Gary Young: I think it''s just being normal Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0741
+  cue: 741
+  was: 'Kostadis Roussos: All right. Blueberry, that you… as you sw… you can read and write, right? So, the ship is called… the ship is called the… right? You can, right?'
+  now: 'Kostadis Roussos: All right. Brewbarry, that you… as you sw… you can read and write, right? So, the ship is called… the ship is called the… right? You can, right?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0744
+  cue: 744
+  was: 'Wade: Are you literate, brewberry?'
+  now: 'Wade: Are you literate, Brewbarry?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0751
+  cue: 751
+  was: 'Kostadis Roussos: Yeah. So, that''s why I asked the question. Alright, so the Stark Kloros Lover, that''s the name of the ship.'
+  now: 'Kostadis Roussos: Yeah. So, that''s why I asked the question. Alright, so the Star-Crossed Lover, that''s the name of the ship.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0778
+  cue: 778
+  was: 'Kostadis Roussos: He swims by and attempts to take a bite out of blueberry.'
+  now: 'Kostadis Roussos: He swims by and attempts to take a bite out of Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0822
+  cue: 822
+  was: 'Kostadis Roussos: Bucherdin, you see churning waters.'
+  now: 'Kostadis Roussos: Vukradin, you see churning waters.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0858
+  cue: 858
+  was: 'David Mendenhall: About whether I could do one point of damage or not. Alright, Valpina.'
+  now: 'David Mendenhall: About whether I could do one point of damage or not. Alright, Valphine.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0863
+  cue: 863
+  was: 'Kostadis Roussos: Yeah, alright, okay. Balthine, you can see them… you can definitely see the, … what''s the word I''m looking for? The churning creature.'
+  now: 'Kostadis Roussos: Yeah, alright, okay. Valphine, you can see them… you can definitely see the, … what''s the word I''m looking for? The churning creature.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0906
+  cue: 906
+  was: 'David Mendenhall: Brewery.'
+  now: 'David Mendenhall: Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0944
+  cue: 944
+  was: 'Kostadis Roussos: No, who''s it? Blueberry? Alright, so… Alright.'
+  now: 'Kostadis Roussos: No, who''s it? Brewbarry? Alright, so… Alright.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0985
+  cue: 985
+  was: 'Wade: Cleene.'
+  now: 'Wade: Qelline.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-0986
+  cue: 986
+  was: 'Kostadis Roussos: Valvine.'
+  now: 'Kostadis Roussos: Valphine.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1026
+  cue: 1026
+  was: 'Wade: Brewery.'
+  now: 'Wade: Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1082
+  cue: 1082
+  was: 'Kostadis Roussos: Alright, Vukrudin is up?'
+  now: 'Kostadis Roussos: Alright, Vukradin is up?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1090
+  cue: 1090
+  was: 'Gary Young: Okay, Delfino.'
+  now: 'Gary Young: Okay, Valphine.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1156
+  cue: 1156
+  was: 'Kostadis Roussos: And the other one attacks Brewery… Or…'
+  now: 'Kostadis Roussos: And the other one attacks Brewbarry… Or…'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1166
+  cue: 1166
+  was: 'Kostadis Roussos: Brewberry, you are up.'
+  now: 'Kostadis Roussos: Brewbarry, you are up.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1181
+  cue: 1181
+  was: 'Kostadis Roussos: Valfina, you gonna heal her? Or she should heal herself.'
+  now: 'Kostadis Roussos: Valphine, you gonna heal her? Or she should heal herself.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1202
+  cue: 1202
+  was: 'Kostadis Roussos: Vukridin.'
+  now: 'Kostadis Roussos: Vukradin.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1221
+  cue: 1221
+  was: 'David Mendenhall: Alright, so… Valfina is up.'
+  now: 'David Mendenhall: Alright, so… Valphine is up.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1238
+  cue: 1238
+  was: 'David Mendenhall: Alright, brewery, they''re still asleep.'
+  now: 'David Mendenhall: Alright, Brewbarry, they''re still asleep.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1258
+  cue: 1258
+  was: 'Kostadis Roussos: Alrighty. So first let me roll for the same… let me… okay, so the shark… sharky goes, what the heck? And attacks Brubberry.'
+  now: 'Kostadis Roussos: Alrighty. So first let me roll for the same… let me… okay, so the shark… sharky goes, what the heck? And attacks Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1269
+  cue: 1269
+  was: 'Wade: I think they should have gotten a chance to wake up before Blueberry''s attack, but otherwise….'
+  now: 'Wade: I think they should have gotten a chance to wake up before Brewbarry''s attack, but otherwise….'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1305
+  cue: 1305
+  was: 'Gary Young: Okay, for Croton.'
+  now: 'Gary Young: Okay, for Corrin.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1315
+  cue: 1315
+  was: 'David Mendenhall: I''ve got good news and bad news for you. The good news is you made you save, and you took no damage. The bad news is that means you''re still asleep. Belfina.'
+  now: 'David Mendenhall: I''ve got good news and bad news for you. The good news is you made you save, and you took no damage. The bad news is that means you''re still asleep. Valphine.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1324
+  cue: 1324
+  was: 'David Mendenhall: Do you want a ready? You want a ready for after brewery?'
+  now: 'David Mendenhall: Do you want a ready? You want a ready for after Brewbarry?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1325
+  cue: 1325
+  was: 'Gary Young: Oh, yeah, coordinated attack with, Burberry? Yeah.'
+  now: 'Gary Young: Oh, yeah, coordinated attack with, Brewbarry? Yeah.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1326
+  cue: 1326
+  was: 'David Mendenhall: That''s a good question. So then… so then he misses his action, and Ruby….'
+  now: 'David Mendenhall: That''s a good question. So then… so then he misses his action, and Brewbarry….'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1339
+  cue: 1339
+  was: 'Gary Young: Sorry. And then… Valveine does the coordinated, ….'
+  now: 'Gary Young: Sorry. And then… Valphine does the coordinated, ….'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1384
+  cue: 1384
+  was: 'Kostadis Roussos: Alright, while he''s doing that, what do the rest of you doing? While Brewerdin is… I mean, Rukerton also remembers that there''s some furniture in Moesco''s room that he could use as firewood.'
+  now: 'Kostadis Roussos: Alright, while he''s doing that, what do the rest of you doing? While Vukradin is… I mean, Vukradin also remembers that there''s some furniture in Moesko''s room that he could use as firewood.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1394
+  cue: 1394
+  was: 'Gary Young: … In the meantime, Vukraden sees… sorry, Blueberry sees some delicious whitefish.'
+  now: 'Gary Young: … In the meantime, Vukradin sees… sorry, Brewbarry sees some delicious whitefish.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1426
+  cue: 1426
+  was: 'Wade: Bucherton can''t see me doing this.'
+  now: 'Wade: Vukradin can''t see me doing this.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1430
+  cue: 1430
+  was: 'Wade: Oh, dude, that is so perfect for Vucherdin, though. It''s a shame that he won''t take it.'
+  now: 'Wade: Oh, dude, that is so perfect for Vukradin, though. It''s a shame that he won''t take it.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1444
+  cue: 1444
+  was: 'Wade: It''s such a perfect Bucherding item, too.'
+  now: 'Wade: It''s such a perfect Vukradin item, too.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1466
+  cue: 1466
+  was: 'Kostadis Roussos: Alright, Valpina, you are successfully able to open the chests. They weren''t particularly difficult or challenging. Alright, so… Why are you opening the chest.'
+  now: 'Kostadis Roussos: Alright, Valphine, you are successfully able to open the chests. They weren''t particularly difficult or challenging. Alright, so… Why are you opening the chest.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1481
+  cue: 1481
+  was: 'Wade: Oh yeah, I, I come out of the water, by the way, and I show Vuchert in the, the fancy cloak.'
+  now: 'Wade: Oh yeah, I, I come out of the water, by the way, and I show Vukradin in the, the fancy cloak.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1487
+  cue: 1487
+  was: 'Wade: Wond of secrets.'
+  now: 'Wade: Wand of secrets.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1513
+  cue: 1513
+  was: 'Gary Young: Burberry is fine, he''ll just, like, tie them to….'
+  now: 'Gary Young: Brewbarry is fine, he''ll just, like, tie them to….'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1523
+  cue: 1523
+  was: 'David Mendenhall: Mural. Merle. Merle time.'
+  now: 'David Mendenhall: Miraal. Miraal. Miraal time.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1524
+  cue: 1524
+  was: 'Kostadis Roussos: Yeah, Merle, like….'
+  now: 'Kostadis Roussos: Yeah, Miraal, like….'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1526
+  cue: 1526
+  was: 'Kostadis Roussos: Merle, who sees her, let''s see, what does she see?'
+  now: 'Kostadis Roussos: Miraal, who sees her, let''s see, what does she see?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1527
+  cue: 1527
+  was: 'Wade: Well, first off, is Vucherdin wearing his fancy new cloak?'
+  now: 'Wade: Well, first off, is Vukradin wearing his fancy new cloak?'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1540
+  cue: 1540
+  was: 'Kostadis Roussos: Okay, so Mural takes the, …'
+  now: 'Kostadis Roussos: Okay, so Miraal takes the, …'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1550
+  cue: 1550
+  was: 'Kostadis Roussos: Miral picks up… okay, you wanted… you wanted more than that. I will do more.'
+  now: 'Kostadis Roussos: Miraal picks up… okay, you wanted… you wanted more than that. I will do more.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1557
+  cue: 1557
+  was: 'Kostadis Roussos: Thank you, kind ones. My spirit, it can finally rest. Muesco was my undoing.'
+  now: 'Kostadis Roussos: Thank you, kind ones. My spirit, it can finally rest. Moesko was my undoing.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1561
+  cue: 1561
+  was: 'Kostadis Roussos: Beware, surface dweller, the true dwellers. The true storm gathers not in the sky, but in the depths below Lylon.'
+  now: 'Kostadis Roussos: Beware, surface dweller, the true dwellers. The true storm gathers not in the sky, but in the depths below Leilon.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1564
+  cue: 1564
+  was: 'Wade: Lila.'
+  now: 'Wade: Lyra.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1582
+  cue: 1582
+  was: 'David Mendenhall: So we did Crab''s Ghost Lover. Alright, awesome.'
+  now: 'David Mendenhall: So we did Star-Crossed Lover. Alright, awesome.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1591
+  cue: 1591
+  was: 'Kostadis Roussos: And I''m going, oh, so I''m so happy to see that Miral has, well, got where Miral needed to go.'
+  now: 'Kostadis Roussos: And I''m going, oh, so I''m so happy to see that Miraal has, well, got where Miraal needed to go.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1601
+  cue: 1601
+  was: 'David Mendenhall: Well, I like Brubbery, so I''m gonna try to persuade him that this was a bad choice, like, what are you doing? You can''t use that.'
+  now: 'David Mendenhall: Well, I like Brewbarry, so I''m gonna try to persuade him that this was a bad choice, like, what are you doing? You can''t use that.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1602
+  cue: 1602
+  was: 'Kostadis Roussos: I don''t think Blueberry''s falling for that one.'
+  now: 'Kostadis Roussos: I don''t think Brewbarry''s falling for that one.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1619
+  cue: 1619
+  was: 'Gary Young: precious fish that Finney fried.'
+  now: 'Gary Young: precious fish that Valphine fried.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1628
+  cue: 1628
+  was: 'Kostadis Roussos: There, should see Lineland over here.'
+  now: 'Kostadis Roussos: There, should see Leilon over here.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed
+- id: cue-1636
+  cue: 1636
+  was: 'Kostadis Roussos: No, no, it''s… it''s… yes, after you finish all the quests associated with Endelin, we go to Lineland.'
+  now: 'Kostadis Roussos: No, no, it''s… it''s… yes, after you finish all the quests associated with Phandalin, we go to Leilon.'
+  recorded: *id001
+  verified: true
+  note: reverse-engineered from an already-edited transcript; not reviewed

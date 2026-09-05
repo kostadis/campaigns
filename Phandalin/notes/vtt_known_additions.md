@@ -125,3 +125,5 @@ Istus  — Greyhawk goddess of fate and destiny; referenced as avatar context in
 - **Dwarven Prospectors** — approved campaign term for Dazlyn Grayshard and Norbus Ironrune: "Dwarven Prospectors." (cues 1209, 1211; also cue 1329). The independent transcript agrees. — 2026-08-30
 - **Dwarven Dead** — approved campaign term in Norbus's objection to "excavating and digging into ... the Dwarven Dead" (cue 1549). The independent transcript confirms the phrase. — 2026-08-30
 - **Shield Dwarf Prospector** — approved campaign term from Norbus's introduction: "I'm a Shield Dwarf Prospector." (cue 1538). The registry independently identifies Norbus and Dazlyn as shield dwarf prospectors. — 2026-08-30
+- **Bill Krabby** — "You gotta go check Bill Krabby?" (Wade, ch09) — 2026-09-05
+- **Sharky** — table nickname for the hunter sharks at the Tower of Storms wrecks; "Sharky's turn was skipped because he was asleep" (ch09) — 2026-09-05
