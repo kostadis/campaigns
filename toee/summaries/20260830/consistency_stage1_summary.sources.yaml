@@ -1,0 +1,342 @@
+consistency_check:
+  timestamp: "2026-09-05T15:19:00-07:00"
+  campaign: "toee (Temple of Elemental Evil)"
+  document_checked: "summaries/20260830/session-summary.md"
+  document_class: "enhance_summary output (Stage 1); built from gm-assist.md + the cleaned tape"
+  report: "summaries/20260830/consistency_report_stage1_summary.md"
+  config: "scratchpad throwaway with ABSOLUTE paths — same workaround as Stage 0, see notes"
+  model: "claude-code backend (subscription)"
+  backend: "claude-code"
+  issues_found: 12
+  count_method: >-
+    grep -c '**Location:**' on the report body = 12. The banner counts the literal
+    string '**Location**' without the colon and would have reported a FALSE ZERO
+    here, because this report used the colon form throughout. Findings are
+    contiguous 1..12 with no auto-continuation seam.
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-30"
+  chapter: "34 — The Sleeper in the Iron Coffin"
+
+  staging_note: |
+    Stage 0 was run and closed 2026-09-05 (see consistency_stage0_gmassist.sources.yaml).
+    Stage 1's artifact did not exist then; the GM ran enhance_summary at 15:09:27 on
+    2026-09-05 (rc=0; an earlier 15:02:48 attempt failed rc=1) and re-invoked the skill.
+
+      Stage 2 (scene_extractions_new/) — STILL NOT RUN, no artifact exists.  <-- load-bearing
+      Stage 3 (narration/)            — STILL NOT RUN, no artifact exists.
+
+    A stage that did not run did not pass. CF1 from Stage 0 remains OPEN.
+
+  speaker_map: |
+    Reused from Stage 0, re-confirmed against this tape:
+      Kostadis Roussos = GM, and also plays Calmer (no separate player)
+      Thomas Kolivakis = Zephyr
+      Nicholas Roussos = Sequoia
+      george           = Zinnia
+    Three players + GM. 1,319 cues.
+    NOTE: prepare_input.py still reports "speakers: none detected" on this file — a
+    detector false negative. Do not trust it for this transcript.
+
+  vtt_adjudicated: |
+    Read BY HAND (provenance for rulings, not a --context input):
+      GMT20260830-150238_Recording.transcript.cleaned.vtt   (primary; the tape
+        enhance_summary itself consumed, per logs/2026-09-05_150927_enhance_summary.md)
+      session_2026_08_30_..._transcript.vtt                 (second INDEPENDENT
+        transcription — decisive on "Rosco", which it does not contain)
+    Every finding below that turns on wording, attribution or a number was checked
+    against the tape by cue number. The report could not do this and did not.
+
+  sd_verify_quotes: |
+    Run FIRST, before the check — deterministic, no model, no cost.
+    Initial run (34 blockquotes, 17 scored): 7 verified / 5 near / 5 unverified.
+    ALL TEN adjudicated by hand: zero fabrications. Every "unverified" quote either
+    spans two adjacent cues (Dren 4499+4503, Falrinth 4947+4951, Zephyr 1523+1527) or
+    had a narrative frame stripped ("he reminded", "it declared"). The tool cannot
+    span cues, so a low score there is not evidence of invention.
+    Re-run after the Chapter 33 cut: 5 verified / 4 near / 3 unverified, and again
+    after each tape regeneration — byte-identical, which is the evidence that no cue
+    edit disturbed a quoted span.
+    ITS BLIND SPOT MATTERED HERE: it checks only `> "…"` blockquotes, and this document
+    carries 126 inline curly-quoted spans it never looks at. Findings 2, 3 and 7 all
+    lived in prose.
+
+  numeric_audit: |
+    Every distinct numeric claim in the document (19 of them: rolls, damage, AC, DC)
+    was extracted and grepped against the tape with timestamp lines stripped. All 19
+    had support. One needed the tape to clear: "52 points" matched only the phrase
+    "52 feet" until cue 516 ("43 damage?") plus cue 519 ("plus 9, so… 52") showed the
+    arithmetic. See finding 13.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,                          role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml,              role: "canonical entities + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,           role: "confirmed-but-unpromoted names (campaign-standard)" }
+      - { path: summaries/20260830/gm-assist.md,        role: "the upstream artifact — highest-value context for this document class; every difference is what the enhancement pass ADDED" }
+      - { path: notes/sessions/nobody-told-nulb.md,     role: "session prep — reused from Stage 0 per discover-once" }
+      - { path: notes/sessions/the-sleeping-prince.md,  role: "session prep — reused from Stage 0" }
+      - { path: notes/sessions/nulb-knows-now.md,       role: "session prep — reused from Stage 0" }
+
+  notes: |
+    CONFIG WORKAROUND (still required). toee has NO root config.yaml; its config is
+    config/config.yaml with relative documents[].path entries, and load_config sets
+    base_dir = config_path.parent, so docs/campaign_state.md resolves under config/.
+    Auto-detection is worse than useless here: with no root config it falls through to
+    CampaignGenerator's OWN config and would check this session against the wrong
+    campaign. A minimal absolute-path throwaway config was used, carrying only
+    documents[] — check_consistency reads nothing else from it. config/config.yaml also
+    references config/system_prompt.md and config/agents/, neither of which exists in
+    this workspace any more (config split, commit 08bceb36).
+
+    THE BIGGEST FINDING WAS NOT IN THE REPORT. The tape opens with the GM reading
+    Chapter 33's recap aloud, and enhance_summary folded it in as this session's
+    events. The check could not have found it — no grounding doc or prep file records
+    that the tape opens with a recap, and every fact in the recap is TRUE, just true of
+    the previous chapter. Handled by /remove-recap; see remove_recap_manifest.md.
+
+resolution:
+  applied:
+    - id: 4
+      fix: "Spirit Guardians: cast ONCE -> cast TWICE (3 places — Summary prose, Scenes bullets, Spells entry)"
+      basis: >-
+        TAPE, all one fight (Greater Temple storeroom ambush): cue at line 3459 "He casts,
+        Spirit Guardians"; 3823 "Calmer takes 8 points of damage"; 3827 "He loses his
+        concentration"; 4131 "he's gonna go with Spirit Guardians AGAIN". The recap
+        recorded the first three and stopped. gm-assist.md already said "Cast twice" and
+        needed no change. Matters for slot tracking: two 3rd-level slots, not one.
+    - id: 5
+      fix: "Undercommon: 'no one speaks Deep Speech or Undercommon' -> Zephyr tried Undercommon; Deep Speech was the gap (2 places)"
+      basis: >-
+        docs/party/zephyr.md line 101 lists UNDERCOMMON among his languages, so the recap
+        contradicted his own sheet. TAPE 4437 GM asks "Does anybody here speak deep
+        speech, deep undercom[mon]?"; 4439 Thomas answers; 4443 the creatures sneer and
+        hide. GM ruled the missing language is Deep Speech — correct for aberrations —
+        not Undercommon. gm-assist.md was already right and was left untouched.
+        Also separates two beats the recap had collapsed: the intimidation (4433) came
+        BEFORE the language attempt.
+    - id: 7
+      fix: "'Chief of Staff or Chief of Operations' -> Chief of Staff, plus a new bullet recording Calmer's own confusion"
+      basis: >-
+        CF8 (Stage 0) already ruled Chief of Staff. Live play carries it 3x — 659 the
+        appointment, 695 Calmer enumerating the posts, 5119 the end-of-session callback
+        "This is why I have made you Chief of Staff" — against ONE use of Chief of
+        Operations at 715, where Calmer is asking Zinnia to approve a plan, not
+        conferring a title.
+      gm_framing: >-
+        GM ruled mid-turn that the two titles "reflect the confusion Calmer has". Recorded
+        as CHARACTERISATION, not as a transcription slip: "The wobble is his, not the
+        transcript's: he is inventing the org chart as he goes." Consistent with 699,
+        where he defines Zinnia's post as "Chief of making sure my shit doesn't get stolen".
+    - id: 2
+      fix: "Skole's note: 'You thought you might enjoy the update' -> 'He thought' (3 renderings), and cue 1295 updated"
+      basis: >-
+        PREP WINS, GM ruling. notes/sessions/nulb-knows-now.md line 305 scripts "He thought
+        you might enjoy the update" — He being Skole, the only coherent reading; "You
+        thought" has the note telling its reader what the reader thought. TAPE 5187 has
+        "You". GM ruled the prep is canon for the note text and that he misread it aloud.
+        The recap already contradicted itself: its NPC entry paraphrased the third person.
+      record: >-
+        cue 1295 UPDATED IN PLACE, not added — the record allows one entry per cue and this
+        cue already carried two spell-pass corrections (Skull->Skole, Tullub->Tolub). It now
+        carries three.
+    - id: 3
+      fix: "Falrinth: 'you cannot be before to be seen. To be seen receiving one.' -> 'you cannot afford to be seen receiving one.'; and 'the gates are watching' -> 'watched' (2 places)"
+      basis: >-
+        PREP WINS, GM ruling. nobody-told-nulb.md line 426 reads "you cannot afford to be
+        seen receiving one"; "be before" is a clean ASR garble of "afford". Line 456 reads
+        "the gates are watched" — Falrinth is the one under surveillance, which is what "my
+        leash is short" immediately before it says. The recap already contradicted itself:
+        its Scenes bullet at :245 had "afford" while the prose carried the garble.
+      record: >-
+        NEW cue-1182 corrects ONLY the garbled word. Cue 1183 ("To be seen receiving one.")
+        was deliberately left as spoken — that is the GM restarting the sentence, which is
+        delivery, not a transcription error. Cue 1235 was EXTENDED (it already held
+        Verbabank->Verbobonc) to add watching->watched.
+    - id: 8
+      fix: "gm-assist.md Frostbrand: 'Calmer later jokingly chided it' -> Sequoia; orphaned Ch33 opening sentence dropped"
+      basis: >-
+        TAPE cue 574: "Nicholas Roussos: Rosco's currently cursing at Frostbrand, like, you
+        had one job." Nicholas plays Sequoia. session-summary.md was RIGHT and gm-assist.md
+        was wrong — the reverse of the usual direction, and a Stage 0 miss.
+    - id: 13
+      fix: "cue 514 'snipton' -> 'sneak attack'; cue 519 '52 feet' -> '52 damage'"
+      basis: >-
+        Both ASR garbles; no document was wrong. TAPE 516 "43 damage?" + 519 "plus 9, so…
+        52" is damage arithmetic, not movement. Recorded because, left alone, the only tape
+        match for 52 is the word "feet", so a future numeric audit reads the recap's
+        correct "52 points" as unsupported.
+    - id: 11
+      fix: "docs/party.md — Zinnia she/her -> he/him in all 3 locations (7 pronouns)"
+      basis: >-
+        ROOT-CAUSE FIX, not a symptom. party.md is passed as --context at EVERY pipeline
+        stage, which is why the registry note says "extraction passes repeatedly degender
+        him — check pronouns on every recap". Every other source already agreed:
+        docs/party/zinnia.md states "Age / Gender / Size: 25 / Male / Medium";
+        voice/zinnia_voice.md is he/him x118 (its single "her" is "a woman's grip on her
+        cup" — an NPC); entity_registry.yaml says "male, he/him"; TAPE 175 says "in HIS
+        life"; session-summary.md was already he/him throughout with zero feminine pronouns.
+      correction_to_my_own_earlier_report: >-
+        I told the GM that docs/party/zinnia.md was she/her and that the registry's citation
+        pointed at the wrong file. BOTH WRONG. The sheet is a stat block with no prose
+        pronouns at all and states Gender: Male outright, so the registry is correctly
+        sourced. The finding was smaller and cleaner than I described: ONE stale document,
+        not two, and no source conflict to adjudicate.
+    - id: 12
+      fix: "DECLINED — the surviving variation is meaningful"
+      basis: >-
+        The Ch33 cut already removed most variants. What survives names two DIFFERENT
+        things the Items entry deliberately links: "black-coated bandits" (the Minotaur's
+        attackers) and "Black Cloaks" (bales of Greater Temple uniforms in the storeroom).
+        The entry itself says "Their presence may also connect the storeroom to the 'black
+        cloak bandits' described by the Minotaur" — quoting the Minotaur's own phrasing,
+        which is what makes the link land. GM ruled leave it. My original "standardise the
+        adjective" recommendation would have flattened a deliberate connection.
+
+  resolved_by_the_recap_cut:
+    - id: 1
+      item: "Barkinar 'promoted to the upper levels' — contradicted CF3's canon ruling (Commander of the Greater Temple's Troops, the Deep Temple)"
+      note: >-
+        Sat at session-summary.md:27, INSIDE the Chapter 33 recap block, and went with the
+        cut. gm-assist.md never had the error. Findings 5 and 6 from Stage 0's carry-forward
+        (Chief of Operations x1, 'Earth Temple educational system' x2) were resolved the
+        same way, along with the CF7 residual at gm-assist.md:12.
+
+  rejected:
+    - id: 8
+      item: "Vurakhal present at the Minotaur scene — 'canon stations him elsewhere'"
+      basis: "FALSE POSITIVE. TAPE line 79, verbatim, in the GM's own recap narration. Ch33 material; went with the cut."
+    - id: 9
+      item: "'a war that had ended beneath their feet ten days earlier' — 'would become a hard timeline anchor'"
+      basis: "FALSE POSITIVE. TAPE 5139 verbatim: 'a war that ended beneath their feet 10 days ago'."
+    - id: 10
+      item: "Toll the Dead called 'this new spell of mine' — contradicts the record"
+      basis: "FALSE POSITIVE as a quote. TAPE 2331 verbatim: 'Calmer says, this new spell of mine is very effective.' In-character line, correctly presented as a quote."
+    - id: 11
+      item: "'the holy gentleman' singular vs the plural elsewhere"
+      basis: "FALSE POSITIVE. The GM said BOTH: TAPE 4947 singular, 4791 plural. The recap reproduces each faithfully."
+
+  found_by_hand_not_by_the_report:
+    - item: "CHAPTER 33 CONTAMINATION (critical) — ~40% of the document was the GM reading the previous chapter's recap aloud"
+      disposition: "Handled by /remove-recap; see remove_recap_manifest.md. Also present in gm-assist.md, which Stage 0 checked and missed."
+    - item: "'Rosco' — a name in no canonical source, spoken once, absent from the second independent transcription"
+      disposition: "GM ruled an ASR garble of Sequoia. Added to the Sequoia glossary row; recorded as cue-0574."
+    - item: "'Xemia' — one letter from the existing 'Xenia' wrong-form on the Zinnia row"
+      disposition: "Added as a variant to that row (left-hand column, canonical untouched); recorded as cue-0052."
+    - item: "Items › Magical Trident — entirely Ch33; trident and Terjon each appear ONCE on the whole tape, at cue 127, inside the cut recap"
+      disposition: "GM ruled cut. Removed from both documents."
+    - item: "Frostbrand ownership and the registry entry name"
+      disposition: >-
+        GM ruled Sequoia bears it (already canon in six places; the live grounding docs were
+        stale) and that 'Frost Brand' is the 5e item type while 'Frostbrand' names the
+        sword's personality. party.md, world_state.md and the registry updated; the registry
+        entry renamed to Frostbrand with Frost Brand as an alias, per the Snoop precedent;
+        projections regenerated. Full detail in remove_recap_manifest.md items 5 and 6.
+
+  carry_forward:
+    - id: CF1
+      status: OPEN
+      severity: critical
+      inherited_from: "stage 0"
+      item: >-
+        Stages 2 and 3 STILL NOT RUN. No scene_extractions_new/, no narration/. Stage 2 —
+        the verbatim quotes the narrator reads literally — has never been checked for this
+        session. Run /session-doc-run, then re-invoke /staged-consistency. Note that
+        /remove-recap ran at the correct point in the pipeline (after Stage 0/1, before
+        scene extraction), so the extraction will be clean of Chapter 33 from the start and
+        nothing will renumber.
+    - id: CF10
+      status: OPEN
+      inherited_from: "stage 0"
+      item: "mempalace index likely stale for docs/chapters/. Re-mining is the GM's job; no mempalace or mneme binary on this user's PATH."
+    - id: CF12
+      status: OPEN
+      inherited_from: "stage 0"
+      item: "docs/campaign_state.md stale (ends ~Ch28); lists Alrrem as Alive. Regenerate rather than spot-edit."
+    - id: CF14
+      status: CLOSED
+      opened: "2026-09-05, stage 1"
+      closed: "2026-09-05, GM ruling: mark them stale, do not fake the numbers"
+      item: >-
+        Character sheets stale on level. Opened on docs/party/zinnia.md ("Monk 6" vs
+        docs/party.md's Monk 9), but the drift turned out to be uniform: ALL FOUR sheets
+        are level-6 snapshots — Cleric 6 / Rogue 6 / Rogue 6 / Monk 6, every one with
+        proficiency +3, hit dice 6d8, and max HP 39/36/45/45.
+      why_the_obvious_fix_was_refused: >-
+        Editing "Monk 6" -> "Monk 9" on two lines would have made the sheet LIE. Level 9
+        means proficiency +4, and zinnia.md keys five values off +3: Focus Points 6 (should
+        be 9), Deflect Attacks DC 14, Stunning Strike DC 14, the Ability Save DC line, and
+        the per-level focus entry — plus 9d8 hit dice, higher HP, and three levels of absent
+        class features. The sheet is currently honestly stale and INTERNALLY CONSISTENT;
+        a level-line edit would make it internally inconsistent and feed a wrong proficiency
+        bonus and wrong DCs into every future check that reads it. Worse than the original
+        problem. Recomputing properly is also not derivable — HP rolls, ASI/feat picks,
+        subclass features and spells known are player decisions. The real fix is a D&D
+        Beyond re-export through dnd_sheet.py.
+      resolution: >-
+        All four sheets marked with a stale-snapshot warning immediately after the
+        frontmatter: what the sheet declares, what docs/party.md says, that party.md is
+        canon for level, an explicit list of which derived numbers are wrong, and a
+        statement that they were deliberately not corrected and why. Verified surgical:
+        ZERO lines removed from any sheet, 22 added to each (the banner alone). Frontmatter
+        still parses and still reads level 6 — deliberately, because that is what the sheet
+        actually contains.
+      new_hazard_found_and_recorded: >-
+        NOT previously in any manifest. config/party.yaml registers all four sheets, and the
+        party pipeline generates docs/party.md FROM them. Re-running that generator before
+        the sheets are re-exported will pull level 6 back into docs/party.md and silently
+        revert CF5's level fix — and, for zinnia.md, the he/him pronoun fix made the same
+        day (finding 11). This makes both of those fixes fragile in a way Stage 0 did not
+        record. The warning is written onto each sheet so whoever runs the generator sees it
+        there; config/party.yaml itself was NOT edited, as the GM chose the
+        mark-the-sheets option rather than the guard-the-config one.
+      still_open: >-
+        The sheets remain level-6 data. Re-exporting the four D&D Beyond PDFs and re-running
+        dnd_sheet.py is the only path to true level-9 sheets, and is the GM's to do.
+    - id: CF15
+      status: CLOSED
+      opened: "2026-09-05, stage 1"
+      closed: "2026-09-05, on GM request"
+      item: >-
+        voice/calmer_voice.md recorded nothing about Calmer's improvised bureaucracy or the
+        St. Cuthbert curriculum recast along Earth Temple lines. Voice files are
+        authoritative for characterisation and this one lacked what the GM established.
+      resolution: >-
+        RESOLVED. 105 -> 126 lines. Added a new section, "The Org Chart", placed after "The
+        Leader Who's Making It Up" because it is the same trait with evidence: he confers
+        titles, cannot hold them steady (Chief of Staff at cue 659/695/5119 vs "my Chief of
+        Operations plan" at 715), glosses Zinnia's post himself as "Chief of making sure my
+        shit doesn't get stolen" (699), routes problems as paperwork ("Produce an
+        appropriate note, and I will sign it", 659), and then second-guesses his own
+        assignment seconds later (667). Written per the GM's framing that the wobble is
+        HIS, not the transcript's, and with a direction to play it as sincerity rather than
+        comedy. Also added a paragraph to "The Cover That's Becoming Real" on the curriculum
+        — the sharpest instance of absorption in the file, since he is rewriting his own
+        god's teaching using the evil temple's framework — plus four quotes and one entry
+        under "Things He'd Never Say".
+      provenance: >-
+        The org-chart material is Chapter 34 live play (cues 659-715, 5119). The curriculum
+        and "a good working relationship" come from the Chapter 33 recap span (cues around
+        131-155) that /remove-recap cut from THIS chapter's documents — still canon, just
+        Chapter 33's. The file's header now reads "Updated 2026-09-05 from chapters 33-34"
+        rather than claiming either chapter alone.
+      verification: >-
+        All 7 quotes added were checked verbatim against the cleaned tape after
+        normalisation; every one matched. Quote count 9 -> 13, exactly the four intended.
+        The file already anticipated this material ("authority and expertise are separate
+        things"; "He thinks in terms of authority and protocol. Who reports to whom.") and
+        simply had no evidence for it.
+    - id: CF16
+      status: OPEN
+      opened: "2026-09-05, stage 1"
+      item: >-
+        Nothing from this run is committed. Changes span session artifacts
+        (session-summary.md, gm-assist.md, transcript_corrections.yaml, the regenerated
+        cleaned tape, two manifests, quote_report_stage1.md) AND campaign-wide files
+        (notes/vtt_transcription_corrections.md, docs/party.md, docs/world_state.md,
+        docs/entity_registry.yaml, docs/entity_inventory.md, docs/aliases.json). All within
+        toee/, so campaign isolation holds, but they are arguably two commits.

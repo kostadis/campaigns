@@ -509,10 +509,16 @@ corrections:
 - id: cue-1235
   cue: 1235
   was: 'Kostadis Roussos: The holy gentleman keeps something in it. A sleeper. My leash is short, and the gates are watching. But you, you have keys I never did. If you ever want Verbabank and all its banners to come down on this terrible… hell… on this temple, and oh, they would come for this, wake what sleeps in the iron coffin.'
-  now: 'Kostadis Roussos: The holy gentleman keeps something in it. A sleeper. My leash is short, and the gates are watching. But you, you have keys I never did. If you ever want Verbobonc and all its banners to come down on this terrible… hell… on this temple, and oh, they would come for this, wake what sleeps in the iron coffin.'
+  now: 'Kostadis Roussos: The holy gentleman keeps something in it. A sleeper. My leash is short, and the gates are watched. But you, you have keys I never did. If you ever want Verbobonc and all its banners to come down on this terrible… hell… on this temple, and oh, they would come for this, wake what sleeps in the iron coffin.'
   recorded: *id001
   verified: true
-  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+  note: >-
+    vtt-spell-pass 2026-09-05 (Verbabank -> Verbobonc; GM-reviewed in artifact
+    8564286c). SECOND correction, GM ruling 2026-09-05 (staged-consistency stage
+    1): "the gates are watching" -> "the gates are watched". The prep
+    (notes/sessions/nobody-told-nulb.md line 456) reads "watched", and that is the
+    sense the surrounding line carries - Falrinth is the one under surveillance,
+    which is what "my leash is short" immediately before it says.
 - id: cue-1243
   cue: 1243
   was: 'Kostadis Roussos: You''ve also learned that there is something deep forgotten on the level beneath your feet that the verbabank would want.'
@@ -558,11 +564,46 @@ corrections:
 - id: cue-1295
   cue: 1295
   was: 'Kostadis Roussos: It says, Skull says the captain is still telling people you''re dead. You thought you might enjoy the update. Captain Tullub?'
-  now: 'Kostadis Roussos: It says, Skole says the captain is still telling people you''re dead. You thought you might enjoy the update. Captain Tolub?'
+  now: 'Kostadis Roussos: It says, Skole says the captain is still telling people you''re dead. He thought you might enjoy the update. Captain Tolub?'
   recorded: *id001
   verified: true
   note: 'vtt-spell-pass 2026-09-05 (Tullub->Tolub, artifact 8564286c) + staged-consistency
     stage 0 (Skull->Skole): GM ruled 2026-09-05 that he misread his own prep, which
     scripts "Skole says the captain is still telling people you''re dead"
     (notes/sessions/nulb-knows-now.md). Both independent transcriptions heard "Skull";
-    agreement confirms a word was spoken, not its spelling. Skole is a registry NPC.'
+    agreement confirms a word was spoken, not its spelling. Skole is a registry NPC. THIRD correction to this cue, GM ruling 2026-09-05 (staged-consistency stage 1): "You thought" -> "He thought". The prep script (notes/sessions/nulb-knows-now.md line 305) reads "He thought you might enjoy the update" - He being Skole, which is the only coherent reading; "You thought" has the note telling its reader what the reader thought. GM ruled the prep is canon for the note text and misread it aloud at the table.'
+- id: cue-0052
+  cue: 52
+  was: 'Kostadis Roussos: He tied the rope around himself, took a deep breath, and dove. The first attempt failed and nearly dislodged the object entirely, sending it tumbling further into the merc. But on the second dive, Zephyr, with a 14, just barely seized it and retched it free just before his lungs gave out. Xemia helped calm her haul haul him back to the surface, and when the slime was covered away, the object revealed…'
+  now: 'Kostadis Roussos: He tied the rope around himself, took a deep breath, and dove. The first attempt failed and nearly dislodged the object entirely, sending it tumbling further into the merc. But on the second dive, Zephyr, with a 14, just barely seized it and retched it free just before his lungs gave out. Zinnia helped Calmer haul him back to the surface, and when the slime was covered away, the object revealed…'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 (/remove-recap phase 2). Two garbles in one cue. Xemia -> Zinnia: same garble family as cue-0021 (Xenia), and now a variant on the Zinnia glossary row. calm her haul haul -> Calmer haul: known ASR split of the name. This cue is inside the Chapter 33 recap span, which was cut from both documents, so no artifact quote depends on it.'
+- id: cue-0574
+  cue: 574
+  was: 'Nicholas Roussos: Rosco''s currently cursing at Frostbrand, like, you had one job.'
+  now: 'Nicholas Roussos: Sequoia''s currently cursing at Frostbrand, like, you had one job.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05: Rosco is an ASR garble of Sequoia, not a name. Added as a wrong-form on the Sequoia glossary row. Nicholas Roussos plays Sequoia; the name appears in no canonical source, no other transcript, and is absent from the second independent transcription, which renders the same moment as only "Like, you had one job."'
+- id: cue-1182
+  cue: 1182
+  was: 'Kostadis Roussos: I cannot be seen sending a runner, and you cannot be before to be seen.'
+  now: 'Kostadis Roussos: I cannot be seen sending a runner, and you cannot afford to be seen.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 (staged-consistency stage 1). ASR garble: "be before" -> "afford". The prep (notes/sessions/nobody-told-nulb.md line 426) reads "you cannot afford to be seen receiving one". Only the garbled word is corrected - cue 1183 ("To be seen receiving one.") is left exactly as spoken, because that is the GM restarting the sentence, which is delivery, not a transcription error.'
+- id: cue-0514
+  cue: 514
+  was: 'Thomas Kolivakis: And I do… 10D6 worth of snipton.'
+  now: 'Thomas Kolivakis: And I do… 10D6 worth of sneak attack.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 (staged-consistency stage 1). ASR garble: "snipton" -> "sneak attack". Zephyr is a rogue and the surrounding cues are his sneak-attack damage roll (43, then plus 9 for 52).'
+- id: cue-0519
+  cue: 519
+  was: 'Thomas Kolivakis: Alright, plus 9, so… 52 feet.'
+  now: 'Thomas Kolivakis: Alright, plus 9, so… 52 damage.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 (staged-consistency stage 1). ASR garble: "52 feet" -> "52 damage". This is damage arithmetic, not movement: cue 516 is "43 damage?" and 43 + 9 = 52, which is the figure the recap reports. Left uncorrected, the only tape match for 52 is the word "feet", so a numeric audit reads the recap''s 52 as unsupported.'
