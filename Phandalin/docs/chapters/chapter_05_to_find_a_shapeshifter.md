@@ -4,7 +4,7 @@ title: To find a shapeshifter
 ---
 # Chapter 5 To find a shapeshifter
 
-## 05.01 Valphine 01-02-Taraskh 1495
+## 05.01 Valphine 01-02-Tarsakh 1495
 
 “The ogre is prone on the ground under the sun. Like Lathander obliterates the darkness with his light, I will smash his body,” Valphine thinks, her muscles tensing, a grim determination set on her face. The morning sun, usually a source of warmth and comfort, now illuminates the brutish form of their downed foe, a testament to the battle that has raged through the early hours. She sees an opportunity, a chance to end this struggle decisively.
 
@@ -32,7 +32,7 @@ Valphine is surprised by Vukradin’s answer, a calm, almost philosophical respo
 
 Valphine looks over the body and finds a whistle, some coins, and a key. 
 
-## 05.02 Soma 01-02-Taraskh 1495
+## 05.02 Soma 01-02-Tarsakh 1495
 
 The rest of the journey to Gnomengarde is uneventful. Soma finds the river that leads to the gnomish hold. At the end of the river is a waterfall whose erosion of the rock has created a natural concavity. The roaring waterfall creates a cloud of mist as it plunges into a shallow pool of water, within which rise two small islands covered with two-foot-tall red, green, and purple mushrooms. Several cave openings overlook the pool from rocky ledges twenty to thirty feet above. The mountain blocks any sunlight from reaching this place. 
 
@@ -108,7 +108,7 @@ At that, the female gnome smiles, “Oh, that’s so much better. There used to 
 
 Soma stares in disbelief, “Bureaucracy saved us.” 
 
-## 05.03 Vukradin 01-02-Taraskh 1495
+## 05.03 Vukradin 01-02-Tarsakh 1495
 
 “I want to learn more about our new friends. Tell me, friends, who are you? Do you like music? I am a bard.”
 
@@ -142,7 +142,7 @@ Once he’s climbed the walls, he enters a large cave that is strewn with the re
 
 To the south is the entrance to the laboratory of the gnomes. 
 
-## 05.04 Valphine 01-02-Taraskh 1495
+## 05.04 Valphine 01-02-Tarsakh 1495
 
 The Drow cleric stares at the two gnomes arguing. She is familiar with these debates among inventors, arguing over details that don’t matter. 
 
@@ -182,7 +182,7 @@ Dabbledob sighs, “Music has helped in some circumstances.”
 
 Vukradin asks if they have a piano, and Fiddelstib regretfully says no, but offers to build one. “It won’t be a normal piano\! But it will play music.” 
 
-## 05.05 Vukradin 01-02-Taraskh 1495
+## 05.05 Vukradin 01-02-Tarsakh 1495
 
 “Let’s go talk to the king.” 
 
@@ -236,7 +236,7 @@ Vukradin ponders the distasteful nature of such a deal, counts the 50 gold in hi
 
 The bard and his friends go through the room with the spinning blades, this time disabling the blades , then cross the bridge, and arrive where Pog and Ulla are sitting. 
 
-## 05.06 Valphine 01-02-Taraskh 1495
+## 05.06 Valphine 01-02-Tarsakh 1495
 
 Valphine, who knows about more dangerous shapeshifters in the Dark Realms, stares at the two gnomes, convinced they must be the shapeshifters. 
 

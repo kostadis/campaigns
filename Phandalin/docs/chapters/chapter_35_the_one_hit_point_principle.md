@@ -344,6 +344,7 @@ As long as she stays above one hit point. I was quite clear about that.
 
 ---
 
+<!-- INFERRED DATE: 23-03-Tarsakh 1495 -->
 The long rest, at least, was simple.
 
 We settled in. The night was cold in the way that nights near mountains are cold — a specific, personal cold, as though the air has decided you individually and has views about your presence. I kept my instrument near. I did not play anything substantial, just ran my fingers across the strings in the way you do when you're thinking without quite thinking, chord shapes without resolution.

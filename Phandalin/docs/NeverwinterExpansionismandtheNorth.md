@@ -2875,7 +2875,7 @@ Valphine has the next opening.
 
 # Chapter 5 To find a shapeshifter
 
-## 05.01 Valphine 01-02-Taraskh 1495
+## 05.01 Valphine 01-02-Tarsakh 1495
 
 “The ogre is prone on the ground under the sun. Like Lathander obliterates the darkness with his light, I will smash his body,” Valphine thinks, her muscles tensing, a grim determination set on her face. The morning sun, usually a source of warmth and comfort, now illuminates the brutish form of their downed foe, a testament to the battle that has raged through the early hours. She sees an opportunity, a chance to end this struggle decisively.
 
@@ -2903,7 +2903,7 @@ Valphine is surprised by Vukradin’s answer, a calm, almost philosophical respo
 
 Valphine looks over the body and finds a whistle, some coins, and a key. 
 
-## 05.02 Soma 01-02-Taraskh 1495
+## 05.02 Soma 01-02-Tarsakh 1495
 
 The rest of the journey to Gnomengarde is uneventful. Soma finds the river that leads to the gnomish hold. At the end of the river is a waterfall whose erosion of the rock has created a natural concavity. The roaring waterfall creates a cloud of mist as it plunges into a shallow pool of water, within which rise two small islands covered with two-foot-tall red, green, and purple mushrooms. Several cave openings overlook the pool from rocky ledges twenty to thirty feet above. The mountain blocks any sunlight from reaching this place. 
 
@@ -2979,7 +2979,7 @@ At that, the female gnome smiles, “Oh, that’s so much better. There used to 
 
 Soma stares in disbelief, “Bureaucracy saved us.” 
 
-## 05.03 Vukradin 01-02-Taraskh 1495
+## 05.03 Vukradin 01-02-Tarsakh 1495
 
 “I want to learn more about our new friends. Tell me, friends, who are you? Do you like music? I am a bard.”
 
@@ -3013,7 +3013,7 @@ Once he’s climbed the walls, he enters a large cave that is strewn with the re
 
 To the south is the entrance to the laboratory of the gnomes. 
 
-## 05.04 Valphine 01-02-Taraskh 1495
+## 05.04 Valphine 01-02-Tarsakh 1495
 
 The Drow cleric stares at the two gnomes arguing. She is familiar with these debates among inventors, arguing over details that don’t matter. 
 
@@ -3053,7 +3053,7 @@ Dabbledob sighs, “Music has helped in some circumstances.”
 
 Vukradin asks if they have a piano, and Fiddelstib regretfully says no, but offers to build one. “It won’t be a normal piano\! But it will play music.” 
 
-## 05.05 Vukradin 01-02-Taraskh 1495
+## 05.05 Vukradin 01-02-Tarsakh 1495
 
 “Let’s go talk to the king.” 
 
@@ -3107,7 +3107,7 @@ Vukradin ponders the distasteful nature of such a deal, counts the 50 gold in hi
 
 The bard and his friends go through the room with the spinning blades, this time disabling the blades , then cross the bridge, and arrive where Pog and Ulla are sitting. 
 
-## 05.06 Valphine 01-02-Taraskh 1495
+## 05.06 Valphine 01-02-Tarsakh 1495
 
 Valphine, who knows about more dangerous shapeshifters in the Dark Realms, stares at the two gnomes, convinced they must be the shapeshifters. 
 
@@ -3143,7 +3143,7 @@ She smiles and repeats a rhyme she remembers from her youth, “Sticks and stone
 
 # Chapter 6 The Bard, the Kings, and the Carver
 
-## 06.01 Vukradin 01-02-Taraskh 1495
+## 06.01 Vukradin 01-02-Tarsakh 1495
 
 Vukradin, ever the theatrical one, taunts the grotesque creature before them. “We have it outnumbered\! It’s stunned\! We shall kill it before it lays a hand on us\!” His voice booms, filled with an almost reckless confidence that, at times, borders on delusion.
 
@@ -3173,7 +3173,7 @@ Brewbarry, realizing his oversight, thumps his head with a meaty hand, a moment 
 
 And then, with a final, decisive strike, Soma finishes it off, her earlier philosophical musings giving way to efficient, deadly action. The unnatural creature, a temporary blight on the material world, is no more.
 
-## 06.02 Soma 01-02-Taraskh 1495
+## 06.02 Soma 01-02-Tarsakh 1495
 
 “Let’s see what else is here,” I muttered.
 
@@ -3201,7 +3201,7 @@ But I kept my mouth shut.
 
 And followed Vukradin to the King’s room, where we were to receive our prize.
 
-## 06.03 Valphine 01-02-Taraskh 1495
+## 06.03 Valphine 01-02-Tarsakh 1495
 
 I watch as Vukradin attempts to negotiate with the two Kings. And I sigh.
 
@@ -3277,7 +3277,7 @@ Vukradin tries to create more chaos, like a good Drow, and says, “I think you 
 
 But the two inventors are more interested in building a tamper-proof voting box. Or rather, arguing over whether such a thing is possible.
 
-## 06.04 Soma 01-02-Taraskh 1495
+## 06.04 Soma 01-02-Tarsakh 1495
 
 The tortle is pleased that she is a guide for Vukradin. His tab continues to grow, and at some point, she will want to be paid, but she is fine for now. 
 
@@ -3293,7 +3293,7 @@ The Bard perks up, for he, too, had heard of this play. It had had a spectacular
 
 The tavern keeper looks at him, “I am not sure where you would go to find the script, but Triboar is as good a place as any.” 
 
-## 06.05 Valphine 02-02-Taraskh 1495
+## 06.05 Valphine 02-02-Tarsakh 1495
 
 I was annoyed. We were going to save a woman’s life, at our risk, for a mere 25 gold. It seemed absurd. But Lathander’s Cleric had cautioned me about this.
 
@@ -3327,7 +3327,7 @@ But I dismiss this.
 
 I am not in the Dark Realms, worried about every shadow. 
 
-## 06.06 Soma 02-02-Taraskh 1495
+## 06.06 Soma 02-02-Tarsakh 1495
 
 Bandits. Yes, the noise is bandits. Valphine had this tense look on her face, but said nothing. Maybe she sensed something? Perhaps she didn’t. But these bandits would have gotten the jump on us if they had not made so much noise. 
 
@@ -3371,7 +3371,7 @@ And so I turn my head to that poor bandit who was afraid of spiders. And there i
 
 I sit down. 
 
-## 06.07 Brewbarry 02-02-Taraskh 1495
+## 06.07 Brewbarry 02-02-Tarsakh 1495
 
 My rage consumes me. And yet, there is something about this man’s fear. And I think that he has lost his tribe. And I feel sadness. 
 
@@ -3387,7 +3387,7 @@ The man stares at me, a look of confusion on his face. He was expecting to die, 
 
 The man stares and says, “They pillaged my village, destroyed everything.” He looks at me and sobs, “I had no money, nothing. I am not a bad person. I don’t want to steal things. It’s the Carver’s fault.”
 
-## 06.08 Vukradin 02-02-Taraskh 1495
+## 06.08 Vukradin 02-02-Tarsakh 1495
 
 The bandit has a boss. I must learn more. 
 
@@ -3401,7 +3401,7 @@ He looks at me like a puppy who has found its momma. I smile. And then he asks, 
 
 I smile, “Of course.” 
 
-## 06.09 Soma 02-02-Taraskh 1495
+## 06.09 Soma 02-02-Tarsakh 1495
 
 There’s a scroll. I pick it up. It has a druidic spell. 
 
@@ -3413,7 +3413,7 @@ Am I any better than a bandit if I keep this?
 
 # Chapter 7 Saving Adabra
 
-## 07.01 Vukradin 03-02-Taraskh 1495
+## 07.01 Vukradin 03-02-Tarsakh 1495
 
 Corbin stands before Vukradin. Corbin is a gaunt man in his late twenties, with the haunted, hollowed-out look of someone who has stared into the abyss and found it staring back. His hair is a matted, dirt-brown tangle, and a patchy, uncared-for beard clings to his jaw. His eyes, a pale blue, are often distant and unfocused, but can sharpen with a desperate, feral intensity when threatened. He wears ill-fitting leather armor scavenged from a dead man, and his movements are tinged with a weary resignation, punctuated by moments of nervous energy.
 
@@ -3451,7 +3451,7 @@ Corbin sees the spider and freaks out.
 
 Vukradin laughs, “That’s Soma, our tortle.’ 
 
-## 07.02 Soma 03-02-Taraskh 1495
+## 07.02 Soma 03-02-Tarsakh 1495
 
 This spider's body is fun. But I can’t communicate. I mean, I can, but only with other spiders. But seeing the world from this angle, with these eyes, teaches you so much about the natural world and the natural order. I smell things and see things and taste things that I didn’t know existed. It’s an explosion of senses. 
 
@@ -3513,7 +3513,7 @@ The manticore perks its head at us and can see us all.
 
 I missed my chance to talk to it.  
 
-## 07.03 Valphine 03-02-Taraskh 1495
+## 07.03 Valphine 03-02-Tarsakh 1495
 
 The creature roars. I put one of the bolts in my hand crossbow, and target the creature. 
 
@@ -3599,7 +3599,7 @@ I stare in disbelief at my crossbow, frustrated.
 
 “YES\!\!\!” screams Brewbarry. He has killed the Manticore. 
 
-## 07.04 Vukradin 03-02-Taraskh 1495
+## 07.04 Vukradin 03-02-Tarsakh 1495
 
 I cut off the creature’s head and then march to the windmill, the bloody head in tow. 
 
@@ -3631,7 +3631,7 @@ That doesn’t help us get her to come to town. She’s very determined to stay 
 
 There is a deeper agenda at play here—an agenda I don’t quite understand. 
 
-## 07.05 Soma 03-02-Taraskh 1495
+## 07.05 Soma 03-02-Tarsakh 1495
 
 I am trying to make up lost time as a druid, and this woman has something about her. She looks at me. 
 
@@ -3681,7 +3681,7 @@ With the note in hand, I shrug and begin the long trek back, when of all people 
 
 Adabra squeals in delight, “Yes\! I will make a fantastic meal\! But I need help.” 
 
-## 07.06 Valphine 03-02-Taraskh 1495
+## 07.06 Valphine 03-02-Tarsakh 1495
 
 Corbin arrives at the windmill. He looks even worse than he did before. And now he smells. 
 
@@ -3715,7 +3715,7 @@ The room is silent while Adabra makes a meal of hearty, fresh-baked bread, a veg
 
 Overbrighters make the best meals. It’s all because of Lathander’s glory\! The sun-god fuels the ground and the food, and it is \-just- tastier. 
 
-## 07.07 Soma 03-02-Taraskh 1495
+## 07.07 Soma 03-02-Tarsakh 1495
 
 Soma was annoyed with Adabra. Her druidic master, Meril, had tried his best in his one year near her home. And it was his prompting that led her to follow Vukradin. Yes, there were gaps, but she didn’t have the time to train because she had so little time left. And to be reminded.
 
@@ -3731,7 +3731,7 @@ This man's journey through life was changed by visitors. He saw death and horror
 
 I think. And then I sleep. 
 
-## 07.08 Soma 03-02-Taraskh 1495
+## 07.08 Soma 03-02-Tarsakh 1495
 
 And am woken up by Adabra. 
 
@@ -3779,7 +3779,7 @@ I notice that Vukradin has the look of a child who heard he was going to get his
 
 # Chapter 8 Vukradin, Rank Cheval 
 
-## 08.01 Soma 03-02-Taraskh 1495
+## 08.01 Soma 03-02-Tarsakh 1495
 
 The sun shines, the walk is long and Adabra feels the need to talk. 
 
@@ -3801,7 +3801,7 @@ But Adabra assures him he was never a barbarian; he was a nomad.
 
 I am worried that this will continue for hours, so thankfully, Vukradin decides to play some music, and this time the music is good.  
 
-## 08.02 Vukradin 03-02-Taraskh 1495
+## 08.02 Vukradin 03-02-Tarsakh 1495
 
 Valphine wanted to play her musical instrument along with me. That may not work for me. Although this time, it added a particular color and texture that elevated my composition to art. Perhaps, we can find a way to collaborate as long as she recognizes her role in our duo. 
 
@@ -3823,7 +3823,7 @@ She takes a deep breath and continues, “Those who protect us must do so with a
 
 I notice how she just skips over Valphine, as if she doesn’t exist. Or is it that something about Valphine annoys her? Is it because she is a Drow? 
 
-## 08.03 Valphine 03-02-Taraskh 1495
+## 08.03 Valphine 03-02-Tarsakh 1495
 
 Lathander’s light will guide me even if this woman chooses to ignore me. If I were a cleric of Lolth, or if I were in my noble house, she would be dead. But I have moved past that world.  
 
@@ -3865,7 +3865,7 @@ When we are done, there is applause.
 
 Vukradin looks at me and says, “Perhaps we should play together.” 
 
-## 08.04 Soma 03-02-Taraskh 1495
+## 08.04 Soma 03-02-Tarsakh 1495
 
 As I sit and watch the child Vukradin and Valphine, the oddest of pairings, play music, I think about the forest and my children. 
 
@@ -3883,7 +3883,7 @@ Poor Silverleaf, his pitch was wonderful, but he didn’t realize that Vukradin 
 
 Silverleaf is in shock and apologizes for offending. Vukradin is on a roll, and I feel for the old elf, but at the same time, lessons need to be learned. 
 
-## 08.05 Vukradin 03-02-Taraskh 1495
+## 08.05 Vukradin 03-02-Tarsakh 1495
 
 This is why adventuring is wrong. When is it a monster? And when is it a poor farmer that you plundered? It’s plunder, and there is no blurry line that makes it right under some circumstances. 
 
@@ -3945,7 +3945,7 @@ Maybe if I tell him what I want, “It would be better if I had a music studio?�
 
 “I am offering something else. What? Imagine what your voice and story would accomplish with the backing of our order. Yes, you can motivate hundreds, but with our backing, you would be known to tens of thousands.” 
 
-## 08.06 Valphine 03-02-Taraskh 1495
+## 08.06 Valphine 03-02-Tarsakh 1495
 
 I know this kind. And he quickly explains that his order was instrumental in the War of the Dragon. He brags that one of their order, Milo Goodbarrel, was the leader of the strike force that made it to the inner sanctum and stopped the ritual. 
 
@@ -3965,7 +3965,7 @@ I wonder about that.
 
 Vukradin is then told he will receive a pin, and I know the Aasimar will try to sell it, but it’s worth nothing. He's then instructed to continue being true to his mission and opposing the senseless killing and plundering. 
 
-## 08.07 Brewbarry 03-02-Taraskh 1495
+## 08.07 Brewbarry 03-02-Tarsakh 1495
 
 Order of Gauntlet. I know them. They fought against my tribe. They killed many. They were proud, dangerous, and ferocious warriors. 
 
@@ -3983,7 +3983,7 @@ I want to hit him.
 
 “Spiderman brings four.”  
 
-## 08.08 Soma 03-02-Taraskh 1495
+## 08.08 Soma 03-02-Tarsakh 1495
 
 Vukradin is waiting for a tiny pebble to push him over the edge, and Ser Kaelen provides him with the stone. “Being a member of the order of the gauntlet will get your music out to more people and your message to more people. The combination of your personal story and your celestial origins will be tremendous.”  
 
@@ -3993,7 +3993,7 @@ But he has already said yes.
 
 Ser Kaelen responds, “Know this, you are a brother. And when we reach out for help, you must come to us as a brother. And as your brothers, we will come to your help\!” 
 
-## 08.09 Soma 03-02-Taraskh 1495
+## 08.09 Soma 03-02-Tarsakh 1495
 
 The shell-sprout is happy. He is part of a family. A family he doesn’t know that wants things he can’t imagine. But now he wants to go on an adventure. 
 
@@ -4035,7 +4035,7 @@ Ser Kaelen is delighted to see us. He hears our story and says, “I am delighte
 
 # Chapter 9 Conflict-free gold, a curious side quest, and a delightful ambush. 
 
-## 09.01 Vukradin 03-02-Taraskh 1495
+## 09.01 Vukradin 03-02-Tarsakh 1495
 
 And so we leave for the Tower of Storms. As we round a bend, we spot a small, overturned trade cart, partially obscured by thick undergrowth. Huddled nervously behind it are two figures – a middle-aged human merchant, Ellarrah, and her groom, Jarek. They look visibly shaken and disheveled, their pack horses nowhere in sight.
 
@@ -4111,7 +4111,7 @@ Adabra mutters something about interventionists and the Emerald Enclave. Soma li
 
 I hope she asked for money. 
 
-## 09.02 Valphine 07-02-Taraskh
+## 09.02 Valphine 07-02-Tarsakh
 
 The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our trek towards the Tower of Storms. It was a journey of a few days, each one a test of my patience for surface world banalities.
 
@@ -4162,7 +4162,7 @@ How beautiful this battle had become.  A moment of joy, yet also pain. An ambush
 
 # Chapter 10 The Tower of Storms: Echoes, Art, and the Serpent's Coil
 
-## 10.01 Vukradin's Perspective 07-02-Taraskh 1495
+## 10.01 Vukradin's Perspective 07-02-Tarsakh 1495
 
 The wind whips around us as we approach the Tower of Storms, a grim sentinel on its rocky perch. The air immediately fills with discord: three harpies descend, their songs a cacophony that grates on my ears. Before I can process their screeching, one of them, a male harpy dressed in grey rags, begins to sing, and I see Valphine and Brewbarry succumb, a vacant look in their eyes as they become charmed.
 
@@ -4178,7 +4178,7 @@ Our exploration leads us to a 15-foot-high empty room. Through a dirty window, I
 
 Deeper within the tower, a battle against Moesko, the Orc Anchorite, begins. After Soma transforms into a brown bear and lands some hits, I seize the opportunity to cast Cloud of Daggers, conjuring whirling blades that trap Moesko within a 5-foot cube, inflicting 9 initial damage. He'll take more damage if he stays there. This combat is certainly more dramatic than the harpies, an actual test of our combined talents, if not our sanity, as Moesko responds with a devastating Lightning Bolt and Thunderwave.
 
-## 10.02 Soma's Perspective 07-02 Taraskh 1495
+## 10.02 Soma's Perspective 07-02 Tarsakh 1495
 
 The harpies are a nuisance, their songs a crude manipulation of emotions. As Vukradin's Silence spell takes effect, I see the charm break on Valphine and Brewbarry. This is effective, but these creatures are not bright, so they'll likely continue trying if we leave the sphere of silence.
 
@@ -4196,7 +4196,7 @@ The battle begins. I open with a minor poison spray attack, then, sensing the ne
 
 Brewbarry, finally finding his footing, charges Moesko and hits him for some damage, bringing the anchorite down to death’s door. The tight corridor of the tower makes my bear form cumbersome, so I revert. I deliver the final strike, ending the Orc Anchorite's threat.
 
-## 10.03 Valphine's Perspective 07-02-Taraskh 1495
+## 10.03 Valphine's Perspective 07-02-Tarsakh 1495
 
 Upon arriving at the Tower of Storms, the air is thick with the cloying, clashing melodies of three harpies. My instincts, honed in the subtle cruelties of the Underdark, scream danger. Immediately, I am charmed by the male harpie’s song, a disorienting, unpleasant sensation. Thankfully, Vukradin's Silence spell descends, cutting off the offending music and freeing me from its influence.
 
@@ -4214,11 +4214,11 @@ Brewbarry, to my surprise, manages to charge Moesko and lands a hit for some dam
 
 # Chapter 11 The Beating Heart of the Storm and Whispers from the Deep
 
-## 11.01 Soma 07-02-Taraskh 1495
+## 11.01 Soma 07-02-Tarsakh 1495
 
 The salty tang of the sea still clung to our gear as we descended deeper into the Tower of Storms, leaving the broken sirens and the eerie calm of the upper levels behind us. Moesko, the dark cleric, lay defeated, but there was still a sense of unease that settled over us.
 
-## 11.02 Soma 07-02-Taraskh 1495
+## 11.02 Soma 07-02-Tarsakh 1495
 
 My eyes scanned Moesko’s lifeless form. He had been a formidable foe, but now he was just a collection of secrets waiting to be uncovered. There was a strange hole in his chest, a peculiar detail that reminded me of some macabre tale, perhaps from a fever dream or a whispered legend. My gaze then fell upon an opalescent conch resting nearby, its subtle shimmer hinting at its significance. This, I knew, was what Miraal sought.
 
@@ -4236,7 +4236,7 @@ After the struggle, I realized the waterlogged timber from the wrecks was unsuit
 
 When Miraal appeared to claim her conch, it was quick, almost too quick. "We didn't die\! Yeah, and check out this cool cloak we found\! You know who owns it?" I asked the giant crab, proud of our finds. He then pointed to the halberd, claiming it as the treasure he was going to get for us. It was a bit rich, but I'm not one to look a gift crab in the mouth. Later, as we shared the cooked shark meat, I reflected on the day. I might not be a purist, but I was definitely a survivor, and I had quite the story (and a shark tooth necklace, soon enough) to show for it.
 
-## 11.03 Vukradin 07-02-Taraskh 1495
+## 11.03 Vukradin 07-02-Tarsakh 1495
 
 The grim truth of Moesko's defeated form settled heavily upon me. I believe, fundamentally, in the sanctity of earned possessions. All this treasure feels like stolen merchandise, and I’m determined to find its rightful owners. I am a musician, after all, not a common thief, and I just wanna make a music studio, and I want to do it without stealing something\! My companions, especially Soma, seem less bothered by such ethical quandaries, but to me, the integrity of our actions is paramount.
 
@@ -4258,7 +4258,7 @@ Miraal, the sea elf's ghost, finally manifested as we presented her conch. "Than
 
 The giant crab appeared, offering his gratitude for the sharks we'd dispatched. He then noticed Brewbarry's new halberd. "My, yes, you did in fact find the treasure I was going to get for you," he said. "What the hell is that?" I exclaimed, turning to Brewbarry. "He just said it was a treasure that he was gonna go get for you. Where'd you get it?" I tried to persuade him: "What are you doing? You can't use that." It was frustrating, but Brewbarry, as ever, seemed unmoved. I also noted that the shark meat we had was lawfully earned, which allowed us to enjoy it. The magical cloak Soma tried to foist on me, even though it was fashionable and changed colors, I politely but firmly refused. It was not mine to take, no matter how much it tempted me.
 
-## 11.04 Valphine 07-02-Taraskh 1495
+## 11.04 Valphine 07-02-Tarsakh 1495
 
 Moesko was dead. A moderately successful priestess of Lolth in my former life, I had a keen eye for power dynamics and intrigue, even if my sisters thought me soft for lacking their glee in mayhem. Here, among these surface dwellers, the concept of "loot splitting" was still a subject of contention. "The way I look at it is the party is going to have a four-way treasure split three ways most of the time," I observed, an internal calculation honed by years of drow politics. Personally, I am not a loot whore or a gold digger; I’m just a simple pleasure kind of gal, so the squabbling over gold was amusing, if a bit tiresome.
 
@@ -4274,7 +4274,7 @@ Back on shore, with the immediate threats neutralized, I turned my attention to 
 
 # Chapter 12 Phandalin: Old Debts and New Suspicions. 
 
-## 12.01 Vukradin 07-02-Taraskh 1495 
+## 12.01 Vukradin 07-02-Tarsakh 1495 
 
 “I need to go back to Phandalin to take care of some unfinished business.” 
 
@@ -4324,7 +4324,7 @@ Valphine rolls her eyes, “When you put on the pin of the Order of the Gauntlet
 
 “And neither does she.” 
 
-## 12.02 Soma 08-02-Taraskh 1495
+## 12.02 Soma 08-02-Tarsakh 1495
 
 We arrive in Phandalin and stand in front of the Town Master’s house. The Shell Sprout is upset. As for me, I am here to guide him wherever he wants to go. And I know that this unrooted sprout will never grow the kind of roots he needs. 
 
@@ -4378,7 +4378,7 @@ Vukradin is annoyed, “Well maybe we won’t deal with the whispering woods.”
 
 I look at him and think echo-ignorer. 
 
-## 12.03 Valphine 08-02-Taraskh 1495
+## 12.03 Valphine 08-02-Tarsakh 1495
 
 After our bizarre exchange with Adabra, we head to the Lionshield Coster, where the proprietor Linene Graywind explains to Vukradin that, unfortunately, due to events that he can’t get into, the Lionshield Coster cannot offer the same rich services it used to provide. 
 
@@ -4420,7 +4420,7 @@ A warning if there ever was one. A warning that even Vukradin figures out.
 
 “Let’s go talk to Ser Kaelen.”
 
-## 12.04 Vukradin 08-02-Taraskh 1495
+## 12.04 Vukradin 08-02-Tarsakh 1495
 
 When we walk into the Stonehill Tavern, Ser Kaelen is delighted to see us. 
 
@@ -4477,7 +4477,7 @@ I stare at her.
 
 “Fine.” 
 
-## 12.05 Soma 08-02-Taraskh 1495
+## 12.05 Soma 08-02-Tarsakh 1495
 
 The shell-sprout is not done talking. 
 
@@ -4544,7 +4544,7 @@ Valphine mutters, “And please make sure to ask them about the secret code in t
 
 I look at her and realize she knows what I know, that Ser Kaelen can’t be trusted. 
 
-## 12.06 Valphine 09-02-Taraskh 1495
+## 12.06 Valphine 09-02-Tarsakh 1495
 
 And so we spend the next few hours playing music. At first, Vukradin plays alone. And when he stops, waiting to see if anyone will pay, two silver pieces are dropped at his table. He seems pleased. I ask if I can join him, and he says yes. 
 
@@ -4591,13 +4591,13 @@ Vukradin seems satisfied, but I am not.
 
 “Let’s go make Soma happy.” 
 
-## 12.07 Soma 09-02-Taraskh 1495
+## 12.07 Soma 09-02-Tarsakh 1495
 
 As we head out to the Whispering Grove, the staff that Meril gave me suddenly feels alive. Some magic inside it was unlocked. 
 
 # Chapter 13 The stag, the brambles, the wolves, and the pool.  
 
-## 13.01 Soma 10-02-Taraskh 1495
+## 13.01 Soma 10-02-Tarsakh 1495
 
 There are no signs of rotting trees or obvious blight in the Whispering Wood. And yet, I can feel something is different about this place. 
 
@@ -4623,7 +4623,7 @@ Then, with an abrupt change of subject, the stag asks if we have "anything to ea
 
 With this new lead, we decide to head towards the center of the forest. As I lead the group, I keep thinking about the stag. Something unnatural festers here.
 
-## 13.02 Valphine10-02-Taraskh 1495
+## 13.02 Valphine10-02-Tarsakh 1495
 
 My drow senses, accustomed to the subtle currents of intrigue and the raw, often terrifying, distortions of the Underdark, hummed with an uncomfortable awareness. Soma seemed unconcerned. I felt at home. 
 
@@ -4641,7 +4641,7 @@ Soma transforms into a bear and strikes the bushes. Vukradin follows with a biti
 
 And then the bramble stops moving. Brewbarry and the Bear have rendered it inert. We move through it before it can reanimate. 
 
-## 13.03 Vukradin 10-02-Taraskh 1495
+## 13.03 Vukradin 10-02-Tarsakh 1495
 
 We faced some wolves. They had an unnatural howl that rooted me to the spot. And their eyes glowed. Others may say it is fear. I say it was magic. The creatures were quickly defeated, and then we took their pelts. 
 
@@ -4695,7 +4695,7 @@ As we walk closer to the center, the whisper about numbers keeps poking at my mi
 
 # Chapter 14 Naturalists and Interventionists
 
-## 14.01 Soma 10-02-Taraskh 1495
+## 14.01 Soma 10-02-Tarsakh 1495
 
 The air itself tastes wrong as we push through the last line of dense trees and step into the clearing. It’s perhaps sixty feet across, but something here is fundamentally off. My fur, thick and protective in this bear form, prickles with an unease that goes beyond simple predator instinct. The woods surrounding us don’t lean; they *twist*, their bark gleaming like polished obsidian under the faint, sickly light filtering through a canopy that looks less broken and more *fractured*.
 
@@ -4723,7 +4723,7 @@ Adabra said that there was a blight and that the interventionist had to be stopp
 
 Is this strange magic the blight? Where are those who are intervening? Are they the Emerald Enclave?
 
-## 14.02 Valphine 10-02-Taraskh 1495
+## 14.02 Valphine 10-02-Tarsakh 1495
 
 My drow eyes, ever keen to the subtle distortions of reality, watch Soma – still in her bulky bear form – lumber towards the blighted brambles. Her brute force approach is, at least, direct, a refreshing change from Vukradin's performative posturing. The thorny tendrils lash out, predictably. I see them strike her, and though she is a sturdy creature, I note the faint wince, the minor disruption to her composure as four points of damage are inflicted. It is a taste of pain, perhaps not gloriously searing, but present nonetheless.
 
@@ -4759,7 +4759,7 @@ It's my turn again. The second enclave warrior, poor soul, is at death's door. P
 
 Brewbarry follows, who, for all of his behavior, seems to have a deep wellspring of wisdom, attempts a ritual... Another success. Three successes, one failure. We're practically proficient\! But then Soma, with a clumsy flourish, tries and fails. Our second ritual failure. Before I can even process the dramatic irony, Soma and the first Enclave Warrior deliver the final, unceremonious blows to the Treant. The corrupted guardian falls, not with a bang, but with a whimper of poison and arrows—a rather inelegant final cadenza.
 
-## 14.04 Soma 10-02-Taraskh 1495
+## 14.04 Soma 10-02-Tarsakh 1495
 
 The tree dies. And the ritual is not yet finished. I see one of the stones. I will do the ritual.
 
@@ -4859,7 +4859,7 @@ I must go and talk to her.
 
 # Chapter 15 Confronting Adabra and learning of the Interventionists.  
 
-## 15.01 Soma 01-03 Taraskh 1495
+## 15.01 Soma 01-03 Tarsakh 1495
 
 I feel like a shell sprout, wet from the nest, a child that has been taken advantage of. I trusted Adabra. And she took advantage of my trust to get me to stop the people who were trying to save our plane. 
 
@@ -4903,7 +4903,7 @@ When Lyra is about to go on some long-winded rant, Vukradin again manages to def
 
 But this time, Lyra is fed up and shouts, “If you cannot see the evil this woman represents and her fanaticism and its danger, then you are all fools.” 
 
-## 15.02 Vukradin 01-03 Taraskh 1495
+## 15.02 Vukradin 01-03 Tarsakh 1495
 
 I just want to be friends with everyone. I don’t understand why people are so full of hate. I mean, I used to think that the key to everything was to play music that was better than my audience, but now I realize that playing popular music is the way to their hearts. And I just want them to love me. 
 
@@ -4971,7 +4971,7 @@ Adabra is pleased and hands me five conflict-free gold pieces.
 
 She continues for some time in some kind of ecstasy, saying words that mean nothing, about planes, and designs, and universalism, and I am bored. Soma later on tells me that she was spouting nonsense that was meaningless. I try hard not to say, “Well, I already knew that.” 
 
-## 15.03 Valphine 01-03 Taraskh 1495
+## 15.03 Valphine 01-03 Tarsakh 1495
 
 Adabra is a zealot. I have seen her kind and how they worship Lolth, convinced that there is some greater purpose to the universe, that the demonic powers they worship will grant them power, or that by serving them, they are serving some enduring power. 
 
@@ -5009,7 +5009,7 @@ They sit at our table after Vukradin invites them. And then he starts with the q
 
 The oldest among them drinks from the beer that Spiderman has brought to us and says, “ We've sworn our lives and our honor to the Emerald Enclave, and Lyra was just upset. The quest… her goal was to save the tree and to save the forest, and all that happened was… and that all failed, and she is very …” 
 
-## 15.04 Soma 01-03-Taraskh 1495
+## 15.04 Soma 01-03-Tarsakh 1495
 
 The agents of the Emerald Enclave are next to me. These are the paragons that Meril told me protected the forests and the swamps.  
 
@@ -5077,7 +5077,7 @@ He drinks, “but we didn’t and almost died.”
 And with that, Thomas turns to Marian and they get up and leave. As they leave, Vukradin asks if they would like to join our group. For a moment, they consider it and then say, “Our oath binds us.”
 
 
-## 15.05 Vukradin 01-03-Taraskh 1495
+## 15.05 Vukradin 01-03-Tarsakh 1495
 
 Ser Kaelen approaches. And he asks me about my work and my plans. And I don’t trust him. I ask him about any information he might have about the rightful owner of our treasures from the ship, and he sighs and mutters something about how hard it is. 
 
@@ -5093,7 +5093,7 @@ And that anything I come up with will be better than what he shared.
 
 # Chapter 16 The Butterskull Quest 
 
-## 16.01 Valphine 02-03-Taraskh 1495
+## 16.01 Valphine 02-03-Tarsakh 1495
 
 The night before, we discussed our plans in private. We had no intention of being ambushed again. 
 
@@ -5117,7 +5117,7 @@ The merchant stares bug-eyed and mutters, “That’s very hard.”
 
 And Vukradin, with a theatrical flourish, declares, “Just because something is hard, doesn’t mean we don’t do it\!” 
 
-## 16.02 Valphine 04-03-Taraskh 1495
+## 16.02 Valphine 04-03-Tarsakh 1495
 
 As I enter Conyberry, I notice an unsettling silence that hangs in the air, broken only by the whisper of the wind through the hollowed-out homes.  The homes are now little more than skeletal remains. Their roofs have long since collapsed inward, their wooden frames rotted and blackened by fire and time. The wattle-and-daub walls have crumbled to dust, and the streets are overgrown with thorny vines and tenacious weeds. 
 
@@ -5133,7 +5133,7 @@ But Vukradin will have none of that and insists he go.
 
 # Chapter 17 Freeing Big Al, Petunia and watching a ranch burn
 
-## 17.01 Soma 04-03-Taraskh 1495
+## 17.01 Soma 04-03-Tarsakh 1495
 
 Vukradin halts us when we spot four brigands, easily recognizable as Carver’s disposable crew. My sigh is internal, a slow puff of air against the inside of my shell.
 
@@ -5179,7 +5179,7 @@ But then, perhaps because he has no shell, he comes up with a good idea, “What
 
 Vukradin is dubious. But Corbin is insistent. The former bandit promises to take care of Skippy. He promises to take care of him. I can see that Corbin wants revenge. Vukradin notices it as well and tells him that Skippy better not be dead by the time he returns. 
 
-## 17.02 Vukradin 04-03-Taraskh 1495
+## 17.02 Vukradin 04-03-Tarsakh 1495
 
 The air here, near Butterskull Ranch, feels heavy, not with mist but with malice. We bypass the main trail completely, electing for a stealthy approach from the north. I keep my movements precise, channeling my focus—not on the combat I dread, but on the certainty that this is an opportunity for honest coin. This path, guided by information bought with minimal violence, is the artistic path.
 
@@ -5227,7 +5227,7 @@ Now, the true objective begins. We retreat to a nearby hill where we can observe
 
 “I don't think we need to be near… that near the farmhouse, right? Like, we can watch it from…” I mutter, selecting a spot roughly 250 feet away . We wait patiently, prioritizing the hunt for Borg over a direct frontal assault . We are here to track the villain back to his source, not merely crash his party. This caution, this patience, is the price of honest adventuring.
 
-## 17.03 Valphine 04-03-Taraskh 1495
+## 17.03 Valphine 04-03-Tarsakh 1495
 
 The wind at Butterskull Ranch chills my skin, a minor irritation that only enhances the strange, glorious discomfort of the Overbright. We have accomplished the mundane task: rescuing Big Al Kalazorn and recovering his absurd, prized cow, Petunia. Now, we settle into the vantage point we chose on the hill, waiting for the true action to begin .
 
@@ -5261,7 +5261,7 @@ Yes. The trail of the furious Borg is the trail to the true center of the intrig
 
 # Chapter 18 Deals with Harbin, and Sister Kaella, and no deal with Jenna
 
-## 18.01 Vukradin 07-03-Taraskh 1495
+## 18.01 Vukradin 07-03-Tarsakh 1495
 
 Harbin’s accusations are too much. He has crossed the line. 
 
@@ -5361,7 +5361,7 @@ I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can 
 
 For a moment, the nobility of the revolution calls, but then I realize that compromise is also noble. 
 
-## 18.02 Valphine 07-03-Taraskh 1495
+## 18.02 Valphine 07-03-Tarsakh 1495
 
 It’s been a long day, waiting for the sun to settle. While Vukradin, Soma, and Brewbarry went into town, I had a different plan. I would stay outside of town with Corbin and Locutus. 
 
@@ -5435,7 +5435,7 @@ She smiles, as if she knows something, a secret we share, and then tosses a bag 
 
 And before I can react, she disappears. 
 
-## 18.03 Brewbarry 07-03-Taraskh 1495
+## 18.03 Brewbarry 07-03-Tarsakh 1495
 
 The tavern is a happening place. And the beer tastes good, but the woman who smirked on the green during the dragon attack is still smirking and staring at Vukradin.
 
@@ -5508,7 +5508,7 @@ Vukradin is doubtful at first, but when he hears that he wrote the mysterious le
 
 Before he reaches the table, I tell him that I disarmed her. 
 
-## 18.04 Vukradin 07-03-Taraskh 1495
+## 18.04 Vukradin 07-03-Tarsakh 1495
 
 I thank Brewbarry for his actions and remind him that a tavern is an unlikely place for violence. He seems unconvinced and says, “I like your confidence.” 
 
@@ -5603,7 +5603,7 @@ She looks at me, and I can see her consider it for a moment, but then the mask s
 
 # Chapter 19 Blood Money, Clean Gold, and Fine Wine
 
-## 19.01 08-03-Taraskh 1495
+## 19.01 08-03-Tarsakh 1495
 
 The party gathered at the tavern to discuss their recent encounter with Sister Kaella, an enemy who had offered to work with them against the Carver. Valphine explained that Kaella had provided information on how to find the Carver and offered them the reward she was going to give to Lokudus as a down payment for their cooperation. This revelation sparked immediate outrage from Vukradin, who adamantly refused to work with evil people or accept what he considered stolen goods. Despite Valphine’s attempts to explain the strategic value of having an enemy of their enemy as a temporary ally, Vukradin grew increasingly agitated, declaring he needed air and a cigarette before storming out of the tavern. Jenna Roscoe observed his departure and explained to the others that Vukradin was a man of principle who believed possessions belonged to their original owners, not to those who found them.
 
@@ -5613,7 +5613,7 @@ When Vukradin returned from his walk, Harbin quickly claimed that the temple fun
 
 The next morning, Vukradin spoke with Ser Kaelen about tracking down the rightful owners of the treasure they had found. Ser Kaelen explained that he was waiting for information from Neverwinter and should have answers in a few days. He suggested the party could check out Mountain’s Toe or deliver supplies to the Logger’s Camp while they waited. The party decided to take on the supply delivery quest, which Harbin had requested for his brother. At Barthen’s Provisions, they picked up two heavy crates filled with dried meats, cheese, bread, ale, and oil, all loaded onto a cart pulled by an ox named Vincent. When Brewbarry noticed there was no wine among the supplies, Barthen suggested they stop at the Falcon Hunting Lodge along the way, which was known for its fine wine.
 
-## 19.02 09-03-Taraskh 1495
+## 19.02 09-03-Tarsakh 1495
 
 After a peaceful two-day journey through Neverwinter Wood, the party arrived at the fortified Falcon Hunting Lodge. The compound was surrounded by a ten-foot-high log palisade and featured a two-story main building, a stone tower, stable house, and guest quarters. They rang the bell at the gate and were greeted by Corwin, who introduced himself as the chef and retainer. After seeing Barthen’s letter of introduction, Corwin welcomed them inside and fetched Falcon the Hunter, the lodge’s proprietor. Falcon was a man with impressive mutton chops who expressed great delight at having guests, especially friends of Barthen. He immediately offered them hospitality, including lodging, meals, and access to his fine wine cellar in exchange for musical entertainment from the party’s bard.
 
@@ -5631,7 +5631,7 @@ Before the evening ended, Falcon mentioned a potential quest involving the half-
 
 # Chapter 20 Falcon's Hoard and Hidden Truths 
 
-## 20.01 09-03-Taraskh 1495
+## 20.01 09-03-Tarsakh 1495
 
 The party undertook a detailed, covert mission when the bard Vukradin decided to uncover the truth about their host, Falcon the Hunter, concerning his claimed past as a dragonslayer and the source of his lodge's funding. The reconnaissance mission began late at night when Vukradin deliberately undertook the investigation alone, knowing his companions were deep in slumber: **Brewbarry was generating the lodge's most consistent nocturnal sound—a thunderous snoring that rattled the guest house timbers** , **Soma was safely ensconced and silent within her shell** , and **Valphine was merely bemused** (or perhaps pretending to be) in her state of sleep.
 
@@ -5647,7 +5647,7 @@ The outcome was a tactical success for the party. Vukradin secured permission to
 
 # Chapter 21 To the Logger’s Camp
 
-## 21.01 Vukradin 09-03-Taraskh 1495
+## 21.01 Vukradin 09-03-Tarsakh 1495
 
 The Falcon Hunter was a fraud and an artist. And a thief, I must never forget that he is a thief. He has a ring in his possession that belonged to someone. 
 
@@ -5671,7 +5671,7 @@ Soma looks at me and mutters, “You are wet-behind-the-shell Vukradin. The orc 
 
 Valphine turns to Brewbarry, “Orcs do make such fine slaves.” 
 
-## 21.02 Soma 09-03-Taraskh 1495
+## 21.02 Soma 09-03-Tarsakh 1495
 
 Leaving my clutch behind, I head out and transform into a bear to get a closer look. Hopefully, the orc won’t think I am a threat. 
 
@@ -5695,11 +5695,11 @@ I scream Coward, but it sounds more like “ROWARHHHH\!”
 
 From 10 feet out, he turns and fires an arrow into my flesh, and I feel the sting of pain.  
 
-## 21.03 Valphine 09-03-Taraskh 1495
+## 21.03 Valphine 09-03-Tarsakh 1495
 
 I advance. I pull out my crossbow. I fire an arrow. I miss. 
 
-## 21.04 Brewbarry 09-03-Taraskh 1495
+## 21.04 Brewbarry 09-03-Tarsakh 1495
 
 The first orc, who wears a necklace of bones,  moves towards me. I have seen such creatures in the north. They are not harmless, and they are dangerous. The first one throws a javelin at me. It lands in front of my feet, I pick it up and split in two, snarling. 
 
@@ -5716,7 +5716,7 @@ The orc with the necklace of bones screams, “You attack my brother’s nephew?
 I am pleased that this Orc Scout will not die thinking he was banished from his clan. If only my clan showed as much compassion as this Orc.   
 From where Soma is, I hear a roar and a crash. The bear has jumped from the branch onto the ground and shoved the scout next to the two orcs. 
 
-## 21.05 Valphine 09-03-Taraskh 1495
+## 21.05 Valphine 09-03-Tarsakh 1495
 
 Moonbeam. I abhor that light. It is but a pale imitation of the searing pain of Lathander. In fact, it doesn’t hurt at all. It is not sunlight. Even though Soma says it is. 
 
@@ -5730,7 +5730,7 @@ I smile, as an orc scout looks at me, in horror \- “A Drow who worships Lathan
 
 I think, “Run, little slave. Run.” 
 
-## 21.06 Vukradin 09-03-Taraskh 1495
+## 21.06 Vukradin 09-03-Tarsakh 1495
 
 I am curious to see what the orc I have not charmed will do. Will he attack one of us? Or will he attack the orc attacking his family member? 
 
@@ -5760,7 +5760,7 @@ And then I hear some branches break, and Brewbarry has finally become enraged.
 
 He has decided to protect Valphine. 
 
-## 21.07 Brewbarry 09-03-Taraskh 1495
+## 21.07 Brewbarry 09-03-Tarsakh 1495
 
 Enraged and enlarged, I swing my halberd in a 20’ arc, and scream, “You will not touch my wine.” 
 
@@ -5770,7 +5770,7 @@ Meanwhile, Soma has hit one of the orcs.
 
 And from the clearing, I can hear the scout stop running, turn, and fire his bow at Valphine. The scout misses. 
 
-## 21.08 Valphine 09-03-Taraskh 1495
+## 21.08 Valphine 09-03-Tarsakh 1495
 
 I load my crossbow bolt. I aim. I shoot. I miss. 
 
@@ -5816,7 +5816,7 @@ Vukradin asks, “What’s his name?”
 
 And Brewbarry snarls, “Shrimpy.”  
 
-## 21.09 Vukradin 09-03-Taraskh 1495
+## 21.09 Vukradin 09-03-Tarsakh 1495
 
 Just a little bit longer until I arrive at the Logger’s Camp and collect my conflict free reward. 
 
@@ -5828,7 +5828,7 @@ I want to scream. Nobody is here. Worse, a grim silence hangs over the camp.
 
 Brewbarry turns to me, “Don’t worry, Vukradin. We will find him.”  
 
-## 21.10 Valphine 09-03-Taraskh 1495
+## 21.10 Valphine 09-03-Tarsakh 1495
 
 The orc is tied up. And he will cost us supplies, worry, and care. If this were Menzoberranzan, I would sacrifice him to Lolth now. But Lathander disapproves of such sacrifice. 
 

@@ -4,7 +4,7 @@ title: 'Phandalin: Old Debts and New Suspicions.'
 ---
 # Chapter 12 Phandalin: Old Debts and New Suspicions. 
 
-## 12.01 Vukradin 07-02-Taraskh 1495 
+## 12.01 Vukradin 07-02-Tarsakh 1495 
 
 “I need to go back to Phandalin to take care of some unfinished business.” 
 
@@ -54,7 +54,7 @@ Valphine rolls her eyes, “When you put on the pin of the Order of the Gauntlet
 
 “And neither does she.” 
 
-## 12.02 Soma 08-02-Taraskh 1495
+## 12.02 Soma 08-02-Tarsakh 1495
 
 We arrive in Phandalin and stand in front of the Town Master’s house. The Shell Sprout is upset. As for me, I am here to guide him wherever he wants to go. And I know that this unrooted sprout will never grow the kind of roots he needs. 
 
@@ -108,7 +108,7 @@ Vukradin is annoyed, “Well maybe we won’t deal with the whispering woods.”
 
 I look at him and think echo-ignorer. 
 
-## 12.03 Valphine 08-02-Taraskh 1495
+## 12.03 Valphine 08-02-Tarsakh 1495
 
 After our bizarre exchange with Adabra, we head to the Lionshield Coster, where the proprietor Linene Graywind explains to Vukradin that, unfortunately, due to events that he can’t get into, the Lionshield Coster cannot offer the same rich services it used to provide. 
 
@@ -150,7 +150,7 @@ A warning if there ever was one. A warning that even Vukradin figures out.
 
 “Let’s go talk to Ser Kaelen.”
 
-## 12.04 Vukradin 08-02-Taraskh 1495
+## 12.04 Vukradin 08-02-Tarsakh 1495
 
 When we walk into the Stonehill Tavern, Ser Kaelen is delighted to see us. 
 
@@ -207,7 +207,7 @@ I stare at her.
 
 “Fine.” 
 
-## 12.05 Soma 08-02-Taraskh 1495
+## 12.05 Soma 08-02-Tarsakh 1495
 
 The shell-sprout is not done talking. 
 
@@ -274,7 +274,7 @@ Valphine mutters, “And please make sure to ask them about the secret code in t
 
 I look at her and realize she knows what I know, that Ser Kaelen can’t be trusted. 
 
-## 12.06 Valphine 09-02-Taraskh 1495
+## 12.06 Valphine 09-02-Tarsakh 1495
 
 And so we spend the next few hours playing music. At first, Vukradin plays alone. And when he stops, waiting to see if anyone will pay, two silver pieces are dropped at his table. He seems pleased. I ask if I can join him, and he says yes. 
 
@@ -321,6 +321,6 @@ Vukradin seems satisfied, but I am not.
 
 “Let’s go make Soma happy.” 
 
-## 12.07 Soma 09-02-Taraskh 1495
+## 12.07 Soma 09-02-Tarsakh 1495
 
 As we head out to the Whispering Grove, the staff that Meril gave me suddenly feels alive. Some magic inside it was unlocked.

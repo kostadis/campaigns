@@ -233,6 +233,7 @@ The light held us all a moment longer. None of us argued. There was nothing left
 
 ## Vukradin — Return to Falcon's Lodge
 
+<!-- INFERRED DATE: 27-03-Tarsakh 1495 -->
 The lodge looked different in daylight, different in the way a battlefield looks once the bodies are gone and someone has swept. We came back the day after, and the orcs had not merely survived their reassignment; they had embraced it. Three of them stood near the entrance in proper livery, brushed and buttoned, and Falcon had pinned something to each of them. Employees of the year, he called them. I have seen a great many strange things since I picked up an instrument, but an orc wearing a sash with genuine pride is one I will keep.
 
 Soma, beside me, folded herself down out of whatever shape she'd been wearing and went back to being a turtle. She does that the way other people loosen a collar.
@@ -311,6 +312,7 @@ The path the orcs led us along was the one that did not pass beneath the stone g
 
 "Oh, dear," Soma said, which is what she says when the world has finished arranging itself against us and there is nothing left to do but walk through it.
 
+<!-- INFERRED DATE: 29-03-Tarsakh 1495 -->
 I did not mind. Two days of singing and meat and blood is not a punishment to me; it is a liturgy. Vukradin understood at least the first half of it. "There will be songs, there will be eating," he announced, conducting our future with one hand.
 
 "There'll be blood," Soma added.

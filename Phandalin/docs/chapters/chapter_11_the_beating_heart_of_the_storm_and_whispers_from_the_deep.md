@@ -4,11 +4,11 @@ title: The Beating Heart of the Storm and Whispers from the Deep
 ---
 # Chapter 11 The Beating Heart of the Storm and Whispers from the Deep
 
-## 11.01 Soma 07-02-Taraskh 1495
+## 11.01 Soma 07-02-Tarsakh 1495
 
 The salty tang of the sea still clung to our gear as we descended deeper into the Tower of Storms, leaving the broken sirens and the eerie calm of the upper levels behind us. Moesko, the dark cleric, lay defeated, but there was still a sense of unease that settled over us.
 
-## 11.02 Soma 07-02-Taraskh 1495
+## 11.02 Soma 07-02-Tarsakh 1495
 
 My eyes scanned Moesko’s lifeless form. He had been a formidable foe, but now he was just a collection of secrets waiting to be uncovered. There was a strange hole in his chest, a peculiar detail that reminded me of some macabre tale, perhaps from a fever dream or a whispered legend. My gaze then fell upon an opalescent conch resting nearby, its subtle shimmer hinting at its significance. This, I knew, was what Miral sought.
 
@@ -26,7 +26,7 @@ After the struggle, I realized the waterlogged timber from the wrecks was unsuit
 
 When Miraal appeared to claim her conch, it was quick, almost too quick. "We didn't die\! Yeah, and check out this cool cloak we found\! You know who owns it?" I asked the giant crab, proud of our finds. He then pointed to the halberd, claiming it as the treasure he was going to get for us. It was a bit rich, but I'm not one to look a gift crab in the mouth. Later, as we shared the cooked shark meat, I reflected on the day. I might not be a purist, but I was definitely a survivor, and I had quite the story (and a shark tooth necklace, soon enough) to show for it.
 
-## 11.03 Vukradin 07-02-Taraskh 1495
+## 11.03 Vukradin 07-02-Tarsakh 1495
 
 The grim truth of Moesko's defeated form settled heavily upon me. I believe, fundamentally, in the sanctity of earned possessions. All this treasure feels like stolen merchandise, and I’m determined to find its rightful owners. I am a musician, after all, not a common thief, and I just wanna make a music studio, and I want to do it without stealing something\! My companions, especially Soma, seem less bothered by such ethical quandaries, but to me, the integrity of our actions is paramount.
 
@@ -48,7 +48,7 @@ Miral, the sea elf's ghost, finally manifested as we presented her conch. "Thank
 
 The giant crab appeared, offering his gratitude for the sharks we'd dispatched. He then noticed Brewbarry's new halberd. "My, yes, you did in fact find the treasure I was going to get for you," he said. "What the hell is that?" I exclaimed, turning to Brewbarry. "He just said it was a treasure that he was gonna go get for you. Where'd you get it?" I tried to persuade him: "What are you doing? You can't use that." It was frustrating, but Brewbarry, as ever, seemed unmoved. I also noted that the shark meat we had was lawfully earned, which allowed us to enjoy it. The magical cloak Soma tried to foist on me, even though it was fashionable and changed colors, I politely but firmly refused. It was not mine to take, no matter how much it tempted me.
 
-## 11.04 Valphine 07-02-Taraskh 1495
+## 11.04 Valphine 07-02-Tarsakh 1495
 
 Moesko was dead. A moderately successful priestess of Lolth in my former life, I had a keen eye for power dynamics and intrigue, even if my sisters thought me soft for lacking their glee in mayhem. Here, among these surface dwellers, the concept of "loot splitting" was still a subject of contention. "The way I look at it is the party is going to have a four-way treasure split three ways most of the time," I observed, an internal calculation honed by years of drow politics. Personally, I am not a loot whore or a gold digger; I’m just a simple pleasure kind of gal, so the squabbling over gold was amusing, if a bit tiresome.
 

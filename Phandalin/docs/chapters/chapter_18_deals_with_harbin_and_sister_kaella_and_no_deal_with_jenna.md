@@ -4,7 +4,7 @@ title: Deals with Harbin, and Sister Kaella, and no deal with Jenna
 ---
 # Chapter 18 Deals with Harbin, and Sister Kaella, and no deal with Jenna
 
-## 18.01 Vukradin 07-03-Taraskh 1495
+## 18.01 Vukradin 07-03-Tarsakh 1495
 
 Harbin’s accusations are too much. He has crossed the line. 
 
@@ -104,7 +104,7 @@ I am tempted to just seize the job of Townmaster for myself, and Ser Kaelen can 
 
 For a moment, the nobility of the revolution calls, but then I realize that compromise is also noble. 
 
-## 18.02 Valphine 07-03-Taraskh 1495
+## 18.02 Valphine 07-03-Tarsakh 1495
 
 It’s been a long day, waiting for the sun to settle. While Vukradin, Soma, and Brewbarry went into town, I had a different plan. I would stay outside of town with Corbin and Locutus. 
 
@@ -178,7 +178,7 @@ She smiles, as if she knows something, a secret we share, and then tosses a bag 
 
 And before I can react, she disappears. 
 
-## 18.03 Brewbarry 07-03-Taraskh 1495
+## 18.03 Brewbarry 07-03-Tarsakh 1495
 
 The tavern is a happening place. And the beer tastes good, but the woman who smirked on the green during the dragon attack is still smirking and staring at Vukradin.
 
@@ -251,7 +251,7 @@ Vukradin is doubtful at first, but when he hears that he wrote the mysterious le
 
 Before he reaches the table, I tell him that I disarmed her. 
 
-## 18.04 Vukradin 07-03-Taraskh 1495
+## 18.04 Vukradin 07-03-Tarsakh 1495
 
 I thank Brewbarry for his actions and remind him that a tavern is an unlikely place for violence. He seems unconvinced and says, “I like your confidence.” 
 

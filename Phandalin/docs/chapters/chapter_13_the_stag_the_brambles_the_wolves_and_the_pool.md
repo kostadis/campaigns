@@ -4,7 +4,7 @@ title: The stag, the brambles, the wolves, and the pool.
 ---
 # Chapter 13 The stag, the brambles, the wolves, and the pool.  
 
-## 13.01 Soma 10-02-Taraskh 1495
+## 13.01 Soma 10-02-Tarsakh 1495
 
 There are no signs of rotting trees or obvious blight in the Whispering Wood. And yet, I can feel something is different about this place. 
 
@@ -30,7 +30,7 @@ Then, with an abrupt change of subject, the stag asks if we have "anything to ea
 
 With this new lead, we decide to head towards the center of the forest. As I lead the group, I keep thinking about the stag. Something unnatural festers here.
 
-## 13.02 Valphine10-02-Taraskh 1495
+## 13.02 Valphine10-02-Tarsakh 1495
 
 My drow senses, accustomed to the subtle currents of intrigue and the raw, often terrifying, distortions of the Underdark, hummed with an uncomfortable awareness. Soma seemed unconcerned. I felt at home. 
 
@@ -48,7 +48,7 @@ Soma transforms into a bear and strikes the bushes. Vukradin follows with a biti
 
 And then the bramble stops moving. Brewbarry and the Bear have rendered it inert. We move through it before it can reanimate. 
 
-## 13.03 Vukradin 10-02-Taraskh 1495
+## 13.03 Vukradin 10-02-Tarsakh 1495
 
 We faced some wolves. They had an unnatural howl that rooted me to the spot. And their eyes glowed. Others may say it is fear. I say it was magic. The creatures were quickly defeated, and then we took their pelts. 
 

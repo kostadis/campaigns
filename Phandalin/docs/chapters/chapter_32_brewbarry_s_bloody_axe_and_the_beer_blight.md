@@ -50,6 +50,7 @@ Date: Feb 18th, 2026
 * Vukradin votes to go to Neverwinter to see Elara ‘Seasong’ Meliamne and unlock some of their loot.  
 * Brewbarry believes the dragon is a worthy challenge and anything else is beneath them.  
 * The party decides to visit Dragonbarrow to obtain the dragon slayer sword, which is on the way to Neverwinter.  
+<!-- INFERRED DATE: 22-03-Tarsakh 1495 -->
 * They take a long rest in the mine, now protected by the wererats and worked by the dwarves.  
 * Horia and the wererats shake hands on their agreement, with contracts exchanged.  
 * The dwarves look at the wererats' modifications with skepticism, while the wererats view the dwarves as suckers.  

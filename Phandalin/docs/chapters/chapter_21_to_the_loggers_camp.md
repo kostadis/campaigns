@@ -4,7 +4,7 @@ title: To the Logger’s Camp
 ---
 # Chapter 21 To the Logger’s Camp
 
-## 21.01 Vukradin 09-03-Taraskh 1495
+## 21.01 Vukradin 09-03-Tarsakh 1495
 
 The Falcon Hunter was a fraud and an artist. And a thief, I must never forget that he is a thief. He has a ring in his possession that belonged to someone. 
 
@@ -28,7 +28,7 @@ Soma looks at me and mutters, “You are wet-behind-the-shell Vukradin. The orc 
 
 Valphine turns to Brewbarry, “Orcs do make such fine slaves.” 
 
-## 21.02 Soma 09-03-Taraskh 1495
+## 21.02 Soma 09-03-Tarsakh 1495
 
 Leaving my clutch behind, I head out and transform into a bear to get a closer look. Hopefully, the orc won’t think I am a threat. 
 
@@ -52,11 +52,11 @@ I scream Coward, but it sounds more like “ROWARHHHH\!”
 
 From 10 feet out, he turns and fires an arrow into my flesh, and I feel the sting of pain.  
 
-## 21.03 Valphine 09-03-Taraskh 1495
+## 21.03 Valphine 09-03-Tarsakh 1495
 
 I advance. I pull out my crossbow. I fire an arrow. I miss. 
 
-## 21.04 Brewbarry 09-03-Taraskh 1495
+## 21.04 Brewbarry 09-03-Tarsakh 1495
 
 The first orc, who wears a necklace of bones,  moves towards me. I have seen such creatures in the north. They are not harmless, and they are dangerous. The first one throws a javelin at me. It lands in front of my feet, I pick it up and split in two, snarling. 
 
@@ -73,7 +73,7 @@ The orc with the necklace of bones screams, “You attack my brother’s nephew?
 I am pleased that this Orc Scout will not die thinking he was banished from his clan. If only my clan showed as much compassion as this Orc.   
 From where Soma is, I hear a roar and a crash. The bear has jumped from the branch onto the ground and shoved the scout next to the two orcs. 
 
-## 21.05 Valphine 09-03-Taraskh 1495
+## 21.05 Valphine 09-03-Tarsakh 1495
 
 Moonbeam. I abhor that light. It is but a pale imitation of the searing pain of Lathander. In fact, it doesn’t hurt at all. It is not sunlight. Even though Soma says it is. 
 
@@ -87,7 +87,7 @@ I smile, as an orc scout looks at me, in horror \- “A Drow who worships Lathan
 
 I think, “Run, little slave. Run.” 
 
-## 21.06 Vukradin 09-03-Taraskh 1495
+## 21.06 Vukradin 09-03-Tarsakh 1495
 
 I am curious to see what the orc I have not charmed will do. Will he attack one of us? Or will he attack the orc attacking his family member? 
 
@@ -117,7 +117,7 @@ And then I hear some branches break, and Brewbarry has finally become enraged.
 
 He has decided to protect Valphine. 
 
-## 21.07 Brewbarry 09-03-Taraskh 1495
+## 21.07 Brewbarry 09-03-Tarsakh 1495
 
 Enraged and enlarged, I swing my halberd in a 20’ arc, and scream, “You will not touch my wine.” 
 
@@ -127,7 +127,7 @@ Meanwhile, Soma has hit one of the orcs.
 
 And from the clearing, I can hear the scout stop running, turn, and fire his bow at Valphine. The scout misses. 
 
-## 21.08 Valphine 09-03-Taraskh 1495
+## 21.08 Valphine 09-03-Tarsakh 1495
 
 I load my crossbow bolt. I aim. I shoot. I miss. 
 
@@ -173,7 +173,7 @@ Vukradin asks, “What’s his name?”
 
 And Brewbarry snarls, “Shrimpy.”  
 
-## 21.09 Vukradin 09-03-Taraskh 1495
+## 21.09 Vukradin 09-03-Tarsakh 1495
 
 Just a little bit longer until I arrive at the Logger’s Camp and collect my conflict free reward. 
 
@@ -185,7 +185,7 @@ I want to scream. Nobody is here. Worse, a grim silence hangs over the camp.
 
 Brewbarry turns to me, “Don’t worry, Vukradin. We will find him.”  
 
-## 21.10 Valphine 09-03-Taraskh 1495
+## 21.10 Valphine 09-03-Tarsakh 1495
 
 The orc is tied up. And he will cost us supplies, worry, and care. If this were Menzoberranzan, I would sacrifice him to Lolth now. But Lathander disapproves of such sacrifice. 
 
