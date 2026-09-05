@@ -6,104 +6,112 @@ scene_name: The Battle of the Harpies Continues
 session: 20250812-chapter-08
 ---
 
-Vukradin steps out of his own silence.
+Vukradin stands inside the Silence. His mouth moves. Nothing comes out.
 
-That is brave. It is also bad. The harpy’s song catches him at once. I see it in his face. His eyes lose the wall for a breath.
+Then he touches his chest and points to himself. Magic gathers around him. His own music, held close.
 
-Then he grips his music inside himself. The weakness turns. He holds.
+He looks at the open stone beyond the Silence.
 
-Magic strikes the singing harpy. It jerks in the air, and its song breaks.
+"And I will take the chance, because I don't want this combat to go on forever."
 
-“I’m having a good combat.”
+He runs out.
 
-He is.
+The harpy's song catches him at once. I see it in his step. His foot drags toward the singer. His face goes soft.
 
-Soma clings to the stone in spider form. Four legs lift toward him. Spider applause. Vukradin understands.
+Then the magic he gave himself bites.
 
-The other harpy begins to sing.
+Vukradin stops. Shakes his head. Finds himself again.
 
-Soma moves along the wall. Down, across, then under the creature. Stone means little to all those legs. The song reaches her, but she keeps moving. She has heard Vukradin. The harpy cannot compete.
+He strikes the singer with magic. The spell lands. The harpy jerks in the air, and its song breaks.
 
-Her fangs catch the creature. It recoils, but the song continues.
+"Wow. I'm having a good combat."
 
-I need to reach it.
+Good. Vukradin is still Vukradin.
 
-The battlement is rough stone. Easy to climb. It only costs time. I put my hands against it and pull myself upward. My boots scrape for holds. My weapons feel heavy.
+Soma climbs past us in spider form. Legs catch stone where my boots would slip. She goes around the wall and comes up beneath the next harpy.
 
-I have missed with everything tonight. The axes leave my hand and find air. My arms know what to do. The fight refuses to agree.
+That one starts singing.
 
-And yet, I climb.
+The sound presses into me even through the clash of wings and claws. Sweet. Empty. It promises that walking toward it will make everything easy.
 
-The song finds me at the top.
+Soma does not slow. She has heard Vukradin.
 
-It does not sound beautiful. Beauty is not the problem. The note presses behind my eyes and pulls. My fingers loosen on the stone. My anger goes quiet.
+The spider climbs higher and bites. The harpy screams, but the song continues. Soma clings to the wall outside the Silence. The singer cannot pull her in again.
 
-The harpy is all that matters.
+I need to reach them.
 
-I need to move toward it. I cannot. The wall and the others block the path. So I stand there.
+The battlement is rough stone. Easy enough. It only takes longer because I need both hands.
 
-I cannot swing.
+I put away my weapon and climb.
 
-I cannot throw.
+My fingers dig into the cracks. My boots push. The rage keeps me large and hot. The harpies are above me. Soma is fighting one alone.
 
-I cannot protect Vukradin.
+Then the song finds me.
 
-That is the worst part.
+Everything stops.
 
-I try to shake the song loose. I push against it until my teeth hurt. Nothing moves. The harpy sings, and my body stays useless.
+The stone is still under my hands. My arms still hold my weight. But those things no longer matter. The harpy matters. I need to go to it.
 
-The rage waits for me to strike something. I do not. It waits for something to strike me. Nothing does.
+I cannot.
 
-Then it leaves.
+It hangs beyond the battlement. Air between us.
 
-The heat drains from my arms. My shoulders shrink back into themselves. My reach shortens. I am only standing on a battlement, charmed by an ugly bird, while my friends fight.
+My body strains forward. My hand will not reach for a weapon. My legs will not carry me through open sky. I can only cling to the wall and stare.
 
-My rage consumes me.
+My rage consumes me. And yet, it has nowhere to go.
 
-And yet, there is no rage.
+I try to tear my mind free. I know the song is wrong. I know Vukradin needs me. I know Soma is beside the creature.
 
-The singing harpy claws at Soma. Its hand stops short of the spider’s body. The talons close on empty air. It tries again, but Soma shifts along the wall and the creature flinches from all those legs.
+The knowing does nothing.
 
-Fear. I know fear when I see it.
+The song stays.
 
-The harpy fears Soma.
+Heat leaves my muscles. My reach shrinks. The rage dies because I have not struck anything, and nothing has struck me.
 
-I would enjoy that more if I could move.
+That hurts worse than a claw.
 
-Valphine raises her crossbow. The wounded harpy is still reeling from Vukradin’s magic. The bolt strikes. The creature drops.
+I have swung at air all night. My axes have missed. My hands have missed. Now even my anger misses.
+
+The harpy swoops at Soma. It raises its claws, sees the spider beneath it, and pulls the blow short. The claws scrape stone instead. Soma shifts sideways and snaps at it. Her fangs close on air.
+
+They stay there, missing each other.
+
+Valphine does not miss.
+
+Her crossbow cracks. The bolt catches the wounded harpy Vukradin struck. It drops from the air and hits the rock.
 
 One dead.
 
-The others do not flee. They dive and climb, claws flashing, wings carrying them beyond our weapons before we can answer. They know the distance. They keep using it.
+The others keep moving. Down to strike. Up before we can answer. Wings beat grit into my face. I remain fixed to the wall, pulled toward a singer I cannot reach.
 
-The remaining harpy tears into Vukradin.
+The third harpy dives at Vukradin.
 
-He folds around the blow. His hand clamps over the wound. He nearly falls, but the silence remains. I cannot hear the claws. I cannot hear his breath. I cannot hear his music.
+Its claws hit him hard. He folds around the blow and nearly goes down. Nearly.
 
-The silence protects us from the songs.
+The Silence holds.
 
-It also lets me watch him suffer without hearing it.
+Vukradin looks thin on his feet. His shoulders sag. Blood darkens his clothes beneath the claw marks. There is almost nothing left in him, but his face tightens and the empty air remains empty.
 
-His face tightens. He holds the spell.
+He attacks. Misses.
 
-Another pass leaves him swaying. There is almost nothing left in him. He still keeps the silence around us.
+He attacks again. Misses again.
 
-His mouth moves.
+His mouth moves inside the Silence.
 
-“I’m not feeling so well here, guys.”
+"Yeah, I'm not feeling so well here, guys."
 
-I understand him.
+I cannot hear him. I know the words from his lips.
 
-Soma stays locked beneath the singing harpy. She cannot reach Vukradin without giving the creature room. Valphine keeps her crossbow raised. Vukradin tries to strike back and misses.
+I pull against the song again. Nothing.
 
-I stand close enough to help.
+Soma keeps the other harpy busy against the wall. She turns her head toward Vukradin, then back to the claws in front of her.
 
-I do nothing.
+"I mean, I'd like to come protect you, but I also have to help the other guy up here."
 
-The song pulls at me again. I push back. My mind slips. The harpy remains in my head.
+The harpies circle.
 
-Vukradin is hurt. My rage is gone. My axes have found nothing.
+Vukradin stands.
 
-My hands hang empty.
+I cling to the battlement without rage, without an axe in my hand, and without enough strength in my own mind to take one step away from the song.
 
-<!-- table-speech reclassified: "Is Brewbarry's option here to scale the wall?" -->
+<!-- table-speech reclassified: "Is Brewbarry's option here to scale the wall?" | "That's for the silence. We are still silenced. All right. Vukradin with three hit points and silence concentration. And it's facing a harpy." -->

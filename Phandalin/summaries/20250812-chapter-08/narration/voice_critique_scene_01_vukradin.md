@@ -1,0 +1,24 @@
+# Voice Critique — Vukradin, scene 01: Silence at the Tower of Storms
+
+**Narration:** `session_doc_scene_01_silence_at_the_tower_of_storms.md`
+**Input shape:** per-scene
+
+> Doc-level budgets are evaluated across the whole document and live in
+> `voice_critique_summary.md`. This per-scene report cannot assess them.
+
+## Inputs resolved
+
+| Voice spec | `voice/vukradin_new_pipeline.md` | declared in `config/party.yaml`, exact-name match |
+|---|---|---|
+| Examples | `examples/vukradin.md` | declared |
+| Genre rulebook | `voice/_genre.md` | resolved |
+| `voice_lint` | ran, 0 errors / 0 warns | `extra_tics` dropped — run by hand, 0 hits |
+
+## Flags
+
+**None.** No sentence in this scene breached a rule that resolved, and no
+orphan quote run was detected. A zero-flag scene is a legitimate result.
+
+## Verdict
+
+Clean. Nothing to act on in this scene.
