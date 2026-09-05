@@ -1,0 +1,89 @@
+paths:
+  session_recap: gm-assist.md
+  session_summary: session-summary.md
+  scene_extractions_dir: scene_extractions
+  narration_dir: narration
+  output_dir: null
+  party: docs/party.md
+  voice_dir: voice
+  examples_dir: examples
+  genre_file: voice/_genre.md
+extract:
+  tokens: 32000
+  batch_scenes: null
+  batch_tokens: 32000
+narrate:
+  tokens: 32000
+  prose_mode: true
+  reflections: true
+  context: []
+verify:
+  threshold: 0.85
+  min_tokens: 4
+  report_only: false
+backends:
+  active: codex-cli
+  anthropic:
+    backend: anthropic
+    model: null
+    batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
+    endpoint: null
+  claude-code:
+    backend: anthropic
+    model: null
+    batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: medium
+    claude_code_thinking: false
+    endpoint: null
+  dgx:
+    backend: anthropic
+    model: deepseek-ai/DeepSeek-V4-Flash-0731
+    batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
+    endpoint: http://100.91.185.106:8001/v1
+  openrouter:
+    backend: anthropic
+    model: null
+    batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
+    endpoint: null
+  codex-cli:
+    backend: anthropic
+    model: gpt-5.6-sol
+    batch: null
+    codex_reasoning_effort: medium
+    claude_code_effort: null
+    claude_code_thinking: null
+    endpoint: null
+session_name: null
+profiles:
+- name: Phandalin
+  knobs:
+    narrate_tokens: 32000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: /home/kroussos/Phandalin/Phandalin/voice/_genre.md
+    backend: claude-code
+- name: '20260825'
+  knobs:
+    narrate_tokens: 32000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: /home/kroussos/Phandalin/Phandalin/voice/_genre.md
+    backend: claude-code
+- name: '20250514'
+  knobs:
+    narrate_tokens: 32000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: voice/_genre.md
+    backend: claude-code
+active_profile: '20250514'

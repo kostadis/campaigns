@@ -1,0 +1,32 @@
+{
+  "campaigngenerator": "80421ec23ee663d77b8eb52cbcbc98f58d2703ab",
+  "mytools": "8801387bb00edecc6b3d08ae8d18df01cd132dc3",
+  "campaign": "Phandalin",
+  "source_session": "20260825",
+  "pilot_dir": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot",
+  "capture_run": "0f1b329864814609a8768b9f31e4d972",
+  "dry_run_unchanged": true,
+  "historical_approval_imported": false,
+  "clean_audit_did_not_approve": true,
+  "invalid_narrator_refused": true,
+  "generation": {
+    "backend": "none",
+    "model": "none",
+    "producer": "deterministic-pilot-inventory",
+    "usage": {
+      "model_calls": 0
+    }
+  },
+  "rulebook_status": "present",
+  "source_bytes_unchanged": true,
+  "unknown_player_labels": [],
+  "required_next_action": "Explicit human approval of capture-review.md, followed by native identity work; later production gates remain pending.",
+  "campaigngenerator_verified": "36041d9b0bb81fca01bf5fe8bfc2c3270ed7e543",
+  "verified_at": "2026-09-05T16:46:43.827081+00:00",
+  "manual_handoffs_pending": 1,
+  "review_page_regenerations": 0,
+  "repeated_questions": 0,
+  "rendered_scenes": 0,
+  "model_token_usage": null,
+  "measurement_scope": "capture and gate validation only; production/backend comparisons await human review"
+}

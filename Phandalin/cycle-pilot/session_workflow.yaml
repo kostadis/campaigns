@@ -1,0 +1,198 @@
+schema_version: 1
+session_id: cycle-pilot
+config: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/config.yaml
+revision: 4
+runs:
+- id: 0f1b329864814609a8768b9f31e4d972
+  stage: capture
+  selection:
+  - sources/GMT20260826-035950_Recording.transcript.vtt
+  inputs:
+  - path: sources/GMT20260826-035950_Recording.transcript.vtt
+    sha256: 381648f3eea070a537e18230262f44296b5d4b9e16c6e841e590bcbc1c2ca1c0
+    snapshot: .session-workflow/objects/381648f3eea070a537e18230262f44296b5d4b9e16c6e841e590bcbc1c2ca1c0
+    label: source
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/config.yaml
+    sha256: d6c9bf910700560083577dd079f6d6e1cbc153c11144198e5154c57ed71bd972
+    snapshot: .session-workflow/objects/d6c9bf910700560083577dd079f6d6e1cbc153c11144198e5154c57ed71bd972
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/party.yaml
+    sha256: 0c80629b963be3f57c42c11c9ceee10e2a8fd80c8ff57717539b7ff4dc50d891
+    snapshot: .session-workflow/objects/0c80629b963be3f57c42c11c9ceee10e2a8fd80c8ff57717539b7ff4dc50d891
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/players.yaml
+    sha256: 6db574fc53fa1622853bc1877a105a5982327eee9469d0b95e8e04de0b196c28
+    snapshot: .session-workflow/objects/6db574fc53fa1622853bc1877a105a5982327eee9469d0b95e8e04de0b196c28
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/brewbarry_new_pipeline.md
+    sha256: 43625f00e2b3588536dce2aed40b2f195ac8ce37fb8942ebaa06bb92f71e44d9
+    snapshot: .session-workflow/objects/43625f00e2b3588536dce2aed40b2f195ac8ce37fb8942ebaa06bb92f71e44d9
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/examples/brewbarry.md
+    sha256: 9a6aeecbc074e2f319b64fd9fb7781b88327555a7e77457a8e853371f82dc9c3
+    snapshot: .session-workflow/objects/9a6aeecbc074e2f319b64fd9fb7781b88327555a7e77457a8e853371f82dc9c3
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party/Brewbarry.md
+    sha256: 36d59687ec6c27d08a599c7cc399fbcabcc9021faceb526c93b226a065aa4964
+    snapshot: .session-workflow/objects/36d59687ec6c27d08a599c7cc399fbcabcc9021faceb526c93b226a065aa4964
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/valphine_new_pipeline.md
+    sha256: 80e131b039b2c40afcaaef34568eeb655db850f057b93e4a03aa60dc85460017
+    snapshot: .session-workflow/objects/80e131b039b2c40afcaaef34568eeb655db850f057b93e4a03aa60dc85460017
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/examples/valphine.md
+    sha256: a4dd265ea94efb1281873177e9941ff4f0f12c2cc75eb10982969cce5a75ee45
+    snapshot: .session-workflow/objects/a4dd265ea94efb1281873177e9941ff4f0f12c2cc75eb10982969cce5a75ee45
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party/Valphine
+      Sotorra.md
+    sha256: 92b7ca8a49adb950241ae144ce37c2673cba477a506faa26b699aed6f5908995
+    snapshot: .session-workflow/objects/92b7ca8a49adb950241ae144ce37c2673cba477a506faa26b699aed6f5908995
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/soma_new_pipeline.md
+    sha256: a1e45a11c71bc6e6d3e480c08ab6d3571f2dc2c2e03e7564cc876d54efdde40c
+    snapshot: .session-workflow/objects/a1e45a11c71bc6e6d3e480c08ab6d3571f2dc2c2e03e7564cc876d54efdde40c
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/examples/soma.md
+    sha256: adc71f8ca88acc3b453926036864b83cd3d49f9e9e71522f1430d2ade8b9df9b
+    snapshot: .session-workflow/objects/adc71f8ca88acc3b453926036864b83cd3d49f9e9e71522f1430d2ade8b9df9b
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party/Soma.md
+    sha256: 97c7244598047358fe13e4eb624d5d7a99f2e4778613b95e0aa382c9b9dd51b5
+    snapshot: .session-workflow/objects/97c7244598047358fe13e4eb624d5d7a99f2e4778613b95e0aa382c9b9dd51b5
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/vukradin_new_pipeline.md
+    sha256: 2f17508947a605a0fd68409cc7522ade17e3ca0dbf7d764b9068e8ffa05bf59a
+    snapshot: .session-workflow/objects/2f17508947a605a0fd68409cc7522ade17e3ca0dbf7d764b9068e8ffa05bf59a
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/examples/vukradin.md
+    sha256: 1d10b874779646614f4a1d28c47dbdd986fa6ee958ed6f2e23d8778d826f8315
+    snapshot: .session-workflow/objects/1d10b874779646614f4a1d28c47dbdd986fa6ee958ed6f2e23d8778d826f8315
+    label: configuration
+  - path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party/Vukradin.md
+    sha256: cec83daa48d73be0a1f412bb1f78b0efcb698e4953682b5797bc879abf5c7e48
+    snapshot: .session-workflow/objects/cec83daa48d73be0a1f412bb1f78b0efcb698e4953682b5797bc879abf5c7e48
+    label: configuration
+  dependencies: []
+  required_checks:
+  - capture-integrity
+  generation:
+    backend: none
+    model: none
+    effort: null
+    producer: deterministic-pilot-inventory
+    command: []
+    usage:
+      model_calls: 0
+  outputs:
+  - path: capture-review.md
+    sha256: 797c5c2a9e68bfc98b922f6f2969ddf681d2f34e520ccb79adb5b231ce17e6d4
+    snapshot: .session-workflow/objects/797c5c2a9e68bfc98b922f6f2969ddf681d2f34e520ccb79adb5b231ce17e6d4
+    label: generated
+  status: generated
+  checks:
+  - name: capture-integrity
+    status: complete
+    sources:
+    - path: capture-review.md
+      sha256: 797c5c2a9e68bfc98b922f6f2969ddf681d2f34e520ccb79adb5b231ce17e6d4
+      snapshot: .session-workflow/objects/797c5c2a9e68bfc98b922f6f2969ddf681d2f34e520ccb79adb5b231ce17e6d4
+      label: generated
+    findings: []
+    producer: deterministic SHA-256 / duplicate cue inventory
+    at: '2026-09-05T16:25:19.107994+00:00'
+  decisions: []
+  approval: null
+  started_at: '2026-09-05T16:25:18.977334+00:00'
+  completed_at: '2026-09-05T16:25:19.077560+00:00'
+  failure: null
+  task:
+    decision: Confirm captured source and session identity
+    skills:
+    - audio-to-vtt
+    options: {}
+    context:
+      paths:
+        party-config: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/party.yaml
+        players-config: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/players.yaml
+      characters:
+      - Brewbarry
+      - Valphine Sotorra
+      - Soma
+      - Vukradin
+      players:
+      - id: stphane
+        name: "St\xE9phane Bourdeaud"
+        display_names:
+        - "St\xE9phane Bourdeaud"
+        plays:
+        - Brewbarry
+        gm: false
+        active: true
+        dndbeyond_id: null
+      - id: gary
+        name: Gary Young
+        display_names:
+        - Gary Young
+        plays:
+        - Valphine Sotorra
+        gm: false
+        active: true
+        dndbeyond_id: null
+      - id: wade
+        name: Wade Brown
+        display_names:
+        - Wade Brown
+        plays:
+        - Soma
+        gm: false
+        active: true
+        dndbeyond_id: null
+      - id: david
+        name: David Mendenhall
+        display_names:
+        - David Mendenhall
+        plays:
+        - Vukradin
+        gm: false
+        active: true
+        dndbeyond_id: null
+      - id: kostadis
+        name: Kostadis Roussos
+        display_names:
+        - Kostadis Roussos
+        plays: []
+        gm: true
+        active: true
+        dndbeyond_id: null
+      warnings: []
+    output_dir: .session-workflow/work/0f1b329864814609a8768b9f31e4d972/outputs
+    source_policy: Original transcripts and captured extractions remain verbatim;
+      corrections and smoothing are derived. Preserve new facts, discoveries, level
+      changes, in-world magic, genuine dialogue and actual outcomes.
+applications: []
+selected_versions: {}
+notes_selected: []
+chapters_selected: []
+events:
+- operation: migration
+  at: '2026-09-05T16:25:18.807536+00:00'
+  historical_evidence:
+  - path: sources/GMT20260826-035950_Recording.transcript.vtt
+    sha256: 381648f3eea070a537e18230262f44296b5d4b9e16c6e841e590bcbc1c2ca1c0
+    snapshot: .session-workflow/objects/381648f3eea070a537e18230262f44296b5d4b9e16c6e841e590bcbc1c2ca1c0
+    label: source
+  - path: sources/consistency_report_stage1_enhanced.md
+    sha256: 4aa4ed2880df845fe68aa6268ed249446aa7f359d2fe24ec3ca87649f3106c40
+    snapshot: .session-workflow/objects/4aa4ed2880df845fe68aa6268ed249446aa7f359d2fe24ec3ca87649f3106c40
+    label: source
+  approval_imported: false
+- operation: start
+  at: '2026-09-05T16:25:18.977393+00:00'
+  revision: 2
+- operation: submit
+  at: '2026-09-05T16:25:19.077577+00:00'
+  revision: 3
+- operation: check
+  at: '2026-09-05T16:25:19.119548+00:00'
+  revision: 4
