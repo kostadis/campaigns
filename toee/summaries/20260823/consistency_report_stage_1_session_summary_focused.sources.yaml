@@ -1,0 +1,90 @@
+consistency_check:
+  timestamp: "2026-08-29T13:10:27-07:00"
+  campaign: "/home/kroussos/toee/toee"
+  document_checked: "summaries/20260823/session-summary.md"
+  document_class: "enhanced recap"
+  report: "summaries/20260823/consistency_report_stage_1_session_summary_focused.md"
+  config: "/home/kroussos/toee/toee/summaries/20260823/consistency_config_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 12
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-23"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PCs" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "session-specific adjudicated additions" }
+      - { path: notes/sessions/nobody-told-nulb.md, role: "exact session prep" }
+      - { path: notes/sessions/the-sleeping-prince.md, role: "next-arc session prep" }
+      - { path: notes/nulb_allies.md, role: "Nulb allies and identities" }
+      - { path: notes/nulb_network.md, role: "Nulb operational context" }
+      - { path: notes/falrinth_strategy.md, role: "Falrinth strategy and contact canon" }
+      - { path: notes/upper_temple_network.md, role: "upper-temple faction state" }
+      - { path: notes/phase3_endgame.md, role: "phase-three campaign plan" }
+      - { path: notes/tzgy_scarab_urgent.md, role: "scarab and Falrinth context" }
+      - { path: summaries/20260823/gm-assist.md, role: "corrected source recap" }
+  notes: |
+    The run used the existing absolute-path config and loaded 15 context
+    documents. The saved report contains twelve findings.
+
+    Applied before batch review as unambiguous mechanical corrections: Zinnia's
+    two incorrect pronouns, the false 44-HP maximum (44 was remaining HP during
+    combat), Dren Halveth's captain/leader title, and the unsupported claim that
+    Calmer was the only party member able to use shields.
+
+    Findings 2, 4, 5, and 6 repeat completed Stage 0 rulings or approved wording.
+    Finding 7 is directly contradicted by the session transcript, where the GM
+    says the Minotaur can eat undead but prefers fresh meat. They are not reopened
+    in the Stage 1 review page.
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-29"
+    applied:
+      - { finding: 1, fix: "Corrected Zinnia's two she/her references to he/him." }
+      - { finding: 3, fix: "Changed both remaining-prisoner references from three to four." }
+      - { finding: 8, fix: "Removed the false 44-HP maximum; 44 was remaining HP during combat." }
+      - { finding: 11, fix: "Restored Dren Halveth's captain and Broken Blades leader title." }
+      - { finding: 12, fix: "Removed the unsupported claim that Calmer was the party's only possible shield-user." }
+    partially_applied:
+      - finding: 10
+        fix: "Retained 'fanatically lawful good' but attributed it explicitly to Calmer's framing rather than objective setting canon or the GM."
+    rejected:
+      - finding: 2
+        ruling: "Preserve Shield +1."
+        rationale: "The GM explicitly identified the recovered item as a magical shield +1 during the session."
+      - finding: 4
+        ruling: "Preserve Barkinar's former Earth Temple leadership as a campaign divergence."
+        rationale: "The GM stated this history twice at the table, and the prior Stage 0 ruling requires an upstream grounding correction."
+      - finding: 5
+        ruling: "Preserve the approved speculative Barkinar-to-Romag theory framing."
+        rationale: "Stage 0 already established the wording, and it leaves the necromancer's identity and motives unconfirmed."
+      - finding: 6
+        ruling: "Preserve that some black-cloaked attackers were undead."
+        rationale: "The GM explicitly confirmed this at the end of the session."
+      - finding: 7
+        ruling: "Preserve that the Minotaur can eat undead but prefers fresh meat."
+        rationale: "The GM explicitly stated both facts at the end of the session."
+      - finding: 9
+        ruling: "Calmer has the Ring of Evasion."
+        rationale: "The GM explicitly stated this during combat; the party inventory was incomplete."
+  vtt_adjudicated: |
+    The cleaned speaker-labelled transcript established three remaining
+    prisoners, a Shield +1, Barkinar's former Earth Temple role, undead among
+    the black-cloaked attackers, the Minotaur's diet, Calmer's Ring of Evasion,
+    and the GM's spoken alignment description. The GM review overrode the table's
+    three-prisoner count in favor of the four-prisoner grounding state, confirmed
+    Calmer owns the ring, and ruled that the alignment wording is Calmer's framing.
+  carry_forward:
+    - status: DONE
+      item: "Add Calmer's transcript-confirmed Ring of Evasion to docs/party.md."
+    - status: CORRECTION
+      item: "Promote the GM ruling that Barkinar formerly led the Earth Temple into the entity registry and relevant campaign-state grounding."
+    - status: CORRECTION
+      item: "Reconcile the entity registry's Cistern Chamber Shield +2 with the transcript-established Shield +1."
+    - status: NOTE
+      item: "Treat 'fanatically lawful good' as Calmer's framing, not objective setting canon or a GM alignment ruling."

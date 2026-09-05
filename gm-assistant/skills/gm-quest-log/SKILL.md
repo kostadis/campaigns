@@ -33,10 +33,19 @@ So:
 
 ## Required context (read in this order)
 
-1. `ls -d summaries/*/` — enumerate every session directory. **Directory naming varies by campaign**: obelisk uses numbered dirs (`004/`), Out of the Abyss uses dated ones (`20260727/`). The doc inside may be titled or may be literally `session-summary.md`. Glob `summaries/*/*.md` and look, rather than guessing either convention.
+1. `ls -d summaries/*/` — enumerate every session directory. **Directory naming varies by campaign**: obelisk uses numbered dirs (`004/`), Out of the Abyss and ToEE use dated ones (`20260727/`, `20260705/`). Glob `summaries/*/*.md` and look, rather than guessing.
+
+   **Which file in the dir is the session summary — in precedence order:**
+
+   1. `session-summary.md` if present. Use it.
+   2. Otherwise `session_YYYY_MM_DD_<title>.md` (e.g. `session_2026_07_05_chapter_32_the_minotaur.md`). This is the **new output name for the gm-assist doc**, and it is a full session summary carrying the same `## Summary` / `## Memorable Moments` / `## Scenes` / `## Locations` / `## NPCs` / `## Items` skeleton as the old `session-summary.md`. Read it exactly the same way.
+
+   A campaign will have both conventions side by side — older dirs on `session-summary.md`, newer dirs on `session_YYYY_MM_DD_*.md`. Resolve per directory, not once for the campaign.
+
+   Ignore `gm-assist-doc.md`, `session_doc.md`, `session-roleplay.md`, `scene*.md`, `consistency_report.md`, and `voice_critique_*.md` — these are downstream renderings or pipeline reports, not the summary of record.
 2. **Check for an archive subdir** — `summaries/old/`, and watch for duplicate dirs with a `.old` or similar suffix holding a superseded cut of the same session. Enumerate before reading so you don't read a session twice or mistake a duplicate for an extra session. A fast `head -4` over every candidate file maps chapter numbers to dirs in one call.
 3. Every session doc, **oldest first**. The `## Scenes` and `## NPCs` sections carry quest offers; `## Summary` carries the outcome.
-4. Any session dir with no session doc — check for `gm-assist.md` instead. A missing summary does not mean a missing session, and quests get handed out in exactly those gaps. (obelisk session 004 had no summary and contained two of the campaign's four paid contracts.)
+4. Any session dir with **neither** of the two filenames above — check for `gm-assist.md` instead. (A dir holding only `session_YYYY_MM_DD_*.md` is not a gap; that file *is* the summary.) A missing summary does not mean a missing session, and quests get handed out in exactly those gaps. (obelisk session 004 had no summary and contained two of the campaign's four paid contracts.)
 5. The campaign's opening doc if present (`notes/open.md`, `notes/session1_*.md`) — the founding job usually lives there and nowhere else.
 6. The four grounding docs, last, as a cross-check.
 
@@ -114,7 +123,9 @@ If no character plausibly keeps notes, use a plain neutral log and say why in th
 find . -path ./.git -prune -o -type d -name handouts -print
 ```
 
-Write next to the campaign's existing player handouts if that dir exists (Out of the Abyss keeps them in `notes/sessions/handouts/`). Only fall back to creating `notes/handouts/` when the campaign has no handouts dir at all. Name the file to match its neighbours — where siblings are `player_*.md`, use `player_quest_log.md`.
+Write next to the campaign's existing player handouts if that dir exists (Out of the Abyss keeps them in `notes/sessions/handouts/`). Only fall back to creating `notes/handouts/` when the campaign has no handouts dir at all.
+
+Quest logs are immutable session artifacts. **Never overwrite or delete an earlier log.** Name each new file `{author}-{session}-log.md`, using a filesystem-safe lowercase author slug and the session identifier supplied by the GM (normally the upcoming session date, such as `owlbear-20260830-log.md`). If no session identifier is supplied, infer it from the session being prepared; if that cannot be done confidently, ask the GM. An older campaign file with a legacy name such as `player_quest_log.md` remains in place and serves only as the base/reference for the new dated log.
 
 ```
 # Quest Log
@@ -165,13 +176,13 @@ Section names should bend to the campaign. The shape is: **the spine, the paid w
 
 ## Steps
 
-1. Enumerate `summaries/*/` (including any archive subdir) and read every session doc oldest-first. Check gap sessions for `gm-assist.md`.
+1. Enumerate `summaries/*/` (including any archive subdir) and read every session doc oldest-first, resolving each dir's summary file by the precedence rule above (`session-summary.md`, else `session_YYYY_MM_DD_<title>.md`). Check genuine gap sessions for `gm-assist.md`.
 2. Note the earliest chapter covered. If the campaign predates it, grep `docs/chapters/` for promise-shaped language and read only the hits.
 3. Read the opening doc for the founding job.
 4. Build the offer/closure ledger. Note every disagreement with the grounding docs.
 5. Run the leak checklist over the candidate list.
 6. Pick the narrator; read their voice file. Find and read any existing player handout, and match its format.
-7. Resolve the output location; write the file.
+7. Resolve the output location; write a new `{author}-{session}-log.md`. Preserve every prior log unchanged.
 8. **Report back to the GM separately** — see below. This part does not go in the file.
 
 ## The report-back is not optional

@@ -11,7 +11,7 @@
 ## History with the Party
 - Discovered by the party at the brewery during a late-night meeting with Marek
 - Zephyr placed a blade to her throat, causing her to shriek
-- When Zinia dismissed the matter, Jira pleaded with the party to intervene with their parents, invoking the party's reputation as heroes
+- When Zinnia dismissed the matter, Jira pleaded with the party to intervene with their parents, invoking the party's reputation as heroes
 
 ## Current Status
 - **Last known location:** Hommlet; released following the confrontation at the brewery

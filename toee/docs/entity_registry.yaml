@@ -7,15 +7,14 @@ entities:
   - Canon Belsornig
   - Prophet of Water
   - Canon Belsoring
-  - Belsoring
   note: priest named as a possible target of Kelno's poisoned dagger of venom, tied
     to area 215
-- name: Calmert
+- name: Calmer
   type: npc
   aliases:
-  - calmer
+  - Calmert
   note: underpriest/assistant cleric who tends the church's bells, chimes, and gongs;
-    hides a platinum lump in his chamber
+    hides a platinum lump in his chamber. Calmert is his legal name; he goes by Calmer.
 - name: Kelno
   type: npc
   aliases:
@@ -25,7 +24,6 @@ entities:
 - name: Lareth the Beautiful
   type: npc
   aliases:
-  - Larith The Beautiful
   - Larith
   - Lareth
   note: villain leader of the ruined moat-house, presumably defeated by prior adventurers
@@ -34,7 +32,6 @@ entities:
   aliases:
   - Alrrem
   - Prophet of Fire
-  - Alremm
   note: human chief cleric of the Fire Temple, writing an ultimatum to Romag
 - name: Terjon
   type: npc
@@ -108,7 +105,6 @@ entities:
   type: npc
   aliases:
   - Dela
-  - dalia
   note: barmaid at the Waterside Hostel, Level 3 Thief and Dick Rentsch's lover
 - name: Pearl
   type: npc
@@ -145,7 +141,6 @@ entities:
   aliases:
   - Gundigoot
   - Ostler Goodingoat
-  - Ostler Goodingoot
   - Osler Goodingoat
   - Osler Goodingut
   - Ostler Goodingoot Osler Goodingut
@@ -190,7 +185,6 @@ entities:
 - name: Hartsch
   type: npc
   aliases:
-  - Harch
   - Harch Hartsch
   - Earth Pretender
   - The Earth Pretender
@@ -206,8 +200,6 @@ entities:
   type: npc
   aliases:
   - Demoness Lady of Fungi
-  - Zyggtmoy
-  - Zyggmoy
   note: unique demon lord/fiend, ruler of a layer of the Abyss, currently bound beneath
     the Temple
 - name: Orcus
@@ -280,9 +272,12 @@ entities:
 - name: Rannos Davl
   type: npc
   aliases:
-  - ranos_davl
+  - Rannos
   note: rotund trading-post proprietor, chaotic evil, Level 10 Thief and servant of
-    the Temple of Elemental Evil
+    the Temple of Elemental Evil. Named by a captured cultist (Ch. 10.5) as an agent of a larger competing
+    organisation and tied to the chest meant for Romag at the abandoned monastery near
+    Gallows Corner; Thorne was hired through him. Recorded there as 'Ranus Duval' — a
+    garbling, ruled same man by the GM 2026-08-23.
 - name: Mytch
   type: npc
   note: the miller (area 22), member of the village elder's council
@@ -339,6 +334,8 @@ entities:
     swashbuckler
 - name: Furnok of Ferd
   type: npc
+  aliases:
+  - Furnok
   note: cheating gambler and self-styled 'treasure finder'
 - name: Oohlgrist
   type: npc
@@ -1340,8 +1337,6 @@ entities:
   note: Hedrack's armor donned during alerts
 - name: Black scarab (TZGY)
   type: item
-  aliases:
-  - Black scarab (TZOY)
   note: scarab inscribed TZGY carried by each human Temple leader to pacify the altar
     curtain
 - name: Book of vile darkness
@@ -1757,8 +1752,6 @@ entities:
     (145)
 - name: wand of wonder
   type: item
-  aliases:
-  - Wand of a Wonder
   note: 50-charge wand found in a leather case in area 338
 - name: Weather Summoning
   type: item
@@ -2755,6 +2748,8 @@ entities:
   note: owns the Boatwright, builds and repairs boats in Nulb
 - name: Elvanna Thorne
   type: npc
+  aliases:
+  - Elvanna
   note: runs the Nulb Brothel, a Scarlet Brotherhood plant
 - name: Harlow
   type: npc
@@ -2787,6 +2782,8 @@ entities:
   note: Selentis's sworn protector, a scarred veteran of the Battle of Emridy Meadows
 - name: Captain Dren Halveth
   type: npc
+  aliases:
+  - Dren
   note: leads the Broken Blades mercenary company, plays factions for contracts
 - name: Veyne
   type: npc
@@ -2987,7 +2984,6 @@ entities:
 - name: Albreth
   type: npc
   aliases:
-  - Albrith
   - Albrith Albreth
 - name: Tharok
   type: npc
@@ -3001,8 +2997,6 @@ entities:
   type: npc
   aliases:
   - Brother Eldin Brother Eldrin
-  - Brother Eldren
-  - Brother Eldrin
   - Eldin
   - Eldrin
   - Eldren
@@ -3020,12 +3014,10 @@ entities:
   type: npc
   aliases:
   - Glannon
-  - Glannon Clee
   - Glennon
 - name: Pasmarie Clee
   type: npc
   aliases:
-  - Palsmarie Clee
   - Palsmarie
   - Pasmarie
 - name: Aunt Emma
@@ -3053,7 +3045,6 @@ entities:
 - name: Quinna Poul
   type: npc
   aliases:
-  - Quinna Pool
   - Quinna
 - name: Spugnoir Balkof
   type: npc
@@ -3070,145 +3061,144 @@ entities:
   aliases:
   - Headgnome Glennddarc
   - Headgnome
-- name: airgid
+- name: Airgid
   type: npc
-- name: captain_gnonsbim
+- name: Captain Gnonsbim
   type: npc
-- name: captain_varsik
+- name: Captain Varsik
   type: npc
-- name: constable_eldrin_malavar
+- name: Constable Eldrin Malavar
   type: npc
-- name: derrick
-  type: npc
-- name: dren
-  type: npc
-- name: dren_halveth
+- name: Derrick
   type: npc
 - name: Eelrich Vane
   type: npc
   aliases:
   - Brother Vane
   - Brother Eelrich
-- name: elazar
+- name: Elazar
   type: npc
-- name: elder_kenter
+- name: Elder Kenter
   type: npc
-- name: elfar_twell
+- name: Elfar Twell
   type: npc
-- name: elvanna
+- name: Erin Darkmoon
   type: npc
-- name: erin_darkmoon
+- name: Eryk Velkori
   type: npc
-- name: eryk_velkori
+- name: Faria
   type: npc
-- name: faria
+- name: Fire Temple Warlock (unnamed)
   type: npc
-- name: fire_temple_warlock
+- name: Florian
   type: npc
-- name: florian
+- name: Garik
   type: npc
-- name: furnok
+- name: Gonnathrad Kevanarial
   type: npc
-- name: garik
+- name: Grindin Well-Read
   type: npc
-- name: gonnathrad_kevanarial
+- name: Gurdy
   type: npc
-- name: grindin_well_read
+- name: Ingulf
   type: npc
-- name: gurdy
+- name: Iniri
   type: npc
-- name: ingulf
+- name: Jarran
   type: npc
-- name: iniri
+- name: Jerry
   type: npc
-- name: jarran
+- name: Jijohn
   type: npc
-- name: jerry
+- name: Jira
   type: npc
-- name: jijohn
+- name: Jorin Pike Kale
   type: npc
-- name: jira
+- name: Keenleene
   type: npc
-- name: jorin_pike_kale
+- name: Ketta
   type: npc
-- name: keenleene
+- name: Knarfallan
   type: npc
-- name: ketta
+- name: Krell
   type: npc
-- name: knarfallan
+- name: Lieutenant Krell
   type: npc
-- name: krell
+- name: Lord Denelu
   type: npc
-- name: lieutenant_krell
+- name: Maeris Dorn
   type: npc
-- name: lord_denelu
+- name: Magda
   type: npc
-- name: maeris-dorn
+- name: Mahoon
   type: npc
-- name: magda
+- name: Marek
   type: npc
-- name: mahoon
+- name: Mari Clee
   type: npc
-- name: marek
+- name: Mickey Tamen
   type: npc
-- name: mari_clee
+- name: Vurakhal
   type: npc
-- name: mickey
+  note: bound salamander retainer of the Obsidian Edge, guarding the Fire Temple altar
+    (area 212); surrendered as the last of three fire-pit salamanders after Alrrem's
+    death stranded it on the Material Plane. Ignan name glosses as "ember-that-was-spared"
+    — confirmed at table.
+- name: Rithelm Drake
   type: npc
-- name: obsidian-edge-salamander
+- name: Robert Deakin
   type: npc
-- name: rannos
+- name: Sequoia
   type: npc
-- name: ranus_duval
+  note: player character (Obsidian Edge) — halfling rogue; config/party.yaml is authoritative
+    for this spelling. The file docs/party/sequioa.md is simply named wrong.
+- name: Sister Alina
   type: npc
-- name: rithelm_drake
+- name: Snej
   type: npc
-- name: robert_deakin
+- name: Tala Velkori
   type: npc
-- name: sequoia
+- name: The Crimson Reaper Spokesperson (Unnamed)
   type: npc
-- name: sister_alina
+- name: The Dryad (Unnamed)
   type: npc
-- name: snej
+- name: Tilly Bizpebble Whistle
   type: npc
-- name: tala_velkori
+- name: Urot
   type: npc
-- name: the_crimson_reaper_unnamed_spokesperson
+- name: Varek Solain
   type: npc
-- name: the_dryad
+- name: Verigo
   type: npc
-- name: tilly_bizpebble_whistle
+- name: Vethra Velkori
   type: npc
-- name: urot
+- name: Voss
   type: npc
-- name: varek-solain
+- name: Warda
   type: npc
-- name: verigo
+- name: Zelt the Rat
   type: npc
-- name: vethra_velkori
+- name: Zephyr
   type: npc
-- name: voss
+  note: player character (Obsidian Edge) — tiefling rogue; character sheet titles
+    him Zephyr "King of Hell" Cross.
+- name: Zinnia
   type: npc
-- name: warda
-  type: npc
-- name: zelt_the_rat
-  type: npc
-- name: zephyr
-  type: npc
+  provenance: on_the_fly
+  note: player character (Obsidian Edge) — elf monk, "the masked monk"; male, he/him
+    per docs/party/zinnia.md. Extraction passes repeatedly degender him — check pronouns
+    on every recap.
 distinct:
 - - Barkinar
   - Deggum
 rejected_aliases:
-- - Dren
-  - Dren Halveth
 - - Krell
   - Lieutenant Krell
-- - Rannos
-  - Ranos Davl
-  - Ranus Duval
 - - Mari Clee
   - Pasmarie Clee
 - - Glennddarc
   - Glennon Clee
 - - Brother Eldin
   - Constable Eldrin Malavar
+- - Prefect Alrrem
+  - Alremm

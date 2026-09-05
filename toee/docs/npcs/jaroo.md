@@ -18,10 +18,10 @@
 Jaroo showed immediate disgust toward Zephyr and redirected conversation to Sequoia. He briefed the party on the Moathouse's history as a former Temple advance base and linked current bandit activity to the Temple's methods. He urged them to investigate the Moathouse and report findings **only to him**, warning that Temple agents may be embedded in Hommlet and that Burne and Rufus would exploit any intelligence to expand the Archbishop of Verbobonc's influence.
 
 **Second Meeting (party returns with stone and bandit confession)**
-Jaroo was disappointed with the evidence gathered and told the party they needed to go deeper into the Moathouse for stronger proof. He asked who else they had spoken to; when Zinia answered truthfully, he was satisfied and rewarded the party with the blessing of Beory and a healing potion.
+Jaroo was disappointed with the evidence gathered and told the party they needed to go deeper into the Moathouse for stronger proof. He asked who else they had spoken to; when Zinnia answered truthfully, he was satisfied and rewarded the party with the blessing of Beory and a healing potion.
 
 **Village Council Meeting, Planting 19**
-Jaroo presented the party's findings to the council but deliberately softened the framing — brigands, not Temple agents. He publicly supported the party's choice to report to him first. After the meeting, he invited them to help with end-of-month festival preparations; Sequoia and Zinia fled.
+Jaroo presented the party's findings to the council but deliberately softened the framing — brigands, not Temple agents. He publicly supported the party's choice to report to him first. After the meeting, he invited them to help with end-of-month festival preparations; Sequoia and Zinnia fled.
 
 **Post-Moathouse Clearance**
 After the party killed Lareth and cleared the Moathouse, Jaroo convened with the local council and argued the party's next critical mission was to travel to Nulb, infiltrate Temple operations there, identify leadership, and disrupt their machinations. He also warned the party about the importance of securing the Chest of Rao and cautioned that Terjon and other St. Cuthbert followers may withhold healing from non-believers.
@@ -38,12 +38,12 @@ Expressed deep suspicion — finds them too performative and ecstatic to be genu
 ## Relationships
 - **Zephyr (party):** Open hostility and contempt; refuses direct engagement
 - **Sequoia (party):** Primary contact; speaks through them when Zephyr is present
-- **Zinia (party):** Rewarded for honesty; appears to approve of her
+- **Zinnia (party):** Rewarded for honesty; appears to approve of her
 - **Burne & Rufus:** Deep distrust — believes their castle is a power grab on behalf of the Archbishop of Verbobonc, not a defensive measure
 - **Terjon:** Distrusted; views his goals as aligned with Church expansion over genuine faith
 - **Circle of the Scarlet Moon:** Suspicious; considers them fraudulent or corrupted druids
 - **Beory's faithful:** Protective; fears their absorption into the Church of St. Cuthbert
 
 ## Arc Score Events
-- **Increase** — Zinia answered his question honestly about who else the party had spoken to; rewarded with Beory's blessing and a healing potion
+- **Increase** — Zinnia answered his question honestly about who else the party had spoken to; rewarded with Beory's blessing and a healing potion
 - **Implicit negative pressure on Zephyr** — Jaroo's prejudice against Tieflings creates ongoing tension; no score event recorded but relationship remains hostile

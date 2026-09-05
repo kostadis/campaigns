@@ -17,7 +17,7 @@
 - Earth Temple badges (all four PCs)
 - Chest of Rao (delivered to Romag; now in Earth Temple possession under Hartsch)
 - Mace of Smiting (Calmer), Magical dagger (Zinnia), Magical short sword (Sequoia)
-- Cloak of Elvenkind (Zinnia), Ring of Free Action (party)
+- Cloak of Elvenkind (Zinnia), Ring of Free Action (party), Ring of Evasion (Calmer)
 - Amulet of Proof against Detection, Ring of Protection +1, Dagger of Venom, Dust of Disappearance ×3
 - Potion of Fire Resistance, Potion of Greater Healing
 - Five silver daggers, nineteen silver-tipped arrows, five unidentified magical arrows

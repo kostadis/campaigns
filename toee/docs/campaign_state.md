@@ -32,7 +32,7 @@
 - **Giant Crayfish — Defeated (Chapter 07):** Encountered in frigid pool chamber. Sequoia recovered ruby pin, small tube, and coin from submerged ledge.
 - **Lareth the Beautiful — First Contact / Infiltration (Chapter 07–08):** Party in Fire Temple robes bluffed guards and sergeant; Lareth accepted cover story (claimed to have eliminated Snej). Lareth assigned retrieval mission (stolen chest, Kron Hills near Sheernob). Party operating under cover.
 - **Ambush and Rescue of Blackmailed Innkeepers (Chapter 10.5):** Success; one cultist captured and interrogated.
-- **Interrogation of Captured Cultist (Chapter 10.5):** Chest location identified (monastery near Gallows Corner); Ranus Duval confirmed as agent of a larger competing organization.
+- **Interrogation of Captured Cultist (Chapter 10.5):** Chest location identified (monastery near Gallows Corner); Rannos Davl confirmed as agent of a larger competing organization.
 - **Intelligence Gathering at Gallows Corner (Chapter 10.5):** Zinnia eavesdropped on suspicious conversations; merchant Tilly Bizpebble Whistle identified as person of interest; Nicholas purchased a painted rock.
 - **Combat Trial vs. Monastery Monks (Chapter 10.7):** Non-lethal combat; party survived; Nicholas knocked unconscious but revived.
 - **Interrogation of Captive Monk (Chapter 10.7):** Monastery's false Beory cover exposed; true Earth Cult affiliation and active ritual revealed.

@@ -1,0 +1,38 @@
+{
+  "title": "Stage 0 — Chapter 33 Focused GM Assist Rulings",
+  "reviewId": "staged-consistency:20260823:stage-0:focused",
+  "outputName": "staged_consistency_stage_0_decisions_focused.json",
+  "eyebrow": "Temple of Elemental Evil / Chapter 33 / staged consistency",
+  "lede": "Four new or materially reframed findings need rulings. Three repeated findings retain prior GM rulings supported by the transcript.",
+  "footer": "Applied without asking: 0 corrections. Prior rulings retained: Barkinar formerly led Earth, the recovered shield is +1, and some black-cloaked attackers were undead. Existing earlier Stage 0 review files were left untouched.",
+  "items": [
+    {
+      "id": "s0-04",
+      "t": "Replace Calmer’s in-character account of who paid to raise him with the campaign-state ledger attribution?",
+      "y": "Rewrite the affected Summary, Calmer’s Crisis of Faith, Calmer NPC, and Memorable Moments text in <code>gm-assist.md</code> to say the party arranged the resurrection and Zinnia alone surrendered the magical trident as payment.",
+      "n": "Leave <code>gm-assist.md</code> unchanged, preserving Calmer’s own table statement that the tiefling, scarred spy, and rogue collectively went to his temple and paid the fee; the campaign-state entry will remain more mechanically specific than his dialogue.",
+      "ev": "Campaign state records Zinnia’s trident payment at <code>docs/campaign_state.md:53</code>. Calmer explicitly credits all three companions with going to the temple and paying the fee in <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:1697</code>, and repeats his grievance at <code>:1725</code>. Affected recap text begins at <code>gm-assist.md:12</code>."
+    },
+    {
+      "id": "s0-05",
+      "t": "Narrow the interpretation of Frostbrand’s “sneakity-sneakety” warning?",
+      "y": "Edit the Frostbrand NPC/item commentary and Memorable Moments annotation in <code>gm-assist.md</code> to say the sword warned about declining discretion, without asserting that Frostbrand condemned Calmer’s leadership attachment or openly evil behavior.",
+      "n": "Leave <code>gm-assist.md</code> unchanged, preserving the recap’s interpretation that Frostbrand was calling out Calmer; this interpretation relies on the surrounding exchange rather than the sword’s literal words.",
+      "ev": "Frostbrand’s literal line mentions only the party’s discreet plan at <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:2265</code>. The stronger interpretation appears at <code>gm-assist.md:132</code>, <code>:142</code>, and <code>:198</code>."
+    },
+    {
+      "id": "s0-06",
+      "t": "Make the necromancer’s leadership history more explicitly speculative?",
+      "y": "Rewrite the affected Summary, A Message from the Necromancer, and Necromancer NPC text in <code>gm-assist.md</code> to label the predecessor connection, lost promotion, and motive as an unconfirmed party hypothesis.",
+      "n": "Leave <code>gm-assist.md</code> unchanged, preserving the GM-delivered deduction that the necromancer believed Romag’s job belonged to him and now resents the party; the recap will continue using its current ‘apparently’ and ‘likely’ qualifiers.",
+      "ev": "The GM walks the party through the inference at <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:3533</code>–<code>:3625</code>. The prep grounds Romag’s predecessor at <code>notes/sessions/nobody-told-nulb.md:217</code>–<code>:223</code> but leaves the name and exact motive open at <code>:785</code>–<code>:787</code>. Affected recap text appears at <code>gm-assist.md:20</code>, <code>:79</code>, and <code>:139</code>."
+    },
+    {
+      "id": "s0-07",
+      "t": "Remove the Golden Pearl Ring, Ring of Fire Resistance, and Magical Wood Totem entries as unrelated to this recap?",
+      "y": "Delete those three item entries from <code>gm-assist.md</code>, limiting the Items section to objects mentioned outside the session-opening recap.",
+      "n": "Leave <code>gm-assist.md</code> unchanged because the GM’s Chapter 33 opening recap explicitly mentioned all three items, even though the generated Summary and scene bullets compressed those details.",
+      "ev": "The opening recap names the Golden Pearl Ring at <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:535</code> and the Ring of Fire Resistance and color-changing totem at <code>:577</code>. The item entries are at <code>gm-assist.md:145</code>–<code>:153</code>."
+    }
+  ]
+}

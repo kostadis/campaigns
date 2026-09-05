@@ -1,7 +1,7 @@
 {
   "backup_tarball": "/home/kroussos/campaigns/toee/docs/npcs.backup-20260416-095418.tar.gz",
   "started_at": "2026-04-16T09:54:18Z",
-  "updated_at": "2026-04-16T09:54:18Z",
+  "updated_at": "2026-08-23T16:50:00",
   "clusters_confirmed": [
     {
       "files": [
@@ -305,6 +305,20 @@
         "Dren"
       ],
       "note": "2026-07-05: prior rejection (2026-04-16) was based on a mislabel in dren.md itself (\"Leader of the Crimson Guard faction\") \u2014 user confirmed on review that dren.md and dren_halveth.md are the same NPC (Broken Blades captain); the Crimson Guard/Reapers leadership is separately and correctly dossiered as zelt_the_rat.md and the_crimson_reaper_unnamed_spokesperson.md. dren.md content merged into dren_halveth.md and deleted."
+    },
+    {
+      "files": [
+        "rannos.md",
+        "ranos_davl.md",
+        "ranus_duval.md"
+      ],
+      "canonical": "rannos_davl.md",
+      "aliases_recorded": [
+        "Rannos",
+        "Ranos Davl",
+        "Ranus Duval"
+      ],
+      "note": "GM ruled 2026-08-23 these are one man. Supersedes the earlier 'Three different NPCs \u2014 keep all three' rejection. Rannos Davl is T1-4 module canon; 'the Duke' belongs to Thorne, not to this NPC."
     }
   ],
   "clusters_rejected": [
@@ -321,14 +335,6 @@
         "lieutenant_krell.md"
       ],
       "reason": "Different NPCs \u2014 krell is dead Earth Temple lieutenant; lieutenant_krell is Fire Temple spy executed by Romag"
-    },
-    {
-      "files": [
-        "rannos.md",
-        "ranos_davl.md",
-        "ranus_duval.md"
-      ],
-      "reason": "Three different NPCs \u2014 keep all three"
     },
     {
       "files": [

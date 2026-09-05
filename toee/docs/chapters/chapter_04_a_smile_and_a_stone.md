@@ -4,7 +4,7 @@
 
 Zephyr
 
-The following day, the Zephyr sits for breakfast and waits for the arrival of Calmer and the man-at-arms that Ranos Davl has promised him. 
+The following day, the Zephyr sits for breakfast and waits for the arrival of Calmer and the man-at-arms that Rannos Davl has promised him. 
 
 Calmer arrives first, his armor polished and his holy symbol, the cudgel dangling from his wrist. 
 

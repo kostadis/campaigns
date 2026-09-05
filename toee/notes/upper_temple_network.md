@@ -36,7 +36,9 @@ Runs Hedrack's whisper-web across Verbobonc, Nulb, and Hommlet. Holds the Selent
 
 **How he introduced himself, verbatim (per `lucius_network.md`'s script):** *"I'm Aldren — well, Lucius, Aldren when I'm working, it's a long story and a dull one."*
 
-> ⚠️ **Naming flag:** the chapter 31 session summary records this visitor's name as **"Lucius Alrrem."** That is almost certainly a transcription slip, not a new character — Alrrem (the dead Fire Temple prophet) and "Aldren" are phonetically close, and the actual script Lucius uses at the table literally garbles his own two names together for the same comic-confusion reason. Worth a pass with `/consistency-check` or `/vtt-spell-pass` on that session's raw transcript before "Lucius Alrrem" calcifies into the summary docs as a separate person.
+> ✅ **Naming flag — RESOLVED 2026-08-22.** Canonical name is **Lucius Graeme**, alias **"Aldren."** The chapter 31 session summary's **"Lucius Alrrem"** and the chapter 32 summary's **"Lucius Graham"** are both transcription drift — the first contaminated by Alrrem (the dead Fire Temple prophet), the second a plain mishear. The confusion is partly self-inflicted: his own introduction garbles both his names together on purpose. Dossier now at `docs/npcs/lucius_graeme.md`.
+>
+> Note also that chapter 31's account of this visit records **"Sequioa and *Romag* each purchase a shortsword +1"** — Romag having been dead since chapter 28. That is Zephyr (per chapter 32). **Chapter 31's Lucius passage carries at least two confirmed garbles; treat chapter 32 as the authoritative record of that encounter.** The 20260628 session directory contains no VTT, so neither account can be checked against a transcript.
 
 **What he's doing right now (ch.31, per `lucius_network.md`):** pure resource play. He arrived after the party's long rest, gave a gift (wine + Potions of Superior Healing), and offered his three supply pipes (see below) — no probing, no Senshock seeding, no Thrommel/"sleeping king" bait yet. That's deliberately held for a later visit.
 
@@ -103,7 +105,7 @@ Not an unresolved thread — his bridge scene ran (`chapter_30_dungeon_boss.md`)
    stores
 ```
 
-Menu already offered at the table (ch.31): a Ring of Invisibility and a Ring of Free Action, both held on a 4,000 gp deposit each (Pipe 3 territory — build-defining items, never a freebie); two +1 shortswords sold outright to Sequioa and Romag for 1,000 gp each (Pipe 1). See `notes/lucius_network.md` for the full curated item table if more of the household needs furnishing.
+Menu already offered at the table (ch.31): a Ring of Invisibility and a Ring of Free Action, both held on a 4,000 gp deposit each (Pipe 3 territory — build-defining items, never a freebie); two +1 shortswords sold outright to Sequoia and Romag for 1,000 gp each (Pipe 1). See `notes/lucius_network.md` for the full curated item table if more of the household needs furnishing.
 
 ---
 
@@ -122,16 +124,17 @@ These exist in parallel to the visible command structure above and haven't been 
 - **The party fully trusts Lucius and Barkinar right now.** No Insight catches, no external warning fired (Falrinth's priming was deliberately deferred). This is the cleanest read Lucius will ever get of them — and the widest-open door for a believable next visit.
 - **Earth Temple has now lost two prophets in a row (Romag, then Hartsch) with no third in line.** The party is the only remaining authority. Barkinar's check-in will be looking for evidence someone (Dren, formally) is actually running that territory — an unstaffed Earth Temple is a worse look than an unstaffed Fire Temple, since Fire already has Varek + Maeris installed.
 - **Vurakhal hates Water, Eelrich (probably) will come to hate Fire.** Putting the bound salamander and the provisional water-priest in the same room is a scene that's been sitting ready since both were recruited.
-- **Dren's formal installation is now urgent, not just open.** Barkinar's list item — with Hartsch's death confirmed, there's no cover story left for why Earth Temple has no named leader.
+- ~~**Dren's formal installation is now urgent.**~~ **Done (as of 2026-08-22 prep):** Dren has been formally installed as commander of the Earth Temple forces. Barkinar's List is now essentially complete — Dren installed, Fire and Water Temples pacified, troll contract resolved by force. Only the **necromancer** and the **Chest of Rao** remain outstanding, which makes the check-in a commendation rather than a reprimand — and a commendation is how the leash gets shorter.
 - **Kelno knows about the Prince (Thrommel) territory before anyone else does — or does he?** He's now embedded with the party as an ally with a two-week head start on reading them. Worth deciding whether his network has picked up anything on the sleeping-prince thread before Lucius ever raises it.
 - **The Kelno/Barkinar overlap.** Barkinar met Kelno standing beside the party at the moment of "promotion" and smiled at him — filed by Zinnia as "a man who already knows more than he's saying." Whether that's just Barkinar recognizing a useful defector or something sharper is an open GM call.
 
 ## Open Decisions (for the user)
 
-1. **Is "Lucius Alrrem" a transcription error or a deliberate table decision to rename the character?** Recommend checking the raw VTT before the next narration pass locks it in.
-2. **Does Hartsch's murder get discovered/investigated, or is it just accepted as "the war did it"?** Belsornig's own assassins killed Hartsch around the same window the party killed Belsornig — worth deciding whether the party ever connects those two facts, since it's a clean piece of dramatic irony.
-3. **`docs/npcs/kelno.md` needs a rewrite.** It's still the pre-alliance stub ("a joke with minimal power"); the real dossier is scattered across `chapter_30_dungeon_boss.md` and `phase3_endgame.md` and should be consolidated — candidate for `/gm-npc-build` or promotion straight to a full dossier.
+1. **Does Hartsch's murder get discovered/investigated, or is it just accepted as "the war did it"?** Belsornig's own assassins killed Hartsch around the same window the party killed Belsornig — worth deciding whether the party ever connects those two facts, since it's a clean piece of dramatic irony.
+2. **`docs/npcs/kelno.md` needs a rewrite.** It's still the pre-alliance stub ("a joke with minimal power"); the real dossier is scattered across `chapter_30_dungeon_boss.md` and `phase3_endgame.md` and should be consolidated — candidate for `/gm-npc-build` or promotion straight to a full dossier.
 
 ~~Are `dren.md` and `dren_halveth.md` the same NPC?~~ **Resolved 2026-07-05** — confirmed same person (Captain of the Broken Blades); merged into `dren_halveth.md`. The "Crimson Guard" label in the old `dren.md` was an error, not a second identity — that faction's actual leadership (Zelt the Rat, the unnamed hostel spokesperson) is separately dossiered and untouched by this merge.
 
 ~~When does Kelno's scene run?~~ **Resolved 2026-07-05** — it already ran (`chapter_30_dungeon_boss.md`); he's allied, not killed. Chronology corrected throughout this doc.
+
+~~Is "Lucius Alrrem" a transcription error or a rename?~~ **Resolved 2026-08-22** — a transcription error, twice over. Canonical is **Lucius Graeme**, alias "Aldren"; ch.31 gave "Lucius Alrrem" and ch.32 "Lucius Graham." Full dossier promoted to `docs/npcs/lucius_graeme.md`. Ch.31's account of that visit also miscredits a shortsword purchase to the dead Romag (it was Zephyr) — treat ch.32 as authoritative for that scene.

@@ -1,0 +1,352 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>VTT Spell Pass Review</title><style id="css">
+:root {
+  --ground:#F1F3F1; --surface:#FAFBFA; --surface-2:#E6EAE7;
+  --rule:#CBD3CD; --rule-soft:#DDE3DE;
+  --ink:#171B19; --ink-2:#4A544E; --ink-3:#6E7A73;
+  --accent:#2F6F62; --accent-soft:#DCE9E5;
+  --ok:#2F6F62; --ok-bg:#DCE9E5;
+  --no:#A63446; --no-bg:#F5E2E5;
+  --talk:#A26A1F; --talk-bg:#F6EBDA;
+  --shadow:0 1px 2px rgba(23,27,25,.05),0 8px 24px -16px rgba(23,27,25,.18);
+  --serif:Georgia,"Times New Roman",serif;
+  --sans:"Helvetica Neue",Arial,sans-serif;
+  --mono:ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+    --rule:#2E3835; --rule-soft:#242C2A;
+    --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+    --accent:#6BBBA7; --accent-soft:#1B2E2A;
+    --ok:#6BBBA7; --ok-bg:#1B2E2A;
+    --no:#E28794; --no-bg:#34191E;
+    --talk:#DDAA5E; --talk-bg:#33280F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"] {
+  --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+  --rule:#2E3835; --rule-soft:#242C2A;
+  --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+  --accent:#6BBBA7; --accent-soft:#1B2E2A;
+  --ok:#6BBBA7; --ok-bg:#1B2E2A;
+  --no:#E28794; --no-bg:#34191E;
+  --talk:#DDAA5E; --talk-bg:#33280F;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px 100px}
+
+.top{padding:56px 0 26px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
+h1{font-family:var(--serif);font-weight:800;font-size:3rem;line-height:1.04;letter-spacing:0;margin:0 0 14px;text-wrap:balance}
+.lede{font-family:var(--serif);font-size:1.16rem;color:var(--ink-2);max-width:60ch;margin:0;line-height:1.5}
+
+.bar{position:sticky;top:0;z-index:20;background:var(--ground);border-bottom:1px solid var(--rule);
+  padding:12px 0;margin-bottom:6px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.prog{font-family:var(--mono);font-size:13px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.prog b{color:var(--ink);font-size:15px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-family:var(--mono);font-size:11px;letter-spacing:0;text-transform:uppercase;padding:3px 8px;border-radius:2px;font-weight:500}
+.chip.a{background:var(--ok-bg);color:var(--ok)}
+.chip.r{background:var(--no-bg);color:var(--no)}
+.chip.d{background:var(--talk-bg);color:var(--talk)}
+.spacer{flex:1 1 auto}
+
+button{font-family:inherit;font-size:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.save{background:var(--accent);color:var(--ground);border:1px solid var(--accent);
+  border-radius:3px;padding:9px 20px;font-family:var(--mono);font-size:12.5px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:opacity .15s}
+.save[disabled]{opacity:.35;cursor:not-allowed}
+:root[data-theme="dark"] .save,:root:not([data-theme="light"]) .save{color:#0D1211}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .save{color:#FAFBFA}}
+
+.bulk{background:transparent;border:1px solid var(--rule);color:var(--ink-2);border-radius:3px;
+  padding:8px 13px;font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase}
+.bulk:hover{border-color:var(--talk);color:var(--talk)}
+
+.msg{font-family:var(--mono);font-size:12px;padding:10px 14px;border-radius:3px;margin:10px 0 0;
+  background:var(--surface-2);color:var(--ink-2);border-left:2px solid var(--accent)}
+.msg.warn{border-left-color:var(--talk);color:var(--talk)}
+.msg[hidden]{display:none}
+
+.items{display:flex;flex-direction:column;gap:14px;margin-top:22px}
+
+.item{background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--rule);
+  border-radius:3px;padding:20px 22px 18px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow)}
+.item[data-choice="approve"]{border-left-color:var(--ok)}
+.item[data-choice="reject"]{border-left-color:var(--no)}
+.item[data-choice="discuss"]{border-left-color:var(--talk)}
+
+.item-head{display:flex;gap:12px;align-items:baseline}
+.num{font-family:var(--mono);font-size:12px;color:var(--ink-3);flex:none;padding-top:4px;font-variant-numeric:tabular-nums}
+.item h2{font-family:var(--serif);font-size:1.24rem;font-weight:600;line-height:1.28;margin:0;text-wrap:balance}
+
+.outcomes{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.outcome{background:var(--surface-2);border-radius:3px;padding:11px 13px;font-size:13.4px;line-height:1.5;color:var(--ink-2)}
+.outcome b{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:0;
+  text-transform:uppercase;margin-bottom:4px}
+.outcome.y b{color:var(--ok)}
+.outcome.n b{color:var(--no)}
+.outcome code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere;color:var(--ink)}
+
+.ev{font-size:13px;color:var(--ink-3);line-height:1.55;margin:0;padding-left:12px;border-left:2px solid var(--rule-soft)}
+.ev code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.ev em{color:var(--ink-2);font-style:italic}
+
+.choices{display:flex;gap:8px;flex-wrap:wrap}
+.ch{flex:1 1 auto;min-width:104px;background:transparent;border:1px solid var(--rule);color:var(--ink-2);
+  border-radius:3px;padding:10px 14px;font-family:var(--mono);font-size:12px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:background .12s,border-color .12s,color .12s}
+.ch:hover{border-color:var(--ink-3);color:var(--ink)}
+.ch[aria-pressed="true"][data-choice="approve"]{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)}
+.ch[aria-pressed="true"][data-choice="reject"]{background:var(--no-bg);border-color:var(--no);color:var(--no)}
+.ch[aria-pressed="true"][data-choice="discuss"]{background:var(--talk-bg);border-color:var(--talk);color:var(--talk)}
+
+.note{width:100%;background:var(--ground);border:1px solid var(--rule);border-radius:3px;color:var(--ink);
+  font-family:var(--sans);font-size:13.5px;padding:9px 12px}
+.note::placeholder{color:var(--ink-3)}
+.note:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.note[hidden]{display:none}
+
+.foot{margin-top:56px;padding-top:26px;border-top:2px solid var(--ink);font-size:13.4px;color:var(--ink-2);line-height:1.6}
+.foot code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.foot .applied{margin:0 0 14px}
+
+.search{width:min(260px,100%);height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;
+  background:var(--surface);color:var(--ink);font-family:var(--sans);font-size:13px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.filters{display:flex;gap:5px;flex-wrap:wrap}
+.filter{height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;background:transparent;
+  color:var(--ink-2);font-family:var(--mono);font-size:11px;text-transform:uppercase}
+.filter[aria-pressed="true"]{background:var(--surface-2);border-color:var(--ink-3);color:var(--ink)}
+
+@media (max-width:600px){
+  .wrap{padding:0 16px 80px}.item-head{flex-direction:column;gap:4px}
+  h1{font-size:2.2rem}.lede{font-size:1rem}.search{width:100%}.filters{width:100%}
+  .filter{flex:1 1 30%;min-width:0}.save,.bulk{flex:1 1 auto}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body><div id="app"></div><script type="application/json" id="state">{"decisions": {}, "notes": {}, "savedAt": null}</script><script type="text/plain" id="src">
+var TITLE = "VTT Spell Pass Review";
+var EYEBROW = "/home/kroussos/toee/toee/summaries/20260823 / VTT spell pass";
+var LEDE = "36 independent spelling decisions. Approve applies the consequence shown on the card; Reject leaves the transcript unchanged; Discuss returns the item to chat.";
+var FOOTER = "The source VTT, glossary, and saved review state remain unchanged until Codex receives the exported decisions.";
+var ITEMS = [{"id": "bulmer__calmer", "t": "Correct \u003ccode>Bulmer\u003c/code> to \u003ccode>Calmer\u003c/code>", "y": "Add \u003ccode>Bulmer\u003c/code> to \u003ccode>Calmer\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Bulmer\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> george: I&#x27;ll let Bulmer handle it.\u003cbr>\u003cb>Sibling transcript line 3611, score 0.696:\u003c/b> You&#x27;re going to let Calmer handle it?\u003cbr>\u003cb>Note:\u003c/b> The independent transcript names Calmer in the same exchange.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "columber__calmer", "t": "Correct \u003ccode>Columber\u003c/code> to \u003ccode>Calmer\u003c/code>", "y": "Add \u003ccode>Columber\u003c/code> to \u003ccode>Calmer\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Columber\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> So I… I bring Columber to my side.\u003cbr>\u003cb>Sibling transcript line 1484, score 0.774:\u003c/b> I&#x27;ll bring Convert to my side.\u003cbr>\u003cb>Note:\u003c/b> The sibling substitutes &#x27;Convert,&#x27; but the immediately preceding cue says Calmer is about to intervene and the speaker pulls that character aside.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "convo__calmer", "t": "Correct \u003ccode>Convo\u003c/code> to \u003ccode>Calmer\u003c/code>", "y": "Add \u003ccode>Convo\u003c/code> to \u003ccode>Calmer\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Convo\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Convo&#x27;s gonna ask for something. You&#x27;re gonna have to convince him…\u003cbr>\u003cb>Sibling transcript line 1478:\u003c/b> Calmer&#x27;s going to ask for something.\u003cbr>\u003cb>Note:\u003c/b> This possessive token was missed by the capitalization scanner; the sibling is explicit.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "karlmer__calmer", "t": "Correct \u003ccode>Karlmer\u003c/code> to \u003ccode>Calmer\u003c/code>", "y": "Add \u003ccode>Karlmer\u003c/code> to \u003ccode>Calmer\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Karlmer\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> There, Karlmer formalized the group&#x27;s new hierarchy…\u003cbr>\u003cb>Sibling transcript line 465:\u003c/b> There, Calmer formalized the group&#x27;s new hierarchy…\u003cbr>\u003cb>Note:\u003c/b> The sibling and campaign state both identify Calmer.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "zeph__zephyr", "t": "Correct \u003ccode>Zeph\u003c/code> to \u003ccode>Zephyr\u003c/code>", "y": "Add \u003ccode>Zeph\u003c/code> to \u003ccode>Zephyr\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Zeph\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Alright, what about you, Zeph,\u003cbr>\u003cb>Sibling transcript line 897, score 0.918:\u003c/b> All right. What about you, Zephyr?\u003cbr>\u003cb>Note:\u003c/b> Direct sibling confirmation.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "barcanar__barkinar", "t": "Correct \u003ccode>Barcanar\u003c/code> to \u003ccode>Barkinar\u003c/code>", "y": "Add \u003ccode>Barcanar\u003c/code> to \u003ccode>Barkinar\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Barcanar\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Barcanar, bearing fine wine, healing potions, and a trust of enchanted goods.\u003cbr>\u003cb>Sibling transcript line 468:\u003c/b> The arrival of Lucius Graeme, a cheerful middleman sent by Barkinar, bearing fine wine, healing potions, and a chest of enchanted goods.\u003cbr>\u003cb>Note:\u003c/b> The primary split one recap sentence into two cues; the sibling preserves it and names Barkinar.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "barcadmare__barkinar", "t": "Correct \u003ccode>Barcadmare\u003c/code> to \u003ccode>Barkinar\u003c/code>", "y": "Add \u003ccode>Barcadmare\u003c/code> to \u003ccode>Barkinar\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Barcadmare\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Lucius Graeme, a cheerful middleman, sent by Barcadmare.\u003cbr>\u003cb>Sibling transcript line 468:\u003c/b> The arrival of Lucius Graeme, a cheerful middleman sent by Barkinar, bearing fine wine, healing potions, and a chest of enchanted goods.\u003cbr>\u003cb>Note:\u003c/b> Direct sibling confirmation in the unbroken recap sentence.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "barker__barkinar", "t": "Correct \u003ccode>Barker\u003c/code> to \u003ccode>Barkinar\u003c/code>", "y": "Apply \u003ccode>Barker\u003c/code> to \u003ccode>Barkinar\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Barker\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> And it was appointed by Barker?\u003cbr>\u003cb>Sibling transcript line 3397, score 0.862:\u003c/b> It was appointed by Barkinar.\u003cbr>\u003cb>Note:\u003c/b> Use a targeted edit because &#x27;barker&#x27; is an ordinary English word and the glossary is case-insensitive.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "burkina__barkinar", "t": "Correct \u003ccode>Burkina\u003c/code> to \u003ccode>Barkinar\u003c/code>", "y": "Apply \u003ccode>Burkina\u003c/code> to \u003ccode>Barkinar\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Burkina\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> No, where&#x27;s Burkina?\u003cbr>\u003cb>Sibling transcript line 3343, score 0.800:\u003c/b> Where&#x27;s Barkinar?\u003cbr>\u003cb>Note:\u003c/b> Use a targeted edit to avoid a standing rule that could corrupt the real-world place name Burkina.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "voracol__vurakhal", "t": "Correct \u003ccode>Voracol\u003c/code> to \u003ccode>Vurakhal\u003c/code>", "y": "Add \u003ccode>Voracol\u003c/code> to \u003ccode>Vurakhal\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Voracol\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Voracol&#x27;s searing heat aura denied the creatures their regeneration…\u003cbr>\u003cb>Sibling transcript line 474:\u003c/b> Vorokal&#x27;s searing heat aura denied the creatures their regeneration…\u003cbr>\u003cb>Note:\u003c/b> The sibling has a different known wrong-form, Vorokal; the approved campaign spelling is Vurakhal.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "vorokal__vurakhal", "t": "Correct \u003ccode>Vorokal\u003c/code> to \u003ccode>Vurakhal\u003c/code>", "y": "Add \u003ccode>Vorokal\u003c/code> to \u003ccode>Vurakhal\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Vorokal\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> The party recruited Vorokal, a fire salamander…\u003cbr>\u003cb>Sibling transcript line 474:\u003c/b> The party recruited Vorokal, a fire salamander…\u003cbr>\u003cb>Note:\u003c/b> Both transcriptions repeat this wrong-form; campaign canon and the existing glossary identify Vurakhal.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "sequoiah__sequoia", "t": "Correct \u003ccode>Sequoiah\u003c/code> to \u003ccode>Sequoia\u003c/code>", "y": "Add \u003ccode>Sequoiah\u003c/code> to \u003ccode>Sequoia\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Sequoiah\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Alright, so… What about you, Sequoiah?\u003cbr>\u003cb>Sibling transcript line 879, score 0.932:\u003c/b> All right. So what about you, Sequoia?\u003cbr>\u003cb>Note:\u003c/b> Direct sibling confirmation.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "xena__zinnia", "t": "Correct \u003ccode>Xena\u003c/code> to \u003ccode>Zinnia\u003c/code>", "y": "Add \u003ccode>Xena\u003c/code> to \u003ccode>Zinnia\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Xena\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Ghoul, Ghoul, the Ghoul, gomez, Xena. You&#x27;re up.\u003cbr>\u003cb>Sibling transcript line 3193:\u003c/b> Zinnia. You&#x27;re up.\u003cbr>\u003cb>Note:\u003c/b> The timestamp-aligned sibling clearly calls Zinnia in initiative order.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "albert__owlbear", "t": "Correct \u003ccode>Albert\u003c/code> to \u003ccode>owlbear\u003c/code>", "y": "Add \u003ccode>Albert\u003c/code> to \u003ccode>owlbear\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Albert\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> After bypassing a chained Albert, they wisely chose to leave alone.\u003cbr>\u003cb>Sibling transcript line 477, score 0.962:\u003c/b> After bypassing a chained Albert, they wisely chose to leave alone.\u003cbr>\u003cb>Note:\u003c/b> Both ASRs agree on the wrong name. T1-4 area 217 explicitly has a chained owlbear, and the prior session discusses this owlbear repeatedly.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "brother_ulrichsvane__brother_eelrich_vane", "t": "Correct \u003ccode>Brother Ulrichsvane\u003c/code> to \u003ccode>Brother Eelrich Vane\u003c/code>", "y": "Add \u003ccode>Brother Ulrichsvane\u003c/code> to \u003ccode>Brother Eelrich Vane\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Brother Ulrichsvane\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> The party later raided Brother Ulrichsvane&#x27;s chambers and discovered his ritual texts.\u003cbr>\u003cb>Sibling transcript line 459:\u003c/b> The party later raided Brother Elric&#x27;s Vane&#x27;s chambers and discovered his ritual texts…\u003cbr>\u003cb>Note:\u003c/b> The prior session repeatedly names Brother Eelrich; the current sibling preserves Vane but mangles the first name.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "earth_s_temple__earth_temple", "t": "Correct \u003ccode>Earth&#x27;s Temple\u003c/code> to \u003ccode>Earth Temple\u003c/code>", "y": "Add \u003ccode>Earth&#x27;s Temple\u003c/code> to \u003ccode>Earth Temple\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Earth&#x27;s Temple\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Oh yeah, and how would the Earth&#x27;s Temple fix?\u003cbr>\u003cb>Sibling transcript line 2294, score 0.955:\u003c/b> Oh, yeah. And how would the Earth Temple fix?\u003cbr>\u003cb>Note:\u003c/b> Direct sibling confirmation.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "homlet__hommlet", "t": "Correct \u003ccode>Homlet\u003c/code> to \u003ccode>Hommlet\u003c/code>", "y": "Add \u003ccode>Homlet\u003c/code> to \u003ccode>Hommlet\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Homlet\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> …the Canon Turgeon of Homlet…\u003cbr>\u003cb>Sibling transcript line 1622:\u003c/b> …the canon Turjon of Homlet…\u003cbr>\u003cb>Note:\u003c/b> The T1-4 module spells the village Hommlet. Both transcripts dropped one m.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "turgeon__terjon", "t": "Correct \u003ccode>Turgeon\u003c/code> to \u003ccode>Terjon\u003c/code>", "y": "Add \u003ccode>Turgeon\u003c/code> to \u003ccode>Terjon\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Turgeon\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> …my experiences with the Canon Turgeon of Homlet…\u003cbr>\u003cb>Sibling transcript line 1622:\u003c/b> …my experiences with the canon Turjon of Homlet…\u003cbr>\u003cb>Note:\u003c/b> The module identifies Terjon as chief cleric of Hommlet. The scanner missed this token, but the contextual review caught it.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); glossary edit."}, {"id": "heart__hartsch", "t": "Correct \u003ccode>Heart\u003c/code> to \u003ccode>Hartsch\u003c/code>", "y": "Apply \u003ccode>Heart\u003c/code> to \u003ccode>Hartsch\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Heart\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Heart, Romag becomes the new head of the Earth Temple. Right? Hartsch becomes his number 2.\u003cbr>\u003cb>Sibling transcript:\u003c/b> Romag becomes the new head of the Earth Temple.\u003cbr>\u003cb>Note:\u003c/b> The next sentence names Hartsch as Romag&#x27;s number two. Use a targeted edit because &#x27;heart&#x27; is a common lowercase word.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); targeted edit."}, {"id": "bitty__new_canon", "t": "Treat \u003ccode>Bitty\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Bitty\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Bitty\u003c/code> as non-campaign speech and leave \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> Yeah, let&#x27;s keep looking at Bitty.\u003cbr>\u003cb>Sibling transcript line 1748, score 0.630:\u003c/b> You&#x27;re going to keep looking at the time.\u003cbr>\u003cb>Note:\u003c/b> Likely ASR noise for &#x27;the time&#x27;; no prior-session occurrence. Recommend Reject unless Bitty is a real name.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); known_set edit."}, {"id": "nick__new_known_name", "t": "Treat \u003ccode>Nick\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Nick\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Nick\u003c/code> as non-campaign speech and leave \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> And Nick&#x27;s on the wrong Zoom.\u003cbr>\u003cb>Sibling transcript line 82, score 1.000:\u003c/b> And Nick&#x27;s on the wrong Zoom.\u003cbr>\u003cb>Note:\u003c/b> Nick appears repeatedly in the prior session and is a real player alias. Approve to add it to the known-name staging file so it stops surfacing.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); known_set edit."}, {"id": "seth__south", "t": "Correct \u003ccode>Seth\u003c/code> to \u003ccode>South\u003c/code>", "y": "Apply \u003ccode>Seth\u003c/code> to \u003ccode>South\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Seth\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Seth? Huh?\u003cbr>\u003cb>Sibling transcript line 3475:\u003c/b> South?\u003cbr>\u003cb>Note:\u003c/b> The party is choosing a direction; use a targeted edit because Seth is also a real personal name.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "bissell__abyssal", "t": "Correct \u003ccode>Bissell\u003c/code> to \u003ccode>Abyssal\u003c/code>", "y": "Apply \u003ccode>Bissell\u003c/code> to \u003ccode>Abyssal\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Bissell\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Oh, you know who speaks of Bissell? I bet.\u003cbr>\u003cb>Sibling transcript line 708, score 0.778:\u003c/b> Oh, you know who speaks Abyssal?\u003cbr>\u003cb>Note:\u003c/b> A targeted cue edit will also remove the spurious &#x27;of&#x27;; this is not a standing name rule.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "brundrich__bandits", "t": "Correct \u003ccode>Brundrich\u003c/code> to \u003ccode>Bandits\u003c/code>", "y": "Apply \u003ccode>Brundrich\u003c/code> to \u003ccode>Bandits\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Brundrich\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Brundrich. Men in black cloaks, come here and attack Minotaur.\u003cbr>\u003cb>Sibling transcript line 1415:\u003c/b> Bandits, men in black cloaks, come here and attack Minotaur.\u003cbr>\u003cb>Note:\u003c/b> Direct timestamp-aligned sibling evidence; use a targeted edit.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "charlotte__new_canon", "t": "Treat \u003ccode>Charlotte\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Charlotte\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Charlotte\u003c/code> as non-campaign speech and leave \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> Why do you not help your brother? Charlotte? She has a new laptop…\u003cbr>\u003cb>Sibling transcript:\u003c/b> Why do you not help your brother? She has a new laptop…\u003cbr>\u003cb>Note:\u003c/b> The sibling has no word at this point. Recommend Reject unless Charlotte is a real person at the table.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); known_set edit."}, {"id": "christian__question", "t": "Correct \u003ccode>Christian\u003c/code> to \u003ccode>Question\u003c/code>", "y": "Apply \u003ccode>Christian\u003c/code> to \u003ccode>Question\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Christian\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Christian. I&#x27;ll mull it over.\u003cbr>\u003cb>Sibling transcript line 1628:\u003c/b> Question.\u003cbr>\u003cb>Note:\u003c/b> The sibling resolves this as the ordinary word &#x27;Question&#x27;; use a targeted edit because Christian is a real name.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "clepo__greater_temple", "t": "Correct \u003ccode>Clepo\u003c/code> to \u003ccode>Greater Temple\u003c/code>", "y": "Add \u003ccode>Clepo\u003c/code> to \u003ccode>Greater Temple\u003c/code> to the campaign glossary, then apply that pair to \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>.", "n": "Leave \u003ccode>Clepo\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> The Fire Temple, the Greater Temple has assets… Clepo.\u003cbr>\u003cb>Sibling transcript line 1808:\u003c/b> Great temple.\u003cbr>\u003cb>Note:\u003c/b> The established campaign term is Greater Temple; the sibling hears &#x27;Great temple&#x27; in the same cue.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); glossary edit."}, {"id": "fairleman__new_canon", "t": "Treat \u003ccode>Fairleman\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Fairleman\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Fairleman\u003c/code> as non-campaign speech and leave \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> While this is happening. Fairleman. [twenty-second pause] Well, this is happening…\u003cbr>\u003cb>Sibling transcript:\u003c/b> The sibling has no corresponding utterance during this pause.\u003cbr>\u003cb>Note:\u003c/b> No prior-session occurrence. Recommend Reject unless Fairleman is a real name.\u003cbr>\u003cb>Classification:\u003c/b> low confidence; 1 occurrence(s); known_set edit."}, {"id": "crimson_guard__new_canon", "t": "Treat \u003ccode>Crimson Guard\u003c/code> as a new campaign term", "y": "Keep \u003ccode>Crimson Guard\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and add the confirmed spelling to the campaign's canonical-name source. Include a note if the spelling should change.", "n": "Treat \u003ccode>Crimson Guard\u003c/code> as non-campaign speech and leave \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> unchanged.", "ev": "\u003cb>VTT context:\u003c/b> The Crimson Guard. Yeah, the Crimson Guard. Do you think they&#x27;re the right ones to be staffing these rooms?\u003cbr>\u003cb>Sibling transcript line 2237, score 0.988:\u003c/b> The Crimson Guard. Yeah, the Crimson Guard.\u003cbr>\u003cb>Note:\u003c/b> Both transcripts agree. T1-4 has no Crimson Guard faction, so this appears to be campaign-created canon.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); known_set edit."}, {"id": "fire_earth__temple_of_earth", "t": "Correct \u003ccode>Temple of Fire Earth\u003c/code> to \u003ccode>Temple of Earth\u003c/code>", "y": "Apply \u003ccode>Temple of Fire Earth\u003c/code> to \u003ccode>Temple of Earth\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Temple of Fire Earth\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> …a new educational system based off of the principles of the chaotic Temple of Fire Earth.\u003cbr>\u003cb>Sibling transcript line 2306, score 0.604:\u003c/b> …based off of the principles of the chaotic temple of Earth.\u003cbr>\u003cb>Note:\u003c/b> Remove the spurious &#x27;Fire&#x27; with a targeted phrase edit.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "lanquist__9_points_of_damage", "t": "Correct \u003ccode>Lanquist\u003c/code> to \u003ccode>9 points of\u003c/code>", "y": "Apply \u003ccode>Lanquist\u003c/code> to \u003ccode>9 points of\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Lanquist\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> And it hadn&#x27;t. Lanquist damage.\u003cbr>\u003cb>Sibling transcript line 3214:\u003c/b> And it had 9 points of damage.\u003cbr>\u003cb>Note:\u003c/b> The targeted correction will rewrite the full cue as &#x27;And it had 9 points of damage.&#x27;\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "manuel_lieberman__manual_labor", "t": "Correct \u003ccode>Manuel Lieberman\u003c/code> to \u003ccode>manual labor\u003c/code>", "y": "Apply \u003ccode>Manuel Lieberman\u003c/code> to \u003ccode>manual labor\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Manuel Lieberman\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Yeah, he&#x27;s… he&#x27;s founded Manuel Lieberman.\u003cbr>\u003cb>Sibling transcript line 2258, score 0.694:\u003c/b> Yeah, he&#x27;s fond of manual labor.\u003cbr>\u003cb>Note:\u003c/b> The targeted correction will also change &#x27;founded&#x27; to &#x27;fond of&#x27; in this cue.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "margot__calmer", "t": "Correct \u003ccode>Margot\u003c/code> to \u003ccode>Calmer\u003c/code>", "y": "Apply \u003ccode>Margot\u003c/code> to \u003ccode>Calmer\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Margot\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Alright, call Margot needs to roll a sailing throw…\u003cbr>\u003cb>Sibling transcript line 2841, score 0.882:\u003c/b> Alright. Calmer needs to roll a saving throw.\u003cbr>\u003cb>Note:\u003c/b> The targeted correction will rewrite the full cue, including &#x27;saving throw.&#x27;\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "nami__not_me", "t": "Correct \u003ccode>Nami\u003c/code> to \u003ccode>not me\u003c/code>", "y": "Apply \u003ccode>Nami\u003c/code> to \u003ccode>not me\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Nami\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Who can pick the lock? Sequoia. Nami. I can, yeah, I have thieves&#x27; tools.\u003cbr>\u003cb>Sibling transcript line 1931, score 0.960:\u003c/b> Sequoia. Nami. I can, yeah.\u003cbr>\u003cb>Note:\u003c/b> Both ASRs agree, but the turn-taking strongly reads &#x27;Sequoia. Not me.&#x27; Use a targeted edit; Discuss if Nami is an actual name.\u003cbr>\u003cb>Classification:\u003c/b> medium confidence; 1 occurrence(s); targeted edit."}, {"id": "cerocliff__armor_class", "t": "Correct \u003ccode>Cerocliff\u003c/code> to \u003ccode>armor class\u003c/code>", "y": "Apply \u003ccode>Cerocliff\u003c/code> to \u003ccode>armor class\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Cerocliff\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> What&#x27;s Cerocliff? It&#x27;s… the time for class is 14.\u003cbr>\u003cb>Sibling transcript line 2763:\u003c/b> What&#x27;s armor class? Its armor class is 14.\u003cbr>\u003cb>Note:\u003c/b> The targeted correction will clean the full exchange to &#x27;What&#x27;s armor class?&#x27;\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}, {"id": "yve__you", "t": "Correct \u003ccode>Yve\u003c/code> to \u003ccode>You\u003c/code>", "y": "Apply \u003ccode>Yve\u003c/code> to \u003ccode>You\u003c/code> only at the reviewed location in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code>; do not add a global glossary rule.", "n": "Leave \u003ccode>Yve\u003c/code> unchanged in \u003ccode>/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt\u003c/code> and ignore this pair.", "ev": "\u003cb>VTT context:\u003c/b> Okay. Yve. Right. You rolled a 33, right?\u003cbr>\u003cb>Sibling transcript line 1964:\u003c/b> Okay. You. All right. You rolled a 33, right?\u003cbr>\u003cb>Note:\u003c/b> Use a targeted edit because Yve could otherwise be a legitimate personal name.\u003cbr>\u003cb>Classification:\u003c/b> high confidence; 1 occurrence(s); targeted edit."}];
+var REVIEW_ID = "vtt-spell-pass:/home/kroussos/toee/toee/summaries/20260823/GMT20260823-150221_Recording.transcript (1).vtt";
+var OUTPUT_NAME = "vtt_spell_pass_decisions.json";
+
+var LABEL = {approve:"Approve", reject:"Reject", discuss:"Discuss"};
+
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+function readState(){
+  try { return JSON.parse(document.getElementById("state").textContent); }
+  catch(e){ return {decisions:{},notes:{},savedAt:null}; }
+}
+
+var state = readState();
+if(!state.decisions) state.decisions = {};
+if(!state.notes) state.notes = {};
+state.filter = 'all';
+state.search = '';
+try {
+  var stored = JSON.parse(localStorage.getItem('codex-review:' + REVIEW_ID) || '{}');
+  if(stored.decisions) state.decisions = stored.decisions;
+  if(stored.notes) state.notes = stored.notes;
+} catch(e) {}
+
+function persist(){
+  try { localStorage.setItem('codex-review:' + REVIEW_ID, JSON.stringify({decisions:state.decisions,notes:state.notes})); }
+  catch(e) {}
+}
+
+function counts(){
+  var c = {approve:0,reject:0,discuss:0};
+  ITEMS.forEach(function(it){ var d = state.decisions[it.id]; if(d) c[d]++; });
+  return c;
+}
+
+function render(){
+  var c = counts(), done = c.approve + c.reject + c.discuss;
+  var query = state.search.toLowerCase();
+  var visible = ITEMS.filter(function(it){
+    var choice = state.decisions[it.id] || '';
+    var filterMatch = state.filter === 'all' || (state.filter === 'unmarked' ? !choice : choice === state.filter);
+    var searchMatch = !query || [it.id,it.t,it.y,it.n,it.ev || ''].join(' ').toLowerCase().indexOf(query) !== -1;
+    return filterMatch && searchMatch;
+  });
+  var h = '';
+
+  h += '<div class="wrap">';
+  h += '<div class="top">';
+  h += '<div class="eyebrow">' + esc(EYEBROW) + '</div>';
+  h += '<h1>' + esc(TITLE) + '</h1>';
+  h += '<p class="lede">' + esc(LEDE) + '</p>';
+  h += '</div>';
+
+  h += '<div class="bar">';
+  h += '<span class="prog"><b>' + done + '</b> of ' + ITEMS.length + ' decided</span>';
+  h += '<span class="chips">';
+  if(c.approve) h += '<span class="chip a">' + c.approve + ' approve</span>';
+  if(c.reject)  h += '<span class="chip r">' + c.reject + ' reject</span>';
+  if(c.discuss) h += '<span class="chip d">' + c.discuss + ' discuss</span>';
+  h += '</span>';
+  h += '<span class="spacer"></span>';
+  h += '<input class="search" id="search" type="search" placeholder="Search findings" value="' + esc(state.search) + '">';
+  h += '<span class="filters">';
+  [['all','All'],['unmarked','Unmarked'],['approve','Approved'],['reject','Rejected'],['discuss','Discuss']].forEach(function(pair){
+    h += '<button class="filter" data-filter="' + pair[0] + '" aria-pressed="' + (state.filter === pair[0]) + '">' + pair[1] + '</button>';
+  });
+  h += '</span>';
+  h += '<button class="bulk" id="allDiscuss">Discuss all ' + ITEMS.length + '</button>';
+  h += '<button class="bulk" id="copy">Copy output</button>';
+  h += '<button class="save" id="save">Save output</button>';
+  h += '</div>';
+
+  h += '<div class="msg" id="msg" hidden></div>';
+
+  h += '<div class="items">';
+  visible.forEach(function(it){
+    var i = ITEMS.indexOf(it);
+    var d = state.decisions[it.id] || '';
+    h += '<div class="item"' + (d ? ' data-choice="' + d + '"' : '') + '>';
+    h += '<div class="item-head"><span class="num">' + (i+1 < 10 ? '0' : '') + (i+1) + '</span>';
+    h += '<h2>' + it.t + '</h2></div>';
+    h += '<div class="outcomes">';
+    h += '<div class="outcome y"><b>If approved</b>' + it.y + '</div>';
+    h += '<div class="outcome n"><b>If rejected</b>' + it.n + '</div>';
+    h += '</div>';
+    if(it.ev) h += '<p class="ev">' + it.ev + '</p>';
+    h += '<div class="choices">';
+    ['approve','reject','discuss'].forEach(function(k){
+      h += '<button class="ch" data-item="' + it.id + '" data-choice="' + k + '" aria-pressed="' +
+           (d === k ? 'true' : 'false') + '">' + LABEL[k] + '</button>';
+    });
+    h += '</div>';
+    h += '<input class="note" data-note="' + it.id + '" placeholder="Add a note for this one (optional)" value="' +
+         esc(state.notes[it.id] || '') + '"' + (d === 'discuss' || state.notes[it.id] ? '' : ' hidden') + '>';
+    h += '</div>';
+  });
+  if(!visible.length) h += '<div class="msg">No findings match this view.</div>';
+  h += '</div>';
+
+  h += '<div class="foot">';
+  if(FOOTER) h += '<p class="applied">' + esc(FOOTER) + '</p>';
+  h += 'Use Copy output to paste the rulings into chat, or Save output to download <code>' + esc(OUTPUT_NAME) + '</code>. ' +
+       'Unmarked findings remain unresolved; they are never treated as rejected.';
+  h += '</div>';
+  h += '</div>';
+
+  document.getElementById('app').innerHTML = h;
+  wire();
+}
+
+function flash(text, warn){
+  var m = document.getElementById('msg');
+  if(!m) return;
+  m.textContent = text;
+  m.className = warn ? 'msg warn' : 'msg';
+  m.hidden = false;
+}
+
+function wire(){
+  Array.prototype.forEach.call(document.querySelectorAll('.ch'), function(b){
+    b.addEventListener('click', function(){
+      var id = b.getAttribute('data-item'), k = b.getAttribute('data-choice');
+      state.decisions[id] = (state.decisions[id] === k) ? undefined : k;
+      if(!state.decisions[id]) delete state.decisions[id];
+      persist();
+      render();
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('.note'), function(n){
+    n.addEventListener('input', function(){
+      var id = n.getAttribute('data-note');
+      if(n.value) state.notes[id] = n.value; else delete state.notes[id];
+      persist();
+    });
+  });
+
+  var all = document.getElementById('allDiscuss');
+  if(all) all.addEventListener('click', function(){
+    ITEMS.forEach(function(it){ state.decisions[it.id] = 'discuss'; });
+    persist();
+    render();
+  });
+
+  var search = document.getElementById('search');
+  if(search) search.addEventListener('input', function(){
+    state.search = search.value;
+    render();
+    var next = document.getElementById('search');
+    if(next){ next.focus(); next.setSelectionRange(next.value.length, next.value.length); }
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('[data-filter]'), function(b){
+    b.addEventListener('click', function(){ state.filter = b.getAttribute('data-filter'); render(); });
+  });
+
+  var copy = document.getElementById('copy');
+  if(copy) copy.addEventListener('click', copyOutput);
+  var save = document.getElementById('save');
+  if(save) save.addEventListener('click', doSave);
+}
+
+function output(){
+  var c = counts();
+  var decisions = {}, notes = {}, unmarked = [];
+  ITEMS.forEach(function(it){
+    var choice = state.decisions[it.id];
+    if(choice) decisions[it.id] = choice; else unmarked.push(it.id);
+    if(state.notes[it.id]) notes[it.id] = state.notes[it.id];
+  });
+  return {
+    schemaVersion: 1,
+    reviewId: REVIEW_ID,
+    savedAt: new Date().toISOString().replace('T',' ').slice(0,16) + ' UTC',
+    decided: c.approve + c.reject + c.discuss,
+    tally: c,
+    decisions: decisions,
+    notes: notes,
+    discuss: ITEMS.filter(function(it){ return decisions[it.id] === 'discuss'; }).map(function(it){ return it.id; }),
+    unmarked: unmarked
+  };
+}
+
+function outputText(){ return JSON.stringify(output(), null, 2); }
+
+function copyOutput(){
+  var value = outputText();
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(value).then(function(){ flash('Decision output copied.'); }).catch(function(){ fallbackCopy(value); });
+  } else fallbackCopy(value);
+}
+
+function fallbackCopy(value){
+  var area = document.createElement('textarea');
+  area.value = value; area.style.position = 'fixed'; area.style.opacity = '0';
+  document.body.appendChild(area); area.select();
+  try {
+    if(document.execCommand('copy')) flash('Decision output copied.');
+    else window.prompt('Copy the decision output:', value);
+  } catch(e) { window.prompt('Copy the decision output:', value); }
+  area.remove();
+}
+
+function doSave(){
+  var blob = new Blob([outputText()], {type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var link = document.createElement('a');
+  link.href = url; link.download = OUTPUT_NAME;
+  document.body.appendChild(link); link.click(); link.remove();
+  URL.revokeObjectURL(url);
+  flash('Saved ' + OUTPUT_NAME + '.');
+}
+
+render();
+</script><script>new Function(document.getElementById("src").textContent)();</script></body></html>
