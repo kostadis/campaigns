@@ -1,3 +1,15 @@
+# Session Log — 2026-09-05 20:57
+
+---
+
+## VTT
+
+GMT20260830-150238_Recording.transcript.cleaned.vtt — 66,768 chars
+
+---
+
+## Summary
+
 # The Sleeper in the Iron Coffin
 
 Date: 2026-08-30
@@ -423,3 +435,52 @@ Cast by Zephyr against one of the surviving psychic predators during the storero
 ---
 
 *Exported from GMAssistant on 2026-09-05*
+
+---
+
+## Scenes
+
+1. The Missing Prisoners
+2. The Garbage Room and the Fire Temple
+3. The Supply Room Ambush
+4. Administrative Headaches and Departure Orders
+5. A Message from the Shadows
+6. Return to Nulb
+
+---
+
+## Batching
+
+ceiling: 32,000 tok
+requested: 6  skipped: 0  written: 6
+groups: 1  transcript transmissions: 1
+projected output: 14,987 tok
+
+---
+
+## Empty (no moments)
+
+(none)
+
+---
+
+## Not extracted
+
+(none)
+
+---
+
+## Group failures
+
+(none)
+
+---
+
+## Output files
+
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/01_the_missing_prisoners.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/02_the_garbage_room_and_the_fire_temple.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/03_the_supply_room_ambush.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/04_administrative_headaches_and_departure_orders.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/05_a_message_from_the_shadows.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/06_return_to_nulb.md

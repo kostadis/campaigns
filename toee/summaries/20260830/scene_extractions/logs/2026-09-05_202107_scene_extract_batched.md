@@ -1,3 +1,15 @@
+# Session Log — 2026-09-05 20:21
+
+---
+
+## VTT
+
+GMT20260830-150238_Recording.transcript.cleaned.vtt — 66,768 chars
+
+---
+
+## Summary
+
 # The Sleeper in the Iron Coffin
 
 Date: 2026-08-30
@@ -227,9 +239,13 @@ On the first muddy stretch of the river road, a Rhennee child from the river fol
 - Dren explains that the temple depends on a supply chain from Nulb and that someone must go there to repair it.
 - He asks the party to prioritize the Minotaur, the necromancer, or the growing body-disposal problem.
 - Dren notes that the dead are beginning to stink up the temple.
+- The party instructs him to feed usable bodies to the Minotaur and incinerate the rest before the necromancer can claim them.
+- Dren requests permission to use the Fire Temple’s salamander to help burn the bodies, and the party agrees.
 - Zephyr assigns protection of the armor depot to the Water Temple and the firewood depot to the Air Temple.
 - Dren reminds the party that Barkinar still awaits a decision concerning the Chest of Rao.
 - The group resolves to travel to Nulb the following morning to fix the broken supply chain.
+- Dren is granted authority to keep order and the Minotaur fed during their absence.
+- Sequoia makes the terms of that trust clear: “We trust you, but if you betray that trust, you know…”
 
 ### A Message from the Shadows
 
@@ -264,10 +280,7 @@ On the first muddy stretch of the river road, a Rhennee child from the river fol
 
 #### The party travels back to the village of Nulb, finding the town unchanged but receiving word that their enemies still believe them to be dead.
 
-- Before departing, the party gives Dren his standing orders: keep the Minotaur fed, maintain order, feed usable corpses to the Minotaur, and burn the rest before the necromancer can claim them.
-- Dren requests permission to use the Fire Temple’s salamander to help with the burning, and the party agrees.
-- Dren is granted authority to keep order in the party’s absence.
-- Sequoia makes the terms of that trust clear: “We trust you, but if you betray that trust, you know…”
+- Before departing, the party confirms Dren’s orders: keep the Minotaur fed, maintain order, feed usable corpses to the Minotaur, and burn the remaining bodies.
 - The party arrives in Nulb dressed discreetly, choosing not to announce its new status as temple lords.
 - Zephyr calls the approach “Power and subtlety.”
 - Calmer approves the decision and tells him, “Good choice. This is why I have made you Chief of Staff.”
@@ -423,3 +436,52 @@ Cast by Zephyr against one of the surviving psychic predators during the storero
 ---
 
 *Exported from GMAssistant on 2026-09-05*
+
+---
+
+## Scenes
+
+1. The Missing Prisoners
+2. The Garbage Room and the Fire Temple
+3. The Supply Room Ambush
+4. Administrative Headaches and Departure Orders
+5. A Message from the Shadows
+6. Return to Nulb
+
+---
+
+## Batching
+
+ceiling: 32,000 tok
+requested: 6  skipped: 0  written: 6
+groups: 1  transcript transmissions: 1
+projected output: 15,103 tok
+
+---
+
+## Empty (no moments)
+
+(none)
+
+---
+
+## Not extracted
+
+(none)
+
+---
+
+## Group failures
+
+(none)
+
+---
+
+## Output files
+
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/01_the_missing_prisoners.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/02_the_garbage_room_and_the_fire_temple.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/03_the_supply_room_ambush.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/04_administrative_headaches_and_departure_orders.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/05_a_message_from_the_shadows.md
+/home/kostadis/toee/toee/summaries/20260830/scene_extractions/06_return_to_nulb.md

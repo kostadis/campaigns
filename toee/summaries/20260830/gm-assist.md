@@ -183,7 +183,7 @@ Cast by Calmer to paralyze the furious creature that emerged from the burning ga
 A necrotic incantation cast by Calmer against the paralyzed creature in the garbage room, contributing to its defeat.
 
 ### Spirit Guardians
-Cast twice by Calmer during the storeroom ambush, summoning protective spirits that swirled in a fifteen-foot radius around him, dealing damage and slowing the psychic predators that failed their saving throws.
+Cast once by Calmer during the storeroom ambush, summoning protective spirits that swirled in a fifteen-foot radius around him, dealing damage and slowing the psychic predators that failed their saving throws. A claw broke his concentration for 8 damage and the spell was not re-established, despite an announced intention to recast.
 
 ### Word of Radiance
 Cast twice by Calmer during the storeroom ambush, releasing a burst of radiant energy that struck multiple surrounding enemies, forcing constitution saving throws and dealing damage to those who failed.

@@ -1,0 +1,279 @@
+consistency_check:
+  timestamp: "2026-09-05T20:58:00-07:00"
+  campaign: "toee (Temple of Elemental Evil)"
+  stage: "2 — scene extractions (the load-bearing stage)"
+  grouped: true
+  document_class: "scene extractions; ## Scene summary is gm-assist verbatim, ## Verbatim moments is tape"
+  report: "summaries/20260830/consistency_report_stage2_scenes.md"
+  config: "toee/consistency_config_absolute.yaml — MOVED to the campaign root this run, see notes"
+  issues_found: 34
+  count_method: >-
+    Counted '**Location**' inside each '## D' section of the grouped report: D01=2, D02=7, D03=8,
+    D04=7, D05=4, D06=5, cross-document=1 => 34. The single-document habit of `grep -c '^### '`
+    returns 0 on a grouped report and must not be used.
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-30"
+  chapter: "34 — The Sleeper in the Iron Coffin"
+
+  documents_checked:
+    - summaries/20260830/scene_extractions/01_the_missing_prisoners.md
+    - summaries/20260830/scene_extractions/02_the_garbage_room_and_the_fire_temple.md
+    - summaries/20260830/scene_extractions/03_the_supply_room_ambush.md
+    - summaries/20260830/scene_extractions/04_administrative_headaches_and_departure_orders.md
+    - summaries/20260830/scene_extractions/05_a_message_from_the_shadows.md
+    - summaries/20260830/scene_extractions/06_return_to_nulb.md
+
+  telemetry:
+    model_calls: 1
+    shared_context_chars: 425815
+    target_chars: 84961
+    repeated_context_chars_avoided: 2129075
+    note: >-
+      One grouped call, not six single-document ones. The distinction is invisible in the report
+      body, which is why it is recorded here.
+
+  run_attempts: |
+    FOUR attempts. The first three FAILED FAIL-CLOSED and wrote no report; none of them is the
+    run this manifest records.
+
+      1. claude-code / claude-fable-5 — "section D03 contains **Target text** not found verbatim
+         in that target: '\"May the blessing of the earth and God be with you.\"'"
+         The sentence IS in D03 (line 203) but embedded mid-line, so the model had trimmed its
+         excerpt and the leading quote no longer matched. NOT hand-repaired: the skill forbids
+         trimming an excerpt until it parses, because cross-scene misattribution is exactly what
+         this validation exists to catch.
+      2. claude-code / claude-fable-5 — "text outside section markers"
+      3. claude-code / claude-fable-5 — "text outside section markers" (regenerated scene set)
+      4. codex-cli / gpt-5.6-sol      — SUCCEEDED, 34 findings, valid section protocol.
+
+    DECLARED SHAPE CHANGE. Attempt 4 changed the MODEL and nothing else — same six documents in
+    the same order, same --context set, same grouped protocol, same CG_CONSISTENCY_MAX_TOKENS.
+    Attempts 2 and 3 were the same error on DIFFERENT document sets, so it is not input-specific.
+    The GM chose the model change explicitly rather than letting it happen silently; a per-scene
+    fallback was offered and declined because it audits something different.
+
+    NOT DIAGNOSED: what fable-5 actually emitted. check_consistency.py:222-225 catches
+    GroupedConsistencyProtocolError, prints the message and exits — the response text is in scope
+    and discarded, with no debug flag, env var or artifact. "It emitted prose outside the markers"
+    is an INFERENCE from the validator's rules, never an observation. Filed as
+    https://github.com/kostadis/CampaignGenerator/issues/377, which also notes that
+    campaignlib/consistency.py:227 and :266 raise the same message for two different causes.
+
+  sd_verify_quotes: |
+    Run before the grouped check, as the skill requires. Deterministic, no model.
+    Final run against the corrected tape: 799 quotes, 100% verified, 0 unverified, 0 refused.
+    R1 paired 17 spans across both sections: 11 consistent, 6 settled by the transcript, 0 refused.
+
+    READ NARROWLY. It answers "were these words said", NOT "did this person say them". It scored
+    667/667 = 100% on the ORIGINAL extraction, which was simultaneously carrying 390 misattributed
+    speaker labels. A 100% here is not evidence of correct attribution and was not treated as such.
+
+  vtt_adjudicated: |
+    Every one of the 34 findings was checked against the tape by cue number before reaching the GM.
+    A scripted pass confirmed all 29 claimed garbles occur verbatim in the raw tape: 29 found,
+    0 false claims. The report was accurate about what was there.
+
+  notes: |
+    CONFIG MOVED, and it matters for the earlier stages too. The throwaway absolute-path config had
+    been living in a scratchpad, and check_consistency.py:133 looks for
+    <base_dir>/docs/entity_registry.yaml where base_dir = config_path.parent — so the AUTHORITATIVE
+    CANON section was being silently SKIPPED. It is now at toee/consistency_config_absolute.yaml
+    and the canon section loads (context went from 9 documents / 341,841 chars to 10 / 425,815).
+    By the same deterministic code path this affected Stage 0 and Stage 1; that is stated from the
+    source, not observed, because only the tail of Stage 1's log was retained. The registry was
+    always present via --context, so it was never invisible — just not marked authoritative.
+
+resolution:
+  the_finding_the_report_could_not_make: |
+    SYSTEMIC ATTRIBUTION COLLAPSE, found by hand before the audit was ruled on.
+
+    Six scenes carried only FOUR speaker labels — the PCs — and ZERO GM or NPC labels, in scenes
+    describing Falrinth (24 mentions), Varek Solain (31), the Minotaur (16), Dren Halveth (25),
+    Skole and Lucius Graeme all speaking. Calmer held 390 attributions, more than the other three
+    PCs combined; 107 of them (27%) were demonstrably not Calmer — 44 glosses naming an NPC, 43
+    table mechanics, 21 referring to Calmer in the third person, 16 opening with GM narration.
+
+    Every other session distinguishes them: 20260510 GM x169; 20260524 [GM] x127; 20260614 [GM]
+    x88 AND [Calmer] x43 at this same table; 20260625 even [Brother Eelrich] x9. So this was a
+    regression, not a convention.
+
+    ROOT CAUSE, one missing boolean:
+      config/players.yaml kostadis entry had plays:[Calmer] and no gm: flag
+        -> speaker_map() pass 2 is `if not p.gm: continue`, so it never overwrote him
+        -> map resolved Kostadis Roussos -> Calmer
+        -> "Speaker labels rewritten: 1319 line(s)" BEFORE the extractor ran
+    campaignlib/players_config.py:91 documents this exact case as its motivating example:
+    "gm and plays are independent — toee's Calmer is a GM-played PC. For speaker labelling the
+    game-master label wins."
+
+    FIXED with `gm: true`; speaker_map now returns Kostadis Roussos -> GM. Output went from
+    390 **Calmer** / 0 **GM** to 473 **GM** / 0 **Calmer**, with the real speaker named in each
+    gloss ("as Varek", "as Dren, delivering the logistics report", "as the hooded figure").
+    Calmer remains distinguishable as a PC through those glosses, so nothing was lost.
+
+    NOTE ON THE FIRST RE-RUN: scene_extract skipped all six files ("Already extracted: 6
+    (skipped — pass --force to redo)", "Wrote 0 scene file(s)"). The speaker map was already
+    correct in that run's INPUT and never reached the output. --force was required.
+
+  my_own_error_that_the_audit_caught: |
+    D03 finding 1 challenged a fix I had applied at Stage 1, and it was right.
+
+    I had written that Calmer recast Spirit Guardians, spending a second third-level slot, in
+    three places in session-summary.md, on the strength of cue 1031 — "he's gonna go with Spirit
+    Guardians again". I never read what happened next. His turn went: Healing Word, move, Word of
+    Radiance, then "Okay, Zephyr. You're up." The spell was NEVER re-established. Exhaustive check:
+    the entire tape contains exactly TWO Spirit Guardians mentions — one real cast (cue 863) and
+    one abandoned intention (cue 1031).
+
+    Reverted in session-summary.md (3 places) and corrected in gm-assist.md, which had also said
+    "Cast twice". The Spells entry now records WHY, so it does not get "fixed" back.
+
+    Word of Radiance WAS genuinely cast twice — cues 3939 and 4191 by tape line, both resolving
+    with Constitution saves and damage (12, then 11) — and those entries were left alone. That is
+    the discipline I skipped on Spirit Guardians: confirm the announced cast actually RESOLVED.
+
+  gm_rulings: |
+    Delivered via the Stage 2 review ledger (artifact 2b341b37), exported to
+    ~/Downloads/stage2_rulings_20260830.json. 31 ruleable rows: the report's 34 findings minus
+    three D04/D06 duplicates folded into single rows, plus one row split (Europe x2), minus the
+    Spirit Guardians finding shown as already-resolved.
+
+    Tally: 24 accept (21 record + 3 scrub), 7 discuss-with-note.
+    All seven notes were unambiguous and were treated as the ruling, per the skill.
+
+  applied:
+    - id: "record x21"
+      fix: "21 ASR garbles written to transcript_corrections.yaml as cue entries"
+      basis: "All verified verbatim on the raw tape by cue number before being offered."
+      detail: >-
+        cues 146, 206, 469, 528, 644, 668, 863, 872, 875, 910, 1062, 1145, 1160, 1187, 1220, 1234,
+        1241, 1253, 1266, 1283, 1292. Fixed at the RECORD level rather than in the scene files, so
+        the cleaned tape is permanently better and every future pass inherits it; 21 hand-edits to
+        derived files would have been undone by the next extraction.
+    - id: G01
+      cue: 150
+      ruling: "the prisoners did not escape, died, and their corpses are gone — eaten or raised"
+      fix: "'they're not just missing, but they're corpses' -> 'they didn't escape - they were killed, and their corpses have been taken'"
+    - id: G02
+      cue: "201 and 202"
+      ruling: "West"
+      fix: >-
+        'East.' -> 'West.' on BOTH cues — Sequoia's answer at 201 and the GM's echo at 202. The GM
+        had offered south-west and south, so 'East' was the garble. Propagated to
+        session-summary.md ('led them east' -> 'led them west').
+    - id: G03
+      cue: 472
+      ruling: "Drop"
+      fix: "'I'll go next, Jim.' -> 'I'll go next.' — Jim is not a name."
+    - id: G04
+      cue: 394
+      ruling: "Drop"
+      fix: "'that's your plan, Dana?' -> 'that's your plan?' — Dana is not a name."
+    - id: G05
+      cue: 1116
+      ruling: "Dren Halveth"
+      fix: "'a blunt dread' -> 'Dren Halveth' — the garble was his entrance."
+    - id: G06
+      cue: 1124
+      ruling: "prep wins; the party learned he could do some, not all"
+      fix: >-
+        'I cannot solve… I… I can't solve any one of these.' -> 'I can solve any one of these.'
+        GM: "I was trying to say what we had in the prep. And mangled the dialogue."
+        Propagated to session-summary.md in two places (the prose quote and the Scenes bullet).
+    - id: X01
+      ruling: "scene D06 owns the departure-orders exchange"
+      fix: >-
+        FIXED AT THE SOURCE, not in the extraction. The duplication came from session-summary.md,
+        where BOTH scenes described the departure orders — scene 06 opened by restating what scene
+        04 had already covered — so the extractor pulled the same cues into each. Four bullets moved
+        from scene 04 to scene 06: the standing orders, Dren's salamander request, the grant of
+        authority, and Sequoia's "We trust you, but if you betray that trust, you know…".
+        Hand-editing the scene files would have been undone by the next extraction.
+      seam_repaired: >-
+        Moving the grant of authority orphaned Sequoia's line, which opens "the terms of THAT
+        trust" — scene 04 would have ended referring to something no longer in it. Moved with its
+        antecedent.
+      verified: "shared verbatim quotes between D04 and D06 went from 17 to 1, and that 1 is a bare \"Yeah.\""
+    - id: "scrub x3"
+      ruling: "accept — flag, do not replace"
+      fix: >-
+        cues 200, 750 (Nick) and 1265 (Thomas) recorded in summaries/20260830/scrub_flags.md.
+        They stay RAW in the record: a player's name is not a misspelling, and replacing it would
+        assert the GM addressed the character when he addressed the person. The glossary keeps a
+        "Players (real-world names — never replace, just flagged as known)" section for this.
+
+  record_state: |
+    transcript_corrections.yaml: 84 -> 109 corrections (25 added, 3 updated in place).
+    Updates rather than additions were required for cues 910, 1062 and 1283, which already carried
+    entries. Two fail-closed saves during application, both leaving the file untouched:
+      - cues 910/1062 already read "Zinnia, Europe" (Xenia was fixed earlier), so the find string
+        had to be the second half only;
+      - those two cues have IDENTICAL text, so a text-match edit was ambiguous and the writer had
+        to become entry-scoped.
+    sd_corrections check: 109 corrections, 109 still apply, all 1,319 cues explained, reproducible.
+
+  final_verification:
+    quotes: "799 verified, 100%, 0 unverified, 0 refused"
+    speaker_labels: "473 GM / 145 Zephyr / 129 Sequoia / 52 Zinnia — 0 Calmer misattributions"
+    glossary_sweep: "0 wrong-forms across all six scenes"
+    garble_residue: "0 — all 21 record fixes and 6 rulings present in the re-extracted scenes"
+    scene_overlap: "17 shared quotes -> 1"
+
+  carry_forward:
+    - id: CF1
+      status: PARTIAL
+      item: >-
+        Stage 2 is now COMPLETE — audited, ruled, applied at the record level, tape regenerated,
+        scenes re-extracted, re-verified. Stage 3 (narration) has still NOT RUN; narration/ does
+        not exist. CF1 stays open until it does.
+    - id: CF10
+      status: OPEN
+      item: "mempalace index stale for docs/chapters/. GM's job; no mempalace/mneme binary on this PATH."
+    - id: CF12
+      status: OPEN
+      item: "docs/campaign_state.md stale (ends ~Ch28, lists Alrrem alive). Regenerate, do not spot-edit."
+    - id: CF14
+      status: CLOSED
+      item: "All four character sheets marked as stale level-6 snapshots. Re-export from D&D Beyond remains the GM's."
+    - id: CF15
+      status: CLOSED
+      item: "voice/calmer_voice.md gained The Org Chart and the curriculum paragraph."
+    - id: CF17
+      status: OPEN
+      opened: "2026-09-05, stage 2"
+      item: >-
+        Scene 04 is still titled "Administrative Headaches and Departure Orders", but X01 moved the
+        departure orders into scene 06. The title over-promises. A scene title is the GM's to set,
+        so it was not renamed.
+    - id: CF18
+      status: OPEN
+      opened: "2026-09-05, stage 2"
+      item: >-
+        Residual split from X01: the salamander BULLET is in scene 06 per the ruling, but the
+        underlying QUOTE ("Can I use the Fire Temple salamander to help with the burning?") still
+        lands in scene 04, because the tape is one continuous stretch and that cue sits beside
+        "Burn all the bodies", which is genuinely scene 04's beat. Closing it would mean overriding
+        cue-level boundaries the extractor decides. Flagged, not chased.
+    - id: CF19
+      status: OPEN
+      opened: "2026-09-05, stage 2"
+      item: >-
+        CampaignGenerator issue #377 — grouped consistency fails the section protocol on
+        claude-fable-5, and the raw response is discarded so it cannot be diagnosed. Until it is
+        fixed, grouped Stage 2 runs in this campaign should use codex-cli / gpt-5.6-sol.
+    - id: CF20
+      status: OPEN
+      opened: "2026-09-05, stage 2"
+      item: >-
+        toee has no notes/scrub_register_policy.md. Three real-world player names surfaced in one
+        session; the standing ruling on whether and how they are scrubbed before sharing belongs in
+        that file.
+    - id: CF16
+      status: OPEN
+      item: >-
+        Nothing from this run is committed. Two commits sit unpushed on
+        kostadis/toee/20260905-ch34-remove-recap-and-stage1, and the working tree now also holds the
+        corrected tape, the 109-entry record, scrub_flags.md, the re-extracted scenes and their
+        .prev snapshots, both summary documents, config/players.yaml (my gm: true fix, tangled with
+        three of the GM's own config edits) and consistency_config_absolute.yaml.

@@ -362,7 +362,7 @@ corrections:
 - id: cue-0910
   cue: 910
   was: 'Kostadis Roussos: Xenia, Europe.'
-  now: 'Kostadis Roussos: Zinnia, Europe.'
+  now: 'Kostadis Roussos: Zinnia, you''re up.'
   recorded: *id001
   verified: true
   note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
@@ -425,7 +425,7 @@ corrections:
 - id: cue-1062
   cue: 1062
   was: 'Kostadis Roussos: Xenia, Europe.'
-  now: 'Kostadis Roussos: Zinnia, Europe.'
+  now: 'Kostadis Roussos: Zinnia, you''re up.'
   recorded: *id001
   verified: true
   note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
@@ -550,7 +550,7 @@ corrections:
 - id: cue-1283
   cue: 1283
   was: 'Kostadis Roussos: So as you''re heading back, smoke lies low over the river. The same barges lean at the same rod and piers. At the tavern doors, men are still arguing over which elemental prophet will win a war that ended beneath their feet 10 days ago. Null does not change. That is how you know nobody told it.'
-  now: 'Kostadis Roussos: So as you''re heading back, smoke lies low over the river. The same barges lean at the same rod and piers. At the tavern doors, men are still arguing over which elemental prophet will win a war that ended beneath their feet 10 days ago. Nulb does not change. That is how you know nobody told it.'
+  now: 'Kostadis Roussos: So as you''re heading back, smoke lies low over the river. The same barges lean at the same rotten piers. At the tavern doors, men are still arguing over which elemental prophet will win a war that ended beneath their feet 10 days ago. Nulb does not change. That is how you know nobody told it.'
   recorded: *id001
   verified: true
   note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
@@ -607,3 +607,178 @@ corrections:
   recorded: 2026-09-05
   verified: true
   note: 'GM ruling 2026-09-05 (staged-consistency stage 1). ASR garble: "52 feet" -> "52 damage". This is damage arithmetic, not movement: cue 516 is "43 damage?" and 43 + 9 = 52, which is the figure the recap reports. Left uncorrected, the only tape match for 52 is the word "feet", so a numeric audit reads the recap''s 52 as unsupported.'
+- id: cue-0146
+  cue: 146
+  was: 'Kostadis Roussos: Rule and investigation, religion check, whatever you guys want.'
+  now: 'Kostadis Roussos: Roll an Investigation, Religion check, whatever you guys want.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0206
+  cue: 206
+  was: 'Kostadis Roussos: Of refuge in the center of the room.'
+  now: 'Kostadis Roussos: Of refuse in the center of the room.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0469
+  cue: 469
+  was: 'Kostadis Roussos: Saving through, alright?'
+  now: 'Kostadis Roussos: Saving throw, alright?'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0528
+  cue: 528
+  was: 'Kostadis Roussos: Alright? Sequoia, Europe.'
+  now: 'Kostadis Roussos: Alright? Sequoia, you''re up.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0644
+  cue: 644
+  was: 'Kostadis Roussos: Roll in Insight or Chuck.'
+  now: 'Kostadis Roussos: Roll an Insight check.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0668
+  cue: 668
+  was: 'Kostadis Roussos: Did anybody roll in our camp?'
+  now: 'Kostadis Roussos: Did anybody roll Arcana?'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0863
+  cue: 863
+  was: 'Kostadis Roussos: Spirit Guardians, because that''s what you do if you''re a clerk.'
+  now: 'Kostadis Roussos: Spirit Guardians, because that''s what you do if you''re a cleric.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0872
+  cue: 872
+  was: 'Kostadis Roussos: And he is slewed.'
+  now: 'Kostadis Roussos: And he is slowed.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0875
+  cue: 875
+  was: 'Kostadis Roussos: And these guys also have to roll their sleeves.'
+  now: 'Kostadis Roussos: And these guys also have to roll their saves.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1145
+  cue: 1145
+  was: 'Thomas Kolivakis: assign… Protection of the arbor to the Water Temple.'
+  now: 'Thomas Kolivakis: assign… Protection of the armor to the Water Temple.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1160
+  cue: 1160
+  was: 'Thomas Kolivakis: Burn all the buddies.'
+  now: 'Thomas Kolivakis: Burn all the bodies.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1253
+  cue: 1253
+  was: 'Thomas Kolivakis: Keep barebone fed. Keep order.'
+  now: 'Thomas Kolivakis: Keep the Minotaur fed. Keep order.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1266
+  cue: 1266
+  was: 'Thomas Kolivakis: Just keep in bed, keep him fed.'
+  now: 'Thomas Kolivakis: Just keep him fed.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1187
+  cue: 1187
+  was: 'Kostadis Roussos: Rudder is an agent of mine who would come and tell you what''s going on.'
+  now: 'Kostadis Roussos: A runner is an agent of mine who would come and tell you what''s going on.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1220
+  cue: 1220
+  was: 'Kostadis Roussos: Then he goes, the trinket… then he pauses and looks at, Calmer. The trinket your cleric carob carries. The scarab with the forward letters.'
+  now: 'Kostadis Roussos: Then he goes, the trinket… then he pauses and looks at, Calmer. The trinket your cleric carries. The scarab with the four letters.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1234
+  cue: 1234
+  was: 'Kostadis Roussos: And then he says, as he''s starting to fade, he says one last thing. One more thing, since you''ll hold these wretch''s halls now. There is a room below, deep, forgotten, on the level beneath your feet.'
+  now: 'Kostadis Roussos: And then he says, as he''s starting to fade, he says one last thing. One more thing, since you''ll hold these wretched halls now. There is a room below, deep, forgotten, on the level beneath your feet.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1241
+  cue: 1241
+  was: 'Kostadis Roussos: the temple of… the temple… the orb of Golden Death. Either Falorinth has this thing, and he''s lying… he''s either lying, or he has it.'
+  now: 'Kostadis Roussos: the temple of… the temple… the orb of Golden Death. Either Falrinth has this thing, and he''s lying… he''s either lying, or he has it.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-1292
+  cue: 1292
+  was: 'Kostadis Roussos: Recognize you, and runs, shouting, FAMILY HAS A RETURNED!'
+  now: 'Kostadis Roussos: Recognize you, and runs, shouting, FAMILY HAS RETURNED!'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (accepted). ASR garble found by the grouped scene-extraction audit and verified verbatim on the tape by cue number.'
+- id: cue-0150
+  cue: 150
+  was: 'Kostadis Roussos: Alright. So, yes, in fact, they are missing, and as you look around, you realize that they''re not just missing, but they''re corpses.'
+  now: 'Kostadis Roussos: Alright. So, yes, in fact, they are missing, and as you look around, you realize that they didn''t escape - they were killed, and their corpses have been taken.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (Discuss note treated as the ruling). GM: the beat is the horror that the prisoners did not escape, died, and their corpses are gone - eaten, or raised.'
+- id: cue-0201
+  cue: 201
+  was: 'Nicholas Roussos: East.'
+  now: 'Nicholas Roussos: West.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (Discuss note treated as the ruling). GM ruled the direction is WEST; south-west and south were the options offered, so ''East'' was the garble.'
+- id: cue-0202
+  cue: 202
+  was: 'Kostadis Roussos: East.'
+  now: 'Kostadis Roussos: West.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (Discuss note treated as the ruling). GM echo of the same choice; see cue 201.'
+- id: cue-0472
+  cue: 472
+  was: 'george: I''ll go next, Jim.'
+  now: 'george: I''ll go next.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (Discuss note treated as the ruling). GM ruled ''Jim'' is not a name - drop it.'
+- id: cue-0394
+  cue: 394
+  was: 'Kostadis Roussos: Alright, that''s your plan, Dana? Alright.'
+  now: 'Kostadis Roussos: Alright, that''s your plan? Alright.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (Discuss note treated as the ruling). GM ruled ''Dana'' is not a name - drop it.'
+- id: cue-1116
+  cue: 1116
+  was: 'Kostadis Roussos: Alright, a blunt dread, he shows up with a little scroll, like, essentially a notepad.'
+  now: 'Kostadis Roussos: Alright, Dren Halveth, he shows up with a little scroll, like, essentially a notepad.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (Discuss note treated as the ruling). GM identified the garble as Dren Halveth''s entrance.'
+- id: cue-1124
+  cue: 1124
+  was: 'Kostadis Roussos: I cannot solve… I… I can''t solve any one of these. I cannot solve all three while pretending this is a normal command.'
+  now: 'Kostadis Roussos: I can solve any one of these. I cannot solve all three while pretending this is a normal command.'
+  recorded: 2026-09-05
+  verified: true
+  note: 'GM ruling 2026-09-05 via the Stage 2 review ledger (Discuss note treated as the ruling). GM: ''I was trying to say what we had in the prep. And mangled the dialogue. The party got the information he could do some not all things.'' Prep (nulb-knows-now.md) reads ''I can solve any one of those.'''

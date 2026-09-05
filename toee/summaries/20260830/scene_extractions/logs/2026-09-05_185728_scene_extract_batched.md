@@ -1,3 +1,15 @@
+# Session Log — 2026-09-05 18:57
+
+---
+
+## VTT
+
+GMT20260830-150238_Recording.transcript.cleaned.vtt — 66,798 chars
+
+---
+
+## Summary
+
 # The Sleeper in the Iron Coffin
 
 Date: 2026-08-30
@@ -8,7 +20,7 @@ Four prisoners were still chained somewhere in the temple, and the party had lef
 
 Zephyr proposed posting notices throughout the temple ordering anyone with information about the necromancer to report to the party. Calmer enthusiastically approved: “I think that’s a fantastic idea, Zephyr. As the Chief of Staff, I think you are responsible for all matters related to security operations. Produce an appropriate note, and I will sign it.” He then reconsidered and asked whether the initiative should properly belong to Zinnia as Chief of Security. Sequoia, meanwhile, was reminded that he was in charge of supplies — or, in his own words, “I’m in charge of getting shit done.” With Zinnia’s approval, Calmer instructed Zephyr to bring him something to sign.
 
-Rather than immediately returning to their offices, the party chose to finish exploring the remaining sections of their domain. Sequoia declared, “I’m a completionist,” and led them west into a refuse-filled chamber that had once been a secluded place of relaxation. It was now heaped with rotting garbage, dung, bones, and skulls, with parts of a bronze-bound coffer visible near the center. Concerned that the necromancer would use the remains, the party decided to burn the entire room.
+Rather than immediately returning to their offices, the party chose to finish exploring the remaining sections of their domain. Sequoia declared, “I’m a completionist,” and led them east into a refuse-filled chamber that had once been a secluded place of relaxation. It was now heaped with rotting garbage, dung, bones, and skulls, with parts of a bronze-bound coffer visible near the center. Concerned that the necromancer would use the remains, the party decided to burn the entire room.
 
 No one had a suitable fire spell — Calmer admitted this was a mistake, and laughed when Zephyr asked about Meteor Swarm — so Zephyr and Sequoia headed to the Fire Temple while Zinnia stayed behind to keep an eye on Calmer. Taking an unexplored dark corridor on the way, they emerged into familiar territory. Offered the choice of approaching Vurakhal directly, they went instead to the captain of the guard — Captain Varek Solain.
 
@@ -28,13 +40,13 @@ The creatures were nightmarish, gaunt, ape-like predators with ash-gray hides, f
 
 Zephyr acted first but missed both pistol shots. Zinnia and Sequoia concentrated their attacks on the same creature, while the predators unleashed psychic blasts against the entire party. Zinnia, Zephyr, and Calmer resisted; Sequoia failed the DC 17 Wisdom save, suffered 17 points of psychic damage, and was stunned. Calmer cast Spirit Guardians, creating a fifteen-foot aura that damaged and slowed several attackers.
 
-Zephyr’s next pistol attack, including sneak-attack damage, killed the already wounded predator. The others swarmed Calmer with as many as five claw attacks apiece, but his armor class of 21 — bolstered by the new Shield +1 — allowed only one blow through. He suffered 8 slashing damage and lost concentration on Spirit Guardians, while another creature missed him five times in succession. Calmer healed Sequoia after the wounded logistics chief pointedly suggested that the cleric could save him, then used Word of Radiance against the enemies clustered around him.
+Zephyr’s next pistol attack, including sneak-attack damage, killed the already wounded predator. The others swarmed Calmer with as many as five claw attacks apiece, but his armor class of 21 — bolstered by the new Shield +1 — allowed only one blow through. He suffered 8 slashing damage and lost concentration on Spirit Guardians — which he promptly recast — while another creature missed him five times in succession. Calmer healed Sequoia after the wounded logistics chief pointedly suggested that the cleric could save him, then used Word of Radiance against the enemies clustered around him.
 
 Zinnia slew a second creature, while Calmer continued alternating healing and radiant blasts. “Are you okay, Sequoia?” he called. When Sequoia answered, “I guess,” Calmer replied, “My guess is not an answer, yes or no.” Sequoia finally answered, “Maybe,” and warned, “Just don’t blame me when your logistics breaks down.” Calmer cast another Healing Word, restoring 14 hit points, then struck both nearby predators with another Word of Radiance.
 
 Zephyr used Chill Touch against one survivor, preventing it from regaining hit points, while Zinnia, newly reminded of his Stunning Strike technique, and Sequoia continued the assault. The two remaining predators finally disengaged and fled to a shadowed corner. Zephyr warned them, “You know where the boss is, okay? So, don’t ever… try to… anything again.” He then tried Undercommon, the one relevant tongue he has; no one in the party had Deep Speech, which is what these aberrations would have answered to. The creatures merely sneered, howled, hissed, and curled into the darkness.
 
-An exhausted and flustered Dren Halveth arrived shortly afterward, notepad in hand, to deliver a perfectly deadpan summary of the temple’s cascading administrative disasters. Addressing Zephyr, he reported, “I’ve been doing the supply check. The Minotaur has food for 3 days. The men have pay for 4. The dead have started leaving without permission. I can solve any one of these. I cannot solve all three while pretending this is a normal command.”
+An exhausted and flustered Dren Halveth arrived shortly afterward, notepad in hand, to deliver a perfectly deadpan summary of the temple’s cascading administrative disasters. Addressing Zephyr, he reported, “I’ve been doing the supply check. The Minotaur has food for 3 days. The men have pay for 4. The dead have started leaving without permission. I cannot solve… I… I can’t solve any one of these. I cannot solve all three while pretending this is a normal command.”
 
 Dren explained that supplies ordinarily came through Nulb, meaning someone would have to travel there and restore the supply chain. The party issued its orders: assign the armor depot to the Water Temple, assign the firewood depot to the Air Temple, burn corpses before the necromancer could claim them, and feed usable bodies to the Minotaur. Dren requested permission to use the Fire Temple’s salamander to help with the burning, and the party agreed. He also reminded them that Barkinar was still waiting for a decision about the Chest of Rao.
 
@@ -58,7 +70,7 @@ The next morning, the party traveled to Nulb dressed discreetly, choosing not to
 
 Smoke lay low over the river. The same barges leaned against the same rotting piers, and men at the tavern doors continued arguing over which elemental prophet would win a war that had ended beneath their feet ten days earlier. Nulb had not changed, which was how the party knew nobody had told it.
 
-On the first muddy stretch of the river road, a Rhennee child from the river folk the party had previously aided recognized them and ran shouting, “FAMILY HAS RETURNED!” As they entered the village, a dock hand pressed a folded note into Sequoia’s palm. It read, “Skole says the captain is still telling people you’re dead. He thought you might enjoy the update.” Captain Tolub — who had previously tried to kill them — remained convinced, or wanted everyone else convinced, that the party was dead. The game, it seemed, was far from over.
+On the first muddy stretch of the river road, a Rhennee child from the river folk the party had previously aided recognized them and ran shouting, “FAMILY HAS A RETURNED!” As they entered the village, a dock hand pressed a folded note into Sequoia’s palm. It read, “Skole says the captain is still telling people you’re dead. He thought you might enjoy the update.” Captain Tolub — who had previously tried to kill them — remained convinced, or wanted everyone else convinced, that the party was dead. The game, it seemed, was far from over.
 
 ## Memorable Moments
 
@@ -116,7 +128,7 @@ On the first muddy stretch of the river road, a Rhennee child from the river fol
 
 *The final words of Falrinth’s illusion before fading, hinting at a world-shaking secret buried beneath the party’s feet.*
 
-> “I’ve been doing the supply check. The Minotaur has food for 3 days. The men have pay for 4. The dead have started leaving without permission. I can solve any one of these. I cannot solve all three while pretending this is a normal command.”
+> “I’ve been doing the supply check. The Minotaur has food for 3 days. The men have pay for 4. The dead have started leaving without permission. I cannot solve… I… I can’t solve any one of these. I cannot solve all three while pretending this is a normal command.”
 > — Dren Halveth
 
 *An exhausted Dren Halveth arrives with his notepad to deliver a perfectly deadpan summary of the temple’s cascading administrative disasters.*
@@ -205,6 +217,7 @@ On the first muddy stretch of the river road, a Rhennee child from the river fol
 - The creatures focus their fury on Calmer, attacking with as many as five limbs at once.
 - Calmer’s armor class is 21 with the Shield +1. One creature hits him only once, while another misses all five attacks.
 - The successful claw deals 8 slashing damage and breaks Calmer’s concentration on Spirit Guardians.
+- Calmer recasts Spirit Guardians, spending a second third-level slot.
 - Zinnia takes 8 damage from another predator.
 - At Sequoia’s insistence, Calmer uses Healing Word, then casts Word of Radiance against the creatures surrounding him.
 - Zinnia kills the second predator after Zephyr leaves it with only 8 hit points.
@@ -223,13 +236,17 @@ On the first muddy stretch of the river road, a Rhennee child from the river fol
 
 - An exhausted and flustered Dren Halveth arrives with a small scroll or notepad and addresses Zephyr.
 - He reports, “The Minotaur has food for 3 days. The men have pay for 4. The dead have started leaving without permission.”
-- He adds, “I can solve any one of these. I cannot solve all three while pretending this is a normal command.”
+- He adds, “I cannot solve… I… I can’t solve any one of these. I cannot solve all three while pretending this is a normal command.”
 - Dren explains that the temple depends on a supply chain from Nulb and that someone must go there to repair it.
 - He asks the party to prioritize the Minotaur, the necromancer, or the growing body-disposal problem.
 - Dren notes that the dead are beginning to stink up the temple.
+- The party instructs him to feed usable bodies to the Minotaur and incinerate the rest before the necromancer can claim them.
+- Dren requests permission to use the Fire Temple’s salamander to help burn the bodies, and the party agrees.
 - Zephyr assigns protection of the armor depot to the Water Temple and the firewood depot to the Air Temple.
 - Dren reminds the party that Barkinar still awaits a decision concerning the Chest of Rao.
 - The group resolves to travel to Nulb the following morning to fix the broken supply chain.
+- Dren is granted authority to keep order and the Minotaur fed during their absence.
+- Sequoia makes the terms of that trust clear: “We trust you, but if you betray that trust, you know…”
 
 ### A Message from the Shadows
 
@@ -264,10 +281,7 @@ On the first muddy stretch of the river road, a Rhennee child from the river fol
 
 #### The party travels back to the village of Nulb, finding the town unchanged but receiving word that their enemies still believe them to be dead.
 
-- Before departing, the party gives Dren his standing orders: keep the Minotaur fed, maintain order, feed usable corpses to the Minotaur, and burn the rest before the necromancer can claim them.
-- Dren requests permission to use the Fire Temple’s salamander to help with the burning, and the party agrees.
-- Dren is granted authority to keep order in the party’s absence.
-- Sequoia makes the terms of that trust clear: “We trust you, but if you betray that trust, you know…”
+- Before departing, the party confirms Dren’s orders: keep the Minotaur fed, maintain order, feed usable corpses to the Minotaur, and burn the remaining bodies.
 - The party arrives in Nulb dressed discreetly, choosing not to announce its new status as temple lords.
 - Zephyr calls the approach “Power and subtlety.”
 - Calmer approves the decision and tells him, “Good choice. This is why I have made you Chief of Staff.”
@@ -275,7 +289,7 @@ On the first muddy stretch of the river road, a Rhennee child from the river fol
 - Smoke lies low over the river, and the same barges lean against the same rotting piers.
 - Men at the tavern doors still argue over which elemental prophet will win a war that ended beneath their feet ten days ago.
 - Nulb’s failure to change confirms that no one has told the village what happened inside the temple.
-- A child from the Rhennee river folk recognizes the party and runs shouting, “FAMILY HAS RETURNED!”
+- A child from the Rhennee river folk recognizes the party and runs shouting, “FAMILY HAS A RETURNED!”
 - A dock hand presses a folded note into Sequoia’s hand from an informant named Skole.
 - The note says, “Skole says the captain is still telling people you’re dead. He thought you might enjoy the update.”
 - Captain Tolub, who previously attempted to kill the party, is still spreading the claim that they are dead.
@@ -406,7 +420,7 @@ A necrotic incantation cast by Calmer against the paralyzed creature in the garb
 
 ### Spirit Guardians
 
-Cast **once** by Calmer during the Greater Temple storeroom ambush, summoning protective spirits in a fifteen-foot radius. The aura damaged and slowed psychic predators that failed their saves. A claw slipped through his armor for 8 damage and broke his concentration. The spell was **not** re-established: the GM said Calmer would go with it again, but his next turn went to Healing Word and then Word of Radiance instead. One third-level slot, not two.
+Cast **twice** by Calmer during the Greater Temple storeroom ambush, summoning protective spirits in a fifteen-foot radius. The aura damaged and slowed psychic predators that failed their saves. A claw slipped through his armor for 8 damage and broke his concentration; he recast it immediately, spending a second third-level slot.
 
 ### Word of Radiance
 
@@ -423,3 +437,47 @@ Cast by Zephyr against one of the surviving psychic predators during the storero
 ---
 
 *Exported from GMAssistant on 2026-09-05*
+
+---
+
+## Scenes
+
+1. The Missing Prisoners
+2. The Garbage Room and the Fire Temple
+3. The Supply Room Ambush
+4. Administrative Headaches and Departure Orders
+5. A Message from the Shadows
+6. Return to Nulb
+
+---
+
+## Batching
+
+ceiling: 32,000 tok
+requested: 0  skipped: 6  written: 0
+groups: 0  transcript transmissions: 0
+projected output: 0 tok
+
+---
+
+## Empty (no moments)
+
+(none)
+
+---
+
+## Not extracted
+
+(none)
+
+---
+
+## Group failures
+
+(none)
+
+---
+
+## Output files
+
+
