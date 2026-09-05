@@ -1,0 +1,41 @@
+# Session-local player identity override for 2025-08-12 (Tower of Storms).
+# NOT the campaign config. Passed via --players-config for this session only.
+#
+# Why: Stephane was absent and Gary ran BOTH Valphine and Brewbarry. This was
+# established acoustically (/speaker-attribution, 2026-09-03): Brewbarry and
+# Valphine vocatives both resolve to the same diarization cluster (SPEAKER_02 =
+# Gary), at 84.8% cross-clustering agreement. Without this override every
+# Brewbarry line collapses into the Valphine label.
+players:
+- id: stphane
+  name: Stéphane Bourdeaud
+  display_names:
+  - Stéphane Bourdeaud
+  plays:
+  - Brewbarry
+  active: false          # absent this session; kept so old transcripts still resolve
+- id: gary
+  name: Gary Young
+  display_names:
+  - Gary Young
+  plays:
+  - Valphine Sotorra
+  - Brewbarry            # covered for Stéphane this session
+- id: wade
+  name: Wade Brown
+  display_names:
+  - Wade Brown
+  plays:
+  - Soma
+- id: david
+  name: David Mendenhall
+  display_names:
+  - David Mendenhall
+  plays:
+  - Vukradin
+- id: kostadis
+  name: Kostadis Roussos
+  display_names:
+  - Kostadis Roussos
+  plays: []
+  gm: true

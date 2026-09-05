@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-03T21:21:00",
+  "transcript": "summaries/20250812-chapter-08/session_20250812.displaynames.vtt",
+  "threshold": 0.85,
+  "min_tokens": 4,
+  "artifacts": [
+    "summaries/20250812-chapter-08/gm-assist.md"
+  ],
+  "counts": {
+    "verified": 1,
+    "near": 0,
+    "unverified": 0,
+    "unscored": 0,
+    "exempt": 0
+  },
+  "refusals": {
+    "total": 0,
+    "by_rule": {
+      "R1": 0,
+      "R3": 0
+    }
+  },
+  "not_checked": [
+    "Inline `\"\u2026\"` spans in prose \u2014 not reliably dialogue (a plaque honouring the \"liberators of the Ordning\" is a label, not speech). Only `> \"\u2026\"` blockquotes are verified.",
+    "Speaker attribution. This report answers *were these words said*, not *did this person say them*."
+  ],
+  "claims": {
+    "summaries/20250812-chapter-08/gm-assist.md": "verbatim"
+  }
+}

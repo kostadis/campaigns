@@ -1,0 +1,365 @@
+consistency_check:
+  timestamp: '2026-09-04T00:15:00-07:00'
+  campaign: Phandalin
+  stage: 'Stage 2 of /staged-consistency — scene extractions (the load-bearing stage)'
+  document_class: per-scene verbatim extractions + copied enriched scene summaries
+  grouped: true
+  report: summaries/20250812-chapter-08/consistency_report_stage2_scenes.md
+  config: /home/kroussos/Phandalin/Phandalin/.consistency-config.tmp.yaml
+  backend: claude-code
+  model: claude-fable-5
+  session_date: '2025-08-12'
+  session_prep_used: false
+  entity_registry_used: true
+  issues_found: 41
+  issues_plus_open_queue: 42
+
+  documents_checked:
+    - {id: D01, path: summaries/20250812-chapter-08/scene_extractions/01_silence_at_the_tower_of_storms.md}
+    - {id: D02, path: summaries/20250812-chapter-08/scene_extractions/02_the_battle_of_the_parapet.md}
+    - {id: D03, path: summaries/20250812-chapter-08/scene_extractions/03_the_battle_of_the_harpies_continues.md}
+    - {id: D04, path: summaries/20250812-chapter-08/scene_extractions/04_the_harpy_s_end.md}
+    - {id: D05, path: summaries/20250812-chapter-08/scene_extractions/05_exploring_the_tower_of_storms.md}
+    - {id: D06, path: summaries/20250812-chapter-08/scene_extractions/06_showdown_with_moesko.md}
+
+  grouped_run_notes: |
+    One model call over all six scene documents. Exit 0, so the script's fail-closed
+    protocol validation passed: six sections present, in the order passed, none
+    nested/duplicated/empty, and every scene finding's **Target text** excerpt was
+    verified to occur verbatim in the scene it was attributed to. No auto-continuation
+    warning, no seam.
+
+    The script's telemetry line did not appear in the captured stdout (the report body
+    streamed over it), so model_calls / shared_context_chars / target_chars /
+    repeated_context_chars_avoided are NOT recorded for this run. Recording that gap
+    rather than inventing the numbers. What IS evidenced: one invocation, exit 0, and
+    a `## Cross-document findings` section, which only the grouped path produces.
+
+    Counting: `grep -c "^### "` returns 0 on a grouped report (findings are not
+    `### `-headed). Counted `**Location**` per `## D` section instead:
+    D01 6, D02 6, D03 3, D04 5, D05 7, D06 9 = 36 scene findings, plus 5 cross-scene.
+
+  sources:
+    auto_loaded:
+      - {label: campaign_state, path: docs/campaign_state.md}
+      - {label: world_state, path: docs/world_state.md}
+    context:
+      - {path: docs/party.md, role: PCs (campaign-standard)}
+      - {path: docs/entity_registry.yaml, role: canonical entities + aliases (campaign-standard)}
+      - {path: notes/vtt_transcription_corrections.md, role: ASR garble glossary (campaign-standard)}
+      - {path: notes/vtt_known_additions.md, role: unpromoted confirmed names (campaign-standard)}
+      - {path: summaries/20250812-chapter-08/gm-assist.md, role: first-pass artifact (preserved; see Stage 1 carry_forward)}
+      - {path: summaries/20250812-chapter-08/session-summary.md, role: enhanced recap — the actual source of the copied scene summaries}
+      - {path: docs/chapters/chapter_10_the_tower_of_storms_echoes_art_and_the_serpent_s_coil.md, role: bible chapter for this session}
+    consulted_by_hand:
+      - path: summaries/20250812-chapter-08/session_20250812.partialmap.vtt
+        role: >-
+          THE transcript these extractions were generated from. Read by hand, NOT a
+          --context input. Every flagged quote was located in it by line number.
+
+  config_note: |
+    CLOSES the Stage 1 carry_forward NOTE. The throwaway absolute-path config was moved
+    out of the scratchpad and into the campaign root (.consistency-config.tmp.yaml), so
+    base_dir resolved to the campaign and check_consistency.py's canon section ran for
+    the first time in this staged run. No "skipping canon section" warning appeared.
+
+  speaker_map: |
+    Stéphane absent; Gary Young voiced BOTH Valphine and Brewbarry. The extraction ran
+    against a partial map — GM/Vukradin/Soma rewritten, `Gary Young:` deliberately left
+    intact — because the deterministic rewriter's speaker_map() is a dict[str,str] and
+    would have collapsed all 236 of Gary's lines onto Valphine. See scene_extractions/
+    PROVENANCE.md. 58 Gary Young blocks and 34 UNKNOWN blocks remain unassigned.
+
+  quote_verification: |
+    sd_verify_quotes was ALREADY GREEN before this stage and was not re-run:
+    scene_extractions/quote_report.md — 947/947 verified, 0 near, 0 unverified,
+    0 unscored, 0 exempt. Extraction contract R1 scanned 28 dual-carried spans
+    (22 consistent, 6 settled by the transcript), R3 scanned clean; 0 refused.
+
+    Read narrowly. The tool's two stated exclusions are exactly where this stage's real
+    defects lived: inline "..." prose is unchecked, and speaker attribution is unchecked
+    entirely. Six of the eight highest-value findings here are attribution or placement
+    errors, all invisible to it.
+
+    RE-RUN AFTER ALL STAGE 2 FIXES AND THE GARY YOUNG RELABEL (quote_report_post_gary.md):
+    924 verified, 1 unscored, 0 near, 0 unverified, 0 refused; R1 28 spans, 0 refused.
+    READ THE COVERAGE CHANGE, not just the percentage. The scored population fell from
+    947 to 925 because 21 quote lines now carry a "*(raw capture: ...)*" repair note and
+    drop out of scoring. That is correct - a repaired quote is deliberately NOT verbatim
+    and must not be scored against the tape - but it means those 21 lines are no longer
+    covered by the verifier and rest on the Stage 2 adjudication alone. The relabel
+    itself touched only speaker header lines, never quote text.
+
+    RE-RUN AFTER THE UNKNOWN PASS (quote_report_post_unknown.md): identical —
+    924 verified, 1 unscored, 0 near, 0 unverified, 0 refused. Both relabel passes
+    touched only speaker header lines, so the quote population is unchanged.
+
+  vtt_adjudicated: |
+    Every flagged quote was located in session_20250812.partialmap.vtt by line number and
+    is VERBATIM. That is the run's most important structural result: the extraction pass
+    is faithful, so all twelve "garble" findings are ASR errors in the source recording,
+    not pipeline damage, and every "correct the quote" fix below is a repair-with-note of
+    a transcription error rather than a correction of the extractor.
+
+    THE 12-DAMAGE CLAW (S2-5 / X-5) — the report could only say "GM ruling required
+    (check the tape)". The tape settles it. Scene 02's own quotes have Harpy 3 MISSING
+    Vukradin ("And attacks you." / "And misses."). The hit is at l.4255-4259, 00:51:01:
+        UNKNOWN:  "So 12 damage on me."
+        Vukradin: "Down to nine."
+    That timestamp is inside scene 03, and the drop to nine is the arithmetic bridge to
+    scene 03's quoted "Vukradin with three hit points". The bullet was asserting a
+    scene-03 event one scene early, in BOTH the scene extraction and session-summary.md.
+    Note the tape's own label is UNKNOWN and the speaker is Dave reporting damage taken,
+    not the GM dealing it.
+
+    THREE DIARIZATION ERRORS, each with its own tell on tape:
+    1. l.2895-2899 — the GM opens "Harpy 2 is going to start." and the label FLIPS
+       mid-sentence to Soma for the completion, which narrates what the harpy is
+       convinced of. Only the GM can narrate that. Classic Zoom mid-sentence flip.
+    2. l.5771-5779 — the GM says "Let me just read you the description of this area",
+       and the Plateau (T2) boxed text then runs across THREE labels: Vukradin, UNKNOWN,
+       UNKNOWN. A PC is not reading module boxed text.
+    3. l.6151-6155 — one Vukradin block proposes Mold Earth and rejects it in
+       consecutive lines. Soma has the spell; the block merges two speakers.
+
+    THE SANTORINI REVERSAL — the run's most consequential finding, and it OVERTURNS a
+    Stage 1 ruling. See carry_forward.
+
+  resolution:
+    reviewed_by: GM
+    reviewed: '2026-09-04'
+    review_mechanism: >-
+      Interactive HTML artifact (42 cards, Accept/Reject/Discuss + note field), published
+      with the downloads capability; rulings exported as JSON and applied from that file.
+      https://claude.ai/code/artifact/6e87b498-156a-4be4-b0e6-92847d191129
+    gm_rulings_summary: '36 accept, 0 reject, 6 discuss — all six discuss notes were unambiguous rulings and were applied directly without a second round of questions.'
+
+    applied_from_discuss_notes:
+      - finding: S1-2
+        note: '"1951 - 4d6"'
+        fix: '"Vorticle damage even." / "4-6" -> "Critical damage even." / "4d6." My proposed reading was "For 6"; the GM corrected it to 4d6.'
+      - finding: S4-3
+        note: '"5555 was said by Brewbarry"'
+        fix: '"I would like to retrieve my hand axes" reattributed from Soma to Gary Young voicing Brewbarry.'
+      - finding: S4-4
+        note: '"5571 - voice is brewbarry"'
+        fix: '"I have a whole armory of hand axes available" split out of the Vukradin block into a Gary Young / Brewbarry block.'
+      - finding: S5-4
+        note: '"It was all soma"
+                — REJECTS the reattribution. My recommendation (lean GM) was wrong.'
+        fix: 'NO EDIT. The potion-of-water-breathing reveal stays with Soma. Recorded as a reviewer miss: I read a loot reveal as necessarily GM-side, but Wade was riffing on a find the GM had already granted, which is what the joke-then-reveal run on one label was actually showing.'
+      - finding: S6-6
+        note: '"Centrini is a garble of Santorini where i was physically"'
+        fix: '"Centrini" x2 -> "Santorini" in the scene extraction, and the Stage 1 edit REVERSED in session-summary.md. See carry_forward.'
+      - finding: S6-9
+        note: '"The GM, me, had pulled the wrong icon onto the roll20 screen for Soma, that of a spider. Wade as soma corrected me and said soma was a bear"'
+        fix: 'The bear and its 11 hit points are CORRECT as written. Added the icon mix-up as context rather than annotating the number as suspect. Both the report and I had this backwards.'
+
+    applied:
+      - {finding: S1-1, fix: '"the hell bird" -> "the halberd" + raw-capture note.'}
+      - {finding: S1-3, fix: '"On harpy number oceans" -> "harpy number two" + note (GM accepted the proposed reading).'}
+      - {finding: S1-4, fix: 'Charm-save chronology corrected: the saves are called AFTER the shot resolves. Applied in the scene AND session-summary.md.'}
+      - {finding: S1-5, fix: '"at 60-foot range" -> "with a 60-foot-range spell (the harpy was only 10 feet away)". Both docs.'}
+      - {finding: S1-6, fix: 'Gloss split so the timezone yawn joke is not read as harpy narration. Chatter kept per register policy.'}
+      - {finding: S2-1, fix: 'THREE errors in one clause. "his 7-damage hit on Harpy 2 shatters its concentration" -> "his 6-damage hit on Harpy 3 stops that harpy howling", with Valphine''s 7-damage shot noted as HELD concentration. Both docs.'}
+      - {finding: S2-2, fix: 'Unsupported "critical hit and disrupting its focus" bullet deleted from scene 02 and session-summary.md.'}
+      - {finding: S2-3, fix: 'Harpy 2 narration reattributed to the GM; "Good job." split out into its own Soma block.'}
+      - {finding: S2-4, fix: '"Ah, fiddle six." -> "Ah, fiddlesticks." + raw-capture note.'}
+      - {finding: S2-5, fix: 'The 12-damage claw MOVED from scene 02 to scene 03, in the scene extractions AND in session-summary.md''s Scenes section. See vtt_adjudicated.'}
+      - {finding: S2-6, fix: '"RB3 screeches" -> "Harpy 3 screeches" + note.'}
+      - {finding: S3-1, fix: '"RP one" -> "Harpy 1", "RP3" -> "Harpy 3" + notes. Enumerated and read individually; no global replace.'}
+      - {finding: S3-2, fix: 'Brewbarry''s save annotated with the table''s re-read ("a 4, re-read as a 5"); either fails the DC 11.'}
+      - {finding: S3-3, fix: 'TAG ONLY — quote left verbatim, HTML comment added flagging "Dave" for /scrub. No text changed.'}
+      - {finding: S4-1, fix: '"with my helmet" -> "with my halberd" + note. (The Dread Helm is an Axeholm find many chapters later, so "helmet" could not be a real item reference.)'}
+      - {finding: S4-2, fix: 'Scene-04 bullet trimmed to its own crit; Harpy 2''s death returned to the scenes carrying its quotes. Both docs.'}
+      - {finding: S4-5, fix: '"That''s X save" -> "That''s a Dex save" + note.'}
+      - {finding: S5-1, fix: '"Krabby McGee" -> "Crabby McGee" + note. THIS WAS LIVE PROPAGATION — Stage 1 fixed the recap and the scene still carried the error.'}
+      - {finding: S5-2, fix: 'Plateau (T2) boxed text reattributed to the GM, including the two UNKNOWN continuation blocks.'}
+      - {finding: S5-3, fix: 'Mold Earth block split: the proposal to Soma, the scepticism to Vukradin.'}
+      - {finding: S5-5, fix: 'Nest torching reattributed from Valphine to Vukradin. Applied in the scene, session-summary.md''s Scenes bullet, AND its Summary prose paragraph.'}
+      - {finding: S5-6, fix: 'Altar/window geography untangled. Applied in the scene, session-summary.md''s Scenes bullet, AND its Items > Stone Altar entry.'}
+      - {finding: S5-7, fix: '"the green tower" -> "the green light" + a note recording both the garble and that this is a live GM slip toward the T9 reveal.'}
+      - {finding: S6-1, fix: '"Thunder Wave." -> "Thunderwave." (glossary-settled).'}
+      - {finding: S6-2, fix: '"Kostas" x3 -> "Kostadis" + notes + /scrub tags, in the scene extraction AND session-summary.md (2 more occurrences there).'}
+      - {finding: S6-3, fix: '"Myral the Sea Elf" -> "Miraal the Sea Elf" + note. Did NOT resolve toward Meril — the registry keeps them strictly distinct.'}
+      - {finding: S6-4, fix: '"44 each time" -> "4d4" + note.'}
+      - {finding: S6-5, fix: '"2v8" -> "2d8" + note.'}
+      - {finding: S6-7, fix: 'Poison spray and the DC 13 Wisdom save split into two clauses. Both docs.'}
+      - {finding: S6-8, fix: '"a across fobolt" -> "a crossbow bolt" + note.'}
+      - {finding: X-1, fix: 'All six "## Scene summary (from gm-assist, verbatim)" headers corrected to name session-summary.md. Verified all six.'}
+      - {finding: X-2, fix: 'Bardic-inspiration sortie duplicate stripped from scene 02; kept in scene 03 where its quotes are. Ruled with S2-1.'}
+      - {finding: X-3, fix: 'Valphine crit duplicate stripped from scene 02; kept in scene 01. No concentration break recorded anywhere. Ruled with S2-2.'}
+      - {finding: X-4, fix: 'Harpy 2 death sequence confined to scenes 02-03. Ruled with S4-2.'}
+      - {finding: X-5, fix: 'Same decision as S2-5, evidenced on tape rather than assumed.'}
+
+    rejected:
+      - finding: S5-4
+        ruling: 'GM: "It was all soma." No edit.'
+        rationale: >-
+          The report and I both read the potion reveal as GM-side information because the
+          potion is module treasure at T5. The tape's label was right and we were wrong.
+          A loot mention is not automatically GM speech.
+
+  propagation:
+    performed: true
+    files_swept:
+      - summaries/20250812-chapter-08/session-summary.md
+      - summaries/20250812-chapter-08/gm-assist.md
+      - summaries/20250812-chapter-08/scene_extractions/0*.md
+    notes: |
+      gm-assist.md was NOT edited — per the standing Stage 1 ruling it is the preserved
+      first-pass artifact, and it carried none of the swept patterns anyway.
+
+      session-summary.md carried MOST of the approved fixes, because the scene documents'
+      summary sections are copied from it (finding X-1). Fixing only the Scenes bullets
+      would have missed two other places the same facts are restated:
+        - the Summary PROSE paragraphs (the crit "disrupted one harpy's concentration";
+          Valphine torching the nest; the router "in Greece");
+        - the ITEMS section (Stone Altar repeated the altar/window geography error).
+      All three layers were fixed. This is exactly the "a doc restates the same fact in
+      three places" failure the skill warns about, and it was real here.
+
+      Final sweep for every corrected string across all eight documents returned clean
+      (excluding the deliberate raw-capture editorial notes).
+
+      Grounding docs (world_state.md, party.md) were NOT swept this run — see carry_forward.
+
+  carry_forward:
+    - status: CORRECTION
+      item: |
+        OVERTURNS STAGE 1 FINDING 11. The Stage 1 manifest records under `applied`:
+        "'his Santorini house' -> 'his house in Greece' — Santorini is a fabrication."
+        IT WAS NOT A FABRICATION. The GM has ruled that the tape's "Centrini" is an ASR
+        garble of Santorini, where he was physically located. The enhancement pass had it
+        RIGHT and my Stage 1 adjudication removed a true detail.
+
+        The Stage 1 method was sound but incomplete: I grepped the tape for "Santorini",
+        found only "Greece", and concluded invention. What I did not do was ask what the
+        UNRECOGNISED name-shaped token two thousand lines away might be. "Centrini" was
+        sitting right there and I did not connect it until the grouped Stage 2 run flagged
+        it independently as an unattested token.
+
+        LESSON, and it generalises: an absence-grep is not sufficient evidence of
+        invention. Before ruling a specific detail fabricated, sweep the transcript for
+        garbles OF that detail. The campaign already has a memory for the inverse error
+        (retranscription-only garbles that turn out to be ordinary words); this is the
+        same failure from the other side.
+
+        REVERTED in session-summary.md (Scenes bullet and Summary prose) and applied in
+        scene 06. gm-assist.md never carried it.
+    - status: DONE
+      item: |
+        THE GARY YOUNG BLOCKS (artifact card Q-1) — CLOSED 2026-09-04.
+
+        60 blocks, not 58: the S4-3 and S4-4 fixes split two more out of Soma's and
+        Vukradin's blocks. Every one was assigned individually against a stated
+        discriminator and confirmed by the GM. Final: 32 Brewbarry, 22 Valphine,
+        6 kept as `Gary Young` (out-of-character).
+
+        Review mechanism: a second interactive artifact, one card per block, each
+        PRE-ASSIGNED to a proposal with its discriminator shown, four-way control
+        (Brewbarry / Valphine / Gary at table / Discuss) and a "changed by you" filter.
+        https://claude.ai/code/artifact/bf81b1e7-6ee0-4541-b895-2ba65f8d6c06
+        GM confirmed all 60 as proposed: 0 changed, 0 to discuss.
+
+        THE SIX NON-PC BLOCKS are the finding worth keeping. "It's good art",
+        "Let's check the landing", "Dex saves for everybody", "we lost the bear",
+        "And that will be painful", "Crazy. So, yeah." - Gary reacting to the Roll20
+        token vanishing and the DM's router, or making a party-level proposal. A
+        Brewbarry/Valphine binary would have forced invented in-character speech onto
+        all six. They keep the `**Gary Young**` label with an explicit
+        "*at the table, not in character*" gloss so the narrator does not voice them.
+        "Dex saves for everybody" is the same line Stage 1 left [?]-flagged and
+        unchanged, for the same reason - two independent passes reached it separately.
+
+        FOUR blocks were decided from adjacent lines rather than class features, because
+        the feature test was silent on them:
+          04:59  answers Vukradin's "Brewbarry can actually attack. But can he hit?"
+          06:549 confirmed by Vukradin's NEXT line, "so Brewbarry, you're up."
+          06:252 the GM has just ruled the bolt catches "everybody but Brewbarry"
+          01:255 speaks ABOUT Brewbarry in the third person -> the speaker is Valphine
+        Recorded because a later reader should not mistake these for feature-based calls.
+
+        NOTE FOR ANY FUTURE PASS: both PCs are charmed this session, in different
+        scenes (Valphine in scene 01, Brewbarry in scene 03). "I'm charmed by which
+        one?" therefore resolves to a DIFFERENT character depending on where it sits.
+        That is the trap in this queue and the reason it must never be bulk-assigned.
+    - status: DONE
+      item: |
+        THE UNKNOWN BLOCKS — CLOSED 2026-09-04.
+
+        33, not the 34 this manifest first recorded: that count was taken before the
+        Stage 2 fixes, and the S5-2 boxed-text repair had already absorbed one into the
+        GM. Corrected here.
+
+        Final: 12 GM, 10 Soma, 3 Vukradin, 1 Valphine, 7 deliberately left UNKNOWN.
+        Review artifact: https://claude.ai/code/artifact/e85108c6-c29b-49b8-9254-9102411d9f55
+        GM confirmed all 33 as proposed: 0 changed, 0 to discuss.
+
+        TWO CLUSTERS carried nearly all of it, and both are the same defect class as
+        finding S5-2 rather than anything new:
+          - ORPHANED GM BOXED TEXT (6). The shrine description split across three
+            consecutive blocks (window / altar / metal rod), plus Moesko's armour
+            stranded mid-sentence between the GM's chair line and his conch line, the
+            religion-check call, and the middle of the GM's own router anecdote.
+            Block 05-189 is the altar sentence finding S5-6 turned on — it had already
+            been load-bearing while unattributed.
+          - CONTINUATIONS OF THE ADJACENT SPEAKER'S OWN TURN (8). A line split
+            mid-thought: Soma's "I didn't feel like burning a wild shape in here." /
+            "One lonely guy."; Vukradin reading his own Cloud of Daggers rules text
+            inside his own "let me actually double-check the rule."
+
+        SEVEN LEFT UNKNOWN ON PURPOSE. "Okay." "Yeah." "And misses." "You're not
+        kidding." "It is what happened." — bare acknowledgements and echoes with nothing
+        to anchor them. They keep the UNKNOWN label with an explicit
+        "*unattributed on the tape*" gloss. Assigning one on plausibility would put words
+        in a named character's mouth, which is the failure the partial-map arrangement
+        exists to prevent; an unattributed "Okay." costs the narrator nothing.
+
+        WEAKEST CALLS, flagged for anyone revisiting: 06-478 and 06-487 were given to
+        Soma BY ELIMINATION (the vocative "Valphine, you got to do 12 damage" rules out
+        Valphine, and Vukradin speaks separately in the adjacent block) — weaker evidence
+        than the class-feature reasoning used in the Gary Young pass. 02-229
+        ("That's a crit") went to the GM because it sits between two Vukradin lines, but
+        a player reading their own die is equally plausible.
+    - status: OPEN
+      item: |
+        STAGE 3 (narration) NOT RUN — no narration artifact exists for this session.
+        It did not pass; it has not been checked. Run sd_narrate against the corrected
+        scene extractions, then /consistency-check the output.
+    - status: OPEN
+      item: |
+        GROUNDING-DOC SWEEP NOT PERFORMED. Several corrections here are the kind that
+        also live in docs/world_state.md's timeline and docs/party.md's per-character
+        notes — specifically the kill/act attributions (S5-5 nest torching, S4-2 Harpy 2's
+        death, S2-5 claw placement) and the Miraal spelling. Check the DIRECTION before
+        editing: on the Stage 1 run the grounding docs turned out to be right and the
+        recap wrong, twice.
+    - status: NOTE
+      item: |
+        The Stage 1 carry_forward WONTFIX still stands and now has more surface: because
+        gm-assist.md is preserved uncorrected and enhance_summary reads it as its
+        structural spec, a re-run of Stage 1 regenerates session-summary.md WITHOUT any
+        of this stage's fixes — and scene_extract then re-copies those stale summaries
+        into the scene documents (finding X-1). The Stage 2 fixes are not durable against
+        a Stage 1 re-run either. If the pipeline is re-run from enhance_summary, this
+        entire stage must be repeated.
+    - status: NOTE
+      item: |
+        The throwaway config lives at Phandalin/.consistency-config.tmp.yaml (campaign
+        root, deliberately — see config_note). It is untracked and should either be
+        deleted or promoted to a permanent named config; leaving it as a .tmp file in the
+        campaign root is not a resting state.
+    - status: DONE
+      item: |
+        Stage 1's PROCESS GAP (run sd_verify_quotes before presenting findings) was
+        honoured: the scene-extraction quote report was already green and was read
+        BEFORE the check was run, not after.
+    - status: NOTE
+      item: |
+        UNEXAMINED, carried from PROVENANCE.md: the promoted v2 extraction is 16% smaller
+        than v1 (69,001 vs 82,613 bytes) from the same transcript. Both verify 100%, so
+        nothing was invented — the difference is how much the model chose to quote. The
+        scene-by-scene diff of what v2 omitted was offered and never run, and /tmp may
+        since have been cleared. Nothing in this stage's 41 findings pointed at a missing
+        beat, which is weak evidence the omissions were not load-bearing.

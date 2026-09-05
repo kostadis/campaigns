@@ -1,0 +1,272 @@
+consistency_check:
+  timestamp: '2026-09-03T11:20:00-07:00'
+  campaign: Phandalin
+  document_checked: summaries/20250812-chapter-08/gm-assist.md
+  document_class: first-pass recap + backfill
+  report: summaries/20250812-chapter-08/consistency_report_stage0_gmassist.md
+  config: scratchpad throwaway absolute-path config (Phandalin has NO root config.yaml)
+  model: claude-code backend
+  backend: claude-code
+  issues_found: 13
+  session_prep_used: false
+  entity_registry_used: true
+  session_date: '2025-08-12'
+  staged_run: '/staged-consistency invoked, but ONLY Stage 0 had an artifact.
+
+    session-summary.md, scene_extractions_new/ and narration/ do not exist —
+
+    the session_doc pipeline has not been run. Stages 1-3 were not run because
+
+    they had nothing to check, NOT because they passed. Stage 2 (verbatim scene
+
+    quotes) is the load-bearing stage of this skill and remains entirely undone.
+
+    '
+  temporal_gap: 'Session is 2025-08-12 (Chapter 8 old numbering). Every grounding doc reads
+
+    "State as of Chapter 47" — Neverwinter, the Commission, level 6-7 with White
+
+    Dragon Plate and 4th-level slots. Gap is ~39 chapters / ~13 months.
+
+    The expected backfill false-positive class did NOT dominate this run: the
+
+    report''s findings were mostly registry/canon and internal-contradiction
+
+    classes, not "X is not in this character''s documented kit".
+
+    '
+  prep_absence_evidence: 'Earliest file in notes/session_prep/ is 20260531_* — over nine months AFTER
+
+    this session. Beat-grep for "tower of storms|moesko|myral|harpies" across
+
+    notes/ + docs/planning.md hit only the glossaries, spell-pass state, and
+
+    later-arc preps mentioning them in passing. No prep was ever written for
+
+    this session. The 53KB vtt_transcription_corrections.md carried the load
+
+    prep normally carries; the document''s proper nouns were already canonical.
+
+    '
+  speaker_map: "ACOUSTICALLY DERIVED earlier this session via /speaker-attribution, not\nassumed from\
+    \ CLAUDE.md. pyannote community-1 (num_speakers=4) cross-validated\nagainst Descript at 84.8% word-level\
+    \ agreement, plus vocative answer-scoring:\n  SPEAKER_00 = Kostadis (GM)\n  SPEAKER_01 = Wade  (Soma)\n\
+    \  SPEAKER_03 = Dave  (Vukradin)\n  SPEAKER_02 = Gary  (Valphine AND Brewbarry)\nStephane absent.\
+    \ This is the absent-player failure mode: Brewbarry had no\ndedicated voice all session, so every\
+    \ Brewbarry attribution was checked.\nNOTE: the /consistency-check skill records a DIFFERENT session\
+    \ where the GM\nran Brewbarry despite CLAUDE.md saying Gary does. On THIS tape it really is\nGary\
+    \ — Brewbarry and Valphine vocatives resolve to the same cluster.\n"
+  sources:
+    auto_loaded:
+    - label: campaign_state
+      path: docs/campaign_state.md
+    - label: world_state
+      path: docs/world_state.md
+    context:
+    - path: docs/party.md
+      role: PCs (campaign-standard)
+    - path: docs/entity_registry.yaml
+      role: canonical entities + aliases (campaign-standard)
+    - path: notes/vtt_transcription_corrections.md
+      role: ASR garble glossary (campaign-standard)
+    - path: notes/vtt_known_additions.md
+      role: unpromoted confirmed names (campaign-standard)
+    consulted_by_hand:
+    - path: summaries/20250812-chapter-08/session_20250812.speakers.vtt
+      role: speaker-attributed transcript — the authoritative tier. NOT a --context input.
+    - path: summaries/20250812-chapter-08/descript_transcript.md
+      role: second transcript, used to cross-check garbles at the harpy kill
+    - path: docs/chapters/chapter_10_the_tower_of_storms_echoes_art_and_the_serpent_s_coil.md
+      role: bible chapter for THIS session — surfaced by the GM mid-run. Two POVs corroborate the Moesko
+        kill.
+  resolution:
+    reviewed_by: GM
+    reviewed: '2026-09-03'
+    gm_rulings_this_run:
+    - 4.7% residual speaker-attribution error accepted for this session (from the /speaker-attribution
+      run).
+    - 'Chapter-numbering discrepancy: leave as-is, record in carry_forward. Do not partially renumber.'
+    - Apply findings 1 and 3-10; skip 11-13.
+    applied:
+    - finding: 1
+      fix: Moesko's killing blow re-attributed Brewbarry -> Soma in 3 places (Summary final para, Memorable
+        Moment + its italic, Scenes bullet split into two).
+    - finding: 3
+      fix: Quote '"He's failing upward."' re-attributed David -> Wade; Summary's in-fiction framing 'one
+        party member muttering' changed to an out-of-character table aside.
+    - finding: 4
+      fix: INVERTED from the report's direction — Summary amended to credit Brewbarry's harpy kill rather
+        than deleting the Scenes bullet. See vtt_adjudicated.
+    - finding: 5
+      fix: Shipwrecks re-attributed from the harpies to the tower's corrupted beacon (Summary + Scenes
+        bullet).
+    - finding: 6
+      fix: Moesko 'orc' -> 'half-orc' in 10 places per entity_registry.yaml.
+    - finding: 7
+      fix: '''Myral'' -> ''Miraal'' in 2 places per entity_registry.yaml.'
+    - finding: 8
+      fix: Soma's pronoun 'his' -> 'her' in the Spells section.
+    - finding: 9
+      fix: Thorn Whip + Poison Spray re-sequenced across turns instead of one action (Summary + Scenes
+        bullet).
+    - finding: 10
+      fix: Silence scope corrected — deafens only creatures inside the sphere; airborne harpies were outside
+        it.
+    rejected:
+    - finding: 11
+      ruling: Table ruling, not a rules error.
+      rationale: 'Vukradin self-targeted Bardic Inspiration. RAW it targets "one creature
+
+        other than yourself". On tape Dave declares it explicitly and the GM
+
+        proceeds to set the DC ("11-11") and adjudicate the save without
+
+        objection. Per the skill''s table-ruling rule the GM outranks the PHB at
+
+        their own table. Beat kept as played. NOT annotated in the document —
+
+        see carry_forward.
+
+        '
+    - finding: 12
+      ruling: Skipped by GM.
+      rationale: Spells section listing Wild Shape / Bardic Inspiration is a heading nitpick.
+    - finding: 13
+      ruling: Skipped by GM.
+      rationale: Harpy song described as a 'concentration' effect — loose narration, flagged so it does
+        not harden into grounding docs.
+    not_a_finding:
+    - item: Report's 'Verified as consistent' footer claimed 'Tower of Storms at ch8 matches the canon
+        timeline'.
+      rationale: 'FALSE. It read a pre-renumber campaign_state.md. The renumbered bible
+
+        puts this session at chapter 10. Recorded as evidence for the skill''s
+
+        rule that the footer is findings, not clearance.
+
+        '
+  vtt_adjudicated: "Transcript read BY HAND; not a --context input.\n\nFINDING 1 — Moesko's killer. Four\
+    \ independent sources agree gm-assist was\nwrong. Tape (session_20250812.speakers.vtt ~line 8290-8400),\
+    \ read forward to\nthe end of the sequence per the adjudication discipline:\n    Dave:  \"...so Brewbarry,\
+    \ you're up. Do your attack. Maybe you can finish him.\"\n    Dave:  \"He's down to three hit points.\"\
+    \n    Wade:  \"So he's down to one hit point.\"     <- Brewbarry hits, does not kill\n    Wade:  \"\
+    Can I attack to end the night?\"     <- Soma's turn\n    Wade:  \"Let's see if I can hit once on one\
+    \ of these two tries.\"\n    Dave:  \"Dead.\"\nCorroborated by campaign_state.md (\"Soma delivered\
+    \ final blow\") and BOTH bible\nch10 POVs — Soma's (\"I deliver the final strike\") and Valphine's\
+    \ (\"Soma...\ndelivers the final, decisive strike\"). The recap built its climax on the\nwrong character\
+    \ across three sections.\n\nFINDING 3 — quote attribution. \"He's failing upward\" at 00:42:11 is\
+    \ labelled\nWade in the attributed VTT and wade in Descript; both clusterings agree and\nthe cue is\
+    \ not [?]-flagged. gm-assist credited David — who is Vukradin's OWN\nplayer, so the line had also\
+    \ been laundered into an in-fiction companion\nremark. Both halves fixed.\n\nFINDING 4 — REVIEWER\
+    \ SELF-CORRECTION, recorded because it nearly caused a\ndestructive edit. I first ruled the Scenes\
+    \ bullet \"Brewbarry delivers a\nfinal, lethal blow with his halberd to one of the harpies\" unsupported,\n\
+    because the tape's only \"halberd\" hit was the GM joking that Brewbarry threw\nhand axes \"like you\
+    \ were using halberds\". Widening the grep overturned it.\nAt 00:59:08 the whisper VTT has \"Gary:\
+    \ So can I hit from here with my\nhelmet?\" and Descript has \"gary: so can I hit from here with my-\
+    \ ... club?\".\nBoth weapon words are garbles, but the NEXT line settles the actor:\n\"Without raging?\"\
+    \ — rage is Brewbarry's. Dave answers \"That is a kill.\"\nBrewbarry did kill a harpy. Deleting the\
+    \ bullet would have destroyed a true\nevent. The real defect ran the opposite way: the SUMMARY omitted\
+    \ the kill and\ncalled him \"missing everything in sight\", contradicting its own Scenes\nsection\
+    \ (the report's finding 6). Three harpies now reconcile: Valphine's\ncrossbow (~00:52, \"I'll shoot\
+    \ her with a crossbow and then finish her off...\nDead.\"), Brewbarry (~00:59), Vukradin's Vicious\
+    \ Mockery.\nLesson: two transcripts garbling the same word differently is a signal to\nidentify the\
+    \ actor by CLASS FEATURE, not to trust either weapon noun.\n\nFINDING 11 — GM ruling. Tape ~line 3169:\n\
+    \    Dave: \"I'm going to grant myself bardic inspiration, which means I fail a saving throw.\"\n\
+    \    Dave: \"If I fail a saving throw, then I can use my bardic inspiration die to possibly pass it\
+    \ instead.\"\n    Kostadis: \"So you're going to start running towards saving DC.\" / \"11-11.\"\n\
+    The GM never objected and adjudicated the save. Note the \"Sure\" that Descript\nshows inside Dave's\
+    \ block does NOT appear in the whisper VTT — a Descript\nturn-merge artifact, so the GM's assent is\
+    \ implicit-by-conduct, not an\nexplicit verbal ruling. Recorded as the weaker evidence it is.\n"
+  carry_forward:
+  - status: OPEN
+    item: 'CHAPTER NUMBERING. This session is bible chapter 10
+
+      (chapter_10_the_tower_of_storms_echoes_art_and_the_serpent_s_coil.md —
+
+      15 harpy mentions, Moesko, the conch, in-world date 07-02-Taraskh 1495).
+
+      Bible chapter 8 is "Vukradin, Rank Cheval" (Adabra/Harbin), a different
+
+      session. Renumbering came from commit ff276f83. Still on OLD numbering:
+
+      the session dir name (20250812-chapter-08), gm-assist.md''s "# Chapter 8"
+
+      header, and campaign_state.md''s "Ch08-09 | Tower of Storms" line.
+
+      GM ruled: leave all of it, do not partially renumber. Needs a single
+
+      coordinated sweep.
+
+      '
+  - status: OPEN
+    item: 'BIBLE vs REGISTRY divergence, created by this run''s fixes. gm-assist.md
+
+      now says "half-orc" and "Miraal" per entity_registry.yaml, but
+
+      docs/chapters/chapter_10_*.md says "Orc Anchorite" x4 and "Miral the Sea
+
+      Elf" / "Miral the Self". world_state.md also carries "Miral" in two
+
+      places (ch09 timeline, Leilon thread). Not touched — docs/chapters/ is
+
+      narrative canon and needs a GM ruling, and the skill forbids bulk
+
+      name replacement. Registry rejected_aliases separately distinguishes
+
+      Meril (Soma''s mentor) from Miral: a corrector must not merge them.
+
+      '
+  - status: OPEN
+    item: 'STAGES 1-3 NEVER RAN — no artifacts exist. Stage 2 (verbatim scene-quote
+
+      fidelity) is the load-bearing stage of /staged-consistency and is the one
+
+      that stops stale quotes re-injecting into every narration run. Re-run
+
+      /staged-consistency after the session_doc pipeline has produced
+
+      session-summary.md and scene_extractions_new/.
+
+      '
+  - status: NOTE
+    item: 'Self-targeted Bardic Inspiration stands as a table ruling for this
+
+      session and is NOT annotated in gm-assist.md (GM skipped finding 11).
+
+      A future session citing it as a repeatable ability has no in-document
+
+      warning. Annotate if it recurs.
+
+      '
+  - status: NOTE
+    item: 'Chapter 08.cleaned.md and Chapter 08.md are timestamp-stripped derivatives
+
+      of descript_transcript.md, carrying its 4.7% speaker-attribution residual
+
+      by turn index. Not repaired. Repairable against diarize_turns.json if that
+
+      layer is ever used downstream.
+
+      '
+  - status: CORRECTION
+    item: 'STALE ESCALATION CLOSED. notes/spell_pass_batch/20250812-chapter-08/proposals.json and notes/spell_pass_batch/wave1_queue.json
+      carry an unresolved escalation: ''the glossary carries BOTH "Miral the Self -> Miral" AND "Mirelle,
+      Mirale, Meral -> Miraal", and docs/entity_inventory.md lists both as separate entries... GM must
+      rule which spelling is canonical before any row is written; a wrong choice here propagates through
+      the whole Tower of Storms arc.'' That state no longer exists. As of this run entity_registry.yaml
+      has exactly one entry (Miraal, l.162) and entity_inventory.md has exactly one (l.421) — the duplicate
+      was removed by the 2026-08-03 registry cleanup. The Myral -> Miraal fix applied here is therefore
+      consistent with a clean registry, not a guess against an unresolved collision. The spell_pass_batch
+      queues are stale and will re-raise this until regenerated.'
+  - status: NOTE
+    item: 'PROPAGATION SWEEP RESULT — direction checked before editing, per the skill. campaign_state.md
+      ALREADY said ''Soma delivered final blow'' (l.36): gm-assist.md was the wrong document, the grounding
+      docs were right. No grounding-doc edit was needed for finding 1. Searched for Brewbarry-credited
+      killing blows campaign-wide and deliberately did NOT touch them — the hits (Rot-Tusk Ogre, Umbrage
+      Hill manticore, mimic) are different encounters where Brewbarry''s kill is correct. This is the
+      bulk-replace trap the skill warns about; enumerated and read every hit.'
+  - status: OPEN
+    item: docs/ensemble/chapters.md (l.1845-1879) and docs/NeverwinterExpansionismandtheNorth.md (l.4179-4197)
+      both carry the ch10 POV text saying 'Orc Anchorite' and 'Miral'. These are the generated/reference
+      layer, downstream of the bible — NOT corrected, per the rule that docs/background/ and generated
+      prose are source, not working prose. Same GM ruling needed as the bible divergence item above.

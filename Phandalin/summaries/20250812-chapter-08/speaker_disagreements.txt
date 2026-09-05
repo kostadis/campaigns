@@ -1,0 +1,77 @@
+202 descript turns where pyannote disagrees with >=75% coverage (of 1457 turns, 586 words)
+
+words at stake, descript -> pyannote:
+   dave      -> wade         99
+   kostadis  -> wade         79
+   gary      -> wade         70
+   dave      -> kostadis     61
+   kostadis  -> dave         58
+   wade      -> kostadis     38
+   wade      -> dave         36
+   dave      -> gary         36
+   gary      -> kostadis     35
+   gary      -> dave         34
+   kostadis  -> gary         25
+   wade      -> gary         15
+
+top 30 by size:
+[18:12]  16w  descript=kostadis  pyannote=wade      cov=100%
+        I don't know, hold on. We got, we got, we got some of the wolf spider.
+[33:19]  14w  descript=dave      pyannote=wade      cov=82%
+        I see a miss. Yeah, I see, I see a miss. I see a
+[14:08]  13w  descript=wade      pyannote=dave      cov=84%
+        Why am I... Oh, I can only do center to center. I see.
+[33:27]  11w  descript=dave      pyannote=kostadis  cov=95%
+        Okay. All right. All right. Spider done. Uh, brewery is up
+[28:17]  11w  descript=dave      pyannote=gary      cov=85%
+        But we have to kill them at some point. It's a
+[10:39]  11w  descript=gary      pyannote=wade      cov=99%
+        Do you need to take a minute to make our coffee?
+[52:44]  10w  descript=wade      pyannote=kostadis  cov=100%
+        Does it run away, or does it just stay there?
+[47:34]  10w  descript=gary      pyannote=wade      cov=97%
+        That's, that's a two minus one, just to be clear.
+[46:00]   9w  descript=gary      pyannote=wade      cov=100%
+        Why do I have advantage on athletics checks? '
+[44:13]   9w  descript=kostadis  pyannote=wade      cov=83%
+        She ma- If she, if she makes the save...
+[23:58]   9w  descript=dave      pyannote=wade      cov=95%
+        Yeah, clearly we're gonna need ranged attacks. Oh, wait,
+[10:37]   9w  descript=gary      pyannote=dave      cov=100%
+        need to take a minute to make our coffee?
+[22:55]   8w  descript=gary      pyannote=kostadis  cov=87%
+        Vucradin, when did you get hit? Huh? Vucradin?
+[07:47]   8w  descript=gary      pyannote=wade      cov=97%
+        No, uh, although I heard about that, so.
+[17:35]   7w  descript=wade      pyannote=kostadis  cov=87%
+        For 24 a day, all right. Um-
+[07:35]   7w  descript=gary      pyannote=kostadis  cov=82%
+        You mean with, uh, the, um- Boom,
+[95:13]   6w  descript=dave      pyannote=wade      cov=97%
+        The bear will be fine. Mama
+[79:47]   6w  descript=kostadis  pyannote=dave      cov=82%
+        do this. That's better. All right.
+[52:53]   6w  descript=wade      pyannote=kostadis  cov=100%
+        All right. We attack back. Uh,
+[36:35]   6w  descript=dave      pyannote=wade      cov=100%
+        Sorry? I don't remember. We don't
+[15:04]   6w  descript=kostadis  pyannote=wade      cov=100%
+        Okay. Right, right, right, right. You're-
+[13:27]   6w  descript=dave      pyannote=wade      cov=83%
+        Yeah. Just gotta rotate it. Yeah.
+[91:13]   5w  descript=gary      pyannote=dave      cov=100%
+        Lightning will be an issue
+[90:05]   5w  descript=wade      pyannote=dave      cov=100%
+        It's a series of tubes
+[72:04]   5w  descript=wade      pyannote=dave      cov=98%
+        Can we, like, torch it?
+[70:14]   5w  descript=kostadis  pyannote=gary      cov=89%
+        It's good art, good art.
+[65:07]   5w  descript=gary      pyannote=wade      cov=98%
+        And I took zero damage.
+[64:27]   5w  descript=dave      pyannote=kostadis  cov=100%
+        What are we searching for?
+[56:07]   5w  descript=kostadis  pyannote=gary      cov=100%
+        for the silence then, huh?
+[47:39]   5w  descript=kostadis  pyannote=wade      cov=99%
+        It's not quite a zero.
