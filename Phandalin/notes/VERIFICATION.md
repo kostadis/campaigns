@@ -68,8 +68,12 @@ Important: **the middle number is the month, not the day.** A date like
 `09-03-Tarsakh 1495` means "the 9th day of the month of Tarsakh, year 1495,"
 NOT "March 9th."
 
-This is a consistent convention across all 80 date stamps in the source. It was
-confirmed by scanning every chapter file before any dates were assigned.
+This is a consistent convention across all 81 date stamps in the source — but
+only after cleanup. Six stamps originally deviated: one had no year (§09.02),
+four used a space instead of a hyphen before `Tarsakh` (§10.02, §15.01–15.03),
+and one carried trailing whitespace (§12.01). All six were invisible to a regex
+keyed on `DD-MM-Tarsakh 1495`, which is how they survived. They are now
+normalised in both the source and the chapter splits; no date value changed.
 
 ### Month lengths
 
@@ -194,8 +198,8 @@ All paths are absolute. Remember the −2 numbering offset (Section 2).
 
 **Original source (authoritative):**
 - `~/src/campaigns/Phandalin/docs/NeverwinterExpansionismandtheNorth.md`
-  — 80 date stamps (77 of them in `##` section headers), last at section 21.10 /
-    line 5831.
+  — 81 date stamps, all of them in `##` section headers and all matching
+    `DD-MM-Tarsakh 1495`, last at section 21.10 / line 5831.
 
 **Parsed narrative chapters:**
 - `~/src/campaigns/Phandalin/docs/chapters/chapter_NN_*.md`
@@ -243,7 +247,13 @@ grep -n "Tarsakh 1495" docs/NeverwinterExpansionismandtheNorth.md | tail -1
 # => 5831:## 21.10 Valphine 09-03-Tarsakh 1495
 ```
 
-**B. Confirm the spelling fix is complete in the authoritative layer:**
+**B. Confirm every stamp is canonical:**
+```bash
+grep -rnE '^## .*Tarsakh' docs/NeverwinterExpansionismandtheNorth.md docs/chapters/*.md \
+  | grep -vE '[0-9]{2}-[0-9]{2}-Tarsakh 1495$' | wc -l   # => 0
+```
+
+**B2. Confirm the spelling fix is complete in the authoritative layer:**
 ```bash
 grep -ric taraskh docs/NeverwinterExpansionismandtheNorth.md docs/chapters/*.md \
   | grep -v ':0$' | wc -l          # => 0
@@ -294,7 +304,7 @@ chapter you doubt. Each is a verbatim citation from the chapter text.
    alter narrative text.
 4. **The artifacts are stale in two ways.** They use the old 47-chapter
    numbering (Section 2), and they were built before the source was edited —
-   the run counted 89 stamps where the source now has 80 (the `01-01-Tarsakh`
+   the run counted 89 stamps where the source now has 81 (the `01-01-Tarsakh`
    stamp behind artifact-ch2 no longer appears anywhere). Treat
    `chapter_dates.json` spans for the early chapters as historical.
 5. **FIXED — the year-less stamp.** Line 4114, section `09.02`, read
@@ -318,7 +328,7 @@ chapter you doubt. Each is a verbatim citation from the chapter text.
 
 ## 10. One-line summary for a reviewer
 
-"Dates for repo ch05–21 are copied verbatim from the 80 stamps in
+"Dates for repo ch05–21 are copied verbatim from the 81 stamps in
 `NeverwinterExpansionismandtheNorth.md`; dates for ch22–46 are counted forward
 from the last real stamp (`09-03-Tarsakh 1495`, §21.10, line 5831) using
 day-pass detection stored in `daypass/chNN/intervals.json`, accumulated with

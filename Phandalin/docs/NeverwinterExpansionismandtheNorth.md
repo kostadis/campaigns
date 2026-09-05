@@ -4178,7 +4178,7 @@ Our exploration leads us to a 15-foot-high empty room. Through a dirty window, I
 
 Deeper within the tower, a battle against Moesko, the Orc Anchorite, begins. After Soma transforms into a brown bear and lands some hits, I seize the opportunity to cast Cloud of Daggers, conjuring whirling blades that trap Moesko within a 5-foot cube, inflicting 9 initial damage. He'll take more damage if he stays there. This combat is certainly more dramatic than the harpies, an actual test of our combined talents, if not our sanity, as Moesko responds with a devastating Lightning Bolt and Thunderwave.
 
-## 10.02 Soma's Perspective 07-02 Tarsakh 1495
+## 10.02 Soma's Perspective 07-02-Tarsakh 1495
 
 The harpies are a nuisance, their songs a crude manipulation of emotions. As Vukradin's Silence spell takes effect, I see the charm break on Valphine and Brewbarry. This is effective, but these creatures are not bright, so they'll likely continue trying if we leave the sphere of silence.
 
@@ -4274,7 +4274,7 @@ Back on shore, with the immediate threats neutralized, I turned my attention to 
 
 # Chapter 12 Phandalin: Old Debts and New Suspicions. 
 
-## 12.01 Vukradin 07-02-Tarsakh 1495 
+## 12.01 Vukradin 07-02-Tarsakh 1495
 
 “I need to go back to Phandalin to take care of some unfinished business.” 
 
@@ -4859,7 +4859,7 @@ I must go and talk to her.
 
 # Chapter 15 Confronting Adabra and learning of the Interventionists.  
 
-## 15.01 Soma 01-03 Tarsakh 1495
+## 15.01 Soma 01-03-Tarsakh 1495
 
 I feel like a shell sprout, wet from the nest, a child that has been taken advantage of. I trusted Adabra. And she took advantage of my trust to get me to stop the people who were trying to save our plane. 
 
@@ -4903,7 +4903,7 @@ When Lyra is about to go on some long-winded rant, Vukradin again manages to def
 
 But this time, Lyra is fed up and shouts, “If you cannot see the evil this woman represents and her fanaticism and its danger, then you are all fools.” 
 
-## 15.02 Vukradin 01-03 Tarsakh 1495
+## 15.02 Vukradin 01-03-Tarsakh 1495
 
 I just want to be friends with everyone. I don’t understand why people are so full of hate. I mean, I used to think that the key to everything was to play music that was better than my audience, but now I realize that playing popular music is the way to their hearts. And I just want them to love me. 
 
@@ -4971,7 +4971,7 @@ Adabra is pleased and hands me five conflict-free gold pieces.
 
 She continues for some time in some kind of ecstasy, saying words that mean nothing, about planes, and designs, and universalism, and I am bored. Soma later on tells me that she was spouting nonsense that was meaningless. I try hard not to say, “Well, I already knew that.” 
 
-## 15.03 Valphine 01-03 Tarsakh 1495
+## 15.03 Valphine 01-03-Tarsakh 1495
 
 Adabra is a zealot. I have seen her kind and how they worship Lolth, convinced that there is some greater purpose to the universe, that the demonic powers they worship will grant them power, or that by serving them, they are serving some enduring power. 
 

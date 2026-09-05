@@ -4,7 +4,7 @@ title: 'Phandalin: Old Debts and New Suspicions.'
 ---
 # Chapter 12 Phandalin: Old Debts and New Suspicions. 
 
-## 12.01 Vukradin 07-02-Tarsakh 1495 
+## 12.01 Vukradin 07-02-Tarsakh 1495
 
 “I need to go back to Phandalin to take care of some unfinished business.” 
 
