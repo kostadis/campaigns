@@ -275,12 +275,12 @@ carry_forward:
     item: >-
       All 69 verdicts applied. Zero card markers remain in the layer.
   - id: CF20
-    status: OPEN
+    status: CLOSED 2026-09-05
     item: >-
-      toee/ still has no notes/scrub_register_policy.md, and it now has TWO standing rules
-      with no permanent home: the C6 tooling-cut policy, and the player-name scrub register.
-      The GM approved S01's "add to scrub_flags.md, keep raw" option, NOT the option that
-      would have created the policy file, so it was deliberately not created.
+      notes/scrub_register_policy.md created during the /no-mech run on this session, by
+      GM ruling. It now carries the C6 tooling-cut rule, the player-name flag policy, the
+      /no-mech category rulings, and the two campaign-specific traps (the permanently dead
+      NPC-label triage signal, and **GM** also being Calmer).
   - id: CF22
     status: OPEN
     item: >-
@@ -295,3 +295,18 @@ carry_forward:
   - id: CF1
     status: OPEN
     item: Stage 3 (narration) has still never run; narration/ does not exist.
+  - id: CF23
+    status: OPEN
+    item: >-
+      Two /no-mech residues in scene 03, found by reading and deliberately not folded in:
+      (a) the surviving read-aloud line still opens "24? You immediately recognize this as
+      the equipment of the Greater Temple." — the roll result is inside a KEPT quote, so
+      trimming it is a word change, not a cut; (b) "unless you figure it out as players"
+      is squarely GM-to-player-as-player but was not on the cut list the GM approved.
+      Both are proposals for the next pass, not defects.
+  - id: CF24
+    status: OPEN
+    item: >-
+      /no-mech ran on this layer 2026-09-05 and cut 305 quote lines. Any re-run of
+      /voice-smooth from scene_extractions/ would rebuild the layer WITHOUT those cuts.
+      See no_mech_manifest_20260830.md.

@@ -26,6 +26,9 @@ from: ../scene_extractions/01_the_missing_prisoners.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-05, /no-mech): one four-line Investigation roll exchange — GM-to-player-as-player, not roleplay. The discovery of the torn chains that follows is untouched. Verbatim record in ../scene_extractions/.*
+
+
 *Cut from this layer (GM ruling C6 — table/tooling logistics is cut, not smoothed): a beat of Roll20 map-token placement ("let me just put them here…") and "are you guys on the Roll 20?"*
 
 **GM** — *reviewing the unexplored prisoners' location*
@@ -82,18 +85,6 @@ from: ../scene_extractions/01_the_missing_prisoners.md
 **GM** — *restating what the party finds*
 > "So you arrive there, and the prisoners are missing."
 
-**GM** — *requesting a check*
-> "Roll an Investigation, Religion check, whatever you guys want."
-
-**Zephyr** — *choosing his approach*
-> "I'll investigate."
-
-**GM** — *asking for the result*
-> "Alright, tell me what you rolled."
-
-**Zephyr** — *reporting the roll*
-> "22?"
-
 **GM** — *determining that the prisoners were killed and removed*
 > "So, yes, in fact, they are missing. And as you look around, you realize that they didn't escape — they were killed, and their corpses have been taken."
 
@@ -127,13 +118,11 @@ from: ../scene_extractions/01_the_missing_prisoners.md
 **Zephyr** — *delegating the notice to Calmer*
 > "Calmer, post a notice saying: if you find this necromancer, you have to tell us."
 
-**GM** — *as Calmer, approving the proposal and appointing Zephyr*
 > *Calmer answers.* "I think that's a fantastic idea, Zephyr. As the Chief of Staff, I think you are responsible for all matters related to security operations. Produce an appropriate note, and I will sign it."
 
 **Zephyr** — *accepting*
 > "Correct."
 
-**GM** — *as Calmer, reconsidering whose responsibility it is*
 > *He pauses, then turns to Zinnia.* "But I do feel — as my Chief of Security, shouldn't this really be your initiative?"
 
 **Sequoia** — *asking about his own position*

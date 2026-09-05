@@ -44,6 +44,9 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-05, /no-mech): 232 quotes — the skill-check sequences before the fight and the whole roll-by-roll combat block, all GM-to-player-as-player. DELIBERATELY KEPT (37 beats inside the combat): the creature read-aloud, Calmer's blessing of Sequoia, the GM's characterisation of Calmer's spell choices, the five-limbed assault, the Calmer/Sequoia healing argument ("My guess is not an answer. Yes or no."), the predator characterisation, and the entire aftermath through Zephyr's Undercommon attempt. Two scrub-flagged real-world player names (cues 750 "Nick" and 1023 "George") sat inside the cut block and are gone from this layer; scrub_flags.md still tracks them, since it covers the tape. Verbatim record in ../scene_extractions/.*
+
+
 *Cut from this layer (GM ruling C6 — table/tooling logistics is cut, not smoothed): "let me just pull up this arm as a blah blah blah", "You should see a number there." Also cut here: the GM's dice-reading mutter "Alright! What is it? Only hits what? What." (G59), and one Zinnia fragment (G46, "Look, tech… the 2.")*
 
 **GM** — *describing the first food-storage chamber*
@@ -64,15 +67,6 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *describing the larger storeroom*
 > "This oddly shaped chamber is crammed with containers of all sorts. Large jars, boxes, barrels, crates, chests, sacks, casks, bales, bags, hampers, and others. Some are obviously broken or empty, but many seem full. Bales contain black cloth and some finished garment."
 
-**GM** — *requesting a check*
-> "Roll an Insight check."
-
-**GM** — *asking whether anyone rolled*
-> "Did anybody roll an Investigation? Or an Insight check?"
-
-**Zinnia** — *reporting the result*
-> "Insight… 24."
-
 **GM** — *identifying the contents*
 > "24? You immediately recognize this as the equipment of the Greater Temple."
 
@@ -88,59 +82,8 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *using another name for it*
 > "Guys, the Deep Temple?"
 
-**GM** — *requesting a deeper check*
-> "The other thing you notice is— do another, do a deeper investigation. Roll again?"
-
-**Sequoia** — *checking the skill*
-> "Another investigation? Oh."
-
-**GM** — *correcting it to Arcana*
-> "Arcana, rather. Arcana."
-
-**Zephyr** — *repeating the skill*
-> "Arcana."
-
-**GM** — *asking for the other results*
-> "Did anybody else roll Arcana?"
-
-**Zinnia** — *asking what to roll*
-> "What is the roll?"
-
 **GM** — *recapping the visible contents*
 > "Let me just— so you walked into this room, and you saw a whole bunch of foodstuff, a whole bunch of crates, packages, whatever, and you also saw a lot of black cloaks."
-
-**Zinnia** — *acknowledging*
-> "Hmm."
-
-**GM** — *asking again*
-> "Did anybody roll Arcana?"
-
-**Zephyr** — *reporting an unclear result*
-> "I rolled a one, so okay."
-
-**GM** — *noting Calmer also failed and prompting Sequoia*
-> "Yeah, so did Calmer. So, Sequoia."
-
-**Sequoia** — *responding*
-> "Yep."
-
-**GM** — *asking Sequoia to roll*
-> "Can you roll an Arcana check?"
-
-**Sequoia** — *preparing the roll*
-> "Bro, let me roll."
-
-**Sequoia** — *reporting it*
-> "Brother… 10."
-
-**Zinnia** — *reporting his result*
-> "I rolled 6."
-
-**GM** — *confirming*
-> "6?"
-
-**Zinnia** — *acknowledging*
-> "Hmm."
 
 **GM** — *declaring that the failed checks reveal nothing*
 > "Alrighty. So, unless you figure it out as players, you don't figure anything out. Okay."
@@ -169,33 +112,6 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *revealing a creature*
 > "You see a creature…"
 
-**GM** — *requesting the appropriate check*
-> "Or a roll, actually. Roll an Insight."
-
-**Zinnia** — *asking who should roll*
-> "All of us?"
-
-**GM** — *correcting the skill and limiting it to Sequoia*
-> "No, investigation. Insight or investigation. Or rather — Sequoia, who's looking up at the ceiling. Sequoia?"
-
-**Sequoia** — *confirming the skill*
-> "Investigation?"
-
-**GM** — *confirming*
-> "Yes, sir."
-
-**Sequoia** — *initially reporting the wrong total*
-> "17…"
-
-**GM** — *checking*
-> "17?"
-
-**Sequoia** — *correcting it*
-> "No, no, 21, sorry."
-
-**GM** — *accepting the result*
-> "Alright."
-
 **GM** — *revealing four creatures on the ceiling*
 > "Alright, you see four creatures hanging from their tails with claws and— essentially."
 
@@ -223,9 +139,6 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *confirming again*
 > "Yep."
 
-**GM** — *starting initiative*
-> "Okay, roll for initiative, folks."
-
 **Zephyr** — *asking what the creatures are*
 > "Dude, what are these creatures?"
 
@@ -244,245 +157,10 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **Sequoia** — *reacting to the image*
 > "What the freak?"
 
-**GM** — *collecting initiative*
-> "Could you guys roll your initiative?"
-
-**GM** — *asking Zephyr's result*
-> "Zephyr, what's your initiative?"
-
-**Zephyr** — *reporting the highest initiative*
-> "I put it, 27."
-
-**GM** — *asking Sequoia*
-> "Alright, Sequoia, what's your initiative?"
-
-**Sequoia** — *reporting his result*
-> "19."
-
-**GM** — *asking for Calmer's initiative*
-> "Calmer?"
-
-**GM** — *reporting it*
-> "Three."
-
-**GM** — *asking Zinnia*
-> "Zinnia?"
-
-**Zinnia** — *reporting his result*
-> "I put it in 24."
-
-**GM** — *crediting Sequoia with preventing surprise*
-> "Alright, Nick, good for avoiding the surprise round." <!-- real-world player name: kept raw, see scrub_flags.md -->
-
-**GM** — *as Calmer, praising Sequoia*
 > *Calmer notes it.*
 
 **GM** — *as Calmer, offering a blessing*
 > "I'm very impressed. I am very impressed. May the blessing of the Earth God be with you."
-
-**GM** — *calling Zephyr's turn*
-> "Alright, Zephyr, you're up."
-
-**Zephyr** — *reacting to their position*
-> "Whoa."
-
-**Zephyr** — *asking whether they are airborne*
-> "They're in the air?"
-
-**GM** — *explaining that they are within melee reach*
-> "Yes, they're in the air. They're tall enough that you can whack them with your sword, right?"
-
-**Zephyr** — *agreeing to attack*
-> "Yeah, I'll do that."
-
-**GM** — *warning that melee allows them to retaliate*
-> "But you have to get next to them, right? So if you can get close to them to whack them with your sword, they can get close to you to whack— you whack you with your—"
-
-**Zephyr** — *switching to a pistol*
-> "Can I pistol them?"
-
-**Zephyr** — *asking about sneak attack*
-> "Can I get sneak attack with my pistol?"
-
-**GM** — *explaining the requirement*
-> "Sneak attack is about somebody being near you. It has to do with the proximity of an ally to the creature, or surprise."
-
-**Zephyr** — *invoking his first-turn advantage*
-> "But since I'm the first one to attack, I have advantage. Right."
-
-**GM** — *confirming the assassin feature*
-> "Yes, you have your assassin's advantage — any creature that hasn't yet attacked, you have advantage on."
-
-**GM** — *confirming sneak attack*
-> "You can use your sneak attack bonus, right?"
-
-**Zephyr** — *beginning the attack*
-> "Alright, so I'll attack."
-
-**Zephyr** — *choosing the pistol*
-> "My pistol?"
-
-**Zephyr** — *asking for armor class*
-> "What's AC?"
-
-**GM** — *giving it*
-> "Their AC is 14."
-
-**Zephyr** — *rolling his first attack*
-> "This is my first attack."
-
-**Zephyr** — *reporting that the second also misses*
-> "And I missed my second attack."
-
-**Zephyr** — *ending his turn*
-> "Yeah."
-
-**Zephyr** — *confirming he is done*
-> "My turn finished."
-
-**GM** — *checking both misses*
-> "Alright, you missed with both of your attacks?"
-
-**Zephyr** — *confirming*
-> "Hmm."
-
-**Zinnia** — *taking the next turn*
-> "I think it's me."
-
-**GM** — *confirming*
-> "Alright."
-
-**GM** — *telling Zinnia to choose among four targets*
-> "There's, like, four of those creatures, so just pick one."
-
-**Zinnia** — *moving beside one*
-> "I'll just go next to it."
-
-**GM** — *repeating the armor class*
-> "His armor class is 14."
-
-**Zinnia** — *reporting damage*
-> "Okay, 2— 20 points of damage."
-
-**GM** — *confirming which creature was attacked*
-> "200 points of damage? Which one — you're attacking this one here, right?"
-
-**Zinnia** — *identifying the adjacent target*
-> "It'll be right next to me."
-
-**GM** — *recording the hit*
-> "Yep, okay. 21 points of damage, you said, yeah?"
-
-**GM** — *checking whether Zinnia is finished*
-> "Are you done attacking?"
-
-**Zinnia** — *confirming*
-> "Yep."
-
-**GM** — *calling Sequoia's turn*
-> "Alrighty, Sequoia, you're up."
-
-**Sequoia** — *announcing himself*
-> "I'm up, guys."
-
-**Sequoia** — *choosing the same target*
-> "I'll attack her, this one."
-
-**GM** — *confirming the focus fire*
-> "So you're all attacking the same one, is that what I'm hearing?"
-
-**Sequoia** — *confirming*
-> "Yep."
-
-**Sequoia** — *announcing the first hit*
-> "Hit."
-
-**Sequoia** — *reacting to another roll*
-> "Oh, my fucking god."
-
-**Sequoia** — *reporting the first hit's damage*
-> "Alright, 24 points of damage."
-
-**GM** — *asking whether the roll improved*
-> "Alright. Did you roll better this time?"
-
-**Sequoia** — *reporting an apparent natural one*
-> "And a natural one. Wait, no — but I have advantage."
-
-**Sequoia** — *correcting the attack result*
-> "So, 20? Not natural."
-
-**Sequoia** — *reporting the second hit's damage*
-> "For 9 points of damage."
-
-**GM** — *asking whether Sequoia disengages*
-> "Alright. Do you want to stay there, or are you going to disengage?"
-
-**Sequoia** — *disengaging*
-> "I'll disengage."
-
-**GM** — *moving him*
-> "Gonna move over to here."
-
-**Sequoia** — *confirming*
-> "Yep."
-
-**GM** — *beginning the creatures' turn*
-> "Okay, what do these creatures do?"
-
-**GM** — *calling for Zinnia's save*
-> "Alright, roll a saving throw, Zinnia."
-
-**GM** — *specifying Wisdom*
-> "Wisdom."
-
-**GM** — *checking the result*
-> "We made a saving throw?"
-
-**GM** — *confirming the roll*
-> "You rolled a 20?"
-
-**Zinnia** — *giving the breakdown*
-> "Yeah. Alright. 16 plus 4."
-
-**GM** — *describing the resisted psychic blast*
-> "Yeah, okay, so you get hit by a blast of psychic damage, but you are unaffected."
-
-**GM** — *calling for Zephyr's save*
-> "Okay, sorry. This creature attacks Zephyr with its psychic attack. Roll a DC 17 Wisdom saving throw."
-
-**Zephyr** — *preparing the save*
-> "Wisdom, okay."
-
-**Zephyr** — *reporting success*
-> "I made it."
-
-**GM** — *confirming*
-> "You made it!"
-
-**GM** — *targeting Calmer*
-> "The third creature targets Calmer."
-
-**GM** — *reporting Calmer's success and targeting Sequoia*
-> "Who makes it. And the last one targets Sequoia."
-
-**Sequoia** — *asking what to roll*
-> "Where do I need to roll?"
-
-**GM** — *giving the DC*
-> "17."
-
-**GM** — *clarifying the save*
-> "15 saving throw. Wisdom."
-
-**Sequoia** — *reacting to the roll*
-> "Damn."
-
-**GM** — *announcing the failed save's condition*
-> "Alright, you are stunned."
-
-**GM** — *considering Calmer's response*
-> "Calmer."
 
 **GM** — *starting to choose a spell*
 > "Alright, Calmer does the usual thing he does in these situations. He will use his—"
@@ -493,173 +171,8 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *naming the spell*
 > "Spirit Guardians, because that's what you do if you're a cleric."
 
-**GM** — *establishing its radius*
-> "He gives himself a 15-foot radius, right?"
-
-**GM** — *resolving damage against the predators*
-> "This guy blows the saving throw, so he takes 12 damage."
-
-**GM** — *applying the slowing effect*
-> "And he is slowed."
-
-**GM** — *resolving more saves*
-> "And these guys also have to roll their saves."
-
-**GM** — *describing additional affected creatures*
-> "Okay, so this guy takes full damage, this guy takes full damage, slowed."
-
-**GM** — *calling Zephyr again*
-> "Zephyr, you're up."
-
-**Zephyr** — *checking whether every creature has acted*
-> "This time, everyone's played?"
-
-**GM** — *confirming*
-> "Yep, everyone's played."
-
-**GM** — *identifying targets eligible for sneak attack*
-> "The one that's next to Zinnia, you still have sneak attack. The one that's next to Calmer, and the one that's next to Zinnia — you have sneak attack bonus."
-
-**Zephyr** — *choosing the target beside Zinnia*
-> "I'll tag the one that's next to it."
-
-**Zephyr** — *checking the target*
-> "…next to Zinnia?"
-
-**GM** — *confirming that it is the most injured*
-> "Yeah, that's the one that's most injured, yes."
-
-**Zephyr** — *asking for armor class*
-> "And what's the AC again?"
-
-**GM** — *giving the value*
-> "Its AC is 14."
-
-**Zephyr** — *firing*
-> "Pistol?"
-
-**Zephyr** — *reporting the base damage and sneak attack*
-> "I hit for— 9 damage, plus 5d6."
-
-**Zephyr** — *reporting the total*
-> "Total of 30 damage."
-
-**GM** — *confirming*
-> "30 damage?"
-
-**Zephyr** — *confirming*
-> "Yes."
-
-**GM** — *announcing the first predator's death*
-> "The creature dies."
-
-**Zephyr** — *celebrating*
-> "Yes."
-
-**Zephyr** — *using Steady Aim*
-> "And— wait, what is it called?"
-
-**Zephyr** — *naming the feature*
-> "Steady Aim."
-
-**Zephyr** — *clarifying it is a bonus action*
-> "Okay. As a bonus action."
-
-**GM** — *calling Zinnia's turn*
-> "Zinnia, you're up."
-
-**Zinnia** — *confirming*
-> "Me?"
-
-**GM** — *confirming*
-> "Yes, you are up."
-
-**Zinnia** — *choosing predator two*
-> "I'll attack the two."
-
-**Zinnia** — *asking about advantage near Calmer*
-> "Do we get advantage off Calmer there?"
-
-**GM** — *saying the current rules do not grant it*
-> "Yeah, no, there's no advantage, remember, in the new rules."
-
-**Zinnia** — *reacting*
-> "Oh, that's right."
-
-**GM** — *noticing a natural 20*
-> "Oh, that's a natural 20, if I'm not mistaken."
-
-**Zinnia** — *reporting damage*
-> "I do 15 points of damage."
-
-**GM** — *confirming*
-> "15."
-
-**Zinnia** — *ending the turn*
-> "Yeah, I'll just stop there."
-
-**GM** — *calling for Sequoia's save*
-> "Sequoia, roll a saving throw."
-
-**Sequoia** — *rolling*
-> "Alright, with them."
-
-**Sequoia** — *thinking he failed*
-> "Well, nope."
-
-**GM** — *initially saying he succeeded*
-> "No, you made it!"
-
-**GM** — *checking*
-> "Did you?"
-
-**Sequoia** — *reporting the total*
-> "14."
-
-**GM** — *correcting the ruling and applying damage*
-> "Oh, you did not make it. You took 17 points of damage from that psychic attack."
-
-**Sequoia** — *asking for healing*
-> "I need some healing."
-
-**GM** — *acknowledging*
-> "You need some healing. Alright."
-
 **GM** — *describing a five-limbed assault on Calmer*
 > "Alright. It furiously attacks with all five of its limbs."
-
-**GM** — *resolving the attacks against Calmer's high armor class*
-> "And hits exactly once, because Calmer's armor class is unreal, now with his Shield +1."
-
-**Sequoia** — *asking for Calmer's armor class*
-> "What's the armor class?"
-
-**GM** — *giving it*
-> "Calmer's armor class is 21."
-
-**Sequoia** — *reacting*
-> "Oh."
-
-**GM** — *emphasizing how high it is*
-> "That's a very high armor class."
-
-**Sequoia** — *agreeing*
-> "Yeah, alright."
-
-**GM** — *applying the successful hit*
-> "Alright, and — no, it does not have advantage — he takes 8 points of slashing damage, and he has to make a saving throw."
-
-**GM** — *checking Calmer's concentration save*
-> "Calmer blows his Constitution. No, does he?"
-
-**GM** — *attempting a reaction*
-> "I am going to use my reaction to force that creature to make a Strength saving throw. On a failure, the creature takes—"
-
-**GM** — *resolving the reaction*
-> "Okay, that did not work out. So Calmer takes— how much damage does he take? Calmer takes 8 points of damage, and—"
-
-**GM** — *ending Spirit Guardians*
-> "He loses his concentration."
 
 **GM** — *reacting*
 > "Very annoying."
@@ -673,37 +186,6 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *announcing that all five miss*
 > "And misses all five times. Wow. What?"
 
-**Zephyr** — *approving*
-> "Good."
-
-**GM** — *sending another predator against Zinnia*
-> "And then this guy attacks Zinnia."
-
-**GM** — *rolling two attacks*
-> "And he attacks twice."
-
-**GM** — *asking Zinnia's armor class*
-> "What's your armor class, Zinnia?"
-
-**Zinnia** — *answering*
-> "It's… 18."
-
-**GM** — *initially calling both misses*
-> "Alright, miss."
-
-**GM** — *correcting to one hit*
-> "No, hit once. Hit once for—"
-
-**GM** — *applying damage*
-> "8 points of damage."
-
-**Zinnia** — *repeating the amount*
-> "Eight points."
-
-**GM** — *confirming*
-> "Yep."
-
-**GM** — *as Calmer, reaching for a strong response*
 > *Calmer says:* "When in doubt, reach for the best."
 
 **GM** — *as Calmer, expressing dislike for the predators*
@@ -715,29 +197,11 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *relenting*
 > "What? Fine."
 
-**GM** — *healing Sequoia*
-> "Alright, that's how much you got healed."
-
-**Sequoia** — *asking the amount*
-> "How much?"
-
 **Sequoia** — *reacting*
 > "Brother."
 
 **GM** — *describing the resource expenditure and following attack*
 > "Well, you kind of forced him to burn his— Word of Radiance, always a good thing when people are surrounding Calmer."
-
-**GM** — *resolving Word of Radiance*
-> "12 points of— okay, they have to roll some Constitution saving throws. Blown."
-
-**GM** — *applying damage*
-> "This guy takes 12 points of damage."
-
-**GM** — *calling Zephyr and identifying the injured target*
-> "Alright, Zephyr, you're up."
-
-**GM** — *pointing out its condition*
-> "This guy over here is quite injured, just to keep that in mind."
 
 **Zephyr** — *moving to a dagger attack*
 > "Well… okay, I'll come with my dagger, finally."
@@ -748,44 +212,11 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **Zephyr** — *rejecting the spell option*
 > "Actually, I will attack it. Spells are kind of useless."
 
-**Zephyr** — *reporting the attack sequence*
-> "Didn't hit for my first one, so no. On my second attack, I hit for—"
-
-**Zephyr** — *checking sneak attack*
-> "Do I have a— oh, boy."
-
-**GM** — *confirming*
-> "You have sneak attack bonus, yes."
-
-**Zephyr** — *reporting the total*
-> "Cool. Total up… 22 damage?"
-
-**GM** — *leaving the predator at eight hit points*
-> "Alright, it's down to 8 hit points."
-
-**GM** — *calling Zinnia*
-> "Zinnia, you're up."
-
-**Zinnia** — *clarifying*
-> "Number 2."
-
-**GM** — *accepting the target*
-> "Alright."
-
-**Zinnia** — *reporting damage*
-> "I do 18 points of damage."
-
 **GM** — *announcing the second predator's death*
 > "And he dies."
 
-**GM** — *calling for Sequoia's stun save*
-> "Alright, Sequoia, make your saving throw."
-
 **Sequoia** — *finally succeeding*
 > "Finally made it."
-
-**GM** — *saying he can act next round*
-> "Alright, you get to attack. Next round."
 
 **GM** — *describing the predators' persistence*
 > "Nice and hungry."
@@ -799,34 +230,9 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 **GM** — *resolving two missed attacks*
 > "Attacks once, attacks a second time, and misses."
 
-**GM** — *turning a psychic blast on Zinnia*
-> "Alrighty. He turns his mind blast on you, Zinnia. Roll a saving throw."
-
-**GM** — *specifying Wisdom*
-> "Wisdom saving throw, Zinnia."
-
-**GM** — *calling for the player*
-> "George." <!-- real-world player name: kept raw, see scrub_flags.md -->
-
-**Zinnia** — *responding*
-> "Wisdom saving throw?"
-
-**Zinnia** — *asking what is happening*
-> "What's up."
-
-**Zinnia** — *reporting the save*
-> "19."
-
-**GM** — *confirming success*
-> "Alright. You made your saving throw."
-
-**GM** — *calling Calmer's turn*
-> "Calmer."
-
 **GM** — *describing Calmer's preference for Spirit Guardians*
 > "Calmer's really into the whole Spirit Guardians thing, so he's gonna go with Spirit Guardians again."
 
-**GM** — *as Calmer, checking on Sequoia*
 > *He actually shouts.* "Are you okay, Sequoia?"
 
 **Sequoia** — *giving an uncertain answer*
@@ -861,108 +267,6 @@ from: ../scene_extractions/03_the_supply_room_ambush.md
 
 **Sequoia** — *confirming*
 > "Yeah…"
-
-**GM** — *moving Calmer into position*
-> "Alright, he steps over there, and he uses Word of Radiance again, because that is how he rolls."
-
-**GM** — *calling for the predators' saves*
-> "Alright, they have to roll DC Constitution."
-
-**GM** — *resolving both failures*
-> "15, okay. They both blow it, so they both take 11 points of damage."
-
-**GM** — *describing the radiant blast*
-> "As a blast of radiant damage emanates from him. Okay, Zephyr."
-
-**GM** — *calling Zephyr*
-> "You're up."
-
-**GM** — *identifying the more injured predator*
-> "Number 4 is more injured than number 3, just so you know that."
-
-**Zephyr** — *choosing predator four*
-> "I'll head up to number 4."
-
-**Zephyr** — *casting Chill Touch*
-> "Use my Chill Touch."
-
-**Zephyr** — *reporting damage*
-> "Which hits for 9 points of damage."
-
-**GM** — *asking about its additional effect*
-> "Does it— I think it also does something else, doesn't it?"
-
-**Zephyr** — *stating the effect*
-> "Can't regain hit points."
-
-**GM** — *calling Zinnia*
-> "Zinnia, you're up."
-
-**Zinnia** — *choosing predator three*
-> "I'll go after number 3."
-
-**Zinnia** — *reporting the first damage*
-> "6 points damage."
-
-**GM** — *reminding him about additional attacks*
-> "I think there's— you have more attacks, my friend."
-
-**Zinnia** — *spending a bonus action*
-> "I'll use a bonus."
-
-**Zinnia** — *continuing with the attacks*
-> "Yeah, I'll use the bonus attacks."
-
-**Zinnia** — *reporting the additional damage*
-> "I do 18 points of damage."
-
-**GM** — *confirming*
-> "18 points of damage?"
-
-**Zinnia** — *confirming*
-> "Yep."
-
-**GM** — *introducing Stunning Strike*
-> "Just so you know, you have a special ability which you can use."
-
-**GM** — *beginning its name*
-> "Called—"
-
-**GM** — *explaining when it can be used*
-> "Once per turn, when you hit with a monk."
-
-**GM** — *explaining the focus-point cost and stun*
-> "You can expend a focus point to attempt a Stunning Strike, just so you know that. Basically, a stun on a failed save — the creature has the stunned condition until the start of your next turn."
-
-**Zinnia** — *acknowledging*
-> "Okay."
-
-**GM** — *clarifying focus-point use*
-> "Alright. You can use multiple ki points per round, so it's not, like, one per round. Does that make sense?"
-
-**GM** — *explaining the effect even on a successful save*
-> "Even if the creature makes its saving throw, the target's speed is halved until the start of your next turn, and the next attack roll made against it has advantage."
-
-**Zinnia** — *acknowledging*
-> "Okay."
-
-**GM** — *calling Sequoia*
-> "Sequoia, you're up."
-
-**Sequoia** — *choosing predator three*
-> "I'll attack, yeah, I'll attack number 3."
-
-**Sequoia** — *reporting the first hit*
-> "27 points of damage."
-
-**GM** — *checking whether it was the first attack*
-> "Alright, that's your first attack?"
-
-**Sequoia** — *announcing another hit*
-> "Hit."
-
-**Sequoia** — *reporting the second damage*
-> "6 points of damage."
 
 **GM** — *describing one survivor's retreat*
 > "Alright, the creature disengages and heads towards the corner."

@@ -46,6 +46,9 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-05, /no-mech): 69 quotes of roll-by-roll combat resolution from the Garbage Room fight — initiative, armour class, damage totals, turn calls. DELIBERATELY KEPT: Calmer proposing Hold Monster, Sequoia's dice meltdown ("HOLY DICE!" through "Average of bloody two, bro!"), his curse at Frostbrand, and the kill. The Fire Temple negotiation earlier in the scene is roleplay and was never in scope. Verbatim record in ../scene_extractions/.*
+
+
 *Cut from this layer (GM ruling C6 — table/tooling logistics is cut, not smoothed): "Let me just mark them as surprised." Also cut here: one Sequoia line ruled unrecoverable (G03)*
 
 **GM** — *reacting to Sequoia's insistence*
@@ -165,7 +168,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Sequoia** — *rejecting the idea*
 > "No, we don't."
 
-**GM** — *as Calmer, laughing at the suggestion*
 > *Calmer laughs at him.* "Meteor Swarm, no. No, no, we do not have one of those."
 
 **Sequoia** — *asking whether anyone in the lower temple might*
@@ -255,7 +257,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **GM** — *describing Varek Solain's improved condition*
 > "He's looking a little bit better! No longer defeated, no longer feeling that the world has come to an end."
 
-**GM** — *as Varek Solain, asking why they came*
 > *He looks at them.* "What's the problem?"
 
 **Sequoia** — *stating their need*
@@ -342,7 +343,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Zephyr** — *identifying the issue*
 > "Logistics."
 
-**GM** — *as Varek Solain, turning to Sequoia*
 > *He turns to Sequoia.* "You're the head of logistics."
 
 **Sequoia** — *summarizing his position*
@@ -354,7 +354,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Sequoia** — *asking what is required*
 > "What do you need?"
 
-**GM** — *as Varek Solain, pausing before answering*
 > *He pauses.*
 
 **GM** — *as Varek Solain, identifying the supply-chain problem*
@@ -363,7 +362,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Sequoia** — *supporting a trip to Nulb*
 > "Let's— let's go to Nulb."
 
-**GM** — *as Varek Solain, offering fire arrows in the meantime*
 > *He hands them something.* "Alright — but in the meantime, since you said you needed fire—"
 
 **GM** — *as Varek Solain, presenting the ammunition*
@@ -384,7 +382,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Zephyr** — *acknowledging*
 > "Okay."
 
-**GM** — *as Varek Solain, pausing*
 > *He pauses.*
 
 **GM** — *as Varek Solain, emphasizing that the arrows are scarce*
@@ -435,7 +432,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Zephyr** — *clarifying the duty*
 > "Protected."
 
-**GM** — *describing Varek Solain's reaction*
 > *He smiles.*
 
 **GM** — *requesting insight*
@@ -486,7 +482,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Zephyr** — *conceding the point*
 > "That's true."
 
-**GM** — *as Varek Solain, proclaiming the Fire Temple's resurgence*
 > *He can't resist.* "And fire shall burn again!"
 
 **Zephyr** — *reacting cautiously*
@@ -531,137 +526,9 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **GM** — *confirming the fight*
 > "Alright, so you're gonna go deal with it?"
 
-**GM** — *starting combat*
-> "Let's roll for initiative, then."
-
-**GM** — *confirming surprise*
-> "Surprised, okay."
-
-**GM** — *as Calmer, proposing Hold Monster*
 > *Calmer speaks up.*
 
-**GM** — *as Calmer, proposing the tactic*
 > *Calmer suggests it.* "You dare to—" *He proposes casting Hold Monster, and the party attacking it that way.*
-
-**GM** — *casting the spell*
-> "Alright, he casts Hold Monster."
-
-**GM** — *resolving the saving throw*
-> "Gets a really high Wisdom."
-
-**GM** — *announcing the result*
-> "That's okay."
-
-**GM** — *confirming paralysis*
-> "The creature is held. Excellent."
-
-**GM** — *explaining the advantage*
-> "So while it's held, you get certain advantages."
-
-**GM** — *describing the paralyzed condition*
-> "Paralyzed condition — attacks automatically have advantage."
-
-**Zephyr** — *reacting*
-> "Oh, okay."
-
-**GM** — *explaining automatic critical hits at close range*
-> "If you're within 5 feet, it counts as a critical."
-
-**Zephyr** — *checking the implication*
-> "So I can double— yes."
-
-**GM** — *warning that the creature can repeat its save*
-> "But just to be clear, every round the creature gets a chance to roll his saving throw, alright?"
-
-**Zephyr** — *predicting a quick kill*
-> "If me and Sequoia come close, you could be dead in, like, a single one."
-
-**GM** — *agreeing*
-> "That is indeed a possibility. Alright, Zinnia, you're up."
-
-**Zinnia** — *moving into position*
-> "I'll go next."
-
-**Zinnia** — *asking for the target's armor class*
-> "And… what's his armor class?"
-
-**GM** — *clarifying*
-> "His armor class."
-
-**GM** — *giving the value*
-> "Armor class is 15."
-
-**Zinnia** — *checking whether the hit is automatically critical*
-> "If I hit, critical immediately."
-
-**GM** — *confirming*
-> "Yes. You have the incapacitated condition."
-
-**Zinnia** — *checking both attacks*
-> "So it's critical both times?"
-
-**GM** — *confirming every attack roll*
-> "Yes. Any attack roll, yes. All attack rolls are considered critical."
-
-**Zinnia** — *reporting the first damage*
-> "27 points of damage."
-
-**Zinnia** — *spending a focus point*
-> "I use a focus point."
-
-**GM** — *acknowledging*
-> "Okay."
-
-**GM** — *asking for the next damage*
-> "How much damage?"
-
-**Zinnia** — *reporting it*
-> "19 points of damage."
-
-**GM** — *confirming*
-> "19 points of damage? Okay."
-
-**GM** — *calling Zephyr's turn*
-> "Okay, Zephyr, you're up."
-
-**Zephyr** — *moving next to the held creature*
-> "I'll come right next to him."
-
-**GM** — *reminding him that sneak-attack dice also double*
-> "Yep. Don't forget, sneak attack bonus is doubled as a result of a critical hit."
-
-**Zephyr** — *reporting the attack roll before correcting what the number means*
-> "So I attack. 27, I think it's enough."
-
-**GM** — *mistaking it for damage*
-> "27 points of damage?"
-
-**Zephyr** — *correcting the misunderstanding*
-> "No, no, no — I mean, like, 27 DC."
-
-**GM** — *giving the target's armor class*
-> "So you approach here. He's got 15 armor class."
-
-**Zephyr** — *confirming the hit*
-> "Yes, I make it."
-
-**Zephyr** — *rolling the doubled sneak attack*
-> "And I do 10d6 worth of sneak attack."
-
-**Zephyr** — *reporting the sneak-attack damage*
-> "43 damage?"
-
-**Zephyr** — *adding the weapon damage*
-> "Alright, plus 9, so… 52 damage."
-
-**GM** — *calling Sequoia's turn*
-> "Alright? Sequoia, you're up."
-
-**Sequoia** — *starting his attack*
-> "Okay."
-
-**Sequoia** — *confirming his position*
-> "Yeah, yeah, yeah. Alright."
 
 **Sequoia** — *announcing the hit*
 > "I hit—"
@@ -723,93 +590,11 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Sequoia** — *swearing again*
 > "What the fuck!"
 
-**GM** — *asking whether Sequoia will stay nearby*
-> "Alright, Sequoia, are you staying there, or are you using your bonus?"
-
-**Sequoia** — *remembering his second attack*
-> "Yo, I have another attack."
-
-**Sequoia** — *apologizing*
-> "Sorry."
-
-**GM** — *allowing it*
-> "Alright."
-
-**Sequoia** — *reporting the second attack's damage*
-> "8 points of damage."
-
-**GM** — *assuming Sequoia disengages*
-> "Alright, I presume you're using your bonus action to go away?"
-
-**Sequoia** — *confirming while still reacting to the roll*
-> "Yeah — what the fuck was that, dude?"
-
-**GM** — *giving the creature another saving throw*
-> "Hold on. Let's see, the creature gets its chance to make a saving throw."
-
-**Sequoia** — *lamenting the missed damage*
-> "That's so stupid! I could've dealt—"
-
-**GM** — *announcing that the paralysis holds*
-> "Alright, the creature's still paralyzed."
-
-**Zephyr** — *welcoming the result*
-> "Okay, that's good."
-
-**Sequoia** — *cursing Frostbrand*
 > *Sequoia curses at Frostbrand.* "You had one job."
 
-**GM** — *casting Toll the Dead*
-> "2d6 plus 3— alright, is going to cast, Sacred— I guess, Toll the Dead."
-
-**GM** — *as Calmer, praising the new spell*
 > *Calmer says:* "This new spell of mine is very effective."
 
-**GM** — *checking whether the target remains held*
-> "Alright."
-
-**Zinnia** — *asking about the paralysis*
-> "Is he still held?"
-
-**GM** — *confirming*
-> "Oh, yes, he's still held."
-
-**Zinnia** — *attacking and asking about remaining health*
-> "Okay, I'll attack him. How many hit points do you have left?"
-
-**GM** — *answering*
-> "70."
-
-**Zinnia** — *reporting damage*
-> "32 points of damage."
-
-**GM** — *calling Zephyr's turn*
-> "Because I can't actually move. Alright, Zephyr, you're up."
 <!-- upstream attribution defect (A01, GM-ruled: leave the label alone): the first clause reads as the tail of Zinnia's turn. scene_extractions/ carries the same fused block. -->
-
-**Zephyr** — *predicting the kill*
-> "This is when he dies."
-
-**Sequoia** — *wanting another chance to attack*
-> "Well, I need to get, like, one more attack in—"
-
-**Zephyr** — *announcing the hit*
-> "I attack— I— Hit."
-
-**Zephyr** — *checking sneak attack*
-> "This is— sneak attack? Bonus?"
-
-**GM** — *confirming*
-> "Yeah, sneak attack, bro."
-
-**Zephyr** — *checking whether it is still critical*
-> "No crit?"
-
-**GM** — *confirming the critical hit*
-> "Crit, still crit. He's paralyzed."
-
-**Zephyr** — *reporting the final damage*
-> "57."
 
 **GM** — *announcing the kill*
 > "Alright, the creature dies."
@@ -817,7 +602,6 @@ from: ../scene_extractions/02_the_garbage_room_and_the_fire_temple.md
 **Sequoia** — *reacting*
 > "Bruh…"
 
-**GM** — *describing Calmer's satisfaction*
 > *Calmer is very pleased with himself.*
 
 **GM** — *describing the party leaving the Garbage Room to burn*
