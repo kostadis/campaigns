@@ -1,4 +1,4 @@
-# Chapter 08 Investigations, and quests in Sheernob. 
+# Chapter 08 Investigations, and quests in Sheernobb. 
 
 ### Planting 21, 579 Early Afternoon
 
@@ -47,7 +47,7 @@ The bookkeeper suggests that we *employ more advanced security measures. Enchant
 
 Zinnia sighs, “Another ignorant fool.” 
 
-Zinnia is about to leave in frustration and irritation, but Grindin finally confirms that Palsmarie Clee has information on the bandits. 
+Zinnia is about to leave in frustration and irritation, but Grindin finally confirms that Pasmarie Clee has information on the bandits. 
 
 Zinnia smiles when Zephyr finds a map of the local area. The jobs they found in town are in an area they know little about, and a map will come in handy. 
 
@@ -165,7 +165,7 @@ Zinnia turns to Zephyr, “She’s a hag.”
 
 “No, look\!” 
 
-Zephy realizes what she is and draws his sword. 
+Zephyr realizes what she is and draws his sword. 
 
 Aunt Emma screams, and the illusion of her appearance disappears. She is now a green hag, her skin green, her eyes green, her hand's claws, and her mouth riddled with sharp teeth. 
 

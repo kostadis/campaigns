@@ -13,3 +13,8 @@ temple/.obsidian/
 
 # Large module-scan PDF (35MB — kept on disk, not in history)
 docs/background/T1-4_Temple_of_Elemental_Evil_(1e)-notes.pdf
+
+# Zoom session audio. Kept on disk, not in history — same policy as the
+# module-scan PDF above. No .m4a has ever been tracked in this repo; the
+# 20260830 recording alone is 68MB.
+summaries/*/*.m4a

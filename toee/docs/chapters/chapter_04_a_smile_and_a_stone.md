@@ -28,7 +28,7 @@ Zephyr takes stock of Thorne or Duke. He is a rugged man in his late 30s with a 
 
 Zephyr says, “Well, since we are all here, let’s go outside and wait for the rest of the crew.” 
 
-##  Zinia
+##  Zinnia
 
 The masked one had been watching Zephyr and their two new companions, trying to see if anything was off. He noticed nothing. 
 
@@ -42,9 +42,9 @@ A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of t
 
 The Duke sets up camp just past the drawbridge that leads into the moathouse, wishing the group luck. 
 
-Calmer is a bit insecure about this being his first adventure, so he lets Zephyr and Zinia advance first. 
+Calmer is a bit insecure about this being his first adventure, so he lets Zephyr and Zinnia advance first. 
 
-Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him. When he has a chance to absorb the tactical situation, he sees that all the frogs missed. 
+Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinnia flatfooted, they miss him. When he has a chance to absorb the tactical situation, he sees that all the frogs missed. 
 
 “The last ribbit,” he thinks. 
 
@@ -52,25 +52,25 @@ A few seconds later, the ground is drenched in the blood of giant frogs.
 
 Thurne shouts, “I can cook something nice with those legs. Tastes like chicken.” 
 
-Zinia glares. 
+Zinnia glares. 
 
 He’s about to go on the drawbridge when Calmer shouts, “I think it’s time that I did what all great clerics of St. Cuthbert do, which is lead.”
 
 Thurne shouts, “Do you want the horses?” 
 
-Zinia watches as Calmer marches onto the drawbridge. At the last moment, the masked spy notices the bridge rotting. He’s about to shout when four more giant frogs jump onto the bridge. 
+Zinnia watches as Calmer marches onto the drawbridge. At the last moment, the masked spy notices the bridge rotting. He’s about to shout when four more giant frogs jump onto the bridge. 
 
-The frogs' and the party's weight causes the bridge to shatter. Zinia doesn’t fall in, but Sequoia and Calmer do. He looks around and sees Zephyr still standing on the bridge. Sequoia and Calmer have been injured from the falling debris, but so have two frogs. 
+The frogs' and the party's weight causes the bridge to shatter. Zinnia doesn’t fall in, but Sequoia and Calmer do. He looks around and sees Zephyr still standing on the bridge. Sequoia and Calmer have been injured from the falling debris, but so have two frogs. 
 
-A frog chomps at Calmer and is knocked to death’s door. Zinia mutters to himself that this is not the kind of start that will ingratiate him with the clerics of St. Cuthbert. 
+A frog chomps at Calmer and is knocked to death’s door. Zinnia mutters to himself that this is not the kind of start that will ingratiate him with the clerics of St. Cuthbert. 
 
-Zinia jumps into the water and strikes and kills one of the injured Frogs. 
+Zinnia jumps into the water and strikes and kills one of the injured Frogs. 
 
 From behind him, he hears another frog croak. It’s last. It is dead at Zephyr's hand.  
 
-As Sequioa almost kills another frog, Zinia rushes to Calmer, pulls him out of the water, and patches his wound. 
+As Sequoia almost kills another frog, Zinnia rushes to Calmer, pulls him out of the water, and patches his wound. 
 
-When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian’s skull. 
+When Zinnia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian’s skull. 
 
 ## Sequoia
 
@@ -99,11 +99,11 @@ When Zephyr asks if he should use a mage’s hand to open the door, Sequoia wave
 
 A sudden bang is heard in the room just outside the door. “Zephyr has used an illusion to get the folks inside to open the door for us,” thinks Sequoia. 
 
-The door opens, and a man in scruffy, dirty clothes with yellowing teeth peers through. He then retreats into the door, and there is muttering. Sequoia can’t understand what they are saying. He looks to Zinia and Zephyr, but they shake their heads as well. 
+The door opens, and a man in scruffy, dirty clothes with yellowing teeth peers through. He then retreats into the door, and there is muttering. Sequoia can’t understand what they are saying. He looks to Zinnia and Zephyr, but they shake their heads as well. 
 
 The two rogues and the monk co-ordinate with hand gestures. They will sneak into the room one at a time, attack, and retreat. 
 
-Sequoia waits as Zephyr enters. He hears a body fall to the ground. As Zephyr exits, he indicates seven more left and that the leader is dead. Sequoia waits as Zinia enters. The satisfying sound of a body hitting the ground quietly precedes Zinia’s return. 
+Sequoia waits as Zephyr enters. He hears a body fall to the ground. As Zephyr exits, he indicates seven more left and that the leader is dead. Sequoia waits as Zinnia enters. The satisfying sound of a body hitting the ground quietly precedes Zinnia’s return. 
 
 The rogue sneaks in the past through the door and sees the bandit leader dead on the ground, pooling in blood in the middle of the room. To his left is another dead bandit. Sequoia kills one with his shortswords and then leaves the chamber. 
 
@@ -111,9 +111,9 @@ The bandits recover from the shock of the surprise attack and start screaming th
 
 Sequoia kills one more of the bandits and then stands in front of the exit, blocking it. 
 
-He turns to Zinia, “Keep him alive. We want to interrogate him.” 
+He turns to Zinnia, “Keep him alive. We want to interrogate him.” 
 
-Zinia knocks him out with a flurry of blows. 
+Zinnia knocks him out with a flurry of blows. 
 
 Sequoia stands up, and just then, Calmer walks in and says, “I think it’s important that we callto  calm down.” 
 

@@ -6,11 +6,11 @@ Date: Mar 11th, 2026
 
 The party's attempt at a long rest was shattered in the dead of night when Zinnia's sharp senses caught the unmistakable sound of dragging chains and a haunting, animalistic chorus echoing from beyond their southern door — the guttural roar of a lion twisted together with the frantic, deranged bleating of a giant goat. He roused his companions just in time, for moments later the door exploded inward as a monstrous Chimera came crashing through, its three heads snarling with demonic fury. Behind it, a Fire Temple warlock gripped the beast's chain and bellowed a declaration of war, proclaiming that Alrrem, the all-consuming, had sent his champion to break their bones and leave nothing but meat for the earth. The creature was a horrifying amalgamation — the hindquarters of a great goat, the powerful forequarters of a lion, and the leathery wings of a dragon, each head driven by its own savage instinct to hunt, hoard, and destroy.
 
-The battle that followed was desperate and brutal. Sequioa charged the beast head-on but was quickly overwhelmed, battered into unconsciousness by the combined fury of the Chimera's attacks and the warlock's crackling magical blasts. Calmer called upon divine power to mend Sequioa's wounds and bring him back to his feet, even as the warlock continued to goad the beast forward. It was Zephyr who turned the tide, slipping past the rampaging monster and ripping the control chain clean from the warlock's hands, leaving the man screaming in terror at what he had unleashed. The Chimera, now free of its handler, thrashed wildly — its chain whipping through the air as the warlock scrambled desperately to reclaim it.
+The battle that followed was desperate and brutal. Sequoia charged the beast head-on but was quickly overwhelmed, battered into unconsciousness by the combined fury of the Chimera's attacks and the warlock's crackling magical blasts. Calmer called upon divine power to mend Sequoia's wounds and bring him back to his feet, even as the warlock continued to goad the beast forward. It was Zephyr who turned the tide, slipping past the rampaging monster and ripping the control chain clean from the warlock's hands, leaving the man screaming in terror at what he had unleashed. The Chimera, now free of its handler, thrashed wildly — its chain whipping through the air as the warlock scrambled desperately to reclaim it.
 
 With the beast unbound, chaos reigned. The Chimera unleashed a devastating breath of fire upon both the warlock and a nearby bugbear who had tried to intervene, scorching them badly. Zinnia darted in to deliver a series of precise strikes before retreating to safety, while Zephyr managed to snatch up the fallen chain once more in a bold attempt to dominate the creature. The warlock, badly burned and barely standing, screamed that they were all mad — but Zinnia silenced him permanently with a flurry of devastating blows, leaving the Fire Temple's champion dead on the stone floor. The Chimera, however, was far from finished, and it turned its full, unhinged fury upon those who remained.
 
-Zephyr bore the brunt of the beast's wrath, suffering a savage onslaught of bites and claws that left the rogue crumpled and unconscious. Calmer, muttering something about having only walking band-aids to offer, called upon his divine gifts once more to pull Zephyr back from the edge of death. Sequioa, having recovered and hidden himself behind a chest, loosed a precise shot that left the Chimera teetering on the very brink of collapse — but the enraged beast charged him before he could finish it, knocking him unconscious with a series of brutal strikes. It was Calmer who ended it, invoking the tolling resonance of necrotic power that rang out like a funeral bell, dropping the Chimera dead upon the cold stone floor.
+Zephyr bore the brunt of the beast's wrath, suffering a savage onslaught of bites and claws that left the rogue crumpled and unconscious. Calmer, muttering something about having only walking band-aids to offer, called upon his divine gifts once more to pull Zephyr back from the edge of death. Sequoia, having recovered and hidden himself behind a chest, loosed a precise shot that left the Chimera teetering on the very brink of collapse — but the enraged beast charged him before he could finish it, knocking him unconscious with a series of brutal strikes. It was Calmer who ended it, invoking the tolling resonance of necrotic power that rang out like a funeral bell, dropping the Chimera dead upon the cold stone floor.
 
 In the quiet aftermath, the party searched the warlock's charred remains and uncovered a trove of revealing items. A wax-sealed ledger bore the crest of a crimson ship — a bill of sale from Captain Varsik of the Crimson Trader, detailing the purchase of the Chimera paid in full by the Fire Temple. More damning still, the name Vesrek  appeared in the document — an ally of Belsornig, the prophet of the Water Temple — suggesting the Water Temple had orchestrated the whole affair as a calculated win-win, either eliminating the party or bankrupting the Fire Temple in the process. The warlock also carried a heavy gold amulet bearing the eight-pointed symbol of the Fire Temple, a potion of fire resistance he had never managed to reach for in the chaos, and a masterwork whip of alchemically treated red leather. The heavy iron collar and chains used to control the beast were stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb had been paid to deliver the monster to the temple.
 
@@ -41,8 +41,8 @@ It was during this meeting that the party's ambitions crystallized into a bold a
 - Zinnia wakes the party after hearing the sound of dragging chains and animalistic roars outside their door.  
 - A Chimera, controlled by a warlock from the Fire Temple, smashes through the door to attack the party.  
 - The warlock commands the beast to tear the party apart as retribution for their actions against the Fire Temple.  
-- Sequioa rushes the Chimera but is quickly overwhelmed by the beast's ferocity and the warlock's magical blasts.  
-- Calmer uses divine magic to harm the Chimera and heal the fallen Sequioa.  
+- Sequoia rushes the Chimera but is quickly overwhelmed by the beast's ferocity and the warlock's magical blasts.  
+- Calmer uses divine magic to harm the Chimera and heal the fallen Sequoia.  
 - Zephyr maneuvers past the beast to confront the warlock directly, successfully ripping the control chain from his hands.  
 - The warlock is left terrified as he loses control of the monstrous Chimera.
 
@@ -58,8 +58,8 @@ It was during this meeting that the party's ambitions crystallized into a bold a
 - The Chimera focuses its fury on Zephyr, unleashing a flurry of bites and claw attacks that leave the rogue unconscious.  
 - Calmer uses divine magic to heal Zephyr, bringing him back into the fight.  
 - Zephyr attempts to use the chain to intimidate and dominate the beast, but the Chimera thwarts the effort.  
-- Sequioa hides behind a chest and launches a precise ranged attack, leaving the Chimera on the brink of death.  
-- The Chimera charges Sequioa, knocking the halfling unconscious with a series of brutal strikes.  
+- Sequoia hides behind a chest and launches a precise ranged attack, leaving the Chimera on the brink of death.  
+- The Chimera charges Sequoia, knocking the halfling unconscious with a series of brutal strikes.  
 - Calmer invokes necrotic power, finally slaying the Chimera as it stands over the fallen party members.
 
 ### Aftermath and Looting
@@ -176,11 +176,11 @@ A high-quality whip woven with alchemically treated red leather, found among the
 
 ### Eldritch Blast
 
-Beams of crackling energy fired by the Fire Temple warlock at Sequioa, dealing significant damage early in the fight.
+Beams of crackling energy fired by the Fire Temple warlock at Sequoia, dealing significant damage early in the fight.
 
 ### Healing Word
 
-A quick divine incantation used by Calmer on two separate occasions during the battle — first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death.
+A quick divine incantation used by Calmer on two separate occasions during the battle — first to restore Sequoia to consciousness, and later to bring Zephyr back from the brink of death.
 
 ### Toll the Dead
 

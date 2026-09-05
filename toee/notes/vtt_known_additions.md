@@ -30,3 +30,6 @@ relevant. Treat this file as a staging holding area, not canon.
 ## 2026-08-29 (session 20260823, Chapter 33)
 - Bitty — confirmed by the GM as a real name during VTT spell-pass review; first context: “Yeah, let's keep looking at Bitty.”
 - Nick — real-world player name of Sequoia, confirmed by the GM during VTT spell-pass review; first context: “And Nick's on the wrong Zoom.”
+
+## 2026-09-05 (session 20260830, Chapter 34 "The Sleeper in the Iron Coffin")
+- Rhennee — the Greyhawk river folk; the Velkori are a Rhennee clan. Spelling ruled by the GM during VTT spell-pass review (2026-09-05) after Zoom heard `Rene Riverfolk` and the second transcription heard `Renee River folk`. Canonical form comes from `notes/sessions/nulb-knows-now.md` (lines 93, 234, 341, 353, 358, 375, 1054), which spells it **Rhennee** throughout. **Not yet in `docs/entity_registry.yaml`** — promote it there (the four `* Velkori` NPCs are already registered, the people are not).

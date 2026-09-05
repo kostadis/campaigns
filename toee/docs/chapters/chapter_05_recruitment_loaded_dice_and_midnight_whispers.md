@@ -8,7 +8,7 @@ A few hours later, the heroes can see “The Tower” in the distance and wonder
 
 Calmer insists, “We must go to the Prefect and inform him of what has happened\!” 
 
-Sequoia, Zinia, and Zephyr agree. Of all the factions, at least this one had skin in the game. 
+Sequoia, Zinnia, and Zephyr agree. Of all the factions, at least this one had skin in the game. 
 
 As they trudge through the village, the locals notice them and quietly discuss why the adventurers are back. 
 
@@ -18,7 +18,7 @@ The Prefect examines the stone that Calmer has produced, rubs it between his fin
 
 Calmer is shocked.
 
-Zinia asks for the rock, but Terjon surprisingly says, “I would like to keep this worthless rock.” 
+Zinnia asks for the rock, but Terjon surprisingly says, “I would like to keep this worthless rock.” 
 
 Zephyr is intrigued by Terjon wanting to hold onto a worthless rock. He decides that he doesn’t wish Terjon to keep it. He smiles sweetly, “If this rock is so worthless, why keep it?” 
 
@@ -47,7 +47,7 @@ Zephyr thinks, “Other than half the village.” And then he says, “Of course
 
 The two men then thank Zephyr and leave with their guards. 
 
-As Zephyr, Zinia, and Sequoia enjoy their drink, Ostler, the innkeeper, sits at the table \- “I see Burne and Rufus like you.” 
+As Zephyr, Zinnia, and Sequoia enjoy their drink, Ostler, the innkeeper, sits at the table \- “I see Burne and Rufus like you.” 
 
 “Not sure I would call it like.” 
 
@@ -57,7 +57,7 @@ As Zephyr, Zinia, and Sequoia enjoy their drink, Ostler, the innkeeper, sits at 
 
 “I’ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.” 
 
-Zinia gets the point and gets up, heading to the door. Ostler grabs him by the arm, “So that you know; adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.” 
+Zinnia gets the point and gets up, heading to the door. Ostler grabs him by the arm, “So that you know; adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.” 
 
 Like all the other town leaders, he is disappointed when Jaroo is presented with the stone and confession.
 
@@ -65,17 +65,17 @@ Like all the other town leaders, he is disappointed when Jaroo is presented with
 
 Zephyr sighs and heads out of the grove. As he leaves, Jaroo shouts, “Who else have you spoken to?” 
 
-Zinia realizes this town has no secrets, and he tells the truth. 
+Zinnia realizes this town has no secrets, and he tells the truth. 
 
 Jaroo is pleased and offers them the blessing of Beory and a healing potion. 
 
-“We should go talk to the village elder,” mutters Zinia. As an expert on local politics, he understands the importance of getting local leaders on board. 
+“We should go talk to the village elder,” mutters Zinnia. As an expert on local politics, he understands the importance of getting local leaders on board. 
 
 ![][image3]
 
-And so Zinia leads them to a place with an eight-foot-high stone wall and a heavy gate. It is the residence of some well-to-do folk and easily defensible in times of trouble.
+And so Zinnia leads them to a place with an eight-foot-high stone wall and a heavy gate. It is the residence of some well-to-do folk and easily defensible in times of trouble.
 
-They open the gate and step inside. Looking around, Zinia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children of different ages is running around. 
+They open the gate and step inside. Looking around, Zinnia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children of different ages is running around. 
 
 He also notes that there are some servants here as well.
 
@@ -105,7 +105,7 @@ The Elder concludes, “Therefore, going forward, I expect you all to come here 
 
 They all nod and leave politely after sampling some of the treats that Kenter’s wife, Valsenora, brings to the table. 
 
-“Well, that was interesting,” mutters Zinia. 
+“Well, that was interesting,” mutters Zinnia. 
 
 From there, the trio heads to the Inn of the Welcome Wench, where Ostler, obviously informed of the visit to Jaroo and the blessing, greets the trio at the door.   
 From there, he ushers them into the kitchen, explaining that his job offer is to prove that Furnoc is a crook who steals from the Inn’s guests. 
@@ -116,7 +116,7 @@ Zephyr smiles, “No problem.”
 
 Unfortunately, it is a problem, as his attempt at pick-pocketing Furnok the Fabulous fails. Seeing his opportunity lost, he creates a distraction for Sequoia or Zenia to try their luck. So he falls on the table that Furnok is sitting on, causing the table to tip over. 
 
-Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded—“The proof I needed\!” 
+Zinnia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded—“The proof I needed\!” 
 
 Ostler confronts Furnok, who rejects the accusations. Things start to escalate when a burly, muscular man sitting at another table shouts, “Get out of here, Furnok, or I’ll have to call the Captain, and he won’t be as kindly as Ostler is.” 
 
@@ -128,7 +128,7 @@ Zephyr smiles, “There is a monster in the Gnarley forest, and we will need som
 
 Elmo mutters, “I am your person\!” 
 
-While this witty dialogue is going on with Elmo, Zinia carefully listens to the conversations and talks amongst the patrons. Overhearing one pair, he learns  that a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.” The person hearing the tale turns to his companion and replies, “ I hope she can swing a sword better than she can plow a field.” 
+While this witty dialogue is going on with Elmo, Zinnia carefully listens to the conversations and talks amongst the patrons. Overhearing one pair, he learns  that a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.” The person hearing the tale turns to his companion and replies, “ I hope she can swing a sword better than she can plow a field.” 
 
 From another person, he hears, “ There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.” 
 
@@ -156,22 +156,22 @@ The Trio stares at each other and then wordlessly agrees to look into this poten
 
 Mickey smiles and leaves, relieved. 
 
-Towards midnight, Zephyr, Zinia, and Sequoia climb outside their room window and drop to the ground. The village is eerily quiet, with none of the noise of the day. In particular, Sequoia notices how much noise the castle construction makes. 
+Towards midnight, Zephyr, Zinnia, and Sequoia climb outside their room window and drop to the ground. The village is eerily quiet, with none of the noise of the day. In particular, Sequoia notices how much noise the castle construction makes. 
 
-The village has no lights, making the journey to the brewery much easier. Zinia and Sequoia take the position to watch anyone arriving or leaving, and Zephyr plans to sneak up on the spies. 
+The village has no lights, making the journey to the brewery much easier. Zinnia and Sequoia take the position to watch anyone arriving or leaving, and Zephyr plans to sneak up on the spies. 
 
 At around midnight, Mickey’s spies show up. Zephyr quickly advances on them, his sword in his right hand, and puts the blade to the throat of the smaller of the two—the spy shrieks. 
 
 Before he can do anything, the other spy starts to cry. 
 
-Zinia and Sequoia come rushing out of their hiding spots; weapons bared and somewhat confused. 
+Zinnia and Sequoia come rushing out of their hiding spots; weapons bared and somewhat confused. 
 
 Zephyr uses all his tiefling fierceness to force the two squealing teenagers to be quiet. And then he asks, “What’s going on?”   
 The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won’t let Jira be with Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert. 
 
-Zinia snarls and tells them to go away. 
+Zinnia snarls and tells them to go away. 
 
-As they leave, Jira pleads with Zinia to help them and talk to their parents \- “You’re heroes, and they’ll listen\!” 
+As they leave, Jira pleads with Zinnia to help them and talk to their parents \- “You’re heroes, and they’ll listen\!” 
 
 Sequoia struggles to sleep as he thinks about Zephyr looking confused and the two teenagers squealing. 
 
@@ -214,7 +214,7 @@ Calmer gulps.
 
 Inside the courtyard, Calmer asks, “What do we want to check out?” 
 
-Zinia points to the tower that they ignored last time.
+Zinnia points to the tower that they ignored last time.
 
 The two rogues peer inside. The upper portion of the tower has collapsed, and the interior is dark. Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins. 
 
@@ -224,7 +224,7 @@ They find an ivory box about the size of a large book among the treasures.
 
 With his allies following, Sequoia crosses the courtyard, enters the great hall, and turns west into a passageway with two doors on the south and one to the north. The passageway ends at the door. 
 
-The first door to Sequoia’s left opens into a trophy room. Only a few mangy pelts, stuffed heads, and shattered antlers remain. Zinia, who enters the room, looks more carefully and realizes that some of the trophies are the heads of dwarves, humans, and elves \- “Enemies of the temple,” he mutters..” 
+The first door to Sequoia’s left opens into a trophy room. Only a few mangy pelts, stuffed heads, and shattered antlers remain. Zinnia, who enters the room, looks more carefully and realizes that some of the trophies are the heads of dwarves, humans, and elves \- “Enemies of the temple,” he mutters..” 
 
 The next door on the southern wall opens into the domicile of the majordomo of the castle. Zephyr sighs; it’s stripped of anything valuable. 
 

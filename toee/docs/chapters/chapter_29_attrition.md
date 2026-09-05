@@ -186,7 +186,7 @@ Hartsch stared at him. "What do you mean we waited out?"
 
 Hartsch's voice went sharp.
 
-"But that… but that is Romarg's passive strategy!"
+"But that… but that is Romag's passive strategy!"
 
 There it was. A name that stung him, attached to a strategy that shamed him, and Zephyr had just handed it back as a reasonable plan. I caught it. Hartsch would rather lose aggressively than win the way that man had. Whatever it cost him.
 

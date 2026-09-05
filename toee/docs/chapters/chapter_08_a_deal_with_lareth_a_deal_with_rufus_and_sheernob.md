@@ -1,4 +1,4 @@
-# Chapter 07 A deal with Lareth, a deal with Rufus, and Sheernob
+# Chapter 07 A deal with Lareth, a deal with Rufus, and Sheernobb
 
 ### Planting 20, 579 Midday
 
@@ -203,7 +203,7 @@ Zephyr ponders his answer carefully, but Sequoia has already accepted the quest.
 
 *Great, now everyone in this town will want us to run some fetch quest.* 
 
-On cue, the cook, a half-orc named Quinna Pool, wearing an apron and smelling of the kitchen fire, approaches. “So you are adventurers. And you have pointy sticks, and you are for hire?” Zephyr wants to say no, but Sequoia says yes. 
+On cue, the cook, a half-orc named Quinna Poul, wearing an apron and smelling of the kitchen fire, approaches. “So you are adventurers. And you have pointy sticks, and you are for hire?” Zephyr wants to say no, but Sequoia says yes. 
 
 Quinna smiles and says, “It turns out that I want to prepare a celebratory meal for the Harvest Festival. I need the meat of a rare gnarled boar that roams the gnarly forest. It's notoriously elusive and dangerous, and nobody has gotten it for me.” 
 

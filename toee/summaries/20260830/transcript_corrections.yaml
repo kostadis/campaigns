@@ -1,0 +1,568 @@
+# Transcript corrections — the record the .cleaned.vtt is generated from.
+# CampaignGenerator #250 R4. Edit this file, then run:
+#     sd_corrections apply --dir .
+# `was` is checked against the raw tape on every apply, so a stale entry
+# fails loudly instead of pasting an old repair over new words.
+# All entries reviewed by the GM via the vtt-spell-pass review artifact
+# (8564286c, 2026-09-05): 34 approved corrections, 2 name rulings
+# (Rhennee, Velkori), 7 cue-scoped one-offs, 9 rejections.
+version: 1
+transcript: GMT20260830-150238_Recording.transcript.vtt
+corrections:
+- id: cue-0018
+  cue: 18
+  was: 'Kostadis Roussos: The Minotaur spoke only abyssal, a language none of them knew, not even Vurakal, the fire salamander, who complicated any plan to talk their way through.'
+  now: 'Kostadis Roussos: The Minotaur spoke only abyssal, a language none of them knew, not even Vurakhal, the fire salamander, who complicated any plan to talk their way through.'
+  recorded: &id001 2026-09-05
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0021
+  cue: 21
+  was: 'Kostadis Roussos: Before looming over him with a murderous attempt, the double-headed axe in hand, Xenia moved to strike the creature, but failed to land a blow. And it was Calmer who stepped forward with a calm and persuasive voice, rolling a 21 on persuasion and somehow managing to give the beast pause, though it pointedly gestured at the prone zephyr as if sizing up eating material.'
+  now: 'Kostadis Roussos: Before looming over him with a murderous attempt, the double-headed axe in hand, Zinnia moved to strike the creature, but failed to land a blow. And it was Calmer who stepped forward with a calm and persuasive voice, rolling a 21 on persuasion and somehow managing to give the beast pause, though it pointedly gestured at the prone zephyr as if sizing up eating material.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0026
+  cue: 26
+  was: 'Kostadis Roussos: Zephyr promised. The party accepted the arrangement and quietly noted they now had a very large, very hungry guard on their payroll, and Zephyr had to physically pull Kalmer aside to stop the cleric from demanding the Minotaur formally acknowledge a new clerical order with the High Lord Master Kalbar.'
+  now: 'Kostadis Roussos: Zephyr promised. The party accepted the arrangement and quietly noted they now had a very large, very hungry guard on their payroll, and Zephyr had to physically pull Calmer aside to stop the cleric from demanding the Minotaur formally acknowledge a new clerical order with the High Lord Master Calmer.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0027
+  cue: 27
+  was: 'Kostadis Roussos: As the group moved deeper into the temple''s corridors, Colomar began to reveal a troubling shift in his thinking.'
+  now: 'Kostadis Roussos: As the group moved deeper into the temple''s corridors, Calmer began to reveal a troubling shift in his thinking.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0029
+  cue: 29
+  was: 'Kostadis Roussos: When Sequoia asked whether he was trying to get his clerical abilities taken away, Calmer airily explained that this was a common misconception, that once a cleric reaches a certain level of power, that power is intrinsic to him. Even Frostband, the party''s sentient sword, chimed to remind Sequoia that their plan had always been to remain discreet and avoid drawing attention to themselves.'
+  now: 'Kostadis Roussos: When Sequoia asked whether he was trying to get his clerical abilities taken away, Calmer airily explained that this was a common misconception, that once a cleric reaches a certain level of power, that power is intrinsic to him. Even Frostbrand, the party''s sentient sword, chimed to remind Sequoia that their plan had always been to remain discreet and avoid drawing attention to themselves.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0030
+  cue: 30
+  was: 'Kostadis Roussos: Calmer, for his first part, Colm reflected openly on his disillusionment with the Church of St. Cuthbert. His companions had arranged his return, with Xenia surrendering a magical trident to Turjohn as payment.'
+  now: 'Kostadis Roussos: Calmer, for his first part, reflected openly on his disillusionment with the Church of St. Cuthbert. His companions had arranged his return, with Zinnia surrendering a magical trident to Terjon as payment.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0035
+  cue: 35
+  was: 'Kostadis Roussos: Zephyr, as Chief of operations, resolved to delegate. We''ll get some other guys to do this. Colmer surveyed the rotting remains of what had once been a food storage area, declared them as absolutely unacceptable, and suggested that Dren Helveth and the broken laves be brought to clean it up.'
+  now: 'Kostadis Roussos: Zephyr, as Chief of operations, resolved to delegate. We''ll get some other guys to do this. Calmer surveyed the rotting remains of what had once been a food storage area, declared them as absolutely unacceptable, and suggested that Dren Halveth and the broken laves be brought to clean it up.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0036
+  cue: 36
+  was: 'Kostadis Roussos: Zephyr agreed that Dren was fond of Manuel Ledber. He then proposed assigning an individual storeroom to each of the elemental temples.'
+  now: 'Kostadis Roussos: Zephyr agreed that Dren was fond of manual labor. He then proposed assigning an individual storeroom to each of the elemental temples.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0038
+  cue: 38
+  was: 'Kostadis Roussos: The exploration was cut short when a massive, demented ghoul lurched out of the shadows of a quarter and fixed its hollow gaze on living wart of the party. Xenia immediately recognized immediately that a necromancer had been at work, the same one responsible for the undead that had plagued the temple before, now raising far more dangerous creatures than before. The battle was brutal, Sequoia struck first from hiding for 29 points of damage, and Zephyr followed'
+  now: 'Kostadis Roussos: The exploration was cut short when a massive, demented ghoul lurched out of the shadows of a quarter and fixed its hollow gaze on living wart of the party. Zinnia immediately recognized immediately that a necromancer had been at work, the same one responsible for the undead that had plagued the temple before, now raising far more dangerous creatures than before. The battle was brutal, Sequoia struck first from hiding for 29 points of damage, and Zephyr followed'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0042
+  cue: 42
+  was: 'Kostadis Roussos: Sequoia took 8 points from its claws, but shrugged off the paralysis. Xenia rolled a natural 20 to rather the creature''s foul, poisonous stench, having, as a masked by, smelled and tasted worse in his life, and delivered a series of devastating blows, even poisoned and fighting at a disadvantage.'
+  now: 'Kostadis Roussos: Sequoia took 8 points from its claws, but shrugged off the paralysis. Zinnia rolled a natural 20 to rather the creature''s foul, poisonous stench, having, as a masked by, smelled and tasted worse in his life, and delivered a series of devastating blows, even poisoned and fighting at a disadvantage.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0043
+  cue: 43
+  was: 'Kostadis Roussos: Sequoia continued to press the attack with his dagger until Xenia finally put the goal down for good.'
+  now: 'Kostadis Roussos: Sequoia continued to press the attack with his dagger until Zinnia finally put the goal down for good.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0046
+  cue: 46
+  was: 'Kostadis Roussos: Kalma read it with an expression of mild offense, then folded it and carefully tucked it away. Piercing what they knew, Xenia rolling a 21 and Zephyr a natural 20. The party formed a hypothesis about the press… about the threat. They remembered Roga Magmutter, that the undead on the first level no longer reported to him.'
+  now: 'Kostadis Roussos: Calmer read it with an expression of mild offense, then folded it and carefully tucked it away. Piercing what they knew, Zinnia rolling a 21 and Zephyr a natural 20. The party formed a hypothesis about the press… about the threat. They remembered Romag mutter that the undead on the first level no longer reported to him.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0047
+  cue: 47
+  was: 'Kostadis Roussos: Which implied they had once reported to somebody Barcanair had once led the Earth Temple before being promoted to the upper levels, and Rogue Mag had taken his place. They suspected another figure contacted to the transition might be the necromancer behind the attacks, and might resent the party''s occupation of the temple, but his identities and motives remained unconfirmed.'
+  now: 'Kostadis Roussos: Which implied they had once reported to somebody Barkinar had once led the Earth Temple before being promoted to the upper levels, and Romag had taken his place. They suspected another figure contacted to the transition might be the necromancer behind the attacks, and might resent the party''s occupation of the temple, but his identities and motives remained unconfirmed.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0053
+  cue: 53
+  was: 'Kostadis Roussos: self to be a finely crafted shield plus one. Colmer accepted it with great satisfaction. Very well done! That was very well done! And as the party themselves gathered to move on, the mentor''s earlier words drifted back to them. It had mentioned black cloak bandits attacking its territory, and now they understood.'
+  now: 'Kostadis Roussos: self to be a finely crafted shield plus one. Calmer accepted it with great satisfaction. Very well done! That was very well done! And as the party themselves gathered to move on, the mentor''s earlier words drifted back to them. It had mentioned black cloak bandits attacking its territory, and now they understood.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0054
+  cue: 54
+  was: 'Kostadis Roussos: Some of those bandits had not been living at all. The Terminator, it turned out, could eat the undead, but preferred fresh meat. As the saying goes, beggars can''t be pickers.'
+  now: 'Kostadis Roussos: Some of those bandits had not been living at all. The Minotaur, it turned out, could eat the undead, but preferred fresh meat. As the saying goes, beggars can''t be pickers.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0102
+  cue: 102
+  was: 'Kostadis Roussos: You just, found yourself your, your, treasure, the, the, the shield plus one that Palmer appropriated, mostly because he''s the only one who can wear a shield… carry a shield.'
+  now: 'Kostadis Roussos: You just, found yourself your, your, treasure, the, the, the shield plus one that Calmer appropriated, mostly because he''s the only one who can wear a shield… carry a shield.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0120
+  cue: 120
+  was: 'Kostadis Roussos: You should… if you''re… are you guys on the Rule 20?'
+  now: 'Kostadis Roussos: You should… if you''re… are you guys on the Roll 20?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0129
+  cue: 129
+  was: 'Thomas Kolivakis: Do we feed them to the Merito?'
+  now: 'Thomas Kolivakis: Do we feed them to the Minotaur?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0162
+  cue: 162
+  was: 'Thomas Kolivakis: Commer post, like, a notice saying, if you find this necromancer, you have to tell us.'
+  now: 'Thomas Kolivakis: Calmer post, like, a notice saying, if you find this necromancer, you have to tell us.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0163
+  cue: 163
+  was: 'Kostadis Roussos: Kulber goes, I think that''s a fantastic idea, Zephyr. As the Chief of Staff, I think you are responsible for all matters related to security operations. Produce an appropriate note, and I will sign it.'
+  now: 'Kostadis Roussos: Calmer goes, I think that''s a fantastic idea, Zephyr. As the Chief of Staff, I think you are responsible for all matters related to security operations. Produce an appropriate note, and I will sign it.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0165
+  cue: 165
+  was: 'Kostadis Roussos: But then he pauses. But I do feel, I turn to Xenia, as my chief of security, shouldn''t this really be your initiative?'
+  now: 'Kostadis Roussos: But then he pauses. But I do feel, I turn to Zinnia, as my chief of security, shouldn''t this really be your initiative?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0176
+  cue: 176
+  was: 'Kostadis Roussos: So, Xenia?'
+  now: 'Kostadis Roussos: So, Zinnia?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0253
+  cue: 253
+  was: 'Kostadis Roussos: Right. Vuracal, alright.'
+  now: 'Kostadis Roussos: Right. Vurakhal, alright.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0262
+  cue: 262
+  was: 'Kostadis Roussos: Do you go to, Workhal directly, or do you go through Captain, the captain of the guard or the local priest?'
+  now: 'Kostadis Roussos: Do you go to, Vurakhal directly, or do you go through Captain, the captain of the guard or the local priest?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0265
+  cue: 265
+  was: 'Thomas Kolivakis: Varik Sullen.'
+  now: 'Thomas Kolivakis: Varek Solain.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0266
+  cue: 266
+  was: 'Kostadis Roussos: Captain, Fire Varric.'
+  now: 'Kostadis Roussos: Captain, Fire Varek.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0268
+  cue: 268
+  was: 'Kostadis Roussos: So, Varic, you show up over here.'
+  now: 'Kostadis Roussos: So, Varek, you show up over here.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0273
+  cue: 273
+  was: 'Kostadis Roussos: Sorry, Xenia and Calmer aren''t here. Actually, Calmer suggests that the three of you can go. A few skeletons, he''s the master of his domain, and nobody would dare attack the new Temple… the Fire Temple Chief.'
+  now: 'Kostadis Roussos: Sorry, Zinnia and Calmer aren''t here. Actually, Calmer suggests that the three of you can go. A few skeletons, he''s the master of his domain, and nobody would dare attack the new Temple… the Fire Temple Chief.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0280
+  cue: 280
+  was: 'Kostadis Roussos: Yeah, it''s always dangerous. Alright, captain of the fire, Varik Sulane, sees you.'
+  now: 'Kostadis Roussos: Yeah, it''s always dangerous. Alright, captain of the fire, Varek Solain, sees you.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0306
+  cue: 306
+  was: 'Kostadis Roussos: who, when he didn''t get the job, Romack got the job.'
+  now: 'Kostadis Roussos: who, when he didn''t get the job, Romag got the job.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0308
+  cue: 308
+  was: 'Kostadis Roussos: But if you''ve been seeing undead show up, he''s around. And I told Alrem, I told him there was a necromancer, I told him to be careful, I told him… and he didn''t listen. And instead of going and finding that necromancer and making an alliance,'
+  now: 'Kostadis Roussos: But if you''ve been seeing undead show up, he''s around. And I told Alrrem, I told him there was a necromancer, I told him to be careful, I told him… and he didn''t listen. And instead of going and finding that necromancer and making an alliance,'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0324
+  cue: 324
+  was: 'Nicholas Roussos: Let''s pick up the go to Nob.'
+  now: 'Nicholas Roussos: Let''s pick up the go to Nulb.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0336
+  cue: 336
+  was: 'Kostadis Roussos: the Captain of the Fire. No, are you guys get… Captain Varric is offering you some fire arrows. Do you want to take those, or do you want to get Viracol?'
+  now: 'Kostadis Roussos: the Captain of the Fire. No, are you guys get… Captain Varek is offering you some fire arrows. Do you want to take those, or do you want to get Vurakhal?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0420
+  cue: 420
+  was: 'Kostadis Roussos: Xenia?'
+  now: 'Kostadis Roussos: Zinnia?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0424
+  cue: 424
+  was: 'Kostadis Roussos: Like, if you click on your… on Xenia, on the… the icon, right?'
+  now: 'Kostadis Roussos: Like, if you click on your… on Zinnia, on the… the icon, right?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0428
+  cue: 428
+  was: 'Kostadis Roussos: In Rule 20, yes.'
+  now: 'Kostadis Roussos: In Roll 20, yes.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0437
+  cue: 437
+  was: 'Kostadis Roussos: Alright, Xenia, just… can you add yourself, or…'
+  now: 'Kostadis Roussos: Alright, Zinnia, just… can you add yourself, or…'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0441
+  cue: 441
+  was: 'Kostadis Roussos: Alright, I will add you, Xenia. Alright, just tell me what your initiative is?'
+  now: 'Kostadis Roussos: Alright, I will add you, Zinnia. Alright, just tell me what your initiative is?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0448
+  cue: 448
+  was: 'Kostadis Roussos: Palmer actually rolled a very high initiative this time.'
+  now: 'Kostadis Roussos: Calmer actually rolled a very high initiative this time.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0449
+  cue: 449
+  was: 'Kostadis Roussos: Commerce, like…'
+  now: 'Kostadis Roussos: Calmer, like…'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0456
+  cue: 456
+  was: 'Kostadis Roussos: Alright, he casts Fold Monster.'
+  now: 'Kostadis Roussos: Alright, he casts Hold Monster.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0471
+  cue: 471
+  was: 'Kostadis Roussos: That is indeed a possibility. Alright, Xenia, you''re up.'
+  now: 'Kostadis Roussos: That is indeed a possibility. Alright, Zinnia, you''re up.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0573
+  cue: 573
+  was: 'Kostadis Roussos: Palmer…'
+  now: 'Kostadis Roussos: Calmer…'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0581
+  cue: 581
+  was: 'Kostadis Roussos: Colmer says, this new spell of mine is very effective.'
+  now: 'Kostadis Roussos: Calmer says, this new spell of mine is very effective.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0583
+  cue: 583
+  was: 'Kostadis Roussos: Xenia, you''re up.'
+  now: 'Kostadis Roussos: Zinnia, you''re up.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0746
+  cue: 746
+  was: 'Kostadis Roussos: Commer?'
+  now: 'Kostadis Roussos: Calmer?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0748
+  cue: 748
+  was: 'Kostadis Roussos: Xenia?'
+  now: 'Kostadis Roussos: Zinnia?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0822
+  cue: 822
+  was: 'Kostadis Roussos: Alright, roll a saving throw, Xenia.'
+  now: 'Kostadis Roussos: Alright, roll a saving throw, Zinnia.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0851
+  cue: 851
+  was: 'Kostadis Roussos: Homer does his thing.'
+  now: 'Kostadis Roussos: Calmer does his thing.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0890
+  cue: 890
+  was: 'Kostadis Roussos: The one that''s next to Xenia, you still have Sneak Attack. The one that''s next to Calmer, and the one that''s next to Xenia, you have sneak attack bonus.'
+  now: 'Kostadis Roussos: The one that''s next to Zinnia, you still have Sneak Attack. The one that''s next to Calmer, and the one that''s next to Zinnia, you have sneak attack bonus.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0910
+  cue: 910
+  was: 'Kostadis Roussos: Xenia, Europe.'
+  now: 'Kostadis Roussos: Zinnia, Europe.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0942
+  cue: 942
+  was: 'Kostadis Roussos: Kolmer''s armor class is 21.'
+  now: 'Kostadis Roussos: Calmer''s armor class is 21.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0963
+  cue: 963
+  was: 'Kostadis Roussos: And then this guy attacks, xenia.'
+  now: 'Kostadis Roussos: And then this guy attacks, Zinnia.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0966
+  cue: 966
+  was: 'Kostadis Roussos: What''s your armor class, Xenia?'
+  now: 'Kostadis Roussos: What''s your armor class, Zinnia?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-0974
+  cue: 974
+  was: 'Kostadis Roussos: Palmer says, when in doubt, reach for the best.'
+  now: 'Kostadis Roussos: Calmer says, when in doubt, reach for the best.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1001
+  cue: 1001
+  was: 'Kostadis Roussos: Xenia, you''re up.'
+  now: 'Kostadis Roussos: Zinnia, you''re up.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1021
+  cue: 1021
+  was: 'Kostadis Roussos: Alrighty. Okay. He, turns his mind blast on you, Sina. Roll a saving throw.'
+  now: 'Kostadis Roussos: Alrighty. Okay. He, turns his mind blast on you, Zinnia. Roll a saving throw.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1022
+  cue: 1022
+  was: 'Kostadis Roussos: Wisdom saving throw, Xenia.'
+  now: 'Kostadis Roussos: Wisdom saving throw, Zinnia.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1030
+  cue: 1030
+  was: 'Kostadis Roussos: Commer says.'
+  now: 'Kostadis Roussos: Calmer says.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1062
+  cue: 1062
+  was: 'Kostadis Roussos: Xenia, Europe.'
+  now: 'Kostadis Roussos: Zinnia, Europe.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1121
+  cue: 1121
+  was: 'Kostadis Roussos: You speak… Calder says, yes?'
+  now: 'Kostadis Roussos: You speak… Calmer says, yes?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1130
+  cue: 1130
+  was: 'Thomas Kolivakis: Guys, we''re going to trip the knob.'
+  now: 'Thomas Kolivakis: Guys, we''re going to trip to Nulb.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1134
+  cue: 1134
+  was: 'Kostadis Roussos: there''s… there''s other things that you have, you know, you''ve got your chest of Rao, which you still haven''t given… Bark and are still waiting to see what you''re gonna do with, right?'
+  now: 'Kostadis Roussos: there''s… there''s other things that you have, you know, you''ve got your chest of Rao, which you still haven''t given. Barkinar is still waiting to see what you''re gonna do with, right?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1163
+  cue: 1163
+  was: 'Kostadis Roussos: So, feed, usable bodies, give to Minotaur, but you''re… yeah, but, just to be clear, boss, you''re going to Null to sort out our food supply problems, right?'
+  now: 'Kostadis Roussos: So, feed, usable bodies, give to Minotaur, but you''re… yeah, but, just to be clear, boss, you''re going to Nulb to sort out our food supply problems, right?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1173
+  cue: 1173
+  was: 'Kostadis Roussos: Culver is very happy, he''s relaxed, he''s chilling out, he''s like, this is… I like being in charge.'
+  now: 'Kostadis Roussos: Calmer is very happy, he''s relaxed, he''s chilling out, he''s like, this is… I like being in charge.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1190
+  cue: 1190
+  was: 'Kostadis Roussos: Lucius Graham, write the name down. He collects the ones he gives you.'
+  now: 'Kostadis Roussos: Lucius Graeme, write the name down. He collects the ones he gives you.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1196
+  cue: 1196
+  was: 'Kostadis Roussos: I have it. I''m not giving it to Hedrach, nor to Shenshok, nor to any of the holy gentlemen who would like me dead. I''m not giving it to you either, but that is a separate conversation.'
+  now: 'Kostadis Roussos: I have it. I''m not giving it to Hedrack, nor to Senshock, nor to any of the holy gentlemen who would like me dead. I''m not giving it to you either, but that is a separate conversation.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1206
+  cue: 1206
+  was: 'Kostadis Roussos: So… so you guys know… so what you heard from Barcanar was there''s this guy called Valorant.'
+  now: 'Kostadis Roussos: So… so you guys know… so what you heard from Barkinar was there''s this guy called Falrinth.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1209
+  cue: 1209
+  was: 'Kostadis Roussos: And Barcanar considers him worth… considered worth mentioning… mentioning him.'
+  now: 'Kostadis Roussos: And Barkinar considers him worth… considered worth mentioning… mentioning him.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1212
+  cue: 1212
+  was: 'Kostadis Roussos: felt that this guy was worth talking about, but all he said is, we could talk about Valorinth later.'
+  now: 'Kostadis Roussos: felt that this guy was worth talking about, but all he said is, we could talk about Falrinth later.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1221
+  cue: 1221
+  was: 'Kostadis Roussos: Commerce pulls out a scarab that says TZGY, which you guys collected some time ago.'
+  now: 'Kostadis Roussos: Calmer pulls out a scarab that says TZGY, which you guys collected some time ago.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1235
+  cue: 1235
+  was: 'Kostadis Roussos: The holy gentleman keeps something in it. A sleeper. My leash is short, and the gates are watching. But you, you have keys I never did. If you ever want Verbabank and all its banners to come down on this terrible… hell… on this temple, and oh, they would come for this, wake what sleeps in the iron coffin.'
+  now: 'Kostadis Roussos: The holy gentleman keeps something in it. A sleeper. My leash is short, and the gates are watching. But you, you have keys I never did. If you ever want Verbobonc and all its banners to come down on this terrible… hell… on this temple, and oh, they would come for this, wake what sleeps in the iron coffin.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1243
+  cue: 1243
+  was: 'Kostadis Roussos: You''ve also learned that there is something deep forgotten on the level beneath your feet that the verbabank would want.'
+  now: 'Kostadis Roussos: You''ve also learned that there is something deep forgotten on the level beneath your feet that the Verbobonc would want.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1245
+  cue: 1245
+  was: 'Kostadis Roussos: So now, off to Knob.'
+  now: 'Kostadis Roussos: So now, off to Nulb.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1247
+  cue: 1247
+  was: 'Thomas Kolivakis: Let''s go to Nobel.'
+  now: 'Thomas Kolivakis: Let''s go to Nulb.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1264
+  cue: 1264
+  was: 'Kostadis Roussos: Okay, so you trust, and Sequoia lets it known. Xenia, do you let him know that, alright.'
+  now: 'Kostadis Roussos: Okay, so you trust, and Sequoia lets it known. Zinnia, do you let him know that, alright.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1283
+  cue: 1283
+  was: 'Kostadis Roussos: So as you''re heading back, smoke lies low over the river. The same barges lean at the same rod and piers. At the tavern doors, men are still arguing over which elemental prophet will win a war that ended beneath their feet 10 days ago. Null does not change. That is how you know nobody told it.'
+  now: 'Kostadis Roussos: So as you''re heading back, smoke lies low over the river. The same barges lean at the same rod and piers. At the tavern doors, men are still arguing over which elemental prophet will win a war that ended beneath their feet 10 days ago. Nulb does not change. That is how you know nobody told it.'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1291
+  cue: 1291
+  was: 'Kostadis Roussos: A child, a small child, a Valkyrie child, remember the guys that you helped, the Rene Riverfolk?'
+  now: 'Kostadis Roussos: A child, a small child, a Velkori child, remember the guys that you helped, the Rhennee?'
+  recorded: *id001
+  verified: true
+  note: vtt-spell-pass 2026-09-05; GM-reviewed in artifact 8564286c (46 rulings)
+- id: cue-1295
+  cue: 1295
+  was: 'Kostadis Roussos: It says, Skull says the captain is still telling people you''re dead. You thought you might enjoy the update. Captain Tullub?'
+  now: 'Kostadis Roussos: It says, Skole says the captain is still telling people you''re dead. You thought you might enjoy the update. Captain Tolub?'
+  recorded: *id001
+  verified: true
+  note: 'vtt-spell-pass 2026-09-05 (Tullub->Tolub, artifact 8564286c) + staged-consistency
+    stage 0 (Skull->Skole): GM ruled 2026-09-05 that he misread his own prep, which
+    scripts "Skole says the captain is still telling people you''re dead"
+    (notes/sessions/nulb-knows-now.md). Both independent transcriptions heard "Skull";
+    agreement confirms a word was spoken, not its spelling. Skole is a registry NPC.'

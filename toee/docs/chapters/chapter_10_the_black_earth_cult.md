@@ -22,7 +22,7 @@ I thank him.
 
 ###  Planting 23, 579 
 
-#### Sequioa
+#### Sequoia
 
 Quinna Poul comes rushing out of the kitchen as I saunter into the first floor dining area. 
 
@@ -54,7 +54,7 @@ And a few hours later, the potato is in my belly. And I feel blessed. The honey-
 
 “You served me well, potato. And you were certainly more filling than that rat I caught in that prison.” 
 
-As I put the last bit of food in my mouth, Palsmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet. 
+As I put the last bit of food in my mouth, Pasmarie Clee coughs. The beekeeper druid of Sheernobb is very quiet. 
 
 Has she walked into the Inn, or was she always there? 
 

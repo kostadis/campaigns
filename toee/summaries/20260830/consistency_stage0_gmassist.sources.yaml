@@ -1,0 +1,195 @@
+consistency_check:
+  timestamp: "2026-09-05T04:55:00-07:00"
+  campaign: "toee (Temple of Elemental Evil)"
+  document_checked: "summaries/20260830/gm-assist.md"
+  document_class: "first-pass recap (gm-assist); NOT an enhance_summary output"
+  report: "summaries/20260830/consistency_report_stage0_gmassist.md"
+  config: "scratchpad throwaway with ABSOLUTE paths — see notes"
+  model: "claude-code backend (subscription)"
+  backend: "claude-code"
+  issues_found: 16          # counted from report body ('^### ' and '**Location' both = 16); banner not trusted
+  count_method: "grep -c '^### ' AND grep -c '**Location' — both returned 16, contiguous 1..16, no auto-continuation seam"
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-30"
+  chapter: "34 — The Sleeper in the Iron Coffin"
+
+  staging_note: |
+    THIS WAS NOT A FULL STAGED RUN. Only Stage 0 had an artifact.
+      Stage 1 (session-summary.md)      — NOT RUN, no artifact exists.
+      Stage 2 (scene_extractions_new/)  — NOT RUN, no artifact exists.  <-- the load-bearing stage
+      Stage 3 (narration/)              — NOT RUN, no artifact exists.
+    A stage that did not run did not pass. The session-doc pipeline has never
+    been run for this session. GM chose "Stage 0 + hand VTT sweep" when offered
+    the three options.
+
+  speaker_map: |
+    Derived from the tape (turn-calls -> next non-GM speaker), NOT assumed from docs:
+      Kostadis Roussos = GM, and also plays Calmer (no separate player)
+      Thomas Kolivakis = Zephyr    (corroborated by docs/party.md line 73)
+      Nicholas Roussos = Sequoia
+      george           = Zinnia
+    Three players + GM. 1,319 cues, all labelled (1,229 capitalised + 90 lowercase "george:").
+    NOTE: prepare_input.py reports "speakers: none detected" on this file — a detector
+    false negative. Do not trust it for this transcript.
+
+  vtt_adjudicated: |
+    Read BY HAND (provenance for rulings, not a --context input):
+      GMT20260830-150238_Recording.transcript.cleaned.vtt   (primary; generated from
+        transcript_corrections.yaml, verified reproducible by `sd_corrections check`)
+      session_2026_08_30_..._transcript.vtt                 (second INDEPENDENT
+        transcription, 1,551 cues, no speaker labels — used to corroborate)
+    Also ran sd_verify_quotes --report-only against BOTH the raw and cleaned tapes
+    (10 blockquotes; 1 verified / 3 unverified / 1 unscored / 5 unparsed).
+    Its 3 "unverified" were adjudicated by hand: two were faithful (dropped inline
+    "he reminded" / "it declared"); the third (Dren) was a REAL inversion. Its two
+    apparently-fabricated sentences were on the tape at cues either side — the tool
+    cannot span three cues, so a low score there is not evidence of fabrication.
+
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,                          role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml,              role: "canonical entities + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md,           role: "confirmed-but-unpromoted names (campaign-standard)" }
+      - { path: notes/sessions/nobody-told-nulb.md,     role: "session prep — GM-selected; its title line is spoken on this tape" }
+      - { path: notes/sessions/the-sleeping-prince.md,  role: "session prep — GM-selected; Thrommel/sleeper beat" }
+      - { path: notes/sessions/nulb-knows-now.md,       role: "session prep — GM-selected despite staging 'after Ch33'" }
+      - { path: notes/handouts/06_thrommel_coffin.md,   role: "in-world handout — the iron coffin" }
+      - { path: notes/handouts/05_skull_labels.md,      role: "in-world handout — Kelno's labelled skulls" }
+      - { path: notes/handouts/07_vurakhal_contract.md, role: "in-world handout — Vurakhal's contract" }
+
+  notes: |
+    CONFIG WORKAROUND (required). toee has NO root config.yaml; its config is
+    config/config.yaml, whose documents[].path entries are relative. load_config sets
+    base_dir = config_path.parent, so docs/campaign_state.md resolves to
+    config/docs/campaign_state.md and does not exist. Auto-detection cannot help —
+    with no root config it falls through to CampaignGenerator's OWN config and would
+    have checked this session against the wrong campaign. Used an absolute-path
+    throwaway config. Any future run in this workspace needs the same.
+
+    PREP AMBIGUITY the GM resolved: nobody-told-nulb.md stages "the session after
+    Chapter 32"; nulb-knows-now.md stages "the continuation after Chapter 33" but its
+    preamble describes THIS session's scenes 1/4/5 as already played. GM elected to
+    pass all three. Recorded because off-session prep is worse than no prep.
+
+resolution:
+  applied:
+    - id: 1
+      fix: "Sequioa -> Sequoia x26"
+      basis: "config/party.yaml + registry + glossary (canon)"
+    - id: 2
+      fix: "Falarinth -> Falrinth x16"
+      basis: "registry + glossary; all three prep docs use Falrinth"
+    - id: 3
+      fix: "Varik Solen -> Varek Solain x11"
+      basis: "registry; glossary row added 2026-09-05 by /vtt-spell-pass"
+    - id: 4
+      fix: "Turjon -> Terjon x2"
+      basis: "registry + glossary"
+    - id: 5
+      fix: "Zinnia 'her life' -> 'his life'"
+      basis: "registry: 'male, he/him; extraction passes repeatedly degender him'"
+    - id: 6
+      fix: "Alrrem -> 'former head of the Fire Temple (deceased)'"
+      basis: "registry (Vurakhal entry: 'after Alrrem's death'); world_state stale ~Ch28"
+    - id: 13
+      fix: "Dren quote un-inverted: 'have not been paid for four' -> 'have pay for four' (3 places: blockquote, Summary prose, Scenes bullet)"
+      basis: "TAPE: 'The Minotaur has food for 3 days. The men have pay for 4.' Prep nulb-knows-now.md agrees. The recap asserted the OPPOSITE financial state."
+    - id: 8
+      fix: "informant Skull -> Skole (6 of 10 'skull' occurrences)"
+      basis: "GM ruling 2026-09-05: misread own prep. nulb-knows-now.md scripts 'Skole says the captain is still telling people you are dead'. Skole is a registry NPC (Boatmens' Tavern informant who hates Tolub). BOTH independent transcriptions heard 'Skull' - ASR agreement confirms a word was spoken, NOT its spelling."
+      caveat: "4 LITERAL 'skulls' in the same document (lines 22/26/116/209) were enumerated and preserved. Glossary row written as 'Skull says' -> 'Skole says', NOT bare 'Skull': apply_replacements matches case-insensitively, so a bare rule would corrupt literal skulls on every future transcript."
+      also: "transcript_corrections.yaml cue 1295 updated in place (it already held Tullub->Tolub; the record allows one entry per cue). sd_corrections apply + check re-run: 79/79 still apply, tape reproducible."
+  rejected_as_false_positive:
+    - id: 7
+      finding: "Shield +1 should be +2 per registry area 236"
+      basis: "TAPE says 'shield plus one' THREE times, incl. 'Calmer's armor class is unreal, now with his shield plus 1'. Table ruling outranks module canon. The RECAP is right; the REGISTRY is stale."
+    - id: 15
+      finding: "Zephyr cannot cast Chill Touch (Rogue/Assassin, no spellcasting)"
+      basis: "2024 PHB tiefling Chthonic Legacy grants Chill Touch. Tape confirms 2024 rules in play ('there is no advantage, remember, in the new rules'). party.md's 'Thaumaturgy' is the 2014 tiefling and is stale."
+    - id: 16
+      finding: "Orb of Golden Death / Romag lore unattested in any document"
+      basis: "VERBATIM on tape: 'what you learned from Romag is that it is a very powerful artifact, that if you had it in full possession, you could summon monsters and destroy anything.'"
+    - id: 12
+      finding: "Barkinar never led the Earth Temple (registry attributes that to Landers)"
+      basis: "GM ruling 2026-09-05: 'Barkinar was promoted to Commander from leader of the earth temple.' Chain is Landers -> Barkinar -> Romag. The recap is CORRECT; the registry simply does not record Barkinar's prior Earth Temple leadership."
+  carry_forward:
+    - id: CF1
+      status: OPEN
+      severity: critical
+      item: "Stages 1-3 NOT RUN - no session-summary.md, no scene_extractions_new/, no narration/ exist. Stage 2 (the verbatim quotes the narrator reads literally) has NEVER been checked for this session. Run /session-doc-run, then re-invoke /staged-consistency."
+    - id: CF2
+      status: CLOSED
+      closed: "2026-09-05, on explicit GM request after this run reported it"
+      item: "Glossary wrong-forms in docs/chapters/ (the campaign bible). RESOLVED: 175 occurrences corrected across 13 files, in three GM-authorised passes."
+      passes:
+        - "Pass 1 (GM asked): Sequioa -> Sequoia x92 across 13 files. Direction settled by config/party.yaml (top of the canonical chain for PC names) + registry + glossary."
+        - "Pass 2 (GM chose 'do 1, and Dalia/Dala are the same person'): 79 occurrences across 15 rules - Zinia->Zinnia x52, Harch->Hartsch x5, Alremm->Alrrem x3, Sheernob->Sheernobb x3, Vorkal->Vurakhal x3, Brother Eldren/Eldrin->Brother Eldin x3, Palsmarie Clee->Pasmarie Clee x2, and 8 singletons incl. Dalia->Dala (GM ruled Dala is the canonical adventure character and dalia.md is the same person)."
+        - "Pass 3 (GM approved after reviewing the list): Crimson Guard -> Broken Blades x4, all in chapter_27. NOT a faction rename - docs/npcs/dren_halveth.md line 14 records the phrase as a mislabel inherited from the deleted dren.md dossier; entity_registry.yaml has Broken Blades and no Crimson Guard entity; the company was recruited in ch.20, seven chapters before these hits. Probable origin: collision with the registry's 'Crimson Trader' (Vesrek's slaver ship)."
+      method: "Every pass enumerated all hits and their distinct surface forms BEFORE replacing (no blind bulk rename, per CLAUDE.md). Word-boundary regex, case-sensitive. Each pass verified mechanically by re-deriving the expected output from the pre-edit snapshot and diffing - confirming no change other than the approved rules. Pre-edit snapshots kept in scratch."
+      verification: "Full sweep of all 264 glossary wrong-forms against docs/chapters/ now returns ZERO. The bible is clean."
+      not_touched:
+        - "docs/corrections.yaml - deliberately quotes BOTH spellings while discussing this very issue; changing it would destroy the record."
+        - "notes/vtt_transcription_corrections.md - 'Sequioa' there is the glossary's own wrong-form column."
+        - "config/party.yaml and docs/entity_registry.yaml - their 'sequioa' is the docs/party/sequioa.md PATH; the file really is named wrong and the path must keep resolving."
+        - "docs/ensemble/**, docs/*_extractions/, summaries/**/logs/ - generated/derived artefacts, ~2,300 further occurrences. Regenerate rather than hand-edit."
+        - "summaries/2026*/gm-assist.md and scene_extractions - earlier sessions' own recaps; out of scope for this run."
+    - id: CF10
+      status: OPEN
+      item: "docs/chapters/ was edited (175 name corrections), so the mempalace index for those files is very likely stale and a search may surface the OLD spellings."
+      verified: "docs/chapters/ is NOT listed in .mempalaceignore, and the rendered mempalace.yaml mines the campaign root (wing: toee) - so these files ARE in mining scope."
+      not_verified: "Could NOT inspect the live index: no mempalace or mneme binary on this user's PATH (CLAUDE.md documents them under /home/kroussos/.venv/..., a different user on this host). Staleness is inferred from mining scope, not confirmed by a search."
+      also_stale: ".mneme/mempalace.yaml carries a divergence record dated 2026-07-01 whose rationale reads 'toee has no docs/chapters, so no narrative wing'. docs/chapters/ now exists (13+ files), so that rationale is out of date and the wing layout may deserve revisiting."
+      caution: "toee is mneme-managed - mempalace.yaml and .mempalaceignore both carry the 'mneme-rendered; do-not-edit' header and are generated from .mneme/mempalace.yaml. Do NOT run 'mempalace init' here; it would clobber the rendered config. Use 'mneme mp render' / 'mneme mp refresh' with an explicit --dir. Re-mining is the GM's job, not the agent's."
+    - id: CF11
+      status: CLOSED
+      closed: "2026-09-05"
+      item: "RESOLVED - dala.md rewritten as the merged dossier; dalia.md deleted. The merge is corroborated, not just asserted: entity_registry.yaml has Dala as 'barmaid at the Waterside Hostel, Level 3 Thief and Dick Rentsch's lover', which joins the two former dossiers - dalia.md recorded Jorin Pike Kale imprisoned by Rentsch's men for pursuing her, and Rentsch being her lover supplies the motive the party never learned. Merge recorded in docs/npcs/.dedup_state.json clusters_confirmed."
+      followup_done: "docs/npcs/jorin_pike_kale.md carried two live cross-references to 'Dalia' which my deletion turned into dangling pointers; both repointed to Dala with the GM-side Rentsch link noted. Verified zero dangling refs to dalia.md remain."
+      not_touched: "docs/toee-summary.md line 2391 still says 'a woman named Dalia'. That is downstream generated narrative prose - the same class as docs/chapters/, which was only edited on explicit GM request. Flagged, not edited."
+
+    - id: CF3
+      status: CLOSED
+      closed: "2026-09-05"
+      item: "RESOLVED - entity_registry.yaml updated. Barkinar's note now records that he LED THE EARTH TEMPLE (having eliminated Landers to take it) before promotion to Commander of the Greater Temple's Troops, with Romag taking his place. The Landers entry was updated to match. Both now state the succession chain Landers -> Barkinar -> Romag. Written as block scalars (>-) because the prose contains colons."
+    - id: CF4
+      status: CLOSED
+      closed: "2026-09-05"
+      item: "RESOLVED - entity_registry.yaml Cistern Chamber note now records BOTH: module canon says shield +2, but at this table it was delivered as a shield +1 and claimed by Calmer (3 tape mentions, session 20260830). States that the table ruling stands over module canon. Kept the module value rather than deleting it, so the divergence stays visible."
+    - id: CF5
+      status: PARTIAL
+      closed: "2026-09-05 (party.md done; campaign_state.md deferred)"
+      item: "docs/party.md RESOLVED. It was not just Zephyr - ALL FOUR PCs were listed at level 6; prep (nobody-told-nulb.md line 7, nulb-knows-now.md line 8) says level 9. All four corrected to 9. Also added a new '## Ruleset' section recording that this table runs 5.5e / the 2024 PHB, with the three independent confirmations from the tape, and instructing future checks to use the 2024 spell lists. That section is the durable fix for findings #14 and #15, which were BOTH false positives caused by checking against 2014 lists."
+      still_open: "campaign_state.md line 163 still lists Alrrem as 'Alive' when canon has him dead. NOT fixed - campaign_state.md is a generated grounding doc that ends ~Ch28 and is stale across the board, not just here; regenerating it is the right fix, not a spot edit. Raised as its own item."
+    - id: CF6
+      status: CLOSED
+      closed: "2026-09-05, GM ruling"
+      ruling: "The party communicated through sign language and the creature's broken Common."
+      item: "#9 Minotaur 'speaks only Abyssal' yet negotiates. RESOLVED - 2 edits to gm-assist.md: the Summary's 'With no one among them able to speak Abyssal' now records sign language + broken Common as the bridge, and the NPC entry now reads 'whose own tongue is Abyssal, though it understands and speaks broken Common'. The tape's narration is left as spoken; only the recap was corrected."
+    - id: CF7
+      status: CLOSED
+      closed: "2026-09-05, GM ruling"
+      ruling: "Calmer was drafting a new curriculum of St. Cuthbert recast along Earth Temple lines."
+      item: "#10 Curriculum drafter. RESOLVED - the drafter is CALMER, not Sequoia; and the subject is a St. Cuthbert curriculum recast on Earth Temple lines, not an 'Earth Temple educational system'. 2 edits to gm-assist.md (Summary paragraph and Scenes bullet). Sequoia's role is limited to needling Zephyr over the double-counted Water Temple."
+    - id: CF8
+      status: CLOSED
+      closed: "2026-09-05, GM ruling"
+      ruling: "Chief of Staff."
+      item: "#11 Zephyr's title. RESOLVED - 'Zephyr, as chief of operations' -> 'Zephyr, as Chief of Staff' in gm-assist.md. Matches the tape's formal appointment line and the Scenes section, which already used Chief of Staff. Zero occurrences of 'chief of operations' remain."
+    - id: CF9
+      status: CLOSED
+      closed: "2026-09-05, GM ruling - FALSE POSITIVE, no edit made"
+      ruling: "In 5.5e (2024 PHB) Hold Monster is available to War Domain clerics."
+      item: "NOT A DEFECT. Hold Monster is a level-9 War Domain domain spell in the 2024 PHB and the party is level 9, so it is a prepared domain spell needing no scroll or item. gm-assist.md was NOT edited."
+      corroboration: "Third independent confirmation this table runs 2024 rules, alongside finding #15 (Zephyr's Chill Touch via tiefling Chthonic Legacy) and the tape line 'there is no advantage, remember, in the new rules'. The report flagged #14 against the 2014 cleric list; docs/party.md is the stale source for both #14 and #15 (see CF5)."
+    - id: CF12
+      status: OPEN
+      item: "docs/campaign_state.md is stale (ends ~Ch28): line 163 lists Alrrem as 'Alive' when canon has him dead. Regenerate rather than spot-edit. Split out of CF5."
+    - id: CF13
+      status: OPEN
+      needs_gm: true
+      item: "NOTICED, NOT ACTED ON: docs/npcs/captain_tolub.md registers 'Tolubb' and 'Captain Tolubb' as ALIASES, and .dedup_state.json records them the same way. Per the registry-cleanup rule an alias is an APPROVED CANONICAL ALTERNATE NAME, never a misspelling - so if 'Tolubb' is really just a double-b garble it should be a glossary wrong-form, not an alias. Out of scope for this run; GM to rule."
