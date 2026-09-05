@@ -12,7 +12,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 |---|---|
 | Bukradin, Fukurdin, Vukraden, Fukradin, Fukrudin, Lucredin, Mukraden, Rukradin, Rukrudin, Vukridin, Vuclin, Buccrotted, Fukratom, Krotom, Buchar, Vukerdin, Vucherton, Bucretin, Necrotin, Abu Kradin, Vikraden, Vocraden, Vercrotten, Blue Crabin, Bukraden, Vucrodan, Vukriddin, Vukroden, Vukra Dinh, Vucra, Craden, Rukraden, Vucruden, Vukridan, Vukrod, Vukrudin, Ryan, Vakujin, Bob Vukrin, But Rucrative, Merton, Vucherdin, Vucrajin, Vucherjin, McCraden, Vukerton, Bukridin, Vugrid, Vucardin, Bukratin, Vokodoen, Lucradine, Vikron, Vucirdan, Vucradin, Vucridin, Vucardina, Vucarin, Vuckardin, Vucardid, Vukadin, Vukran, Vucrad, Vucraden, Vukradine, Vukarden, Vucaran, Kroden, Vucarad, Vucarydyn, Vuckratum, Vucrdan, Vercideen, Prodin, Vook Reading, Vucaron, Vucrdin, Kroten, Bucherding, Bucret, Bukerdin, Lucardin, Lukerdin, Lukritan, Rukerton, Vucarydin, Vuchert, Buchradin, Rickroden, Vickers, Vucrative, Vucraut, Vukara, Vukrada, Vukraddin, Vukradein, Vukretin, Vukrid, Avukriddin, Bookerdin, Buchert, Bucherton, Bukroutine, Do Crawdin, Rukund, Vickerton, Vrukerdin, Vukrotin, Vukurten, Wukrin, Bucherdin, Bukriddin, Rukordin, Vooker, Vucerdin, Vugranian, Vuk Rutin, Vukraderne, Vukrilin, Vukridine, Fukrid, Rukridan, Rukriddin, Vu Kradin, Rakuten, Lucrotten, Booker, Vukruddin, Booker Dean, Bukhruddin, Bukrudan, Vucradit, Bukrudin, Mukridan, Rukerdin, Rut Radin, Vucraidin, Vukkridan, Wuchrdin, Rudin, Rukutin, Vukardin, Brukerdin, Brewerdin, Rucrative, Bucraut, Caradine, Varoujan, Vukredin, Vucurdean, Brucriddian, Rooker, Damage Recruiting | **Vukradin** |
 | Sona, Big Elk, Soma Elk, Zoma Elk, Silma Bear, Silma Spider, Lee, Sana, Somas, Sama, Selma, Sema, Somna, Summa, So Malk, Salma, Sovo, Sova, Masuma, Soba, Sobob, Omai, Thelma, Thoma | **Soma** |
-| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet, Felfie, Valfinu, Valfyn, Felkur, Valfi, Valphina, Elfien, Valsminae | **Valphine** |
+| Alphine, Valpina, Valfine, Valfina, Valfina Europe, Valfini Centaur, Buffin, Alfina, Belfina, Valfida, Vilfina, Velfina, Velphine, Alfuna, Delphina, Pelfina, Valfinay, Valfino, Valfining, Balfina, Valfinha, Valfinis, Belafina, Valfin, Valhine, Valthini, Valveine, Valfinia, Balfine, Galfina, Valfinum, Valhima, Athena, Belfinay, Ralfini, Malfine, Valfini, Valfein, Delphine, Zalthine, Alfine, Alfinie, Belfine, Belphine, Melfine, Valfeen, Valfiene, Valfinae, Velfine, Zelphina, Valtheir, Zalthir, Belfines, Philipine, Thalne, Valfeena, Valfeenay, Balthina, Balphine, Belfin, Valfide, Valfinah, Valfeinia, Vivalfini, Valfey, Valfenna, Malfein, Dalthina, Delfine, Ralphine, Valfeini, Valfene, Valfinne, Finne, Alfino, Balthine, Delfino, Elphina, Finney, Valfiane, Valfield, Valfienne, Valtina, Valvine, Velfini, Velphina, Falfina, Galfinay, Melfina, Valfinays, Valfinh, Valpine, Valpinia, Velo, Balafide, Balfinay, Belthina, Milfina, Valfinier, Valthina, Valvina, Alfinio, Valcida, Valcine, Velphia, Valefar, Malphine, Alfie, Alfinae, Alphinae, Dalfean, Pina, Valfean, Falpina, Velcine, Volcine, Vaspina, Valfeet, Felfie, Valfinu, Valfyn, Felkur, Valfi, Valphina, Elfien, Valsminae, Volfina | **Valphine** |
 | Brewberry, Frewbury, Blueberry, Brewery, Breweri, Brubberry, Burberry, Burbury, Burger, Blueberry Europe, Brewberry Stroop, Bright Blueberry, Brubbery, Crewberry, Ruby, Brew Perry, Prueberry, Gruberry, Rubberry, Rubbery, Brubber, Brewbary, Bruberry, Brubury, Gryberry, Rueberry, Brubari, Brubery, Proberry, Rubery, Brugar, Barberry, Brewbrewry, Furberry, Rubber, Rubry, Brubberg, Burgerberry, Crewbury, Groupberry, Newberry, Rubari, Rubarai, Bernberry, Rieber, Vubert, Rueberg, Bray, Brubaria, Bourbury, Brube, Roomberg, Brewbeary, Rubir, Brubit | **Brewbarry** |
 | Bukradinhos, Vukravenius | **Vukradinious** |
 | An Asimer, Asimar, Asimer | **Aasimar** |
@@ -40,7 +40,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Toblin, Tobelin | **Toblen** |
 | Xanthopoulos, Is Xanth, Xantha Centaur, Xanthes, Centaur Alla Exanth | **Xanth** |
 | So Bob, So Bob Saget | **Bob Saget** |
-| Lira, Lera, Myra | **Lyra** |
+| Lira, Lera, Myra, Lila | **Lyra** |
 | Bonies, Stable Boney, Bodie, Barney, Bony Euro, Bean, And Bonies, Bonia, Voney | **Boney** |
 | Lepander, Lefender, Lithander, Lathanzer, Lathunder, Lithender, Lothander, Luthander, Lathanders, Lathender, Lithandr, Thander, Oathander, Lanthander, Llyther, Luther, Lavender priests, Lefenders, LaFander, Lithanders | **Lathander** |
 | Telosian, Telosians, Telusian, Telusians, Tolusians, Tallosians, Toloshian, Tolosians, Talos season | **Talosian** |
@@ -48,7 +48,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Corbyn, Corben, Corbett | **Corbin** |
 | Pritha, Prutho, Rutha, Prusa, Pruth, Puthar, Pruta, Prout, Pruteh, Ruth, Pruda | **Prutha** |
 | Lothandrian, Lithandrian | **Lathandrian** |
-| Thalos | **Talos** |
+| Thalos, Talus, Hallis | **Talos** |
 | Anarchite, The Groubear, Groubear, Anachorite, Anarchites, Incorite, Agorai, Ancorate, Inkrait | **Anchorite** |
 | Quan, Orcos | **Orcs** |
 | The Centauri | **Centauri** |
@@ -64,7 +64,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Hafalken | **half-orc anchorite** |
 | Romardo, Ramardo, But Bermardo | **Rimardo** |
 | Sturge, Sturgis, I'll Sturger, Sturges, Surge, surges, dirges, Sturge4 | **Stirge** |
-| The Corrin, Korn, Karwin, Cronin, Karin, Corinne, CORN, Corin | **Corrin** |
+| The Corrin, Korn, Karwin, Cronin, Karin, Corinne, CORN, Corin, Croton | **Corrin** |
 | Twigblite | **Twig Blight** |
 | Falk | **Falcon** |
 | Generosca | **Jenna** |
@@ -83,8 +83,8 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Mord Lord, Morning Lord | **Morninglord** |
 | Orsic, Orsick, Orcic, Orcig | **Orsik** |
 | Cassadorium | **Kazneporium** |
-| Masko, Moesco, Molesko, Mosco, Mosko, Mirsko, Muesco | **Moesko** |
-| Mirelle, Mirale, Meral, Miral, Mirall, Mural | **Miraal** |
+| Masko, Moesco, Molesko, Mosco, Mosko, Mirsko, Muesco, Malesco, Moesca | **Moesko** |
+| Mirelle, Mirale, Meral, Miral, Mirall, Mural, Merle | **Miraal** |
 | Kerberg | **Carver** |
 | Imrith | **Iymrith** |
 | Serdar,Sridhar | **Sridar** |
@@ -127,6 +127,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Greyshard | **Grayshard** |
 | Talk Gnomes | **Rock Gnomes** |
 | Iron Rune | **Ironrune** |
+| Cleene | **Qelline** |
 
 ## Items / artifacts
 | Pushions | **Potions** |
@@ -149,6 +150,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Poison's Freight | **poison spray** |
 | Moldearth | **mold earth** |
 | Ascending Stone | **Sending Stone** |
+| Stark Kloros Lover,Starchloros Lover,Crab's Ghost Lover | **Star-Crossed Lover** (DIP Tower of Storms, area T10) |
 
 ## Houses / factions
 | Sovereas, Avarus, Sovereis, Sarvas, Savros, Shavra | **Savras** |
@@ -185,7 +187,7 @@ Seeded from `docs/npcs/*.md` YAML frontmatter aliases on 2026-05-03.
 | Bourd bear, Bourd laid bare, bold laid bare | **Board Laid Bare** |
 | Gatehardt | **Gatehouse** |
 | Druid Summit | **Druid Council** |
-| Lylan, Lilin, Lylon | **Leilon** |
+| Lylan, Lilin, Lylon, Lineland | **Leilon** |
 | Shaun | **Shrine** |
 | Falcon's Lunge, Falcons Lodge | **Falcon's Lodge** |
 | Icepire Hold, Ice Per Hold, Icefire Hold | **Icespire Hold** |
