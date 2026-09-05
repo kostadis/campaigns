@@ -75,17 +75,37 @@ findings:
       run AND a scrub, and was laundered into a GM ruling. Grep a suspicious
       token across every reading before treating it as something said.
 
-  valphine_no_voice_spec:
-    severity: high
+  valphine_short_label:
+    severity: medium
+    corrected: >
+      An earlier version of this entry claimed Valphine "resolves to NO voice
+      spec, and every line of hers was rendered without one." THAT WAS WRONG and
+      is corrected here. A voice spec attaches to the NARRATOR of a scene, not to
+      speaker labels on quote blocks. Both renders carry
+      "narrator: Valphine Sotorra" in scene 04's frontmatter, so her spec DID
+      resolve and she WAS rendered with it.
     detail: >
       The extractions label 23 blocks "Valphine". config/party.yaml declares
       "Valphine Sotorra". get_voice_note matches the full name exactly — no
-      first-name fallback, no prefix rule (removed deliberately, CampaignGenerator#247).
-      Valphine therefore resolves to NO voice spec, silently, and every line of
-      hers this session was rendered without one.
-    same_root_cause_as: >
-      The hand-repair of "narrator: Valphine" -> "Valphine Sotorra" in the DGX
-      narration_dgx/plan.md.
+      first-name fallback, no prefix rule (removed deliberately as a
+      similarity-based identity assertion, CampaignGenerator#247/#175).
+    what_actually_breaks: >
+      sd_plan emits "narrator: Valphine" — the short label, taken from the
+      extraction labels. Unrepaired, sd_narrate REFUSES TO START rather than
+      rendering without a spec (#300), so this fails loudly, not silently. It did
+      not reach either render only because the line was hand-repaired in
+      narration_dgx/plan.md before narrating; the codex run then inherited the
+      repaired plan.
+    real_consequence: >
+      Every future sd_plan regeneration for a session in which Valphine narrates
+      reintroduces the broken narrator line and must be hand-fixed or the render
+      refuses. That is the argument for a roster alias over relabelling the
+      extractions, since the extractor will keep emitting the short label.
+    silent_failures: >
+      /no-mech's scan_quotes.py triage counts her as an NPC, so all six ch08
+      scenes returned "likely roleplay — NPC speakers present: Valphine". That
+      one IS silent, and it made six identical triage lines that were not
+      evidence.
     not_fixed_here: "Roster/label mismatch is upstream. Reported, not patched in a derived layer."
 
   skill_scripts_blind_to_this_campaign:

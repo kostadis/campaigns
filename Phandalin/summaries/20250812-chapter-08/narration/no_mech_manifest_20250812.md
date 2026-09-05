@@ -42,11 +42,17 @@ declares `Valphine Sotorra`; the match is exact. The scanner therefore counts th
 party's cleric as an NPC and triages every scene as roleplay on that basis.
 `UNKNOWN` and `Gary Young` inflate the same signal.
 
-Six identical triage lines, none of them evidence. This is the **same root cause**
-as the missing voice spec recorded in `voice_smooth.sources.yaml`
-(`findings.valphine_no_voice_spec`) and the `narrator: Valphine` repair in
-`narration_dgx/plan.md`. One label mismatch, now confirmed to break three
-separate tools.
+Six identical triage lines, none of them evidence. This is the **same root cause** as the
+`narrator: Valphine` repair in `narration_dgx/plan.md`, recorded in
+`voice_smooth.sources.yaml` (`findings.valphine_short_label`).
+
+**Correcting an earlier overstatement:** her *voice spec* is fine. Both renders
+carry `narrator: Valphine Sotorra` in scene 04's frontmatter, so the spec
+resolved and she was rendered with it — a spec attaches to a scene's narrator,
+not to quote-block labels. What `sd_plan` emits is the short label, which makes
+`sd_narrate` **refuse to start** (#300) until hand-repaired; that failure is
+loud. **This triage bug is the silent one**, and it is the reason the mismatch is
+worth fixing upstream rather than patching per-run.
 
 Pattern recall was also low as advertised: 59 flags over 471 quotes, and the
 reading pass rejected all but 5 of them.
@@ -113,9 +119,10 @@ not been regenerated to show it.
 - `OPEN` — re-narrate all six scenes from `scene_extractions_smoothed/`, then walk
   the seams.
 - `OPEN` — GM to confirm or overrule leaving scene 06 L369 intact.
-- `OPEN` — `Valphine` → `Valphine Sotorra` roster/label mismatch. Now confirmed to
-  break `get_voice_note`, `sd_plan`'s narrator resolution, and this scanner's
-  triage.
+- `OPEN` — `Valphine` → `Valphine Sotorra` label mismatch. Breaks `sd_plan`
+  narrator output (loudly: `sd_narrate` refuses to start) and this scanner's
+  triage (silently). A roster alias is the better fix than relabelling, since
+  the extractor will keep emitting the short label.
 - `NOTE` — `apply_cut.py`'s smoothed-directory guard tests the **path string**, so
   it refuses a bare filename run from inside the directory. Pass a path that
   includes the `*_smoothed/` component.
