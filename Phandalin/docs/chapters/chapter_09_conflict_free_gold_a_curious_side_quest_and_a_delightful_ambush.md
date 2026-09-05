@@ -80,7 +80,7 @@ Adabra mutters something about interventionists and the Emerald Enclave. Soma li
 
 I hope she asked for money. 
 
-## 09.02 Valphine 07-02-Tarsakh
+## 09.02 Valphine 07-02-Tarsakh 1495
 
 The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our trek towards the Tower of Storms. It was a journey of a few days, each one a test of my patience for surface world banalities.
 

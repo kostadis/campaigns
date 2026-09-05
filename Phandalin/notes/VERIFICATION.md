@@ -297,12 +297,13 @@ chapter you doubt. Each is a verbatim citation from the chapter text.
    the run counted 89 stamps where the source now has 80 (the `01-01-Tarsakh`
    stamp behind artifact-ch2 no longer appears anywhere). Treat
    `chapter_dates.json` spans for the early chapters as historical.
-5. **OPEN — one year-less stamp remains.** Line **4114**, section `09.02`, reads
-   `## 09.02 Valphine 07-02-Tarsakh` with no year. It is the only stamp in the
-   source missing `1495`. An earlier draft of this document reported this as
-   section `07.02` and as already fixed; both were wrong. It is still present.
-   The chapter-9 span resolves identically with or without it, so this is
-   cosmetic — but it should be corrected for uniformity.
+5. **FIXED — the year-less stamp.** Line 4114, section `09.02`, read
+   `## 09.02 Valphine 07-02-Tarsakh` with no year — the only stamp in the source
+   missing `1495`. An earlier draft of this document reported it as section
+   `07.02` and as already fixed; both were wrong. It has now been corrected in
+   the source and in `chapter_09_*.md`. The day `07-02` was confirmed against
+   the surrounding stamps (§10.01–10.03 are all `07-02-Tarsakh 1495`), so only
+   the year was appended; no date value changed.
 6. **OPEN — `Taraskh` survives in the derived layer.** 56 occurrences across 21
    tracked files under `docs/distill/`, `docs/ensemble/`, and
    `docs/party_extractions/` still carry the old spelling. These are generated
