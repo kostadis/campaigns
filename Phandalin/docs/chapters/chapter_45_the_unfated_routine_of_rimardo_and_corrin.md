@@ -111,6 +111,7 @@ Falcon was still wounded, circling back to it with a child's persistence — the
 
 After that it was wine, and the lack of it, which moved Brewbarry where philosophy never could. They reached for magic — the working that calls bread and water out of empty air, a whole feast conjured from nothing — but the truth was the brewery needed rebuilding before there'd be anything worth drinking again. I told them so: for them to brew more wine here, we'd have to repair his beer hall and his brewery. The work of persuading Brewbarry to lift a hand fell flat — words are cheap with him — but the promise of future beer slid past whatever guard a Goliath keeps. *The sooner things are repaired, the sooner there will be beer.* He stood, considered the table, took an armful of food, and walked out eating it, announcing that he was a big guy and needed to eat a lot.
 
+<!-- INFERRED DATE: 26-03-Tarsakh 1495 -->
 Morning, then. The Woodland Manse first — an hour's walk, the Boots of Elvenkind waiting in it. "Yeah, and it's like an hour walk or something," I said. And after, the Shrine of Savras. The god of fate again, circling back like he wanted noticing. "Sounds like the right stop," I said.
 
 Vukradin worried at the loose thread of Sister Kaella, gone to the wind, and bristled when he heard that Jenna Roscoe of the Lord's Alliance had offered to find her. He's sure she lied to him. He's sure she's a nasty, no-good treasure hunter. I did not argue. Both things can be true and neither one is mine to carry.

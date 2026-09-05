@@ -4,7 +4,7 @@ title: Naturalists and Interventionists
 ---
 # Chapter 14 Naturalists and Interventionists
 
-## 14.01 Soma 10-02-Taraskh 1495
+## 14.01 Soma 10-02-Tarsakh 1495
 
 The air itself tastes wrong as we push through the last line of dense trees and step into the clearing. It’s perhaps sixty feet across, but something here is fundamentally off. My fur, thick and protective in this bear form, prickles with an unease that goes beyond simple predator instinct. The woods surrounding us don’t lean; they *twist*, their bark gleaming like polished obsidian under the faint, sickly light filtering through a canopy that looks less broken and more *fractured*.
 
@@ -32,7 +32,7 @@ Adabra said that there was a blight and that the interventionist had to be stopp
 
 Is this strange magic the blight? Where are those who are intervening? Are they the Emerald Enclave?
 
-## 14.02 Valphine 10-02-Taraskh 1495
+## 14.02 Valphine 10-02-Tarsakh 1495
 
 My drow eyes, ever keen to the subtle distortions of reality, watch Soma – still in her bulky bear form – lumber towards the blighted brambles. Her brute force approach is, at least, direct, a refreshing change from Vukradin's performative posturing. The thorny tendrils lash out, predictably. I see them strike her, and though she is a sturdy creature, I note the faint wince, the minor disruption to her composure as four points of damage are inflicted. It is a taste of pain, perhaps not gloriously searing, but present nonetheless.
 
@@ -68,7 +68,7 @@ It's my turn again. The second enclave warrior, poor soul, is at death's door. P
 
 Brewbarry follows, who, for all of his behavior, seems to have a deep wellspring of wisdom, attempts a ritual... Another success. Three successes, one failure. We're practically proficient\! But then Soma, with a clumsy flourish, tries and fails. Our second ritual failure. Before I can even process the dramatic irony, Soma and the first Enclave Warrior deliver the final, unceremonious blows to the Treant. The corrupted guardian falls, not with a bang, but with a whimper of poison and arrows—a rather inelegant final cadenza.
 
-## 14.04 Soma 10-02-Taraskh 1495
+## 14.04 Soma 10-02-Tarsakh 1495
 
 The tree dies. And the ritual is not yet finished. I see one of the stones. I will do the ritual.
 

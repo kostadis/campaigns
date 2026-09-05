@@ -4,7 +4,7 @@ title: 'The Tower of Storms: Echoes, Art, and the Serpent''s Coil'
 ---
 # Chapter 10 The Tower of Storms: Echoes, Art, and the Serpent's Coil
 
-## 10.01 Vukradin's Perspective 07-02-Taraskh 1495
+## 10.01 Vukradin's Perspective 07-02-Tarsakh 1495
 
 The wind whips around us as we approach the Tower of Storms, a grim sentinel on its rocky perch. The air immediately fills with discord: three harpies descend, their songs a cacophony that grates on my ears. Before I can process their screeching, one of them, a male harpy dressed in grey rags, begins to sing, and I see Valphine and Brewbarry succumb, a vacant look in their eyes as they become charmed.
 
@@ -20,7 +20,7 @@ Our exploration leads us to a 15-foot-high empty room. Through a dirty window, I
 
 Deeper within the tower, a battle against Moesko, the Orc Anchorite, begins. After Soma transforms into a brown bear and lands some hits, I seize the opportunity to cast Cloud of Daggers, conjuring whirling blades that trap Moesko within a 5-foot cube, inflicting 9 initial damage. He'll take more damage if he stays there. This combat is certainly more dramatic than the harpies, an actual test of our combined talents, if not our sanity, as Moesko responds with a devastating Lightning Bolt and Thunderwave.
 
-## 10.02 Soma's Perspective 07-02 Taraskh 1495
+## 10.02 Soma's Perspective 07-02-Tarsakh 1495
 
 The harpies are a nuisance, their songs a crude manipulation of emotions. As Vukradin's Silence spell takes effect, I see the charm break on Valphine and Brewbarry. This is effective, but these creatures are not bright, so they'll likely continue trying if we leave the sphere of silence.
 
@@ -38,7 +38,7 @@ The battle begins. I open with a minor poison spray attack, then, sensing the ne
 
 Brewbarry, finally finding his footing, charges Moesko and hits him for some damage, bringing the anchorite down to death’s door. The tight corridor of the tower makes my bear form cumbersome, so I revert. I deliver the final strike, ending the Orc Anchorite's threat.
 
-## 10.03 Valphine's Perspective 07-02-Taraskh 1495
+## 10.03 Valphine's Perspective 07-02-Tarsakh 1495
 
 Upon arriving at the Tower of Storms, the air is thick with the cloying, clashing melodies of three harpies. My instincts, honed in the subtle cruelties of the Underdark, scream danger. Immediately, I am charmed by the male harpie’s song, a disorienting, unpleasant sensation. Thankfully, Vukradin's Silence spell descends, cutting off the offending music and freeing me from its influence.
 

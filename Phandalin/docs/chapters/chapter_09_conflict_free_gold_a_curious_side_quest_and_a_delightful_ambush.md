@@ -4,7 +4,7 @@ title: Conflict-free gold, a curious side quest, and a delightful ambush.
 ---
 # Chapter 9 Conflict-free gold, a curious side quest, and a delightful ambush. 
 
-## 09.01 Vukradin 03-02-Taraskh 1495
+## 09.01 Vukradin 03-02-Tarsakh 1495
 
 And so we leave for the Tower of Storms. As we round a bend, we spot a small, overturned trade cart, partially obscured by thick undergrowth. Huddled nervously behind it are two figures – a middle-aged human merchant, Ellarrah, and her groom, Jarek. They look visibly shaken and disheveled, their pack horses nowhere in sight.
 
@@ -80,7 +80,7 @@ Adabra mutters something about interventionists and the Emerald Enclave. Soma li
 
 I hope she asked for money. 
 
-## 09.02 Valphine 07-02-Taraskh
+## 09.02 Valphine 07-02-Tarsakh 1495
 
 The sun, ever-present and strangely alluring in its intensity, beat down as we resumed our trek towards the Tower of Storms. It was a journey of a few days, each one a test of my patience for surface world banalities.
 

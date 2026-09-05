@@ -173,6 +173,7 @@ I picked up my second beer. It was still good. Everything, right now, was still 
 
 ## Vukradin — Planning the Next Quest
 
+<!-- INFERRED DATE: 24-03-Tarsakh 1495 -->
 The morning we picked the Circle of Thunder, the quest list was sitting in my head like an unfinished score — three different orc problems, all of them needing to land somewhere, none of them interchangeable.
 
 "So I want to tell you what… you want to know what Vukradin is doing in Phandalin?"
@@ -395,6 +396,7 @@ That, as a tactical matter, was both their greatest weakness and what made them 
 
 ## Brewbarry — The Wildcat Loggers
 
+<!-- INFERRED DATE: 25-03-Tarsakh 1495 -->
 We were moving through the forest toward the Circle of Thunder, Xanth keeping pace alongside us, when we heard the shouting.
 
 Not angry shouting. More like the kind of arguing that happens when people who are deeply right about something have no idea how to explain why. High-pitched, urgent, overlapping. I knew the sound before I saw who was making it.
