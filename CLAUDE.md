@@ -84,6 +84,29 @@ If none of these carries the name, it is **not yet canon**. Do not invent a spel
 
 This is the human-checkpoint principle applied to every name on the page: which letters go in what order is a precision decision, and precision decisions do not get made by inference.
 
+## Long review queues get an artifact, not 69 chat questions
+
+**Once a pass produces more than roughly a dozen rulings, stop asking them one at a time in chat. Publish a single interactive Approve / Reject / Discuss artifact and let the GM mark it at their own pace.**
+
+This is not a convenience preference. A long serial queue exhausts the reviewer, and **an exhausted reviewer rubber-stamps** — which destroys the human checkpoint the review exists to provide. Question 50 of 69 in a terminal gets a reflexive "yes" that question 3 would not have. The artifact is what keeps the checkpoint real at volume; it changes the delivery mechanism, never the requirement that every ruling be the GM's.
+
+Below the threshold, plain chat is simpler and better. Keep asking 1x1.
+
+### What a card carries
+
+One per ruling, grouped by scene or by decision class, and each one carries exactly what a 1x1 question would: every transcript's reading named, any corroboration found, the voice-file or framing rationale, a full-sentence before→after preview, and **a keep-verbatim option, every time**. A sticky tally showing how many remain undecided keeps a long queue legible. Build it with the `Artifact` tool and the `downloads` capability; export one Markdown record, one section per card, so it can be parsed back mechanically.
+
+### Reading the record back — where this quietly becomes rubber-stamping
+
+Two states in the returned record are **not decisions**, and treating either as one destroys the checkpoint:
+
+- **UNDECIDED is not a verdict.** The card was scrolled past. **Re-ask it.** Never apply your own recommendation because it was the recommendation, and never silently drop it. Say how many came back unmarked when you report.
+- **A DISCUSS note is an instruction to talk, not a pre-approval.** These are three or four words written at speed. Some are unambiguous and can be applied as written; some carry two readings that produce different files. State your interpretation and confirm it before acting. When the ruling would **invent canon** — settling a name, rewriting a real-world reference into an in-world one — bring the specific proposed wording back as its own question. "Rewrite it in-world" has not told you what the in-world words are.
+
+Both fired on Chapter 34's voice-smooth pass: 69 cards came back 58 approve / 0 reject / 9 discuss / 2 undecided. The two undecided were re-asked rather than defaulted, and one discuss note (*"Deep purple is the deep temple"*) stated what a line **meant** without saying whether to substitute the words or annotate them — two different files. It was taken back as its own question.
+
+Record the verdict counts, which discuss notes were applied straight from the note, and which needed a follow-up, in the pass's manifest. That is the evidence the checkpoint held.
+
 ## Shared Architecture
 
 Every campaign follows the same structure:
