@@ -1,0 +1,243 @@
+# Stage 0 manifest — /staged-consistency, Phandalin chapter 09 (2025-08-22)
+schema: consistency.sources/1
+stage: 0
+document_class: gm-assist
+document_checked: summaries/20250822-chapter-09/gm-assist.md
+report: summaries/20250822-chapter-09/consistency_report_stage0_gmassist.md
+date_run: 2026-09-04
+grouped: false
+
+run_shape:
+  stages_run: [0]
+  stages_not_run: [1, 2, 3]
+  stages_not_run_reason: >-
+    No session-summary.md, no scene_extractions_new/, no narration/ exist for this
+    session. The session_doc pipeline has never been run here. Stage 2 — the
+    load-bearing stage, and the entire reason to prefer this skill over a one-shot
+    /consistency-check — checked nothing. A stage that did not run did not pass.
+
+config:
+  resolution: scratchpad throwaway absolute-path config (Phandalin has NO root config.yaml)
+  note: >-
+    The repo-root /home/kroussos/Phandalin/config.yaml is a mempalace stub for the
+    HILLSFAR campaign and must never be used here.
+  documents:
+    - label: campaign_state
+      path: docs/campaign_state.md
+    - label: world_state
+      path: docs/world_state.md
+
+context_passed:
+  - docs/party.md
+  - docs/entity_registry.yaml
+  - notes/vtt_transcription_corrections.md
+  - notes/vtt_known_additions.md
+  - docs/chapters/chapter_11_the_beating_heart_of_the_storm_and_whispers_from_the_deep.md
+
+session_prep_used: false
+session_prep_reason: >-
+  This is a 2025 session; the notes/ prep corpus begins in 2026. No prep exists.
+  Two substitutes were used instead, per GM ruling.
+prep_substitutes:
+  - source: DIP "Tower of Storms" (5etools MCP, areas T1-T14)
+    role: module canon — settled Miraal, Star-Crossed Lover, the Orca wand, the
+      Vainglory cloak, the Sea Urchin statuette and the conch's resting place
+  - source: docs/chapters/chapter_11_the_beating_heart_of_the_storm_and_whispers_from_the_deep.md
+    role: the campaign's own bible rendering of this session
+    matched_by: content, not number
+    numbering_drift: >-
+      The session directory is 20250822-chapter-09 and gm-assist.md says
+      "# Chapter 9", but the bible chapter covering this session is number 11.
+      campaign_state.md places these events at "Ch08-09". Confirmed by content
+      grep (Moesko/beacon/shipwreck/conch: 16 hits in ch11, 10 in ch10).
+    caution: >-
+      Downstream prose, not the tape. It was the source of three findings the VTT
+      overturned (see rejected_on_vtt below).
+
+vtt_adjudicated: true
+transcript_consulted: summaries/20250822-chapter-09/GMT20250823-035752_Recording.transcript.cleaned.vtt
+transcript_note: >-
+  Read BY HAND — provenance for the rulings, not a --context input. This tape was
+  regenerated the same day from transcript_corrections.yaml (91 verified entries);
+  `sd_corrections check` reports all 1,643 cues explained.
+speaker_map:
+  Kostadis Roussos: GM
+  Wade: Soma
+  David Mendenhall: Vukradin
+  Gary Young: Valphine AND Brewbarry
+speaker_map_note: >-
+  Stephane Bourdeaud was ABSENT. Gary Young voiced both Valphine and Brewbarry all
+  session — the known label-collapse trap. This is the single root cause behind
+  findings 3, 4, 5, 6 and 7: the recap moved Vukradin's actions onto Brewbarry AND
+  Brewbarry's onto Soma. Only the tape separates them.
+
+findings_total: 16
+sign_off:
+  method: interactive review artifact (Approve/Reject/Discuss)
+  url: https://claude.ai/code/artifact/dc291add-1126-4186-8054-c9e817db4c5d
+  saved_at: "2026-09-05 04:47 UTC"
+  decided: 15
+  undecided: 1
+
+resolution:
+  applied:
+    - id: f02
+      item: "Starchloros Lover -> Star-Crossed Lover (x4)"
+      basis: DIP area T10; glossary row written same day
+    - id: f03
+      item: "Heart destroyed by Vukradin ALONE, over Valphine's objection; 'the party agreed' removed"
+      basis: VTT — GM "Vukradin, it's back to you"; Soma declined; Valphine only commented.
+        Corroborated by campaign_state.md:37 "Vukradin destroyed the heart".
+    - id: f04
+      item: "Light spell attributed to Vukradin, not Valphine (Summary, Scenes, Spells)"
+      basis: VTT — David Mendenhall "I will cast a light spell."
+    - id: f05
+      item: "Lightning rod smashed by Vukradin, not Brewbarry (Summary, Scenes)"
+      basis: VTT — four David Mendenhall lines, incl. "Alright, I'm smashing the lightning rod."
+    - id: f07
+      item: "Starfish chest recovered/ferried by Soma, not Brewbarry"
+      basis: VTT — Wade "Can I just, like, chuck the chest onto land?"
+    - id: f09
+      item: "All five wrecks named (T10-T14); wand + spellbook sourced to the Orca"
+      basis: DIP T14; registry
+    - id: f11
+      item: "Canonical names — Cloak of Many Fashions, Crabby, Daggermaw"
+      basis: registry, DIP T12, ch07
+      caveat: Daggermaw is spoken NOWHERE on this session's tape; it is registry-only
+        here, so the recap now carries a name the session did not voice. Recorded
+        deliberately, GM-approved.
+    - id: f12
+      item: "Octopus-hide armor was NOT taken — Items entry corrected"
+      basis: GM ruling via artifact note ("Was not taken"). Resolved straight from
+        the note; no back-and-forth needed.
+    - id: f14
+      item: "Conch was on Moesko's lap, not beneath his armor — Summary un-fused"
+      basis: VTT — GM "was on his lap, but is no longer resting on his lap"; DIP T7.
+        The Scenes section was already correct; only the Summary was wrong.
+    - id: f15
+      item: "Trimmed 'benefits of a short rest' from Prayer of Healing; 'Readied as a
+        bonus action' -> 'Held in reserve' for Healing Word"
+      basis: 5e rules; unattested in tape or documents
+    - id: f16
+      item: "'human heart' -> 'heart' (x4) — Moesko is a half-orc"
+      basis: registry, DIP
+  applied_outside_session:
+    - id: world_state_miral
+      item: "docs/world_state.md lines 551 and 618: Miral -> Miraal"
+      basis: >-
+        Same fusion hazard as f01. Direction was checked BEFORE editing, per the
+        skill: campaign_state.md (9x Miraal) and party.md were already correct, and
+        every "Meril" in all three files is Soma's mentor and was left untouched.
+        world_state.md was the only wrong document.
+      caveat: world_state.md is a CampaignGenerator output and will be clobbered on
+        regeneration. The fix is not durable.
+  rejected_on_vtt:
+    - id: f06
+      report_claim: "The +1 halberd was recovered by Soma (cited ch11's Soma POV)"
+      ruling: REJECTED — the recap was right, Brewbarry found it.
+      basis: >-
+        VTT — GM addresses him directly: "Brewbarry, what's your approach to the
+        matter?" ... "All right. Brewbarry, as you sw- you can read and write,
+        right? So the ship is called... the Star-Crossed Lover. And you find on it
+        a plus-one halberd." Gary (voicing Brewbarry): "Alright."
+    - id: f08
+      report_claim: "Soma's 'blood money' line was an unspoken thought (cited ch11)"
+      ruling: REJECTED — Soma said it aloud; the recap's quote is correct.
+      basis: >-
+        VTT — GM: "And of course, you know... will this be viewed as... blood money,
+        or...?" -> Wade (Soma), answering him: "All money is blood money until
+        proven otherwise." ch11's "but I kept that thought to myself" is the
+        narrator's later framing, not the table.
+    - id: f13
+      report_claim: "Soma attempted the grapple; the NPC entry is reversed"
+      ruling: REJECTED — the sharks did the grappling; the NPC entry is right.
+      basis: VTT — "the target is grappled!", "he needs to try to avoid grappling",
+        "Try and grapple on bite number 2." Matches the hunter shark statblock.
+  rejected_by_gm:
+    - id: f10
+      item: "Leilon described as 'a town to the south' and 'the party's next destination'"
+      ruling: >-
+        REJECTED via artifact note — "Leilon is to the south of the Tower of Storms".
+        GM table geography outranks the module and the grounding docs. gm-assist.md
+        left as written.
+      note: >-
+        The "next destination" half of this card was not separately addressed by the
+        note and was left unchanged. See carry_forward.
+  applied_after_followup:
+    - id: f01
+      item: "Meryl -> Miraal (x19, incl. the '### Meryl' NPC heading)"
+      severity: CRITICAL
+      status: >-
+        Left UNMARKED on the review page; raised separately in chat and ruled
+        APPLY by the GM. Applied 2026-09-04. gm-assist.md now carries zero
+        "Meryl" and 19 "Miraal".
+      count_correction: >-
+        Reported as x15 during review — that was a line count, not an occurrence
+        count. The true figure is 19.
+      why_it_mattered: >-
+        The glossary maps `meryl, Merrill, Mariel -> Meril`, and Meril is Soma's
+        dead druid mentor, a DIFFERENT entity. The registry's top-level
+        rejected_aliases carries [Meril, Miral], so canon had already ruled those
+        two must never merge — but the recap spelled it "Meryl", which that guard
+        does NOT cover. A spell pass would not have been breaking a rule; it would
+        have been correctly applying one, straight into the wrong entity.
+      corroboration: >-
+        docs/glossary.md:348 already documented the hazard verbatim —
+        '**Meril** | Soma's druidic mentor; elven. NOT "Meryl"; distinct from
+        Miraal.' The campaign had written the warning down and the recap walked
+        into it anyway.
+
+carry_forward:
+  - id: cf-01-meryl
+    status: CLOSED
+    closed: 2026-09-04
+    item: >-
+      RESOLVED. All 19 "Meryl" in gm-assist.md rewritten to "Miraal" after the GM
+      ruled on it in chat. The fusion hazard in this file is closed.
+  - id: cf-07-meryl-guard-gap
+    status: OPEN
+    item: >-
+      The registry's rejected_aliases guard covers [Meril, Miral] but NOT "Meryl",
+      which is the spelling that actually appeared. Consider adding Meryl to the
+      guard so the next document that garbles it this way is protected. Note
+      docs/glossary.md:348 already carries the prose warning; the machine-readable
+      guard does not match it.
+  - id: cf-08-ensemble-meryl
+    status: OPEN
+    item: >-
+      docs/ensemble/chapters.md and docs/ensemble/.alias_decisions.json spell Soma's
+      mentor "Meryl" in several places. Wrong spelling but RIGHT entity — the
+      glossary would correct these accurately. Generated artifacts; left untouched.
+  - id: cf-02-stages-not-run
+    status: OPEN
+    item: >-
+      Stages 1, 2 and 3 NOT RUN — no artifacts exist. Stage 2 (scene extractions,
+      the verbatim-quote layer the narrator reads literally) has never been checked
+      for this session. Run /session-doc-run, then re-invoke /staged-consistency.
+  - id: cf-03-miral-generated-artifacts
+    status: OPEN
+    item: >-
+      docs/connections.json and docs/synthesize_npc/extract_003.md still spell the
+      banshee "Miral". Both are regenerated pipeline artifacts, so they were logged
+      rather than hand-edited. They will re-introduce the wrong form on any
+      synthesis that reads them.
+  - id: cf-04-bible-ship-name
+    status: OPEN
+    item: >-
+      docs/chapters/chapter_11...md line 21 reads "Star Crossed Lover" (no hyphen).
+      Per the skill, a recap/bible divergence is a GM item, not licence to edit
+      docs/chapters/. Fold it in at the next bible re-split.
+  - id: cf-05-leilon-geography
+    status: OPEN
+    item: >-
+      GM ruled Leilon is SOUTH of the Tower of Storms. This contradicts
+      world_state.md and campaign_state.md, which place Leilon on the High Road
+      being rebuilt for Neverwinter's Lord Protector — i.e. north. The table ruling
+      wins, but the grounding docs now disagree with the recap and should be
+      reconciled.
+  - id: cf-06-daggermaw-unspoken
+    status: OPEN
+    item: >-
+      "Daggermaw" was added to gm-assist.md from the registry, but is spoken nowhere
+      on this session's tape. If the name was never used at the table in ch09, a
+      later verbatim pass may flag it as unsourced.

@@ -548,7 +548,7 @@ A jurisdiction map on a public broadsheet already draws the dotted line over Nev
 Rimardo/Corrin's warning: six gods of fate are circling, each convinced they are the headliner — which means none of them are. An unannounced true headliner has not yet revealed itself. Corrin's card showed "something older and colder beneath the green dragon — a pale, lightning-touched creature of far greater age and menace." The understudy is already playing the lead role without the audience knowing. This is the largest looming threat.
 
 ### Leilon
-Rimardo: "You'll be a better audience in Leilon. You'll have context." Miral (ch09) warned of "a true storm gathering in the depths below Leilon." Both converge on this destination after Neverwinter.
+Rimardo: "You'll be a better audience in Leilon. You'll have context." Miraal (ch09) warned of "a true storm gathering in the depths below Leilon." Both converge on this destination after Neverwinter.
 
 ### The Sealed Door Beneath the Stage
 Rimardo's exact warning. Nature and location unspecified.
@@ -615,7 +615,7 @@ Zeleen suggested it (ch30); the party planned to investigate (ch43) and then **e
 | Ch03 | Gnomengarde; King Korboz's madness. Shapeshifter incidents. |
 | Ch05 | Adabra Gwynn first contact; deeper agenda sensed. |
 | Ch06 | Ser Kaelen Thorne met; Privy Council formed. |
-| Ch08–09 | Tower of Storms: Moesko defeated; lighthouse purified. Miral's ghost warns of "true storm beneath Leilon." |
+| Ch08–09 | Tower of Storms: Moesko defeated; lighthouse purified. Miraal's ghost warns of "true storm beneath Leilon." |
 | Ch10 | Vukradin declared Order member to clear name. Whispering Wood blight first observed. |
 | Ch11 | Vukradin's "numbers" vision. |
 | Ch14–15 | Butterskull Ranch: Borg the Hammer burns ranch; Big Al rescued. Sister Kaella identified as Carver's Phandalin spymaster. |
