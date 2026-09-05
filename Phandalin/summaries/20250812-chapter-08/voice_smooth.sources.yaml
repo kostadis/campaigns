@@ -1,0 +1,244 @@
+run:
+  skill: voice-smooth
+  session: 20250812-chapter-08
+  chapter: "Chapter 8 — Tower of Storms"
+  date: 2026-09-04
+  output: scene_extractions_smoothed/
+  precondition: "staged-consistency phases 0-2 complete; 41 findings resolved before this pass."
+
+scale:
+  scenes: 6
+  quote_lines_before: 947
+  quote_lines_after: 471
+  blocks_before: 494
+  candidates_presented: 26
+  review_mechanism: "interactive Approve/Reject/Discuss artifact, downloaded and read back"
+
+verdicts:
+  approve: 21
+  reject: 0
+  discuss: 3          # S4, S6, S7
+  undecided_on_first_return: 2   # C2, C5
+  undecided_reasked: true
+  note: >
+    C2 and C5 came back unmarked. Per the skill's rule that UNDECIDED is not a
+    verdict, both were re-asked rather than resolved by recommendation, and both
+    were then ruled explicitly. S6's note covered only one of that card's two
+    lines; the second was re-asked separately and ruled "drop".
+
+transcripts:
+  independent_readings: 2
+  identical_group:
+    - descript_transcript.md
+    - Chapter 08.cleaned.md
+  identical_group_evidence: >
+    2,919 lines each; 73 lines differ; every difference is a glossary name
+    normalisation (Valfine -> Valphine, Krabby -> Crabby). Chapter 08.cleaned.md
+    is a cleaned COPY of descript_transcript.md, not a second reading. Treating
+    them as independent would have made one pass corroborate itself on every card.
+  readings_actually_used:
+    - name: descript_transcript.md
+      role: "the independent pass; settled B1-B9 and S1"
+      good_at: "common-word recovery, sentence completion, false starts"
+    - name: session_20250812_transcript.vtt
+      role: "the retranscription lineage the scene extractions were built from"
+      caution: >
+        Carries at least one fabrication absent from the independent reading —
+        see finding napalm_fabrication below.
+  not_checked_individually:
+    - session_20250812.speakers.vtt
+    - session_20250812.displaynames.vtt
+    - session_20250812.partialmap.vtt
+
+findings:
+  napalm_fabrication:
+    severity: high
+    card: S1
+    detail: >
+      The string "napalm" occurs exactly ONCE in the entire session and only in
+      session_20250812_transcript.vtt. The independent reading has
+      "I mean, it smells like nature." (wade). This is a retranscription-only
+      garble — a fabrication, not a misspelling.
+    downstream_consequence: >
+      The /scrub pass on the codex narration treated "napalm" as a genuine
+      anachronism. The GM ruled "replace in-world" and it was rewritten to
+      "a pitch fire", logged in narration/scrub_manifest_20250812.md as an
+      AUTHORIAL REWRITE OF VERBATIM PLAYER SPEECH — the more serious of that
+      run's two GM-authored divergences.
+    action_required: >
+      That manifest row should be WITHDRAWN, not amended. There was never an
+      anachronism to scrub: a tortle druid calling a fouled harpy nest "nature"
+      is in voice and needs no replacement. NOT yet done — see carry_forward.
+    lesson: >
+      Generalises the campaign's existing rule that retranscription-only garbles
+      are fabrications. Here the fabrication survived a full staged-consistency
+      run AND a scrub, and was laundered into a GM ruling. Grep a suspicious
+      token across every reading before treating it as something said.
+
+  valphine_no_voice_spec:
+    severity: high
+    detail: >
+      The extractions label 23 blocks "Valphine". config/party.yaml declares
+      "Valphine Sotorra". get_voice_note matches the full name exactly — no
+      first-name fallback, no prefix rule (removed deliberately, CampaignGenerator#247).
+      Valphine therefore resolves to NO voice spec, silently, and every line of
+      hers this session was rendered without one.
+    same_root_cause_as: >
+      The hand-repair of "narrator: Valphine" -> "Valphine Sotorra" in the DGX
+      narration_dgx/plan.md.
+    not_fixed_here: "Roster/label mismatch is upstream. Reported, not patched in a derived layer."
+
+  skill_scripts_blind_to_this_campaign:
+    severity: medium
+    detail: >
+      find_recap.py (/remove-recap) and scan_quotes.py (/no-mech) both key on a
+      "## Voiced moments" heading. Phandalin's scene_extractions/ use
+      "## Verbatim moments", so both scripts parse nothing and return 0/N on
+      every scene of every Phandalin session — a parse failure that reads as a
+      clean audit.
+    note: >
+      This pass WRITES "## Voiced moments", so the smoothed layer is the first
+      Phandalin artifact those scripts can actually read.
+
+calibration_decisions:
+  filler: "False starts and pure filler collapsed. Deliberate style kept."
+  line_merging: >
+    Consecutive short cues from one speaker merged into readable sentences.
+    This is most of the 947 -> 471 line reduction; almost no content was cut.
+  grammar: >
+    Clear-meaning repairs applied (missing preposition, plural/possessive slip:
+    "interact the altar" -> "interact with the altar", "this realms" ->
+    "these realms", "to this harpies" -> "to this harpy's"). Ambiguous grammar
+    left near-verbatim.
+  ooc: "Table chatter smoothed lightly, kept near-verbatim, markers preserved."
+  raw_capture_annotations: >
+    The inline *(raw capture: ...)* provenance notes were NOT carried into the
+    smoothed layer. The heading no longer claims verbatim status and the notes
+    remain in scene_extractions/. Attribution defects were converted to HTML
+    comments instead, so they stay visible where they matter.
+
+rulings_applied:
+  batch:
+    - {id: B1, scene: "01", change: "saving through -> saving throw", source: descript}
+    - {id: B2, scene: "01", change: "silent spells -> silence spells", source: descript}
+    - {id: B3, scene: "01", change: "expensive damage -> six points of damage", source: descript,
+       note: "Card was labelled scene 02; the line is actually in scene 01. Applied where it lives."}
+    - {id: B4, scene: "02", change: "see you as a mace -> see you use a mace", source: descript}
+    - {id: B5, scene: "03", change: "dismally time -> dismally tonight", source: descript}
+    - {id: B6, scene: "04", change: "in mealy now -> in melee now", source: descript}
+    - {id: B7, scene: "05", change: "all your rules -> all your rolls", source: descript}
+    - {id: B8, scene: "05", change: "It does stay -> It does stink", source: descript}
+    - {id: B9, scene: "06", change: "dropped 'He packed me sitting' as a false start", source: descript}
+  solo:
+    - id: S1
+      scene: "05"
+      change: "smells like napalm -> smells like nature"
+      source: descript
+      see: findings.napalm_fabrication
+    - {id: S2, scene: "01", change: "rendered the unparseable immunity question as a question", source: inference}
+    - {id: S3, scene: "01", change: "not they literally know -> now they literally know", source: sense,
+       note: "One-phoneme swap that had inverted the clause."}
+    - {id: S4, scene: "02", change: "That's not so miss -> That's not a miss", source: "GM note: 'Not a miss'"}
+    - {id: S5, scene: "03", change: "He makes the same -> He makes the save", source: inference}
+    - {id: S6, scene: "03", change: "completed 'deafened in the' -> 'deafened in the bubble'; DROPPED the second fragment",
+       source: "GM note + explicit re-ask"}
+    - id: S7
+      scene: "03"
+      change: "rendered the inspiration arithmetic explicitly"
+      source: "GM note: 'the six was a bardic inspiration'"
+      detail: >
+        Resolves the beat: DC 11, raw d20 of 5, inspiration die of 6, 5+6=11.
+        Also retro-explains 'I have a good chance, but not 50' — he needed a 6
+        on a d6. The lines were compressed, not garbled. GM chose 'render
+        explicitly' over keep-verbatim-with-note; no number was changed.
+  cuts:
+    - {id: C1, scene: "06", cut: "DHCP / router / Santorini real-world tangent (~14 blocks)"}
+    - {id: C2, scene: "06", cut: "internet outage + 'series of tubes' (~6 blocks; carried the GM's real name x3)",
+       kept: "Vukradin's in-fiction tactical assessment ('another lightning bolt is going to be deadly... three characters down')"}
+    - id: C3
+      scene: "06"
+      cut: "loss and recovery of the bear token on Roll20 (~5 blocks)"
+      cost: "Loses 'I see a whisper of a bear and cannot get a bear', a genuinely good line."
+    - id: C4
+      scenes: ["01", "06"]
+      cut: "two Roll20 token requests (spider icon, bear icon)"
+      kept: "the Wild Shape decisions around them"
+    - {id: C5, scene: "06", change: "initiative fumble trimmed to settled values (AC 13, 58 hp, initiative 10)"}
+
+delta_audit:
+  method: "word-multiset diff of every quote line, smoothed vs source, per scene"
+  added_words_total: 28
+  all_traceable_to_approved_cards: true
+  unruled_edits_caught_and_reverted:
+    - {scene: "01", edit: "'does it 10 misses?' -> 'does a 10 miss?'", action: reverted}
+    - {scene: "01", edit: "'a range spell' -> 'a ranged spell'", action: reverted}
+    - {scene: "01", edit: "dropped the four-block harpy-retreat exchange ('He ran away' / 'Yes, it ran away over the parapet')",
+       action: restored,
+       note: "Also restored the timezone-yawn table-chatter line fused into the same block. Both were dropped while writing, with no card."}
+  note: >
+    All three were made in good faith while rendering prose and were invisible
+    in the finished file. This is the check that caught them.
+
+flagged_for_confirmation:
+  b2_generalisation:
+    detail: >
+      B2 was ruled on scene 01's "silent spells -> silence spells". The same
+      garble recurs twice more: scene 04 "drop the silent spell" and scene 06
+      "Or a silent spell or something". Both were rendered as "silence", i.e.
+      the ruling was GENERALISED beyond the card the GM actually saw.
+    status: APPLIED_BUT_UNCONFIRMED
+    why_flagged: >
+      Generalising a ruling beyond its scope is itself a judgment call. Silence
+      is the spell the whole encounter turns on, so consistency is the likely
+      intent — but the GM ruled one instance, not three.
+
+upstream_defects_reported_not_fixed:
+  - {scene: "02", defect: "speaker label flips mid-sentence in Harpy 2's reasoning block"}
+  - {scene: "04", defect: "two Brewbarry lines labelled Soma / merged into Vukradin's block (GM-ruled at Stage 2)"}
+  - {scene: "05", defect: "GM read-aloud labelled Vukradin then UNKNOWN"}
+  - {scene: "05", defect: "Mold Earth proposal merged into Vukradin's block, which then answers itself"}
+  - {scene: "05", defect: "'blowing all your rolls' attributed to Soma; the independent reading has the GM"}
+
+knowledge_boundaries:
+  - scene: "05"
+    detail: >
+      The GM's "Actually, it's the green light, not the harpies" is a slip toward
+      the T9 reveal. He retracts it two lines later ("Well, I guess you don't
+      know" / "You're right"). Annotated in the smoothed file: no character may
+      be narrated as having learned the green beacon's role here.
+    durable_home_needed: true
+
+player_names:
+  summary_sections: "scrubbed (David -> Vukradin, Wade -> Soma, Kostadis -> [GM])"
+  quote_lines: >
+    One licensed instance kept: Soma's "Yeah, I'm with you, Dave." in scene 03,
+    which carries a pre-existing scrub comment saying to leave it verbatim.
+  cut_removed: "Three further real-name instances removed with the C2 outage block."
+
+carry_forward:
+  - status: OPEN
+    item: >
+      WITHDRAW the napalm/pitch-fire row from narration/scrub_manifest_20250812.md.
+      It records an authorial rewrite of player speech that was never spoken.
+      The scrubbed scene 05 narration still reads "a pitch fire".
+  - status: OPEN
+    item: "Confirm or reverse the B2 generalisation to scenes 04 and 06."
+  - status: OPEN
+    item: >
+      Re-narration. The smoothed layer is now the input sd_narrate should read,
+      and both existing renders (narration/, narration_dgx/) were built from the
+      verbatim layer. Neither reflects any ruling in this manifest.
+  - status: OPEN
+    item: "Valphine -> Valphine Sotorra roster/label mismatch (see findings)."
+  - status: OPEN
+    item: "Homer defect in codex narration scene 01 line 81 — handed to /consistency-check, still unfixed."
+  - status: OPEN
+    item: "Cross-campaign tenday/week sweep (13 vs 29) from the scrub run."
+  - status: NOTE
+    item: >
+      find_recap.py and scan_quotes.py cannot parse Phandalin extractions
+      (heading mismatch). Worth an upstream issue.
+  - status: NOTE
+    item: >
+      Chapter 8 has no recap to remove (/remove-recap, 2026-09-04) — it is a
+      combat resume from a chapter-7 cliffhanger. See remove_recap_manifest.md.

@@ -201,3 +201,28 @@ like a recap and were the setup for the session's first spell. See
 campaign does not use, so it parses no Phandalin extraction and returns 0/N
 regardless of content. Treat its output as *not run*, and do the three-surface
 check (scene list, `## Summary` prose, enhanced-summary file) by hand.
+
+## Voice-smooth rulings (ch08, 2026-09-04)
+
+**Roll20 operation and real-world tangents are cut, not smoothed** — confirming
+the ch3 init-tracker precedent and extending it. Ruled cut on ch08: token
+requests ("give me a bear icon"), token loss and recovery, and an extended
+real-world tangent about routers and DHCP. Ruled **kept**: in-fiction tactical
+assessment spoken *during* an out-of-fiction interruption, and the mechanical
+values inside a fumbled stat readout (only the fumbling goes).
+
+**Retranscription-only strings are fabrications — check before scrubbing one as
+an anachronism.** `napalm` in ch08 scene 05 appears once in the whole session and
+only in `session_20250812_transcript.vtt`; the independent Descript reading has
+*"it smells like nature."* It survived a full staged-consistency run, then a
+`/scrub` pass treated it as a genuine anachronism and it was rewritten in-world
+to *"a pitch fire"* — an authorial rewrite of speech nobody uttered.
+
+> **Standing rule:** before proposing an anachronism scrub on a distinctive
+> modern noun, grep it across **every** transcript. A token present in only one
+> reading is a candidate fabrication, not a candidate scrub.
+
+**Two files with different names are not two readings.** In ch08,
+`Chapter 08.cleaned.md` is a glossary-cleaned copy of `descript_transcript.md`
+(2,919 lines each, 73 differing, all name normalisations). Prove independence
+before treating one as corroboration for the other.
