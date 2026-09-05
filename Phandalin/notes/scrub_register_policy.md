@@ -201,3 +201,63 @@ like a recap and were the setup for the session's first spell. See
 campaign does not use, so it parses no Phandalin extraction and returns 0/N
 regardless of content. Treat its output as *not run*, and do the three-surface
 check (scene list, `## Summary` prose, enhanced-summary file) by hand.
+
+## Voice-smooth rulings (ch08, 2026-09-04)
+
+**Roll20 operation and real-world tangents are cut, not smoothed** — confirming
+the ch3 init-tracker precedent and extending it. Ruled cut on ch08: token
+requests ("give me a bear icon"), token loss and recovery, and an extended
+real-world tangent about routers and DHCP. Ruled **kept**: in-fiction tactical
+assessment spoken *during* an out-of-fiction interruption, and the mechanical
+values inside a fumbled stat readout (only the fumbling goes).
+
+**Retranscription-only strings are fabrications — check before scrubbing one as
+an anachronism.** `napalm` in ch08 scene 05 appears once in the whole session and
+only in `session_20250812_transcript.vtt`; the independent Descript reading has
+*"it smells like nature."* It survived a full staged-consistency run, then a
+`/scrub` pass treated it as a genuine anachronism and it was rewritten in-world
+to *"a pitch fire"* — an authorial rewrite of speech nobody uttered.
+
+> **Standing rule:** before proposing an anachronism scrub on a distinctive
+> modern noun, grep it across **every** transcript. A token present in only one
+> reading is a candidate fabrication, not a candidate scrub.
+
+**Two files with different names are not two readings.** In ch08,
+`Chapter 08.cleaned.md` is a glossary-cleaned copy of `descript_transcript.md`
+(2,919 lines each, 73 differing, all name normalisations). Prove independence
+before treating one as corroboration for the other.
+
+## Combat mechanics are register, not residue (ch08, 2026-09-04) — CAMPAIGN-WIDE
+
+Ruled during `/no-mech` on ch08, and it governs `/no-mech`, `/scrub` and
+`/voice-critic` alike.
+
+**Hit points, saves, damage, conditions, ranges and named spells spoken during
+combat are IN CANON.** Two standing sources say so:
+
+- `voice/_genre.md`: *"Tone shifts scene to scene: … mechanical procedural during
+  combat (hit points, saves, the named spell), then back to lyrical interior."*
+- `voice/vukradin_new_pipeline.md`: procedural mechanics are *"his way of being
+  precise about life-and-death matters."*
+
+In a combat chapter the mechanics **are the events** — ch08's dramatic peak is
+literally *"Vukradin with three hit points and silence concentration."* Cutting
+that class does not free the narrator's budget, it deletes the scene.
+
+**What remains cuttable** is the narrow class of the table operating the game
+rather than playing it:
+
+| Cut | Keep |
+|---|---|
+| VTT operation (`"Public roll"`, token requests, map ops) | a character's tactical decision |
+| rules lectures delivered to a *player* | a GM ruling that changes the fiction |
+| tool failure (`"it's not letting me roll it"`) | the result the tool eventually produced |
+| rules lookup mid-turn | the rule's effect once applied |
+| session scheduling / wall-clock | anything in-fiction sharing the same line |
+
+**Bare acknowledgements (`"Yeah."`, `"Okay."`) are left alone by default.**
+Cutting one orphans the line it answers.
+
+**Do not cut a whole line to remove a clause.** `apply_cut.py` operates on whole
+quote lines; when out-of-fiction words sit inside an otherwise in-fiction line,
+leave the line and let the narrator or `/scrub` handle the clause.
