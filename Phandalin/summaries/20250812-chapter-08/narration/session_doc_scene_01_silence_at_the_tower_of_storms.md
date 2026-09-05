@@ -6,138 +6,158 @@ scene_name: Silence at the Tower of Storms
 session: 20250812-chapter-08
 ---
 
-The harpy’s song reaches us across the stone, sweet enough to make obedience feel reasonable. Soma and Brewbarry go slack around the eyes. The other harpies circle beyond the parapet, waiting to learn whether the first voice has taken hold.
+The harpy’s song still clings behind my eyes, sweet and coercive, turning affection into a weapon. Some of us have already felt it take hold. One singer is enough.
 
-It has.
+I answer with Silence.
 
-“Like I said, it's not going to matter.”
+The spell opens around us, a clean sphere where wingbeats, boots, breath, and song cease together. It does not merely muffle the harpy. It removes her argument.
 
-I center the spell where it will cover my companions and me, then close my hand.
+"Like I said, it's not going to matter. Silence. That should eliminate the charm condition."
 
-“Silence.”
+The others look toward me through the sudden absence. Soma tests the boundary and confirms what I already know.
 
-Sound vanishes. Not quiet. Absence. My breath no longer reaches my ears, my boots strike stone without impact, and the harpy opens its mouth upon nothing. The pressure behind my eyes releases as the song loses its path into us.
+"Everyone is deafened inside the circle."
 
-“That should eliminate the charm condition.”
+"She can sing. She can sing all she wants. We can't hear her."
 
-Soma points between us and mouths the obvious. Everyone within the circle is deafened. Correct. That is the cost, and it is a remarkably fair price for keeping one’s mind.
+The compulsion releases. I feel it withdraw from the company, leaving no melody behind, only the memory of pressure. Precision matters in life-and-death situations, so I point to the condition that no longer applies.
 
-“She can sing.”
+"We can delete charmed. As I said, it wasn't going to matter."
 
-The harpy’s throat works beyond the boundary.
+The harpy beats backward and drops beyond the parapet. She has lost the only advantage she trusted, and instead of entering the sphere to fight us honestly, she abandons the exchange.
 
-“She can sing all she wants.”
+"Ran away. Okay. He ran away."
 
-Its wings beat against the sea wind. I hear none of it.
+*Foolish!*
 
-“We can't hear her.”
+Soma studies the tower wall and the creatures circling above it. The silence protects us, but protection alone will not finish this. Our enemies remain airborne, outside the radius, and perfectly capable of waiting for us to make a mistake.
 
-The enchantment breaks. Soma’s attention returns first, followed by Brewbarry’s, and I can see their bodies become their own again.
+"Or I could go into spider mode. That'd probably be fine too."
 
-“We can delete charmed.”
+She considers the creatures she knows well enough to become.
 
-There are moments when a tactical theory becomes fact with such precision that the whole battlefield resolves around it.
+"Well, I think technically you're only supposed to have ones that you're familiar with, right?"
 
-“As I said, it wasn't going to matter.”
+Soma chooses the giant wolf spider. Her limbs lengthen, her shell and flesh folding into a dark, many-legged body built for stone, height, and sudden violence.
 
-The singer stares down at us, unable to understand why the reliable instrument of its cruelty has stopped producing results. Then it folds a wing, veers away, and drops beyond the parapet.
+Our immunity proves narrower than I first believe. Resisting one harpy’s song protects us from that singer for the rest of the day, but the other voices remain dangerous, and each song can travel across the tower and far down the coast.
 
-“Ran away.”
+"Oh, so I don't have to worry — am I immune to all harpy songs, or just the harpy song from that harpy?"
 
-I watch the empty edge.
+For one excellent moment, I understand that every harpy song has become irrelevant.
 
-“Okay.”
+"Oh, wow."
 
-A final beat of wing passes beyond the stones.
+Then the distinction becomes clear. Only the singer we have already resisted is harmless to us. The others can begin the same corruption afresh.
 
-“He ran away.”
+Fine. The Silence remains our center.
 
-The protection is narrower than I first believe. Those who resisted that singer cannot be caught by the same song again until the following day, but the other harpies remain distinct threats, each carrying its own enchantment. Their voices can travel far beyond the tower. Magical silence does not solve every future song. It solves the song being used against us now, and gives us a secure position from which to answer the next.
+Soma points toward the wall beneath another harpy.
 
-“Oh, so I don't have to worry about hiding in the immune to all harpy songs or just the harpy song from Harpy?”
+"I mean, in theory, I could probably scale this wall next to number two to help get into range, right?"
 
-For an instant, the answer appears broader.
+No stairs are necessary. The spider grips the exterior stone and climbs.
 
-“Oh, wow.”
+"I mean, the spider is climby crazy. So let's just say I climb the wall then. So wherever it is, I'm on top of it."
 
-Then the distinction becomes clear. Only this harpy’s song. If another begins, anyone who steps outside may be caught.
+Her legs find mortar seams and wet projections while the sea wind presses against her. She checks herself before attacking, holding to the forms she has actually studied rather than pretending unlimited familiarity with every beast in existence.
 
-Soma considers the wall and chooses a giant wolf spider. She limits herself to creatures she knows, which is a sensible discipline when transforming one’s entire body. Her shell draws inward, legs divide and lengthen, and bristles rise along the new joints until a spider crouches where my tortle companion stood.
+"I don't know, hold on. We got some of the wolf spider. Trying to limit the shapes I use."
 
-The spider climbs.
+Then her fangs strike.
 
-Stone that would demand rope from the rest of us becomes a floor beneath Soma’s many feet. She scales the exterior beside the next harpy, remains within the silent sphere, and drives her fangs into it. The bite lands hard enough to buckle its flight, but the creature stays aloft.
+"That's a hit."
 
-“Nice.”
+The bite lands hard enough to stagger the harpy in the air.
 
-Then I see how much fight remains in it.
+"Nice. 11 damage."
 
-“Wow, these have a lot of hit points.”
+"And yep. On harpy number two."
 
-Soma turns several black eyes toward me. Even without sound, the judgment is perfectly clear. *Yes. They do.*
+The creature should be nearly finished. It is not. It beats its wings, wounded but entirely capable of continuing.
 
-Brewbarry moves beneath the hovering creature, plants his feet, and enters his rage. His grip tightens on the halberd. The blade sweeps through the space beneath the harpy’s ribs, missing by an amount so small that the failure feels personally offensive.
+"Wow, these have a lot of hit points."
 
-The harpy does not return the attack. It disengages and beats away from the halberd, keeping open air between itself and Homer.
+"Wow."
 
-“Really?”
+The tower’s upper ledge rises only a short distance above us, enough to matter to a halberd and not enough to discourage Brewbarry. I judge the height.
 
-Of course. Their preferred weapon is the song, and I have removed it from the battle. Closing with Brewbarry would mean trading claws against a raging goliath for no useful reason. The harpies are cruel, not committed to foolishness.
+"10 feet. Okay."
 
-Our melee strength cannot decide this while they remain airborne. Ranged attacks will.
+Soma still clings within the Silence. Brewbarry advances beneath her, sets his hands on the halberd, and lets rage fill the spaces where sound ought to be.
 
-Valphine raises a hand, considering a spell.
+"And then with rage. And rage, yep."
 
-“I believe I have a range spell.”
+He swings. The blade passes beneath the harpy.
 
-She searches through the possibilities.
+"Oh, does it 10 misses?"
 
-“And let's see what this is.”
+"10 misses. Yeah. All right. So I guess that's it for me. Yikes."
 
-“You can't cast the spell with a verbal component.”
+It is a miss by the smallest possible margin, which remains a miss. Scandalous.
 
-“I know.”
+The wounded harpy disengages and flies away from Soma’s fangs and Brewbarry’s reach.
 
-Her golden eyes narrow at the edge of the silence.
+"Really?"
 
-“Let's see if I can step outside and then come back in or something.”
+Of course. These creatures do not want a battle in which their song is useless. They want charmed victims walking willingly toward the edge. The Silence denies them that corruption, so they circle beyond our weapons and search for exposed minds.
 
-The danger waits outside with the sound. She could cast there, but the harpies would have another opening to sing. Valphine lowers her hand and reaches for the crossbow instead.
+Ranged attacks will decide the fight.
 
-“So I can shoot it with an arrow, I guess.”
+"Yeah, clearly we're going to need ranged."
 
-“Yeah, you can definitely do.”
+Valphine searches through her magic.
 
-The bolt leaves the silence without a sound. It catches the harpy that tried to charm Valphine and drives deep, turning the creature in the air.
+"I believe I have a range spell. And let's see what this is."
 
-“Nice.”
+I stop her before she wastes the attempt.
 
-The strike is perfect.
+"You can't cast the spell with a verbal component."
 
-“Ah, crit.”
+"I know. Let's see if I can step outside and then come back in or something."
 
-The harpy fights to preserve its song despite the impact. It succeeds, but the bolt has cost it dearly. Only after the shot do Valphine and Brewbarry face the enchantment still clinging to them. Both hold themselves together. Both remain free.
+That is the answer, but stepping outside means accepting the song again unless the singer’s hold has already been broken. Valphine settles on her crossbow, which requires neither prayer nor audible command.
 
-There it is. The rhythm.
+"So I can shoot it with an arrow, I guess."
 
-“Which means you can step out of the silence, attack, and go back in.”
+She raises the weapon toward the harpy that tried to charm her.
 
-The sphere is no longer only a defense. It is cover. We can emerge, strike, and retreat into a place where their voices cannot follow.
+"Yeah, you can definitely do that. Nice. Ah, crit."
 
-“As long as another harpy doesn't start singing.”
+The bolt strikes cleanly.
 
-My opening comes. I measure the distance to the wounded harpy and the path back to safety.
+"Critical damage even. 4d6."
 
-“So I can probably go like out here, cast a spell against Harpy 3, and then run back inside, correct?”
+"Whoever. Can I see the one who was trying to charm me?"
 
-The route is clear.
+The singer remains visible beyond the Silence.
 
-“Okay, so I'll do that.”
+"Number three. Yes. Number three would be the one I would attack."
 
-I cross the boundary and sound crashes back into me: surf against rock, wings above the tower, breath in my throat. The harpy is close, comfortably within the reach of my spell. I release the blast. It strikes, glancing but real.
+The bolt hurts her, though not enough to break her control at once. Valphine and Brewbarry both force the remaining influence from their minds before the next song can pull them toward the parapet.
 
-Then I turn and run back inside.
+Now the rhythm is obvious.
 
-Silence closes around me once more.
+"Which means you can step out of the silence, attack, and go back in. As long as another harpy doesn't start singing."
 
-<!-- table-speech reclassified: "I put the 20-foot radius on the screen there for you." | "Your early morning yawns are contagious across the ocean. He's kind of like and goes over here. Okay, right from us." | "Give me a spider icon that we're going to wild shape into that." -->
+The sphere is no longer merely shelter. It is the center of the composition. We leave it for a single phrase, deliver the attack, and return before the harpies can answer. Their song controls the open air. I control when we enter it.
+
+"So I can probably go out here, cast a spell against Harpy 3, and then run back inside, correct?"
+
+The opening is there.
+
+"Okay, so I'll do that."
+
+I cross the boundary. Sound crashes back into me: surf against rock, wings above the parapet, the harpy drawing breath. She is close enough that range is no concern.
+
+"Yeah, I mean, it's only 10 foot away, so yeah."
+
+I release the spell. The blast catches her and shakes what remains of her defenses. Then I step backward into perfect silence before she can sing.
+
+"It's down to 28. Run back inside."
+
+Inside the sphere, I hear nothing.
+
+Exactly.
+
+<!-- table-speech reclassified: "The harpy sang. That's what happened." | "And a couple of people got charmed." | "Oh, no — it's only one. Just put Harpy 1. Sorry." | "I put the 20-foot radius on the screen there for you." | "All right. So you are no longer affected by the charm." | "Your early morning yawns are contagious across the ocean. He's kind of like — and goes over here. Okay, right from us." | "Yeah, he ran away. Hold on." | "Okay." | "Yes, it ran away over the parapet. Frustrated." | "So just to be clear, the folks who made the saving throw originally are immune to the harpy song for 24 hours. The other folks are not." | "Immune to all harpy songs." | "No, no, no — sorry. To this harpy's. Not all, not all." | "So if the other harpy sings, you have to re-roll." | "Yeah, exactly." | "Yeah. Yes." | "So you're still inside the sphere." | "So Brewbarry can make it to right here, and then it's just enough range for the halberd." | "11." | "Harpy 2 disengages." | "Yes. Well, I mean, harpies like to charm their enemies, and now they literally know they cannot do it." | "I think it's kind of like — you know, silence spells are very effective at dissuading harpies from attacking you." | "This is where ranged attacks would be useful." | "No, no — hold on, hold on. At the end of each of its turns. At the end." | "Who did you do this against?" | "Yes, this is number three." | "Okay, so I have to roll a concentration spell. He makes a concentration, but takes six points of damage." | "Okay, I applied the damage." | "Saving throw?" | "Wisdom save?" | "Yeah, yeah — wisdom save." | "I guess Brewbarry gets one as well, right?" | "Yes. Yep. So you're both now no longer charmed. You're no longer affected by the charm of Harpy number three." | "Yep." | "Yes. 60-foot range, right?" | "So 60-foot range. So four damage on three." -->

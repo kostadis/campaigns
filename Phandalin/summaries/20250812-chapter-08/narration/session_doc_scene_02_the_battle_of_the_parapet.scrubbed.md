@@ -84,7 +84,11 @@ The second harpy draws breath and begins its own song, apparently convinced the 
 
 "Good job."
 
+Vukradin has reached his own conclusion about the pair of them.
+
 "Oh, they really are dumb."
+
+I give him the number.
 
 "Intelligence 7."
 
@@ -105,6 +109,8 @@ The song wavers. Then it steadies.
 "Ah, fiddlesticks."
 
 The third harpy screeches and dives at Vukradin. Its claws miss, and he answers with magic. The blast catches it and breaks its song.
+
+Vukradin does not wait for me.
 
 "I'll do my attack."
 

@@ -81,7 +81,7 @@ from: ../scene_extractions/06_showdown_with_moesko.md
 > "AC 13."
 
 **Soma** — *checking whether the seated Moesko is disadvantaged*
-> "Is he sitting? Is he, you know, any sort of —"
+> "Is he sitting? Is he, you know, any sort of..."
 
 **GM** — *confirming that he is seated but alert*
 > "Yeah, he's sitting. He sees you. He's going to get up and attack you. Usual."

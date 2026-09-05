@@ -97,7 +97,7 @@ from: ../scene_extractions/04_the_harpy_s_end.md
 > "All right, let's drop the silence. You can use a spell."
 
 **Vukradin** — *reacting to Valphine's four damage*
-> "That's a Dex save for four damage. Really? I could have —"
+> "That's a Dex save for four damage. Really? I could have."
 
 **Soma** — *defending the spell's contribution*
 > "Given the mace — hey, don't knock it."

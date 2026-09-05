@@ -6,198 +6,142 @@ scene_name: Showdown with Moesko
 session: 20250812-chapter-08
 ---
 
-The nest burns behind us. The altar remains.
+The door opens onto a long chamber with north-facing windows crusted in salt. Moesko sits against the south wall in a barnacle-covered chair. Giant octopus hide hangs across his body as armor, stiff where it has dried. The opalescent conch rests in his lap.
 
-Beyond the northeastern door waits another problem.
+“Oh, yeah. I guess that doesn't look like a friendly, does it? Nope.”
 
-Vukradin does not hesitate.
+The half-orc sees us. His hand closes around the conch.
 
-"Oh, yeah."
+“What are we facing?” Vukradin asks.
 
-Neither do I, apparently.
+“Oh, geez. But he's just alone this time.”
 
-"Oh, yeah."
+“Oh, one of the orcs again?”
 
-The room is long, with a pair of windows facing north. A barnacle-encrusted chair rests against the south wall. Moesko sits in it, a half-orc wrapped in armor cut from giant octopus hide. The opalescent conch lies in his lap.
+The same sort of anchorite we have already found among the Talosians. Another shell sprout who thinks a storm god needs help hurting people. This one stole the conch from Miraal.
 
-Miraal's conch.
+“Oh, excellent. Okay.”
 
-"I guess that doesn't look like a friendly, does it?"
+Vukradin finds the theft encouraging. Of course he does.
 
-"Nope."
+Moesko starts to rise. I send a thorn whip across the room, trying to drag him out of his chair before his feet settle. The hooked vine catches and pulls, but it will not put him on the floor. Fine. I have other small inconveniences.
 
-Vukradin peers past me. "What are we facing?"
+A spray of poison follows. Moesko coughs and tightens his grip on the chair. It barely troubles him.
 
-"Oh, geez."
+“I didn't feel like burning a wild shape in here.”
 
-I know the type. We have met these anchorites before. They carry Talos in their teeth and lightning in their hands.
+I look at the half-orc, alone in his large room.
 
-"But he's just alone this time."
+“One lonely guy.”
 
-"Oh, one of the orcs again?"
+Whatever Vukradin presses against Moesko’s mind meets a cleric’s stubbornness and stops there.
 
-The conch is good news, at least. Vukradin sees it too.
+“He's a cleric, right? He's probably going to make that.”
 
-"Oh, excellent."
+“Oh, well — then he made it. Okay.”
 
-"Okay."
+Brewbarry rushes in, rage taking him again. His halberd cuts empty air. He plants his feet, swings once more, and misses by enough that even I cannot pretend otherwise.
 
-Moesko remains seated, but his eyes follow us. Alert. Waiting.
+“You know what? I'm sorry. It was the silence. The fact that you couldn't hear yourself scream — that was it.”
 
-"Is he sitting?"
+“That's right. That's definitely the problem.”
 
-"Is he, you know, any sort of..."
+I offer the theory some support.
 
-No. The chair offers no useful advantage. Of course it does not. I consider pulling him from it with Thorn Whip.
+“I remember in martial arts, they teach you to call out with every punch. It makes you stronger.”
 
-"All right."
+There. A sound tactical principle. Brewbarry has simply been deprived of yelling.
 
-"Then I'm just going to try to thorn whip him, knock him to his feet."
+Valphine raises her crossbow. Her bolt punches into the octopus hide and makes Moesko turn. That is more attention than my poison earned.
 
-The thorned vine forms in my hand. Then I remember the practical limitation.
+Then lightning fills the room.
 
-"Oh, no, that just pulls him."
+There is no warning beyond Moesko’s lifted hand and the smell of metal. The bolt passes through my bale in a white line. My muscles lock. Heat gets under my shell, along every joint and down into my legs. Vukradin stays upright, though his face has gone slack and pale. Valphine is still there. So am I.
 
-"That doesn't knock him over, does it?"
+Barely.
 
-It does not. I send the whip at him anyway. The magic snaps across the room, more irritation than answer.
+“Yep. Still standing.”
 
-"Hardly seems worth doing anything serious to him."
+*One lonely guy.*
 
-Later, when I have another opening, I try poison instead. Green vapor rolls from my hand and washes over his octopus-hide armor. It barely troubles him.
+I reach for the borrowed life I had decided to conserve. The chamber is cramped, and a large body needs room. Brewbarry shifts aside. Sensible. I let the tortle body go and come down on four heavy paws as a brown bear.
 
-"No, it does poison damage, not poison condition."
+The floor takes my weight. My breath comes hot through a wider mouth. Pain still flickers beneath the fur, but it belongs farther away now, behind thick muscle and another body’s endurance.
 
-"I believe so."
+I close on Moesko before he can lift that hand again. One paw catches his armor and turns him. My other tears through the octopus hide. Then my jaws close. Both attacks land, hard enough to drive him back against the chair.
 
-Vukradin tests Moesko's will. The pressure reaches him, and the anchorite pushes it away without effort.
+“Yay, bear. Rar.”
 
-"He's a cleric, right?"
+“Brown bear.”
 
-"He's probably going to make that."
+Vukradin approves of the choice.
 
-"Oh, well, then he made it."
+“The best bear. Best kind of bear.”
 
-"Okay."
+Correct.
 
-I keep Meril's borrowed power where it is. Wild Shape costs something, even when the body it gives me is temporary.
+Vukradin casts Cloud of Daggers around Moesko. Spinning blades fill the space between the half-orc, the chair, and me. Their edges catch the light from the windows. Moesko cannot remain there without being cut apart, but leaving means passing the bear.
 
-"I didn't feel like burning a wild shape in here."
+He is still standing. That is becoming irritating.
 
-"One lonely guy."
+“Because another lightning bolt is going to be deadly. Lightning will be an issue. Another lightning bolt will not go well. There will be three characters down.”
 
-This judgment lasts poorly.
+I tell Valphine what the arithmetic requires.
 
-Brewbarry rushes past me, rage tightening his shoulders and driving the halberd forward. The blade misses. He swings again and finds air.
+“Valphine, you got to do 12 damage or we're really screwed.”
 
-"Wow."
+“Or a silence spell, or something that's going to stop him from casting lightning bolt.”
 
-Vukradin offers an explanation immediately.
+Valphine keeps the crossbow.
 
-"You know what?"
+Valphine considers her options.
 
-"I'm sorry."
+“How about a crossbow bolt?”
 
-"It was the silence."
+It will not be.
 
-"The fact that you couldn't hear yourself scream, that was."
+“That's not going to be enough.”
 
-Brewbarry nods.
+“But sure. And we will go with that. Let's do five damage, and then I will step out of the room.”
 
-"That's right."
+Her bolt strikes. Then Valphine backs through the doorway, removing herself from any clear line Moesko might use.
 
-"That's definitely the problem."
+“Good plan.”
 
-I should leave this alone. I do not.
+Everyone else begins finding safer ground. I remain beside the spinning knives, broad enough to block most of the room and too stubborn to move without cause.
 
-"I remember in martial arts, they teach you to, you know, call out with every punch."
+“Everyone's just abandoning the bear. The bear will be fine. Mama Bear go down. Brewbarry is fine.”
 
-"It makes you stronger."
+Moesko cannot call the lightning again. Good. Instead he throws both hands outward. Thunderwave bursts from him and hits my bear body as a wall of pressure. My paws leave the floor. I land farther back, claws scraping stone, ears ringing.
 
-Valphine raises her crossbow. The string snaps, and the bolt strikes Moesko hard enough to make him shift in the barnacled chair.
+It hurts. I can continue.
 
-Then he stands.
+Moesko abandons the dagger cloud before the blades can work through what remains of him.
 
-Lightning gathers before I can move. I taste metal. The muscles beneath my shell tighten before the bolt leaves his hand.
+“And if you leave that square, I'll get to attack you.”
 
-"That's probably not going to be good."
+Brewbarry charges. His halberd catches Moesko cleanly this time. The half-orc staggers, armor split, legs loose beneath him. He should be dead. He has neglected to fall.
 
-"That seems bad."
+There is no room for the bear to turn and finish this properly. I release the borrowed body. Fur draws inward. My shell returns around me, heavy and familiar, and the lightning pain comes close again.
 
-The chamber turns white.
+Moesko is still upright.
 
-The lightning passes through nearly all of my bale. It locks my legs and empties my lungs. My staff nearly slips from my hand. Vukradin remains upright by very little. Valphine is scorched and staggering. I can smell burned leather, singed cloth, and the bitter residue of the spell.
+Enough.
 
-Brewbarry alone stands outside its path.
+“All right. Can I attack to end the night? Please. Let's see if I can hit once on one of these two tries.”
 
-I am still conscious. Barely.
+I strike him.
 
-"Yep."
+Vukradin calls it before I can look.
 
-"Still standing."
+“Dead.”
 
-So much for restraint.
+I check anyway.
 
-I reach for Wild Shape. The first instinct is a spider, something that fits the room. Then Brewbarry shifts aside, opening enough floor for a larger body.
+“Dead?”
 
-A bear is more appropriate.
+“Yes.”
 
-My shell folds into muscle and brown fur. Claws strike stone. The chamber becomes too small, but that is now Moesko's problem.
+Moesko collapses beside the barnacle-encrusted chair. The opalescent conch lies against the stone, still intact. My bale remains standing around it.
 
-I lunge. One paw drives through his guard. My jaws close on the octopus hide before he can recover. Both attacks land, and the combined force tears a serious portion from whatever strength remains in him.
-
-Vukradin gestures beside me. Cloud of Daggers appears around Moesko, a tight churn of spinning steel. The blades cut at once. If the anchorite stays there, they will keep cutting.
-
-Good spell. Poor room for anyone who dislikes being mauled by a bear.
-
-Moesko remains trapped between my bulk and Vukradin's daggers. That is the useful fact.
-
-Valphine studies him from behind her crossbow.
-
-"How about a crossbow bolt?"
-
-"That's not going to be enough."
-
-"But sure."
-
-Her next bolt hits. Then she backs through the door, putting stone between herself and another line of lightning.
-
-"Good plan."
-
-The rest of my bale follows the sensible direction away from Moesko. I remain in the room because I am currently the largest obstacle available.
-
-Moesko has no second lightning bolt.
-
-Instead, thunder erupts from him.
-
-"Thunderwave."
-
-The force slams into my chest. Bear claws scrape across the floor as I am shoved backward. The borrowed body holds, though not comfortably. Moesko uses the space to flee the Cloud of Daggers.
-
-Brewbarry catches him.
-
-The halberd lands this time. Rage adds its weight, and Moesko stumbles. He is still upright, but there is almost nothing left in him.
-
-The bear is too large to finish this cleanly. I release the form. Fur contracts into shell, claws into hands, and the room gives me space again.
-
-"All right."
-
-"Can I attack to end the night?"
-
-"Please."
-
-"Let's see if I can hit once on one of these two tries."
-
-I step in and strike.
-
-"Dead."
-
-"Dead?"
-
-"Yes."
-
-Moesko drops beside the barnacle-encrusted chair. The opalescent conch remains where it fell, pale against the floor.
-
-That can wait. I put one hand against my shell and make sure I am still standing.
-
-<!-- table-speech reclassified: "Wait, so you go through the door?" | "All right, you go through the door." | "He sees you." | "He's going to get up and attack you." | "Do you see?" | "You see no bear, right?" | "You're pushed back." | "He moved out of the cloud, so Brewbarry, you're up." | "Do your attack." | "Maybe you can finish him." -->
+Barely is enough.

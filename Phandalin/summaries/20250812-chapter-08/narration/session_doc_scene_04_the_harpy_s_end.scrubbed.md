@@ -44,6 +44,8 @@ The remaining creature turns in the air, wounded but still capable of resistance
 
 "Crit for four hit points."
 
+Vukradin reads the total off before I can.
+
 "Four damage."
 
 "Nice. Well, you know, it's getting there."
@@ -52,9 +54,13 @@ Perfection and consequence are not always aligned. This is a basic principle of 
 
 Soma surges across the plateau toward the last harpy, the points of her spider legs scraping against the rock.
 
+Soma measures the gap aloud.
+
 "Yeah, I can clear that, right?"
 
 "Yeah, no, I can get in there for sure. I got 40-range movement. Let's go."
+
+Vukradin offers his encouragement.
 
 "Chompy chompy."
 
@@ -62,13 +68,19 @@ She lunges. Her fangs close upon empty air.
 
 "Roll. And I whiff. But at least I'm in the fray now."
 
-The tactical merit remains. The harpy now faces a giant spider at close quarters, Brewbarry’s halberd within reach, and my bale arranged around every useful escape. Failure in the immediate act can still purchase position. Surface dwellers are inclined to call this consolation; in House Sotorra, we called it preparation.
+The tactical merit remains. The harpy now faces a giant spider at close quarters, Brewbarry’s halberd within reach, and the others placed across every useful escape. Failure in the immediate act can still purchase position. Surface dwellers are inclined to call this consolation; in House Sotorra, we called it preparation.
+
+Vukradin turns to the question of his own spell.
 
 "You want me to drop the silence spell?"
+
+Brewbarry, from inside the sphere:
 
 "Well, I mean, I'm in melee now."
 
 "Yeah, but would you be better off with a spell attack?"
+
+He is asking me. I consider the arithmetic and find it favourable.
 
 "Probably."
 
@@ -78,11 +90,15 @@ The silence has served its purpose. The song is broken, Brewbarry is free, and m
 
 Sound returns all at once: surf below the plateau, wings beating, spider feet on stone, Brewbarry’s armor shifting beneath his grip. I invoke radiant power, inexhaustible and indifferent, and direct it against the harpy. Lathander’s judgment touches it with exquisite accuracy, although not with the annihilating force Vukradin evidently considers appropriate.
 
-"That's a Dex save for four damage. Really? I could have —"
+"That's a Dex save for four damage. Really? I could have."
+
+Soma declines to let the contribution be diminished.
 
 "Given the mace — hey, don't knock it."
 
 "Four damage."
+
+She puts the number in its proper proportion.
 
 "It's half his hit points."
 
@@ -92,9 +108,13 @@ The light leaves a bright injury across the harpy’s defenses. It is not specta
 
 Vukradin fixes his attention upon the harpy. His voice carries now, each syllable sharpened by the restored air, and the creature falters beneath an insult more lethal than either its content or dignity warrants.
 
+Soma watches the method rather than the result.
+
 "He's just taunting him on the way down."
 
 "Pretty much."
+
+She supplies the insult herself.
 
 "Yeah, it smells of elderberry. 13 save for your life. Or four hit points. That's here."
 
@@ -110,7 +130,11 @@ The battle’s end reveals the plateau beneath it: scattered feathers, thrown ax
 
 "I mean, I would like to retrieve my hand axes."
 
+Vukradin suggests a larger supply.
+
 "Might want to get more of those. Maybe, maybe. Yeah."
+
+Brewbarry answers without hesitation. He has never counted them.
 
 "I have a whole armory of hand axes available."
 
@@ -128,7 +152,11 @@ The axes lie only a short distance from him. Their placement indicates that Brew
 
 "Okay. They narrowly missed my own toes."
 
+Soma asks after the hour.
+
 "And his short rest is more than an hour, right?"
+
+Vukradin rules it shorter.
 
 "30 minutes."
 
