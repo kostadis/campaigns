@@ -31,6 +31,59 @@ Operationally:
 - One campaign per PR. If accumulated drift spans campaigns, ask the user which campaign's changes ship first and commit only those.
 - The only files that legitimately span campaigns are root-level shared infrastructure (`MEMPALACE_HOWTO.md`, this `CLAUDE.md`, `.gitignore` at repo root). Those can be their own small commit.
 
+## Glossary inversions require a human checkpoint (hard rule)
+
+**Never invert an existing entry in a campaign's spell-pass glossary on your own. Ask first, every time.**
+
+An *inversion* is any change that swaps which spelling is canonical and which is the misspelling — moving a name from the right-hand (canonical) column to the left-hand (wrong) column, or vice versa. In `notes/vtt_transcription_corrections.md` this looks like:
+
+```
+before:  | Sequioa, Koya, Sequo | **Sequoia** |
+after:   | Sequoia, Koya, Sequo | **Sequioa** |
+```
+
+**The GM is dyslexic.** Two spellings that differ only by transposed letters are exactly the pair hardest to check at a glance, so an inversion silently applied is an inversion that may not get caught on review — and the glossary is what every downstream VTT pass, extraction, and narration run trusts. A wrong canonical form propagates into the whole corpus and is expensive to unwind.
+
+Operationally:
+
+- Adding a new variant to the left-hand column of an existing row is fine — that is accumulating evidence, not reversing a decision.
+- Adding a brand-new row for a name not yet in the glossary is fine.
+- **Changing the bolded canonical form of an existing row requires explicit confirmation from the GM before you write it.** Show the before/after as a diff, name the source you are relying on, and wait.
+- The same applies to `docs/entity_registry.yaml` canonical names and to `voice/` and `docs/party/` filenames.
+- When a spelling is contested, check `config/party.yaml` first for PCs — it is authoritative for party member names, over any filename or prose usage.
+
+This is the human-checkpoint principle applied to canon: a spelling ruling is a precision decision, and precision decisions do not get made by inference.
+
+## Every name change is verified against canon, every deviation is asked (hard rule)
+
+**Before you write any proper noun — or change one — resolve it against the canonical source. If what you are about to write deviates from canon, stop and ask the GM. Every time.**
+
+This is broader than the glossary-inversion rule above. That one governs edits *to* the glossary. This one governs **every** proper noun you write **anywhere**: session docs, recaps, scene extractions, narration, dossiers, notes, commit messages, and prose you show the GM in the terminal.
+
+**The GM is dyslexic.** Transposed-letter pairs — `Sequoia`/`Sequioa`, `Graeme`/`Graham`, `Vurakhal`/`Vorakal` — are precisely the pairs that do not get caught on visual review. A name you normalise silently is a name that ships unreviewed. So the burden is on you to look it up, and to show your work.
+
+### The canonical source chain
+
+Resolve in this order and stop at the first hit:
+
+1. `config/party.yaml` — authoritative for PC names, over any filename, dossier, or prose usage.
+2. `notes/vtt_transcription_corrections.md` — the campaign spell-pass glossary; the bolded right-hand column is canon.
+3. `docs/entity_registry.yaml` — canonical names and approved aliases for everything else.
+4. `docs/npcs/<name>.md` — a dossier's own stated ruling, when it cites one.
+5. `notes/vtt_known_additions.md` — names confirmed real but not yet promoted.
+
+If none of these carries the name, it is **not yet canon**. Do not invent a spelling and do not pick the majority spelling in the transcript. Surface it to the GM as a new-name candidate and wait.
+
+### Operationally
+
+- **Never silently normalise.** Correcting `Lucius Graham` → `Lucius Graeme` is right, but it is still a name change: show it, cite the source that rules on it, and let the GM see it before or as it lands. "The glossary already settled this" justifies the *direction* of the fix, not skipping the GM's eyes.
+- **Never invent a spelling** for a name absent from the chain, and never carry a transcript's spelling forward as though it were canon.
+- **Bulk renames are not exempt.** Twenty occurrences of one misspelling is still one ruling to show, not twenty edits to bury in a footer.
+- **When sources conflict**, do not adjudicate. Show the GM each source and its spelling, say which one the chain above favours and why, and wait for the ruling.
+- **A filename is not evidence.** `docs/party/sequioa.md` does not make `Sequioa` canonical; `config/party.yaml` says **Sequoia**, and the file is simply named wrong.
+
+This is the human-checkpoint principle applied to every name on the page: which letters go in what order is a precision decision, and precision decisions do not get made by inference.
+
 ## Shared Architecture
 
 Every campaign follows the same structure:
