@@ -22,6 +22,9 @@ from: ../scene_extractions/05_exploring_the_tower_of_storms.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-04, /no-mech): one at-the-table line already labelled out-of-character ("Let us check the landing..."). The religion-check callouts are KEPT — they set up the whiffed rolls and "Our cleric is not very religious, is she?" Verbatim record untouched in ../scene_extractions/.*
+
+
 **GM** — *reading the approach to the tower*
 > "All right. Let me just read you the description of this area."
 
@@ -174,9 +177,6 @@ from: ../scene_extractions/05_exploring_the_tower_of_storms.md
 
 **Vukradin** — *considering the altar*
 > "Nice. Okay. Well, do we want to interact with the altar in any way? I mean, feel free, guys. Go right on."
-
-**Gary Young** — *at the table, not in character — checking the adjoining landing first*
-> "Let's check the landing and make sure there's nothing on the landing."
 
 **GM** — *describing the harpy nest*
 > "A ledge enclosed by a three-foot-high stone retaining wall serves as a nest."

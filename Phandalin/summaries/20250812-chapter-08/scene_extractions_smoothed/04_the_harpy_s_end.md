@@ -21,6 +21,9 @@ from: ../scene_extractions/04_the_harpy_s_end.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-04, /no-mech): one rules lecture delivered to a player ("You get bonus hit points or temporary hit points based on your druid level...") — rules Q&A, not Soma speaking. Her Wild Shape decisions and every damage number are KEPT. Verbatim record untouched in ../scene_extractions/.*
+
+
 **GM** — *Harpy 1 finally landing a blow on Soma's spider form*
 > "Harpy 1."
 
@@ -29,9 +32,6 @@ from: ../scene_extractions/04_the_harpy_s_end.md
 
 **Soma** — *tracking the damage*
 > "All right. That takes me — that gets rid of my bonus hit points. Puts me down to 24. Or temporary."
-
-**Soma** — *explaining the revised Wild Shape durability*
-> "You get bonus hit points or temporary hit points based on your druid level, and you have the full health bar otherwise."
 
 **Soma** — *attacking the final singer*
 > "And I mean, we're just going to try and break his concentration again. There's a hit. There's 12 damage on it. That takes him down to six."

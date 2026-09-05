@@ -21,13 +21,13 @@ from: ../scene_extractions/02_the_battle_of_the_parapet.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-04, /no-mech): one line of Roll20 operation ("Public roll. Harpies are 11.") — the table working the tool, not the fight. Combat mechanics are otherwise KEPT throughout this scene: `voice/_genre.md` licenses "mechanical procedural during combat (hit points, saves, the named spell)" as a register. Verbatim record untouched in ../scene_extractions/.*
+
+
 **GM** — *sending Harpy 1 into a swooping attack on the spider*
 > "Flies by, strikes the spider. The spider. Hold on."
 > "I don't know if you saw that, but I got 20. I rolled a 22 and six points of damage. And the harpy flies away again. So you get your attack of opportunity."
 > "Excellent. I mean, it's something."
-
-**Soma** — *making the retaliatory bite*
-> "Public roll. Harpies are 11. That's a hit."
 
 **GM** — *reacting to the damage*
 > "Wow. That's a lot of damage."

@@ -27,6 +27,9 @@ from: ../scene_extractions/06_showdown_with_moesko.md
 
 ## Voiced moments
 
+*Cut by GM ruling (2026-09-04, /no-mech): two lines of tool-fighting and rules lookup ("it is not letting me roll it, so 8d6 by hand"; "Let me actually double-check the rule"). The 25-point lightning bolt, the hit-point tracking and the bear are KEPT — they are the encounter. This is in addition to the ~30 blocks of tooling and real-world talk already cut from this scene at /voice-smooth. Verbatim record untouched in ../scene_extractions/.*
+
+
 *Cut from this layer, by GM ruling 2026-09-04 (C1, C2, C3, C4; see voice_smooth.sources.yaml): the DM's real-world tangent about his house's router, DHCP and static IP addresses (~14 blocks); the internet outage itself and the "series of tubes" exchange (~6 blocks, which also carried the GM's real name three times); the loss and recovery of the bear token on Roll20 (~5 blocks); and one Roll20 token request. All are out-of-fiction table and tooling events, not narratable content. Vukradin's in-fiction tactical assessment, spoken during the outage, is KEPT below. The initiative exchange is trimmed to its settled values (C5).*
 
 **GM** — *revealing an enemy beyond the northeastern door*
@@ -188,9 +191,6 @@ from: ../scene_extractions/06_showdown_with_moesko.md
 **Vukradin** — *checking the dice*
 > "8d6?"
 
-**GM** — *confirming and rolling by hand*
-> "Yeah. Well, it's not letting me roll it, so 8d6 by hand. 25."
-
 **Vukradin** — *halving the damage for successful saves*
 > "25 half damage is 12."
 
@@ -253,9 +253,6 @@ from: ../scene_extractions/06_showdown_with_moesko.md
 
 **Vukradin** — *resolving the spell*
 > "Cloud of daggers takes nine damage, and now that he's trapped in there, he can take nine damage every round."
-
-**Vukradin** — *explaining why Moesko is constrained*
-> "Oh, he's at 12. Let me actually double-check the rule, make sure there isn't something I missed on this."
 
 **Vukradin** — *reading the trigger conditions*
 > "If it enters the cube or ends its turn there, or if the cube moves into its space. Okay, so it takes this damage once per turn."
