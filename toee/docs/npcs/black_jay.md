@@ -17,12 +17,12 @@
 - **Last known location:** Unknown; whereabouts unconfirmed
 - **Active operations:** Actively feeding intelligence to local bandits
 - **What the party knows:** He is a herdsman working as a bandit informant
-- **What remains hidden:** His connection to the Temple of Elemental Evil is unknown to Hommlet's common folk — Zinia noted this gap in local knowledge with satisfaction
+- **What remains hidden:** His connection to the Temple of Elemental Evil is unknown to Hommlet's common folk — Zinnia noted this gap in local knowledge with satisfaction
 
 ## Relationships
 - **Local bandits:** Active informant relationship
 - **Temple of Elemental Evil:** Suspected connection, nature unknown
-- **Zinia:** Aware of the information gap surrounding him; views it as significant
+- **Zinnia:** Aware of the information gap surrounding him; views it as significant
 
 ## Arc Score Events
 - No arc score events recorded

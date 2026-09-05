@@ -3,7 +3,7 @@ Background
 GM: Kostadis Roussos  
 Players and Character  
 Zephyr, a Tiefling Rogue  
-Zinia, The Masked One, an elf monk  
+Zinnia, The Masked One, an elf monk  
 Sequoia, a halfling rogue. 
 
 The setting is the world of Greyhawk, a fantasy world. The year is 579\.
@@ -34,7 +34,7 @@ The calendar is:
 * **The Narwell Caravan:** Hired by the merchants of Narwell, the party escorted a small merchant caravan into the Gnarley Forest, using the wagons as bait to draw out the highly organized brigands plaguing the region.  
 * **The Ogre's Toll:** Deep in the forest, the caravan's path was blocked by a massive ogre demanding payment for safe passage. Rather than engaging the 59-hit-point brute in a draining melee, the party successfully bypassed the threat through a combination of copper bribes and intimidation.  
 * **Jijohn the Tinkerer:** The group crossed paths with an eccentric, wizened gnome tinkerer named Jijohn (or "Gee John"). The gnome offered cryptic warnings about the organized forces backing the bandits, recounted the crushing of the Temple of Elemental Evil ten years prior, and advised the party to seek out Burne and Rufus upon reaching Hommlet.  
-* **Infiltrating the Abbey:** Leaving the caravan to strike at the root of the threat, the party located the bandit stronghold—the ruined Abbey of Allitur. The rogues (Zephyr and Sequoia) and the masked monk (Zinia) executed a flawless, stealth-based assault on the lower levels, slaughtering the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.  
+* **Infiltrating the Abbey:** Leaving the caravan to strike at the root of the threat, the party located the bandit stronghold—the ruined Abbey of Allitur. The rogues (Zephyr and Sequoia) and the masked monk (Zinnia) executed a flawless, stealth-based assault on the lower levels, slaughtering the unsuspecting bandits in a flurry of sneak attacks before the alarm could be raised.  
 * **The Orc Cook's Confession:** Amidst the carnage in the kitchen, the party cornered the orc cook, Urot. Terrified by the party's ruthless efficiency, she confessed that the bandit leader, Snej (referred to as "Snige"), was no mere outlaw, but an operative receiving resources from a "big shot" within the Temple of Evil: Canon Belsornig.  
 * **The Desecrated Chapel & The Silver Dragon:** In the ruined chapel of the Abbey, amidst defaced frescos of the god Allitur, the party discovered a captive baby silver dragon named Airgid. Chained to a statue, the ravenous hatchling explained her mother was in the Lortmil Mountains. The party agreed to escort her to Hommlet to plan a reunion.  
 * **Clearing the Ruins:** The party dispatched a giant spider lurking in the collapsed roof of a guest room in mere seconds, securing the area for a brief rest.  
@@ -59,7 +59,7 @@ Upon arrival, they visited the Inn of the Welcome Wench, met Spugnoir Balkof and
 
 ## Date: Planting 15, 579 
 
-Zinia, always the master spy, decided that they needed information. The best way to get it was to talk to folks in a Tavern looking for someone to buy them a drink. 
+Zinnia, always the master spy, decided that they needed information. The best way to get it was to talk to folks in a Tavern looking for someone to buy them a drink. 
 
 Looking around, he noticed that these were all common folk, farmers, traders, and passers-by. 
 
@@ -67,7 +67,7 @@ It was midday, and these people had no business or chores.
 
 Precisely the kind of people who would be most interested in telling him what they knew. One talked about a Black Jay. He was a mysterious and forlorn herdsman in league with local bandits. This mysterious man would tip the bandits off. 
 
-Zinia thinks, “Ah, so these folks don’t know the relationship to the Temple. Good.” 
+Zinnia thinks, “Ah, so these folks don’t know the relationship to the Temple. Good.” 
 
 The following person, a stout woman of indeterminate middle age, mutters that Y’dey, the head cleric of the village, has mysteriously disappeared. The priest, Terjon, is awfully closed-mouthed about the situation. She best that he played no small role in her disappearance as he is in charge now.
 
@@ -77,7 +77,7 @@ Finally, the last one reveals his take on the local gendarmerie: “Burne and Ru
 
 Zinnia connects the dots and explains to his companions, “The locals see the threat of being assimilated by Verbobonc as bigger than the temple. It’s probably related to their allegiance to the god Beory and Verbobonc’s theocracy. Verbobonc is committed to St. Cuthbert, and that god is committed to proselytizing and eliminating through conversion anyone who doesn’t at least acknowledge the importance of St. Cuthbert.”  
 
-Zinia tells the group that the locals know nothing more of value. So, Zephyr leads the group to Jaroo, a local druid and follower of Beory. 
+Zinnia tells the group that the locals know nothing more of value. So, Zephyr leads the group to Jaroo, a local druid and follower of Beory. 
 
 The grove is a place of worship. The caretaker has neatly pruned the trees, and the grass is well-tended. A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed. A small path leads beyond the shrine to a low-roofed wooden building placed under the great boughs of the central oaks of the thicket.
 
@@ -146,21 +146,21 @@ Rufus sighs, “I have a better plan than relying on your good graces. I am the 
 
 Sequoia smiles and nods. He has seen too many people with too many conflicting agendas, each trying to control the information flow and accomplish something slightly different. Once he has information, he will decide what to share. 
 
-### Zinia
+### Zinnia
 
 “We need to go get our cleric, Calmer.” 
 
-Zinia makes the long trek to the Temple of St. Cuthbert. A massive, imposing structure that is ridiculously too large for such a small village with so few souls. 
+Zinnia makes the long trek to the Temple of St. Cuthbert. A massive, imposing structure that is ridiculously too large for such a small village with so few souls. 
 
 Inside, he finds Calmer, who excitedly introduces him to Terjon.
 
-The high priest Terjon is happy to talk to Zinia alone, whom he recognizes as a recent convert. Zinia, for his part, does his best imitation of one. 
+The high priest Terjon is happy to talk to Zinnia alone, whom he recognizes as a recent convert. Zinnia, for his part, does his best imitation of one. 
 
 Terjon agrees with the idea that Calmer should join the group. But he does have one particular request that is so eerily familiar, 
 
 “Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.”
 
-From there, Zinia heads to the Inn of the Welcome Wench, where he and his traveling companions secure reasonable accommodations for reasonable prices, except for Zephyr, who is a spendthrift and demands the best room. 
+From there, Zinnia heads to the Inn of the Welcome Wench, where he and his traveling companions secure reasonable accommodations for reasonable prices, except for Zephyr, who is a spendthrift and demands the best room. 
 
 # Chapter 03 A Smile and a Stone
 
@@ -168,7 +168,7 @@ From there, Zinia heads to the Inn of the Welcome Wench, where he and his travel
 
 Zephyr
 
-The following day, the Zephyr sits for breakfast and waits for the arrival of Calmer and the man-at-arms that Ranos Davl has promised him. 
+The following day, the Zephyr sits for breakfast and waits for the arrival of Calmer and the man-at-arms that Rannos Davl has promised him. 
 
 Calmer arrives first, his armor polished and his holy symbol, the cudgel dangling from his wrist. 
 
@@ -192,7 +192,7 @@ Zephyr takes stock of Thorne or Duke. He is a rugged man in his late 30s with a 
 
 Zephyr says, “Well, since we are all here, let’s go outside and wait for the rest of the crew.” 
 
-### Zinia
+### Zinnia
 
 The masked one had been watching Zephyr and their two new companions, trying to see if anything was off. He noticed nothing. 
 
@@ -206,9 +206,9 @@ A scrub of thorns, thistles, weeds, and shrubs grows thickly along the edge of t
 
 The Duke sets up camp just past the drawbridge that leads into the moathouse, wishing the group luck. 
 
-Calmer is a bit insecure about this being his first adventure, so he lets Zephyr and Zinia advance first. 
+Calmer is a bit insecure about this being his first adventure, so he lets Zephyr and Zinnia advance first. 
 
-Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinia flatfooted, they miss him. When he has a chance to absorb the tactical situation, he sees that all the frogs missed. 
+Four giant frogs jump out of the pool near the bridge and attack. Although they catch the Zinnia flatfooted, they miss him. When he has a chance to absorb the tactical situation, he sees that all the frogs missed. 
 
 “The last ribbit,” he thinks. 
 
@@ -216,25 +216,25 @@ A few seconds later, the ground is drenched in the blood of giant frogs.
 
 Thurne shouts, “I can cook something nice with those legs. Tastes like chicken.” 
 
-Zinia glares. 
+Zinnia glares. 
 
 He’s about to go on the drawbridge when Calmer shouts, “I think it’s time that I did what all great clerics of St. Cuthbert do, which is lead.”
 
 Thurne shouts, “Do you want the horses?” 
 
-Zinia watches as Calmer marches onto the drawbridge. At the last moment, the masked spy notices the bridge rotting. He’s about to shout when four more giant frogs jump onto the bridge. 
+Zinnia watches as Calmer marches onto the drawbridge. At the last moment, the masked spy notices the bridge rotting. He’s about to shout when four more giant frogs jump onto the bridge. 
 
-The frogs' and the party's weight causes the bridge to shatter. Zinia doesn’t fall in, but Sequoia and Calmer do. He looks around and sees Zephyr still standing on the bridge. Sequoia and Calmer have been injured from the falling debris, but so have two frogs. 
+The frogs' and the party's weight causes the bridge to shatter. Zinnia doesn’t fall in, but Sequoia and Calmer do. He looks around and sees Zephyr still standing on the bridge. Sequoia and Calmer have been injured from the falling debris, but so have two frogs. 
 
-A frog chomps at Calmer and is knocked to death’s door. Zinia mutters to himself that this is not the kind of start that will ingratiate him with the clerics of St. Cuthbert. 
+A frog chomps at Calmer and is knocked to death’s door. Zinnia mutters to himself that this is not the kind of start that will ingratiate him with the clerics of St. Cuthbert. 
 
-Zinia jumps into the water and strikes and kills one of the injured Frogs. 
+Zinnia jumps into the water and strikes and kills one of the injured Frogs. 
 
 From behind him, he hears another frog croak. It’s last. It is dead at Zephyr's hand.  
 
-As Sequioa almost kills another frog, Zinia rushes to Calmer, pulls him out of the water, and patches his wound. 
+As Sequoia almost kills another frog, Zinnia rushes to Calmer, pulls him out of the water, and patches his wound. 
 
-When Zinia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian’s skull. 
+When Zinnia stands up, he sees the last frog is also dead from an arrow that went through the eye and into the amphibian’s skull. 
 
 ### Sequoia
 
@@ -263,11 +263,11 @@ When Zephyr asks if he should use a mage’s hand to open the door, Sequoia wave
 
 A sudden bang is heard in the room just outside the door. “Zephyr has used an illusion to get the folks inside to open the door for us,” thinks Sequoia. 
 
-The door opens, and a man in scruffy, dirty clothes with yellowing teeth peers through. He then retreats into the door, and there is muttering. Sequoia can’t understand what they are saying. He looks to Zinia and Zephyr, but they shake their heads as well. 
+The door opens, and a man in scruffy, dirty clothes with yellowing teeth peers through. He then retreats into the door, and there is muttering. Sequoia can’t understand what they are saying. He looks to Zinnia and Zephyr, but they shake their heads as well. 
 
 The two rogues and the monk co-ordinate with hand gestures. They will sneak into the room one at a time, attack, and retreat. 
 
-Sequoia waits as Zephyr enters. He hears a body fall to the ground. As Zephyr exits, he indicates seven more left and that the leader is dead. Sequoia waits as Zinia enters. The satisfying sound of a body hitting the ground quietly precedes Zinia’s return. 
+Sequoia waits as Zephyr enters. He hears a body fall to the ground. As Zephyr exits, he indicates seven more left and that the leader is dead. Sequoia waits as Zinnia enters. The satisfying sound of a body hitting the ground quietly precedes Zinnia’s return. 
 
 The rogue sneaks in the past through the door and sees the bandit leader dead on the ground, pooling in blood in the middle of the room. To his left is another dead bandit. Sequoia kills one with his shortswords and then leaves the chamber. 
 
@@ -275,9 +275,9 @@ The bandits recover from the shock of the surprise attack and start screaming th
 
 Sequoia kills one more of the bandits and then stands in front of the exit, blocking it. 
 
-He turns to Zinia, “Keep him alive. We want to interrogate him.” 
+He turns to Zinnia, “Keep him alive. We want to interrogate him.” 
 
-Zinia knocks him out with a flurry of blows. 
+Zinnia knocks him out with a flurry of blows. 
 
 Sequoia stands up, and just then, Calmer walks in and says, “I think it’s important that we callto  calm down.” 
 
@@ -315,7 +315,7 @@ A few hours later, the heroes can see “The Tower” in the distance and wonder
 
 Calmer insists, “We must go to the Prefect and inform him of what has happened\!” 
 
-Sequoia, Zinia, and Zephyr agree. Of all the factions, at least this one had skin in the game. 
+Sequoia, Zinnia, and Zephyr agree. Of all the factions, at least this one had skin in the game. 
 
 As they trudge through the village, the locals notice them and quietly discuss why the adventurers are back. 
 
@@ -325,7 +325,7 @@ The Prefect examines the stone that Calmer has produced, rubs it between his fin
 
 Calmer is shocked.
 
-Zinia asks for the rock, but Terjon surprisingly says, “I would like to keep this worthless rock.” 
+Zinnia asks for the rock, but Terjon surprisingly says, “I would like to keep this worthless rock.” 
 
 Zephyr is intrigued by Terjon wanting to hold onto a worthless rock. He decides that he doesn’t wish Terjon to keep it. He smiles sweetly, “If this rock is so worthless, why keep it?” 
 
@@ -354,7 +354,7 @@ Zephyr thinks, “Other than half the village.” And then he says, “Of course
 
 The two men then thank Zephyr and leave with their guards. 
 
-As Zephyr, Zinia, and Sequoia enjoy their drink, Ostler, the innkeeper, sits at the table \- “I see Burne and Rufus like you.” 
+As Zephyr, Zinnia, and Sequoia enjoy their drink, Ostler, the innkeeper, sits at the table \- “I see Burne and Rufus like you.” 
 
 “Not sure I would call it like.” 
 
@@ -364,7 +364,7 @@ As Zephyr, Zinia, and Sequoia enjoy their drink, Ostler, the innkeeper, sits at 
 
 “I’ll believe it when he says so, which will happen after you talk to him about whatever you talked to Burne, Rufus, and Terjon about.” 
 
-Zinia gets the point and gets up, heading to the door. Ostler grabs him by the arm, “So that you know; adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.” 
+Zinnia gets the point and gets up, heading to the door. Ostler grabs him by the arm, “So that you know; adventurers have a minimum three-night stay at the Inn. And as a matter of policy, any goods left behind are sold after three days.” 
 
 Like all the other town leaders, he is disappointed when Jaroo is presented with the stone and confession.
 
@@ -372,17 +372,17 @@ Like all the other town leaders, he is disappointed when Jaroo is presented with
 
 Zephyr sighs and heads out of the grove. As he leaves, Jaroo shouts, “Who else have you spoken to?” 
 
-Zinia realizes this town has no secrets, and he tells the truth. 
+Zinnia realizes this town has no secrets, and he tells the truth. 
 
 Jaroo is pleased and offers them the blessing of Beory and a healing potion. 
 
-“We should go talk to the village elder,” mutters Zinia. As an expert on local politics, he understands the importance of getting local leaders on board. 
+“We should go talk to the village elder,” mutters Zinnia. As an expert on local politics, he understands the importance of getting local leaders on board. 
 
 ![][image3]
 
-And so Zinia leads them to a place with an eight-foot-high stone wall and a heavy gate. It is the residence of some well-to-do folk and easily defensible in times of trouble.
+And so Zinnia leads them to a place with an eight-foot-high stone wall and a heavy gate. It is the residence of some well-to-do folk and easily defensible in times of trouble.
 
-They open the gate and step inside. Looking around, Zinia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children of different ages is running around. 
+They open the gate and step inside. Looking around, Zinnia quickly discovers that the compound has five families: the village elder and his wife, the four sons and their wives. A gaggle of children of different ages is running around. 
 
 He also notes that there are some servants here as well.
 
@@ -412,7 +412,7 @@ The Elder concludes, “Therefore, going forward, I expect you all to come here 
 
 They all nod and leave politely after sampling some of the treats that Kenter’s wife, Valsenora, brings to the table. 
 
-“Well, that was interesting,” mutters Zinia. 
+“Well, that was interesting,” mutters Zinnia. 
 
 From there, the trio heads to the Inn of the Welcome Wench, where Ostler, obviously informed of the visit to Jaroo and the blessing, greets the trio at the door.   
 From there, he ushers them into the kitchen, explaining that his job offer is to prove that Furnoc is a crook who steals from the Inn’s guests. 
@@ -423,7 +423,7 @@ Zephyr smiles, “No problem.”
 
 Unfortunately, it is a problem, as his attempt at pick-pocketing Furnok the Fabulous fails. Seeing his opportunity lost, he creates a distraction for Sequoia or Zenia to try their luck. So he falls on the table that Furnok is sitting on, causing the table to tip over. 
 
-Zinia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded—“The proof I needed\!” 
+Zinnia moves quickly and grabs the dice. As he picks them up, he realizes they are loaded—“The proof I needed\!” 
 
 Ostler confronts Furnok, who rejects the accusations. Things start to escalate when a burly, muscular man sitting at another table shouts, “Get out of here, Furnok, or I’ll have to call the Captain, and he won’t be as kindly as Ostler is.” 
 
@@ -435,7 +435,7 @@ Zephyr smiles, “There is a monster in the Gnarley forest, and we will need som
 
 Elmo mutters, “I am your person\!” 
 
-While this witty dialogue is going on with Elmo, Zinia carefully listens to the conversations and talks amongst the patrons. Overhearing one pair, he learns  that a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.” The person hearing the tale turns to his companion and replies, “ I hope she can swing a sword better than she can plow a field.” 
+While this witty dialogue is going on with Elmo, Zinnia carefully listens to the conversations and talks amongst the patrons. Overhearing one pair, he learns  that a farmer's daughter, Lysia, is itching to explore the ruined boathouse, but she needs some equipment and a few competent companions.” The person hearing the tale turns to his companion and replies, “ I hope she can swing a sword better than she can plow a field.” 
 
 From another person, he hears, “ There is a secret passage below the inn that leads to an extensive set of four lost chambers of a long-dead wizard.” 
 
@@ -463,22 +463,22 @@ The Trio stares at each other and then wordlessly agrees to look into this poten
 
 Mickey smiles and leaves, relieved. 
 
-Towards midnight, Zephyr, Zinia, and Sequoia climb outside their room window and drop to the ground. The village is eerily quiet, with none of the noise of the day. In particular, Sequoia notices how much noise the castle construction makes. 
+Towards midnight, Zephyr, Zinnia, and Sequoia climb outside their room window and drop to the ground. The village is eerily quiet, with none of the noise of the day. In particular, Sequoia notices how much noise the castle construction makes. 
 
-The village has no lights, making the journey to the brewery much easier. Zinia and Sequoia take the position to watch anyone arriving or leaving, and Zephyr plans to sneak up on the spies. 
+The village has no lights, making the journey to the brewery much easier. Zinnia and Sequoia take the position to watch anyone arriving or leaving, and Zephyr plans to sneak up on the spies. 
 
 At around midnight, Mickey’s spies show up. Zephyr quickly advances on them, his sword in his right hand, and puts the blade to the throat of the smaller of the two—the spy shrieks. 
 
 Before he can do anything, the other spy starts to cry. 
 
-Zinia and Sequoia come rushing out of their hiding spots; weapons bared and somewhat confused. 
+Zinnia and Sequoia come rushing out of their hiding spots; weapons bared and somewhat confused. 
 
 Zephyr uses all his tiefling fierceness to force the two squealing teenagers to be quiet. And then he asks, “What’s going on?”   
 The girl introduces herself as Jira, and the boy as Marek. They explain that Jakub is a member of the old faith and won’t let Jira be with Marek, whose father is Tomlyn, the tailor and a member of the Church of St. Cuthbert. 
 
-Zinia snarls and tells them to go away. 
+Zinnia snarls and tells them to go away. 
 
-As they leave, Jira pleads with Zinia to help them and talk to their parents \- “You’re heroes, and they’ll listen\!” 
+As they leave, Jira pleads with Zinnia to help them and talk to their parents \- “You’re heroes, and they’ll listen\!” 
 
 Sequoia struggles to sleep as he thinks about Zephyr looking confused and the two teenagers squealing. 
 
@@ -521,7 +521,7 @@ Calmer gulps.
 
 Inside the courtyard, Calmer asks, “What do we want to check out?” 
 
-Zinia points to the tower that they ignored last time.
+Zinnia points to the tower that they ignored last time.
 
 The two rogues peer inside. The upper portion of the tower has collapsed, and the interior is dark. Looking at the floor, Sequoia and Zephyr notice a faint gleam of coins. 
 
@@ -531,7 +531,7 @@ They find an ivory box about the size of a large book among the treasures.
 
 With his allies following, Sequoia crosses the courtyard, enters the great hall, and turns west into a passageway with two doors on the south and one to the north. The passageway ends at the door. 
 
-The first door to Sequoia’s left opens into a trophy room. Only a few mangy pelts, stuffed heads, and shattered antlers remain. Zinia, who enters the room, looks more carefully and realizes that some of the trophies are the heads of dwarves, humans, and elves \- “Enemies of the temple,” he mutters..” 
+The first door to Sequoia’s left opens into a trophy room. Only a few mangy pelts, stuffed heads, and shattered antlers remain. Zinnia, who enters the room, looks more carefully and realizes that some of the trophies are the heads of dwarves, humans, and elves \- “Enemies of the temple,” he mutters..” 
 
 The next door on the southern wall opens into the domicile of the majordomo of the castle. Zephyr sighs; it’s stripped of anything valuable. 
 
@@ -582,7 +582,7 @@ And now we are standing at the threshold of the lower levels of the moathouse. A
 
 I insist that I must lead. My experience and those innate attributes of wisdom and perception make me the right person to be in front. 
 
-Zephyr walks with me. Zinia and Sequoia are behind.
+Zephyr walks with me. Zinnia and Sequoia are behind.
 
 And it’s a good thing I was in front because I noticed, just in time, the blob of green slime hanging over the arch at the bottom of the stairwell. 
 
@@ -732,7 +732,7 @@ And then I hear the sound again.
 
 MORE ZOMBIES? 
 
-That’s when Zephyr shouts, or is it Zinia? Honestly, I can’t tell. 
+That’s when Zephyr shouts, or is it Zinnia? Honestly, I can’t tell. 
 
 “The other three doors also have zombies\!” 
 
@@ -774,7 +774,7 @@ He agrees and seems flattered.
 
 “Tomorrow then. We will meet at the Village Elder,” says Jaroo.
 
-### Zinia
+### Zinnia
 
 Calmer desperately wants to talk to the Cleric, so I tell him to go. He’s disappointed I won’t follow, but I can’t spend hours listening to Terjon's drone. 
 
@@ -798,7 +798,7 @@ He whispers conspiratorially, “And I am very pleased that you decided to go to
 
 ## Date: Planting 19, 579 
 
-### Zinia
+### Zinnia
 
 I come down for my breakfast, and there he is, Spugnoir.
 
@@ -847,13 +847,13 @@ I’ve seen the abyss. And let me assure you, the Abyss is not appreciably worse
 
 I was ready to demand that I be sucked into the endless blood war rather than have to listen for another minute of them talking. 
 
-So it was quite a relief when Sequoia and Zinia ran out. Calmer and I followed, but he was slightly disappointed when we told him we were taking Spugnoir with us. He had this look of a sad puppy. 
+So it was quite a relief when Sequoia and Zinnia ran out. Calmer and I followed, but he was slightly disappointed when we told him we were taking Spugnoir with us. He had this look of a sad puppy. 
 
 But Spugnoir, he was happy. And while we marched to Emiry Meadows, he became very talkative. 
 
 “There was a great battle here some years ago. I must tell you one of the most intriguing elements of that battle.”
 
-Zinia realizes that this guy likes to be flattered and says, “Yes?” 
+Zinnia realizes that this guy likes to be flattered and says, “Yes?” 
 
 “There are tales that the circle of eight appeared.”
 
@@ -873,7 +873,7 @@ Zinia realizes that this guy likes to be flattered and says, “Yes?”
 
 “I don’t know what and who. All I know are stories I have heard. But who knows, perhaps one day we will all discover.” 
 
-### Zinia
+### Zinnia
 
 The tower that the mage promised is more of a single building. It's not quite at the Battle of Emiry Meadows but near the battle of Emiry Meadows. 
 
@@ -933,7 +933,7 @@ I smile.
 
 A bit later, we arrived in Hommlet. Spugnoir is so excited. I am, too. His spell list was useless. Maybe we will keep him around. 
 
-Zinia asks, “So, do we rest another day or head out?”
+Zinnia asks, “So, do we rest another day or head out?”
 
 I want to find out who copied the map. A good place to start is the workers' encampment near the fortress. 
 
@@ -998,7 +998,7 @@ Hopefully, the mouse gets friendlier.
 
 ## Zephyr \- Evening, Planting 18, 579 
 
-Ouch, that strike by the bandit captain almost killed Zinia, He better get out of there. 
+Ouch, that strike by the bandit captain almost killed Zinnia, He better get out of there. 
 
 Thud. 
 
@@ -1012,7 +1012,7 @@ Sequoia shouts, “Don’t mess with me.”
 
 I smile. 
 
-This is going pretty good. Now Zinia is trying to kill the Captain by throwing a spear at him. 
+This is going pretty good. Now Zinnia is trying to kill the Captain by throwing a spear at him. 
 
 Honestly, killing the mooks is probably the better option, but if the Captain thinks its dangerous, he won’t get up close and personal and that will make killing the mooks easier. 
 
@@ -1775,7 +1775,7 @@ I thank him.
 
 ## Planting 23, 579 
 
-### Sequioa
+### Sequoia
 
 Quinna Poul comes rushing out of the kitchen as I saunter into the first floor dining area. 
 
@@ -2019,7 +2019,7 @@ Once we had that letter and the confirmed location, we made our exit. I, for one
 
 Here is the detailed breakdown of the session's events:
 
-* **The Interrogation:** Following an ambush where they saved blackmailed innkeepers, Zephyr and Ziinnia employed a "good cop, bad cop" strategy on a captured cultist. Zephyr's highly successful intimidation revealed that Ranus Duval (the "Duke") worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.  
+* **The Interrogation:** Following an ambush where they saved blackmailed innkeepers, Zephyr and Ziinnia employed a "good cop, bad cop" strategy on a captured cultist. Zephyr's highly successful intimidation revealed that Rannos Davl worked for a larger competing organization, and that the missing chest meant for Romag was likely at an abandoned monastery near Gallows Corner.  
 * **Gallows Corner Rumors:** The party traveled to the rural settlement of Gallows Corner to discreetly gather intelligence. Ziinnia successfully eavesdropped on hushed conversations, uncovering suspicious activities involving a merchant named Tilly Bizpebble Whistle, from whom Nicholas purchased a painted rock.  
 * **The Earth Cult's Shadow:** Hearing from locals that the unusual shadows and tremors in the hills were tied to Earth cult activity, the party decided to bypass the mining tunnels and take the public path straight to the monastery.  
 * **Infiltrating the Old Faith:** At the monastery—which appeared partially abandoned but was dedicated to the nature goddess Beory (referred to as "Barry")—Calmer attempted to deceive an elderly monk by pretending to be lost in the woods.  
@@ -2046,7 +2046,7 @@ The party discovered that the various elemental temple factions operated like co
 
 Continuing their exploration of the abandoned monastery, the party encountered Brother Eldrin’s stone guardian in an ancient library. The guardian presented them with a riddle about the eternal cycles of nature, testing their understanding of Beory’s old faith. Zephyr successfully identified the answer as the water cycle, demonstrating wisdom that honored the old ways. The guardian declared their worthiness and became inanimate, opening the passage deeper into the monastery complex.
 
-Moving stealthily through the stone corridors, the party overheard cultists excitedly discussing Tharok’s impending ritual and wishing they could witness the momentous event. Sequioa and Zephyr eliminated the guards silently, finding a key among their possessions. The cultists wore brown robes marked with triangle symbols, indicating their allegiance to the earth temple faction.
+Moving stealthily through the stone corridors, the party overheard cultists excitedly discussing Tharok’s impending ritual and wishing they could witness the momentous event. Sequoia and Zephyr eliminated the guards silently, finding a key among their possessions. The cultists wore brown robes marked with triangle symbols, indicating their allegiance to the earth temple faction.
 
 The key unlocked a prison chamber where two captives were being held for torture. Jerry, a soldier of Verbabonc, and Warda, a gnome nationalist, were engaged in heated political arguments even while imprisoned. Despite their ideological differences \- Jerry representing Verbabonc’s interests and Warda opposing what she saw as imperial expansion \- both agreed to help fight the cultists after the party explained the dire threat. Jerry revealed crucial information about a secret passageway to the deeper temple, knowledge passed down from his grandmother who had once worshipped Beory in these halls.
 
@@ -2054,11 +2054,11 @@ Armed with scimitars taken from the fallen cultists, the group followed the secr
 
 High Cultist Tharok stood before the altar, his imposing form marked by skin mottled like cracked stone and eyes burning with fervent intensity. Three robed cultists knelt around him in reverence, their whispered invocations weaving into the elemental hum that filled the air. The floor bore concentric rings of golden runes representing elemental power, and the very air vibrated with raw magical energy that made the chamber feel alive.
 
-When Tharok spotted the intruders, he declared them defilers of his sacred ritual and threatened that the earth itself would swallow them whole. Battle erupted as the party moved to stop the ritual before it could be completed. Zinnia, Sequioa, and Zephyr quickly dispatched the three cultist guards with swift, decisive strikes, while Calmer blessed the party with divine magic to aid their efforts.
+When Tharok spotted the intruders, he declared them defilers of his sacred ritual and threatened that the earth itself would swallow them whole. Battle erupted as the party moved to stop the ritual before it could be completed. Zinnia, Sequoia, and Zephyr quickly dispatched the three cultist guards with swift, decisive strikes, while Calmer blessed the party with divine magic to aid their efforts.
 
 Jerry charged bravely toward the high cultist but was struck down by Tharok’s devastating attacks, his body crumpling under the elemental fury. Tharok’s earth magic caused the entire chamber to quake violently, dust and stones cascading from the ceiling as tremors knocked several party members to the ground. The earthquake disrupted Calmer’s blessing as he struggled to maintain his footing on the shifting stone.
 
-Sequioa recognized that disrupting the ritual itself might weaken their enemy and rushed to the altar, knocking the Chest of Rao from its resting place. The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken. Zephyr struck with deadly precision, landing a critical blow against the high cultist, while Warda continued fighting despite witnessing Jerry’s death, her hatred for imperial forces now focused on the cultist threat.
+Sequoia recognized that disrupting the ritual itself might weaken their enemy and rushed to the altar, knocking the Chest of Rao from its resting place. The magical energies swirling through the chamber immediately began to dissipate as the ritual circle was broken. Zephyr struck with deadly precision, landing a critical blow against the high cultist, while Warda continued fighting despite witnessing Jerry’s death, her hatred for imperial forces now focused on the cultist threat.
 
 The battle raged on as Calmer called upon divine power and Zinnia pressed the attack with relentless strikes. Tharok retaliated with earth-shaking force, hurling Zephyr backward with a devastating blow while his elemental magic continued to make the chamber tremble. Though bloodied and battered, the high cultist remained standing as the session concluded, the outcome of this crucial confrontation still hanging in the balance.
 
@@ -2180,7 +2180,7 @@ Finally, the party returned to **Hommlet** and gathered the local council member
 
 The party arrived in the village of Nulb, a place notorious for its loose morals and unsavory reputation. After meeting with local guards at the Drowned Cottage, who warned them about the town’s dangerous nature, they explained they were seeking work for those willing to commit crimes and misdemeanors. As they explored the settlement, passing landmarks like the boatwright, Waterstead Hostel, Nulb Stables, and Gallows Square, they noticed signposts from Constable Eldrin Malavar warning citizens about a condemned temple south of town and declaring the Pilgrim’s Trail off-limits to all.
 
-At the Boatman’s Tavern, they met Skole, the owner and bartender, along with Ketta, a serving wench. Their investigation led them to the Rhennee encampment, where they encountered Eryk Velkori, the caravan leader, who was consumed by grief over his missing sister, Serena. The usually vibrant camp was unnaturally still, the air thick with ash and river rot, as Eryk clutched a bottle of rum and wept openly. He explained that Serena had vanished after a night at the Boatman’s Tavern, and he believed she had been taken by the Zelrads, the Reapers, or Nisera’s Talons through a place called the Iron Lash. When Sequioa jokingly asked about a map to hell, Eryk responded that he was already living in one, his tragedy serving as the very path to damnation.
+At the Boatman’s Tavern, they met Skole, the owner and bartender, along with Ketta, a serving wench. Their investigation led them to the Rhennee encampment, where they encountered Eryk Velkori, the caravan leader, who was consumed by grief over his missing sister, Serena. The usually vibrant camp was unnaturally still, the air thick with ash and river rot, as Eryk clutched a bottle of rum and wept openly. He explained that Serena had vanished after a night at the Boatman’s Tavern, and he believed she had been taken by the Zelrads, the Reapers, or Nisera’s Talons through a place called the Iron Lash. When Sequoia jokingly asked about a map to hell, Eryk responded that he was already living in one, his tragedy serving as the very path to damnation.
 
 Eryk provided crucial information about Nulb’s criminal underworld. He revealed that the Crimson Reapers, led by a man named Zelt the Rat, sought to dominate the town’s criminal activities and funnel supplies through the area. More ominously, he spoke of Madame Selentis, also known as Nisera, who was the true power in Nulb—a member of a disgraced noble family from Verbobonc who now controlled everything like a spider in a web. Eryk warned that if Madame Selentis ever took notice of them, things would have gone very badly indeed. When asked about the Iron Lash, he laughed heartily and revealed it was simply the name of the local brothel.
 
@@ -2202,7 +2202,7 @@ The party traveled south through Hommlet, stopping at the tavern where Ostler Go
 
 The party attempted to approach stealthily and first visited Camp Number One, where they met four friendly human druids named Verigo, Mahoon, Iniri, and Faria. These druids were excited about the upcoming rite of the wicker giant and offered the party food, drink, and brandy, inviting them to stay the night. Deciding to scout further, the party moved to Camp Number Two, where they encountered two robed men named Albrith and Ingulf, who identified themselves as circuits of the Scarlet Moon. When the party asked whether they were related to the Temple of Elemental, the robed figures adopted threatening poses and revealed their allegiance by stating “fire, water, earth, or air,” confirming their connection to elemental evil.
 
-The party immediately realized they had been set up by Captain Tolub, who had sent them to the Fire Temple instead of the Earth Temple. As they attempted to flee, the fire priests unleashed devastating magical attacks, hurling explosive bursts of flame that severely wounded the party and knocked Calmer unconscious. Zephyr quickly used a magical dust to render the entire party invisible, and Sequioa grabbed the fallen Calmer while the others scattered in different directions. To create a diversion, Zephyr cut the rope holding one of the leashed bears, unleashing the enraged animal upon the priests. Unable to see their invisible quarry and distracted by the rampaging bear, the fire clerics could only watch in fury as the party escaped into the hazy wilderness, having learned a harsh lesson about the dangers of direct confrontation and the value of stealth and cunning in their quest.
+The party immediately realized they had been set up by Captain Tolub, who had sent them to the Fire Temple instead of the Earth Temple. As they attempted to flee, the fire priests unleashed devastating magical attacks, hurling explosive bursts of flame that severely wounded the party and knocked Calmer unconscious. Zephyr quickly used a magical dust to render the entire party invisible, and Sequoia grabbed the fallen Calmer while the others scattered in different directions. To create a diversion, Zephyr cut the rope holding one of the leashed bears, unleashing the enraged animal upon the priests. Unable to see their invisible quarry and distracted by the rampaging bear, the fire clerics could only watch in fury as the party escaped into the hazy wilderness, having learned a harsh lesson about the dangers of direct confrontation and the value of stealth and cunning in their quest.
 
 # Chapter 15 From Fire to Forest: Tolubs treachery
 
@@ -2214,9 +2214,9 @@ Calmer, recovered from his brush with death, insisted they needed to change thei
 
 The party chose to travel stealthily through the forest rather than risk being seen in towns. Zinnia’s expertise proved invaluable as he found them a well-hidden cave to rest in and carefully obscured their tracks. During the night, patrols passed nearby but failed to discover their hiding spot. As they continued their journey the following day, they encountered a suspicious patch of soft ground that collapsed when poked, revealing a nest of angry poisonous snakes that they carefully avoided.
 
-Later, while moving quietly through the woods, they spotted a group of gnolls dressed in fire temple garb. The party successfully hid as the creatures marched past, clearly searching for something or someone. Sequioa noticed the gnolls seemed to be on patrol, possibly looking for the party themselves or dealing with the various bandit factions that plagued the region. The encounter reinforced how dangerous the area had become and how carefully they needed to move.
+Later, while moving quietly through the woods, they spotted a group of gnolls dressed in fire temple garb. The party successfully hid as the creatures marched past, clearly searching for something or someone. Sequoia noticed the gnolls seemed to be on patrol, possibly looking for the party themselves or dealing with the various bandit factions that plagued the region. The encounter reinforced how dangerous the area had become and how carefully they needed to move.
 
-As they drew closer to Nulb, the party observed a bandit chief leading another group of gnolls through the forest. Sequioa’s keen hearing picked up the chief muttering complaints about recruiting gnolls from the local gnoll king for the fire temple. This revelation was troubling—the Temple of Elemental Evil wasn’t just surviving, it was actively growing and recruiting forces. The party realized that stopping individual gnoll groups would be futile; they needed to eliminate whoever was doing the recruiting. They also learned more about the temple’s structure: four cults led by prophets—Romag of Earth, Belsornig of Water, and two unnamed leaders of Fire and Air—all ruled by a mysterious deep temple.
+As they drew closer to Nulb, the party observed a bandit chief leading another group of gnolls through the forest. Sequoia’s keen hearing picked up the chief muttering complaints about recruiting gnolls from the local gnoll king for the fire temple. This revelation was troubling—the Temple of Elemental Evil wasn’t just surviving, it was actively growing and recruiting forces. The party realized that stopping individual gnoll groups would be futile; they needed to eliminate whoever was doing the recruiting. They also learned more about the temple’s structure: four cults led by prophets—Romag of Earth, Belsornig of Water, and two unnamed leaders of Fire and Air—all ruled by a mysterious deep temple.
 
 Upon reaching Nulb, the party made their way to the Boatman’s Tavern. Skole, the bartender, was visibly shocked to see them alive. He revealed that Tolub had been telling everyone he had disposed of the party, claiming they were meddlers who didn’t belong. Taking them into his back room, Skole confided that he despised both Tolub and Lodriss, the tavern’s actual owner, and wished to be free of them both. More importantly, he told them that if they wanted to contact the Earth Temple, they needed to speak with Dick Rentsch at the Waterside Hostel, not Tolub, who worked for the fire prophet.
 
@@ -2226,9 +2226,9 @@ At the Waterside Hostel, a dilapidated building with sagging timbers and lopside
 
 While waiting for Dick Rentsch to return that evening, the party was approached by Wat, the bartender, who attempted to extract information about their business. The party deflected his questions, claiming it was a personal matter. Wat seemed relieved and mentioned someone named Dala before warning them not to drink the beer and serving them gin instead. When Dick Rentsch finally returned, he explained that to earn his trust and the prophet’s favor, they needed to complete a mission: ambush and kill a group of gnolls and their handlers who were being recruited for the fire temple that very night.
 
-The party returned to the forest and positioned themselves for the ambush. When the bandit chief appeared with his gnoll recruits, he seemed paranoid, muttering that Dick Rentsch might be up to something. The party struck swiftly and decisively. Sequioa and Zinnia focused their attacks on the bandit chief, cutting him down before he could react. Calmer created a terrifying booming voice that froze the gnolls in fear, while Zephyr methodically eliminated them one by one.
+The party returned to the forest and positioned themselves for the ambush. When the bandit chief appeared with his gnoll recruits, he seemed paranoid, muttering that Dick Rentsch might be up to something. The party struck swiftly and decisively. Sequoia and Zinnia focused their attacks on the bandit chief, cutting him down before he could react. Calmer created a terrifying booming voice that froze the gnolls in fear, while Zephyr methodically eliminated them one by one.
 
-The battle was brutal but efficient. Sequioa delivered a devastating strike that literally cut one gnoll in half, while Zinnia moved with deadly precision through the chaos. The remaining gnolls, driven by bloodlust despite their fear, fought desperately but were overwhelmed. The last bandit, realizing his leader was dead and contemplating his poor life choices, made a futile attack before being struck down. When the dust settled, the party stood victorious over the bodies of their enemies, having proven themselves capable of the ruthless work the Earth Temple required. They had successfully completed Dick Rentsch’s test and earned their entry into the Temple of Elemental Evil.
+The battle was brutal but efficient. Sequoia delivered a devastating strike that literally cut one gnoll in half, while Zinnia moved with deadly precision through the chaos. The remaining gnolls, driven by bloodlust despite their fear, fought desperately but were overwhelmed. The last bandit, realizing his leader was dead and contemplating his poor life choices, made a futile attack before being struck down. When the dust settled, the party stood victorious over the bodies of their enemies, having proven themselves capable of the ruthless work the Earth Temple required. They had successfully completed Dick Rentsch’s test and earned their entry into the Temple of Elemental Evil.
 
 # Chapter 16 A Corridor Paved with Bones
 
@@ -2250,7 +2250,7 @@ Dick Rentsch seemed disturbingly at ease here, describing it as his happy place.
 
 At the bottom, Dick Rentsch knocked on a wall in a particular pattern, and a secret door opened to reveal a corridor at least one hundred feet long and twenty feet wide. The entire passage was covered in bones—a terrible jumble of human and humanoid skeletons, many still wearing sundered armor or clutching broken weapons, testifying to a great battle that had taken place here. Dick Rentsch warned them to be careful not to disturb the dead as he picked his way through the grim remains. As they followed him eastward, several gnoll skeletons suddenly animated and rose from the bone pile to attack.
 
-The party fought desperately against the undead creatures. Sequioa struck down the first skeleton with a powerful blow, while the remaining skeletons attacked, wounding both Sequioa and Zephyr. Zephyr retreated and struck back, while Zinnia delivered a devastating blow to another skeleton. Calmer raised his holy symbol and called upon the power of St. Cuthbert, destroying one skeleton outright and damaging others with divine radiance. The party quickly finished off the remaining undead, and Dick Rentsch urged them to move quickly before more skeletons could animate. They ran through the rest of the corridor, emerging into a guarded area.
+The party fought desperately against the undead creatures. Sequoia struck down the first skeleton with a powerful blow, while the remaining skeletons attacked, wounding both Sequoia and Zephyr. Zephyr retreated and struck back, while Zinnia delivered a devastating blow to another skeleton. Calmer raised his holy symbol and called upon the power of St. Cuthbert, destroying one skeleton outright and damaging others with divine radiance. The party quickly finished off the remaining undead, and Dick Rentsch urged them to move quickly before more skeletons could animate. They ran through the rest of the corridor, emerging into a guarded area.
 
 Four guards stationed in a torch-lit hall questioned Dick Rentsch, who explained that the party were the new recruits he had promised to Romag. The guards expressed their loyalty to the Earth Temple and their hatred for the Fire Temple, boasting that once they killed enough gnolls, Alremm—the head of the Fire Temple—would be theirs. The party passed through a barracks area and a lounge decorated with scenes of drinking and debauchery, finally arriving at a well-furnished chamber where two commanders stood guard. Dick Rentsch asked if he needed to confiscate their weapons or if they were smart enough not to try anything stupid. The party assured him of their cooperation, though there was some lighthearted banter about cutting off Zephyr’s tiefling horns.
 
@@ -2274,11 +2274,11 @@ When they reached the designated door and knocked, they entered a room that felt
 
 The brighter of the two radiant figures peered at the party and spoke in dulcet tones, asking what fair and just folk were doing in this foul place of pain and base wickedness. When the party explained they were on a mission to find gnolls and defeat the Temple of Elemental Evil, the figures seemed delighted. The brighter figure then made an unusual request: the party should place every weapon, holy symbol, magic item, and silvered item before the crystal window, then step out and count to seventy-seven while the figures sent a ray of just white through the room to bless their equipment, doubling its efficacy for seven hours.
 
-The party hesitated, their instincts warning them something was amiss. Zephyr offered only his short sword, Zinnia gave a single dagger, and Sequioa reluctantly parted with one dagger as well. When the radiant figures pressed them to surrender more weapons, insisting they surely wouldn’t refuse such a divine blessing, the party stood firm in their refusal. Disappointed, the angelic figures declared they would reserve their blessing for someone else and vanished, leaving the party to wonder what trap they had narrowly avoided.
+The party hesitated, their instincts warning them something was amiss. Zephyr offered only his short sword, Zinnia gave a single dagger, and Sequoia reluctantly parted with one dagger as well. When the radiant figures pressed them to surrender more weapons, insisting they surely wouldn’t refuse such a divine blessing, the party stood firm in their refusal. Disappointed, the angelic figures declared they would reserve their blessing for someone else and vanished, leaving the party to wonder what trap they had narrowly avoided.
 
 As they exited through the eastern door, Zinnia’s keen eyes spotted a secret entrance. Opening it discreetly, they discovered a bare room permeated by a feral odor, with nesting heaps of cloth and pillows, bones and litter covering the floor, and rust-red cloaks hanging on pegs. Inside were two werewolves who snarled at the intruders, their eyes gleaming with predatory intelligence. One of them laughed darkly, saying this could have been much easier if they had just dropped all their weapons and come in unarmed—they supposed they would have to do it the hard way for the Fire Temple.
 
-The battle was fierce and desperate. The party quickly realized their weapons were ineffective against the lycanthropic creatures, their blades seeming to pass through flesh without causing proper harm. Calmer called upon his divine power, channeling energy to temporarily enchant Sequioa’s short sword and Zinnia’s spear with magical properties. Zephyr’s dagger already possessed such enchantment, and Calmer wielded his mace of smiting. The werewolves fought with savage ferocity, their claws and fangs tearing into the party, but Calmer’s radiant guardians materialized around him, burning the creatures with holy light. Zinnia landed a devastating blow with his enchanted spear, and together the party brought down both werewolves, standing victorious but battered.
+The battle was fierce and desperate. The party quickly realized their weapons were ineffective against the lycanthropic creatures, their blades seeming to pass through flesh without causing proper harm. Calmer called upon his divine power, channeling energy to temporarily enchant Sequoia’s short sword and Zinnia’s spear with magical properties. Zephyr’s dagger already possessed such enchantment, and Calmer wielded his mace of smiting. The werewolves fought with savage ferocity, their claws and fangs tearing into the party, but Calmer’s radiant guardians materialized around him, burning the creatures with holy light. Zinnia landed a devastating blow with his enchanted spear, and together the party brought down both werewolves, standing victorious but battered.
 
 Calmer declared there had better be some magical items in the lair after such a difficult fight. Searching through the room, they discovered a silver service worth a considerable sum, which they divided among themselves. More importantly, they found a magical dagger and short sword, which they distributed to those who still lacked enchanted weapons. But it was Zinnia who made the most crucial discovery—a loose flagstone that concealed a hidden treasure pile. Beneath it lay silver pieces, holy symbols of Saint Cuthbert and Rao, and most critically, five silver daggers and nineteen silver-tipped arrows. The irony was not lost on them: the very equipment they had needed to fight the werewolves had been hidden in the werewolves’ own lair.
 
@@ -2300,9 +2300,9 @@ Romag woke the party after eight hours of rest with urgent news. The traitor had
 
 The party devised a clever strategy to convince the Earth Temple guards to mount a frontal assault on the gnolls as a distraction. Their persuasion succeeded easily, as the human guards harbored deep fears of being replaced by gnolls and becoming their food. However, when the guards advanced into the gnoll territory, disaster struck. Screams of "It's a trap\!" echoed through the corridors as the gnolls sprang their ambush, catching the guards in nets and slaughtering them mercilessly. Zinnia and Zephyr crept forward to investigate and witnessed a horrifying scene of gnolls feeding on the fallen guards.
 
-The party engaged the remaining gnolls in swift combat, with Calmer casting powerful magic that summoned spectral guardians to devastate the clustered enemies. As they fought, they heard Lieutenant Krell's voice encouraging the gnolls, revealing his betrayal: "I told you they would try to kill you. The Fire Temple protects its own." The party pressed their advantage, cutting through the gnolls with precision strikes. When Krell emerged, wielding a peculiar hand crossbow contraption—a pistol of his own devising—he targeted Calmer directly, firing twice and knocking the cleric unconscious with devastating shots. Sequioa quickly revived Calmer with a healing potion, and the grateful cleric thanked him for his loyalty.
+The party engaged the remaining gnolls in swift combat, with Calmer casting powerful magic that summoned spectral guardians to devastate the clustered enemies. As they fought, they heard Lieutenant Krell's voice encouraging the gnolls, revealing his betrayal: "I told you they would try to kill you. The Fire Temple protects its own." The party pressed their advantage, cutting through the gnolls with precision strikes. When Krell emerged, wielding a peculiar hand crossbow contraption—a pistol of his own devising—he targeted Calmer directly, firing twice and knocking the cleric unconscious with devastating shots. Sequoia quickly revived Calmer with a healing potion, and the grateful cleric thanked him for his loyalty.
 
-Surrounded and desperate, Krell attempted to negotiate with the party. He argued that the Earth Temple used its followers as mere cannon fodder, while the Fire Temple under Alremm valued power and glory, offering to join forces to destroy the Earth Temple and be hailed as heroes. The party rejected his offer, choosing to remain loyal to Romag. They attacked Krell carefully, using non-lethal strikes to subdue him rather than kill him, as Romag had demanded he be brought back alive. After a brief but intense fight, Sequioa delivered the final blow that knocked Krell unconscious.
+Surrounded and desperate, Krell attempted to negotiate with the party. He argued that the Earth Temple used its followers as mere cannon fodder, while the Fire Temple under Alremm valued power and glory, offering to join forces to destroy the Earth Temple and be hailed as heroes. The party rejected his offer, choosing to remain loyal to Romag. They attacked Krell carefully, using non-lethal strikes to subdue him rather than kill him, as Romag had demanded he be brought back alive. After a brief but intense fight, Sequoia delivered the final blow that knocked Krell unconscious.
 
 The party searched Krell's quarters and the surrounding rooms, discovering considerable treasure including platinum pieces hidden in a brazier, gold, a three-dragon ante set, and useful supplies like flasks of oil. They also found a secret door leading deeper into the complex. With their prisoner secured, they brought the bloodied and unconscious Krell before Romag, who was immensely pleased with their success. He declared that everyone must witness the consequences of betrayal and ordered the party to attend a ritual sacrifice in the great chamber.
 
@@ -2322,27 +2322,27 @@ Realizing the party needed proper accommodations, Romag granted them the territo
 
 The party awoke in their newly granted quarters within the Earth Temple, the former chambers of the traitor Lieutenant Krell. The room, though marked by blood and the remnants of their recent battles with gnolls, now served as their base of operations. With a secret door and strategic access points, it was a foothold in the heart of enemy territory. The party gathered to discuss their next moves, weighing their options between exploring the dungeon complex, returning to the Fire Temple agents in Nulb to report Krell's death, or consolidating their position. Ultimately, they decided to explore the dungeon to better understand the labyrinthine complex they had infiltrated.
 
-Their exploration began cautiously as they ventured west from their quarters. Opening a door, they encountered two ghasts—undead creatures with hollow eyes and an unsettling hunger. The ghasts questioned whether the party were members of the Earth Temple and, more ominously, whether they had brought food or were food themselves. Nick, playing Sequioa, quickly closed the door on the threatening creatures. Zinnia, observing the interaction, deduced that the Earth Temple forces and the ghasts were not allied, a valuable piece of intelligence about the fractured nature of the temple's inhabitants.
+Their exploration began cautiously as they ventured west from their quarters. Opening a door, they encountered two ghasts—undead creatures with hollow eyes and an unsettling hunger. The ghasts questioned whether the party were members of the Earth Temple and, more ominously, whether they had brought food or were food themselves. Nick, playing Sequoia, quickly closed the door on the threatening creatures. Zinnia, observing the interaction, deduced that the Earth Temple forces and the ghasts were not allied, a valuable piece of intelligence about the fractured nature of the temple's inhabitants.
 
 Continuing their exploration northward, the party discovered an abandoned kitchen, a vast chamber twenty feet by thirty feet. A massive fireplace dominated the north wall, large enough to roast an entire ox, with numerous side ovens built into its structure. The room was in ruins, littered with broken containers, dishes, and unidentifiable trash. Skeletons lay scattered across the floor, including the massive bones of an ogre, testament to some past violence. The party investigated the adjacent storage rooms, finding only spoiled food and shattered crockery. As Zephyr approached the fireplace to examine it more closely, a large giant snake suddenly erupted from within, hissing with hunger and fury.
 
-The battle with the snake was swift but intense. Zephyr struck first with his short sword, wounding the creature as it lunged at him with venomous fangs but missed. Zinnia joined the fray, her attacks landing with devastating precision. Calmer invoked dark magic against the serpent, though it initially resisted his spell. Sequioa, despite some initial difficulty, managed to wound the creature further. The snake, desperate and hungry, continued its assault on Sequioa but failed to connect. Calmer's second invocation proved more effective, and finally Zinnia delivered a killing blow that left the snake lifeless on the kitchen floor. Searching the area, the party discovered a short sword and twenty gold pieces among the debris.
+The battle with the snake was swift but intense. Zephyr struck first with his short sword, wounding the creature as it lunged at him with venomous fangs but missed. Zinnia joined the fray, her attacks landing with devastating precision. Calmer invoked dark magic against the serpent, though it initially resisted his spell. Sequoia, despite some initial difficulty, managed to wound the creature further. The snake, desperate and hungry, continued its assault on Sequoia but failed to connect. Calmer's second invocation proved more effective, and finally Zinnia delivered a killing blow that left the snake lifeless on the kitchen floor. Searching the area, the party discovered a short sword and twenty gold pieces among the debris.
 
 Pressing onward, the party entered a vast hall that stretched over a hundred feet in length and thirty feet in width. The chamber told a story of past grandeur and recent violence. Broken tables, trestles, benches, and chairs lay scattered and heaped throughout the space, evidence of great revelries that had once been conducted in this evil place. Tattered tapestries and drapes still clung to the walls, and bones—both individual and complete skeletons—littered the floor beneath the broken furniture. It was clear that a major battle had been fought here, a skirmish in the greater war for control of the temple. Various weapons lay scattered throughout, remnants of that violent confrontation.
 
-Following a passageway to the south, Sequioa opened a door and immediately encountered several ghouls—mindless undead creatures with no allegiance to any temple, only to their insatiable hunger. Calmer confirmed what the party suspected: these creatures served no master but their own bellies. The ghouls attacked without hesitation, and the party responded in kind. Zinnia struck the first ghoul with brutal efficiency, while Sequioa killed one creature outright and wounded another. Zephyr, utilizing his assassin's training, dispatched two ghouls in rapid succession. One ghoul, sensing the tide turning against it, disengaged and fled into an adjacent chamber. The remaining ghouls pressed their attack, one charging Zephyr but missing, another striking Sequioa with claws and teeth, and a third lunging at Zinnia but failing to connect. Calmer invoked powerful magic, summoning spectral guardians that tore through the undead, and all three nearby ghouls succumbed to the divine assault.
+Following a passageway to the south, Sequoia opened a door and immediately encountered several ghouls—mindless undead creatures with no allegiance to any temple, only to their insatiable hunger. Calmer confirmed what the party suspected: these creatures served no master but their own bellies. The ghouls attacked without hesitation, and the party responded in kind. Zinnia struck the first ghoul with brutal efficiency, while Sequoia killed one creature outright and wounded another. Zephyr, utilizing his assassin's training, dispatched two ghouls in rapid succession. One ghoul, sensing the tide turning against it, disengaged and fled into an adjacent chamber. The remaining ghouls pressed their attack, one charging Zephyr but missing, another striking Sequoia with claws and teeth, and a third lunging at Zinnia but failing to connect. Calmer invoked powerful magic, summoning spectral guardians that tore through the undead, and all three nearby ghouls succumbed to the divine assault.
 
-The party pursued the fleeing ghoul into the adjacent chamber, but Zephyr's boldness led him into a trap. As he opened the door, seven more ghouls awaited within, their dead eyes gleaming with hunger. Zephyr charged forward, killing the wounded ghoul that had fled, but his aggressive positioning left him vulnerable. The ghouls swarmed him in a frenzy of claws and teeth, overwhelming his defenses and dragging him down into unconsciousness. More ghouls attacked Zinnia and Sequioa, tearing into them with savage fury, while another attempted to reach Calmer but failed to penetrate his defenses. Calmer's spectral guardians continued their work, devastating the ghouls that came within their reach. He then turned his attention to the fallen Zephyr, channeling healing magic that brought the rogue back from the brink of death.
+The party pursued the fleeing ghoul into the adjacent chamber, but Zephyr's boldness led him into a trap. As he opened the door, seven more ghouls awaited within, their dead eyes gleaming with hunger. Zephyr charged forward, killing the wounded ghoul that had fled, but his aggressive positioning left him vulnerable. The ghouls swarmed him in a frenzy of claws and teeth, overwhelming his defenses and dragging him down into unconsciousness. More ghouls attacked Zinnia and Sequoia, tearing into them with savage fury, while another attempted to reach Calmer but failed to penetrate his defenses. Calmer's spectral guardians continued their work, devastating the ghouls that came within their reach. He then turned his attention to the fallen Zephyr, channeling healing magic that brought the rogue back from the brink of death.
 
-The battle raged on with renewed intensity. Zinnia cut down multiple ghouls with her martial prowess, his attacks flowing from one target to the next with deadly efficiency. Sequioa struggled initially but eventually found his mark. Zephyr, revived and vengeful, struck down another ghoul with devastating force. The remaining ghouls fought desperately, one managing to wound Zephyr again before retreating from Calmer's spectral guardians, provoking a retaliatory strike. Another ghoul attacked Calmer directly, its claws and teeth finding purchase and breaking the cleric's concentration, causing his spectral guardians to dissipate. The loss of the powerful spell was a setback, but the party had already thinned the ghoul numbers significantly.
+The battle raged on with renewed intensity. Zinnia cut down multiple ghouls with her martial prowess, his attacks flowing from one target to the next with deadly efficiency. Sequoia struggled initially but eventually found his mark. Zephyr, revived and vengeful, struck down another ghoul with devastating force. The remaining ghouls fought desperately, one managing to wound Zephyr again before retreating from Calmer's spectral guardians, provoking a retaliatory strike. Another ghoul attacked Calmer directly, its claws and teeth finding purchase and breaking the cleric's concentration, causing his spectral guardians to dissipate. The loss of the powerful spell was a setback, but the party had already thinned the ghoul numbers significantly.
 
-Calmer, wounded but determined, channeled healing magic into himself, restoring his strength. Zinnia and Sequioa finished off the remaining ghouls in the chamber, their weapons finding their marks with lethal precision. As the last ghoul fell, Zinnia's keen senses detected the sound of more undead approaching from the north. The party, bloodied but unbowed, made a crucial decision. Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple, maintaining their cover while simultaneously clearing out the dungeon's threats.
+Calmer, wounded but determined, channeled healing magic into himself, restoring his strength. Zinnia and Sequoia finished off the remaining ghouls in the chamber, their weapons finding their marks with lethal precision. As the last ghoul fell, Zinnia's keen senses detected the sound of more undead approaching from the north. The party, bloodied but unbowed, made a crucial decision. Zephyr declared that they would continue fighting to conquer this territory for the greater glory of the Earth Temple, maintaining their cover while simultaneously clearing out the dungeon's threats.
 
-The next wave of ghouls met a prepared and determined party. Zinnia struck first, killing a ghoul before it could fully enter the fray. Sequioa followed suit, his attacks becoming more confident and deadly as he cut down multiple undead. The ghouls that managed to close with the party found their attacks largely ineffective. Zephyr's daggers flashed in the dim light, dropping ghouls with precise strikes. Calmer, having learned from the previous encounter, invoked his spectral guardians once more, the divine magic tearing through the undead ranks. Zinnia and Sequioa worked in concert, eliminating the remaining ghouls with ruthless efficiency until the chamber fell silent once more.
+The next wave of ghouls met a prepared and determined party. Zinnia struck first, killing a ghoul before it could fully enter the fray. Sequoia followed suit, his attacks becoming more confident and deadly as he cut down multiple undead. The ghouls that managed to close with the party found their attacks largely ineffective. Zephyr's daggers flashed in the dim light, dropping ghouls with precise strikes. Calmer, having learned from the previous encounter, invoked his spectral guardians once more, the divine magic tearing through the undead ranks. Zinnia and Sequoia worked in concert, eliminating the remaining ghouls with ruthless efficiency until the chamber fell silent once more.
 
 With the immediate threat neutralized, the party turned their attention to the two ghasts they had encountered earlier. Calmer suggested a tactical approach, pre-casting his spectral guardians before engaging the creatures. He opened the door to the ghast chamber, and the undead threatened the party, declaring they would be nothing but food. Calmer, emboldened by their recent victories over twenty ghouls, retorted that the last ghouls had said the same thing. He invoked his spectral guardians, and the divine magic immediately began tearing into the ghasts. One of the creatures emitted a poisonous stench that overcame Calmer, weakening him, but the party pressed their advantage.
 
-Zinnia entered the chamber and struck one of the ghasts, then tactically withdrew from the poisonous aura, though the movement provoked a retaliatory strike that wounded him. He resisted the creature's paralyzing touch through sheer fortitude. Sequioa charged the other ghast, his attacks finding their mark repeatedly until the creature fell. He then disengaged, avoiding the remaining ghast's stench. The surviving ghast attacked Calmer but missed, and Calmer's spectral guardians continued their relentless assault. Finally, Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.
+Zinnia entered the chamber and struck one of the ghasts, then tactically withdrew from the poisonous aura, though the movement provoked a retaliatory strike that wounded him. He resisted the creature's paralyzing touch through sheer fortitude. Sequoia charged the other ghast, his attacks finding their mark repeatedly until the creature fell. He then disengaged, avoiding the remaining ghast's stench. The surviving ghast attacked Calmer but missed, and Calmer's spectral guardians continued their relentless assault. Finally, Zephyr drew his pistol and fired, the shot echoing through the chamber as it struck the ghast and ended its unnatural existence.
 
 The battle was over. The party stood victorious amid the corpses of a giant snake, over twenty ghouls, and two ghasts. They had successfully cleared an entire section of the dungeon, claiming new territory for the Earth Temple—or so it would appear to any observers. The party knew they would need to negotiate with Romag to officially claim this territory, and they learned that simply holding ground was not enough. They would need to recruit monsters to populate and defend their new domain, a task that would likely require future missions. For now, though, they had established themselves as formidable agents within the temple, positioning themselves perfectly to continue their dangerous mission of espionage and sabotage from within the heart of the enemy stronghold.
 
@@ -2386,13 +2386,13 @@ Their exploration led them through a passageway to an old wine cellar, where the
 
 Moving on, they found an adjacent storage chamber that had long fallen into disuse. Sacks of moldering grain and barrels of rotting flour sat among heaps of broken containers and spilled contents in a jumbled mess. The party continued their systematic exploration, determined to map out every corner of Romag's domain.
 
-Their next discovery proved far more significant. They came upon a door secured with both a lock and a padlock holding a chain in place. Sequioa skillfully picked the lock, and the door swung open to reveal a filthy prison chamber. Inside, they found seven prisoners—two females and five males—all scantily clad, impoverished, and clearly suffering. The males were chained to the wall, and all of them looked terrified upon seeing the party's Earth Temple insignia.
+Their next discovery proved far more significant. They came upon a door secured with both a lock and a padlock holding a chain in place. Sequoia skillfully picked the lock, and the door swung open to reveal a filthy prison chamber. Inside, they found seven prisoners—two females and five males—all scantily clad, impoverished, and clearly suffering. The males were chained to the wall, and all of them looked terrified upon seeing the party's Earth Temple insignia.
 
 The prisoners explained their circumstances with trembling voices. Most were local merchants who had been captured by raiders, but one stood out—Jorin Pike Kale, a river sailor who had been imprisoned by Dick Rentsch's men as punishment for making a pass at a woman named Dalia. They revealed the grim truth that Romag used them either to feed his gnolls or as sacrifices to the Earth Temple. Among the captives were Master Aldous Glimmerfield and Mistress Lenora Glimmerfield, textile merchants from Divers, along with their household staff and four farm boys turned mercenaries—Kalen, Brask, Horgus, and Davine—who had surrendered almost immediately when captured.
 
 The party faced a difficult decision. They wanted to free the prisoners, but doing so would certainly anger Romag if he discovered their involvement. They devised a clever plan to frame the Fire Temple for the escape, using insignia and robes they had previously collected from Larith the Beautiful. However, they also had to contend with Dren's crew in the adjacent territory, who might hear the commotion. They decided to have Calmer stand guard at the door while the others freed the prisoners and scattered Fire Temple materials throughout the chamber.
 
-Sequioa unlocked the prisoners' chains while the others kept watch. Zephyr then explored further and discovered a stairway leading up to an escape route. The party guided the grateful prisoners to freedom, and Jorin Pike Kale thanked them profusely. In gratitude, he shared valuable information about Captain Tolubb's pirate ship schedule at the docks in Nulb—knowledge that could prove useful given that Tolubb had previously betrayed the party by directing them into a Fire Temple ambush. The Glimmerfields promised a reward of one hundred silver pieces for their rescue.
+Sequoia unlocked the prisoners' chains while the others kept watch. Zephyr then explored further and discovered a stairway leading up to an escape route. The party guided the grateful prisoners to freedom, and Jorin Pike Kale thanked them profusely. In gratitude, he shared valuable information about Captain Tolubb's pirate ship schedule at the docks in Nulb—knowledge that could prove useful given that Tolubb had previously betrayed the party by directing them into a Fire Temple ambush. The Glimmerfields promised a reward of one hundred silver pieces for their rescue.
 
 The party decided to continue exploring before reporting the prisoner escape to Romag, hoping to give the freed captives a significant head start. They discovered several empty armories filled with wooden racks, broken weapons, sundered shields, ruined mail, and scattered skeletons of both humans and gnolls. Cobwebs hung in the corners, suggesting these areas hadn't been visited frequently. In one armory, they found five magical arrows that still retained their enchantment. As they explored, they began to realize that Romag, for all his bluster and ambition, had left large chunks of the dungeon empty and unused—a sign of either poor management or insufficient resources.
 
@@ -2400,35 +2400,35 @@ Their exploration led them to a passageway that descended to the second level of
 
 Instead, they continued their systematic clearing of the current level and came upon a room that reeked of filth. The chamber was filled with trash, waste, and bones—its former purpose impossible to determine beneath the accumulated refuse. Zephyr attempted to convince Calmer to investigate the trash pile, arguing that the cleric had more health and could better withstand any dangers. Calmer, however, insisted they go together, pointing out that losing the party's healer would be far more catastrophic than Zephyr seemed to realize.
 
-As they approached the refuse pile, a massive tentacled creature suddenly emerged from the garbage. Zinnia and Sequioa immediately recognized it as an Otyugh, a disgusting aberration that fed on waste and carrion. This particular specimen had clearly been sustained by the garbage generated by Romag's crew, but it viewed the party as far more appetizing than its usual fare. The creature's telepathic voice echoed in their minds, muttering "fresh meat" and "rot, good, do eat" as it prepared to attack.
+As they approached the refuse pile, a massive tentacled creature suddenly emerged from the garbage. Zinnia and Sequoia immediately recognized it as an Otyugh, a disgusting aberration that fed on waste and carrion. This particular specimen had clearly been sustained by the garbage generated by Romag's crew, but it viewed the party as far more appetizing than its usual fare. The creature's telepathic voice echoed in their minds, muttering "fresh meat" and "rot, good, do eat" as it prepared to attack.
 
-The battle erupted with Zinnia striking first, landing solid blows against the creature's grotesque form. The Otyugh retaliated by lashing out with its tentacles, grappling both Zinnia and Zephyr in its powerful grip. It dragged Zinnia toward its gaping maw and bit down hard, injecting his with poison that sapped his strength and reduced his vitality. Sequioa unleashed a devastating series of attacks, his weapons finding purchase in the creature's flesh again and again.
+The battle erupted with Zinnia striking first, landing solid blows against the creature's grotesque form. The Otyugh retaliated by lashing out with its tentacles, grappling both Zinnia and Zephyr in its powerful grip. It dragged Zinnia toward its gaping maw and bit down hard, injecting his with poison that sapped his strength and reduced his vitality. Sequoia unleashed a devastating series of attacks, his weapons finding purchase in the creature's flesh again and again.
 
 Despite being poisoned and weakened, Zinnia managed to wrench himself free from the Otyugh's grasp and attempted to retreat to safety. However, the creature struck him one more time as she fled, and she collapsed unconscious. Zephyr, still grappled by the tentacles, continued to fight from his constrained position. Calmer, clearly annoyed by the situation and Zephyr's earlier insistence that the healer should go first, nevertheless performed his duty and channeled healing energy into Zinnia, bringing him back from the brink of death. He then strategically positioned himself away from immediate danger.
 
-The Otyugh, frustrated by its prey's resilience, slammed its tentacles against both Zephyr and Sequioa, stunning them both with the force of the impact. Zinnia, recovered but still suffering from the poison coursing through his veins, delivered a series of strikes that finally brought the massive creature down. As it died, Calmer remarked pointedly about the importance of the healer not being in the front lines and cut Zephyr free from the dead creature's tentacles.
+The Otyugh, frustrated by its prey's resilience, slammed its tentacles against both Zephyr and Sequoia, stunning them both with the force of the impact. Zinnia, recovered but still suffering from the poison coursing through his veins, delivered a series of strikes that finally brought the massive creature down. As it died, Calmer remarked pointedly about the importance of the healer not being in the front lines and cut Zephyr free from the dead creature's tentacles.
 
 Following Calmer's suggestion, they searched through the disgusting refuse for anything of value. Their efforts were rewarded with the discovery of one hundred eighty silver pieces, fifteen gold pieces, and a glass vial containing a potion of greater healing that had somehow survived intact inside the creature's body, though it was sticky and smelled terrible. More disturbing was their discovery of a rusted, bent breastplate bearing the symbol of the Fire Temple. The implication was clear and chilling—Romag sometimes fed his rivals to this creature, using it as a living disposal system for his enemies. The party realized that Romag might not be pleased to discover they had killed his pet monster.
 
 Undeterred, they pressed on with their exploration, entering a new chamber. As they stepped inside, they heard an ominous click, and a gate suddenly dropped behind them, sealing them in the room. Before they could react to this trap, they heard the sound of singing—beautiful, haunting, and utterly compelling. Harpies emerged from the shadows, their grotesque forms combining human-like features with the talons and wings of avian scavengers.
 
-The creatures' notorious song filled the chamber, its magical compulsion washing over the party. Sequioa, succumbs to the enchantment, his minds clouded by the harpies' charm. Zephyr realizes that this is the song of only one of the harpies. And that although immune to it's song, the other two could charm him and the rest of the party.  The party realized desperate situation they now faced—trapped in a sealed chamber under threat from the harpies' magical influence, that could compel them to follow the creatures heedless of any danger that might await their victims. 
+The creatures' notorious song filled the chamber, its magical compulsion washing over the party. Sequoia, succumbs to the enchantment, his minds clouded by the harpies' charm. Zephyr realizes that this is the song of only one of the harpies. And that although immune to it's song, the other two could charm him and the rest of the party.  The party realized desperate situation they now faced—trapped in a sealed chamber under threat from the harpies' magical influence, that could compel them to follow the creatures heedless of any danger that might await their victims. 
 
 # Chapter 22 Harpies, Ghouls, and Earth Temple Rules
 
 ## Summary
 
-The battle began with Zephyr launching attacks against a harpy that had charmed Sequioa, striking the creature multiple times before Zinnia joined the fray and delivered the killing blow that freed Sequioa from the enchantment. But the respite was brief, as two more harpies positioned themselves high in the rafters and began their haunting songs. The melodies washed over the party like a wave, and one by one they succumbed—Sequioa, Calmer, and Zephyr all fell under the charm, their eyes glazing over as the magic took hold. Only Zinnia remained free, her will strong enough to resist the supernatural compulsion.
+The battle began with Zephyr launching attacks against a harpy that had charmed Sequoia, striking the creature multiple times before Zinnia joined the fray and delivered the killing blow that freed Sequoia from the enchantment. But the respite was brief, as two more harpies positioned themselves high in the rafters and began their haunting songs. The melodies washed over the party like a wave, and one by one they succumbed—Sequoia, Calmer, and Zephyr all fell under the charm, their eyes glazing over as the magic took hold. Only Zinnia remained free, her will strong enough to resist the supernatural compulsion.
 
-With his companions entranced, Zinnia made the difficult decision to strike his own allies to break the enchantment. He attacked Zephyr first, his blow snapping him back to reality, then turned to Sequioa and finally Calmer, each strike accompanied by the hope that it would free them from the harpies' control. As the party regained their senses, three ghouls burst through the southern door, their rotting forms adding to the chaos of the battle. The undead creatures attacked with claws and teeth, one managing to paralyze Zephyr with its supernatural touch despite his initial resistance.
+With his companions entranced, Zinnia made the difficult decision to strike his own allies to break the enchantment. He attacked Zephyr first, his blow snapping him back to reality, then turned to Sequoia and finally Calmer, each strike accompanied by the hope that it would free them from the harpies' control. As the party regained their senses, three ghouls burst through the southern door, their rotting forms adding to the chaos of the battle. The undead creatures attacked with claws and teeth, one managing to paralyze Zephyr with its supernatural touch despite his initial resistance.
 
-The harpies swooped down from their perches to attack Calmer, but the cleric proved a difficult target. As one harpy attempted to flee, Calmer seized the opportunity and struck it with his mace of smiting, the weapon connecting with devastating force in a critical blow. Throughout the escalating battle, Calmer proved invaluable as a healer, channeling divine energy to restore his wounded companions. Sequioa fought with remarkable ferocity, cutting down ghouls with powerful strikes, while Zinnia moved through the battlefield with deadly precision.
+The harpies swooped down from their perches to attack Calmer, but the cleric proved a difficult target. As one harpy attempted to flee, Calmer seized the opportunity and struck it with his mace of smiting, the weapon connecting with devastating force in a critical blow. Throughout the escalating battle, Calmer proved invaluable as a healer, channeling divine energy to restore his wounded companions. Sequoia fought with remarkable ferocity, cutting down ghouls with powerful strikes, while Zinnia moved through the battlefield with deadly precision.
 
-The situation grew more dire when four additional ghouls emerged from the northern entrance, and the harpies' songs once again threatened to overwhelm the party's minds. Zinnia found herself beset by multiple ghouls, their claws raking across her as she stood her ground. One ghoul managed to paralyze Calmer with its touch, leaving the cleric temporarily helpless, but he shook off the effect through sheer determination. The party worked together to systematically eliminate their foes, with Sequioa delivering particularly devastating blows that left enemies crumpled on the ground.
+The situation grew more dire when four additional ghouls emerged from the northern entrance, and the harpies' songs once again threatened to overwhelm the party's minds. Zinnia found herself beset by multiple ghouls, their claws raking across her as she stood her ground. One ghoul managed to paralyze Calmer with its touch, leaving the cleric temporarily helpless, but he shook off the effect through sheer determination. The party worked together to systematically eliminate their foes, with Sequoia delivering particularly devastating blows that left enemies crumpled on the ground.
 
-As the battle neared its conclusion, only a single harpy remained, perched in the rafters and snarling defiantly at the party below. Zephyr fired his pistol into the air in an attempt to frighten it away, but the creature attacked in response before attempting to flee. Both Zephyr and Zinnia struck at the escaping harpy, and Calmer called upon divine flame to scorch it. Finally, Sequioa took aim with a ranged weapon and brought the creature down from the rafters, ending the threat once and for all.
+As the battle neared its conclusion, only a single harpy remained, perched in the rafters and snarling defiantly at the party below. Zephyr fired his pistol into the air in an attempt to frighten it away, but the creature attacked in response before attempting to flee. Both Zephyr and Zinnia struck at the escaping harpy, and Calmer called upon divine flame to scorch it. Finally, Sequoia took aim with a ranged weapon and brought the creature down from the rafters, ending the threat once and for all.
 
-With the battle won, the party explored the rooms that had served as the harpies' lair. The first chamber reeked of death and decay, bones scattered across the floor and old cloth marking where the creatures had nested. Among the refuse, they discovered valuable elven chain mail hanging from the wall, though they decided to save it for later sale since Calmer already wore superior armor. In another abandoned room, they found a broken chest that Sequioa carefully examined before opening. Zephyr tried to get Calmer to open it, and the Cleric said no. Then he pushed Sequoia to open the chest, and the rogue agreed. Inside lay a modest treasure of gold, platinum, silver, and copper coins, which Sequioa distributed among the party—though he cleverly pocketed a slightly larger share for himself, Calmer and Zinnia, without Zephyr noticing.
+With the battle won, the party explored the rooms that had served as the harpies' lair. The first chamber reeked of death and decay, bones scattered across the floor and old cloth marking where the creatures had nested. Among the refuse, they discovered valuable elven chain mail hanging from the wall, though they decided to save it for later sale since Calmer already wore superior armor. In another abandoned room, they found a broken chest that Sequoia carefully examined before opening. Zephyr tried to get Calmer to open it, and the Cleric said no. Then he pushed Sequoia to open the chest, and the rogue agreed. Inside lay a modest treasure of gold, platinum, silver, and copper coins, which Sequoia distributed among the party—though he cleverly pocketed a slightly larger share for himself, Calmer and Zinnia, without Zephyr noticing.
 
 Their exploration led them to an antechamber with plastered walls covered in obscene paintings and the remnants of once-fine furnishings. When they opened the next door, they encountered two ghasts who immediately challenged their presence, claiming the territory as their own. The undead creatures boasted of seizing the area from previous occupants, one even crunching on a human bone to emphasize their dominance. When threatened with violence, the ghasts proposed negotiation instead, and the party seized the opportunity to claim they worked for the Earth Temple.
 
@@ -2442,19 +2442,19 @@ The conversation took a significant turn when the party expressed their desire f
 
 **The entire party except Zinnia becomes charmed by singing harpies, forcing Zinnia to attack his own allies to break the enchantment.**
 
-*Two harpies sang from thirty-four feet in the air, charming Sequioa, Calmer, and Zephyr while Zinnia remained free*
+*Two harpies sang from thirty-four feet in the air, charming Sequoia, Calmer, and Zephyr while Zinnia remained free*
 
 **Calmer lands a critical hit with his mace of smiting against a fleeing harpy, dealing ten points of damage.**
 
 *Using his reaction as the harpy attempted to fly away after attacking him*
 
-**Sequioa delivers a devastating blow to a harpy, dealing twenty-four points of damage and killing it instantly.**
+**Sequoia delivers a devastating blow to a harpy, dealing twenty-four points of damage and killing it instantly.**
 
 *Four points off from his theoretical maximum damage, taking care of business*
 
-**Sequioa successfully pockets extra treasure from the chest without Zephyr noticing, keeping a larger share for himself, Calmer, and Zinnia.**
+**Sequoia successfully pockets extra treasure from the chest without Zephyr noticing, keeping a larger share for himself, Calmer, and Zinnia.**
 
-*After finding treasure in a broken chest, Sequioa rolled a twenty-six on stealth while Zephyr failed his insight check*
+*After finding treasure in a broken chest, Sequoia rolled a twenty-six on stealth while Zephyr failed his insight check*
 
 "Hail the Earth Temple\!" — Ghast
 
@@ -2466,12 +2466,12 @@ The conversation took a significant turn when the party expressed their desire f
 
 #### The party engages in a chaotic battle against harpies who charm several party members, followed by ghouls emerging from a southern door.
 
-- Zephyr attacks a harpy that had charmed Sequioa, dealing nine damage with the first attack and eight damage with the second.  
-- Zinnia attacks the same harpy and kills it with eighteen points of damage, freeing Sequioa from the charm.  
+- Zephyr attacks a harpy that had charmed Sequoia, dealing nine damage with the first attack and eight damage with the second.  
+- Zinnia attacks the same harpy and kills it with eighteen points of damage, freeing Sequoia from the charm.  
 - Two harpies positioned thirty-four feet up in the air begin singing, attempting to charm the entire party.  
-- Sequioa, Calmer, and Zephyr all fail their saving throws and become charmed, while Zinnia successfully resists with a roll of eighteen.  
+- Sequoia, Calmer, and Zephyr all fail their saving throws and become charmed, while Zinnia successfully resists with a roll of eighteen.  
 - Zinnia attacks Zephyr to break the charm, dealing six damage and allowing him to reroll his saving throw, which he passes with a twenty.  
-- Zinnia attacks Sequioa, dealing eleven points of damage, allowing him to reroll and break free from the charm with a nineteen.  
+- Zinnia attacks Sequoia, dealing eleven points of damage, allowing him to reroll and break free from the charm with a nineteen.  
 - Zinnia attacks Calmer, dealing twelve points of damage to break his charm.  
 - Three ghouls enter the combat from the southern door.  
 - Zephyr attempts to attack a ghoul with his pistol but misses.  
@@ -2479,8 +2479,8 @@ The conversation took a significant turn when the party expressed their desire f
 - A second ghoul attacks Zephyr with another claw, hitting and paralyzing him after he fails his constitution save.  
 - The harpies swoop down to attack Calmer but miss, and one flies away.  
 - Calmer uses his reaction to strike the fleeing harpy with his mace of smiting, dealing nine points of damage.  
-- Calmer heals Sequioa for nineteen hit points.  
-- Sequioa attacks a ghoul, dealing twenty-one points of damage and killing it, then misses his second attack.  
+- Calmer heals Sequoia for nineteen hit points.  
+- Sequoia attacks a ghoul, dealing twenty-one points of damage and killing it, then misses his second attack.  
 - Zinnia attacks a ghoul, hitting and dealing twelve points of damage, but it survives with thirteen hit points remaining.
 
 ### Paralysis and Reinforcements
@@ -2488,14 +2488,14 @@ The conversation took a significant turn when the party expressed their desire f
 #### Zephyr struggles with paralysis while the party battles waves of ghouls and harpies, with Calmer providing crucial healing.
 
 - Zephyr fails his constitution saving throw and remains paralyzed.  
-- A second ghoul rushes into combat and attacks Sequioa with a claw but misses.  
+- A second ghoul rushes into combat and attacks Sequoia with a claw but misses.  
 - Another ghoul bites the paralyzed Zephyr, hitting and dealing seven points of damage, three of which is necrotic.  
 - The harpies swoop down to attack Calmer; one misses and flies away.  
 - Calmer uses his reaction to strike the fleeing harpy with his mace, rolling a critical hit and dealing ten points of damage.  
 - Another harpy attacks Calmer, hitting and dealing four points of damage.  
 - Calmer heals Zephyr for twenty-three hit points.  
-- Sequioa attacks a ghoul, hitting and dealing fourteen points of damage, killing it.  
-- Sequioa attacks another ghoul, hitting and dealing fifteen points of damage.  
+- Sequoia attacks a ghoul, hitting and dealing fourteen points of damage, killing it.  
+- Sequoia attacks another ghoul, hitting and dealing fifteen points of damage.  
 - Four more ghouls enter from the north, opening the door and joining the combat.
 
 ### Turning the Tide
@@ -2509,17 +2509,17 @@ The conversation took a significant turn when the party expressed their desire f
 - A ghoul charges at Calmer and attacks with a claw but misses.  
 - Another ghoul attacks Calmer, hitting and dealing five points of damage, and Calmer fails his constitution save and becomes paralyzed.  
 - A harpy flies down and attacks Zephyr, hitting and dealing four points of damage.  
-- Sequioa takes an attack of opportunity against a fleeing harpy, dealing six points of damage.  
+- Sequoia takes an attack of opportunity against a fleeing harpy, dealing six points of damage.  
 - Another harpy attacks the paralyzed Zephyr but misses completely.  
 - Calmer makes his saving throw and is no longer paralyzed.
 
 ### Final Confrontation
 
-#### The party systematically eliminates the remaining harpies and ghouls, with Sequioa delivering devastating blows.
+#### The party systematically eliminates the remaining harpies and ghouls, with Sequoia delivering devastating blows.
 
-- Sequioa attacks a harpy, hitting and dealing twenty-four points of damage, killing it instantly.  
-- Sequioa attacks another ghoul, hitting and dealing five points of damage.  
-- Sequioa attacks again, hitting and dealing ten points of damage, killing the ghoul.  
+- Sequoia attacks a harpy, hitting and dealing twenty-four points of damage, killing it instantly.  
+- Sequoia attacks another ghoul, hitting and dealing five points of damage.  
+- Sequoia attacks again, hitting and dealing ten points of damage, killing the ghoul.  
 - Zinnia attacks a ghoul, hitting and dealing ten points of damage, killing it.  
 - Zephyr is no longer paralyzed and attacks a ghoul with sneak attack, dealing seven damage plus additional dice damage, reducing it to three hit points.  
 - Zephyr makes a third attack, hitting and dealing seven damage, killing the ghoul.  
@@ -2528,17 +2528,17 @@ The conversation took a significant turn when the party expressed their desire f
 - A harpy attacks Zephyr and misses, then attempts to fly away.  
 - Zephyr uses his reaction to attack the fleeing harpy with his dagger, dealing six points of damage.  
 - Calmer uses Sacred Flame on a ghoul, dealing nine points of damage.  
-- Sequioa attacks a harpy, hitting and dealing nineteen points of damage, killing it.  
-- Sequioa attacks another creature, hitting twice and dealing twelve points of damage total.  
+- Sequoia attacks a harpy, hitting and dealing nineteen points of damage, killing it.  
+- Sequoia attacks another creature, hitting twice and dealing twelve points of damage total.  
 - Zinnia attacks a ghoul, hitting and dealing seventeen points of damage.  
 - The last harpy snarls at the party from the rafters, refusing to engage.  
 - Zephyr shoots his pistol into the air to scare the harpy, which snarls back.  
 - Zephyr attacks the harpy, dealing six points of damage.  
 - The harpy attacks Zephyr and misses, then attempts to fly away.  
 - Zinnia takes an attack of opportunity, dealing eleven points of damage.  
-- Sequioa takes an attack of opportunity, dealing six points of damage, reducing the harpy to four hit points.  
+- Sequoia takes an attack of opportunity, dealing six points of damage, reducing the harpy to four hit points.  
 - Calmer uses Sacred Flame on the harpy, dealing five points of damage.  
-- Sequioa uses a ranged weapon to attack the harpy in the rafters, dealing ten points of damage and killing it.
+- Sequoia uses a ranged weapon to attack the harpy in the rafters, dealing ten points of damage and killing it.
 
 ### Exploring the Harpy's Lair
 
@@ -2550,12 +2550,12 @@ The conversation took a significant turn when the party expressed their desire f
 - The party discusses the properties of the elven chain mail, which provides a bonus to armor class and allows the wearer to be considered trained with it.  
 - The party decides to keep the elven chain mail in their inventory for potential sale, as Calmer already has superior armor.  
 - The party proceeds to another abandoned room littered with rags and bones, containing a broken chest in the northwest corner.  
-- Calmer refuses to check the chest, stating he is not a rogue, and instructs Sequioa to open it.  
-- Sequioa checks the chest for traps with a roll of twenty-eight and finds none.  
-- Sequioa opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six.  
-- Zephyr fails to notice Sequioa's deception with his insight check.  
+- Calmer refuses to check the chest, stating he is not a rogue, and instructs Sequoia to open it.  
+- Sequoia checks the chest for traps with a roll of twenty-eight and finds none.  
+- Sequoia opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six.  
+- Zephyr fails to notice Sequoia's deception with his insight check.  
 - The chest contains thirty-seven gold pieces, seven platinum pieces, ninety-two silver pieces, and one hundred eight copper pieces.  
-- Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.
+- Sequoia distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.
 
 ### Negotiating with the Ghasts
 
@@ -2598,7 +2598,7 @@ The conversation took a significant turn when the party expressed their desire f
 - Romag instructs Harch to prepare the prisoners for the ritual and expects the party to be active participants.  
 - Calmer looks at the other party members, feeling nauseous, and asks if they are really going to go through with this.  
 - Romag describes the ritual as an Earth Temple ceremony where they will rip the prisoners' bodies apart.  
-- Calmer expresses his discomfort to Zephyr, Sequioa, and Zinnia.  
+- Calmer expresses his discomfort to Zephyr, Sequoia, and Zinnia.  
 - Romag postpones the ceremony until tomorrow, instructing the party to rest.  
 - The DM reminds the party that they freed the prisoners earlier and asks if they made a contingency plan.  
 - The party confirms they planned to blame the Fire Temple for the missing prisoners.
@@ -2699,11 +2699,11 @@ Date: Mar 11th, 2026
 
 The party's attempt at a long rest was shattered in the dead of night when Zinnia's sharp senses caught the unmistakable sound of dragging chains and a haunting, animalistic chorus echoing from beyond their southern door — the guttural roar of a lion twisted together with the frantic, deranged bleating of a giant goat. He roused his companions just in time, for moments later the door exploded inward as a monstrous Chimera came crashing through, its three heads snarling with demonic fury. Behind it, a Fire Temple warlock gripped the beast's chain and bellowed a declaration of war, proclaiming that Alrrem, the all-consuming, had sent his champion to break their bones and leave nothing but meat for the earth. The creature was a horrifying amalgamation — the hindquarters of a great goat, the powerful forequarters of a lion, and the leathery wings of a dragon, each head driven by its own savage instinct to hunt, hoard, and destroy.
 
-The battle that followed was desperate and brutal. Sequioa charged the beast head-on but was quickly overwhelmed, battered into unconsciousness by the combined fury of the Chimera's attacks and the warlock's crackling magical blasts. Calmer called upon divine power to mend Sequioa's wounds and bring him back to his feet, even as the warlock continued to goad the beast forward. It was Zephyr who turned the tide, slipping past the rampaging monster and ripping the control chain clean from the warlock's hands, leaving the man screaming in terror at what he had unleashed. The Chimera, now free of its handler, thrashed wildly — its chain whipping through the air as the warlock scrambled desperately to reclaim it.
+The battle that followed was desperate and brutal. Sequoia charged the beast head-on but was quickly overwhelmed, battered into unconsciousness by the combined fury of the Chimera's attacks and the warlock's crackling magical blasts. Calmer called upon divine power to mend Sequoia's wounds and bring him back to his feet, even as the warlock continued to goad the beast forward. It was Zephyr who turned the tide, slipping past the rampaging monster and ripping the control chain clean from the warlock's hands, leaving the man screaming in terror at what he had unleashed. The Chimera, now free of its handler, thrashed wildly — its chain whipping through the air as the warlock scrambled desperately to reclaim it.
 
 With the beast unbound, chaos reigned. The Chimera unleashed a devastating breath of fire upon both the warlock and a nearby bugbear who had tried to intervene, scorching them badly. Zinnia darted in to deliver a series of precise strikes before retreating to safety, while Zephyr managed to snatch up the fallen chain once more in a bold attempt to dominate the creature. The warlock, badly burned and barely standing, screamed that they were all mad — but Zinnia silenced him permanently with a flurry of devastating blows, leaving the Fire Temple's champion dead on the stone floor. The Chimera, however, was far from finished, and it turned its full, unhinged fury upon those who remained.
 
-Zephyr bore the brunt of the beast's wrath, suffering a savage onslaught of bites and claws that left the rogue crumpled and unconscious. Calmer, muttering something about having only walking band-aids to offer, called upon his divine gifts once more to pull Zephyr back from the edge of death. Sequioa, having recovered and hidden himself behind a chest, loosed a precise shot that left the Chimera teetering on the very brink of collapse — but the enraged beast charged him before he could finish it, knocking him unconscious with a series of brutal strikes. It was Calmer who ended it, invoking the tolling resonance of necrotic power that rang out like a funeral bell, dropping the Chimera dead upon the cold stone floor.
+Zephyr bore the brunt of the beast's wrath, suffering a savage onslaught of bites and claws that left the rogue crumpled and unconscious. Calmer, muttering something about having only walking band-aids to offer, called upon his divine gifts once more to pull Zephyr back from the edge of death. Sequoia, having recovered and hidden himself behind a chest, loosed a precise shot that left the Chimera teetering on the very brink of collapse — but the enraged beast charged him before he could finish it, knocking him unconscious with a series of brutal strikes. It was Calmer who ended it, invoking the tolling resonance of necrotic power that rang out like a funeral bell, dropping the Chimera dead upon the cold stone floor.
 
 In the quiet aftermath, the party searched the warlock's charred remains and uncovered a trove of revealing items. A wax-sealed ledger bore the crest of a crimson ship — a bill of sale from Captain Varsik of the Crimson Trader, detailing the purchase of the Chimera paid in full by the Fire Temple. More damning still, the name Vesrek  appeared in the document — an ally of Belsornig, the prophet of the Water Temple — suggesting the Water Temple had orchestrated the whole affair as a calculated win-win, either eliminating the party or bankrupting the Fire Temple in the process. The warlock also carried a heavy gold amulet bearing the eight-pointed symbol of the Fire Temple, a potion of fire resistance he had never managed to reach for in the chaos, and a masterwork whip of alchemically treated red leather. The heavy iron collar and chains used to control the beast were stamped with the marks of Nulb's River Pirates, revealing that someone in Nulb had been paid to deliver the monster to the temple.
 
@@ -2734,8 +2734,8 @@ It was during this meeting that the party's ambitions crystallized into a bold a
 - Zinnia wakes the party after hearing the sound of dragging chains and animalistic roars outside their door.  
 - A Chimera, controlled by a warlock from the Fire Temple, smashes through the door to attack the party.  
 - The warlock commands the beast to tear the party apart as retribution for their actions against the Fire Temple.  
-- Sequioa rushes the Chimera but is quickly overwhelmed by the beast's ferocity and the warlock's magical blasts.  
-- Calmer uses divine magic to harm the Chimera and heal the fallen Sequioa.  
+- Sequoia rushes the Chimera but is quickly overwhelmed by the beast's ferocity and the warlock's magical blasts.  
+- Calmer uses divine magic to harm the Chimera and heal the fallen Sequoia.  
 - Zephyr maneuvers past the beast to confront the warlock directly, successfully ripping the control chain from his hands.  
 - The warlock is left terrified as he loses control of the monstrous Chimera.
 
@@ -2751,8 +2751,8 @@ It was during this meeting that the party's ambitions crystallized into a bold a
 - The Chimera focuses its fury on Zephyr, unleashing a flurry of bites and claw attacks that leave the rogue unconscious.  
 - Calmer uses divine magic to heal Zephyr, bringing him back into the fight.  
 - Zephyr attempts to use the chain to intimidate and dominate the beast, but the Chimera thwarts the effort.  
-- Sequioa hides behind a chest and launches a precise ranged attack, leaving the Chimera on the brink of death.  
-- The Chimera charges Sequioa, knocking the halfling unconscious with a series of brutal strikes.  
+- Sequoia hides behind a chest and launches a precise ranged attack, leaving the Chimera on the brink of death.  
+- The Chimera charges Sequoia, knocking the halfling unconscious with a series of brutal strikes.  
 - Calmer invokes necrotic power, finally slaying the Chimera as it stands over the fallen party members.
 
 ### Aftermath and Looting
@@ -2869,11 +2869,11 @@ A high-quality whip woven with alchemically treated red leather, found among the
 
 ### Eldritch Blast
 
-Beams of crackling energy fired by the Fire Temple warlock at Sequioa, dealing significant damage early in the fight.
+Beams of crackling energy fired by the Fire Temple warlock at Sequoia, dealing significant damage early in the fight.
 
 ### Healing Word
 
-A quick divine incantation used by Calmer on two separate occasions during the battle — first to restore Sequioa to consciousness, and later to bring Zephyr back from the brink of death.
+A quick divine incantation used by Calmer on two separate occasions during the battle — first to restore Sequoia to consciousness, and later to bring Zephyr back from the brink of death.
 
 ### Toll the Dead
 
@@ -2885,7 +2885,7 @@ Date: Mar 26th, 2026
 
 ## Summary
 
-The night had barely settled before the party found themselves deep in the aftermath of a brutal battle. A Fire Temple warlock had unleashed a monstrous Chimera upon them — a horrifying amalgamation of lion, goat, and dragon — proclaiming it the champion of Alrrem, the all-consuming. The beast had ravaged the party, battering Sequioa and Zephyr into unconsciousness before Calmer's divine gifts pulled them back from the brink of death. In the end, it was Calmer's necrotic resonance, ringing out like a funeral bell, that dropped the Chimera dead upon the cold stone floor.
+The night had barely settled before the party found themselves deep in the aftermath of a brutal battle. A Fire Temple warlock had unleashed a monstrous Chimera upon them — a horrifying amalgamation of lion, goat, and dragon — proclaiming it the champion of Alrrem, the all-consuming. The beast had ravaged the party, battering Sequoia and Zephyr into unconsciousness before Calmer's divine gifts pulled them back from the brink of death. In the end, it was Calmer's necrotic resonance, ringing out like a funeral bell, that dropped the Chimera dead upon the cold stone floor.
 
 In the quiet aftermath, the party searched the warlock's charred remains and uncovered a trove of damning evidence. A wax-sealed ledger bore the crest of a crimson ship — a bill of sale from Captain Vesrek of the Crimson Traitor — detailing the purchase of the Chimera by the Fire Temple. More revealing still, the name Belsornig appeared in the document, an ally of the Water Temple, suggesting that the Water Temple's prophet had orchestrated the entire affair as a calculated win-win: either eliminate the party or bankrupt the Fire Temple in the process. The warlock also carried a heavy gold amulet bearing the eight-pointed symbol of the Fire Temple, a potion of fire resistance he had never managed to reach for, a masterwork whip of alchemically treated red leather, and heavy iron chains stamped with the marks of Nulb's river pirates.
 
@@ -2895,9 +2895,9 @@ The party recognized the signal for what it was. Hartsch wanted Romag removed, a
 
 Rather than alerting Hartsch to their intentions, the party chose to execute a surgical coup without his foreknowledge, planning to present him with power as a fait accompli. They enlisted Dren, the leader of the Crimson Guard, to arrange a morning meeting with Romag, ensuring the high priest would be present and off-guard. Dren, visibly impressed by the party's victory over the Chimera, agreed without hesitation and returned with confirmation that Romag was looking forward to the meeting.
 
-The party slipped through a secret passage into the Earth Temple's inner sanctum, emerging into Romag's sleeping chamber — a room decorated with earthen motifs, its floor covered in dirt, a small altar in the corner and a desk scattered with personal notes. Sequioa crept behind a curtain separating the chamber from the adjoining room, where he could hear Romag lecturing Hartsch on the slow, erosive power of dust, while Hartsch barely concealed his disdain behind carefully chosen words of agreement. Sequioa also noticed, with some urgency, that the door to the south stood open — if Romag cried out, guards would come flooding in and the entire operation would unravel.
+The party slipped through a secret passage into the Earth Temple's inner sanctum, emerging into Romag's sleeping chamber — a room decorated with earthen motifs, its floor covered in dirt, a small altar in the corner and a desk scattered with personal notes. Sequoia crept behind a curtain separating the chamber from the adjoining room, where he could hear Romag lecturing Hartsch on the slow, erosive power of dust, while Hartsch barely concealed his disdain behind carefully chosen words of agreement. Sequoia also noticed, with some urgency, that the door to the south stood open — if Romag cried out, guards would come flooding in and the entire operation would unravel.
 
-The party moved swiftly. Zephyr invoked a subtle but powerful magic, causing the doors of Romag's chamber to slam shut with a resonant bang, sealing the room from the outside world. Hartsch, instantly understanding what was happening, placed his weapons on the ground and stepped aside. Romag turned, his face shifting from confusion to horror as Zinnia rushed him with a flurry of precise, devastating strikes, followed by Sequioa landing blow after blow on the stunned high priest. Calmer, nearly invoking the name of his holy patron before catching himself in the most spectacularly ill-timed moment imaginable, instead channeled a wave of necrotic power that caused Romag to wither and collapse dead upon the cold stone floor.
+The party moved swiftly. Zephyr invoked a subtle but powerful magic, causing the doors of Romag's chamber to slam shut with a resonant bang, sealing the room from the outside world. Hartsch, instantly understanding what was happening, placed his weapons on the ground and stepped aside. Romag turned, his face shifting from confusion to horror as Zinnia rushed him with a flurry of precise, devastating strikes, followed by Sequoia landing blow after blow on the stunned high priest. Calmer, nearly invoking the name of his holy patron before catching himself in the most spectacularly ill-timed moment imaginable, instead channeled a wave of necrotic power that caused Romag to wither and collapse dead upon the cold stone floor.
 
 Hartsch did not hesitate. He plunged his hands into Romag's body, covered them in blood, and marched into the main chamber of the Earth Temple, holding Romag's sacred vestments aloft. He declared himself Supreme Prophet, announcing that the era of passive resignation was over and that the destructive power of earth would now be unleashed upon their enemies. The gathered cultists erupted in cheers, and Hartsch introduced the party to his troops as the Obsidian Edge — his personal vanguard, the sharpest stone in the deep earth, cutting through fire and water from the shadows before anyone felt the quake.
 
@@ -2933,12 +2933,12 @@ Emerging onto the second level, the party found a chaotic battlefield flooded wi
 
 - Zinnia hears the sound of dragging chains and animalistic roars outside the party's door in the dead of night.  
 - A Fire Temple warlock unleashes a Chimera—a beast with the hindquarters of a goat, the forequarters of a lion, and the wings of a dragon—proclaiming it a champion of Alrrem sent to destroy the party.  
-- Sequioa charges the beast but is quickly knocked unconscious by its combined fury and the warlock's magical blasts.  
-- Calmer uses divine power to mend Sequioa's wounds and bring him back to his feet.  
+- Sequoia charges the beast but is quickly knocked unconscious by its combined fury and the warlock's magical blasts.  
+- Calmer uses divine power to mend Sequoia's wounds and bring him back to his feet.  
 - Zephyr slips past the rampaging monster and rips the control chain from the warlock's hands, causing the Chimera to turn its fire breath upon its former master and a nearby bugbear.  
 - Zinnia delivers a series of precise strikes to the warlock, eventually killing him.  
 - The Chimera savagely attacks Zephyr, leaving him unconscious before Calmer heals him.  
-- Sequioa nearly collapses the beast with a precise shot before being knocked out again by the enraged Chimera.  
+- Sequoia nearly collapses the beast with a precise shot before being knocked out again by the enraged Chimera.  
 - Calmer ends the battle by invoking a necrotic tolling resonance that drops the Chimera dead on the cold stone floor.
 
 ### Evidence and Alliances
@@ -2968,9 +2968,9 @@ Emerging onto the second level, the party found a chaotic battlefield flooded wi
 
 - The party navigates a secret hallway leading into the Earth Temple's inner sanctum, using magic to open the secret door silently.  
 - They enter a sleeping chamber decorated with earthen motifs, dirt-covered floors, a small local altar, and a desk with personal notes.  
-- Sequioa sneaks behind a curtain to eavesdrop on a conversation between Romag and Hartsch in the adjoining room.  
+- Sequoia sneaks behind a curtain to eavesdrop on a conversation between Romag and Hartsch in the adjoining room.  
 - Romag lectures Hartsch on the 'slow, erosive power of dust' while Hartsch barely conceals his disdain for the passive philosophy.  
-- Sequioa notices that the door to the south is open, which could allow guards to rush in, creating an urgent need to seal it before the assassination begins.  
+- Sequoia notices that the door to the south is open, which could allow guards to rush in, creating an urgent need to seal it before the assassination begins.  
 - The party coordinates a plan: Zephyr will use magic to slam the doors shut, isolating Romag and Hartsch from the guards, before the others rush in.
 
 ### The Assassination of Romag
@@ -2980,7 +2980,7 @@ Emerging onto the second level, the party found a chaotic battlefield flooded wi
 - Zephyr uses Thaumaturgy to slam the doors of Romag's chamber shut, isolating the high priest from his guards.  
 - Hartsch immediately recognizes what is happening, surrenders his weapons, and stands down.  
 - Romag, stunned and unable to call for help in time, is rushed by Zinnia, who delivers a series of devastating strikes.  
-- Sequioa joins the assault, landing precise blows against the stunned high priest.  
+- Sequoia joins the assault, landing precise blows against the stunned high priest.  
 - Calmer invokes a necrotic resonance like a tolling funeral bell, causing Romag to wither and die.  
 - Hartsch marks his hands with Romag's blood and marches into the main chamber, declaring himself Supreme Prophet and announcing a new era of destructive power.
 
@@ -3137,7 +3137,7 @@ A necrotic resonance that sounds like a tolling funeral bell, used by Calmer. It
 
 ### Guidance
 
-A divine blessing cast by Calmer to bolster the party's competence during their stealthy infiltration, granting a bonus to skill checks such as Sequioa's eavesdropping attempt.
+A divine blessing cast by Calmer to bolster the party's competence during their stealthy infiltration, granting a bonus to skill checks such as Sequoia's eavesdropping attempt.
 
 ### Thaumaturgy
 

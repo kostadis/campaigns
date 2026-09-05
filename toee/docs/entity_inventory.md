@@ -1,4 +1,4 @@
-<!-- GENERATED from docs/entity_registry.yaml — do not hand-edit. Regenerate with: registry.py project -->
+<!-- GENERATED from docs/entity_registry.yaml — do not hand-edit. Regenerate with: registry project -->
 
 ## Concepts
 
@@ -227,7 +227,7 @@
 - **Back-Talker** — one of the six lesser Swords of Answering, +2 enchanted broadsword
 - **Backbiter** — cursed spear +2 held by the fire giant statue in area 311
 - **Black plate mail +3** — Hedrack's armor donned during alerts
-- **Black scarab (TZGY)** / **Black scarab (TZOY)** — scarab inscribed TZGY carried by each human Temple leader to pacify the altar curtain
+- **Black scarab (TZGY)** — scarab inscribed TZGY carried by each human Temple leader to pacify the altar curtain
 - **Book of vile darkness** — magical tome on Hedrack's bookshelves he plans to study
 - **Boots of levitation** — magic item granting at-will levitate, added to Barkinar's gear
 - **Bracers of defense** — worn by Senshock and by Hedrack during normal operations
@@ -355,7 +355,7 @@
 - **Wand of Magic Missiles** — carried by Burne, 49 charges
 - **Wand of metal command** — one of the magic items in the altar-area chests, 21 charges
 - **wand of paralyzation** — 38-charge magic wand buried at the fourth excavation point in the Earth Temple (145)
-- **wand of wonder** / **Wand of a Wonder** — 50-charge wand found in a leather case in area 338
+- **wand of wonder** — 50-charge wand found in a leather case in area 338
 - **Weather Summoning** — spell on a scroll hidden in Jaroo Ashstaff's cottage
 - **web** — one of seven spells on the scroll found in Burne's iron coffer
 - **Window of the Planes of Weal** — deceptive magical one-way crystal mirror/lens, actually a lens of transformation planted by Iuz
@@ -732,11 +732,11 @@
 
 ## NPCs
 
-- **Belsornig** / **Canon Belsornig** / **Prophet of Water** / **Canon Belsoring** / **Belsoring** — priest named as a possible target of Kelno's poisoned dagger of venom, tied to area 215
-- **Calmert** / **calmer** — underpriest/assistant cleric who tends the church's bells, chimes, and gongs; hides a platinum lump in his chamber
+- **Belsornig** / **Canon Belsornig** / **Prophet of Water** / **Canon Belsoring** — priest named as a possible target of Kelno's poisoned dagger of venom, tied to area 215
+- **Calmer** / **Calmert** — underpriest/assistant cleric who tends the church's bells, chimes, and gongs; hides a platinum lump in his chamber. Calmert is his legal name; he goes by Calmer.
 - **Kelno** / **Kelno the Prefect** — embittered sole surviving cleric and prefect of the Air Temple, bargains for profit against his rivals
-- **Lareth the Beautiful** / **Larith The Beautiful** / **Larith** / **Lareth** — villain leader of the ruined moat-house, presumably defeated by prior adventurers
-- **Prefect Alrrem** / **Alrrem** / **Prophet of Fire** / **Alremm** — human chief cleric of the Fire Temple, writing an ultimatum to Romag
+- **Lareth the Beautiful** / **Larith** / **Lareth** — villain leader of the ruined moat-house, presumably defeated by prior adventurers
+- **Prefect Alrrem** / **Alrrem** / **Prophet of Fire** — human chief cleric of the Fire Temple, writing an ultimatum to Romag
 - **Terjon** / **Prefect Terjon** — chief priest who keeps the church's funds in a locked iron coffer under his bed
 - **Otis** / **Master Smith** — village smith posing as an ex-mercenary, secretly a Level 10 ranger knight serving Furyondy and Veluna
 - **Robilar** / **Lord Robilar** — adventurer from the original Greyhawk Campaign who assaulted the Temple alone via flying carpet, sacked much of it, and fled with Good forces in pursuit
@@ -751,12 +751,12 @@
 - **Sargen** — insane mage imprisoned and cast into the nodes over philosophical differences with the Temple; believes everyone a fiend
 - **Gremag** — tall thin partner of Rannos Davl, fussy, Level 7 Assassin and servant of the Temple of Elemental Evil
 - **Smigmal Redhand** / **Smigmal** / **Commander of the Outer Defenses** / **Lady Eryndel** / **Shadow of the Temple** — fighter-assassin wielding a poisoned shortsword, carries a ring of spell storing (invisibility)
-- **Dala** / **Dela** / **dalia** — barmaid at the Waterside Hostel, Level 3 Thief and Dick Rentsch's lover
+- **Dala** / **Dela** — barmaid at the Waterside Hostel, Level 3 Thief and Dick Rentsch's lover
 - **Pearl** — barmaid at the Waterside Hostel, Level 3 Thief
 - **Barkinar** / **Commander of Greater Temple Troops** / **Commander of the Greater Temple's Troops** / **The Grand Marshal** / **Commander Barkinar** — cleric/commander of the Temple Troops, rose through treacherous maneuvers, patient and scheming
 - **Deggum** / **Deggum, Commander of the Temple Guards** / **Deggum, Security Commander of the Temple** / **Deggum, Temple Recruiter** / **Master of Security** / **Security Commander** / **Commander Deggum** — half-elf renegade from Welkwood, commander of the Temple Guards, tutored by Hedrack and Senshock
 - **Jaroo Ashstaff** / **Jaroo** / **Druid of the Grove** — druid of the Grove, Level 7, agent of the Druids of Gnarley Wood, keeps a huge black bear companion
-- **Ostler Gundigoot** / **Gundigoot** / **Ostler Goodingoat** / **Ostler Goodingoot** / **Osler Goodingoat** / **Osler Goodingut** / **Ostler Goodingoot Osler Goodingut** / **Ostler** — proprietor/innkeeper of the Welcome Wench Inn
+- **Ostler Gundigoot** / **Gundigoot** / **Ostler Goodingoat** / **Osler Goodingoat** / **Osler Goodingut** / **Ostler Goodingoot Osler Goodingut** / **Ostler** — proprietor/innkeeper of the Welcome Wench Inn
 - **Otiluke** — legendary wizard invoked only as the namesake of freezing sphere; does not appear
 - **Rary** — legendary wizard invoked only as the namesake of mnemonic enhancer; does not appear
 - **Y'dey** / **Mother Screng** / **Canoness Y'dey** — individual, cross-referenced to the Nulb encounter key, who alone knows of the chief priest's hidden mantle cache
@@ -764,10 +764,10 @@
 - **Lieutenant Brunk** / **Brunk** — half-orc bandit lieutenant who covertly desires Feldrin's death and command
 - **Lodriss** — barmaid who is actually the owner of the Boatmens' Tavern and mistress to Tolub
 - **Wat** — barman at the Waterside Hostel, Level 3 Assassin serving the Temple's Fire priests
-- **Hartsch** / **Harch** / **Harch Hartsch** / **Earth Pretender** / **The Earth Pretender** — adept serving Romag, watches the peep hole and bars the south door
+- **Hartsch** / **Harch Hartsch** / **Earth Pretender** / **The Earth Pretender** — adept serving Romag, watches the peep hole and bars the south door
 - **Grank** — cleric who leads the seven surviving bandits by right of his healing/harming spells
 - **Juggernaut** — named unique construct/monster, Appendix B
-- **Zuggtmoy** / **Demoness Lady of Fungi** / **Zyggtmoy** / **Zyggmoy** — unique demon lord/fiend, ruler of a layer of the Abyss, currently bound beneath the Temple
+- **Zuggtmoy** / **Demoness Lady of Fungi** — unique demon lord/fiend, ruler of a layer of the Abyss, currently bound beneath the Temple
 - **Orcus** — demon prince rumored to be Iuz's father via cambion lineage
 - **Kella** — half-elf druid spy disguised as the hill giant Scorpp, reports to the Old Faith
 - **Romag** / **High Priest of the Black Earth Temple** / **High Priest of the Earth Temple** / **Prophet of Earth** / **Romag, Earth Temple Priest** — L4 curate and priest of the Earth Elemental Temple, wears chain mail +2, wields mace +1
@@ -783,7 +783,7 @@
 - **Rufus** — Lawful Good Level 6 Fighter, commander of the village troops, council member, will return to Verbobonc for special service at 8th level
 - **Falrinth** / **Keeper of the Orb of Golden Death** / **Master Wizard, Keeper of the Orb of Golden Death** / **Rival Wizard and Keeper of the Orb of Golden Death** / **Rogue Wizard** — mage with magic resistance and regeneration, travels with his quasit familiar
 - **Iggwilv** — Iuz's mother, believed lost in the Abyss, sought by him
-- **Rannos Davl** / **ranos_davl** — rotund trading-post proprietor, chaotic evil, Level 10 Thief and servant of the Temple of Elemental Evil
+- **Rannos Davl** / **Rannos** — rotund trading-post proprietor, chaotic evil, Level 10 Thief and servant of the Temple of Elemental Evil. Named by a captured cultist (Ch. 10.5) as an agent of a larger competing organisation and tied to the chest meant for Romag at the abandoned monastery near Gallows Corner; Thorne was hired through him. Recorded there as 'Ranus Duval' — a garbling, ruled same man by the GM 2026-08-23.
 - **Mytch** — the miller (area 22), member of the village elder's council
 - **Nira Melubb** / **Melubb** / **Melubb the Moneychanger** — truly neutral moneychanger and gem dealer, Level 3 Thief, keeps a trapped treasure chest
 - **Turuko** — small Bakluni monk partnered with Kobort
@@ -795,7 +795,7 @@
 - **Kriitch** / **Kriitch the Quasit** — quasit familiar bonded to Falrinth, grants him advantage on Intelligence checks within a mile
 - **Hedrack** / **Commander Hedrack** / **Mouth of Iuz** / **Agent of Iuz, the Elder Elemental Eye** / **Iuz's Emissary** / **Supreme Commander Hedrack** / **the Mouth of Iuz** / **Supreme Commander** — Supreme Commander of the Temple, based at area 417, whom Smigmal and Falrinth report to
 - **Skole** — proprietor of the Boatmens' Tavern, ex-riverman/smuggler and Level 5 Fighter swashbuckler
-- **Furnok of Ferd** — cheating gambler and self-styled 'treasure finder'
+- **Furnok of Ferd** / **Furnok** — cheating gambler and self-styled 'treasure finder'
 - **Oohlgrist** — cunning, wily troll chieftain courted by rival Fire and Water Temple factions
 - **Belstro** — named in a note found in area 128, suspected of lying about something checkable in the Augury Chamber
 - **Elmo** — farmer's son posing as a drunk man-at-arms; secretly a 4th-level ranger and agent of the Viscount of Verbobonc, carries a dagger +2 gift from his brother Otis
@@ -852,7 +852,7 @@
 - **Varek** / **Stablemaster Varek** — paid informant counting saddles and reporting cavalry movement
 - **Mavreks** — former baker for whom the now-abandoned Old Mavreks Bakery is named
 - **Dunstan** — owns the Boatwright, builds and repairs boats in Nulb
-- **Elvanna Thorne** — runs the Nulb Brothel, a Scarlet Brotherhood plant
+- **Elvanna Thorne** / **Elvanna** — runs the Nulb Brothel, a Scarlet Brotherhood plant
 - **Harlow** — owner of Harlow's Cottage, a residence in Nulb
 - **Edrick Malvaar** / **Constable Malvaar** — broken, corrupt Constable of Nulb kept pliant by Selentis
 - **Lord Eldris Krivaltis** — Nysera's father, executed in 569 CY for aiding the Temple
@@ -861,85 +861,80 @@
 - **Maldrith** — second-in-command of the Crimson Reapers, wants Nulb turned into a necropolis
 - **Felix Fahnor** — head of the Crimson Reaper hit squad, eliminates obstacles ruthlessly
 - **Sir Torvel Hawkes** / **Associate Sir Torvel Hawkes** — Selentis's sworn protector, a scarred veteran of the Battle of Emridy Meadows
-- **Captain Dren Halveth** — leads the Broken Blades mercenary company, plays factions for contracts
+- **Captain Dren Halveth** / **Dren** — leads the Broken Blades mercenary company, plays factions for contracts
 - **Veyne** — owns Veyne's Mill, a grain-processing mill in Nulb
 - **Jereader Zomawyn** — spiritual head of the Gilded Shackle who sanctifies Nulb's slave trade
 - **Lorveth** / **The Broker** — coordinates slave auctions from an office above the Boatman's Tavern
 - **Krael Vortash** / **Captain Krael Vortash** / **Temple Guard Captain Krael Vortash** — Greater Temple captain placed by Smigmal Redhand to assist Selentis
 - **Thorne** / **Thorne Duke** / **Thorne The Duke** / **The Duke** / **Duke**
-- **Albreth** / **Albrith** / **Albrith Albreth**
+- **Albreth** / **Albrith Albreth**
 - **Tharok** / **Tharok Stevan Tharok Stonevein** / **Tharok Stevan** / **Tharok Stonevein** / **High Templar Tharok** / **High Templar Tharok Stevan**
-- **Brother Eldin** / **Brother Eldin Brother Eldrin** / **Brother Eldren** / **Brother Eldrin** / **Eldin** / **Eldrin** / **Eldren**
+- **Brother Eldin** / **Brother Eldin Brother Eldrin** / **Eldin** / **Eldrin** / **Eldren**
 - **Hestort Flintshine** / **Hestort Flintshine Tort** / **Tort** / **Hestort**
 - **Thalsor Of The Stone** / **Thalsor**
-- **Glennon Clee** / **Glannon** / **Glannon Clee** / **Glennon**
-- **Pasmarie Clee** / **Palsmarie Clee** / **Palsmarie** / **Pasmarie**
+- **Glennon Clee** / **Glannon** / **Glennon**
+- **Pasmarie Clee** / **Palsmarie** / **Pasmarie**
 - **Aunt Emma** / **Aunt Emma Green Hag** / **Aunt Emma the Green Hag** / **The Green Hag**
 - **Commander Joradin** / **Joradin**
 - **Lenora Glimmerfield** / **Mistress Lenora Glimmerfield** / **Mistress Lenora** / **Lenora**
 - **Aldous Glimmerfield** / **Master Aldous Glimmerfield** / **Master Aldous** / **Aldous**
-- **Quinna Poul** / **Quinna Pool** / **Quinna**
+- **Quinna Poul** / **Quinna**
 - **Spugnoir Balkof** / **Spugnoir** / **Spugnois** — low-level evoker lodging at the inn, plans to search the ruined moat house
 - **Serena Velkori** / **Serena**
 - **Glennddarc** / **Headgnome Glennddarc** / **Headgnome**
-- **airgid**
-- **captain_gnonsbim**
-- **captain_varsik**
-- **constable_eldrin_malavar**
-- **derrick**
-- **dren**
-- **dren_halveth**
+- **Airgid**
+- **Captain Gnonsbim**
+- **Captain Varsik**
+- **Constable Eldrin Malavar**
+- **Derrick**
 - **Eelrich Vane** / **Brother Vane** / **Brother Eelrich**
-- **elazar**
-- **elder_kenter**
-- **elfar_twell**
-- **elvanna**
-- **erin_darkmoon**
-- **eryk_velkori**
-- **faria**
-- **fire_temple_warlock**
-- **florian**
-- **furnok**
-- **garik**
-- **gonnathrad_kevanarial**
-- **grindin_well_read**
-- **gurdy**
-- **ingulf**
-- **iniri**
-- **jarran**
-- **jerry**
-- **jijohn**
-- **jira**
-- **jorin_pike_kale**
-- **keenleene**
-- **ketta**
-- **knarfallan**
-- **krell**
-- **lieutenant_krell**
-- **lord_denelu**
-- **maeris-dorn**
-- **magda**
-- **mahoon**
-- **marek**
-- **mari_clee**
-- **mickey**
-- **obsidian-edge-salamander**
-- **rannos**
-- **ranus_duval**
-- **rithelm_drake**
-- **robert_deakin**
-- **sequoia**
-- **sister_alina**
-- **snej**
-- **tala_velkori**
-- **the_crimson_reaper_unnamed_spokesperson**
-- **the_dryad**
-- **tilly_bizpebble_whistle**
-- **urot**
-- **varek-solain**
-- **verigo**
-- **vethra_velkori**
-- **voss**
-- **warda**
-- **zelt_the_rat**
-- **zephyr**
+- **Elazar**
+- **Elder Kenter**
+- **Elfar Twell**
+- **Erin Darkmoon**
+- **Eryk Velkori**
+- **Faria**
+- **Fire Temple Warlock (unnamed)**
+- **Florian**
+- **Garik**
+- **Gonnathrad Kevanarial**
+- **Grindin Well-Read**
+- **Gurdy**
+- **Ingulf**
+- **Iniri**
+- **Jarran**
+- **Jerry**
+- **Jijohn**
+- **Jira**
+- **Jorin Pike Kale**
+- **Keenleene**
+- **Ketta**
+- **Knarfallan**
+- **Krell**
+- **Lieutenant Krell**
+- **Lord Denelu**
+- **Maeris Dorn**
+- **Magda**
+- **Mahoon**
+- **Marek**
+- **Mari Clee**
+- **Mickey Tamen**
+- **Vurakhal** — bound salamander retainer of the Obsidian Edge, guarding the Fire Temple altar (area 212); surrendered as the last of three fire-pit salamanders after Alrrem's death stranded it on the Material Plane. Ignan name glosses as "ember-that-was-spared" — confirmed at table.
+- **Rithelm Drake**
+- **Robert Deakin**
+- **Sequoia** — player character (Obsidian Edge) — halfling rogue; config/party.yaml is authoritative for this spelling. The file docs/party/sequioa.md is simply named wrong.
+- **Sister Alina**
+- **Snej**
+- **Tala Velkori**
+- **The Crimson Reaper Spokesperson (Unnamed)**
+- **The Dryad (Unnamed)**
+- **Tilly Bizpebble Whistle**
+- **Urot**
+- **Varek Solain**
+- **Verigo**
+- **Vethra Velkori**
+- **Voss**
+- **Warda**
+- **Zelt the Rat**
+- **Zephyr** — player character (Obsidian Edge) — tiefling rogue; character sheet titles him Zephyr "King of Hell" Cross.
+- **Zinnia** — player character (Obsidian Edge) — elf monk, "the masked monk"; male, he/him per docs/party/zinnia.md. Extraction passes repeatedly degender him — check pronouns on every recap.

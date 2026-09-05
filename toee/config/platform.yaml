@@ -1,0 +1,7 @@
+runtime:
+  default_model: claude-fable-5
+  default_backend: claude-code
+  default_models:
+    anthropic: claude-fable-5
+  session_dir: /home/kroussos/toee/toee/summaries/20260823
+  default_batch: false

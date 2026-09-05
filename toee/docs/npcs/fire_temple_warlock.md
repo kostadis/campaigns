@@ -12,7 +12,7 @@
 
 ## History with the Party
 1. Burst through the southern door with the chimera chained, declaring Alrrem's intent to destroy the party.
-2. Used Eldritch Blast against Sequioa and maintained command of the chimera until Zephyr seized the control chain.
+2. Used Eldritch Blast against Sequoia and maintained command of the chimera until Zephyr seized the control chain.
 3. Lost control of the chimera; was caught alongside a bugbear ally in the creature's own breath attack, badly burning both.
 4. Barely standing and burned, screamed that the party were "all mad."
 5. Silenced permanently by Zinnia with a flurry of blows.

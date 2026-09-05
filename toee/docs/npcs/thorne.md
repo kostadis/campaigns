@@ -23,7 +23,7 @@ aliases:
 ## History with the Party
 
 **Moathouse Expeditions (Planting 18 onward)**
-Met the party outside the Inn of the Welcome Wench on Planting 18, accompanied them to the moathouse, and set up camp outside the drawbridge on both visits, refusing to enter. Kept spirits light — mocked Calmer's warm-up routine, offered to cook giant frog legs after the first frog encounter (earning a glare from Zinia). When the party emerged with rescued prisoners, he immediately volunteered to guard and care for them.
+Met the party outside the Inn of the Welcome Wench on Planting 18, accompanied them to the moathouse, and set up camp outside the drawbridge on both visits, refusing to enter. Kept spirits light — mocked Calmer's warm-up routine, offered to cook giant frog legs after the first frog encounter (earning a glare from Zinnia). When the party emerged with rescued prisoners, he immediately volunteered to guard and care for them.
 
 **Rannos Davl's Shop — Ambush & Interrogation**
 The party lured Thorne out from the shop's back area and overwhelmed him in a surprise attack. Zephyr landed multiple hits, Zinnia followed up, and Sequoia delivered the killing blow that knocked him unconscious. Under interrogation he:
@@ -54,7 +54,7 @@ Once retained, Thorne directed split-party cover ops — sent **Zinnia and Calme
 - **The Party (general):** Cautious working relationship built on mutual self-interest; on friendly terms
 - **Sequoia:** Delivered the blow that knocked him out — Thorne has shown no apparent grudge
 - **Calmer:** Target of Thorne's light mockery (the stretching incident)
-- **Zinia:** Recipient of a glare over the frog legs offer; minor friction
+- **Zinnia:** Recipient of a glare over the frog legs offer; minor friction
 
 ## Arc Score Events
 - No arc score events recorded in source notes.

@@ -1,0 +1,74 @@
+consistency_check:
+  timestamp: "2026-08-29T10:43:13-07:00"
+  campaign: "/home/kroussos/toee/toee"
+  document_checked: "summaries/20260823/gm-assist.md"
+  document_class: "first-pass recap"
+  report: "summaries/20260823/consistency_report_stage_0_gm_assist.md"
+  config: "/home/kroussos/toee/toee/summaries/20260823/consistency_config_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 16
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-23"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PCs" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases" }
+      - { path: notes/sessions/nobody-told-nulb.md, role: "session prep" }
+      - { path: notes/handouts/07_vurakhal_contract.md, role: "session handout and Vurakhal canon" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "session-specific adjudicated additions" }
+  notes: |
+    The campaign config resolved document paths relative to config/, so the run
+    used a temporary absolute-path config. The script's automatic canon lookup
+    did not find entity_registry.yaml beside that temporary config; the registry
+    was nevertheless supplied explicitly as context. Findings were adjudicated
+    against the speaker-labelled cleaned Zoom transcript, with the secondary VTT
+    used as corroboration.
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-29"
+    applied:
+      - { finding: 1, fix: "Corrected Sequioa to Sequoia throughout." }
+      - { finding: 2, fix: "Corrected Brother Elric Vane to Brother Eelrich Vane." }
+      - { finding: 3, fix: "Corrected Lucius Graham to Lucius Graeme." }
+      - { finding: 4, fix: "Corrected Vorokal to Vurakhal." }
+      - { finding: 5, fix: "Corrected Dren Helveth to Dren Halveth." }
+      - { finding: 6, fix: "Corrected Crimson Guard to Broken Blades." }
+      - { finding: 7, fix: "Relabeled the sentient-pool location as the Pool Chamber." }
+      - { finding: 14, fix: "Aligned the necromancer's threat with the note's actual wording." }
+      - { finding: 15, fix: "Recorded the transcript-confirmed Shield +1, not the registry's +2." }
+      - { finding: 16, fix: "Removed the unsupported claim that Sequoia holds Frostbrand; retained that it addressed him." }
+      - { finding: 11, fix: "Removed the unsupported chaotic evil alignment label from the Minotaur." }
+    partially_applied:
+      - finding: 13
+        fix: "Removed the invented phrase 'necrotic touch'; retained the GM's custom ghoul, bite paralysis, and stench mechanics."
+    rejected:
+      - finding: 8
+        ruling: "Preserve Calmer's grievance as character testimony."
+        rationale: "The speaker-labelled transcript records Calmer saying Terjon was willing to let him remain dead and did nothing to save him."
+      - finding: 10
+        ruling: "Preserve that some black-cloaked bandits were undead."
+        rationale: "The GM explicitly confirms this at the end of the session transcript."
+      - finding: 12
+        ruling: "Preserve the sacrifice framing."
+        rationale: "The GM explicitly described bringing sacrifices for the Minotaur before Calmer proposed using the prisoners."
+    discussed:
+      - finding: 9
+        ruling: "Barkinar is the former leader of the Earth Temple, and the party knows this."
+        action: "Preserved the recap's table-established history; grounding-source correction remains outstanding."
+  vtt_adjudicated: |
+    The cleaned speaker-labelled Zoom transcript established that Calmer voiced
+    the church grievance, the GM called the creature a ghoul with stench and bite
+    paralysis, the GM confirmed some black-cloaked bandits were undead, the table
+    used sacrifice framing, the recovered item was a Shield +1, Frostbrand
+    addressed Sequoia, and Barkinar's former Earth Temple leadership was stated
+    twice as information the party understood.
+  carry_forward:
+    - status: CORRECTION
+      item: "Promote the GM ruling that Barkinar formerly led the Earth Temple and that the party knows this into the entity registry and relevant campaign-state grounding before the next consistency run."
+    - status: CORRECTION
+      item: "The selected prep's section 2c still places the intelligent acid pool under a Hall of Verdigris heading; reconcile it with the approved Pool Chamber naming before reusing that prep."

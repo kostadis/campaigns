@@ -1,0 +1,31 @@
+{
+  "title": "Stage 1 — Chapter 33 Enhanced Summary Rulings",
+  "reviewId": "staged-consistency:20260823:stage-1:focused",
+  "outputName": "staged_consistency_stage_1_decisions_focused.json",
+  "eyebrow": "Temple of Elemental Evil / Chapter 33 / staged consistency",
+  "lede": "Three new judgments need rulings. Four mechanical corrections are already applied; five findings retain transcript-backed or previously approved rulings.",
+  "footer": "Applied without asking: 4 mechanical finding corrections in <code>session-summary.md</code>—Zinnia’s pronouns, the false 44-HP maximum, Dren’s captain title, and the unsupported exclusive shield-use claim.",
+  "items": [
+    {
+      "id": "s1-03",
+      "t": "Change the remaining prisoner count from three to four to match the grounding documents?",
+      "y": "Change both references in <code>session-summary.md</code> from three prisoners to four. This matches <code>world_state.md</code> and <code>party.md</code> but contradicts the GM’s explicit count during this session.",
+      "n": "Leave <code>session-summary.md</code> at three prisoners, preserving the GM’s session ruling; the four-prisoner entries in the grounding documents will remain stale and require correction.",
+      "ev": "The GM says three remain at <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:2157</code> and clarifies that one was freed and the other three remain at <code>:2189</code>. Grounding says four at <code>docs/world_state.md:69</code> and <code>docs/party.md:11</code>. The recap references are <code>session-summary.md:12</code> and <code>:73</code>."
+    },
+    {
+      "id": "s1-09",
+      "t": "Remove Calmer’s Ring of Evasion because it is absent from the party inventory?",
+      "y": "Remove the Ring of Evasion references from the combat scene, Calmer NPC entry, and Items section of <code>session-summary.md</code>. This matches the current party inventory but discards an item the GM explicitly said Calmer had during combat.",
+      "n": "Leave <code>session-summary.md</code> unchanged and preserve the table-established Ring of Evasion; the party inventory will remain incomplete and require an upstream addition.",
+      "ev": "The GM explicitly says Calmer has a Ring of Evasion at <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:2913</code>. The party inventory instead lists a Ring of Free Action at <code>docs/party.md:20</code>. Affected recap references are <code>session-summary.md:91</code>, <code>:155</code>, and <code>:179</code>."
+    },
+    {
+      "id": "s1-10",
+      "t": "Replace the table’s “fanatically lawful good” description of St. Cuthbert with a setting-neutral lawful characterization?",
+      "y": "Change the parenthetical in <code>session-summary.md</code> to describe St. Cuthbert as a strongly lawful deity of discipline and retribution. This aligns better with standard Greyhawk lore but no longer reproduces the GM’s table explanation.",
+      "n": "Leave <code>session-summary.md</code> unchanged, preserving the GM’s explicit table characterization even though it differs from common published alignment descriptions.",
+      "ev": "The GM uses the exact ‘fanatically lawful good’ description at <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:1673</code>. The recap repeats it at <code>session-summary.md:55</code>."
+    }
+  ]
+}

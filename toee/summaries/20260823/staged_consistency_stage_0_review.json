@@ -1,0 +1,31 @@
+{
+  "title": "Stage 0 — Chapter 33 GM Assist Rulings",
+  "reviewId": "staged-consistency:20260823:stage-0",
+  "outputName": "staged_consistency_stage_0_decisions.json",
+  "eyebrow": "Temple of Elemental Evil / Chapter 33 / staged consistency",
+  "lede": "Three judgment calls remain after transcript adjudication. Ten mechanical finding corrections are already applied; three audit findings were rejected by explicit table evidence.",
+  "footer": "Applied without asking: 10 mechanical finding corrections in <code>gm-assist.md</code> (names, faction, attack wording, note wording, Shield +1, and Frostbrand attribution). No other stage artifacts exist.",
+  "items": [
+    {
+      "id": "s0-07",
+      "t": "Relabel the prior sentient-pool escape from the Hall of Verdigris to the Pool Chamber?",
+      "y": "Change the affected summary, scene, and location references in <code>gm-assist.md</code> to Pool Chamber. This matches the entity registry but departs from the GM's spoken session opener.",
+      "n": "Leave <code>gm-assist.md</code> unchanged. This preserves the table's wording but retains a conflict with the registry's distinct Hall of Verdigris and Pool Chamber locations.",
+      "ev": "The GM calls the escape the Hall of Verdigris in <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:533</code>. The registry defines Hall of Verdigris at <code>docs/entity_registry.yaml:864</code> and Pool Chamber at <code>docs/entity_registry.yaml:873</code>. The selected prep also places the acid-pool beat under a Hall of Verdigris heading at <code>notes/sessions/nobody-told-nulb.md:198</code>."
+    },
+    {
+      "id": "s0-09",
+      "t": "Rewrite the Barkinar/Earth Temple deduction to match the older grounding documents instead of the GM's explicit table ruling?",
+      "y": "Rewrite the deduction in the summary, scene, Barkinar, and Necromancer sections of <code>gm-assist.md</code> so Barkinar is not identified as the former Earth Temple leader. This matches the current registry but removes history the GM stated at the table.",
+      "n": "Leave <code>gm-assist.md</code> unchanged and carry forward that the grounding sources may be stale. The recap will preserve the table ruling that Barkinar formerly led the Earth Temple and Romag filled his post.",
+      "ev": "The GM explicitly states this history in <code>GMT20260823-150221_Recording.transcript (1).cleaned.vtt:3533</code> and again at <code>:3573</code>. The audit instead relies on the registry's present-day Barkinar role and its separate Landers entry. If the table statement establishes new canon, choose Reject or Discuss and request source promotion."
+    },
+    {
+      "id": "s0-11",
+      "t": "Remove the Minotaur's unsupported “chaotic evil” alignment label?",
+      "y": "Delete “chaotic evil” from the Minotaur entry in <code>gm-assist.md</code>. The recap will describe only behavior established in play.",
+      "n": "Leave <code>gm-assist.md</code> unchanged and retain chaotic evil as the assumed mechanical alignment, even though the custom creature's alignment was not established in the prep or transcript.",
+      "ev": "The prep says the room does not map cleanly to canon and nothing constrains the creature at <code>notes/sessions/nobody-told-nulb.md:101</code>; its exact nature remained an open decision at <code>:769</code>. The transcript establishes negotiation and recruitment, but no alignment."
+    }
+  ]
+}

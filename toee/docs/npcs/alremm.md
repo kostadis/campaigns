@@ -1,16 +1,16 @@
 ---
-name: Alremm
+name: Alrrem
 aliases:
-  - Alrrem
+  - Prefect Alrrem
 ---
 
-# Alremm
+# Alrrem
 
 ## Identity
 - **Role:** Prophet and head of the Fire Temple; major authority figure within the elemental evil hierarchy
 - **Faction:** Fire Temple
 - **First Appearance:** Referenced (not present) in Chapter 17 via Dick Rentsch's testimony; name invoked again in Chapter 18 by Krell during negotiation; further detail provided through Hartsch and Romag during inter-temple political discussions
-- *Also known as: Alrrem.*
+- *Also known as: Prefect Alrrem.*
 
 ## Personality & Motivations
 - A once-dominant warlord figure who led forces at the Battle of Emridy Meadows a decade ago; now struggling to maintain authority after a catastrophic defeat
@@ -20,12 +20,12 @@ aliases:
 - Demonstrated willingness to use extreme, aggressive measures when cornered — dispatching an assassin warlock and a chimera against the party — suggesting desperation rather than calculated strength
 
 ## History with the Party
-- **Pre-campaign:** Alremm was a major combatant in the Battle of Emridy Meadows (~10 years ago), suffering a defeat that has haunted his leadership since
-- **Chapter 17:** Dick Rentsch revealed that Alremm had hired werewolves to occupy a secret chamber as a test for new Fire Temple recruits
-- **Chapter 18:** Krell invoked Alremm's name during a negotiation attempt, contrasting the Fire Temple's ethos (power and glory) with the Earth Temple's disposable-follower doctrine
+- **Pre-campaign:** Alrrem was a major combatant in the Battle of Emridy Meadows (~10 years ago), suffering a defeat that has haunted his leadership since
+- **Chapter 17:** Dick Rentsch revealed that Alrrem had hired werewolves to occupy a secret chamber as a test for new Fire Temple recruits
+- **Chapter 18:** Krell invoked Alrrem's name during a negotiation attempt, contrasting the Fire Temple's ethos (power and glory) with the Earth Temple's disposable-follower doctrine
 - **Recent setbacks:** Suffered two significant losses — his werewolves and the financially devastating purchase of a chimera. Hartsch described him as "nearly broken" as a result
 - **Act of aggression:** Dispatched a Fire Temple warlock and the chimera to assassinate the party. Romag interpreted this as a declaration of war
-- **Romag's standing order:** In response, Romag directed the party to deal with Alremm directly, framing the current moment as an ideal opportunity given his weakened state
+- **Romag's standing order:** In response, Romag directed the party to deal with Alrrem directly, framing the current moment as an ideal opportunity given his weakened state
 
 ## Current Status
 - **Last Known Location:** Somewhere within the Fire Temple — has not been directly encountered
@@ -36,10 +36,10 @@ aliases:
 ## Relationships
 - **Fire Temple:** Significant authority figure; sets doctrine and recruitment practices
 - **Earth Temple:** Ideological opponent; Krell used this rivalry as a negotiating angle
-- **Hartsch:** Described Alremm as nearly broken; source of intelligence on his weakened state
-- **Romag (Earth Temple):** Views the assassination attempt as an act of war; has tasked the party with removing Alremm
-- **Dick Rentsch:** Aware of Alremm's directives (the werewolf test); likely subordinate or informed associate
-- **Krell:** Invoked Alremm's name as leverage, suggesting familiarity or at least awareness of Alremm's reputation
+- **Hartsch:** Described Alrrem as nearly broken; source of intelligence on his weakened state
+- **Romag (Earth Temple):** Views the assassination attempt as an act of war; has tasked the party with removing Alrrem
+- **Dick Rentsch:** Aware of Alrrem's directives (the werewolf test); likely subordinate or informed associate
+- **Krell:** Invoked Alrrem's name as leverage, suggesting familiarity or at least awareness of Alrrem's reputation
 - **The Party:** Marked them as assassination targets; they are now operating under orders to confront him
 
 ## Arc Score Events

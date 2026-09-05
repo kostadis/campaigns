@@ -1,0 +1,73 @@
+consistency_check:
+  timestamp: "2026-08-29T11:16:07-07:00"
+  campaign: "/home/kroussos/toee/toee"
+  document_checked: "summaries/20260823/gm-assist.md"
+  document_class: "first-pass recap"
+  report: "summaries/20260823/consistency_report_stage_0_gm_assist_focused.md"
+  config: "/home/kroussos/toee/toee/summaries/20260823/consistency_config_absolute.yaml"
+  backend: "codex-cli"
+  issues_found: 7
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-08-23"
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PCs" }
+      - { path: docs/entity_registry.yaml, role: "entity registry and aliases" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "session-specific adjudicated additions" }
+      - { path: notes/sessions/nobody-told-nulb.md, role: "exact session prep" }
+      - { path: notes/sessions/the-sleeping-prince.md, role: "next-arc session prep" }
+      - { path: notes/nulb_allies.md, role: "Nulb allies and identities" }
+      - { path: notes/nulb_network.md, role: "Nulb operational context" }
+      - { path: notes/falrinth_strategy.md, role: "Falrinth strategy and contact canon" }
+      - { path: notes/upper_temple_network.md, role: "upper-temple faction state" }
+      - { path: notes/phase3_endgame.md, role: "phase-three campaign plan" }
+      - { path: notes/tzgy_scarab_urgent.md, role: "scarab and Falrinth context" }
+  notes: |
+    The run used the existing absolute-path config because a prior audit had
+    established that paths in config/config.yaml resolve relative to config/.
+    The command reported 14 loaded context documents and completed successfully.
+    The command banner incorrectly said "No issues found"; the saved report body
+    contains seven numbered findings, which is the recorded issue count.
+
+    Findings 1-3 repeat matters already settled in the prior GM-reviewed Stage 0
+    manifest: the transcript establishes Barkinar's former Earth Temple role,
+    Shield +1, and that some black-cloaked attackers were undead. Those rulings
+    are carried forward and are not reopened in the focused review page.
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-08-29"
+    applied:
+      - { finding: 4, fix: "In gm-assist.md and session-summary.md, specified that the party arranged Calmer's resurrection and Zinnia surrendered the magical trident to Terjon as payment." }
+      - { finding: 5, fix: "In gm-assist.md and session-summary.md, narrowed Frostbrand's warning to the party becoming insufficiently discreet." }
+      - { finding: 6, fix: "In gm-assist.md and session-summary.md, made the necromancer's connection to the Barkinar-Romag transition, identity, and motives explicitly speculative." }
+      - { finding: 7, fix: "Removed the Golden Pearl Ring, Ring of Fire Resistance, and Magical Wood Totem item entries from gm-assist.md and session-summary.md." }
+    partially_applied: []
+    rejected:
+      - finding: 1
+        ruling: "Carry forward the prior GM ruling that Barkinar formerly led the Earth Temple."
+        rationale: "The GM states this twice in the speaker-labelled transcript."
+      - finding: 2
+        ruling: "Carry forward the prior GM ruling that the recovered shield is +1."
+        rationale: "The GM explicitly identifies it as a magical shield +1 in the transcript."
+      - finding: 3
+        ruling: "Carry forward the prior GM ruling that some black-cloaked attackers were undead."
+        rationale: "The GM explicitly confirms this at the end of the transcript."
+  vtt_adjudicated: |
+    The cleaned speaker-labelled Zoom transcript established Barkinar's former
+    Earth Temple role, the Shield +1 bonus, and the undead identity of some
+    black-cloaked attackers. The batch rulings favored the more specific
+    campaign-state attribution for Calmer's resurrection, narrowed Frostbrand's
+    commentary, made the necromancer theory explicitly tentative, and removed
+    three prior-session item entries.
+  carry_forward:
+    - status: CORRECTION
+      item: "Promote the GM ruling that Barkinar formerly led the Earth Temple and that the party knows this into the entity registry and relevant campaign-state grounding."
+    - status: CORRECTION
+      item: "Reconcile the entity registry's Cistern Chamber Shield +2 with the transcript-established Shield +1 before the next audit."
+    - status: NOTE
+      item: "The GM established that some of the Minotaur's black-cloaked attackers were undead; do not merge them with every living black-clad Greater Temple guard."

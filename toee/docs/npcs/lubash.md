@@ -11,7 +11,7 @@
 
 ## History with the Party
 - Announced himself by name, declared the party food, and attacked with his club
-- Dealt significant damage before being killed by Zinia, Zephyr, and Sequoia
+- Dealt significant damage before being killed by Zinnia, Zephyr, and Sequoia
 - His nest contained a **Cloak of Elvenkind**, origin unknown
 - Had consumed **four of six captured merchants**: Martin, Damien, Eltograph the Elf, and one unnamed prisoner
 

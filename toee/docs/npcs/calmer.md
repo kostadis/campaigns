@@ -22,13 +22,13 @@
 ## History with the Party
 
 **First Moathouse Excursion:**
-Insisted on leading. Fell into the moat with Sequoia when the drawbridge collapsed under the party's combined weight and four giant frogs. A frog nearly killed him. Zinia pulled him from the water and treated his wound.
+Insisted on leading. Fell into the moat with Sequoia when the drawbridge collapsed under the party's combined weight and four giant frogs. A frog nearly killed him. Zinnia pulled him from the water and treated his wound.
 
 **Second Moathouse Excursion:**
 Again insisted on leading. Green slime dripped from the arch at the base of the stairwell and destroyed his armor; he wept over the loss. Made a loud noise that alerted Lubash the ogre. Nearly died in the ensuing fight. Successfully turned zombies in the prison corridor, buying roughly one minute before more zombies broke through rotting cell doors. Helped free the prisoners, but his attempt to calm the terrified merchant Voss by lecturing him on Church doctrine required Sequoia to physically push him aside.
 
 **Post-Excursion:**
-Excluded from the stakeout operation due to noise and his compulsion to engage people. Sent to report to Terjon alone at Zinia's direction. At the subsequent council meeting, attempted to insist Terjon be included in future meetings and was shut down by Sequoia. Made a pun on his own name with evident satisfaction.
+Excluded from the stakeout operation due to noise and his compulsion to engage people. Sent to report to Terjon alone at Zinnia's direction. At the subsequent council meeting, attempted to insist Terjon be included in future meetings and was shut down by Sequoia. Made a pun on his own name with evident satisfaction.
 
 **Planting 19, 579 — Return to the Moathouse:**
 Rejoined the party at the campsite outside the Moathouse. Again turned zombies in the dungeon, enabling the party to kill them efficiently. Was sent into the pool room alone by Zephyr to retrieve treasure while a giant crayfish attacked him; Zephyr and Sequoia waited until the treasure was secured before intervening. Grew visibly drunk on mead at the Honey Haven Inn and objected strongly to Gurdy the bard joining the party.
@@ -45,7 +45,7 @@ Healed fallen party members during the chaotic initial assault. Killed by Thalso
 
 ## Relationships
 - **Terjon (Church of St. Cuthbert):** Direct superior; Calmer was loyal to a fault and actively tried to keep Terjon informed and included
-- **Zinia:** Saved his life during the first excursion; directed him to report to Terjon alone after the second
+- **Zinnia:** Saved his life during the first excursion; directed him to report to Terjon alone after the second
 - **Sequoia:** Repeatedly clashed over leadership and Church involvement; Sequoia physically pushed him aside during the Voss incident and shut him down at the council meeting
 - **Zephyr:** Used him as a disposable asset — most notably sending him alone into the pool room as crayfish bait
 - **Gurdy the Bard:** Opposed Gurdy's inclusion in the party
