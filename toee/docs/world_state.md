@@ -30,6 +30,8 @@ The party is publicly titled the Obsidian Edge by Hartsch of the Earth Temple. T
 - Magical plate mail (looted from Lareth; fits no party member — disposition unresolved)
 - Cloak of Elvenkind (Zinnia, from Lubash)
 - Magical dagger (Zinnia, from Lolth cultist tower)
+- Frostbrand (Sequoia) — sentient longsword, a Frost Brand; taken from the Fire Temple's
+  trapped offering box in Ch31, and it chose him after rejecting Zinnia and Calmer
 - Magical short sword (Sequoia, from werewolf lair)
 - Ring of Free Action (from Lareth)
 - Hat of Wizardry (from green hag; intended for Spugnoir — unresolved)
