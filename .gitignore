@@ -15,6 +15,9 @@
 # Per-campaign MCP config — contains literal ANTHROPIC_API_KEY
 .mcp.json
 
+# OpenAI Codex CLI MCP config — per-machine absolute paths, same role as .mcp.json
+.codex/
+
 # Per-machine campaign root paths (self-declared git-ignored)
 refs.local.yaml
 
