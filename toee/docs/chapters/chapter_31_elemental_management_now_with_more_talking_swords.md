@@ -133,7 +133,7 @@ It wanted out of the fire pit. "We're kind of on an undercover mission right now
 
 Then it saw the salamander.
 
-It started talking — to Vorkal, in whatever language salamanders curse in — and the whole thing turned. Old jailor, old prisoner. It demanded satisfaction. It had been the one trapped in the box, with Vorkal as its guard, the whole time. Zephyr talked it down. I helped — when they asked, I said "Yep," and put my weight behind the words, and the words landed.
+It started talking — to Vurakhal, in whatever language salamanders curse in — and the whole thing turned. Old jailor, old prisoner. It demanded satisfaction. It had been the one trapped in the box, with Vurakhal as its guard, the whole time. Zephyr talked it down. I helped — when they asked, I said "Yep," and put my weight behind the words, and the words landed.
 
 Then it caught Calmer. Named him for St. Cuthbert's, out loud, in a temple where that name is a death sentence. Calmer scrambled. The sword had to be talked into having a quieter kind of goodness. Zinnia gave it the vague version — deep undercover, sneaking around — and it loved the idea like it had invented it.
 
@@ -141,7 +141,7 @@ Then it caught Calmer. Named him for St. Cuthbert's, out loud, in a temple where
 
 Somebody had to possess the sword. They got around to me. "Sorry — what?" Take the sword, they said. "I will." Then, because it was already true: "Already holding it."
 
-It announced that the two of us would sneak around and kill creatures, that we would defeat the evil of the Temple of Elemental Evil and have our vengeance, on and on, the cold of it steady in my hand. Vorkal watched the whole speech and rolled his eyes, looking more bored than I would have thought a salamander could manage.
+It announced that the two of us would sneak around and kill creatures, that we would defeat the evil of the Temple of Elemental Evil and have our vengeance, on and on, the cold of it steady in my hand. Vurakhal watched the whole speech and rolled his eyes, looking more bored than I would have thought a salamander could manage.
 
 A good sword. For us. I kept that to myself.
 

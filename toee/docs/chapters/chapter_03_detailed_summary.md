@@ -2,7 +2,7 @@
 
 ### Date: Planting 15, 579 
 
-Zinia, always the master spy, decided that they needed information. The best way to get it was to talk to folks in a Tavern looking for someone to buy them a drink. 
+Zinnia, always the master spy, decided that they needed information. The best way to get it was to talk to folks in a Tavern looking for someone to buy them a drink. 
 
 Looking around, he noticed that these were all common folk, farmers, traders, and passers-by. 
 
@@ -10,7 +10,7 @@ It was midday, and these people had no business or chores.
 
 Precisely the kind of people who would be most interested in telling him what they knew. One talked about a Black Jay. He was a mysterious and forlorn herdsman in league with local bandits. This mysterious man would tip the bandits off. 
 
-Zinia thinks, “Ah, so these folks don’t know the relationship to the Temple. Good.” 
+Zinnia thinks, “Ah, so these folks don’t know the relationship to the Temple. Good.” 
 
 The following person, a stout woman of indeterminate middle age, mutters that Y’dey, the head cleric of the village, has mysteriously disappeared. The priest, Terjon, is awfully closed-mouthed about the situation. She best that he played no small role in her disappearance as he is in charge now.
 
@@ -20,7 +20,7 @@ Finally, the last one reveals his take on the local gendarmerie: “Burne and Ru
 
 Zinnia connects the dots and explains to his companions, “The locals see the threat of being assimilated by Verbobonc as bigger than the temple. It’s probably related to their allegiance to the god Beory and Verbobonc’s theocracy. Verbobonc is committed to St. Cuthbert, and that god is committed to proselytizing and eliminating through conversion anyone who doesn’t at least acknowledge the importance of St. Cuthbert.”  
 
-Zinia tells the group that the locals know nothing more of value. So, Zephyr leads the group to Jaroo, a local druid and follower of Beory. 
+Zinnia tells the group that the locals know nothing more of value. So, Zephyr leads the group to Jaroo, a local druid and follower of Beory. 
 
 The grove is a place of worship. The caretaker has neatly pruned the trees, and the grass is well-tended. A carefully placed line of bluish stones sets off the path to a rock cairn where flowers, nuts, berries, and leaf garlands are placed. A small path leads beyond the shrine to a low-roofed wooden building placed under the great boughs of the central oaks of the thicket.
 
@@ -49,7 +49,7 @@ He thinks some more and continues, “ The circles of outposts that you and your
 
 Jaroo then turns to them, “You must go and investigate the Moathouse. And when you have found what you are looking for, you must tell me and me alone. Do not tell anyone else because the agents of the Temple may even be here. As for Burne and Rufus, they may use whatever information they glean to restrict our freedoms.” 
 
-From there, Sequoia leads the group to Burne and Rufus. Burne and Rufus are the local leaders and representatives of Verbobonc tasked with building a castle. Sequoia is confused about the purpose of such a vast military castle in a place like Homlet. To the south is the Gnarley forest. Past the forest is the Wild Coast to the southeast and the Kingdom of Celene to the southwest. Neither are serious threats. The theory that Jaroo has is that it’s about putting Hommlet entirely under the thumb of the Archibishop of Verbobonc, and a way to extend his power looks pretty reasonable. 
+From there, Sequoia leads the group to Burne and Rufus. Burne and Rufus are the local leaders and representatives of Verbobonc tasked with building a castle. Sequoia is confused about the purpose of such a vast military castle in a place like Hommlet. To the south is the Gnarley forest. Past the forest is the Wild Coast to the southeast and the Kingdom of Celene to the southwest. Neither are serious threats. The theory that Jaroo has is that it’s about putting Hommlet entirely under the thumb of the Archibishop of Verbobonc, and a way to extend his power looks pretty reasonable. 
 
 As he reaches the edge of the village, he notices the tower, the only part that has been built. 
 
@@ -89,18 +89,18 @@ Rufus sighs, “I have a better plan than relying on your good graces. I am the 
 
 Sequoia smiles and nods. He has seen too many people with too many conflicting agendas, each trying to control the information flow and accomplish something slightly different. Once he has information, he will decide what to share. 
 
-### Zinia
+### Zinnia
 
 “We need to go get our cleric, Calmer.” 
 
-Zinia makes the long trek to the Temple of St. Cuthbert. A massive, imposing structure that is ridiculously too large for such a small village with so few souls. 
+Zinnia makes the long trek to the Temple of St. Cuthbert. A massive, imposing structure that is ridiculously too large for such a small village with so few souls. 
 
 Inside, he finds Calmer, who excitedly introduces him to Terjon.
 
-The high priest Terjon is happy to talk to Zinia alone, whom he recognizes as a recent convert. Zinia, for his part, does his best imitation of one. 
+The high priest Terjon is happy to talk to Zinnia alone, whom he recognizes as a recent convert. Zinnia, for his part, does his best imitation of one. 
 
 Terjon agrees with the idea that Calmer should join the group. But he does have one particular request that is so eerily familiar, 
 
 “Whatever information you get must be shared with me and me alone. The safety of the good people of Oerth may hang in the balance.”
 
-From there, Zinia heads to the Inn of the Welcome Wench, where he and his traveling companions secure reasonable accommodations for reasonable prices, except for Zephyr, who is a spendthrift and demands the best room.
+From there, Zinnia heads to the Inn of the Welcome Wench, where he and his traveling companions secure reasonable accommodations for reasonable prices, except for Zephyr, who is a spendthrift and demands the best room.

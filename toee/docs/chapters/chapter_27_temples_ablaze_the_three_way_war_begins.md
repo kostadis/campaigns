@@ -4,7 +4,7 @@ Date: Mar 26th, 2026
 
 ## Summary
 
-The night had barely settled before the party found themselves deep in the aftermath of a brutal battle. A Fire Temple warlock had unleashed a monstrous Chimera upon them — a horrifying amalgamation of lion, goat, and dragon — proclaiming it the champion of Alrrem, the all-consuming. The beast had ravaged the party, battering Sequioa and Zephyr into unconsciousness before Calmer's divine gifts pulled them back from the brink of death. In the end, it was Calmer's necrotic resonance, ringing out like a funeral bell, that dropped the Chimera dead upon the cold stone floor.
+The night had barely settled before the party found themselves deep in the aftermath of a brutal battle. A Fire Temple warlock had unleashed a monstrous Chimera upon them — a horrifying amalgamation of lion, goat, and dragon — proclaiming it the champion of Alrrem, the all-consuming. The beast had ravaged the party, battering Sequoia and Zephyr into unconsciousness before Calmer's divine gifts pulled them back from the brink of death. In the end, it was Calmer's necrotic resonance, ringing out like a funeral bell, that dropped the Chimera dead upon the cold stone floor.
 
 In the quiet aftermath, the party searched the warlock's charred remains and uncovered a trove of damning evidence. A wax-sealed ledger bore the crest of a crimson ship — a bill of sale from Captain Vesrek of the Crimson Traitor — detailing the purchase of the Chimera by the Fire Temple. More revealing still, the name Belsornig appeared in the document, an ally of the Water Temple, suggesting that the Water Temple's prophet had orchestrated the entire affair as a calculated win-win: either eliminate the party or bankrupt the Fire Temple in the process. The warlock also carried a heavy gold amulet bearing the eight-pointed symbol of the Fire Temple, a potion of fire resistance he had never managed to reach for, a masterwork whip of alchemically treated red leather, and heavy iron chains stamped with the marks of Nulb's river pirates.
 
@@ -12,11 +12,11 @@ The party brought their findings to Romag, the High Priest of the Earth Temple, 
 
 The party recognized the signal for what it was. Hartsch wanted Romag removed, and he wanted them to do it. A bold and dangerous plan crystallized: assassinate Romag, install Hartsch as the Earth Temple's new leader, and engineer a three-way war between the Earth, Fire, and Water Temples to destroy all three factions from within. They quietly agreed that the time for subtlety was nearly over — but not quite yet.
 
-Rather than alerting Hartsch to their intentions, the party chose to execute a surgical coup without his foreknowledge, planning to present him with power as a fait accompli. They enlisted Dren, the leader of the Crimson Guard, to arrange a morning meeting with Romag, ensuring the high priest would be present and off-guard. Dren, visibly impressed by the party's victory over the Chimera, agreed without hesitation and returned with confirmation that Romag was looking forward to the meeting.
+Rather than alerting Hartsch to their intentions, the party chose to execute a surgical coup without his foreknowledge, planning to present him with power as a fait accompli. They enlisted Dren, the leader of the Broken Blades, to arrange a morning meeting with Romag, ensuring the high priest would be present and off-guard. Dren, visibly impressed by the party's victory over the Chimera, agreed without hesitation and returned with confirmation that Romag was looking forward to the meeting.
 
-The party slipped through a secret passage into the Earth Temple's inner sanctum, emerging into Romag's sleeping chamber — a room decorated with earthen motifs, its floor covered in dirt, a small altar in the corner and a desk scattered with personal notes. Sequioa crept behind a curtain separating the chamber from the adjoining room, where he could hear Romag lecturing Hartsch on the slow, erosive power of dust, while Hartsch barely concealed his disdain behind carefully chosen words of agreement. Sequioa also noticed, with some urgency, that the door to the south stood open — if Romag cried out, guards would come flooding in and the entire operation would unravel.
+The party slipped through a secret passage into the Earth Temple's inner sanctum, emerging into Romag's sleeping chamber — a room decorated with earthen motifs, its floor covered in dirt, a small altar in the corner and a desk scattered with personal notes. Sequoia crept behind a curtain separating the chamber from the adjoining room, where he could hear Romag lecturing Hartsch on the slow, erosive power of dust, while Hartsch barely concealed his disdain behind carefully chosen words of agreement. Sequoia also noticed, with some urgency, that the door to the south stood open — if Romag cried out, guards would come flooding in and the entire operation would unravel.
 
-The party moved swiftly. Zephyr invoked a subtle but powerful magic, causing the doors of Romag's chamber to slam shut with a resonant bang, sealing the room from the outside world. Hartsch, instantly understanding what was happening, placed his weapons on the ground and stepped aside. Romag turned, his face shifting from confusion to horror as Zinnia rushed him with a flurry of precise, devastating strikes, followed by Sequioa landing blow after blow on the stunned high priest. Calmer, nearly invoking the name of his holy patron before catching himself in the most spectacularly ill-timed moment imaginable, instead channeled a wave of necrotic power that caused Romag to wither and collapse dead upon the cold stone floor.
+The party moved swiftly. Zephyr invoked a subtle but powerful magic, causing the doors of Romag's chamber to slam shut with a resonant bang, sealing the room from the outside world. Hartsch, instantly understanding what was happening, placed his weapons on the ground and stepped aside. Romag turned, his face shifting from confusion to horror as Zinnia rushed him with a flurry of precise, devastating strikes, followed by Sequoia landing blow after blow on the stunned high priest. Calmer, nearly invoking the name of his holy patron before catching himself in the most spectacularly ill-timed moment imaginable, instead channeled a wave of necrotic power that caused Romag to wither and collapse dead upon the cold stone floor.
 
 Hartsch did not hesitate. He plunged his hands into Romag's body, covered them in blood, and marched into the main chamber of the Earth Temple, holding Romag's sacred vestments aloft. He declared himself Supreme Prophet, announcing that the era of passive resignation was over and that the destructive power of earth would now be unleashed upon their enemies. The gathered cultists erupted in cheers, and Hartsch introduced the party to his troops as the Obsidian Edge — his personal vanguard, the sharpest stone in the deep earth, cutting through fire and water from the shadows before anyone felt the quake.
 
@@ -24,7 +24,7 @@ With Hartsch rallying his forces, the party slipped away to set the second part 
 
 The party vanished before the Fire Temple doors could open and made their way back to Hartsch, who was deep in ritual and speechifying, summoning earth elementals and whipping his cultists into a frenzy. They were welcomed back as heroes, publicly hailed as the Obsidian Edge before the assembled army. When the party informed Hartsch that the Fire Temple was now fully distracted by its assault on the Water Temple, Hartsch erupted with triumphant fury and ordered a full-scale charge. The war had begun.
 
-As Hartsch's forces surged forward, the party followed just long enough to maintain appearances before peeling away. They encountered Dren preparing his men for battle, and after a brief exchange, sent him and his Crimson Guard into the fray. But the advance quickly stalled — a lieutenant reported that Fire Temple bugbears had dragged heavy wooden pews and stone rubble across the stairway to the second level, creating a makeshift barricade that was bottlenecking the entire Earth Temple assault. Hartsch turned to the Obsidian Edge and asked them to do what his army could not.
+As Hartsch's forces surged forward, the party followed just long enough to maintain appearances before peeling away. They encountered Dren preparing his men for battle, and after a brief exchange, sent him and his Broken Blades into the fray. But the advance quickly stalled — a lieutenant reported that Fire Temple bugbears had dragged heavy wooden pews and stone rubble across the stairway to the second level, creating a makeshift barricade that was bottlenecking the entire Earth Temple assault. Hartsch turned to the Obsidian Edge and asked them to do what his army could not.
 
 The party chose to bypass the barricade entirely by cutting through the Air Temple, a section of the dungeon that was eerily, unsettlingly quiet. They knew a wraith haunted its halls, and sure enough, the spectral guardian began drifting toward them as they moved through the dim corridors. Rather than engage it, the party ran, and the wraith, seemingly satisfied once they had fled its domain, turned back into the darkness. Calmer, catching his breath, noted with grim amusement that the Air Temple's leader Kelno was so ignorant he apparently believed the wraith to be an air elemental — a fitting symbol of the faction's irrelevance.
 
@@ -52,12 +52,12 @@ Emerging onto the second level, the party found a chaotic battlefield flooded wi
 
 - Zinnia hears the sound of dragging chains and animalistic roars outside the party's door in the dead of night.  
 - A Fire Temple warlock unleashes a Chimera—a beast with the hindquarters of a goat, the forequarters of a lion, and the wings of a dragon—proclaiming it a champion of Alrrem sent to destroy the party.  
-- Sequioa charges the beast but is quickly knocked unconscious by its combined fury and the warlock's magical blasts.  
-- Calmer uses divine power to mend Sequioa's wounds and bring him back to his feet.  
+- Sequoia charges the beast but is quickly knocked unconscious by its combined fury and the warlock's magical blasts.  
+- Calmer uses divine power to mend Sequoia's wounds and bring him back to his feet.  
 - Zephyr slips past the rampaging monster and rips the control chain from the warlock's hands, causing the Chimera to turn its fire breath upon its former master and a nearby bugbear.  
 - Zinnia delivers a series of precise strikes to the warlock, eventually killing him.  
 - The Chimera savagely attacks Zephyr, leaving him unconscious before Calmer heals him.  
-- Sequioa nearly collapses the beast with a precise shot before being knocked out again by the enraged Chimera.  
+- Sequoia nearly collapses the beast with a precise shot before being knocked out again by the enraged Chimera.  
 - Calmer ends the battle by invoking a necrotic tolling resonance that drops the Chimera dead on the cold stone floor.
 
 ### Evidence and Alliances
@@ -78,7 +78,7 @@ Emerging onto the second level, the party found a chaotic battlefield flooded wi
 
 - The party decides to perform a surgical strike against Romag without informing Hartsch beforehand to maintain leverage.  
 - Zephyr reasons that killing the boss in a cultist hierarchy means the killer is assumed to be the new boss, so the party plans to immediately pledge loyalty to Hartsch afterward.  
-- The party enlists Dren, leader of the Crimson Guard, to set up a morning meeting with Romag to ensure the high priest is present and off-guard.  
+- The party enlists Dren, leader of the Broken Blades, to set up a morning meeting with Romag to ensure the high priest is present and off-guard.  
 - Dren, impressed by the party's victory over the Chimera, agrees to facilitate the meeting.
 
 ### Infiltration of the Earth Temple
@@ -87,9 +87,9 @@ Emerging onto the second level, the party found a chaotic battlefield flooded wi
 
 - The party navigates a secret hallway leading into the Earth Temple's inner sanctum, using magic to open the secret door silently.  
 - They enter a sleeping chamber decorated with earthen motifs, dirt-covered floors, a small local altar, and a desk with personal notes.  
-- Sequioa sneaks behind a curtain to eavesdrop on a conversation between Romag and Hartsch in the adjoining room.  
+- Sequoia sneaks behind a curtain to eavesdrop on a conversation between Romag and Hartsch in the adjoining room.  
 - Romag lectures Hartsch on the 'slow, erosive power of dust' while Hartsch barely conceals his disdain for the passive philosophy.  
-- Sequioa notices that the door to the south is open, which could allow guards to rush in, creating an urgent need to seal it before the assassination begins.  
+- Sequoia notices that the door to the south is open, which could allow guards to rush in, creating an urgent need to seal it before the assassination begins.  
 - The party coordinates a plan: Zephyr will use magic to slam the doors shut, isolating Romag and Hartsch from the guards, before the others rush in.
 
 ### The Assassination of Romag
@@ -99,7 +99,7 @@ Emerging onto the second level, the party found a chaotic battlefield flooded wi
 - Zephyr uses Thaumaturgy to slam the doors of Romag's chamber shut, isolating the high priest from his guards.  
 - Hartsch immediately recognizes what is happening, surrenders his weapons, and stands down.  
 - Romag, stunned and unable to call for help in time, is rushed by Zinnia, who delivers a series of devastating strikes.  
-- Sequioa joins the assault, landing precise blows against the stunned high priest.  
+- Sequoia joins the assault, landing precise blows against the stunned high priest.  
 - Calmer invokes a necrotic resonance like a tolling funeral bell, causing Romag to wither and die.  
 - Hartsch marks his hands with Romag's blood and marches into the main chamber, declaring himself Supreme Prophet and announcing a new era of destructive power.
 
@@ -182,7 +182,7 @@ The prophet of the Air Temple, whose faction is dismissed as a powerless remnant
 
 ### Dren
 
-Leader of the Crimson Guard faction and an ally to the party. He was enlisted to set up a morning meeting with Romag and later rallied his men to join the temple war after being promised plunder and blood.
+Leader of the Broken Blades faction and an ally to the party. He was enlisted to set up a morning meeting with Romag and later rallied his men to join the temple war after being promised plunder and blood.
 
 ### Calmer
 
@@ -256,7 +256,7 @@ A necrotic resonance that sounds like a tolling funeral bell, used by Calmer. It
 
 ### Guidance
 
-A divine blessing cast by Calmer to bolster the party's competence during their stealthy infiltration, granting a bonus to skill checks such as Sequioa's eavesdropping attempt.
+A divine blessing cast by Calmer to bolster the party's competence during their stealthy infiltration, granting a bonus to skill checks such as Sequoia's eavesdropping attempt.
 
 ### Thaumaturgy
 

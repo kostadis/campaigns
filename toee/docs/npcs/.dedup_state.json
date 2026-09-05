@@ -1,7 +1,7 @@
 {
   "backup_tarball": "/home/kroussos/campaigns/toee/docs/npcs.backup-20260416-095418.tar.gz",
   "started_at": "2026-04-16T09:54:18Z",
-  "updated_at": "2026-08-23T16:50:00",
+  "updated_at": "2026-09-05T06:30:00",
   "clusters_confirmed": [
     {
       "files": [
@@ -319,6 +319,16 @@
         "Ranus Duval"
       ],
       "note": "GM ruled 2026-08-23 these are one man. Supersedes the earlier 'Three different NPCs \u2014 keep all three' rejection. Rannos Davl is T1-4 module canon; 'the Duke' belongs to Thorne, not to this NPC."
+    },
+    {
+      "cluster": [
+        "dala.md",
+        "dalia.md"
+      ],
+      "action": "merged into dala.md",
+      "date": "2026-09-05",
+      "reason": "GM ruled during /staged-consistency (session 20260830) that Dala and Dalia are the same person and Dala is the canonical adventure character. Corroborated by entity_registry.yaml: Dala is 'barmaid at the Waterside Hostel, Level 3 Thief and Dick Rentsch's lover' - which links the two dossiers, since dalia.md recorded Jorin Pike Kale being imprisoned by Rentsch's men for pursuing her. 'Dalia' is a transcription garble, already a glossary wrong-form (Dalia -> Dala).",
+      "retired": "dalia.md"
     }
   ],
   "clusters_rejected": [

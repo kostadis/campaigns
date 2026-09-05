@@ -18,7 +18,7 @@ And now we are standing at the threshold of the lower levels of the moathouse. A
 
 I insist that I must lead. My experience and those innate attributes of wisdom and perception make me the right person to be in front. 
 
-Zephyr walks with me. Zinia and Sequoia are behind.
+Zephyr walks with me. Zinnia and Sequoia are behind.
 
 And it’s a good thing I was in front because I noticed, just in time, the blob of green slime hanging over the arch at the bottom of the stairwell. 
 
@@ -168,7 +168,7 @@ And then I hear the sound again.
 
 MORE ZOMBIES? 
 
-That’s when Zephyr shouts, or is it Zinia? Honestly, I can’t tell. 
+That’s when Zephyr shouts, or is it Zinnia? Honestly, I can’t tell. 
 
 “The other three doors also have zombies\!” 
 
@@ -210,7 +210,7 @@ He agrees and seems flattered.
 
 “Tomorrow then. We will meet at the Village Elder,” says Jaroo.
 
-### Zinia
+### Zinnia
 
 Calmer desperately wants to talk to the Cleric, so I tell him to go. He’s disappointed I won’t follow, but I can’t spend hours listening to Terjon's drone. 
 
@@ -234,7 +234,7 @@ He whispers conspiratorially, “And I am very pleased that you decided to go to
 
 ## Date: Planting 19, 579 
 
-### Zinia
+### Zinnia
 
 I come down for my breakfast, and there he is, Spugnoir.
 
@@ -283,13 +283,13 @@ I’ve seen the abyss. And let me assure you, the Abyss is not appreciably worse
 
 I was ready to demand that I be sucked into the endless blood war rather than have to listen for another minute of them talking. 
 
-So it was quite a relief when Sequoia and Zinia ran out. Calmer and I followed, but he was slightly disappointed when we told him we were taking Spugnoir with us. He had this look of a sad puppy. 
+So it was quite a relief when Sequoia and Zinnia ran out. Calmer and I followed, but he was slightly disappointed when we told him we were taking Spugnoir with us. He had this look of a sad puppy. 
 
 But Spugnoir, he was happy. And while we marched to Emiry Meadows, he became very talkative. 
 
 “There was a great battle here some years ago. I must tell you one of the most intriguing elements of that battle.”
 
-Zinia realizes that this guy likes to be flattered and says, “Yes?” 
+Zinnia realizes that this guy likes to be flattered and says, “Yes?” 
 
 “There are tales that the circle of eight appeared.”
 
@@ -309,7 +309,7 @@ Zinia realizes that this guy likes to be flattered and says, “Yes?”
 
 “I don’t know what and who. All I know are stories I have heard. But who knows, perhaps one day we will all discover.” 
 
-### Zinia
+### Zinnia
 
 The tower that the mage promised is more of a single building. It's not quite at the Battle of Emiry Meadows but near the battle of Emiry Meadows. 
 
@@ -369,7 +369,7 @@ I smile.
 
 A bit later, we arrived in Hommlet. Spugnoir is so excited. I am, too. His spell list was useless. Maybe we will keep him around. 
 
-Zinia asks, “So, do we rest another day or head out?”
+Zinnia asks, “So, do we rest another day or head out?”
 
 I want to find out who copied the map. A good place to start is the workers' encampment near the fortress. 
 
@@ -434,7 +434,7 @@ Hopefully, the mouse gets friendlier.
 
 ## Zephyr \- Evening, Planting 18, 579 
 
-Ouch, that strike by the bandit captain almost killed Zinia, He better get out of there. 
+Ouch, that strike by the bandit captain almost killed Zinnia, He better get out of there. 
 
 Thud. 
 
@@ -448,7 +448,7 @@ Sequoia shouts, “Don’t mess with me.”
 
 I smile. 
 
-This is going pretty good. Now Zinia is trying to kill the Captain by throwing a spear at him. 
+This is going pretty good. Now Zinnia is trying to kill the Captain by throwing a spear at him. 
 
 Honestly, killing the mooks is probably the better option, but if the Captain thinks its dangerous, he won’t get up close and personal and that will make killing the mooks easier. 
 
@@ -715,4 +715,4 @@ Zinnia observes Lareth to see if he believes them. Lareth does, “And why shoul
 
 “Very good. You, indeed, have proven your loyalty. And I will reward you. And yes, let’s secure the abbey.” The beautiful man who exudes evil turns to the Sergeant, “Go help them.” 
 
-But then Zinnia notices a peculiar gleam in Lareth’s eyes, and Lareth shouts, “No, wait. I have a better idea. Something that your obvious skills and talents are better suited to. A particular piece of art I am very fond of, a chest, was stolen. I would like it back. Some bandits, marauders pretending to be earth elemental cultists, poseurs. I don’t know where they are besides the Kron Hills near Sheernob. Bring me the chest, and the abbey will be yours.”
+But then Zinnia notices a peculiar gleam in Lareth’s eyes, and Lareth shouts, “No, wait. I have a better idea. Something that your obvious skills and talents are better suited to. A particular piece of art I am very fond of, a chest, was stolen. I would like it back. Some bandits, marauders pretending to be earth elemental cultists, poseurs. I don’t know where they are besides the Kron Hills near Sheernobb. Bring me the chest, and the abbey will be yours.”

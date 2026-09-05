@@ -2,17 +2,17 @@
 
 ## Summary
 
-The battle began with Zephyr launching attacks against a harpy that had charmed Sequioa, striking the creature multiple times before Zinnia joined the fray and delivered the killing blow that freed Sequioa from the enchantment. But the respite was brief, as two more harpies positioned themselves high in the rafters and began their haunting songs. The melodies washed over the party like a wave, and one by one they succumbed—Sequioa, Calmer, and Zephyr all fell under the charm, their eyes glazing over as the magic took hold. Only Zinnia remained free, her will strong enough to resist the supernatural compulsion.
+The battle began with Zephyr launching attacks against a harpy that had charmed Sequoia, striking the creature multiple times before Zinnia joined the fray and delivered the killing blow that freed Sequoia from the enchantment. But the respite was brief, as two more harpies positioned themselves high in the rafters and began their haunting songs. The melodies washed over the party like a wave, and one by one they succumbed—Sequoia, Calmer, and Zephyr all fell under the charm, their eyes glazing over as the magic took hold. Only Zinnia remained free, her will strong enough to resist the supernatural compulsion.
 
-With his companions entranced, Zinnia made the difficult decision to strike his own allies to break the enchantment. He attacked Zephyr first, his blow snapping him back to reality, then turned to Sequioa and finally Calmer, each strike accompanied by the hope that it would free them from the harpies' control. As the party regained their senses, three ghouls burst through the southern door, their rotting forms adding to the chaos of the battle. The undead creatures attacked with claws and teeth, one managing to paralyze Zephyr with its supernatural touch despite his initial resistance.
+With his companions entranced, Zinnia made the difficult decision to strike his own allies to break the enchantment. He attacked Zephyr first, his blow snapping him back to reality, then turned to Sequoia and finally Calmer, each strike accompanied by the hope that it would free them from the harpies' control. As the party regained their senses, three ghouls burst through the southern door, their rotting forms adding to the chaos of the battle. The undead creatures attacked with claws and teeth, one managing to paralyze Zephyr with its supernatural touch despite his initial resistance.
 
-The harpies swooped down from their perches to attack Calmer, but the cleric proved a difficult target. As one harpy attempted to flee, Calmer seized the opportunity and struck it with his mace of smiting, the weapon connecting with devastating force in a critical blow. Throughout the escalating battle, Calmer proved invaluable as a healer, channeling divine energy to restore his wounded companions. Sequioa fought with remarkable ferocity, cutting down ghouls with powerful strikes, while Zinnia moved through the battlefield with deadly precision.
+The harpies swooped down from their perches to attack Calmer, but the cleric proved a difficult target. As one harpy attempted to flee, Calmer seized the opportunity and struck it with his mace of smiting, the weapon connecting with devastating force in a critical blow. Throughout the escalating battle, Calmer proved invaluable as a healer, channeling divine energy to restore his wounded companions. Sequoia fought with remarkable ferocity, cutting down ghouls with powerful strikes, while Zinnia moved through the battlefield with deadly precision.
 
-The situation grew more dire when four additional ghouls emerged from the northern entrance, and the harpies' songs once again threatened to overwhelm the party's minds. Zinnia found herself beset by multiple ghouls, their claws raking across her as she stood her ground. One ghoul managed to paralyze Calmer with its touch, leaving the cleric temporarily helpless, but he shook off the effect through sheer determination. The party worked together to systematically eliminate their foes, with Sequioa delivering particularly devastating blows that left enemies crumpled on the ground.
+The situation grew more dire when four additional ghouls emerged from the northern entrance, and the harpies' songs once again threatened to overwhelm the party's minds. Zinnia found herself beset by multiple ghouls, their claws raking across her as she stood her ground. One ghoul managed to paralyze Calmer with its touch, leaving the cleric temporarily helpless, but he shook off the effect through sheer determination. The party worked together to systematically eliminate their foes, with Sequoia delivering particularly devastating blows that left enemies crumpled on the ground.
 
-As the battle neared its conclusion, only a single harpy remained, perched in the rafters and snarling defiantly at the party below. Zephyr fired his pistol into the air in an attempt to frighten it away, but the creature attacked in response before attempting to flee. Both Zephyr and Zinnia struck at the escaping harpy, and Calmer called upon divine flame to scorch it. Finally, Sequioa took aim with a ranged weapon and brought the creature down from the rafters, ending the threat once and for all.
+As the battle neared its conclusion, only a single harpy remained, perched in the rafters and snarling defiantly at the party below. Zephyr fired his pistol into the air in an attempt to frighten it away, but the creature attacked in response before attempting to flee. Both Zephyr and Zinnia struck at the escaping harpy, and Calmer called upon divine flame to scorch it. Finally, Sequoia took aim with a ranged weapon and brought the creature down from the rafters, ending the threat once and for all.
 
-With the battle won, the party explored the rooms that had served as the harpies' lair. The first chamber reeked of death and decay, bones scattered across the floor and old cloth marking where the creatures had nested. Among the refuse, they discovered valuable elven chain mail hanging from the wall, though they decided to save it for later sale since Calmer already wore superior armor. In another abandoned room, they found a broken chest that Sequioa carefully examined before opening. Zephyr tried to get Calmer to open it, and the Cleric said no. Then he pushed Sequoia to open the chest, and the rogue agreed. Inside lay a modest treasure of gold, platinum, silver, and copper coins, which Sequioa distributed among the party—though he cleverly pocketed a slightly larger share for himself, Calmer and Zinnia, without Zephyr noticing.
+With the battle won, the party explored the rooms that had served as the harpies' lair. The first chamber reeked of death and decay, bones scattered across the floor and old cloth marking where the creatures had nested. Among the refuse, they discovered valuable elven chain mail hanging from the wall, though they decided to save it for later sale since Calmer already wore superior armor. In another abandoned room, they found a broken chest that Sequoia carefully examined before opening. Zephyr tried to get Calmer to open it, and the Cleric said no. Then he pushed Sequoia to open the chest, and the rogue agreed. Inside lay a modest treasure of gold, platinum, silver, and copper coins, which Sequoia distributed among the party—though he cleverly pocketed a slightly larger share for himself, Calmer and Zinnia, without Zephyr noticing.
 
 Their exploration led them to an antechamber with plastered walls covered in obscene paintings and the remnants of once-fine furnishings. When they opened the next door, they encountered two ghasts who immediately challenged their presence, claiming the territory as their own. The undead creatures boasted of seizing the area from previous occupants, one even crunching on a human bone to emphasize their dominance. When threatened with violence, the ghasts proposed negotiation instead, and the party seized the opportunity to claim they worked for the Earth Temple.
 
@@ -20,25 +20,25 @@ The ghasts' reaction was immediate and enthusiastic—they declared their allegi
 
 Romag sat in his office looking pleased as the party informed him of their territorial expansion and the defeat of the ghouls and harpies that had long refused to bow to his authority. He complained that ever since his predecessor had gone to work for the Deep Temple, the undead refused to work for him. The Earth Temple leader launched into a passionate speech about the power of the earth to crush all things to dust, praising the party for weakening the ghasts and bringing them under the temple's control. When the party asked about payment for their efforts, Romag explained that the arrangement worked differently than they expected—they were to bring treasure to the temple and pay him a portion, not receive payment themselves.
 
-The conversation took a significant turn when the party expressed their desire for more power, official titles, and higher ranks within the Earth Temple hierarchy. Romag considered this request and agreed, but stated that such advancement would require a demonstration of loyalty. He instructed his subordinate Harch to prepare a ceremony, and when Zephyr nervously told Calmer to be ready to die, the cleric pulled him aside to express his growing discomfort with the situation. Romag clarified that the party members were too valuable to sacrifice—instead, prisoners would be used for the ritual, which would involve ripping their bodies apart as an offering to the earthen god. The session ended with Romag postponing the ceremony until the following day, though the party knew that the prisoners they had previously freed would be discovered missing, potentially disrupting Romag's plans and forcing them to blame the Fire Temple for the disappearance.
+The conversation took a significant turn when the party expressed their desire for more power, official titles, and higher ranks within the Earth Temple hierarchy. Romag considered this request and agreed, but stated that such advancement would require a demonstration of loyalty. He instructed his subordinate Hartsch to prepare a ceremony, and when Zephyr nervously told Calmer to be ready to die, the cleric pulled him aside to express his growing discomfort with the situation. Romag clarified that the party members were too valuable to sacrifice—instead, prisoners would be used for the ritual, which would involve ripping their bodies apart as an offering to the earthen god. The session ended with Romag postponing the ceremony until the following day, though the party knew that the prisoners they had previously freed would be discovered missing, potentially disrupting Romag's plans and forcing them to blame the Fire Temple for the disappearance.
 
 ## Memorable Moments
 
 **The entire party except Zinnia becomes charmed by singing harpies, forcing Zinnia to attack his own allies to break the enchantment.**
 
-*Two harpies sang from thirty-four feet in the air, charming Sequioa, Calmer, and Zephyr while Zinnia remained free*
+*Two harpies sang from thirty-four feet in the air, charming Sequoia, Calmer, and Zephyr while Zinnia remained free*
 
 **Calmer lands a critical hit with his mace of smiting against a fleeing harpy, dealing ten points of damage.**
 
 *Using his reaction as the harpy attempted to fly away after attacking him*
 
-**Sequioa delivers a devastating blow to a harpy, dealing twenty-four points of damage and killing it instantly.**
+**Sequoia delivers a devastating blow to a harpy, dealing twenty-four points of damage and killing it instantly.**
 
 *Four points off from his theoretical maximum damage, taking care of business*
 
-**Sequioa successfully pockets extra treasure from the chest without Zephyr noticing, keeping a larger share for himself, Calmer, and Zinnia.**
+**Sequoia successfully pockets extra treasure from the chest without Zephyr noticing, keeping a larger share for himself, Calmer, and Zinnia.**
 
-*After finding treasure in a broken chest, Sequioa rolled a twenty-six on stealth while Zephyr failed his insight check*
+*After finding treasure in a broken chest, Sequoia rolled a twenty-six on stealth while Zephyr failed his insight check*
 
 "Hail the Earth Temple\!" — Ghast
 
@@ -50,12 +50,12 @@ The conversation took a significant turn when the party expressed their desire f
 
 #### The party engages in a chaotic battle against harpies who charm several party members, followed by ghouls emerging from a southern door.
 
-- Zephyr attacks a harpy that had charmed Sequioa, dealing nine damage with the first attack and eight damage with the second.  
-- Zinnia attacks the same harpy and kills it with eighteen points of damage, freeing Sequioa from the charm.  
+- Zephyr attacks a harpy that had charmed Sequoia, dealing nine damage with the first attack and eight damage with the second.  
+- Zinnia attacks the same harpy and kills it with eighteen points of damage, freeing Sequoia from the charm.  
 - Two harpies positioned thirty-four feet up in the air begin singing, attempting to charm the entire party.  
-- Sequioa, Calmer, and Zephyr all fail their saving throws and become charmed, while Zinnia successfully resists with a roll of eighteen.  
+- Sequoia, Calmer, and Zephyr all fail their saving throws and become charmed, while Zinnia successfully resists with a roll of eighteen.  
 - Zinnia attacks Zephyr to break the charm, dealing six damage and allowing him to reroll his saving throw, which he passes with a twenty.  
-- Zinnia attacks Sequioa, dealing eleven points of damage, allowing him to reroll and break free from the charm with a nineteen.  
+- Zinnia attacks Sequoia, dealing eleven points of damage, allowing him to reroll and break free from the charm with a nineteen.  
 - Zinnia attacks Calmer, dealing twelve points of damage to break his charm.  
 - Three ghouls enter the combat from the southern door.  
 - Zephyr attempts to attack a ghoul with his pistol but misses.  
@@ -63,8 +63,8 @@ The conversation took a significant turn when the party expressed their desire f
 - A second ghoul attacks Zephyr with another claw, hitting and paralyzing him after he fails his constitution save.  
 - The harpies swoop down to attack Calmer but miss, and one flies away.  
 - Calmer uses his reaction to strike the fleeing harpy with his mace of smiting, dealing nine points of damage.  
-- Calmer heals Sequioa for nineteen hit points.  
-- Sequioa attacks a ghoul, dealing twenty-one points of damage and killing it, then misses his second attack.  
+- Calmer heals Sequoia for nineteen hit points.  
+- Sequoia attacks a ghoul, dealing twenty-one points of damage and killing it, then misses his second attack.  
 - Zinnia attacks a ghoul, hitting and dealing twelve points of damage, but it survives with thirteen hit points remaining.
 
 ### Paralysis and Reinforcements
@@ -72,14 +72,14 @@ The conversation took a significant turn when the party expressed their desire f
 #### Zephyr struggles with paralysis while the party battles waves of ghouls and harpies, with Calmer providing crucial healing.
 
 - Zephyr fails his constitution saving throw and remains paralyzed.  
-- A second ghoul rushes into combat and attacks Sequioa with a claw but misses.  
+- A second ghoul rushes into combat and attacks Sequoia with a claw but misses.  
 - Another ghoul bites the paralyzed Zephyr, hitting and dealing seven points of damage, three of which is necrotic.  
 - The harpies swoop down to attack Calmer; one misses and flies away.  
 - Calmer uses his reaction to strike the fleeing harpy with his mace, rolling a critical hit and dealing ten points of damage.  
 - Another harpy attacks Calmer, hitting and dealing four points of damage.  
 - Calmer heals Zephyr for twenty-three hit points.  
-- Sequioa attacks a ghoul, hitting and dealing fourteen points of damage, killing it.  
-- Sequioa attacks another ghoul, hitting and dealing fifteen points of damage.  
+- Sequoia attacks a ghoul, hitting and dealing fourteen points of damage, killing it.  
+- Sequoia attacks another ghoul, hitting and dealing fifteen points of damage.  
 - Four more ghouls enter from the north, opening the door and joining the combat.
 
 ### Turning the Tide
@@ -93,17 +93,17 @@ The conversation took a significant turn when the party expressed their desire f
 - A ghoul charges at Calmer and attacks with a claw but misses.  
 - Another ghoul attacks Calmer, hitting and dealing five points of damage, and Calmer fails his constitution save and becomes paralyzed.  
 - A harpy flies down and attacks Zephyr, hitting and dealing four points of damage.  
-- Sequioa takes an attack of opportunity against a fleeing harpy, dealing six points of damage.  
+- Sequoia takes an attack of opportunity against a fleeing harpy, dealing six points of damage.  
 - Another harpy attacks the paralyzed Zephyr but misses completely.  
 - Calmer makes his saving throw and is no longer paralyzed.
 
 ### Final Confrontation
 
-#### The party systematically eliminates the remaining harpies and ghouls, with Sequioa delivering devastating blows.
+#### The party systematically eliminates the remaining harpies and ghouls, with Sequoia delivering devastating blows.
 
-- Sequioa attacks a harpy, hitting and dealing twenty-four points of damage, killing it instantly.  
-- Sequioa attacks another ghoul, hitting and dealing five points of damage.  
-- Sequioa attacks again, hitting and dealing ten points of damage, killing the ghoul.  
+- Sequoia attacks a harpy, hitting and dealing twenty-four points of damage, killing it instantly.  
+- Sequoia attacks another ghoul, hitting and dealing five points of damage.  
+- Sequoia attacks again, hitting and dealing ten points of damage, killing the ghoul.  
 - Zinnia attacks a ghoul, hitting and dealing ten points of damage, killing it.  
 - Zephyr is no longer paralyzed and attacks a ghoul with sneak attack, dealing seven damage plus additional dice damage, reducing it to three hit points.  
 - Zephyr makes a third attack, hitting and dealing seven damage, killing the ghoul.  
@@ -112,17 +112,17 @@ The conversation took a significant turn when the party expressed their desire f
 - A harpy attacks Zephyr and misses, then attempts to fly away.  
 - Zephyr uses his reaction to attack the fleeing harpy with his dagger, dealing six points of damage.  
 - Calmer uses Sacred Flame on a ghoul, dealing nine points of damage.  
-- Sequioa attacks a harpy, hitting and dealing nineteen points of damage, killing it.  
-- Sequioa attacks another creature, hitting twice and dealing twelve points of damage total.  
+- Sequoia attacks a harpy, hitting and dealing nineteen points of damage, killing it.  
+- Sequoia attacks another creature, hitting twice and dealing twelve points of damage total.  
 - Zinnia attacks a ghoul, hitting and dealing seventeen points of damage.  
 - The last harpy snarls at the party from the rafters, refusing to engage.  
 - Zephyr shoots his pistol into the air to scare the harpy, which snarls back.  
 - Zephyr attacks the harpy, dealing six points of damage.  
 - The harpy attacks Zephyr and misses, then attempts to fly away.  
 - Zinnia takes an attack of opportunity, dealing eleven points of damage.  
-- Sequioa takes an attack of opportunity, dealing six points of damage, reducing the harpy to four hit points.  
+- Sequoia takes an attack of opportunity, dealing six points of damage, reducing the harpy to four hit points.  
 - Calmer uses Sacred Flame on the harpy, dealing five points of damage.  
-- Sequioa uses a ranged weapon to attack the harpy in the rafters, dealing ten points of damage and killing it.
+- Sequoia uses a ranged weapon to attack the harpy in the rafters, dealing ten points of damage and killing it.
 
 ### Exploring the Harpy's Lair
 
@@ -134,12 +134,12 @@ The conversation took a significant turn when the party expressed their desire f
 - The party discusses the properties of the elven chain mail, which provides a bonus to armor class and allows the wearer to be considered trained with it.  
 - The party decides to keep the elven chain mail in their inventory for potential sale, as Calmer already has superior armor.  
 - The party proceeds to another abandoned room littered with rags and bones, containing a broken chest in the northwest corner.  
-- Calmer refuses to check the chest, stating he is not a rogue, and instructs Sequioa to open it.  
-- Sequioa checks the chest for traps with a roll of twenty-eight and finds none.  
-- Sequioa opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six.  
-- Zephyr fails to notice Sequioa's deception with his insight check.  
+- Calmer refuses to check the chest, stating he is not a rogue, and instructs Sequoia to open it.  
+- Sequoia checks the chest for traps with a roll of twenty-eight and finds none.  
+- Sequoia opens the chest and attempts to use stealth to pocket extra treasure, rolling a twenty-six.  
+- Zephyr fails to notice Sequoia's deception with his insight check.  
 - The chest contains thirty-seven gold pieces, seven platinum pieces, ninety-two silver pieces, and one hundred eight copper pieces.  
-- Sequioa distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.
+- Sequoia distributes the treasure, giving himself and Zinnia a slightly larger share than Zephyr.
 
 ### Negotiating with the Ghasts
 
@@ -174,15 +174,15 @@ The conversation took a significant turn when the party expressed their desire f
 - Romag explains that the party is expected to bring treasure to the temple and pay him a portion, not the other way around.  
 - The party expresses a desire for more power, official titles, and higher ranks within the Earth Temple.  
 - Romag considers the idea and agrees, but states they need to see an act of loyalty first.  
-- Romag instructs Harch to prepare a ceremony.  
+- Romag instructs Hartsch to prepare a ceremony.  
 - Zephyr tells Calmer to be ready to die.  
 - Calmer pulls Zephyr aside and expresses that he is getting tired of the situation and reminds Zephyr that he also has an opinion.  
 - Zephyr suggests that if Calmer dies, they would resuscitate him.  
 - Romag overhears and clarifies that the party members are too valuable to be killed, and that prisoners will be used for the ritual instead.  
-- Romag instructs Harch to prepare the prisoners for the ritual and expects the party to be active participants.  
+- Romag instructs Hartsch to prepare the prisoners for the ritual and expects the party to be active participants.  
 - Calmer looks at the other party members, feeling nauseous, and asks if they are really going to go through with this.  
 - Romag describes the ritual as an Earth Temple ceremony where they will rip the prisoners' bodies apart.  
-- Calmer expresses his discomfort to Zephyr, Sequioa, and Zinnia.  
+- Calmer expresses his discomfort to Zephyr, Sequoia, and Zinnia.  
 - Romag postpones the ceremony until tomorrow, instructing the party to rest.  
 - The DM reminds the party that they freed the prisoners earlier and asks if they made a contingency plan.  
 - The party confirms they planned to blame the Fire Temple for the missing prisoners.
@@ -229,9 +229,9 @@ Two territorial undead creatures encountered in an antechamber with obscene pain
 
 ### Romag
 
-The leader of the Earth Temple who sits in his office looking very pleased with the party's territorial expansion. He delivers passionate tirades about the power of the earth crushing everything to dust. He operates on a system where the party brings treasure to the temple and pays him a portion rather than being paid directly. He proposes a loyalty ritual involving prisoners where bodies will be ripped apart, and instructs Harch to prepare for this ceremony.
+The leader of the Earth Temple who sits in his office looking very pleased with the party's territorial expansion. He delivers passionate tirades about the power of the earth crushing everything to dust. He operates on a system where the party brings treasure to the temple and pays him a portion rather than being paid directly. He proposes a loyalty ritual involving prisoners where bodies will be ripped apart, and instructs Hartsch to prepare for this ceremony.
 
-### Harch
+### Hartsch
 
 An individual instructed by Romag to prepare prisoners for a loyalty ritual ceremony.
 

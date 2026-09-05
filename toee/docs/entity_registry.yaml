@@ -116,8 +116,12 @@ entities:
   - Commander of the Greater Temple's Troops
   - The Grand Marshal
   - Commander Barkinar
-  note: cleric/commander of the Temple Troops, rose through treacherous maneuvers,
-    patient and scheming
+  note: >-
+    cleric/commander of the Temple Troops, rose through treacherous maneuvers,
+    patient and scheming. Previously LED THE EARTH TEMPLE - he eliminated Landers
+    to take it, was then promoted to Commander of the Greater Temple's Troops, and
+    Romag took his place. Succession chain Landers -> Barkinar -> Romag. GM ruling
+    2026-09-05 (staged-consistency stage 0, session 20260830).
 - name: Deggum
   type: npc
   aliases:
@@ -843,7 +847,12 @@ entities:
   note: area 206, lavish Fire Temple reception hall guarded by a gladiator commander
 - name: Cistern Chamber
   type: location
-  note: area 236, slippery algae-covered water reservoir hiding a shield +2
+  note: >-
+    area 236, slippery algae-covered water reservoir. Module canon says the hidden
+    item is a shield +2; AT THIS TABLE it was delivered as a SHIELD +1 and claimed by
+    Calmer (session 20260830 / ch.34, three separate tape mentions including
+    'Calmer's armor class is unreal, now with his shield plus 1'). Table ruling stands
+    over module canon - use shield +1 for this campaign.
 - name: Crooked Corridor
   type: location
   note: area 242, black-clad guard barracks with a spiked-beam trap on a secret door
@@ -1939,8 +1948,6 @@ entities:
 - name: Captain Tolub
   type: npc
   aliases:
-  - Captain Tolubb
-  - Tolubb
   - Tolub
   note: Water Temple agent at the Boatman's Tavern; commands the pirate ship Iron
     Dagger
@@ -1952,7 +1959,10 @@ entities:
     Clan
 - name: Landers
   type: npc
-  note: former leader of the Earth Temple, betrayed and eliminated by Barkinar
+  note: >-
+    former leader of the Earth Temple, betrayed and eliminated by Barkinar, who then
+    held the Earth Temple himself until his promotion to Commander of the Greater
+    Temple's Troops. Succession chain Landers -> Barkinar -> Romag.
 - name: Dieter "Redknife"
   type: npc
   aliases:
