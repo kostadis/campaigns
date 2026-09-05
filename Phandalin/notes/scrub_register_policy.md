@@ -133,3 +133,71 @@ and do not leave it out of the manifest just because nothing changed.
 
 **None.** Ch04's run produced no new canon: every approved change was a removal or a
 plain-language restatement, and no anachronism needed an in-world replacement.
+
+## The ren-faire register (ch08, 2026-09-04) — CAMPAIGN-WIDE
+
+> "for the register of this adventure 'ren-faire except where there is pre-existing
+> faerun words - e.g.: Tendays instead of week'"
+> — GM, 2026-09-04 (ch08 scrub)
+
+Two clauses, and the second governs the first:
+
+1. **Default to a ren-faire register** — relaxed pseudo-medieval, not strict
+   period diction. This is what licenses the campaign's existing in-canon classes
+   (imported economics, physics, adventuring vocabulary) rather than contradicting
+   them; those rulings all stand unchanged.
+2. **Where Faerûn already has a word, use it.** `tenday`, not `week`. The Faerûn
+   term outranks both the ren-faire default and the real-world word.
+
+This is the first ruling that can be *partly* scanned — a fixed word list
+(`week` -> `tenday`, and its siblings) is matchable, unlike every other row in this
+file. It is still not in `find_residue.py` and adding a vocabulary category there
+needs explicit GM sign-off per the hard invariant, so for now it is a reading-pass
+rule like the rest.
+
+**Precedence, settled the same day.** The napalm span (`"I mean, it smells like
+napalm"`, Wade, ch08 s05, tape l.6287) sat inside verbatim player speech, which
+this file's earlier precedent generally protects. The GM ruled **replace in-world**
+-> `"it smells like a pitch fire"`. So the register rule can outrank locked player
+dialogue; it is not automatically subordinate to it. Ask per instance — this did
+not establish that every anachronism in a quote now gets rewritten.
+
+`pitch fire` is ordinary description, **not** a coinage and **not** an entity.
+
+### Applying it — what it did NOT catch
+
+Checked across ch08's six narration scenes and found **zero** additional
+candidates. Worth recording so the next run does not re-derive it:
+
+- `minute` / `hour` are normal Faerûn units. **Tenday replaces *week*, nothing else.**
+- An ordinal `second` ("no second lightning bolt") is not a time unit.
+- Terms inside a `<!-- table-speech reclassified -->` hatch are already out of the
+  narration and are never candidates.
+
+### Open, campaign-wide
+
+The existing corpus does not follow this rule yet: **13 uses of `tenday` against 29
+of `week`** across `summaries/*/narration/`. The ruling post-dates that prose. A
+sweep is justified but was out of scope for the ch08 run.
+
+## Recap policy (ch08, 2026-09-04) — CAMPAIGN-WIDE
+
+**Combat resumes are never cut.** Phandalin sessions routinely end mid-encounter,
+and the next session opens by re-establishing live state (conditions,
+concentration, whose turn it is). That is a precondition, not a duplication — the
+previous chapter cannot have recorded a resolution it did not reach.
+
+The test is the *previous* chapter's ending, not the current chapter's opening:
+
+- previous chapter resolved → an opening retelling is a **recap**, and is a cut
+  candidate;
+- previous chapter ended on a cliffhanger → the opening is a **resume**, and stays.
+
+Ruled on ch08, where three quote blocks re-establishing the harpies' charm looked
+like a recap and were the setup for the session's first spell. See
+`summaries/20250812-chapter-08/remove_recap_manifest.md`.
+
+**Tooling caveat:** `find_recap.py` keys on a `## Voiced moments` heading this
+campaign does not use, so it parses no Phandalin extraction and returns 0/N
+regardless of content. Treat its output as *not run*, and do the three-surface
+check (scene list, `## Summary` prose, enhanced-summary file) by hand.
