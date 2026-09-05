@@ -39,3 +39,8 @@ refs.local.yaml
 # records (logs/*_scene_extract.md et al) from ever being added. Per-campaign log
 # policy stays per-campaign — see out-of-the-abyss/.gitignore.
 /logs/
+
+# zvec-grep semantic index/cache (regenerable, not source). Unanchored like
+# .tokensave/ above: the server writes its index into whichever directory it is
+# pointed at — seen at the repo root, in toee/, and in toee/config/. ~180MB.
+.zvec-grep/
