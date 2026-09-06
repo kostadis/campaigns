@@ -1,0 +1,30 @@
+{
+  "adapter_contract_commit": "8801387bb00edecc6b3d08ae8d18df01cd132dc3",
+  "helper_origin": "Installed registry-aware helpers; these are newer than the adapter worktree helpers. Exact bytes are hashed here.",
+  "helpers": {
+    "apply_replacements.py": {
+      "path": "/home/kroussos/src/mytools/dotfiles/codex/skills/vtt-spell-pass/apply_replacements.py",
+      "sha256": "94b974095133f52d4e236de819fbb58fce8953f5d4e9abd7a82ce68386bc0ea2"
+    },
+    "find_unknowns.py": {
+      "path": "/home/kroussos/src/mytools/dotfiles/codex/skills/vtt-spell-pass/find_unknowns.py",
+      "sha256": "0854d9fae8fe2a7101ab4f019ae3346730706e4e10a40de5b325e7210d7df0a9"
+    },
+    "cluster_unknowns.py": {
+      "path": "/home/kroussos/src/mytools/dotfiles/codex/skills/vtt-spell-pass/cluster_unknowns.py",
+      "sha256": "b07c16b95642a9058b8dc57e4c8368a54b8b3d19316b90f671bf540f4ec59faf"
+    },
+    "lint_glossary.py": {
+      "path": "/home/kroussos/src/mytools/dotfiles/codex/skills/vtt-spell-pass/lint_glossary.py",
+      "sha256": "8ae4dbaa6418d682f60b5b3056b14f705b94fa2f610fda0187a4196c0337786b"
+    }
+  },
+  "glossary_substitutions": 162,
+  "changed_cues": 139,
+  "source_sha256": "381648f3eea070a537e18230262f44296b5d4b9e16c6e841e590bcbc1c2ca1c0",
+  "automatic_draft_approval": false,
+  "model_usage": {
+    "tokens": null
+  },
+  "helper_limitation": "prepare_input.py reported no speakers because it did not recognize these plain Name: WebVTT labels. The CampaignGenerator cue parser verified all 1,535 actual labels against the roster."
+}

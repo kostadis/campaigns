@@ -1,0 +1,17 @@
+system_prompt: config/system_prompt.md
+log_dir: logs
+agents:
+  lore_oracle: config/agents/lore_oracle.md
+  encounter_architect: config/agents/encounter_architect.md
+  voice_keeper: config/agents/voice_keeper.md
+documents:
+- label: campaign_state
+  path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/campaign_state.md
+- label: world_state
+  path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/world_state.md
+- label: mechanics
+  path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/mechanics.md
+- label: planning
+  path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/planning.md
+- label: party
+  path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party.md

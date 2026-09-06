@@ -1,0 +1,41 @@
+# Remove-recap review — Phandalin, August 25, 2026
+
+**Recommendation: keep the approved Events draft unchanged.** No recap cut or relocation is proposed. The first scene, “A Banker's Revelation,” is live play, including the new Bimble lead. This recommendation still requires your explicit draft approval in the editor.
+
+Run: `66deed0bc22648dc9c87414e633db5cd`. Approved Events parent: `5bfb791e88a647b1b54bafaf675a1a1e`, revision 53.
+
+## What was checked
+
+- Selected Events document: Summary prose, first scene (lines 69–83), and the same enhanced-summary artifact that will supply later narration context. There is one managed summary artifact, not a second active copy to edit.
+- Opening corrected transcript cues 1–226, including the pre-play conversation, short catch-up, and transition to Aurelan's live exchange. The unchanged GM-assist opening and previously selected August 25 prep support the comparison; prep remains intention, not evidence that something happened.
+- Summary line 7 opens with Aurelan returning. Scene line 73 has the same live event. Cue 164 (00:14:24.540–00:14:36.500) recaps the necklace return; cue 165 recalls the existing Margaster friction. Cue 168 (00:14:55.490–00:15:07.310) introduces Aurelan rushing back, followed by the greeting and conversation at cues 180–226.
+- The necklace handover is not narrated again in Summary or the first scene. Its brief past-tense mention in the Locations reference entry (line 257) is retained as existing location context; no new event is asserted there.
+- Later recollections within ongoing scenes (the trade-route deduction and the Common Chord's history) are outside the first-scene cut scope and remain unchanged.
+
+## Rescue check
+
+No material is being deleted, so nothing needs relocation. These potentially valuable opening details remain available in the preserved transcript and accompanying opening-evidence.md:
+
+- Cues 15–49: players ask about the druid factions; the GM names the Naturalists, discusses Soma's outlook, and recalls Adabra's persuasion. This is table clarification, not a newly staged event. Its novelty versus earlier chapters has not been established, and it has not been promoted as new canon.
+- Cues 97 and 114–116: discussion and reading of an earlier Valphine-voice summary. This is not a fresh in-world event; no claim is made that the earlier summary is accurate or human-approved.
+- Cues 134–158: character/music banter and a possible future studio. No studio acquisition, new power, level gain, rest, or completed outcome is asserted by this exchange.
+- Cues 164–165: catch-up on the necklace and existing antagonists, preserved in the transcript; no deletion or historical correction is proposed.
+- Cues 180–226: the live greeting, Brew/Ori names, sermon motivation and Bimble payment/provisioning discovery remain in the draft. The previously approved seven-tenday correction remains intact.
+
+There is no selected previous-chapter corpus for an upstream gap audit. That comparison was not run or silently expanded to all chapters. If a cut is later proposed, select the previous chapter explicitly and complete the comparison before applying it. This no-cut candidate discards no information and makes no ruling on uncertain pre-play material.
+
+## Check coverage and limits
+
+The required remove-recap check uses native specialist reading plus deterministic byte/hash checks. The standalone find_recap.py scorer expects a `## Voiced moments` extraction and is not applicable to this pre-extraction summary. Its actual format refusal and marker results are saved in detector-coverage.json; no 0/6 score or automated all-clear is claimed. The standalone recap_unique.py previous-chapter comparison was not run for the scope reason above. No extraction was launched just to satisfy a detector format.
+
+All output bytes, scene headings/order, quotations, actual outcomes, and in-world magic are identical to approved Events. No scenes were removed or renumbered; no plan or narration was invalidated. The source transcript, corrected derivative, GM-assist and approved Events artifact are unchanged. Existing derived-dialogue labeling remains intact; quote verification still belongs to extraction.
+
+Draft SHA-256: `a35d537cde9dcba60d97a21963d839e52947cd5d8d4774bbc8c3ac23d6a62808`.
+Generation here is a deterministic byte-preserving copy, with no model call and zero generation tokens. Specialist review was performed by the current Codex agent; exact model/effort and token usage are not exposed and are not invented. Original Events generation metadata remains on the parent run and in the unchanged document footer.
+
+Implementation commit: `f1f7e248adabbc92d8d43eda789c500de0730228`.
+Skill-adapter commit: `8801387bb00edecc6b3d08ae8d18df01cd132dc3`.
+
+## Your next action
+
+Open this remove-recap run, inspect the unchanged draft, and approve it if keeping this opening is correct. To request a cut or discuss rescue material, continue in chat with this run ID. No draft approval, finding decisions, extraction, or later production stage has been performed.

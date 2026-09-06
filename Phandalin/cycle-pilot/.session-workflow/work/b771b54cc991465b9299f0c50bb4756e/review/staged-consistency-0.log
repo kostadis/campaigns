@@ -1,0 +1,89 @@
+  Note: no entity_registry.yaml found under /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/b771b54cc991465b9299f0c50bb4756e/review, skipping canon section.
+Document : gmassist-20260825.md (22,974 chars)
+Context  : 9 document(s)
+Model    : gpt-5.6-sol
+============================================================
+Codex run: model=gpt-5.6-sol (explicit); reasoning_effort=medium (explicit)
+Found 16 potential issue(s):
+============================================================
+- **Location**: Summary; The Skeletal Horse Sighting; NPCs — Boney  
+  **Issue**: Boney is repeatedly described as “Brewbarry’s skeletal horse.”  
+  **Evidence**: `entity_registry.yaml` identifies Boney as a party companion gifted to Vukradin. The campaign and party documents describe him as bonded to Valphine and Soma; none establish Brewbarry as his owner.  
+  **Suggested fix**: Call Boney “the party’s skeletal horse” or “Lady Alagondar’s former mount.”
+
+- **Location**: Summary — The Skeletal Horse Sighting  
+  **Issue**: Valphine is referred to with the wrong pronoun: “where Valphine had delivered his sermon.”  
+  **Evidence**: All character documents identify Valphine as female and consistently use she/her pronouns.  
+  **Suggested fix**: Change “his sermon” to “her sermon.”
+
+- **Location**: Summary; Arrival at The Board Laid Bare; Locations — Blue Lake District  
+  **Issue**: The Board Laid Bare is placed in the Bluelake District, contradicting both the recap’s own Locations entry and the selected session prep.  
+  **Evidence**: “The Price That Did Not Change” explicitly says the restaurant remains in the **Tower District** and that its connection to Bluelake is the sewer supply route. The recap’s Locations section also calls it a Tower District restaurant.  
+  **Suggested fix**: Place the restaurant in the Tower District. Describe the Bluelake sewers as the route used by its suppliers.
+
+- **Location**: Items — Lady Alagondar’s Tackle  
+  **Issue**: The tackle is said to be what enables the passerby to identify Boney as the horse seen earlier.  
+  **Evidence**: In the session transcript, the passerby considers the tackle and posture but ultimately remembers Boney as the skeletal horse left outside Valphine’s service earlier that day.  
+  **Suggested fix**: Say the tackle briefly contributes to his confusion, but he ultimately recognizes Boney from outside the sermon.
+
+- **Location**: Lim’s Secret Supplier  
+  **Issue**: Lim is said to admit that her supplier “was never part of the official Neverwinter Commission trade manifold.”  
+  **Evidence**: Lim says only that her supplier was unaffected by the changes. The conclusion that the supplier was never on the Manifold is subsequently made by the party/GM during the trade-route deduction.  
+  **Suggested fix**: Attribute this to the party’s inference: “The party inferred that Lim’s supplier had never depended on the Manifold.”
+
+- **Location**: Summary; Lim’s Secret Supplier; Planning the Stakeout  
+  **Issue**: House Margaster is described as controlling the docks or port as an established fact.  
+  **Evidence**: The campaign context establishes that the Neverwinter Commission and its Harbor authority control the port. House Margaster dominates or profits from the replacement distribution network after the Manifold failure. At the table, Margaster control was framed as what the party believed or guessed.  
+  **Suggested fix**: Use “Margaster-dominated distribution” or “the party suspected Margaster controlled much of the replacement distribution,” while retaining Commission control of the harbor.
+
+- **Location**: Summary; Planning the Stakeout  
+  **Issue**: The planned surveillance is called a “midnight stakeout.”  
+  **Evidence**: Bellows says deliveries arrive at the third hour after midnight, occasionally the fourth, and the party plans around approximately 3 a.m.  
+  **Suggested fix**: Change “midnight stakeout” to “3 a.m. stakeout” or “stakeout at the third hour after midnight.”
+
+- **Location**: Planning the Stakeout  
+  **Issue**: The familiar-based surveillance plan is attributed to Vukradin.  
+  **Evidence**: In the transcript, Soma’s player proposes summoning an animal familiar and viewing through it, eventually selecting a rat. Vukradin comments during the discussion but does not originate the plan.  
+  **Suggested fix**: Attribute both the cat Wild Shape and rat-familiar options to Soma.
+
+- **Location**: Summary; Return to the Common Chord  
+  **Issue**: The crowd is described as cosplaying as Vukradin.  
+  **Evidence**: The approved Chapter 50 transcription correction changes the garbled phrase “cosplaying both Garrity and Brewberry” to **“cosplaying Brewbarry.”** Brewbarry is also the established center of Neverwinter’s Exile Aesthetic.  
+  **Suggested fix**: Change the cosplayers to Brewbarry imitators.
+
+- **Location**: Summary; Return to the Common Chord; NPCs — Petra; Memorable Moments  
+  **Issue**: The financial and licensing arrangement is described confusingly, and the Petra entry reverses who receives the licence.  
+  **Evidence**: The transcript establishes two connected terms: Petra accepts a 50% share of gross revenue for the upcoming performance, and Vukradin grants Petra a perpetual licence to use his image and continue the disclosed cover band. No 500 gp is paid; 500 gp is the stated valuation used to square past infringement against the new performance/licensing arrangement. Petra receives the licence—Vukradin does not “take” it.  
+  **Suggested fix**: State: “Petra agreed to pay the band 50% of gross receipts for the performance. Vukradin valued the past infringement at 500 gp, then granted Petra a perpetual image-and-likeness licence, conditional on disclosing that her act is a cover band.”
+
+- **Location**: Summary conclusion; NPCs — Bimble; Memorable Moments — The Ninth Crate  
+  **Issue**: The recap implies the party identified Bimble’s likely hiding place or that the ninth crate points directly to it.  
+  **Evidence**: The session establishes only a hypothesis that the ninth crate may be feeding Bimble and identifies a sewer-linked supply route. Bimble is not located, and the selected prep explicitly guards against finding him this session.  
+  **Suggested fix**: Say the party identified a possible provisioning route and a lead for finding Bimble, not his hiding place.
+
+- **Location**: Summary — Common Chord performance  
+  **Issue**: “The crowd picked it up … as the night wore on” adds an unsupported passage of time.  
+  **Evidence**: The transcript records that listeners began humming or picking up the anti-Margaster tune immediately, then the session ended with the stakeout still pending. It does not depict the night wearing on.  
+  **Suggested fix**: Change to “The crowd began humming and repeating the tune.”
+
+- **Location**: Summary — Common Chord arrival  
+  **Issue**: Brewbarry is said to be “taking pre-orders,” implying completed sales.  
+  **Evidence**: The transcript records Brewbarry deciding to try to obtain pre-orders, but no roll, quantity, payment, or successful order is established. The Scenes section more accurately says he “attempts” to do so.  
+  **Suggested fix**: Change to “Brewbarry began pitching his planned merchandise and soliciting pre-orders.”
+
+- **Location**: Summary; Return to the Common Chord  
+  **Issue**: Valphine’s armor is generically called “dragon scale armor,” which risks confusing it with Brewbarry’s uncollected dragon scale mail.  
+  **Evidence**: Current character records identify Valphine’s armor as **White Dragon Plate +1**. Brewbarry’s separate dragon scale mail remains commissioned but uncollected.  
+  **Suggested fix**: Call Valphine’s armor “White Dragon Plate +1” or “white dragon plate.”
+
+- **Location**: NPCs — Aurelan Vance  
+  **Issue**: Aurelan is labeled an “informant for Brewbarry,” which overstates the established relationship.  
+  **Evidence**: The transcript and registry establish Aurelan as Brewbarry’s banker, a reciprocal contact, and the person who followed up on Bimble’s financial records. No continuing informant role has been established.  
+  **Suggested fix**: Describe him as “Brewbarry’s banker and a cooperative financial contact.”
+
+- **Location**: Memorable Moments — Aurelan Vance quotation  
+  **Issue**: The quotation appears garbled and changes the intended opening: “Find a man who feeds…”  
+  **Evidence**: The session’s stable deduction is, “Find who feeds a man, and you have found the man.” The supplied VTT is explicitly a derived draft rather than a verbatim source, so uncertain wording should not be presented as an exact quotation.  
+  **Suggested fix**: Use “Find who feeds a man, and you have found the man,” or render the line as paraphrase rather than a block quotation.
+
+Report saved: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/b771b54cc991465b9299f0c50bb4756e/review/staged-consistency-0.md

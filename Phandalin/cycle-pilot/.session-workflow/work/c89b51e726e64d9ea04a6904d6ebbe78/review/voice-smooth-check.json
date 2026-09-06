@@ -1,0 +1,641 @@
+{
+  "run_id": "c89b51e726e64d9ea04a6904d6ebbe78",
+  "check": {
+    "name": "voice-smooth",
+    "status": "complete",
+    "sources": [
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/01_a_banker_s_revelation.md",
+        "sha256": "8132470337bac313ce5b9161dd702c2aabd6ca4ef6260f5bc9e2fe63c15e11cb",
+        "snapshot": ".session-workflow/objects/8132470337bac313ce5b9161dd702c2aabd6ca4ef6260f5bc9e2fe63c15e11cb",
+        "label": "derived"
+      },
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/02_the_skeletal_horse_sighting.md",
+        "sha256": "c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+        "snapshot": ".session-workflow/objects/c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+        "label": "derived"
+      },
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/03_arrival_at_the_board_laid_bare.md",
+        "sha256": "1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+        "snapshot": ".session-workflow/objects/1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+        "label": "derived"
+      },
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+        "sha256": "d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+        "snapshot": ".session-workflow/objects/d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+        "label": "derived"
+      },
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+        "snapshot": ".session-workflow/objects/bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+        "label": "derived"
+      },
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/06_planning_the_stakeout.md",
+        "sha256": "c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+        "snapshot": ".session-workflow/objects/c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+        "label": "derived"
+      },
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/07_wandering_the_blue_lake_district.md",
+        "sha256": "8afb1f2fdb9f6ec4b9c31c1670662eeac60124ef096a3c0c94c804a43a968c58",
+        "snapshot": ".session-workflow/objects/8afb1f2fdb9f6ec4b9c31c1670662eeac60124ef096a3c0c94c804a43a968c58",
+        "label": "derived"
+      },
+      {
+        "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+        "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+        "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+        "label": "derived"
+      }
+    ],
+    "findings": [
+      {
+        "id": "voice-02-source-65",
+        "scene": "02",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/02_the_skeletal_horse_sighting.md",
+          "sha256": "c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+          "snapshot": ".session-workflow/objects/c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+          "label": "derived"
+        },
+        "location": "Scene 02, draft line 66 (source line 65)",
+        "description": "“fritting around” is unclear. No replacement verb has been inferred.\n\nRetained source wording:\n> \"I… have you… were you ever, and were you ever, fritting around outside of the walls of Neverwinter?\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-02-source-68",
+        "scene": "02",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/02_the_skeletal_horse_sighting.md",
+          "sha256": "c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+          "snapshot": ".session-workflow/objects/c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+          "label": "derived"
+        },
+        "location": "Scene 02, draft line 69 (source line 68)",
+        "description": "“because he was Lady Alagondar” leaves Boney’s relationship to Lady Alagondar unclear. Do not turn this into a new identity or history claim.\n\nRetained source wording:\n> \"Of course, Boney says yes, because he was Lady Alagondar.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-02-source-134",
+        "scene": "02",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/02_the_skeletal_horse_sighting.md",
+          "sha256": "c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+          "snapshot": ".session-workflow/objects/c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc",
+          "label": "derived"
+        },
+        "location": "Scene 02, draft line 135 (source line 134)",
+        "description": "“Was he Bear?” may be a transcription error or unfinished question. It remains unchanged.\n\nRetained source wording:\n> \"Was he Bear? Was he,\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-03-source-41",
+        "scene": "03",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "snapshot": ".session-workflow/objects/1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "label": "derived"
+        },
+        "location": "Scene 03, draft line 42 (source line 41)",
+        "description": "“the appropriate Lim” is unclear; no title or identity correction has been guessed.\n\nRetained source wording:\n> \"Yes, and, you know, and, you know, the appropriate Lim might know… might have a bead on where such a thing could happen.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-03-source-62",
+        "scene": "03",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "snapshot": ".session-workflow/objects/1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "label": "derived"
+        },
+        "location": "Scene 03, draft line 63 (source line 62)",
+        "description": "“proprietare” remains in the source. The turtle-soup exchange also contains an intentional joke; do not globally replace turtle with tortle.\n\nRetained source wording:\n> \"Right? She's, she's a proprietare, and she's the one who used to… she's the one who, you know, made the turtle… turtle soup, and was a little bit of home, away from home.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-03-source-155",
+        "scene": "03",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "snapshot": ".session-workflow/objects/1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "label": "derived"
+        },
+        "location": "Scene 03, draft line 156 (source line 155)",
+        "description": "“how tardis” is garbled location/table talk. No district name has been supplied.\n\nRetained source wording:\n> \"And the how… yes, you are in the how tardis, but I need to just read something, so…\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-03-source-290",
+        "scene": "03",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "snapshot": ".session-workflow/objects/1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c",
+          "label": "derived"
+        },
+        "location": "Scene 03, draft line 291 (source line 290)",
+        "description": "“cleared option” is unclear in the three-table discussion. The subsequent correction to two window tables remains in its original position.\n\nRetained source wording:\n> \"What was the cleared option?\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-04-source-123",
+        "scene": "04",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "snapshot": ".session-workflow/objects/d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "label": "derived"
+        },
+        "location": "Scene 04, draft line 124 (source line 123)",
+        "description": "“she doesn’t know what chances” is unclear. No knowledge claim has been supplied.\n\nRetained source wording:\n> \"Yeah, she doesn't know what chances.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-04-source-156",
+        "scene": "04",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "snapshot": ".session-workflow/objects/d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "label": "derived"
+        },
+        "location": "Scene 04, draft line 157 (source line 156)",
+        "description": "“lost in fuss” and the following “Eric, on the napkin” are unclear. This is a Brewbarry-labeled description of writing, not established spoken character dialogue.\n\nRetained source wording:\n> \"doing this, Brewbarry seems to be lost in fuss and is starting to write down…\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-04-source-288",
+        "scene": "04",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "snapshot": ".session-workflow/objects/d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "label": "derived"
+        },
+        "location": "Scene 04, draft line 289 (source line 288)",
+        "description": "The kitchen description ends “starts to… to dry…”. No cooking action has been guessed.\n\nRetained source wording:\n> \"She, she, she takes you into the kitchen and, and, starts to… to dry…\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-04-source-381",
+        "scene": "04",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "snapshot": ".session-workflow/objects/d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "label": "derived"
+        },
+        "location": "Scene 04, draft line 382 (source line 381)",
+        "description": "“and I have you believed it? No.” is unclear. The draft does not reconstruct a reply.\n\nRetained source wording:\n> \"and I have you believed it? No.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-04-source-399",
+        "scene": "04",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "snapshot": ".session-workflow/objects/d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f",
+          "label": "derived"
+        },
+        "location": "Scene 04, draft line 400 (source line 399)",
+        "description": "Bellows says “all but two tables are empty” despite the question about more patrons. Retained exactly; changing empty to occupied would change the described scene.\n\nRetained source wording:\n> \"Well, he looks around and says, all but two tables are empty. How many more patrons do you want?\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-05-source-167",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "snapshot": ".session-workflow/objects/bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "label": "derived"
+        },
+        "location": "Scene 05, draft line 168 (source line 167)",
+        "description": "“Or I make you enough so you can’t refuse” may be garbled wordplay. No offer or threat wording has been invented.\n\nRetained source wording:\n> \"Or I make you enough so you can't refuse.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-05-source-230",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "snapshot": ".session-workflow/objects/bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "label": "derived"
+        },
+        "location": "Scene 05, draft line 231 (source line 230)",
+        "description": "“we’ll just take it out” may refer to staking out the deliveries, but the action is not silently changed.\n\nRetained source wording:\n> \"Enough of this shit, we'll just take it out and talk to the guys when they show up, and find out who the hell they are. Alright? She doesn't want to help, she doesn't want to help.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-05-source-269",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "snapshot": ".session-workflow/objects/bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "label": "derived"
+        },
+        "location": "Scene 05, draft line 270 (source line 269)",
+        "description": "“This is completely oblivious, he has no idea” does not identify its subject. Valphine’s inference remains present, but no other character’s knowledge state has been assigned.\n\nRetained source wording:\n> \"So, hold on, hold on, hold on. Valphine, hold on. This is completely oblivious, he has no idea what's going on. But Valphine, who's, of course, a member of the Menzoberranzan, immediately puts one-on-one together, and realizes that…\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-05-source-332",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "snapshot": ".session-workflow/objects/bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8",
+          "label": "derived"
+        },
+        "location": "Scene 05, draft line 333 (source line 332)",
+        "description": "“Event in the real world” remains unclear and unchanged.\n\nRetained source wording:\n> \"Event in the real world.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-06-source-167",
+        "scene": "06",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/06_planning_the_stakeout.md",
+          "sha256": "c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+          "snapshot": ".session-workflow/objects/c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+          "label": "derived"
+        },
+        "location": "Scene 06, draft line 168 (source line 167)",
+        "description": "“listing device” is unclear. Do not silently establish a new magic item or replace it with a listening device.\n\nRetained source wording:\n> \"I also need to find a magic shop so I can buy this listing device and plant it on, you know, the Margaster's goon, whatever his name is.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-06-source-233",
+        "scene": "06",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/06_planning_the_stakeout.md",
+          "sha256": "c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+          "snapshot": ".session-workflow/objects/c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+          "label": "derived"
+        },
+        "location": "Scene 06, draft line 234 (source line 233)",
+        "description": "“cater” and “vision through” remain close to source. The later explicit choice of a rat familiar is preserved; no Wild Shape action is substituted.\n\nRetained source wording:\n> \"Yeah, cater, like, as I was saying, I can… well, I've also got just, like, animal familiars I can summon and, you know, vision through.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-06-source-263",
+        "scene": "06",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/06_planning_the_stakeout.md",
+          "sha256": "c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+          "snapshot": ".session-workflow/objects/c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432",
+          "label": "derived"
+        },
+        "location": "Scene 06, draft line 264 (source line 263)",
+        "description": "“won’t hear everything” is unclear in the familiar plan. No ability or intended observation outcome has been inferred.\n\nRetained source wording:\n> \"And they can stay way out of sight, and never see us, won't hear everything.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-07-source-260",
+        "scene": "07",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/07_wandering_the_blue_lake_district.md",
+          "sha256": "8afb1f2fdb9f6ec4b9c31c1670662eeac60124ef096a3c0c94c804a43a968c58",
+          "snapshot": ".session-workflow/objects/8afb1f2fdb9f6ec4b9c31c1670662eeac60124ef096a3c0c94c804a43a968c58",
+          "label": "derived"
+        },
+        "location": "Scene 07, draft line 261 (source line 260)",
+        "description": "“true rumor” is unclear. Both following rumors are retained as rumors, not newly established campaign facts.\n\nRetained source wording:\n> \"And, as you've been… as you've been walking around, you've heard of, true rumor.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-54",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 55 (source line 54)",
+        "description": "“too many paid questions and paid an actual coin” is unclear in the venue’s history. No payment or questioning policy has been supplied.\n\nRetained source wording:\n> \"Right? When you… when… it was the kind of place that didn't ask too many paid questions and paid an actual coin.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-195",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 196 (source line 195)",
+        "description": "The block begins with Petra but refers to “the guy”; Petra then shows up amid the commotion later. The reservation handler’s speech has not been silently reassigned to Petra.\n\nRetained source wording:\n> \"So Petra kind of, looks at, you know, should they look at you? And they're kind of like, the guy goes and says, hey, I don't mean to be rude here, but, you know, this is kind of like, we've got a lot of nice people here, and I don't think you…\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-267",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 268 (source line 267)",
+        "description": "Valphine is labeled as speaking “So her response is, your usual fee.” This may be table suggestion or an NPC imitation; it is not automatically reassigned as Petra’s established speech.\n\nRetained source wording:\n> \"So her response is, your usual fee.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-315",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 316 (source line 315)",
+        "description": "“I didn’t put up the side” is unclear in the poster discussion. It has not been silently changed to sign.\n\nRetained source wording:\n> \"She goes, I didn't put up the side.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-390",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 391 (source line 390)",
+        "description": "“she’s shaking your head” may mean hand, but a handshake could establish an agreement. The action remains unchanged pending your ruling.\n\nRetained source wording:\n> \"Before you can even change your mind, she's shaking your head.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-555",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 556 (source line 555)",
+        "description": "“I just annoy you?” and the following “Friend is not nice” are unclear. No intended reply has been reconstructed.\n\nRetained source wording:\n> \"I just annoy you?\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-603",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 604 (source line 603)",
+        "description": "“our alley” is retained. The surrounding discussion concerns an ally, but that word substitution needs a ruling rather than a hidden transcription correction.\n\nRetained source wording:\n> \"Lord Neverwinter is our alley against, you know, Margaster, right?\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-669",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 670 (source line 669)",
+        "description": "“I just got them” is unclear after Brewbarry takes both beers. No drinking action has been invented.\n\nRetained source wording:\n> \"No, no, no. I'll take both, and I just got them.\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      },
+      {
+        "id": "voice-08-source-744",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md",
+          "sha256": "83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "snapshot": ".session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850",
+          "label": "derived"
+        },
+        "location": "Scene 08, draft line 745 (source line 744)",
+        "description": "“do an input?” and Valphine’s later “And my pleasure” remain uncertain table wording. Bardic Inspiration, Bless, and the reported rolls remain unchanged.\n\nRetained source wording:\n> \"You want to do an input?\"",
+        "proposed_action": "Retain the displayed wording unchanged in this derived draft. Use Discuss if you want to clarify the wording or attribution; no replacement has been inferred.",
+        "consequences": {
+          "approve": "Accept retaining this wording as-is for this draft; this does not establish it as verbatim recording evidence.",
+          "reject": "Dismiss this concern and leave the current wording unchanged.",
+          "discuss": "Keep the item unresolved and discuss the intended wording or attribution before making a change."
+        },
+        "rule": null,
+        "change": null
+      }
+    ],
+    "producer": "Codex native voice-smooth review using the declared character voices, campaign genre, approved calibration and selected extractions; exact-edit/source-hash, summary, speaker-order, numeric-token and quote-count verification. See review/voice-smooth-render-audit.yaml. No fresh audio verification or independent campaign-wide consistency audit.",
+    "at": "2026-09-06T02:02:49.152357+00:00"
+  }
+}

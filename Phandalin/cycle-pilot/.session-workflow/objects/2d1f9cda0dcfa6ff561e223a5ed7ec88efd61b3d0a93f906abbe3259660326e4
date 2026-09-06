@@ -1,0 +1,2467 @@
+version: 1
+campaign: Phandalin
+entities:
+- name: Adabra Gwynn
+  type: npc
+  aliases:
+  - Adabra
+  - Adabra Adabra Gwynn
+  note: Human midwife and apothecary who lives in the stone windmill on Umbrage Hill,
+    devoted to Chauntea
+- name: Alfonse Kalazorn
+  type: npc
+  aliases:
+  - Big Al
+  - Big Al Kalazorn
+  - Alphonse Big Al Kalazorn
+  note: Human veteran, retired sheriff of Triboar turned cattle and horse rancher,
+    captured by orcs
+- name: Cryovain
+  type: npc
+  note: White dragon that killed six orcs near the mine roughly three days before
+    the party arrives
+- name: Don-Jon Raskin
+  type: npc
+  aliases:
+  - Raskin
+  - Don-Jon
+  note: No-nonsense overseer hired by Neverwinter consortium to manage Mountain's
+    Toe Gold Mine; former prospector, privateer, and trader
+- name: Elmar Barthen
+  type: npc
+  aliases:
+  - Barthen
+  note: Proprietor of Barthen's Provisions; lean, balding human of fifty years
+- name: Falcon the Hunter
+  type: npc
+  aliases:
+  - Gustaf Stellern
+  - The Falcon
+  - Falcon
+  note: Human hunter and lodge owner, guides nobles from Neverwinter through Neverwinter
+    Wood
+- name: Gnerkli
+  type: npc
+  aliases:
+  - King Gnerkli
+  - king_gnercli
+  note: Rock gnome king of Gnomengarde, married co-ruler, held prisoner by Korboz
+- name: Halia Thornton
+  type: npc
+  note: Guildmaster of Phandalin Miner's Exchange; covert agent of the Zhentarim
+- name: Horia Stonetallow
+  type: npc
+  aliases:
+  - Horia
+  note: Shield dwarf; clan liaison and crew leader for the Stonetallow clan at Mountain's
+    Toe Gold Mine; principled and contract-minded
+- name: Prutha
+  type: npc
+  note: Recurring NPC encountered at the Woodland Manse, Falcon's Hunting Lodge, Circle
+    of Thunder, henge, and dining room; appears in later chapters (40–45)
+- name: Sister Kaella
+  type: npc
+  aliases:
+  - Kaella
+  note: Recurring NPC; appears across many locations including Neverwinter, Icespire
+    Hold, Glacier of Whispers, Falcon's Hunting Lodge, Phandalin, and Woodland Manse
+    (ch 16–44)
+- name: Harbin Wester
+  type: npc
+  aliases:
+  - Townmaster Harbin Wester
+  - Townmaster Wester
+  - Harbin
+  - Townmaster
+  - Townmaster Harbin
+  note: Townmaster of Phandalin, half-brother of Tibor Wester, arranges supply deliveries
+    to the camp
+- name: Korboz
+  type: npc
+  aliases:
+  - King Korboz
+  - Mad King Korboz
+  note: Rock gnome king of Gnomengarde, driven mad after a mimic attack, now holds
+    Gnerkli captive
+- name: Linene Graywind
+  type: npc
+  aliases:
+  - Linene
+  note: Master of the Lionshield Coster's Phandalin post; sharp-tongued human woman
+    of thirty-five
+- name: Sister Garaele
+  type: npc
+  note: Zealous elf acolyte tending the Shrine of Luck; Harper operative currently
+    in Neverwinter
+- name: Toblen Stonehill
+  type: npc
+  aliases:
+  - Spider Man
+  - Toblen
+  note: Proprietor of the Stonehill Inn; native of Triboar who came to Phandalin to
+    prospect
+- name: Xanth
+  type: npc
+  aliases:
+  - Xanthopoulos
+  note: Centaur driven from Neverwinter Wood by orcs; warns adventurers about the
+    barrow and offers to guide them to the Circle of Thunder
+- name: The Carver
+  type: npc
+  aliases:
+  - Carver
+  note: Major campaign villain; sorcerer-warlord who marched on Icespire Hold to bind
+    the white dragon Cryovain, then burned Phandalin; defeated by the party
+- name: Axeholm castellan
+  type: npc
+  note: Dwarf castellan who stayed behind to seal the fortress after the garrison
+    fled; arose as a ghoul and guards the throne room
+- name: Brakkis Elspaar
+  type: npc
+  note: Stone-Cold Reaver; aging opportunist who follows orders and talks about retirement
+    and dogs
+- name: Daggermaw
+  type: npc
+  note: Named hunter shark, meanest of three patrolling the shipwrecks, attacks without
+    provocation
+- name: Dobin Noreth
+  type: npc
+  note: Neutral evil member of the Stone-Cold Reavers sent to gather supplies in Phandalin
+- name: Drethna
+  type: npc
+  note: Female anchorite of Talos who disguises herself as a wild boar; scouts for
+    intruders in Neverwinter Wood
+- name: Facktoré
+  type: npc
+  aliases:
+  - facktore
+  note: Female rock gnome recluse inventor, deranged, guards area G7 with her autoloading
+    crossbow platform
+- name: Flenz
+  type: npc
+  note: Anchorite of Talos, one of three defenders of the Circle of Thunder; found
+    dancing at the henge
+- name: Gorthok the Thunder Boar
+  type: npc
+  aliases:
+  - Gorthok
+  note: Powerful boar creature summoned by anchorites of Talos to lead the counterattack
+    on Falcon's Hunting Lodge
+- name: Grannoc
+  type: npc
+  note: Half-orc anchorite of Talos who has taken over the ruined manse, plants the
+    Gulthias tree, and commands blights and orcs
+- name: Jabarl the Orc-Biter
+  type: npc
+  aliases:
+  - Jabarl
+  note: Stone-Cold Reaver; rugged brute with a criminal past, good with horses
+- name: Kra
+  type: npc
+  note: Orc war chief who dwelled in Icespire Hold until eaten by Cryovain
+- name: Miraal
+  type: npc
+  note: Sea elf slain by Moesko; her spirit haunts the Haunted Cave as a banshee,
+    seeking return of her opalescent conch
+- name: Moesko
+  type: npc
+  aliases:
+  - Moesko the Anchorite
+  note: Half-orc anchorite of Talos who guards the Tower of Storms lighthouse, using
+    the beacon to wreck ships; his heart has been removed and enlarged as the beacon's
+    power source
+- name: Narux
+  type: npc
+  note: Anchorite of Talos, one of three defenders of the Circle of Thunder; found
+    dancing at the henge
+- name: Runa Vokdottir
+  type: npc
+  note: Stone-Cold Reaver from Icewind Dale; cruel, taciturn, armed with biting humor
+- name: Syleen Wintermoon
+  type: npc
+  note: Leader of the Stone-Cold Reavers; compulsive liar from Neverwinter with red
+    hair
+- name: Vyldara
+  type: npc
+  note: Moon elf ambassador whose restless spirit became the banshee haunting Axeholm
+    after being killed by dwarven axes during an escape attempt
+- name: Yargath
+  type: npc
+  note: Anchorite of Talos, one of three defenders of the Circle of Thunder; leads
+    an orc patrol en route to the circle
+- name: Zeleen Varnaster
+  type: npc
+  aliases:
+  - Zeleen
+  note: Female wererat, leader of the Whiskered Gang; poses as the mine's overseer
+    in area M4
+- name: Ander
+  type: npc
+  note: Young clerk employed at Barthen's Provisions
+- name: Anverth
+  type: npc
+  note: Male rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Caramip
+  type: npc
+  note: Female rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Boney
+  type: npc
+  note: Sentient skeletal horse; companion to the party; gifted to Vukradin; can speak
+    and has a distinct personality
+- name: Corwin
+  type: npc
+  note: Elderly, world-weary cook and retainer at Falcon's Hunting Lodge
+- name: Dabbledob
+  type: npc
+  note: Female rock gnome recluse, one of Gnomengarde's foremost inventors, holds
+    treasury key
+- name: Dazlyn Grayshard
+  type: npc
+  note: Shield dwarf prospector and business partner of Norbus; forthright and honest
+    to a fault
+- name: Delebean
+  type: npc
+  note: Male rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Dimble
+  type: npc
+  note: Male rock gnome recluse working in the Gnomengarde kitchen
+- name: Donnabella Fiasco
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Fibblestib
+  type: npc
+  note: Male rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury
+    key
+- name: Galandro Luna
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Inverna Nightbreeze
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Jabby
+  type: npc
+  note: Female rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Joybell
+  type: npc
+  note: Female rock gnome recluse working in the Gnomengarde kitchen
+- name: Nib Addlespur
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Norbus Ironrune
+  type: npc
+  note: Shield dwarf prospector and business partner of Dazlyn; gruff and excessively
+    cautious
+- name: Nyx
+  type: npc
+  note: Female rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Pallabar
+  type: npc
+  note: Male rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Panana
+  type: npc
+  note: Female rock gnome recluse working in the Gnomengarde kitchen
+- name: Pell
+  type: npc
+  note: Mute twelve-year-old stable hand and retainer at Falcon's Hunting Lodge
+- name: Pickled Pete
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Pog
+  type: npc
+  note: Male rock gnome recluse standing guard at the Gnomengarde guard post
+- name: Quinn Hightopple
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Quippy
+  type: npc
+  note: Female rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Ruby Hammerwhacker
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Shanjan Kwan
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Talon Thornwild
+  type: npc
+  note: Named sidekick character available to join the party
+- name: Tervaround
+  type: npc
+  note: Female rock gnome recluse working in the Gnomengarde kitchen
+- name: Thistle
+  type: npc
+  note: Young clerk employed at Barthen's Provisions
+- name: Tibor Wester
+  type: npc
+  aliases:
+  - Tibor
+  note: Human commoner, craven opportunist running the loggers' camp, half-brother
+    of Phandalin's townmaster Harbin Wester
+- name: Ulla
+  type: npc
+  note: Female rock gnome recluse standing guard at the Gnomengarde guard post
+- name: Uppendown
+  type: npc
+  note: Male rock gnome recluse working in the Gnomengarde kitchen
+- name: Zook
+  type: npc
+  note: Male rock gnome recluse sleeping in the Gnomengarde domiciles
+- name: Azdraka
+  type: npc
+  note: Green dragon that terrorized the High Road; slain by Lady Alagondar and sealed
+    in the barrow with her
+- name: Dagult Neverember
+  type: npc
+  aliases:
+  - Lord Neverember
+  - Lord Protector
+  - Neverember
+  - Lord Pretender
+  note: Rules Neverwinter as Lord Protector in the absence of an heir to the Alagondar
+    royal line
+- name: Delsendra Amzarr
+  type: npc
+  note: Human warlord who built Icespire Hold; died by self-poisoning after her soldiers
+    starved
+- name: Halaster Blackcloak
+  type: npc
+  note: mad wizard who rules Undermountain beneath Waterdeep
+- name: Hekaton
+  type: npc
+  aliases:
+  - Storm Giant King
+  - King Hekaton
+  note: storm giant king who can end the giants' rampage in Storm King's Thunder
+- name: Lady Tanamere Alagondar
+  type: npc
+  aliases:
+  - Tanamere Alagondar
+  - Lady Alagondar
+  - Lady Alagondar S Ghost
+  note: Royal scion of Neverwinter, killed Azdraka the green dragon over a century
+    ago; buried in the barrow with her dragon slayer longsword
+- name: Orryn
+  type: npc
+  note: Rock gnome devoured by the mimic before the adventure begins
+- name: Strahd von Zarovich
+  type: npc
+  aliases:
+  - Strahd
+  note: vampire lord who rules Barovia, antagonist of Curse of Strahd
+- name: Warryn
+  type: npc
+  note: Rock gnome devoured by the mimic before the adventure begins
+- name: Abbathor
+  type: deity
+  note: Evil dwarven god of greed; punished his temple's priests with an earthquake
+    and avalanche for insufficient sacrifices
+- name: Chauntea
+  type: deity
+  note: Goddess of agriculture; Adabra Gwynn is her acolyte at Umbrage Hill
+- name: Corellon Larethian
+  type: deity
+  note: Elven god who half-blinded Gruumsh with an arrow
+- name: Gruumsh
+  type: deity
+  note: Mightiest god of the orc pantheon, half-blinded by Corellon Larethian
+- name: Moradin
+  type: deity
+  note: Dwarven god of creation; his holy symbol (hammer and anvil) is found as a
+    platinum amulet in the former shrine
+- name: Savras
+  type: deity
+  note: God of divination and fate; has an abandoned shrine south of Conyberry
+- name: Talos
+  type: deity
+  note: Deity of storms and destruction; the anchorites of Talos serve him and resent
+    loggers encroaching on Neverwinter Wood
+- name: Tiamat
+  type: deity
+  note: Queen of Evil Dragons, trapped in the Nine Hells; antagonist of Hoard of the
+    Dragon Queen / Rise of Tiamat
+- name: Tymora
+  type: deity
+  note: Goddess of luck and good fortune; the Shrine of Luck in Phandalin is dedicated
+    to her
+- name: Henge
+  type: location
+  aliases:
+  - the henge
+  note: Ring of eight stone uprights atop the hill where Flenz, Narux, and twig blights
+    perform rituals; designated area C1
+- name: Northeast Cave
+  type: location
+  note: Cave lair of Narux; contains hidden +1 shield; designated area C3
+- name: Northwest Cave
+  type: location
+  note: Cave lair of Flenz; contains hidden potion of invulnerability; designated
+    area C2
+- name: Southeast Cave
+  type: location
+  note: Cave lair of Yargath; no treasure; designated area C4
+- name: Triboar
+  type: location
+  note: Town to the east; Toblen Stonehill's hometown and eastern terminus of the
+    Triboar Trail
+- name: E1. Canyon
+  type: location
+  note: Rocky-walled canyon leading to the ruined settlement; entry point for the
+    excavation
+- name: E10. Partially Collapsed Room
+  type: location
+  note: Contains the skeleton of a dwarf priest with a holy symbol of Abbathor
+- name: E11. Hall of Greed
+  type: location
+  note: Sealed chamber containing a trapped statue of a horned dwarf holding a glowing
+    green gem
+- name: E2. Ruined Settlement
+  type: location
+  note: Ancient unnamed dwarven settlement cleared of rubble; nothing of value remains
+- name: E3. Courtyard and Temple Facade
+  type: location
+  note: Open courtyard before the temple entrance with rubble piles and granite dwarf
+    statues
+- name: E4. Dusty Foyer
+  type: location
+  note: Temple entry room with spiked-open double doors and a discovered secret door
+    to the north
+- name: E5. Temple
+  type: location
+  note: Main temple chamber with a bloodstained limestone altar and ochre jellies
+    on the ceiling
+- name: E6. Partially Collapsed Room
+  type: location
+  note: Room collapsed by earthquake; holds nothing of value
+- name: E7. Secret Tunnel
+  type: location
+  note: Hidden passage harboring an ochre jelly in the rubble
+- name: E8. Priests' Bedchamber
+  type: location
+  note: Room with three stone bed frames; priests' sleeping quarters
+- name: E9. Vestry
+  type: location
+  note: Room with a stone font and wardrobe containing ruined red leather vestments
+    of Abbathor's priests
+- name: Sword Coast
+  type: location
+  note: Coastal region referenced as the source of cool winds and rain on the journey
+    to Axeholm
+- name: Underdark
+  type: location
+  note: vast subterranean labyrinth setting of Out of the Abyss
+- name: G1. Misty Pool and Mushroom Islands
+  type: location
+  note: Pool fed by the waterfall with two mist-shrouded islands growing oversized
+    mushrooms; source of Gnomengarde's wild magic
+- name: G10. Spinning Blades
+  type: location
+  note: Trap room with two spinning blade turnstiles, disabled by a brass lever
+- name: G11. Inventors' Workshop
+  type: location
+  note: Cluttered workshop of Fibblestib and Dabbledob; contains the Magick of Gnomengarde
+    spellbook
+- name: G12. Gnome Domiciles
+  type: location
+  note: Sleeping quarters for eight rock gnome recluses in four side caves
+- name: G13. Treasury
+  type: location
+  note: Locked room containing gnomish scrap and the clockwork amulet and pole of
+    collapsing
+- name: G14. Throne Room
+  type: location
+  note: Contains two scrap-metal thrones on a dais and a secret door to the kings'
+    bedroom
+- name: G15. Gnome Kings' Bedroom
+  type: location
+  note: Locked bedroom where Korboz has sequestered himself and the restrained Gnerkli
+- name: G2. Waterfall and Rope Bridge
+  type: location
+  note: 35-foot rope bridge crossing beneath a 60-foot waterfall
+- name: G3. Dining Room
+  type: location
+  note: Gnome-scaled dining area with tables, chairs, and a cabinet of tin dishware
+- name: G4. Kitchen
+  type: location
+  note: Gnome kitchen with rope-and-pulley mechanisms, staffed by five rock gnome
+    recluses
+- name: G5. Pantry
+  type: location
+  note: Storage room stacked with crates of green mushroom bread and foodstuffs
+- name: G6. Barrel Crabs
+  type: location
+  note: Room housing two gnomish barrel-crab contraptions used as crude forklifts
+- name: G7. Autoloading Crossbow Platform
+  type: location
+  note: Room containing a rotating four-crossbow platform contraption invented and
+    operated by Facktoré
+- name: G8. Mimic and Mushroom Wine
+  type: location
+  note: Wine storage room housing twelve barrels of mushroom wine, one of which is
+    the mimic
+- name: G9. Gnome Guard Post
+  type: location
+  note: Mist-dampened guard cave with a 10-foot ledge manned by Ulla and Pog
+- name: H1. Narrow Trail
+  type: location
+  note: Narrow winding mountain path leading up to the gatehouse
+- name: H7. Stone Bridge
+  type: location
+  note: 35-foot-gap stone bridge connecting the gatehouse to the main fortress; has
+    an iron bell
+- name: H12. Audience Chamber
+  type: location
+  note: Dismal hall bearing Delsendra Amzarr's crest; occupied by stirges
+- name: H17. Warlord's Quarters
+  type: location
+  note: Room where Delsendra Amzarr took her own life by poison
+- name: H19. Orc War Chief's Lair
+  type: location
+  note: Former lair of Kra; contains a sea-elf-crafted chair with red coral
+- name: H20. Roof
+  type: location
+  note: Slippery ice-covered rooftop where Cryovain sleeps
+- name: H21. Undercroft
+  type: location
+  note: Deathly cold room beneath the fortress; lintel inscribed 'CRYPTS'
+- name: H22. Crypts
+  type: location
+  note: Rough-hewn passageways with stone caskets containing warriors who died under
+    Delsendra's command
+- name: H23. Empty Crypt and Secret Exit
+  type: location
+  note: Crypt with a dismantled toboggan and a one-way secret door to an escape ledge
+- name: H2. Stables
+  type: location
+  note: Gatehouse stables housing the Stone-Cold Reavers' four riding horses
+- name: H4. Gatehouse Barracks
+  type: location
+  note: Former barracks repurposed as the Stone-Cold Reavers' base
+- name: H6. Barbican
+  type: location
+  note: Watchtower room with arrow slits overlooking the trail; Runa's post
+- name: Circle of Thunder
+  type: location
+  note: Circle of standing stones deep in Neverwinter Wood where evil half-orc spellcasters
+    perform dark rites; ~40 miles from Dragon Barrow
+- name: Falcon's Hunting Lodge
+  type: location
+  aliases:
+  - Falcon's Lodge
+  - Falcon Hunting Lodge
+  - Falcon Lodge
+  - hunting lodge
+  - the lodge
+  - courtyard
+  - Falcon's Hunting Lodge courtyard
+  note: Site of a counterattack involving Gorthok; following Gorthok's trail leads
+    to the Circle of Thunder
+- name: Loggers' Camp
+  type: location
+  note: Logging camp on the south bank of the river flowing out of Neverwinter Wood,
+    run by Tibor Wester
+- name: Woodland Manse
+  type: location
+  note: Ruined vine-overgrown stone manse about ten miles from Falcon's lodge, inhabited
+    by half-orcs and stick creatures
+- name: Yartar
+  type: location
+  note: City over a hundred miles east of Phandalin; base of the Lionshields merchant
+    company
+- name: Barthen's Provisions
+  type: location
+  note: General store in Phandalin that fills supply crates for the loggers' camp
+- name: Lionshield Coster
+  type: location
+  note: Trading post selling weapons and armor; Phandalin outpost of the Lionshields
+    merchant company
+- name: Phandalin Miner's Exchange
+  type: location
+  note: Weighing and payment office for miners; also serves as unofficial claims registry;
+    run by Halia Thornton
+- name: Shrine of Luck
+  type: location
+  note: Phandalin's only temple; dedicated to Tymora; normally tended by Sister Garaele
+- name: Stonehill Inn
+  type: location
+  aliases:
+  - Stonehill Tavern
+  - Stonehill
+  note: Modest two-story roadhouse at the center of Phandalin; run by Toblen Stonehill
+- name: Townmaster's Hall
+  type: location
+  note: Stone building with bell tower; hosts the job board where quests are posted
+- name: Mountain's Toe Gold Mine
+  type: location
+  aliases:
+  - Mountain's Toe Mine
+  note: Gold mine owned by a Neverwinter business consortium, 15 miles northeast of
+    Phandalin, overrun by the Whiskered Gang wererats
+- name: Umbrage Hill
+  type: location
+  note: Hill a few miles south of Phandalin; site of Adabra Gwynn's windmill where
+    potions of healing are sold
+- name: Butterskull Ranch
+  type: location
+  note: Cattle and horse ranch on the Triboar Trail, five miles east of Conyberry,
+    owned by Alfonse Kalazorn
+- name: Conyberry
+  type: location
+  note: Location of the old shrine the wererats previously used as a lair before being
+    displaced by orcs
+- name: Crags
+  type: location
+  note: Rocky, windswept hills dotted with old monster-infested mines
+- name: Dragon Barrow
+  type: location
+  note: Barrow mound ~40 miles northwest of Phandalin where Lady Alagondar and Azdraka
+    were interred; haunted by will-o'-wisps
+- name: High Road
+  type: location
+  note: Road west of Phandalin that characters pass through en route to the Tower
+    of Storms
+- name: Kryptgarden Forest
+  type: location
+  note: Ancient forest behind the Sword Mountains containing ruins of bygone dwarven
+    civilizations
+- name: Leilon
+  type: location
+  note: Small town on the High Road being rebuilt by settlers in service of Neverwinter's
+    Lord Protector
+- name: Luskan
+  type: location
+  note: Coastal city north of Neverwinter along the High Road
+- name: Mere of Dead Men
+  type: location
+  note: Cold, desolate swamp east of the High Road; haunted by will-o'-wisps
+- name: Mount Hotenow
+  type: location
+  note: Fuming volcano near Neverwinter; erupted fifty years ago and damaged the city
+- name: Neverwinter
+  type: location
+  note: Major city north of Phandalin; damaged by Mount Hotenow's eruption fifty years
+    ago, now rebuilding under Lord Neverember
+- name: Neverwinter Wood
+  type: location
+  note: Magical forest east of Neverwinter; home to reclusive spellcasters and half-orc
+    worshippers of Talos
+- name: Phandalin
+  type: location
+  note: Frontier mining settlement in the foothills of the Sword Mountains; starting
+    location of the adventure
+- name: Sea of Swords
+  type: location
+  note: Open sea west of the Tower of Storms
+- name: Shrine of Savras
+  type: location
+  note: Supposedly abandoned shrine south of Conyberry dedicated to Savras; rumored
+    to hold hidden gold
+- name: Starmetal Hills
+  type: location
+  note: Rocky knolls named for ancient meteor impact sites; haunted by ruthless barbarian
+    tribes
+- name: Sword Mountains
+  type: location
+  note: Mountain range whose rocky foothills border the travel route from Phandalin
+    to Axeholm
+- name: Tower of Storms
+  type: location
+  note: Lighthouse-temple to Talos, 35 miles west of Phandalin, built atop an 80-foot
+    rocky outcropping
+- name: Triboar Trail
+  type: location
+  note: Path south of Neverwinter Wood; route between Neverwinter and Triboar in the
+    Dessarin Valley
+- name: Waterdeep
+  type: location
+  note: 'city beneath which lies Undermountain, setting of Waterdeep: Dungeon of the
+    Mad Mage'
+- name: Dessarin Valley
+  type: location
+  note: peaceful valley east of Phandalin, threatened by four elemental cults in Princes
+    of the Apocalypse
+- name: Axeholm
+  type: location
+  note: Abandoned dwarven fortress carved into a mountain fifteen miles south of Phandalin,
+    now haunted by a banshee and infested with ghouls
+- name: Dwarven Excavation
+  type: location
+  note: Ancient dwarven settlement buried by an avalanche, located 15 miles southwest
+    of Phandalin at the eastern end of a canyon
+- name: Gnomengarde
+  type: location
+  note: Small network of caves in the mountains southeast of Phandalin; home to a
+    clan of reclusive rock gnomes known for magical inventions
+- name: Icespire Hold
+  type: location
+  note: Stone fortress on the icy northeast spur of Icespire Peak; former warlord
+    stronghold, now Cryovain's lair
+- name: Icespire Peak
+  type: location
+  note: Massive snow-covered mountain visible from Phandalin; landmark with icy northeast
+    spur
+- name: Icewind Dale
+  type: location
+  note: Far-northern region; origin of Runa Vokdottir
+- name: Foyer (T3)
+  type: location
+  note: Empty 15-foot-high entry room
+- name: Harpies' Aerie (T5)
+  type: location
+  note: Ledge-nest where harpies roost atop the rocky outcropping
+- name: Haunted Cave (T1)
+  type: location
+  note: Cave at the base of the rocky outcropping, haunted by Miraal's banshee
+- name: Lighthouse Interior (T6)
+  type: location
+  note: Round stone tower with spiral staircase
+- name: Moesko's Heart (T9)
+  type: location
+  note: Pinnacle of the lighthouse beacon where Moesko's enlarged heart floats, powering
+    the green light
+- name: Plateau (T2)
+  type: location
+  note: Rocky plateau atop the outcropping, accessed by rough-hewn stairs on the eastern
+    face
+- name: Rooftop and Lightning Rod (T8)
+  type: location
+  note: Rooftop area with a 10-foot wrought-iron lightning rod that channels energy
+    to the altar
+- name: Shrine of Talos (T4)
+  type: location
+  note: Frescoed shrine room with a lightning-fed altar dedicated to Talos
+- name: Golden Gull
+  type: location
+  note: Sunken shipwreck (area T13) with a locked chest holding electrum pieces and
+    pearls
+- name: Orca
+  type: location
+  note: Sunken shipwreck (area T14) containing a wand of secrets and a wizard spellbook
+- name: Sea Urchin
+  type: location
+  note: Sunken shipwreck (area T11) containing a locked chest with a blue quartz mermaid
+    statuette
+- name: Star-Crossed Lover
+  type: location
+  note: Sunken shipwreck (area T10) holding a +1 weapon in the grip of the captain's
+    skeleton
+- name: Vainglory
+  type: location
+  note: Sunken shipwreck (area T12) whose captain's skeleton wears a Cloak of Many
+    Fashions
+- name: Undermountain
+  type: location
+  note: vast dungeon beneath Waterdeep ruled by Halaster Blackcloak
+- name: Barovia
+  type: location
+  note: Gothic horror realm ruled by Strahd von Zarovich
+- name: A1. Outer Gauntlet
+  type: location
+  note: Axeholm's primary defensible entrance passage, blocked by a portcullis
+- name: A10. Tool Storage
+  type: location
+  note: Armorsmiths' and weaponsmiths' tool storage, tools still hanging on hooks
+- name: A11. Inner Gauntlet
+  type: location
+  note: Arrow-slit corridor leading to the throne room
+- name: A12. West Guard Post
+  type: location
+  note: Guard post with two ballistas aimed at the east wall
+- name: A13. East Guard Post
+  type: location
+  note: Guard post where two dwarf guards were trapped and killed by ghouls
+- name: A14. Throne Room
+  type: location
+  note: Pillared hall with a limestone throne flanked by granite dwarf warrior statues;
+    the castellan ghoul lairs behind the throne
+- name: A15. Dining Room
+  type: location
+  note: Stone dining hall with a fireplace and a 60-foot refuse pit
+- name: A16. Kitchen
+  type: location
+  note: Dwarven kitchen with metal dishware and a hot-water faucet fed by an underground
+    spring
+- name: A17. East Hall in Ruins
+  type: location
+  note: Hall damaged by earthquake collapse; difficult terrain
+- name: A18. Empty Room
+  type: location
+  note: Cleared-out room containing only dust
+- name: A19. Ghoul Den
+  type: location
+  note: Former shrine with dwarven religious carvings; now a ghoul lair with partial
+    ceiling collapse
+- name: A2. Western Bulwark
+  type: location
+  note: Defensive chamber with seven ballistas and a portcullis winch
+- name: A20. Narrow Tunnel
+  type: location
+  note: Ghoul-dug tunnel connecting the upper and lower fortress levels
+- name: A21. East Upper Barracks
+  type: location
+  note: Trashed upper barracks with a chimney accessible from outside
+- name: A22. Upper Bastion
+  type: location
+  note: Large upper chamber over the outer gauntlet; infested with giant spiders and
+    strung with webs
+- name: A23. West Upper Barracks
+  type: location
+  note: Upper barracks with a steel shield bearing the Axeholm crest above the fireplace;
+    chimney accessible from outside
+- name: A24. Haunted Hall
+  type: location
+  note: L-shaped hall where Vyldara's banshee floats and confronts intruders
+- name: A25. Upper East Hall and Balcony
+  type: location
+  note: Partially collapsed hall with a stone balcony overlooking the Mustering Hall
+- name: A26. Ghoul Bath
+  type: location
+  note: Room with a stone tub of gnawed bones; ghoul gathering point connected to
+    A14 chimney
+- name: A27. Banshee's Bedchamber
+  type: location
+  note: Decayed guest bedroom where Vyldara once stayed and makes her final stand
+- name: A28. Castellan's Bedchamber
+  type: location
+  note: Bedroom with a secret door hidden in the back wall of the fireplace
+- name: A29. Secret Vault
+  type: location
+  note: Hidden vault containing the dread helm and gauntlets of ogre power, opened
+    by the castellan's signet ring
+- name: A3. Eastern Bulwark
+  type: location
+  note: Defensive chamber mirroring the Western Bulwark
+- name: A30. Privies
+  type: location
+  note: Upper-level privies with chain mail curtains and deep chutes
+- name: A4. Mustering Hall
+  type: location
+  note: Great hall with 40-foot ceiling, four stone pillars, and multiple exits
+- name: A5. West Hall
+  type: location
+  note: Hall strewn with gnawed dwarven bones; ghoul patrol area
+- name: A6. Armory
+  type: location
+  note: Former weapon and armor storage, emptied by the dwarves on evacuation
+- name: A7. Main Barracks
+  type: location
+  note: Sleeping quarters with scattered cots and rubble-choked fireplaces
+- name: A8. Privies
+  type: location
+  note: Three curtained privies on the lower level
+- name: A9. Stirge in the Smithy
+  type: location
+  note: Smithy with two blackened hearths and rusty anvils; a stirge nests in the
+    chimney
+- name: Nine Hells
+  type: concept
+  note: plane where Tiamat is imprisoned
+- name: +1 Shield
+  type: item
+  note: Hidden by Narux beneath the floor of the Northeast Cave
+- name: Axeholm signet ring
+  type: item
+  note: Gold signet ring bearing the Axeholm crest (handaxe in a dwarven gauntlet);
+    worn by the castellan ghoul and used to unlock the secret vault chest
+- name: Boots of Elvenkind
+  type: item
+  note: Magic item reward offered by Falcon for completing the Woodland Manse Quest
+- name: Charm of the Storm
+  type: item
+  note: One-use boon granted by the Shrine of Talos altar; allows casting lightning
+    bolt three times before vanishing
+- name: Cloak of Billowing
+  type: item
+  note: Magic cloak hanging in the sealed Magic Item Vault
+- name: Cloak of Many Fashions
+  type: item
+  note: Magic item found on the captain's skeleton in the wreck of the Vainglory (area
+    T12)
+- name: Clockwork Amulet
+  type: item
+  note: Gnome-made magic item stored in the Gnomengarde treasury, given as a reward
+    for rescuing the kings
+- name: Dragon Slayer Sword
+  type: item
+  aliases:
+  - dragon slayer
+  note: Referenced in campaign context; not described in this chapter's text
+- name: Dread Helm
+  type: item
+  note: Magic item stored in the secret vault (area A29)
+- name: Dust of Disappearance
+  type: item
+  note: Magic dust hidden inside a hollowed-out copy of Elvish Idioms in the library
+- name: Elvish Idioms
+  type: item
+  note: Book with hollowed-out pages used to conceal the Dust of Disappearance
+- name: Four-Leaf Clover
+  type: item
+  note: Dobin Noreth's retired racehorse; knows the way to Icespire Hold
+- name: Gauntlets of Ogre Power
+  type: item
+  note: Magic item stored in the secret vault (area A29)
+- name: Goggles of Night
+  type: item
+  note: Magic item found hidden in a sack in area M4 (Wererat Den)
+- name: gold bell
+  type: item
+  note: Conyberry townsfolk's melted-down gold recast as a bell, disguised with copper
+    paint; worth 2,500 gp; hangs in shrine belfry
+- name: Hat of Wizardry
+  type: item
+  note: Gnome-made magic item stored in the kings' bedroom chest; Korboz's personal
+    gift; coveted by Townmaster Harbin Wester
+- name: Holy symbol of Moradin
+  type: item
+  note: Platinum amulet on a gold chain bearing a hammer and anvil, found in the rubble
+    of the former shrine
+- name: Immovable Rod
+  type: item
+  note: Magic rod stored in a magically locked chest in the Magic Item Vault
+- name: Lute of Illusions
+  type: item
+  note: Magic lute found in the northwest sarcophagus of the Adventurers' Sepulcher,
+    buried with a dead bard
+- name: Magick of Gnomengarde
+  type: item
+  note: Shared gnome spellbook on a pedestal in the inventors' workshop; contains
+    seven wizard spells
+- name: Mithral Chain Mail
+  type: item
+  note: Suit of magic chain mail hidden in a secret compartment in Big Al's wardrobe
+- name: mystery key
+  type: item
+  note: unique magic item found in a hidden coffer beneath the altar of fate at the
+    shrine
+- name: Necklace of Fireballs
+  type: item
+  note: 'FACT (provenance): magic item sealed with the dead wizard in the sarcophagus
+    of the Adventurers'' Sepulcher (DIP D7) — a room inside the Dragon Barrow, where
+    Lady Alagondar and Azdraka are interred. Seven beads. Retrieved by VUKRADIN in
+    ch31; he still carries it. FACT (ownership, GM ruling 2026-08-15, ch48): the necklace
+    was LADY ALAGONDAR''S OWN — Boney, who served her in life, attests it on screen
+    ("It belonged to Lady Alagondar", re-transcription l.3232; the Zoom capture garbles
+    this to "I belong to Lady Alagondar"). The DIP D7 sarcophagus is where it was
+    interred and found, not evidence of separate ownership. This strengthens Perrin''s
+    claim if his identity is ever established, and it is the basis of Boney''s objection
+    that the necklace lay in her tomb — not in any family''s hands — when Perrin''s
+    family supposedly lost it to grave robbers. CLAIM (UNVERIFIED, ch46): Ser Kaelen''s
+    note names Perrin Alagondar as the rightful owner — "a quiet Alagondar branch,
+    no title, no army, a family that lost their dead''s belongings to grave robbers
+    a generation ago." Kaelen is relaying a recovery office''s provenance match, not
+    first-hand knowledge; the party has verified nothing. Do not record the grave-robber
+    story as provenance — it is the claim, and the claim and the provenance are different
+    things.'
+- name: Opalescent Conch
+  type: item
+  note: Spellcasting focus taken from Miraal by Moesko; returning it to her cave lays
+    her spirit to rest; worth 250 gp in a city
+- name: Pole of Collapsing
+  type: item
+  note: Gnome-made magic item stored in the Gnomengarde treasury, given as a reward
+    for rescuing the kings
+- name: Potion of Greater Healing
+  type: item
+  note: Carried by Yargath; reward from the patrol encounter
+- name: Potion of Healing
+  type: item
+  note: Sold by Adabra Gwynn for 50 gp; also awarded for dealing with the manticore
+- name: Potion of Invulnerability
+  type: item
+  note: Hidden by Flenz beneath the floor of the Northwest Cave
+- name: Potion of Superior Healing
+  type: item
+  note: Found in a steel coffer in the ruins of the former shrine (area A19)
+- name: Potion of Water Breathing
+  type: item
+  note: Found in the harpies' nest (area T5)
+- name: sending stones
+  type: item
+  note: Pair of matching magic items offered by Dazlyn and Norbus as reward for clearing
+    the temple
+- name: Staff of Birdcalls
+  type: item
+  note: Magic staff hidden by the original wizard in a concealed mantelpiece compartment
+    in the master bedroom
+- name: Wand of Pyrotechnics
+  type: item
+  note: Gnome-made magic item; Gnerkli's personal gift to characters who rescue him
+- name: Wand of Secrets
+  type: item
+  note: Fully charged magic item found in the locked chest aboard the Orca (area T14)
+- name: Anchorites of Talos
+  type: faction
+  aliases:
+  - Anchorite of Talos
+  - Talosian cleric
+  - cleric
+  note: Cult of Talos worshippers operating in Neverwinter Wood; planted the totem
+    to destroy the loggers' camp
+- name: DMs Guild
+  type: faction
+  note: online marketplace for D&D adventures published by Wizards of the Coast and
+    third parties
+- name: Harpers
+  type: faction
+  note: Scattered network of adventurers and spies who oppose abuse of power and aid
+    the weak; Sister Garaele is a member
+- name: Lionshields
+  type: faction
+  note: Merchant company based in Yartar that ships finished goods to Phandalin and
+    other small settlements
+- name: priest-seers
+  type: faction
+  note: order of Savras-worshipping seers who tended the shrine; all slaughtered in
+    the barbarian siege
+- name: Stone-Cold Reavers
+  type: faction
+  note: Neutral evil human mercenary band who infiltrated Icespire Hold seeking Cryovain's
+    nonexistent hoard
+- name: Whiskered Gang
+  type: faction
+  note: Band of wererats that has taken over Mountain's Toe Gold Mine, led by Zeleen
+    Varnaster
+- name: Zhentarim
+  type: faction
+  note: Shadowy organization seeking secret control of the North through wealth and
+    influence; Halia Thornton is a local agent
+- name: barbarian attack on Conyberry
+  type: event
+  note: historical attack foreseen by the shrine's priest-seers, driving townsfolk
+    to the shrine where they were later slaughtered
+- name: Counterattack
+  type: event
+  note: Day-after assault on Falcon's Hunting Lodge led by Gorthok the Thunder Boar
+    and twenty orcs, triggered by the party's raid on the manse
+- name: Dragonchess
+  type: event
+  note: Board game, pieces found scattered in the common room
+- name: Eruption of Mount Hotenow
+  type: event
+  note: Volcanic disaster that devastated Neverwinter and set off its ongoing rebuilding
+    effort
+- name: Mountain's Toe Quest
+  type: event
+  note: Quest in which adventurers encounter Don-Jon Raskin
+- name: Tenday
+  type: event
+  note: In-world calendar unit in the Forgotten Realms; a ten-day week; three tendays
+    make one month
+- name: Three-Dragon Ante
+  type: event
+  note: Playing card game, cards found scattered in the common room
+- name: Umbrage Hill Quest
+  type: event
+  note: Quest to check on Adabra Gwynn's safety and obtain her note for Harbin Wester
+- name: War of the Giants
+  type: event
+  note: Referenced obliquely via the old Phandalin being laid waste by an orc horde
+    centuries ago (distinct from the campaign-specific War of the Giants in the Phandalin
+    homebrew)
+- name: Wererat Lycanthropy
+  type: event
+  note: Curse passed by wererat bite that transforms the victim on nights of the full
+    moon
+- name: When Orcs Attack
+  type: event
+  note: Encounter event in which orcs driven from their territory by Cryovain arrive
+    at the excavation seeking a new lair
+- name: Wild Magic
+  type: event
+  note: Persistent magical phenomenon originating from Gnomengarde's founding settlers;
+    triggers random effects when spells are cast anywhere in the complex
+- name: Woodland Manse Quest
+  type: event
+  note: Quest offered at Falcon's lodge; reward is a pair of Boots of Elvenkind
+- name: Aletra Sotorra
+  type: npc
+  note: Valphine's sister; on-screen agent of cosmic entity KP; first documented direct
+    intervention against Neverwinter was the Displacement Manifold ultimatum to the
+    Commission
+- name: Arlon Bladeshapper
+  type: npc
+  note: Leader of the Nashers (Sons of Alagondar), claims descent from one of the
+    Neverwinter Nine, seeks the Crown to prove legitimacy
+- name: Gommoth
+  type: npc
+  aliases:
+  - King of Hotenow
+  note: Fire giant who leads a sect of fire-worshipping creatures and has proclaimed
+    himself king of Mount Hotenow
+- name: Grand Scribe Spivey Liethennson
+  type: npc
+  note: Stern, iron-fisted overseer of the House of Knowledge's reconstruction
+- name: Harrag
+  type: npc
+  aliases:
+  - Captain Harrag
+  note: One-legged former pirate captain, owner of the Beached Leviathan, Neverember
+    loyalist with his shadow converted into a spy creature
+- name: Len-jes
+  type: npc
+  aliases:
+  - Harbormaster
+  note: Actual harbormaster of Neverwinter; watersoul genasi; semi-regular at the
+    Beached Leviathan
+- name: Liset Cheldar
+  type: npc
+  note: Half-elf proprietor of the Moonstone Mask; friendly and openly flirtatious,
+    ownership claim ambiguous but politically accepted by Neverember
+- name: Madame Rosene
+  type: npc
+  note: ~70-year-old owner of the Driftwood Tavern; formerly secret leader of the
+    Sons of Alagondar (Graycloaks); fount of Neverwinter political history
+- name: Mordai Vell
+  type: npc
+  note: Leader of the Ashmadai cell in Bluelake; inherited Vellgard Manor after the
+    1451 DR cataclysm
+- name: Rsolk
+  type: npc
+  note: One-eyed wererat leader of the Dead Rats thieves' guild, uses Neverwinter
+    as a Sword Coast criminal hub
+- name: Soman Galt
+  type: npc
+  aliases:
+  - Mayor Soman Galt
+  note: Dwarf Mayor of the Protector's Enclave; Aboleth Sovereignty puppet serving
+    as a lever inside the Commission's administrative layer
+- name: Valindra Shadowmantle
+  type: npc
+  note: One of the five adventurers who awakened Maegera at Gauntlgrym, triggering
+    the cataclysm; remained active in Neverwinter from the shadows of the graveyard
+- name: Vagdru One-Ear
+  type: npc
+  note: Many-Arrows orc who restored the Fallen Tower as a neutral-ground tavern under
+    agreement with Neverember
+- name: Brewbarry
+  type: npc
+  note: Goliath barbarian (Phandalin party); unwilling authentic center of the Exile
+    Aesthetic
+- name: Vukradin
+  type: npc
+  aliases:
+  - Bard
+  note: Bard (Phandalin party); Exile Aesthetic's unwilling authentic center; structural
+    receiver for the Counterforce; subject of Commission studio offer
+- name: Bimble Nackle
+  type: npc
+  note: Gnome maintenance technician who serviced the Displacement Manifold; disappeared
+    after approaching discovery that the failure was political; currently hiding in
+    Neverwinter's lower docks district [GM-only location]. Name revealed to the party
+    on-screen by Cullen Sharpe, ch48 (2026-08-18); the name is party knowledge from
+    that point. The KP-retaliation mechanism behind his disappearance remains GM-only,
+    as does the fact that he is NOT KP.
+- name: Corrin
+  type: npc
+  note: Manifested counterweight to KP alongside Rimardo; Savras's instrument; part
+    of the Counterforce
+- name: Rimardo
+  type: npc
+  note: Manifested counterweight to KP; Savras's instrument; part of the Counterforce
+    operating through individuals rather than institutions
+- name: Favria
+  type: npc
+  note: Dwarf leader of the power-hungry internal sect of the Ashmadai; runs a faction
+    of loyal thugs
+- name: Gromph Baenre
+  type: npc
+  note: Drow of the First House of Menzoberranzan; his spell weakened planar bonds
+    between the Abyss and Toril, unleashing the demon lords into the Underdark
+- name: Iymrith
+  type: npc
+  aliases:
+  - the Desert Wind
+  note: Ancient blue dragon and true architect of the War of the Giants; engineered
+    disruption of the Ordning; escaped to Avernus rather than being defeated [Campaign
+    Canon]
+- name: Jawbone
+  type: npc
+  note: Thay lieutenant last spotted near the eastern Enclave; summons undead when
+    confronted
+- name: Severin
+  type: npc
+  note: Leader of the Cult of the Dragon who attempted to manifest Tiamat in the mortal
+    realm; defeated at the war's end
+- name: Talgath
+  type: npc
+  aliases:
+  - Beholder Talgath
+  note: Beholder controlling a portion of Castle Never's interior, contesting Thayan
+    forces
+- name: Zariel
+  type: npc
+  note: used Severin and the Cult of the Dragon as her loophole to expel Tiamat from
+    Avernus
+- name: Elden Vargas
+  type: npc
+  note: War Wizard from Cormyr who drove Neverwinter's populace into madness in a
+    plot involving his wife's captivity by Ashmadai cultists
+- name: Seldra Tylmarande
+  type: npc
+  note: Used a replica Crown of Neverwinter in a male disguise to falsely claim the
+    throne in 1479 DR; plot failed
+- name: Andrella
+  type: npc
+  aliases:
+  - Mate
+  note: Lead barmaid at the Beached Leviathan, Harrag's right hand, harbors unrequited
+    love for the Captain
+- name: Atlavast
+  type: npc
+  note: Young Loremaster who sealed himself in the House of Knowledge's inner sanctum
+    during Mount Hotenow's eruption; emerged reclusive and paranoid
+- name: Baern Broodfist
+  type: npc
+  aliases:
+  - Reckoning
+  note: Dwarven marksman devoted to Helm; named contact at the Order of the Gauntlet
+    outpost
+- name: Bellows
+  type: npc
+  note: Warforged waiter at the Board Laid Bare
+- name: Bobrik Highmantle
+  type: npc
+  aliases:
+  - Bosun
+  note: Stout dwarf regular at the Beached Leviathan with a pet monkey; fiery temper;
+    periodically banned
+- name: Borrim Pickwhistle
+  type: npc
+  note: 'Publisher (imprint) of the Stroudite pamphlet ''Stroud and the Human Agency
+    Hypothesis: A Critique'''
+- name: Brimine
+  type: npc
+  note: Red-skinned female tiefling; runs the Grand Emporium exotic pet shop; kind-hearted,
+    talks to animals
+- name: Ettain
+  type: npc
+  aliases:
+  - Caulker
+  note: Half-elf handyman at the Beached Leviathan; skilled carpenter who knows every
+    inch of the ship including its secrets
+- name: Feng
+  type: npc
+  note: Bouncer at the Beached Leviathan; very large half-orc
+- name: Hazel
+  type: npc
+  note: Cheerful female human alchemist working to restore Bluelake; runs the Alchemist's
+    Lab
+- name: Horst
+  type: npc
+  note: Older human male running The Flickering Ember as a front for Nasher weapon-laundering;
+    harbors vendetta against Valanthe
+- name: Korin
+  type: npc
+  aliases:
+  - Chanteyman
+  note: Middle-aged dragonborn bard at the Beached Leviathan; family killed by cultists
+- name: Last Many-Arrows Scout
+  type: npc
+  aliases:
+  - Many-Arrows Orc
+  note: Unnamed orc at the Port Crevice on a covert scouting mission for his clan;
+    doesn't want war, wants proof Neverwinter can be taken
+- name: Lim
+  type: npc
+  note: Older female Tortle chef running the Board Laid Bare; no apparent owner known
+- name: Markul
+  type: npc
+  aliases:
+  - Lookout
+  note: Young human regular at the Beached Leviathan who listens and sells secrets,
+    but not at the Leviathan's expense
+- name: Tabnab
+  type: npc
+  note: Cook at the Beached Leviathan; oddball human
+- name: Umi
+  type: npc
+  aliases:
+  - Helmswoman
+  note: Watersoul genasi, Len-jes's cousin, combat-capable backup at the Beached Leviathan
+- name: Yevelda
+  type: npc
+  note: Half-orc paladin of Tyr; Order of the Gauntlet contact for the Masonry quest
+- name: Elara Seasong Meliamne
+  type: npc
+  note: Killed by House Margaster approximately 8 days before the party arrives in
+    Neverwinter (session Ch. 46); date to be confirmed
+- name: Aganazzar
+  type: npc
+  note: One of the four founding wizards of the School of Wizardry (the Covenant);
+    slain by Red Wizards in 1081 DR
+- name: Bann Alagondar
+  type: npc
+  note: Son of Nasher Alagondar; founded the Alagondar royal family upon Nasher's
+    death
+- name: Escarlotta
+  type: npc
+  note: Owner of a cloud castle from which Unla Key ran the Liberators of the Ordning's
+    operations during the War of the Giants
+- name: General Sabine
+  type: npc
+  note: Neverwinter military leader who helped save the Beached Leviathan during the
+    1479 DR succession conflict
+- name: Glazhael
+  type: npc
+  note: White dragon associated with Whistler's mythologized 'death'
+- name: Grimwald
+  type: npc
+  note: One of the four founding wizards of the School of Wizardry (the Covenant)
+- name: Halueth Never
+  type: npc
+  aliases:
+  - Lord Halueth Never
+  note: Sun elf, settled the area around -10 DR and began construction of Castle Never
+    during his conquest of Illusk
+- name: Ilyykur
+  type: npc
+  note: One of the four founding wizards of the School of Wizardry (the Covenant)
+- name: Konstantinious the 12th
+  type: npc
+  aliases:
+  - the Great Sage Konstantinious the 12th
+  note: Great Sage whose excerpt is the primary narrative source for the NeverwinterExpansionismandtheNorth
+    document
+- name: Lady Jasmine
+  type: npc
+  note: Selûnite priestess who aided in purifying the Shard of Night into the Shard
+    of the Moon in 1479 DR
+- name: Laela
+  type: npc
+  note: Person rescued by Thistle during the War of the Giants
+- name: Llomnauvel Oloadhin
+  type: npc
+  aliases:
+  - Firehands
+  - Llomnauvel "Firehands" Oloadhin
+  note: Wizard who owned the Fallen Tower; destroyed it rather than let the Arcane
+    Brotherhood take his collection
+- name: Lord Nasher Alagondar
+  type: npc
+  aliases:
+  - Nasher
+  - Nasher Alagondar
+  note: Former ruler of Neverwinter; the Many-Starred Cloak wizards served under his
+    reign
+- name: Maegera
+  type: npc
+  note: Primordial awakened at Gauntlgrym in 1451 DR, causing Mount Hotenow to erupt
+    and devastating Neverwinter
+- name: Malfire
+  type: npc
+  aliases:
+  - the Vindicator of Nature
+  - the Winterstalker
+  note: Ranger of the First Faction who convinced the Emerald Enclave to join the
+    War of Dragons alongside treants and metallic dragons
+- name: Milo Goodbarrel
+  type: npc
+  note: Halfling cleric of Bahamut and Order of the Gauntlet member; renowned war
+    participant and author of multiple published accounts of the War of Dragons; painted
+    the iconic First Faction image
+- name: Ophala Cheldarstorn
+  type: npc
+  note: Mage, founder of the Moonstone Mask and member of the Many-Starred Cloak;
+    created the magical masks and amulets still in use
+- name: Orsik
+  type: npc
+  note: Mountain dwarf fighter and artificer, commander of Parnast militia; member
+    of the Liberators of the Ordning; voluntarily left the Headband of Intellect behind
+    and returned to Parnast as guard captain
+- name: Palarandusk
+  type: npc
+  note: Gold dragon who defended Neverwinter for centuries until adventurers attacked
+    his lair in 940 DR and he fled
+- name: Pow
+  type: npc
+  note: Member of the Liberators of the Ordning; operates the Kee and Wing Casino
+    (formerly the Grand Dame) in Yartar
+- name: Presper
+  type: npc
+  note: One of the four founding wizards of the School of Wizardry (the Covenant)
+- name: Protanther
+  type: npc
+  note: Ancient gold dragon who publicly conceded the chess game to Stroud, committing
+    the metallic dragons to the alliance against Tiamat
+- name: Rishaal the Pageturner
+  type: npc
+  note: Bookseller in Waterdeep who keeps Milo Goodbarrel's published accounts in
+    continuous reprint
+- name: Serissa
+  type: npc
+  aliases:
+  - Princess Serissa
+  note: Storm giant princess whose claim the Liberators of the Ordning supported
+- name: Stroud
+  type: npc
+  note: Dwarven rogue of the First Faction; won the metallic dragon alliance through
+    a chess gambit against Protanther; now a folkloric philosophical figure
+- name: Unla Key
+  type: npc
+  note: Lightfoot halfling wizard and diviner of the Liberators of the Ordning; convinced
+    he decoded the end of the universe; ran operations from Escarlotta's cloud castle
+- name: Vardis
+  type: npc
+  note: Wood elf cleric of Corellon (Light Domain), exiled from every temple; member
+    of the Liberators of the Ordning; returned with Orsik to Parnast and knows the
+    full circlet secret
+- name: Valanthe
+  type: npc
+  note: Young drow sorcerer who seduced and robbed Horst in his merchant days, then
+    vanished
+- name: Whistler
+  type: npc
+  aliases:
+  - the Ardragon
+  - the Shadow Werebear
+  note: Kenku member of the First Faction, mythologized across three competing registers;
+    associated with the white dragon Glazhael's lair
+- name: Asmodeus
+  type: deity
+  note: Archdevil worshipped or feared by the Ashmadai cult, whose members bear a
+    brand on their chests
+- name: Bahamut
+  type: deity
+  note: Dragon deity worshipped by Milo Goodbarrel (cleric) and the Order of the Gauntlet
+- name: Corellon
+  type: deity
+  note: Elven deity; Vardis is a cleric of Corellon (Light Domain), exiled from every
+    temple for theological flexibility
+- name: Helm
+  type: deity
+  note: God of protection; one of the patron deities of the Order of the Gauntlet
+- name: Hoar
+  type: deity
+  note: God of retribution; one of the patron deities of the Order of the Gauntlet
+- name: Lathander
+  type: deity
+  aliases:
+  - Morninglord
+  note: Dawn deity; Valphine Sotorra became a devoted follower after her religious
+    experience with sunlight on the surface
+- name: Lolth
+  type: deity
+  note: Spider goddess, trapped in a demi-plane as part of a multi-century plan; her
+    pawn Gromph Baenre's spell inadvertently triggered the Out of the Abyss crisis
+- name: Myrkul
+  type: deity
+  note: God of death; active in the North (Dragon of Icespire Peak canon), potential
+    architect of undead presence at Pirates' Skyhold
+- name: Oghma
+  type: deity
+  note: God of knowledge; primary deity of the House of Knowledge, Neverwinter's great
+    library
+- name: Selûne
+  type: deity
+  note: Moon goddess who intervened in 1479 DR by sending shards to Toril, enabling
+    the purification of the Shard of Night
+- name: Torm
+  type: deity
+  note: God of duty; temporary priesthood installed in the Hall of Justice by Neverember
+    during Tyr's absence
+- name: Tyr
+  type: deity
+  note: God of justice; primary deity of the Hall of Justice; died in the late 1300s
+    DR and was later resurrected
+- name: Captain's Cabin
+  type: location
+  note: Harrag's private quarters, above deck on the Beached Leviathan
+- name: The Deck
+  type: location
+  note: Third level of the Beached Leviathan; private parlor rooms available for hire
+- name: The Hold
+  type: location
+  note: First level of the Beached Leviathan; kitchen and main tavern
+- name: The Quarters
+  type: location
+  note: Second level of the Beached Leviathan; 12 inn rooms for rent
+- name: Alchemist's Lab
+  type: location
+  note: Hazel's lab located between The Tatters and the Lakeside area; cheerful exception
+    in the grim district
+- name: House of a Thousand Faces
+  type: location
+  note: Tavern built in a former noble boutique; mirrors and mannequins throughout;
+    basement serves as the Harper chapter's secret meeting place
+- name: Nasher Warehouse
+  type: location
+  note: Main Nasher headquarters in Bluelake; disguised as a stone-and-wood warehouse;
+    connects via tunnel to The Flickering Ember
+- name: Neverdeath
+  type: location
+  note: Graveyard district where undead began rising after the Spellplague; residents
+    eventually stopped burying dead and burned them instead
+- name: The Beached Leviathan
+  type: location
+  aliases:
+  - Beached Leviathan
+  note: 3-tiered tavern built around the wreckage of the pirate ship Leviathan; frequented
+    by criminals, smugglers, and sailors
+- name: The Chasm District
+  type: location
+  note: Former giant canyon in the southeastern quarter of Neverwinter; sealed with
+    powerful magic by Neverember; now open land for settlers
+- name: The Flickering Ember
+  type: location
+  note: General goods shop run by Horst as a front for Nasher weapon-laundering; hidden
+    passage connects to the Nasher Warehouse
+- name: The Sewers
+  type: location
+  note: Unmapped sewer system beneath Bluelake; home to the Dead Rats wererat gang
+    and their hidden stolen-goods vault
+- name: The Tatters
+  type: location
+  note: Residential area controlled by Nasher rebels; serves as their primary living
+    quarters
+- name: Vellgard Manor
+  type: location
+  note: Headquarters of Mordai Vell's Ashmadai cell; large 3-story stone building
+    with gates and inner wall
+- name: Atrium
+  type: location
+  note: Interior chamber boarded to keep out sunlight; currently infested with territorial
+    Myconids
+- name: Dolphin Bridge
+  type: location
+  note: One of three bridges radiating from Castle Never's circular rock over the
+    Neverwinter River
+- name: Hall of Mirrors
+  type: location
+  note: Long hall where nobility once practiced gait; magically recreates its own
+    destruction to attack intruders
+- name: Neverneath
+  type: location
+  note: Magically protected catacombs beneath Castle Never; gained malevolent sentience
+    after the Spellplague and reshapes corridors at will
+- name: Sleeping Dragon Bridge
+  type: location
+  note: One of three bridges radiating from Castle Never's circular rock over the
+    Neverwinter River
+- name: The Holes
+  type: location
+  note: the dungeons; houses high-crime convicts with daily executions
+- name: Vault of the Nine
+  type: location
+  note: Tomb of the Neverwinter Nine in the depths of Castle Never; rumored resting
+    place of the Crown of Neverwinter
+- name: Winged Wyvern Bridge
+  type: location
+  note: One of three bridges radiating from Castle Never's circular rock over the
+    Neverwinter River
+- name: Lylorn
+  type: location
+  note: City whose merchants recently set up a trade route through Luskan, rivaling
+    the Tarmalune cartel
+- name: Sword Coast North
+  type: location
+  note: Regional context for Neverwinter's harbor, one of few on this stretch of coast
+- name: Tarmalune
+  type: location
+  note: Distant city whose trade cartel operates the Tarmalune Trade House in Neverwinter
+- name: Xinlenal
+  type: location
+  note: Netherese location powered by shadow energy teleported from the Shard of Night
+- name: Blacklake
+  type: location
+  note: Lake filled with ash from the cataclysm; dredged and renamed Bluelake by Neverember;
+    Aboleth Sovereignty maintains presence beneath it via water column
+- name: Blacklake District
+  type: location
+  note: District where New Neverwinter places the Beached Leviathan (Guide to Neverwinter
+    places it in the Docks)
+- name: Blue Lake
+  type: location
+  note: Body of water beneath which the Aboleth Sovereignty is active
+- name: Bluelake District
+  type: location
+  note: Formerly Blacklake District; former noble estate quarter, now dominated by
+    shadow factions and nightly criminal activity
+- name: Castle Never
+  type: location
+  note: Ancient castle begun by Halueth Never; gained malevolent sentience and corridor-reshaping
+    ability after the Spellplague; ruined by the cataclysm
+- name: Chasm
+  type: location
+  note: Massive rift opened in the southeastern quarter by the cataclysm, plunging
+    into a Spellplague-infected section of the Underdark; magically sealed in 1485–1486
+    DR
+- name: Eigersstor
+  type: location
+  note: Original name of the settlement founded in 87 DR around Castle Never; later
+    translated to Chondathan as Neverwinter
+- name: Hall of Justice
+  type: location
+  note: Major building in the Protector's Enclave; antechamber holds a bronze relief
+    of Stroud's chess gambit; Order of the Gauntlet chapter holds Milo Goodbarrel's
+    volumes and the First Faction painting
+- name: Harbor authority
+  type: location
+  note: Commission sub-body controlling the port; connected to House Margaster's relationship
+    with the Commission
+- name: Neverwinter Docks
+  type: location
+  note: Active commercial port district, 24-hour operation, earthmotes still visible
+    overhead
+- name: Neverwinter River
+  type: location
+  note: River flowing through Neverwinter; never freezes due to heat from fire elementals
+    beneath Mount Hotenow
+- name: Protector's Enclave
+  type: location
+  note: District of Neverwinter; home of the market district, the Hall of Justice,
+    and the carved stone plaque commemorating the giant-mortal alliance
+- name: River District
+  type: location
+  note: District that declined, causing older merchants to relocate to the Seven Suns
+    Coster Market
+- name: School of Wizardry
+  type: location
+  note: Founded in 457 DR by the Covenant (Aganazzar, Ilyykur, Presper, Grimwald);
+    destroyed by Red Wizards in 1081 DR
+- name: Shard of the Moon
+  type: location
+  note: Purified form of the Shard of Night after Selûnite intervention; alabaster
+    white with a moonlight stairway that descends when three shards are placed within
+    or below it
+- name: Tower District
+  type: location
+  note: Formerly wizard-tower-rich merchant district; seized by Many-Arrows orcs post-cataclysm,
+    now considered cursed
+- name: Upland Rise
+  type: location
+  note: Area logged on Neverember's orders to supply timber for rebuilding the Docks
+- name: Driftwood Tavern
+  type: location
+  note: Three-story tavern decorated with pre-destruction Neverwinter relics; operates
+    since before the Spellplague; Greycloaks meet in its basement
+- name: Port Crevice
+  type: location
+  note: Dockside tavern managed by an unnamed young gnome; popular with sailors; harbors
+    the last Many-Arrows orc scout
+- name: Tarmalune Trade House
+  type: location
+  note: Large warehouse complex on the southern docks operated by a Tarmalune trade
+    cartel
+- name: Displacement Manifold
+  type: location
+  aliases:
+  - Planar Manifold
+  note: Planar routing device built and operated by the Commission at Neverwinter's
+    docks as a commercial distribution service; went dark after the Commission refused
+    Aletra's treaty ultimatum
+- name: Helm's Hold
+  type: location
+  note: Location associated with the Elden Vargas incident in 1479 DR
+- name: Avernus
+  type: location
+  note: First layer of the Nine Hells; co-residence of Tiamat and Zariel; where Iymrith
+    fled after escaping the War of the Giants
+- name: Calling Horn
+  type: location
+  note: Settlement obliterated during the Uthgardtian barbarian uprising in the War
+    of the Giants
+- name: Gauntlgrym
+  type: location
+  note: Ancient dwarven city beneath the North where adventurers awakened the primordial
+    Maegera in 1451 DR, triggering Mount Hotenow's eruption
+- name: High Forest
+  type: location
+  note: Forest region where wood elves and rangers speak of Malfire as a protective
+    presence
+- name: Mirabar
+  type: location
+  note: City with villages on its outskirts pillaged during the Uthgardtian uprising
+- name: Parnast
+  type: location
+  note: Town where Orsik returned as guard captain after the War of the Giants; Vardis
+    returned with him; setting for future player-character reunions
+- name: Silverymoon
+  type: location
+  note: Major city of the North; Liberators of the Ordning are minor celebrities there;
+    pillaged on its outskirts during the Uthgardtian uprising
+- name: Pirates' Skyhold
+  type: location
+  note: Abandoned pirate base on a floating earthmote northwest of Neverwinter; site
+    of a mysterious tragedy, rumored hoard intact
+- name: Grand Emporium
+  type: location
+  note: Exotic pet shop run by tiefling Brimine; stocks normal, rare, and magical
+    creatures
+- name: Hall of Justice Vaults
+  type: location
+  note: Subterranean vaults, crypts, and storage chambers beneath the Hall of Justice;
+    believed haunted; contains remains of honored nobles and heroes
+- name: House of Knowledge
+  type: location
+  note: Primary temple to Oghma and Neverwinter's great library; holds centuries of
+    records, rare tomes, artifacts, and government documentation
+- name: Manycoins Bank
+  type: location
+  note: Modest stone building with an arched entrance; one of the commercial institutions
+    of the Enclave
+- name: Order of the Gauntlet Outpost
+  type: location
+  note: Faction outpost in the Enclave offering intelligence and quest work for parties
+    with good intentions
+- name: Seven Suns Coster Market
+  type: location
+  note: City's main market hub; where older merchants relocated after the River District's
+    decline
+- name: The Gambit
+  type: location
+  note: Tavern in the Protector's Enclave market district named after Stroud's chess
+    gambit
+- name: The Ironclad Defense
+  type: location
+  note: Plain stone recruitment building where Neverember is building Neverwinter's
+    new city watch to replace the Mintarn Mercenaries
+- name: Moonstone Mask
+  type: location
+  note: Upscale tavern accessible via teleporter from the Enclave; popular tourist
+    destination; located on a floating earthmote
+- name: Yhaunn
+  type: location
+  note: City over a thousand miles from Neverwinter where Moonshadow Hall originally
+    stood
+- name: Fisher's Float
+  type: location
+  note: Floating earthmote southwest of Neverwinter; home to an insular fishermen's
+    guild with rumors of a sea-pact with evil entities
+- name: Illusk
+  type: location
+  note: Territory conquered by Halueth Never around -10 DR, during which he settled
+    the Neverwinter area
+- name: Board Laid Bare
+  type: location
+  note: Mysteriously cheap ownerless restaurant run by Lim and Bellows; no alcohol;
+    prices unexplained
+- name: Cloak Tower
+  type: location
+  note: Tower that vanished entirely during the Spellplague (sent to the Far Realm
+    with all wizards inside); returned months later empty
+- name: Fallen Tower
+  type: location
+  note: Ruins of Oloadhin's destroyed wizard tower, now a neutral-ground tavern run
+    by Vagdru One-Ear
+- name: Shard of Night
+  type: location
+  note: Floating Netherese tower positioned over Neverwinter, absorbing shadow to
+    power teleportation to Xinlenal; purified into the Shard of the Moon in 1479 DR
+- name: Menzoberranzan
+  type: location
+  note: Drow city; First House is House Baenre; influence collapsed after the Out
+    of the Abyss crisis
+- name: Grand Dame
+  type: location
+  note: Former name of the Kee and Wing Casino in Yartar
+- name: Kee and Wing Casino
+  type: location
+  note: Casino operated by Pow (formerly the Grand Dame)
+- name: Moonshadow Hall
+  type: location
+  note: Location attacked by the Shadovar in 1379 DR; one of its towers was torn away
+    and sent to the Shadowfell, eventually becoming the Shard of Night
+- name: Abyss
+  type: concept
+  note: Planar source of the demon lords who entered the Underdark when Gromph Baenre's
+    spell weakened the planar bonds
+- name: Far Realm
+  type: concept
+  note: Plane to which the Cloak Tower and all wizards inside it were sent during
+    the Spellplague in 1385 DR
+- name: Material Plane
+  type: concept
+  note: Prime material realm where the Shard of the Moon's history unfolds
+- name: Plane of Fire
+  type: concept
+  note: Elemental plane; source of the small fire elemental cat sold at the Grand
+    Emporium, found near Mount Hotenow
+- name: Shadowfell
+  type: concept
+  note: Plane to which the Shadovar sent a tower from Moonshadow Hall, eventually
+    becoming the Shard of Night over Neverwinter
+- name: Boots of Flying
+  type: item
+  note: Magic boots worn by Whistler; allow a kenku to hover, preserved in every iconographic
+    reference to him
+- name: Crown of Alagondar
+  type: item
+  note: Disputed succession artifact that triggered conflict at the Beached Leviathan
+    in 1479 DR
+- name: Crown of Neverwinter
+  type: item
+  note: a false heir is burned by frost and fire
+- name: Death Knight-Dreadnaught
+  type: item
+  note: Named undead warship rumored to be anchored below the Pirates' Skyhold earthmote;
+    tied to Myrkul's presence in the North
+- name: Faerzress
+  type: item
+  note: Naturally occurring magical substance of the Underdark; Gromph Baenre's spell
+    attempted to give the Drow control of it but instead weakened planar bonds to
+    the Abyss
+- name: Halavar's Universal Pantograph
+  type: item
+  note: Named magical item created by the Many-Starred Cloak order; referenced as
+    evidence of the order's enchantment style connecting to the Moonstone Mask's staff
+    equipment
+- name: Headband of Intellect
+  type: item
+  note: Magic item carried by Orsik during the War of the Giants that made him the
+    group's tactician; he voluntarily left it behind after the war [Campaign Canon]
+- name: Leviathan
+  type: item
+  note: Infamous pirate vessel captained by Harrag that ran aground in Neverwinter
+    and became a tavern
+- name: Neverember's lion sign
+  type: item
+  note: Neverember's heraldic device displayed throughout Protector's Enclave as a
+    symbol of his rule
+- name: Aboleth Sovereignty
+  type: faction
+  note: Aboleth faction maintaining presence beneath Bluelake via water column; surface
+    agent is Mayor Soman Galt; 'eyes' in lake sludge suggest active observation
+- name: Alagondar
+  type: faction
+  note: Ruling lineage of Neverwinter killed in the 1451 DR cataclysm; their spirits
+    haunt Castle Never
+- name: Alagondar royal family
+  type: faction
+  note: Royal line of Neverwinter founded by Bann Alagondar; Neverember falsely claims
+    descent from this line
+- name: Arcane Brotherhood
+  type: faction
+  note: Rival wizard organization that attacked Oloadhin's tower seeking his magical
+    collection
+- name: Ashmadai
+  type: faction
+  note: Devil-worshipping cult that occupied outer sections of the House of Knowledge
+    during the chaos following the cataclysm
+- name: City Militia
+  type: faction
+  note: Harbor patrol force focused on preventing hostile ships from docking; otherwise
+    permissive
+- name: Counterforce
+  type: faction
+  note: Savras's manifested counterweight to KP; operates through individuals (Rimardo
+    and Corrin); routes through personal heroic figures with Vukradin as the structural
+    receiver
+- name: Cult of the Dragon
+  type: faction
+  note: Cult led by Severin that attempted to manifest Tiamat; true architect behind
+    them was Zariel
+- name: Dead Rats
+  type: faction
+  note: Wererat gang led by Rsolk operating in the sewers beneath Bluelake; conducts
+    night raids and theft
+- name: Emerald Enclave
+  type: faction
+  note: Druidic faction convinced by Malfire to join the War of Dragons alongside
+    treants and metallic dragons
+- name: Exile Aesthetic
+  type: faction
+  note: Tribal-coded youth culture in Neverwinter; grassroots assertion that the war's
+    real meaning was carried by people outside the institutional framework; Brewbarry
+    is its unwilling authentic center; structurally equivalent to Stroudism arrived
+    at through culture
+- name: First Faction
+  type: faction
+  note: Informal name for the four heroes (Stroud, Milo Goodbarrel, Malfire, Whistler)
+    whose combined action clinched the metallic dragon alliance and ended Tiamat's
+    summoning
+- name: Greycloaks
+  type: faction
+  note: Conservative, non-violent faction of the Sons of Alagondar; led by Madame
+    Rosene; meet in the Driftwood Tavern basement
+- name: House Margaster
+  type: faction
+  note: Noble house that stepped in to fill the distribution gap after the Manifold
+    went dark; has relationship with the Commission's Harbor authority; killed Elara
+    Seasong Meliamne
+- name: Liberators of the Ordning
+  type: faction
+  note: Informal name for the adventuring party (Vardis, Orsik, Unla Key, Thistle,
+    Pow) that freed Hekaton and negotiated the giant-mortal alliance
+- name: Lord's Alliance
+  type: faction
+  note: Political alliance of major Northern cities; mobilized against Tiamat; Hekaton
+    formally allied with them ending the War of the Giants; manages Orsik as an institutional
+    symbol
+- name: Many-Arrows
+  type: faction
+  note: Orc clan that previously occupied Neverwinter; last scout covertly present
+    at the Port Crevice scouting for invasion opportunity
+- name: Many-Starred Cloak
+  type: faction
+  aliases:
+  - Many-Starred Cloaks
+  note: Wizard order based in the Tower District whose tower is now a dungeon; Ophala
+    Cheldarstorn was a member and created the Mask's magical equipment
+- name: Mintarn Mercenaries
+  type: faction
+  note: Mercenary forces that held power in Neverwinter; Sons of Alagondar stood down
+    partly to prevent them from controlling the military
+- name: Nashers
+  type: faction
+  note: Faction of the Sons of Alagondar; seeking proof related to the Neverwinter
+    Nine
+- name: Neverember's Watch
+  type: faction
+  note: Neverwinter's city watch; conducts overt patrols and covert monitoring; deliberately
+    never intervenes at the Leviathan
+- name: Neverwinter Commission
+  type: faction
+  note: Administrative and commercial apparatus of reconstruction established by Neverember
+    in 1467 DR; quasi-sovereign commercial entity controlling salvage rights, Harbor
+    authority, commercial licensing, and hinterland expansion
+- name: Neverwinter Nine
+  type: faction
+  note: Referenced as something the Nashers are seeking proof of; elite historical
+    group connected to old Neverwinter
+- name: Order of the Gauntlet
+  type: faction
+  note: Paladin/cleric martial order; Milo Goodbarrel is a renowned member; chapter
+    in Neverwinter at the Hall of Justice holds the First Faction painting
+- name: Red Wizards of Thay
+  type: faction
+  note: Thayan magical faction that aided orc hordes in the Orcgates Affair (955 DR)
+    and slew Aganazzar / destroyed the School of Wizardry (1081 DR); centuries-long
+    feud with Neverwinter
+- name: Selûnites
+  type: faction
+  note: Priestesses of Selûne who aided Lady Jasmine in purifying the Shard of Night
+    in 1479 DR
+- name: Shadovar
+  type: faction
+  note: Netherese dwellers of the Shadowfell; attacked Moonshadow Hall in 1379 DR
+    and positioned the Shard of Night over Neverwinter
+- name: Sons of Alagondar
+  type: faction
+  note: Rebel faction that opposed Neverember's rule; led secretly by Madame Rosene;
+    made peace and many members enlisted in Neverwinter's army
+- name: Stroudite movement
+  type: faction
+  note: is the force that determines history; circulates the Borrim Pickwhistle pamphlet
+    across the Sword Coast
+- name: Sword Coast Metalworkers' League
+  type: faction
+  note: Guild that donated the bronze relief of Stroud's chess gambit to the Hall
+    of Justice antechamber
+- name: Tarmalune Trade Cartel
+  type: faction
+  note: Trade organization from Tarmalune operating the Trade House on the southern
+    docks, competing against Lylorn merchants
+- name: Thay
+  type: faction
+  note: Necromantic nation with operatives in Neverwinter; linked to Jawbone and undead
+    disturbances at Neverdeath
+- name: Thayan Forces
+  type: faction
+  note: Necromancer forces under Valindra Shadowmantle occupying a portion of Castle
+    Never
+- name: The Ashmadai
+  type: faction
+  note: Secretive Asmodeus-worshipping society with members in every Neverwinter organization;
+    long game is to replace Neverember with a puppet in Neverwinter and Waterdeep
+- name: the Covenant
+  type: faction
+  note: Collective name for the four founding wizards (Aganazzar, Ilyykur, Presper,
+    Grimwald) who established the School of Wizardry in 457 DR
+- name: The Dead Rats
+  type: faction
+  note: Wererat thieves' guild operating from sewers around Bluelake; offshoot of
+    Luskan's thieves' guild
+- name: The Graycloaks
+  type: faction
+  note: Political and subversive faction of the Sons of Alagondar seeking to depose
+    Neverember through law and subterfuge
+- name: The Nashers
+  type: faction
+  note: Violent anti-Neverember faction based in Bluelake; symbol is a minotaur head
+    slain by a sword; uses assassination, theft, sabotage, and rioting
+- name: Uthgardtian tribes
+  type: faction
+  note: Barbarian peoples of the North who rose up during the War of the Giants; suppressed
+    by the combined giant-mortal alliance; politically associated with the losing
+    side post-war; their erasure from monuments is the subtext of the Exile Aesthetic
+- name: Wintershield guards
+  type: faction
+  note: Commission's administrative arm for recruiting and managing adventurers in
+    the hinterland expansion
+- name: Cataclysm of 1451 DR
+  type: event
+  note: Eruption of Mount Hotenow sent a pyroclastic flow through Neverwinter, killing
+    nearly all Castle Never's inhabitants including the Alagondar lineage
+- name: Commission Era and Hinterland Expansion
+  type: event
+  note: ~1492–1495 DR; post-war period when the Commission pivoted from reconstruction
+    to territorial expansion and commercial enclosure of the hinterlands
+- name: Conquest of Illusk
+  type: event
+  note: Lord Halueth Never's conquest circa -10 DR that preceded the founding of Neverwinter
+    and the construction of Castle Never
+- name: Crown Affair
+  type: event
+  note: 1479 DR; Seldra Tylmarande used a replica Crown of Neverwinter in a male disguise
+    to falsely claim the throne; plot failed
+- name: Displacement Manifold Incident
+  type: event
+  note: ~1493 DR [Campaign Canon]; Commission refused Aletra Sotorra's treaty ultimatum,
+    Manifold went dark, Bimble Nackle was disappeared, Lionshield Coster's distribution
+    network collapsed, House Margaster filled the gap
+- name: Many-Arrows occupation
+  type: event
+  note: Orc seizure of the Tower District post-cataclysm; ended approximately two
+    years before the campaign's present day
+- name: Mount Hotenow eruption
+  type: event
+  aliases:
+  - Hotenow eruption
+  note: Volcanic cataclysm of 1451 DR that filled Bluelake with ash, tore open the
+    Chasm, and killed most of Neverwinter's noble families
+- name: Neverember's Rebuild
+  type: event
+  note: Reconstruction effort that made the Docks fully operational again by 1479
+    DR, logging the Upland Rise for timber
+- name: Neverwinter Succession Conflict
+  type: event
+  note: 1479 DR conflict over the Crown of Alagondar during which the Beached Leviathan
+    was attacked and saved by adventurers and General Sabine
+- name: New Neverwinter
+  type: event
+  note: Commercial and physical reconstruction movement begun by Neverember in 1467
+    DR following his arrival with Mintarn mercenaries
+- name: Orcgates Affair
+  type: event
+  note: 955 DR; Red Wizards aided orc hordes, beginning centuries-long feud between
+    Thay and Neverwinter
+- name: Out of the Abyss
+  type: event
+  note: ~1491–1492 DR; Gromph Baenre's spell unleashed demon lords into the Underdark;
+    collapsed Menzoberranzan's influence; Valphine fled to the surface
+- name: Shard Purified
+  type: event
+  note: 1479 DR; Selûne intervened and Lady Jasmine with Selûnite priestesses cleansed
+    the Shard of Night into the Shard of the Moon
+- name: Spellplague of 1385 DR
+  type: event
+  note: Wild magic event that altered the ward protecting the Neverneath, giving it
+    malevolent sentience
+- name: Stroud's Gambit
+  type: event
+  note: Decisive chess game played by Stroud against gold dragon Protanther; Protanther's
+    concession committed the metallic dragons to the alliance against Tiamat
+- name: the cataclysm
+  type: event
+  note: 1451 DR; adventurers at Gauntlgrym awakened Maegera, causing Mount Hotenow
+    to erupt and destroying most of Neverwinter; opened the Chasm
+- name: the Era of the Three Wars
+  type: event
+  note: Campaign Canon era label for the combined War of the Dragons, War of the Giants,
+    and Out of the Abyss (~1489–1492 DR)
+- name: The first fall of Neverwinter
+  type: event
+  note: Earlier destruction of Neverwinter referenced by the Driftwood Tavern's decor
+    and Madame Rosene's memory
+- name: The Spellplague
+  type: event
+  aliases:
+  - Spellplague
+  note: Magical catastrophe that altered Neverdeath's landscape and caused corpses
+    to animate; also left a Spellplague-laden section in the Underdark below the Chasm
+- name: Tyr's death
+  type: event
+  note: Death of the god Tyr in the late 1300s DR; caused the Hall of Justice to cease
+    function for an extended period
+- name: Tyr's resurrection
+  type: event
+  note: Return of Tyr after his death; prompted rededication of the Hall of Justice
+    and improved Neverember's public standing
+- name: Uthgardtian barbarian uprising
+  type: event
+  note: Part of the War of the Giants; raided Triboar, obliterated Calling Horn, pillaged
+    outskirts of Silverymoon and Mirabar; suppressed by giant-mortal alliance
+- name: Wailing Death
+  type: event
+  note: Plague striking in 1372 DR that killed most of Neverwinter's residents within
+    ten days of onset, resisting magical healing
+- name: War of the Dragons
+  type: event
+  note: ~1489–1491 DR; Tyranny of Dragons analog; Tiamat's attempted manifestation
+    via Severin and the Cult of the Dragon; ended with Severin's defeat; true architect
+    was Zariel
+- name: Ser Kaelen
+  type: npc
+  aliases:
+  - Ser Kaelen Thorn
+  - Kaelen
+- name: Jenna
+  type: npc
+  aliases:
+  - Jenna Roscoe
+  - woman
+  - the woman in green
+- name: The Chief Accountant
+  type: npc
+  aliases:
+  - Chief Accountant
+- name: Brin Bundlewine
+  type: npc
+  aliases:
+  - Brin
+  - Bryn
+- name: Giles Slipper Shine
+  type: npc
+  aliases:
+  - Giles
+- name: Shrimpy
+  type: npc
+  aliases:
+  - The Orc With The Necklace Of Bones Shrimpy
+  - The Orc with the Necklace of Bones
+- name: Meril
+  type: npc
+- name: Valphine
+  type: npc
+  aliases:
+  - Valphine Sortorra
+  - Valphine Sotorra
+  note: Drow cleric who fled the Underdark chaos, had a religious experience with
+    sunlight, and became a devoted follower of Lathander [Campaign Canon character]
+- name: Aldric Stone Path
+  type: npc
+- name: Backes Dunfield
+  type: npc
+- name: Borg the Hammer
+  type: npc
+  aliases:
+  - Borg
+- name: Cooragh Struckt
+  type: npc
+- name: Corbin
+  type: npc
+- name: Daran Edermath
+  type: npc
+  aliases:
+  - Silverleaf
+  note: Half-elf orchardist near Phandalin, known by the byname Silverleaf. Spelling
+    confirmed against docs/NeverwinterExpansionismandtheNorth.md ("Later, I would
+    learn his name, Daran Edermath, but he's known as Silverleaf"); renamed from the
+    slug canonical daran_edermath_silverleaf 2026-08-03.
+- name: Delaan Winterhound
+  type: npc
+- name: Drubbak
+  type: npc
+- name: Dwolin the Grout
+  type: npc
+- name: Jarek
+  type: npc
+- name: Jax
+  type: npc
+- name: Locutus
+  type: npc
+- name: Lord Cassian Meliamne
+  type: npc
+  aliases:
+  - Cassian
+  note: Sea elf noble of House Meliamne; COUSIN of Elara Seasong Meliamne — GM ruling
+    2026-08-03. The Ch. 47 tape has the Moonstone Mask staff and Cassian himself saying
+    "brother"/"his sister"; that was an in-session slip, and campaign_state.md plus
+    notes/neverwinter/neverwinter_network.md are canon. The ch47 recap narration was
+    corrected to "cousin"; quoted dialogue was left as spoken. Gives the party a description
+    of Bimble Nackle that will make players assume it is KP. Received the recovered
+    Meliamne statue and paid Cullen Sharpe 200gp over the Harbor Authority writ rather
+    than contest it (Ch. 47); asked the party to look for a connection between the
+    Displacement Manifold outage and Elara's death.
+- name: Lord Halueth Verres
+  type: npc
+- name: Lyra
+  type: npc
+- name: Marian
+  type: npc
+- name: Martisha Vinetalker
+  type: npc
+- name: Out-of-Phase Dwarves (Axeholm)
+  type: npc
+- name: Qelline Alderleaf
+  type: npc
+- name: Reidoth
+  type: npc
+- name: Rot-Tusk Ogre
+  type: npc
+  aliases:
+  - Rot-Tusk Ogres
+- name: Skippy
+  type: npc
+- name: Soma
+  type: npc
+- name: Sridar
+  type: npc
+- name: Teega the Smith
+  type: npc
+- name: The Anchorite Half-Orc
+  type: npc
+- name: The Cult Fanatic
+  type: npc
+- name: The Dwarven King
+  type: npc
+- name: The Orc Scout
+  type: npc
+- name: The Stag
+  type: npc
+- name: Thomas
+  type: npc
+- name: Vorga
+  type: npc
+- name: Meril's Staff
+  type: item
+  aliases:
+  - mentor's staff
+  note: Soma's mentor Meril's sentient staff; grows leaves; contests Druid Council
+    custody. Distinct from the ch45 Staff of Bird Calls.
+- name: Netheril
+  type: concept
+  source: summaries/20250805-chapter-07/Chapter 07.md
+  note: Ancient Faerunian empire; referenced when describing the origin of a god later
+    identified as an aspect of Gruumsh (Ch.7)
+- name: Tortle
+  type: concept
+  source: summaries/20250805-chapter-07/Chapter 07.md
+  note: Playable race; Soma is a Tortle druid
+- name: Crabby
+  type: npc
+  source: summaries/20250805-chapter-07/Chapter 07.md
+  note: Name the party gave the giant intelligent crab at the Tower of Storms; speaks
+    Common, was gifted intelligence by the sea elf Miraal and remains loyal to her;
+    offers to salvage wrecks (incl. the Star-Crossed Lover) in exchange for laying
+    Miraal's spirit to rest
+- name: Aldus Hern
+  type: npc
+  aliases:
+  - Aldus
+  source: summaries/20260729 (Ch. 47)
+  note: Neverember's steward, lion livery. Delivered the Lord Protector's summons
+    to the party at the Moonstone Mask (Ch. 47); secret Vukradin fan; invented a daughter,
+    Alducia, rather than admit the autograph was for himself. Surname from notes/session_prep/20260616_neverwinter_arrival.md
+    ("The steward's name is Aldus Hern"); the table uses the short form.
+- name: Cullen Sharpe
+  type: npc
+  source: summaries/20260729 (Ch. 47)
+  note: Associate of House Margaster. Presented a Harbor Authority writ asserting
+    a prior salvage claim on the Meliamne statue at the Moonstone Mask and extorted
+    200gp from Lord Cassian Meliamne (Ch. 47); then pitched the party on Margaster
+    handling distribution of goods recovered in the Phandalin hinterlands. Denied
+    Margaster involvement in Elara's death.
+- name: Alducia
+  type: npc
+  source: summaries/20260729 (Ch. 47)
+  note: 'The daughter Aldus Hern invented on the spot rather than admit Vukradin''s
+    autograph was for himself (Ch. 47). Fictional — she does not exist. Vukradin clocked
+    the lie and wrote the dedication anyway: "To Alducia, with love — Vukradin."'
+- name: Common Chord
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Neverwinter tavern in the dock area past the Protector's Enclave. Vukradin's
+    old venue, where he was periodically allowed to play and then thrown out without
+    pay; now the hardest ticket in the city. Brewbarry remembers only the ale ("All
+    I remember is a shitty ale. Good music, but shitty ale.").
+- name: Counting House
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Neverwinter financial institution. The party holds a letter of recommendation
+    for it and intends to use it to investigate the Lionshield Coster supply-chain
+    disruption caused by the Displacement Manifold going dark. A Lord's Alliance letter
+    advising caution about "certain adventurers from Phandalin" has already arrived
+    there.
+- name: Spire of the Morninglord
+  type: location
+  source: summaries/20260729 (Ch. 47)
+  note: Temple of Lathander in Neverwinter. The party committed to a dawn performance
+    and sermon here (Ch. 47) and used the obligation to decline Neverember's proposed
+    morning meeting. Referred to at the table as the Church of Lathander.
+- name: Candlekeep Working Paper No. 27
+  type: item
+  aliases:
+  - Candlekeep Report
+  source: notes/session_prep/20260616_neverwinter_arrival.md
+  note: '"The Hoarding Hero: Or, Why Some Adventurers Are Economically Indistinguishable
+    From The Monsters They Slay." Issued by Candlekeep''s Vault of Mercantile Histories;
+    argues adventurers who refuse to circulate recovered treasure are deflationary
+    and functionally indistinguishable from the dragons they slay. Neverember''s lever
+    on Vukradin — Aldus Hern raised the dragon comparison at the Moonstone Mask (Ch.
+    47).'
+- name: Laeral Silverhand
+  type: npc
+  aliases:
+  - Open Lord of Waterdeep
+  note: Open Lord of Waterdeep and First Lord of the Lords' Alliance; named at the
+    table in Ch. 47 ("Lady Laeral Silverhand, who's the open Lord of Waterdeep").
+    The 'Open Lord of Waterdeep' alias was previously attached in error to Dagult
+    Neverember, who rules Neverwinter as Lord Protector; moved here 2026-08-03.
+- name: Tuck Stonehill
+  type: npc
+  aliases:
+  - Tuck
+  provenance: on_the_fly
+  source: summaries/20260623/scene_extractions_new/02_a_hero_s_welcome_at_stonehill_inn.md
+  note: Son of Toblen Stonehill; present at the Stonehill Inn, Phandalin. Named on
+    the fly ch46 (2026-06-23); campaign name replaces the module's Pip. GM ruling
+    2026-08-07.
+- name: Petunia
+  type: npc
+  provenance: module
+  source: Dragon of Icespire Peak (adventure-dip); Butterskull Ranch
+  note: Alphonse 'Big Al' Kalazorn's cow (not a humanoid NPC — typed npc as the registry
+    has no creature type). Module NPC from Dragon of Icespire Peak. Recovered at Butterskull
+    Ranch via Soma's Speak with Animals; grazes with Qelline Alderleaf; source of
+    the Phandalin cheese, which is graded by which part of the field she grazed. Attends
+    town gatherings — present on the town green for the UBT proclamation (ch46).
+- name: Kazneporium Ketternopappux
+  type: deity
+  aliases:
+  - KP
+  note: Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity
+    whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
+- name: Kostadinious the Sage
+  type: npc
+  note: In-world biographer who recorded KP's story. NOT KP — see notes/corrections/kp_identity_attribution.md.
+- name: Aurelan Vance
+  type: npc
+  aliases:
+  - Aurelan
+  source: summaries/20260811 (Ch. 48)
+  note: Banker at the Counting House, Neverwinter. Drafted ahead of play in notes/npcs/aurelan-vance.md
+    as a Moonstone Mask guest (retired Enclave trade magistrate); GM ruling 2026-08-13
+    confirms the Counting House loan officer played in Ch.48 is the same NPC. Signed
+    Brewbarry's bathrobe-business loan with Linene Graywind as shipping agent, pushed
+    House Margaster as a cheaper distributor, and directed Vukradin to the Neverwinter
+    Commission letter of credit. Canonical spelling is Aurelan per the 2026-08-13
+    GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre'
+    and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded
+    in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct
+    from Andrella, the Beached Leviathan barmaid. CH48 STAGE-3 (2026-08-16) - the
+    narration's rendering of the first-hearing joke was changed from 'Oral B. Vance'
+    to 'Aurum Bee Vance' at GM instruction, to strip the real-world brand reference;
+    the party mishears his name as something that sounds like a meadery before he
+    restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a one-time
+    in-fiction mishearing, blessed as a comic beat, and a future consistency or spell
+    pass must not silently normalize it to Aurelan.
+    CH50 (2026-08-25) - at the Counting House he offers the party a familiar form, 'my friends call me Ori' (tape l.773; Stephane uses it back at l.781). Both independent transcriptions render it identically. GM ruling 2026-08-26 - 'Ori' is NOT a garble and is NOT an alias; it is his in-fiction familiar form, recorded in notes/vtt_known_additions.md. The transcript forms 'Orlin Vance' and 'Ondrel Vance' ARE garbles and are glossed.
+- name: dreamlily
+  type: item
+  provenance: on_the_fly
+  source: summaries/20260811 (Ch. 48)
+  note: Narcotic. Introduced in ch48 NARRATION by Soma as what an illegal back-room
+    alchemy operation in Neverwinter would be cooking - 'some alchemist cooking dreamlily
+    to rot the sons of merchants'. AUTHORED IN NARRATION at GM instruction (2026-08-16
+    stage-3 de-anachronization pass), replacing the transcript's real-world 'meth
+    lab' joke - NOT played at the table and NOT in prep. No properties, price, legality
+    or distribution established beyond mind-harming and illicit.
+- name: cadet house
+  type: concept
+  provenance: on_the_fly
+  source: summaries/20260811 (Ch. 48)
+  note: 'Menzoberranzan institution, described by Valphine in ch48. A House wanting
+    a rival poisoned founds a lesser house with its own crest, name and separate ledger;
+    the lesser house acts; the Matron then tells the Ruling Council ''that was not
+    my hand.'' Valphine: the Council has not believed it once in nine hundred years,
+    and it has never once failed - ''the words are the wall. Everyone sees through
+    it; nobody may say so aloud.'' Her read on a Neverwinter banker''s between-departments
+    excuse, and the campaign''s working metaphor for laundered agency. AUTHORED IN
+    NARRATION at GM instruction (2026-08-16 stage-3 de-anachronization pass), replacing
+    the transcript''s real-world ''Chinese wall'' joke - NOT played at the table and
+    NOT in prep.'
+- name: Orcanese
+  type: concept
+  aliases:
+  - Orc language
+  - Orcish
+  source: GM ruling, voice-smooth review round 2, 2026-08-18
+  note: 'Table term for the Orc language. GM-confirmed 2026-08-18: not a transcription
+    garble of "Orcish" — "Orcanese is our way of saying ''orc language''" at this
+    table. First heard scene 10 of the 2025-05-28 (chapter 3) session: "Do you speak
+    Orcanese?"'
+- name: Jimble the Unmoved
+  type: npc
+  provenance: on_the_fly
+  source: Phandalin ch3 scene 07 narration, sage's marginal note (voice-critic pass,
+    GM-approved 2026-08-18)
+  note: 'Legendary figure, not a living NPC: a cleric of the old coastal sagas who
+    examined each fallen companion and pronounced him dead rather than part with the
+    prayer that might have argued otherwise. Invented in a Kostadinious the Sage marginal
+    note to launder Soma''s verbatim "He''s dead, Jim" table joke into canon — the
+    coastal-saga framing explains why coastal Soma knows the saying and mountain-born
+    Brewbarry does not. Authored in narration, never played or prepped; do not flag
+    the marginal note as a fabrication in consistency passes.'
+distinct:
+- - Meril's Staff
+  - Staff of Birdcalls
+- - Kazneporium Ketternopappux
+  - Kostadinious the Sage
+rejected_aliases:
+- - Corbin
+  - Corwin
+- - Meril
+  - Miral
+- - Ser Kaelen
+  - Sister Kaella
+- - Cult of Talos
+  - Talosians
+  - Talos
+- - The Cursed Clearing
+  - blighted clearing
+  - clearing
+  - Soma — The Cursed Clearing
+- - Icespire Hold
+  - Icespire
+  - Icespire Hold elevation
+  - Icespire Mountains
+- - Soma
+  - Jenna
+  - woman in windmill
+- - Narrator
+  - The narrator
+- - lyra
+  - Ilvara
+  - Elara Seasong Meliamne
+- - corbin
+  - Harbin Wester
+  - Corrin
+- - Vorga
+  - Horia Stonetallow
+  - Borg the Hammer
+  - Vukradin
+  - Vorga's elder
+- - ogre
+  - Rot-Tusk Ogre
+- - orcs
+  - six dead orcs
+- - Cryovain
+  - dragon count
+- - Neverwinter
+  - Neverwinter Wood
+- - bandit
+  - bandits
+  - bandit count
+- - twig blights
+  - vine blights
+  - blights
+- - Anchorite
+  - Anchorites of Talos
+- - Anchorites of Talos
+  - Talos
+- - boars
+  - boar
+  - talking boar
+- - Tower of Storms
+  - tower
+- - Triboar Trail
+  - Triboar
+- - Stonehill Inn
+  - tavern
+- - vial
+  - interdimensional poison vials
+- - Homer
+  - Elmer
+- - Falcon's hunter cloak
+  - cloak
+  - magical cloak

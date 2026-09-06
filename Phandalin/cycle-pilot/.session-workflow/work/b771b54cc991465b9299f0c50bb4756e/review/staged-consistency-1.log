@@ -1,0 +1,111 @@
+  Note: no entity_registry.yaml found under /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/b771b54cc991465b9299f0c50bb4756e/review, skipping canon section.
+Document : session-summary.md (52,214 chars)
+Context  : 10 document(s)
+Model    : gpt-5.6-sol
+============================================================
+Codex run: model=gpt-5.6-sol (explicit); reasoning_effort=medium (explicit)
+Found 17 potential issue(s):
+  - **Issue**: The restaurant’s district is contradictory, and “Blue Lake District” uses the wrong canonical spelling.
+  - **Issue**: The claim that the party found many shops shut appears to be unplayed prep material.
+  - **Issue**: Valphine is referred to with the wrong pronoun: “his sermon.”
+  - **Issue**: Boney is repeatedly described as “Brewbarry’s skeletal horse.”
+  - **Issue**: “Commission maintenance roll” is written as though “commission” were generic.
+  - **Issue**: Valphine’s armor is identified as dragon scale armor.
+  - **Issue**: The patrons are described as “Vukradin-style barbarians,” which likely attributes Brewbarry’s fashion to the wrong character.
+  - **Issue**: The familiar plan is attributed to Vukradin.
+  - **Issue**: The plaque signing and teaser performance are presented in the wrong order.
+  - **Issue**: Lim’s professed ignorance of the suppliers’ identity is presented as objective fact.
+  - **Issue**: The recap suggests the sewers may shelter Bimble.
+  - **Issue**: The complete third-route deduction is over-attributed to Valphine.
+  - **Issue**: House Margaster is described as controlling the entire port or owning the docks.
+  - **Issue**: Margaster’s responsibility for the city’s inflation is stated too conclusively.
+  - **Issue**: The planned surveillance is occasionally called a “midnight stakeout,” although the established delivery time is later.
+  - **Issue**: The financial settlement is difficult to parse and may imply Petra paid five hundred gold.
+  - **Issue**: The performance bonuses are mechanically questionable unless treated as a house ruling.
+============================================================
+- **Location**: Summary; Arrival at The Board Laid Bare; Locations — Blue Lake District / The Board Laid Bare
+- **Issue**: The restaurant’s district is contradictory, and “Blue Lake District” uses the wrong canonical spelling.
+- **Evidence**: The recap repeatedly places The Board Laid Bare in the “Blue Lake District,” but its own Locations entry places it in the Tower District. The selected session prep explicitly states that the restaurant remains in the **Tower District** and only its supply route connects to Bluelake. AUTHORITATIVE CANON (`entity_registry.yaml`) names the district **Bluelake District**.
+- **Suggested fix**: Place The Board Laid Bare in the Tower District. Use “Bluelake District” for the district and sewers connected to its supply route.
+
+- **Location**: Arrival at The Board Laid Bare; Locations — Blue Lake District
+- **Issue**: The claim that the party found many shops shut appears to be unplayed prep material.
+- **Evidence**: The transcript describes the party crossing Bluelake and later seeing a woman relock her door, but it does not narrate numerous closed shops. Shuttered businesses appear only as optional district texture in the prep.
+- **Suggested fix**: Remove “finds many shops shut,” unless another approved session source confirms it occurred.
+
+- **Location**: Summary — The Skeletal Horse Sighting
+- **Issue**: Valphine is referred to with the wrong pronoun: “his sermon.”
+- **Evidence**: Party and world documents consistently use she/her for Valphine Sotorra.
+- **Suggested fix**: Change to “her sermon.”
+
+- **Location**: Summary; The Skeletal Horse Sighting; Locations — Protector’s Enclave; NPCs — Boney; Items — Lady Alagondar’s Tackle
+- **Issue**: Boney is repeatedly described as “Brewbarry’s skeletal horse.”
+- **Evidence**: AUTHORITATIVE CANON (`entity_registry.yaml`) describes Boney as a party companion gifted to Vukradin. Other campaign documents treat him as a collective companion bonded particularly to Valphine and Soma, not as Brewbarry’s property.
+- **Suggested fix**: Use “the party’s skeletal horse, Boney,” or “Boney, the skeletal horse gifted to Vukradin.”
+
+- **Location**: Summary; NPCs — Bimble
+- **Issue**: “Commission maintenance roll” is written as though “commission” were generic.
+- **Evidence**: AUTHORITATIVE CANON identifies Bimble Nackle as a technician employed by the **Neverwinter Commission**, which operates the Displacement Manifold.
+- **Suggested fix**: Write “the Neverwinter Commission’s maintenance roll.”
+
+- **Location**: Summary; Return to the Common Chord
+- **Issue**: Valphine’s armor is identified as dragon scale armor.
+- **Evidence**: The transcript uses “dragonscale armor,” but `party.md` explicitly says current character sheets control mechanics and records Valphine wearing **White Dragon Plate +1** with a +1 shield. Brewbarry’s dragon scale mail remains uncollected.
+- **Suggested fix**: Replace “Valphine’s dragon scale armor” with “Valphine’s White Dragon Plate” or simply “Valphine’s white dragon plate armor.”
+
+- **Location**: Summary; Return to the Common Chord
+- **Issue**: The patrons are described as “Vukradin-style barbarians,” which likely attributes Brewbarry’s fashion to the wrong character.
+- **Evidence**: Vukradin is an aasimar bard, not a barbarian. Campaign and party state establish Brewbarry’s Uthgardt appearance as the basis of Neverwinter’s Exile Aesthetic and say strangers dress in imitation of him. The transcript’s phrase “Vukradin barbarians” is garbled and ambiguous.
+- **Suggested fix**: Describe them as “Brewbarry-style barbarians,” “Exile Aesthetic patrons,” or avoid assigning the costume to either character.
+
+- **Location**: Planning the Stakeout
+- **Issue**: The familiar plan is attributed to Vukradin.
+- **Evidence**: In the transcript, Soma’s player says she has animal familiars, proposes using one for surveillance, and selects a rat. Vukradin suggests that Soma could use a cat or another inconspicuous form but does not originate the familiar plan.
+- **Suggested fix**: Attribute the rat familiar and perception-through-it plan to Soma.
+
+- **Location**: Summary; Return to the Common Chord; Memorable Moments
+- **Issue**: The plaque signing and teaser performance are presented in the wrong order.
+- **Evidence**: In the transcript, the band performs the discordant teaser first (approximately 1:27:09–1:28:30). Petra then shows them the polished table and plaque, after which Vukradin charges twenty-five gold to sign it (approximately 1:28:30–1:29:14).
+- **Suggested fix**: Move the teaser performance before the plaque and autograph negotiation.
+
+- **Location**: Summary; Lim’s Secret Supplier; NPCs — Lim
+- **Issue**: Lim’s professed ignorance of the suppliers’ identity is presented as objective fact.
+- **Evidence**: During play, Lim claims she met “a man through another man” and does not know the organization. The later September 1 GM ruling in the selected prep establishes that Lim is a Harper, the restaurant is a Harper front, and her apparent ignorance is tradecraft. The review-scope document warns against retroactively exposing that secret but instructs reviewers to surface the conflict.
+- **Suggested fix**: Preserve the session’s perspective: “Lim claimed not to know the organization’s name or headquarters.” Avoid asserting that she genuinely knows nothing.
+
+- **Location**: Locations — Blue Lake District Sewers
+- **Issue**: The recap suggests the sewers may shelter Bimble.
+- **Evidence**: The party only theorized that the ninth crate might feed Bimble and that the sewer route could lead toward him. AUTHORITATIVE CANON places Bimble in Neverwinter’s lower docks, while that exact location remains GM-only.
+- **Suggested fix**: Say the sewers may provide a route to whoever is feeding Bimble; do not imply that Bimble lives in them.
+
+- **Location**: Summary — “Valphine pieced together the larger picture”
+- **Issue**: The complete third-route deduction is over-attributed to Valphine.
+- **Evidence**: The transcript explicitly credits Valphine with recognizing the suppliers as smugglers. The later chain connecting the Manifold, Lionshield, Margaster, the third route, and the ninth crate is delivered and discussed as a party-wide deduction.
+- **Suggested fix**: Credit Valphine with identifying the smuggling operation, then state that the party collectively connected it to the third trade route and Bimble.
+
+- **Location**: Summary; Planning the Stakeout; Locations — Blue Lake District Sewers
+- **Issue**: House Margaster is described as controlling the entire port or owning the docks.
+- **Evidence**: The session uses “seems to control” as the party’s current impression. Later GM-side context clarifies that Margaster cornered the distribution leg out of the port, not all Neverwinter trade or the port itself.
+- **Suggested fix**: Use “House Margaster appears to dominate the port’s distribution business” rather than “controls the port” or “Margaster’s docks.”
+
+- **Location**: Summary; Return to the Common Chord; Memorable Moments
+- **Issue**: Margaster’s responsibility for the city’s inflation is stated too conclusively.
+- **Evidence**: Canon establishes that Margaster profits from the Manifold’s failure and has captured much of the replacement distribution business. Whether it caused the failure or merely exploited it remains an open question. The performance’s lyrics accused Margaster of causing ordinary people’s suffering, but that accusation is not yet proven.
+- **Suggested fix**: Frame this as the song’s allegation: “lyrics blamed House Margaster’s trade practices for worsening inflation.”
+
+- **Location**: Planning the Stakeout; Summary conclusion
+- **Issue**: The planned surveillance is occasionally called a “midnight stakeout,” although the established delivery time is later.
+- **Evidence**: Bellows says deliveries arrive at the third hour after midnight, occasionally the fourth; the party plans surveillance for approximately 3 a.m.
+- **Suggested fix**: Use “pre-dawn stakeout” or “third-hour-after-midnight stakeout.”
+
+- **Location**: Return to the Common Chord; NPCs — Petra
+- **Issue**: The financial settlement is difficult to parse and may imply Petra paid five hundred gold.
+- **Evidence**: Petra explicitly refuses a direct 500 gp fee. The agreed performance compensation is fifty percent of gross proceeds. Separately, Vukradin values past infringement at 500 gp and treats the exclusive performance/licensing arrangement as settling that claim; only the 25 gp autograph is paid immediately.
+- **Suggested fix**: State clearly: Petra owes no immediate 500 gp payment; the band receives 50% of gross for the show, and Vukradin grants continued disclosed cover-band and likeness rights as settlement of the past claim.
+
+- **Location**: Spells — Bardic Inspiration; Summary — second performance
+- **Issue**: The performance bonuses are mechanically questionable unless treated as a house ruling.
+- **Evidence**: The transcript grants Bardic Inspiration after the Performance rolls and then applies *Bless*. Under standard 5e rules, Bardic Inspiration must already have been granted before the check, though its die may be added after seeing the roll; *Bless* affects attack rolls and saving throws, not Performance checks.
+- **Suggested fix**: Say the bonuses were applied by table ruling, or omit the mechanical claim that *Bless* improved the Performance checks.
+
+Report saved: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/b771b54cc991465b9299f0c50bb4756e/review/staged-consistency-1.md

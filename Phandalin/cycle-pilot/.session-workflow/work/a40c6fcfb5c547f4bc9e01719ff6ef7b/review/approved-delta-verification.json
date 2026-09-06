@@ -1,0 +1,740 @@
+{
+  "method": "Incremental review of exactly the 24 explicitly approved replacements; no new generation or independent whole-session audit.",
+  "prior_run": "14f20cfd8bb04940be1816866f75c7fe",
+  "prior_revision": 92,
+  "prior_binding": "b978cb30370837b5dcc375440a97aac8ded678ab2b7b94b3576aa7cbc5554e27",
+  "applied": [
+    {
+      "finding_id": "extract-01-provenance",
+      "finding_sha256": "092fe2b8f425a59af9c8d5faaa45bf8aaa24900b25f8ea7d6d119896692028a7",
+      "decision": {
+        "finding_id": "extract-01-provenance",
+        "finding_sha256": "092fe2b8f425a59af9c8d5faaa45bf8aaa24900b25f8ea7d6d119896692028a7",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:10.891Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+        "before": "---\nscene: A Banker's Revelation\nsource: gmassist\n---\n\n# A Banker's Revelation\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: A Banker's Revelation\nsource: approved-session-summary\n---\n\n# A Banker's Revelation\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-02-provenance",
+      "finding_sha256": "0182e0a9b33f9d29040029f887ec0695d051f325f9914a98be54a4f9dd88a2aa",
+      "decision": {
+        "finding_id": "extract-02-provenance",
+        "finding_sha256": "0182e0a9b33f9d29040029f887ec0695d051f325f9914a98be54a4f9dd88a2aa",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:25.356Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/02_the_skeletal_horse_sighting.md",
+          "sha256": "d173acb7a874f8ff80f072c802fbc0e334ec968ee3dff7fd17e9998587c93ce8",
+          "snapshot": ".session-workflow/objects/d173acb7a874f8ff80f072c802fbc0e334ec968ee3dff7fd17e9998587c93ce8",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/02_the_skeletal_horse_sighting.md",
+        "before": "---\nscene: The Skeletal Horse Sighting\nsource: gmassist\n---\n\n# The Skeletal Horse Sighting\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: The Skeletal Horse Sighting\nsource: approved-session-summary\n---\n\n# The Skeletal Horse Sighting\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-03-provenance",
+      "finding_sha256": "0b9b05ed8f9ba4430dc7889107cc2e376b7cddd97c0b765673eaf00f5431544a",
+      "decision": {
+        "finding_id": "extract-03-provenance",
+        "finding_sha256": "0b9b05ed8f9ba4430dc7889107cc2e376b7cddd97c0b765673eaf00f5431544a",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:30.642Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "snapshot": ".session-workflow/objects/3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+        "before": "---\nscene: Arrival at The Board Laid Bare\nsource: gmassist\n---\n\n# Arrival at The Board Laid Bare\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: Arrival at The Board Laid Bare\nsource: approved-session-summary\n---\n\n# Arrival at The Board Laid Bare\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-04-provenance",
+      "finding_sha256": "2e1dcd4b7ad511918d022bcf62748dbc1b4ea45341d8df9949125f39a6c119ee",
+      "decision": {
+        "finding_id": "extract-04-provenance",
+        "finding_sha256": "2e1dcd4b7ad511918d022bcf62748dbc1b4ea45341d8df9949125f39a6c119ee",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:36.261Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+          "snapshot": ".session-workflow/objects/706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+        "before": "---\nscene: Dining with Lim and Interrogating Bellows\nsource: gmassist\n---\n\n# Dining with Lim and Interrogating Bellows\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: Dining with Lim and Interrogating Bellows\nsource: approved-session-summary\n---\n\n# Dining with Lim and Interrogating Bellows\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-05-provenance",
+      "finding_sha256": "2358eda876a617c3cbf116bee8915627cd48f1a50f8ad08ec6b919629ffa808b",
+      "decision": {
+        "finding_id": "extract-05-provenance",
+        "finding_sha256": "2358eda876a617c3cbf116bee8915627cd48f1a50f8ad08ec6b919629ffa808b",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:40.131Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+        "before": "---\nscene: Lim's Secret Supplier\nsource: gmassist\n---\n\n# Lim's Secret Supplier\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: Lim's Secret Supplier\nsource: approved-session-summary\n---\n\n# Lim's Secret Supplier\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-06-provenance",
+      "finding_sha256": "12900b393f724fe9cb5577ff05634a98ab3ce7a2050e98623a17847139321a70",
+      "decision": {
+        "finding_id": "extract-06-provenance",
+        "finding_sha256": "12900b393f724fe9cb5577ff05634a98ab3ce7a2050e98623a17847139321a70",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:45.635Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+          "sha256": "002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "snapshot": ".session-workflow/objects/002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+        "before": "---\nscene: Planning the Stakeout\nsource: gmassist\n---\n\n# Planning the Stakeout\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: Planning the Stakeout\nsource: approved-session-summary\n---\n\n# Planning the Stakeout\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-07-provenance",
+      "finding_sha256": "8cc596619355a06607f47b20acaa486451e8d011172e6fa7807be32bd1ca5872",
+      "decision": {
+        "finding_id": "extract-07-provenance",
+        "finding_sha256": "8cc596619355a06607f47b20acaa486451e8d011172e6fa7807be32bd1ca5872",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:52.802Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/07_wandering_the_blue_lake_district.md",
+          "sha256": "a29018a9ab62a6339e5c37b33ff62650a0b76171ed0b679d17c607b22c02da13",
+          "snapshot": ".session-workflow/objects/a29018a9ab62a6339e5c37b33ff62650a0b76171ed0b679d17c607b22c02da13",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/07_wandering_the_blue_lake_district.md",
+        "before": "---\nscene: Wandering the Blue Lake District\nsource: gmassist\n---\n\n# Wandering the Blue Lake District\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: Wandering the Blue Lake District\nsource: approved-session-summary\n---\n\n# Wandering the Blue Lake District\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-08-provenance",
+      "finding_sha256": "d61bb190bc9cdee5cff0a7ab521c254de5d2676f5b6313b6967d321a741d7e5c",
+      "decision": {
+        "finding_id": "extract-08-provenance",
+        "finding_sha256": "d61bb190bc9cdee5cff0a7ab521c254de5d2676f5b6313b6967d321a741d7e5c",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:33:56.586Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+        "before": "---\nscene: Return to the Common Chord\nsource: gmassist\n---\n\n# Return to the Common Chord\n\n## Scene summary (from gm-assist, verbatim)",
+        "after": "---\nscene: Return to the Common Chord\nsource: approved-session-summary\n---\n\n# Return to the Common Chord\n\n*Derived extraction draft: dialogue candidates come from the approved corrected transcript, not verbatim raw recording text. Speaker attribution and any proposed corrections still require human review.*\n\n## Scene summary (copied from the approved remove-recap draft)"
+      }
+    },
+    {
+      "finding_id": "extract-05-line-351",
+      "finding_sha256": "a2bee6b45787900da080691849ac84fdb643a3ded203e66fc116b9cd19baab84",
+      "decision": {
+        "finding_id": "extract-05-line-351",
+        "finding_sha256": "a2bee6b45787900da080691849ac84fdb643a3ded203e66fc116b9cd19baab84",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:11.575Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+        "before": "> \"Price is good. I… if… if I was keeping… she… she's… She's upset.\"",
+        "after": "> \"Price is good. I… if… if I was keeping… she… she's… she's… She's upset.\""
+      }
+    },
+    {
+      "finding_id": "extract-01-opening-recap",
+      "finding_sha256": "8e6aa373e9d8a4dabce13e18e9296e8950deaf1819d1252253cce7f5dd5c9b4a",
+      "decision": {
+        "finding_id": "extract-01-opening-recap",
+        "finding_sha256": "8e6aa373e9d8a4dabce13e18e9296e8950deaf1819d1252253cce7f5dd5c9b4a",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:18.526Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+        "before": "**GM** — *outside the Spire of the Morninglord*\n> \"So, you've just come out of the Spire of the Morninglord. You've given the fireball, the necklace of Fireballs, or a Lady the Alagondar's heirloom to Perrin Alagondar.\"\n\n",
+        "after": ""
+      }
+    },
+    {
+      "finding_id": "extract-01-line-177",
+      "finding_sha256": "445977746d4311cdc8355195beb256963d143ac16ca68dc4f595b298b690900e",
+      "decision": {
+        "finding_id": "extract-01-line-177",
+        "finding_sha256": "445977746d4311cdc8355195beb256963d143ac16ca68dc4f595b298b690900e",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:23.807Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+        "before": "> \"Well… he pulls out a piece of paper, shows you the correct spelling, B-I-N-B-L-E.\"",
+        "after": "> \"Well… he pulls out a piece of paper, shows you the correct spelling, B-I-M-B-L-E.\""
+      }
+    },
+    {
+      "finding_id": "extract-01-line-186",
+      "finding_sha256": "92603428d239e10557ff4bc7d75a88bb15b26957789e7757bd01d50fc0ff3afb",
+      "decision": {
+        "finding_id": "extract-01-line-186",
+        "finding_sha256": "92603428d239e10557ff4bc7d75a88bb15b26957789e7757bd01d50fc0ff3afb",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:27.806Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+        "before": "> \"Yes, the payments stop 7-10 days ago, on the day, not the 10-day, no severance, no final reconciliation, no forwarding instruction. That is not how a contract ends.\"",
+        "after": "> \"Yes, the payments stop seven tendays ago, on the day, not the tenday, no severance, no final reconciliation, no forwarding instruction. That is not how a contract ends.\""
+      }
+    },
+    {
+      "finding_id": "extract-03-line-117",
+      "finding_sha256": "74fd33e6d9d92b85589dbf4ee72f5613836ea731e5b660fd5807e56560a8a5c3",
+      "decision": {
+        "finding_id": "extract-03-line-117",
+        "finding_sha256": "74fd33e6d9d92b85589dbf4ee72f5613836ea731e5b660fd5807e56560a8a5c3",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:31.488Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "snapshot": ".session-workflow/objects/3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+        "before": "> \"So many tons.\"",
+        "after": "> \"So many puns.\""
+      }
+    },
+    {
+      "finding_id": "extract-03-line-246",
+      "finding_sha256": "a696714c324224c78016a5d8d653fff504d0e4d42ad0f1fda930b44bc46e0064",
+      "decision": {
+        "finding_id": "extract-03-line-246",
+        "finding_sha256": "a696714c324224c78016a5d8d653fff504d0e4d42ad0f1fda930b44bc46e0064",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:35.080Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "snapshot": ".session-workflow/objects/3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+        "before": "> \"Asphalt.\"",
+        "after": "> \"Aasimar.\""
+      }
+    },
+    {
+      "finding_id": "extract-04-line-058",
+      "finding_sha256": "9168edd276fefac38ce861ca939b0dbd875565022bb067d02d9991ed2ce6a2ac",
+      "decision": {
+        "finding_id": "extract-04-line-058",
+        "finding_sha256": "9168edd276fefac38ce861ca939b0dbd875565022bb067d02d9991ed2ce6a2ac",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:38.910Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+          "snapshot": ".session-workflow/objects/706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+        "before": "> \"Leilan, yeah, we haven't gone there yet. We've been, you've probably seen a bunch of the, the…\"",
+        "after": "> \"Leilon, yeah, we haven't gone there yet. We've been, you've probably seen a bunch of the, the…\""
+      }
+    },
+    {
+      "finding_id": "extract-05-line-075",
+      "finding_sha256": "705bb8b131aa8fe3d07587d976ee359717c77591af8dbb4579871ba89b8e27bc",
+      "decision": {
+        "finding_id": "extract-05-line-075",
+        "finding_sha256": "705bb8b131aa8fe3d07587d976ee359717c77591af8dbb4579871ba89b8e27bc",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:43.087Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+        "before": "> \"The sword of dragons laying in one arm is, his halberd in the other, and the bathrobe. I presume you're still wearing the…\"",
+        "after": "> \"The sword of dragon slaying in one arm is, his halberd in the other, and the bathrobe. I presume you're still wearing the…\""
+      }
+    },
+    {
+      "finding_id": "extract-05-line-123",
+      "finding_sha256": "4f89a8bb344e5066813fa812b43374dd58643cad36a00f5885556d99e91d520b",
+      "decision": {
+        "finding_id": "extract-05-line-123",
+        "finding_sha256": "4f89a8bb344e5066813fa812b43374dd58643cad36a00f5885556d99e91d520b",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:46.502Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+        "before": "> \"the 9th grade.\"",
+        "after": "> \"the 9th crate.\""
+      }
+    },
+    {
+      "finding_id": "extract-05-line-147",
+      "finding_sha256": "c56741c168e1c0d19be9deb2b58323b2d92407a52efc42b0a0355c230671ec3b",
+      "decision": {
+        "finding_id": "extract-05-line-147",
+        "finding_sha256": "c56741c168e1c0d19be9deb2b58323b2d92407a52efc42b0a0355c230671ec3b",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:50.660Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+        "before": "> \"You know, multiple times that there is a 9th grade that stays in the street and then disappears in the morning.\"",
+        "after": "> \"You know, multiple times that there is a 9th crate that stays in the street and then disappears in the morning.\""
+      }
+    },
+    {
+      "finding_id": "extract-05-line-303",
+      "finding_sha256": "26ac412d889c1e396d6042fa47a3f43501b730c62ce3d14a2cbca4ccac99aeb8",
+      "decision": {
+        "finding_id": "extract-05-line-303",
+        "finding_sha256": "26ac412d889c1e396d6042fa47a3f43501b730c62ce3d14a2cbca4ccac99aeb8",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:54.286Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+        "before": "> \"This is not the lab I once knew. Roll for initiative.\"",
+        "after": "> \"This is not the Lim I once knew. Roll for initiative.\""
+      }
+    },
+    {
+      "finding_id": "extract-08-line-286",
+      "finding_sha256": "46ed9834484cbb2e996cb01489a051de11d4520232114acc866b41a48f3adce8",
+      "decision": {
+        "finding_id": "extract-08-line-286",
+        "finding_sha256": "46ed9834484cbb2e996cb01489a051de11d4520232114acc866b41a48f3adce8",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:57.811Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+        "before": "> \"Well, I mean, your old feet, does that sound fair?\"",
+        "after": "> \"Well, I mean, your old fee, does that sound fair?\""
+      }
+    },
+    {
+      "finding_id": "extract-08-line-781",
+      "finding_sha256": "f67725b50ca2cddd41aac35f1b7c1d2e59215203ecd04d2861ac7143324acb83",
+      "decision": {
+        "finding_id": "extract-08-line-781",
+        "finding_sha256": "f67725b50ca2cddd41aac35f1b7c1d2e59215203ecd04d2861ac7143324acb83",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:35:02.885Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+        "before": "> \"Thumbing away, like, it's… they've picked it up.\"",
+        "after": "> \"Humming away, like, it's… they've picked it up.\""
+      }
+    },
+    {
+      "finding_id": "extract-08-line-823",
+      "finding_sha256": "561b72c7f6b509f810ec46a7441b7c74820b007e57626a36e937591a99a61217",
+      "decision": {
+        "finding_id": "extract-08-line-823",
+        "finding_sha256": "561b72c7f6b509f810ec46a7441b7c74820b007e57626a36e937591a99a61217",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:35:06.528Z",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+        "before": "> \"What? Symbols.\"",
+        "after": "> \"What? Cymbals.\""
+      }
+    },
+    {
+      "finding_id": "extract-06-line-042-correction",
+      "finding_sha256": "6561572f434a064207d681256b0b629ba67e47b1e99e9565ae0f365a3ba95832",
+      "decision": {
+        "finding_id": "extract-06-line-042-correction",
+        "finding_sha256": "6561572f434a064207d681256b0b629ba67e47b1e99e9565ae0f365a3ba95832",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "User explicitly requested this correction in revision-90 discussion: Should have said 7 ten-days. can youf ix that?",
+        "at": "2026-09-05T23:39:37.441147+00:00",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+          "sha256": "002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "snapshot": ".session-workflow/objects/002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+        "before": "> \"Yes, and so, like, what you kind of pieced together is that 7 weeks ago, the displacement manifold went dark.\"",
+        "after": "> \"Yes, and so, like, what you kind of pieced together is that 7 ten-days ago, the displacement manifold went dark.\""
+      }
+    },
+    {
+      "finding_id": "extract-06-line-219-correction",
+      "finding_sha256": "2e6976bad088e9d3134b27050642530e81afdf1c0e0de51bf16abc9bcd4ba04d",
+      "decision": {
+        "finding_id": "extract-06-line-219-correction",
+        "finding_sha256": "2e6976bad088e9d3134b27050642530e81afdf1c0e0de51bf16abc9bcd4ba04d",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "User explicitly requested this correction in revision-90 discussion: The party knows he's a wererate. \n\nZelen,, you're aware he is a wererat",
+        "at": "2026-09-05T23:39:37.441185+00:00",
+        "group": null
+      },
+      "change": {
+        "source": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+          "sha256": "002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "snapshot": ".session-workflow/objects/002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "label": "generated"
+        },
+        "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+        "before": "> \"Zeleen, you're aware we're at, so that's just an angle you might want to keep in mind.\"",
+        "after": "> \"Zeleen, you're aware he is a wererat, so that's just an angle you might want to keep in mind.\""
+      }
+    }
+  ],
+  "all_output_bytes_match_exact_approved_replacements": true,
+  "nonexact_quote_matches_are_explicitly_authorized_corrections": [
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/01_a_banker_s_revelation.md",
+        "sha256": "935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+        "snapshot": ".session-workflow/objects/935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+        "label": "derived"
+      },
+      "line": 176,
+      "verdict": "near",
+      "approved_finding": "extract-01-line-177"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/01_a_banker_s_revelation.md",
+        "sha256": "935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+        "snapshot": ".session-workflow/objects/935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+        "label": "derived"
+      },
+      "line": 185,
+      "verdict": "near",
+      "approved_finding": "extract-01-line-186"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/03_arrival_at_the_board_laid_bare.md",
+        "sha256": "cf53977761907f6972cf86c13dcfc8b01cedbb88857b298c607155dcc3cf7dc6",
+        "snapshot": ".session-workflow/objects/cf53977761907f6972cf86c13dcfc8b01cedbb88857b298c607155dcc3cf7dc6",
+        "label": "derived"
+      },
+      "line": 248,
+      "verdict": "unscored",
+      "approved_finding": "extract-03-line-246"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+        "sha256": "567064329fedb44ad1464321f7dc80356c02d82beea5b7f940fc8adddb99af7d",
+        "snapshot": ".session-workflow/objects/567064329fedb44ad1464321f7dc80356c02d82beea5b7f940fc8adddb99af7d",
+        "label": "derived"
+      },
+      "line": 60,
+      "verdict": "near",
+      "approved_finding": "extract-04-line-058"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 77,
+      "verdict": "near",
+      "approved_finding": "extract-05-line-075"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 125,
+      "verdict": "unscored",
+      "approved_finding": "extract-05-line-123"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 149,
+      "verdict": "near",
+      "approved_finding": "extract-05-line-147"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 305,
+      "verdict": "near",
+      "approved_finding": "extract-05-line-303"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/06_planning_the_stakeout.md",
+        "sha256": "c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "snapshot": ".session-workflow/objects/c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "label": "derived"
+      },
+      "line": 44,
+      "verdict": "near",
+      "approved_finding": "extract-06-line-042-correction"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/06_planning_the_stakeout.md",
+        "sha256": "c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "snapshot": ".session-workflow/objects/c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "label": "derived"
+      },
+      "line": 221,
+      "verdict": "near",
+      "approved_finding": "extract-06-line-219-correction"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/08_return_to_the_common_chord.md",
+        "sha256": "f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+        "snapshot": ".session-workflow/objects/f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+        "label": "derived"
+      },
+      "line": 288,
+      "verdict": "near",
+      "approved_finding": "extract-08-line-286"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/08_return_to_the_common_chord.md",
+        "sha256": "f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+        "snapshot": ".session-workflow/objects/f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+        "label": "derived"
+      },
+      "line": 783,
+      "verdict": "near",
+      "approved_finding": "extract-08-line-781"
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/08_return_to_the_common_chord.md",
+        "sha256": "f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+        "snapshot": ".session-workflow/objects/f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+        "label": "derived"
+      },
+      "line": 825,
+      "verdict": "unscored",
+      "approved_finding": "extract-08-line-823"
+    }
+  ],
+  "source_transcript_unchanged": true,
+  "summary_sections_unchanged": true,
+  "scene_order_unchanged": true,
+  "first_scene_transition": "The approved catch-up block is removed; the next block opens with Aurelan returning, retaining all live Bimble material.",
+  "carried_discussions": [
+    "extract-01-line-069",
+    "extract-08-line-811"
+  ],
+  "generation_call": false,
+  "human_draft_approval": false
+}

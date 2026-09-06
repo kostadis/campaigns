@@ -1,0 +1,14 @@
+{
+  "format_check": {
+    "file": "session-summary.md",
+    "error": "no '## Voiced moments' section"
+  },
+  "first_scene_opening_markers": [
+    "previously[, ]"
+  ],
+  "first_scene_scheduling_markers": [],
+  "first_scene_closing_markers": [],
+  "summary_opening_markers": [],
+  "score": null,
+  "score_reason": "The standalone scorer requires extracted Voiced moments. This is the pre-extraction stage; no extraction or numeric score was fabricated."
+}

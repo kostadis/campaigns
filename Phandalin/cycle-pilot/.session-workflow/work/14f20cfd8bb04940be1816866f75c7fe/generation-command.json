@@ -1,0 +1,33 @@
+{
+  "backend": "codex-cli",
+  "model": "gpt-5.6-sol",
+  "effort": "medium",
+  "producer": "scene_extract",
+  "command": [
+    "/home/kroussos/src/CampaignGenerator-worktrees/cycle-integration/.venv/bin/scene_extract",
+    "--backend",
+    "codex-cli",
+    "--model",
+    "gpt-5.6-sol",
+    "--codex-reasoning-effort",
+    "medium",
+    "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/2e66921867eb46fd980e1be73bf0ab57/outputs/transcript.derived-draft.vtt",
+    "--summary",
+    "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/66deed0bc22648dc9c87414e633db5cd/outputs/session-summary.md",
+    "--output-dir",
+    "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs",
+    "--no-log",
+    "--batch-scenes",
+    "--party",
+    "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party.md",
+    "--party-config",
+    "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/party.yaml",
+    "--players-config",
+    "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/config/players.yaml",
+    "--max-tokens",
+    "32000"
+  ],
+  "usage": {
+    "tokens": null
+  }
+}

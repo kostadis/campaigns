@@ -1,0 +1,24 @@
+{
+  "scene_count": 8,
+  "quote_count": 997,
+  "verifier": {
+    "verified": 996,
+    "near": 1,
+    "unverified": 0
+  },
+  "source_label_mismatches": 0,
+  "ambiguous_multiple_source_occurrences": 99,
+  "cross_scene_duplicate_long_quotes": {},
+  "summary_sections_identical_to_approved_input": true,
+  "warnings": [
+    "Exact-word matches do not prove intended character/NPC identity or audio accuracy.",
+    "99 quotations occur at multiple positions, mostly short/repeated utterances; candidate cue matches are preserved rather than silently choosing one.",
+    "The verifier report labels scene summaries as human-authored GM-assist generically. For this run they are exact copies of the approved enhanced Events/remove-recap draft. Provenance corrections are proposed.",
+    "One opening recap block reappeared in extraction and is proposed for removal only from a future derived version."
+  ],
+  "limits": [
+    "No acoustic check or new independent transcription.",
+    "No smoothing, mechanics removal, global glossary edits, or draft approval.",
+    "Actual generation token usage unavailable; 21166 is projected output tokens."
+  ]
+}

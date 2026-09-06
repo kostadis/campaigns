@@ -1,0 +1,3049 @@
+Entity registry: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/entity_registry.yaml
+  -> aliases come from the registry; docs/npcs/ dossier frontmatter is superseded (remove the registry to use dossiers instead).
+
+[Parsing VTT | 149,641 raw chars | transcript.derived-draft.vtt]
+  → 95,374 chars of dialogue
+  Speaker map (5): David Mendenhall→Vukradin, Gary Young→Valphine Sotorra, Kostadis Roussos→GM, Stéphane Bourdeaud→Brewbarry, Wade Brown→Soma
+  Speaker labels rewritten: 1535 line(s); dialogue 95,374 → 80,850 chars
+
+[summary | session-summary.md: 8 scene(s)]
+  1. A Banker's Revelation
+  2. The Skeletal Horse Sighting
+  3. Arrival at The Board Laid Bare
+  4. Dining with Lim and Interrogating Bellows
+  5. Lim's Secret Supplier
+  6. Planning the Stakeout
+  7. Wandering the Blue Lake District
+  8. Return to the Common Chord
+  Alias map: 577 NPC(s) from None
+
+[Batched scene extraction | 8 scene(s) | model: gpt-5.6-sol | ceiling: 32,000 tok]
+============================================================
+  [1/1] Batch-extracting 8 scenes: A Banker's Revelation, The Skeletal Horse Sighting, Arrival at The Board Laid Bare, Dining with Lim and Interrogating Bellows, Lim's Secret Supplier, Planning the Stakeout, Wandering the Blue Lake District, Return to the Common Chord
+  ────────────────────────────────────────────────────────
+Codex run: model=gpt-5.6-sol (explicit); reasoning_effort=medium (explicit)
+<<<CG-SCENE 01 BEGIN: A Banker's Revelation>>>
+**GM** — *outside the Spire of the Morninglord*
+> "So, you've just come out of the Spire of the Morninglord. You've given the fireball, the necklace of Fireballs, or a Lady the Alagondar's heirloom to Perrin Alagondar."
+
+**GM** — *Aurelan Vance catches up after visiting the Counting House*
+> "Aurelan Vance, does come back. As you guys are leaving, Aurelan Vance, does come back, to… he apparently had gone to the counting house and then rushed back. He seems a little bit out of breath."
+
+**Soma** — *asking who Aurelan is*
+> "Aurelan Vance, which one was that guy?"
+
+**GM** — *identifying Brewbarry's banker*
+> "He's the, he's the… he's, he's Brewbarry's banker."
+
+**GM** — *recalling how Brewbarry recruited him*
+> "you know, the guy that Brewbarry intimidated into, like, you know, being an agent of his."
+
+**Soma** — *on Brewbarry's history of intimidation*
+> "The list of people who Brewbarry is intimidated is…"
+
+**GM** — *finishing Soma's thought*
+> "is expensive."
+
+**Soma** — *correcting the description*
+> "Very large."
+
+**Brewbarry** — *objecting*
+> "What do you mean? Intimidated?"
+
+**GM** — *citing the actual check*
+> "I mean, literally, you intimidated him with an intimidation check."
+
+**Brewbarry** — *recasting the interaction*
+> "That's not an invitation."
+
+**Brewbarry** — *describing it as friendship*
+> "I was just making friends with him, you know, he's making me a favor, I'll do him one, you know."
+
+**GM** — *Aurelan composes himself*
+> "No, no, so, so, so, yeah, so, so he's, so just so you know, so Aurelan Vance is, it shows up a little bit huffy-puffy, you know, he's, he's very excited, walks up to you, like, kind of pats himself down, you know, guests himself in proper clothing."
+
+**Brewbarry** — *greeting Aurelan*
+> "A greeting. Hello, my friend."
+
+**GM** — *Aurelan is unsure of the correct address*
+> "Yes, Mr. Brewbarry, I… is it Mr. Brewbarry? Is that the correct appellation? I'm sorry, I'm not familiar with Guardian norms."
+
+**Brewbarry** — *offering a familiar name*
+> "So just call me Brew, that's fine."
+
+**GM** — *trying the name*
+> "Brew!"
+
+**Vukradin** — *noticing the new nickname*
+> "You're going by Brew now?"
+
+**Brewbarry** — *embracing it*
+> "Yes, well, yeah, it's a new thing."
+
+**Soma** — *reacting to the nickname*
+> "Despicably you."
+
+**Valphine Sotorra** — *qualifying the privilege*
+> "Only to his friends."
+
+**Vukradin** — *playing with the name*
+> "Yeah, that grew, grew."
+
+**Brewbarry** — *specifying the relationship*
+> "To my banker friends."
+
+**GM** — *Aurelan reciprocates*
+> "And since we're on the… since we're on such friendly terms, my friends call me Ori."
+
+**Brewbarry** — *surprised*
+> "Whoa."
+
+**Brewbarry** — *inviting the report*
+> "Thank you, Ori. So, speak your peace."
+
+**GM** — *Aurelan introduces his discovery*
+> "Alright. Well, you asked me to find out who the gnome is."
+
+**Brewbarry** — *confirming*
+> "Yes, I did."
+
+**GM** — *Aurelan explains why he rushed back*
+> "And, and, well, you know, I heard that you were, you know, after the performance, I was thinking I would, wait for you to come by the bank, but then I thought to myself, Valphine's sermon was inspiring."
+
+**Soma** — *agreeing enthusiastically*
+> "Oh, was it ever."
+
+**Brewbarry** — *agreeing*
+> "There was, yeah."
+
+**GM** — *Aurelan credits the sermon*
+> "It was… and it inspired me to action."
+
+**Brewbarry** — *approving*
+> "Great. Glad to hear it."
+
+**GM** — *Aurelan begins his findings*
+> "Yes. Well, last night, I decided to go over some of the paperwork related to Bimble, and here's what I…"
+
+**Vukradin** — *interrupting*
+> "Enough."
+
+**GM** — *reacting to the interruption*
+> "Oop."
+
+**GM** — *distinguishing Bimble from “Bimbo”*
+> "Bim… no, no. Bimbo is a…"
+
+**GM** — *defining the wrong word*
+> "Male or female individual who is very sexually."
+
+**Vukradin** — *consulting the written name*
+> "We wrote the name down. It says here, Bimble."
+
+**GM** — *mishearing the confirmation*
+> "Bingo."
+
+**Vukradin** — *repeating the party's nickname*
+> "Bimbo the Gnome!"
+
+**GM** — *correcting him*
+> "No."
+
+**GM** — *stating the name*
+> "Bimble."
+
+**Brewbarry** — *urging Aurelan onward*
+> "Alright, come on, this isn't a spelling bee, come on."
+
+**Brewbarry** — *demanding the report*
+> "Get on with it."
+
+**GM** — *allowing the party's usage while preserving the spelling*
+> "It's correctly spelled, you guys can call it whatever you want."
+
+**Brewbarry** — *trying the correct name*
+> "Bimble, okay."
+
+**GM** — *Aurelan's preferred usage*
+> "Ori is gonna call it Bimble."
+
+**Brewbarry** — *starting another thought*
+> "Yeah, we're gonna go with…"
+
+**Vukradin** — *joking about Aurelan's correction*
+> "Pronouncing the name, that's fine. It maybe has a speech impediment."
+
+**GM** — *Aurelan displays the name*
+> "Well… he pulls out a piece of paper, shows you the correct spelling, B-I-N-B-L-E."
+
+**GM** — *reporting Bimble's employment history*
+> "He goes, the commission carried him on maintenance role for 7… for 11 years."
+
+**Vukradin** — *confirming the duration*
+> "11 years."
+
+**GM** — *describing the abrupt end of payments*
+> "Yes, the payments stop 7-10 days ago, on the day, not the 10-day, no severance, no final reconciliation, no forwarding instruction. That is not how a contract ends."
+
+**GM** — *Aurelan addresses Brewbarry familiarly*
+> "He struggles to about, say, Mr. Brewbarry, but then realize that, you know, we're on friendly terms. Brew, that is how a contract is abandoned!"
+
+**GM** — *explaining Bimble's lack of financial activity*
+> "And then, because he's a banker, and this is the only kind of question he has any good at, he has drawn nothing since. He has not banked, he has not borrowed, and he has not left. Your Harper friends would tell you the same if you had any, so somebody is keeping him. Find a man who feeds… find who feeds a man, and you have found the man."
+
+**Brewbarry** — *speculating grimly*
+> "Sounds like he's feeding worms, rather than… But he's fitting him, but…"
+
+**Brewbarry** — *promising to investigate*
+> "We'll… we'll get to the bottom of it, my friend. Right."
+
+**Brewbarry** — *thanking Aurelan*
+> "Thank you."
+
+**GM** — *Aurelan reiterates his advice*
+> "Well, you're very welcome. If you could find who is feeding him, I am certain you will find him."
+
+**Vukradin** — *naming the mystery*
+> "who's feeding Bimbo."
+
+**GM** — *confirming*
+> "Yes."
+
+**Vukradin** — *repeating the prospective title*
+> "shut down? Who is feeding Bimbo?"
+
+**GM** — *correcting the name again*
+> "Bimble. Bimble."
+
+**Brewbarry** — *insisting on the nickname*
+> "Bimbo."
+
+**Vukradin** — *trying to name the quest*
+> "Leaving… Mmm, what should be the name of this quest be?"
+
+**Vukradin** — *proposing a fragment*
+> "Mmm. Chase."
+
+**Brewbarry** — *completing it*
+> "the bimbo."
+
+**GM** — *resigned to the party's wordplay*
+> "I'm going to have to make sure that the name… because if I try to come up with names that cannot be twisted, you guys are then going to take it as a matter of personal privilege and honor."
+
+**Vukradin** — *acknowledging further possibilities*
+> "Oh, boy. I… yeah, I could go… I could go pretty… yeah, I could go pretty dirty on this one."
+
+**Valphine Sotorra** — *excusing the misunderstanding*
+> "I'm sorry, under common is my native language."
+
+**Soma** — *offering her own explanation*
+> "I'm just a pervert."
+
+**Brewbarry** — *turning to the investigation*
+> "How can we go about finding this guy, this number?"
+<<<CG-SCENE 01 END>>>
+
+<<<CG-SCENE 02 BEGIN: The Skeletal Horse Sighting>>>
+**GM** — *the party crosses the Protector's Enclave*
+> "Yes, yes. As you're heading out towards the city, as you go through the Protector's Enclave, a passerby recognizes Boney."
+
+**Soma** — *on Boney's growing fame*
+> "Oh, man, Boney is popular."
+
+**GM** — *the passerby recognizes the horse*
+> "And he goes, I've seen that horse somewhere!"
+
+**Vukradin** — *surprised*
+> "Really?"
+
+**Soma** — *trying to establish when*
+> "You've, you, you've seen them outside right now?"
+
+**GM** — *the passerby struggles to remember*
+> "So I've seen such a horse before, I just cannot remember where. And he, like…"
+
+**Soma** — *asking the obvious skeletal-horse question*
+> "Did you have flesh back then?"
+
+**GM** — *the passerby remains convinced*
+> "No, I'm quite sure I saw such a horse before. I can't remember. And he, like, says, oh, I must be, it must be, it must be the son. I'm so sorry, I need to go."
+
+**Soma** — *pointing out that Boney can answer*
+> "No, he talks."
+
+**Soma** — *suggesting they ask Boney*
+> "Why don't you ask him? You know, ask Boney, where might you have seen him? Boney?"
+
+**GM** — *misunderstanding the direction of the question*
+> "Boney… Boney asks him, I presume, you know."
+
+**Soma** — *clarifying*
+> "No, the other way around, I want the man to ask Boney, right?"
+
+**GM** — *the passerby questions Boney*
+> "He goes, but he asks, Boney,"
+
+**GM** — *asking whether Boney traveled outside Neverwinter*
+> "I… have you… were you ever, and were you ever, fritting around outside of the walls of Neverwinter?"
+
+**GM** — *Boney's answer*
+> "Of course, Boney says yes, because he was Lady Alagondar."
+
+**Soma** — *elaborating*
+> "Been grazing all over the place."
+
+**GM** — *the passerby thinks*
+> "He goes, hmm."
+
+**GM** — *continuing to think*
+> "Hmm."
+
+**GM** — *still thinking*
+> "Hmm."
+
+**GM** — *considering relatives or offspring*
+> "Well, I might have seen you on the field. I can't remember. I'm so sorry, this is just… there was something about the gate, something about the look. Maybe it was one of your children, Bony."
+
+**GM** — *adding another possibility*
+> "Or a sibling…"
+
+**Soma** — *surprised by the possibility*
+> "Boney has kids?"
+
+**GM** — *remaining uncertain*
+> "Siblings, I don't know."
+
+**Soma** — *considering skeletal offspring*
+> "Wait, are his kids skeletal?"
+
+**GM** — *posing the alternative*
+> "Are they alive?"
+
+**Soma** — *questioning the entire sighting*
+> "Yeah, like, I mean, so hold on, this guy's seen this skeletal horse bouncing around outside before?"
+
+**GM** — *describing the stranger*
+> "He seems imminently confused, like, you're not sure…"
+
+**Soma** — *sharing the confusion*
+> "So am I."
+
+**GM** — *framing the uncertain recognition*
+> "Yes, it's one of those moments where somebody thinks they see something, but."
+
+**Vukradin** — *suggesting a twin*
+> "Maybe Boney has a twin."
+
+**GM** — *accepting the possibility*
+> "Right."
+
+**Vukradin** — *on skeletal-horse resemblance*
+> "Most skeletal horses look alike to me."
+
+**Soma** — *noting the lack of coloration*
+> "I mean, they're… There's not, like, there's no unique coloring pattern."
+
+**Vukradin** — *agreeing*
+> "Right. It's just bones, right?"
+
+**Soma** — *suggesting the tack as the identifying feature*
+> "Somebody… maybe it was somebody wearing the same tackle?"
+
+**GM** — *agreeing*
+> "Yeah."
+
+**Soma** — *starting another question*
+> "Was he Bear? Was he,"
+
+**GM** — *the passerby revises his memory*
+> "No, you know, he goes, yes, you know, I… I…"
+
+**GM** — *considering Boney's tack and posture*
+> "It might have… it might have been the tackle, he looks at it still wearing Lady Alagondar's tackle. It might have been the posture of the horse. I'm sure I've never seen a skeletal horse before."
+
+**Soma** — *noticing the contradiction*
+> "So now you're saying it wasn't a skeletal horse."
+
+**GM** — *the passerby suddenly remembers*
+> "Oh, no, oh, go, no, no, he goes, I remember where I saw this horse."
+
+**Vukradin** — *rolling to assess him*
+> "21 Insight."
+
+**GM** — *revealing the mundane answer*
+> "I remember it was the horse that was outside of the service where that charming cleric gave a speech."
+
+**Soma** — *confirming the timing*
+> "Oh, you saw him earlier today?"
+
+**Vukradin** — *exasperated*
+> "Oh, God, you're wasting our time. Alright!"
+
+**Soma** — *confirming*
+> "Yes!"
+
+**Vukradin** — *ending the exchange*
+> "Yeah."
+
+**Soma** — *noting the obvious*
+> "I've seen a lot of these people in town."
+
+**Vukradin** — *dismissing the passerby*
+> "Amazing."
+
+**Soma** — *reacting*
+> "Wow."
+
+**Soma** — *reacting again*
+> "Wow."
+
+**Vukradin** — *questioning the party's habits*
+> "Why don't we talk to strangers?"
+
+**Vukradin** — *issuing a request*
+> "Stop talking to strangers, please."
+
+**Soma** — *defending the stranger*
+> "Hey, he talked to…"
+
+**Soma** — *offering her philosophy*
+> "Stranger's just a friend you haven't met."
+<<<CG-SCENE 02 END>>>
+
+<<<CG-SCENE 03 BEGIN: Arrival at The Board Laid Bare>>>
+**Soma** — *remembering the restaurant*
+> "I mean, I've been dying for this soup."
+
+**GM** — *describing Soma's memories of the Board Laid Bare*
+> "The board laid bare, and you remember it as being… if anyone could tell you, and you remember it as a place with good prices, good food, good atmosphere."
+
+**Soma** — *describing it as home*
+> "Aww, when you're here, you're family?"
+
+**GM** — *suggesting Lim may know how someone could be fed*
+> "Yes, and, you know, and, you know, the appropriate Lim might know… might have a bead on where such a thing could happen."
+
+**Soma** — *asking for clarification*
+> "Such a… what now?"
+
+**GM** — *connecting the restaurant to the investigation*
+> "how… where someone… how someone could be fed. Maybe there's something you could learn from… learn from her."
+
+**GM** — *describing Lim*
+> "She's a… she runs a small business, right?"
+
+**Soma** — *trying to remember Lim*
+> "Yeah. Which one was she? She was,"
+
+**GM** — *identifying her*
+> "She's the proprietor of the board laid bare."
+
+**Soma** — *recognizing the restaurant*
+> "Oh, so the board laid bare, yeah."
+
+**GM** — *recalling the cuisine*
+> "Right? She's, she's a proprietare, and she's the one who used to… she's the one who, you know, made the turtle… turtle soup, and was a little bit of home, away from home."
+
+**Soma** — *deciding to go*
+> "Why'd she stop making it? Well, I guess we go to the Board Laid Bare, right?"
+
+**GM** — *correcting the premise*
+> "I mean, she didn't stop making it, you stopped going there."
+
+**Soma** — *qualifying her attendance*
+> "I mean, whenever I was in town."
+
+**GM** — *agreeing*
+> "That's right."
+
+**GM** — *explaining the absence*
+> "Yes, I just haven't… Just haven't been in town a while."
+
+**Soma** — *announcing their return*
+> "Yeah, well, now we're back."
+
+**GM** — *the party crosses the Bluelake District*
+> "As you're walking through the Bluelake District, this is this area here, you notice that."
+
+**Vukradin** — *misreading the district name*
+> "Blue Light District, we're going to see."
+
+**Soma** — *making another reference*
+> "Kmart!"
+
+**Vukradin** — *continuing the joke*
+> "Blue Light District, really? No, it's really…"
+
+**Soma** — *correcting him*
+> "Red light is what you're thinking."
+
+**GM** — *pointing to the map*
+> "Lake Blue Lake. You'll notice it says Blue Lake on the map. You are in a punchy mood tonight, dude."
+
+**Vukradin** — *reading the map*
+> "Bluelake District, I do see that, number 15."
+
+**GM** — *confirming their location*
+> "So, so you're in the Bluelake District."
+
+**Soma** — *complaining about the journey*
+> "It's been a long time to get to the boar's head, or boar laid bare."
+
+**GM** — *announcing their arrival*
+> "Right. And so, finally, you arrive at the Board Laid Bare."
+
+**Vukradin** — *reacting to the name*
+> "So many puns."
+
+**Valphine Sotorra** — *warning against a misreading*
+> "Not be misread as the."
+
+**Vukradin** — *continuing*
+> "So many tons."
+
+**Valphine Sotorra** — *acknowledging him*
+> "Thank you."
+
+**Vukradin** — *repeating the point*
+> "So many puns."
+
+**GM** — *anticipating more wordplay*
+> "Dude, now I'm gonna have to, like, you know, be careful with all of my…"
+
+**Vukradin** — *on the names*
+> "They just set themselves up, like, it's… it's not even fair."
+
+**Valphine Sotorra** — *noting the recording*
+> "You know, it's not like we're putting these on YouTube or anything."
+
+**Soma** — *noting the transcript workflow*
+> "Oh, you're just sending him to Claude to transcribe for you, right?"
+
+**GM** — *confirming*
+> "Yeah, it's… it's… yes."
+
+**Vukradin** — *listing the suggestive names*
+> "Laid, Bear. Bimbo… It's just…"
+
+**Brewbarry** — *seeing a pattern*
+> "There's a theme here, right?"
+
+**Brewbarry** — *adding the Tower District*
+> "just… and it's in a Tower District as well, you're not just saying."
+
+**Soma** — *adding another district*
+> "Oh, the Hammock District."
+
+**GM** — *trying to recover*
+> "And the how… yes, you are in the how tardis, but I need to just read something, so…"
+
+**Vukradin** — *forgetting the purpose of the visit*
+> "Why did it become… I forget why we came to this district."
+
+**Soma** — *answering plainly*
+> "To get my food. I'm hungry."
+
+**Vukradin** — *remembering*
+> "Oh, oh, the soup, okay, alright, we need a request for that."
+
+**Soma** — *naming the objective*
+> "Get some soup."
+
+**Vukradin** — *suggesting a quest title*
+> "Soma… Soma's soup."
+
+**Soma** — *approving*
+> "Super's good."
+
+**Brewbarry** — *joining the punning*
+> "Supposed to see soup? Sorry."
+
+**GM** — *trying to pronounce the name*
+> "So, just so you know, the board…"
+
+**GM** — *breaking down*
+> "The board… I can't say it without cracking up."
+
+**Vukradin** — *abbreviating it*
+> "The BLB."
+
+**Vukradin** — *repeating the abbreviation*
+> "It's the BLB."
+
+**Soma** — *agreeing*
+> "Yeah."
+
+**GM** — *realizing the alternate reading*
+> "I can't believe I didn't see that!"
+
+**Brewbarry** — *offering another expansion*
+> "It's an Airbnb."
+
+**Vukradin** — *agreeing*
+> "Exactly, Stephane! It's an Airbnb."
+
+**GM** — *trying again*
+> "I'm gonna start picking Greek names so that I don't… this doesn't happen. All right, the broad… sorry."
+
+**Soma** — *catching the slip*
+> "The broad…"
+
+**Vukradin** — *celebrating it*
+> "There, there you go! There it is!"
+
+**Brewbarry** — *approving the alternate name*
+> "Much better name."
+
+**Vukradin** — *repeating his triumph*
+> "There it is!"
+
+**Brewbarry** — *approving*
+> "Yeah."
+
+**GM** — *finally stating the name*
+> "The board laid bare."
+
+**Soma** — *noting the unforced error*
+> "She didn't even come up with it."
+
+**Vukradin** — *denying responsibility*
+> "I didn't even say it!"
+
+**Soma** — *explaining the group's restraint*
+> "Yeah, we let you get to it on your own, man."
+
+**GM** — *explaining why he said it aloud*
+> "The minute… the minute I read it, that's what I thought. Like, and I was trying to avoid saying it, but then I said, you know what, if I don't say it, I'm going to spend the entire evening trying not to say it. So why don't I say it, get it out of my system, and now I can say it correctly. The board laid bare."
+
+**GM** — *introducing Lim*
+> "So, just so, you know, the place is run by a chef called Lim."
+
+**Soma** — *confirming*
+> "Yep."
+
+**GM** — *describing Lim*
+> "Who's a turtle chef… she's a turtle chef."
+
+**GM** — *introducing the host*
+> "And and the guy at the door is an, what is he?"
+
+**Soma** — *guessing*
+> "Asphalt."
+
+**GM** — *correcting her*
+> "It… no, no, he's a warforged."
+
+**GM** — *describing Bellows at the door*
+> "It's kind of like a bizarre creature in and of itself. He meets you at the door, he stands tall."
+
+**GM** — *describing his precise manner*
+> "Very still, and states the table options with precision unusual even for servers."
+
+**Soma** — *asking whether Bellows is new*
+> "Is this a new serv- or new host from the last."
+
+**GM** — *answering*
+> "No, no."
+
+**Soma** — *finishing the question*
+> "in here?"
+
+**GM** — *recalling Bellows's demeanor*
+> "But you remember him as, like, being humorless, humorless, precise."
+
+**Soma** — *recognizing the type*
+> "That kind of guy."
+
+**GM** — *confirming*
+> "Yes."
+
+**Brewbarry** — *asking about the choices*
+> "table options, what options are there? I'm curious."
+
+**GM** — *Bellows recites the options*
+> "three tables available. The table near the window offers the best view of the tower. The corner table is preferred by guests who do not wish to be observed. I recommend the corner table."
+
+**Soma** — *choosing the view*
+> "Window, please. I have guests today."
+
+**Soma** — *explaining the departure from habit*
+> "Normally, I was here alone, right? Like, now I've got some company."
+
+**Vukradin** — *asking about the third option*
+> "What was the cleared option?"
+
+**Soma** — *listing what she heard*
+> "Yeah, I heard 3 tables available. Window, corner, and…"
+
+**GM** — *making an uncertain correction*
+> "Club."
+
+**Soma** — *guessing*
+> "bar."
+
+**GM** — *clarifying that there were two window tables*
+> "No, there was… sorry, there were two tables near the wind… there were two tables near the windows."
+
+**Vukradin** — *claiming both*
+> "Oh, perfect, we're gonna need two tables."
+
+**Soma** — *planning to combine them*
+> "Yeah, we'll just… we'll just push them together."
+
+**Vukradin** — *agreeing*
+> "Yeah."
+
+**GM** — *saying one table is enough*
+> "No, you fit in one table."
+
+**Brewbarry** — *asserting the party's prerogative*
+> "Well, we'll do as we please."
+
+**Soma** — *explaining why they need both*
+> "We'll push them together. Brewbarry takes up a table almost all on his own. Yeah."
+
+**Vukradin** — *agreeing*
+> "He's, like, his own table, almost."
+
+**GM** — *Bellows recognizes Soma*
+> "And he looks at… the creature looks at you and goes, hmm, I've seen you before. You are the one known as Soma, a friend of Lim's."
+
+**Soma** — *confirming their history*
+> "Yeah, we… I've been here plenty of times. I'm glad you remember me."
+
+**GM** — *Bellows states the exact absence*
+> "You haven't been here in 73 days."
+
+**Soma** — *explaining*
+> "It's… it's been a… it's been an interesting journey."
+
+**GM** — *taking her literally*
+> "Literally."
+
+**Soma** — *asking for Lim*
+> "I'm here to see Lim, I hope she's still around."
+
+**GM** — *assuring her*
+> "Oh, Lim is very much around."
+
+**Soma** — *adding a joke*
+> "corpulent."
+
+**Vukradin** — *asking the host's name*
+> "What is your name, sir?"
+
+**GM** — *Bellows answers*
+> "Bellows."
+
+**Vukradin** — *repeating it*
+> "Bellows, bellows!"
+
+**Vukradin** — *asking about the missing gnome*
+> "Do you know a gnome named Bimbo?"
+
+**Soma** — *continuing the wordplay*
+> "He's been both."
+
+**GM** — *Bellows answers*
+> "No, I do not."
+
+**Vukradin** — *accepting the answer*
+> "Yeah. Okay."
+
+**Soma** — *asking about other gnomes*
+> "Do you see a lot of gnomes come through here? Probably not."
+
+**Vukradin** — *trying a pickup line*
+> "What is a gnome like you doing at a place like that?"
+
+**GM** — *Bellows seats the party*
+> "Alright, so he sits you down, And he says."
+
+**Soma** — *adding another gnome pun*
+> "Bimbling about."
+
+**GM** — *Bellows presents the menu*
+> "So he walks you towards the table, he sits you down. What do we have today? And he shows you a handwritten card. It's got fresh fish, vegetables, potatoes, two sauces."
+
+**Brewbarry** — *requesting soup*
+> "Soup, buddy."
+
+**Soma** — *asking Bellows to summon Lim*
+> "Just tell Lim I'm back, and, you know, she'll know how to."
+
+**Vukradin** — *expecting Soma's regular order*
+> "The usual…"
+
+**GM** — *noting the absence of alcohol and the low prices*
+> "No alcohol, but as you look at the prices, they're very low."
+
+**Vukradin** — *welcoming the low cost*
+> "that's good, we don't have very much money."
+
+**GM** — *comparing the prices with the rest of Neverwinter*
+> "But they're very low, they're very low for Neverwinter. One of the things you've noticed since you've been here is that the prices seem to be quite elevated, possibly caused by the disruption in trade routes."
+
+**Soma** — *offering a benign supply-chain explanation*
+> "Yeah, because it's farm-to-table, that's why we come here. It has its own supply chain right within the walls. It's… no, it's right there! It doesn't need any trade."
+
+**Vukradin** — *approving the explanation*
+> "Organic Fair Trade!"
+
+**Soma** — *embracing it*
+> "There you go! That's… no, that's a perfect explanation. I mean, that's why we always came here. It's a nice, you know, locally sourced…"
+
+**Brewbarry** — *marking Lim as a source of information*
+> "We should make a mental note to talk to your friend Lim and find out how."
+
+**Soma** — *expecting a personal greeting*
+> "She better come out and say hi."
+
+**GM** — *checking whether Brewbarry ordered soup*
+> "Yeah, did you order… did you ask for the soup, a Brewbarry?"
+
+**Brewbarry** — *confirming*
+> "Yes, we did."
+
+**Vukradin** — *ordering for everyone*
+> "for everybody. That's what we came here for."
+
+**Brewbarry** — *confirming*
+> "Yeah."
+<<<CG-SCENE 03 END>>>
+
+<<<CG-SCENE 04 BEGIN: Dining with Lim and Interrogating Bellows>>>
+**Soma** — *trusting Lim to choose*
+> "Trust someone to order for you."
+
+**GM** — *Lim arrives with a meal already selected*
+> "Right. So, like, Lim is, like, carrying a tray of what she's decided you want, right? She's no longer… she doesn't actually wait for you to make an order. She sees, Soma, she puts the tray down, and…"
+
+**GM** — *Lim greets Soma*
+> "She sits down. You came back? I thought you'd gone somewhere northern."
+
+**Soma** — *describing her travels*
+> "It's… I've been a little all over the place. Where have we… we've been to… we haven't quite been to Faerun yet, or no, not Faerun,"
+
+**Vukradin** — *supplying a fragment*
+> "long."
+
+**Soma** — *correcting the destination*
+> "Leilan, yeah, we haven't gone there yet. We've been, you've probably seen a bunch of the, the…"
+
+**Soma** — *introducing her companions*
+> "Famous swag now of Brewbarry and Vukradin in here. These are…"
+
+**Soma** — *describing their adventures*
+> "These guys are taking me all over creation."
+
+**GM** — *Lim recognizes Vukradin*
+> "These are… These are not… he… wait, she pauses, says, you are the great Vukradin?"
+
+**Vukradin** — *downplaying the title*
+> "I don't know about great."
+
+**GM** — *Lim gives her opinion*
+> "Well, I'm not the one who… I don't like your music, she says."
+
+**Soma** — *accepting Lim's opinion*
+> "That's fine."
+
+**Vukradin** — *accepting it too*
+> "That's fine."
+
+**GM** — *Lim criticizes the music*
+> "It's too… It's not even useful."
+
+**GM** — *acknowledging its popularity*
+> "But everybody else seems to like it. Do you know that your place, where you used to play, is now the hottest ticket in town?"
+
+**Vukradin** — *identifying the venue*
+> "The Common Chord, yeah. Do you know why that is?"
+
+**GM** — *Lim explains*
+> "Yeah, because that's where you used to play."
+
+**Vukradin** — *wondering about compensation*
+> "Cool, maybe they owe me one."
+
+**Soma** — *checking whether they already visited*
+> "Wait, didn't we go there already, or no?"
+
+**Vukradin** — *answering*
+> "No, we didn't."
+
+**Soma** — *remembering another stop*
+> "We went to the other…"
+
+**Vukradin** — *noting the open quest*
+> "It's on the quest tracker, but we haven't been there."
+
+**GM** — *Lim describes the Tower District*
+> "So she goes… she then mentions that the Tower District has been quieter, quieter."
+
+**GM** — *distinguishing quiet from safety*
+> "She says, not safer. Quieter is different."
+
+**GM** — *describing activity at the Cloak Tower*
+> "She mentions that 3 weeks ago, people dressed as many starred Cloaks associates went into the cloak Tower by the basement stairs and spent the day. They came out with nothing."
+
+**Soma** — *offering an innocent explanation*
+> "They were just down there to play pool."
+
+**GM** — *stating Lim's uncertainty*
+> "Yeah, she doesn't know what chances."
+
+**Soma** — *assessing the story*
+> "That doesn't sound that suspicious on its own."
+
+**GM** — *Lim senses a change*
+> "Yeah, she says something's changed. Something's changed in the neighborhood."
+
+**Soma** — *asking about the restaurant*
+> "I mean, are you… are you still doing good business?"
+
+**GM** — *calling for Valphine's insight*
+> "So one of the things… one of the things that, you know, Valphine, role in Insight check."
+
+**Vukradin** — *joining the roll*
+> "Oh, we're gonna roll inside check."
+
+**GM** — *specifying Valphine*
+> "Yes, I know, but I want to know what Valphine's number is."
+
+**Soma** — *estimating Valphine's modifier*
+> "Because she's, like, plus 8 or something crazy absurd."
+
+**Valphine Sotorra** — *correcting her*
+> "No, no, no. Plus 10."
+
+**Valphine Sotorra** — *reporting the result*
+> "22."
+
+**Soma** — *reacting*
+> "Jesus, plus 10."
+
+**Brewbarry** — *distracted during the meal*
+> "doing this, Brewbarry seems to be lost in fuss and is starting to write down…"
+
+**Brewbarry** — *writing on a napkin*
+> "Eric, on the napkin."
+
+**GM** — *highlighting the mystery*
+> "So, so… so you notice that the food is cheap. Like, there seems to be something going on about the food… the food price."
+
+**Vukradin** — *asking about quality*
+> "Does that the food taste cheap as well?"
+
+**GM** — *praising the meal*
+> "No, no, the food tastes fabulous."
+
+**Soma** — *delighted*
+> "Wow. That's fantastic."
+
+**GM** — *describing tortle cuisine*
+> "Fantastic. I mean, the food's fantastic. I mean, especially if you're a turtle. I mean, the turtle cuisine is very much, you know…"
+
+**GM** — *summarizing its preparation*
+> "Raw and steamed. Raw and steamed. Raw and steamed."
+
+**Soma** — *approving*
+> "Just the way y'all."
+
+**Valphine Sotorra** — *testing whether the prices are preferential*
+> "Are we being charged a different rate from other guests in the tavern?"
+
+**GM** — *clarifying that everyone receives the same low prices*
+> "No, no, no, no, the price of the goods are… the prices on the menus that everybody has are lower than what you would expect."
+
+**Vukradin** — *addressing Lim*
+> "Lim?"
+
+**GM** — *confirming*
+> "Lim, yeah."
+
+**Soma** — *recalling her earlier question*
+> "I did try to ask her if she's still doing good."
+
+**Vukradin** — *asking about gnomes*
+> "Have any gnomes come through here?"
+
+**GM** — *Lim reacts*
+> "She looks at you funny and goes."
+
+**GM** — *Lim points out another gnome*
+> "points to a gnome sitting at a table down… two tables down. Well, this guy came in for lunch today."
+
+**Vukradin** — *clarifying*
+> "Well, we're looking for a particular gnome."
+
+**GM** — *Lim deflects toward her business*
+> "She goes, I… I just, I just, I just run… I just run a restaurant. I've got good suppliers, and,"
+
+**GM** — *asserting that business is good*
+> "Business is good."
+
+**Soma** — *confirming*
+> "Still doing strong, huh?"
+
+**GM** — *Lim tires of the business questions*
+> "And then she kind of gets annoyed about asking about the business and the restaurant, and asks Soma, so what do you… what have you been doing? Like, what have you been doing, Soma? Like, last time we spoke, you decided you were gonna go be a guide, and…"
+
+**GM** — *Lim recounts the rumors*
+> "Next thing I know, I've heard stories about some druid from… of Mielikki with some staff that's sprouting leaves, and…"
+
+**Soma** — *showing the staff*
+> "Oh, this thing?"
+
+**GM** — *Lim turns to Brewbarry*
+> "And next thing I see, you're sitting next to"
+
+**GM** — *describing him*
+> "a cosplaying Brewbarry…"
+
+**Soma** — *correcting Lim*
+> "He's not cosplaying, either."
+
+**Soma** — *insisting he is genuine*
+> "The real deal."
+
+**Brewbarry** — *reacting to the conversation*
+> "I yawned very loudly."
+
+**Soma** — *explaining Brewbarry*
+> "Yeah, he's… he's bored easily."
+
+**Soma** — *defending him*
+> "He's a good guy once you get to know him."
+
+**GM** — *Lim turns to Vukradin*
+> "and Vukradin. I mean, I never, like, cared for his music, but, like, there are people who would kill to hear him play."
+
+**Vukradin** — *checking whether she means it literally*
+> "Like, literally kill?"
+
+**GM** — *denying it*
+> "No!"
+
+**Soma** — *summarizing her recent life*
+> "Yeah, so it's been a, it's been a wild couple of months, hasn't it?"
+
+**Soma** — *describing the escalation*
+> "Let's just say one of my guides got a little… little more tangled up in, weird shit."
+
+**GM** — *Lim continues probing while avoiding the supply question*
+> "So, so this goes on for a little bit. She's, she's, like, probing… she's, she's, like, trying to find out where you are. She's clearly trying to distract you from the question of the food supplies."
+
+**Soma** — *admitting the distraction works*
+> "I mean, she's doing a good job of it, I keep…"
+
+**Soma** — *realizing the deflection*
+> "Dang it."
+
+**Vukradin** — *beginning to flatter Lim*
+> "You, you know, you are just the most amazing…"
+
+**Vukradin** — *praising her cooking*
+> "Chef, this food is just outstanding."
+
+**Vukradin** — *requesting a kitchen tour*
+> "I was wondering, could you… could you show us, like, how you do it? Can you take… can you show us the magic?"
+
+**GM** — *Lim becomes excited*
+> "About how to cook, so she's, like, excited. Yes, of course!"
+
+**Soma** — *giving a practical reason*
+> "Yeah, we could use this kind of stuff on the trail."
+
+**GM** — *Lim leads them into the kitchen*
+> "She, she, she takes you into the kitchen and, and, starts to… to dry…"
+
+**Vukradin** — *planning to investigate*
+> "We'll look around while we're in the kitchen."
+
+**Vukradin** — *delegating the investigation*
+> "Not me, not me. Valphine is gonna look around while we're in the…"
+
+**GM** — *calling for another check*
+> "Valphine, roll an insight check again."
+
+**Valphine Sotorra** — *agreeing*
+> "Again, okay."
+
+**Valphine Sotorra** — *reporting a higher result*
+> "My previous 22 is insufficient. Okay, 25 this time."
+
+**GM** — *distinguishing the checks*
+> "It was, it was for something else."
+
+**GM** — *revealing Bellows's nature*
+> "I'm doing something else. Alright, so one of the things you notice is that as you look around, you realize that Bellows has that look of someone who could not tell a lie."
+
+**Soma** — *considering the discovery*
+> "Hmm."
+
+**Valphine Sotorra** — *acknowledging it*
+> "Okay."
+
+**GM** — *presenting the choice*
+> "So, so… So you… so you can either follow Valphine, you can follow Soma into the kitchen, or go"
+
+**GM** — *naming the option*
+> "Probe bellows."
+
+**Brewbarry** — *choosing Bellows*
+> "I'm going…"
+
+**Brewbarry** — *stating his plan*
+> "I'm going to probe Bellows, ask him how the hell are they managing to keep that."
+
+**Vukradin** — *inviting everyone to the tour*
+> "Guys, come on the food tour! This is gonna be awesome!"
+
+**Vukradin** — *challenging Brewbarry's priorities*
+> "You don't care about food? Are you kidding me?"
+
+**Brewbarry** — *focusing on the mystery*
+> "I'm thinking bathrobes. I need to get to the bottom of this."
+
+**Brewbarry** — *noticing the phrasing*
+> "Although, although, getting to the bottom of it at the Board Laid Bare sounds, you know, dodgy."
+
+**Vukradin** — *adding the gnome*
+> "Yeah, with the bimbo."
+
+**Brewbarry** — *confirming who questions Bellows*
+> "Really? Yes, Brewbarry. Brewbarry."
+
+**Soma** — *heading into the kitchen*
+> "I'm going in the kitchen, though."
+
+**GM** — *Soma and Lim resume their old routine*
+> "Alright, your Soma, you… Lim is really excited, and she's like, you know, you and her used to cook together, and so you're gonna… so you're now exchanging recipes, it's like…"
+
+**GM** — *describing the reunion*
+> "It's catching up."
+
+**Soma** — *noting the length of her absence*
+> "It's been 2 months."
+
+**GM** — *Lim raises the turtle-soup story*
+> "It's getting too much, you walk into the soup, you put your finger in the soup, and she goes, do they… do you still tell people that we sell turtle soup?"
+
+**Soma** — *admitting it*
+> "I mean, I told these guys."
+
+**Soma** — *looking for her companions*
+> "And I gesture around at my friends who have vanished?"
+
+**GM** — *Lim laughs*
+> "She laughs in that way, turtles laugh, and says."
+
+**GM** — *Lim reacts to the deception*
+> "I can't believe they believed you."
+
+**Soma** — *defending the story*
+> "What's not to believe? I mean…"
+
+**Vukradin** — *explaining his credulity*
+> "I've been told that I'm naive."
+
+**Soma** — *asking whether he actually believed it*
+> "and I have you believed it? No."
+
+**GM** — *Lim explains the recurring confusion*
+> "But she then pauses and says, well, whenever… so she then… she laughs hysterically and says, and says, the number of people who keep coming here thinking that I sell turtle soup is too funny. I have to keep reminding them that we did used to sell it, but it was for a different clientele."
+
+**Soma** — *glad the practice ended*
+> "Yeah, yeah, I'm glad you stopped."
+
+**GM** — *Bellows faces Valphine and Brewbarry*
+> "So you're standing in front of Bellows. What would you like? Bellows is… you know, Bellows is looking at you, he's completely unintimidated, almost mechanical in his appearance."
+
+**Valphine Sotorra** — *greeting Bellows*
+> "Yeah, hey, Bellows, like, this seems like a great restaurant, like, why aren't there so many…"
+
+**Valphine Sotorra** — *asking why it is not busier*
+> "Like, there should be more patrons here."
+
+**GM** — *Bellows answers literally*
+> "Well, he looks around and says, all but two tables are empty. How many more patrons do you want?"
+
+**Valphine Sotorra** — *clarifying*
+> "Well, I mean, like, with the quality of this food, it seems like there should be people, like, lining up outside."
+
+**GM** — *Bellows explains Lim's policy*
+> "He pauses and goes, LIM does not believe in, anything other than word of mouth."
+
+**Valphine Sotorra** — *asking about marketing*
+> "What? There's no marketing department?"
+
+**GM** — *Bellows describes his prior discussions with Lim*
+> "He looks at you funny. I've had this conversation with Lim many times. She has explained that she wants word of mouth. There will be no advertising."
+
+**Brewbarry** — *asking about the low prices*
+> "And how the hell do you guys manage to keep your prices so low?"
+
+**GM** — *Bellows's concise answer*
+> "We have very good deliveries."
+
+**Brewbarry** — *prompting him*
+> "Yeah?"
+
+**Brewbarry** — *requesting detail*
+> "elaborate."
+
+**GM** — *Bellows asks which details Brewbarry wants*
+> "What would you like to elaborate? When they arrive, how they arrive? What do the crate looks like? Are they stamped? How many crates? What's contained in the crate?"
+
+**Vukradin** — *requesting everything*
+> "All of that information."
+
+**Brewbarry** — *asking who makes the deliveries*
+> "Who does the delivery for you? Everybody else in town?"
+
+**Brewbarry** — *explaining the significance*
+> "you know, all their prices have gone up because they can't get supplies for cheap, but apparently you can, so I'm just curious."
+
+**GM** — *Bellows gives the schedule*
+> "Well, he goes, the delivery… the source of the deliveries is uncertain to me, but every Thursday, they arrive at the third hour after midnight, occasionally the fourth."
+
+**GM** — *identifying the entrance*
+> "The rear door."
+
+**GM** — *describing the route*
+> "It opens onto a service lane. The lane connects to the aqueduct."
+
+**Vukradin** — *asking the current day*
+> "What day of the week is it?"
+
+**Brewbarry** — *answering from the apparent wording*
+> "Thursday."
+
+**Brewbarry** — *pleased by the timing*
+> "Perfect."
+
+**GM** — *correcting the misunderstanding*
+> "No… Third hour after midnight."
+
+**Vukradin** — *clarifying his question*
+> "Yeah, but what day… what day of the week is it currently?"
+
+**Soma** — *supporting the question*
+> "Yeah."
+
+**GM** — *answering*
+> "Oh, God. Fourth day of the week."
+
+**Vukradin** — *checking the schedule*
+> "And it's on the third day?"
+
+**GM** — *correcting him again*
+> "No, no, no, no, third hour. Third hour after midnight. They arrive every day."
+
+**Vukradin** — *understanding*
+> "Oh, every day they."
+
+**Soma** — *explaining her own misunderstanding*
+> "Oh, I heard thirst."
+
+**Vukradin** — *restating it*
+> "Every night, every night. Yes."
+
+**GM** — *explaining the need for daily delivery*
+> "Yes, they arrive… I mean, fresh goods have to arrive every night, right?"
+
+**Valphine Sotorra** — *agreeing*
+> "Makes sense."
+
+**Brewbarry** — *pressing Bellows*
+> "How can such a fine gentleman as you not be aware of the details of who's doing the delivery?"
+
+**GM** — *Bellows counts the couriers*
+> "He goes, two men."
+
+**GM** — *qualifying the number*
+> "Two men bring me the food, bring the crates, sometimes three, they are not the same two men."
+
+**Brewbarry** — *checking the rotation*
+> "Every day. Every day, it's two different guys."
+
+**GM** — *confirming*
+> "Yes."
+
+**Brewbarry** — *asking whether anyone repeats*
+> "Never the same."
+
+**GM** — *Bellows precisely revises his answer*
+> "No. Never the same… well, never the same? He pauses and reflects. No, there have been, at times, the same people in the last 30 days, and he starts, you know, enumerating"
+
+**GM** — *summarizing Bellows's count*
+> "it turns out it's, like, 6 or 7 people, it's not the same, but they keep oscillating. Alright. And if anybody does a pigeonhole…"
+
+**Brewbarry** — *asking who hired them*
+> "before hiring this delivery company, who knows the details? Is it LIM?"
+
+**GM** — *repeating the question*
+> "Is it limb?"
+
+**GM** — *Bellows limits his role*
+> "Alright, so he goes, I do not involve myself in the crates."
+
+**GM** — *describing what Bellows does know*
+> "In how the crates are procured. I simply take the crates, which are wooden, rope-bound, wet on the underside."
+
+**Brewbarry** — *asking who handles logistics*
+> "Okay, great. So who… who is responsible for this logistics here? Is it Lim?"
+
+**GM** — *Bellows begins to answer*
+> "He pauses, yes, Lim is the one who… He goes,"
+
+**GM** — *Bellows recalls another detail*
+> "Then he goes, pauses, and says, but there was one interesting detail."
+
+**Valphine Sotorra** — *prompting him*
+> "Oh."
+
+**Brewbarry** — *encouraging him*
+> "It was… yeah, yeah, please."
+
+**GM** — *Bellows states the crate discrepancy*
+> "He goes, The order has been 9 crates since, midsummer. We use it."
+
+**GM** — *correcting the sentence*
+> "We use 8. I have raised it twice."
+
+**Brewbarry** — *asking about the extra crate*
+> "What happens to the ninth crate?"
+
+**GM** — *Bellows answers*
+> "It does not come inside. It is set down, and it is not therein in the morning. I have not asked. It is not billed to us."
+
+**Brewbarry** — *asking about the staff*
+> "Okay. So besides Lim and you, who else works in this place?"
+
+**GM** — *Bellows lists the other workers*
+> "who else works in this place? There are several humans who do cleaning of dishes and serving, but nothing, nothing,"
+
+**Brewbarry** — *deciding to question Lim*
+> "Alright, so we need to talk to Lim about this… this thing, okay."
+<<<CG-SCENE 04 END>>>
+
+<<<CG-SCENE 05 BEGIN: Lim's Secret Supplier>>>
+**Vukradin** — *questioning the need to confront Lim*
+> "Or why would we talk to Lim?"
+
+**Vukradin** — *proposing surveillance instead*
+> "Stake out the back door at 3 AM."
+
+**Brewbarry** — *preferring a direct question*
+> "She's a friend, we don't need to spy on her, we just ask her."
+
+**Vukradin** — *warning that Lim may not want involvement*
+> "Maybe she doesn't want to get involved. We're doing a."
+
+**Brewbarry** — *keeping surveillance as a fallback*
+> "If she doesn't, then we'll spy."
+
+**Soma** — *noting Lim's existing involvement*
+> "Already involved."
+
+**Brewbarry** — *explaining his preference*
+> "I'm just trying to take the shortest route to get the information we need. You know, stakeout doesn't sound like it."
+
+**GM** — *Brewbarry enters the small kitchen*
+> "you were gonna say… so you want to go talk to Lim. So you do… you know, you walk into the kitchen, you're, like, kind of large for the kitchen, the kitchen's a small place,"
+
+**GM** — *asking about Brewbarry's halberd*
+> "You've got a hal… are you taking your halberd in there, or are you gonna leave it outside?"
+
+**Brewbarry** — *refusing to disarm*
+> "I'll always keep my weapons on me."
+
+**Brewbarry** — *reacting to the question*
+> "Is that even a question to…"
+
+**GM** — *setting the scene*
+> "No, I just… no, I just want to know so I can set the stage. So, like, the Brewbarry the Goliath walks in with his…"
+
+**GM** — *describing Brewbarry's equipment*
+> "The dragon…"
+
+**GM** — *describing the sword, halberd, and bathrobe*
+> "The sword of dragons laying in one arm is, his halberd in the other, and the bathrobe. I presume you're still wearing the…"
+
+**Brewbarry** — *confirming and pretending interest*
+> "Absolutely, and I'm just pretending to be interested in what's going on in the kitchen, but I'm waiting for Lim to be available to talk to."
+
+**GM** — *Lim steps back*
+> "You notice a moment where she's sort of stepping back."
+
+**Brewbarry** — *approaching Lim*
+> "So I go talk to her."
+
+**Brewbarry** — *presenting himself as a prospective businessman*
+> "And, I tell her, you know, how do you… you know, I was wondering how you managed to keep your prices so low. I'm getting into business myself, and I'm looking for good, you know, suppliers or delivery guys who could move around some goods, and"
+
+**Brewbarry** — *referencing her delivery company*
+> "I've been told that, you know, you…"
+
+**Brewbarry** — *praising its apparent efficiency*
+> "Apparently you have a very efficient delivery company that you're working with."
+
+**Brewbarry** — *asking who they are*
+> "No, and who they are, and…"
+
+**Brewbarry** — *asking how they operate*
+> "They managed to be so efficient, maybe."
+
+**GM** — *Lim explains that her supplier is unaffected*
+> "Well, my supplier hasn't been affected by the changes."
+
+**Brewbarry** — *asking for the identity*
+> "Who's your supplier?"
+
+**GM** — *Lim hesitates*
+> "she goes, I don't want to… you know, it's, it's,"
+
+**Valphine Sotorra** — *suggesting the excuse*
+> "The trade secret."
+
+**GM** — *Lim adopts it*
+> "It's a trade secret!"
+
+**Brewbarry** — *bringing up the extra crate*
+> "Just like the ninth crate, huh?"
+
+**GM** — *Lim responds*
+> "Yes."
+
+**Brewbarry** — *repeating the issue*
+> "the 9th grade."
+
+**Brewbarry** — *identifying his source*
+> "Bellows was telling me about it."
+
+**Brewbarry** — *stating the discrepancy*
+> "That you always order 9 crates, but you only use 8."
+
+**GM** — *Lim struggles to answer*
+> "She goes, I, she goes, I, it,"
+
+**GM** — *describing her reaction*
+> "She's…"
+
+**Soma** — *starting to intervene*
+> "I'm gonna, I'm gonna…"
+
+**GM** — *Lim denies ordering nine crates*
+> "Right, she goes, I don't order 9 crates, I order 8. I don't know what Bellows is talking about."
+
+**Brewbarry** — *challenging her*
+> "Really, because it's pointed out."
+
+**Brewbarry** — *describing the ninth crate*
+> "You know, multiple times that there is a 9th grade that stays in the street and then disappears in the morning."
+
+**GM** — *Lim disclaims knowledge*
+> "Yes, and I don't know why they bring a 9th crate, I just… I only order 8 crates."
+
+**Brewbarry** — *acknowledging the answer*
+> "Okay."
+
+**Brewbarry** — *returning to the supplier's identity*
+> "And so you don't want to tell me who this supplier is."
+
+**Brewbarry** — *appealing to friendship*
+> "No, come on, help out a friend in need."
+
+**Brewbarry** — *offering reciprocity*
+> "Do me a favor, I'll do you a favor."
+
+**Brewbarry** — *making the offer more ominous*
+> "Or I make you enough so you can't refuse."
+
+**Brewbarry** — *pressing for disclosure*
+> "Make her spill the beans."
+
+**Soma** — *objecting to coercion*
+> "I mean, I don't want to torture an old friend."
+
+**Brewbarry** — *denying that he is torturing her*
+> "We're not torturing her, we're just, you know, asking questions."
+
+**Soma** — *describing how it looks*
+> "I mean, watching you shake her down makes me a little uncomfortable."
+
+**Brewbarry** — *recasting the interrogation*
+> "I'm not shaking her down, I'm just being… Curious, I'm probing."
+
+**Soma** — *dryly acknowledging him*
+> "Yep."
+
+**GM** — *Lim describes the supplier group*
+> "And it turns out that, she says that it's a… it's a… it's a group that, she made an arrangement with."
+
+**GM** — *describing their stated purpose*
+> "That, has been trying to, you know, keep local businesses in line, and, you know, believes in fair trade, organic goods."
+
+**GM** — *describing their opposition to official economic policy*
+> "and not being trapped by the economic policies of Lord Neverember and the Neverwinter Commission, which are crushing…"
+
+**Vukradin** — *guessing House Margaster*
+> "Margaster?"
+
+**GM** — *rejecting the guess*
+> "No."
+
+**Valphine Sotorra** — *saying she had the same question*
+> "Yeah, that was my question."
+
+**Soma** — *rejecting House Margaster*
+> "Don't sound like Margaster."
+
+**GM** — *agreeing*
+> "Is it… no, that does not."
+
+**Soma** — *suggesting revolutionaries*
+> "Sounds like the revolutionaries, actually. Right."
+
+**GM** — *confirming the mismatch*
+> "That does not sound like Margaster."
+
+**Brewbarry** — *asking where the organization operates*
+> "And where is this fine organization located? Who can… who could."
+
+**GM** — *Lim explains how she made contact*
+> "She goes, I don't know how it's located, but I met with a guy, through a guy."
+
+**GM** — *describing the offer*
+> "Who said he could bring me the food at good prices."
+
+**GM** — *Lim's next words are garbled*
+> "I had a buzz."
+
+**Brewbarry** — *giving up on the interrogation*
+> "Enough of this shit, we'll just take it out and talk to the guys when they show up, and find out who the hell they are. Alright? She doesn't want to help, she doesn't want to help."
+
+**Soma** — *reacting to Lim's activities*
+> "gotten up to since I've been gone, jeez."
+
+**GM** — *Lim finally relents because of her friendship with Soma*
+> "Alright, so, she finally breaks down and says, Look… Because she likes you."
+
+**Soma** — *noting their history*
+> "pretty far back."
+
+**GM** — *Lim reveals where to search*
+> "Is she goes, look, There is a sewer system in the Bluelake District."
+
+**GM** — *directing the party to the suppliers*
+> "If you go in there, you should be able to find the suppliers."
+
+**Soma** — *shocked*
+> "In the sewers?"
+
+**GM** — *Lim explains the route*
+> "She goes, they have to move the goods somehow."
+
+**Vukradin** — *drawing an unappetizing conclusion*
+> "So you're telling me… That you're fresh."
+
+**Vukradin** — *finishing the accusation*
+> "Food that you serve to your customers comes from the sewer."
+
+**GM** — *Lim corrects him*
+> "No, I said it gets moved through the sewer."
+
+**Brewbarry** — *defending the distinction*
+> "Yeah, it's just transit, you know?"
+
+**Brewbarry** — *adding an ironic endorsement*
+> "Anyway, fine cuisine."
+
+**GM** — *Valphine recognizes the broader pattern*
+> "So, hold on, hold on, hold on. Valphine, hold on. This is completely oblivious, he has no idea what's going on. But Valphine, who's, of course, a member of the Menzoberranzan, immediately puts one-on-one together, and realizes that…"
+
+**GM** — *identifying the conventional trade cartels*
+> "The trade routes are currently being controlled by various cartels, and so these are smugglers."
+
+**Soma** — *agreeing*
+> "No doubt."
+
+**Valphine Sotorra** — *finding underground transport natural*
+> "It's very natural to transport things in the ground, so, you know…"
+
+**Vukradin** — *contrasting the Underdark with sewers*
+> "The Underdark's quite nice. Sewers are…"
+
+**Vukradin** — *finishing sarcastically*
+> "Really great for delectable food."
+
+**GM** — *summarizing Lim's arrangement*
+> "So she's like… so yeah, so basically what's going on is that she kind of reveals that, you know, the people who bring her the food, they come in through the sewers."
+
+**GM** — *describing how the smugglers recruited Lim*
+> "They approached her once at the market, she made a deal with them, all she had to do was, you know, pay them on a regular basis. She kind of asks Soma really politely, like, to not scare them away, and to not, like, try to ambush them, because she has a business to run."
+
+**Soma** — *warning Lim*
+> "You understand that these are not the types of people you should be in business with."
+
+**GM** — *Lim defends the arrangement*
+> "And she goes… she tries to explain to you that, yeah, I know, but, like, I've got a business, I can give food at really good prices, this… the city expense… she's like, you know, this is the expenses in the city, and they're not bad people."
+
+**Soma** — *unconvinced*
+> "Hmm…"
+
+**Vukradin** — *challenging the ethics*
+> "So you're saying the ends justify the means?"
+
+**Soma** — *mocking Lim's moral turn*
+> "This is not the lab I once knew. Roll for initiative."
+
+**Vukradin** — *reacting*
+> "Jeez."
+
+**Vukradin** — *moderating the accusation*
+> "Not quite that bad."
+
+**Soma** — *clarifying that she is joking*
+> "now, I'm kidding."
+
+**Brewbarry** — *asking whether the organization has a name*
+> "Does this organization have a name?"
+
+**GM** — *Lim denies knowing it*
+> "she goes, I don't give… I don't know what their name, it was… I gave them the money, you know, bellows…"
+
+**Soma** — *summarizing the arrangement*
+> "You paid them under the table, right?"
+
+**GM** — *Lim confronts Soma privately*
+> "she pulls you aside and says, I don't know where you've been."
+
+**GM** — *addressing Soma*
+> "Soma, like…"
+
+**Soma** — *answering*
+> "Event in the real world."
+
+**GM** — *distinguishing Soma's travels from Neverwinter's reality*
+> "Yeah, apparently, not in the real, real world."
+
+**GM** — *Lim describes the city's economic crisis*
+> "Because those of us who live inside of Neverwinter have had to deal with rising taxes, Neverember econ… like, ever since something happened with a traded system, everything… all the prices have gone up through the roof."
+
+**Soma** — *criticizing Lim's response*
+> "Yeah, and you've forced yours to stay down through…"
+
+**Soma** — *naming the method*
+> "Dubious means, and that's putting it politely."
+
+**GM** — *Lim appeals to the quality*
+> "Is the food good?"
+
+**Vukradin** — *answering*
+> "Yeah."
+
+**GM** — *Lim appeals to the prices*
+> "Price is good. I… if… if I was keeping… she… she's… She's upset."
+
+**Soma** — *rejecting the defense*
+> "Food is tainted."
+
+**Soma** — *noting Brewbarry's influence*
+> "He's rubbing off on me with this Fair Trade stuff."
+
+**GM** — *Lim accuses Soma of changing*
+> "She's upset. She goes, you've changed."
+
+**Soma** — *agreeing*
+> "Yep."
+
+**Soma** — *accepting change*
+> "The only constant in life is change."
+
+**GM** — *Lim repeats the accusation*
+> "She goes, you've changed, and you're different. You're different. I remember a different soma."
+
+**Soma** — *agreeing again*
+> "Yeah."
+
+**Soma** — *accusing Lim in return*
+> "the, the Lim I knew wouldn't, wouldn't get in, you know, get in so deep with criminals."
+
+**Soma** — *suggesting an alternative*
+> "You could have just raised your prices."
+
+**GM** — *explaining Lim's motive*
+> "She could have. But she wanted to, you know, keep her community establishment, not lose her clientele."
+
+**Soma** — *warning about future consequences*
+> "You know, those types of people, they're… they come asking."
+
+**Soma** — *finishing the warning*
+> "They make demands in the future."
+<<<CG-SCENE 05 END>>>
+
+<<<CG-SCENE 06 BEGIN: Planning the Stakeout>>>
+**Valphine Sotorra** — *restating the objective*
+> "We are still looking for the, the missing gnome, right?"
+
+**GM** — *confirming*
+> "Right."
+
+**Soma** — *using the party's nickname*
+> "Bimbo."
+
+**GM** — *recalling the collapse of regional distribution*
+> "Yes, and so, like, what you kind of pieced together is that 7 weeks ago, the displacement manifold went dark."
+
+**GM** — *stating the consequence*
+> "The regional distribution collapsed."
+
+**GM** — *recalling the effect on Lionshield*
+> "Right? Lionshield's store stopped receiving. Don't forget, Lion wrote about this, right? And you're carrying her, request to help with supplies."
+
+**GM** — *describing House Margaster's apparent position*
+> "House Margaster now seems to control the port."
+
+**GM** — *clarifying the docks*
+> "Right? So the port area is under Margaster control."
+
+**Vukradin** — *connecting the port to the Common Chord*
+> "And that's where Common Chord is."
+
+**GM** — *contrasting the restaurant's prices*
+> "Yeah. Right? The board laid bare as prices… prices did not move up."
+
+**GM** — *drawing the inference*
+> "And, what you're guessing is that Lim's supplier was never on the manifold."
+
+**Soma** — *suggesting a supplier change*
+> "It sounded like she'd changed suppliers."
+
+**GM** — *clarifying the deduction*
+> "Well, what… she may have changed suppliers, but that supplier wasn't on the manifold."
+
+**Soma** — *agreeing*
+> "Right, the new one boasts,"
+
+**GM** — *confirming*
+> "Yes."
+
+**Soma** — *characterizing the supplier*
+> "Mr. Takeover."
+
+**Vukradin** — *confirming control of the docks*
+> "Then Margaster controls the docks?"
+
+**GM** — *answering*
+> "Yes, and therefore they."
+
+**Vukradin** — *connecting the docks to Bimble*
+> "Which is where Bimbo the Gnome used to be."
+
+**GM** — *identifying the alternative*
+> "Right, and so there's a third route."
+
+**GM** — *describing the third route*
+> "which outlived the manifold, pays no harbor authority, and moves, at the third hour after midnight, down a service lane onto aqueduct steps."
+
+**GM** — *naming it*
+> "So this is the third trade route."
+
+**Brewbarry** — *identifying beneficiaries*
+> "So there's two parties that benefited from the manifold going broke."
+
+**GM** — *qualifying that conclusion*
+> "Right. Well, yes, there's many parties that benefited, but yes, there's… so the… but the important point is that you also know that somebody has been stealing a box or using a box to keep themselves fed."
+
+**Soma** — *seeing the connection*
+> "Yeah, I mean, I think that comes."
+
+**Vukradin** — *identifying the likely recipient*
+> "That would be the gnome."
+
+**GM** — *agreeing*
+> "Right."
+
+**Soma** — *checking the theory*
+> "You think it's Bimbo?"
+
+**Vukradin** — *summarizing the mystery*
+> "Yeah. Delectable Delights. Who's feeding Bimbo? He's eating the ninth box."
+
+**Soma** — *approving the theory*
+> "Good, perfect."
+
+**Brewbarry** — *accepting the conclusion*
+> "Alright."
+
+**Brewbarry** — *laying out the next steps*
+> "So we need to do the stakeout, see who's stealing the crate, find a way to the…"
+
+**Vukradin** — *agreeing*
+> "Fine."
+
+**Brewbarry** — *finishing the objective*
+> "organization."
+
+**Vukradin** — *summarizing*
+> "Find Bimbo, wait, do the stakeout."
+
+**Vukradin** — *remembering Lim's warning*
+> "But, don't scare off…"
+
+**GM** — *stating the risk*
+> "Right, so the danger with doing the stakeout is that you might scare off the suppliers."
+
+**Soma** — *beginning an inconspicuous solution*
+> "I mean, not if I just…"
+
+**Soma** — *proposing an animal form*
+> "You know, turn into a cat or something and watch some…"
+
+**Brewbarry** — *agreeing*
+> "Yeah, exactly. The stakeout implies that they're not seeing us."
+
+**Soma** — *saying stealth may be unnecessary*
+> "I don't even have to be stealthy, I could just…"
+
+**Vukradin** — *suggesting magic*
+> "morph spell."
+
+**Soma** — *considering disguises*
+> "Yeah, I mean, somebody's got disguised self or something, right? Like, we can…"
+
+**Soma** — *remembering her familiar*
+> "Or actually, I've got… I've got familiars, too, like, I can just drop one down."
+
+**Brewbarry** — *adding another objective*
+> "I also need to find a magic shop so I can buy this listing device and plant it on, you know, the Margaster's goon, whatever his name is."
+
+**GM** — *noting the sewer ecology*
+> "Yeah, so… so one of the things that… one of the things… so one of the things that you know is that sewers tend to have rats."
+
+**Soma** — *seeing that as support for the plan*
+> "All a more reasoned decision."
+
+**Brewbarry** — *suggesting a rat disguise*
+> "Guys as a rat."
+
+**GM** — *adding a danger*
+> "No, hold on, hold on, hold on. I would just like to just make an observation. And where there are rats, there are probably were-rats."
+
+**Soma** — *echoing the point*
+> "Rats."
+
+**Brewbarry** — *recalling the mine*
+> "where rats? Don't they do security at a mine?"
+
+**Valphine Sotorra** — *claiming the wererats as allies*
+> "They work for us."
+
+**Vukradin** — *agreeing strongly*
+> "100%."
+
+**GM** — *qualifying the claim*
+> "Some do."
+
+**Vukradin** — *rejecting a blanket assumption*
+> "No, they're not all the same."
+
+**GM** — *agreeing*
+> "Yes, sir."
+
+**Soma** — *referencing the party's prior experience*
+> "It's like the shortcut, Gary."
+
+**Vukradin** — *continuing the qualification*
+> "Not all of our reps."
+
+**GM** — *explaining that wererats may know one another*
+> "But… but one of the things about were-rats is they tend to know each other."
+
+**GM** — *linking Neverwinter and Mountain's Toe Gold Mine*
+> "Right. Especially in an area like Phandalin… in, you know, Neverwinter, and, you know, these… the were-rats and Mountain's Toe Gold Mine may have been from Neverwinter, so there might be a connection there."
+
+**GM** — *suggesting an underground contact*
+> "So you might want to try… one thought you might do is try to go into the sewers and try to find some were-rats. You have a… you do have a name."
+
+**GM** — *naming Zeleen*
+> "You do have a business relationship with, Zeleen."
+
+**GM** — *explaining the connection*
+> "Zeleen, you're aware we're at, so that's just an angle you might want to keep in mind."
+
+**Brewbarry** — *returning to the simplest plan*
+> "I think… I think the most simple action right now is just for us to spy on the delivery, and see who's taking the ninth crate."
+
+**Soma** — *noting that deliveries recur*
+> "Yeah, I mean, we can do this as many times as we need, right? Like, every other night."
+
+**Vukradin** — *supporting an animal form*
+> "You can do it, you can do it as a cat, or something that's unassuming."
+
+**Soma** — *explaining the familiar option*
+> "Yeah, cater, like, as I was saying, I can… well, I've also got just, like, animal familiars I can summon and, you know, vision through."
+
+**Brewbarry** — *suggesting a spider*
+> "Spider."
+
+**Soma** — *listing inconspicuous forms*
+> "crow anything, right? Like, there's plenty of unassuming things."
+
+**Brewbarry** — *agreeing*
+> "Yes."
+
+**Soma** — *checking the spell*
+> "Where is it? Let me pull up that spell, because it's… it's got its."
+
+**Soma** — *noting a limitation*
+> "I'm still too low to do,"
+
+**Soma** — *mentioning owlbears*
+> "To do owlbears. One more level, I think."
+
+**Soma** — *settling on a familiar*
+> "But yeah, just create a familiar of, like, a cat."
+
+**Soma** — *choosing a rat*
+> "Lizard or rat? Perfect, a rat."
+
+**GM** — *confirming*
+> "Alright."
+
+**Soma** — *describing how it can hide*
+> "And they can stay way out of sight, and never see us, won't hear everything."
+
+**GM** — *asking whether Soma becomes the rat*
+> "Okay, so you're gonna be a rat?"
+
+**Soma** — *clarifying*
+> "No, I'm going to have a rat familiar."
+
+**GM** — *noting the time available before the delivery*
+> "Alright, so that's gonna take… that's 3 in the morning, so there's plenty of time to go do something else. You can try to… you can go scout around the Blue Lake, or you can go try to find the Harpers, you can go try to meet, Lord Neverember."
+
+**Vukradin** — *proposing the Common Chord*
+> "at the Common Chord."
+
+**Brewbarry** — *agreeing*
+> "Yes. Yeah, that's fair."
+
+**GM** — *confirming the destination*
+> "Wanna go to the Common Chord?"
+
+**Vukradin** — *agreeing*
+> "Yeah."
+
+**GM** — *checking the plan*
+> "All right, so your plan is to go to the Common Chord, right?"
+
+**Soma** — *explaining the choice*
+> "Yeah, kill some time."
+
+**GM** — *accepting the plan*
+> "No, that totally makes sense."
+
+**Soma** — *adding a reason to leave the restaurant*
+> "We just had some good turtle soup, but you said there was no liquor here, right?"
+
+**GM** — *confirming*
+> "Yeah, yeah, no,"
+<<<CG-SCENE 06 END>>>
+
+<<<CG-SCENE 07 BEGIN: Wandering the Blue Lake District>>>
+**Vukradin** — *reading Brewbarry's turtle-soup jingle*
+> "When the cold winds bite in Neverwinter Town, and weary travelers start to get you down. There's a savory cure that's famed across the land, a bowl of warmth from good ol' Lim's own hand."
+
+**Vukradin** — *continuing the jingle*
+> "turtle soup slow simmer just right. It fills your belly with a pure golden light. They serve it hot at the board laid bare. A taste of home that's beyond all compare. Yeah, Brewbarry, Brewbarry,"
+
+**Vukradin** — *rejecting it as the band's style*
+> "We're a… we're… this is Lathander's death."
+
+**Vukradin** — *finishing the thought*
+> "really our style."
+
+**Brewbarry** — *protesting*
+> "Oh, come on, even, even me."
+
+**Vukradin** — *softening the rejection*
+> "I know, it's like, no."
+
+**Vukradin** — *appreciating the effort*
+> "We really appreciate the effort, and thank you, and, you know, we really, we love."
+
+**Valphine Sotorra** — *classifying the song*
+> "It's a market."
+
+**Vukradin** — *calling Brewbarry a fan*
+> "You're our biggest fan, man."
+
+**Vukradin** — *returning to artistic direction*
+> "But, you know… We've got our artistic direction."
+
+**Valphine Sotorra** — *correcting her classification*
+> "It's a marketing jingle."
+
+**Soma** — *making a band-history comparison*
+> "Call him Yoko and move on."
+
+**Vukradin** — *mishearing it*
+> "I yoga."
+
+**Vukradin** — *objecting*
+> "We're not getting married!"
+
+**GM** — *the party heads toward the venue*
+> "Common Chord. Common Chord. Yeah, so you're headed towards the Common Chord."
+
+**GM** — *placing them in the district*
+> "Right? So you're going through the Bluelake District."
+
+**GM** — *describing the strange woman*
+> "You see… you notice a woman locking a door behind her that she has already locked. Like, the blue lake seems… there's something weird about the blue lake."
+
+**Vukradin** — *interpreting it as déjà vu*
+> "You're saying we… we saw deja vu?"
+
+**Vukradin** — *quoting the implication*
+> "change something."
+
+**Soma** — *adding another reference*
+> "Or… Was it the exact same cat?"
+
+**GM** — *reacting to the mockery*
+> "No, no, no, I'm… she's… oh, fuck it. Being mocked."
+
+**Soma** — *confirming*
+> "Yes, you are. Always."
+
+**Soma** — *explaining the group's status*
+> "That's why we're your favorite group."
+
+**GM** — *responding*
+> "Yeah, I love… no, you are my favorite thread. As you're also, as you're… as you're walking by, you notice a wizard's apprentice trying to sell authentic, many-starred cloak thread."
+
+**Soma** — *beginning to assess the thread*
+> "Hey, that makes some good,"
+
+**Vukradin** — *suggesting it for Brewbarry's robes*
+> "Brewbarry? Is this, like, you want to incorporate this into your robes?"
+
+**Soma** — *agreeing*
+> "Yeah."
+
+**Brewbarry** — *asking what was said*
+> "What, sorry?"
+
+**GM** — *repeating the offer*
+> "He's selling authentic, many-starred,"
+
+**Soma** — *supplying the item*
+> "Thread?"
+
+**GM** — *confirming*
+> "Thread, sorry."
+
+**Brewbarry** — *repeating it*
+> "thread."
+
+**Brewbarry** — *asking about softness*
+> "Yes. So, are they soft?"
+
+**Brewbarry** — *ending the inquiry abruptly*
+> "Goodbye."
+
+**GM** — *answering*
+> "No, but they're… no, it's not soft."
+
+**Brewbarry** — *reacting*
+> "Softies, huh?"
+
+**Valphine Sotorra** — *explaining its purpose*
+> "It's decorative."
+
+**Valphine Sotorra** — *rephrasing*
+> "Decorous."
+
+**Vukradin** — *distinguishing thread from fabric*
+> "The thread isn't what makes the fabric soft."
+
+**Brewbarry** — *challenging that claim*
+> "So what makes this fabric soft is the thread, right?"
+
+**GM** — *characterizing the argument*
+> "This is Brewbarry logic, right?"
+
+**Soma** — *admitting it has an internal logic*
+> "It, it tracks, it, you can't…"
+
+**Brewbarry** — *pressing Vukradin*
+> "What do you think, man?"
+
+**Brewbarry** — *restating the question*
+> "Fabric soft."
+
+**Brewbarry** — *giving his premise*
+> "If the fabric is made of threads."
+
+**GM** — *rewarding the logic*
+> "Give this man an inspiration."
+
+**Brewbarry** — *asking about a coating*
+> "Was this spray softness on top of it."
+
+**Brewbarry** — *asking for confirmation*
+> "Do you think?"
+
+**Vukradin** — *conceding*
+> "Yeah, that's how it works. You're right, you're right."
+
+**GM** — *the party finds an unauthorized bill*
+> "As you're… as you pass by, as you head… start heading through to the, Common Chord, you notice that a bill's been posted with"
+
+**GM** — *describing the advertised act*
+> "Lathander's death on it for a date you haven't agreed to."
+
+**Soma** — *asking when the deal was made*
+> "Hey, I didn't know you… when did you guys make this deal?"
+
+**Vukradin** — *adding it to the quest log*
+> "Let's add it to the quest tracker! We're doing a performance!"
+
+**Vukradin** — *asking for the date*
+> "What is it?"
+
+**GM** — *giving the date*
+> "In a… in a… in two days."
+
+**Vukradin** — *accepting immediately*
+> "Okay!"
+
+**GM** — *noting that the band never agreed*
+> "Well, you haven't agreed to this…"
+
+**GM** — *repeating the point*
+> "You haven't agreed to this performance, right?"
+
+**Soma** — *observing the posted claim*
+> "Apparently they have."
+
+**Valphine Sotorra** — *noting Vukradin's acceptance*
+> "Sounds like Vukradin already has."
+
+**Soma** — *agreeing*
+> "Yeah, I think he has."
+
+**Vukradin** — *asking for the time*
+> "Where is it? What's the time?"
+
+**GM** — *answering*
+> "in the evening."
+
+**Vukradin** — *asking for the location*
+> "Where?"
+
+**GM** — *answering*
+> "at the Common Chord."
+
+**Vukradin** — *reacting*
+> "Oh."
+
+**GM** — *explaining the unauthorized promotion*
+> "The Common Chord, which is profiting off the fact that you used to play music, now has"
+
+**GM** — *stating the announced booking*
+> "is now advertising that they're gonna be having Lathander's death at the… performing there in two days."
+
+**Vukradin** — *embracing it*
+> "Definitely be there in 2 days, that is awesome."
+
+**Vukradin** — *describing the notice as a summons*
+> "They summoned me."
+
+**GM** — *leaving the cause uncertain*
+> "Or, or, you know, who knows what happened, right?"
+
+**Vukradin** — *acknowledging the uncertainty*
+> "I understand, yes."
+
+**Vukradin** — *confirming*
+> "I get it, I get it."
+
+**GM** — *the party crosses the Protector's Enclave*
+> "Okay, so you should… so you walk through the, what's the other district? You walk through the, Protector's Enclave?"
+
+**GM** — *citizens complain about rents*
+> "And you hear somebody arguing loudly and correctly that rents have doubled."
+
+**GM** — *connecting the complaint to inflation*
+> "Right, so the prices… definitely the prices… the prices are going up."
+
+**GM** — *introducing local rumors*
+> "And, as you've been… as you've been walking around, you've heard of, true rumor."
+
+**GM** — *beginning the first rumor*
+> "The first one is… The first one is, a rumor that's saying that"
+
+**GM** — *stating the rumor about Lord Neverember*
+> "Lord Neverember has taken a drow advisor."
+
+**Valphine Sotorra** — *alarmed*
+> "No."
+
+**Soma** — *repeating the key word*
+> "Drow."
+
+**GM** — *confirming*
+> "Yes."
+
+**Valphine Sotorra** — *reacting*
+> "Wait a second here…"
+
+**Vukradin** — *suggesting the advisor is Valphine*
+> "It's you!"
+
+**GM** — *introducing the second rumor*
+> "Right, and so that was one rumor you heard, and the other rumor you heard was…"
+
+**GM** — *stating the widespread performance rumor*
+> "Lathander's death is playing in the Common Chord."
+
+**Soma** — *noting they already saw it*
+> "We heard that one."
+
+**GM** — *explaining that the rumor has taken hold*
+> "Yes, so, so that's, yes, that one… this is a bit of a surprise. So apparently, not only are you playing"
+
+**GM** — *continuing*
+> "In the… in the Common Chord, but it's… it's become a thing. Alright, so you arrive at the Common Chord."
+<<<CG-SCENE 07 END>>>
+
+<<<CG-SCENE 08 BEGIN: Return to the Common Chord>>>
+**Vukradin** — *arriving at the Common Chord*
+> "We are here to perform!"
+
+**GM** — *recalling the venue's old character*
+> "Right? When you… when… it was the kind of place that didn't ask too many paid questions and paid an actual coin."
+
+**GM** — *describing its capacity*
+> "You know, the room held 40 people comfortably."
+
+**GM** — *recalling Vukradin's original engagement*
+> "You would play… you… when you played there, you played 3 consecutive nights to audiences that averaged less than 40."
+
+**Vukradin** — *estimating the old crowds*
+> "For sure. I think there… it's more like 10 to 15."
+
+**GM** — *giving the exact average*
+> "11."
+
+**Vukradin** — *remembering his loyal fan*
+> "But always Brewbarry."
+
+**Soma** — *agreeing*
+> "That was the idea."
+
+**GM** — *repeating the attendance*
+> "11."
+
+**Soma** — *putting a positive spin on it*
+> "That's more than one, for sure."
+
+**GM** — *introducing Petra*
+> "You know, the owner was a half-elf named Petra, who paid you…"
+
+**GM** — *recalling Vukradin's refund policy*
+> "Who tried to pay you, but you rejected it, because not… like, everybody, you know, she paid you, and then you gave them back the money?"
+
+**Vukradin** — *explaining the refunds*
+> "Yeah, well, they were not fully satisfied."
+
+**Vukradin** — *remembering Brewbarry's payment*
+> "I kept Brewbarry's money, it was very nice of him to give me a 10 out of 10."
+
+**GM** — *describing why the arrangement failed*
+> "So, so, but everybody else who did not give you a 10 out of net 10, and she kind of realized that this is not working, and"
+
+**Vukradin** — *reacting*
+> "No shit."
+
+**GM** — *recalling Petra's polite rejection*
+> "Right. She told you she really enjoyed the music… But didn't book you again."
+
+**Vukradin** — *confirming*
+> "Yeah, yeah."
+
+**GM** — *connecting that rejection to adventuring*
+> "And that's kind of how you ended up, you know, on this adventurous quest."
+
+**Vukradin** — *agreeing*
+> "Right. Sounds right."
+
+**GM** — *revealing the venue's current success*
+> "Right. Now the Common Chord has a 6-week reservation list."
+
+**GM** — *describing its fashionable status*
+> "And, you know, it's like this, like, it is the place to be, right?"
+
+**GM** — *asking what the party does*
+> "And, you… so you show up there. So, what… what is it that you want to… what is it that you want to do? Do you want to…"
+
+**Vukradin** — *wanting to greet Petra*
+> "Say hi to Petra!"
+
+**GM** — *confirming*
+> "Oh, you wanna… Say hi to Petra."
+
+**Vukradin** — *confirming*
+> "Yeah."
+
+**Vukradin** — *hoping for celebrity treatment*
+> "Also, like, am I being mobbed by fans? Am I doing autographs?"
+
+**GM** — *considering it*
+> "are you… are you doing… are you doing,"
+
+**GM** — *restating the question*
+> "Are you doing, are you being mobbed, as you said, right?"
+
+**Vukradin** — *confirming*
+> "Yeah."
+
+**GM** — *tempering expectations*
+> "I wouldn't say you're being mobbed,"
+
+**GM** — *asking how Vukradin presents himself*
+> "So, so, so, you know, do you announce yourself as Vukradin? As the great Vukradin?"
+
+**Vukradin** — *announcing the band identity*
+> "Oh, no, we're Lathander's death."
+
+**GM** — *explaining the recognition problem*
+> "I mean, you have to realize that you were so unknown that actually nobody recognizes you."
+
+**Vukradin** — *suspecting Petra has benefited*
+> "Yes, I'm sure, and I'm sure Petra's been taking advantage of that, yes."
+
+**GM** — *describing the busy entrance*
+> "Great. So, so you arrive at, you arrive at the, at the, at the restaurant, and there's Petra, right? There's the, you know, the guy who's handling reservations. There's a lot of people looking around. Brewbarry's making an impression. Valphine's also making an impression. Are you still wearing your, Dragonscale armor?"
+
+**Valphine Sotorra** — *confirming*
+> "Of course."
+
+**GM** — *describing the attention*
+> "Right? You're definitely making an impression, like, you know, like, people are, like, pointing at you, and they're talking about you, and people are looking at you, Vukradin, as if they would recognize you."
+
+**Valphine Sotorra** — *urging Brewbarry to sell merchandise*
+> "So, the Brewbarry, you need to set up your, your shop."
+
+**Valphine Sotorra** — *stating the opportunity*
+> "Sell some merchandise."
+
+**Vukradin** — *agreeing*
+> "This is your opportunity."
+
+**Brewbarry** — *admitting he has no inventory*
+> "I don't have merchandise. The only merchandise I have is the one I'm wearing. I'm trying to set things up."
+
+**Vukradin** — *giving sales advice*
+> "A, B, C."
+
+**Soma** — *expanding the acronym*
+> "Always be closing."
+
+**Brewbarry** — *acknowledging his inexperience*
+> "Sorry, sorry guys, I'm still learning the ropes here."
+
+**Brewbarry** — *planning pre-orders*
+> "Okay, I'll try to get some pre-orders for the Brewbarry."
+
+**Vukradin** — *approving*
+> "There you go, now you're thinking!"
+
+**Soma** — *suggesting crowdfunding*
+> "Start a Kickstarter campaign, you know."
+
+**GM** — *a staff member challenges the group*
+> "So Petra kind of, looks at, you know, should they look at you? And they're kind of like, the guy goes and says, hey, I don't mean to be rude here, but, you know, this is kind of like, we've got a lot of nice people here, and I don't think you…"
+
+**GM** — *barbarian cosplayers begin chanting*
+> "you know, I… but meanwhile, you notice that there's several cosplaying with Vukradin barbarians who start, like, going, chanting."
+
+**Vukradin** — *announcing the band*
+> "We're Lathander's death! We're here to perform!"
+
+**GM** — *calling for persuasion*
+> "roll a persuasion."
+
+**Vukradin** — *confident in the check*
+> "Oh, yeah, I think I could do that."
+
+**Vukradin** — *reporting the result*
+> "21."
+
+**GM** — *the crowd responds*
+> "Yeah, okay, so at this point in time, everybody goes."
+
+**Vukradin** — *asking for screaming*
+> "Yeah, is there screaming?"
+
+**GM** — *confirming*
+> "Yes, there is."
+
+**Vukradin** — *envisioning the crowd*
+> "All the girls are screaming, alright?"
+
+**Vukradin** — *heading toward the stage*
+> "What's going on stage?"
+
+**GM** — *stopping him*
+> "No, no, you're not going on stage."
+
+**Vukradin** — *asking why*
+> "Why not?"
+
+**Valphine Sotorra** — *proposing to take the stage*
+> "Marching on stage. Who's stopping us?"
+
+**Brewbarry** — *challenging anyone to intervene*
+> "Who wants to stop us?"
+
+**Soma** — *pointing to Brewbarry's presence*
+> "Who's gonna stop Brewbarry?"
+
+**Vukradin** — *rolling his way onto the stage*
+> "Strength. I think I got on stage."
+
+**Brewbarry** — *proposing a song*
+> "And we're gonna sing a song about Lord Neverwinter. I put it in discord."
+
+**Vukradin** — *preparing*
+> "Okay, here we go."
+
+**GM** — *Petra arrives amid the disturbance*
+> "So, Petra… so, so, so, you know, with all the commotion, Petra finally shows up."
+
+**GM** — *Petra claims credit*
+> "And she's like, I discovered this guy."
+
+**Vukradin** — *raising the advertised performance*
+> "I saw that we're on in 2 nights."
+
+**GM** — *Petra describes the booking*
+> "Yes, an exclusive one-night performance."
+
+**Vukradin** — *asking about payment*
+> "How much does it pay?"
+
+**Valphine Sotorra** — *imagining Petra's answer*
+> "So her response is, your usual fee."
+
+**Valphine Sotorra** — *approving the imagined fee*
+> "Excellent."
+
+**Vukradin** — *objecting*
+> "Well…"
+
+**Vukradin** — *asserting the band's increased value*
+> "We're a little bit more popular now."
+
+**Soma** — *noting the expanded band*
+> "We've got a whole band now, not just a one band."
+
+**GM** — *Petra struggles toward an offer*
+> "She goes, I… I… I… I…"
+
+**GM** — *asking about expectations*
+> "Like, how much money do you, like,"
+
+**GM** — *offering the old fee*
+> "Well, I mean, your old feet, does that sound fair?"
+
+**Vukradin** — *rejecting it*
+> "Well, no!"
+
+**Vukradin** — *explaining why*
+> "Because now I've got a whole band, and we're, you know, we're a little bit bigger now, I've got other things going on, so…"
+
+**Vukradin** — *asking for her offer*
+> "What were you thinking?"
+
+**Vukradin** — *naming his price*
+> "So, 500."
+
+**GM** — *Petra reacts to the figure*
+> "She goes, I… she starts laughing. I can't afford 500 gold pieces for a one-night performance of the Lathander's Death."
+
+**Vukradin** — *disappointed*
+> "Oh."
+
+**Soma** — *challenging the advertisement*
+> "Then why'd you put up the sign?"
+
+**Vukradin** — *agreeing*
+> "Yeah."
+
+**GM** — *Petra denies posting it*
+> "She goes, I didn't put up the side."
+
+**Soma** — *drawing the implication*
+> "Someone did."
+
+**Vukradin** — *noting their evidence*
+> "I think we have a copy of the sign."
+
+**Soma** — *suggesting they show it*
+> "Yeah, show her the sign, like, it's some…"
+
+**Vukradin** — *pointing out the venue*
+> "This is your place."
+
+**Soma** — *questioning the unauthorized invitation*
+> "You're telling me that people are just invited?"
+
+**Vukradin** — *stating the date*
+> "the date in two nights."
+
+**GM** — *Petra reveals the cover-band plan*
+> "That was more of a cover… that was more of a cover band idea than the real Lathander's Death."
+
+**Vukradin** — *surprised*
+> "Oh, there's a cover band?"
+
+**GM** — *describing the nightly act*
+> "Yeah, like, the guy who plays your songs on stage every night, then, like, people like it."
+
+**Vukradin** — *offering the genuine band*
+> "But don't you want the real band?"
+
+**GM** — *repeating the financial objection*
+> "Yeah, but I can't afford 500 gold pieces."
+
+**Vukradin** — *asking for a counteroffer*
+> "Alright, what can you do?"
+
+**Brewbarry** — *arguing for the band's value*
+> "What do you mean you can't afford it? We're gonna sing, people are gonna, you know."
+
+**Vukradin** — *planning further negotiation*
+> "Right, we're gonna persuade her for a little bit more than 50."
+
+**Vukradin** — *reporting the check*
+> "23 persuasion. Come on, you can do better than that."
+
+**GM** — *Petra concedes the argument has merit*
+> "She, like… That's true."
+
+**Brewbarry** — *proposing a revenue share*
+> "We negotiate. We get 50% of whatever earnings she makes while we sing."
+
+**Soma** — *identifying the arrangement*
+> "Oh, you, you want, you want, front-end points."
+
+**Valphine Sotorra** — *translating it*
+> "Revenue share, yeah."
+
+**GM** — *Petra asks about expenses*
+> "She goes, is that after or before expenses?"
+
+**Vukradin** — *initially answering*
+> "Net."
+
+**Vukradin** — *correcting himself*
+> "No, no, you always want gross, right?"
+
+**Soma** — *explaining why*
+> "Yeah, you want gross, because that is where Hollywood."
+
+**Vukradin** — *describing expense manipulation*
+> "And then just, like, fake it with the expense."
+
+**GM** — *Petra accepts before they reconsider*
+> "Before you can even change your mind, she's shaking your head."
+
+**Vukradin** — *insisting on gross*
+> "Ha ha ha ha. No, on the gross, on the gross."
+
+**Soma** — *confirming*
+> "As front end points, yeah."
+
+**GM** — *Petra observes Vukradin's growth*
+> "She goes, you've learned something, Vukradin, you're not the same guy I used to remember."
+
+**Soma** — *qualifying that growth*
+> "He's still pretty naive."
+
+**GM** — *Petra shows Vukradin his preserved table*
+> "So she's like, well, you know, Vukradin, I think it's awesome that you've come here. And so, you know, and I've even kept your little table as sort of a special place where people will come and admire and can see where you sat and thought about your music."
+
+**Vukradin** — *asking about disclosure*
+> "Do they know it's a cover band?"
+
+**Vukradin** — *accusing Petra*
+> "So you've been impersonating me…"
+
+**GM** — *Petra denies it*
+> "No, no, no, no, no, I've…"
+
+**Vukradin** — *asking how long it has continued*
+> "How long has this been going? So how much money have you… so really, I should sue you for a percentage of all your profits for stealing my likeness."
+
+**GM** — *Petra insists she disclosed the cover act*
+> "So she goes, I did never see… I always told people that this was not the real Vukradin."
+
+**Vukradin** — *calling on Brewbarry*
+> "Brewbarry, can you, dispute for me, please?"
+
+**Brewbarry** — *looming over Petra*
+> "I start towering over her, and I'm like, are you trying to rip off my friend?"
+
+**Brewbarry** — *accusing her of profiting from Vukradin*
+> "Making profit on his image and reputation."
+
+**Vukradin** — *justifying his price*
+> "I think 500 is a perfectly valid amount of gold, given all the money you've been making…"
+
+**Vukradin** — *offering to settle*
+> "We can call it square with one night's performance."
+
+**GM** — *Petra asks for continued rights*
+> "So, after this one night's performance, I get to keep playing the old classic."
+
+**Vukradin** — *offering a licence*
+> "I'm going to license my image and likeness to you."
+
+**Soma** — *agreeing*
+> "Yeah."
+
+**Vukradin** — *clarifying the term*
+> "Perpetuity, is that what you're thinking here?"
+
+**GM** — *Petra confirms*
+> "Yeah, like, you know, I get to keep playing the…"
+
+**Vukradin** — *requiring disclosure*
+> "You will have to tell them it's a cover band, though."
+
+**GM** — *Petra insists she already does*
+> "Well, I always tell, I always tell them it's a cover band."
+
+**GM** — *Petra praises Vukradin*
+> "I respect the image of the one, the only, the great Vukradin."
+
+**Vukradin** — *accepting*
+> "Alright."
+
+**Vukradin** — *stating the deal*
+> "I think this is good. 500, we perform in two nights."
+
+**GM** — *Petra reminds him of their history*
+> "dude, she goes, goes, I discovered you, man."
+
+**Vukradin** — *holding to the price*
+> "So, 500."
+
+**GM** — *Petra recalls giving him his first chance*
+> "I was there at the beginning. I was the one who gave you the gig. Don't you remember? Nobody wanted to put you on stage, actually."
+
+**Soma** — *noting who did the work*
+> "He was the one who actually played the gig, though."
+
+**Vukradin** — *proposing a performance*
+> "Let's, let's perform."
+
+**Vukradin** — *inviting Valphine*
+> "Valphine, you wanna go on stage? Let's see how we do."
+
+**GM** — *Petra initially refuses*
+> "Oh, no, and she goes, no, you can't do that."
+
+**Vukradin** — *arguing for a teaser*
+> "Why can't I perform right now? It'll get everybody excited for the real thing in two nights!"
+
+**GM** — *Petra agrees with limits*
+> "She pauses and goes, great, but I don't want you to play all of your set, just like a teaser."
+
+**Vukradin** — *agreeing to one song*
+> "No, no, we'll do one song. We'll do one song."
+
+**GM** — *asking for the roll*
+> "She goes, alright, what did you roll for your performance?"
+
+**Vukradin** — *reporting a poor result*
+> "I rolled a 14. Oh, gotcha."
+
+**Vukradin** — *adding another result*
+> "A 4, excellent."
+
+**Soma** — *dryly assessing it*
+> "Oh, that's… that'll get them all ready."
+
+**Valphine Sotorra** — *reporting her roll*
+> "Natural one."
+
+**GM** — *recalling the original style*
+> "Your old stuff was very discordant music."
+
+**Vukradin** — *confirming*
+> "Yeah."
+
+**GM** — *turning the bad rolls into authenticity*
+> "So, actually, it turns out that Valphine's bad die roll, combined with your style, actually echoes back to the original classic."
+
+**Vukradin** — *pleased*
+> "Oh, there you go."
+
+**GM** — *describing Valphine's contribution*
+> "The lack of harmony and the screeches that were off-queue kind of, like, It brings that early."
+
+**Vukradin** — *calling it avant-garde*
+> "Very avant-garde."
+
+**Soma** — *finishing the thought*
+> "charm."
+
+**GM** — *describing the result*
+> "It brings that very early Vukradin genre, genre. Alright, as you sit down, Petra sits you down at your table, you notice your table, which used to be, you know, wasn't your table, it was literally where Brewbarry sat."
+
+**GM** — *describing the memorial table*
+> "It's now this polished table with, like, beautifully set couches and a little plaque that said, Vukradin created his music here."
+
+**GM** — *Petra requests an autograph*
+> "You see, she asks if you would be willing to sign it."
+
+**Vukradin** — *charging for the signature*
+> "Well, that'll be extra."
+
+**GM** — *Petra reacts to his transformation*
+> "She goes… She looks at… Brewbarry, what did you do to this guy? This guy used to be the…"
+
+**GM** — *finishing the thought*
+> "The nicest guy!"
+
+**Vukradin** — *defending himself*
+> "I'm nice! You see?"
+
+**Brewbarry** — *answering Petra*
+> "I just annoy you?"
+
+**Brewbarry** — *rejecting the criticism*
+> "Friend is not nice."
+
+**GM** — *Petra offers a fee*
+> "She does 25 gold pieces, 25 gold pieces."
+
+**Vukradin** — *accepting*
+> "Alright, 25."
+
+**Vukradin** — *demanding immediate payment*
+> "You gotta pay right now, though."
+
+**GM** — *Petra complies*
+> "Oh, she pays you right."
+
+**GM** — *describing Petra's excitement at the crowd*
+> "She pays right now. And then she says, and you gotta… look, I… you know, the crowd's really… the crowd's really warmed up, you know. She's like, you can see, like, those scenes in those cartoons where the pupils have turned into the coins."
+
+**Soma** — *following the image*
+> "Sure."
+
+**GM** — *Petra welcomes them to stay*
+> "Right? She's like, she's like, like, this is awesome. And she says."
+
+**GM** — *Petra promotes the food*
+> "And you just gotta sit down here, I'm gonna… the food is the best."
+
+**Soma** — *comparing it with Lim's food*
+> "I don't know, we just had some great soup."
+
+**Vukradin** — *welcoming another perk*
+> "Free food!"
+
+**Brewbarry** — *proposing political use of the performance*
+> "I have an idea before we sing our next song, we should use our popularity."
+
+**Brewbarry** — *naming the initial target*
+> "and our music, to influence, you know, the mind of people, and sing about the evil of Lord of Neverwinter."
+
+**Valphine Sotorra** — *objecting*
+> "Whoa, whoa."
+
+**Vukradin** — *questioning the target*
+> "No, I don't know, I don't think he's that evil. I think it's…"
+
+**Valphine Sotorra** — *remembering Neverember's strategic role*
+> "Lord Neverwinter is our alley against, you know, Margaster, right?"
+
+**Vukradin** — *redirecting the hostility*
+> "Yeah, Margaster is evil."
+
+**Soma** — *stating the strategic logic*
+> "The enemy of our enemy is our friend."
+
+**Brewbarry** — *changing targets*
+> "So let's sing about the evil of House Margaster."
+
+**Brewbarry** — *adding the accusation*
+> "And how corrupt they are."
+
+**Vukradin** — *agreeing*
+> "Sure."
+
+**Brewbarry** — *describing the intended effect*
+> "Put, you know, plant that seed into the people's mind."
+
+**Brewbarry** — *naming the larger theme*
+> "revolution."
+
+**Vukradin** — *offering magical reinforcement*
+> "You want me to cast some spells, too, to, like, really alter their minds?"
+
+**Brewbarry** — *enthusiastically agreeing*
+> "Yes, yes, let's do that."
+
+**Brewbarry** — *stating the objective*
+> "leaves this tavern tonight needs to think that House Margaster is the most evil organization. That seems…"
+
+**Vukradin** — *assessing the ethics*
+> "Very good of us."
+
+**GM** — *describing the Common Chord's improved offerings*
+> "No, I totally like that idea. I'm just going to leave you with one last thing. So, you sit down, and you're kind of surprised, because when the Common Chord, when you were at the Common Chord, the place didn't have any food."
+
+**GM** — *recalling the old liquor*
+> "And it had really cheap Booze."
+
+**GM** — *contrasting old and new drink and food*
+> "that, at the time, Brewbarry thought was very good, because he, you know, had come from the Uthgardtian world, but now remembers it as undrinkable swill. And so, when she sits down and she presents this food, you're kind of, like, going, wow, she's been, like, upgraded the place quite a bit. It's, like, really fancy food, and the beer, Brewbarry."
+
+**GM** — *praising the beer*
+> "The beer is good."
+
+**Brewbarry** — *questioning the phrase*
+> "I mean, isn't that an oxymoron?"
+
+**Soma** — *giving an example of bad beer*
+> "There's bad beer, there's Bud Light."
+
+**GM** — *noting Brewbarry's elevated palate*
+> "Just to be clear, as you've elevated your palate."
+
+**Brewbarry** — *denying he has one*
+> "Have I? I don't think I have a palate."
+
+**Brewbarry** — *defining good beer*
+> "Anything that will, you know, get me drunk is good. That's my definition of good."
+
+**GM** — *Petra swaps the beer*
+> "Okay, which case, she takes the beer away from you and gives you another beer."
+
+**Brewbarry** — *claiming both*
+> "No, no, no. I'll take both, and I just got them."
+
+**Brewbarry** — *requesting more*
+> "More."
+
+**GM** — *Petra reserves cheap beer for Brewbarry*
+> "She goes, she notices how you don't appreciate her beer, and you drink the other cheap beer equally happily, and, you know, you're gonna get the cheap beer all night."
+
+**Soma** — *commenting on the wasted quality*
+> "Pearls before swine."
+
+**Brewbarry** — *unconcerned*
+> "Whatever, as long as I get drunk."
+
+**Vukradin** — *claiming the good beer*
+> "Take the good stuff."
+
+**GM** — *assigning the better drink*
+> "He'll take the good stuff."
+
+**Vukradin** — *returning to the nighttime plan*
+> "I think we're doing the stakeout."
+
+**Soma** — *sequencing the plans*
+> "Finish the performance, and yeah."
+
+**Vukradin** — *adding a possible sewer expedition*
+> "And maybe the sewers."
+
+**GM** — *checking whether there is another performance*
+> "Oh, hold on. So, hold on, hold on. So you're gonna… so do you wanna just roll the dice for the performance, so then I know what happens?"
+
+**Vukradin** — *thinking the roll already happened*
+> "We did it. Oh, the one in two nights?"
+
+**GM** — *clarifying*
+> "No, oh, you're gonna do that? You're not doing a special magical performance tonight, right?"
+
+**Soma** — *saying they are*
+> "No, they did."
+
+**Vukradin** — *referencing the first teaser*
+> "I already did it. That was the natural 1 and the 14."
+
+**GM** — *explaining the confusion*
+> "Oh, because I heard Brewbarry saying you were gonna go do, like, some magical."
+
+**Vukradin** — *agreeing to a second song*
+> "Oh, oh, you want to do another one?"
+
+**Brewbarry** — *rejecting the prior performance*
+> "Yeah, yeah, that's terrible."
+
+**Vukradin** — *agreeing*
+> "Alright, let's do it."
+
+**Vukradin** — *rolling again*
+> "Alright, let's do another one, let's see how it goes."
+
+**Brewbarry** — *stating the target*
+> "Margaster needs to suffer. They need to know it's coming from us."
+
+**Vukradin** — *reporting the rolls*
+> "14 and a 7."
+
+**GM** — *asking what the numbers represent*
+> "What is that?"
+
+**GM** — *clarifying the check*
+> "Performance."
+
+**Valphine Sotorra** — *remembering magical support*
+> "Wait, wait, we need bardic inspiration."
+
+**Vukradin** — *asking about the addition*
+> "You want to do an input?"
+
+**Valphine Sotorra** — *repeating the effect*
+> "Bardic Inspiration."
+
+**Vukradin** — *granting dice*
+> "Sure, add every… both of you add D8s."
+
+**Valphine Sotorra** — *responding*
+> "And my pleasure."
+
+**Vukradin** — *updating the results*
+> "So an 18, 18 and an 11."
+
+**GM** — *confirming*
+> "18 and 11?"
+
+**Valphine Sotorra** — *adding another bonus*
+> "And another 4."
+
+**Vukradin** — *identifying it*
+> "Oh, another… oh, the Bless?"
+
+**Valphine Sotorra** — *confirming*
+> "Yeah."
+
+**Vukradin** — *giving the final totals*
+> "So, 19 and… 13."
+
+**GM** — *assessing the performance*
+> "Right, so this actually turns out to be a pretty good performance. In fact, you know."
+
+**GM** — *describing the anti-Margaster lyric*
+> "There's a… there's a witty lyric you make about Margaster."
+
+**GM** — *describing the crowd's response*
+> "And the trade routes, that people start, you know, kind of…"
+
+**GM** — *saying the tune catches on*
+> "Thumbing away, like, it's… they've picked it up."
+
+**Brewbarry** — *pleased*
+> "Excellent."
+
+**Vukradin** — *acknowledging the result*
+> "Right."
+
+**GM** — *describing the song's topic*
+> "Right? I mean, there's, like, you know, a little bit of a song about how Margaster's, trade deals."
+
+**Valphine Sotorra** — *adding the effect on ordinary people*
+> "off of, the, you know."
+
+**Valphine Sotorra** — *finishing the idea*
+> "of all the people with the inflation, yeah."
+
+**Brewbarry** — *agreeing*
+> "Yep."
+
+**GM** — *distinguishing intent from exact lyric*
+> "No, Valphine, that would… that would not be the lyric, but yes, that's the intent."
+
+**Valphine Sotorra** — *reacting*
+> "Oh, no!"
+
+**Vukradin** — *reassuring her*
+> "Okay, now, yeah, we value your input."
+
+**Valphine Sotorra** — *blaming her language difficulty*
+> "I'm gonna stop my native language."
+
+**Vukradin** — *affirming her place in the band*
+> "But you're an important, essential member of the band."
+
+**Vukradin** — *giving her a nickname*
+> "Yokai."
+
+**GM** — *asking about Brewbarry's percussion*
+> "Wait, is… doesn't Brewbarry do the drum… do the thimbles?"
+
+**Brewbarry** — *correcting the word*
+> "What? Symbols."
+
+**GM** — *imagining his halberd as an instrument*
+> "Doesn't Brewbarry do more halberd by banging that?"
+
+**Vukradin** — *assigning him cowbell*
+> "Well, he does cowbell."
+
+**GM** — *describing the image*
+> "More cowbell. I'm just imagining Brewbarry taking the halberd and banging his, his… with a sword, banging it."
+
+**Vukradin** — *agreeing*
+> "Yeah."
+
+**Soma** — *repeating the musical demand*
+> "It's more a cowbell."
+
+**Brewbarry** — *questioning the genre fit*
+> "We're not that kind of band, though. I thought we were heavy metal. Cowbell."
+
+**Vukradin** — *defending cowbell's versatility*
+> "That's the great thing about more cowbell."
+
+**Vukradin** — *finishing the claim*
+> "Works on any song. Universally."
+
+**Soma** — *citing an example*
+> "Yeah, Blue Oyster Cult did not need more cowbell, but it worked out the same."
+<<<CG-SCENE 08 END>>>
+  ────────────────────────────────────────────────────────
+  Saved: 01_a_banker_s_revelation.md
+  Saved: 02_the_skeletal_horse_sighting.md
+  Saved: 03_arrival_at_the_board_laid_bare.md
+  Saved: 04_dining_with_lim_and_interrogating_bellows.md
+  Saved: 05_lim_s_secret_supplier.md
+  Saved: 06_planning_the_stakeout.md
+  Saved: 07_wandering_the_blue_lake_district.md
+  Saved: 08_return_to_the_common_chord.md
+
+============================================================
+
+  Scenes in summary:  8
+  Already extracted:  0
+  Requested:          8
+  Projected output:   21,166 tok  -> 1 group
+  Transcript sent:    1x  (per-scene mode would have sent 8x)
+
+Wrote 8 scene file(s) to /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs

@@ -1,0 +1,618 @@
+{
+  "run_id": "c89b51e726e64d9ea04a6904d6ebbe78",
+  "report": {
+    "schema_version": 1,
+    "title": "Voice smoothing calibration — A banker's revelation",
+    "method": "Conservative native rendering in the current Codex conversation; no external generation call; exact model/effort/usage not exposed.",
+    "cards": [
+      {
+        "id": "voice-calibration-line-029",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 29",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Aurelan Vance, does come back. As you guys are leaving, Aurelan Vance, does come back, to… he apparently had gone to the counting house and then rushed back. He seems a little bit out of breath.",
+        "after": "Aurelan Vance comes back as you guys are leaving. He apparently went to the counting house and rushed back. He seems a little out of breath.",
+        "rationale": "**GM** — *Aurelan Vance catches up after visiting the Counting House* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-032",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "Soma",
+        "location": "Line 32",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Aurelan Vance, which one was that guy?",
+        "after": "Aurelan Vance. Which one was he?",
+        "rationale": "**Soma** — *asking who Aurelan is* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-035",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 35",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "He's the, he's the… he's, he's Brewbarry's banker.",
+        "after": "He's Brewbarry's banker.",
+        "rationale": "**GM** — *identifying Brewbarry's banker* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-038",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 38",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "you know, the guy that Brewbarry intimidated into, like, you know, being an agent of his.",
+        "after": "The guy Brewbarry intimidated into being his agent.",
+        "rationale": "**GM** — *recalling how Brewbarry recruited him* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-041",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "Soma",
+        "location": "Line 41",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "The list of people who Brewbarry is intimidated is…",
+        "after": "The list of people Brewbarry has intimidated is…",
+        "rationale": "**Soma** — *on Brewbarry's history of intimidation* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": "The clause changes from being intimidated to doing the intimidating. Confirm that this grammar repair preserves the intended meaning."
+      },
+      {
+        "id": "voice-calibration-line-053",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 53",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "I mean, literally, you intimidated him with an intimidation check.",
+        "after": "You literally intimidated him with an intimidation check.",
+        "rationale": "**GM** — *citing the actual check* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-059",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "Brewbarry",
+        "location": "Line 59",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "I was just making friends with him, you know, he's making me a favor, I'll do him one, you know.",
+        "after": "I was just making friends with him. He's doing me a favor; I'll do him one.",
+        "rationale": "**Brewbarry** — *describing it as friendship* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-068",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 68",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Yes, Mr. Brewbarry, I… is it Mr. Brewbarry? Is that the correct appellation? I'm sorry, I'm not familiar with Uthgardtian norms.",
+        "after": "Yes, Mr. Brewbarry. Is that the correct appellation? I'm sorry, I'm not familiar with Uthgardtian norms.",
+        "rationale": "**GM** — *Aurelan is unsure of the correct address* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": "Removes a repeated question from the banker. Confirm this preserves his hesitation and manner."
+      },
+      {
+        "id": "voice-calibration-line-071",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "Brewbarry",
+        "location": "Line 71",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "So just call me Brew, that's fine.",
+        "after": "Just call me Brew. That's fine.",
+        "rationale": "**Brewbarry** — *offering a familiar name* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-080",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "Brewbarry",
+        "location": "Line 80",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Yes, well, yeah, it's a new thing.",
+        "after": "Yes, it's a new thing.",
+        "rationale": "**Brewbarry** — *embracing it* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-095",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 95",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "And since we're on the… since we're on such friendly terms, my friends call me Ori.",
+        "after": "And since we're on such friendly terms, my friends call me Ori.",
+        "rationale": "**GM** — *Aurelan reciprocates* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-104",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 104",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Alright. Well, you asked me to find out who the gnome is.",
+        "after": "You asked me to find out who the gnome is.",
+        "rationale": "**GM** — *Aurelan introduces his discovery* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-125",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 125",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Yes. Well, last night, I decided to go over some of the paperwork related to Bimble, and here's what I…",
+        "after": "Yes. Last night, I decided to go over some of the paperwork related to Bimble, and here's what I…",
+        "rationale": "**GM** — *Aurelan begins his findings* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-155",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "Brewbarry",
+        "location": "Line 155",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Alright, come on, this isn't a spelling bee, come on.",
+        "after": "Come on, this isn't a spelling bee. Come on.",
+        "rationale": "**Brewbarry** — *urging Aurelan onward* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-176",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 176",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Well… he pulls out a piece of paper, shows you the correct spelling, B-I-M-B-L-E.",
+        "after": "He pulls out a piece of paper and shows you the correct spelling, B-I-M-B-L-E.",
+        "rationale": "**GM** — *Aurelan displays the name* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": "This quote contains GM stage direction. It remains in the quote here; discuss if it should be separated before narration."
+      },
+      {
+        "id": "voice-calibration-line-185",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 185",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Yes, the payments stop seven tendays ago, on the day, not the tenday, no severance, no final reconciliation, no forwarding instruction. That is not how a contract ends.",
+        "after": "Yes, the payments stopped seven tendays ago. On the day, not the tenday. No severance, no final reconciliation, no forwarding instruction. That is not how a contract ends.",
+        "rationale": "**GM** — *describing the abrupt end of payments* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-191",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 191",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "And then, because he's a banker, and this is the only kind of question he has any good at, he has drawn nothing since. He has not banked, he has not borrowed, and he has not left. Your Harper friends would tell you the same if you had any, so somebody is keeping him. Find a man who feeds… find who feeds a man, and you have found the man.",
+        "after": "He's a banker, and this is the only kind of question he's any good at. He has drawn nothing since. He has not banked, he has not borrowed, and he has not left. Your Harper friends would tell you the same if you had any, so somebody is keeping him. Find who feeds a man, and you have found the man.",
+        "rationale": "**GM** — *explaining Bimble's lack of financial activity* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": "Mixes GM framing with banker dialogue and repairs a broken clause. Review meaning and the narration/dialogue boundary."
+      },
+      {
+        "id": "voice-calibration-line-197",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "Brewbarry",
+        "location": "Line 197",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "We'll… we'll get to the bottom of it, my friend. Right.",
+        "after": "We'll get to the bottom of it, my friend. Right.",
+        "rationale": "**Brewbarry** — *promising to investigate* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-203",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 203",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Well, you're very welcome. If you could find who is feeding him, I am certain you will find him.",
+        "after": "You're very welcome. If you could find who is feeding him, I am certain you will find him.",
+        "rationale": "**GM** — *Aurelan reiterates his advice* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-206",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "Vukradin",
+        "location": "Line 206",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "who's feeding Bimbo.",
+        "after": "Who's feeding Bimbo?",
+        "rationale": "**Vukradin** — *naming the mystery* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-calibration-line-230",
+        "category": "Grammar and sentence structure",
+        "scene": "01",
+        "speaker": "GM",
+        "location": "Line 230",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "I'm going to have to make sure that the name… because if I try to come up with names that cannot be twisted, you guys are then going to take it as a matter of personal privilege and honor.",
+        "after": "I'm going to have to make sure of the name. If I try to come up with names that cannot be twisted, you guys are going to take it as a matter of personal privilege and honor.",
+        "rationale": "**GM** — *resigned to the party's wordplay* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": "Completes a broken clause about the name. Confirm the completion rather than accepting it as a punctuation-only edit."
+      },
+      {
+        "id": "voice-calibration-line-233",
+        "category": "Filler and false-start removal",
+        "scene": "01",
+        "speaker": "Vukradin",
+        "location": "Line 233",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "Oh, boy. I… yeah, I could go… I could go pretty… yeah, I could go pretty dirty on this one.",
+        "after": "Oh, boy. I could go pretty dirty on this one.",
+        "rationale": "**Vukradin** — *acknowledging further possibilities* — proposed light cleanup for readable derived dialogue; retain the speaker's register.",
+        "risk": ""
+      },
+      {
+        "id": "voice-upstream-line-044",
+        "category": "Unresolved source wording",
+        "scene": "01",
+        "speaker": "Source wording question",
+        "location": "Line 44",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "> \"is expensive.\"",
+        "after": "> \"is expensive.\"",
+        "rationale": "The sample retains this wording unchanged. Approve to retain it, or Discuss to clarify the intended wording with the agent. No correction has been inferred.",
+        "risk": "“is expensive” may be a mishearing; the next response is “Very large.” It is left unchanged, not silently replaced by “extensive.”"
+      },
+      {
+        "id": "voice-upstream-line-056",
+        "category": "Unresolved source wording",
+        "scene": "01",
+        "speaker": "Source wording question",
+        "location": "Line 56",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample.md",
+          "sha256": "fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "snapshot": ".session-workflow/objects/fa6bdcc94b228d4e6acf63e630088a8000217a307892361e904a72a275ba22ff",
+          "label": "derived"
+        },
+        "before": "> \"That's not an invitation.\"",
+        "after": "> \"That's not an invitation.\"",
+        "rationale": "The sample retains this wording unchanged. Approve to retain it, or Discuss to clarify the intended wording with the agent. No correction has been inferred.",
+        "risk": "“That’s not an invitation” may be a mishearing in the intimidation joke. It remains unchanged."
+      },
+      {
+        "id": "voice-upstream-line-062",
+        "category": "Unresolved source wording",
+        "scene": "01",
+        "speaker": "GM — narrated action",
+        "location": "Line 62",
+        "source": {
+          "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+          "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+          "label": "derived"
+        },
+        "sample": {
+          "path": ".session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/review/calibration-sample-line062-approved.md",
+          "sha256": "1cf707ee0f0d74ac197b0f1f5ced5ceafea41adc50869f4467c2df6d86ccc3d2",
+          "snapshot": ".session-workflow/objects/1cf707ee0f0d74ac197b0f1f5ced5ceafea41adc50869f4467c2df6d86ccc3d2",
+          "label": "derived"
+        },
+        "before": "> \"No, no, so, so, so, yeah, so, so he's, so just so you know, so Aurelan Vance is, it shows up a little bit huffy-puffy, you know, he's, he's very excited, walks up to you, like, kind of pats himself down, you know, guests himself in proper clothing.\"",
+        "after": "*GM-narrated action — wording clarified and approved by the user; derived, not verbatim transcript dialogue.*\n\nAurelan Vance shows up a little out of breath, huffing and puffing. He’s very excited. He walks up to Brewbarry and pats down his clothes, which became rumpled as he ran to the temple of Lathander. He wants to look presentable.",
+        "rationale": "The user clarified the intended action, then explicitly approved the displayed replacement and its treatment as GM-narrated action outside spoken dialogue: “yes i do”. Apply in the derived sample only.",
+        "risk": "Human clarification adds the temple of Lathander and Brewbarry context; it is labeled as clarified wording, never as verbatim evidence."
+      }
+    ],
+    "authorities": [
+      {
+        "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/_genre.md",
+        "sha256": "7a848f23addaf26686576b1c1a109a53960f1dce66e3fee85a04bde549962f41",
+        "snapshot": ".session-workflow/objects/7a848f23addaf26686576b1c1a109a53960f1dce66e3fee85a04bde549962f41",
+        "label": "source"
+      },
+      {
+        "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/brewbarry_new_pipeline.md",
+        "sha256": "43625f00e2b3588536dce2aed40b2f195ac8ce37fb8942ebaa06bb92f71e44d9",
+        "snapshot": ".session-workflow/objects/43625f00e2b3588536dce2aed40b2f195ac8ce37fb8942ebaa06bb92f71e44d9",
+        "label": "configuration"
+      },
+      {
+        "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/valphine_new_pipeline.md",
+        "sha256": "80e131b039b2c40afcaaef34568eeb655db850f057b93e4a03aa60dc85460017",
+        "snapshot": ".session-workflow/objects/80e131b039b2c40afcaaef34568eeb655db850f057b93e4a03aa60dc85460017",
+        "label": "configuration"
+      },
+      {
+        "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/soma_new_pipeline.md",
+        "sha256": "a1e45a11c71bc6e6d3e480c08ab6d3571f2dc2c2e03e7564cc876d54efdde40c",
+        "snapshot": ".session-workflow/objects/a1e45a11c71bc6e6d3e480c08ab6d3571f2dc2c2e03e7564cc876d54efdde40c",
+        "label": "configuration"
+      },
+      {
+        "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/voice/vukradin_new_pipeline.md",
+        "sha256": "2f17508947a605a0fd68409cc7522ade17e3ca0dbf7d764b9068e8ffa05bf59a",
+        "snapshot": ".session-workflow/objects/2f17508947a605a0fd68409cc7522ade17e3ca0dbf7d764b9068e8ffa05bf59a",
+        "label": "configuration"
+      }
+    ]
+  },
+  "replaces_binding": "6d5ddfa770ae9e0539c3148ebee667b273e1c370d9ca16f9dc4866cc94906cc0"
+}

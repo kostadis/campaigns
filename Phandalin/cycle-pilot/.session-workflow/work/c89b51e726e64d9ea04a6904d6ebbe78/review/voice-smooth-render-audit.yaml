@@ -1,0 +1,1519 @@
+schema_version: 1
+run_id: c89b51e726e64d9ea04a6904d6ebbe78
+at: '2026-09-06T02:00:30.830037+00:00'
+calibration_binding: 0732b3131d9832603eaf5b8f32be22910b0d6cd6efa8bc71f41866ecf31a5a62
+calibration_approval:
+  actor: local user
+  rationale: Use this calibration for the remaining selected scenes; rejected examples
+    retain original wording.
+  at: '2026-09-06T01:47:48.569480+00:00'
+  binding: 0732b3131d9832603eaf5b8f32be22910b0d6cd6efa8bc71f41866ecf31a5a62
+skill: /home/kroussos/src/mytools-worktrees/cycle-skills/dotfiles/codex/skills/voice-smooth/SKILL.md
+method: Native manual quote review and individually selected edits; no external generation
+  call. Preserve unfinished or ambiguous material rather than reconstruct it. First-person
+  narration templates are not executed at this derived-quote stage.
+generation:
+  backend: native-agent
+  model: not-exposed (current Codex agent)
+  effort: null
+  producer: Codex native voice-smooth specialist; calibration before full generation
+  command: []
+  usage:
+    tokens: null
+scenes:
+- scene: '01'
+  input:
+    path: .session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md
+    sha256: ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332
+    snapshot: .session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/01_a_banker_s_revelation.md
+  source_quotes: 72
+  output_quote_blocks: 71
+  changes:
+  - id: voice-calibration-line-029
+    before: Aurelan Vance, does come back. As you guys are leaving, Aurelan Vance,
+      does come back, to… he apparently had gone to the counting house and then rushed
+      back. He seems a little bit out of breath.
+    after: Aurelan Vance comes back as you guys are leaving. He apparently went to
+      the counting house and rushed back. He seems a little out of breath.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-032
+    before: Aurelan Vance, which one was that guy?
+    after: Aurelan Vance. Which one was he?
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-035
+    before: He's the, he's the… he's, he's Brewbarry's banker.
+    after: He's Brewbarry's banker.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-038
+    before: you know, the guy that Brewbarry intimidated into, like, you know, being
+      an agent of his.
+    after: The guy Brewbarry intimidated into being his agent.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-041
+    before: The list of people who Brewbarry is intimidated is…
+    after: The list of people Brewbarry has intimidated is…
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-053
+    before: I mean, literally, you intimidated him with an intimidation check.
+    after: You literally intimidated him with an intimidation check.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-059
+    before: I was just making friends with him, you know, he's making me a favor,
+      I'll do him one, you know.
+    after: I was just making friends with him. He's doing me a favor; I'll do him
+      one.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-068
+    before: Yes, Mr. Brewbarry, I… is it Mr. Brewbarry? Is that the correct appellation?
+      I'm sorry, I'm not familiar with Uthgardtian norms.
+    after: Yes, Mr. Brewbarry. Is that the correct appellation? I'm sorry, I'm not
+      familiar with Uthgardtian norms.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-071
+    before: So just call me Brew, that's fine.
+    after: Just call me Brew. That's fine.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-080
+    before: Yes, well, yeah, it's a new thing.
+    after: Yes, it's a new thing.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-095
+    before: And since we're on the… since we're on such friendly terms, my friends
+      call me Ori.
+    after: And since we're on such friendly terms, my friends call me Ori.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-104
+    before: Alright. Well, you asked me to find out who the gnome is.
+    after: You asked me to find out who the gnome is.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-125
+    before: Yes. Well, last night, I decided to go over some of the paperwork related
+      to Bimble, and here's what I…
+    after: Yes. Last night, I decided to go over some of the paperwork related to
+      Bimble, and here's what I…
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-155
+    before: Alright, come on, this isn't a spelling bee, come on.
+    after: Come on, this isn't a spelling bee. Come on.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-176
+    before: Well… he pulls out a piece of paper, shows you the correct spelling, B-I-M-B-L-E.
+    after: He pulls out a piece of paper and shows you the correct spelling, B-I-M-B-L-E.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-185
+    before: Yes, the payments stop seven tendays ago, on the day, not the tenday,
+      no severance, no final reconciliation, no forwarding instruction. That is not
+      how a contract ends.
+    after: Yes, the payments stopped seven tendays ago. On the day, not the tenday.
+      No severance, no final reconciliation, no forwarding instruction. That is not
+      how a contract ends.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-191
+    before: And then, because he's a banker, and this is the only kind of question
+      he has any good at, he has drawn nothing since. He has not banked, he has not
+      borrowed, and he has not left. Your Harper friends would tell you the same if
+      you had any, so somebody is keeping him. Find a man who feeds… find who feeds
+      a man, and you have found the man.
+    after: He's a banker, and this is the only kind of question he's any good at.
+      He has drawn nothing since. He has not banked, he has not borrowed, and he has
+      not left. Your Harper friends would tell you the same if you had any, so somebody
+      is keeping him. Find who feeds a man, and you have found the man.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-197
+    before: We'll… we'll get to the bottom of it, my friend. Right.
+    after: We'll get to the bottom of it, my friend. Right.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-203
+    before: Well, you're very welcome. If you could find who is feeding him, I am
+      certain you will find him.
+    after: You're very welcome. If you could find who is feeding him, I am certain
+      you will find him.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-206
+    before: who's feeding Bimbo.
+    after: Who's feeding Bimbo?
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-230
+    before: I'm going to have to make sure that the name… because if I try to come
+      up with names that cannot be twisted, you guys are then going to take it as
+      a matter of personal privilege and honor.
+    after: I'm going to have to make sure of the name. If I try to come up with names
+      that cannot be twisted, you guys are going to take it as a matter of personal
+      privilege and honor.
+    authorization: explicit calibration card approval
+  - id: voice-calibration-line-233
+    before: Oh, boy. I… yeah, I could go… I could go pretty… yeah, I could go pretty
+      dirty on this one.
+    after: Oh, boy. I could go pretty dirty on this one.
+    authorization: explicit calibration card approval
+  - id: voice-upstream-line-062
+    before: '> "No, no, so, so, so, yeah, so, so he''s, so just so you know, so Aurelan
+      Vance is, it shows up a little bit huffy-puffy, you know, he''s, he''s very
+      excited, walks up to you, like, kind of pats himself down, you know, guests
+      himself in proper clothing."'
+    after: '*GM-narrated action — wording clarified and approved by the user; derived,
+      not verbatim transcript dialogue.*
+
+
+      Aurelan Vance shows up a little out of breath, huffing and puffing. He’s very
+      excited. He walks up to Brewbarry and pats down his clothes, which became rumpled
+      as he ran to the temple of Lathander. He wants to look presentable.'
+    authorization: explicit calibration card approval
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 1
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/01_a_banker_s_revelation.md
+    sha256: 8132470337bac313ce5b9161dd702c2aabd6ca4ef6260f5bc9e2fe63c15e11cb
+    snapshot: .session-workflow/objects/8132470337bac313ce5b9161dd702c2aabd6ca4ef6260f5bc9e2fe63c15e11cb
+    label: derived
+- scene: '02'
+  input:
+    path: .session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/02_the_skeletal_horse_sighting.md
+    sha256: ad342a1bede6962a6606b3f99bb91eaced5c2494d1abce59ce3f645641bfb9fe
+    snapshot: .session-workflow/objects/ad342a1bede6962a6606b3f99bb91eaced5c2494d1abce59ce3f645641bfb9fe
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/02_the_skeletal_horse_sighting.md
+  source_quotes: 55
+  output_quote_blocks: 55
+  changes:
+  - source_line: 26
+    speaker: GM
+    before: '> "Yes, yes. As you''re heading out towards the city, as you go through
+      the Protector''s Enclave, a passerby recognizes Boney."'
+    after: '> "Yes. As you''re heading out towards the city, through the Protector''s
+      Enclave, a passerby recognizes Boney."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 38
+    speaker: Soma
+    before: '> "You''ve, you, you''ve seen them outside right now?"'
+    after: '> "You''ve seen them outside right now?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 53
+    speaker: Soma
+    before: '> "Why don''t you ask him? You know, ask Boney, where might you have
+      seen him? Boney?"'
+    after: '> "Why don''t you ask him? Ask Boney, where might you have seen him? Boney?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 56
+    speaker: GM
+    before: '> "Boney… Boney asks him, I presume, you know."'
+    after: '> "Boney asks him, I presume."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 59
+    speaker: Soma
+    before: '> "No, the other way around, I want the man to ask Boney, right?"'
+    after: '> "No, the other way around. I want the man to ask Boney, right?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 101
+    speaker: Soma
+    before: '> "Yeah, like, I mean, so hold on, this guy''s seen this skeletal horse
+      bouncing around outside before?"'
+    after: '> "Hold on. This guy''s seen this skeletal horse bouncing around outside
+      before?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 122
+    speaker: Soma
+    before: '> "I mean, they''re… There''s not, like, there''s no unique coloring
+      pattern."'
+    after: '> "There''s no unique coloring pattern."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 128
+    speaker: Soma
+    before: '> "Somebody… maybe it was somebody wearing the same tackle?"'
+    after: '> "Maybe it was somebody wearing the same tackle?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 0
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/02_the_skeletal_horse_sighting.md
+    sha256: c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc
+    snapshot: .session-workflow/objects/c2425c1d2269ce68cd68a7a4549a86d0683470a10417e22ecd490f694b0a84dc
+    label: derived
+- scene: '03'
+  input:
+    path: .session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/03_arrival_at_the_board_laid_bare.md
+    sha256: cf53977761907f6972cf86c13dcfc8b01cedbb88857b298c607155dcc3cf7dc6
+    snapshot: .session-workflow/objects/cf53977761907f6972cf86c13dcfc8b01cedbb88857b298c607155dcc3cf7dc6
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/03_arrival_at_the_board_laid_bare.md
+  source_quotes: 133
+  output_quote_blocks: 133
+  changes:
+  - source_line: 32
+    speaker: Soma
+    before: '> "I mean, I''ve been dying for this soup."'
+    after: '> "I''ve been dying for this soup."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 47
+    speaker: GM
+    before: '> "how… where someone… how someone could be fed. Maybe there''s something
+      you could learn from… learn from her."'
+    after: '> "How someone could be fed. Maybe there''s something you could learn
+      from her."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 50
+    speaker: GM
+    before: '> "She''s a… she runs a small business, right?"'
+    after: '> "She runs a small business, right?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 68
+    speaker: GM
+    before: '> "I mean, she didn''t stop making it, you stopped going there."'
+    after: '> "She didn''t stop making it. You stopped going there."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 71
+    speaker: Soma
+    before: '> "I mean, whenever I was in town."'
+    after: '> "Whenever I was in town."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 77
+    speaker: GM
+    before: '> "Yes, I just haven''t… Just haven''t been in town a while."'
+    after: '> "Yes, I just haven''t been in town a while."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 80
+    speaker: Soma
+    before: '> "Yeah, well, now we''re back."'
+    after: '> "Well, now we''re back."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 104
+    speaker: GM
+    before: '> "So, so you''re in the Bluelake District."'
+    after: '> "So you''re in the Bluelake District."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 128
+    speaker: GM
+    before: '> "Dude, now I''m gonna have to, like, you know, be careful with all
+      of my…"'
+    after: '> "Dude, now I''m gonna have to be careful with all of my…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 131
+    speaker: Vukradin
+    before: '> "They just set themselves up, like, it''s… it''s not even fair."'
+    after: '> "They just set themselves up. It''s not even fair."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 140
+    speaker: GM
+    before: '> "Yeah, it''s… it''s… yes."'
+    after: '> "Yeah. Yes."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 170
+    speaker: Vukradin
+    before: '> "Soma… Soma''s soup."'
+    after: '> "Soma''s soup."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 203
+    speaker: GM
+    before: '> "I''m gonna start picking Greek names so that I don''t… this doesn''t
+      happen. All right, the broad… sorry."'
+    after: '> "I''m gonna start picking Greek names so this doesn''t happen. All right,
+      the broad… sorry."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 209
+    speaker: Vukradin
+    before: '> "There, there you go! There it is!"'
+    after: '> "There you go! There it is!"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 236
+    speaker: GM
+    before: '> "So, just so, you know, the place is run by a chef called Lim."'
+    after: '> "The place is run by a chef called Lim."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 269
+    speaker: GM
+    before: '> "But you remember him as, like, being humorless, humorless, precise."'
+    after: '> "But you remember him as humorless and precise."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 278
+    speaker: Brewbarry
+    before: '> "table options, what options are there? I''m curious."'
+    after: '> "What table options are there? I''m curious."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 287
+    speaker: Soma
+    before: '> "Normally, I was here alone, right? Like, now I''ve got some company."'
+    after: '> "Normally, I was here alone, right? Now I''ve got some company."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 329
+    speaker: Soma
+    before: '> "Yeah, we… I''ve been here plenty of times. I''m glad you remember
+      me."'
+    after: '> "I''ve been here plenty of times. I''m glad you remember me."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 335
+    speaker: Soma
+    before: '> "It''s… it''s been a… it''s been an interesting journey."'
+    after: '> "It''s been an interesting journey."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 341
+    speaker: Soma
+    before: '> "I''m here to see Lim, I hope she''s still around."'
+    after: '> "I''m here to see Lim. I hope she''s still around."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 398
+    speaker: Vukradin
+    before: '> "that''s good, we don''t have very much money."'
+    after: '> "That''s good. We don''t have very much money."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 401
+    speaker: GM
+    before: '> "But they''re very low, they''re very low for Neverwinter. One of the
+      things you''ve noticed since you''ve been here is that the prices seem to be
+      quite elevated, possibly caused by the disruption in trade routes."'
+    after: '> "But they''re very low for Neverwinter. One of the things you''ve noticed
+      since you''ve been here is that prices seem to be quite elevated, possibly caused
+      by disruption in the trade routes."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 410
+    speaker: Soma
+    before: '> "There you go! That''s… no, that''s a perfect explanation. I mean,
+      that''s why we always came here. It''s a nice, you know, locally sourced…"'
+    after: '> "There you go! That''s a perfect explanation. That''s why we always
+      came here. It''s nice, locally sourced…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 251
+    speaker: GM
+    before: '> "It… no, no, he''s a warforged."'
+    after: '> "No, he''s a warforged."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 302
+    speaker: GM
+    before: '> "No, there was… sorry, there were two tables near the wind… there were
+      two tables near the windows."'
+    after: '> "No, sorry, there were two tables near the windows."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 308
+    speaker: Soma
+    before: '> "Yeah, we''ll just… we''ll just push them together."'
+    after: '> "Yeah, we''ll just push them together."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 323
+    speaker: Vukradin
+    before: '> "He''s, like, his own table, almost."'
+    after: '> "He''s almost his own table."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 389
+    speaker: Soma
+    before: '> "Just tell Lim I''m back, and, you know, she''ll know how to."'
+    after: '> "Just tell Lim I''m back, and she''ll know how to."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 419
+    speaker: GM
+    before: '> "Yeah, did you order… did you ask for the soup, a Brewbarry?"'
+    after: '> "Did you ask for the soup, Brewbarry?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 233
+    speaker: GM
+    before: '> "The minute… the minute I read it, that''s what I thought. Like, and
+      I was trying to avoid saying it, but then I said, you know what, if I don''t
+      say it, I''m going to spend the entire evening trying not to say it. So why
+      don''t I say it, get it out of my system, and now I can say it correctly. The
+      board laid bare."'
+    after: '> "The minute I read it, that''s what I thought. I was trying to avoid
+      saying it, but then I said, you know what, if I don''t say it, I''m going to
+      spend the entire evening trying not to say it. So why don''t I say it, get it
+      out of my system, and now I can say it correctly. The board laid bare."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 0
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/03_arrival_at_the_board_laid_bare.md
+    sha256: 1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c
+    snapshot: .session-workflow/objects/1a603a5e8f33f82659b7e8e2cb40a8f588de148deaab595cba0f0e33f4a3f00c
+    label: derived
+- scene: '04'
+  input:
+    path: .session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/04_dining_with_lim_and_interrogating_bellows.md
+    sha256: 567064329fedb44ad1464321f7dc80356c02d82beea5b7f940fc8adddb99af7d
+    snapshot: .session-workflow/objects/567064329fedb44ad1464321f7dc80356c02d82beea5b7f940fc8adddb99af7d
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md
+  source_quotes: 172
+  output_quote_blocks: 172
+  changes:
+  - source_line: 111
+    speaker: GM
+    before: '> "So she goes… she then mentions that the Tower District has been quieter,
+      quieter."'
+    after: '> "She then mentions that the Tower District has been quieter."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 132
+    speaker: Soma
+    before: '> "I mean, are you… are you still doing good business?"'
+    after: '> "Are you still doing good business?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 162
+    speaker: GM
+    before: '> "So, so… so you notice that the food is cheap. Like, there seems to
+      be something going on about the food… the food price."'
+    after: '> "You notice that the food is cheap. There seems to be something going
+      on about the food price."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 165
+    speaker: Vukradin
+    before: '> "Does that the food taste cheap as well?"'
+    after: '> "Does the food taste cheap as well?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 168
+    speaker: GM
+    before: '> "No, no, the food tastes fabulous."'
+    after: '> "No, the food tastes fabulous."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 186
+    speaker: GM
+    before: '> "No, no, no, no, the price of the goods are… the prices on the menus
+      that everybody has are lower than what you would expect."'
+    after: '> "No, the prices on the menus that everybody has are lower than what
+      you would expect."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 210
+    speaker: GM
+    before: '> "She goes, I… I just, I just, I just run… I just run a restaurant.
+      I''ve got good suppliers, and,"'
+    after: '> "She goes, I just run a restaurant. I''ve got good suppliers, and,"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 243
+    speaker: Soma
+    before: '> "Yeah, he''s… he''s bored easily."'
+    after: '> "Yeah, he''s bored easily."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 249
+    speaker: GM
+    before: '> "and Vukradin. I mean, I never, like, cared for his music, but, like,
+      there are people who would kill to hear him play."'
+    after: '> "and Vukradin. I never cared for his music, but there are people who
+      would kill to hear him play."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 258
+    speaker: Soma
+    before: '> "Yeah, so it''s been a, it''s been a wild couple of months, hasn''t
+      it?"'
+    after: '> "It''s been a wild couple of months, hasn''t it?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 261
+    speaker: Soma
+    before: '> "Let''s just say one of my guides got a little… little more tangled
+      up in, weird shit."'
+    after: '> "Let''s just say one of my guides got a little more tangled up in weird
+      shit."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 264
+    speaker: GM
+    before: '> "So, so this goes on for a little bit. She''s, she''s, like, probing…
+      she''s, she''s, like, trying to find out where you are. She''s clearly trying
+      to distract you from the question of the food supplies."'
+    after: '> "This goes on for a little bit. She''s probing, trying to find out where
+      you are. She''s clearly trying to distract you from the question of the food
+      supplies."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 273
+    speaker: Vukradin
+    before: '> "You, you know, you are just the most amazing…"'
+    after: '> "You know, you are just the most amazing…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 279
+    speaker: Vukradin
+    before: '> "I was wondering, could you… could you show us, like, how you do it?
+      Can you take… can you show us the magic?"'
+    after: '> "I was wondering, could you show us how you do it? Can you show us the
+      magic?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 306
+    speaker: GM
+    before: '> "It was, it was for something else."'
+    after: '> "It was for something else."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 339
+    speaker: Brewbarry
+    before: '> "Although, although, getting to the bottom of it at the Board Laid
+      Bare sounds, you know, dodgy."'
+    after: '> "Although, getting to the bottom of it at the Board Laid Bare sounds
+      dodgy."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 363
+    speaker: Soma
+    before: '> "I mean, I told these guys."'
+    after: '> "I told these guys."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 396
+    speaker: Valphine Sotorra
+    before: '> "Like, there should be more patrons here."'
+    after: '> "There should be more patrons here."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 402
+    speaker: Valphine Sotorra
+    before: '> "Well, I mean, like, with the quality of this food, it seems like there
+      should be people, like, lining up outside."'
+    after: '> "With the quality of this food, it seems like there should be people
+      lining up outside."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 423
+    speaker: Brewbarry
+    before: '> "elaborate."'
+    after: '> "Elaborate."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 426
+    speaker: GM
+    before: '> "What would you like to elaborate? When they arrive, how they arrive?
+      What do the crate looks like? Are they stamped? How many crates? What''s contained
+      in the crate?"'
+    after: '> "What would you like to elaborate? When they arrive, how they arrive?
+      What do the crates look like? Are they stamped? How many crates? What''s contained
+      in the crate?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 435
+    speaker: Brewbarry
+    before: '> "you know, all their prices have gone up because they can''t get supplies
+      for cheap, but apparently you can, so I''m just curious."'
+    after: '> "All their prices have gone up because they can''t get supplies for
+      cheap, but apparently you can. I''m just curious."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 459
+    speaker: Vukradin
+    before: '> "Yeah, but what day… what day of the week is it currently?"'
+    after: '> "Yeah, but what day of the week is it currently?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 471
+    speaker: GM
+    before: '> "No, no, no, no, third hour. Third hour after midnight. They arrive
+      every day."'
+    after: '> "No, third hour. Third hour after midnight. They arrive every day."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 483
+    speaker: GM
+    before: '> "Yes, they arrive… I mean, fresh goods have to arrive every night,
+      right?"'
+    after: '> "Yes, fresh goods have to arrive every night, right?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 525
+    speaker: Brewbarry
+    before: '> "Okay, great. So who… who is responsible for this logistics here? Is
+      it Lim?"'
+    after: '> "Okay, great. Who is responsible for this logistics here? Is it Lim?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 531
+    speaker: GM
+    before: '> "Then he goes, pauses, and says, but there was one interesting detail."'
+    after: '> "Then he pauses and says, but there was one interesting detail."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 537
+    speaker: Brewbarry
+    before: '> "It was… yeah, yeah, please."'
+    after: '> "Yeah, please."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 549
+    speaker: GM
+    before: '> "It does not come inside. It is set down, and it is not therein in
+      the morning. I have not asked. It is not billed to us."'
+    after: '> "It does not come inside. It is set down, and it is not there in the
+      morning. I have not asked. It is not billed to us."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 558
+    speaker: Brewbarry
+    before: '> "Alright, so we need to talk to Lim about this… this thing, okay."'
+    after: '> "Alright, we need to talk to Lim about this thing. Okay."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 219
+    speaker: GM
+    before: '> "And then she kind of gets annoyed about asking about the business
+      and the restaurant, and asks Soma, so what do you… what have you been doing?
+      Like, what have you been doing, Soma? Like, last time we spoke, you decided
+      you were gonna go be a guide, and…"'
+    after: '> "She gets annoyed about asking about the business and the restaurant,
+      and asks Soma, what have you been doing? Last time we spoke, you decided you
+      were gonna go be a guide, and…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 0
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/04_dining_with_lim_and_interrogating_bellows.md
+    sha256: d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f
+    snapshot: .session-workflow/objects/d4817031affb674bc6c35dc2cf38197eb0653a906e2a7f2517cb988072ca6e2f
+    label: derived
+- scene: '05'
+  input:
+    path: .session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md
+    sha256: 15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3
+    snapshot: .session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/05_lim_s_secret_supplier.md
+  source_quotes: 118
+  output_quote_blocks: 118
+  changes:
+  - source_line: 44
+    speaker: Brewbarry
+    before: '> "She''s a friend, we don''t need to spy on her, we just ask her."'
+    after: '> "She''s a friend. We don''t need to spy on her. We just ask her."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 56
+    speaker: Brewbarry
+    before: '> "I''m just trying to take the shortest route to get the information
+      we need. You know, stakeout doesn''t sound like it."'
+    after: '> "I''m just trying to take the shortest route to get the information
+      we need. A stakeout doesn''t sound like it."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 62
+    speaker: GM
+    before: '> "You''ve got a hal… are you taking your halberd in there, or are you
+      gonna leave it outside?"'
+    after: '> "Are you taking your halberd in there, or are you gonna leave it outside?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 71
+    speaker: GM
+    before: '> "No, I just… no, I just want to know so I can set the stage. So, like,
+      the Brewbarry the Goliath walks in with his…"'
+    after: '> "No, I just want to know so I can set the stage. Brewbarry the Goliath
+      walks in with his…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 80
+    speaker: Brewbarry
+    before: '> "Absolutely, and I''m just pretending to be interested in what''s going
+      on in the kitchen, but I''m waiting for Lim to be available to talk to."'
+    after: '> "Absolutely. I''m just pretending to be interested in what''s going
+      on in the kitchen, but I''m waiting for Lim to be available to talk to."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 89
+    speaker: Brewbarry
+    before: '> "And, I tell her, you know, how do you… you know, I was wondering how
+      you managed to keep your prices so low. I''m getting into business myself, and
+      I''m looking for good, you know, suppliers or delivery guys who could move around
+      some goods, and"'
+    after: '> "And I tell her, I was wondering how you managed to keep your prices
+      so low. I''m getting into business myself, and I''m looking for good suppliers
+      or delivery guys who could move around some goods, and"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 149
+    speaker: Brewbarry
+    before: '> "You know, multiple times that there is a 9th crate that stays in the
+      street and then disappears in the morning."'
+    after: '> "Multiple times that there is a 9th crate that stays in the street and
+      then disappears in the morning."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 152
+    speaker: GM
+    before: '> "Yes, and I don''t know why they bring a 9th crate, I just… I only
+      order 8 crates."'
+    after: '> "Yes, and I don''t know why they bring a 9th crate. I only order 8 crates."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 173
+    speaker: Soma
+    before: '> "I mean, I don''t want to torture an old friend."'
+    after: '> "I don''t want to torture an old friend."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 176
+    speaker: Brewbarry
+    before: '> "We''re not torturing her, we''re just, you know, asking questions."'
+    after: '> "We''re not torturing her. We''re just asking questions."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 179
+    speaker: Soma
+    before: '> "I mean, watching you shake her down makes me a little uncomfortable."'
+    after: '> "Watching you shake her down makes me a little uncomfortable."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 182
+    speaker: Brewbarry
+    before: '> "I''m not shaking her down, I''m just being… Curious, I''m probing."'
+    after: '> "I''m not shaking her down. I''m just being curious. I''m probing."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 188
+    speaker: GM
+    before: '> "And it turns out that, she says that it''s a… it''s a… it''s a group
+      that, she made an arrangement with."'
+    after: '> "It turns out that she says it''s a group she made an arrangement with."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 191
+    speaker: GM
+    before: '> "That, has been trying to, you know, keep local businesses in line,
+      and, you know, believes in fair trade, organic goods."'
+    after: '> "That has been trying to keep local businesses in line, and believes
+      in fair trade, organic goods."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 242
+    speaker: GM
+    before: '> "Is she goes, look, There is a sewer system in the Bluelake District."'
+    after: '> "She goes, look, there is a sewer system in the Bluelake District."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 263
+    speaker: Brewbarry
+    before: '> "Yeah, it''s just transit, you know?"'
+    after: '> "Yeah, it''s just transit."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 278
+    speaker: Valphine Sotorra
+    before: '> "It''s very natural to transport things in the ground, so, you know…"'
+    after: '> "It''s very natural to transport things in the ground, so…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 287
+    speaker: GM
+    before: '> "So she''s like… so yeah, so basically what''s going on is that she
+      kind of reveals that, you know, the people who bring her the food, they come
+      in through the sewers."'
+    after: '> "She reveals that the people who bring her the food come in through
+      the sewers."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 377
+    speaker: Soma
+    before: '> "the, the Lim I knew wouldn''t, wouldn''t get in, you know, get in
+      so deep with criminals."'
+    after: '> "The Lim I knew wouldn''t get in so deep with criminals."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 383
+    speaker: GM
+    before: '> "She could have. But she wanted to, you know, keep her community establishment,
+      not lose her clientele."'
+    after: '> "She could have. But she wanted to keep her community establishment,
+      not lose her clientele."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 290
+    speaker: GM
+    before: '> "They approached her once at the market, she made a deal with them,
+      all she had to do was, you know, pay them on a regular basis. She kind of asks
+      Soma really politely, like, to not scare them away, and to not, like, try to
+      ambush them, because she has a business to run."'
+    after: '> "They approached her once at the market. She made a deal with them.
+      All she had to do was pay them on a regular basis. She asks Soma really politely
+      not to scare them away or try to ambush them, because she has a business to
+      run."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 0
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/05_lim_s_secret_supplier.md
+    sha256: bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8
+    snapshot: .session-workflow/objects/bb7c103203b8fd897cc94b4bc09068fef25b607a3770275eb5d2b7c8310869b8
+    label: derived
+- scene: '06'
+  input:
+    path: .session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/06_planning_the_stakeout.md
+    sha256: c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb
+    snapshot: .session-workflow/objects/c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/06_planning_the_stakeout.md
+  source_quotes: 89
+  output_quote_blocks: 89
+  changes:
+  - source_line: 35
+    speaker: Valphine Sotorra
+    before: '> "We are still looking for the, the missing gnome, right?"'
+    after: '> "We are still looking for the missing gnome, right?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 44
+    speaker: GM
+    before: '> "Yes, and so, like, what you kind of pieced together is that 7 ten-days
+      ago, the displacement manifold went dark."'
+    after: '> "Yes, what you''ve pieced together is that 7 ten-days ago, the displacement
+      manifold went dark."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 50
+    speaker: GM
+    before: '> "Right? Lionshield''s store stopped receiving. Don''t forget, Lion
+      wrote about this, right? And you''re carrying her, request to help with supplies."'
+    after: '> "Right? Lionshield''s store stopped receiving. Don''t forget, Lion wrote
+      about this, right? And you''re carrying her request to help with supplies."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 65
+    speaker: GM
+    before: '> "And, what you''re guessing is that Lim''s supplier was never on the
+      manifold."'
+    after: '> "What you''re guessing is that Lim''s supplier was never on the manifold."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 71
+    speaker: GM
+    before: '> "Well, what… she may have changed suppliers, but that supplier wasn''t
+      on the manifold."'
+    after: '> "She may have changed suppliers, but that supplier wasn''t on the manifold."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 101
+    speaker: Brewbarry
+    before: '> "So there''s two parties that benefited from the manifold going broke."'
+    after: '> "So there are two parties that benefited from the manifold going broke."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 161
+    speaker: Soma
+    before: '> "Yeah, I mean, somebody''s got disguised self or something, right?
+      Like, we can…"'
+    after: '> "Somebody''s got disguised self or something, right? We can…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 164
+    speaker: Soma
+    before: '> "Or actually, I''ve got… I''ve got familiars, too, like, I can just
+      drop one down."'
+    after: '> "Actually, I''ve got familiars, too. I can just drop one down."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 170
+    speaker: GM
+    before: '> "Yeah, so… so one of the things that… one of the things… so one of
+      the things that you know is that sewers tend to have rats."'
+    after: '> "One of the things you know is that sewers tend to have rats."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 179
+    speaker: GM
+    before: '> "No, hold on, hold on, hold on. I would just like to just make an observation.
+      And where there are rats, there are probably were-rats."'
+    after: '> "No, hold on. I would just like to make an observation. Where there
+      are rats, there are probably were-rats."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 209
+    speaker: GM
+    before: '> "But… but one of the things about were-rats is they tend to know each
+      other."'
+    after: '> "But one of the things about were-rats is they tend to know each other."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 224
+    speaker: Brewbarry
+    before: '> "I think… I think the most simple action right now is just for us to
+      spy on the delivery, and see who''s taking the ninth crate."'
+    after: '> "I think the simplest action right now is for us to spy on the delivery
+      and see who''s taking the ninth crate."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 227
+    speaker: Soma
+    before: '> "Yeah, I mean, we can do this as many times as we need, right? Like,
+      every other night."'
+    after: '> "We can do this as many times as we need, right? Every other night."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 230
+    speaker: Vukradin
+    before: '> "You can do it, you can do it as a cat, or something that''s unassuming."'
+    after: '> "You can do it as a cat, or something that''s unassuming."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 239
+    speaker: Soma
+    before: '> "crow anything, right? Like, there''s plenty of unassuming things."'
+    after: '> "A crow, anything, right? There''s plenty of unassuming things."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 254
+    speaker: Soma
+    before: '> "But yeah, just create a familiar of, like, a cat."'
+    after: '> "But yeah, just create a familiar of a cat."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 272
+    speaker: GM
+    before: '> "Alright, so that''s gonna take… that''s 3 in the morning, so there''s
+      plenty of time to go do something else. You can try to… you can go scout around
+      the Blue Lake, or you can go try to find the Harpers, you can go try to meet,
+      Lord Neverember."'
+    after: '> "Alright, that''s 3 in the morning, so there''s plenty of time to go
+      do something else. You can go scout around the Blue Lake, or try to find the
+      Harpers, or try to meet Lord Neverember."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 0
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/06_planning_the_stakeout.md
+    sha256: c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432
+    snapshot: .session-workflow/objects/c429d652461213894c8eff1a212be61b3661aaec1443004f4bc930662d708432
+    label: derived
+- scene: '07'
+  input:
+    path: .session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/07_wandering_the_blue_lake_district.md
+    sha256: 2dfc88e5b8a37c9577af23e0e797fa8802be723fa36473d1c7eb74b8bec91864
+    snapshot: .session-workflow/objects/2dfc88e5b8a37c9577af23e0e797fa8802be723fa36473d1c7eb74b8bec91864
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/07_wandering_the_blue_lake_district.md
+  source_quotes: 89
+  output_quote_blocks: 89
+  changes:
+  - source_line: 44
+    speaker: Brewbarry
+    before: '> "Oh, come on, even, even me."'
+    after: '> "Oh, come on, even me."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 59
+    speaker: Vukradin
+    before: '> "But, you know… We''ve got our artistic direction."'
+    after: '> "But we''ve got our artistic direction."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 74
+    speaker: GM
+    before: '> "Common Chord. Common Chord. Yeah, so you''re headed towards the Common
+      Chord."'
+    after: '> "Common Chord. You''re headed towards the Common Chord."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 83
+    speaker: Vukradin
+    before: '> "You''re saying we… we saw deja vu?"'
+    after: '> "You''re saying we saw deja vu?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 107
+    speaker: Vukradin
+    before: '> "Brewbarry? Is this, like, you want to incorporate this into your robes?"'
+    after: '> "Brewbarry? Do you want to incorporate this into your robes?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 134
+    speaker: GM
+    before: '> "No, but they''re… no, it''s not soft."'
+    after: '> "No, it''s not soft."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 155
+    speaker: Soma
+    before: '> "It, it tracks, it, you can''t…"'
+    after: '> "It tracks. You can''t…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 179
+    speaker: GM
+    before: '> "As you''re… as you pass by, as you head… start heading through to
+      the, Common Chord, you notice that a bill''s been posted with"'
+    after: '> "As you start heading through to the Common Chord, you notice that a
+      bill''s been posted with"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 194
+    speaker: GM
+    before: '> "In a… in a… in two days."'
+    after: '> "In two days."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 233
+    speaker: GM
+    before: '> "is now advertising that they''re gonna be having Lathander''s death
+      at the… performing there in two days."'
+    after: '> "is now advertising that they''re gonna be having Lathander''s death
+      performing there in two days."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 242
+    speaker: GM
+    before: '> "Or, or, you know, who knows what happened, right?"'
+    after: '> "Or who knows what happened, right?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 257
+    speaker: GM
+    before: '> "Right, so the prices… definitely the prices… the prices are going
+      up."'
+    after: '> "Right, the prices are definitely going up."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 263
+    speaker: GM
+    before: '> "The first one is… The first one is, a rumor that''s saying that"'
+    after: '> "The first one is a rumor that''s saying that"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 284
+    speaker: GM
+    before: '> "Right, and so that was one rumor you heard, and the other rumor you
+      heard was…"'
+    after: '> "That was one rumor you heard, and the other rumor was…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 296
+    speaker: GM
+    before: '> "In the… in the Common Chord, but it''s… it''s become a thing. Alright,
+      so you arrive at the Common Chord."'
+    after: '> "In the Common Chord, but it''s become a thing. Alright, you arrive
+      at the Common Chord."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 0
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/07_wandering_the_blue_lake_district.md
+    sha256: 8afb1f2fdb9f6ec4b9c31c1670662eeac60124ef096a3c0c94c804a43a968c58
+    snapshot: .session-workflow/objects/8afb1f2fdb9f6ec4b9c31c1670662eeac60124ef096a3c0c94c804a43a968c58
+    label: derived
+- scene: 08
+  input:
+    path: .session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/08_return_to_the_common_chord.md
+    sha256: 8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553
+    snapshot: .session-workflow/objects/8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553
+    label: derived
+  output: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md
+  source_quotes: 268
+  output_quote_blocks: 268
+  changes:
+  - source_line: 57
+    speaker: GM
+    before: '> "You know, the room held 40 people comfortably."'
+    after: '> "The room held 40 people comfortably."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 60
+    speaker: GM
+    before: '> "You would play… you… when you played there, you played 3 consecutive
+      nights to audiences that averaged less than 40."'
+    after: '> "When you played there, you played 3 consecutive nights to audiences
+      that averaged less than 40."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 90
+    speaker: Vukradin
+    before: '> "I kept Brewbarry''s money, it was very nice of him to give me a 10
+      out of 10."'
+    after: '> "I kept Brewbarry''s money. It was very nice of him to give me a 10
+      out of 10."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 105
+    speaker: GM
+    before: '> "And that''s kind of how you ended up, you know, on this adventurous
+      quest."'
+    after: '> "That''s how you ended up on this adventurous quest."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 114
+    speaker: GM
+    before: '> "And, you know, it''s like this, like, it is the place to be, right?"'
+    after: '> "It''s the place to be, right?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 117
+    speaker: GM
+    before: '> "And, you… so you show up there. So, what… what is it that you want
+      to… what is it that you want to do? Do you want to…"'
+    after: '> "You show up there. What is it that you want to do? Do you want to…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 129
+    speaker: Vukradin
+    before: '> "Also, like, am I being mobbed by fans? Am I doing autographs?"'
+    after: '> "Also, am I being mobbed by fans? Am I doing autographs?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 144
+    speaker: GM
+    before: '> "So, so, so, you know, do you announce yourself as Vukradin? As the
+      great Vukradin?"'
+    after: '> "Do you announce yourself as Vukradin? As the great Vukradin?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 162
+    speaker: GM
+    before: '> "Right? You''re definitely making an impression, like, you know, like,
+      people are, like, pointing at you, and they''re talking about you, and people
+      are looking at you, Vukradin, as if they would recognize you."'
+    after: '> "You''re definitely making an impression. People are pointing at you
+      and talking about you. People are looking at you, Vukradin, as if they would
+      recognize you."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 165
+    speaker: Valphine Sotorra
+    before: '> "So, the Brewbarry, you need to set up your, your shop."'
+    after: '> "Brewbarry, you need to set up your shop."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 183
+    speaker: Brewbarry
+    before: '> "Sorry, sorry guys, I''m still learning the ropes here."'
+    after: '> "Sorry, guys. I''m still learning the ropes here."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 252
+    speaker: GM
+    before: '> "So, Petra… so, so, so, you know, with all the commotion, Petra finally
+      shows up."'
+    after: '> "With all the commotion, Petra finally shows up."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 288
+    speaker: GM
+    before: '> "Well, I mean, your old fee, does that sound fair?"'
+    after: '> "Well, your old fee. Does that sound fair?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 294
+    speaker: Vukradin
+    before: '> "Because now I''ve got a whole band, and we''re, you know, we''re a
+      little bit bigger now, I''ve got other things going on, so…"'
+    after: '> "Because now I''ve got a whole band, and we''re a little bit bigger
+      now. I''ve got other things going on, so…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 336
+    speaker: GM
+    before: '> "That was more of a cover… that was more of a cover band idea than
+      the real Lathander''s Death."'
+    after: '> "That was more of a cover band idea than the real Lathander''s Death."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 342
+    speaker: GM
+    before: '> "Yeah, like, the guy who plays your songs on stage every night, then,
+      like, people like it."'
+    after: '> "The guy who plays your songs on stage every night. People like it."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 369
+    speaker: Soma
+    before: '> "Oh, you, you want, you want, front-end points."'
+    after: '> "Oh, you want front-end points."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 417
+    speaker: Vukradin
+    before: '> "How long has this been going? So how much money have you… so really,
+      I should sue you for a percentage of all your profits for stealing my likeness."'
+    after: '> "How long has this been going? How much money have you… Really, I should
+      sue you for a percentage of all your profits for stealing my likeness."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 456
+    speaker: GM
+    before: '> "Well, I always tell, I always tell them it''s a cover band."'
+    after: '> "Well, I always tell them it''s a cover band."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 480
+    speaker: Vukradin
+    before: '> "Let''s, let''s perform."'
+    after: '> "Let''s perform."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 495
+    speaker: Vukradin
+    before: '> "No, no, we''ll do one song. We''ll do one song."'
+    after: '> "No, we''ll do one song. We''ll do one song."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 519
+    speaker: GM
+    before: '> "So, actually, it turns out that Valphine''s bad die roll, combined
+      with your style, actually echoes back to the original classic."'
+    after: '> "It turns out that Valphine''s bad die roll, combined with your style,
+      echoes back to the original classic."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 537
+    speaker: GM
+    before: '> "It''s now this polished table with, like, beautifully set couches
+      and a little plaque that said, Vukradin created his music here."'
+    after: '> "It''s now this polished table with beautifully set couches and a little
+      plaque that said, Vukradin created his music here."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 591
+    speaker: Brewbarry
+    before: '> "I have an idea before we sing our next song, we should use our popularity."'
+    after: '> "I have an idea. Before we sing our next song, we should use our popularity."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 594
+    speaker: Brewbarry
+    before: '> "and our music, to influence, you know, the mind of people, and sing
+      about the evil of Lord of Neverwinter."'
+    after: '> "and our music to influence the mind of people, and sing about the evil
+      of Lord of Neverwinter."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 600
+    speaker: Vukradin
+    before: '> "No, I don''t know, I don''t think he''s that evil. I think it''s…"'
+    after: '> "No, I don''t know. I don''t think he''s that evil. I think it''s…"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 621
+    speaker: Brewbarry
+    before: '> "Put, you know, plant that seed into the people''s mind."'
+    after: '> "Plant that seed into the people''s mind."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 627
+    speaker: Vukradin
+    before: '> "You want me to cast some spells, too, to, like, really alter their
+      minds?"'
+    after: '> "You want me to cast some spells, too, to really alter their minds?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 663
+    speaker: Brewbarry
+    before: '> "Anything that will, you know, get me drunk is good. That''s my definition
+      of good."'
+    after: '> "Anything that will get me drunk is good. That''s my definition of good."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 699
+    speaker: GM
+    before: '> "Oh, hold on. So, hold on, hold on. So you''re gonna… so do you wanna
+      just roll the dice for the performance, so then I know what happens?"'
+    after: '> "Hold on. Do you wanna just roll the dice for the performance, so I
+      know what happens?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 717
+    speaker: Vukradin
+    before: '> "Oh, oh, you want to do another one?"'
+    after: '> "Oh, you want to do another one?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 726
+    speaker: Vukradin
+    before: '> "Alright, let''s do another one, let''s see how it goes."'
+    after: '> "Alright, let''s do another one. Let''s see how it goes."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 741
+    speaker: Valphine Sotorra
+    before: '> "Wait, wait, we need bardic inspiration."'
+    after: '> "Wait, we need bardic inspiration."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 750
+    speaker: Vukradin
+    before: '> "Sure, add every… both of you add D8s."'
+    after: '> "Sure, both of you add D8s."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 777
+    speaker: GM
+    before: '> "There''s a… there''s a witty lyric you make about Margaster."'
+    after: '> "There''s a witty lyric you make about Margaster."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 804
+    speaker: GM
+    before: '> "No, Valphine, that would… that would not be the lyric, but yes, that''s
+      the intent."'
+    after: '> "No, Valphine, that would not be the lyric, but yes, that''s the intent."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 156
+    speaker: GM
+    before: '> "Great. So, so you arrive at, you arrive at the, at the, at the restaurant,
+      and there''s Petra, right? There''s the, you know, the guy who''s handling reservations.
+      There''s a lot of people looking around. Brewbarry''s making an impression.
+      Valphine''s also making an impression. Are you still wearing your, Dragonscale
+      armor?"'
+    after: '> "Great. You arrive at the restaurant, and there''s Petra, right? There''s
+      the guy who''s handling reservations. There''s a lot of people looking around.
+      Brewbarry''s making an impression. Valphine''s also making an impression. Are
+      you still wearing your Dragonscale armor?"'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  - source_line: 405
+    speaker: GM
+    before: '> "So she''s like, well, you know, Vukradin, I think it''s awesome that
+      you''ve come here. And so, you know, and I''ve even kept your little table as
+      sort of a special place where people will come and admire and can see where
+      you sat and thought about your music."'
+    after: '> "She''s like, well, Vukradin, I think it''s awesome that you''ve come
+      here. I''ve even kept your little table as a special place where people will
+      come and admire and can see where you sat and thought about your music."'
+    authorization: draft cleanup within approved calibration; complete draft still
+      requires review
+  summary_unchanged: true
+  speaker_labels_and_order_unchanged: true
+  numeric_tokens_unchanged: true
+  reclassified_blocks: 0
+  new_boundary_moves: 0
+  new_scene_cuts: 0
+  output_evidence:
+    path: .session-workflow/work/c89b51e726e64d9ea04a6904d6ebbe78/outputs/08_return_to_the_common_chord.md
+    sha256: 83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850
+    snapshot: .session-workflow/objects/83a01e6bbd6960e8efef6c4c59a69cdbe8f6eb35f865e03c85de3afd2c80c850
+    label: derived
+findings:
+  '02':
+    '65': “fritting around” is unclear. No replacement verb has been inferred.
+    '68': “because he was Lady Alagondar” leaves Boney’s relationship to Lady Alagondar
+      unclear. Do not turn this into a new identity or history claim.
+    '134': “Was he Bear?” may be a transcription error or unfinished question. It
+      remains unchanged.
+  '03':
+    '41': “the appropriate Lim” is unclear; no title or identity correction has been
+      guessed.
+    '62': “proprietare” remains in the source. The turtle-soup exchange also contains
+      an intentional joke; do not globally replace turtle with tortle.
+    '155': “how tardis” is garbled location/table talk. No district name has been
+      supplied.
+    '290': “cleared option” is unclear in the three-table discussion. The subsequent
+      correction to two window tables remains in its original position.
+  '04':
+    '123': “she doesn’t know what chances” is unclear. No knowledge claim has been
+      supplied.
+    '156': “lost in fuss” and the following “Eric, on the napkin” are unclear. This
+      is a Brewbarry-labeled description of writing, not established spoken character
+      dialogue.
+    '288': The kitchen description ends “starts to… to dry…”. No cooking action has
+      been guessed.
+    '381': “and I have you believed it? No.” is unclear. The draft does not reconstruct
+      a reply.
+    '399': Bellows says “all but two tables are empty” despite the question about
+      more patrons. Retained exactly; changing empty to occupied would change the
+      described scene.
+  '05':
+    '167': “Or I make you enough so you can’t refuse” may be garbled wordplay. No
+      offer or threat wording has been invented.
+    '230': “we’ll just take it out” may refer to staking out the deliveries, but the
+      action is not silently changed.
+    '269': “This is completely oblivious, he has no idea” does not identify its subject.
+      Valphine’s inference remains present, but no other character’s knowledge state
+      has been assigned.
+    '332': “Event in the real world” remains unclear and unchanged.
+  '06':
+    '167': “listing device” is unclear. Do not silently establish a new magic item
+      or replace it with a listening device.
+    '233': “cater” and “vision through” remain close to source. The later explicit
+      choice of a rat familiar is preserved; no Wild Shape action is substituted.
+    '263': “won’t hear everything” is unclear in the familiar plan. No ability or
+      intended observation outcome has been inferred.
+  '07':
+    '260': “true rumor” is unclear. Both following rumors are retained as rumors,
+      not newly established campaign facts.
+  08:
+    '54': “too many paid questions and paid an actual coin” is unclear in the venue’s
+      history. No payment or questioning policy has been supplied.
+    '195': The block begins with Petra but refers to “the guy”; Petra then shows up
+      amid the commotion later. The reservation handler’s speech has not been silently
+      reassigned to Petra.
+    '267': Valphine is labeled as speaking “So her response is, your usual fee.” This
+      may be table suggestion or an NPC imitation; it is not automatically reassigned
+      as Petra’s established speech.
+    '315': “I didn’t put up the side” is unclear in the poster discussion. It has
+      not been silently changed to sign.
+    '390': “she’s shaking your head” may mean hand, but a handshake could establish
+      an agreement. The action remains unchanged pending your ruling.
+    '555': “I just annoy you?” and the following “Friend is not nice” are unclear.
+      No intended reply has been reconstructed.
+    '603': “our alley” is retained. The surrounding discussion concerns an ally, but
+      that word substitution needs a ruling rather than a hidden transcription correction.
+    '669': “I just got them” is unclear after Brewbarry takes both beers. No drinking
+      action has been invented.
+    '744': “do an input?” and Valphine’s later “And my pleasure” remain uncertain
+      table wording. Bardic Inspiration, Bless, and the reported rolls remain unchanged.

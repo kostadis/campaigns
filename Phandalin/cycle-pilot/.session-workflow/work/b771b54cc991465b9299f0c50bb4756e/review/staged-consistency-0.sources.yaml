@@ -1,0 +1,54 @@
+stage: 0
+run_id: b771b54cc991465b9299f0c50bb4756e
+document_class: historically corrected first-pass recap
+command:
+- /home/kroussos/src/CampaignGenerator-worktrees/cycle-integration/.venv/bin/check_consistency
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/sources/gmassist-20260825.md
+- --config
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/b771b54cc991465b9299f0c50bb4756e/review/audit-config.yaml
+- --backend
+- codex-cli
+- --model
+- gpt-5.6-sol
+- --codex-reasoning-effort
+- medium
+- --context
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party.md
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/entity_registry.yaml
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_transcription_corrections.md
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_known_additions.md
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/session_prep/20260825_bluelake_and_the_price_that_did_not_change.md
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/sources/events-review-scope.md
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/2e66921867eb46fd980e1be73bf0ab57/outputs/transcript.derived-draft.vtt
+- --output
+- /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/b771b54cc991465b9299f0c50bb4756e/review/staged-consistency-0.md
+backend: codex-cli
+model: gpt-5.6-sol
+effort: medium
+scope: User-selected August 25 prep plus standard references; later knowledge is not
+  evidence of August 25 party knowledge.
+sources:
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/sources/gmassist-20260825.md
+  sha256: f8580ccda7c6f3ed82499c7c9f7000f5d784405e8a67668609e32d5763b53915
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/party.md
+  sha256: 0f4827a064039d545b1e6b3c78014ec59b6ba0ad34f22b5b2aa8916fae7eeb4a
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/entity_registry.yaml
+  sha256: 2d1f9cda0dcfa6ff561e223a5ed7ec88efd61b3d0a93f906abbe3259660326e4
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_transcription_corrections.md
+  sha256: e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_known_additions.md
+  sha256: 6832cf03f2c4fdb22c3d961c68da1f25e44bbfb7e4475e2f51cab3a60a49565a
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/session_prep/20260825_bluelake_and_the_price_that_did_not_change.md
+  sha256: d0b4ac4d00677bf22caefb7f483b119b187e9e332a3c2078dd3cda9bdc7c6bf2
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/sources/events-review-scope.md
+  sha256: 3d9209c033c2a6912a5e749fda9385e2f6c5330cc09c214b3048fea59822c5e5
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/2e66921867eb46fd980e1be73bf0ab57/outputs/transcript.derived-draft.vtt
+  sha256: 65dd558e4338d843d3d4665e03a43fa165a1dc3e70ae842ce9b2863b3f6cfde3
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/campaign_state.md
+  sha256: fe6d2bbd794d54bdbc2929cae94712b585f144af83b8ac161290e9e65126f6f8
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/docs/world_state.md
+  sha256: ce16fd0d41526cc717d307f7fed3e6beaac27a771368ae4b17d8dff069407f05
+- path: /home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/cycle-pilot/.session-workflow/work/b771b54cc991465b9299f0c50bb4756e/review/audit-config.yaml
+  sha256: 87fc4e65b2a77b74e315b5f7f9b1cf8703374868fec514230c84e1ff2f556860
+status: complete
+exit_code: 0

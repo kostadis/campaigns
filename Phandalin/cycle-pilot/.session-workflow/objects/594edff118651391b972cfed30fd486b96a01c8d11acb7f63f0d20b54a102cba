@@ -1,0 +1,59 @@
+{
+  "run_id": "b771b54cc991465b9299f0c50bb4756e",
+  "at": "2026-09-05T21:50:22.908604+00:00",
+  "draft_approved": false,
+  "checks": {
+    "source_audit": 16,
+    "enhanced_audit": 17,
+    "quote_check": {
+      "verified": 18,
+      "near": 2,
+      "unverified": 5,
+      "scope": "Blockquotes only; derived transcript, not raw-verbatim or speaker validation."
+    }
+  },
+  "proposed_replacements": 27,
+  "review_scope": "The user selected the exact August 25 prep and standard party/registry/spelling/campaign/world context. Other NPC dossiers, location notes and handouts were not selected. The context contains later revisions; do not retrofit them into party knowledge.",
+  "advisory_dispositions": [
+    "Source audit findings were compared to the new output; remaining issues are represented once in staged-consistency-1 findings, with separate exact records for repeated passages.",
+    "The short Lim music quotation is present at cue 498; the nearest-line quote matcher returned a false negative. No deletion proposed.",
+    "Contract-ends/abandoned dialogue spans cues 224–225 with intervening GM narration; other flagged quotes shorten or join real cues. The proposed label makes this a derived candidate layer; no raw-verbatim approval is inferred.",
+    "Retain the GM-assist closed-shop event. Absence from the transcript alone does not disprove the selected event record. The location conflict remains a review item.",
+    "Retain the table’s actual magical performance bonuses and resulting success. A generic rules critique cannot change what happened.",
+    "Do not reveal Lim’s later Harper status; distinguish her professed ignorance from omniscient fact.",
+    "Generic lower-case commission and the Blue Lake/Bluelake spelling variant are not new factual contradictions; no automatic normalization proposed.",
+    "The enhanced draft already narrows Bimble to a provisioning lead in its conclusion, removes the unsupported night-wore-on passage, and describes merchandise attempts rather than completed sales. Remaining sewer-location wording is a finding.",
+    "Song lyrics are already framed as the band’s anti-Margaster message; preserve the performed accusation without treating it as an adjudicated cause of the entire economic crisis.",
+    "The banker’s agent role is explicitly recalled in the transcript and imported GM-assist. No new long-term allegiance is inferred.",
+    "The 27 displayed changes are proposals only. A scratch simulation verified that they compose without overlapping or ambiguous replacements; no draft bytes were changed."
+  ],
+  "finding_ids": [
+    "events-line-013",
+    "events-line-015",
+    "events-line-035",
+    "events-line-039",
+    "events-line-051",
+    "events-line-055",
+    "events-line-087",
+    "events-line-100",
+    "events-line-102",
+    "events-line-161",
+    "events-line-172",
+    "events-line-176",
+    "events-line-178",
+    "events-line-189",
+    "events-line-224",
+    "events-line-225",
+    "events-line-265",
+    "events-line-287",
+    "events-line-289",
+    "events-line-317",
+    "events-line-349",
+    "events-line-355",
+    "events-line-469",
+    "events-teaser-before-autograph-prose",
+    "events-teaser-before-autograph-scene",
+    "events-derived-dialogue-label",
+    "events-generation-provenance"
+  ]
+}

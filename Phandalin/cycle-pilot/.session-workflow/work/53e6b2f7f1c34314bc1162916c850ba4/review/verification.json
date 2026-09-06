@@ -1,0 +1,791 @@
+{
+  "method": "Exact authorized-delta verification plus deterministic quote verification across all eight declared outputs, including unchanged files preserved in predecessor runs.",
+  "parent": "a40c6fcfb5c547f4bc9e01719ff6ef7b",
+  "parent_revision": 98,
+  "counts": {
+    "verified": 981,
+    "near": 11,
+    "unscored": 3,
+    "unverified": 1
+  },
+  "nonexact_authorized_corrections": [
+    {
+      "output": {
+        "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+        "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+        "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+        "label": "derived"
+      },
+      "line": 68,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-01-line-069-correction",
+        "scene": "01",
+        "evidence": {
+          "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/01_a_banker_s_revelation.md",
+          "sha256": "935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+          "snapshot": ".session-workflow/objects/935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+          "label": "derived"
+        },
+        "location": "Line 68; corrected VTT cue 183",
+        "description": "User explicitly confirmed in chat: Uthgardtian norms; Valphine was joking, \"Common isn't my native language\". This correction is scoped to the displayed derived quotation.",
+        "proposed_action": "Apply this exact user-confirmed wording to the derived draft.",
+        "consequences": {
+          "approve": "Apply the displayed replacement, preserving source bytes.",
+          "reject": "Keep the existing passage unchanged.",
+          "discuss": "Keep the item unresolved."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/01_a_banker_s_revelation.md",
+            "sha256": "935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+            "snapshot": ".session-workflow/objects/935595fb964e093128b0dda18326c2a097add58f52119c27a130bda3af3dfaf6",
+            "label": "derived"
+          },
+          "target": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/01_a_banker_s_revelation.md",
+          "before": "> \"Yes, Mr. Brewbarry, I… is it Mr. Brewbarry? Is that the correct appellation? I'm sorry, I'm not familiar with Guardian norms.\"",
+          "after": "> \"Yes, Mr. Brewbarry, I… is it Mr. Brewbarry? Is that the correct appellation? I'm sorry, I'm not familiar with Uthgardtian norms.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-01-line-069-correction",
+        "finding_sha256": "079da5bdd16b8ff7e870e566da6ff3c4b549778143e67380ad739803f45e0b0c",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Explicit user confirmation in chat: Uthgardtian norms, and yes she was joking \"Common isn't my native language\".",
+        "at": "2026-09-05T23:47:41.114074+00:00",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+        "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+        "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+        "label": "derived"
+      },
+      "line": 176,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-01-line-177",
+        "scene": "01",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "label": "generated"
+        },
+        "location": "Line 177; corrected VTT cue 221",
+        "description": "The named gnome is Bimble. The displayed spelled-out name conflicts with that name; this may be a spoken or transcription slip, so correcting the derived rendering needs a fresh ruling. Bimbo wordplay is unchanged. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+            "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+            "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "before": "> \"Well… he pulls out a piece of paper, shows you the correct spelling, B-I-N-B-L-E.\"",
+          "after": "> \"Well… he pulls out a piece of paper, shows you the correct spelling, B-I-M-B-L-E.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-01-line-177",
+        "finding_sha256": "445977746d4311cdc8355195beb256963d143ac16ca68dc4f595b298b690900e",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:23.807Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/01_a_banker_s_revelation.md",
+        "sha256": "ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+        "snapshot": ".session-workflow/objects/ba7d36a2f86b917b84064f5f921b3a23a4bf487f5a0d4d13beb5edfb9fd83332",
+        "label": "derived"
+      },
+      "line": 185,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-01-line-186",
+        "scene": "01",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+          "label": "generated"
+        },
+        "location": "Line 186; corrected VTT cue 224",
+        "description": "The approved Events summary and selected prep give seven tendays. This is a proposed quote correction, not an extension of the earlier summary-only approval; no audio check settles the original spoken wording. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+            "sha256": "2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+            "snapshot": ".session-workflow/objects/2e1f7bcfaa5ce1618665a30369170788bae635e58fe047a3448eb1b287565e91",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/01_a_banker_s_revelation.md",
+          "before": "> \"Yes, the payments stop 7-10 days ago, on the day, not the 10-day, no severance, no final reconciliation, no forwarding instruction. That is not how a contract ends.\"",
+          "after": "> \"Yes, the payments stop seven tendays ago, on the day, not the tenday, no severance, no final reconciliation, no forwarding instruction. That is not how a contract ends.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-01-line-186",
+        "finding_sha256": "92603428d239e10557ff4bc7d75a88bb15b26957789e7757bd01d50fc0ff3afb",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:27.806Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/03_arrival_at_the_board_laid_bare.md",
+        "sha256": "cf53977761907f6972cf86c13dcfc8b01cedbb88857b298c607155dcc3cf7dc6",
+        "snapshot": ".session-workflow/objects/cf53977761907f6972cf86c13dcfc8b01cedbb88857b298c607155dcc3cf7dc6",
+        "label": "derived"
+      },
+      "line": 248,
+      "verdict": "unscored",
+      "authorized_change": {
+        "id": "extract-03-line-246",
+        "scene": "03",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+          "sha256": "3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "snapshot": ".session-workflow/objects/3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+          "label": "generated"
+        },
+        "location": "Line 246; corrected VTT cue 414",
+        "description": "The question is what kind of creature Bellows is, followed by “no, no, he’s a warforged.” Aasimar is the proposed mistaken guess, not a claim that Bellows is an aasimar. The glossary explicitly excludes a global Asphalt substitution. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": {
+          "authority": {
+            "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_transcription_corrections.md",
+            "sha256": "e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "snapshot": ".session-workflow/objects/e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "label": "source"
+          },
+          "reference": "Ch. 50 additions: ordinary English words must not become global replacements",
+          "scope": "This displayed occurrence only; never a global transcript or glossary substitution."
+        },
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+            "sha256": "3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+            "snapshot": ".session-workflow/objects/3a4d10c3880f596f1fa73cc3b792ce792d93304c37ad4376e186f0145d5f1142",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/03_arrival_at_the_board_laid_bare.md",
+          "before": "> \"Asphalt.\"",
+          "after": "> \"Aasimar.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-03-line-246",
+        "finding_sha256": "a696714c324224c78016a5d8d653fff504d0e4d42ad0f1fda930b44bc46e0064",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:35.080Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+        "sha256": "567064329fedb44ad1464321f7dc80356c02d82beea5b7f940fc8adddb99af7d",
+        "snapshot": ".session-workflow/objects/567064329fedb44ad1464321f7dc80356c02d82beea5b7f940fc8adddb99af7d",
+        "label": "derived"
+      },
+      "line": 60,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-04-line-058",
+        "scene": "04",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "sha256": "706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+          "snapshot": ".session-workflow/objects/706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+          "label": "generated"
+        },
+        "location": "Line 58; corrected VTT cue 493",
+        "description": "The party is discussing the town they have not yet visited; the glossary’s canonical location spelling is Leilon. This affects only this occurrence. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": {
+          "authority": {
+            "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_transcription_corrections.md",
+            "sha256": "e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "snapshot": ".session-workflow/objects/e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "label": "source"
+          },
+          "reference": "Locations: Leilon",
+          "scope": "This displayed occurrence only; never a global transcript or glossary substitution."
+        },
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+            "sha256": "706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+            "snapshot": ".session-workflow/objects/706c200e28ebd5cceeef5ba9d9a8bdbb46823de39a365a9287906f9682603d2c",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/04_dining_with_lim_and_interrogating_bellows.md",
+          "before": "> \"Leilan, yeah, we haven't gone there yet. We've been, you've probably seen a bunch of the, the…\"",
+          "after": "> \"Leilon, yeah, we haven't gone there yet. We've been, you've probably seen a bunch of the, the…\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-04-line-058",
+        "finding_sha256": "9168edd276fefac38ce861ca939b0dbd875565022bb067d02d9991ed2ce6a2ac",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:38.910Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 77,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-05-line-075",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "location": "Line 75; corrected VTT cue 760",
+        "description": "The approved scene summary identifies the weapon as the sword of dragon slaying. The transcript splits the item name into an unrelated phrase. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+            "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "before": "> \"The sword of dragons laying in one arm is, his halberd in the other, and the bathrobe. I presume you're still wearing the…\"",
+          "after": "> \"The sword of dragon slaying in one arm is, his halberd in the other, and the bathrobe. I presume you're still wearing the…\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-05-line-075",
+        "finding_sha256": "705bb8b131aa8fe3d07587d976ee359717c77591af8dbb4579871ba89b8e27bc",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:43.087Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 125,
+      "verdict": "unscored",
+      "authorized_change": {
+        "id": "extract-05-line-123",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "location": "Line 123; corrected VTT cue 779",
+        "description": "The surrounding question concerns the extra delivered crate, not a school grade. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+            "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "before": "> \"the 9th grade.\"",
+          "after": "> \"the 9th crate.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-05-line-123",
+        "finding_sha256": "4f89a8bb344e5066813fa812b43374dd58643cad36a00f5885556d99e91d520b",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:46.502Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 149,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-05-line-147",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "location": "Line 147; corrected VTT cue 787",
+        "description": "This is the repeated extra-crate reference: it stays in the street and disappears by morning. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+            "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "before": "> \"You know, multiple times that there is a 9th grade that stays in the street and then disappears in the morning.\"",
+          "after": "> \"You know, multiple times that there is a 9th crate that stays in the street and then disappears in the morning.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-05-line-147",
+        "finding_sha256": "c56741c168e1c0d19be9deb2b58323b2d92407a52efc42b0a0355c230671ec3b",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:50.660Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/05_lim_s_secret_supplier.md",
+        "sha256": "15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "snapshot": ".session-workflow/objects/15259d5b7adf812cb3f713793c0967cfc9ebe8fe3fcd6f72369308db29a340a3",
+        "label": "derived"
+      },
+      "line": 305,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-05-line-303",
+        "scene": "05",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+          "label": "generated"
+        },
+        "location": "Line 303; corrected VTT cue 881",
+        "description": "Soma is addressing her old friend Lim. This is a scoped proposed mishearing correction; the glossary forbids making lab→Lim a global rule. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": {
+          "authority": {
+            "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_transcription_corrections.md",
+            "sha256": "e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "snapshot": ".session-workflow/objects/e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "label": "source"
+          },
+          "reference": "Ch. 50 additions: lab/lamb→Lim excluded from global rules",
+          "scope": "This displayed occurrence only; never a global transcript or glossary substitution."
+        },
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+            "sha256": "607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "snapshot": ".session-workflow/objects/607d534cec42a18ee9b43f2e14f68ab4464e6a9c58064944e6f31a68dee682af",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/05_lim_s_secret_supplier.md",
+          "before": "> \"This is not the lab I once knew. Roll for initiative.\"",
+          "after": "> \"This is not the Lim I once knew. Roll for initiative.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-05-line-303",
+        "finding_sha256": "26ac412d889c1e396d6042fa47a3f43501b730c62ce3d14a2cbca4ccac99aeb8",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:54.286Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/06_planning_the_stakeout.md",
+        "sha256": "c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "snapshot": ".session-workflow/objects/c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "label": "derived"
+      },
+      "line": 44,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-06-line-042-correction",
+        "scene": "06",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+          "sha256": "002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "snapshot": ".session-workflow/objects/002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "label": "generated"
+        },
+        "location": "Line 42; corrected VTT cue 928",
+        "description": "Exact replacement implementing the user’s revision-90 discussion instruction: Should have said 7 ten-days. can youf ix that? Canonical spelling Zeleen and the rest of the sentence are retained. This is a corrected derived rendering, not a claim about raw recording bytes.",
+        "proposed_action": "Apply the displayed user-requested correction only to a new derived extraction draft.",
+        "consequences": {
+          "approve": "Apply exactly this replacement; preserve the captured extraction and transcript.",
+          "reject": "Retain the existing passage unchanged.",
+          "discuss": "Keep the correction unresolved pending further conversation."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+            "sha256": "002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+            "snapshot": ".session-workflow/objects/002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+          "before": "> \"Yes, and so, like, what you kind of pieced together is that 7 weeks ago, the displacement manifold went dark.\"",
+          "after": "> \"Yes, and so, like, what you kind of pieced together is that 7 ten-days ago, the displacement manifold went dark.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-06-line-042-correction",
+        "finding_sha256": "6561572f434a064207d681256b0b629ba67e47b1e99e9565ae0f365a3ba95832",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "User explicitly requested this correction in revision-90 discussion: Should have said 7 ten-days. can youf ix that?",
+        "at": "2026-09-05T23:39:37.441147+00:00",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/06_planning_the_stakeout.md",
+        "sha256": "c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "snapshot": ".session-workflow/objects/c344e97819310dc68304ffdbb047f21968d0673bbdb6c91558a82788ba59addb",
+        "label": "derived"
+      },
+      "line": 221,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-06-line-219-correction",
+        "scene": "06",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+          "sha256": "002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "snapshot": ".session-workflow/objects/002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+          "label": "generated"
+        },
+        "location": "Line 219; corrected VTT cue 996",
+        "description": "Exact replacement implementing the user’s revision-90 discussion instruction: The party knows he's a wererate. \n\nZelen,, you're aware he is a wererat Canonical spelling Zeleen and the rest of the sentence are retained. This is a corrected derived rendering, not a claim about raw recording bytes.",
+        "proposed_action": "Apply the displayed user-requested correction only to a new derived extraction draft.",
+        "consequences": {
+          "approve": "Apply exactly this replacement; preserve the captured extraction and transcript.",
+          "reject": "Retain the existing passage unchanged.",
+          "discuss": "Keep the correction unresolved pending further conversation."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+            "sha256": "002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+            "snapshot": ".session-workflow/objects/002cd7a312cbb05c31285ee30e4230490f50c3eb5058aec581ca461fb92a3e67",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/06_planning_the_stakeout.md",
+          "before": "> \"Zeleen, you're aware we're at, so that's just an angle you might want to keep in mind.\"",
+          "after": "> \"Zeleen, you're aware he is a wererat, so that's just an angle you might want to keep in mind.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-06-line-219-correction",
+        "finding_sha256": "2e6976bad088e9d3134b27050642530e81afdf1c0e0de51bf16abc9bcd4ba04d",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "User explicitly requested this correction in revision-90 discussion: The party knows he's a wererate. \n\nZelen,, you're aware he is a wererat",
+        "at": "2026-09-05T23:39:37.441185+00:00",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/08_return_to_the_common_chord.md",
+        "sha256": "8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "snapshot": ".session-workflow/objects/8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "label": "derived"
+      },
+      "line": 288,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-08-line-286",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "label": "generated"
+        },
+        "location": "Line 286; corrected VTT cue 1288",
+        "description": "Petra is discussing the band’s prior payment, immediately before Vukradin requests a larger fee. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+            "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+            "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "before": "> \"Well, I mean, your old feet, does that sound fair?\"",
+          "after": "> \"Well, I mean, your old fee, does that sound fair?\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-08-line-286",
+        "finding_sha256": "46ed9834484cbb2e996cb01489a051de11d4520232114acc866b41a48f3adce8",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:34:57.811Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/08_return_to_the_common_chord.md",
+        "sha256": "8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "snapshot": ".session-workflow/objects/8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "label": "derived"
+      },
+      "line": 783,
+      "verdict": "near",
+      "authorized_change": {
+        "id": "extract-08-line-781",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "label": "generated"
+        },
+        "location": "Line 781; corrected VTT cue 1482",
+        "description": "The crowd has picked up the song, and the approved event summary describes patrons humming its refrain. This is a proposed derived correction, not verified audio. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+            "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+            "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "before": "> \"Thumbing away, like, it's… they've picked it up.\"",
+          "after": "> \"Humming away, like, it's… they've picked it up.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-08-line-781",
+        "finding_sha256": "f67725b50ca2cddd41aac35f1b7c1d2e59215203ecd04d2861ac7143324acb83",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:35:02.885Z",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/08_return_to_the_common_chord.md",
+        "sha256": "8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "snapshot": ".session-workflow/objects/8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "label": "derived"
+      },
+      "line": 813,
+      "verdict": "unverified",
+      "authorized_change": {
+        "id": "extract-08-line-811-correction",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/08_return_to_the_common_chord.md",
+          "sha256": "f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+          "snapshot": ".session-workflow/objects/f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+          "label": "derived"
+        },
+        "location": "Line 813; corrected VTT cue 1494",
+        "description": "User explicitly confirmed in chat: Uthgardtian norms; Valphine was joking, \"Common isn't my native language\". This correction is scoped to the displayed derived quotation.",
+        "proposed_action": "Apply this exact user-confirmed wording to the derived draft.",
+        "consequences": {
+          "approve": "Apply the displayed replacement, preserving source bytes.",
+          "reject": "Keep the existing passage unchanged.",
+          "discuss": "Keep the item unresolved."
+        },
+        "rule": null,
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/08_return_to_the_common_chord.md",
+            "sha256": "f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+            "snapshot": ".session-workflow/objects/f12890e7317e495e2732cbf4651daee8993b28e5bc1efd0ddf7944d8a305883e",
+            "label": "derived"
+          },
+          "target": ".session-workflow/work/a40c6fcfb5c547f4bc9e01719ff6ef7b/outputs/08_return_to_the_common_chord.md",
+          "before": "> \"I'm gonna stop my native language.\"",
+          "after": "> \"Common isn't my native language.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-08-line-811-correction",
+        "finding_sha256": "d5f9f705a6de9eea988199d34c4f5d3512974d28eb3e906583dc328654f22958",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Explicit user confirmation in chat: Uthgardtian norms, and yes she was joking \"Common isn't my native language\".",
+        "at": "2026-09-05T23:47:41.114099+00:00",
+        "group": null
+      }
+    },
+    {
+      "output": {
+        "path": ".session-workflow/work/53e6b2f7f1c34314bc1162916c850ba4/outputs/08_return_to_the_common_chord.md",
+        "sha256": "8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "snapshot": ".session-workflow/objects/8bba6fb9605e56dc7dc4037accb37a3852080406e1b0c6c565fe7a4e0a746553",
+        "label": "derived"
+      },
+      "line": 825,
+      "verdict": "unscored",
+      "authorized_change": {
+        "id": "extract-08-line-823",
+        "scene": "08",
+        "evidence": {
+          "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+          "label": "generated"
+        },
+        "location": "Line 823; corrected VTT cue 1498",
+        "description": "The exchange is about musical percussion, followed by halberd/cowbell jokes. Preserve the joke and correct only this homophone; the glossary forbids a global Symbols substitution. The captured transcript remains unchanged.",
+        "proposed_action": "Use the displayed correction only in a derived reading of this quote; do not present it as untouched transcript text.",
+        "consequences": {
+          "approve": "Apply only this displayed replacement to a new derived draft; preserve captured extraction and transcript bytes. Recheck the revised draft before separate sign-off.",
+          "reject": "Keep this passage unchanged; do not apply this proposed replacement.",
+          "discuss": "Leave this item unresolved and discuss the wording or scope before any change."
+        },
+        "rule": {
+          "authority": {
+            "path": "/home/kroussos/src/campaign-cycle-worktrees/Phandalin/Phandalin/notes/vtt_transcription_corrections.md",
+            "sha256": "e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "snapshot": ".session-workflow/objects/e0d86dfd6be0fca6c55226871aef304f74090447df22b7bbb430f96a42c5276b",
+            "label": "source"
+          },
+          "reference": "Ch. 50 additions: Symbols→Cymbals excluded from global rules",
+          "scope": "This displayed occurrence only; never a global transcript or glossary substitution."
+        },
+        "change": {
+          "source": {
+            "path": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+            "sha256": "c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+            "snapshot": ".session-workflow/objects/c404e414354038b47c35803fd8151c34da84b8ca33c7a12f468606282d042069",
+            "label": "generated"
+          },
+          "target": ".session-workflow/work/14f20cfd8bb04940be1816866f75c7fe/outputs/08_return_to_the_common_chord.md",
+          "before": "> \"What? Symbols.\"",
+          "after": "> \"What? Cymbals.\""
+        }
+      },
+      "human_decision": {
+        "finding_id": "extract-08-line-823",
+        "finding_sha256": "561b72c7f6b509f810ec46a7441b7c74820b007e57626a36e937591a99a61217",
+        "decision": "approve",
+        "actor": "local user",
+        "rationale": "Approved the proposed change as shown.",
+        "at": "2026-09-05T23:35:06.528Z",
+        "group": null
+      }
+    }
+  ],
+  "unchanged_scenes": 6,
+  "changed_scenes": 2,
+  "source_hashes": "fresh",
+  "expected_bytes": "all eight outputs exactly match prior draft plus the two confirmed replacements",
+  "remaining_findings": [],
+  "generation_call": false,
+  "draft_signoff": false
+}
