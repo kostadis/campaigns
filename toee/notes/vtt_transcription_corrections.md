@@ -19,8 +19,8 @@ without inflating this glossary with non-misspellings.
 |---|---|
 | Colmer, Commer, Carmen, Comer, Palmer, Colmar, Conor, Connor, Gomer, Carmel, Colman, Kalma, Karlma, Commerce, call merges, Kalmer, Kalmu, Colbert, Culver, Zeb Calder, columnar, Karma, Culber, Homer, Calder, Kalmar, Camill, Kommer, Scott Comer, Bulmer, Columber, Convo, Karlmer, Colomar, Kolmer, Kulber, Kalbar | **Calmer** |
 | Zep, Ephra, Jeffrey, Zephy, Zeph | **Zephyr** |
-| Zinnius, Xenia, Sinia, Vinaya, Susania, Zinia, Xena, Sina | **Zinnia** |
-| Sequioa, Koya, Sequo, Sequoiah | **Sequoia** |
+| Zinnius, Xenia, Xemia, Sinia, Vinaya, Susania, Zinia, Xena, Sina | **Zinnia** |
+| Sequioa, Koya, Sequo, Sequoiah, Rosco | **Sequoia** |
 
 ## Players (real-world names — never replace, just flagged as known)
 

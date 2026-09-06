@@ -1,0 +1,19 @@
+# Absolute-path config for check_consistency.py in the toee workspace.
+#
+# WHY IT LIVES AT THE CAMPAIGN ROOT, not in a scratchpad:
+#   load_config sets base_dir = config_path.parent, and check_consistency looks
+#   for <base_dir>/docs/entity_registry.yaml to build its AUTHORITATIVE CANON
+#   section. A config parked outside the campaign makes that lookup fail and the
+#   canon section is silently skipped (check_consistency.py:133).
+#
+# WHY IT EXISTS AT ALL:
+#   toee has no root config.yaml. Its config is config/config.yaml, whose
+#   documents[].path entries are relative, so base_dir resolves them under
+#   config/ where they do not exist. Auto-detection is worse: with no root
+#   config it falls through to CampaignGenerator's OWN config and would check
+#   this campaign against the wrong one.
+documents:
+- label: campaign_state
+  path: /home/kostadis/toee/toee/docs/campaign_state.md
+- label: world_state
+  path: /home/kostadis/toee/toee/docs/world_state.md

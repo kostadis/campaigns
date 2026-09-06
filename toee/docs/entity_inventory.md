@@ -258,7 +258,7 @@
 - **ensign of Iuz** — grinning red horned skull symbol worn by guards (trolls, giants, ettins) and chieftains
 - **Fly** — magic-user spell found on a scroll in the pool tube (area 30)
 - **Fragarach** — enchanted broadsword of Chaotic Good alignment forged for a demigod, +4 (doubling to +8 vs evil on a natural 20)
-- **Frost Brand (unnamed intelligent longsword)** — +3/+6 vs. fire creatures, Lawful Good, Int 16/Ego 17, found in the Temple of Fire's trapped iron box
+- **Frostbrand** / **Frost Brand** — GM ruling 2026-09-05, TWO NAMES, TWO THINGS. "Frost Brand" is the 5e ITEM TYPE; "Frostbrand" is the name of the sword's PERSONALITY, which it gave itself in the Ch31 bible ("What's your name?" Frostbrand.). Filed under the personality name per the Snoop precedent, with the item type kept as an alias so a transcript saying "Frost Brand" still resolves here. Renamed from "Frost Brand (unnamed intelligent longsword)" on GM ruling 2026-09-05; the old parenthetical predated the sword introducing itself. notes/vtt_transcription_corrections.md already carried Frostbrand as the canonical spell-pass form. STATS - +3/+6 vs. fire creatures, Lawful Good, Int 16/Ego 17, found in the Temple of Fire's trapped iron box (area 212). BEARER - bonded to SEQUOIA, who claimed it in Ch31; it chose him after rejecting Zinnia and Calmer, and he carries it alongside his magical short sword from the werewolf lair, not instead of it.
 - **Gargoyle Cloak** — magical cloak granting gargoyle form/flight, worn by zombie guardians in the Hall of Verdigris
 - **girdle of giant strength** — named magic item type referenced (DMG p.145) re: strength needed to break the sealed doors
 - **glyph of warding** — trap inscribed as runes on the bronze door of area 141, dealing cold damage
@@ -530,7 +530,7 @@
 - **West Water Gate (432)** — identical gate room sending intruders to a random point on the Elemental Plane of Water
 - **West Wing (409)** — troll sentry barracks guarding the high commander's area
 - **Audience Chamber** — area 206, lavish Fire Temple reception hall guarded by a gladiator commander
-- **Cistern Chamber** — area 236, slippery algae-covered water reservoir hiding a shield +2
+- **Cistern Chamber** — area 236, slippery algae-covered water reservoir. Module canon says the hidden item is a shield +2; AT THIS TABLE it was delivered as a SHIELD +1 and claimed by Calmer (session 20260830 / ch.34, three separate tape mentions including 'Calmer's armor class is unreal, now with his shield plus 1'). Table ruling stands over module canon - use shield +1 for this campaign.
 - **Crooked Corridor** — area 242, black-clad guard barracks with a spiked-beam trap on a secret door
 - **Garbage Room** — area 108; trash-filled room infested with giant rats
 - **Great Bronze Gate** — area 201, massive bronze portal barring the northern passage, opened only by three knock spells
@@ -753,7 +753,7 @@
 - **Smigmal Redhand** / **Smigmal** / **Commander of the Outer Defenses** / **Lady Eryndel** / **Shadow of the Temple** — fighter-assassin wielding a poisoned shortsword, carries a ring of spell storing (invisibility)
 - **Dala** / **Dela** — barmaid at the Waterside Hostel, Level 3 Thief and Dick Rentsch's lover
 - **Pearl** — barmaid at the Waterside Hostel, Level 3 Thief
-- **Barkinar** / **Commander of Greater Temple Troops** / **Commander of the Greater Temple's Troops** / **The Grand Marshal** / **Commander Barkinar** — cleric/commander of the Temple Troops, rose through treacherous maneuvers, patient and scheming
+- **Barkinar** / **Commander of Greater Temple Troops** / **Commander of the Greater Temple's Troops** / **The Grand Marshal** / **Commander Barkinar** — cleric/commander of the Temple Troops, rose through treacherous maneuvers, patient and scheming. Previously LED THE EARTH TEMPLE - he eliminated Landers to take it, was then promoted to Commander of the Greater Temple's Troops, and Romag took his place. Succession chain Landers -> Barkinar -> Romag. GM ruling 2026-09-05 (staged-consistency stage 0, session 20260830).
 - **Deggum** / **Deggum, Commander of the Temple Guards** / **Deggum, Security Commander of the Temple** / **Deggum, Temple Recruiter** / **Master of Security** / **Security Commander** / **Commander Deggum** — half-elf renegade from Welkwood, commander of the Temple Guards, tutored by Hedrack and Senshock
 - **Jaroo Ashstaff** / **Jaroo** / **Druid of the Grove** — druid of the Grove, Level 7, agent of the Druids of Gnarley Wood, keeps a huge black bear companion
 - **Ostler Gundigoot** / **Gundigoot** / **Ostler Goodingoat** / **Osler Goodingoat** / **Osler Goodingut** / **Ostler Goodingoot Osler Goodingut** / **Ostler** — proprietor/innkeeper of the Welcome Wench Inn
@@ -811,9 +811,9 @@
 - **Ralf "The Hound"** / **The Hound** — brutal bandit tasked with resetting perimeter snares each morning
 - **Thogran Ashmaw** — half-orc cleric/fighter, liaison to Alrrem's bugbear guards
 - **Gattas Void** — second-in-command to Lareth at the Moathouse; coordinates raids on caravans, farms, and travelers
-- **Captain Tolub** / **Captain Tolubb** / **Tolubb** / **Tolub** — Water Temple agent at the Boatman's Tavern; commands the pirate ship Iron Dagger
+- **Captain Tolub** / **Tolub** — Water Temple agent at the Boatman's Tavern; commands the pirate ship Iron Dagger
 - **Zorgrek, Son of Murgz** / **Zorgrek** — cunning orc-warlord turned werewolf, leader/chieftain of the Howling Moon Clan
-- **Landers** — former leader of the Earth Temple, betrayed and eliminated by Barkinar
+- **Landers** — former leader of the Earth Temple, betrayed and eliminated by Barkinar, who then held the Earth Temple himself until his promotion to Commander of the Greater Temple's Troops. Succession chain Landers -> Barkinar -> Romag.
 - **Dieter "Redknife"** / **Redknife** — former pirate turned enforcer; handles intimidation and prisoner transfers
 - **Antonio** — lieutenant of Fire Priest Alrrem, expecting gnoll reinforcements
 - **Tubal** — lieutenant of Fire Priest Alrrem, expecting gnoll reinforcements

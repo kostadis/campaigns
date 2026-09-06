@@ -1,0 +1,312 @@
+# /voice-smooth — Chapter 34, "The Sleeper in the Iron Coffin" (session 2026-08-30)
+# Run 2026-09-05. Review mode: BATCH (GM chose "batch output" over serial 1x1 in chat).
+#
+# COMPLETE. All 69 cards ruled and applied 2026-09-05. See `review` below.
+
+run:
+  skill: voice-smooth
+  session_dir: toee/summaries/20260830
+  scene_dir: scene_extractions          # no *_new suffix in this campaign
+  output_dir: scene_extractions_smoothed
+  scenes: 6
+  quotes_source: 799
+  quotes_smoothed: 774
+  precondition_met: true
+  precondition_note: >-
+    /staged-consistency stages 0, 1 and 2 all ran and were committed before this pass
+    (commits 39a5cefc, c8090f03, b44ca28b, ca2aca84). /remove-recap ran at the correct
+    pipeline point and cut Chapter 33 from all three surfaces.
+
+voices:
+  resolver: session_doc.voice.load_declared_voices via config/party.yaml
+  preflight_run: true
+  resolved: [calmer, sequoia, zephyr, zinnia]
+  declaration_problems: none
+  unknown_narrators:
+    - "GM — not a character in party.yaml. Expected and correct: handled by the no-spec branch."
+  genre_file: voice/_genre.md
+  npc_characterization_sources:
+    - docs/entity_registry.yaml   # Falrinth, Varek Solain, Dren Halveth, Lucius Graeme
+    - the scenes' own framing     # the hooded figure's one-way-message register
+
+  calmer_is_the_gm_problem:
+    finding: >-
+      Kostadis is both the GM and Calmer's player. After the `gm: true` fix in
+      config/players.yaml (commit b44ca28b), speaker_map overwrites every one of his
+      lines with the GM label — so Calmer has ZERO speaker labels in this session's
+      scene files. 473 GM blocks, 0 Calmer blocks.
+    consequence: >-
+      Calmer's voice spec resolves correctly but would never be reached, and the narrator
+      would get a chapter in which a PC never speaks under his own name.
+    where_calmer_actually_speaks: 20 GM blocks carrying an italic "*as Calmer, ...*" direction
+    handled_by: calibration class C4 (stage-direction split), NOT by re-attribution
+    upstream: >-
+      The label is correct as a record of who spoke. Whether session_doc should route
+      "*as Calmer*" blocks to calmer_voice.md is a pipeline question, not a voice-smooth
+      one. Carried forward.
+
+transcripts:
+  independence_proved: true
+  method: md5 + cue count + anchor probe on a distinctive mid-session phrase
+  readings:
+    - file: GMT20260830-150238_Recording.transcript.cleaned.vtt
+      cues: 2639
+      speaker_labels: true
+      generated_from: raw + transcript_corrections.yaml (109 entries, sd_corrections)
+      good_at: proper nouns (glossary + registry already applied), speaker attribution
+    - file: GMT20260830-150238_Recording.transcript.vtt
+      cues: 2639
+      note: the raw archive. Same reading as the cleaned file, not a second one.
+    - file: session_2026_08_30_the_sleeper_in_the_iron_coffin_transcript.vtt
+      cues: 1552
+      speaker_labels: false
+      independent: true
+      good_at: >-
+        sentence completion and common-word recovery. It settled roughly two thirds of
+        this run's garbles outright ("Find bodies.", "So I attack 27.", "I rolled a one",
+        "What's AC?", "Eight points.", "advantage of Calmer", "There's no way it moves
+        out and like burns itself.").
+      bad_at: >-
+        proper nouns. It produces the KNOWN WRONG forms the glossary already rules on —
+        "Valkyrie" for Velkori, "Renee River folk" for Rhennee, "Skull" for Skole,
+        "Sequioa" throughout. Never take a name from this file.
+
+  recap_hazard:
+    finding: >-
+      The independent transcript's first ~11 minutes are the GM reading Chapter 33's
+      summary ALOUD. Narrative prose ("The party stood at the threshold of a ruined
+      reception hall...") sits in the file as ordinary cues.
+    boundary: "00:11:25.750 — 'Remember all of that?' (the same boundary /remove-recap cut on)"
+    rule_applied: >-
+      No match before 00:11:30 was ever used as evidence for a Chapter 34 line. The
+      anchor helper was rewritten mid-run to print a timestamp per match after an early
+      version stripped grep's '--' separators and visually merged two distant matches.
+
+survey:
+  duplication_across_scenes:
+    checked: all 15 scene pairs
+    result: clean
+    max_overlap: '7 lines between scenes 02 and 03 — all of them "Okay." / "Yeah." / "Alright." / "Hmm." / two damage totals'
+    note: >-
+      The 04/06 departure-orders overlap that Stage 2 recorded as X01 is GONE — 17 shared
+      lines down to 1 ("Yeah."). The Stage 2 fix at source worked.
+  extractor_splices:
+    checked: true
+    found: 0
+  truncation_markers:
+    found: 0
+  player_knowledge_wearing_a_character_name:
+    checked: true
+    found: 0
+    note: >-
+      Nothing in this session shows a character reasoning from knowledge they have no
+      route to. The party's information all arrives on-page (Varek's necromancer
+      backstory, Falrinth's message, Skole's note).
+
+calibration_decisions:
+  status: ALL SIX APPROVED by the GM and applied
+  classes:
+    C1: filler and false-start collapse — APPROVED as applied; character tics preserved
+    C2: grammar repair where meaning is unambiguous — APPROVED as applied
+    C3: stage-direction split out of NPC speech, 41 instances — APPROVED as applied
+    C4: Calmer's third-person self-narration, 20 instances — APPROVED as applied
+    C5: rejoining one sentence split across two cues, 9 instances — APPROVED as applied
+        (came back UNDECIDED in the export; re-asked and ruled explicitly)
+    C6: cut pure Roll20/tooling logistics — APPROVED, and ruled STANDING POLICY for this campaign
+  c6_standing_rule: >-
+    Table/tooling logistics is CUT from the smoothed layer, not smoothed. Roll20 token
+    placement, "are you guys on the Roll 20?", "let me just pull up this arm", sheet-reading
+    asides. An italic note in each affected file records what was cut. NOTE: this rule
+    currently lives only in this per-session manifest and needs a campaign-level home —
+    see carry_forward CF20.
+
+review:
+  status: OPEN — awaiting the GM's downloaded decision record
+  mode: interactive artifact (Approve / Reject / Discuss + download)
+  artifact_url: https://claude.ai/code/artifact/94f79b5b-03e4-4ab0-95bb-480674f69e5b
+  cards: 69
+  breakdown:
+    calibration: 6
+    garble: 61
+    attribution: 1
+    scrub: 1
+  tiers:
+    batch: 29    # a second reading settles these outright
+    solo: 37     # transcripts disagree, or the reading is inferred from context
+    keep: 3      # both passes agree — recommended as NOT garbles
+  record_returned: /home/kostadis/Downloads/ch34_voicesmooth_decisions.md
+  exported: 2026-09-05T21:48:18Z
+  verdict_counts:
+    approve: 58
+    reject: 0
+    discuss: 9
+    undecided: 2
+  undecided_reasked:
+    count: 2
+    cards: [C5, G01]
+    outcome: >-
+      Both re-asked in chat rather than defaulted to the recommendation. C5 ruled
+      "approve as applied"; G01 ruled '"The heck is my job around here?"'.
+  discuss_resolution:
+    applied_straight_from_the_note: [G03, G08, G13, G17, G45, G46, G47, G48]
+    required_a_follow_up_question: [G57]
+    g57_detail: >-
+      The note read "Deep purple is the deep temple" — a statement of what Zephyr MEANT,
+      which does not say whether to substitute the words or keep the shorthand and
+      annotate it. Asked; the GM ruled SUBSTITUTE. The layer now reads "the Deep Temple".
+      This writes a canonical proper noun over spoken table shorthand, so it was shown
+      before/after and ruled explicitly, per the campaign's name-verification rule.
+  all_rulings_applied: true
+  open_cards_remaining: 0
+
+  read_back_rules:
+    - "UNDECIDED is not a verdict. Re-ask every unmarked card; do not apply the recommendation because it was the recommendation."
+    - "A DISCUSS note is an instruction to talk, not a pre-approval. Confirm the reading before applying."
+    - "Any card whose ruling would invent canon (G27, the Earth God phrasing) comes back with proposed wording as its own question."
+
+delta_audit:
+  run: true
+  method: >-
+    Per-line content-word diff of scene_extractions/ against scene_extractions_smoothed/,
+    with filler, punctuation and case normalised out, so only substantive changes surface.
+  unapproved_edits_found: 7
+  all_reverted: true
+  detail:
+    - "G32 — applied 'The third creature targets Calmer.' before it was ruled. Reverted; card kept."
+    - "G58 — completed a truncated cue as '...whack you with theirs.' Reverted; the possessive was invented."
+    - "G31 — deleted the GM's '200 points of damage?' mishearing. Restored; it is a number and part of the beat."
+    - "G59 — deleted the GM's dice-reading mutter. Restored and carded."
+    - "G60 — repaired 'a stunt on a failed save' to 'on a failed save' and 'stun condition' to 'stunned condition'. Reverted; carded."
+    - "G61 — reinterpreted 'kill him or Zephyr' as direct address. Reverted; carded, because it changes who the sentence is about."
+    - "Scene 05 — rendered 'He looks at it funny' as 'He looks at it, amused' and 'they notice' as 'they noticed'. Both reverted."
+  note: >-
+    All seven were made in good faith while writing prose and all seven read as clean.
+    That is exactly why the audit exists.
+
+scope_rulings:
+  de_duplication: none needed — see survey.duplication_across_scenes
+  player_real_names:
+    policy_applied: kept raw in the smoothed layer, flagged for the downstream /scrub pass
+    occurrences_in_scene_files: 4
+    already_in_scrub_flags: 3   # Nick x2 (scenes 02, 03), Thomas x1 (scene 06)
+    new_this_run: 1             # "George." at cue 1023, scene 03 — card S01
+    census_correction:
+      finding: >-
+        scrub_flags.md claimed "three cues carry the real-world first names". True of the
+        scene extractions as they then stood; NOT true of the tape, which the file's own
+        stated scope covers ("they stay raw in the transcript... so the /scrub pass catches
+        them"). A full census of the cleaned tape found 11 cues / 12 occurrences —
+        Nick x7, George x3, Thomas x2.
+      surfacing_in_scene_extractions: 4    # cues 200, 750, 1023, 1265
+      tape_only: 7                         # cues 4, 10, 74, 94, 416, 1088, 1307
+      action: >-
+        scrub_flags.md rewritten with both lists and the correction noted inline. This goes
+        beyond the letter of card S01 (which asked only for George to be added) because
+        leaving a known-incomplete list in the file the /scrub pass trusts is a publication
+        risk. Flagged to the GM; revert if unwanted.
+      also_fixed: >-
+        The George cue number was verified against the tape and corrected from 3915
+        (which I had guessed) to 1023 (grep-verified) before the file was finalised.
+    stale_note_found: >-
+      scrub_flags.md says cue 1265 ("Sorry, Thomas") "will surface twice" because the
+      departure-orders exchange sat in both scene 04 and scene 06. That is no longer
+      true — the Stage 2 X01 fix moved it, and it now appears in scene 06 only.
+    also_in_the_tape_but_not_in_any_scene_file: >-
+      Two more occurrences of "George" live in the pre-session chatter of the independent
+      transcript ("One's George.", "Is George on the call?"), before the recap boundary.
+      They are outside every scene extraction and need no action here.
+
+canon_checks:
+  performed_before_writing_any_proper_noun: true
+  resolved_against: [config/party.yaml, notes/vtt_transcription_corrections.md, docs/entity_registry.yaml]
+  results:
+    - name: Velkori
+      verdict: ALREADY CORRECT in the cleaned tape — no change made
+      evidence: >-
+        glossary row 75 rules "Valkyrie -> **Velkori**"; the registry carries Serena,
+        Eryk and Tala Velkori as NPCs. The independent transcript's "Valkyrie" is the
+        known wrong form.
+    - name: Rhennee
+      verdict: ALREADY CORRECT — no change made
+      evidence: 'glossary row 110 rules "Rene Riverfolk, Renee Riverfolk -> **Rhennee**"'
+    - names_carried_unchanged: [Skole, Falrinth, Lucius Graeme, Barkinar, Senshock, Hedrack, Verbobonc, Lareth, Tolub, Vurakhal, Varek Solain, Dren Halveth, Alrrem, Romag]
+  no_name_was_invented: true
+  no_glossary_row_was_touched: true
+  note: >-
+    Zero proper-noun rulings were needed this run. Every name in the six scenes was
+    already settled by the Stage 0/1/2 spell pass. Card G35 ("Carl Zenyatt") LOOKS like
+    a name but matches nothing in the registry, glossary or dossiers; it is proposed as
+    a garble of "...next to Zinnia?", never as a new entity.
+
+garbles_recommended_as_KEEP:
+  - id: G48
+    line: '"Nice, hungry."'
+    why: both passes agree exactly; it is what he said about the surviving predators
+  - id: G51
+    line: '"when you hit with a monk"'
+    why: both passes agree; elliptical for "with a monk weapon", but not a transcription error
+  - id: G52
+    line: '"multiple key points per round"'
+    why: >-
+      NOT a garble. The GM says "focus point" (2024 term) one cue earlier and "ki points"
+      (2014 term) here — a GM switching rules editions mid-explanation. Recommended
+      rendering is "ki points", his actual word, correctly spelled.
+
+upstream_defects_found_not_fixed:
+  - id: A01
+    scene: '02'
+    defect: >-
+      "Because I can't actually move. Alright, zephyr, you're up." is labelled **GM**,
+      but the first clause reads as the tail of Zinnia's turn. Attribution is never
+      repaired in this layer.
+  - scene: '02'
+    defect: >-
+      The GM's reply "Yeah, you can." is absent from scene_extractions/ entirely. The
+      independent transcript has it answering Zephyr's necromancy question (card G02).
+  - scene: '03'
+    defect: >-
+      The independent transcript carries "I missed my first attack." where
+      scene_extractions/ has "This is my first attack." — a different claim about the
+      same die roll (adjacent to card G30).
+
+carry_forward:
+  - id: CF21
+    status: CLOSED 2026-09-05
+    item: >-
+      All 69 verdicts applied. Zero card markers remain in the layer.
+  - id: CF20
+    status: CLOSED 2026-09-05
+    item: >-
+      notes/scrub_register_policy.md created during the /no-mech run on this session, by
+      GM ruling. It now carries the C6 tooling-cut rule, the player-name flag policy, the
+      /no-mech category rulings, and the two campaign-specific traps (the permanently dead
+      NPC-label triage signal, and **GM** also being Calmer).
+  - id: CF22
+    status: OPEN
+    item: >-
+      session_doc should read scene_extractions_smoothed/, not scene_extractions/.
+      Re-running scene_extract DISCARDS this pass.
+  - id: CF17
+    status: OPEN
+    item: >-
+      Carried from Stage 2. Scene 04 is still titled "...and Departure Orders" although
+      X01 moved the standing-orders exchange to scene 06. Scene 04 does still contain
+      Dren's own orders, so this may be moot — the GM's call.
+  - id: CF1
+    status: OPEN
+    item: Stage 3 (narration) has still never run; narration/ does not exist.
+  - id: CF23
+    status: OPEN
+    item: >-
+      Two /no-mech residues in scene 03, found by reading and deliberately not folded in:
+      (a) the surviving read-aloud line still opens "24? You immediately recognize this as
+      the equipment of the Greater Temple." — the roll result is inside a KEPT quote, so
+      trimming it is a word change, not a cut; (b) "unless you figure it out as players"
+      is squarely GM-to-player-as-player but was not on the cut list the GM approved.
+      Both are proposals for the next pass, not defects.
+  - id: CF24
+    status: OPEN
+    item: >-
+      /no-mech ran on this layer 2026-09-05 and cut 305 quote lines. Any re-run of
+      /voice-smooth from scene_extractions/ would rebuild the layer WITHOUT those cuts.
+      See no_mech_manifest_20260830.md.
