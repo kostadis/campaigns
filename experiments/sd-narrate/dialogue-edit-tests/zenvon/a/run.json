@@ -1,0 +1,58 @@
+{
+  "status": "rendered",
+  "case": "zenvon",
+  "approach": "a",
+  "narrator": "Zenvon Forepot",
+  "scene": "Arrival at Wyvern Tor",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "backend": "codex-cli",
+  "input_sha256": {
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_01_trial_01/session_doc_scene_01_arrival_at_wyvern_tor.md": "b9d1211b8755e46c9ebe7d0ebdb7110222a4d32f6fe2944e06afb1293e3885bd",
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md": "f373edfadf3284357e848af0433b49b577e9b1e4e6c2a70b3c8264bcb5a8180b",
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_01_trial_01/character_reference.md": "9b3df35208700418e2339d5da7329dddc74f5033ce4d3a10da1520f35dfbe7d6",
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_01_trial_01/supporting_character_references.md": "6f09bbf095962e58f65e3821c7281d7580cc9b7609d1e1f8b87a0af5bce3f5c1",
+    "/home/kostadis/obelisk/obelisk/notes/scrub_register_policy.md": "4a8182c42df7e55816971a0b28eb4c47cdd73d31a5025c2a6cbb9af8f923d7d0",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/editor_common.md": "9675826b5a9dd2ca6dc1a6a4c47e559107f9efc7ec9d1a8295ab831133b0e286",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/approach_a.md": "dfcd31797d1b87db2c0be3e5dfc129287572a3ca56c71db734c35b5976ac96ce",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/run_test.py": "12f6f4f1fa5424113f377fdfc6a94fbca8643e48fdf282ca6f0f28039fcd6668"
+  },
+  "case_spec": {
+    "id": "zenvon",
+    "narrator": "Zenvon Forepot",
+    "scene": "Arrival at Wyvern Tor",
+    "draft": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_01_trial_01/session_doc_scene_01_arrival_at_wyvern_tor.md",
+    "source": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md",
+    "references": [
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_01_trial_01/character_reference.md",
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_01_trial_01/supporting_character_references.md",
+      "/home/kostadis/obelisk/obelisk/notes/scrub_register_policy.md"
+    ]
+  },
+  "started_utc": "2026-09-06T18:50:20.530460+00:00",
+  "system_sha256": "602a97a270a2f868c52526d10237d8d0291ea9c77154f5a81d5381f30857f4e0",
+  "user_sha256": "7535eebbe67a770bccee64e41d8c18fcbb69e0cbc40e070866d3486b7b724427",
+  "experiment_commit": "046801c077fb495bf84de026ce4dc0e3e6b4de97",
+  "backend_module": "/home/kostadis/src/CampaignGenerator/campaignlib/__init__.py",
+  "actual_identity": {
+    "backend": "codex-cli",
+    "model": "gpt-6-astra",
+    "model_source": "explicit",
+    "codex_reasoning_effort": "medium",
+    "codex_reasoning_effort_source": "cli",
+    "codex_reasoning_override": true
+  },
+  "changed_inputs": [],
+  "response_sha256": "28825f18c6c7a84a69bb912be7bdc84488f1f98812a5368deb1a66d233c6fdaf",
+  "diagnostics": {
+    "baseline_words": 977,
+    "edited_words": 974,
+    "baseline_quote_spans": 16,
+    "edited_quote_spans": 16,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": true,
+    "quote_sequence_similarity": 0.8125,
+    "consecutive_duplicate_quotes": []
+  },
+  "finished_utc": "2026-09-06T18:51:00.518842+00:00"
+}

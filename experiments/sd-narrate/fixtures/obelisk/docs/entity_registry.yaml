@@ -1,0 +1,2616 @@
+version: 1
+campaign: obelisk
+entities:
+- name: Daran Edermath
+  type: npc
+  aliases:
+  - Daran
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Phandalin NPC who sends the party to investigate Old Owl Well, rewarding them
+    with boots of striding and springing. [intro–ch3]
+- name: Gundren Rockseeker
+  type: npc
+  aliases:
+  - Gundren
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf whose map led to Wave Echo Cave; ambushed on Nezznar's orders; later
+    helps administer the reclaimed mine alongside brother Nundro. [intro–ch4]
+- name: Gwyn Oresong
+  type: npc
+  aliases:
+  - Gwyn
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Phandalin ally who identifies the infected townspeople's obelisk exposure,
+    suspects an elder brain beneath town, and names Illithinoch as the stronghold.
+    [intro, ch1, ch2, ch5, ch6, ch7, ch8]
+- name: Iarno "Glasstaff" Albrek
+  type: npc
+  aliases:
+  - Albrek
+  - Glasstaff
+  - Iarno
+  - Iarno Albrek
+  - Lord Albrek
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human wizard and Lords' Alliance agent who disappeared in Phandalin; secretly
+    leads the Redbrands as "Glasstaff," taking orders from the Spider. [intro, ch1,
+    ch2, ch3, ch8, app]
+- name: King Grol
+  type: npc
+  aliases:
+  - Grol
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Leader of the Cragmaw goblins, dwelling in Cragmaw Castle; ordered the capture
+    of Gundren Rockseeker on the Spider's behalf. [intro, ch1, ch3]
+- name: Nezznar the Spider
+  type: npc
+  aliases:
+  - Nezznar
+  - Spider
+  - The Spider
+  - the drow
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Drow villain who ambushed Gundren, captured Tharden and Nundro, and explores
+    Wave Echo Cave seeking the Forge of Spells; uses Cragmaw goblins and Redbrands.
+    [intro, ch1, ch2, ch3, ch4, ch8, app]
+- name: Qunbraxel
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer warlock coordinating the fanatics' obelisk retrieval at Gibbet
+    Crossing; the party typically confronts and defeats him there (ch1 intro foreshadowing,
+    ch7 references him as dead). [intro, ch1, ch6, ch7, ch8, app]
+- name: Ruxithid the Chosen
+  type: npc
+  aliases:
+  - Ruxithid
+  - the Chosen
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Psionic goblin leading the Sawplee goblins from Zorzula's Rest; in psychic
+    communication with mind flayer fanatics seeking obelisk pieces. [intro, ch1, ch3,
+    ch5, ch6, ch8, app]
+- name: Sildar Hallwinter
+  type: npc
+  aliases:
+  - Sildar
+  - Hallwinter
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human warrior escorting Gundren Rockseeker to Phandalin; captured and held
+    by the Cragmaws; Lords' Alliance agent from Waterdeep's griffon cavalry. [intro,
+    ch1, ch2, ch3, ch4, ch8, app]
+- name: Elmina Barthen
+  type: npc
+  aliases:
+  - Barthen
+  - Elmina
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Owner of Barthen's Provisions in Phandalin; informs the characters that Gundren
+    Rockseeker never arrived and recounts the goblin troubles. [ch1, ch2, ch5]
+- name: Errk
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin boss in the Cragmaw hideout who shouts supportively alongside Yeemik;
+    carries a belt pouch containing 21 cp. [ch1]
+- name: Klarg
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Bugbear leader of the Cragmaw hideout who reports to King Grol; delusional
+    self-styled king with a pet wolf named Ripper. [ch1]
+- name: Linene Graywind
+  type: npc
+  aliases:
+  - Linene
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Of the Lionshield Coster; can provide information on the goblin attacks and
+    seeks recovery of goods stolen by Klarg. [ch1–ch2]
+- name: Nundro Rockseeker
+  type: npc
+  aliases:
+  - Nundro
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf commoner, youngest Rockseeker brother, held prisoner and interrogated
+    by Nezznar in area W20; once rescued, he helps administer the reclaimed mine.
+    [ch1–ch4]
+- name: Tharden Rockseeker
+  type: npc
+  aliases:
+  - Tharden
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf brother of Gundren, killed by Nezznar and left dead at the Rockseekers'
+    campsite (area W1); his cloak of protection remains there. [ch1–ch4]
+- name: Yeemik
+  type: npc
+  aliases:
+  - Yimek
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin boss and second-in-command of the Cragmaw hideout; tries to oust Klarg
+    and holds Sildar hostage to bargain with the party. [ch1]
+- name: Agatha
+  type: npc
+  aliases:
+  - the banshee Agatha
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Banshee, formerly a female elf, lairing near Conyberry; answers one question
+    truthfully if approached respectfully and given a gift. [ch2–ch3]
+- name: Aldith Tresendar
+  type: npc
+  aliases:
+  - Sir Aldith
+  - the Black Hawk
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Great knight known as the Black Hawk who died fighting bandits below his manor;
+    former owner of the sword Talon. [ch2]
+- name: Ander
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Young clerk from Phandalin's general store, infected by obelisk-shard exposure
+    via the store's well, turned violent alongside Garaele and Halia. [ch2, ch5, ch6,
+    ch7, ch8]
+- name: Bowgentle
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Author of a spellbook once possessed by Agatha, who traded it to the necromancer
+    Tsernoth over a century ago. [ch2–ch3]
+- name: Carp Alderleaf
+  type: npc
+  aliases:
+  - Carp
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Halfling friend of Pip who isn't allowed to venture far from Alderleaf Farm;
+    points the characters toward where Pip went into the hills. [ch2, ch6]
+- name: Droop
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin of the Scraptops clan, bullied by the bugbears in the guard barrack;
+    wants only to go home. [ch2]
+- name: Elsa
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Gwyn Oresong's sister, a bartender at the Stonehill Inn who told Gwyn about
+    the recent Phandalin crimes. [ch2, ch5]
+- name: Freda
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Gnome weaver at the Stonehill Inn who shares a rumor about Halia Thornton
+    and the Miner's Exchange. [ch2]
+- name: Grista
+  type: npc
+  aliases:
+  - Greska
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf owner of the Sleeping Giant tavern in Phandalin, whose cellar hides
+    the sinkhole leading down toward Illithinoch. [ch2, ch5, ch6, ch7]
+- name: Halia Thornton
+  type: npc
+  aliases:
+  - Guild Master Halia
+  - Halia
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Runs the Miner's Exchange in Phandalin; recruits characters (especially Zhentarim
+    recruits) to find her four missing miners in the Sword Mountains. [ch2, ch4, ch5,
+    ch6, ch7, ch8]
+- name: Harbin Wester
+  type: npc
+  aliases:
+  - Harbin
+  - Townmaster Harbin Wester
+  - townmaster
+  - Wester
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Townmaster of Phandalin who hires the characters to investigate goblin crimes;
+    too frightened to act alone. [ch2, ch3, ch5]
+- name: Lanar
+  type: npc
+  aliases:
+  - Lenar
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human miner at the Stonehill Inn who shares a rumor about marauders on the
+    Triboar Trail. [ch2]
+- name: Mirna Dendrar
+  type: npc
+  aliases:
+  - Mirna
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Family once ran Thundertree's herbalist shop; now a resident of Phandalin
+    who may have sent the party to find a hidden heirloom. [ch2–ch3]
+- name: Nars
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mirna Dendrar's thirteen-year-old son, held captive by the Redbrands in the
+    holding cells. [ch2]
+- name: Narth
+  type: npc
+  aliases:
+  - Old Narth
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human farmer at the Stonehill Inn who shares a rumor about Sister Garaele's
+    wounding. [ch2, ch6]
+- name: Nilsa
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mirna Dendrar's eighteen-year-old daughter, held captive by the Redbrands
+    in the holding cells. [ch2]
+- name: Nosk
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Bugbear leader of the group the Spider sent to reinforce the Redbrands; carries
+    a key to the hideout. [ch2]
+- name: Qelline Alderleaf
+  type: npc
+  aliases:
+  - Qelline
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Wise, pragmatic halfling farmer who knows Phandalin's happenings; her son
+    Carp found the Redbrands' secret tunnel. [ch2–ch3]
+- name: Reidoth
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Druid and longtime friend of Qelline Alderleaf who knows the land well and
+    recently traveled to Thundertree. [ch2–ch3]
+- name: Sister Garaele
+  type: npc
+  aliases:
+  - Garaele
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Acolyte of the Shrine of Luck infected by obelisk-shard exposure; fights Halia
+    Thornton and Ander before townspeople restrain the trio. [ch2, ch3, ch5, ch6,
+    ch7, ch8]
+- name: Thel Dendrar
+  type: npc
+  aliases:
+  - Thel
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Local woodcarver murdered by the Redbrands after standing up to them; his
+    skeleton lies in the crevasse cave. [ch2]
+- name: Thistle
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of Elmina Barthen's two clerks at Barthen's Provisions. [ch2]
+- name: Toblen Stonehill
+  type: npc
+  aliases:
+  - Toblen
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Along with Trilena Stonehill, asks the characters to search the fields for
+    their missing ten-year-old son, Pip. [ch2, ch5, ch6]
+- name: Urmon
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Adventurer whose Dwarvish journal in Glasstaff's workshop records the lost
+    mine of Phandelver and the mace Lightbringer. [ch2]
+- name: Brughor Axe-Biter
+  type: npc
+  aliases:
+  - Brughor
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Orc raider leader occupying Wyvern Tor's cave with 18 hit points; his band
+    flees if he is killed. [ch3]
+- name: Dresina
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Wizard who built the tower at Old Owl Well long ago; name revealed only by
+    Agatha in answer to Hamun Kost's question. [ch3]
+- name: Favric
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ambitious young human cultist leader in Thundertree who plans to offer the
+    party to Venomfang as tribute to earn its trust. [ch3]
+- name: Gog
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ogre among Brughor Axe-Biter's raiders at Wyvern Tor who fights until slain.
+    [ch3]
+- name: Hamun Kost
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human mage and Red Wizard of Thay exploring Old Owl Well; trades information
+    for favors regarding Wyvern Tor and Agatha. [ch3]
+- name: Lhupo
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin boss styling herself a priest at Cragmaw Castle's goblin shrine; owns
+    a pet grick guarding the Dark Hall. [ch3]
+- name: Palien
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Old hero of Neverwinter depicted in a weathered statue at Thundertree's Town
+    Square; supposedly defeated monsters when the town was founded. [ch3]
+- name: Tsernoth
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Necromancer from Iriaebor who received Bowgentle's spellbook from Agatha in
+    a trade over a century ago; fate unknown. [ch3]
+- name: Vyerith
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Doppelganger disguised as a drow woman, messenger from the Spider sent to
+    collect Gundren Rockseeker and the map to Wave Echo Cave. [ch3]
+- name: Yegg
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Cantankerous goblin boss who cooks for the Cragmaws in Cragmaw Castle's Banquet
+    Hall; his death sends surviving goblins fleeing. [ch3]
+- name: Mormesk the Wraith
+  type: npc
+  aliases:
+  - Mormesk
+  - the wraith
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Restless spirit of the last wizard to die in the mine's spell battle; leads
+    Wave Echo Cave's Undead and guards treasure he cannot touch. [ch4]
+- name: Tergon
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human hero of old Neverwinter for whom an enchanted breastplate with a gold
+    dragon motif was created. [ch4]
+- name: Vhalak
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Doppelganger who disguises itself as a drow supervisor overseeing Nezznar's
+    bugbears in area W18, digging for treasure in a collapsed rift. [ch4]
+- name: Dareth Grint
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human farmer, Harbin Wester's second cousin, held hostage and left to starve
+    in the Indigo Sanctum's hostage room. [ch5]
+- name: Hjoldak Hollowhelm
+  type: npc
+  aliases:
+  - Hjoldak
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Neutral duergar, last mining captain of Zorzula's Rest, his soul imprisoned
+    by mind flayers in a murmuring jar. [ch5]
+- name: Paulina Previne
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human stable hand who occasionally works at the Stonehill Inn, held hostage
+    in the Indigo Sanctum. [ch5]
+- name: Tamara Stonehill
+  type: npc
+  aliases:
+  - Tamara
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ten-year-old daughter of Toblen Stonehill; witnessed goblins steal the Shrine
+    of Luck's centerpiece and helps rebuild it. [ch5]
+- name: Trilena Stonehill
+  type: npc
+  aliases:
+  - Trilena
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Tamara Stonehill's mother, a worshiper of Tymora who witnessed the Shrine
+    of Luck's collapse and helps Sister Garaele. [ch5–ch6]
+- name: Tumblewick Rollins
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Gnome apothecary held hostage in the Indigo Sanctum by the Sawplee goblins.
+    [ch5]
+- name: Wheel-of-Fortune
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Tiefling bartender at the Sleeping Giant undergoing mind-flayer-like transformation
+    from a nearby obelisk shard; senses the elder brain and psychic energy. [ch5,
+    ch7, ch8]
+- name: Zorzula
+  type: npc
+  aliases:
+  - Zorz
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Powerful duergar leader mentioned in history books who commanded mining operations
+    in the Sword Mountains; namesake of Zorzula's Rest. [ch5]
+- name: Aida Camber
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Kidnapped Phandalin miner, sister of Cathlette Camber, trapped in the grells'
+    larder (area J4) awaiting rescue. [ch6–ch7]
+- name: Brelta Gemblade
+  type: npc
+  aliases:
+  - Brelta
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf general instrumental in securing regional peace, laid to rest in the
+    crypt's General's Tomb; she and her aides have risen as vengeful ghosts. [ch6]
+- name: Cameren
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Galeb duhr companion of the medusa Honna in Talhundereth's Lesser Chapel;
+    idolizes her though she barely acknowledges him. [ch6]
+- name: Cathlette Camber
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Kidnapped Phandalin miner, engaged to Oskar Ninebough, trapped in the grells'
+    larder (area J4) after a goblin-escorted abduction. [ch6–ch7]
+- name: Chals
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of three Humanoid mutates of the Cult of the Obelisk inhabiting Talhundereth's
+    cleansing chamber, alongside Harralie and Paulam. [ch6]
+- name: Elise
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Wallin Kreeve's daughter; one of the miners who followed her father into the
+    cave and became trapped by the shambling mound. [ch6]
+- name: Erdan Vosselth
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of three neutral drow who have worked for the Henlifel family as guards
+    and laborers, temporarily camped in Talhundereth's reading room. [ch6]
+- name: Falfark
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Humanoid mutate of the Cult of the Obelisk living in Talhundereth's private
+    rooms with a pet encephalon gemmule he calls a guardian. [ch6]
+- name: Fremine
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of two galeb duhr disguised as boulders guarding the collapse near Honna's
+    chapel in Talhundereth's Deepening Hall. [ch6]
+- name: Frowode
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of two galeb duhr disguised as boulders guarding the collapse near Honna's
+    chapel in Talhundereth's Deepening Hall. [ch6]
+- name: Harralie
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of three Humanoid mutates of the Cult of the Obelisk inhabiting Talhundereth's
+    cleansing chamber, alongside Chals and Paulam. [ch6]
+- name: Honna
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Medusa who lairs in Talhundereth's Lesser Chapel, capturing bandits and explorers
+    to petrify into kneeling statues that she admires as art. [ch6]
+- name: Hovnar Tartesh
+  type: npc
+  aliases:
+  - Hovnar
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human clerk imprisoned in the Toppled Statue's base with his brother Menvin,
+    trying to rally the despairing captives. [ch6, ch8]
+- name: Karthim Humblepick
+  type: npc
+  aliases:
+  - Karthim
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Quiet dwarf miner trapped in Hardyhammer Mine; thanks the characters if rescued
+    and knows of treasures in Talhundereth's vault and crypt. [ch6]
+- name: Malinia
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Humanoid mutate of the Cult of the Obelisk defacing a statue of Dumathoin
+    in Talhundereth, aided by four encephalon gemmules. [ch6]
+- name: Marthungrim
+  type: npc
+  aliases:
+  - Marthungrim the Valiant
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dead dwarf paladin of Dumathoin who excavated his home, sought to destroy
+    the crypt's restless ghosts, and died of wounds from tentacled creatures. [ch6]
+- name: Menvin Tartesh
+  type: npc
+  aliases:
+  - Menvin
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human clerk imprisoned in the Toppled Statue's base, brother of Hovnar, nearly
+    comatose with despair. [ch6, ch8]
+- name: Mildra Merkel
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Orc farmer imprisoned in the Toppled Statue's base among the four rescued
+    Phandalin townspeople. [ch6, ch8]
+- name: Murnig
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Loyal aide of General Brelta Gemblade, laid to rest beside her in the crypt;
+    has returned from the dead as a ghost. [ch6]
+- name: Nalpina Goldstone
+  type: npc
+  aliases:
+  - Nalpina
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf traveling inventor imprisoned in the Toppled Statue's base who speaks
+    some Deep Speech and overheard the mind flayers' plans. [ch6, ch8]
+- name: Nelja
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Loyal aide of General Brelta Gemblade, laid to rest beside her in the crypt;
+    has returned from the dead as a ghost. [ch6]
+- name: Nythalyn Henlifel
+  type: npc
+  aliases:
+  - Nythalyn
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Drow elite warrior, son of Ontharyx; with his brother Yanthdel, leads drow
+    retainers in Talhundereth hoping to convince their father to return home. [ch6]
+- name: Ontharyx
+  type: npc
+  aliases:
+  - Ontharyx Henlifel
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Leader of the Cult of the Obelisk in Talhundereth; abandoned his family, and
+    his sons Nythalyn and Yanthdel hope to bring him home. [ch6]
+- name: Oskar Ninebough
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Kidnapped Phandalin sawyer with an old leg injury, trapped with Cathlette
+    and Aida Camber in the grells' larder after their goblin captors fled. [ch6–ch7]
+- name: Paulam
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of three Humanoid mutates of the Cult of the Obelisk inhabiting Talhundereth's
+    cleansing chamber, alongside Chals and Harralie. [ch6]
+- name: Rivibiddel
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Elderly svirfneblin trapped in the Crypt of the Talhund copying 'He of the
+    Hidden Gemstone'; aged by ghosts' Horrifying Visage and needs rescue. [ch6–ch8]
+- name: Shansa
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Elf wife of Thawnia Browne imprisoned in the Crystal Dome; worries the mind
+    flayers will return to torment the captives. [ch6, ch8]
+- name: Thawnia Browne
+  type: npc
+  aliases:
+  - Thawnia
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human farmer imprisoned in the Crystal Dome with her wife Shansa; holds out
+    hope that other lost townspeople escaped. [ch6, ch8]
+- name: Thiala Sharne
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of three neutral drow who have worked for the Henlifel family as guards
+    and laborers, temporarily camped in Talhundereth's reading room. [ch6]
+- name: Thorgran Ironquill
+  type: npc
+  aliases:
+  - Thorgran
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf historian who faked his death centuries ago to investigate mind flayer
+    activity; his corpse is now puppeted by a cloaker mutate. [ch6–ch7]
+- name: Unmiel
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Newly engaged elf laborer imprisoned in the Crystal Dome among the four rescued
+    Phandalin townspeople. [ch6, ch8]
+- name: Vakketar
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chain devil bound in Gibbet Crossing's prison (area G6) by duergar diabolists;
+    survived the mind flayers' attack and lures intruders into spiked cages. [ch6]
+- name: Vellios Keethe
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of three neutral drow who have worked for the Henlifel family as guards
+    and laborers, temporarily camped in Talhundereth's reading room. [ch6]
+- name: Verno Tharbun
+  type: npc
+  aliases:
+  - Verno
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human miner who returned to town describing a 'walking shrub' that lured Wallin
+    Kreeve into a cave; the others followed him. [ch6]
+- name: Wallin Kreeve
+  type: npc
+  aliases:
+  - Wallin
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Old miner lured by a shambling mound (disguised as a strange walking shrub)
+    into a cave in the Sword Mountains, then trapped there. [ch6]
+- name: Wramble
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Gnome wainwright imprisoned in the Crystal Dome with his capybara mount Violet;
+    counted the mind flayers' obelisk fragments. [ch6, ch8]
+- name: Yanthdel Henlifel
+  type: npc
+  aliases:
+  - Yanthdel
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Drow elite warrior, son of Ontharyx; speaks Dwarvish in addition to Elvish,
+    Undercommon, and Common, and offers his periapt of health as reward. [ch6]
+- name: Zoklork
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Xorn lairing in Gibbet Crossing's toppled tower room (area G14) with two earth
+    elementals, seeking amethysts a roper ambush stole from its dead rockmate. [ch6]
+- name: Zuluthl
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Yochlol summoned by House Azfadiel's priests to guard their shrine (area G20);
+    has remained ever since and reacts violently to intruders. [ch6]
+- name: Ahooshathan
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer running Illithinoch's Experimentation Chamber with two nothics;
+    surrenders and shares information about the fanatics and Far Realm rifts if outmatched.
+    [ch7]
+- name: Chishinix
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: One of three mind flayer fanatics performing Ilvaash's ritual; accompanied
+    by a severed head, she stalls and negotiates with intruders at Anima Entry. [ch7–ch8]
+- name: Duoro Engletor
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Aberrant zealot instructing Larnon Veddin in Ilvaash's worship at Illithinoch's
+    feeding pool; a former Far Realm scholar exiled from Neverwinter. [ch7]
+- name: Golcuus
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Beholder who built the Labyrinth of Eyes' viewing rods; peered into the Briny
+    Pool and was later warped by the fanatics into a miserable oculorb. [ch7–ch8]
+- name: Gulguush
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer prophet and ardent follower of Chishinix who guards her room with
+    a homunculus and writes a prayer book devoted to Ilvaash. [ch7]
+- name: Hashutu
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Self-indulgent mind flayer fanatic whose hands Ilvaash replaced with warning
+    tentacles after his paranoia about enemies; keeps a lavish room. [ch7–ch8]
+- name: Larnon Veddin
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Human cult fanatic being instructed in Ilvaash worship by Duoro Engletor;
+    slower to give up his humanity than his mentor. [ch7]
+- name: Oshundo the Alhoon
+  type: npc
+  aliases:
+  - Oshundo
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Arrogant alhoon guest of Voalsh who aided the fanatics with old Underdark
+    knowledge; was driven from Illithinoch long ago for using arcane magic. [ch7–app]
+- name: Shalghast
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer who guards Illithinoch's Reception Hall with Ulthundul, questioning
+    visitors about worship of Ilvaash or obelisk deliveries. [ch7]
+- name: Ulthundul
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer guard in Illithinoch's Reception Hall who casts detect thoughts
+    on visitors alongside Shalghast. [ch7]
+- name: Voalsh
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer fanatic granted wings by Ilvaash after being ambushed by rival
+    illithids; hovers on a floating disk to intimidate. [ch7–ch8]
+- name: Ablinash
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer zealot of Ilsensine who forsook that deity for Ilvaash and became
+    its first follower; had a mutant human mouth. [ch8]
+- name: Ashripask
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Arcanaloth Nellik's mezzoloth unit formerly served, leading them into dangerous
+    Far Realm locales; they fled while it slept into the Briny Pool. [ch8]
+- name: Charnyz
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Spirit naga lurking in the Mire of Doubt who tests intruders with an illusory-snake
+    challenge; fights to the death alongside Valsyx. [ch8]
+- name: Frevvik
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Wary mezzoloth adjutant to Nellik who keeps watch at Nellik's Windmill and
+    blows a war horn to summon patrols. [ch8]
+- name: Ghaluzesh
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Kraken who directs Ilvaash's brain breaker squads against the characters while
+    lairing invulnerably in the Shallows of Sudden Thought. [ch8]
+- name: Gossa
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Lawful neutral human mage sheltering with Lowarnizel in the Briny Maze after
+    an errant plane shift spell stranded them. [ch8]
+- name: Groushim
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Aberrant zealot collecting defective items for Ilvaash's junk room; recently
+    returned from a Material Plane assassination mission. [ch8]
+- name: Jitterjaws
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Loyal flesh meld gifted to Shalfi by Ilvaash; gnaws Shalfi's dig-hole wider
+    and fights to the death beside him. [ch8]
+- name: Jomlus
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Spectator who reads Klaudel Kamven's tome aloud, endlessly repeating its mispronounced
+    text as an obsession inherited from him. [ch8]
+- name: Kianka
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Githyanki warrior serving under Varakkta, camped with her in area B7 of the
+    Briny Maze. [ch8]
+- name: Klaudel Kamven
+  type: npc
+  aliases:
+  - Klaudel
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Sage who sought to understand Truths of the Inward Facing Mind via Jomlus;
+    died and was absorbed into the Briny Maze's walls. [ch8]
+- name: Lowarnizel
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Young amethyst dragon hiding in the Briny Maze with his companion Gossa after
+    an errant plane shift spell stranded them. [ch8–app]
+- name: Mublinesh
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Beholder guarding Ilvaash's domain, hoping to earn a lair of its own by slaying
+    100 intruders; has already killed 96. [ch8]
+- name: Nellik
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Nycaloth commanding a rebel mezzoloth band on the Wailing Battlefield, fled
+    her former boss Ashripask; wields the magic greataxe Flayer Slayer. [ch8]
+- name: Nouashu
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Aberrant zealot collecting defective items for Ilvaash's junk room; recently
+    returned from a Material Plane assassination mission. [ch8]
+- name: Shalfi Lewin
+  type: npc
+  aliases:
+  - Shalfi
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chaotic evil musician-zealot of Ilvaash digging through the Briny Maze's floor
+    to reach and kill the dragon Lowarnizel below. [ch8]
+- name: Valsyx
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Spirit naga lurking in the Mire of Doubt who stalls intruders with a false
+    riddle to let Charnyz arrive; fights to the death. [ch8]
+- name: Varakkta
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Githyanki knight leading a scouting party trapped in the Briny Maze; lost
+    her prized silver greatsword to an intellect snare in area B5. [ch8]
+- name: Vazzi
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Githyanki warrior serving under Varakkta, camped with her in area B7 of the
+    Briny Maze. [ch8]
+- name: Vecna
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Evil wizard who stole the Weavers' obelisk secrets and erased knowledge of
+    them from existence, scattering the lore worldwide. [ch8]
+- name: Wise Borblish
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Flumph who believes the nearby encephalon cluster is too powerful for her
+    cloister to defeat alone. [ch8]
+- name: Dumathoin
+  type: deity
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dwarf deity whose priests, the Talhund, are entombed in the crypt beneath
+    Talhundereth; grants a revocable blessing to characters who purify it. [ch4, ch6,
+    ch7]
+- name: Ilsensine
+  type: deity
+  aliases:
+  - the God-Brain
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer deity that Ablinash forsook to instead swear obeisance to the
+    discarded divine meninges that became Ilvaash. [intro, ch1, ch5, ch7, ch8]
+- name: Ilvaash
+  type: deity
+  aliases:
+  - Dissonant Psyche
+  - the Dissonant Psyche
+  - the godlet
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Malevolent Far Realm godlet that the three mind flayer fanatics use as a warped
+    elder brain, teaching them their ritual requires the obelisk. [intro, ch1, ch5,
+    ch6, ch7, ch8]
+- name: Lathander
+  type: deity
+  provenance: module
+  source: docs/background/obelisk.md
+  note: God of dawn, one of the deities once revered at the shrine decorated in Cragmaw
+    Castle's Dark Hall. [ch2–ch4]
+- name: Mystra
+  type: deity
+  provenance: module
+  source: docs/background/obelisk.md
+  note: God of magic, one of the deities once revered at the shrine decorated in Cragmaw
+    Castle's Dark Hall. [ch3]
+- name: Oghma
+  type: deity
+  provenance: module
+  source: docs/background/obelisk.md
+  note: God of knowledge, one of the deities once revered at the shrine decorated
+    in Cragmaw Castle's Dark Hall. [ch3]
+- name: the Jagged Tooth
+  type: deity
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Made-up god the Cragmaws worship at a shrine in Cragmaw Castle, tended by
+    the goblin boss Lhupo. [ch3]
+- name: Tymora
+  type: deity
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goddess of luck worshiped at Phandalin's Shrine of Luck, which the Sawplee
+    goblins desecrated to steal an obelisk shard. [ch2, ch3, ch5]
+- name: Barthen's Provisions
+  type: location
+  aliases:
+  - Barthen's
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Trading post in Phandalin owned by Elmina Barthen; destination for the characters'
+    wagonload of supplies, paying 10 gp each. [intro, ch1, ch2, ch5]
+- name: Briny Maze
+  type: location
+  aliases:
+  - the maze
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Terrifying fleshy labyrinth in the Far Realm and home of the godlet Ilvaash,
+    where the fanatics complete their transformation ritual. [intro, ch1, ch7, ch8]
+- name: Cragmaw Castle
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Unlocated goblin stronghold characters may seek to rescue Gundren Rockseeker;
+    bugbears in the Redbrands' hideout know its location. [intro–ch3]
+- name: Crypt of the Talhund
+  type: location
+  aliases:
+  - the crypt
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Burial crypt beneath Talhundereth holding generations of Dumathoin's priests,
+    the Talhund; desecrated and haunted since an ancient mind flayer invasion. [intro,
+    ch1, ch5, ch6]
+- name: Forge of Spells
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Wave Echo Cave workshop (area W15) where Phandelver Pact wizards enchanted
+    dwarven arms and gnome gadgets; guarded by a spectator. [intro, ch1, ch2, ch4]
+- name: Forgotten Realms
+  type: location
+  aliases:
+  - the Realms
+  provenance: module
+  source: docs/background/obelisk.md
+  note: High-fantasy world of this adventure, populated by elves, dwarves, halflings,
+    humans, and other folk, where the Sword Coast lies. [intro]
+- name: Gibbet Crossing
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Abandoned Underdark crossroads holding the third shattered obelisk piece;
+    site of the characters' confrontation with the mind flayer Qunbraxel. [intro,
+    ch1, ch5, ch6, ch7]
+- name: Illithinoch
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Underground stronghold beneath Phandalin where three mind flayer fanatics
+    gather the reassembled obelisk to power their Far Realm transformation ritual.
+    [intro, ch1, ch6, ch7, ch8]
+- name: Material Plane
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: The plane of existence Ruxithid claims his obelisk-shard quest will transform,
+    per the mind flayers' deception. [intro, ch1, ch5, ch8]
+- name: Neverwinter
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: City to which captured Nezznar could be escorted for interrogation by the
+    Lords' Alliance; old Neverwinter was once home to the hero Tergon. [intro–ch5]
+- name: Neverwinter Wood
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Forest bordering the Triboar Trail region and Thundertree; Venomfang searched
+    it before claiming Thundertree's tower as a lair. [intro–ch3]
+- name: Old Owl Well
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ruined ancient watchtower occupied by Hamun Kost and undead guardians.
+    Module placement conflicts (northeast of Phandalin in ch1; southeast of
+    Conyberry in ch3); campaign table canon is northeast of Phandalin. [intro–ch3]
+- name: Phandalin
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Surface town above Illithinoch whose townspeople are infected by obelisk-shard
+    exposure and whose kidnapped citizens the characters seek to rescue. [intro–ch8]
+- name: Sword Coast
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Region of the Forgotten Realms encompassing Phandalin, Neverwinter, and Waterdeep,
+    where daring souls delve into fallen strongholds and ancient ruins. [intro–ch3]
+- name: Sword Mountains
+  type: location
+  aliases:
+  - Sword Mountain
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mountain range about 15 miles southwest of Phandalin where four miners scouted
+    for a lucrative mining site and were trapped. [intro–ch7]
+- name: Talhundereth
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ancient subterranean dwarven temple to Dumathoin, now ruined and infested
+    by the Cult of the Obelisk; contains the Crypt of the Talhund beneath it. [intro,
+    ch1, ch5, ch6, ch7, ch8]
+- name: The Far Realm
+  type: location
+  aliases:
+  - Far Realm
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Alien plane the mind flayer fanatics fled into through a gateway at Illithinoch,
+    worshipped by Ilvaash's followers and reached via three rifts. [intro, ch1, ch5,
+    ch6, ch7, ch8]
+- name: Thundertree
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Abandoned village near Neverwinter Wood, devastated by Mount Hotenow's eruption
+    thirty years ago; now overrun by mutated plants and undead. [intro–ch3]
+- name: Toril
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: The world whose surface Ilvaash wants his reestablished mind flayer empire
+    to stretch across, starting with Phandalin as its capital. [intro]
+- name: Wave Echo Cave
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Lost dwarven mine east of Phandalin in the Sword Mountains, site of the Phandelver
+    Pact's treasures; now overrun with monsters and Nezznar's search. [intro–ch6]
+- name: Wyvern Tor
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Landmark crag northeast of the Sword Mountains, formerly a wyvern nest.
+    Its module roster is orc chief Brughor Axe-Biter, four bugbears, and the ogre
+    Gog, collectively the Axe-Biter Marauders. [intro–ch3]
+- name: Zorzula's Rest
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Underdark site where mind flayers once swept through centuries ago; a grimlock
+    retrieved obelisk shards here before the adventurers arrived. [intro, ch1, ch5,
+    ch6]
+- name: Cave Mouth
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Entrance area (H1) of the Cragmaw hideout, screened by briar thickets, where
+    a shallow stream flows from the cave. [ch1]
+- name: Cragmaw Hideout
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin lair referenced as where characters may have recovered the Lionshield
+    Coster's stolen goods, in its area H8. [ch1–ch2]
+- name: Goblin Den
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Common room and barracks (H6) of the Cragmaw hideout where Sildar Hallwinter
+    is held prisoner by Yeemik and Errk. [ch1]
+- name: Goblin Guard Post
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin lookout post (H2) in the briar thickets east of the hideout's cave
+    mouth, manned by goblins and a goblin boss. [ch1]
+- name: High Road
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Coastal road the Triboar Trail connects to north of Phandalin; also used by
+    Cragmaw raiders for caravan raids. [ch1, ch3]
+- name: Kennel
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chamber (H3) in the Cragmaw hideout where the goblins keep three chained wolves
+    they are training for battle. [ch1]
+- name: Klarg's Cave
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Klarg's den (H8) in the Cragmaw hideout, holding about 30 days of stolen plunder
+    and a hidden treasure chest. [ch1]
+- name: Lionshield Coster
+  type: location
+  aliases:
+  - Coster
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Trading post owned by the Lionshields merchant company, run in Phandalin by
+    Linene Graywind, who sells armor and weapons. [ch1–ch2]
+- name: Overpass
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Cavern (H5) in the Cragmaw hideout with a goblin-guarded rope bridge above
+    pools that can be released to flood the tunnel. [ch1]
+- name: Steep Passage
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Passage (H4) in the Cragmaw hideout climbing steeply from the cave mouth,
+    with a goblin-guarded rope bridge and side passage. [ch1]
+- name: Triboar Trail
+  type: location
+  aliases:
+  - The Triboar Trail
+  - Triboar Trail Random Encounters table
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Region of foothills and plains between the Sword Mountains and Neverwinter
+    Wood, named for the trail running to Triboar. [ch1–ch5]
+- name: Twin Pools Cave
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Cavern (H7) in the Cragmaw hideout with two dammed pools the goblins can release
+    to flood the passage below. [ch1]
+- name: Waterdeep
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: City whose settlers, along with Neverwinter's, founded the resettled frontier
+    town of Phandalin in recent years. [ch1–ch2]
+- name: Agatha's Lair
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Site, alongside Conyberry, where the banshee Agatha can be found in chapter
+    3. [ch2]
+- name: Alderleaf Farm
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Farm that halfling Carp Alderleaf isn't allowed to venture far from; he points
+    characters toward where he saw Pip go into the hills. [ch2, ch5, ch6]
+- name: Conyberry
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Location paired with Agatha's Lair as the chapter 3 destination for Sister
+    Garaele's banshee-related quest. [ch2–ch3]
+- name: Dragon Coast
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Southern region where Daran Edermath worked for years as a marshal and herald
+    before retiring. [ch2]
+- name: Edermath Orchard
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Orchard in Phandalin where townspeople notice a strange greenish glow emanating
+    from the afflicted cow Daisy. [ch2, ch5, ch6]
+- name: Faerûn
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Continent the Harpers gather information across in order to thwart tyrants
+    and despots. [ch2]
+- name: Phandalin Miner's Exchange
+  type: location
+  aliases:
+  - Miner's Exchange
+  - The Exchange
+  - The Miner's Exchange
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Business run by Halia Thornton in Phandalin; miners' silver stake is payable
+    here, and she recruits characters to find missing miners. [ch2, ch5, ch6]
+- name: Redbrands' Hideout
+  type: location
+  aliases:
+  - Redbrand Hideout
+  - the hideout
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dungeon complex under Tresendar Manor's cellars, expanded by the Redbrands
+    with cells, workshops, and barracks. [ch2]
+- name: Stonehill Inn
+  type: location
+  aliases:
+  - The Stonehill Inn
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Newly built roadhouse in central Phandalin run by Toblen Stonehill; the best
+    lodging option, where Sildar Hallwinter occupies a room. [ch2, ch5, ch6, ch8]
+- name: the North
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Broad northern region once largely controlled by the ancient realm of Phalorm,
+    per Cragmaw Castle's origin. [ch2–ch3]
+- name: The Shrine of Luck
+  type: location
+  aliases:
+  - Shrine of Luck
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Recently repaired Phandalin shrine where Sister Garaele serves as acolyte
+    and where the infected-townspeople encounter takes place. [ch2, ch5, ch7]
+- name: The Sleeping Giant
+  type: location
+  aliases:
+  - Sleeping Giant
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Grista's tavern in Phandalin where Wheel-of-Fortune works; its cellar hides
+    the sinkhole leading down toward Illithinoch. [ch2, ch5, ch7]
+- name: Townmaster's Hall
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Seat of elected townmaster Harbin Wester, with a small jail; later where Sildar
+    Hallwinter establishes himself. [ch2, ch5]
+- name: Tresendar Manor
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ruined castle-like manor at Phandalin's east edge; its cellars conceal the
+    Redbrands' hidden stronghold. [ch2]
+- name: Triboar
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Town to the east of Phandalin; Toblen Stonehill's hometown before he became
+    an innkeeper. [ch2–ch3]
+- name: Yartar
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: City over a hundred miles east of Phandalin, home of the Lionshields merchant
+    company. [ch2]
+- name: Iriaebor
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: City the necromancer Tsernoth hailed from when he acquired Bowgentle's spellbook
+    from Agatha. [ch3]
+- name: Lost Mine of Phandelver
+  type: location
+  aliases:
+  - the lost mine of Phandelver
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Legendary mine whose location the characters learn upon confronting King Grol;
+    the Spider's interest in it drives the plot. [ch3]
+- name: Mount Hotenow
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Volcano whose eruption thirty years ago devastated Thundertree and spawned
+    the plague of zombies that overran it. [ch3]
+- name: Neverwinter River
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: River that emerges from Neverwinter Wood near the abandoned village of Thundertree.
+    [ch3]
+- name: Phalorm
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ancient realm that once controlled much of the North; a wizard of Phalorm
+    originally built what is now Cragmaw Castle. [ch3]
+- name: Thay
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Distant eastern land of necromancers whose wizards tattoo their flesh to signify
+    their school of magic; Hamun Kost's homeland. [ch3]
+- name: The Brown Horse
+  type: location
+  aliases:
+  - Brown Horse
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Former Thundertree taproom renowned for its ale, now home to six ash zombies.
+    [ch3]
+- name: Temple of Dumathoin
+  type: location
+  aliases:
+  - area W19
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Hall with a statue of Dumathoin that Nezznar uses as his headquarters while
+    searching Wave Echo Cave for the Forge of Spells. [ch4]
+- name: Barthen's Well
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Well behind Barthen's Provisions vandalized by goblins retrieving an obelisk
+    shard used as the winch drum. [ch5]
+- name: Bunks (Z4)
+  type: location
+  aliases:
+  - Z4
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Sleeping quarters in Zorzula's Rest with a broken mine-shaft lift and sleeping
+    goblin psi brawlers. [ch5]
+- name: Captain's Suite (Z10)
+  type: location
+  aliases:
+  - Z10
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ruxithid's locked personal quarters in Zorzula's Rest, containing his desk,
+    a hidden vault, and the murmuring jar. [ch5]
+- name: Cesspit (Z16)
+  type: location
+  aliases:
+  - Z16
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Wastewater cavern in Zorzula's Rest home to a mutated otyugh warped by mind
+    flayer aberrant energy. [ch5]
+- name: Cliff Strip Mine (Z15)
+  type: location
+  aliases:
+  - Z15
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Scaffolded mining cliff in Zorzula's Rest where feral and psionic ashenwights
+    mine; the latter can direct characters to Ruxithid. [ch5]
+- name: Crystal Cavern (Z14)
+  type: location
+  aliases:
+  - Z14
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Geode-like chamber in Zorzula's Rest infested with gricks, its crystal spires
+    used to power outpost machinery. [ch5]
+- name: Entrance (Z1)
+  type: location
+  aliases:
+  - Z1
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Zorzula's Rest's ornament-free stone double doors, guarded by arrow slits
+    with goblin psi commanders posted. [ch5]
+- name: Goblin Camp
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Clearing an hour from Phandalin (map 5.2) where injured goblins from the Miner's
+    Exchange raid regroup. [ch5]
+- name: Hostage Room
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: West wing of the Indigo Sanctum where the goblins held kidnapped Phandalin
+    townspeople, some left to starve. [ch5]
+- name: Hot Spring (Z6)
+  type: location
+  aliases:
+  - Z6
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Hidden restorative hot spring in Zorzula's Rest, sealed off by the mind flayers
+    and later unearthed by the goblins. [ch5]
+- name: Indigo Sanctum
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Sacred duergar hall within Zorzula's Rest, once home to an elder brain, now
+    Ruxithid's meditation chamber and lair. [ch5]
+- name: Kitchen (Z8)
+  type: location
+  aliases:
+  - Z8
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Zorzula's Rest kitchen where the giant badger Bessie, the enclave's pet, is
+    usually found foraging. [ch5]
+- name: Latrines (Z5)
+  type: location
+  aliases:
+  - Z5
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Waste room in Zorzula's Rest hiding a secret door to the outpost's hot spring.
+    [ch5]
+- name: Mess Hall (Z3)
+  type: location
+  aliases:
+  - Z3
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dining hall in Zorzula's Rest where goblins eat gritty porridge and can be
+    bargained with over the forge monsters. [ch5]
+- name: Mine Cart Maintenance Chamber (Z13)
+  type: location
+  aliases:
+  - Z13
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chamber in Zorzula's Rest holding rusted mine carts and three duergar skeletons
+    killed in the illithid invasion. [ch5]
+- name: Mining Tunnels Entrance (Z12)
+  type: location
+  aliases:
+  - Z12
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chamber in Zorzula's Rest linking three mining tunnels and a shaft up to the
+    Bunks (area Z4). [ch5]
+- name: Overlook Forge (Z7)
+  type: location
+  aliases:
+  - Z7
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Forge in Zorzula's Rest overlooking a lava sea, barricaded against undead
+    feral ashenwights by the frightened goblins. [ch5]
+- name: Pantry (Z9)
+  type: location
+  aliases:
+  - Z9
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Food storage room in Zorzula's Rest with the tunnel Bessie dug that serves
+    as an alternate entrance. [ch5]
+- name: Phandalin Alleys
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mapped area of Phandalin (referencing map 5.3 from chapter 5) used for the
+    encounter with the infected, violent townspeople. [ch5, ch7]
+- name: Rooftop Stash
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Rooftop of the Sleeping Giant (map 5.4) where fleeing goblins return for their
+    dropped bag of stolen coins. [ch5]
+- name: Sanctum Crossing (Z19)
+  type: location
+  aliases:
+  - Z19
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Bridge in Zorzula's Rest leading to a psionically locked door and lift down
+    into the Indigo Sanctum. [ch5]
+- name: Shrine to Ilsensine (Z17)
+  type: location
+  aliases:
+  - Z17
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Defaced statue-shrine in Zorzula's Rest to the illithid deity Ilsensine, recently
+    destroyed by goblins compelled by Ilvaash. [ch5]
+- name: Storage Chamber (Z18)
+  type: location
+  aliases:
+  - Z18
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ore storage chamber in Zorzula's Rest guarded by a fiendish auger, connected
+    to the forge's bucket conveyor. [ch5]
+- name: Underdark
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Subterranean realm beneath Phandalin connecting to Illithinoch, home to grells,
+    quaggoths, behirs, and other dangers the characters must cross. [ch5–ch7]
+- name: Vault (Z11)
+  type: location
+  aliases:
+  - Z11
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Hidden vault behind the Captain's Suite in Zorzula's Rest, opened via a Dwarvish
+    rune puzzle, holding ancient duergar treasure. [ch5]
+- name: Vestibule (Z2)
+  type: location
+  aliases:
+  - Z2
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Entry hall of Zorzula's Rest with spiral staircases to the arrow slits and
+    the door-opening lever. [ch5]
+- name: War Room
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: East wing of the Indigo Sanctum where Ruxithid planned expeditions to retrieve
+    obelisk shards using a map. [ch5]
+- name: Well Cavern
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Cavern beneath Barthen's Well (map 5.1) housing an otyugh and a caved-in tunnel
+    toward Zorzula's Rest. [ch5]
+- name: Demonweb Pits
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chaotic demonic plane the yochlol Zuluthl left behind; she considers her long
+    stay guarding the Azfadiel shrine an extended break from it. [ch6]
+- name: Hardyhammer Mine
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Early mining site with no living heirs, where a shambling mound trapped Wallin
+    Kreeve, Elise, and Karthim Humblepick. [ch6]
+- name: Marthungrim's Home
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Sunken dwarven ruin, home of the deceased paladin Marthungrim, where encephalon
+    gemmules are trapped; potential base of operations for the characters. [ch6]
+- name: Plane of Earth
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Elemental plane of origin for the mudslick tower, a rare magic item the xorn
+    Zoklork and two earth elementals find fascinating. [ch6]
+- name: Starmetal Hills
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Surface region encompassing the dangers explored across this chapter, including
+    Talhundereth, its crypt, and Gibbet Crossing. [ch6]
+- name: Town Green
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Open space in Phandalin where Daisy the cow totters before vomiting forth
+    four psychic gray oozes. [ch6]
+- name: Briny Pool
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Grotesque pool of brine and cerebral fluid that birthed Ilvaash from Ilsensine's
+    discarded matter; Golcuus was psychically scarred by glimpsing it. [ch7–ch8]
+- name: Endless Void
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Far Realm place beneath the Briny Maze's pool where Ilvaash takes physical
+    form, located "beyond a lightless star." [ch7–ch8]
+- name: Feeder Trenches
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Far Realm rift location reached from Illithinoch's laboratory (area X4), home
+    to Feedkeeper Naruv's grells and one of the fanatics' bolstering runes. [ch7]
+- name: Labyrinth of Eyes
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Far Realm rift location reached from Illithinoch's experimentation chamber
+    (area X10); the lair of the beholder-turned-oculorb Golcuus. [ch7]
+- name: Spawn Hollow
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Far Realm rift location reached from Illithinoch's cosmologium (area X5),
+    guarded by slaadi including Chalaag and used for slaad tadpole reproduction. [ch7]
+- name: Anima Entry
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Entry area (A1) of Ilvaash's Anima with a high platform and tentacle-framed
+    archway; Chishinix's post if four or five fragments are recovered. [ch8]
+- name: Atagua
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Grasslands hundreds of miles from Phandalin where planar disruptions occur,
+    prompting an epilogue hook delivered via Gwyn Oresong. [ch8]
+- name: Bulwark of Secrets
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Far Realm safe harbor: an abbey of guardian nagas who protect dangerous lore.
+    [ch8]'
+- name: Chalnefaaz
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Far Realm safe harbor: a community of myconids that bud tiny, wailing faces.
+    [ch8]'
+- name: Charnyz's Dell
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mossy, shrub-ringed dell on the Mire of Doubt (area M3) where the spirit naga
+    Charnyz lurks with her illusion-snake challenge. [ch8]
+- name: Crystal Dome
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Floating nodule with a blackened-crystal dome guarded by shield guardians,
+    holding four imprisoned Phandalin townspeople and the pinhole to the Briny Pool.
+    [ch8]
+- name: Disciples' Chamber
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chamber (A3) of Ilvaash's Anima meant for future cultists, holding a brain-statue
+    altar and possibly two summoned mind flayer prophets. [ch8]
+- name: Empty Bridge
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Floating nodule with a dilapidated tower and a symbol-trapped stone bridge
+    over a churning river hiding an aboleth and water elemental. [ch8]
+- name: Ilvaash's Anima
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Nodule, visible only after five other nodules are seen, where the three mind
+    flayer fanatics perform their Phandalin-transformation ritual. [ch8]
+- name: Membrane
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Fluid-holding tissue (area N3) inside the Nematode's throat; destroying or
+    carefully puncturing it opens the creature's mouth. [ch8]
+- name: Mire of Doubt
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Swampy floating nodule with difficult terrain, lair of spirit nagas Valsyx
+    and Charnyz, recently raided unsuccessfully by mezzoloths. [ch8]
+- name: Nellik's Windmill
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Blackened, still-turning windmill (area W2) on the Wailing Battlefield where
+    the nycaloth Nellik and her adjutant Frevvik lair. [ch8]
+- name: Occluding Miasma
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Permanent cloudkill-fog nodule hiding a small dirt nodule with the Toppled
+    Statue's severed metal tongue, guarded by three invisible stalkers. [ch8]
+- name: Pit Overlook
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ritual chamber (A4) of Ilvaash's Anima holding the black obelisk on its dais;
+    damage to it backlashes onto the nearest fanatic. [ch8]
+- name: Prison Pyramid
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Cracked pyramid (area W1) on the Wailing Battlefield holding mezzoloths, a
+    freed umber hulk, and three desiccated umber hulk husks. [ch8]
+- name: Refectory
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Chamber (A2) of Ilvaash's Anima with brain-dispensing metal tubes feeding
+    the fanatics; Hashutu's post if four fragments are recovered. [ch8]
+- name: Sarire sugar mill
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Sugar mill in Atagua owned by a wealthy individual who may reward characters
+    for investigating the region's planar disruptions. [ch8]
+- name: Shallows of Sudden Thought
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Miles-wide dead lake in the Far Realm, similar to the Briny Pool, where the
+    kraken Ghaluzesh lairs and can be fought once drained. [ch8]
+- name: Stone Pier
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Crumbling pier on the Mire of Doubt (area M1) leading to a propped-up mezzoloth
+    corpse the nagas use as a warning scarecrow. [ch8]
+- name: The Guts
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Acid digestion pool (area N4) at the end of the Nematode's throat, 30 feet
+    across and up to 20 feet deep. [ch8]
+- name: The Mouth
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Cave entrance (area N1) of the Nematode with a bone tent that becomes a closing,
+    tentacled mouth trapping intruders. [ch8]
+- name: Throat
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Organic passage (area N2) inside the Nematode leading toward its guts, with
+    rippling contraction walls. [ch8]
+- name: Toppled Statue
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Fallen eighty-foot metal statue of Ablinash on a cube-shaped base; the base
+    imprisons four Phandalin townspeople until its tongue-lever is restored. [ch8]
+- name: Valsyx's Clearing
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Clearing on the Mire of Doubt (area M2) where the spirit naga Valsyx lurks
+    and poses his stalling riddle. [ch8]
+- name: Wailing Battlefield
+  type: location
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Smoke-shrouded battlefield nodule with a cracked prison pyramid and a windmill,
+    home to Nellik's rebel mezzoloth band and a freed umber hulk. [ch8]
+- name: Aberrant Zealot
+  type: npc
+  aliases:
+  - Aberrant Zealot (Tentacled)
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block from this adventure''s Appendix A: Bestiary, with a Tentacled
+    variant; no further detail given in this chunk. [app]'
+- name: Ash Zombies
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Zombies created by Mount Hotenow's magical eruption; leave a harmless cloud
+    of ash for 5 minutes upon death. [ch3]
+- name: Bashudu
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Dying nothic, formerly a mind flayer, traded by the fanatics to Feedkeeper
+    Naruv to scribe her bolstering rune; drained of vital essence. [ch7]
+- name: Bessie
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: The Sawplee goblin enclave's pet giant badger; burrowed into Zorzula's Rest
+    through the pantry and loves belly rubs. [ch5]
+- name: Brain Breaker
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Militant mind flayer prophet enforcer resembling a giant brain with legs,
+    armored in Ilvaash's runes; uses infected elder brain stats, AC 14. [ch8–app]
+- name: Chalaag
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Gray slaad explorer who discovered Spawn Hollow and studies its migrating
+    flesh; casts glyph of warding and invisibility to guard the rift. [ch7]
+- name: Cloaker Mutate
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Mutated-creature stat block listed in this adventure''s Appendix A: Bestiary;
+    no further detail given in this chunk. [app]'
+- name: Daisy
+  type: npc
+  aliases:
+  - Daisy the Cow
+  provenance: module
+  source: docs/background/obelisk.md
+  note: A cow that escaped Old Narth's farm and ate Far Realm-tainted clover; vomits
+    four psychic gray oozes when approached, then the glow disappears. [ch6]
+- name: Dwarf Skeleton
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Encephalon Cluster
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Encephalon Gemmule
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Creature statistics used for Chishinix's speed-10 severed head, minus the
+    Encephalon Progeny ability; also a standalone Appendix A stat block. [ch8–app]
+- name: Feedkeeper Naruv
+  type: npc
+  aliases:
+  - Naruv
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Grell host of the Feeder Trenches who traded degenerate mind flayers for a
+    place to scribe the fanatics' bolstering rune; flavors sludge with victims. [ch7]
+- name: Feral Ashenwight
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Fiendish Auger
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Flesh Meld
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Goblin Boss Archer
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Goblin Psi Brawler
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Goblin Psi Commander
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Grandlejaw
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Hydra dozing in the Crypt of the Talhund's flooded chamber (area P5); tolerates
+    water weird Kellikilli and attacks anything that looks edible. [ch6]
+- name: Grell Psychic
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Humanoid Mutate
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Infected Elder Brain
+  type: npc
+  aliases:
+  - Illithinoch's elder brain
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Diseased, weakened elder brain manipulated by the fanatics; tracks intruders
+    via Creature Sense and fights to the death if reached at area X15. [ch7–app]
+- name: Infected Townsperson
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Intellect Snare
+  type: npc
+  aliases:
+  - Intellect Snares
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Hungry aberration that floats through the Endless Void and inhabits the Nematode's
+    throat, encountered roughly 1d6 per hour if characters float freely. [ch8]
+- name: Kellikilli
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: High-strung water weird sharing the flooded chamber (area P5) with hydra Grandlejaw;
+    too distracted playing to notice cautious intruders. [ch6]
+- name: Mind Flayer Clairvoyant
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Base stat block for the ritual fanatics Chishinix, Hashutu, and Voalsh, each
+    individually modified with unique abilities. [ch8–app]
+- name: Mind Flayer Nothic
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Mind Flayer Prophet
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Stat block summoned in pairs to guard the Disciples' Chamber altar if all
+    seven obelisk fragments were recovered. [ch8–app]
+- name: Oculorb
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Otyugh Mutate
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Psionic Ashenwight
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Psionic Shambling Mound
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Redbrand Ruffian
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Creature stat block listed in this adventure''s Appendix A: Bestiary; no
+    further detail given in this chunk. [app]'
+- name: Refraction of Ilvaash
+  type: npc
+  aliases:
+  - Ilvaash's Refraction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Floating, ghostly-brained manifestation of Ilvaash's power blocking the Briny
+    Pool's exit; fights to the death with Dissonant Claw and mind blast. [ch8–app]
+- name: Snarl
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: King Grol's pet dire wolf, present alongside him in Cragmaw Castle's King's
+    Quarters. [ch3]
+- name: Ssarnak
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Nothic guarding the Redbrands' crevasse cave in exchange for treasure and
+    meat from Glasstaff; communicates via telepathy. [ch2]
+- name: The Nematode
+  type: npc
+  aliases:
+  - Nematode
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Unique animate floating nodule resembling a giant nematode or brain parasite,
+    with a closing mouth, throat, membrane, and acid-filled guts. [ch8]
+- name: Venomfang
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Young green dragon who claimed Thundertree's old tower, killing its giant-spider
+    residents; flees if reduced to one-quarter hit points. [ch3]
+- name: Violet
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Capybara mount belonging to imprisoned gnome wainwright Wramble, held with
+    him in the Crystal Dome. [ch6, ch8]
+- name: Vundru
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Grell psychic leader of the grells in Illithinoch's Scavengers' Nook, infused
+    with minor psychic power from proximity to Illithinoch. [ch7]
+- name: Zeond
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Glasstaff's invisible quasit familiar, watching over his workshop and warning
+    him telepathically of intruders. [ch2]
+- name: Blessing of the Solipsistic Mind
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Blessing granted to characters who spend 24 hours helping Jomlus correctly
+    pronounce an entire page of his tome. [ch8]
+- name: Bracers of Celerity
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Cape of Enlargement
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Dragonguard
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Flayer Slayer
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Nellik's magic greataxe; deals bonus damage against Aberrations and can end
+    their grapple on a failed Strength save. [ch8–app]
+- name: He of the Hidden Gemstone
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Thorgran Ironquill's masterwork history of Dumathoin's works, more fable than
+    history; Rivibiddel has been copying its text from the crypt's walls. [ch6, ch8]
+- name: Hew
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Rust-marked +1 battleaxe of dwarven make found in Venomfang's hoard; deals
+    maximum damage against Plant creatures or wooden objects. [ch3, ch8, app]
+- name: Keoghtom's Ointment
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Healing unguent found in the behir's nest (area J6) at Illithinoch; four doses
+    discovered as treasure. [ch7]
+- name: Lightbringer
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: +1 mace with a sunburst head found in the Forge of Spells; glows and deals
+    extra radiant damage to Undead; made for a cleric of Lathander. [ch2, ch4, ch8,
+    app]
+- name: Luminous War Pick
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Marthungrim's Journal
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Journal found beside Marthungrim's skeleton describing his excavation, his
+    quest to destroy the crypt's restless ghosts, and his fatal wounds. [ch6]
+- name: Metal Tongue
+  type: item
+  aliases:
+  - Tongue-Lever
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Lever-shaped tongue that opens the Toppled Statue's base; the fanatics broke
+    it off and hid it in the Occluding Miasma. [ch8]
+- name: Mind Crystal
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Magic item that enhances a mind flayer mage's spells when used; new item listed
+    in this adventure's Appendix B. [app]
+- name: Mindblasting Cap
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Mindguard Crown
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Mudslick Tower
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Variant of Daern's instant fortress that grew and toppled when nearby obelisk
+    magic activated it, blocking Gibbet Crossing passages until shrunk via a command
+    word. [ch6, ch8, app]
+- name: Murmuring Jar
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Onyx canopic jar in Ruxithid's quarters imprisoning duergar Hjoldak Hollowhelm's
+    soul since the mind flayers' conquest. [ch5]
+- name: Netherese Obelisk
+  type: item
+  aliases:
+  - Netherese obelisk fragments
+  - Netherese obelisk pieces
+  - Netherese obelisk shards
+  - Shattered Obelisk
+  - The Shattered Obelisk
+  - the Mysterious Netherese Obelisk
+  - the Obelisk
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ancient Netherese artifact shattered into fragments scattered regionally;
+    mind flayer fanatics seek to rebuild it to power a mind-flayer transformation
+    ritual. [intro, ch1, ch5, ch6, ch7, ch8]
+- name: Netherese Ring of Protection
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Netherese-made magic ring; new item listed in this adventure''s Appendix
+    B: Magic Items, no further description given here. [app]'
+- name: Potion of Psionic Fortitude
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic potion from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Prostrate before the Dissonant Psyche
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Gulguush's unfinished prayer book, written in Undercommon, compiling everything
+    the mind flayer has learned about the Far Realm godlet Ilvaash. [ch7]
+- name: Ring of the Orator
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Spider Staff
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Staff of Defense
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Statuette of Augury
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'New magic item from this adventure''s Appendix B: Magic Items; no further
+    description given in this chunk. [app]'
+- name: Talon
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: +1 longsword belonging to the slain knight Aldith Tresendar, found in the
+    nothic Ssarnak's hoard in the crevasse. [ch2] The party carried it unidentified
+    through ch8; they learned the name "Talon" in ch10, out of frame, when the GM
+    read the chapter 8 recap aloud ("Fine. We now learned its name."). [ch10] In ch11
+    Hamun Kost identified it at dinner as the blade of Aldith Tresendar, the knight
+    known as the Black Hawk — so the party now knows its provenance, though not yet
+    its link to the Tresendar crypt they looted. Described at the table as forged
+    with diamonds and other precious stones — GM ruling 2026-09-05, table canon, and
+    distinct from Zenvon's semi-precious-stone short sword. [ch11]
+- name: The Granite Ledger
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Book with metal pages and a granite cover; a compendium of Talhundereth's
+    secrets listing crypt burials and instructions to open its entrance. [ch6]
+- name: The Sawplee Goblins' Map
+  type: item
+  aliases:
+  - Goblins' Map
+  - Ruxithid's map
+  - the map
+  provenance: module
+  source: docs/background/obelisk.md
+  note: 'Map discovered from Ruxithid showing the locations of the remaining obelisk
+    fragments: Talhundereth, the Crypt of the Talhund, and Gibbet Crossing. [ch5–ch6]'
+- name: Thorgran Ironquill's Journal
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Well-made journal with a silver bookplate that Thorgran dropped centuries
+    ago in the Tunnel Chasm, recording his plan to spy on Illithinoch. [ch7]
+- name: Truths of the Inward Facing Mind
+  type: item
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Esoteric tome Klaudel Kamven sought to interpret; Jomlus still reads it aloud,
+    hunting for its text's correct pronunciation. [ch8]
+- name: Cragmaw goblins
+  type: faction
+  aliases:
+  - Cragmaw
+  - Cragmaw band
+  - Cragmaw goblin band
+  - Cragmaws
+  - The Cragmaw
+  - The Cragmaws
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin band; encountered on the road to Wave Echo Cave and used by Nezznar,
+    alongside the Redbrands, to keep the cave's location secret. [intro–ch4]
+- name: Cult of the Dragon
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Widespread group seeking alliances with powerful dragons of the Sword Coast;
+    four of its cultists in Thundertree court Venomfang. [ch3]
+- name: Cult of the Obelisk
+  type: faction
+  aliases:
+  - the Cult
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Gang of Humanoid mutates led by Ontharyx, drawn to the obelisk in Talhundereth,
+    who feed captives to their worshipped encephalon cluster. [ch6]
+- name: Emerald Enclave
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Widespread group of wilderness survivalists preserving the natural order and
+    rooting out unnatural threats; Reidoth is a member. [ch3]
+- name: Empire of the Mind
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Aspirational mind flayer empire the fanatics are building in Ilvaash's name;
+    Chishinix offers captives a high position within it. [ch8]
+- name: Harpers
+  type: faction
+  aliases:
+  - Harper
+  - The Harpers
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Secretive organization dedicated to promoting good and preserving history;
+    some characters hope good deeds in Phandalin will earn its notice. [intro, ch1,
+    ch2, ch3, ch5]
+- name: Henlifel family
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Drow family led by Ontharyx; his sons Nythalyn and Yanthdel and several drow
+    retainers have served the family as guards and laborers. [ch6]
+- name: House Azfadiel
+  type: faction
+  aliases:
+  - Azfadiel
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Drow trading house exterminated by mind flayers generations ago; its receiving
+    room and hidden shrine, guarded by the yochlol Zuluthl, remain in Gibbet Crossing.
+    [ch6]
+- name: House Triestoroth
+  type: faction
+  aliases:
+  - Triestoroth
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Wealthy drow trading house exterminated by mind flayers generations ago; rumored
+    to have undiscovered treasures hidden in well-defended vaults. [ch6]
+- name: Illefarn
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ancient elven nation once spread across the Sword Coast; its name is the Redbrands'
+    hideout password. [ch2]
+- name: Lionshields
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Merchant company based in Yartar that owns the Lionshield Coster trading post
+    in Phandalin. [ch2]
+- name: Lords' Alliance
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Alliance of political powers along the Sword Coast concerned with mutual security;
+    Sildar Hallwinter and Iarno Albrek are its agents. [ch1, ch2, ch4]
+- name: Netheril
+  type: faction
+  aliases:
+  - Netherese
+  - Netherese Empire
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Now-fallen empire of wizards, the most notable builders of Netherese obelisks,
+    including the one shattered in this adventure. [intro, ch1, ch2, ch3, ch8]
+- name: Neverwinter Guard
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Military organization in Neverwinter; a character background describes membership
+    and a terrible injury suffered in the line of duty. [intro]
+- name: Order of the Gauntlet
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Devout, vigilant group protecting others from evildoers; a trainee hook has
+    a pledge visiting hero Daran Edermath before joining fully. [intro–ch2]
+- name: Phandelver Pact
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Historic alliance of dwarves, gnomes, and human wizards who mined and enchanted
+    items in Wave Echo Cave before it was destroyed by bandits. [ch1, ch2, ch4]
+- name: Red Wizards
+  type: faction
+  aliases:
+  - Red Wizard
+  - The Red Wizard
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Order of spellcasters from Thay; Hamun Kost is one, marked by a forehead tattoo
+    denoting his necromancy specialty. [ch3]
+- name: Redbrands
+  type: faction
+  aliases:
+  - Redbrand
+  - Redbrand Ruffians
+  - The Redbrands
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Criminal gang whose operation at the Sleeping Giant was previously curtailed
+    by the characters, referenced in this chapter's aftermath. [intro–ch5]
+- name: Sawplee Goblins
+  type: faction
+  aliases:
+  - Sawplee
+  - Sawplees
+  - The Sawplee Goblins
+  - the Sawplees
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin group that already secured obelisk shards scattered throughout Phandalin,
+    according to Qunbraxel's intelligence about the fanatics' collection efforts.
+    [intro, ch1, ch5, ch6]
+- name: Scraptops
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Goblin clan known for scavenging and tinkering; Droop is a member repairing
+    a wagon back home. [ch2]
+- name: the Ilvaash fanatics
+  type: faction
+  aliases:
+  - Mind Flayer Fanatics
+  - The Fanatics
+  - the chosen ones
+  - the mind flayer fanatics
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Cult of mind flayers in Illithinoch assembling the reassembled obelisk to
+    transform Phandalin's people; manipulated Qunbraxel with false promises of an
+    inner circle. [ch6–ch8]
+- name: The Stonehills
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Family running the Stonehill Inn; closed it out of concern that transformed
+    guests could cause an incident there. [ch8]
+- name: the Talhund
+  type: faction
+  aliases:
+  - Talhund
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Honorific title for generations of Dumathoin's priests buried in the crypt
+    named for them; Dumathoin gives them new secret names in death. [ch6]
+- name: Weavers
+  type: faction
+  aliases:
+  - The Weavers
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mysterious group who created powerful reality-rewriting obelisks to undo great
+    calamities; their secrets were stolen and erased by Vecna. [ch8]
+- name: Zhentarim
+  type: faction
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Faction Halia Thornton recruits characters into; she approaches Zhentarim-recruited
+    characters first when seeking help finding her missing miners. [ch2, ch4, ch6]
+- name: Attack of the Nematode
+  type: event
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Epilogue hook where the Nematode awakens to full sentience and attacks Phandalin,
+    scattering intellect snares before dawn. [ch8]
+- name: Far Realm Explorers
+  type: event
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Epilogue hook for further exploring the Far Realm's safe harbors after defeating
+    the refraction of Ilvaash. [ch8]
+- name: Ilvaash's Revenge
+  type: event
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Epilogue hook where Ilvaash sends brain breaker squads led by the kraken Ghaluzesh
+    to attack the characters' Far Realm allies. [ch8]
+- name: Meet Me in Phandalin
+  type: event
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Adventure hook under which characters deliver a wagonload of supplies to Barthen's
+    Provisions. [ch2]
+- name: The Ritual
+  type: event
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Mind flayer fanatics' plan to use the rebuilt Netherese obelisk to transform
+    Phandalin's entire population into mind flayers from a distance. [ch6]
+- name: Blessing of Dumathoin
+  type: concept
+  aliases:
+  - Dumathoin's Blessing
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Blessing granted to characters who help purify the Crypt of the Talhund; Dumathoin
+    can rescind it if the recipient betrays dwarvenkind. [ch6]
+- name: Chevall
+  type: concept
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Title Daran Edermath grants, with a pin, to a character who joins the Order
+    of the Gauntlet. [ch2]
+- name: Cloak
+  type: concept
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Title Sildar Hallwinter grants, with a pin, to a character who joins the Lords'
+    Alliance. [ch2]
+- name: Deep Speech
+  type: concept
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Illithid dialect; the goblins' tribal name 'Sawplee' is a simplification of
+    its word for 'goblin.' [ch5]
+- name: Dwarvish
+  type: concept
+  aliases:
+  - Dwarven
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Language of runes found on Ruxithid's quarters banners and the Sanctum Crossing's
+    psionic door lock. [ch5]
+- name: Fang
+  type: concept
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Title Halia Thornton grants, with a pin, to a character who joins the Zhentarim.
+    [ch2]
+- name: Qualith
+  type: concept
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Tactile written language used by mind flayers, composed in four-line stanzas;
+    inscribed on doors of rooms the fanatics claimed in Illithinoch. [ch7]
+- name: Watcher
+  type: concept
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Title Sister Garaele grants, with a pin, to a character who joins the Harpers.
+    [ch2]
+- name: Dendrar family
+  type: faction
+  aliases:
+  - the Dendrars
+  provenance: on_the_fly
+  note: Thel, Mirna, Nars, and Nilsa Dendrar. The VTT mishearing 'Dendar' (session
+    1) is handled in notes/vtt_transcription_corrections.md, not as an alias here
+    — garbles are transcription errors, not identity variants.
+- name: Tuck Stonehill
+  type: npc
+  provenance: module
+  source: docs/background/obelisk.md
+  note: Ten-year-old son of the Stonehills who followed a trio of encephalon gemmules
+    into the hills and got trapped watching a dwarven ruin's hole. [ch2, ch6] Campaign
+    rename of module's Pip Stonehill (per name_glossary.md 2026-06-12) -- collides
+    with sidekick Pip Thistlewick.
+- name: Dosa Rook
+  type: npc
+  provenance: on_the_fly
+  source: summaries/007/session_2026_07_18_chapter_07_deception.md
+  note: 'Redbrand bandit killed by the party in the upper-cellar brawl beneath Tresendar
+    Manor. Name confirmed on tape (GM: "the bandit, whose name is Dosa Rook"). ASR
+    garbles "Dessa"/"Desa" are handled in notes/vtt_transcription_corrections.md,
+    not as aliases here. [ch7]'
+- name: Wick
+  type: npc
+  provenance: on_the_fly
+  source: summaries/007/session_2026_07_18_chapter_07_deception.md
+  note: Low-level Redbrand thug. Surrendered in the upper cellar after his allies
+    fell, killed his own wounded comrade to curry favor, revealed that Glasstaff is
+    a wizard who takes orders from someone in Phandalin and that the Redbrands had
+    "handled" the Dendrar family, flinched at the name Black Spider, then was executed
+    by Zenvon. Dead. [ch7]
+- name: Orryn Voss
+  type: npc
+  aliases:
+  - Professor Orryn Voss
+  provenance: on_the_fly
+  note: Veyra's mentor; missing from Phandalin, an open plot thread. Only the title
+    variant "Professor Orryn Voss" is registered as an alias — the ASR garble "Oren
+    Voss" is handled in notes/vtt_transcription_corrections.md, not here.
+- name: Zenvon Forepot
+  type: npc
+  aliases:
+  - Zenvon
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Player character (halfling rogue), played by Nikhil Reddy. Campaign-original,
+    not from the module. Registered so the bare first name resolves to the full name
+    in known_names/alias_to_canonical — PC names otherwise reach the registry only
+    via config/party.yaml's `extra`, which gets no first-token expansion.
+- name: Veyra of the Blue Candle
+  type: npc
+  aliases:
+  - Veyra
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Party sidekick (tiefling mage), GM-run. Campaign-original, not from the module.
+    Mentor is Orryn Voss, registered separately as an NPC. Registered so the bare
+    first name resolves to the full name in known_names/alias_to_canonical.
+- name: Sister Maela Dawnforge
+  type: npc
+  aliases:
+  - Sister Maela
+  - Maela
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Party sidekick (dwarf cleric), GM-run. Campaign-original, not from the module.
+    "Maela" is registered explicitly because the canonical name's first token is "Sister",
+    so first-token expansion never derives it.
+- name: Pip Thistlewick
+  type: npc
+  aliases:
+  - Pip
+  provenance: on_the_fly
+  source: config/party.yaml
+  note: Party sidekick (human fighter), GM-run. Campaign-original, not from the module.
+    Unqualified "Pip" always means this sidekick — the module's Pip Stonehill was
+    renamed Tuck Stonehill for exactly this collision (name_glossary.md 2026-06-12).
+    "Pip" is registered explicitly because it is 3 characters, below first-token expansion's
+    >=4 threshold.

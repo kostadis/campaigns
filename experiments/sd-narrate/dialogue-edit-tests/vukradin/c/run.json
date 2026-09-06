@@ -1,0 +1,60 @@
+{
+  "status": "rendered",
+  "case": "vukradin",
+  "approach": "c",
+  "narrator": "Vukradin",
+  "scene": "Patrons of the Common Chord",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "backend": "codex-cli",
+  "input_sha256": {
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_01_trial_01/session_doc_scene_01_patrons_of_the_common_chord.md": "fa4c1009fd8b8c73ad5b689cf1f266b2e1e5ccae6b6c6eb7a4d4b1e99c555c56",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md": "ebb0517a844084628952bce61531edd46bd6915267c5fdd959f80d88e8d38833",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_01_trial_01/character_reference.md": "93bf7278eed96c05155803f4b93fa7a51bcb3236e6fd96fd583ddfff781bf5e3",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_02_trial_01/character_reference.md": "b1da7d7fa66335b7b68bc69b3c442bfb88ba0ac9380ce9c7bcadaa88f9d40c75",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/trial_02/soma_character_reference.md": "0a652ee540970a5fb03dfca41473884d4ee4e050951324aa5d9758106d3ee49b",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_05_trial_01/character_reference.md": "1cf575d5576dc3f5b58cec3c3892e6fe200eb6c66dabd50bd7ab57eff6303f0e",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/editor_common.md": "9675826b5a9dd2ca6dc1a6a4c47e559107f9efc7ec9d1a8295ab831133b0e286",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/approach_c.md": "951972a5df3fe74bfeef3fe0ba549535afdb53076200c440132a1d580ecea542",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/run_test.py": "12f6f4f1fa5424113f377fdfc6a94fbca8643e48fdf282ca6f0f28039fcd6668"
+  },
+  "case_spec": {
+    "id": "vukradin",
+    "narrator": "Vukradin",
+    "scene": "Patrons of the Common Chord",
+    "draft": "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_01_trial_01/session_doc_scene_01_patrons_of_the_common_chord.md",
+    "source": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+    "references": [
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_01_trial_01/character_reference.md",
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_02_trial_01/character_reference.md",
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/trial_02/soma_character_reference.md",
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_05_trial_01/character_reference.md"
+    ]
+  },
+  "started_utc": "2026-09-06T18:51:00.734248+00:00",
+  "system_sha256": "4658f98a79db5aaf8715bceeed019312f56a9baeaf14cc2947d092f6340d25e3",
+  "user_sha256": "786f08d4aba33497e25cef72435d059fdd84e5e18621220206eee88a8b13a049",
+  "experiment_commit": "046801c077fb495bf84de026ce4dc0e3e6b4de97",
+  "backend_module": "/home/kostadis/src/CampaignGenerator/campaignlib/__init__.py",
+  "actual_identity": {
+    "backend": "codex-cli",
+    "model": "gpt-6-astra",
+    "model_source": "explicit",
+    "codex_reasoning_effort": "medium",
+    "codex_reasoning_effort_source": "cli",
+    "codex_reasoning_override": true
+  },
+  "changed_inputs": [],
+  "response_sha256": "108cf5c01af80571944b5920bfbfdaa0dd9caa5b8675823bfae02fafd99186b7",
+  "diagnostics": {
+    "baseline_words": 2311,
+    "edited_words": 2276,
+    "baseline_quote_spans": 79,
+    "edited_quote_spans": 79,
+    "outside_dialogue_identical": false,
+    "a_scope_pass": null,
+    "quote_sequence_similarity": 0.9493670886075949,
+    "consecutive_duplicate_quotes": []
+  },
+  "finished_utc": "2026-09-06T18:52:31.803277+00:00"
+}
