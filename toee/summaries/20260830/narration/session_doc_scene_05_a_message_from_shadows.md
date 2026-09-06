@@ -1,0 +1,131 @@
+---
+scene: 05
+slug: a_message_from_shadows
+narrator: Calmer
+scene_name: A Message from Shadows
+session: 20260830
+---
+
+The bronze crescent sconces burned low against the brown marble, and the black veins in the walls disappeared whenever I stopped looking directly at them. Somewhere below us, metal struck stone. The elemental war continued without requiring my supervision.
+
+For once.
+
+I settled into our quarters with a drink in hand, my armor near enough to reach and the Mace of Smiting nearer. These were our quarters. Our people held the corridors outside. Matters requiring judgment came to me, where they belonged, and I had appointed qualified officers to ensure that most of them arrived properly organized.
+
+“This is… I like being in charge.”
+
+I had barely allowed myself to enjoy the admission when a hooded man appeared in the room.
+
+There was no door, no warning, no footfall from the corridor. One moment I was resting within the secured command structure of the Earth Temple. The next, pale illusion-light stood among us wearing a hood.
+
+Sequoia looked straight at it. “Who the heck are you?”
+
+“Forgive the theatrics.”
+
+The man’s voice was precise and unhurried. Faint amusement touched it without ever becoming warmth.
+
+“I cannot be seen sending a runner, and you cannot afford to be seen receiving one.”
+
+“What’s a runner?” Sequoia asked.
+
+The hood turned toward him, as though this had been expected.
+
+“A runner is an agent of mine who would come and tell you what’s going on.”
+
+“Alright, what’s going on?”
+
+“The flattering man has already been to you. Golden eyes, soft hands, a great deal of wine. He gave you presents and asked you what you were short of.”
+
+Lucius Graeme. His gifts had entered our quarters under the ordinary protections of hospitality, which was a very pleasant term for allowing a stranger to inventory our needs.
+
+“Lucius Graeme. Write the name down. He collects the ones he gives you.”
+
+“The orb!” Sequoia said.
+
+“The orb this temple frets over, yes!”
+
+Falrinth. Barkinar had once judged the hidden wizard important enough to mention and dangerous enough to postpone. A man concealing himself from the Greater Temple had now placed his image inside my quarters without disturbing a lock, a guard, or any member of my security apparatus.
+
+I would need to discuss that with my Chief of Security.
+
+“I have it. I’m not giving it to Hedrack, nor to Senshock, nor to any of the holy gentlemen who would like me dead. I’m not giving it to you either, but that is a separate conversation.”
+
+“Oh, is this the orb that opens that big room?”
+
+The Orb of Golden Death. Romag had described what the complete artifact could do: summon monsters, break opposition, destroy nearly anything placed before it. Falrinth claimed to possess that power while hiding in rooms Barkinar could not find.
+
+“How did you get it?” Sequoia asked.
+
+“That is a conversation for another year.”
+
+“Part of the temple?”
+
+Falrinth gave him nothing more. If he had the orb, he was not using it openly. If he was hiding, he had still reached us. Neither fact improved the other.
+
+“Probably unleashes some eldritch monster behind the gate,” Sequoia said.
+
+Falrinth paused. His hood turned toward me.
+
+“The trinket your cleric carries. The scarab with the four letters.”
+
+I drew out the Black Scarab. T-Z-G-Y marked its surface. I had carried it through enemy halls and negotiations because it was useful, unidentified, and ours. Those had seemed sufficient safeguards until the moment Falrinth looked at it.
+
+“Yes. You should be far more careful with it than you have been. Lucius will know it on sight. Senshock will know it on sight. They will use it against you in different ways, and neither will tell you they notice. That is the sort of thing I see, and they have not. Yet.”
+
+The scarab sat cold against my palm.
+
+Lucius Graeme had already been here. He had looked at us, listened to what we lacked, and distributed his generosity accordingly. I could not remember whether the scarab had been visible. That uncertainty bothered me more than an accusation would have.
+
+“Right?” Sequoia said.
+
+“Lareth was a friend.”
+
+That landed cleanly.
+
+“I’m told you handled him with discretion, which I appreciate more than you would expect.”
+
+Discretion. An excellent managerial word for a dead man.
+
+“But there are other friends, and not all of them are as patient as I am.”
+
+The distant fighting below gave us a dull concussion through the floor. Dust loosened somewhere inside the black-veined marble. Falrinth did not react.
+
+“So, when the flattering man comes again — and he will — do not commit.”
+
+He paused.
+
+“Stall.”
+
+“A candle in the West will reach me. Or don’t — report me to Barkinar, he’ll believe you. I will simply not be where you tell him I am, but you will have made your choice.”
+
+“Okay,” Zephyr said.
+
+Falrinth had offered us a reporting option that accomplished nothing except declaring allegiance. Very orderly. I disliked him slightly less for that.
+
+His image had already begun to thin when he continued.
+
+“One more thing, since you’ll hold these wretched halls now. There is a room below. Deep, forgotten, on the level beneath your feet.”
+
+Since we would hold these halls.
+
+The words should have sounded presumptuous. Instead, they sounded accurate.
+
+“The holy gentleman keeps something in it. A sleeper. My leash is short, and the gates are watched. But you — you have keys I never did. If you ever want Verbobonc and all its banners to come down on this temple — and oh, they would come for this — wake what sleeps in the iron coffin.”
+
+The floor beneath my boots ceased to feel like property.
+
+An iron coffin lay somewhere below my command, sealed in a forgotten room and guarded by powers Falrinth would not name plainly. Whatever slept there was enough to bring Verbobonc in arms. We had been drinking above it.
+
+“Ask your golden friend what he’s so afraid you’ll find. Then signal me.”
+
+“Downstairs, the— like, the Deep Temple?” Zephyr asked.
+
+Falrinth did not answer. His image was already dissolving, and I understood too late that it had never answered any of us. The pauses, the turns of the hood, the replies to Sequoia—Falrinth had anticipated them all. He had delivered a message into my secured quarters and made prediction look like conversation.
+
+Then he was gone.
+
+The Black Scarab remained in my hand. Beneath my feet, something remained in its coffin. And somewhere in the Temple, or outside it, or wherever a wizard with the Orb of Golden Death chose to hide, Falrinth waited for us to decide whether we were reporting to Barkinar, bargaining with Lucius Graeme, or waking the thing under our own halls.
+
+I put the scarab away much more carefully than I had taken it out.
+
+<!-- table-speech reclassified: "Alright, okie dokie. So, let's see. Okay, so you decide to go to sleep." | "In your area, in your temple." | "Alright, as you're sort of sitting there, drinking, chillaxing." | "Kind of enjoying the evening." | "An illusory image of a hooded man appears." | "Yeah. You've met Lucius — he's the guy who showed up with all of the gifts." | "Yes, the Orb of Golden Death." | "Whoever this guy is, he's got a very powerful artifact that people are interested in." | "So what you heard from Barkinar was, there's this guy called Falrinth." | "He's a wizard. He's hiding from the Greater Temple." | "And Barkinar considered him worth mentioning." | "Felt that this guy was worth talking about, but all he said is, we could talk about Falrinth later." | "So now you know why he wanted to talk to him about it — because what you knew from Romag is that this artifact" | "could give whoever has it considerable power." | "Which is kind of interesting. If he has it, why isn't he using it, right? So that's kind of an interesting corner. Why does Falrinth have this artifact?" | "And is he hiding, right?" | "And then you realize that this has been a one-way conversation, and he had predicted some of your questions, right?" | "And it fades away." | "The Orb of Golden Death. Either Falrinth has this thing and he's lying — he's either lying, or he has it." | "What you learned from Romag is that it's a very powerful artifact, that if you had it in full possession, you could summon monsters and destroy anything." | "You've also learned that there is something deep, forgotten, on the level beneath your feet that Verbobonc would want." -->

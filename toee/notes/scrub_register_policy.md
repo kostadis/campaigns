@@ -69,6 +69,34 @@ Settled sub-rulings for this campaign:
 - Whether to cut category-2 GM world-building exposition has **not** arisen in this campaign yet and
   is not settled.
 
+## 3b. Narration register — what /scrub must NOT strip
+
+*(GM rulings, `/scrub` on 20260830. Standing.)*
+
+**The modern administrative register is the campaign's premise, not its residue.** Do not propose
+it again. `supply chain`, `logistics`, `inventory control`, `procurement`, `operating costs`,
+`org chart`, `security apparatus`, `meal plan`, `government`, `managerial` — all in canon, all
+grounded in the voice files: `calmer_voice.md` §The Org Chart (he runs the temple through titles),
+`zephyr_voice.md` §accounting vocabulary (the Tiefling tax, the ledger), and `_genre.md`
+§cover-identity drift. Ruled once as a policy rather than span by span, after 9 spans across 5
+scenes.
+
+**`friendly neighborhood necromancer` is KEPT.** A Spider-Man echo, and it sits in narrator prose
+rather than dialogue — but it is the GM's own phrase off the tape and reads as Zephyr's dryness.
+
+**Dren's supply figures are in-fiction, not mechanics.** "The Minotaur has food for 3 days. The
+men have pay for 4." Numbers in a quartermaster's report are logistics, and logistics is the
+campaign's subject.
+
+**What /scrub SHOULD still catch here:** dice talk rendered as dialogue, and a player announcing
+an action out of character ("In the classic fashion, I look at the ceiling…"). Both occurred this
+session and both were scrubbed.
+
+**A KEEP ruling at the extraction layer is not a ruling about prose.** `/no-mech` kept Sequoia's
+dice meltdown because the beat is about his intelligent sword; fable then rendered it literally as
+a player reading damage totals aloud. The second decision — *how it reads* — belongs to `/scrub`
+and had to be made separately. Expect this pairing again whenever `/no-mech` keeps table speech.
+
 ## 4. Two campaign-specific traps for these skills
 
 **The NPC-label triage signal is permanently dead here.** toee's extractor never breaks NPCs into
@@ -80,3 +108,10 @@ regardless of content. **Classify on the italic stage direction instead.**
 `config/players.yaml` gained `gm: true`, every one of his lines carries the GM label — including
 Calmer's. A PC's entire performance sits under `*as Calmer,*` directions inside GM-labelled blocks.
 Never cut on the `GM` label alone.
+
+**`--party-md` loads zero player names from this campaign's roster.** `find_residue.py`'s
+`load_player_names` matches a literal `Player:` prefix, but `docs/party.md` writes
+`**Player:** Kostadis Roussos` and the `**` defeats the regex. `player_name` detection is
+therefore inactive for every `/scrub` run here until either the roster format or the parser
+changes. Census real-world names by hand instead — `notes/vtt_transcription_corrections.md`
+carries the four.
