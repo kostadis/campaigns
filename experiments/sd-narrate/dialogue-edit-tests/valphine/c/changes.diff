@@ -1,0 +1,109 @@
+--- baseline
++++ approach_c
+@@ -1,6 +1,6 @@
+ ### Valphine Sotorra
+ 
+-The steps descend toward the sewer grille in shallow, aqueduct-like courses, wet stone offering very little purchase and the darkness below offering considerably more concealment. I watch the approach, the ledge beside the opening, and the two men carrying crates; a delivery has at least three useful parts, the goods, the labor, and the person who knows where the goods are meant to go. We have yet to distinguish the last two.
++The steps descend toward the sewer grille in shallow, aqueduct-like courses, wet stone offering very little purchase and the darkness below offering considerably more concealment. I watch the approach, the ledge beside the opening, and the two men carrying crates; a delivery has at least three useful parts: the goods, the labor, and the person who knows where the goods are meant to go. We have yet to distinguish the last two.
+ 
+ Vukradin has already offered his services.
+ 
+@@ -20,11 +20,11 @@
+ 
+ The carriers bring their loads down.
+ 
+-“All 9 of them?” Soma asks.
++“All nine of them?” Soma asks.
+ 
+ All nine. Eight accumulate together beside the grille, and on those eight I can see no official Commission Harbor mark. Whatever journey brought them into Neverwinter has omitted the authorities’ preferred opportunities to inspect, record, and collect. The absence is consistent with what we already know; the arrangement interests me more.
+ 
+-“So we want one person to track down the gnome, right? Crate 9,” Vukradin says. “We also want to track the people who dropped them. So we want to do two things.”
++“So we want one person to track down the gnome, right? Crate nine,” Vukradin says. “We also want to track the people who dropped them. So we want to do two things.”
+ 
+ “What, you said you got your high stealth.”
+ 
+@@ -50,11 +50,11 @@
+ 
+ Vukradin works through the division again, giving each part its own sentence.
+ 
+-“So, look, the… The crates got dropped off. Lim's gonna come out and take 8 of the crates.”
++“So, look, the… The crates got dropped off. Lim's gonna come out and take eight of the crates.”
+ 
+ “Right.”
+ 
+-“And she's not gonna take a 9th crate.”
++“And she's not gonna take a ninth crate.”
+ 
+ The isolated box rests on its ledge while the carriers finish. Neither has any apparent intention of waiting beside it.
+ 
+@@ -74,7 +74,7 @@
+ 
+ “So if they split up, that's gonna make them hard to follow,” Vukradin says. “You're gonna have to choose one or split again.”
+ 
+-The man at the ledge is my choice, though I examine the conclusion before trusting it. Handling the exceptional crate does not necessarily make him senior; an instructed servant can perform a special errand without understanding it. At first the evidence gives me only that much. Then I hold his pause against his companion’s uninterrupted stacking, letting the last encouragement Vukradin has left me steady my attention.
++The man at the ledge is my choice, though I examine the conclusion before trusting it. Handling the exceptional crate does not necessarily make him senior; an instructed servant can perform a special errand without understanding it. At first the evidence gives me only that much. Then I hold his pause against his companion’s uninterrupted stacking, letting Vukradin’s last encouragement steady my attention.
+ 
+ One man completes a physical task. The other checks for its continuation.
+ 
+@@ -90,7 +90,7 @@
+ 
+ I am surprised. I had allowed for a collector, including the gnome Vukradin expects; what appears is cat-sized, brass and leather, quick in its movements without displaying any haste. It takes the crate and goes back down. There is no examination of the other eight, no search for a mark, no hesitation over which object belongs to it.
+ 
+-The carrier’s downward glance acquires a more precise meaning. He has been checking for an expected collection, and the thing collecting needs neither greeting nor payment here. Whether he knows who instructs it remains unanswered.
++The carrier’s downward glance acquires a more precise meaning. He was checking for an expected collection, and the thing collecting needs neither greeting nor payment here. Whether he knows who instructs it remains unanswered.
+ 
+ “Okay, Vukradin will pursue stealthily.”
+ 
+@@ -100,11 +100,11 @@
+ 
+ “One person in the sewers? Alright.”
+ 
+-The objection is almost exactly the one he raises himself a short while ago. Apparently the appearance of something sufficiently interesting has altered the acceptable number of companions.
++The objection is almost exactly the one he raised himself a short while ago. Apparently the appearance of something sufficiently interesting has altered the acceptable number of companions.
+ 
+ “Tell me the odds,” Soma says.
+ 
+-“Only a 1 in 400 chance of disaster. It'll be fine.”
++“Only a one in four hundred chance of disaster. It'll be fine.”
+ 
+ A remarkably specific confidence. His boots can suppress the sound of his approach; I see no reason to assign them authority over everything he may approach.
+ 
+@@ -142,13 +142,9 @@
+ 
+ “He's just eating alone. He isn't talking to anybody.”
+ 
+-That is the difficulty. We have chosen the carrier who appears to know more, but knowing more does not oblige him to demonstrate it between mouthfuls. We could approach. We could ask. Either would make our interest part of his morning, and from that moment every subsequent choice might be made for our benefit.
++We have chosen the carrier who appears to know more, but knowing more does not oblige him to demonstrate it between mouthfuls. We could approach. We could ask. Either would make our interest part of his morning, and from that moment every subsequent choice might be made for our benefit.
+ 
+-“Remember, we promised Lim we're not gonna spook her connections,” Vukradin reminds Soma through the stone.
+-
+-Then he refines the ownership of the obligation.
+-
+-“Or you promised them.”
++“Remember, we promised Lim we're not gonna spook her connections,” Vukradin reminds Soma through the stone, then refines the ownership of the obligation. “Or you promised them.”
+ 
+ “Thank you so much.”
+ 
+@@ -168,7 +164,7 @@
+ 
+ The stone supplies his voice without the tunnel around it. I cannot inspect what he has encountered, cannot see the construct, cannot even judge his position from the sound. His account gives us a sudden disinterest in the route, an overwhelming conviction that continuing along it is boring and not worth his time.
+ 
+-“turn into Brewbarry,” Soma says.
++“Turn into Brewbarry,” Soma says.
+ 
+ “A passive confusion effect. Alright, awesome.”
+ 
+@@ -178,10 +174,10 @@
+ 
+ Then: “This is, like, an area effect.”
+ 
+-That is his assessment from below. From here I have a carrier eating breakfast and a bard explaining why the passage he enters in pursuit of a construct has ceased to merit pursuit. I have no basis for naming a spell.
++That is his assessment from below. From here I have a carrier eating breakfast and a bard explaining why the passage he entered in pursuit of a construct has ceased to merit pursuit. I have no basis for naming a spell.
+ 
+-What becomes clear is that he remembers why he goes underground. He remembers where he is. The purpose survives; the willingness to follow this particular tunnel does not. He decides it is the wrong way to go and turns away from the construct’s trail.
++What becomes clear is that he remembers why he went underground. He remembers where he is. The purpose survives; the willingness to follow this particular tunnel does not. He decides it is the wrong way to go and turns away from the construct’s trail.
+ 
+ Through the stone comes his final acknowledgment.
+ 
+-“Okay.”
++“Okay.”

@@ -1,0 +1,223 @@
+---
+scene: 03
+slug: lost_among_unexpected_fans
+narrator: Vukradin
+scene_name: Lost Among Unexpected Fans
+session: 20260902
+---
+
+### Vukradin
+
+I remember the crate. I remember that I am following it. But the passage I mean to take no longer seems worth taking, and although I cannot supply a reason for this, my feet accept it. There are other tunnels. I take one.
+
+For a little while, this feels entirely sufficient.
+
+Then I look around for my friends.
+
+I am alone in a section of sewer I do not recognize, with no clear idea of which turn has brought me here, and the purpose that ought to carry me back still refuses to become interesting. I can recall it. I simply cannot make myself care about pursuing it. That is a very strange distinction to be making underground.
+
+A man stands ahead of several others. He looks past me, then at me.
+
+“How the hell did you get over here?”
+
+“I don't know.” I look back along the tunnel. It supplies no assistance. “Where am I?”
+
+He keeps looking at me. I attempt a more complete explanation.
+
+“Because I'm not over there.”
+
+I cannot tell what these men want, or what they make of me, beyond the evident difficulty my arrival is causing their leader. He does not seem angry. Confused, certainly. We have that in common.
+
+“But I don't know what I'm doing here.”
+
+There is a distinction between being lost and explaining why I am in the sewers at all. I stay on the useful side of it.
+
+“Yeah, there you go. I'm lost. I don't know what… I don't know how I got here, I just…”
+
+His scrutiny eases enough for me to continue.
+
+“Yeah. Wrong turn. Should have taken that left at Albuquerque.”
+
+He licks his finger. I have no idea what this contributes.
+
+“Well, this is my territory.”
+
+“This is your territory.”
+
+“Yes, this is my territory. Wow.”
+
+“Okay. Did you want me to go?”
+
+“I'd want to know why you're in my territory.”
+
+We have reached the same question from several directions, which is more than I can say for my intended destination. Still, there is no reason we cannot resolve this. He wishes to understand why I am here. I wish to be somewhere I understand.
+
+“Oh, I'm sorry that I got lost. I'm happy to leave. Could you point me in the direction of Lim's? Cafe, that's… that's where I want to be headed.”
+
+“Lim's Cafe?”
+
+“Yeah.”
+
+“Huh.”
+
+“We're friends.”
+
+This does not reassure him as much as I expect.
+
+“That's interesting. Why are you…”
+
+He stops. His attention sharpens, and I find myself being examined again, more closely now. Apparently friendship with Lim requires an explanation of its own. I wait for the rest of the question.
+
+Instead, he asks, “Are you that singer?”
+
+“Exactly. And Lim's a fan.”
+
+“What are you doing down here, man?”
+
+“I told you, I got lost!”
+
+“Vukradin… you're Vukradin, right?”
+
+One of the men beside him is smiling. Really smiling, with none of his leader’s uncertainty about whether I ought to be here.
+
+“This is… is this really Vukradin?”
+
+There we are. A face I can understand. I have no idea where I am, but somebody is happy I have arrived, and that gives us considerably more to work with than territory.
+
+“Do you guys want autographs?”
+
+They would love some autographs.
+
+“Sure, we can do some autographs, but then I gotta be going.”
+
+“Sure… Maybe you can…”
+
+“Point me in the right direction.”
+
+“You know what, we're gonna do one better, we're gonna take you there.”
+
+“Alright, sounds good.”
+
+“We don't want you to get lost again, Mr. Vukradin.”
+
+“Yeah, exactly.”
+
+The men behind him are no longer merely a group occupying the passage. They are people waiting for signatures, and the man who demands to know how I got into his territory has offered to conduct me out of it personally. I am pleased. A few more words and we have a workable arrangement.
+
+“Lim will be thrilled.”
+
+Their leader pauses.
+
+“It's very dangerous down here.”
+
+“Is it?”
+
+“Yeah, it's, it's, it's,” he begins.
+
+“Yeah, it's dangerous in your territory?” I look along the passage he is offering to guide me through. “I would think you'd keep it very safe. You seem like a safe individual. I'm sure you keep the place shipshape.”
+
+“Mr. Vukradin, I agree with you.”
+
+Good. We agree on the desirable condition of the tunnels.
+
+“But I have to tell you why I was out here. I was concerned when I saw you, and I'm very glad I recognized you. One of my guys tells me you have a deal with a friend of mine.”
+
+“At the Common Chord?”
+
+“No, no, at the Toe mine.”
+
+“Mountain's Toe Mine. Oh, yeah…”
+
+“Zeleen…”
+
+“Oh, I didn't know you knew him.”
+
+Zeleen Varnaster. Of all the connections I expect to make while lost beneath Neverwinter, our business at Mountain’s Toe Gold Mine is not high on the list. But here it is, connecting this man and his associates to something I actually know.
+
+“Yeah, we spent some time in Phandalin, yeah, yeah.”
+
+“Yeah, he said that he had a business relationship with you, I said that he was full of shit.”
+
+“No, no, that's true, that's true. Yeah, they haven't produced very much yet, but they say they're working hard.”
+
+He laughs.
+
+“That's how I feel about it, too.”
+
+He laughs again. I am glad somebody can appreciate the distinction between a business relationship and a business that produces money. The studio requires the latter, eventually. I remain interested in seeing the mine progress to that stage.
+
+“Look, I manage the tunnels here,” he says, still laughing.
+
+“Oh, you're the tunnel manager.”
+
+“Yeah, a tunnel manager.”
+
+“So this is your territory, and you have all the tunnels.”
+
+“Not all the tunnels, but the tunnels in this area.”
+
+“The tunnels in this area, interesting, okay.”
+
+This makes Rsolk’s concern easier to follow. He has a defined area to manage, I have appeared inside it without knowing how, and he has dangers to account for besides wandering musicians. I let him explain.
+
+“Two months ago, things started coming up the floodline.”
+
+“Floodline.”
+
+He describes a tunnel that floods regularly. I listen, trying to attach the description to the passages around us without pretending I understand the arrangement of water beneath a city.
+
+“I don't know anything about tunnels, man, I'm a musician.”
+
+“I've been having this problem with the tunnels. I've lost men, so we don't go there anymore.”
+
+The laughter is finished.
+
+I look at the men standing behind him. There are people missing from this group because something comes up a flooded tunnel, and the solution available to the survivors is to stop going there. Rsolk has just offered to keep me from wandering into danger. If my friends and I can remove that danger, we ought to discuss it, particularly if there is paid work involved, because helping people and building a music studio should be able to occupy the same conversation.
+
+“Do you need help with that? My friends and I have some abilities, and we're looking for ways to make money. Maybe we can help you.”
+
+He takes to the offer immediately. There is no need to persuade him that the problem deserves attention. He has lost men to it.
+
+“One of the guys who escaped said there was some kind of creature they'd never seen before.”
+
+“Oh.”
+
+“It looked like…”
+
+“Creature stuff.”
+
+This is much more within our abilities than tunnel management. I wait for the description.
+
+“It looked like a spider, but it had all the wrong colors.”
+
+“Okay.”
+
+The webs are wrong too. As Rsolk passes on the survivor’s account, I remember webbing we have encountered before, the visible wrongness of it, the sense that what I am looking at does not belong. A spider is one thing. We have experience with something that resembles a spider and leaves that sort of web behind.
+
+I do not have enough to name what is in his tunnel. I have enough to take the account seriously.
+
+“Yeah, we have experience with that.”
+
+There is the beginning of an actual job here: a place to investigate, a danger somebody needs removed, and people who can tell us how to find it. No payment has been named. I am ready to discuss what clearing the passage might be worth when Rsolk returns to another concern.
+
+“Mr. Vukradin, I know this is too much to ask, but could you get me some tickets to the Common Chord?”
+
+“I can ask.”
+
+I want to help him. He has been very accommodating since we established who I am, and his associate’s smile is still an excellent reason to put a little effort into making this happen. But wanting tickets and being able to provide them are separate matters. I should be precise before my agreement becomes a promise I cannot keep.
+
+“we have kind of an arm's length relationship with the Common Chord, but I will ask for you.”
+
+“That's all I could ask for.”
+
+Done.
+
+“Alright, let's do some autographs, and then we gotta be on our way.”
+
+I sign for them. There is time to do this properly, even underground, even with my route missing and my friends elsewhere. The men who first stand behind Rsolk while he questions me now come forward for their autographs, and I give each signature the attention it deserves.
+
+Then they escort me back through the tunnels. I leave the choice of turns to the people who manage them. Rsolk makes sure I have enough information to find him again and return to the matter of the flooded passage.
+
+As we approach ground I recognize, I can at least place myself again. I have directions, an undertaking to ask about tickets, and a possible way to earn money for the studio by clearing something unnatural out of people’s lives. The pursuit that brings me down here still has that inexplicable lack of pull. I cannot account for it.
+
+I keep close to my guides.

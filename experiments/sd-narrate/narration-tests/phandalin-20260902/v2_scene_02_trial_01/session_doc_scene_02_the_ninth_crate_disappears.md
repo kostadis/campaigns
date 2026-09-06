@@ -1,0 +1,123 @@
+---
+scene: 02
+slug: the_ninth_crate_disappears
+narrator: Valphine Sotorra
+scene_name: The Ninth Crate Disappears
+session: 20260902
+---
+
+### Valphine Sotorra
+
+The steps descend toward the sewer grille in shallow, aqueduct-like courses, wet stone offering very little purchase and the darkness below offering rather more concealment than I would prefer to leave entirely to our quarry. Two carriers bring down the crates. From where we watch, the work is visible; its authority is less so. Eight of the boxes lack the Commission Harbor mark, which tells us something about how they entered Neverwinter, although nothing yet about whose protection made the omission profitable.
+
+Vukradin has already offered himself for whatever requires silence.
+
+“I have a very high stealth, if we need me to…”
+
+“I mean, you could tag along with a familiar…” Soma suggests.
+
+His Boots of Elvenkind make him the sensible choice. The rest of us possess other virtues, few of which recommend us for following someone down wet steps without announcing our interest. Soma casts *Find Familiar*, and a rat supplies a smaller alternative, one through whose eyes and ears she can perceive so long as it remains within a hundred feet. A useful reach for watching a delivery. A rather limited one for discovering where the delivery goes.
+
+The carriers lower their burdens beside the grille.
+
+“All 9 of them?” Soma asks.
+
+Nine. I count them as they are deposited, watching the disposition of the boxes as closely as the men who carry them. Eight belong together. The ninth requires separate attention.
+
+“So we want one person to track down the gnome, right? Crate 9,” Vukradin says. “We also want to track the people who dropped them. So we want to do two things.”
+
+Soma’s interest is less evenly distributed.
+
+“Well, I'm tracking the crate.”
+
+“Which crate?”
+
+“The ninth crate, the one that doesn't go into Lim, because I'm more concerned about my friend's shady business.”
+
+Friendship does complicate an investigation, although in this case it has the useful effect of keeping Soma attentive to the portion of the business Lim does not receive. Eight crates constitute an arrangement. The ninth may explain who else benefits from it.
+
+“Okay, so you want me to follow them back into the sewers?” Vukradin asks. “That seems pretty dangerous. One party member in the sewers.”
+
+“I see. Alright, we can send the rat that way, then. You can follow the crate.”
+
+For the moment, there is no crate to follow. There are boxes being left for collection and two men whose work is almost finished. One stacks the eight together. The other puts the ninth on a ledge, then pauses and looks down into the dark.
+
+I watch that pause.
+
+He appears to be checking for something below, and the distinction matters: the placement of the box tells him where his responsibility ends, but his glance suggests an interest in what happens after it leaves his hands. Then he walks away.
+
+“The rat's gonna go whichever way leads to the sewer,” Soma says.
+
+Vukradin makes his intended position clear. He will remain here, wait for whoever collects the ninth crate, and follow the collector.
+
+“So everyone other than Vukradin is gonna trail these guys, and Vukradin's gonna trail the crate,” I say. “Is that right?”
+
+They agree. An adequate division, provided the men remain together.
+
+They do not.
+
+The carriers depart in different directions, conspicuously declining to acknowledge each other. Their work has just placed them side by side with nine crates; now they act as though acquaintance would be an unreasonable accusation.
+
+“That nonchalant whistling,” Soma says.
+
+I appreciate the diagnosis. Their studied independence attracts more attention than a farewell would have done, although whether it reflects instructions, habit, or their own estimation of subtlety remains uncertain.
+
+“So if they split up, that's gonna make them hard to follow,” Vukradin says. “You're gonna have to choose one or split again.”
+
+I return to the glance into the sewer. At first I cannot confidently distinguish seniority from a difference in assigned labor. A man may know where a box goes without having any authority over the man who stacks the others. Vukradin’s earlier encouragement steadies my concentration, and I separate the question we need answered from the more ornamental question of rank.
+
+The man at the ledge is the better choice. Whatever his standing, he has shown an interest in the next participant. The other has shown us how to stack boxes.
+
+“I'd follow the guy who paid attention to the ledge,” Soma says. “He knows something. He knows something's coming out of that thing.”
+
+That is also my reading, with the small reservation that expectation is not yet knowledge. We have enough to choose our man.
+
+“I could handle this myself, guys, you don't trust me?”
+
+Before the matter can acquire the weight of a personal grievance, something emerges from below.
+
+It is not a gnome.
+
+I am surprised. I had allowed the anticipated collector to remain a person in my calculations; what comes up to the ledge is a small construct, cat-sized, brass and leather arranged into a quick, purposeful body. Its movements have the economy of instructions being fulfilled. It takes the ninth crate and returns beneath the grille.
+
+For a moment, brass, leather, and the separate ledge explain one another. The carrier was looking toward the point from which this thing would come. They do not explain who sent it.
+
+Vukradin moves to pursue.
+
+“This is my concern,” Soma says. “Vukradin ends up going into the sewers now, and…”
+
+“I'll be fine.”
+
+“One person in the sewers? Alright.”
+
+The same objection sounded quite reasonable when he raised it himself. The arrival of something worth following has apparently revised his assessment.
+
+“Tell me the odds,” Soma says.
+
+“Only a 1 in 400 chance of disaster. It'll be fine.”
+
+I would prefer to know how many forms of disaster his calculation includes. Silent boots address the noise of his passage; they do not make the passage known to us. Still, the construct is leaving, and the man who expected it is leaving by another route. We cannot preserve both opportunities by remaining on the steps.
+
+Vukradin goes below. Soma, Brewbarry, and I take the carrier.
+
+Soma and Vukradin have the paired Sending Stones, so the division does not entirely sever our means of communication. It does, however, leave stone and distance between the bard and the people who could intervene on his behalf. I keep my attention on the man ahead. There is little utility in accepting a separation and then allowing concern over one pursuit to spoil the other.
+
+Our carrier stops at a cook shop.
+
+At the fourth hour, the choice is a narrow one; few places are open, and this one offers him breakfast. He sits alone and eats with apparent satisfaction. The distinction between the man who checked a dark sewer for a collector and the man enjoying his meal is chiefly a change of occupation. I watch for what the meal may interrupt or precede.
+
+Soma has a more immediate concern.
+
+“He's not eating turtle soup or anything at this hour, is he?”
+
+We remain outside his breakfast. The shop is not the Board Laid Bare, and whatever connection brought his crates to Lim has not brought him to her table. Here he is simply eating alone.
+
+We could approach him. We could turn his comfortable pause into a very different interval, and perhaps obtain an answer before the food cooled. But we promised Lim not to spook her connections, and a frightened intermediary could close several routes while opening only his mouth.
+
+Soma reaches the same practical conclusion.
+
+“I'm not trying to put her out of business. I want to see where he goes next. Stopping for a snack doesn't tell us anything, and spooking him doesn't seem kosher.”
+
+So we wait.
+
+Brewbarry remains with us, the carrier has his breakfast, and the ninth crate is beyond my sight beneath the city. Our chosen man may yet lead us somewhere useful. For now, I give him the time to finish eating.
