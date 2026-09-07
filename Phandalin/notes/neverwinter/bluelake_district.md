@@ -32,9 +32,21 @@ Run by **Hazel** — short female human, amber eyes, light brown curly hair to h
 ---
 
 ### House of a Thousand Faces
+**Read before running the Harpers:** [Harper doctrine — freedom and the power to control](harper_doctrine.md), preserving the GM's 2026-09-07 rulings and their application to the current session.
+
 A comfortable tavern built in a former boutique clothing store for nobles. The interior is still full of mirrors and mannequins displaying antiquated fashions — their many reflections give the tavern its name. Features lush couches where citizens sit and converse.
 
 **The basement** is the secret meeting place for Neverwinter's **Harper** chapter. The local chapter has a complicated reputation: a high-ranking Harper was caught acting as a double-agent between Lord Neverember and the Sons of Alagondar.
+
+**Campaign doctrine — GM ruling, 2026-09-07:** The Harpers are not a “good” faction. Their objective is to prevent any single dominant power in the North and thwart centralization. They regard concentrated state power as dangerous. Their motivation is freedom, which can align them with good causes; that does not make benevolent government, charitable relief, or the victory of a favored ruler their governing objective. This reaffirms `docs/world_state.md`'s earlier decentralized-power doctrine.
+
+**Clarification — GM ruling, 2026-09-07:** Their greatest concern is **centralized, diffuse power**: centrally directed power with distributed capacity to control, exemplified by armies. “Diffuse” here describes the reach and organization of enforcement, not independent centers of political authority. **Interpretation for play:** one command can maintain garrisons, hold routes and enforce decisions across a population. Adventurers' concentrated ability to overcome a particular obstacle differs from an army's capacity to sustain control afterward. This does not give adventurers blanket Harper approval; assess what lasting control their actions enable. It does not add an equal factional objection to decentralized authority or independent adventurers merely because they are powerful.
+
+**Application to the current operation — GM interpretation/prep:** Lim's cheap food provides an alternative to concentrated control of supply; the protected smuggling route permits trade outside official control; Bimble's testimony could give them leverage against the Commission. A replacement monopoly or stronger central state would frustrate their purpose even if its leader were sympathetic. Particular tactics and moral limits remain NPC/GM decisions, not consequences automatically licensed by the doctrine. See [the current Harper scene](../session_prep/20260907_chapter_51_we_re_famous_why_are_we_famous_harpers.md).
+
+**Zhentarim opposition — GM ruling, 2026-09-07:** The Harpers hate the Zhentarim because they seek diffuse power through economic control concentrated in a few hands. Opposition to state control does not make the two factions allies: private economic domination can create the same sustained control across communities. See [the standing doctrine](harper_doctrine.md).
+
+**Lim and Soma — GM rulings, 2026-09-07:** Soma began the adventure as a naturalist and is now an interventionist. The Harpers dislike naturalists because they regard nature as the ultimate diffuse power and its worship as worship of that power; they naturally align with interventionists. Lim's negative reaction reflects her outdated understanding of Soma's earlier outlook. The development has already happened in Soma; the conversation can reveal it to Lim. See [the standing doctrine](harper_doctrine.md). The timing of Soma's change and deliberate clue-giving about the ninth crate remain separate questions.
 
 ---
 
