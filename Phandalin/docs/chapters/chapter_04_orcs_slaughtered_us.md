@@ -17,9 +17,7 @@ Vukradin goes first.
 
 Soma peers into the fog. "For what it's worth, we can barely see the orcs. We can see maybe two of them. The rest are kind of up here in the fog of war."
 
-"I'm going first. This is very bad for the party, that I'm going first. I would like to parlay with the orcs."
-
-"Sadly, yes."
+"I'm going first. I would like to parlay with the orcs."
 
 Soma watches him walk uphill.
 

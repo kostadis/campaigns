@@ -1,11 +1,11 @@
-# Campaign Calendar — Taraskh 1495 DR
+# Campaign Calendar — Tarsakh 1495 DR
 *Reconstructed from chapter headers (1-19) and estimated (20-35). Precision is approximate.*
 
 ---
 
 ## Calendar System
 
-Forgotten Realms: Taraskh is the 5th month (roughly May). Each month = 30 days = 3 tendays of 10 days each.
+Forgotten Realms: Tarsakh is the 4th month (roughly April). Each month = 30 days = 3 tendays of 10 days each.
 
 Date format: **DD-Tenday** (e.g. 4-02 = day 4 of tenday 2 = absolute day 14)
 
@@ -87,9 +87,9 @@ Date format: **DD-Tenday** (e.g. 4-02 = day 4 of tenday 2 = absolute day 14)
 
 ## Current Date
 
-**~7 of Mirtul 1495 DR** (first tenday of the 6th month, ±3 days)
+**~7 of Mirtul 1495 DR** (first tenday of the 5th month, ±3 days)
 
-The campaign has crossed the month boundary from Taraskh into Mirtul. The party has been active for roughly 5 weeks of in-game time across 35 sessions.
+The campaign has crossed the month boundary from Tarsakh into Mirtul. The party has been active for roughly 5 weeks of in-game time across 35 sessions.
 
 ---
 

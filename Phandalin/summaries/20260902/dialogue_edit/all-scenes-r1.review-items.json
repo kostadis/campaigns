@@ -1,0 +1,136 @@
+{
+  "title": "Dialogue Edit — 2026-09-02 — All Scenes",
+  "reviewId": "dialogue-edit:20260902:all-scenes:r1",
+  "outputName": "dialogue_edit_all_scenes_decisions.json",
+  "eyebrow": "Phandalin / Session 2026-09-02 / dialogue edit",
+  "lede": "Rule on each of 18 exact dialogue proposals across the five selected narration scenes.",
+  "footer": "No narration edits have been applied. Scene 2 was reviewed with no supported changes proposed; unresolved transcript fragments remain unchanged.",
+  "items": [
+    {
+      "id": "s01-01",
+      "t": "Scene 1 — Patrons of the Chord / s01-01: Complete Valphine&#x27;s question with the single word established by the reviewed extraction&#x27;s intent label.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:61</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“I&#x27;m sorry, I lost track. What… What do I?”</pre><p>After</p><pre>“I&#x27;m sorry, I lost track. What… What do I know?”</pre><p>Surrounding draft</p><pre>“It&#x27;s a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.”\n\nValphine looks up. “I&#x27;m sorry, I lost track. What… What do I?”\n\n“Lord NeverEmber. Lord Never Flaming.” I remind her of the important part. “new drow advisor that we will.”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:113</code></p><pre>&quot;I&#x27;m sorry, I lost track. What… What do I?&quot;</pre>"
+    },
+    {
+      "id": "s01-02",
+      "t": "Scene 1 — Patrons of the Chord / s01-02: Remove an unsupported trailing conjunction after the complete request while preserving Vukradin&#x27;s upbeat cadence.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:297</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“That&#x27;s great. Well, let&#x27;s add them to the program notes, and”</pre><p>After</p><pre>“That&#x27;s great. Well, let&#x27;s add them to the program notes.”</pre><p>Surrounding draft</p><pre>They belong in the annual credits.\n\n“That&#x27;s great. Well, let&#x27;s add them to the program notes, and”\n\nTheir names are written down.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:517</code></p><pre>&quot;That&#x27;s great. Well, let&#x27;s add them to the program notes, and&quot;</pre>"
+    },
+    {
+      "id": "s01-03",
+      "t": "Scene 1 — Patrons of the Chord / s01-03: Keep Vukradin&#x27;s repeated question and remove only the unrecoverable trailing fragment; the next beat confirms the refund question.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:329</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Did you come? Did you come? Did I give you your money back at the end of.”</pre><p>After</p><pre>“Did you come? Did you come? Did I give you your money back?”</pre><p>Surrounding draft</p><pre>“Yeah.”\n\n“Did you come? Did you come? Did I give you your money back at the end of.”\n\nHe confirms that he did, and that I promised refunds to anyone who did not rate the performance ten out of ten. This was an honest policy. If an audience does not enjoy a performance, the artist should not hide behind prestige and insist that their disappointment is a failure of sophistication.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:577</code></p><pre>&quot;Did you come? Did you come? Did I give you your money back at the end of.&quot;</pre>"
+    },
+    {
+      "id": "s01-04",
+      "t": "Scene 1 — Patrons of the Chord / s01-04: Trim a garbled false start while retaining Old Hesp&#x27;s mixed criticism and respect, then land on the table he points out in the next sentence.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:347</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her, she&#x27;s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.”</pre><p>After</p><pre>“It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her. I mean, I remember the Brewbarry table.”</pre><p>Surrounding draft</p><pre>“Yeah, yeah, I agree.”\n\n“It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her, she&#x27;s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.”\n\nHe points toward Brewbarry’s table.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:604</code></p><pre>&quot;It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her, she&#x27;s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.&quot;</pre>"
+    },
+    {
+      "id": "s01-05",
+      "t": "Scene 1 — Patrons of the Chord / s01-05: Remove the false start and clarify the parallel list without changing Old Hesp&#x27;s comparison to the old table.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:351</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Was, you know, that was not leather and shiny and with a plaque.”</pre><p>After</p><pre>“That was not leather and shiny and covered with a plaque.”</pre><p>Surrounding draft</p><pre>He points toward Brewbarry’s table.\n\n“Was, you know, that was not leather and shiny and with a plaque.”\n\nHe remembers when the Common Chord did not serve fancy food. I look at the polished leather, the plaque, and the patrons dressed to be seen listening. Petra has succeeded magnificently at making money. That is not the same thing as preserving the room.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:607</code></p><pre>&quot;Was, you know, that was not leather and shiny and with a plaque.&quot;</pre>"
+    },
+    {
+      "id": "s03-01",
+      "t": "Scene 3 — Lost in Rsolk's Tunnels / s03-01: Correct sentence capitalization and the compound modifier without changing Soma&#x27;s qualified promise.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_03_lost_in_rsolk_s_tunnels.scrubbed.md:217</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene03-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;</pre><p>After</p><pre>&quot;We have kind of an arm&#x27;s-length relationship with the Common Chord, but I will ask for you.&quot;</pre><p>Surrounding draft</p><pre>I must be precise. Our relationship with the Common Chord exists, but it is not the sort of relationship where I can promise their seats as if I control the venue.\n\n&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;\n\n&quot;That&#x27;s all I could ask for.&quot;\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/03_encounter_in_the_sewers.md:367</code></p><pre>&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;</pre>"
+    },
+    {
+      "id": "s04-01",
+      "t": "Scene 4 — Denvar's Unsettled Account / s04-01: Untangle Valphine&#x27;s phrasing while preserving her proposal to question Denvar&#x27;s landlord.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:61</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Who we could potentially ask questions about him of.”</pre><p>After</p><pre>“Who we could potentially ask about him.”</pre><p>Surrounding draft</p><pre>It is a lodging house, which means a landlord.\n\n“Okay, so he has a landlord,” she says. “Who we could potentially ask questions about him of.”\n\nUnfortunately, it is still the middle of the night. We wait until seven. My joints do not appreciate standing around after walking all night, but they have complained about more useful things before.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:131</code></p><pre>&quot;Who we could potentially ask questions about him of.&quot;</pre>"
+    },
+    {
+      "id": "s04-02",
+      "t": "Scene 4 — Denvar's Unsettled Account / s04-02: Remove an unrecoverable false start while preserving Soma&#x27;s emphatic objection and dry tone.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:103</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“No, no, we have… Very… that’s kind of slanderous to us.”</pre><p>After</p><pre>“No, no. That’s kind of slanderous to us.”</pre><p>Surrounding draft</p><pre>Then, because the first comparison has gone so well, he tries another. “I guess you’re not like… I guess you’re not like turtles.”\n\n“No, no, we have… Very… that’s kind of slanderous to us.”\n\nOnly then does he look past me. Valphine stands in white armor, her eyes glowing gold. Brewbarry has the size, muscles, and exposed weapons of Brewbarry. The landlord’s face changes.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:233</code></p><pre>&quot;No, no, we have… Very… that&#x27;s kind of slanderous to us.&quot;</pre>"
+    },
+    {
+      "id": "s04-03",
+      "t": "Scene 4 — Denvar's Unsettled Account / s04-03: Correct the tense and remove repeated filler so Soma&#x27;s request matches the immediate conversation with the landlord.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:177</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“We asked him about the, you know, the gentleman we, you know, followed back here.”</pre><p>After</p><pre>“We wanted to ask about the gentleman we followed back here.”</pre><p>Surrounding draft</p><pre>“Alright.”\n\n“We asked him about the, you know, the gentleman we, you know, followed back here.”\n\n“You mean Denvar?”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:336</code></p><pre>&quot;We asked him about the, you know, the gentleman we, you know, followed back here.&quot;</pre>"
+    },
+    {
+      "id": "s04-04",
+      "t": "Scene 4 — Denvar's Unsettled Account / s04-04: Resolve a comma splice into Soma&#x27;s characteristic short landing beats.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:181</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Denvar. Yeah. That’s more than we came with, we got a name.”</pre><p>After</p><pre>“Denvar. Yeah. That’s more than we came with. We got a name.”</pre><p>Surrounding draft</p><pre>“You mean Denvar?”\n\n“Denvar. Yeah. That’s more than we came with, we got a name.”\n\n“Denvar!”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:342</code></p><pre>&quot;Denvar. Yeah. That&#x27;s more than we came with, we got a name.&quot;</pre>"
+    },
+    {
+      "id": "s04-05",
+      "t": "Scene 4 — Denvar's Unsettled Account / s04-05: Remove the false start and express the same totality in grammatical speech while keeping Soma&#x27;s punchline intact.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:219</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”</pre><p>After</p><pre>“And all his deliveries… Every one of his delivery chits is the same. They’re all this one thing. He literally has one job.”</pre><p>Surrounding draft</p><pre>Each chit has a client reference and a house mark. None has a personal name.\n\n“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”\n\nNot ten employers. Not odd work around the district. One repeated contract moving nine crates at the third hour, eight up and one down.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:410</code></p><pre>&quot;And the… all his deliveries… 100% of his delivery chits are the same. They&#x27;re all this one thing. He literally has one job.&quot;</pre>"
+    },
+    {
+      "id": "s04-06",
+      "t": "Scene 4 — Denvar's Unsettled Account / s04-06: Move the adverb into a natural position without changing Soma&#x27;s deduction or rhetorical question.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:239</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”</pre><p>After</p><pre>“And so that was the one he presumably just delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”</pre><p>Surrounding draft</p><pre>The one we watched has not been paid.\n\n“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”\n\nYes.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:446</code></p><pre>&quot;And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don&#x27;t we?&quot;</pre>"
+    },
+    {
+      "id": "s05-01",
+      "t": "Scene 5 — Harpers Behind the Wall / s05-01: Capitalize Soma&#x27;s complete imperative without altering its clipped delivery.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:49</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“eyeball the wall.”</pre><p>After</p><pre>“Eyeball the wall.”</pre><p>Surrounding draft</p><pre>“Denvar might be a dead end.”\n\nI turn back to the compartment. “eyeball the wall.”\n\n“Valphine, you wanna do your…” Vukradin begins.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:121</code></p><pre>&quot;eyeball the wall.&quot;</pre>"
+    },
+    {
+      "id": "s05-02",
+      "t": "Scene 5 — Harpers Behind the Wall / s05-02: Capitalize Vukradin&#x27;s complete answer while retaining its brevity.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:57</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“on the wall.”</pre><p>After</p><pre>“On the wall.”</pre><p>Surrounding draft</p><pre>Valphine looks between Denvar and the stone. “You mean, like, on him, or on the…”\n\n“on the wall.”\n\n“on the wall.”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:133</code></p><pre>&quot;on the wall.&quot;</pre>"
+    },
+    {
+      "id": "s05-03",
+      "t": "Scene 5 — Harpers Behind the Wall / s05-03: Capitalize Soma&#x27;s repeated answer while preserving the separate speaker beat.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:59</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“on the wall.”</pre><p>After</p><pre>“On the wall.”</pre><p>Surrounding draft</p><pre>“on the wall.”\n\n“on the wall.”\n\n“I&#x27;m gonna look at him just before he goes.”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:136</code></p><pre>&quot;on the wall.&quot;</pre>"
+    },
+    {
+      "id": "s05-04",
+      "t": "Scene 5 — Harpers Behind the Wall / s05-04: Lowercase the common material noun while preserving Vukradin&#x27;s uncertainty and trailing cadence.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:73</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Or is it Earth, or…”</pre><p>After</p><pre>“Or is it earth, or…”</pre><p>Surrounding draft</p><pre>“Oh, okay. Well, let&#x27;s loop around.”\n\n“Or is it Earth, or…” Vukradin asks.\n\nIt is a stone dwelling.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:159</code></p><pre>&quot;Or is it Earth, or…&quot;</pre>"
+    },
+    {
+      "id": "s05-05",
+      "t": "Scene 5 — Harpers Behind the Wall / s05-05: Separate Soma&#x27;s sarcastic assertion from the follow-up question so the intended delivery reads cleanly.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:197</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“It&#x27;s totally not, you sure.”</pre><p>After</p><pre>“It&#x27;s totally not. You sure?”</pre><p>Surrounding draft</p><pre>“Not.”\n\n“It&#x27;s totally not, you sure.”\n\n“It definitely is not.”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:386</code></p><pre>&quot;It&#x27;s totally not, you sure.&quot;</pre>"
+    },
+    {
+      "id": "s05-06",
+      "t": "Scene 5 — Harpers Behind the Wall / s05-06: Capitalize Vukradin&#x27;s complete inventory question without changing its telegraphic rhythm.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:233</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“desk, papers, supplies?”</pre><p>After</p><pre>“Desk, papers, supplies?”</pre><p>Surrounding draft</p><pre>I guide the rat around the office. Desk, papers, supplies. No windows and no easy way out except the opening we have made.\n\n“desk, papers, supplies?” Vukradin asks.\n\nThere is nothing the rat can bring back that would answer this cleanly.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:434</code></p><pre>&quot;desk, papers, supplies?&quot;</pre>"
+    }
+  ]
+}

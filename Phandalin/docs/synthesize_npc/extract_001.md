@@ -33,7 +33,7 @@ Co-inventor at Gnomengarde. Proposed a straitjacket (without arm holes) to restr
 **King Korboz**
 Co-ruler of Gnomengarde. In a state of hysterical madness, screaming and convinced that shapechangers are present. Refused direct interaction with the party. His madness is the central crisis of Gnomengarde. Claims that two missing gnomes, Warren and Orrin, were taken or replaced by a shapechanger.
 
-**King Gnercli**
+**King Gnerkli**
 Co-ruler of Gnomengarde, currently functional. Engaged directly with the party. Confirmed two gnomes (Warren and Orrin) are missing and that a shapechanger is believed responsible. Offered a Hat of Wizardry as reward for killing the shapechanger. Suggested the creature would hide among large objects in the cellar. Currently managing the crisis in Korboz's place.
 
 **The Mimic**
@@ -66,7 +66,7 @@ Referenced as having raided and destroyed Triboar, Calling Horn, and villages ne
 - Townmaster Harbin Wester posted quests specifically referencing dragon sightings becoming more common near Phandalin. *(Score trigger: dragon presence confirmed active in the region.)*
 - Soma suppressed knowledge of the white dragon rumor during travel on the Triboar Trail, noting the dragon's presence was actually discouraging bandit activity. *(Score trigger: dragon's territorial range is broad enough to affect travel patterns on major roads.)*
 - Toblen Stonehill independently warned the party about the white dragon after their meal. *(Score trigger: local civilians in Phandalin are aware of and actively fearful of the dragon.)*
-- King Gnercli of Gnomengarde offered a reward specifically to deal with the shapechanger, framing it as a prerequisite before the clan can address the dragon threat. *(Score trigger: Gnomengarde's defensive capacity is degraded while dragon threat is active.)*
+- King Gnerkli of Gnomengarde offered a reward specifically to deal with the shapechanger, framing it as a prerequisite before the clan can address the dragon threat. *(Score trigger: Gnomengarde's defensive capacity is degraded while dragon threat is active.)*
 
 **Mimic / Shapechanger at Gnomengarde**
 - Two gnomes (Warren and Orrin) confirmed missing, presumed taken or replaced by the shapechanger. *(Score trigger: active predation on Gnomengarde population.)*
@@ -83,7 +83,7 @@ Referenced as having raided and destroyed Triboar, Calling Horn, and villages ne
 - **Lord Neverember's hinterland policy** is explicitly extractive: adventurers are proxies for eventual Neverwinter annexation of the Phandalin region. The 60-day property holding offered by Wintershield guards is a formalized method of laundering looted goods.
 - **The Lionshield Coster's fabled interdimensional supply network has been disrupted.** Linene Graywind did not explain the cause, but strange magic in Neverwinter Wood is a rumored factor.
 - **The temple southwest of Phandalin is dedicated to Abbathor**, the evil dwarven god of greed. It was destroyed by a divine-caused earthquake and avalanche, apparently as punishment for insufficient sacrifices. The settlement was buried at the same time.
-- **Gnomengarde's internal crisis** involves: a missing-persons event (Warren and Orrin), a maddened king (Korboz), and a confirmed mimic hiding in the barrel cellar. King Gnercli believes the shapechanger would shelter among large, numerous objects.
+- **Gnomengarde's internal crisis** involves: a missing-persons event (Warren and Orrin), a maddened king (Korboz), and a confirmed mimic hiding in the barrel cellar. King Gnerkli believes the shapechanger would shelter among large, numerous objects.
 - **Gnomengarde has bureaucratic standing orders** that include attacking shapechangers on sight and (possibly lapsed) orders against Uthgardt barbarians, suggesting prior contact with or casualties from both threats.
 - **The white dragon's presence is actively suppressing bandit activity** on the Triboar Trail, an unintended secondary effect noted by Soma.
 - **Facktore** is a gnome inventor operating within Gnomengarde whose sanity is in question; he activated a lethal rotating crossbow platform against visitors without apparent provocation.
@@ -105,7 +105,7 @@ Referenced as having raided and destroyed Triboar, Calling Horn, and villages ne
 | Fibblestib | Inventors' workshop, Gnomengarde. |
 | Dabbledob | Inventors' workshop, Gnomengarde. |
 | King Korboz | Royal chambers, Gnomengarde. Hysterical, non-functional. |
-| King Gnercli | Royal chambers, Gnomengarde. Functional, negotiating with party. |
+| King Gnerkli | Royal chambers, Gnomengarde. Functional, negotiating with party. |
 | Warren | Missing, presumed taken or replaced by mimic. Whereabouts unknown. |
 | Orrin | Missing, presumed taken or replaced by mimic. Whereabouts unknown. |
 | The Mimic | Barrel cellar, Gnomengarde. Engaged in combat, wounded, halberd embedded. |

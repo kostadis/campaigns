@@ -5,16 +5,16 @@
 - **Fibblestib**: Gnome inventor working on "sanity ray" to cure King Korboz's madness. Argued with Dabbledob over treatment methods. Offered to build a piano for Vukradin.
 - **Dabbledob**: Gnome inventor proposing a modified straitjacket cure for King Korboz. Argued with Fibblestib, rolled eyes at his inventions.
 - **King Korboz**: Mad gnome king claiming shapeshifters took Warren and Orrin. In hysterics, screaming. Last seen in throne room.
-- **King Gnercli**: Co-king of Gnomengarde, more rational than Korboz. Offered hat of wizardry in exchange for killing the shapeshifter. Directed party to cellar where creature might hide.
+- **King Gnerkli**: Co-king of Gnomengarde, more rational than Korboz. Offered hat of wizardry in exchange for killing the shapeshifter. Directed party to cellar where creature might hide.
 
 ## Party
 - **Valphine**: Missed attack on ogre with mace, killed ogre with crossbow bolt, found whistle/coins/key on body. Suspected Pog and Ulla of being shapeshifters. Identified mimic in barrel room, cast enchantment spell on it.
 - **Brewbarry**: Missed halberd attack on ogre, survived ogre's axe due to rage resistance. Gnomes decided he wasn't a shapechanger due to being "used to be" Uthgardt rather than current. Got weapon stuck in mimic during attack.
-- **Vukradin**: Delivered killing blow to fleeing ogre, justified it saying ogre "hated music." Played music for gnome guards. Negotiated with King Gnercli for hat of wizardry reward. Cast vicious mockery on mimic.
+- **Vukradin**: Delivered killing blow to fleeing ogre, justified it saying ogre "hated music." Played music for gnome guards. Negotiated with King Gnerkli for hat of wizardry reward. Cast vicious mockery on mimic.
 - **Soma**: Criticized killing fleeing ogre as senseless. Led party to Gnomengarde via river. Collected red, green, and purple mushrooms from islands. Got soaked under waterfall looking for secret room. Cast Ice Knife at mimic.
 
 ## Quests & Threads
-- **PROGRESSED**: Dragon device quest - Party reached Gnomengarde, met inventors focused on king's madness instead of dragon threat. King Gnercli agreed to provide "hat of wizardry" in exchange for killing shapeshifter.
+- **PROGRESSED**: Dragon device quest - Party reached Gnomengarde, met inventors focused on king's madness instead of dragon threat. King Gnerkli agreed to provide "hat of wizardry" in exchange for killing shapeshifter.
 - **PROGRESSED**: Shapeshifter hunt - Located mimic disguised as barrel in cellar. Combat initiated against the creature.
 
 ## Locations
@@ -28,7 +28,7 @@
 - Party bypassed spinning blade trap and disabled rotating crossbow device after Facktore attacked them
 - Gnome guards questioned party about being shapechangers, debated bureaucratic standing orders
 - Party met inventor gnomes arguing over cures for king's madness (sanity ray vs. modified straitjacket)
-- King Gnercli negotiated hat of wizardry reward for killing shapeshifter
+- King Gnerkli negotiated hat of wizardry reward for killing shapeshifter
 - Party located mimic disguised as barrel in cellar and began combat
 
 ## Revealed Information

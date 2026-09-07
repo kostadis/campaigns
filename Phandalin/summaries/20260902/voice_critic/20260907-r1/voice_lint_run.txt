@@ -1,0 +1,14 @@
+Command:
+PYTHONPATH=/home/kostadis/src/CampaignGenerator python3 -m session_doc.voice_lint /tmp/voice_critic_20260902_assembled.md --genre-file voice/_genre.md
+
+Input construction:
+The temporary file contains five `## Narrator — Scene NN` headings followed by
+exact copies of the selected narration bodies with YAML frontmatter removed.
+
+Exit code: 0
+
+stdout:
+note   [config] unrecognised voice_lint key 'extra_tics' — ignored
+
+stderr:
+(empty)

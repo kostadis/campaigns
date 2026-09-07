@@ -21,7 +21,7 @@ Recorded so they stop being flagged as unknowns by future spell-pass runs.
 | Stonehill Tavern | Phandalin location; "Go to the Stonehill Tavern, go to Harbin Wester" |
 | Falcon's Hunting Lodge | Location; "the Falcon's hunting lodge got overrun" |
 | Tribor Trail | Location; "on the corner of the… Tribor Trail, where it turns to Fandelin" |
-| Uthgardian | FR Uthgardt barbarian canon (paired with Asgardian table-joke) |
+| Uthgardtian | FR Uthgardt barbarian canon (paired with Asgardian table-joke) |
 - 2026-05-05 | **Vukradinious** — centaurized form of Vukradin's name; used by/for Vukradin in centaur contexts. Wrong-form 'Bukradinhos' → 'Vukradinious'.
 - 2026-05-05 | **Prutha** — new NPC name being discussed/named in session; ctx 'Prutha, it is.' / 'his name is Pritha' / 'talking to Prutho'.
 - 2026-05-05 | **Lathandrian** — adjective/noun for follower of Lathander's order (analogous to 'Christian' for Christ); ctx 'the Lathandrian cleric'.
@@ -127,3 +127,15 @@ Istus  — Greyhawk goddess of fate and destiny; referenced as avatar context in
 - **Shield Dwarf Prospector** — approved campaign term from Norbus's introduction: "I'm a Shield Dwarf Prospector." (cue 1538). The registry independently identifies Norbus and Dazlyn as shield dwarf prospectors. — 2026-08-30
 - **Bill Krabby** — "You gotta go check Bill Krabby?" (Wade, ch09) — 2026-09-05
 - **Sharky** — table nickname for the hunter sharks at the Tower of Storms wrecks; "Sharky's turn was skipped because he was asleep" (ch09) — 2026-09-05
+
+## 2026-09-05 — from `summaries/20260902/GMT20260902-040118_Recording.transcript.vtt` (ch51, the Denvar stakeout)
+
+Confirmed real by the GM in the batch review artifact "Chapter 51 Name Rulings".
+
+- 2026-09-05 | **Denvar** — the carrier the party tails through the sewers. GM prep `notes/session_prep/20260901_the_ninth_crate_v2.md`: "The carrier's name is Denvar." Zoom's own summary: "a delivery man named Denvar." **Retired the `Denver → Neverember` glossary row on this ruling.**
+- 2026-09-05 | **Wick** — Wick Ambersole, "the reservation"; Common Chord audience NPC, `notes/npcs/common-chord-audience.md`.
+- 2026-09-05 | **Sabbatha** — Sabbatha Ren, "the Exile"; same dossier. Not [[Abbathor]], which the cluster wrongly proposed.
+- 2026-09-05 | **Old Hesp** — "the count"; same dossier. Announces the house attendance twice a night.
+- 2026-09-05 | **Commission Harbor** — Neverwinter dock authority whose mark the smuggled crates lack. Named 6x in prep.
+- 2026-09-05 | **Uncle Tom** — GM-approved as a name this session; the tape's "Michael Tom" (cue 1066) maps to it.
+- 2026-09-05 | **Lord Neverflaming** / **Lord Never Flaming** — GM: "a Slang term for Lord Neverember that Soma uses." Recorded in the glossary's DO NOT CORRECT section, not as a wrong-form.

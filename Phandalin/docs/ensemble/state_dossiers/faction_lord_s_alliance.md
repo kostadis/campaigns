@@ -7,13 +7,13 @@ chapters: 1-1
 
 ### Lord's Alliance
 
-- **Type:** Faction
-- **Current status:** Active and growing in strength.
-- **Current goals:** Not specified.
-- **Current standing:** Growing in strength as of the latest known chapter.
-- **Relationships to other factions:** Not specified.
-- **Key members:** Not specified.
-- **Recent actions:** Experienced an increase in strength.
+- **What it is:** A faction (the Lord's Alliance).
+- **Current state:** Growing in strength.
+- **Goals / agenda:** Not specified in the available facts.
+- **Standing / relationships:** Not specified in the available facts.
+- **Key members:** Not specified in the available facts.
+- **Recent actions:** Growth in strength (the only reported fact).
 
 ## Uncertainty
-- None.
+- "Growing in strength" is a vague, single-moment observation with no supporting detail — its cause, scope, and implications are unknown.
+- No information on the Alliance's leadership, members, territory, allies, enemies, or current goals is available.

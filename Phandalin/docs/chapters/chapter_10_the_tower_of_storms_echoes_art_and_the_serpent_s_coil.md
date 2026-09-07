@@ -32,7 +32,7 @@ After the harpies are dealt with and Vukradin prattles about "repatriating" ship
 
 We move through a room with frescoes depicting stormy seas and a "dark and terrible god", then find a stone altar with lightning bolts carved into it and a metal lightning rod. On a nearby ledge, we discover a harpy nest containing a potion of water breathing. Vukradin questions taking "blood money," but it's simply a resource found.
 
-Upstairs, we find the Orc Anchorite, Moesko, seated in a barnacle-encrusted chair, clad in armor made from giant octopus hide, holding an opalescent conch – the very artifact belonging to Miral the Self.
+Upstairs, we find the Orc Anchorite, Moesko, seated in a barnacle-encrusted chair, clad in armor made from giant octopus hide, holding an opalescent conch – the very artifact belonging to Miraal the Self.
 
 The battle begins. I open with a minor poison spray attack, then, sensing the need for more power, I transform into a brown bear. In this form, I utilize my multi-attack, delivering significant damage to Moesko. He's tougher than he looks, responding with a potent Lightning Bolt that deals staggering amounts of damage (reduced to by half for most of us, thank Mielikki, as everyone but Brewbarry is struck). Then he casts Thunderwave, dealing more damage and pushes me back.
 
@@ -48,7 +48,7 @@ After the harpies are dispatched, and Vukradin ponders the "repatriation" of sun
 
 While searching through the tower, we find a harpy nest containing a potion of water breathing. Vukradin debates taking "blood money," but to me, it's merely the spoils of the fallen. Why would you leave valuable items behind?
 
-We proceed upstairs and discover the Orc Anchorite, Moesko. He sits in a barnacle-encrusted chair, clad in armor made from giant octopus hide, and in his lap rests an opalescent conch, an artifact I recognize as belonging to the undead creature, Miral the Sea Elf. This is the prize.
+We proceed upstairs and discover the Orc Anchorite, Moesko. He sits in a barnacle-encrusted chair, clad in armor made from giant octopus hide, and in his lap rests an opalescent conch, an artifact I recognize as belonging to the undead creature, Miraal the Sea Elf. This is the prize.
 
 The battle is fierce. Soma, in her impressive brown bear form, lands significant blows, and Vukradin cleverly traps Moesko in a Cloud of Daggers. But Moesko retaliates with a Lightning Bolt that scorches most of us, reducing my hit points and leaving me battered. It's a sharp, glorious pain, a reminder of Lathander's raw power.
 

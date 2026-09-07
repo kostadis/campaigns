@@ -7,14 +7,21 @@ chapters: 1-1
 
 ### Gromph Baenre
 
-- **Current status:** Alive (no contradicting fact; presumed active as of latest known chapter).
-- **Current location:** Unknown; no specific location given in the facts.
-- **Allegiance/faction:** First House of Menozberanzan; described as Lolth's pawn. Works in service to Lolth's machinations.
-- **Current assignment/role:** Sought to cast a specific spell intended to give the Drow control of the Faerzess, enabling them to attack other powers at will. His attempt failed in its intended purpose.
-- **Defining recent actions:** Attempted the aforementioned spell. His belief about its effects proved wrong; instead of granting the Drow control of the Faerzess, the spell caused the bonds between the Abyss and Toril to weaken for a moment.
-- **Revealed motivations/secrets:** Believes the spell would grant the Drow strategic dominance over other powers; his miscalculation reveals a gap between his expectations and the spell's true consequence.
+**Current status:** Alive (no facts indicate death).
+
+**Current location:** Unspecified (known to be of the First House of Menzoberranzan).
+
+**Allegiance/faction:** First House of Menzoberranzan; acted as Lolth's pawn.
+
+**Current possessions / notable items, spells, feats, wounds:** None specified.
+
+**Current assignment / role and key relationships:** Was Lolth's pawn among the Drow; cast a spell intended to give the Drow control of the Faerzress.
+
+**Defining recent actions:** Cast a spell the Drow believed would grant them control of the Faerzress, enabling attacks on other powers. The spell failed to achieve this effect — Gromph was wrong about its outcome.
+
+**Revealed motivations or secrets:** Sought Faerzress control for the Drow to enable attacks on other powers; his confidence in the spell's effect was misplaced.
 
 ## Uncertainty
-- **Cause/attribution of the spell's failure:** The facts state Gromph "was wrong" about the spell's effects and that "the bonds between the Abyss and Toril weakened for a moment," but do not specify *why* the spell misfired — whether due to an external intervention, a flaw in his casting, or another agent's action. The cause is unstated.
-- **Location and current activity:** The facts provide no current whereabouts or ongoing actions beyond the single spell attempt; any present-day role is inferred from the latest fact only.
-- **"Faerzess" meaning:** The term is used without elaboration; its precise nature (phenomenon, force, location) is not defined in the supplied facts.
+- The exact nature and consequence of the spell's failure ("He was wrong") are not described — whether it misfired, was countered, or simply had an unexpected result is unknown.
+- Current location, current activities, and any bonds or allegiances beyond "First House of Menzoberranzan" and "Lolth's pawn" are unstated.
+- Whether Gromph remains Lolth's pawn *now* (as opposed to at the time of the spell) is not clarified by the facts.

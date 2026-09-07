@@ -1,264 +1,479 @@
-<!-- section: recent_events | inputs-sha: 37c46720dc42072c -->
-## Recent Events (last 3 chapters — event spine window)
-
-### Chapter 1
-- The great sundering completed, ending the era of gods walking the world.
-- Tiamat duped Severin and the Cult of the Dragon to attempt to bring her into the world.
-- Tiamat, co-resident of Avernus, duped Severin and the Cult of the Dragon to attempt to bring her into the world; the plan was Zariel's, not hers.
-- The All-Father, god of the giants, fantasized about a north that the Giants ruled.
-- In the chaos of the All-Father's plans, the Great Ancient Blue Dragon almost destroyed the kingdoms of the giants.
-- Twice, the plans of the gods had been thwarted.
-- Lolth was trapped in a demi-plane as part of an elaborate multi-century plan.
-- Gromph Baenre's spell twisted the magic of the Faerzess.
-- Lolth's plan required magic that could temporarily loosen the bonds holding the planes separate, and the spell twisted the magic of the Faerzess.
-- The spell twisted the magic of the Faerzess.
-- The bonds between the Abyss and Toril weakened for a moment, and the demon lords entered the Underdark.
-- The bonds between the Abyss and Toril weakened for a moment.
-- The demon lords entered the Underdark.
-- The chaos in the Underdark may have provoked the Uthgardt Barbarians to launch a devastating assault on the North, destroying numerous smaller communities.
-- Triboar was razed.
-- Calling Horn was obliterated.
-- Several villages on the outskirts of Silverymoon and Mirabar were pillaged.
-- Following the War of the Dragons, the Northern Territories and the Lord’s Alliance forces were recovering from their conclusive battle against the Cult of the Dragon.
-- The Ordning was reinstated, keeping the armies intact and preventing a catastrophic giant assault.
-- The Ordning was reinstated.
-- The alliance of the Silvery Marches was revived due to the efforts of several agents from Everlund.
-- The combined strength of the Giants and major cities successfully ended the barbarian invasion.
-- Lord Neverember needed the Phandalin area cleared of monsters, cults, and evildoers to encourage settlement and growth.
-- Because of the costs of the wars, Lord Neverember decided to use adventurers, offering them tax-free no-questions-asked plunder.
-- Lord Neverember decided to use adventurers to clear Phandalin of monsters, cults, and evildoers, offering tax-free plunder.
-
-### Chapter 3
-- Valphine's mace strikes the prone ogre but the blow is glancing and does no damage.
-- Brewbarry swings his halberd at the ogre but strikes the rocky ground with a deafening clang.
-- A puff of acrid green gas surrounds the ogre, hurting it and hampering its movements.
-- The ogre stands with a burst of energy and scans its attackers.
-- The ogre chooses to strike Brewbarry next.
-- The ogre's axe lands on Brewbarry but glances off his hardened skin due to his rage, doing nothing.
-- The ogre turns and runs away from the fight.
-- Valphine shoots a bolt from her handheld crossbow at the fleeing ogre, wounding it but not stopping it.
-- Vukradin delivers the killing blow to the ogre.
-- Valphine is surprised by Vukradin's calm, philosophical response to Soma's indignation.
-- Valphine finds a whistle, some coins, and a key on the ogre's body.
-- The rest of the journey to Gnomengarde is uneventful and Soma finds the river leading to the gnomish hold.
-- Vukradin wades through the water towards the mushrooms and Soma follows him closely.
-- Soma wants some of the mushroom wine.
-- The party forages mushrooms from the islands in the pool, with Vukradin putting them in his bag.
-- Vukradin puts the mushrooms in his bag.
-- Vukradin shouts that they should find the secret treasure room behind the waterfall.
-- Soma stands under the waterfall and gets soaked.
-- Behind the waterfall is nothing but a rock wall.
-- Soma asks if they can get out of here.
-- Vukradin notices an entrance 20 feet above on the cliff wall and starts to climb, followed by Soma.
-- Vukradin notices there is an entrance 20 feet above next to the waterfall.
-- Vukradin starts to climb up the cliff.
-- Soma shrugs and follows Vukradin up.
-- Valphine and Brewbarry stand and watch.
-- The druid shouts asking if they are coming.
-- Soma looks at the Drow and sighs.
-- The Drow wants a rope.
-- Soma climbs down, takes a rope from the Drow, and climbs up again because the Drow wants one.
-- The druid climbs down, takes the rope from the Drow's hands, and climbs up again.
-- A gnome shouts in Gnomish, and Soma stares at him.
-- A gnome shouts in Gnomish, then a female voice challenges the party with 'Who goes there?'.
-- Another female voice shouts, 'Who goes there?'
-- The gnome asks if Vukradin is a shapechanger.
-- Vukradin answers no to being a shapechanger.
-- Soma asks if they would take these shapes if they were shapechangers.
-- Soma rolls her shoulders and mutters that she senses more senseless violence coming.
-- Vukradin asks if the standing orders to attack shape changers are intended to lead to attacking anyone.
-- The female gnome shouts 'Perhaps, but that’s what a shapechanger would say.'
-- The female gnome announces they've decided he's a Uthgardt Barbarian and not a shapeshifter.
-- The gnome guards decide Brewbarry is an Uthgardt Barbarian and not a shapeshifter.
-- The female gnome explains there used to be a standing order to attack Uthgardtians on sight, but since Brewbarry used to be one, and it's unclear if that order was renewed at the last meeting, they let him pass.
-- There used to be a standing order to attack Uthgardtians on sight as a result of events of the last few months, but its renewal is unclear.
-- The female gnome says since Brewbarry used to be an Uthgardtian, it's unclear whether the standing order to attack Uthgardtians stands, and they have decided to let the party pass.
-- The gnome guards decide to let the party pass due to bureaucratic uncertainty over standing orders.
-- Soma stares in disbelief at the gnomes' bureaucratic decision to let them pass.
-- Soma stares in disbelief and says 'Bureaucracy saved us.'
-- Vukradin tries a few notes, and the gnomes seem pleased, though Pog waves his hand to stop.
-- Vukradin tries a few notes, and the gnomes seem pleased.
-- Ulla asks Vukradin why they are here.
-- Vukradin explains that the mayor is looking for a magical device to help fight against the threat of the dragon.
-- Vukradin thanks the gnomes and marches towards the inventor’s workshop, crossing the bridge.
-- The northern turnstile spins counterclockwise, while the southern one spins clockwise.
-- Vukradin stares in disbelief and marches back to where Pog and Ulla were sitting.
-- Vukradin stares in disbelief at the death trap of spinning blades.
-- Ulla directs the party to go the long way north past the first passageway east, past a large room, then east out of the mountain, cross the river, climb the cliff wall to the sleeping chambers, and go south to the inventors' workshop.
-- Vukradin thanks Ulla and heads north.
-- The first large room has a rotating platform equipped with four heavy crossbows that reload automatically.
-- Vukradin disarms the rotating crossbow device instead of killing Facktore.
-- Vukradin is tempted to kill Facktore but decides that disarming the device is sufficient.
-- Facktore flees the scene of the battle after his device is disabled.
-- Facktore flees the scene of the battle.
-- Vukradin climbs down the cliff wall, wades through the river, stops on the island of mushrooms to pick a few more, and climbs the cliff wall again.
-- Once he’s climbed the walls, Vukradin enters a large cave strewn with remnants of old campfires, with four side caves serving as sleeping areas, each containing five small wooden cots.
-- Vukradin explains that they are there to look for help to fight a dragon, and the inventors brush him off.
-- The party visits the gnomes' inventor workshop to seek help against a dragon.
-- The gnomes Dabbledob and Fibblestib reject cleric magic, saying gnomes invent their way out of illness.
-- Soma tries to explain the value of cleric spells, but the gnomes shout louder.
-- Fibblestib and Dabbledob explain that gnomes Warren and Orrin went missing and King Korboz claims a shape-changing creature is responsible.
-- The inventors explain that King Korboz claims a shape-changing creature caused Warren and Orrin to go missing.
-- Two gnomes, Warren and Orrin, went missing.
-- Vukradin explains he would like to try music to cure King Korboz.
-- Vukradin is not interested in arriving at any new death traps and asks for the safest way to the throne room.
-- Vukradin notices how Dabbledob rolls her eyes at Fiddelstib's boasting.
-- King Korboz is in a state of hysterics, screaming, and shouts 'A shapeshifter!' when Vukradin arrives.
-- Vukradin declares they are on a diplomatic mission from Townmaster Harbin Wester to acquire a device to fight the dragon.
-- Vukradin mutters 'I am a musician' and laughs when Soma calls him more of a tour guide.
-- Vukradin laughs when Soma adds that he is more of a tour guide.
-- King Gnercli asks the party to deal with some kind of creature terrorizing the cave system.
-- King Gnercli offers a hat of wizardry and Vukradin agrees to the deal for 50 gold.
-- Soma reminds Vukradin that they get money for bringing something, not necessarily for bringing something helpful.
-- Vukradin accepts the king's deal for 50 gold and a hat of wizardry.
-- Vukradin agrees to the deal with King Gnercli.
-- The bard and his friends go through the room with the spinning blades, disabling the blades this time.
-- The party disables the spinning blades in the room before crossing the bridge.
-- The bard and his friends cross the bridge.
-- The party arrives where Pog and Ulla are sitting.
-- Ulla notices that Pug looked a little bit different the past few days.
-- Pug turns on Ulla, claiming she has looked different.
-- Pug and Ulla argue in front of the Drow, accusing each other of looking different.
-- Valphine follows the passage north and takes a right into a room full of barrels instead of going to the room where they found the rotating crossbow.
-- The first barrel transforms into a mimic with pseudopods reaching out and a mouth full of razor-sharp teeth.
-- A barrel in the room transforms into a mimic when Valphine points a crossbow at it.
-- The first barrel Valphine points her crossbow at transforms into a mimic.
-- Brewbarry charges at the mimic, striking with his Halberd.
-- Brewbarry's halberd strike wounds the mimic but the weapon is stuck in the creature's body.
-- Soma prepares to cast Ice Knife.
-- The mimic advances on Brewbarry and attacks with a pseudo-pod that misses.
-- The mimic attacks Brewbarry with a pseudopod that misses entirely.
-- The mimic's pseudo attack misses Brewbarry.
-- The bard unleashes invectives that cause the mimic to flinch visibly due to an underlying enchantment.
-- Valphine is confused by the bard's invectives at first but sees the underlying enchantment causing the mimic to flinch.
-- A male gnome guard shouts in Gnomish and a female gnome asks 'Who goes there?'
-- Brewbarry charges at the mimic, striking it with his Halberd, wounding it, but the weapon sticks in its body.
-- Brewbarry declares 'I am Brewbarry, killer of Ogres! I am no shapeshifter!'
-- Brewbarry declares himself killer of Ogres and no shapeshifter, and the gnomes decide he is a Uthgardt Barbarian and not a shapeshifter.
-- Dabbledob proposes building a sanity ray.
-- Fibblestib and Dabbledob argue over a sanity ray versus a straitjacket.
-- Fibblestib calls Dabbledob's straitjacket proposal a shirt with no holes for the hands.
-- Fiddelstib offers to build Vukradin a non-normal piano that will play music.
-- Fiddelstib offers to build a piano for the music cure, though it won't be a normal piano.
-- Fiddelstib says they don't have a piano but offers to build one, noting it won't be normal but will play music.
-- King Gnercli offers a hat of wizardry in exchange for dealing with the creature terrorizing the cave system.
-- Soma shouts to Vukradin that killing the fleeing ogre was senseless.
-- Soma stands under the waterfall, getting soaked, and behind it is nothing but a rock wall, which Vukradin taps, touches, and pokes without finding anything.
-- The gnome asks if Vukradin is a shapechanger, and after his denial and Soma's jest, the female gnome says that is what a shapechanger would say.
-- The gnome guards question whether the party are shapechangers and demand proof.
-- Valphine makes sure she is out of range of Soma's Ice Knife spell.
-- Valphine shouts that they found the creature when the barrel transforms into a mimic.
-- Vukradin answers that he is Vukradin, the Bard.
-- Vukradin asks for the safest way to the throne room, and explains the rotating blades and rotating crossbow assault system.
-- Vukradin calls the blade room a death trap and marches back to Pog and Ulla.
-- Vukradin discovers the turnstile blade devices in the workshop entry room and calls it a death trap.
-- Vukradin goes to the King's room, where King Korboz is hysterical.
-- Vukradin proposes trying music to cure King Korboz, and Dabbledob acknowledges music has helped in some circumstances.
-- Vukradin searches behind the waterfall for a secret treasure room but finds only a rock wall.
-- Vukradin taps at the rock, touches the rock, and pokes at the rock, but it is just rock.
+<!-- section: recent_events | inputs-sha: 377413e0f9f13ba4 -->
+## Recent Events (last 4 chapters — event spine window)
 
 ### Chapter 4
-- Vukradin taunts the grotesque creature before them.
-- The party battles a mimic creature.
-- Brewbarry struggles to pull his halberd free, the weapon stuck fast in some unseen impediment.
-- Soma's poison cloud dissipates harmlessly around the creature, leaving it unaffected.
-- The mimic misses its strike at Brewbarry, its attack sailing wide.
+- Vukradin goes first, walking uphill into the fog to parlay with the orcs.
+- The party can see maybe two orcs through the fog.
+- The orcs misinterpret Vukradin's approach, believing he recognizes their rights to the territory and is offering himself in sacrifice.
+- Vukradin remembers an orc who listened to his music in Neverwinter, which confuses him further.
+- An orc lifts a greataxe and attacks Vukradin, joining battle.
+- Vukradin's attempt to parlay with the orcs fails and the battle begins when the nearest orc lifts a greataxe.
+- The nearest orc lifts a greataxe and swings, but the axe passes beside Vukradin, missing him.
+- Vukradin remembers the warning that orc tribes are coming down from the north.
+- Soma's Thorn Whip catches an orc and drags him off his feet; he tumbles down the incline and lands hard at the bottom.
+- Another orc reaches Vukradin and the greataxe connects, folding Vukradin beneath it; he does not get up.
+- Vukradin is knocked down by an orc's greataxe and lies still, with his breath catching wrong.
+- Valphine speaks Healing Word, and warm light closes around Vukradin and pulls him upright.
+- Brewbarry's first halberd swing misses, but his second swing cuts through the orc's hide armor.
+- The narrator's first halberd swing misses, so he turns the haft and swings again, cutting through hide armor into the meat of an orc.
+- An orc throws a javelin instead of closing, and it strikes the narrator, bruising through his guard, which he mostly shrugs off.
+- An orc throws a javelin that strikes Brewbarry, bruising through his guard.
+- The greataxe comes back and Vukradin falls again.
+- Vukradin falls a second time after the greataxe comes back.
+- Soma kills the orc over Vukradin with Poison Spray; the warrior stiffens, chokes, and drops beside Vukradin.
+- Another greataxe hits Valphine; she staggers, her mace lowers, then rises again.
+- Brewbarry realizes his rage should have come sooner.
+- Soma raises her hand and casts Ice Knife at the guy in the back; the knife misses but explodes anyway, and cold shards strike both orcs, Valphine, and the narrator.
+- Soma's Ice Knife misses but explodes, striking both orcs, Valphine, and Brewbarry.
+- Valphine is knocked down by the shards of Soma's Ice Knife.
+- Valphine's legs are taken out by the cold shards and she goes down among the orcs she was trying to hold, with nothing bought by her fall.
+- Brewbarry's first blade stroke kills one orc and the second drives through the other orc's guard, killing both orcs.
+- The party receives two '9' damage hits, presumably 9 damage each, from the halberd strikes that kill the orcs.
+- Brewbarry kills the last two remaining orcs with two halberd strikes.
+- The narrator puts down the halberd and goes to Vukradin, while Soma goes to Valphine; they keep pressure on wounds until breathing steadies.
+- The party decides to take a long rest and considers returning to Phandalin.
+- Valphine searches the bodies of the dead orcs.
+- The battle axes found on the orc bodies go into the shared ledger under a new column for blood money.
+- Vukradin begins a song about the orcs slaughtering them.
+- The party returns to the excavation site and finds it quiet, with the dwarves nowhere near the entrance.
+- Dazlyn and Norbus emerge from hiding after the party returns.
+- Vukradin reflects that while they fought, the dwarves had a gem in their keeping and a decision attached to it that was not about them.
+- After confirming the party is not there for the gem, Dazlyn and Norbus lower their axes and lead them to a fire pit, acting as hosts.
+- Dazlyn and Norbus lower their axes after confirming the party is not after the gem.
+- Dazlyn and Norbus lead the party to a fire pit and serve them a meal.
+- Vukradin notes that hospitality offered after confirming guests do not intend to reclaim treasure still counts as hospitality.
+- Vukradin's breath frays during his elegy, causing the note to land without the force he intended.
+- The party rests beneath the excavation stone overnight and regains their strength by morning.
+- The party rests beneath the excavation stone, and by morning Vukradin's breath no longer feels borrowed.
+- The party takes a long rest beneath the excavation stone after the orc fight.
+- The party gathers their equipment and leaves for Phandalin.
+- The party gathers their equipment and leaves the excavation site for Phandalin.
+- Vukradin tries to harmonize with the ogre's whistle but the notes fail between them and the ogre stops whistling.
+- Vukradin tries to harmonize with the ogre's whistling, but the notes fail between the group and the next rise.
+- Valphine spots an ogre climbing the far side of the hill.
+- The group decides to free the ogre.
+- The group sees no bonds, no brand, and no one behind the ogre on the road.
+- Valphine lets go of determining whether the ogre is a surface or underground ogre since there is no telling them apart by looking.
+- Vukradin admits his attempt to harmonize with the ogre's whistle was not good.
+- The ogre lifts its club and says 'Me kill you. How dare you?'
+- Vukradin has the first opening and gives it away, saying he will attack and Valphine is up.
+- Valphine attacks the ogre with Sacred Flame, which does not stop it.
+- Valphine drops Sacred Flame onto the ogre, the fire washing over its hide without stopping it.
+- Valphine raises her holy symbol and drops Sacred Flame onto the ogre; the fire washes over it without stopping it.
+- Brewbarry is positioned in front because he is broad enough to make that a complete plan.
+- Brewbarry rages and charges, but his first swing misses; the ogre steps past him.
+- Brewbarry's halberd catches the ogre hard across the body.
+- The halberd catches the ogre hard across the body and nearly folds it.
+- The ogre clubs Brewbarry in return, but rage takes the weight out of the blow.
+- Soma moves closer, plants their feet, and casts Poison Spray, which hits the ogre across the chest.
+- Soma tried Thorn Whip, hoping to drag the ogre out of Brewbarry's reach and give him another strike.
+- Soma casts Thorn Whip to drag the ogre out of Brewbarry's reach, and the thorned vine catches and pulls the ogre across the grass.
+- Soma's Thorn Whip catches and pulls the ogre across the grass.
+- Brewbarry swings after the ogre is pulled but misses.
+- Valphine's Sacred Flame works, and the ogre drops into the grass.
+- The ogre is killed by Valphine's Sacred Flame.
+- Valphine's Sacred Flame kills the ogre.
+- The party searches the ogre's body and finds enchanted ammunition.
+- Valphine Sotorra acquires a hand crossbow before reaching the Townmaster's Hall.
+- The door to the Townmaster's Hall is locked when the party arrives.
+- The door to the Townmaster's Hall is locked.
+- Harbin Wester unbolts and opens the door after Vukradin's persuasion.
+- Soma and Vukradin state they came to collect their reward from Harbin Wester.
+- Harbin Wester pays the party after they tell the dwarves about the dragon.
+- Harbin Wester pays the party their reward, including Soma's 50 gold pieces.
+- Soma checks if Harbin paid her 50 gold pieces; the coins are already in the party's possession.
+- The party receives the coins.
+- Harbin Wester is afraid, not angry over grave robbers or adventurers, as shown by his tightened mouth, attention to the door and window, and pale knuckles.
+- Harbin Wester offers two new quests: rock gnomes at Gnomengarde and a midwife past the hills.
+- The party chooses the gnomes quest because it pays better.
+- The party chooses the gnome quest at Gnomengarde over the midwife quest.
+- The party decides to keep the sending stones because no one in Phandalin can purchase them.
+- The smith examines the orc weapons and offers half their value because they are damaged.
+- The hide armor fares better at the Lionshield Coster due to intact stitching.
+- Vukradin offers the party's services to Linene Graywind for a shipment.
+- Linene Graywind hears a rumor that strange magic pervades Neverwinter Wood, confounding navigators and obscuring ancient ruins.
+- Linene tells the party a rumor that strange magic pervades Neverwinter Wood, confounding navigators and obscuring ancient ruins.
+- The party decides to stay at the Stonehill Inn in Phandalin.
+- Toblen Stonehill greets the party with urgent hospitality.
+- Vukradin plays one of his own compositions on the clarinet at the Stonehill Inn.
+- Vukradin stays where he is and keeps playing after the final note fades, waving the rest of the party off to do the work.
+- A drow asking questions in the Stonehill Inn produces abundant posture and very little truth.
+- Brewbarry does not move and stays listening to the music.
+- No rumor about the dragon separates itself from the ordinary fear already circulating in the tavern.
+- The party pays for the room at the Stonehill Inn.
+- The party sets out on the road to Gnomengarde.
+- The narrator adjusts Meril's Staff against their shoulder on the bright route.
+- Vukradin reads the gnome job, noting gnomes are known for magical inventions that might help defeat the dragon, and the party just needs to trade with them.
+- An ogre stands in the road in the mountain pass, blocking the party's path.
+- The party offers to give the ogre food if it lets them walk past.
+- Vukradin tries to intimidate the ogre, but it fails, and the ogre seems encouraged.
+- The ogre declares 'I, eternal elf' after not being intimidated.
+- Vukradin claims he has killed other ogres like this one, and the party took out one of its brothers yesterday.
+- The ogre bellows after Vukradin claims to have killed other ogres.
+- The ogre's greataxe comes up and there is no more negotiation.
+- The party's negotiation with the ogre fails and combat begins.
+- The party prepares for combat with the second ogre, with Soma moving first.
+- 04.05 Soma considers using Mold Earth to cause a rockslide on the ogre but ultimately declines because the spell doesn't cause damage.
+- Soma considers making a rockslide onto the ogre by loosening dirt from above.
+- Vukradin reads the Mold Earth spell and notes it says the movement doesn't have enough force to cause damage.
+- Soma realizes the discussion about coppers has gone on while an ogre is trying to eat him.
+- The group discusses coppers and terminal velocity while an ogre is trying to eat Soma.
+- Soma realizes churning the ground would make it hard for Brewbarry to get in there.
+- 04.05 Soma casts Poison Spray at the ogre, striking it across the chest and causing it to cough and stagger.
+- Soma casts Poison Spray, which catches the ogre across the chest, making it cough and stagger.
+- Soma moves back because the ogre said turtle was sort of its favorite food.
+- 04.05 Soma moves back because the ogre said turtle was its favorite food.
+- Soma notices Vukradin moved to the front again despite earlier backing away.
+- A turn order is established in the ambush fight with the ogre.
+- Brewbarry takes the vanguard after Vukradin backs away from the front.
+- Vukradin backs away after saying he would be in the back.
+- Brewbarry takes the vanguard position.
+- The ogre swings at whoever is nearest, missing Valphine completely, and takes off one of its own toes.
+- The ogre's greataxe misses Valphine completely, bites into the stone, and takes off one of the ogre's own toes.
+- The ogre's greataxe takes off one of the ogre's own toes.
+- Soma agrees with Vukradin's observation about the ogre's missed swing being amazing.
+- Valphine climbs partway along the rough elevation, then abandons the mace.
+- Valphine abandons the mace because the terrain denies her reach and tries a hand crossbow.
+- Valphine's hand crossbow bolt strikes the ogre, knocking its legs out from under it and slamming its full weight into the pass.
+- Vukradin uses Command on the ogre, halting it so it can take no actions until the end of its next turn.
+- Vukradin casts Command and the ogre cannot rise, take actions, or move until the end of its next turn.
+- Brewbarry surges forward with rage settled into his shoulders and brings the halberd down on the trapped ogre with a solid crack.
+- Brewbarry's position at the top of the turn order is stated.
+- 04.05 Soma sends another Poison Spray burst into the ogre's face.
+- Soma sends another burst of Poison Spray into the ogre's face.
+- The Command loosens and the ogre draws breath and flexes its hands against the dirt, remaining prone and badly hurt.
+- Valphine has the next opening after the Command loosens.
+- Harbin pays the party for telling the dwarves about the dragon.
+- The narrator's halberd catches an orc mid-stride and he drops, and then the narrator attacks both orcs again, killing one with the first blade stroke and driving the second strike through the other orc's guard.
+- Valphine calls toward the hill and says 'Slave, you are—'
+- Valphine loads the walloping ammunition taken from the previous ogre and fires, striking the ogre and knocking its legs out from under it.
+- Valphine uses the walloping ammunition taken from the previous ogre, whose legs go out from under it.
+- Vukradin sends Starry Wisp across the hill and retreats beyond the ogre's reach.
+- Vukradin states that the party must trade with the gnomes and get whatever they can from them.
+
+### Chapter 5
+- Valphine's mace attack on the ogre lands but does no damage.
+- A puff of acrid green gas surrounds the ogre, hurting and hampering it but not felling it.
+- The ogre stands and strikes Brewbarry with its axe, but the blow glances off his hardened skin due to the Uthgardt rage.
+- Valphine is surprised that the ogre's mighty blow does nothing to Brewbarry.
+- The ogre turns and runs away from the fight.
+- The ogre turns and runs, driven by primal self-preservation after its mighty blow fails.
+- Valphine shoots the fleeing ogre with a bolt from her handheld crossbow, wounding it but not stopping it.
+- Vukradin delivers the killing blow to the ogre after it fled the battle.
+- Vukradin kills the ogre, the killing blow, as Valphine watches it breathe its last.
+- The ogre dies from Vukradin's killing blow.
+- Valphine is surprised by Vukradin's calm, philosophical answer about killing the fleeing ogre.
+- Valphine finds a whistle, some coins, and a key on the ogre's body.
+- The journey to Gnomengarde is uneventful.
+- Vukradin wades into the pool and examines the mushrooms.
+- Vukradin wades through the water towards the mushrooms and Soma follows him closely.
+- Vukradin wades through the water towards the mushrooms.
+- Soma follows Vukradin closely.
+- Vukradin puts the mushrooms in his bag.
+- Vukradin says there is always a secret treasure room behind the waterfall and Soma follows him under the waterfall, getting soaked.
+- Soma stands under the waterfall with Vukradin, getting soaked, but behind it is only a rock wall.
+- Vukradin searches behind the waterfall for a secret treasure room, but finds only a rock wall.
+- Vukradin starts to climb up the cliff wall, and Soma follows him.
+- The Drow wants a rope, so the druid climbs down, takes the rope from the Drow's hands, and climbs up again.
+- Soma climbs down, takes the rope from Valphine's hands, and climbs up again.
+- Vukradin climbs down, takes a rope from the Drow's hands, and climbs back up so Soma can use it.
+- A gnome shouts in Gnomish and a female voice shouts 'Who goes there?'
+- The gnome guards question the party, suspecting they may be shapechangers.
+- The gnome asks Vukradin if he is a shapechanger and if he can prove it.
+- The female gnome says 'That's what a shapechanger would say!'
+- Vukradin challenges the gnomes that their standing orders only attack shapechangers, and their interpretation would lead to attacking anyone, asking if that is the intent.
+- The male and female gnomes talk, and the female gnome announces they have decided he is a Uthgardt Barbarian and not a shapeshifter.
+- The female gnome announces they've decided Brewbarry is an Uthgardt Barbarian and not a shapeshifter.
+- The gnome guards decide to let Brewbarry pass because it is unclear whether the standing order to attack Uthgardt on sight was renewed at their last meeting.
+- Soma stares in disbelief that bureaucracy saved them.
+- Vukradin tries a few notes on his instrument, and the gnomes seem pleased.
+- Pog waves his hand to stop Vukradin and asks why they are here.
+- Vukradin explains that the mayor is looking for a magical device to help fight the dragon threat.
+- Vukradin thanks the gnomes, crosses the bridge, and enters a room lightly obscured by waterfall mist.
+- Vukradin crosses the hanging bridge towards the inventor's workshop.
+- Vukradin stares in disbelief and marches back to Pog and Ulla.
+- Vukradin declares 'That was a death trap!'
+- Vukradin thanks Ulla and heads north.
+- Vukradin decides to disable the crossbow device rather than kill Facktore.
+- Vukradin disarms the rotating crossbow device instead of killing Facktore.
+- Facktore flees the scene of the battle.
+- Vukradin climbs down the cliff wall, wades through the river, stops on the island of mushrooms to pick more, and climbs the cliff wall again.
+- Vukradin explains they are there to look for help to fight a dragon, and the inventors brush him off.
+- Fibblestib proposes building a sanity ray to cure King Korboz's madness.
+- The gnome inventors reject Valphine's offer of clerical healing, saying 'We are gnomes, we invent our way out of illness.'
+- The gnomes say they invent their way out of illness, not use clerics.
+- Fibblestib says the inventors will walk the party through what happened so they can revisit salient facts and the party may see something they missed.
+- Fibblestib and Dabbledob explain that two gnomes, Warren and Orrin, went missing and King Korboz claims it was a shape-changing creature.
+- Vukradin explains he would like to try music to cure the king.
+- Vukradin proposes trying music to cure King Korboz's madness.
+- Vukradin wants to talk to the king and asks for the safest route to the throne room.
+- Vukradin asks for the safest way to the throne room, not interested in new death traps.
+- Vukradin asks for the safest way to the throne room.
+- Vukradin explains what happened with the rotating blades and the rotating crossbow assault system.
+- Vukradin notices Dabbledob rolling her eyes.
+- Vukradin is on a diplomatic mission from Townmaster Harbin Wester to acquire a device to fight the dragon.
+- Vukradin ponders the distasteful nature of the deal before accepting it.
+- Vukradin agrees to the deal to deal with the shapeshifter for 50 gold and the hat of wizardry.
+- Vukradin counts 50 gold in his head before accepting the deal.
+- Vukradin agrees to hunt the creature terrorizing the cave system for King Gnercli.
+- The bard and his friends go through the room with spinning blades, disabling the blades this time.
+- The bard and his friends disable the spinning blades before crossing the bridge.
+- The party crosses the bridge after the blades room.
+- Valphine stares at the two gnomes, convinced they must be the shapeshifters.
+- Valphine follows the passage north from the two gnomes.
+- Valphine takes a right into a room full of barrels instead of the room with the rotating crossbow.
+- The barrel Valphine points her crossbow at immediately transforms into a mimic.
+- The first barrel transforms into a mimic when Valphine points a crossbow at it.
+- Brewbarry charges at the mimic, striking with his Halberd.
+- Valphine makes sure she is out of range of Soma's clumsy spell.
+- Valphine sees Soma prepare to cast Ice Knife and makes sure she is out of range of the spell.
+- The mimic advances on Brewbarry and attacks with a pseudopod that misses entirely.
+- The bard unleashes invectives causing the mimic to flinch from an underlying enchantment.
+- Valphine repeats a rhyme she remembers from her youth.
+- Brewbarry's halberd attack on the ogre misses and strikes the rocky ground.
+- Fiddelstib offers to build a piano that is not normal but will play music.
+- Soma shouts at Vukradin that killing the fleeing ogre was senseless.
+- The mimic is wounded by Brewbarry's halberd, but the weapon gets stuck in its body.
+- The ogre stands and attacks Brewbarry with its axe.
+- Ulla and Pug argue about which of them looked different over the past few days.
+- Valphine shouts that they found the creature after the barrel transforms.
+- Vukradin agrees to the deal for 50 gold.
+- Vukradin and his friends disable the spinning blades and cross the bridge to where Pog and Ulla are sitting.
+- Vukradin answers the gnomes, introducing himself as 'Vukradin, the Bard!'.
+- Vukradin shouts that they should go find the secret treasure room behind the waterfall and announces there is always one.
+- Vukradin suggests foraging as many green mushrooms as possible.
+- Vukradin taps at, touches, and pokes the rock behind the waterfall, but it is just rock.
+
+### Chapter 6
+- Brewbarry struggles to pull his halberd free, the weapon stuck fast in an unseen impediment.
+- Brewbarry's halberd becomes stuck in an unseen impediment during the battle with the mimic.
+- Soma's poison puff dissipates harmlessly around the creature, leaving it unaffected.
+- Soma's poison puff fails to affect the mimic.
+- The nimble mimic misses its strike at Brewbarry, its attack sailing wide.
 - The mimic misses its strike at Brewbarry.
-- Vukradin attempts another incantation but the mimic remains unaffected, seemingly adapted to his magic.
-- Vukradin's 'utterly foolproof' incantation is unaffected by the mimic.
+- Vukradin attempts a spell, but the mimic remains utterly unaffected, seemingly adapted to his magic.
 - Soma mutters that unnatural magical creations have no place in the material world.
-- Vukradin asks Soma if she is a naturalist druid.
-- Soma says constructs and extra-planar creatures are abominations and disruptions to the natural order.
-- Vukradin and Soma debate whether Aasimar and Tieflings are natural.
-- Vukradin asks Soma about Aasimar and Tieflings.
-- Soma asks what Aasimar and Tieflings are, genuinely confused.
-- Vukradin asks Brewbarry if he has no ranged weapons.
-- Brewbarry, realizing he has no ranged weapons, thumps his head and pulls out a pair of gleaming handaxes from a hidden pouch.
+- Soma states that constructs and extra-planar creatures are abominations and disruptions to the natural order.
+- Vukradin is flustered when Soma questions what Aasimar and Tieflings are.
+- Brewbarry realizes his oversight of not having ranged weapons.
 - Brewbarry pulls out a pair of gleaming handaxes from a hidden pouch.
-- Soma kills the mimic with a final, decisive strike.
-- Soma finishes off the unnatural creature with a final, decisive strike.
-- Soma searches the room with the chests and finds nothing the gnomes forgot.
-- Soma follows Vukradin to the inventors.
-- Soma hands the inventors the proof of the monster's death.
-- Fiddlestib and Dabblebob begin discussing what kind of construct they could create from the creature's entrails.
-- Soma follows Vukradin to the King's room where they are to receive their prize.
-- Vukradin attempts to negotiate with the two Kings.
-- Vukradin asks how the kings make decisions.
-- Vukradin asks what happens when the kings disagree, suggesting there is no decision.
-- King Gnercli explains that this is a dual monarchy and they argue until a decision is made.
-- King Gnercli says the best argument wins in their decision-making.
-- Vukradin asks who decided which argument is best.
-- King Korboz explains that they decide together which argument is best.
-- Gnercli explains the two-king system rejects despotic autocratic decision making by a single individual who could be rendered unfit by a shapeshifter.
-- King Gnercli says they have two kings because they do not believe in despotic autocratic decision making by a single individual who could be rendered unfit for leadership by a shapeshifter.
-- King Gnercli says they elect another king when a new one is needed.
-- Vukradin asks if a king for a decade would have to treat a new king as an equal and take orders from him.
-- Vukradin asks about the magical hat they were told about.
-- Vukradin cuts off the kings, asking about the magical hat they said was for them.
-- The two inventors are more interested in building a tamper-proof voting box, arguing over whether such a thing is possible.
-- Soma and Vukradin arrive in Phandalin and Soma leads him to the Townmaster.
-- The party arrives in Phandalin.
-- The Townmaster again insists Vukradin is a tasteless morsel for a dragon.
-- The fifty gold is split four ways as the sun sets.
-- The group splits fifty gold four ways.
-- The party receives fifty gold from the kings, split four ways.
-- Soma heads off to spend the night in the Stonehill Tavern.
-- Soma learns about a play in Triboar whose main actor always dressed in character as a Demon named Bob.
-- The Bard had heard of the Triboar play, which had a spectacular run several years ago, and had been trying for years to get the script.
-- The tavern keeper says Triboar is as good a place as any to find the script.
-- Vukradin says they should ask for more than 25 gold.
+- Soma finishes off the mimic with a decisive strike.
+- Soma finishes off the creature with a final, decisive strike.
+- Soma kills the unnatural creature (the mimic).
+- Soma states she is not opposed to taking gold of questionable provenance.
+- Vukradin explains the sending stones can only be used for a single short message, not as part of his music.
+- Soma remembered a bird that sang a single note all season and wondered whether to tell Vukradin about it.
+- Soma remembered that she hadn't been paid and decided not to tell Vukradin about the bird.
+- Soma scours the room with the chests and finds nothing the gnomes forgot.
+- Soma hands Fiddlestib and Dabblebob the proof of the monster's death.
+- Soma hands over proof of the monster's death to Fiddlestib and Dabblebob.
+- Fiddlestib and Dabblebob begin discussing creating a construct from the creature's entrails.
+- Soma thinks that the abominations that walk the north came from inventors with no concern for the natural world.
+- Soma kept her mouth shut about her views on the inventors.
+- Soma follows Vukradin to the King's room to receive their prize.
+- King Korboz complains that King Gnercli doesn't listen to him or believe a word he says.
+- Gnercli explains this is a dual monarchy, not a single monarchy, where they argue until a decision is made.
+- Korboz asks whether three kings would make ruling more difficult.
+- Korboz shouts at Gnercli over the shapeshifter claim.
+- Gnercli says the duergar elect another king when a new one is needed.
+- Vukradin posits someone being king for a decade before a new king joins as an equal.
+- Korboz shouts that as senior king he should receive preferential treatment.
+- Valphine believes the two kings will be at each other's throats for months if not years.
+- Vukradin asks about a magical hat promised for them.
+- Angry, Gnercli shouts at Vukradin to take the hat and go.
+- Vukradin suggests Fiddlestib should be king.
+- The two inventors argue over whether building a tamper-proof voting box is possible.
+- Soma arrives in Phandalin and leads Vukradin to the Townmaster, who again insists he is a tasteless morsel for a dragon.
+- Soma leads Vukradin to Phandalin and speaks to the Townmaster.
+- The group splits fifty gold four ways as the sun sets.
+- The party splits fifty gold four ways.
+- With fifty gold split four ways, Soma heads off to spend the night in the Stonehill Tavern as the sun sets.
+- Soma heads to spend the night in the Stonehill Tavern.
+- The Bard shouts that perhaps they can do a revival of the play.
+- Valphine was annoyed at risking her life for a mere 25 gold.
+- Vukradin argues they should ask for more than 25 gold for saving a woman's life.
+- Valphine's interest was piqued when Vukradin suggested asking for more than 25 gold.
+- Valphine rolled her eyes, thinking Vukradin could solve his problems by taking gold from monsters.
+- Valphine stared in disbelief at the Tortle.
 - The group makes their way to Umbrage Hill to save Adabra.
-- The party makes their way to Umbrage Hill to save Adabra.
-- Bandits ambush the party on the way to Umbrage Hill.
-- Bandits are encountered on the trail and would have gotten the jump on the group if they had not made so much noise.
-- Bandits approach but would have gotten the jump on the group if not for the noise they made.
-- Soma transforms into a spider shape, thinking and feeling as herself while also wholly spider.
-- In spider form, Soma quickly climbs up and strikes her enemy.
-- A bandit strikes with a scimitar and misses Soma.
-- Through her many eyes, Soma sees the bandit strike with a scimitar and miss.
-- Brewbarry climbs a hill and decapitates a bandit with his halberd.
-- Brewbarry climbs up to a bandit on a hill and swings his halberd, slicing off the bandit's head, and the body falls toward him, covering him in blood.
-- Soma kills a bandit with her spider bite and poison.
-- A bandit bites someone's hand and releases poison from her glands, crushing his hand.
-- Soma's spider bite crushes the bandit's hand and releases poison, killing him.
-- The bandit dies.
-- One bandit takes out his crossbow, misses, and starts to run, afraid.
-- Soma, in spider form, strikes the fleeing bandit in the back with her hand-held crossbow, and a sprinting Vukradin kills him.
-- The Drow shoots the fleeing bandit in the back with a hand-held crossbow, and a sprinting Vukradin kills him.
-- Vukradin kills a fleeing bandit after Soma strikes him in the back.
-- Brewbarry, covered in blood, sprints to get next to the bandit who was afraid of spiders.
-- Brewbarry spares a bandit who was afraid of spiders.
-- The bandit reveals the Carver is his boss, though he has never met him and just worked with Jax.
-- Vukradin agrees to let the bandit join the group.
-- Soma picks up a scroll that contains a druidic spell.
-- Vukradin reminds Soma that the scroll should be returned to its rightful owner, and Soma realizes he has a point, questioning if she is any better than a bandit if she keeps it.
-- A bandit aims at Valphine and hits her.
-- A tavern patron tells Soma about a play in Triboar whose main actor was always dressed as a Demon with the ridiculous name Bob, and his performances were legendary.
-- Angry at Vukradin, Gnercli shouts 'Here! And go!' giving the hat.
-- Another bandit, seeing Soma's spider form, runs screaming 'Spiders!!!'.
-- Dabbledob says she prefers more kings so they could have a vote.
-- Fiddlestib tells Vukradin she favors a bicameral legislature with a unitary executive.
-- King Gnercli says there is no seniority between the kings.
-- King Gnercli, angry at Vukradin, gives them the hat and tells them to go.
-- King Korboz shouts that Gnercli didn't believe the shapeshifter existed.
-- King Korboz shouts that as the senior king he should have preferential treatment.
-- Korboz explains 'Together.'
-- Korboz shouts that shapeshifters didn't believe existed.
-- Soma shouts 'Let him go!' to Brewbarry, though realizes she is speaking like a spider and wonders what that sounds like.
-- Soma tells Vukradin about a play in Triboar, and he wants to do a revival.
-- Soma tells Vukradin there is no celestial touching here, and he is just another creature born into this world.
-- The Bard perks up upon hearing of the play, having tried for years to get its script, and shouts they should do a revival.
-- The Bard shouts 'Perhaps we can do a revival!'
-- The bandit asks to be with the group and Vukradin agrees.
-- The party receives the magical hat from the Kings.
+- The narrator walks along a narrow trail through rocky hills toward Umbrage Hill as the light fades.
+- The narrator catches a shadow slipping behind a boulder but dismisses it.
 - Valphine catches a flicker of a shadow slipping behind a boulder but dismisses it.
-- Vukradin asks if having three kings would make decision-making more difficult.
-- Vukradin declares he is a poet and will take whatever poetic license he wants.
-- Vukradin declares they have it outnumbered and will kill it before it lays a hand on them.
-- Vukradin defines Aasimar as touched by Celestials and Tieflings by the Abyss.
-- Vukradin invites the bandit to join them at dinner and tell them about the Carver, and the bandit asks to be with them, with Vukradin agreeing.
-- Vukradin screams at the group to catch the bandit who attempted to hit Brewbarry, saying he's taking stolen treasure.
-- Vukradin shouts that they're going to die.
-- Vukradin suggests Dabbledob should be king.
-- Vukradin taunts the creature, declaring they have it outnumbered and will kill it before it touches them.
-- Vukradin tells Fiddlestib she should be king.
+- Valphine dismissed a shadow slipping behind a boulder, telling herself she is not in the Dark Realms.
+- The group is confronted by bandits who would have ambushed them if not for the noise they made.
+- Bandits would have gotten the jump on the group if they had not made so much noise.
+- Vukradin shouts that they are going to die.
+- Soma becomes shaped like a spider, a new power that lets her think and feel as herself while also being wholly spider.
+- Soma shapeshifts into a spider.
+- Soma climbs up and strikes an enemy while shaped like a spider.
+- With spider-like ease, Soma quickly climbs up and strikes her enemy.
+- A bandit strikes with a scimitar and misses Soma.
+- A bandit aims at Valphine and hits her.
+- Brewbarry climbs up and swings his halberd, beheading a bandit on a hill, covering himself in blood.
+- A bandit's head flies off when Brewbarry swings his halberd.
+- Soma thought Vukradin was in shock, noting that they are so young.
+- A bandit's bite crushes Brewbarry's hand and injects poison.
+- Soma's bite releases and crushes the bandit's hand, and the poison leaves her glands.
+- Soma, in spider form, releases her bite, crushing the bandit's hand and delivering poison that kills him.
+- The bandit who bit Brewbarry dies.
+- One bandit takes out his crossbow, misses, and starts to run, afraid.
+- One of the bandits takes out his crossbow, misses, and starts to run.
+- The party is attacked by bandits; several are killed, one flees and is killed, and one surrenders.
+- The Drow reaches casually with her hand-held crossbow and strikes the fleeing bandit in the back.
+- The Drow strikes the fleeing bandit with her hand-held crossbow and Vukradin kills him.
+- Soma realizes she is speaking like a Spider and wonders what that sounds like.
+- Brewbarry tells a surrendering bandit to join the party at dinner to learn about the Carver.
+- Soma picks up a scroll containing a druidic spell.
+- Soma realizes Vukradin has a point about returning the scroll to its rightful owner.
+- Soma wonders whether she is any better than a bandit if she keeps the scroll.
+- Another bandit, seeing Soma's spider form, runs screaming 'Spiders!!!!'
+- Another bandit, seeing the narrator's spider form, runs screaming 'Spiders!!!!'.
+- Brewbarry climbs the hill toward a bandit and swings his halberd, decapitating him.
+- Brewbarry, covered in blood, sprints toward the spider-fearing bandit, and the narrator shouts 'Let him go!'.
+- Gnercli says the best argument wins in their decision-making.
+- Soma asks what Aasimar and Tieflings are, showing genuine ignorance.
+- Soma learns about a play in Triboar whose main actor was always dressed in character as a Demon with the ridiculous name Bob.
+- The fleeing bandit with stolen treasure took off, then was shot in the back.
+- The party battles a stunned mimic in Vukradin 01-02-Taraskh 1495.
+- The play in Triboar starred an actor always dressed as a Demon named Bob, and had a spectacular run several years ago.
+- The spider-fearing bandit asks to be with the party and Vukradin says 'Of course.'
+- Vukradin declares he is a poet and can take whatever poetic license he wants.
+- Vukradin screams to catch a fleeing bandit taking stolen treasure, and Valphine strikes him with a hand-held crossbow, after which a sprinting Vukradin kills him.
+- Vukradin taunts the grotesque creature, declaring they outnumber it and will kill it before it touches them.
+- Vukradin's spell fails to affect the mimic.
+
+### Chapter 7
+- Vukradin knows about the armor from Corbin's facial expression.
+- Vukradin knows Corbin took the armor from a dead man, and the bard is outraged at this act of treachery and thievery.
+- Corbin says he had no choice in wearing the armor.
+- Vukradin notices the sweat on Corbin's face and stares impassively.
+- Vukradin commands Corbin to take off his armor because as camp caretaker no armor is required.
+- Vukradin hires Corbin to take care of the camp, and tells him no armor is required.
+- Corbin asks Brewbarry if he can keep his armor.
+- Vukradin inwardly sniggers as Brewbarry wears no armor.
+- Vukradin is upset by the despair on the bandit's eyes and relents.
+- Corbin asks to keep his armor, and Vukradin relents, saying they need to get him proper fair trade armor.
+- Vukradin relents and lets Corbin keep his armor until proper fair trade armor is obtained.
+- Corbin is relieved and sighs, saying he will wear the armor to protect himself.
+- Corbin sees Soma the spider and freaks out.
+- Corbin sees the spider and freaks out.
+- Soma reverts from spider form back to tortle form.
+- Soma tells Corbin it is true he is a tortle and asks why Corbin needs armor.
+- Soma thinks it's strange that this human race has dominated so much of Faerun.
+- Valphine wonders what to do in the overbright when people are being attacked by monsters.
+- Soma knows where the conversation with Valphine is going.
+- Vukradin suggests killing the manticore, returning to Phandalin to demand more money, then coming back to bring the woman to the village.
+- Soma rolls her eyes at Vukradin's proposal to kill the manticore and demand more money.
+- Soma proposes they just kill the manticore and save the woman.
+- The group begins to climb up the hill quietly to avoid drawing attention.
+- The party climbs the hill quietly to avoid drawing attention to approach the manticore.
+- Soma wants to laugh at Corbin's question but knows it would be too loud.
+- Vukradin refuses to leave his musical instrument.
+- Soma sees Corbin as a lost little child whom she has to help.
+- Soma offers to cast mending to help Vukradin.
+- The manticore perks its head at the group and can see them all.
+- The manticore sees the party and perks its head at them.
+- Soma misses her chance to talk to the manticore.
+- Valphine wonders how Vukradin's kind even exists.
+- Valphine puts a bolt in her hand crossbow and shoots the manticore, but it is unaffected.
+- Vukradin offers to pay the manticore.
+- The manticore fires a volley of tail spikes at Valphine, hitting her.
+- The manticore says its attack will motivate them to find more money.
+- Vukradin shouts a command and casts a spell, but it doesn't work against the manticore.
+- Vukradin shouts a command, but the spell doesn't work.
+- Valphine thinks the creature's offer was a fair trade back in a different life.
+- The manticore offers to leave the group and the woman alone if they give him the human, preferring human meat.
+- Soma wonders what the manticore will do with the familiar she conjured.
+- Soma casts a spell conjuring a familiar which she orders to fly into the manticore's mouth; the creature snaps its jaws shut.
+- Soma is charging at the manticore.
+- Valphine knows Soma's look is that of a mother who won't let someone touch her clan.
+- Valphine advances toward the manticore.
+- Brewbarry throws hand axes at the manticore, one hitting its wings, and the manticore rends Brewbarry with its claws while Brewbarry strikes it with his halberd.
+- The manticore flies and rends Brewbarry with its claws.
+- Brewbarry strikes the manticore with his halberd as it flies in.
+- A frantic voice from the first floor of the windmill asks the party to do something.
+- Soma tells the captive woman to stay calm and suggests she run out while the manticore is distracted.
+- Valphine observes Vukradin wondering what to do, knowing that gambler look.
+- Soma looks hurt and asks how she can make it up to Vukradin.
+- Valphine stares at Soma, who looks visibly hurt.
+- Brewbarry climbs to the second floor and hits the manticore twice, and his rage protects him from its claws.
+- Brewbarry climbs to the second floor where the manticore is hiding and hits it twice.
+- Brewbarry's rage protects him from the worst of the manticore's claws.
+- Valphine wonders where the manticore is flying away to and sees Corbin.
+- The manticore decides to eat Corbin, flying toward him in the distance.
+- Vukradin and Soma strike the manticore with their spells.
+- Valphine is frustrated, staring in disbelief at her crossbow after missing again.
+- Brewbarry kills the manticore.
+- Vukradin cuts off the manticore's head and marches to the windmill with it.
+- Vukradin asks Adabra if she is safe, and Soma tells her 'It's safe now.'
+- Vukradin is confused that Adabra didn't guess they had won from the thump.
+- Adabra has been under siege by the manticore only a short time.
+- Vukradin tries to get Adabra to come with them, but she refuses.
+- Soma mutters that Adabra's potion sounds like a bath water potion.
+- Adabra insists on staying at the windmill to craft her potions.
+- Adabra's aura and sense of being change after Soma answers 'Naturalist.'
+- The woman's aura and sense of being change after Soma answers naturalist.
+- Vukradin tries to convince Adabra to come with the party, saying it would be safer for the villagers not to hike out in the open with a white dragon flying about.
+- Adabra decides to stay at the windmill, 'safely protected by you [the party].'
+- Soma isn't sure if Adabra is mocking them or being earnest.
+- Vukradin plays a tune for Adabra, and it is a good tune.
+- Soma tells Vukradin that Brewbarry really loves his music.
+- Soma stares at Vukradin aghast, thinking he is a naive child needing protection.
+- Adabra gives the party a note addressed to Townmaster Harbin, thanking him and asking him to reward the heroes, plus a description of how to take some medicine.
+- Brewbarry asks if the party can spend the night at the windmill.
+- Vukradin interrogates Corbin, asking if he robbed Adabra, even though Adabra insists no one has ever robbed her.
+- Corbin reveals he woke up with nothing but the clothes on his back after his family was killed, then joined a crew in the forest.
+- Vukradin has tasked Corbin with helping Adabra.
+- Vukradin asks Adabra if she stole the house, saying the party has encountered a lot of people taking things they think they are entitled to.
+- Soma mutters that the manticore thought Adabra was just meat.
+- Soma looks deflated and grouses 'Whatever' in response to Adabra's comment about her training.
+- Adabra makes a meal of hearty, fresh-baked bread, a vegetable and herb stew made with local fungi, foraged vegetables, berries, and wild greens.
+- Soma was annoyed with Adabra for criticizing her training.
+- Soma recalls that it was Meril's prompting that led her to follow Vukradin.
+- Meril's prompting led Soma to follow Vukradin.
+- Soma was reminded of gaps in her training and was upset by it.
+- Corbin recounts that the breaking of the Ordning caused chaos and emboldened the giants.
+- The Ordning, which structured the giants' world, broke, and chaos swept across the North.
+- Corbin remembers the Uthgardt barbarians of the Black Lion tribe descended on Greenmeadow in destructive raid.
+- The Uthgardt barbarians of the Black Lion tribe descended on Greenmeadow, destroying rather than raiding for supplies.
+- Corbin fought with a wood-axe and farmer's grit but it was not enough.
+- Corbin watched his fields burn, his home collapse into embers, and his family fall.
+- Corbin watched his fields burn, his home collapse, and his family fall during the Black Lion raid.
+- Corbin survived because he was knocked unconscious by a charging barbarian's shield and left for dead in a ditch, buried under the body of his neighbor.
+- Corbin awoke to silence and ash, with nothing left but the clothes on his back and a soul cleaned of hope.
+- The narrator awakens to silence and ash, with nothing but the clothes on their back.
+- Corbin drifted south for months, a ghost haunting the roads, taking what he could to survive.
+- The narrator drifts south for months, surviving by petty theft.
+- With nothing left, Corbin drifted south for months, taking what he could to survive.
+- Corbin drifted south for months, taking what he could to survive, and each petty crime chipped away at the man he had been.
+- Soma thinks about Corbin's story of seeing death and horrors and meeting Meril.
+- The narrator meets Meril during their journey.
+- Soma thinks and then sleeps after hearing Corbin's tale.
+- Soma is woken up by Adabra in the morning with bread on the table.
+- The narrator is woken up by Adabra in the morning.
+- Adabra tells the narrator they have to go get their reward.
+- Soma tells Adabra that she was the real reward.
+- The narrator tells Adabra she was the real reward.
+- Vukradin mutters that he doesn't think they will get their reward.
+- Adabra offers to give the bard a piece of her mind if he doesn't pay.
+- The narrator explains that the bard will only take money from few sources and is desperate.
+- Soma notices Vukradin feigns a tear, thinking the boy can act.
+- Vukradin feigns a tear when saying he will never get his studio.
+- Soma tells Adabra she is a naturalist, causing a change in Adabra's demeanor.
+- Adabra exclaims that Soma being a naturalist is a wonderful change from the slaughtering interventionists and says she will come and support her.
+- Soma looks at Brewbarry, who seems hurt, when she mentions the word barbarian.
+- Soma takes an opportunity to take Adabra down a peg by joking about not using the B word in front of Brewbarry.
+- Brewbarry is uncomfortable and tries to insist that he is a barbarian.
+- Soma notices Vukradin has the look of a child unsure about getting his favorite food when he asks about Adabra coming with them.
+- Vukradin asks Adabra if she was going to come with them, in a tone of hopeful uncertainty.
+- A woman's voice from the building calls out for help.
+- Adabra brings out a vial and announces it is her special potion of healing with extra scent and taste.
+- Adabra exclaims that Vukradin's music is blessed and that Aasimars are truly touched by the Celestial planes.
+- Adabra says she will come with them because they are fellow naturalists.
+- Corbin asks Vukradin why he doesn't leave his musical instrument behind so it won't get damaged.
+- Soma suggests the woman could run out while the manticore is distracted.
+- The manticore attacks Brewbarry, whose rage protects him from the worst of its claws.
+- The manticore speaks, saying 'That hurt' and 'I am just trying to get a tasty meal!'
+- Valphine offers to teach Adabra about Lathander.
+- Vukradin says he doesn't know if he can ever trust Soma.
+- Vukradin tells the woman she can come out now.

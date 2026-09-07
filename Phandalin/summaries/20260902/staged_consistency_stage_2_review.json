@@ -1,0 +1,54 @@
+{
+  "title": "2026-09-01 Session — Stage 2 Rulings",
+  "reviewId": "staged-consistency:20260902:stage-2",
+  "outputName": "staged_consistency_stage_2_decisions.json",
+  "eyebrow": "Phandalin / 2026-09-01 session / staged consistency / Stage 2",
+  "lede": "Five decisions covering seven unresolved findings need a GM ruling. Evidence-backed transcript repairs and prose corrections are already applied.",
+  "footer": "Applied without asking: 43 mechanical or editorial findings across five scene files. Three real-participant-name findings are registered for downstream scrubbing, and two checker findings were rejected from transcript evidence or the approved Stage 0 ruling. No card change will be made until decision JSON is returned.",
+  "items": [
+    {
+      "id": "s2-01",
+      "t": "Normalize the three lunar references to Selûne and the Tears of Selûne.",
+      "y": "Edit the three quotes in <code>scene_extractions/01_rumors_and_preparations_at_the_common_chord.md:313-322</code> to read ‘Selûne,’ ‘Oh, Selûne. Of course. Yeah,’ and ‘the Tears of Selûne,’ each with an editorial note.",
+
+      "n": "Preserve ‘Saloon,’ ‘Loon,’ and ‘tiers of Saloon’ as the VTT rendered them, leaving the lunar proper nouns garbled in the extraction.",
+      "ev": "The independent VTT separates the middle line as ‘Oh, Saloon. Of course. Yeah’ at <code>session_2026_09_05_session_2026_09_05_transcript.vtt:1321-1336</code>; campaign references establish the canonical names Selûne and Tears of Selûne."
+
+
+    },
+    {
+      "id": "s2-02",
+      "t": "Reconstruct Soma’s donation reaction as ‘That’s a hell of a donation.’",
+
+      "y": "Correct <code>scene_extractions/01_rumors_and_preparations_at_the_common_chord.md:450</code> to ‘That’s a hell of a donation,’ and add an editorial note explaining the overlapping VTT segmentation.",
+
+      "n": "Keep ‘That’s a hell of a domain’ and flag the exact word as unresolved; do not fold Vukradin’s following ‘random nobody’ into Soma’s line.",
+      "ev": "The generation VTT splits ‘domain’ from Vukradin’s following ‘random nobody’; the independent VTT merges them as ‘That’s a hell of a random nobody’ at <code>session_2026_09_05_session_2026_09_05_transcript.vtt:1537-1543</code>. ‘Donation’ fits the ten-gold exchange but is not directly settled by either ASR."
+    },
+    {
+      "id": "s2-03",
+      "t": "Trim Soma’s familiar proposal to the recoverable words rather than preserve the apparent ‘Iceland’ place-name.",
+
+      "y": "Change <code>scene_extractions/02_the_sewer_stakeout.md:39</code> to ‘I mean, you could tag along with a familiar…’ and add an editorial note that both VTTs lose the remainder.",
+      "n": "Keep ‘you could tag along with a familiar Iceland now’ verbatim and flag the entire ending as unresolved; no location named Iceland enters campaign canon.",
+
+      "ev": "The generation VTT has ‘familiar Iceland now’; the independent VTT has ‘familiar ice on that’ at <code>session_2026_09_05_session_2026_09_05_transcript.vtt:655</code>. Both support ‘tag along with a familiar’ and neither settles the ending."
+    },
+    {
+      "id": "s2-04",
+      "t": "Treat ‘no more Bardic Inspiration until we long rest’ as a spoken rules mistake, not a campaign house rule.",
+      "y": "Preserve the spoken quote in <code>scene_extractions/02_the_sewer_stakeout.md:289</code> and add an editorial note that Vukradin’s documented Font of Inspiration restores uses on a short rest.",
+      "n": "Leave the quote unannotated and carry forward the possibility that this session used a long-rest-only house rule.",
+      "ev": "Both VTTs contain the long-rest statement; <code>docs/party.md:247</code> records Bardic Inspiration ×4/SR and Font of Inspiration."
+    },
+    {
+      "id": "s2-05",
+      "t": "Keep Zeleen’s canonical she/her identity while preserving Vukradin’s spoken ‘him’ as a table slip.",
+
+      "y": "Leave the quote unchanged in <code>scene_extractions/03_encounter_in_the_sewers.md:324</code> and add an editorial note that the entity registry defines Zeleen as female while campaign state records historical pronoun inconsistency.",
+
+      "n": "Leave the quote unannotated and keep Zeleen’s pronouns unresolved in this stage.",
+      "ev": "The speaker-labelled VTT says ‘him’; <code>docs/entity_registry.yaml:192-196</code> defines Zeleen as a female wererat, while <code>docs/world_state.md:145-151</code> records inconsistent he/she usage."
+    }
+  ]
+}

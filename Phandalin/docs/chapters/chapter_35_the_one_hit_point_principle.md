@@ -260,7 +260,7 @@ She was right. That's the thing about Vukradin's moral clarity — it illuminate
 
 She nodded. Soma filled in the rest, briefly, accurately: *value of life.* Two words doing the work of a philosophy. I appreciate economy.
 
-The directions to Icespire Hold came without further persuasion — she was past the point of withholding information and had moved into the stage of negotiating which prison would be most convenient. Her preference was Axholm. She made a reasonable case. She also mentioned, with the timing of someone who has been sitting on a punchline, that the Carver was heading to Icespire Hold as well. The same location. At roughly the same time.
+The directions to Icespire Hold came without further persuasion — she was past the point of withholding information and had moved into the stage of negotiating which prison would be most convenient. Her preference was Axeholm. She made a reasonable case. She also mentioned, with the timing of someone who has been sitting on a punchline, that the Carver was heading to Icespire Hold as well. The same location. At roughly the same time.
 
 She watched us absorb this.
 
@@ -344,7 +344,6 @@ As long as she stays above one hit point. I was quite clear about that.
 
 ---
 
-<!-- INFERRED DATE: 23-03-Tarsakh 1495 -->
 The long rest, at least, was simple.
 
 We settled in. The night was cold in the way that nights near mountains are cold — a specific, personal cold, as though the air has decided you individually and has views about your presence. I kept my instrument near. I did not play anything substantial, just ran my fingers across the strings in the way you do when you're thinking without quite thinking, chord shapes without resolution.

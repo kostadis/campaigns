@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-06T02:28:41",
+  "transcript": "/home/kostadis/phandalin/Phandalin/summaries/20260902/GMT20260902-040118_Recording.transcript.cleaned.vtt",
+  "threshold": 0.85,
+  "min_tokens": 4,
+  "artifacts": [
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/01_rumors_and_preparations_at_the_common_chord.md",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/02_the_sewer_stakeout.md",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/03_encounter_in_the_sewers.md",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/04_the_stakeout_of_denvar.md",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/05_the_dead_drop_at_the_house_of_a_thousand_faces.md"
+  ],
+  "counts": {
+    "verified": 896,
+    "near": 0,
+    "unverified": 0,
+    "unscored": 0,
+    "exempt": 0
+  },
+  "refusals": {
+    "total": 0,
+    "by_rule": {
+      "R1": 0,
+      "R3": 0
+    }
+  },
+  "not_checked": [
+    "Inline `\"\u2026\"` spans in prose \u2014 not reliably dialogue (a plaque honouring the \"liberators of the Ordning\" is a label, not speech). Only `> \"\u2026\"` blockquotes are verified.",
+    "Speaker attribution. This report answers *were these words said*, not *did this person say them*.",
+    "`## Scene summary` sections \u2014 human-authored gm-assist content, not model output."
+  ],
+  "claims": {
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/01_rumors_and_preparations_at_the_common_chord.md": "verbatim",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/02_the_sewer_stakeout.md": "verbatim",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/03_encounter_in_the_sewers.md": "verbatim",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/04_the_stakeout_of_denvar.md": "verbatim",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions/05_the_dead_drop_at_the_house_of_a_thousand_faces.md": "verbatim"
+  }
+}

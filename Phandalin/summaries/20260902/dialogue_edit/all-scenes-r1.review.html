@@ -1,0 +1,352 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Dialogue Edit — 2026-09-02 — All Scenes</title><style id="css">
+:root {
+  --ground:#F1F3F1; --surface:#FAFBFA; --surface-2:#E6EAE7;
+  --rule:#CBD3CD; --rule-soft:#DDE3DE;
+  --ink:#171B19; --ink-2:#4A544E; --ink-3:#6E7A73;
+  --accent:#2F6F62; --accent-soft:#DCE9E5;
+  --ok:#2F6F62; --ok-bg:#DCE9E5;
+  --no:#A63446; --no-bg:#F5E2E5;
+  --talk:#A26A1F; --talk-bg:#F6EBDA;
+  --shadow:0 1px 2px rgba(23,27,25,.05),0 8px 24px -16px rgba(23,27,25,.18);
+  --serif:Georgia,"Times New Roman",serif;
+  --sans:"Helvetica Neue",Arial,sans-serif;
+  --mono:ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+    --rule:#2E3835; --rule-soft:#242C2A;
+    --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+    --accent:#6BBBA7; --accent-soft:#1B2E2A;
+    --ok:#6BBBA7; --ok-bg:#1B2E2A;
+    --no:#E28794; --no-bg:#34191E;
+    --talk:#DDAA5E; --talk-bg:#33280F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"] {
+  --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+  --rule:#2E3835; --rule-soft:#242C2A;
+  --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+  --accent:#6BBBA7; --accent-soft:#1B2E2A;
+  --ok:#6BBBA7; --ok-bg:#1B2E2A;
+  --no:#E28794; --no-bg:#34191E;
+  --talk:#DDAA5E; --talk-bg:#33280F;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px 100px}
+
+.top{padding:56px 0 26px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
+h1{font-family:var(--serif);font-weight:800;font-size:3rem;line-height:1.04;letter-spacing:0;margin:0 0 14px;text-wrap:balance}
+.lede{font-family:var(--serif);font-size:1.16rem;color:var(--ink-2);max-width:60ch;margin:0;line-height:1.5}
+
+.bar{position:sticky;top:0;z-index:20;background:var(--ground);border-bottom:1px solid var(--rule);
+  padding:12px 0;margin-bottom:6px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.prog{font-family:var(--mono);font-size:13px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.prog b{color:var(--ink);font-size:15px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-family:var(--mono);font-size:11px;letter-spacing:0;text-transform:uppercase;padding:3px 8px;border-radius:2px;font-weight:500}
+.chip.a{background:var(--ok-bg);color:var(--ok)}
+.chip.r{background:var(--no-bg);color:var(--no)}
+.chip.d{background:var(--talk-bg);color:var(--talk)}
+.spacer{flex:1 1 auto}
+
+button{font-family:inherit;font-size:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.save{background:var(--accent);color:var(--ground);border:1px solid var(--accent);
+  border-radius:3px;padding:9px 20px;font-family:var(--mono);font-size:12.5px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:opacity .15s}
+.save[disabled]{opacity:.35;cursor:not-allowed}
+:root[data-theme="dark"] .save,:root:not([data-theme="light"]) .save{color:#0D1211}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .save{color:#FAFBFA}}
+
+.bulk{background:transparent;border:1px solid var(--rule);color:var(--ink-2);border-radius:3px;
+  padding:8px 13px;font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase}
+.bulk:hover{border-color:var(--talk);color:var(--talk)}
+
+.msg{font-family:var(--mono);font-size:12px;padding:10px 14px;border-radius:3px;margin:10px 0 0;
+  background:var(--surface-2);color:var(--ink-2);border-left:2px solid var(--accent)}
+.msg.warn{border-left-color:var(--talk);color:var(--talk)}
+.msg[hidden]{display:none}
+
+.items{display:flex;flex-direction:column;gap:14px;margin-top:22px}
+
+.item{background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--rule);
+  border-radius:3px;padding:20px 22px 18px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow)}
+.item[data-choice="approve"]{border-left-color:var(--ok)}
+.item[data-choice="reject"]{border-left-color:var(--no)}
+.item[data-choice="discuss"]{border-left-color:var(--talk)}
+
+.item-head{display:flex;gap:12px;align-items:baseline}
+.num{font-family:var(--mono);font-size:12px;color:var(--ink-3);flex:none;padding-top:4px;font-variant-numeric:tabular-nums}
+.item h2{font-family:var(--serif);font-size:1.24rem;font-weight:600;line-height:1.28;margin:0;text-wrap:balance}
+
+.outcomes{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.outcome{background:var(--surface-2);border-radius:3px;padding:11px 13px;font-size:13.4px;line-height:1.5;color:var(--ink-2)}
+.outcome b{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:0;
+  text-transform:uppercase;margin-bottom:4px}
+.outcome.y b{color:var(--ok)}
+.outcome.n b{color:var(--no)}
+.outcome code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere;color:var(--ink)}
+
+.ev{font-size:13px;color:var(--ink-3);line-height:1.55;margin:0;padding-left:12px;border-left:2px solid var(--rule-soft)}
+.ev code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.ev em{color:var(--ink-2);font-style:italic}
+
+.choices{display:flex;gap:8px;flex-wrap:wrap}
+.ch{flex:1 1 auto;min-width:104px;background:transparent;border:1px solid var(--rule);color:var(--ink-2);
+  border-radius:3px;padding:10px 14px;font-family:var(--mono);font-size:12px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:background .12s,border-color .12s,color .12s}
+.ch:hover{border-color:var(--ink-3);color:var(--ink)}
+.ch[aria-pressed="true"][data-choice="approve"]{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)}
+.ch[aria-pressed="true"][data-choice="reject"]{background:var(--no-bg);border-color:var(--no);color:var(--no)}
+.ch[aria-pressed="true"][data-choice="discuss"]{background:var(--talk-bg);border-color:var(--talk);color:var(--talk)}
+
+.note{width:100%;background:var(--ground);border:1px solid var(--rule);border-radius:3px;color:var(--ink);
+  font-family:var(--sans);font-size:13.5px;padding:9px 12px}
+.note::placeholder{color:var(--ink-3)}
+.note:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.note[hidden]{display:none}
+
+.foot{margin-top:56px;padding-top:26px;border-top:2px solid var(--ink);font-size:13.4px;color:var(--ink-2);line-height:1.6}
+.foot code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.foot .applied{margin:0 0 14px}
+
+.search{width:min(260px,100%);height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;
+  background:var(--surface);color:var(--ink);font-family:var(--sans);font-size:13px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.filters{display:flex;gap:5px;flex-wrap:wrap}
+.filter{height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;background:transparent;
+  color:var(--ink-2);font-family:var(--mono);font-size:11px;text-transform:uppercase}
+.filter[aria-pressed="true"]{background:var(--surface-2);border-color:var(--ink-3);color:var(--ink)}
+
+@media (max-width:600px){
+  .wrap{padding:0 16px 80px}.item-head{flex-direction:column;gap:4px}
+  h1{font-size:2.2rem}.lede{font-size:1rem}.search{width:100%}.filters{width:100%}
+  .filter{flex:1 1 30%;min-width:0}.save,.bulk{flex:1 1 auto}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body><div id="app"></div><script type="application/json" id="state">{"decisions": {}, "notes": {}, "savedAt": null}</script><script type="text/plain" id="src">
+var TITLE = "Dialogue Edit — 2026-09-02 — All Scenes";
+var EYEBROW = "Phandalin / Session 2026-09-02 / dialogue edit";
+var LEDE = "Rule on each of 18 exact dialogue proposals across the five selected narration scenes.";
+var FOOTER = "No narration edits have been applied. Scene 2 was reviewed with no supported changes proposed; unresolved transcript fragments remain unchanged.";
+var ITEMS = [{"id": "s01-01", "t": "Scene 1 — Patrons of the Chord / s01-01: Complete Valphine&#x27;s question with the single word established by the reviewed extraction&#x27;s intent label.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:61\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“I&#x27;m sorry, I lost track. What… What do I?”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“I&#x27;m sorry, I lost track. What… What do I know?”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“It&#x27;s a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.”\n\nValphine looks up. “I&#x27;m sorry, I lost track. What… What do I?”\n\n“Lord NeverEmber. Lord Never Flaming.” I remind her of the important part. “new drow advisor that we will.”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:113\u003c/code>\u003c/p>\u003cpre>&quot;I&#x27;m sorry, I lost track. What… What do I?&quot;\u003c/pre>"}, {"id": "s01-02", "t": "Scene 1 — Patrons of the Chord / s01-02: Remove an unsupported trailing conjunction after the complete request while preserving Vukradin&#x27;s upbeat cadence.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:297\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“That&#x27;s great. Well, let&#x27;s add them to the program notes, and”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“That&#x27;s great. Well, let&#x27;s add them to the program notes.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>They belong in the annual credits.\n\n“That&#x27;s great. Well, let&#x27;s add them to the program notes, and”\n\nTheir names are written down.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:517\u003c/code>\u003c/p>\u003cpre>&quot;That&#x27;s great. Well, let&#x27;s add them to the program notes, and&quot;\u003c/pre>"}, {"id": "s01-03", "t": "Scene 1 — Patrons of the Chord / s01-03: Keep Vukradin&#x27;s repeated question and remove only the unrecoverable trailing fragment; the next beat confirms the refund question.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:329\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“Did you come? Did you come? Did I give you your money back at the end of.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“Did you come? Did you come? Did I give you your money back?”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“Yeah.”\n\n“Did you come? Did you come? Did I give you your money back at the end of.”\n\nHe confirms that he did, and that I promised refunds to anyone who did not rate the performance ten out of ten. This was an honest policy. If an audience does not enjoy a performance, the artist should not hide behind prestige and insist that their disappointment is a failure of sophistication.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:577\u003c/code>\u003c/p>\u003cpre>&quot;Did you come? Did you come? Did I give you your money back at the end of.&quot;\u003c/pre>"}, {"id": "s01-04", "t": "Scene 1 — Patrons of the Chord / s01-04: Trim a garbled false start while retaining Old Hesp&#x27;s mixed criticism and respect, then land on the table he points out in the next sentence.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:347\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her, she&#x27;s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her. I mean, I remember the Brewbarry table.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“Yeah, yeah, I agree.”\n\n“It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her, she&#x27;s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.”\n\nHe points toward Brewbarry’s table.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:604\u003c/code>\u003c/p>\u003cpre>&quot;It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her, she&#x27;s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.&quot;\u003c/pre>"}, {"id": "s01-05", "t": "Scene 1 — Patrons of the Chord / s01-05: Remove the false start and clarify the parallel list without changing Old Hesp&#x27;s comparison to the old table.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md:351\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“Was, you know, that was not leather and shiny and with a plaque.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“That was not leather and shiny and covered with a plaque.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>He points toward Brewbarry’s table.\n\n“Was, you know, that was not leather and shiny and with a plaque.”\n\nHe remembers when the Common Chord did not serve fancy food. I look at the polished leather, the plaque, and the patrons dressed to be seen listening. Petra has succeeded magnificently at making money. That is not the same thing as preserving the room.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md:607\u003c/code>\u003c/p>\u003cpre>&quot;Was, you know, that was not leather and shiny and with a plaque.&quot;\u003c/pre>"}, {"id": "s03-01", "t": "Scene 3 — Lost in Rsolk's Tunnels / s03-01: Correct sentence capitalization and the compound modifier without changing Soma&#x27;s qualified promise.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_03_lost_in_rsolk_s_tunnels.scrubbed.md:217\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene03-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;\u003c/pre>\u003cp>After\u003c/p>\u003cpre>&quot;We have kind of an arm&#x27;s-length relationship with the Common Chord, but I will ask for you.&quot;\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>I must be precise. Our relationship with the Common Chord exists, but it is not the sort of relationship where I can promise their seats as if I control the venue.\n\n&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;\n\n&quot;That&#x27;s all I could ask for.&quot;\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/03_encounter_in_the_sewers.md:367\u003c/code>\u003c/p>\u003cpre>&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;\u003c/pre>"}, {"id": "s04-01", "t": "Scene 4 — Denvar's Unsettled Account / s04-01: Untangle Valphine&#x27;s phrasing while preserving her proposal to question Denvar&#x27;s landlord.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:61\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“Who we could potentially ask questions about him of.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“Who we could potentially ask about him.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>It is a lodging house, which means a landlord.\n\n“Okay, so he has a landlord,” she says. “Who we could potentially ask questions about him of.”\n\nUnfortunately, it is still the middle of the night. We wait until seven. My joints do not appreciate standing around after walking all night, but they have complained about more useful things before.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:131\u003c/code>\u003c/p>\u003cpre>&quot;Who we could potentially ask questions about him of.&quot;\u003c/pre>"}, {"id": "s04-02", "t": "Scene 4 — Denvar's Unsettled Account / s04-02: Remove an unrecoverable false start while preserving Soma&#x27;s emphatic objection and dry tone.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:103\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“No, no, we have… Very… that’s kind of slanderous to us.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“No, no. That’s kind of slanderous to us.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>Then, because the first comparison has gone so well, he tries another. “I guess you’re not like… I guess you’re not like turtles.”\n\n“No, no, we have… Very… that’s kind of slanderous to us.”\n\nOnly then does he look past me. Valphine stands in white armor, her eyes glowing gold. Brewbarry has the size, muscles, and exposed weapons of Brewbarry. The landlord’s face changes.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:233\u003c/code>\u003c/p>\u003cpre>&quot;No, no, we have… Very… that&#x27;s kind of slanderous to us.&quot;\u003c/pre>"}, {"id": "s04-03", "t": "Scene 4 — Denvar's Unsettled Account / s04-03: Correct the tense and remove repeated filler so Soma&#x27;s request matches the immediate conversation with the landlord.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:177\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“We asked him about the, you know, the gentleman we, you know, followed back here.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“We wanted to ask about the gentleman we followed back here.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“Alright.”\n\n“We asked him about the, you know, the gentleman we, you know, followed back here.”\n\n“You mean Denvar?”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:336\u003c/code>\u003c/p>\u003cpre>&quot;We asked him about the, you know, the gentleman we, you know, followed back here.&quot;\u003c/pre>"}, {"id": "s04-04", "t": "Scene 4 — Denvar's Unsettled Account / s04-04: Resolve a comma splice into Soma&#x27;s characteristic short landing beats.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:181\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“Denvar. Yeah. That’s more than we came with, we got a name.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“Denvar. Yeah. That’s more than we came with. We got a name.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“You mean Denvar?”\n\n“Denvar. Yeah. That’s more than we came with, we got a name.”\n\n“Denvar!”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:342\u003c/code>\u003c/p>\u003cpre>&quot;Denvar. Yeah. That&#x27;s more than we came with, we got a name.&quot;\u003c/pre>"}, {"id": "s04-05", "t": "Scene 4 — Denvar's Unsettled Account / s04-05: Remove the false start and express the same totality in grammatical speech while keeping Soma&#x27;s punchline intact.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:219\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“And all his deliveries… Every one of his delivery chits is the same. They’re all this one thing. He literally has one job.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>Each chit has a client reference and a house mark. None has a personal name.\n\n“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”\n\nNot ten employers. Not odd work around the district. One repeated contract moving nine crates at the third hour, eight up and one down.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:410\u003c/code>\u003c/p>\u003cpre>&quot;And the… all his deliveries… 100% of his delivery chits are the same. They&#x27;re all this one thing. He literally has one job.&quot;\u003c/pre>"}, {"id": "s04-06", "t": "Scene 4 — Denvar's Unsettled Account / s04-06: Move the adverb into a natural position without changing Soma&#x27;s deduction or rhetorical question.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:239\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“And so that was the one he presumably just delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>The one we watched has not been paid.\n\n“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”\n\nYes.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:446\u003c/code>\u003c/p>\u003cpre>&quot;And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don&#x27;t we?&quot;\u003c/pre>"}, {"id": "s05-01", "t": "Scene 5 — Harpers Behind the Wall / s05-01: Capitalize Soma&#x27;s complete imperative without altering its clipped delivery.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:49\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“eyeball the wall.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“Eyeball the wall.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“Denvar might be a dead end.”\n\nI turn back to the compartment. “eyeball the wall.”\n\n“Valphine, you wanna do your…” Vukradin begins.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:121\u003c/code>\u003c/p>\u003cpre>&quot;eyeball the wall.&quot;\u003c/pre>"}, {"id": "s05-02", "t": "Scene 5 — Harpers Behind the Wall / s05-02: Capitalize Vukradin&#x27;s complete answer while retaining its brevity.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:57\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“on the wall.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“On the wall.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>Valphine looks between Denvar and the stone. “You mean, like, on him, or on the…”\n\n“on the wall.”\n\n“on the wall.”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:133\u003c/code>\u003c/p>\u003cpre>&quot;on the wall.&quot;\u003c/pre>"}, {"id": "s05-03", "t": "Scene 5 — Harpers Behind the Wall / s05-03: Capitalize Soma&#x27;s repeated answer while preserving the separate speaker beat.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:59\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“on the wall.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“On the wall.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“on the wall.”\n\n“on the wall.”\n\n“I&#x27;m gonna look at him just before he goes.”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:136\u003c/code>\u003c/p>\u003cpre>&quot;on the wall.&quot;\u003c/pre>"}, {"id": "s05-04", "t": "Scene 5 — Harpers Behind the Wall / s05-04: Lowercase the common material noun while preserving Vukradin&#x27;s uncertainty and trailing cadence.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:73\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“Or is it Earth, or…”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“Or is it earth, or…”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“Oh, okay. Well, let&#x27;s loop around.”\n\n“Or is it Earth, or…” Vukradin asks.\n\nIt is a stone dwelling.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:159\u003c/code>\u003c/p>\u003cpre>&quot;Or is it Earth, or…&quot;\u003c/pre>"}, {"id": "s05-05", "t": "Scene 5 — Harpers Behind the Wall / s05-05: Separate Soma&#x27;s sarcastic assertion from the follow-up question so the intended delivery reads cleanly.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:197\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“It&#x27;s totally not, you sure.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“It&#x27;s totally not. You sure?”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“Not.”\n\n“It&#x27;s totally not, you sure.”\n\n“It definitely is not.”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:386\u003c/code>\u003c/p>\u003cpre>&quot;It&#x27;s totally not, you sure.&quot;\u003c/pre>"}, {"id": "s05-06", "t": "Scene 5 — Harpers Behind the Wall / s05-06: Capitalize Vukradin&#x27;s complete inventory question without changing its telegraphic rhythm.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md:233\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“desk, papers, supplies?”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“Desk, papers, supplies?”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>I guide the rat around the office. Desk, papers, supplies. No windows and no easy way out except the opening we have made.\n\n“desk, papers, supplies?” Vukradin asks.\n\nThere is nothing the rat can bring back that would answer this cleanly.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:434\u003c/code>\u003c/p>\u003cpre>&quot;desk, papers, supplies?&quot;\u003c/pre>"}];
+var REVIEW_ID = "dialogue-edit:20260902:all-scenes:r1";
+var OUTPUT_NAME = "dialogue_edit_all_scenes_decisions.json";
+
+var LABEL = {approve:"Approve", reject:"Reject", discuss:"Discuss"};
+
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+function readState(){
+  try { return JSON.parse(document.getElementById("state").textContent); }
+  catch(e){ return {decisions:{},notes:{},savedAt:null}; }
+}
+
+var state = readState();
+if(!state.decisions) state.decisions = {};
+if(!state.notes) state.notes = {};
+state.filter = 'all';
+state.search = '';
+try {
+  var stored = JSON.parse(localStorage.getItem('codex-review:' + REVIEW_ID) || '{}');
+  if(stored.decisions) state.decisions = stored.decisions;
+  if(stored.notes) state.notes = stored.notes;
+} catch(e) {}
+
+function persist(){
+  try { localStorage.setItem('codex-review:' + REVIEW_ID, JSON.stringify({decisions:state.decisions,notes:state.notes})); }
+  catch(e) {}
+}
+
+function counts(){
+  var c = {approve:0,reject:0,discuss:0};
+  ITEMS.forEach(function(it){ var d = state.decisions[it.id]; if(d) c[d]++; });
+  return c;
+}
+
+function render(){
+  var c = counts(), done = c.approve + c.reject + c.discuss;
+  var query = state.search.toLowerCase();
+  var visible = ITEMS.filter(function(it){
+    var choice = state.decisions[it.id] || '';
+    var filterMatch = state.filter === 'all' || (state.filter === 'unmarked' ? !choice : choice === state.filter);
+    var searchMatch = !query || [it.id,it.t,it.y,it.n,it.ev || ''].join(' ').toLowerCase().indexOf(query) !== -1;
+    return filterMatch && searchMatch;
+  });
+  var h = '';
+
+  h += '<div class="wrap">';
+  h += '<div class="top">';
+  h += '<div class="eyebrow">' + esc(EYEBROW) + '</div>';
+  h += '<h1>' + esc(TITLE) + '</h1>';
+  h += '<p class="lede">' + esc(LEDE) + '</p>';
+  h += '</div>';
+
+  h += '<div class="bar">';
+  h += '<span class="prog"><b>' + done + '</b> of ' + ITEMS.length + ' decided</span>';
+  h += '<span class="chips">';
+  if(c.approve) h += '<span class="chip a">' + c.approve + ' approve</span>';
+  if(c.reject)  h += '<span class="chip r">' + c.reject + ' reject</span>';
+  if(c.discuss) h += '<span class="chip d">' + c.discuss + ' discuss</span>';
+  h += '</span>';
+  h += '<span class="spacer"></span>';
+  h += '<input class="search" id="search" type="search" placeholder="Search findings" value="' + esc(state.search) + '">';
+  h += '<span class="filters">';
+  [['all','All'],['unmarked','Unmarked'],['approve','Approved'],['reject','Rejected'],['discuss','Discuss']].forEach(function(pair){
+    h += '<button class="filter" data-filter="' + pair[0] + '" aria-pressed="' + (state.filter === pair[0]) + '">' + pair[1] + '</button>';
+  });
+  h += '</span>';
+  h += '<button class="bulk" id="allDiscuss">Discuss all ' + ITEMS.length + '</button>';
+  h += '<button class="bulk" id="copy">Copy output</button>';
+  h += '<button class="save" id="save">Save output</button>';
+  h += '</div>';
+
+  h += '<div class="msg" id="msg" hidden></div>';
+
+  h += '<div class="items">';
+  visible.forEach(function(it){
+    var i = ITEMS.indexOf(it);
+    var d = state.decisions[it.id] || '';
+    h += '<div class="item"' + (d ? ' data-choice="' + d + '"' : '') + '>';
+    h += '<div class="item-head"><span class="num">' + (i+1 < 10 ? '0' : '') + (i+1) + '</span>';
+    h += '<h2>' + it.t + '</h2></div>';
+    h += '<div class="outcomes">';
+    h += '<div class="outcome y"><b>If approved</b>' + it.y + '</div>';
+    h += '<div class="outcome n"><b>If rejected</b>' + it.n + '</div>';
+    h += '</div>';
+    if(it.ev) h += '<p class="ev">' + it.ev + '</p>';
+    h += '<div class="choices">';
+    ['approve','reject','discuss'].forEach(function(k){
+      h += '<button class="ch" data-item="' + it.id + '" data-choice="' + k + '" aria-pressed="' +
+           (d === k ? 'true' : 'false') + '">' + LABEL[k] + '</button>';
+    });
+    h += '</div>';
+    h += '<input class="note" data-note="' + it.id + '" placeholder="Add a note for this one (optional)" value="' +
+         esc(state.notes[it.id] || '') + '"' + (d === 'discuss' || state.notes[it.id] ? '' : ' hidden') + '>';
+    h += '</div>';
+  });
+  if(!visible.length) h += '<div class="msg">No findings match this view.</div>';
+  h += '</div>';
+
+  h += '<div class="foot">';
+  if(FOOTER) h += '<p class="applied">' + esc(FOOTER) + '</p>';
+  h += 'Use Copy output to paste the rulings into chat, or Save output to download <code>' + esc(OUTPUT_NAME) + '</code>. ' +
+       'Unmarked findings remain unresolved; they are never treated as rejected.';
+  h += '</div>';
+  h += '</div>';
+
+  document.getElementById('app').innerHTML = h;
+  wire();
+}
+
+function flash(text, warn){
+  var m = document.getElementById('msg');
+  if(!m) return;
+  m.textContent = text;
+  m.className = warn ? 'msg warn' : 'msg';
+  m.hidden = false;
+}
+
+function wire(){
+  Array.prototype.forEach.call(document.querySelectorAll('.ch'), function(b){
+    b.addEventListener('click', function(){
+      var id = b.getAttribute('data-item'), k = b.getAttribute('data-choice');
+      state.decisions[id] = (state.decisions[id] === k) ? undefined : k;
+      if(!state.decisions[id]) delete state.decisions[id];
+      persist();
+      render();
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('.note'), function(n){
+    n.addEventListener('input', function(){
+      var id = n.getAttribute('data-note');
+      if(n.value) state.notes[id] = n.value; else delete state.notes[id];
+      persist();
+    });
+  });
+
+  var all = document.getElementById('allDiscuss');
+  if(all) all.addEventListener('click', function(){
+    ITEMS.forEach(function(it){ state.decisions[it.id] = 'discuss'; });
+    persist();
+    render();
+  });
+
+  var search = document.getElementById('search');
+  if(search) search.addEventListener('input', function(){
+    state.search = search.value;
+    render();
+    var next = document.getElementById('search');
+    if(next){ next.focus(); next.setSelectionRange(next.value.length, next.value.length); }
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('[data-filter]'), function(b){
+    b.addEventListener('click', function(){ state.filter = b.getAttribute('data-filter'); render(); });
+  });
+
+  var copy = document.getElementById('copy');
+  if(copy) copy.addEventListener('click', copyOutput);
+  var save = document.getElementById('save');
+  if(save) save.addEventListener('click', doSave);
+}
+
+function output(){
+  var c = counts();
+  var decisions = {}, notes = {}, unmarked = [];
+  ITEMS.forEach(function(it){
+    var choice = state.decisions[it.id];
+    if(choice) decisions[it.id] = choice; else unmarked.push(it.id);
+    if(state.notes[it.id]) notes[it.id] = state.notes[it.id];
+  });
+  return {
+    schemaVersion: 1,
+    reviewId: REVIEW_ID,
+    savedAt: new Date().toISOString().replace('T',' ').slice(0,16) + ' UTC',
+    decided: c.approve + c.reject + c.discuss,
+    tally: c,
+    decisions: decisions,
+    notes: notes,
+    discuss: ITEMS.filter(function(it){ return decisions[it.id] === 'discuss'; }).map(function(it){ return it.id; }),
+    unmarked: unmarked
+  };
+}
+
+function outputText(){ return JSON.stringify(output(), null, 2); }
+
+function copyOutput(){
+  var value = outputText();
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(value).then(function(){ flash('Decision output copied.'); }).catch(function(){ fallbackCopy(value); });
+  } else fallbackCopy(value);
+}
+
+function fallbackCopy(value){
+  var area = document.createElement('textarea');
+  area.value = value; area.style.position = 'fixed'; area.style.opacity = '0';
+  document.body.appendChild(area); area.select();
+  try {
+    if(document.execCommand('copy')) flash('Decision output copied.');
+    else window.prompt('Copy the decision output:', value);
+  } catch(e) { window.prompt('Copy the decision output:', value); }
+  area.remove();
+}
+
+function doSave(){
+  var blob = new Blob([outputText()], {type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var link = document.createElement('a');
+  link.href = url; link.download = OUTPUT_NAME;
+  document.body.appendChild(link); link.click(); link.remove();
+  URL.revokeObjectURL(url);
+  flash('Saved ' + OUTPUT_NAME + '.');
+}
+
+render();
+</script><script>new Function(document.getElementById("src").textContent)();</script></body></html>

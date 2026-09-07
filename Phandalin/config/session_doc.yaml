@@ -1,19 +1,20 @@
 paths:
   session_recap: gm-assist.md
   session_summary: session-summary.md
-  scene_extractions_dir: scene_extractions
-  narration_dir: narration
+  scene_extractions_dir: scene_extractions_smoothed
+  narration_dir: narration3
   output_dir: null
   party: docs/party.md
   voice_dir: voice
   examples_dir: examples
   genre_file: voice/_genre.md
 extract:
-  tokens: 32000
+  tokens: 70000
   batch_scenes: null
-  batch_tokens: 32000
+  batch_tokens: 70000
 narrate:
-  tokens: 32000
+  tokens: 70000
+  batch_tokens: 70000
   prose_mode: true
   reflections: true
   context: []
@@ -86,4 +87,12 @@ profiles:
     reflections: true
     narration_genre_file: voice/_genre.md
     backend: claude-code
-active_profile: '20250514'
+- name: '20260902'
+  knobs:
+    narrate_tokens: 70000
+    narrate_batch_tokens: 70000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: voice/_genre.md
+    backend: codex-cli
+active_profile: '20260902'

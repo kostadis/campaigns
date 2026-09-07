@@ -1,0 +1,723 @@
+# Transcript corrections — the record the .cleaned.vtt is generated from.
+# CampaignGenerator #250 R4. Edit this file, then run:
+#     sd_corrections apply --dir .
+# `was` is checked against the raw tape on every apply, so a stale entry
+# fails loudly instead of pasting an old repair over new words.
+# `verified: false` means nobody has reviewed this one yet.
+version: 1
+transcript: GMT20260902-040118_Recording.transcript.vtt
+corrections:
+- id: cue-0002
+  cue: 2
+  was: 'Wade Brown: Wake up Kostad.'
+  now: 'Wade Brown: Wake up Kostadis.'
+  recorded: &id001 2026-09-05
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0041
+  cue: 41
+  was: 'Kostadis Roussos: Here''s the summary of events according to Blueberry.'
+  now: 'Kostadis Roussos: Here''s the summary of events according to Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0042
+  cue: 42
+  was: 'Wade Brown: Rubary, who''s not with us today.'
+  now: 'Wade Brown: Brewbarry, who''s not with us today.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0043
+  cue: 43
+  was: 'Wade Brown: Of course, we''re also missing a, Rukrotin.'
+  now: 'Wade Brown: Of course, we''re also missing a, Vukradin.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0058-portal
+  cue: 58
+  was: 'Kostadis Roussos: Portal runs the board laid bare, cooks better than anyone I have eaten from. Soma''s friend for years. Her preferences never moved while the rest of the city doubled, and that is because her supplier was never on the manifold in the first place.'
+  now: 'Kostadis Roussos: Tortle runs the board laid bare, cooks better than anyone I have eaten from. Soma''s friend for years. Her preferences never moved while the rest of the city doubled, and that is because her supplier was never on the manifold in the first place.'
+  recorded: 2026-09-05
+  verified: true
+  note: cue-scoped on purpose; NOT a glossary row. A blanket Portal->Tortle rule would corrupt 'Portal Pay' at cue 344, which is left as spoken. GM-approved, artifact d1058f80.
+- id: cue-0062
+  cue: 62
+  was: 'Kostadis Roussos: Petra was booking a man to play Buchradin song under our band name every night.'
+  now: 'Kostadis Roussos: Petra was booking a man to play Vukradin song under our band name every night.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0120
+  cue: 120
+  was: 'David Mendenhall: Are we going back to the old brutish brewery, or do we need to… Channel the new, refined brewery.'
+  now: 'David Mendenhall: Are we going back to the old brutish Brewbarry, or do we need to… Channel the new, refined Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0139
+  cue: 139
+  was: 'Kostadis Roussos: Are you gonna… is Vucherdin gonna tell Brewberry that his clothes look awful?'
+  now: 'Kostadis Roussos: Are you gonna… is Vukradin gonna tell Brewbarry that his clothes look awful?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0140
+  cue: 140
+  was: 'David Mendenhall: I don''t think Bukradin cares about such things.'
+  now: 'David Mendenhall: I don''t think Vukradin cares about such things.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0161
+  cue: 161
+  was: 'Kostadis Roussos: Okay, so, I sent out a blueberry take on what''s going on.'
+  now: 'Kostadis Roussos: Okay, so, I sent out a Brewbarry take on what''s going on.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0164
+  cue: 164
+  was: 'Kostadis Roussos: 9 crates go down that lane, 8 go inside, 1 walks away on its own. Someone stopped paying that gnome on purpose, and somebody is feeding him on purpose. And either that is the same person, or it is 2, and I find out which one tonight. I am a barbarian, not a thief. I do not work in the shadows, and I let my enemy know that I am there. And yet tonight, I go quiet, because Lynn asked me to, and because Soma''s already unhappy with me.'
+  now: 'Kostadis Roussos: 9 crates go down that lane, 8 go inside, 1 walks away on its own. Someone stopped paying that gnome on purpose, and somebody is feeding him on purpose. And either that is the same person, or it is 2, and I find out which one tonight. I am a barbarian, not a thief. I do not work in the shadows, and I let my enemy know that I am there. And yet tonight, I go quiet, because Lim asked me to, and because Soma''s already unhappy with me.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0165
+  cue: 165
+  was: 'Wade Brown: Poor… poor Blueberry.'
+  now: 'Wade Brown: Poor… poor Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0184
+  cue: 184
+  was: 'Kostadis Roussos: Valfinay, without her noticing.'
+  now: 'Kostadis Roussos: Valphine, without her noticing.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0196
+  cue: 196
+  was: 'Kostadis Roussos: You were playing at the Common Cord.'
+  now: 'Kostadis Roussos: You were playing at the Common Chord.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0210
+  cue: 210
+  was: 'Wade Brown: Broad laid bare. That''s great.'
+  now: 'Wade Brown: Board Laid Bare. That''s great.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule; GM-ruled in the shell walk of the seven open items, 2026-09-05 (artifact d1058f80 follow-up).
+- id: cue-0214
+  cue: 214
+  was: 'Kostadis Roussos: Right. And so… and there''s still the small matter of meeting Lord Nevermember, but you kind of… he''s…'
+  now: 'Kostadis Roussos: Right. And so… and there''s still the small matter of meeting Lord Neverember, but you kind of… he''s…'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0216
+  cue: 216
+  was: 'Kostadis Roussos: Aldis hasn''t contacted you about when exactly dinner is going.'
+  now: 'Kostadis Roussos: Aldus hasn''t contacted you about when exactly dinner is going.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0217
+  cue: 217
+  was: 'David Mendenhall: Is it Never Member or Never Winter? I''m kidding.'
+  now: 'David Mendenhall: Is it Neverember or Neverwinter? I''m kidding.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0218
+  cue: 218
+  was: 'Kostadis Roussos: Never Ember. Never Ember.'
+  now: 'Kostadis Roussos: Neverember. Neverember.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0219
+  cue: 219
+  was: 'David Mendenhall: Never Ember Ember.'
+  now: 'David Mendenhall: Neverember.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0221
+  cue: 221
+  was: 'David Mendenhall: Never Ember.'
+  now: 'David Mendenhall: Neverember.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0233
+  cue: 233
+  was: 'David Mendenhall: Okay, and Lord November Ember… Lord Neverflaming has a new drow advisor.'
+  now: 'David Mendenhall: Okay, and Lord Neverember… Lord Neverflaming has a new drow advisor.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0234
+  cue: 234
+  was: 'Wade Brown: Great, isn''t that Balfini?'
+  now: 'Wade Brown: Great, isn''t that Valphine?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0239
+  cue: 239
+  was: 'David Mendenhall: rumor, and I suspect… Belfine will know this advisor at dinner, but we will see.'
+  now: 'David Mendenhall: rumor, and I suspect… Valphine will know this advisor at dinner, but we will see.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0250
+  cue: 250
+  was: 'David Mendenhall: Have we secured the capital for Brewberry''s bathroom business, or is that still in progress?'
+  now: 'David Mendenhall: Have we secured the capital for Brewbarry''s bathroom business, or is that still in progress?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0261
+  cue: 261
+  was: 'Kostadis Roussos: Alright, and House Mayor Gaster''s in charge.'
+  now: 'Kostadis Roussos: Alright, and House Margaster''s in charge.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0271
+  cue: 271
+  was: 'Wade Brown: Lord, never ember of Never Winter.'
+  now: 'Wade Brown: Lord, Neverember of Neverwinter.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0276
+  cue: 276
+  was: 'Gary Young: Well, at least he''s under Mark Castor.'
+  now: 'Gary Young: Well, at least he''s under Margaster.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0278
+  cue: 278
+  was: 'Gary Young: I think Velphine is,'
+  now: 'Gary Young: I think Valphine is,'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0279
+  cue: 279
+  was: 'Gary Young: looking at Mark Astor as the competition.'
+  now: 'Gary Young: looking at Margaster as the competition.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0281
+  cue: 281
+  was: 'Kostadis Roussos: I think there''s gonna have to be… I think there''s gonna have to be a moment where Lathander and Valfinay may have to have a coming to Lathander.'
+  now: 'Kostadis Roussos: I think there''s gonna have to be… I think there''s gonna have to be a moment where Lathander and Valphine may have to have a coming to Lathander.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0294
+  cue: 294
+  was: 'David Mendenhall: Wanderer Tavern Menu.'
+  now: 'David Mendenhall: Wandering Tortle Tavern Menu.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0295
+  cue: 295
+  was: 'Wade Brown: Toro soup.'
+  now: 'Wade Brown: Tortle soup.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0311
+  cue: 311
+  was: 'David Mendenhall: Yeah, is there an ADA in, Beiroon?'
+  now: 'David Mendenhall: Yeah, is there an ADA in, Faerun?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0333
+  cue: 333
+  was: 'Kostadis Roussos: And that, you know, one of the locals is, like, talking that the court is unaffordable now, and it''s all due to Vocraden, and he sort of sees it, but, you know, kind of, like, talking about you without realizing you''re standing within earshot of him.'
+  now: 'Kostadis Roussos: And that, you know, one of the locals is, like, talking that the court is unaffordable now, and it''s all due to Vukradin, and he sort of sees it, but, you know, kind of, like, talking about you without realizing you''re standing within earshot of him.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0412
+  cue: 412
+  was: 'David Mendenhall: He''s not interested. Did he even believe me? Does he even think that I am Rakuten? Do I need to explain it to him?'
+  now: 'David Mendenhall: He''s not interested. Did he even believe me? Does he even think that I am Vukradin? Do I need to explain it to him?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0463
+  cue: 463
+  was: 'Kostadis Roussos: realizes you''re the real Vukraden. Yeah. But says, you know, that he''s already done his charitable giving for this year.'
+  now: 'Kostadis Roussos: realizes you''re the real Vukradin. Yeah. But says, you know, that he''s already done his charitable giving for this year.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0468
+  cue: 468
+  was: 'David Mendenhall: Oh, Bigger Than Brewberry?'
+  now: 'David Mendenhall: Oh, Bigger Than Brewbarry?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0469
+  cue: 469
+  was: 'Gary Young: Burberry''s very large. In fact, he''s huge in Japan sometimes.'
+  now: 'Gary Young: Brewbarry''s very large. In fact, he''s huge in Japan sometimes.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0471
+  cue: 471
+  was: 'Kostadis Roussos: He… no, he''s not that big. He looks at… he looks at Brewberry, goes, no, I''m not that big.'
+  now: 'Kostadis Roussos: He… no, he''s not that big. He looks at… he looks at Brewbarry, goes, no, I''m not that big.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0473
+  cue: 473
+  was: 'David Mendenhall: It''s alright. Nobody''s as big as Brewberry, that''s just how it.'
+  now: 'David Mendenhall: It''s alright. Nobody''s as big as Brewbarry, that''s just how it.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0480
+  cue: 480
+  was: 'Kostadis Roussos: Right, so there''s, like, these… one person''s name, Wick, Sabbatha, Old Hesp, And Andrell Cass.'
+  now: 'Kostadis Roussos: Right, so there''s, like, these… one person''s name, Wick, Sabbatha, Old Hesp, And Ondrelle Kass.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0494
+  cue: 494
+  was: 'Kostadis Roussos: is also very, you know… and she''s, like, staring at Blueberry and giving him the, you know, look over, and can''t help but comment about how he''s committed to the Blueberry look.'
+  now: 'Kostadis Roussos: is also very, you know… and she''s, like, staring at Brewbarry and giving him the, you know, look over, and can''t help but comment about how he''s committed to the Brewbarry look.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0514
+  cue: 514
+  was: 'Kostadis Roussos: It''s too commercial. Too… I mean, Petra''s turned this into a money-making operation. I gotta respect her, she''s, you know, she turned… I mean, I remember when that table points where, you know, the brewberry table.'
+  now: 'Kostadis Roussos: It''s too commercial. Too… I mean, Petra''s turned this into a money-making operation. I gotta respect her, she''s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0563
+  cue: 563
+  was: 'David Mendenhall: Okay, so… so what hap… what''s happening is Belfinay, Soma, Brewberry are…'
+  now: 'David Mendenhall: Okay, so… so what hap… what''s happening is Valphine, Soma, Brewbarry are…'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0586
+  cue: 586
+  was: 'Wade Brown: I think since the crate was gonna go underground, we were gonna send Dave after the… or the Bukraden over…'
+  now: 'Wade Brown: I think since the crate was gonna go underground, we were gonna send Dave after the… or the Vukradin over…'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0588
+  cue: 588
+  was: 'David Mendenhall: So, look, the… The crates got dropped off. Lynn''s gonna come out and take 8 of the crates.'
+  now: 'David Mendenhall: So, look, the… The crates got dropped off. Lim''s gonna come out and take 8 of the crates.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0603
+  cue: 603
+  was: 'Gary Young: trail these guys, and then Vocron''s gonna trail the crate.'
+  now: 'Gary Young: trail these guys, and then Vukradin''s gonna trail the crate.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0642
+  cue: 642
+  was: 'David Mendenhall: Kraden.'
+  now: 'David Mendenhall: Vukradin.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0650-unhurried
+  cue: 650
+  was: 'Kostadis Roussos: Some… so, something comes up for it, and it is not a person. Small, quick, brass and leather, cat-sized, moving with the unhired competence of a thing following instructions. It takes the crate and goes back down.'
+  now: 'Kostadis Roussos: Some… so, something comes up for it, and it is not a person. Small, quick, brass and leather, cat-sized, moving with the unhurried competence of a thing following instructions. It takes the crate and goes back down.'
+  recorded: 2026-09-06
+  verified: true
+  note: Stage 1 consistency ruling; the alternate transcript and session prep/outcome independently read unhurried.
+- id: cue-0651
+  cue: 651
+  was: 'David Mendenhall: Okay, Vakraden will pursue stealthily.'
+  now: 'David Mendenhall: Okay, Vukradin will pursue stealthily.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0654
+  cue: 654
+  was: 'Wade Brown: This is my concern. Bukradin ends up going into the sewers now, and…'
+  now: 'Wade Brown: This is my concern. Vukradin ends up going into the sewers now, and…'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0660
+  cue: 660
+  was: 'Kostadis Roussos: Okay, this is the end of Rakuten, alright.'
+  now: 'Kostadis Roussos: Okay, this is the end of Vukradin, alright.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0663
+  cue: 663
+  was: 'Kostadis Roussos: So, Denver… the guy you''re following goes for… stops at a cook shot that''s open at the fourth hour.'
+  now: 'Kostadis Roussos: So, Denvar… the guy you''re following goes for… stops at a cook shot that''s open at the fourth hour.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0672
+  cue: 672
+  was: 'Wade Brown: It''s not the broad laid bare he''s at, of course, he''s somewhere else.'
+  now: 'Wade Brown: It''s not the Board Laid Bare he''s at, of course, he''s somewhere else.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule; GM-ruled in the shell walk of the seven open items, 2026-09-05 (artifact d1058f80 follow-up).
+- id: cue-0685
+  cue: 685
+  was: 'Kostadis Roussos: You could walk up to him and talk to him. I mean, he… looking at him, Valfini''s intuition tells you that he''s just what he appears to be.'
+  now: 'Kostadis Roussos: You could walk up to him and talk to him. I mean, he… looking at him, Valphine''s intuition tells you that he''s just what he appears to be.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0700
+  cue: 700
+  was: 'Wade Brown: Blueberry will be happy about that.'
+  now: 'Wade Brown: Brewbarry will be happy about that.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0720
+  cue: 720
+  was: 'Wade Brown: turn into brewberry.'
+  now: 'Wade Brown: turn into Brewbarry.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0731
+  cue: 731
+  was: 'Kostadis Roussos: No, no, not to the Common Cord. As you walk away, I just… I just need to read one more thing, because I took up… made a lot of notes here.'
+  now: 'Kostadis Roussos: No, no, not to the Common Chord. As you walk away, I just… I just need to read one more thing, because I took up… made a lot of notes here.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0791
+  cue: 791
+  was: 'David Mendenhall: Oh, I''m sorry that I got lost. I''m happy to leave. Could you point me in the direction of Lims?'
+  now: 'David Mendenhall: Oh, I''m sorry that I got lost. I''m happy to leave. Could you point me in the direction of Lim''s?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0804
+  cue: 804
+  was: 'David Mendenhall: Exactly. And Lynn''s a fan.'
+  now: 'David Mendenhall: Exactly. And Lim''s a fan.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0807
+  cue: 807
+  was: 'Kostadis Roussos: He looks at you and says, Vukradin… you''re Vucraddin, right?'
+  now: 'Kostadis Roussos: He looks at you and says, Vukradin… you''re Vukradin, right?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0817
+  cue: 817
+  was: 'Kostadis Roussos: We don''t want you to get lost again, Mr. Vukar.'
+  now: 'Kostadis Roussos: We don''t want you to get lost again, Mr. Vukradin.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0820
+  cue: 820
+  was: 'David Mendenhall: Lynn will be thrilled.'
+  now: 'David Mendenhall: Lim will be thrilled.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0829
+  cue: 829
+  was: 'Kostadis Roussos: He goes, Mr. Vukrad and I agree with you.'
+  now: 'Kostadis Roussos: He goes, Mr. Vukradin and I agree with you.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0832
+  cue: 832
+  was: 'David Mendenhall: At the Common Court?'
+  now: 'David Mendenhall: At the Common Chord?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0833-toemine
+  cue: 833
+  was: 'Kostadis Roussos: No, no, at the tow mine.'
+  now: 'Kostadis Roussos: No, no, at the Toe mine.'
+  recorded: 2026-09-05
+  verified: true
+  note: cue-scoped; 'tow' is a common word so this is not a glossary row. GM-ruled with the Tiptoes -> Mountain's Toe Mine fix at cue 834.
+- id: cue-0834
+  cue: 834
+  was: 'David Mendenhall: Tiptoes. Oh, yeah…'
+  now: 'David Mendenhall: Mountain''s Toe Mine. Oh, yeah…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule; GM-ruled in the shell walk of the seven open items, 2026-09-05 (artifact d1058f80 follow-up).
+- id: cue-0835
+  cue: 835
+  was: 'Kostadis Roussos: Zaleen…'
+  now: 'Kostadis Roussos: Zeleen…'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0839
+  cue: 839
+  was: 'David Mendenhall: Yeah, we spent some time in Fandelman, yeah, yeah.'
+  now: 'David Mendenhall: Yeah, we spent some time in Phandalin, yeah, yeah.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0880
+  cue: 880
+  was: 'Kostadis Roussos: Mr. Vukrotend, I know this is too much to ask, but could you get me some tickets to the Common Cord?'
+  now: 'Kostadis Roussos: Mr. Vukradin, I know this is too much to ask, but could you get me some tickets to the Common Chord?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0882
+  cue: 882
+  was: 'David Mendenhall: we have kind of an arm''s length relationship with the Common Core, but I will ask for you.'
+  now: 'David Mendenhall: we have kind of an arm''s length relationship with the Common Chord, but I will ask for you.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0900
+  cue: 900
+  was: 'Kostadis Roussos: I''ll put him in the Blue Lake District.'
+  now: 'Kostadis Roussos: I''ll put him in the Bluelake District.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0970
+  cue: 970
+  was: 'Kostadis Roussos: He suddenly realizes that he''s… he suddenly finally figures out… he sort of notices Valfine and Brewberry, and suddenly realizes that maybe this was not the right person to make his commentary. He goes, I''m just asking a question.'
+  now: 'Kostadis Roussos: He suddenly realizes that he''s… he suddenly finally figures out… he sort of notices Valphine and Brewbarry, and suddenly realizes that maybe this was not the right person to make his commentary. He goes, I''m just asking a question.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0981
+  cue: 981
+  was: 'Kostadis Roussos: I ask every question. He looks at Balfine and goes, you''re a drow.'
+  now: 'Kostadis Roussos: I ask every question. He looks at Valphine and goes, you''re a drow.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-0997
+  cue: 997
+  was: 'Wade Brown: We''re laying it all to you on the Sunday Stones, don''t worry.'
+  now: 'Wade Brown: We''re laying it all to you on the Sending Stones, don''t worry.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1009
+  cue: 1009
+  was: 'Kostadis Roussos: Yeah, he noticed Blueberry''s, pecs.'
+  now: 'Kostadis Roussos: Yeah, he noticed Brewbarry''s, pecs.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1016
+  cue: 1016
+  was: 'Kostadis Roussos: Yeah, goes… You mean Denver?'
+  now: 'Kostadis Roussos: Yeah, goes… You mean Denvar?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1017
+  cue: 1017
+  was: 'Wade Brown: Denver. Yeah. That''s more than we came with, we got a name.'
+  now: 'Wade Brown: Denvar. Yeah. That''s more than we came with, we got a name.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1019
+  cue: 1019
+  was: 'Wade Brown: Denver!'
+  now: 'Wade Brown: Denvar!'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1020
+  cue: 1020
+  was: 'David Mendenhall: Denver, it''s going on the quest tracker.'
+  now: 'David Mendenhall: Denvar, it''s going on the quest tracker.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1021
+  cue: 1021
+  was: 'Wade Brown: Denver, Colorado.'
+  now: 'Wade Brown: Denvar, Colorado.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1025
+  cue: 1025
+  was: 'Wade Brown: Yes, yes, we mean Denmar.'
+  now: 'Wade Brown: Yes, yes, we mean Denvar.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1058
+  cue: 1058
+  was: 'Wade Brown: Denver.'
+  now: 'Wade Brown: Denvar.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1061
+  cue: 1061
+  was: 'Wade Brown: So, yeah, does the, the racist establishment owner, have any… any information on Denver beyond a name?'
+  now: 'Wade Brown: So, yeah, does the, the racist establishment owner, have any… any information on Denvar beyond a name?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1066
+  cue: 1066
+  was: 'Wade Brown: Michael Tom.'
+  now: 'Wade Brown: Uncle Tom.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1085
+  cue: 1085
+  was: 'Wade Brown: In fact, we could ask the landlord, you know, is Denver settled up on his bills?'
+  now: 'Wade Brown: In fact, we could ask the landlord, you know, is Denvar settled up on his bills?'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1101
+  cue: 1101
+  was: 'Kostadis Roussos: He looks at you again, Portal, wearing the staff of Merrill, you know, Val Fide in her white armor, and glowing eyes, and Halberd in his… a blueberry with his halberd, and looks to go, well,'
+  now: 'Kostadis Roussos: He looks at you again, Tortle, wearing the staff of Meril, you know, Valphine in her white armor, and glowing eyes, and Halberd in his… a Brewbarry with his halberd, and looks to go, well,'
+  recorded: *id001
+  verified: true
+  note: cue-scoped on purpose; NOT a glossary row. A blanket Portal->Tortle rule would corrupt 'Portal Pay' at cue 344, which is left as spoken. GM-approved, artifact d1058f80.
+- id: cue-1114
+  cue: 1114
+  was: 'Kostadis Roussos: I was giving you an opportunity to troll the guy, but Sova doesn''t troll.'
+  now: 'Kostadis Roussos: I was giving you an opportunity to troll the guy, but Soma doesn''t troll.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1126
+  cue: 1126
+  was: 'Wade Brown: Yeah, I can tell you about Denver.'
+  now: 'Wade Brown: Yeah, I can tell you about Denvar.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1153
+  cue: 1153
+  was: 'Wade Brown: It''s probably a… Denver might be a dead end.'
+  now: 'Wade Brown: It''s probably a… Denvar might be a dead end.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1159
+  cue: 1159
+  was: 'David Mendenhall: Belfine, you wanna do your…'
+  now: 'David Mendenhall: Valphine, you wanna do your…'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1190
+  cue: 1190
+  was: 'Wade Brown: Yeah, it''s gotta be a Morgastian ride residence, or something like that.'
+  now: 'Wade Brown: Yeah, it''s gotta be a Margaster ride residence, or something like that.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1213
+  cue: 1213
+  was: 'David Mendenhall: Sure, Brewberry''s all for it.'
+  now: 'David Mendenhall: Sure, Brewbarry''s all for it.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1222
+  cue: 1222
+  was: 'Wade Brown: I assume Sama would just go inside, she''s not exactly, magic wielder.'
+  now: 'Wade Brown: I assume Soma would just go inside, she''s not exactly, magic wielder.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1232
+  cue: 1232
+  was: 'Wade Brown: Yeah, Vukraden could play.'
+  now: 'Wade Brown: Yeah, Vukradin could play.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1263
+  cue: 1263
+  was: 'Kostadis Roussos: Brewberry''s already in the tavern.'
+  now: 'Kostadis Roussos: Brewbarry''s already in the tavern.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1268
+  cue: 1268
+  was: 'Kostadis Roussos: Actually, to be fair, Blueberry has heard about this tavern for some time.'
+  now: 'Kostadis Roussos: Actually, to be fair, Brewbarry has heard about this tavern for some time.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1273
+  cue: 1273
+  was: 'David Mendenhall: a Common Cord slum, and this was a high-end establishment.'
+  now: 'David Mendenhall: a Common Chord slum, and this was a high-end establishment.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1344
+  cue: 1344
+  was: 'Kostadis Roussos: You know, it''s kind of like a high-end place, and the Blue Lake District is sort of a low-end place.'
+  now: 'Kostadis Roussos: You know, it''s kind of like a high-end place, and the Bluelake District is sort of a low-end place.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1354
+  cue: 1354
+  was: 'Kostadis Roussos: So, blueberry… Blueberry walks in, and, we''ll just…'
+  now: 'Kostadis Roussos: So, Brewbarry… Brewbarry walks in, and, we''ll just…'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.
+- id: cue-1357
+  cue: 1357
+  was: 'Kostadis Roussos: It''s as good a place as any place to leave it, so you''ve arrived in the Harper establishment in the Blue Lake District.'
+  now: 'Kostadis Roussos: It''s as good a place as any place to leave it, so you''ve arrived in the Harper establishment in the Bluelake District.'
+  recorded: *id001
+  verified: true
+  note: glossary rule; rulings reviewed by the GM in artifact d1058f80 (Chapter 51 Name Rulings), 2026-09-05.

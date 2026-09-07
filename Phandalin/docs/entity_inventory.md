@@ -10,6 +10,11 @@
 - **Shadowfell** — Plane to which the Shadovar sent a tower from Moonshadow Hall, eventually becoming the Shard of Night over Neverwinter
 - **Netheril** — Ancient Faerunian empire; referenced when describing the origin of a god later identified as an aspect of Gruumsh (Ch.7)
 - **Tortle** — Playable race; Soma is a Tortle druid
+- **cadet house** — Menzoberranzan institution, described by Valphine in ch48. A House wanting a rival poisoned founds a lesser house with its own crest, name and separate ledger; the lesser house acts; the Matron then tells the Ruling Council 'that was not my hand.' Valphine: the Council has not believed it once in nine hundred years, and it has never once failed - 'the words are the wall. Everyone sees through it; nobody may say so aloud.' Her read on a Neverwinter banker's between-departments excuse, and the campaign's working metaphor for laundered agency. AUTHORED IN NARRATION at GM instruction (2026-08-16 stage-3 de-anachronization pass), replacing the transcript's real-world 'Chinese wall' joke - NOT played at the table and NOT in prep.
+- **Orcanese** / **Orc language** / **Orcish** — Table term for the Orc language. GM-confirmed 2026-08-18: not a transcription garble of "Orcish" — "Orcanese is our way of saying 'orc language'" at this table. First heard scene 10 of the 2025-05-28 (chapter 3) session: "Do you speak Orcanese?"
+- **Overbright**
+- **Ordning**
+- **Tarsakh**
 
 ## Deities
 
@@ -35,6 +40,10 @@
 - **Torm** — God of duty; temporary priesthood installed in the Hall of Justice by Neverember during Tyr's absence
 - **Tyr** — God of justice; primary deity of the Hall of Justice; died in the late 1300s DR and was later resurrected
 - **Kazneporium Ketternopappux** / **KP** — Gnome wizard / planar optimizer; offstage structural antagonist; cosmic entity whose on-screen agent is Aletra Sotorra; documented in docs/KP.md
+- **Demogorgon**
+- **Orcus**
+- **Graz'zt**
+- **Zuggtmoy**
 
 ## Events
 
@@ -75,6 +84,7 @@
 - **Uthgardtian barbarian uprising** — Part of the War of the Giants; raided Triboar, obliterated Calling Horn, pillaged outskirts of Silverymoon and Mirabar; suppressed by giant-mortal alliance
 - **Wailing Death** — Plague striking in 1372 DR that killed most of Neverwinter's residents within ten days of onset, resisting magical healing
 - **War of the Dragons** — ~1489–1491 DR; Tyranny of Dragons analog; Tiamat's attempted manifestation via Severin and the Cult of the Dragon; ended with Severin's defeat; true architect was Zariel
+- **The Sundering** / **Sundering**
 
 ## Factions
 
@@ -124,8 +134,12 @@
 - **The Dead Rats** — Wererat thieves' guild operating from sewers around Bluelake; offshoot of Luskan's thieves' guild
 - **The Graycloaks** — Political and subversive faction of the Sons of Alagondar seeking to depose Neverember through law and subterfuge
 - **The Nashers** — Violent anti-Neverember faction based in Bluelake; symbol is a minotaur head slain by a sword; uses assassination, theft, sabotage, and rioting
-- **Uthgardtian tribes** — Barbarian peoples of the North who rose up during the War of the Giants; suppressed by the combined giant-mortal alliance; politically associated with the losing side post-war; their erasure from monuments is the subtext of the Exile Aesthetic
+- **Uthgardtian tribes** / **Uthgardt** — Barbarian peoples of the North who rose up during the War of the Giants; suppressed by the combined giant-mortal alliance; politically associated with the losing side post-war; their erasure from monuments is the subtext of the Exile Aesthetic
 - **Wintershield guards** — Commission's administrative arm for recruiting and managing adventurers in the hinterland expansion
+- **House Sotorra** / **Sotorra**
+- **Wester family** / **Wester**
+- **House Baenre** / **Baenre**
+- **Overbrighters**
 
 ## Items
 
@@ -151,7 +165,7 @@
 - **Magick of Gnomengarde** — Shared gnome spellbook on a pedestal in the inventors' workshop; contains seven wizard spells
 - **Mithral Chain Mail** — Suit of magic chain mail hidden in a secret compartment in Big Al's wardrobe
 - **mystery key** — unique magic item found in a hidden coffer beneath the altar of fate at the shrine
-- **Necklace of Fireballs** — FACT (provenance): magic item sealed with the dead wizard in the sarcophagus of the Adventurers' Sepulcher (DIP D7) — a room inside the Dragon Barrow, where Lady Alagondar and Azdraka are interred. Seven beads. Retrieved by VUKRADIN in ch31; he still carries it. CLAIM (UNVERIFIED, ch46): Ser Kaelen's note names Perrin Alagondar as the rightful owner — "a quiet Alagondar branch, no title, no army, a family that lost their dead's belongings to grave robbers a generation ago." Kaelen is relaying a recovery office's provenance match, not first-hand knowledge; the party has verified nothing. Do not record the grave-robber story as provenance — it is the claim, and the claim and the provenance are different things.
+- **Necklace of Fireballs** — FACT (provenance): magic item sealed with the dead wizard in the sarcophagus of the Adventurers' Sepulcher (DIP D7) — a room inside the Dragon Barrow, where Lady Alagondar and Azdraka are interred. Seven beads. Retrieved by VUKRADIN in ch31; he still carries it. FACT (ownership, GM ruling 2026-08-15, ch48): the necklace was LADY ALAGONDAR'S OWN — Boney, who served her in life, attests it on screen ("It belonged to Lady Alagondar", re-transcription l.3232; the Zoom capture garbles this to "I belong to Lady Alagondar"). The DIP D7 sarcophagus is where it was interred and found, not evidence of separate ownership. This strengthens Perrin's claim if his identity is ever established, and it is the basis of Boney's objection that the necklace lay in her tomb — not in any family's hands — when Perrin's family supposedly lost it to grave robbers. CLAIM (UNVERIFIED, ch46): Ser Kaelen's note names Perrin Alagondar as the rightful owner — "a quiet Alagondar branch, no title, no army, a family that lost their dead's belongings to grave robbers a generation ago." Kaelen is relaying a recovery office's provenance match, not first-hand knowledge; the party has verified nothing. Do not record the grave-robber story as provenance — it is the claim, and the claim and the provenance are different things.
 - **Opalescent Conch** — Spellcasting focus taken from Miraal by Moesko; returning it to her cave lays her spirit to rest; worth 250 gp in a city
 - **Pole of Collapsing** — Gnome-made magic item stored in the Gnomengarde treasury, given as a reward for rescuing the kings
 - **Potion of Greater Healing** — Carried by Yargath; reward from the patrol encounter
@@ -174,6 +188,7 @@
 - **Neverember's lion sign** — Neverember's heraldic device displayed throughout Protector's Enclave as a symbol of his rule
 - **Meril's Staff** / **mentor's staff** — Soma's mentor Meril's sentient staff; grows leaves; contests Druid Council custody. Distinct from the ch45 Staff of Bird Calls.
 - **Candlekeep Working Paper No. 27** / **Candlekeep Report** — "The Hoarding Hero: Or, Why Some Adventurers Are Economically Indistinguishable From The Monsters They Slay." Issued by Candlekeep's Vault of Mercantile Histories; argues adventurers who refuse to circulate recovered treasure are deflationary and functionally indistinguishable from the dragons they slay. Neverember's lever on Vukradin — Aldus Hern raised the dragon comparison at the Moonstone Mask (Ch. 47).
+- **dreamlily** — Narcotic. Introduced in ch48 NARRATION by Soma as what an illegal back-room alchemy operation in Neverwinter would be cooking - 'some alchemist cooking dreamlily to rot the sons of merchants'. AUTHORED IN NARRATION at GM instruction (2026-08-16 stage-3 de-anachronization pass), replacing the transcript's real-world 'meth lab' joke - NOT played at the table and NOT in prep. No properties, price, legality or distribution established beyond mind-harming and illicit.
 
 ## Locations
 
@@ -386,6 +401,10 @@
 - **Common Chord** — Neverwinter tavern in the dock area past the Protector's Enclave. Vukradin's old venue, where he was periodically allowed to play and then thrown out without pay; now the hardest ticket in the city. Brewbarry remembers only the ale ("All I remember is a shitty ale. Good music, but shitty ale.").
 - **Counting House** — Neverwinter financial institution. The party holds a letter of recommendation for it and intends to use it to investigate the Lionshield Coster supply-chain disruption caused by the Displacement Manifold going dark. A Lord's Alliance letter advising caution about "certain adventurers from Phandalin" has already arrived there.
 - **Spire of the Morninglord** — Temple of Lathander in Neverwinter. The party committed to a dawn performance and sermon here (Ch. 47) and used the obligation to decline Neverember's proposed morning meeting. Referred to at the table as the Church of Lathander.
+- **Greenmeadow**
+- **Toril**
+- **Faerun**
+- **Everlund**
 
 ## NPCs
 
@@ -432,7 +451,7 @@
 - **Boney** — Sentient skeletal horse; companion to the party; gifted to Vukradin; can speak and has a distinct personality
 - **Corwin** — Elderly, world-weary cook and retainer at Falcon's Hunting Lodge
 - **Dabbledob** — Female rock gnome recluse, one of Gnomengarde's foremost inventors, holds treasury key
-- **Dazlyn Grayshard** — Shield dwarf prospector and business partner of Norbus; forthright and honest to a fault
+- **Dazlyn Grayshard** / **Grayshard** — Shield dwarf prospector and business partner of Norbus; forthright and honest to a fault
 - **Delebean** — Male rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Dimble** — Male rock gnome recluse working in the Gnomengarde kitchen
 - **Donnabella Fiasco** — Named sidekick character available to join the party
@@ -442,7 +461,7 @@
 - **Jabby** — Female rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Joybell** — Female rock gnome recluse working in the Gnomengarde kitchen
 - **Nib Addlespur** — Named sidekick character available to join the party
-- **Norbus Ironrune** — Shield dwarf prospector and business partner of Dazlyn; gruff and excessively cautious
+- **Norbus Ironrune** / **Ironrune** — Shield dwarf prospector and business partner of Dazlyn; gruff and excessively cautious
 - **Nyx** — Female rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Pallabar** — Male rock gnome recluse sleeping in the Gnomengarde domiciles
 - **Panana** — Female rock gnome recluse working in the Gnomengarde kitchen
@@ -484,7 +503,7 @@
 - **Vagdru One-Ear** — Many-Arrows orc who restored the Fallen Tower as a neutral-ground tavern under agreement with Neverember
 - **Brewbarry** — Goliath barbarian (Phandalin party); unwilling authentic center of the Exile Aesthetic
 - **Vukradin** / **Bard** — Bard (Phandalin party); Exile Aesthetic's unwilling authentic center; structural receiver for the Counterforce; subject of Commission studio offer
-- **Bimble Nackle** — Gnome maintenance technician who serviced the Displacement Manifold; disappeared after approaching discovery that the failure was political; currently hiding in Neverwinter's lower docks district [GM-only name]
+- **Bimble Nackle** — Gnome maintenance technician who serviced the Displacement Manifold; disappeared after approaching discovery that the failure was political; currently hiding in Neverwinter's lower docks district [GM-only location]. Name revealed to the party on-screen by Cullen Sharpe, ch48 (2026-08-18); the name is party knowledge from that point. The KP-retaliation mechanism behind his disappearance remains GM-only, as does the fact that he is NOT KP.
 - **Corrin** — Manifested counterweight to KP alongside Rimardo; Savras's instrument; part of the Counterforce
 - **Rimardo** — Manifested counterweight to KP; Savras's instrument; part of the Counterforce operating through individuals rather than institutions
 - **Favria** — Dwarf leader of the power-hungry internal sect of the Ashmadai; runs a faction of loyal thugs
@@ -544,7 +563,7 @@
 - **Vardis** — Wood elf cleric of Corellon (Light Domain), exiled from every temple; member of the Liberators of the Ordning; returned with Orsik to Parnast and knows the full circlet secret
 - **Valanthe** — Young drow sorcerer who seduced and robbed Horst in his merchant days, then vanished
 - **Whistler** / **the Ardragon** / **the Shadow Werebear** — Kenku member of the First Faction, mythologized across three competing registers; associated with the white dragon Glazhael's lair
-- **Ser Kaelen** / **Ser Kaelen Thorne** / **Kaelen**
+- **Ser Kaelen** / **Ser Kaelen Thorn** / **Kaelen**
 - **Jenna** / **Jenna Roscoe** / **woman** / **the woman in green**
 - **The Chief Accountant** / **Chief Accountant**
 - **Brin Bundlewine** / **Brin** / **Bryn**
@@ -592,4 +611,6 @@
 - **Tuck Stonehill** / **Tuck** — Son of Toblen Stonehill; present at the Stonehill Inn, Phandalin. Named on the fly ch46 (2026-06-23); campaign name replaces the module's Pip. GM ruling 2026-08-07.
 - **Petunia** — Alphonse 'Big Al' Kalazorn's cow (not a humanoid NPC — typed npc as the registry has no creature type). Module NPC from Dragon of Icespire Peak. Recovered at Butterskull Ranch via Soma's Speak with Animals; grazes with Qelline Alderleaf; source of the Phandalin cheese, which is graded by which part of the field she grazed. Attends town gatherings — present on the town green for the UBT proclamation (ch46).
 - **Kostadinious the Sage** — In-world biographer who recorded KP's story. NOT KP — see notes/corrections/kp_identity_attribution.md.
-- **Aurelan Vance** / **Aurelan** — Banker at the Counting House, Neverwinter. Drafted ahead of play in notes/npcs/aurelan-vance.md as a Moonstone Mask guest (retired Enclave trade magistrate); GM ruling 2026-08-13 confirms the Counting House loan officer played in Ch.48 is the same NPC. Signed Brewbarry's bathrobe-business loan with Linene Graywind as shipping agent, pushed House Margaster as a cheaper distributor, and directed Vukradin to the Neverwinter Commission letter of credit. Canonical spelling is Aurelan per the 2026-08-13 GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre' and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct from Andrella, the Beached Leviathan barmaid.
+- **Aurelan Vance** / **Aurelan** — Banker at the Counting House, Neverwinter. Drafted ahead of play in notes/npcs/aurelan-vance.md as a Moonstone Mask guest (retired Enclave trade magistrate); GM ruling 2026-08-13 confirms the Counting House loan officer played in Ch.48 is the same NPC. Signed Brewbarry's bathrobe-business loan with Linene Graywind as shipping agent, pushed House Margaster as a cheaper distributor, and directed Vukradin to the Neverwinter Commission letter of credit. Canonical spelling is Aurelan per the 2026-08-13 GM ruling. The forms 'Oral B. Vance', 'Andrell', 'Andrew/Andres/Andrey/Andre' and the summarizer-invented 'Ondrell B. Vance' are TRANSCRIPTION GARBLES recorded in notes/vtt_transcription_corrections.md and are deliberately NOT aliases. Distinct from Andrella, the Beached Leviathan barmaid. CH48 STAGE-3 (2026-08-16) - the narration's rendering of the first-hearing joke was changed from 'Oral B. Vance' to 'Aurum Bee Vance' at GM instruction, to strip the real-world brand reference; the party mishears his name as something that sounds like a meadery before he restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a one-time in-fiction mishearing, blessed as a comic beat, and a future consistency or spell pass must not silently normalize it to Aurelan. CH50 (2026-08-25) - at the Counting House he offers the party a familiar form, 'my friends call me Ori' (tape l.773; Stephane uses it back at l.781). Both independent transcriptions render it identically. GM ruling 2026-08-26 - 'Ori' is NOT a garble and is NOT an alias; it is his in-fiction familiar form, recorded in notes/vtt_known_additions.md. The transcript forms 'Orlin Vance' and 'Ondrel Vance' ARE garbles and are glossed.
+- **Jimble the Unmoved** — Legendary figure, not a living NPC: a cleric of the old coastal sagas who examined each fallen companion and pronounced him dead rather than part with the prayer that might have argued otherwise. Invented in a Kostadinious the Sage marginal note to launder Soma's verbatim "He's dead, Jim" table joke into canon — the coastal-saga framing explains why coastal Soma knows the saying and mountain-born Brewbarry does not. Authored in narration, never played or prepped; do not flag the marginal note as a fabrication in consistency passes.
+- **Elarah**

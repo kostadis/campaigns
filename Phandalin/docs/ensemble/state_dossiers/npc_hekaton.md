@@ -6,13 +6,15 @@ chapters: 1-1
 ---
 
 ### Hekaton
-- **Type:** NPC (Storm Giant King)
-- **Current Status:** Alive (no fact indicating otherwise).
-- **Current Location:** Unknown.
-- **Allegiance/Faction:** Founder and leader of an alliance between giants and the peoples of the Realms.
-- **Key Relationships:** Allied with the people of the Realms.
-- **Defining Recent Actions:** Created the alliance between giants and the people of the Realms.
-- **Revealed Motivations/Secrets:** None stated.
+
+- **Current status:** Alive (no contradictory facts provided).
+- **Current location:** Unknown (facts do not specify).
+- **Allegiance/faction:** Storm Giant royalty; founder of an alliance between giants and the peoples of the Realms.
+- **Current possessions / notable items:** None known.
+- **Current assignment / role and key relationships:** King of the Storm Giants; architect of the giant–Realmfolk alliance (still in effect as of the latest information).
+- **Defining recent actions:** Established the alliance between giants and the people of the Realms.
+- **Revealed motivations / secrets:** None known beyond the alliance’s existence.
 
 ## Uncertainty
-- No information on Hekaton’s current location, court, or activities beyond the alliance's founding. No facts about his health, companions, or current residences were provided.
+- Whether the alliance is currently active, strained, or dissolved is not stated — only that it was created.
+- No information on Hekaton’s current whereabouts, court, or any living contacts beyond the single fact provided.

@@ -1,0 +1,78 @@
+{
+  "scene": "Scene 1 — Patrons of the Chord",
+  "edits": [
+    {
+      "id": "s01-01",
+      "before": "“I'm sorry, I lost track. What… What do I?”",
+      "after": "“I'm sorry, I lost track. What… What do I know?”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Complete Valphine's question with the single word established by the reviewed extraction's intent label.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+          "quote": "\"I'm sorry, I lost track. What… What do I?\""
+        }
+      ]
+    },
+    {
+      "id": "s01-02",
+      "before": "“That's great. Well, let's add them to the program notes, and”",
+      "after": "“That's great. Well, let's add them to the program notes.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Remove an unsupported trailing conjunction after the complete request while preserving Vukradin's upbeat cadence.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+          "quote": "\"That's great. Well, let's add them to the program notes, and\""
+        }
+      ]
+    },
+    {
+      "id": "s01-03",
+      "before": "“Did you come? Did you come? Did I give you your money back at the end of.”",
+      "after": "“Did you come? Did you come? Did I give you your money back?”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Keep Vukradin's repeated question and remove only the unrecoverable trailing fragment; the next beat confirms the refund question.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+          "quote": "\"Did you come? Did you come? Did I give you your money back at the end of.\""
+        }
+      ]
+    },
+    {
+      "id": "s01-04",
+      "before": "“It's too commercial. Too… I mean, Petra's turned this into a money-making operation. I gotta respect her, she's, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.”",
+      "after": "“It's too commercial. Too… I mean, Petra's turned this into a money-making operation. I gotta respect her. I mean, I remember the Brewbarry table.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Trim a garbled false start while retaining Old Hesp's mixed criticism and respect, then land on the table he points out in the next sentence.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+          "quote": "\"It's too commercial. Too… I mean, Petra's turned this into a money-making operation. I gotta respect her, she's, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.\""
+        }
+      ]
+    },
+    {
+      "id": "s01-05",
+      "before": "“Was, you know, that was not leather and shiny and with a plaque.”",
+      "after": "“That was not leather and shiny and covered with a plaque.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Remove the false start and clarify the parallel list without changing Old Hesp's comparison to the old table.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+          "quote": "\"Was, you know, that was not leather and shiny and with a plaque.\""
+        }
+      ]
+    }
+  ],
+  "observations": [
+    "Left the fragments ‘Securing money for the.’, ‘new drow advisor that we will.’, and ‘Nobody's as big as Brewbarry, that's just how it.’ unchanged because their missing completions are not recoverable from the reviewed extraction."
+  ]
+}

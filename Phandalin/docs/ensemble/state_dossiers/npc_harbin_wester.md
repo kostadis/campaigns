@@ -1,32 +1,37 @@
 ---
 name: Harbin Wester
 type: npc
-n_facts: 9
-chapters: 2-4
+n_facts: 19
+chapters: 2-7
 ---
 
 ### Harbin Wester
 
-**Current Status:** Alive (presumed — no fact indicates otherwise).
-**Current Location:** Phandalin (implied — he is Townmaster and was last encountered at the townmaster’s hall in Phandalin).
-**Allegiance/Faction:** Townmaster of Phandalin; represents the town and answers to a "His lordship" (unnamed higher authority).
-**Key Relationships:**
-- Last seen with/interacted with the adventurer Vukradin, whom he recognized as the musician who played at the Stonehill Tavern.
-- Sent Vukradin on a diplomatic mission to acquire a device to fight a dragon.
-**Possessions / Notable Items:** None mentioned.
-**Current Assignment / Role:** Townmaster of Phandalin; posts quests and offers rewards (e.g., 50 gp for the quests he posted). He is the authority from whom the diplomatic mission was commissioned.
-**Defining Recent Actions:**
-- Posted quests for adventurers, with rewards payable by him (e.g., 50 gp).
-- Recognized Vukradin as the Stonehill Tavern musician.
-- Questioned Vukradin's claim about calling the dwarves "grave robbers."
-- Stated that "his lordship guarantees every adventurer tax-free plunder."
-- Commissioned Vukradin on a diplomatic mission to acquire a dragon-fighting device.
-- Repeatedly insists he is a "tasteless morsel for a dragon" (self-deprecating concern about dragons).
-**Revealed Motivations/Secrets:**
-- Fearful/self-effacing about dragons (sees himself as unappetizing prey).
-- Operates under a higher authority referred to as "his lordship," who guarantees tax-free plunder for adventurers.
+**Current status:** Alive.
+**Current location:** Phandalin, inside his townmaster's hall (which was boarded shut as of ch02).
+**Allegiance / faction:** Townmaster of Phandalin; local government authority.
+
+**Current possessions / notable items:** None reported beyond having paid the party a purse of gold (payment exchanged in ch04).
+
+**Current assignment / role and key relationships:**
+- Townmaster of Phandalin.
+- Sent the adventurers on a diplomatic mission to Gnomengarde (rock gnomes), and also offered a quest involving a midwife past the hills.
+- Posted an offer (50 gold) to warn dwarven prospectors.
+- Openly sponsoring grave robbers, paying for treasure and relics they uncover, and offering more gold to keep those grave robbers safe.
+- Adabra appears to be healing/healing-related to Townmaster Harbin, per a note describing how to take medicine (ch07); Adabra confirmed something to Vukradin in person.
+
+**Defining recent actions:**
+- Initially refused to open his door, fearing the party might be the dragon; spoke through the wood, insisting he is "far too thin and bony to make a good meal."
+- Recognized Vukradin's voice as the bard who played at the Stonehill Inn.
+- After payment changed hands, remained afraid—mouth tightening, knuckles paling, attention repeatedly returning to the door and shuttered window.
+- Noted a shortage of adventurers due to a dragon terrorizing everyone.
+
+**Revealed motivations / secrets:**
+- His fear is not about grave robbers, adventurers, or Vukradin's coercion—it is directed at something associated with the door and shuttered window (likely the dragon).
+- Repeatedly insists he would be a poor meal for a dragon (ch04, ch06), suggesting ongoing concern about the dragon threat.
 
 ## Uncertainty
-- **Identity of "His lordship":** Referenced but unnamed — no facts identify who this is.
-- **Harbin's current physical state/location beyond chapter 2:** Chapters 3–4 reference him at a distance (mission-giver, self-description); no fact confirms he remains in Phandalin or is unharmed as of chapter 4, though nothing contradicts his continued presence there.
-- **Vukradin's current relationship with Harbin:** Mission was underway in ch03; chapter 4 only quotes Harbin's insistence about being a tasteless morsel — likely reported speech, but it is unclear whether Harbin is currently present with the party or whether this is a past/remote statement.
+- **Adabra's role with Harbin:** Whether Adabra is actively treating or merely providing instructions (note vs. direct action) is unclear — the ch07 fact is ambiguous about whether healing is currently underway or just prescribed.
+- **Hall's current state:** The hall was boarded shut as of ch02; no later fact confirms whether it remains boarded or has since reopened.
+- **Nature of Harbin's fear:** The source of his fear (dragon vs. something else) is implied but never explicitly stated in the supplied facts.
+- **Grave robber sponsorship status:** Ongoing as of ch02 (reported), but no later chapter confirms whether this continues at present.

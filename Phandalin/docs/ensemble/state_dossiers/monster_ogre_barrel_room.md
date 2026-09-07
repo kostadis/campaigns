@@ -1,34 +1,29 @@
 ---
 name: ogre (barrel room)
 type: monster
-n_facts: 14
-chapters: 3-3
+n_facts: 5
+chapters: 5-5
 ---
 
-### Ogre (barrel room)
+### Ogre (Barrel Room)
 
-**Status:** Dead — killed by Vukradin's killing blow in chapter 3 (confirmed via quote: "Vukradin does the killing blow"; "as she watches the ogre breathe its last").
+**Type:** Monster
 
-**Location:** Barrel room (encounter site where it fought and died).
+**Current Status:** Dead — killed by Vukradin.
 
-**Allegiance/Faction:** None indicated.
+**Current Location:** The barrel room / fight site (where it fell and breathed its last).
 
-**Current possessions / notable items, spells, feats, wounds:**
-- Wielded an axe in combat (used against Brewbarry; never noted as recovered after death).
-- Was wounded by Valphine's crossbow bolt before being slain (fresh blood staining its hide).
-- Resilient hide — a mace blow from Valphine and an axe blow from Brewbarry both failed to harm it.
+**Allegiance/Faction:** None known.
 
-**Current assignment / role and key relationships:** None indicated beyond being an enemy encountered by the party (Valphine, Brewbarry, Vukradin) in the barrel room.
+**Current Possessions / Notable Items:** Carried an axe (used in the fight; fate unknown).
 
-**Defining recent actions:**
-- Was prone under the sun, then stood.
-- Targeted and attacked Brewbarry; its axe blows were ineffective against Brewbarry's rage/hardened skin.
-- Was harmed by a cloud of green gas.
-- Attempted to flee; was shot by Valphine but kept running.
-- Was killed by Vukradin.
+**Current Assignment / Role:** None — it was encountered as an enemy in combat.
 
-**Revealed motivations or secrets:** None beyond self-preservation (attempted to flee when the fight turned against it).
+**Key Relationships:** Fought against Brewbarry (Uthgardt barbarian) and Vukradin; Brewbarry's axe blow against it was ineffective due to his rage and mystical powers, and it was hurt by green gas before fleeing, then pursued and killed by Vukradin.
+
+**Defining Recent Actions:** Was prone under the sun; hurt (but not felled) by green gas; attempted an axe blow on Brewbarry to no effect; fled the fight; was killed by Vukradin.
+
+**Revealed Motivations / Secrets:** None.
 
 ## Uncertainty
-- The order of the prone/standing events is partially ambiguous: the ogre is described prone "under the sun" early in the fight, and later "stands up and chooses to attack Brewbarry" — but whether the initial prone state was in the barrel room or elsewhere is not clarified.
-- No fact confirmed what happened to the ogre's axe after its death (whether the party recovered it is unstated).
+- None. All facts are consistent and chronologically clear, with the later facts (fleeing, death) superseding earlier combat states.

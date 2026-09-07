@@ -1,24 +1,31 @@
 ---
 name: Dagult Neverember
 type: npc
-n_facts: 2
-chapters: 1-1
+n_facts: 6
+chapters: 1-4
 ---
 
 ### Dagult Neverember
 
-**Current status:** Alive and active.
+**Status:** Alive and active as Lord of Neverwinter.
+**Current location:** Neverwinter (implied — he is "his lordship" and "Lord Neverember" of the city-state).
+**Allegiance/faction:** Ruler of the city-state of Neverwinter.
 
-**Current location:** His city-state (never named in the supplied facts), now directing attention outward.
+**Current goals / assignment:**
+- Wants the southern territories, specifically the area around Phandalin and the hinterland of his city-state, secured for Neverwinter — cleared of monsters, cults, and evildoers — to encourage settlement and growth.
+- His plan is growth: trade, outposts, safer roads, and civilization extending south.
+- Has directed that adventurers are allowed to seize and control whatever treasure they wish (as cited by Harbin Wester in Neverwinter's name).
 
-**Allegiance/faction:** Lord of his own city-state.
+**Current resources / constraints:**
+- Budget is limited; adventurers performing this work receive no salaries or benefits.
 
-**Current assignment/role:** Ruler of his city-state; has turned his attention to the hinterland beyond it.
+**Key relationships:**
+- Harbin Wester (townmaster of Phandalin) acts under and cites Neverember's authority.
 
-**Defining recent actions:** With the recent threat over, he has shifted focus from defending his seat of power to the surrounding hinterland.
-
-**Revealed motivations/secrets:** He is expansionist or at least outward-looking in governance, prioritizing the hinterland now that the immediate threat has passed. No further motivations revealed.
+**Defining recent actions:**
+- Turned his attention to clearing the hinterland around Phandalin of threats and promoting settlement via adventurer activity.
+- Declared (or is represented as having declared) that adventurers may keep whatever treasure they seize.
 
 ## Uncertainty
-- The city-state is never named, nor is the nature of the "threat" specified.
-- Whether "turned his eye" implies military conquest, development, taxation, or mere observation is not clarified.
+- **Current exact location:** Never stated explicitly; "his city-state" and "his lordship" imply Neverwinter, but the facts never confirm he is physically in Neverwinter at present.
+- **Attribution of the treasure decree:** Harbin Wester *cites* Neverember's authority, but the facts do not confirm Neverember directly issued this decree; it could be a paraphrase or interpretation by Wester.

@@ -1,90 +1,85 @@
-<!-- section: factions | inputs-sha: 841b4e8a685334d4 -->
+<!-- section: factions | inputs-sha: 1b19716cc029dece -->
 _Dossiers: fallback (docs/ensemble/state_dossiers)._
 
-# WORLD STATE DOCUMENT — LIVING CANON
+# WORLD STATE — Phandalin Campaign
+
+*Living canon reference. Current-state document; later chapters override earlier. Only the RECENT ENTITIES window was supplied in this pass — background/recent entity segments beyond factions were not provided, so this document covers the factions and locations attested here plus their open threads.*
 
 ---
 
-## SECTION 1: THE CURRENT STATE OF THE WORLD
+## LOCATIONS
 
-### Overview
+### Phandalin
+- **Status:** Recovered town, active and inhabited. Party base of operations.
+- **Current issue:** A "small dragon problem" is affecting the town (species/threat level unconfirmed — see Open Threads).
+- **History:** Overrun by orcs many years ago; fully recovered. Orc occupation is *past*, not a present condition.
+- **Commerce:** Home to a Lionshields store (see Lionshield Coster).
 
-The world is in a state of flux. The Cult of the Dragon has been duped by Tiamat into attempting to bring her into the mortal world, and the Lord's Alliance is growing in strength — suggesting a period of rising tension and conflict. The balance of power between factions is shifting, and the actions of the player characters (see Section 2) are at the center of these unfolding events.
-
----
-
-## SECTION 2: ENTITY DOSSIERS — RECENT ENTITIES (The Present)
-
-### Organization: The Cult of the Dragon
-
-- **Type:** Faction / Organization
-- **Current Status:** Active
-- **Leadership:** Severin (leader)
-- **Prime Directive | Current Goal:** Attempting to bring Tiamat into the world (acting on Tiamat's deception).
-- **Key Relationships:**
-  - **Tiamat:** Deceived/manipulated the Cult into their current endeavor. Tiamat is co-resident of Avernus and is the entity the Cult seeks to summon.
-  - **Lord's Alliance:** No direct relationship noted, but the Cult's activity and the Alliance's growth suggest opposing trajectories.
-- **Recent Actions & Current Activity:**
-  - Undertook an attempt to summon/bring Tiamat into the world, acting on her deception.
-  - The Cult is currently operating under the false belief that their actions serve their own ends, when in fact they serve Tiamat's.
-- **Location:** Unknown.
-- **Size / Structure:** Unknown.
-
-### Organization: Lord's Alliance
-
-- **Type:** Faction / Organization
-- **Current Status:** Active and growing in strength.
-- **Current Goal:** Not specified.
-- **Leader:** Not specified.
-- **Key Members:** Not specified.
-- **Relationships:** No specific relationships to other factions noted.
-- **Recent Actions & Current Activity:**
-  - Experienced an increase in strength (as of the latest known chapter).
-  - The cause and purpose of this growth are unknown.
+### Neverwinter
+- **Status:** Highly civilized, lawful city-state. No open slave markets, torture racks, or notable assassinations.
+- **Track record:** Has survived dragons, giants, and Uthgardtian tribal wars.
+- **Standing custom (canon legal policy):** Any person who performs a service for the kingdom may keep whatever gold and treasure the kingdom has not paid them to recover. — *GM note: this is a live incentive lever for reward framing.*
+- **Leadership / current political conflicts:** Not established in this window.
 
 ---
 
-## SECTION 3: OPEN THREADS & MYSTERIES
+## FACTIONS
 
-### M1 — Tiamat's Greater Design
-- The Cult of the Dragon believes they are bringing Tiamat into the world. They have been **duped**. What does Tiamat *actually* want, and what is the true nature of the deception?
-- What does Tiamat intend for the world once her summoning begins — is the Cult's ritual a genuine threat, or a misdirected one?
+### Lionshield Coster / Lionshields
+*(Treated as one entity — the "Lionshield Coster" and "Lionshields" references describe the same far-reaching merchant guild.)*
+- **What it is:** A wide-reaching merchant faction; stores purport to sell "nearly everything" and appear in many locations. Has at least one store in Phandalin.
+- **Current condition:** Trade disrupted by supply-chain issues and tariffs. The Phandalin store cannot live up to its "nearly everything" reputation and has found the limits of that promise.
+- **Leadership / members:** None named.
+- **Relationships:** None established.
 
-### M2 — The Cult's Post-Summoning Fate
-- What is Tiamat's current relationship with the Cult *beyond* the initial deception?
-- Does she still control or guide them? Are they willingly aligned, or would they turn on her if they knew the truth?
+### Emerald Enclave
+- **What it is:** A naturalist faction.
+- **Doctrine:** Members ("naturalists") hold that the meta-verse is part of the natural order, and that divine interventions should be accepted as part of that natural order.
+- **Key associate:** Adabra aligns herself with the Enclave's views and speaks zealously on their behalf ("like us"). *Adabra is Soma's mentor (per campaign roster) and is on a tracked path toward a Tiamat alliance — cross-reference her threat tracker.*
+- **Status:** Active. No ongoing mission, territory, or conflict established here.
 
-### M3 — The Lord's Alliance's Ambitions
-- Why is the Lord's Alliance growing in strength?
-- Is this growth a reaction to the Cult of the Dragon's activities, or an independent development?
-- Who is leading this expansion, and to what end?
+### Lord's Alliance
+- **Status:** Active and growing in strength.
+- **Goals / leadership / members:** Not specified in this window.
+- *Campaign background: the Lord's Alliance featured in the modified War of the Giants, allied with Hekaton.*
 
-### M4 — The Player Characters' Place in the World
-- The dossier material does not specify the party's current location, objective, or relationship to the above factions. These remain open questions to be resolved.
-
----
-
-## SECTION 4: PLAYER CHARACTER ROSTER & BACKSTORIES
-
-- No player character backstory material is present in the source data.
-- No player-character roster is available in the source data.
-
----
-
-## SECTION 5: CANON EVENTS TIMELINE
-
-*(Chronological reference of major known events, most recent last.)*
-
-1. **Chapter 1 — The Cult's Arrangement with Tiamat:**
-   The Cult of the Dragon, led by Severin, was deceived by Tiamat into attempting to bring her into the world. The Cult's current activities are a direct result of this manipulation.
-2. **Chapter 1 — The Lord's Alliance Rises:**
-   As of the latest known chapter, the Lord's Alliance experienced an increase in strength.
+### Cult of the Dragon
+- **Status:** Presumed active (no fact indicates it was destroyed or disbanded).
+- **Revealed purpose:** Under Severin's direction, the cult was **duped by Tiamat** into attempting to summon/bring her into the material world. They are effectively her pawns and likely unaware they were deceived.
+- **Key member:** Severin — named central figure; formal rank unstated but implied leadership.
+- **Relationship:** Tiamat (resident of Avernus) manipulated the cult to serve her goal of entering the world.
 
 ---
 
-## Uncertainty & Open Data Notes
+## OPEN THREADS & MYSTERIES
 
-- No background entities, narrative accounts, or player backstories were provided in the source material.
-- The party's current status, location, and affiliation are **not documented** in the source dossiers and remain open questions.
-- The exact nature of Tiamat's plan beyond the deception is unknown.
-- It is not confirmed whether the Cult of the Dragon is still being actively guided by Tiamat, or whether they have been left to their own devices after being manipulated.
+**The Phandalin dragon problem**
+- The town's "small dragon problem" is unspecified: species, size, threat level, and whether it is active *in* the town or nearby are all unconfirmed. *(Campaign context: the white dragon Cryovain and the Carver's plan to bind it are the standing regional threat — confirm whether the "small dragon" refers to Cryovain or a separate creature.)*
+
+**Lionshield supply collapse**
+- Whether the Coster's supply-chain/tariff trouble is temporary, chronic, or caused by a specific event is unknown. The disruption is widespread enough to break the "nearly everything" promise — an unexplained root cause worth tracking.
+
+**Cult of the Dragon — current progress**
+- Whether the cult's Tiamat-summoning effort has advanced, failed, or changed since it was revealed is unresolved. Whether the cult *knows* it was duped is unstated.
+
+**Lord's Alliance growth**
+- "Growing in strength" is a single observation with no cause, scope, or agenda attached. Direction and intent unknown.
+
+**Emerald Enclave alignment**
+- The Enclave's broader goals, territory, and leadership are unestablished. Adabra's identification with them is confirmed, but the extent of any formal membership or mission is not.
+
+---
+
+## CANON EVENTS TIMELINE
+*(Chronological reference only. Present state lives in the dossiers above.)*
+
+1. **(Ch. 1)** Tiamat dupes Severin and the Cult of the Dragon into attempting to bring her into the material world.
+2. **(Ch. 1)** The Lord's Alliance is observed growing in strength.
+3. **(Ch. 2)** Phandalin, long recovered from its historic orc occupation, is noted to have a "small dragon problem."
+4. **(Ch. 2)** Neverwinter's standing service-and-salvage reward custom is established.
+5. **(Ch. 2–4)** The Lionshield Coster's trade is disrupted by supply-chain issues and tariffs; the Phandalin store can no longer stock "nearly everything."
+6. **(Ch. 7)** Adabra articulates Emerald Enclave doctrine — the meta-verse as natural order, divine intervention accepted as part of it — aligning herself with the naturalists.
+
+---
+
+*Note: This pass received only the faction/location segment of the RECENT ENTITIES window. NPC dossiers, party backstories, and narrative accounts were not supplied and should be folded in on the next synthesis. Cross-references to campaign-context material (Cryovain, the Carver, Adabra's Tiamat path, the Giants/Dragons wars) are flagged as such and should be verified against authoritative session summaries before being treated as settled canon.*

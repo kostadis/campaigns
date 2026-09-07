@@ -1,0 +1,112 @@
+schema: consistency_check_manifest/v1
+stage: 1
+stage_label: session-summary
+timestamp: "2026-09-06T02:25:00Z"
+campaign: Phandalin
+session_dir: summaries/20260902
+document_checked: summaries/20260902/session-summary.md
+document_class: enhanced recap
+report: summaries/20260902/consistency_report_stage1_summary.md
+config: /tmp/phandalin_abs_config_staged_20260906.yaml
+backend: codex-cli
+model_calls: 1
+grouped: false
+issues_found: 9
+session_date: "2026-09-01"
+session_prep_used: true
+entity_registry_used: true
+
+sources:
+  auto_loaded:
+    - {label: campaign_state, path: docs/campaign_state.md}
+    - {label: world_state, path: docs/world_state.md}
+    - {label: mechanics, path: docs/mechanics.md}
+    - {label: planning, path: docs/planning.md}
+    - {label: party, path: docs/party.md}
+  context:
+    - {path: docs/party.md, role: PCs and player ownership}
+    - {path: docs/entity_registry.yaml, role: entity registry and aliases}
+    - {path: notes/vtt_transcription_corrections.md, role: ASR glossary}
+    - {path: notes/vtt_known_additions.md, role: known transcript additions}
+    - {path: notes/session_prep/20260901_the_ninth_crate_v2.md, role: session prep}
+    - {path: notes/session_prep/20260901_the_ninth_crate_outcome.md, role: played outcome notes}
+    - {path: notes/npcs/common-chord-audience.md, role: session NPC prep}
+    - {path: summaries/20260902/gm-assist.md, role: corrected Stage 0 source recap}
+
+quote_verification:
+  report: summaries/20260902/quote_report_stage1.md
+  transcript: summaries/20260902/GMT20260902-040118_Recording.transcript.cleaned.vtt
+  mode: report-only
+  exit_code: 1
+  verified: 9
+  near: 9
+  unverified: 3
+  unscored: 2
+  refused: 0
+  resolution: >
+    Manual review found no incorrect quote or attribution. The three unverified
+    entries arise from adjacent-cue joining or removal of spoken stage direction;
+    the near entries preserve the words and speakers while trimming framing or
+    normalizing punctuation.
+
+vtt_adjudicated: true
+vtt_consulted:
+  path: summaries/20260902/GMT20260902-040118_Recording.transcript.cleaned.vtt
+  role: corrected speaker-labelled generation transcript used for quote, wording, sequence, and attribution checks
+
+speaker_map:
+  Kostadis Roussos: GM and NPCs
+  David Mendenhall: Vukradin
+  Wade Brown: Soma
+  Gary Young: Valphine and Brewbarry coverage
+speaker_note: >
+  Stéphane Bourdeaud was absent. Gary covered Brewbarry, so Brewbarry
+  attribution received extra scrutiny.
+
+resolution:
+  reviewed_by: GM
+  reviewed: "2026-09-06"
+  applied:
+    - {finding: propagation, fix: "Propagated Stage 0's same-night chronology correction before the Stage 1 audit."}
+    - {finding: 4, fix: "Changed uncertain promotion/manipulation wording to confirmed deliberate amplification of Lathander's Death's fame, with actor and motive unknown."}
+    - {finding: 6, fix: "Changed 'ninth smuggled crate' to 'ninth crate in the delivery'; only eight crates remain confirmed unmarked."}
+  partially_applied: []
+  rejected:
+    - finding: 1
+      ruling: ALREADY_ACCURATE
+      rationale: "The summary attributes indefinite underwater endurance to Soma; VTT line 1615 records her making that claim."
+    - finding: 2
+      ruling: WRONG_FIX_DIRECTION
+      rationale: "Adding the Dead Rats and wererat identity would expose knowledge the party did not learn; preserve Rsolk's tunnel-manager presentation."
+    - finding: 3
+      ruling: FALSE_POSITIVE
+      rationale: "VTT lines 5295-5339 explicitly establish that the Order is reformed and has rejected its political masters."
+    - finding: 5
+      ruling: FALSE_POSITIVE
+      rationale: "Lim's Cafe is Vukradin's explicit cover-story wording at VTT lines 3171-3179, not an asserted second venue."
+    - finding: 7
+      ruling: FALSE_POSITIVE
+      rationale: "The low-output remark is explicitly Vukradin's spoken opinion at VTT line 3371 and does not claim the mine has yielded nothing."
+    - finding: 8
+      ruling: TABLE_VOCABULARY
+      rationale: "The players call the Sending Stones walkie-talkies at VTT lines 2683-2687 and demonstrably exchange updates at line 3995."
+    - finding: 9
+      ruling: GM_SIDE_UNRESOLVED
+      rationale: "The Harper response is an unresolved next-session consequence in the outcome notes, not player-established knowledge for this recap."
+
+carry_forward:
+  - {status: DONE, item: "Stage 0 same-night chronology correction propagated to session-summary.md."}
+  - {status: OPEN, item: "Rsolk remains named although the name is not spoken on tape; preserve the prior GM ruling and re-check downstream player knowledge."}
+  - {status: OPEN, item: "The phrase 'wererat territory' remains acceptable in GM-facing material but should not leak into player-facing narration."}
+  - {status: OPEN, item: "The rent/debt phrasing remains as ruled: the tape says Denvar owes the landlord money today."}
+  - {status: DONE, item: "Propagated the approved Stage 0 generic Rift Weaver location wording and missing-not-dead framing into session-summary.md."}
+  - {status: OPEN, item: "gm-assist.md originated from the D&D-tuned transcriber rather than a clean pipeline run; regeneration remains recommended."}
+  - {status: NOTE, item: "Stage 2 contains the GM's transcript-faithful 'remembered this from the mine' quote; preserve the quote and adjudicate any editorial location claim separately."}
+  - {status: DONE, item: "Propagated the Stage 1 fame-amplification wording to scene 05 and the crate-status wording back to gm-assist.md; propagated the approved generic Rift Weaver location wording to scene 03's editorial bullet."}
+  - {status: OPEN, item: "Stage 3 NOT RUN because no narration artifact exists."}
+
+notes: >
+  The command reported ten loaded context documents. The temporary config caused
+  a harmless entity-registry auto-discovery warning; docs/entity_registry.yaml
+  was explicitly passed through the single context list. The banner incorrectly
+  said "No issues found"; the saved report body contains nine numbered findings.

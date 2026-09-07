@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:f54aebcce003fde786131676c242463dc84b64bf2205af03164054c829d98936",
+  "status": "applied",
+  "approved": [
+    "s01-01",
+    "s01-02",
+    "s01-03",
+    "s01-04",
+    "s01-05"
+  ],
+  "rejected": [],
+  "unresolved": [],
+  "output": "/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1/applied/approved-20260906/scene.md",
+  "output_sha256": "8fe36fa116564bbd6a0fe38ac01608284cdba2b2a654563f8d00dad7627e5e53",
+  "decisions": {
+    "schemaVersion": 1,
+    "reviewId": "dialogue-edit:f54aebcce003fde786131676c242463dc84b64bf2205af03164054c829d98936",
+    "savedAt": "2026-09-06 23:53 UTC",
+    "decisions": {
+      "s01-01": "approve",
+      "s01-02": "approve",
+      "s01-03": "approve",
+      "s01-04": "approve",
+      "s01-05": "approve"
+    },
+    "notes": {},
+    "discuss": [],
+    "unmarked": []
+  },
+  "applied_at": "2026-09-06T23:54:42.510817+00:00"
+}

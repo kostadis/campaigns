@@ -1,0 +1,127 @@
+{
+  "vtt": "/home/kostadis/phandalin/Phandalin/summaries/20260902/GMT20260902-040118_Recording.transcript.cleaned.vtt",
+  "attendance": {
+    "David Mendenhall": {
+      "present": true,
+      "matched_label": "David Mendenhall"
+    },
+    "Gary Young": {
+      "present": true,
+      "matched_label": "Gary Young"
+    },
+    "Kostadis Roussos": {
+      "present": true,
+      "matched_label": "Kostadis Roussos"
+    },
+    "Stéphane Bourdeaud": {
+      "present": false,
+      "matched_label": ""
+    },
+    "Wade Brown": {
+      "present": true,
+      "matched_label": "Wade Brown"
+    }
+  },
+  "pool": [
+    "Soma",
+    "Valphine Sotorra",
+    "Vukradin"
+  ],
+  "undetermined": [],
+  "scenes": [
+    {
+      "index": 0,
+      "name": "Rumors and Preparations at the Common Chord",
+      "eligible": [
+        "Soma",
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "line_counts": {
+        "Vukradin": 75,
+        "Soma": 25,
+        "Valphine Sotorra": 8
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 1,
+      "name": "The Sewer Stakeout",
+      "eligible": [
+        "Soma",
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "line_counts": {
+        "Vukradin": 30,
+        "Soma": 32,
+        "Valphine Sotorra": 3
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 2,
+      "name": "Encounter in the Sewers",
+      "eligible": [
+        "Soma",
+        "Vukradin"
+      ],
+      "line_counts": {
+        "Vukradin": 50,
+        "Soma": 2
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 3,
+      "name": "The Stakeout of Denvar",
+      "eligible": [
+        "Soma",
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "line_counts": {
+        "Soma": 70,
+        "Vukradin": 17,
+        "Valphine Sotorra": 11
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 4,
+      "name": "The Dead Drop at the House of a Thousand Faces",
+      "eligible": [
+        "Soma",
+        "Valphine Sotorra",
+        "Vukradin"
+      ],
+      "line_counts": {
+        "Vukradin": 48,
+        "Soma": 46,
+        "Valphine Sotorra": 16
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    }
+  ],
+  "exclusions": {
+    "absent_players": [
+      {
+        "character": "Brewbarry",
+        "player": "Stéphane Bourdeaud",
+        "reason": "player has no speaker label on this tape"
+      }
+    ],
+    "not_in_scene": [
+      {
+        "character": "Valphine Sotorra",
+        "scene": "Encounter in the Sewers",
+        "reason": "no speaker label in this scene"
+      }
+    ]
+  }
+}

@@ -1,36 +1,124 @@
-<!-- section: emerging | inputs-sha: 69fa5ed88782fa43 -->
+<!-- section: emerging | inputs-sha: 0991039388d33cec -->
 ## Emerging Threads (harvested, not yet ruled on)
 
-_15 pending proposal(s) from the extraction corpus (1 already ruled). These are threads the record *suggests* are at play — ratify, alias, or reject on the Threads page (/grounding/threads), or with the `thread_registry` verbs; nothing here is canon._
+_59 pending proposal(s) from the extraction corpus (2 already ruled). These are threads the record *suggests* are at play — ratify, alias, or reject on the Threads page (/grounding/threads), or with the `thread_registry` verbs; nothing here is canon._
 
 ### New thread candidates (latest first)
-- **inventors' tamper-proof voting box** (ch [4])
-  - ch4: The inventors argue over whether a tamper-proof voting box is possible.
-- **stolen treasure** (ch [4])
-  - ch4: Vukradin says a fleeing bandit is taking stolen treasure.
-- **the play in Triboar** (ch [4])
-  - ch4: A play in Triboar featuring a demon character named Bob is mentioned and a revival is suggested.
-- **Triboar play script** (ch [4])
-  - ch4: The script for the Triboar play is lost; the Bard wants to recover it for a revival.
-- **unpaid Soma** (ch [4])
-  - ch4: Soma remembers that she hasn't been paid and decides not to tell Vukradin about the bird that sings a single note all season.
-- **creature terrorizing the cave system** (ch [3])
-  - ch3: King Gnercli says there is a creature terrorizing the cave system and asks if Vukradin can deal with it.
-- **creature's nature** (ch [3])
-  - ch3: The creature is not bipedal and could shape shift into big things.
-- **dragon threat** (ch [3])
-  - ch3: The party is on a mission to acquire a device to fight a dragon.
-- **King Korboz's madness** (ch [3])
-  - ch3: Gnomengarde's inventors are focused on curing King Korboz's madness.
-- **sanity ray vs straitjacket debate** (ch [3])
-  - ch3: Fibblestib and Dabbledob argue over Fibblestib's proposed sanity ray versus Dabbledob's proposed straitjacket with no holes for the hands.
-- **shapeshifter threat** (ch [3])
-  - ch3: The gnomes of Gnomengarde are on guard against shapechangers, with standing orders to attack them on sight.
-- **shapeshifter's location** (ch [3])
-  - ch3: King Gnercli guesses the shapeshifter would hide in the cellar, where there are many barrels.
-- **the deal** (ch [3])
-  - ch3: Vukradin agrees to the deal for 50 gold, despite finding the nature of the deal distasteful.
-- **Ordning reinstated** (ch [1])
-  - ch1: Had the Ordning not been reinstated, and had the Giants initiated an assault on the cities, the outcome would have been catastrophic.
-- **rules of Aos** (ch [1])
-  - ch1: The rules of Aos always have exceptions, which convinced the gods to try again.
+- **Soma's druidic training** (ch [7])
+  - ch7: Soma's story of her druidic training remains a mystery, with noted gaps from limited time.
+- **the great schism** (ch [7])
+  - ch7: Adabra asks Soma which side she is on in the great schism: naturalist or interventionist.
+- **woman's deeper agenda** (ch [7])
+  - ch7: Vukradin senses a deeper agenda at play in the woman's insistence on staying.
+- **Bob the Demon play** (ch [6])
+  - ch6: Soma learns about a play in Triboar featuring a main actor always dressed as a Demon named Bob, whose performances were legendary.
+- **Bob's play script** (ch [6])
+  - ch6: Vukradin had been trying for years to get the script of the Triboar play involving Bob and shouts about doing a revival.
+- **construct from entrails** (ch [6])
+  - ch6: Fiddlestib and Dabblebob discuss what kind of construct they could create from the creature's entrails.
+- **scroll's rightful owner** (ch [6])
+  - ch6: Vukradin reminds Soma that the scroll really should be returned to its rightful owner, and she realizes he has a point.
+- **who decides best argument** (ch [6])
+  - ch6: Vukradin asks who decides which argument is best, and this remains unresolved.
+- **King Korboz's madness** (ch [5])
+  - ch5: King Korboz's madness is a central problem the gnomes seek to cure, and the cause is claimed to be a shape-changing creature.
+- **magical device for dragon threat** (ch [5])
+  - ch5: Vukradin explains that the mayor is looking for some kind of magical device that can help fight against the threat of the dragon.
+- **missing gnomes Warren and Orrin** (ch [5])
+  - ch5: Warren and Orrin went missing, and King Korboz claims it was a shape-changing creature.
+- **standing order status** (ch [5])
+  - ch5: It is unclear whether the gnome standing order to attack Uthgardt barbarians on sight was renewed at the last meeting.
+- **ambush-prone mountain pass** (ch [4])
+  - ch4: The mountain pass narrows around a bend with loose stone and rising ground, good terrain for an ambush.
+- **Gnomengarde quest** (ch [4])
+  - ch4: The party's quest is to trade with the gnomes at Gnomengarde for 50 gold pieces.
+- **Harbin's fear** (ch [4])
+  - ch4: Harbin Wester's fear has an unknown cause.
+- **midwife quest** (ch [4])
+  - ch4: Harbin Wester mentions a midwife somewhere past the hills as one of two new quests.
+- **Neverwinter Wood strange magic** (ch [4])
+  - ch4: Strange magic pervades Neverwinter Wood, confounding navigators and obscuring ancient ruins.
+- **orc tribes coming south** (ch [4])
+  - ch4: Orc tribes are coming down from the north, a warning told to the party by innkeeper Toblen at the Stonehill.
+- **orcs coming from the north** (ch [4])
+  - ch4: The party was warned by the innkeeper Toblen at the Stonehill that orc tribes are coming down from the north.
+- **quest for the gnomes** (ch [4])
+  - ch4: The party's quest is to trade with the gnomes at Gnomengarde and get whatever they can from them.
+- **slave freeing** (ch [4])
+  - ch4: Vukradin concludes the ogre is a slave and asks to free him, but Valphine notes there are no bonds, brand, or pursuer.
+- **Soma's original task** (ch [4])
+  - ch4: Soma recalls that they were only supposed to tell the dwarves about a dragon and go back to town.
+- **Tariff Search** (ch [4])
+  - ch4: Linene Graywind mentions 'Tariff Search' as the cause of the trade disruption.
+- **trade disruption** (ch [4])
+  - ch4: Linene Graywind cites tariffs, disruptions, and market force dynamics as reasons for the Coster's reduced business.
+- **whether the ogre is a slave** (ch [4])
+  - ch4: The party debates whether the wandering ogre is a slave, with no visible bonds or brand.
+- **dagger reveal decision** (ch [3])
+  - ch3: Valphine decides what Vukradin sees when he arrives at the priest's remains is what she chooses to show him.
+- **dragon warning** (ch [3])
+  - ch3: The party was contracted to warn the dwarves about a dragon, and the warning is delivered.
+- **Gem of Greed** (ch [3])
+  - ch3: Valphine composes a scene of the demon attacking the gnomes for stealing the Gem of Greed.
+- **green gem left in statue** (ch [3])
+  - ch3: The green stone humming with magic stays in the cupped hands of the greed god on the strength of one long squint.
+- **historical significance of gem** (ch [3])
+  - ch3: Dazlyn and Norbus were looking for the Hall of Greed and are excited about the historical significance of finding an intact gem.
+- **orc ambush** (ch [3])
+  - ch3: The party faces an ambush by four orcs on the road back to town.
+- **sending stones payment** (ch [3])
+  - ch3: The party agrees to clear the ruins for the dwarves in exchange for the sending stones, with half due now and the rest after clearing.
+- **Soma's payment** (ch [3])
+  - ch3: Soma still needs Vukradin to become wealthy enough to pay her for her services.
+- **the dragon** (ch [3])
+  - ch3: The party did not find the dragon in the hall.
+- **adventurer compensation** (ch [2])
+  - ch2: Adventurers performing dangerous work for Neverwinter will not receive salaries or benefits but will keep whatever treasure they recover from the monsters they defeat.
+- **broken gate cause** (ch [2])
+  - ch2: Vukradin asks why the gate is broken, and the party hears stories of a white dragon flying around the area.
+- **buried temple wing** (ch [2])
+  - ch2: The rubble has buried the temple wing beyond the earthquake chamber.
+- **collapsed northeast entrance** (ch [2])
+  - ch2: The sealed northeast entrance and buried temple wing beyond the rubble remain unexcavated and may be explored later.
+- **Corruption in Harbin's quest offer** (ch [2])
+  - ch2: Vukradin reads the Gnomengarde terms aloud, calling it corruption in ink because Harbin offers to buy whatever useful object the adventurers remove from the rock gnomes.
+- **Dagult Neverember's plan** (ch [2])
+  - ch2: Dagult Neverember's plan is growth in trade, outposts, safer roads, and civilization extending south, with a limited budget.
+- **dragon near Phandalin** (ch [2])
+  - ch2: Vukradin asks if the party gets paid if they kill the dragon, and is told the dragons have hoards.
+- **dragon problem** (ch [2])
+  - ch2: Toblen warns of a small dragon problem near Phandalin.
+- **faith of a drow** (ch [2])
+  - ch2: Norbus's disbelief remains that a drow carrying a Lathander symbol is structurally false despite Valphine's confession.
+- **fifty gold payment** (ch [2])
+  - ch2: The party will receive fifty gold pieces for delivering the warning to the dwarf prospectors.
+- **Gnomengarde payment corruption** (ch [2])
+  - ch2: Vukradin interprets the Gnomengarde quest as corruption, saying Harbin is offering to buy whatever useful object they can remove from the rock gnomes.
+- **laws of the hinterland** (ch [2])
+  - ch2: The city guard explains that outside Neverwinter's walls the laws of Neverwinter do not apply, and adventurers are sent to pacify areas so the laws can be established.
+- **manifest destiny fetch quest** (ch [2])
+  - ch2: The quest is literally just delivering a letter—a fetch quest, reverse delivery.
+- **orc threat to Phandalin** (ch [2])
+  - ch2: Toblen says that if Neverwinter does not send help soon, the orcs will overrun Phandalin and destroy everything they work to rebuild.
+- **orcs threat** (ch [2])
+  - ch2: Soma asks why the orcs are causing trouble lately, and Toblen explains it is because the wars depleted Neverwinter's resources.
+- **quest board notices** (ch [2])
+  - ch2: There are three notices on the quest board: Dwarven Excavation Quest, Gnomengarde, and Umbrage Hill.
+- **quest choice** (ch [2])
+  - ch2: The party must choose among three quests: the Dwarven Excavation Quest, Gnomengarde, and Umbrage Hill.
+- **sealed temple wing** (ch [2])
+  - ch2: The party plans to dig later into the sealed temple wing when the temple has fewer ways to collapse.
+- **temple dangers** (ch [2])
+  - ch2: The party does not yet know what dangers lie inside the temple beyond the ochre jelly.
+- **the gray begins at the wall** (ch [2])
+  - ch2: The city guard says the gray begins at the wall.
+- **the survivor in the jungle** (ch [2])
+  - ch2: Brewbarry says the land has been crying out, a statement Soma finds unfair.
+- **Vukradin's desperation** (ch [2])
+  - ch2: Vukradin is desperate and came to Phandalin for this work.
+- **white dragon** (ch [2])
+  - ch2: Vukradin mentions hearing stories of a white dragon flying around the canyon, possibly responsible for breaking the gate.
+- **white dragon arrival** (ch [2])
+  - ch2: The party is to go back to the town to collect the fifty gold pieces after delivering the warning.
+- **gods walking the world** (ch [1])
+  - ch1: The people of the Realms hoped that the era of mischief from the gods walking the world would end.

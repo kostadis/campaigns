@@ -1,59 +1,66 @@
 ---
 name: Vukradin
 type: npc
-n_facts: 117
-chapters: 1-4
+n_facts: 361
+chapters: 1-7
 ---
 
 ### Vukradin
 
-**Current Status:** Alive.
+**Current Status:** Alive. A desperate, impoverished avant-garde musician (bard) and adventurer, one of the party hired via Lord Neverember’s flyer. Currently travelling with the adventuring party (Brewbarry, Soma, Valphine, and others) in the Phandalin region.
 
-**Current Location:** Presumably still travelling with the adventuring party in the Phandalin region (last seen in Phandalin; recent activity around Gnomengarde and the Triboar play).
+**Current Location:** In the wilderness near Phandalin, most recently at a windmill where he killed a manticore and met the hermit Adabra (who declined to leave her home). He intends to return to Phandalin, possibly to demand more money from Townmaster Harbin.
 
-**Allegiance/Faction:** Unaffiliated with any known faction; a freelance adventurer. Has expressed disdain for Neverwinter's "money laundering scheme" and refuses to be part of it.
+**Allegiance/Faction:** None formal. Works for Townmaster Harbin Wester of Phandalin on paid quests (delivered warning to dwarves Dazlyn and Norbus; completed Gnomengarde mission for King Korboz; killed manticore to rescue Adabra). Morally self-righteous — refuses "blood money" and stolen treasure, insisting all wealth be returned to rightful heirs.
 
 **Current Possessions / Notable Items:**
-- At least one sending stone (claims "I am rich! I have sending stones!").
-- A clarinet (used previously; presumed still in possession).
-- Speaks of a magic hat promised by King Gnercli (hat of wizardry) as part of a deal — presumably received or pending.
-- Counting gold; mutters his studio is "going to take forever to build at this rate," implying he is accumulating funds toward that goal.
+- Musical instruments: flute, clarinet, and a trumpet (no piano with him on the road).
+- A halberd (carries it on the journey).
+- Daggers (he is "kind of done with those" after the ochre jelly fight, but still has them).
+- Sending stones (earned from the dwarves Dazlyn and Norbus) — he claims they are worth a couple hundred gold pieces and he is rich for having them.
+- Two rations (has not eaten them yet; prefers to scavenge).
+- An amulet of health? (No such fact — cannot confirm. Omit.)
 
-**Current Spells / Abilities:**
-- Has cast *Starry Wisp* (used against the ogre).
-- Attempted a "utterly foolproof" spell that failed against a mimic.
-- Identifies as a Bard.
+**Spells/Abilities (known from use):**
+- Thunder spell (a damaging spell he casts, e.g., thunderwave-type effect).
+- Starry Wisp (ranged spell attack).
+- Command (cast on ogre to halt it).
+- Light (asked Valphine if he could cast a light spell on her).
+- Mold earth (calls it "a very valuable spell").
+- Undercommon and Goblin (languages — speaks Goblin but not Orc).
+- Plays music for effects (e.g., countering an ogre's song, healing via performance? no — just performance).
 
-**Current Wounds:** None indicated in supplied facts.
+**Wounds/Physical State:** Thin and hungry (has been near-starving). Nearly died twice in a fight with orcs (knocked down by greataxes twice, healed by Valphine's Healing Word and saved by Soma's Poison Spray). Exhausted after that fight but recovered. Not carrying any lasting wound as of latest chapter.
 
-**Current Assignment / Role and Key Relationships:**
-- Adventure companion of Soma, Brewbarry, and Valphine (last seen travelling together in the party).
-- In a deal with King Gnercli of Gnomengarde to deal with a shapeshifter in exchange for a hat of wizardry (deal accepted, 50 gold counted).
-- Recently killed a fleeing bandit; interrogating/hosting the bandit at dinner to learn about the bandit's boss, the Carver.
-- Urged the party to ask for more than 25 gold for rescuing Adabra.
-- Wants to do a revival of the Triboar play ("Bob"); has been trying for years to get the script.
+**Current Assignment/Role:** Self-appointed moral center of the party. Currently on a quest to rescue Adabra and return her to Phandalin for safety from a white dragon — but Adabra refused to leave. Vukradin is desperate for the reward money to fund his music studio. Also deals with Corbin, a bandit he interrogates about stolen armor and other thefts.
+
+**Key Relationships:**
+- **Brewbarry** — close friend; vouches for him ("not like the other barbarian"), travels with him; Brewbarry was the only customer who ever paid Vukradin for his music.
+- **Soma** — tortle companion; Vukradin thanks her for tanking, but is annoyed at her after his spell fails on the manticore ("I trusted you, Soma!"); questions her about stealing gold and returning a druidic scroll to its rightful owner.
+- **Valphine** — companion; Vukradin proposes they have side conversations in Undercommon together; she healed him with Healing Word; she notes his decency is either manipulation or genuine.
+- **Norbus and Dazlyn** — dwarf prospectors; Vukradin delivered them a warning, cleared ochre jellies, and earned sending stones from them; was hurt when Norbus forgot his name.
+- **Townmaster Harbin Wester** — employer; Vukradin persuades him through a locked door with "measured, warm, and entirely merciless" persuasion; condemns the legal structure of payments.
+- **Adabra** — hermit he rescued; he tries to convince her to come to town, plays tunes for her, reads her note refusing to leave, and interrogates her about stolen property.
 
 **Defining Recent Actions:**
-- Delivered the killing blow to a fleeing ogre, justified: "He hated music."
-- Survived near-death experiences (ogre encounter); stated "It's new for me. Never had one before."
-- Quit performing at the First Flophouse ("I quit").
-- Killed a fleeing bandit after Soma struck him; invited the bandit to dinner to learn about the Carver.
-- Attempted a spell against a mimic that failed.
-- Suggested one of the inventors should be king at Gnomengarde, "trying to create more chaos, like a good Drow."
-- Known to be in shock and inactive during combat at times (during the bandit fight).
+- Killed the manticore (cut off its head, marched to windmill with the head).
+- Tried to convince Adabra to return to Phandalin; failed — she refused to leave, promising to reward the heroes instead.
+- Repeatedly interrogated Corbin about stolen armor and robbing Adabra.
+- Announced his studio will "take forever to build" at the current rate; said he is "never going to get that studio."
+- Killed a fleeing bandit who was struck by a crossbow bolt; invited the bandit's companion to dinner to learn about the "Carver" (the bandit boss).
 
-**Motivations and Secrets:**
-- Wants to earn money to build a music studio; prioritises art over safety ("when you are starving, you take risks for your art").
-- Fascinated with the musical potential of sending stones; joined the adventure partly for that reason.
-- Has strong ethical objections to stealing/grave-robbing; repeatedly asks whether items will be returned to rightful owners.
-- Self-professed hatred of those who hate the arts (drove him to attack the ogre).
-- Claims to be "rich" because of his sending stones.
-- Displays reckless confidence bordering on delusion in combat.
+**Revealed Motivations/Secrets:**
+- Goal: build a music studio where "serious people can make serious music" — has no money for it.
+- Morally rigid about treasure: believes all money from monsters is stolen property belonging to heirs; refuses to take monster money ("that's stolen property").
+- Desperate and willing to take risks when the alternative is starvation.
+- Feels underappreciated as an artist; hurt by people not remembering his name or preferring familiar tunes to his original compositions.
+- Has never encountered orcs before, is "very confused" by them, and wants to parlay rather than fight.
+- Sensed "a deeper agenda at play" that he doesn't quite understand, regarding the situation with Adabra.
 
 ## Uncertainty
-
-- **Hat of Wizardry:** The deal with King Gnercli for the hat was accepted in ch03, and Vukradin asks about "the magical hat promised to them" in ch04. It is unclear whether the hat has actually been delivered; the facts do not confirm possession.
-- **Bandit's fate:** Vukradin invited the bandit to dinner and agreed ("Of course") when the bandit asked to join the group. Whether the bandit is now a companion is not confirmed; the bandit was alive as of that moment but may have died or departed since.
-- **Current party composition:** Vukradin was last seen with Soma, Brewbarry, and Valphine, but their current status (alive, present, travelling together) is not asserted in the facts — the group's current roster is unverified.
-- **Location chronology:** The facts jump between Gnomengarde and Phandalin in ch04 without clear indication of the party's exact current position at the latest moment; "Phandalin" is the most recent concrete location mentioned.
-- **Sending stones possession:** Vukradin claims "I have sending stones" in ch04, but the earlier facts describe him handling stones at the ruin — it is possible these are the same stones or a rhetorical claim; the facts do not specify how many or their origin beyond his own boast.
+- **Wounds/health:** He was nearly killed twice by orcs and healed, but his current physical condition at the latest chapter is not fully clear (he was exhausted, then recovered enough to kill a manticore). No explicit statement that he is fully healed — but he performed physical feats (cutting off a head) suggesting he recovered.
+- **Companion roster:** The party's exact current membership is unclear from these facts alone — Brewbarry, Soma, and Valphine are all mentioned in later chapters, but whether all (or others like the tortle, gnomes, or Corbin) are still travelling with him at the latest moment is not definitively stated.
+- **Sending stones:** He claims to have them and calls himself rich for it — but earlier he considered selling them, so whether he still possesses them at the latest chapter is implied (he says "I have sending stones!") but not independently confirmed.
+- **Orc encounter chronology:** The facts about his near-death fight with orcs span ch03–ch04; the exact order of his two falls, healings, and the song he composed is clear from quotes but not timestamped precisely.
+- **The "Carver":** Vukradin decides to learn about the bandit boss ("I must learn more") and invites a bandit to dinner — but it is uncertain whether this dinner/interrogation actually occurred at the latest chapter or is planned.
+- **Adabra's reward:** The note says "Please reward these heroes," and Vukradin fears they won't get paid — but whether any payment was received is unresolved.

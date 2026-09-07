@@ -1,17 +1,19 @@
 ---
 name: Stonehill Inn
 type: location
-n_facts: 5
-chapters: 2-4
+n_facts: 6
+chapters: 2-6
 ---
 
 ### Stonehill Inn
 
-- **What it is:** A modest inn/tavern at the center of Phandalin, offering lodging and meals.
-- **Current state:** Operational; the establishment is open and in use as of chapter 4.
-- **Occupants / notable activity:** Soma was last seen heading there to spend the night (chapter 4); the party themselves visited/planned to visit it after the Lionshield Coster (chapter 2).
-- **Notable references:** Townmaster Harbin has referred to it as the "Stonehill Tavern," noting a musician who played there.
+**Type:** Location (inn/roadhouse in Phandalin)
+**What it is:** A larger-than-most log building near the center of Phandalin, a modest roadhouse with an upper floor for guests and a common room below, offering meals and lodging.
+**Current state:** Operational; Soma was last seen heading there to spend the night.
+**Key figure:** Toblen, the innkeeper, who has rooms available to paying guests and warned the party about orc tribes coming from the north.
+**Significance:** A central waypoint in Phandalin for travelers; the site of Toblen's warning about orc raids.
 
 ## Uncertainty
-- **Name inconsistency:** The facts alternate between "Stonehill Inn" and "Stonehill Tavern" (twice each). It is unclear whether these refer to the same establishment under one official name or to two distinct venues — the quotes use both terms without clarifying.
-- **Current occupants:** Only Soma's overnight stay is recorded in the latest chapter; whether she is still there or has left is unknown, and no current owner, staff, or other occupants are named.
+- The exact location of the Stonehill Inn relative to other landmarks is only described as "near the center of town."
+- Whether the party has rooms there or is otherwise affiliated with the inn is not stated in the provided facts.
+- The source quotes refer to it as both "Stonehill Inn" and "Stonehill Tavern" (ch06); these may be the same establishment, but the naming is inconsistent.

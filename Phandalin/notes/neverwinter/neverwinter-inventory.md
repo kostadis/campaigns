@@ -14,17 +14,15 @@ For session-specific NPC adjustments see relevant notes files.
 
 - **Aletra Sotorra** — Valphine's sister; on-screen agent of cosmic entity KP; first documented direct intervention against Neverwinter was the Displacement Manifold ultimatum to the Commission
 - **Arlon Bladeshapper** — Leader of the Nashers (Sons of Alagondar), claims descent from one of the Neverwinter Nine, seeks the Crown to prove legitimacy
-- **Dagult Neverember** / **Lord Neverember** / **Lord Protector** / **Neverember** / **Open Lord of Waterdeep** — Lord of Waterdeep who arrived in 1467 DR with Mintarn mercenaries, proclaimed himself Lord Protector of Neverwinter, and founded the New Neverwinter movement; ousted as Open Lord of Waterdeep in 1489 DR
+- **Dagult Neverember** / **Lord Neverember** / **Lord Protector** / **Neverember** / **Lord Pretender** — Lord of Waterdeep who arrived in 1467 DR with Mintarn mercenaries, proclaimed himself Lord Protector of Neverwinter, and founded the New Neverwinter movement; ousted as Open Lord of Waterdeep in 1489 DR. Current lord of Neverwinter; rebuilt the Docks as top priority; brokered neutral-zone agreement at the Fallen Tower with Many-Arrow leadership; expelled Harrag's criminal record and uses the Leviathan as passive intelligence
 - **Gommoth** / **King of Hotenow** — Fire giant who leads a sect of fire-worshipping creatures and has proclaimed himself king of Mount Hotenow
 - **Grand Scribe Spivey Liethennson** — Stern, iron-fisted overseer of the House of Knowledge's reconstruction
 - **Harrag** / **Captain Harrag** — One-legged former pirate captain, owner of the Beached Leviathan, Neverember loyalist with his shadow converted into a spy creature
 - **Len-jes** / **Harbormaster** — Actual harbormaster of Neverwinter; watersoul genasi; semi-regular at the Beached Leviathan
 - **Liset Cheldar** — Half-elf proprietor of the Moonstone Mask; friendly and openly flirtatious, ownership claim ambiguous but politically accepted by Neverember
-- **Lord Neverember** / **Neverember** — Current lord of Neverwinter; brokered neutral-zone agreement at the Fallen Tower with Many-Arrow leadership
 - **Madame Rosene** — ~70-year-old owner of the Driftwood Tavern; formerly secret leader of the Sons of Alagondar (Graycloaks); fount of Neverwinter political history
 - **Mordai Vell** — Leader of the Ashmadai cell in Bluelake; inherited Vellgard Manor after the 1451 DR cataclysm
-- **Neverember** / **Lord Pretender** — Lord Protector of Neverwinter; rebuilt the Docks as top priority; expelled Harrag's criminal record and uses the Leviathan as passive intelligence
-- **Rsolk** / **Rsalk** — One-eyed wererat leader of the Dead Rats thieves' guild, uses Neverwinter as a Sword Coast criminal hub
+- **Rsolk** — One-eyed wererat leader of the Dead Rats thieves' guild, uses Neverwinter as a Sword Coast criminal hub
 - **Soman Galt** / **Mayor Soman Galt** — Dwarf Mayor of the Protector's Enclave; Aboleth Sovereignty puppet serving as a lever inside the Commission's administrative layer
 - **Valindra Shadowmantle** — One of the five adventurers who awakened Maegera at Gauntlgrym, triggering the cataclysm; remained active in Neverwinter from the shadows of the graveyard
 - **Vagdru One-Ear** — Many-Arrows orc who restored the Fallen Tower as a neutral-ground tavern under agreement with Neverember
@@ -79,14 +77,13 @@ For session-specific NPC adjustments see relevant notes files.
 - **General Sabine** — Neverwinter military leader who helped save the Beached Leviathan during the 1479 DR succession conflict
 - **Glazhael** — White dragon associated with Whistler's mythologized 'death'
 - **Grimwald** — One of the four founding wizards of the School of Wizardry (the Covenant)
-- **Halueth Never** / **Lord Halueth Never** — Sun elf, settled the area around -10 DR and began construction of Castle Never during his conquest of Illusk
+- **Halueth Never** / **Lord Halueth Never** — Sun elf lord who settled the area around -10 DR and commissioned Castle Never, beginning its construction during his conquest of Illusk; buried in the Neverneath; Valindra seeks to resurrect him as a puppet
 - **Hekaton** / **Storm Giant King** / **King Hekaton** — Storm Giant King who ultimately aligned with the Lord's Alliance, ending the War of the Giants
 - **Ilyykur** — One of the four founding wizards of the School of Wizardry (the Covenant)
 - **Konstantinious the 12th** / **the Great Sage Konstantinious the 12th** — Great Sage whose excerpt is the primary narrative source for the NeverwinterExpansionismandtheNorth document
 - **Lady Jasmine** — Selûnite priestess who aided in purifying the Shard of Night into the Shard of the Moon in 1479 DR
 - **Laela** — Person rescued by Thistle during the War of the Giants
 - **Llomnauvel Oloadhin** / **Firehands** / **Llomnauvel "Firehands" Oloadhin** — Wizard who owned the Fallen Tower; destroyed it rather than let the Arcane Brotherhood take his collection
-- **Lord Halueth Never** / **Halueth Never** — Sun elf lord who commissioned Castle Never, conquered Illusk, and is buried in the Neverneath; Valindra seeks to resurrect him as a puppet
 - **Lord Nasher Alagondar** / **Nasher** — Former ruler of Neverwinter; the Many-Starred Cloak wizards served under his reign
 - **Maegera** — Primordial awakened at Gauntlgrym in 1451 DR, causing Mount Hotenow to erupt and devastating Neverwinter
 - **Malfire** / **the Vindicator of Nature** / **the Winterstalker** — Ranger of the First Faction who convinced the Emerald Enclave to join the War of Dragons alongside treants and metallic dragons

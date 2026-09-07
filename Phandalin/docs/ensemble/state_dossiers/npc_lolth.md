@@ -1,21 +1,28 @@
 ---
 name: Lolth
 type: npc
-n_facts: 4
-chapters: 1-2
+n_facts: 6
+chapters: 1-3
 ---
 
 ### Lolth
 
-- **Current status:** Unknown — last stated to be trapped in a demi-plane (ch01); no fact confirms release. Implied active schemer with contingency plans.
-- **Current location:** Trapped in a demi-plane (ch01).
-- **Allegiance/faction:** Herself; former patroness of Valphine (ch02).
-- **Current possessions / notable items, spells, feats, wounds:** None recorded.
-- **Current assignment / role and key relationships:** Former deity/patroness of Valphine, who has since left her worship (ch02). Lolth's plan required magic capable of temporarily loosening the bonds separating the planes (ch01).
-- **Defining recent actions:** Orchestrated an elaborate multi-century plan that led to her own entrapment in a demi-plane; she was thought finished, but always maintained contingency plans (ch01).
-- **Revealed motivations or secrets:** A schemer with contingency plans; her escape plan hinged on magic that could temporarily loosen planar bonds (ch01).
+**Current status:** Not confirmed dead or active; last known state is being trapped in a demi-plane as part of an elaborate multi-century plan, with the implication she may be executing contingency plans.
+
+**Current location:** Trapped in a demi-plane (as of ch01; no later fact updates her location).
+
+**Allegiance/faction:** Spider Queen of the drow; worshipped through a priesthood.
+
+**Current possessions / notable items, spells, feats, wounds:** No specific items or spells attributed. Possesses an ongoing plan requiring magic that could temporarily loosen the bonds separating the planes.
+
+**Current assignment / role and key relationships:** Object of worship for drow priestesses; dispenses favor through her priestesses rather than openly. Has at least one known renunciation: Valphine, a survivor of House Sotorra, has renounced Lolth and offered herself to a "greater power." Valphine also criticizes Lolth implicitly—noting Menzoberranzan would punish a priestess for speaking a true but unflattering comparison about the god Abbathor, and describing Lolth's grammar as "in a beard."
+
+**Defining recent actions:** Orchestrated (or is orchestrating) an elaborate multi-century plan while trapped, using magic that can temporarily loosen planar bonds. No other current actions confirmed.
+
+**Revealed motivations or secrets:** A schemer who always has contingency plans; her current plan is tied to weakening the barriers between planes.
 
 ## Uncertainty
-- Whether Lolth has escaped or remains trapped as of the latest chapter is unresolved — no fact after ch01 addresses her current status directly.
-- The exact nature or scope of the "magic that could temporarily loosen the bonds holding the planes separate" is unspecified (who wields it, when, or whether it succeeded).
-- Valphine's "former follower" status implies Lolth's ongoing existence/relevance, but does not clarify Lolth's current physical/divine state.
+- **Current status vs. ch02-03 material:** ch01 states Lolth is trapped in a demi-plane and "thought finished," but ch02-03 present her as an active object of devotion (and renunciation) without confirming whether her escape plan has succeeded, is in progress, or failed. Her current status (still trapped vs. freed) is unresolved.
+- **Valphine's renunciation** is asserted by Valphine herself; whether this is accepted by Lolth or has consequences is unknown.
+- **"Lolth's grammar in a beard"** is an ambiguous phrase — unclear if it is an insult, a literal description, or figurative; the quote provided does not clarify.
+- **Attribution of the Abbathor critique:** The quote is Valphine's commentary on what Menzoberranzan would punish; it contrasts Abbathor with Lolth indirectly, but does not directly state a current theological position of Lolth.

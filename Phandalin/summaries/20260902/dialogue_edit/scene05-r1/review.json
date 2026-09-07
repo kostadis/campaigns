@@ -1,0 +1,199 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:af555206730a2f37be2803b3f4be820f7c2fb17e366755e12bf83b22d4cb620c",
+  "payload": {
+    "scene": "Scene 5 — Harpers Behind the Wall",
+    "session": "/home/kostadis/phandalin/Phandalin/summaries/20260902",
+    "run_dir": "/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene05-r1",
+    "draft": "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md",
+    "source": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+    "inputs": {
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.scrubbed.md": {
+        "role": "draft",
+        "sha256": "901bd9221b9c8e14a6031e982a46e2902fee1b3a3cf054264c62df03b9fdc4c3"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md": {
+        "role": "source",
+        "sha256": "1d932b1dead3d414b877252e14976256d9119033c52e32cf34cf5a2e95c733b4"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/party.yaml": {
+        "role": "reference",
+        "sha256": "0c80629b963be3f57c42c11c9ceee10e2a8fd80c8ff57717539b7ff4dc50d891"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/players.yaml": {
+        "role": "reference",
+        "sha256": "6db574fc53fa1622853bc1877a105a5982327eee9469d0b95e8e04de0b196c28"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/session_doc.yaml": {
+        "role": "reference",
+        "sha256": "596c7af11b0f6c40d116c93604865c186f74143857dfa702320db1b6de510bde"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/_genre.md": {
+        "role": "reference",
+        "sha256": "7a848f23addaf26686576b1c1a109a53960f1dce66e3fee85a04bde549962f41"
+      },
+      "/home/kostadis/phandalin/Phandalin/notes/scrub_register_policy.md": {
+        "role": "reference",
+        "sha256": "a336d3df3856a5cbfa05a16edf32e443ed277f663149592fcf63858483c7edce"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/plan.md": {
+        "role": "reference",
+        "sha256": "c52ce3d0c450708ff114bb97b5cbb56ae329b547d87cf7fa8a904dcefc9781c6"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/voice_smooth.sources.yaml": {
+        "role": "reference",
+        "sha256": "730ad84ea99a86bb21a4401df20503140b545095ff2ae1b60d3502078cbbc899"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration/no_mech_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "48e2e27f66a02b873722ae813cef90f7a1483ee370c65fd6d2d825020c0d7fab"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/scrub_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "79a9801d2422228673c6b62cf71f75552d7ac9ba0fbdf86d8a08f4b8a3d99547"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/.cg/activity.jsonl": {
+        "role": "reference",
+        "sha256": "19818db865e8af70cf2470071e973156a24b0bf0a0ca401d1cc369f962e2fb43"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/soma_new_pipeline.md": {
+        "role": "reference",
+        "sha256": "a1e45a11c71bc6e6d3e480c08ab6d3571f2dc2c2e03e7564cc876d54efdde40c"
+      },
+      "/home/kostadis/phandalin/Phandalin/examples/soma.md": {
+        "role": "reference",
+        "sha256": "adc71f8ca88acc3b453926036864b83cd3d49f9e9e71522f1430d2ade8b9df9b"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_05_harpers_behind_the_wall.knobs.json": {
+        "role": "reference",
+        "sha256": "4d25d74d870c04aacac16aebb2e74349b2207a33d672501c0d2316d3aa0bf559"
+      }
+    },
+    "edits": [
+      {
+        "id": "s05-01",
+        "start": 2431,
+        "before": "“eyeball the wall.”",
+        "after": "“Eyeball the wall.”",
+        "line": 49,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Capitalize Soma's complete imperative without altering its clipped delivery.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+            "quote": "\"eyeball the wall.\"",
+            "start": 6104,
+            "line": 121
+          }
+        ],
+        "context": "“Denvar might be a dead end.”\n\nI turn back to the compartment. “eyeball the wall.”\n\n“Valphine, you wanna do your…” Vukradin begins.\n"
+      },
+      {
+        "id": "s05-02",
+        "start": 2608,
+        "before": "“on the wall.”",
+        "after": "“On the wall.”",
+        "line": 57,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Capitalize Vukradin's complete answer while retaining its brevity.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+            "quote": "\"on the wall.\"",
+            "start": 6384,
+            "line": 133
+          }
+        ],
+        "context": "Valphine looks between Denvar and the stone. “You mean, like, on him, or on the…”\n\n“on the wall.”\n\n“on the wall.”\n"
+      },
+      {
+        "id": "s05-03",
+        "start": 2624,
+        "before": "“on the wall.”",
+        "after": "“On the wall.”",
+        "line": 59,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Capitalize Soma's repeated answer while preserving the separate speaker beat.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+            "quote": "\"on the wall.\"",
+            "start": 6425,
+            "line": 136
+          }
+        ],
+        "context": "“on the wall.”\n\n“on the wall.”\n\n“I'm gonna look at him just before he goes.”\n"
+      },
+      {
+        "id": "s05-04",
+        "start": 3073,
+        "before": "“Or is it Earth, or…”",
+        "after": "“Or is it earth, or…”",
+        "line": 73,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Lowercase the common material noun while preserving Vukradin's uncertainty and trailing cadence.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+            "quote": "\"Or is it Earth, or…\"",
+            "start": 7303,
+            "line": 159
+          }
+        ],
+        "context": "“Oh, okay. Well, let's loop around.”\n\n“Or is it Earth, or…” Vukradin asks.\n\nIt is a stone dwelling.\n"
+      },
+      {
+        "id": "s05-05",
+        "start": 7356,
+        "before": "“It's totally not, you sure.”",
+        "after": "“It's totally not. You sure?”",
+        "line": 197,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Separate Soma's sarcastic assertion from the follow-up question so the intended delivery reads cleanly.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+            "quote": "\"It's totally not, you sure.\"",
+            "start": 14478,
+            "line": 386
+          }
+        ],
+        "context": "“Not.”\n\n“It's totally not, you sure.”\n\n“It definitely is not.”\n"
+      },
+      {
+        "id": "s05-06",
+        "start": 8870,
+        "before": "“desk, papers, supplies?”",
+        "after": "“Desk, papers, supplies?”",
+        "line": 233,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Capitalize Vukradin's complete inventory question without changing its telegraphic rhythm.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+            "quote": "\"desk, papers, supplies?\"",
+            "start": 16032,
+            "line": 434
+          }
+        ],
+        "context": "I guide the rat around the office. Desk, papers, supplies. No windows and no easy way out except the opening we have made.\n\n“desk, papers, supplies?” Vukradin asks.\n\nThere is nothing the rat can bring back that would answer this cleanly.\n"
+      }
+    ],
+    "observations": [
+      "Left the isolated reply ‘level,’ unchanged because its missing wording is not recoverable from the reviewed extraction."
+    ],
+    "skill_sha256": {
+      "SKILL.md": "30f03f7eaba1593d1e24cdd23271369fa47f9dae9a0c3115ed1e2cd11419d51e",
+      "scripts/review_edits.py": "770a578d7da1d5a2dee31206c24ed5163be2b9d17031b831d73c8549006aec12",
+      "references/editorial-guide.md": "790721eb80cef5e1f14cff0fb6f6965cb0062bbf16cd9b527ef03f6ca314c72f",
+      "references/review-and-apply.md": "0b38628119fd023460fb1029ebdc077d5cd05c945c4e2d7db842a78eedc89783"
+    },
+    "prepared_at": "2026-09-06T23:49:45.511396+00:00"
+  }
+}

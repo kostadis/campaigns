@@ -7,16 +7,15 @@ chapters: 1-1
 
 ### Severin
 
-- **Current status:** Alive (no facts contradict this; status beyond this is unconfirmed).
-- **Current location:** Unknown.
-- **Allegiance/faction:** Cult of the Dragon (member/leader implied by recruitment by Tiamat).
-- **Current possessions / notable items:** None recorded.
-- **Current assignment / role:** Was duped by Tiamat into attempting to bring her into the world — this is his defining and only recorded action/motivation. No current task, commander, or companions are documented.
-- **Defining recent actions:** Acted on Tiamat's deception to try to summon her into the material world.
-- **Revealed motivations / secrets:** He was manipulated by Tiamat (co-resident of Avernus) — his goal of bringing Tiamat into the world was born of that deception, not necessarily his own free design.
+- **Current status:** Alive (no facts indicate death, disappearance, or other status change).
+- **Current location:** Unknown (not stated in the facts provided).
+- **Allegiance/faction:** Member of the Cult of the Dragon; was acting in service to Tiamat.
+- **Current possessions / notable items:** None stated.
+- **Current assignment / role and key relationships:** Attempted to bring Tiamat into the world, acting as an agent of Tiamat (co-resident of Avernus) and the Cult of the Dragon. No facts establish his current assignment or who he reports to now.
+- **Defining recent actions:** Was duped by Tiamat into attempting to bring her into the world — the only action on record.
+- **Revealed motivations or secrets:** His attempt was the result of being deceived by Tiamat; he was not knowingly serving her true design (as per the quote's framing).
 
 ## Uncertainty
-- **Current status**: Only one fact exists (chapter 1). There is no confirmation Severin is still alive, free, or even in the same location — "alive" is an assumption from lack of contrary evidence, not a documented state.
-- **Role in the Cult of the Dragon**: The fact says he and the Cult attempted the summoning, but does not specify whether Severin leads the cult, is a member, or acted alone with their support.
-- **Outcome of the attempt**: Whether the attempt succeeded, failed, or was interrupted is unknown.
-- **Current allegiance**: Implicitly still Cult of the Dragon, but no later fact confirms he remains loyal or even associated after the event.
+
+- **Current state after the attempt:** The facts are silent on whether the attempt succeeded or failed, and on Severin's fate, location, or current relationship with Tiamat and the Cult of the Dragon after the event. His current allegiance (still Cult-aligned? still deceived? now an enemy of Tiamat?) is unresolvable from these facts.
+- **Ambiguous chronology:** Only one fact exists, so there is no later fact to override or refine — everything stated reflects the moment described in chapter 1, not necessarily "now."

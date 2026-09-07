@@ -1,0 +1,197 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:942bf8e9e0139536735a9cb8ba68d5313136e6f356b51c8b809230f75a10a944",
+  "payload": {
+    "scene": "Scene 4 — Denvar's Unsettled Account",
+    "session": "/home/kostadis/phandalin/Phandalin/summaries/20260902",
+    "run_dir": "/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1",
+    "draft": "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md",
+    "source": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+    "inputs": {
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md": {
+        "role": "draft",
+        "sha256": "009971eaf8ab5b22b035bcce30114390b31d367e6e4f2c837c5f3f469a1b4737"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md": {
+        "role": "source",
+        "sha256": "92115eb332438cee7ef73048ba038c0526d6ae0892b11340b55439dbd6c94e94"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/party.yaml": {
+        "role": "reference",
+        "sha256": "0c80629b963be3f57c42c11c9ceee10e2a8fd80c8ff57717539b7ff4dc50d891"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/players.yaml": {
+        "role": "reference",
+        "sha256": "6db574fc53fa1622853bc1877a105a5982327eee9469d0b95e8e04de0b196c28"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/session_doc.yaml": {
+        "role": "reference",
+        "sha256": "596c7af11b0f6c40d116c93604865c186f74143857dfa702320db1b6de510bde"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/_genre.md": {
+        "role": "reference",
+        "sha256": "7a848f23addaf26686576b1c1a109a53960f1dce66e3fee85a04bde549962f41"
+      },
+      "/home/kostadis/phandalin/Phandalin/notes/scrub_register_policy.md": {
+        "role": "reference",
+        "sha256": "a336d3df3856a5cbfa05a16edf32e443ed277f663149592fcf63858483c7edce"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/plan.md": {
+        "role": "reference",
+        "sha256": "c52ce3d0c450708ff114bb97b5cbb56ae329b547d87cf7fa8a904dcefc9781c6"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/voice_smooth.sources.yaml": {
+        "role": "reference",
+        "sha256": "730ad84ea99a86bb21a4401df20503140b545095ff2ae1b60d3502078cbbc899"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration/no_mech_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "48e2e27f66a02b873722ae813cef90f7a1483ee370c65fd6d2d825020c0d7fab"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/scrub_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "79a9801d2422228673c6b62cf71f75552d7ac9ba0fbdf86d8a08f4b8a3d99547"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/.cg/activity.jsonl": {
+        "role": "reference",
+        "sha256": "19818db865e8af70cf2470071e973156a24b0bf0a0ca401d1cc369f962e2fb43"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/soma_new_pipeline.md": {
+        "role": "reference",
+        "sha256": "a1e45a11c71bc6e6d3e480c08ab6d3571f2dc2c2e03e7564cc876d54efdde40c"
+      },
+      "/home/kostadis/phandalin/Phandalin/examples/soma.md": {
+        "role": "reference",
+        "sha256": "adc71f8ca88acc3b453926036864b83cd3d49f9e9e71522f1430d2ade8b9df9b"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.knobs.json": {
+        "role": "reference",
+        "sha256": "4d25d74d870c04aacac16aebb2e74349b2207a33d672501c0d2316d3aa0bf559"
+      }
+    },
+    "edits": [
+      {
+        "id": "s04-01",
+        "start": 2618,
+        "before": "“Who we could potentially ask questions about him of.”",
+        "after": "“Who we could potentially ask about him.”",
+        "line": 61,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Untangle Valphine's phrasing while preserving her proposal to question Denvar's landlord.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+            "quote": "\"Who we could potentially ask questions about him of.\"",
+            "start": 6254,
+            "line": 131
+          }
+        ],
+        "context": "It is a lodging house, which means a landlord.\n\n“Okay, so he has a landlord,” she says. “Who we could potentially ask questions about him of.”\n\nUnfortunately, it is still the middle of the night. We wait until seven. My joints do not appreciate standing around after walking all night, but they have complained about more useful things before.\n"
+      },
+      {
+        "id": "s04-02",
+        "start": 4309,
+        "before": "“No, no, we have… Very… that’s kind of slanderous to us.”",
+        "after": "“No, no. That’s kind of slanderous to us.”",
+        "line": 103,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Remove an unrecoverable false start while preserving Soma's emphatic objection and dry tone.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+            "quote": "\"No, no, we have… Very… that's kind of slanderous to us.\"",
+            "start": 9415,
+            "line": 233
+          }
+        ],
+        "context": "Then, because the first comparison has gone so well, he tries another. “I guess you’re not like… I guess you’re not like turtles.”\n\n“No, no, we have… Very… that’s kind of slanderous to us.”\n\nOnly then does he look past me. Valphine stands in white armor, her eyes glowing gold. Brewbarry has the size, muscles, and exposed weapons of Brewbarry. The landlord’s face changes.\n"
+      },
+      {
+        "id": "s04-03",
+        "start": 6870,
+        "before": "“We asked him about the, you know, the gentleman we, you know, followed back here.”",
+        "after": "“We wanted to ask about the gentleman we followed back here.”",
+        "line": 177,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Correct the tense and remove repeated filler so Soma's request matches the immediate conversation with the landlord.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+            "quote": "\"We asked him about the, you know, the gentleman we, you know, followed back here.\"",
+            "start": 12895,
+            "line": 336
+          }
+        ],
+        "context": "“Alright.”\n\n“We asked him about the, you know, the gentleman we, you know, followed back here.”\n\n“You mean Denvar?”\n"
+      },
+      {
+        "id": "s04-04",
+        "start": 6975,
+        "before": "“Denvar. Yeah. That’s more than we came with, we got a name.”",
+        "after": "“Denvar. Yeah. That’s more than we came with. We got a name.”",
+        "line": 181,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Resolve a comma splice into Soma's characteristic short landing beats.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+            "quote": "\"Denvar. Yeah. That's more than we came with, we got a name.\"",
+            "start": 13073,
+            "line": 342
+          }
+        ],
+        "context": "“You mean Denvar?”\n\n“Denvar. Yeah. That’s more than we came with, we got a name.”\n\n“Denvar!”\n"
+      },
+      {
+        "id": "s04-05",
+        "start": 8102,
+        "before": "“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”",
+        "after": "“And all his deliveries… Every one of his delivery chits is the same. They’re all this one thing. He literally has one job.”",
+        "line": 219,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Remove the false start and express the same totality in grammatical speech while keeping Soma's punchline intact.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+            "quote": "\"And the… all his deliveries… 100% of his delivery chits are the same. They're all this one thing. He literally has one job.\"",
+            "start": 14873,
+            "line": 410
+          }
+        ],
+        "context": "Each chit has a client reference and a house mark. None has a personal name.\n\n“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”\n\nNot ten employers. Not odd work around the district. One repeated contract moving nine crates at the third hour, eight up and one down.\n"
+      },
+      {
+        "id": "s04-06",
+        "start": 8833,
+        "before": "“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”",
+        "after": "“And so that was the one he presumably just delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”",
+        "line": 239,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Move the adverb into a natural position without changing Soma's deduction or rhetorical question.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+            "quote": "\"And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don't we?\"",
+            "start": 15939,
+            "line": 446
+          }
+        ],
+        "context": "The one we watched has not been paid.\n\n“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”\n\nYes.\n"
+      }
+    ],
+    "observations": [],
+    "skill_sha256": {
+      "SKILL.md": "30f03f7eaba1593d1e24cdd23271369fa47f9dae9a0c3115ed1e2cd11419d51e",
+      "scripts/review_edits.py": "770a578d7da1d5a2dee31206c24ed5163be2b9d17031b831d73c8549006aec12",
+      "references/editorial-guide.md": "790721eb80cef5e1f14cff0fb6f6965cb0062bbf16cd9b527ef03f6ca314c72f",
+      "references/review-and-apply.md": "0b38628119fd023460fb1029ebdc077d5cd05c945c4e2d7db842a78eedc89783"
+    },
+    "prepared_at": "2026-09-06T23:49:45.497787+00:00"
+  }
+}

@@ -8,8 +8,8 @@
 - **The sage KP**: Found a piece of an artifact he needed
 - **Lolth**: Trapped in a demi-plane as part of a multi-century plan, schemer with contingency plans, orchestrated the weakening of planar bonds
 - **Gromph Baenre**: Of the First House of Menozberanzan, Lolth's pawn who cast the spell twisting the Faerzess magic, thought it would give Drow control but was wrong
-- **Grazz't**: Demon who instigated widespread insanity and madness in the Underdark
-- **Zugtomy**: Demoness who disseminated perilous fungi
+- **Graz'zt**: Demon who instigated widespread insanity and madness in the Underdark
+- **Zuggtmoy**: Demoness who disseminated perilous fungi
 - **Orcus**: Demon who marshaled armies of undead
 - **Demogorgon**: Demon who wreaked havoc on cities including Menozberranzan
 - **Lord Nevermember**: Turned his eye to the hinterland of his city-state, particularly Phandalin, offers tax-free plunder to adventurers

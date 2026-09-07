@@ -1,17 +1,19 @@
 ---
 name: Gnomengarde
 type: location
-n_facts: 7
-chapters: 2-3
+n_facts: 5
+chapters: 2-5
 ---
 
 ### Gnomengarde
 
-- **What it is:** A small network of caves / subterranean halls and a gnomish outpost (hold) in the Sword Mountains, southeast of Phandalin.
-- **Location:** In the mountains, reached by travelling through broken hilly terrain south of Phandalin before ascending into the Sword Mountains.
-- **Access route (current):** Reached via a river leading from the mountains; the river ends at a waterfall whose erosion of the rock has created a natural concavity (by the gnomish hold).
-- **Current state:** No current occupancy, control, or condition details are known beyond its nature as a reclusive rock gnome settlement / outpost.
+A location currently known to the party as a quest destination. It is home to rock gnomes.
+
+- **What it is:** A settlement or enclave of rock gnomes.
+- **Current state:** Intact and reachable; the journey there was uneventful.
+- **Who controls/occupies it now:** Rock gnomes.
+- **Notable events:** It was posted as a quest on the Phandalin quest board (noticed by the party in chapter 2), was favored as a destination by Valphine earlier, and Harbin later offered it as one of his quests involving rock gnomes. No events *inside* Gnomengarde have been witnessed by the party yet.
 
 ## Uncertainty
-- **Occupancy/current state inside:** The facts say a clan of reclusive rock gnomes resides there (ch02), but later facts give no update on whether they are still present or what the state of the hold is.
-- **Destination status:** Soma/expedition were headed there (ch02–03); whether they actually entered, were admitted, or met the gnomes is not stated in the supplied facts.
+- The party's exact current relationship to Gnomengarde (whether they have arrived, are en route, or have left) is unclear — the latest fact only notes the journey there was uneventful, not their arrival or current presence.
+- Whether Gnomengarde is a town, a fortress, a cave network, or some other form of settlement is unspecified by the supplied facts.

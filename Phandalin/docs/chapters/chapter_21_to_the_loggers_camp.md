@@ -10,7 +10,7 @@ The Falcon Hunter was a fraud and an artist. And a thief, I must never forget th
 
 Somewhere, someone has lost a magical ring. And I will find the owner. 
 
-And it’s then that I realize we have gone pretty deep into the Neverwinter Wood forest. Brewbarry has been dragging the cart with the supplies for Tribar Wester. At first he complained, but ever since the Falcon Hunter filled it with booze, he has insisted that nobody but him touch the cart. 
+And it’s then that I realize we have gone pretty deep into the Neverwinter Wood forest. Brewbarry has been dragging the cart with the supplies for Tibor Wester. At first he complained, but ever since the Falcon Hunter filled it with booze, he has insisted that nobody but him touch the cart. 
 
 The sun is high above, and the air is refreshing and cool. 
 

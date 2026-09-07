@@ -2,276 +2,493 @@
 
 _Assembled per-section from the state stores by `grounding_sections.py` (#213 Phase 4). Each section carries an `inputs-sha` stamp of the exact bytes it was rendered from; unchanged inputs mean the section was not re-rendered. Review per section, then promote via the usual draft -> diff -> copy gate._
 
-<!-- section: recent_events | inputs-sha: 37c46720dc42072c -->
-## Recent Events (last 3 chapters — event spine window)
-
-### Chapter 1
-- The great sundering completed, ending the era of gods walking the world.
-- Tiamat duped Severin and the Cult of the Dragon to attempt to bring her into the world.
-- Tiamat, co-resident of Avernus, duped Severin and the Cult of the Dragon to attempt to bring her into the world; the plan was Zariel's, not hers.
-- The All-Father, god of the giants, fantasized about a north that the Giants ruled.
-- In the chaos of the All-Father's plans, the Great Ancient Blue Dragon almost destroyed the kingdoms of the giants.
-- Twice, the plans of the gods had been thwarted.
-- Lolth was trapped in a demi-plane as part of an elaborate multi-century plan.
-- Gromph Baenre's spell twisted the magic of the Faerzess.
-- Lolth's plan required magic that could temporarily loosen the bonds holding the planes separate, and the spell twisted the magic of the Faerzess.
-- The spell twisted the magic of the Faerzess.
-- The bonds between the Abyss and Toril weakened for a moment, and the demon lords entered the Underdark.
-- The bonds between the Abyss and Toril weakened for a moment.
-- The demon lords entered the Underdark.
-- The chaos in the Underdark may have provoked the Uthgardt Barbarians to launch a devastating assault on the North, destroying numerous smaller communities.
-- Triboar was razed.
-- Calling Horn was obliterated.
-- Several villages on the outskirts of Silverymoon and Mirabar were pillaged.
-- Following the War of the Dragons, the Northern Territories and the Lord’s Alliance forces were recovering from their conclusive battle against the Cult of the Dragon.
-- The Ordning was reinstated, keeping the armies intact and preventing a catastrophic giant assault.
-- The Ordning was reinstated.
-- The alliance of the Silvery Marches was revived due to the efforts of several agents from Everlund.
-- The combined strength of the Giants and major cities successfully ended the barbarian invasion.
-- Lord Neverember needed the Phandalin area cleared of monsters, cults, and evildoers to encourage settlement and growth.
-- Because of the costs of the wars, Lord Neverember decided to use adventurers, offering them tax-free no-questions-asked plunder.
-- Lord Neverember decided to use adventurers to clear Phandalin of monsters, cults, and evildoers, offering tax-free plunder.
-
-### Chapter 3
-- Valphine's mace strikes the prone ogre but the blow is glancing and does no damage.
-- Brewbarry swings his halberd at the ogre but strikes the rocky ground with a deafening clang.
-- A puff of acrid green gas surrounds the ogre, hurting it and hampering its movements.
-- The ogre stands with a burst of energy and scans its attackers.
-- The ogre chooses to strike Brewbarry next.
-- The ogre's axe lands on Brewbarry but glances off his hardened skin due to his rage, doing nothing.
-- The ogre turns and runs away from the fight.
-- Valphine shoots a bolt from her handheld crossbow at the fleeing ogre, wounding it but not stopping it.
-- Vukradin delivers the killing blow to the ogre.
-- Valphine is surprised by Vukradin's calm, philosophical response to Soma's indignation.
-- Valphine finds a whistle, some coins, and a key on the ogre's body.
-- The rest of the journey to Gnomengarde is uneventful and Soma finds the river leading to the gnomish hold.
-- Vukradin wades through the water towards the mushrooms and Soma follows him closely.
-- Soma wants some of the mushroom wine.
-- The party forages mushrooms from the islands in the pool, with Vukradin putting them in his bag.
-- Vukradin puts the mushrooms in his bag.
-- Vukradin shouts that they should find the secret treasure room behind the waterfall.
-- Soma stands under the waterfall and gets soaked.
-- Behind the waterfall is nothing but a rock wall.
-- Soma asks if they can get out of here.
-- Vukradin notices an entrance 20 feet above on the cliff wall and starts to climb, followed by Soma.
-- Vukradin notices there is an entrance 20 feet above next to the waterfall.
-- Vukradin starts to climb up the cliff.
-- Soma shrugs and follows Vukradin up.
-- Valphine and Brewbarry stand and watch.
-- The druid shouts asking if they are coming.
-- Soma looks at the Drow and sighs.
-- The Drow wants a rope.
-- Soma climbs down, takes a rope from the Drow, and climbs up again because the Drow wants one.
-- The druid climbs down, takes the rope from the Drow's hands, and climbs up again.
-- A gnome shouts in Gnomish, and Soma stares at him.
-- A gnome shouts in Gnomish, then a female voice challenges the party with 'Who goes there?'.
-- Another female voice shouts, 'Who goes there?'
-- The gnome asks if Vukradin is a shapechanger.
-- Vukradin answers no to being a shapechanger.
-- Soma asks if they would take these shapes if they were shapechangers.
-- Soma rolls her shoulders and mutters that she senses more senseless violence coming.
-- Vukradin asks if the standing orders to attack shape changers are intended to lead to attacking anyone.
-- The female gnome shouts 'Perhaps, but that’s what a shapechanger would say.'
-- The female gnome announces they've decided he's a Uthgardt Barbarian and not a shapeshifter.
-- The gnome guards decide Brewbarry is an Uthgardt Barbarian and not a shapeshifter.
-- The female gnome explains there used to be a standing order to attack Uthgardtians on sight, but since Brewbarry used to be one, and it's unclear if that order was renewed at the last meeting, they let him pass.
-- There used to be a standing order to attack Uthgardtians on sight as a result of events of the last few months, but its renewal is unclear.
-- The female gnome says since Brewbarry used to be an Uthgardtian, it's unclear whether the standing order to attack Uthgardtians stands, and they have decided to let the party pass.
-- The gnome guards decide to let the party pass due to bureaucratic uncertainty over standing orders.
-- Soma stares in disbelief at the gnomes' bureaucratic decision to let them pass.
-- Soma stares in disbelief and says 'Bureaucracy saved us.'
-- Vukradin tries a few notes, and the gnomes seem pleased, though Pog waves his hand to stop.
-- Vukradin tries a few notes, and the gnomes seem pleased.
-- Ulla asks Vukradin why they are here.
-- Vukradin explains that the mayor is looking for a magical device to help fight against the threat of the dragon.
-- Vukradin thanks the gnomes and marches towards the inventor’s workshop, crossing the bridge.
-- The northern turnstile spins counterclockwise, while the southern one spins clockwise.
-- Vukradin stares in disbelief and marches back to where Pog and Ulla were sitting.
-- Vukradin stares in disbelief at the death trap of spinning blades.
-- Ulla directs the party to go the long way north past the first passageway east, past a large room, then east out of the mountain, cross the river, climb the cliff wall to the sleeping chambers, and go south to the inventors' workshop.
-- Vukradin thanks Ulla and heads north.
-- The first large room has a rotating platform equipped with four heavy crossbows that reload automatically.
-- Vukradin disarms the rotating crossbow device instead of killing Facktore.
-- Vukradin is tempted to kill Facktore but decides that disarming the device is sufficient.
-- Facktore flees the scene of the battle after his device is disabled.
-- Facktore flees the scene of the battle.
-- Vukradin climbs down the cliff wall, wades through the river, stops on the island of mushrooms to pick a few more, and climbs the cliff wall again.
-- Once he’s climbed the walls, Vukradin enters a large cave strewn with remnants of old campfires, with four side caves serving as sleeping areas, each containing five small wooden cots.
-- Vukradin explains that they are there to look for help to fight a dragon, and the inventors brush him off.
-- The party visits the gnomes' inventor workshop to seek help against a dragon.
-- The gnomes Dabbledob and Fibblestib reject cleric magic, saying gnomes invent their way out of illness.
-- Soma tries to explain the value of cleric spells, but the gnomes shout louder.
-- Fibblestib and Dabbledob explain that gnomes Warren and Orrin went missing and King Korboz claims a shape-changing creature is responsible.
-- The inventors explain that King Korboz claims a shape-changing creature caused Warren and Orrin to go missing.
-- Two gnomes, Warren and Orrin, went missing.
-- Vukradin explains he would like to try music to cure King Korboz.
-- Vukradin is not interested in arriving at any new death traps and asks for the safest way to the throne room.
-- Vukradin notices how Dabbledob rolls her eyes at Fiddelstib's boasting.
-- King Korboz is in a state of hysterics, screaming, and shouts 'A shapeshifter!' when Vukradin arrives.
-- Vukradin declares they are on a diplomatic mission from Townmaster Harbin Wester to acquire a device to fight the dragon.
-- Vukradin mutters 'I am a musician' and laughs when Soma calls him more of a tour guide.
-- Vukradin laughs when Soma adds that he is more of a tour guide.
-- King Gnercli asks the party to deal with some kind of creature terrorizing the cave system.
-- King Gnercli offers a hat of wizardry and Vukradin agrees to the deal for 50 gold.
-- Soma reminds Vukradin that they get money for bringing something, not necessarily for bringing something helpful.
-- Vukradin accepts the king's deal for 50 gold and a hat of wizardry.
-- Vukradin agrees to the deal with King Gnercli.
-- The bard and his friends go through the room with the spinning blades, disabling the blades this time.
-- The party disables the spinning blades in the room before crossing the bridge.
-- The bard and his friends cross the bridge.
-- The party arrives where Pog and Ulla are sitting.
-- Ulla notices that Pug looked a little bit different the past few days.
-- Pug turns on Ulla, claiming she has looked different.
-- Pug and Ulla argue in front of the Drow, accusing each other of looking different.
-- Valphine follows the passage north and takes a right into a room full of barrels instead of going to the room where they found the rotating crossbow.
-- The first barrel transforms into a mimic with pseudopods reaching out and a mouth full of razor-sharp teeth.
-- A barrel in the room transforms into a mimic when Valphine points a crossbow at it.
-- The first barrel Valphine points her crossbow at transforms into a mimic.
-- Brewbarry charges at the mimic, striking with his Halberd.
-- Brewbarry's halberd strike wounds the mimic but the weapon is stuck in the creature's body.
-- Soma prepares to cast Ice Knife.
-- The mimic advances on Brewbarry and attacks with a pseudo-pod that misses.
-- The mimic attacks Brewbarry with a pseudopod that misses entirely.
-- The mimic's pseudo attack misses Brewbarry.
-- The bard unleashes invectives that cause the mimic to flinch visibly due to an underlying enchantment.
-- Valphine is confused by the bard's invectives at first but sees the underlying enchantment causing the mimic to flinch.
-- A male gnome guard shouts in Gnomish and a female gnome asks 'Who goes there?'
-- Brewbarry charges at the mimic, striking it with his Halberd, wounding it, but the weapon sticks in its body.
-- Brewbarry declares 'I am Brewbarry, killer of Ogres! I am no shapeshifter!'
-- Brewbarry declares himself killer of Ogres and no shapeshifter, and the gnomes decide he is a Uthgardt Barbarian and not a shapeshifter.
-- Dabbledob proposes building a sanity ray.
-- Fibblestib and Dabbledob argue over a sanity ray versus a straitjacket.
-- Fibblestib calls Dabbledob's straitjacket proposal a shirt with no holes for the hands.
-- Fiddelstib offers to build Vukradin a non-normal piano that will play music.
-- Fiddelstib offers to build a piano for the music cure, though it won't be a normal piano.
-- Fiddelstib says they don't have a piano but offers to build one, noting it won't be normal but will play music.
-- King Gnercli offers a hat of wizardry in exchange for dealing with the creature terrorizing the cave system.
-- Soma shouts to Vukradin that killing the fleeing ogre was senseless.
-- Soma stands under the waterfall, getting soaked, and behind it is nothing but a rock wall, which Vukradin taps, touches, and pokes without finding anything.
-- The gnome asks if Vukradin is a shapechanger, and after his denial and Soma's jest, the female gnome says that is what a shapechanger would say.
-- The gnome guards question whether the party are shapechangers and demand proof.
-- Valphine makes sure she is out of range of Soma's Ice Knife spell.
-- Valphine shouts that they found the creature when the barrel transforms into a mimic.
-- Vukradin answers that he is Vukradin, the Bard.
-- Vukradin asks for the safest way to the throne room, and explains the rotating blades and rotating crossbow assault system.
-- Vukradin calls the blade room a death trap and marches back to Pog and Ulla.
-- Vukradin discovers the turnstile blade devices in the workshop entry room and calls it a death trap.
-- Vukradin goes to the King's room, where King Korboz is hysterical.
-- Vukradin proposes trying music to cure King Korboz, and Dabbledob acknowledges music has helped in some circumstances.
-- Vukradin searches behind the waterfall for a secret treasure room but finds only a rock wall.
-- Vukradin taps at the rock, touches the rock, and pokes at the rock, but it is just rock.
+<!-- section: recent_events | inputs-sha: 377413e0f9f13ba4 -->
+## Recent Events (last 4 chapters — event spine window)
 
 ### Chapter 4
-- Vukradin taunts the grotesque creature before them.
-- The party battles a mimic creature.
-- Brewbarry struggles to pull his halberd free, the weapon stuck fast in some unseen impediment.
-- Soma's poison cloud dissipates harmlessly around the creature, leaving it unaffected.
-- The mimic misses its strike at Brewbarry, its attack sailing wide.
-- The mimic misses its strike at Brewbarry.
-- Vukradin attempts another incantation but the mimic remains unaffected, seemingly adapted to his magic.
-- Vukradin's 'utterly foolproof' incantation is unaffected by the mimic.
-- Soma mutters that unnatural magical creations have no place in the material world.
-- Vukradin asks Soma if she is a naturalist druid.
-- Soma says constructs and extra-planar creatures are abominations and disruptions to the natural order.
-- Vukradin and Soma debate whether Aasimar and Tieflings are natural.
-- Vukradin asks Soma about Aasimar and Tieflings.
-- Soma asks what Aasimar and Tieflings are, genuinely confused.
-- Vukradin asks Brewbarry if he has no ranged weapons.
-- Brewbarry, realizing he has no ranged weapons, thumps his head and pulls out a pair of gleaming handaxes from a hidden pouch.
-- Brewbarry pulls out a pair of gleaming handaxes from a hidden pouch.
-- Soma kills the mimic with a final, decisive strike.
-- Soma finishes off the unnatural creature with a final, decisive strike.
-- Soma searches the room with the chests and finds nothing the gnomes forgot.
-- Soma follows Vukradin to the inventors.
-- Soma hands the inventors the proof of the monster's death.
-- Fiddlestib and Dabblebob begin discussing what kind of construct they could create from the creature's entrails.
-- Soma follows Vukradin to the King's room where they are to receive their prize.
-- Vukradin attempts to negotiate with the two Kings.
-- Vukradin asks how the kings make decisions.
-- Vukradin asks what happens when the kings disagree, suggesting there is no decision.
-- King Gnercli explains that this is a dual monarchy and they argue until a decision is made.
-- King Gnercli says the best argument wins in their decision-making.
-- Vukradin asks who decided which argument is best.
-- King Korboz explains that they decide together which argument is best.
-- Gnercli explains the two-king system rejects despotic autocratic decision making by a single individual who could be rendered unfit by a shapeshifter.
-- King Gnercli says they have two kings because they do not believe in despotic autocratic decision making by a single individual who could be rendered unfit for leadership by a shapeshifter.
-- King Gnercli says they elect another king when a new one is needed.
-- Vukradin asks if a king for a decade would have to treat a new king as an equal and take orders from him.
-- Vukradin asks about the magical hat they were told about.
-- Vukradin cuts off the kings, asking about the magical hat they said was for them.
-- The two inventors are more interested in building a tamper-proof voting box, arguing over whether such a thing is possible.
-- Soma and Vukradin arrive in Phandalin and Soma leads him to the Townmaster.
-- The party arrives in Phandalin.
-- The Townmaster again insists Vukradin is a tasteless morsel for a dragon.
-- The fifty gold is split four ways as the sun sets.
-- The group splits fifty gold four ways.
-- The party receives fifty gold from the kings, split four ways.
-- Soma heads off to spend the night in the Stonehill Tavern.
-- Soma learns about a play in Triboar whose main actor always dressed in character as a Demon named Bob.
-- The Bard had heard of the Triboar play, which had a spectacular run several years ago, and had been trying for years to get the script.
-- The tavern keeper says Triboar is as good a place as any to find the script.
-- Vukradin says they should ask for more than 25 gold.
-- The group makes their way to Umbrage Hill to save Adabra.
-- The party makes their way to Umbrage Hill to save Adabra.
-- Bandits ambush the party on the way to Umbrage Hill.
-- Bandits are encountered on the trail and would have gotten the jump on the group if they had not made so much noise.
-- Bandits approach but would have gotten the jump on the group if not for the noise they made.
-- Soma transforms into a spider shape, thinking and feeling as herself while also wholly spider.
-- In spider form, Soma quickly climbs up and strikes her enemy.
-- A bandit strikes with a scimitar and misses Soma.
-- Through her many eyes, Soma sees the bandit strike with a scimitar and miss.
-- Brewbarry climbs a hill and decapitates a bandit with his halberd.
-- Brewbarry climbs up to a bandit on a hill and swings his halberd, slicing off the bandit's head, and the body falls toward him, covering him in blood.
-- Soma kills a bandit with her spider bite and poison.
-- A bandit bites someone's hand and releases poison from her glands, crushing his hand.
-- Soma's spider bite crushes the bandit's hand and releases poison, killing him.
-- The bandit dies.
-- One bandit takes out his crossbow, misses, and starts to run, afraid.
-- Soma, in spider form, strikes the fleeing bandit in the back with her hand-held crossbow, and a sprinting Vukradin kills him.
-- The Drow shoots the fleeing bandit in the back with a hand-held crossbow, and a sprinting Vukradin kills him.
-- Vukradin kills a fleeing bandit after Soma strikes him in the back.
-- Brewbarry, covered in blood, sprints to get next to the bandit who was afraid of spiders.
-- Brewbarry spares a bandit who was afraid of spiders.
-- The bandit reveals the Carver is his boss, though he has never met him and just worked with Jax.
-- Vukradin agrees to let the bandit join the group.
-- Soma picks up a scroll that contains a druidic spell.
-- Vukradin reminds Soma that the scroll should be returned to its rightful owner, and Soma realizes he has a point, questioning if she is any better than a bandit if she keeps it.
-- A bandit aims at Valphine and hits her.
-- A tavern patron tells Soma about a play in Triboar whose main actor was always dressed as a Demon with the ridiculous name Bob, and his performances were legendary.
-- Angry at Vukradin, Gnercli shouts 'Here! And go!' giving the hat.
-- Another bandit, seeing Soma's spider form, runs screaming 'Spiders!!!'.
-- Dabbledob says she prefers more kings so they could have a vote.
-- Fiddlestib tells Vukradin she favors a bicameral legislature with a unitary executive.
-- King Gnercli says there is no seniority between the kings.
-- King Gnercli, angry at Vukradin, gives them the hat and tells them to go.
-- King Korboz shouts that Gnercli didn't believe the shapeshifter existed.
-- King Korboz shouts that as the senior king he should have preferential treatment.
-- Korboz explains 'Together.'
-- Korboz shouts that shapeshifters didn't believe existed.
-- Soma shouts 'Let him go!' to Brewbarry, though realizes she is speaking like a spider and wonders what that sounds like.
-- Soma tells Vukradin about a play in Triboar, and he wants to do a revival.
-- Soma tells Vukradin there is no celestial touching here, and he is just another creature born into this world.
-- The Bard perks up upon hearing of the play, having tried for years to get its script, and shouts they should do a revival.
-- The Bard shouts 'Perhaps we can do a revival!'
-- The bandit asks to be with the group and Vukradin agrees.
-- The party receives the magical hat from the Kings.
-- Valphine catches a flicker of a shadow slipping behind a boulder but dismisses it.
-- Vukradin asks if having three kings would make decision-making more difficult.
-- Vukradin declares he is a poet and will take whatever poetic license he wants.
-- Vukradin declares they have it outnumbered and will kill it before it lays a hand on them.
-- Vukradin defines Aasimar as touched by Celestials and Tieflings by the Abyss.
-- Vukradin invites the bandit to join them at dinner and tell them about the Carver, and the bandit asks to be with them, with Vukradin agreeing.
-- Vukradin screams at the group to catch the bandit who attempted to hit Brewbarry, saying he's taking stolen treasure.
-- Vukradin shouts that they're going to die.
-- Vukradin suggests Dabbledob should be king.
-- Vukradin taunts the creature, declaring they have it outnumbered and will kill it before it touches them.
-- Vukradin tells Fiddlestib she should be king.
+- Vukradin goes first, walking uphill into the fog to parlay with the orcs.
+- The party can see maybe two orcs through the fog.
+- The orcs misinterpret Vukradin's approach, believing he recognizes their rights to the territory and is offering himself in sacrifice.
+- Vukradin remembers an orc who listened to his music in Neverwinter, which confuses him further.
+- An orc lifts a greataxe and attacks Vukradin, joining battle.
+- Vukradin's attempt to parlay with the orcs fails and the battle begins when the nearest orc lifts a greataxe.
+- The nearest orc lifts a greataxe and swings, but the axe passes beside Vukradin, missing him.
+- Vukradin remembers the warning that orc tribes are coming down from the north.
+- Soma's Thorn Whip catches an orc and drags him off his feet; he tumbles down the incline and lands hard at the bottom.
+- Another orc reaches Vukradin and the greataxe connects, folding Vukradin beneath it; he does not get up.
+- Vukradin is knocked down by an orc's greataxe and lies still, with his breath catching wrong.
+- Valphine speaks Healing Word, and warm light closes around Vukradin and pulls him upright.
+- Brewbarry's first halberd swing misses, but his second swing cuts through the orc's hide armor.
+- The narrator's first halberd swing misses, so he turns the haft and swings again, cutting through hide armor into the meat of an orc.
+- An orc throws a javelin instead of closing, and it strikes the narrator, bruising through his guard, which he mostly shrugs off.
+- An orc throws a javelin that strikes Brewbarry, bruising through his guard.
+- The greataxe comes back and Vukradin falls again.
+- Vukradin falls a second time after the greataxe comes back.
+- Soma kills the orc over Vukradin with Poison Spray; the warrior stiffens, chokes, and drops beside Vukradin.
+- Another greataxe hits Valphine; she staggers, her mace lowers, then rises again.
+- Brewbarry realizes his rage should have come sooner.
+- Soma raises her hand and casts Ice Knife at the guy in the back; the knife misses but explodes anyway, and cold shards strike both orcs, Valphine, and the narrator.
+- Soma's Ice Knife misses but explodes, striking both orcs, Valphine, and Brewbarry.
+- Valphine is knocked down by the shards of Soma's Ice Knife.
+- Valphine's legs are taken out by the cold shards and she goes down among the orcs she was trying to hold, with nothing bought by her fall.
+- Brewbarry's first blade stroke kills one orc and the second drives through the other orc's guard, killing both orcs.
+- The party receives two '9' damage hits, presumably 9 damage each, from the halberd strikes that kill the orcs.
+- Brewbarry kills the last two remaining orcs with two halberd strikes.
+- The narrator puts down the halberd and goes to Vukradin, while Soma goes to Valphine; they keep pressure on wounds until breathing steadies.
+- The party decides to take a long rest and considers returning to Phandalin.
+- Valphine searches the bodies of the dead orcs.
+- The battle axes found on the orc bodies go into the shared ledger under a new column for blood money.
+- Vukradin begins a song about the orcs slaughtering them.
+- The party returns to the excavation site and finds it quiet, with the dwarves nowhere near the entrance.
+- Dazlyn and Norbus emerge from hiding after the party returns.
+- Vukradin reflects that while they fought, the dwarves had a gem in their keeping and a decision attached to it that was not about them.
+- After confirming the party is not there for the gem, Dazlyn and Norbus lower their axes and lead them to a fire pit, acting as hosts.
+- Dazlyn and Norbus lower their axes after confirming the party is not after the gem.
+- Dazlyn and Norbus lead the party to a fire pit and serve them a meal.
+- Vukradin notes that hospitality offered after confirming guests do not intend to reclaim treasure still counts as hospitality.
+- Vukradin's breath frays during his elegy, causing the note to land without the force he intended.
+- The party rests beneath the excavation stone overnight and regains their strength by morning.
+- The party rests beneath the excavation stone, and by morning Vukradin's breath no longer feels borrowed.
+- The party takes a long rest beneath the excavation stone after the orc fight.
+- The party gathers their equipment and leaves for Phandalin.
+- The party gathers their equipment and leaves the excavation site for Phandalin.
+- Vukradin tries to harmonize with the ogre's whistle but the notes fail between them and the ogre stops whistling.
+- Vukradin tries to harmonize with the ogre's whistling, but the notes fail between the group and the next rise.
+- Valphine spots an ogre climbing the far side of the hill.
+- The group decides to free the ogre.
+- The group sees no bonds, no brand, and no one behind the ogre on the road.
+- Valphine lets go of determining whether the ogre is a surface or underground ogre since there is no telling them apart by looking.
+- Vukradin admits his attempt to harmonize with the ogre's whistle was not good.
+- The ogre lifts its club and says 'Me kill you. How dare you?'
+- Vukradin has the first opening and gives it away, saying he will attack and Valphine is up.
+- Valphine attacks the ogre with Sacred Flame, which does not stop it.
+- Valphine drops Sacred Flame onto the ogre, the fire washing over its hide without stopping it.
+- Valphine raises her holy symbol and drops Sacred Flame onto the ogre; the fire washes over it without stopping it.
+- Brewbarry is positioned in front because he is broad enough to make that a complete plan.
+- Brewbarry rages and charges, but his first swing misses; the ogre steps past him.
+- Brewbarry's halberd catches the ogre hard across the body.
+- The halberd catches the ogre hard across the body and nearly folds it.
+- The ogre clubs Brewbarry in return, but rage takes the weight out of the blow.
+- Soma moves closer, plants their feet, and casts Poison Spray, which hits the ogre across the chest.
+- Soma tried Thorn Whip, hoping to drag the ogre out of Brewbarry's reach and give him another strike.
+- Soma casts Thorn Whip to drag the ogre out of Brewbarry's reach, and the thorned vine catches and pulls the ogre across the grass.
+- Soma's Thorn Whip catches and pulls the ogre across the grass.
+- Brewbarry swings after the ogre is pulled but misses.
+- Valphine's Sacred Flame works, and the ogre drops into the grass.
+- The ogre is killed by Valphine's Sacred Flame.
+- Valphine's Sacred Flame kills the ogre.
+- The party searches the ogre's body and finds enchanted ammunition.
+- Valphine Sotorra acquires a hand crossbow before reaching the Townmaster's Hall.
+- The door to the Townmaster's Hall is locked when the party arrives.
+- The door to the Townmaster's Hall is locked.
+- Harbin Wester unbolts and opens the door after Vukradin's persuasion.
+- Soma and Vukradin state they came to collect their reward from Harbin Wester.
+- Harbin Wester pays the party after they tell the dwarves about the dragon.
+- Harbin Wester pays the party their reward, including Soma's 50 gold pieces.
+- Soma checks if Harbin paid her 50 gold pieces; the coins are already in the party's possession.
+- The party receives the coins.
+- Harbin Wester is afraid, not angry over grave robbers or adventurers, as shown by his tightened mouth, attention to the door and window, and pale knuckles.
+- Harbin Wester offers two new quests: rock gnomes at Gnomengarde and a midwife past the hills.
+- The party chooses the gnomes quest because it pays better.
+- The party chooses the gnome quest at Gnomengarde over the midwife quest.
+- The party decides to keep the sending stones because no one in Phandalin can purchase them.
+- The smith examines the orc weapons and offers half their value because they are damaged.
+- The hide armor fares better at the Lionshield Coster due to intact stitching.
+- Vukradin offers the party's services to Linene Graywind for a shipment.
+- Linene Graywind hears a rumor that strange magic pervades Neverwinter Wood, confounding navigators and obscuring ancient ruins.
+- Linene tells the party a rumor that strange magic pervades Neverwinter Wood, confounding navigators and obscuring ancient ruins.
+- The party decides to stay at the Stonehill Inn in Phandalin.
+- Toblen Stonehill greets the party with urgent hospitality.
+- Vukradin plays one of his own compositions on the clarinet at the Stonehill Inn.
+- Vukradin stays where he is and keeps playing after the final note fades, waving the rest of the party off to do the work.
+- A drow asking questions in the Stonehill Inn produces abundant posture and very little truth.
+- Brewbarry does not move and stays listening to the music.
+- No rumor about the dragon separates itself from the ordinary fear already circulating in the tavern.
+- The party pays for the room at the Stonehill Inn.
+- The party sets out on the road to Gnomengarde.
+- The narrator adjusts Meril's Staff against their shoulder on the bright route.
+- Vukradin reads the gnome job, noting gnomes are known for magical inventions that might help defeat the dragon, and the party just needs to trade with them.
+- An ogre stands in the road in the mountain pass, blocking the party's path.
+- The party offers to give the ogre food if it lets them walk past.
+- Vukradin tries to intimidate the ogre, but it fails, and the ogre seems encouraged.
+- The ogre declares 'I, eternal elf' after not being intimidated.
+- Vukradin claims he has killed other ogres like this one, and the party took out one of its brothers yesterday.
+- The ogre bellows after Vukradin claims to have killed other ogres.
+- The ogre's greataxe comes up and there is no more negotiation.
+- The party's negotiation with the ogre fails and combat begins.
+- The party prepares for combat with the second ogre, with Soma moving first.
+- 04.05 Soma considers using Mold Earth to cause a rockslide on the ogre but ultimately declines because the spell doesn't cause damage.
+- Soma considers making a rockslide onto the ogre by loosening dirt from above.
+- Vukradin reads the Mold Earth spell and notes it says the movement doesn't have enough force to cause damage.
+- Soma realizes the discussion about coppers has gone on while an ogre is trying to eat him.
+- The group discusses coppers and terminal velocity while an ogre is trying to eat Soma.
+- Soma realizes churning the ground would make it hard for Brewbarry to get in there.
+- 04.05 Soma casts Poison Spray at the ogre, striking it across the chest and causing it to cough and stagger.
+- Soma casts Poison Spray, which catches the ogre across the chest, making it cough and stagger.
+- Soma moves back because the ogre said turtle was sort of its favorite food.
+- 04.05 Soma moves back because the ogre said turtle was its favorite food.
+- Soma notices Vukradin moved to the front again despite earlier backing away.
+- A turn order is established in the ambush fight with the ogre.
+- Brewbarry takes the vanguard after Vukradin backs away from the front.
+- Vukradin backs away after saying he would be in the back.
+- Brewbarry takes the vanguard position.
+- The ogre swings at whoever is nearest, missing Valphine completely, and takes off one of its own toes.
+- The ogre's greataxe misses Valphine completely, bites into the stone, and takes off one of the ogre's own toes.
+- The ogre's greataxe takes off one of the ogre's own toes.
+- Soma agrees with Vukradin's observation about the ogre's missed swing being amazing.
+- Valphine climbs partway along the rough elevation, then abandons the mace.
+- Valphine abandons the mace because the terrain denies her reach and tries a hand crossbow.
+- Valphine's hand crossbow bolt strikes the ogre, knocking its legs out from under it and slamming its full weight into the pass.
+- Vukradin uses Command on the ogre, halting it so it can take no actions until the end of its next turn.
+- Vukradin casts Command and the ogre cannot rise, take actions, or move until the end of its next turn.
+- Brewbarry surges forward with rage settled into his shoulders and brings the halberd down on the trapped ogre with a solid crack.
+- Brewbarry's position at the top of the turn order is stated.
+- 04.05 Soma sends another Poison Spray burst into the ogre's face.
+- Soma sends another burst of Poison Spray into the ogre's face.
+- The Command loosens and the ogre draws breath and flexes its hands against the dirt, remaining prone and badly hurt.
+- Valphine has the next opening after the Command loosens.
+- Harbin pays the party for telling the dwarves about the dragon.
+- The narrator's halberd catches an orc mid-stride and he drops, and then the narrator attacks both orcs again, killing one with the first blade stroke and driving the second strike through the other orc's guard.
+- Valphine calls toward the hill and says 'Slave, you are—'
+- Valphine loads the walloping ammunition taken from the previous ogre and fires, striking the ogre and knocking its legs out from under it.
+- Valphine uses the walloping ammunition taken from the previous ogre, whose legs go out from under it.
+- Vukradin sends Starry Wisp across the hill and retreats beyond the ogre's reach.
+- Vukradin states that the party must trade with the gnomes and get whatever they can from them.
 
-<!-- section: tracking | inputs-sha: 9403e9b685c104af -->
+### Chapter 5
+- Valphine's mace attack on the ogre lands but does no damage.
+- A puff of acrid green gas surrounds the ogre, hurting and hampering it but not felling it.
+- The ogre stands and strikes Brewbarry with its axe, but the blow glances off his hardened skin due to the Uthgardt rage.
+- Valphine is surprised that the ogre's mighty blow does nothing to Brewbarry.
+- The ogre turns and runs away from the fight.
+- The ogre turns and runs, driven by primal self-preservation after its mighty blow fails.
+- Valphine shoots the fleeing ogre with a bolt from her handheld crossbow, wounding it but not stopping it.
+- Vukradin delivers the killing blow to the ogre after it fled the battle.
+- Vukradin kills the ogre, the killing blow, as Valphine watches it breathe its last.
+- The ogre dies from Vukradin's killing blow.
+- Valphine is surprised by Vukradin's calm, philosophical answer about killing the fleeing ogre.
+- Valphine finds a whistle, some coins, and a key on the ogre's body.
+- The journey to Gnomengarde is uneventful.
+- Vukradin wades into the pool and examines the mushrooms.
+- Vukradin wades through the water towards the mushrooms and Soma follows him closely.
+- Vukradin wades through the water towards the mushrooms.
+- Soma follows Vukradin closely.
+- Vukradin puts the mushrooms in his bag.
+- Vukradin says there is always a secret treasure room behind the waterfall and Soma follows him under the waterfall, getting soaked.
+- Soma stands under the waterfall with Vukradin, getting soaked, but behind it is only a rock wall.
+- Vukradin searches behind the waterfall for a secret treasure room, but finds only a rock wall.
+- Vukradin starts to climb up the cliff wall, and Soma follows him.
+- The Drow wants a rope, so the druid climbs down, takes the rope from the Drow's hands, and climbs up again.
+- Soma climbs down, takes the rope from Valphine's hands, and climbs up again.
+- Vukradin climbs down, takes a rope from the Drow's hands, and climbs back up so Soma can use it.
+- A gnome shouts in Gnomish and a female voice shouts 'Who goes there?'
+- The gnome guards question the party, suspecting they may be shapechangers.
+- The gnome asks Vukradin if he is a shapechanger and if he can prove it.
+- The female gnome says 'That's what a shapechanger would say!'
+- Vukradin challenges the gnomes that their standing orders only attack shapechangers, and their interpretation would lead to attacking anyone, asking if that is the intent.
+- The male and female gnomes talk, and the female gnome announces they have decided he is a Uthgardt Barbarian and not a shapeshifter.
+- The female gnome announces they've decided Brewbarry is an Uthgardt Barbarian and not a shapeshifter.
+- The gnome guards decide to let Brewbarry pass because it is unclear whether the standing order to attack Uthgardt on sight was renewed at their last meeting.
+- Soma stares in disbelief that bureaucracy saved them.
+- Vukradin tries a few notes on his instrument, and the gnomes seem pleased.
+- Pog waves his hand to stop Vukradin and asks why they are here.
+- Vukradin explains that the mayor is looking for a magical device to help fight the dragon threat.
+- Vukradin thanks the gnomes, crosses the bridge, and enters a room lightly obscured by waterfall mist.
+- Vukradin crosses the hanging bridge towards the inventor's workshop.
+- Vukradin stares in disbelief and marches back to Pog and Ulla.
+- Vukradin declares 'That was a death trap!'
+- Vukradin thanks Ulla and heads north.
+- Vukradin decides to disable the crossbow device rather than kill Facktore.
+- Vukradin disarms the rotating crossbow device instead of killing Facktore.
+- Facktore flees the scene of the battle.
+- Vukradin climbs down the cliff wall, wades through the river, stops on the island of mushrooms to pick more, and climbs the cliff wall again.
+- Vukradin explains they are there to look for help to fight a dragon, and the inventors brush him off.
+- Fibblestib proposes building a sanity ray to cure King Korboz's madness.
+- The gnome inventors reject Valphine's offer of clerical healing, saying 'We are gnomes, we invent our way out of illness.'
+- The gnomes say they invent their way out of illness, not use clerics.
+- Fibblestib says the inventors will walk the party through what happened so they can revisit salient facts and the party may see something they missed.
+- Fibblestib and Dabbledob explain that two gnomes, Warren and Orrin, went missing and King Korboz claims it was a shape-changing creature.
+- Vukradin explains he would like to try music to cure the king.
+- Vukradin proposes trying music to cure King Korboz's madness.
+- Vukradin wants to talk to the king and asks for the safest route to the throne room.
+- Vukradin asks for the safest way to the throne room, not interested in new death traps.
+- Vukradin asks for the safest way to the throne room.
+- Vukradin explains what happened with the rotating blades and the rotating crossbow assault system.
+- Vukradin notices Dabbledob rolling her eyes.
+- Vukradin is on a diplomatic mission from Townmaster Harbin Wester to acquire a device to fight the dragon.
+- Vukradin ponders the distasteful nature of the deal before accepting it.
+- Vukradin agrees to the deal to deal with the shapeshifter for 50 gold and the hat of wizardry.
+- Vukradin counts 50 gold in his head before accepting the deal.
+- Vukradin agrees to hunt the creature terrorizing the cave system for King Gnercli.
+- The bard and his friends go through the room with spinning blades, disabling the blades this time.
+- The bard and his friends disable the spinning blades before crossing the bridge.
+- The party crosses the bridge after the blades room.
+- Valphine stares at the two gnomes, convinced they must be the shapeshifters.
+- Valphine follows the passage north from the two gnomes.
+- Valphine takes a right into a room full of barrels instead of the room with the rotating crossbow.
+- The barrel Valphine points her crossbow at immediately transforms into a mimic.
+- The first barrel transforms into a mimic when Valphine points a crossbow at it.
+- Brewbarry charges at the mimic, striking with his Halberd.
+- Valphine makes sure she is out of range of Soma's clumsy spell.
+- Valphine sees Soma prepare to cast Ice Knife and makes sure she is out of range of the spell.
+- The mimic advances on Brewbarry and attacks with a pseudopod that misses entirely.
+- The bard unleashes invectives causing the mimic to flinch from an underlying enchantment.
+- Valphine repeats a rhyme she remembers from her youth.
+- Brewbarry's halberd attack on the ogre misses and strikes the rocky ground.
+- Fiddelstib offers to build a piano that is not normal but will play music.
+- Soma shouts at Vukradin that killing the fleeing ogre was senseless.
+- The mimic is wounded by Brewbarry's halberd, but the weapon gets stuck in its body.
+- The ogre stands and attacks Brewbarry with its axe.
+- Ulla and Pug argue about which of them looked different over the past few days.
+- Valphine shouts that they found the creature after the barrel transforms.
+- Vukradin agrees to the deal for 50 gold.
+- Vukradin and his friends disable the spinning blades and cross the bridge to where Pog and Ulla are sitting.
+- Vukradin answers the gnomes, introducing himself as 'Vukradin, the Bard!'.
+- Vukradin shouts that they should go find the secret treasure room behind the waterfall and announces there is always one.
+- Vukradin suggests foraging as many green mushrooms as possible.
+- Vukradin taps at, touches, and pokes the rock behind the waterfall, but it is just rock.
+
+### Chapter 6
+- Brewbarry struggles to pull his halberd free, the weapon stuck fast in an unseen impediment.
+- Brewbarry's halberd becomes stuck in an unseen impediment during the battle with the mimic.
+- Soma's poison puff dissipates harmlessly around the creature, leaving it unaffected.
+- Soma's poison puff fails to affect the mimic.
+- The nimble mimic misses its strike at Brewbarry, its attack sailing wide.
+- The mimic misses its strike at Brewbarry.
+- Vukradin attempts a spell, but the mimic remains utterly unaffected, seemingly adapted to his magic.
+- Soma mutters that unnatural magical creations have no place in the material world.
+- Soma states that constructs and extra-planar creatures are abominations and disruptions to the natural order.
+- Vukradin is flustered when Soma questions what Aasimar and Tieflings are.
+- Brewbarry realizes his oversight of not having ranged weapons.
+- Brewbarry pulls out a pair of gleaming handaxes from a hidden pouch.
+- Soma finishes off the mimic with a decisive strike.
+- Soma finishes off the creature with a final, decisive strike.
+- Soma kills the unnatural creature (the mimic).
+- Soma states she is not opposed to taking gold of questionable provenance.
+- Vukradin explains the sending stones can only be used for a single short message, not as part of his music.
+- Soma remembered a bird that sang a single note all season and wondered whether to tell Vukradin about it.
+- Soma remembered that she hadn't been paid and decided not to tell Vukradin about the bird.
+- Soma scours the room with the chests and finds nothing the gnomes forgot.
+- Soma hands Fiddlestib and Dabblebob the proof of the monster's death.
+- Soma hands over proof of the monster's death to Fiddlestib and Dabblebob.
+- Fiddlestib and Dabblebob begin discussing creating a construct from the creature's entrails.
+- Soma thinks that the abominations that walk the north came from inventors with no concern for the natural world.
+- Soma kept her mouth shut about her views on the inventors.
+- Soma follows Vukradin to the King's room to receive their prize.
+- King Korboz complains that King Gnercli doesn't listen to him or believe a word he says.
+- Gnercli explains this is a dual monarchy, not a single monarchy, where they argue until a decision is made.
+- Korboz asks whether three kings would make ruling more difficult.
+- Korboz shouts at Gnercli over the shapeshifter claim.
+- Gnercli says the duergar elect another king when a new one is needed.
+- Vukradin posits someone being king for a decade before a new king joins as an equal.
+- Korboz shouts that as senior king he should receive preferential treatment.
+- Valphine believes the two kings will be at each other's throats for months if not years.
+- Vukradin asks about a magical hat promised for them.
+- Angry, Gnercli shouts at Vukradin to take the hat and go.
+- Vukradin suggests Fiddlestib should be king.
+- The two inventors argue over whether building a tamper-proof voting box is possible.
+- Soma arrives in Phandalin and leads Vukradin to the Townmaster, who again insists he is a tasteless morsel for a dragon.
+- Soma leads Vukradin to Phandalin and speaks to the Townmaster.
+- The group splits fifty gold four ways as the sun sets.
+- The party splits fifty gold four ways.
+- With fifty gold split four ways, Soma heads off to spend the night in the Stonehill Tavern as the sun sets.
+- Soma heads to spend the night in the Stonehill Tavern.
+- The Bard shouts that perhaps they can do a revival of the play.
+- Valphine was annoyed at risking her life for a mere 25 gold.
+- Vukradin argues they should ask for more than 25 gold for saving a woman's life.
+- Valphine's interest was piqued when Vukradin suggested asking for more than 25 gold.
+- Valphine rolled her eyes, thinking Vukradin could solve his problems by taking gold from monsters.
+- Valphine stared in disbelief at the Tortle.
+- The group makes their way to Umbrage Hill to save Adabra.
+- The narrator walks along a narrow trail through rocky hills toward Umbrage Hill as the light fades.
+- The narrator catches a shadow slipping behind a boulder but dismisses it.
+- Valphine catches a flicker of a shadow slipping behind a boulder but dismisses it.
+- Valphine dismissed a shadow slipping behind a boulder, telling herself she is not in the Dark Realms.
+- The group is confronted by bandits who would have ambushed them if not for the noise they made.
+- Bandits would have gotten the jump on the group if they had not made so much noise.
+- Vukradin shouts that they are going to die.
+- Soma becomes shaped like a spider, a new power that lets her think and feel as herself while also being wholly spider.
+- Soma shapeshifts into a spider.
+- Soma climbs up and strikes an enemy while shaped like a spider.
+- With spider-like ease, Soma quickly climbs up and strikes her enemy.
+- A bandit strikes with a scimitar and misses Soma.
+- A bandit aims at Valphine and hits her.
+- Brewbarry climbs up and swings his halberd, beheading a bandit on a hill, covering himself in blood.
+- A bandit's head flies off when Brewbarry swings his halberd.
+- Soma thought Vukradin was in shock, noting that they are so young.
+- A bandit's bite crushes Brewbarry's hand and injects poison.
+- Soma's bite releases and crushes the bandit's hand, and the poison leaves her glands.
+- Soma, in spider form, releases her bite, crushing the bandit's hand and delivering poison that kills him.
+- The bandit who bit Brewbarry dies.
+- One bandit takes out his crossbow, misses, and starts to run, afraid.
+- One of the bandits takes out his crossbow, misses, and starts to run.
+- The party is attacked by bandits; several are killed, one flees and is killed, and one surrenders.
+- The Drow reaches casually with her hand-held crossbow and strikes the fleeing bandit in the back.
+- The Drow strikes the fleeing bandit with her hand-held crossbow and Vukradin kills him.
+- Soma realizes she is speaking like a Spider and wonders what that sounds like.
+- Brewbarry tells a surrendering bandit to join the party at dinner to learn about the Carver.
+- Soma picks up a scroll containing a druidic spell.
+- Soma realizes Vukradin has a point about returning the scroll to its rightful owner.
+- Soma wonders whether she is any better than a bandit if she keeps the scroll.
+- Another bandit, seeing Soma's spider form, runs screaming 'Spiders!!!!'
+- Another bandit, seeing the narrator's spider form, runs screaming 'Spiders!!!!'.
+- Brewbarry climbs the hill toward a bandit and swings his halberd, decapitating him.
+- Brewbarry, covered in blood, sprints toward the spider-fearing bandit, and the narrator shouts 'Let him go!'.
+- Gnercli says the best argument wins in their decision-making.
+- Soma asks what Aasimar and Tieflings are, showing genuine ignorance.
+- Soma learns about a play in Triboar whose main actor was always dressed in character as a Demon with the ridiculous name Bob.
+- The fleeing bandit with stolen treasure took off, then was shot in the back.
+- The party battles a stunned mimic in Vukradin 01-02-Taraskh 1495.
+- The play in Triboar starred an actor always dressed as a Demon named Bob, and had a spectacular run several years ago.
+- The spider-fearing bandit asks to be with the party and Vukradin says 'Of course.'
+- Vukradin declares he is a poet and can take whatever poetic license he wants.
+- Vukradin screams to catch a fleeing bandit taking stolen treasure, and Valphine strikes him with a hand-held crossbow, after which a sprinting Vukradin kills him.
+- Vukradin taunts the grotesque creature, declaring they outnumber it and will kill it before it touches them.
+- Vukradin's spell fails to affect the mimic.
+
+### Chapter 7
+- Vukradin knows about the armor from Corbin's facial expression.
+- Vukradin knows Corbin took the armor from a dead man, and the bard is outraged at this act of treachery and thievery.
+- Corbin says he had no choice in wearing the armor.
+- Vukradin notices the sweat on Corbin's face and stares impassively.
+- Vukradin commands Corbin to take off his armor because as camp caretaker no armor is required.
+- Vukradin hires Corbin to take care of the camp, and tells him no armor is required.
+- Corbin asks Brewbarry if he can keep his armor.
+- Vukradin inwardly sniggers as Brewbarry wears no armor.
+- Vukradin is upset by the despair on the bandit's eyes and relents.
+- Corbin asks to keep his armor, and Vukradin relents, saying they need to get him proper fair trade armor.
+- Vukradin relents and lets Corbin keep his armor until proper fair trade armor is obtained.
+- Corbin is relieved and sighs, saying he will wear the armor to protect himself.
+- Corbin sees Soma the spider and freaks out.
+- Corbin sees the spider and freaks out.
+- Soma reverts from spider form back to tortle form.
+- Soma tells Corbin it is true he is a tortle and asks why Corbin needs armor.
+- Soma thinks it's strange that this human race has dominated so much of Faerun.
+- Valphine wonders what to do in the overbright when people are being attacked by monsters.
+- Soma knows where the conversation with Valphine is going.
+- Vukradin suggests killing the manticore, returning to Phandalin to demand more money, then coming back to bring the woman to the village.
+- Soma rolls her eyes at Vukradin's proposal to kill the manticore and demand more money.
+- Soma proposes they just kill the manticore and save the woman.
+- The group begins to climb up the hill quietly to avoid drawing attention.
+- The party climbs the hill quietly to avoid drawing attention to approach the manticore.
+- Soma wants to laugh at Corbin's question but knows it would be too loud.
+- Vukradin refuses to leave his musical instrument.
+- Soma sees Corbin as a lost little child whom she has to help.
+- Soma offers to cast mending to help Vukradin.
+- The manticore perks its head at the group and can see them all.
+- The manticore sees the party and perks its head at them.
+- Soma misses her chance to talk to the manticore.
+- Valphine wonders how Vukradin's kind even exists.
+- Valphine puts a bolt in her hand crossbow and shoots the manticore, but it is unaffected.
+- Vukradin offers to pay the manticore.
+- The manticore fires a volley of tail spikes at Valphine, hitting her.
+- The manticore says its attack will motivate them to find more money.
+- Vukradin shouts a command and casts a spell, but it doesn't work against the manticore.
+- Vukradin shouts a command, but the spell doesn't work.
+- Valphine thinks the creature's offer was a fair trade back in a different life.
+- The manticore offers to leave the group and the woman alone if they give him the human, preferring human meat.
+- Soma wonders what the manticore will do with the familiar she conjured.
+- Soma casts a spell conjuring a familiar which she orders to fly into the manticore's mouth; the creature snaps its jaws shut.
+- Soma is charging at the manticore.
+- Valphine knows Soma's look is that of a mother who won't let someone touch her clan.
+- Valphine advances toward the manticore.
+- Brewbarry throws hand axes at the manticore, one hitting its wings, and the manticore rends Brewbarry with its claws while Brewbarry strikes it with his halberd.
+- The manticore flies and rends Brewbarry with its claws.
+- Brewbarry strikes the manticore with his halberd as it flies in.
+- A frantic voice from the first floor of the windmill asks the party to do something.
+- Soma tells the captive woman to stay calm and suggests she run out while the manticore is distracted.
+- Valphine observes Vukradin wondering what to do, knowing that gambler look.
+- Soma looks hurt and asks how she can make it up to Vukradin.
+- Valphine stares at Soma, who looks visibly hurt.
+- Brewbarry climbs to the second floor and hits the manticore twice, and his rage protects him from its claws.
+- Brewbarry climbs to the second floor where the manticore is hiding and hits it twice.
+- Brewbarry's rage protects him from the worst of the manticore's claws.
+- Valphine wonders where the manticore is flying away to and sees Corbin.
+- The manticore decides to eat Corbin, flying toward him in the distance.
+- Vukradin and Soma strike the manticore with their spells.
+- Valphine is frustrated, staring in disbelief at her crossbow after missing again.
+- Brewbarry kills the manticore.
+- Vukradin cuts off the manticore's head and marches to the windmill with it.
+- Vukradin asks Adabra if she is safe, and Soma tells her 'It's safe now.'
+- Vukradin is confused that Adabra didn't guess they had won from the thump.
+- Adabra has been under siege by the manticore only a short time.
+- Vukradin tries to get Adabra to come with them, but she refuses.
+- Soma mutters that Adabra's potion sounds like a bath water potion.
+- Adabra insists on staying at the windmill to craft her potions.
+- Adabra's aura and sense of being change after Soma answers 'Naturalist.'
+- The woman's aura and sense of being change after Soma answers naturalist.
+- Vukradin tries to convince Adabra to come with the party, saying it would be safer for the villagers not to hike out in the open with a white dragon flying about.
+- Adabra decides to stay at the windmill, 'safely protected by you [the party].'
+- Soma isn't sure if Adabra is mocking them or being earnest.
+- Vukradin plays a tune for Adabra, and it is a good tune.
+- Soma tells Vukradin that Brewbarry really loves his music.
+- Soma stares at Vukradin aghast, thinking he is a naive child needing protection.
+- Adabra gives the party a note addressed to Townmaster Harbin, thanking him and asking him to reward the heroes, plus a description of how to take some medicine.
+- Brewbarry asks if the party can spend the night at the windmill.
+- Vukradin interrogates Corbin, asking if he robbed Adabra, even though Adabra insists no one has ever robbed her.
+- Corbin reveals he woke up with nothing but the clothes on his back after his family was killed, then joined a crew in the forest.
+- Vukradin has tasked Corbin with helping Adabra.
+- Vukradin asks Adabra if she stole the house, saying the party has encountered a lot of people taking things they think they are entitled to.
+- Soma mutters that the manticore thought Adabra was just meat.
+- Soma looks deflated and grouses 'Whatever' in response to Adabra's comment about her training.
+- Adabra makes a meal of hearty, fresh-baked bread, a vegetable and herb stew made with local fungi, foraged vegetables, berries, and wild greens.
+- Soma was annoyed with Adabra for criticizing her training.
+- Soma recalls that it was Meril's prompting that led her to follow Vukradin.
+- Meril's prompting led Soma to follow Vukradin.
+- Soma was reminded of gaps in her training and was upset by it.
+- Corbin recounts that the breaking of the Ordning caused chaos and emboldened the giants.
+- The Ordning, which structured the giants' world, broke, and chaos swept across the North.
+- Corbin remembers the Uthgardt barbarians of the Black Lion tribe descended on Greenmeadow in destructive raid.
+- The Uthgardt barbarians of the Black Lion tribe descended on Greenmeadow, destroying rather than raiding for supplies.
+- Corbin fought with a wood-axe and farmer's grit but it was not enough.
+- Corbin watched his fields burn, his home collapse into embers, and his family fall.
+- Corbin watched his fields burn, his home collapse, and his family fall during the Black Lion raid.
+- Corbin survived because he was knocked unconscious by a charging barbarian's shield and left for dead in a ditch, buried under the body of his neighbor.
+- Corbin awoke to silence and ash, with nothing left but the clothes on his back and a soul cleaned of hope.
+- The narrator awakens to silence and ash, with nothing but the clothes on their back.
+- Corbin drifted south for months, a ghost haunting the roads, taking what he could to survive.
+- The narrator drifts south for months, surviving by petty theft.
+- With nothing left, Corbin drifted south for months, taking what he could to survive.
+- Corbin drifted south for months, taking what he could to survive, and each petty crime chipped away at the man he had been.
+- Soma thinks about Corbin's story of seeing death and horrors and meeting Meril.
+- The narrator meets Meril during their journey.
+- Soma thinks and then sleeps after hearing Corbin's tale.
+- Soma is woken up by Adabra in the morning with bread on the table.
+- The narrator is woken up by Adabra in the morning.
+- Adabra tells the narrator they have to go get their reward.
+- Soma tells Adabra that she was the real reward.
+- The narrator tells Adabra she was the real reward.
+- Vukradin mutters that he doesn't think they will get their reward.
+- Adabra offers to give the bard a piece of her mind if he doesn't pay.
+- The narrator explains that the bard will only take money from few sources and is desperate.
+- Soma notices Vukradin feigns a tear, thinking the boy can act.
+- Vukradin feigns a tear when saying he will never get his studio.
+- Soma tells Adabra she is a naturalist, causing a change in Adabra's demeanor.
+- Adabra exclaims that Soma being a naturalist is a wonderful change from the slaughtering interventionists and says she will come and support her.
+- Soma looks at Brewbarry, who seems hurt, when she mentions the word barbarian.
+- Soma takes an opportunity to take Adabra down a peg by joking about not using the B word in front of Brewbarry.
+- Brewbarry is uncomfortable and tries to insist that he is a barbarian.
+- Soma notices Vukradin has the look of a child unsure about getting his favorite food when he asks about Adabra coming with them.
+- Vukradin asks Adabra if she was going to come with them, in a tone of hopeful uncertainty.
+- A woman's voice from the building calls out for help.
+- Adabra brings out a vial and announces it is her special potion of healing with extra scent and taste.
+- Adabra exclaims that Vukradin's music is blessed and that Aasimars are truly touched by the Celestial planes.
+- Adabra says she will come with them because they are fellow naturalists.
+- Corbin asks Vukradin why he doesn't leave his musical instrument behind so it won't get damaged.
+- Soma suggests the woman could run out while the manticore is distracted.
+- The manticore attacks Brewbarry, whose rage protects him from the worst of its claws.
+- The manticore speaks, saying 'That hurt' and 'I am just trying to get a tasty meal!'
+- Valphine offers to teach Adabra about Lathander.
+- Vukradin says he doesn't know if he can ever trust Soma.
+- Vukradin tells the woman she can come out now.
+
+<!-- section: tracking | inputs-sha: 8f42f6ceac1a63ec -->
 ## Module Tracking (completion audit — LLM-proposed, verify line by line)
 
+I'll audit each tracking list against the event spine. The spine covers the Dragon of Icespire Peak starting quests (Chapters 1-7) — party is in the early Phandalin content, nothing near the Leilon/Neverwinter/Divine Contention arcs.
+
 ## tracking-devine-contention
-**9 done, 10 partial, 53 not seen of 72**
+**0 done, 0 partial, 116 not seen of 116**
 
 ### Main Quests (0/6)
 - [NOT SEEN] Gulch Quest — obtain Gnomengarde grenade
@@ -287,8 +504,8 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Leveling up — after Leilon Besieged quest completed
 - [NOT SEEN] Leveling up — after both follow-up quests completed
 
-### Locations (1/9)
-- [PARTIAL ch3] Dumathoin's Gulch — gnome handoff / undead ambush — Gnomengarde visited but no gulch handoff or undead ambush; gnome encounter happened at Gnomengarde itself
+### Locations (0/10)
+- [NOT SEEN] Dumathoin's Gulch — gnome handoff / undead ambush
 - [NOT SEEN] House of Thalivar (Thalivar's Beacon) — planar beacon encounter
 - [NOT SEEN] Ethereal Spire — ruinstone location on Border Ethereal
 - [NOT SEEN] Icingdeath — drow warship encounter
@@ -296,12 +513,11 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Castle Never — audience with Dagult Neverember
 - [NOT SEEN] Ebondeath's Mausoleum / Uthtower — cult headquarters in Mere of Dead Men
 - [NOT SEEN] Death Knight Dreadnaught — Storm Lord's Hideout
-- [DONE ch3] Gnomengarde — visited by the party
 
-### NPC Events — First Contact / Alliance / Betrayal / Death (7/15)
+### NPC Events — First Contact / Alliance / Betrayal / Death (0/32)
 - [NOT SEEN] Bindlemint Mincemower — encounter on road to Dumathoin's Gulch
-- [DONE ch3] Fibblestib Pinebark — first contact at Dumathoin's Gulch (unconscious on arch) — Fibblestib met at Gnomengarde inventor workshop, arguing with Dabbledob
-- [DONE ch3] Dabbledob Plasterpatch — first contact at Dumathoin's Gulch (frozen by moonstone) — Dabbledob met at Gnomengarde inventor workshop
+- [NOT SEEN] Fibblestib Pinebark — first contact at Dumathoin's Gulch (unconscious on arch)
+- [NOT SEEN] Dabbledob Plasterpatch — first contact at Dumathoin's Gulch (frozen by moonstone)
 - [NOT SEEN] Sister Silvergranite (eidolon) — awakening at Dumathoin's Gulch
 - [NOT SEEN] Captain Xalti Tezzan — first contact aboard Icingdeath
 - [NOT SEEN] Captain Deloz Montiv — first contact aboard Twinkle
@@ -309,7 +525,7 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Lord Dagult Neverember — audience at Castle Never
 - [NOT SEEN] Galas Windrage — encounter during return voyage
 - [NOT SEEN] Gallio Elibro — first contact at House of Thalivar
-- [NOT SEEN] Gallio Elibro — betrayal / hidden agenda revealed (ruinstone seizure attempt)
+- [NOT SEEN] Gallio Elibro — betrayal / hidden agenda revealed
 - [NOT SEEN] Gallio Elibro — resignation after ruinstone incident
 - [NOT SEEN] Swords of Leilon ghosts (Augusta Krul, Ogri Ninebeards) — appearance at Ethereal Spire
 - [NOT SEEN] Aubrey Silverspun — revelation as Swords of Leilon member
@@ -326,37 +542,37 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Emberlost (death knight soul) — first contact aboard dreadnaught
 - [NOT SEEN] Talos — divine manifestation at Storm Lord's Hideout
 
-### Major Plot Beats / Reveals (0/9)
+### Major Plot Beats / Reveals (0/10)
 - [NOT SEEN] Ruinstone — location revealed in Ethereal Spire
 - [NOT SEEN] Ruinstone — Gallio's secret orders from the Many-Starred Cloak revealed
 - [NOT SEEN] Ruinstone — soul-binding offer from Swords of Leilon ghosts
 - [NOT SEEN] Ruinstone — claimed or not claimed by Ebondeath during Leilon Besieged
 - [NOT SEEN] Ebondeath — possessing Claugiyliamatar revealed
-- [NOT SEEN] Chardansearavitriol / Ebondeath — background reveal (dracolich history)
+- [NOT SEEN] Chardansearavitriol / Ebondeath — background reveal
 - [NOT SEEN] Drow identity — figurehead illusion discovered
-- [NOT SEEN] Battle of Leilon — victory result determined (Crushing Defeat through Decisive Victory)
+- [NOT SEEN] Battle of Leilon — victory result determined
 - [NOT SEEN] Dreadnaught — Talos destroys his own cult's ship
 - [NOT SEEN] Swords of Leilon — identity of Aubrey revealed as third Sword
 
-### Battle of Leilon — Battlefield Events (1/15)
-- [NOT SEEN] Event 1 — Dawn of the Dead (south gate ghoul assault)
-- [NOT SEEN] Event 2 — The Storm Breaks (choice: north gate or quayside)
-- [NOT SEEN] Event 3 — Against the Lightning (north gate anchorite assault)
-- [NOT SEEN] Event 4 — Back to the Mud (quayside zombie assault / Valdi Estapaar rescue)
-- [NOT SEEN] Event 5 — Streets of Rage (rally Sergeant Yorrum's troops)
-- [NOT SEEN] Event 6 — Rolling Thunder (choice: thunder drums or town square)
-- [NOT SEEN] Event 7 — Enter the Dragon (Claugiyliamatar attacks town square)
-- [NOT SEEN] Event 8 — Thunder Drums (wereboar drummers encounter)
-- [NOT SEEN] Event 9 — Eye of the Storm (choice: Fheralai or dragon at tower)
-- [NOT SEEN] Event 10 — Champion of Storms (Fheralai Stormsworn encounter)
-- [NOT SEEN] Event 11 — Exodus (townsfolk retreat encounter)
-- [NOT SEEN] Event 12 — Last Stand (rearguard defense encounter)
-- [NOT SEEN] Event 13 — Ghost Tower (dragon at House of Thalivar / Swords of Leilon appear)
-- [NOT SEEN] Event 14 — Old Gnawbone (Claugiyliamatar cornered / Ebondeath flees)
-- [NOT SEEN] Event 15 — Divine Contention (Ularan Mortus hilltop encounter)
+### Battle of Leilon — Battlefield Events (0/15)
+- [NOT SEEN] Event 1 — Dawn of the Dead
+- [NOT SEEN] Event 2 — The Storm Breaks
+- [NOT SEEN] Event 3 — Against the Lightning
+- [NOT SEEN] Event 4 — Back to the Mud
+- [NOT SEEN] Event 5 — Streets of Rage
+- [NOT SEEN] Event 6 — Rolling Thunder
+- [NOT SEEN] Event 7 — Enter the Dragon
+- [NOT SEEN] Event 8 — Thunder Drums
+- [NOT SEEN] Event 9 — Eye of the Storm
+- [NOT SEEN] Event 10 — Champion of Storms
+- [NOT SEEN] Event 11 — Exodus
+- [NOT SEEN] Event 12 — Last Stand
+- [NOT SEEN] Event 13 — Ghost Tower
+- [NOT SEEN] Event 14 — Old Gnawbone
+- [NOT SEEN] Event 15 — Divine Contention
 
 ## tracking-sleeping-dragons-wake
-**0 done, 0 partial, 51 not seen of 51**
+**0 done, 0 partial, 78 not seen of 78**
 
 ### Main Quests (0/5)
 - [NOT SEEN] Death Knight-Dreadnaught Quest — quest board posting
@@ -373,7 +589,7 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Claugiyliamatar — negotiation encounter
 - [NOT SEEN] Claugiyliamatar — agreement to spare Leilon
 
-### Locations (0/7)
+### Locations (0/9)
 - [NOT SEEN] Bronze Shrine — dungeon exploration
 - [NOT SEEN] Claugiyliamatar's Lair — dungeon exploration
 - [NOT SEEN] Death Knight-Dreadnaught — dungeon exploration
@@ -384,10 +600,10 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Leilon Point — sahuagin raid investigation
 - [NOT SEEN] Mere of Dead Men — zombie escape encounter
 
-### NPC Events — First Contact / Alliance (0/13)
+### NPC Events — First Contact / Alliance (0/16)
 - [NOT SEEN] Lhammaruntosz — first contact at Bronze Shrine
-- [NOT SEEN] Lhammaruntosz — madness encounter (alkilith present)
-- [NOT SEEN] Lhammaruntosz — cure of madness (alkilith destroyed or greater restoration)
+- [NOT SEEN] Lhammaruntosz — madness encounter
+- [NOT SEEN] Lhammaruntosz — cure of madness
 - [NOT SEEN] Lhammaruntosz — Bahamut vision received
 - [NOT SEEN] Claugiyliamatar — first contact in lair
 - [NOT SEEN] Claugiyliamatar — gossip/rumor exchange encounter
@@ -401,7 +617,7 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Telna Urkil (ghost) — first contact in Bronze Shrine tombs
 - [NOT SEEN] Marciano Belta — first contact at Leilon Point
 
-### NPC Events — Death / Defeat / Betrayal (0/8)
+### NPC Events — Death / Defeat / Betrayal (0/9)
 - [NOT SEEN] Lhammaruntosz — alkilith destroyed
 - [NOT SEEN] Fheralai Stormsworn — defeat or capture
 - [NOT SEEN] Fheralai Stormsworn — retreat from dreadnaught
@@ -416,7 +632,7 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Necromancer's journal — discovery in dreadnaught captain's cabin
 - [NOT SEEN] Bahamut vision — Claugiyliamatar threat to Leilon revealed
 - [NOT SEEN] Ebondeath/Chardansearavitriol — possession event witnessed
-- [NOT SEEN] Ularan Mortus — plans for Leilon artifact revealed (journal)
+- [NOT SEEN] Ularan Mortus — plans for Leilon artifact revealed
 - [NOT SEEN] Chimera Crew — connection to Myrkul cult revealed
 - [NOT SEEN] Ebondeath — spirit arrival at Claugiyliamatar's lair
 - [NOT SEEN] Myrkul undead — motive for attacking Claugiyliamatar's lair revealed
@@ -433,260 +649,263 @@ _Assembled per-section from the state stores by `grounding_sections.py` (#213 Ph
 - [NOT SEEN] Chimera Crew — first contact at Iniarv's Tower
 - [NOT SEEN] Sahuagin — raids on Leilon Point
 
-### Town of Leilon — Events (0/7)
+### Town of Leilon — Events (0/11)
 - [NOT SEEN] Quest board — initial two quests available
 - [NOT SEEN] Quest board — follow-up two quests added
 - [NOT SEEN] Town council — reward collection after Death Knight-Dreadnaught Quest
 - [NOT SEEN] Town council — reward collection after Leilon Point Quest
 - [NOT SEEN] Town council — reward collection after Bronze Shrine Quest
 - [NOT SEEN] Town council — reward collection after Iniarv's Tower Quest
-- [NOT SEEN] Leilon — characters reach 10th level (two quests complete)
-- [NOT SEEN] Leilon — characters reach 11th level (all quests complete)
+- [NOT SEEN] Leilon — characters reach 10th level
+- [NOT SEEN] Leilon — characters reach 11th level
 
 ## tracking-storm-lords-wrath
-**0 done, 0 partial, 57 not seen of 57**
+**0 done, 0 partial, 106 not seen of 106**
 
 ### Main Quests (0/7)
-- [NOT SEEN] Attack on the Wayside Inn — undead attack encounter
-- [NOT SEEN] A Normal Day in Leilon — town evacuation and cultist attack
+- [NOT SEEN] Attack on the Wayside Inn
+- [NOT SEEN] A Normal Day in Leilon
 - [NOT SEEN] Aid from Phandalin — goatherd escort mission
-- [NOT SEEN] Foul Weather at Wayside — storm investigation at Wayside Inn
-- [NOT SEEN] House of Thalivar — haunted tower investigation
-- [NOT SEEN] Missing Patrol — search for lost Leilon soldiers in the Mere of Dead Men
-- [NOT SEEN] Thunder Cliffs — Cult of Talos cave headquarters assault
+- [NOT SEEN] Foul Weather at Wayside
+- [NOT SEEN] House of Thalivar
+- [NOT SEEN] Missing Patrol
+- [NOT SEEN] Thunder Cliffs
 
-### Starting Quest Events (0/7)
+### Starting Quest Events (0/8)
 - [NOT SEEN] Zombie and wraith attack — Wayside Inn
-- [NOT SEEN] Wayside Inn cultist NPCs — first contact (Backes Dunfield, Cooragh Struckt, Teega, Tarbin Tul, Silla Scalesweep)
-- [NOT SEEN] Cult of Talos dark tide knight attack — settlers' camp outside Leilon
+- [NOT SEEN] Wayside Inn cultist NPCs — first contact
+- [NOT SEEN] Cult of Talos dark tide knight attack — settlers' camp
 - [NOT SEEN] Kraken priest Nixoxious — ritual at Leilon fishery
-- [NOT SEEN] Water elemental and water weird summoning — Leilon marsh
-- [NOT SEEN] Leilon town council — first contact (Grizzelda Copperwraught, Sergeant Hazz Yorrum, Merrygold Brightshine, Valdi Estapaar)
-- [NOT SEEN] Children Smithwell and Burnice — missing persons situation
+- [NOT SEEN] Water elemental and water weird summoning
+- [NOT SEEN] Leilon town council — first contact
+- [NOT SEEN] Children Smithwell and Burnice — missing persons
 
 ### Aid from Phandalin Events (0/7)
-- [NOT SEEN] Wyvern attack — giant goat herd encounter
-- [NOT SEEN] Ogre family attack — camp encounter during goat escort
-- [NOT SEEN] Argus Skeel — vampire spawn spy encounter in Phandalin
-- [NOT SEEN] Velleen Firecrow — Cult of Talos spy encounter at Lionshield Coster
-- [NOT SEEN] Three-sided battle — Skeel and Velleen factions vs. party in Phandalin backlot
-- [NOT SEEN] Shrine of Luck — ransacking discovery and Talos symbol find
-- [NOT SEEN] Magical lenses — discovery of map-decoding item
+- [NOT SEEN] Wyvern attack — giant goat herd
+- [NOT SEEN] Ogre family attack — camp encounter
+- [NOT SEEN] Argus Skeel — vampire spawn spy in Phandalin
+- [NOT SEEN] Velleen Firecrow — Cult of Talos spy at Lionshield Coster
+- [NOT SEEN] Three-sided battle — Phandalin backlot
+- [NOT SEEN] Shrine of Luck — ransacking discovery
+- [NOT SEEN] Magical lenses — map-decoding item
 
-### Foul Weather at Wayside Events (0/10)
-- [NOT SEEN] Air elemental myrmidon encounter — edge of storm zone
-- [NOT SEEN] Curse of Talos — lightning strike branding event
-- [NOT SEEN] Sacrificial victims — impaled commoners at Wayside Inn doors
-- [NOT SEEN] Wayside Inn cultist ritual — Backes Dunfield leading ceremony
-- [NOT SEEN] Statue of Talos — activation encounter in Wayside Inn basement
-- [NOT SEEN] Teega the smith — connection to statue encounter
-- [NOT SEEN] Martisha Vinetalker — rescue from Wayside Inn basement
-- [NOT SEEN] Tarbin Tul — kidnapping by Cult of Talos
+### Foul Weather at Wayside Events (0/11)
+- [NOT SEEN] Air elemental myrmidon encounter
+- [NOT SEEN] Curse of Talos — lightning strike branding
+- [NOT SEEN] Sacrificial victims — impaled commoners
+- [NOT SEEN] Wayside Inn cultist ritual — Backes Dunfield
+- [NOT SEEN] Statue of Talos — activation
+- [NOT SEEN] Teega the smith — connection to statue
+- [NOT SEEN] Martisha Vinetalker — rescue
+- [NOT SEEN] Tarbin Tul — kidnapping
 - [NOT SEEN] Backes Dunfield — revealed as cult lieutenant
-- [NOT SEEN] Cult of Talos map and lenses — combined clue revelation pointing to Thunder Cliffs
+- [NOT SEEN] Cult of Talos map and lenses — clue revelation
 
 ### House of Thalivar Events (0/9)
-- [NOT SEEN] Thalivar's ghost — first manifestation encounter
-- [NOT SEEN] Thalivar ghost possession of Gallio Elibro — nightly event
-- [NOT SEEN] Stone golem statues — library trap activation event
+- [NOT SEEN] Thalivar's ghost — first manifestation
+- [NOT SEEN] Thalivar ghost possession of Gallio Elibro
+- [NOT SEEN] Stone golem statues — library trap
 - [NOT SEEN] Gallio Elibro — first contact and quest briefing
-- [NOT SEEN] Soapwort's remains — discovery in collapsed servant's quarters
-- [NOT SEEN] Thalivar's journal — discovery in sealed bedchamber
-- [NOT SEEN] Thalivar's skeleton — discovery in broken beacon chamber
-- [NOT SEEN] Mysterious Turmish woman — sighting (Swords of Leilon ghost)
-- [NOT SEEN] Star spawn mangler — summoned creature encounter
+- [NOT SEEN] Soapwort's remains — discovery
+- [NOT SEEN] Thalivar's journal — discovery
+- [NOT SEEN] Thalivar's skeleton — discovery
+- [NOT SEEN] Mysterious Turmish woman — sighting
+- [NOT SEEN] Star spawn mangler — summoned creature
 
-### Missing Patrol Events (0/14)
-- [NOT SEEN] Breltora Red-Eye — quest giver first contact
-- [NOT SEEN] Lizardfolk tribe — first contact with Hissain and tribe
-- [NOT SEEN] Lizardfolk subchief Hissain — encounter
-- [NOT SEEN] Lizardfolk render Slosh — encounter
-- [NOT SEEN] Rot troll — first encounter in the Mere
-- [NOT SEEN] Rot troll — subsequent encounters (up to three total)
-- [NOT SEEN] Private Vester Jessup — rescue situation
-- [NOT SEEN] Merchant prisoners — rescue situation
-- [NOT SEEN] Lizardfolk tribe — potential peaceful resolution / alliance with Leilon
-- [NOT SEEN] Yuan-ti abomination — scout encounter in the Mere
-- [NOT SEEN] Pit of snakes — giant constrictor snake encounter
-- [NOT SEEN] Quicksand and alligators — giant crocodile encounter
-- [NOT SEEN] Troll brawl — wounded troll encounter
-- [NOT SEEN] Hydra wranglers — hydra and mercenary encounter
+### Missing Patrol Events (0/15)
+- [NOT SEEN] Breltora Red-Eye — quest giver
+- [NOT SEEN] Lizardfolk tribe — first contact with Hissain
+- [NOT SEEN] Lizardfolk subchief Hissain
+- [NOT SEEN] Lizardfolk render Slosh
+- [NOT SEEN] Rot troll — first encounter
+- [NOT SEEN] Rot troll — subsequent encounters
+- [NOT SEEN] Private Vester Jessup — rescue
+- [NOT SEEN] Merchant prisoners — rescue
+- [NOT SEEN] Lizardfolk tribe — peaceful resolution
+- [NOT SEEN] Yuan-ti abomination — scout
+- [NOT SEEN] Pit of snakes — giant constrictor
+- [NOT SEEN] Quicksand and alligators — giant crocodile
+- [NOT SEEN] Troll brawl — wounded troll
+- [NOT SEEN] Hydra wranglers — hydra and mercenary
 
-### Thunder Cliffs Events (0/18)
-- [NOT SEEN] Captain selection — Stands in Tar vs. Kristoffen decision
+### Thunder Cliffs Events (0/20)
+- [NOT SEEN] Captain selection — Stands in Tar vs. Kristoffen
 - [NOT SEEN] Kristoffen — Cult of Talos affiliation reveal
-- [NOT SEEN] Mutiny — Castisha first mate confrontation
-- [NOT SEEN] Captain Starling Winchet — bad news encounter at sea
-- [NOT SEEN] Ghost ship — allip and specter encounter
-- [NOT SEEN] Allip babbling — Ruinstone and Ebondeath clues overheard
-- [NOT SEEN] Invisible stalker — aerial attack near Thunder Cliffs
+- [NOT SEEN] Mutiny — Castisha first mate
+- [NOT SEEN] Captain Starling Winchet — bad news at sea
+- [NOT SEEN] Ghost ship — allip and specter
+- [NOT SEEN] Allip babbling — Ruinstone and Ebondeath clues
+- [NOT SEEN] Invisible stalker — aerial attack
 - [NOT SEEN] Manticore attack — Thunder Cliffs approach
-- [NOT SEEN] Huge giant crab — sea galley encounter
-- [NOT SEEN] Alarm wire — triggered or disarmed at Thunder Cliffs shore
-- [NOT SEEN] Disgruntled cultists — potential negotiation encounter at area 2
-- [NOT SEEN] Sea hag coven — first contact (Nana Pocktuss, Auntie Unk, Granny Muyuk)
-- [NOT SEEN] Skull fliers — encounter in sea hag cave
-- [NOT SEEN] Sovendahl Erkinze — cursed drow lieutenant encounter
-- [NOT SEEN] Gadrille the Reef-Reaver — Cult of Talos commander encounter
-- [NOT SEEN] Tooth-N-Claw — hell hound pet encounter
-- [NOT SEEN] Blowhole — magical portal discovery
-- [NOT SEEN] Loot cache — trapped crate discovery at area 6
-- [NOT SEEN] Prisoners at Thunder Cliffs — rescue situation
+- [NOT SEEN] Huge giant crab — sea galley
+- [NOT SEEN] Alarm wire — Thunder Cliffs shore
+- [NOT SEEN] Disgruntled cultists — negotiation
+- [NOT SEEN] Sea hag coven — first contact
+- [NOT SEEN] Skull fliers — sea hag cave
+- [NOT SEEN] Sovendahl Erkinze — cursed drow lieutenant
+- [NOT SEEN] Gadrille the Reef-Reaver — commander
+- [NOT SEEN] Tooth-N-Claw — hell hound pet
+- [NOT SEEN] Blowhole — magical portal
+- [NOT SEEN] Loot cache — trapped crate
+- [NOT SEEN] Prisoners at Thunder Cliffs — rescue
 
-### Key NPC Events (0/15)
-- [NOT SEEN] Martisha Vinetalker — first contact at Wayside Inn
+### Key NPC Events (0/16)
+- [NOT SEEN] Martisha Vinetalker — first contact
 - [NOT SEEN] Backes Dunfield — cult affiliation revealed
 - [NOT SEEN] Teega — cult affiliation revealed
-- [NOT SEEN] Gallio Elibro — wizard first contact at House of Thalivar
-- [NOT SEEN] Grizzelda Copperwraught — council leader first contact
-- [NOT SEEN] Merrygold Brightshine — priest first contact
-- [NOT SEEN] Valdi Estapaar — fishery overseer first contact
-- [NOT SEEN] Sergeant Hazz Yorrum — cowardly guard first contact
-- [NOT SEEN] Pinchwit Wigglehoof — goatherd first contact
-- [NOT SEEN] Halia Thornton — information broker first contact in Phandalin
-- [NOT SEEN] Fheralai Stormsworn — referenced as Cult of Talos leader (not yet encountered)
-- [NOT SEEN] Ularan Mortus — referenced as Myrkul priest antagonist (not yet encountered)
-- [NOT SEEN] Ebondeath — spirit of dead black dragon referenced in allip clues
+- [NOT SEEN] Gallio Elibro — wizard first contact
+- [NOT SEEN] Grizzelda Copperwraught — council leader
+- [NOT SEEN] Merrygold Brightshine — priest
+- [NOT SEEN] Valdi Estapaar — fishery overseer
+- [NOT SEEN] Sergeant Hazz Yorrum — cowardly guard
+- [NOT SEEN] Pinchwit Wigglehoof — goatherd
+- [NOT SEEN] Halia Thornton — information broker in Phandalin
+- [NOT SEEN] Fheralai Stormsworn — referenced as Cult of Talos leader
+- [NOT SEEN] Ularan Mortus — referenced as Myrkul priest
+- [NOT SEEN] Ebondeath — spirit referenced in allip clues
 
-### Major Plot Beats (0/9)
-- [NOT SEEN] Cult of Talos — first identification of enemy faction
-- [NOT SEEN] Myrkul undead — skull brand connection identified
-- [NOT SEEN] Ruinstone — first mention of artifact (allip babble)
-- [NOT SEEN] Ebondeath — first mention of dragon spirit threat (allip babble)
+### Major Plot Beats (0/10)
+- [NOT SEEN] Cult of Talos — first identification
+- [NOT SEEN] Myrkul undead — skull brand connection
+- [NOT SEEN] Ruinstone — first mention
+- [NOT SEEN] Ebondeath — first mention
 - [NOT SEEN] Thunder Cliffs — cult headquarters cleared
 - [NOT SEEN] Cult of Talos shrines on High Road — plans disrupted
-- [NOT SEEN] Leilon town — secured after A Normal Day in Leilon
-- [NOT SEEN] Leilon reconstruction — ongoing settlement building
-- [NOT SEEN] Swords of Leilon ghosts — mysterious Turmish woman sighting
-- [NOT SEEN] Thalivar's ghost — laid to rest or defeated
+- [NOT SEEN] Leilon town — secured after A Normal Day
+- [NOT SEEN] Leilon reconstruction — ongoing
+- [NOT SEEN] Swords of Leilon ghosts — Turmish woman sighting
+- [NOT SEEN] Thalivar's ghost — laid to rest
 
 ## tracking
-**11 done, 0 partial, 73 not seen of 84**
+**8 done, 6 partial, 106 not seen of 120**
 
 ### Main Quests (0/2)
 - [NOT SEEN] Cryovain the white dragon — defeated or driven from territory
 - [NOT SEEN] Cryovain encounter — Icespire Hold (H20 rooftop)
 
-### Starting Quests (1/3)
-- [NOT SEEN] Dwarven Excavation Quest — warn dwarves of dragon
-- [DONE ch3] Gnomengarde Quest — obtain magic item(s) from gnomes — party visited Gnomengarde, received hat of wizardry and 50 gold from King Gnercli
-- [PARTIAL ch4] Umbrage Hill Quest — urge Adabra Gwynn to return to Phandalin — party set out for Umbrage Hill at end of ch4; outcome not yet shown
+### Starting Quests (2/3)
+- [DONE ch2,ch3,ch4] Dwarven Excavation Quest — warn dwarves of dragon — party takes the dwarf prospector quest, delivers the white-dragon warning to Dazlyn and Norbus, clears the ochre jellies, splits gems, collects 50gp from Harbin (ch4).
+- [DONE ch5,ch6] Gnomengarde Quest — obtain magic item(s) from gnomes — party reaches Gnomengarde, kills the mimic ("shapeshifter"), and Gnercli gives them the hat of wizardry; collect 50gp reward in Phandalin (ch6).
+- [PARTIAL ch6,ch7] Umbrage Hill Quest — urge Adabra Gwynn to return to Phandalin — party kills the manticore and rescues Adabra (ch7), but she refuses to return to Phandalin and gives a note for Harbin instead; later agrees to accompany them as a fellow naturalist (ch7). Not "returned to Phandalin" as written.
 
 ### Follow-Up Quests (Wave 1) (0/3)
+- [N### Follow-Up Quests (Wave 1) (0/3)
 - [NOT SEEN] Butterskull Ranch Quest — rescue Alfonse Kalazorn / address orc attack
 - [NOT SEEN] Loggers' Camp Quest — deliver supplies, obtain Tibor Wester's signature
 - [NOT SEEN] Mountain's Toe Quest — escort Don-Jon Raskin to gold mine
 
 ### Follow-Up Quests (Wave 2) (0/3)
-- [NOT SEEN] Axeholm Quest — open fortress and clear monsters for habitation
+- [NOT SEEN] Axeholm Quest — open fortress and clear monsters
 - [NOT SEEN] Dragon Barrow Quest — retrieve Lady Alagondar's dragon slayer sword
 - [NOT SEEN] Woodland Manse Quest — eradicate evil at the manse
 
-### Locations (3/35)
+### Locations (1/64)
 - [NOT SEEN] Axeholm — banshee Vyldara encounter
-- [NOT SEEN] Axeholm — ghoul infestation (castellan ghoul, dwarf ghouls)
-- [NOT SEEN] Axeholm — giant spider infestation (area A22)
-- [NOT SEEN] Axeholm — stirge encounter (areas A9, A28)
-- [NOT SEEN] Axeholm — secret vault (area A29) discovery
+- [NOT SEEN] Axeholm — ghoul infestation
+- [NOT SEEN] Axeholm — giant spider infestation
+- [NOT SEEN] Axeholm — stirge encounter
+- [NOT SEEN] Axeholm — secret vault discovery
 - [NOT SEEN] Butterskull Ranch — orc occupation of farmhouse
-- [NOT SEEN] Butterskull Ranch — Alfonse Kalazorn rescue from cellar (area B10)
+- [NOT SEEN] Butterskull Ranch — Alfonse Kalazorn rescue from cellar
 - [NOT SEEN] Butterskull Ranch — Petunia the cow recovery
-- [NOT SEEN] Circle of Thunder — henge encounter (Flenz and Narux anchorites)
-- [NOT SEEN] Circle of Thunder — Gorthok the Thunder Boar summoning/encounter
-- [NOT SEEN] Circle of Thunder — Yargath's patrol encounter en route
-- [NOT SEEN] Circle of Thunder — tree trap encounter en route
-- [NOT SEEN] Dragon Barrow — will-o'-wisp encounter (area D2)
-- [NOT SEEN] Dragon Barrow — pit trap encounters (area D3)
-- [NOT SEEN] Dragon Barrow — skeletal horse encounter (area D4)
-- [NOT SEEN] Dragon Barrow — narrow tunnel collapse trap (area D5)
-- [NOT SEEN] Dragon Barrow — false tomb acid trap (area D6)
-- [NOT SEEN] Dragon Barrow — dragon slayer sword and invisible stalker encounter (area D8)
-- [NOT SEEN] Dwarven Excavation — Dazlyn and Norbus first contact
-- [NOT SEEN] Dwarven Excavation — ochre jelly encounter (area E5)
-- [NOT SEEN] Dwarven Excavation — orc attack on excavation (area E1)
-- [NOT SEEN] Dwarven Excavation — Hall of Greed trap (area E11)
-- [NOT SEEN] Falcon's Hunting Lodge — Falcon the Hunter first contact
-- [NOT SEEN] Falcon's Hunting Lodge — counterattack by anchorites/Gorthok on lodge
-- [DONE ch3] Gnomengarde — mimic encounter (mystery monster) — barrel mimic fought and killed in barrel room
-- [DONE ch3] Gnomengarde — King Korboz madness — first contact — King Korboz hysterical, shouting "A shapeshifter!" when party arrived
-- [DONE ch3] Gnomengarde — King Gnerkli rescue — King Gnercli present and negotiating with party; no rescue needed but contact made
-- [DONE ch3] Gnomengarde — Facktoré and autoloading crossbow encounter (area G7) — rotating crossbow device encountered; Vukradin disarmed it instead of killing Facktore
-- [PARTIAL ch3] Gnomengarde — gnome guard post encounter (area G9) — gnome guards Pog and Ulla challenged party at entrance
-- [DONE ch3] Gnomengarde — spinning blades trap (area G10) — spinning blade turnstiles encountered; party disabled them on second pass
+- [NOT SEEN] Circle of Thunder — henge encounter
+- [NOT SEEN] Circle of Thunder — Gorthok summoning
+- [NOT SEEN] Circle of Thunder — Yargath's patrol
+- [NOT SEEN] Circle of Thunder — tree trap
+- [NOT SEEN] Dragon Barrow — will-o'-wisp encounter
+- [NOT SEEN] Dragon Barrow — pit trap encounters
+- [NOT SEEN] Dragon Barrow — skeletal horse encounter
+- [NOT SEEN] Dragon Barrow — narrow tunnel collapse trap
+- [NOT SEEN] Dragon Barrow — false tomb acid trap
+- [NOT SEEN] Dragon Barrow — dragon slayer sword and invisible stalker
+- [DONE ch2,ch3] Dwarven Excavation — Dazlyn and Norbus first contact — Dazlyn Grayshard and Norbus Ironrune confront the party at the excavation (ch2); ochre jelly encounter fought and cleared (ch3).
+- [PARTIAL ch3] Dwarven Excavation — ochre jelly encounter — jellies fought and killed across ch3, but at the altar/back chamber, not specifically "area E5" as listed. Encounter itself done.
+- [PARTIAL ch3,ch4] Dwarven Excavation — orc attack on excavation — four orcs ambush the party on the road returning from the excavation (ch3), fight resolved ch4; on the road, not "area E1" at the site.
+- [PARTIAL ch3] Dwarven Excavation — Hall of Greed trap — party explores the Hall of Greed, finds the green-glass gem in the greed-god statue's hands and leaves it (ch3); no trap triggered as written.
+- [NOT SEEN] Falcon's Hunting Lodge — Falcon first contact
+- [NOT SEEN] Falcon's Hunting Lodge — counterattack on lodge
+- [PARTIAL ch5,ch6] Gnomengarde — mimic encounter — party finds and kills the mimic in the barrel room (ch5–ch6), the "shapeshifter" terrorizing the caves. Matches the mystery-monster/mimic beat.
+- [DONE ch5,ch6] Gnomengarde — King Korboz madness — first contact — King Korboz is encountered raving about the shapeshifter, disputing with Gnercli (ch6).
+- [PARTIAL ch6] Gnomengarde — King Gnerkli rescue — Gnercli is present and hands over the hat, but no captivity/rescue is depicted (ch6).
+- [PARTIAL ch5] Gnomengarde — Facktoré and autoloading crossbow encounter — Vukradin encounters the rotating crossbow device and disarms it, sparing Facktore, who flees (ch5). Device disabled, not the full G7 encounter.
+- [PARTIAL ch5] Gnomengarde — gnome guard post encounter — Pog and Ulla (gnome guards) interrogate the party as possible shapechangers and let them pass (ch5).
+- [PARTIAL ch5] Gnomengarde — spinning blades trap — party crosses the spinning-blades room and disables the blades (ch5).
 - [NOT SEEN] Icespire Hold — Stone-Cold Reavers encounter
-- [NOT SEEN] Icespire Hold — stirge encounter (area H12)
+- [NOT SEEN] Icespire Hold — stirge encounter
 - [NOT SEEN] Icespire Hold — frozen ogre encounter en route
 - [NOT SEEN] Loggers' Camp — ankheg encounters
-- [NOT SEEN] Loggers' Camp — Tibor Wester rescue from office (area L3)
-- [NOT SEEN] Loggers' Camp — totem discovery (area L2)
-- [NOT SEEN] Loggers' Camp — anchorite of Talos boar encounter en route
-- [NOT SEEN] Mountain's Toe Gold Mine — Whiskered Gang wererats encounter
+- [NOT SEEN] Loggers' Camp — Tibor Wester rescue
+- [NOT SEEN] Loggers' Camp — totem discovery
+- [NOT SEEN] Loggers' Camp — anchorite of Talos boar en route
+- [NOT SEEN] Mountain's Toe Gold Mine — Whiskered Gang wererats
 - [NOT SEEN] Mountain's Toe Gold Mine — Zeleen Varnaster first contact
-- [NOT SEEN] Mountain's Toe Gold Mine — dwarf miners discovery (areas M14–M15)
-- [NOT SEEN] Mountain's Toe Gold Mine — carrion crawler encounter (area M11)
+- [NOT SEEN] Mountain's Toe Gold Mine — dwarf miners discovery
+- [NOT SEEN] Mountain's Toe Gold Mine — carrion crawler encounter
 - [NOT SEEN] Shrine of Savras — orc and ogre occupation
-- [NOT SEEN] Shrine of Savras — altar of fate vision event (area S10)
-- [NOT SEEN] Shrine of Savras — gold bell discovery (area S7)
-- [NOT SEEN] Tower of Storms — Moesko the anchorite encounter (area T7)
-- [NOT SEEN] Tower of Storms — Moesko's heart destruction (area T9)
-- [NOT SEEN] Tower of Storms — banshee Miraal encounter (area T1)
-- [NOT SEEN] Tower of Storms — harpy encounter (area T5)
+- [NOT SEEN] Shrine of Savras — altar of fate vision event
+- [NOT SEEN] Shrine of Savras — gold bell discovery
+- [NOT SEEN] Tower of Storms — Moesko the anchorite
+- [NOT SEEN] Tower of Storms — Moesko's heart destruction
+- [NOT SEEN] Tower of Storms — banshee Miraal
+- [NOT SEEN] Tower of Storms — harpy encounter
 - [NOT SEEN] Tower of Storms — giant crab first contact
-- [NOT SEEN] Tower of Storms — Daggermaw hunter shark encounter
-- [NOT SEEN] Tower of Storms — shipwreck exploration (areas T10–T14)
-- [PARTIAL ch4] Umbrage Hill — manticore encounter at windmill — party en route to Umbrage Hill; bandit ambush occurred instead
-- [NOT SEEN] Umbrage Hill — Adabra Gwynn first contact
-- [NOT SEEN] Woodland Manse — Grannoc anchorite of Talos encounter (area W10)
-- [NOT SEEN] Woodland Manse — Gulthias tree and vine blight encounter (area W8)
-- [NOT SEEN] Woodland Manse — anchorite boars encounter (area W1)
-- [NOT SEEN] Woodland Manse — orc encounter (area W18)
-- [NOT SEEN] Woodland Manse — trapped staircase (area W3)
-- [NOT SEEN] Woodland Manse — leaving the manse ambush event
+- [NOT SEEN] Tower of Storms — Daggermaw hunter shark
+- [NOT SEEN] Tower of Storms — shipwreck exploration
+- [DONE ch7] Umbrage Hill — manticore encounter at windmill — party fights and kills the manticore besieging Adabra's windmill (ch7).
+- [DONE ch6,ch7] Umbrage Hill — Adabra Gwynn first contact — Adabra is met at the windmill after the manticore fight (ch7).
+- [NOT SEEN] Woodland Manse — Grannoc anchorite
+- [NOT SEEN] Woodland Manse — Gulthias tree and vine blight
+- [NOT SEEN] Woodland Manse — anchorite boars
+- [NOT SEEN] Woodland Manse — orc encounter
+- [NOT SEEN] Woodland Manse — trapped staircase
+- [NOT SEEN] Woodland Manse — leaving the manse ambush
 
-### NPC Events (5/23)
-- [PARTIAL ch4] Toblen Stonehill — first contact (Stonehill Inn) — Soma spends night at Stonehill Tavern; tavern keeper mentioned
-- [DONE ch3] Harbin Wester — first contact (townmaster's hall) — Townmaster Harbin Wester mentioned as quest-giver; party reports to him on return
+### NPC Events (4/38)
+- [DONE ch2,ch4] Toblen Stonehill — first contact — party meets Toblen at Stonehill Inn; Vukradin plays for ale (ch2), returns ch4.
+- [DONE ch4] Harbin Wester — first contact — party persuades Harbin to open the Townmaster's Hall and pays out the reward (ch4).
 - [NOT SEEN] Elmar Barthen — first contact (Barthen's Provisions)
-- [NOT SEEN] Linene Graywind — first contact (Lionshield Coster)
-- [NOT SEEN] Halia Thornton — first contact (Phandalin Miner's Exchange)
+- [DONE ch4] Linene Graywind — first contact — party offers services to Linene at the Lionshield Coster; she shares the Neverwinter Wood rumor (ch4).
+- [NOT SEEN] Halia Thornton — first contact (Miner's Exchange)
 - [NOT SEEN] Sister Garaele — return to Phandalin
-- [NOT SEEN] Adabra Gwynn — safety confirmed / note delivered to Harbin Wester
+- [PARTIAL ch7] Adabra Gwynn — safety confirmed / note delivered to Harbin Wester — Adabra is safe and gives the party a note for Harbin (ch7); note not yet shown delivered.
 - [NOT SEEN] Alfonse Kalazorn — rescue confirmed
-- [NOT SEEN] Alfonse Kalazorn — death (if applicable)
+- [NOT SEEN] Alfonse Kalazorn — death
 - [NOT SEEN] Tibor Wester — delivery signed
-- [NOT SEEN] Don-Jon Raskin — safe delivery to Mountain's Toe mine
-- [NOT SEEN] Don-Jon Raskin — transformation into wererat (if not prevented)
+- [NOT SEEN] Don-Jon Raskin — safe delivery to mine
+- [NOT SEEN] Don-Jon Raskin — transformation into wererat
 - [NOT SEEN] Falcon the Hunter — Woodland Manse quest offer
-- [NOT SEEN] Falcon the Hunter — lodge lost to orc counterattack (if applicable)
-- [NOT SEEN] Xanth the centaur — first contact near Dragon Barrow
+- [NOT SEEN] Falcon the Hunter — lodge lost to orc counterattack
+- [NOT SEEN] Xanth the centaur — first contact
 - [NOT SEEN] Xanth the centaur — offer to guide to Circle of Thunder
 - [NOT SEEN] Zeleen Varnaster — negotiation or combat outcome
-- [NOT SEEN] Dazlyn Grayshard and Norbus Ironrune — sending stones reward given
-- [DONE ch3] King Gnerkli — freed from captivity — King Gnercli present and negotiating; offered quest and reward
+- [PARTIAL ch3] Dazlyn Grayshard and Norbus Ironrune — sending stones reward given — dwarves hand over the two sending stones as payment after the ruins are cleared (ch3). "Grayshard/Ironrune" match the excavation dwarves, though listed here as a distinct reward event.
+- [PARTIAL ch6] King Gnerkli — freed from captivity — Gnercli present and rules on the reward, but no captivity/freeing shown (ch6).
 - [NOT SEEN] King Korboz — sanity restored
 - [NOT SEEN] Dobin Noreth — encounter at Phandalin (Tymora's Luck hook)
 - [NOT SEEN] Moesko — death or reformation
 - [NOT SEEN] Miraal banshee — spirit laid to rest
-- [NOT SEEN] Vyldara banshee — encounter outcome (Axeholm)
-- [NOT SEEN] Grannoc — death / map to Circle of Thunder obtained
-- [NOT SEEN] Stone-Cold Reavers — Syleen Wintermoon encounter outcome
+- [NOT SEEN] Vyldara banshee — encounter outcome
+- [NOT SEEN] Grannoc — death / map to Circle of Thunder
+- [NOT SEEN] Stone-Cold Reavers — Syleen Wintermoon outcome
 - [NOT SEEN] Stone-Cold Reavers — truce or defeat
 
-### Major Plot Beats (2/12)
-- [NOT SEEN] Dragon's Location table — first roll (characters leave Phandalin)
+### Major Plot Beats (1/13)
+- [PARTIAL ch2] Dragon's Location table — first roll (characters leave Phandalin) — party leaves Phandalin for the excavation (ch2); no dragon-location mechanic depicted, just quest travel.
 - [NOT SEEN] Cryovain — first sighting or encounter at a non-lair location
-- [NOT SEEN] Cryovain — retreat to Icespire Hold (10+ HP lost in battle)
+- [NOT SEEN] Cryovain — retreat to Icespire Hold
 - [NOT SEEN] Shrine of Savras altar vision — Icespire Hold revealed
 - [NOT SEEN] Captured orc interrogation — Icespire Hold location revealed
 - [NOT SEEN] Tymora's Luck hook — Dobin Noreth leads party to Icespire Hold
 - [NOT SEEN] Gorthok the Thunder Boar — first summoning/encounter
 - [NOT SEEN] Gorthok the Thunder Boar — counterattack on Falcon's Hunting Lodge
 - [NOT SEEN] Gulthias tree — destruction or survival
-- [NOT SEEN] Totem at Loggers' Camp — destroyed (ankhegs depart)
-- [NOT SEEN] Moesko's heart — destroyed (beacon extinguished)
-- [NOT SEEN] Charm of the Storm — bestowed on a character (area T4 altar)
+- [NOT SEEN] Totem at Loggers' Camp — destroyed
+- [NOT SEEN] Moesko's heart — destroyed
+- [NOT SEEN] Charm of the Storm — bestowed on a character
 - [NOT SEEN] Dragon slayer longsword — retrieved from Dragon Barrow
 - [NOT SEEN] Adventure conclusion — Cryovain defeated / all quests resolved
+
+Note: Brewbarry carries a "Dragon Slayer Sword" already in ch2, per party setup — this is pre-existing equipment, not the Dragon Barrow retrieval, which remains NOT SEEN.
 
 <!-- section: party | inputs-sha: 5bf72e438e95f95b -->
 # Party Reference — Icespire Peak / Phandalin Campaign

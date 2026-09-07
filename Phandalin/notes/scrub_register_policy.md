@@ -201,3 +201,42 @@ like a recap and were the setup for the session's first spell. See
 campaign does not use, so it parses no Phandalin extraction and returns 0/N
 regardless of content. Treat its output as *not run*, and do the three-surface
 check (scene list, `## Summary` prose, enhanced-summary file) by hand.
+
+**Standing default, reaffirmed on ch51 (2026-09-06):** when the previous
+chapter resolved, cut its opening retelling by default. Drop real-world
+scheduling chatter and unrelated modern-topic conversation that precede the
+recap with it. Preserve current-chapter bookkeeping and live-state setup in the
+next scene; the combat-resume exception above still governs unresolved
+encounters.
+
+## Table jokes carried into fiction (ch51, 2026-09-06) — CAMPAIGN-WIDE
+
+Player-to-table jokes survive `/no-mech` when they contain usable character,
+relationship, or scene texture. During `/scrub`, recast their modern phrasing
+into the campaign's ren-faire/Faerûn register and incorporate the result into
+fiction and canon. This is an explicit exception to treating their table-facing
+delivery as residue; it does not protect raw rolls, rules procedure, VTT
+operation, scheduling, character-sheet bookkeeping, or non-comedic table
+administration.
+
+Named real-world references inside a retained joke are still scrub candidates:
+preserve the joke's fictional work, not necessarily its literal referent.
+
+## NPC-label triage limitation (ch51, 2026-09-06) — TOOLING
+
+This campaign labels NPC speech as `GM`, and its italic context does not use
+`as <NPC>` stage directions. Consequently, `/no-mech`'s NPC-speaker-label
+signal reports zero in-character NPC blocks even in scenes full of NPC speech.
+Treat that signal as structurally unavailable for Phandalin and decide from the
+full-scene reading; never use it to justify an all-mechanical cut.
+
+## Magical-effect wording (ch51, 2026-09-06) — IN CANON
+
+The exact phrases **passive charm** and **passive confusion** describe an
+in-world magical effect. They are not roll callouts or passive-skill references,
+despite the scrub scanner categorizing them that way. Keep both phrases. They
+are also recorded in `notes/.scrub_state.json` as exact scanner ignores.
+
+The ch51 `narration3` scrub introduced no new on-the-fly canon. Its replacements
+used existing setting references (Kara-Tur, Leilon, Daggerford, Sending Stones,
+and the Open Lord) or ordinary descriptive language.

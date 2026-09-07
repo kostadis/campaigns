@@ -1,0 +1,102 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:4dfb96fa231b3883f6a296d8fb3866cc0a98bc51a35a934475acfe67462649f8",
+  "payload": {
+    "scene": "Scene 3 — Lost in Rsolk's Tunnels",
+    "session": "/home/kostadis/phandalin/Phandalin/summaries/20260902",
+    "run_dir": "/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene03-r1",
+    "draft": "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_03_lost_in_rsolk_s_tunnels.scrubbed.md",
+    "source": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/03_encounter_in_the_sewers.md",
+    "inputs": {
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_03_lost_in_rsolk_s_tunnels.scrubbed.md": {
+        "role": "draft",
+        "sha256": "00f4ef57903b00d5dd192ddb9f97186bb0feef20f5fde5ca61897800e6dbc15b"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/03_encounter_in_the_sewers.md": {
+        "role": "source",
+        "sha256": "c20386d0847cd3aeecd252d36eafc4a5c8ed4e2315168b44207ec5c27a3d166d"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/party.yaml": {
+        "role": "reference",
+        "sha256": "0c80629b963be3f57c42c11c9ceee10e2a8fd80c8ff57717539b7ff4dc50d891"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/players.yaml": {
+        "role": "reference",
+        "sha256": "6db574fc53fa1622853bc1877a105a5982327eee9469d0b95e8e04de0b196c28"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/session_doc.yaml": {
+        "role": "reference",
+        "sha256": "596c7af11b0f6c40d116c93604865c186f74143857dfa702320db1b6de510bde"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/_genre.md": {
+        "role": "reference",
+        "sha256": "7a848f23addaf26686576b1c1a109a53960f1dce66e3fee85a04bde549962f41"
+      },
+      "/home/kostadis/phandalin/Phandalin/notes/scrub_register_policy.md": {
+        "role": "reference",
+        "sha256": "a336d3df3856a5cbfa05a16edf32e443ed277f663149592fcf63858483c7edce"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/plan.md": {
+        "role": "reference",
+        "sha256": "c52ce3d0c450708ff114bb97b5cbb56ae329b547d87cf7fa8a904dcefc9781c6"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/voice_smooth.sources.yaml": {
+        "role": "reference",
+        "sha256": "730ad84ea99a86bb21a4401df20503140b545095ff2ae1b60d3502078cbbc899"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration/no_mech_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "48e2e27f66a02b873722ae813cef90f7a1483ee370c65fd6d2d825020c0d7fab"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/scrub_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "79a9801d2422228673c6b62cf71f75552d7ac9ba0fbdf86d8a08f4b8a3d99547"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/.cg/activity.jsonl": {
+        "role": "reference",
+        "sha256": "19818db865e8af70cf2470071e973156a24b0bf0a0ca401d1cc369f962e2fb43"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/vukradin_new_pipeline.md": {
+        "role": "reference",
+        "sha256": "2f17508947a605a0fd68409cc7522ade17e3ca0dbf7d764b9068e8ffa05bf59a"
+      },
+      "/home/kostadis/phandalin/Phandalin/examples/vukradin.md": {
+        "role": "reference",
+        "sha256": "1d10b874779646614f4a1d28c47dbdd986fa6ee958ed6f2e23d8778d826f8315"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_03_lost_in_rsolk_s_tunnels.knobs.json": {
+        "role": "reference",
+        "sha256": "4d25d74d870c04aacac16aebb2e74349b2207a33d672501c0d2316d3aa0bf559"
+      }
+    },
+    "edits": [
+      {
+        "id": "s03-01",
+        "start": 8569,
+        "before": "\"we have kind of an arm's length relationship with the Common Chord, but I will ask for you.\"",
+        "after": "\"We have kind of an arm's-length relationship with the Common Chord, but I will ask for you.\"",
+        "line": 217,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Correct sentence capitalization and the compound modifier without changing Soma's qualified promise.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/03_encounter_in_the_sewers.md",
+            "quote": "\"we have kind of an arm's length relationship with the Common Chord, but I will ask for you.\"",
+            "start": 13230,
+            "line": 367
+          }
+        ],
+        "context": "I must be precise. Our relationship with the Common Chord exists, but it is not the sort of relationship where I can promise their seats as if I control the venue.\n\n\"we have kind of an arm's length relationship with the Common Chord, but I will ask for you.\"\n\n\"That's all I could ask for.\"\n"
+      }
+    ],
+    "observations": [],
+    "skill_sha256": {
+      "SKILL.md": "30f03f7eaba1593d1e24cdd23271369fa47f9dae9a0c3115ed1e2cd11419d51e",
+      "scripts/review_edits.py": "770a578d7da1d5a2dee31206c24ed5163be2b9d17031b831d73c8549006aec12",
+      "references/editorial-guide.md": "790721eb80cef5e1f14cff0fb6f6965cb0062bbf16cd9b527ef03f6ca314c72f",
+      "references/review-and-apply.md": "0b38628119fd023460fb1029ebdc077d5cd05c945c4e2d7db842a78eedc89783"
+    },
+    "prepared_at": "2026-09-06T23:49:45.476008+00:00"
+  }
+}

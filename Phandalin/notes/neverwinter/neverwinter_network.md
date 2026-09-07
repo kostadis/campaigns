@@ -218,6 +218,8 @@ Retired half-elf who writes honest provenance cards and notes uncertainty explic
 Leader of the **Greycloaks** — the non-violent Sons of Alagondar wing. Knows Neverwinter's political history better than almost anyone alive and delivers it obliquely to people who buy her drinks. She is the correct person to ask *"is there really an Alagondar branch that survived?"* — and the answer will not be what Perrin's writ says.
 
 ### The Harpers, House of a Thousand Faces `[PREP/module]`
+**Current doctrine and operation:** read [Harper doctrine](harper_doctrine.md) before using this older network entry. The GM's later rulings establish deliberate provisioning of Bimble, the protected food route, and opposition to centralized power with distributed capacity for control.
+
 Have a file on House Margaster they'd share, cautiously, with a party demonstrably aligned with neither Neverember nor the Sons. **They know Bimble Nackle by name and have been looking for him.** Vetting is slow; the chapter is careful after the double-agent scandal.
 
 ---
