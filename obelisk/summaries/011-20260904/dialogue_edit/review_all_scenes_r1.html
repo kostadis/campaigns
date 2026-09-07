@@ -1,0 +1,352 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>Chapter 11 Dialogue Edit — All Scenes</title><style id="css">
+:root {
+  --ground:#F1F3F1; --surface:#FAFBFA; --surface-2:#E6EAE7;
+  --rule:#CBD3CD; --rule-soft:#DDE3DE;
+  --ink:#171B19; --ink-2:#4A544E; --ink-3:#6E7A73;
+  --accent:#2F6F62; --accent-soft:#DCE9E5;
+  --ok:#2F6F62; --ok-bg:#DCE9E5;
+  --no:#A63446; --no-bg:#F5E2E5;
+  --talk:#A26A1F; --talk-bg:#F6EBDA;
+  --shadow:0 1px 2px rgba(23,27,25,.05),0 8px 24px -16px rgba(23,27,25,.18);
+  --serif:Georgia,"Times New Roman",serif;
+  --sans:"Helvetica Neue",Arial,sans-serif;
+  --mono:ui-monospace,Menlo,Consolas,monospace;
+}
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme="light"]) {
+    --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+    --rule:#2E3835; --rule-soft:#242C2A;
+    --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+    --accent:#6BBBA7; --accent-soft:#1B2E2A;
+    --ok:#6BBBA7; --ok-bg:#1B2E2A;
+    --no:#E28794; --no-bg:#34191E;
+    --talk:#DDAA5E; --talk-bg:#33280F;
+    --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+  }
+}
+:root[data-theme="dark"] {
+  --ground:#101413; --surface:#171C1A; --surface-2:#1F2624;
+  --rule:#2E3835; --rule-soft:#242C2A;
+  --ink:#E0E6E2; --ink-2:#A9B4AE; --ink-3:#7C8882;
+  --accent:#6BBBA7; --accent-soft:#1B2E2A;
+  --ok:#6BBBA7; --ok-bg:#1B2E2A;
+  --no:#E28794; --no-bg:#34191E;
+  --talk:#DDAA5E; --talk-bg:#33280F;
+  --shadow:0 1px 2px rgba(0,0,0,.4),0 10px 28px -18px rgba(0,0,0,.8);
+}
+*{box-sizing:border-box}
+body{margin:0;background:var(--ground);color:var(--ink);font-family:var(--sans);font-size:16px;line-height:1.6;-webkit-font-smoothing:antialiased}
+.wrap{max-width:940px;margin:0 auto;padding:0 24px 100px}
+
+.top{padding:56px 0 26px}
+.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase;color:var(--accent);margin-bottom:14px}
+h1{font-family:var(--serif);font-weight:800;font-size:3rem;line-height:1.04;letter-spacing:0;margin:0 0 14px;text-wrap:balance}
+.lede{font-family:var(--serif);font-size:1.16rem;color:var(--ink-2);max-width:60ch;margin:0;line-height:1.5}
+
+.bar{position:sticky;top:0;z-index:20;background:var(--ground);border-bottom:1px solid var(--rule);
+  padding:12px 0;margin-bottom:6px;display:flex;align-items:center;gap:14px;flex-wrap:wrap}
+.prog{font-family:var(--mono);font-size:13px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.prog b{color:var(--ink);font-size:15px}
+.chips{display:flex;gap:6px;flex-wrap:wrap}
+.chip{font-family:var(--mono);font-size:11px;letter-spacing:0;text-transform:uppercase;padding:3px 8px;border-radius:2px;font-weight:500}
+.chip.a{background:var(--ok-bg);color:var(--ok)}
+.chip.r{background:var(--no-bg);color:var(--no)}
+.chip.d{background:var(--talk-bg);color:var(--talk)}
+.spacer{flex:1 1 auto}
+
+button{font-family:inherit;font-size:inherit;cursor:pointer}
+button:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+
+.save{background:var(--accent);color:var(--ground);border:1px solid var(--accent);
+  border-radius:3px;padding:9px 20px;font-family:var(--mono);font-size:12.5px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:opacity .15s}
+.save[disabled]{opacity:.35;cursor:not-allowed}
+:root[data-theme="dark"] .save,:root:not([data-theme="light"]) .save{color:#0D1211}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .save{color:#FAFBFA}}
+
+.bulk{background:transparent;border:1px solid var(--rule);color:var(--ink-2);border-radius:3px;
+  padding:8px 13px;font-family:var(--mono);font-size:11.5px;letter-spacing:0;text-transform:uppercase}
+.bulk:hover{border-color:var(--talk);color:var(--talk)}
+
+.msg{font-family:var(--mono);font-size:12px;padding:10px 14px;border-radius:3px;margin:10px 0 0;
+  background:var(--surface-2);color:var(--ink-2);border-left:2px solid var(--accent)}
+.msg.warn{border-left-color:var(--talk);color:var(--talk)}
+.msg[hidden]{display:none}
+
+.items{display:flex;flex-direction:column;gap:14px;margin-top:22px}
+
+.item{background:var(--surface);border:1px solid var(--rule);border-left:3px solid var(--rule);
+  border-radius:3px;padding:20px 22px 18px;display:flex;flex-direction:column;gap:12px;box-shadow:var(--shadow)}
+.item[data-choice="approve"]{border-left-color:var(--ok)}
+.item[data-choice="reject"]{border-left-color:var(--no)}
+.item[data-choice="discuss"]{border-left-color:var(--talk)}
+
+.item-head{display:flex;gap:12px;align-items:baseline}
+.num{font-family:var(--mono);font-size:12px;color:var(--ink-3);flex:none;padding-top:4px;font-variant-numeric:tabular-nums}
+.item h2{font-family:var(--serif);font-size:1.24rem;font-weight:600;line-height:1.28;margin:0;text-wrap:balance}
+
+.outcomes{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:10px}
+.outcome{background:var(--surface-2);border-radius:3px;padding:11px 13px;font-size:13.4px;line-height:1.5;color:var(--ink-2)}
+.outcome b{display:block;font-family:var(--mono);font-size:10.5px;letter-spacing:0;
+  text-transform:uppercase;margin-bottom:4px}
+.outcome.y b{color:var(--ok)}
+.outcome.n b{color:var(--no)}
+.outcome code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere;color:var(--ink)}
+
+.ev{font-size:13px;color:var(--ink-3);line-height:1.55;margin:0;padding-left:12px;border-left:2px solid var(--rule-soft)}
+.ev code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.ev em{color:var(--ink-2);font-style:italic}
+
+.choices{display:flex;gap:8px;flex-wrap:wrap}
+.ch{flex:1 1 auto;min-width:104px;background:transparent;border:1px solid var(--rule);color:var(--ink-2);
+  border-radius:3px;padding:10px 14px;font-family:var(--mono);font-size:12px;letter-spacing:0;
+  text-transform:uppercase;font-weight:500;transition:background .12s,border-color .12s,color .12s}
+.ch:hover{border-color:var(--ink-3);color:var(--ink)}
+.ch[aria-pressed="true"][data-choice="approve"]{background:var(--ok-bg);border-color:var(--ok);color:var(--ok)}
+.ch[aria-pressed="true"][data-choice="reject"]{background:var(--no-bg);border-color:var(--no);color:var(--no)}
+.ch[aria-pressed="true"][data-choice="discuss"]{background:var(--talk-bg);border-color:var(--talk);color:var(--talk)}
+
+.note{width:100%;background:var(--ground);border:1px solid var(--rule);border-radius:3px;color:var(--ink);
+  font-family:var(--sans);font-size:13.5px;padding:9px 12px}
+.note::placeholder{color:var(--ink-3)}
+.note:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.note[hidden]{display:none}
+
+.foot{margin-top:56px;padding-top:26px;border-top:2px solid var(--ink);font-size:13.4px;color:var(--ink-2);line-height:1.6}
+.foot code{font-family:var(--mono);font-size:12px;overflow-wrap:anywhere}
+.foot .applied{margin:0 0 14px}
+
+.search{width:min(260px,100%);height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;
+  background:var(--surface);color:var(--ink);font-family:var(--sans);font-size:13px}
+.search:focus-visible{outline:2px solid var(--accent);outline-offset:-1px}
+.filters{display:flex;gap:5px;flex-wrap:wrap}
+.filter{height:37px;padding:0 10px;border:1px solid var(--rule);border-radius:3px;background:transparent;
+  color:var(--ink-2);font-family:var(--mono);font-size:11px;text-transform:uppercase}
+.filter[aria-pressed="true"]{background:var(--surface-2);border-color:var(--ink-3);color:var(--ink)}
+
+@media (max-width:600px){
+  .wrap{padding:0 16px 80px}.item-head{flex-direction:column;gap:4px}
+  h1{font-size:2.2rem}.lede{font-size:1rem}.search{width:100%}.filters{width:100%}
+  .filter{flex:1 1 30%;min-width:0}.save,.bulk{flex:1 1 auto}
+}
+@media (prefers-reduced-motion:reduce){*{transition:none!important}}
+</style></head><body><div id="app"></div><script type="application/json" id="state">{"decisions": {}, "notes": {}, "savedAt": null}</script><script type="text/plain" id="src">
+var TITLE = "Chapter 11 Dialogue Edit — All Scenes";
+var EYEBROW = "Obelisk / Chapter 11 / dialogue edit";
+var LEDE = "Eleven exact dialogue proposals across six scenes need rulings. Scene 02 was read in full and needs no changes. Every item is an independent consent unit.";
+var FOOTER = "No narration edits have been applied. Scene 01 uses the reviewed scrubbed draft; scenes 02–07 use their reviewed raw drafts. Unmarked items remain unresolved.";
+var ITEMS = [{"id": "s01-01", "t": "s01-01: Restore Zenvon&#x27;s confirmation question; the narration currently turns uncertainty into an assertion.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md:19\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>at the ravine.\u003c/pre>\u003cp>After\u003c/p>\u003cpre>at the ravine?\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>I study the line between us, then retreat to where Pip, Sister Maela, and Veyra are waiting.\n\n“Okay, guys, so I see a bugbear… at the ravine. I was thinking I could use my shortbow and take that guy out. But he&#x27;s kind of far, and I think I&#x27;ll be able to make it. What do you guys want to do? Do you have any better idea to tackle the situation?”\n\n“Well, the first thing we should do is check to see if he&#x27;s doing anything,” Pip says.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:83\u003c/code>\u003c/p>\u003cpre>&quot;At the ravine? Okay, yeah, yeah. So, I was thinking I could use my shortbow and take that guy out.&quot;\u003c/pre>"}, {"id": "s01-02", "t": "s01-02: Restore the separate final landing, which is part of Zenvon&#x27;s recorded cadence rather than accidental duplication.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md:55\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>I feel using the Mage Hand is more effort for the same output.\u003c/pre>\u003cp>After\u003c/p>\u003cpre>I feel using the Mage Hand is more effort. For the same output.\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>He is right about the number we do not have. He is also too far away to reach the bugbear quickly if we begin now. If I bring the cave out, the advantage of one isolated guard disappears.\n\n“I mean, it makes sense, but I&#x27;m thinking if we can kill him without alerting others. Okay, yeah, I guess, I guess it doesn&#x27;t matter either way. I feel using the Mage Hand is more effort for the same output.”\n\nThe bugbear remains south of his post, pike ready, looking over his shoulder. I cannot tell whether he is frightened, cautious, or simply doing the minimum required by his assignment.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:296\u003c/code>\u003c/p>\u003cpre>&quot;I feel using the mage hand is more effort.&quot;\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:299\u003c/code>\u003c/p>\u003cpre>&quot;For the same output.&quot;\u003c/pre>"}, {"id": "s01-03", "t": "s01-03: Join two fragments from the same speaker while preserving that this is Zenvon&#x27;s intended movement for Pip, not an action already completed.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md:63\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>and then I would want Pip to move into the ridge. In that time, like, you know, and sneak, and stay in position there.\u003c/pre>\u003cp>After\u003c/p>\u003cpre>and then I would want Pip to move into the ridge, sneak, and stay in position there.\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>He is already suspicious of the south. So I revise.\n\n“Okay, so when he suspects there is something towards the south behind the rock, I throw a stone using Mage Hand from the north, and he turns his back around, and then I would want Pip to move into the ridge. In that time, like, you know, and sneak, and stay in position there.”\n\nThe pike stays in front of him. His good eye searches south, then cuts back over his shoulder. I watch for some further indication of what he will do.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:320\u003c/code>\u003c/p>\u003cpre>&quot;I throw a stone using mage hand from the north, and he turns his back around, and then I would want Pip to move into the ridge.&quot;\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:329\u003c/code>\u003c/p>\u003cpre>&quot;In that time, like, you know, and sneak, and, you know, stay in position there.&quot;\u003c/pre>"}, {"id": "s03-01", "t": "s03-01: Render the source&#x27;s broken-off &#x27;but that&#x27;s—&#x27; as a self-correction instead of an accidental contradiction.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.md:45\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene03-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>Well, you make a point, but that&#x27;s pretty valid.\u003c/pre>\u003cp>After\u003c/p>\u003cpre>Well, you make a point—that&#x27;s pretty valid.\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>Four bugbears drove us out before. This cave has four bugbears, an ogre, and the orc who has somehow made all of them listen.\n\n“Well, you make a point, but that&#x27;s pretty valid. So, what do you suggest? Do you suggest to kill the orc from this far, or do you wanna confront him? Because if we confront him, like, he&#x27;s gonna… how about if he alerts the bugbears and the ogre?”\n\nSister Maela looks carefully past us into the cave.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md:104\u003c/code>\u003c/p>\u003cpre>&quot;Well, you make a point, but that&#x27;s—&quot;\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md:107\u003c/code>\u003c/p>\u003cpre>&quot;Pretty valid. So, what do you suggest? Do you suggest to kill the orc?&quot;\u003c/pre>"}, {"id": "s04-01", "t": "s04-01: Restore the question established by the extraction&#x27;s stage direction; the following narration supplies the answer.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md:49\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene04-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“So, all of them, including the ogre.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“So, all of them, including the ogre?”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>They have. All four watched their boss die. The calculation Pip described is happening in front of us. The bugbears look toward the exit. Gog looks toward us.\n\n“So, all of them, including the ogre.”\n\nThe bugbears want out. The ogre wants to kill us. I cannot find anything more complicated in their faces than that.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/04_the_ambush_inside_the_cave.md:98\u003c/code>\u003c/p>\u003cpre>**Zenvon Forepot** — *asking whether Gog also noticed*\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/04_the_ambush_inside_the_cave.md:99\u003c/code>\u003c/p>\u003cpre>&quot;So, all of them, including the ogre.&quot;\u003c/pre>"}, {"id": "s05-01", "t": "s05-01: Clarify the broken question without polishing the surrounding cadence; the extraction explicitly says Zenvon is asking why the raiders have been troubling Hamun.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md:45\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene05-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>like, why are we doing, and do you know anything about Hamun Kost?\u003c/pre>\u003cp>After\u003c/p>\u003cpre>like, why are you doing this, and do you know anything about Hamun Kost?\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>I hold my weapons ready and step close enough to make him focus on me.\n\n“Gog, yes, yes. Hey, Gog, listen. We did not intend to hurt you or your boss, but we had to help our friend Hamun Kost. Like, and also protect the land from all the, you know, threats and the robberies that you guys have been doing. I just wanted to know before, you know, we finished the business, like, why are we doing, and do you know anything about Hamun Kost? Tell us what has happened in the past.”\n\nGog looks at me.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/05_the_battle_against_gog.md:23\u003c/code>\u003c/p>\u003cpre>- Zenvon pauses to question Gog, explaining their work for Hamun Kost and asking why the raiders had been troubling him.\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/05_the_battle_against_gog.md:186\u003c/code>\u003c/p>\u003cpre>&quot;Okay, so why have you been bothering…? *Gog looks at you.*&quot;\u003c/pre>"}, {"id": "s06-01", "t": "s06-01: Remove an incomplete false start and accidental repetition while preserving Zenvon&#x27;s direct request and formal question.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_06_charcoal_secrets_and_spoils.md:29\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene06-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“Come look over the… I see, I see a drawing here on the wall. Does this figure seem familiar from one of the books that you have read?”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“Come look. I see a drawing here on the wall. Does this figure seem familiar from one of the books that you have read?”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>I call Veyra over.\n\n“Come look over the… I see, I see a drawing here on the wall. Does this figure seem familiar from one of the books that you have read?”\n\nHer blue crystal flares faintly.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md:118\u003c/code>\u003c/p>\u003cpre>&quot;Come look over the… I see, I see a drawing here on the wall.&quot;\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md:121\u003c/code>\u003c/p>\u003cpre>&quot;Does this figure seem familiar from one of the books that you have read?&quot;\u003c/pre>"}, {"id": "s07-01", "t": "s07-01: Clarify that Zenvon means the enemy group collapsed after Brughor fell; &#x27;the entire party&#x27; otherwise reads as his own companions being defeated.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:55\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>and then took out the boss first, and then the entire party collapsed.\u003c/pre>\u003cp>After\u003c/p>\u003cpre>and then took out the boss first, and then their entire group collapsed.\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>He asks what happened at Wyvern Tor, so I give him the sequence.\n\n“The party was in a cave, and then we sneakily attacked the sentry, and then took out the boss first, and then the entire party collapsed.”\n\nI tell him about the bugbears fleeing and Gog remaining. Then I mention the thing that did not fit with the rest.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:21\u003c/code>\u003c/p>\u003cpre>- He describes the sentry ambush, the attack on the leader, and the charcoal drawing.\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:16\u003c/code>\u003c/p>\u003cpre>- Hamun delightedly receives the news that the boss and ogre are dead and the bugbears have fled.\u003c/pre>"}, {"id": "s07-02", "t": "s07-02: Restore Zenvon&#x27;s question and make the dependent attribution agree; Pip&#x27;s next action confirms the inference.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:95\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: adjacent-attribution; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“And he hides it again,” I say quietly.\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“And he hides it again?” I ask quietly.\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>That is enough information to watch him. I see nothing I can price. Pip does. Hamun’s interest rises for a moment at the mention of the black obelisk, then he hides it again.\n\n“And he hides it again,” I say quietly.\n\nPip confirms it.\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:307\u003c/code>\u003c/p>\u003cpre>**Zenvon Forepot** — *asking whether Hamun conceals it*\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:308\u003c/code>\u003c/p>\u003cpre>&quot;And he hides it again.&quot;\u003c/pre>"}, {"id": "s07-03", "t": "s07-03: Remove unrecoverable false starts while retaining Zenvon&#x27;s tentative &#x27;you know&#x27; and his actual claim about the sword.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:105\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“It&#x27;s a… what that is… you know… made with… forged with diamonds and all the other precious stones.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“It&#x27;s, you know, forged with diamonds and all the other precious stones.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>“For example, you see that sword you have?”\n\n“Yes,” I say. “It&#x27;s a… what that is… you know… made with… forged with diamonds and all the other precious stones.”\n\n“It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk.”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:337\u003c/code>\u003c/p>\u003cpre>&quot;Yes, it&#x27;s a… What that is… you know…&quot;\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:340\u003c/code>\u003c/p>\u003cpre>&quot;Made with… forged with diamonds and all the other precious stones.&quot;\u003c/pre>"}, {"id": "s07-04", "t": "s07-04: Remove a clear false start while preserving Pip&#x27;s phrasing and the separate final &#x27;In combat.&#x27; beat.", "y": "Include this exact replacement in a new derived revision; keep the original.\u003cp>Original: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:125\u003c/code>\u003c/p>\u003cp>Output area: \u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/\u003c/code>\u003c/p>", "n": "Keep the original wording in the derived revision and record this rejection.", "ev": "\u003cp>Scope: dialogue; support: supported\u003c/p>\u003cp>Before\u003c/p>\u003cpre>“I was… I just hope, you know, to keep up to his name when I use this sword. In combat.”\u003c/pre>\u003cp>After\u003c/p>\u003cpre>“I just hope, you know, to keep up to his name when I use this sword. In combat.”\u003c/pre>\u003cp>Surrounding draft\u003c/p>\u003cpre>Hamun describes Aldith Tresendar arriving in black armor, his cape billowing, Talon in his hand.\n\nPip looks down at the sword. “I was… I just hope, you know, to keep up to his name when I use this sword. In combat.”\n\nHamun smiles. “Yes, Pip, I hope that for you too. And as I said, anything you find related to the Netherese, consider me your expert.”\n\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:385\u003c/code>\u003c/p>\u003cpre>&quot;I was… I just hope,&quot;\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:388\u003c/code>\u003c/p>\u003cpre>&quot;You know, to keep up to his name when I use this sword.&quot;\u003c/pre>\u003cp>\u003ccode>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:391\u003c/code>\u003c/p>\u003cpre>&quot;In combat.&quot;\u003c/pre>"}];
+var REVIEW_ID = "dialogue-edit:011-20260904:all-scenes-r1";
+var OUTPUT_NAME = "dialogue_edit_all_scenes_r1_decisions.json";
+
+var LABEL = {approve:"Approve", reject:"Reject", discuss:"Discuss"};
+
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;").replace(/"/g,"&quot;");}
+
+function readState(){
+  try { return JSON.parse(document.getElementById("state").textContent); }
+  catch(e){ return {decisions:{},notes:{},savedAt:null}; }
+}
+
+var state = readState();
+if(!state.decisions) state.decisions = {};
+if(!state.notes) state.notes = {};
+state.filter = 'all';
+state.search = '';
+try {
+  var stored = JSON.parse(localStorage.getItem('codex-review:' + REVIEW_ID) || '{}');
+  if(stored.decisions) state.decisions = stored.decisions;
+  if(stored.notes) state.notes = stored.notes;
+} catch(e) {}
+
+function persist(){
+  try { localStorage.setItem('codex-review:' + REVIEW_ID, JSON.stringify({decisions:state.decisions,notes:state.notes})); }
+  catch(e) {}
+}
+
+function counts(){
+  var c = {approve:0,reject:0,discuss:0};
+  ITEMS.forEach(function(it){ var d = state.decisions[it.id]; if(d) c[d]++; });
+  return c;
+}
+
+function render(){
+  var c = counts(), done = c.approve + c.reject + c.discuss;
+  var query = state.search.toLowerCase();
+  var visible = ITEMS.filter(function(it){
+    var choice = state.decisions[it.id] || '';
+    var filterMatch = state.filter === 'all' || (state.filter === 'unmarked' ? !choice : choice === state.filter);
+    var searchMatch = !query || [it.id,it.t,it.y,it.n,it.ev || ''].join(' ').toLowerCase().indexOf(query) !== -1;
+    return filterMatch && searchMatch;
+  });
+  var h = '';
+
+  h += '<div class="wrap">';
+  h += '<div class="top">';
+  h += '<div class="eyebrow">' + esc(EYEBROW) + '</div>';
+  h += '<h1>' + esc(TITLE) + '</h1>';
+  h += '<p class="lede">' + esc(LEDE) + '</p>';
+  h += '</div>';
+
+  h += '<div class="bar">';
+  h += '<span class="prog"><b>' + done + '</b> of ' + ITEMS.length + ' decided</span>';
+  h += '<span class="chips">';
+  if(c.approve) h += '<span class="chip a">' + c.approve + ' approve</span>';
+  if(c.reject)  h += '<span class="chip r">' + c.reject + ' reject</span>';
+  if(c.discuss) h += '<span class="chip d">' + c.discuss + ' discuss</span>';
+  h += '</span>';
+  h += '<span class="spacer"></span>';
+  h += '<input class="search" id="search" type="search" placeholder="Search findings" value="' + esc(state.search) + '">';
+  h += '<span class="filters">';
+  [['all','All'],['unmarked','Unmarked'],['approve','Approved'],['reject','Rejected'],['discuss','Discuss']].forEach(function(pair){
+    h += '<button class="filter" data-filter="' + pair[0] + '" aria-pressed="' + (state.filter === pair[0]) + '">' + pair[1] + '</button>';
+  });
+  h += '</span>';
+  h += '<button class="bulk" id="allDiscuss">Discuss all ' + ITEMS.length + '</button>';
+  h += '<button class="bulk" id="copy">Copy output</button>';
+  h += '<button class="save" id="save">Save output</button>';
+  h += '</div>';
+
+  h += '<div class="msg" id="msg" hidden></div>';
+
+  h += '<div class="items">';
+  visible.forEach(function(it){
+    var i = ITEMS.indexOf(it);
+    var d = state.decisions[it.id] || '';
+    h += '<div class="item"' + (d ? ' data-choice="' + d + '"' : '') + '>';
+    h += '<div class="item-head"><span class="num">' + (i+1 < 10 ? '0' : '') + (i+1) + '</span>';
+    h += '<h2>' + it.t + '</h2></div>';
+    h += '<div class="outcomes">';
+    h += '<div class="outcome y"><b>If approved</b>' + it.y + '</div>';
+    h += '<div class="outcome n"><b>If rejected</b>' + it.n + '</div>';
+    h += '</div>';
+    if(it.ev) h += '<p class="ev">' + it.ev + '</p>';
+    h += '<div class="choices">';
+    ['approve','reject','discuss'].forEach(function(k){
+      h += '<button class="ch" data-item="' + it.id + '" data-choice="' + k + '" aria-pressed="' +
+           (d === k ? 'true' : 'false') + '">' + LABEL[k] + '</button>';
+    });
+    h += '</div>';
+    h += '<input class="note" data-note="' + it.id + '" placeholder="Add a note for this one (optional)" value="' +
+         esc(state.notes[it.id] || '') + '"' + (d === 'discuss' || state.notes[it.id] ? '' : ' hidden') + '>';
+    h += '</div>';
+  });
+  if(!visible.length) h += '<div class="msg">No findings match this view.</div>';
+  h += '</div>';
+
+  h += '<div class="foot">';
+  if(FOOTER) h += '<p class="applied">' + esc(FOOTER) + '</p>';
+  h += 'Use Copy output to paste the rulings into chat, or Save output to download <code>' + esc(OUTPUT_NAME) + '</code>. ' +
+       'Unmarked findings remain unresolved; they are never treated as rejected.';
+  h += '</div>';
+  h += '</div>';
+
+  document.getElementById('app').innerHTML = h;
+  wire();
+}
+
+function flash(text, warn){
+  var m = document.getElementById('msg');
+  if(!m) return;
+  m.textContent = text;
+  m.className = warn ? 'msg warn' : 'msg';
+  m.hidden = false;
+}
+
+function wire(){
+  Array.prototype.forEach.call(document.querySelectorAll('.ch'), function(b){
+    b.addEventListener('click', function(){
+      var id = b.getAttribute('data-item'), k = b.getAttribute('data-choice');
+      state.decisions[id] = (state.decisions[id] === k) ? undefined : k;
+      if(!state.decisions[id]) delete state.decisions[id];
+      persist();
+      render();
+    });
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('.note'), function(n){
+    n.addEventListener('input', function(){
+      var id = n.getAttribute('data-note');
+      if(n.value) state.notes[id] = n.value; else delete state.notes[id];
+      persist();
+    });
+  });
+
+  var all = document.getElementById('allDiscuss');
+  if(all) all.addEventListener('click', function(){
+    ITEMS.forEach(function(it){ state.decisions[it.id] = 'discuss'; });
+    persist();
+    render();
+  });
+
+  var search = document.getElementById('search');
+  if(search) search.addEventListener('input', function(){
+    state.search = search.value;
+    render();
+    var next = document.getElementById('search');
+    if(next){ next.focus(); next.setSelectionRange(next.value.length, next.value.length); }
+  });
+
+  Array.prototype.forEach.call(document.querySelectorAll('[data-filter]'), function(b){
+    b.addEventListener('click', function(){ state.filter = b.getAttribute('data-filter'); render(); });
+  });
+
+  var copy = document.getElementById('copy');
+  if(copy) copy.addEventListener('click', copyOutput);
+  var save = document.getElementById('save');
+  if(save) save.addEventListener('click', doSave);
+}
+
+function output(){
+  var c = counts();
+  var decisions = {}, notes = {}, unmarked = [];
+  ITEMS.forEach(function(it){
+    var choice = state.decisions[it.id];
+    if(choice) decisions[it.id] = choice; else unmarked.push(it.id);
+    if(state.notes[it.id]) notes[it.id] = state.notes[it.id];
+  });
+  return {
+    schemaVersion: 1,
+    reviewId: REVIEW_ID,
+    savedAt: new Date().toISOString().replace('T',' ').slice(0,16) + ' UTC',
+    decided: c.approve + c.reject + c.discuss,
+    tally: c,
+    decisions: decisions,
+    notes: notes,
+    discuss: ITEMS.filter(function(it){ return decisions[it.id] === 'discuss'; }).map(function(it){ return it.id; }),
+    unmarked: unmarked
+  };
+}
+
+function outputText(){ return JSON.stringify(output(), null, 2); }
+
+function copyOutput(){
+  var value = outputText();
+  if(navigator.clipboard && navigator.clipboard.writeText){
+    navigator.clipboard.writeText(value).then(function(){ flash('Decision output copied.'); }).catch(function(){ fallbackCopy(value); });
+  } else fallbackCopy(value);
+}
+
+function fallbackCopy(value){
+  var area = document.createElement('textarea');
+  area.value = value; area.style.position = 'fixed'; area.style.opacity = '0';
+  document.body.appendChild(area); area.select();
+  try {
+    if(document.execCommand('copy')) flash('Decision output copied.');
+    else window.prompt('Copy the decision output:', value);
+  } catch(e) { window.prompt('Copy the decision output:', value); }
+  area.remove();
+}
+
+function doSave(){
+  var blob = new Blob([outputText()], {type:'application/json'});
+  var url = URL.createObjectURL(blob);
+  var link = document.createElement('a');
+  link.href = url; link.download = OUTPUT_NAME;
+  document.body.appendChild(link); link.click(); link.remove();
+  URL.revokeObjectURL(url);
+  flash('Saved ' + OUTPUT_NAME + '.');
+}
+
+render();
+</script><script>new Function(document.getElementById("src").textContent)();</script></body></html>

@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:0f0c6366e580126243397bb1917d1fee63609d94ec8d89e6a67f9ed1a309c3cc",
+  "status": "applied",
+  "approved": [
+    "s07-01",
+    "s07-02",
+    "s07-03",
+    "s07-04"
+  ],
+  "rejected": [],
+  "unresolved": [],
+  "output": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/approved-r1/scene.md",
+  "output_sha256": "4ff814a3a92cc7769554985af5490dcc33f2bb8a378e64fbdc0dbe90ff91ee26",
+  "decisions": {
+    "schemaVersion": 1,
+    "reviewId": "dialogue-edit:0f0c6366e580126243397bb1917d1fee63609d94ec8d89e6a67f9ed1a309c3cc",
+    "savedAt": "2026-09-06 23:51 UTC",
+    "decisions": {
+      "s07-01": "approve",
+      "s07-02": "approve",
+      "s07-03": "approve",
+      "s07-04": "approve"
+    },
+    "notes": {}
+  },
+  "applied_at": "2026-09-06T23:52:02.610698+00:00"
+}

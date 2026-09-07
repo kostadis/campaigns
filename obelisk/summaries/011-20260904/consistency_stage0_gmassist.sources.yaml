@@ -1,0 +1,186 @@
+consistency_check:
+  timestamp: "2026-09-05T23:30:00-07:00"
+  campaign: obelisk
+  document_checked: summaries/011-20260904/gm-assist.md
+  document_class: "first-pass recap (GMAssistant export); NOT an enhance_summary output"
+  report: summaries/011-20260904/consistency_report_stage0_gmassist.md
+  config: config.yaml
+  model: claude-code backend (subscription)
+  backend: claude-code
+  issues_found: 12
+  issues_count_method: >-
+    Counted '^### ' headings in the report body AND cross-checked '**Location**'
+    occurrences (both = 12). The banner was not trusted. No '**Location:**' colon
+    variant present. No auto-continuation warning; report tail is a complete entry.
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-09-04"
+  chapter_numbering_note: >-
+    Prep file is named 20260904_chapter_10_the_wizard_of_the_old_owl_well.md while
+    gm-assist.md is headed "Chapter 11". Matched by CONTENT, not number:
+    Brughor x17, Hamun x32, Wyvern Tor x8, Gog x5, Warden x5, Cragmaw x13.
+    Confirmed correct prep for this session.
+  speaker_map: |
+    Derived from the tape, not assumed from campaign docs.
+    Kostadis Roussos = GM (856 cues) — also voices Veyra, Sister Maela and Pip.
+    Nikhil = Zenvon Forepot (567 cues).
+    FOUR PCs in config/party.yaml, TWO speakers on tape. This is the absent-player
+    condition: the GM ran three of the four PCs all session, so attribution for
+    Veyra / Maela / Pip has no clean speaker signal and was treated as unreliable
+    by default. Every attribution finding was checked against the tape rather than
+    spot-checked.
+  stages_not_run: |
+    Stages 1, 2 and 3 DID NOT RUN — no artifacts exist.
+    There is no session-summary.md, no scene_extractions_new/, no narration/.
+    Stage 2 (scene extractions) is the load-bearing stage of /staged-consistency
+    and had nothing to check. This run is Stage 0 only plus a hand VTT sweep.
+    A stage that did not run did not pass.
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state,    path: docs/world_state.md }
+    context:
+      - { path: docs/party.md,             role: "PCs (campaign-standard)" }
+      - { path: docs/entity_registry.yaml, role: "canonical entities + aliases (campaign-standard)" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR garble glossary (campaign-standard)" }
+      - { path: notes/vtt_known_additions.md, role: "confirmed-real names not yet promoted (campaign-standard)" }
+      - { path: notes/session_prep/20260904_chapter_10_the_wizard_of_the_old_owl_well.md, role: "session prep (authoritative), content-matched" }
+      - { path: notes/hamun_kost_strategy.md, role: "climax NPC dossier; carries the Old Owl Well geography ruling" }
+      - { path: notes/handouts/player_quest_log.md, role: "player-facing quest state" }
+      - { path: notes/handouts/player_quest_log_pip.md, role: "player-facing quest state (Pip)" }
+    transcripts_consulted_by_hand:
+      - path: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+        role: >-
+          PRIMARY adjudication source. Generated this same day by sd_corrections
+          apply from transcript_corrections.yaml (114 GM-approved entries);
+          sd_corrections check reports all 1,423 cues explained.
+          NOT passed as --context — provenance for rulings, not an input.
+      - path: summaries/011-20260904/session_2026_09_05_chapter_11_look_who_came_to_dinner_transcript.vtt
+        role: "independent second transcription, different tool, no shared timestamps"
+  notes: |
+    Prior carry_forward from session 010 re-checked: the Old Owl Well geography
+    item is now CLOSED — docs/entity_registry.yaml records "campaign table canon is
+    northeast of Phandalin", matching the prep. gm-assist.md states no direction,
+    so no conflict in this document.
+    Context-attribution filter (the Stage 1 false-positive class) was run on all 12
+    findings: every quoted fragment was grep-confirmed present in the target. Zero
+    false positives of that class — expected, since this is a first-pass recap and
+    gm-assist was not passed as context to itself.
+  resolution:
+    reviewed_by: GM
+    reviewed: "2026-09-05"
+    gm_rulings_this_run:
+      - "Warden is the Kost Wardens' collective TITLE; the acolyte is Warden Holl, distinct from Warden Dreth who leads the twelve. Recap prose uses the full name; the verbatim quote is left as spoken with an editorial note."
+      - "Talon IS forged with diamonds and precious stones — table canon as of Ch. 11, distinct from Zenvon's semi-precious-stone short sword. Registry, world_state and campaign_state updated to stop disagreeing."
+      - "The Cragmaw Castle route was NOT delivered this session. The blocker stays open and the recap now says so explicitly."
+      - "Five bugbears total (one sentry + four inside) is what was run at the table, against the module's roster of four. The recap is accurate; the module is the thing that diverges."
+    applied:
+      - { finding: 1, fix: "Brugor -> Brughor, 12 occurrences in gm-assist.md incl. the NPC section heading and Gog's quoted line. Corroborated by prep (Brughor x17, Brugor x0), PaBTSO ch.3 'Raider Camp', the registry alias, and the same-day glossary ruling." }
+      - { finding: 9, fix: "Removed the duplicate 'The remaining bugbears... flee the cave one by one' bullet from the Battle Against Gog scene, and changed 'bugbear sentries' to 'the four bugbears inside' in the Ambush scene. NOTE: this is the OPPOSITE of the report's suggested fix — see vtt_adjudicated." }
+      - { finding: 3, fix: "Warden -> Warden Holl in Summary (x2), dinner-scene bullet, NPC heading and NPC blurb. The Memorable Moments quote left VERBATIM with an italic editorial note explaining title-vs-name." }
+      - { finding: 4, fix: "Added an explicit statement to the Summary and the dinner scene that the session ended without Hamun handing over the route, and that the party has the name but no road." }
+      - { finding: 5, fix: "Recap left as written (GM ruled the gemstones are table canon). Propagated INTO docs/entity_registry.yaml (Talon note), docs/world_state.md:128 and docs/campaign_state.md (lines 21, 89, 96) so the grounding docs agree." }
+      - { finding: 8, fix: "Added a dinner-scene bullet recording that Harbin Wester's 120 gp bounty on the same marauders is now collectible." }
+    rejected:
+      - finding: 2
+        ruling: "Recap is accurate; do not change five to three."
+        rationale: >-
+          Tape: the sentry is dead (cue 1635 'the bug beer is dead') and the body hidden
+          (cue ~1690) BEFORE the GM looks inside and says 'There's 4 bugbeers, there's an
+          ogre' (cue 1867). Cue 3083 repeats 'these four bugbears, and this ogre'. The GM
+          ran five bugbears total. Applying the suggested fix would have falsified the recap.
+      - finding: 6
+        ruling: "Table ruling, not a rules error."
+        rationale: >-
+          True Strike was used at the table: cue 3155 'I wanna use the spell Truestrike'
+          and cue 3263 'Hold on, I mean... True strike, okay.' The GM allowed it.
+          The grounding docs are stale, not the recap — see carry_forward.
+      - finding: 7
+        ruling: "Recap accurate to the table; enrichment declined."
+        rationale: >-
+          The table cited Sildar explicitly — cue 4103 'Remember what Sildar told us?' and
+          cue 4143 'This is what Sildar told you when he was captured.' Adding the Ch. 6
+          elongated-skull goblins would be campaign knowledge the table did not invoke.
+      - finding: 10
+        ruling: "Blurb is defensible; leave it."
+        rationale: >-
+          The tape shows both sides. Compassion at cues 1663 / 2511 / 2519, and cold
+          pragmatism at cue 3803 'sounds good to me. I never liked ogres.'
+      - finding: 11
+        ruling: "Do not name the sentry."
+        rationale: >-
+          No bugbear name — Hul, Skarn, Gorra or Muk — is spoken anywhere on the tape.
+          The prep names them; the party never learned any of them. Module truth is not
+          party knowledge, and naming him would have written an unearned name into canon.
+      - finding: 12
+        ruling: "GM ruled it explicitly at the table."
+        rationale: >-
+          Cue 2143: 'so it's... 5 foot cube means it could be the shape of a bugbear. So you
+          could create a bugbear image...' and cue 2107 'the illusion, I believe, is
+          stationary' — which is exactly what the recap says. The GM outranks RAW here.
+  vtt_adjudicated: |
+    Transcript consulted BY HAND (not passed as --context):
+    summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt
+
+    THE REPORT POINTED AT THE WRONG HALF OF FINDING 9. It recommended aligning the
+    Summary to the Scenes section ("mid-fight flight matches the scene beats"). The
+    tape says the reverse. Sequence:
+      cue 2791  Nikhil: "Okay, I'll let the bugbears, run away then."
+      cue 2839  GM: "the bugbears get the point... The ogre is kind of pissed off,
+                calling them a bunch of cowards, and... his beloved [Brughor]"
+      cue 2915  GM: "And it falls on his head. The ogre howls."
+      cue 2919  GM: "A mini dog, you kill, Brughor, me eat you alive."
+      cue 3059  GM: "Gog. It's Gog's turn now, isn't it?"   <- the Gog FIGHT starts here
+    The bugbears fled BEFORE the Gog fight. The Summary was right; the Scenes section
+    was wrong. Fixed in the direction the tape indicates.
+
+    Six of twelve findings were overturned or redirected by the tape (2, 6, 7, 9, 11, 12).
+    None of the six were settleable from grounding docs — the facts involved (how many
+    bugbears the GM actually ran, whether a spell was permitted, whether a name was
+    spoken aloud, which half of a contradiction is true) appear in no grounding doc.
+
+    Finding 3 evidence — cue 4731: "My, my, my, my, my, my, what is it, my apprentice
+    warden is serving me so much better in death than he served me in life." Lower-case
+    'warden' on the tape; genuinely ambiguous between title and given name. Taken to the
+    GM rather than ruled. Cue 4743: "He told you who he was, his apprentice."
+
+    Finding 5 evidence — cue 5015 is NIKHIL, not the GM: "Made with... forged with
+    diamonds and all the other precious stones." A player's characterisation that the
+    recap had recorded as an established item property. GM elevated it to table canon.
+
+    Finding 4 evidence — searched every cue after 4459 ("do you wanna head back to Hamun
+    and then, get the information about Cragmaw Castle?"). No handover anywhere; the
+    session ends on out-of-character tactical debrief.
+
+    Finding 8 evidence — cue 2099: "it's a good thing that Harbin Wester was gonna give
+    us some money." Harbin WAS named at the table, so the omission was real.
+  carry_forward:
+    - status: OPEN
+      item: >-
+        STAGES 1-3 NOT RUN — no artifacts exist. session-summary.md, scene_extractions_new/
+        and narration/ are all absent. Stage 2 (scene extractions) is the load-bearing
+        stage and had nothing to check. Run /session-doc-run, then re-invoke
+        /staged-consistency for a real staged pass.
+    - status: OPEN
+      item: >-
+        Zenvon's spell list is stale in campaign_state.md, world_state.md and party.md —
+        all three list exactly Mage Hand / Minor Illusion / Thunderwave. True Strike was
+        used on tape in Ch. 11 (cues 3155, 3263) and is not recorded anywhere. This will
+        re-trigger finding 6 as a false positive on every future run until the docs and
+        the character sheet are updated.
+    - status: OPEN
+      item: >-
+        The module roster for Wyvern Tor is four bugbears; the GM ran five (one sentry
+        outside + four inside). docs/entity_registry.yaml's Wyvern Tor note still records
+        the module roster. Consider noting the table's deviation so finding 2 does not
+        recur.
+    - status: CLOSED
+      item: >-
+        Old Owl Well geography (carried from session 010). entity_registry.yaml now
+        records "campaign table canon is northeast of Phandalin", matching the prep.
+        gm-assist.md states no direction, so nothing to reconcile in this document.
+    - status: NOTE
+      item: >-
+        Four PCs, two speakers. The GM voices Veyra, Sister Maela and Pip every session.
+        Attribution in any downstream extraction for those three characters should be
+        treated as unreliable-by-default and checked against the tape, not spot-checked.

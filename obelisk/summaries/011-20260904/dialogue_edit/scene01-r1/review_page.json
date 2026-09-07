@@ -1,0 +1,30 @@
+{
+  "title": "Scene 01 — Zenvon Forepot",
+  "reviewId": "dialogue-edit:de99ad0dd876fa38d7ffa0b48201e4c972679a1815393bdd1590934c3c65ae3e",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s01-01",
+      "t": "s01-01: Restore Zenvon&#x27;s confirmation question; the narration currently turns uncertainty into an assertion.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md:19</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>at the ravine.</pre><p>After</p><pre>at the ravine?</pre><p>Surrounding draft</p><pre>I study the line between us, then retreat to where Pip, Sister Maela, and Veyra are waiting.\n\n“Okay, guys, so I see a bugbear… at the ravine. I was thinking I could use my shortbow and take that guy out. But he&#x27;s kind of far, and I think I&#x27;ll be able to make it. What do you guys want to do? Do you have any better idea to tackle the situation?”\n\n“Well, the first thing we should do is check to see if he&#x27;s doing anything,” Pip says.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:83</code></p><pre>&quot;At the ravine? Okay, yeah, yeah. So, I was thinking I could use my shortbow and take that guy out.&quot;</pre>"
+    },
+    {
+      "id": "s01-02",
+      "t": "s01-02: Restore the separate final landing, which is part of Zenvon&#x27;s recorded cadence rather than accidental duplication.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md:55</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>I feel using the Mage Hand is more effort for the same output.</pre><p>After</p><pre>I feel using the Mage Hand is more effort. For the same output.</pre><p>Surrounding draft</p><pre>He is right about the number we do not have. He is also too far away to reach the bugbear quickly if we begin now. If I bring the cave out, the advantage of one isolated guard disappears.\n\n“I mean, it makes sense, but I&#x27;m thinking if we can kill him without alerting others. Okay, yeah, I guess, I guess it doesn&#x27;t matter either way. I feel using the Mage Hand is more effort for the same output.”\n\nThe bugbear remains south of his post, pike ready, looking over his shoulder. I cannot tell whether he is frightened, cautious, or simply doing the minimum required by his assignment.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:296</code></p><pre>&quot;I feel using the mage hand is more effort.&quot;</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:299</code></p><pre>&quot;For the same output.&quot;</pre>"
+    },
+    {
+      "id": "s01-03",
+      "t": "s01-03: Join two fragments from the same speaker while preserving that this is Zenvon&#x27;s intended movement for Pip, not an action already completed.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md:63</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>and then I would want Pip to move into the ridge. In that time, like, you know, and sneak, and stay in position there.</pre><p>After</p><pre>and then I would want Pip to move into the ridge, sneak, and stay in position there.</pre><p>Surrounding draft</p><pre>He is already suspicious of the south. So I revise.\n\n“Okay, so when he suspects there is something towards the south behind the rock, I throw a stone using Mage Hand from the north, and he turns his back around, and then I would want Pip to move into the ridge. In that time, like, you know, and sneak, and stay in position there.”\n\nThe pike stays in front of him. His good eye searches south, then cuts back over his shoulder. I watch for some further indication of what he will do.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:320</code></p><pre>&quot;I throw a stone using mage hand from the north, and he turns his back around, and then I would want Pip to move into the ridge.&quot;</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md:329</code></p><pre>&quot;In that time, like, you know, and sneak, and, you know, stay in position there.&quot;</pre>"
+    }
+  ]
+}

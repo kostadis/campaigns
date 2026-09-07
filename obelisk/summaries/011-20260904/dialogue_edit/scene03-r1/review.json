@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:d523ab5a03291217ab2365ebb53872b3a2b30b6e83c4ca0f0db9dd01e8863ce0",
+  "payload": {
+    "scene": "Scene 03 — Zenvon Forepot",
+    "session": "/home/kostadis/obelisk/obelisk/summaries/011-20260904",
+    "run_dir": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene03-r1",
+    "draft": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.md",
+    "source": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md",
+    "inputs": {
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.md": {
+        "role": "draft",
+        "sha256": "d28e3df347b2d4c7e356d3aa814bafb4cbdadc2a3ec1ee8346a50ba22719ae35"
+      },
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md": {
+        "role": "source",
+        "sha256": "f86a7554a43001504e7857413fa00f005901756e3e2cafdfc022b4e25d11d124"
+      },
+      "/home/kostadis/obelisk/obelisk/config/party.yaml": {
+        "role": "reference",
+        "sha256": "a183a931ce47236b8fcf419b7a1be1bad9457159c78a377f3ce275c76a373a48"
+      },
+      "/home/kostadis/obelisk/obelisk/config/players.yaml": {
+        "role": "reference",
+        "sha256": "82d294f754794a27d9fa5a4fee909de606c1e7e94023749326abb20c8a5b64bf"
+      },
+      "/home/kostadis/obelisk/obelisk/config/session_doc.yaml": {
+        "role": "reference",
+        "sha256": "068a721cd0f573bd444224a8ab6b5c286a0c59f865c91cdbd565c87bf31780f0"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/zenvon_voice.md": {
+        "role": "reference",
+        "sha256": "9b3df35208700418e2339d5da7329dddc74f5033ce4d3a10da1520f35dfbe7d6"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/veyra_voice.md": {
+        "role": "reference",
+        "sha256": "e8e107898ca80fb7ed03484d661eaa09c9d074850d281223f33288d8bb59f017"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/maela_voice.md": {
+        "role": "reference",
+        "sha256": "dc77ea3494c1a5fd27355f5c4cb216104033f62e6feb4a31bbb048fdf3b943cd"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/pip_voice.md": {
+        "role": "reference",
+        "sha256": "f24da3244a16cc7e7aa107277a7b0d59bbdc2ccbe25702eb2fc553f79d3179ba"
+      },
+      "/home/kostadis/obelisk/obelisk/examples/zenvon.md": {
+        "role": "reference",
+        "sha256": "3af6ca8818533c4b09621a7cab8c6051b65b4669f8c5b32f847ecc73676c5169"
+      },
+      "/home/kostadis/obelisk/obelisk/examples/house_style.md": {
+        "role": "reference",
+        "sha256": "0d3c5ea458d1e1cc974656dec09447ba9d997975fa72dfea1144f421b8a2f567"
+      },
+      "/home/kostadis/obelisk/obelisk/notes/scrub_register_policy.md": {
+        "role": "reference",
+        "sha256": "4a8182c42df7e55816971a0b28eb4c47cdd73d31a5025c2a6cbb9af8f923d7d0"
+      },
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/plan.md": {
+        "role": "reference",
+        "sha256": "db6aa26fa0020b79d39066e330f2c713fbe8fa645be490fa095bc457310c8bfd"
+      },
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/logs/sd_narrate_bundle_editor_aaa57d19f8dc47d3bdabdcba73f97d32.json": {
+        "role": "reference",
+        "sha256": "dd332e91d7f89c9766ffeb03b2b6dc8be68c937fdedda6ff9861f6b7b39d5acc"
+      }
+    },
+    "edits": [
+      {
+        "id": "s03-01",
+        "start": 2372,
+        "before": "Well, you make a point, but that's pretty valid.",
+        "after": "Well, you make a point—that's pretty valid.",
+        "line": 45,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Render the source's broken-off 'but that's—' as a self-correction instead of an accidental contradiction.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md",
+            "quote": "\"Well, you make a point, but that's—\"",
+            "start": 4512,
+            "line": 104
+          },
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md",
+            "quote": "\"Pretty valid. So, what do you suggest? Do you suggest to kill the orc?\"",
+            "start": 4622,
+            "line": 107
+          }
+        ],
+        "context": "Four bugbears drove us out before. This cave has four bugbears, an ogre, and the orc who has somehow made all of them listen.\n\n“Well, you make a point, but that's pretty valid. So, what do you suggest? Do you suggest to kill the orc from this far, or do you wanna confront him? Because if we confront him, like, he's gonna… how about if he alerts the bugbears and the ogre?”\n\nSister Maela looks carefully past us into the cave.\n"
+      }
+    ],
+    "observations": [
+      "Pip's military explanation and Zenvon's remaining ESL constructions are fluent enough and stay unchanged."
+    ],
+    "skill_sha256": {
+      "SKILL.md": "30f03f7eaba1593d1e24cdd23271369fa47f9dae9a0c3115ed1e2cd11419d51e",
+      "scripts/review_edits.py": "770a578d7da1d5a2dee31206c24ed5163be2b9d17031b831d73c8549006aec12",
+      "references/editorial-guide.md": "790721eb80cef5e1f14cff0fb6f6965cb0062bbf16cd9b527ef03f6ca314c72f",
+      "references/review-and-apply.md": "0b38628119fd023460fb1029ebdc077d5cd05c945c4e2d7db842a78eedc89783"
+    },
+    "prepared_at": "2026-09-06T23:47:05.152414+00:00"
+  }
+}

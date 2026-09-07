@@ -20,17 +20,17 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 
 | Wrong | Right |
 |---|---|
-| Xenophon, Xenobon, Zenovon, Xenovon, Xenomon, Cinnamon, Zenomon, Zenon, Zenotic, Zenovan, Xenovan, Xenowalt, Zalthir, Zalthamir, Zenbon, Xenobod, Zen Von, Xenobun, Xenoons, Zanoan, Zenmon, Zenoven, Zenvan, Zenobun | **Zenvon** |
+| Xenophon, Xenobon, Zenovon, Xenovon, Xenomon, Cinnamon, Zenomon, Zenon, Zenotic, Zenovan, Xenovan, Xenowalt, Zalthir, Zalthamir, Zenbon, Xenobod, Zen Von, Xenobun, Xenoons, Zanoan, Zenmon, Zenoven, Zenvan, Zenobun, Zanvon, Zenvaughn, Zenvaum | **Zenvon** |
 | Zenoan | **Zenvon** (session 5: more ASR variant of the PC "Zenvon") |
 | Zanabon, Zenimon, Xenob | **Zenvon** (session 7: more ASR variants of the PC "Zenvon") |
 | Foreput, Forput, Forepaw | **Forepot** (surname of the PC Zenvon; canonical per GM ruling 2026-08-03 — every other spelling is a misspelling, including the one that was in `name_glossary.md`) |
-| Vera, Azvera, Rivera, Maya, Maia, Zerabira, Bera, Zira, Zvera, Vena, Farrah, Barah, Avera, Bayraz, Vaira | **Veyra** |
+| Vera, Azvera, Rivera, Maya, Maia, Zerabira, Bera, Zira, Zvera, Vena, Farrah, Barah, Avera, Bayraz, Vaira, Bayra, Deira, Beira | **Veyra** |
 | Sister Vera | **Veyra** (session 5: ASR gave Veyra the cleric's title. The applier sorts longest-first, so this beats the bare "Vera" row and yields "Veyra", not "Sister Veyra") |
-| Sister Mela, Mela, Mila, Myla, Mil, Myra, Nela, Mele, Sister Bela, Sister Meela, Sturmela, Sister Mele, Tell Sister Meila, Sister Neela, Sister Vayle, Sister Vela, Sister Maella, Sister Mala, Sister Merla, Stormylla, Sister Melis | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
+| Sister Mela, Myla, Mil, Myra, Mele, Sister Bela, Sister Meela, Sturmela, Sister Mele, Tell Sister Meila, Sister Neela, Sister Vayle, Sister Vela, Sister Maella, Sister Mala, Sister Merla, Stormylla, Sister Melis, Sister Camela, Sister Mail, Sister Mailer, Sister Melo, Sister Mila | **Sister Maela** (session 7: "Mila"/"Myla"/"Mil" also = Maela, the Turn-Undead cleric) |
 | sister male | **Sister Maela** (session 7: ASR split the name into two real words — safe because the two-word sequence never occurs legitimately) |
 | veera | **Veyra** (session 7: doubled-vowel variant, cf. the "Vera" row) |
 | Foreput | **Forepot** (session 8 rule REVERSED 2026-08-21: the D&D Beyond sheet spells the surname "Forepot", so the corpus was corrected to match and this row now runs the other way — it exists to undo the old rule's output in already-cleaned VTTs) |
-| Neela,Neila,Neera,Mayla | **Maela** (session 8) |
+| Neela, Neila, Neera, Mayla, Mela, Mila, Nela | **Maela** (session 8; bare "Mela" and "Mila"/"Nela" moved here 2026-09-05 on GM ruling — the Sister Maela row inserted a title into speech that said only "Mela". "Sister Mela" still maps to the titled form and wins on the applier's longest-first sort.) |
 
 ## NPCs and creatures
 
@@ -43,7 +43,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Glastaff | **Glasstaff** |
 | Darren Edermeth | **Daran Edermath** |
 | Oren Voss, Orrin Voss | **Orryn Voss** |
-| Ruth exceeds | **Ruxithid** (garbled whispered name in "You're not what Ruxithid wants") |
+| Ruth exceeds, Rook Sithid | **Ruxithid** (garbled whispered name in "You're not what Ruxithid wants") |
 | Soldar, Siddhar, Solgar, Syldar, Soldora, Sildur | **Sildar** (session 4: ASR garbles of "Sildar Hallwinter") |
 | Silar, Silvar | **Sildar** (session 4: ASR garbles of "Sildar" — verify vs. other names) |
 | Gundran, Gundrin, Gundrum, Gundrun, Gundrund, Wundren | **Gundren** (session 4: ASR garbles of "Gundren Rockseeker") |
@@ -67,7 +67,7 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Black Sparta, Black Jeff, Black Spire, Blackspur | **Black Spider** (Nezznar's known alias) |
 | Karimi, Redbrand Moravian, Redbrand Muffian, Redbrand muffin | **Redbrand Ruffian** |
 | Rhondar, Prandar, Rudar, Randar, Rondor, Brandar, Randa, Randor, Rhonda, Rondart, Rundar, Gundrid, Arnold, Brandor | **Rondar** |
-| Gnothic, Gnostic | **Nothic** |
+| Gnothic, Gnostic, Nautica | **Nothic** |
 | Orman, Bormann, Ormon, Urman | **Urmon** (session 6: "Urman" added 2026-08-01 — journal-author NPC) |
 | Dvarvish | **Dwarvish** |
 | Carbon Wester,Harbren Wester,Pardman Wester | **Harbin Wester** (session 5: ASR garbles of the townmaster's first name, correct surname retained) |
@@ -89,9 +89,14 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 | Sawplee (when it refers to Droop's clan) | **Scraptops** (session 8: 5etools `adventure-pabtso.json` R9 — "He is a member of the Scraptops, a goblin clan known for its scavenging and tinkering." Scraptops occurs exactly once in the module; Sawplee is Ruxithid's separate psionic-goblin faction, 29 occurrences. The DM said "Sawplee" at the table; this row repairs the clan, not the faction.) |
 | Sildar Hillipwinter | **Sildar Hallwinter** |
 | Sister Grail, Sister Garayel, Sister Grailie | **Sister Garaele** |
-| Amund Cost | **Hamun Kost** |
-| Harmon, Haman, Hammond | **Hamun** |
+| Amund Cost, Harum Kost, Zoom Kost, Among cost | **Hamun Kost** |
+| Harmon, Haman, Hammond, Hamon, Hot Moon | **Hamun** |
 | Carsus | **Karsus** |
+| Brugor, Brugort, Rukor | **Brughor** |
+| Axebiter | **Axe-Biter** |
+| Gawk | **Gog** |
+| Aldus Tressender, Elvis Tressendor | **Aldith Tresendar** |
+| Blackhawk | **Black Hawk** |
 
 ## Locations
 
@@ -99,25 +104,25 @@ Canonical spellings are verified against `docs/background/name_glossary.md` and 
 |---|---|
 | Tresender Manor, Tressander Manor, Tressender Manor, Tressendor Manor, Tressendur Manor, Tresander Manor, Trickndaw Manor, Trissinyr Manor, Tresenter Manor | **Tresendar Manor** |
 | Eldermath Orchard | **Edermath Orchard** |
-| Nethrel, Netherland, Netherlands | **Netheril** |
+| Nethrel, Netherland, Netherlands, Netheris | **Netheril** |
 | Tribor Trail, Triborg Trail | **Triboar Trail** (also matches "Tribor Trails" plural) |
-| Fandelin, Fandalin, Fandele, Fendolin, Panelin, Phanalyn, Fandeliever, Phandelin, Candolin, Pandathim, Fandal, Pandalam, Thanduil, Tangal, Tanglin, Fandalan, Bamburgh, Pandora, Vandaaram, Fandalyn, Fandland | **Phandalin** (session 4: ASR garbles of "Phandalin") |
+| Fandelin, Fandalin, Fandele, Fendolin, Panelin, Phanalyn, Fandeliever, Phandelin, Candolin, Pandathim, Fandal, Pandalam, Thanduil, Tangal, Tanglin, Fandalan, Bamburgh, Pandora, Vandaaram, Fandalyn, Fandland, Vandevan | **Phandalin** (session 4: ASR garbles of "Phandalin") |
 | Nevermember, Nevermber, Neverwin, Nightwinter, Never Never | **Neverwinter** (session 4: ASR garbles of "Neverwinter") |
-| Weiwe Vekov Cave, wake of Evoko Cave | **Wave Echo Cave** (session 4: "Vekov"/"Evoko" in cave context = ASR garble of "Echo", NOT the Glasstaff character Iarno — semantic disambiguation) |
+| Weiwe Vekov Cave, wake of Evoko Cave, Wave Eco Cave | **Wave Echo Cave** (session 4: "Vekov"/"Evoko" in cave context = ASR garble of "Echo", NOT the Glasstaff character Iarno — semantic disambiguation) |
 | Fandele Verpakt, Phandalin Verpakt | **Phandelver Pact** (session 4: ASR garbles of "Phandelver Pact") |
 | Kragmaw, Kragma, Kragmars | **Cragmaw** (session 4: "Kragmaw Hideout" = Cragmaw Hideout) |
 | Zentarim | **Zhentarim** (session 4: ASR garble of "Zhentarim") |
 | Tresander Crypts, Tresandar Crypts, Tresandar | **Tresendar Crypts** |
 | Phandelever | **Lost Mine of Phandelver** |
 | Town Master's Hall, Town Master Hall | **Townmaster's Hall** (session 5: spacing variant) |
-| Wyvern Tour, Raven Tower, Wyvernor, Torb, Weaventor, Wivorn, Wventh | **Wyvern Tor** (session 5: ASR garble of the Wyvern Tor quest location) |
+| Wyvern Tour, Raven Tower, Wyvernor, Torb, Weaventor, Wivorn, Wventh, Wavantar, Webentor, Wivor | **Wyvern Tor** (session 5: ASR garble of the Wyvern Tor quest location) |
 | Agathys Lair, Gotham's Lair | **Agatha's Lair** (session 8) |
-| Cragma Castle, Crack Maw Castle, Crag Maw Castle, Grasma Castle, Krogmall Castle, Kragmakasm | **Cragmaw Castle** (session 8) |
+| Cragma Castle, Crack Maw Castle, Crag Maw Castle, Grasma Castle, Krogmall Castle, Kragmakasm, Kragmakazel | **Cragmaw Castle** (session 8) |
 | Kragma Hideo | **Cragmaw Hideout** (session 8) |
 | Midas exchange, Miners Exchange | **Miner's Exchange** (session 8) |
 | Stone Hill Inn, Stonehill Tavern | **Stonehill Inn** (session 8) |
 | The Crag Mars | **The Cragmaw** (session 8) |
-| Casinder,Crescendar | **Tresendar** (session 8) |
+| Casinder, Crescendar, Crescenter | **Tresendar** (session 8) |
 | Coneybury, Connie Berry, Coney Berry, Connberry | **Conyberry** |
 | Old Alvwell, Old Dwell Hall, Oldwell Owl, Old Abel | **Old Owl Well** |
 | Netherbese Empire, Netherreese Empire | **Netherese Empire** |

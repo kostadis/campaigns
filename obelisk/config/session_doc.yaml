@@ -1,7 +1,7 @@
 paths:
-  session_recap: session_2026_08_21_chapter_10_the_wizard_of_the_old_owl_well.md
+  session_recap: gm-assist.md
   session_summary: session_summary.md
-  scene_extractions_dir: scene_extractions
+  scene_extractions_dir: scene_extractions_new
   narration_dir: narration
   output_dir: null
   party: docs/party.md
@@ -9,11 +9,12 @@ paths:
   examples_dir: examples
   genre_file: null
 extract:
-  tokens: 32000
+  tokens: 70000
   batch_scenes: null
-  batch_tokens: 32000
+  batch_tokens: 70000
 narrate:
-  tokens: 3200
+  tokens: 70000
+  batch_tokens: 70000
   prose_mode: true
   reflections: true
   context: []
@@ -57,9 +58,9 @@ backends:
     endpoint: null
   codex-cli:
     backend: anthropic
-    model: null
+    model: gpt-5.6-sol
     batch: null
-    codex_reasoning_effort: null
+    codex_reasoning_effort: medium
     claude_code_effort: null
     claude_code_thinking: null
     endpoint: null
@@ -86,4 +87,12 @@ profiles:
     reflections: true
     narration_genre_file: ''
     backend: codex-cli
-active_profile: '010'
+- name: '011'
+  knobs:
+    narrate_tokens: 70000
+    narrate_batch_tokens: 70000
+    prose_mode: true
+    reflections: true
+    narration_genre_file: ''
+    backend: codex-cli
+active_profile: '011'

@@ -1,0 +1,184 @@
+voice_smooth:
+  session: summaries/011-20260904
+  status: READY
+  source_directory: summaries/011-20260904/scene_extractions_new
+  output_directory: summaries/011-20260904/scene_extractions_smoothed
+  source_scenes: 7
+  source_quotes: 1015
+  drafted_scenes: 7
+  drafted_quotes: 966
+  review_queue: summaries/011-20260904/voice_smooth_review_queue.md
+  decision_record: summaries/011-20260904/voice_smooth_decisions.json
+  ready_for_session_doc: true
+  downstream_no_mech:
+    status: COMPLETE
+    applied_on: "2026-09-06"
+    manifest: summaries/011-20260904/narration/no_mech_manifest_011-20260904.md
+    current_scanner_quotes: 491
+    current_markdown_quote_blocks: 557
+    note: >-
+      The voice-smooth counts below are the pre-no-mech baseline. The derived
+      smoothed layer now includes the GM-approved no-mech cuts.
+  immutable_sources:
+    - "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+    - summaries/011-20260904/scene_extractions_new
+  voice_resolution:
+    config: config/party.yaml
+    resolver: CampaignGenerator campaignlib.party_config.resolve_party_config
+    declared:
+      Zenvon Forepot: voice/zenvon_voice.md
+      Veyra of the Blue Candle: voice/veyra_voice.md
+      Sister Maela Dawnforge: voice/maela_voice.md
+      Pip Thistlewick: voice/pip_voice.md
+    exact_scene_speakers:
+      - GM
+      - Zenvon Forepot
+    expected_unknown_narrators:
+      - GM
+    problems: []
+    genre_file: null
+    genre_note: voice/_genre.md is not present.
+  npc_characterization_sources:
+    - notes/session_prep/20260904_chapter_10_the_wizard_of_the_old_owl_well.md
+    - notes/hamun_kost_strategy.md
+  player_name_policy:
+    status: NO_REPLACEMENTS_NEEDED
+    note: >-
+      No player real names occur in the seven scene summaries or exact outer
+      speaker labels. The source already uses Zenvon Forepot and GM.
+  transcripts:
+    groups:
+      - id: zoom_lineage
+        files:
+          - "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).vtt"
+          - "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+        note: Same Zoom cue lineage; different hashes because the cleaned copy applies canonical substitutions.
+      - id: independent_asr
+        files:
+          - summaries/011-20260904/session_2026_09_05_chapter_11_look_who_came_to_dinner_transcript.vtt
+        note: Independently segmented ASR without speaker labels.
+    byte_identical_files: []
+  whole_set_survey:
+    cross_scene_duplication:
+      status: NONE
+      note: >-
+        Exact overlaps are generic short replies such as Okay, Yep, Yeah, Hmm,
+        Yes, Alright, and PIP. No duplicated content block or boundary defect
+        was found.
+    fused_speaker_headers:
+      status: NONE_FOUND
+    knowledge_boundaries:
+      status: NONE_IDENTIFIED_IN_CALIBRATION_SCENE
+    attribution_repairs:
+      status: NONE_APPLIED
+  calibration:
+    status: APPROVED
+    approved_by: GM
+    approved_on: "2026-09-06"
+    approval_message: continue
+    scene: summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md
+    policy_proposed:
+      - Punctuate and capitalize without changing meaning.
+      - Collapse recorder false starts and filler that does not carry voice.
+      - Make minimal, unambiguous grammar repairs that do not alter facts, attribution, numbers, mechanics, or intent.
+      - Preserve Zenvon's doubled acknowledgements, mid-sentence like, formal wording, and non-idiomatic but comprehensible constructions.
+      - Split unmistakable GM stage direction from NPC speech while preserving the outer GM label.
+      - Keep ambiguous or transcript-disputed words verbatim until an item-level ruling.
+    tooling_cut_scope: APPROVED_SESSION_WIDE
+    substantive_items:
+      - id: VS3-01
+        status: APPROVED
+        source: "Aye… cannot see in the dark, right? Or can I see in the dark?"
+        proposed: "I cannot see in the dark, right? Or can I see in the dark?"
+        evidence: The independent transcript reads "I cannot"; both Zoom-lineage files read "Aye… cannot".
+      - id: VS3-02
+        status: APPROVED
+        source: "Alright, so as you look around, a role… role in investigation."
+        proposed: "Alright, so as you look around, roll… roll an Investigation check."
+        evidence: Both lineages preserve the garble; the adjacent check resolution and extraction context settle its mechanical function.
+      - id: VS3-03
+        status: APPROVED
+        source: "My experience is with these kind of groups, and not with these kind of groups, but in the army, if you kill the leader in this kind of group, it's kind of a mob, it's kind of a gang. If you kill the gang boss, everybody else suddenly doesn't want to fight anymore."
+        proposed: "My experience is not with these kinds of groups, but in the army, if you kill the leader in this kind of group—it's kind of a mob, kind of a gang—if you kill the gang boss, everybody else suddenly doesn't want to fight anymore."
+        evidence: Both transcript lineages preserve the contradictory opening; the latter self-correction and rest of the explanation support the proposed false-start collapse.
+  verdicts:
+    approve: 26
+    revert: 0
+    discuss: 0
+    undecided: 0
+    note: The GM approved all 21 batch word rulings in addition to the five calibration and scope rulings.
+  garble_rulings_by_scene:
+    01_arrival_at_wyvern_tor: {approved: 1, kept: 0, undecided: 0}
+    02_ambush_at_the_ravine: {approved: 3, kept: 0, undecided: 0}
+    03_scouting_the_cave:
+      approved: 3
+      kept: 0
+      undecided: 0
+    04_the_ambush_inside_the_cave: {approved: 5, kept: 0, undecided: 0}
+    05_the_battle_against_gog: {approved: 3, kept: 0, undecided: 0}
+    06_secrets_in_the_charcoal_and_looting_the_cave: {approved: 4, kept: 0, undecided: 0}
+    07_dinner_with_the_red_wizard: {approved: 5, kept: 0, undecided: 0}
+  scope_rulings:
+    duplicate_boundaries: NONE_NEEDED
+    tooling_cuts: APPROVED_SESSION_WIDE
+    player_name_policy: NO_REPLACEMENTS_NEEDED
+    attribution_repairs: NONE_APPLIED
+    knowledge_boundaries: NONE_IDENTIFIED_IN_CALIBRATION_SCENE
+  deliberately_kept_garbles:
+    - {scene: 01_arrival_at_wyvern_tor, text: "sneak phone", reason: "Approved upstream treatment: next cue settles Stealth; do not narrate the garble."}
+    - {scene: 02_ambush_at_the_ravine, text: "second toy", reason: "Both ASR passes incomplete; surrounding exchange settles only a request for another attack."}
+    - {scene: 03_scouting_the_cave, text: "pitch-black", reason: "Contradicts the immediately preceding firelight ruling; retained with a do-not-treat-as-new-ruling note."}
+    - {scene: 06_secrets_in_the_charcoal_and_looting_the_cave, text: "football too long", reason: "Both ASR passes unrecoverable; do not narrate."}
+  glossary_rows_written: []
+  registry_glossary_conflicts: []
+  structural_audit:
+    status: PASSED
+    source_files_untouched: true
+    drafted_files_with_verbatim_heading: 0
+    drafted_files_with_voiced_heading: 7
+    drafted_files_with_voice_smoothed_source: 7
+    drafted_from_targets_existing: 7
+    fused_headers_introduced: 0
+    orphaned_quotes_introduced: 0
+    retained_quotes: 966
+    retained_speaker_headers: 966
+    removed_turns: 49
+    removed_quote_blocks: 49
+  scene_metrics:
+    01_arrival_at_wyvern_tor: {quotes: 159, stage_direction_splits: 4, truncations_retained: 24, tooling_cut_events: 1, false_start_cut_events: 1}
+    02_ambush_at_the_ravine: {quotes: 105, stage_direction_splits: 12, truncations_retained: 8, tooling_cut_events: 2, false_start_cut_events: 0}
+    03_scouting_the_cave: {quotes: 48, stage_direction_splits: 4, truncations_retained: 7, tooling_cut_events: 1, false_start_cut_events: 0}
+    04_the_ambush_inside_the_cave: {quotes: 155, stage_direction_splits: 3, truncations_retained: 10, tooling_cut_events: 2, false_start_cut_events: 0}
+    05_the_battle_against_gog: {quotes: 171, stage_direction_splits: 15, truncations_retained: 17, tooling_cut_events: 8, false_start_cut_events: 0}
+    06_secrets_in_the_charcoal_and_looting_the_cave: {quotes: 117, stage_direction_splits: 16, truncations_retained: 11, tooling_cut_events: 2, false_start_cut_events: 0}
+    07_dinner_with_the_red_wizard: {quotes: 211, stage_direction_splits: 12, truncations_retained: 30, tooling_cut_events: 4, false_start_cut_events: 0}
+  tooling_cuts:
+    - {scene: 01_arrival_at_wyvern_tor, removed_quote_blocks: 1, description: "map-position click instruction"}
+    - {scene: 02_ambush_at_the_ravine, removed_quote_blocks: 1, description: "roll-control click and an in-turn character-sheet aside"}
+    - {scene: 03_scouting_the_cave, removed_quote_blocks: 1, description: "token-control remark"}
+    - {scene: 04_the_ambush_inside_the_cave, removed_quote_blocks: 1, description: "Roll20 damage control plus an in-turn Roll20 fragment"}
+    - {scene: 05_the_battle_against_gog, removed_quote_blocks: 33, description: "screen sharing, sheet navigation, damage-button troubleshooting, one household interruption, and health-bar/control fragments"}
+    - {scene: 06_secrets_in_the_charcoal_and_looting_the_cave, removed_quote_blocks: 4, description: "map-token placement and Discord-posting remark"}
+    - {scene: 07_dinner_with_the_red_wizard, removed_quote_blocks: 7, description: "sheet-control navigation and linked HTML reference, including an in-turn spell-control fragment"}
+  false_start_cuts:
+    - {scene: 01_arrival_at_wyvern_tor, removed_quote_blocks: 1, description: "incomplete GM reset with no scene information"}
+  delta_audit:
+    status: PASSED
+    note: >-
+      Routine deltas fit the approved punctuation, filler, false-start, grammar,
+      stage-direction, and tooling-cut policy. All 21 substantive candidates map
+      to approved decisions. The 48 removed tooling quote blocks and one removed
+      no-content false start match the 49-block delta; in-turn interface fragments
+      are recorded locally and do not affect that count. No unexplained delta
+      remains.
+  unresolved_findings: []
+  upstream_defects: []
+  carry_forward:
+    - status: DONE
+      item: Calibration policy and VS3-01 through VS3-03 were approved by the GM.
+    - status: DONE
+      item: Pure VTT controls and interface logistics may be cut session-wide, with every cut recorded.
+    - status: DONE
+      item: The remaining six scenes were drafted and structurally audited.
+    - status: DONE
+      item: All 21 items in voice_smooth_review_queue.md were approved and applied.

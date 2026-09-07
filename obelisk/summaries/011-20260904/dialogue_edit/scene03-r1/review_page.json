@@ -1,0 +1,16 @@
+{
+  "title": "Scene 03 — Zenvon Forepot",
+  "reviewId": "dialogue-edit:d523ab5a03291217ab2365ebb53872b3a2b30b6e83c4ca0f0db9dd01e8863ce0",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s03-01",
+      "t": "s03-01: Render the source&#x27;s broken-off &#x27;but that&#x27;s—&#x27; as a self-correction instead of an accidental contradiction.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.md:45</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene03-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>Well, you make a point, but that&#x27;s pretty valid.</pre><p>After</p><pre>Well, you make a point—that&#x27;s pretty valid.</pre><p>Surrounding draft</p><pre>Four bugbears drove us out before. This cave has four bugbears, an ogre, and the orc who has somehow made all of them listen.\n\n“Well, you make a point, but that&#x27;s pretty valid. So, what do you suggest? Do you suggest to kill the orc from this far, or do you wanna confront him? Because if we confront him, like, he&#x27;s gonna… how about if he alerts the bugbears and the ogre?”\n\nSister Maela looks carefully past us into the cave.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md:104</code></p><pre>&quot;Well, you make a point, but that&#x27;s—&quot;</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md:107</code></p><pre>&quot;Pretty valid. So, what do you suggest? Do you suggest to kill the orc?&quot;</pre>"
+    }
+  ]
+}

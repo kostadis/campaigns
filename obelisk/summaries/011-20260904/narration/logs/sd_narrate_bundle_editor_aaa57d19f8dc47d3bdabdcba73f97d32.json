@@ -1,0 +1,127 @@
+{
+  "version": 1,
+  "run_id": "sd_narrate_bundle_editor_aaa57d19f8dc47d3bdabdcba73f97d32",
+  "mode": "bundle",
+  "status": "success",
+  "exit_code": 0,
+  "backend": "codex-cli",
+  "model": "gpt-5.6-sol",
+  "provider_batch": false,
+  "exchange_count": 1,
+  "projected_output_tokens": 46974,
+  "bundle_ceiling": 70000,
+  "requested": [
+    {
+      "index": 1,
+      "scene_name": "Arrival at Wyvern Tor",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.md",
+      "source_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md",
+      "source_kind": "override",
+      "output_existed": false
+    },
+    {
+      "index": 2,
+      "scene_name": "Ambush at the Ravine",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_02_ambush_at_the_ravine.md",
+      "source_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/02_ambush_at_the_ravine.md",
+      "source_kind": "override",
+      "output_existed": false
+    },
+    {
+      "index": 3,
+      "scene_name": "Scouting the Cave",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.md",
+      "source_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md",
+      "source_kind": "override",
+      "output_existed": false
+    },
+    {
+      "index": 4,
+      "scene_name": "Ambush Inside the Cave",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md",
+      "source_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/04_the_ambush_inside_the_cave.md",
+      "source_kind": "override",
+      "output_existed": false
+    },
+    {
+      "index": 5,
+      "scene_name": "Battle Against Gog",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md",
+      "source_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/05_the_battle_against_gog.md",
+      "source_kind": "override",
+      "output_existed": false
+    },
+    {
+      "index": 6,
+      "scene_name": "Charcoal Secrets and Spoils",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_06_charcoal_secrets_and_spoils.md",
+      "source_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md",
+      "source_kind": "override",
+      "output_existed": false
+    },
+    {
+      "index": 7,
+      "scene_name": "Dinner with the Red Wizard",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+      "source_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+      "source_kind": "override",
+      "output_existed": false
+    }
+  ],
+  "replaced": [],
+  "written": [
+    {
+      "index": 1,
+      "scene_name": "Arrival at Wyvern Tor",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.md"
+    },
+    {
+      "index": 2,
+      "scene_name": "Ambush at the Ravine",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_02_ambush_at_the_ravine.md"
+    },
+    {
+      "index": 3,
+      "scene_name": "Scouting the Cave",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.md"
+    },
+    {
+      "index": 4,
+      "scene_name": "Ambush Inside the Cave",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md"
+    },
+    {
+      "index": 5,
+      "scene_name": "Battle Against Gog",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md"
+    },
+    {
+      "index": 6,
+      "scene_name": "Charcoal Secrets and Spoils",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_06_charcoal_secrets_and_spoils.md"
+    },
+    {
+      "index": 7,
+      "scene_name": "Dinner with the Red Wizard",
+      "narrator": "Zenvon Forepot",
+      "output_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md"
+    }
+  ],
+  "missing": [],
+  "rejected": [],
+  "message": "Wrote 7 of 7 selected narration scenes.",
+  "report_path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/logs/sd_narrate_bundle_editor_aaa57d19f8dc47d3bdabdcba73f97d32.json"
+}

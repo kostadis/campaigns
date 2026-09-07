@@ -1,0 +1,16 @@
+{
+  "title": "Scene 04 — Zenvon Forepot",
+  "reviewId": "dialogue-edit:10cc38e4708cafe561d22e1257622e48a264f37927bdd907876ffe1a43f0cf61",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s04-01",
+      "t": "s04-01: Restore the question established by the extraction&#x27;s stage direction; the following narration supplies the answer.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md:49</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“So, all of them, including the ogre.”</pre><p>After</p><pre>“So, all of them, including the ogre?”</pre><p>Surrounding draft</p><pre>They have. All four watched their boss die. The calculation Pip described is happening in front of us. The bugbears look toward the exit. Gog looks toward us.\n\n“So, all of them, including the ogre.”\n\nThe bugbears want out. The ogre wants to kill us. I cannot find anything more complicated in their faces than that.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/04_the_ambush_inside_the_cave.md:98</code></p><pre>**Zenvon Forepot** — *asking whether Gog also noticed*</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/04_the_ambush_inside_the_cave.md:99</code></p><pre>&quot;So, all of them, including the ogre.&quot;</pre>"
+    }
+  ]
+}

@@ -110,3 +110,31 @@ is not "is this out of character" but "does cutting it cost a beat".
 **A GM prompt that sets up a character beat is KEPT even though it is mechanically
 shaped.** Ch10 sc08: *"Do you want to tell her anything, or just look at her
 knowingly?"* produced the best moment in the scene.
+
+## Chapter 11 no-mech rulings (session 011, 2026-09-06)
+
+### Speaker-label signal is dead by campaign convention
+
+Across all seven Chapter 11 scenes, NPC dialogue remains under the `GM` outer
+label. The useful identity signal is the italic direction (`as Hamun Kost`, `as
+Pip`, and similar), not a distinct NPC speaker label. Future `/no-mech` runs
+must never treat `GM` as evidence that a quote is mechanical; classify from the
+direction and the full exchange.
+
+### Session-specific scope rulings
+
+- Cut roll calls and numeric roll reports, initiative and damage arithmetic,
+  rules lookups and tutorials, character-sheet/VTT operation, level-up and
+  spell-selection administration, and session scheduling. Preserve the
+  fictional outcome and any character beat that follows.
+- Preserve exploration and encounter prompts when they set up an actual choice
+  or character response.
+- Preserve the pike/bike misunderstanding, praise for the clever illusion plan,
+  and the “one glorious point of damage” exchange as table texture.
+- Cut the unresolved “second toy” request, the Maela missed-roll exchange,
+  “Rolling for attack,” “Almighty God, Master,” and the closing “this was fun”
+  exchange. These are exact Chapter 11 rulings, not a blanket rule that all
+  player reactions should be cut.
+- Keep the Sildar/Ruxithid recollection and the explicit clarification that
+  Veyra's blue crystal was not disclosed to Hamun. Though delivered partly as
+  table clarification, both protect current-story knowledge boundaries.

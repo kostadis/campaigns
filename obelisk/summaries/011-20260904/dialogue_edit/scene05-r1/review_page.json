@@ -1,0 +1,16 @@
+{
+  "title": "Scene 05 — Zenvon Forepot",
+  "reviewId": "dialogue-edit:1198b266c120b0eef05816b92a99dbe413976d2fe2e08e554f98361dc0930a4b",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s05-01",
+      "t": "s05-01: Clarify the broken question without polishing the surrounding cadence; the extraction explicitly says Zenvon is asking why the raiders have been troubling Hamun.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md:45</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene05-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>like, why are we doing, and do you know anything about Hamun Kost?</pre><p>After</p><pre>like, why are you doing this, and do you know anything about Hamun Kost?</pre><p>Surrounding draft</p><pre>I hold my weapons ready and step close enough to make him focus on me.\n\n“Gog, yes, yes. Hey, Gog, listen. We did not intend to hurt you or your boss, but we had to help our friend Hamun Kost. Like, and also protect the land from all the, you know, threats and the robberies that you guys have been doing. I just wanted to know before, you know, we finished the business, like, why are we doing, and do you know anything about Hamun Kost? Tell us what has happened in the past.”\n\nGog looks at me.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/05_the_battle_against_gog.md:23</code></p><pre>- Zenvon pauses to question Gog, explaining their work for Hamun Kost and asking why the raiders had been troubling him.</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/05_the_battle_against_gog.md:186</code></p><pre>&quot;Okay, so why have you been bothering…? *Gog looks at you.*&quot;</pre>"
+    }
+  ]
+}

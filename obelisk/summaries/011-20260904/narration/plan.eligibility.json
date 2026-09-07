@@ -1,0 +1,216 @@
+{
+  "vtt": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt",
+  "attendance": {
+    "Kostadis Roussos": {
+      "present": true,
+      "matched_label": "Kostadis Roussos"
+    },
+    "Nikhil Reddy": {
+      "present": true,
+      "matched_label": "Nikhil"
+    }
+  },
+  "pool": [
+    "Pip Thistlewick",
+    "Sister Maela Dawnforge",
+    "Veyra of the Blue Candle",
+    "Zenvon Forepot"
+  ],
+  "undetermined": [],
+  "scenes": [
+    {
+      "index": 0,
+      "name": "Arrival at Wyvern Tor",
+      "eligible": [
+        "Zenvon Forepot"
+      ],
+      "line_counts": {
+        "Zenvon Forepot": 80
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 1,
+      "name": "Ambush at the Ravine",
+      "eligible": [
+        "Zenvon Forepot"
+      ],
+      "line_counts": {
+        "Zenvon Forepot": 40
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 2,
+      "name": "Scouting the Cave",
+      "eligible": [
+        "Zenvon Forepot"
+      ],
+      "line_counts": {
+        "Zenvon Forepot": 20
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 3,
+      "name": "The Ambush Inside the Cave",
+      "eligible": [
+        "Zenvon Forepot"
+      ],
+      "line_counts": {
+        "Zenvon Forepot": 68
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 4,
+      "name": "The Battle Against Gog",
+      "eligible": [
+        "Zenvon Forepot"
+      ],
+      "line_counts": {
+        "Zenvon Forepot": 84
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 5,
+      "name": "Secrets in the Charcoal and Looting the Cave",
+      "eligible": [
+        "Zenvon Forepot"
+      ],
+      "line_counts": {
+        "Zenvon Forepot": 58
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    },
+    {
+      "index": 6,
+      "name": "Dinner with the Red Wizard",
+      "eligible": [
+        "Zenvon Forepot"
+      ],
+      "line_counts": {
+        "Zenvon Forepot": 93
+      },
+      "uncoverable": false,
+      "unresolved_labels": []
+    }
+  ],
+  "exclusions": {
+    "absent_players": [],
+    "not_in_scene": [
+      {
+        "character": "Pip Thistlewick",
+        "scene": "Arrival at Wyvern Tor",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Sister Maela Dawnforge",
+        "scene": "Arrival at Wyvern Tor",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Veyra of the Blue Candle",
+        "scene": "Arrival at Wyvern Tor",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Pip Thistlewick",
+        "scene": "Ambush at the Ravine",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Sister Maela Dawnforge",
+        "scene": "Ambush at the Ravine",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Veyra of the Blue Candle",
+        "scene": "Ambush at the Ravine",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Pip Thistlewick",
+        "scene": "Scouting the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Sister Maela Dawnforge",
+        "scene": "Scouting the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Veyra of the Blue Candle",
+        "scene": "Scouting the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Pip Thistlewick",
+        "scene": "The Ambush Inside the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Sister Maela Dawnforge",
+        "scene": "The Ambush Inside the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Veyra of the Blue Candle",
+        "scene": "The Ambush Inside the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Pip Thistlewick",
+        "scene": "The Battle Against Gog",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Sister Maela Dawnforge",
+        "scene": "The Battle Against Gog",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Veyra of the Blue Candle",
+        "scene": "The Battle Against Gog",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Pip Thistlewick",
+        "scene": "Secrets in the Charcoal and Looting the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Sister Maela Dawnforge",
+        "scene": "Secrets in the Charcoal and Looting the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Veyra of the Blue Candle",
+        "scene": "Secrets in the Charcoal and Looting the Cave",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Pip Thistlewick",
+        "scene": "Dinner with the Red Wizard",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Sister Maela Dawnforge",
+        "scene": "Dinner with the Red Wizard",
+        "reason": "no speaker label in this scene"
+      },
+      {
+        "character": "Veyra of the Blue Candle",
+        "scene": "Dinner with the Red Wizard",
+        "reason": "no speaker label in this scene"
+      }
+    ]
+  }
+}

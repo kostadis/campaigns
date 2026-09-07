@@ -1,0 +1,478 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "voice-critic:011-20260904:all-scenes-r1",
+  "status": "promoted_referrals_pending",
+  "narration_changed": true,
+  "model": "not observable",
+  "effort": "not observable",
+  "selected": [
+    {
+      "scene": 1,
+      "path": "summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md",
+      "sha256": "544744a72fecd27c9feb6c0887fd132b3dd576b80e4a3c4e260b71e3e4f08907",
+      "source": "summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md",
+      "narrator": "Zenvon Forepot",
+      "prose_words": 436,
+      "speech_words": 314,
+      "total_words": 750,
+      "prose_share": 58.1,
+      "prose_em_dashes": 2,
+      "speech_em_dashes": 1,
+      "trailing_speech_em_dashes": 0
+    },
+    {
+      "scene": 2,
+      "path": "summaries/011-20260904/narration/session_doc_scene_02_ambush_at_the_ravine.md",
+      "sha256": "997bb90117b6ee2bbb986a9ea2cd92265391577a19f9ce8311f9a96be3bc2c81",
+      "source": "summaries/011-20260904/scene_extractions_smoothed/02_ambush_at_the_ravine.md",
+      "narrator": "Zenvon Forepot",
+      "prose_words": 345,
+      "speech_words": 211,
+      "total_words": 556,
+      "prose_share": 62.1,
+      "prose_em_dashes": 0,
+      "speech_em_dashes": 2,
+      "trailing_speech_em_dashes": 0
+    },
+    {
+      "scene": 3,
+      "path": "summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.md",
+      "sha256": "b4236250e96a3ec6df3ac8c53e0363c2d9fd89a510264d82c8cb497fef264db3",
+      "source": "summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md",
+      "narrator": "Zenvon Forepot",
+      "prose_words": 181,
+      "speech_words": 302,
+      "total_words": 483,
+      "prose_share": 37.5,
+      "prose_em_dashes": 1,
+      "speech_em_dashes": 3,
+      "trailing_speech_em_dashes": 0
+    },
+    {
+      "scene": 4,
+      "path": "summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md",
+      "sha256": "77cc6229ff982e54115946cebc980e00a83ab7766070a80ca3e286141d21eeea",
+      "source": "summaries/011-20260904/scene_extractions_smoothed/04_the_ambush_inside_the_cave.md",
+      "narrator": "Zenvon Forepot",
+      "prose_words": 431,
+      "speech_words": 98,
+      "total_words": 529,
+      "prose_share": 81.5,
+      "prose_em_dashes": 0,
+      "speech_em_dashes": 0,
+      "trailing_speech_em_dashes": 0
+    },
+    {
+      "scene": 5,
+      "path": "summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md",
+      "sha256": "8d078530bed9e8ccc610a3ec6e0c8d650f84d06d1834b697847044cb00c820ef",
+      "source": "summaries/011-20260904/scene_extractions_smoothed/05_the_battle_against_gog.md",
+      "narrator": "Zenvon Forepot",
+      "prose_words": 393,
+      "speech_words": 271,
+      "total_words": 664,
+      "prose_share": 59.2,
+      "prose_em_dashes": 0,
+      "speech_em_dashes": 0,
+      "trailing_speech_em_dashes": 0
+    },
+    {
+      "scene": 6,
+      "path": "summaries/011-20260904/narration/session_doc_scene_06_charcoal_secrets_and_spoils.md",
+      "sha256": "ee4ca4d45e6259e6459a0048a5772653c71f8e8cb37d6238561221efe7f13dfb",
+      "source": "summaries/011-20260904/scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md",
+      "narrator": "Zenvon Forepot",
+      "prose_words": 425,
+      "speech_words": 437,
+      "total_words": 862,
+      "prose_share": 49.3,
+      "prose_em_dashes": 0,
+      "speech_em_dashes": 1,
+      "trailing_speech_em_dashes": 0
+    },
+    {
+      "scene": 7,
+      "path": "summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+      "sha256": "4ff814a3a92cc7769554985af5490dcc33f2bb8a378e64fbdc0dbe90ff91ee26",
+      "source": "summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+      "narrator": "Zenvon Forepot",
+      "prose_words": 511,
+      "speech_words": 573,
+      "total_words": 1084,
+      "prose_share": 47.1,
+      "prose_em_dashes": 0,
+      "speech_em_dashes": 1,
+      "trailing_speech_em_dashes": 0
+    }
+  ],
+  "references": {
+    "/home/kostadis/obelisk/obelisk/config/party.yaml": {
+      "sha256": "a183a931ce47236b8fcf419b7a1be1bad9457159c78a377f3ce275c76a373a48",
+      "lines": 16,
+      "characters": 431
+    },
+    "/home/kostadis/obelisk/obelisk/config/players.yaml": {
+      "sha256": "82d294f754794a27d9fa5a4fee909de606c1e7e94023749326abb20c8a5b64bf",
+      "lines": 19,
+      "characters": 336
+    },
+    "/home/kostadis/obelisk/obelisk/config/session_doc.yaml": {
+      "sha256": "068a721cd0f573bd444224a8ab6b5c286a0c59f865c91cdbd565c87bf31780f0",
+      "lines": 98,
+      "characters": 2121
+    },
+    "/home/kostadis/obelisk/obelisk/docs/party.md": {
+      "sha256": "3d3e410aab9b8ddfaa7c371ca303ea21ea0e89581247dd2e691ded9fa18ea5da",
+      "lines": 80,
+      "characters": 16684
+    },
+    "/home/kostadis/obelisk/obelisk/notes/scrub_register_policy.md": {
+      "sha256": "4a8182c42df7e55816971a0b28eb4c47cdd73d31a5025c2a6cbb9af8f923d7d0",
+      "lines": 140,
+      "characters": 7429
+    },
+    "/home/kostadis/obelisk/obelisk/voice/veyra_voice.md": {
+      "sha256": "e8e107898ca80fb7ed03484d661eaa09c9d074850d281223f33288d8bb59f017",
+      "lines": 33,
+      "characters": 1919
+    },
+    "/home/kostadis/obelisk/obelisk/voice/maela_voice.md": {
+      "sha256": "dc77ea3494c1a5fd27355f5c4cb216104033f62e6feb4a31bbb048fdf3b943cd",
+      "lines": 32,
+      "characters": 1589
+    },
+    "/home/kostadis/obelisk/obelisk/voice/zenvon_voice.md": {
+      "sha256": "9b3df35208700418e2339d5da7329dddc74f5033ce4d3a10da1520f35dfbe7d6",
+      "lines": 125,
+      "characters": 10651
+    },
+    "/home/kostadis/obelisk/obelisk/voice/pip_voice.md": {
+      "sha256": "f24da3244a16cc7e7aa107277a7b0d59bbdc2ccbe25702eb2fc553f79d3179ba",
+      "lines": 31,
+      "characters": 1607
+    },
+    "/home/kostadis/obelisk/obelisk/examples/zenvon.md": {
+      "sha256": "3af6ca8818533c4b09621a7cab8c6051b65b4669f8c5b32f847ecc73676c5169",
+      "lines": 124,
+      "characters": 3352
+    },
+    "/home/kostadis/obelisk/obelisk/examples/house_style.md": {
+      "sha256": "0d3c5ea458d1e1cc974656dec09447ba9d997975fa72dfea1144f421b8a2f567",
+      "lines": 192,
+      "characters": 6036
+    },
+    "/home/kostadis/src/CampaignGenerator/session_doc/voice.py": {
+      "sha256": "2d7137273ce6019d43e1f7f0a2015e1e76cec700614b8c1d96a800e03330d32b",
+      "lines": 192,
+      "characters": 7981
+    },
+    "/home/kostadis/src/CampaignGenerator/session_doc/examples.py": {
+      "sha256": "bbd5e5dc467d557ba3ff6c19f777449f368fb82f06cab4fd4dfe0128d0d5c04a",
+      "lines": 135,
+      "characters": 5835
+    },
+    "/home/kostadis/src/CampaignGenerator/session_doc/voice_lint.py": {
+      "sha256": "989fcb472bd5f9fff85cdbd8d7842b02e785d5993c9e5212dc017214f3ec6369",
+      "lines": 449,
+      "characters": 19927
+    },
+    "/home/kostadis/src/CampaignGenerator/config/agents/session_doc/narrate/base.md": {
+      "sha256": "423bac27f43b492207a4d293415cd86f8c4ce4bfdfdc91beac63b31fe661787e",
+      "lines": 20,
+      "characters": 821
+    },
+    "/home/kostadis/src/CampaignGenerator/config/agents/session_doc/narrate/writing_brief.md": {
+      "sha256": "b5f37b79f04bc52d913947e1f75500debe5b8ef4bdf96a41548ed950d543f5dc",
+      "lines": 15,
+      "characters": 3944
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit.sources.yaml": {
+      "sha256": "7728cfdb671e26fb73dc3bd99c20f05dc5d5a58da3668f6417828aadab20a37c",
+      "lines": 169,
+      "characters": 7059
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/logs/sd_narrate_bundle_editor_aaa57d19f8dc47d3bdabdcba73f97d32.json": {
+      "sha256": "dd332e91d7f89c9766ffeb03b2b6dc8be68c937fdedda6ff9861f6b7b39d5acc",
+      "lines": 127,
+      "characters": 5473
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/approved-r1/application.json": {
+      "sha256": "18705bc6ae00d3a6e2d81f28952e0f20e57b86ce3e7bc2e17705eca17488e710",
+      "lines": 26,
+      "characters": 811
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene01-r1/applied/approved-r1/scene.md": {
+      "sha256": "544744a72fecd27c9feb6c0887fd132b3dd576b80e4a3c4e260b71e3e4f08907",
+      "lines": 69,
+      "characters": 4051
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md": {
+      "sha256": "f373edfadf3284357e848af0433b49b577e9b1e4e6c2a70b3c8264bcb5a8180b",
+      "lines": 338,
+      "characters": 12819
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_01_arrival_at_wyvern_tor.knobs.json": {
+      "sha256": "cade62e68cd0fc49a258e012cfbe88f05d872e1fd8986abbe4b0c8a69646bd9b",
+      "lines": 17,
+      "characters": 377
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/02_ambush_at_the_ravine.md": {
+      "sha256": "59381e3c6b06e66810a170f5f5a9bb69f05c273fd71fb2d06585b2031aada3aa",
+      "lines": 214,
+      "characters": 7626
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_02_ambush_at_the_ravine.knobs.json": {
+      "sha256": "cade62e68cd0fc49a258e012cfbe88f05d872e1fd8986abbe4b0c8a69646bd9b",
+      "lines": 17,
+      "characters": 377
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene03-r1/applied/approved-r1/application.json": {
+      "sha256": "9de059be075d184e49089f2a90c2f5b048eeea821fafe3b0cfd2644c35322679",
+      "lines": 22,
+      "characters": 729
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene03-r1/applied/approved-r1/scene.md": {
+      "sha256": "b4236250e96a3ec6df3ac8c53e0363c2d9fd89a510264d82c8cb497fef264db3",
+      "lines": 49,
+      "characters": 2713
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/03_scouting_the_cave.md": {
+      "sha256": "f86a7554a43001504e7857413fa00f005901756e3e2cafdfc022b4e25d11d124",
+      "lines": 123,
+      "characters": 5192
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_03_scouting_the_cave.knobs.json": {
+      "sha256": "cade62e68cd0fc49a258e012cfbe88f05d872e1fd8986abbe4b0c8a69646bd9b",
+      "lines": 17,
+      "characters": 377
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene04-r1/applied/approved-r1/application.json": {
+      "sha256": "531bf3ba89401a7a068af5b683e3868ab2a835430beeb1e3fca7a33207eb2400",
+      "lines": 22,
+      "characters": 729
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene04-r1/applied/approved-r1/scene.md": {
+      "sha256": "77cc6229ff982e54115946cebc980e00a83ab7766070a80ca3e286141d21eeea",
+      "lines": 69,
+      "characters": 3109
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/04_the_ambush_inside_the_cave.md": {
+      "sha256": "59205fcee59272cc7ff53358645938b4381dc31811875edfd8d122d69bd1af4f",
+      "lines": 176,
+      "characters": 6694
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.knobs.json": {
+      "sha256": "cade62e68cd0fc49a258e012cfbe88f05d872e1fd8986abbe4b0c8a69646bd9b",
+      "lines": 17,
+      "characters": 377
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene05-r1/applied/approved-r1/application.json": {
+      "sha256": "2e38fc28dd4400fec37a2bf599ed7ac0071a48b95347faf1ba8738a20e93c0c5",
+      "lines": 22,
+      "characters": 729
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene05-r1/applied/approved-r1/scene.md": {
+      "sha256": "8d078530bed9e8ccc610a3ec6e0c8d650f84d06d1834b697847044cb00c820ef",
+      "lines": 103,
+      "characters": 3830
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/05_the_battle_against_gog.md": {
+      "sha256": "f22ed4713ee8601f6dc2ff10f00f20591dc30122e579dd06f2da26571ff35862",
+      "lines": 282,
+      "characters": 10230
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.knobs.json": {
+      "sha256": "cade62e68cd0fc49a258e012cfbe88f05d872e1fd8986abbe4b0c8a69646bd9b",
+      "lines": 17,
+      "characters": 377
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene06-r1/applied/approved-r1/application.json": {
+      "sha256": "49a518930aad71b75c16323466a39b07d87fa8aae9e5e18ff988a6ad9936e3a7",
+      "lines": 22,
+      "characters": 729
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene06-r1/applied/approved-r1/scene.md": {
+      "sha256": "ee4ca4d45e6259e6459a0048a5772653c71f8e8cb37d6238561221efe7f13dfb",
+      "lines": 129,
+      "characters": 5067
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md": {
+      "sha256": "7dda50111d8cb40ed333ec2e2d10149d3f135a46969362731532519900cf1357",
+      "lines": 387,
+      "characters": 14279
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_06_charcoal_secrets_and_spoils.knobs.json": {
+      "sha256": "cade62e68cd0fc49a258e012cfbe88f05d872e1fd8986abbe4b0c8a69646bd9b",
+      "lines": 17,
+      "characters": 377
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/approved-r1/application.json": {
+      "sha256": "ae0a8eddfcf1e0dc005c4035678a92dfeffa076076fc66a20513ef6991088c59",
+      "lines": 28,
+      "characters": 852
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/approved-r1/scene.md": {
+      "sha256": "4ff814a3a92cc7769554985af5490dcc33f2bb8a378e64fbdc0dbe90ff91ee26",
+      "lines": 139,
+      "characters": 6184
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md": {
+      "sha256": "029a0885551ed79a39ebd4b91c9e58c85fc2cdc986cf8c8ffff317946724bc27",
+      "lines": 459,
+      "characters": 17465
+    },
+    "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.knobs.json": {
+      "sha256": "cade62e68cd0fc49a258e012cfbe88f05d872e1fd8986abbe4b0c8a69646bd9b",
+      "lines": 17,
+      "characters": 377
+    }
+  },
+  "findings": [
+    {
+      "id": "vc-s07-01",
+      "scene": 7,
+      "path": "summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+      "line": 71,
+      "old": "“Fascinating,” he says. “Very interesting. And you said, Veyra, you've seen this before.”\n\n“Yes.”",
+      "new": "“Fascinating,” he says. “Very interesting. And you said, Veyra, you've seen this before.”\n\n“Yes,” I say.",
+      "title": "Identify Zenvon as the speaker answering for Veyra",
+      "reason": "The addressed character is Veyra, so the untagged reply naturally reads as hers. The reviewed extraction explicitly assigns it to Zenvon. Only the attribution and dependent comma change; the spoken word is preserved.",
+      "evidence": "scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:245–246; current writing_brief.md: keep clear attribution and distinguish player from character.",
+      "kind": "edit",
+      "severity": "medium",
+      "status": "resolved_in_narration",
+      "target_sha256": "4ff814a3a92cc7769554985af5490dcc33f2bb8a378e64fbdc0dbe90ff91ee26",
+      "decision": "approve"
+    },
+    {
+      "id": "vc-s05-ref01",
+      "scene": 5,
+      "path": "summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md",
+      "line": 79,
+      "old": "“That was Pip,” she tells me.",
+      "new": null,
+      "title": "Refer the Maela correction to source/scrub review",
+      "reason": "The source labels this as a GM attribution correction, not Maela speaking. No known in-world speaker is established. Do not fix by guessing another speaker. This is pre-existing narration, not one of the eleven approved dialogue edits.",
+      "evidence": "scene_extractions_smoothed/05_the_battle_against_gog.md:247–252; current writing_brief.md: table procedure is not spoken dialogue.",
+      "kind": "referral",
+      "severity": "medium",
+      "status": "resolved_in_narration",
+      "target_sha256": "8d078530bed9e8ccc610a3ec6e0c8d650f84d06d1834b697847044cb00c820ef",
+      "decision": "approve",
+      "resolution": {
+        "authorization": "GM: 5) drop that line - since it was from the GM",
+        "removed": "“That was Pip,” she tells me.",
+        "original_sha256": "8d078530bed9e8ccc610a3ec6e0c8d650f84d06d1834b697847044cb00c820ef",
+        "result_sha256": "f385877ab3dd823ee22b431f5329cd0113422d5fa508af027f875296671a1daf",
+        "target": "summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md",
+        "scope": "Only named line removed; Zenvon's self-correction preserved",
+        "lint": "scene 05: exit 0, zero errors/warnings, bookkeeping skipped; no inserted phrase or changed boundary"
+      }
+    },
+    {
+      "id": "vc-s07-ref01",
+      "scene": 7,
+      "path": "summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+      "line": 45,
+      "old": "“My apprentice,” Hamun reminds me.",
+      "new": null,
+      "title": "Refer the apprentice reminder to source/scrub review",
+      "reason": "Hamun previously identifies his apprentice in actual speech, but this extra reply comes from a GM reminder. The source does not establish Hamun saying the proposed quotation here. No automatic speech rewrite.",
+      "evidence": "scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:169–175; current writing_brief.md: do not invent dialogue from GM clarifications.",
+      "kind": "referral",
+      "severity": "medium",
+      "status": "referral_recorded_pending_followup",
+      "target_sha256": "4ff814a3a92cc7769554985af5490dcc33f2bb8a378e64fbdc0dbe90ff91ee26",
+      "decision": "approve",
+      "gm_confirmation": "User confirmed scene 07 reminder was from the GM; no deletion requested explicitly; unchanged."
+    },
+    {
+      "id": "vc-s04-ref01",
+      "scene": 4,
+      "path": "summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md",
+      "line": 63,
+      "old": "The remaining bugbears understand. They move around her rather than through her and flee into the ravine.",
+      "new": null,
+      "title": "Refer the repeated bugbear departure to continuity review",
+      "reason": "Scene 4 completes the remaining departures; scene 5:13 and :23 then narrates further departures. The source orders the first escape, Maela’s warning/yielding, then staggered exits during combat. Review the whole join before deciding where to limit or remove completion language.",
+      "evidence": "scene_extractions_smoothed/04_the_ambush_inside_the_cave.md:119–149; scene_extractions_smoothed/05_the_battle_against_gog.md:60–106; narration/session_doc_scene_05_battle_against_gog.md:13,23.",
+      "kind": "referral",
+      "severity": "medium",
+      "status": "resolved_in_narration",
+      "target_sha256": "77cc6229ff982e54115946cebc980e00a83ab7766070a80ca3e286141d21eeea",
+      "decision": "approve",
+      "resolution": {
+        "authorization": "GM: Approve the suggested fix",
+        "old": "The remaining bugbears understand. They move around her rather than through her and flee into the ravine.",
+        "new": "The remaining bugbears understand. They get out of her way.",
+        "original_sha256": "77cc6229ff982e54115946cebc980e00a83ab7766070a80ca3e286141d21eeea",
+        "result_sha256": "9d9002c4322f6c0977a7ae35edc850c3ceab3bb080e582bd1bd669303ad57e99",
+        "target": "summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md",
+        "verification": "Exact approved replacement; scene 04 end and scene 05 opening reread; no dialogue changed.",
+        "lint": "exit 0; zero errors/warnings; bookkeeping skipped because genre unset"
+      }
+    }
+  ],
+  "lint": {
+    "command": [
+      "/home/kostadis/.venv/bin/voice_lint",
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/voice_critic/20260907-r1/analysis_selected.md"
+    ],
+    "exit_code": 1,
+    "stdout": "lint.stdout.txt",
+    "stderr": "lint.stderr.txt"
+  },
+  "genre": {
+    "rendered": null,
+    "current": null,
+    "status": "unset",
+    "historical_prompt": "unavailable"
+  },
+  "measurement": "Unicode word tokens with internal apostrophes; curly double speech excluded from prose using balanced state parser, including multiline speech; attribution and italic text included. Headings/frontmatter excluded. No comments or apparatus present. Italic quoted remembered phrase remains in non-double-quoted prose; share is typographic, not a semantic dialogue ratio.",
+  "decisions": "decisions.json",
+  "application": {
+    "command": [
+      "/home/kostadis/.venv/bin/voice_lint",
+      "summaries/011-20260904/voice_critic/20260907-r1/applied/approved-r1/analysis_selected.md"
+    ],
+    "exit_code": 1,
+    "stdout": "== summaries/011-20260904/voice_critic/20260907-r1/applied/approved-r1/analysis_selected.md ==\nERROR  [with-the-X-of-a-man-who] 2 occurrence(s) doc-wide — target 0, cap 1\nnote   [skipped] bookkeeping/filing checks — no rulebook was given (--genre-file). Not the same as clean: nothing was checked.\n  1 error(s), 0 warning(s), 1 note(s)\n\n",
+    "stderr": "",
+    "result_sha256": "2e39214c187fa37d49155b885411515f3f476bd0cd3b2c82c52659d9971bc9f3",
+    "tag_occurrences_before": 1,
+    "tag_occurrences_after": 2,
+    "output": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/voice_critic/20260907-r1/applied/approved-r1/session_doc_scene_07_dinner_with_the_red_wizard.md",
+    "original_sha256": "4ff814a3a92cc7769554985af5490dcc33f2bb8a378e64fbdc0dbe90ff91ee26",
+    "applied_ids": [
+      "vc-s07-01"
+    ],
+    "referrals_recorded": [
+      "vc-s05-ref01",
+      "vc-s07-ref01",
+      "vc-s04-ref01"
+    ],
+    "promotion": "promoted_to_narration",
+    "assembly": "not_run",
+    "scene07_before": {
+      "prose_words": 511,
+      "total_words": 1084,
+      "prose_share": 47.1
+    },
+    "scene07_after": {
+      "prose_words": 513,
+      "total_words": 1086,
+      "prose_share": 47.2
+    }
+  },
+  "promotion": {
+    "status": "promoted_to_narration",
+    "date": "2026-09-07",
+    "authorization": "User: promote",
+    "target": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+    "source": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/voice_critic/20260907-r1/applied/approved-r1/session_doc_scene_07_dinner_with_the_red_wizard.md",
+    "original_sha256": "4ff814a3a92cc7769554985af5490dcc33f2bb8a378e64fbdc0dbe90ff91ee26",
+    "result_sha256": "2e39214c187fa37d49155b885411515f3f476bd0cd3b2c82c52659d9971bc9f3",
+    "verification": "byte-identical to approved revision; all other selected scenes unchanged",
+    "assembly": "not_run"
+  }
+}

@@ -1,0 +1,188 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:0f0c6366e580126243397bb1917d1fee63609d94ec8d89e6a67f9ed1a309c3cc",
+  "payload": {
+    "scene": "Scene 07 — Zenvon Forepot",
+    "session": "/home/kostadis/obelisk/obelisk/summaries/011-20260904",
+    "run_dir": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1",
+    "draft": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+    "source": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+    "inputs": {
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md": {
+        "role": "draft",
+        "sha256": "a7c90c75839f83307cde7f6a87dd0b751e4db0bdc6f4e00b80cc654b83bb6ac9"
+      },
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md": {
+        "role": "source",
+        "sha256": "029a0885551ed79a39ebd4b91c9e58c85fc2cdc986cf8c8ffff317946724bc27"
+      },
+      "/home/kostadis/obelisk/obelisk/config/party.yaml": {
+        "role": "reference",
+        "sha256": "a183a931ce47236b8fcf419b7a1be1bad9457159c78a377f3ce275c76a373a48"
+      },
+      "/home/kostadis/obelisk/obelisk/config/players.yaml": {
+        "role": "reference",
+        "sha256": "82d294f754794a27d9fa5a4fee909de606c1e7e94023749326abb20c8a5b64bf"
+      },
+      "/home/kostadis/obelisk/obelisk/config/session_doc.yaml": {
+        "role": "reference",
+        "sha256": "068a721cd0f573bd444224a8ab6b5c286a0c59f865c91cdbd565c87bf31780f0"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/zenvon_voice.md": {
+        "role": "reference",
+        "sha256": "9b3df35208700418e2339d5da7329dddc74f5033ce4d3a10da1520f35dfbe7d6"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/veyra_voice.md": {
+        "role": "reference",
+        "sha256": "e8e107898ca80fb7ed03484d661eaa09c9d074850d281223f33288d8bb59f017"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/maela_voice.md": {
+        "role": "reference",
+        "sha256": "dc77ea3494c1a5fd27355f5c4cb216104033f62e6feb4a31bbb048fdf3b943cd"
+      },
+      "/home/kostadis/obelisk/obelisk/voice/pip_voice.md": {
+        "role": "reference",
+        "sha256": "f24da3244a16cc7e7aa107277a7b0d59bbdc2ccbe25702eb2fc553f79d3179ba"
+      },
+      "/home/kostadis/obelisk/obelisk/examples/zenvon.md": {
+        "role": "reference",
+        "sha256": "3af6ca8818533c4b09621a7cab8c6051b65b4669f8c5b32f847ecc73676c5169"
+      },
+      "/home/kostadis/obelisk/obelisk/examples/house_style.md": {
+        "role": "reference",
+        "sha256": "0d3c5ea458d1e1cc974656dec09447ba9d997975fa72dfea1144f421b8a2f567"
+      },
+      "/home/kostadis/obelisk/obelisk/notes/scrub_register_policy.md": {
+        "role": "reference",
+        "sha256": "4a8182c42df7e55816971a0b28eb4c47cdd73d31a5025c2a6cbb9af8f923d7d0"
+      },
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/plan.md": {
+        "role": "reference",
+        "sha256": "db6aa26fa0020b79d39066e330f2c713fbe8fa645be490fa095bc457310c8bfd"
+      },
+      "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/logs/sd_narrate_bundle_editor_aaa57d19f8dc47d3bdabdcba73f97d32.json": {
+        "role": "reference",
+        "sha256": "dd332e91d7f89c9766ffeb03b2b6dc8be68c937fdedda6ff9861f6b7b39d5acc"
+      }
+    },
+    "edits": [
+      {
+        "id": "s07-01",
+        "start": 2161,
+        "before": "and then took out the boss first, and then the entire party collapsed.",
+        "after": "and then took out the boss first, and then their entire group collapsed.",
+        "line": 55,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Clarify that Zenvon means the enemy group collapsed after Brughor fell; 'the entire party' otherwise reads as his own companions being defeated.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "- He describes the sentry ambush, the attack on the leader, and the charcoal drawing.",
+            "start": 1289,
+            "line": 21
+          },
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "- Hamun delightedly receives the news that the boss and ogre are dead and the bugbears have fled.",
+            "start": 780,
+            "line": 16
+          }
+        ],
+        "context": "He asks what happened at Wyvern Tor, so I give him the sequence.\n\n“The party was in a cave, and then we sneakily attacked the sentry, and then took out the boss first, and then the entire party collapsed.”\n\nI tell him about the bugbears fleeing and Gog remaining. Then I mention the thing that did not fit with the rest.\n"
+      },
+      {
+        "id": "s07-02",
+        "start": 4035,
+        "before": "“And he hides it again,” I say quietly.",
+        "after": "“And he hides it again?” I ask quietly.",
+        "line": 95,
+        "scope": "adjacent-attribution",
+        "support": "supported",
+        "reason": "Restore Zenvon's question and make the dependent attribution agree; Pip's next action confirms the inference.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "**Zenvon Forepot** — *asking whether Hamun conceals it*",
+            "start": 12406,
+            "line": 307
+          },
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "\"And he hides it again.\"",
+            "start": 12464,
+            "line": 308
+          }
+        ],
+        "context": "That is enough information to watch him. I see nothing I can price. Pip does. Hamun’s interest rises for a moment at the mention of the black obelisk, then he hides it again.\n\n“And he hides it again,” I say quietly.\n\nPip confirms it.\n"
+      },
+      {
+        "id": "s07-03",
+        "start": 4428,
+        "before": "“It's a… what that is… you know… made with… forged with diamonds and all the other precious stones.”",
+        "after": "“It's, you know, forged with diamonds and all the other precious stones.”",
+        "line": 105,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Remove unrecoverable false starts while retaining Zenvon's tentative 'you know' and his actual claim about the sword.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "\"Yes, it's a… What that is… you know…\"",
+            "start": 13231,
+            "line": 337
+          },
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "\"Made with… forged with diamonds and all the other precious stones.\"",
+            "start": 13307,
+            "line": 340
+          }
+        ],
+        "context": "“For example, you see that sword you have?”\n\n“Yes,” I say. “It's a… what that is… you know… made with… forged with diamonds and all the other precious stones.”\n\n“It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk.”\n"
+      },
+      {
+        "id": "s07-04",
+        "start": 5383,
+        "before": "“I was… I just hope, you know, to keep up to his name when I use this sword. In combat.”",
+        "after": "“I just hope, you know, to keep up to his name when I use this sword. In combat.”",
+        "line": 125,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Remove a clear false start while preserving Pip's phrasing and the separate final 'In combat.' beat.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "\"I was… I just hope,\"",
+            "start": 15015,
+            "line": 385
+          },
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "\"You know, to keep up to his name when I use this sword.\"",
+            "start": 15109,
+            "line": 388
+          },
+          {
+            "path": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md",
+            "quote": "\"In combat.\"",
+            "start": 15203,
+            "line": 391
+          }
+        ],
+        "context": "Hamun describes Aldith Tresendar arriving in black armor, his cape billowing, Talon in his hand.\n\nPip looks down at the sword. “I was… I just hope, you know, to keep up to his name when I use this sword. In combat.”\n\nHamun smiles. “Yes, Pip, I hope that for you too. And as I said, anything you find related to the Netherese, consider me your expert.”\n"
+      }
+    ],
+    "observations": [
+      "Zenvon's remaining ESL constructions, including 'explain me in simpler terms,' remain unchanged.",
+      "No NPC voice file is declared for Hamun Kost; his unchanged dialogue is supported by the reviewed extraction."
+    ],
+    "skill_sha256": {
+      "SKILL.md": "30f03f7eaba1593d1e24cdd23271369fa47f9dae9a0c3115ed1e2cd11419d51e",
+      "scripts/review_edits.py": "770a578d7da1d5a2dee31206c24ed5163be2b9d17031b831d73c8549006aec12",
+      "references/editorial-guide.md": "790721eb80cef5e1f14cff0fb6f6965cb0062bbf16cd9b527ef03f6ca314c72f",
+      "references/review-and-apply.md": "0b38628119fd023460fb1029ebdc077d5cd05c945c4e2d7db842a78eedc89783"
+    },
+    "prepared_at": "2026-09-06T23:47:34.447974+00:00"
+  }
+}

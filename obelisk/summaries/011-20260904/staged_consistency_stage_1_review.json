@@ -1,0 +1,17 @@
+{
+  "title": "Session 011 · Stage 1 Ruling",
+  "reviewId": "staged-consistency:011-20260904:stage-1",
+  "outputName": "staged_consistency_stage_1_decisions.json",
+  "eyebrow": "Obelisk / Session 011 / staged consistency",
+  "lede": "One unresolved ledger choice remains after transcript adjudication.",
+  "footer": "Applied without asking: two evidence-settled corrections across session_summary.md and gm-assist.md. Five model findings were rejected after tape review.",
+  "items": [
+    {
+      "id": "s1-06",
+      "t": "Set the Wyvern Tor chest’s final silver total to 180 sp.",
+      "y": "Update <code>summaries/011-20260904/session_summary.md:217</code> and <code>:346</code> to make 180 sp the final ledger total while preserving Pip’s exact 180-sp quote.",
+      "n": "Leave both passages in <code>session_summary.md</code> explicitly unresolved at 180 versus 160 sp and carry the discrepancy forward.",
+      "ev": "The cleaned VTT first says 180 sp at cue 1050, then 160 sp at cue 1106. The module prep specifies 180 sp at <code>notes/session_prep/20260904_chapter_10_the_wizard_of_the_old_owl_well.md:178</code>."
+    }
+  ]
+}
