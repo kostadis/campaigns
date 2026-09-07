@@ -1,0 +1,357 @@
+consistency_check:
+  timestamp: "2026-09-06T03:45:47+00:00"
+  campaign: obelisk
+  document_class: "grouped scene extraction"
+  grouped: true
+  documents_checked:
+    - summaries/011-20260904/scene_extractions_new/01_arrival_at_wyvern_tor.md
+    - summaries/011-20260904/scene_extractions_new/02_ambush_at_the_ravine.md
+    - summaries/011-20260904/scene_extractions_new/03_scouting_the_cave.md
+    - summaries/011-20260904/scene_extractions_new/04_the_ambush_inside_the_cave.md
+    - summaries/011-20260904/scene_extractions_new/05_the_battle_against_gog.md
+    - summaries/011-20260904/scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md
+    - summaries/011-20260904/scene_extractions_new/07_dinner_with_the_red_wizard.md
+  report: summaries/011-20260904/consistency_report_stage2_scenes.md
+  quote_report: summaries/011-20260904/quote_report_stage2.md
+  config: config/config.yaml
+  backend: codex-cli
+  model: "Codex subscription default"
+  issues_found: 82
+  issues_count_method: >-
+    Counted Issue fields in each grouped report section: D01 8, D02 8, D03 5,
+    D04 15, D05 14, D06 17, D07 14, and cross-document 1.
+  review_mode: batch
+  review_status: COMPLETE
+  review_queue: summaries/011-20260904/staged_consistency_stage_2_review.json
+  review_page: summaries/011-20260904/staged_consistency_stage_2_review.html
+  review_decisions: summaries/011-20260904/staged_consistency_stage_2_decisions.json
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-09-05"
+  telemetry:
+    model_calls: 1
+    shared_context_chars: 242482
+    target_chars: 117056
+    repeated_context_chars_avoided: 1454892
+  stages:
+    stage0:
+      status: NOT_RUN
+      note: >-
+        Not rerun in this Stage 2-only request. Historical Stage 0 report and
+        manifest are present.
+    stage1:
+      status: NOT_RUN
+      note: >-
+        Not rerun in this Stage 2-only request. Historical Stage 1 report and
+        completed GM rulings were re-verified where they touched Stage 2.
+    stage2:
+      status: COMPLETE
+      documents: 7
+      findings_from_report: 82
+      mechanical_repairs_applied: 60
+      approved_review_items_applied: 21
+      undecided_review_items: 0
+    stage3:
+      status: NOT_RUN
+      note: "No narration artifacts exist."
+  quote_verification:
+    transcript: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+    status: passed_before_repairs
+    verified: 1014
+    near: 1
+    unverified: 0
+    refused: 0
+    near_ruling: >-
+      Scene 5 line 531 had merged the immediately preceding GM cue "Okay" into
+      "So, so, your question...". The extra word was removed as an
+      evidence-settled boundary repair.
+    post_review_report: summaries/011-20260904/quote_report_stage2_post_review.md
+    post_review:
+      status: passed_delta_audit
+      verified: 943
+      near: 59
+      unverified: 8
+      unscored: 5
+      refused: 0
+      ruling: >-
+        Every quote no longer matching the raw generation VTT was checked
+        against the repair ledger and review decisions. All eight unverified
+        quotes, all 59 near matches, and all five too-short unscored quotes map
+        to documented mechanical repairs or approved review items; no
+        unexplained quote delta remains.
+  speaker_map: |
+    Generation mapping: Kostadis Roussos -> GM; Nikhil and the configured Nikhil
+    variants -> Zenvon Forepot. The GM voices Veyra, Sister Maela, Pip, and all
+    NPCs. A deterministic audit of all 1,015 blockquotes found 1,014 exact
+    same-speaker matches and one near match; manual review confirmed that near
+    match as the same GM turn. No attribution mismatch remains.
+  boundary_audit: >-
+    Pairwise quote comparison found only four to six generic replies such as
+    "Okay", "Yep", and "Hmm" shared between scene pairs. No duplicated scene
+    block or boundary relocation was found.
+  sources:
+    auto_loaded:
+      - {label: campaign_state, path: docs/campaign_state.md}
+      - {label: world_state, path: docs/world_state.md}
+      - {label: mechanics, path: docs/mechanics.md}
+      - {label: planning, path: docs/planning.md}
+      - {label: party, path: docs/party.md}
+    context:
+      - {path: docs/party.md, role: "PCs, players, and sidekicks"}
+      - {path: docs/entity_registry.yaml, role: "canonical entities and aliases"}
+      - {path: notes/vtt_transcription_corrections.md, role: "ASR glossary"}
+      - {path: notes/vtt_known_additions.md, role: "confirmed names not yet promoted"}
+      - {path: notes/session_prep/20260904_chapter_10_the_wizard_of_the_old_owl_well.md, role: "dated session prep"}
+      - {path: notes/hamun_kost_strategy.md, role: "Hamun strategy and dinner-scene context"}
+    quote_verification_transcript:
+      path: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+    transcripts_consulted_by_hand:
+      - path: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+        role: "generation VTT; exact wording, sequence, and attribution"
+      - path: "summaries/011-20260904/session_2026_09_05_chapter_11_look_who_came_to_dinner_transcript.vtt"
+        role: "independent ASR; wording adjudication by aligned timestamps"
+      - path: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).vtt"
+        role: "raw Zoom transcript; duplicate lineage check"
+  transcript_groups:
+    - id: zoom
+      files:
+        - "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).vtt"
+        - "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+      note: "Different hashes, same Zoom cue lineage; cleaned copy has canonical replacements."
+    - id: independent
+      files:
+        - "summaries/011-20260904/session_2026_09_05_chapter_11_look_who_came_to_dinner_transcript.vtt"
+      note: "Independent segmentation and ASR wording; lacks speaker labels."
+  command_notes: |
+    The first sandboxed grouped call failed because nested Codex could not create
+    local app-server files on a read-only filesystem. After the GM explicitly
+    authorized transmitting the selected private campaign documents to Codex,
+    the identical grouped command succeeded outside the restricted sandbox.
+    The checker warned that config/entity_registry.yaml was absent; the canonical
+    docs/entity_registry.yaml was supplied explicitly in the single context list.
+    The successful call reported eight de-duplicated context documents and no
+    missing-context error.
+  scenes:
+    - id: D01
+      document: summaries/011-20260904/scene_extractions_new/01_arrival_at_wyvern_tor.md
+      report_findings: 8
+      mechanical_repairs: 5
+      review_items: [s2-01, s2-02]
+      repairs:
+        - {raw: "budbearer", repaired: "bugbear"}
+        - {raw: "shoot a... Idle", repaired: "shoot an arrow"}
+        - {raw: "long, punky weapon", repaired: "long, pointy weapon"}
+        - {raw: "Stealth for food?", repaired: "Stealth?"}
+        - {raw: "poik / a Roland Insight check", repaired: "pike / Roll an Insight check"}
+    - id: D02
+      document: summaries/011-20260904/scene_extractions_new/02_ambush_at_the_ravine.md
+      report_findings: 8
+      mechanical_repairs: 10
+      review_items: [s2-03]
+      repairs:
+        - {raw: "bug beer", repaired: "bugbear"}
+        - {raw: "bugbearer... Caesar", repaired: "bugbear sees her"}
+        - {raw: "bug here", repaired: "bugbear"}
+        - {raw: "Chardo", repaired: "shortbow"}
+        - {raw: "You're older 7", repaired: "You rolled a 7"}
+        - {raw: "Magic result", repaired: "Magic Missile"}
+        - {raw: "bugbearer", repaired: "bugbear"}
+        - {raw: "bug beer", repaired: "bugbear"}
+        - {raw: "bugbearers", repaired: "bugbear"}
+        - {raw: "Bugs of your body", repaired: "the bugbear's body"}
+    - id: D03
+      document: summaries/011-20260904/scene_extractions_new/03_scouting_the_cave.md
+      report_findings: 5
+      mechanical_repairs: 2
+      review_items: [s2-04, s2-05, s2-06]
+      repairs:
+        - {raw: "4 bugbeers", repaired: "4 bugbears", occurrence: "interior count"}
+        - {raw: "4 bugbeers", repaired: "4 bugbears", occurrence: "prior-fight recollection"}
+    - id: D04
+      document: summaries/011-20260904/scene_extractions_new/04_the_ambush_inside_the_cave.md
+      report_findings: 15
+      mechanical_repairs: 9
+      review_items: [s2-07, s2-08, s2-09, s2-10]
+      repairs:
+        - {raw: "and word?", repaired: "and what?"}
+        - {raw: "John, we can keep", repaired: "we can keep"}
+        - {raw: "Shotswold", repaired: "Shortsword"}
+        - {raw: "short for it", repaired: "shortsword"}
+        - {raw: "she's actually got 2 / she's got 2", repaired: "he's actually got 2 / he's got 2"}
+        - {raw: "website", repaired: "Insight"}
+        - {raw: "bugbearers", repaired: "bugbears"}
+        - {raw: "lit bugbrews", repaired: "bugbears"}
+        - {raw: "over", repaired: "ogre"}
+    - id: D05
+      document: summaries/011-20260904/scene_extractions_new/05_the_battle_against_gog.md
+      report_findings: 14
+      mechanical_repairs: 14
+      review_items: [s2-11, s2-12, s2-13]
+      repairs:
+        - {raw: "2d8 Rick, takes", repaired: "2d8--takes"}
+        - {raw: "bug beer", repaired: "bugbear"}
+        - {raw: "hip", repaired: "Pip"}
+        - {raw: "Ray's is this great club", repaired: "Raises his great club"}
+        - {raw: "bugbearer", repaired: "bugbear"}
+        - {raw: "ZRA", repaired: "Veyra"}
+        - {raw: "Fluestrike", repaired: "True Strike"}
+        - {raw: "webinar", repaired: "weapon"}
+        - {raw: "she's down to 20", repaired: "he's down to 20"}
+        - {raw: "Visem", repaired: "listen"}
+        - {raw: "hormone costs", repaired: "Hamun Kost", occurrence: "first question"}
+        - {raw: "Okay, so, so, your question", repaired: "So, so, your question"}
+        - {raw: "hormone costs", repaired: "Hamun Kost", occurrence: "restated question"}
+        - {raw: "She makes her saving throw", repaired: "He makes his saving throw"}
+    - id: D06
+      document: summaries/011-20260904/scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md
+      report_findings: 17
+      mechanical_repairs: 10
+      review_items: [s2-14, s2-15, s2-16, s2-17, s2-18]
+      repairs:
+        - {raw: "It goes to this courtroom", repaired: "Pip goes to this corner"}
+        - {raw: "John and Charcoal", repaired: "drawn in charcoal"}
+        - {raw: "Strange problem", repaired: "Strange goblin"}
+        - {raw: "goggling", repaired: "goblin"}
+        - {raw: "I wait", repaired: "highway"}
+        - {raw: "bugbeers", repaired: "bugbears"}
+        - {raw: "Cragmaw closure", repaired: "Cragmaw Castle"}
+        - {raw: "or auger", repaired: "ogre"}
+        - {raw: "auger", repaired: "ogre"}
+        - {raw: "I did my share to Pip", repaired: "I give my share to Pip"}
+    - id: D07
+      document: summaries/011-20260904/scene_extractions_new/07_dinner_with_the_red_wizard.md
+      report_findings: 14
+      mechanical_repairs: 10
+      review_items: [s2-19, s2-20, s2-21]
+      repairs:
+        - {raw: "Amun", repaired: "Hamun"}
+        - {raw: "Where would you like", repaired: "Veyra, would you like"}
+        - {raw: "Roland Insight Check", repaired: "Roll an Insight check"}
+        - {raw: "She looks at Pip", repaired: "He looks at Pip"}
+        - {raw: "this word", repaired: "this sword"}
+        - {raw: "customer", repaired: "crystal"}
+        - {raw: "tell her about Veyra's Blue Crystal", repaired: "tell him about Veyra's Blue Crystal"}
+        - {raw: "lots of feet", repaired: "lots of feats"}
+        - {raw: "pick a feast", repaired: "pick a feat"}
+        - {raw: "5 bug beers", repaired: "5 bugbears"}
+  cross_scene:
+    - finding: "five-bugbear roster conflicts with module's four-bugbear roster"
+      status: REJECTED_BY_PRIOR_GM_RULING
+      ruling: >-
+        Preserve the played sequence: one sentry plus four inside. Stage 1
+        re-verified the exact tape cues and the GM ruled that five total were
+        intentionally played. The open work is to record the table override in
+        grounding docs, not to alter the scene extraction.
+  report_findings_closed_without_queue:
+    - status: REJECTED
+      item: "The GM's 'strong Stealth' awareness remark is a verbatim table statement, not a scene-canon assertion."
+    - status: REJECTED
+      item: "Veyra's 'shoots an arrow, uses Magic Missile' false start is followed by an unambiguous Magic Missile resolution."
+    - status: REJECTED_BY_PRIOR_GM_RULING
+      item: "Brughor's announced 2 HP is preserved as played despite the module arithmetic."
+    - status: REJECTED
+      item: "'All four companions' plainly refers to the four-member party in its immediate sentence."
+    - status: REJECTED
+      item: "The preliminary Minor Illusion 'one round' reading is visibly superseded by the final table ruling in the same sequence."
+    - status: REJECTED
+      item: "'bugroom' is immediately rejected and corrected to 'the orc' in the following cues."
+    - status: REJECTED_BY_PRIOR_GM_RULING
+      item: "The 180-sp final ledger total was explicitly approved during Stage 1."
+    - status: REJECTED
+      item: "'what Sildar told you when he was captured' describes the subject of his later account; the scene does not place the telling during captivity."
+    - status: REJECTED
+      item: "The stray 'statues' reference is bounded by context that identifies the charcoal drawing and Pip's separate treasure discovery."
+    - status: REJECTED
+      item: "'3 times 5 vials' is immediately completed by '5GP each' and the earlier inventory says three bottles."
+    - status: REJECTED
+      item: "Warden Holl's identity is supplied by selected prep in the context annotation; the quote itself is not expanded."
+    - status: REJECTED
+      item: "'the entire party collapsed' is bounded by the victory report and refers to the enemy band losing cohesion."
+  resolution:
+    status: COMPLETE
+    reviewed_by: GM
+    reviewed: "2026-09-06"
+    decision_payload:
+      review_id: "staged-consistency:011-20260904:stage-2"
+      saved_at: "2026-09-06 03:55 UTC"
+      approve: 20
+      reject: 0
+      discuss: 1
+      unmarked: 0
+    applied_without_ruling:
+      count: 60
+      note: >-
+        Only ASR substitutions settled by the independent transcript, immediate
+        self-correction, or unambiguous local referent were changed. Each affected
+        file carries an editorial transcription note.
+    applied:
+      - {id: s2-01, fix: "Kept the garbled declaration and noted that the next cue explicitly corrects it to Stealth."}
+      - {id: s2-02, fix: "Corrected bike to pike."}
+      - {id: s2-03, fix: "Kept the garble and annotated it as a request for another attack attempt."}
+      - {id: s2-04, fix: "Flagged pitch black as contradicting the immediately preceding firelight ruling."}
+      - {id: s2-05, fix: "Corrected the failed Investigation subject from Sister Maela to Zenvon."}
+      - {id: s2-06, fix: "Reconstructed the warning as alerting the bugbears and ogre."}
+      - {id: s2-07, fix: "Reconstructed Zenvon invoking Nick for the second attack."}
+      - {id: s2-08, fix: "Reconstructed the shortsword-and-scimitar weapon reminder."}
+      - {id: s2-09, fix: "Reconstructed the bugbear fleeing after seeing Brughor die at initiative 13."}
+      - {id: s2-10, fix: "Corrected Maela's reaction to seeing the orc dead."}
+      - {id: s2-11, fix: "Reconstructed Gog's opening threat in his established speech pattern."}
+      - {id: s2-12, fix: "Corrected Gog's later mace reference to greatclub."}
+      - {id: s2-13, fix: "Corrected the skies to these guys in the Hamun Kost question."}
+      - {id: s2-14, fix: "Removed unattested Abe from the false start."}
+      - {id: s2-15, fix: "Annotated the unrecoverable clause and blocked unsupported Cragmaw affiliation."}
+      - {id: s2-16, fix: "Corrected the crystal reaction from blown to flared."}
+      - {id: s2-17, fix: "Corrected Veyra's look to refer to Sister Maela."}
+      - {id: s2-18, fix: "Marked the football clause unrecoverable and non-narratable."}
+      - {id: s2-20, fix: "Corrected Pip's phrase from in common to in combat."}
+      - {id: s2-21, fix: "Corrected adds notes to adds nothing."}
+    rejected: []
+    discussed:
+      - id: s2-19
+        status: DONE
+        gm_note: >-
+          The zombies may be peasants from Thay, are not necessarily locals,
+          and may have been dead a long time. The intent was to show that Hamun
+          is evil and not to be trusted.
+        inserted_annotation: >-
+          These zombies may be long-dead peasants from Thay; they are not
+          necessarily locals, and the scene does not establish when, where, or
+          by whom they died. The description is intended to show that Hamun is
+          evil and untrustworthy.
+    unmarked: []
+  vtt_adjudicated: |
+    All report targets were located in the generation VTT and aligned by
+    timestamp with the independent transcript. The comparison settled 60
+    mechanical repairs, confirmed the one quote-verifier near match as a
+    same-speaker cue merge, and produced 21 review items. The GM approved 20
+    directly and resolved the discussed item with an exact scene annotation;
+    all 21 review decisions are now applied.
+  carry_forward:
+    - status: DONE
+      item: "Stage 2 review is complete; all 21 review items are resolved and applied."
+    - status: OPEN
+      item: "Stage 3 narration is absent and was NOT RUN."
+    - status: OPEN
+      item: >-
+        Zenvon's spell list remains stale in campaign_state.md, world_state.md,
+        and party.md: True Strike was used in Chapter 11 but is not recorded.
+    - status: OPEN
+      item: >-
+        Grounding docs retain the module's four-bugbear roster while five total
+        were played. Record the explicit table override before later checks.
+    - status: NOTE
+      item: >-
+        Four party characters but two tape speakers: the GM voices Veyra,
+        Sister Maela, Pip, and all NPCs. The Stage 2 speaker audit found no
+        extraction-label mismatch.
+    - status: DONE
+      item: >-
+        Propagation sweep after all 21 review decisions found no
+        unintended residual forms in gm-assist.md, session_summary.md, the seven
+        scene files, or selected grounding documents. Four approved raw garbles
+        remain deliberately, each with a non-narration or contextual note.
+    - status: DONE
+      item: >-
+        Post-review quote-delta audit found no unexplained change: 943 exact,
+        59 near, eight unverified, five too short to score, and zero refused;
+        every non-exact result maps to a documented repair or approved item.

@@ -1,0 +1,17 @@
+{
+  "narrate_tokens": 70000,
+  "narrate_batch_tokens": 70000,
+  "prose_mode": true,
+  "reflections": true,
+  "narration_genre_file": null,
+  "backend": "codex-cli",
+  "mode": "bundle",
+  "provider_batch": false,
+  "bundle_ceiling": 70000,
+  "requested_count": 7,
+  "exchange_count": 1,
+  "status": "success",
+  "written_count": 7,
+  "missing_count": 0,
+  "rejected_count": 0
+}

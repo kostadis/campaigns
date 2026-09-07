@@ -1,0 +1,157 @@
+{
+  "title": "Session 011 — Stage 2 Scene Rulings",
+  "reviewId": "staged-consistency:011-20260904:stage-2",
+  "outputName": "staged_consistency_stage_2_decisions.json",
+  "eyebrow": "Obelisk / Session 011 / staged consistency",
+  "lede": "Twenty-one scene-extraction decisions need GM rulings. The grouped audit, quote verification, speaker audit, and transcript comparison are complete.",
+  "footer": "Applied without asking: 60 evidence-settled ASR repairs across seven scene files, plus one audit note per file. Prior GM rulings closed the five-bugbear roster, Brughor's announced 2 HP, and the 180-sp ledger. All 1,015 quote blocks passed speaker attribution review; cross-scene overlap contained only generic replies.",
+  "items": [
+    {
+      "id": "s2-01",
+      "t": "Minor: Treat &ldquo;sneak phone&rdquo; as an unresolved ASR fragment followed by Zenvon's explicit self-correction to Stealth.",
+      "y": "Keep the quoted fragment in <code>01_arrival_at_wyvern_tor.md</code> and add an editorial note that the next cue settles the declared check as Stealth.",
+      "n": "Leave the scene unchanged and carry the fragment forward as unresolved.",
+      "ev": "The fragment is at <code>scene_extractions_new/01_arrival_at_wyvern_tor.md:142</code>; the next quoted cue says &ldquo;Stealth&rdquo; at line 145. The independent transcript hears &ldquo;sneak pole,&rdquo; so it does not settle the missing word."
+    },
+    {
+      "id": "s2-02",
+      "t": "Minor: Repair &ldquo;throw off his bike&rdquo; to &ldquo;throw off his pike.&rdquo;",
+      "y": "Change that word in <code>01_arrival_at_wyvern_tor.md</code>; the scene has already established and spelled out the sentry's pike.",
+      "n": "Preserve &ldquo;bike&rdquo; as captured and carry the ambiguity forward.",
+      "ev": "Target: <code>scene_extractions_new/01_arrival_at_wyvern_tor.md:238</code>. The GM identifies the salvaged pike at lines 165–178; the independent transcript hears &ldquo;spike,&rdquo; not &ldquo;bike.&rdquo;"
+    },
+    {
+      "id": "s2-03",
+      "t": "Minor: Annotate &ldquo;second toy&rdquo; as a garbled request for another attack attempt.",
+      "y": "Keep the quote in <code>02_ambush_at_the_ravine.md</code> but add an editorial note explaining the request's settled function without inventing an exact word.",
+      "n": "Leave the quote and context unchanged and carry the wording forward.",
+      "ev": "Target: <code>scene_extractions_new/02_ambush_at_the_ravine.md:209</code>. It follows Zenvon's missed shortbow attack; the independent transcript hears &ldquo;secondary,&rdquo; which is also incomplete."
+    },
+    {
+      "id": "s2-04",
+      "t": "Moderate: Flag &ldquo;pitch black&rdquo; as a contradictory table description rather than established cave lighting.",
+      "y": "Add an editorial note in <code>03_scouting_the_cave.md</code> that the GM had just ruled the cookfire provided usable light and that downstream narration must not treat this isolated phrase as a new darkness ruling.",
+      "n": "Leave the phrase unqualified, allowing downstream narration to choose between the conflicting statements.",
+      "ev": "Target: <code>scene_extractions_new/03_scouting_the_cave.md:67</code>. In the generation VTT at 00:41:47 the GM says it is not black because there is a fire, then says &ldquo;pitch black&rdquo; at 00:42:00."
+    },
+    {
+      "id": "s2-05",
+      "t": "Moderate: Correct the first &ldquo;Sister Maela&rdquo; in the failed-search line to Zenvon.",
+      "y": "Change the quote in <code>03_scouting_the_cave.md</code> to &ldquo;Okie dokie. Zenvon, you don't notice anything, so Sister Maela pokes her head as well,&rdquo; with an editorial note.",
+      "n": "Keep both name references as captured and leave the failed check's subject ambiguous.",
+      "ev": "Target: <code>scene_extractions_new/03_scouting_the_cave.md:94</code>. The preceding cue calls for Zenvon's Investigation; Maela's attempt begins only in the latter half of this line."
+    },
+    {
+      "id": "s2-06",
+      "t": "Moderate: Reconstruct Zenvon's garbled warning as &ldquo;How about if he alerts the bugbears and the ogre?&rdquo;",
+      "y": "Replace the quote in <code>03_scouting_the_cave.md</code> with that reconstruction and record it as contextual rather than independently transcribed.",
+      "n": "Keep &ldquo;How about it has alert the bugbears and the oak&rdquo; and mark it unresolved.",
+      "ev": "Target: <code>scene_extractions_new/03_scouting_the_cave.md:163</code>. The party is discussing confronting the orc leader while an ogre and bugbears remain nearby; the independent transcript is spliced at this point."
+    },
+    {
+      "id": "s2-07",
+      "t": "Moderate: Interpret &ldquo;Have a night&rdquo; as Zenvon invoking the Nick weapon mastery for his second attack.",
+      "y": "Change the quote in <code>04_the_ambush_inside_the_cave.md</code> to &ldquo;Yeah, and then I have… I have Nick,&rdquo; with an editorial note.",
+      "n": "Keep the garble; do not assert whether Zenvon said Nick, off-hand attack, or something else.",
+      "ev": "Target: <code>scene_extractions_new/04_the_ambush_inside_the_cave.md:267</code>. The scene had just discussed Nick and Vex, and a second attack follows; the independent transcript instead hears &ldquo;then I have seven.&rdquo;"
+    },
+    {
+      "id": "s2-08",
+      "t": "Minor: Reconstruct the garbled weapon reminder as &ldquo;you have a shortsword and a scimitar.&rdquo;",
+      "y": "Repair the quote at <code>04_the_ambush_inside_the_cave.md</code>, preserving the surrounding reminder that Zenvon carries one in each hand.",
+      "n": "Keep the garbled &ldquo;sort, sort, sort&rdquo; wording and rely on the following narration to identify both weapons.",
+      "ev": "Target: <code>scene_extractions_new/04_the_ambush_inside_the_cave.md:357</code>. The next GM quote names the shortsword and scimitar explicitly at line 369."
+    },
+    {
+      "id": "s2-09",
+      "t": "Moderate: Reconstruct the first fleeing bugbear line and identify &ldquo;13&rdquo; as its initiative count.",
+      "y": "Change the quote in <code>04_the_ambush_inside_the_cave.md</code> to &ldquo;So this bugbear, seeing him die, goes, 'I'm outta here' at 13,&rdquo; with an editorial note.",
+      "n": "Preserve the garbled line and leave the meaning of 13 unresolved.",
+      "ev": "Target: <code>scene_extractions_new/04_the_ambush_inside_the_cave.md:381</code>. The immediately following exchange confirms the bugbear is fleeing after seeing its boss killed."
+    },
+    {
+      "id": "s2-10",
+      "t": "Moderate: Replace the dead-creature false starts with &ldquo;seeing the orc dead.&rdquo;",
+      "y": "Correct <code>04_the_ambush_inside_the_cave.md</code> so Maela reacts to Brughor the orc's death; Gog the ogre is still alive.",
+      "n": "Keep the captured &ldquo;ogre&hellip; bugbear dead&rdquo; wording and rely on context to prevent misidentification.",
+      "ev": "Target: <code>scene_extractions_new/04_the_ambush_inside_the_cave.md:459</code>. Brughor's shortsword/scimitar death is narrated at lines 368–372; Gog remains to fight in Scene 5."
+    },
+    {
+      "id": "s2-11",
+      "t": "Moderate: Reconstruct Gog's opening threat as &ldquo;Me Gog. You kill Brughor. Me eat you alive.&rdquo;",
+      "y": "Use that in-character rendering in <code>05_the_battle_against_gog.md</code> and record it as a contextual reconstruction.",
+      "n": "Keep &ldquo;A mini dog&rdquo; and carry the opening words forward as unresolved.",
+      "ev": "Target: <code>scene_extractions_new/05_the_battle_against_gog.md:54</code>. Both transcripts agree on &ldquo;you kill Brughor, me eat you alive&rdquo; but disagree on the opening; the GM had just established the ogre's name as Gog."
+    },
+    {
+      "id": "s2-12",
+      "t": "Minor: Treat the later &ldquo;mace&rdquo; as a slip and restore Gog's greatclub.",
+      "y": "Change &ldquo;his mace&rdquo; to &ldquo;his greatclub&rdquo; in <code>05_the_battle_against_gog.md</code> with an editorial note.",
+      "n": "Preserve the weapon change as spoken, leaving Gog with inconsistent weapon descriptions.",
+      "ev": "Target: <code>scene_extractions_new/05_the_battle_against_gog.md:450</code>. Earlier in the same scene Gog raises a greatclub; the prep and creature entry also specify a greatclub."
+    },
+    {
+      "id": "s2-13",
+      "t": "Moderate: Repair &ldquo;the skies&rdquo; to &ldquo;these guys&rdquo; in Zenvon's question about Hamun Kost.",
+      "y": "Change the quote in <code>05_the_battle_against_gog.md</code> to ask about the relationship between these guys and Hamun Kost.",
+      "n": "Keep &ldquo;the skies&rdquo; and carry the referent forward as unresolved.",
+      "ev": "Target: <code>scene_extractions_new/05_the_battle_against_gog.md:543</code>. The next line says Hamun reported that &ldquo;you guys&hellip; these guys&rdquo; had been bothering him; the independent transcript also hears &ldquo;the skies.&rdquo;"
+    },
+    {
+      "id": "s2-14",
+      "t": "Minor: Remove &ldquo;Abe&rdquo; as an unattested ASR fragment rather than introducing a person.",
+      "y": "Delete only &ldquo;Abe&rdquo; from the quote in <code>06_secrets_in_the_charcoal_and_looting_the_cave.md</code>, leaving the false start and following description intact.",
+      "n": "Keep &ldquo;Abe&rdquo; verbatim and carry it forward as unresolved.",
+      "ev": "Target: <code>scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md:111</code>. The independent transcript joins the cue directly to &ldquo;a slightly off shape&rdquo;; no Abe appears in campaign context."
+    },
+    {
+      "id": "s2-15",
+      "t": "Moderate: Preserve the garbled Sildar recollection but annotate that the strange goblin's Cragmaw affiliation and the trailing &ldquo;gave it&rdquo; clause are not established.",
+      "y": "Add an editorial note to <code>06_secrets_in_the_charcoal_and_looting_the_cave.md</code> preventing narration from treating the goblin as a Cragmaw member or inventing the missing clause.",
+      "n": "Leave the quote unqualified, allowing the already-corrected Stage 1 affiliation error to return downstream.",
+      "ev": "Target: <code>scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md:162</code>. Stage 1 ruled that the goblin was encountered during the Cragmaw ambush, not established as part of the band."
+    },
+    {
+      "id": "s2-16",
+      "t": "Moderate: Correct &ldquo;the crystal had blown&rdquo; to &ldquo;the crystal had flared.&rdquo;",
+      "y": "Change the quote in <code>06_secrets_in_the_charcoal_and_looting_the_cave.md</code> to the established reaction and add an editorial note.",
+      "n": "Keep &ldquo;blown,&rdquo; which can imply that Veyra's still-existing crystal exploded or was destroyed.",
+      "ev": "Target: <code>scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md:168</code>. The scene itself says the crystal flares at lines 128–135; <code>docs/world_state.md:166</code> records that Ruxithid's name makes it light up."
+    },
+    {
+      "id": "s2-17",
+      "t": "Moderate: Correct Veyra's look from &ldquo;him&rdquo; to &ldquo;her,&rdquo; referring to Sister Maela.",
+      "y": "Change that pronoun in <code>06_secrets_in_the_charcoal_and_looting_the_cave.md</code> with an editorial note.",
+      "n": "Keep the male pronoun and leave the target of Veyra's look unclear.",
+      "ev": "Target: <code>scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md:252</code>. Maela makes the missing-arrow joke immediately before and is explicitly laughing in the same quote."
+    },
+    {
+      "id": "s2-18",
+      "t": "Minor: Mark &ldquo;I've not done anything football too long&rdquo; as unrecoverable rather than guessing Zenvon's justification.",
+      "y": "Keep the words in <code>06_secrets_in_the_charcoal_and_looting_the_cave.md</code> but add &ldquo;unrecoverable ASR; do not narrate as meaningful&rdquo; to the context.",
+      "n": "Leave the line unqualified and allow downstream prose to infer a meaning.",
+      "ev": "Target: <code>scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md:372</code>. The independent transcript hears &ldquo;for Pip on the launch,&rdquo; which is also not recoverable."
+    },
+    {
+      "id": "s2-19",
+      "t": "Critical, GM ruling needed: Flag the claim that peasant-looking zombies died after encountering a powerful Red Wizard as unresolved canon.",
+      "y": "Add a canon-conflict note to <code>07_dinner_with_the_red_wizard.md</code>: the table statement is preserved, but narration must not assert Hamun killed these peasants until the conflict is resolved.",
+      "n": "Leave the table claim unqualified, allowing it to supersede the strategy document's old-garrison origin downstream.",
+      "ev": "Target: <code>scene_extractions_new/07_dinner_with_the_red_wizard.md:91</code>. <code>notes/hamun_kost_strategy.md</code> says most undead were excavated from the tower's former garrison; both transcripts preserve the newer table wording."
+    },
+    {
+      "id": "s2-20",
+      "t": "Moderate: Repair Pip's hope to use Talon &ldquo;in common&rdquo; to &ldquo;in combat.&rdquo;",
+      "y": "Change the two-word quote in <code>07_dinner_with_the_red_wizard.md</code> to &ldquo;In combat,&rdquo; with an editorial note.",
+      "n": "Keep &ldquo;In common&rdquo; and leave open whether Pip meant the Common language.",
+      "ev": "Target: <code>scene_extractions_new/07_dinner_with_the_red_wizard.md:409</code>. The preceding line is Pip hoping to live up to Aldith's name when using the sword; both ASR passes hear &ldquo;in common.&rdquo;"
+    },
+    {
+      "id": "s2-21",
+      "t": "Minor: Repair &ldquo;The rest of the time, it adds notes&rdquo; to &ldquo;The rest of the time, it adds nothing.&rdquo;",
+      "y": "Change the situational-spell quote in <code>07_dinner_with_the_red_wizard.md</code> to the contextually complete sentence with an editorial note.",
+      "n": "Keep &ldquo;adds notes&rdquo; and carry the phrase forward as unresolved.",
+      "ev": "Target: <code>scene_extractions_new/07_dinner_with_the_red_wizard.md:601</code>. The preceding sentence contrasts the one occasion when a situational spell is useful; the independent transcript hears the incomplete &ldquo;it adds no okay.&rdquo;"
+    }
+  ]
+}

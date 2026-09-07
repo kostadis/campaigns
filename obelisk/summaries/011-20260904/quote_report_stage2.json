@@ -1,0 +1,44 @@
+{
+  "schema_version": 1,
+  "generated_at": "2026-09-06T03:30:02",
+  "transcript": "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt",
+  "threshold": 0.85,
+  "min_tokens": 4,
+  "artifacts": [
+    "summaries/011-20260904/scene_extractions_new/01_arrival_at_wyvern_tor.md",
+    "summaries/011-20260904/scene_extractions_new/02_ambush_at_the_ravine.md",
+    "summaries/011-20260904/scene_extractions_new/03_scouting_the_cave.md",
+    "summaries/011-20260904/scene_extractions_new/04_the_ambush_inside_the_cave.md",
+    "summaries/011-20260904/scene_extractions_new/05_the_battle_against_gog.md",
+    "summaries/011-20260904/scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md",
+    "summaries/011-20260904/scene_extractions_new/07_dinner_with_the_red_wizard.md"
+  ],
+  "counts": {
+    "verified": 1014,
+    "near": 1,
+    "unverified": 0,
+    "unscored": 0,
+    "exempt": 0
+  },
+  "refusals": {
+    "total": 0,
+    "by_rule": {
+      "R1": 0,
+      "R3": 0
+    }
+  },
+  "not_checked": [
+    "Inline `\"\u2026\"` spans in prose \u2014 not reliably dialogue (a plaque honouring the \"liberators of the Ordning\" is a label, not speech). Only `> \"\u2026\"` blockquotes are verified.",
+    "Speaker attribution. This report answers *were these words said*, not *did this person say them*.",
+    "`## Scene summary` sections \u2014 human-authored gm-assist content, not model output."
+  ],
+  "claims": {
+    "summaries/011-20260904/scene_extractions_new/01_arrival_at_wyvern_tor.md": "verbatim",
+    "summaries/011-20260904/scene_extractions_new/02_ambush_at_the_ravine.md": "verbatim",
+    "summaries/011-20260904/scene_extractions_new/03_scouting_the_cave.md": "verbatim",
+    "summaries/011-20260904/scene_extractions_new/04_the_ambush_inside_the_cave.md": "verbatim",
+    "summaries/011-20260904/scene_extractions_new/05_the_battle_against_gog.md": "verbatim",
+    "summaries/011-20260904/scene_extractions_new/06_secrets_in_the_charcoal_and_looting_the_cave.md": "verbatim",
+    "summaries/011-20260904/scene_extractions_new/07_dinner_with_the_red_wizard.md": "verbatim"
+  }
+}

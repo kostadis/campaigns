@@ -1,0 +1,157 @@
+consistency_check:
+  timestamp: "2026-09-06T00:14:43+00:00"
+  campaign: obelisk
+  document_checked: summaries/011-20260904/session_summary.md
+  document_class: "enhanced recap"
+  report: summaries/011-20260904/consistency_report_stage1_summary.md
+  quote_report: summaries/011-20260904/quote_report_stage1.md
+  config: config/config.yaml
+  backend: codex-cli
+  issues_found: 8
+  issues_count_method: >-
+    Counted the eight numbered findings in the saved report body. The command's
+    contradictory "No issues found" banner was not trusted.
+  review_mode: batch
+  review_status: COMPLETE
+  decision_file: /home/kostadis/Downloads/staged_consistency_stage_1_decisions.json
+  session_prep_used: true
+  entity_registry_used: true
+  session_date: "2026-09-05"
+  stages:
+    stage0:
+      status: NOT_RUN
+      note: >-
+        Not rerun in this Stage 1-only request. A historical Stage 0 report and
+        manifest already exist in this session directory.
+    stage1:
+      status: COMPLETE
+      document: summaries/011-20260904/session_summary.md
+    stage2:
+      status: NOT_RUN
+      note: "No scene_extractions_new/ artifacts exist."
+    stage3:
+      status: NOT_RUN
+      note: "No narration artifacts exist."
+  quote_verification:
+    transcript: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+    status: passed
+    verified: 17
+    near: 0
+    unverified: 0
+    refused: 0
+    caveat: >-
+      The deterministic verifier checks blockquote wording, not inline quoted
+      prose or speaker attribution.
+  speaker_map: |
+    The cleaned VTT has two labelled speakers: Kostadis Roussos (GM) and Nikhil
+    (Zenvon). docs/party.md lists four party characters; the GM voices Veyra,
+    Sister Maela, Pip, and all NPCs. This absent-player condition makes raw
+    speaker labels insufficient for in-character attribution. The surrounding
+    cues for all 17 blockquotes were reviewed manually; their attributions agree
+    with the roleplay framing in the tape.
+  sources:
+    auto_loaded:
+      - { label: campaign_state, path: docs/campaign_state.md }
+      - { label: world_state, path: docs/world_state.md }
+    context:
+      - { path: docs/party.md, role: "PCs and sidekicks" }
+      - { path: docs/entity_registry.yaml, role: "canonical entities and aliases" }
+      - { path: notes/vtt_transcription_corrections.md, role: "ASR glossary" }
+      - { path: notes/vtt_known_additions.md, role: "confirmed names not yet promoted" }
+      - { path: notes/session_prep/20260904_chapter_10_the_wizard_of_the_old_owl_well.md, role: "content-matched session prep" }
+      - { path: notes/hamun_kost_strategy.md, role: "Hamun strategy and scene context" }
+      - { path: notes/handouts/player_quest_log.md, role: "player-facing quest state" }
+      - { path: notes/handouts/player_quest_log_pip.md, role: "Pip player-facing quest state" }
+      - { path: summaries/011-20260904/gm-assist.md, role: "Stage 0 source recap" }
+    quote_verification_transcript:
+      path: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+    transcripts_consulted_by_hand:
+      - path: "summaries/011-20260904/GMT20260904-220136_Recording.transcript (1).cleaned.vtt"
+        role: "generation VTT; wording, sequence, mechanics, and attribution adjudication"
+  command_notes: |
+    The checker printed that it did not find entity_registry.yaml under config/;
+    docs/entity_registry.yaml was nevertheless supplied explicitly through the
+    single --context list. The command reported 11 context documents and no
+    context-file-not-found error.
+  resolution:
+    status: COMPLETE
+    reviewed_by: GM
+    reviewed: "2026-09-06"
+    applied_without_ruling:
+      - finding: 1
+        fix: >-
+          Corrected the Magic Missile count in session_summary.md and propagated
+          the same evidence-settled correction to gm-assist.md: two castings
+          against the sentry and one against Gog.
+      - finding: 5
+        fix: >-
+          Replaced "among the Cragmaw band" with "encountered during the Cragmaw
+          ambush" in session_summary.md, preserving what Sildar reported without
+          assigning the non-Cragmaw goblin to that faction.
+      - finding: 6
+        review_id: s1-06
+        fix: >-
+          GM approved 180 sp as the final Wyvern Tor chest ledger total. Updated
+          both affected passages in session_summary.md while preserving Pip's
+          exact 180-sp blockquote; the later 160-sp utterance is identified as a
+          recording slip.
+    triage_rejected:
+      - finding: 2
+        rationale: >-
+          The tape records the sentry dead and hidden before the GM announces four
+          bugbears inside (cues 407, 420-421, and 465), so five total is what was
+          deliberately played. This re-verifies the prior GM ruling.
+      - finding: 3
+        rationale: >-
+          The tape records two 7-damage hits and then the GM explicitly correcting
+          Brughor to 2 HP (cues 610, 615-616, and 625). The arithmetic may not match
+          the prep stat block, but the enhanced recap accurately says this was the
+          GM's recalculated table state.
+      - finding: 4
+        rationale: >-
+          Cues 1253-1259 explicitly connect Aldith's name to Tresendar Manor and
+          award inspiration for the roleplay. The target never claims the party
+          connected Talon to the crypt they looted, so the alleged premature crypt
+          resolution is absent.
+      - finding: 7
+        rationale: >-
+          Cue 724 explicitly has the GM roll Sacred Flame as 2d8 and announce 10
+          damage. The recap records the played result; a table ruling is not
+          automatically a recap inconsistency.
+      - finding: 8
+        rationale: >-
+          Cues 853-872 record the True Strike shortsword damage followed by the DM
+          inviting and resolving the scimitar attack. The recap reports the played
+          sequence without claiming it is a general rules entitlement.
+  vtt_adjudicated: |
+    The generation VTT was manually consulted for every model finding and every
+    blockquote attribution. It settled the five-bugbear roster, Brughor's announced
+    2 HP, Talon's Manor-name recognition and inspiration, Sacred Flame's announced
+    2d8/10 result, and the True Strike/scimitar sequence in favor of the recap.
+    It also confirmed a real source-layer Magic Missile count error. For the loot,
+    cue 1050 says 180 silver while cue 1106 later says 160; the GM ruled that the
+    module's 180-sp amount is the final ledger total and the later utterance is a
+    recording slip.
+  carry_forward:
+    - status: DONE
+      item: >-
+        Stage 1 ruling s1-06: the tape says both 180 sp and 160 sp; the GM approved
+        the module's 180-sp amount as the final ledger total, and the summary now
+        identifies the later 160-sp utterance as a recording slip.
+    - status: OPEN
+      item: >-
+        Stage 2 scene extractions and Stage 3 narration are absent and were NOT RUN.
+        No later-stage artifact has passed consistency review.
+    - status: OPEN
+      item: >-
+        Zenvon's spell list remains stale in campaign_state.md, world_state.md, and
+        party.md: True Strike was used in Chapter 11 but is not recorded there.
+    - status: OPEN
+      item: >-
+        Grounding docs retain the module's four-bugbear roster while the GM played
+        five total (one sentry plus four inside). Record the table deviation to
+        prevent this false positive from recurring.
+    - status: NOTE
+      item: >-
+        Four party characters but two tape speakers: the GM voices Veyra, Sister
+        Maela, Pip, and all NPCs. Downstream attribution needs full tape review.

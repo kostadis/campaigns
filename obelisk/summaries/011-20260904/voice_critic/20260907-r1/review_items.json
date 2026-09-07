@@ -1,0 +1,48 @@
+{
+  "title": "Chapter 11 — Voice Critic",
+  "reviewId": "voice-critic:011-20260904:all-scenes-r1",
+  "outputName": "voice_critic_011_all_scenes_r1_decisions.json",
+  "eyebrow": "Seven scenes · Zenvon Forepot · Batch review",
+  "lede": "Follow-up status: speaker tag promoted; scene 05 GM correction removed; scene 04 premature bugbear departure corrected. Scene 07 GM reminder remains pending. Scene 04 prose: 424/522 words (81.2%); scene 05: 390/658 (59.3%); scene 07: 513/1086 (47.2%). Genre limits not checked: unset.",
+  "footer": "Original proposals retained as history. Subsequent chat approvals resolved vc-s05-ref01 and vc-s04-ref01 in narration; see application.md and manifest.json. Only vc-s07-ref01 remains pending. No assembly.",
+  "items": [
+    {
+      "id": "vc-s07-01",
+      "t": "Identify Zenvon as the speaker answering for Veyra",
+      "y": "Create a separate derived revision with the exact replacement below; do not promote. Target: summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+      "n": "Leave narration unchanged and mark this finding rejected.",
+      "ev": "<p><strong>Resolved and promoted into narration.</strong></p><p>Medium · edit</p><p><code>summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:71</code></p><p>Before:</p><pre>“Fascinating,” he says. “Very interesting. And you said, Veyra, you&#x27;ve seen this before.”\n\n“Yes.”</pre><p>After:</p><pre>“Fascinating,” he says. “Very interesting. And you said, Veyra, you&#x27;ve seen this before.”\n\n“Yes,” I say.</pre><p>The addressed character is Veyra, so the untagged reply naturally reads as hers. The reviewed extraction explicitly assigns it to Zenvon. Only the attribution and dependent comma change; the spoken word is preserved.</p><p>scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:245–246; current writing_brief.md: keep clear attribution and distinguish player from character.</p>"
+    },
+    {
+      "id": "vc-s05-ref01",
+      "t": "Refer the Maela correction to source/scrub review",
+      "y": "Record this source/continuity referral for follow-up only; do not edit narration. Target: summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md",
+      "n": "Leave narration unchanged and mark this finding rejected.",
+      "ev": "<p><strong>Resolved in narration by subsequent explicit GM instruction; see application.md.</strong></p><p>Medium · referral</p><p><code>summaries/011-20260904/narration/session_doc_scene_05_battle_against_gog.md:79</code></p><p>Before:</p><pre>“That was Pip,” she tells me.</pre><p>No executable replacement proposed.</p><p>The source labels this as a GM attribution correction, not Maela speaking. No known in-world speaker is established. Do not fix by guessing another speaker. This is pre-existing narration, not one of the eleven approved dialogue edits.</p><p>scene_extractions_smoothed/05_the_battle_against_gog.md:247–252; current writing_brief.md: table procedure is not spoken dialogue.</p>"
+    },
+    {
+      "id": "vc-s07-ref01",
+      "t": "Refer the apprentice reminder to source/scrub review",
+      "y": "Record this source/continuity referral for follow-up only; do not edit narration. Target: summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md",
+      "n": "Leave narration unchanged and mark this finding rejected.",
+      "ev": "<p><strong>Referral recorded; underlying issue remains pending.</strong></p><p>Medium · referral</p><p><code>summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:45</code></p><p>Before:</p><pre>“My apprentice,” Hamun reminds me.</pre><p>No executable replacement proposed.</p><p>Hamun previously identifies his apprentice in actual speech, but this extra reply comes from a GM reminder. The source does not establish Hamun saying the proposed quotation here. No automatic speech rewrite.</p><p>scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:169–175; current writing_brief.md: do not invent dialogue from GM clarifications.</p>"
+    },
+    {
+      "id": "vc-s04-ref01",
+      "t": "Refer the repeated bugbear departure to continuity review",
+      "y": "Record this source/continuity referral for follow-up only; do not edit narration. Target: summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md",
+      "n": "Leave narration unchanged and mark this finding rejected.",
+      "ev": "<p><strong>Resolved in narration by subsequent explicit GM instruction; see application.md.</strong></p><p>Medium · referral</p><p><code>summaries/011-20260904/narration/session_doc_scene_04_ambush_inside_the_cave.md:63</code></p><p>Before:</p><pre>The remaining bugbears understand. They move around her rather than through her and flee into the ravine.</pre><p>No executable replacement proposed.</p><p>Scene 4 completes the remaining departures; scene 5:13 and :23 then narrates further departures. The source orders the first escape, Maela’s warning/yielding, then staggered exits during combat. Review the whole join before deciding where to limit or remove completion language.</p><p>scene_extractions_smoothed/04_the_ambush_inside_the_cave.md:119–149; scene_extractions_smoothed/05_the_battle_against_gog.md:60–106; narration/session_doc_scene_05_battle_against_gog.md:13,23.</p>"
+    }
+  ],
+  "state": {
+    "decisions": {
+      "vc-s07-01": "approve",
+      "vc-s05-ref01": "approve",
+      "vc-s07-ref01": "approve",
+      "vc-s04-ref01": "approve"
+    },
+    "notes": {},
+    "savedAt": "2026-09-07 00:10 UTC"
+  }
+}

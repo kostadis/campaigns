@@ -1,0 +1,37 @@
+{
+  "title": "Scene 07 — Zenvon Forepot",
+  "reviewId": "dialogue-edit:0f0c6366e580126243397bb1917d1fee63609d94ec8d89e6a67f9ed1a309c3cc",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s07-01",
+      "t": "s07-01: Clarify that Zenvon means the enemy group collapsed after Brughor fell; &#x27;the entire party&#x27; otherwise reads as his own companions being defeated.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:55</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>and then took out the boss first, and then the entire party collapsed.</pre><p>After</p><pre>and then took out the boss first, and then their entire group collapsed.</pre><p>Surrounding draft</p><pre>He asks what happened at Wyvern Tor, so I give him the sequence.\n\n“The party was in a cave, and then we sneakily attacked the sentry, and then took out the boss first, and then the entire party collapsed.”\n\nI tell him about the bugbears fleeing and Gog remaining. Then I mention the thing that did not fit with the rest.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:21</code></p><pre>- He describes the sentry ambush, the attack on the leader, and the charcoal drawing.</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:16</code></p><pre>- Hamun delightedly receives the news that the boss and ogre are dead and the bugbears have fled.</pre>"
+    },
+    {
+      "id": "s07-02",
+      "t": "s07-02: Restore Zenvon&#x27;s question and make the dependent attribution agree; Pip&#x27;s next action confirms the inference.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:95</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: adjacent-attribution; support: supported</p><p>Before</p><pre>“And he hides it again,” I say quietly.</pre><p>After</p><pre>“And he hides it again?” I ask quietly.</pre><p>Surrounding draft</p><pre>That is enough information to watch him. I see nothing I can price. Pip does. Hamun’s interest rises for a moment at the mention of the black obelisk, then he hides it again.\n\n“And he hides it again,” I say quietly.\n\nPip confirms it.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:307</code></p><pre>**Zenvon Forepot** — *asking whether Hamun conceals it*</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:308</code></p><pre>&quot;And he hides it again.&quot;</pre>"
+    },
+    {
+      "id": "s07-03",
+      "t": "s07-03: Remove unrecoverable false starts while retaining Zenvon&#x27;s tentative &#x27;you know&#x27; and his actual claim about the sword.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:105</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“It&#x27;s a… what that is… you know… made with… forged with diamonds and all the other precious stones.”</pre><p>After</p><pre>“It&#x27;s, you know, forged with diamonds and all the other precious stones.”</pre><p>Surrounding draft</p><pre>“For example, you see that sword you have?”\n\n“Yes,” I say. “It&#x27;s a… what that is… you know… made with… forged with diamonds and all the other precious stones.”\n\n“It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk.”\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:337</code></p><pre>&quot;Yes, it&#x27;s a… What that is… you know…&quot;</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:340</code></p><pre>&quot;Made with… forged with diamonds and all the other precious stones.&quot;</pre>"
+    },
+    {
+      "id": "s07-04",
+      "t": "s07-04: Remove a clear false start while preserving Pip&#x27;s phrasing and the separate final &#x27;In combat.&#x27; beat.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_07_dinner_with_the_red_wizard.md:125</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene07-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“I was… I just hope, you know, to keep up to his name when I use this sword. In combat.”</pre><p>After</p><pre>“I just hope, you know, to keep up to his name when I use this sword. In combat.”</pre><p>Surrounding draft</p><pre>Hamun describes Aldith Tresendar arriving in black armor, his cape billowing, Talon in his hand.\n\nPip looks down at the sword. “I was… I just hope, you know, to keep up to his name when I use this sword. In combat.”\n\nHamun smiles. “Yes, Pip, I hope that for you too. And as I said, anything you find related to the Netherese, consider me your expert.”\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:385</code></p><pre>&quot;I was… I just hope,&quot;</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:388</code></p><pre>&quot;You know, to keep up to his name when I use this sword.&quot;</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/07_dinner_with_the_red_wizard.md:391</code></p><pre>&quot;In combat.&quot;</pre>"
+    }
+  ]
+}

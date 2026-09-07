@@ -1,0 +1,16 @@
+{
+  "title": "Scene 06 — Zenvon Forepot",
+  "reviewId": "dialogue-edit:6df5e83712fb508a8d4ff96cc7062f97bfb86c7313e8b0cd240652fb394ac568",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s06-01",
+      "t": "s06-01: Remove an incomplete false start and accidental repetition while preserving Zenvon&#x27;s direct request and formal question.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration/session_doc_scene_06_charcoal_secrets_and_spoils.md:29</code></p><p>Output area: <code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/dialogue_edit/scene06-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Come look over the… I see, I see a drawing here on the wall. Does this figure seem familiar from one of the books that you have read?”</pre><p>After</p><pre>“Come look. I see a drawing here on the wall. Does this figure seem familiar from one of the books that you have read?”</pre><p>Surrounding draft</p><pre>I call Veyra over.\n\n“Come look over the… I see, I see a drawing here on the wall. Does this figure seem familiar from one of the books that you have read?”\n\nHer blue crystal flares faintly.\n</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md:118</code></p><pre>&quot;Come look over the… I see, I see a drawing here on the wall.&quot;</pre><p><code>/home/kostadis/obelisk/obelisk/summaries/011-20260904/scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md:121</code></p><pre>&quot;Does this figure seem familiar from one of the books that you have read?&quot;</pre>"
+    }
+  ]
+}

@@ -1,0 +1,807 @@
+# Transcript corrections — the record the .cleaned.vtt is generated from.
+# CampaignGenerator #250 R4.  sd_corrections apply --dir .
+# Every entry here was ruled on by the GM: 35 glossary rows and 7 one-off
+# cue fixes approved in the Chapter 11 Spell Pass artifact, 2026-09-05;
+# Beira→Veyra, Zenvaum→Zenvon, and the bare Mela→Maela demotion ruled
+# in chat the same day. Plus standing rows approved in earlier sessions.
+version: 1
+transcript: GMT20260904-220136_Recording.transcript (1).vtt
+corrections:
+- id: cue-0047
+  cue: 47
+  was: 'Kostadis Roussos: You''ve just met with, Harum Kost.'
+  now: 'Kostadis Roussos: You''ve just met with, Hamun Kost.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0050
+  cue: 50
+  was: 'Kostadis Roussos: necromancer, who said he knew where the cave Wave Eco Cave was.'
+  now: 'Kostadis Roussos: necromancer, who said he knew where the cave Wave Echo Cave was.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0052
+  cue: 52
+  was: 'Kostadis Roussos: Cragma Castle.'
+  now: 'Kostadis Roussos: Cragmaw Castle.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0054
+  cue: 54
+  was: 'Kostadis Roussos: what''s his name? Gundrun… Gundrun…'
+  now: 'Kostadis Roussos: what''s his name? Gundren… Gundren…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0056
+  cue: 56
+  was: 'Kostadis Roussos: Glass… Gundrin Rockseeker is Yarno Glastaff, and, your,'
+  now: 'Kostadis Roussos: Glass… Gundren Rockseeker is Iarno Glasstaff, and, your,'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0063
+  cue: 63
+  was: 'Nikhil: No, I think, he had a quest at Webentor.'
+  now: 'Nikhil: No, I think, he had a quest at Wyvern Tor.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0070
+  cue: 70
+  was: 'Kostadis Roussos: No, actually, it is true. The Wyvern Tour is the same one. Yes, you are correct.'
+  now: 'Kostadis Roussos: No, actually, it is true. The Wyvern Tor is the same one. Yes, you are correct.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0071
+  cue: 71
+  was: 'Nikhil: Yes, yes, yeah. My mistake. Yeah, I chose Wyvernor.'
+  now: 'Nikhil: Yes, yes, yeah. My mistake. Yeah, I chose Wyvern Tor.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0247
+  cue: 247
+  was: 'Nikhil: Okay, I want to use, vera as a bait.'
+  now: 'Nikhil: Okay, I want to use, Veyra as a bait.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0251
+  cue: 251
+  was: 'Nikhil: Right, so I want Vera to step out into the open and, so that the bugbear can notice her and walk a little forward.'
+  now: 'Nikhil: Right, so I want Veyra to step out into the open and, so that the bugbear can notice her and walk a little forward.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0259
+  cue: 259
+  was: 'Kostadis Roussos: Okay, so you''re trying to… you''re basically trying to make Vera look like she''s some lost academic who doesn''t know what''s going on, right?'
+  now: 'Kostadis Roussos: Okay, so you''re trying to… you''re basically trying to make Veyra look like she''s some lost academic who doesn''t know what''s going on, right?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0262
+  cue: 262
+  was: 'Kostadis Roussos: I''m trying to decide what Vera''s reaction is.'
+  now: 'Kostadis Roussos: I''m trying to decide what Veyra''s reaction is.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0264
+  cue: 264
+  was: 'Kostadis Roussos: But, okay, Vera, Vera''s kinda like…'
+  now: 'Kostadis Roussos: But, okay, Veyra, Veyra''s kinda like…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0265
+  cue: 265
+  was: 'Kostadis Roussos: Vera, picks up, picks up her notebook, she looks at the bug beer, realizes the bug beer, she has enough time to dodge him, so she steps up and stands in front, stands in front.'
+  now: 'Kostadis Roussos: Veyra, picks up, picks up her notebook, she looks at the bug beer, realizes the bug beer, she has enough time to dodge him, so she steps up and stands in front, stands in front.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0316
+  cue: 316
+  was: 'Kostadis Roussos: Sister Mailer…'
+  now: 'Kostadis Roussos: Sister Maela…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0318
+  cue: 318
+  was: 'Kostadis Roussos: So, Vera is the only one who gets a surprise round.'
+  now: 'Kostadis Roussos: So, Veyra is the only one who gets a surprise round.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0328
+  cue: 328
+  was: 'Kostadis Roussos: So, Vera''s the only one who gets a surprise round. What does Vera do? I have to get her character sheet.'
+  now: 'Kostadis Roussos: So, Veyra''s the only one who gets a surprise round. What does Veyra do? I have to get her character sheet.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0332
+  cue: 332
+  was: 'Kostadis Roussos: Alright, Vera… Shoots an arrow, uses magic missile on him.'
+  now: 'Kostadis Roussos: Alright, Veyra… Shoots an arrow, uses magic missile on him.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0333
+  cue: 333
+  was: 'Kostadis Roussos: Vera, that was not very good. Alright, and does 6 points of damage with Magic Missile. Alright.'
+  now: 'Kostadis Roussos: Veyra, that was not very good. Alright, and does 6 points of damage with Magic Missile. Alright.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0338
+  cue: 338
+  was: 'Kostadis Roussos: He sees Pip, Sister Mela, And… Vera. Alright.'
+  now: 'Kostadis Roussos: He sees Pip, Sister Maela, And… Veyra. Alright.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0339
+  cue: 339
+  was: 'Kostadis Roussos: Xenobon Europe.'
+  now: 'Kostadis Roussos: Zenvon Europe.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0379
+  cue: 379
+  was: 'Kostadis Roussos: Alright, Sister Mela… I was like… She looks at the, bugbear.'
+  now: 'Kostadis Roussos: Alright, Sister Maela… I was like… She looks at the, bugbear.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0388
+  cue: 388
+  was: 'Kostadis Roussos: Stir… Mela. Right, sister, Mela… okay, that''s it. Beira.'
+  now: 'Kostadis Roussos: Stir… Maela. Right, sister, Maela… okay, that''s it. Veyra.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0389
+  cue: 389
+  was: 'Kostadis Roussos: Vera… Looks at him again, and decides to cast another… Magic result.'
+  now: 'Kostadis Roussos: Veyra… Looks at him again, and decides to cast another… Magic result.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0410
+  cue: 410
+  was: 'Kostadis Roussos: Sister Melo says, it''s always a good thing to feel sad about killing one of, one of the creatures in this world, but when you''re dealing with, but it was either us or him.'
+  now: 'Kostadis Roussos: Sister Maela says, it''s always a good thing to feel sad about killing one of, one of the creatures in this world, but when you''re dealing with, but it was either us or him.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0412
+  cue: 412
+  was: 'Kostadis Roussos: Vera says, yeah, but I was his lunch.'
+  now: 'Kostadis Roussos: Veyra says, yeah, but I was his lunch.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0414
+  cue: 414
+  was: 'Kostadis Roussos: Sister Mela''s like, that''s very… it''s very noble of you to, you know, to be… to be… to thoughtfully care'
+  now: 'Kostadis Roussos: Sister Maela''s like, that''s very… it''s very noble of you to, you know, to be… to be… to thoughtfully care'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0419
+  cue: 419
+  was: 'Kostadis Roussos: what can we do now, right? So, Sister Mela says, well, if we leave the body here, and somebody comes out, they may notice… they may notice… they may… they might… all of our effort to try to get some kind of surprise might go to waste.'
+  now: 'Kostadis Roussos: what can we do now, right? So, Sister Maela says, well, if we leave the body here, and somebody comes out, they may notice… they may notice… they may… they might… all of our effort to try to get some kind of surprise might go to waste.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0449
+  cue: 449
+  was: 'Kostadis Roussos: But apparently somebody decided to go fix it. Alright, Zenvaughn, you wanna go look inside?'
+  now: 'Kostadis Roussos: But apparently somebody decided to go fix it. Alright, Zenvon, you wanna go look inside?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0474
+  cue: 474
+  was: 'Kostadis Roussos: Okie dokie. Sister Mela, you don''t notice anything, so Sister Mela pokes her head as well.'
+  now: 'Kostadis Roussos: Okie dokie. Sister Maela, you don''t notice anything, so Sister Maela pokes her head as well.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0481
+  cue: 481
+  was: 'Kostadis Roussos: Well, he, he goes, look… now he tried to… he goes, now, now look, Zenvaum, in the military, sometimes the, the, the, the, the, most of these creatures are… respond to whoever''s the biggest, so normally it would be the ogre in charge.'
+  now: 'Kostadis Roussos: Well, he, he goes, look… now he tried to… he goes, now, now look, Zenvon, in the military, sometimes the, the, the, the, the, most of these creatures are… respond to whoever''s the biggest, so normally it would be the ogre in charge.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0495-oneoff
+  cue: 495
+  was: 'Nikhil: pretty valid. So, what do you suggest? Do you suggest, to kill the Ark?'
+  now: 'Nikhil: pretty valid. So, what do you suggest? Do you suggest, to kill the orc?'
+  recorded: 2026-09-05
+  verified: true
+  note: one-off; no glossary row because "ark" is an ordinary word.
+- id: cue-0499
+  cue: 499
+  was: 'Kostadis Roussos: Sister Mila goes, Looks at him a little bit carefully and says.'
+  now: 'Kostadis Roussos: Sister Maela goes, Looks at him a little bit carefully and says.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0565
+  cue: 565
+  was: 'Kostadis Roussos: That was a very clever solution to the problem. All right. Okay. So, Vera''s gonna be over here.'
+  now: 'Kostadis Roussos: That was a very clever solution to the problem. All right. Okay. So, Veyra''s gonna be over here.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0566
+  cue: 566
+  was: 'Kostadis Roussos: Sister Mela… It''s gonna be over here. Zenbon.'
+  now: 'Kostadis Roussos: Sister Maela… It''s gonna be over here. Zenvon.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0573
+  cue: 573
+  was: 'Kostadis Roussos: Alright, I was Sister Mila.'
+  now: 'Kostadis Roussos: Alright, I was Sister Maela.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0577
+  cue: 577
+  was: 'Kostadis Roussos: Sister Mela did as well.'
+  now: 'Kostadis Roussos: Sister Maela did as well.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0581
+  cue: 581
+  was: 'Kostadis Roussos: Alright, so, Xenovan and Sister Mela get to attack with surprise. Pip and Deira have to wait for their turn in the normal initiative order.'
+  now: 'Kostadis Roussos: Alright, so, Zenvon and Sister Maela get to attack with surprise. Pip and Veyra have to wait for their turn in the normal initiative order.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0593
+  cue: 593
+  was: 'Kostadis Roussos: Alright, Zenbon.'
+  now: 'Kostadis Roussos: Alright, Zenvon.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0619
+  cue: 619
+  was: 'Kostadis Roussos: We established Sister Mela had advantage, right? So, Sister Mela…'
+  now: 'Kostadis Roussos: We established Sister Maela had advantage, right? So, Sister Maela…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0625
+  cue: 625
+  was: 'Kostadis Roussos: Yeah, that would… that would have been a mess. Alright, she''s actually got 2 hit points, I miscalculated it. Okay, so she''s got 2 hit points. Sister Mail.'
+  now: 'Kostadis Roussos: Yeah, that would… that would have been a mess. Alright, she''s actually got 2 hit points, I miscalculated it. Okay, so she''s got 2 hit points. Sister Maela.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0626
+  cue: 626
+  was: 'Kostadis Roussos: Sister Mela, you''re breaking my heart, lady.'
+  now: 'Kostadis Roussos: Sister Maela, you''re breaking my heart, lady.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0628
+  cue: 628
+  was: 'Kostadis Roussos: Jeez, Sister Mela, you broke my heart.'
+  now: 'Kostadis Roussos: Jeez, Sister Maela, you broke my heart.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0637
+  cue: 637
+  was: 'Kostadis Roussos: Alright, okay, so now we go through the initiative normally. Sister Mela, you''re up.'
+  now: 'Kostadis Roussos: Alright, okay, so now we go through the initiative normally. Sister Maela, you''re up.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0638
+  cue: 638
+  was: 'Kostadis Roussos: Sorry, Xenobon, you''re up again.'
+  now: 'Kostadis Roussos: Sorry, Zenvon, you''re up again.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0678
+  cue: 678
+  was: 'Nikhil: is dead, we both are inside. Pippa and Vera are outside, so…'
+  now: 'Nikhil: is dead, we both are inside. Pip and Veyra are outside, so…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0686-oneoff
+  cue: 686
+  was: 'Nikhil: So, all of them, including the Augur.'
+  now: 'Nikhil: So, all of them, including the ogre.'
+  recorded: 2026-09-05
+  verified: true
+  note: one-off; no glossary row because "augur" is an ordinary English word.
+- id: cue-0699
+  cue: 699
+  was: 'Kostadis Roussos: So, he runs out here, runs through here, Pip and Vera.'
+  now: 'Kostadis Roussos: So, he runs out here, runs through here, Pip and Veyra.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0701
+  cue: 701
+  was: 'Kostadis Roussos: Right. Vera''s about to try to kill him, and Pip reminds her what the plan was.'
+  now: 'Kostadis Roussos: Right. Veyra''s about to try to kill him, and Pip reminds her what the plan was.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0703
+  cue: 703
+  was: 'Kostadis Roussos: Right? Remember, Vera has a thing with killing people, right?'
+  now: 'Kostadis Roussos: Right? Remember, Veyra has a thing with killing people, right?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0705
+  cue: 705
+  was: 'Kostadis Roussos: Alright, Sister Mela… Seeing, the ogre, the, the bugbear dead.'
+  now: 'Kostadis Roussos: Alright, Sister Maela… Seeing, the ogre, the, the bugbear dead.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0709
+  cue: 709
+  was: 'Kostadis Roussos: Brugor, Axebiter, whom he loved dearly, and you killed him, you bastards.'
+  now: 'Kostadis Roussos: Brughor, Axe-Biter, whom he loved dearly, and you killed him, you bastards.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0711
+  cue: 711
+  was: 'Kostadis Roussos: Well, I''m… Mela''s gonna attack, is what''s gonna happen. Okay. So, Sister Mela''s going to attack.'
+  now: 'Kostadis Roussos: Well, I''m… Maela''s gonna attack, is what''s gonna happen. Okay. So, Sister Maela''s going to attack.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0728
+  cue: 728
+  was: 'Kostadis Roussos: A mini dog, you kill, Brugor, me eat you alive.'
+  now: 'Kostadis Roussos: A mini dog, you kill, Brughor, me eat you alive.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0761-oneoff
+  cue: 761
+  was: 'Kostadis Roussos: The next Bud Beer… This one also runs out, and, you know… He''s gone to the wind.'
+  now: 'Kostadis Roussos: The next bugbear… This one also runs out, and, you know… He''s gone to the wind.'
+  recorded: 2026-09-05
+  verified: true
+  note: one-off common-noun mishearing, not a proper name.
+- id: cue-0770
+  cue: 770
+  was: 'Kostadis Roussos: is, let''s get rid of him, alright. Vera.'
+  now: 'Kostadis Roussos: is, let''s get rid of him, alright. Veyra.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0772-oneoff
+  cue: 772
+  was: 'Kostadis Roussos: Telled her to use Magic Consolt twice, so she''s gonna use a Firebolt.'
+  now: 'Kostadis Roussos: Telled her to use magic missile twice, so she''s gonna use a Firebolt.'
+  recorded: 2026-09-05
+  verified: true
+  note: one-off; a spell name, out of scope for the glossary.
+- id: cue-0781
+  cue: 781
+  was: 'Kostadis Roussos: You… Vera can aim through you.'
+  now: 'Kostadis Roussos: You… Veyra can aim through you.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0895
+  cue: 895
+  was: 'Kostadis Roussos: Yeah. Sister Mela uses her sacred flame again, and'
+  now: 'Kostadis Roussos: Yeah. Sister Maela uses her sacred flame again, and'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0900
+  cue: 900
+  was: 'Kostadis Roussos: And a missus. Alright, Vera.'
+  now: 'Kostadis Roussos: And a missus. Alright, Veyra.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0901
+  cue: 901
+  was: 'Kostadis Roussos: Vera turns… shouts, hey boss, should I use my last spell?'
+  now: 'Kostadis Roussos: Veyra turns… shouts, hey boss, should I use my last spell?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0913
+  cue: 913
+  was: 'Nikhil: Gawk, yes, yes. Hey, Gawk, Visem,'
+  now: 'Nikhil: Gog, yes, yes. Hey, Gog, Visem,'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0915
+  cue: 915
+  was: 'Nikhil: We had to help our friend Among cost.'
+  now: 'Nikhil: We had to help our friend Hamun Kost.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0937
+  cue: 937
+  was: 'Kostadis Roussos: He looks at you and goes, You killed Brugor! Brugor!'
+  now: 'Kostadis Roussos: He looks at you and goes, You killed Brughor! Brughor!'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0939
+  cue: 939
+  was: 'Kostadis Roussos: and he looks at you and goes, Rukor!'
+  now: 'Kostadis Roussos: and he looks at you and goes, Brughor!'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0940
+  cue: 940
+  was: 'Kostadis Roussos: Brugor say, Brugor, pause, Brugor, He starts crying.'
+  now: 'Kostadis Roussos: Brughor say, Brughor, pause, Brughor, He starts crying.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0942-oneoff
+  cue: 942
+  was: 'Kostadis Roussos: He looks at you… he looks at you and goes, brew Gorset, attack.'
+  now: 'Kostadis Roussos: He looks at you… he looks at you and goes, Brughor say, attack.'
+  recorded: 2026-09-05
+  verified: true
+  note: one-off; spans a phrase boundary. Dialect form "say" (not "says") confirmed by GM 2026-09-05 against cue 940 in the same speech.
+- id: cue-0943
+  cue: 943
+  was: 'Kostadis Roussos: He goes… he looks at you, goes, who the heck is… he doesn''t know who Zoom Kost is, so you''re gonna have to describe them to him.'
+  now: 'Kostadis Roussos: He goes… he looks at you, goes, who the heck is… he doesn''t know who Hamun Kost is, so you''re gonna have to describe them to him.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0946
+  cue: 946
+  was: 'Nikhil: So Brugort says they attack, and they attack, that''s it, okay. So this guy, he doesn''t know anything.'
+  now: 'Nikhil: So Brughor says they attack, and they attack, that''s it, okay. So this guy, he doesn''t know anything.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0949
+  cue: 949
+  was: 'Kostadis Roussos: Sister Mela''s like, sounds good to me. I never liked ogres.'
+  now: 'Kostadis Roussos: Sister Maela''s like, sounds good to me. I never liked ogres.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0957
+  cue: 957
+  was: 'Kostadis Roussos: Sister Mela, turn… you… do you applaud? Do you, like, literally clap your hands?'
+  now: 'Kostadis Roussos: Sister Maela, turn… you… do you applaud? Do you, like, literally clap your hands?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0958
+  cue: 958
+  was: 'Nikhil: Yeah, good job, Sister Camela.'
+  now: 'Nikhil: Yeah, good job, Sister Maela.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0961
+  cue: 961
+  was: 'Kostadis Roussos: Sister Mela looks at you and goes, dude, you''re cold.'
+  now: 'Kostadis Roussos: Sister Maela looks at you and goes, dude, you''re cold.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-0969
+  cue: 969
+  was: 'Kostadis Roussos: Vera is very pleased. Alright, you wanna keep looking around?'
+  now: 'Kostadis Roussos: Veyra is very pleased. Alright, you wanna keep looking around?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1012
+  cue: 1012
+  was: 'Nikhil: I''m gonna call… Vera?'
+  now: 'Nikhil: I''m gonna call… Veyra?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1016
+  cue: 1016
+  was: 'Kostadis Roussos: Vera…'
+  now: 'Kostadis Roussos: Veyra…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1037
+  cue: 1037
+  was: 'Kostadis Roussos: So when Vera had written that name last time, the crystal had blown.'
+  now: 'Kostadis Roussos: So when Veyra had written that name last time, the crystal had blown.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1039
+  cue: 1039
+  was: 'Nikhil: You''re not what Rook Sithid wants.'
+  now: 'Nikhil: You''re not what Ruxithid wants.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1053
+  cue: 1053
+  was: 'Kostadis Roussos: Vera goes, You do remember that nobody comes this way, right?'
+  now: 'Kostadis Roussos: Veyra goes, You do remember that nobody comes this way, right?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1067
+  cue: 1067
+  was: 'Kostadis Roussos: Mela looks it over and says, I think you''re missing an arrow.'
+  now: 'Kostadis Roussos: Maela looks it over and says, I think you''re missing an arrow.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1069
+  cue: 1069
+  was: 'Kostadis Roussos: She looks at it, she looks at him, and she stands there. Where? And Mela''s laughing, because…'
+  now: 'Kostadis Roussos: She looks at it, she looks at him, and she stands there. Where? And Maela''s laughing, because…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1070
+  cue: 1070
+  was: 'Kostadis Roussos: she knows that Vera''s gonna spend the next 20 minutes trying to find out which connection.'
+  now: 'Kostadis Roussos: she knows that Veyra''s gonna spend the next 20 minutes trying to find out which connection.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1079
+  cue: 1079
+  was: 'Kostadis Roussos: And from Vera… and you can''t tell whether Vera is just, like, trying to see patterns where they don''t exist.'
+  now: 'Kostadis Roussos: And from Veyra… and you can''t tell whether Veyra is just, like, trying to see patterns where they don''t exist.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1086
+  cue: 1086
+  was: 'Nikhil: Lying in the Kragma closure.'
+  now: 'Nikhil: Lying in the Cragmaw closure.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1094
+  cue: 1094
+  was: 'Kostadis Roussos: And she looks at Sister Mela with this look of, I found it.'
+  now: 'Kostadis Roussos: And she looks at Sister Maela with this look of, I found it.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1098
+  cue: 1098
+  was: 'Kostadis Roussos: Sister Mela… Sister Mela''s got that look of…'
+  now: 'Kostadis Roussos: Sister Maela… Sister Maela''s got that look of…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1113
+  cue: 1113
+  was: 'Nikhil: So, do you wanna head back to Hamun and then, get the information about Kragmakazel?'
+  now: 'Nikhil: So, do you wanna head back to Hamun and then, get the information about Cragmaw Castle?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1119
+  cue: 1119
+  was: 'Kostadis Roussos: Vera, goes, boss?'
+  now: 'Kostadis Roussos: Veyra, goes, boss?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1141
+  cue: 1141
+  was: 'Nikhil: And ask Hamon to come out.'
+  now: 'Nikhil: And ask Hamun to come out.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1142
+  cue: 1142
+  was: 'Nikhil: Tell him that, the threat at Wivor has been… mitigated.'
+  now: 'Nikhil: Tell him that, the threat at Wyvern Tor has been… mitigated.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1155
+  cue: 1155
+  was: 'Kostadis Roussos: Tell me, tell me, Pip, what, what, sorry, Zanvon, tell me what news you have. Tell me only good news.'
+  now: 'Kostadis Roussos: Tell me, tell me, Pip, what, what, sorry, Zenvon, tell me what news you have. Tell me only good news.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1157
+  cue: 1157
+  was: 'Nikhil: extinguished at the Wavantar. We killed the boss, and the…'
+  now: 'Nikhil: extinguished at the Wyvern Tor. We killed the boss, and the…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1158-oneoff
+  cue: 1158
+  was: 'Nikhil: Augur, and the bugbears ran away.'
+  now: 'Nikhil: The ogre, and the bugbears ran away.'
+  recorded: 2026-09-05
+  verified: true
+  note: one-off; no glossary row because "augur" is an ordinary English word.
+- id: cue-1187
+  cue: 1187
+  was: 'Nikhil: You know, for some reason, I have my suspicions on Hamon. I don''t know, it''s just, because he''s a red wizard or something. I fully don''t trust him, but, you know, it''s just business.'
+  now: 'Nikhil: You know, for some reason, I have my suspicions on Hamun. I don''t know, it''s just, because he''s a red wizard or something. I fully don''t trust him, but, you know, it''s just business.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1203
+  cue: 1203
+  was: 'Nikhil: Well… well, Vera can…'
+  now: 'Nikhil: Well… well, Veyra can…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1206
+  cue: 1206
+  was: 'Kostadis Roussos: Hot Moon… Looks at you and says, Fascinating.'
+  now: 'Kostadis Roussos: Hamun… Looks at you and says, Fascinating.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1208
+  cue: 1208
+  was: 'Kostadis Roussos: Very interesting. And you said, Vera, you''ve seen this before.'
+  now: 'Kostadis Roussos: Very interesting. And you said, Veyra, you''ve seen this before.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1212
+  cue: 1212
+  was: 'Kostadis Roussos: Vera.'
+  now: 'Kostadis Roussos: Veyra.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1227
+  cue: 1227
+  was: 'Kostadis Roussos: Bayra''s about to blurt out everything. Do you let her… do you let her tell her everything?'
+  now: 'Kostadis Roussos: Veyra''s about to blurt out everything. Do you let her… do you let her tell her everything?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1229
+  cue: 1229
+  was: 'Nikhil: No, we just, no, we are not aware of those things, but, on the way to Vandevan.'
+  now: 'Nikhil: No, we just, no, we are not aware of those things, but, on the way to Phandalin.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1247
+  cue: 1247
+  was: 'Kostadis Roussos: And in my expertise happens to be the Netheril Empire, and I happen to have more than a passing knowledge of Netheris.'
+  now: 'Kostadis Roussos: And in my expertise happens to be the Netheril Empire, and I happen to have more than a passing knowledge of Netheril.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1253
+  cue: 1253
+  was: 'Kostadis Roussos: It once belonged to a great knight named Aldus Tressender, known as the Black Hawk.'
+  now: 'Kostadis Roussos: It once belonged to a great knight named Aldith Tresendar, known as the Black Hawk.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1254
+  cue: 1254
+  was: 'Nikhil: Crescenter, the names… Seems familiar.'
+  now: 'Nikhil: Tresendar, the names… Seems familiar.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1255
+  cue: 1255
+  was: 'Kostadis Roussos: Yeah, that Tressender Manor.'
+  now: 'Kostadis Roussos: Yeah, that Tresendar Manor.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1259
+  cue: 1259
+  was: 'Nikhil: Thank you. Tressendor Manor, yes. And Elvis Tressendor, okay.'
+  now: 'Nikhil: Thank you. Tresendar Manor, yes. And Aldith Tresendar, okay.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1263
+  cue: 1263
+  was: 'Kostadis Roussos: So, if you ever find any Netheris artifact, or need any information, just come to Hamun.'
+  now: 'Kostadis Roussos: So, if you ever find any Netheril artifact, or need any information, just come to Hamun.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1264
+  cue: 1264
+  was: 'Nikhil: Sure, but why was he called the Blackhawk? I have that question. Is it because…'
+  now: 'Nikhil: Sure, but why was he called the Black Hawk? I have that question. Is it because…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1271-oneoff
+  cue: 1271
+  was: 'Kostadis Roussos: And so, it''s… the whole idea was that he would show up with his black armor, and the cape would be billowing, and he would be… carry talon in his hand,'
+  now: 'Kostadis Roussos: And so, it''s… the whole idea was that he would show up with his black armor, and the cape would be billowing, and he would be… carry Talon in his hand,'
+  recorded: 2026-09-05
+  verified: true
+  note: capitalisation of the sword Talon; no glossary row because a case-insensitive "talon" rule would collide with the Talan→Thel landmine.
+- id: cue-1279
+  cue: 1279
+  was: 'Nikhil: I still don''t trust Hamon, so I…'
+  now: 'Nikhil: I still don''t trust Hamun, so I…'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1280
+  cue: 1280
+  was: 'Kostadis Roussos: And he turns to Vera and says, and Vera, could I take a look at your crystal, if you would be so kind?'
+  now: 'Kostadis Roussos: And he turns to Veyra and says, and Veyra, could I take a look at your crystal, if you would be so kind?'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1284
+  cue: 1284
+  was: 'Kostadis Roussos: Oh, you don''t… you don''t tell her about Vera''s Blue Crystal.'
+  now: 'Kostadis Roussos: Oh, you don''t… you don''t tell her about Veyra''s Blue Crystal.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1286
+  cue: 1286
+  was: 'Kostadis Roussos: Okay, that was my misunderstanding, that''s fine. Okay, alright. So, oh yes, and you did tell Vera to keep her mouth shut.'
+  now: 'Kostadis Roussos: Okay, that was my misunderstanding, that''s fine. Okay, alright. So, oh yes, and you did tell Veyra to keep her mouth shut.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1289
+  cue: 1289
+  was: 'Kostadis Roussos: Vera, you know, has that look that people have who, like, can''t keep their mouth shut.'
+  now: 'Kostadis Roussos: Veyra, you know, has that look that people have who, like, can''t keep their mouth shut.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)
+- id: cue-1295
+  cue: 1295
+  was: 'Nikhil: not say something else. I remember, she wanted to talk with the Nautica as well.'
+  now: 'Nikhil: not say something else. I remember, she wanted to talk with the Nothic as well.'
+  recorded: 2026-09-05
+  verified: true
+  note: glossary rule approved by GM (artifact review 2026-09-05)

@@ -1,0 +1,169 @@
+schema_version: 1
+session: 011-20260904
+campaign: obelisk
+mode: standalone_review_page
+selection_note: >-
+  The GM explicitly asked to prepare all scenes at once. Individual frozen
+  scene reviews are combined into one page; application remains per scene.
+genre_file: null
+runtime:
+  dialogue_editor_model: unknown
+  dialogue_editor_effort: unknown
+  standalone_prompt_pair: unavailable
+  narration_run_record: narration/logs/sd_narrate_bundle_editor_aaa57d19f8dc47d3bdabdcba73f97d32.json
+  narration_backend: codex-cli
+  narration_model: gpt-5.6-sol
+review_page:
+  review_id: dialogue-edit:011-20260904:all-scenes-r1
+  queue: dialogue_edit/review_all_scenes_r1.json
+  html: dialogue_edit/review_all_scenes_r1.html
+  output_name: dialogue_edit_all_scenes_r1_decisions.json
+  status: completed
+  decisions: dialogue_edit/dialogue_edit_all_scenes_r1_decisions.json
+common_references:
+  - ../../config/party.yaml
+  - ../../config/players.yaml
+  - ../../config/session_doc.yaml
+  - ../../voice/zenvon_voice.md
+  - ../../voice/veyra_voice.md
+  - ../../voice/maela_voice.md
+  - ../../voice/pip_voice.md
+  - ../../examples/zenvon.md
+  - ../../examples/house_style.md
+  - ../../notes/scrub_register_policy.md
+  - narration/plan.md
+scenes:
+  - scene: 1
+    name: Arrival at Wyvern Tor
+    narrator: Zenvon Forepot
+    draft: narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md
+    source: scene_extractions_smoothed/01_arrival_at_wyvern_tor.md
+    run_dir: dialogue_edit/scene01-r1
+    review_id: dialogue-edit:de99ad0dd876fa38d7ffa0b48201e4c972679a1815393bdd1590934c3c65ae3e
+    reading: complete
+    proposals: 3
+    review_status: approved
+    application_status: applied
+    decisions: dialogue_edit/scene01-r1/decisions.json
+    revision: dialogue_edit/scene01-r1/applied/approved-r1/scene.md
+    application_record: dialogue_edit/scene01-r1/applied/approved-r1/application.json
+    seam_status: clean
+  - scene: 2
+    name: Ambush at the Ravine
+    narrator: Zenvon Forepot
+    draft: narration/session_doc_scene_02_ambush_at_the_ravine.md
+    source: scene_extractions_smoothed/02_ambush_at_the_ravine.md
+    run_dir: dialogue_edit/scene02-r1
+    review_id: dialogue-edit:68cce994cee1e6437e9fcdc810014a61440d90a3d68f18440a75eef205eda9de
+    reading: complete
+    proposals: 0
+    review_status: no_proposals
+    application_status: not_needed
+    revision: null
+    seam_status: clean_unmodified
+  - scene: 3
+    name: Scouting the Cave
+    narrator: Zenvon Forepot
+    draft: narration/session_doc_scene_03_scouting_the_cave.md
+    source: scene_extractions_smoothed/03_scouting_the_cave.md
+    run_dir: dialogue_edit/scene03-r1
+    review_id: dialogue-edit:d523ab5a03291217ab2365ebb53872b3a2b30b6e83c4ca0f0db9dd01e8863ce0
+    reading: complete
+    proposals: 1
+    review_status: approved
+    application_status: applied
+    decisions: dialogue_edit/scene03-r1/decisions.json
+    revision: dialogue_edit/scene03-r1/applied/approved-r1/scene.md
+    application_record: dialogue_edit/scene03-r1/applied/approved-r1/application.json
+    seam_status: clean
+  - scene: 4
+    name: Ambush Inside the Cave
+    narrator: Zenvon Forepot
+    draft: narration/session_doc_scene_04_ambush_inside_the_cave.md
+    source: scene_extractions_smoothed/04_the_ambush_inside_the_cave.md
+    run_dir: dialogue_edit/scene04-r1
+    review_id: dialogue-edit:10cc38e4708cafe561d22e1257622e48a264f37927bdd907876ffe1a43f0cf61
+    reading: complete
+    proposals: 1
+    review_status: approved
+    application_status: applied
+    decisions: dialogue_edit/scene04-r1/decisions.json
+    revision: dialogue_edit/scene04-r1/applied/approved-r1/scene.md
+    application_record: dialogue_edit/scene04-r1/applied/approved-r1/application.json
+    seam_status: clean
+  - scene: 5
+    name: Battle Against Gog
+    narrator: Zenvon Forepot
+    draft: narration/session_doc_scene_05_battle_against_gog.md
+    source: scene_extractions_smoothed/05_the_battle_against_gog.md
+    run_dir: dialogue_edit/scene05-r1
+    review_id: dialogue-edit:1198b266c120b0eef05816b92a99dbe413976d2fe2e08e554f98361dc0930a4b
+    reading: complete
+    proposals: 1
+    review_status: approved
+    application_status: applied
+    decisions: dialogue_edit/scene05-r1/decisions.json
+    revision: dialogue_edit/scene05-r1/applied/approved-r1/scene.md
+    application_record: dialogue_edit/scene05-r1/applied/approved-r1/application.json
+    seam_status: clean
+  - scene: 6
+    name: Charcoal Secrets and Spoils
+    narrator: Zenvon Forepot
+    draft: narration/session_doc_scene_06_charcoal_secrets_and_spoils.md
+    source: scene_extractions_smoothed/06_secrets_in_the_charcoal_and_looting_the_cave.md
+    run_dir: dialogue_edit/scene06-r1
+    review_id: dialogue-edit:6df5e83712fb508a8d4ff96cc7062f97bfb86c7313e8b0cd240652fb394ac568
+    reading: complete
+    proposals: 1
+    review_status: approved
+    application_status: applied
+    decisions: dialogue_edit/scene06-r1/decisions.json
+    revision: dialogue_edit/scene06-r1/applied/approved-r1/scene.md
+    application_record: dialogue_edit/scene06-r1/applied/approved-r1/application.json
+    seam_status: clean
+  - scene: 7
+    name: Dinner with the Red Wizard
+    narrator: Zenvon Forepot
+    draft: narration/session_doc_scene_07_dinner_with_the_red_wizard.md
+    source: scene_extractions_smoothed/07_dinner_with_the_red_wizard.md
+    run_dir: dialogue_edit/scene07-r1
+    review_id: dialogue-edit:0f0c6366e580126243397bb1917d1fee63609d94ec8d89e6a67f9ed1a309c3cc
+    reading: complete
+    proposals: 4
+    review_status: approved
+    application_status: applied
+    decisions: dialogue_edit/scene07-r1/decisions.json
+    revision: dialogue_edit/scene07-r1/applied/approved-r1/scene.md
+    application_record: dialogue_edit/scene07-r1/applied/approved-r1/application.json
+    seam_status: clean
+decisions:
+  decided: 11
+  approved: 11
+  rejected: 0
+  discussed: 0
+  unresolved: 0
+  saved_at: 2026-09-06 23:51 UTC
+promotion:
+  status: promoted_to_narration
+  promoted_at: 2026-09-06 UTC
+  assembly_status: not_run
+  targets:
+    - narration/session_doc_scene_01_arrival_at_wyvern_tor.md
+    - narration/session_doc_scene_01_arrival_at_wyvern_tor.scrubbed.md
+    - narration/session_doc_scene_03_scouting_the_cave.md
+    - narration/session_doc_scene_04_ambush_inside_the_cave.md
+    - narration/session_doc_scene_05_battle_against_gog.md
+    - narration/session_doc_scene_06_charcoal_secrets_and_spoils.md
+    - narration/session_doc_scene_07_dinner_with_the_red_wizard.md
+  notes:
+    - Scene 01 dialogue edits were mirrored to raw and scrubbed narration; the scrub-only distance edit remains only in the scrubbed copy.
+    - Scene 02 had no proposals and was not changed.
+remaining_issues: []
+seam_findings:
+  - status: clean
+    scope: all six joins between scenes 1 through 7
+    note: No orphaned replies, lost setups, repeated seam sentences, or dialogue-boundary echoes found.
+campaign_rulings:
+  - status: reused
+    scope: campaign
+    ruling: Preserve comprehensible ESL diction and modern table idiom already licensed by the register policy.
