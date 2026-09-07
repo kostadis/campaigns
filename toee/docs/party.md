@@ -16,7 +16,7 @@
 **Collective Resources:**
 - Earth Temple badges (all four PCs)
 - Chest of Rao (delivered to Romag; now in Earth Temple possession under Hartsch)
-- Mace of Smiting (Calmer), Magical dagger (Zinnia), Magical short sword (Sequoia)
+- Mace of Smiting (Calmer), Magical dagger (Zinnia), Frostbrand and magical short sword (Sequoia)
 - Cloak of Elvenkind (Zinnia), Ring of Free Action (party), Ring of Evasion (Calmer)
 - Amulet of Proof against Detection, Ring of Protection +1, Dagger of Venom, Dust of Disappearance ×3
 - Potion of Fire Resistance, Potion of Greater Healing
@@ -113,7 +113,7 @@ Zephyr is the party's primary tactician and face in confrontational situations�
 ### Zinnia
 **Class/Level:** Monk 9 | **Species:** Elf | **Player:** George Kolivakis
 
-Zinnia is the party's most perceptive operator and its most reliable combatant under adverse conditions—she has delivered killing blows on the hag, Fire Temple warlock, and Tharok, persisted through poison and unconsciousness to finish the Otyugh, and held the party together alone when all three companions were harpy-charmed. She is the party's primary intelligence reader in social situations and tends toward calculated deception over confrontation. Her killing of the green hag carried personal weight (childhood hatred of hags); her current relationship with her cover identity appears stable.
+Zinnia is the party's most perceptive operator and its most reliable combatant under adverse conditions—he has delivered killing blows on the hag, Fire Temple warlock, and Tharok, persisted through poison and unconsciousness to finish the Otyugh, and held the party together alone when all three companions were harpy-charmed. He is the party's primary intelligence reader in social situations and tends toward calculated deception over confrontation. His killing of the green hag carried personal weight (childhood hatred of hags); his current relationship with his cover identity appears stable.
 
 **Arc Score Tracks:**
 
@@ -124,7 +124,7 @@ Zinnia is the party's most perceptive operator and its most reliable combatant u
 | Political Maneuvering | High | Drawing out Hartsch's ambitions; managing Jaroo honestly; orchestrating the bluff strategy against Lareth | Declining Jira's mediation request without resolution |
 
 **Notable Relationships:**
-- *Hartsch:* He likely views Zinnia as the most politically savvy party member; she is his primary interlocutor.
+- *Hartsch:* He likely views Zinnia as the most politically savvy party member; Zinnia is his primary interlocutor.
 - *Calmer:* Protective bond; provided reassurance after the Rannos/Gremag killings.
 - *Jaroo:* Positive; was honest with him about which factions had been visited; received his blessing and a healing potion.
 - *Jira (Hommlet):* Declined a mediation request—unresolved.
@@ -161,6 +161,7 @@ Sequoia is the party's tactical coordinator and its most quietly self-interested
 - *Spugnoir:* Recruited him; owes him a share of arcane scrolls from Emridy Meadows (unresolved).
 
 **Items of Significance:**
+- Frostbrand — sentient longsword (a Frost Brand), bonded to Sequoia since Ch31; chose him after rejecting Zinnia and Calmer
 - Magical short sword (from werewolf lair)
 - Five magical arrows (unidentified)
 - Earth Temple badge
@@ -179,7 +180,7 @@ Sequoia is the party's tactical coordinator and its most quietly self-interested
 | Zephyr | Wraith Debt | Active Threat | Resolution | One party member at lethal risk from wraith until it is destroyed or the threat is neutralized |
 | Zinnia | Operational Acuity | High | Critical | Perceptive discoveries become near-automatic; GM-determined |
 | Zinnia | Combat Resilience | High | Critical | Persisting through adverse conditions may unlock a defensive threshold ability |
-| Zinnia | Political Maneuvering | High | Critical | NPC manipulation becomes reliable; Hartsch firmly in her orbit |
+| Zinnia | Political Maneuvering | High | Critical | NPC manipulation becomes reliable; Hartsch firmly in his orbit |
 | Sequoia | Leadership & Tactics | High | Critical | Tactical coordination grants the party a meaningful initiative/positioning benefit |
 | Sequoia | Loyalty Management | Moderate | High | Managing competing loyalties successfully; failure risks Rufus or Romag faction loss |
 

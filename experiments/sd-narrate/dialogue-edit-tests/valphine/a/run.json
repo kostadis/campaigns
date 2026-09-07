@@ -1,0 +1,62 @@
+{
+  "status": "rendered",
+  "case": "valphine",
+  "approach": "a",
+  "narrator": "Valphine Sotorra",
+  "scene": "The Ninth Crate Disappears",
+  "model": "gpt-6-astra",
+  "reasoning_effort": "medium",
+  "backend": "codex-cli",
+  "input_sha256": {
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_02_trial_01/session_doc_scene_02_the_ninth_crate_disappears.md": "79ef9fc15255fccc6abb9d31fa140ae4a8b4d2c23211cb580fb6188ae83defcf",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/02_the_sewer_stakeout.md": "0d568cd1a3e24596604a16a7b8d43befbae56f47e562399ad2d7b7f8514d80a5",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_02_trial_01/character_reference.md": "b1da7d7fa66335b7b68bc69b3c442bfb88ba0ac9380ce9c7bcadaa88f9d40c75",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_01_trial_01/character_reference.md": "93bf7278eed96c05155803f4b93fa7a51bcb3236e6fd96fd583ddfff781bf5e3",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/trial_02/soma_character_reference.md": "0a652ee540970a5fb03dfca41473884d4ee4e050951324aa5d9758106d3ee49b",
+    "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_05_trial_01/character_reference.md": "1cf575d5576dc3f5b58cec3c3892e6fe200eb6c66dabd50bd7ab57eff6303f0e",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/editor_common.md": "9675826b5a9dd2ca6dc1a6a4c47e559107f9efc7ec9d1a8295ab831133b0e286",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/approach_a.md": "dfcd31797d1b87db2c0be3e5dfc129287572a3ca56c71db734c35b5976ac96ce",
+    "/tmp/cg-narration-edit.2ZCxqw/repo/docs/experiments/narration-dialogue-edit/run_test.py": "12f6f4f1fa5424113f377fdfc6a94fbca8643e48fdf282ca6f0f28039fcd6668"
+  },
+  "case_spec": {
+    "id": "valphine",
+    "narrator": "Valphine Sotorra",
+    "scene": "The Ninth Crate Disappears",
+    "draft": "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_02_trial_01/session_doc_scene_02_the_ninth_crate_disappears.md",
+    "source": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/02_the_sewer_stakeout.md",
+    "references": [
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_02_trial_01/character_reference.md",
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_01_trial_01/character_reference.md",
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/trial_02/soma_character_reference.md",
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration_prompt_test/scene_05_trial_01/character_reference.md"
+    ]
+  },
+  "started_utc": "2026-09-06T18:52:31.804703+00:00",
+  "system_sha256": "602a97a270a2f868c52526d10237d8d0291ea9c77154f5a81d5381f30857f4e0",
+  "user_sha256": "613ab9209d34d7dc34895fef157a26242a0ee9c0eb5d578132dfb0700f608647",
+  "experiment_commit": "046801c077fb495bf84de026ce4dc0e3e6b4de97",
+  "backend_module": "/home/kostadis/src/CampaignGenerator/campaignlib/__init__.py",
+  "actual_identity": {
+    "backend": "codex-cli",
+    "model": "gpt-6-astra",
+    "model_source": "explicit",
+    "codex_reasoning_effort": "medium",
+    "codex_reasoning_effort_source": "cli",
+    "codex_reasoning_override": true
+  },
+  "changed_inputs": [],
+  "response_sha256": "db108b2f03c79e98da8f7ed3fcbd212a952091baa75d9a2939e99eb5d50e7407",
+  "diagnostics": {
+    "baseline_words": 1789,
+    "edited_words": 1787,
+    "baseline_quote_spans": 59,
+    "edited_quote_spans": 59,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": true,
+    "quote_sequence_similarity": 0.9152542372881356,
+    "consecutive_duplicate_quotes": [
+      "Yes,"
+    ]
+  },
+  "finished_utc": "2026-09-06T18:53:43.509167+00:00"
+}

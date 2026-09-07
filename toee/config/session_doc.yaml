@@ -1,52 +1,67 @@
 paths:
   session_recap: gm-assist.md
   session_summary: session-summary.md
-  scene_extractions_dir: scene_extractions
+  scene_extractions_dir: scene_extractions_smoothed
   narration_dir: narration
   output_dir: null
   party: docs/party.md
   voice_dir: voice
   examples_dir: examples
-  genre_file: null
+  genre_file: voice/_genre.md
 extract:
-  tokens: 8192
+  tokens: 32000
   batch_scenes: null
   batch_tokens: 32000
 narrate:
-  tokens: 16000
-  prose_mode: false
-  reflections: false
+  tokens: 32000
+  prose_mode: true
+  reflections: true
   context: []
 verify:
   threshold: 0.85
   min_tokens: 4
   report_only: false
 backends:
-  active: anthropic
+  active: codex-cli
   anthropic:
     backend: anthropic
     model: null
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
   claude-code:
     backend: anthropic
     model: null
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
   dgx:
     backend: anthropic
     model: null
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
   openrouter:
     backend: anthropic
     model: null
     batch: null
+    codex_reasoning_effort: null
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
   codex-cli:
     backend: anthropic
-    model: null
+    model: gpt-5.6-sol
     batch: null
+    codex_reasoning_effort: medium
+    claude_code_effort: null
+    claude_code_thinking: null
     endpoint: null
 session_name: null
 profiles:
@@ -57,4 +72,11 @@ profiles:
     reflections: false
     narration_genre_file: ''
     backend: anthropic
-active_profile: '20260823'
+- name: '20260830'
+  knobs:
+    narrate_tokens: 32000
+    prose_mode: false
+    reflections: false
+    narration_genre_file: /home/kostadis/toee/toee/voice/_genre.md
+    backend: codex-cli
+active_profile: '20260830'

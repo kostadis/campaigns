@@ -1,5 +1,5 @@
 # Calmer — Voice Notes
-*Drafted from four sessions of gm-assist narratives, scene extractions, and VTT transcripts (March–May 2026). Edit freely — you know him better than the document does.*
+*Drafted from four sessions of gm-assist narratives, scene extractions, and VTT transcripts (March–May 2026). Updated 2026-09-05 from chapters 33–34 — see **The Org Chart**, and the curriculum paragraph under **The Cover That's Becoming Real**. Edit freely — you know him better than the document does.*
 
 ---
 
@@ -29,11 +29,23 @@ This is not weakness. This is confidence of a specific kind — he doesn't need 
 
 When his plans fail, he deflects: "Zephyr told me to do it." When the party scolds him: "I'm not the smart one, you guys are the smart ones." When he's caught making obvious mistakes: "What am I supposed to do with advisors like that?" He is never genuinely contrite. He pivots to humor.
 
+## The Org Chart
+
+Calmer runs the temple through titles. He appoints Zephyr Chief of Staff and Zinnia Chief of Security, and the appointments are real to him — hours later, when Zephyr makes a call he approves of, the warmest thing he can reach for is *"Good choice. This is why I have made you Chief of Staff."* The structure is how he experiences being in charge.
+
+He cannot hold it steady. The same post is Chief of Staff when he confers it and "my Chief of Operations plan" an hour later when he wants Zinnia to endorse something. Zinnia is Chief of Security, except when Calmer glosses the job himself: *"Chief of making sure my shit doesn't get stolen."* This is not the transcript slipping — it is him. He is inventing the org chart as he goes and has not settled what he has appointed anyone to.
+
+The instinct underneath is paperwork. Given a problem, his first move is to route it: *"As the Chief of Staff, I think you are responsible for all matters related to security operations. Produce an appropriate note, and I will sign it."* And then, seconds later, he second-guesses his own assignment — *"But I do feel, I turn to Zinnia, as my chief of security, shouldn't this really be your initiative?"* — because who owns a task interests him more than the task does.
+
+Play it as sincerity, not comedy. He is not performing bureaucracy for laughs. He believes a functioning temple has named officers, and he is building one out of three people who did not ask for jobs.
+
 ## The Cover That's Becoming Real
 
 In the first sessions, Calmer "nearly invoked St. Cuthbert aloud mid-combat, but caught himself, channeling necrotic energy instead." By the fourth session, he's making unilateral decisions about temple property and accepting the title of Prophet without notable distress. The cover isn't cracking. The cover is absorbing him.
 
 He's aware of the risk in specific, tactical terms — he told the party the mercenaries shouldn't have been present when he called on St. Cuthbert's power, because it could blow his cover. He is not aware of the risk in the bigger sense: that he is building a life in this identity. That he is pleased by Dren's deference. That when he says "I am the boss. Yes, I am," there's no irony in his tone.
+
+The sharpest sign of it is what he has started doing to his own scripture. He is scribbling notes toward a new curriculum of St. Cuthbert — recast along Earth Temple lines. Not abandoning his god: *rewriting* him, with the evil temple's framework as the structure. In the same breath he calls his standing with St. Cuthbert *"a good working relationship,"* and does not hear what that sounds like coming from a cleric.
 
 The narration should treat his cover stress as genuine without resolving it. He is still, absolutely, a cleric of St. Cuthbert. His divine magic works. His hatred of undead is real. And he is also, increasingly, the Earth Temple's Prophet of Stone, and the role fits.
 
@@ -95,6 +107,14 @@ He thinks in terms of authority and protocol. Who reports to whom. What the chai
 
 > *"Okie dokie."* (When resigned to a plan he doesn't like but won't fight.)
 
+> *"Produce an appropriate note, and I will sign it."* (His answer to a surprising range of problems.)
+
+> *"Chief of making sure my shit doesn't get stolen."* (Glossing the job title he has just conferred on Zinnia.)
+
+> *"This is why I have made you Chief of Staff."* (The org chart paying off. He means it warmly.)
+
+> *"As for St. Cuthbert and I, we have a good working relationship."* (About his god. Said without irony.)
+
 ## Things He'd Never Say
 
 - A genuine apology — he deflects, he explains, he blames advisors; he does not apologize
@@ -103,3 +123,4 @@ He thinks in terms of authority and protocol. Who reports to whom. What the chai
 - Quiet acknowledgment that his cover might be becoming who he is
 - Anything that makes the role of Earth Temple Prophet sound like a burden he's enduring
 - "I don't know" without immediately following it with who he's going to ask
+- "Let's not stand on ceremony" — the ceremony is the point; the titles are how he knows he is in charge

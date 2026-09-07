@@ -5,6 +5,28 @@ species: Halfling
 class_level: Rogue 6
 subclass: Arcane Trickster
 ---
+
+> [!WARNING]
+> **STALE — this is a level-6 snapshot. The party is level 9.**
+> Declared here as **Rogue 6**; `docs/party.md` says **Rogue 9**, sourced from session
+> prep (`notes/sessions/nobody-told-nulb.md`, `nulb-knows-now.md`) and ruled at
+> `/staged-consistency` Stage 0 on 2026-09-05 (CF5). **`docs/party.md` is canon for
+> level; this file is not.**
+>
+> Every derived number below is a level-6 value and is therefore wrong for play:
+> proficiency bonus **+3** (should be +4 at level 9), hit dice **6d8**, the listed
+> max HP, every DC computed as `8 + mod + prof`, and any per-level resource. Three
+> levels of class features are simply absent.
+>
+> These numbers were **deliberately not corrected**. Recomputing them means choosing
+> HP rolls, ASI/feat picks, subclass features and spells known — player decisions,
+> not derivable. The fix is to re-export the D&D Beyond PDF and re-run
+> `dnd_sheet.py` (see the root `CLAUDE.md`).
+>
+> **Regeneration hazard:** `config/party.yaml` registers this file, and the party
+> pipeline generates `docs/party.md` *from* it. Re-running that generator before the
+> sheets are re-exported will pull level 6 back into `docs/party.md` and silently
+> revert CF5 — and, for `zinnia.md`, the he/him pronoun fix made the same day.
 # sequoia
 
 ## Identity

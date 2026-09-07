@@ -1,0 +1,40 @@
+[
+  {
+    "id": "zenvon",
+    "narrator": "Zenvon Forepot",
+    "scene": "Arrival at Wyvern Tor",
+    "draft": "../narration-tests/obelisk-011-20260904/v1_voices_scene_01_trial_01/session_doc_scene_01_arrival_at_wyvern_tor.md",
+    "source": "../fixtures/obelisk/summaries/011-20260904/scene_extractions_smoothed/01_arrival_at_wyvern_tor.md",
+    "references": [
+      "../narration-tests/obelisk-011-20260904/v1_voices_scene_01_trial_01/character_reference.md",
+      "../narration-tests/obelisk-011-20260904/v1_voices_scene_01_trial_01/supporting_character_references.md",
+      "../fixtures/obelisk/notes/scrub_register_policy.md"
+    ]
+  },
+  {
+    "id": "vukradin",
+    "narrator": "Vukradin",
+    "scene": "Patrons of the Common Chord",
+    "draft": "../narration-tests/phandalin-20260902/scene_01_trial_01/session_doc_scene_01_patrons_of_the_common_chord.md",
+    "source": "../fixtures/phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+    "references": [
+      "../narration-tests/phandalin-20260902/scene_01_trial_01/character_reference.md",
+      "../narration-tests/phandalin-20260902/scene_02_trial_01/character_reference.md",
+      "../narration-tests/phandalin-20260902/trial_02/soma_character_reference.md",
+      "../narration-tests/phandalin-20260902/scene_05_trial_01/character_reference.md"
+    ]
+  },
+  {
+    "id": "valphine",
+    "narrator": "Valphine Sotorra",
+    "scene": "The Ninth Crate Disappears",
+    "draft": "../narration-tests/phandalin-20260902/scene_02_trial_01/session_doc_scene_02_the_ninth_crate_disappears.md",
+    "source": "../fixtures/phandalin/summaries/20260902/scene_extractions_smoothed/02_the_sewer_stakeout.md",
+    "references": [
+      "../narration-tests/phandalin-20260902/scene_02_trial_01/character_reference.md",
+      "../narration-tests/phandalin-20260902/scene_01_trial_01/character_reference.md",
+      "../narration-tests/phandalin-20260902/trial_02/soma_character_reference.md",
+      "../narration-tests/phandalin-20260902/scene_05_trial_01/character_reference.md"
+    ]
+  }
+]

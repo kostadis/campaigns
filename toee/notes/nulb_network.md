@@ -102,7 +102,7 @@ The party has been operating in this triangle and knows several pieces. They hav
 
 **Barkeep: Wat** — *canonically a Fire Temple agent* under Prefect Alrrem. With Alrrem dead (per the Phase 2 war), Wat's principal is also gone. Wat tried to interfere with the Broken Blades recruitment and was rebuffed by Dren.
 
-**The party's grounding docs list Wat as Water Temple.** This is an in-character misread — they have him wrong. Worth noting; not worth correcting unless the party investigates further. (Skole correctly told them Tolub is Fire Temple; the implication that Wat is Tolub's man may have garbled into "Wat is Water." Canon: Wat → Fire, via Alrrem; Skole → Water-coerced via Tolub.)
+**The party's grounding docs list Wat as Water Temple.** This is an in-character misread — they have him wrong. Worth noting; not worth correcting unless the party investigates further. (Skole told them Tolub served the Fire Temple, but that was his claim, not GM truth; the implication that Wat is Tolub's man may have garbled into "Wat is Water." Canon: Wat → Fire, via Alrrem; Tolub → Water, via Belsornig; Skole → Water-coerced via Tolub.)
 
 **Wat's situation post-Phase-2:** His patron (Alrrem) is dead. He is a Fire Temple agent without a Fire Temple. He may seek to flip — to Earth (now party-controlled via Dren?), to Selentis directly, or out of Nulb.
 
@@ -112,7 +112,7 @@ The party has been operating in this triangle and knows several pieces. They hav
 
 **Hidden owner: Lodriss** — the actual power. Pirate Tolub's lover. Maintains her independence by playing Water Temple ties and pirate alliances against each other. Has not appeared to the party in person.
 
-**Floor boss: Skole** — coerced into Water Temple collaboration through Tolub's leverage on Lodriss. Hates both. **Already established as a party ally** (chapter — when the party returned alive after Tolub announced their deaths, Skole pulled them privately to a back room and revealed Tolub works for Fire Temple, redirecting them to Dick Rentsch).
+**Floor boss: Skole** — coerced into Water Temple collaboration through Tolub's leverage on Lodriss. Hates both. **Already established as a party ally:** after the party survived Tolub's Scarlet Moon betrayal, Skole pulled them privately to a back room and claimed Tolub worked for the Fire Temple, redirecting them to Dick Rentsch.
 
 Skole is the most useful Nulb informant the party currently has. Push him gently — he's afraid of Lodriss and Tolub but already chose the party once.
 
@@ -122,15 +122,15 @@ Skole is the most useful Nulb informant the party currently has. Push him gently
 
 ### Captain Tolub — Iron Dagger
 
-Pirate captain, Lodriss's lover, **Fire Temple agent** (was Alrrem's man). Lieutenant: **Grud Squinteye** (ruthless enforcer). Master of the Iron Dagger ship.
+Pirate captain, Lodriss's lover, and **Water Temple carrier** under Belsornig. He sent the party into the Scarlet Moon ambush to let Fire and Earth interests damage each other; the party understandably concluded that Fire employed him. Lieutenant: **Grud Squinteye** (ruthless enforcer). Master of the *Iron Dagger*.
 
-**Active enemy of the party.** Tolub publicly claimed to have killed them. With Alrrem dead, his principal is gone. He is now:
-- A pirate captain without a Temple patron
+**Active enemy of the party.** Nulb saw the party return from the Scarlet Moon and recruit Dren Halveth for Earth. Afterward, Tolub began boasting that he killed them or had them killed. This is not a factual consensus; it is an obedience test. People repeat it because Tolub may beat, disappear, or kill someone who doubts him publicly. With Belsornig dead, his principal is gone. He is now:
+- A pirate captain without his Water Temple patron
 - Lodriss's lover (her interest in him may shift)
 - Still hostile to the party
-- Holding leverage over Skole
+- Holding leverage over Skole and enforcing agreement through fear
 
-His ship schedule is known (Jorin Pike Kale provided it). The party has all the intel needed to ambush him.
+His ship schedule is known (Jorin Pike Kale provided it). The party's public arrival creates a narrow opening for everyone carrying a grievance against him. Skole can contradict him, Lodriss can protect her tavern instead of his escape, and extorted dockworkers can obstruct the *Iron Dagger*—but only after the party demonstrates that Tolub cannot immediately punish the first mover. Grud and the core River Wolves do not dissolve merely because the crowd turns.
 
 ### Captain Marad Vesrek — Crimson Trader
 
@@ -197,7 +197,7 @@ The Rhennee may know more than they've said. Eryk's coercion is a thread the par
 ### What's available to the party in Nulb right now
 
 1. **Skole** — already an ally, can be pushed further. Knows Tolub's movements.
-2. **Tolub** — assassinable, isolated since Alrrem's death. Ship schedule known. Free hit if the party wants it.
+2. **Tolub** — publicly brittle since Belsornig's death. The known ship schedule makes him reachable; the coerced death story means a visible challenge can activate enemies he has kept silent.
 3. **Selentis** — feared but unmet. The next major Nulb encounter will go through her.
 4. **Lucius Graeme via Selentis** — will introduce himself once Phase 3 cleanup is done. The credential is "Madame Selentis sent me."
 5. **The Iron Lash / Elvanna** — known, transactional, unknown deeper. Scarlet Brotherhood thread.
@@ -221,7 +221,7 @@ The Rhennee may know more than they've said. Eryk's coercion is a thread the par
 - **Chains of Command:** dismantle the supply chain step by step (Boatman's → Manor → Wainwright → Hunting Cottage → Feldrin). Major arc.
 - **The Will of the Earth quest is now MOOT** — the party has already moved past its activation criteria (Lareth killed openly per the canon's "ways the party failed"). Romag is dead anyway.
 - **Wat's Proposal** is also moot — Alrrem is dead, Wat has no Fire Temple to recruit for. Wat may make a personal appeal to the party for safe passage / employment.
-- **Ash and Saltwater** can fire: Wat vs Skole vs Lodriss vs Tolub tensions now play differently since Fire/Water principals are dead. Lodriss may consolidate; Skole may finally act.
+- **Ash and Saltwater** can fire: Wat vs Skole vs Lodriss vs Tolub tensions now play differently since Fire/Water principals are dead. Once the party makes Tolub's retaliation uncertain, Skole can contradict him, Lodriss can protect her own interests, and old victims can obstruct his escape without becoming party loyalists.
 - **The Eryk coercion thread** is the cleanest way to expose Selentis to the party from a sympathetic angle.
 
 ---
@@ -236,7 +236,7 @@ The Rhennee may know more than they've said. Eryk's coercion is a thread the par
 - Dick Rentsch — Earth Temple Nulb agent (Romag's man, now leaderless)
 
 **Pirate operators:**
-- Captain Tolub (Iron Dagger) — Fire Temple, active enemy
+- Captain Tolub (*Iron Dagger*) — former Water Temple carrier, active enemy enforcing the party's “death” through fear
 - Grud Squinteye — Tolub's lieutenant
 - Captain Marad Vesrek (Crimson Trader) — slaver, allied with dead Belsornig
 - Lodriss — Boatman's owner, Tolub's lover, plays own game

@@ -1442,10 +1442,24 @@ entities:
   type: item
   note: enchanted broadsword of Chaotic Good alignment forged for a demigod, +4 (doubling
     to +8 vs evil on a natural 20)
-- name: Frost Brand (unnamed intelligent longsword)
+- name: Frostbrand
   type: item
-  note: +3/+6 vs. fire creatures, Lawful Good, Int 16/Ego 17, found in the Temple
-    of Fire's trapped iron box
+  aliases:
+    - Frost Brand
+  note: >-
+    GM ruling 2026-09-05, TWO NAMES, TWO THINGS. "Frost Brand" is the 5e ITEM
+    TYPE; "Frostbrand" is the name of the sword's PERSONALITY, which it gave
+    itself in the Ch31 bible ("What's your name?" Frostbrand.). Filed under the
+    personality name per the Snoop precedent, with the item type kept as an
+    alias so a transcript saying "Frost Brand" still resolves here. Renamed from
+    "Frost Brand (unnamed intelligent longsword)" on GM ruling 2026-09-05; the
+    old parenthetical predated the sword introducing itself.
+    notes/vtt_transcription_corrections.md already carried Frostbrand as the
+    canonical spell-pass form. STATS - +3/+6 vs. fire creatures, Lawful Good,
+    Int 16/Ego 17, found in the Temple of Fire's trapped iron box (area 212).
+    BEARER - bonded to SEQUOIA, who claimed it in Ch31; it chose him after
+    rejecting Zinnia and Calmer, and he carries it alongside his magical short
+    sword from the werewolf lair, not instead of it.
 - name: Gargoyle Cloak
   type: item
   note: magical cloak granting gargoyle form/flight, worn by zombie guardians in the

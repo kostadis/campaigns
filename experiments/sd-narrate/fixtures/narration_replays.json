@@ -1,0 +1,172 @@
+[
+  {
+    "id": "phandalin-20260902/scene_01_trial_01",
+    "run": "../narration-tests/phandalin-20260902/scene_01_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/scene_01_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/scene_01_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/scene_02_trial_01",
+    "run": "../narration-tests/phandalin-20260902/scene_02_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/scene_02_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/scene_02_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/scene_03_trial_01",
+    "run": "../narration-tests/phandalin-20260902/scene_03_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/scene_03_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/scene_03_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/scene_04_prepare_check",
+    "run": "../narration-tests/phandalin-20260902/scene_04_prepare_check/run.json",
+    "system": "../narration-tests/phandalin-20260902/scene_04_prepare_check/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/scene_04_prepare_check/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "prepared",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/scene_05_trial_01",
+    "run": "../narration-tests/phandalin-20260902/scene_05_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/scene_05_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/scene_05_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/trial_01",
+    "run": "../narration-tests/phandalin-20260902/trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "failed",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/trial_02",
+    "run": "../narration-tests/phandalin-20260902/trial_02/run.json",
+    "system": "../narration-tests/phandalin-20260902/trial_02/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/trial_02/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/v2_high_scene_01_trial_01",
+    "run": "../narration-tests/phandalin-20260902/v2_high_scene_01_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/v2_high_scene_01_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/v2_high_scene_01_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "high",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/v2_high_scene_02_trial_01",
+    "run": "../narration-tests/phandalin-20260902/v2_high_scene_02_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/v2_high_scene_02_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/v2_high_scene_02_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "high",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/v2_high_scene_03_trial_01",
+    "run": "../narration-tests/phandalin-20260902/v2_high_scene_03_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/v2_high_scene_03_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/v2_high_scene_03_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "high",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/v2_scene_01_trial_01",
+    "run": "../narration-tests/phandalin-20260902/v2_scene_01_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/v2_scene_01_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/v2_scene_01_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/v2_scene_02_trial_01",
+    "run": "../narration-tests/phandalin-20260902/v2_scene_02_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/v2_scene_02_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/v2_scene_02_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "phandalin-20260902/v2_scene_03_trial_01",
+    "run": "../narration-tests/phandalin-20260902/v2_scene_03_trial_01/run.json",
+    "system": "../narration-tests/phandalin-20260902/v2_scene_03_trial_01/system_prompt.md",
+    "user": "../narration-tests/phandalin-20260902/v2_scene_03_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 70000
+  },
+  {
+    "id": "obelisk-011-20260904/v1_scene_01_trial_01",
+    "run": "../narration-tests/obelisk-011-20260904/v1_scene_01_trial_01/run.json",
+    "system": "../narration-tests/obelisk-011-20260904/v1_scene_01_trial_01/system_prompt.md",
+    "user": "../narration-tests/obelisk-011-20260904/v1_scene_01_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "prepared",
+    "max_tokens": 32000
+  },
+  {
+    "id": "obelisk-011-20260904/v1_scene_03_trial_01",
+    "run": "../narration-tests/obelisk-011-20260904/v1_scene_03_trial_01/run.json",
+    "system": "../narration-tests/obelisk-011-20260904/v1_scene_03_trial_01/system_prompt.md",
+    "user": "../narration-tests/obelisk-011-20260904/v1_scene_03_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "prepared",
+    "max_tokens": 32000
+  },
+  {
+    "id": "obelisk-011-20260904/v1_voices_scene_01_trial_01",
+    "run": "../narration-tests/obelisk-011-20260904/v1_voices_scene_01_trial_01/run.json",
+    "system": "../narration-tests/obelisk-011-20260904/v1_voices_scene_01_trial_01/system_prompt.md",
+    "user": "../narration-tests/obelisk-011-20260904/v1_voices_scene_01_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 32000
+  },
+  {
+    "id": "obelisk-011-20260904/v1_voices_scene_03_trial_01",
+    "run": "../narration-tests/obelisk-011-20260904/v1_voices_scene_03_trial_01/run.json",
+    "system": "../narration-tests/obelisk-011-20260904/v1_voices_scene_03_trial_01/system_prompt.md",
+    "user": "../narration-tests/obelisk-011-20260904/v1_voices_scene_03_trial_01/user_prompt.md",
+    "model": "gpt-6-astra",
+    "reasoning_effort": "medium",
+    "historical_status": "rendered",
+    "max_tokens": 32000
+  }
+]

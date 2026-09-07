@@ -18,6 +18,7 @@ aliases:
 ## Personality & Motivations
 - Driven by personal gain and river-trade dominance; his partnership with Belsornig funds his ventures, and his growing ambitions bring him into friction with Selentis
 - Boisterous, intimidating, and socially dominant — commands a crew that laughs on cue
+- Treats public agreement as proof of authority. An implausible boast is useful because anyone who doubts it identifies themselves for punishment.
 - Uses surface-level charm and generosity (buying drinks) to disarm marks while concealing treacherous intent
 - Comfortable with deception; frames betrayal as helpful misdirection; willing to sell out allies for personal gain or self-preservation
 
@@ -28,12 +29,14 @@ aliases:
 4. **Post-departure smear:** After the party left, Tolub told others in the tavern he had "disposed of them," calling them meddlers who didn't belong.
 5. **Treachery confirmed:** Following the party's survival of the Fire Temple trap, Skole told them Tolub had betrayed them *on behalf of the fire prophet*. **Treat that attribution as Skole's claim, not established fact** — Skole hates Tolub and Lodriss, and it is the main reason the party has Tolub's allegiance wrong.
 6. **Ship schedule leaked:** Jorin Pike Kale provided the party with Tolub's ship schedule at the Nulb docks — actionable intelligence on his predictable movements that the party flagged as significant.
+7. **Survival made public:** The party returned to Nulb after the Scarlet Moon assault and recruited Dren Halveth and the Broken Blades for the Earth Temple in front of local witnesses.
+8. **Coerced death story:** After the party left with Dren, Tolub began boasting that he killed them or had them killed. People who saw the recruitment repeat the claim because openly doubting Tolub risks violent retaliation.
 
 ## Current Status
 - **Last known location:** Boatman's Tavern, Nulb; running his pirate ship on a known, predictable schedule
 - **Active operations:** Belsornig's river carrier — smuggling, slaving and extortion at the docks, feeding the Temple's covert economy. Tolerated, taxed and watched by Selentis.
-- **What the party knows:** Tolub intentionally sent them into a Fire Temple trap; they believe he works for the fire prophet; his dock schedule is known (via Jorin Pike Kale). As of ch.34 he is still boasting they are dead.
-- **What remains hidden:** That his actual patron is **Belsornig / the Water Temple**; that Skole's "fire prophet" attribution was wrong or self-serving; what he was paid; and whether he knows they survived or have his schedule.
+- **What the party knows:** Tolub intentionally sent them into a Fire Temple trap; they believe he works for the fire prophet; his dock schedule is known (via Jorin Pike Kale). Nulb saw them return and recruit Dren, but as of ch.34 Tolub is still demanding public agreement that he later had them killed.
+- **What remains hidden:** That his actual patron is **Belsornig / the Water Temple**; that Skole's "fire prophet" attribution was wrong or self-serving; what he was paid; whether he believes a later attempt really killed them or knowingly enforces a lie; and which frightened enemies will move first when his protection fails.
 
 ## Relationships
 - **Belsornig (Water Temple):** His actual patron. Belsornig funds his ventures; Tolub is the Water Temple's river fist. *(GM-side — the party does not know this.)*
@@ -46,7 +49,7 @@ aliases:
 - **Skole:** Was aware of Tolub's treachery and disclosed it to the party
 - **Jorin Pike Kale:** Knows Tolub's schedule well enough to share it — nature of their relationship unclear
 - **Albreth & Ingulf:** Fire Temple priests Tolub directed the party toward at the Hall of the Scarlet Moon ambush
-- **The Party:** Views them as threats or meddlers; believed (or claimed) he had eliminated them
+- **The Party:** Views them as threats to both his life and the obedience his reputation buys. Their public return gives every person with a grievance against him a chance to test whether he can still retaliate.
 
 ## Arc Score Events
 - **Decrease:** Deliberately misdirected the party into a Fire Temple trap — a clear act of betrayal once Skole confirmed his role.

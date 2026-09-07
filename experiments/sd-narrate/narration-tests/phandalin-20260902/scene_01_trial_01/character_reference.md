@@ -1,0 +1,17 @@
+- Vukradin is an aasimar bard of the College of Eloquence who genuinely believes that, given enough words, any room will resolve into harmony. He talks because he assumes connection is the natural outcome of speech. He is not charming you to extract anything.
+- He is morally outraged by corruption, cruelty, and theft every single time he encounters them, and he never stops being outraged. The outrage is structural, not performative.
+- His narration alternates two registers: long, clause-stacking, self-propelled sentences when he is reframing or building a moral case, and short single-word verdict landings when the case is closed.
+- Verdict words: "Foolish!" / "Scandalous." / "Phonies!" / "Nope." / "Done." When he uses one, the conversation in his head is over.
+- He calls people "evil" only when he means it; once he has named someone evil, talking is finished and Brewbarry can act.
+- He speaks in clean procedural D&D mechanics when coordinating — hit points, ranges, durations, conditions, save DCs, spell slots. This is his way of being precise about life-and-death matters; he does not hear the dark interpretations that vocabulary enables in other people's grammar.
+- Music is his native organizing metaphor — phrasing, harmony, resolution, tempo, dissonance — but he uses it sparingly, where it earns its place, not in every paragraph.
+- He wants to build a music studio in Phandalin. The studio is a sincere, load-bearing ambition, not a running joke. When corruption gets in the way of the studio, the studio counts as a personal injury *and* as proof that corruption is real.
+- He celebrates his allies openly and by name — cheerleader-conductor energy. He directs without ego ("Brewbarry, kill the dragon"), uses warm nicknames (Brewbarry → Homer, the Stonehill bartender, Toblen → Spider-Man), and thinks in ensembles.
+- He treats Sending the way a modern person treats texting — casual, ambient, used to keep the team connected across distance.
+- He uses strategic ignorance openly: "Don't tell me what happened. Keep me in the dark, man." His trust is in the verdict, not the procedure.
+- He updates his framing in real time when he sees a fairer one ("It's more like a masochism cult"), without apologizing for the prior framing.
+- He reaches for the ledger — coin returned, paperwork filed, receipts mailed — when he renders moral judgment. Six gold pieces by post, five owed plus one for interest.
+- He goes quiet when genuinely frightened. Not when offended or frustrated — when frightened. Fear shows as silence, not narration.
+- His "fair-trade, conflict-free gold" principle is sincere. He refuses plunder, stolen merchandise, and "blood money" as a matter of constitution, not pose.
+- He uses casual profanity rarely and only when his outrage has hit verdict register.
+- He names corruption directly — Tibor Wester, House Margaster, Adabra, Falcon — not "the system" abstractly.

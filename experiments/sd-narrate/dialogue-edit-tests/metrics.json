@@ -1,0 +1,197 @@
+[
+  {
+    "case": "zenvon",
+    "approach": "a",
+    "baseline_words": 977,
+    "edited_words": 974,
+    "baseline_quote_spans": 16,
+    "edited_quote_spans": 16,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": true,
+    "quote_sequence_similarity": 0.8125,
+    "consecutive_duplicate_quotes": [],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "zenvon",
+    "approach": "b",
+    "baseline_words": 977,
+    "edited_words": 973,
+    "baseline_quote_spans": 16,
+    "edited_quote_spans": 16,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": null,
+    "quote_sequence_similarity": 0.6875,
+    "consecutive_duplicate_quotes": [],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "zenvon",
+    "approach": "c",
+    "baseline_words": 977,
+    "edited_words": 943,
+    "baseline_quote_spans": 16,
+    "edited_quote_spans": 15,
+    "outside_dialogue_identical": false,
+    "a_scope_pass": null,
+    "quote_sequence_similarity": 0.7096774193548387,
+    "consecutive_duplicate_quotes": [],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "vukradin",
+    "approach": "a",
+    "baseline_words": 2311,
+    "edited_words": 2305,
+    "baseline_quote_spans": 79,
+    "edited_quote_spans": 79,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": true,
+    "quote_sequence_similarity": 0.8481012658227848,
+    "consecutive_duplicate_quotes": [],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "vukradin",
+    "approach": "b",
+    "baseline_words": 2311,
+    "edited_words": 2304,
+    "baseline_quote_spans": 79,
+    "edited_quote_spans": 79,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": null,
+    "quote_sequence_similarity": 0.7721518987341772,
+    "consecutive_duplicate_quotes": [],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "vukradin",
+    "approach": "c",
+    "baseline_words": 2311,
+    "edited_words": 2276,
+    "baseline_quote_spans": 79,
+    "edited_quote_spans": 79,
+    "outside_dialogue_identical": false,
+    "a_scope_pass": null,
+    "quote_sequence_similarity": 0.9493670886075949,
+    "consecutive_duplicate_quotes": [],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "valphine",
+    "approach": "a",
+    "baseline_words": 1789,
+    "edited_words": 1787,
+    "baseline_quote_spans": 59,
+    "edited_quote_spans": 59,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": true,
+    "quote_sequence_similarity": 0.9152542372881356,
+    "consecutive_duplicate_quotes": [
+      "Yes,"
+    ],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "valphine",
+    "approach": "b",
+    "baseline_words": 1789,
+    "edited_words": 1787,
+    "baseline_quote_spans": 59,
+    "edited_quote_spans": 59,
+    "outside_dialogue_identical": true,
+    "a_scope_pass": null,
+    "quote_sequence_similarity": 0.8135593220338984,
+    "consecutive_duplicate_quotes": [
+      "Yes,"
+    ],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  },
+  {
+    "case": "valphine",
+    "approach": "c",
+    "baseline_words": 1789,
+    "edited_words": 1780,
+    "baseline_quote_spans": 59,
+    "edited_quote_spans": 59,
+    "outside_dialogue_identical": false,
+    "a_scope_pass": null,
+    "quote_sequence_similarity": 0.8983050847457628,
+    "consecutive_duplicate_quotes": [
+      "Yes,"
+    ],
+    "actual_identity": {
+      "backend": "codex-cli",
+      "model": "gpt-6-astra",
+      "model_source": "explicit",
+      "codex_reasoning_effort": "medium",
+      "codex_reasoning_effort_source": "cli",
+      "codex_reasoning_override": true
+    },
+    "changed_inputs": []
+  }
+]

@@ -1,0 +1,1329 @@
+<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Three dialogue-editing approaches</title>
+<style>body{max-width:1450px;margin:2rem auto;padding:0 1.5rem;background:#faf8f3;color:#292825;font:17px/1.55 system-ui,sans-serif}a{color:#285666}.columns{display:grid;grid-template-columns:1fr 1fr;gap:1.5rem}article{min-width:0;background:#fff;padding:1.5rem;border:1px solid #ddd8cc}.prose,.source{white-space:pre-wrap;overflow-wrap:anywhere}.prose{font:19px/1.65 Georgia,serif}.source{font:14px/1.6 system-ui,sans-serif}section{margin-top:3rem}h1{line-height:1.2}select{font:inherit;max-width:100%;margin-bottom:1.5rem;padding:.4rem}details{margin:1.5rem 0}summary{cursor:pointer}@media(max-width:850px){.columns{grid-template-columns:1fr}}</style>
+<h1>Three approaches to editing the same narration</h1><p>gpt-6-astra · medium reasoning · nine independent edits of three unchanged v1 drafts. Compare any two versions using the selectors. Word counts are descriptive, not quality scores. Raw model responses are unedited.</p>
+<nav><a href="#zenvon">Zenvon</a> · <a href="#vukradin">Vukradin</a> · <a href="#valphine">Valphine</a> · <a href="review.md">Review and recommendation</a> · <a href="passages.md">Selected passages</a></nav>
+<p>A: only light changes inside quoted dialogue. B: contextual dialogue editing, with minimal attribution changes. C: line-edit dialogue and inner prose together.</p>
+<section id="zenvon"><h2>Zenvon Forepot — Arrival at Wyvern Tor</h2><p><a href="zenvon/a/response.md">A: 974 words</a> (<a href="zenvon/a/changes.diff">diff</a>, <a href="zenvon/a/system_prompt.md">prompt</a>) · <a href="zenvon/b/response.md">B: 973 words</a> (<a href="zenvon/b/changes.diff">diff</a>, <a href="zenvon/b/system_prompt.md">prompt</a>) · <a href="zenvon/c/response.md">C: 943 words</a> (<a href="zenvon/c/changes.diff">diff</a>, <a href="zenvon/c/system_prompt.md">prompt</a>)</p><div class="columns"><article><select id="zenvon-left-select" onchange="show('zenvon','left')"><option value="baseline">Original v1 draft</option><option value="a">A — Light dialogue copyedit</option><option value="b">B — Contextual dialogue edit</option><option value="c">C — Integrated scene line edit</option></select><div class="prose" id="zenvon-left"></div></article><article><select id="zenvon-right-select" onchange="show('zenvon','right')"><option value="baseline">Original v1 draft</option><option value="a">A — Light dialogue copyedit</option><option value="b">B — Contextual dialogue edit</option><option value="c">C — Integrated scene line edit</option></select><div class="prose" id="zenvon-right"></div></article></div><details><summary>Source extraction</summary><div class="source">---
+scene: Arrival at Wyvern Tor
+source: voice-smoothed
+from: ../scene_extractions_new/01_arrival_at_wyvern_tor.md
+---
+
+# Arrival at Wyvern Tor
+
+## Scene summary (from gm-assist, verbatim)
+
+#### The party arrives at the rugged ridge of Wyvern Tor and spots a lone bugbear sentry guarding a cave entrance.
+- The party ascends a rugged ridge on the hill’s lower slopes, following the faint smell of smoke.
+- The cave mouth lies about fifty yards away at the bottom of a ravine; the sentry watches from beside a boulder approximately twenty yards outside it.
+- Zenvon confirms that the guard is within shortbow range, then retreats to discuss an approach with Pip, Sister Maela, and Veyra.
+- Pip recommends finding out what sort of guard they face before shooting.
+- Zenvon rolls 25 on Stealth and approaches unseen. The bugbear has a milky, blind eye, leans on a salvaged pike, and looks bored with his assignment.
+- Zenvon cannot see into the cave from his scouting position, but smells cookfire smoke.
+- The companions attempt to move closer. Their group stealth fails, and the sentry begins investigating southward, advancing roughly ten feet with his pike ready.
+- Zenvon uses Mage Hand to throw stones from another direction and divert the guard’s attention.
+- Zenvon initially hopes the disturbance will bring out one or two more enemies. Pip warns that an unknown number could respond and recommends killing the sentry quietly.
+- The DM explains the tactical importance of the roughly sixty feet separating Pip from the guard: without a closer approach, Pip cannot contribute an attack in the first round.
+- An Insight attempt reveals nothing further about the sentry’s behavior.
+
+## Voiced moments
+
+*No-mech cut approved by the GM (2026-09-06): removed range checks, roll procedure, VTT positioning, and tactical-rules coaching; scouting, party dialogue, the distraction plan, and the sentry&#x27;s response remain. Verbatim sources untouched.*
+
+
+*Editorial transcription note: Obvious ASR substitutions in the quoted text below were corrected against the independent session transcript; unresolved phrases remain unchanged for GM review. The original forms and repairs are recorded in `consistency_stage2_scenes.sources.yaml`.*
+
+**GM** — *describing the approach to Wyvern Tor*
+&gt; &quot;Sorry. The faint smell of smoke hangs in the air as you ascend a rugged ridge down the lower slopes of the hill. Fifty yards away, a cave mouth opens at the bottom of a ravine. Hunkered down by a boulder 20 yards outside the cave, evidently keeping watch, is a single bugbear.&quot;
+
+**Zenvon Forepot** — *confirming the scene*
+&gt; &quot;That&#x27;s what I see now.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yep.&quot;
+
+**GM** — *asking for Zenvon’s approach*
+&gt; &quot;Alright, what do you want to do?&quot;
+
+**Zenvon Forepot** — *confirming there is only one visible enemy*
+&gt; &quot;So we can see only one bugbear, standing over there.&quot;
+
+**GM** — *locating the sentry*
+&gt; &quot;In front of a cave mouth, right?&quot;
+
+**Zenvon Forepot** — *confirming*
+&gt; &quot;Yeah, yeah, okay.&quot;
+
+**Zenvon Forepot** — *thinking*
+&gt; &quot;Mmm… I would want…&quot;
+
+**GM** — *reminding Zenvon that his companions can advise him*
+&gt; &quot;You can ask your allies what they think you should do.&quot;
+
+**Zenvon Forepot** — *accepting the suggestion*
+&gt; &quot;Okay.&quot;
+
+**GM** — *confirming the companions are available*
+&gt; &quot;They are there, and they do that.&quot;
+
+**Zenvon Forepot** — *returning to the party*
+&gt; &quot;Yeah, I&#x27;m gonna head back and start a discussion.&quot;
+
+**GM** — *acknowledging*
+&gt; &quot;Alrighty.&quot;
+
+**Zenvon Forepot** — *reporting what he saw*
+&gt; &quot;Okay, guys, so I see a bugbear…&quot;
+
+**Zenvon Forepot** — *initially describing its position*
+&gt; &quot;At the far end of the cave.&quot;
+
+**Zenvon Forepot** — *correcting the location*
+&gt; &quot;Yeah, ravine.&quot;
+
+**GM** — *clarifying*
+&gt; &quot;Okay, a ravine. Yeah, that&#x27;s…&quot;
+
+**Zenvon Forepot** — *settling on the description*
+&gt; &quot;At the ravine? Okay, yeah, yeah. So, I was thinking I could use my shortbow and take that guy out.&quot;
+
+**Zenvon Forepot** — *asking the party for alternatives*
+&gt; &quot;But he&#x27;s kind of far, and I think I&#x27;ll be able to make it. What do you…&quot;
+
+**Zenvon Forepot** — *finishing the question*
+&gt; &quot;guys want to do? Do you have any better idea to tackle the situation?&quot;
+
+**GM** — *as Pip, beginning his advice*
+&gt; &quot;Well…&quot;
+
+**GM** — *continuing the scene*
+
+&gt; *Pip says,* “Well, the first thing we should do is—”
+
+**GM** — *as Pip*
+&gt; &quot;Check to see if he&#x27;s doing anything.&quot;
+
+**Zenvon Forepot** — *asking what Pip means*
+&gt; &quot;What do you mean is doing anything?&quot;
+
+**GM** — *as Pip, distinguishing attentive and inattentive guards*
+&gt; &quot;Well, is he the kind of guard that spends his time thinking hard, or is he the kind of guard that—you know, what kind of guard is he?&quot;
+
+**Zenvon Forepot** — *hesitating*
+&gt; &quot;Well…&quot;
+
+**Zenvon Forepot** — *objecting that observation requires approaching*
+&gt; &quot;To explore that, you need to go close to him, and I think it&#x27;s a bad idea going close to him.&quot;
+
+**GM** — *suggesting a cautious approach*
+&gt; &quot;Oh, you could get somewhat close to him, right? I mean.&quot;
+
+**GM** — *continuing the scene*
+
+&gt; *He looks at Zenvon.* “You can sneak, right?”
+
+**Zenvon Forepot** — *agreeing to scout*
+&gt; &quot;I can sneak, but, well, yeah, yeah, I guess you&#x27;re right, okay, I can…&quot;
+
+**Zenvon Forepot** — *committing to the approach*
+&gt; &quot;can go as close as possible. Let me try.&quot;
+
+**GM** — *acknowledging*
+&gt; &quot;Alright.&quot;
+
+**GM** — *describing Zenvon getting close enough to inspect the sentry*
+&gt; &quot;You, get close enough to be able to see him.&quot;
+
+**Zenvon Forepot** — *acknowledging*
+&gt; &quot;Okay.&quot;
+
+**GM** — *describing the sentry’s damaged eye*
+&gt; &quot;He&#x27;s got one eye, which is a milky film.&quot;
+
+**GM** — *describing his weapon*
+&gt; &quot;Right? So he&#x27;s basically blind in one eye, and he leans on a salvaged pike.&quot;
+
+**Zenvon Forepot** — *mishearing the weapon*
+&gt; &quot;Salvaged bike?&quot;
+
+**GM** — *clarifying*
+&gt; &quot;Pike. Pike. P-I-K-E-E.&quot;
+
+**Zenvon Forepot** — *repeating it*
+&gt; &quot;Pike…&quot;
+
+**GM** — *explaining the weapon*
+&gt; &quot;Do you know what that is? If you don&#x27;t, it&#x27;s a weapon—a long, pointy weapon. It&#x27;s like a polearm.&quot;
+
+**Zenvon Forepot** — *recognizing it*
+&gt; &quot;I think so. Let me see… Oh, okay.&quot;
+
+**Zenvon Forepot** — *comparing it to a spear*
+&gt; &quot;Like a spear.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yep.&quot;
+
+**GM** — *describing the guard at his post*
+&gt; &quot;So he&#x27;s sitting there, guarding.&quot;
+
+**Zenvon Forepot** — *looking for more enemies*
+&gt; &quot;Do I see anyone else?&quot;
+
+**GM** — *asking whether Zenvon will inspect the cave*
+&gt; &quot;Try to see… You want to try to see inside?&quot;
+
+**GM** — *adding an observation about the sentry*
+&gt; &quot;What you do notice about him is that he&#x27;s kind of bored.&quot;
+
+**Zenvon Forepot** — *reacting*
+&gt; &quot;Hmm.&quot;
+
+**GM** — *describing the sentry’s attitude*
+&gt; &quot;He&#x27;s got that look of somebody who—&quot;
+
+**GM** — *finishing the thought*
+&gt; &quot;Really doesn&#x27;t want to be doing this.&quot;
+
+**GM** — *asking whether Zenvon continues observing*
+&gt; &quot;So, you&#x27;re gonna try to see what else you can notice?&quot;
+
+**Zenvon Forepot** — *confirming*
+&gt; &quot;Yeah, yeah.&quot;
+
+**GM** — *explaining that the cave interior is obscured*
+&gt; &quot;Alright, you can&#x27;t see into the cave, it&#x27;s too dark.&quot;
+
+**Zenvon Forepot** — *acknowledging*
+&gt; &quot;Correct.&quot;
+
+**GM** — *revealing another sensory clue*
+&gt; &quot;But you can definitely smell the cookfire smoke.&quot;
+
+**Zenvon Forepot** — *confirming its source*
+&gt; &quot;From inside the cave?&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yep.&quot;
+
+**GM** — *drawing the implication*
+&gt; &quot;So, there&#x27;s definitely somebody else inside there.&quot;
+
+**Zenvon Forepot** — *proposing a magical distraction*
+&gt; &quot;Can I use the mage hand and, you know, try to do some magic kind of thing, like…&quot;
+
+**Zenvon Forepot** — *suggesting possible disturbances*
+&gt; &quot;You know, throw off his pike, or, you know.&quot;
+
+**Zenvon Forepot** — *suggesting throwing a stone unseen*
+&gt; &quot;Throw a stone at him, something like that, without being noticed.&quot;
+
+**Zenvon Forepot** — *confirming that this is his intent*
+&gt; &quot;Yeah, yeah, that&#x27;s what I mean.&quot;
+
+**GM** — *resolving the failed group approach*
+&gt; &quot;Alright, unfortunately… *He notices something and steps closer.*&quot;
+
+**GM** — *explaining that the sentry is suspicious but uncertain*
+&gt; &quot;what do you want to do? He doesn&#x27;t know what he&#x27;s noticed, but he&#x27;s noticed something.&quot;
+
+**Zenvon Forepot** — *continuing with the distraction*
+&gt; &quot;So, I still want to use my mage hand, from the other side to distract him from the north.&quot;
+
+**GM** — *confirming the action*
+&gt; &quot;Alright, so you&#x27;re gonna use your mage hand to distract him?&quot;
+
+**GM** — *asking how*
+&gt; &quot;How do you distract… how do you distract him?&quot;
+
+**Zenvon Forepot** — *placing the effect behind the guard*
+&gt; &quot;So, behind him, assuming he&#x27;s facing south.&quot;
+
+**GM** — *confirming his facing*
+&gt; &quot;Yep, he&#x27;s facing south, yep.&quot;
+
+**Zenvon Forepot** — *describing the thrown-stone noises*
+&gt; &quot;Alright, so he should hear rocks roll down, or, you know, maybe a stone hitting the wall.&quot;
+
+**Zenvon Forepot** — *confirming*
+&gt; &quot;Okay. Yeah.&quot;
+
+**GM** — *resolving the noise*
+&gt; &quot;Okay, so he&#x27;s hitting a wall. Okay, so once he does that, what do you want to do?&quot;
+
+**Zenvon Forepot** — *expecting the guard to turn*
+&gt; &quot;So he&#x27;s gonna turn around, and then maybe, you know.&quot;
+
+**Zenvon Forepot** — *describing repeated noises from multiple directions*
+&gt; &quot;do that again from the east and the west, so… he kind of…&quot;
+
+**Zenvon Forepot** — *hoping to provoke a call for help*
+&gt; &quot;thinks that there&#x27;s someone, and I want him to call for help.&quot;
+
+**GM** — *checking whether Zenvon wants the cave emptied*
+&gt; &quot;So you want everybody to come out?&quot;
+
+**Zenvon Forepot** — *limiting the desired response*
+&gt; &quot;Not everyone, like, you know, I want them to at least call another bugbear, or maybe two.&quot;
+
+**Zenvon Forepot** — *clarifying his expectation*
+&gt; &quot;Can I ask you? That&#x27;s what my expectation is, like, you know, if he…&quot;
+
+**GM** — *probing the intended end state*
+&gt; &quot;But why… okay, so let me ask you a question. I mean, I just want to make sure. So…&quot;
+
+**GM** — *asking whether Zenvon wants a general fight*
+&gt; &quot;there&#x27;s this one guard. Is your plan to get everybody out and have a free-for-all fight, or what, like, what&#x27;s your plan?&quot;
+
+**Zenvon Forepot** — *expecting limited reinforcements*
+&gt; &quot;Yeah, I mean, I&#x27;m expecting at least…&quot;
+
+**Zenvon Forepot** — *planning to fight one or two additional enemies*
+&gt; &quot;one or two of them to come out, and then I want to engage in a fight.&quot;
+
+**GM** — *relaying Pip’s advice to kill the sentry silently*
+&gt; &quot;Alright, well, so, you know, Pip would have told you that the easiest way… that it&#x27;s much better to silently kill the sentry, rather than to have everybody show up, because it might be more than two.&quot;
+
+**GM** — *continuing the scene*
+
+&gt; *Pip adds,* “You&#x27;re the one… you know, it&#x27;s like…”
+
+**GM** — *as Pip*
+&gt; &quot;You haven&#x27;t led us wrong yet, Zenvon.&quot;
+
+**Zenvon Forepot** — *weighing the advice*
+&gt; &quot;I mean, it makes sense, but I&#x27;m thinking if we can kill him without…&quot;
+
+**Zenvon Forepot** — *deciding the extra distraction may not be worthwhile*
+&gt; &quot;Alerting others. Okay, yeah, I guess, I guess it doesn&#x27;t matter either way, like, it&#x27;s…&quot;
+
+**Zenvon Forepot** — *concluding that Mage Hand adds effort*
+&gt; &quot;I feel using the mage hand is more effort.&quot;
+
+**Zenvon Forepot** — *finishing the thought*
+&gt; &quot;For the same output.&quot;
+
+**Zenvon Forepot** — *saying the guard should stay in place*
+&gt; &quot;No, he&#x27;s gonna stay there, wherever he is.&quot;
+
+**Zenvon Forepot** — *wanting the guard’s back turned toward Pip*
+&gt; &quot;But he just has the back turned towards Pip.&quot;
+
+**GM** — *explaining that the sentry is already watching the south*
+&gt; &quot;And he&#x27;s already suspected that somebody&#x27;s over here. He&#x27;s already… he&#x27;s already heard something, so he&#x27;s looking towards the south.&quot;
+
+**Zenvon Forepot** — *asking whether he can remain distracted while moving*
+&gt; &quot;Okay, so… no, no, but is he distracted still if he&#x27;s moving down south?&quot;
+
+**GM** — *outlining the available choices*
+&gt; &quot;Well, he&#x27;s kind of staring south, so now you have an opportunity. You can either confirm his suspicion and see if you can get him to keep walking farther south, or point him in a different direction.&quot;
+
+**Zenvon Forepot** — *revising the plan*
+&gt; &quot;Okay, so, so when he suspects there is something towards the south behind the rock.&quot;
+
+**Zenvon Forepot** — *describing a northern stone throw and Pip’s movement*
+&gt; &quot;I throw a stone using mage hand from the north, and he turns his back around, and then I would want Pip to move into the ridge.&quot;
+
+**Zenvon Forepot** — *continuing*
+&gt; &quot;like…&quot;
+
+**GM** — *checking Pip’s purpose*
+&gt; &quot;To attack.&quot;
+
+**Zenvon Forepot** — *wanting Pip to sneak into position*
+&gt; &quot;In that time, like, you know, and sneak, and, you know, stay in position there.&quot;
+
+**GM** — *describing the sentry investigating with his weapon ready*
+&gt; &quot;He&#x27;s got his pike in front of him, and he&#x27;s looking, and you can see him looking over his shoulder.&quot;
+
+**GM** — *resolving the Insight attempt*
+&gt; &quot;Right, you notice nothing.&quot;
+
+**Zenvon Forepot** — *assessing the situation*
+&gt; &quot;Tricky here.&quot;
+</div></details></section><section id="vukradin"><h2>Vukradin — Patrons of the Common Chord</h2><p><a href="vukradin/a/response.md">A: 2305 words</a> (<a href="vukradin/a/changes.diff">diff</a>, <a href="vukradin/a/system_prompt.md">prompt</a>) · <a href="vukradin/b/response.md">B: 2304 words</a> (<a href="vukradin/b/changes.diff">diff</a>, <a href="vukradin/b/system_prompt.md">prompt</a>) · <a href="vukradin/c/response.md">C: 2276 words</a> (<a href="vukradin/c/changes.diff">diff</a>, <a href="vukradin/c/system_prompt.md">prompt</a>)</p><div class="columns"><article><select id="vukradin-left-select" onchange="show('vukradin','left')"><option value="baseline">Original v1 draft</option><option value="a">A — Light dialogue copyedit</option><option value="b">B — Contextual dialogue edit</option><option value="c">C — Integrated scene line edit</option></select><div class="prose" id="vukradin-left"></div></article><article><select id="vukradin-right-select" onchange="show('vukradin','right')"><option value="baseline">Original v1 draft</option><option value="a">A — Light dialogue copyedit</option><option value="b">B — Contextual dialogue edit</option><option value="c">C — Integrated scene line edit</option></select><div class="prose" id="vukradin-right"></div></article></div><details><summary>Source extraction</summary><div class="source">---
+scene: Rumors and Preparations at the Common Chord
+source: voice-smoothed
+from: ../scene_extractions/01_rumors_and_preparations_at_the_common_chord.md
+---
+
+# Rumors and Preparations at the Common Chord
+
+## Scene summary (from gm-assist, verbatim)
+
+#### The party discusses upcoming social obligations and rumors of a new Drow advisor to Lord Neverember while preparing for a late-night stakeout.
+
+- Aldus has not yet confirmed the exact time of the party’s dinner with Lord Neverember, so the group decides the lord can wait.
+- Rumors claim Lord Neverember has acquired a new Drow advisor. Valphine and the others suspect the advisor could be one of her siblings.
+- Valphine views House Margaster as competition.
+- The GM confirms that funding for Brewbarry’s bathrobe business has been secured, but imports remain expensive because the shipping portals or lanes are disrupted and House Margaster controls the available logistics.
+- House Margaster is nevertheless acknowledged to deliver goods on time and on schedule.
+- The party plans to reach Lim’s food deliveries by 3:00 a.m., timing the operation around low tide.
+- At the Common Chord, a local complains that the venue has become unaffordable because of Vukradin without realizing the bard is nearby.
+- Vukradin pitches an independent, low-cost, nonprofit studio where audiences could regularly hear Lathander’s Death and encourages the patron to spread the word.
+- His first successful donor contributes ten gold pieces and asks whether contributors receive public recognition. Vukradin promises annual program credit and declares ten gold the “Plus” tier, just short of “Premier.”
+- Vukradin approaches five more patrons, rolling persuasion results of 25, 26, 25, 17, and 17.
+- One patron recognizes the real Vukradin but has already completed his charitable donations for the year. Vukradin refuses to pressure him.
+- Wick does not know Lathander’s Death and is unconvinced that Vukradin is authentic, but enthusiastically supports what he assumes will be a music school.
+- Sabbatha contributes while openly admiring Brewbarry’s dedication to his distinctive, “bulging” and “rippling” appearance.
+- Old Hesp recognizes Vukradin and recalls attending when the bard promised refunds to anyone who did not rate the performance ten out of ten.
+- Old Hesp complains that everyone at the Common Chord now has to look fashionable and that Petra has turned it into a money-making operation.
+- He remembers when Brewbarry’s table lacked its leather finish and plaque and when the venue did not serve fancy food.
+- Wick, Sabbatha, Old Hesp, and Ondrelle Kass are recorded for future program credits.
+- The evening raises 20 gp for the studio; Petra’s separate 500 gp likeness payment remains pending until the performance two days later.
+- The party learns from ambient tavern conversation that Neverwinter’s sewers experience two high and two low tides each day.
+- They estimate that entering at low tide gives them roughly three or four useful hours before conditions become increasingly uncomfortable.
+
+## Voiced moments
+
+*No-mech cut approved by the GM (2026-09-06): removed 32 table-operation quotes covering opening quest bookkeeping, wall-clock and setting-reference checks, Persuasion rolls and totals, character-sheet/level discussion, the reach rules exchange, and final donation accounting. Player-to-table joke groups were explicitly kept for later in-fiction recasting during scrub. The verbatim record remains untouched in ../scene_extractions/.*
+
+
+**Vukradin** — *joking about Lord Neverember’s name*
+&gt; &quot;Is it Neverember or Neverwinter? I&#x27;m kidding.&quot;
+
+**GM** — *correcting him*
+&gt; &quot;Neverember. Neverember.&quot;
+
+**Vukradin** — *repeating the name*
+&gt; &quot;Neverember.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**Vukradin** — *repeating it again*
+&gt; &quot;Neverember.&quot;
+
+**GM** — *confirming again*
+&gt; &quot;Yes.&quot;
+
+**Vukradin** — *parsing the name*
+&gt; &quot;It is never, like, a fire ember.&quot;
+
+**GM** — *second-guessing the pronunciation*
+&gt; &quot;Yes, I think it is. Let me just go to that. Now I got it wrong.&quot;
+
+**Soma** — *making the ensuing joke*
+&gt; &quot;He&#x27;s never flaming. He keeps it on the DL.&quot;
+
+**Vukradin** — *starting to restate the title*
+&gt; &quot;It&#x27;s Lord…&quot;
+
+**GM** — *splitting the name into words*
+&gt; &quot;Never, Ember.&quot;
+
+**Vukradin** — *endorsing Soma’s joke*
+&gt; &quot;Yeah, I think Soma has it exactly right.&quot;
+
+*OOC address normalized to the character name under the campaign’s player-name ruling.*
+
+**GM** — *asking what Soma said*
+&gt; &quot;What was it?&quot;
+
+**Soma** — *repeating it*
+&gt; &quot;He&#x27;s never flaming, he keeps it on the DL.&quot;
+
+**Vukradin** — *agreeing*
+&gt; &quot;Yeah, never flaming.&quot;
+
+**Vukradin** — *commenting on the module’s names*
+&gt; &quot;The double entendres in these modules… Ridiculous.&quot;
+
+**Vukradin** — *bringing up the rumored advisor*
+&gt; &quot;Okay, and Lord Neverember… Lord Neverflaming has a new drow advisor.&quot;
+
+**Soma** — *wondering whether the advisor is Valphine*
+&gt; &quot;Great, isn&#x27;t that Valphine?&quot;
+
+**Vukradin** — *answering*
+&gt; &quot;No.&quot;
+
+**Soma** — *reacting*
+&gt; &quot;Ow.&quot;
+
+**Soma** — *remembering*
+&gt; &quot;Oh, right.&quot;
+
+**GM** — *describing the information as a rumor*
+&gt; &quot;Oh, it&#x27;s a rumor.&quot;
+
+**Vukradin** — *predicting that Valphine may recognize the advisor*
+&gt; &quot;It&#x27;s a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.&quot;
+
+*GM-approved reconstruction (2026-09-06): the independent transcript clearly restores both uses of “rumor.”*
+
+**Valphine Sotorra** — *asking what she is expected to know*
+&gt; &quot;I&#x27;m sorry, I lost track. What… What do I?&quot;
+
+**Vukradin** — *reminding her of the subject*
+&gt; &quot;Lord NeverEmber. Lord Never Flaming.&quot;
+
+**Vukradin** — *identifying the rumor*
+&gt; &quot;new drow advisor that we will.&quot;
+
+*Editorial note: both transcripts end this fragment at “we will”; no continuation is recoverable.*
+
+**Valphine Sotorra** — *recalling their suspicion*
+&gt; &quot;Oh, right, right, right. Which we assume to be one of my siblings, in fact.&quot;
+
+**Vukradin** — *agreeing with the theory*
+&gt; &quot;That is my guess too, yes.&quot;
+
+**GM** — *responding to the speculation*
+&gt; &quot;Nope, okay.&quot;
+
+**Soma** — *commenting on the campaign’s relationships*
+&gt; &quot;Everyone&#x27;s related to everyone.&quot;
+
+**GM** — *joking about that dynamic*
+&gt; &quot;You know, I&#x27;m Greek, so this is kind of…&quot;
+
+*OOC table joke.*
+
+**Soma** — *finishing the thought*
+&gt; &quot;expected.&quot;
+
+**Vukradin** — *asking about Brewbarry’s business funding*
+&gt; &quot;Have we secured the capital for Brewbarry&#x27;s bathrobe business, or is that still in progress?&quot;
+
+*Editorial correction: “bathroom” in the generation VTT was rendered as “bathrobe,” the established business.*
+
+**Soma** — *answering*
+&gt; &quot;I believe it&#x27;s in progress.&quot;
+
+**GM** — *asking what remains in progress*
+&gt; &quot;What is in progress?&quot;
+
+**Soma** — *clarifying*
+&gt; &quot;Securing money for the.&quot;
+
+*Editorial note: both transcripts truncate the object; the following response establishes only that the money had already been secured.*
+
+**GM** — *confirming that the money is secured*
+&gt; &quot;Oh, no, you&#x27;ve secured the money.&quot;
+
+**Vukradin** — *acknowledging the answer*
+&gt; &quot;We have? Oh, okay.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**Vukradin** — *recalling the import costs*
+&gt; &quot;But, oh, but the cost of import is very high.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**Soma** — *explaining the expense*
+&gt; &quot;Right, because their shipping lanes are still…&quot;
+
+**Soma** — *correcting the terminology*
+&gt; &quot;Shipping portals, whatever, are still hosed.&quot;
+
+**GM** — *identifying the controlling house*
+&gt; &quot;Alright, and House Margaster&#x27;s in charge.&quot;
+
+**Soma** — *responding*
+&gt; &quot;Of course they are.&quot;
+
+**GM** — *acknowledging House Margaster’s reliability*
+&gt; &quot;But, you know, they deliver things on time and on schedule.&quot;
+
+**Vukradin** — *setting the departure plan*
+&gt; &quot;Alright, let&#x27;s head out to Lim&#x27;s Food Deliveries and get there by 3 AM.&quot;
+
+**GM** — *accepting*
+&gt; &quot;Alright.&quot;
+
+**Vukradin** — *planning magical preparation*
+&gt; &quot;And then we can cast whatever spells we need in order to be ready.&quot;
+
+**GM** — *asking Valphine’s view of House Margaster*
+&gt; &quot;I&#x27;m curious: what&#x27;s Valphine&#x27;s take on House Margaster? Is she impressed with her control and what she&#x27;s doing, or unimpressed?&quot;
+
+**Valphine Sotorra** — *considering the question*
+&gt; &quot;I think Valphine is looking at House Margaster as the competition.&quot;
+
+**GM** — *accepting that answer*
+&gt; &quot;Okay, that I understand.&quot;
+
+**GM** — *staging the Common Chord*
+&gt; &quot;Okay. You&#x27;re at the dive that used to throw you out unpaid. It&#x27;s the hardest ticket in Neverwinter.&quot;
+
+**GM** — *describing the local’s complaint*
+&gt; &quot;One of the locals is saying the Chord is unaffordable now, and it&#x27;s all due to Vukradin. He&#x27;s talking about you without realizing you&#x27;re standing within earshot.&quot;
+
+*Editorial correction: “court” in the generation VTT was rendered as “Chord,” referring to the Common Chord.*
+
+**Vukradin** — *pitching his independent studio*
+&gt; &quot;I could tell him I&#x27;m planning on opening my own independent music studio, and if he&#x27;d like to contribute to the charitable fund.&quot;
+
+**Vukradin** — *explaining what the contribution would accelerate*
+&gt; &quot;That will speed the opening of a low-cost, nonprofit way to hear Lathander&#x27;s Death on a regular basis.&quot;
+
+**GM** — *accepting the declared action*
+&gt; &quot;You make that offer, okay.&quot;
+
+**Vukradin** — *asking the local to promote it*
+&gt; &quot;And spread the word.&quot;
+
+**Vukradin** — *expanding the fundraising pitch*
+&gt; &quot;Awesome, there&#x27;s a GoFundMe…&quot;
+
+*OOC modern-payment joke.*
+
+**Vukradin** — *listing modern payment metaphors*
+&gt; &quot;Yeah. QR code, Venmo account, etc.&quot;
+
+*OOC modern-payment joke.*
+
+**GM** — *providing the Faerun equivalent*
+&gt; &quot;Right, sending stone, in this case.&quot;
+
+*OOC translation of the payment joke.*
+
+**Vukradin** — *accepting the translation*
+&gt; &quot;All the, all the, all the Faerun equivalents.&quot;
+
+**GM** — *agreeing*
+&gt; &quot;Yes.&quot;
+
+**Vukradin** — *adding more payment jokes*
+&gt; &quot;I take Google Pay, Apple Pay, Portal Pay.&quot;
+
+*OOC modern-payment joke.*
+
+**GM** — *relaying ambient information from the bar*
+&gt; &quot;One thing you learn while listening at the local bar…&quot;
+
+**GM** — *introducing the sewer tide*
+&gt; &quot;Is that the tide… That goes through the sewers.&quot;
+
+**GM** — *initially stating its frequency*
+&gt; &quot;Turns twice a day.&quot;
+
+**GM** — *starting to explain the constraint*
+&gt; &quot;So you have to, if you&#x27;re.&quot;
+
+**Vukradin** — *checking the implication*
+&gt; &quot;Hide in the sewers?&quot;
+
+**GM** — *connecting it to the river*
+&gt; &quot;Yeah, the, the, the, from the river.&quot;
+
+**Vukradin** — *questioning the premise*
+&gt; &quot;There&#x27;s a tide in the sewers? A river has a tide?&quot;
+
+**GM** — *explaining Neverwinter’s coastal location*
+&gt; &quot;Well, you know, the town is right next to the sea.&quot;
+
+**GM** — *continuing the explanation*
+&gt; &quot;The tides come in, and so there&#x27;s, like.&quot;
+
+**Vukradin** — *asking about Toril’s moons*
+&gt; &quot;How many moons does this planet have?&quot;
+
+**GM** — *reacting to the question*
+&gt; &quot;Fine? You asked?&quot;
+
+**Valphine Sotorra** — *calling it easy to answer*
+&gt; &quot;That&#x27;s an easy question to answer.&quot;
+
+**Vukradin** — *proposing an answer*
+&gt; &quot;Just the one.&quot;
+
+**Soma** — *joking about its orbit*
+&gt; &quot;It just rotates—it revolves really fast.&quot;
+
+**Valphine Sotorra** — *naming the moon*
+&gt; &quot;It has one moon named Selûne.&quot;
+
+*Editorial correction: “Saloon” in both VTTs was normalized to the established lunar name Selûne.*
+
+**GM** — *confirming there is one moon*
+&gt; &quot;No, it actually has one.&quot;
+
+**Vukradin** — *recognizing the moon’s name*
+&gt; &quot;Oh, Selûne. Of course. Yeah.&quot;
+
+*Editorial correction: the independent VTT restores “Oh … Of course. Yeah”; its “Saloon” rendering was normalized to Selûne.*
+
+**GM** — *mentioning the moon and its tears*
+&gt; &quot;It&#x27;s got Selûne, and it&#x27;s got the Tears of Selûne.&quot;
+
+*Editorial correction: “saloon” and “tiers of Saloon” in the VTTs were normalized to the established names Selûne and Tears of Selûne.*
+
+**Vukradin** — *inferring two tidal influences*
+&gt; &quot;So, there should be a tidal effect from both moons.&quot;
+
+**GM** — *explaining that the other bodies are asteroids*
+&gt; &quot;No, because the other ones are actually asteroids—a cluster of meteors and asteroids.&quot;
+
+*GM-approved reconstruction (2026-09-06): “meters” was normalized to “meteors” from the astronomical context.*
+
+**Vukradin** — *clarifying their gravity*
+&gt; &quot;They&#x27;re not sufficiently gravitational.&quot;
+
+**GM** — *agreeing*
+&gt; &quot;Yes.&quot;
+
+**Vukradin** — *challenging the classification*
+&gt; &quot;You&#x27;re telling me?&quot;
+
+**Vukradin** — *concluding they are not moons*
+&gt; &quot;They&#x27;re not really moons.&quot;
+
+**Soma** — *describing them as comets*
+&gt; &quot;Yeah, they&#x27;re… they&#x27;re just comets.&quot;
+
+**Vukradin** — *returning to the one-moon conclusion*
+&gt; &quot;They&#x27;re asteroids. So the one moon, then.&quot;
+
+**Vukradin** — *noting the correction*
+&gt; &quot;There you go. Not one and one: two high and two low.&quot;
+
+**Soma** — *reacting*
+&gt; &quot;Jesus.&quot;
+
+**Soma** — *considering its effect on commerce*
+&gt; &quot;That&#x27;s murder on trade.&quot;
+
+**Valphine Sotorra** — *checking whether tides affect the sewers*
+&gt; &quot;It should take effect underground, too, right?&quot;
+
+*GM-approved reconstruction (2026-09-06): the subject pronoun was restored from context.*
+
+**Vukradin** — *calculating*
+&gt; &quot;So it&#x27;s a 6-hour cycle.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yeah.&quot;
+
+**GM** — *restating the frequency*
+&gt; &quot;And 2 daily high tides and 2 low tides.&quot;
+
+**Vukradin** — *repeating the calculation*
+&gt; &quot;Yeah, so it&#x27;s a 6-hour cycle.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**GM** — *identifying the low-tide window*
+&gt; &quot;So, yes, sorry, I should&#x27;ve.&quot;
+
+**Vukradin** — *correcting the interval*
+&gt; &quot;High to low is 3 hours.&quot;
+
+**GM** — *continuing*
+&gt; &quot;So, yes, so there&#x27;s this period of time when it&#x27;s low tide.&quot;
+
+**Vukradin** — *revising the interval again*
+&gt; &quot;Yeah, no, high to low. High to low is 6 hours, 6…&quot;
+
+**Vukradin** — *settling on the figure*
+&gt; &quot;High to low is 6 hours.&quot;
+
+**GM** — *accepting it*
+&gt; &quot;Alright, so, yes.&quot;
+
+**Vukradin** — *stating the operational goal*
+&gt; &quot;We want to be in the sewer for… at low tide.&quot;
+
+**GM** — *confirming the timing is convenient*
+&gt; &quot;Yes, which just happens to be conveniently it.&quot;
+
+**Soma** — *supplying the time*
+&gt; &quot;3 AM.&quot;
+
+*Editorial correction: the generation VTT dropped the “A” from “3 AM.”*
+
+**Vukradin** — *estimating the useful window*
+&gt; &quot;We have about 3 hours, maybe 4, before things start to get really uncomfortable.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Exactly.&quot;
+
+**Soma** — *noting her own advantage*
+&gt; &quot;I mean, I can hang out underwater indefinitely.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**GM** — *clarifying the source of the tide information*
+&gt; &quot;You overhear that among the discussion; it isn&#x27;t directed at you.&quot;
+
+**GM** — *describing the prospective donor*
+&gt; &quot;He&#x27;s on the drunk side, and you&#x27;re so charming and convincing that…&quot;
+
+**GM** — *awarding the contribution*
+&gt; &quot;He&#x27;s like, man, I don&#x27;t have a lot of money, but he hands you over 10 gold pieces.&quot;
+
+**Vukradin** — *reacting to the amount*
+&gt; &quot;Wow, that&#x27;s pretty generous, actually.&quot;
+
+**Soma** — *agreeing*
+&gt; &quot;That&#x27;s a hell of a donation.&quot;
+
+*Editorial correction: “domain” was reconstructed as “donation” from the ten-gold exchange; the independent VTT overlaps the line with Vukradin’s following “random nobody.”*
+
+**Vukradin** — *earmarking the donation*
+&gt; &quot;Random nobody. We need to put that in the correct… That goes in the studio fund, not the regular coffers. Thank you very much for contributing. That&#x27;s awesome.&quot;
+
+**GM** — *having the donor ask about recognition*
+&gt; *The drunken donor pauses.* &quot;Do I get on… Is there some kind of signage for people who contributed?&quot;
+
+**Vukradin** — *promising recognition*
+&gt; &quot;Absolutely. Yes.&quot;
+
+**Vukradin** — *introducing donor tiers*
+&gt; &quot;There are different tiers of giving levels, actually. 10 gold pieces puts you at the,&quot;
+
+**Soma** — *offering tier names*
+&gt; &quot;Premier or the Plus, which one?&quot;
+
+**Vukradin** — *placing the donor at Plus*
+&gt; &quot;At the plus level, yeah, you&#x27;re not quite at Premier yet.&quot;
+
+**Vukradin** — *emphasizing the generosity*
+&gt; &quot;You&#x27;re at plus level. 10 gold is a lot for a rando.&quot;
+
+**GM** — *describing the donor’s reaction*
+&gt; &quot;He&#x27;s like, you know, he&#x27;s happy to hear that.&quot;
+
+**Vukradin** — *requesting the donor’s name for the credits*
+&gt; &quot;We need his name. We need to write it down for the program notes, and…&quot;
+
+**Soma** — *starting to describe the section*
+&gt; &quot;It&#x27;d be the…&quot;
+
+**Vukradin** — *specifying the term*
+&gt; &quot;Per year.&quot;
+
+**Soma** — *echoing it*
+&gt; &quot;Good section.&quot;
+
+**Vukradin** — *explaining annual renewal*
+&gt; &quot;A year. If you want to be in next year&#x27;s, you&#x27;ll have to donate again, but one year is a long time.&quot;
+
+**Valphine Sotorra** — *naming the model*
+&gt; &quot;Yeah, we call this Patreon.&quot;
+
+**Vukradin** — *agreeing*
+&gt; &quot;It&#x27;s my Patreon, exactly.&quot;
+
+**Soma** — *connecting it to patronage*
+&gt; &quot;This is where it comes from, patronage.&quot;
+
+**Vukradin** — *asking to solicit more donors*
+&gt; &quot;Before we go, should I try to convince other people to contribute to the Studio Fund? How much time do we have?&quot;
+
+**GM** — *saying there is time before 3 a.m.*
+&gt; &quot;You&#x27;re leaving at 3 AM. You&#x27;ve got plenty of time.&quot;
+
+**Vukradin** — *deciding to approach five more people*
+&gt; &quot;Alright, let&#x27;s do… let&#x27;s hit up a few more people, let&#x27;s see how it goes here.&quot;
+
+**GM** — *saying the patron recognizes Vukradin but declines*
+&gt; &quot;He realizes you&#x27;re the real Vukradin, but says he&#x27;s already done his charitable giving for this year.&quot;
+
+**Vukradin** — *accepting the refusal*
+&gt; &quot;Okay, that&#x27;s fine. I&#x27;m not here to pressure anybody.&quot;
+
+**Vukradin** — *keeping the pitch friendly*
+&gt; &quot;The benefits are all on you. If you can be at the Plus or Premier level, I&#x27;m cool. I just like fans.&quot;
+
+**GM** — *relaying the patron’s response*
+&gt; &quot;Right, and he says, biggest fan, biggest fan.&quot;
+
+**Vukradin** — *comparing him to Brewbarry*
+&gt; &quot;Oh, Bigger Than Brewbarry?&quot;
+
+**Valphine Sotorra** — *joking about Brewbarry’s size*
+&gt; &quot;Brewbarry&#x27;s very large. In fact, he&#x27;s huge in Japan sometimes.&quot;
+
+**Vukradin** — *accepting Brewbarry’s unmatched size*
+&gt; &quot;It&#x27;s alright. Nobody&#x27;s as big as Brewbarry, that&#x27;s just how it.&quot;
+
+**GM** — *summarizing the successful pitches*
+&gt; &quot;Four of them are enthralled by your… by your thing.&quot;
+
+**Vukradin** — *acknowledging*
+&gt; &quot;Yeah.&quot;
+
+**GM** — *listing the recorded donor names*
+&gt; &quot;Their names are Wick, Sabbatha, Old Hesp, and Ondrelle Kass.&quot;
+
+**Vukradin** — *reacting*
+&gt; &quot;Wow.&quot;
+
+**Vukradin** — *putting them in the program notes*
+&gt; &quot;That&#x27;s great. Well, let&#x27;s add them to the program notes, and&quot;
+
+**GM** — *offering the written names*
+&gt; &quot;Here, I&#x27;ll just put the names here so that you have.&quot;
+
+**Vukradin** — *responding*
+&gt; &quot;That&#x27;s awesome.&quot;
+
+**GM** — *describing Wick*
+&gt; &quot;The second guy, Wick, is really excited. He has no idea who Lathander&#x27;s Death is, but he&#x27;s really into patronage of the arts. He doesn&#x27;t believe you&#x27;re Vukradin, but he doesn&#x27;t care. He just thinks it&#x27;s awesome that you&#x27;re putting together a music school.&quot;
+
+**Soma** — *questioning that description*
+&gt; &quot;School?&quot;
+
+**GM** — *checking Vukradin’s terminology*
+&gt; &quot;Well, that&#x27;s what you said, studio, right?&quot;
+
+**Vukradin** — *equating the two*
+&gt; &quot;School, studio—they&#x27;re all the same, right? If you have a studio, it&#x27;s for training people. That&#x27;s just how it goes.&quot;
+
+**GM** — *explaining Wick’s assumption*
+&gt; &quot;Yeah, he kind of assumes that.&quot;
+
+**Vukradin** — *accepting it*
+&gt; &quot;Yeah.&quot;
+
+**GM** — *introducing Sabbatha’s reaction*
+&gt; &quot;Sabbatha is staring at Brewbarry, looking him over, and can&#x27;t help commenting on how committed he is to the Brewbarry look.&quot;
+
+**Vukradin** — *describing Brewbarry*
+&gt; &quot;Yes, he is quite bulging, isn&#x27;t he?&quot;
+
+**GM** — *agreeing*
+&gt; &quot;Yes.&quot;
+
+**Soma** — *adding another adjective*
+&gt; &quot;Rippling.&quot;
+
+**Vukradin** — *agreeing*
+&gt; &quot;Exactly.&quot;
+
+**GM** — *introducing Old Hesp*
+&gt; &quot;The last guy you meet is Old Hesp.&quot;
+
+**GM** — *noting recognition*
+&gt; &quot;And you recognize him.&quot;
+
+**GM** — *correcting who recognizes whom*
+&gt; &quot;Or rather, he recognizes you.&quot;
+
+**GM** — *relaying Old Hesp’s memory*
+&gt; &quot;I remember when you used to play to an empty room.&quot;
+
+**Vukradin** — *responding*
+&gt; &quot;Yeah?&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yeah.&quot;
+
+**Vukradin** — *asking whether Old Hesp attended*
+&gt; &quot;Did you come? Did you come? Did I give you your money back at the end of.&quot;
+
+**GM** — *recalling Vukradin’s guarantee*
+&gt; &quot;Yeah, he… yes, you did. He said that if I didn&#x27;t love it, you wouldn&#x27;t take my… if I didn&#x27;t give you a 10 out of 10, I wouldn&#x27;t give.&quot;
+
+**Vukradin** — *calling that honest and asking for a current opinion*
+&gt; &quot;I know, that&#x27;s how honest I am. Well, what do you think now?&quot;
+
+**GM** — *relaying Old Hesp’s complaint*
+&gt; *He pauses.* &quot;Now this is a friggin&#x27; expensive place to be. Everybody&#x27;s gotta look cool.&quot;
+
+**Vukradin** — *inviting him to the future studio*
+&gt; &quot;Well, come to the new studio, when it&#x27;s up and running.&quot;
+
+**GM** — *describing what the new venue should recover*
+&gt; &quot;He goes, it doesn&#x27;t have the look, that feel, that, that gritty…&quot;
+
+**Vukradin** — *promising to restore it*
+&gt; &quot;We&#x27;re gonna get it back. We&#x27;re gonna get it back.&quot;
+
+**GM** — *calling the Common Chord commercial*
+&gt; &quot;This is too commercial.&quot;
+
+**Vukradin** — *agreeing*
+&gt; &quot;Yeah, yeah, I agree.&quot;
+
+**GM** — *blaming Petra’s commercialization while respecting it*
+&gt; &quot;It&#x27;s too commercial. Too… I mean, Petra&#x27;s turned this into a money-making operation. I gotta respect her, she&#x27;s, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.&quot;
+
+**GM** — *remembering Brewbarry’s old table*
+&gt; &quot;Was, you know, that was not leather and shiny and with a plaque.&quot;
+
+**GM** — *remembering the old food*
+&gt; &quot;And then he goes, and we didn&#x27;t have this kind of fancy food here.&quot;
+
+**Vukradin** — *ending the tavern preparations*
+&gt; &quot;Alright, let&#x27;s go, do some… spelunking.&quot;
+</div></details></section><section id="valphine"><h2>Valphine Sotorra — The Ninth Crate Disappears</h2><p><a href="valphine/a/response.md">A: 1787 words</a> (<a href="valphine/a/changes.diff">diff</a>, <a href="valphine/a/system_prompt.md">prompt</a>) · <a href="valphine/b/response.md">B: 1787 words</a> (<a href="valphine/b/changes.diff">diff</a>, <a href="valphine/b/system_prompt.md">prompt</a>) · <a href="valphine/c/response.md">C: 1780 words</a> (<a href="valphine/c/changes.diff">diff</a>, <a href="valphine/c/system_prompt.md">prompt</a>)</p><div class="columns"><article><select id="valphine-left-select" onchange="show('valphine','left')"><option value="baseline">Original v1 draft</option><option value="a">A — Light dialogue copyedit</option><option value="b">B — Contextual dialogue edit</option><option value="c">C — Integrated scene line edit</option></select><div class="prose" id="valphine-left"></div></article><article><select id="valphine-right-select" onchange="show('valphine','right')"><option value="baseline">Original v1 draft</option><option value="a">A — Light dialogue copyedit</option><option value="b">B — Contextual dialogue edit</option><option value="c">C — Integrated scene line edit</option></select><div class="prose" id="valphine-right"></div></article></div><details><summary>Source extraction</summary><div class="source">---
+scene: The Sewer Stakeout
+source: voice-smoothed
+from: ../scene_extractions/02_the_sewer_stakeout.md
+---
+
+# The Sewer Stakeout
+
+## Scene summary (from gm-assist, verbatim)
+
+#### The party monitors a suspicious delivery at a sewer grate, leading to a split in their investigation.
+
+- Soma casts *Find Familiar* and creates a rat through whose eyes and ears she can perceive while it remains within 100 feet.
+- Vukradin has a +9 Stealth bonus; his Boots of Elvenkind grant advantage when he moves silently, making him the party’s best candidate for personally following a target.
+- The stakeout occurs beside a sewer grill reached by aqueduct-like steps.
+- Two crate carriers deposit nine crates. Eight bear no official Commission Harbor mark, reinforcing that those goods entered Neverwinter outside normal channels.
+- Eight crates are stacked for Lim, while the ninth is placed separately on a ledge.
+- The carrier who handles the ninth crate stops, looks down into the dark as if checking for the expected collector, and leaves.
+- The two carriers walk away in different directions and conspicuously avoid acknowledging one another.
+- Valphine initially rolls a 12 to determine which carrier seems senior, then expends the party’s final Bardic Inspiration to reach 19.
+- She identifies the man who looked into the sewer as the one who likely knows more, while the other appeared to be merely stacking boxes.
+- A small, quick, cat-sized construct of brass and leather emerges, takes the ninth crate, and returns below.
+- Vukradin pursues the construct alone, judging that his chance of a catastrophic stealth failure is “only a 1 in 400.”
+- Valphine, Soma, and Brewbarry follow the knowledgeable carrier, later identified as Denvar.
+- Vukradin and Soma carry the paired Sending Stones, giving the separated groups a magical “walkie-talkie” connection.
+- Denvar stops at one of the few cook shops open around the fourth hour and eats breakfast alone.
+- The party declines to confront him because it promised Lim not to spook her connections.
+- In the sewers, Vukradin rolls a natural one on a Wisdom save and becomes overwhelmed by the conviction that following his current route is boring and pointless.
+- He abandons the construct’s trail without forgetting why he originally entered the tunnels.
+
+## Voiced moments
+
+*No-mech cut approved by the GM (2026-09-06): removed 44 table-operation quotes covering stealth modifiers, familiar range and line-of-sight rules, the Insight/Bardic Inspiration resolution, party-position bookkeeping, an advantage declaration, elapsed-time tracking, and saving-throw procedure. Spell naming, magical-effect description, character reactions, and player-to-table jokes were kept for fiction or later scrub recasting. The verbatim record remains untouched in ../scene_extractions/.*
+
+
+**Vukradin** — *earlier identifying himself as the stealth specialist*
+&gt; &quot;I have a very high stealth, if we need me to…&quot;
+
+**Vukradin** — *offering to handle stealth work*
+&gt; &quot;We need someone to do something stealthily.&quot;
+
+**Soma** — *suggesting he accompany a familiar*
+&gt; &quot;I mean, you could tag along with a familiar…&quot;
+
+*Editorial correction: both VTTs support “tag along with a familiar” but lose the remainder, so the quote ends at the last recoverable words.*
+
+*OOC character-sheet discussion; the unrecoverable final fragment was dropped under the approved truncation policy.*
+
+**GM** — *reacting to the modifier*
+&gt; &quot;Are you serious?&quot;
+
+**Vukradin** — *answering*
+&gt; &quot;I have an actual character.&quot;
+
+**Vukradin** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**GM** — *reacting*
+&gt; &quot;Damn.&quot;
+
+**Soma** — *expressing surprise at bard stealth*
+&gt; &quot;I didn&#x27;t know bards got high stealth.&quot;
+
+**Vukradin** — *identifying his equipment*
+&gt; &quot;And it&#x27;s just because I have boots of elvenkind.&quot;
+
+**Soma** — *approving*
+&gt; &quot;Hell yeah.&quot;
+
+**Soma** — *naming the spell*
+&gt; &quot;I cast *Find Familiar*.&quot;
+
+*GM-approved reconstruction (2026-09-06): the spellcasting context resolves the dropped verb and spell title.*
+
+**GM** — *placing the party at the sewer grill*
+&gt; &quot;Right. You&#x27;re at a grille that goes into the sewers.&quot;
+
+**Soma** — *reacting*
+&gt; &quot;Oh, okay. Great.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yup.&quot;
+
+**GM** — *describing the approach and carriers*
+&gt; &quot;There are aqueduct-like steps, wet stone, and two crate carriers.&quot;
+
+*Editorial correction: “whetstone” in the generation VTT was rendered as “wet stone,” matching the prepared sewer staging.*
+
+**GM** — *describing the delivery*
+&gt; &quot;And, you can see them, dropping down the crates.&quot;
+
+**Soma** — *checking the count*
+&gt; &quot;All 9 of them?&quot;
+
+**GM** — *confirming all nine*
+&gt; &quot;Nope, yeah, all 9 of them.&quot;
+
+**Vukradin** — *identifying the two investigative goals*
+&gt; &quot;So we want one person to track down the gnome, right? Crate 9.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**Vukradin** — *adding the carriers as targets*
+&gt; &quot;We also want to track the people who dropped them. So we want to do two things.&quot;
+
+**Soma** — *pointing to Vukradin’s stealth*
+&gt; &quot;What, you said you got your high stealth.&quot;
+
+**Vukradin** — *confirming*
+&gt; &quot;Yeah.&quot;
+
+**Vukradin** — *offering to follow the gnome*
+&gt; &quot;If you want, I can track the gnome. You guys can go do the… the sewers.&quot;
+
+**Soma** — *choosing the ninth crate*
+&gt; &quot;Well, I&#x27;m tracking the crate.&quot;
+
+**Vukradin** — *asking which*
+&gt; &quot;Which crate?&quot;
+
+**Soma** — *identifying it*
+&gt; &quot;The ninth crate, the one that doesn&#x27;t go into Lim, because I&#x27;m more concerned about my friend&#x27;s shady business.&quot;
+
+*Editorial correction: the independent VTT preserves this as one complete sentence and resolves the generation-VTT split and garbled opening.*
+
+**Vukradin** — *questioning whether he should enter the sewers alone*
+&gt; &quot;Okay, so you want me to follow them back into the sewers?&quot;
+
+**Vukradin** — *calling that dangerous*
+&gt; &quot;That seems pretty dangerous. One party member in the sewers.&quot;
+
+**Soma** — *revising the plan*
+&gt; &quot;I see. Alright, we can send the rat that way, then. You can follow the crate.&quot;
+
+**GM** — *clarifying that the carriers leave the crates by the grill*
+&gt; &quot;They just drop these boxes near the grille.&quot;
+
+**GM** — *continuing the clarification*
+&gt; &quot;Then they walk away.&quot;
+
+**GM** — *describing what the party sees*
+&gt; &quot;They&#x27;re walking away. What do you want to do? You see a group of crates being deposited, and they clearly don&#x27;t have the Commission Harbor mark on them.&quot;
+
+**GM** — *drawing the smuggling implication*
+&gt; &quot;Right, meaning that they&#x27;ve been smuggled in here somehow?&quot;
+
+**Soma** — *saying this was already known*
+&gt; &quot;Yeah, no, we knew that.&quot;
+
+**GM** — *explaining the reminder*
+&gt; &quot;Alright. I&#x27;m just reminding you.&quot;
+
+*OOC reminder.*
+
+**GM** — *describing the knowledgeable carrier’s pause*
+&gt; &quot;As they&#x27;re packing them away, one carrier stops halfway, looks down into the dark, and then walks away.&quot;
+
+**Soma** — *checking where he looked*
+&gt; &quot;Like, down at the grates, or the…&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yeah, at the grill where the crates are from, where the crates are.&quot;
+
+*Editorial correction: the independent VTT reads “grill,” not “grove.”*
+
+**Soma** — *directing the rat toward the sewer*
+&gt; &quot;The rat&#x27;s gonna go whichever way leads to the sewer.&quot;
+
+*Editorial correction: the independent VTT reads “rat,” referring to Soma’s familiar.*
+
+**Vukradin** — *laying out the expected crate split*
+&gt; &quot;So, look, the… The crates got dropped off. Lim&#x27;s gonna come out and take 8 of the crates.&quot;
+
+**Soma** — *confirming*
+&gt; &quot;Right.&quot;
+
+**Vukradin** — *identifying the separate crate*
+&gt; &quot;And she&#x27;s not gonna take a 9th crate.&quot;
+
+**Vukradin** — *declaring his role*
+&gt; &quot;Vukradin is gonna stick around and stealthily wait to see who comes to get the ninth crate, and then track it.&quot;
+
+*Editorial correction: “Bukan” in the generation VTT was rendered as “Vukradin,” who is describing his own role.*
+
+**Valphine Sotorra** — *summarizing the split*
+&gt; &quot;So everyone other than Vukradin is gonna trail these guys, and Vukradin&#x27;s gonna trail the crate.&quot;
+
+*Editorial correction: “Crawdin” in the generation VTT was rendered as “Vukradin,” consistent with the immediately following assignment.*
+
+**Valphine Sotorra** — *checking the plan*
+&gt; &quot;Is that right?&quot;
+
+**Vukradin** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**Soma** — *confirming*
+&gt; &quot;Yes.&quot;
+
+**Soma** — *restating the carriers’ movement*
+&gt; &quot;They come out of the sewers, they drop the crates, and then they just walk on through town, which way?&quot;
+
+**GM** — *describing their deliberate separation*
+&gt; &quot;Right. They don&#x27;t look at each other.&quot;
+
+**GM** — *saying they pretend not to know one another*
+&gt; &quot;They act as if they don&#x27;t know each other, and split up.&quot;
+
+**Soma** — *characterizing the behavior*
+&gt; &quot;That nonchalant whistling.&quot;
+
+**Vukradin** — *noting the tracking problem*
+&gt; &quot;So if they split up, that&#x27;s gonna make them hard to follow. You&#x27;re gonna have to choose one or split again.&quot;
+
+**GM** — *describing the two carriers’ different roles*
+&gt; &quot;There were two guys. One of them, as I said…&quot;
+
+**GM** — *describing the crate placement*
+&gt; &quot;Eight crates were stacked together, and the ninth was put on the ledge.&quot;
+
+**GM** — *describing the carrier checking below*
+&gt; &quot;And the guy who put it on the ledge looked down as if he was looking for something and walked away.&quot;
+
+**GM** — *contrasting the other carrier*
+&gt; &quot;The other guy was just stacking boxes.&quot;
+
+**Soma** — *choosing the knowledgeable carrier*
+&gt; &quot;I&#x27;d follow the guy who paid attention to the ledge.&quot;
+
+**Soma** — *explaining why*
+&gt; &quot;He knows something. He knows something&#x27;s coming out of that thing.&quot;
+
+**Soma** — *teasing the others*
+&gt; &quot;I could handle this myself, guys, you don&#x27;t trust me?&quot;
+
+**GM** — *revealing the collector*
+&gt; &quot;Something comes up for it, and it is not a person. Small, quick, brass and leather, cat-sized, moving with the unhurried competence of a thing following instructions. It takes the crate and goes back down.&quot;
+
+**Vukradin** — *declaring pursuit*
+&gt; &quot;Okay, Vukradin will pursue stealthily.&quot;
+
+**GM** — *accepting*
+&gt; &quot;Alright.&quot;
+
+**Soma** — *raising her concern*
+&gt; &quot;This is my concern. Vukradin ends up going into the sewers now, and…&quot;
+
+**Vukradin** — *reassuring her*
+&gt; &quot;I&#x27;ll be fine.&quot;
+
+**Soma** — *questioning the solo pursuit*
+&gt; &quot;One person in the sewers? Alright.&quot;
+
+**Soma** — *asking for the odds*
+&gt; &quot;Tell me the odds.&quot;
+
+**GM** — *jokingly declaring the end of Vukradin*
+&gt; &quot;Okay, this is the end of Vukradin, alright.&quot;
+
+*OOC table joke.*
+
+**Vukradin** — *calculating the risk*
+&gt; &quot;Only a 1 in 400 chance of disaster. It&#x27;ll be fine.&quot;
+
+**GM** — *placing Denvar at an open cook shop*
+&gt; &quot;So, Denvar… the guy you&#x27;re following goes for… stops at a cook shop that&#x27;s open at the fourth hour.&quot;
+
+*Editorial correction: the independent VTT reads “cook shop,” not “cook shot.”*
+
+**Soma** — *noting the rarity*
+&gt; &quot;Can&#x27;t be a lot of those.&quot;
+
+**GM** — *agreeing*
+&gt; &quot;So there&#x27;s not a lot of those.&quot;
+
+**GM** — *describing him eating*
+&gt; &quot;And he seems to be happily eating it.&quot;
+
+**Vukradin** — *reminding Soma about the Sending Stones*
+&gt; &quot;By the way, Soma, you have one of the Sending Stones, and I have the other.&quot;
+
+*OOC address normalized to the character name under the campaign’s player-name ruling.*
+
+**Soma** — *acknowledging*
+&gt; &quot;Good to know.&quot;
+
+**Soma** — *comparing them to radios*
+&gt; &quot;So we could have little walkie-talkies over. Yeah.&quot;
+
+**Vukradin** — *confirming*
+&gt; &quot;We have walkie-talkies.&quot;
+
+**Soma** — *joking about Denvar’s meal*
+&gt; &quot;He&#x27;s not eating turtle soup or anything at this hour, is he?&quot;
+
+**Soma** — *distinguishing the cook shop from Lim’s establishment*
+&gt; &quot;It&#x27;s not the Board Laid Bare he&#x27;s at, of course, he&#x27;s somewhere else.&quot;
+
+**GM** — *asking whether they confront Denvar*
+&gt; &quot;Do you want to jump him? He&#x27;s eating his food. Do you want to walk up to him? What do you want to do with him?&quot;
+
+**Soma** — *checking whether he is alone*
+&gt; &quot;He&#x27;s just eating alone. He isn&#x27;t talking to anybody.&quot;
+
+**GM** — *describing the hour and surroundings*
+&gt; &quot;It&#x27;s late at night, it&#x27;s 4 AM, you know, the locals there are, you know.&quot;
+
+**Vukradin** — *reminding them of the promise to Lim*
+&gt; &quot;Remember, we promised Lim we&#x27;re not gonna spook her connections.&quot;
+
+**Vukradin** — *qualifying who made the promise*
+&gt; &quot;Or you promised them.&quot;
+
+**Soma** — *acknowledging the reminder*
+&gt; &quot;Thank you so much.&quot;
+
+**Soma** — *declining to disrupt Lim’s business*
+&gt; &quot;I&#x27;m not trying to put her out of business. I want to see where he goes next. Stopping for a snack doesn&#x27;t tell us anything, and spooking him doesn&#x27;t seem kosher.&quot;
+
+**Vukradin** — *predicting trouble*
+&gt; &quot;Okay… I don&#x27;t think that&#x27;s gonna go very well.&quot;
+
+**Valphine Sotorra** — *reacting*
+&gt; &quot;Good times.&quot;
+
+**Vukradin** — *speculating about the effect*
+&gt; &quot;I mean, okay, there&#x27;s some passive charm effect or something.&quot;
+
+**GM** — *describing the magical disinterest*
+&gt; &quot;Well, so what happens is you suddenly become disinterested with where you&#x27;re going.&quot;
+
+**GM** — *continuing the effect*
+&gt; &quot;Decide that this is utterly boring.&quot;
+
+**GM** — *having Vukradin abandon the route*
+&gt; &quot;And totally not worth your time, and start walking away.&quot;
+
+**Soma** — *joking about the change*
+&gt; &quot;turn into Brewbarry.&quot;
+
+**GM** — *describing the confusion*
+&gt; &quot;You&#x27;re overwhelmed with confusion. Alright.&quot;
+
+**Vukradin** — *characterizing it*
+&gt; &quot;A passive confusion effect. Alright, awesome.&quot;
+
+**GM** — *correcting him*
+&gt; &quot;No, it wasn&#x27;t a passive confusion effect.&quot;
+
+*Editorial correction: the independent VTT repeats “passive”; the GM then clarifies that the effect caused disinterest rather than confusion.*
+
+**Vukradin** — *reasoning that it was not directly cast*
+&gt; &quot;Well, it can&#x27;t have been cast directly on me.&quot;
+
+**GM** — *confirming*
+&gt; &quot;No, no, no.&quot;
+
+**Vukradin** — *identifying an area effect*
+&gt; &quot;This is, like, an area effect.&quot;
+
+**GM** — *confirming*
+&gt; &quot;Yes, it was an area effect.&quot;
+
+**GM** — *clarifying what Vukradin remembers*
+&gt; &quot;You were disinterested in following the tunnel, but you still remember where you were. You decided this wasn&#x27;t the right way to go. You weren&#x27;t confused; the whole idea of going down this path simply stopped being interesting.&quot;
+
+**Vukradin** — *acknowledging*
+&gt; &quot;Okay.&quot;
+</div></details></section><script>const data={"zenvon": {"baseline": "### Zenvon Forepot\n\nThe smell of smoke gives us a direction as we climb the rugged ridge on Wyvern Tor’s lower slopes. I move ahead far enough to look down into the ravine. A cave mouth opens at the bottom, about fifty yards away. Twenty yards outside it, a single bugbear sits hunkered beside a boulder.\n\nOne that I can see. There is a difference.\n\nHe is within reach of my shortbow. I look at the distance between him and the cave, then withdraw to where Pip, Sister Maela, and Veyra wait.\n\n“Okay, guys, so I see a bugbear…” I try to explain where he is. “At the far end of the cave.” That is not quite the location. “Yeah, ravine. At the ravine? Okay, yeah, yeah. So, I was thinking I could use my shortbow and take that guy out.”\n\nThe shot is possible. What follows the shot is what we need to settle.\n\n“But he's kind of far, and I think I'll be able to make it. What do you… guys want to do? Do you have any better idea to tackle the situation?”\n\n“Well, the first thing we should do is—” Pip pauses. “Check to see if he's doing anything.”\n\n“What do you mean is doing anything?”\n\n“Well, is he the kind of guard that spends his time thinking hard, or is he the kind of guard that—you know, what kind of guard is he?”\n\nI have established that he is a bugbear, alone outside a cave, and close enough to shoot. Pip wants a more particular description.\n\n“Well… To explore that, you need to go close to him, and I think it's a bad idea going close to him.”\n\nHe looks at me. “You can sneak, right?”\n\n“I can sneak, but, well, yeah, yeah, I guess you're right, okay, I can… can go as close as possible. Let me try.”\n\nI go back along the ridge and work closer without drawing the bugbear’s attention. From here I can see the milky film over one eye. That eye is blind. He leans on a salvaged pike, making use of it while there is nobody to stab.\n\n*Salvaged bike?*\n\nPike. Like a spear. A long, pointed weapon, and at present something to lean against.\n\nPip has a useful question, yes. The guard looks bored. He has the look of somebody who has been given this assignment and would prefer another one. But he is still between us and the entrance, with a weapon long enough to make approaching him inconvenient.\n\nI look beyond him for anybody else. The cave gives me nothing. Its mouth is visible, but the darkness inside stops me seeing farther. The cookfire smoke is clearer here, coming from within. There is somebody else in there. How many, I cannot establish.\n\nA stone could make him look away. I consider using Mage Hand to disturb his pike, or throw something without showing myself. A noise would let us choose where he looks, at least for a moment.\n\nThen the others attempt to move closer, and he notices something.\n\nHe straightens and looks south. His pike comes forward. He advances roughly ten feet, watching the ground ahead of him. He has not found us, but the bored part of his assignment is over.\n\nI put Mage Hand to work on the other side of him. To the north, behind his back, a stone strikes rock. The sound gives him something else to attend to. It does not tell me whether he has forgotten the first disturbance.\n\nMy idea has been to make more noises after this one. East, then west. Give him enough to think somebody is there, so he calls another bugbear out. Perhaps two. Then we can engage them outside, where we can see them.\n\nPip’s advice from our discussion bears on that also. Quietly killing the sentry is easier than bringing out an unknown number. I may expect one or two. The cave is under no obligation to contain one or two.\n\n“You're the one… you know, it's like…” he has told me. “You haven't led us wrong yet, Zenvon.”\n\nThat is a generous account of things.\n\nI have weighed his warning aloud: “I mean, it makes sense, but I'm thinking if we can kill him without… Alerting others. Okay, yeah, I guess, I guess it doesn't matter either way, like, it's…”\n\nWhat I want is a manageable fight. There is no advantage in adding a spell and several noises if the result is the same fight, with more people invited.\n\n“I feel using the mage hand is more effort. For the same output.”\n\nNow the hand has made its noise, and we still have the distance to solve. Pip is roughly sixty feet from the guard. He cannot cover all that ground and strike before the bugbear has time to react. My bow can reach. Pip needs to get closer.\n\nSo the distraction has a use after all. Not to call anybody out. To let Pip approach.\n\nI want the sentry to stay where he is and turn his back toward Pip. A northern noise should give Pip time to move into the ridge and stay in position. That is what I am trying to arrange. But the bugbear has already heard something to the south, and I cannot decide for him which noise matters more.\n\nI watch him with the pike held in front. He looks south, then over his shoulder. The stone has given him a second direction to watch. It has not made him conveniently certain about either one.\n\nI study his movements for some indication of what he will do next. Whether he is about to keep coming, turn back, call somebody. There is nothing further I can read from him. One blind eye, one ready pike, and now he is paying attention.\n\n“Tricky here.”\n", "a": "### Zenvon Forepot\n\nThe smell of smoke gives us a direction as we climb the rugged ridge on Wyvern Tor’s lower slopes. I move ahead far enough to look down into the ravine. A cave mouth opens at the bottom, about fifty yards away. Twenty yards outside it, a single bugbear sits hunkered beside a boulder.\n\nOne that I can see. There is a difference.\n\nHe is within reach of my shortbow. I look at the distance between him and the cave, then withdraw to where Pip, Sister Maela, and Veyra wait.\n\n“Okay, guys, so I see a bugbear…” I try to explain where he is. “At the far end of the cave.” That is not quite the location. “Yeah, ravine. At the ravine? Okay, yeah, yeah. So, I was thinking I could use my shortbow and take that guy out.”\n\nThe shot is possible. What follows the shot is what we need to settle.\n\n“But he's kind of far, and I think I'll be able to make it. What do you guys want to do? Do you have any better idea to tackle the situation?”\n\n“Well, the first thing we should do is—” Pip pauses. “Check to see if he's doing anything.”\n\n“What do you mean is doing anything?”\n\n“Well, is he the kind of guard that spends his time thinking hard, or is he the kind of guard that—you know, what kind of guard is he?”\n\nI have established that he is a bugbear, alone outside a cave, and close enough to shoot. Pip wants a more particular description.\n\n“Well… To explore that, you need to go close to him, and I think it's a bad idea going close to him.”\n\nHe looks at me. “You can sneak, right?”\n\n“I can sneak, but, well, yeah, yeah, I guess you're right. Okay, I can go as close as possible. Let me try.”\n\nI go back along the ridge and work closer without drawing the bugbear’s attention. From here I can see the milky film over one eye. That eye is blind. He leans on a salvaged pike, making use of it while there is nobody to stab.\n\n*Salvaged bike?*\n\nPike. Like a spear. A long, pointed weapon, and at present something to lean against.\n\nPip has a useful question, yes. The guard looks bored. He has the look of somebody who has been given this assignment and would prefer another one. But he is still between us and the entrance, with a weapon long enough to make approaching him inconvenient.\n\nI look beyond him for anybody else. The cave gives me nothing. Its mouth is visible, but the darkness inside stops me seeing farther. The cookfire smoke is clearer here, coming from within. There is somebody else in there. How many, I cannot establish.\n\nA stone could make him look away. I consider using Mage Hand to disturb his pike, or throw something without showing myself. A noise would let us choose where he looks, at least for a moment.\n\nThen the others attempt to move closer, and he notices something.\n\nHe straightens and looks south. His pike comes forward. He advances roughly ten feet, watching the ground ahead of him. He has not found us, but the bored part of his assignment is over.\n\nI put Mage Hand to work on the other side of him. To the north, behind his back, a stone strikes rock. The sound gives him something else to attend to. It does not tell me whether he has forgotten the first disturbance.\n\nMy idea has been to make more noises after this one. East, then west. Give him enough to think somebody is there, so he calls another bugbear out. Perhaps two. Then we can engage them outside, where we can see them.\n\nPip’s advice from our discussion bears on that also. Quietly killing the sentry is easier than bringing out an unknown number. I may expect one or two. The cave is under no obligation to contain one or two.\n\n“You're the one… you know, it's like…” he has told me. “You haven't led us wrong yet, Zenvon.”\n\nThat is a generous account of things.\n\nI have weighed his warning aloud: “I mean, it makes sense, but I'm thinking if we can kill him without… alerting others. Okay, yeah, I guess it doesn't matter either way, like, it's…”\n\nWhat I want is a manageable fight. There is no advantage in adding a spell and several noises if the result is the same fight, with more people invited.\n\n“I feel using the mage hand is more effort. For the same output.”\n\nNow the hand has made its noise, and we still have the distance to solve. Pip is roughly sixty feet from the guard. He cannot cover all that ground and strike before the bugbear has time to react. My bow can reach. Pip needs to get closer.\n\nSo the distraction has a use after all. Not to call anybody out. To let Pip approach.\n\nI want the sentry to stay where he is and turn his back toward Pip. A northern noise should give Pip time to move into the ridge and stay in position. That is what I am trying to arrange. But the bugbear has already heard something to the south, and I cannot decide for him which noise matters more.\n\nI watch him with the pike held in front. He looks south, then over his shoulder. The stone has given him a second direction to watch. It has not made him conveniently certain about either one.\n\nI study his movements for some indication of what he will do next. Whether he is about to keep coming, turn back, call somebody. There is nothing further I can read from him. One blind eye, one ready pike, and now he is paying attention.\n\n“Tricky here.”", "b": "### Zenvon Forepot\n\nThe smell of smoke gives us a direction as we climb the rugged ridge on Wyvern Tor’s lower slopes. I move ahead far enough to look down into the ravine. A cave mouth opens at the bottom, about fifty yards away. Twenty yards outside it, a single bugbear sits hunkered beside a boulder.\n\nOne that I can see. There is a difference.\n\nHe is within reach of my shortbow. I look at the distance between him and the cave, then withdraw to where Pip, Sister Maela, and Veyra wait.\n\n“Okay, guys, so I see a bugbear…” I try to explain where he is. “At the far end of the cave.” That is not quite the location. “Yeah, ravine. At the ravine. So, I was thinking I could use my shortbow and take that guy out.”\n\nThe shot is possible. What follows the shot is what we need to settle.\n\n“But he's kind of far, and I think I'll be able to make it. What do you guys want to do? Do you have any better idea to tackle the situation?”\n\n“Well, the first thing we should do is—” Pip pauses. “Check to see if he's doing anything.”\n\n“What do you mean is doing anything?”\n\n“Well, is he the kind of guard that spends his time thinking hard, or is he the kind of guard that—you know, what kind of guard is he?”\n\nI have established that he is a bugbear, alone outside a cave, and close enough to shoot. Pip wants a more particular description.\n\n“Well… To explore that, you need to go close to him, and I think it's a bad idea going close to him.”\n\nHe looks at me. “You can sneak, right?”\n\n“I can sneak, but, well, yeah, yeah, I guess you're right. Okay, I can go as close as possible. Let me try.”\n\nI go back along the ridge and work closer without drawing the bugbear’s attention. From here I can see the milky film over one eye. That eye is blind. He leans on a salvaged pike, making use of it while there is nobody to stab.\n\n*Salvaged bike?*\n\nPike. Like a spear. A long, pointed weapon, and at present something to lean against.\n\nPip has a useful question, yes. The guard looks bored. He has the look of somebody who has been given this assignment and would prefer another one. But he is still between us and the entrance, with a weapon long enough to make approaching him inconvenient.\n\nI look beyond him for anybody else. The cave gives me nothing. Its mouth is visible, but the darkness inside stops me seeing farther. The cookfire smoke is clearer here, coming from within. There is somebody else in there. How many, I cannot establish.\n\nA stone could make him look away. I consider using Mage Hand to disturb his pike, or throw something without showing myself. A noise would let us choose where he looks, at least for a moment.\n\nThen the others attempt to move closer, and he notices something.\n\nHe straightens and looks south. His pike comes forward. He advances roughly ten feet, watching the ground ahead of him. He has not found us, but the bored part of his assignment is over.\n\nI put Mage Hand to work on the other side of him. To the north, behind his back, a stone strikes rock. The sound gives him something else to attend to. It does not tell me whether he has forgotten the first disturbance.\n\nMy idea has been to make more noises after this one. East, then west. Give him enough to think somebody is there, so he calls another bugbear out. Perhaps two. Then we can engage them outside, where we can see them.\n\nPip’s advice from our discussion bears on that also. Quietly killing the sentry is easier than bringing out an unknown number. I may expect one or two. The cave is under no obligation to contain one or two.\n\n“You're the one… you know, it's like…” he has told me. “You haven't led us wrong yet, Zenvon.”\n\nThat is a generous account of things.\n\nI have weighed his warning aloud: “I mean, it makes sense, but I'm thinking if we can kill him without alerting others… Okay, yeah, I guess, I guess it doesn't matter either way, like, it's…”\n\nWhat I want is a manageable fight. There is no advantage in adding a spell and several noises if the result is the same fight, with more people invited.\n\n“I feel using the mage hand is more effort for the same output.”\n\nNow the hand has made its noise, and we still have the distance to solve. Pip is roughly sixty feet from the guard. He cannot cover all that ground and strike before the bugbear has time to react. My bow can reach. Pip needs to get closer.\n\nSo the distraction has a use after all. Not to call anybody out. To let Pip approach.\n\nI want the sentry to stay where he is and turn his back toward Pip. A northern noise should give Pip time to move into the ridge and stay in position. That is what I am trying to arrange. But the bugbear has already heard something to the south, and I cannot decide for him which noise matters more.\n\nI watch him with the pike held in front. He looks south, then over his shoulder. The stone has given him a second direction to watch. It has not made him conveniently certain about either one.\n\nI study his movements for some indication of what he will do next. Whether he is about to keep coming, turn back, call somebody. There is nothing further I can read from him. One blind eye, one ready pike, and now he is paying attention.\n\n“Tricky here.”", "c": "### Zenvon Forepot\n\nThe smell of smoke gives us a direction as we climb the rugged ridge on Wyvern Tor’s lower slopes. I move ahead far enough to look down into the ravine. A cave mouth opens at the bottom, about fifty yards away. Twenty yards outside it, a single bugbear sits hunkered beside a boulder.\n\nOne that I can see. There is a difference.\n\nHe is within reach of my shortbow. I look at the distance between him and the cave, then withdraw to where Pip, Sister Maela, and Veyra wait.\n\n“Okay, guys, so I see a bugbear… At the far end of the cave.” That is not quite the location. “Yeah, ravine. At the ravine? Okay, yeah, yeah. So, I was thinking I could use my shortbow and take that guy out.”\n\nThe shot is possible. What follows the shot is what we need to settle.\n\n“But he's kind of far, and I think I'll be able to make it. What do you guys want to do? Do you have any better idea to tackle the situation?”\n\n“Well, the first thing we should do is—” Pip pauses. “Check to see if he's doing anything.”\n\n“What do you mean is doing anything?”\n\n“Well, is he the kind of guard that spends his time thinking hard, or is he the kind of guard that—you know, what kind of guard is he?”\n\nI have established that he is a bugbear, alone outside a cave, and close enough to shoot. Pip wants a more particular description.\n\n“Well… To explore that, you need to go close to him, and I think it's a bad idea going close to him.”\n\nHe looks at me. “You can sneak, right?”\n\n“I can sneak, but, well, yeah, yeah, I guess you're right. Okay, I can go as close as possible. Let me try.”\n\nI go back along the ridge and work closer without drawing the bugbear’s attention. From here I can see the milky film over one eye. That eye is blind. He leans on a salvaged pike.\n\n*Salvaged bike?*\n\nPike. Like a spear. A long, pointed weapon, and at present something to lean against.\n\nPip has a useful question, yes. The guard looks like somebody who has been given this assignment and would prefer another one. But he is still between us and the entrance, with a weapon long enough to make approaching him inconvenient.\n\nI look beyond him for anybody else. The cave gives me nothing. Its mouth is visible, but the darkness inside stops me seeing farther. The cookfire smoke is clearer here, coming from within. There is somebody else in there. How many, I cannot establish.\n\nA stone could make him look away. I consider using Mage Hand to disturb his pike, or throw something without showing myself. A noise would let us choose where he looks, at least for a moment.\n\nThen the others attempt to move closer, and he notices something.\n\nHe straightens and looks south. His pike comes forward. He advances roughly ten feet, watching the ground ahead of him. He has not found us, but the bored part of his assignment is over.\n\nI put Mage Hand to work on the other side of him. To the north, behind his back, a stone strikes rock. The sound gives him something else to attend to. It does not tell me whether he has forgotten the first disturbance.\n\nMy idea was to make more noises after this one. East, then west. Give him enough to think somebody is there, so he calls another bugbear out. Perhaps two. Then we can engage them outside, where we can see them.\n\nPip’s advice from our discussion bears on that also. Quietly killing the sentry is easier than bringing out an unknown number. I may expect one or two. The cave is under no obligation to contain one or two.\n\n“You're the one… you know, it's like…” he told me. “You haven't led us wrong yet, Zenvon.”\n\nThat is a generous account of things.\n\nI weighed his warning aloud: “I mean, it makes sense, but I'm thinking if we can kill him without… alerting others. Okay, yeah, I guess, I guess it doesn't matter either way, like, it's…”\n\nWhat I want is a manageable fight. There is no advantage in adding a spell and several noises if the result is the same fight, with more people invited.\n\n“I feel using the mage hand is more effort. For the same output.”\n\nNow the hand has made its noise, and we still have the distance to solve. Pip is roughly sixty feet from the guard. He cannot cover all that ground and strike before the bugbear has time to react. My bow can reach. Pip needs to get closer.\n\nSo the distraction has a use after all. Not to call anybody out. To let Pip approach.\n\nI want the sentry to stay where he is and turn his back toward Pip. A northern noise should give Pip time to move into the ridge and stay in position. But the bugbear has already heard something to the south, and I cannot decide for him which noise matters more.\n\nI watch him with the pike held in front. He looks south, then over his shoulder. The stone has given him a second direction to watch. It has not made him conveniently certain about either one.\n\nI study his movements for some indication of what he will do next. Whether he is about to keep coming, turn back, call somebody. There is nothing further I can read from him. One blind eye, one ready pike, and now he is paying attention.\n\n“Tricky here.”"}, "vukradin": {"baseline": "### Vukradin\n\nAldus Hern still has not given us an exact time for dinner, which makes it difficult to arrange an evening around Lord Dagult Neverember, particularly when we have somewhere to be at three in the morning. We can wait for a summons with a time attached. Until then, the lord can wait for us.\n\n“Is it Neverember or Neverwinter? I'm kidding.”\n\nThe name catches in my mouth anyway. “Neverember. It is never, like, a fire ember.”\n\n“He's never flaming. He keeps it on the DL,” Soma says.\n\n“Yeah, I think Soma has it exactly right.”\n\nWe are in the Common Chord, where I used to play to empty rooms and could be thrown out unpaid. Now it is the hardest ticket in Neverwinter. I look across the patrons, the food, the table commemorating Brewbarry, and try to reconcile the room with the one I remember. There is leather on that table now. A plaque. My name apparently does better business here when I am elsewhere.\n\n“Okay, and Lord Neverember… Lord Neverflaming has a new drow advisor.”\n\n“Great, isn't that Valphine?” Soma asks.\n\n“No.”\n\n“Oh, right.”\n\n“It's a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.”\n\nValphine turns her attention back to us. “I'm sorry, I lost track. What… What do I?”\n\n“Lord NeverEmber. Lord Never Flaming.”\n\nI bring her back to the rumored advisor.\n\n“Oh, right, right, right. Which we assume to be one of my siblings, in fact.”\n\n“That is my guess too, yes.”\n\n“Everyone's related to everyone,” Soma says.\n\nIt remains a guess. We have a dinner without a time and an advisor without a name, and putting the two together does not yet give us a sibling. There are practical matters we can settle before we meet either.\n\n“Have we secured the capital for Brewbarry's bathrobe business, or is that still in progress?”\n\n“I believe it's in progress,” Soma says.\n\nFor a moment I have to sort the money from the goods it is meant to buy. The capital is secured. Getting the imports here is the expensive part.\n\n“But, oh, but the cost of import is very high.”\n\n“Right, because their shipping lanes are still…” Soma pauses. “Shipping portals, whatever, are still hosed.”\n\nAnd House Margaster controls the available logistics.\n\n“Of course they are.”\n\nI cannot dispute that they deliver on time and on schedule. That much must be acknowledged, even while we sit here trying to work out how Brewbarry can afford to bring softness to people through a house that controls how the softness gets here. Being reliable does not make the import bill smaller.\n\nValphine considers House Margaster competition. I turn that over briefly, then return to the part of the night for which we actually have a time.\n\n“Alright, let's head out to Lim's Food Deliveries and get there by 3 AM. And then we can cast whatever spells we need in order to be ready.”\n\nThere is still time before we need to go. Around us, the Common Chord continues charging people to enjoy the place where they once declined to enjoy me.\n\nOne of those people is discussing precisely this injustice within earshot. The Chord has become unaffordable, he complains, and it is all due to Vukradin.\n\nHe has not noticed that Vukradin is standing nearby.\n\nI listen. He wants to hear music without spending so much money. I want people to hear music without spending so much money. We have reached agreement before I even introduce myself, which is an excellent beginning, provided we can get past the part where I am apparently responsible for his bill.\n\nI approach him and explain that I am planning an independent studio, with a charitable fund to help open it.\n\n“That will speed the opening of a low-cost, nonprofit way to hear Lathander's Death on a regular basis.”\n\nThere. Something he can help bring into existence. A place he can actually attend. My studio does not have to remain an idea I carry between other people's expensive rooms; if the people who want it help, then we can have the room, and the music, and an audience that does not have to dress for the privilege.\n\n“And spread the word.”\n\nWhile he considers the offer, a nearby conversation supplies something rather less pleasant to think about. The river sends a tide through the sewers. We are not being warned personally; people at the bar are discussing it among themselves, and I catch enough to turn back toward my companions.\n\n“Hide in the sewers?”\n\nI had understood that we were preparing for a late-night operation. I would also like to understand whether the floor is going to become a river.\n\n“There's a tide in the sewers? A river has a tide?”\n\nNeverwinter is beside the sea. The sea comes in, the river rises, and the water does not politely stop at the underground entrances. Once I follow that connection, the next question seems obvious.\n\n“How many moons does this planet have?”\n\n“That's an easy question to answer,” Valphine says.\n\n“Just the one.”\n\n“It just rotates—it revolves really fast,” Soma says.\n\n“It has one moon named Selûne,” Valphine tells me.\n\n“Oh, Selûne. Of course. Yeah.”\n\nThere are also the Tears of Selûne, which briefly complicate my understanding of what is pulling on what.\n\n“So, there should be a tidal effect from both moons.”\n\nBut the Tears are a cluster of smaller bodies, meteors and asteroids, rather than another moon. I work back through it.\n\n“They're not sufficiently gravitational. They're not really moons.”\n\n“Yeah, they're… they're just comets,” Soma says.\n\n“They're asteroids. So the one moon, then.”\n\nThe useful information from the neighboring conversation is two high tides and two low tides each day. I hold on to that.\n\n“There you go. Not one and one: two high and two low.”\n\n“That's murder on trade,” Soma says.\n\n“It should take effect underground, too, right?” Valphine asks.\n\nYes. That is the problem. The sewer belongs to the same rising water as the river, however much stone is over our heads.\n\n“So it's a 6-hour cycle.”\n\nI begin counting the intervals, briefly halve one that does not need halving, and correct myself aloud.\n\n“High to low is 3 hours. Yeah, no, high to low. High to low is 6 hours, 6… High to low is 6 hours.”\n\nThis is why we discuss things before entering the sewer.\n\n“We want to be in the sewer for… at low tide.”\n\n“3 AM,” Soma says.\n\n“We have about 3 hours, maybe 4, before things start to get really uncomfortable.”\n\n“I mean, I can hang out underwater indefinitely.”\n\nI look at Soma. An excellent capability for Soma.\n\nThe local I have approached is a little drunk. He does not have much money, but he hands me ten gold pieces.\n\nFor a moment the sewer leaves my thoughts entirely.\n\n“Wow, that's pretty generous, actually.”\n\n“That's a hell of a donation,” Soma says.\n\nIt is. He has just been complaining about what it costs to be here, and now he is contributing ten gold toward somewhere less expensive. I keep the coins separate from our ordinary funds.\n\n“That goes in the studio fund, not the regular coffers. Thank you very much for contributing. That's awesome.”\n\nHe pauses before the exchange is quite finished.\n\n“Do I get on… Is there some kind of signage for people who contributed?”\n\n“Absolutely. Yes.”\n\nThis is reasonable. People should know who helped.\n\n“There are different tiers of giving levels, actually. 10 gold pieces puts you at the,”\n\n“Premier or the Plus, which one?” Soma asks.\n\n“At the plus level, yeah, you're not quite at Premier yet.”\n\nHe is pleased with Plus. I am pleased with ten gold, and with the prospect of a program that will have both music and the names of people who made the music possible.\n\n“We need his name. We need to write it down for the program notes, and…”\n\nThe duration matters. I clarify it.\n\n“Per year. A year. If you want to be in next year's, you'll have to donate again, but one year is a long time.”\n\n“Yeah, we call this Patreon,” Valphine says.\n\n“It's my Patreon, exactly.”\n\n“This is where it comes from, patronage,” Soma says.\n\nI look around the Common Chord again. There are people here who want music, people who remember music, people paying for an evening in a room that trades on my name. Some of them might want to help build another one.\n\n“Before we go, should I try to convince other people to contribute to the Studio Fund? How much time do we have?”\n\nPlenty before three.\n\n“Alright, let's do… let's hit up a few more people, let's see how it goes here.”\n\nI approach five more patrons. The first recognizes me as the actual Vukradin, which is useful, but has already completed his charitable giving for the year.\n\n“Okay, that's fine. I'm not here to pressure anybody.”\n\nHe has given to charity. Good. The fact that it is not my charity does not undo that, and I am not going to make a person regret recognizing me because he has already helped somebody else.\n\n“The benefits are all on you. If you can be at the Plus or Premier level, I'm cool. I just like fans.”\n\nHe assures me that he is my biggest fan.\n\n“Oh, Bigger Than Brewbarry?”\n\n“Brewbarry's very large,” Valphine says. “In fact, he's huge in Japan sometimes.”\n\nBrewbarry is there to substantiate the first part of this claim. I glance toward him and accept the limit of the comparison. There is no contribution required to remain a fan.\n\nThe other four are receptive. I make sure we record Wick, Sabbatha, Old Hesp, and Ondrelle Kass for the future program credits. Names matter here. These are people helping pay for the studio; when there is finally a program, I want them in it.\n\nWick is enthusiastic about patronage of the arts. He has no idea who Lathander's Death is, and he does not believe I am Vukradin, but neither uncertainty interferes with his support. He understands that I am putting together a music school.\n\n“School?” Soma asks.\n\n“School, studio—they're all the same, right? If you have a studio, it's for training people. That's just how it goes.”\n\nI see no difficulty. People come to make music. People learn to make music. We will need somewhere to do both, and Wick wants to help provide it. He does not even require me to be famous.\n\nSabbatha's attention moves past the studio's prospective founder to Brewbarry. She looks him over and admires his commitment to the Brewbarry look.\n\nI look too. It is a considerable commitment.\n\n“Yes, he is quite bulging, isn't he?”\n\n“Rippling,” Soma supplies.\n\n“Exactly.”\n\nSabbatha contributes. I make certain her name is among the credits.\n\nOld Hesp is the last patron I speak with. He recognizes me without needing to be persuaded.\n\n“I remember when you used to play to an empty room.”\n\n“Yeah?”\n\nI look at him more closely. An empty room is how I remember it too, but there must have been someone in it for someone to remember me playing.\n\n“Did you come? Did you come? Did I give you your money back at the end of.”\n\nI do not finish before he confirms it. He remembers the guarantee: if he would not rate the performance ten out of ten, I would not keep his money. He remembers getting it back.\n\n“I know, that's how honest I am. Well, what do you think now?”\n\nHe pauses.\n\n“Now this is a friggin' expensive place to be. Everybody's gotta look cool.”\n\nI follow his attention across the room. The people here have managed the requirement. That does not mean everyone who wants to hear the music can manage it, or afford to discover whether they like it, and I cannot ask him what he thinks now and then refuse to hear the answer because I would rather receive a compliment.\n\n“Well, come to the new studio, when it's up and running.”\n\nHe tries to describe what this place has lost, the look and the feel of it, the grit. I know the room he means. I remember standing in it.\n\n“We're gonna get it back. We're gonna get it back.”\n\n“This is too commercial.”\n\n“Yeah, yeah, I agree.”\n\nHe blames Petra, though there is respect mixed into the complaint. She has turned the Common Chord into a money-making operation. He points out Brewbarry's table, remembering it before the leather finish, before the shine, before the plaque.\n\nI look at the leather. The old table was available for use without being an attraction. Now people can sit near evidence that Brewbarry once sat here, and elsewhere in the room Sabbatha is admiring how convincingly Brewbarry resembles himself.\n\nOld Hesp remembers when they did not serve this fancy food, either.\n\nHe is giving toward the studio while telling me all this. I do not have to convince him that something is missing. He has come back to the Common Chord and found the table commemorated more carefully than the evening he used to have around it.\n\nTwenty gold pieces go into the studio fund tonight. Petra's separate five hundred for my likeness is still pending until the performance two days from now. I keep that promise separate from the money actually in hand, and keep the donor names with the obligation to credit them for a year.\n\nThere is room in the studio I am imagining for Wick to learn something, for Old Hesp to come without looking fashionable, for this generous local to hear Lathander's Death regularly. I want to get the doors open. Tonight, people who want to walk through them have helped.\n\nNow we have to reach Lim's deliveries while the water is low.\n\n“Alright, let's go, do some… spelunking.”\n", "a": "### Vukradin\n\nAldus Hern still has not given us an exact time for dinner, which makes it difficult to arrange an evening around Lord Dagult Neverember, particularly when we have somewhere to be at three in the morning. We can wait for a summons with a time attached. Until then, the lord can wait for us.\n\n“Is it Neverember or Neverwinter? I'm kidding.”\n\nThe name catches in my mouth anyway. “Neverember. It is never, like, a fire ember.”\n\n“He's never flaming. He keeps it on the DL,” Soma says.\n\n“Yeah, I think Soma has it exactly right.”\n\nWe are in the Common Chord, where I used to play to empty rooms and could be thrown out unpaid. Now it is the hardest ticket in Neverwinter. I look across the patrons, the food, the table commemorating Brewbarry, and try to reconcile the room with the one I remember. There is leather on that table now. A plaque. My name apparently does better business here when I am elsewhere.\n\n“Okay, and Lord Neverember… Lord Neverflaming has a new drow advisor.”\n\n“Great, isn't that Valphine?” Soma asks.\n\n“No.”\n\n“Oh, right.”\n\n“It's a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.”\n\nValphine turns her attention back to us. “I'm sorry, I lost track. What… what do I?”\n\n“Lord NeverEmber. Lord Never Flaming.”\n\nI bring her back to the rumored advisor.\n\n“Oh, right, right, right. Which we assume to be one of my siblings, in fact.”\n\n“That is my guess too, yes.”\n\n“Everyone's related to everyone,” Soma says.\n\nIt remains a guess. We have a dinner without a time and an advisor without a name, and putting the two together does not yet give us a sibling. There are practical matters we can settle before we meet either.\n\n“Have we secured the capital for Brewbarry's bathrobe business, or is that still in progress?”\n\n“I believe it's in progress,” Soma says.\n\nFor a moment I have to sort the money from the goods it is meant to buy. The capital is secured. Getting the imports here is the expensive part.\n\n“But the cost of import is very high.”\n\n“Right, because their shipping lanes are still…” Soma pauses. “Shipping portals, whatever, are still hosed.”\n\nAnd House Margaster controls the available logistics.\n\n“Of course they are.”\n\nI cannot dispute that they deliver on time and on schedule. That much must be acknowledged, even while we sit here trying to work out how Brewbarry can afford to bring softness to people through a house that controls how the softness gets here. Being reliable does not make the import bill smaller.\n\nValphine considers House Margaster competition. I turn that over briefly, then return to the part of the night for which we actually have a time.\n\n“Alright, let's head out to Lim's Food Deliveries and get there by 3 AM. And then we can cast whatever spells we need in order to be ready.”\n\nThere is still time before we need to go. Around us, the Common Chord continues charging people to enjoy the place where they once declined to enjoy me.\n\nOne of those people is discussing precisely this injustice within earshot. The Chord has become unaffordable, he complains, and it is all due to Vukradin.\n\nHe has not noticed that Vukradin is standing nearby.\n\nI listen. He wants to hear music without spending so much money. I want people to hear music without spending so much money. We have reached agreement before I even introduce myself, which is an excellent beginning, provided we can get past the part where I am apparently responsible for his bill.\n\nI approach him and explain that I am planning an independent studio, with a charitable fund to help open it.\n\n“That will speed the opening of a low-cost, nonprofit way to hear Lathander's Death on a regular basis.”\n\nThere. Something he can help bring into existence. A place he can actually attend. My studio does not have to remain an idea I carry between other people's expensive rooms; if the people who want it help, then we can have the room, and the music, and an audience that does not have to dress for the privilege.\n\n“And spread the word.”\n\nWhile he considers the offer, a nearby conversation supplies something rather less pleasant to think about. The river sends a tide through the sewers. We are not being warned personally; people at the bar are discussing it among themselves, and I catch enough to turn back toward my companions.\n\n“Hide in the sewers?”\n\nI had understood that we were preparing for a late-night operation. I would also like to understand whether the floor is going to become a river.\n\n“There's a tide in the sewers? A river has a tide?”\n\nNeverwinter is beside the sea. The sea comes in, the river rises, and the water does not politely stop at the underground entrances. Once I follow that connection, the next question seems obvious.\n\n“How many moons does this planet have?”\n\n“That's an easy question to answer,” Valphine says.\n\n“Just the one.”\n\n“It just rotates—it revolves really fast,” Soma says.\n\n“It has one moon named Selûne,” Valphine tells me.\n\n“Oh, Selûne. Of course. Yeah.”\n\nThere are also the Tears of Selûne, which briefly complicate my understanding of what is pulling on what.\n\n“So, there should be a tidal effect from both moons.”\n\nBut the Tears are a cluster of smaller bodies, meteors and asteroids, rather than another moon. I work back through it.\n\n“They're not sufficiently gravitational. They're not really moons.”\n\n“Yeah, they're… they're just comets,” Soma says.\n\n“They're asteroids. So the one moon, then.”\n\nThe useful information from the neighboring conversation is two high tides and two low tides each day. I hold on to that.\n\n“There you go. Not one and one: two high and two low.”\n\n“That's murder on trade,” Soma says.\n\n“It should take effect underground, too, right?” Valphine asks.\n\nYes. That is the problem. The sewer belongs to the same rising water as the river, however much stone is over our heads.\n\n“So it's a 6-hour cycle.”\n\nI begin counting the intervals, briefly halve one that does not need halving, and correct myself aloud.\n\n“High to low is 3 hours. Yeah, no, high to low. High to low is 6 hours. High to low is 6 hours.”\n\nThis is why we discuss things before entering the sewer.\n\n“We want to be in the sewer… at low tide.”\n\n“3 AM,” Soma says.\n\n“We have about 3 hours, maybe 4, before things start to get really uncomfortable.”\n\n“I mean, I can hang out underwater indefinitely.”\n\nI look at Soma. An excellent capability for Soma.\n\nThe local I have approached is a little drunk. He does not have much money, but he hands me ten gold pieces.\n\nFor a moment the sewer leaves my thoughts entirely.\n\n“Wow, that's pretty generous, actually.”\n\n“That's a hell of a donation,” Soma says.\n\nIt is. He has just been complaining about what it costs to be here, and now he is contributing ten gold toward somewhere less expensive. I keep the coins separate from our ordinary funds.\n\n“That goes in the studio fund, not the regular coffers. Thank you very much for contributing. That's awesome.”\n\nHe pauses before the exchange is quite finished.\n\n“Do I get on… Is there some kind of signage for people who contributed?”\n\n“Absolutely. Yes.”\n\nThis is reasonable. People should know who helped.\n\n“There are different tiers of giving levels, actually. 10 gold pieces puts you at the…”\n\n“Premier or the Plus, which one?” Soma asks.\n\n“At the plus level, yeah. You're not quite at Premier yet.”\n\nHe is pleased with Plus. I am pleased with ten gold, and with the prospect of a program that will have both music and the names of people who made the music possible.\n\n“We need his name. We need to write it down for the program notes, and…”\n\nThe duration matters. I clarify it.\n\n“Per year. A year. If you want to be in next year's, you'll have to donate again, but one year is a long time.”\n\n“Yeah, we call this Patreon,” Valphine says.\n\n“It's my Patreon, exactly.”\n\n“This is where it comes from: patronage,” Soma says.\n\nI look around the Common Chord again. There are people here who want music, people who remember music, people paying for an evening in a room that trades on my name. Some of them might want to help build another one.\n\n“Before we go, should I try to convince other people to contribute to the Studio Fund? How much time do we have?”\n\nPlenty before three.\n\n“Alright, let's hit up a few more people. Let's see how it goes here.”\n\nI approach five more patrons. The first recognizes me as the actual Vukradin, which is useful, but has already completed his charitable giving for the year.\n\n“Okay, that's fine. I'm not here to pressure anybody.”\n\nHe has given to charity. Good. The fact that it is not my charity does not undo that, and I am not going to make a person regret recognizing me because he has already helped somebody else.\n\n“The benefits are all on you. If you can be at the Plus or Premier level, I'm cool. I just like fans.”\n\nHe assures me that he is my biggest fan.\n\n“Oh, bigger than Brewbarry?”\n\n“Brewbarry's very large,” Valphine says. “In fact, he's huge in Japan sometimes.”\n\nBrewbarry is there to substantiate the first part of this claim. I glance toward him and accept the limit of the comparison. There is no contribution required to remain a fan.\n\nThe other four are receptive. I make sure we record Wick, Sabbatha, Old Hesp, and Ondrelle Kass for the future program credits. Names matter here. These are people helping pay for the studio; when there is finally a program, I want them in it.\n\nWick is enthusiastic about patronage of the arts. He has no idea who Lathander's Death is, and he does not believe I am Vukradin, but neither uncertainty interferes with his support. He understands that I am putting together a music school.\n\n“School?” Soma asks.\n\n“School, studio—they're all the same, right? If you have a studio, it's for training people. That's just how it goes.”\n\nI see no difficulty. People come to make music. People learn to make music. We will need somewhere to do both, and Wick wants to help provide it. He does not even require me to be famous.\n\nSabbatha's attention moves past the studio's prospective founder to Brewbarry. She looks him over and admires his commitment to the Brewbarry look.\n\nI look too. It is a considerable commitment.\n\n“Yes, he is quite bulging, isn't he?”\n\n“Rippling,” Soma supplies.\n\n“Exactly.”\n\nSabbatha contributes. I make certain her name is among the credits.\n\nOld Hesp is the last patron I speak with. He recognizes me without needing to be persuaded.\n\n“I remember when you used to play to an empty room.”\n\n“Yeah?”\n\nI look at him more closely. An empty room is how I remember it too, but there must have been someone in it for someone to remember me playing.\n\n“Did you come? Did you come? Did I give you your money back at the end of—”\n\nI do not finish before he confirms it. He remembers the guarantee: if he would not rate the performance ten out of ten, I would not keep his money. He remembers getting it back.\n\n“I know, that's how honest I am. Well, what do you think now?”\n\nHe pauses.\n\n“Now this is a friggin' expensive place to be. Everybody's gotta look cool.”\n\nI follow his attention across the room. The people here have managed the requirement. That does not mean everyone who wants to hear the music can manage it, or afford to discover whether they like it, and I cannot ask him what he thinks now and then refuse to hear the answer because I would rather receive a compliment.\n\n“Well, come to the new studio when it's up and running.”\n\nHe tries to describe what this place has lost, the look and the feel of it, the grit. I know the room he means. I remember standing in it.\n\n“We're gonna get it back. We're gonna get it back.”\n\n“This is too commercial.”\n\n“Yeah, yeah, I agree.”\n\nHe blames Petra, though there is respect mixed into the complaint. She has turned the Common Chord into a money-making operation. He points out Brewbarry's table, remembering it before the leather finish, before the shine, before the plaque.\n\nI look at the leather. The old table was available for use without being an attraction. Now people can sit near evidence that Brewbarry once sat here, and elsewhere in the room Sabbatha is admiring how convincingly Brewbarry resembles himself.\n\nOld Hesp remembers when they did not serve this fancy food, either.\n\nHe is giving toward the studio while telling me all this. I do not have to convince him that something is missing. He has come back to the Common Chord and found the table commemorated more carefully than the evening he used to have around it.\n\nTwenty gold pieces go into the studio fund tonight. Petra's separate five hundred for my likeness is still pending until the performance two days from now. I keep that promise separate from the money actually in hand, and keep the donor names with the obligation to credit them for a year.\n\nThere is room in the studio I am imagining for Wick to learn something, for Old Hesp to come without looking fashionable, for this generous local to hear Lathander's Death regularly. I want to get the doors open. Tonight, people who want to walk through them have helped.\n\nNow we have to reach Lim's deliveries while the water is low.\n\n“Alright, let's go do some… spelunking.”", "b": "### Vukradin\n\nAldus Hern still has not given us an exact time for dinner, which makes it difficult to arrange an evening around Lord Dagult Neverember, particularly when we have somewhere to be at three in the morning. We can wait for a summons with a time attached. Until then, the lord can wait for us.\n\n“Is it Neverember or Neverwinter? I'm kidding.”\n\nThe name catches in my mouth anyway. “Neverember. It is never, like, a fire ember.”\n\n“He's never flaming. He keeps it on the DL,” Soma says.\n\n“Yeah, I think Soma has it exactly right.”\n\nWe are in the Common Chord, where I used to play to empty rooms and could be thrown out unpaid. Now it is the hardest ticket in Neverwinter. I look across the patrons, the food, the table commemorating Brewbarry, and try to reconcile the room with the one I remember. There is leather on that table now. A plaque. My name apparently does better business here when I am elsewhere.\n\n“Okay, and Lord Neverember… Lord Neverflaming has a new drow advisor.”\n\n“Great, isn't that Valphine?” Soma asks.\n\n“No.”\n\n“Oh, right.”\n\n“It's a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.”\n\nValphine turns her attention back to us. “I'm sorry, I lost track. What… what am I expected to know?”\n\n“Lord Neverember. Lord Neverflaming.”\n\nI bring her back to the rumored advisor.\n\n“Oh, right, right, right. Which we assume to be one of my siblings, in fact.”\n\n“That is my guess too, yes.”\n\n“Everyone's related to everyone,” Soma says.\n\nIt remains a guess. We have a dinner without a time and an advisor without a name, and putting the two together does not yet give us a sibling. There are practical matters we can settle before we meet either.\n\n“Have we secured the capital for Brewbarry's bathrobe business, or is that still in progress?”\n\n“I believe it's in progress,” Soma says.\n\nFor a moment I have to sort the money from the goods it is meant to buy. The capital is secured. Getting the imports here is the expensive part.\n\n“Oh, but the cost of import is very high.”\n\n“Right, because their shipping lanes are still…” Soma pauses. “Shipping portals, whatever, are still hosed.”\n\nAnd House Margaster controls the available logistics.\n\n“Of course they are.”\n\nI cannot dispute that they deliver on time and on schedule. That much must be acknowledged, even while we sit here trying to work out how Brewbarry can afford to bring softness to people through a house that controls how the softness gets here. Being reliable does not make the import bill smaller.\n\nValphine considers House Margaster competition. I turn that over briefly, then return to the part of the night for which we actually have a time.\n\n“Alright, let's head out to Lim's Food Deliveries and get there by three in the morning. And then we can cast whatever spells we need in order to be ready.”\n\nThere is still time before we need to go. Around us, the Common Chord continues charging people to enjoy the place where they once declined to enjoy me.\n\nOne of those people is discussing precisely this injustice within earshot. The Chord has become unaffordable, he complains, and it is all due to Vukradin.\n\nHe has not noticed that Vukradin is standing nearby.\n\nI listen. He wants to hear music without spending so much money. I want people to hear music without spending so much money. We have reached agreement before I even introduce myself, which is an excellent beginning, provided we can get past the part where I am apparently responsible for his bill.\n\nI approach him and explain that I am planning an independent studio, with a charitable fund to help open it.\n\n“That will speed the opening of a low-cost, nonprofit way to hear Lathander's Death on a regular basis.”\n\nThere. Something he can help bring into existence. A place he can actually attend. My studio does not have to remain an idea I carry between other people's expensive rooms; if the people who want it help, then we can have the room, and the music, and an audience that does not have to dress for the privilege.\n\n“And spread the word.”\n\nWhile he considers the offer, a nearby conversation supplies something rather less pleasant to think about. The river sends a tide through the sewers. We are not being warned personally; people at the bar are discussing it among themselves, and I catch enough to turn back toward my companions.\n\n“Hide in the sewers?”\n\nI had understood that we were preparing for a late-night operation. I would also like to understand whether the floor is going to become a river.\n\n“There's a tide in the sewers? A river has a tide?”\n\nNeverwinter is beside the sea. The sea comes in, the river rises, and the water does not politely stop at the underground entrances. Once I follow that connection, the next question seems obvious.\n\n“How many moons does this planet have?”\n\n“That's an easy question to answer,” Valphine says.\n\n“Just the one.”\n\n“It just rotates—it revolves really fast,” Soma says.\n\n“It has one moon named Selûne,” Valphine tells me.\n\n“Oh, Selûne. Of course. Yeah.”\n\nThere are also the Tears of Selûne, which briefly complicate my understanding of what is pulling on what.\n\n“So, there should be a tidal effect from both moons.”\n\nBut the Tears are a cluster of smaller bodies, meteors and asteroids, rather than another moon. I work back through it.\n\n“They're not sufficiently gravitational. They're not really moons.”\n\n“Yeah, they're… they're just comets,” Soma says.\n\n“They're asteroids. So the one moon, then.”\n\nThe useful information from the neighboring conversation is two high tides and two low tides each day. I hold on to that.\n\n“There you go. Not one and one: two high and two low.”\n\n“That's murder on trade,” Soma says.\n\n“The tides should take effect underground, too, right?” Valphine asks.\n\nYes. That is the problem. The sewer belongs to the same rising water as the river, however much stone is over our heads.\n\n“So it's a six-hour cycle.”\n\nI begin counting the intervals, briefly halve one that does not need halving, and correct myself aloud.\n\n“High to low is three hours. Yeah, no, high to low… High to low is six hours. Six.”\n\nThis is why we discuss things before entering the sewer.\n\n“We want to be in the sewer… at low tide.”\n\n“Three AM,” Soma says.\n\n“We have about three hours, maybe four, before things start to get really uncomfortable.”\n\n“I mean, I can hang out underwater indefinitely.”\n\nI look at Soma. An excellent capability for Soma.\n\nThe local I have approached is a little drunk. He does not have much money, but he hands me ten gold pieces.\n\nFor a moment the sewer leaves my thoughts entirely.\n\n“Wow, that's pretty generous, actually.”\n\n“That's a hell of a donation,” Soma says.\n\nIt is. He has just been complaining about what it costs to be here, and now he is contributing ten gold toward somewhere less expensive. I keep the coins separate from our ordinary funds.\n\n“That goes in the studio fund, not the regular coffers. Thank you very much for contributing. That's awesome.”\n\nHe pauses before the exchange is quite finished.\n\n“Do I get on… Is there some kind of signage for people who contributed?”\n\n“Absolutely. Yes.”\n\nThis is reasonable. People should know who helped.\n\n“There are different tiers of giving levels, actually. Ten gold pieces puts you at the…”\n\n“Premier or the Plus, which one?” Soma asks.\n\n“At the Plus level, yeah. You're not quite at Premier yet.”\n\nHe is pleased with Plus. I am pleased with ten gold, and with the prospect of a program that will have both music and the names of people who made the music possible.\n\n“We need his name. We need to write it down for the program notes.”\n\nThe duration matters. I clarify it.\n\n“For a year. If you want to be in next year's, you'll have to donate again, but one year is a long time.”\n\n“Yeah, we call this Patreon,” Valphine says.\n\n“It's my Patreon, exactly.”\n\n“This is where it comes from, patronage,” Soma says.\n\nI look around the Common Chord again. There are people here who want music, people who remember music, people paying for an evening in a room that trades on my name. Some of them might want to help build another one.\n\n“Before we go, should I try to convince other people to contribute to the Studio Fund? How much time do we have?”\n\nPlenty before three.\n\n“Alright, let's hit up a few more people, let's see how it goes here.”\n\nI approach five more patrons. The first recognizes me as the actual Vukradin, which is useful, but has already completed his charitable giving for the year.\n\n“Okay, that's fine. I'm not here to pressure anybody.”\n\nHe has given to charity. Good. The fact that it is not my charity does not undo that, and I am not going to make a person regret recognizing me because he has already helped somebody else.\n\n“The benefits are all on you. If you can be at the Plus or Premier level, I'm cool. I just like fans.”\n\nHe assures me that he is my biggest fan.\n\n“Oh, bigger than Brewbarry?”\n\n“Brewbarry's very large,” Valphine says. “In fact, he's huge in Japan sometimes.”\n\nBrewbarry is there to substantiate the first part of this claim. I glance toward him and accept the limit of the comparison. There is no contribution required to remain a fan.\n\nThe other four are receptive. I make sure we record Wick, Sabbatha, Old Hesp, and Ondrelle Kass for the future program credits. Names matter here. These are people helping pay for the studio; when there is finally a program, I want them in it.\n\nWick is enthusiastic about patronage of the arts. He has no idea who Lathander's Death is, and he does not believe I am Vukradin, but neither uncertainty interferes with his support. He understands that I am putting together a music school.\n\n“School?” Soma asks.\n\n“School, studio—they're all the same, right? If you have a studio, it's for training people. That's just how it goes.”\n\nI see no difficulty. People come to make music. People learn to make music. We will need somewhere to do both, and Wick wants to help provide it. He does not even require me to be famous.\n\nSabbatha's attention moves past the studio's prospective founder to Brewbarry. She looks him over and admires his commitment to the Brewbarry look.\n\nI look too. It is a considerable commitment.\n\n“Yes, he is quite bulging, isn't he?”\n\n“Rippling,” Soma supplies.\n\n“Exactly.”\n\nSabbatha contributes. I make certain her name is among the credits.\n\nOld Hesp is the last patron I speak with. He recognizes me without needing to be persuaded.\n\n“I remember when you used to play to an empty room.”\n\n“Yeah?”\n\nI look at him more closely. An empty room is how I remember it too, but there must have been someone in it for someone to remember me playing.\n\n“Did you come? Did you come? Did I give you your money back at the end of—”\n\nI do not finish before he confirms it. He remembers the guarantee: if he would not rate the performance ten out of ten, I would not keep his money. He remembers getting it back.\n\n“I know, that's how honest I am. Well, what do you think now?”\n\nHe pauses.\n\n“Now this is a friggin' expensive place to be. Everybody's gotta look cool.”\n\nI follow his attention across the room. The people here have managed the requirement. That does not mean everyone who wants to hear the music can manage it, or afford to discover whether they like it, and I cannot ask him what he thinks now and then refuse to hear the answer because I would rather receive a compliment.\n\n“Well, come to the new studio, when it's up and running.”\n\nHe tries to describe what this place has lost, the look and the feel of it, the grit. I know the room he means. I remember standing in it.\n\n“We're gonna get it back. We're gonna get it back.”\n\n“This is too commercial.”\n\n“Yeah, yeah, I agree.”\n\nHe blames Petra, though there is respect mixed into the complaint. She has turned the Common Chord into a money-making operation. He points out Brewbarry's table, remembering it before the leather finish, before the shine, before the plaque.\n\nI look at the leather. The old table was available for use without being an attraction. Now people can sit near evidence that Brewbarry once sat here, and elsewhere in the room Sabbatha is admiring how convincingly Brewbarry resembles himself.\n\nOld Hesp remembers when they did not serve this fancy food, either.\n\nHe is giving toward the studio while telling me all this. I do not have to convince him that something is missing. He has come back to the Common Chord and found the table commemorated more carefully than the evening he used to have around it.\n\nTwenty gold pieces go into the studio fund tonight. Petra's separate five hundred for my likeness is still pending until the performance two days from now. I keep that promise separate from the money actually in hand, and keep the donor names with the obligation to credit them for a year.\n\nThere is room in the studio I am imagining for Wick to learn something, for Old Hesp to come without looking fashionable, for this generous local to hear Lathander's Death regularly. I want to get the doors open. Tonight, people who want to walk through them have helped.\n\nNow we have to reach Lim's deliveries while the water is low.\n\n“Alright, let's go do some… spelunking.”", "c": "### Vukradin\n\nAldus Hern still has not given us an exact time for dinner, which makes it difficult to arrange an evening around Lord Dagult Neverember, particularly when we have somewhere to be at three in the morning. We can wait for a summons with a time attached. Until then, the lord can wait for us.\n\n“Is it Neverember or Neverwinter? I'm kidding.”\n\nThe name catches in my mouth anyway. “Neverember. It is never, like, a fire ember.”\n\n“He's never flaming. He keeps it on the DL,” Soma says.\n\n“Yeah, I think Soma has it exactly right.”\n\nWe are in the Common Chord, where I used to play to empty rooms and could be thrown out unpaid. Now it is the hardest ticket in Neverwinter. I look across the patrons, the food, the table commemorating Brewbarry, and try to reconcile the room with the one I remember. There is leather on that table now. A plaque. My name apparently does better business here when I am elsewhere.\n\n“Okay, and Lord Neverember… Lord Neverflaming has a new drow advisor.”\n\n“Great, isn't that Valphine?” Soma asks.\n\n“No.”\n\n“Oh, right.”\n\n“It's a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.”\n\nValphine turns her attention back to us. “I'm sorry, I lost track. What… What do I?”\n\n“Lord Neverember. Lord Never Flaming.”\n\nI bring her back to the rumored advisor.\n\n“Oh, right, right, right. Which we assume to be one of my siblings, in fact.”\n\n“That is my guess too, yes.”\n\n“Everyone's related to everyone,” Soma says.\n\nIt remains a guess. We have a dinner without a time and an advisor without a name, and putting the two together does not yet give us a sibling. There are practical matters we can settle before dinner.\n\n“Have we secured the capital for Brewbarry's bathrobe business, or is that still in progress?”\n\n“I believe it's in progress,” Soma says.\n\nFor a moment I have to sort the money from the goods it is meant to buy. The capital is secured.\n\n“But, oh, but the cost of import is very high.”\n\n“Right, because their shipping lanes are still…” Soma pauses. “Shipping portals, whatever, are still hosed.”\n\nAnd House Margaster controls the available logistics.\n\n“Of course they are.”\n\nI cannot dispute that they deliver on time and on schedule. That much must be acknowledged, even while we sit here trying to work out how Brewbarry can afford to bring softness to people through a house that controls how the softness gets here. Being reliable does not make the import bill smaller.\n\nValphine considers House Margaster competition. I turn that over briefly, then return to the part of the night for which we actually have a time.\n\n“Alright, let's head out to Lim's Food Deliveries and get there by 3 AM. And then we can cast whatever spells we need in order to be ready.”\n\nThere is still time before we need to go. Around us, the Common Chord continues charging people to enjoy the place where they once declined to enjoy me.\n\nOne of those people is discussing precisely this injustice within earshot. The Chord has become unaffordable, he complains, and it is all due to Vukradin.\n\nHe has not noticed that Vukradin is standing nearby.\n\nI listen. He wants to hear music without spending so much money. I want people to hear music without spending so much money. We have reached agreement before I even introduce myself, which is an excellent beginning, provided we can get past the part where I am apparently responsible for his bill.\n\nI approach him and explain that I am planning an independent studio, with a charitable fund to help open it.\n\n“That will speed the opening of a low-cost, nonprofit way to hear Lathander's Death on a regular basis.”\n\nThere. Something he can help bring into existence. A place he can actually attend. My studio does not have to remain an idea I carry between other people's expensive rooms; if the people who want it help, then we can have the room, and the music, and an audience that does not have to dress for the privilege.\n\n“And spread the word.”\n\nWhile he considers the offer, a nearby conversation supplies something rather less pleasant to think about. The river sends a tide through the sewers. People at the bar are discussing it among themselves, and I catch enough to turn back toward my companions.\n\n“Hide in the sewers?”\n\nI had understood that we were preparing for a late-night operation. I would also like to understand whether the floor is going to become a river.\n\n“There's a tide in the sewers? A river has a tide?”\n\nNeverwinter is beside the sea. The sea comes in, the river rises, and the water does not politely stop at the underground entrances. Once I follow that connection, the next question seems obvious.\n\n“How many moons does this planet have?”\n\n“That's an easy question to answer,” Valphine says.\n\n“Just the one.”\n\n“It just rotates—it revolves really fast,” Soma says.\n\n“It has one moon named Selûne,” Valphine tells me.\n\n“Oh, Selûne. Of course. Yeah.”\n\nThere are also the Tears of Selûne, which briefly complicate my understanding of what is pulling on what.\n\n“So, there should be a tidal effect from both moons.”\n\nBut the Tears are a cluster of smaller bodies, meteors and asteroids, rather than another moon. I work back through it.\n\n“They're not sufficiently gravitational. They're not really moons.”\n\n“Yeah, they're… they're just comets,” Soma says.\n\n“They're asteroids. So the one moon, then.”\n\nThe useful information from the neighboring conversation is two high tides and two low tides each day. I hold on to that.\n\n“There you go. Not one and one: two high and two low.”\n\n“That's murder on trade,” Soma says.\n\n“It should take effect underground, too, right?” Valphine asks.\n\nYes. That is the problem. The sewer belongs to the same rising water as the river, however much stone is over our heads.\n\n“So it's a 6-hour cycle.”\n\nI begin counting the intervals.\n\n“High to low is 3 hours. Yeah, no, high to low. High to low is 6 hours, 6… High to low is 6 hours.”\n\nThis is why we discuss things before entering the sewer.\n\n“We want to be in the sewer for… at low tide.”\n\n“3 AM,” Soma says.\n\n“We have about 3 hours, maybe 4, before things start to get really uncomfortable.”\n\n“I mean, I can hang out underwater indefinitely.”\n\nI look at Soma. An excellent capability for Soma.\n\nThe local I have approached is a little drunk. He does not have much money, but he hands me ten gold pieces.\n\nFor a moment the sewer leaves my thoughts entirely.\n\n“Wow, that's pretty generous, actually.”\n\n“That's a hell of a donation,” Soma says.\n\nHe has just been complaining about what it costs to be here, and now he is contributing ten gold toward somewhere less expensive. I keep the coins separate from our ordinary funds.\n\n“That goes in the studio fund, not the regular coffers. Thank you very much for contributing. That's awesome.”\n\nHe pauses before the exchange is quite finished.\n\n“Do I get on… Is there some kind of signage for people who contributed?”\n\n“Absolutely. Yes.”\n\nThis is reasonable. People should know who helped.\n\n“There are different tiers of giving levels, actually. 10 gold pieces puts you at the…”\n\n“Premier or the Plus, which one?” Soma asks.\n\n“At the plus level, yeah, you're not quite at Premier yet.”\n\nHe is pleased with Plus. I am pleased with ten gold, and with the prospect of a program that will have both music and the names of people who made the music possible.\n\n“We need his name. We need to write it down for the program notes, and…”\n\nThe duration matters.\n\n“Per year. A year. If you want to be in next year's, you'll have to donate again, but one year is a long time.”\n\n“Yeah, we call this Patreon,” Valphine says.\n\n“It's my Patreon, exactly.”\n\n“This is where it comes from, patronage,” Soma says.\n\nI look around the Common Chord again. There are people here who want music, people who remember music, people paying for an evening in a room that trades on my name. Some of them might want to help build another one.\n\n“Before we go, should I try to convince other people to contribute to the Studio Fund? How much time do we have?”\n\nPlenty before three.\n\n“Alright, let's do… let's hit up a few more people, let's see how it goes here.”\n\nI approach five more patrons. The first recognizes me as the actual Vukradin, which is useful, but has already completed his charitable giving for the year.\n\n“Okay, that's fine. I'm not here to pressure anybody.”\n\nHe has given to charity. Good. The fact that it is not my charity does not undo that, and I am not going to make a person regret recognizing me because he has already helped somebody else.\n\n“The benefits are all on you. If you can be at the Plus or Premier level, I'm cool. I just like fans.”\n\nHe assures me that he is my biggest fan.\n\n“Oh, bigger than Brewbarry?”\n\n“Brewbarry's very large,” Valphine says. “In fact, he's huge in Japan sometimes.”\n\nBrewbarry is there to substantiate the first part of this claim. I glance toward him and accept the limit of the comparison. There is no contribution required to remain a fan.\n\nThe other four are receptive. I make sure we record Wick, Sabbatha, Old Hesp, and Ondrelle Kass for the future program credits. Names matter here. These are people helping pay for the studio; when there is finally a program, I want them in it.\n\nWick is enthusiastic about patronage of the arts. He has no idea who Lathander's Death is, and he does not believe I am Vukradin, but neither uncertainty interferes with his support. He understands that I am putting together a music school.\n\n“School?” Soma asks.\n\n“School, studio—they're all the same, right? If you have a studio, it's for training people. That's just how it goes.”\n\nI see no difficulty. People come to make music. People learn to make music. We will need somewhere to do both, and Wick wants to help provide it. He does not even require me to be famous.\n\nSabbatha's attention moves past the studio's prospective founder to Brewbarry. She looks him over and admires his commitment to the Brewbarry look.\n\nI look too. It is a considerable commitment.\n\n“Yes, he is quite bulging, isn't he?”\n\n“Rippling,” Soma supplies.\n\n“Exactly.”\n\nSabbatha contributes. I make certain her name is among the credits.\n\nOld Hesp is the last patron I speak with. He recognizes me without needing to be persuaded.\n\n“I remember when you used to play to an empty room.”\n\n“Yeah?”\n\nI look at him more closely. An empty room is how I remember it too, but there must have been someone in it for someone to remember me playing.\n\n“Did you come? Did you come? Did I give you your money back at the end of…”\n\nHe confirms it before I finish. He remembers the guarantee: if he would not rate the performance ten out of ten, I would not keep his money. He remembers getting it back.\n\n“I know, that's how honest I am. Well, what do you think now?”\n\nHe pauses.\n\n“Now this is a friggin' expensive place to be. Everybody's gotta look cool.”\n\nI follow his attention across the room. The people here have managed the requirement. That does not mean everyone who wants to hear the music can manage it, or afford to discover whether they like it, and I cannot ask him what he thinks now and then refuse to hear the answer because I would rather receive a compliment.\n\n“Well, come to the new studio, when it's up and running.”\n\nHe tries to describe what this place has lost, the look and the feel of it, the grit. I know the room he means. I remember standing in it.\n\n“We're gonna get it back. We're gonna get it back.”\n\n“This is too commercial.”\n\n“Yeah, yeah, I agree.”\n\nHe blames Petra, though there is respect mixed into the complaint. She has turned the Common Chord into a money-making operation. He points out Brewbarry's table, remembering it before the leather finish, before the shine, before the plaque.\n\nI look at the leather. The old table was available for use without being an attraction. Now people can sit near evidence that Brewbarry once sat here, and elsewhere in the room Sabbatha is admiring how convincingly Brewbarry resembles himself.\n\nOld Hesp remembers when they did not serve this fancy food, either.\n\nHe is giving toward the studio while telling me all this. I do not have to convince him that something is missing. He has come back to the Common Chord and found the table commemorated more carefully than the evening he used to have around it.\n\nTwenty gold pieces go into the studio fund tonight. Petra's separate five hundred for my likeness is still pending until the performance two days from now. I keep that promise separate from the money actually in hand, and keep the donor names with the obligation to credit them for a year.\n\nThere is room in the studio I am imagining for Wick to learn something, for Old Hesp to come without looking fashionable, for this generous local to hear Lathander's Death regularly. I want to get the doors open. Tonight, people who want to walk through them have helped.\n\nNow we have to reach Lim's deliveries while the water is low.\n\n“Alright, let's go, do some… spelunking.”"}, "valphine": {"baseline": "### Valphine Sotorra\n\nThe steps descend toward the sewer grille in shallow, aqueduct-like courses, wet stone offering very little purchase and the darkness below offering considerably more concealment. I watch the approach, the ledge beside the opening, and the two men carrying crates; a delivery has at least three useful parts, the goods, the labor, and the person who knows where the goods are meant to go. We have yet to distinguish the last two.\n\nVukradin has already offered his services.\n\n“I have a very high stealth, if we need me to…”\n\nSoma regards him. “I didn't know bards got high stealth.”\n\n“And it's just because I have boots of elvenkind.”\n\n“Hell yeah.”\n\nThe boots are a useful advantage. They also make him the obvious choice for a task the rest of us might prefer him to undertake in company.\n\n“I mean, you could tag along with a familiar…” Soma says.\n\nShe casts *Find Familiar*, and a rat joins our surveillance, small enough to belong beside the wet steps without explanation. Through its eyes and ears she can examine what waits below, provided it remains within a hundred feet of her. A useful extension of our attention, although the sewer is unlikely to respect the limit.\n\nThe carriers bring their loads down.\n\n“All 9 of them?” Soma asks.\n\nAll nine. Eight accumulate together beside the grille, and on those eight I can see no official Commission Harbor mark. Whatever journey brought them into Neverwinter has omitted the authorities’ preferred opportunities to inspect, record, and collect. The absence is consistent with what we already know; the arrangement interests me more.\n\n“So we want one person to track down the gnome, right? Crate 9,” Vukradin says. “We also want to track the people who dropped them. So we want to do two things.”\n\n“What, you said you got your high stealth.”\n\n“If you want, I can track the gnome. You guys can go do the… the sewers.”\n\n“Well, I'm tracking the crate,” Soma says.\n\n“Which crate?”\n\n“The ninth crate, the one that doesn't go into Lim, because I'm more concerned about my friend's shady business.”\n\nI keep my attention on the men while the assignments circulate. Lim’s eight crates are together; the ninth is being handled separately. Our prospective quarry has not yet appeared, and already its parcel commands more discussion than the men who bring it.\n\n“Okay, so you want me to follow them back into the sewers?” Vukradin asks. “That seems pretty dangerous. One party member in the sewers.”\n\n“I see. Alright, we can send the rat that way, then. You can follow the crate.”\n\nOne carrier places the ninth crate on the ledge. He pauses there, looks down into the dark, and then leaves it. His companion continues stacking boxes.\n\nThe glance is brief enough to be mistaken for caution. There is wet stone underfoot, after all, and an opening beside him. But he looks into the place from which something might arrive. I mark the distinction.\n\n“The rat's gonna go whichever way leads to the sewer,” Soma says.\n\nVukradin works through the division again, giving each part its own sentence.\n\n“So, look, the… The crates got dropped off. Lim's gonna come out and take 8 of the crates.”\n\n“Right.”\n\n“And she's not gonna take a 9th crate.”\n\nThe isolated box rests on its ledge while the carriers finish. Neither has any apparent intention of waiting beside it.\n\n“Vukradin is gonna stick around and stealthily wait to see who comes to get the ninth crate, and then track it.”\n\n“So everyone other than Vukradin is gonna trail these guys, and Vukradin's gonna trail the crate,” I say. “Is that right?”\n\n“Yes,” Vukradin says.\n\n“Yes,” Soma agrees.\n\nAn assignment, finally. Then the carriers reach the point at which they might naturally exchange a glance, a word, some small acknowledgment of having just performed the same work, and carefully do none of these things. They walk away in different directions.\n\n“That nonchalant whistling,” Soma says.\n\nI watch their refusal to look at one another. It takes discipline to suppress every ordinary acknowledgment, but rather better discipline to know which acknowledgments should remain. Their separation advertises an intention to separate.\n\n“So if they split up, that's gonna make them hard to follow,” Vukradin says. “You're gonna have to choose one or split again.”\n\nThe man at the ledge is my choice, though I examine the conclusion before trusting it. Handling the exceptional crate does not necessarily make him senior; an instructed servant can perform a special errand without understanding it. At first the evidence gives me only that much. Then I hold his pause against his companion’s uninterrupted stacking, letting the last encouragement Vukradin has left me steady my attention.\n\nOne man completes a physical task. The other checks for its continuation.\n\nI cannot establish rank from a glance. I can identify which man expects something to emerge from the sewer.\n\n“I'd follow the guy who paid attention to the ledge,” Soma says. “He knows something. He knows something's coming out of that thing.”\n\nThat is sufficient agreement. Brewbarry, Soma, and I will follow him.\n\n“I could handle this myself, guys, you don't trust me?”\n\nBefore the question requires an answer, something comes up for the ninth crate.\n\nI am surprised. I had allowed for a collector, including the gnome Vukradin expects; what appears is cat-sized, brass and leather, quick in its movements without displaying any haste. It takes the crate and goes back down. There is no examination of the other eight, no search for a mark, no hesitation over which object belongs to it.\n\nThe carrier’s downward glance acquires a more precise meaning. He has been checking for an expected collection, and the thing collecting needs neither greeting nor payment here. Whether he knows who instructs it remains unanswered.\n\n“Okay, Vukradin will pursue stealthily.”\n\n“This is my concern,” Soma says. “Vukradin ends up going into the sewers now, and…”\n\n“I'll be fine.”\n\n“One person in the sewers? Alright.”\n\nThe objection is almost exactly the one he raises himself a short while ago. Apparently the appearance of something sufficiently interesting has altered the acceptable number of companions.\n\n“Tell me the odds,” Soma says.\n\n“Only a 1 in 400 chance of disaster. It'll be fine.”\n\nA remarkably specific confidence. His boots can suppress the sound of his approach; I see no reason to assign them authority over everything he may approach.\n\nNevertheless, the construct is withdrawing, and our carrier is leaving. Vukradin follows the brass-and-leather collector below while the three of us take the street after the man who watches ledges. The grille falls behind us. I have no view of Vukradin’s progress once he descends.\n\nOur man stops at a cook shop.\n\nAt the fourth hour, there are few open doors offering food, and this is one of them. He settles to breakfast alone, apparently content with the meal. No companion joins him. He speaks to no waiting contact that I can see. Having left eight crates for Lim and one for a construct, he applies himself to eating.\n\n“Can't be a lot of those,” Soma says of the open shop.\n\nAn early meal is a reasonable end to a delivery. It is also an inconvenient one for those hoping the delivery will lead directly to an employer. I watch him eat, allowing neither possibility to improve the evidence.\n\nVukradin’s voice reaches Soma through her Sending Stone.\n\n“By the way, Soma, you have one of the Sending Stones, and I have the other.”\n\n“Good to know.”\n\nThe paired stones give our separated inquiries a means of reaching one another. They do not shorten the streets between us or improve the approach through the grille, but I prefer a distant voice to an unexplained absence.\n\n“So we could have little walkie-talkies over. Yeah.”\n\n“We have walkie-talkies.”\n\nSoma turns her attention back toward the meal.\n\n“He's not eating turtle soup or anything at this hour, is he?”\n\nI cannot identify the contents from here. He continues eating with an equanimity our investigation has done nothing to disturb.\n\n“It's not the Board Laid Bare he's at, of course, he's somewhere else,” she says.\n\nLim’s establishment might have given the stop an immediate significance. This shop offers only a man at breakfast.\n\n“He's just eating alone. He isn't talking to anybody.”\n\nThat is the difficulty. We have chosen the carrier who appears to know more, but knowing more does not oblige him to demonstrate it between mouthfuls. We could approach. We could ask. Either would make our interest part of his morning, and from that moment every subsequent choice might be made for our benefit.\n\n“Remember, we promised Lim we're not gonna spook her connections,” Vukradin reminds Soma through the stone.\n\nThen he refines the ownership of the obligation.\n\n“Or you promised them.”\n\n“Thank you so much.”\n\nI appreciate the correction. Vukradin can impose the full weight of a promise while keeping an exact account of whose neck it rests upon.\n\n“I'm not trying to put her out of business,” Soma says. “I want to see where he goes next. Stopping for a snack doesn't tell us anything, and spooking him doesn't seem kosher.”\n\nWe leave him to his breakfast. Brewbarry remains with us, and the man gives us no reason yet to move; below the street, Vukradin still has the more unusual trail.\n\nThen his voice comes again.\n\n“Okay… I don't think that's gonna go very well.”\n\n“Good times,” I say.\n\n“I mean, okay, there's some passive charm effect or something.”\n\nThe stone supplies his voice without the tunnel around it. I cannot inspect what he has encountered, cannot see the construct, cannot even judge his position from the sound. His account gives us a sudden disinterest in the route, an overwhelming conviction that continuing along it is boring and not worth his time.\n\n“turn into Brewbarry,” Soma says.\n\n“A passive confusion effect. Alright, awesome.”\n\nVukradin tries to name what is happening while it is happening. I listen for what he still knows, since a mistaken description is less troublesome than a missing purpose.\n\n“Well, it can't have been cast directly on me.”\n\nThen: “This is, like, an area effect.”\n\nThat is his assessment from below. From here I have a carrier eating breakfast and a bard explaining why the passage he enters in pursuit of a construct has ceased to merit pursuit. I have no basis for naming a spell.\n\nWhat becomes clear is that he remembers why he goes underground. He remembers where he is. The purpose survives; the willingness to follow this particular tunnel does not. He decides it is the wrong way to go and turns away from the construct’s trail.\n\nThrough the stone comes his final acknowledgment.\n\n“Okay.”\n", "a": "### Valphine Sotorra\n\nThe steps descend toward the sewer grille in shallow, aqueduct-like courses, wet stone offering very little purchase and the darkness below offering considerably more concealment. I watch the approach, the ledge beside the opening, and the two men carrying crates; a delivery has at least three useful parts, the goods, the labor, and the person who knows where the goods are meant to go. We have yet to distinguish the last two.\n\nVukradin has already offered his services.\n\n“I have a very high stealth, if we need me to…”\n\nSoma regards him. “I didn't know bards got high stealth.”\n\n“And it's just because I have boots of elvenkind.”\n\n“Hell yeah.”\n\nThe boots are a useful advantage. They also make him the obvious choice for a task the rest of us might prefer him to undertake in company.\n\n“I mean, you could tag along with a familiar…” Soma says.\n\nShe casts *Find Familiar*, and a rat joins our surveillance, small enough to belong beside the wet steps without explanation. Through its eyes and ears she can examine what waits below, provided it remains within a hundred feet of her. A useful extension of our attention, although the sewer is unlikely to respect the limit.\n\nThe carriers bring their loads down.\n\n“All 9 of them?” Soma asks.\n\nAll nine. Eight accumulate together beside the grille, and on those eight I can see no official Commission Harbor mark. Whatever journey brought them into Neverwinter has omitted the authorities’ preferred opportunities to inspect, record, and collect. The absence is consistent with what we already know; the arrangement interests me more.\n\n“So we want one person to track down the gnome, right? Crate 9,” Vukradin says. “We also want to track the people who dropped them. So we want to do two things.”\n\n“What, you said you got your high stealth.”\n\n“If you want, I can track the gnome. You guys can go do the sewers.”\n\n“Well, I'm tracking the crate,” Soma says.\n\n“Which crate?”\n\n“The ninth crate, the one that doesn't go into Lim, because I'm more concerned about my friend's shady business.”\n\nI keep my attention on the men while the assignments circulate. Lim’s eight crates are together; the ninth is being handled separately. Our prospective quarry has not yet appeared, and already its parcel commands more discussion than the men who bring it.\n\n“Okay, so you want me to follow them back into the sewers?” Vukradin asks. “That seems pretty dangerous. One party member in the sewers.”\n\n“I see. Alright, we can send the rat that way, then. You can follow the crate.”\n\nOne carrier places the ninth crate on the ledge. He pauses there, looks down into the dark, and then leaves it. His companion continues stacking boxes.\n\nThe glance is brief enough to be mistaken for caution. There is wet stone underfoot, after all, and an opening beside him. But he looks into the place from which something might arrive. I mark the distinction.\n\n“The rat's gonna go whichever way leads to the sewer,” Soma says.\n\nVukradin works through the division again, giving each part its own sentence.\n\n“So, look, the crates got dropped off. Lim's gonna come out and take 8 of the crates.”\n\n“Right.”\n\n“And she's not gonna take a 9th crate.”\n\nThe isolated box rests on its ledge while the carriers finish. Neither has any apparent intention of waiting beside it.\n\n“Vukradin is gonna stick around and stealthily wait to see who comes to get the ninth crate, and then track it.”\n\n“So everyone other than Vukradin is gonna trail these guys, and Vukradin's gonna trail the crate,” I say. “Is that right?”\n\n“Yes,” Vukradin says.\n\n“Yes,” Soma agrees.\n\nAn assignment, finally. Then the carriers reach the point at which they might naturally exchange a glance, a word, some small acknowledgment of having just performed the same work, and carefully do none of these things. They walk away in different directions.\n\n“That nonchalant whistling,” Soma says.\n\nI watch their refusal to look at one another. It takes discipline to suppress every ordinary acknowledgment, but rather better discipline to know which acknowledgments should remain. Their separation advertises an intention to separate.\n\n“So if they split up, that's gonna make them hard to follow,” Vukradin says. “You're gonna have to choose one or split again.”\n\nThe man at the ledge is my choice, though I examine the conclusion before trusting it. Handling the exceptional crate does not necessarily make him senior; an instructed servant can perform a special errand without understanding it. At first the evidence gives me only that much. Then I hold his pause against his companion’s uninterrupted stacking, letting the last encouragement Vukradin has left me steady my attention.\n\nOne man completes a physical task. The other checks for its continuation.\n\nI cannot establish rank from a glance. I can identify which man expects something to emerge from the sewer.\n\n“I'd follow the guy who paid attention to the ledge,” Soma says. “He knows something. He knows something's coming out of that thing.”\n\nThat is sufficient agreement. Brewbarry, Soma, and I will follow him.\n\n“I could handle this myself, guys. You don't trust me?”\n\nBefore the question requires an answer, something comes up for the ninth crate.\n\nI am surprised. I had allowed for a collector, including the gnome Vukradin expects; what appears is cat-sized, brass and leather, quick in its movements without displaying any haste. It takes the crate and goes back down. There is no examination of the other eight, no search for a mark, no hesitation over which object belongs to it.\n\nThe carrier’s downward glance acquires a more precise meaning. He has been checking for an expected collection, and the thing collecting needs neither greeting nor payment here. Whether he knows who instructs it remains unanswered.\n\n“Okay, Vukradin will pursue stealthily.”\n\n“This is my concern,” Soma says. “Vukradin ends up going into the sewers now, and…”\n\n“I'll be fine.”\n\n“One person in the sewers? Alright.”\n\nThe objection is almost exactly the one he raises himself a short while ago. Apparently the appearance of something sufficiently interesting has altered the acceptable number of companions.\n\n“Tell me the odds,” Soma says.\n\n“Only a 1 in 400 chance of disaster. It'll be fine.”\n\nA remarkably specific confidence. His boots can suppress the sound of his approach; I see no reason to assign them authority over everything he may approach.\n\nNevertheless, the construct is withdrawing, and our carrier is leaving. Vukradin follows the brass-and-leather collector below while the three of us take the street after the man who watches ledges. The grille falls behind us. I have no view of Vukradin’s progress once he descends.\n\nOur man stops at a cook shop.\n\nAt the fourth hour, there are few open doors offering food, and this is one of them. He settles to breakfast alone, apparently content with the meal. No companion joins him. He speaks to no waiting contact that I can see. Having left eight crates for Lim and one for a construct, he applies himself to eating.\n\n“Can't be a lot of those,” Soma says of the open shop.\n\nAn early meal is a reasonable end to a delivery. It is also an inconvenient one for those hoping the delivery will lead directly to an employer. I watch him eat, allowing neither possibility to improve the evidence.\n\nVukradin’s voice reaches Soma through her Sending Stone.\n\n“By the way, Soma, you have one of the Sending Stones, and I have the other.”\n\n“Good to know.”\n\nThe paired stones give our separated inquiries a means of reaching one another. They do not shorten the streets between us or improve the approach through the grille, but I prefer a distant voice to an unexplained absence.\n\n“So we could have little walkie-talkies over. Yeah.”\n\n“We have walkie-talkies.”\n\nSoma turns her attention back toward the meal.\n\n“He's not eating turtle soup or anything at this hour, is he?”\n\nI cannot identify the contents from here. He continues eating with an equanimity our investigation has done nothing to disturb.\n\n“It's not the Board Laid Bare he's at, of course. He's somewhere else,” she says.\n\nLim’s establishment might have given the stop an immediate significance. This shop offers only a man at breakfast.\n\n“He's just eating alone. He isn't talking to anybody.”\n\nThat is the difficulty. We have chosen the carrier who appears to know more, but knowing more does not oblige him to demonstrate it between mouthfuls. We could approach. We could ask. Either would make our interest part of his morning, and from that moment every subsequent choice might be made for our benefit.\n\n“Remember, we promised Lim we're not gonna spook her connections,” Vukradin reminds Soma through the stone.\n\nThen he refines the ownership of the obligation.\n\n“Or you promised them.”\n\n“Thank you so much.”\n\nI appreciate the correction. Vukradin can impose the full weight of a promise while keeping an exact account of whose neck it rests upon.\n\n“I'm not trying to put her out of business,” Soma says. “I want to see where he goes next. Stopping for a snack doesn't tell us anything, and spooking him doesn't seem kosher.”\n\nWe leave him to his breakfast. Brewbarry remains with us, and the man gives us no reason yet to move; below the street, Vukradin still has the more unusual trail.\n\nThen his voice comes again.\n\n“Okay… I don't think that's gonna go very well.”\n\n“Good times,” I say.\n\n“I mean, okay, there's some passive charm effect or something.”\n\nThe stone supplies his voice without the tunnel around it. I cannot inspect what he has encountered, cannot see the construct, cannot even judge his position from the sound. His account gives us a sudden disinterest in the route, an overwhelming conviction that continuing along it is boring and not worth his time.\n\n“Turn into Brewbarry,” Soma says.\n\n“A passive confusion effect. Alright, awesome.”\n\nVukradin tries to name what is happening while it is happening. I listen for what he still knows, since a mistaken description is less troublesome than a missing purpose.\n\n“Well, it can't have been cast directly on me.”\n\nThen: “This is, like, an area effect.”\n\nThat is his assessment from below. From here I have a carrier eating breakfast and a bard explaining why the passage he enters in pursuit of a construct has ceased to merit pursuit. I have no basis for naming a spell.\n\nWhat becomes clear is that he remembers why he goes underground. He remembers where he is. The purpose survives; the willingness to follow this particular tunnel does not. He decides it is the wrong way to go and turns away from the construct’s trail.\n\nThrough the stone comes his final acknowledgment.\n\n“Okay.”", "b": "### Valphine Sotorra\n\nThe steps descend toward the sewer grille in shallow, aqueduct-like courses, wet stone offering very little purchase and the darkness below offering considerably more concealment. I watch the approach, the ledge beside the opening, and the two men carrying crates; a delivery has at least three useful parts, the goods, the labor, and the person who knows where the goods are meant to go. We have yet to distinguish the last two.\n\nVukradin has already offered his services.\n\n“I have a very high stealth, if we need me to…”\n\nSoma regards him. “I didn't know bards got high stealth.”\n\n“And it's just because I have boots of elvenkind.”\n\n“Hell yeah.”\n\nThe boots are a useful advantage. They also make him the obvious choice for a task the rest of us might prefer him to undertake in company.\n\n“I mean, you could tag along with a familiar…” Soma says.\n\nShe casts *Find Familiar*, and a rat joins our surveillance, small enough to belong beside the wet steps without explanation. Through its eyes and ears she can examine what waits below, provided it remains within a hundred feet of her. A useful extension of our attention, although the sewer is unlikely to respect the limit.\n\nThe carriers bring their loads down.\n\n“All nine of them?” Soma asks.\n\nAll nine. Eight accumulate together beside the grille, and on those eight I can see no official Commission Harbor mark. Whatever journey brought them into Neverwinter has omitted the authorities’ preferred opportunities to inspect, record, and collect. The absence is consistent with what we already know; the arrangement interests me more.\n\n“So we want one person to track down the gnome, right? Crate nine,” Vukradin says. “We also want to track the people who dropped them. So we want to do two things.”\n\n“You said you got your high stealth.”\n\n“If you want, I can track the gnome. You guys can go do the… the sewers.”\n\n“Well, I'm tracking the crate,” Soma says.\n\n“Which crate?”\n\n“The ninth crate, the one that doesn't go to Lim, because I'm more concerned about my friend's shady business.”\n\nI keep my attention on the men while the assignments circulate. Lim’s eight crates are together; the ninth is being handled separately. Our prospective quarry has not yet appeared, and already its parcel commands more discussion than the men who bring it.\n\n“Okay, so you want me to follow them back into the sewers?” Vukradin asks. “That seems pretty dangerous. One party member in the sewers.”\n\n“I see. Alright, we can send the rat that way, then. You can follow the crate.”\n\nOne carrier places the ninth crate on the ledge. He pauses there, looks down into the dark, and then leaves it. His companion continues stacking boxes.\n\nThe glance is brief enough to be mistaken for caution. There is wet stone underfoot, after all, and an opening beside him. But he looks into the place from which something might arrive. I mark the distinction.\n\n“The rat's gonna go whichever way leads to the sewer,” Soma says.\n\nVukradin works through the division again, giving each part its own sentence.\n\n“So, look, the… The crates got dropped off. Lim's gonna come out and take eight of the crates.”\n\n“Right.”\n\n“And she's not gonna take a ninth crate.”\n\nThe isolated box rests on its ledge while the carriers finish. Neither has any apparent intention of waiting beside it.\n\n“Vukradin is gonna stick around and stealthily wait to see who comes to get the ninth crate, and then track it.”\n\n“So everyone other than Vukradin is gonna trail these guys, and Vukradin's gonna trail the crate,” I say. “Is that right?”\n\n“Yes,” Vukradin says.\n\n“Yes,” Soma agrees.\n\nAn assignment, finally. Then the carriers reach the point at which they might naturally exchange a glance, a word, some small acknowledgment of having just performed the same work, and carefully do none of these things. They walk away in different directions.\n\n“That nonchalant whistling,” Soma says.\n\nI watch their refusal to look at one another. It takes discipline to suppress every ordinary acknowledgment, but rather better discipline to know which acknowledgments should remain. Their separation advertises an intention to separate.\n\n“So if they split up, that's gonna make them hard to follow,” Vukradin says. “You're gonna have to choose one or split again.”\n\nThe man at the ledge is my choice, though I examine the conclusion before trusting it. Handling the exceptional crate does not necessarily make him senior; an instructed servant can perform a special errand without understanding it. At first the evidence gives me only that much. Then I hold his pause against his companion’s uninterrupted stacking, letting the last encouragement Vukradin has left me steady my attention.\n\nOne man completes a physical task. The other checks for its continuation.\n\nI cannot establish rank from a glance. I can identify which man expects something to emerge from the sewer.\n\n“I'd follow the guy who paid attention to the ledge,” Soma says. “He knows something. He knows something's coming out of that thing.”\n\nThat is sufficient agreement. Brewbarry, Soma, and I will follow him.\n\n“I could handle this myself, guys. You don't trust me?”\n\nBefore the question requires an answer, something comes up for the ninth crate.\n\nI am surprised. I had allowed for a collector, including the gnome Vukradin expects; what appears is cat-sized, brass and leather, quick in its movements without displaying any haste. It takes the crate and goes back down. There is no examination of the other eight, no search for a mark, no hesitation over which object belongs to it.\n\nThe carrier’s downward glance acquires a more precise meaning. He has been checking for an expected collection, and the thing collecting needs neither greeting nor payment here. Whether he knows who instructs it remains unanswered.\n\n“Okay, Vukradin will pursue stealthily.”\n\n“This is my concern,” Soma says. “Vukradin ends up going into the sewers now, and…”\n\n“I'll be fine.”\n\n“One person in the sewers? Alright.”\n\nThe objection is almost exactly the one he raises himself a short while ago. Apparently the appearance of something sufficiently interesting has altered the acceptable number of companions.\n\n“Tell me the odds,” Soma says.\n\n“Only a one in four hundred chance of disaster. It'll be fine.”\n\nA remarkably specific confidence. His boots can suppress the sound of his approach; I see no reason to assign them authority over everything he may approach.\n\nNevertheless, the construct is withdrawing, and our carrier is leaving. Vukradin follows the brass-and-leather collector below while the three of us take the street after the man who watches ledges. The grille falls behind us. I have no view of Vukradin’s progress once he descends.\n\nOur man stops at a cook shop.\n\nAt the fourth hour, there are few open doors offering food, and this is one of them. He settles to breakfast alone, apparently content with the meal. No companion joins him. He speaks to no waiting contact that I can see. Having left eight crates for Lim and one for a construct, he applies himself to eating.\n\n“Can't be a lot of those,” Soma says of the open shop.\n\nAn early meal is a reasonable end to a delivery. It is also an inconvenient one for those hoping the delivery will lead directly to an employer. I watch him eat, allowing neither possibility to improve the evidence.\n\nVukradin’s voice reaches Soma through her Sending Stone.\n\n“By the way, Soma, you have one of the Sending Stones, and I have the other.”\n\n“Good to know.”\n\nThe paired stones give our separated inquiries a means of reaching one another. They do not shorten the streets between us or improve the approach through the grille, but I prefer a distant voice to an unexplained absence.\n\n“So we could have little walkie-talkies.”\n\n“We have walkie-talkies.”\n\nSoma turns her attention back toward the meal.\n\n“He's not eating turtle soup or anything at this hour, is he?”\n\nI cannot identify the contents from here. He continues eating with an equanimity our investigation has done nothing to disturb.\n\n“It's not the Board Laid Bare he's at, of course. He's somewhere else,” she says.\n\nLim’s establishment might have given the stop an immediate significance. This shop offers only a man at breakfast.\n\n“He's just eating alone. He isn't talking to anybody.”\n\nThat is the difficulty. We have chosen the carrier who appears to know more, but knowing more does not oblige him to demonstrate it between mouthfuls. We could approach. We could ask. Either would make our interest part of his morning, and from that moment every subsequent choice might be made for our benefit.\n\n“Remember, we promised Lim we're not gonna spook her connections,” Vukradin reminds Soma through the stone.\n\nThen he refines the ownership of the obligation.\n\n“Or you promised them.”\n\n“Thank you so much.”\n\nI appreciate the correction. Vukradin can impose the full weight of a promise while keeping an exact account of whose neck it rests upon.\n\n“I'm not trying to put her out of business,” Soma says. “I want to see where he goes next. Stopping for a snack doesn't tell us anything, and spooking him doesn't seem kosher.”\n\nWe leave him to his breakfast. Brewbarry remains with us, and the man gives us no reason yet to move; below the street, Vukradin still has the more unusual trail.\n\nThen his voice comes again.\n\n“Okay… I don't think that's gonna go very well.”\n\n“Good times,” I say.\n\n“I mean, okay, there's some passive charm effect or something.”\n\nThe stone supplies his voice without the tunnel around it. I cannot inspect what he has encountered, cannot see the construct, cannot even judge his position from the sound. His account gives us a sudden disinterest in the route, an overwhelming conviction that continuing along it is boring and not worth his time.\n\n“Turn into Brewbarry,” Soma says.\n\n“A passive confusion effect. Alright, awesome.”\n\nVukradin tries to name what is happening while it is happening. I listen for what he still knows, since a mistaken description is less troublesome than a missing purpose.\n\n“Well, it can't have been cast directly on me.”\n\nThen: “This is, like, an area effect.”\n\nThat is his assessment from below. From here I have a carrier eating breakfast and a bard explaining why the passage he enters in pursuit of a construct has ceased to merit pursuit. I have no basis for naming a spell.\n\nWhat becomes clear is that he remembers why he goes underground. He remembers where he is. The purpose survives; the willingness to follow this particular tunnel does not. He decides it is the wrong way to go and turns away from the construct’s trail.\n\nThrough the stone comes his final acknowledgment.\n\n“Okay.”", "c": "### Valphine Sotorra\n\nThe steps descend toward the sewer grille in shallow, aqueduct-like courses, wet stone offering very little purchase and the darkness below offering considerably more concealment. I watch the approach, the ledge beside the opening, and the two men carrying crates; a delivery has at least three useful parts: the goods, the labor, and the person who knows where the goods are meant to go. We have yet to distinguish the last two.\n\nVukradin has already offered his services.\n\n“I have a very high stealth, if we need me to…”\n\nSoma regards him. “I didn't know bards got high stealth.”\n\n“And it's just because I have boots of elvenkind.”\n\n“Hell yeah.”\n\nThe boots are a useful advantage. They also make him the obvious choice for a task the rest of us might prefer him to undertake in company.\n\n“I mean, you could tag along with a familiar…” Soma says.\n\nShe casts *Find Familiar*, and a rat joins our surveillance, small enough to belong beside the wet steps without explanation. Through its eyes and ears she can examine what waits below, provided it remains within a hundred feet of her. A useful extension of our attention, although the sewer is unlikely to respect the limit.\n\nThe carriers bring their loads down.\n\n“All nine of them?” Soma asks.\n\nAll nine. Eight accumulate together beside the grille, and on those eight I can see no official Commission Harbor mark. Whatever journey brought them into Neverwinter has omitted the authorities’ preferred opportunities to inspect, record, and collect. The absence is consistent with what we already know; the arrangement interests me more.\n\n“So we want one person to track down the gnome, right? Crate nine,” Vukradin says. “We also want to track the people who dropped them. So we want to do two things.”\n\n“What, you said you got your high stealth.”\n\n“If you want, I can track the gnome. You guys can go do the… the sewers.”\n\n“Well, I'm tracking the crate,” Soma says.\n\n“Which crate?”\n\n“The ninth crate, the one that doesn't go into Lim, because I'm more concerned about my friend's shady business.”\n\nI keep my attention on the men while the assignments circulate. Lim’s eight crates are together; the ninth is being handled separately. Our prospective quarry has not yet appeared, and already its parcel commands more discussion than the men who bring it.\n\n“Okay, so you want me to follow them back into the sewers?” Vukradin asks. “That seems pretty dangerous. One party member in the sewers.”\n\n“I see. Alright, we can send the rat that way, then. You can follow the crate.”\n\nOne carrier places the ninth crate on the ledge. He pauses there, looks down into the dark, and then leaves it. His companion continues stacking boxes.\n\nThe glance is brief enough to be mistaken for caution. There is wet stone underfoot, after all, and an opening beside him. But he looks into the place from which something might arrive. I mark the distinction.\n\n“The rat's gonna go whichever way leads to the sewer,” Soma says.\n\nVukradin works through the division again, giving each part its own sentence.\n\n“So, look, the… The crates got dropped off. Lim's gonna come out and take eight of the crates.”\n\n“Right.”\n\n“And she's not gonna take a ninth crate.”\n\nThe isolated box rests on its ledge while the carriers finish. Neither has any apparent intention of waiting beside it.\n\n“Vukradin is gonna stick around and stealthily wait to see who comes to get the ninth crate, and then track it.”\n\n“So everyone other than Vukradin is gonna trail these guys, and Vukradin's gonna trail the crate,” I say. “Is that right?”\n\n“Yes,” Vukradin says.\n\n“Yes,” Soma agrees.\n\nAn assignment, finally. Then the carriers reach the point at which they might naturally exchange a glance, a word, some small acknowledgment of having just performed the same work, and carefully do none of these things. They walk away in different directions.\n\n“That nonchalant whistling,” Soma says.\n\nI watch their refusal to look at one another. It takes discipline to suppress every ordinary acknowledgment, but rather better discipline to know which acknowledgments should remain. Their separation advertises an intention to separate.\n\n“So if they split up, that's gonna make them hard to follow,” Vukradin says. “You're gonna have to choose one or split again.”\n\nThe man at the ledge is my choice, though I examine the conclusion before trusting it. Handling the exceptional crate does not necessarily make him senior; an instructed servant can perform a special errand without understanding it. At first the evidence gives me only that much. Then I hold his pause against his companion’s uninterrupted stacking, letting Vukradin’s last encouragement steady my attention.\n\nOne man completes a physical task. The other checks for its continuation.\n\nI cannot establish rank from a glance. I can identify which man expects something to emerge from the sewer.\n\n“I'd follow the guy who paid attention to the ledge,” Soma says. “He knows something. He knows something's coming out of that thing.”\n\nThat is sufficient agreement. Brewbarry, Soma, and I will follow him.\n\n“I could handle this myself, guys, you don't trust me?”\n\nBefore the question requires an answer, something comes up for the ninth crate.\n\nI am surprised. I had allowed for a collector, including the gnome Vukradin expects; what appears is cat-sized, brass and leather, quick in its movements without displaying any haste. It takes the crate and goes back down. There is no examination of the other eight, no search for a mark, no hesitation over which object belongs to it.\n\nThe carrier’s downward glance acquires a more precise meaning. He was checking for an expected collection, and the thing collecting needs neither greeting nor payment here. Whether he knows who instructs it remains unanswered.\n\n“Okay, Vukradin will pursue stealthily.”\n\n“This is my concern,” Soma says. “Vukradin ends up going into the sewers now, and…”\n\n“I'll be fine.”\n\n“One person in the sewers? Alright.”\n\nThe objection is almost exactly the one he raised himself a short while ago. Apparently the appearance of something sufficiently interesting has altered the acceptable number of companions.\n\n“Tell me the odds,” Soma says.\n\n“Only a one in four hundred chance of disaster. It'll be fine.”\n\nA remarkably specific confidence. His boots can suppress the sound of his approach; I see no reason to assign them authority over everything he may approach.\n\nNevertheless, the construct is withdrawing, and our carrier is leaving. Vukradin follows the brass-and-leather collector below while the three of us take the street after the man who watches ledges. The grille falls behind us. I have no view of Vukradin’s progress once he descends.\n\nOur man stops at a cook shop.\n\nAt the fourth hour, there are few open doors offering food, and this is one of them. He settles to breakfast alone, apparently content with the meal. No companion joins him. He speaks to no waiting contact that I can see. Having left eight crates for Lim and one for a construct, he applies himself to eating.\n\n“Can't be a lot of those,” Soma says of the open shop.\n\nAn early meal is a reasonable end to a delivery. It is also an inconvenient one for those hoping the delivery will lead directly to an employer. I watch him eat, allowing neither possibility to improve the evidence.\n\nVukradin’s voice reaches Soma through her Sending Stone.\n\n“By the way, Soma, you have one of the Sending Stones, and I have the other.”\n\n“Good to know.”\n\nThe paired stones give our separated inquiries a means of reaching one another. They do not shorten the streets between us or improve the approach through the grille, but I prefer a distant voice to an unexplained absence.\n\n“So we could have little walkie-talkies over. Yeah.”\n\n“We have walkie-talkies.”\n\nSoma turns her attention back toward the meal.\n\n“He's not eating turtle soup or anything at this hour, is he?”\n\nI cannot identify the contents from here. He continues eating with an equanimity our investigation has done nothing to disturb.\n\n“It's not the Board Laid Bare he's at, of course, he's somewhere else,” she says.\n\nLim’s establishment might have given the stop an immediate significance. This shop offers only a man at breakfast.\n\n“He's just eating alone. He isn't talking to anybody.”\n\nWe have chosen the carrier who appears to know more, but knowing more does not oblige him to demonstrate it between mouthfuls. We could approach. We could ask. Either would make our interest part of his morning, and from that moment every subsequent choice might be made for our benefit.\n\n“Remember, we promised Lim we're not gonna spook her connections,” Vukradin reminds Soma through the stone, then refines the ownership of the obligation. “Or you promised them.”\n\n“Thank you so much.”\n\nI appreciate the correction. Vukradin can impose the full weight of a promise while keeping an exact account of whose neck it rests upon.\n\n“I'm not trying to put her out of business,” Soma says. “I want to see where he goes next. Stopping for a snack doesn't tell us anything, and spooking him doesn't seem kosher.”\n\nWe leave him to his breakfast. Brewbarry remains with us, and the man gives us no reason yet to move; below the street, Vukradin still has the more unusual trail.\n\nThen his voice comes again.\n\n“Okay… I don't think that's gonna go very well.”\n\n“Good times,” I say.\n\n“I mean, okay, there's some passive charm effect or something.”\n\nThe stone supplies his voice without the tunnel around it. I cannot inspect what he has encountered, cannot see the construct, cannot even judge his position from the sound. His account gives us a sudden disinterest in the route, an overwhelming conviction that continuing along it is boring and not worth his time.\n\n“Turn into Brewbarry,” Soma says.\n\n“A passive confusion effect. Alright, awesome.”\n\nVukradin tries to name what is happening while it is happening. I listen for what he still knows, since a mistaken description is less troublesome than a missing purpose.\n\n“Well, it can't have been cast directly on me.”\n\nThen: “This is, like, an area effect.”\n\nThat is his assessment from below. From here I have a carrier eating breakfast and a bard explaining why the passage he entered in pursuit of a construct has ceased to merit pursuit. I have no basis for naming a spell.\n\nWhat becomes clear is that he remembers why he went underground. He remembers where he is. The purpose survives; the willingness to follow this particular tunnel does not. He decides it is the wrong way to go and turns away from the construct’s trail.\n\nThrough the stone comes his final acknowledgment.\n\n“Okay.”"}};
+function show(id,side){const choice=document.getElementById(id+'-'+side+'-select').value;document.getElementById(id+'-'+side).textContent=data[id][choice];}
+for(const id of Object.keys(data)){document.getElementById(id+'-right-select').value='c';show(id,'left');show(id,'right');}
+</script></html>

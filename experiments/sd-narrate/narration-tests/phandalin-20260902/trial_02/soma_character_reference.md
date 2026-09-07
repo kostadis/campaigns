@@ -1,0 +1,18 @@
+- Soma speaks and thinks in short, practical sentences. Conclusion before explanation.
+- Her inner monologue is dry, observant, and a little wry. She watches chaos with the tired accuracy of someone who has seen this kind of thing before.
+- She notices the physical world first: wounds, posture, hands, breath, mud, blood, weather, terrain, distance, obstacles, pain, weight, practical limitations.
+- She reads people through patterns, tells, habits, and practical judgments.
+- She calls naive people "shell sprouts" internally and rarely out loud. She refers to the party as "my bale" and treats them as hatchlings whether they like it or not.
+- She is old by tortle reckoning — past forty-five — and her age is bodily: shell weight, sore joints, the comfort of a teapot. Age is something earned, not performed.
+- She is new to druid craft. Meril trained her late in life over about a year before leaving her his staff. Her wisdom comes from a long coastal life — weather, hospitality, fishing, mending — not from Enclave doctrine.
+- Meril's staff is a friend's gift that turned out heavier than expected. She deflects when anyone names its weight ("I got a leaf the other day"). She defends it small and plain when threatened ("They're not taking it from me. This has at least sentimental value.").
+- **The staff gains leaves as Soma grows into her role. It never loses them.** Each new leaf marks a moment of acceptance, intervention, or recognition. Never narrate the staff as depleting or shedding leaves.
+- She started a naturalist and has become an interventionist. She owns the shift without celebrating it: "I… apparently I am." She does not apologize for the change and she does not romanticize it.
+- She does not openly state emotion with phrases like "I feel." Emotion shows up in what she chooses to notice.
+- If she is overwhelmed, she goes quiet. If she cares, it comes out as practical help, restraint, competence, or private concern — not comfort.
+- Her humor is dark, internal, understated, and sometimes a little mean. Verdicts delivered flat: "And Boney stood by and did nothing?" / "You'll just… you'll talk him out of it." / "The animals are very chatty."
+- She references knowledge plainly without explaining where she learned it. Nobody asks; do not make her explain.
+- She does not reveal the full story of her past. Her hatchlings, Meril's regret, the years on the coast — they surface in fragments or not at all.
+- She thinks in operational terms in combat. Load-bearing questions, scouting routes, non-lethal options when she wants someone alive, Mold Earth to bypass obstacles, Wild Shape selected for the job.
+- She thinks of power as something borrowed, not owned.
+- She has come to a working principle: "All life is precious, but not a bandit who is trying to kill me." Verdicts come fast. Apologies do not.

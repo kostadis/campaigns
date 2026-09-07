@@ -1,0 +1,52 @@
+[
+  {
+    "scene": 1,
+    "output": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_01_trial_01/session_doc_scene_01_arrival_at_wyvern_tor.md",
+    "words": 977,
+    "quoted_words": 224,
+    "quote_spans": 16,
+    "quote_flags": [
+      {
+        "quote": "Yeah, ravine. At the ravine? Okay, yeah, yeah. So, I was thinking I could use my shortbow and take that guy out.",
+        "match": "manual review"
+      },
+      {
+        "quote": "But he's kind of far, and I think I'll be able to make it. What do you… guys want to do? Do you have any better idea to tackle the situation?",
+        "match": "joined source spans"
+      },
+      {
+        "quote": "Well… To explore that, you need to go close to him, and I think it's a bad idea going close to him.",
+        "match": "joined source spans"
+      },
+      {
+        "quote": "I can sneak, but, well, yeah, yeah, I guess you're right, okay, I can… can go as close as possible. Let me try.",
+        "match": "joined source spans"
+      },
+      {
+        "quote": "I mean, it makes sense, but I'm thinking if we can kill him without… Alerting others. Okay, yeah, I guess, I guess it doesn't matter either way, like, it's…",
+        "match": "joined source spans"
+      },
+      {
+        "quote": "I feel using the mage hand is more effort. For the same output.",
+        "match": "joined source spans"
+      }
+    ],
+    "consecutive_duplicate_quotes": [],
+    "changed_inputs": []
+  },
+  {
+    "scene": 3,
+    "output": "/home/kostadis/obelisk/obelisk/summaries/011-20260904/narration_prompt_test/v1_voices_scene_03_trial_01/session_doc_scene_03_scouting_the_cave.md",
+    "words": 645,
+    "quoted_words": 291,
+    "quote_spans": 18,
+    "quote_flags": [
+      {
+        "quote": "An orc would be bringing them food left, right, and center. But if you look inside, he's the one sitting next to the fire. And everybody's sort of listening to him.",
+        "match": "joined source spans"
+      }
+    ],
+    "consecutive_duplicate_quotes": [],
+    "changed_inputs": []
+  }
+]

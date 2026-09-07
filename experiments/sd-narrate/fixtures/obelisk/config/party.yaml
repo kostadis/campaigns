@@ -1,0 +1,16 @@
+characters:
+- name: Zenvon Forepot
+  sheet: characters/zenvon.md
+  voice: voice/zenvon_voice.md
+  examples: examples/zenvon.md
+- name: Veyra of the Blue Candle
+  sheet: characters/veyra.md
+  voice: voice/veyra_voice.md
+- name: Sister Maela Dawnforge
+  sheet: characters/maela.md
+  voice: voice/maela_voice.md
+- name: Pip Thistlewick
+  sheet: characters/pip.md
+  voice: voice/pip_voice.md
+shared_examples:
+- examples/house_style.md
