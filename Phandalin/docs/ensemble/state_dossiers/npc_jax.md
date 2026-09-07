@@ -1,20 +1,19 @@
 ---
 name: Jax
 type: npc
-n_facts: 1
-chapters: 4-4
+n_facts: 4
+chapters: 6-6
 ---
 
 ### Jax
 
-- **Current status:** Alive (no facts indicate otherwise).
-- **Current location:** Unknown (no facts supplied).
-- **Allegiance/faction:** Associate of bandits; notably *not* aligned with the Carver.
-- **Current possessions / notable items:** None known.
-- **Current assignment / role and key relationships:** Recently worked with a bandit (who said so); no other relationships or reporting structure known.
-- **Defining recent actions:** Collaborated with the bandit in some capacity as of chapter 4.
-- **Revealed motivations or secrets:** None supplied.
+- **Current status:** Alive (status not otherwise contradicted; no death reported).
+- **Current location:** Unknown.
+- **Allegiance / faction:** Works for the Carver (presumed intermediary or agent; the bandit states they never met the Carver directly).
+- **Current assignment / role:** Unclear; the spider-fearing bandit was directed by Jax rather than the Carver.
+- **Key relationships:** The spider-fearing bandit is the only individual confirmed to have worked with Jax; the bandit has never met the Carver.
+- **Defining recent actions / revealed information:** Jax is the direct contact point for at least one bandit operating under the Carver's organization, serving as a layer between the bandit and the Carver.
 
 ## Uncertainty
-- No facts contradict each other, but the nature, timing, and context of the "work" with the bandit are unspecified.
-- Current location, allegiance beyond this single association, and any other relationships are unknown; "worked with" could imply past employment, a one-time job, or ongoing partnership — not resolvable from the facts.
+- The relationship between Jax and the Carver is inferred (presumed intermediary/subordinate) from the bandit's statement that they "just worked with Jax" and "never met" the Carver — not explicitly stated.
+- Jax's physical condition, current location, and any further affiliations are unsubstantiated by the provided facts.

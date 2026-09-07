@@ -1,27 +1,22 @@
 ---
 name: Tiamat
 type: npc
-n_facts: 2
+n_facts: 1
 chapters: 1-1
 ---
 
 ### Tiamat
 
-**Type:** NPC (deity)
-
-**Current status:** Alive (as a deity, exists in her divine capacity).
-
-**Current location:** Avernus (co-resident).
-
-**Allegiance/faction:** None friendly; deceived and exploited the Cult of the Dragon and Severin.
-
-**Current possessions / notable items, spells, feats, wounds:** None specified.
-
-**Current assignment / role and key relationships:** Co-resident of Avernus; previously the intended beneficiary of a Cult of the Dragon plot to bring her into the world, orchestrating that plot through Severin.
-
-**Defining recent actions:** Duped Severin and the Cult of the Dragon into attempting to bring her into the world. She believed the plan was her own, but it was not — someone else was manipulating events behind her.
-
-**Revealed motivations or secrets:** Desires to enter the world; unaware that her own plan was not truly hers, suggesting a hidden manipulator.
+- **Current Status:** Alive (as an entity; no death or incapacitation reported).
+- **Current Location:** Avernus (co-resident).
+- **Allegiance/Faction:** Self-interested; adversarial to the Cult of the Dragon.
+- **Current Possessions / Notable Items:** None reported.
+- **Spells / Feats / Wounds:** None reported.
+- **Current Assignment / Role & Key Relationships:** Co-resident of Avernus; manipulated Severin and the Cult of the Dragon.
+- **Defining Recent Actions:** Duped Severin and the Cult of the Dragon into attempting to bring her into the world—an apparent deception on her part.
+- **Revealed Motivations / Secrets:** Willing to deceive her own would-be summoners to achieve entry into the world (implying her goals supersede the Cult's plans).
 
 ## Uncertainty
-- The identity of whoever or whatever actually originated the plan (the one who made Tiamat think it was hers) is not stated in the provided facts.
+- The nature of her deception (what she gains versus what the Cult believes) is not specified—only that she "duped" them.
+- Whether she remains in Avernus *currently* or has begun the process of entering the world is unclear; fact states she attempted to be brought into the world via the Cult's actions, but her current location is listed as Avernus.
+- No information on her current allies, enemies (beyond the Cult), or any items/abilities she may possess.

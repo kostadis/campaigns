@@ -1,19 +1,21 @@
 ---
 name: Pog
 type: npc
-n_facts: 6
-chapters: 3-3
+n_facts: 7
+chapters: 5-5
 ---
 
 ### Pog
 
-- **Type:** NPC (gnome)
-- **Current status:** Alive
-- **Current location:** Gnomengarde, at the bridge where the party arrived
-- **Occupation/Role:** Male gnome guard at Gnomengarde
-- **Key relationships:** Recently seen sitting with Ulla (a gnome at Gnomengarde)
-- **Defining recent actions:** Introduced himself as “Pog” when the party arrived after crossing the bridge
-- **Revealed details:** Ulla noted that Pog has “looked a little bit different the past few days”
+**Current Status:** Alive
+**Location:** In a chamber with a bridge, where he and Ulla are sitting (location reached by the party).
+**Allegiance/Faction:** None identified.
+**Current Possessions / Notable Items:** None identified.
+**Current Assignment / Role & Key Relationships:** Guard posted in the chamber; seated alongside Ulla (the other gnome present). Interacted with Vukradin (asked whether Vukradin is a shapechanger; motioned for him to stop; asked why the party was there). Shouted his name, "Pog," in Gnomish upon the party's arrival.
+**Defining Recent Actions:** Shouted in Gnomish as the party arrived; introduced himself as "Pog"; challenged Vukradin about being a shapechanger; asked why the party was there.
+**Revealed Motivations / Secrets:** None identified.
 
 ## Uncertainty
-- None.
+- Pog's current relationship to Ulla (allies, co-guards, or something else) is not specified — only that both were seated together.
+- Whether Pog's guard role is active or dormant when seated is unclear; he may be a sentry, but no explicit guard duty is stated.
+- The exact reason for his suspicion of shapechanging (e.g., prior events, local threat) is unknown.

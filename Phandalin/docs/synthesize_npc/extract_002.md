@@ -1,10 +1,10 @@
 ## NPC Activity
 
-**Fiddlestib and Dabblebob (gnome inventors)**
-Appeared at their workshop to receive proof of the mimic's death. Immediately began discussing how to create a construct from the creature's entrails. Later overheard the party's conversation with the two kings and began arguing about bicameral legislatures and tamper-proof voting boxes. Fiddlestib declared herself in favor of a bicameral legislature with a unitary executive; Dabblebob preferred more kings for voting purposes.
+**Fibblestib and Dabbledob (gnome inventors)**
+Appeared at their workshop to receive proof of the mimic's death. Immediately began discussing how to create a construct from the creature's entrails. Later overheard the party's conversation with the two kings and began arguing about bicameral legislatures and tamper-proof voting boxes. Fibblestib declared herself in favor of a bicameral legislature with a unitary executive; Dabbledob preferred more kings for voting purposes.
 
-**King Korboz and King Gnercli (dual monarchs)**
-Appeared in the throne room to reward the party. Korboz complained that Gnercli does not believe him. Gnercli asserted his equal authority. Both kings were destabilized by Vukradin's rhetorical questioning about seniority and authority within a dual monarchy. Korboz subsequently asserted that as senior king he deserved preferential treatment. Gnercli provided the promised magical hat reward and dismissed the party. Their political relationship has been significantly strained.
+**King Korboz and King Gnerkli (dual monarchs)**
+Appeared in the throne room to reward the party. Korboz complained that Gnerkli does not believe him. Gnerkli asserted his equal authority. Both kings were destabilized by Vukradin's rhetorical questioning about seniority and authority within a dual monarchy. Korboz subsequently asserted that as senior king he deserved preferential treatment. Gnerkli provided the promised magical hat reward and dismissed the party. Their political relationship has been significantly strained.
 
 **Adabra Gwynn (healer/potion-maker, Umbrage Hill)**
 Found besieged by a manticore atop Umbrage Hill windmill. Refused to leave her windmill despite the party's attempts to escort her, citing her role in the natural order and her potion-crafting work. Revealed herself to be a member of the Emerald Enclave, naturalist faction. Warmed significantly to Soma upon learning of her naturalist druidic beliefs. Provided a note for Townmaster Harbin confirming the party's service and requesting their reward, along with a medical note for Harbin's treatment. Hosted the party overnight, providing a meal. The following morning, reversed her refusal to travel to Phandalin upon learning Vukradin's principled objection to monster-plunder gold, declaring solidarity with the naturalist cause. Accompanied the party back to Phandalin. Confronted Townmaster Harbin directly and advocated loudly for increased payment to the party. Before the party departed for the Tower of Storms, approached Soma privately near Barthen's Provisions to report an unnatural corruption affecting an old grove past Whisper Woods.
@@ -83,8 +83,8 @@ An orc warband ambushed the party on the coastal trail. Observed to be unusually
 - **Adabra Gwynn**: Last seen near Barthen's Provisions on the road out of Phandalin; may have returned to Umbrage Hill or accompanied the party partway.
 - **Corbin**: Assigned to assist Adabra; last seen at Umbrage Hill windmill.
 - **Ser Kaelen Thorn**: Was preparing to leave Phandalin from Barthen's Provisions; last confirmed in Phandalin after the Elara/Jarek escort.
-- **King Korboz and King Gnercli**: Gnome settlement; relationship significantly destabilized.
-- **Fiddlestib and Dabblebob**: Gnome settlement, engaged in political debate about governance structures.
+- **King Korboz and King Gnerkli**: Gnome settlement; relationship significantly destabilized.
+- **Fibblestib and Dabbledob**: Gnome settlement, engaged in political debate about governance structures.
 - **Elara and Jarek**: Returned safely to Phandalin.
 - **Unknown Orc Warband**: Last known position on the coastal trail en route to the Tower of Storms; ambush disrupted by the party.
 - **The Carver**: Location unknown. Operating somewhere in the Phandalin region.

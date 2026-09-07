@@ -1,0 +1,20 @@
+{
+  "scene": "Scene 3 — Lost in Rsolk's Tunnels",
+  "edits": [
+    {
+      "id": "s03-01",
+      "before": "\"we have kind of an arm's length relationship with the Common Chord, but I will ask for you.\"",
+      "after": "\"We have kind of an arm's-length relationship with the Common Chord, but I will ask for you.\"",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Correct sentence capitalization and the compound modifier without changing Soma's qualified promise.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/03_encounter_in_the_sewers.md",
+          "quote": "\"we have kind of an arm's length relationship with the Common Chord, but I will ask for you.\""
+        }
+      ]
+    }
+  ],
+  "observations": []
+}

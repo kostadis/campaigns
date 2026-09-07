@@ -3,59 +3,324 @@ note: 'Proposals, not canon — but this file IS read downstream: the planning d
   (rejected/deferred are a one-way door; a ratified candidate returns when later chapters mention it).
   Ratify on the Threads page (/grounding/threads) or with the thread_registry verbs.'
 proposals:
-- norm: creature-terrorizing-the-cave-system
-  title: creature terrorizing the cave system
+- norm: adventurer-compensation
+  title: adventurer compensation
   all_titles:
-  - creature terrorizing the cave system
+  - adventurer compensation
   matches: null
   chapters:
-  - 3
+  - 2
   status: pending
   evidence:
-  - chapter: 3
-    fact: King Gnercli says there is a creature terrorizing the cave system and asks if Vukradin can deal
-      with it.
-    quote: Look, there is some kind of creature that is terrorizing our cave system. Can you deal with
-      it or not?
+  - chapter: 2
+    fact: Adventurers performing dangerous work for Neverwinter will not receive salaries or benefits
+      but will keep whatever treasure they recover from the monsters they defeat.
+    quote: the people performing this dangerous work will not receive salaries or benefits. We are contractors.
+      Our compensation is whatever treasure we recover from the monsters we defeat.
     source: chapter
-- norm: creatures-nature
-  title: creature's nature
+- norm: ambush-prone-mountain-pass
+  title: ambush-prone mountain pass
   all_titles:
-  - creature's nature
-  matches: null
-  chapters:
-  - 3
-  status: pending
-  evidence:
-  - chapter: 3
-    fact: The creature is not bipedal and could shape shift into big things.
-    source: chapter
-- norm: dragon-threat
-  title: dragon threat
-  all_titles:
-  - dragon threat
-  matches: null
-  chapters:
-  - 3
-  status: pending
-  evidence:
-  - chapter: 3
-    fact: The party is on a mission to acquire a device to fight a dragon.
-    quote: the mayor is looking for some kind of magical device that can help fight against the threat
-      of the dragon.
-    source: chapter
-- norm: inventors-tamper-proof-voting-box
-  title: inventors' tamper-proof voting box
-  all_titles:
-  - inventors' tamper-proof voting box
+  - ambush-prone mountain pass
   matches: null
   chapters:
   - 4
   status: pending
   evidence:
   - chapter: 4
-    fact: The inventors argue over whether a tamper-proof voting box is possible.
-    quote: Or rather, arguing over whether such a thing is possible.
+    fact: The mountain pass narrows around a bend with loose stone and rising ground, good terrain for
+      an ambush.
+    quote: The pass narrows around a bend. Loose stone covers the slopes, and the ground rises sharply
+      on either side. Good terrain for an ambush.
+    source: chapter
+- norm: bob-the-demon-play
+  title: Bob the Demon play
+  all_titles:
+  - Bob the Demon play
+  matches: null
+  chapters:
+  - 6
+  status: pending
+  evidence:
+  - chapter: 6
+    fact: Soma learns about a play in Triboar featuring a main actor always dressed as a Demon named Bob,
+      whose performances were legendary.
+    source: chapter
+- norm: bobs-play-script
+  title: Bob's play script
+  all_titles:
+  - Bob's play script
+  matches: null
+  chapters:
+  - 6
+  status: pending
+  evidence:
+  - chapter: 6
+    fact: Vukradin had been trying for years to get the script of the Triboar play involving Bob and shouts
+      about doing a revival.
+    source: chapter
+- norm: broken-gate-cause
+  title: broken gate cause
+  all_titles:
+  - broken gate cause
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Vukradin asks why the gate is broken, and the party hears stories of a white dragon flying around
+      the area.
+    quote: I've heard stories of a white dragon flying around here. Perhaps that killed the gate.
+    source: chapter
+- norm: buried-temple-wing
+  title: buried temple wing
+  all_titles:
+  - buried temple wing
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: The rubble has buried the temple wing beyond the earthquake chamber.
+    quote: It has sealed another entrance and buried the temple wing beyond it.
+    source: chapter
+- norm: collapsed-northeast-entrance
+  title: collapsed northeast entrance
+  all_titles:
+  - collapsed northeast entrance
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: The sealed northeast entrance and buried temple wing beyond the rubble remain unexcavated and
+      may be explored later.
+    quote: We can dig later, when the temple has fewer ways to fall on my bale.
+    source: chapter
+- norm: construct-from-entrails
+  title: construct from entrails
+  all_titles:
+  - construct from entrails
+  matches: null
+  chapters:
+  - 6
+  status: pending
+  evidence:
+  - chapter: 6
+    fact: Fiddlestib and Dabblebob discuss what kind of construct they could create from the creature's
+      entrails.
+    quote: they started discussing what kind of construct they could create from the creature's entrails.
+    source: chapter
+- norm: corruption-in-harbins-quest-offer
+  title: Corruption in Harbin's quest offer
+  all_titles:
+  - Corruption in Harbin's quest offer
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Vukradin reads the Gnomengarde terms aloud, calling it corruption in ink because Harbin offers
+      to buy whatever useful object the adventurers remove from the rock gnomes.
+    quote: He is offering to buy whatever useful object we can remove from the rock gnomes and do not
+      personally want.
+    source: chapter
+- norm: dagger-reveal-decision
+  title: dagger reveal decision
+  all_titles:
+  - dagger reveal decision
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: Valphine decides what Vukradin sees when he arrives at the priest's remains is what she chooses
+      to show him.
+    quote: what he will see, when he arrives, is exactly what I choose to show him.
+    source: chapter
+- norm: dagult-neverembers-plan
+  title: Dagult Neverember's plan
+  all_titles:
+  - Dagult Neverember's plan
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Dagult Neverember's plan is growth in trade, outposts, safer roads, and civilization extending
+      south, with a limited budget.
+    quote: 'Dagult Neverember’s plan is growth: trade, outposts, safer roads, and civilization extending
+      south. His budget is limited'
+    source: chapter
+- norm: dragon-near-phandalin
+  title: dragon near Phandalin
+  all_titles:
+  - dragon near Phandalin
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Vukradin asks if the party gets paid if they kill the dragon, and is told the dragons have hoards.
+    quote: I'm told the dragons have hoards.
+    source: chapter
+- norm: dragon-problem
+  title: dragon problem
+  all_titles:
+  - dragon problem
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Toblen warns of a small dragon problem near Phandalin.
+    quote: we do have a small dragon problem.
+    source: chapter
+- norm: dragon-warning
+  title: dragon warning
+  all_titles:
+  - dragon warning
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: The party was contracted to warn the dwarves about a dragon, and the warning is delivered.
+    source: chapter
+- norm: faith-of-a-drow
+  title: faith of a drow
+  all_titles:
+  - faith of a drow
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Norbus's disbelief remains that a drow carrying a Lathander symbol is structurally false despite
+      Valphine's confession.
+    quote: a drow may carry the symbol, explain the doctrine, and still remain structurally false
+    source: chapter
+- norm: fifty-gold-payment
+  title: fifty gold payment
+  all_titles:
+  - fifty gold payment
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: The party will receive fifty gold pieces for delivering the warning to the dwarf prospectors.
+    source: chapter
+- norm: gem-of-greed
+  title: Gem of Greed
+  all_titles:
+  - Gem of Greed
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: Valphine composes a scene of the demon attacking the gnomes for stealing the Gem of Greed.
+    quote: The demon attacks the gnomes for stealing the Gem of Greed.
+    source: chapter
+- norm: gnomengarde-payment-corruption
+  title: Gnomengarde payment corruption
+  all_titles:
+  - Gnomengarde payment corruption
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Vukradin interprets the Gnomengarde quest as corruption, saying Harbin is offering to buy whatever
+      useful object they can remove from the rock gnomes.
+    quote: He is offering to buy whatever useful object we can remove from the rock gnomes and do not
+      personally want.
+    source: chapter
+- norm: gnomengarde-quest
+  title: Gnomengarde quest
+  all_titles:
+  - Gnomengarde quest
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: The party's quest is to trade with the gnomes at Gnomengarde for 50 gold pieces.
+    quote: We can get whatever we can. We might be able to get nothing — and then we've gotten whatever
+      we can, and we get our 50 gold pieces.
+    source: chapter
+- norm: gods-walking-the-world
+  title: gods walking the world
+  all_titles:
+  - gods walking the world
+  matches: null
+  chapters:
+  - 1
+  status: pending
+  evidence:
+  - chapter: 1
+    fact: The people of the Realms hoped that the era of mischief from the gods walking the world would
+      end.
+    quote: the people of the Realms hoped that the era of mischief from the gods walking the world would
+      end
+    source: chapter
+- norm: green-gem-left-in-statue
+  title: green gem left in statue
+  all_titles:
+  - green gem left in statue
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: The green stone humming with magic stays in the cupped hands of the greed god on the strength
+      of one long squint.
+    quote: So a green stone humming with magic stays in the cupped hands of a greed god, on the strength
+      of one long squint.
+    source: chapter
+- norm: harbins-fear
+  title: Harbin's fear
+  all_titles:
+  - Harbin's fear
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: Harbin Wester's fear has an unknown cause.
+    quote: He is afraid.
+    source: chapter
+- norm: historical-significance-of-gem
+  title: historical significance of gem
+  all_titles:
+  - historical significance of gem
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: Dazlyn and Norbus were looking for the Hall of Greed and are excited about the historical significance
+      of finding an intact gem.
+    quote: we were looking for the Hall of Greed. Found it! This is great — this was a success — this
+      is awesome. The historical significance of finding an intact gem, and—
     source: chapter
 - norm: king-korbozs-madness
   title: King Korboz's madness
@@ -63,170 +328,537 @@ proposals:
   - King Korboz's madness
   matches: null
   chapters:
-  - 3
+  - 5
   status: pending
   evidence:
-  - chapter: 3
-    fact: Gnomengarde's inventors are focused on curing King Korboz's madness.
+  - chapter: 5
+    fact: King Korboz's madness is a central problem the gnomes seek to cure, and the cause is claimed
+      to be a shape-changing creature.
     quote: we are entirely focused on a cure for King Korboz’s madness.
     source: chapter
-- norm: ordning-reinstated
-  title: Ordning reinstated
+- norm: laws-of-the-hinterland
+  title: laws of the hinterland
   all_titles:
-  - Ordning reinstated
+  - laws of the hinterland
   matches: null
   chapters:
-  - 1
+  - 2
   status: pending
   evidence:
-  - chapter: 1
-    fact: Had the Ordning not been reinstated, and had the Giants initiated an assault on the cities,
-      the outcome would have been catastrophic.
-    quote: Had the Ordning not been reinstated, and had the Giants initiated an assault on the cities,
-      the outcome would have been catastrophic.
+  - chapter: 2
+    fact: The city guard explains that outside Neverwinter's walls the laws of Neverwinter do not apply,
+      and adventurers are sent to pacify areas so the laws can be established.
+    quote: Outside of the civilized boundaries of Neverwinter's walls, the laws of Neverwinter do not
+      apply. And that is why we need you to go and establish civilization, to pacify the areas so that
+      the laws can be done.
     source: chapter
-- norm: rules-of-aos
-  title: rules of Aos
+- norm: magical-device-for-dragon-threat
+  title: magical device for dragon threat
   all_titles:
-  - rules of Aos
+  - magical device for dragon threat
   matches: null
   chapters:
-  - 1
+  - 5
   status: pending
   evidence:
-  - chapter: 1
-    fact: The rules of Aos always have exceptions, which convinced the gods to try again.
-    quote: the rules of Aos always have exceptions
+  - chapter: 5
+    fact: Vukradin explains that the mayor is looking for some kind of magical device that can help fight
+      against the threat of the dragon.
+    quote: Vukradin explains that the mayor is looking for some kind of magical device that can help fight
+      against the threat of the dragon.
     source: chapter
-- norm: sanity-ray-vs-straitjacket-debate
-  title: sanity ray vs straitjacket debate
+- norm: manifest-destiny-fetch-quest
+  title: manifest destiny fetch quest
   all_titles:
-  - sanity ray vs straitjacket debate
+  - manifest destiny fetch quest
   matches: null
   chapters:
-  - 3
+  - 2
   status: pending
   evidence:
-  - chapter: 3
-    fact: Fibblestib and Dabbledob argue over Fibblestib's proposed sanity ray versus Dabbledob's proposed
-      straitjacket with no holes for the hands.
+  - chapter: 2
+    fact: The quest is literally just delivering a letter—a fetch quest, reverse delivery.
     source: chapter
-- norm: shapeshifter-threat
-  title: shapeshifter threat
+- norm: midwife-quest
+  title: midwife quest
   all_titles:
-  - shapeshifter threat
-  matches: null
-  chapters:
-  - 3
-  status: pending
-  evidence:
-  - chapter: 3
-    fact: The gnomes of Gnomengarde are on guard against shapechangers, with standing orders to attack
-      them on sight.
-    quote: Your standing orders are only to attack shape changers
-    source: chapter
-- norm: shapeshifters-location
-  title: shapeshifter's location
-  all_titles:
-  - shapeshifter's location
-  matches: null
-  chapters:
-  - 3
-  status: pending
-  evidence:
-  - chapter: 3
-    fact: King Gnercli guesses the shapeshifter would hide in the cellar, where there are many barrels.
-    quote: The cellar. There are a lot of barrels.
-    source: chapter
-- norm: stolen-treasure
-  title: stolen treasure
-  all_titles:
-  - stolen treasure
+  - midwife quest
   matches: null
   chapters:
   - 4
   status: pending
   evidence:
   - chapter: 4
-    fact: Vukradin says a fleeing bandit is taking stolen treasure.
+    fact: Harbin Wester mentions a midwife somewhere past the hills as one of two new quests.
+    quote: and a midwife somewhere past the hills
     source: chapter
-- norm: the-carver
-  title: the Carver
+- norm: missing-gnomes-warren-and-orrin
+  title: missing gnomes Warren and Orrin
   all_titles:
-  - The Carver
-  - the Carver
+  - missing gnomes Warren and Orrin
+  matches: null
+  chapters:
+  - 5
+  status: pending
+  evidence:
+  - chapter: 5
+    fact: Warren and Orrin went missing, and King Korboz claims it was a shape-changing creature.
+    quote: two gnomes, Warren and Orrin, went missing and that King Korboz claims it was a shape-changing
+      creature.
+    source: chapter
+- norm: neverwinter-wood-strange-magic
+  title: Neverwinter Wood strange magic
+  all_titles:
+  - Neverwinter Wood strange magic
   matches: null
   chapters:
   - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: Strange magic pervades Neverwinter Wood, confounding navigators and obscuring ancient ruins.
+    quote: Strange magic pervades Neverwinter Wood, confounding navigators and obscuring the ancient ruins
+      of bygone kingdoms lost in its depths.
+    source: chapter
+- norm: orc-ambush
+  title: orc ambush
+  all_titles:
+  - orc ambush
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: The party faces an ambush by four orcs on the road back to town.
+    quote: Four of them cresting the rise with weapons already drawn, spreading to block the road.
+    source: chapter
+- norm: orc-threat-to-phandalin
+  title: orc threat to Phandalin
+  all_titles:
+  - orc threat to Phandalin
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Toblen says that if Neverwinter does not send help soon, the orcs will overrun Phandalin and
+      destroy everything they work to rebuild.
+    quote: If Neverwinter doesn't send help soon, the orcs will overrun Phandalin and destroy everything
+      we work so hard to rebuild.
+    source: chapter
+- norm: orc-tribes-coming-south
+  title: orc tribes coming south
+  all_titles:
+  - orc tribes coming south
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: Orc tribes are coming down from the north, a warning told to the party by innkeeper Toblen at
+      the Stonehill.
+    quote: Orc tribes are coming down from the north.
+    source: chapter
+- norm: orcs-coming-from-the-north
+  title: orcs coming from the north
+  all_titles:
+  - orcs coming from the north
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: The party was warned by the innkeeper Toblen at the Stonehill that orc tribes are coming down
+      from the north.
+    quote: Orc tribes are coming down from the north.
+    source: chapter
+- norm: orcs-threat
+  title: orcs threat
+  all_titles:
+  - orcs threat
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Soma asks why the orcs are causing trouble lately, and Toblen explains it is because the wars
+      depleted Neverwinter's resources.
+    quote: Well, the various wars depleted Neverwinter's resources.
+    source: chapter
+- norm: quest-board-notices
+  title: quest board notices
+  all_titles:
+  - quest board notices
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: 'There are three notices on the quest board: Dwarven Excavation Quest, Gnomengarde, and Umbrage
+      Hill.'
+    quote: There are three notices
+    source: chapter
+- norm: quest-choice
+  title: quest choice
+  all_titles:
+  - quest choice
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: 'The party must choose among three quests: the Dwarven Excavation Quest, Gnomengarde, and Umbrage
+      Hill.'
+    quote: Dwarven Prospectors. Rock Gnomes. And Umbrage Hill.
+    source: chapter
+- norm: quest-for-the-gnomes
+  title: quest for the gnomes
+  all_titles:
+  - quest for the gnomes
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: The party's quest is to trade with the gnomes at Gnomengarde and get whatever they can from
+      them.
+    quote: Get whatever you can from them. So we just need to trade with the gnomes.
+    source: chapter
+- norm: scrolls-rightful-owner
+  title: scroll's rightful owner
+  all_titles:
+  - scroll's rightful owner
+  matches: null
+  chapters:
+  - 6
+  status: pending
+  evidence:
+  - chapter: 6
+    fact: Vukradin reminds Soma that the scroll really should be returned to its rightful owner, and she
+      realizes he has a point.
+    quote: And then I hear the annoying voice of Vukradin reminding me that this really should be returned
+      to its rightful owner.
+    source: chapter
+- norm: sealed-temple-wing
+  title: sealed temple wing
+  all_titles:
+  - sealed temple wing
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: The party plans to dig later into the sealed temple wing when the temple has fewer ways to collapse.
+    quote: We can dig later, when the temple has fewer ways to fall on my bale.
+    source: chapter
+- norm: sending-stones
+  title: sending stones
+  all_titles:
+  - sending stones
+  matches: null
+  chapters:
+  - 2
+  - 3
   status: ratified
   evidence:
-  - chapter: 4
-    fact: A bandit boss called the Carver is referenced but has never been met by the bandit, who worked
-      with Jax.
-    quote: He’s the big boss. And he’s big. I’ve never met him. I just worked with Jax.”
+  - chapter: 2
+    fact: The sending stones would allow Vukradin to project his music to two ends at one time.
+    quote: The sending stones would allow you to project your music to two ends at one time. Just saying.
     source: chapter
-  - chapter: 4
-    fact: A bandit says The Carver is the big boss, whom he has never met, and that he only worked with
-      Jax.
-    quote: He’s the big boss. And he’s big. I’ve never met him. I just worked with Jax.
+  - chapter: 3
+    fact: The dwarves owe the party sending stones for clearing the mine of threats.
+    quote: Somewhere in this mountain the dwarves owe us stones that talk.
     source: chapter
-  - chapter: 4
-    fact: A surviving bandit tells the party about the Carver, his boss.
-    quote: He’s the big boss. And he’s big. I’ve never met him.
+  - chapter: 3
+    fact: The party expects to earn sending stones from the dwarves for their work clearing out the ogres.
+    quote: We're doing our job in clearing out these ogres for the dwarves so we can earn our sending
+      stones.
     source: chapter
-  ruled_thread: the-carver
-- norm: the-deal
-  title: the deal
+  - chapter: 3
+    fact: Vukradin says he is there for the sending stones and the hard-earned 50 gold pieces for delivering
+      the message.
+    quote: sending stones and for the hard-earned 50 gold pieces for delivering the message.
+    source: chapter
+  ruled_thread: sending-stones
+- norm: sending-stones-payment
+  title: sending stones payment
   all_titles:
-  - the deal
+  - sending stones payment
   matches: null
   chapters:
   - 3
   status: pending
   evidence:
   - chapter: 3
-    fact: Vukradin agrees to the deal for 50 gold, despite finding the nature of the deal distasteful.
-    quote: Vukradin ponders the distasteful nature of such a deal, counts the 50 gold in his head, and
-      sighs, “deal.”
+    fact: The party agrees to clear the ruins for the dwarves in exchange for the sending stones, with
+      half due now and the rest after clearing.
+    quote: Give us one sending stone now, and we'll talk. I don't have anything left to give.
     source: chapter
-- norm: the-play-in-triboar
-  title: the play in Triboar
+- norm: slave-freeing
+  title: slave freeing
   all_titles:
-  - the play in Triboar
+  - slave freeing
   matches: null
   chapters:
   - 4
   status: pending
   evidence:
   - chapter: 4
-    fact: A play in Triboar featuring a demon character named Bob is mentioned and a revival is suggested.
-    quote: There was a play in Triboar. It had as its main actor someone who was always dressed in character
-      as a Demon, but had the most ridiculous name, Bob.
+    fact: Vukradin concludes the ogre is a slave and asks to free him, but Valphine notes there are no
+      bonds, brand, or pursuer.
+    quote: Please free him then!
     source: chapter
-- norm: triboar-play-script
-  title: Triboar play script
+- norm: somas-druidic-training
+  title: Soma's druidic training
   all_titles:
-  - Triboar play script
+  - Soma's druidic training
+  matches: null
+  chapters:
+  - 7
+  status: pending
+  evidence:
+  - chapter: 7
+    fact: Soma's story of her druidic training remains a mystery, with noted gaps from limited time.
+    quote: Soma, whose story of her training is still a mystery to me
+    source: chapter
+- norm: somas-original-task
+  title: Soma's original task
+  all_titles:
+  - Soma's original task
   matches: null
   chapters:
   - 4
   status: pending
   evidence:
   - chapter: 4
-    fact: The script for the Triboar play is lost; the Bard wants to recover it for a revival.
-    quote: I am not sure where you would go to find the script, but Triboar is as good a place as any.
+    fact: Soma recalls that they were only supposed to tell the dwarves about a dragon and go back to
+      town.
+    quote: Well, we were just supposed to go tell the dwarves that there was a dragon in the area, and
+      then go back to town.
     source: chapter
-- norm: unpaid-soma
-  title: unpaid Soma
+- norm: somas-payment
+  title: Soma's payment
   all_titles:
-  - unpaid Soma
+  - Soma's payment
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: Soma still needs Vukradin to become wealthy enough to pay her for her services.
+    quote: I still need to get what's-his-face — Vukradin — wealthy enough to pay me for my services,
+      right?
+    source: chapter
+- norm: standing-order-status
+  title: standing order status
+  all_titles:
+  - standing order status
+  matches: null
+  chapters:
+  - 5
+  status: pending
+  evidence:
+  - chapter: 5
+    fact: It is unclear whether the gnome standing order to attack Uthgardt barbarians on sight was renewed
+      at the last meeting.
+    quote: at the last meeting, it was unclear if the ‘attack uthgardian barbarians’ order was renewed
+    source: chapter
+- norm: tariff-search
+  title: Tariff Search
+  all_titles:
+  - Tariff Search
   matches: null
   chapters:
   - 4
   status: pending
   evidence:
   - chapter: 4
-    fact: Soma remembers that she hasn't been paid and decides not to tell Vukradin about the bird that
-      sings a single note all season.
-    quote: I remembered that I hadn’t been paid, and decided not to.
+    fact: Linene Graywind mentions 'Tariff Search' as the cause of the trade disruption.
+    quote: '"Yes. Tariff Search, that''s it."'
+    source: chapter
+- norm: temple-dangers
+  title: temple dangers
+  all_titles:
+  - temple dangers
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: The party does not yet know what dangers lie inside the temple beyond the ochre jelly.
+    quote: “You just said, take care of some nasties and beasties. What have you seen?”
+    source: chapter
+- norm: the-dragon
+  title: the dragon
+  all_titles:
+  - the dragon
+  matches: null
+  chapters:
+  - 3
+  status: pending
+  evidence:
+  - chapter: 3
+    fact: The party did not find the dragon in the hall.
+    quote: but we didn't find a dragon.
+    source: chapter
+- norm: the-gray-begins-at-the-wall
+  title: the gray begins at the wall
+  all_titles:
+  - the gray begins at the wall
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: The city guard says the gray begins at the wall.
+    quote: The gray begins at the wall.
+    source: chapter
+- norm: the-great-schism
+  title: the great schism
+  all_titles:
+  - the great schism
+  matches: null
+  chapters:
+  - 7
+  status: pending
+  evidence:
+  - chapter: 7
+    fact: 'Adabra asks Soma which side she is on in the great schism: naturalist or interventionist.'
+    quote: In the great schism, are you on the naturalist or interventionist side?”
+    source: chapter
+- norm: the-survivor-in-the-jungle
+  title: the survivor in the jungle
+  all_titles:
+  - the survivor in the jungle
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Brewbarry says the land has been crying out, a statement Soma finds unfair.
+    source: chapter
+- norm: trade-disruption
+  title: trade disruption
+  all_titles:
+  - trade disruption
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: Linene Graywind cites tariffs, disruptions, and market force dynamics as reasons for the Coster's
+      reduced business.
+    quote: '"Tariffs. Disruptions. Market force dynamics."'
+    source: chapter
+- norm: vukradins-desperation
+  title: Vukradin's desperation
+  all_titles:
+  - Vukradin's desperation
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Vukradin is desperate and came to Phandalin for this work.
+    quote: I'm desperate. I came to Phandalin for this.
+    source: chapter
+- norm: vukradins-studio
+  title: Vukradin's studio
+  all_titles:
+  - Vukradin's studio
+  matches: null
+  chapters:
+  - 7
+  status: ratified
+  evidence:
+  - chapter: 7
+    fact: Vukradin hopes to get a studio but is not getting paid because he refuses to take money from
+      killing monsters.
+    quote: I am never going to get that studio
+    source: chapter
+  - chapter: 7
+    fact: Vukradin wants a studio but fears he will never get it because he refuses to take monster-slaying
+      money.
+    quote: I am never going to get that studio
+    source: chapter
+  ruled_thread: vukradins-studio
+- norm: whether-the-ogre-is-a-slave
+  title: whether the ogre is a slave
+  all_titles:
+  - whether the ogre is a slave
+  matches: null
+  chapters:
+  - 4
+  status: pending
+  evidence:
+  - chapter: 4
+    fact: The party debates whether the wandering ogre is a slave, with no visible bonds or brand.
+    quote: No bonds, no brand, no one behind him on the road.
+    source: chapter
+- norm: white-dragon
+  title: white dragon
+  all_titles:
+  - white dragon
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: Vukradin mentions hearing stories of a white dragon flying around the canyon, possibly responsible
+      for breaking the gate.
+    quote: I've heard stories of a white dragon flying around here. Perhaps that killed the gate.
+    source: chapter
+- norm: white-dragon-arrival
+  title: white dragon arrival
+  all_titles:
+  - white dragon arrival
+  matches: null
+  chapters:
+  - 2
+  status: pending
+  evidence:
+  - chapter: 2
+    fact: The party is to go back to the town to collect the fifty gold pieces after delivering the warning.
+    quote: All we have to do is go back to the town and we can get the fifty gold pieces.
+    source: chapter
+- norm: who-decides-best-argument
+  title: who decides best argument
+  all_titles:
+  - who decides best argument
+  matches: null
+  chapters:
+  - 6
+  status: pending
+  evidence:
+  - chapter: 6
+    fact: Vukradin asks who decides which argument is best, and this remains unresolved.
+    quote: And who decided which is best?
+    source: chapter
+- norm: womans-deeper-agenda
+  title: woman's deeper agenda
+  all_titles:
+  - woman's deeper agenda
+  matches: null
+  chapters:
+  - 7
+  status: pending
+  evidence:
+  - chapter: 7
+    fact: Vukradin senses a deeper agenda at play in the woman's insistence on staying.
     source: chapter

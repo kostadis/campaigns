@@ -27,7 +27,7 @@ The spell twisted the magic of the Faerzress, an unknown magical substance that 
 
 Instead, the bonds between the Abyss and Toril weakened for a moment. And the demon lords entered the Underdark.  
 
-Both the world below and above were in turmoil. The demon Grazz’t instigated widespread insanity and madness, while the demoness Zugtomy disseminated perilous fungi. The demon Orcus marshaled armies of undead, and reports indicate that Demogorgon wreaked havoc on cities, including the notable city of Menzoberranzan. 
+Both the world below and above were in turmoil. The demon Graz'zt instigated widespread insanity and madness, while the demoness Zuggtmoy disseminated perilous fungi. The demon Orcus marshaled armies of undead, and reports indicate that Demogorgon wreaked havoc on cities, including the notable city of Menzoberranzan. 
 
 The chaos in the Underdark may have provoked the Uthgardt Barbarians to launch a devastating assault on the North, destroying numerous smaller communities. Triboar was razed, Calling Horn was obliterated, and several villages on the outskirts of Silverymoon and Mirabar were pillaged.
 

@@ -1,0 +1,180 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:f54aebcce003fde786131676c242463dc84b64bf2205af03164054c829d98936",
+  "payload": {
+    "scene": "Scene 1 — Patrons of the Chord",
+    "session": "/home/kostadis/phandalin/Phandalin/summaries/20260902",
+    "run_dir": "/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene01-r1",
+    "draft": "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md",
+    "source": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+    "inputs": {
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.scrubbed.md": {
+        "role": "draft",
+        "sha256": "fd6b70f62e14a042de8498df9e6443fa43e3424e205760ab3fb54989618529bf"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md": {
+        "role": "source",
+        "sha256": "ebb0517a844084628952bce61531edd46bd6915267c5fdd959f80d88e8d38833"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/party.yaml": {
+        "role": "reference",
+        "sha256": "0c80629b963be3f57c42c11c9ceee10e2a8fd80c8ff57717539b7ff4dc50d891"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/players.yaml": {
+        "role": "reference",
+        "sha256": "6db574fc53fa1622853bc1877a105a5982327eee9469d0b95e8e04de0b196c28"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/session_doc.yaml": {
+        "role": "reference",
+        "sha256": "596c7af11b0f6c40d116c93604865c186f74143857dfa702320db1b6de510bde"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/_genre.md": {
+        "role": "reference",
+        "sha256": "7a848f23addaf26686576b1c1a109a53960f1dce66e3fee85a04bde549962f41"
+      },
+      "/home/kostadis/phandalin/Phandalin/notes/scrub_register_policy.md": {
+        "role": "reference",
+        "sha256": "a336d3df3856a5cbfa05a16edf32e443ed277f663149592fcf63858483c7edce"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/plan.md": {
+        "role": "reference",
+        "sha256": "c52ce3d0c450708ff114bb97b5cbb56ae329b547d87cf7fa8a904dcefc9781c6"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/voice_smooth.sources.yaml": {
+        "role": "reference",
+        "sha256": "730ad84ea99a86bb21a4401df20503140b545095ff2ae1b60d3502078cbbc899"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration/no_mech_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "48e2e27f66a02b873722ae813cef90f7a1483ee370c65fd6d2d825020c0d7fab"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/scrub_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "79a9801d2422228673c6b62cf71f75552d7ac9ba0fbdf86d8a08f4b8a3d99547"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/.cg/activity.jsonl": {
+        "role": "reference",
+        "sha256": "19818db865e8af70cf2470071e973156a24b0bf0a0ca401d1cc369f962e2fb43"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/vukradin_new_pipeline.md": {
+        "role": "reference",
+        "sha256": "2f17508947a605a0fd68409cc7522ade17e3ca0dbf7d764b9068e8ffa05bf59a"
+      },
+      "/home/kostadis/phandalin/Phandalin/examples/vukradin.md": {
+        "role": "reference",
+        "sha256": "1d10b874779646614f4a1d28c47dbdd986fa6ee958ed6f2e23d8778d826f8315"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_01_patrons_of_the_chord.knobs.json": {
+        "role": "reference",
+        "sha256": "4d25d74d870c04aacac16aebb2e74349b2207a33d672501c0d2316d3aa0bf559"
+      }
+    },
+    "edits": [
+      {
+        "id": "s01-01",
+        "start": 2037,
+        "before": "“I'm sorry, I lost track. What… What do I?”",
+        "after": "“I'm sorry, I lost track. What… What do I know?”",
+        "line": 61,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Complete Valphine's question with the single word established by the reviewed extraction's intent label.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+            "quote": "\"I'm sorry, I lost track. What… What do I?\"",
+            "start": 5429,
+            "line": 113
+          }
+        ],
+        "context": "“It's a rumor, and I suspect Valphine will know this advisor at dinner, but we will see.”\n\nValphine looks up. “I'm sorry, I lost track. What… What do I?”\n\n“Lord NeverEmber. Lord Never Flaming.” I remind her of the important part. “new drow advisor that we will.”\n"
+      },
+      {
+        "id": "s01-02",
+        "start": 12236,
+        "before": "“That's great. Well, let's add them to the program notes, and”",
+        "after": "“That's great. Well, let's add them to the program notes.”",
+        "line": 297,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Remove an unsupported trailing conjunction after the complete request while preserving Vukradin's upbeat cadence.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+            "quote": "\"That's great. Well, let's add them to the program notes, and\"",
+            "start": 18052,
+            "line": 517
+          }
+        ],
+        "context": "They belong in the annual credits.\n\n“That's great. Well, let's add them to the program notes, and”\n\nTheir names are written down.\n"
+      },
+      {
+        "id": "s01-03",
+        "start": 13619,
+        "before": "“Did you come? Did you come? Did I give you your money back at the end of.”",
+        "after": "“Did you come? Did you come? Did I give you your money back?”",
+        "line": 329,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Keep Vukradin's repeated question and remove only the unrecoverable trailing fragment; the next beat confirms the refund question.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+            "quote": "\"Did you come? Did you come? Did I give you your money back at the end of.\"",
+            "start": 19767,
+            "line": 577
+          }
+        ],
+        "context": "“Yeah.”\n\n“Did you come? Did you come? Did I give you your money back at the end of.”\n\nHe confirms that he did, and that I promised refunds to anyone who did not rate the performance ten out of ten. This was an honest policy. If an audience does not enjoy a performance, the artist should not hide behind prestige and insist that their disappointment is a failure of sophistication.\n"
+      },
+      {
+        "id": "s01-04",
+        "start": 14446,
+        "before": "“It's too commercial. Too… I mean, Petra's turned this into a money-making operation. I gotta respect her, she's, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.”",
+        "after": "“It's too commercial. Too… I mean, Petra's turned this into a money-making operation. I gotta respect her. I mean, I remember the Brewbarry table.”",
+        "line": 347,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Trim a garbled false start while retaining Old Hesp's mixed criticism and respect, then land on the table he points out in the next sentence.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+            "quote": "\"It's too commercial. Too… I mean, Petra's turned this into a money-making operation. I gotta respect her, she's, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.\"",
+            "start": 20824,
+            "line": 604
+          }
+        ],
+        "context": "“Yeah, yeah, I agree.”\n\n“It's too commercial. Too… I mean, Petra's turned this into a money-making operation. I gotta respect her, she's, you know, she turned… I mean, I remember when that table points where, you know, the Brewbarry table.”\n\nHe points toward Brewbarry’s table.\n"
+      },
+      {
+        "id": "s01-05",
+        "start": 14701,
+        "before": "“Was, you know, that was not leather and shiny and with a plaque.”",
+        "after": "“That was not leather and shiny and covered with a plaque.”",
+        "line": 351,
+        "scope": "dialogue",
+        "support": "supported",
+        "reason": "Remove the false start and clarify the parallel list without changing Old Hesp's comparison to the old table.",
+        "evidence": [
+          {
+            "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/01_rumors_and_preparations_at_the_common_chord.md",
+            "quote": "\"Was, you know, that was not leather and shiny and with a plaque.\"",
+            "start": 21089,
+            "line": 607
+          }
+        ],
+        "context": "He points toward Brewbarry’s table.\n\n“Was, you know, that was not leather and shiny and with a plaque.”\n\nHe remembers when the Common Chord did not serve fancy food. I look at the polished leather, the plaque, and the patrons dressed to be seen listening. Petra has succeeded magnificently at making money. That is not the same thing as preserving the room.\n"
+      }
+    ],
+    "observations": [
+      "Left the fragments ‘Securing money for the.’, ‘new drow advisor that we will.’, and ‘Nobody's as big as Brewbarry, that's just how it.’ unchanged because their missing completions are not recoverable from the reviewed extraction."
+    ],
+    "skill_sha256": {
+      "SKILL.md": "30f03f7eaba1593d1e24cdd23271369fa47f9dae9a0c3115ed1e2cd11419d51e",
+      "scripts/review_edits.py": "770a578d7da1d5a2dee31206c24ed5163be2b9d17031b831d73c8549006aec12",
+      "references/editorial-guide.md": "790721eb80cef5e1f14cff0fb6f6965cb0062bbf16cd9b527ef03f6ca314c72f",
+      "references/review-and-apply.md": "0b38628119fd023460fb1029ebdc077d5cd05c945c4e2d7db842a78eedc89783"
+    },
+    "prepared_at": "2026-09-06T23:49:45.440300+00:00"
+  }
+}

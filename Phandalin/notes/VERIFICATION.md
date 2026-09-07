@@ -86,7 +86,7 @@ emitted date.
 
 ### Spelling
 
-The month is **Tarsakh**. It was originally misspelled `Taraskh` throughout both
+The month is **Tarsakh**. It was originally misspelled `Tarsakh` throughout both
 the source document and the chapter splits; that was corrected across 29 files
 on branch `phandalin-calendar-tarsakh-fix`, covering the source document and the
 chapter splits — the authoritative layer. Derived artifacts were deliberately
@@ -314,7 +314,7 @@ chapter you doubt. Each is a verbatim citation from the chapter text.
    the source and in `chapter_09_*.md`. The day `07-02` was confirmed against
    the surrounding stamps (§10.01–10.03 are all `07-02-Tarsakh 1495`), so only
    the year was appended; no date value changed.
-6. **OPEN — `Taraskh` survives in the derived layer.** 56 occurrences across 21
+6. **OPEN — `Tarsakh` survives in the derived layer.** 56 occurrences across 21
    tracked files under `docs/distill/`, `docs/ensemble/`, and
    `docs/party_extractions/` still carry the old spelling. These are generated
    search-accelerator artifacts, not authoritative text, and a hand-fix would be

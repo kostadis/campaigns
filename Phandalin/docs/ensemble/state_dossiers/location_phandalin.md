@@ -1,23 +1,20 @@
 ---
 name: Phandalin
 type: location
-n_facts: 11
-chapters: 1-4
+n_facts: 16
+chapters: 1-6
 ---
 
 ### Phandalin
+**What it is:** A frontier town in the foothills of the Sword Mountains, several days south on the High Road, then east along the Triboar Trail. Roughly four to five dozen log buildings sit among old stone foundations; broken walls from older ruins run beneath sheds and gardens, showing the settlement once occupied more ground.
 
-**Type:** Mining town / burgeoning settlement
+**Current state:** Undefended and exposed — no gate, ditch, palisade, wall, garrison, river, or natural water source; approaches are open and anyone can walk straight in from the road. There are no reliable deliveries. Residents are armed and keep weapons within reach. The group was received without ceremony; killing an ogre did not interrupt commerce.
 
-**Location:** Nestled in the snow-capped Sword Mountains, in hilly terrain south of the expedition route.
+**Control / occupation:** The town has a Townmaster — Soma leads Vukradin to the Townmaster upon arriving in Phandalin.
 
-**Current State:** Active, growing settlement. The party arrived in Phandalin, and Soma led Vukradin to the Townmaster.
-
-**Layout & Defenses:**
-- Consists of forty or fifty simple log buildings; crumbling stone ruins surround the newer houses and shops.
-- No walls or garrison; most adults keep weapons within easy reach.
-
-**Significance / Patronage:** Lord Neverember takes particular interest in Phandalin, wanting the area cleared of monsters, cults, and evildoers to encourage settlement and growth.
+**Recent notable events / dealings:** Lord Neverember turned his eye to Phandalin, needing the area cleared of monsters, cults, and evildoers to encourage settlement and growth. The adventuring group recently arrived; they killed an ogre en route. Soma arrived in Phandalin and led Vukradin to the Townmaster.
 
 ## Uncertainty
-None.
+- The Townmaster's identity is unknown from the facts; only that a Townmaster exists and Soma led Vukradin to them.
+- Whether the ogre was killed near Phandalin or elsewhere along the approach is not specified.
+- The facts do not clarify whether the Townmaster's current role is connected to Lord Neverember's interest in clearing the area, or whether the adventuring group (including Soma and Vukradin) remain in Phandalin now, though the latest chapter has them arriving there.

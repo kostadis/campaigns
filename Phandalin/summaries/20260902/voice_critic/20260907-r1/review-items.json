@@ -1,0 +1,72 @@
+{
+  "title": "Voice Critic — Session 20260902",
+  "reviewId": "voice-critic:20260902:20260907-r1",
+  "outputName": "voice_critic_20260902_decisions.json",
+  "eyebrow": "Phandalin / five promoted narration scenes / voice review",
+  "lede": "Resolved: all seven proposals were approved and applied to their frozen raw/scrubbed targets. Vukradin’s closer budget is now 1/1 and Soma’s is 1/1. Full before/after counts and limitations are recorded in <code>voice_critique_summary.md</code>.",
+  "footer": "Applied from the GM decision record saved at 2026-09-07 00:13 UTC. Original proposals, exact old/new spans, decisions, and result hashes remain in this review run.",
+  "state": {
+    "decisions": {
+      "VC-001": "approve",
+      "VC-002": "approve",
+      "VC-003": "approve",
+      "VC-004": "approve",
+      "VC-005": "approve",
+      "VC-006": "approve",
+      "VC-007": "approve"
+    },
+    "notes": {},
+    "savedAt": "2026-09-07 00:13 UTC"
+  },
+  "items": [
+    {
+      "id": "VC-001",
+      "t": "MEDIUM · Confirmed budget breach · Reduce Vukradin’s abstract balanced closers from four to the permitted one",
+      "y": "Apply the three exact scene 03 replacements to both <code>session_doc_scene_03_lost_in_rsolk_s_tunnels.md</code> and its <code>.scrubbed.md</code> counterpart. Retain the scene 01 Petra/Common Chord closer as Vukradin’s one permitted instance.",
+      "n": "Keep all three scene 03 paragraphs unchanged and leave Vukradin at four abstract balanced closers against the session cap of one.",
+      "ev": "<p><strong>Rule:</strong> <code>voice/_genre.md:23</code> permits at most one abstract, balanced, thesis-like closer per POV narrator across a session. Vukradin has four; these are the three surplus instances.</p><p><code>scene 03:55</code></p><pre>Territory is a serious word for a wet tunnel under Neverwinter, but if he maintains it, protects it, and has people who answer to him, then the word may be justified. Ownership and stewardship are not the same thing, of course. That distinction has caused considerable trouble everywhere from Mountain’s Toe Mine to the treasury of Phandalin.</pre><p><strong>Replace with:</strong></p><pre>Territory is a serious word for a wet tunnel under Neverwinter. If he maintains it, protects it, and has people who answer to him, I need to know what that responsibility covers.</pre><p><code>scene 03:127</code></p><pre>This deserves clarification. A man who introduces a tunnel as his territory also accepts a degree of responsibility for its condition. Otherwise, it is not management. It is branding.</pre><p><strong>Replace with:</strong></p><pre>I press him on the danger.</pre><p><code>scene 03:159</code></p><pre>The mine’s production has not inspired confidence in me either. There is a difference between recognizing an honest business relationship and pretending it has generated meaningful returns.</pre><p><strong>Replace with:</strong></p><pre>The mine’s production has not inspired confidence in me either. I confirm the relationship and leave the disappointing returns on the ledger.</pre>"
+    },
+    {
+      "id": "VC-002",
+      "t": "MEDIUM · Confirmed budget breach · Replace Soma’s surplus age aphorism with a physical reaction",
+      "y": "Apply this exact replacement to raw and scrubbed scene 04. Soma will retain “Not kindness. Accounting.” as her one permitted abstract balanced closer.",
+      "n": "Keep the age aphorism unchanged and leave Soma at two abstract balanced closers against the session cap of one.",
+      "ev": "<p><strong>Rules:</strong> <code>voice/_genre.md:23</code>; <code>voice/soma_new_pipeline.md:41</code> says Soma notices the physical world first. Her example at <code>examples/soma.md:94</code> renders irritation as breath against her shell.</p><p><code>scene 04:85</code></p><pre>There are days when age grants patience. There are other days when it only means I have heard more foolishness.</pre><p><strong>Replace with:</strong></p><pre>My jaw tightens. I have heard this foolishness before.</pre>"
+    },
+    {
+      "id": "VC-003",
+      "t": "HIGH · Confirmed POV-frame conflict · Report Valphine’s judgment instead of entering her interior",
+      "y": "Apply the exact replacement to raw and scrubbed scene 04, preserving the extraction’s attribution of the judgment to Valphine.",
+      "n": "Keep “Valphine … finds” unchanged inside Soma’s close first-person POV.",
+      "ev": "<p><strong>Rule:</strong> <code>voice/_genre.md:13</code> forbids narrating another character’s interior thoughts. <strong>Source:</strong> <code>scene_extractions_smoothed/04_the_stakeout_of_denvar.md:14</code> explicitly attributes the intuition to Valphine.</p><p><code>scene 04:15</code></p><pre>Valphine watches him eat and finds nothing grand in him. No disguised leader. No mastermind waiting for servants to report.</pre><p><strong>Replace with:</strong></p><pre>Valphine watches him eat, then gives us her judgment: no disguised leader, no mastermind waiting for servants to report.</pre>"
+    },
+    {
+      "id": "VC-004",
+      "t": "MEDIUM · Attribution/register concern · Mark Soma as the repeater and replace the generic name epigram",
+      "y": "Apply the mapped replacement to raw and scrubbed scene 04. The raw file keeps “Denvar, Colorado”; the scrubbed file keeps its approved “Denvar, Daggerford” divergence.",
+      "n": "Keep the consecutive unattributed Soma quotes and “A good name deserves a place” bridge unchanged.",
+      "ev": "<p><strong>Source:</strong> <code>scene_extractions_smoothed/04_the_stakeout_of_denvar.md:347</code> identifies Soma as repeating “Denvar!” and line 353 identifies her as making the place-name joke. This sits inside a seven-paragraph, three-speaker quote run.</p><p><code>scene 04:183</code>, scrubbed form:</p><pre>“Denvar!”\n\nA good name deserves a place.\n\n“Denvar, Daggerford.”</pre><p><strong>Replace with:</strong></p><pre>I repeat it. “Denvar!”\n\nA name is useful.\n\n“Denvar, Daggerford.”</pre><p>The raw mapping makes the same narration change while preserving “Colorado.”</p>"
+    },
+    {
+      "id": "VC-005",
+      "t": "MEDIUM · POV-framing concern · Replace Soma’s claim about Vukradin’s private feeling with observable conduct",
+      "y": "Apply the exact replacement to raw and scrubbed scene 05. The dry aside remains; only the unsupported interior-state claim changes.",
+      "n": "Keep the claim that Vukradin’s fame “has been bothering him.”",
+      "ev": "<p><strong>Rule:</strong> <code>voice/_genre.md:13</code>. <strong>Source:</strong> <code>scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md:22</code> establishes that Vukradin raises the larger mystery, not that Soma knows his private feeling.</p><p><code>scene 05:201</code></p><pre>Vukradin’s fame has been bothering him. Sensibly, for once.</pre><p><strong>Replace with:</strong></p><pre>Vukradin has started asking why we are famous. Sensibly, for once.</pre>"
+    },
+    {
+      "id": "VC-006",
+      "t": "MEDIUM · Confirmed Soma register drift · Blunt the ornate city-mouth metaphor",
+      "y": "Apply the exact direct wording to raw and scrubbed scene 05, preserving the established fact that someone is amplifying the band’s fame for an unknown purpose.",
+      "n": "Keep the feeding/swallowing metaphor unchanged.",
+      "ev": "<p><strong>Rules:</strong> <code>voice/soma_new_pipeline.md:39</code> requires short practical thought; line 68 says to blunt pretty metaphors. The extraction at lines 391–401 preserves only the external force, manipulation, and unknown advantage.</p><p><code>scene 05:211</code></p><pre>That is the problem. We know someone is feeding Lathander’s Death into the city’s mouth. We do not know who, or what they expect the city to swallow afterward.</pre><p><strong>Replace with:</strong></p><pre>That is the problem. Someone is spreading Lathander’s Death through the city. We do not know who or what they expect to gain.</pre>"
+    },
+    {
+      "id": "VC-007",
+      "t": "LOW · Generic-prose concern · Make the tavern discovery physical and specific",
+      "y": "Apply the exact replacement to raw and scrubbed scene 05, naming the open door instead of using “the answer presents itself.”",
+      "n": "Keep the existing generic discovery transition.",
+      "ev": "<p><strong>Rules:</strong> <code>voice/_genre.md:5</code> favors the material noun; <code>voice/soma_new_pipeline.md:41</code> makes physical observation primary.</p><p><code>scene 05:101</code></p><pre>We follow the perimeter until the answer presents itself. The building is a tavern.</pre><p><strong>Replace with:</strong></p><pre>We follow the perimeter and find an open tavern door.</pre>"
+    }
+  ]
+}

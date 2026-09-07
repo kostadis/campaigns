@@ -1,0 +1,157 @@
+schema: consistency_check_manifest/v1
+stage: 2
+stage_label: scene-extractions
+timestamp: "2026-09-06T02:40:49Z"
+campaign: Phandalin
+session_dir: summaries/20260902
+document_checked: summaries/20260902/scene_extractions
+document_class: grouped scene extractions
+report: summaries/20260902/consistency_report_stage2_scenes.md
+config: /tmp/phandalin_abs_config_staged_20260906.yaml
+backend: codex-cli
+model_calls: 1
+grouped: true
+issues_found: 55
+session_date: "2026-09-01"
+session_prep_used: true
+entity_registry_used: true
+
+documents_checked:
+  - summaries/20260902/scene_extractions/01_rumors_and_preparations_at_the_common_chord.md
+  - summaries/20260902/scene_extractions/02_the_sewer_stakeout.md
+  - summaries/20260902/scene_extractions/03_encounter_in_the_sewers.md
+  - summaries/20260902/scene_extractions/04_the_stakeout_of_denvar.md
+  - summaries/20260902/scene_extractions/05_the_dead_drop_at_the_house_of_a_thousand_faces.md
+
+grouped_audit:
+  document_findings:
+    D01: 12
+    D02: 14
+    D03: 7
+    D04: 10
+    D05: 12
+  cross_document_findings: 0
+  cross_document_result: CLEAN
+  reconciliation: "12 + 14 + 7 + 10 + 12 = 55"
+  telemetry:
+    shared_context_chars: 459184
+    target_chars: 98349
+    repeated_context_chars_avoided: 1836736
+
+sources:
+  auto_loaded:
+    - {label: campaign_state, path: docs/campaign_state.md}
+    - {label: world_state, path: docs/world_state.md}
+    - {label: mechanics, path: docs/mechanics.md}
+    - {label: planning, path: docs/planning.md}
+    - {label: party, path: docs/party.md}
+  context:
+    - {path: docs/party.md, role: PCs, player ownership, and mechanics}
+    - {path: docs/entity_registry.yaml, role: entity registry and aliases}
+    - {path: notes/vtt_transcription_corrections.md, role: ASR glossary}
+    - {path: notes/vtt_known_additions.md, role: known transcript additions}
+    - {path: notes/session_prep/20260901_the_ninth_crate_v2.md, role: session prep}
+    - {path: notes/session_prep/20260901_the_ninth_crate_outcome.md, role: played outcome notes}
+    - {path: notes/npcs/common-chord-audience.md, role: session NPC prep}
+
+quote_verification:
+  report: summaries/20260902/quote_report_stage2.md
+  transcript: summaries/20260902/GMT20260902-040118_Recording.transcript.cleaned.vtt
+  mode: report-only
+  exit_code: 0
+  total_quotes: 896
+  verified: 896
+  near: 0
+  unverified: 0
+  unscored: 0
+  refused: 0
+  duplicated_spans_scanned: 6
+  duplicated_spans_consistent: 2
+  duplicated_spans_settled_by_transcript: 4
+
+vtt_adjudicated: true
+vtt_consulted:
+  - path: summaries/20260902/GMT20260902-040118_Recording.transcript.cleaned.vtt
+    role: corrected speaker-labelled generation transcript used for attribution and exact extraction verification
+  - path: summaries/20260902/session_2026_09_05_session_2026_09_05_transcript.vtt
+    role: independent VTT used to settle wording, cue joins, and generation-transcript garbles
+
+speaker_map:
+  Kostadis Roussos: GM and NPCs
+  David Mendenhall: Vukradin
+  Wade Brown: Soma
+  Gary Young: Valphine and Brewbarry coverage
+speaker_note: >
+  Stéphane Bourdeaud was absent. Gary covered Brewbarry, so Brewbarry
+  attribution received extra scrutiny.
+
+resolution:
+  review_status: COMPLETE
+  reviewed_by: GM
+  reviewed: "2026-09-06"
+  review_saved_at: "2026-09-06 02:45 UTC"
+  review_page: summaries/20260902/staged_consistency_stage_2_review.html
+  review_input: summaries/20260902/staged_consistency_stage_2_review.json
+  review_decisions: summaries/20260902/staged_consistency_stage_2_decisions.json
+  findings_reconciled:
+    mechanically_or_editorially_applied: 50
+    downstream_scrub_flags: 3
+    rejected: 2
+    pending_findings: 0
+    pending_decisions: 0
+    total: 55
+  applied:
+    - finding: D01.1,D01.3-D01.5,D01.9,D01.11-D01.12
+      fix: Corrected summary attribution and neutral framing; repaired bathrobe, Chord, and 3 AM; clarified the additional-ten-gold exchange from the independent VTT.
+    - finding: D02.2-D02.9,D02.11,D02.14
+      fix: Repaired wet stone, the complete Lim/ninth-crate sentence, grill, rat, Vukradin, Bardic Inspiration, cook shop, and passive from prep or the independent VTT.
+    - finding: D03.2-D03.4,D03.6-D03.7
+      fix: Preserved the spoken mine callback with an Axeholm editorial note; corrected the location-uncertainty header, dangerous-territory question, Floodline, and speech framing.
+    - finding: D04.2-D04.10
+      fix: Corrected the chits and encounter chronology in prose; repaired Wade, Neverwinter, asking questions, sunlight, and Soma; annotated the landlord-pronoun and halberd false starts.
+    - finding: D05.1-D05.12
+      fix: Corrected Brewbarry's entry chronology and Harper framing; neutralized the unsupported surprise header; repaired Margaster residence, joke framing, Knock, tavern, ninth crate, and basement level; annotated unclear office wording and the spoken venue-name variant.
+    - finding: D01.6-D01.8
+      decision: s2-01
+      fix: Normalized the three lunar references to Selûne and the Tears of Selûne, restoring the independent VTT's recoverable middle sentence and adding editorial notes.
+    - finding: D01.10
+      decision: s2-02
+      fix: Reconstructed Soma's donation reaction as "That's a hell of a donation" and documented the overlapping VTT segmentation.
+    - finding: D02.1
+      decision: s2-03
+      fix: Trimmed the familiar proposal at the last words supported by both VTTs rather than preserving the apparent Iceland place-name.
+    - finding: D02.10
+      decision: s2-04
+      fix: Preserved the spoken long-rest statement and annotated it as a rules mistake because the documented Font of Inspiration restores uses on a short rest.
+    - finding: D03.5
+      decision: s2-05
+      fix: Preserved Vukradin's spoken "him" and annotated Zeleen's canonical female identity and historical pronoun inconsistency.
+  downstream_scrub_flags:
+    - {finding: D01.2, token: Wade, location: scene 01}
+    - {finding: D02.12, token: Wade, location: scene 02}
+    - {finding: D02.13, token: Dave, location: scene 02 header and quote}
+  rejected:
+    - finding: D03.1
+      ruling: PRIOR_GM_RULING
+      rationale: Stage 0 explicitly approved generic earlier-encounter prose; the verbatim mine quote is preserved and annotated rather than silently rewritten.
+    - finding: D04.1
+      ruling: FALSE_POSITIVE
+      rationale: The independent VTT explicitly says Valphine's intuition identifies Denvar as what he appears to be, a delivery man.
+  pending: []
+
+carry_forward:
+  - {status: DONE, item: "All five Stage 2 batch decisions were approved and applied."}
+  - {status: OPEN, item: "Scrub the real participant names Wade and Dave only in downstream player-facing prose; preserve them in the verbatim extraction layer."}
+  - {status: NOTE, item: "The GM's spoken 'remembered this from the mine' remains verbatim; editorial prose follows the approved location-neutral Stage 0 ruling and notes campaign records place the documented Rift Weaver encounter at Axeholm."}
+  - {status: OPEN, item: "Rsolk remains named although the name is not spoken on tape; preserve the prior GM ruling and re-check downstream player knowledge."}
+  - {status: OPEN, item: "The phrase 'wererat territory' remains acceptable in GM-facing material but should not leak into player-facing narration."}
+  - {status: OPEN, item: "Stage 3 NOT RUN because no narration artifact exists."}
+
+notes: >
+  The Stage 2 files are in scene_extractions/ rather than scene_extractions_new/;
+  the user explicitly identified them as the files intended for the new layer.
+  The grouped command loaded the five targets in scene order and sent shared
+  context once. The command banner incorrectly said no issues were found; the
+  saved report body contains 55 findings. The temporary config produced a
+  harmless auto-discovery warning for entity_registry.yaml, which was explicitly
+  included in the context list.

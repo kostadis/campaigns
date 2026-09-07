@@ -1,0 +1,90 @@
+{
+  "scene": "Scene 4 — Denvar's Unsettled Account",
+  "edits": [
+    {
+      "id": "s04-01",
+      "before": "“Who we could potentially ask questions about him of.”",
+      "after": "“Who we could potentially ask about him.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Untangle Valphine's phrasing while preserving her proposal to question Denvar's landlord.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+          "quote": "\"Who we could potentially ask questions about him of.\""
+        }
+      ]
+    },
+    {
+      "id": "s04-02",
+      "before": "“No, no, we have… Very… that’s kind of slanderous to us.”",
+      "after": "“No, no. That’s kind of slanderous to us.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Remove an unrecoverable false start while preserving Soma's emphatic objection and dry tone.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+          "quote": "\"No, no, we have… Very… that's kind of slanderous to us.\""
+        }
+      ]
+    },
+    {
+      "id": "s04-03",
+      "before": "“We asked him about the, you know, the gentleman we, you know, followed back here.”",
+      "after": "“We wanted to ask about the gentleman we followed back here.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Correct the tense and remove repeated filler so Soma's request matches the immediate conversation with the landlord.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+          "quote": "\"We asked him about the, you know, the gentleman we, you know, followed back here.\""
+        }
+      ]
+    },
+    {
+      "id": "s04-04",
+      "before": "“Denvar. Yeah. That’s more than we came with, we got a name.”",
+      "after": "“Denvar. Yeah. That’s more than we came with. We got a name.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Resolve a comma splice into Soma's characteristic short landing beats.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+          "quote": "\"Denvar. Yeah. That's more than we came with, we got a name.\""
+        }
+      ]
+    },
+    {
+      "id": "s04-05",
+      "before": "“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”",
+      "after": "“And all his deliveries… Every one of his delivery chits is the same. They’re all this one thing. He literally has one job.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Remove the false start and express the same totality in grammatical speech while keeping Soma's punchline intact.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+          "quote": "\"And the… all his deliveries… 100% of his delivery chits are the same. They're all this one thing. He literally has one job.\""
+        }
+      ]
+    },
+    {
+      "id": "s04-06",
+      "before": "“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”",
+      "after": "“And so that was the one he presumably just delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Move the adverb into a natural position without changing Soma's deduction or rhetorical question.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md",
+          "quote": "\"And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don't we?\""
+        }
+      ]
+    }
+  ],
+  "observations": []
+}

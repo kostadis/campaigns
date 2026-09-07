@@ -1,0 +1,19 @@
+{
+  "narrate_tokens": 70000,
+  "narrate_batch_tokens": 70000,
+  "prose_mode": true,
+  "reflections": true,
+  "narration_genre_file": "/home/kostadis/phandalin/Phandalin/voice/_genre.md",
+  "backend": "codex-cli",
+  "narration_genre_sha": "0a3d011c5f27",
+  "narration_genre_lines": 105,
+  "mode": "bundle",
+  "provider_batch": false,
+  "bundle_ceiling": 70000,
+  "requested_count": 5,
+  "exchange_count": 1,
+  "status": "success",
+  "written_count": 5,
+  "missing_count": 0,
+  "rejected_count": 0
+}

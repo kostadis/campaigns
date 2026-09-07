@@ -7,12 +7,13 @@ chapters: 1-1
 
 ### Cult of the Dragon
 
-- **Current status:** Active; was duped by Tiamat into attempting to bring her into the world.
-- **Current goals:** (Implied by actions) Attempting to bring Tiamat into the world.
-- **Key members:** Severin (leader, duped by Tiamat).
-- **Relationships:** Tiamat — deceived/manipulated the Cult into their current endeavor, co-resident of Avernus.
-- **Recent actions:** Undertook an attempt to summon/bring Tiamat into the world, acting on her deception.
+- **Current status:** Active (presumed). No fact indicates the cult was destroyed or disbanded.
+- **Current goal / motivation (revealed):** The Cult of the Dragon, under the direction of Severin, was duped by Tiamat into attempting to summon/bring her into the world — this is the cult's revealed driving purpose.
+- **Key members:** Severin (named as the cult member Tiamat duped; his current title/rank is not stated, but he appears to be the cult's leader or central figure).
+- **Relationships:** Tiamat (co-resident of Avernus) manipulated the cult into serving her goal of entering the world — the cult is effectively her pawn, though likely unaware they were duped.
+- **Recent actions:** Undertook a ritual/effort to bring Tiamat into the material world, as instigated by her deception.
 
 ## Uncertainty
-- Tiamat's current relationship with the Cult beyond the initial deception is unclear; whether she still controls or guides them, or whether they remain willingly aligned, is not stated.
-- No information on the Cult's current location, size, structure, or any other members.
+- **Severin's exact role/title** is not specified — "Severin and the Cult of the Dragon" implies leadership or a key figure, but no rank or formal position is given.
+- **Current standing/goal beyond the Tiamat plan:** No facts cover whether the cult's goal has advanced, failed, or changed since chapter 1.
+- **Allegiance clarity:** It is unclear whether the cult knowingly serves Tiamat or believes their goal is their own; the fact says they were "duped," implying they do not know her true intent, but their current awareness is not stated.

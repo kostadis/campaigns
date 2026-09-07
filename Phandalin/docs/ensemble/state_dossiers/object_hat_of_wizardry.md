@@ -1,17 +1,23 @@
 ---
 name: Hat of Wizardry
 type: object
-n_facts: 1
-chapters: 3-3
+n_facts: 3
+chapters: 5-5
 ---
 
 ### Hat of Wizardry
 
-- **What it is:** A magic item — a hat of wizardry (a magical headwear that provides spellcasting utility).
-- **Current holder/location:** Offered by **King Gnercli** as treasure/reward for dealing with "the creature."
-- **Current condition:** Not specified.
-- **Significance:** Offered as a reward; it is the agreed compensation for the party's task involving the creature.
+**What it is:** A magical hat that functions as a source of wizardly magic.
+
+**Current status:** Offered, not yet acquired by the party. The hat remains in the possession of King Gnercli.
+
+**Current holder/location:** With King Gnercli (presumably in his possession/treasury).
+
+**Offered as payment (currently pending):** King Gnercli has offered this hat of wizardry as treasure/payment for dealing with "the creature" (referred to both as "the creature" and "the shapeshifter" in the sourced facts).
+
+**Significance:** Acts as the promised reward for the party's service to King Gnercli — resolving the shapeshifter/creature threat.
 
 ## Uncertainty
-- The hat's actual current location/holder is unknown — it was **offered** but not yet confirmed as delivered or in anyone's possession.
-- Which creature is referred to ("the creature") is not specified in these facts.
+- **Attribution ambiguity:** The three facts all attribute the offer to King Gnercli, so attribution is clear. However, the target of the task (the "creature" vs. the "shapeshifter") is described two ways in the quotes — presumably the same threat, but not explicitly tied together in a single fact.
+- **Acquisition status:** The facts record only the offer of the hat, not its actual delivery or receipt. Whether the party has physically received the hat is unknown.
+- **Magical properties:** No specifics about what the hat does (e.g., spellcasting bonus, charges, etc.) are given beyond being a "hat of wizardry."

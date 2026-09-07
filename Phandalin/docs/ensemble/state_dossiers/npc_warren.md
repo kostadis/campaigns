@@ -2,19 +2,18 @@
 name: Warren
 type: npc
 n_facts: 3
-chapters: 3-3
+chapters: 5-5
 ---
 
 ### Warren
 
-- **Current status:** Missing (one of two gnomes, along with Orrin, who disappeared).
-- **Current location:** Unknown (whereabouts undisclosed; went missing).
-- **Allegiance / faction:** None detailed.
-- **Current possessions / notable items, spells, feats, wounds:** None detailed.
-- **Current assignment / role and key relationships:** None detailed beyond being a gnome associated with King Korboz's claim.
-- **Defining recent actions:** Warren and Orrin went missing; King Korboz reportedly claims a shape-changing creature was responsible.
-- **Revealed motivations or secrets:** None beyond the shape-changing creature claim.
+- **Current status:** Missing (presumed taken), as of chapter 5.
+- **Current location:** Unknown; last known from Gnomengarde.
+- **Allegiance/faction:** None stated; a gnome of Gnomengarde.
+- **Species:** Gnome.
+- **Key relationships:** One of two gnomes, alongside Orrin, who went missing from Gnomengarde. Named in connection with the inventors Fibblestib and Dabbledob, who reported the disappearance.
+- **Notable recent events:** Reported missing by Fibblestib and Dabbledob; King Korboz claims the disappearance was caused by a shape-changing creature.
 
 ## Uncertainty
-- The exact circumstances of Warren's disappearance and his relationship to Orrin or King Korboz beyond the stated claim are unclear.
-- Whether Warren is alive, dead, or captive is not specified.
+- Whether King Korboz's claim about a shape-changing creature is accurate, or merely an attribution by the king, is unclear — no corroborating or contradictory fact is provided.
+- No current physical state (alive, dead, or transformed) is established beyond "missing."

@@ -1,63 +1,58 @@
 ---
 name: Soma
 type: npc
-n_facts: 88
-chapters: 2-4
+n_facts: 307
+chapters: 2-7
 ---
 
-### Soma (Tortle Druid of Mielikki)
+### Soma
 
-**Current Status:** Alive. A tortle druid of Mielikki, currently traveling with Vukradin's party in the Phandalin region.
+**NPC / tortle druid**
 
-**Current Location:** Phandalin, where she leads Vukradin to the Townmaster after the Gnomengarde job.
-
-**Allegiance/Faction:** Druid of Mielikki; naturalist who considers constructs and extra-planar creatures abominations and disruptions to the natural order.
-
-**Current Possessions / Notable Items:**
-- Carries a druidic spell scroll she picked up after a bandit encounter.
-- No other personal belongings explicitly noted currently.
-
-**Current Abilities / Spells / Feats:**
-- Poison breath/puff (proven ineffective against mimic creatures).
-- Casts **Ice Knife**.
-- Has a new wild-shape power that turns her into a spider; retains her own thoughts and feelings while wholly spider.
-- Shell she can retreat into to block out unwanted sounds.
-- Poisonous bite (killed a bandit).
-
-**Wounds / Health:** No current wounds noted.
-
-**Current Assignment / Role:**
-- Acts as a guide for Vukradin, with an accumulating unpaid "tab" — she is pleased with this arrangement and will want payment eventually.
-- Guided the party to Phandalin and to Gnomengarde; completed the Gnomengarde job (delivered proof of the monster's death to the inventors).
-- Led Vukradin to the Townmaster in Phandalin.
-
-**Key Relationships:**
-- Travels with Vukradin (the bard), Valphine, and Brewbarry.
-- Had a sharp disagreement with Vukradin over stealing gold; she is open to gold of questionable provenance, while he is not.
-- Respects Vukradin enough to acknowledge his point about returning the scroll to its rightful owner.
-- Pointedly turned her back on Vukradin after their argument about the gold.
-
-**Defining Recent Actions:**
-- Killed a bandit with her spider-form bite after the bandit missed a scimitar strike.
-- Killed a fleeing bandit and reflected "We are assholes."
-- Finished off a mimic creature with a decisive strike after her poison proved ineffective.
-- Picked up a druidic spell scroll from the bandits; considers returning it after Vukradin's argument.
-- Shouted "Let him go!" to Brewbarry about a fleeing bandit, but realized she was speaking like a spider.
-- Told Vukradin he is "just another creature born into this world" with "no celestial touching here" — clarifying her view that he is not tainted by celestial heritage.
-
-**Revealed Motivations / Secrets:**
-- Believes all life is precious, but not "a bandit who is trying to kill me."
-- Believes sometimes the reward is knowing you did the right thing — but is pragmatic about taking questionable gold and wants compensation.
-- Thinks inventors who create constructs from monster entrails are how "abominations that walk the north came to be," but keeps her mouth shut about it.
-- Has a kinship with life and doesn't want anyone to die.
-- Desires only a "nice new teapot," not a new studio, out of her share.
-- Is unaware of what Aasimar and Tieflings are, showing genuine ignorance.
-- Remembers a bird in the forest that sang a single note all season; decided not to tell Vukradin about it because she hadn't been paid yet.
+- **Current status:** Alive. Old (late in life), but determined not to die yet.
+- **Current location:** Recently reverted to tortle form at the windmill (Umbrage Hill area) after using Wild Shape as a spider during a fight with a manticore.
+- **Allegiance/faction:** Naturalist druid. Considers constructs, extra-planar creatures, and inventors who disregard the natural world to be abominations and disruptions to the natural order. Openly stated she would side with preservers, not interveners, in the great druidic schism.
+- **Current possessions / notable items:**
+  - **Meril's Staff** — a friend's gift, currently carried (used as a walking stick and as a focus for spells like Poison Spray).
+  - **Hand crossbow** — acquired before reaching the Townmaster's Hall (ch04); polished stock, compact limbs.
+  - **A share of gemstones** — ruled 2 gems for each of 4 party members and 2 dwarves after the mine find.
+  - **50 gold** — payment due/claimed for guiding the party; she reminds Vukradin he owes her, and her "tab" for him continues to grow.
+  - **A nice new teapot** — stated desire for what she wants with her money (not a studio).
+- **Spells known / used (current):**
+  - **Wild Shape (spider form)** — demonstrated recently; she can think and feel as herself while wholly spider.
+  - **Mold Earth** (cantrip) — used to clear rubble; not for damage.
+  - **Thorn Whip** — used to drag opponents.
+  - **Poison Spray** — her go-to combat spell ("Nothing beats it").
+  - **Ice Knife** — prepared/used, though she once said she'd never use it and later did.
+  - **Goodberries** — prepared (dropped Longstrider to do so, earlier).
+  - **Mending** — offered to cast on Vukradin's instrument recently.
+  - **Conjure Familiar** — cast to send a familiar into a manticore's mouth.
+- **Wounds/condition:** Recovered fully after a long rest earlier. Was downed by an ochre jelly (reduced to 0 HP) and healed by Valphine; later joked "only need one hit point." No current wounds noted.
+- **Current assignment / role & key relationships:**
+  - Hired as a guide for Vukradin and the party; she considers herself "just a hired tour guide" and expects payment (tab growing).
+  - Travels with Vukradin, Valphine, Brewbarry, and (earlier) Norbus. She cares for everyone in the group and believes the bard needs her help and guidance.
+  - Druidic master: **Meril** — Meril tried his best to train her in just one year near her home; she feels gaps in her training but lacked time.
+  - Briefly connected to **Adabra** at the windmill — asked her about the naturalist/interventionist schism, found her admirable, but was annoyed when Adabra implied gaps in Soma's training ("Whatever").
+  - Reports to no one; works for coin from the party.
+- **Defining recent actions:**
+  - Fought a manticore at the windmill: used spider Wild Shape to climb and bite a bandit (poison killed him), summoned a familiar into the manticore's mouth, reassured a woman ("Stay calm," "It's safe now"), and offered to cast Mending on Vukradin's instrument.
+  - Helped the dwarves Fiddlestib and Dabblebob by handing over proof of a monster's death.
+  - Argued against asking for more gold (25 gold was plenty; "sometimes the reward is knowing you did the right thing").
+  - Fought ochre jellies, orcs, and an ogre — nearly died twice; survived.
+- **Revealed motivations / secrets:**
+  - Wants to heal the land, not blight it.
+  - Kinship with all life; doesn't want anyone to die (but excludes bandits trying to kill her).
+  - Trying to "make up lost time as a druid."
+  - Wondered if she'd still be home with her family if she'd had Adabra's determination (suggests regret or distance from family).
+  - Wants to avoid teaching her "bale" to pry gems from Abbathor's fingers.
+  - Has laid eggs on a beach Vukradin has never seen.
 
 ## Uncertainty
 
-- **Companionship status:** Soma was last seen traveling with Vukradin and the party (Valphine, Brewbarry), but whether all of them are still together at the latest chapter is not fully confirmed — she specifically "leads Vukradin" to the Townmaster, and her relationship with the others in the current moment is less explicit.
-- **Current physical form:** Soma is confirmed in spider form during the bandit encounter (ch04), but whether she has reverted to tortle form by the end of the chapter is not stated.
-- **Owes owed money:** The exact amount of Vukradin's "tab" to Soma is not specified — only that it "continues to grow" and she will want to be paid eventually.
-- **The scroll's fate:** Whether Soma ultimately kept the druidic scroll or returned it is not resolved in the facts — she realizes Vukradin has a point about returning it, but the outcome is not stated.
-- **Geographic ordering:** The bandit encounter and the Phandalin/Townmaster visit both appear in ch04, but the relative chronological order of all ch04 events is not fully clear (e.g., whether the bandit fight occurred before or after the Townmaster visit).
+- **Timing of 50 gold payment:** Soma said "Did he pay me my 50 gold pieces?" and later said she still needs Vukradin wealthy enough to pay her; it's unclear whether the 50 gold was ever actually paid, or if it remains outstanding.
+- **Current companions:** The party composition changed (Norbus present in early chapters, absent later); it is not confirmed who exactly is with Soma right now beyond Vukradin, Valphine, and Brewbarry being last seen with her.
+- **Adabra's offer to train Soma:** Soma looked deflated and groused "Whatever" in response — her actual feelings about the offer are ambiguous (annoyed vs. accepting).
+- **Ice Knife:** Soma said she'd never use it, then prepared/used it later; her current prepared spell list is not fully known.
+- **Her training story:** The narrator states Soma's training story is "still a mystery," so details beyond Meril's one-year tutelage are unknown.
+- **Soma's age/wisdom comparison:** One fact says she is "younger in years" than Adabra but "wiser," while another says she is "late in life" — the two could both be true if Adabra is very old, but the exact age relationship is unclear.
+- **Spider form communication:** She can communicate with other spiders while in spider form, but whether she can speak Common in that form is ambiguous (she shouted "Let him go!" and realized she was "speaking like a spider," suggesting limited communication).

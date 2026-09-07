@@ -1,0 +1,1731 @@
+{
+  "campaign": "Phandalin",
+  "generated_from": [
+    "docs/ensemble/per_chapter/*/merged.json",
+    "docs/ensemble/merged.json"
+  ],
+  "candidates": [
+    {
+      "surface": "manticore",
+      "norm": "manticore",
+      "count": 232,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Sotorra",
+      "norm": "sotorra",
+      "count": 206,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "quest",
+      "norm": "quest",
+      "count": 153,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Gnercli",
+      "norm": "gnercli",
+      "count": 126,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": {
+        "name": "Gnerkli",
+        "ratio": 0.857
+      }
+    },
+    {
+      "surface": "Wester",
+      "norm": "wester",
+      "count": 112,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "music",
+      "norm": "music",
+      "count": 107,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "dwarf",
+      "norm": "dwarf",
+      "count": 88,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Poison",
+      "norm": "poison",
+      "count": 84,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Ironrune",
+      "norm": "ironrune",
+      "count": 76,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "halberd",
+      "norm": "halberd",
+      "count": 75,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "nothing",
+      "norm": "nothing",
+      "count": 74,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Uthgardt",
+      "norm": "uthgardt",
+      "count": 72,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Greed",
+      "norm": "greed",
+      "count": 69,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Spray",
+      "norm": "spray",
+      "count": 68,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "earth",
+      "norm": "earth",
+      "count": 67,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "north",
+      "norm": "north",
+      "count": 63,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "excavation",
+      "norm": "excavation",
+      "count": 62,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "behind",
+      "norm": "behind",
+      "count": 60,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "against",
+      "norm": "against",
+      "count": 58,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "adventurers",
+      "norm": "adventurers",
+      "count": 52,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Knife",
+      "norm": "knife",
+      "count": 51,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "another",
+      "norm": "another",
+      "count": 50,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Grayshard",
+      "norm": "grayshard",
+      "count": 48,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "giants",
+      "norm": "giants",
+      "count": 46,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "broken",
+      "norm": "broken",
+      "count": 45,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Fiddlestib",
+      "norm": "fiddlestib",
+      "count": 40,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "around",
+      "norm": "around",
+      "count": 39,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "across",
+      "norm": "across",
+      "count": 37,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Baenre",
+      "norm": "baenre",
+      "count": 36,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "clearing",
+      "norm": "clearing",
+      "count": 36,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "stories",
+      "norm": "stories",
+      "count": 34,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "naturalist",
+      "norm": "naturalist",
+      "count": 33,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Coster",
+      "norm": "coster",
+      "count": 32,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "several",
+      "norm": "several",
+      "count": 32,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "outside",
+      "norm": "outside",
+      "count": 31,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "three",
+      "norm": "three",
+      "count": 31,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Graywind",
+      "norm": "graywind",
+      "count": 30,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Enclave",
+      "norm": "enclave",
+      "count": 28,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Flame",
+      "norm": "flame",
+      "count": 27,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "demon",
+      "norm": "demon",
+      "count": 27,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Command",
+      "norm": "command",
+      "count": 26,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "among",
+      "norm": "among",
+      "count": 25,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "anyone",
+      "norm": "anyone",
+      "count": 25,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "sacred",
+      "norm": "sacred",
+      "count": 25,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Dabblebob",
+      "norm": "dabblebob",
+      "count": 24,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": {
+        "name": "Dabbledob",
+        "ratio": 0.889
+      }
+    },
+    {
+      "surface": "Father",
+      "norm": "father",
+      "count": 24,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Thorn",
+      "norm": "thorn",
+      "count": 24,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "barbarians",
+      "norm": "barbarians",
+      "count": 23,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "beyond",
+      "norm": "beyond",
+      "count": 23,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Overbright",
+      "norm": "overbright",
+      "count": 22,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Taraskh",
+      "norm": "taraskh",
+      "count": 22,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "alliance",
+      "norm": "alliance",
+      "count": 22,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "barbarian",
+      "norm": "barbarian",
+      "count": 22,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "mushroom",
+      "norm": "mushroom",
+      "count": 22,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Black",
+      "norm": "black",
+      "count": 21,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Dragons",
+      "norm": "dragons",
+      "count": 21,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "strange",
+      "norm": "strange",
+      "count": 21,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Greenmeadow",
+      "norm": "greenmeadow",
+      "count": 20,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Orrin",
+      "norm": "orrin",
+      "count": 20,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": {
+        "name": "Corrin",
+        "ratio": 0.909
+      }
+    },
+    {
+      "surface": "Undercommon",
+      "norm": "undercommon",
+      "count": 20,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Warren",
+      "norm": "warren",
+      "count": 20,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "morning",
+      "norm": "morning",
+      "count": 20,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Ordning",
+      "norm": "ordning",
+      "count": 18,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "healing",
+      "norm": "healing",
+      "count": 18,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "trail",
+      "norm": "trail",
+      "count": 18,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "tremor",
+      "norm": "tremor",
+      "count": 18,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "whatever",
+      "norm": "whatever",
+      "count": 18,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Realms",
+      "norm": "realms",
+      "count": 17,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Trail",
+      "norm": "trail",
+      "count": 17,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Aasimar",
+      "norm": "aasimar",
+      "count": 16,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "bandits",
+      "norm": "bandits",
+      "count": 16,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "great",
+      "norm": "great",
+      "count": 16,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "slave",
+      "norm": "slave",
+      "count": 16,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "twice",
+      "norm": "twice",
+      "count": 16,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Marches",
+      "norm": "marches",
+      "count": 15,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "dragons",
+      "norm": "dragons",
+      "count": 15,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "nobody",
+      "norm": "nobody",
+      "count": 15,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "ogres",
+      "norm": "ogres",
+      "count": 15,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Goodberries",
+      "norm": "goodberries",
+      "count": 14,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Sacred",
+      "norm": "sacred",
+      "count": 14,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Slayer",
+      "norm": "slayer",
+      "count": 14,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "poison",
+      "norm": "poison",
+      "count": 14,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "tavern",
+      "norm": "tavern",
+      "count": 14,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "ancient",
+      "norm": "ancient",
+      "count": 13,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Demogorgon",
+      "norm": "demogorgon",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Elarah",
+      "norm": "elarah",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Giants",
+      "norm": "giants",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Orcus",
+      "norm": "orcus",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Shield",
+      "norm": "shield",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": {
+        "name": "+1 Shield",
+        "ratio": 0.923
+      }
+    },
+    {
+      "surface": "Tieflings",
+      "norm": "tieflings",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "corruption",
+      "norm": "corruption",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "gnomish",
+      "norm": "gnomish",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "search",
+      "norm": "search",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "together",
+      "norm": "together",
+      "count": 12,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Earth",
+      "norm": "earth",
+      "count": 11,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "demons",
+      "norm": "demons",
+      "count": 11,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "forest",
+      "norm": "forest",
+      "count": 11,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "saving",
+      "norm": "saving",
+      "count": 11,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Fiddelstib",
+      "norm": "fiddelstib",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Giant",
+      "norm": "giant",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Longstrider",
+      "norm": "longstrider",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Overbrighters",
+      "norm": "overbrighters",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Silvery",
+      "norm": "silvery",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Tavern",
+      "norm": "tavern",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Toril",
+      "norm": "toril",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Zugtomy",
+      "norm": "zugtomy",
+      "count": 10,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Reports",
+      "norm": "reports",
+      "count": 9,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "northern",
+      "norm": "northern",
+      "count": 9,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Everlund",
+      "norm": "everlund",
+      "count": 8,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Grazz't",
+      "norm": "grazzt",
+      "count": 8,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Great",
+      "norm": "great",
+      "count": 8,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Nevermber",
+      "norm": "nevermber",
+      "count": 8,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": {
+        "name": "Dagult Neverember",
+        "ratio": 0.947
+      }
+    },
+    {
+      "surface": "Sundering",
+      "norm": "sundering",
+      "count": 8,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Territories",
+      "norm": "territories",
+      "count": 8,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "spray",
+      "norm": "spray",
+      "count": 8,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Demon",
+      "norm": "demon",
+      "count": 7,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "patrons",
+      "norm": "patrons",
+      "count": 7,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Ancient",
+      "norm": "ancient",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Celestial",
+      "norm": "celestial",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Following",
+      "norm": "following",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Goblin",
+      "norm": "goblin",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Goodberry",
+      "norm": "goodberry",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Lament",
+      "norm": "lament",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Starry",
+      "norm": "starry",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Thank",
+      "norm": "thank",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Unmoved",
+      "norm": "unmoved",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "agents",
+      "norm": "agents",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "manticores",
+      "norm": "manticores",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "radiant",
+      "norm": "radiant",
+      "count": 6,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Barbarians",
+      "norm": "barbarians",
+      "count": 5,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Lordship",
+      "norm": "lordship",
+      "count": 5,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "friends",
+      "norm": "friends",
+      "count": 5,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "spiders",
+      "norm": "spiders",
+      "count": 5,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "sticks",
+      "norm": "sticks",
+      "count": 5,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Aasimars",
+      "norm": "aasimars",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Coast",
+      "norm": "coast",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Healing",
+      "norm": "healing",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Kraken",
+      "norm": "kraken",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Sypha",
+      "norm": "sypha",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_02_arrival_in_phandalin/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Tariff",
+      "norm": "tariff",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Whatever",
+      "norm": "whatever",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "angry",
+      "norm": "angry",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "please",
+      "norm": "please",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "screw",
+      "norm": "screw",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "they'll",
+      "norm": "theyll",
+      "count": 4,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Barbarian",
+      "norm": "barbarian",
+      "count": 3,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Northern",
+      "norm": "northern",
+      "count": 3,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Search",
+      "norm": "search",
+      "count": 3,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Spiders",
+      "norm": "spiders",
+      "count": 3,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "according",
+      "norm": "according",
+      "count": 3,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "realms",
+      "norm": "realms",
+      "count": 3,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Angry",
+      "norm": "angry",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Archeology",
+      "norm": "archeology",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Baldur",
+      "norm": "baldur",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Celestials",
+      "norm": "celestials",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Disengage",
+      "norm": "disengage",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Dummies",
+      "norm": "dummies",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Expansionism",
+      "norm": "expansionism",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Faerun",
+      "norm": "faerun",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_07_saving_adabra/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Graz'zt",
+      "norm": "grazzt",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Grazz’t",
+      "norm": "grazzt",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Houses",
+      "norm": "houses",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Knifes",
+      "norm": "knifes",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Multiple",
+      "norm": "multiple",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Noble",
+      "norm": "noble",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Ogres",
+      "norm": "ogres",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_05_to_find_a_shapeshifter/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Perfect",
+      "norm": "perfect",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_03_greed_is_good/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Tiefling",
+      "norm": "tiefling",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "You'll",
+      "norm": "youll",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_04_orcs_slaughtered_us/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "Zuggtmoy",
+      "norm": "zuggtmoy",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json",
+        "docs/ensemble/per_chapter/chapter_01_neverwinter_expansionism_and_the_north_excerpt_from_the_great_sage_konstantinious_the_12th/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "celestial",
+      "norm": "celestial",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/per_chapter/chapter_06_the_bard_the_kings_and_the_carver/merged.json"
+      ],
+      "near_miss": null
+    },
+    {
+      "surface": "you're",
+      "norm": "youre",
+      "count": 2,
+      "sources": [
+        "docs/ensemble/merged.json"
+      ],
+      "near_miss": null
+    }
+  ]
+}

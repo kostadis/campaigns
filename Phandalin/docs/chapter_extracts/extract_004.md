@@ -1,7 +1,7 @@
 ## NPCs
-**Fiddlestib and Dabblebob** (Gnome inventors): Excited to receive proof of mimic's death, discussed creating constructs from creature's entrails. Fiddlestib favors bicameral legislature with unitary executive, Dabblebob prefers more kings for voting. Last seen at inventor's workshop, arguing over tamper-proof voting box feasibility.
+**Fibblestib and Dabbledob** (Gnome inventors): Excited to receive proof of mimic's death, discussed creating constructs from creature's entrails. Fibblestib favors bicameral legislature with unitary executive, Dabbledob prefers more kings for voting. Last seen at inventor's workshop, arguing over tamper-proof voting box feasibility.
 
-**King Korboz and King Gnercli** (Dual monarchs): Argument escalated after Vukradin's political questioning. Korboz insisted on seniority privileges as senior king, Gnercli maintained no hierarchy exists. Gave party magical hat reward. Last seen arguing over governance structure.
+**King Korboz and King Gnerkli** (Dual monarchs): Argument escalated after Vukradin's political questioning. Korboz insisted on seniority privileges as senior king, Gnerkli maintained no hierarchy exists. Gave party magical hat reward. Last seen arguing over governance structure.
 
 **Townmaster** (Phandalin official): Still insists he's a tasteless morsel for dragons. Received party after their return from gnome settlement.
 

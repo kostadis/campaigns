@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "reviewId": "dialogue-edit:098bdafc1b3bb913f8c41495d7309b3f5c7888a43b603b68ce2540f812ac0502",
+  "payload": {
+    "scene": "Scene 2 — Nine Crates at Low Tide",
+    "session": "/home/kostadis/phandalin/Phandalin/summaries/20260902",
+    "run_dir": "/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene02-r1",
+    "draft": "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_02_nine_crates_at_low_tide.scrubbed.md",
+    "source": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/02_the_sewer_stakeout.md",
+    "inputs": {
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_02_nine_crates_at_low_tide.scrubbed.md": {
+        "role": "draft",
+        "sha256": "7aaf129d54f484ad68a1b72bdad457f3c116ed9ec61b6baa2bf62e09cdabcfde"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/02_the_sewer_stakeout.md": {
+        "role": "source",
+        "sha256": "0d568cd1a3e24596604a16a7b8d43befbae56f47e562399ad2d7b7f8514d80a5"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/party.yaml": {
+        "role": "reference",
+        "sha256": "0c80629b963be3f57c42c11c9ceee10e2a8fd80c8ff57717539b7ff4dc50d891"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/players.yaml": {
+        "role": "reference",
+        "sha256": "6db574fc53fa1622853bc1877a105a5982327eee9469d0b95e8e04de0b196c28"
+      },
+      "/home/kostadis/phandalin/Phandalin/config/session_doc.yaml": {
+        "role": "reference",
+        "sha256": "596c7af11b0f6c40d116c93604865c186f74143857dfa702320db1b6de510bde"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/_genre.md": {
+        "role": "reference",
+        "sha256": "7a848f23addaf26686576b1c1a109a53960f1dce66e3fee85a04bde549962f41"
+      },
+      "/home/kostadis/phandalin/Phandalin/notes/scrub_register_policy.md": {
+        "role": "reference",
+        "sha256": "a336d3df3856a5cbfa05a16edf32e443ed277f663149592fcf63858483c7edce"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/plan.md": {
+        "role": "reference",
+        "sha256": "c52ce3d0c450708ff114bb97b5cbb56ae329b547d87cf7fa8a904dcefc9781c6"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/voice_smooth.sources.yaml": {
+        "role": "reference",
+        "sha256": "730ad84ea99a86bb21a4401df20503140b545095ff2ae1b60d3502078cbbc899"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration/no_mech_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "48e2e27f66a02b873722ae813cef90f7a1483ee370c65fd6d2d825020c0d7fab"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/scrub_manifest_20260902.md": {
+        "role": "reference",
+        "sha256": "79a9801d2422228673c6b62cf71f75552d7ac9ba0fbdf86d8a08f4b8a3d99547"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/.cg/activity.jsonl": {
+        "role": "reference",
+        "sha256": "19818db865e8af70cf2470071e973156a24b0bf0a0ca401d1cc369f962e2fb43"
+      },
+      "/home/kostadis/phandalin/Phandalin/voice/vukradin_new_pipeline.md": {
+        "role": "reference",
+        "sha256": "2f17508947a605a0fd68409cc7522ade17e3ca0dbf7d764b9068e8ffa05bf59a"
+      },
+      "/home/kostadis/phandalin/Phandalin/examples/vukradin.md": {
+        "role": "reference",
+        "sha256": "1d10b874779646614f4a1d28c47dbdd986fa6ee958ed6f2e23d8778d826f8315"
+      },
+      "/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_02_nine_crates_at_low_tide.knobs.json": {
+        "role": "reference",
+        "sha256": "4d25d74d870c04aacac16aebb2e74349b2207a33d672501c0d2316d3aa0bf559"
+      }
+    },
+    "edits": [],
+    "observations": [
+      "No supported dialogue changes proposed. The fragment ‘turn into Brewbarry.’ lacks a recoverable subject, and the magical-effect exchange retains intentional character confusion and cadence."
+    ],
+    "skill_sha256": {
+      "SKILL.md": "30f03f7eaba1593d1e24cdd23271369fa47f9dae9a0c3115ed1e2cd11419d51e",
+      "scripts/review_edits.py": "770a578d7da1d5a2dee31206c24ed5163be2b9d17031b831d73c8549006aec12",
+      "references/editorial-guide.md": "790721eb80cef5e1f14cff0fb6f6965cb0062bbf16cd9b527ef03f6ca314c72f",
+      "references/review-and-apply.md": "0b38628119fd023460fb1029ebdc077d5cd05c945c4e2d7db842a78eedc89783"
+    },
+    "prepared_at": "2026-09-06T23:49:45.451498+00:00"
+  }
+}

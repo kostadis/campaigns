@@ -86,7 +86,7 @@ A 3-tiered tavern built in and around the refurbished wreckage of the pirate shi
 ---
 
 ### The Sewers
-An unmapped sewer system beneath Bluelake. Home to an increasingly large **Dead Rats** wererat gang led by **Rsolk** (also spelled Rsalk — same character). They ambush nighttime traders from the gutters and store stolen goods in a hidden vault somewhere in the sewers. They operate with care: when exposure risks getting too high, they retreat underground. If left unchecked, their activity will deter settlers and merchants from the district entirely.
+An unmapped sewer system beneath Bluelake. Home to an increasingly large **Dead Rats** wererat gang led by **Rsolk** (*Rsalk* in some transcripts is a misspelling — see `notes/vtt_transcription_corrections.md`). They ambush nighttime traders from the gutters and store stolen goods in a hidden vault somewhere in the sewers. They operate with care: when exposure risks getting too high, they retreat underground. If left unchecked, their activity will deter settlers and merchants from the district entirely.
 
 ---
 

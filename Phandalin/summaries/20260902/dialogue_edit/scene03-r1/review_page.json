@@ -1,0 +1,16 @@
+{
+  "title": "Scene 3 — Lost in Rsolk's Tunnels",
+  "reviewId": "dialogue-edit:4dfb96fa231b3883f6a296d8fb3866cc0a98bc51a35a934475acfe67462649f8",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s03-01",
+      "t": "s03-01: Correct sentence capitalization and the compound modifier without changing Soma&#x27;s qualified promise.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_03_lost_in_rsolk_s_tunnels.scrubbed.md:217</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene03-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;</pre><p>After</p><pre>&quot;We have kind of an arm&#x27;s-length relationship with the Common Chord, but I will ask for you.&quot;</pre><p>Surrounding draft</p><pre>I must be precise. Our relationship with the Common Chord exists, but it is not the sort of relationship where I can promise their seats as if I control the venue.\n\n&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;\n\n&quot;That&#x27;s all I could ask for.&quot;\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/03_encounter_in_the_sewers.md:367</code></p><pre>&quot;we have kind of an arm&#x27;s length relationship with the Common Chord, but I will ask for you.&quot;</pre>"
+    }
+  ]
+}

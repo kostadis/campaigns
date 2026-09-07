@@ -1,252 +1,195 @@
-<!-- section: npcs | inputs-sha: e8da82bcc4eb917e -->
+<!-- section: npcs | inputs-sha: 85ed13b54be0cbda -->
 _Dossiers: fallback (docs/ensemble/state_dossiers)._
 
-# WORLD STATE DOCUMENT — LIVING CANON REFERENCE
+# WORLD STATE — Dragon of Icespire Peak / Lost Mine Hybrid (Phandalin)
+
+*Living canon reference. Current as of Chapter 7. Where earlier chapters conflict with later ones, later wins.*
 
 ---
 
-## 1. OVERWORLD & REGIONAL STATUS
+## CURRENT SITUATION (one-paragraph snapshot)
 
-### The Sword Coast / Phandalin Region
-
-**Phandalin** is an active frontier town under the authority of Townmaster **Harbin Wester**. He posts quests for adventurers with rewards payable from his own coffers (e.g., 50 gp per quest), and operates under a higher authority referred to only as "his lordship," who guarantees adventurers tax-free plunder. Harbin is self-deprecating about dragons, repeatedly calling himself a "tasteless morsel." The town hosts the **Stonehill Inn** (run by Toblen Stonehill) and the **Lionshield Coster outpost** (run by Linene Graywind).
-
-**Trade & Rumors:**
-- Tariffs have disrupted the Lionshield Coster's trade, though they still carry a wide variety of goods.
-- A rumor claims strange magic pervades **Neverwinter Wood**, confounding navigators and obscuring ancient ruins.
-- A white dragon is rumored to be active near the region (as warned by Toblen Stonehill).
-
-**Key Locations:**
-- **Stonehill Inn** — Phandalin's inn; Toblen Stonehill encourages bardic performances.
-- **Lionshield Coster** — Trade outpost in Phandalin.
-- **Townmaster's Hall** — Where Harbin Wester commissions quests.
-- **First Flophouse** — A lodging where Vukradin previously performed but has since quit.
-- **Gnomengarde** — Gnome mountain community under dual kingship (see below).
-- **Umbrage Hill** — Destination where the party is heading to rescue Adabra Gwynn.
-- **Triboar** — A settlement to the north; source of the play Vukradin wishes to revive ("Bob") and Toblen Stonehill's birthplace.
+The party — Vukradin (aasimar bard), Soma (tortle druid), Valphine (drow cleric of Lathander), and Brewbarry (goliath/Uthgardt melee fighter) — is at **Adabra Gwynn's windmill on Umbrage Hill**, having killed the manticore that was besieging it. Adabra refuses to leave her home and has given Vukradin a note declining rescue; she is instead treating Townmaster Harbin's illness remotely. A traumatised ex-bandit, **Corbin**, has attached himself to the party. Through Corbin and a captured spider-fearing bandit, the party has learned of **"the Carver,"** a bandit boss they have not met, operating through a lieutenant named **Jax**. Vukradin intends to interrogate further and return to Phandalin to press Harbin for pay. Overhanging everything: a **white dragon** terrorising the Phandalin region, keeping adventurers scarce.
 
 ---
 
-## 2. ACTIVE PLOT THREADS — IMMEDIATE SITUATION
+## THE PARTY (player characters)
 
-### The Party's Current Mission
+**Confirmed current roster (reconciled across all dossiers):** Vukradin, Soma, Valphine, Brewbarry. Corbin (NPC) is currently travelling with them. Norbus was with the group in early chapters (2–4) but is NOT a current travelling companion — he remains at the excavation site.
 
-The adventuring party (Vukradin, Soma, Valphine, Brewbarry) is operating in the Phandalin region. Their immediate objectives:
+### Vukradin — Aasimar Bard
+Impoverished avant-garde musician; self-appointed moral center. Morally rigid: refuses "blood money" and monster treasure, insisting all wealth belongs to rightful heirs. **Goal:** build a music studio "where serious people can make serious music" — has no money for it and despairs of ever affording it. Instruments: flute, clarinet, trumpet (no piano on the road). Carries a halberd, daggers, two rations, and sending stones earned from the dwarves (claims they're worth a couple hundred gold). Spells seen: Thunderwave, Starry Wisp, Command, Light, Mold Earth. Speaks Undercommon and Goblin. Nearly died twice to orcs (ch03–04); recovered. Killed the manticore (took its head). Persuasion is "measured, warm, and entirely merciless." Senses "a deeper agenda at play" around Adabra he doesn't understand.
 
-1. **Rescue Adabra Gwynn** at **Umbrage Hill** — the party is en route; the nature of her peril is unknown. They were offered 25 gold for this task; Vukradin was urged to negotiate for more.
-2. **Acquire a dragon-fighting device** — Harbin Wester commissioned Vukradin on a diplomatic mission to obtain this device.
-3. **Follow up on the Carver** — a captured bandit (survivor of the Uthgardt attack) is providing information about the bandit leader known as **the Carver**.
+### Soma — Tortle Druid
+Old, naturalist, determined not to die yet. Sides with **preservers** in the druidic schism; regards constructs, extraplanar creatures, and heedless inventors as abominations. Hired as the party's guide ("just a hired tour guide") — keeps a growing tab on Vukradin, is owed **50 gold** (payment status unresolved). Wants a nice new teapot, not glory. Carries **Meril's Staff** (spell focus), a hand crossbow, a share of gemstones. Go-to spell: Poison Spray. Also uses Wild Shape (spider), Mold Earth, Thorn Whip, Ice Knife, Mending, Conjure Familiar. Trained only one year under her master Meril; feels the gaps. Has laid eggs on a beach.
 
-### Gnomengarde Job — Resolved
+### Valphine Sotorra — Drow Cleric of Lathander
+Former House Sotorra of Menzoberranzan; renounced Lolth, now devoted to Lathander the Morninglord. Left the Underdark before demons destroyed the drow city; welcomed by Lathander's clerics in Neverwinter. Party healer. Carries a mithral holy symbol, mace, hand crossbow, and a **jeweled dagger secretly stolen from a dead Abbathor priest** (hidden in her pouch, not disclosed to the party). **Loves pain** — joined because a flyer promised hardship; finds sunlight "gloriously painful" and holy. Speaks Orc (from House Sotorra's slave labor) and Undercommon. Studies Vukradin, unsure if his decency is "the finest manipulation or something rarer." Aligned with Brewbarry on torture-as-purification.
 
-The party completed a job for the dual kings of Gnomengarde involving a shapeshifter menace: they delivered proof of the monster's death to the inventors. In exchange, they received a **hat of wizardry** (handed over by one of the kings, attribution between Korboz and Gnercli is disputed in the record). A "device" was also offered as part of the reward, but whether it was delivered is unconfirmed.
-
----
-
-## 3. THE ADVENTURING PARTY
-
-### Vukradin
-**Race/Class:** Bard. **Status:** Alive. **Location:** Travelling with the party in the Phandalin region.
-
-A freelance bard with strong artistic principles: he refuses to steal or grave-rob, repeatedly asking whether items will be returned to rightful owners. He harbors a hatred for those who hate the arts (which drove him to kill a fleeing ogre). His primary goal is to earn enough money to build a music studio; he is fascinated by the musical potential of sending stones.
-
-**Notable items:** Sending stone(s) (claims to be "rich" because of them); a clarinet; possibly a hat of wizardry (delivery unconfirmed).
-
-**Key traits & behaviours:**
-- Reckless confidence bordering on delusion in combat; sometimes freezes/shows shock.
-- Negotiated with King Gnercli for a hat of wizardry in exchange for dealing with the shapeshifter.
-- Quit performing at the First Flophouse.
-- Wants to revive the Triboar play "Bob"; has sought the script for years.
-- Killed a fleeing bandit during the bandit encounter, then invited him to dinner to learn about the Carver.
-
-### Soma
-**Race/Class:** Tortle Druid of Mielikki. **Status:** Alive. **Location:** Phandalin (leads Vukradin to the Townmaster).
-
-A naturalist who considers constructs and extra-planar creatures abominations. She believes all life is precious — except bandits trying to kill her. Maintains a growing unpaid "tab" for guiding Vukradin, which she intends to collect.
-
-**Notable items:** A druidic spell scroll taken from bandits (fate unresolved — considers returning it).
-
-**Abilities:** Ice Knife; poison breath (ineffective against mimics); poisonous bite; wild-shape into a spider (retains her own thoughts while wholly spider); can retreat into her shell; new spider-form abilities.
-
-**Key traits & behaviours:**
-- Killed a fleeing bandit and reflected "We are assholes."
-- Desires only a "nice new teapot" from her share of rewards.
-- Genuinely ignorant of Aasimar and Tieflings.
-- Has a kinship with life; doesn't want anyone to die.
-
-### Valphine Sotorra
-**Race/Class:** Drow Cleric of Lathander. **Status:** Alive (was hit by a bandit's attack; healing status unconfirmed). **Location:** En route to Umbrage Hill with the party.
-
-A former follower of Lolth from Menzoberranzan who has embraced Lathander's light. She is pragmatic and ruthless — motivated by plunder and survival instincts — but struggles with Lathander's teachings on greed and mercy. She senses hidden power in Vukradin and wonders if Lathander sent him to show her a better way.
-
-**Notable items:** Magical bullet(s) — at least one used to knock an ogre prone; source: Brewbarry, originally found on a previous ogre.
-
-**Abilities:** Divine fire (channelled against ogres); healing magic; destructive energy use (displeased Lathander).
-
-**Key traits & behaviours:**
-- Believes monsters are "what we call things we are allowed to kill."
-- Considers torture purifying for a crazed mind; smiles when violence befalls enemies.
-- Found the 25-gold reward for Adabra's rescue absurd.
-- Thinks of ogres as darkness to be obliterated by Lathander's light.
-- Dismissed a shadow on the trail, reminding herself she's not in the Dark Realms.
-
-### Brewbarry
-**Race/Class:** Former Uthgardt barbarian. **Status:** Alive. **Location:** Last seen fighting bandits on a hill near the First Flophouse.
-
-Has renounced his Uthgardt identity, saying they "were mean to him too." Despite his barbaric fury, he prefers talk and cure over violence or torture — he openly opposed Valphine's torture idea.
-
-**Notable items:** Halberd (currently usable); pair of gleaming handaxes (hidden pouch); no other ranged weapons; distinct barbarian tribal tattoos.
-
-**Key traits & behaviours:**
-- Mid-fight with bandits, dropped his halberd and shouted "Friends" to a fleeing bandit he believes lost his tribe, apologizing for the Uthgardts' cruelty.
-- Just decapitated a bandit on a hill; body fell on him, covering him in blood.
-- Killed an ogre earlier; struck a mimic with his halberd.
-
-### Party Composition Notes
-The four are the confirmed travelling companions. A fifth figure — a **Tortle** — is mentioned in some records but appears to be Soma herself (tortle druid), not a separate companion.
+### Brewbarry — Goliath / Uthgardt Melee Fighter
+Cast out from his Uthgardt tribe for failing to guard a sacred object (it vanished while he was sober; he took up drink afterward). Bears a **holy symbol of Lathander** yet fights as a barbarian ("I have a halberd... I do not have attack spells") and "keeps forgetting to rage" — his exact class is genuinely ambiguous in the record. Vukradin's closest friend and "number one fan"; the only patron who ever paid Vukradin, and rated his music 10/10. His role: "standing in front of Vukradin and taking the hit." Wears no armor. Weapons: halberd ("Nobody keeps my halberd") + hidden handaxes. **Refuses to let Valphine torture** ("We talk! We cure!"). Feels kinship-grief for anyone who has lost their tribe. Currently injured by manticore claws.
 
 ---
 
-## 4. GNOMENGARDE
+## KEY NPCs — PHANDALIN & ENVIRONS (present window)
 
-### Governance
+### Adabra Gwynn — Hermit Herbalist, Umbrage Hill Windmill
+Alive, at her windmill. **Naturalist** member of the Emerald Enclave; opposes the interventionist faction. Holds the deed to the Umbrage Hill land and tends the dwarf cairns there. Recognizes the party as the help Harbin promised, but **refuses to leave her home** — gave Vukradin a note to that effect. Is remotely **healing Townmaster Harbin**. Declares "barbaric slaughtering of monsters to seize their treasures" a crime; refuses the word "barbarian" (calls Brewbarry a nomad). Praises Vukradin's music as blessed, noting aasimars are touched by the Celestial planes. Offered to train Soma (whom she sees as under-trained), which Soma received ambivalently. *Open:* she also spoke of coming to support "the narrator" as a fellow naturalist if Vukradin goes unpaid — her actual willingness to leave is unresolved.
 
-Gnomengarde operates under a **dual monarchy**: Kings **Korboz** and **Gnercli** share rule with no seniority between them. Decisions are made through argument until the best argument wins. This system exists deliberately to prevent a shapeshifter from rendering a single autocratic ruler unfit. Gnomes elect a new king when one is needed.
+> **Note — possible entity duplication:** The "woman in the windmill" (past her prime, herb-scented, crafts a sweetened potion of healing, self-identifies as a naturalist in the schism, refuses to leave lest the manticore catch her) is almost certainly **Adabra Gwynn** described from a different scene. Treat as the same person unless play establishes otherwise.
 
-- **King Korboz** — Senior co-king; recovered from an earlier hysterical episode (screaming about a shapeshifter). Believes shapeshifters exist. Frustrated that Gnercli doesn't believe him. Claims seniority and preferential treatment.
-- **King Gnercli** — Co-king; argued with Korboz over whether the shapeshifter existed. Dismissed Vukradin, telling him to take the hat and go. Values joint decision-making.
+### Corbin — Traumatised Ex-Bandit (NEW, ch07)
+Alive, at the windmill; currently travelling with the party. Gaunt, late twenties, haunted; wears ill-fitting leather armor scavenged from a dead man. A farmer from **Greenmeadow** (plains east of the High Forest); his fields burned and family (wife Elarah, daughter Lily) were killed in a raid by **Black Lion barbarians** — he survived left for dead under a neighbor's body. Destitute, turned away in town as "another broken man," he fell in with the Carver's forest crew. Met Meril during his journey. Terrified of Soma's spider form. Asked Brewbarry to keep his armor (unresolved). Doesn't want to die.
 
-### Inventors
+### Harbin Wester — Townmaster of Phandalin
+Alive, inside his townmaster's hall (boarded shut as of ch02; current state unconfirmed). The party's employer. Sent them to Gnomengarde and to rescue the "midwife past the hills" (Adabra). Openly sponsors "grave robbers," paying for recovered treasure/relics and offering more to keep them safe — cites Neverember's authority. Paid the party a purse of gold (ch04) but remains terrified, attention fixed on his door and shuttered window — fear directed at **the dragon**. Being treated remotely by Adabra.
 
-- **Dabbledob** — Foremost inventor; focused on curing King Korboz's madness. Dismissed Fibblestib's sanity-ray proposal. Prefers having more kings so votes could be held. (May be the same person as "Dabblebob" — name variants in record.)
-- **Fibblestib** — Foremost inventor; coworker of Dabbledob. Interested in creating a construct from a creature's entrails (with Dabbledob) and building a tamper-proof voting box. Favours a bicameral legislature with a unitary executive.
-- **Fiddlestib** — Inventor colleague (possibly same as Fibblestib — name variants in record); supports bicameral legislature with unitary executive.
-- **Facktoré** — Deranged gnome inventor with a rotating crossbow device; attempted to test it on the party without consent. Status after the encounter unknown.
+### Toblen Stonehill — Innkeeper, Stonehill Inn, Phandalin
+Alive. Affable proprietor who knows the party by sight. Formerly of **Triboar**, which was destroyed in an Uthgardt attack — he publicly forgives the Uthgardt ("the past is the past") and apologized to Brewbarry. Warned the party of **orc tribes coming down from the north** and of the **small dragon problem**. Points newcomers to the quest board.
 
-### Guards & Other Gnomes
-
-- **Ulla** — Gnome guard; directs visitors through Gnomengarde. Suspicious of her fellow guard (named "Pog" or "Pug" in different records), noting he "looked a little bit different the past few days."
-- **Pog/Pug** — Male gnome guard; introduced himself when the party arrived. Ulla believes he's been acting differently.
-- **Warren & Orrin** — Two gnomes who went missing; King Korboz reportedly claims a shape-changing creature was responsible.
-
-### The Shapeshifter
-
-A shapeshifter menace at Gnomengarde was dealt with by the party — they delivered proof of the monster's death to the inventors. The kings argued over whether it existed. The party was rewarded with a hat of wizardry (confirmed handed over) and an offered "device" (delivery unconfirmed).
+### Linene Graywind — Proprietor, Lionshield Coster, Phandalin
+Alive. Trade is down due to supply disruptions she's evasive about (protecting a source, employer, or herself). Shared a rumor: **strange magic pervades Neverwinter Wood**, confounding navigators and hiding ancient ruins.
 
 ---
 
-## 5. OPEN THREADS & MYSTERIES
+## GNOMENGARDE (rock-gnome cave settlement)
 
-### The Carver's Bandit Network
-- **The Carver** — "Big boss" of a bandit operation; described as "big." Never met by his own underlings. The captured bandit blames the Carver for his predicament. Location, status, and true nature unknown.
-- **Jax** — The only bandit higher-up the captured survivor knows face-to-face. Worked with the survivor in some capacity. No other details known.
-- **The Bandit Survivor** — Displaced when the Uthgardts destroyed his village; claims he doesn't want to steal and blames the Carver. Sincerity unverified. His current relationship to the party (captive, ally, guest) is unspecified. Vukradin invited him to dinner; he asked to join the group and Vukradin agreed.
+A dual monarchy deliberately structured to resist shapeshifter infiltration (a single mad king could be a shapeshifter's puppet). The party was sent here by Harbin and resolved a **shapeshifter (mimic)** crisis.
 
-### The Gnomengarde Shapeshifter Aftermath
-- Whether the hat of wizardry was actually delivered to Vukradin is unconfirmed (one record says the deal was accepted; another shows a king angrily handing it over).
-- Whether the promised "device" was given to the party is unconfirmed.
-- Whether the shapeshifter was the cause of Warren and Orrin's disappearance, and whether they were found, is unresolved.
-
-### The Hat of Wizardry
-- Vukradin was promised a hat of wizardry by King Gnercli as part of the Gnomengarde deal. A hat was handed over by one of the kings (attribution disputed), but Vukradin's current possession is unconfirmed. He was angry when receiving it, and one king told him to "take it and go."
-
-### Valphine's Faith
-- Valphine appears torn between Lolth-trained pragmatism and Lathander's teachings. Lathander is "not pleased" with her use of destructive energy. A "Lathander's Cleric" cautioned her about greed — identity unclear (self-referential, a mentor, or another party member?).
-- She wonders if Lathander sent Vukradin to show her a better way. She senses power in him he doesn't realize.
-
-### Vukradin's Sending Stones
-- Vukradin claims "I am rich! I have sending stones!" — origin and number unspecified. He is fascinated with their musical potential. Dazlyn Grayshard offered a pair of sending stones to the party as payment; whether the party accepted is unrecorded.
-
-### White Dragon Rumor
-- Toblen Stonehill warned of a rumored white dragon near the region. Harbin Wester self-deprecatingly calls himself a "tasteless morsel for a dragon." The party is commissioned to acquire a dragon-fighting device.
-
-### The Deeper Conspiracy (Ch. 1 Background)
-- **Lolth** is trapped in a demi-plane after orchestrating an elaborate multi-century plan that backfired. She maintains contingency plans; her escape required magic capable of temporarily loosening planar bonds. Whether she remains trapped is unresolved.
-- **Gromph Baenre** (First House of Menzoberranzan, Lolth's pawn) attempted a spell to give the Drow control of the "Faerzess." Instead, the bonds between the Abyss and Toril weakened for a moment. Why it misfired is unstated.
-- **Zariel** (Archdevil of Avernus) discovered a loophole in the gods' rules and devised a plan to bring **Tiamat** into the world — but Zariel has her own plans for Tiamat, separate from Tiamat's intentions. Whether Tiamat is still in Avernus or has been brought into the world is unstated.
-- **Tiamat** duped **Severin** and the Cult of the Dragon into attempting to bring her into the world. She believed the plan was her own — but it was not; a hidden manipulator originated it. Identity of this manipulator unknown.
-- **Hekaton** (Storm Giant King) founded an alliance between giants and the peoples of the Realms. Current status and location unknown.
-- **Iymrith** escaped an unspecified captivity or encounter. From what/who is unknown.
-- **Dagult Neverember** — Lord of an unnamed city-state; with the recent threat over, has turned his attention to the surrounding hinterland. Whether this means expansion, development, or observation is unclear.
+- **King Korboz** — Alive; recovered from earlier hysterics. Co-king claiming seniority over Gnercli. Suffers **madness** (the inventors are trying to cure it). Claimed a shape-changing creature took Warren and Orrin; shouted "A shapeshifter!" at the name *Vukradin*, accusing him. Now speaks calmly, explaining decisions are made "Together."
+- **King Gnercli** (spelled "Gnerkli" / "Gnercli") — Alive. Co-king; insists there's no seniority, decisions go to the best argument. Owned a **hat of wizardry**, which he handed to the party ("Here! And go!") as payment for dealing with the shapeshifter.
+- **Fibblestib** — Inventor. Believes gnomes "invent their way out of illness"; wants a **sanity ray** to cure Korboz. Nearly killed Vukradin testing rotating blades and called it proof of the invention's worth. Offered to build the party a (non-ordinary) piano.
+- **Dabbledob** — Inventor, Fibblestib's coworker; pragmatic and evidence-skeptical. Argued straitjacket/music vs. sanity ray. (Note: "Fiddlestib" and "Dabblebob," seen in ch06 excited to greet Soma and Vukradin and debating a construct built from entrails, are spelling variants of Fibblestib and Dabbledob.)
+- **Facktoré** — Deranged gnome inventor who tested a **rotating crossbow device** on the party as live targets. Fled when the device was disabled; whereabouts unknown.
+- **Pog & Ulla** — Gnome bridge guards. Challenged the party, let them pass (a standing "attack Uthgardt on sight" order was unrenewed, so Brewbarry was admitted). Openly suspicious of shapechangers; Ulla noted a gnome named "Pug" recently "looked a little bit different."
+- **Warren & Orrin** — Two gnomes who went **missing**; Korboz blames the shapeshifter. Status unknown.
 
 ---
 
-## 6. KEY NPC DOSSIERS — BACKGROUND & SUPPORTING
+## THE DWARVEN EXCAVATION (Abbathor temple, canyon SW of Phandalin)
 
-### Harbin Wester
-**Role:** Townmaster of Phandalin. **Status:** Alive; presumed in Phandalin.
-- Posted quests (50 gp rewards); commissioned Vukradin on the dragon-device diplomacy mission.
-- Recognized Vukradin as the Stonehill Tavern musician.
-- Answers to an unnamed "his lordship" who guarantees tax-free plunder.
-- Self-deprecating about dragons.
+An ancient dwarven settlement buried by an avalanche, containing a **Temple of Abbathor** (evil dwarf god of greed) and its **Hall of Greed**. Priests once made blood-and-gemstone sacrifices during solar eclipses; Abbathor punished insufficient tribute with the earthquake/avalanche that buried the site and crushed a cleric under a collapsing ceiling. The party cleared oozes (ochre jellies) and recovered gems. Red leather priest vestments remain in a stone wardrobe.
 
-### Toblen Stonehill
-**Role:** Proprietor of the Stonehill Inn, Phandalin. **Status:** Alive.
-- Native of Triboar; came to Phandalin to prospect but became an innkeeper instead.
-- Convinced Vukradin to play music for patrons; warned of the white dragon rumor.
-- Dismisses past wars as over.
-
-### Linene Graywind
-**Role:** Master of the Lionshield Coster outpost, Phandalin. **Status:** Alive.
-- Confirmed tariff disruptions to trade.
-- Relayed the Neverwinter Wood strange-magic rumor.
-
-### Dazlyn Grayshard & Norbus Ironrune
-**Role:** Shield dwarf prospectors; business partners. **Status:** Alive.
-- Found an ancient dwarven settlement buried by an avalanche in a canyon.
-- Have spent months clearing rubble; Dazlyn thinks they saw oozes in a temple.
-- Offered a pair of sending stones as payment (party acceptance unrecorded).
-- Norbus stated they intend to return everything found to rightful owners.
-
-### Adabra Gwynn
-**Status:** Presumed alive (implicit). **Location:** Umbrage Hill.
-- The party's rescue target; nature of her peril unknown.
-- The 25-gold reward is considered absurdly low by Valphine.
+- **Norbus Ironrune** — Shield dwarf prospector; alive, at the excavation camp (cooking for the party in ch04). Hired the party to clear the temple, offering **two sending stones** as payment. Distrusts drow — cannot believe Valphine or Brewbarry are genuinely faithful to Lathander, though he accepts Valphine's magic as useful. Hurt Vukradin by forgetting his name. Withheld/disputed payment (unresolved). **Not currently travelling with the party.**
+- **Dazlyn Grayshard** — Shield dwarf prospector, Norbus's partner; alive at the excavation. Novice "amateur archaeologist." Keeps his axe close. Practiced in dwarven religious lore (confirmed Abbathor's eclipse sacrifices and the avalanche-as-punishment; distinguishes dwarven from drow gods). Insists on splitting recovered gems with the party. Disappointed by Vukradin playing original songs over familiar local tunes.
 
 ---
 
-## 7. CANON EVENTS TIMELINE (Chronological Reference)
+## BANDITS — THE CARVER'S ORGANISATION (active threat)
 
-**Pre-Campaign (Background, Ch. 1):**
-1. Gromph Baenre attempts a spell to give the Drow control of the Faerzess; instead, the Abyss–Toril bonds weaken momentarily.
-2. Lolth becomes trapped in a demi-plane as a result of her own multi-century plan; maintains contingency plans.
-3. Zariel discovers a loophole in the gods' rules; devises a plan involving Tiamat's entry into the world, with her own separate agenda for Tiamat.
-4. Tiamat dupes Severin and the Cult of the Dragon into attempting to summon her — unaware a hidden manipulator originated the plan.
-5. Hekaton founds an alliance between giants and the peoples of the Realms.
-6. Iymrith escapes an unspecified captivity.
-7. Dagult Neverember turns his attention to the hinterland after the immediate threat passes.
+A layered bandit operation. Foot soldiers never meet the boss; they work through intermediaries.
 
-**Chapter 2:**
-8. Dazlyn and Norbus discover the buried dwarven settlement; offer sending stones to the party.
-9. Vukradin performs at the Stonehill Inn (recognized by Harbin Wester).
-10. Toblen Stonehill warns of the white dragon rumor.
-11. Linene Graywind relays the Neverwinter Wood rumor and tariff troubles.
-12. Valphine joins Vukradin's party as a cleric of Lathander.
-13. Soma knocks Valphine out with an ice knife in an early battle.
-14. The party fights ogres; Valphine uses a magical bullet to knock one prone; Vukradin kills a fleeing ogre ("He hated music").
-15. Harbin Wester commissions Vukradin to acquire a dragon-fighting device.
-
-**Chapter 3:**
-16. The party arrives at Gnomengarde; King Korboz is in hysterics, screaming about a shapeshifter.
-17. Guards Ulla and Pog/Pug direct the party; Ulla notes Pog/Pug has seemed different lately.
-18. The party meets inventors Dabbledob/Fibblestib/Fiddlestib, who are trying to cure Korboz's madness.
-19. Facktoré attempts to test a rotating crossbow device on the party.
-20. The party negotiates with Kings Korboz and Gnercli; the deal for killing the shapeshifter is struck (hat of wizardry + device).
-21. Warren and Orrin are noted as missing (disappeared; Korboz claims a shapeshifter responsible).
-22. Valphine suspects gnomes Ulla/Pog of being shapeshifters; accuses Ulla directly.
-23. The party deals with the shapeshifter; proof of death is delivered to the inventors.
-
-**Chapter 4:**
-24. The party fights mimics; Soma finishes one off; Vukradin's spell fails against a mimic.
-25. A bandit encounter occurs near the First Flophouse; Soma (in spider form) kills a bandit; Brewbarry decapitates another and then apologizes to a fleeing bandit; Vukradin kills a fleeing bandit.
-26. The captured bandit survivor provides information: the Carver is the big boss; Jax was his only contact; the Uthgardts destroyed his village. He asks to join the party; Vukradin agrees.
-27. Soma picks up a druidic spell scroll from the bandits; argues with Vukradin over stealing gold.
-28. The party negotiates the Adabra Gwynn rescue (25 gold offered; Vukradin pushes for more).
-29. Valphine is hit by a bandit's attack on the trail to Umbrage Hill.
-30. The party heads toward Umbrage Hill to rescue Adabra Gwynn.
-31. Soma leads Vukradin to the Townmaster in Phandalin (after the Gnomengarde job).
-32. The party visits the Gnomengarde inventors again (Soma and Vukradin); Dabblebob and Fiddlestib discuss constructs from entrails and voting boxes; a king angrily hands over the hat of wizardry ("Here! And go!").
+- **The Carver** — Alive; identity and whereabouts unknown. The feared "big boss" (reputed to be physically big — secondhand). Blamed by a captured bandit for that bandit's ruin. *Campaign context: the Carver is the marching threat aiming to bind the white dragon Cryovain and burn Phandalin* — the party has only begun to learn his name.
+- **Jax** — The Carver's lieutenant/intermediary; the actual contact for rank-and-file bandits. Whereabouts unknown.
+- **Spider-fearing bandit** — Captured/talking to the party (ch06). Claims he's not a bad person, was driven to banditry after raiders pillaged his village; worked only with Jax, never met the Carver, blames the Carver for his fall. Brewbarry consoled him over their shared loss of a tribe.
 
 ---
 
-*End of World State Document.*
+## DEITIES & COSMIC POWERS
+
+### Lathander (the Morninglord)
+Active sun god. Valphine's and (nominally) Brewbarry's patron. His light is described as inexhaustible; his sun makes Overbrighters' food "just tastier." A separate cleric of Lathander once cautioned Valphine about saving a life for only 25 gold.
+
+### Abbathor
+Evil dwarf god of greed; still an active deity. Associated with the ruined canyon temple. Demands blood-and-gem sacrifice and punishes inadequacy with catastrophe — he let the avalanche bury his own settlement and a ceiling crush his own cleric. Valphine calls him "the one dwarf god who does not lie about appetite."
+
+### Lolth (Spider Queen)
+Trapped in a demi-plane as part of an elaborate multi-century scheme (ch01) tied to **magic that can temporarily loosen the bonds between planes**. Whether she has escaped, is mid-escape, or remains bound is unresolved. Still worshipped by drow priestesses. Valphine has renounced her.
+
+### Tiamat, Zariel & the Cult of the Dragon (background, War of the Dragons era)
+- **Tiamat** — Co-resident of Avernus. Duped Severin and the Cult of the Dragon into trying to bring her into the world.
+- **Zariel** — Archdevil ruler of Avernus, at odds with Tiamat and tired of her presence. Discovered a **loophole** in "Tiamat's" plan — which is actually Zariel's plan — and pursues her own hidden agenda through it.
+- **Severin** — Cult of the Dragon; was deceived by Tiamat into his summoning attempt. Fate unresolved.
+
+---
+
+## STANDING WORLD FRAME (background powers & regional politics)
+
+### Dagult Neverember — Lord of Neverwinter
+Alive, ruling Neverwinter. Wants the southern hinterland around Phandalin secured (cleared of monsters, cults, evildoers) to drive settlement and growth — trade, outposts, safer roads pushing south. Budget is thin: **adventurers get no wages or benefits** and are told they may **keep whatever treasure they seize**. Posted the flyer that recruited the party. Harbin Wester acts under his authority.
+
+- **Neverwinter city guard** — Recruits at the notice board; explains the "keep-the-loot" policy and that "the gray begins at the wall" — Neverwinter's laws don't apply outside the city. Suggested Vukradin might be a paladin.
+
+### The Faerzress / Drow Backstory (ch01)
+**Gromph Baenre** (First House of Menzoberranzan, Lolth's pawn) cast a spell the drow believed would grant them control of the **Faerzress** to attack other powers — but "he was wrong"; it failed to achieve its intended effect. The consequence is unspecified.
+
+### War of the Giants (background)
+**Hekaton**, Storm Giant king, founded the alliance between giants and the peoples of the Realms (in-fiction: allied with the Lord's Alliance). Alliance's current strength unconfirmed. **Iymrith** is at large, having escaped.
+
+### Uthgardtian Tribes
+Active regional threat; among the wars Neverwinter has survived (alongside dragons and giants). The **Black Lion** tribe raided Greenmeadow, killing Corbin's family. Triboar was destroyed in an Uthgardt attack (Toblen's former home). Brewbarry is a cast-out Uthgardt.
+
+### Kazneporium Ketternopappux ("KP")
+Sage; secured a piece of an artifact he needs (ch01). Goal and whereabouts unknown. *(Per campaign bible: an offstage planar antagonist; on-screen agent is Aletra Sotorra, Valphine's sister. Not yet surfaced in play.)*
+
+### Minor lore figures
+- **Meril** — Soma's druidic master; trained her one year, gifted her the staff, prompted her to follow Vukradin, and separately "met" Corbin. *(Gender inconsistent in the record — "her" early, "his" in ch07; unresolved.)*
+- **Jimble the Unmoved** — A cleric who once declined to spend a resurrection prayer, pronouncing fallen companions dead. Origin of the coastal saying "Jim" (a verdict delivered faster than deserved).
+- **Kostadinious the Sage** — Wrote the marginal gloss on "Jim."
+- **Konstantinious the 12th** — Great Sage; authored *Neverwinter Expansionism and the North*.
+
+---
+
+## OPEN THREADS & MYSTERIES (by cluster)
+
+**The Dragon**
+- A white dragon terrorises the Phandalin region, thinning adventurer ranks and keeping Harbin barricaded. *(Campaign bible names it Cryovain, target of the Carver's binding plan.)* Not yet directly encountered in this window.
+
+**The Carver's March**
+- Who is the Carver, and how deep does the organisation run? The party knows only the name and one intermediary (Jax).
+- Did Vukradin's planned dinner-interrogation of the spider-fearing bandit actually occur? Unresolved.
+- Corbin met Meril "by the grace of the gods" — significance unknown.
+
+**Payment & Reward (a running motif)**
+- Was Soma's 50 gold ever paid? Is Vukradin's studio fund advancing at all?
+- Norbus's disputed payment / the two sending stones — resolved or not?
+- Adabra promised the party would be rewarded if Harbin doesn't pay — will any payment materialise?
+
+**Adabra / Umbrage Hill**
+- Will Adabra ever leave the windmill, or stay put? She's given contradictory signals.
+- Is she actively healing Harbin now, or only prescribing?
+
+**Gnomengarde loose ends**
+- Warren and Orrin — alive, dead, or captive? The mimic threat was resolved, but their fates weren't confirmed.
+- Is Korboz's madness cured or ongoing? Facktoré fled and is still at large with unknown further devices.
+- "Pug looked a little different" — a leftover shapeshifter thread, or a red herring?
+
+**The Abbathor Excavation**
+- Does the buried temple/settlement hold more monsters "deeper inside" (per Norbus)?
+- Valphine's secret stolen jeweled dagger — will it surface or matter?
+
+**Cosmic / Planar (offstage)**
+- Is Lolth still bound, or executing her escape via plane-loosening magic?
+- Gromph's failed Faerzress spell — what did it actually do?
+- What is KP's artifact for?
+- The Zariel/Tiamat loophole — whose plan is really unfolding in Avernus?
+- Strange magic in Neverwinter Wood confounds navigation and hides ruins (Linene's rumor).
+
+---
+
+## CANON EVENTS TIMELINE (chronological reference)
+
+**Deep background (pre-campaign):**
+- Gromph Baenre casts the Faerzress-control spell for the drow; it fails.
+- Lolth is bound in a demi-plane as part of a multi-century plan tied to plane-loosening magic.
+- War of the Giants: Hekaton founds the giant–Realmfolk alliance; Iymrith later escapes.
+- War of the Dragons: Tiamat dupes Severin and the Cult of the Dragon; Zariel exploits a loophole in Avernus.
+- Abbathor's canyon temple: priests' sacrifices found lacking; earthquake/avalanche buries the settlement and kills a cleric.
+- Valphine flees House Sotorra and Menzoberranzan (before the demon invasion), renounces Lolth, takes up Lathander in Neverwinter.
+- Brewbarry cast out from his Uthgardt tribe for failing to guard a sacred object.
+- Corbin's Greenmeadow home destroyed by Black Lion barbarians; his family killed; he becomes a bandit under the Carver's crew.
+- Triboar destroyed in an Uthgardt attack; Toblen relocates to Phandalin.
+
+**Ch01 —** Neverember directs adventurers to clear the Phandalin hinterland; the recruiting flyer draws the party. KP secures an artifact piece.
+
+**Ch02 —** Party recruited at the Neverwinter notice board (city guard explains "keep the loot," "the gray begins at the wall"). Harbin (barricaded) hires them; sends them toward Gnomengarde and the "midwife past the hills." Norbus and Dazlyn recruit them to clear the Abbathor temple, offering sending stones.
+
+**Ch03 —** Temple clearing: ochre jellies fought; Soma and Vukradin downed and healed; Valphine drains her spell reserve and secretly steals the jeweled dagger from the dead Abbathor priest. Hall of Greed found; gems recovered.
+
+**Ch04 —** Payment purse changes hands with Harbin (still afraid). Party fights orcs and an ogre (Vukradin nearly dies twice; Valphine kills the ogre with Sacred Flame). Norbus cooks at the excavation camp. Toblen greets them at the Stonehill Inn, warns of orcs and the dragon. Linene shares the Neverwinter Wood rumor.
+
+**Ch05 —** Gnomengarde: Facktoré's crossbow device tests on the party (then he flees); Pog and Ulla admit them at the bridge; inventors Fibblestib and Dabbledob debate curing Korboz's madness; Warren and Orrin reported missing; a shapeshifter (mimic) hunt begins; the kings offer the hat of wizardry.
+
+**Ch06 —** Mimic revealed and dealt with (Valphine had wrongly suspected Pog/Ulla). Gnercli hands over the hat of wizardry. The party captures the spider-fearing bandit and first learns of Jax and the Carver; Brewbarry consoles him.
+
+**Ch07 (present) —** Umbrage Hill: party kills the manticore besieging Adabra's windmill. Adabra refuses rescue, gives Vukradin a note for Harbin, and is treating Harbin remotely. Corbin (attacked by the manticore) reaches the windmill and joins the party, revealing his backstory. Brewbarry injured by the manticore. Party plans to press interrogation of the Carver's crew and return to Phandalin for pay.

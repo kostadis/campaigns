@@ -217,6 +217,8 @@ entities:
     treasury key
 - name: Dazlyn Grayshard
   type: npc
+  aliases:
+  - Grayshard
   note: Shield dwarf prospector and business partner of Norbus; forthright and honest
     to a fault
 - name: Delebean
@@ -249,6 +251,8 @@ entities:
   note: Named sidekick character available to join the party
 - name: Norbus Ironrune
   type: npc
+  aliases:
+  - Ironrune
   note: Shield dwarf prospector and business partner of Dazlyn; gruff and excessively
     cautious
 - name: Nyx
@@ -1980,6 +1984,8 @@ entities:
     slain by a sword; uses assassination, theft, sabotage, and rioting
 - name: Uthgardtian tribes
   type: faction
+  aliases:
+  - Uthgardt
   note: Barbarian peoples of the North who rose up during the War of the Giants; suppressed
     by the combined giant-mortal alliance; politically associated with the losing
     side post-war; their erasure from monuments is the subtext of the Exile Aesthetic
@@ -2344,8 +2350,12 @@ entities:
     the party mishears his name as something that sounds like a meadery before he
     restates it correctly. 'Aurum Bee Vance' is LIKEWISE NOT AN ALIAS - it is a one-time
     in-fiction mishearing, blessed as a comic beat, and a future consistency or spell
-    pass must not silently normalize it to Aurelan.
-    CH50 (2026-08-25) - at the Counting House he offers the party a familiar form, 'my friends call me Ori' (tape l.773; Stephane uses it back at l.781). Both independent transcriptions render it identically. GM ruling 2026-08-26 - 'Ori' is NOT a garble and is NOT an alias; it is his in-fiction familiar form, recorded in notes/vtt_known_additions.md. The transcript forms 'Orlin Vance' and 'Ondrel Vance' ARE garbles and are glossed.
+    pass must not silently normalize it to Aurelan. CH50 (2026-08-25) - at the Counting
+    House he offers the party a familiar form, 'my friends call me Ori' (tape l.773;
+    Stephane uses it back at l.781). Both independent transcriptions render it identically.
+    GM ruling 2026-08-26 - 'Ori' is NOT a garble and is NOT an alias; it is his in-fiction
+    familiar form, recorded in notes/vtt_known_additions.md. The transcript forms
+    'Orlin Vance' and 'Ondrel Vance' ARE garbles and are glossed.
 - name: dreamlily
   type: item
   provenance: on_the_fly
@@ -2392,6 +2402,65 @@ entities:
     coastal-saga framing explains why coastal Soma knows the saying and mountain-born
     Brewbarry does not. Authored in narration, never played or prepped; do not flag
     the marginal note as a fabrication in consistency passes.'
+- name: House Sotorra
+  type: faction
+  aliases:
+  - Sotorra
+  provenance: on_the_fly
+- name: Wester family
+  type: faction
+  aliases:
+  - Wester
+  provenance: on_the_fly
+- name: House Baenre
+  type: faction
+  aliases:
+  - Baenre
+  provenance: supplement
+- name: Overbright
+  type: concept
+  provenance: on_the_fly
+- name: Overbrighters
+  type: faction
+  provenance: on_the_fly
+- name: Greenmeadow
+  type: location
+  provenance: on_the_fly
+- name: Elarah
+  type: npc
+  provenance: on_the_fly
+- name: Ordning
+  type: concept
+  provenance: supplement
+- name: The Sundering
+  type: event
+  aliases:
+  - Sundering
+  provenance: supplement
+- name: Toril
+  type: location
+  provenance: supplement
+- name: Faerun
+  type: location
+  provenance: supplement
+- name: Everlund
+  type: location
+  provenance: supplement
+- name: Demogorgon
+  type: deity
+  provenance: supplement
+- name: Orcus
+  type: deity
+  provenance: supplement
+- name: Graz'zt
+  type: deity
+  provenance: supplement
+- name: Zuggtmoy
+  type: deity
+  provenance: supplement
+- name: Tarsakh
+  type: concept
+  provenance: supplement
 distinct:
 - - Meril's Staff
   - Staff of Birdcalls

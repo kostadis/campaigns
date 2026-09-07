@@ -132,11 +132,11 @@ Ulla is surprised. “I thought you had a mage who could cast Mage Hand. Well if
 
 Vukradin thanks her and heads north. 
 
-The first large room is not empty. It has a rotating platform equipped with four heavy crossbows that reload automatically. The inventor is a deranged gnome, as they learn later, named Facktore, who decides to test his device on Vukradin and his companions. 
+The first large room is not empty. It has a rotating platform equipped with four heavy crossbows that reload automatically. The inventor is a deranged gnome, as they learn later, named Facktoré, who decides to test his device on Vukradin and his companions. 
 
 Although Vukradin is tempted to kill him, he decides that perhaps disarming the device is sufficient. 
 
-With the bow disabled and Facktore having fled the scene of the battle, Vukradin climbs down the cliff wall, wades through the river, stopping on the island of mushrooms to pick a few more, and then climbs the cliff wall again. 
+With the bow disabled and Facktoré having fled the scene of the battle, Vukradin climbs down the cliff wall, wades through the river, stopping on the island of mushrooms to pick a few more, and then climbs the cliff wall again. 
 
 Once he’s climbed the walls, he enters a large cave that is strewn with the remnants of old campfires. Four side caves serve as sleeping areas, with five small wooden cots crammed into each one. 
 
@@ -156,7 +156,7 @@ She turns to Valphine, “A sanity ray\!”
 
 Fibblestib is offended and immediately starts shouting, “You want to build a straitjacket instead. A jacket with no holes for the hands\! That’s not a straitjacket, that’s a shirt with no holes for the hands.” 
 
-Before Valphine can interrupt them, Dabbledob and Fiddlestib argue some more amongst themselves. 
+Before Valphine can interrupt them, Dabbledob and Fibblestib argue some more amongst themselves. 
 
 Valphine looks at them, “I am a cleric\!” 
 
@@ -168,7 +168,7 @@ Valphine turns to Vukradin, “I don’t think I could cure him, and I also don�
 
 Vukradin counts the money in his head and sighs, “Yes.” 
 
-Fiddlestib turns to Valphine, “I think we should walk you through what happened. It will allow us to revisit all of the salient facts. And please interrupt us with any questions\! You may see something that we missed.” 
+Fibblestib turns to Valphine, “I think we should walk you through what happened. It will allow us to revisit all of the salient facts. And please interrupt us with any questions\! You may see something that we missed.” 
 
 And so the two inventors explain that two gnomes, Warren and Orrin, went missing and that King Korboz claims it was a shape-changing creature. 
 
@@ -180,7 +180,7 @@ But before she can make the case, Vukradin starts talking again and explains tha
 
 Dabbledob sighs, “Music has helped in some circumstances.” 
 
-Vukradin asks if they have a piano, and Fiddelstib regretfully says no, but offers to build one. “It won’t be a normal piano\! But it will play music.” 
+Vukradin asks if they have a piano, and Fibblestib regretfully says no, but offers to build one. “It won’t be a normal piano\! But it will play music.” 
 
 ## 05.05 Vukradin 01-02-Tarsakh 1495
 
@@ -190,7 +190,7 @@ Vukradin is not interested in arriving at any new death traps, and asks for the 
 
 Vukradin explains what happened with the rotating blades and the rotating crossbow assault system.
 
-Fiddelstib laughs. 
+Fibblestib laughs. 
 
 The gnome inventor adds, “My invention, the rotating blades, is the better option. And you have proven it.” 
 
@@ -198,23 +198,23 @@ Vukradin notices how Dabbledob rolls her eyes.
 
 A few moments later, Vukradin is at the door to the King’s room.  
 
-The King is in a state of hysterics, screaming. Another voice, his co-King Gnercli shouts, “Who is that?” 
+The King is in a state of hysterics, screaming. Another voice, his co-King Gnerkli shouts, “Who is that?” 
 
 “Vukradin\!” 
 
 King Korboz shouts, “A shapeshifter\!” 
 
-The co-King sighs, “I am King Gnercli. Are you adventurers?” 
+The co-King sighs, “I am King Gnerkli. Are you adventurers?” 
 
 “We are on a diplomatic mission from Townmaster Harbin Wester to acquire a device to fight the dragon with.” 
 
-King Gnercli sighs, “You sound like adventurers. How about this, kill the shapeshifter, and I will give you a device.” 
+King Gnerkli sighs, “You sound like adventurers. How about this, kill the shapeshifter, and I will give you a device.” 
 
 Vukradin mutters, “I am a musician.” 
 
 And he laughs when Soma adds, “More of a tour guide.” 
 
-King Gnercli sighs again, “Look, there is some kind of creature that is terrorizing our cave system. Can you deal with it or not?” 
+King Gnerkli sighs again, “Look, there is some kind of creature that is terrorizing our cave system. Can you deal with it or not?” 
 
 Vukradin groans, “Where are we supposed to find this thing?” 
 
@@ -228,7 +228,7 @@ Vukradin asks, “And what treasure will you give us?”
 
 Vukradin shouts, “Not exactly going to terrorize a dragon with that.”
 
-King Gnercli shouts, “I don’t have much else.” 
+King Gnerkli shouts, “I don’t have much else.” 
 
 Soma then reminds Vukradin that they get the money for bringing something, not necessarily for bringing something helpful.
 

@@ -7,7 +7,8 @@ read this for the state they left in.
 through the session but the absence was never formally addressed at the table.
 
 > **Status.** Scenes 1–4 played, heavily diverged. **Scenes 5–8 did not play and are still runnable.**
-> Bimble was **not** found. The session ended with Brewbarry walking into the House of a Thousand Faces.
+> Bimble was **not** found. The session ended with Brewbarry inside the House of a Thousand Faces and the rest
+> of the reunited party gathered at the Harper establishment.
 
 **Provenance legend carried over from the prep doc:** `[TABLE]` played or ruled — canon · `[MODULE]` published
 Neverwinter material · `[OVERLAY]` mine, cuttable. Items promoted from `[OVERLAY]` to `[TABLE]` this session are
@@ -17,8 +18,9 @@ listed in their own section below — that promotion is the main reason this fil
 
 ## The shape of what happened
 
-The party split at the grille and never re-merged physically — they ran the rest of the night on sending stones.
-That split is the whole session:
+The party split at the grille and used sending stones to exchange updates while apart. After Denvar woke,
+Vukradin physically rejoined the others; the reunited party followed the dead drop to the House of a Thousand
+Faces. The split drove most of the session:
 
 | Track | Who | Where it went |
 |---|---|---|
@@ -104,8 +106,10 @@ negotiation, which they will not notice until Scene 8."*
 > with no idea that drow have been asking about this tunnel for five tendays. Scene 8 is Sridar coming out of the
 > dark, and nobody has a reason to be unsurprised.
 
-**Zeleen Varnaster / Ruling 11:** never fired — Vukradin didn't name her. **Fully unspent**, which is where the
-prep wanted it (it belongs to the Commission arc at the dinner).
+**Zeleen Varnaster:** Rsolk raised her connection to the Mountain's Toe Mine himself, saying she had claimed a
+business relationship with Vukradin; Vukradin confirmed it. The separate **Ruling 11** half-beat about Zeleen's
+up-coast business and Margaster's forged paper **did not fire and remains unspent** for the Commission arc at
+the dinner.
 
 ### Two liabilities created
 
@@ -163,10 +167,12 @@ distinct from standard lore.
 well-drawing fire — and conspicuously out of place in low-end Bluelake. The party flagged it as suspicious.
 
 **Brewbarry entered immediately and independently**, having wanted to go since his early Neverwinter days when he
-couldn't afford it. **That is where the session ended.**
+couldn't afford it. The others remained at the establishment after scouting the dead drop. **That is where the
+session ended.**
 
-> **Note the geography.** The module places the Harper chapter's meeting room in the **basement**. The rat scouted
-> a ground-floor back office. **The basement is unseen.**
+> **Note the geography.** The rat scouted a windowless back office on the **basement level**, as the GM clarified
+> at the table. This may be the module's Harper meeting level, but the party established only what the familiar
+> could see: desks, papers, supplies, and the Harper symbol.
 
 ---
 

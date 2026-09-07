@@ -1,37 +1,20 @@
 ---
 name: mimic (barrel room)
 type: monster
-n_facts: 9
-chapters: 3-3
+n_facts: 8
+chapters: 5-5
 ---
 
 ### Mimic (Barrel Room)
 
-**Type:** Monster  
-**Current Status:** Alive and engaged in combat (last seen actively attacking)  
-**Current Location:** Barrel room (disguised as a barrel before revealing itself)  
-**Allegiance/Faction:** None — independent monster
-
-**Current State / Combat Condition:**
-- Wounded — struck by Brewbarry's halberd, which is currently **stuck in the mimic's body**.
-- Revealed from its barrel disguise; its pseudo-pods are extended and its massive mouth full of razor-sharp teeth is open.
-
-**In Combat With:**
-- Facing Brewbarry (barbarian) and the party.
-- Its pseudopod attacks against Brewbarry have missed so far.
-
-**Defining Recent Actions:**
-- Transformed from a barrel into a mimic, attacking with pseudo-pods.
-- Advanced on Brewbarry and attempted a pseudopod strike (missed).
-- Flinched visibly when the bard unleashed invectives — this reaction stems from an **underlying enchantment** on the mimic (noted by Valphine).
-
-**Key Relationships / Enemies:**
-- Hostile to Brewbarry, the bard (who used invectives), and presumably the rest of the party.
-- Valphine identified the enchantment causing its flinch.
+- **Type:** Monster (mimic disguised as a barrel)
+- **Current Status:** Alive, wounded
+- **Current Location:** Barrel room (presumed same location where encountered)
+- **Current Possessions / Notable Wounds:** Wounded from Brewbarry's halberd strike; **Brewbarry's halberd is currently stuck in its body**.
+- **Defining Recent Actions:** Disguised as a barrel, revealed itself and attacked with its pseudopods; advanced on Brewbarry and made a pseudopod attack that **missed entirely**.
+- **Key Combatants / Relationships:** Last seen engaged in combat with Brewbarry.
 
 ## Uncertainty
-
-- **Outcome of the fight is unknown** — facts end with the mimic wounded and halberd stuck in it, with its attacks missing; no fact confirms whether it was killed, escaped, or is still fighting.
-- **Exact type of enchantment** causing the flinch is not specified — only that an underlying enchantment exists.
-- **Whether the halberd remains stuck** at the latest moment is implied by the wound fact but not confirmed after subsequent attacks.
-- **Identity of the bard** is not named in the supplied facts.
+- **Location:** The room is described as a "barrel room" in the entity label, but no specific location name or environment details are given in the facts; this is implied rather than explicitly stated.
+- **Combat resolution:** The facts end with the mimic attacking and missing; the outcome of the fight (whether it was killed, fled, or subdued) is not provided, so its current alive/dead status beyond "wounded" is uncertain.
+- **Halberd ownership:** It is stated Brewbarry's halberd is stuck in the mimic, but whether Brewbarry has since recovered it is unknown — the facts do not confirm the halberd's current location.

@@ -1,26 +1,39 @@
 ---
 name: Korboz
 type: npc
-n_facts: 9
-chapters: 3-4
+n_facts: 13
+chapters: 5-6
 ---
 
 ### King Korboz
 
-**Current status:** Alive; recovered from his earlier hysterics/madness episode (no longer in a state of screaming fear).
+**Current Status:** Alive; recovered from his earlier hysterics (fear has passed, now speaks coherently).
 
-**Current location:** Gnomengarde.
+**Current Location:** Gnomengarde.
 
-**Allegiance/faction:** Co-king of Gnomengarde (with King Gnercli).
+**Allegiance/Faction:** Co-king of Gnomengarde (with King Gnercli), claiming seniority over Gnercli.
 
-**Current role & key relationships:** Senior co-king of Gnomengarde alongside King Gnercli. He and Gnercli make decisions together ("Together."). He is frustrated with Gnercli, complaining that Gnercli doesn't listen to him or believe a word he says — including not believing in shapeshifters ("That you didn't believe existed!"). He claims seniority and that as the senior king he should receive preferential treatment.
+**Current Possessions / Notable Items, Spells, Feats, Wounds:** 
+- Suffers from **madness** — the gnome inventors of Gnomengarde are focused on curing it.
+- No other items, spells, or wounds are recorded.
 
-**Current possessions / notable items:** None stated as currently held — the magical hat was given to Vukradin (though the quote attributes this action to Gnercli).
+**Current Assignment / Role and Key Relationships:**
+- Co-king of Gnomengarde; in an ongoing dispute with **King Gnercli**, who does not listen to or believe Korboz.
+- Korboz is the *senior* king and believes he should receive preferential treatment over Gnercli (a point of contention).
+- He explains that he and Gnercli make decisions *together* — together they decide which argument is best.
 
-**Defining recent actions:** Previously in a state of hysterics, screaming, and shouting "A shapeshifter!" upon Vukradin's arrival. Has since recovered from his fear. He is angry at Vukradin and shouted "Here! And go!" while giving them the magical hat.
+**Defining Recent Actions / Statements:**
+- Claims a **shape-changing creature** took Warren and Orrin.
+- Shouted "A shapeshifter!" upon hearing the name **Vukradin**, accusing Vukradin of being a shapeshifter.
+- Accuses Gnercli of not believing shapeshifters existed.
+- Has since recovered from his fear and now speaks calmly, explaining their decision-making process ("Together").
 
-**Revealed motivations/secrets:** Believes shapeshifters exist (contrary to Gnercli); believes he deserves preferential treatment as senior king.
+**Revealed Motivations / Secrets:**
+- Believes a shapeshifter is responsible for the disappearances of Warren and Orrin; singled out Vukradin by name.
+- Feels marginalized by Gnercli's disbelief in both shapeshifters and Korboz's seniority.
 
 ## Uncertainty
-- **Attribution conflict on the magical hat:** Fact [ch04] states "King Korboz is angry at Vukradin and shouts 'Here! And go!' while giving them the magical hat," but the verbatim quote attributes the shout to "King Gnercli, angry at Vukradin." It is unclear whether Korboz or Gnercli actually gave the hat.
-- The timeline of Korboz's recovery within chapter 4 vs. his anger at Vukradin is not fully clear (he is recovered in one fact but angry in another; both are chapter 4, order uncertain).
+
+- **"Shape-changing creature" vs. "Vukradin" attribution:** It is clear Korboz claims a shapeshifter took Warren and Orrin, and separately accused Vukradin of being a shapeshifter. It is *not* explicitly confirmed that Vukradin *is* the same shape-changing creature that took Warren and Orrin — the facts leave open whether Vukradin is the culprit, a suspected shapeshifter, or a separate accusation.
+- **Session chronology within ch06:** The order of Korboz's recovery (speaking "Together") relative to his later shouting (about Gnercli's disbelief and seniority) is not fully clear — he may have relapsed or the shouting may have preceded the calm explanation.
+- **Madness persistence:** Facts say he "recovered from his fear" but do not state whether the underlying madness is cured or still afflicting him; the fact that inventors are seeking a cure implies it persists, but this is inference, not explicitly stated in the later chapters.

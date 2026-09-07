@@ -1,0 +1,51 @@
+{
+  "title": "Scene 4 — Denvar's Unsettled Account",
+  "reviewId": "dialogue-edit:942bf8e9e0139536735a9cb8ba68d5313136e6f356b51c8b809230f75a10a944",
+  "outputName": "dialogue_edit_decisions.json",
+  "lede": "Rule on each exact proposal. Original narration remains unchanged.",
+  "footer": "No narration edits have been applied. Unmarked items remain unresolved.",
+  "items": [
+    {
+      "id": "s04-01",
+      "t": "s04-01: Untangle Valphine&#x27;s phrasing while preserving her proposal to question Denvar&#x27;s landlord.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:61</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Who we could potentially ask questions about him of.”</pre><p>After</p><pre>“Who we could potentially ask about him.”</pre><p>Surrounding draft</p><pre>It is a lodging house, which means a landlord.\n\n“Okay, so he has a landlord,” she says. “Who we could potentially ask questions about him of.”\n\nUnfortunately, it is still the middle of the night. We wait until seven. My joints do not appreciate standing around after walking all night, but they have complained about more useful things before.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:131</code></p><pre>&quot;Who we could potentially ask questions about him of.&quot;</pre>"
+    },
+    {
+      "id": "s04-02",
+      "t": "s04-02: Remove an unrecoverable false start while preserving Soma&#x27;s emphatic objection and dry tone.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:103</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“No, no, we have… Very… that’s kind of slanderous to us.”</pre><p>After</p><pre>“No, no. That’s kind of slanderous to us.”</pre><p>Surrounding draft</p><pre>Then, because the first comparison has gone so well, he tries another. “I guess you’re not like… I guess you’re not like turtles.”\n\n“No, no, we have… Very… that’s kind of slanderous to us.”\n\nOnly then does he look past me. Valphine stands in white armor, her eyes glowing gold. Brewbarry has the size, muscles, and exposed weapons of Brewbarry. The landlord’s face changes.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:233</code></p><pre>&quot;No, no, we have… Very… that&#x27;s kind of slanderous to us.&quot;</pre>"
+    },
+    {
+      "id": "s04-03",
+      "t": "s04-03: Correct the tense and remove repeated filler so Soma&#x27;s request matches the immediate conversation with the landlord.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:177</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“We asked him about the, you know, the gentleman we, you know, followed back here.”</pre><p>After</p><pre>“We wanted to ask about the gentleman we followed back here.”</pre><p>Surrounding draft</p><pre>“Alright.”\n\n“We asked him about the, you know, the gentleman we, you know, followed back here.”\n\n“You mean Denvar?”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:336</code></p><pre>&quot;We asked him about the, you know, the gentleman we, you know, followed back here.&quot;</pre>"
+    },
+    {
+      "id": "s04-04",
+      "t": "s04-04: Resolve a comma splice into Soma&#x27;s characteristic short landing beats.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:181</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“Denvar. Yeah. That’s more than we came with, we got a name.”</pre><p>After</p><pre>“Denvar. Yeah. That’s more than we came with. We got a name.”</pre><p>Surrounding draft</p><pre>“You mean Denvar?”\n\n“Denvar. Yeah. That’s more than we came with, we got a name.”\n\n“Denvar!”\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:342</code></p><pre>&quot;Denvar. Yeah. That&#x27;s more than we came with, we got a name.&quot;</pre>"
+    },
+    {
+      "id": "s04-05",
+      "t": "s04-05: Remove the false start and express the same totality in grammatical speech while keeping Soma&#x27;s punchline intact.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:219</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”</pre><p>After</p><pre>“And all his deliveries… Every one of his delivery chits is the same. They’re all this one thing. He literally has one job.”</pre><p>Surrounding draft</p><pre>Each chit has a client reference and a house mark. None has a personal name.\n\n“And the… all his deliveries… 100% of his delivery chits are the same. They’re all this one thing. He literally has one job.”\n\nNot ten employers. Not odd work around the district. One repeated contract moving nine crates at the third hour, eight up and one down.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:410</code></p><pre>&quot;And the… all his deliveries… 100% of his delivery chits are the same. They&#x27;re all this one thing. He literally has one job.&quot;</pre>"
+    },
+    {
+      "id": "s04-06",
+      "t": "s04-06: Move the adverb into a natural position without changing Soma&#x27;s deduction or rhetorical question.",
+      "y": "Include this exact replacement in a new derived revision; keep the original.<p>Original: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/narration3/session_doc_scene_04_denvar_s_unsettled_account.scrubbed.md:239</code></p><p>Output area: <code>/home/kostadis/phandalin/Phandalin/summaries/20260902/dialogue_edit/scene04-r1/applied/</code></p>",
+      "n": "Keep the original wording in the derived revision and record this rejection.",
+      "ev": "<p>Scope: dialogue; support: supported</p><p>Before</p><pre>“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”</pre><p>After</p><pre>“And so that was the one he presumably just delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”</pre><p>Surrounding draft</p><pre>The one we watched has not been paid.\n\n“And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don’t we?”\n\nYes.\n</pre><p><code>/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/04_the_stakeout_of_denvar.md:446</code></p><pre>&quot;And so that was the one that he just, presumably delivered. Yeah, so I guess we have reason to follow him once he wakes up, don&#x27;t we?&quot;</pre>"
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "title": "2026-09-01 Session — Stage 0 Rulings",
+  "reviewId": "staged-consistency:20260902:stage-0",
+  "outputName": "staged_consistency_stage_0_decisions.json",
+  "eyebrow": "Phandalin / 2026-09-01 session / staged consistency / Stage 0",
+  "lede": "Four substantive decisions need a GM ruling before Stage 1. Six transcript-settled corrections are already applied; two findings were rejected from transcript evidence and prior GM rulings.",
+  "footer": "Applied without asking: six mechanical findings in summaries/20260902/gm-assist.md (crate marks, chit fields, Wick's knowledge, missing-vs-dead men, Sending Stone holders, and same-night chronology). No card changes will be made until decision JSON is returned.",
+  "items": [
+    {
+      "id": "s0-03",
+      "t": "Limit the Harper discovery to what the party actually established.",
+      "y": "Edit <code>summaries/20260902/gm-assist.md:44</code> so the Harper symbol reveals a local Harper station operating the payment dead drop, while the client and ninth crate's destination remain unknown.",
+      "n": "Leave <code>summaries/20260902/gm-assist.md:44</code> calling the tavern ‘the source of the smuggling operation,’ even though the recap says the payer remains unknown.",
+      "ev": "The GM asks whether the Harpers are smuggling or arranging the ninth crate at <code>GMT20260902-040118_Recording.transcript.cleaned.vtt:5267</code>; the outcome distinguishes known operator from unknown payer at <code>notes/session_prep/20260901_the_ninth_crate_outcome.md:369</code>."
+    },
+    {
+      "id": "s0-04",
+      "t": "End with Brewbarry inside the tavern and the rest of the party still gathered at the establishment.",
+      "y": "Edit <code>summaries/20260902/gm-assist.md:18</code> to place only Brewbarry among the mirrors, mannequins, and couches; leave the others at the establishment after the dead-drop scouting.",
+      "n": "Keep the current ending, which says the whole party settled inside the furnished tavern.",
+      "ev": "The table says Brewbarry is already inside at <code>GMT20260902-040118_Recording.transcript.cleaned.vtt:5059</code> and narrates him walking in at line 5423; the outcome leaves the others at the establishment at <code>notes/session_prep/20260901_the_ninth_crate_outcome.md:169</code>."
+    },
+    {
+      "id": "s0-06",
+      "t": "State the Rsolk bargain as: the party clears the infestation; Rsolk supplies the location and asks Vukradin to try to secure Common Chord tickets.",
+      "y": "Clarify the bargain in the Summary, scene bullets, and Rsolk entry of <code>summaries/20260902/gm-assist.md</code>; remove the unsupported ‘potential rewards’ wording.",
+      "n": "Leave the current reciprocal wording and unspecified potential rewards, even though no additional reward was established.",
+      "ev": "Vukradin offers help at <code>GMT20260902-040118_Recording.transcript.cleaned.vtt:3447</code>, Rsolk requests tickets at line 3527, and the end-of-session exchange confirms the accepted job and supplied location at lines 5463–5467."
+    },
+    {
+      "id": "s0-12",
+      "t": "Remove the disputed ‘mines near Phandalin’ location from the Rift Weaver callback. (GM ruling needed.)",
+      "y": "Change <code>summaries/20260902/gm-assist.md:12</code> to say the party recognized the creatures and wrong-looking webs from an earlier encounter, avoiding a location claim.",
+      "n": "Keep ‘the mines near Phandalin,’ matching the GM's spoken line but conflicting with the campaign state's placement of the Rift Weaver battle at Axeholm.",
+      "ev": "The GM says ‘remembered this from the mine’ at <code>GMT20260902-040118_Recording.transcript.cleaned.vtt:3507</code>; <code>docs/campaign_state.md:72</code> places the six Rift Weavers and planar machine at Axeholm."
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Command:
+PYTHONPATH=/home/kostadis/src/CampaignGenerator python3 -m session_doc.voice_lint /tmp/voice_critic_20260902_assembled_after.md --genre-file voice/_genre.md
+
+Exit code: 0
+
+stdout:
+note   [config] unrecognised voice_lint key 'extra_tics' — ignored
+
+stderr:
+(empty)

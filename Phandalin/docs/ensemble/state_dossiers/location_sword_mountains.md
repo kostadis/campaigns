@@ -1,13 +1,13 @@
 ---
 name: Sword Mountains
 type: location
-n_facts: 4
+n_facts: 2
 chapters: 2-2
 ---
 
 ### Sword Mountains
 
-A snow-capped, rugged mountain range: Phandalin is nestled at the foot of it, and the subterranean halls of Gnomengarde are located deep within its peaks.
+A mountain range in the vicinity of Phandalin. Phandalin sits in the foothills of the Sword Mountains. The range lies ahead of the party, appearing far and gray, composed of stone.
 
 ## Uncertainty
 None.

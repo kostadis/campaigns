@@ -1,0 +1,96 @@
+{
+  "scene": "Scene 5 — Harpers Behind the Wall",
+  "edits": [
+    {
+      "id": "s05-01",
+      "before": "“eyeball the wall.”",
+      "after": "“Eyeball the wall.”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Capitalize Soma's complete imperative without altering its clipped delivery.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+          "quote": "\"eyeball the wall.\""
+        }
+      ]
+    },
+    {
+      "id": "s05-02",
+      "before": "“on the wall.”",
+      "after": "“On the wall.”",
+      "start": 2608,
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Capitalize Vukradin's complete answer while retaining its brevity.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+          "quote": "\"on the wall.\"",
+          "start": 6384
+        }
+      ]
+    },
+    {
+      "id": "s05-03",
+      "before": "“on the wall.”",
+      "after": "“On the wall.”",
+      "start": 2624,
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Capitalize Soma's repeated answer while preserving the separate speaker beat.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+          "quote": "\"on the wall.\"",
+          "start": 6425
+        }
+      ]
+    },
+    {
+      "id": "s05-04",
+      "before": "“Or is it Earth, or…”",
+      "after": "“Or is it earth, or…”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Lowercase the common material noun while preserving Vukradin's uncertainty and trailing cadence.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+          "quote": "\"Or is it Earth, or…\""
+        }
+      ]
+    },
+    {
+      "id": "s05-05",
+      "before": "“It's totally not, you sure.”",
+      "after": "“It's totally not. You sure?”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Separate Soma's sarcastic assertion from the follow-up question so the intended delivery reads cleanly.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+          "quote": "\"It's totally not, you sure.\""
+        }
+      ]
+    },
+    {
+      "id": "s05-06",
+      "before": "“desk, papers, supplies?”",
+      "after": "“Desk, papers, supplies?”",
+      "scope": "dialogue",
+      "support": "supported",
+      "reason": "Capitalize Vukradin's complete inventory question without changing its telegraphic rhythm.",
+      "evidence": [
+        {
+          "path": "/home/kostadis/phandalin/Phandalin/summaries/20260902/scene_extractions_smoothed/05_the_dead_drop_at_the_house_of_a_thousand_faces.md",
+          "quote": "\"desk, papers, supplies?\""
+        }
+      ]
+    }
+  ],
+  "observations": [
+    "Left the isolated reply ‘level,’ unchanged because its missing wording is not recoverable from the reviewed extraction."
+  ]
+}

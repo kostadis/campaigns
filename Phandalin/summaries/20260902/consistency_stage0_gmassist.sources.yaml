@@ -1,0 +1,117 @@
+schema: consistency_check_manifest/v1
+stage: 0
+stage_label: gm-assist
+timestamp: "2026-09-06T02:49Z"
+campaign: Phandalin
+session_dir: summaries/20260902
+document_checked: summaries/20260902/gm-assist.md
+document_class: first-pass recap
+report: summaries/20260902/consistency_report_stage0_gmassist.md
+config: /tmp/phandalin_abs_config_staged_20260906.yaml
+backend: codex-cli
+model_calls: 1
+grouped: false
+issues_found: 12
+session_date: "2026-09-01"
+session_prep_used: true
+entity_registry_used: true
+
+sources:
+  auto_loaded:
+    - {label: campaign_state, path: docs/campaign_state.md}
+    - {label: world_state, path: docs/world_state.md}
+    - {label: mechanics, path: docs/mechanics.md}
+    - {label: planning, path: docs/planning.md}
+    - {label: party, path: docs/party.md}
+  context:
+    - {path: docs/party.md, role: PCs and player ownership}
+    - {path: docs/entity_registry.yaml, role: entity registry and aliases}
+    - {path: notes/vtt_transcription_corrections.md, role: ASR glossary}
+    - {path: notes/vtt_known_additions.md, role: known transcript additions}
+    - {path: notes/session_prep/20260901_the_ninth_crate_v2.md, role: session prep}
+    - {path: notes/session_prep/20260901_the_ninth_crate_outcome.md, role: played outcome notes}
+    - {path: notes/npcs/common-chord-audience.md, role: session NPC prep}
+
+quote_verification:
+  status: NOT_RUN
+  reason: Deterministic quote verification is prescribed for Stages 1 and 2, not Stage 0.
+
+vtt_adjudicated: true
+vtt_consulted:
+  path: summaries/20260902/GMT20260902-040118_Recording.transcript.cleaned.vtt
+  role: corrected speaker-labelled transcript used for wording, sequence, and attribution rulings
+  note: Provenance for manual rulings; not passed through --context.
+
+speaker_map:
+  Kostadis Roussos: GM and NPCs
+  David Mendenhall: Vukradin
+  Wade Brown: Soma
+  Gary Young: Valphine and Brewbarry coverage
+speaker_note: >
+  Stéphane Bourdeaud was absent. Gary covered Brewbarry, so Brewbarry
+  attribution requires extra scrutiny.
+
+triage:
+  applied_without_ruling:
+    - {finding: 2, fix: "Limited missing Commission Harbor marks to the eight confirmed crates; left the ninth unspecified."}
+    - {finding: 5, fix: "Restored client reference, house mark, and weekly settlement details in three locations."}
+    - {finding: 8, fix: "Limited Wick's ignorance to Lathander's Death rather than Vukradin himself."}
+    - {finding: 9, fix: "Changed confirmed deaths to Rsolk's report that several men disappeared, in two locations."}
+    - {finding: 10, fix: "Named Soma and Vukradin as the Sending Stone holders."}
+    - {finding: 11, fix: "Changed 'the night before' to earlier the same night while awaiting the third-hour stakeout."}
+  rejected_before_review:
+    - finding: 1
+      ruling: TRANSCRIPT_AND_PRIOR_RULING
+      rationale: >
+        The cleaned VTT says Denvar "owes me some money today," which supports a debt.
+        The outcome note's "rent was due that day" is not a more tape-literal
+        replacement. This preserves the GM's prior ruling to leave the phrase.
+    - finding: 7
+      ruling: WRONG_FIX_DIRECTION
+      rationale: >
+        Adding Rsolk's one-eyed wererat and Dead Rats identity would inject hidden
+        GM knowledge into an artifact that feeds player-facing output. The transcript
+        presents him as a tunnel manager, and the prior ruling preserves that boundary.
+  pending_batch_review:
+    - {id: s0-03, finding: 3, severity: Moderate, verdict: approve}
+    - {id: s0-04, finding: 4, severity: Moderate, verdict: approve}
+    - {id: s0-06, finding: 6, severity: Moderate, verdict: approve}
+    - {id: s0-12, finding: 12, severity: Moderate, gm_ruling_needed: true, verdict: approve}
+
+resolution:
+  reviewed_by: GM
+  reviewed: "2026-09-06T02:22:00Z"
+  applied:
+    - {finding: 3, fix: "Limited the Harper discovery to the local station and payment dead drop; preserved the unknown client and ninth-crate destination."}
+    - {finding: 4, fix: "Placed Brewbarry inside the tavern and the rest of the party at the establishment."}
+    - {finding: 6, fix: "Clarified that the party accepted the spider-clearing job, Rsolk supplied its location, and requested Common Chord tickets."}
+    - {finding: 12, fix: "Removed the disputed mine location and retained only the earlier-creature recognition."}
+  partially_applied: []
+  rejected: []
+
+carry_forward:
+  - status: DONE
+    item: "Stage 0 batch rulings s0-03, s0-04, s0-06, and s0-12 must be resolved before Stage 1 begins."
+  - status: OPEN
+    item: "Rsolk is named although the name is not spoken on tape; preserve the prior GM ruling and re-check the player-knowledge boundary downstream."
+  - status: OPEN
+    item: "The phrase 'wererat territory' remains acceptable in this GM-facing artifact but must be checked before player-facing narration."
+  - status: OPEN
+    item: "The rent/debt phrasing remains as previously ruled: the tape says Denvar owes the landlord money today."
+  - status: OPEN
+    item: "gm-assist.md originated from the D&D-tuned transcriber rather than a clean pipeline run; regeneration remains recommended."
+  - status: DONE
+    item: "Propagated the same-night chronology correction to session-summary.md before Stage 1."
+  - status: NOTE
+    item: "scene_extractions/03_encounter_in_the_sewers.md preserves the GM's exact 'remembered this from the mine' quote; adjudicate the location note separately in Stage 2 rather than rewriting verbatim dialogue."
+  - status: OPEN
+    item: "Stage 3 NOT RUN because no narration artifact exists."
+
+notes: >
+  The required codex-cli check succeeded after the sandboxed first attempt failed
+  before model execution because Codex could not initialize writable app-server
+  state. The rerun used the same backend and inputs. The command reported nine loaded
+  context documents and emitted an entity-registry auto-discovery warning because
+  the temporary config is under /tmp; docs/entity_registry.yaml was explicitly
+  passed in context. The banner said "No issues found," but the saved report body
+  contains twelve numbered findings.

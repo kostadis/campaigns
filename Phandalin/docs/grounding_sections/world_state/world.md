@@ -1,159 +1,128 @@
-<!-- section: world | inputs-sha: 6846e3f8207cb959 -->
+<!-- section: world | inputs-sha: 2508ea050c2ab41a -->
 _Dossiers: fallback (docs/ensemble/state_dossiers)._
 
-# WORLD STATE DOCUMENT
+# WORLD STATE — Phandalin Campaign
+
+*Living canon reference. Current-state document; later chapters override earlier. Chronological timeline at end.*
 
 ---
 
-## 1. CURRENT PARTY STATUS
+## CURRENT SITUATION (as of Chapter 7)
 
-The party consists of four adventurers currently operating in the Triboar area. They are:
+The party is operating in and around **Phandalin**, working through the ruins and excavation-site clearing job that pays in **sending stones**, and taking service from **King Gnercli** (a gnome ruler) against a shapeshifter/"creature" threat — reward promised is a **Hat of Wizardry**. Most recent on-screen event: the party slew a **speaking manticore** at a hilltop windmill (Ch. 7). Recruitment for the region was sparked by a flyer announcing the end of the **War of the Giants** and **War of the Dragons**, calling adventurers south to secure Neverwinter's hinterland.
 
-- **Brewbarry** — a barbarian; wields a halberd (currently recovering his weapon from the barrel-room mimic's body).
-- **Vukradin** — a spellcaster whose magical words can be resisted by certain creatures; confirmed killer of the ogre in the barrel room and of a fleeing bandit.
-- **Soma** — capable of decisive strikes and poison attacks (spider bite/poison); killed the mimic at Triboar.
-- **Valphine** — a ranged combatant (crossbow) with the ability to identify enchantments.
-- **An unnamed bard** — not identified by name in current records; uses invectives as attacks.
+**Party roster (player characters):**
+| Character | Class/Race | Notes |
+|-----------|-----------|-------|
+| Vukradin | Bard / Aasimar | Uses Command and offensive incantations; carries daggers |
+| Soma | Druid / Tortle | Wields **Meril's Staff** (borrowed) as spell focus; Poison Spray, Thorn Whip, Ice Knife/shards |
+| Valphine (Sotorra) | Cleric / Drow | Sacred Flame, mace; carries the recovered hand crossbow and Abbathor holy symbol |
+| Brewbarry | Barbarian / Goliath | Front-line melee; halberd + axe; wields the **Dragon Slayer Sword** (see Uncertainty) |
 
-**Current party funds:** 50 gold pieces, divided four ways.
-
----
-
-## 2. ENTITY DOSSIERS — RECENT (Current Window)
+*Note:* A "bard" appears in the Hall of Greed combat log alongside all four named PCs — likely Vukradin, but logged separately.
 
 ---
 
-### Mimic (Triboar)
+## LOCATIONS
 
-- **Status:** Dead — killed by Soma's decisive strike.
-- **Location:** Battlefield near Triboar; corpse left at the site.
-- **Allegiance:** None — independent opponent.
-- **Notable traits:** Nimble and normally precise in strikes; possessed "multifaceted eyes" with an unnerving flicker; its "alien intelligence" allowed it to resist Vukradin's magical words/spell entirely.
-- **Nature:** Described as a "temporary blight on the material world" — an unnatural creature not native to the material plane.
-- **In combat:** Missed its strike at Brewbarry; withstood Vukradin's spell; slain by Soma's final blow.
+### Phandalin (region hub)
+Party base of operations. Contains the **Stonehill Inn** (innkeeper: **Toblen**), a **Townmaster's Hall**, and a **temple** currently harboring a live ochre jelly. Recruitment flyers circulate here; quest notices are posted (including a 50 gp job to warn dwarf prospectors, sharing a sheet with a grave-robbery notice). No buyer was found here for the party's sending stones.
 
----
+### The Windmill (hill)
+A windmill on a hill; site of the Ch. 7 manticore fight (slain on the second floor). A human named **Corbin** was present (the manticore wanted to eat him).
 
-### Bandit(s) (Triboar)
+### The Hall of Greed (dwarven ruin)
+A shrine to **Abbathor**, dwarven god of greed. Contains a blood-stained altar, a dwarf priest's skeleton (looted), and — in a northern alcove — an intact statue of a horned "greed god" cupping a **glowing green gem** (still in place, deemed not worth taking). Cleared of ochre jellies by the party.
 
-- **Status:** Dead.
-- **Location:** Triboar area.
-- **Cause of death:** Multiple overlapping deaths recorded:
-  - One decapitated by Brewbarry's halberd swing.
-  - One killed by Soma's spider bite/poison.
-  - One fleeing bandit shot in the back by Soma and killed by Vukradin.
-- **Notable events:** One bandit drew a crossbow, missed, and fled in fear before being killed.
-- **Allegiance:** Unspecified bandit group; no further affiliation known.
+### The Excavation Site
+A foggy incline / mountain-pass area. Cleared by the party of orcs and two ogres. Loot recovered here: walloping ammunition and a hand crossbow.
+
+### The Dark Realms
+Location of the Ch. 6 mimic fight. Underdark-adjacent; associated with **Faerzress** (native Underdark magic that acts as a natural forbiddance barrier).
+
+### Cloak Tower ("Cloaktower")
+A tall landmark referenced only by analogy (Soma's falling-damage comparison). Location, ownership, and condition unestablished.
 
 ---
 
-### Gold Bell
+## NPCs & FACTIONS
 
-- **Status:** Unknown.
-- **Location:** Unknown.
-- **Significance:** Unclear. No confirmed facts establish what this object is, who holds it, or its relevance to the campaign.
+### King Gnercli
+Gnome ruler who has retained the party to deal with a **shapeshifter / "creature"** threat. Reward offered: a **Hat of Wizardry** (still in his possession — not yet delivered). The shapeshifter threat is unresolved.
 
----
+### Toblen
+Innkeeper of the Stonehill Inn, Phandalin. Source of hearsay that a **dragon** (or dragons) keeps treasure hoards nearby. No direct dragon encounter has occurred.
 
-## 3. ENTITY DOSSIERS — BACKGROUND (Earlier Chapters)
+### Corbin
+A human present at the windmill during the manticore fight; the manticore preferred to eat him. Survived the encounter (party refused to hand him over).
 
----
+### The Dwarves / Gnomes (ruin-clearing employers)
+A group of dwarves (associated with a Vukradin — possibly the PC or a namesake) contracted the party to clear ogres and oozes from ruins; payment was the **sending stones**, handed to Valphine by gnomes once the ruins were clear. These dwarves fled the ochre jelly in the Phandalin temple rather than fight it.
 
-### Ogre (Barrel Room)
-
-- **Status:** Dead — killed by Vukradin's killing blow (chapter 3).
-- **Location:** Barrel room — the encounter site.
-- **Allegiance:** None indicated.
-- **Equipment:** Wielded an axe in combat, used against Brewbarry; recovery of the axe by the party is unconfirmed.
-- **Combat notes:**
-  - Resilient hide — a mace blow from Valphine and an axe blow from Brewbarry both failed to harm it.
-  - Wounded by Valphine's crossbow bolt before death.
-  - Was harmed by a cloud of green gas.
-  - Attempted to flee; shot by Valphine but kept running.
-- **Defining actions:** Was prone under the sun, then stood; targeted and attacked Brewbarry ineffectively; killed by Vukradin.
-- **Motivations:** Pure self-preservation — fled when the fight turned against it.
+*Attribution caution:* "Vukradin's group/party/dwarves" appears in several object records. It is unclear whether this refers to the PC Vukradin or a separate dwarven party of the same name. Do not conflate without confirmation.
 
 ---
 
-### Mimic (Barrel Room)
+## OBJECTS & ITEMS
 
-- **Status:** Alive and engaged in combat as of the latest confirmed sighting (chapter 3) — outcome of the fight unconfirmed.
-- **Location:** Barrel room (was disguised as a barrel).
-- **Allegiance:** None — independent monster.
-- **Combat condition:**
-  - Wounded — struck by Brewbarry's halberd, which was **stuck in the mimic's body** as of the last confirmed state.
-  - Revealed from its barrel disguise; pseudo-pods extended; massive mouth of razor-sharp teeth open.
-- **In combat with:** Brewbarry and the party; its pseudopod attacks against Brewbarry missed so far.
-- **Key insight:** Flinched visibly when the bard used invectives — Valphine identified an **underlying enchantment** on the mimic causing this reaction.
-- **Uncertainty:** Whether the mimic was killed, escaped, or defeated the party is unconfirmed.
-
----
-
-### Hat of Wizardry
-
-- **Type:** Magic item — magical headwear providing spellcasting utility.
-- **Offered by:** King Gnercli, as treasure/reward for dealing with "the creature."
-- **Current status:** Offered but delivery not confirmed; current holder unknown.
-- **Note:** Which creature "the creature" refers to is unspecified.
+| Item | Holder | State |
+|------|--------|-------|
+| **Sending Stones** (pair) | Party (via Valphine) | Kept; each sends one short message across any distance. NOT a continuous music relay. ~couple hundred gp. |
+| **Hat of Wizardry** | King Gnercli | Offered as reward, not yet delivered. Properties unspecified. |
+| **Meril's Staff** | Soma | Borrowed magic staff; spell focus for Poison Spray. Original owner "Meril" unidentified. |
+| **Holy Symbol of Abbathor** | Valphine (in pouch) | Jeweled dagger on silver chain, runes "Greed is good." ~50 gp. Looted from dwarf priest skeleton. |
+| **Glowing Green Gem** | Horned-dwarf statue (Hall of Greed) | Left in place. Magical, humming. |
+| **Hand Crossbow** (excavation) | Valphine | Recovered at excavation site; polished stock, compact limbs. Used to fire walloping rounds. |
+| **Walloping Ammunition** | Valphine | Knockdown enchantment. Taken from an ogre; loaded/fired at excavation site. |
+| **Dragon Slayer Sword** | Brewbarry (per campaign guide) | Anti–white-dragon weapon. See Uncertainty — Ch. 2 facts attribute the same quote to multiple carriers. |
 
 ---
 
-### Ogre (Phandalin)
+## MONSTERS (current status)
 
-- **Status:** Dead — killed in battle with the party in the valley near Phandalin (chapter 2).
-- **Location:** The valley; corpse left at the battle site.
-- **Allegiance:** None — a lone, hungry ogre.
-- **Equipment:** None. Brewbarry pulled his halberd from the ogre's corpse after it was slain.
-- **Circumstances of encounter:** The party confronted it on their march back to Phandalin after Vukradin heard it whistling ahead.
-- **Defining actions:**
-  - Stood in the middle of the valley, shouting that it was hungry.
-  - Demanded turtle, pointing at Soma, rejecting offered food.
-  - Threatened to eat Turtle and the party: *"I'm hungry! I eat Turtle! I eat you!"*
-  - Howled after Soma said the party killed its brother.
-  - Covered in poison by Soma.
-  - Charged at Brewbarry, who dodged; the ogre missed.
-  - Took a bloody (non-lethal) blow before being killed.
-- **Motivations:** Hunger — specifically wanted turtle; revenge (it had a brother the party allegedly killed).
-- **Uncertainty:** The exact killing blow is unconfirmed. Soma's claim about the dead brother is unverified.
+| Creature | Status | Location | Notes |
+|----------|--------|----------|-------|
+| Manticore | **Dead** (Brewbarry) | Windmill, 2nd floor | Spoke; bargained to eat Corbin; prefers human flesh (a general manticore trait per Adabra) |
+| Mimic (Dark Realms) | **Dead** (Soma) | Dark Realms | "Alien intelligence," adapted to magic; immune to Soma's poison; had Brewbarry's halberd stuck in it |
+| Mimic (barrel room) | **Likely dead** | Barrel room | Wounded, halberd stuck; last logged missing its attack. May be same creature as the Dark Realms mimic. |
+| Ogre #1 (hillside) | **Dead** (Valphine, Sacred Flame) | Hillside near excavation | Whistling; carried heavy club |
+| Ogre #2 (pass) | **Dead** (party) | Mountain pass | Brother of Ogre #1; wanted to eat Soma ("I like turtle"); greataxe; severed own toe |
+| Ogre (barrel room) | **Dead** (Vukradin) | Barrel room | Fled after green gas, pursued and killed |
+| Orcs (excavation) | **Dead** (all; last two by Brewbarry's halberd) | Excavation incline | Hostile to Uthgardt blood; greataxes, javelin, hide armor; total count never confirmed |
+| Ochre Jellies (Hall of Greed) | **Dead** (party) | Hall of Greed | Multiple; split when cut; hard to burn |
+| Ochre Jelly (Phandalin) | **Alive** | Phandalin temple | Dwarves fled it; still at large |
+| Dragon | **Alive (hearsay only)** | Unknown | Only Toblen's hoarding rumor; no encounter |
 
 ---
 
-## 4. OPEN THREADS & MYSTERIES
+## OPEN THREADS & MYSTERIES
 
-### Active Combat / Unresolved Encounters
+**Immediate / active:**
+- **The shapeshifter ("creature") for King Gnercli** — unresolved; the party's current contract. Hat of Wizardry pending on completion.
+- **Live ochre jelly in the Phandalin temple** — still at large; dwarves fled it. Loose threat in the party's own base.
+- **The dragon** — existence known only from Toblen's hoard rumor. No location, disposition, or even singular-vs-plural confirmed.
 
-1. **Barrel-room mimic fate:** The encounter's outcome was never confirmed — the mimic was wounded, halberd stuck in its body, and its attacks were missing; whether it was killed, escaped, or is still alive remains open. **Is the halberd recovered? If the mimic survived, is it still a threat?**
-
-2. **The mimic's enchantment:** Valphine identified an underlying enchantment causing the barrel-room mimic to flinch at the bard's invectives. **Who placed this enchantment, and what purpose does it serve?**
-
-### Identity and Motives
-
-3. **The ogre's brother (Phandalin):** Soma claimed the party killed the ogre's brother. **Was this true? If so, when and where did this happen?**
-
-4. **The unnamed bard:** The party includes a bard whose identity is not recorded. **Who are they, where did they join, and what are their motivations?**
-
-### Objects and Rewards
-
-5. **Gold bell:** An entity referenced in campaign notes with zero confirmed facts. **What is it, who has it, and why does it matter?**
-
-6. **Hat of Wizardry:** Offered by King Gnercli as a reward for dealing with "the creature." **Was it ever delivered? Is it in the party's possession? Which creature was "the creature"?**
-
-### Geographic and Historical
-
-7. **The Triboar bandit group:** The bandits encountered at Triboar had no known affiliation. **Are they part of a larger operation? Is retaliation possible?**
-
-8. **The mimic (Triboar) as "unnatural":** Described as a "temporary blight on the material world" — not native to the material plane. **What brought it here? Was its arrival connected to anything else in the region?**
+**Background / continuity:**
+- **Corbin** — who he is and why the manticore fixated on him is unexplored.
+- **Meril** — identity of the staff's namesake/original owner unknown.
+- **The two mimics** — the barrel-room mimic (last seen wounded with Brewbarry's halberd stuck in it) and the Dark Realms mimic (dead, also with Brewbarry's halberd stuck in it) may be the same encounter logged twice. Halberd recovery unconfirmed in both cases.
+- **Ogre #2's odd self-identifications** — "I, eternal elf" and refusing intimidation ("Nobody frightens the ogre") — unexplained flavor, possibly nothing.
+- **Cloak Tower** — referenced but never visited; region/ownership unknown.
+- **Adabra** — named as a knowledge source on manticore behavior (Soma's mentor per campaign guide); not on-screen in these chapters but referenced.
 
 ---
 
-## 5. CANON EVENTS TIMELINE
+## CANON EVENTS TIMELINE (chronological reference)
 
-| Chapter | Event |
-|---------|-------|
-| 2 | Party encounters and kills the ogre in the valley near Phandalin; Soma claims the party killed the ogre's brother; Brewbarry recovers his halberd from the corpse. |
-| 3 | Party enters the barrel room; ogre (barrel room) fights and is killed by Vukradin. Mimic (barrel room) reveals itself from barrel disguise; Brewbarry's halberd becomes stuck in it; Valphine identifies an underlying enchantment on the mimic; outcome of the fight unconfirmed. King Gnercli offers the Hat of Wizardry as a reward for dealing with "the creature." |
-| 4 | Party near Triboar encounters a mimic (Triboar) that resists Vukradin's magic; it is killed by Soma's decisive strike. Multiple bandits (Triboar) are killed — one decapitated by Brewbarry, one killed by Soma's poison/bite, one fleeing shot by Soma and killed by Vukradin. Party holds 50 gold split four ways. |
+1. **Ch. 1** — Faerzress established as native Underdark magic acting as a natural forbiddance.
+2. **Ch. 2** — Recruitment flyer (end of War of the Giants / War of the Dragons) draws adventurers to Phandalin's hinterland; Brewbarry stains it with ale at the piano bar. Quest notices posted (50 gp to warn dwarf prospectors; grave-robbery notice). Toblen at the Stonehill Inn shares dragon-hoard hearsay. Dwarves sight the ochre jelly in the Phandalin temple and flee. Dragon Slayer Sword in play.
+3. **Ch. 2–6** — Sending stones earned as the fee for clearing ogres/jellies from ruins; handed to Valphine by gnomes; no buyer found, party keeps them.
+4. **Ch. 3** — Hall of Greed cleared: party destroys the ochre jellies; Valphine loots the Abbathor holy symbol from the dwarf-priest skeleton; the glowing green gem left in the horned-dwarf statue's hands.
+5. **Ch. 4** — Excavation site: party kills the orcs and both ogre brothers. Valphine acquires the hand crossbow and walloping ammunition from ogre loot. Soma wields Meril's Staff. Cloak Tower referenced.
+6. **Ch. 5** — Barrel room: Vukradin kills the fleeing ogre; the barrel-mimic wounded (Brewbarry's halberd stuck in it, outcome open). King Gnercli offers the Hat of Wizardry to resolve the shapeshifter/creature threat.
+7. **Ch. 6** — Dark Realms: party (Brewbarry, Vukradin, Soma) kills the magic-resistant mimic; Soma lands the killing blow.
+8. **Ch. 7 (PRESENT)** — Windmill: the party fights and slays a speaking manticore that bargained to eat the human Corbin; Brewbarry delivers the kill on the windmill's second floor.
 
 ---
 
-*This document represents the current authoritative state of the world. Where background and recent facts conflict, recent chapters (4 and later) take precedence.*
+*Precision flags for the GM:* (1) The Dragon Slayer Sword's Ch. 2 holder is ambiguous in-source — campaign guide assigns it to Brewbarry; treat that as authority. (2) "Vukradin's dwarves/group" may be distinct from PC Vukradin — do not merge without confirmation. (3) The barrel-room and Dark Realms mimics may be one encounter; verify against session transcripts before treating as two.
