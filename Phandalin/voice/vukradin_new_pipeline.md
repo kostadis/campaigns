@@ -1,41 +1,5 @@
-Task:
-Rewrite the scene in Vukradin's first-person voice.
+# Vukradin — Voice
 
-Primary objective:
-Change the narration so it reads as Vukradin's internal voice.
-
-Non-negotiable constraints:
-1. Do not change any quoted text.
-2. Preserve every quoted line exactly as written, including wording, contractions, punctuation, capitalization, spacing inside the quotes, and order.
-3. Do not remove any quoted text.
-4. Do not add any new quoted text.
-5. Do not split, merge, paraphrase, shorten, expand, or reorder quoted lines.
-6. If a quoted line does not perfectly match Vukradin's voice, leave it unchanged and make the surrounding narration carry the voice instead.
-7. Treat every substring between quotation marks as immutable text when it is in-fiction character speech. Immutability protects what a person actually said inside the story.
-8. Do not modify any characters inside quotation marks. Never rewrite the inside of a quotation mark.
-
-Scope of constraints 1–8: they govern in-fiction character speech. A quoted span that the system prompt's quoted-speech rules identify as mislabelled GM table speech is not character speech and is not protected here — it addresses a player in the second person, describes its own speaker in the third person, embeds a speech tag inside the quotation marks, or names the POV character in the third person inside their own quote. Such a span follows the system prompt instead: DROP the quote, render the beat as narration, and record the span in the reclassification audit comment. Never invent an in-fiction justification for a line its labelled speaker could not have said.
-
-Event preservation constraints:
-1. Do not change the underlying events, sequence, outcomes, decisions, or factual content.
-2. Do not add new plot points, motives, actions, or revelations.
-3. Do not remove existing information that affects meaning.
-4. Do not alter who knows what, when they know it, or why they act.
-5. Preserve the same causal structure of the scene.
-
-Allowed changes:
-1. Rewrite narration outside quotation marks.
-2. Rewrite internal commentary outside quotation marks.
-3. Adjust descriptive emphasis outside quotation marks.
-4. Convert narration into Vukradin's first-person perspective if needed.
-5. Reorder or reshape non-quoted narration only if necessary to produce a coherent first-person Vukradin voice while preserving all events and the position of quoted lines relative to the scene's action.
-
-Perspective rules:
-1. The rewritten scene must read as Vukradin's first-person internal narration.
-2. The voice must come through in the narration, interpretation, emphasis, rhythm, and transitions outside quotation marks.
-3. Do not rewrite dialogue to force voice consistency. Dialogue is locked.
-
-Vukradin voice specification:
 - Vukradin is an aasimar bard of the College of Eloquence who genuinely believes that, given enough words, any room will resolve into harmony. He talks because he assumes connection is the natural outcome of speech. He is not charming you to extract anything.
 - He is morally outraged by corruption, cruelty, and theft every single time he encounters them, and he never stops being outraged. The outrage is structural, not performative.
 - His narration alternates two registers: long, clause-stacking, self-propelled sentences when he is reframing or building a moral case, and short single-word verdict landings when the case is closed.
@@ -54,7 +18,8 @@ Vukradin voice specification:
 - He uses casual profanity rarely and only when his outrage has hit verdict register.
 - He names corruption directly — Tibor Wester, House Margaster, Adabra, Falcon — not "the system" abstractly.
 
-Failure-prevention rules:
+## Failure-prevention rules
+
 1. Do not make Vukradin sound cynical, smirking, or sardonic. He is sincere. Snark is not his connective tissue.
 2. Do not write him as a manipulator or as a knowing wit. Same vocabulary as a manipulator, opposite engine. If a sentence reads as winking, blunt it into sincerity.
 3. Do not have him register the dark interpretations of his own clean procedural language. He does not hear "1 HP" as a torture instruction; he hears it as a life-preservation constraint.
@@ -64,13 +29,3 @@ Failure-prevention rules:
 7. Do not have him apologize for prior verdicts when his read of someone updates. He names the new verdict; he does not relitigate the old one.
 8. Do not let long building sentences drift without landing in a clear verdict.
 9. Do not flatten him into generic earnest cleric prose. The procedural mechanical register, the cheerleading, and the ledger reflex must all be present.
-10. Do not alter any quote even if it seems tonally inconsistent.
-
-Output requirements:
-1. Output only the rewritten scene.
-2. Do not add notes, explanations, summaries, or commentary.
-3. Do not mention the constraints.
-4. Preserve markdown formatting unless a change is required by the first-person rewrite.
-
-Scene:
-[PASTE SCENE HERE]
