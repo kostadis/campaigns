@@ -2,11 +2,54 @@
 name: "Pip Thistlewick"
 player: ""
 species: "Human"
-class_level: "Fighter 3"
+class_level: "Fighter 4"
 subclass: ""
 ---
 
 # Pip Thistlewick
+
+*Medium humanoid, chaotic good*
+
+**Level 4 fighter sidekick**
+
+**Armor Class** 16 (chain shirt, shield)\
+**Hit Points** 32 (5d8 + 10)\
+**Speed** 30 ft.\
+
+| STR | DEX | CON | INT | WIS | CHA |
+|---|---|---|---|---|---|
+| 16 (+3) | 13 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 13 (+1) |
+
+**Saving Throws** Str +5, Con +4\
+**Skills** Athletics +5, Intimidation +3, Perception +3, Survival +3\
+**Senses** passive Perception 13\
+**Languages** Common\
+**Proficiency Bonus** +2\
+
+***Obelisk Shiver.*** When Pip is within 60 feet of an obelisk fragment or strong psionic magic, he gets a pressure headache and hears faint whispers. He can sense the general direction, but not the exact location.
+
+### Actions
+
+***Talon (+1 Longsword).*** *Melee Weapon Attack:* **+6 to hit**, reach 5 ft., one target. *Hit:* **8 (1d8 + 4) slashing damage**, or **9 (1d10 + 4)** if used with two hands (shield not in use).
+
+***Javelin.*** *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 6 (1d6 + 3) piercing damage.
+
+### Bonus Actions
+
+***Second Wind (1/Short or Long Rest).*** Pip regains **1d10 + 1 hit points**.
+
+***Shield Check.*** Pip attempts to shove one creature within 5 feet of him. He makes a **Strength (Athletics) check (+5)** contested by the target's Strength (Athletics) or Dexterity (Acrobatics). On a success, he either pushes the target 5 feet or knocks it prone.
+
+### Reactions
+
+***Protective Instinct (2/Short Rest).*** When a creature Pip can see attacks an ally within 5 feet of him, he imposes disadvantage on the attack roll. Requires a shield.
+
+***"Returned." (1/Short or Long Rest).*** The whispers warn Pip a heartbeat early. When he uses Protective Instinct against an attack made by an Aberration or by a creature wielding psionic power, the attack misses outright instead of having disadvantage. Once he uses this trait, he cannot use it again until he finishes a short or long rest.
+
+---
+
+<details>
+<summary>Background, roleplaying, session history, and leveling</summary>
 
 **Sidekick** — human fighter, chaotic good. Front-line guard, bodyguard, practical muscle for Zenvon Forepot.
 *Extracted from `notes/open.md` (2026-06-12). Campaign-original character, not from the module. Note: the module's Pip (Toblen Stonehill's son) is renamed Tuck Stonehill to avoid collision — unqualified "Pip" always means this sidekick.*
@@ -42,49 +85,11 @@ Pip likes the rogue if the rogue:
 
 - **First Road Omen:** when the black stone cracked under the wagon wheel, Pip heard a whisper say: "Returned."
 - **After the ambush:** Pip recognizes the goblin's black stone charm as similar to the shard he sold.
-- **Obelisk Shiver** (trait, below) is the mechanical face of this connection.
+- **Obelisk Shiver** (trait, above) is the mechanical face of this connection.
 
 ## Combat Role
 
 Moves to the front line, raises his shield, and tries to keep enemies away from the rogue. Uses shove, positioning, and opportunity attacks to protect the wagon. Stands between enemies and the rogue, tries to pin threats in place, and creates openings for Sneak Attack. He is brave, practical, and loud enough to draw attention when needed.
-
-## Stat Block (3rd-level sidekick)
-
-*Medium humanoid, chaotic good*
-
-**Armor Class** 16 (chain shirt, shield)
-**Hit Points** 26 (4d8 + 8)
-**Speed** 30 ft.
-
-| STR | DEX | CON | INT | WIS | CHA |
-|---|---|---|---|---|---|
-| 15 (+2) | 13 (+1) | 14 (+2) | 10 (+0) | 12 (+1) | 13 (+1) |
-
-**Saving Throws** Str +4, Con +4
-**Skills** Athletics +4, Intimidation +3, Perception +3, Survival +3
-**Senses** passive Perception 13
-**Languages** Common
-**Proficiency Bonus** +2
-
-***Protective Instinct.*** When a creature Pip can see attacks an ally within 5 feet of him, Pip can use his reaction to impose disadvantage on the attack roll. He must be wielding a shield.
-
-***Protection Training.*** Pip can use Protective Instinct twice per short rest.
-
-***Second Wind.*** Pip can use a bonus action to regain 1d10 + 1 hit points. Once he uses this trait, he cannot use it again until he finishes a short or long rest.
-
-***Obelisk Shiver.*** When Pip is within 60 feet of an obelisk fragment or strong psionic magic, he gets a pressure headache and hears faint whispers. He can sense the general direction, but not the exact location.
-
-***"Returned."*** The whispers warn Pip a heartbeat early. When he uses Protective Instinct against an attack made by an Aberration or by a creature wielding psionic power, the attack misses outright instead of having disadvantage. Once he uses this trait, he cannot use it again until he finishes a short or long rest.
-
-### Actions
-
-***Longsword.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8 + 2) slashing damage, or 7 (1d10 + 2) slashing damage if used with two hands.
-
-***Javelin.*** *Melee or Ranged Weapon Attack:* +4 to hit, reach 5 ft. or range 30/120 ft., one target. *Hit:* 5 (1d6 + 2) piercing damage.
-
-### Bonus Actions
-
-***Shield Check.*** Pip attempts to shove one creature within 5 feet of him. He makes a Strength (Athletics) check contested by the target's Strength (Athletics) or Dexterity (Acrobatics). On a success, he either pushes the target 5 feet or knocks it prone.
 
 ## Session History
 
@@ -110,4 +115,11 @@ Progression: `characters/sidekick_progressions.md` (sidekick level = Zenvon's le
 
 - **Level 2 applied 2026-06-12:** +1 Hit Die (19 HP) and Protection Training, per open.md's leveling notes.
 - **Level 3 applied 2026-08-02:** +1 Hit Die (26 HP) and the obelisk signature feature **"Returned."** (1/short rest), confirmed by Kostadis. Proficiency bonus unchanged at +2; Second Wind stays 1d10 + 1 until level 5.
-- **Next (level 4):** ASI — STR 15 → 16 (attacks +5, damage +3); HP to 32.
+- **Level 4 applied 2026-09-07:** Per the campaign progression and Chapter 11 advancement, STR 15 → 16; 32 maximum HP (5d8 + 10). Strength saves, Athletics, and mundane weapon attacks rise to +5; Strength-based weapon damage adds +3.
+- **Next (level 5):** 39 HP; proficiency bonus +3; Second Wind becomes 1d10 + level.
+
+## Equipment reference
+
+Talon’s +1 bonus is included in the attack above; its use is recorded in `summaries/011-20260904/session_summary.md`. With a mundane longsword instead: +5 to hit, 7 (1d8 + 3) damage, or 8 (1d10 + 3) two-handed. Without his shield, Pip’s AC is 14.
+
+</details>

@@ -19,8 +19,8 @@
 |---|---|---|---|
 | 1 | As written: 13 HP, Protective Instinct, Second Wind, Obelisk Shiver | As written: 11 HP, 2×1st slots, Sacred Medic, Obelisk Unease | As written: 8 HP (see flag), 2×1st slots, Blue Candle, Nervous Genius |
 | 2 | 19 HP; **Protection Training** (Protective Instinct 2×/short rest) | 16 HP; 3rd 1st-level slot | 13 HP; 3rd 1st-level slot |
-| **3** ⬅ | **26 HP; "Returned." (1/short rest)** | **22 HP; Consecrating Touch** | **18 HP; Candlelight Reading** |
-| 4 | 32 HP; ASI: STR 16 (attacks +5, damage +3) | 27 HP; ASI: WIS 16 (DC 13, +5; Sacred Flame 2d8 from char level 5) | 22 HP; ASI: INT 18 (DC 14, +6) |
+| 3 | **26 HP; "Returned." (1/short rest)** | **22 HP; Consecrating Touch** | **18 HP; Candlelight Reading** |
+| **4** ⬅ | 32 HP; ASI: STR 16 (attacks +5, damage +3) | 27 HP; ASI: WIS 16 (DC 13, +5; Sacred Flame 2d8 from char level 5) | 22 HP; ASI: INT 18 (DC 14, +6) |
 | 5 | 39 HP; PB +3; Second Wind = 1d10 + level | 33 HP; PB +3; 2nd-level slots ×2 (add *lesser restoration*, *prayer of healing*) | 27 HP; PB +3; 2nd-level slots ×2 (add *misty step*, *web*); fire bolt 2d10 |
 | 6 | 45 HP; **Extra Attack** | 38 HP; Sacred Medic temp HP = PB | 31 HP; **Candle Ward**: mage armor lasts all day, casts free at dawn |
 | 7 | 52 HP; **Indomitable Guard**: 1/long rest reroll a failed save | 44 HP; 3rd 2nd-level slot; add *hold person* | 36 HP; 3rd 2nd-level slot; add *suggestion* or *invisibility* |
@@ -34,14 +34,19 @@ HP shown is cumulative average for (level + 1) Hit Dice: Pip d8 +2 CON/die, Mael
 
 ---
 
-## Current level: 3 (applied 2026-08-02)
+## Current level: 4 (applied 2026-09-07)
 
-**Pip** — 4d8 + 8 = **26 HP**. Gains **"Returned."**
-**Maela** — 4d8 + 4 = **22 HP**. Gains **Consecrating Touch.**
-**Veyra** — 4d6 + 4 = **18 HP**. Gains **Candlelight Reading.**
-No other numbers change: PB stays +2, both casters stay at 3 × 1st-level slots, no new spells known.
+Advancement awarded at the end of Chapter 11 (`summaries/011-20260904/session_summary.md`); applied to the sheets at the GM’s request. Uses the custom level-4 targets above.
+
+**Pip** — **32 maximum HP** (5d8 + 10); STR 16 (+3); Strength saves and Athletics +5; mundane weapon attacks +5, damage modifier +3.
+**Maela** — **27 maximum HP** (5d8 + 5); WIS 16 (+3); spell DC 13, spell attacks +5; Wisdom saves, Insight, and Medicine +5; passive Perception 13.
+**Veyra** — **22 maximum HP** (5d6 + 5); INT 18 (+4); spell DC 14, spell attacks +6; Intelligence saves, Arcana, History, and Investigation +6.
+
+HP averages are rounded down. PB stays +2; both casters retain three 1st-level slots and their existing spells. Cantrip damage increases at level 5. These are maximum-HP updates, not a recorded rest or restoration of spent resources.
 
 ### Previously applied
+
+**Level 3 (2026-08-02)** — Pip 26 HP and **"Returned."**; Maela 22 HP and **Consecrating Touch**; Veyra 18 HP and **Candlelight Reading**.
 
 **Level 2 (2026-06-12)** — verbatim from open.md. Pip 19 HP + **Protection Training** (Protective Instinct 2×/short rest); Maela 16 HP + a third 1st-level slot; Veyra 13 HP + a third 1st-level slot.
 
