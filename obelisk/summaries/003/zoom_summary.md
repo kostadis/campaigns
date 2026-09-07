@@ -1,101 +1,99 @@
-Key Takeaways
-- The session was an in-person Dungeons & Dragons game run by Kostadis (Dungeon Master), with Nikhil as the player controlling the character Zenvon (a rogue).
-- The party successfully cleared the Cragmaw Hideout, defeating multiple goblins, wolves, and the bugbear leader Klarg.
-- Key NPCs Sildar and the party were reunited; Sildar provided critical lore about the Black Spider and the missing Gundren.
-- The party collected loot including healing potions, copper pieces, a jade statuette, and merchant provisions.
-- A mysterious goblin with an elongated head was mentioned by Sildar, who whispered an unknown phrase: "You're not what Ruxithid wants."
-- Sildar offered 50 gold pieces to be escorted to Neverwinter/Phandalin.
-- The session concluded with the party heading back to Phandalin for a long rest.
----
-Discussed Topics
-Session Recap and Setup
-Kostadis reviewed the previous session summary with Nikhil using the GM Assistant app to orient the player before beginning play.
-- Details
-    - Kostadis: The party had previously escaped goblins, rescued Sildar, and gained a level.
-    - Kostadis: Explained the D&D mechanics of long rest vs. short rest and resource management.
-- Conclusion
-    - The party began the session rested and ready to return to the Cragmaw Hideout cave.
-Conversation with Sildar
-The party debriefed with Sildar after rescuing him, gathering key plot information.
-- Details
-    - Kostadis (as Sildar): Revealed the party was ambushed on the Triboar Trail; someone tipped off the goblins — it was not a random robbery.
-    - Kostadis (as Sildar): Gundren was dragged away separately; the name "Black Spider" was overheard among the goblins.
-    - Kostadis (as Sildar): Identified himself as a member of the Lord's Alliance and stressed the importance of capturing or eliminating Klarg before he could send word ahead.
-    - Nikhil (as Zenvon): Attempted to persuade Sildar to join the party; rolled a 16 on persuasion but Sildar declined, citing injuries and other missions.
-    - Kostadis (as Sildar): Agreed to wait at the camp and offered to pay 50 gold pieces for an escort to Neverwinter/Phandalin.
-- Conclusion
-    - The party decided to proceed into the cave to eliminate Klarg and gather information on Gundren's whereabouts.
-World-Building: Factions of the Forgotten Realms
-Kostadis provided Nikhil with background lore on the major factions operating in the North.
-- Details
-    - Kostadis: Described the Lord's Alliance as the ruling castes of major city-states, favoring centralized power.
-    - Kostadis: Described the Harpers as committed to preventing any single faction from gaining full control, favoring decentralization.
-    - Kostadis: Described the Order of the Gauntlet as heroic, combat-focused, and morality-driven.
-    - Kostadis: Described the Emerald Enclave as nature-preserving, druid-aligned, and internally divided on what "preserving nature" means.
-    - Kostadis: Described the Zhentarim (Black Network) as a trade-controlling criminal organization, originally a cult of an evil god, now focused on monopolizing commerce.
-- Conclusion
-    - Nikhil gained foundational understanding of the political landscape relevant to the campaign.
-Cave Entrance Combat (Goblins and Wolves)
-The party entered the Cragmaw Hideout and engaged goblins and wolves at the cave entrance.
-- Details
-    - Nikhil (as Zenvon): Attempted to distract wolves by throwing food; rolled 19 on sleight of hand, successfully luring the wolves.
-    - Kostadis: Managed initiative rolls for all party members including Pip, Sister Maela, and Veyra.
-    - Nikhil (as Zenvon): Used dual-weapon fighting (scimitar and dagger) with sneak attack, killing the first goblin with 9 points of damage.
-    - Kostadis: A wolf bit Zenvon for 5 points of damage; Zenvon passed the DC 11 strength saving throw and was not knocked prone.
-    - Kostadis: Explained the Nick fighting style mechanic, sneak attack damage scaling, and dual-weapon attack rules.
-    - Nikhil (as Zenvon): Dropped to near 1 hit point; Sister Maela cast Cure Wounds, healing Zenvon to full (16 HP including temp HP).
-    - Kostadis: A flood triggered by goblins releasing a dam swept through the cave; Veyra failed her dexterity saving throw and was caught in the flood.
-    - Nikhil (as Zenvon): Rolled a 19 on sleight of hand to grab Veyra before she was swept away.
-- Conclusion
-    - All goblins and wolves at the cave entrance were defeated; the party proceeded deeper into the cave.
-Inner Cave Combat (Goblins, Wolves, and Klarg the Bugbear)
-The party advanced into the main cavern and engaged the remaining enemies, including Klarg.
-- Details
-    - Nikhil (as Zenvon): Used deception (rolled 15) to imitate a goblin voice, luring one goblin closer for a surprise attack.
-    - Nikhil (as Zenvon): Rolled a natural 20 on stealth after killing a goblin, allowing the kill to go unnoticed.
-    - Kostadis: Klarg the bugbear appeared and engaged the party; Pip and Sister Maela took significant damage.
-    - Veyra: Used Magic Missile for 15 points of damage on Klarg and killed a fleeing goblin with a critical firebolt (7 points of damage) before it could escape and alert others.
-    - Nikhil (as Zenvon): Landed the killing blow on Klarg using Nick scimitar + dagger combo for 8 points of damage (Klarg had 5 HP remaining).
-    - Kostadis: Sister Maela successfully used animal handling to subdue the remaining wolves rather than killing them.
-- Conclusion
-    - Klarg was killed; all goblins and wolves in the main cavern were neutralized; the Cragmaw Hideout was cleared.
-Looting Klarg's Cave
-The party searched the cave for valuables after combat.
-- Details
-    - Kostadis: Described sacks and crates marked with a blue lion — the symbol of the Lionshield Coster merchant company from Phandalin.
-    - Kostadis: The party found 1,700 copper pieces, two potions of healing, and a jade statuette of a frog with tiny golden eyes.
-- Conclusion
-    - Loot was collected; the merchant provisions could potentially be returned to the Lionshield Coster for a reward.
-Return to Phandalin and Sildar's Revelation
-The party escorted Sildar back toward Phandalin, during which he shared an additional piece of information.
-- Details
-    - Kostadis (as Sildar): Mentioned a strange goblin with an elongated head who was present during the ambush on the Triboar Trail.
-    - Kostadis (as Sildar): The goblin whispered, "You're not what Ruxithid wants," a phrase neither Sildar nor the party could interpret.
-    - Kostadis (as Sildar): Offered 50 gold pieces to be escorted to Neverwinter or Phandalin.
-- Conclusion
-    - The mysterious goblin and the phrase represent an unresolved plot thread for future sessions.
-    - The party agreed to escort Sildar and headed to Phandalin for a long rest.
+https://github.com/kostadis/mytools/tree/main/pdf-translators/adventure_model_minimalDiscussed Topics
+Session Recap and Story Context
+Kostadis provided a narrative recap of the previous session to orient Nikhil Reddy before continuing play.
+Details
+    Kostadis: The party arrived in Phandalin, gathered information at the Stonehill Tavern, learned about the Red Brands gang and their leader Glasstaff operating from Tresendar Manor, and received a warning about blackstone fragments tied to a powerful obelisk.
+    Kostadis: The party traveled the Goblin Trail, survived traps (a hidden pit and a snare), defeated goblin lookouts at the cave entrance, and Zenvon scouted ahead, encountering a massive coiled snake before retreating.
+Conclusion
+    The recap established the current state of the adventure and set the stage for continuing into Cragmaw Cave.
+Navigating the Cave — Wolves and the Giant Snake
+The party regrouped and strategized on how to proceed deeper into the dark cave.
+Details
+    Kostadis: Explained that Veyra and Sister Maela have darkvision (60 feet), while Zenvon and Pip cannot see in the dark, creating a tactical disadvantage.
+    Nikhil Reddy: Decided to pair Zenvon with Veyra and Maela with Pip to form two teams capable of operating in darkness.
+    Kostadis: Advised swapping the pairing so the fragile magic user Veyra is protected by the fighter Pip, and Zenvon pairs with the cleric Sister Maela.
+    Nikhil Reddy: Agreed to the revised pairing.
+    Kostadis: Conducted a group stealth check — Zenvon rolled 15, Sister Maela rolled 9; wolves had a perception of 13, so the party passed undetected.
+    Nikhil Reddy: Decided to bypass the three wolves and proceed toward the snake rather than engage them.
+    Kostadis: The party rolled stealth (Zenvon rolled 25) and slipped past the snake undetected, then chose to attack it with surprise.
+Conclusion
+    The party successfully avoided the wolves and initiated combat against the giant poisonous snake.
+Combat — Giant Poisonous Snake
+The party engaged the giant poisonous snake in initiative order.
+Details
+    Nikhil Reddy: Rolled initiative of 21, going first; fired a shortbow but missed (rolled 10).
+    Kostadis: Veyra cast Firebolt and hit for 10 points of damage; Pip threw a javelin but missed due to disadvantage in darkness; Sister Maela attempted Sacred Flame but the snake made its saving throw.
+    Nikhil Reddy: On the second turn, used the shortbow with disadvantage (rolled 23 and 12, taking the lower); the 12 was still a hit and killed the snake.
+    Kostadis: Explained the mechanics of rolling with disadvantage — roll 2d20 and take the lower result.
+Conclusion
+    The giant poisonous snake was defeated. The party proceeded deeper into the cave.
+Combat — Goblins and Goblin Boss Yimek
+Sister Maela's poor stealth roll (3) alerted a group of goblins, triggering a multi-round combat encounter.
+Details
+    Kostadis: Three goblins were spotted; one noticed Sister Maela. Zenvon rolled initiative of 7.
+    Nikhil Reddy: Attempted a deception check, claiming the party had heard heroic stories about Glasstaff and came to meet him; the deception failed.
+    Kostadis: A fourth goblin shouted in Goblin (unknown to the party); Sildar Hallwinter's voice was heard in the distance.
+    Kostadis: The party took a short rest before continuing; Zenvon recovered to 9 hit points.
+    Kostadis: Combat proceeded over multiple rounds — goblins repeatedly targeted Pip, who took significant damage (6 + 3 + 5 points at various stages); Sister Maela used Cure Wounds to heal Pip for 6 hit points.
+    Kostadis: Veyra used Magic Missile, killing one goblin and reducing another to 2 hit points; Pip scored a critical hit (natural 20) on Yimek for 8 points of damage.
+    Nikhil Reddy: Turned on a light source (using his action), removing the darkness disadvantage for subsequent turns.
+    Nikhil Reddy: Attacked Yimek with a short sword for 7 damage, killing one goblin; later attacked the final goblin with a short sword for 9 damage.
+    Kostadis: Sister Maela finished off Yimek with her mace for 6 points of bludgeoning damage; Pip shoved the last goblin prone, granting Sister Maela advantage on her attack.
+    Nikhil Reddy: Delivered the killing blow to the final goblin with a short sword (1 hit point remaining), dealing 9 damage.
+Conclusion
+    All goblins and Yimek (goblin boss) were defeated. Sildar Hallwinter was found alive but badly wounded with 1 hit point.
+Rescue of Sildar Hallwinter
+After clearing the goblin chamber, the party located and freed Sildar Hallwinter.
+Details
+    Kostadis: Sildar was found bound on the southern ledge, weak with 1 hit point remaining.
+    Nikhil Reddy (as Zenvon): Greeted Sildar and proposed getting him healed and to safety.
+    Kostadis (as Sildar): Warned that Klarg the bugbear was not killed and remains a threat deeper in the cave.
+    Kostadis: Confirmed the party did not encounter or kill any bugbears during the session.
+Conclusion
+    Sildar Hallwinter was successfully rescued. The bugbear Klarg remains a pending threat.
+Looting and Inventory Update
+After combat, the party searched for valuables.
+Details
+    Kostadis: Yimek's body contained 3 agates worth 10 gold pieces each and 1 potion of healing.
+    Kostadis: Updated the shared party inventory spreadsheet (SNC0417) pinned in the Discord channel.
+    Nikhil Reddy: Confirmed the potion of healing can be used by any party member, not just Zenvon.
+Conclusion
+    Party inventory updated with 3 gems (30 gold total value) and 1 potion of healing.
+Hiding and Long Rest Setup
+The party exited the cave and sought a safe location to rest.
+Details
+    Nikhil Reddy: Initially suggested hiding near the cleared goblin area; Kostadis noted the presence of dead corpses made this risky.
+    Kostadis: Suggested moving further out; the party found a clearing approximately 100 feet from the cave.
+    Kostadis: Pip (survival +3) rolled a natural 20 on the survival check to hide the party's trail, with Zenvon assisting.
+    Kostadis (as Pip): Instructed the party — "No fires."
+Conclusion
+    The party successfully concealed themselves. A long rest will occur before the next session.
+Leveling Up — Zenvon Reaches Level 2
+Zenvon gained enough experience points to advance from Level 1 to Level 2.
+Details
+    Kostadis: Walked Nikhil Reddy through the level-up process on Roll20 and introduced the RPGBot resource for future reference.
+    Kostadis: Noted that Weapon Mastery had not been selected at Level 1 and guided Nikhil Reddy to choose Scimitar and Short Sword.
+    Kostadis: Explained the Nick weapon property — allows the second attack to be made without using the bonus action, freeing the bonus action for other uses (e.g., Disengage, Hide).
+    Kostadis: Explained the Vex weapon property — if the first attack hits, the next attack against the same target has advantage.
+    Nikhil Reddy: Chose Short Sword as the second Weapon Mastery selection, preferring a dual-weapon melee playstyle.
+    Kostadis: Confirmed Zenvon gains Cunning Action at Level 2 — Dash, Disengage, or Hide can now be taken as a bonus action.
+    Kostadis: Explained the action economy framework: Movement, Action, Bonus Action, and Reaction each turn.
+Conclusion
+    Zenvon is now Level 2 with 15 hit points. Cunning Action significantly improves tactical mobility. Sidekick characters (Veyra, Sister Maela, Pip) still need to be leveled up by Kostadis before the next session.
 ---
 Challenges
-- Darkness in the cave: The party lacked darkvision, creating persistent disadvantage on attack rolls throughout the session until Sister Maela provided light.
-- Zenvon's low hit points: Zenvon was repeatedly brought close to 0 HP due to wolf attacks and the absence of consistent healing.
-- Dual-weapon and sneak attack mechanics: Both Kostadis and Nikhil repeatedly forgot to apply the second attack from dual-weapon fighting, requiring mid-session corrections.
-- Unresolved mystery: The identity of the elongated-headed goblin and the phrase "You're not what Ruxithid wants" remain unexplained.
-- Gundren's location: The party still does not know where Gundren was taken after the ambush.
-- Black Spider: The identity and motives of the Black Spider remain unknown.
+Audio sharing via Zoom was not functioning correctly for most of the session; Roll20 background sounds and ambient audio were not audible to Nikhil Reddy. Kostadis was unable to resolve this during the session.
+Lighting mechanics in Roll20 caused visibility issues for Nikhil Reddy at several points, requiring Kostadis to manually adjust settings mid-session.
+Nikhil Reddy does not yet have direct access to the party inventory spreadsheet; it was shared via the Discord channel during the session.
+The bugbear Klarg remains undefeated in the cave and poses a threat to the party's safety during their rest.
+Sidekick characters (Veyra, Sister Maela, Pip) have not yet been leveled up to Level 2, which Kostadis needs to complete before the next session.
 ---
 Action Items
-- Nikhil (as Zenvon)
-    - Track hit points and temp HP consistently on the character sheet going forward.
-    - Practice using the Disengage bonus action after attacking to avoid taking unnecessary damage in melee.
-    - Remember to use both attacks from dual-weapon fighting each round.
-- Kostadis
-    - Set up the Claude-based goblin name generator for future sessions.
-    - Add a money bag icon to the virtual tabletop to mark loot locations.
-    - Follow up on the Lionshield Coster provisions as a potential quest reward opportunity in Phandalin.
-- Party (in-game)
-    - Escort Sildar to Neverwinter or Phandalin to collect the 50 gold piece reward.
-    - Investigate the identity of the Black Spider and locate Gundren.
-    - Investigate the mysterious elongated-headed goblin and the phrase it whispered to Sildar.
-    - Consider returning the Lionshield Coster provisions for a potential reward.
-    - Take a long rest in Phandalin before the next adventure.
+Kostadis
+    Debug Zoom audio sharing so Roll20 ambient sounds are audible to Nikhil Reddy (Before next session)
+    Level up all sidekick characters — Veyra, Sister Maela, and Pip — to Level 2 (Before next session)
+    Ensure the party inventory spreadsheet link remains accessible and pinned in the Discord channel (Ongoing)
+Nikhil Reddy
+    Review the pinned action economy reference guide shared in Discord to better understand action, bonus action, reaction, and movement options
+    Familiarize himself with RPGBot for future level-up decisions and ability planning
+    Decide on a strategy for dealing with the bugbear Klarg before the next session begins
